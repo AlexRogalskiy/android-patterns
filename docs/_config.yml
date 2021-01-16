@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+
+permalink: pretty
+
+baseurl: https://github.com/AlexRogalskiy/android-patterns
+title: Android Design Patterns
+description: Explores different architectural concepts and design principles for Android applications
+
+author: Alexander Rogalskiy
+
+docs: https://github.com/AlexRogalskiy/android-patterns/wiki
+blog: https://alexrogalskiy.github.io/
