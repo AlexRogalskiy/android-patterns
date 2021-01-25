@@ -27,6 +27,18 @@
 ## 🎹 _Table of contents_
 
 <!--ts-->
+   * [Android Design Patterns](#android-design-patterns)
+      * [<em>Table of contents</em>](#-table-of-contents)
+      * [<em>Summary</em>](#-summary)
+      * [<em>Documentation</em>](#-documentation)
+      * [<em>Authors</em>](#-authors)
+      * [<em>Contributing</em>](#-contributing)
+      * [<em>Visitor stats</em>](#-visitor-stats)
+      * [<em>Licensing</em>](#-licensing)
+      * [<em>Development Support</em>](#-development-support)
+
+<!-- Added by: runner, at: Mon Jan 25 20:57:13 UTC 2021 -->
+
 <!--te-->
 
 ## ☝ _Summary_
