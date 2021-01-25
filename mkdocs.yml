@@ -8,8 +8,8 @@ repo_name: AlexRogalskiy/android-patterns
 repo_url: https://gitlab.com/AlexRogalskiy/android-patterns
 edit_uri: https://gitlab.com/AlexRogalskiy/android-patterns/master/docs/
 
-# Copyright
-copyright: Android Design Patterns - Documentation © Nullables.io
+#Copyright (shown at the footer)
+copyright: 'Copyright &copy; 2021 Nullables.io'
 
 theme:
   name: material
