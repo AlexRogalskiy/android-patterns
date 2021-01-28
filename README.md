@@ -292,6 +292,16 @@ Like _Android Patterns_ ? Consider buying me a coffee :\)
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Podcast: IDFA, TURTLEDOVE, and the Future of Online Privacy](https://mobiledevmemo.com/idfa-turtledove-and-the-future-of-privacy/)
+- [Ad tech companies will become gaming companies in 2021](https://mobiledevmemo.com/mobile-ad-tech-companies-should-become-gaming-companies-in-2021/)
+- [Facebook may take 7% revenue hit from Apple privacy changes](https://mobiledevmemo.com/facebook-may-take-revenue-hit-from-apple-privacy-changes/)
+- [Fingerprinting with iOS 14: Reality or delusion?](https://mobiledevmemo.com/fingerprinting-with-att-reality-or-delusion/)
+- [What happens to digital advertising if Facebook is broken up?](https://mobiledevmemo.com/what-happens-to-advertisers-if-facebook-is-broken-up/)
+- [App Tracking Transparency Codex: the ultimate guide to ATT, IDFA deprecation, and SKAdNetwork](https://mobiledevmemo.com/app-tracking-transparency-codex-guide-to-idfa-deprecation-and-skadnetwork/)
+- [2021 predictions for mobile marketing, Part 2](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing-part-2/)
+- [2021 predictions for mobile marketing](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing/)
+- [App Tracking Transparency does not provide real consumer choice](https://mobiledevmemo.com/att-does-not-represent-real-consumer-choice/)
+- [Understanding Facebook’s updated iOS14 advertising guidance](https://mobiledevmemo.com/understanding-facebooks-updated-ios14-advertising-guidance/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
