@@ -36,8 +36,19 @@
       * [<em>Visitor stats</em>](#-visitor-stats)
       * [<em>Licensing</em>](#-licensing)
       * [<em>Development Support</em>](#-development-support)
+      * [<em>Acknowledgement</em>](#-acknowledgement)
+      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+         * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>InfoWorld posts</em>](#infoworld-posts)
+         * [<em>RedHat posts</em>](#redhat-posts)
+         * [<em>Android Authority posts</em>](#android-authority-posts)
+         * [<em>Android Arsenal posts</em>](#android-arsenal-posts)
+         * [<em>Medium posts</em>](#medium-posts)
+         * [<em>Gizmodo posts</em>](#gizmodo-posts)
+         * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
+         * [<em>Infinum posts</em>](#infinum-posts)
 
-<!-- Added by: runner, at: Wed Jan 27 00:25:55 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 12:59:43 UTC 2021 -->
 
 <!--te-->
 
