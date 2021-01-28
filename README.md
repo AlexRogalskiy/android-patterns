@@ -207,6 +207,16 @@ Like _Android Patterns_ ? Consider buying me a coffee :\)
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
+- [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
+- [Google’s UI toolkit for Android moves to alpha release](https://www.infoworld.com/article/3572565/googles-ui-toolkit-for-android-moves-to-alpha-release.html#tk.rss_android)
+- [Gradle 6.5 adds file system watching to improve build times](https://www.infoworld.com/article/3561572/gradle-65-adds-file-system-watching-to-improve-build-times.html#tk.rss_android)
+- [Android Studio 4.0 adds Motion Editor and Build Analyzer](https://www.infoworld.com/article/3561230/android-studio-40-adds-motion-editor-and-build-analyzer.html#tk.rss_android)
+- [Amid the pandemic, using trust to fight shadow IT](https://www.computerworld.com/article/3544301/amid-the-pandemic-using-trust-to-fight-shadow-it.html#tk.rss_android)
+- [How smartphone apps could save lives (and the economy)](https://www.idginsiderpro.com/article/3537532/how-smartphone-apps-could-save-lives-and-the-economy.html#tk.rss_android)
+- [What is Kotlin? The Java alternative explained](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html#tk.rss_android)
+- [Android 11 developer preview stresses 5G, security](https://www.infoworld.com/article/3528552/android-11-developer-preview-stresses-5g-security.html#tk.rss_android)
+- [Android in 2020: Trends and predictions](https://www.infoworld.com/video/100859/android-in-2020-trends-and-predictions#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _RedHat posts_
