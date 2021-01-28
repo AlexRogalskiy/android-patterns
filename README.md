@@ -277,6 +277,16 @@ Like _Android Patterns_ ? Consider buying me a coffee :\)
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [It's Done—the Google-Fitbit Deal Is Complete](https://gizmodo.com/its-done-the-google-fitbit-deal-is-complete-1846057104)
+- [The Best Apps to Distract Your Brain from the Nightmare That Is 2021](https://gizmodo.com/the-best-apps-to-distract-your-brain-from-the-nightmare-1846027578)
+- [TCL Is Pushing the Price of 5G Down Even Further with the TCL 20 5G](https://gizmodo.com/tcl-is-pushing-the-price-of-5g-down-even-further-with-t-1846033224)
+- [Samsung Finally Announced the Galaxy Unpacked Event We All Knew About: Here's What's Coming](https://gizmodo.com/samsung-finally-announced-the-galaxy-unpacked-event-we-1845983996)
+- [How to Enable the Hidden Tap Gesture on iPhone or Android](https://gizmodo.com/how-to-enable-the-hidden-tap-gesture-on-iphone-or-andro-1845953239)
+- [Google Sneakily Removed Support for Astrophotography Mode from Ultra-Wide Cams on the Pixel 5 and 4a 5G](https://gizmodo.com/google-sneakily-removed-support-for-astrophotography-mo-1845962214)
+- [Samsung's Galaxy S21 Ultra Will Reportedly Get S-Pen Support](https://gizmodo.com/samsungs-galaxy-s21-ultra-will-reportedly-get-s-pen-sup-1845940688)
+- [OnePlus' Latest Concept Phone Is a Color-Shifting, Motion-Sensing Tease](https://gizmodo.com/oneplus-latest-concept-phone-is-a-color-shifting-motio-1845928122)
+- [Netflix May Be Introducing an Audio-Only Mode for Listening to Shows with the Screen Off](https://gizmodo.com/netflix-may-be-introducing-an-audio-only-mode-for-liste-1845894272)
+- [Oppo Teamed Up with a Japanese Design Firm to Create a Neat Triple-Hinged Slider Phone](https://gizmodo.com/oppo-teamed-up-with-a-japanese-design-firm-to-create-a-1845877364)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
