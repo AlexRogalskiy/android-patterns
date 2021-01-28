@@ -232,6 +232,16 @@ Like _Android Patterns_ ? Consider buying me a coffee :\)
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [Upwork vs Fiverr: Which is the best place to sell your services?](https://www.androidauthority.com/upwork-vs-fiverr-1190439/)
+- [How to install Android on PC: These are your best options](https://www.androidauthority.com/install-android-pc-668643/)
+- [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+- [A guide to Android app development for complete beginners in 5 easy steps](https://www.androidauthority.com/android-app-development-1128595/)
+- [How to reverse a string in Python](https://www.androidauthority.com/how-to-reverse-a-string-in-python-1140847/)
+- [What is Microsoft Azure? Azure certification for professionals](https://www.androidauthority.com/what-is-azure-1159879/)
+- [How to call a method in Java](https://www.androidauthority.com/how-to-call-a-method-in-java-1149853/)
+- [Making an app with no programming experience: What are your options?](https://www.androidauthority.com/how-to-make-android-apps-629325/)
+- [What is Azure certification?](https://www.androidauthority.com/azure-certification-1162875/)
+- [How to make a game in Python: An introduction to Pygame](https://www.androidauthority.com/how-to-make-a-game-in-python-1136589/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
