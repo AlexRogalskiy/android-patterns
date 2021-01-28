@@ -31,6 +31,7 @@
       * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
+      * [<em>Versioning</em>](#-versioning)
       * [<em>Authors</em>](#-authors)
       * [<em>Contributing</em>](#-contributing)
       * [<em>Visitor stats</em>](#-visitor-stats)
@@ -48,7 +49,7 @@
          * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
          * [<em>Infinum posts</em>](#infinum-posts)
 
-<!-- Added by: runner, at: Thu Jan 28 12:59:43 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 16:53:12 UTC 2021 -->
 
 <!--te-->
 
