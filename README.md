@@ -192,6 +192,16 @@ Like _Android Patterns_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is the only way to view the Task/Activities hierarchy on a device to use adb?](https://www.reddit.com/r/androiddev/comments/l6vjvp/is_the_only_way_to_view_the_taskactivities/)
+- [Try now button does not appear - is Instant apps dead ?](https://www.reddit.com/r/androiddev/comments/l6v4dn/try_now_button_does_not_appear_is_instant_apps/)
+- [Hilt ViewModel by navGraph](https://www.reddit.com/r/androiddev/comments/l6usko/hilt_viewmodel_by_navgraph/)
+- [Transferwise as bank account for developer account?](https://www.reddit.com/r/androiddev/comments/l6t3yo/transferwise_as_bank_account_for_developer_account/)
+- [Easiest Way To Locate The IP Of A Device On My Network](https://www.reddit.com/r/androiddev/comments/l6s16n/easiest_way_to_locate_the_ip_of_a_device_on_my/)
+- [PSA: Only one GET_CONTENT Activity per app on Android 10+](https://www.reddit.com/r/androiddev/comments/l6pskb/psa_only_one_get_content_activity_per_app_on/)
+- [How do you exclude night-res from packaging in Android app?](https://www.reddit.com/r/androiddev/comments/l6p83i/how_do_you_exclude_nightres_from_packaging_in/)
+- [Android 12: In-depth theming system that can recolor apps](https://www.reddit.com/r/androiddev/comments/l6ojti/android_12_indepth_theming_system_that_can/)
+- [Mapbox releases beta SDK v10, a comprehensive rewrite](https://www.reddit.com/r/androiddev/comments/l6mq9t/mapbox_releases_beta_sdk_v10_a_comprehensive/)
+- [Hilt alpha 0.0.3](https://www.reddit.com/r/androiddev/comments/l6hoj1/hilt_alpha_003/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
