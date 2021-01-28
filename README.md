@@ -247,6 +247,16 @@ Like _Android Patterns_ ? Consider buying me a coffee :\)
 ### _Android Arsenal posts_
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+- [RxDisposableWatcher](http://android-arsenal.com/details/1/8225)
+- [android-uniDevId](http://android-arsenal.com/details/1/8224)
+- [BottomSheet Menu](http://android-arsenal.com/details/1/8223)
+- [Boot Laces](http://android-arsenal.com/details/1/8222)
+- [Pixl](http://android-arsenal.com/details/1/8221)
+- [TagLabelText](http://android-arsenal.com/details/1/8220)
+- [StoryViewer](http://android-arsenal.com/details/3/8219)
+- [Bouncy](http://android-arsenal.com/details/1/8218)
+- [Routes](http://android-arsenal.com/details/1/8217)
+- [Moshi Kotlin Extensions](http://android-arsenal.com/details/1/8216)
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### _Medium posts_
