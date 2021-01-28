@@ -262,6 +262,16 @@ Like _Android Patterns_ ? Consider buying me a coffee :\)
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
+- [Migrating app to Huawei AppGallery](https://medium.com/tbc-engineering/migrating-app-to-huawei-appgallery-5a7893341c72?source=rss------android-5)
+- [Is the grass greener over there? - A review of a Garmin Vívomove Style watch](https://medium.com/@jamesrcridland/is-the-grass-greener-over-there-a-review-of-a-garmin-v%C3%ADvomove-style-watch-6111dc6d43a0?source=rss------android-5)
+- [Firebase Performance Monitoringをリリースビルドのみ有効化する](https://medium.com/@syarihu/firebase-performance-monitoring%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%93%E3%83%AB%E3%83%89%E3%81%AE%E3%81%BF%E6%9C%89%E5%8A%B9%E5%8C%96%E3%81%99%E3%82%8B-a312b1b8391b?source=rss------android-5)
+- [5 aspects à prendre en compte pour développer une application mobile professionnelle](https://medium.com/d%C3%A9veloppement-dapplications-mobile/5-aspects-%C3%A0-prendre-en-compte-pour-d%C3%A9velopper-une-application-mobile-professionnelle-b64a1a33cdc8?source=rss------android-5)
+- [Le RGPD et les applications Mobile](https://medium.com/d%C3%A9veloppement-dapplications-mobile/le-rgpd-et-les-applications-mobile-f51b3b43c5c?source=rss------android-5)
+- [iPhone vs. Android](https://medium.com/@samdanielraja/iphone-vs-android-a0ea80535879?source=rss------android-5)
+- [Best way to prevent mobile from theft.](https://medium.com/@mahran-khan5622/best-way-to-prevent-mobile-from-theft-19df3326d46f?source=rss------android-5)
+- [How to free up internal memory of the cell phone](https://medium.com/@bitwings/how-to-free-up-internal-memory-of-the-cell-phone-48b873551ecd?source=rss------android-5)
+- [Testing Legacy Code](https://medium.com/tbc-engineering/testing-legacy-code-5286a4b9c4ad?source=rss------android-5)
+- [Sending Push Notifications with FCM](https://medium.com/@martianinseoul/sending-push-notifications-with-fcm-d6c49789631?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
