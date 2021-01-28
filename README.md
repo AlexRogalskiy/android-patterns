@@ -171,3 +171,55 @@ Like _Android Patterns_ ? Consider buying me a coffee :\)
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
 [![KoFi](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/alexrogalskiy)
+
+## 👨‍👨‍👧‍👦 _Acknowledgement_
+
+[![Stargazers repo roster for @AlexRogalskiy/android-patterns](https://reporoster.com/stars/AlexRogalskiy/android-patterns)](https://github.com/AlexRogalskiy/android-patterns/stargazers)
+
+## 🔥 _Feeds and Podcasts_
+
+### _Reddit posts_
+
+<!-- REDDIT-POST-LIST:START -->
+<!-- REDDIT-POST-LIST:END -->
+
+### _InfoWorld posts_
+
+<!-- INFOWORLD-POST-LIST:START -->
+<!-- INFOWORLD-POST-LIST:END -->
+
+### _RedHat posts_
+
+<!-- REDHAT-POST-LIST:START -->
+<!-- REDHAT-POST-LIST:END -->
+
+### _Android Authority posts_
+
+<!-- ANDROIDAUTHORITY-POST-LIST:START -->
+<!-- ANDROIDAUTHORITY-POST-LIST:END -->
+
+### _Android Arsenal posts_
+
+<!-- ANDROIDARSENAL-POST-LIST:START -->
+<!-- ANDROIDARSENAL-POST-LIST:END -->
+
+### _Medium posts_
+
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
+
+### _Gizmodo posts_
+
+<!-- GIZMODO-POST-LIST:START -->
+<!-- GIZMODO-POST-LIST:END -->
+
+### _Mobile Dev Memo posts_
+
+<!-- MOBILEDEVMEMO-POST-LIST:START -->
+<!-- MOBILEDEVMEMO-POST-LIST:END -->
+
+### _Infinum posts_
+
+<!-- INFINUM-POST-LIST:START -->
+<!-- INFINUM-POST-LIST:END -->
+

@@ -1,0 +1,61 @@
+name: Latest articles and podcasts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day
+    - cron: '0 1 * * *'
+
+jobs:
+  update-readme-with-posts:
+    name: Update this repo's README with latest articles and podcasts on Android
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "REDDIT-POST-LIST"
+          feed_list: "https://www.reddit.com/r/androiddev/.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "INFOWORLD-POST-LIST"
+          feed_list: "https://www.infoworld.com/category/android/index.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "REDHAT-POST-LIST"
+          feed_list: "https://developers.redhat.com/blog/tag/android/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "ANDROIDAUTHORITY-POST-LIST"
+          feed_list: "https://www.androidauthority.com/android-development/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "ANDROIDARSENAL-POST-LIST"
+          feed_list: "https://android-arsenal.com/rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "MEDIUM-POST-LIST"
+          feed_list: "https://medium.com/feed/tag/android"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "GIZMODO-POST-LIST"
+          feed_list: "https://gizmodo.com/tag/android/rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "MOBILEDEVMEMO-POST-LIST"
+          feed_list: "https://mobiledevmemo.com/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "INFINUM-POST-LIST"
+          feed_list: "https://androidsweets.ongoodbits.com/feed"
+          
+          
