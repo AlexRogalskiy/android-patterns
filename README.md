@@ -212,16 +212,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is the only way to view the Task/Activities hierarchy on a device to use adb?](https://www.reddit.com/r/androiddev/comments/l6vjvp/is_the_only_way_to_view_the_taskactivities/)
-- [Try now button does not appear - is Instant apps dead ?](https://www.reddit.com/r/androiddev/comments/l6v4dn/try_now_button_does_not_appear_is_instant_apps/)
-- [Hilt ViewModel by navGraph](https://www.reddit.com/r/androiddev/comments/l6usko/hilt_viewmodel_by_navgraph/)
-- [Transferwise as bank account for developer account?](https://www.reddit.com/r/androiddev/comments/l6t3yo/transferwise_as_bank_account_for_developer_account/)
-- [Easiest Way To Locate The IP Of A Device On My Network](https://www.reddit.com/r/androiddev/comments/l6s16n/easiest_way_to_locate_the_ip_of_a_device_on_my/)
-- [PSA: Only one GET_CONTENT Activity per app on Android 10+](https://www.reddit.com/r/androiddev/comments/l6pskb/psa_only_one_get_content_activity_per_app_on/)
-- [How do you exclude night-res from packaging in Android app?](https://www.reddit.com/r/androiddev/comments/l6p83i/how_do_you_exclude_nightres_from_packaging_in/)
-- [Android 12: In-depth theming system that can recolor apps](https://www.reddit.com/r/androiddev/comments/l6ojti/android_12_indepth_theming_system_that_can/)
-- [Mapbox releases beta SDK v10, a comprehensive rewrite](https://www.reddit.com/r/androiddev/comments/l6mq9t/mapbox_releases_beta_sdk_v10_a_comprehensive/)
-- [Hilt alpha 0.0.3](https://www.reddit.com/r/androiddev/comments/l6hoj1/hilt_alpha_003/)
+- [Why is Google so stupid?](https://www.reddit.com/r/androiddev/comments/l7fm2s/why_is_google_so_stupid/)
+- [Android Studio 4.2 Beta 4 available](https://www.reddit.com/r/androiddev/comments/l7bu67/android_studio_42_beta_4_available/)
+- [Should i use Admob ? Or i will earn nothing with it ?](https://www.reddit.com/r/androiddev/comments/l79k11/should_i_use_admob_or_i_will_earn_nothing_with_it/)
+- [will factory reset bring back deleted system apps using usb debugging (adb)](https://www.reddit.com/r/androiddev/comments/l788cd/will_factory_reset_bring_back_deleted_system_apps/)
+- [Google Play Developer account](https://www.reddit.com/r/androiddev/comments/l781r7/google_play_developer_account/)
+- [getExternalFilesDir()](https://www.reddit.com/r/androiddev/comments/l77msp/getexternalfilesdir/)
+- [Fancy a flutter? Google to allow real money gambling worldwide](https://www.reddit.com/r/androiddev/comments/l770or/fancy_a_flutter_google_to_allow_real_money/)
+- [IntentService is deprecated and does not "work well" with Oreo, if so what is the purpose of Foreground Services?](https://www.reddit.com/r/androiddev/comments/l727ol/intentservice_is_deprecated_and_does_not_work/)
+- [Can't get menu to show up in fragment](https://www.reddit.com/r/androiddev/comments/l70r8q/cant_get_menu_to_show_up_in_fragment/)
+- [Switching from a NavGraph to Another Using Google's Nav Extensions Function](https://www.reddit.com/r/androiddev/comments/l7071v/switching_from_a_navgraph_to_another_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -282,21 +282,22 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Migrating app to Huawei AppGallery](https://medium.com/tbc-engineering/migrating-app-to-huawei-appgallery-5a7893341c72?source=rss------android-5)
-- [Is the grass greener over there? - A review of a Garmin Vívomove Style watch](https://medium.com/@jamesrcridland/is-the-grass-greener-over-there-a-review-of-a-garmin-v%C3%ADvomove-style-watch-6111dc6d43a0?source=rss------android-5)
-- [Firebase Performance Monitoringをリリースビルドのみ有効化する](https://medium.com/@syarihu/firebase-performance-monitoring%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%93%E3%83%AB%E3%83%89%E3%81%AE%E3%81%BF%E6%9C%89%E5%8A%B9%E5%8C%96%E3%81%99%E3%82%8B-a312b1b8391b?source=rss------android-5)
-- [5 aspects à prendre en compte pour développer une application mobile professionnelle](https://medium.com/d%C3%A9veloppement-dapplications-mobile/5-aspects-%C3%A0-prendre-en-compte-pour-d%C3%A9velopper-une-application-mobile-professionnelle-b64a1a33cdc8?source=rss------android-5)
-- [Le RGPD et les applications Mobile](https://medium.com/d%C3%A9veloppement-dapplications-mobile/le-rgpd-et-les-applications-mobile-f51b3b43c5c?source=rss------android-5)
-- [iPhone vs. Android](https://medium.com/@samdanielraja/iphone-vs-android-a0ea80535879?source=rss------android-5)
-- [Best way to prevent mobile from theft.](https://medium.com/@mahran-khan5622/best-way-to-prevent-mobile-from-theft-19df3326d46f?source=rss------android-5)
-- [How to free up internal memory of the cell phone](https://medium.com/@bitwings/how-to-free-up-internal-memory-of-the-cell-phone-48b873551ecd?source=rss------android-5)
-- [Testing Legacy Code](https://medium.com/tbc-engineering/testing-legacy-code-5286a4b9c4ad?source=rss------android-5)
-- [Sending Push Notifications with FCM](https://medium.com/@martianinseoul/sending-push-notifications-with-fcm-d6c49789631?source=rss------android-5)
+- [Presenting data efficiently in emails](https://medium.com/@chao2zhang/presenting-data-efficiently-in-emails-f27cb5f9119e?source=rss------android-5)
+- [Cyber Attacks against All.](https://medium.com/@takingcharge32/cyber-attacks-against-all-34bfa265170c?source=rss------android-5)
+- [Safe Mode को Off कैसे करें](https://medium.com/@ajeetsinghmoney/safe-mode-%E0%A4%95%E0%A5%8B-off-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82-e5cc7c557da4?source=rss------android-5)
+- [Transferring files over HTTP with React Native](https://medium.com/@edeckers/transferring-files-over-http-with-react-native-5b870da21942?source=rss------android-5)
+- [Simplificando Analytics com Kotlin no Android!](https://medium.com/@williamgouvea/simplificando-analytics-com-kotlin-no-android-bc4c5a1c5c4c?source=rss------android-5)
+- [How to Convert iOS App to Android App? (Steps, Cost, and Challenges)](https://medium.com/dev-genius/how-to-convert-ios-app-to-android-app-steps-cost-and-challenges-a064ebc0e636?source=rss------android-5)
+- [Гороскопы 2021 — Android приложение](https://medium.com/@chrnknzhnkv/%D0%B3%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D1%8B-2021-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-5bddafae6979?source=rss------android-5)
+- [go to snap](https://medium.com/@267115/go-to-snap-9bde146b5e67?source=rss------android-5)
+- [Is Flutter Too Late To Join the Party?](https://medium.com/better-programming/is-flutter-too-late-to-join-the-party-e19e4dd01846?source=rss------android-5)
+- [Xamarin: I Developed My First Mobile App and I Liked It](https://medium.com/@valerieafleming/xamarin-i-developed-my-first-mobile-app-and-i-liked-it-c902d545f2e8?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [See Which Apps Are Using Your Camera, Microphone, and Location](https://gizmodo.com/see-which-apps-are-using-your-camera-microphone-and-l-1846044433)
 - [It's Done—the Google-Fitbit Deal Is Complete](https://gizmodo.com/its-done-the-google-fitbit-deal-is-complete-1846057104)
 - [The Best Apps to Distract Your Brain from the Nightmare That Is 2021](https://gizmodo.com/the-best-apps-to-distract-your-brain-from-the-nightmare-1846027578)
 - [TCL Is Pushing the Price of 5G Down Even Further with the TCL 20 5G](https://gizmodo.com/tcl-is-pushing-the-price-of-5g-down-even-further-with-t-1846033224)
@@ -306,12 +307,12 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 - [Samsung's Galaxy S21 Ultra Will Reportedly Get S-Pen Support](https://gizmodo.com/samsungs-galaxy-s21-ultra-will-reportedly-get-s-pen-sup-1845940688)
 - [OnePlus' Latest Concept Phone Is a Color-Shifting, Motion-Sensing Tease](https://gizmodo.com/oneplus-latest-concept-phone-is-a-color-shifting-motio-1845928122)
 - [Netflix May Be Introducing an Audio-Only Mode for Listening to Shows with the Screen Off](https://gizmodo.com/netflix-may-be-introducing-an-audio-only-mode-for-liste-1845894272)
-- [Oppo Teamed Up with a Japanese Design Firm to Create a Neat Triple-Hinged Slider Phone](https://gizmodo.com/oppo-teamed-up-with-a-japanese-design-firm-to-create-a-1845877364)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Unpacking Apple’s latest iOS14 privacy policy guidance](https://mobiledevmemo.com/unpacking-apples-latest-ios14-privacy-policy-guidance/)
 - [Podcast: IDFA, TURTLEDOVE, and the Future of Online Privacy](https://mobiledevmemo.com/idfa-turtledove-and-the-future-of-privacy/)
 - [Ad tech companies will become gaming companies in 2021](https://mobiledevmemo.com/mobile-ad-tech-companies-should-become-gaming-companies-in-2021/)
 - [Facebook may take 7% revenue hit from Apple privacy changes](https://mobiledevmemo.com/facebook-may-take-revenue-hit-from-apple-privacy-changes/)
@@ -321,7 +322,6 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 - [2021 predictions for mobile marketing, Part 2](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing-part-2/)
 - [2021 predictions for mobile marketing](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing/)
 - [App Tracking Transparency does not provide real consumer choice](https://mobiledevmemo.com/att-does-not-represent-real-consumer-choice/)
-- [Understanding Facebook’s updated iOS14 advertising guidance](https://mobiledevmemo.com/understanding-facebooks-updated-ios14-advertising-guidance/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
