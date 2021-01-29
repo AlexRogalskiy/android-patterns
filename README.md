@@ -212,16 +212,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is the only way to view the Task/Activities hierarchy on a device to use adb?](https://www.reddit.com/r/androiddev/comments/l6vjvp/is_the_only_way_to_view_the_taskactivities/)
-- [Try now button does not appear - is Instant apps dead ?](https://www.reddit.com/r/androiddev/comments/l6v4dn/try_now_button_does_not_appear_is_instant_apps/)
-- [Hilt ViewModel by navGraph](https://www.reddit.com/r/androiddev/comments/l6usko/hilt_viewmodel_by_navgraph/)
-- [Transferwise as bank account for developer account?](https://www.reddit.com/r/androiddev/comments/l6t3yo/transferwise_as_bank_account_for_developer_account/)
-- [Easiest Way To Locate The IP Of A Device On My Network](https://www.reddit.com/r/androiddev/comments/l6s16n/easiest_way_to_locate_the_ip_of_a_device_on_my/)
-- [PSA: Only one GET_CONTENT Activity per app on Android 10+](https://www.reddit.com/r/androiddev/comments/l6pskb/psa_only_one_get_content_activity_per_app_on/)
-- [How do you exclude night-res from packaging in Android app?](https://www.reddit.com/r/androiddev/comments/l6p83i/how_do_you_exclude_nightres_from_packaging_in/)
-- [Android 12: In-depth theming system that can recolor apps](https://www.reddit.com/r/androiddev/comments/l6ojti/android_12_indepth_theming_system_that_can/)
-- [Mapbox releases beta SDK v10, a comprehensive rewrite](https://www.reddit.com/r/androiddev/comments/l6mq9t/mapbox_releases_beta_sdk_v10_a_comprehensive/)
-- [Hilt alpha 0.0.3](https://www.reddit.com/r/androiddev/comments/l6hoj1/hilt_alpha_003/)
+- [Why is Google so stupid?](https://www.reddit.com/r/androiddev/comments/l7fm2s/why_is_google_so_stupid/)
+- [Android Studio 4.2 Beta 4 available](https://www.reddit.com/r/androiddev/comments/l7bu67/android_studio_42_beta_4_available/)
+- [Should i use Admob ? Or i will earn nothing with it ?](https://www.reddit.com/r/androiddev/comments/l79k11/should_i_use_admob_or_i_will_earn_nothing_with_it/)
+- [will factory reset bring back deleted system apps using usb debugging (adb)](https://www.reddit.com/r/androiddev/comments/l788cd/will_factory_reset_bring_back_deleted_system_apps/)
+- [Google Play Developer account](https://www.reddit.com/r/androiddev/comments/l781r7/google_play_developer_account/)
+- [getExternalFilesDir()](https://www.reddit.com/r/androiddev/comments/l77msp/getexternalfilesdir/)
+- [Fancy a flutter? Google to allow real money gambling worldwide](https://www.reddit.com/r/androiddev/comments/l770or/fancy_a_flutter_google_to_allow_real_money/)
+- [IntentService is deprecated and does not "work well" with Oreo, if so what is the purpose of Foreground Services?](https://www.reddit.com/r/androiddev/comments/l727ol/intentservice_is_deprecated_and_does_not_work/)
+- [Can't get menu to show up in fragment](https://www.reddit.com/r/androiddev/comments/l70r8q/cant_get_menu_to_show_up_in_fragment/)
+- [Switching from a NavGraph to Another Using Google's Nav Extensions Function](https://www.reddit.com/r/androiddev/comments/l7071v/switching_from_a_navgraph_to_another_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
