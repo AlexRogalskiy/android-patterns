@@ -282,16 +282,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Migrating app to Huawei AppGallery](https://medium.com/tbc-engineering/migrating-app-to-huawei-appgallery-5a7893341c72?source=rss------android-5)
-- [Is the grass greener over there? - A review of a Garmin Vívomove Style watch](https://medium.com/@jamesrcridland/is-the-grass-greener-over-there-a-review-of-a-garmin-v%C3%ADvomove-style-watch-6111dc6d43a0?source=rss------android-5)
-- [Firebase Performance Monitoringをリリースビルドのみ有効化する](https://medium.com/@syarihu/firebase-performance-monitoring%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%93%E3%83%AB%E3%83%89%E3%81%AE%E3%81%BF%E6%9C%89%E5%8A%B9%E5%8C%96%E3%81%99%E3%82%8B-a312b1b8391b?source=rss------android-5)
-- [5 aspects à prendre en compte pour développer une application mobile professionnelle](https://medium.com/d%C3%A9veloppement-dapplications-mobile/5-aspects-%C3%A0-prendre-en-compte-pour-d%C3%A9velopper-une-application-mobile-professionnelle-b64a1a33cdc8?source=rss------android-5)
-- [Le RGPD et les applications Mobile](https://medium.com/d%C3%A9veloppement-dapplications-mobile/le-rgpd-et-les-applications-mobile-f51b3b43c5c?source=rss------android-5)
-- [iPhone vs. Android](https://medium.com/@samdanielraja/iphone-vs-android-a0ea80535879?source=rss------android-5)
-- [Best way to prevent mobile from theft.](https://medium.com/@mahran-khan5622/best-way-to-prevent-mobile-from-theft-19df3326d46f?source=rss------android-5)
-- [How to free up internal memory of the cell phone](https://medium.com/@bitwings/how-to-free-up-internal-memory-of-the-cell-phone-48b873551ecd?source=rss------android-5)
-- [Testing Legacy Code](https://medium.com/tbc-engineering/testing-legacy-code-5286a4b9c4ad?source=rss------android-5)
-- [Sending Push Notifications with FCM](https://medium.com/@martianinseoul/sending-push-notifications-with-fcm-d6c49789631?source=rss------android-5)
+- [Presenting data efficiently in emails](https://medium.com/@chao2zhang/presenting-data-efficiently-in-emails-f27cb5f9119e?source=rss------android-5)
+- [Cyber Attacks against All.](https://medium.com/@takingcharge32/cyber-attacks-against-all-34bfa265170c?source=rss------android-5)
+- [Safe Mode को Off कैसे करें](https://medium.com/@ajeetsinghmoney/safe-mode-%E0%A4%95%E0%A5%8B-off-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82-e5cc7c557da4?source=rss------android-5)
+- [Transferring files over HTTP with React Native](https://medium.com/@edeckers/transferring-files-over-http-with-react-native-5b870da21942?source=rss------android-5)
+- [Simplificando Analytics com Kotlin no Android!](https://medium.com/@williamgouvea/simplificando-analytics-com-kotlin-no-android-bc4c5a1c5c4c?source=rss------android-5)
+- [How to Convert iOS App to Android App? (Steps, Cost, and Challenges)](https://medium.com/dev-genius/how-to-convert-ios-app-to-android-app-steps-cost-and-challenges-a064ebc0e636?source=rss------android-5)
+- [Гороскопы 2021 — Android приложение](https://medium.com/@chrnknzhnkv/%D0%B3%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D1%8B-2021-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-5bddafae6979?source=rss------android-5)
+- [go to snap](https://medium.com/@267115/go-to-snap-9bde146b5e67?source=rss------android-5)
+- [Is Flutter Too Late To Join the Party?](https://medium.com/better-programming/is-flutter-too-late-to-join-the-party-e19e4dd01846?source=rss------android-5)
+- [Xamarin: I Developed My First Mobile App and I Liked It](https://medium.com/@valerieafleming/xamarin-i-developed-my-first-mobile-app-and-i-liked-it-c902d545f2e8?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
