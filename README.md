@@ -13,6 +13,8 @@
   </a>
 </p>
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/android-patterns)
+![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/android-patterns)
 ![Lines of code](https://tokei.rs/b1/github/AlexRogalskiy/android-patterns?category=lines)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/AlexRogalskiy/android-patterns)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AlexRogalskiy/android-patterns)
@@ -23,6 +25,11 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/android-patterns/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/android-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/android-patterns)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fandroid-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fandroid-patterns?ref=badge_shield)
+[![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
+[![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/android-patterns)
+[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/android-patterns)](https://hitsofcode.com/github/AlexRogalskiy/android-patterns/view)
+[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/AlexRogalskiy/android-patterns)
 
 ## 🎹 _Table of contents_
 
@@ -49,7 +56,7 @@
          * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
          * [<em>Infinum posts</em>](#infinum-posts)
 
-<!-- Added by: runner, at: Fri Jan 29 21:40:52 UTC 2021 -->
+<!-- Added by: runner, at: Sat Jan 30 12:51:21 UTC 2021 -->
 
 <!--te-->
 
@@ -212,16 +219,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why is Google so stupid?](https://www.reddit.com/r/androiddev/comments/l7fm2s/why_is_google_so_stupid/)
-- [Android Studio 4.2 Beta 4 available](https://www.reddit.com/r/androiddev/comments/l7bu67/android_studio_42_beta_4_available/)
-- [Should i use Admob ? Or i will earn nothing with it ?](https://www.reddit.com/r/androiddev/comments/l79k11/should_i_use_admob_or_i_will_earn_nothing_with_it/)
-- [will factory reset bring back deleted system apps using usb debugging (adb)](https://www.reddit.com/r/androiddev/comments/l788cd/will_factory_reset_bring_back_deleted_system_apps/)
-- [Google Play Developer account](https://www.reddit.com/r/androiddev/comments/l781r7/google_play_developer_account/)
-- [getExternalFilesDir()](https://www.reddit.com/r/androiddev/comments/l77msp/getexternalfilesdir/)
-- [Fancy a flutter? Google to allow real money gambling worldwide](https://www.reddit.com/r/androiddev/comments/l770or/fancy_a_flutter_google_to_allow_real_money/)
-- [IntentService is deprecated and does not "work well" with Oreo, if so what is the purpose of Foreground Services?](https://www.reddit.com/r/androiddev/comments/l727ol/intentservice_is_deprecated_and_does_not_work/)
-- [Can't get menu to show up in fragment](https://www.reddit.com/r/androiddev/comments/l70r8q/cant_get_menu_to_show_up_in_fragment/)
-- [Switching from a NavGraph to Another Using Google's Nav Extensions Function](https://www.reddit.com/r/androiddev/comments/l7071v/switching_from_a_navgraph_to_another_using/)
+- [Developing in android native or flutter?](https://www.reddit.com/r/androiddev/comments/l89jem/developing_in_android_native_or_flutter/)
+- [Guess I won't update Android Studio in a long time](https://www.reddit.com/r/androiddev/comments/l88qod/guess_i_wont_update_android_studio_in_a_long_time/)
+- [PERSONAL BUDGETING APP](https://www.reddit.com/r/androiddev/comments/l84otl/personal_budgeting_app/)
+- [Which implementation of clean architecture should I follow?](https://www.reddit.com/r/androiddev/comments/l83vcx/which_implementation_of_clean_architecture_should/)
+- [Play store question.](https://www.reddit.com/r/androiddev/comments/l82uq9/play_store_question/)
+- [Dependency Injection Composition Root!](https://www.reddit.com/r/androiddev/comments/l825zf/dependency_injection_composition_root/)
+- [Develop app WITHOUT accepting any Eulas ?](https://www.reddit.com/r/androiddev/comments/l80xgh/develop_app_without_accepting_any_eulas/)
+- [Building a Decentralized Social Platform With no Servers *In Progress* - GIT Included](https://www.reddit.com/r/androiddev/comments/l80nqf/building_a_decentralized_social_platform_with_no/)
+- [The case for Vim in Android Studio](https://www.reddit.com/r/androiddev/comments/l7zkco/the_case_for_vim_in_android_studio/)
+- [What’s the best valued phone por development?](https://www.reddit.com/r/androiddev/comments/l7xszs/whats_the_best_valued_phone_por_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -282,16 +289,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Presenting data efficiently in emails](https://medium.com/@chao2zhang/presenting-data-efficiently-in-emails-f27cb5f9119e?source=rss------android-5)
-- [Cyber Attacks against All.](https://medium.com/@takingcharge32/cyber-attacks-against-all-34bfa265170c?source=rss------android-5)
-- [Safe Mode को Off कैसे करें](https://medium.com/@ajeetsinghmoney/safe-mode-%E0%A4%95%E0%A5%8B-off-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82-e5cc7c557da4?source=rss------android-5)
-- [Transferring files over HTTP with React Native](https://medium.com/@edeckers/transferring-files-over-http-with-react-native-5b870da21942?source=rss------android-5)
-- [Simplificando Analytics com Kotlin no Android!](https://medium.com/@williamgouvea/simplificando-analytics-com-kotlin-no-android-bc4c5a1c5c4c?source=rss------android-5)
-- [How to Convert iOS App to Android App? (Steps, Cost, and Challenges)](https://medium.com/dev-genius/how-to-convert-ios-app-to-android-app-steps-cost-and-challenges-a064ebc0e636?source=rss------android-5)
-- [Гороскопы 2021 — Android приложение](https://medium.com/@chrnknzhnkv/%D0%B3%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D1%8B-2021-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-5bddafae6979?source=rss------android-5)
-- [go to snap](https://medium.com/@267115/go-to-snap-9bde146b5e67?source=rss------android-5)
-- [Is Flutter Too Late To Join the Party?](https://medium.com/better-programming/is-flutter-too-late-to-join-the-party-e19e4dd01846?source=rss------android-5)
-- [Xamarin: I Developed My First Mobile App and I Liked It](https://medium.com/@valerieafleming/xamarin-i-developed-my-first-mobile-app-and-i-liked-it-c902d545f2e8?source=rss------android-5)
+- [Build Config — Customable Constant Field](https://medium.com/@tegarsuganda/build-config-customable-constant-field-686d6495c06a?source=rss------android-5)
+- [What You Did NOT Know About Funny Games For Android](https://medium.com/@bitwings/what-you-did-not-know-about-funny-games-for-android-e238a7b424a8?source=rss------android-5)
+- [Easily send and receive Push Notifications in Flutter without Node.js](https://medium.com/@ricardo-castellanos-herreros/easily-send-and-receive-push-notifications-in-flutter-without-node-js-ec177f72091c?source=rss------android-5)
+- [Android Custom View — ImageColorPicker — Part I](https://medium.com/@s8546937623/android-custom-view-imagecolorpicker-part-i-a32ab954a3b3?source=rss------android-5)
+- [Break Away From Android and iOS: 7 Free Open-Source Mobile OSes to Try](https://medium.com/pcmag-access/break-away-from-android-and-ios-7-free-open-source-mobile-oses-to-try-22c993287462?source=rss------android-5)
+- [A more accessible audio player](https://medium.com/headspace-engineering/a-more-accessible-audio-player-b9cafc388ff8?source=rss------android-5)
+- [Know more about the Android 11 Features that can impact your Mobile Application Development](https://medium.com/@owebest/know-more-about-the-android-11-features-that-can-impact-your-mobile-application-development-826cd240aab0?source=rss------android-5)
+- [How To Create a Commute App Like RTADubai](https://medium.com/@akkiofficiallybrillz/how-to-create-a-commute-app-like-rtadubai-13b57afdae1f?source=rss------android-5)
+- [Diferença entre FlatMap, SwitchMap e ConcatMap RxJava.](https://medium.com/@roque.buarque/diferen%C3%A7a-entre-flatmap-switchmap-e-concatmap-rxjava-e517d420a7a2?source=rss------android-5)
+- [Change an Android app’s icon in Android Studio](https://medium.com/@yilmaz-ayse00/change-an-android-apps-icon-in-android-studio-ac7cfbdc3ac3?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
@@ -327,10 +334,10 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Infinum posts_
 
 <!-- INFINUM-POST-LIST:START -->
+- [RxJava vs. Coroutines](https://androidsweets.ongoodbits.com/2021/01/29/rxjava-vs-coroutines)
 - [Make your own device lab!](https://androidsweets.ongoodbits.com/2021/01/22/make-your-own-device-lab)
 - [How much debuggable option slows down  your app?](https://androidsweets.ongoodbits.com/2021/01/15/how-much-debuggable-option-slows-down-your-app)
 - [Do you know how to keep secrets?](https://androidsweets.ongoodbits.com/2021/01/08/do-you-know-how-to-keep-secrets)
 - [Is your app MAD enough?](https://androidsweets.ongoodbits.com/2020/12/18/is-your-app-mad-enough)
-- [Is your design system prepared for Compose?](https://androidsweets.ongoodbits.com/2020/12/11/is-your-design-system-prepared-for-compose)
 <!-- INFINUM-POST-LIST:END -->
 
