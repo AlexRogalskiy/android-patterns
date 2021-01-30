@@ -282,16 +282,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Presenting data efficiently in emails](https://medium.com/@chao2zhang/presenting-data-efficiently-in-emails-f27cb5f9119e?source=rss------android-5)
-- [Cyber Attacks against All.](https://medium.com/@takingcharge32/cyber-attacks-against-all-34bfa265170c?source=rss------android-5)
-- [Safe Mode को Off कैसे करें](https://medium.com/@ajeetsinghmoney/safe-mode-%E0%A4%95%E0%A5%8B-off-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82-e5cc7c557da4?source=rss------android-5)
-- [Transferring files over HTTP with React Native](https://medium.com/@edeckers/transferring-files-over-http-with-react-native-5b870da21942?source=rss------android-5)
-- [Simplificando Analytics com Kotlin no Android!](https://medium.com/@williamgouvea/simplificando-analytics-com-kotlin-no-android-bc4c5a1c5c4c?source=rss------android-5)
-- [How to Convert iOS App to Android App? (Steps, Cost, and Challenges)](https://medium.com/dev-genius/how-to-convert-ios-app-to-android-app-steps-cost-and-challenges-a064ebc0e636?source=rss------android-5)
-- [Гороскопы 2021 — Android приложение](https://medium.com/@chrnknzhnkv/%D0%B3%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D1%8B-2021-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-5bddafae6979?source=rss------android-5)
-- [go to snap](https://medium.com/@267115/go-to-snap-9bde146b5e67?source=rss------android-5)
-- [Is Flutter Too Late To Join the Party?](https://medium.com/better-programming/is-flutter-too-late-to-join-the-party-e19e4dd01846?source=rss------android-5)
-- [Xamarin: I Developed My First Mobile App and I Liked It](https://medium.com/@valerieafleming/xamarin-i-developed-my-first-mobile-app-and-i-liked-it-c902d545f2e8?source=rss------android-5)
+- [Build Config — Customable Constant Field](https://medium.com/@tegarsuganda/build-config-customable-constant-field-686d6495c06a?source=rss------android-5)
+- [What You Did NOT Know About Funny Games For Android](https://medium.com/@bitwings/what-you-did-not-know-about-funny-games-for-android-e238a7b424a8?source=rss------android-5)
+- [Easily send and receive Push Notifications in Flutter without Node.js](https://medium.com/@ricardo-castellanos-herreros/easily-send-and-receive-push-notifications-in-flutter-without-node-js-ec177f72091c?source=rss------android-5)
+- [Android Custom View — ImageColorPicker — Part I](https://medium.com/@s8546937623/android-custom-view-imagecolorpicker-part-i-a32ab954a3b3?source=rss------android-5)
+- [Break Away From Android and iOS: 7 Free Open-Source Mobile OSes to Try](https://medium.com/pcmag-access/break-away-from-android-and-ios-7-free-open-source-mobile-oses-to-try-22c993287462?source=rss------android-5)
+- [A more accessible audio player](https://medium.com/headspace-engineering/a-more-accessible-audio-player-b9cafc388ff8?source=rss------android-5)
+- [Know more about the Android 11 Features that can impact your Mobile Application Development](https://medium.com/@owebest/know-more-about-the-android-11-features-that-can-impact-your-mobile-application-development-826cd240aab0?source=rss------android-5)
+- [How To Create a Commute App Like RTADubai](https://medium.com/@akkiofficiallybrillz/how-to-create-a-commute-app-like-rtadubai-13b57afdae1f?source=rss------android-5)
+- [Diferença entre FlatMap, SwitchMap e ConcatMap RxJava.](https://medium.com/@roque.buarque/diferen%C3%A7a-entre-flatmap-switchmap-e-concatmap-rxjava-e517d420a7a2?source=rss------android-5)
+- [Change an Android app’s icon in Android Studio](https://medium.com/@yilmaz-ayse00/change-an-android-apps-icon-in-android-studio-ac7cfbdc3ac3?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
