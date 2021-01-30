@@ -327,10 +327,10 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Infinum posts_
 
 <!-- INFINUM-POST-LIST:START -->
+- [RxJava vs. Coroutines](https://androidsweets.ongoodbits.com/2021/01/29/rxjava-vs-coroutines)
 - [Make your own device lab!](https://androidsweets.ongoodbits.com/2021/01/22/make-your-own-device-lab)
 - [How much debuggable option slows down  your app?](https://androidsweets.ongoodbits.com/2021/01/15/how-much-debuggable-option-slows-down-your-app)
 - [Do you know how to keep secrets?](https://androidsweets.ongoodbits.com/2021/01/08/do-you-know-how-to-keep-secrets)
 - [Is your app MAD enough?](https://androidsweets.ongoodbits.com/2020/12/18/is-your-app-mad-enough)
-- [Is your design system prepared for Compose?](https://androidsweets.ongoodbits.com/2020/12/11/is-your-design-system-prepared-for-compose)
 <!-- INFINUM-POST-LIST:END -->
 
