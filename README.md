@@ -212,16 +212,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why is Google so stupid?](https://www.reddit.com/r/androiddev/comments/l7fm2s/why_is_google_so_stupid/)
-- [Android Studio 4.2 Beta 4 available](https://www.reddit.com/r/androiddev/comments/l7bu67/android_studio_42_beta_4_available/)
-- [Should i use Admob ? Or i will earn nothing with it ?](https://www.reddit.com/r/androiddev/comments/l79k11/should_i_use_admob_or_i_will_earn_nothing_with_it/)
-- [will factory reset bring back deleted system apps using usb debugging (adb)](https://www.reddit.com/r/androiddev/comments/l788cd/will_factory_reset_bring_back_deleted_system_apps/)
-- [Google Play Developer account](https://www.reddit.com/r/androiddev/comments/l781r7/google_play_developer_account/)
-- [getExternalFilesDir()](https://www.reddit.com/r/androiddev/comments/l77msp/getexternalfilesdir/)
-- [Fancy a flutter? Google to allow real money gambling worldwide](https://www.reddit.com/r/androiddev/comments/l770or/fancy_a_flutter_google_to_allow_real_money/)
-- [IntentService is deprecated and does not "work well" with Oreo, if so what is the purpose of Foreground Services?](https://www.reddit.com/r/androiddev/comments/l727ol/intentservice_is_deprecated_and_does_not_work/)
-- [Can't get menu to show up in fragment](https://www.reddit.com/r/androiddev/comments/l70r8q/cant_get_menu_to_show_up_in_fragment/)
-- [Switching from a NavGraph to Another Using Google's Nav Extensions Function](https://www.reddit.com/r/androiddev/comments/l7071v/switching_from_a_navgraph_to_another_using/)
+- [Developing in android native or flutter?](https://www.reddit.com/r/androiddev/comments/l89jem/developing_in_android_native_or_flutter/)
+- [Guess I won't update Android Studio in a long time](https://www.reddit.com/r/androiddev/comments/l88qod/guess_i_wont_update_android_studio_in_a_long_time/)
+- [PERSONAL BUDGETING APP](https://www.reddit.com/r/androiddev/comments/l84otl/personal_budgeting_app/)
+- [Which implementation of clean architecture should I follow?](https://www.reddit.com/r/androiddev/comments/l83vcx/which_implementation_of_clean_architecture_should/)
+- [Play store question.](https://www.reddit.com/r/androiddev/comments/l82uq9/play_store_question/)
+- [Dependency Injection Composition Root!](https://www.reddit.com/r/androiddev/comments/l825zf/dependency_injection_composition_root/)
+- [Develop app WITHOUT accepting any Eulas ?](https://www.reddit.com/r/androiddev/comments/l80xgh/develop_app_without_accepting_any_eulas/)
+- [Building a Decentralized Social Platform With no Servers *In Progress* - GIT Included](https://www.reddit.com/r/androiddev/comments/l80nqf/building_a_decentralized_social_platform_with_no/)
+- [The case for Vim in Android Studio](https://www.reddit.com/r/androiddev/comments/l7zkco/the_case_for_vim_in_android_studio/)
+- [What’s the best valued phone por development?](https://www.reddit.com/r/androiddev/comments/l7xszs/whats_the_best_valued_phone_por_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
