@@ -13,6 +13,8 @@
   </a>
 </p>
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/android-patterns)
+![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/android-patterns)
 ![Lines of code](https://tokei.rs/b1/github/AlexRogalskiy/android-patterns?category=lines)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/AlexRogalskiy/android-patterns)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AlexRogalskiy/android-patterns)
@@ -23,6 +25,11 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/android-patterns/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/android-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/android-patterns)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fandroid-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fandroid-patterns?ref=badge_shield)
+[![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
+[![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/android-patterns)
+[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/android-patterns)](https://hitsofcode.com/github/AlexRogalskiy/android-patterns/view)
+[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/AlexRogalskiy/android-patterns)
 
 ## 🎹 _Table of contents_
 
