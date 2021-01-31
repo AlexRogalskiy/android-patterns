@@ -4,7 +4,7 @@
 	<img src="https://github.com/AlexRogalskiy/android-patterns/blob/master/images/banner.png" width="100%" height="60%" alt="Android Design patterns"/>
 </p>
 
-<p align="center">
+<p align="center" style="text-align:center;">
   <a href="https://nullables.io/">
     <img src="https://img.shields.io/badge/made%20by-Nullables%20Labs-blue.svg?style=flat-square&longCache=true&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIwIDMwMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNOTguODI0IDE0OS40OThjMCAxMi41Ny0yLjM1NiAyNC41ODItNi42MzcgMzUuNjM3LTQ5LjEtMjQuODEtODIuNzc1LTc1LjY5Mi04Mi43NzUtMTM0LjQ2IDAtMTcuNzgyIDMuMDkxLTM0LjgzOCA4Ljc0OS01MC42NzVhMTQ5LjUzNSAxNDkuNTM1IDAgMCAxIDQxLjEyNCAxMS4wNDYgMTA3Ljg3NyAxMDcuODc3IDAgMCAwLTcuNTIgMzkuNjI4YzAgMzYuODQyIDE4LjQyMyA2OS4zNiA0Ni41NDQgODguOTAzLjMyNiAzLjI2NS41MTUgNi41Ny41MTUgOS45MjF6TTY3LjgyIDE1LjAxOGM0OS4xIDI0LjgxMSA4Mi43NjggNzUuNzExIDgyLjc2OCAxMzQuNDggMCA4My4xNjgtNjcuNDIgMTUwLjU4OC0xNTAuNTg4IDE1MC41ODh2LTQyLjM1M2M1OS43NzggMCAxMDguMjM1LTQ4LjQ1OSAxMDguMjM1LTEwOC4yMzUgMC0zNi44NS0xOC40My02OS4zOC00Ni41NjItODguOTI3YTk5Ljk0OSA5OS45NDkgMCAwIDEtLjQ5Ny05Ljg5NyA5OC41MTIgOTguNTEyIDAgMCAxIDYuNjQ0LTM1LjY1NnptMTU1LjI5MiAxODIuNzE4YzE3LjczNyAzNS41NTggNTQuNDUgNTkuOTk3IDk2Ljg4OCA1OS45OTd2NDIuMzUzYy02MS45NTUgMC0xMTUuMTYyLTM3LjQyLTEzOC4yOC05MC44ODZhMTU4LjgxMSAxNTguODExIDAgMCAwIDQxLjM5Mi0xMS40NjR6bS0xMC4yNi02My41ODlhOTguMjMyIDk4LjIzMiAwIDAgMS00My40MjggMTQuODg5QzE2OS42NTQgNzIuMjI0IDIyNy4zOSA4Ljk1IDMwMS44NDUuMDAzYzQuNzAxIDEzLjE1MiA3LjU5MyAyNy4xNiA4LjQ1IDQxLjcxNC01MC4xMzMgNC40Ni05MC40MzMgNDMuMDgtOTcuNDQzIDkyLjQzem01NC4yNzgtNjguMTA1YzEyLjc5NC04LjEyNyAyNy41NjctMTMuNDA3IDQzLjQ1Mi0xNC45MTEtLjI0NyA4Mi45NTctNjcuNTY3IDE1MC4xMzItMTUwLjU4MiAxNTAuMTMyLTIuODQ2IDAtNS42NzMtLjA4OC04LjQ4LS4yNDNhMTU5LjM3OCAxNTkuMzc4IDAgMCAwIDguMTk4LTQyLjExOGMuMDk0IDAgLjE4Ny4wMDguMjgyLjAwOCA1NC41NTcgMCA5OS42NjUtNDAuMzczIDEwNy4xMy05Mi44Njh6IiBmaWxsPSIjRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4KPC9zdmc+" alt="Nullable labs"/>
   </a>
@@ -56,13 +56,13 @@
          * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
          * [<em>Infinum posts</em>](#infinum-posts)
 
-<!-- Added by: runner, at: Sat Jan 30 12:51:21 UTC 2021 -->
+<!-- Added by: runner, at: Sun Jan 31 17:42:01 UTC 2021 -->
 
 <!--te-->
 
 ## ☝ _Summary_
 
-<p align="center">
+<p align="center" style="text-align:center;">
 	<a href="https://www.repostatus.org/#active">
 		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
 	</a>
@@ -181,13 +181,13 @@ with community support please contact with us if you have some question or propo
 Please read [CONTRIBUTING.md](https://github.com/AlexRogalskiy/android-patterns/blob/master/.github/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![Github contributors](https://img.shields.io/github/all-contributors/AlexRogalskiy/android-patterns)
 
 See also the list of [contributors](https://github.com/AlexRogalskiy/android-patterns/graphs/contributors) who participated in this project.
 
 ## 🚨 _Visitor stats_
 
-[![Visits Badge](https://badges.pufler.dev/visits/AlexRogalskiy/android-patterns)](https://badges.pufler.dev)
-![Github contributors](https://img.shields.io/github/all-contributors/AlexRogalskiy/android-patterns)
+[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fandroid-patterns&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![GitHub stars](https://img.shields.io/github/stars/AlexRogalskiy/android-patterns?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AlexRogalskiy/android-patterns?style=social)
@@ -219,16 +219,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Developing in android native or flutter?](https://www.reddit.com/r/androiddev/comments/l89jem/developing_in_android_native_or_flutter/)
-- [Guess I won't update Android Studio in a long time](https://www.reddit.com/r/androiddev/comments/l88qod/guess_i_wont_update_android_studio_in_a_long_time/)
-- [PERSONAL BUDGETING APP](https://www.reddit.com/r/androiddev/comments/l84otl/personal_budgeting_app/)
-- [Which implementation of clean architecture should I follow?](https://www.reddit.com/r/androiddev/comments/l83vcx/which_implementation_of_clean_architecture_should/)
-- [Play store question.](https://www.reddit.com/r/androiddev/comments/l82uq9/play_store_question/)
-- [Dependency Injection Composition Root!](https://www.reddit.com/r/androiddev/comments/l825zf/dependency_injection_composition_root/)
-- [Develop app WITHOUT accepting any Eulas ?](https://www.reddit.com/r/androiddev/comments/l80xgh/develop_app_without_accepting_any_eulas/)
-- [Building a Decentralized Social Platform With no Servers *In Progress* - GIT Included](https://www.reddit.com/r/androiddev/comments/l80nqf/building_a_decentralized_social_platform_with_no/)
-- [The case for Vim in Android Studio](https://www.reddit.com/r/androiddev/comments/l7zkco/the_case_for_vim_in_android_studio/)
-- [What’s the best valued phone por development?](https://www.reddit.com/r/androiddev/comments/l7xszs/whats_the_best_valued_phone_por_development/)
+- [Is there a way to be notified when my release has been approved?](https://www.reddit.com/r/androiddev/comments/l8ytk6/is_there_a_way_to_be_notified_when_my_release_has/)
+- [Is there a no-coding free software that allows you to make a simple app?](https://www.reddit.com/r/androiddev/comments/l8yoze/is_there_a_nocoding_free_software_that_allows_you/)
+- [Flutter or React Native?](https://www.reddit.com/r/androiddev/comments/l8wjnx/flutter_or_react_native/)
+- [Comments and discussion about UI, integration tests, and mocks](https://www.reddit.com/r/androiddev/comments/l8twx5/comments_and_discussion_about_ui_integration/)
+- [Android Currency Converter with RxJava2, Dagger2, Retrofit and Kotlin Channel](https://www.reddit.com/r/androiddev/comments/l8qd0e/android_currency_converter_with_rxjava2_dagger2/)
+- [kmm +DART Flutter view](https://www.reddit.com/r/androiddev/comments/l8q2wj/kmm_dart_flutter_view/)
+- [Kotlin Coroutines Fundamentals](https://www.reddit.com/r/androiddev/comments/l8pu94/kotlin_coroutines_fundamentals/)
+- [Play Console Publish Timeline Question (With Ads SDK)](https://www.reddit.com/r/androiddev/comments/l8pu21/play_console_publish_timeline_question_with_ads/)
+- [First Time Dev: Error with Gradle Sync](https://www.reddit.com/r/androiddev/comments/l8prxg/first_time_dev_error_with_gradle_sync/)
+- [How do you let your users back up their data?](https://www.reddit.com/r/androiddev/comments/l8o3sq/how_do_you_let_your_users_back_up_their_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -289,16 +289,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Build Config — Customable Constant Field](https://medium.com/@tegarsuganda/build-config-customable-constant-field-686d6495c06a?source=rss------android-5)
-- [What You Did NOT Know About Funny Games For Android](https://medium.com/@bitwings/what-you-did-not-know-about-funny-games-for-android-e238a7b424a8?source=rss------android-5)
-- [Easily send and receive Push Notifications in Flutter without Node.js](https://medium.com/@ricardo-castellanos-herreros/easily-send-and-receive-push-notifications-in-flutter-without-node-js-ec177f72091c?source=rss------android-5)
-- [Android Custom View — ImageColorPicker — Part I](https://medium.com/@s8546937623/android-custom-view-imagecolorpicker-part-i-a32ab954a3b3?source=rss------android-5)
-- [Break Away From Android and iOS: 7 Free Open-Source Mobile OSes to Try](https://medium.com/pcmag-access/break-away-from-android-and-ios-7-free-open-source-mobile-oses-to-try-22c993287462?source=rss------android-5)
-- [A more accessible audio player](https://medium.com/headspace-engineering/a-more-accessible-audio-player-b9cafc388ff8?source=rss------android-5)
-- [Know more about the Android 11 Features that can impact your Mobile Application Development](https://medium.com/@owebest/know-more-about-the-android-11-features-that-can-impact-your-mobile-application-development-826cd240aab0?source=rss------android-5)
-- [How To Create a Commute App Like RTADubai](https://medium.com/@akkiofficiallybrillz/how-to-create-a-commute-app-like-rtadubai-13b57afdae1f?source=rss------android-5)
-- [Diferença entre FlatMap, SwitchMap e ConcatMap RxJava.](https://medium.com/@roque.buarque/diferen%C3%A7a-entre-flatmap-switchmap-e-concatmap-rxjava-e517d420a7a2?source=rss------android-5)
-- [Change an Android app’s icon in Android Studio](https://medium.com/@yilmaz-ayse00/change-an-android-apps-icon-in-android-studio-ac7cfbdc3ac3?source=rss------android-5)
+- [How to deploy to your Samsung Galaxy Watch with Visual Studio 2019](https://medium.com/@kennay-kermani/how-to-deploy-to-your-samsung-galaxy-watch-with-visual-studio-2019-9c5eeb2547bc?source=rss------android-5)
+- [Darkmode on Android](https://medium.com/@jgeig001/darkmode-on-android-fda3d5c8c5a5?source=rss------android-5)
+- [Need to create a mobile app? Here is what to choose.](https://medium.com/@andi-writes/need-to-create-a-mobile-app-here-is-what-to-choose-aaa30c60ea08?source=rss------android-5)
+- [Typically,](https://medium.com/@miha_x64/typically-3737c855af7c?source=rss------android-5)
+- [Download SpyNote v6.4 Latest Android RAT Tool](https://medium.com/@blackhattech98/download-spynote-v6-4-latest-android-rat-tool-5867dbe1d0b2?source=rss------android-5)
+- [How To Make A Movie Using Your Smartphone?](https://medium.com/@bitwings/how-to-make-a-movie-using-your-smartphone-2fcb17cd7f0f?source=rss------android-5)
+- [java.lang.NullPointerException:](https://medium.com/@ademfatih37/java-lang-nullpointerexception-a2da138c9984?source=rss------android-5)
+- [How to Use Telegram on PC](https://medium.com/@smarttecksolutions/how-to-use-telegram-on-pc-e75660c4d421?source=rss------android-5)
+- [Revisiting Android Scoped Storage in 2021](https://medium.com/@thach-do/revisiting-android-scoped-storage-in-2021-e2538abdebed?source=rss------android-5)
+- [We Need More Niche Smartphones](https://medium.com/@omarzahran/we-need-more-niche-smartphones-4ec6aa84e0d5?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
