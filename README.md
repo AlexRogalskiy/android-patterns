@@ -289,16 +289,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Build Config — Customable Constant Field](https://medium.com/@tegarsuganda/build-config-customable-constant-field-686d6495c06a?source=rss------android-5)
-- [What You Did NOT Know About Funny Games For Android](https://medium.com/@bitwings/what-you-did-not-know-about-funny-games-for-android-e238a7b424a8?source=rss------android-5)
-- [Easily send and receive Push Notifications in Flutter without Node.js](https://medium.com/@ricardo-castellanos-herreros/easily-send-and-receive-push-notifications-in-flutter-without-node-js-ec177f72091c?source=rss------android-5)
-- [Android Custom View — ImageColorPicker — Part I](https://medium.com/@s8546937623/android-custom-view-imagecolorpicker-part-i-a32ab954a3b3?source=rss------android-5)
-- [Break Away From Android and iOS: 7 Free Open-Source Mobile OSes to Try](https://medium.com/pcmag-access/break-away-from-android-and-ios-7-free-open-source-mobile-oses-to-try-22c993287462?source=rss------android-5)
-- [A more accessible audio player](https://medium.com/headspace-engineering/a-more-accessible-audio-player-b9cafc388ff8?source=rss------android-5)
-- [Know more about the Android 11 Features that can impact your Mobile Application Development](https://medium.com/@owebest/know-more-about-the-android-11-features-that-can-impact-your-mobile-application-development-826cd240aab0?source=rss------android-5)
-- [How To Create a Commute App Like RTADubai](https://medium.com/@akkiofficiallybrillz/how-to-create-a-commute-app-like-rtadubai-13b57afdae1f?source=rss------android-5)
-- [Diferença entre FlatMap, SwitchMap e ConcatMap RxJava.](https://medium.com/@roque.buarque/diferen%C3%A7a-entre-flatmap-switchmap-e-concatmap-rxjava-e517d420a7a2?source=rss------android-5)
-- [Change an Android app’s icon in Android Studio](https://medium.com/@yilmaz-ayse00/change-an-android-apps-icon-in-android-studio-ac7cfbdc3ac3?source=rss------android-5)
+- [How to deploy to your Samsung Galaxy Watch with Visual Studio 2019](https://medium.com/@kennay-kermani/how-to-deploy-to-your-samsung-galaxy-watch-with-visual-studio-2019-9c5eeb2547bc?source=rss------android-5)
+- [Darkmode on Android](https://medium.com/@jgeig001/darkmode-on-android-fda3d5c8c5a5?source=rss------android-5)
+- [Need to create a mobile app? Here is what to choose.](https://medium.com/@andi-writes/need-to-create-a-mobile-app-here-is-what-to-choose-aaa30c60ea08?source=rss------android-5)
+- [Typically,](https://medium.com/@miha_x64/typically-3737c855af7c?source=rss------android-5)
+- [Download SpyNote v6.4 Latest Android RAT Tool](https://medium.com/@blackhattech98/download-spynote-v6-4-latest-android-rat-tool-5867dbe1d0b2?source=rss------android-5)
+- [How To Make A Movie Using Your Smartphone?](https://medium.com/@bitwings/how-to-make-a-movie-using-your-smartphone-2fcb17cd7f0f?source=rss------android-5)
+- [java.lang.NullPointerException:](https://medium.com/@ademfatih37/java-lang-nullpointerexception-a2da138c9984?source=rss------android-5)
+- [How to Use Telegram on PC](https://medium.com/@smarttecksolutions/how-to-use-telegram-on-pc-e75660c4d421?source=rss------android-5)
+- [Revisiting Android Scoped Storage in 2021](https://medium.com/@thach-do/revisiting-android-scoped-storage-in-2021-e2538abdebed?source=rss------android-5)
+- [We Need More Niche Smartphones](https://medium.com/@omarzahran/we-need-more-niche-smartphones-4ec6aa84e0d5?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
