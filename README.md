@@ -219,16 +219,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Developing in android native or flutter?](https://www.reddit.com/r/androiddev/comments/l89jem/developing_in_android_native_or_flutter/)
-- [Guess I won't update Android Studio in a long time](https://www.reddit.com/r/androiddev/comments/l88qod/guess_i_wont_update_android_studio_in_a_long_time/)
-- [PERSONAL BUDGETING APP](https://www.reddit.com/r/androiddev/comments/l84otl/personal_budgeting_app/)
-- [Which implementation of clean architecture should I follow?](https://www.reddit.com/r/androiddev/comments/l83vcx/which_implementation_of_clean_architecture_should/)
-- [Play store question.](https://www.reddit.com/r/androiddev/comments/l82uq9/play_store_question/)
-- [Dependency Injection Composition Root!](https://www.reddit.com/r/androiddev/comments/l825zf/dependency_injection_composition_root/)
-- [Develop app WITHOUT accepting any Eulas ?](https://www.reddit.com/r/androiddev/comments/l80xgh/develop_app_without_accepting_any_eulas/)
-- [Building a Decentralized Social Platform With no Servers *In Progress* - GIT Included](https://www.reddit.com/r/androiddev/comments/l80nqf/building_a_decentralized_social_platform_with_no/)
-- [The case for Vim in Android Studio](https://www.reddit.com/r/androiddev/comments/l7zkco/the_case_for_vim_in_android_studio/)
-- [What’s the best valued phone por development?](https://www.reddit.com/r/androiddev/comments/l7xszs/whats_the_best_valued_phone_por_development/)
+- [Is there a way to be notified when my release has been approved?](https://www.reddit.com/r/androiddev/comments/l8ytk6/is_there_a_way_to_be_notified_when_my_release_has/)
+- [Is there a no-coding free software that allows you to make a simple app?](https://www.reddit.com/r/androiddev/comments/l8yoze/is_there_a_nocoding_free_software_that_allows_you/)
+- [Flutter or React Native?](https://www.reddit.com/r/androiddev/comments/l8wjnx/flutter_or_react_native/)
+- [Comments and discussion about UI, integration tests, and mocks](https://www.reddit.com/r/androiddev/comments/l8twx5/comments_and_discussion_about_ui_integration/)
+- [Android Currency Converter with RxJava2, Dagger2, Retrofit and Kotlin Channel](https://www.reddit.com/r/androiddev/comments/l8qd0e/android_currency_converter_with_rxjava2_dagger2/)
+- [kmm +DART Flutter view](https://www.reddit.com/r/androiddev/comments/l8q2wj/kmm_dart_flutter_view/)
+- [Kotlin Coroutines Fundamentals](https://www.reddit.com/r/androiddev/comments/l8pu94/kotlin_coroutines_fundamentals/)
+- [Play Console Publish Timeline Question (With Ads SDK)](https://www.reddit.com/r/androiddev/comments/l8pu21/play_console_publish_timeline_question_with_ads/)
+- [First Time Dev: Error with Gradle Sync](https://www.reddit.com/r/androiddev/comments/l8prxg/first_time_dev_error_with_gradle_sync/)
+- [How do you let your users back up their data?](https://www.reddit.com/r/androiddev/comments/l8o3sq/how_do_you_let_your_users_back_up_their_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
