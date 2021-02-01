@@ -219,16 +219,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a way to be notified when my release has been approved?](https://www.reddit.com/r/androiddev/comments/l8ytk6/is_there_a_way_to_be_notified_when_my_release_has/)
-- [Is there a no-coding free software that allows you to make a simple app?](https://www.reddit.com/r/androiddev/comments/l8yoze/is_there_a_nocoding_free_software_that_allows_you/)
-- [Flutter or React Native?](https://www.reddit.com/r/androiddev/comments/l8wjnx/flutter_or_react_native/)
-- [Comments and discussion about UI, integration tests, and mocks](https://www.reddit.com/r/androiddev/comments/l8twx5/comments_and_discussion_about_ui_integration/)
-- [Android Currency Converter with RxJava2, Dagger2, Retrofit and Kotlin Channel](https://www.reddit.com/r/androiddev/comments/l8qd0e/android_currency_converter_with_rxjava2_dagger2/)
-- [kmm +DART Flutter view](https://www.reddit.com/r/androiddev/comments/l8q2wj/kmm_dart_flutter_view/)
-- [Kotlin Coroutines Fundamentals](https://www.reddit.com/r/androiddev/comments/l8pu94/kotlin_coroutines_fundamentals/)
-- [Play Console Publish Timeline Question (With Ads SDK)](https://www.reddit.com/r/androiddev/comments/l8pu21/play_console_publish_timeline_question_with_ads/)
-- [First Time Dev: Error with Gradle Sync](https://www.reddit.com/r/androiddev/comments/l8prxg/first_time_dev_error_with_gradle_sync/)
-- [How do you let your users back up their data?](https://www.reddit.com/r/androiddev/comments/l8o3sq/how_do_you_let_your_users_back_up_their_data/)
+- [Where do I get started with my own hardware and software to build an android phone?](https://www.reddit.com/r/androiddev/comments/l9nzzg/where_do_i_get_started_with_my_own_hardware_and/)
+- [No clue where to start. Is this a pipe dream?](https://www.reddit.com/r/androiddev/comments/l9mtav/no_clue_where_to_start_is_this_a_pipe_dream/)
+- [Protecting intents with permissions](https://www.reddit.com/r/androiddev/comments/l9jzug/protecting_intents_with_permissions/)
+- [What were your first few Android apps?](https://www.reddit.com/r/androiddev/comments/l9jok4/what_were_your_first_few_android_apps/)
+- [Not Responding when creating activity](https://www.reddit.com/r/androiddev/comments/l9iksu/not_responding_when_creating_activity/)
+- [INSTALL_PARSE_FAILED_NO_CERTIFICATES When Upgrading Gradle](https://www.reddit.com/r/androiddev/comments/l9g0xe/install_parse_failed_no_certificates_when/)
+- [What Mobile App Development Tools / Software can preview the app on a real device??](https://www.reddit.com/r/androiddev/comments/l9dp4n/what_mobile_app_development_tools_software_can/)
+- [For any Unity android devs, if your app has a lot of static screens that only change when the user interacts with them, you can massively decrease your GPU/CPU/Battery usage by dropping the frame rate to 1FPS while keeping the rest of the engine running at 60FPS using the new OnDemandRendering API.](https://www.reddit.com/r/androiddev/comments/l9deaa/for_any_unity_android_devs_if_your_app_has_a_lot/)
+- [USB DAC Problems with connection](https://www.reddit.com/r/androiddev/comments/l9bp4v/usb_dac_problems_with_connection/)
+- [Firebase dependencies -ktx](https://www.reddit.com/r/androiddev/comments/l9bavk/firebase_dependencies_ktx/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -289,21 +289,22 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [How to deploy to your Samsung Galaxy Watch with Visual Studio 2019](https://medium.com/@kennay-kermani/how-to-deploy-to-your-samsung-galaxy-watch-with-visual-studio-2019-9c5eeb2547bc?source=rss------android-5)
-- [Darkmode on Android](https://medium.com/@jgeig001/darkmode-on-android-fda3d5c8c5a5?source=rss------android-5)
-- [Need to create a mobile app? Here is what to choose.](https://medium.com/@andi-writes/need-to-create-a-mobile-app-here-is-what-to-choose-aaa30c60ea08?source=rss------android-5)
-- [Typically,](https://medium.com/@miha_x64/typically-3737c855af7c?source=rss------android-5)
-- [Download SpyNote v6.4 Latest Android RAT Tool](https://medium.com/@blackhattech98/download-spynote-v6-4-latest-android-rat-tool-5867dbe1d0b2?source=rss------android-5)
-- [How To Make A Movie Using Your Smartphone?](https://medium.com/@bitwings/how-to-make-a-movie-using-your-smartphone-2fcb17cd7f0f?source=rss------android-5)
-- [java.lang.NullPointerException:](https://medium.com/@ademfatih37/java-lang-nullpointerexception-a2da138c9984?source=rss------android-5)
-- [How to Use Telegram on PC](https://medium.com/@smarttecksolutions/how-to-use-telegram-on-pc-e75660c4d421?source=rss------android-5)
-- [Revisiting Android Scoped Storage in 2021](https://medium.com/@thach-do/revisiting-android-scoped-storage-in-2021-e2538abdebed?source=rss------android-5)
-- [We Need More Niche Smartphones](https://medium.com/@omarzahran/we-need-more-niche-smartphones-4ec6aa84e0d5?source=rss------android-5)
+- [Google pulls Element’s Android chat app over content it doesn’t control (updated)](https://medium.com/@tobiolubanjo2468/google-pulls-elements-android-chat-app-over-content-it-doesn-t-control-updated-34dfcde48656?source=rss------android-5)
+- [Week 1 — DLUX Icon Pack](https://medium.com/dlux-icon-pack-andrew-vaive-android-icon-design/week-1-dlux-icon-pack-52778f8b23fc?source=rss------android-5)
+- [What is on my iPhone 11 and Apple Watch Series 5 Cellular & why I have these devices?](https://medium.com/@dudethatserin/what-is-on-my-iphone-11-and-apple-watch-series-5-cellular-why-i-have-these-devices-f47e9df0e176?source=rss------android-5)
+- [BEST APPS FOR GAMERS](https://medium.com/@bitwings/best-apps-for-gamers-8f3feb38d66d?source=rss------android-5)
+- [Ram Optimization: প্রথম পর্ব (এন্ড্রয়েড)](https://medium.com/@sksenweb/ram-optimization-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%A1-51a7882e52f3?source=rss------android-5)
+- [Generate Privacy Policy and Terms & Conditions for mobile app in 5 minutes](https://medium.com/xorum-io/generate-privacy-policy-and-terms-conditions-for-mobile-app-in-5-minutes-4aed24bcdc31?source=rss------android-5)
+- [Explore The Best Android Libraries for 2020–2021](https://medium.com/@owebest/explore-the-best-android-libraries-for-2020-2021-3992b6afd188?source=rss------android-5)
+- [E1DA 9038D Impressions](https://medium.com/bedrock-reviews/e1da-9038d-impressions-8458ba8aa441?source=rss------android-5)
+- [Android — How to protect the apps from illegal operations by third party using biometric api](https://medium.com/@masaaki.iwaguchi/android-how-to-protect-the-apps-from-illegal-operations-by-third-party-using-biometric-api-51a039458d52?source=rss------android-5)
+- [Multi Button Selection using FlatList in React Native](https://medium.com/@vasanth370/multi-button-selection-using-flatlist-in-react-native-29d40a9936a8?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Suspended Federated Chat App Element for Allegedly Hosting Abusive Content](https://gizmodo.com/google-suspended-federated-chat-app-element-for-alleged-1846167702)
 - [See Which Apps Are Using Your Camera, Microphone, and Location](https://gizmodo.com/see-which-apps-are-using-your-camera-microphone-and-l-1846044433)
 - [It's Done—the Google-Fitbit Deal Is Complete](https://gizmodo.com/its-done-the-google-fitbit-deal-is-complete-1846057104)
 - [The Best Apps to Distract Your Brain from the Nightmare That Is 2021](https://gizmodo.com/the-best-apps-to-distract-your-brain-from-the-nightmare-1846027578)
@@ -313,7 +314,6 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 - [Google Sneakily Removed Support for Astrophotography Mode from Ultra-Wide Cams on the Pixel 5 and 4a 5G](https://gizmodo.com/google-sneakily-removed-support-for-astrophotography-mo-1845962214)
 - [Samsung's Galaxy S21 Ultra Will Reportedly Get S-Pen Support](https://gizmodo.com/samsungs-galaxy-s21-ultra-will-reportedly-get-s-pen-sup-1845940688)
 - [OnePlus' Latest Concept Phone Is a Color-Shifting, Motion-Sensing Tease](https://gizmodo.com/oneplus-latest-concept-phone-is-a-color-shifting-motio-1845928122)
-- [Netflix May Be Introducing an Audio-Only Mode for Listening to Shows with the Screen Off](https://gizmodo.com/netflix-may-be-introducing-an-audio-only-mode-for-liste-1845894272)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
