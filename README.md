@@ -1,7 +1,7 @@
 # Android Design Patterns
 
 <p align="center" style="text-align:center;">
-	<img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/master/images/banner.png" width="100%" height="60%" alt="Android Design patterns"/>
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/master/images/banner.png" width="100%" height="60%" alt="Android Design patterns"/>
 </p>
 
 <p align="center" style="text-align:center;">
@@ -28,8 +28,8 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fandroid-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fandroid-patterns?ref=badge_shield)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/android-patterns)
-[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/android-patterns)](https://hitsofcode.com/github/AlexRogalskiy/android-patterns/view)
-[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/AlexRogalskiy/android-patterns)
+[![Hits-of-Code](https://hitsofcode.com/github/alexrogalskiy/android-patterns?branch=master)](https://hitsofcode.com/github/alexrogalskiy/android-patterns?branch=master/view?branch=master)
+[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 
 ## 🎹 _Table of contents_
 
@@ -55,28 +55,26 @@
          * [<em>Gizmodo posts</em>](#gizmodo-posts)
          * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
          * [<em>Infinum posts</em>](#infinum-posts)
-
-<!-- Added by: runner, at: Mon Feb  1 09:05:07 UTC 2021 -->
-
 <!--te-->
 
 ## ☝ _Summary_
 
 <p align="center" style="text-align:center;">
-	<a href="https://www.repostatus.org/#active">
-		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/created/AlexRogalskiy/android-patterns" alt="Project created status" />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/updated/AlexRogalskiy/android-patterns" alt="Project updated status" />
-	</a>
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+    <a href="https://www.repostatus.org/#active">
+        <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/created/AlexRogalskiy/android-patterns" alt="Project created status" />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/updated/AlexRogalskiy/android-patterns" alt="Project updated status" />
+    </a>
 </p>
 
-**Android Design Patterns** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+_**Android Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
-```text 
+```text
 mkdocs.yml    # Configuration file.
 docs/
     readme.md  # General information
@@ -112,7 +110,7 @@ docs/
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[**Android Patterns**](https://alexander-rogalsky.gitbook.io/android-patterns/)
+[_**Android Patterns**_][docs]
 
 To enable documentation serving at _**localhost**_ ****the following steps should be considered:
 
@@ -164,7 +162,7 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 ## 📝 _Versioning_
 
-The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/AlexRogalskiy/android-patterns/tags).
+The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository][tags].
 
 ## 🌹 _Authors_
 
@@ -183,7 +181,7 @@ Please read [CONTRIBUTING.md](https://github.com/AlexRogalskiy/android-patterns/
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![Github contributors](https://img.shields.io/github/all-contributors/AlexRogalskiy/android-patterns)
 
-See also the list of [contributors](https://github.com/AlexRogalskiy/android-patterns/graphs/contributors) who participated in this project.
+See also the list of [contributors][contributors] who participated in this project.
 
 ## 🚨 _Visitor stats_
 
@@ -195,16 +193,15 @@ See also the list of [contributors](https://github.com/AlexRogalskiy/android-pat
 
 ## ⚽ _Licensing_
 
-_**Android Patterns**_ is distributed under LGPL version 3 or later, see COPYING.LESSER\(LGPL\) and COPYING\(GPL\).
+_**Android Patterns**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/android-patterns/blob/master/LICENSE.txt)].
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
-([License](https://github.com/AlexRogalskiy/android-patterns/blob/master/LICENSE.txt))
-
 ## 🌟 _Development Support_
 
-Like _**Android Patterns**_ ? Consider buying me a coffee :\)
+Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/master/images/icon.png" width="20" height="20" alt="Android Design patterns"/>
+ and _**Android Patterns**_ ? Consider buying me a coffee :\)
 
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
@@ -212,7 +209,7 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 
 ## 👨‍👨‍👧‍👦 _Acknowledgement_
 
-[![Stargazers repo roster for @AlexRogalskiy/android-patterns](https://reporoster.com/stars/AlexRogalskiy/android-patterns)](https://github.com/AlexRogalskiy/android-patterns/stargazers)
+[![Stargazers repo roster for @AlexRogalskiy/android-patterns](https://reporoster.com/stars/AlexRogalskiy/android-patterns)][stars]
 
 ## 🔥 _Feeds and Podcasts_
 
@@ -341,3 +338,11 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 - [Is your app MAD enough?](https://androidsweets.ongoodbits.com/2020/12/18/is-your-app-mad-enough)
 <!-- INFINUM-POST-LIST:END -->
 
+  [repo]:           https://github.com/AlexRogalskiy/android-patterns
+  [tags]:           https://github.com/AlexRogalskiy/android-patterns/tags
+  [issues]:         https://github.com/AlexRogalskiy/android-patterns/issues
+  [pulls]:          https://github.com/AlexRogalskiy/android-patterns/pulls
+  [wiki]:           https://github.com/AlexRogalskiy/android-patterns/wiki
+  [stars]:          https://github.com/AlexRogalskiy/android-patterns/stargazers
+  [contributors]:   https://github.com/AlexRogalskiy/android-patterns/graphs/contributors
+  [docs]:           https://alexander-rogalsky.gitbook.io/android-patterns/
