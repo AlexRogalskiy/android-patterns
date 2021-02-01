@@ -304,6 +304,7 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Suspended Federated Chat App Element for Allegedly Hosting Abusive Content](https://gizmodo.com/google-suspended-federated-chat-app-element-for-alleged-1846167702)
 - [See Which Apps Are Using Your Camera, Microphone, and Location](https://gizmodo.com/see-which-apps-are-using-your-camera-microphone-and-l-1846044433)
 - [It's Done—the Google-Fitbit Deal Is Complete](https://gizmodo.com/its-done-the-google-fitbit-deal-is-complete-1846057104)
 - [The Best Apps to Distract Your Brain from the Nightmare That Is 2021](https://gizmodo.com/the-best-apps-to-distract-your-brain-from-the-nightmare-1846027578)
@@ -313,7 +314,6 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 - [Google Sneakily Removed Support for Astrophotography Mode from Ultra-Wide Cams on the Pixel 5 and 4a 5G](https://gizmodo.com/google-sneakily-removed-support-for-astrophotography-mo-1845962214)
 - [Samsung's Galaxy S21 Ultra Will Reportedly Get S-Pen Support](https://gizmodo.com/samsungs-galaxy-s21-ultra-will-reportedly-get-s-pen-sup-1845940688)
 - [OnePlus' Latest Concept Phone Is a Color-Shifting, Motion-Sensing Tease](https://gizmodo.com/oneplus-latest-concept-phone-is-a-color-shifting-motio-1845928122)
-- [Netflix May Be Introducing an Audio-Only Mode for Listening to Shows with the Screen Off](https://gizmodo.com/netflix-may-be-introducing-an-audio-only-mode-for-liste-1845894272)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
