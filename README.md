@@ -289,16 +289,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [How to deploy to your Samsung Galaxy Watch with Visual Studio 2019](https://medium.com/@kennay-kermani/how-to-deploy-to-your-samsung-galaxy-watch-with-visual-studio-2019-9c5eeb2547bc?source=rss------android-5)
-- [Darkmode on Android](https://medium.com/@jgeig001/darkmode-on-android-fda3d5c8c5a5?source=rss------android-5)
-- [Need to create a mobile app? Here is what to choose.](https://medium.com/@andi-writes/need-to-create-a-mobile-app-here-is-what-to-choose-aaa30c60ea08?source=rss------android-5)
-- [Typically,](https://medium.com/@miha_x64/typically-3737c855af7c?source=rss------android-5)
-- [Download SpyNote v6.4 Latest Android RAT Tool](https://medium.com/@blackhattech98/download-spynote-v6-4-latest-android-rat-tool-5867dbe1d0b2?source=rss------android-5)
-- [How To Make A Movie Using Your Smartphone?](https://medium.com/@bitwings/how-to-make-a-movie-using-your-smartphone-2fcb17cd7f0f?source=rss------android-5)
-- [java.lang.NullPointerException:](https://medium.com/@ademfatih37/java-lang-nullpointerexception-a2da138c9984?source=rss------android-5)
-- [How to Use Telegram on PC](https://medium.com/@smarttecksolutions/how-to-use-telegram-on-pc-e75660c4d421?source=rss------android-5)
-- [Revisiting Android Scoped Storage in 2021](https://medium.com/@thach-do/revisiting-android-scoped-storage-in-2021-e2538abdebed?source=rss------android-5)
-- [We Need More Niche Smartphones](https://medium.com/@omarzahran/we-need-more-niche-smartphones-4ec6aa84e0d5?source=rss------android-5)
+- [Google pulls Element’s Android chat app over content it doesn’t control (updated)](https://medium.com/@tobiolubanjo2468/google-pulls-elements-android-chat-app-over-content-it-doesn-t-control-updated-34dfcde48656?source=rss------android-5)
+- [Week 1 — DLUX Icon Pack](https://medium.com/dlux-icon-pack-andrew-vaive-android-icon-design/week-1-dlux-icon-pack-52778f8b23fc?source=rss------android-5)
+- [What is on my iPhone 11 and Apple Watch Series 5 Cellular & why I have these devices?](https://medium.com/@dudethatserin/what-is-on-my-iphone-11-and-apple-watch-series-5-cellular-why-i-have-these-devices-f47e9df0e176?source=rss------android-5)
+- [BEST APPS FOR GAMERS](https://medium.com/@bitwings/best-apps-for-gamers-8f3feb38d66d?source=rss------android-5)
+- [Ram Optimization: প্রথম পর্ব (এন্ড্রয়েড)](https://medium.com/@sksenweb/ram-optimization-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%A1-51a7882e52f3?source=rss------android-5)
+- [Generate Privacy Policy and Terms & Conditions for mobile app in 5 minutes](https://medium.com/xorum-io/generate-privacy-policy-and-terms-conditions-for-mobile-app-in-5-minutes-4aed24bcdc31?source=rss------android-5)
+- [Explore The Best Android Libraries for 2020–2021](https://medium.com/@owebest/explore-the-best-android-libraries-for-2020-2021-3992b6afd188?source=rss------android-5)
+- [E1DA 9038D Impressions](https://medium.com/bedrock-reviews/e1da-9038d-impressions-8458ba8aa441?source=rss------android-5)
+- [Android — How to protect the apps from illegal operations by third party using biometric api](https://medium.com/@masaaki.iwaguchi/android-how-to-protect-the-apps-from-illegal-operations-by-third-party-using-biometric-api-51a039458d52?source=rss------android-5)
+- [Multi Button Selection using FlatList in React Native](https://medium.com/@vasanth370/multi-button-selection-using-flatlist-in-react-native-29d40a9936a8?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
