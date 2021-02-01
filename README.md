@@ -55,9 +55,6 @@
          * [<em>Gizmodo posts</em>](#gizmodo-posts)
          * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
          * [<em>Infinum posts</em>](#infinum-posts)
-
-<!-- Added by: runner, at: Mon Feb  1 13:38:02 UTC 2021 -->
-
 <!--te-->
 
 ## ☝ _Summary_
