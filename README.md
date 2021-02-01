@@ -219,16 +219,16 @@ Like _**Android Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a way to be notified when my release has been approved?](https://www.reddit.com/r/androiddev/comments/l8ytk6/is_there_a_way_to_be_notified_when_my_release_has/)
-- [Is there a no-coding free software that allows you to make a simple app?](https://www.reddit.com/r/androiddev/comments/l8yoze/is_there_a_nocoding_free_software_that_allows_you/)
-- [Flutter or React Native?](https://www.reddit.com/r/androiddev/comments/l8wjnx/flutter_or_react_native/)
-- [Comments and discussion about UI, integration tests, and mocks](https://www.reddit.com/r/androiddev/comments/l8twx5/comments_and_discussion_about_ui_integration/)
-- [Android Currency Converter with RxJava2, Dagger2, Retrofit and Kotlin Channel](https://www.reddit.com/r/androiddev/comments/l8qd0e/android_currency_converter_with_rxjava2_dagger2/)
-- [kmm +DART Flutter view](https://www.reddit.com/r/androiddev/comments/l8q2wj/kmm_dart_flutter_view/)
-- [Kotlin Coroutines Fundamentals](https://www.reddit.com/r/androiddev/comments/l8pu94/kotlin_coroutines_fundamentals/)
-- [Play Console Publish Timeline Question (With Ads SDK)](https://www.reddit.com/r/androiddev/comments/l8pu21/play_console_publish_timeline_question_with_ads/)
-- [First Time Dev: Error with Gradle Sync](https://www.reddit.com/r/androiddev/comments/l8prxg/first_time_dev_error_with_gradle_sync/)
-- [How do you let your users back up their data?](https://www.reddit.com/r/androiddev/comments/l8o3sq/how_do_you_let_your_users_back_up_their_data/)
+- [Where do I get started with my own hardware and software to build an android phone?](https://www.reddit.com/r/androiddev/comments/l9nzzg/where_do_i_get_started_with_my_own_hardware_and/)
+- [No clue where to start. Is this a pipe dream?](https://www.reddit.com/r/androiddev/comments/l9mtav/no_clue_where_to_start_is_this_a_pipe_dream/)
+- [Protecting intents with permissions](https://www.reddit.com/r/androiddev/comments/l9jzug/protecting_intents_with_permissions/)
+- [What were your first few Android apps?](https://www.reddit.com/r/androiddev/comments/l9jok4/what_were_your_first_few_android_apps/)
+- [Not Responding when creating activity](https://www.reddit.com/r/androiddev/comments/l9iksu/not_responding_when_creating_activity/)
+- [INSTALL_PARSE_FAILED_NO_CERTIFICATES When Upgrading Gradle](https://www.reddit.com/r/androiddev/comments/l9g0xe/install_parse_failed_no_certificates_when/)
+- [What Mobile App Development Tools / Software can preview the app on a real device??](https://www.reddit.com/r/androiddev/comments/l9dp4n/what_mobile_app_development_tools_software_can/)
+- [For any Unity android devs, if your app has a lot of static screens that only change when the user interacts with them, you can massively decrease your GPU/CPU/Battery usage by dropping the frame rate to 1FPS while keeping the rest of the engine running at 60FPS using the new OnDemandRendering API.](https://www.reddit.com/r/androiddev/comments/l9deaa/for_any_unity_android_devs_if_your_app_has_a_lot/)
+- [USB DAC Problems with connection](https://www.reddit.com/r/androiddev/comments/l9bp4v/usb_dac_problems_with_connection/)
+- [Firebase dependencies -ktx](https://www.reddit.com/r/androiddev/comments/l9bavk/firebase_dependencies_ktx/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
