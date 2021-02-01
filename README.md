@@ -112,7 +112,7 @@ docs/
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[_**Android Patterns**_](https://alexander-rogalsky.gitbook.io/android-patterns/)
+[_**Android Patterns**_][docs]
 
 To enable documentation serving at _**localhost**_ ****the following steps should be considered:
 
@@ -347,3 +347,4 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
   [wiki]:           https://github.com/AlexRogalskiy/android-patterns/wiki
   [stars]:          https://github.com/AlexRogalskiy/android-patterns/stargazers
   [contributors]:   https://github.com/AlexRogalskiy/android-patterns/graphs/contributors
+  [docs]:           https://alexander-rogalsky.gitbook.io/android-patterns/
