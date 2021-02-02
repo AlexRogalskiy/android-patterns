@@ -38,6 +38,7 @@
       * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
+      * [<em>Statistics</em>](#-statistics)
       * [<em>Versioning</em>](#-versioning)
       * [<em>Authors</em>](#-authors)
       * [<em>Contributing</em>](#-contributing)
@@ -112,7 +113,7 @@ The Website documentation is provided by [gitbook](https://www.gitbook.com/) and
 
 [_**Android Patterns**_][docs]
 
-To enable documentation serving at _**localhost**_ ****the following steps should be considered:
+To enable documentation serving at _**localhost**_ the following steps should be considered:
 
 1\) Install/upgrade _**pip**_ command-line utility:
 
@@ -159,6 +160,12 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ```
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
+
+## ⏰ _Statistics_
+
+<p align="center" style="text-align:center;">
+    <img alt="Documentation PageSpeed result dashboard" src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/master/reports/pagespeedresultmobile.svg"/>
+</p>
 
 ## 📝 _Versioning_
 
@@ -216,16 +223,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where do I get started with my own hardware and software to build an android phone?](https://www.reddit.com/r/androiddev/comments/l9nzzg/where_do_i_get_started_with_my_own_hardware_and/)
-- [No clue where to start. Is this a pipe dream?](https://www.reddit.com/r/androiddev/comments/l9mtav/no_clue_where_to_start_is_this_a_pipe_dream/)
-- [Protecting intents with permissions](https://www.reddit.com/r/androiddev/comments/l9jzug/protecting_intents_with_permissions/)
-- [What were your first few Android apps?](https://www.reddit.com/r/androiddev/comments/l9jok4/what_were_your_first_few_android_apps/)
-- [Not Responding when creating activity](https://www.reddit.com/r/androiddev/comments/l9iksu/not_responding_when_creating_activity/)
-- [INSTALL_PARSE_FAILED_NO_CERTIFICATES When Upgrading Gradle](https://www.reddit.com/r/androiddev/comments/l9g0xe/install_parse_failed_no_certificates_when/)
-- [What Mobile App Development Tools / Software can preview the app on a real device??](https://www.reddit.com/r/androiddev/comments/l9dp4n/what_mobile_app_development_tools_software_can/)
-- [For any Unity android devs, if your app has a lot of static screens that only change when the user interacts with them, you can massively decrease your GPU/CPU/Battery usage by dropping the frame rate to 1FPS while keeping the rest of the engine running at 60FPS using the new OnDemandRendering API.](https://www.reddit.com/r/androiddev/comments/l9deaa/for_any_unity_android_devs_if_your_app_has_a_lot/)
-- [USB DAC Problems with connection](https://www.reddit.com/r/androiddev/comments/l9bp4v/usb_dac_problems_with_connection/)
-- [Firebase dependencies -ktx](https://www.reddit.com/r/androiddev/comments/l9bavk/firebase_dependencies_ktx/)
+- [Here is my first Boss ever!!](https://www.reddit.com/r/androiddev/comments/lak5z7/here_is_my_first_boss_ever/)
+- [How to send push notifications in real time to an android device without Firebase](https://www.reddit.com/r/androiddev/comments/lafsln/how_to_send_push_notifications_in_real_time_to_an/)
+- [Android Navigation Deep link path regex?](https://www.reddit.com/r/androiddev/comments/ladug2/android_navigation_deep_link_path_regex/)
+- [Compose Ui StateFlow.collectAsState() not working for StateFlow<ArrayList<*>>](https://www.reddit.com/r/androiddev/comments/ladp0q/compose_ui_stateflowcollectasstate_not_working/)
+- [Finally emulator is available inside android studio for M1 !!!](https://www.reddit.com/r/androiddev/comments/lacrll/finally_emulator_is_available_inside_android/)
+- ["Notice me senpai!" In Android Docs...](https://www.reddit.com/r/androiddev/comments/laau6u/notice_me_senpai_in_android_docs/)
+- [Question about AR Apps](https://www.reddit.com/r/androiddev/comments/laa6rk/question_about_ar_apps/)
+- [Fast migration from Kotlin Synthetics to View Binding- Tips and Tricks](https://www.reddit.com/r/androiddev/comments/laa3t6/fast_migration_from_kotlin_synthetics_to_view/)
+- [Need help on where to start app development](https://www.reddit.com/r/androiddev/comments/laa1hr/need_help_on_where_to_start_app_development/)
+- [Kotlin's one of those languages, which many devs wish migrate to!](https://www.reddit.com/r/androiddev/comments/laa10m/kotlins_one_of_those_languages_which_many_devs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -256,16 +263,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+- [How to create Oculus Quest experiences in Unity](https://www.androidauthority.com/oculus-quest-development-1196351/)
 - [Upwork vs Fiverr: Which is the best place to sell your services?](https://www.androidauthority.com/upwork-vs-fiverr-1190439/)
 - [How to install Android on PC: These are your best options](https://www.androidauthority.com/install-android-pc-668643/)
-- [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
 - [A guide to Android app development for complete beginners in 5 easy steps](https://www.androidauthority.com/android-app-development-1128595/)
 - [How to reverse a string in Python](https://www.androidauthority.com/how-to-reverse-a-string-in-python-1140847/)
 - [What is Microsoft Azure? Azure certification for professionals](https://www.androidauthority.com/what-is-azure-1159879/)
 - [How to call a method in Java](https://www.androidauthority.com/how-to-call-a-method-in-java-1149853/)
 - [Making an app with no programming experience: What are your options?](https://www.androidauthority.com/how-to-make-android-apps-629325/)
 - [What is Azure certification?](https://www.androidauthority.com/azure-certification-1162875/)
-- [How to make a game in Python: An introduction to Pygame](https://www.androidauthority.com/how-to-make-a-game-in-python-1136589/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
@@ -286,21 +293,21 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Google pulls Element’s Android chat app over content it doesn’t control (updated)](https://medium.com/@tobiolubanjo2468/google-pulls-elements-android-chat-app-over-content-it-doesn-t-control-updated-34dfcde48656?source=rss------android-5)
-- [Week 1 — DLUX Icon Pack](https://medium.com/dlux-icon-pack-andrew-vaive-android-icon-design/week-1-dlux-icon-pack-52778f8b23fc?source=rss------android-5)
-- [What is on my iPhone 11 and Apple Watch Series 5 Cellular & why I have these devices?](https://medium.com/@dudethatserin/what-is-on-my-iphone-11-and-apple-watch-series-5-cellular-why-i-have-these-devices-f47e9df0e176?source=rss------android-5)
-- [BEST APPS FOR GAMERS](https://medium.com/@bitwings/best-apps-for-gamers-8f3feb38d66d?source=rss------android-5)
-- [Ram Optimization: প্রথম পর্ব (এন্ড্রয়েড)](https://medium.com/@sksenweb/ram-optimization-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%A1-51a7882e52f3?source=rss------android-5)
-- [Generate Privacy Policy and Terms & Conditions for mobile app in 5 minutes](https://medium.com/xorum-io/generate-privacy-policy-and-terms-conditions-for-mobile-app-in-5-minutes-4aed24bcdc31?source=rss------android-5)
-- [Explore The Best Android Libraries for 2020–2021](https://medium.com/@owebest/explore-the-best-android-libraries-for-2020-2021-3992b6afd188?source=rss------android-5)
-- [E1DA 9038D Impressions](https://medium.com/bedrock-reviews/e1da-9038d-impressions-8458ba8aa441?source=rss------android-5)
-- [Android — How to protect the apps from illegal operations by third party using biometric api](https://medium.com/@masaaki.iwaguchi/android-how-to-protect-the-apps-from-illegal-operations-by-third-party-using-biometric-api-51a039458d52?source=rss------android-5)
-- [Multi Button Selection using FlatList in React Native](https://medium.com/@vasanth370/multi-button-selection-using-flatlist-in-react-native-29d40a9936a8?source=rss------android-5)
+- [Modelling UI State on Android](https://proandroiddev.com/modelling-ui-state-on-android-26314a5975b9?source=rss------android-5)
+- [Create a simple Samsung Galaxy Watch companion .NET app — Part 1](https://medium.com/@kennay-kermani/create-a-simple-samsung-galaxy-watch-companion-net-app-part-1-1466fd9e2e6c?source=rss------android-5)
+- [Hungry Shark Evolution MOD APK](https://medium.com/@Asiofficial/hungry-shark-evolution-mod-apk-f1cfe4c05b36?source=rss------android-5)
+- [How to See Saved Password on Chrome](https://medium.com/@smarttecksolutions/how-to-see-saved-password-on-chrome-37ebcdb11f3e?source=rss------android-5)
+- [Getting Android vector drawable as Path](https://medium.com/@aednlaxer/getting-android-vector-drawable-as-path-f4de5651f559?source=rss------android-5)
+- [Ford and Android are partner, Ford will use ANDROID](https://medium.com/@androidhelipad/ford-and-android-are-partner-ford-will-use-android-9e15c10b6985?source=rss------android-5)
+- [Gamification in Social Networks: Do you remember these games?](https://medium.com/@bitwings/gamification-in-social-networks-do-you-remember-these-games-8b66f56e7951?source=rss------android-5)
+- [Report: Netflix Is Testing a Sleep Timer Feature on Android](https://medium.com/pcmag-access/report-netflix-is-testing-a-sleep-timer-feature-on-android-88958f4df184?source=rss------android-5)
+- [Implementing Android Notifications In Unity Game](https://medium.com/swlh/implementing-android-notifications-in-unity-game-15642d316c9e?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Ford Will Put Android in Millions of Cars Starting in 2023](https://gizmodo.com/ford-will-put-android-in-millions-of-cars-starting-in-2-1846174165)
 - [Google Suspended Federated Chat App Element for Allegedly Hosting Abusive Content](https://gizmodo.com/google-suspended-federated-chat-app-element-for-alleged-1846167702)
 - [See Which Apps Are Using Your Camera, Microphone, and Location](https://gizmodo.com/see-which-apps-are-using-your-camera-microphone-and-l-1846044433)
 - [It's Done—the Google-Fitbit Deal Is Complete](https://gizmodo.com/its-done-the-google-fitbit-deal-is-complete-1846057104)
@@ -310,12 +317,12 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [How to Enable the Hidden Tap Gesture on iPhone or Android](https://gizmodo.com/how-to-enable-the-hidden-tap-gesture-on-iphone-or-andro-1845953239)
 - [Google Sneakily Removed Support for Astrophotography Mode from Ultra-Wide Cams on the Pixel 5 and 4a 5G](https://gizmodo.com/google-sneakily-removed-support-for-astrophotography-mo-1845962214)
 - [Samsung's Galaxy S21 Ultra Will Reportedly Get S-Pen Support](https://gizmodo.com/samsungs-galaxy-s21-ultra-will-reportedly-get-s-pen-sup-1845940688)
-- [OnePlus' Latest Concept Phone Is a Color-Shifting, Motion-Sensing Tease](https://gizmodo.com/oneplus-latest-concept-phone-is-a-color-shifting-motio-1845928122)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Apple privileges its own ad network with ATT. What’s its privacy endgame?](https://mobiledevmemo.com/apple-privileges-its-own-ad-network-whats-its-privacy-end-game/)
 - [Unpacking Apple’s latest iOS14 privacy policy guidance](https://mobiledevmemo.com/unpacking-apples-latest-ios14-privacy-policy-guidance/)
 - [Podcast: IDFA, TURTLEDOVE, and the Future of Online Privacy](https://mobiledevmemo.com/idfa-turtledove-and-the-future-of-privacy/)
 - [Ad tech companies will become gaming companies in 2021](https://mobiledevmemo.com/mobile-ad-tech-companies-should-become-gaming-companies-in-2021/)
@@ -325,7 +332,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [App Tracking Transparency Codex: the ultimate guide to ATT, IDFA deprecation, and SKAdNetwork](https://mobiledevmemo.com/app-tracking-transparency-codex-guide-to-idfa-deprecation-and-skadnetwork/)
 - [2021 predictions for mobile marketing, Part 2](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing-part-2/)
 - [2021 predictions for mobile marketing](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing/)
-- [App Tracking Transparency does not provide real consumer choice](https://mobiledevmemo.com/att-does-not-represent-real-consumer-choice/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
