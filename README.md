@@ -223,16 +223,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where do I get started with my own hardware and software to build an android phone?](https://www.reddit.com/r/androiddev/comments/l9nzzg/where_do_i_get_started_with_my_own_hardware_and/)
-- [No clue where to start. Is this a pipe dream?](https://www.reddit.com/r/androiddev/comments/l9mtav/no_clue_where_to_start_is_this_a_pipe_dream/)
-- [Protecting intents with permissions](https://www.reddit.com/r/androiddev/comments/l9jzug/protecting_intents_with_permissions/)
-- [What were your first few Android apps?](https://www.reddit.com/r/androiddev/comments/l9jok4/what_were_your_first_few_android_apps/)
-- [Not Responding when creating activity](https://www.reddit.com/r/androiddev/comments/l9iksu/not_responding_when_creating_activity/)
-- [INSTALL_PARSE_FAILED_NO_CERTIFICATES When Upgrading Gradle](https://www.reddit.com/r/androiddev/comments/l9g0xe/install_parse_failed_no_certificates_when/)
-- [What Mobile App Development Tools / Software can preview the app on a real device??](https://www.reddit.com/r/androiddev/comments/l9dp4n/what_mobile_app_development_tools_software_can/)
-- [For any Unity android devs, if your app has a lot of static screens that only change when the user interacts with them, you can massively decrease your GPU/CPU/Battery usage by dropping the frame rate to 1FPS while keeping the rest of the engine running at 60FPS using the new OnDemandRendering API.](https://www.reddit.com/r/androiddev/comments/l9deaa/for_any_unity_android_devs_if_your_app_has_a_lot/)
-- [USB DAC Problems with connection](https://www.reddit.com/r/androiddev/comments/l9bp4v/usb_dac_problems_with_connection/)
-- [Firebase dependencies -ktx](https://www.reddit.com/r/androiddev/comments/l9bavk/firebase_dependencies_ktx/)
+- [Here is my first Boss ever!!](https://www.reddit.com/r/androiddev/comments/lak5z7/here_is_my_first_boss_ever/)
+- [How to send push notifications in real time to an android device without Firebase](https://www.reddit.com/r/androiddev/comments/lafsln/how_to_send_push_notifications_in_real_time_to_an/)
+- [Android Navigation Deep link path regex?](https://www.reddit.com/r/androiddev/comments/ladug2/android_navigation_deep_link_path_regex/)
+- [Compose Ui StateFlow.collectAsState() not working for StateFlow<ArrayList<*>>](https://www.reddit.com/r/androiddev/comments/ladp0q/compose_ui_stateflowcollectasstate_not_working/)
+- [Finally emulator is available inside android studio for M1 !!!](https://www.reddit.com/r/androiddev/comments/lacrll/finally_emulator_is_available_inside_android/)
+- ["Notice me senpai!" In Android Docs...](https://www.reddit.com/r/androiddev/comments/laau6u/notice_me_senpai_in_android_docs/)
+- [Question about AR Apps](https://www.reddit.com/r/androiddev/comments/laa6rk/question_about_ar_apps/)
+- [Fast migration from Kotlin Synthetics to View Binding- Tips and Tricks](https://www.reddit.com/r/androiddev/comments/laa3t6/fast_migration_from_kotlin_synthetics_to_view/)
+- [Need help on where to start app development](https://www.reddit.com/r/androiddev/comments/laa1hr/need_help_on_where_to_start_app_development/)
+- [Kotlin's one of those languages, which many devs wish migrate to!](https://www.reddit.com/r/androiddev/comments/laa10m/kotlins_one_of_those_languages_which_many_devs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
