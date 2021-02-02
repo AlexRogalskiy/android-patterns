@@ -322,6 +322,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Apple privileges its own ad network with ATT. What’s its privacy endgame?](https://mobiledevmemo.com/apple-privileges-its-own-ad-network-whats-its-privacy-end-game/)
 - [Unpacking Apple’s latest iOS14 privacy policy guidance](https://mobiledevmemo.com/unpacking-apples-latest-ios14-privacy-policy-guidance/)
 - [Podcast: IDFA, TURTLEDOVE, and the Future of Online Privacy](https://mobiledevmemo.com/idfa-turtledove-and-the-future-of-privacy/)
 - [Ad tech companies will become gaming companies in 2021](https://mobiledevmemo.com/mobile-ad-tech-companies-should-become-gaming-companies-in-2021/)
@@ -331,7 +332,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [App Tracking Transparency Codex: the ultimate guide to ATT, IDFA deprecation, and SKAdNetwork](https://mobiledevmemo.com/app-tracking-transparency-codex-guide-to-idfa-deprecation-and-skadnetwork/)
 - [2021 predictions for mobile marketing, Part 2](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing-part-2/)
 - [2021 predictions for mobile marketing](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing/)
-- [App Tracking Transparency does not provide real consumer choice](https://mobiledevmemo.com/att-does-not-represent-real-consumer-choice/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
