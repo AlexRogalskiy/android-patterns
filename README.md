@@ -308,6 +308,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google's Making Its Search Results a Bit Easier to Understand](https://gizmodo.com/googles-making-its-search-results-a-bit-easier-to-under-1846180565)
 - [Ford Will Put Android in Millions of Cars Starting in 2023](https://gizmodo.com/ford-will-put-android-in-millions-of-cars-starting-in-2-1846174165)
 - [Google Suspended Federated Chat App Element for Allegedly Hosting Abusive Content](https://gizmodo.com/google-suspended-federated-chat-app-element-for-alleged-1846167702)
 - [See Which Apps Are Using Your Camera, Microphone, and Location](https://gizmodo.com/see-which-apps-are-using-your-camera-microphone-and-l-1846044433)
@@ -317,7 +318,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Samsung Finally Announced the Galaxy Unpacked Event We All Knew About: Here's What's Coming](https://gizmodo.com/samsung-finally-announced-the-galaxy-unpacked-event-we-1845983996)
 - [How to Enable the Hidden Tap Gesture on iPhone or Android](https://gizmodo.com/how-to-enable-the-hidden-tap-gesture-on-iphone-or-andro-1845953239)
 - [Google Sneakily Removed Support for Astrophotography Mode from Ultra-Wide Cams on the Pixel 5 and 4a 5G](https://gizmodo.com/google-sneakily-removed-support-for-astrophotography-mo-1845962214)
-- [Samsung's Galaxy S21 Ultra Will Reportedly Get S-Pen Support](https://gizmodo.com/samsungs-galaxy-s21-ultra-will-reportedly-get-s-pen-sup-1845940688)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
