@@ -293,15 +293,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Modelling UI State on Android](https://proandroiddev.com/modelling-ui-state-on-android-26314a5975b9?source=rss------android-5)
-- [Create a simple Samsung Galaxy Watch companion .NET app — Part 1](https://medium.com/@kennay-kermani/create-a-simple-samsung-galaxy-watch-companion-net-app-part-1-1466fd9e2e6c?source=rss------android-5)
-- [Hungry Shark Evolution MOD APK](https://medium.com/@Asiofficial/hungry-shark-evolution-mod-apk-f1cfe4c05b36?source=rss------android-5)
-- [How to See Saved Password on Chrome](https://medium.com/@smarttecksolutions/how-to-see-saved-password-on-chrome-37ebcdb11f3e?source=rss------android-5)
-- [Getting Android vector drawable as Path](https://medium.com/@aednlaxer/getting-android-vector-drawable-as-path-f4de5651f559?source=rss------android-5)
-- [Ford and Android are partner, Ford will use ANDROID](https://medium.com/@androidhelipad/ford-and-android-are-partner-ford-will-use-android-9e15c10b6985?source=rss------android-5)
-- [Gamification in Social Networks: Do you remember these games?](https://medium.com/@bitwings/gamification-in-social-networks-do-you-remember-these-games-8b66f56e7951?source=rss------android-5)
-- [Report: Netflix Is Testing a Sleep Timer Feature on Android](https://medium.com/pcmag-access/report-netflix-is-testing-a-sleep-timer-feature-on-android-88958f4df184?source=rss------android-5)
-- [Implementing Android Notifications In Unity Game](https://medium.com/swlh/implementing-android-notifications-in-unity-game-15642d316c9e?source=rss------android-5)
+- [Android FromHtml Defrecated](https://medium.com/@bcpda1/android-fromhtml-defrecated-626a9417a83f?source=rss------android-5)
+- [Desinstalar Bloatwares para Android via ADB Shell](https://medium.com/@gustavoconte/desinstalar-bloatwares-para-android-via-adb-shell-15566ca9317a?source=rss------android-5)
+- [AWS Notification Open Event](https://medium.com/@bcpda1/aws-notification-open-event-616389a1bfb1?source=rss------android-5)
+- [Zoomable Image with Jetpack Compose](https://proandroiddev.com/zoomable-image-with-jetpack-compose-13b050675da5?source=rss------android-5)
+- [Store data securely — EncryptedSharedPreferences](https://medium.com/android-club/store-data-securely-encryptedsharedpreferences-bff71ac39a55?source=rss------android-5)
+- [Case study: Waterfall — an interactive Android home screen](https://medium.com/@mhcharlee/case-study-waterfall-an-interactive-android-home-screen-606ddf8325cb?source=rss------android-5)
+- [Hal can help you to break the language barrier](https://medium.com/hal-blog/hal-can-help-you-to-break-the-language-barrier-46e73c150343?source=rss------android-5)
+- [Coding on a Chromebook](https://medium.com/@the-coding-hub/coding-on-a-chromebook-6bcb7cc06f6?source=rss------android-5)
+- [4 Ways To Know If You Are Blocked On Whatsapp](https://medium.com/@patankar-prathamesh-16et5015/4-ways-to-know-if-you-are-blocked-on-whatsapp-de9e054ec71c?source=rss------android-5)
+- [My February Recommendations for Flutter Packages](https://medium.com/@jelenajjovanoski/my-february-recommendations-for-flutter-packages-7cd6b597113?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
