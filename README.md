@@ -223,16 +223,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Here is my first Boss ever!!](https://www.reddit.com/r/androiddev/comments/lak5z7/here_is_my_first_boss_ever/)
-- [How to send push notifications in real time to an android device without Firebase](https://www.reddit.com/r/androiddev/comments/lafsln/how_to_send_push_notifications_in_real_time_to_an/)
-- [Android Navigation Deep link path regex?](https://www.reddit.com/r/androiddev/comments/ladug2/android_navigation_deep_link_path_regex/)
-- [Compose Ui StateFlow.collectAsState() not working for StateFlow<ArrayList<*>>](https://www.reddit.com/r/androiddev/comments/ladp0q/compose_ui_stateflowcollectasstate_not_working/)
-- [Finally emulator is available inside android studio for M1 !!!](https://www.reddit.com/r/androiddev/comments/lacrll/finally_emulator_is_available_inside_android/)
-- ["Notice me senpai!" In Android Docs...](https://www.reddit.com/r/androiddev/comments/laau6u/notice_me_senpai_in_android_docs/)
-- [Question about AR Apps](https://www.reddit.com/r/androiddev/comments/laa6rk/question_about_ar_apps/)
-- [Fast migration from Kotlin Synthetics to View Binding- Tips and Tricks](https://www.reddit.com/r/androiddev/comments/laa3t6/fast_migration_from_kotlin_synthetics_to_view/)
-- [Need help on where to start app development](https://www.reddit.com/r/androiddev/comments/laa1hr/need_help_on_where_to_start_app_development/)
-- [Kotlin's one of those languages, which many devs wish migrate to!](https://www.reddit.com/r/androiddev/comments/laa10m/kotlins_one_of_those_languages_which_many_devs/)
+- [Video Games for Music Producers: App Open Beta Test (Google Play)](https://www.reddit.com/r/androiddev/comments/lbc58g/video_games_for_music_producers_app_open_beta/)
+- [Clone examples](https://www.reddit.com/r/androiddev/comments/lbc46h/clone_examples/)
+- [Cons of gradle.kts?](https://www.reddit.com/r/androiddev/comments/lb9x7o/cons_of_gradlekts/)
+- [Does the selected target audience affect the number of downloads on the google play store?](https://www.reddit.com/r/androiddev/comments/lb8yhg/does_the_selected_target_audience_affect_the/)
+- [9 Beloved Extensions From The Android KTX](https://www.reddit.com/r/androiddev/comments/lb83gl/9_beloved_extensions_from_the_android_ktx/)
+- [Scrolling up after refresh with PagingDataAdapter is an impossible task](https://www.reddit.com/r/androiddev/comments/lb7ys6/scrolling_up_after_refresh_with_pagingdataadapter/)
+- [App for editing epub books](https://www.reddit.com/r/androiddev/comments/lb1irn/app_for_editing_epub_books/)
+- [Goolge play keeps rejecting an opensource callblocker app with a very vague message](https://www.reddit.com/r/androiddev/comments/lb12fw/goolge_play_keeps_rejecting_an_opensource/)
+- [How can I alter the state of foreign media applications in my application?](https://www.reddit.com/r/androiddev/comments/lb0ef1/how_can_i_alter_the_state_of_foreign_media/)
+- [Are there benefits to learning the base Android SQLite api before using Room?](https://www.reddit.com/r/androiddev/comments/laz9hr/are_there_benefits_to_learning_the_base_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
