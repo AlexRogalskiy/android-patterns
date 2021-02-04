@@ -308,6 +308,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Android TV Is Getting a Big Update With a New Discovery Page](https://gizmodo.com/android-tv-is-getting-a-big-update-with-a-new-discovery-1846191055)
+- [Days Blurring Together? Add Structure with These Apps](https://gizmodo.com/days-blurring-together-add-structure-with-these-apps-1846151722)
 - [Google's Making Its Search Results a Bit Easier to Understand](https://gizmodo.com/googles-making-its-search-results-a-bit-easier-to-under-1846180565)
 - [Ford Will Put Android in Millions of Cars Starting in 2023](https://gizmodo.com/ford-will-put-android-in-millions-of-cars-starting-in-2-1846174165)
 - [Google Suspended Federated Chat App Element for Allegedly Hosting Abusive Content](https://gizmodo.com/google-suspended-federated-chat-app-element-for-alleged-1846167702)
@@ -316,8 +318,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [The Best Apps to Distract Your Brain from the Nightmare That Is 2021](https://gizmodo.com/the-best-apps-to-distract-your-brain-from-the-nightmare-1846027578)
 - [TCL Is Pushing the Price of 5G Down Even Further with the TCL 20 5G](https://gizmodo.com/tcl-is-pushing-the-price-of-5g-down-even-further-with-t-1846033224)
 - [Samsung Finally Announced the Galaxy Unpacked Event We All Knew About: Here's What's Coming](https://gizmodo.com/samsung-finally-announced-the-galaxy-unpacked-event-we-1845983996)
-- [How to Enable the Hidden Tap Gesture on iPhone or Android](https://gizmodo.com/how-to-enable-the-hidden-tap-gesture-on-iphone-or-andro-1845953239)
-- [Google Sneakily Removed Support for Astrophotography Mode from Ultra-Wide Cams on the Pixel 5 and 4a 5G](https://gizmodo.com/google-sneakily-removed-support-for-astrophotography-mo-1845962214)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
