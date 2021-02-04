@@ -223,16 +223,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Video Games for Music Producers: App Open Beta Test (Google Play)](https://www.reddit.com/r/androiddev/comments/lbc58g/video_games_for_music_producers_app_open_beta/)
-- [Clone examples](https://www.reddit.com/r/androiddev/comments/lbc46h/clone_examples/)
-- [Cons of gradle.kts?](https://www.reddit.com/r/androiddev/comments/lb9x7o/cons_of_gradlekts/)
-- [Does the selected target audience affect the number of downloads on the google play store?](https://www.reddit.com/r/androiddev/comments/lb8yhg/does_the_selected_target_audience_affect_the/)
-- [9 Beloved Extensions From The Android KTX](https://www.reddit.com/r/androiddev/comments/lb83gl/9_beloved_extensions_from_the_android_ktx/)
-- [Scrolling up after refresh with PagingDataAdapter is an impossible task](https://www.reddit.com/r/androiddev/comments/lb7ys6/scrolling_up_after_refresh_with_pagingdataadapter/)
-- [App for editing epub books](https://www.reddit.com/r/androiddev/comments/lb1irn/app_for_editing_epub_books/)
-- [Goolge play keeps rejecting an opensource callblocker app with a very vague message](https://www.reddit.com/r/androiddev/comments/lb12fw/goolge_play_keeps_rejecting_an_opensource/)
-- [How can I alter the state of foreign media applications in my application?](https://www.reddit.com/r/androiddev/comments/lb0ef1/how_can_i_alter_the_state_of_foreign_media/)
-- [Are there benefits to learning the base Android SQLite api before using Room?](https://www.reddit.com/r/androiddev/comments/laz9hr/are_there_benefits_to_learning_the_base_android/)
+- [Samsung can't install apps from Github but other devices can](https://www.reddit.com/r/androiddev/comments/lc3h0o/samsung_cant_install_apps_from_github_but_other/)
+- [How can I be sure that my code is obfuscated or not?](https://www.reddit.com/r/androiddev/comments/lc0qth/how_can_i_be_sure_that_my_code_is_obfuscated_or/)
+- [Distributing a private app to users who are not tech savvy](https://www.reddit.com/r/androiddev/comments/lbw9or/distributing_a_private_app_to_users_who_are_not/)
+- [I am trying to make async programming much easier for absolute beginners. Can anyone share their suggestions/feedback on this library preview?](https://www.reddit.com/r/androiddev/comments/lbusuv/i_am_trying_to_make_async_programming_much_easier/)
+- [Cannot resolve method 'getInstance' in 'FirebaseAuth' for Firebase](https://www.reddit.com/r/androiddev/comments/lbuc2d/cannot_resolve_method_getinstance_in_firebaseauth/)
+- [Now that Bintray and JCenter are shutting down, what should we do with the Android libraries that are hosted there?](https://www.reddit.com/r/androiddev/comments/lbssfn/now_that_bintray_and_jcenter_are_shutting_down/)
+- [Kotlin 1.4.30 Release](https://www.reddit.com/r/androiddev/comments/lbsjm5/kotlin_1430_release/)
+- [Check my article in Medium! Support both Google and Huawei Push Notification’s API](https://www.reddit.com/r/androiddev/comments/lbrfhj/check_my_article_in_medium_support_both_google/)
+- [How to delete usb cache?](https://www.reddit.com/r/androiddev/comments/lbp2i5/how_to_delete_usb_cache/)
+- [Can you render an entire app into an offscreen framebuffer (offscreen rendering)?](https://www.reddit.com/r/androiddev/comments/lbocuh/can_you_render_an_entire_app_into_an_offscreen/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
