@@ -293,16 +293,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Android FromHtml Defrecated](https://medium.com/@bcpda1/android-fromhtml-defrecated-626a9417a83f?source=rss------android-5)
-- [Desinstalar Bloatwares para Android via ADB Shell](https://medium.com/@gustavoconte/desinstalar-bloatwares-para-android-via-adb-shell-15566ca9317a?source=rss------android-5)
-- [AWS Notification Open Event](https://medium.com/@bcpda1/aws-notification-open-event-616389a1bfb1?source=rss------android-5)
-- [Zoomable Image with Jetpack Compose](https://proandroiddev.com/zoomable-image-with-jetpack-compose-13b050675da5?source=rss------android-5)
-- [Store data securely — EncryptedSharedPreferences](https://medium.com/android-club/store-data-securely-encryptedsharedpreferences-bff71ac39a55?source=rss------android-5)
-- [Case study: Waterfall — an interactive Android home screen](https://medium.com/@mhcharlee/case-study-waterfall-an-interactive-android-home-screen-606ddf8325cb?source=rss------android-5)
-- [Hal can help you to break the language barrier](https://medium.com/hal-blog/hal-can-help-you-to-break-the-language-barrier-46e73c150343?source=rss------android-5)
-- [Coding on a Chromebook](https://medium.com/@the-coding-hub/coding-on-a-chromebook-6bcb7cc06f6?source=rss------android-5)
-- [4 Ways To Know If You Are Blocked On Whatsapp](https://medium.com/@patankar-prathamesh-16et5015/4-ways-to-know-if-you-are-blocked-on-whatsapp-de9e054ec71c?source=rss------android-5)
-- [My February Recommendations for Flutter Packages](https://medium.com/@jelenajjovanoski/my-february-recommendations-for-flutter-packages-7cd6b597113?source=rss------android-5)
+- [Implement MVI pattern with just few step](https://medium.com/@randy-arba/implement-mvi-pattern-with-just-few-step-c5cc5e059886?source=rss------android-5)
+- [Modularization of Android Applications with explicit initialization](https://proandroiddev.com/modularization-of-android-applications-with-explicit-initialization-90efdb79db4a?source=rss------android-5)
+- [Modularization of Android Applications in 2021](https://proandroiddev.com/modularization-of-android-applications-in-2021-a79a590d5e5b?source=rss------android-5)
+- [A Holistic Approach to Handling User Input in Android](https://proandroiddev.com/a-holistic-approach-to-handling-user-input-in-android-38f51ca5592?source=rss------android-5)
+- [Binder: Android Interface Definition Language](https://medium.com/@baiqin-droid1001/binder-android-interface-definition-language-43b6f12f04f8?source=rss------android-5)
+- [Binder architecture and core components](https://medium.com/@baiqin-droid1001/binder-architecture-and-core-components-38089933bba?source=rss------android-5)
+- [F*** Slow Phones](https://medium.com/cycle-phones/f-slow-phones-3bc07267b507?source=rss------android-5)
+- [Binder introduction](https://medium.com/@baiqin-droid1001/binder-introduction-54fb90feeecb?source=rss------android-5)
+- [Create a simple Samsung Galaxy Watch companion .NET app — Part 2](https://medium.com/@kennay-kermani/create-a-simple-samsung-galaxy-watch-companion-net-app-part-2-74413f1387c?source=rss------android-5)
+- [Kotlinx.serialization part4](https://medium.com/@petnagy/kotlinx-serialization-part4-1f93d196617e?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
