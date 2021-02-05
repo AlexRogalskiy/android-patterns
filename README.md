@@ -264,6 +264,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
 - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+- [How to update Python and how to know if you should](https://www.androidauthority.com/how-to-update-python-1138078/)
 - [How to create Oculus Quest experiences in Unity](https://www.androidauthority.com/oculus-quest-development-1196351/)
 - [Upwork vs Fiverr: Which is the best place to sell your services?](https://www.androidauthority.com/upwork-vs-fiverr-1190439/)
 - [How to install Android on PC: These are your best options](https://www.androidauthority.com/install-android-pc-668643/)
@@ -272,7 +273,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [What is Microsoft Azure? Azure certification for professionals](https://www.androidauthority.com/what-is-azure-1159879/)
 - [How to call a method in Java](https://www.androidauthority.com/how-to-call-a-method-in-java-1149853/)
 - [Making an app with no programming experience: What are your options?](https://www.androidauthority.com/how-to-make-android-apps-629325/)
-- [What is Azure certification?](https://www.androidauthority.com/azure-certification-1162875/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
