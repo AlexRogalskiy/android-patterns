@@ -323,6 +323,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Why did Applovin buy Adjust?](https://mobiledevmemo.com/why-did-applovin-buy-adjust/)
 - [Apple privileges its own ad network with ATT. What’s its privacy endgame?](https://mobiledevmemo.com/apple-privileges-its-own-ad-network-whats-its-privacy-end-game/)
 - [Unpacking Apple’s latest iOS14 privacy policy guidance](https://mobiledevmemo.com/unpacking-apples-latest-ios14-privacy-policy-guidance/)
 - [Podcast: IDFA, TURTLEDOVE, and the Future of Online Privacy](https://mobiledevmemo.com/idfa-turtledove-and-the-future-of-privacy/)
@@ -332,7 +333,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [What happens to digital advertising if Facebook is broken up?](https://mobiledevmemo.com/what-happens-to-advertisers-if-facebook-is-broken-up/)
 - [App Tracking Transparency Codex: the ultimate guide to ATT, IDFA deprecation, and SKAdNetwork](https://mobiledevmemo.com/app-tracking-transparency-codex-guide-to-idfa-deprecation-and-skadnetwork/)
 - [2021 predictions for mobile marketing, Part 2](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing-part-2/)
-- [2021 predictions for mobile marketing](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
