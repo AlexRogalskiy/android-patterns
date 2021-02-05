@@ -293,16 +293,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Implement MVI pattern with just few step](https://medium.com/@randy-arba/implement-mvi-pattern-with-just-few-step-c5cc5e059886?source=rss------android-5)
-- [Modularization of Android Applications with explicit initialization](https://proandroiddev.com/modularization-of-android-applications-with-explicit-initialization-90efdb79db4a?source=rss------android-5)
-- [Modularization of Android Applications in 2021](https://proandroiddev.com/modularization-of-android-applications-in-2021-a79a590d5e5b?source=rss------android-5)
-- [A Holistic Approach to Handling User Input in Android](https://proandroiddev.com/a-holistic-approach-to-handling-user-input-in-android-38f51ca5592?source=rss------android-5)
-- [Binder: Android Interface Definition Language](https://medium.com/@baiqin-droid1001/binder-android-interface-definition-language-43b6f12f04f8?source=rss------android-5)
-- [Binder architecture and core components](https://medium.com/@baiqin-droid1001/binder-architecture-and-core-components-38089933bba?source=rss------android-5)
-- [F*** Slow Phones](https://medium.com/cycle-phones/f-slow-phones-3bc07267b507?source=rss------android-5)
-- [Binder introduction](https://medium.com/@baiqin-droid1001/binder-introduction-54fb90feeecb?source=rss------android-5)
-- [Create a simple Samsung Galaxy Watch companion .NET app — Part 2](https://medium.com/@kennay-kermani/create-a-simple-samsung-galaxy-watch-companion-net-app-part-2-74413f1387c?source=rss------android-5)
-- [Kotlinx.serialization part4](https://medium.com/@petnagy/kotlinx-serialization-part4-1f93d196617e?source=rss------android-5)
+- [Android lists — An effective and simple approach](https://medium.com/codex/android-lists-an-effective-and-simple-approach-3160f87ed20b?source=rss------android-5)
+- [An Expert Flutter Install](https://medium.com/@fredgrott/an-expert-flutter-install-a2a502e9da1?source=rss------android-5)
+- [How Dagger, Hilt and Koin differ under the hood?](https://proandroiddev.com/how-dagger-hilt-and-koin-differ-under-the-hood-c3be1a2959d7?source=rss------android-5)
+- [Getting ready for Declarative UIs — Part 1 — Unidirectional Data Flow](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d?source=rss------android-5)
+- [Privacy & Data Protection on Desktop and Android](https://medium.com/tech-notes-and-geek-stuff/privacy-data-protection-on-desktop-and-android-8cde3b787e75?source=rss------android-5)
+- [Android 3.63 (hotfix)](https://medium.com/wire-news/android-3-63-hotfix-589983d499b6?source=rss------android-5)
+- [A persistent bottom sheet-like Instagram Insights | How to create a Persistent bottom sheet in…](https://medium.com/@androidapps-development-blogs/a-persistent-bottom-sheet-like-instagram-insights-how-to-create-a-persistent-bottom-sheet-in-e896d20df6c4?source=rss------android-5)
+- [Declarative UI & Kotlin MultiPlatform](https://medium.com/mobilepeople/declarative-ui-kotlin-multiplatform-6125cf52d5cb?source=rss------android-5)
+- [Binder file descriptor usages](https://medium.com/@baiqin-droid1001/binder-file-descriptor-usages-b2b8a672873f?source=rss------android-5)
+- [Binder security](https://medium.com/@baiqin-droid1001/binder-security-f93265d2ec1b?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
