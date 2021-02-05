@@ -223,16 +223,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Samsung can't install apps from Github but other devices can](https://www.reddit.com/r/androiddev/comments/lc3h0o/samsung_cant_install_apps_from_github_but_other/)
-- [How can I be sure that my code is obfuscated or not?](https://www.reddit.com/r/androiddev/comments/lc0qth/how_can_i_be_sure_that_my_code_is_obfuscated_or/)
-- [Distributing a private app to users who are not tech savvy](https://www.reddit.com/r/androiddev/comments/lbw9or/distributing_a_private_app_to_users_who_are_not/)
-- [I am trying to make async programming much easier for absolute beginners. Can anyone share their suggestions/feedback on this library preview?](https://www.reddit.com/r/androiddev/comments/lbusuv/i_am_trying_to_make_async_programming_much_easier/)
-- [Cannot resolve method 'getInstance' in 'FirebaseAuth' for Firebase](https://www.reddit.com/r/androiddev/comments/lbuc2d/cannot_resolve_method_getinstance_in_firebaseauth/)
-- [Now that Bintray and JCenter are shutting down, what should we do with the Android libraries that are hosted there?](https://www.reddit.com/r/androiddev/comments/lbssfn/now_that_bintray_and_jcenter_are_shutting_down/)
-- [Kotlin 1.4.30 Release](https://www.reddit.com/r/androiddev/comments/lbsjm5/kotlin_1430_release/)
-- [Check my article in Medium! Support both Google and Huawei Push Notification’s API](https://www.reddit.com/r/androiddev/comments/lbrfhj/check_my_article_in_medium_support_both_google/)
-- [How to delete usb cache?](https://www.reddit.com/r/androiddev/comments/lbp2i5/how_to_delete_usb_cache/)
-- [Can you render an entire app into an offscreen framebuffer (offscreen rendering)?](https://www.reddit.com/r/androiddev/comments/lbocuh/can_you_render_an_entire_app_into_an_offscreen/)
+- [Five 1 star reviews from a same person... (Suggestions needed)](https://www.reddit.com/r/androiddev/comments/lcvj4e/five_1_star_reviews_from_a_same_person/)
+- [Atv box](https://www.reddit.com/r/androiddev/comments/lcvaja/atv_box/)
+- [JCenter and Bintray to shut down](https://www.reddit.com/r/androiddev/comments/lcupno/jcenter_and_bintray_to_shut_down/)
+- [Chomebook Emulator?](https://www.reddit.com/r/androiddev/comments/lcse80/chomebook_emulator/)
+- [Why one should use BugSnag over Crashlytics?](https://www.reddit.com/r/androiddev/comments/lcpd91/why_one_should_use_bugsnag_over_crashlytics/)
+- [[NOT AN ANDROID DEVELOPER] Sending keystrokes to active app from Windows / Linux?](https://www.reddit.com/r/androiddev/comments/lcojlq/not_an_android_developer_sending_keystrokes_to/)
+- [How accessibility focus works?](https://www.reddit.com/r/androiddev/comments/lcnl8w/how_accessibility_focus_works/)
+- [Layout tutorials.](https://www.reddit.com/r/androiddev/comments/lcn7ny/layout_tutorials/)
+- [Beeper universal chat app will integrate iMessage on Android](https://www.reddit.com/r/androiddev/comments/lcmxvt/beeper_universal_chat_app_will_integrate_imessage/)
+- [i have a problem in android studio code kotlin](https://www.reddit.com/r/androiddev/comments/lcmub2/i_have_a_problem_in_android_studio_code_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
