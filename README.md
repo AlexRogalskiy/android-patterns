@@ -308,6 +308,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Wants to Beat Apple at Its Own Game](https://gizmodo.com/google-wants-to-beat-apple-at-its-own-game-1846200242)
+- [Google Just Turned Your Phone's Camera Into a Weirdly Advanced Health Tracker](https://gizmodo.com/google-just-turned-your-phones-camera-into-a-weirdly-ad-1846194952)
 - [Android TV Is Getting a Big Update With a New Discovery Page](https://gizmodo.com/android-tv-is-getting-a-big-update-with-a-new-discovery-1846191055)
 - [Days Blurring Together? Add Structure with These Apps](https://gizmodo.com/days-blurring-together-add-structure-with-these-apps-1846151722)
 - [Google's Making Its Search Results a Bit Easier to Understand](https://gizmodo.com/googles-making-its-search-results-a-bit-easier-to-under-1846180565)
@@ -316,8 +318,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [See Which Apps Are Using Your Camera, Microphone, and Location](https://gizmodo.com/see-which-apps-are-using-your-camera-microphone-and-l-1846044433)
 - [It's Done—the Google-Fitbit Deal Is Complete](https://gizmodo.com/its-done-the-google-fitbit-deal-is-complete-1846057104)
 - [The Best Apps to Distract Your Brain from the Nightmare That Is 2021](https://gizmodo.com/the-best-apps-to-distract-your-brain-from-the-nightmare-1846027578)
-- [TCL Is Pushing the Price of 5G Down Even Further with the TCL 20 5G](https://gizmodo.com/tcl-is-pushing-the-price-of-5g-down-even-further-with-t-1846033224)
-- [Samsung Finally Announced the Galaxy Unpacked Event We All Knew About: Here's What's Coming](https://gizmodo.com/samsung-finally-announced-the-galaxy-unpacked-event-we-1845983996)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
