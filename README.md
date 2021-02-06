@@ -226,16 +226,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Five 1 star reviews from a same person... (Suggestions needed)](https://www.reddit.com/r/androiddev/comments/lcvj4e/five_1_star_reviews_from_a_same_person/)
-- [Atv box](https://www.reddit.com/r/androiddev/comments/lcvaja/atv_box/)
-- [JCenter and Bintray to shut down](https://www.reddit.com/r/androiddev/comments/lcupno/jcenter_and_bintray_to_shut_down/)
-- [Chomebook Emulator?](https://www.reddit.com/r/androiddev/comments/lcse80/chomebook_emulator/)
-- [Why one should use BugSnag over Crashlytics?](https://www.reddit.com/r/androiddev/comments/lcpd91/why_one_should_use_bugsnag_over_crashlytics/)
-- [[NOT AN ANDROID DEVELOPER] Sending keystrokes to active app from Windows / Linux?](https://www.reddit.com/r/androiddev/comments/lcojlq/not_an_android_developer_sending_keystrokes_to/)
-- [How accessibility focus works?](https://www.reddit.com/r/androiddev/comments/lcnl8w/how_accessibility_focus_works/)
-- [Layout tutorials.](https://www.reddit.com/r/androiddev/comments/lcn7ny/layout_tutorials/)
-- [Beeper universal chat app will integrate iMessage on Android](https://www.reddit.com/r/androiddev/comments/lcmxvt/beeper_universal_chat_app_will_integrate_imessage/)
-- [i have a problem in android studio code kotlin](https://www.reddit.com/r/androiddev/comments/lcmub2/i_have_a_problem_in_android_studio_code_kotlin/)
+- [Has anymore used ad.plus for their app monetisation solution?](https://www.reddit.com/r/androiddev/comments/ldln7g/has_anymore_used_adplus_for_their_app/)
+- [How to publicly share an apk?](https://www.reddit.com/r/androiddev/comments/ldit07/how_to_publicly_share_an_apk/)
+- [Rails or similar frameworks for Android?](https://www.reddit.com/r/androiddev/comments/ldhabn/rails_or_similar_frameworks_for_android/)
+- [About navigation component](https://www.reddit.com/r/androiddev/comments/ldh9zz/about_navigation_component/)
+- [Productivity app for students, by a student](https://www.reddit.com/r/androiddev/comments/ldh1q7/productivity_app_for_students_by_a_student/)
+- [Looking for Android Apps](https://www.reddit.com/r/androiddev/comments/ldd32h/looking_for_android_apps/)
+- [How can I display a list of values that are stored as an array on a document in cloud firestore in a recycler view?](https://www.reddit.com/r/androiddev/comments/ldblz7/how_can_i_display_a_list_of_values_that_are/)
+- [Any resource for learning how to setup CameraX with a custom cropRect matching a rectangle on screen?](https://www.reddit.com/r/androiddev/comments/ldax32/any_resource_for_learning_how_to_setup_camerax/)
+- [Datastore (Architecture component)](https://www.reddit.com/r/androiddev/comments/ldawwx/datastore_architecture_component/)
+- [Whatis the best android development course in 2021?](https://www.reddit.com/r/androiddev/comments/ldabvl/whatis_the_best_android_development_course_in_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -266,6 +266,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
 - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
 - [How to update Python and how to know if you should](https://www.androidauthority.com/how-to-update-python-1138078/)
 - [How to create Oculus Quest experiences in Unity](https://www.androidauthority.com/oculus-quest-development-1196351/)
@@ -275,7 +276,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [How to reverse a string in Python](https://www.androidauthority.com/how-to-reverse-a-string-in-python-1140847/)
 - [What is Microsoft Azure? Azure certification for professionals](https://www.androidauthority.com/what-is-azure-1159879/)
 - [How to call a method in Java](https://www.androidauthority.com/how-to-call-a-method-in-java-1149853/)
-- [Making an app with no programming experience: What are your options?](https://www.androidauthority.com/how-to-make-android-apps-629325/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
@@ -296,21 +296,23 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Android lists — An effective and simple approach](https://medium.com/codex/android-lists-an-effective-and-simple-approach-3160f87ed20b?source=rss------android-5)
-- [An Expert Flutter Install](https://medium.com/@fredgrott/an-expert-flutter-install-a2a502e9da1?source=rss------android-5)
-- [How Dagger, Hilt and Koin differ under the hood?](https://proandroiddev.com/how-dagger-hilt-and-koin-differ-under-the-hood-c3be1a2959d7?source=rss------android-5)
-- [Getting ready for Declarative UIs — Part 1 — Unidirectional Data Flow](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d?source=rss------android-5)
-- [Privacy & Data Protection on Desktop and Android](https://medium.com/tech-notes-and-geek-stuff/privacy-data-protection-on-desktop-and-android-8cde3b787e75?source=rss------android-5)
-- [Android 3.63 (hotfix)](https://medium.com/wire-news/android-3-63-hotfix-589983d499b6?source=rss------android-5)
-- [A persistent bottom sheet-like Instagram Insights | How to create a Persistent bottom sheet in…](https://medium.com/@androidapps-development-blogs/a-persistent-bottom-sheet-like-instagram-insights-how-to-create-a-persistent-bottom-sheet-in-e896d20df6c4?source=rss------android-5)
-- [Declarative UI & Kotlin MultiPlatform](https://medium.com/mobilepeople/declarative-ui-kotlin-multiplatform-6125cf52d5cb?source=rss------android-5)
-- [Binder file descriptor usages](https://medium.com/@baiqin-droid1001/binder-file-descriptor-usages-b2b8a672873f?source=rss------android-5)
-- [Binder security](https://medium.com/@baiqin-droid1001/binder-security-f93265d2ec1b?source=rss------android-5)
+- [Android: Repository pattern using Room, Retrofit and Coroutines](https://medium.com/@rodrigo-silva96/android-repository-pattern-using-room-retrofit-and-coroutines-901a199c9f3f?source=rss------android-5)
+- [Mengembangkan Aplikasi Mobile di Bawah Paksaan Tugas #devDiary](https://medium.com/@rizkiadigunowibowo/mengembangkan-aplikasi-mobile-di-bawah-paksaan-tugas-devdiary-e22880243df1?source=rss------android-5)
+- [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://proandroiddev.com/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53?source=rss------android-5)
+- [Membuat QR Code Generator [PYTHON]](https://medium.com/@fiqsky/membuat-qr-code-generator-python-9b451592331d?source=rss------android-5)
+- [Do you need to pay for antivirus in 2021?](https://medium.com/@hfitconsulting/do-you-need-to-pay-for-antivirus-in-2021-4aeeeee00387?source=rss------android-5)
+- [New way to upload images using Retrofit in Android](https://medium.com/@snowmaze/new-way-to-upload-images-using-retrofit-in-android-64cf71d5e678?source=rss------android-5)
+- [Android Kotlin resolve Custom Views attributes with style](https://medium.com/@kennay-kermani/android-kotlin-resolve-custom-views-attributes-with-style-f29d5084e9fb?source=rss------android-5)
+- [Android Nesting Intents](https://medium.com/androiddevelopers/android-nesting-intents-e472fafc1933?source=rss------android-5)
+- [Android Developer](https://medium.com/@agungfir10/android-developer-e7c51c3acb33?source=rss------android-5)
+- [Lock LTE Band Frequency on Samsung Galaxy No Root Required](https://medium.com/@teknokia/lock-lte-band-frequency-on-samsung-galaxy-no-root-required-e5cbe4cf6225?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Pays News Platforms in Australia to Prove No Law Is Needed to Make It Pay News Platforms](https://gizmodo.com/google-pays-news-platforms-in-australia-to-prove-no-law-1846204661)
+- [You Need to Update Chrome Right Now](https://gizmodo.com/you-need-to-update-chrome-right-now-1846204474)
 - [Google Wants to Beat Apple at Its Own Game](https://gizmodo.com/google-wants-to-beat-apple-at-its-own-game-1846200242)
 - [Google Just Turned Your Phone's Camera Into a Weirdly Advanced Health Tracker](https://gizmodo.com/google-just-turned-your-phones-camera-into-a-weirdly-ad-1846194952)
 - [Android TV Is Getting a Big Update With a New Discovery Page](https://gizmodo.com/android-tv-is-getting-a-big-update-with-a-new-discovery-1846191055)
@@ -319,8 +321,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Ford Will Put Android in Millions of Cars Starting in 2023](https://gizmodo.com/ford-will-put-android-in-millions-of-cars-starting-in-2-1846174165)
 - [Google Suspended Federated Chat App Element for Allegedly Hosting Abusive Content](https://gizmodo.com/google-suspended-federated-chat-app-element-for-alleged-1846167702)
 - [See Which Apps Are Using Your Camera, Microphone, and Location](https://gizmodo.com/see-which-apps-are-using-your-camera-microphone-and-l-1846044433)
-- [It's Done—the Google-Fitbit Deal Is Complete](https://gizmodo.com/its-done-the-google-fitbit-deal-is-complete-1846057104)
-- [The Best Apps to Distract Your Brain from the Nightmare That Is 2021](https://gizmodo.com/the-best-apps-to-distract-your-brain-from-the-nightmare-1846027578)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
@@ -341,11 +341,11 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Infinum posts_
 
 <!-- INFINUM-POST-LIST:START -->
+- [Coroutines and the JVM](https://androidsweets.ongoodbits.com/coroutines-and-the-jvm)
 - [RxJava vs. Coroutines](https://androidsweets.ongoodbits.com/2021/01/29/rxjava-vs-coroutines)
 - [Make your own device lab!](https://androidsweets.ongoodbits.com/2021/01/22/make-your-own-device-lab)
 - [How much debuggable option slows down  your app?](https://androidsweets.ongoodbits.com/2021/01/15/how-much-debuggable-option-slows-down-your-app)
 - [Do you know how to keep secrets?](https://androidsweets.ongoodbits.com/2021/01/08/do-you-know-how-to-keep-secrets)
-- [Is your app MAD enough?](https://androidsweets.ongoodbits.com/2020/12/18/is-your-app-mad-enough)
 <!-- INFINUM-POST-LIST:END -->
 
   [repo]:           https://github.com/AlexRogalskiy/android-patterns
