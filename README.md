@@ -223,16 +223,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Five 1 star reviews from a same person... (Suggestions needed)](https://www.reddit.com/r/androiddev/comments/lcvj4e/five_1_star_reviews_from_a_same_person/)
-- [Atv box](https://www.reddit.com/r/androiddev/comments/lcvaja/atv_box/)
-- [JCenter and Bintray to shut down](https://www.reddit.com/r/androiddev/comments/lcupno/jcenter_and_bintray_to_shut_down/)
-- [Chomebook Emulator?](https://www.reddit.com/r/androiddev/comments/lcse80/chomebook_emulator/)
-- [Why one should use BugSnag over Crashlytics?](https://www.reddit.com/r/androiddev/comments/lcpd91/why_one_should_use_bugsnag_over_crashlytics/)
-- [[NOT AN ANDROID DEVELOPER] Sending keystrokes to active app from Windows / Linux?](https://www.reddit.com/r/androiddev/comments/lcojlq/not_an_android_developer_sending_keystrokes_to/)
-- [How accessibility focus works?](https://www.reddit.com/r/androiddev/comments/lcnl8w/how_accessibility_focus_works/)
-- [Layout tutorials.](https://www.reddit.com/r/androiddev/comments/lcn7ny/layout_tutorials/)
-- [Beeper universal chat app will integrate iMessage on Android](https://www.reddit.com/r/androiddev/comments/lcmxvt/beeper_universal_chat_app_will_integrate_imessage/)
-- [i have a problem in android studio code kotlin](https://www.reddit.com/r/androiddev/comments/lcmub2/i_have_a_problem_in_android_studio_code_kotlin/)
+- [Has anymore used ad.plus for their app monetisation solution?](https://www.reddit.com/r/androiddev/comments/ldln7g/has_anymore_used_adplus_for_their_app/)
+- [How to publicly share an apk?](https://www.reddit.com/r/androiddev/comments/ldit07/how_to_publicly_share_an_apk/)
+- [Rails or similar frameworks for Android?](https://www.reddit.com/r/androiddev/comments/ldhabn/rails_or_similar_frameworks_for_android/)
+- [About navigation component](https://www.reddit.com/r/androiddev/comments/ldh9zz/about_navigation_component/)
+- [Productivity app for students, by a student](https://www.reddit.com/r/androiddev/comments/ldh1q7/productivity_app_for_students_by_a_student/)
+- [Looking for Android Apps](https://www.reddit.com/r/androiddev/comments/ldd32h/looking_for_android_apps/)
+- [How can I display a list of values that are stored as an array on a document in cloud firestore in a recycler view?](https://www.reddit.com/r/androiddev/comments/ldblz7/how_can_i_display_a_list_of_values_that_are/)
+- [Any resource for learning how to setup CameraX with a custom cropRect matching a rectangle on screen?](https://www.reddit.com/r/androiddev/comments/ldax32/any_resource_for_learning_how_to_setup_camerax/)
+- [Datastore (Architecture component)](https://www.reddit.com/r/androiddev/comments/ldawwx/datastore_architecture_component/)
+- [Whatis the best android development course in 2021?](https://www.reddit.com/r/androiddev/comments/ldabvl/whatis_the_best_android_development_course_in_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
