@@ -293,16 +293,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Android lists — An effective and simple approach](https://medium.com/codex/android-lists-an-effective-and-simple-approach-3160f87ed20b?source=rss------android-5)
-- [An Expert Flutter Install](https://medium.com/@fredgrott/an-expert-flutter-install-a2a502e9da1?source=rss------android-5)
-- [How Dagger, Hilt and Koin differ under the hood?](https://proandroiddev.com/how-dagger-hilt-and-koin-differ-under-the-hood-c3be1a2959d7?source=rss------android-5)
-- [Getting ready for Declarative UIs — Part 1 — Unidirectional Data Flow](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d?source=rss------android-5)
-- [Privacy & Data Protection on Desktop and Android](https://medium.com/tech-notes-and-geek-stuff/privacy-data-protection-on-desktop-and-android-8cde3b787e75?source=rss------android-5)
-- [Android 3.63 (hotfix)](https://medium.com/wire-news/android-3-63-hotfix-589983d499b6?source=rss------android-5)
-- [A persistent bottom sheet-like Instagram Insights | How to create a Persistent bottom sheet in…](https://medium.com/@androidapps-development-blogs/a-persistent-bottom-sheet-like-instagram-insights-how-to-create-a-persistent-bottom-sheet-in-e896d20df6c4?source=rss------android-5)
-- [Declarative UI & Kotlin MultiPlatform](https://medium.com/mobilepeople/declarative-ui-kotlin-multiplatform-6125cf52d5cb?source=rss------android-5)
-- [Binder file descriptor usages](https://medium.com/@baiqin-droid1001/binder-file-descriptor-usages-b2b8a672873f?source=rss------android-5)
-- [Binder security](https://medium.com/@baiqin-droid1001/binder-security-f93265d2ec1b?source=rss------android-5)
+- [Android: Repository pattern using Room, Retrofit and Coroutines](https://medium.com/@rodrigo-silva96/android-repository-pattern-using-room-retrofit-and-coroutines-901a199c9f3f?source=rss------android-5)
+- [Mengembangkan Aplikasi Mobile di Bawah Paksaan Tugas #devDiary](https://medium.com/@rizkiadigunowibowo/mengembangkan-aplikasi-mobile-di-bawah-paksaan-tugas-devdiary-e22880243df1?source=rss------android-5)
+- [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://proandroiddev.com/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53?source=rss------android-5)
+- [Membuat QR Code Generator [PYTHON]](https://medium.com/@fiqsky/membuat-qr-code-generator-python-9b451592331d?source=rss------android-5)
+- [Do you need to pay for antivirus in 2021?](https://medium.com/@hfitconsulting/do-you-need-to-pay-for-antivirus-in-2021-4aeeeee00387?source=rss------android-5)
+- [New way to upload images using Retrofit in Android](https://medium.com/@snowmaze/new-way-to-upload-images-using-retrofit-in-android-64cf71d5e678?source=rss------android-5)
+- [Android Kotlin resolve Custom Views attributes with style](https://medium.com/@kennay-kermani/android-kotlin-resolve-custom-views-attributes-with-style-f29d5084e9fb?source=rss------android-5)
+- [Android Nesting Intents](https://medium.com/androiddevelopers/android-nesting-intents-e472fafc1933?source=rss------android-5)
+- [Android Developer](https://medium.com/@agungfir10/android-developer-e7c51c3acb33?source=rss------android-5)
+- [Lock LTE Band Frequency on Samsung Galaxy No Root Required](https://medium.com/@teknokia/lock-lte-band-frequency-on-samsung-galaxy-no-root-required-e5cbe4cf6225?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
