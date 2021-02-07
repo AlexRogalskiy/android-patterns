@@ -296,16 +296,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Android: Repository pattern using Room, Retrofit and Coroutines](https://medium.com/@rodrigo-silva96/android-repository-pattern-using-room-retrofit-and-coroutines-901a199c9f3f?source=rss------android-5)
-- [Mengembangkan Aplikasi Mobile di Bawah Paksaan Tugas #devDiary](https://medium.com/@rizkiadigunowibowo/mengembangkan-aplikasi-mobile-di-bawah-paksaan-tugas-devdiary-e22880243df1?source=rss------android-5)
-- [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://proandroiddev.com/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53?source=rss------android-5)
-- [Membuat QR Code Generator [PYTHON]](https://medium.com/@fiqsky/membuat-qr-code-generator-python-9b451592331d?source=rss------android-5)
-- [Do you need to pay for antivirus in 2021?](https://medium.com/@hfitconsulting/do-you-need-to-pay-for-antivirus-in-2021-4aeeeee00387?source=rss------android-5)
-- [New way to upload images using Retrofit in Android](https://medium.com/@snowmaze/new-way-to-upload-images-using-retrofit-in-android-64cf71d5e678?source=rss------android-5)
-- [Android Kotlin resolve Custom Views attributes with style](https://medium.com/@kennay-kermani/android-kotlin-resolve-custom-views-attributes-with-style-f29d5084e9fb?source=rss------android-5)
-- [Android Nesting Intents](https://medium.com/androiddevelopers/android-nesting-intents-e472fafc1933?source=rss------android-5)
-- [Android Developer](https://medium.com/@agungfir10/android-developer-e7c51c3acb33?source=rss------android-5)
-- [Lock LTE Band Frequency on Samsung Galaxy No Root Required](https://medium.com/@teknokia/lock-lte-band-frequency-on-samsung-galaxy-no-root-required-e5cbe4cf6225?source=rss------android-5)
+- [Jetpack Compose Image Content ScaleType Fully Illustrated](https://medium.com/mobile-app-development-publication/jetpack-compose-image-content-scaletype-fully-illustrated-bfdf2de7ef5?source=rss------android-5)
+- [How To Download Videos From Social Media Networks](https://medium.com/@mahmoudel2902/how-to-download-videos-from-social-media-networks-f71b98c71f1f?source=rss------android-5)
+- [Top Requirements For You To Know About Android APK](https://medium.com/@harry123jack/top-requirements-for-you-to-know-about-android-apk-2f155a8357ad?source=rss------android-5)
+- [ShapeableView in Jetpack Compose. Part 1](https://proandroiddev.com/shapeableview-in-jetpack-compose-part-1-8b1b312b2fa4?source=rss------android-5)
+- [Why I don’t Use a Xiaomi Phone? Bad Aspects of Xiaomi Phones.](https://medium.com/@byegcn/why-i-dont-use-a-xiaomi-phone-bad-aspects-of-xiaomi-phones-d23a771573b9?source=rss------android-5)
+- [Android Application Basics](https://medium.com/mobis3c/android-application-basics-b4da5aaa3e68?source=rss------android-5)
+- [How to use ClubHouse on Android](https://medium.com/@Connessioni/how-to-use-clubhouse-on-android-db96dbeb97d6?source=rss------android-5)
+- [Come usare ClubHouse su Android](https://medium.com/@Connessioni/come-usare-clubhouse-su-android-848d7445774e?source=rss------android-5)
+- [Tech Solutions by applex.in](https://medium.com/@applex-in/tech-solutions-by-applex-in-100926fc5c52?source=rss------android-5)
+- [FacePhone, the Facebook Phone](https://medium.com/@sokullu/facephone-the-facebook-phone-ce8cb5145d58?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
