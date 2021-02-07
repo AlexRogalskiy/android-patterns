@@ -226,16 +226,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Has anymore used ad.plus for their app monetisation solution?](https://www.reddit.com/r/androiddev/comments/ldln7g/has_anymore_used_adplus_for_their_app/)
-- [How to publicly share an apk?](https://www.reddit.com/r/androiddev/comments/ldit07/how_to_publicly_share_an_apk/)
-- [Rails or similar frameworks for Android?](https://www.reddit.com/r/androiddev/comments/ldhabn/rails_or_similar_frameworks_for_android/)
-- [About navigation component](https://www.reddit.com/r/androiddev/comments/ldh9zz/about_navigation_component/)
-- [Productivity app for students, by a student](https://www.reddit.com/r/androiddev/comments/ldh1q7/productivity_app_for_students_by_a_student/)
-- [Looking for Android Apps](https://www.reddit.com/r/androiddev/comments/ldd32h/looking_for_android_apps/)
-- [How can I display a list of values that are stored as an array on a document in cloud firestore in a recycler view?](https://www.reddit.com/r/androiddev/comments/ldblz7/how_can_i_display_a_list_of_values_that_are/)
-- [Any resource for learning how to setup CameraX with a custom cropRect matching a rectangle on screen?](https://www.reddit.com/r/androiddev/comments/ldax32/any_resource_for_learning_how_to_setup_camerax/)
-- [Datastore (Architecture component)](https://www.reddit.com/r/androiddev/comments/ldawwx/datastore_architecture_component/)
-- [Whatis the best android development course in 2021?](https://www.reddit.com/r/androiddev/comments/ldabvl/whatis_the_best_android_development_course_in_2021/)
+- [Beginner - Need advice for making a quiz app- How to start?](https://www.reddit.com/r/androiddev/comments/leao11/beginner_need_advice_for_making_a_quiz_app_how_to/)
+- [Is it bad if my ViewModel receives Room DB (via Flow) updates while the fragment is not active?](https://www.reddit.com/r/androiddev/comments/leafbg/is_it_bad_if_my_viewmodel_receives_room_db_via/)
+- [What's the best thing to use to work on a Firebase project on a PC and on a laptop?](https://www.reddit.com/r/androiddev/comments/le9fr2/whats_the_best_thing_to_use_to_work_on_a_firebase/)
+- [[UX for Devs - How to choose the the right idea to start the process of creating a successful application]](https://www.reddit.com/r/androiddev/comments/le8ct6/ux_for_devs_how_to_choose_the_the_right_idea_to/)
+- [Android Studio inbuilt debugging over Wifi?](https://www.reddit.com/r/androiddev/comments/le7u90/android_studio_inbuilt_debugging_over_wifi/)
+- [How to avoid displaying duplicate items when using Paging Library?](https://www.reddit.com/r/androiddev/comments/le6aox/how_to_avoid_displaying_duplicate_items_when/)
+- [ShapeableView in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/le4y3s/shapeableview_in_jetpack_compose/)
+- [OpenStreetMap based place picker](https://www.reddit.com/r/androiddev/comments/le49z4/openstreetmap_based_place_picker/)
+- [If you ever plan on developing a file manager, please do not kick the user back to the beginning when selecting a target path to copy/move files to.](https://www.reddit.com/r/androiddev/comments/le2wjk/if_you_ever_plan_on_developing_a_file_manager/)
+- [Could someone help me compile this app?](https://www.reddit.com/r/androiddev/comments/le2pmy/could_someone_help_me_compile_this_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
