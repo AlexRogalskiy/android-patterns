@@ -303,16 +303,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Jetpack Compose Image Content ScaleType Fully Illustrated](https://medium.com/mobile-app-development-publication/jetpack-compose-image-content-scaletype-fully-illustrated-bfdf2de7ef5?source=rss------android-5)
-- [How To Download Videos From Social Media Networks](https://medium.com/@mahmoudel2902/how-to-download-videos-from-social-media-networks-f71b98c71f1f?source=rss------android-5)
-- [Top Requirements For You To Know About Android APK](https://medium.com/@harry123jack/top-requirements-for-you-to-know-about-android-apk-2f155a8357ad?source=rss------android-5)
-- [ShapeableView in Jetpack Compose. Part 1](https://proandroiddev.com/shapeableview-in-jetpack-compose-part-1-8b1b312b2fa4?source=rss------android-5)
-- [Why I don’t Use a Xiaomi Phone? Bad Aspects of Xiaomi Phones.](https://medium.com/@byegcn/why-i-dont-use-a-xiaomi-phone-bad-aspects-of-xiaomi-phones-d23a771573b9?source=rss------android-5)
-- [Android Application Basics](https://medium.com/mobis3c/android-application-basics-b4da5aaa3e68?source=rss------android-5)
-- [How to use ClubHouse on Android](https://medium.com/@Connessioni/how-to-use-clubhouse-on-android-db96dbeb97d6?source=rss------android-5)
-- [Come usare ClubHouse su Android](https://medium.com/@Connessioni/come-usare-clubhouse-su-android-848d7445774e?source=rss------android-5)
-- [Tech Solutions by applex.in](https://medium.com/@applex-in/tech-solutions-by-applex-in-100926fc5c52?source=rss------android-5)
-- [FacePhone, the Facebook Phone](https://medium.com/@sokullu/facephone-the-facebook-phone-ce8cb5145d58?source=rss------android-5)
+- [Conversation about Integration of Ads Kit in Flutter for Intermediate developers.](https://medium.com/@basavarajnavi/conversation-about-integration-of-ads-kit-in-flutter-for-intermediate-developers-949ac8c4c3d4?source=rss------android-5)
+- [Menggunakan MVVM pada Android Sederhana](https://medium.com/@ara.bakhara12/menggunakan-mvvm-pada-android-sederhana-c34122a5cabc?source=rss------android-5)
+- [The android clean architecture [POV]](https://medium.com/@budioktaviyans/the-android-clean-architecture-pov-d9d5ec888534?source=rss------android-5)
+- [How to Debug the app](https://medium.com/@sudishkumar.edugaon/how-to-debug-the-app-bdfb5f808c79?source=rss------android-5)
+- [Migrating Signal history between Android devices](https://medium.com/@aidanfeldman/migrating-signal-history-between-android-devices-fc2d5a40769a?source=rss------android-5)
+- [The attitude of doing the last-minute change in production code kills the developer](https://medium.com/workindia-in/the-attitude-of-doing-the-last-minute-change-in-production-code-kills-the-developer-2182fb2a4b0d?source=rss------android-5)
+- [Tutorial Navigation dan Binding Layout Pada Fragment Android](https://medium.com/@ara.bakhara12/tutorial-navigation-dan-binding-layout-pada-fragment-android-6692089a5fc?source=rss------android-5)
+- [The rise and fall of Cyanogen-Mod](https://medium.com/@kishorekmg3/the-rise-and-fall-of-cyanogen-mod-73ad5f7185e?source=rss------android-5)
+- [Running strings translation check before Git Push](https://medium.com/@serhii.k/running-strings-translation-check-before-git-push-a0df267cef55?source=rss------android-5)
+- [Naruto Shippuden Ultimate Ninja Strom 5 psp download](https://medium.com/@gampeche/naruto-shippuden-ultimate-ninja-strom-5-psp-download-8eb0ef5d44c6?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
