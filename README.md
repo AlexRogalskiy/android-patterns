@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Beginner - Need advice for making a quiz app- How to start?](https://www.reddit.com/r/androiddev/comments/leao11/beginner_need_advice_for_making_a_quiz_app_how_to/)
-- [Is it bad if my ViewModel receives Room DB (via Flow) updates while the fragment is not active?](https://www.reddit.com/r/androiddev/comments/leafbg/is_it_bad_if_my_viewmodel_receives_room_db_via/)
-- [What's the best thing to use to work on a Firebase project on a PC and on a laptop?](https://www.reddit.com/r/androiddev/comments/le9fr2/whats_the_best_thing_to_use_to_work_on_a_firebase/)
-- [[UX for Devs - How to choose the the right idea to start the process of creating a successful application]](https://www.reddit.com/r/androiddev/comments/le8ct6/ux_for_devs_how_to_choose_the_the_right_idea_to/)
-- [Android Studio inbuilt debugging over Wifi?](https://www.reddit.com/r/androiddev/comments/le7u90/android_studio_inbuilt_debugging_over_wifi/)
-- [How to avoid displaying duplicate items when using Paging Library?](https://www.reddit.com/r/androiddev/comments/le6aox/how_to_avoid_displaying_duplicate_items_when/)
-- [ShapeableView in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/le4y3s/shapeableview_in_jetpack_compose/)
-- [OpenStreetMap based place picker](https://www.reddit.com/r/androiddev/comments/le49z4/openstreetmap_based_place_picker/)
-- [If you ever plan on developing a file manager, please do not kick the user back to the beginning when selecting a target path to copy/move files to.](https://www.reddit.com/r/androiddev/comments/le2wjk/if_you_ever_plan_on_developing_a_file_manager/)
-- [Could someone help me compile this app?](https://www.reddit.com/r/androiddev/comments/le2pmy/could_someone_help_me_compile_this_app/)
+- [Working on Decentralized Social Platform. I2P and ToR Based](https://www.reddit.com/r/androiddev/comments/lf07os/working_on_decentralized_social_platform_i2p_and/)
+- [Cannot use @Parcelize on inline class](https://www.reddit.com/r/androiddev/comments/lezuyl/cannot_use_parcelize_on_inline_class/)
+- [Is Linux OS a better platform to develop Android than Windows or MacOS?](https://www.reddit.com/r/androiddev/comments/lezizu/is_linux_os_a_better_platform_to_develop_android/)
+- [Does the Android team accept volunteers to help with documentation? Asking for a friend...](https://www.reddit.com/r/androiddev/comments/leydnk/does_the_android_team_accept_volunteers_to_help/)
+- [Any Idea how to achieve this stacking behaviour, this is not bottom sheet dialog](https://www.reddit.com/r/androiddev/comments/lex5zv/any_idea_how_to_achieve_this_stacking_behaviour/)
+- [How is the performance of the Android preview emulator on the Mac M1?](https://www.reddit.com/r/androiddev/comments/lex359/how_is_the_performance_of_the_android_preview/)
+- [Accessing EditText in Android Studio from different activities in Java](https://www.reddit.com/r/androiddev/comments/lewhx6/accessing_edittext_in_android_studio_from/)
+- [What is the onCreate method in the android app dev? Is it not a constructor?](https://www.reddit.com/r/androiddev/comments/lew98b/what_is_the_oncreate_method_in_the_android_app/)
+- [What are you doing for auto configuration after factory reset in on your pipeline build devices?](https://www.reddit.com/r/androiddev/comments/levj9s/what_are_you_doing_for_auto_configuration_after/)
+- [I created this app to try out Hilt and Apollo with clean architecture and MVVM](https://www.reddit.com/r/androiddev/comments/leuu1e/i_created_this_app_to_try_out_hilt_and_apollo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
