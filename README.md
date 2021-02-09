@@ -333,6 +333,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Workshop: Understanding and preparing for AppTrackingTransparency in iOS 14](https://mobiledevmemo.com/workshop-understanding-and-preparing-for-apptrackingtransparency-in-ios-14/)
+- [“Allow this app to personalize advertising for you?”](https://mobiledevmemo.com/allow-this-app-to-personalize-advertising-for-you/)
 - [Why did Applovin buy Adjust?](https://mobiledevmemo.com/why-did-applovin-buy-adjust/)
 - [Apple privileges its own ad network with ATT. What’s its privacy endgame?](https://mobiledevmemo.com/apple-privileges-its-own-ad-network-whats-its-privacy-end-game/)
 - [Unpacking Apple’s latest iOS14 privacy policy guidance](https://mobiledevmemo.com/unpacking-apples-latest-ios14-privacy-policy-guidance/)
@@ -341,8 +343,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Facebook may take 7% revenue hit from Apple privacy changes](https://mobiledevmemo.com/facebook-may-take-revenue-hit-from-apple-privacy-changes/)
 - [Fingerprinting with iOS 14: Reality or delusion?](https://mobiledevmemo.com/fingerprinting-with-att-reality-or-delusion/)
 - [What happens to digital advertising if Facebook is broken up?](https://mobiledevmemo.com/what-happens-to-advertisers-if-facebook-is-broken-up/)
-- [App Tracking Transparency Codex: the ultimate guide to ATT, IDFA deprecation, and SKAdNetwork](https://mobiledevmemo.com/app-tracking-transparency-codex-guide-to-idfa-deprecation-and-skadnetwork/)
-- [2021 predictions for mobile marketing, Part 2](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing-part-2/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
