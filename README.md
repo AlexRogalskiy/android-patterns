@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Working on Decentralized Social Platform. I2P and ToR Based](https://www.reddit.com/r/androiddev/comments/lf07os/working_on_decentralized_social_platform_i2p_and/)
-- [Cannot use @Parcelize on inline class](https://www.reddit.com/r/androiddev/comments/lezuyl/cannot_use_parcelize_on_inline_class/)
-- [Is Linux OS a better platform to develop Android than Windows or MacOS?](https://www.reddit.com/r/androiddev/comments/lezizu/is_linux_os_a_better_platform_to_develop_android/)
-- [Does the Android team accept volunteers to help with documentation? Asking for a friend...](https://www.reddit.com/r/androiddev/comments/leydnk/does_the_android_team_accept_volunteers_to_help/)
-- [Any Idea how to achieve this stacking behaviour, this is not bottom sheet dialog](https://www.reddit.com/r/androiddev/comments/lex5zv/any_idea_how_to_achieve_this_stacking_behaviour/)
-- [How is the performance of the Android preview emulator on the Mac M1?](https://www.reddit.com/r/androiddev/comments/lex359/how_is_the_performance_of_the_android_preview/)
-- [Accessing EditText in Android Studio from different activities in Java](https://www.reddit.com/r/androiddev/comments/lewhx6/accessing_edittext_in_android_studio_from/)
-- [What is the onCreate method in the android app dev? Is it not a constructor?](https://www.reddit.com/r/androiddev/comments/lew98b/what_is_the_oncreate_method_in_the_android_app/)
-- [What are you doing for auto configuration after factory reset in on your pipeline build devices?](https://www.reddit.com/r/androiddev/comments/levj9s/what_are_you_doing_for_auto_configuration_after/)
-- [I created this app to try out Hilt and Apollo with clean architecture and MVVM](https://www.reddit.com/r/androiddev/comments/leuu1e/i_created_this_app_to_try_out_hilt_and_apollo/)
+- [Is there any way to have a MacBook Pro *NOT* charge a USB-C phone (e.g. S10) while it's plugged in but still have ADB etc?](https://www.reddit.com/r/androiddev/comments/lfnc4x/is_there_any_way_to_have_a_macbook_pro_not_charge/)
+- [locking phone](https://www.reddit.com/r/androiddev/comments/lfn1om/locking_phone/)
+- [Windows File Explorer - ADB Context Menu](https://www.reddit.com/r/androiddev/comments/lfmgri/windows_file_explorer_adb_context_menu/)
+- [Link to Android command line tools](https://www.reddit.com/r/androiddev/comments/lfly0v/link_to_android_command_line_tools/)
+- [Having trouble intercepting CALL_BUTTON in Contacts app to add my app as a potential default caller app](https://www.reddit.com/r/androiddev/comments/lfl1dp/having_trouble_intercepting_call_button_in/)
+- [Google and the Android Team joins the Rust foundation](https://www.reddit.com/r/androiddev/comments/lfkma7/google_and_the_android_team_joins_the_rust/)
+- [Startup time](https://www.reddit.com/r/androiddev/comments/lfi9gm/startup_time/)
+- [Terraria on Stadia cancelled after developer's Google account gets locked](https://www.reddit.com/r/androiddev/comments/lfi5zh/terraria_on_stadia_cancelled_after_developers/)
+- [Questions about Firebase Device Tokens.](https://www.reddit.com/r/androiddev/comments/lfi40j/questions_about_firebase_device_tokens/)
+- [Is it possible to use my router's USB port to use ADB on android?](https://www.reddit.com/r/androiddev/comments/lfh9h6/is_it_possible_to_use_my_routers_usb_port_to_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -303,21 +303,22 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Conversation about Integration of Ads Kit in Flutter for Intermediate developers.](https://medium.com/@basavarajnavi/conversation-about-integration-of-ads-kit-in-flutter-for-intermediate-developers-949ac8c4c3d4?source=rss------android-5)
-- [Menggunakan MVVM pada Android Sederhana](https://medium.com/@ara.bakhara12/menggunakan-mvvm-pada-android-sederhana-c34122a5cabc?source=rss------android-5)
-- [The android clean architecture [POV]](https://medium.com/@budioktaviyans/the-android-clean-architecture-pov-d9d5ec888534?source=rss------android-5)
-- [How to Debug the app](https://medium.com/@sudishkumar.edugaon/how-to-debug-the-app-bdfb5f808c79?source=rss------android-5)
-- [Migrating Signal history between Android devices](https://medium.com/@aidanfeldman/migrating-signal-history-between-android-devices-fc2d5a40769a?source=rss------android-5)
-- [The attitude of doing the last-minute change in production code kills the developer](https://medium.com/workindia-in/the-attitude-of-doing-the-last-minute-change-in-production-code-kills-the-developer-2182fb2a4b0d?source=rss------android-5)
-- [Tutorial Navigation dan Binding Layout Pada Fragment Android](https://medium.com/@ara.bakhara12/tutorial-navigation-dan-binding-layout-pada-fragment-android-6692089a5fc?source=rss------android-5)
-- [The rise and fall of Cyanogen-Mod](https://medium.com/@kishorekmg3/the-rise-and-fall-of-cyanogen-mod-73ad5f7185e?source=rss------android-5)
-- [Running strings translation check before Git Push](https://medium.com/@serhii.k/running-strings-translation-check-before-git-push-a0df267cef55?source=rss------android-5)
-- [Naruto Shippuden Ultimate Ninja Strom 5 psp download](https://medium.com/@gampeche/naruto-shippuden-ultimate-ninja-strom-5-psp-download-8eb0ef5d44c6?source=rss------android-5)
+- [Threads, Handler, Looper e Message Queue: Parte 1 — Thread](https://medium.com/@jeziellago/threads-handler-looper-e-message-queue-parte-1-thread-635364a0697d?source=rss------android-5)
+- [Flutter Failed To Solve the Biggest Challenge for Our Cross-Platform App](https://medium.com/better-programming/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18?source=rss------android-5)
+- [當 RecyclerView 當作 聊天訊息時，要怎麼處理 KeyBoard 彈出 被擋住的問題？](https://medium.com/liy-elaine/%E7%95%B6-recyclerview-%E7%95%B6%E4%BD%9C-%E8%81%8A%E5%A4%A9%E8%A8%8A%E6%81%AF%E6%99%82-%E8%A6%81%E6%80%8E%E9%BA%BC%E8%99%95%E7%90%86-keyboard-%E5%BD%88%E5%87%BA-%E8%A2%AB%E6%93%8B%E4%BD%8F%E7%9A%84%E5%95%8F%E9%A1%8C-d8e691f58d3d?source=rss------android-5)
+- [Poor women’s home notification system](https://medium.com/@linda0511ny/poor-womens-home-notification-system-2d6a41e275dc?source=rss------android-5)
+- [Android Development VS iOS Development, Which Platform is Better in 2021?](https://medium.com/@spacester/android-development-vs-ios-development-which-platform-is-better-in-2021-c3eafa8264d3?source=rss------android-5)
+- [PES 2021 PSP download ISO Android Offline PS5 Camera New Menu PPSSPP](https://medium.com/@gampeche/pes-2021-psp-download-iso-android-offline-ps5-camera-new-menu-ppsspp-48ee9e32bde7?source=rss------android-5)
+- [Email and Password authentication using Firebase in Android Studio | Java](https://medium.com/@androidapps-development-blogs/email-and-password-authentication-using-firebase-in-android-studio-java-9a57156f04fc?source=rss------android-5)
+- [Completely fixing RxJava stacktrace](https://medium.com/@alexshafir/completely-fixing-rxjava-stacktrace-65336265b750?source=rss------android-5)
+- [What are Interceptors and Authenticators](https://medium.com/@r24insa/what-are-interceptors-and-authenticators-325e5dea7cc7?source=rss------android-5)
+- [Reanimated 2 Events (part II) — Scroll Events](https://blog.swmansion.com/reanimated-2-events-part-ii-scroll-events-a319fd9f1e62?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Barcode-Scanning App for Android Pushed Malware Onto Millions of Phones](https://gizmodo.com/barcode-scanning-app-for-android-pushed-malware-onto-mi-1846221452)
 - [Google Pays News Platforms in Australia to Prove No Law Is Needed to Make It Pay News Platforms](https://gizmodo.com/google-pays-news-platforms-in-australia-to-prove-no-law-1846204661)
 - [You Need to Update Chrome Right Now](https://gizmodo.com/you-need-to-update-chrome-right-now-1846204474)
 - [Google Wants to Beat Apple at Its Own Game](https://gizmodo.com/google-wants-to-beat-apple-at-its-own-game-1846200242)
@@ -327,12 +328,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google's Making Its Search Results a Bit Easier to Understand](https://gizmodo.com/googles-making-its-search-results-a-bit-easier-to-under-1846180565)
 - [Ford Will Put Android in Millions of Cars Starting in 2023](https://gizmodo.com/ford-will-put-android-in-millions-of-cars-starting-in-2-1846174165)
 - [Google Suspended Federated Chat App Element for Allegedly Hosting Abusive Content](https://gizmodo.com/google-suspended-federated-chat-app-element-for-alleged-1846167702)
-- [See Which Apps Are Using Your Camera, Microphone, and Location](https://gizmodo.com/see-which-apps-are-using-your-camera-microphone-and-l-1846044433)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Workshop: Understanding and preparing for AppTrackingTransparency in iOS 14](https://mobiledevmemo.com/workshop-understanding-and-preparing-for-apptrackingtransparency-in-ios-14/)
+- [“Allow this app to personalize advertising for you?”](https://mobiledevmemo.com/allow-this-app-to-personalize-advertising-for-you/)
 - [Why did Applovin buy Adjust?](https://mobiledevmemo.com/why-did-applovin-buy-adjust/)
 - [Apple privileges its own ad network with ATT. What’s its privacy endgame?](https://mobiledevmemo.com/apple-privileges-its-own-ad-network-whats-its-privacy-end-game/)
 - [Unpacking Apple’s latest iOS14 privacy policy guidance](https://mobiledevmemo.com/unpacking-apples-latest-ios14-privacy-policy-guidance/)
@@ -341,8 +343,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Facebook may take 7% revenue hit from Apple privacy changes](https://mobiledevmemo.com/facebook-may-take-revenue-hit-from-apple-privacy-changes/)
 - [Fingerprinting with iOS 14: Reality or delusion?](https://mobiledevmemo.com/fingerprinting-with-att-reality-or-delusion/)
 - [What happens to digital advertising if Facebook is broken up?](https://mobiledevmemo.com/what-happens-to-advertisers-if-facebook-is-broken-up/)
-- [App Tracking Transparency Codex: the ultimate guide to ATT, IDFA deprecation, and SKAdNetwork](https://mobiledevmemo.com/app-tracking-transparency-codex-guide-to-idfa-deprecation-and-skadnetwork/)
-- [2021 predictions for mobile marketing, Part 2](https://mobiledevmemo.com/2021-predictions-for-mobile-marketing-part-2/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
