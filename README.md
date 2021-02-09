@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Working on Decentralized Social Platform. I2P and ToR Based](https://www.reddit.com/r/androiddev/comments/lf07os/working_on_decentralized_social_platform_i2p_and/)
-- [Cannot use @Parcelize on inline class](https://www.reddit.com/r/androiddev/comments/lezuyl/cannot_use_parcelize_on_inline_class/)
-- [Is Linux OS a better platform to develop Android than Windows or MacOS?](https://www.reddit.com/r/androiddev/comments/lezizu/is_linux_os_a_better_platform_to_develop_android/)
-- [Does the Android team accept volunteers to help with documentation? Asking for a friend...](https://www.reddit.com/r/androiddev/comments/leydnk/does_the_android_team_accept_volunteers_to_help/)
-- [Any Idea how to achieve this stacking behaviour, this is not bottom sheet dialog](https://www.reddit.com/r/androiddev/comments/lex5zv/any_idea_how_to_achieve_this_stacking_behaviour/)
-- [How is the performance of the Android preview emulator on the Mac M1?](https://www.reddit.com/r/androiddev/comments/lex359/how_is_the_performance_of_the_android_preview/)
-- [Accessing EditText in Android Studio from different activities in Java](https://www.reddit.com/r/androiddev/comments/lewhx6/accessing_edittext_in_android_studio_from/)
-- [What is the onCreate method in the android app dev? Is it not a constructor?](https://www.reddit.com/r/androiddev/comments/lew98b/what_is_the_oncreate_method_in_the_android_app/)
-- [What are you doing for auto configuration after factory reset in on your pipeline build devices?](https://www.reddit.com/r/androiddev/comments/levj9s/what_are_you_doing_for_auto_configuration_after/)
-- [I created this app to try out Hilt and Apollo with clean architecture and MVVM](https://www.reddit.com/r/androiddev/comments/leuu1e/i_created_this_app_to_try_out_hilt_and_apollo/)
+- [Is there any way to have a MacBook Pro *NOT* charge a USB-C phone (e.g. S10) while it's plugged in but still have ADB etc?](https://www.reddit.com/r/androiddev/comments/lfnc4x/is_there_any_way_to_have_a_macbook_pro_not_charge/)
+- [locking phone](https://www.reddit.com/r/androiddev/comments/lfn1om/locking_phone/)
+- [Windows File Explorer - ADB Context Menu](https://www.reddit.com/r/androiddev/comments/lfmgri/windows_file_explorer_adb_context_menu/)
+- [Link to Android command line tools](https://www.reddit.com/r/androiddev/comments/lfly0v/link_to_android_command_line_tools/)
+- [Having trouble intercepting CALL_BUTTON in Contacts app to add my app as a potential default caller app](https://www.reddit.com/r/androiddev/comments/lfl1dp/having_trouble_intercepting_call_button_in/)
+- [Google and the Android Team joins the Rust foundation](https://www.reddit.com/r/androiddev/comments/lfkma7/google_and_the_android_team_joins_the_rust/)
+- [Startup time](https://www.reddit.com/r/androiddev/comments/lfi9gm/startup_time/)
+- [Terraria on Stadia cancelled after developer's Google account gets locked](https://www.reddit.com/r/androiddev/comments/lfi5zh/terraria_on_stadia_cancelled_after_developers/)
+- [Questions about Firebase Device Tokens.](https://www.reddit.com/r/androiddev/comments/lfi40j/questions_about_firebase_device_tokens/)
+- [Is it possible to use my router's USB port to use ADB on android?](https://www.reddit.com/r/androiddev/comments/lfh9h6/is_it_possible_to_use_my_routers_usb_port_to_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
