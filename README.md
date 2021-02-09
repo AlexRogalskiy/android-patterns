@@ -303,16 +303,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Conversation about Integration of Ads Kit in Flutter for Intermediate developers.](https://medium.com/@basavarajnavi/conversation-about-integration-of-ads-kit-in-flutter-for-intermediate-developers-949ac8c4c3d4?source=rss------android-5)
-- [Menggunakan MVVM pada Android Sederhana](https://medium.com/@ara.bakhara12/menggunakan-mvvm-pada-android-sederhana-c34122a5cabc?source=rss------android-5)
-- [The android clean architecture [POV]](https://medium.com/@budioktaviyans/the-android-clean-architecture-pov-d9d5ec888534?source=rss------android-5)
-- [How to Debug the app](https://medium.com/@sudishkumar.edugaon/how-to-debug-the-app-bdfb5f808c79?source=rss------android-5)
-- [Migrating Signal history between Android devices](https://medium.com/@aidanfeldman/migrating-signal-history-between-android-devices-fc2d5a40769a?source=rss------android-5)
-- [The attitude of doing the last-minute change in production code kills the developer](https://medium.com/workindia-in/the-attitude-of-doing-the-last-minute-change-in-production-code-kills-the-developer-2182fb2a4b0d?source=rss------android-5)
-- [Tutorial Navigation dan Binding Layout Pada Fragment Android](https://medium.com/@ara.bakhara12/tutorial-navigation-dan-binding-layout-pada-fragment-android-6692089a5fc?source=rss------android-5)
-- [The rise and fall of Cyanogen-Mod](https://medium.com/@kishorekmg3/the-rise-and-fall-of-cyanogen-mod-73ad5f7185e?source=rss------android-5)
-- [Running strings translation check before Git Push](https://medium.com/@serhii.k/running-strings-translation-check-before-git-push-a0df267cef55?source=rss------android-5)
-- [Naruto Shippuden Ultimate Ninja Strom 5 psp download](https://medium.com/@gampeche/naruto-shippuden-ultimate-ninja-strom-5-psp-download-8eb0ef5d44c6?source=rss------android-5)
+- [Threads, Handler, Looper e Message Queue: Parte 1 — Thread](https://medium.com/@jeziellago/threads-handler-looper-e-message-queue-parte-1-thread-635364a0697d?source=rss------android-5)
+- [Flutter Failed To Solve the Biggest Challenge for Our Cross-Platform App](https://medium.com/better-programming/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18?source=rss------android-5)
+- [當 RecyclerView 當作 聊天訊息時，要怎麼處理 KeyBoard 彈出 被擋住的問題？](https://medium.com/liy-elaine/%E7%95%B6-recyclerview-%E7%95%B6%E4%BD%9C-%E8%81%8A%E5%A4%A9%E8%A8%8A%E6%81%AF%E6%99%82-%E8%A6%81%E6%80%8E%E9%BA%BC%E8%99%95%E7%90%86-keyboard-%E5%BD%88%E5%87%BA-%E8%A2%AB%E6%93%8B%E4%BD%8F%E7%9A%84%E5%95%8F%E9%A1%8C-d8e691f58d3d?source=rss------android-5)
+- [Poor women’s home notification system](https://medium.com/@linda0511ny/poor-womens-home-notification-system-2d6a41e275dc?source=rss------android-5)
+- [Android Development VS iOS Development, Which Platform is Better in 2021?](https://medium.com/@spacester/android-development-vs-ios-development-which-platform-is-better-in-2021-c3eafa8264d3?source=rss------android-5)
+- [PES 2021 PSP download ISO Android Offline PS5 Camera New Menu PPSSPP](https://medium.com/@gampeche/pes-2021-psp-download-iso-android-offline-ps5-camera-new-menu-ppsspp-48ee9e32bde7?source=rss------android-5)
+- [Email and Password authentication using Firebase in Android Studio | Java](https://medium.com/@androidapps-development-blogs/email-and-password-authentication-using-firebase-in-android-studio-java-9a57156f04fc?source=rss------android-5)
+- [Completely fixing RxJava stacktrace](https://medium.com/@alexshafir/completely-fixing-rxjava-stacktrace-65336265b750?source=rss------android-5)
+- [What are Interceptors and Authenticators](https://medium.com/@r24insa/what-are-interceptors-and-authenticators-325e5dea7cc7?source=rss------android-5)
+- [Reanimated 2 Events (part II) — Scroll Events](https://blog.swmansion.com/reanimated-2-events-part-ii-scroll-events-a319fd9f1e62?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
