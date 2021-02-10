@@ -303,16 +303,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Threads, Handler, Looper e Message Queue: Parte 1 — Thread](https://medium.com/@jeziellago/threads-handler-looper-e-message-queue-parte-1-thread-635364a0697d?source=rss------android-5)
-- [Flutter Failed To Solve the Biggest Challenge for Our Cross-Platform App](https://medium.com/better-programming/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18?source=rss------android-5)
-- [當 RecyclerView 當作 聊天訊息時，要怎麼處理 KeyBoard 彈出 被擋住的問題？](https://medium.com/liy-elaine/%E7%95%B6-recyclerview-%E7%95%B6%E4%BD%9C-%E8%81%8A%E5%A4%A9%E8%A8%8A%E6%81%AF%E6%99%82-%E8%A6%81%E6%80%8E%E9%BA%BC%E8%99%95%E7%90%86-keyboard-%E5%BD%88%E5%87%BA-%E8%A2%AB%E6%93%8B%E4%BD%8F%E7%9A%84%E5%95%8F%E9%A1%8C-d8e691f58d3d?source=rss------android-5)
-- [Poor women’s home notification system](https://medium.com/@linda0511ny/poor-womens-home-notification-system-2d6a41e275dc?source=rss------android-5)
-- [Android Development VS iOS Development, Which Platform is Better in 2021?](https://medium.com/@spacester/android-development-vs-ios-development-which-platform-is-better-in-2021-c3eafa8264d3?source=rss------android-5)
-- [PES 2021 PSP download ISO Android Offline PS5 Camera New Menu PPSSPP](https://medium.com/@gampeche/pes-2021-psp-download-iso-android-offline-ps5-camera-new-menu-ppsspp-48ee9e32bde7?source=rss------android-5)
-- [Email and Password authentication using Firebase in Android Studio | Java](https://medium.com/@androidapps-development-blogs/email-and-password-authentication-using-firebase-in-android-studio-java-9a57156f04fc?source=rss------android-5)
-- [Completely fixing RxJava stacktrace](https://medium.com/@alexshafir/completely-fixing-rxjava-stacktrace-65336265b750?source=rss------android-5)
-- [What are Interceptors and Authenticators](https://medium.com/@r24insa/what-are-interceptors-and-authenticators-325e5dea7cc7?source=rss------android-5)
-- [Reanimated 2 Events (part II) — Scroll Events](https://blog.swmansion.com/reanimated-2-events-part-ii-scroll-events-a319fd9f1e62?source=rss------android-5)
+- [The Google Pixel and the Curse of Brand Reputation](https://medium.com/@omarzahran/the-google-pixel-and-the-curse-of-brand-reputation-4d55134afa1d?source=rss------android-5)
+- [Android Generic RecyclerView Adapter](https://medium.com/@zarraf-ahmed/android-generic-recyclerview-adapter-67eb8f826cad?source=rss------android-5)
+- [Merhaba! ben EfeCikNapiyon.](https://medium.com/@wefecinar/merhaba-ben-efeciknapiyon-dc63e3d952b3?source=rss------android-5)
+- [Android TabLayout style customization](https://medium.com/@sshex/android-tablayout-style-customization-29ad0657d49c?source=rss------android-5)
+- [File and Code Templates — მეტი პროდუქტიულობისთვის](https://medium.com/@iona-bartishvili/file-and-code-templates-5a7d438f567b?source=rss------android-5)
+- [Threads, Handler, Looper e Message Queue: Parte 2](https://medium.com/@jeziellago/threads-handler-looper-e-message-queue-parte-2-3711ee9d1b4?source=rss------android-5)
+- [The perfect clone .](https://medium.com/@praneeth-t96/the-perfect-clone-52d68d851bce?source=rss------android-5)
+- [10 Flutter Tips I  Learned After 3 Years of Flutter Development](https://medium.com/better-programming/10-flutter-tips-i-learned-after-3-years-of-flutter-development-7a7dbb697fe2?source=rss------android-5)
+- [How I and my team cloned the App called RentoMojo.](https://medium.com/@kumarishwar623/how-i-and-my-team-cloned-the-app-called-rentomojo-915873802931?source=rss------android-5)
+- [মোবাইল চার্জে লাগিয়ে ব্যবহার করলে কি কোনো ক্ষতি হয়?](https://medium.com/@technieland/%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A7%9F-cae628e3b981?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
