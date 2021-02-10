@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there any way to have a MacBook Pro *NOT* charge a USB-C phone (e.g. S10) while it's plugged in but still have ADB etc?](https://www.reddit.com/r/androiddev/comments/lfnc4x/is_there_any_way_to_have_a_macbook_pro_not_charge/)
-- [locking phone](https://www.reddit.com/r/androiddev/comments/lfn1om/locking_phone/)
-- [Windows File Explorer - ADB Context Menu](https://www.reddit.com/r/androiddev/comments/lfmgri/windows_file_explorer_adb_context_menu/)
-- [Link to Android command line tools](https://www.reddit.com/r/androiddev/comments/lfly0v/link_to_android_command_line_tools/)
-- [Having trouble intercepting CALL_BUTTON in Contacts app to add my app as a potential default caller app](https://www.reddit.com/r/androiddev/comments/lfl1dp/having_trouble_intercepting_call_button_in/)
-- [Google and the Android Team joins the Rust foundation](https://www.reddit.com/r/androiddev/comments/lfkma7/google_and_the_android_team_joins_the_rust/)
-- [Startup time](https://www.reddit.com/r/androiddev/comments/lfi9gm/startup_time/)
-- [Terraria on Stadia cancelled after developer's Google account gets locked](https://www.reddit.com/r/androiddev/comments/lfi5zh/terraria_on_stadia_cancelled_after_developers/)
-- [Questions about Firebase Device Tokens.](https://www.reddit.com/r/androiddev/comments/lfi40j/questions_about_firebase_device_tokens/)
-- [Is it possible to use my router's USB port to use ADB on android?](https://www.reddit.com/r/androiddev/comments/lfh9h6/is_it_possible_to_use_my_routers_usb_port_to_use/)
+- [Question about Google Developer physical address requirement...?](https://www.reddit.com/r/androiddev/comments/lggzlq/question_about_google_developer_physical_address/)
+- [BottomNavigation replace fragment](https://www.reddit.com/r/androiddev/comments/lgfa99/bottomnavigation_replace_fragment/)
+- [What was your most challenging project and what do you use?](https://www.reddit.com/r/androiddev/comments/lge4nc/what_was_your_most_challenging_project_and_what/)
+- [dev louncher with access control](https://www.reddit.com/r/androiddev/comments/lgdvuw/dev_louncher_with_access_control/)
+- [Being a junior developer](https://www.reddit.com/r/androiddev/comments/lgbasb/being_a_junior_developer/)
+- [Android Studio stuck at analyzing, is this a looming IDE issue, and can it be fixed ??](https://www.reddit.com/r/androiddev/comments/lga4mg/android_studio_stuck_at_analyzing_is_this_a/)
+- [TextView with dotted text and solid background (LED kinda of text)](https://www.reddit.com/r/androiddev/comments/lg81m6/textview_with_dotted_text_and_solid_background/)
+- [An open source device identification library written in Kotlin](https://www.reddit.com/r/androiddev/comments/lg81i1/an_open_source_device_identification_library/)
+- [How we sped up Dropbox Android app startup by 30%](https://www.reddit.com/r/androiddev/comments/lg7q63/how_we_sped_up_dropbox_android_app_startup_by_30/)
+- [Make your deprecation clear in Android(Kotlin)](https://www.reddit.com/r/androiddev/comments/lg7ncj/make_your_deprecation_clear_in_androidkotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
