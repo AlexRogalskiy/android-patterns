@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question about Google Developer physical address requirement...?](https://www.reddit.com/r/androiddev/comments/lggzlq/question_about_google_developer_physical_address/)
-- [BottomNavigation replace fragment](https://www.reddit.com/r/androiddev/comments/lgfa99/bottomnavigation_replace_fragment/)
-- [What was your most challenging project and what do you use?](https://www.reddit.com/r/androiddev/comments/lge4nc/what_was_your_most_challenging_project_and_what/)
-- [dev louncher with access control](https://www.reddit.com/r/androiddev/comments/lgdvuw/dev_louncher_with_access_control/)
-- [Being a junior developer](https://www.reddit.com/r/androiddev/comments/lgbasb/being_a_junior_developer/)
-- [Android Studio stuck at analyzing, is this a looming IDE issue, and can it be fixed ??](https://www.reddit.com/r/androiddev/comments/lga4mg/android_studio_stuck_at_analyzing_is_this_a/)
-- [TextView with dotted text and solid background (LED kinda of text)](https://www.reddit.com/r/androiddev/comments/lg81m6/textview_with_dotted_text_and_solid_background/)
-- [An open source device identification library written in Kotlin](https://www.reddit.com/r/androiddev/comments/lg81i1/an_open_source_device_identification_library/)
-- [How we sped up Dropbox Android app startup by 30%](https://www.reddit.com/r/androiddev/comments/lg7q63/how_we_sped_up_dropbox_android_app_startup_by_30/)
-- [Make your deprecation clear in Android(Kotlin)](https://www.reddit.com/r/androiddev/comments/lg7ncj/make_your_deprecation_clear_in_androidkotlin/)
+- [Building a custom ROM around Android 11/12](https://www.reddit.com/r/androiddev/comments/lh8ohj/building_a_custom_rom_around_android_1112/)
+- [Is it possible to use media projection in a service?](https://www.reddit.com/r/androiddev/comments/lh5y5j/is_it_possible_to_use_media_projection_in_a/)
+- [Jetpack's release today is headlined by stable releases of Fragment 1.3.0, Activity 1.2.0, Lifecycle 2.3.0, SavedState 1.1.0 as well as Core-Role 1.0.0 and MediaRouter 1.2.2.](https://www.reddit.com/r/androiddev/comments/lh5ri9/jetpacks_release_today_is_headlined_by_stable/)
+- [Placeholders? What is that? I don't get it, why is this a problem?](https://www.reddit.com/r/androiddev/comments/lh3jqa/placeholders_what_is_that_i_dont_get_it_why_is/)
+- [If you were a recruiter or manager, which wording makes the most sense?](https://www.reddit.com/r/androiddev/comments/lh2cou/if_you_were_a_recruiter_or_manager_which_wording/)
+- [String sent from one activity to another not showing on TextView?](https://www.reddit.com/r/androiddev/comments/lh2536/string_sent_from_one_activity_to_another_not/)
+- [build application like facebook](https://www.reddit.com/r/androiddev/comments/lh1iyg/build_application_like_facebook/)
+- [According to the poll I made, Glide is the most popular image loading library by a wide margin. What makes it still the reliable library?](https://www.reddit.com/r/androiddev/comments/lh1etj/according_to_the_poll_i_made_glide_is_the_most/)
+- [Has RAM CL (CAS Latency) effect on Android Studio or similar programs?](https://www.reddit.com/r/androiddev/comments/lh1bhh/has_ram_cl_cas_latency_effect_on_android_studio/)
+- [Reified, crossinline, noinline and inline everything?](https://www.reddit.com/r/androiddev/comments/lgyt7h/reified_crossinline_noinline_and_inline_everything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
