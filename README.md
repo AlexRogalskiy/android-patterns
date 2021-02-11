@@ -303,16 +303,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [The Google Pixel and the Curse of Brand Reputation](https://medium.com/@omarzahran/the-google-pixel-and-the-curse-of-brand-reputation-4d55134afa1d?source=rss------android-5)
-- [Android Generic RecyclerView Adapter](https://medium.com/@zarraf-ahmed/android-generic-recyclerview-adapter-67eb8f826cad?source=rss------android-5)
-- [Merhaba! ben EfeCikNapiyon.](https://medium.com/@wefecinar/merhaba-ben-efeciknapiyon-dc63e3d952b3?source=rss------android-5)
-- [Android TabLayout style customization](https://medium.com/@sshex/android-tablayout-style-customization-29ad0657d49c?source=rss------android-5)
-- [File and Code Templates — მეტი პროდუქტიულობისთვის](https://medium.com/@iona-bartishvili/file-and-code-templates-5a7d438f567b?source=rss------android-5)
-- [Threads, Handler, Looper e Message Queue: Parte 2](https://medium.com/@jeziellago/threads-handler-looper-e-message-queue-parte-2-3711ee9d1b4?source=rss------android-5)
-- [The perfect clone .](https://medium.com/@praneeth-t96/the-perfect-clone-52d68d851bce?source=rss------android-5)
-- [10 Flutter Tips I  Learned After 3 Years of Flutter Development](https://medium.com/better-programming/10-flutter-tips-i-learned-after-3-years-of-flutter-development-7a7dbb697fe2?source=rss------android-5)
-- [How I and my team cloned the App called RentoMojo.](https://medium.com/@kumarishwar623/how-i-and-my-team-cloned-the-app-called-rentomojo-915873802931?source=rss------android-5)
-- [মোবাইল চার্জে লাগিয়ে ব্যবহার করলে কি কোনো ক্ষতি হয়?](https://medium.com/@technieland/%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A7%9F-cae628e3b981?source=rss------android-5)
+- [UFO ENEMY KNOWN — a 3D shooter game where you help the aliens win](https://medium.com/@sashotrajkov/ufo-enemy-known-a-3d-shooter-game-where-you-help-the-aliens-win-fbbaea702c5f?source=rss------android-5)
+- [Keeping WebView state across configuration changes](https://medium.com/@nicholas.rose/keeping-webview-state-across-configuration-changes-8e071ee9de86?source=rss------android-5)
+- [Automatizando o deploy de aplicações React Native com Bitrise — Parte 1](https://medium.com/@marciovcampos/automatizando-o-deploy-de-aplica%C3%A7%C3%B5es-react-native-com-bitrise-parte-1-3d170b305c39?source=rss------android-5)
+- [SharedPreferences untuk menyimpan data di Android](https://medium.com/@zackydzacky/sharedpreferences-untuk-menyimpan-data-di-android-dd12289321ec?source=rss------android-5)
+- [Situs/Agen PKV Online Deposit PULSA TANPA POTONGAN ( 100% FREE RATE )](https://medium.com/@kasqqpkv/situs-agen-pkv-online-deposit-pulsa-tanpa-potongan-100-free-rate-3bb3687e71ff?source=rss------android-5)
+- [Android Material Date Picker and Material Time Picker in practice](https://medium.com/@kennay-kermani/android-material-date-picker-and-material-time-picker-in-practice-11c01582e52e?source=rss------android-5)
+- [Why automation matters — how ignoring it may make users unhappy](https://medium.com/@mosjak/why-automation-matters-how-ignoring-it-may-make-users-unhappy-7e1caf37d55f?source=rss------android-5)
+- [Generar documentación en Android con Orchid: parte 1](https://medium.com/@pablotomey/generar-documentaci%C3%B3n-en-android-con-orchid-parte-1-94a9e96e1a52?source=rss------android-5)
+- [Switching from iPhone to Android: 2 Years Later](https://medium.com/@albert-tang100/switching-from-iphone-to-android-2-years-later-3004ce0f0d87?source=rss------android-5)
+- [Starting With Flutter](https://medium.com/zenithec-techware/starting-with-flutter-b2200e1aa43a?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
