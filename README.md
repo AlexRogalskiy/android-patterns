@@ -273,16 +273,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [How to use dictionaries in Python](https://www.androidauthority.com/how-to-add-to-a-dictionary-python-1136937/)
+- [How to enable Developer mode on a Chromebook in just a few minutes?](https://www.androidauthority.com/how-to-enable-developer-mode-on-a-chromebook-906688/)
 - [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
+- [How to add Python to Path (Windows)](https://www.androidauthority.com/how-to-add-python-to-path-1140374/)
+- [How to reverse a list in Python](https://www.androidauthority.com/how-to-reverse-a-list-in-python-1138880/)
 - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
 - [How to update Python and how to know if you should](https://www.androidauthority.com/how-to-update-python-1138078/)
 - [How to create Oculus Quest experiences in Unity](https://www.androidauthority.com/oculus-quest-development-1196351/)
 - [Upwork vs Fiverr: Which is the best place to sell your services?](https://www.androidauthority.com/upwork-vs-fiverr-1190439/)
 - [How to install Android on PC: These are your best options](https://www.androidauthority.com/install-android-pc-668643/)
-- [A guide to Android app development for complete beginners in 5 easy steps](https://www.androidauthority.com/android-app-development-1128595/)
-- [How to reverse a string in Python](https://www.androidauthority.com/how-to-reverse-a-string-in-python-1140847/)
-- [What is Microsoft Azure? Azure certification for professionals](https://www.androidauthority.com/what-is-azure-1159879/)
-- [How to call a method in Java](https://www.androidauthority.com/how-to-call-a-method-in-java-1149853/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
