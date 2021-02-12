@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building a custom ROM around Android 11/12](https://www.reddit.com/r/androiddev/comments/lh8ohj/building_a_custom_rom_around_android_1112/)
-- [Is it possible to use media projection in a service?](https://www.reddit.com/r/androiddev/comments/lh5y5j/is_it_possible_to_use_media_projection_in_a/)
-- [Jetpack's release today is headlined by stable releases of Fragment 1.3.0, Activity 1.2.0, Lifecycle 2.3.0, SavedState 1.1.0 as well as Core-Role 1.0.0 and MediaRouter 1.2.2.](https://www.reddit.com/r/androiddev/comments/lh5ri9/jetpacks_release_today_is_headlined_by_stable/)
-- [Placeholders? What is that? I don't get it, why is this a problem?](https://www.reddit.com/r/androiddev/comments/lh3jqa/placeholders_what_is_that_i_dont_get_it_why_is/)
-- [If you were a recruiter or manager, which wording makes the most sense?](https://www.reddit.com/r/androiddev/comments/lh2cou/if_you_were_a_recruiter_or_manager_which_wording/)
-- [String sent from one activity to another not showing on TextView?](https://www.reddit.com/r/androiddev/comments/lh2536/string_sent_from_one_activity_to_another_not/)
-- [build application like facebook](https://www.reddit.com/r/androiddev/comments/lh1iyg/build_application_like_facebook/)
-- [According to the poll I made, Glide is the most popular image loading library by a wide margin. What makes it still the reliable library?](https://www.reddit.com/r/androiddev/comments/lh1etj/according_to_the_poll_i_made_glide_is_the_most/)
-- [Has RAM CL (CAS Latency) effect on Android Studio or similar programs?](https://www.reddit.com/r/androiddev/comments/lh1bhh/has_ram_cl_cas_latency_effect_on_android_studio/)
-- [Reified, crossinline, noinline and inline everything?](https://www.reddit.com/r/androiddev/comments/lgyt7h/reified_crossinline_noinline_and_inline_everything/)
+- [[Help] Android smartphone touchscreens - developing basic user interaction](https://www.reddit.com/r/androiddev/comments/lhyow9/help_android_smartphone_touchscreens_developing/)
+- [Problem with AWS Amplify for a Kotlin library project](https://www.reddit.com/r/androiddev/comments/lhxyn9/problem_with_aws_amplify_for_a_kotlin_library/)
+- [Native to React Native](https://www.reddit.com/r/androiddev/comments/lhxvol/native_to_react_native/)
+- [First time using Jetpack Compose on desktop](https://www.reddit.com/r/androiddev/comments/lhx4wb/first_time_using_jetpack_compose_on_desktop/)
+- [Introducing Kamel: A multiplatform media loading library for Compose.](https://www.reddit.com/r/androiddev/comments/lhwx8x/introducing_kamel_a_multiplatform_media_loading/)
+- [Is it worth creating a Swift to JVM bytecode compiler ?](https://www.reddit.com/r/androiddev/comments/lhwk0e/is_it_worth_creating_a_swift_to_jvm_bytecode/)
+- [Post-Crash Lifecycle?](https://www.reddit.com/r/androiddev/comments/lhuaq9/postcrash_lifecycle/)
+- [A question about modded APK & data safety](https://www.reddit.com/r/androiddev/comments/lhtsyk/a_question_about_modded_apk_data_safety/)
+- [Small r/androiddev rules update (nothing too scary!)](https://www.reddit.com/r/androiddev/comments/lht9ci/small_randroiddev_rules_update_nothing_too_scary/)
+- [Android Studio Arctic Fox Canary 6 available](https://www.reddit.com/r/androiddev/comments/lhrwg2/android_studio_arctic_fox_canary_6_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
