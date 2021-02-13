@@ -303,16 +303,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [UFO ENEMY KNOWN — a 3D shooter game where you help the aliens win](https://medium.com/@sashotrajkov/ufo-enemy-known-a-3d-shooter-game-where-you-help-the-aliens-win-fbbaea702c5f?source=rss------android-5)
-- [Keeping WebView state across configuration changes](https://medium.com/@nicholas.rose/keeping-webview-state-across-configuration-changes-8e071ee9de86?source=rss------android-5)
-- [Automatizando o deploy de aplicações React Native com Bitrise — Parte 1](https://medium.com/@marciovcampos/automatizando-o-deploy-de-aplica%C3%A7%C3%B5es-react-native-com-bitrise-parte-1-3d170b305c39?source=rss------android-5)
-- [SharedPreferences untuk menyimpan data di Android](https://medium.com/@zackydzacky/sharedpreferences-untuk-menyimpan-data-di-android-dd12289321ec?source=rss------android-5)
-- [Situs/Agen PKV Online Deposit PULSA TANPA POTONGAN ( 100% FREE RATE )](https://medium.com/@kasqqpkv/situs-agen-pkv-online-deposit-pulsa-tanpa-potongan-100-free-rate-3bb3687e71ff?source=rss------android-5)
-- [Android Material Date Picker and Material Time Picker in practice](https://medium.com/@kennay-kermani/android-material-date-picker-and-material-time-picker-in-practice-11c01582e52e?source=rss------android-5)
-- [Why automation matters — how ignoring it may make users unhappy](https://medium.com/@mosjak/why-automation-matters-how-ignoring-it-may-make-users-unhappy-7e1caf37d55f?source=rss------android-5)
-- [Generar documentación en Android con Orchid: parte 1](https://medium.com/@pablotomey/generar-documentaci%C3%B3n-en-android-con-orchid-parte-1-94a9e96e1a52?source=rss------android-5)
-- [Switching from iPhone to Android: 2 Years Later](https://medium.com/@albert-tang100/switching-from-iphone-to-android-2-years-later-3004ce0f0d87?source=rss------android-5)
-- [Starting With Flutter](https://medium.com/zenithec-techware/starting-with-flutter-b2200e1aa43a?source=rss------android-5)
+- [Help, adb is not found!](https://medium.com/androiddevelopers/help-adb-is-not-found-93e9ed8a67ee?source=rss------android-5)
+- [Android + Firestore + Pagination + Flow = ❤](https://medium.com/@torkel-velure/android-firestore-pagination-flow-ce676046dc44?source=rss------android-5)
+- [Flutter Google.Play app release process](https://medium.com/@filonov/flutter-google-play-app-release-process-caaa84b149d2?source=rss------android-5)
+- [[Android] Annotation 사용법 및 종류](https://medium.com/@andhj0217/android-annotation-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%A2%85%EB%A5%98-1e05081ab7a9?source=rss------android-5)
+- [Unidirectional Data Flow in for Android UIs](https://medium.com/@j1c1m1b1/unidirectional-data-flow-in-for-android-uis-5edd1386f40d?source=rss------android-5)
+- [[Android] DataBinding 사용하기](https://medium.com/@andhj0217/android-databinding-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-fbde09244bad?source=rss------android-5)
+- [AOSP STUDIO Research Lab opened!](https://medium.com/@aospstudio/aosp-studio-research-lab-opened-499d2599f769?source=rss------android-5)
+- [JIOTV- LIVE TV & CATCH-UP APK V6.0.7 LATEST VERSION 2021 FOR ANDROID DOWNLOAD FREE](https://medium.com/@xahidhusyn/jiotv-live-tv-catch-up-apk-v6-0-7-latest-version-2021-for-android-download-free-414d9910044f?source=rss------android-5)
+- [SUBWAY SURFERS APK V2.12.0 FOR ANDROID DOWNLOAD FREE](https://medium.com/@xahidhusyn/subway-surfers-apk-v2-12-0-for-android-download-free-ab5c3226aa9d?source=rss------android-5)
+- [Memory Leaks with Fragments in Android](https://medium.com/@maxkohne/memory-leaks-with-fragments-in-android-6664d1fd8e73?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
