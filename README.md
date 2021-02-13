@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Help] Android smartphone touchscreens - developing basic user interaction](https://www.reddit.com/r/androiddev/comments/lhyow9/help_android_smartphone_touchscreens_developing/)
-- [Problem with AWS Amplify for a Kotlin library project](https://www.reddit.com/r/androiddev/comments/lhxyn9/problem_with_aws_amplify_for_a_kotlin_library/)
-- [Native to React Native](https://www.reddit.com/r/androiddev/comments/lhxvol/native_to_react_native/)
-- [First time using Jetpack Compose on desktop](https://www.reddit.com/r/androiddev/comments/lhx4wb/first_time_using_jetpack_compose_on_desktop/)
-- [Introducing Kamel: A multiplatform media loading library for Compose.](https://www.reddit.com/r/androiddev/comments/lhwx8x/introducing_kamel_a_multiplatform_media_loading/)
-- [Is it worth creating a Swift to JVM bytecode compiler ?](https://www.reddit.com/r/androiddev/comments/lhwk0e/is_it_worth_creating_a_swift_to_jvm_bytecode/)
-- [Post-Crash Lifecycle?](https://www.reddit.com/r/androiddev/comments/lhuaq9/postcrash_lifecycle/)
-- [A question about modded APK & data safety](https://www.reddit.com/r/androiddev/comments/lhtsyk/a_question_about_modded_apk_data_safety/)
-- [Small r/androiddev rules update (nothing too scary!)](https://www.reddit.com/r/androiddev/comments/lht9ci/small_randroiddev_rules_update_nothing_too_scary/)
-- [Android Studio Arctic Fox Canary 6 available](https://www.reddit.com/r/androiddev/comments/lhrwg2/android_studio_arctic_fox_canary_6_available/)
+- [I hate this icon showing in my Windows10 taskbar. Any way to change it to the pretty green one?](https://www.reddit.com/r/androiddev/comments/lipxhg/i_hate_this_icon_showing_in_my_windows10_taskbar/)
+- [Can i search and scroll automatically to a certain word in a text veiw?](https://www.reddit.com/r/androiddev/comments/lip2bl/can_i_search_and_scroll_automatically_to_a/)
+- [Appyjump vs Admob for ad revenue. Which is best?](https://www.reddit.com/r/androiddev/comments/lintnw/appyjump_vs_admob_for_ad_revenue_which_is_best/)
+- [App publish](https://www.reddit.com/r/androiddev/comments/linsuz/app_publish/)
+- [Android WebView undesired auto-scroll to anchor](https://www.reddit.com/r/androiddev/comments/lin6is/android_webview_undesired_autoscroll_to_anchor/)
+- [How do I update the recyclerview list in the fragment? (notifyDataSetChanged not working)](https://www.reddit.com/r/androiddev/comments/liloyq/how_do_i_update_the_recyclerview_list_in_the/)
+- [How to aunch 'my android app Z' from 'my app Y'](https://www.reddit.com/r/androiddev/comments/lill58/how_to_aunch_my_android_app_z_from_my_app_y/)
+- [I'm using in-app purchases. Why are half the countries missing from the "Edit price" section where you set the local price of each country?](https://www.reddit.com/r/androiddev/comments/lijiir/im_using_inapp_purchases_why_are_half_the/)
+- [Thread 'LightningFastRom-17.1 (Q/10) For gtelwifiue & gtesqltespr'](https://www.reddit.com/r/androiddev/comments/liiwtx/thread_lightningfastrom171_q10_for_gtelwifiue/)
+- [Mobdro removal and sdk](https://www.reddit.com/r/androiddev/comments/lihrdi/mobdro_removal_and_sdk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
