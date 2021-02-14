@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [I hate this icon showing in my Windows10 taskbar. Any way to change it to the pretty green one?](https://www.reddit.com/r/androiddev/comments/lipxhg/i_hate_this_icon_showing_in_my_windows10_taskbar/)
-- [Can i search and scroll automatically to a certain word in a text veiw?](https://www.reddit.com/r/androiddev/comments/lip2bl/can_i_search_and_scroll_automatically_to_a/)
-- [Appyjump vs Admob for ad revenue. Which is best?](https://www.reddit.com/r/androiddev/comments/lintnw/appyjump_vs_admob_for_ad_revenue_which_is_best/)
-- [App publish](https://www.reddit.com/r/androiddev/comments/linsuz/app_publish/)
-- [Android WebView undesired auto-scroll to anchor](https://www.reddit.com/r/androiddev/comments/lin6is/android_webview_undesired_autoscroll_to_anchor/)
-- [How do I update the recyclerview list in the fragment? (notifyDataSetChanged not working)](https://www.reddit.com/r/androiddev/comments/liloyq/how_do_i_update_the_recyclerview_list_in_the/)
-- [How to aunch 'my android app Z' from 'my app Y'](https://www.reddit.com/r/androiddev/comments/lill58/how_to_aunch_my_android_app_z_from_my_app_y/)
-- [I'm using in-app purchases. Why are half the countries missing from the "Edit price" section where you set the local price of each country?](https://www.reddit.com/r/androiddev/comments/lijiir/im_using_inapp_purchases_why_are_half_the/)
-- [Thread 'LightningFastRom-17.1 (Q/10) For gtelwifiue & gtesqltespr'](https://www.reddit.com/r/androiddev/comments/liiwtx/thread_lightningfastrom171_q10_for_gtelwifiue/)
-- [Mobdro removal and sdk](https://www.reddit.com/r/androiddev/comments/lihrdi/mobdro_removal_and_sdk/)
+- [Android 11 on older tablet](https://www.reddit.com/r/androiddev/comments/ljcajw/android_11_on_older_tablet/)
+- [Is 128GB RAM an overkill for Android dev?](https://www.reddit.com/r/androiddev/comments/ljacca/is_128gb_ram_an_overkill_for_android_dev/)
+- [How do I deal with user problems like this?](https://www.reddit.com/r/androiddev/comments/lj9g3q/how_do_i_deal_with_user_problems_like_this/)
+- [Do you interested in learning web development as a mobile developer?](https://www.reddit.com/r/androiddev/comments/lj7z71/do_you_interested_in_learning_web_development_as/)
+- [What order do you guys release your apps?](https://www.reddit.com/r/androiddev/comments/lj6if8/what_order_do_you_guys_release_your_apps/)
+- [Cannot release app on google play](https://www.reddit.com/r/androiddev/comments/lj41pj/cannot_release_app_on_google_play/)
+- [Real estate sample with material transitions, drawable animations written with offline first with dagger hilt, dynamic modules, RxJava3/Flow https://github.com/SmartToolFactory/PropertyFindAR](https://www.reddit.com/r/androiddev/comments/lj3v0z/real_estate_sample_with_material_transitions/)
+- [Seeking help - preparation for Staff Android level roles related interviews ?](https://www.reddit.com/r/androiddev/comments/lj36ms/seeking_help_preparation_for_staff_android_level/)
+- [Potential Reasons for Extremely Low Acquisition Rate?](https://www.reddit.com/r/androiddev/comments/lj16tv/potential_reasons_for_extremely_low_acquisition/)
+- [App Feedback Thread - February 13, 2021](https://www.reddit.com/r/androiddev/comments/lj11a1/app_feedback_thread_february_13_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
