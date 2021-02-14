@@ -303,16 +303,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Help, adb is not found!](https://medium.com/androiddevelopers/help-adb-is-not-found-93e9ed8a67ee?source=rss------android-5)
-- [Android + Firestore + Pagination + Flow = ❤](https://medium.com/@torkel-velure/android-firestore-pagination-flow-ce676046dc44?source=rss------android-5)
-- [Flutter Google.Play app release process](https://medium.com/@filonov/flutter-google-play-app-release-process-caaa84b149d2?source=rss------android-5)
-- [[Android] Annotation 사용법 및 종류](https://medium.com/@andhj0217/android-annotation-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%A2%85%EB%A5%98-1e05081ab7a9?source=rss------android-5)
-- [Unidirectional Data Flow in for Android UIs](https://medium.com/@j1c1m1b1/unidirectional-data-flow-in-for-android-uis-5edd1386f40d?source=rss------android-5)
-- [[Android] DataBinding 사용하기](https://medium.com/@andhj0217/android-databinding-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-fbde09244bad?source=rss------android-5)
-- [AOSP STUDIO Research Lab opened!](https://medium.com/@aospstudio/aosp-studio-research-lab-opened-499d2599f769?source=rss------android-5)
-- [JIOTV- LIVE TV & CATCH-UP APK V6.0.7 LATEST VERSION 2021 FOR ANDROID DOWNLOAD FREE](https://medium.com/@xahidhusyn/jiotv-live-tv-catch-up-apk-v6-0-7-latest-version-2021-for-android-download-free-414d9910044f?source=rss------android-5)
-- [SUBWAY SURFERS APK V2.12.0 FOR ANDROID DOWNLOAD FREE](https://medium.com/@xahidhusyn/subway-surfers-apk-v2-12-0-for-android-download-free-ab5c3226aa9d?source=rss------android-5)
-- [Memory Leaks with Fragments in Android](https://medium.com/@maxkohne/memory-leaks-with-fragments-in-android-6664d1fd8e73?source=rss------android-5)
+- [Download Traffic Rider MOD (Money/Gold) APK](https://medium.com/@Asiofficial/download-traffic-rider-mod-money-gold-apk-205ce3dde88f?source=rss------android-5)
+- [How to know IMEI Number of any mobile 2021 easily](https://medium.com/@vy282377/how-to-know-imei-number-of-any-mobile-2021-easily-2a9090006827?source=rss------android-5)
+- [EyeAttend — Facial Recognition based Attendance System from scratch.](https://medium.com/@zukayu/eyeattend-facial-recognition-based-attendance-system-from-scratch-16e3ece22089?source=rss------android-5)
+- [WhatsApp New Feature 2021](https://medium.com/@smarttecksolutions/whatsapp-new-feature-2021-b81a6812a897?source=rss------android-5)
+- [Cool Goldens](https://medium.com/@fredgrott/cool-goldens-787c293b2c97?source=rss------android-5)
+- [Switching to the Galaxy S21](https://medium.com/@katagaki/switching-to-the-galaxy-s21-6486359c7ff8?source=rss------android-5)
+- [Android Material Progress Indicator](https://medium.com/@kennay-kermani/android-material-progress-indicator-2ff44b7296cb?source=rss------android-5)
+- [Cómo Desplegar tu App para Pruebas con Firebase Distribution](https://medium.com/@jggomezt/c%C3%B3mo-desplegar-tu-app-para-pruebas-con-firebase-distribution-34fc6192b0b6?source=rss------android-5)
+- [IOS or Android](https://medium.com/@cerencoban/ios-or-android-3dd5c5b3b069?source=rss------android-5)
+- [Starting with HILT](https://medium.com/@tanyaanand0211/starting-with-hilt-91d66ff1e1f?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
