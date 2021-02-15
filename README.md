@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android 11 on older tablet](https://www.reddit.com/r/androiddev/comments/ljcajw/android_11_on_older_tablet/)
-- [Is 128GB RAM an overkill for Android dev?](https://www.reddit.com/r/androiddev/comments/ljacca/is_128gb_ram_an_overkill_for_android_dev/)
-- [How do I deal with user problems like this?](https://www.reddit.com/r/androiddev/comments/lj9g3q/how_do_i_deal_with_user_problems_like_this/)
-- [Do you interested in learning web development as a mobile developer?](https://www.reddit.com/r/androiddev/comments/lj7z71/do_you_interested_in_learning_web_development_as/)
-- [What order do you guys release your apps?](https://www.reddit.com/r/androiddev/comments/lj6if8/what_order_do_you_guys_release_your_apps/)
-- [Cannot release app on google play](https://www.reddit.com/r/androiddev/comments/lj41pj/cannot_release_app_on_google_play/)
-- [Real estate sample with material transitions, drawable animations written with offline first with dagger hilt, dynamic modules, RxJava3/Flow https://github.com/SmartToolFactory/PropertyFindAR](https://www.reddit.com/r/androiddev/comments/lj3v0z/real_estate_sample_with_material_transitions/)
-- [Seeking help - preparation for Staff Android level roles related interviews ?](https://www.reddit.com/r/androiddev/comments/lj36ms/seeking_help_preparation_for_staff_android_level/)
-- [Potential Reasons for Extremely Low Acquisition Rate?](https://www.reddit.com/r/androiddev/comments/lj16tv/potential_reasons_for_extremely_low_acquisition/)
-- [App Feedback Thread - February 13, 2021](https://www.reddit.com/r/androiddev/comments/lj11a1/app_feedback_thread_february_13_2021/)
+- [Ignoring Battery Optmization Settings](https://www.reddit.com/r/androiddev/comments/lk14se/ignoring_battery_optmization_settings/)
+- [What are the pros of going with Jetpack's Navigation Component?](https://www.reddit.com/r/androiddev/comments/lk060f/what_are_the_pros_of_going_with_jetpacks/)
+- [File.renameTo is not working on api 29](https://www.reddit.com/r/androiddev/comments/ljxz48/filerenameto_is_not_working_on_api_29/)
+- [RecyclerView adapter Memory Leak](https://www.reddit.com/r/androiddev/comments/ljwltx/recyclerview_adapter_memory_leak/)
+- [A question about the google play store](https://www.reddit.com/r/androiddev/comments/lju5rj/a_question_about_the_google_play_store/)
+- [Encrypted sqLite](https://www.reddit.com/r/androiddev/comments/ljtrxi/encrypted_sqlite/)
+- [Which is best?](https://www.reddit.com/r/androiddev/comments/ljrdp8/which_is_best/)
+- [Foreground service or WorkManager?](https://www.reddit.com/r/androiddev/comments/ljrcbt/foreground_service_or_workmanager/)
+- [Want to hear some opinion and thought about personal and business google account.](https://www.reddit.com/r/androiddev/comments/ljqlcw/want_to_hear_some_opinion_and_thought_about/)
+- [What would be the *simplest* solution to find a string of text on screen in a running android app ?](https://www.reddit.com/r/androiddev/comments/ljnm7n/what_would_be_the_simplest_solution_to_find_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
