@@ -303,16 +303,15 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Download Traffic Rider MOD (Money/Gold) APK](https://medium.com/@Asiofficial/download-traffic-rider-mod-money-gold-apk-205ce3dde88f?source=rss------android-5)
-- [How to know IMEI Number of any mobile 2021 easily](https://medium.com/@vy282377/how-to-know-imei-number-of-any-mobile-2021-easily-2a9090006827?source=rss------android-5)
-- [EyeAttend — Facial Recognition based Attendance System from scratch.](https://medium.com/@zukayu/eyeattend-facial-recognition-based-attendance-system-from-scratch-16e3ece22089?source=rss------android-5)
-- [WhatsApp New Feature 2021](https://medium.com/@smarttecksolutions/whatsapp-new-feature-2021-b81a6812a897?source=rss------android-5)
-- [Cool Goldens](https://medium.com/@fredgrott/cool-goldens-787c293b2c97?source=rss------android-5)
-- [Switching to the Galaxy S21](https://medium.com/@katagaki/switching-to-the-galaxy-s21-6486359c7ff8?source=rss------android-5)
-- [Android Material Progress Indicator](https://medium.com/@kennay-kermani/android-material-progress-indicator-2ff44b7296cb?source=rss------android-5)
-- [Cómo Desplegar tu App para Pruebas con Firebase Distribution](https://medium.com/@jggomezt/c%C3%B3mo-desplegar-tu-app-para-pruebas-con-firebase-distribution-34fc6192b0b6?source=rss------android-5)
-- [IOS or Android](https://medium.com/@cerencoban/ios-or-android-3dd5c5b3b069?source=rss------android-5)
-- [Starting with HILT](https://medium.com/@tanyaanand0211/starting-with-hilt-91d66ff1e1f?source=rss------android-5)
+- [How to Become Freelance Android Developer in 2021 | Android Development With Donn Felker](https://medium.com/@rickypatel8324/how-to-become-freelance-android-developer-in-2021-android-development-with-donn-felker-c6e45c860e35?source=rss------android-5)
+- [Why I’m building Android Studio for Cloud?](https://medium.com/androidstudio-cloud/why-im-building-android-studio-for-cloud-78b5fd4f33e8?source=rss------android-5)
+- [Walkthrough/OnBoarding/First-Time users screen in android studio using ViewPager and ViewPager 2](https://medium.com/@androidapps-development-blogs/walkthrough-onboarding-first-time-users-screen-in-android-studio-using-viewpager-and-viewpager-2-c77d0542970f?source=rss------android-5)
+- [Flutter: Falling in Love Again with Mobile and Web Dev](https://medium.com/@codemotion/flutter-falling-in-love-again-with-mobile-and-web-dev-843bd2d9a848?source=rss------android-5)
+- [Sandesh App Launched by Govt of India Best Alternative WhatsApp](https://medium.com/@smarttecksolutions/sandesh-app-launched-by-govt-of-india-best-alternative-whatsapp-f49c1a9cc99?source=rss------android-5)
+- [Monkeyrunner Test steps](https://medium.com/@ala_shakko/monkeyrunner-test-steps-fd5f8db978db?source=rss------android-5)
+- [React Native Firebase Admob Kurulumu (Android)](https://medium.com/@korayaggul/react-native-firebase-admob-kurulumu-android-4d230dedf2e0?source=rss------android-5)
+- [Say hi to the bounce effect in RecyclerView without headaches](https://medium.com/androidxx/say-hi-to-the-bounce-effect-in-recyclerview-without-headaches-589c157d0a92?source=rss------android-5)
+- [Monkey test](https://medium.com/@ala_shakko/monkey-test-9e6f7f4e3f02?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
