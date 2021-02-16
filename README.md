@@ -303,15 +303,17 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [How to Become Freelance Android Developer in 2021 | Android Development With Donn Felker](https://medium.com/@rickypatel8324/how-to-become-freelance-android-developer-in-2021-android-development-with-donn-felker-c6e45c860e35?source=rss------android-5)
-- [Why I’m building Android Studio for Cloud?](https://medium.com/androidstudio-cloud/why-im-building-android-studio-for-cloud-78b5fd4f33e8?source=rss------android-5)
-- [Walkthrough/OnBoarding/First-Time users screen in android studio using ViewPager and ViewPager 2](https://medium.com/@androidapps-development-blogs/walkthrough-onboarding-first-time-users-screen-in-android-studio-using-viewpager-and-viewpager-2-c77d0542970f?source=rss------android-5)
-- [Flutter: Falling in Love Again with Mobile and Web Dev](https://medium.com/@codemotion/flutter-falling-in-love-again-with-mobile-and-web-dev-843bd2d9a848?source=rss------android-5)
-- [Sandesh App Launched by Govt of India Best Alternative WhatsApp](https://medium.com/@smarttecksolutions/sandesh-app-launched-by-govt-of-india-best-alternative-whatsapp-f49c1a9cc99?source=rss------android-5)
-- [Monkeyrunner Test steps](https://medium.com/@ala_shakko/monkeyrunner-test-steps-fd5f8db978db?source=rss------android-5)
-- [React Native Firebase Admob Kurulumu (Android)](https://medium.com/@korayaggul/react-native-firebase-admob-kurulumu-android-4d230dedf2e0?source=rss------android-5)
-- [Say hi to the bounce effect in RecyclerView without headaches](https://medium.com/androidxx/say-hi-to-the-bounce-effect-in-recyclerview-without-headaches-589c157d0a92?source=rss------android-5)
-- [Monkey test](https://medium.com/@ala_shakko/monkey-test-9e6f7f4e3f02?source=rss------android-5)
+- [How Hackers Hack Phone Using SMS 
+Contact: CREATIVEHACKERS2@GMAIL.COM](https://medium.com/@daminpeter716/how-hackers-hack-phone-using-sms-contact-creativehackers2-gmail-com-4c5b6144473e?source=rss------android-5)
+- [Membuat QR Code Scanner di Android [KOTLIN]](https://medium.com/@fiqsky/membuat-qr-code-scanner-di-android-kotlin-7181b27db2ec?source=rss------android-5)
+- [How to use Firebase on Android without the google-services plugin](https://medium.com/@sunitroy/how-to-use-firebase-on-android-without-the-google-services-plugin-d02c8b9854b7?source=rss------android-5)
+- [How RxJava chain actually works](https://proandroiddev.com/how-rxjava-chain-actually-works-2800692f7e13?source=rss------android-5)
+- [Архитектура в Android приложении (MVVM)](https://medium.com/@daniil-pavenko/%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B2-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8-mvvm-3486e9e21f9a?source=rss------android-5)
+- [Battle of the Smartphones — iPhone versus Android](https://medium.com/@jasonsherman/battle-of-the-smartphones-iphone-versus-android-9d41b246a7f6?source=rss------android-5)
+- [พัฒนาแอพแบบ Cross Platform (iOS/Android) ด้วย Google Flutter เรียนฟรี!!! (2021)](https://medium.com/@kongruksiamza/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%AD%E0%B8%9E%E0%B9%81%E0%B8%9A%E0%B8%9A-cross-platform-ios-android-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-google-flutter-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9F%E0%B8%A3%E0%B8%B5-2021-a58f28328db4?source=rss------android-5)
+- [The simplest guide to understanding Gradle!](https://medium.com/gradeup/the-simplest-guide-to-understanding-gradle-758d9924e6ca?source=rss------android-5)
+- [How to detect Internet Connectivity Change in Android?](https://medium.com/swlh/how-to-detect-internet-connectivity-change-in-android-bdfff33e6a8b?source=rss------android-5)
+- [Progressive Rollout Strategy on Trendyol Android App](https://medium.com/trendyol-tech/progressive-rollout-strategy-on-trendyol-android-app-3828d28ee27a?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
