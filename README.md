@@ -303,17 +303,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [How Hackers Hack Phone Using SMS 
-Contact: CREATIVEHACKERS2@GMAIL.COM](https://medium.com/@daminpeter716/how-hackers-hack-phone-using-sms-contact-creativehackers2-gmail-com-4c5b6144473e?source=rss------android-5)
-- [Membuat QR Code Scanner di Android [KOTLIN]](https://medium.com/@fiqsky/membuat-qr-code-scanner-di-android-kotlin-7181b27db2ec?source=rss------android-5)
-- [How to use Firebase on Android without the google-services plugin](https://medium.com/@sunitroy/how-to-use-firebase-on-android-without-the-google-services-plugin-d02c8b9854b7?source=rss------android-5)
-- [How RxJava chain actually works](https://proandroiddev.com/how-rxjava-chain-actually-works-2800692f7e13?source=rss------android-5)
-- [Архитектура в Android приложении (MVVM)](https://medium.com/@daniil-pavenko/%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B2-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8-mvvm-3486e9e21f9a?source=rss------android-5)
-- [Battle of the Smartphones — iPhone versus Android](https://medium.com/@jasonsherman/battle-of-the-smartphones-iphone-versus-android-9d41b246a7f6?source=rss------android-5)
-- [พัฒนาแอพแบบ Cross Platform (iOS/Android) ด้วย Google Flutter เรียนฟรี!!! (2021)](https://medium.com/@kongruksiamza/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%AD%E0%B8%9E%E0%B9%81%E0%B8%9A%E0%B8%9A-cross-platform-ios-android-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-google-flutter-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9F%E0%B8%A3%E0%B8%B5-2021-a58f28328db4?source=rss------android-5)
-- [The simplest guide to understanding Gradle!](https://medium.com/gradeup/the-simplest-guide-to-understanding-gradle-758d9924e6ca?source=rss------android-5)
-- [How to detect Internet Connectivity Change in Android?](https://medium.com/swlh/how-to-detect-internet-connectivity-change-in-android-bdfff33e6a8b?source=rss------android-5)
-- [Progressive Rollout Strategy on Trendyol Android App](https://medium.com/trendyol-tech/progressive-rollout-strategy-on-trendyol-android-app-3828d28ee27a?source=rss------android-5)
+- [GCLOUD_PROJECT Environment Variable Missing, or my Brief Introduction to Google Cloud Functions](https://medium.com/@szalma/gcloud-project-environment-variable-missing-or-my-brief-introduction-to-google-cloud-functions-bd9ee5135d92?source=rss------android-5)
+- [Constraint Layout](https://medium.com/@yemrearslan-3673/constraint-layout-8b13ace936df?source=rss------android-5)
+- [Flutter In App Purchase](https://medium.com/@gizemgizgg/flutter-in-app-purchase-2d9b1bb02743?source=rss------android-5)
+- [Goodbye LiveData, Hello SharedFlow](https://medium.com/@aksoymelih/goodbye-livedata-hello-sharedflow-fbbfa9c00d5f?source=rss------android-5)
+- [Top Mobile Games For 2021](https://medium.com/@tamaraibrahim146/top-mobile-games-for-2021-7d0f7c1f2946?source=rss------android-5)
+- [Kotlin Delegates](https://medium.com/swlh/kotlin-delegates-9a82fbed32ca?source=rss------android-5)
+- [Cool Flutter Docs](https://medium.com/@fredgrott/cool-flutter-docs-383b951d7feb?source=rss------android-5)
+- [Android 12 could be S-Shaped snow cone and more detail](https://medium.com/@techienesshub/android-12-could-be-s-shaped-snow-cone-and-more-detail-966298e61152?source=rss------android-5)
+- [Sembra che il 2021 sarà particolarmente interessante per BlackBerry](https://medium.com/@whatstechblog/sembra-che-il-2021-sar%C3%A0-particolarmente-interessante-per-blackberry-4b6076b63736?source=rss------android-5)
+- [Flutter Local Databases](https://medium.com/@insatandroidclub/flutter-local-databases-a12827448e6?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
