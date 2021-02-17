@@ -233,16 +233,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Invitation to travel in time](https://www.reddit.com/r/androiddev/comments/lkrafl/invitation_to_travel_in_time/)
-- [How to make full backup of Android Studio project including all dependencies?](https://www.reddit.com/r/androiddev/comments/lknrcw/how_to_make_full_backup_of_android_studio_project/)
-- [How can I sort categories in the Recycler View?](https://www.reddit.com/r/androiddev/comments/lknlp0/how_can_i_sort_categories_in_the_recycler_view/)
-- [Tools to run Python on Android](https://www.reddit.com/r/androiddev/comments/lkmzm2/tools_to_run_python_on_android/)
-- [Android multiple physical device testing advice.](https://www.reddit.com/r/androiddev/comments/lkmdw3/android_multiple_physical_device_testing_advice/)
-- [How do you get paid when you set up IAP?](https://www.reddit.com/r/androiddev/comments/lkm7y4/how_do_you_get_paid_when_you_set_up_iap/)
-- [Should I create a paid app instead of free one?](https://www.reddit.com/r/androiddev/comments/lkm793/should_i_create_a_paid_app_instead_of_free_one/)
-- [Audio latency on a mobile web browser](https://www.reddit.com/r/androiddev/comments/lklzes/audio_latency_on_a_mobile_web_browser/)
-- [Newbie Dev with a good idea](https://www.reddit.com/r/androiddev/comments/lkkyt3/newbie_dev_with_a_good_idea/)
-- [How much important/valuable to release a game multi-lingual on your experience?](https://www.reddit.com/r/androiddev/comments/lkjppp/how_much_importantvaluable_to_release_a_game/)
+- [Language support](https://www.reddit.com/r/androiddev/comments/lliia0/language_support/)
+- [Would ever any adroid developer decide do become ios deveoper and stay there](https://www.reddit.com/r/androiddev/comments/llh52i/would_ever_any_adroid_developer_decide_do_become/)
+- [How feature complete is Kotlin Compose?](https://www.reddit.com/r/androiddev/comments/llfhr0/how_feature_complete_is_kotlin_compose/)
+- [How to handle NavigationBar Apps: Fragments or Activities?](https://www.reddit.com/r/androiddev/comments/llda88/how_to_handle_navigationbar_apps_fragments_or/)
+- [Is anyone else bothered by Android Studios' Windows Icon?](https://www.reddit.com/r/androiddev/comments/llda04/is_anyone_else_bothered_by_android_studios/)
+- [Contact AdMob Account Manager](https://www.reddit.com/r/androiddev/comments/lla3qo/contact_admob_account_manager/)
+- [Hilt - okhttp scopes, variants and overall app performance ?](https://www.reddit.com/r/androiddev/comments/ll6ceg/hilt_okhttp_scopes_variants_and_overall_app/)
+- [[D] Custom TensorFlow Lite model on Android using Firebase ML](https://www.reddit.com/r/androiddev/comments/ll5ts2/d_custom_tensorflow_lite_model_on_android_using/)
+- [Why can't I compile the msm android kernel?](https://www.reddit.com/r/androiddev/comments/ll5i38/why_cant_i_compile_the_msm_android_kernel/)
+- [Weekly Questions Thread - February 16, 2021](https://www.reddit.com/r/androiddev/comments/ll4d0c/weekly_questions_thread_february_16_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
