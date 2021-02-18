@@ -309,16 +309,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [GCLOUD_PROJECT Environment Variable Missing, or my Brief Introduction to Google Cloud Functions](https://medium.com/@szalma/gcloud-project-environment-variable-missing-or-my-brief-introduction-to-google-cloud-functions-bd9ee5135d92?source=rss------android-5)
-- [Constraint Layout](https://medium.com/@yemrearslan-3673/constraint-layout-8b13ace936df?source=rss------android-5)
-- [Flutter In App Purchase](https://medium.com/@gizemgizgg/flutter-in-app-purchase-2d9b1bb02743?source=rss------android-5)
-- [Goodbye LiveData, Hello SharedFlow](https://medium.com/@aksoymelih/goodbye-livedata-hello-sharedflow-fbbfa9c00d5f?source=rss------android-5)
-- [Top Mobile Games For 2021](https://medium.com/@tamaraibrahim146/top-mobile-games-for-2021-7d0f7c1f2946?source=rss------android-5)
-- [Kotlin Delegates](https://medium.com/swlh/kotlin-delegates-9a82fbed32ca?source=rss------android-5)
-- [Cool Flutter Docs](https://medium.com/@fredgrott/cool-flutter-docs-383b951d7feb?source=rss------android-5)
-- [Android 12 could be S-Shaped snow cone and more detail](https://medium.com/@techienesshub/android-12-could-be-s-shaped-snow-cone-and-more-detail-966298e61152?source=rss------android-5)
-- [Sembra che il 2021 sarà particolarmente interessante per BlackBerry](https://medium.com/@whatstechblog/sembra-che-il-2021-sar%C3%A0-particolarmente-interessante-per-blackberry-4b6076b63736?source=rss------android-5)
-- [Flutter Local Databases](https://medium.com/@insatandroidclub/flutter-local-databases-a12827448e6?source=rss------android-5)
+- [Phone Clone: Memindahkan Seluruh Data HP Android ke Lain Device](https://medium.com/@tutorialike/phone-clone-memindahkan-seluruh-data-hp-android-ke-lain-device-159923db2ee9?source=rss------android-5)
+- [Android: LiveData without repeatable for N > 1 observers](https://medium.com/@darktugrenok/android-livedata-without-repeatable-for-n-1-observers-23b01f78af3?source=rss------android-5)
+- [Afinal, meu app deve ser híbrido ou nativo?](https://medium.com/trilogo/afinal-meu-app-deve-ser-h%C3%ADbrido-ou-nativo-53308fd43733?source=rss------android-5)
+- [Apple Vs Android: Who is the Winner?](https://medium.com/@elysia-12terrance/apple-vs-android-who-is-the-winner-222a6a2ec7ff?source=rss------android-5)
+- [Understanding Android OS!](https://medium.com/the-missing-android-developers-guide/understanding-android-os-ec79aad6822?source=rss------android-5)
+- [Best English Learning App on Android To Improve Grammar Easily](https://medium.com/@dhyanchand/best-english-learning-app-on-android-to-improve-grammar-easily-fa292ac92?source=rss------android-5)
+- [RxJava and Kotlin #2](https://medium.com/@bruno-hensel/rxjava-and-kotlin-2-e7549f3de4ad?source=rss------android-5)
+- [Why always Java be the first choice for Android Developers?](https://medium.com/dev-genius/why-always-java-be-the-first-choice-for-android-developers-9e6c15154c34?source=rss------android-5)
+- [Automate That Shit](https://medium.com/@fredgrott/automate-that-shit-236dcae8c049?source=rss------android-5)
+- [What is DEPENDENCY INJECTION and why we need it, in simple words](https://medium.com/@mohammad0sman/what-is-dependency-injection-and-why-we-need-it-in-simple-words-8def404ae7d6?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
