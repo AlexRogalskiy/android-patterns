@@ -324,6 +324,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Maps Adds Tools to Pay for Parking and Transit in App](https://gizmodo.com/google-maps-adds-tools-to-pay-for-parking-and-transit-i-1846287281)
+- [A Hugely Popular File-Sharing Android App Also Has Giant, Terrible Security Flaws](https://gizmodo.com/a-hugely-popular-file-sharing-android-app-also-has-gian-1846276723)
 - [Leaked Android 12 Screenshots Show Some iOS-Like Changes Coming](https://gizmodo.com/leaked-android-12-screenshots-show-some-ios-like-change-1846229701)
 - [Barcode-Scanning App for Android Pushed Malware Onto Millions of Phones](https://gizmodo.com/barcode-scanning-app-for-android-pushed-malware-onto-mi-1846221452)
 - [Google Pays News Platforms in Australia to Prove No Law Is Needed to Make It Pay News Platforms](https://gizmodo.com/google-pays-news-platforms-in-australia-to-prove-no-law-1846204661)
@@ -332,8 +334,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google Just Turned Your Phone's Camera Into a Weirdly Advanced Health Tracker](https://gizmodo.com/google-just-turned-your-phones-camera-into-a-weirdly-ad-1846194952)
 - [Android TV Is Getting a Big Update With a New Discovery Page](https://gizmodo.com/android-tv-is-getting-a-big-update-with-a-new-discovery-1846191055)
 - [Days Blurring Together? Add Structure with These Apps](https://gizmodo.com/days-blurring-together-add-structure-with-these-apps-1846151722)
-- [Google's Making Its Search Results a Bit Easier to Understand](https://gizmodo.com/googles-making-its-search-results-a-bit-easier-to-under-1846180565)
-- [Ford Will Put Android in Millions of Cars Starting in 2023](https://gizmodo.com/ford-will-put-android-in-millions-of-cars-starting-in-2-1846174165)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
