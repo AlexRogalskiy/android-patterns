@@ -240,16 +240,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Language support](https://www.reddit.com/r/androiddev/comments/lliia0/language_support/)
-- [Would ever any adroid developer decide do become ios deveoper and stay there](https://www.reddit.com/r/androiddev/comments/llh52i/would_ever_any_adroid_developer_decide_do_become/)
-- [How feature complete is Kotlin Compose?](https://www.reddit.com/r/androiddev/comments/llfhr0/how_feature_complete_is_kotlin_compose/)
-- [How to handle NavigationBar Apps: Fragments or Activities?](https://www.reddit.com/r/androiddev/comments/llda88/how_to_handle_navigationbar_apps_fragments_or/)
-- [Is anyone else bothered by Android Studios' Windows Icon?](https://www.reddit.com/r/androiddev/comments/llda04/is_anyone_else_bothered_by_android_studios/)
-- [Contact AdMob Account Manager](https://www.reddit.com/r/androiddev/comments/lla3qo/contact_admob_account_manager/)
-- [Hilt - okhttp scopes, variants and overall app performance ?](https://www.reddit.com/r/androiddev/comments/ll6ceg/hilt_okhttp_scopes_variants_and_overall_app/)
-- [[D] Custom TensorFlow Lite model on Android using Firebase ML](https://www.reddit.com/r/androiddev/comments/ll5ts2/d_custom_tensorflow_lite_model_on_android_using/)
-- [Why can't I compile the msm android kernel?](https://www.reddit.com/r/androiddev/comments/ll5i38/why_cant_i_compile_the_msm_android_kernel/)
-- [Weekly Questions Thread - February 16, 2021](https://www.reddit.com/r/androiddev/comments/ll4d0c/weekly_questions_thread_february_16_2021/)
+- [According to this video, Flutter can have extreme animation jank issues on iOS that can effectively make apps unusable in production](https://www.reddit.com/r/androiddev/comments/lm9v03/according_to_this_video_flutter_can_have_extreme/)
+- [Fast flipping between front and back cameras in Camera1 API?](https://www.reddit.com/r/androiddev/comments/lm9t77/fast_flipping_between_front_and_back_cameras_in/)
+- [Why Does Android Kill My Threads?](https://www.reddit.com/r/androiddev/comments/lm9cwd/why_does_android_kill_my_threads/)
+- [At what stage of your project do you setup CI?](https://www.reddit.com/r/androiddev/comments/lm49ks/at_what_stage_of_your_project_do_you_setup_ci/)
+- [How slow is Android Studio Navigation Editor for you?](https://www.reddit.com/r/androiddev/comments/lm2wqp/how_slow_is_android_studio_navigation_editor_for/)
+- [Can I get a sanity check on my idea?](https://www.reddit.com/r/androiddev/comments/llzndu/can_i_get_a_sanity_check_on_my_idea/)
+- [How to properly split an android app into multiple modules](https://www.reddit.com/r/androiddev/comments/llz72s/how_to_properly_split_an_android_app_into/)
+- [Are Google monopolist regarding to android developers?](https://www.reddit.com/r/androiddev/comments/llyn6c/are_google_monopolist_regarding_to_android/)
+- [Can you develop android apps without having to use Android Studio?](https://www.reddit.com/r/androiddev/comments/llxqb3/can_you_develop_android_apps_without_having_to/)
+- [Android Views as a Function of State with ViewBinding Case Study 2: RecyclerViews, A/B testing and tables](https://www.reddit.com/r/androiddev/comments/llws5v/android_views_as_a_function_of_state_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -280,6 +280,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [The best Google Cloud courses to future-proof your resume](https://www.androidauthority.com/best-google-cloud-courses-1165111/)
 - [What is Google Cloud certification and should I get it?](https://www.androidauthority.com/google-cloud-certification-1164349/)
 - [How to use dictionaries in Python](https://www.androidauthority.com/how-to-add-to-a-dictionary-python-1136937/)
 - [How to enable Developer mode on a Chromebook in just a few minutes?](https://www.androidauthority.com/how-to-enable-developer-mode-on-a-chromebook-906688/)
@@ -289,7 +290,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
 - [How to update Python and how to know if you should](https://www.androidauthority.com/how-to-update-python-1138078/)
 - [How to create Oculus Quest experiences in Unity](https://www.androidauthority.com/oculus-quest-development-1196351/)
-- [Upwork vs Fiverr: Which is the best place to sell your services?](https://www.androidauthority.com/upwork-vs-fiverr-1190439/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
@@ -310,21 +310,23 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [GCLOUD_PROJECT Environment Variable Missing, or my Brief Introduction to Google Cloud Functions](https://medium.com/@szalma/gcloud-project-environment-variable-missing-or-my-brief-introduction-to-google-cloud-functions-bd9ee5135d92?source=rss------android-5)
-- [Constraint Layout](https://medium.com/@yemrearslan-3673/constraint-layout-8b13ace936df?source=rss------android-5)
-- [Flutter In App Purchase](https://medium.com/@gizemgizgg/flutter-in-app-purchase-2d9b1bb02743?source=rss------android-5)
-- [Goodbye LiveData, Hello SharedFlow](https://medium.com/@aksoymelih/goodbye-livedata-hello-sharedflow-fbbfa9c00d5f?source=rss------android-5)
-- [Top Mobile Games For 2021](https://medium.com/@tamaraibrahim146/top-mobile-games-for-2021-7d0f7c1f2946?source=rss------android-5)
-- [Kotlin Delegates](https://medium.com/swlh/kotlin-delegates-9a82fbed32ca?source=rss------android-5)
-- [Cool Flutter Docs](https://medium.com/@fredgrott/cool-flutter-docs-383b951d7feb?source=rss------android-5)
-- [Android 12 could be S-Shaped snow cone and more detail](https://medium.com/@techienesshub/android-12-could-be-s-shaped-snow-cone-and-more-detail-966298e61152?source=rss------android-5)
-- [Sembra che il 2021 sarà particolarmente interessante per BlackBerry](https://medium.com/@whatstechblog/sembra-che-il-2021-sar%C3%A0-particolarmente-interessante-per-blackberry-4b6076b63736?source=rss------android-5)
-- [Flutter Local Databases](https://medium.com/@insatandroidclub/flutter-local-databases-a12827448e6?source=rss------android-5)
+- [Phone Clone: Memindahkan Seluruh Data HP Android ke Lain Device](https://medium.com/@tutorialike/phone-clone-memindahkan-seluruh-data-hp-android-ke-lain-device-159923db2ee9?source=rss------android-5)
+- [Android: LiveData without repeatable for N > 1 observers](https://medium.com/@darktugrenok/android-livedata-without-repeatable-for-n-1-observers-23b01f78af3?source=rss------android-5)
+- [Afinal, meu app deve ser híbrido ou nativo?](https://medium.com/trilogo/afinal-meu-app-deve-ser-h%C3%ADbrido-ou-nativo-53308fd43733?source=rss------android-5)
+- [Apple Vs Android: Who is the Winner?](https://medium.com/@elysia-12terrance/apple-vs-android-who-is-the-winner-222a6a2ec7ff?source=rss------android-5)
+- [Understanding Android OS!](https://medium.com/the-missing-android-developers-guide/understanding-android-os-ec79aad6822?source=rss------android-5)
+- [Best English Learning App on Android To Improve Grammar Easily](https://medium.com/@dhyanchand/best-english-learning-app-on-android-to-improve-grammar-easily-fa292ac92?source=rss------android-5)
+- [RxJava and Kotlin #2](https://medium.com/@bruno-hensel/rxjava-and-kotlin-2-e7549f3de4ad?source=rss------android-5)
+- [Why always Java be the first choice for Android Developers?](https://medium.com/dev-genius/why-always-java-be-the-first-choice-for-android-developers-9e6c15154c34?source=rss------android-5)
+- [Automate That Shit](https://medium.com/@fredgrott/automate-that-shit-236dcae8c049?source=rss------android-5)
+- [What is DEPENDENCY INJECTION and why we need it, in simple words](https://medium.com/@mohammad0sman/what-is-dependency-injection-and-why-we-need-it-in-simple-words-8def404ae7d6?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Maps Adds Tools to Pay for Parking and Transit in App](https://gizmodo.com/google-maps-adds-tools-to-pay-for-parking-and-transit-i-1846287281)
+- [A Hugely Popular File-Sharing Android App Also Has Giant, Terrible Security Flaws](https://gizmodo.com/a-hugely-popular-file-sharing-android-app-also-has-gian-1846276723)
 - [Leaked Android 12 Screenshots Show Some iOS-Like Changes Coming](https://gizmodo.com/leaked-android-12-screenshots-show-some-ios-like-change-1846229701)
 - [Barcode-Scanning App for Android Pushed Malware Onto Millions of Phones](https://gizmodo.com/barcode-scanning-app-for-android-pushed-malware-onto-mi-1846221452)
 - [Google Pays News Platforms in Australia to Prove No Law Is Needed to Make It Pay News Platforms](https://gizmodo.com/google-pays-news-platforms-in-australia-to-prove-no-law-1846204661)
@@ -333,13 +335,12 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google Just Turned Your Phone's Camera Into a Weirdly Advanced Health Tracker](https://gizmodo.com/google-just-turned-your-phones-camera-into-a-weirdly-ad-1846194952)
 - [Android TV Is Getting a Big Update With a New Discovery Page](https://gizmodo.com/android-tv-is-getting-a-big-update-with-a-new-discovery-1846191055)
 - [Days Blurring Together? Add Structure with These Apps](https://gizmodo.com/days-blurring-together-add-structure-with-these-apps-1846151722)
-- [Google's Making Its Search Results a Bit Easier to Understand](https://gizmodo.com/googles-making-its-search-results-a-bit-easier-to-under-1846180565)
-- [Ford Will Put Android in Millions of Cars Starting in 2023](https://gizmodo.com/ford-will-put-android-in-millions-of-cars-starting-in-2-1846174165)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Why doesn’t Google have to show the ATT prompt?](https://mobiledevmemo.com/why-doesnt-google-have-to-show-the-att-prompt/)
 - [The profound, unintended consequence of ATT: content fortresses](https://mobiledevmemo.com/the-profound-unintended-consequence-of-att-content-fortresses/)
 - [What’s the standard for ATT 6-bit conversion values?](https://mobiledevmemo.com/whats-the-standard-for-att-6-bit-conversion-values/)
 - [Workshop: Understanding and preparing for AppTrackingTransparency in iOS 14](https://mobiledevmemo.com/workshop-understanding-and-preparing-for-apptrackingtransparency-in-ios-14/)
@@ -349,7 +350,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Unpacking Apple’s latest iOS14 privacy policy guidance](https://mobiledevmemo.com/unpacking-apples-latest-ios14-privacy-policy-guidance/)
 - [Podcast: IDFA, TURTLEDOVE, and the Future of Online Privacy](https://mobiledevmemo.com/idfa-turtledove-and-the-future-of-privacy/)
 - [Ad tech companies will become gaming companies in 2021](https://mobiledevmemo.com/mobile-ad-tech-companies-should-become-gaming-companies-in-2021/)
-- [Facebook may take 7% revenue hit from Apple privacy changes](https://mobiledevmemo.com/facebook-may-take-revenue-hit-from-apple-privacy-changes/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
