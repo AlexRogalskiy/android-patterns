@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Language support](https://www.reddit.com/r/androiddev/comments/lliia0/language_support/)
-- [Would ever any adroid developer decide do become ios deveoper and stay there](https://www.reddit.com/r/androiddev/comments/llh52i/would_ever_any_adroid_developer_decide_do_become/)
-- [How feature complete is Kotlin Compose?](https://www.reddit.com/r/androiddev/comments/llfhr0/how_feature_complete_is_kotlin_compose/)
-- [How to handle NavigationBar Apps: Fragments or Activities?](https://www.reddit.com/r/androiddev/comments/llda88/how_to_handle_navigationbar_apps_fragments_or/)
-- [Is anyone else bothered by Android Studios' Windows Icon?](https://www.reddit.com/r/androiddev/comments/llda04/is_anyone_else_bothered_by_android_studios/)
-- [Contact AdMob Account Manager](https://www.reddit.com/r/androiddev/comments/lla3qo/contact_admob_account_manager/)
-- [Hilt - okhttp scopes, variants and overall app performance ?](https://www.reddit.com/r/androiddev/comments/ll6ceg/hilt_okhttp_scopes_variants_and_overall_app/)
-- [[D] Custom TensorFlow Lite model on Android using Firebase ML](https://www.reddit.com/r/androiddev/comments/ll5ts2/d_custom_tensorflow_lite_model_on_android_using/)
-- [Why can't I compile the msm android kernel?](https://www.reddit.com/r/androiddev/comments/ll5i38/why_cant_i_compile_the_msm_android_kernel/)
-- [Weekly Questions Thread - February 16, 2021](https://www.reddit.com/r/androiddev/comments/ll4d0c/weekly_questions_thread_february_16_2021/)
+- [According to this video, Flutter can have extreme animation jank issues on iOS that can effectively make apps unusable in production](https://www.reddit.com/r/androiddev/comments/lm9v03/according_to_this_video_flutter_can_have_extreme/)
+- [Fast flipping between front and back cameras in Camera1 API?](https://www.reddit.com/r/androiddev/comments/lm9t77/fast_flipping_between_front_and_back_cameras_in/)
+- [Why Does Android Kill My Threads?](https://www.reddit.com/r/androiddev/comments/lm9cwd/why_does_android_kill_my_threads/)
+- [At what stage of your project do you setup CI?](https://www.reddit.com/r/androiddev/comments/lm49ks/at_what_stage_of_your_project_do_you_setup_ci/)
+- [How slow is Android Studio Navigation Editor for you?](https://www.reddit.com/r/androiddev/comments/lm2wqp/how_slow_is_android_studio_navigation_editor_for/)
+- [Can I get a sanity check on my idea?](https://www.reddit.com/r/androiddev/comments/llzndu/can_i_get_a_sanity_check_on_my_idea/)
+- [How to properly split an android app into multiple modules](https://www.reddit.com/r/androiddev/comments/llz72s/how_to_properly_split_an_android_app_into/)
+- [Are Google monopolist regarding to android developers?](https://www.reddit.com/r/androiddev/comments/llyn6c/are_google_monopolist_regarding_to_android/)
+- [Can you develop android apps without having to use Android Studio?](https://www.reddit.com/r/androiddev/comments/llxqb3/can_you_develop_android_apps_without_having_to/)
+- [Android Views as a Function of State with ViewBinding Case Study 2: RecyclerViews, A/B testing and tables](https://www.reddit.com/r/androiddev/comments/llws5v/android_views_as_a_function_of_state_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
