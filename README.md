@@ -279,6 +279,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [The best Google Cloud courses to future-proof your resume](https://www.androidauthority.com/best-google-cloud-courses-1165111/)
 - [What is Google Cloud certification and should I get it?](https://www.androidauthority.com/google-cloud-certification-1164349/)
 - [How to use dictionaries in Python](https://www.androidauthority.com/how-to-add-to-a-dictionary-python-1136937/)
 - [How to enable Developer mode on a Chromebook in just a few minutes?](https://www.androidauthority.com/how-to-enable-developer-mode-on-a-chromebook-906688/)
@@ -288,7 +289,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
 - [How to update Python and how to know if you should](https://www.androidauthority.com/how-to-update-python-1138078/)
 - [How to create Oculus Quest experiences in Unity](https://www.androidauthority.com/oculus-quest-development-1196351/)
-- [Upwork vs Fiverr: Which is the best place to sell your services?](https://www.androidauthority.com/upwork-vs-fiverr-1190439/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
