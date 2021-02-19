@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [According to this video, Flutter can have extreme animation jank issues on iOS that can effectively make apps unusable in production](https://www.reddit.com/r/androiddev/comments/lm9v03/according_to_this_video_flutter_can_have_extreme/)
-- [Fast flipping between front and back cameras in Camera1 API?](https://www.reddit.com/r/androiddev/comments/lm9t77/fast_flipping_between_front_and_back_cameras_in/)
-- [Why Does Android Kill My Threads?](https://www.reddit.com/r/androiddev/comments/lm9cwd/why_does_android_kill_my_threads/)
-- [At what stage of your project do you setup CI?](https://www.reddit.com/r/androiddev/comments/lm49ks/at_what_stage_of_your_project_do_you_setup_ci/)
-- [How slow is Android Studio Navigation Editor for you?](https://www.reddit.com/r/androiddev/comments/lm2wqp/how_slow_is_android_studio_navigation_editor_for/)
-- [Can I get a sanity check on my idea?](https://www.reddit.com/r/androiddev/comments/llzndu/can_i_get_a_sanity_check_on_my_idea/)
-- [How to properly split an android app into multiple modules](https://www.reddit.com/r/androiddev/comments/llz72s/how_to_properly_split_an_android_app_into/)
-- [Are Google monopolist regarding to android developers?](https://www.reddit.com/r/androiddev/comments/llyn6c/are_google_monopolist_regarding_to_android/)
-- [Can you develop android apps without having to use Android Studio?](https://www.reddit.com/r/androiddev/comments/llxqb3/can_you_develop_android_apps_without_having_to/)
-- [Android Views as a Function of State with ViewBinding Case Study 2: RecyclerViews, A/B testing and tables](https://www.reddit.com/r/androiddev/comments/llws5v/android_views_as_a_function_of_state_with/)
+- [Android 10 setAlarmClock() woes](https://www.reddit.com/r/androiddev/comments/lmyjwz/android_10_setalarmclock_woes/)
+- [Mod App for Minecraft PE](https://www.reddit.com/r/androiddev/comments/lmx9qa/mod_app_for_minecraft_pe/)
+- [Official features of Android 12 Dev Preview](https://www.reddit.com/r/androiddev/comments/lmx1vz/official_features_of_android_12_dev_preview/)
+- [Resources in multi-module apps](https://www.reddit.com/r/androiddev/comments/lmwzan/resources_in_multimodule_apps/)
+- [What restrictions might I encounter for this app idea (WhatsApp filter for football related message content)?](https://www.reddit.com/r/androiddev/comments/lmw4hf/what_restrictions_might_i_encounter_for_this_app/)
+- [[Library] StackLayoutManager - A lightweight interpolator-based layout manager for RecyclerView](https://www.reddit.com/r/androiddev/comments/lmvlas/library_stacklayoutmanager_a_lightweight/)
+- [Lekcja 153 [Funkcje] {Matura z matematyki}](https://www.reddit.com/r/androiddev/comments/lmvhm1/lekcja_153_funkcje_matura_z_matematyki/)
+- [First preview of Android 12](https://www.reddit.com/r/androiddev/comments/lmswu5/first_preview_of_android_12/)
+- [Android Studio Arctic Fox Canary 7 available](https://www.reddit.com/r/androiddev/comments/lmswp9/android_studio_arctic_fox_canary_7_available/)
+- [Announcing #TheAndroidShow​: Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/lmssw0/announcing_theandroidshow_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
