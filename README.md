@@ -296,6 +296,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Arsenal posts_
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+- [Bindables](http://android-arsenal.com/details/1/8226)
 - [RxDisposableWatcher](http://android-arsenal.com/details/1/8225)
 - [android-uniDevId](http://android-arsenal.com/details/1/8224)
 - [BottomSheet Menu](http://android-arsenal.com/details/1/8223)
@@ -305,7 +306,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [StoryViewer](http://android-arsenal.com/details/3/8219)
 - [Bouncy](http://android-arsenal.com/details/1/8218)
 - [Routes](http://android-arsenal.com/details/1/8217)
-- [Moshi Kotlin Extensions](http://android-arsenal.com/details/1/8216)
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### _Medium posts_
