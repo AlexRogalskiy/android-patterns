@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Phone Clone: Memindahkan Seluruh Data HP Android ke Lain Device](https://medium.com/@tutorialike/phone-clone-memindahkan-seluruh-data-hp-android-ke-lain-device-159923db2ee9?source=rss------android-5)
-- [Android: LiveData without repeatable for N > 1 observers](https://medium.com/@darktugrenok/android-livedata-without-repeatable-for-n-1-observers-23b01f78af3?source=rss------android-5)
-- [Afinal, meu app deve ser híbrido ou nativo?](https://medium.com/trilogo/afinal-meu-app-deve-ser-h%C3%ADbrido-ou-nativo-53308fd43733?source=rss------android-5)
-- [Apple Vs Android: Who is the Winner?](https://medium.com/@elysia-12terrance/apple-vs-android-who-is-the-winner-222a6a2ec7ff?source=rss------android-5)
-- [Understanding Android OS!](https://medium.com/the-missing-android-developers-guide/understanding-android-os-ec79aad6822?source=rss------android-5)
-- [Best English Learning App on Android To Improve Grammar Easily](https://medium.com/@dhyanchand/best-english-learning-app-on-android-to-improve-grammar-easily-fa292ac92?source=rss------android-5)
-- [RxJava and Kotlin #2](https://medium.com/@bruno-hensel/rxjava-and-kotlin-2-e7549f3de4ad?source=rss------android-5)
-- [Why always Java be the first choice for Android Developers?](https://medium.com/dev-genius/why-always-java-be-the-first-choice-for-android-developers-9e6c15154c34?source=rss------android-5)
-- [Automate That Shit](https://medium.com/@fredgrott/automate-that-shit-236dcae8c049?source=rss------android-5)
-- [What is DEPENDENCY INJECTION and why we need it, in simple words](https://medium.com/@mohammad0sman/what-is-dependency-injection-and-why-we-need-it-in-simple-words-8def404ae7d6?source=rss------android-5)
+- [Download Stick War Legacy Mod Apk, Unlimited Money Gems Skills Gold](https://medium.com/@situspalingtop21xxi/download-stick-war-legacy-mod-apk-unlimited-money-gems-skills-gold-a3eb93a48a04?source=rss------android-5)
+- [Crie sua própria biblioteca/componente react-native e publicar no npm](https://medium.com/@afa7789/crie-sua-pr%C3%B3pria-biblioteca-componente-react-native-e-publicar-no-npm-6e4e468c877f?source=rss------android-5)
+- [Let’s be explicit about our intent(-filters)](https://medium.com/androiddevelopers/lets-be-explicit-about-our-intent-filters-c5dbe2dbdce0?source=rss------android-5)
+- [Java vs Kotlin: Which One Is Better To Learn In 2021?](https://medium.com/@ditamihai/java-vs-kotlin-which-one-is-better-to-learn-in-2021-fb75eb279033?source=rss------android-5)
+- [Android CI/CD with Github Actions and Bintray](https://medium.com/android-ci-cd-with-github-actions-and-bintray/android-ci-cd-with-github-actions-and-bintray-7c2ce2fa56f?source=rss------android-5)
+- [Measure and optimize bitmap size using Glide or Picasso](https://proandroiddev.com/measure-and-optimize-bitmap-size-using-glide-or-picasso-3273b4a569cd?source=rss------android-5)
+- [Create Android Apps without code](https://medium.com/@trwkc/create-android-apps-without-code-de373223eca2?source=rss------android-5)
+- [Kotlin Coroutines: The Suspend Function](https://medium.com/microsoft-mobile-engineering/kotlin-coroutines-the-suspend-function-571ee8237a7b?source=rss------android-5)
+- [Android 2-Way Data Binding With MVVM](https://medium.com/better-programming/android-2-way-data-binding-with-mvvm-c13022a2f04a?source=rss------android-5)
+- [Experience: Being an Android facilitator!](https://medium.com/@theanton/experience-being-an-android-facilitator-c7b6d2d7c72e?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
