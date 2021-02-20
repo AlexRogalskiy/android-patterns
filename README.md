@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android 10 setAlarmClock() woes](https://www.reddit.com/r/androiddev/comments/lmyjwz/android_10_setalarmclock_woes/)
-- [Mod App for Minecraft PE](https://www.reddit.com/r/androiddev/comments/lmx9qa/mod_app_for_minecraft_pe/)
-- [Official features of Android 12 Dev Preview](https://www.reddit.com/r/androiddev/comments/lmx1vz/official_features_of_android_12_dev_preview/)
-- [Resources in multi-module apps](https://www.reddit.com/r/androiddev/comments/lmwzan/resources_in_multimodule_apps/)
-- [What restrictions might I encounter for this app idea (WhatsApp filter for football related message content)?](https://www.reddit.com/r/androiddev/comments/lmw4hf/what_restrictions_might_i_encounter_for_this_app/)
-- [[Library] StackLayoutManager - A lightweight interpolator-based layout manager for RecyclerView](https://www.reddit.com/r/androiddev/comments/lmvlas/library_stacklayoutmanager_a_lightweight/)
-- [Lekcja 153 [Funkcje] {Matura z matematyki}](https://www.reddit.com/r/androiddev/comments/lmvhm1/lekcja_153_funkcje_matura_z_matematyki/)
-- [First preview of Android 12](https://www.reddit.com/r/androiddev/comments/lmswu5/first_preview_of_android_12/)
-- [Android Studio Arctic Fox Canary 7 available](https://www.reddit.com/r/androiddev/comments/lmswp9/android_studio_arctic_fox_canary_7_available/)
-- [Announcing #TheAndroidShow​: Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/lmssw0/announcing_theandroidshow_jetpack_compose/)
+- [Compose and IMGUI](https://www.reddit.com/r/androiddev/comments/lnonpk/compose_and_imgui/)
+- [testing and reading about services](https://www.reddit.com/r/androiddev/comments/lnofak/testing_and_reading_about_services/)
+- [How many of you do both web and mobile?](https://www.reddit.com/r/androiddev/comments/lnoagg/how_many_of_you_do_both_web_and_mobile/)
+- [Implement Favourites to strings in res/values/mystrings.xml](https://www.reddit.com/r/androiddev/comments/lnmvs4/implement_favourites_to_strings_in/)
+- [How do big company apps accomplish tasks without permission?](https://www.reddit.com/r/androiddev/comments/lnmsjm/how_do_big_company_apps_accomplish_tasks_without/)
+- [Swipe to reveal in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/lnmq2i/swipe_to_reveal_in_jetpack_compose/)
+- [Android-Showcase 2021 Q1 Update](https://www.reddit.com/r/androiddev/comments/lnmell/androidshowcase_2021_q1_update/)
+- [A little confused](https://www.reddit.com/r/androiddev/comments/lnll8a/a_little_confused/)
+- [Database suggestions](https://www.reddit.com/r/androiddev/comments/lnknzt/database_suggestions/)
+- [Jetpack Compose staggered grid support](https://www.reddit.com/r/androiddev/comments/lnkd8b/jetpack_compose_staggered_grid_support/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
