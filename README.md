@@ -311,16 +311,15 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Download Stick War Legacy Mod Apk, Unlimited Money Gems Skills Gold](https://medium.com/@situspalingtop21xxi/download-stick-war-legacy-mod-apk-unlimited-money-gems-skills-gold-a3eb93a48a04?source=rss------android-5)
-- [Crie sua própria biblioteca/componente react-native e publicar no npm](https://medium.com/@afa7789/crie-sua-pr%C3%B3pria-biblioteca-componente-react-native-e-publicar-no-npm-6e4e468c877f?source=rss------android-5)
-- [Let’s be explicit about our intent(-filters)](https://medium.com/androiddevelopers/lets-be-explicit-about-our-intent-filters-c5dbe2dbdce0?source=rss------android-5)
-- [Java vs Kotlin: Which One Is Better To Learn In 2021?](https://medium.com/@ditamihai/java-vs-kotlin-which-one-is-better-to-learn-in-2021-fb75eb279033?source=rss------android-5)
-- [Android CI/CD with Github Actions and Bintray](https://medium.com/android-ci-cd-with-github-actions-and-bintray/android-ci-cd-with-github-actions-and-bintray-7c2ce2fa56f?source=rss------android-5)
-- [Measure and optimize bitmap size using Glide or Picasso](https://proandroiddev.com/measure-and-optimize-bitmap-size-using-glide-or-picasso-3273b4a569cd?source=rss------android-5)
-- [Create Android Apps without code](https://medium.com/@trwkc/create-android-apps-without-code-de373223eca2?source=rss------android-5)
-- [Kotlin Coroutines: The Suspend Function](https://medium.com/microsoft-mobile-engineering/kotlin-coroutines-the-suspend-function-571ee8237a7b?source=rss------android-5)
-- [Android 2-Way Data Binding With MVVM](https://medium.com/better-programming/android-2-way-data-binding-with-mvvm-c13022a2f04a?source=rss------android-5)
-- [Experience: Being an Android facilitator!](https://medium.com/@theanton/experience-being-an-android-facilitator-c7b6d2d7c72e?source=rss------android-5)
+- [Android - Kotlin’de RecyclerView Kullanımı](https://medium.com/@cevlikalprn/android-kotlinde-recyclerview-kullan%C4%B1m%C4%B1-2a4ecf233741?source=rss------android-5)
+- [Android process death](https://medium.com/perry-street-software-engineering/android-process-death-66f56029e405?source=rss------android-5)
+- [Android Project Template based on Kotlin](https://medium.com/@vishal1337/android-project-template-based-on-kotlin-bb37235465a5?source=rss------android-5)
+- [Testando sua aplicação](https://medium.com/android-dev-br/testando-sua-aplica%C3%A7%C3%A3o-80bc80e543ce?source=rss------android-5)
+- [I Refuse To Date Anyone Who Has An Android Phone](https://medium.com/@shamarm/i-refuse-to-date-anyone-who-has-an-android-phone-7fc209e93ea8?source=rss------android-5)
+- [Set up your First React-Native(Android) project on Windows](https://medium.com/@reshmiagarwal/set-up-your-first-react-native-android-project-on-windows-32f54492c5fd?source=rss------android-5)
+- [Swipe to reveal in Jetpack Compose](https://medium.com/@skyyo/swipe-to-reveal-in-jetpack-compose-6ffa8928a4c2?source=rss------android-5)
+- [Google has already begun development on Android 12, with the vast majority of Android phone makers…](https://medium.com/@cio-jrajitha/google-has-already-begun-development-on-android-12-with-the-vast-majority-of-android-phone-makers-9ddaca137718?source=rss------android-5)
+- [How to create custom AppBar/ActionBar/ToolBar in Android Studio | Java](https://medium.com/@androidapps-development-blogs/how-to-create-custom-appbar-actionbar-toolbar-in-android-studio-java-61907fa1e44?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
