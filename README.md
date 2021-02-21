@@ -311,15 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Android - Kotlin’de RecyclerView Kullanımı](https://medium.com/@cevlikalprn/android-kotlinde-recyclerview-kullan%C4%B1m%C4%B1-2a4ecf233741?source=rss------android-5)
-- [Android process death](https://medium.com/perry-street-software-engineering/android-process-death-66f56029e405?source=rss------android-5)
-- [Android Project Template based on Kotlin](https://medium.com/@vishal1337/android-project-template-based-on-kotlin-bb37235465a5?source=rss------android-5)
-- [Testando sua aplicação](https://medium.com/android-dev-br/testando-sua-aplica%C3%A7%C3%A3o-80bc80e543ce?source=rss------android-5)
-- [I Refuse To Date Anyone Who Has An Android Phone](https://medium.com/@shamarm/i-refuse-to-date-anyone-who-has-an-android-phone-7fc209e93ea8?source=rss------android-5)
-- [Set up your First React-Native(Android) project on Windows](https://medium.com/@reshmiagarwal/set-up-your-first-react-native-android-project-on-windows-32f54492c5fd?source=rss------android-5)
-- [Swipe to reveal in Jetpack Compose](https://medium.com/@skyyo/swipe-to-reveal-in-jetpack-compose-6ffa8928a4c2?source=rss------android-5)
-- [Google has already begun development on Android 12, with the vast majority of Android phone makers…](https://medium.com/@cio-jrajitha/google-has-already-begun-development-on-android-12-with-the-vast-majority-of-android-phone-makers-9ddaca137718?source=rss------android-5)
-- [How to create custom AppBar/ActionBar/ToolBar in Android Studio | Java](https://medium.com/@androidapps-development-blogs/how-to-create-custom-appbar-actionbar-toolbar-in-android-studio-java-61907fa1e44?source=rss------android-5)
+- [Head First Android Development PDF Download](https://medium.com/@durraniii393/head-first-android-development-pdf-download-7330049b4b3a?source=rss------android-5)
+- [Android Studio Development Essentials PDF Download](https://medium.com/@durraniii393/android-studio-development-essentials-pdf-download-bcde4ed54f76?source=rss------android-5)
+- [[PDF] A Collector’s Guide to Black Glass android](https://medium.com/@styggere/pdf-a-collectors-guide-to-black-glass-android-b73c464e4968?source=rss------android-5)
+- [PDF Tiffany’s Glass Mosaics android](https://medium.com/@hoornwee/pdf-tiffanys-glass-mosaics-android-5ebcae05c0d6?source=rss------android-5)
+- [[PDF] Stained Glass: Radiant Art android](https://medium.com/@trainingsa/pdf-stained-glass-radiant-art-android-a7e217a37e85?source=rss------android-5)
+- [Android: Alternative boot modes](https://medium.com/@dmfrpro/android-alternative-boot-modes-f860a881b701?source=rss------android-5)
+- [Android: Partition tables](https://medium.com/@dmfrpro/android-partition-tables-520d88115fe5?source=rss------android-5)
+- [Request location permission Android 11 (SDK 30)](https://medium.com/@kushankur-xd/request-location-permission-android-11-sdk-30-43f190dcadd2?source=rss------android-5)
+- [How to add In-App Review to  flutter application](https://medium.com/@kerimyildizz/how-to-add-in-app-review-to-flutter-application-37e10fd51973?source=rss------android-5)
+- [How to Get Unlimited Money/Coins In Android Games Using Lucky Patcher](https://medium.com/@contact-apkbox/how-to-get-unlimited-money-coins-in-android-games-using-lucky-patcher-dfc9916e72ca?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
