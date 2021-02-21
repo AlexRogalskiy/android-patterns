@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compose and IMGUI](https://www.reddit.com/r/androiddev/comments/lnonpk/compose_and_imgui/)
-- [testing and reading about services](https://www.reddit.com/r/androiddev/comments/lnofak/testing_and_reading_about_services/)
-- [How many of you do both web and mobile?](https://www.reddit.com/r/androiddev/comments/lnoagg/how_many_of_you_do_both_web_and_mobile/)
-- [Implement Favourites to strings in res/values/mystrings.xml](https://www.reddit.com/r/androiddev/comments/lnmvs4/implement_favourites_to_strings_in/)
-- [How do big company apps accomplish tasks without permission?](https://www.reddit.com/r/androiddev/comments/lnmsjm/how_do_big_company_apps_accomplish_tasks_without/)
-- [Swipe to reveal in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/lnmq2i/swipe_to_reveal_in_jetpack_compose/)
-- [Android-Showcase 2021 Q1 Update](https://www.reddit.com/r/androiddev/comments/lnmell/androidshowcase_2021_q1_update/)
-- [A little confused](https://www.reddit.com/r/androiddev/comments/lnll8a/a_little_confused/)
-- [Database suggestions](https://www.reddit.com/r/androiddev/comments/lnknzt/database_suggestions/)
-- [Jetpack Compose staggered grid support](https://www.reddit.com/r/androiddev/comments/lnkd8b/jetpack_compose_staggered_grid_support/)
+- [RecyclerView: Show "Favourite" items on top](https://www.reddit.com/r/androiddev/comments/lojx9n/recyclerview_show_favourite_items_on_top/)
+- [If all you had was an unrooted Android 11, what tools would you need to work on your apps?](https://www.reddit.com/r/androiddev/comments/logem5/if_all_you_had_was_an_unrooted_android_11_what/)
+- [Android 11, is it possible to install apps outside data folders/vmos](https://www.reddit.com/r/androiddev/comments/log31k/android_11_is_it_possible_to_install_apps_outside/)
+- [Do you want faster debug builds while working on your Android apps? Read on!](https://www.reddit.com/r/androiddev/comments/lof9wq/do_you_want_faster_debug_builds_while_working_on/)
+- [Everything you need to know to get started with Proguard](https://www.reddit.com/r/androiddev/comments/lof6xa/everything_you_need_to_know_to_get_started_with/)
+- [Converting a string to an integer](https://www.reddit.com/r/androiddev/comments/lodq5x/converting_a_string_to_an_integer/)
+- [Are there frameworks for creating social events within an android app?](https://www.reddit.com/r/androiddev/comments/loalmr/are_there_frameworks_for_creating_social_events/)
+- [the simplest guide to gradle](https://www.reddit.com/r/androiddev/comments/loa9o0/the_simplest_guide_to_gradle/)
+- [Why my date formatters test fails in CI yet works locally? Story of debugging Android project build pipeline.](https://www.reddit.com/r/androiddev/comments/lo9t00/why_my_date_formatters_test_fails_in_ci_yet_works/)
+- [Is it possible to get my app's Installation count using an Play console API](https://www.reddit.com/r/androiddev/comments/lo7xyv/is_it_possible_to_get_my_apps_installation_count/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
