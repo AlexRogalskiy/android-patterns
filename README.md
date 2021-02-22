@@ -311,16 +311,15 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Head First Android Development PDF Download](https://medium.com/@durraniii393/head-first-android-development-pdf-download-7330049b4b3a?source=rss------android-5)
-- [Android Studio Development Essentials PDF Download](https://medium.com/@durraniii393/android-studio-development-essentials-pdf-download-bcde4ed54f76?source=rss------android-5)
-- [[PDF] A Collector’s Guide to Black Glass android](https://medium.com/@styggere/pdf-a-collectors-guide-to-black-glass-android-b73c464e4968?source=rss------android-5)
-- [PDF Tiffany’s Glass Mosaics android](https://medium.com/@hoornwee/pdf-tiffanys-glass-mosaics-android-5ebcae05c0d6?source=rss------android-5)
-- [[PDF] Stained Glass: Radiant Art android](https://medium.com/@trainingsa/pdf-stained-glass-radiant-art-android-a7e217a37e85?source=rss------android-5)
-- [Android: Alternative boot modes](https://medium.com/@dmfrpro/android-alternative-boot-modes-f860a881b701?source=rss------android-5)
-- [Android: Partition tables](https://medium.com/@dmfrpro/android-partition-tables-520d88115fe5?source=rss------android-5)
-- [Request location permission Android 11 (SDK 30)](https://medium.com/@kushankur-xd/request-location-permission-android-11-sdk-30-43f190dcadd2?source=rss------android-5)
-- [How to add In-App Review to  flutter application](https://medium.com/@kerimyildizz/how-to-add-in-app-review-to-flutter-application-37e10fd51973?source=rss------android-5)
-- [How to Get Unlimited Money/Coins In Android Games Using Lucky Patcher](https://medium.com/@contact-apkbox/how-to-get-unlimited-money-coins-in-android-games-using-lucky-patcher-dfc9916e72ca?source=rss------android-5)
+- [Android — Kotlin + Firebase Com Autenticação (pt. 2)](https://medium.com/@victormagosso/android-kotlin-firebase-com-autentica%C3%A7%C3%A3o-pt-2-fa3a8d4d4397?source=rss------android-5)
+- [ListAdapter with view for empty list](https://medium.com/@theeasiestwayy/listadapter-with-view-for-empty-list-77b7179903de?source=rss------android-5)
+- [Android is Good but why i use Iphone ?](https://medium.com/@nike-swamish/android-is-good-but-why-i-use-iphone-e85ee7770905?source=rss------android-5)
+- [Submission Guidelines](https://medium.com/killer-flutter/submission-guidelines-992c7192831f?source=rss------android-5)
+- [Web Browser for Android E-Ink Devices](https://medium.com/@danielkao/web-browser-for-android-e-ink-devices-c78b680edf98?source=rss------android-5)
+- [Understanding Quick-Sort.](https://medium.com/@muditsen/understanding-quick-sort-6fa26a700fc4?source=rss------android-5)
+- [Appium Nedir? Nasıl Çalışır?](https://medium.com/@berkaydinc42l/appium-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-84a17e309f53?source=rss------android-5)
+- [Understanding Custom ROM](https://medium.com/@shanuu12e/understanding-custom-rom-54c4dc3ef7b0?source=rss------android-5)
+- [Top 5 Must-Have Android Apps](https://medium.com/@denvercootee/top-5-must-have-android-apps-ed0ad77f0b24?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
