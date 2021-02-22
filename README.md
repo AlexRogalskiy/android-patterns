@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [RecyclerView: Show "Favourite" items on top](https://www.reddit.com/r/androiddev/comments/lojx9n/recyclerview_show_favourite_items_on_top/)
-- [If all you had was an unrooted Android 11, what tools would you need to work on your apps?](https://www.reddit.com/r/androiddev/comments/logem5/if_all_you_had_was_an_unrooted_android_11_what/)
-- [Android 11, is it possible to install apps outside data folders/vmos](https://www.reddit.com/r/androiddev/comments/log31k/android_11_is_it_possible_to_install_apps_outside/)
-- [Do you want faster debug builds while working on your Android apps? Read on!](https://www.reddit.com/r/androiddev/comments/lof9wq/do_you_want_faster_debug_builds_while_working_on/)
-- [Everything you need to know to get started with Proguard](https://www.reddit.com/r/androiddev/comments/lof6xa/everything_you_need_to_know_to_get_started_with/)
-- [Converting a string to an integer](https://www.reddit.com/r/androiddev/comments/lodq5x/converting_a_string_to_an_integer/)
-- [Are there frameworks for creating social events within an android app?](https://www.reddit.com/r/androiddev/comments/loalmr/are_there_frameworks_for_creating_social_events/)
-- [the simplest guide to gradle](https://www.reddit.com/r/androiddev/comments/loa9o0/the_simplest_guide_to_gradle/)
-- [Why my date formatters test fails in CI yet works locally? Story of debugging Android project build pipeline.](https://www.reddit.com/r/androiddev/comments/lo9t00/why_my_date_formatters_test_fails_in_ci_yet_works/)
-- [Is it possible to get my app's Installation count using an Play console API](https://www.reddit.com/r/androiddev/comments/lo7xyv/is_it_possible_to_get_my_apps_installation_count/)
+- [Does anyone keep track of the Google Play install milestones. Not for your specific apps, but more like remembering the general ranges (ex: 10+ installs -> 100+ -> 1000+ etc).](https://www.reddit.com/r/androiddev/comments/lpanls/does_anyone_keep_track_of_the_google_play_install/)
+- [Temporary solution for sdk30. Target sdk29/xplore file app. For anyone who cant get to their data after the update](https://www.reddit.com/r/androiddev/comments/lpa6gi/temporary_solution_for_sdk30_target_sdk29xplore/)
+- [Showing overlay as a custom close button on top of an interstitial ad?](https://www.reddit.com/r/androiddev/comments/lp848b/showing_overlay_as_a_custom_close_button_on_top/)
+- [Just released my first game on Google Play. Any feedback on my game is appreciated.](https://www.reddit.com/r/androiddev/comments/lp6nug/just_released_my_first_game_on_google_play_any/)
+- [Persistent bottom sheet pushed up by keyboard](https://www.reddit.com/r/androiddev/comments/lp6iyg/persistent_bottom_sheet_pushed_up_by_keyboard/)
+- [MVVM vs Jetpack ViewModel - what am i doing wrong ?](https://www.reddit.com/r/androiddev/comments/lp4nac/mvvm_vs_jetpack_viewmodel_what_am_i_doing_wrong/)
+- [Call recorders](https://www.reddit.com/r/androiddev/comments/lp3tug/call_recorders/)
+- [I'm not a dev. Take my app idea and make it!](https://www.reddit.com/r/androiddev/comments/lp2kxj/im_not_a_dev_take_my_app_idea_and_make_it/)
+- [Compile AndroidManifest from .xml to compiled .xml (axml)](https://www.reddit.com/r/androiddev/comments/lp1lvb/compile_androidmanifest_from_xml_to_compiled_xml/)
+- [Where do you write the test class in your classes that need context?](https://www.reddit.com/r/androiddev/comments/lp02df/where_do_you_write_the_test_class_in_your_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
