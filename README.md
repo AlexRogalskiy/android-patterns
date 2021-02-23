@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does anyone keep track of the Google Play install milestones. Not for your specific apps, but more like remembering the general ranges (ex: 10+ installs -> 100+ -> 1000+ etc).](https://www.reddit.com/r/androiddev/comments/lpanls/does_anyone_keep_track_of_the_google_play_install/)
-- [Temporary solution for sdk30. Target sdk29/xplore file app. For anyone who cant get to their data after the update](https://www.reddit.com/r/androiddev/comments/lpa6gi/temporary_solution_for_sdk30_target_sdk29xplore/)
-- [Showing overlay as a custom close button on top of an interstitial ad?](https://www.reddit.com/r/androiddev/comments/lp848b/showing_overlay_as_a_custom_close_button_on_top/)
-- [Just released my first game on Google Play. Any feedback on my game is appreciated.](https://www.reddit.com/r/androiddev/comments/lp6nug/just_released_my_first_game_on_google_play_any/)
-- [Persistent bottom sheet pushed up by keyboard](https://www.reddit.com/r/androiddev/comments/lp6iyg/persistent_bottom_sheet_pushed_up_by_keyboard/)
-- [MVVM vs Jetpack ViewModel - what am i doing wrong ?](https://www.reddit.com/r/androiddev/comments/lp4nac/mvvm_vs_jetpack_viewmodel_what_am_i_doing_wrong/)
-- [Call recorders](https://www.reddit.com/r/androiddev/comments/lp3tug/call_recorders/)
-- [I'm not a dev. Take my app idea and make it!](https://www.reddit.com/r/androiddev/comments/lp2kxj/im_not_a_dev_take_my_app_idea_and_make_it/)
-- [Compile AndroidManifest from .xml to compiled .xml (axml)](https://www.reddit.com/r/androiddev/comments/lp1lvb/compile_androidmanifest_from_xml_to_compiled_xml/)
-- [Where do you write the test class in your classes that need context?](https://www.reddit.com/r/androiddev/comments/lp02df/where_do_you_write_the_test_class_in_your_classes/)
+- [Do you target preview SDK versions for your apps?](https://www.reddit.com/r/androiddev/comments/lq4513/do_you_target_preview_sdk_versions_for_your_apps/)
+- [App age ratings will not go above 14 for Brazil despite being 18+ for all countries](https://www.reddit.com/r/androiddev/comments/lq3tzg/app_age_ratings_will_not_go_above_14_for_brazil/)
+- [Can anyone tell me why my code is not working, please!](https://www.reddit.com/r/androiddev/comments/lq3f98/can_anyone_tell_me_why_my_code_is_not_working/)
+- [Keep project compilable without Gradle](https://www.reddit.com/r/androiddev/comments/lq2s98/keep_project_compilable_without_gradle/)
+- [MVVM Repository refresh data](https://www.reddit.com/r/androiddev/comments/lpybos/mvvm_repository_refresh_data/)
+- [Houseclub - A barebones unofficial Android app for Clubhouse](https://www.reddit.com/r/androiddev/comments/lpy6uc/houseclub_a_barebones_unofficial_android_app_for/)
+- [What are the best video player libraries for Android?](https://www.reddit.com/r/androiddev/comments/lpy5wo/what_are_the_best_video_player_libraries_for/)
+- [Is there any way to know what's causing my app to crash for a certain user?](https://www.reddit.com/r/androiddev/comments/lpxtpc/is_there_any_way_to_know_whats_causing_my_app_to/)
+- [My app is being spammed daily with five-star reviews with publicity in Chinese. Can I get into trouble?](https://www.reddit.com/r/androiddev/comments/lpvklx/my_app_is_being_spammed_daily_with_fivestar/)
+- [Android 12 Beta Cisco AnyConnect users: OpenConnect works!](https://www.reddit.com/r/androiddev/comments/lpu5pk/android_12_beta_cisco_anyconnect_users/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
