@@ -311,15 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Android — Kotlin + Firebase Com Autenticação (pt. 2)](https://medium.com/@victormagosso/android-kotlin-firebase-com-autentica%C3%A7%C3%A3o-pt-2-fa3a8d4d4397?source=rss------android-5)
-- [ListAdapter with view for empty list](https://medium.com/@theeasiestwayy/listadapter-with-view-for-empty-list-77b7179903de?source=rss------android-5)
-- [Android is Good but why i use Iphone ?](https://medium.com/@nike-swamish/android-is-good-but-why-i-use-iphone-e85ee7770905?source=rss------android-5)
-- [Submission Guidelines](https://medium.com/killer-flutter/submission-guidelines-992c7192831f?source=rss------android-5)
-- [Web Browser for Android E-Ink Devices](https://medium.com/@danielkao/web-browser-for-android-e-ink-devices-c78b680edf98?source=rss------android-5)
-- [Understanding Quick-Sort.](https://medium.com/@muditsen/understanding-quick-sort-6fa26a700fc4?source=rss------android-5)
-- [Appium Nedir? Nasıl Çalışır?](https://medium.com/@berkaydinc42l/appium-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-84a17e309f53?source=rss------android-5)
-- [Understanding Custom ROM](https://medium.com/@shanuu12e/understanding-custom-rom-54c4dc3ef7b0?source=rss------android-5)
-- [Top 5 Must-Have Android Apps](https://medium.com/@denvercootee/top-5-must-have-android-apps-ed0ad77f0b24?source=rss------android-5)
+- [[Android] WorkManager 2.5.0 스테이블 릴리즈 변경 사항](https://medium.com/kenneth-android/jetpack-workmanager-2-5-0-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%B3%80%EA%B2%BD-%EC%82%AC%ED%95%AD-70d238d43bd3?source=rss------android-5)
+- [Rotation examples with Flutter Transform widget (Part I)](https://medium.com/killer-flutter/rotation-examples-with-flutter-transform-widget-part-i-bb65b43d5b82?source=rss------android-5)
+- [Android Firmware vulnerabilities: Exposing the threats](https://medium.com/@nsnyori/android-firmware-vulnerabilities-exposing-the-threats-9899283497e7?source=rss------android-5)
+- [The Path to Associate Kotlin/Android Developer](https://medium.com/@albarqawi/the-path-to-associate-kotlin-android-developer-b775f121ebaa?source=rss------android-5)
+- [Radio Buttons, A New Appearance](https://medium.com/@hussien-fahmy98/radio-buttons-a-new-appearance-3e94c4fb0a53?source=rss------android-5)
+- [Construindo uma Bottom Navigation com Kotlin e Android JetPack](https://medium.com/@lbeurmann/construindo-uma-bottom-navigation-com-kotlin-e-android-jetpack-12e947a887cb?source=rss------android-5)
+- [AOSP](https://medium.com/@divyaparashar/aosp-84764fa89e87?source=rss------android-5)
+- [SOLID: Um assunto necessário | Parte 2](https://medium.com/@souzaaline/solid-um-assunto-necess%C3%A1rio-parte-2-4b74394d02af?source=rss------android-5)
+- [Android TV Voice Search](https://medium.com/@ayushigupta-2225/android-tv-voice-search-4c040b8f043d?source=rss------android-5)
+- [App básica de traducción con Huawei ML Kit](https://medium.com/@huawei-latinoamerica/app-b%C3%A1sica-de-traducci%C3%B3n-con-huawei-ml-kit-33e2d38fb3b6?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
