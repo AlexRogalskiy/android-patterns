@@ -281,16 +281,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [What is Google Cloud certification and should I get it?](https://www.androidauthority.com/google-cloud-certification-1164349/)
+- [How to create a file in Python and more](https://www.androidauthority.com/how-to-create-a-file-in-python-1136935/)
+- [How to create an array in Java](https://www.androidauthority.com/how-to-create-an-array-in-java-1151277/)
+- [How to use Python modules](https://www.androidauthority.com/python-module-1149431/)
+- [How to use arrays in Python](https://www.androidauthority.com/arrays-in-python-1149422/)
 - [Kivy Python tutorial: Build attractive mobile apps in Python!](https://www.androidauthority.com/kivy-python-tutorial-build-attractive-mobile-apps-in-python-1142003/)
 - [The best Google Cloud courses to future-proof your resume](https://www.androidauthority.com/best-google-cloud-courses-1165111/)
-- [What is Google Cloud certification and should I get it?](https://www.androidauthority.com/google-cloud-certification-1164349/)
 - [How to use dictionaries in Python](https://www.androidauthority.com/how-to-add-to-a-dictionary-python-1136937/)
 - [How to enable Developer mode on a Chromebook in just a few minutes?](https://www.androidauthority.com/how-to-enable-developer-mode-on-a-chromebook-906688/)
 - [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
-- [How to add Python to Path (Windows)](https://www.androidauthority.com/how-to-add-python-to-path-1140374/)
-- [How to reverse a list in Python](https://www.androidauthority.com/how-to-reverse-a-list-in-python-1138880/)
-- [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
-- [How to update Python and how to know if you should](https://www.androidauthority.com/how-to-update-python-1138078/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
