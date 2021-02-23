@@ -341,6 +341,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [The CPM math doesn’t work](https://mobiledevmemo.com/the-cpm-math-doesnt-work/)
 - [Why doesn’t Google have to show the ATT prompt?](https://mobiledevmemo.com/why-doesnt-google-have-to-show-the-att-prompt/)
 - [The profound, unintended consequence of ATT: content fortresses](https://mobiledevmemo.com/the-profound-unintended-consequence-of-att-content-fortresses/)
 - [What’s the standard for ATT 6-bit conversion values?](https://mobiledevmemo.com/whats-the-standard-for-att-6-bit-conversion-values/)
@@ -350,7 +351,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Apple privileges its own ad network with ATT. What’s its privacy endgame?](https://mobiledevmemo.com/apple-privileges-its-own-ad-network-whats-its-privacy-end-game/)
 - [Unpacking Apple’s latest iOS14 privacy policy guidance](https://mobiledevmemo.com/unpacking-apples-latest-ios14-privacy-policy-guidance/)
 - [Podcast: IDFA, TURTLEDOVE, and the Future of Online Privacy](https://mobiledevmemo.com/idfa-turtledove-and-the-future-of-privacy/)
-- [Ad tech companies will become gaming companies in 2021](https://mobiledevmemo.com/mobile-ad-tech-companies-should-become-gaming-companies-in-2021/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
