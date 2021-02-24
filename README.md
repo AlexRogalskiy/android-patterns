@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do you target preview SDK versions for your apps?](https://www.reddit.com/r/androiddev/comments/lq4513/do_you_target_preview_sdk_versions_for_your_apps/)
-- [App age ratings will not go above 14 for Brazil despite being 18+ for all countries](https://www.reddit.com/r/androiddev/comments/lq3tzg/app_age_ratings_will_not_go_above_14_for_brazil/)
-- [Can anyone tell me why my code is not working, please!](https://www.reddit.com/r/androiddev/comments/lq3f98/can_anyone_tell_me_why_my_code_is_not_working/)
-- [Keep project compilable without Gradle](https://www.reddit.com/r/androiddev/comments/lq2s98/keep_project_compilable_without_gradle/)
-- [MVVM Repository refresh data](https://www.reddit.com/r/androiddev/comments/lpybos/mvvm_repository_refresh_data/)
-- [Houseclub - A barebones unofficial Android app for Clubhouse](https://www.reddit.com/r/androiddev/comments/lpy6uc/houseclub_a_barebones_unofficial_android_app_for/)
-- [What are the best video player libraries for Android?](https://www.reddit.com/r/androiddev/comments/lpy5wo/what_are_the_best_video_player_libraries_for/)
-- [Is there any way to know what's causing my app to crash for a certain user?](https://www.reddit.com/r/androiddev/comments/lpxtpc/is_there_any_way_to_know_whats_causing_my_app_to/)
-- [My app is being spammed daily with five-star reviews with publicity in Chinese. Can I get into trouble?](https://www.reddit.com/r/androiddev/comments/lpvklx/my_app_is_being_spammed_daily_with_fivestar/)
-- [Android 12 Beta Cisco AnyConnect users: OpenConnect works!](https://www.reddit.com/r/androiddev/comments/lpu5pk/android_12_beta_cisco_anyconnect_users/)
+- [Youtube Player API: How to set it up in the cloud console?](https://www.reddit.com/r/androiddev/comments/lqzbxv/youtube_player_api_how_to_set_it_up_in_the_cloud/)
+- [If I wanted to have my app UI rated or constructively criticized, where is the best place that you recommend that I go?](https://www.reddit.com/r/androiddev/comments/lqv5tx/if_i_wanted_to_have_my_app_ui_rated_or/)
+- [What is this documentationgore trying to say?](https://www.reddit.com/r/androiddev/comments/lqtuw5/what_is_this_documentationgore_trying_to_say/)
+- [Block an app for a while](https://www.reddit.com/r/androiddev/comments/lqtbez/block_an_app_for_a_while/)
+- [in-app photo gallery as a part of a form solutions?](https://www.reddit.com/r/androiddev/comments/lqs32u/inapp_photo_gallery_as_a_part_of_a_form_solutions/)
+- [On Google's Playstore Policies](https://www.reddit.com/r/androiddev/comments/lqrcmh/on_googles_playstore_policies/)
+- [Web based chat server that can be hosted from the phone](https://www.reddit.com/r/androiddev/comments/lqqy6u/web_based_chat_server_that_can_be_hosted_from_the/)
+- [Architecture of deploying AR filters (Snap Lens and Spark AR)](https://www.reddit.com/r/androiddev/comments/lqqiok/architecture_of_deploying_ar_filters_snap_lens/)
+- [Is SQlite good for an app which has multiple user interactions?](https://www.reddit.com/r/androiddev/comments/lqqggt/is_sqlite_good_for_an_app_which_has_multiple_user/)
+- [Release notes of Google Play Services](https://www.reddit.com/r/androiddev/comments/lqqa9f/release_notes_of_google_play_services/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
