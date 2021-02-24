@@ -326,6 +326,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Maps Dark Mode and More Useful Android Features Are Rolling Out Today](https://gizmodo.com/google-maps-dark-mode-and-more-useful-android-features-1846336221)
 - [Chromecast With Google TV Really Is Perfect Now, Huh?](https://gizmodo.com/chromecast-with-google-tv-really-is-perfect-now-huh-1846299585)
 - [The First Android 12 Developer Beta Is Here](https://gizmodo.com/the-first-android-12-developer-beta-is-here-1846297730)
 - [Google Maps Adds Tools to Pay for Parking and Transit in App](https://gizmodo.com/google-maps-adds-tools-to-pay-for-parking-and-transit-i-1846287281)
@@ -335,7 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google Pays News Platforms in Australia to Prove No Law Is Needed to Make It Pay News Platforms](https://gizmodo.com/google-pays-news-platforms-in-australia-to-prove-no-law-1846204661)
 - [You Need to Update Chrome Right Now](https://gizmodo.com/you-need-to-update-chrome-right-now-1846204474)
 - [Google Wants to Beat Apple at Its Own Game](https://gizmodo.com/google-wants-to-beat-apple-at-its-own-game-1846200242)
-- [Google Just Turned Your Phone's Camera Into a Weirdly Advanced Health Tracker](https://gizmodo.com/google-just-turned-your-phones-camera-into-a-weirdly-ad-1846194952)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
