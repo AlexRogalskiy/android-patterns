@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [[Android] WorkManager 2.5.0 스테이블 릴리즈 변경 사항](https://medium.com/kenneth-android/jetpack-workmanager-2-5-0-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%B3%80%EA%B2%BD-%EC%82%AC%ED%95%AD-70d238d43bd3?source=rss------android-5)
-- [Rotation examples with Flutter Transform widget (Part I)](https://medium.com/killer-flutter/rotation-examples-with-flutter-transform-widget-part-i-bb65b43d5b82?source=rss------android-5)
-- [Android Firmware vulnerabilities: Exposing the threats](https://medium.com/@nsnyori/android-firmware-vulnerabilities-exposing-the-threats-9899283497e7?source=rss------android-5)
-- [The Path to Associate Kotlin/Android Developer](https://medium.com/@albarqawi/the-path-to-associate-kotlin-android-developer-b775f121ebaa?source=rss------android-5)
-- [Radio Buttons, A New Appearance](https://medium.com/@hussien-fahmy98/radio-buttons-a-new-appearance-3e94c4fb0a53?source=rss------android-5)
-- [Construindo uma Bottom Navigation com Kotlin e Android JetPack](https://medium.com/@lbeurmann/construindo-uma-bottom-navigation-com-kotlin-e-android-jetpack-12e947a887cb?source=rss------android-5)
-- [AOSP](https://medium.com/@divyaparashar/aosp-84764fa89e87?source=rss------android-5)
-- [SOLID: Um assunto necessário | Parte 2](https://medium.com/@souzaaline/solid-um-assunto-necess%C3%A1rio-parte-2-4b74394d02af?source=rss------android-5)
-- [Android TV Voice Search](https://medium.com/@ayushigupta-2225/android-tv-voice-search-4c040b8f043d?source=rss------android-5)
-- [App básica de traducción con Huawei ML Kit](https://medium.com/@huawei-latinoamerica/app-b%C3%A1sica-de-traducci%C3%B3n-con-huawei-ml-kit-33e2d38fb3b6?source=rss------android-5)
+- [3 Flutter Tips To Be More Productive](https://medium.com/@jelenajjovanoski/3-flutter-tips-to-be-more-productive-d10d8efb146e?source=rss------android-5)
+- [Rewriting Firebase RemoteConfig](https://medium.com/@giuseppegiacoppo/rewriting-firebase-remoteconfig-b831e86247c8?source=rss------android-5)
+- [Hello!](https://medium.com/@javi.sfh/hello-def15e58665e?source=rss------android-5)
+- [Constraint Layout 2.0](https://medium.com/@emre-arslan/constraint-layout-2-0-98df8c74856b?source=rss------android-5)
+- [Stop refactoring. Kotlin. Android.](https://medium.com/@pavlovskiiilia/stop-refactoring-kotlin-android-581bb05f005?source=rss------android-5)
+- [Creating Memory-Constrained Bitmaps with Glide](https://medium.com/@rohan-saigaonkar97/creating-memory-constrained-bitmaps-with-glide-61af9a2737e1?source=rss------android-5)
+- [JvmSuppressWildcards: The secret sauce to your sandwich-style generics](https://medium.com/@chao2zhang/jvmsuppresswildcards-the-secret-sauce-to-your-sandwich-style-generics-b0093aa5979d?source=rss------android-5)
+- [App Signature helper class (Kotlin)](https://medium.com/@appcaesars/app-signature-helper-class-kotlin-8a6e90f2371?source=rss------android-5)
+- [Why I Love Flutter as a React Developer](https://betterprogramming.pub/why-i-love-flutter-as-a-react-developer-b0f86773b01f?source=rss------android-5)
+- [Android modularization](https://medium.com/makingtuenti/android-modularization-783231543748?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
