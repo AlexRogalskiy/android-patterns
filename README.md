@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Youtube Player API: How to set it up in the cloud console?](https://www.reddit.com/r/androiddev/comments/lqzbxv/youtube_player_api_how_to_set_it_up_in_the_cloud/)
-- [If I wanted to have my app UI rated or constructively criticized, where is the best place that you recommend that I go?](https://www.reddit.com/r/androiddev/comments/lqv5tx/if_i_wanted_to_have_my_app_ui_rated_or/)
-- [What is this documentationgore trying to say?](https://www.reddit.com/r/androiddev/comments/lqtuw5/what_is_this_documentationgore_trying_to_say/)
-- [Block an app for a while](https://www.reddit.com/r/androiddev/comments/lqtbez/block_an_app_for_a_while/)
-- [in-app photo gallery as a part of a form solutions?](https://www.reddit.com/r/androiddev/comments/lqs32u/inapp_photo_gallery_as_a_part_of_a_form_solutions/)
-- [On Google's Playstore Policies](https://www.reddit.com/r/androiddev/comments/lqrcmh/on_googles_playstore_policies/)
-- [Web based chat server that can be hosted from the phone](https://www.reddit.com/r/androiddev/comments/lqqy6u/web_based_chat_server_that_can_be_hosted_from_the/)
-- [Architecture of deploying AR filters (Snap Lens and Spark AR)](https://www.reddit.com/r/androiddev/comments/lqqiok/architecture_of_deploying_ar_filters_snap_lens/)
-- [Is SQlite good for an app which has multiple user interactions?](https://www.reddit.com/r/androiddev/comments/lqqggt/is_sqlite_good_for_an_app_which_has_multiple_user/)
-- [Release notes of Google Play Services](https://www.reddit.com/r/androiddev/comments/lqqa9f/release_notes_of_google_play_services/)
+- [Play store review time](https://www.reddit.com/r/androiddev/comments/lrq3o3/play_store_review_time/)
+- [Dependency Injection, Data structures VS objects!](https://www.reddit.com/r/androiddev/comments/lrmag4/dependency_injection_data_structures_vs_objects/)
+- [Google's Android Development Issues](https://www.reddit.com/r/androiddev/comments/lrm4wd/googles_android_development_issues/)
+- [Android Studio Arctic Fox Canary 8 available](https://www.reddit.com/r/androiddev/comments/lrj6kh/android_studio_arctic_fox_canary_8_available/)
+- [How are you handling CCPA?](https://www.reddit.com/r/androiddev/comments/lrj38g/how_are_you_handling_ccpa/)
+- [Kotlin: Rendering in Android & iOS](https://www.reddit.com/r/androiddev/comments/lrim5u/kotlin_rendering_in_android_ios/)
+- [Android Dev Challenge: lift off with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/lrievk/android_dev_challenge_lift_off_with_jetpack/)
+- [Announcing Jetpack Compose Beta!](https://www.reddit.com/r/androiddev/comments/lridym/announcing_jetpack_compose_beta/)
+- [Jetpack Compose is now in Beta](https://www.reddit.com/r/androiddev/comments/lrhq9l/jetpack_compose_is_now_in_beta/)
+- [Nested recyclers done right!](https://www.reddit.com/r/androiddev/comments/lrhmog/nested_recyclers_done_right/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
