@@ -311,16 +311,14 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [3 Flutter Tips To Be More Productive](https://medium.com/@jelenajjovanoski/3-flutter-tips-to-be-more-productive-d10d8efb146e?source=rss------android-5)
-- [Rewriting Firebase RemoteConfig](https://medium.com/@giuseppegiacoppo/rewriting-firebase-remoteconfig-b831e86247c8?source=rss------android-5)
-- [Hello!](https://medium.com/@javi.sfh/hello-def15e58665e?source=rss------android-5)
-- [Constraint Layout 2.0](https://medium.com/@emre-arslan/constraint-layout-2-0-98df8c74856b?source=rss------android-5)
-- [Stop refactoring. Kotlin. Android.](https://medium.com/@pavlovskiiilia/stop-refactoring-kotlin-android-581bb05f005?source=rss------android-5)
-- [Creating Memory-Constrained Bitmaps with Glide](https://medium.com/@rohan-saigaonkar97/creating-memory-constrained-bitmaps-with-glide-61af9a2737e1?source=rss------android-5)
-- [JvmSuppressWildcards: The secret sauce to your sandwich-style generics](https://medium.com/@chao2zhang/jvmsuppresswildcards-the-secret-sauce-to-your-sandwich-style-generics-b0093aa5979d?source=rss------android-5)
-- [App Signature helper class (Kotlin)](https://medium.com/@appcaesars/app-signature-helper-class-kotlin-8a6e90f2371?source=rss------android-5)
-- [Why I Love Flutter as a React Developer](https://betterprogramming.pub/why-i-love-flutter-as-a-react-developer-b0f86773b01f?source=rss------android-5)
-- [Android modularization](https://medium.com/makingtuenti/android-modularization-783231543748?source=rss------android-5)
+- [Easy way to use Custom Fonts in Android WebViews](https://medium.com/@tiagoreul/easy-way-to-use-custom-fonts-in-android-webviews-6c727af9f2f8?source=rss------android-5)
+- [Android app quality standards according to Google](https://medium.com/@badrkouki/android-app-quality-standards-according-to-google-5144137735b7?source=rss------android-5)
+- [YouTube Rolls Out 4K Video Support for All Android Devices](https://medium.com/@johnjack1211/youtube-rolls-out-4k-video-support-for-all-android-devices-2c23de2842c6?source=rss------android-5)
+- [What is Flat Droid](https://medium.com/@flatdroid/what-is-flat-droid-141251314bb4?source=rss------android-5)
+- [Swipe To Dismiss Android RecyclerView Items Using Kotlin](https://betterprogramming.pub/swipe-to-dismiss-android-recyclerview-items-using-kotlin-95ca20cfb812?source=rss------android-5)
+- [The starting point on writing secure mobile apps](https://medium.com/@kmpnz/the-starting-point-on-writing-secure-mobile-apps-91992b703387?source=rss------android-5)
+- [Android的依賴注入－Hilt函式庫](https://medium.com/@jimmy4302001/android%E7%9A%84%E4%BE%9D%E8%B3%B4%E6%B3%A8%E5%85%A5-hilt%E5%87%BD%E5%BC%8F%E5%BA%AB-2514c1f2fa65?source=rss------android-5)
+- [MVVM x MVP](https://medium.com/@souzaaline/mvvm-x-mvp-269b43a2c5e7?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
