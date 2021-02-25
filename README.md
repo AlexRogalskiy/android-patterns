@@ -324,6 +324,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [How Android's Nearby Share Compares to Apple's AirDrop](https://gizmodo.com/how-androids-nearby-share-compares-to-apples-airdrop-1846315959)
 - [Google Maps Dark Mode and More Useful Android Features Are Rolling Out Today](https://gizmodo.com/google-maps-dark-mode-and-more-useful-android-features-1846336221)
 - [Chromecast With Google TV Really Is Perfect Now, Huh?](https://gizmodo.com/chromecast-with-google-tv-really-is-perfect-now-huh-1846299585)
 - [The First Android 12 Developer Beta Is Here](https://gizmodo.com/the-first-android-12-developer-beta-is-here-1846297730)
@@ -333,7 +334,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Barcode-Scanning App for Android Pushed Malware Onto Millions of Phones](https://gizmodo.com/barcode-scanning-app-for-android-pushed-malware-onto-mi-1846221452)
 - [Google Pays News Platforms in Australia to Prove No Law Is Needed to Make It Pay News Platforms](https://gizmodo.com/google-pays-news-platforms-in-australia-to-prove-no-law-1846204661)
 - [You Need to Update Chrome Right Now](https://gizmodo.com/you-need-to-update-chrome-right-now-1846204474)
-- [Google Wants to Beat Apple at Its Own Game](https://gizmodo.com/google-wants-to-beat-apple-at-its-own-game-1846200242)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
