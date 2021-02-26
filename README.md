@@ -326,6 +326,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Don't Do It, Samsung](https://gizmodo.com/dont-do-it-samsung-1846355099)
+- [Google's Live Caption Tool Is Now Available as a Hidden Feature in Chrome](https://gizmodo.com/googles-live-caption-tool-is-now-available-as-a-hidden-1846353693)
 - [How Android's Nearby Share Compares to Apple's AirDrop](https://gizmodo.com/how-androids-nearby-share-compares-to-apples-airdrop-1846315959)
 - [Google Maps Dark Mode and More Useful Android Features Are Rolling Out Today](https://gizmodo.com/google-maps-dark-mode-and-more-useful-android-features-1846336221)
 - [Chromecast With Google TV Really Is Perfect Now, Huh?](https://gizmodo.com/chromecast-with-google-tv-really-is-perfect-now-huh-1846299585)
@@ -334,8 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [A Hugely Popular File-Sharing Android App Also Has Giant, Terrible Security Flaws](https://gizmodo.com/a-hugely-popular-file-sharing-android-app-also-has-gian-1846276723)
 - [Leaked Android 12 Screenshots Show Some iOS-Like Changes Coming](https://gizmodo.com/leaked-android-12-screenshots-show-some-ios-like-change-1846229701)
 - [Barcode-Scanning App for Android Pushed Malware Onto Millions of Phones](https://gizmodo.com/barcode-scanning-app-for-android-pushed-malware-onto-mi-1846221452)
-- [Google Pays News Platforms in Australia to Prove No Law Is Needed to Make It Pay News Platforms](https://gizmodo.com/google-pays-news-platforms-in-australia-to-prove-no-law-1846204661)
-- [You Need to Update Chrome Right Now](https://gizmodo.com/you-need-to-update-chrome-right-now-1846204474)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
