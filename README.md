@@ -311,14 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Easy way to use Custom Fonts in Android WebViews](https://medium.com/@tiagoreul/easy-way-to-use-custom-fonts-in-android-webviews-6c727af9f2f8?source=rss------android-5)
-- [Android app quality standards according to Google](https://medium.com/@badrkouki/android-app-quality-standards-according-to-google-5144137735b7?source=rss------android-5)
-- [YouTube Rolls Out 4K Video Support for All Android Devices](https://medium.com/@johnjack1211/youtube-rolls-out-4k-video-support-for-all-android-devices-2c23de2842c6?source=rss------android-5)
-- [What is Flat Droid](https://medium.com/@flatdroid/what-is-flat-droid-141251314bb4?source=rss------android-5)
-- [Swipe To Dismiss Android RecyclerView Items Using Kotlin](https://betterprogramming.pub/swipe-to-dismiss-android-recyclerview-items-using-kotlin-95ca20cfb812?source=rss------android-5)
-- [The starting point on writing secure mobile apps](https://medium.com/@kmpnz/the-starting-point-on-writing-secure-mobile-apps-91992b703387?source=rss------android-5)
-- [Android的依賴注入－Hilt函式庫](https://medium.com/@jimmy4302001/android%E7%9A%84%E4%BE%9D%E8%B3%B4%E6%B3%A8%E5%85%A5-hilt%E5%87%BD%E5%BC%8F%E5%BA%AB-2514c1f2fa65?source=rss------android-5)
-- [MVVM x MVP](https://medium.com/@souzaaline/mvvm-x-mvp-269b43a2c5e7?source=rss------android-5)
+- [Managing threads in RxJava](https://medium.com/@wiacekdawid/managing-threads-in-rxjava-7952e1673628?source=rss------android-5)
+- [Exsent-Project: Create your own functions](https://medium.com/@valentinahrend123/exsent-project-create-your-own-functions-cf718e65aae9?source=rss------android-5)
+- [Android Inter-Process Communication (IPC) — it’s biggest limitation?](https://medium.com/@chathura-sarathchandra/android-inter-process-communication-ipc-its-biggest-limitation-1c2d43189454?source=rss------android-5)
+- [PUBG Mobile New State Launched | Pre-Registration Started](https://medium.com/@smarttecksolutions/pubg-mobile-new-state-launched-pre-registration-started-5d1c2f59fca4?source=rss------android-5)
+- [EyeAttend – Facial Recognition based Attendance System from scratch.](https://medium.com/analytics-vidhya/eyeattend-facial-recognition-based-attendance-system-from-scratch-c93dbab8c17?source=rss------android-5)
+- [Холодный запуск Android приложения](https://medium.com/maddevs-io/holodnyj-zapusk-android-prilozheniya-8e6e8d1823f5?source=rss------android-5)
+- [How can everyone benefit in a new economy with paid jobs for only a few?](https://medium.com/@helena-tangden/how-can-everyone-benefit-in-a-new-economy-with-paid-jobs-for-only-a-few-ae69d95b5265?source=rss------android-5)
+- [Storybook for Mobile Applications](https://medium.com/@adil-malik/storybook-for-mobile-applications-97e3a229fb3c?source=rss------android-5)
+- [Unit Testing with Kotlin Coroutines: The Android Way](https://medium.com/swlh/unit-testing-with-kotlin-coroutines-the-android-way-19289838d257?source=rss------android-5)
+- [How to use Genymotion Image (Android Virtual Devices) on Cloud providers for Demo or Training use…](https://medium.com/genymobile/provide-demo-and-training-on-android-virtual-devices-using-genymotion-device-image-paas-ac46edc7f83d?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
