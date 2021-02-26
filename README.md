@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Play store review time](https://www.reddit.com/r/androiddev/comments/lrq3o3/play_store_review_time/)
-- [Dependency Injection, Data structures VS objects!](https://www.reddit.com/r/androiddev/comments/lrmag4/dependency_injection_data_structures_vs_objects/)
-- [Google's Android Development Issues](https://www.reddit.com/r/androiddev/comments/lrm4wd/googles_android_development_issues/)
-- [Android Studio Arctic Fox Canary 8 available](https://www.reddit.com/r/androiddev/comments/lrj6kh/android_studio_arctic_fox_canary_8_available/)
-- [How are you handling CCPA?](https://www.reddit.com/r/androiddev/comments/lrj38g/how_are_you_handling_ccpa/)
-- [Kotlin: Rendering in Android & iOS](https://www.reddit.com/r/androiddev/comments/lrim5u/kotlin_rendering_in_android_ios/)
-- [Android Dev Challenge: lift off with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/lrievk/android_dev_challenge_lift_off_with_jetpack/)
-- [Announcing Jetpack Compose Beta!](https://www.reddit.com/r/androiddev/comments/lridym/announcing_jetpack_compose_beta/)
-- [Jetpack Compose is now in Beta](https://www.reddit.com/r/androiddev/comments/lrhq9l/jetpack_compose_is_now_in_beta/)
-- [Nested recyclers done right!](https://www.reddit.com/r/androiddev/comments/lrhmog/nested_recyclers_done_right/)
+- [Dagger Hilt is now in beta (v2.33)!](https://www.reddit.com/r/androiddev/comments/lsm61x/dagger_hilt_is_now_in_beta_v233/)
+- [[RANT] Why do we have to upgrade to android billing v3?](https://www.reddit.com/r/androiddev/comments/lsfecj/rant_why_do_we_have_to_upgrade_to_android_billing/)
+- [Update to Google Play Billing Library 3 by November!](https://www.reddit.com/r/androiddev/comments/lsexav/update_to_google_play_billing_library_3_by/)
+- [What are some good Android books or resources for interview prep?](https://www.reddit.com/r/androiddev/comments/lsew4x/what_are_some_good_android_books_or_resources_for/)
+- [Android Google assistant with actions and slices](https://www.reddit.com/r/androiddev/comments/lsdgp6/android_google_assistant_with_actions_and_slices/)
+- [Chet Haase: The State of Kotlin on Android (Online Event Tonight Feb. 25th)](https://www.reddit.com/r/androiddev/comments/lsc3l4/chet_haase_the_state_of_kotlin_on_android_online/)
+- [Resources on process of / best practises in designing the architecture of your app](https://www.reddit.com/r/androiddev/comments/lsbvqu/resources_on_process_of_best_practises_in/)
+- [I wrote a Kotlin based Library to help with ViewBinding. Any feedback is welcome.](https://www.reddit.com/r/androiddev/comments/lsbsfi/i_wrote_a_kotlin_based_library_to_help_with/)
+- [[D] Entity Extraction with ML Kit](https://www.reddit.com/r/androiddev/comments/lsapan/d_entity_extraction_with_ml_kit/)
+- [Composing a Design System](https://www.reddit.com/r/androiddev/comments/lsafef/composing_a_design_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
