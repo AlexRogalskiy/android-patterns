@@ -281,6 +281,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [Android 12 developer preview: Everything developers need to know](https://www.androidauthority.com/android-12-preview-for-devs-1203675/)
+- [How to use if statements in Python](https://www.androidauthority.com/how-to-use-if-statements-in-python-1148498/)
 - [What is Google Cloud certification and should I get it?](https://www.androidauthority.com/google-cloud-certification-1164349/)
 - [How to create a file in Python and more](https://www.androidauthority.com/how-to-create-a-file-in-python-1136935/)
 - [How to create an array in Java](https://www.androidauthority.com/how-to-create-an-array-in-java-1151277/)
@@ -289,8 +291,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Kivy Python tutorial: Build attractive mobile apps in Python!](https://www.androidauthority.com/kivy-python-tutorial-build-attractive-mobile-apps-in-python-1142003/)
 - [The best Google Cloud courses to future-proof your resume](https://www.androidauthority.com/best-google-cloud-courses-1165111/)
 - [How to use dictionaries in Python](https://www.androidauthority.com/how-to-add-to-a-dictionary-python-1136937/)
-- [How to enable Developer mode on a Chromebook in just a few minutes?](https://www.androidauthority.com/how-to-enable-developer-mode-on-a-chromebook-906688/)
-- [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
