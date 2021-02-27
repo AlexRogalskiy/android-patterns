@@ -256,6 +256,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google Jetpack Compose Android UI toolkit now in beta](https://www.infoworld.com/article/3609830/google-jetpack-compose-android-ui-toolkit-now-in-beta.html#tk.rss_android)
 - [Android 12 developer preview bolsters privacy, user experience](https://www.infoworld.com/article/3608937/android-12-developer-preview-bolsters-privacy-user-experience.html#tk.rss_android)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
 - [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
@@ -265,7 +266,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Android Studio 4.0 adds Motion Editor and Build Analyzer](https://www.infoworld.com/article/3561230/android-studio-40-adds-motion-editor-and-build-analyzer.html#tk.rss_android)
 - [Amid the pandemic, using trust to fight shadow IT](https://www.computerworld.com/article/3544301/amid-the-pandemic-using-trust-to-fight-shadow-it.html#tk.rss_android)
 - [How smartphone apps could save lives (and the economy)](https://www.idginsiderpro.com/article/3537532/how-smartphone-apps-could-save-lives-and-the-economy.html#tk.rss_android)
-- [What is Kotlin? The Java alternative explained](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _RedHat posts_
