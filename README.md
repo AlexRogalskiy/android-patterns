@@ -282,6 +282,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
 - [Android 12 developer preview: Everything developers need to know](https://www.androidauthority.com/android-12-preview-for-devs-1203675/)
+- [Scoped storage tutorial for Android Studio](https://www.androidauthority.com/scoped-storage-tutorial-1204124/)
 - [How to use if statements in Python](https://www.androidauthority.com/how-to-use-if-statements-in-python-1148498/)
 - [What is Google Cloud certification and should I get it?](https://www.androidauthority.com/google-cloud-certification-1164349/)
 - [How to create a file in Python and more](https://www.androidauthority.com/how-to-create-a-file-in-python-1136935/)
@@ -290,7 +291,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [How to use arrays in Python](https://www.androidauthority.com/arrays-in-python-1149422/)
 - [Kivy Python tutorial: Build attractive mobile apps in Python!](https://www.androidauthority.com/kivy-python-tutorial-build-attractive-mobile-apps-in-python-1142003/)
 - [The best Google Cloud courses to future-proof your resume](https://www.androidauthority.com/best-google-cloud-courses-1165111/)
-- [How to use dictionaries in Python](https://www.androidauthority.com/how-to-add-to-a-dictionary-python-1136937/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
