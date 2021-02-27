@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dagger Hilt is now in beta (v2.33)!](https://www.reddit.com/r/androiddev/comments/lsm61x/dagger_hilt_is_now_in_beta_v233/)
-- [[RANT] Why do we have to upgrade to android billing v3?](https://www.reddit.com/r/androiddev/comments/lsfecj/rant_why_do_we_have_to_upgrade_to_android_billing/)
-- [Update to Google Play Billing Library 3 by November!](https://www.reddit.com/r/androiddev/comments/lsexav/update_to_google_play_billing_library_3_by/)
-- [What are some good Android books or resources for interview prep?](https://www.reddit.com/r/androiddev/comments/lsew4x/what_are_some_good_android_books_or_resources_for/)
-- [Android Google assistant with actions and slices](https://www.reddit.com/r/androiddev/comments/lsdgp6/android_google_assistant_with_actions_and_slices/)
-- [Chet Haase: The State of Kotlin on Android (Online Event Tonight Feb. 25th)](https://www.reddit.com/r/androiddev/comments/lsc3l4/chet_haase_the_state_of_kotlin_on_android_online/)
-- [Resources on process of / best practises in designing the architecture of your app](https://www.reddit.com/r/androiddev/comments/lsbvqu/resources_on_process_of_best_practises_in/)
-- [I wrote a Kotlin based Library to help with ViewBinding. Any feedback is welcome.](https://www.reddit.com/r/androiddev/comments/lsbsfi/i_wrote_a_kotlin_based_library_to_help_with/)
-- [[D] Entity Extraction with ML Kit](https://www.reddit.com/r/androiddev/comments/lsapan/d_entity_extraction_with_ml_kit/)
-- [Composing a Design System](https://www.reddit.com/r/androiddev/comments/lsafef/composing_a_design_system/)
+- [I this a good game for Android or should I start new one](https://www.reddit.com/r/androiddev/comments/ltcl1h/i_this_a_good_game_for_android_or_should_i_start/)
+- [clubhouse android version](https://www.reddit.com/r/androiddev/comments/lt5a1h/clubhouse_android_version/)
+- [Another "unexpected error has occurred" thread](https://www.reddit.com/r/androiddev/comments/lt4x8p/another_unexpected_error_has_occurred_thread/)
+- [Weekly Anything Goes Thread - February 26, 2021](https://www.reddit.com/r/androiddev/comments/lsy86n/weekly_anything_goes_thread_february_26_2021/)
+- [Newbie Angular dev trying to understand Android services](https://www.reddit.com/r/androiddev/comments/lsxyhp/newbie_angular_dev_trying_to_understand_android/)
+- [[Library] A custom ImageView with some loading effects](https://www.reddit.com/r/androiddev/comments/lsxdgd/library_a_custom_imageview_with_some_loading/)
+- [Learning Android for newcomers](https://www.reddit.com/r/androiddev/comments/lswie5/learning_android_for_newcomers/)
+- [New Android Sleep API](https://www.reddit.com/r/androiddev/comments/lswf0d/new_android_sleep_api/)
+- [I want to view how my app looks like on a mobile phone by using a Samsung S10+. What steps do I need to complete to do so?](https://www.reddit.com/r/androiddev/comments/lsv6be/i_want_to_view_how_my_app_looks_like_on_a_mobile/)
+- [Dynamic Code Loading in Android](https://www.reddit.com/r/androiddev/comments/lsu18q/dynamic_code_loading_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
