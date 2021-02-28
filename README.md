@@ -325,6 +325,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [The Flatcat Can't Even Walk, but It's Instantly the Creepiest Robot I've Ever Seen](https://gizmodo.com/the-flatcat-cant-even-walk-but-its-instantly-the-creep-1846366550)
 - [Don't Do It, Samsung](https://gizmodo.com/dont-do-it-samsung-1846355099)
 - [Google's Live Caption Tool Is Now Available as a Hidden Feature in Chrome](https://gizmodo.com/googles-live-caption-tool-is-now-available-as-a-hidden-1846353693)
 - [How Android's Nearby Share Compares to Apple's AirDrop](https://gizmodo.com/how-androids-nearby-share-compares-to-apples-airdrop-1846315959)
@@ -334,7 +335,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google Maps Adds Tools to Pay for Parking and Transit in App](https://gizmodo.com/google-maps-adds-tools-to-pay-for-parking-and-transit-i-1846287281)
 - [A Hugely Popular File-Sharing Android App Also Has Giant, Terrible Security Flaws](https://gizmodo.com/a-hugely-popular-file-sharing-android-app-also-has-gian-1846276723)
 - [Leaked Android 12 Screenshots Show Some iOS-Like Changes Coming](https://gizmodo.com/leaked-android-12-screenshots-show-some-ios-like-change-1846229701)
-- [Barcode-Scanning App for Android Pushed Malware Onto Millions of Phones](https://gizmodo.com/barcode-scanning-app-for-android-pushed-malware-onto-mi-1846221452)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
