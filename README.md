@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [I this a good game for Android or should I start new one](https://www.reddit.com/r/androiddev/comments/ltcl1h/i_this_a_good_game_for_android_or_should_i_start/)
-- [clubhouse android version](https://www.reddit.com/r/androiddev/comments/lt5a1h/clubhouse_android_version/)
-- [Another "unexpected error has occurred" thread](https://www.reddit.com/r/androiddev/comments/lt4x8p/another_unexpected_error_has_occurred_thread/)
-- [Weekly Anything Goes Thread - February 26, 2021](https://www.reddit.com/r/androiddev/comments/lsy86n/weekly_anything_goes_thread_february_26_2021/)
-- [Newbie Angular dev trying to understand Android services](https://www.reddit.com/r/androiddev/comments/lsxyhp/newbie_angular_dev_trying_to_understand_android/)
-- [[Library] A custom ImageView with some loading effects](https://www.reddit.com/r/androiddev/comments/lsxdgd/library_a_custom_imageview_with_some_loading/)
-- [Learning Android for newcomers](https://www.reddit.com/r/androiddev/comments/lswie5/learning_android_for_newcomers/)
-- [New Android Sleep API](https://www.reddit.com/r/androiddev/comments/lswf0d/new_android_sleep_api/)
-- [I want to view how my app looks like on a mobile phone by using a Samsung S10+. What steps do I need to complete to do so?](https://www.reddit.com/r/androiddev/comments/lsv6be/i_want_to_view_how_my_app_looks_like_on_a_mobile/)
-- [Dynamic Code Loading in Android](https://www.reddit.com/r/androiddev/comments/lsu18q/dynamic_code_loading_in_android/)
+- [Starting the Android Emulator degrade Bluetooth audio issue.](https://www.reddit.com/r/androiddev/comments/lu25eb/starting_the_android_emulator_degrade_bluetooth/)
+- [How Approachable Is Compose For Beginners/Juniors?](https://www.reddit.com/r/androiddev/comments/lu0spx/how_approachable_is_compose_for_beginnersjuniors/)
+- [Video recording using Android phone](https://www.reddit.com/r/androiddev/comments/ltz0ad/video_recording_using_android_phone/)
+- [Best practices for using guidelines](https://www.reddit.com/r/androiddev/comments/ltxspc/best_practices_for_using_guidelines/)
+- [When should you use native icons, and when should you use custom icons?](https://www.reddit.com/r/androiddev/comments/ltxkwj/when_should_you_use_native_icons_and_when_should/)
+- [Should I start to Leetcode before applying for my next Android Dev Job?](https://www.reddit.com/r/androiddev/comments/ltwv8h/should_i_start_to_leetcode_before_applying_for_my/)
+- [Recreating Among Us - Admin Swipe Card in React Native ⚛️](https://www.reddit.com/r/androiddev/comments/ltwoge/recreating_among_us_admin_swipe_card_in_react/)
+- [Cannot find "Sync Now" or "Sync project with gradle" option for android studio 4.1.2](https://www.reddit.com/r/androiddev/comments/ltud7f/cannot_find_sync_now_or_sync_project_with_gradle/)
+- [Google Play Payments policy](https://www.reddit.com/r/androiddev/comments/ltt96l/google_play_payments_policy/)
+- [The path to learn Kotlin and earn your official Android developer certificate](https://www.reddit.com/r/androiddev/comments/ltsg4k/the_path_to_learn_kotlin_and_earn_your_official/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
