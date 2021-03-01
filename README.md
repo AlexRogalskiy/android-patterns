@@ -311,15 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Cara Install Dan Download GTA SA LITE Mod Drag Best Graphics Full HD](https://medium.com/@reviewgames/cara-install-dan-download-gta-sa-lite-mod-drag-best-graphics-full-hd-9f87fc932b45?source=rss------android-5)
-- [تحميل لعبة FTS 2022 مهكرة للاندرويد آخر اصدار](https://medium.com/@androkim.net/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%84%D8%B9%D8%A8%D8%A9-fts-2022-%D9%85%D9%87%D9%83%D8%B1%D8%A9-%D9%84%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-%D8%A2%D8%AE%D8%B1-%D8%A7%D8%B5%D8%AF%D8%A7%D8%B1-20eeae833de6?source=rss------android-5)
-- [The 10 Best Reminder Apps For Android 2021](https://medium.com/@nerdmaniac1594/the-10-best-reminder-apps-for-android-2021-3229ab98c803?source=rss------android-5)
-- [Layouts en Xamarin Forms](https://medium.com/@alemandiego/layouts-en-xamarin-forms-6fa792edf8a0?source=rss------android-5)
-- [CALVOCAST EP013](https://medium.com/calvocast/calvocast-ep013-ed833c82ca5b?source=rss------android-5)
-- [Upload files to Amazon S3 with Bitrise in a few steps](https://proandroiddev.com/upload-files-to-amazon-s3-with-bitrise-in-a-few-steps-f990e38e9665?source=rss------android-5)
-- [طريقة الحصول على فري فاير مهكرة جواهر 2022](https://medium.com/@androkim.net/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D9%81%D8%B1%D9%8A-%D9%81%D8%A7%D9%8A%D8%B1-%D9%85%D9%87%D9%83%D8%B1%D8%A9-%D8%AC%D9%88%D8%A7%D9%87%D8%B1-2022-32b77c92874b?source=rss------android-5)
-- [Facebook finally lets you see who saw your profile](https://medium.com/@rautyogesh13/facebook-finally-lets-you-see-who-saw-your-profile-2acf60f3867?source=rss------android-5)
-- [Write custom Android/Kotlin linting rules like a Psi-chic!](https://medium.com/@jasondhl/write-custom-android-kotlin-linting-rules-like-a-psi-chic-e081e032da2f?source=rss------android-5)
+- [Intermediate: Integration of Huawei Push kit in Flutter](https://medium.com/@basavarajnavi/intermediate-integration-of-huawei-push-kit-in-flutter-689c1de50c2b?source=rss------android-5)
+- [Jetpack Compose: Testei, apanhei e aprendi!](https://medium.com/fretebras-tech/jetpack-compose-testei-apanhei-e-aprendi-9a26b370e61a?source=rss------android-5)
+- [Chat bubble widget for flutter](https://medium.com/@arkapp/chat-bubble-widget-for-flutter-95d3bb82ddd8?source=rss------android-5)
+- [La storia di un blog di tecnologia italiano: GExperience.it](https://medium.com/@zanettinandrea/la-storia-di-un-blog-di-tecnologia-italiano-gexperience-it-311fee0ca443?source=rss------android-5)
+- [10 Best Apps to Remote Control Windows PC With Android](https://medium.com/@webs360/10-best-apps-to-remote-control-windows-pc-with-android-868ff6b9971c?source=rss------android-5)
+- [iPhone vs Android — A Personal Perspective](https://medium.com/@ksmgjg/iphone-vs-android-a-personal-perspective-7c9f0052f9eb?source=rss------android-5)
+- [Ini 6 Fitur Baru Android Yang Dirilis Google](https://medium.com/@kutiper/ini-6-fitur-baru-android-yang-dirilis-google-c24542e2f169?source=rss------android-5)
+- [How to call Android functions from JavaScript](https://medium.com/@beniaminpantiru/how-to-call-android-functions-from-javascript-3f7628340374?source=rss------android-5)
+- [[Exclusive] American Gods Series 3, (Episode 7) American Gods S3-E7 On Starz!](https://medium.com/american-gods-starz-series-3-episode-7/exclusive-american-gods-series-3-episode-7-american-gods-s3-e7-on-starz-b1428c665f22?source=rss------android-5)
+- [How to make an Music Player App using Android Studio](https://medium.com/@kourloskostas/how-to-make-an-music-player-app-using-android-studio-2fbdb47980f3?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
