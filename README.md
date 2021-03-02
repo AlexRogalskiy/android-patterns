@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Intermediate: Integration of Huawei Push kit in Flutter](https://medium.com/@basavarajnavi/intermediate-integration-of-huawei-push-kit-in-flutter-689c1de50c2b?source=rss------android-5)
-- [Jetpack Compose: Testei, apanhei e aprendi!](https://medium.com/fretebras-tech/jetpack-compose-testei-apanhei-e-aprendi-9a26b370e61a?source=rss------android-5)
-- [Chat bubble widget for flutter](https://medium.com/@arkapp/chat-bubble-widget-for-flutter-95d3bb82ddd8?source=rss------android-5)
-- [La storia di un blog di tecnologia italiano: GExperience.it](https://medium.com/@zanettinandrea/la-storia-di-un-blog-di-tecnologia-italiano-gexperience-it-311fee0ca443?source=rss------android-5)
-- [10 Best Apps to Remote Control Windows PC With Android](https://medium.com/@webs360/10-best-apps-to-remote-control-windows-pc-with-android-868ff6b9971c?source=rss------android-5)
-- [iPhone vs Android — A Personal Perspective](https://medium.com/@ksmgjg/iphone-vs-android-a-personal-perspective-7c9f0052f9eb?source=rss------android-5)
-- [Ini 6 Fitur Baru Android Yang Dirilis Google](https://medium.com/@kutiper/ini-6-fitur-baru-android-yang-dirilis-google-c24542e2f169?source=rss------android-5)
-- [How to call Android functions from JavaScript](https://medium.com/@beniaminpantiru/how-to-call-android-functions-from-javascript-3f7628340374?source=rss------android-5)
-- [[Exclusive] American Gods Series 3, (Episode 7) American Gods S3-E7 On Starz!](https://medium.com/american-gods-starz-series-3-episode-7/exclusive-american-gods-series-3-episode-7-american-gods-s3-e7-on-starz-b1428c665f22?source=rss------android-5)
-- [How to make an Music Player App using Android Studio](https://medium.com/@kourloskostas/how-to-make-an-music-player-app-using-android-studio-2fbdb47980f3?source=rss------android-5)
+- [Niagara Launcher is a minimalist launcher for Android users](https://medium.com/@thegadgeteer/niagara-launcher-is-a-minimalist-launcher-for-android-users-a3dc3e77809f?source=rss------android-5)
+- [Android 12 changelog: Google finally restricts the power of “adb backup”](https://medium.com/swlh/android-12-changelog-google-finally-restricts-the-power-of-adb-backup-44f2216c219?source=rss------android-5)
+- [A journey from callback hell to Kotlin coroutines, Episode 1](https://medium.com/@ahmednmahran/a-journey-from-callback-hell-to-kotlin-coroutines-episode-1-98b52821b323?source=rss------android-5)
+- [Meet the Speaker — Sweety Bertilla](https://medium.com/@womentechsummit/meet-the-speaker-sweety-bertilla-5a690863ca26?source=rss------android-5)
+- [Animar Imagen con vista Master-Detail y Glide (Shared Element + Navigation Component) — Parte #2](https://medium.com/@ppantaleon/animar-imagen-con-vista-master-detail-y-glide-shared-element-navigation-component-parte-2-7f8aacd7597f?source=rss------android-5)
+- [What is React Native and Why Might You Use it?](https://medium.com/@mhmcwatters/what-is-react-native-and-why-might-you-use-it-cde3c599cc72?source=rss------android-5)
+- [Creating Onboarding Screens with Koin](https://blog.berkberber.com/creating-onboarding-screens-with-koin-eff057055e4a?source=rss------android-5)
+- [Jetpack Compose — Getting Started](https://medium.com/@jeffreyrajan/jetpack-compose-getting-started-983f89d79823?source=rss------android-5)
+- [Bill Gates reveals why he prefers Android over iOS](https://medium.com/@dailymag24/bill-gates-reveals-why-he-prefers-android-over-ios-ff9bd22b5b40?source=rss------android-5)
+- [10 BEST Android Emulators For Windows And MAC](https://medium.com/@nerdmaniac1594/10-best-android-emulators-for-windows-and-mac-5729b393a30d?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
