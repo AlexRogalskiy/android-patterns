@@ -341,6 +341,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [iOS 14, Privacy, and the Future of Digital Advertising](https://mobiledevmemo.com/ios-14-att-and-the-future-of-digital-advertising/)
+- [Podcast: The future of mobile attribution with Maor Sadra and Peter Hamilton](https://mobiledevmemo.com/podcast-the-future-of-mobile-attribution-with-maor-sadra-and-peter-hamilton/)
 - [The CPM math doesn’t work](https://mobiledevmemo.com/the-cpm-math-doesnt-work/)
 - [Why doesn’t Google have to show the ATT prompt?](https://mobiledevmemo.com/why-doesnt-google-have-to-show-the-att-prompt/)
 - [The profound, unintended consequence of ATT: content fortresses](https://mobiledevmemo.com/the-profound-unintended-consequence-of-att-content-fortresses/)
@@ -349,8 +351,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [“Allow this app to personalize advertising for you?”](https://mobiledevmemo.com/allow-this-app-to-personalize-advertising-for-you/)
 - [Why did Applovin buy Adjust?](https://mobiledevmemo.com/why-did-applovin-buy-adjust/)
 - [Apple privileges its own ad network with ATT. What’s its privacy endgame?](https://mobiledevmemo.com/apple-privileges-its-own-ad-network-whats-its-privacy-end-game/)
-- [Unpacking Apple’s latest iOS14 privacy policy guidance](https://mobiledevmemo.com/unpacking-apples-latest-ios14-privacy-policy-guidance/)
-- [Podcast: IDFA, TURTLEDOVE, and the Future of Online Privacy](https://mobiledevmemo.com/idfa-turtledove-and-the-future-of-privacy/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
