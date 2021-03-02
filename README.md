@@ -281,6 +281,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [An introduction to Kotlin for Android development](https://www.androidauthority.com/kotlin-for-android-development-1132127/)
 - [Android 12 developer preview: Everything developers need to know](https://www.androidauthority.com/android-12-preview-for-devs-1203675/)
 - [Scoped storage tutorial for Android Studio](https://www.androidauthority.com/scoped-storage-tutorial-1204124/)
 - [How to use if statements in Python](https://www.androidauthority.com/how-to-use-if-statements-in-python-1148498/)
@@ -290,7 +291,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [How to use Python modules](https://www.androidauthority.com/python-module-1149431/)
 - [How to use arrays in Python](https://www.androidauthority.com/arrays-in-python-1149422/)
 - [Kivy Python tutorial: Build attractive mobile apps in Python!](https://www.androidauthority.com/kivy-python-tutorial-build-attractive-mobile-apps-in-python-1142003/)
-- [The best Google Cloud courses to future-proof your resume](https://www.androidauthority.com/best-google-cloud-courses-1165111/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
