@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Niagara Launcher is a minimalist launcher for Android users](https://medium.com/@thegadgeteer/niagara-launcher-is-a-minimalist-launcher-for-android-users-a3dc3e77809f?source=rss------android-5)
-- [Android 12 changelog: Google finally restricts the power of “adb backup”](https://medium.com/swlh/android-12-changelog-google-finally-restricts-the-power-of-adb-backup-44f2216c219?source=rss------android-5)
-- [A journey from callback hell to Kotlin coroutines, Episode 1](https://medium.com/@ahmednmahran/a-journey-from-callback-hell-to-kotlin-coroutines-episode-1-98b52821b323?source=rss------android-5)
-- [Meet the Speaker — Sweety Bertilla](https://medium.com/@womentechsummit/meet-the-speaker-sweety-bertilla-5a690863ca26?source=rss------android-5)
-- [Animar Imagen con vista Master-Detail y Glide (Shared Element + Navigation Component) — Parte #2](https://medium.com/@ppantaleon/animar-imagen-con-vista-master-detail-y-glide-shared-element-navigation-component-parte-2-7f8aacd7597f?source=rss------android-5)
-- [What is React Native and Why Might You Use it?](https://medium.com/@mhmcwatters/what-is-react-native-and-why-might-you-use-it-cde3c599cc72?source=rss------android-5)
-- [Creating Onboarding Screens with Koin](https://blog.berkberber.com/creating-onboarding-screens-with-koin-eff057055e4a?source=rss------android-5)
-- [Jetpack Compose — Getting Started](https://medium.com/@jeffreyrajan/jetpack-compose-getting-started-983f89d79823?source=rss------android-5)
-- [Bill Gates reveals why he prefers Android over iOS](https://medium.com/@dailymag24/bill-gates-reveals-why-he-prefers-android-over-ios-ff9bd22b5b40?source=rss------android-5)
-- [10 BEST Android Emulators For Windows And MAC](https://medium.com/@nerdmaniac1594/10-best-android-emulators-for-windows-and-mac-5729b393a30d?source=rss------android-5)
+- [Mavericks, Meet Jetpack Compose](https://medium.com/@gpeal/mavericks-meet-jetpack-compose-cf6721f2ea88?source=rss------android-5)
+- [Android 3.65](https://medium.com/wire-news/android-3-65-5ecd8a258ac2?source=rss------android-5)
+- [Bottom Sheet in Jetpack Compose](https://medium.com/@agarasul/bottom-sheet-in-jetpack-compose-c8ab7a297aac?source=rss------android-5)
+- [Getting ready for Declarative UIs — Part 2 — Implementing Unidirectional Data Flow](https://proandroiddev.com/getting-ready-for-declarative-uis-part-2-implementing-unidirectional-data-flow-2e829e9f6f50?source=rss------android-5)
+- [My March Recommendations for Flutter Packages](https://medium.com/@jelenajjovanoski/my-march-recommendations-for-flutter-packages-fd23bfd6a97?source=rss------android-5)
+- [RxJava and Kotlin #3](https://medium.com/@bruno-hensel/rxjava-and-kotlin-3-17fc46151d35?source=rss------android-5)
+- [Android Data Binding With MVVM: Using LiveData and ViewModel](https://betterprogramming.pub/android-data-binding-with-mvvm-using-livedata-and-viewmodel-71028901e3bb?source=rss------android-5)
+- [Build Your Own — AsyncTask](https://blog.usejournal.com/build-your-own-asynctask-fcfc4aaf0225?source=rss------android-5)
+- [OnePlus, the New Samsung?](https://medium.com/@drchocolate5050/oneplus-the-new-samsung-38c2f1e5d0eb?source=rss------android-5)
+- [Compose (UI) beyond the UI (Part III): No AAC-ViewModel and a sample app](https://proandroiddev.com/compose-ui-beyond-the-ui-part-iii-no-aac-viewmodel-and-a-sample-app-8e76dbdd1529?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
