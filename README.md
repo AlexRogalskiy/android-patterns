@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it okay to switch from a one time Ad removal to a subscription model?](https://www.reddit.com/r/androiddev/comments/lvpq1z/is_it_okay_to_switch_from_a_one_time_ad_removal/)
-- [Any theming masters here?](https://www.reddit.com/r/androiddev/comments/lvoyg0/any_theming_masters_here/)
-- [Signing Certificate Requirements](https://www.reddit.com/r/androiddev/comments/lvoexr/signing_certificate_requirements/)
-- [Problem with buy the play console](https://www.reddit.com/r/androiddev/comments/lvo4nw/problem_with_buy_the_play_console/)
-- [Retrofit 2 working on the emulator but not on a physical phone](https://www.reddit.com/r/androiddev/comments/lvnm9r/retrofit_2_working_on_the_emulator_but_not_on_a/)
-- [Android Developers let go during the pandemic...how was your job search?](https://www.reddit.com/r/androiddev/comments/lvm3bf/android_developers_let_go_during_the_pandemichow/)
-- [Disable Richtext i.e. HTML / Spanned Text in Edittext](https://www.reddit.com/r/androiddev/comments/lvlv7e/disable_richtext_ie_html_spanned_text_in_edittext/)
-- [UI SFX Marketplace](https://www.reddit.com/r/androiddev/comments/lvls40/ui_sfx_marketplace/)
-- [Is it a good idea to start learning from the documentation as a beginner ?](https://www.reddit.com/r/androiddev/comments/lvjk7j/is_it_a_good_idea_to_start_learning_from_the/)
-- [LiveData expected behaviour](https://www.reddit.com/r/androiddev/comments/lvivlm/livedata_expected_behaviour/)
+- [Help please](https://www.reddit.com/r/androiddev/comments/lwfu8e/help_please/)
+- [Help](https://www.reddit.com/r/androiddev/comments/lwfls9/help/)
+- [openmobilemaps/maps-core The lightweight and modern Map SDK for Android (6.0+) and iOS (10+)](https://www.reddit.com/r/androiddev/comments/lwejxg/openmobilemapsmapscore_the_lightweight_and_modern/)
+- [Jetpack Compose vs SwiftUI](https://www.reddit.com/r/androiddev/comments/lwe1ys/jetpack_compose_vs_swiftui/)
+- [Mavericks, Meet Jetpack Compose](https://www.reddit.com/r/androiddev/comments/lwd5qf/mavericks_meet_jetpack_compose/)
+- [Compose beta01 sample app with mvvm and without AAC-ViewModels](https://www.reddit.com/r/androiddev/comments/lwafy3/compose_beta01_sample_app_with_mvvm_and_without/)
+- [Do Android Developers like using CLIs?](https://www.reddit.com/r/androiddev/comments/lw8w0k/do_android_developers_like_using_clis/)
+- [New Mobile Native Foundation to Foster Development Collaboration - Linux Foundation](https://www.reddit.com/r/androiddev/comments/lw8hik/new_mobile_native_foundation_to_foster/)
+- [Installing CA certificate on AndroidTv](https://www.reddit.com/r/androiddev/comments/lw7vs3/installing_ca_certificate_on_androidtv/)
+- [Trying to Setup Android Flash Tool](https://www.reddit.com/r/androiddev/comments/lw7vbv/trying_to_setup_android_flash_tool/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
