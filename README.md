@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Mavericks, Meet Jetpack Compose](https://medium.com/@gpeal/mavericks-meet-jetpack-compose-cf6721f2ea88?source=rss------android-5)
-- [Android 3.65](https://medium.com/wire-news/android-3-65-5ecd8a258ac2?source=rss------android-5)
-- [Bottom Sheet in Jetpack Compose](https://medium.com/@agarasul/bottom-sheet-in-jetpack-compose-c8ab7a297aac?source=rss------android-5)
-- [Getting ready for Declarative UIs — Part 2 — Implementing Unidirectional Data Flow](https://proandroiddev.com/getting-ready-for-declarative-uis-part-2-implementing-unidirectional-data-flow-2e829e9f6f50?source=rss------android-5)
-- [My March Recommendations for Flutter Packages](https://medium.com/@jelenajjovanoski/my-march-recommendations-for-flutter-packages-fd23bfd6a97?source=rss------android-5)
-- [RxJava and Kotlin #3](https://medium.com/@bruno-hensel/rxjava-and-kotlin-3-17fc46151d35?source=rss------android-5)
-- [Android Data Binding With MVVM: Using LiveData and ViewModel](https://betterprogramming.pub/android-data-binding-with-mvvm-using-livedata-and-viewmodel-71028901e3bb?source=rss------android-5)
-- [Build Your Own — AsyncTask](https://blog.usejournal.com/build-your-own-asynctask-fcfc4aaf0225?source=rss------android-5)
-- [OnePlus, the New Samsung?](https://medium.com/@drchocolate5050/oneplus-the-new-samsung-38c2f1e5d0eb?source=rss------android-5)
-- [Compose (UI) beyond the UI (Part III): No AAC-ViewModel and a sample app](https://proandroiddev.com/compose-ui-beyond-the-ui-part-iii-no-aac-viewmodel-and-a-sample-app-8e76dbdd1529?source=rss------android-5)
+- [Leveling out callbacks with coroutines — SMS Retriever case](https://medium.com/@circusmagnus/leveling-out-callbacks-with-coroutines-sms-retriever-case-7cedc555671b?source=rss------android-5)
+- [GraphQL with Apollo Android , why it’s worth taking a look.](https://medium.com/@hamdiboumaiza/graphql-with-apollo-android-why-its-worth-taking-a-look-f30ceb4a23ae?source=rss------android-5)
+- [Move from JCenter to Maven in Android](https://medium.com/@Cool.Mind/move-from-jcenter-to-maven-in-android-619d62e98bc3?source=rss------android-5)
+- [Willful Smart Watch for Men Women](https://medium.com/@abdouhacker86/willful-smart-watch-for-men-women-c0c412a19eab?source=rss------android-5)
+- [The cost of paranoia in the 21st century](https://medium.com/predict/the-cost-of-paranoia-in-the-21st-century-4db763601a77?source=rss------android-5)
+- [How TO Download BlueStacks Android Emulator 4.2/5 for Windows](https://medium.com/@nerdmaniac1594/how-to-download-bluestacks-android-emulator-4-2-5-for-windows-6728f9ab34fb?source=rss------android-5)
+- [React Native : Quittez l’application lorsque vous appuyez sur le Bouton Retour.](https://medium.com/@codivoire/react-native-quittez-lapplication-lorsque-vous-appuyez-sur-le-bouton-retour-691e322a03dc?source=rss------android-5)
+- [How To Understand Composables & Recomposition: A Beginners Guide To Jetpack Compose](https://medium.com/@rkay301/how-to-understand-composables-recomposition-a-beginners-guide-to-jetpack-compose-5c339b2d53ac?source=rss------android-5)
+- [the UIThe Very Best Mobile App Agencies in 2021:](https://medium.com/@pabloblume/the-uithe-very-best-mobile-app-agencies-in-2021-1c9a18801afb?source=rss------android-5)
+- [Integrar Unity & Location Kit](https://medium.com/@huawei-latinoamerica/integrar-unity-location-kit-38d1cd1990f?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
