@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help please](https://www.reddit.com/r/androiddev/comments/lwfu8e/help_please/)
-- [Help](https://www.reddit.com/r/androiddev/comments/lwfls9/help/)
-- [openmobilemaps/maps-core The lightweight and modern Map SDK for Android (6.0+) and iOS (10+)](https://www.reddit.com/r/androiddev/comments/lwejxg/openmobilemapsmapscore_the_lightweight_and_modern/)
-- [Jetpack Compose vs SwiftUI](https://www.reddit.com/r/androiddev/comments/lwe1ys/jetpack_compose_vs_swiftui/)
-- [Mavericks, Meet Jetpack Compose](https://www.reddit.com/r/androiddev/comments/lwd5qf/mavericks_meet_jetpack_compose/)
-- [Compose beta01 sample app with mvvm and without AAC-ViewModels](https://www.reddit.com/r/androiddev/comments/lwafy3/compose_beta01_sample_app_with_mvvm_and_without/)
-- [Do Android Developers like using CLIs?](https://www.reddit.com/r/androiddev/comments/lw8w0k/do_android_developers_like_using_clis/)
-- [New Mobile Native Foundation to Foster Development Collaboration - Linux Foundation](https://www.reddit.com/r/androiddev/comments/lw8hik/new_mobile_native_foundation_to_foster/)
-- [Installing CA certificate on AndroidTv](https://www.reddit.com/r/androiddev/comments/lw7vs3/installing_ca_certificate_on_androidtv/)
-- [Trying to Setup Android Flash Tool](https://www.reddit.com/r/androiddev/comments/lw7vbv/trying_to_setup_android_flash_tool/)
+- [Best practices for coroutines in Android | Android Developers](https://www.reddit.com/r/androiddev/comments/lx7va2/best_practices_for_coroutines_in_android_android/)
+- [A tricky situation...](https://www.reddit.com/r/androiddev/comments/lx6hgs/a_tricky_situation/)
+- [Building a new PC for Android development, AMD or Intel proc?](https://www.reddit.com/r/androiddev/comments/lx4gcq/building_a_new_pc_for_android_development_amd_or/)
+- [Sending 18 instead of 32 data length](https://www.reddit.com/r/androiddev/comments/lx1per/sending_18_instead_of_32_data_length/)
+- [Releasing Android apps into China](https://www.reddit.com/r/androiddev/comments/lx0bl0/releasing_android_apps_into_china/)
+- [Out of the blue my app received an update rejection, but the affected version is now back in the Play Store](https://www.reddit.com/r/androiddev/comments/lwztn8/out_of_the_blue_my_app_received_an_update/)
+- [Taking an Android application and adding Pure Dependency Injection.](https://www.reddit.com/r/androiddev/comments/lwyehh/taking_an_android_application_and_adding_pure/)
+- [Released Kotlin 1.5.0-M1](https://www.reddit.com/r/androiddev/comments/lwweoh/released_kotlin_150m1/)
+- [Android devs have to pay tax on Gross sales prior to google's cut?](https://www.reddit.com/r/androiddev/comments/lwtzse/android_devs_have_to_pay_tax_on_gross_sales_prior/)
+- [Animated clock inspired by a Twitter post](https://www.reddit.com/r/androiddev/comments/lwtuq2/animated_clock_inspired_by_a_twitter_post/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
