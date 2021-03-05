@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Leveling out callbacks with coroutines — SMS Retriever case](https://medium.com/@circusmagnus/leveling-out-callbacks-with-coroutines-sms-retriever-case-7cedc555671b?source=rss------android-5)
-- [GraphQL with Apollo Android , why it’s worth taking a look.](https://medium.com/@hamdiboumaiza/graphql-with-apollo-android-why-its-worth-taking-a-look-f30ceb4a23ae?source=rss------android-5)
-- [Move from JCenter to Maven in Android](https://medium.com/@Cool.Mind/move-from-jcenter-to-maven-in-android-619d62e98bc3?source=rss------android-5)
-- [Willful Smart Watch for Men Women](https://medium.com/@abdouhacker86/willful-smart-watch-for-men-women-c0c412a19eab?source=rss------android-5)
-- [The cost of paranoia in the 21st century](https://medium.com/predict/the-cost-of-paranoia-in-the-21st-century-4db763601a77?source=rss------android-5)
-- [How TO Download BlueStacks Android Emulator 4.2/5 for Windows](https://medium.com/@nerdmaniac1594/how-to-download-bluestacks-android-emulator-4-2-5-for-windows-6728f9ab34fb?source=rss------android-5)
-- [React Native : Quittez l’application lorsque vous appuyez sur le Bouton Retour.](https://medium.com/@codivoire/react-native-quittez-lapplication-lorsque-vous-appuyez-sur-le-bouton-retour-691e322a03dc?source=rss------android-5)
-- [How To Understand Composables & Recomposition: A Beginners Guide To Jetpack Compose](https://medium.com/@rkay301/how-to-understand-composables-recomposition-a-beginners-guide-to-jetpack-compose-5c339b2d53ac?source=rss------android-5)
-- [the UIThe Very Best Mobile App Agencies in 2021:](https://medium.com/@pabloblume/the-uithe-very-best-mobile-app-agencies-in-2021-1c9a18801afb?source=rss------android-5)
-- [Integrar Unity & Location Kit](https://medium.com/@huawei-latinoamerica/integrar-unity-location-kit-38d1cd1990f?source=rss------android-5)
+- [Android — Clean architecture with Dynamic-features and Hilt/Dagger2 (Pt.3)](https://medium.com/@pedrookawa/android-clean-architecture-with-dynamic-features-and-hilt-dagger2-pt-3-ca40d2316fc8?source=rss------android-5)
+- [Clean architecture with Dynamic-features and Hilt/Dagger2 (Pt.2)](https://medium.com/@pedrookawa/clean-architecture-with-dynamic-features-and-hilt-dagger2-pt-2-af801f162b0d?source=rss------android-5)
+- [Clean architecture with Dynamic-features and Hilt/Dagger2 (Pt.1)](https://medium.com/@pedrookawa/clean-architecture-with-dynamic-features-and-hilt-dagger2-pt-1-d1be41a44b12?source=rss------android-5)
+- [It’s Time For Google To Revive Google Play Edition Phones](https://medium.com/the-shadow/its-time-for-google-to-revive-google-play-edition-phones-a4b2a01f29ef?source=rss------android-5)
+- [Android Studio Kotlin Live Templates](https://medium.com/codestory/android-studio-kotlin-live-templates-fb7397f36c39?source=rss------android-5)
+- [Top 3 Ways to Install Android on PC](https://medium.com/@jackturner808/top-3-ways-to-install-android-on-pc-67e235f416ac?source=rss------android-5)
+- [Top Free & Paid Sources to Learn Android](https://medium.com/@gondhalesatyam-28082/top-free-paid-sources-to-learn-android-c194af9bfc3b?source=rss------android-5)
+- [Hacking tools for your cell phone](https://medium.com/nerd-for-tech/hacking-tools-for-your-cell-phone-a259eeb29660?source=rss------android-5)
+- [Herramientas de Hacking para tu android](https://medium.com/@y000o/herramientas-de-hacking-para-tu-android-842f815205e1?source=rss------android-5)
+- [Android: Membuat Project Berlanjut.](https://medium.com/@bndrsnvtch/android-membuat-project-berlanjut-f222f5af190a?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
