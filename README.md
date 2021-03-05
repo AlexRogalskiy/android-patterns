@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best practices for coroutines in Android | Android Developers](https://www.reddit.com/r/androiddev/comments/lx7va2/best_practices_for_coroutines_in_android_android/)
-- [A tricky situation...](https://www.reddit.com/r/androiddev/comments/lx6hgs/a_tricky_situation/)
-- [Building a new PC for Android development, AMD or Intel proc?](https://www.reddit.com/r/androiddev/comments/lx4gcq/building_a_new_pc_for_android_development_amd_or/)
-- [Sending 18 instead of 32 data length](https://www.reddit.com/r/androiddev/comments/lx1per/sending_18_instead_of_32_data_length/)
-- [Releasing Android apps into China](https://www.reddit.com/r/androiddev/comments/lx0bl0/releasing_android_apps_into_china/)
-- [Out of the blue my app received an update rejection, but the affected version is now back in the Play Store](https://www.reddit.com/r/androiddev/comments/lwztn8/out_of_the_blue_my_app_received_an_update/)
-- [Taking an Android application and adding Pure Dependency Injection.](https://www.reddit.com/r/androiddev/comments/lwyehh/taking_an_android_application_and_adding_pure/)
-- [Released Kotlin 1.5.0-M1](https://www.reddit.com/r/androiddev/comments/lwweoh/released_kotlin_150m1/)
-- [Android devs have to pay tax on Gross sales prior to google's cut?](https://www.reddit.com/r/androiddev/comments/lwtzse/android_devs_have_to_pay_tax_on_gross_sales_prior/)
-- [Animated clock inspired by a Twitter post](https://www.reddit.com/r/androiddev/comments/lwtuq2/animated_clock_inspired_by_a_twitter_post/)
+- [Arizona advances bill forcing Apple to allow Fortnite-style alternative payment options](https://www.reddit.com/r/androiddev/comments/lxz084/arizona_advances_bill_forcing_apple_to_allow/)
+- [Attack strategy?](https://www.reddit.com/r/androiddev/comments/lxz02d/attack_strategy/)
+- [Unable to rename views in Android Studio](https://www.reddit.com/r/androiddev/comments/lxxcy7/unable_to_rename_views_in_android_studio/)
+- [App development lifecycle [Comics]](https://www.reddit.com/r/androiddev/comments/lxv2f1/app_development_lifecycle_comics/)
+- [Can you update to an app using a bundle/APK that has a different bundle_id](https://www.reddit.com/r/androiddev/comments/lxouad/can_you_update_to_an_app_using_a_bundleapk_that/)
+- [How much do I need to moderate user-created content?](https://www.reddit.com/r/androiddev/comments/lxo9gi/how_much_do_i_need_to_moderate_usercreated_content/)
+- [Google ViewModel question](https://www.reddit.com/r/androiddev/comments/lxnafl/google_viewmodel_question/)
+- [A new open-source API Aggregator for mobile developers](https://www.reddit.com/r/androiddev/comments/lxn5dy/a_new_opensource_api_aggregator_for_mobile/)
+- [Confusion with persisting app settings through reinstallations](https://www.reddit.com/r/androiddev/comments/lxme0e/confusion_with_persisting_app_settings_through/)
+- [How is that even possible that google didn't even noticed that? My apps gets instantly rejected/removed/suspended if I ever do that :(](https://www.reddit.com/r/androiddev/comments/lxm1ev/how_is_that_even_possible_that_google_didnt_even/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
