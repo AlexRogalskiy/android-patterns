@@ -282,15 +282,15 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
 - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+- [How to use AWS – a simple guide for beginners](https://www.androidauthority.com/how-to-use-aws-1168883/)
+- [Java beginner course – A free and comprehensive guide to the basics of Java](https://www.androidauthority.com/java-beginners-course-1146854/)
+- [How to use classes in Python](https://www.androidauthority.com/how-to-use-classes-in-python-1148982/)
+- [How to install Java, and everything else you need to know](https://www.androidauthority.com/how-to-install-java-1151165/)
+- [When to use lists vs dictionaries in Python](https://www.androidauthority.com/how-to-create-a-list-in-python-1140101/)
 - [An introduction to Kotlin for Android development](https://www.androidauthority.com/kotlin-for-android-development-1132127/)
 - [Android 12 developer preview: Everything developers need to know](https://www.androidauthority.com/android-12-preview-for-devs-1203675/)
 - [Scoped storage tutorial for Android Studio](https://www.androidauthority.com/scoped-storage-tutorial-1204124/)
 - [How to use if statements in Python](https://www.androidauthority.com/how-to-use-if-statements-in-python-1148498/)
-- [What is Google Cloud certification and should I get it?](https://www.androidauthority.com/google-cloud-certification-1164349/)
-- [How to create a file in Python and more](https://www.androidauthority.com/how-to-create-a-file-in-python-1136935/)
-- [How to create an array in Java](https://www.androidauthority.com/how-to-create-an-array-in-java-1151277/)
-- [How to use Python modules](https://www.androidauthority.com/python-module-1149431/)
-- [How to use arrays in Python](https://www.androidauthority.com/arrays-in-python-1149422/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
