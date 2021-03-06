@@ -356,11 +356,11 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Infinum posts_
 
 <!-- INFINUM-POST-LIST:START -->
+- [There is a Better Way to Mock Retrofit API Calls](https://androidsweets.ongoodbits.com/there-is-a-better-way-to-mock-retrofit-api-calls)
 - [Announcing Jetpack Compose Beta!](https://androidsweets.ongoodbits.com/announcing-jetpack-compose-beta)
 - [First preview of Android 12](https://androidsweets.ongoodbits.com/first-preview-of-android-12)
 - [Announcing Kotlin Symbol Processing (KSP) Alpha](https://androidsweets.ongoodbits.com/announcing-kotlin-symbol-processing-ksp-alpha)
 - [Coroutines and the JVM](https://androidsweets.ongoodbits.com/coroutines-and-the-jvm)
-- [RxJava vs. Coroutines](https://androidsweets.ongoodbits.com/2021/01/29/rxjava-vs-coroutines)
 <!-- INFINUM-POST-LIST:END -->
 
 ---
