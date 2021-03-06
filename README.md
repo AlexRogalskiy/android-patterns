@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Android — Clean architecture with Dynamic-features and Hilt/Dagger2 (Pt.3)](https://medium.com/@pedrookawa/android-clean-architecture-with-dynamic-features-and-hilt-dagger2-pt-3-ca40d2316fc8?source=rss------android-5)
-- [Clean architecture with Dynamic-features and Hilt/Dagger2 (Pt.2)](https://medium.com/@pedrookawa/clean-architecture-with-dynamic-features-and-hilt-dagger2-pt-2-af801f162b0d?source=rss------android-5)
-- [Clean architecture with Dynamic-features and Hilt/Dagger2 (Pt.1)](https://medium.com/@pedrookawa/clean-architecture-with-dynamic-features-and-hilt-dagger2-pt-1-d1be41a44b12?source=rss------android-5)
-- [It’s Time For Google To Revive Google Play Edition Phones](https://medium.com/the-shadow/its-time-for-google-to-revive-google-play-edition-phones-a4b2a01f29ef?source=rss------android-5)
-- [Android Studio Kotlin Live Templates](https://medium.com/codestory/android-studio-kotlin-live-templates-fb7397f36c39?source=rss------android-5)
-- [Top 3 Ways to Install Android on PC](https://medium.com/@jackturner808/top-3-ways-to-install-android-on-pc-67e235f416ac?source=rss------android-5)
-- [Top Free & Paid Sources to Learn Android](https://medium.com/@gondhalesatyam-28082/top-free-paid-sources-to-learn-android-c194af9bfc3b?source=rss------android-5)
-- [Hacking tools for your cell phone](https://medium.com/nerd-for-tech/hacking-tools-for-your-cell-phone-a259eeb29660?source=rss------android-5)
-- [Herramientas de Hacking para tu android](https://medium.com/@y000o/herramientas-de-hacking-para-tu-android-842f815205e1?source=rss------android-5)
-- [Android: Membuat Project Berlanjut.](https://medium.com/@bndrsnvtch/android-membuat-project-berlanjut-f222f5af190a?source=rss------android-5)
+- [Easier Android Shared Preferences in Kotlin](https://medium.com/@tiagoreul/easier-android-shared-preferences-in-kotlin-f9653a5a833f?source=rss------android-5)
+- [Super Ball Jump: Bounce Adventures](https://medium.com/vuxia/super-ball-jump-bounce-adventures-a7aa563cccf3?source=rss------android-5)
+- [Super Ball Jump: Bounce Adventures](https://medium.com/@vuxia/super-ball-jump-bounce-adventures-6352f78ac902?source=rss------android-5)
+- [GET YOUR NEW PASSPORT,DRIVING LISENCE,ID CARDS,SSN, IELTS/TOEFL AND OTHER DOCUMENTS.for](https://medium.com/@morgandaruis8/get-your-new-passport-driving-lisence-id-cards-ssn-ielts-toefl-and-other-documents-for-41b98dec688e?source=rss------android-5)
+- [OneStream Live News Update: New Version 6.0.3](https://medium.com/onestream/onestream-live-news-update-new-version-6-0-3-f1466214eb13?source=rss------android-5)
+- [Free Instagram Followers Get Free 50k Follower sin 60 Minutes](https://medium.com/@bhorwiz/free-instagram-followers-get-free-50k-follower-sin-60-minutes-e38402e158b6?source=rss------android-5)
+- [Expert Flutter IDE SetUp](https://medium.com/@fredgrott/expert-flutter-ide-setup-57b3768ee351?source=rss------android-5)
+- [Wild Storage | Part 1 — Performance for queries](https://medium.com/knowing-android/wild-storage-part-1-performance-for-queries-661f11be9066?source=rss------android-5)
+- [Data Binding Adapters And Dependency Injection- A Short Love Story](https://proandroiddev.com/data-binding-adapters-and-dependency-injection-a-short-love-story-1cbee20fa8ff?source=rss------android-5)
+- [Kontrol GPIO Raspberry Pi dengan Android Native](https://medium.com/@nmauludina/kontrol-gpio-raspberry-pi-dengan-android-native-bca386b5f2fb?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
