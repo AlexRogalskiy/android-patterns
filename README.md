@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Arizona advances bill forcing Apple to allow Fortnite-style alternative payment options](https://www.reddit.com/r/androiddev/comments/lxz084/arizona_advances_bill_forcing_apple_to_allow/)
-- [Attack strategy?](https://www.reddit.com/r/androiddev/comments/lxz02d/attack_strategy/)
-- [Unable to rename views in Android Studio](https://www.reddit.com/r/androiddev/comments/lxxcy7/unable_to_rename_views_in_android_studio/)
-- [App development lifecycle [Comics]](https://www.reddit.com/r/androiddev/comments/lxv2f1/app_development_lifecycle_comics/)
-- [Can you update to an app using a bundle/APK that has a different bundle_id](https://www.reddit.com/r/androiddev/comments/lxouad/can_you_update_to_an_app_using_a_bundleapk_that/)
-- [How much do I need to moderate user-created content?](https://www.reddit.com/r/androiddev/comments/lxo9gi/how_much_do_i_need_to_moderate_usercreated_content/)
-- [Google ViewModel question](https://www.reddit.com/r/androiddev/comments/lxnafl/google_viewmodel_question/)
-- [A new open-source API Aggregator for mobile developers](https://www.reddit.com/r/androiddev/comments/lxn5dy/a_new_opensource_api_aggregator_for_mobile/)
-- [Confusion with persisting app settings through reinstallations](https://www.reddit.com/r/androiddev/comments/lxme0e/confusion_with_persisting_app_settings_through/)
-- [How is that even possible that google didn't even noticed that? My apps gets instantly rejected/removed/suspended if I ever do that :(](https://www.reddit.com/r/androiddev/comments/lxm1ev/how_is_that_even_possible_that_google_didnt_even/)
+- [Introducing Curtains](https://www.reddit.com/r/androiddev/comments/lymjyo/introducing_curtains/)
+- [Can't understand ViewModel](https://www.reddit.com/r/androiddev/comments/lylmuh/cant_understand_viewmodel/)
+- [What's the job hunt gameplan? Bug recruiters until something comes up?](https://www.reddit.com/r/androiddev/comments/lyjrmo/whats_the_job_hunt_gameplan_bug_recruiters_until/)
+- [Are there any android emulators that are just right for browsing?](https://www.reddit.com/r/androiddev/comments/lyhp93/are_there_any_android_emulators_that_are_just/)
+- [Tips on how to profile an app effectively?](https://www.reddit.com/r/androiddev/comments/lyh9gv/tips_on_how_to_profile_an_app_effectively/)
+- [Category rankings frozen since March 2nd](https://www.reddit.com/r/androiddev/comments/lyf1wz/category_rankings_frozen_since_march_2nd/)
+- [Facing IAB TCF v2.0 errors detected for my android app](https://www.reddit.com/r/androiddev/comments/lyd5q8/facing_iab_tcf_v20_errors_detected_for_my_android/)
+- [Google maps API vs TomTom API](https://www.reddit.com/r/androiddev/comments/lyd001/google_maps_api_vs_tomtom_api/)
+- [How some apps & websites able to detect if I'm using vpn or not & some bypass it & show me ads based on my original location](https://www.reddit.com/r/androiddev/comments/lycnfb/how_some_apps_websites_able_to_detect_if_im_using/)
+- [Weekly Anything Goes Thread - March 05, 2021](https://www.reddit.com/r/androiddev/comments/lycei6/weekly_anything_goes_thread_march_05_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
