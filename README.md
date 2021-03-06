@@ -282,6 +282,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
 - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+- [Upwork vs Fiverr: Which is the best place to sell your services?](https://www.androidauthority.com/upwork-vs-fiverr-1190439/)
 - [How to use AWS – a simple guide for beginners](https://www.androidauthority.com/how-to-use-aws-1168883/)
 - [Java beginner course – A free and comprehensive guide to the basics of Java](https://www.androidauthority.com/java-beginners-course-1146854/)
 - [How to use classes in Python](https://www.androidauthority.com/how-to-use-classes-in-python-1148982/)
@@ -290,7 +291,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [An introduction to Kotlin for Android development](https://www.androidauthority.com/kotlin-for-android-development-1132127/)
 - [Android 12 developer preview: Everything developers need to know](https://www.androidauthority.com/android-12-preview-for-devs-1203675/)
 - [Scoped storage tutorial for Android Studio](https://www.androidauthority.com/scoped-storage-tutorial-1204124/)
-- [How to use if statements in Python](https://www.androidauthority.com/how-to-use-if-statements-in-python-1148498/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
