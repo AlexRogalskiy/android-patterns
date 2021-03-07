@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Introducing Curtains](https://www.reddit.com/r/androiddev/comments/lymjyo/introducing_curtains/)
-- [Can't understand ViewModel](https://www.reddit.com/r/androiddev/comments/lylmuh/cant_understand_viewmodel/)
-- [What's the job hunt gameplan? Bug recruiters until something comes up?](https://www.reddit.com/r/androiddev/comments/lyjrmo/whats_the_job_hunt_gameplan_bug_recruiters_until/)
-- [Are there any android emulators that are just right for browsing?](https://www.reddit.com/r/androiddev/comments/lyhp93/are_there_any_android_emulators_that_are_just/)
-- [Tips on how to profile an app effectively?](https://www.reddit.com/r/androiddev/comments/lyh9gv/tips_on_how_to_profile_an_app_effectively/)
-- [Category rankings frozen since March 2nd](https://www.reddit.com/r/androiddev/comments/lyf1wz/category_rankings_frozen_since_march_2nd/)
-- [Facing IAB TCF v2.0 errors detected for my android app](https://www.reddit.com/r/androiddev/comments/lyd5q8/facing_iab_tcf_v20_errors_detected_for_my_android/)
-- [Google maps API vs TomTom API](https://www.reddit.com/r/androiddev/comments/lyd001/google_maps_api_vs_tomtom_api/)
-- [How some apps & websites able to detect if I'm using vpn or not & some bypass it & show me ads based on my original location](https://www.reddit.com/r/androiddev/comments/lycnfb/how_some_apps_websites_able_to_detect_if_im_using/)
-- [Weekly Anything Goes Thread - March 05, 2021](https://www.reddit.com/r/androiddev/comments/lycei6/weekly_anything_goes_thread_march_05_2021/)
+- [Pull-to-refresh for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/lzg1re/pulltorefresh_for_jetpack_compose/)
+- [What are the most common programming languages for Android development?](https://www.reddit.com/r/androiddev/comments/lzeiri/what_are_the_most_common_programming_languages/)
+- [APK Source File Issues](https://www.reddit.com/r/androiddev/comments/lzcid8/apk_source_file_issues/)
+- [Generate publishable .apk from debug .apk?](https://www.reddit.com/r/androiddev/comments/lzc3uv/generate_publishable_apk_from_debug_apk/)
+- [Library to decrease Upload time in my android app](https://www.reddit.com/r/androiddev/comments/lzbqdb/library_to_decrease_upload_time_in_my_android_app/)
+- [Does anyone here use BigQuery for Firebase for their app analytical needs?](https://www.reddit.com/r/androiddev/comments/lza0k2/does_anyone_here_use_bigquery_for_firebase_for/)
+- [What can I expect from a tech interview when applying to Junior Position?](https://www.reddit.com/r/androiddev/comments/lz94r4/what_can_i_expect_from_a_tech_interview_when/)
+- [Just published a sample of D-KMP architecture suggested in droidcon. Its JetpackCompose + KMM + MVI using coroutine's stateFlow. Happy to take feedbacks and you can help me make it more scalable](https://www.reddit.com/r/androiddev/comments/lz89yy/just_published_a_sample_of_dkmp_architecture/)
+- [What tech stack is needed to create this type of game??](https://www.reddit.com/r/androiddev/comments/lz7nbo/what_tech_stack_is_needed_to_create_this_type_of/)
+- [My first app - major pitfalls to avoid?](https://www.reddit.com/r/androiddev/comments/lz62wn/my_first_app_major_pitfalls_to_avoid/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
