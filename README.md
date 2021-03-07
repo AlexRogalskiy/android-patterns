@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Easier Android Shared Preferences in Kotlin](https://medium.com/@tiagoreul/easier-android-shared-preferences-in-kotlin-f9653a5a833f?source=rss------android-5)
-- [Super Ball Jump: Bounce Adventures](https://medium.com/vuxia/super-ball-jump-bounce-adventures-a7aa563cccf3?source=rss------android-5)
-- [Super Ball Jump: Bounce Adventures](https://medium.com/@vuxia/super-ball-jump-bounce-adventures-6352f78ac902?source=rss------android-5)
-- [GET YOUR NEW PASSPORT,DRIVING LISENCE,ID CARDS,SSN, IELTS/TOEFL AND OTHER DOCUMENTS.for](https://medium.com/@morgandaruis8/get-your-new-passport-driving-lisence-id-cards-ssn-ielts-toefl-and-other-documents-for-41b98dec688e?source=rss------android-5)
-- [OneStream Live News Update: New Version 6.0.3](https://medium.com/onestream/onestream-live-news-update-new-version-6-0-3-f1466214eb13?source=rss------android-5)
-- [Free Instagram Followers Get Free 50k Follower sin 60 Minutes](https://medium.com/@bhorwiz/free-instagram-followers-get-free-50k-follower-sin-60-minutes-e38402e158b6?source=rss------android-5)
-- [Expert Flutter IDE SetUp](https://medium.com/@fredgrott/expert-flutter-ide-setup-57b3768ee351?source=rss------android-5)
-- [Wild Storage | Part 1 — Performance for queries](https://medium.com/knowing-android/wild-storage-part-1-performance-for-queries-661f11be9066?source=rss------android-5)
-- [Data Binding Adapters And Dependency Injection- A Short Love Story](https://proandroiddev.com/data-binding-adapters-and-dependency-injection-a-short-love-story-1cbee20fa8ff?source=rss------android-5)
-- [Kontrol GPIO Raspberry Pi dengan Android Native](https://medium.com/@nmauludina/kontrol-gpio-raspberry-pi-dengan-android-native-bca386b5f2fb?source=rss------android-5)
+- [Convert SVG and PSD images to VectorDrawable (XML) using Android Studio Vector Asset](https://medium.com/@fawadjawaid/convert-svg-and-psd-images-to-vectordrawable-xml-using-android-studio-vector-asset-82c141ead7d?source=rss------android-5)
+- [Implementing a “Master-Detail” user interface using Android Navigation Component](https://medium.com/@francois-jouvelot/implementing-a-master-detail-user-interface-using-android-navigation-component-d9bd0aa3fcaf?source=rss------android-5)
+- [Simplificando Analytics com Kotlin no Android! — Part 2 Reportando Crashes da Aplicação](https://medium.com/@williamgouvea/simplificando-analytics-com-kotlin-no-android-part-2-reportando-crashes-da-aplica%C3%A7%C3%A3o-c35b823e88c8?source=rss------android-5)
+- [Hidizs S9 Review](https://medium.com/bedrock-reviews/hidizs-s9-review-617eaeb2af6?source=rss------android-5)
+- [Free Movie Download Apps For Android](https://medium.com/@bktechpro2.0/free-movie-download-apps-for-android-fdeb46b1780b?source=rss------android-5)
+- [Benefits of Single Activity Architecture](https://medium.com/@avinash-renukaradhya/benefits-of-single-activity-architecture-a8449737f996?source=rss------android-5)
+- [تحميل لعبة بيس PES 2022 بدون انترنت للاندرويد](https://medium.com/@mariamahadik/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%84%D8%B9%D8%A8%D8%A9-%D8%A8%D9%8A%D8%B3-pes-2022-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%84%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-718a59612199?source=rss------android-5)
+- [تحميل دريم ليج DLS 2022 الجديدة مهكرة](https://medium.com/@mariamahadik/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%AF%D8%B1%D9%8A%D9%85-%D9%84%D9%8A%D8%AC-dls-2022-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%87%D9%83%D8%B1%D8%A9-2eb32ac165c8?source=rss------android-5)
+- [تحميل لعبة فيفا 2022 بدون انترنت](https://medium.com/@mariamahadik/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%84%D8%B9%D8%A8%D8%A9-%D9%81%D9%8A%D9%81%D8%A7-2022-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA-1e4f7395c57b?source=rss------android-5)
+- [The state of translation in the mobile world.](https://medium.com/@tiagoreul/the-state-of-translation-in-the-mobile-world-14170639181b?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
