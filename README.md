@@ -311,16 +311,14 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Convert SVG and PSD images to VectorDrawable (XML) using Android Studio Vector Asset](https://medium.com/@fawadjawaid/convert-svg-and-psd-images-to-vectordrawable-xml-using-android-studio-vector-asset-82c141ead7d?source=rss------android-5)
-- [Implementing a “Master-Detail” user interface using Android Navigation Component](https://medium.com/@francois-jouvelot/implementing-a-master-detail-user-interface-using-android-navigation-component-d9bd0aa3fcaf?source=rss------android-5)
-- [Simplificando Analytics com Kotlin no Android! — Part 2 Reportando Crashes da Aplicação](https://medium.com/@williamgouvea/simplificando-analytics-com-kotlin-no-android-part-2-reportando-crashes-da-aplica%C3%A7%C3%A3o-c35b823e88c8?source=rss------android-5)
-- [Hidizs S9 Review](https://medium.com/bedrock-reviews/hidizs-s9-review-617eaeb2af6?source=rss------android-5)
-- [Free Movie Download Apps For Android](https://medium.com/@bktechpro2.0/free-movie-download-apps-for-android-fdeb46b1780b?source=rss------android-5)
-- [Benefits of Single Activity Architecture](https://medium.com/@avinash-renukaradhya/benefits-of-single-activity-architecture-a8449737f996?source=rss------android-5)
-- [تحميل لعبة بيس PES 2022 بدون انترنت للاندرويد](https://medium.com/@mariamahadik/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%84%D8%B9%D8%A8%D8%A9-%D8%A8%D9%8A%D8%B3-pes-2022-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%84%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-718a59612199?source=rss------android-5)
-- [تحميل دريم ليج DLS 2022 الجديدة مهكرة](https://medium.com/@mariamahadik/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%AF%D8%B1%D9%8A%D9%85-%D9%84%D9%8A%D8%AC-dls-2022-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%87%D9%83%D8%B1%D8%A9-2eb32ac165c8?source=rss------android-5)
-- [تحميل لعبة فيفا 2022 بدون انترنت](https://medium.com/@mariamahadik/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%84%D8%B9%D8%A8%D8%A9-%D9%81%D9%8A%D9%81%D8%A7-2022-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA-1e4f7395c57b?source=rss------android-5)
-- [The state of translation in the mobile world.](https://medium.com/@tiagoreul/the-state-of-translation-in-the-mobile-world-14170639181b?source=rss------android-5)
+- [初探 Jetpack Compose — 渲染機制（Rendering）](https://tech.pic-collage.com/%E5%88%9D%E6%8E%A2-jetpack-compose-%E6%B8%B2%E6%9F%93%E6%A9%9F%E5%88%B6-rendering-8915f95c41f3?source=rss------android-5)
+- [Android Jetpack Compose Logbook— Day 1](https://medium.com/@efebu/android-jetpack-compose-logbook-day-1-534b3e173f3b?source=rss------android-5)
+- [Kinda oversimplified question, but, this use-case for concat, is basically to have some non…](https://medium.com/@arjunachatz/kinda-oversimplified-question-but-this-use-case-for-concat-is-basically-to-have-some-non-afbf54c5fe23?source=rss------android-5)
+- [Situs Perang Dadu Online Terhoki Di Indonesia](https://medium.com/@kasqqpkv/situs-perang-dadu-online-terhoki-di-indonesia-d7d4a47e7d0c?source=rss------android-5)
+- [App Store Optimization (ASO) Nedir ve Nasıl Yapılır?](https://medium.com/@ayselaydin/app-store-optimization-aso-nedir-ve-nas%C4%B1l-yap%C4%B1l%C4%B1r-758f4aa73bfe?source=rss------android-5)
+- [How  to  start  Android  programming](https://medium.com/@ayodyabanukafernando/how-to-start-android-programming-9ed8347c47f8?source=rss------android-5)
+- [Noobs approach to Android Pentesting- Nullcon Xtreme Android Hacking Training Experience](https://medium.com/@prateekthakare/noobs-approach-to-android-pentesting-nullcon-xtreme-android-hacking-training-experience-839f17bf15d4?source=rss------android-5)
+- [Instagram and my lack of money.](https://medium.com/@eduardo.alvesdacosta/instagram-and-my-lack-of-money-7eb03c993c0?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
