@@ -325,6 +325,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [The Privacy Problem With Android's 'Choice' Screen](https://gizmodo.com/the-privacy-problem-with-androids-choice-screen-1846433406)
 - [How to Switch From Old Google Pay to New Google Pay—and Why You Need To](https://gizmodo.com/how-to-switch-from-old-google-pay-to-new-google-pay-and-1846364688)
 - [The Flatcat Can't Even Walk, but It's Instantly the Creepiest Robot I've Ever Seen](https://gizmodo.com/the-flatcat-cant-even-walk-but-its-instantly-the-creep-1846366550)
 - [Don't Do It, Samsung](https://gizmodo.com/dont-do-it-samsung-1846355099)
@@ -334,7 +335,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Chromecast With Google TV Really Is Perfect Now, Huh?](https://gizmodo.com/chromecast-with-google-tv-really-is-perfect-now-huh-1846299585)
 - [The First Android 12 Developer Beta Is Here](https://gizmodo.com/the-first-android-12-developer-beta-is-here-1846297730)
 - [Google Maps Adds Tools to Pay for Parking and Transit in App](https://gizmodo.com/google-maps-adds-tools-to-pay-for-parking-and-transit-i-1846287281)
-- [A Hugely Popular File-Sharing Android App Also Has Giant, Terrible Security Flaws](https://gizmodo.com/a-hugely-popular-file-sharing-android-app-also-has-gian-1846276723)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
