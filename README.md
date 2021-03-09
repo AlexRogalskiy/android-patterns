@@ -340,6 +340,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [The privacy mirage](https://mobiledevmemo.com/the-privacy-mirage/)
 - [iOS 14, Privacy, and the Future of Digital Advertising](https://mobiledevmemo.com/ios-14-att-and-the-future-of-digital-advertising/)
 - [Podcast: The future of mobile attribution with Maor Sadra and Peter Hamilton](https://mobiledevmemo.com/podcast-the-future-of-mobile-attribution-with-maor-sadra-and-peter-hamilton/)
 - [The CPM math doesn’t work](https://mobiledevmemo.com/the-cpm-math-doesnt-work/)
@@ -349,7 +350,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Workshop: Understanding and preparing for AppTrackingTransparency in iOS 14](https://mobiledevmemo.com/workshop-understanding-and-preparing-for-apptrackingtransparency-in-ios-14/)
 - [“Allow this app to personalize advertising for you?”](https://mobiledevmemo.com/allow-this-app-to-personalize-advertising-for-you/)
 - [Why did Applovin buy Adjust?](https://mobiledevmemo.com/why-did-applovin-buy-adjust/)
-- [Apple privileges its own ad network with ATT. What’s its privacy endgame?](https://mobiledevmemo.com/apple-privileges-its-own-ad-network-whats-its-privacy-end-game/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
