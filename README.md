@@ -296,16 +296,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Arsenal posts_
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+- [Shuttle](http://android-arsenal.com/details/1/8231)
+- [ResOf](http://android-arsenal.com/details/1/8230)
+- [SegmentedProgressBar](http://android-arsenal.com/details/1/8229)
+- [StackExpandableView](http://android-arsenal.com/details/1/8228)
+- [Multiple Progress Bar](http://android-arsenal.com/details/1/8227)
 - [Bindables](http://android-arsenal.com/details/1/8226)
 - [RxDisposableWatcher](http://android-arsenal.com/details/1/8225)
 - [android-uniDevId](http://android-arsenal.com/details/1/8224)
 - [BottomSheet Menu](http://android-arsenal.com/details/1/8223)
 - [Boot Laces](http://android-arsenal.com/details/1/8222)
-- [Pixl](http://android-arsenal.com/details/1/8221)
-- [TagLabelText](http://android-arsenal.com/details/1/8220)
-- [StoryViewer](http://android-arsenal.com/details/3/8219)
-- [Bouncy](http://android-arsenal.com/details/1/8218)
-- [Routes](http://android-arsenal.com/details/1/8217)
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### _Medium posts_
