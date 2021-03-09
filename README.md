@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android as Peripheral -- BLE Bonding Causes Disconnection and errors in future connections](https://www.reddit.com/r/androiddev/comments/m03g1m/android_as_peripheral_ble_bonding_causes/)
-- [Absolute Noob Looking To Make Android App Which Accesses Snapchat](https://www.reddit.com/r/androiddev/comments/m01qek/absolute_noob_looking_to_make_android_app_which/)
-- [MS AppCenter Analytics - Tracking crashes](https://www.reddit.com/r/androiddev/comments/m01mya/ms_appcenter_analytics_tracking_crashes/)
-- [Asking myself about using Room and Firebase or only Firebase](https://www.reddit.com/r/androiddev/comments/lzyx7g/asking_myself_about_using_room_and_firebase_or/)
-- [RecyclerView with change payload](https://www.reddit.com/r/androiddev/comments/lzvvwu/recyclerview_with_change_payload/)
-- [How to implement a curved recycler view ?](https://www.reddit.com/r/androiddev/comments/lztcw3/how_to_implement_a_curved_recycler_view/)
-- [notes app with compose UI and navigation](https://www.reddit.com/r/androiddev/comments/lzruk7/notes_app_with_compose_ui_and_navigation/)
-- [Begining of Modern Apps , App Distrubution . App Development Before the iPhone](https://www.reddit.com/r/androiddev/comments/lzrbks/begining_of_modern_apps_app_distrubution_app/)
-- [Using androidx.biometric, is it possible to create a biometric prompt from a service (no activity) in Java?](https://www.reddit.com/r/androiddev/comments/lzqryl/using_androidxbiometric_is_it_possible_to_create/)
-- [AndroidResourceManager 1.0.0 tool to help you manage your resource](https://www.reddit.com/r/androiddev/comments/lzprbm/androidresourcemanager_100_tool_to_help_you/)
+- [Gamedge - An Android application for browsing video games and checking the latest gaming news from around the world.](https://www.reddit.com/r/androiddev/comments/m0u50a/gamedge_an_android_application_for_browsing_video/)
+- [Best way to learn Android Development?](https://www.reddit.com/r/androiddev/comments/m0tcxj/best_way_to_learn_android_development/)
+- [Open Source submission #AndroidDevChallenge](https://www.reddit.com/r/androiddev/comments/m0rwbj/open_source_submission_androiddevchallenge/)
+- [Does anyone here use BigQuery for Firebase for their app analytical needs?](https://www.reddit.com/r/androiddev/comments/m0rvzr/does_anyone_here_use_bigquery_for_firebase_for/)
+- [If user has poor wifi, can I set google play login service to offline mode?](https://www.reddit.com/r/androiddev/comments/m0qk2g/if_user_has_poor_wifi_can_i_set_google_play_login/)
+- [Android Gradle plugin 7.0 will allow the use of Java 11 source code in your project](https://www.reddit.com/r/androiddev/comments/m0pwkv/android_gradle_plugin_70_will_allow_the_use_of/)
+- [[WIP] I created my first Android library using Kotlin for validating Forms and Strings](https://www.reddit.com/r/androiddev/comments/m0nf33/wip_i_created_my_first_android_library_using/)
+- [Android Studio Arctic Fox Canary 9 available](https://www.reddit.com/r/androiddev/comments/m0lqu9/android_studio_arctic_fox_canary_9_available/)
+- [Is it possible to get hired as an Android developer if the only language I currently know is Kotlin?](https://www.reddit.com/r/androiddev/comments/m0jwyx/is_it_possible_to_get_hired_as_an_android/)
+- [HOWTO: Running Java code directly on Android (without creating an APK)](https://www.reddit.com/r/androiddev/comments/m0hnmx/howto_running_java_code_directly_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
