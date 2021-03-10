@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gamedge - An Android application for browsing video games and checking the latest gaming news from around the world.](https://www.reddit.com/r/androiddev/comments/m0u50a/gamedge_an_android_application_for_browsing_video/)
-- [Best way to learn Android Development?](https://www.reddit.com/r/androiddev/comments/m0tcxj/best_way_to_learn_android_development/)
-- [Open Source submission #AndroidDevChallenge](https://www.reddit.com/r/androiddev/comments/m0rwbj/open_source_submission_androiddevchallenge/)
-- [Does anyone here use BigQuery for Firebase for their app analytical needs?](https://www.reddit.com/r/androiddev/comments/m0rvzr/does_anyone_here_use_bigquery_for_firebase_for/)
-- [If user has poor wifi, can I set google play login service to offline mode?](https://www.reddit.com/r/androiddev/comments/m0qk2g/if_user_has_poor_wifi_can_i_set_google_play_login/)
-- [Android Gradle plugin 7.0 will allow the use of Java 11 source code in your project](https://www.reddit.com/r/androiddev/comments/m0pwkv/android_gradle_plugin_70_will_allow_the_use_of/)
-- [[WIP] I created my first Android library using Kotlin for validating Forms and Strings](https://www.reddit.com/r/androiddev/comments/m0nf33/wip_i_created_my_first_android_library_using/)
-- [Android Studio Arctic Fox Canary 9 available](https://www.reddit.com/r/androiddev/comments/m0lqu9/android_studio_arctic_fox_canary_9_available/)
-- [Is it possible to get hired as an Android developer if the only language I currently know is Kotlin?](https://www.reddit.com/r/androiddev/comments/m0jwyx/is_it_possible_to_get_hired_as_an_android/)
-- [HOWTO: Running Java code directly on Android (without creating an APK)](https://www.reddit.com/r/androiddev/comments/m0hnmx/howto_running_java_code_directly_on_android/)
+- [Any way to create custom indoor maps?](https://www.reddit.com/r/androiddev/comments/m1ln1q/any_way_to_create_custom_indoor_maps/)
+- [[DEV] selling my App](https://www.reddit.com/r/androiddev/comments/m1kcdv/dev_selling_my_app/)
+- [What is the CI/CD process in your company?](https://www.reddit.com/r/androiddev/comments/m1g9wa/what_is_the_cicd_process_in_your_company/)
+- [A custom view that resembles the iOS notification group behavior](https://www.reddit.com/r/androiddev/comments/m1fwyo/a_custom_view_that_resembles_the_ios_notification/)
+- [Open Source / Volunteer work at the Litecoin Foundation](https://www.reddit.com/r/androiddev/comments/m1e3fg/open_source_volunteer_work_at_the_litecoin/)
+- [Which of these ways is best used to access the meaning of guessed words?( a word finder with given letters game)](https://www.reddit.com/r/androiddev/comments/m1d33n/which_of_these_ways_is_best_used_to_access_the/)
+- [Android Studio 4.2 Beta 6 available](https://www.reddit.com/r/androiddev/comments/m1ca7n/android_studio_42_beta_6_available/)
+- [what are the general tasks i need to do to put tutorial Videos Online in My Application?](https://www.reddit.com/r/androiddev/comments/m1ai2q/what_are_the_general_tasks_i_need_to_do_to_put/)
+- [Help Local Business and Restaurants using Open-Source !](https://www.reddit.com/r/androiddev/comments/m1ahw1/help_local_business_and_restaurants_using/)
+- [What are the current best alternative libraries to Jetpack Navigation Component which preserve state and backstack and work with Bottom Navigation?](https://www.reddit.com/r/androiddev/comments/m1a5ee/what_are_the_current_best_alternative_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
