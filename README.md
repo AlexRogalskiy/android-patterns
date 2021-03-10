@@ -311,15 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Trabajar con la muestra de Core Map y Location](https://medium.com/@huawei-latinoamerica/trabajar-con-la-muestra-de-core-map-y-location-7080620f58cb?source=rss------android-5)
-- [Con che cosa si ascoltano i Podcast](https://medium.com/@flashennio/con-che-cosa-si-ascoltano-i-podcast-5b289ccc84b7?source=rss------android-5)
-- [Constraint Layout com Compose](https://medium.com/android-dev-br/constraint-layout-com-compose-8928d4dbdf?source=rss------android-5)
-- [Storage Roadmap: Targeting Android 30](https://levelup.gitconnected.com/storage-roadmap-targeting-android-30-73927be58804?source=rss------android-5)
-- [Can a single one replace all image neural classifier apps? A fun with CLIP](https://medium.com/@alexankhar/can-a-single-one-replace-all-image-neural-classifier-apps-a-fun-with-clip-cdaa4c4edd84?source=rss------android-5)
-- [Using viewModels with jetpack Compose and navigation-compose](https://proandroiddev.com/using-viewmodels-with-jetpack-compose-and-navigation-compose-b7fe675245a9?source=rss------android-5)
-- [How 2FAS Backup Works](https://medium.com/@2fas/how-2fas-backup-works-f6e27ad0c444?source=rss------android-5)
-- [How to Backup the Android Launcher](https://medium.com/@devinsmith02020/how-to-backup-the-android-launcher-260c1435cb7e?source=rss------android-5)
-- [33 Viewpager2 Transformers for Your Android ui’s](https://medium.com/@moforemmanuel/33-viewpager2-transformers-for-your-android-uis-bbdab801eb2b?source=rss------android-5)
+- [USING LAMDEN WALLET EXTENSION ON ANDROID](https://medium.com/@hiketabo/using-lamden-wallet-extension-on-android-in-case-you-dont-know-what-lamden-is-lamden-is-a-highly-72017a92f70b?source=rss------android-5)
+- [I tried this out this morning as I have the exact same use-case, I am using the new material…](https://medium.com/@arjunachatz/i-tried-this-out-this-morning-as-i-have-the-exact-same-use-case-i-am-using-the-new-material-46a883f22bb6?source=rss------android-5)
+- [Flutter 2 In 2 minutes](https://medium.com/@jelenajjovanoski/flutter-2-in-2-minutes-bcc0312731e8?source=rss------android-5)
+- [How to communicate service and UI using LiveData](https://medium.com/@kamilabrito/how-to-communicate-service-and-ui-using-livedata-8718fbb5b4a8?source=rss------android-5)
+- [Samsung’s Galaxy S21 is the no-brainer upgrade phone!](https://medium.com/@outputinfos/samsungs-galaxy-s21-is-the-no-brainer-upgrade-phone-7c565f95c30d?source=rss------android-5)
+- [Integrating Truecaller SDK in React Native](https://medium.com/@aaleenmirza110/integrating-truecaller-sdk-in-react-native-dbed49b601d4?source=rss------android-5)
+- [RecyclerView with nested scrolling inside items](https://medium.com/@yusufabd/recyclerview-with-nested-scrolling-inside-items-f9c3a566f6f2?source=rss------android-5)
+- [Theming in Jetpack Compose for Android](https://betterprogramming.pub/theming-in-jetpack-compose-for-android-667d42b8279c?source=rss------android-5)
+- [Knives Out-No rules, just fight! v1.257.479099 (Mod Apk Money working)](https://medium.com/@amongusapkmod/knives-out-no-rules-just-fight-v1-257-479099-mod-apk-money-working-ca3057cbb919?source=rss------android-5)
+- [BIG BANG Evolution 1.3.4 (Mod Apk Money Working Game)](https://medium.com/@amongusapkmod/big-bang-evolution-1-3-4-mod-apk-money-working-game-3dc3a60201ef?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
