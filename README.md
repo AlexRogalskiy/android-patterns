@@ -326,6 +326,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Epic Is Taking Google to Court (Again)](https://gizmodo.com/epic-is-taking-google-to-court-again-1846446966)
 - [Google Is Bringing an Apple-Like Handoff Feature to Android Phones and Chromebooks](https://gizmodo.com/google-is-bringing-an-apple-like-handoff-feature-to-and-1846441190)
 - [The Privacy Problem With Android's 'Choice' Screen](https://gizmodo.com/the-privacy-problem-with-androids-choice-screen-1846433406)
 - [How to Switch From Old Google Pay to New Google Pay—and Why You Need To](https://gizmodo.com/how-to-switch-from-old-google-pay-to-new-google-pay-and-1846364688)
@@ -335,7 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [How Android's Nearby Share Compares to Apple's AirDrop](https://gizmodo.com/how-androids-nearby-share-compares-to-apples-airdrop-1846315959)
 - [Google Maps Dark Mode and More Useful Android Features Are Rolling Out Today](https://gizmodo.com/google-maps-dark-mode-and-more-useful-android-features-1846336221)
 - [Chromecast With Google TV Really Is Perfect Now, Huh?](https://gizmodo.com/chromecast-with-google-tv-really-is-perfect-now-huh-1846299585)
-- [The First Android 12 Developer Beta Is Here](https://gizmodo.com/the-first-android-12-developer-beta-is-here-1846297730)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
