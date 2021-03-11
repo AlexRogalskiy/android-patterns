@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [USING LAMDEN WALLET EXTENSION ON ANDROID](https://medium.com/@hiketabo/using-lamden-wallet-extension-on-android-in-case-you-dont-know-what-lamden-is-lamden-is-a-highly-72017a92f70b?source=rss------android-5)
-- [I tried this out this morning as I have the exact same use-case, I am using the new material…](https://medium.com/@arjunachatz/i-tried-this-out-this-morning-as-i-have-the-exact-same-use-case-i-am-using-the-new-material-46a883f22bb6?source=rss------android-5)
-- [Flutter 2 In 2 minutes](https://medium.com/@jelenajjovanoski/flutter-2-in-2-minutes-bcc0312731e8?source=rss------android-5)
-- [How to communicate service and UI using LiveData](https://medium.com/@kamilabrito/how-to-communicate-service-and-ui-using-livedata-8718fbb5b4a8?source=rss------android-5)
-- [Samsung’s Galaxy S21 is the no-brainer upgrade phone!](https://medium.com/@outputinfos/samsungs-galaxy-s21-is-the-no-brainer-upgrade-phone-7c565f95c30d?source=rss------android-5)
-- [Integrating Truecaller SDK in React Native](https://medium.com/@aaleenmirza110/integrating-truecaller-sdk-in-react-native-dbed49b601d4?source=rss------android-5)
-- [RecyclerView with nested scrolling inside items](https://medium.com/@yusufabd/recyclerview-with-nested-scrolling-inside-items-f9c3a566f6f2?source=rss------android-5)
-- [Theming in Jetpack Compose for Android](https://betterprogramming.pub/theming-in-jetpack-compose-for-android-667d42b8279c?source=rss------android-5)
-- [Knives Out-No rules, just fight! v1.257.479099 (Mod Apk Money working)](https://medium.com/@amongusapkmod/knives-out-no-rules-just-fight-v1-257-479099-mod-apk-money-working-ca3057cbb919?source=rss------android-5)
-- [BIG BANG Evolution 1.3.4 (Mod Apk Money Working Game)](https://medium.com/@amongusapkmod/big-bang-evolution-1-3-4-mod-apk-money-working-game-3dc3a60201ef?source=rss------android-5)
+- [Add Voice Recognition to React Native Without Adding the Cloud](https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4?source=rss------android-5)
+- [Website / AGEN Perang Dadu Online Terhoki Di Indonesia](https://medium.com/@kasqqpkv/website-agen-perang-dadu-online-terhoki-di-indonesia-b15a38c24fef?source=rss------android-5)
+- [So I have been visiting my psychotherapist for 3 years and can finally say I am fixed!](https://medium.com/@inferion2010/so-i-have-been-visiting-my-psychotherapist-for-3-years-and-can-finally-say-i-am-fixed-d94ae09e026d?source=rss------android-5)
+- [How much cost to build an Android App?](https://medium.com/@androiddevlearn/how-much-cost-to-build-an-android-app-40bf526857?source=rss------android-5)
+- [What is the best Antivirus for Android?](https://medium.com/@androiddevlearn/what-is-the-best-antivirus-for-android-ce52fd106b1f?source=rss------android-5)
+- [MyHeritage Deep Nostalgia Apk Free Download For Android](https://medium.com/@alizaib345-az1/myheritage-deep-nostalgia-apk-free-download-for-android-1c7c26e991f?source=rss------android-5)
+- [Throttle Debounce 차이](https://medium.com/@lanicc/throttle-debounce-%EC%B0%A8%EC%9D%B4-7b59089f6be5?source=rss------android-5)
+- [Flutter is no longer a cross-platform framework](https://itnext.io/flutter-is-no-longer-a-cross-platform-framework-b53c87b14c39?source=rss------android-5)
+- [Choosing The Best Framework for Your Next Mobile App](https://medium.com/swlh/choosing-the-best-framework-for-your-next-mobile-app-1d2245e2406b?source=rss------android-5)
+- [View Binding Nedir?](https://medium.com/@yagmurerdgn/view-binding-nedir-c6e66f3c9ea3?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
