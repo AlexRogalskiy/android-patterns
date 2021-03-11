@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any way to create custom indoor maps?](https://www.reddit.com/r/androiddev/comments/m1ln1q/any_way_to_create_custom_indoor_maps/)
-- [[DEV] selling my App](https://www.reddit.com/r/androiddev/comments/m1kcdv/dev_selling_my_app/)
-- [What is the CI/CD process in your company?](https://www.reddit.com/r/androiddev/comments/m1g9wa/what_is_the_cicd_process_in_your_company/)
-- [A custom view that resembles the iOS notification group behavior](https://www.reddit.com/r/androiddev/comments/m1fwyo/a_custom_view_that_resembles_the_ios_notification/)
-- [Open Source / Volunteer work at the Litecoin Foundation](https://www.reddit.com/r/androiddev/comments/m1e3fg/open_source_volunteer_work_at_the_litecoin/)
-- [Which of these ways is best used to access the meaning of guessed words?( a word finder with given letters game)](https://www.reddit.com/r/androiddev/comments/m1d33n/which_of_these_ways_is_best_used_to_access_the/)
-- [Android Studio 4.2 Beta 6 available](https://www.reddit.com/r/androiddev/comments/m1ca7n/android_studio_42_beta_6_available/)
-- [what are the general tasks i need to do to put tutorial Videos Online in My Application?](https://www.reddit.com/r/androiddev/comments/m1ai2q/what_are_the_general_tasks_i_need_to_do_to_put/)
-- [Help Local Business and Restaurants using Open-Source !](https://www.reddit.com/r/androiddev/comments/m1ahw1/help_local_business_and_restaurants_using/)
-- [What are the current best alternative libraries to Jetpack Navigation Component which preserve state and backstack and work with Bottom Navigation?](https://www.reddit.com/r/androiddev/comments/m1a5ee/what_are_the_current_best_alternative_libraries/)
+- [Lack CameraX vendor extensions support on pixel devices](https://www.reddit.com/r/androiddev/comments/m2ei1q/lack_camerax_vendor_extensions_support_on_pixel/)
+- [Chrome devtools GUI is down](https://www.reddit.com/r/androiddev/comments/m2dznc/chrome_devtools_gui_is_down/)
+- [Compose: Is possible to cascade text color to child elements?](https://www.reddit.com/r/androiddev/comments/m2bhy1/compose_is_possible_to_cascade_text_color_to/)
+- [Making a PRO/Paid version of a free app?](https://www.reddit.com/r/androiddev/comments/m2ayic/making_a_propaid_version_of_a_free_app/)
+- [Is releasing on google play open beta first better than going live straight away? Tricking the algos?](https://www.reddit.com/r/androiddev/comments/m2aqdu/is_releasing_on_google_play_open_beta_first/)
+- [Push notification with flutter and Firebase](https://www.reddit.com/r/androiddev/comments/m27be7/push_notification_with_flutter_and_firebase/)
+- [activity.isFinishing() vs activity.isChangingConfigurations()](https://www.reddit.com/r/androiddev/comments/m26vub/activityisfinishing_vs/)
+- [Android Studio or Intellij for developing Android apps?](https://www.reddit.com/r/androiddev/comments/m2561e/android_studio_or_intellij_for_developing_android/)
+- [Custom messenger app doesn't store any MMS content inside the needed providers (android 10)](https://www.reddit.com/r/androiddev/comments/m251vn/custom_messenger_app_doesnt_store_any_mms_content/)
+- [Most valuable refactors?](https://www.reddit.com/r/androiddev/comments/m240kk/most_valuable_refactors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
