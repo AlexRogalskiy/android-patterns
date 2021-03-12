@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Lack CameraX vendor extensions support on pixel devices](https://www.reddit.com/r/androiddev/comments/m2ei1q/lack_camerax_vendor_extensions_support_on_pixel/)
-- [Chrome devtools GUI is down](https://www.reddit.com/r/androiddev/comments/m2dznc/chrome_devtools_gui_is_down/)
-- [Compose: Is possible to cascade text color to child elements?](https://www.reddit.com/r/androiddev/comments/m2bhy1/compose_is_possible_to_cascade_text_color_to/)
-- [Making a PRO/Paid version of a free app?](https://www.reddit.com/r/androiddev/comments/m2ayic/making_a_propaid_version_of_a_free_app/)
-- [Is releasing on google play open beta first better than going live straight away? Tricking the algos?](https://www.reddit.com/r/androiddev/comments/m2aqdu/is_releasing_on_google_play_open_beta_first/)
-- [Push notification with flutter and Firebase](https://www.reddit.com/r/androiddev/comments/m27be7/push_notification_with_flutter_and_firebase/)
-- [activity.isFinishing() vs activity.isChangingConfigurations()](https://www.reddit.com/r/androiddev/comments/m26vub/activityisfinishing_vs/)
-- [Android Studio or Intellij for developing Android apps?](https://www.reddit.com/r/androiddev/comments/m2561e/android_studio_or_intellij_for_developing_android/)
-- [Custom messenger app doesn't store any MMS content inside the needed providers (android 10)](https://www.reddit.com/r/androiddev/comments/m251vn/custom_messenger_app_doesnt_store_any_mms_content/)
-- [Most valuable refactors?](https://www.reddit.com/r/androiddev/comments/m240kk/most_valuable_refactors/)
+- [Is there a Google API to show an app from the Play Store on a bottom sheet?](https://www.reddit.com/r/androiddev/comments/m360u7/is_there_a_google_api_to_show_an_app_from_the/)
+- [ConstraintLayout 2.1.0 beta 1](https://www.reddit.com/r/androiddev/comments/m35q97/constraintlayout_210_beta_1/)
+- [Best place to create initialize/create Room database?](https://www.reddit.com/r/androiddev/comments/m34j13/best_place_to_create_initializecreate_room/)
+- [Keeping up with deprecations?](https://www.reddit.com/r/androiddev/comments/m34dyh/keeping_up_with_deprecations/)
+- [Android app challenge for a job interview](https://www.reddit.com/r/androiddev/comments/m32zjt/android_app_challenge_for_a_job_interview/)
+- [Deploy an App with the ability for the user to download some content from the cloud](https://www.reddit.com/r/androiddev/comments/m313s1/deploy_an_app_with_the_ability_for_the_user_to/)
+- [How can I upload APK bigger than 100mb? (simplified)](https://www.reddit.com/r/androiddev/comments/m2zs9g/how_can_i_upload_apk_bigger_than_100mb_simplified/)
+- [Is reddit android app Native or react-native?](https://www.reddit.com/r/androiddev/comments/m2zpe8/is_reddit_android_app_native_or_reactnative/)
+- [App review times](https://www.reddit.com/r/androiddev/comments/m2zfgt/app_review_times/)
+- [Android Library: Create an image/screenshot of any View or Bitamp in JPG, PNG or .nomedia formats with oneliner code. Save yourself the trouble!](https://www.reddit.com/r/androiddev/comments/m2z8ie/android_library_create_an_imagescreenshot_of_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
