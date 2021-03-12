@@ -311,16 +311,15 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Add Voice Recognition to React Native Without Adding the Cloud](https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4?source=rss------android-5)
-- [Website / AGEN Perang Dadu Online Terhoki Di Indonesia](https://medium.com/@kasqqpkv/website-agen-perang-dadu-online-terhoki-di-indonesia-b15a38c24fef?source=rss------android-5)
-- [So I have been visiting my psychotherapist for 3 years and can finally say I am fixed!](https://medium.com/@inferion2010/so-i-have-been-visiting-my-psychotherapist-for-3-years-and-can-finally-say-i-am-fixed-d94ae09e026d?source=rss------android-5)
-- [How much cost to build an Android App?](https://medium.com/@androiddevlearn/how-much-cost-to-build-an-android-app-40bf526857?source=rss------android-5)
-- [What is the best Antivirus for Android?](https://medium.com/@androiddevlearn/what-is-the-best-antivirus-for-android-ce52fd106b1f?source=rss------android-5)
-- [MyHeritage Deep Nostalgia Apk Free Download For Android](https://medium.com/@alizaib345-az1/myheritage-deep-nostalgia-apk-free-download-for-android-1c7c26e991f?source=rss------android-5)
-- [Throttle Debounce 차이](https://medium.com/@lanicc/throttle-debounce-%EC%B0%A8%EC%9D%B4-7b59089f6be5?source=rss------android-5)
-- [Flutter is no longer a cross-platform framework](https://itnext.io/flutter-is-no-longer-a-cross-platform-framework-b53c87b14c39?source=rss------android-5)
-- [Choosing The Best Framework for Your Next Mobile App](https://medium.com/swlh/choosing-the-best-framework-for-your-next-mobile-app-1d2245e2406b?source=rss------android-5)
-- [View Binding Nedir?](https://medium.com/@yagmurerdgn/view-binding-nedir-c6e66f3c9ea3?source=rss------android-5)
+- [lifecycle scope는 수명을 잘 알고 써야 한다](https://medium.com/@hkkim1984/lifecycle-scope%EB%8A%94-%EC%88%98%EB%AA%85%EC%9D%84-%EC%9E%98-%EC%95%8C%EA%B3%A0-%EC%8D%A8%EC%95%BC-%ED%95%9C%EB%8B%A4-33a01df5f804?source=rss------android-5)
+- [Bu Android uygulamaları banka hesaplarını çalıyor](https://medium.com/@ibrahimsansar/bu-android-uygulamalar%C4%B1-banka-hesaplar%C4%B1n%C4%B1-%C3%A7al%C4%B1yor-8751565c84cd?source=rss------android-5)
+- [Android Jetpack Compose Logbook — Day 2](https://medium.com/@efebu/android-jetpack-compose-logbook-day-2-4d5019d3381b?source=rss------android-5)
+- [Samsung Galaxy Buds Pro review: A little bit of everything](https://medium.com/news-about-tech/samsung-galaxy-buds-pro-review-a-little-bit-of-everything-2c4a58caec17?source=rss------android-5)
+- [Ordering an iFood from your car](https://medium.com/ifood-engineering/ordering-ifood-from-your-car-f0e3ae8e9af0?source=rss------android-5)
+- [Kotlin. Lambda vs Method Reference](https://medium.com/@gevondov/kotlin-lambda-vs-method-reference-fdbd175f6845?source=rss------android-5)
+- [GYST : Get Your Screenshots Together](https://medium.com/@founder01/gyst-get-your-screenshots-together-64e2654e04a1?source=rss------android-5)
+- [ARCHER KANGLIM — One touch action game v1.0.14 (Mod Apk)](https://medium.com/@clarice-2021/archer-kanglim-one-touch-action-game-v1-0-14-mod-apk-f528ead01d8d?source=rss------android-5)
+- [Firebase with Jetpack Compose — Cloud Firestore](https://medium.com/google-developer-experts/firebase-with-jetpack-compose-cloud-firestore-39d8d139536a?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
