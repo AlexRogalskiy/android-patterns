@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a Google API to show an app from the Play Store on a bottom sheet?](https://www.reddit.com/r/androiddev/comments/m360u7/is_there_a_google_api_to_show_an_app_from_the/)
-- [ConstraintLayout 2.1.0 beta 1](https://www.reddit.com/r/androiddev/comments/m35q97/constraintlayout_210_beta_1/)
-- [Best place to create initialize/create Room database?](https://www.reddit.com/r/androiddev/comments/m34j13/best_place_to_create_initializecreate_room/)
-- [Keeping up with deprecations?](https://www.reddit.com/r/androiddev/comments/m34dyh/keeping_up_with_deprecations/)
-- [Android app challenge for a job interview](https://www.reddit.com/r/androiddev/comments/m32zjt/android_app_challenge_for_a_job_interview/)
-- [Deploy an App with the ability for the user to download some content from the cloud](https://www.reddit.com/r/androiddev/comments/m313s1/deploy_an_app_with_the_ability_for_the_user_to/)
-- [How can I upload APK bigger than 100mb? (simplified)](https://www.reddit.com/r/androiddev/comments/m2zs9g/how_can_i_upload_apk_bigger_than_100mb_simplified/)
-- [Is reddit android app Native or react-native?](https://www.reddit.com/r/androiddev/comments/m2zpe8/is_reddit_android_app_native_or_reactnative/)
-- [App review times](https://www.reddit.com/r/androiddev/comments/m2zfgt/app_review_times/)
-- [Android Library: Create an image/screenshot of any View or Bitamp in JPG, PNG or .nomedia formats with oneliner code. Save yourself the trouble!](https://www.reddit.com/r/androiddev/comments/m2z8ie/android_library_create_an_imagescreenshot_of_any/)
+- [external audio phone wakeup?](https://www.reddit.com/r/androiddev/comments/m3vkwx/external_audio_phone_wakeup/)
+- [Multi accounts](https://www.reddit.com/r/androiddev/comments/m3udh7/multi_accounts/)
+- [Can a bare-minimum APK be traced to me by Google?](https://www.reddit.com/r/androiddev/comments/m3tjkc/can_a_bareminimum_apk_be_traced_to_me_by_google/)
+- [How to ADB backup/reset](https://www.reddit.com/r/androiddev/comments/m3sgwm/how_to_adb_backupreset/)
+- [5 Google Devloper Account Will Be Terminated](https://www.reddit.com/r/androiddev/comments/m3rtkz/5_google_devloper_account_will_be_terminated/)
+- [Storage full after flashing factory image for Android 11](https://www.reddit.com/r/androiddev/comments/m3r5vf/storage_full_after_flashing_factory_image_for/)
+- [How to create Instagram-like page number indicator](https://www.reddit.com/r/androiddev/comments/m3pvou/how_to_create_instagramlike_page_number_indicator/)
+- [Native code does not work - react native](https://www.reddit.com/r/androiddev/comments/m3pryb/native_code_does_not_work_react_native/)
+- [Effective handling your tech debt](https://www.reddit.com/r/androiddev/comments/m3owt3/effective_handling_your_tech_debt/)
+- [Is there a way to change where AVD installs images?](https://www.reddit.com/r/androiddev/comments/m3m5n2/is_there_a_way_to_change_where_avd_installs_images/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
