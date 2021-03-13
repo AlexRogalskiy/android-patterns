@@ -296,6 +296,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Arsenal posts_
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+- [Composer](http://android-arsenal.com/details/1/8234)
+- [Synth](http://android-arsenal.com/details/1/8233)
 - [TCharts](http://android-arsenal.com/details/1/8232)
 - [Shuttle](http://android-arsenal.com/details/1/8231)
 - [ResOf](http://android-arsenal.com/details/1/8230)
@@ -304,8 +306,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Multiple Progress Bar](http://android-arsenal.com/details/1/8227)
 - [Bindables](http://android-arsenal.com/details/1/8226)
 - [RxDisposableWatcher](http://android-arsenal.com/details/1/8225)
-- [android-uniDevId](http://android-arsenal.com/details/1/8224)
-- [BottomSheet Menu](http://android-arsenal.com/details/1/8223)
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### _Medium posts_
