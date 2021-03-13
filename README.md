@@ -311,15 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [lifecycle scope는 수명을 잘 알고 써야 한다](https://medium.com/@hkkim1984/lifecycle-scope%EB%8A%94-%EC%88%98%EB%AA%85%EC%9D%84-%EC%9E%98-%EC%95%8C%EA%B3%A0-%EC%8D%A8%EC%95%BC-%ED%95%9C%EB%8B%A4-33a01df5f804?source=rss------android-5)
-- [Bu Android uygulamaları banka hesaplarını çalıyor](https://medium.com/@ibrahimsansar/bu-android-uygulamalar%C4%B1-banka-hesaplar%C4%B1n%C4%B1-%C3%A7al%C4%B1yor-8751565c84cd?source=rss------android-5)
-- [Android Jetpack Compose Logbook — Day 2](https://medium.com/@efebu/android-jetpack-compose-logbook-day-2-4d5019d3381b?source=rss------android-5)
-- [Samsung Galaxy Buds Pro review: A little bit of everything](https://medium.com/news-about-tech/samsung-galaxy-buds-pro-review-a-little-bit-of-everything-2c4a58caec17?source=rss------android-5)
-- [Ordering an iFood from your car](https://medium.com/ifood-engineering/ordering-ifood-from-your-car-f0e3ae8e9af0?source=rss------android-5)
-- [Kotlin. Lambda vs Method Reference](https://medium.com/@gevondov/kotlin-lambda-vs-method-reference-fdbd175f6845?source=rss------android-5)
-- [GYST : Get Your Screenshots Together](https://medium.com/@founder01/gyst-get-your-screenshots-together-64e2654e04a1?source=rss------android-5)
-- [ARCHER KANGLIM — One touch action game v1.0.14 (Mod Apk)](https://medium.com/@clarice-2021/archer-kanglim-one-touch-action-game-v1-0-14-mod-apk-f528ead01d8d?source=rss------android-5)
-- [Firebase with Jetpack Compose — Cloud Firestore](https://medium.com/google-developer-experts/firebase-with-jetpack-compose-cloud-firestore-39d8d139536a?source=rss------android-5)
+- [Tipos De Aplicaciones Móviles](https://medium.com/@pmedina61920/tipos-de-aplicaciones-m%C3%B3viles-cf4d54656e49?source=rss------android-5)
+- [How useful is a degree of Liberal Arts or Social Sciences for a Job in Technology](https://medium.com/@ammarjamshed123/how-useful-is-a-degree-of-liberal-arts-or-social-sciences-for-a-job-in-technology-or-finance-560a9a14846c?source=rss------android-5)
+- [Design system com Jetpack Compose: Criando componentes](https://medium.com/warren-tech/design-system-com-jetpack-compose-criando-componentes-ea82884957f9?source=rss------android-5)
+- [Açılmayan Android Telefona Format Atma](https://medium.com/@radikalhaber42/a%C3%A7%C4%B1lmayan-android-telefona-format-atma-42ab9decdfe2?source=rss------android-5)
+- [Şirketinize Mobil Uygulama Desteği Vermenin Önemi.](https://medium.com/workclick/%C5%9Firketinize-mobil-uygulama-deste%C4%9Fi-vermenin-%C3%B6nemi-872753338de9?source=rss------android-5)
+- [Jetpack Navigation For Multi Module Android Apps with DI](https://medium.com/@simtop/jetpack-navigation-for-multi-module-android-apps-with-di-cc9a8af6586a?source=rss------android-5)
+- [Playing Widevine (DRM) enabled DASH Streams with Exoplayer on Android](https://medium.com/udemy-engineering/playing-widevine-drm-enabled-dash-streams-with-exoplayer-on-android-5541d7199ef0?source=rss------android-5)
+- [Build OpenSSL 1.1.1j for Android on macOS](https://medium.com/@brandonteng/build-openssl-1-1-1j-for-android-on-macos-7c5d8b4de828?source=rss------android-5)
+- [POKEMON UNITE Available For Android | Install Now | 5vs5 Open World High Graphics 2021 Pokemon Game](https://medium.com/@himanshurai114/pokemon-unite-available-for-android-install-now-5vs5-open-world-high-graphics-2021-pokemon-game-113f5ad184d5?source=rss------android-5)
+- [New Indian Battle Royale Mobile Game Announced @SICO MOBILE](https://medium.com/@himanshurai114/new-indian-battle-royale-mobile-game-announced-sico-mobile-cab7fbec136a?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
