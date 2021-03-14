@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [external audio phone wakeup?](https://www.reddit.com/r/androiddev/comments/m3vkwx/external_audio_phone_wakeup/)
-- [Multi accounts](https://www.reddit.com/r/androiddev/comments/m3udh7/multi_accounts/)
-- [Can a bare-minimum APK be traced to me by Google?](https://www.reddit.com/r/androiddev/comments/m3tjkc/can_a_bareminimum_apk_be_traced_to_me_by_google/)
-- [How to ADB backup/reset](https://www.reddit.com/r/androiddev/comments/m3sgwm/how_to_adb_backupreset/)
-- [5 Google Devloper Account Will Be Terminated](https://www.reddit.com/r/androiddev/comments/m3rtkz/5_google_devloper_account_will_be_terminated/)
-- [Storage full after flashing factory image for Android 11](https://www.reddit.com/r/androiddev/comments/m3r5vf/storage_full_after_flashing_factory_image_for/)
-- [How to create Instagram-like page number indicator](https://www.reddit.com/r/androiddev/comments/m3pvou/how_to_create_instagramlike_page_number_indicator/)
-- [Native code does not work - react native](https://www.reddit.com/r/androiddev/comments/m3pryb/native_code_does_not_work_react_native/)
-- [Effective handling your tech debt](https://www.reddit.com/r/androiddev/comments/m3owt3/effective_handling_your_tech_debt/)
-- [Is there a way to change where AVD installs images?](https://www.reddit.com/r/androiddev/comments/m3m5n2/is_there_a_way_to_change_where_avd_installs_images/)
+- [How to handle infinite lists in Android?](https://www.reddit.com/r/androiddev/comments/m4kpsk/how_to_handle_infinite_lists_in_android/)
+- [What resources to read/watch to market self as Senior Android Dev?](https://www.reddit.com/r/androiddev/comments/m4jv2y/what_resources_to_readwatch_to_market_self_as/)
+- [Can somebody please explain/confirm if this is how you are supposed to use the Camera2 API?](https://www.reddit.com/r/androiddev/comments/m4gdeh/can_somebody_please_explainconfirm_if_this_is_how/)
+- [Jetpack Compose - Pulsating Effect](https://www.reddit.com/r/androiddev/comments/m4fti6/jetpack_compose_pulsating_effect/)
+- [Things You Need To Know About The Android Bootloader](https://www.reddit.com/r/androiddev/comments/m4dhco/things_you_need_to_know_about_the_android/)
+- [Generate a desugared jar using a standalone desugar tool](https://www.reddit.com/r/androiddev/comments/m4cryu/generate_a_desugared_jar_using_a_standalone/)
+- [Question about A/B partitions](https://www.reddit.com/r/androiddev/comments/m4bqx7/question_about_ab_partitions/)
+- [Android 11 Storage Access Framework - How to use files?](https://www.reddit.com/r/androiddev/comments/m49sp7/android_11_storage_access_framework_how_to_use/)
+- [Create a notification over ssh.](https://www.reddit.com/r/androiddev/comments/m497yb/create_a_notification_over_ssh/)
+- [Google Play search results](https://www.reddit.com/r/androiddev/comments/m48kho/google_play_search_results/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
