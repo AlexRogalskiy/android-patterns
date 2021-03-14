@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Tipos De Aplicaciones Móviles](https://medium.com/@pmedina61920/tipos-de-aplicaciones-m%C3%B3viles-cf4d54656e49?source=rss------android-5)
-- [How useful is a degree of Liberal Arts or Social Sciences for a Job in Technology](https://medium.com/@ammarjamshed123/how-useful-is-a-degree-of-liberal-arts-or-social-sciences-for-a-job-in-technology-or-finance-560a9a14846c?source=rss------android-5)
-- [Design system com Jetpack Compose: Criando componentes](https://medium.com/warren-tech/design-system-com-jetpack-compose-criando-componentes-ea82884957f9?source=rss------android-5)
-- [Açılmayan Android Telefona Format Atma](https://medium.com/@radikalhaber42/a%C3%A7%C4%B1lmayan-android-telefona-format-atma-42ab9decdfe2?source=rss------android-5)
-- [Şirketinize Mobil Uygulama Desteği Vermenin Önemi.](https://medium.com/workclick/%C5%9Firketinize-mobil-uygulama-deste%C4%9Fi-vermenin-%C3%B6nemi-872753338de9?source=rss------android-5)
-- [Jetpack Navigation For Multi Module Android Apps with DI](https://medium.com/@simtop/jetpack-navigation-for-multi-module-android-apps-with-di-cc9a8af6586a?source=rss------android-5)
-- [Playing Widevine (DRM) enabled DASH Streams with Exoplayer on Android](https://medium.com/udemy-engineering/playing-widevine-drm-enabled-dash-streams-with-exoplayer-on-android-5541d7199ef0?source=rss------android-5)
-- [Build OpenSSL 1.1.1j for Android on macOS](https://medium.com/@brandonteng/build-openssl-1-1-1j-for-android-on-macos-7c5d8b4de828?source=rss------android-5)
-- [POKEMON UNITE Available For Android | Install Now | 5vs5 Open World High Graphics 2021 Pokemon Game](https://medium.com/@himanshurai114/pokemon-unite-available-for-android-install-now-5vs5-open-world-high-graphics-2021-pokemon-game-113f5ad184d5?source=rss------android-5)
-- [New Indian Battle Royale Mobile Game Announced @SICO MOBILE](https://medium.com/@himanshurai114/new-indian-battle-royale-mobile-game-announced-sico-mobile-cab7fbec136a?source=rss------android-5)
+- [Database Inspector — Android studio most powerful tool](https://medium.com/@nandishswarup/database-inspector-android-studio-most-powerful-tool-b036faddf82?source=rss------android-5)
+- [A journey from callback hell to Kotlin coroutines, episode 2](https://medium.com/@ahmednmahran/a-journey-from-callback-hell-to-kotlin-coroutines-episode-2-c048f9898f?source=rss------android-5)
+- [What happens after upgrading to Flutter 2.0 or beyond?](https://medium.com/@engineerdanny/what-happens-after-upgrading-to-flutter-2-0-or-beyond-876bcd6c964e?source=rss------android-5)
+- [Jetpack Compose — Pulsating Effect](https://medium.com/@pauloaapereira/jetpack-compose-pulsating-effect-4b9f2928d31a?source=rss------android-5)
+- [Oh My Precious Medium Android App](https://medium.com/muddyum/oh-my-precious-medium-android-app-cfe52079dd6?source=rss------android-5)
+- [Android Automation: Fastlane and Jenkins](https://blog.usejournal.com/android-automation-fastlane-and-jenkins-d879a7ce2a84?source=rss------android-5)
+- [Custom back press handling in Dialog Fragments](https://medium.com/@yaxarat/custom-back-press-handling-in-dialog-fragments-2566a9ed3ce7?source=rss------android-5)
+- [Git Hooks for Beginners](https://medium.com/android-dev-corner/git-hooks-for-beginners-4eb17e25bcc2?source=rss------android-5)
+- [Mezjer poropast i beskonbeshmost 13 03 2021](https://medium.com/@glggqveq/mezjer-poropast-i-beskonbeshmost-13-03-2021-3ca222261a2c?source=rss------android-5)
+- [Jetpack Compose — Drawer that pushes the content instead of overlaying it](https://medium.com/@pauloaapereira/jetpack-compose-drawer-that-pushes-the-content-instead-of-overlaying-it-5ee71d4a04d0?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
