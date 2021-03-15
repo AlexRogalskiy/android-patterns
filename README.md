@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Database Inspector — Android studio most powerful tool](https://medium.com/@nandishswarup/database-inspector-android-studio-most-powerful-tool-b036faddf82?source=rss------android-5)
-- [A journey from callback hell to Kotlin coroutines, episode 2](https://medium.com/@ahmednmahran/a-journey-from-callback-hell-to-kotlin-coroutines-episode-2-c048f9898f?source=rss------android-5)
-- [What happens after upgrading to Flutter 2.0 or beyond?](https://medium.com/@engineerdanny/what-happens-after-upgrading-to-flutter-2-0-or-beyond-876bcd6c964e?source=rss------android-5)
-- [Jetpack Compose — Pulsating Effect](https://medium.com/@pauloaapereira/jetpack-compose-pulsating-effect-4b9f2928d31a?source=rss------android-5)
-- [Oh My Precious Medium Android App](https://medium.com/muddyum/oh-my-precious-medium-android-app-cfe52079dd6?source=rss------android-5)
-- [Android Automation: Fastlane and Jenkins](https://blog.usejournal.com/android-automation-fastlane-and-jenkins-d879a7ce2a84?source=rss------android-5)
-- [Custom back press handling in Dialog Fragments](https://medium.com/@yaxarat/custom-back-press-handling-in-dialog-fragments-2566a9ed3ce7?source=rss------android-5)
-- [Git Hooks for Beginners](https://medium.com/android-dev-corner/git-hooks-for-beginners-4eb17e25bcc2?source=rss------android-5)
-- [Mezjer poropast i beskonbeshmost 13 03 2021](https://medium.com/@glggqveq/mezjer-poropast-i-beskonbeshmost-13-03-2021-3ca222261a2c?source=rss------android-5)
-- [Jetpack Compose — Drawer that pushes the content instead of overlaying it](https://medium.com/@pauloaapereira/jetpack-compose-drawer-that-pushes-the-content-instead-of-overlaying-it-5ee71d4a04d0?source=rss------android-5)
+- [Co-Authoring The Book How to Build Android Apps with Kotlin](https://medium.com/@jomartigcal/co-authoring-the-book-how-to-build-android-apps-with-kotlin-4645c20ade77?source=rss------android-5)
+- [How To Deploy To Firebase App Distribution With GitHub Actions](https://levelup.gitconnected.com/how-to-deploy-to-firebase-app-distribution-with-github-actions-ef2061725cd5?source=rss------android-5)
+- [Java Spliterator Explained](https://levelup.gitconnected.com/java-spliterator-explained-81e501b37b3d?source=rss------android-5)
+- [Açılmayan Açılmayan Telefona Nasıl Format Atılır ?](https://medium.com/@radikalhaber42/a%C3%A7%C4%B1lmayan-a%C3%A7%C4%B1lmayan-telefona-nas%C4%B1l-format-at%C4%B1l%C4%B1r-60c89a115e73?source=rss------android-5)
+- [Wild Storage | Part 2 — Threading and Concurrency](https://medium.com/knowing-android/wild-storage-part-2-threading-and-concurrency-40f38992ca2d?source=rss------android-5)
+- [Projecting the Future: Remote IDEs](https://medium.com/@sp4ghetticode/projecting-the-future-remote-ides-beb29814a174?source=rss------android-5)
+- [Cyclomatic Complexity on Android](https://proandroiddev.com/cyclomatic-complexity-on-android-d52577d3e638?source=rss------android-5)
+- [How to Delete & Reset M1 (2021) or Apple Silicon Mac to factory defaults.](https://medium.com/@rohit1221giri/how-to-delete-reset-m1-2021-or-apple-silicon-mac-to-factory-defaults-ce7dee86d2da?source=rss------android-5)
+- [When Android is Universe, then Coroutine is SpaceShip (Coroutine Vs RxJava)](https://medium.com/@atulsakhala/when-android-is-universe-then-coroutine-is-spaceship-coroutine-vs-rxjava-23b0f3449410?source=rss------android-5)
+- [WhatsApp Karşı Tarafın Sildiği Mesajları Okuma](https://medium.com/@radikalhaber42/whatsapp-kar%C5%9F%C4%B1-taraf%C4%B1n-sildi%C4%9Fi-mesajlar%C4%B1-okuma-f5bb618a4213?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
