@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to handle infinite lists in Android?](https://www.reddit.com/r/androiddev/comments/m4kpsk/how_to_handle_infinite_lists_in_android/)
-- [What resources to read/watch to market self as Senior Android Dev?](https://www.reddit.com/r/androiddev/comments/m4jv2y/what_resources_to_readwatch_to_market_self_as/)
-- [Can somebody please explain/confirm if this is how you are supposed to use the Camera2 API?](https://www.reddit.com/r/androiddev/comments/m4gdeh/can_somebody_please_explainconfirm_if_this_is_how/)
-- [Jetpack Compose - Pulsating Effect](https://www.reddit.com/r/androiddev/comments/m4fti6/jetpack_compose_pulsating_effect/)
-- [Things You Need To Know About The Android Bootloader](https://www.reddit.com/r/androiddev/comments/m4dhco/things_you_need_to_know_about_the_android/)
-- [Generate a desugared jar using a standalone desugar tool](https://www.reddit.com/r/androiddev/comments/m4cryu/generate_a_desugared_jar_using_a_standalone/)
-- [Question about A/B partitions](https://www.reddit.com/r/androiddev/comments/m4bqx7/question_about_ab_partitions/)
-- [Android 11 Storage Access Framework - How to use files?](https://www.reddit.com/r/androiddev/comments/m49sp7/android_11_storage_access_framework_how_to_use/)
-- [Create a notification over ssh.](https://www.reddit.com/r/androiddev/comments/m497yb/create_a_notification_over_ssh/)
-- [Google Play search results](https://www.reddit.com/r/androiddev/comments/m48kho/google_play_search_results/)
+- [How could I implement all these theme configurations?](https://www.reddit.com/r/androiddev/comments/m5823l/how_could_i_implement_all_these_theme/)
+- [How does internal test build update distribution work](https://www.reddit.com/r/androiddev/comments/m57mbl/how_does_internal_test_build_update_distribution/)
+- [My first app (I am 16 and new to android dev so sorry if it's not that polished) I am waiting for it to be reviewed on google console right now. It's an app which has some little text tools it's called TEXT](https://www.reddit.com/r/androiddev/comments/m55f4g/my_first_app_i_am_16_and_new_to_android_dev_so/)
+- [Android app as a web browser for mobile website](https://www.reddit.com/r/androiddev/comments/m550vd/android_app_as_a_web_browser_for_mobile_website/)
+- [why passing list.size * 2 +1 to this code makes the adapter circular?](https://www.reddit.com/r/androiddev/comments/m54ihy/why_passing_listsize_2_1_to_this_code_makes_the/)
+- [How frequently am I allowed to ping the device's location when app is not in the foreground?](https://www.reddit.com/r/androiddev/comments/m529om/how_frequently_am_i_allowed_to_ping_the_devices/)
+- [App exceeded 150 mb limit for Google Play because of too many resources](https://www.reddit.com/r/androiddev/comments/m523fk/app_exceeded_150_mb_limit_for_google_play_because/)
+- [Can anyone suggest tools for Graphic design for android UI/UX ?](https://www.reddit.com/r/androiddev/comments/m51seo/can_anyone_suggest_tools_for_graphic_design_for/)
+- [Android emulator on M1 Mac](https://www.reddit.com/r/androiddev/comments/m51kcw/android_emulator_on_m1_mac/)
+- [Compile less with SOLID](https://www.reddit.com/r/androiddev/comments/m50qwh/compile_less_with_solid/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
