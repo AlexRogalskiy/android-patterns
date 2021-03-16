@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Co-Authoring The Book How to Build Android Apps with Kotlin](https://medium.com/@jomartigcal/co-authoring-the-book-how-to-build-android-apps-with-kotlin-4645c20ade77?source=rss------android-5)
-- [How To Deploy To Firebase App Distribution With GitHub Actions](https://levelup.gitconnected.com/how-to-deploy-to-firebase-app-distribution-with-github-actions-ef2061725cd5?source=rss------android-5)
-- [Java Spliterator Explained](https://levelup.gitconnected.com/java-spliterator-explained-81e501b37b3d?source=rss------android-5)
-- [Açılmayan Açılmayan Telefona Nasıl Format Atılır ?](https://medium.com/@radikalhaber42/a%C3%A7%C4%B1lmayan-a%C3%A7%C4%B1lmayan-telefona-nas%C4%B1l-format-at%C4%B1l%C4%B1r-60c89a115e73?source=rss------android-5)
-- [Wild Storage | Part 2 — Threading and Concurrency](https://medium.com/knowing-android/wild-storage-part-2-threading-and-concurrency-40f38992ca2d?source=rss------android-5)
-- [Projecting the Future: Remote IDEs](https://medium.com/@sp4ghetticode/projecting-the-future-remote-ides-beb29814a174?source=rss------android-5)
-- [Cyclomatic Complexity on Android](https://proandroiddev.com/cyclomatic-complexity-on-android-d52577d3e638?source=rss------android-5)
-- [How to Delete & Reset M1 (2021) or Apple Silicon Mac to factory defaults.](https://medium.com/@rohit1221giri/how-to-delete-reset-m1-2021-or-apple-silicon-mac-to-factory-defaults-ce7dee86d2da?source=rss------android-5)
-- [When Android is Universe, then Coroutine is SpaceShip (Coroutine Vs RxJava)](https://medium.com/@atulsakhala/when-android-is-universe-then-coroutine-is-spaceship-coroutine-vs-rxjava-23b0f3449410?source=rss------android-5)
-- [WhatsApp Karşı Tarafın Sildiği Mesajları Okuma](https://medium.com/@radikalhaber42/whatsapp-kar%C5%9F%C4%B1-taraf%C4%B1n-sildi%C4%9Fi-mesajlar%C4%B1-okuma-f5bb618a4213?source=rss------android-5)
+- [Features of a smartwatch: what to analyze before buying one? — Part 1](https://medium.com/@bitwings/features-of-a-smartwatch-what-to-analyze-before-buying-one-part-1-e9dfb53c0a6e?source=rss------android-5)
+- [5 of the Wackiest and Most Ridiculous Smartphone Apps on the Planet](https://medium.com/@jasondickson-14791/5-of-the-wackiest-and-most-ridiculous-smartphone-apps-on-the-planet-5e2a99ae699b?source=rss------android-5)
+- [Mirror your Android screen to MacOS](https://medium.com/@mandostam/mirror-your-android-screen-to-macos-b72804d652bd?source=rss------android-5)
+- [Asymmetric Encryption](https://medium.com/@mk4raoz/asymmetric-encryption-f588959d4e00?source=rss------android-5)
+- [Wild Storage | Part 3— DataStore and SharedPreferences](https://medium.com/knowing-android/wild-storage-part-3-datastore-and-sharedpreferences-b32e8686f22b?source=rss------android-5)
+- [Save logs in a file with Timber](https://medium.com/@oliverbozhinovski/save-logs-in-a-file-with-timber-2272f1d63367?source=rss------android-5)
+- [Creating a custom login application in android studio.](https://medium.com/@codebaron/creating-a-custom-login-application-in-android-studio-a1e10050ad85?source=rss------android-5)
+- [Incorporando tecnología multiplataforma en el desarrollo de RappiPay — Flutter in-depth](https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-flutter-in-depth-dc0c485acfe5?source=rss------android-5)
+- [Android Floating Action Button with Bottom App Bar | Android Studio | Java](https://medium.com/@androidapps-development-blogs/android-floating-action-button-with-bottom-app-bar-android-studio-java-4f8ab718a858?source=rss------android-5)
+- [Set Up The e2e Project For A Hybrid Android App](https://medium.com/@viacheslav-borysovskyi/set-up-the-e2e-project-for-a-hybrid-android-app-c3734ee2b9ad?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
