@@ -326,6 +326,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Maybe There's Hope for Wear OS Yet](https://gizmodo.com/maybe-theres-hope-for-wear-os-yet-1846476548)
+- [The Best Customizable Controller Can Now Be Programmed on Your Phone](https://gizmodo.com/the-best-customizable-controller-can-now-be-programmed-1846416067)
+- [How to Use Your Android Phone Seamlessly With Your Chromebook](https://gizmodo.com/how-to-use-your-android-phone-seamlessly-with-your-chro-1846474450)
 - [Someone Totally Ruined the Memory of PalmOS By Putting Twitter on It](https://gizmodo.com/someone-totally-ruined-the-memory-of-palmos-by-putting-1846457707)
 - [Epic Is Taking Google to Court (Again)](https://gizmodo.com/epic-is-taking-google-to-court-again-1846446966)
 - [Google Is Bringing an Apple-Like Handoff Feature to Android Phones and Chromebooks](https://gizmodo.com/google-is-bringing-an-apple-like-handoff-feature-to-and-1846441190)
@@ -333,9 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [How to Switch From Old Google Pay to New Google Pay—and Why You Need To](https://gizmodo.com/how-to-switch-from-old-google-pay-to-new-google-pay-and-1846364688)
 - [The Flatcat Can't Even Walk, but It's Instantly the Creepiest Robot I've Ever Seen](https://gizmodo.com/the-flatcat-cant-even-walk-but-its-instantly-the-creep-1846366550)
 - [Don't Do It, Samsung](https://gizmodo.com/dont-do-it-samsung-1846355099)
-- [Google's Live Caption Tool Is Now Available as a Hidden Feature in Chrome](https://gizmodo.com/googles-live-caption-tool-is-now-available-as-a-hidden-1846353693)
-- [How Android's Nearby Share Compares to Apple's AirDrop](https://gizmodo.com/how-androids-nearby-share-compares-to-apples-airdrop-1846315959)
-- [Google Maps Dark Mode and More Useful Android Features Are Rolling Out Today](https://gizmodo.com/google-maps-dark-mode-and-more-useful-android-features-1846336221)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
