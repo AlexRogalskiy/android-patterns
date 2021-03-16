@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How could I implement all these theme configurations?](https://www.reddit.com/r/androiddev/comments/m5823l/how_could_i_implement_all_these_theme/)
-- [How does internal test build update distribution work](https://www.reddit.com/r/androiddev/comments/m57mbl/how_does_internal_test_build_update_distribution/)
-- [My first app (I am 16 and new to android dev so sorry if it's not that polished) I am waiting for it to be reviewed on google console right now. It's an app which has some little text tools it's called TEXT](https://www.reddit.com/r/androiddev/comments/m55f4g/my_first_app_i_am_16_and_new_to_android_dev_so/)
-- [Android app as a web browser for mobile website](https://www.reddit.com/r/androiddev/comments/m550vd/android_app_as_a_web_browser_for_mobile_website/)
-- [why passing list.size * 2 +1 to this code makes the adapter circular?](https://www.reddit.com/r/androiddev/comments/m54ihy/why_passing_listsize_2_1_to_this_code_makes_the/)
-- [How frequently am I allowed to ping the device's location when app is not in the foreground?](https://www.reddit.com/r/androiddev/comments/m529om/how_frequently_am_i_allowed_to_ping_the_devices/)
-- [App exceeded 150 mb limit for Google Play because of too many resources](https://www.reddit.com/r/androiddev/comments/m523fk/app_exceeded_150_mb_limit_for_google_play_because/)
-- [Can anyone suggest tools for Graphic design for android UI/UX ?](https://www.reddit.com/r/androiddev/comments/m51seo/can_anyone_suggest_tools_for_graphic_design_for/)
-- [Android emulator on M1 Mac](https://www.reddit.com/r/androiddev/comments/m51kcw/android_emulator_on_m1_mac/)
-- [Compile less with SOLID](https://www.reddit.com/r/androiddev/comments/m50qwh/compile_less_with_solid/)
+- [Will admob limit my ad serving?so my admob is super fresh i just created it yesterday i was using unity before but i would like to try admob.will they limit my adserving cause of sudden spike on traffic? im running paid ad campaign btw](https://www.reddit.com/r/androiddev/comments/m5x9nv/will_admob_limit_my_ad_servingso_my_admob_is/)
+- [Is HTML, CSS, Javascript and react enough to create and publish cross platform apps on IOS and Android?](https://www.reddit.com/r/androiddev/comments/m5t8ku/is_html_css_javascript_and_react_enough_to_create/)
+- [Can you make an app use keybinds in background?](https://www.reddit.com/r/androiddev/comments/m5t54t/can_you_make_an_app_use_keybinds_in_background/)
+- [Signals.signal(World::class).dispatcher.onSpeak("Hello!")](https://www.reddit.com/r/androiddev/comments/m5ssql/signalssignalworldclassdispatcheronspeakhello/)
+- [Freelancing websites](https://www.reddit.com/r/androiddev/comments/m5sr33/freelancing_websites/)
+- [Is there a difference between deep linking push notifications to some activity and creating notification actions?](https://www.reddit.com/r/androiddev/comments/m5s0lk/is_there_a_difference_between_deep_linking_push/)
+- [Petr Nalevka & Jiří Richter, Urbandroid: How to survive on Android and don't get killed](https://www.reddit.com/r/androiddev/comments/m5rzab/petr_nalevka_jiří_richter_urbandroid_how_to/)
+- [Is it ok to create "apps" And not "games" For Android using unity engine?](https://www.reddit.com/r/androiddev/comments/m5raye/is_it_ok_to_create_apps_and_not_games_for_android/)
+- [Freya - A Simpler, Imperative Form Validation Library](https://www.reddit.com/r/androiddev/comments/m5qz0i/freya_a_simpler_imperative_form_validation_library/)
+- [Android Studio Arctic Fox Canary 10 available](https://www.reddit.com/r/androiddev/comments/m5qsce/android_studio_arctic_fox_canary_10_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
