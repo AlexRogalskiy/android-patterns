@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Will admob limit my ad serving?so my admob is super fresh i just created it yesterday i was using unity before but i would like to try admob.will they limit my adserving cause of sudden spike on traffic? im running paid ad campaign btw](https://www.reddit.com/r/androiddev/comments/m5x9nv/will_admob_limit_my_ad_servingso_my_admob_is/)
-- [Is HTML, CSS, Javascript and react enough to create and publish cross platform apps on IOS and Android?](https://www.reddit.com/r/androiddev/comments/m5t8ku/is_html_css_javascript_and_react_enough_to_create/)
-- [Can you make an app use keybinds in background?](https://www.reddit.com/r/androiddev/comments/m5t54t/can_you_make_an_app_use_keybinds_in_background/)
-- [Signals.signal(World::class).dispatcher.onSpeak("Hello!")](https://www.reddit.com/r/androiddev/comments/m5ssql/signalssignalworldclassdispatcheronspeakhello/)
-- [Freelancing websites](https://www.reddit.com/r/androiddev/comments/m5sr33/freelancing_websites/)
-- [Is there a difference between deep linking push notifications to some activity and creating notification actions?](https://www.reddit.com/r/androiddev/comments/m5s0lk/is_there_a_difference_between_deep_linking_push/)
-- [Petr Nalevka & Jiří Richter, Urbandroid: How to survive on Android and don't get killed](https://www.reddit.com/r/androiddev/comments/m5rzab/petr_nalevka_jiří_richter_urbandroid_how_to/)
-- [Is it ok to create "apps" And not "games" For Android using unity engine?](https://www.reddit.com/r/androiddev/comments/m5raye/is_it_ok_to_create_apps_and_not_games_for_android/)
-- [Freya - A Simpler, Imperative Form Validation Library](https://www.reddit.com/r/androiddev/comments/m5qz0i/freya_a_simpler_imperative_form_validation_library/)
-- [Android Studio Arctic Fox Canary 10 available](https://www.reddit.com/r/androiddev/comments/m5qsce/android_studio_arctic_fox_canary_10_available/)
+- [how many paid installs via ad campaign is needed before an app can get organic traffic on google play?](https://www.reddit.com/r/androiddev/comments/m6opsr/how_many_paid_installs_via_ad_campaign_is_needed/)
+- [Need help with adb debug over wifi](https://www.reddit.com/r/androiddev/comments/m6nejh/need_help_with_adb_debug_over_wifi/)
+- [How do you handle prolonged untestable periods of development?](https://www.reddit.com/r/androiddev/comments/m6koda/how_do_you_handle_prolonged_untestable_periods_of/)
+- [troubles with the in app update and in app review api](https://www.reddit.com/r/androiddev/comments/m6k9ho/troubles_with_the_in_app_update_and_in_app_review/)
+- [Java 16 / JDK 16: General Availability](https://www.reddit.com/r/androiddev/comments/m6k5jc/java_16_jdk_16_general_availability/)
+- [Can't build sdl android app](https://www.reddit.com/r/androiddev/comments/m6k2b9/cant_build_sdl_android_app/)
+- [Play Store's new 'Inapproporiate Content' rules and adult party games?](https://www.reddit.com/r/androiddev/comments/m6iyna/play_stores_new_inapproporiate_content_rules_and/)
+- [Background Location deadline](https://www.reddit.com/r/androiddev/comments/m6icu3/background_location_deadline/)
+- [How to draw Image View Height before loading from URL](https://www.reddit.com/r/androiddev/comments/m6hez0/how_to_draw_image_view_height_before_loading_from/)
+- [Compose Icons - Font Awesome, Simple Icons and more icon packs for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/m6gi4d/compose_icons_font_awesome_simple_icons_and_more/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
