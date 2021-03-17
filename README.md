@@ -281,6 +281,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [Python vs Java: Which language should you learn and what are the differences?](https://www.androidauthority.com/python-vs-java-1145042/)
+- [What is Python and how do you get started?](https://www.androidauthority.com/what-is-python-1120588/)
+- [How to use a web API from your Android app](https://www.androidauthority.com/use-web-api-android-1152645/)
 - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
 - [Upwork vs Fiverr: Which is the best place to sell your services?](https://www.androidauthority.com/upwork-vs-fiverr-1190439/)
 - [How to use AWS – a simple guide for beginners](https://www.androidauthority.com/how-to-use-aws-1168883/)
@@ -288,9 +291,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [How to use classes in Python](https://www.androidauthority.com/how-to-use-classes-in-python-1148982/)
 - [How to install Java, and everything else you need to know](https://www.androidauthority.com/how-to-install-java-1151165/)
 - [When to use lists vs dictionaries in Python](https://www.androidauthority.com/how-to-create-a-list-in-python-1140101/)
-- [An introduction to Kotlin for Android development](https://www.androidauthority.com/kotlin-for-android-development-1132127/)
-- [Android 12 developer preview: Everything developers need to know](https://www.androidauthority.com/android-12-preview-for-devs-1203675/)
-- [Scoped storage tutorial for Android Studio](https://www.androidauthority.com/scoped-storage-tutorial-1204124/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
