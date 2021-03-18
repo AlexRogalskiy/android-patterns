@@ -326,6 +326,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google's New Nest Hub Tracks Your Sleep From Your Nightstand, No Wearables Required](https://gizmodo.com/googles-new-nest-hub-tracks-your-sleep-from-your-nights-1846389994)
 - [Maybe There's Hope for Wear OS Yet](https://gizmodo.com/maybe-theres-hope-for-wear-os-yet-1846476548)
 - [The Best Customizable Controller Can Now Be Programmed on Your Phone](https://gizmodo.com/the-best-customizable-controller-can-now-be-programmed-1846416067)
 - [How to Use Your Android Phone Seamlessly With Your Chromebook](https://gizmodo.com/how-to-use-your-android-phone-seamlessly-with-your-chro-1846474450)
@@ -335,7 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [The Privacy Problem With Android's 'Choice' Screen](https://gizmodo.com/the-privacy-problem-with-androids-choice-screen-1846433406)
 - [How to Switch From Old Google Pay to New Google Pay—and Why You Need To](https://gizmodo.com/how-to-switch-from-old-google-pay-to-new-google-pay-and-1846364688)
 - [The Flatcat Can't Even Walk, but It's Instantly the Creepiest Robot I've Ever Seen](https://gizmodo.com/the-flatcat-cant-even-walk-but-its-instantly-the-creep-1846366550)
-- [Don't Do It, Samsung](https://gizmodo.com/dont-do-it-samsung-1846355099)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
