@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [how many paid installs via ad campaign is needed before an app can get organic traffic on google play?](https://www.reddit.com/r/androiddev/comments/m6opsr/how_many_paid_installs_via_ad_campaign_is_needed/)
-- [Need help with adb debug over wifi](https://www.reddit.com/r/androiddev/comments/m6nejh/need_help_with_adb_debug_over_wifi/)
-- [How do you handle prolonged untestable periods of development?](https://www.reddit.com/r/androiddev/comments/m6koda/how_do_you_handle_prolonged_untestable_periods_of/)
-- [troubles with the in app update and in app review api](https://www.reddit.com/r/androiddev/comments/m6k9ho/troubles_with_the_in_app_update_and_in_app_review/)
-- [Java 16 / JDK 16: General Availability](https://www.reddit.com/r/androiddev/comments/m6k5jc/java_16_jdk_16_general_availability/)
-- [Can't build sdl android app](https://www.reddit.com/r/androiddev/comments/m6k2b9/cant_build_sdl_android_app/)
-- [Play Store's new 'Inapproporiate Content' rules and adult party games?](https://www.reddit.com/r/androiddev/comments/m6iyna/play_stores_new_inapproporiate_content_rules_and/)
-- [Background Location deadline](https://www.reddit.com/r/androiddev/comments/m6icu3/background_location_deadline/)
-- [How to draw Image View Height before loading from URL](https://www.reddit.com/r/androiddev/comments/m6hez0/how_to_draw_image_view_height_before_loading_from/)
-- [Compose Icons - Font Awesome, Simple Icons and more icon packs for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/m6gi4d/compose_icons_font_awesome_simple_icons_and_more/)
+- [Is it possible to make a decent amount of revenue from creating your own app in 2021, maybe around $2000/month?](https://www.reddit.com/r/androiddev/comments/m7fkcg/is_it_possible_to_make_a_decent_amount_of_revenue/)
+- [Support multiple themes in an Android app](https://www.reddit.com/r/androiddev/comments/m77bqi/support_multiple_themes_in_an_android_app/)
+- [Anyone else seeing stuck app update reviews?](https://www.reddit.com/r/androiddev/comments/m75gil/anyone_else_seeing_stuck_app_update_reviews/)
+- [I've made a free list of remote android dev roles which all have a social / environmental impact](https://www.reddit.com/r/androiddev/comments/m74wm2/ive_made_a_free_list_of_remote_android_dev_roles/)
+- [Developing Android Apps with Kotlin free course by Google](https://www.reddit.com/r/androiddev/comments/m72ks9/developing_android_apps_with_kotlin_free_course/)
+- [#EndlessHero game #Backstage - Sound on!](https://www.reddit.com/r/androiddev/comments/m72j50/endlesshero_game_backstage_sound_on/)
+- [Can I report a developer who cloned my app on play store?](https://www.reddit.com/r/androiddev/comments/m72eg3/can_i_report_a_developer_who_cloned_my_app_on/)
+- [First Class Android with React Native](https://www.reddit.com/r/androiddev/comments/m71ngv/first_class_android_with_react_native/)
+- [Hilt bind interface from activity](https://www.reddit.com/r/androiddev/comments/m71kzw/hilt_bind_interface_from_activity/)
+- [Scala on Android](https://www.reddit.com/r/androiddev/comments/m6zb8x/scala_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
