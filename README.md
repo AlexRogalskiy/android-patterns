@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Features of a smartwatch: what to analyze before buying one? — Part 1](https://medium.com/@bitwings/features-of-a-smartwatch-what-to-analyze-before-buying-one-part-1-e9dfb53c0a6e?source=rss------android-5)
-- [5 of the Wackiest and Most Ridiculous Smartphone Apps on the Planet](https://medium.com/@jasondickson-14791/5-of-the-wackiest-and-most-ridiculous-smartphone-apps-on-the-planet-5e2a99ae699b?source=rss------android-5)
-- [Mirror your Android screen to MacOS](https://medium.com/@mandostam/mirror-your-android-screen-to-macos-b72804d652bd?source=rss------android-5)
-- [Asymmetric Encryption](https://medium.com/@mk4raoz/asymmetric-encryption-f588959d4e00?source=rss------android-5)
-- [Wild Storage | Part 3— DataStore and SharedPreferences](https://medium.com/knowing-android/wild-storage-part-3-datastore-and-sharedpreferences-b32e8686f22b?source=rss------android-5)
-- [Save logs in a file with Timber](https://medium.com/@oliverbozhinovski/save-logs-in-a-file-with-timber-2272f1d63367?source=rss------android-5)
-- [Creating a custom login application in android studio.](https://medium.com/@codebaron/creating-a-custom-login-application-in-android-studio-a1e10050ad85?source=rss------android-5)
-- [Incorporando tecnología multiplataforma en el desarrollo de RappiPay — Flutter in-depth](https://medium.com/rappitech/incorporando-tecnolog%C3%ADa-multiplataforma-en-el-desarrollo-de-rappipay-flutter-in-depth-dc0c485acfe5?source=rss------android-5)
-- [Android Floating Action Button with Bottom App Bar | Android Studio | Java](https://medium.com/@androidapps-development-blogs/android-floating-action-button-with-bottom-app-bar-android-studio-java-4f8ab718a858?source=rss------android-5)
-- [Set Up The e2e Project For A Hybrid Android App](https://medium.com/@viacheslav-borysovskyi/set-up-the-e2e-project-for-a-hybrid-android-app-c3734ee2b9ad?source=rss------android-5)
+- [TikTok for Android 1-Click RCE](https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105?source=rss------android-5)
+- [Situs Agen Perang Dadu Online Terbaik Di Indonesia](https://medium.com/@kasqqpkv/situs-agen-perang-dadu-online-terbaik-di-indonesia-cb85d39190dc?source=rss------android-5)
+- [MotionLayout](https://medium.com/@emre-arslan/motionlayout-bba34ce7fa69?source=rss------android-5)
+- [Blog: Differentiating Entertainment Hardware with MLKit on Android](https://medium.com/cisco-fpie/blog-differentiating-entertainment-hardware-with-mlkit-on-android-d9d8fc58837?source=rss------android-5)
+- [This printable key tag helps people return your keys when you lose them](https://medium.com/pingtag/this-printable-key-tag-helps-people-return-your-keys-when-you-lose-them-37f16c2c4e4b?source=rss------android-5)
+- [Starting Career With Android was a Bad Idea](https://medium.com/dev-genius/starting-career-with-android-was-a-bad-idea-37877472a796?source=rss------android-5)
+- [Estructura de directorios | Parte 1](https://medium.com/@wolvesmobile/estructura-de-directorios-parte-1-196ddc765bb8?source=rss------android-5)
+- [How to Install Frida in Android Device](https://medium.com/@vishvesh71/how-to-install-frida-in-android-device-49583edecb64?source=rss------android-5)
+- [Best 6 Voice Changer Apps for Android](https://medium.com/@startus413/best-6-voice-changer-apps-for-android-897d9b57ba5f?source=rss------android-5)
+- [MOST IMPORTANT NOTE](https://medium.com/@uchhabra3/am-i-the-only-one-who-think-singletask-is-broken-fb411728a4f6?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
