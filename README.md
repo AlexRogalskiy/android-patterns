@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible to make a decent amount of revenue from creating your own app in 2021, maybe around $2000/month?](https://www.reddit.com/r/androiddev/comments/m7fkcg/is_it_possible_to_make_a_decent_amount_of_revenue/)
-- [Support multiple themes in an Android app](https://www.reddit.com/r/androiddev/comments/m77bqi/support_multiple_themes_in_an_android_app/)
-- [Anyone else seeing stuck app update reviews?](https://www.reddit.com/r/androiddev/comments/m75gil/anyone_else_seeing_stuck_app_update_reviews/)
-- [I've made a free list of remote android dev roles which all have a social / environmental impact](https://www.reddit.com/r/androiddev/comments/m74wm2/ive_made_a_free_list_of_remote_android_dev_roles/)
-- [Developing Android Apps with Kotlin free course by Google](https://www.reddit.com/r/androiddev/comments/m72ks9/developing_android_apps_with_kotlin_free_course/)
-- [#EndlessHero game #Backstage - Sound on!](https://www.reddit.com/r/androiddev/comments/m72j50/endlesshero_game_backstage_sound_on/)
-- [Can I report a developer who cloned my app on play store?](https://www.reddit.com/r/androiddev/comments/m72eg3/can_i_report_a_developer_who_cloned_my_app_on/)
-- [First Class Android with React Native](https://www.reddit.com/r/androiddev/comments/m71ngv/first_class_android_with_react_native/)
-- [Hilt bind interface from activity](https://www.reddit.com/r/androiddev/comments/m71kzw/hilt_bind_interface_from_activity/)
-- [Scala on Android](https://www.reddit.com/r/androiddev/comments/m6zb8x/scala_on_android/)
+- [Drawer & Toolbar with Navigation Component](https://www.reddit.com/r/androiddev/comments/m85lxr/drawer_toolbar_with_navigation_component/)
+- [Pixel 3xl Verizon](https://www.reddit.com/r/androiddev/comments/m84gr6/pixel_3xl_verizon/)
+- [Made some dots loading animations with Jetpack Compose (link in comments)](https://www.reddit.com/r/androiddev/comments/m83ylc/made_some_dots_loading_animations_with_jetpack/)
+- [How connect lifecycle of main activity to inner view (aka: MapBox) with Compose?](https://www.reddit.com/r/androiddev/comments/m8310m/how_connect_lifecycle_of_main_activity_to_inner/)
+- [Question About Dynamic Delivery](https://www.reddit.com/r/androiddev/comments/m8306e/question_about_dynamic_delivery/)
+- [Is fire base supported both by flutter and kotlin. I heard only flutter supports it.](https://www.reddit.com/r/androiddev/comments/m82idp/is_fire_base_supported_both_by_flutter_and_kotlin/)
+- [Question about banner placement [AdMob]](https://www.reddit.com/r/androiddev/comments/m814fx/question_about_banner_placement_admob/)
+- [Should I be using Android Studio 3 or 4 to learn (total noob)](https://www.reddit.com/r/androiddev/comments/m80uhd/should_i_be_using_android_studio_3_or_4_to_learn/)
+- [Interesting breakdown of how and why Facebook originally handled the multi-dexing problem](https://www.reddit.com/r/androiddev/comments/m80u6g/interesting_breakdown_of_how_and_why_facebook/)
+- [SkyDroid • Decentralized App Store](https://www.reddit.com/r/androiddev/comments/m80htp/skydroid_decentralized_app_store/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
