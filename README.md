@@ -282,6 +282,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
 - [What is Azure certification?](https://www.androidauthority.com/azure-certification-1162875/)
+- [What is Google Cloud? Here’s what you need to know](https://www.androidauthority.com/what-is-google-cloud-1163777/)
 - [Python vs Java: Which language should you learn and what are the differences?](https://www.androidauthority.com/python-vs-java-1145042/)
 - [What is Python and how do you get started?](https://www.androidauthority.com/what-is-python-1120588/)
 - [How to use a web API from your Android app](https://www.androidauthority.com/use-web-api-android-1152645/)
@@ -290,7 +291,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [How to use AWS – a simple guide for beginners](https://www.androidauthority.com/how-to-use-aws-1168883/)
 - [Java beginner course – A free and comprehensive guide to the basics of Java](https://www.androidauthority.com/java-beginners-course-1146854/)
 - [How to use classes in Python](https://www.androidauthority.com/how-to-use-classes-in-python-1148982/)
-- [How to install Java, and everything else you need to know](https://www.androidauthority.com/how-to-install-java-1151165/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
