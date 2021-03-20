@@ -326,6 +326,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Barnes & Noble's Nook Sidesteps the Grave Once Again With a New Lenovo-Built Tablet](https://gizmodo.com/barnes-nobles-nook-sidesteps-the-grave-once-again-wit-1846511475)
+- [How to Sideload Any App on Your Chromecast With Google TV](https://gizmodo.com/how-to-sideload-any-app-on-your-chromecast-with-google-1846490542)
 - [Google's New Nest Hub Tracks Your Sleep From Your Nightstand, No Wearables Required](https://gizmodo.com/googles-new-nest-hub-tracks-your-sleep-from-your-nights-1846389994)
 - [Maybe There's Hope for Wear OS Yet](https://gizmodo.com/maybe-theres-hope-for-wear-os-yet-1846476548)
 - [The Best Customizable Controller Can Now Be Programmed on Your Phone](https://gizmodo.com/the-best-customizable-controller-can-now-be-programmed-1846416067)
@@ -334,8 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Epic Is Taking Google to Court (Again)](https://gizmodo.com/epic-is-taking-google-to-court-again-1846446966)
 - [Google Is Bringing an Apple-Like Handoff Feature to Android Phones and Chromebooks](https://gizmodo.com/google-is-bringing-an-apple-like-handoff-feature-to-and-1846441190)
 - [The Privacy Problem With Android's 'Choice' Screen](https://gizmodo.com/the-privacy-problem-with-androids-choice-screen-1846433406)
-- [How to Switch From Old Google Pay to New Google Pay—and Why You Need To](https://gizmodo.com/how-to-switch-from-old-google-pay-to-new-google-pay-and-1846364688)
-- [The Flatcat Can't Even Walk, but It's Instantly the Creepiest Robot I've Ever Seen](https://gizmodo.com/the-flatcat-cant-even-walk-but-its-instantly-the-creep-1846366550)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
