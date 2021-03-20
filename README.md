@@ -341,6 +341,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Apple, CAID, and China: rock, meet hard place](https://mobiledevmemo.com/apple-caid-and-china-rock-meet-hard-place/)
 - [Is VR the bear case for Facebook?](https://mobiledevmemo.com/is-vr-ar-the-bear-case-for-facebook/)
 - [The privacy mirage](https://mobiledevmemo.com/the-privacy-mirage/)
 - [iOS 14, Privacy, and the Future of Digital Advertising](https://mobiledevmemo.com/ios-14-att-and-the-future-of-digital-advertising/)
@@ -350,7 +351,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [The profound, unintended consequence of ATT: content fortresses](https://mobiledevmemo.com/the-profound-unintended-consequence-of-att-content-fortresses/)
 - [What’s the standard for ATT 6-bit conversion values?](https://mobiledevmemo.com/whats-the-standard-for-att-6-bit-conversion-values/)
 - [Workshop: Understanding and preparing for AppTrackingTransparency in iOS 14](https://mobiledevmemo.com/workshop-understanding-and-preparing-for-apptrackingtransparency-in-ios-14/)
-- [“Allow this app to personalize advertising for you?”](https://mobiledevmemo.com/allow-this-app-to-personalize-advertising-for-you/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
