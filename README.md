@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [TikTok for Android 1-Click RCE](https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105?source=rss------android-5)
-- [Situs Agen Perang Dadu Online Terbaik Di Indonesia](https://medium.com/@kasqqpkv/situs-agen-perang-dadu-online-terbaik-di-indonesia-cb85d39190dc?source=rss------android-5)
-- [MotionLayout](https://medium.com/@emre-arslan/motionlayout-bba34ce7fa69?source=rss------android-5)
-- [Blog: Differentiating Entertainment Hardware with MLKit on Android](https://medium.com/cisco-fpie/blog-differentiating-entertainment-hardware-with-mlkit-on-android-d9d8fc58837?source=rss------android-5)
-- [This printable key tag helps people return your keys when you lose them](https://medium.com/pingtag/this-printable-key-tag-helps-people-return-your-keys-when-you-lose-them-37f16c2c4e4b?source=rss------android-5)
-- [Starting Career With Android was a Bad Idea](https://medium.com/dev-genius/starting-career-with-android-was-a-bad-idea-37877472a796?source=rss------android-5)
-- [Estructura de directorios | Parte 1](https://medium.com/@wolvesmobile/estructura-de-directorios-parte-1-196ddc765bb8?source=rss------android-5)
-- [How to Install Frida in Android Device](https://medium.com/@vishvesh71/how-to-install-frida-in-android-device-49583edecb64?source=rss------android-5)
-- [Best 6 Voice Changer Apps for Android](https://medium.com/@startus413/best-6-voice-changer-apps-for-android-897d9b57ba5f?source=rss------android-5)
-- [MOST IMPORTANT NOTE](https://medium.com/@uchhabra3/am-i-the-only-one-who-think-singletask-is-broken-fb411728a4f6?source=rss------android-5)
+- [Counting threads — An Rx guide](https://medium.com/life360-engineering/counting-threads-an-rx-guide-635fdd318560?source=rss------android-5)
+- [Agen Situs Poker / Perang Dadu Online Terbaik Di Indonesia](https://kasqqpkv.medium.com/agen-situs-poker-perang-dadu-online-terbaik-di-indonesia-9876a82d37de?source=rss------android-5)
+- [Dealing with flaky tests in Jetpack Compose](https://proandroiddev.com/managing-flaky-tests-in-jetpack-compose-89c598590068?source=rss------android-5)
+- [Hilt: Apps with lite architecture and full scalability](https://badrkouki.medium.com/hilt-apps-with-lite-architecture-and-full-scalability-f813b0a581fb?source=rss------android-5)
+- [Estructura de directorios | Parte 2](https://wolvesmobile.medium.com/estructura-de-directorios-parte-2-e07ab93adeca?source=rss------android-5)
+- [Launching Splash Screen in Android Different Ways](https://bhanupro.medium.com/launching-splash-screen-in-android-different-ways-6e5728f4f288?source=rss------android-5)
+- [Exploring Jetpack Compose Canvas: the power of drawing](https://juliensalvi.medium.com/exploring-jetpack-compose-canvas-the-power-of-drawing-8cc60815babe?source=rss------android-5)
+- [Setup Charles Proxy to Intercept HTTPS traffic of Android Emulator](https://dogcomp.medium.com/setup-charles-proxy-to-intercept-https-traffic-of-android-emulator-591baba5d7ec?source=rss------android-5)
+- [Did Telegram Just Kill Clubhouse?](https://clubbers.blog/did-telegram-just-kill-clubhouse-b36d7eb4bc0f?source=rss------android-5)
+- [Understanding the Android Activity Launch Modes](https://betterprogramming.pub/understanding-the-android-activity-launch-modes-49ec89ef79d2?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
