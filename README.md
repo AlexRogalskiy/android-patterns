@@ -311,16 +311,15 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Counting threads — An Rx guide](https://medium.com/life360-engineering/counting-threads-an-rx-guide-635fdd318560?source=rss------android-5)
-- [Agen Situs Poker / Perang Dadu Online Terbaik Di Indonesia](https://kasqqpkv.medium.com/agen-situs-poker-perang-dadu-online-terbaik-di-indonesia-9876a82d37de?source=rss------android-5)
-- [Dealing with flaky tests in Jetpack Compose](https://proandroiddev.com/managing-flaky-tests-in-jetpack-compose-89c598590068?source=rss------android-5)
-- [Hilt: Apps with lite architecture and full scalability](https://badrkouki.medium.com/hilt-apps-with-lite-architecture-and-full-scalability-f813b0a581fb?source=rss------android-5)
-- [Estructura de directorios | Parte 2](https://wolvesmobile.medium.com/estructura-de-directorios-parte-2-e07ab93adeca?source=rss------android-5)
-- [Launching Splash Screen in Android Different Ways](https://bhanupro.medium.com/launching-splash-screen-in-android-different-ways-6e5728f4f288?source=rss------android-5)
-- [Exploring Jetpack Compose Canvas: the power of drawing](https://juliensalvi.medium.com/exploring-jetpack-compose-canvas-the-power-of-drawing-8cc60815babe?source=rss------android-5)
-- [Setup Charles Proxy to Intercept HTTPS traffic of Android Emulator](https://dogcomp.medium.com/setup-charles-proxy-to-intercept-https-traffic-of-android-emulator-591baba5d7ec?source=rss------android-5)
-- [Did Telegram Just Kill Clubhouse?](https://clubbers.blog/did-telegram-just-kill-clubhouse-b36d7eb4bc0f?source=rss------android-5)
-- [Understanding the Android Activity Launch Modes](https://betterprogramming.pub/understanding-the-android-activity-launch-modes-49ec89ef79d2?source=rss------android-5)
+- [Creación de layouts pt2: TextViews, Buttons, EditText](https://medium.com/openlabperu/creaci%C3%B3n-de-layouts-pt2-textviews-buttons-edittext-b3a9052e46a7?source=rss------android-5)
+- [Creación de layouts pt1: ViewGroups](https://medium.com/openlabperu/creaci%C3%B3n-de-layouts-pt1-viewgroups-14164871e8e8?source=rss------android-5)
+- [Deti ledela et pep poxlso](https://medium.com/@aevdhsjq/deti-ledela-et-pep-poxlso-39139da8af7a?source=rss------android-5)
+- [Flipper replaces Stetho](https://foxum.medium.com/flipper-replaces-stetho-c11d20e81ca0?source=rss------android-5)
+- [Cjalej norris jerof moxe](https://medium.com/@cgavrrjq/cjalej-norris-jerof-moxe-b1cafcfab519?source=rss------android-5)
+- [CONECTA TU PROYECTO FLUTTER CON FIREBASE](https://alejandro-mancilla-umsa.medium.com/conecta-tu-proyecto-flutter-con-firebase-266cb858618f?source=rss------android-5)
+- [Sul Play Store oggi un sacco di applicazioni in offerta](https://medium.com/@whatstechblog/sul-play-store-oggi-un-sacco-di-applicazioni-in-offerta-1a4aa8113786?source=rss------android-5)
+- [Подборка хакерских приложений для тестирования с Android](https://ib-tree.medium.com/%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-android-f9151a8df2ce?source=rss------android-5)
+- [Androi-Picture in Picture Support.](https://shrirakshabhat.medium.com/android-picture-in-picture-mode-c0612b2f2eda?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
