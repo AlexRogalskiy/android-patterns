@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [App immediately minimizes each time it’s opened](https://www.reddit.com/r/androiddev/comments/m8vcs5/app_immediately_minimizes_each_time_its_opened/)
-- [Can anyone help me understand the difference between enums and typedefs and how to use them?](https://www.reddit.com/r/androiddev/comments/m8u2se/can_anyone_help_me_understand_the_difference/)
-- [Does anyone have any experience releasing to Samsung's Galaxy Store? If so, what kind of install base do you have there?](https://www.reddit.com/r/androiddev/comments/m8t9i4/does_anyone_have_any_experience_releasing_to/)
-- [Series of articles documenting my journey to becoming an Android Developer](https://www.reddit.com/r/androiddev/comments/m8s71b/series_of_articles_documenting_my_journey_to/)
-- [If apps have root access whats stopping an app from giving root access interfaces](https://www.reddit.com/r/androiddev/comments/m8r11y/if_apps_have_root_access_whats_stopping_an_app/)
-- [Android reverse engineering for beginners - Dexcalibur - Braincoke](https://www.reddit.com/r/androiddev/comments/m8qw3b/android_reverse_engineering_for_beginners/)
-- [What do you think is the best way to go about making a virtual keyboard?](https://www.reddit.com/r/androiddev/comments/m8ox49/what_do_you_think_is_the_best_way_to_go_about/)
-- [Tips to improve app store ranking](https://www.reddit.com/r/androiddev/comments/m8nw2l/tips_to_improve_app_store_ranking/)
-- [Privacy policy inside the App/game required? or privacy policy on the store listing page is already enough?](https://www.reddit.com/r/androiddev/comments/m8ng3v/privacy_policy_inside_the_appgame_required_or/)
-- [Reliable play testers for indie app developer](https://www.reddit.com/r/androiddev/comments/m8kaxq/reliable_play_testers_for_indie_app_developer/)
+- [InflateException with navHostFragment; "Error inflating class fragment"](https://www.reddit.com/r/androiddev/comments/m9kj37/inflateexception_with_navhostfragment_error/)
+- [News Aggregator](https://www.reddit.com/r/androiddev/comments/m9jqfn/news_aggregator/)
+- [Do apps that get images from the backend normally send different image files depending on the device pixel density and screen size?](https://www.reddit.com/r/androiddev/comments/m9jkzi/do_apps_that_get_images_from_the_backend_normally/)
+- [Clear Cache encrypted disk?](https://www.reddit.com/r/androiddev/comments/m9j20c/clear_cache_encrypted_disk/)
+- [Location tracking using Bluetooth and sensors, without GPS in Android?](https://www.reddit.com/r/androiddev/comments/m9f6yb/location_tracking_using_bluetooth_and_sensors/)
+- [TileService crashes randomly when trying to open a dialog from an onClick callback](https://www.reddit.com/r/androiddev/comments/m9eqe3/tileservice_crashes_randomly_when_trying_to_open/)
+- [I'm thinking of creating a free Android mentorship program](https://www.reddit.com/r/androiddev/comments/m9dk0w/im_thinking_of_creating_a_free_android_mentorship/)
+- [Location Services](https://www.reddit.com/r/androiddev/comments/m9dgci/location_services/)
+- [Sys design fragment manager](https://www.reddit.com/r/androiddev/comments/m9b6jq/sys_design_fragment_manager/)
+- [To export content outside of the Application process stored in Room database, do we need to use Cursor or is there a more modern approach?](https://www.reddit.com/r/androiddev/comments/m98ssm/to_export_content_outside_of_the_application/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
