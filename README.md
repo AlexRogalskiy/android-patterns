@@ -311,15 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Creación de layouts pt2: TextViews, Buttons, EditText](https://medium.com/openlabperu/creaci%C3%B3n-de-layouts-pt2-textviews-buttons-edittext-b3a9052e46a7?source=rss------android-5)
-- [Creación de layouts pt1: ViewGroups](https://medium.com/openlabperu/creaci%C3%B3n-de-layouts-pt1-viewgroups-14164871e8e8?source=rss------android-5)
-- [Deti ledela et pep poxlso](https://medium.com/@aevdhsjq/deti-ledela-et-pep-poxlso-39139da8af7a?source=rss------android-5)
-- [Flipper replaces Stetho](https://foxum.medium.com/flipper-replaces-stetho-c11d20e81ca0?source=rss------android-5)
-- [Cjalej norris jerof moxe](https://medium.com/@cgavrrjq/cjalej-norris-jerof-moxe-b1cafcfab519?source=rss------android-5)
-- [CONECTA TU PROYECTO FLUTTER CON FIREBASE](https://alejandro-mancilla-umsa.medium.com/conecta-tu-proyecto-flutter-con-firebase-266cb858618f?source=rss------android-5)
-- [Sul Play Store oggi un sacco di applicazioni in offerta](https://medium.com/@whatstechblog/sul-play-store-oggi-un-sacco-di-applicazioni-in-offerta-1a4aa8113786?source=rss------android-5)
-- [Подборка хакерских приложений для тестирования с Android](https://ib-tree.medium.com/%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-android-f9151a8df2ce?source=rss------android-5)
-- [Androi-Picture in Picture Support.](https://shrirakshabhat.medium.com/android-picture-in-picture-mode-c0612b2f2eda?source=rss------android-5)
+- [Disable Bottom Sheet Dismiss Handling](https://thxall92.medium.com/disable-bottom-sheet-dismiss-handling-4a5277bddaf2?source=rss------android-5)
+- [Kotlin+Dagger best practices](https://sreekumar-av.medium.com/kotlin-dagger-best-practices-966199b48b89?source=rss------android-5)
+- [Anti Hacker: Saiba como ele pode te ajudar](https://antihacker-app.medium.com/anti-hacker-saiba-como-ele-pode-te-ajudar-631d0e85a4ea?source=rss------android-5)
+- [Indonesia Poker online+ Perang Dadu Terpopuler di ASIA](https://kasqqpkv.medium.com/indonesia-poker-online-perang-dadu-terpopuler-di-asia-371dd6ad07?source=rss------android-5)
+- [Uma nova forma de solicitar permissões com o Android Jetpack - Activity Result APIs](https://pvcorazza.medium.com/uma-nova-forma-de-solicitar-permissoes-com-o-android-jetpack-activity-result-apis-404a7a5cd460?source=rss------android-5)
+- [Beginner: Building Custom model using Huawei ML kit Custom Model](https://medium.com/huawei-developers/beginner-building-custom-model-using-huawei-ml-kit-custom-model-d580811de27d?source=rss------android-5)
+- [EyeAttend — Facial Recognition based Attendance System from scratch.](https://medium.com/analytics-vidhya/eyeattend-facial-recognition-based-attendance-system-from-scratch-4c07ce9da319?source=rss------android-5)
+- [Building a Family Tree DSL with Jetpack Compose syntax](https://proandroiddev.com/building-a-family-tree-dsl-with-jetpack-compose-syntax-fe652ce6cb0f?source=rss------android-5)
+- [RxJava subscribeOn and observeOn Demystified](https://medium.com/android-news/rxjava-subscribeon-and-observeon-demystified-62c41736b6e9?source=rss------android-5)
+- [PassFab Android Unlocker](https://imransahil773.medium.com/passfab-android-unlocker-c9dee609771b?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
