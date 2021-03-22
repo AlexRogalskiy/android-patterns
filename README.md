@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [InflateException with navHostFragment; "Error inflating class fragment"](https://www.reddit.com/r/androiddev/comments/m9kj37/inflateexception_with_navhostfragment_error/)
-- [News Aggregator](https://www.reddit.com/r/androiddev/comments/m9jqfn/news_aggregator/)
-- [Do apps that get images from the backend normally send different image files depending on the device pixel density and screen size?](https://www.reddit.com/r/androiddev/comments/m9jkzi/do_apps_that_get_images_from_the_backend_normally/)
-- [Clear Cache encrypted disk?](https://www.reddit.com/r/androiddev/comments/m9j20c/clear_cache_encrypted_disk/)
-- [Location tracking using Bluetooth and sensors, without GPS in Android?](https://www.reddit.com/r/androiddev/comments/m9f6yb/location_tracking_using_bluetooth_and_sensors/)
-- [TileService crashes randomly when trying to open a dialog from an onClick callback](https://www.reddit.com/r/androiddev/comments/m9eqe3/tileservice_crashes_randomly_when_trying_to_open/)
-- [I'm thinking of creating a free Android mentorship program](https://www.reddit.com/r/androiddev/comments/m9dk0w/im_thinking_of_creating_a_free_android_mentorship/)
-- [Location Services](https://www.reddit.com/r/androiddev/comments/m9dgci/location_services/)
-- [Sys design fragment manager](https://www.reddit.com/r/androiddev/comments/m9b6jq/sys_design_fragment_manager/)
-- [To export content outside of the Application process stored in Room database, do we need to use Cursor or is there a more modern approach?](https://www.reddit.com/r/androiddev/comments/m98ssm/to_export_content_outside_of_the_application/)
+- [Starting Android Developer job tomorrow](https://www.reddit.com/r/androiddev/comments/ma6p54/starting_android_developer_job_tomorrow/)
+- [Best disclaimer for app](https://www.reddit.com/r/androiddev/comments/ma5gko/best_disclaimer_for_app/)
+- [Question: Post Activity Design Fragment Vs. Activity](https://www.reddit.com/r/androiddev/comments/ma47z9/question_post_activity_design_fragment_vs_activity/)
+- [InMobi a fraud?](https://www.reddit.com/r/androiddev/comments/ma3y9z/inmobi_a_fraud/)
+- [How complex does my app website need to be?](https://www.reddit.com/r/androiddev/comments/ma3s4d/how_complex_does_my_app_website_need_to_be/)
+- [Awesome Flutter tips and tricks](https://www.reddit.com/r/androiddev/comments/ma21k8/awesome_flutter_tips_and_tricks/)
+- [Which features would you add to a possible successor of MTP (Media Transfer Protocol)? [And what I would add.]](https://www.reddit.com/r/androiddev/comments/ma1x9z/which_features_would_you_add_to_a_possible/)
+- [Android Lint API Guide](https://www.reddit.com/r/androiddev/comments/m9yvka/android_lint_api_guide/)
+- [Is filtering app review against google play policy? like prompting a user "Do you like the app" if yes, redirect to ur playstore page if no, do nothing/back/show a form?](https://www.reddit.com/r/androiddev/comments/m9wyye/is_filtering_app_review_against_google_play/)
+- [App Ideas using cloud firestore or realtime database as backend](https://www.reddit.com/r/androiddev/comments/m9wx2j/app_ideas_using_cloud_firestore_or_realtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
