@@ -326,6 +326,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [17 Google Assistant Tricks You Might Not Know About](https://gizmodo.com/17-google-assistant-tricks-you-might-not-know-about-1846523906)
 - [Barnes & Noble's Nook Sidesteps the Grave Once Again With a New Lenovo-Built Tablet](https://gizmodo.com/barnes-nobles-nook-sidesteps-the-grave-once-again-wit-1846511475)
 - [How to Sideload Any App on Your Chromecast With Google TV](https://gizmodo.com/how-to-sideload-any-app-on-your-chromecast-with-google-1846490542)
 - [Google's New Nest Hub Tracks Your Sleep From Your Nightstand, No Wearables Required](https://gizmodo.com/googles-new-nest-hub-tracks-your-sleep-from-your-nights-1846389994)
@@ -335,7 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Someone Totally Ruined the Memory of PalmOS By Putting Twitter on It](https://gizmodo.com/someone-totally-ruined-the-memory-of-palmos-by-putting-1846457707)
 - [Epic Is Taking Google to Court (Again)](https://gizmodo.com/epic-is-taking-google-to-court-again-1846446966)
 - [Google Is Bringing an Apple-Like Handoff Feature to Android Phones and Chromebooks](https://gizmodo.com/google-is-bringing-an-apple-like-handoff-feature-to-and-1846441190)
-- [The Privacy Problem With Android's 'Choice' Screen](https://gizmodo.com/the-privacy-problem-with-androids-choice-screen-1846433406)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
