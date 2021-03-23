@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Starting Android Developer job tomorrow](https://www.reddit.com/r/androiddev/comments/ma6p54/starting_android_developer_job_tomorrow/)
-- [Best disclaimer for app](https://www.reddit.com/r/androiddev/comments/ma5gko/best_disclaimer_for_app/)
-- [Question: Post Activity Design Fragment Vs. Activity](https://www.reddit.com/r/androiddev/comments/ma47z9/question_post_activity_design_fragment_vs_activity/)
-- [InMobi a fraud?](https://www.reddit.com/r/androiddev/comments/ma3y9z/inmobi_a_fraud/)
-- [How complex does my app website need to be?](https://www.reddit.com/r/androiddev/comments/ma3s4d/how_complex_does_my_app_website_need_to_be/)
-- [Awesome Flutter tips and tricks](https://www.reddit.com/r/androiddev/comments/ma21k8/awesome_flutter_tips_and_tricks/)
-- [Which features would you add to a possible successor of MTP (Media Transfer Protocol)? [And what I would add.]](https://www.reddit.com/r/androiddev/comments/ma1x9z/which_features_would_you_add_to_a_possible/)
-- [Android Lint API Guide](https://www.reddit.com/r/androiddev/comments/m9yvka/android_lint_api_guide/)
-- [Is filtering app review against google play policy? like prompting a user "Do you like the app" if yes, redirect to ur playstore page if no, do nothing/back/show a form?](https://www.reddit.com/r/androiddev/comments/m9wyye/is_filtering_app_review_against_google_play/)
-- [App Ideas using cloud firestore or realtime database as backend](https://www.reddit.com/r/androiddev/comments/m9wx2j/app_ideas_using_cloud_firestore_or_realtime/)
+- [Are React Native apps "Native"?](https://www.reddit.com/r/androiddev/comments/mb3i9g/are_react_native_apps_native/)
+- [Need Android Developer for Small App Development](https://www.reddit.com/r/androiddev/comments/mb2ec9/need_android_developer_for_small_app_development/)
+- [Android UI templates for displaying charts of data coming from sensors?](https://www.reddit.com/r/androiddev/comments/mb1k8w/android_ui_templates_for_displaying_charts_of/)
+- [How to disable apps ?](https://www.reddit.com/r/androiddev/comments/mb11z6/how_to_disable_apps/)
+- [Oh senior dev which is faster. using string resources but via getIdentifier() resource search or using local persistence library like Room.](https://www.reddit.com/r/androiddev/comments/mazx9z/oh_senior_dev_which_is_faster_using_string/)
+- [Dagger2 is hard, but it can be easy, part 4 - Singleton is a lie](https://www.reddit.com/r/androiddev/comments/maztya/dagger2_is_hard_but_it_can_be_easy_part_4/)
+- [React Native VS Kotlin Native VS Flutter 2021](https://www.reddit.com/r/androiddev/comments/maxxzi/react_native_vs_kotlin_native_vs_flutter_2021/)
+- [App Actions - Extend your Android Apps with Google Assistant - Complete Tutorial in under 20 mins](https://www.reddit.com/r/androiddev/comments/mawryi/app_actions_extend_your_android_apps_with_google/)
+- [What tool should I use to create UI for my devs to implement?](https://www.reddit.com/r/androiddev/comments/mauwmg/what_tool_should_i_use_to_create_ui_for_my_devs/)
+- [GRPC over REST for Android applications](https://www.reddit.com/r/androiddev/comments/maukuf/grpc_over_rest_for_android_applications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
