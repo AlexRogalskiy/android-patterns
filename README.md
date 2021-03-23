@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Disable Bottom Sheet Dismiss Handling](https://thxall92.medium.com/disable-bottom-sheet-dismiss-handling-4a5277bddaf2?source=rss------android-5)
-- [Kotlin+Dagger best practices](https://sreekumar-av.medium.com/kotlin-dagger-best-practices-966199b48b89?source=rss------android-5)
-- [Anti Hacker: Saiba como ele pode te ajudar](https://antihacker-app.medium.com/anti-hacker-saiba-como-ele-pode-te-ajudar-631d0e85a4ea?source=rss------android-5)
-- [Indonesia Poker online+ Perang Dadu Terpopuler di ASIA](https://kasqqpkv.medium.com/indonesia-poker-online-perang-dadu-terpopuler-di-asia-371dd6ad07?source=rss------android-5)
-- [Uma nova forma de solicitar permissões com o Android Jetpack - Activity Result APIs](https://pvcorazza.medium.com/uma-nova-forma-de-solicitar-permissoes-com-o-android-jetpack-activity-result-apis-404a7a5cd460?source=rss------android-5)
-- [Beginner: Building Custom model using Huawei ML kit Custom Model](https://medium.com/huawei-developers/beginner-building-custom-model-using-huawei-ml-kit-custom-model-d580811de27d?source=rss------android-5)
-- [EyeAttend — Facial Recognition based Attendance System from scratch.](https://medium.com/analytics-vidhya/eyeattend-facial-recognition-based-attendance-system-from-scratch-4c07ce9da319?source=rss------android-5)
-- [Building a Family Tree DSL with Jetpack Compose syntax](https://proandroiddev.com/building-a-family-tree-dsl-with-jetpack-compose-syntax-fe652ce6cb0f?source=rss------android-5)
-- [RxJava subscribeOn and observeOn Demystified](https://medium.com/android-news/rxjava-subscribeon-and-observeon-demystified-62c41736b6e9?source=rss------android-5)
-- [PassFab Android Unlocker](https://imransahil773.medium.com/passfab-android-unlocker-c9dee609771b?source=rss------android-5)
+- [Cross-Platform Mobile Development with no Frameworks — Part 1: Why?](https://mdapp.medium.com/cross-platform-mobile-development-with-no-frameworks-part-1-why-a6f8c9648c9f?source=rss------android-5)
+- [Exploring helper CircularFlow](https://rodrigomartind.medium.com/exploring-helper-circularflow-6ef168abf4fe?source=rss------android-5)
+- [Prix imbattable IPTV](https://azulapk.medium.com/prix-imbattable-iptv-2426761397ae?source=rss------android-5)
+- [Okta Device Trust for iOS/Android + Microsoft Intune](https://ajawzero.medium.com/okta-device-trust-for-ios-android-microsoft-intune-9fef9af0864?source=rss------android-5)
+- [Deploying a Gitlab Repository and Runner Server on Google Cloud.](https://andresmaca.medium.com/deploying-a-gitlab-repository-and-runner-server-on-google-cloud-57b9d490c975?source=rss------android-5)
+- [Android Continuous Integration and Coverage visualization on Gitlab.](https://andresmaca.medium.com/android-continuous-integration-and-coverage-visualization-on-gitlab-4a15d58f624c?source=rss------android-5)
+- [How to stop Google from listening to you on your Android phone](https://rafabelokurows.medium.com/how-to-stop-google-from-listening-to-you-on-your-android-phone-a031b8d4da08?source=rss------android-5)
+- [itel android tv: Itel launches G-series Android TV range at a starting price of Rs 16,999 | DAYYDAY](https://gaurav-dwivedy55.medium.com/itel-android-tv-itel-launches-g-series-android-tv-range-at-a-starting-price-of-rs-16-999-dayyday-b10c841ca7a0?source=rss------android-5)
+- [Implement Podcast in a Service with ExoPlayer and Hilt #2](https://medium.com/ideas-by-idean/implement-podcast-in-a-service-with-exoplayer-and-hilt-2-2dc07d4d6f65?source=rss------android-5)
+- [Implement Podcast in a Service with ExoPlayer and Hilt #1](https://medium.com/ideas-by-idean/implement-podcast-in-a-service-with-exoplayer-and-hilt-1-8c80cdbcd3bb?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
