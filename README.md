@@ -281,16 +281,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [What is AWS certification?](https://www.androidauthority.com/what-is-aws-certification-1157928/)
+- [How to use lists in Python](https://www.androidauthority.com/how-to-add-to-a-list-in-python-1134815/)
+- [The best resources to learn Java – free and paid](https://www.androidauthority.com/best-resources-to-learn-java-1147362/)
+- [Making an app with no programming experience: What are your options?](https://www.androidauthority.com/how-to-make-android-apps-629325/)
+- [How to open CSV files in Python – store and retrieve large data sets](https://www.androidauthority.com/how-to-open-csv-file-python-1140486/)
+- [How to round in Python](https://www.androidauthority.com/how-to-round-in-python-1134475/)
+- [How to make a game in Unity: it starts with a simple 3D maze game](https://www.androidauthority.com/how-to-make-a-game-in-unity-1130929/)
+- [What is Unity? Everything you need to know](https://www.androidauthority.com/what-is-unity-1131558/)
 - [What is Azure certification?](https://www.androidauthority.com/azure-certification-1162875/)
 - [What is Google Cloud? Here’s what you need to know](https://www.androidauthority.com/what-is-google-cloud-1163777/)
-- [Python vs Java: Which language should you learn and what are the differences?](https://www.androidauthority.com/python-vs-java-1145042/)
-- [What is Python and how do you get started?](https://www.androidauthority.com/what-is-python-1120588/)
-- [How to use a web API from your Android app](https://www.androidauthority.com/use-web-api-android-1152645/)
-- [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
-- [Upwork vs Fiverr: Which is the best place to sell your services?](https://www.androidauthority.com/upwork-vs-fiverr-1190439/)
-- [How to use AWS – a simple guide for beginners](https://www.androidauthority.com/how-to-use-aws-1168883/)
-- [Java beginner course – A free and comprehensive guide to the basics of Java](https://www.androidauthority.com/java-beginners-course-1146854/)
-- [How to use classes in Python](https://www.androidauthority.com/how-to-use-classes-in-python-1148982/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
