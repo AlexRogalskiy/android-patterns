@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are React Native apps "Native"?](https://www.reddit.com/r/androiddev/comments/mb3i9g/are_react_native_apps_native/)
-- [Need Android Developer for Small App Development](https://www.reddit.com/r/androiddev/comments/mb2ec9/need_android_developer_for_small_app_development/)
-- [Android UI templates for displaying charts of data coming from sensors?](https://www.reddit.com/r/androiddev/comments/mb1k8w/android_ui_templates_for_displaying_charts_of/)
-- [How to disable apps ?](https://www.reddit.com/r/androiddev/comments/mb11z6/how_to_disable_apps/)
-- [Oh senior dev which is faster. using string resources but via getIdentifier() resource search or using local persistence library like Room.](https://www.reddit.com/r/androiddev/comments/mazx9z/oh_senior_dev_which_is_faster_using_string/)
-- [Dagger2 is hard, but it can be easy, part 4 - Singleton is a lie](https://www.reddit.com/r/androiddev/comments/maztya/dagger2_is_hard_but_it_can_be_easy_part_4/)
-- [React Native VS Kotlin Native VS Flutter 2021](https://www.reddit.com/r/androiddev/comments/maxxzi/react_native_vs_kotlin_native_vs_flutter_2021/)
-- [App Actions - Extend your Android Apps with Google Assistant - Complete Tutorial in under 20 mins](https://www.reddit.com/r/androiddev/comments/mawryi/app_actions_extend_your_android_apps_with_google/)
-- [What tool should I use to create UI for my devs to implement?](https://www.reddit.com/r/androiddev/comments/mauwmg/what_tool_should_i_use_to_create_ui_for_my_devs/)
-- [GRPC over REST for Android applications](https://www.reddit.com/r/androiddev/comments/maukuf/grpc_over_rest_for_android_applications/)
+- [Is OpenCV the only choice of a client-side library for PDF scanning/cropping/editing?](https://www.reddit.com/r/androiddev/comments/mbtnz0/is_opencv_the_only_choice_of_a_clientside_library/)
+- [I think I've reached my peak as a beginner and not improving as much.](https://www.reddit.com/r/androiddev/comments/mbtdn0/i_think_ive_reached_my_peak_as_a_beginner_and_not/)
+- [Handle poor accuracy location coordinates](https://www.reddit.com/r/androiddev/comments/mbqxrp/handle_poor_accuracy_location_coordinates/)
+- [Anyone have experience with receiving fake reviews?](https://www.reddit.com/r/androiddev/comments/mbp7nw/anyone_have_experience_with_receiving_fake_reviews/)
+- [Android Studio 4.1.3 can't build apps targeting API level 30](https://www.reddit.com/r/androiddev/comments/mbnene/android_studio_413_cant_build_apps_targeting_api/)
+- [Publishing status: Rejected](https://www.reddit.com/r/androiddev/comments/mbn6xs/publishing_status_rejected/)
+- [First Android App Issues With Testing In App Billing Subscriptions](https://www.reddit.com/r/androiddev/comments/mblylc/first_android_app_issues_with_testing_in_app/)
+- [Those that started in Android development and got out of mobile, how did you do it?](https://www.reddit.com/r/androiddev/comments/mbk299/those_that_started_in_android_development_and_got/)
+- [Some support to virtualize a recent version of android on the arm64 jetson nano.](https://www.reddit.com/r/androiddev/comments/mbk0xd/some_support_to_virtualize_a_recent_version_of/)
+- [We built a sample Android subscription app to show how to display product prices, check subscription status, build a basic paywall, and more.](https://www.reddit.com/r/androiddev/comments/mbjlgl/we_built_a_sample_android_subscription_app_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
