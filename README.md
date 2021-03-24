@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Cross-Platform Mobile Development with no Frameworks — Part 1: Why?](https://mdapp.medium.com/cross-platform-mobile-development-with-no-frameworks-part-1-why-a6f8c9648c9f?source=rss------android-5)
-- [Exploring helper CircularFlow](https://rodrigomartind.medium.com/exploring-helper-circularflow-6ef168abf4fe?source=rss------android-5)
-- [Prix imbattable IPTV](https://azulapk.medium.com/prix-imbattable-iptv-2426761397ae?source=rss------android-5)
-- [Okta Device Trust for iOS/Android + Microsoft Intune](https://ajawzero.medium.com/okta-device-trust-for-ios-android-microsoft-intune-9fef9af0864?source=rss------android-5)
-- [Deploying a Gitlab Repository and Runner Server on Google Cloud.](https://andresmaca.medium.com/deploying-a-gitlab-repository-and-runner-server-on-google-cloud-57b9d490c975?source=rss------android-5)
-- [Android Continuous Integration and Coverage visualization on Gitlab.](https://andresmaca.medium.com/android-continuous-integration-and-coverage-visualization-on-gitlab-4a15d58f624c?source=rss------android-5)
-- [How to stop Google from listening to you on your Android phone](https://rafabelokurows.medium.com/how-to-stop-google-from-listening-to-you-on-your-android-phone-a031b8d4da08?source=rss------android-5)
-- [itel android tv: Itel launches G-series Android TV range at a starting price of Rs 16,999 | DAYYDAY](https://gaurav-dwivedy55.medium.com/itel-android-tv-itel-launches-g-series-android-tv-range-at-a-starting-price-of-rs-16-999-dayyday-b10c841ca7a0?source=rss------android-5)
-- [Implement Podcast in a Service with ExoPlayer and Hilt #2](https://medium.com/ideas-by-idean/implement-podcast-in-a-service-with-exoplayer-and-hilt-2-2dc07d4d6f65?source=rss------android-5)
-- [Implement Podcast in a Service with ExoPlayer and Hilt #1](https://medium.com/ideas-by-idean/implement-podcast-in-a-service-with-exoplayer-and-hilt-1-8c80cdbcd3bb?source=rss------android-5)
+- [Flutter DevTools — The Last Article In My 30 Weeks Flutter Journey](https://betterprogramming.pub/flutter-devtools-the-last-article-in-my-30-weeks-flutter-journey-6cd638b33f3?source=rss------android-5)
+- [10 Hidden WhatsApp Features you Need to Know About](https://lchalmers4200.medium.com/10-hidden-whatsapp-features-b6696ca46659?source=rss------android-5)
+- [Add a custom badge to your bottom tabs, because sometimes you need a square instead of a circle](https://medium.com/androidxx/add-a-custom-badge-to-your-bottom-tabs-because-sometimes-you-need-a-square-instead-of-a-circle-c150091359b5?source=rss------android-5)
+- [React native android: Background location in android 11 without ACCESS_BACKGROUND_LOCATION…](https://devashishsethia.medium.com/react-native-android-background-location-in-android-11-without-access-background-location-1c1a9be0a270?source=rss------android-5)
+- [Is Your Android Phone Closing Every App You Open?](https://anthonyodugan.medium.com/is-your-android-phone-closing-every-app-you-open-c89cfcea1112?source=rss------android-5)
+- [How to Install CalyxOS and De-Google your phone](https://medium.com/swlh/how-to-install-calyxos-and-de-google-your-phone-ea432956c12?source=rss------android-5)
+- [Best phone under 10,000 and 15,000](https://alisha-garg.medium.com/best-phone-under-10-000-and-15-000-e0b6e8d658b5?source=rss------android-5)
+- [Care jcui nmvnri iisoepr](https://medium.com/@fghqrdlq/care-jcui-nmvnri-iisoepr-ba1f7fbc94a8?source=rss------android-5)
+- [I’m siri Google. It’s not you; it’s me](https://medium.com/unsplash-design/im-siri-google-it-s-not-you-it-s-me-95f6ce505d69?source=rss------android-5)
+- [All About PendingIntents](https://medium.com/androiddevelopers/all-about-pendingintents-748c8eb8619?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
