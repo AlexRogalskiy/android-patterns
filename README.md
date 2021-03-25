@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is OpenCV the only choice of a client-side library for PDF scanning/cropping/editing?](https://www.reddit.com/r/androiddev/comments/mbtnz0/is_opencv_the_only_choice_of_a_clientside_library/)
-- [I think I've reached my peak as a beginner and not improving as much.](https://www.reddit.com/r/androiddev/comments/mbtdn0/i_think_ive_reached_my_peak_as_a_beginner_and_not/)
-- [Handle poor accuracy location coordinates](https://www.reddit.com/r/androiddev/comments/mbqxrp/handle_poor_accuracy_location_coordinates/)
-- [Anyone have experience with receiving fake reviews?](https://www.reddit.com/r/androiddev/comments/mbp7nw/anyone_have_experience_with_receiving_fake_reviews/)
-- [Android Studio 4.1.3 can't build apps targeting API level 30](https://www.reddit.com/r/androiddev/comments/mbnene/android_studio_413_cant_build_apps_targeting_api/)
-- [Publishing status: Rejected](https://www.reddit.com/r/androiddev/comments/mbn6xs/publishing_status_rejected/)
-- [First Android App Issues With Testing In App Billing Subscriptions](https://www.reddit.com/r/androiddev/comments/mblylc/first_android_app_issues_with_testing_in_app/)
-- [Those that started in Android development and got out of mobile, how did you do it?](https://www.reddit.com/r/androiddev/comments/mbk299/those_that_started_in_android_development_and_got/)
-- [Some support to virtualize a recent version of android on the arm64 jetson nano.](https://www.reddit.com/r/androiddev/comments/mbk0xd/some_support_to_virtualize_a_recent_version_of/)
-- [We built a sample Android subscription app to show how to display product prices, check subscription status, build a basic paywall, and more.](https://www.reddit.com/r/androiddev/comments/mbjlgl/we_built_a_sample_android_subscription_app_to/)
+- [A safer way to collect flows from Android UIs](https://www.reddit.com/r/androiddev/comments/mck4hq/a_safer_way_to_collect_flows_from_android_uis/)
+- [What is the modern way of handling asynchronous background requests now that Fragment.setRetainInstance is deprecated?](https://www.reddit.com/r/androiddev/comments/mciuit/what_is_the_modern_way_of_handling_asynchronous/)
+- [Solo Developers, how do get an icon for your app?](https://www.reddit.com/r/androiddev/comments/mch5ze/solo_developers_how_do_get_an_icon_for_your_app/)
+- [Recommendations for Development Phone with IR](https://www.reddit.com/r/androiddev/comments/mch2mp/recommendations_for_development_phone_with_ir/)
+- [Detecting leaks in Android Applications (Dropbox)](https://www.reddit.com/r/androiddev/comments/mcgox4/detecting_leaks_in_android_applications_dropbox/)
+- [Firebase Remote Config: some lessons learned](https://www.reddit.com/r/androiddev/comments/mcgal9/firebase_remote_config_some_lessons_learned/)
+- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://www.reddit.com/r/androiddev/comments/mcga92/entry_name_metainfsdk_debugkotlin_module_collided/)
+- [Random emails asking to host apps in your account](https://www.reddit.com/r/androiddev/comments/mcfkhf/random_emails_asking_to_host_apps_in_your_account/)
+- [While doing MVVM you use Use Cases?](https://www.reddit.com/r/androiddev/comments/mcfac1/while_doing_mvvm_you_use_use_cases/)
+- [Broken Search engine](https://www.reddit.com/r/androiddev/comments/mce047/broken_search_engine/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
