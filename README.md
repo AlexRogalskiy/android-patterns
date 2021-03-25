@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Flutter DevTools — The Last Article In My 30 Weeks Flutter Journey](https://betterprogramming.pub/flutter-devtools-the-last-article-in-my-30-weeks-flutter-journey-6cd638b33f3?source=rss------android-5)
-- [10 Hidden WhatsApp Features you Need to Know About](https://lchalmers4200.medium.com/10-hidden-whatsapp-features-b6696ca46659?source=rss------android-5)
-- [Add a custom badge to your bottom tabs, because sometimes you need a square instead of a circle](https://medium.com/androidxx/add-a-custom-badge-to-your-bottom-tabs-because-sometimes-you-need-a-square-instead-of-a-circle-c150091359b5?source=rss------android-5)
-- [React native android: Background location in android 11 without ACCESS_BACKGROUND_LOCATION…](https://devashishsethia.medium.com/react-native-android-background-location-in-android-11-without-access-background-location-1c1a9be0a270?source=rss------android-5)
-- [Is Your Android Phone Closing Every App You Open?](https://anthonyodugan.medium.com/is-your-android-phone-closing-every-app-you-open-c89cfcea1112?source=rss------android-5)
-- [How to Install CalyxOS and De-Google your phone](https://medium.com/swlh/how-to-install-calyxos-and-de-google-your-phone-ea432956c12?source=rss------android-5)
-- [Best phone under 10,000 and 15,000](https://alisha-garg.medium.com/best-phone-under-10-000-and-15-000-e0b6e8d658b5?source=rss------android-5)
-- [Care jcui nmvnri iisoepr](https://medium.com/@fghqrdlq/care-jcui-nmvnri-iisoepr-ba1f7fbc94a8?source=rss------android-5)
-- [I’m siri Google. It’s not you; it’s me](https://medium.com/unsplash-design/im-siri-google-it-s-not-you-it-s-me-95f6ce505d69?source=rss------android-5)
-- [All About PendingIntents](https://medium.com/androiddevelopers/all-about-pendingintents-748c8eb8619?source=rss------android-5)
+- [Get $100 Free Google Play Gift Card Codes Giveaway! — Mar 2021](https://medium.com/@google_play_2021/get-100-free-google-play-gift-card-codes-giveaway-mar-2021-9ee0515a8a38?source=rss------android-5)
+- [Sharing test code in a multi-module android project](https://jonnycaley.medium.com/sharing-test-code-in-a-multi-module-android-project-7ce4de788016?source=rss------android-5)
+- [MVVM With Retrofit and Recyclerview in Kotlin [Example]](https://medium.com/android-beginners/mvvm-with-retrofit-and-recyclerview-in-kotlin-example-f01a7bd41073?source=rss------android-5)
+- [A safer way to collect flows from Android UIs](https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda?source=rss------android-5)
+- [SIri ndoto uvnnrj3 k4u43](https://medium.com/@xxuzhrlq/siri-ndoto-uvnnrj3-k4u43-c7a28db56fc3?source=rss------android-5)
+- [A cf9e iej oeoprtn hzcyu3](https://medium.com/@xxuzhrlq/a-cf9e-iej-oeoprtn-hzcyu3-6ec0659b0018?source=rss------android-5)
+- [Aici wann cvni ei w 7vbu 4n43](https://medium.com/@xxuzhrlq/aici-wann-cvni-ei-w-7vbu-4n43-d1faa0d11309?source=rss------android-5)
+- [Designing dual-screen apps with Microsoft Surface Duo Design Kit](https://medium.com/microsoft-mobile-engineering/designing-dual-screen-apps-with-microsoft-surface-duo-design-kit-fe86c1f4f56d?source=rss------android-5)
+- [How to View What Apps Are Using Camera and Microphone on Android](https://zaynwilder55.medium.com/how-to-view-what-apps-are-using-camera-and-microphone-on-android-4d28d65f97c?source=rss------android-5)
+- [Ford Says ‘Million’ Of Its Vehicles Will Run On Google’s Android Starting In 2023](https://pros-inc.medium.com/ford-says-million-of-its-vehicles-will-run-on-google-s-android-starting-in-2023-75c89850a935?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
