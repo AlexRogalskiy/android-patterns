@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [A safer way to collect flows from Android UIs](https://www.reddit.com/r/androiddev/comments/mck4hq/a_safer_way_to_collect_flows_from_android_uis/)
-- [What is the modern way of handling asynchronous background requests now that Fragment.setRetainInstance is deprecated?](https://www.reddit.com/r/androiddev/comments/mciuit/what_is_the_modern_way_of_handling_asynchronous/)
-- [Solo Developers, how do get an icon for your app?](https://www.reddit.com/r/androiddev/comments/mch5ze/solo_developers_how_do_get_an_icon_for_your_app/)
-- [Recommendations for Development Phone with IR](https://www.reddit.com/r/androiddev/comments/mch2mp/recommendations_for_development_phone_with_ir/)
-- [Detecting leaks in Android Applications (Dropbox)](https://www.reddit.com/r/androiddev/comments/mcgox4/detecting_leaks_in_android_applications_dropbox/)
-- [Firebase Remote Config: some lessons learned](https://www.reddit.com/r/androiddev/comments/mcgal9/firebase_remote_config_some_lessons_learned/)
-- [Entry name 'META-INF/sdk_debug.kotlin_module' collided](https://www.reddit.com/r/androiddev/comments/mcga92/entry_name_metainfsdk_debugkotlin_module_collided/)
-- [Random emails asking to host apps in your account](https://www.reddit.com/r/androiddev/comments/mcfkhf/random_emails_asking_to_host_apps_in_your_account/)
-- [While doing MVVM you use Use Cases?](https://www.reddit.com/r/androiddev/comments/mcfac1/while_doing_mvvm_you_use_use_cases/)
-- [Broken Search engine](https://www.reddit.com/r/androiddev/comments/mce047/broken_search_engine/)
+- [How long does it take to learn android app dev?](https://www.reddit.com/r/androiddev/comments/mdbvv9/how_long_does_it_take_to_learn_android_app_dev/)
+- [Looking for help with implementing Spotify API into my Android App](https://www.reddit.com/r/androiddev/comments/mdbfta/looking_for_help_with_implementing_spotify_api/)
+- [Can I still use other person's card to pay for google play console?](https://www.reddit.com/r/androiddev/comments/mdb5oh/can_i_still_use_other_persons_card_to_pay_for/)
+- [Best courses for learning android development with Kotlin](https://www.reddit.com/r/androiddev/comments/md93ri/best_courses_for_learning_android_development/)
+- [JetWeatherfy - My submission on Android Dev Challenge - Week 4](https://www.reddit.com/r/androiddev/comments/md8vu1/jetweatherfy_my_submission_on_android_dev/)
+- [Testing StateFlow](https://www.reddit.com/r/androiddev/comments/md7lwq/testing_stateflow/)
+- [Debugging Gradle build scripts & Plugins on IntelliJ/Android Studio](https://www.reddit.com/r/androiddev/comments/md72ms/debugging_gradle_build_scripts_plugins_on/)
+- [For anyone who is [still] using Apache Cordova which is a open source tech that converts your HTML 5 game/app into an apk file, this is a 5min no nonsense video on how to set it up so that using it will be a breeze in the future.](https://www.reddit.com/r/androiddev/comments/md69un/for_anyone_who_is_still_using_apache_cordova/)
+- [Android IDE on Android OS: AIDE vs. JStudio](https://www.reddit.com/r/androiddev/comments/md5r2v/android_ide_on_android_os_aide_vs_jstudio/)
+- [[Free Template] Prototype and test with real users in 5 days using Design Sprints](https://www.reddit.com/r/androiddev/comments/md4vis/free_template_prototype_and_test_with_real_users/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
