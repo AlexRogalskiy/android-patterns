@@ -284,13 +284,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [What is AWS certification?](https://www.androidauthority.com/what-is-aws-certification-1157928/)
 - [The best AWS courses for professionals](https://www.androidauthority.com/aws-courses-1159464/)
 - [How to use lists in Python](https://www.androidauthority.com/how-to-add-to-a-list-in-python-1134815/)
+- [What is Google Cloud? Here’s what you need to know](https://www.androidauthority.com/what-is-google-cloud-1163777/)
 - [The beginner’s guide to Android game development: Everything you need to know](https://www.androidauthority.com/android-game-development-1128058/)
 - [The best resources to learn Java – free and paid](https://www.androidauthority.com/best-resources-to-learn-java-1147362/)
 - [Making an app with no programming experience: What are your options?](https://www.androidauthority.com/how-to-make-android-apps-629325/)
 - [How to open CSV files in Python – store and retrieve large data sets](https://www.androidauthority.com/how-to-open-csv-file-python-1140486/)
 - [How to round in Python](https://www.androidauthority.com/how-to-round-in-python-1134475/)
 - [How to make a game in Unity: it starts with a simple 3D maze game](https://www.androidauthority.com/how-to-make-a-game-in-unity-1130929/)
-- [What is Unity? Everything you need to know](https://www.androidauthority.com/what-is-unity-1131558/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
