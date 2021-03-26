@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Get $100 Free Google Play Gift Card Codes Giveaway! — Mar 2021](https://medium.com/@google_play_2021/get-100-free-google-play-gift-card-codes-giveaway-mar-2021-9ee0515a8a38?source=rss------android-5)
-- [Sharing test code in a multi-module android project](https://jonnycaley.medium.com/sharing-test-code-in-a-multi-module-android-project-7ce4de788016?source=rss------android-5)
-- [MVVM With Retrofit and Recyclerview in Kotlin [Example]](https://medium.com/android-beginners/mvvm-with-retrofit-and-recyclerview-in-kotlin-example-f01a7bd41073?source=rss------android-5)
-- [A safer way to collect flows from Android UIs](https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda?source=rss------android-5)
-- [SIri ndoto uvnnrj3 k4u43](https://medium.com/@xxuzhrlq/siri-ndoto-uvnnrj3-k4u43-c7a28db56fc3?source=rss------android-5)
-- [A cf9e iej oeoprtn hzcyu3](https://medium.com/@xxuzhrlq/a-cf9e-iej-oeoprtn-hzcyu3-6ec0659b0018?source=rss------android-5)
-- [Aici wann cvni ei w 7vbu 4n43](https://medium.com/@xxuzhrlq/aici-wann-cvni-ei-w-7vbu-4n43-d1faa0d11309?source=rss------android-5)
-- [Designing dual-screen apps with Microsoft Surface Duo Design Kit](https://medium.com/microsoft-mobile-engineering/designing-dual-screen-apps-with-microsoft-surface-duo-design-kit-fe86c1f4f56d?source=rss------android-5)
-- [How to View What Apps Are Using Camera and Microphone on Android](https://zaynwilder55.medium.com/how-to-view-what-apps-are-using-camera-and-microphone-on-android-4d28d65f97c?source=rss------android-5)
-- [Ford Says ‘Million’ Of Its Vehicles Will Run On Google’s Android Starting In 2023](https://pros-inc.medium.com/ford-says-million-of-its-vehicles-will-run-on-google-s-android-starting-in-2023-75c89850a935?source=rss------android-5)
+- [Introducing Clubhouse: The Money Making Audio Social Network](https://rui-alves.medium.com/introducing-clubhouse-the-money-making-audio-social-network-656b7fbe35ef?source=rss------android-5)
+- [QUALCOMM IS MAKING AN ANDROID CONSOLE?](https://outputinfos.medium.com/qualcomm-is-making-an-android-console-443152265892?source=rss------android-5)
+- [Ten #AndroidLifeHacks You Can Use Today](https://gpeal.medium.com/ten-androidlifehacks-you-can-use-today-9f74186fc207?source=rss------android-5)
+- [Noovnb birk nea rutp eme](https://medium.com/@gdhyoemq/noovnb-birk-nea-rutp-eme-8786f5e44b4a?source=rss------android-5)
+- [Top 8 Call Recording Apps for Android](https://andylouis0555.medium.com/top-8-call-recording-apps-for-android-d6d4b54fef98?source=rss------android-5)
+- [Create your own Android Library & Publish it](https://drjansari.medium.com/create-your-own-android-library-publish-it-1b55bb492ce7?source=rss------android-5)
+- [Can the Pixel 6 Keep Google In Todays Phone Market?](https://medium.com/adventures-in-consumer-technology/can-the-pixel-6-keep-google-in-todays-phone-market-6ed53ed15f33?source=rss------android-5)
+- [The Best Social Media Downloader Apps for Android](https://martinjustin0777.medium.com/the-best-social-media-downloader-apps-for-android-2a9c941a1c86?source=rss------android-5)
+- [How to use Native iOS / Android code in React Native](https://marmik-mobile.medium.com/how-to-use-native-ios-android-code-in-react-native-e25633c4250c?source=rss------android-5)
+- [Google Chrome dan Apps Android Sempat Crash, Ini Solusi](https://michaeljohnraharjo.medium.com/google-chrome-dan-apps-android-sempat-crash-ini-solusi-f5a5c33ea70b?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
