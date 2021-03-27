@@ -281,6 +281,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [How to make money on Fiverr as a creative professional](https://www.androidauthority.com/how-to-make-money-on-fiverr-1026987/)
 - [What is AWS certification?](https://www.androidauthority.com/what-is-aws-certification-1157928/)
 - [The best AWS courses for professionals](https://www.androidauthority.com/aws-courses-1159464/)
 - [How to use lists in Python](https://www.androidauthority.com/how-to-add-to-a-list-in-python-1134815/)
@@ -290,7 +291,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Making an app with no programming experience: What are your options?](https://www.androidauthority.com/how-to-make-android-apps-629325/)
 - [How to open CSV files in Python – store and retrieve large data sets](https://www.androidauthority.com/how-to-open-csv-file-python-1140486/)
 - [How to round in Python](https://www.androidauthority.com/how-to-round-in-python-1134475/)
-- [How to make a game in Unity: it starts with a simple 3D maze game](https://www.androidauthority.com/how-to-make-a-game-in-unity-1130929/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
