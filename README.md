@@ -296,6 +296,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Arsenal posts_
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+- [AndroidStyling-LintRules](http://android-arsenal.com/details/1/8238)
 - [MaterialPreferences](http://android-arsenal.com/details/1/8237)
 - [MaterialDialogFragments](http://android-arsenal.com/details/1/8236)
 - [Android BLE Made Easy](http://android-arsenal.com/details/1/8235)
@@ -305,7 +306,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Shuttle](http://android-arsenal.com/details/1/8231)
 - [ResOf](http://android-arsenal.com/details/1/8230)
 - [SegmentedProgressBar](http://android-arsenal.com/details/1/8229)
-- [StackExpandableView](http://android-arsenal.com/details/1/8228)
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### _Medium posts_
