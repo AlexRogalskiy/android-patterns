@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How long does it take to learn android app dev?](https://www.reddit.com/r/androiddev/comments/mdbvv9/how_long_does_it_take_to_learn_android_app_dev/)
-- [Looking for help with implementing Spotify API into my Android App](https://www.reddit.com/r/androiddev/comments/mdbfta/looking_for_help_with_implementing_spotify_api/)
-- [Can I still use other person's card to pay for google play console?](https://www.reddit.com/r/androiddev/comments/mdb5oh/can_i_still_use_other_persons_card_to_pay_for/)
-- [Best courses for learning android development with Kotlin](https://www.reddit.com/r/androiddev/comments/md93ri/best_courses_for_learning_android_development/)
-- [JetWeatherfy - My submission on Android Dev Challenge - Week 4](https://www.reddit.com/r/androiddev/comments/md8vu1/jetweatherfy_my_submission_on_android_dev/)
-- [Testing StateFlow](https://www.reddit.com/r/androiddev/comments/md7lwq/testing_stateflow/)
-- [Debugging Gradle build scripts & Plugins on IntelliJ/Android Studio](https://www.reddit.com/r/androiddev/comments/md72ms/debugging_gradle_build_scripts_plugins_on/)
-- [For anyone who is [still] using Apache Cordova which is a open source tech that converts your HTML 5 game/app into an apk file, this is a 5min no nonsense video on how to set it up so that using it will be a breeze in the future.](https://www.reddit.com/r/androiddev/comments/md69un/for_anyone_who_is_still_using_apache_cordova/)
-- [Android IDE on Android OS: AIDE vs. JStudio](https://www.reddit.com/r/androiddev/comments/md5r2v/android_ide_on_android_os_aide_vs_jstudio/)
-- [[Free Template] Prototype and test with real users in 5 days using Design Sprints](https://www.reddit.com/r/androiddev/comments/md4vis/free_template_prototype_and_test_with_real_users/)
+- [accurate user speed using kotlin ❓](https://www.reddit.com/r/androiddev/comments/me16sd/accurate_user_speed_using_kotlin/)
+- [Traffic enforcement cops need an equalizer (like a bot of something) to thwart apps that track police car locations.](https://www.reddit.com/r/androiddev/comments/me12z1/traffic_enforcement_cops_need_an_equalizer_like_a/)
+- [Wombo AI Music](https://www.reddit.com/r/androiddev/comments/me0jth/wombo_ai_music/)
+- [Can I update the items in ArrayAdapter?](https://www.reddit.com/r/androiddev/comments/mdz2kl/can_i_update_the_items_in_arrayadapter/)
+- [Learn Flutter and Dart to create Android and IOS apps - free course from udemy -](https://www.reddit.com/r/androiddev/comments/mdxfh9/learn_flutter_and_dart_to_create_android_and_ios/)
+- [Modern Android Project Template](https://www.reddit.com/r/androiddev/comments/mdxc6g/modern_android_project_template/)
+- [Open Composables via notification with Jetpack Navigation](https://www.reddit.com/r/androiddev/comments/mdwz8w/open_composables_via_notification_with_jetpack/)
+- [App got rejected for privacy policy issues](https://www.reddit.com/r/androiddev/comments/mdwxh2/app_got_rejected_for_privacy_policy_issues/)
+- [LeakCanary 2.7 released](https://www.reddit.com/r/androiddev/comments/mdwkpu/leakcanary_27_released/)
+- [Huawei and emui for android app?](https://www.reddit.com/r/androiddev/comments/mdtqx9/huawei_and_emui_for_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
