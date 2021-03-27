@@ -311,16 +311,15 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Introducing Clubhouse: The Money Making Audio Social Network](https://rui-alves.medium.com/introducing-clubhouse-the-money-making-audio-social-network-656b7fbe35ef?source=rss------android-5)
-- [QUALCOMM IS MAKING AN ANDROID CONSOLE?](https://outputinfos.medium.com/qualcomm-is-making-an-android-console-443152265892?source=rss------android-5)
-- [Ten #AndroidLifeHacks You Can Use Today](https://gpeal.medium.com/ten-androidlifehacks-you-can-use-today-9f74186fc207?source=rss------android-5)
-- [Noovnb birk nea rutp eme](https://medium.com/@gdhyoemq/noovnb-birk-nea-rutp-eme-8786f5e44b4a?source=rss------android-5)
-- [Top 8 Call Recording Apps for Android](https://andylouis0555.medium.com/top-8-call-recording-apps-for-android-d6d4b54fef98?source=rss------android-5)
-- [Create your own Android Library & Publish it](https://drjansari.medium.com/create-your-own-android-library-publish-it-1b55bb492ce7?source=rss------android-5)
-- [Can the Pixel 6 Keep Google In Todays Phone Market?](https://medium.com/adventures-in-consumer-technology/can-the-pixel-6-keep-google-in-todays-phone-market-6ed53ed15f33?source=rss------android-5)
-- [The Best Social Media Downloader Apps for Android](https://martinjustin0777.medium.com/the-best-social-media-downloader-apps-for-android-2a9c941a1c86?source=rss------android-5)
-- [How to use Native iOS / Android code in React Native](https://marmik-mobile.medium.com/how-to-use-native-ios-android-code-in-react-native-e25633c4250c?source=rss------android-5)
-- [Google Chrome dan Apps Android Sempat Crash, Ini Solusi](https://michaeljohnraharjo.medium.com/google-chrome-dan-apps-android-sempat-crash-ini-solusi-f5a5c33ea70b?source=rss------android-5)
+- [2021 मे 20,000 के अंदर सबसे अच्छा कैमरा फ़ोन | Best Camera Phone Under 20000 in 2021](https://medium.com/@hindiaddaxyz/2021-%E0%A4%AE%E0%A5%87-20-000-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE-%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A4%B0%E0%A4%BE-%E0%A5%9E%E0%A5%8B%E0%A4%A8-best-camera-phone-under-20000-in-2021-56aed5e02726?source=rss------android-5)
+- [Gaocvo msodep ieoen snuve4](https://medium.com/@zwwuormq/gaocvo-msodep-ieoen-snuve4-ce0765b9ca70?source=rss------android-5)
+- [Comunicação entre aplicativos Android usando ServerSocket](https://tfccomputation.medium.com/comunica%C3%A7%C3%A3o-entre-aplicativos-android-usando-serversocket-103e4217f97?source=rss------android-5)
+- [Still waiting for Dynamic Refresh Rate on your galaxy S20 series?](https://lim1998.medium.com/still-waiting-for-dynamic-refresh-rate-on-your-galaxy-s20-series-53d8b95da76e?source=rss------android-5)
+- [Smart Home Solution using Face Recognition](https://anbunathanramaiah.medium.com/smart-home-solution-using-face-recognition-8284644d49a?source=rss------android-5)
+- [What is Gcam (Google Camera)? गूगल कैमरा क्या है?](https://techdjt3.medium.com/what-is-gcam-google-camera-%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2-%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A4%B0%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88-5dade411b7d5?source=rss------android-5)
+- [ArbitriumRAT, an antidote to static analysis and internet security software](https://benchaliah.medium.com/arbitriumrat-an-antidote-to-static-analysis-and-internet-security-software-11c05c8cb441?source=rss------android-5)
+- [iScanner Count Mode Feature](https://bp-mobile.medium.com/iscanner-count-mode-feature-43a022ab973f?source=rss------android-5)
+- [How to stop apps running in Background Android Programmatically](https://shakilahansika.medium.com/how-to-stop-apps-running-in-background-android-programmatically-75a86a7c9185?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
