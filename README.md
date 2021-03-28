@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [accurate user speed using kotlin ❓](https://www.reddit.com/r/androiddev/comments/me16sd/accurate_user_speed_using_kotlin/)
-- [Traffic enforcement cops need an equalizer (like a bot of something) to thwart apps that track police car locations.](https://www.reddit.com/r/androiddev/comments/me12z1/traffic_enforcement_cops_need_an_equalizer_like_a/)
-- [Wombo AI Music](https://www.reddit.com/r/androiddev/comments/me0jth/wombo_ai_music/)
-- [Can I update the items in ArrayAdapter?](https://www.reddit.com/r/androiddev/comments/mdz2kl/can_i_update_the_items_in_arrayadapter/)
-- [Learn Flutter and Dart to create Android and IOS apps - free course from udemy -](https://www.reddit.com/r/androiddev/comments/mdxfh9/learn_flutter_and_dart_to_create_android_and_ios/)
-- [Modern Android Project Template](https://www.reddit.com/r/androiddev/comments/mdxc6g/modern_android_project_template/)
-- [Open Composables via notification with Jetpack Navigation](https://www.reddit.com/r/androiddev/comments/mdwz8w/open_composables_via_notification_with_jetpack/)
-- [App got rejected for privacy policy issues](https://www.reddit.com/r/androiddev/comments/mdwxh2/app_got_rejected_for_privacy_policy_issues/)
-- [LeakCanary 2.7 released](https://www.reddit.com/r/androiddev/comments/mdwkpu/leakcanary_27_released/)
-- [Huawei and emui for android app?](https://www.reddit.com/r/androiddev/comments/mdtqx9/huawei_and_emui_for_android_app/)
+- [Looking for an app dev who also trains jiu jitsu](https://www.reddit.com/r/androiddev/comments/meraln/looking_for_an_app_dev_who_also_trains_jiu_jitsu/)
+- [How does apps like YouTube keep the video playing through screen rotation?](https://www.reddit.com/r/androiddev/comments/meqfqs/how_does_apps_like_youtube_keep_the_video_playing/)
+- [How Does Whatsapp Receive Notifications Even When It's Closed?](https://www.reddit.com/r/androiddev/comments/mep1uk/how_does_whatsapp_receive_notifications_even_when/)
+- [Android apps and Python/GAN projects](https://www.reddit.com/r/androiddev/comments/meksyi/android_apps_and_pythongan_projects/)
+- [How can I estimate the size of images shown in my app?](https://www.reddit.com/r/androiddev/comments/meiqsh/how_can_i_estimate_the_size_of_images_shown_in_my/)
+- [Use Samsung tag (or anything else) to manually record specific event ?](https://www.reddit.com/r/androiddev/comments/meg1jg/use_samsung_tag_or_anything_else_to_manually/)
+- [Need help with choosing Technology before the hackathon](https://www.reddit.com/r/androiddev/comments/mefx8x/need_help_with_choosing_technology_before_the/)
+- [I'm using google Inapp review api for the users to review , but I have observed that the bottomsheet is opening for only few users and for others its not opening , but the api call shows as successful . what must be the issue ?](https://www.reddit.com/r/androiddev/comments/mefums/im_using_google_inapp_review_api_for_the_users_to/)
+- [Understanding Gradle, its types, components and how it works beneath the hood](https://www.reddit.com/r/androiddev/comments/mef19k/understanding_gradle_its_types_components_and_how/)
+- [Cost of inflating a view](https://www.reddit.com/r/androiddev/comments/meeyc4/cost_of_inflating_a_view/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
