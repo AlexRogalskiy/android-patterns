@@ -311,15 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [2021 मे 20,000 के अंदर सबसे अच्छा कैमरा फ़ोन | Best Camera Phone Under 20000 in 2021](https://medium.com/@hindiaddaxyz/2021-%E0%A4%AE%E0%A5%87-20-000-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE-%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A4%B0%E0%A4%BE-%E0%A5%9E%E0%A5%8B%E0%A4%A8-best-camera-phone-under-20000-in-2021-56aed5e02726?source=rss------android-5)
-- [Gaocvo msodep ieoen snuve4](https://medium.com/@zwwuormq/gaocvo-msodep-ieoen-snuve4-ce0765b9ca70?source=rss------android-5)
-- [Comunicação entre aplicativos Android usando ServerSocket](https://tfccomputation.medium.com/comunica%C3%A7%C3%A3o-entre-aplicativos-android-usando-serversocket-103e4217f97?source=rss------android-5)
-- [Still waiting for Dynamic Refresh Rate on your galaxy S20 series?](https://lim1998.medium.com/still-waiting-for-dynamic-refresh-rate-on-your-galaxy-s20-series-53d8b95da76e?source=rss------android-5)
-- [Smart Home Solution using Face Recognition](https://anbunathanramaiah.medium.com/smart-home-solution-using-face-recognition-8284644d49a?source=rss------android-5)
-- [What is Gcam (Google Camera)? गूगल कैमरा क्या है?](https://techdjt3.medium.com/what-is-gcam-google-camera-%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2-%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A4%B0%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88-5dade411b7d5?source=rss------android-5)
-- [ArbitriumRAT, an antidote to static analysis and internet security software](https://benchaliah.medium.com/arbitriumrat-an-antidote-to-static-analysis-and-internet-security-software-11c05c8cb441?source=rss------android-5)
-- [iScanner Count Mode Feature](https://bp-mobile.medium.com/iscanner-count-mode-feature-43a022ab973f?source=rss------android-5)
-- [How to stop apps running in Background Android Programmatically](https://shakilahansika.medium.com/how-to-stop-apps-running-in-background-android-programmatically-75a86a7c9185?source=rss------android-5)
+- [ONEPLUS NORD 5G](https://medium.com/@vibhusirohi019/oneplus-nord-5g-e377a13acdd4?source=rss------android-5)
+- [How to continue backing up your photos to Google Photos for free after the June deadline](https://mcendreet.medium.com/how-to-continue-backing-up-your-photos-to-google-photos-for-free-after-the-june-deadline-69b3d56baa6f?source=rss------android-5)
+- [Android İçin Kütüphane Geliştirken Dikkat Edilmesi Gereken Konular](https://hsmnzaydn.medium.com/android-i%CC%87%C3%A7in-k%C3%BCt%C3%BCphane-geli%C5%9Ftirken-dikkat-edilmesi-gereken-konular-a7ffdf4a3a3a?source=rss------android-5)
+- [SALVE GALERA BLZ!Quem ai curte um bom jogo de rpg?](https://manoelaugusto-67983.medium.com/salve-galera-blz-quem-ai-curte-um-bom-jogo-de-rpg-f0a7d28eb91a?source=rss------android-5)
+- [Android Kotlin “Notification”](https://julien-ex-nihilo.medium.com/android-kotlin-notification-1e55796e765f?source=rss------android-5)
+- [Android Capturing Images from Camera or Gallery as Bitmaps Kotlin](https://hamzaasif-mobileml.medium.com/android-capturing-images-from-camera-or-gallery-as-bitmaps-kotlin-50e9dc3e7bd3?source=rss------android-5)
+- [TextView & <img>](https://foxum.medium.com/textview-img-91aaf865d96d?source=rss------android-5)
+- [Acf a0 9vu j34j 3](https://medium.com/@zvmvninq/acf-a0-9vu-j34j-3-5c4e80127137?source=rss------android-5)
+- [Create Your Own CameraApp Using CameraX](https://janjiralasai420.medium.com/create-your-own-cameraapp-using-camerax-1232ba636cd5?source=rss------android-5)
+- [Hiby FC3 Review](https://medium.com/bedrock-reviews/hiby-fc3-review-42761b6da958?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
