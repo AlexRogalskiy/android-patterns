@@ -311,16 +311,15 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [ONEPLUS NORD 5G](https://medium.com/@vibhusirohi019/oneplus-nord-5g-e377a13acdd4?source=rss------android-5)
-- [How to continue backing up your photos to Google Photos for free after the June deadline](https://mcendreet.medium.com/how-to-continue-backing-up-your-photos-to-google-photos-for-free-after-the-june-deadline-69b3d56baa6f?source=rss------android-5)
-- [Android İçin Kütüphane Geliştirken Dikkat Edilmesi Gereken Konular](https://hsmnzaydn.medium.com/android-i%CC%87%C3%A7in-k%C3%BCt%C3%BCphane-geli%C5%9Ftirken-dikkat-edilmesi-gereken-konular-a7ffdf4a3a3a?source=rss------android-5)
-- [SALVE GALERA BLZ!Quem ai curte um bom jogo de rpg?](https://manoelaugusto-67983.medium.com/salve-galera-blz-quem-ai-curte-um-bom-jogo-de-rpg-f0a7d28eb91a?source=rss------android-5)
-- [Android Kotlin “Notification”](https://julien-ex-nihilo.medium.com/android-kotlin-notification-1e55796e765f?source=rss------android-5)
-- [Android Capturing Images from Camera or Gallery as Bitmaps Kotlin](https://hamzaasif-mobileml.medium.com/android-capturing-images-from-camera-or-gallery-as-bitmaps-kotlin-50e9dc3e7bd3?source=rss------android-5)
-- [TextView & <img>](https://foxum.medium.com/textview-img-91aaf865d96d?source=rss------android-5)
-- [Acf a0 9vu j34j 3](https://medium.com/@zvmvninq/acf-a0-9vu-j34j-3-5c4e80127137?source=rss------android-5)
-- [Create Your Own CameraApp Using CameraX](https://janjiralasai420.medium.com/create-your-own-cameraapp-using-camerax-1232ba636cd5?source=rss------android-5)
-- [Hiby FC3 Review](https://medium.com/bedrock-reviews/hiby-fc3-review-42761b6da958?source=rss------android-5)
+- [What’s next for MobileFFmpeg?](https://tanersener.medium.com/whats-next-for-mobileffmpeg-44d2fac6f09b?source=rss------android-5)
+- [Secrets Gradle Pluginを使ってAndroidアプリのAPIキーをリポジトリから隠す方法](https://yaxarat.medium.com/secrets-gradle-plugin%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6android%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AEapi%E3%82%AD%E3%83%BC%E3%82%92%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%8B%E3%82%89%E9%9A%A0%E3%81%99%E6%96%B9%E6%B3%95-564fcbdbc830?source=rss------android-5)
+- [Jetpack Compose CompositionLocal -what you need to know](https://medium.com/swlh/jetpack-compose-compositionlocal-what-you-need-to-know-979a4aef6412?source=rss------android-5)
+- [Flutter 2.0 deploy to iOS Device without a Developer Account with MacOS](https://ottokafka.medium.com/flutter-2-0-deploy-to-ios-device-without-a-developer-account-with-macos-fa847eb7e3ab?source=rss------android-5)
+- [Best PKV Perang Dadu Online Indonesia](https://kasqqpkv.medium.com/best-pkv-perang-dadu-online-indonesia-cffe32eaaab9?source=rss------android-5)
+- [The hidden fingerprint inside your photos](https://ideahuman89.medium.com/the-hidden-fingerprint-inside-your-photos-8e53f491bc1?source=rss------android-5)
+- [Jetpack compose layout](https://shirsh94.medium.com/jetpack-compose-layout-581a87b3a4be?source=rss------android-5)
+- [How to install React Native Intercom for 0.63+](https://begumakbay.medium.com/how-to-install-react-native-intercom-for-0-63-6475853c5932?source=rss------android-5)
+- [3 sencillos pasos para reproducir YouTube en segundo plano](https://jmsansan.medium.com/3-sencillos-pasos-para-reproducir-youtube-en-segundo-plano-10a43e5f974f?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
