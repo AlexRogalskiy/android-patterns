@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for an app dev who also trains jiu jitsu](https://www.reddit.com/r/androiddev/comments/meraln/looking_for_an_app_dev_who_also_trains_jiu_jitsu/)
-- [How does apps like YouTube keep the video playing through screen rotation?](https://www.reddit.com/r/androiddev/comments/meqfqs/how_does_apps_like_youtube_keep_the_video_playing/)
-- [How Does Whatsapp Receive Notifications Even When It's Closed?](https://www.reddit.com/r/androiddev/comments/mep1uk/how_does_whatsapp_receive_notifications_even_when/)
-- [Android apps and Python/GAN projects](https://www.reddit.com/r/androiddev/comments/meksyi/android_apps_and_pythongan_projects/)
-- [How can I estimate the size of images shown in my app?](https://www.reddit.com/r/androiddev/comments/meiqsh/how_can_i_estimate_the_size_of_images_shown_in_my/)
-- [Use Samsung tag (or anything else) to manually record specific event ?](https://www.reddit.com/r/androiddev/comments/meg1jg/use_samsung_tag_or_anything_else_to_manually/)
-- [Need help with choosing Technology before the hackathon](https://www.reddit.com/r/androiddev/comments/mefx8x/need_help_with_choosing_technology_before_the/)
-- [I'm using google Inapp review api for the users to review , but I have observed that the bottomsheet is opening for only few users and for others its not opening , but the api call shows as successful . what must be the issue ?](https://www.reddit.com/r/androiddev/comments/mefums/im_using_google_inapp_review_api_for_the_users_to/)
-- [Understanding Gradle, its types, components and how it works beneath the hood](https://www.reddit.com/r/androiddev/comments/mef19k/understanding_gradle_its_types_components_and_how/)
-- [Cost of inflating a view](https://www.reddit.com/r/androiddev/comments/meeyc4/cost_of_inflating_a_view/)
+- [Is it too complicated at the beginning?](https://www.reddit.com/r/androiddev/comments/mfcf4e/is_it_too_complicated_at_the_beginning/)
+- [How can i hide foreground service notification?](https://www.reddit.com/r/androiddev/comments/mf9n4y/how_can_i_hide_foreground_service_notification/)
+- [How come there are so many live chat applications on Play Store that violate Play Store policies ?](https://www.reddit.com/r/androiddev/comments/mf9fj4/how_come_there_are_so_many_live_chat_applications/)
+- [What are the best ways to disable specific UI features depending on who is seeing them?](https://www.reddit.com/r/androiddev/comments/mf842o/what_are_the_best_ways_to_disable_specific_ui/)
+- [Java vs Flutter/Dart ?](https://www.reddit.com/r/androiddev/comments/mf7tmh/java_vs_flutterdart/)
+- [Problem with fireStore to convert an array of mappable to Obejcts](https://www.reddit.com/r/androiddev/comments/mf7330/problem_with_firestore_to_convert_an_array_of/)
+- [i just released my very first game and i just heard about proguard. Is proguard important? Does everyone use it? Should i also use it? looking for recommendation](https://www.reddit.com/r/androiddev/comments/mf2n3t/i_just_released_my_very_first_game_and_i_just/)
+- [Is there any company that allow to integrate ima ?(Ads inside exoplayer)](https://www.reddit.com/r/androiddev/comments/mf28ce/is_there_any_company_that_allow_to_integrate_ima/)
+- [Emails offering paid reviews](https://www.reddit.com/r/androiddev/comments/mf1kqb/emails_offering_paid_reviews/)
+- [Adopting test driven development, CI/CD to native android development](https://www.reddit.com/r/androiddev/comments/mf13mx/adopting_test_driven_development_cicd_to_native/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
