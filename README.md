@@ -341,6 +341,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [Surveillance advertising is a myth](https://mobiledevmemo.com/surveillance-advertising-is-a-myth/)
 - [iOS14, Fortnite, and the importance of controlling distribution](https://mobiledevmemo.com/ios14-fortnite-and-the-importance-of-controlling-distribution/)
 - [Apple, CAID, and China: rock, meet hard place](https://mobiledevmemo.com/apple-caid-and-china-rock-meet-hard-place/)
 - [Is VR the bear case for Facebook?](https://mobiledevmemo.com/is-vr-ar-the-bear-case-for-facebook/)
@@ -350,7 +351,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [The CPM math doesn’t work](https://mobiledevmemo.com/the-cpm-math-doesnt-work/)
 - [Why doesn’t Google have to show the ATT prompt?](https://mobiledevmemo.com/why-doesnt-google-have-to-show-the-att-prompt/)
 - [The profound, unintended consequence of ATT: content fortresses](https://mobiledevmemo.com/the-profound-unintended-consequence-of-att-content-fortresses/)
-- [What’s the standard for ATT 6-bit conversion values?](https://mobiledevmemo.com/whats-the-standard-for-att-6-bit-conversion-values/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
