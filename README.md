@@ -311,15 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [What’s next for MobileFFmpeg?](https://tanersener.medium.com/whats-next-for-mobileffmpeg-44d2fac6f09b?source=rss------android-5)
-- [Secrets Gradle Pluginを使ってAndroidアプリのAPIキーをリポジトリから隠す方法](https://yaxarat.medium.com/secrets-gradle-plugin%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6android%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AEapi%E3%82%AD%E3%83%BC%E3%82%92%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%8B%E3%82%89%E9%9A%A0%E3%81%99%E6%96%B9%E6%B3%95-564fcbdbc830?source=rss------android-5)
-- [Jetpack Compose CompositionLocal -what you need to know](https://medium.com/swlh/jetpack-compose-compositionlocal-what-you-need-to-know-979a4aef6412?source=rss------android-5)
-- [Flutter 2.0 deploy to iOS Device without a Developer Account with MacOS](https://ottokafka.medium.com/flutter-2-0-deploy-to-ios-device-without-a-developer-account-with-macos-fa847eb7e3ab?source=rss------android-5)
-- [Best PKV Perang Dadu Online Indonesia](https://kasqqpkv.medium.com/best-pkv-perang-dadu-online-indonesia-cffe32eaaab9?source=rss------android-5)
-- [The hidden fingerprint inside your photos](https://ideahuman89.medium.com/the-hidden-fingerprint-inside-your-photos-8e53f491bc1?source=rss------android-5)
-- [Jetpack compose layout](https://shirsh94.medium.com/jetpack-compose-layout-581a87b3a4be?source=rss------android-5)
-- [How to install React Native Intercom for 0.63+](https://begumakbay.medium.com/how-to-install-react-native-intercom-for-0-63-6475853c5932?source=rss------android-5)
-- [3 sencillos pasos para reproducir YouTube en segundo plano](https://jmsansan.medium.com/3-sencillos-pasos-para-reproducir-youtube-en-segundo-plano-10a43e5f974f?source=rss------android-5)
+- [Explotan vulnerabilidades Zero-Day en Android y Chrome.](https://ehcgroup.medium.com/explotan-vulnerabilidades-zero-day-en-android-y-chrome-b1c2cd78bdc8?source=rss------android-5)
+- [How Google Play “Treat We Indians As Beggars” No Trials Only Death Punishments.](https://snjkmrkr33.medium.com/how-google-play-treat-we-indians-as-beggars-no-trials-only-death-punishments-e4d201f968e6?source=rss------android-5)
+- [Clubhouse: Instant Success of Overhype?](https://privacytutor.medium.com/clubhouse-instant-success-of-overhype-4f09a59427ac?source=rss------android-5)
+- [Aa iucnrkweo vjiejgfn e oviejr](https://medium.com/@juemyyoq/aa-iucnrkweo-vjiejgfn-e-oviejr-a02410a3f0d9?source=rss------android-5)
+- [View Binding Delegate , Membuat ngoding lebih mudah :)](https://zaimilzam.medium.com/view-binding-delegate-membuat-ngoding-lebih-mudah-e9cb189bee7?source=rss------android-5)
+- [Приложения для Android запрашивают слишком много опасных разрешений. Вот откуда мы это знаем](https://ib-tree.medium.com/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-android-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D1%88%D0%B8%D0%B2%D0%B0%D1%8E%D1%82-%D1%81%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%BC-%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D1%85-%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2%D0%BE%D1%82-%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0-%D0%BC%D1%8B-%D1%8D%D1%82%D0%BE-%D0%B7%D0%BD%D0%B0%D0%B5%D0%BC-ca0abd13a690?source=rss------android-5)
+- [Про гайды (guidlines). С чего начать изучать мобильные приложения.](https://freelanceblog.medium.com/%D0%BF%D1%80%D0%BE-%D0%B3%D0%B0%D0%B9%D0%B4%D1%8B-guidlines-%D1%81-%D1%87%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%82%D1%8C-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-9a964f2b20e6?source=rss------android-5)
+- [How To Record Screen On Android](https://howfinity.medium.com/it-is-easy-to-record-the-screen-on-android-irrespective-of-the-type-of-phone-you-have-85729eb2b073?source=rss------android-5)
+- [Script Hub Menu Injector APK Free Download For Android | Mobile APK](https://nafaswali14.medium.com/script-hub-menu-injector-apk-free-download-for-android-mobile-apk-d9434a49d5c6?source=rss------android-5)
+- [Mobile Banking: Security Practices](https://altyinc.medium.com/mobile-banking-security-practices-305e42f9e76?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
