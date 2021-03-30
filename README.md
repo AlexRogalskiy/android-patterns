@@ -326,6 +326,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [T-Mobile Will Make Google Messages Its Default Messaging App for Android](https://gizmodo.com/t-mobile-will-make-google-messages-its-default-messagin-1846578155)
+- [Dangerous Android App Pretends to Be a System Update to Steal Your Data](https://gizmodo.com/dangerous-android-app-pretends-to-be-a-system-update-to-1846574044)
 - [17 Google Assistant Tricks You Might Not Know About](https://gizmodo.com/17-google-assistant-tricks-you-might-not-know-about-1846523906)
 - [Barnes & Noble's Nook Sidesteps the Grave Once Again With a New Lenovo-Built Tablet](https://gizmodo.com/barnes-nobles-nook-sidesteps-the-grave-once-again-wit-1846511475)
 - [How to Sideload Any App on Your Chromecast With Google TV](https://gizmodo.com/how-to-sideload-any-app-on-your-chromecast-with-google-1846490542)
@@ -334,8 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [The Best Customizable Controller Can Now Be Programmed on Your Phone](https://gizmodo.com/the-best-customizable-controller-can-now-be-programmed-1846416067)
 - [How to Use Your Android Phone Seamlessly With Your Chromebook](https://gizmodo.com/how-to-use-your-android-phone-seamlessly-with-your-chro-1846474450)
 - [Someone Totally Ruined the Memory of PalmOS By Putting Twitter on It](https://gizmodo.com/someone-totally-ruined-the-memory-of-palmos-by-putting-1846457707)
-- [Epic Is Taking Google to Court (Again)](https://gizmodo.com/epic-is-taking-google-to-court-again-1846446966)
-- [Google Is Bringing an Apple-Like Handoff Feature to Android Phones and Chromebooks](https://gizmodo.com/google-is-bringing-an-apple-like-handoff-feature-to-and-1846441190)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
