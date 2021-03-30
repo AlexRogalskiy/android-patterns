@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it too complicated at the beginning?](https://www.reddit.com/r/androiddev/comments/mfcf4e/is_it_too_complicated_at_the_beginning/)
-- [How can i hide foreground service notification?](https://www.reddit.com/r/androiddev/comments/mf9n4y/how_can_i_hide_foreground_service_notification/)
-- [How come there are so many live chat applications on Play Store that violate Play Store policies ?](https://www.reddit.com/r/androiddev/comments/mf9fj4/how_come_there_are_so_many_live_chat_applications/)
-- [What are the best ways to disable specific UI features depending on who is seeing them?](https://www.reddit.com/r/androiddev/comments/mf842o/what_are_the_best_ways_to_disable_specific_ui/)
-- [Java vs Flutter/Dart ?](https://www.reddit.com/r/androiddev/comments/mf7tmh/java_vs_flutterdart/)
-- [Problem with fireStore to convert an array of mappable to Obejcts](https://www.reddit.com/r/androiddev/comments/mf7330/problem_with_firestore_to_convert_an_array_of/)
-- [i just released my very first game and i just heard about proguard. Is proguard important? Does everyone use it? Should i also use it? looking for recommendation](https://www.reddit.com/r/androiddev/comments/mf2n3t/i_just_released_my_very_first_game_and_i_just/)
-- [Is there any company that allow to integrate ima ?(Ads inside exoplayer)](https://www.reddit.com/r/androiddev/comments/mf28ce/is_there_any_company_that_allow_to_integrate_ima/)
-- [Emails offering paid reviews](https://www.reddit.com/r/androiddev/comments/mf1kqb/emails_offering_paid_reviews/)
-- [Adopting test driven development, CI/CD to native android development](https://www.reddit.com/r/androiddev/comments/mf13mx/adopting_test_driven_development_cicd_to_native/)
+- [android Room M:N relationship with attribute on relationship, can it be done?](https://www.reddit.com/r/androiddev/comments/mg3a0y/android_room_mn_relationship_with_attribute_on/)
+- [hilt module with sip manager not being created](https://www.reddit.com/r/androiddev/comments/mg2fr3/hilt_module_with_sip_manager_not_being_created/)
+- [Is It Possible To Run Android Studio on Lubuntu with 2GB Ram and Dual Core Processor Without Using The AVD?](https://www.reddit.com/r/androiddev/comments/mg0in3/is_it_possible_to_run_android_studio_on_lubuntu/)
+- [Apply even if you don't meet the "qualifications"? Do those things even matter?](https://www.reddit.com/r/androiddev/comments/mfz2r7/apply_even_if_you_dont_meet_the_qualifications_do/)
+- [Choosing the best Network for a banner ads](https://www.reddit.com/r/androiddev/comments/mfvldn/choosing_the_best_network_for_a_banner_ads/)
+- [Lone Devs: How much money are you making?](https://www.reddit.com/r/androiddev/comments/mfurj7/lone_devs_how_much_money_are_you_making/)
+- [Different app sizes and starting time](https://www.reddit.com/r/androiddev/comments/mfume2/different_app_sizes_and_starting_time/)
+- [How do you skew both the text and shape of a textview in Kotlin?](https://www.reddit.com/r/androiddev/comments/mftutf/how_do_you_skew_both_the_text_and_shape_of_a/)
+- [The Best alternative to AdMob [Not a programming post]](https://www.reddit.com/r/androiddev/comments/mfssvf/the_best_alternative_to_admob_not_a_programming/)
+- [How Hard to Update Android Apps for New Versions of Android](https://www.reddit.com/r/androiddev/comments/mfs4sr/how_hard_to_update_android_apps_for_new_versions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
