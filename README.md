@@ -327,6 +327,7 @@ A Better Routeplanner (ABRP) in Polestar 2](https://medium.com/snapp-automotive/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Maps Is Adding Indoor Live View and 100+ Other Features](https://gizmodo.com/google-maps-is-adding-indoor-live-view-and-100-other-f-1846577782)
 - [T-Mobile Will Make Google Messages Its Default Messaging App for Android](https://gizmodo.com/t-mobile-will-make-google-messages-its-default-messagin-1846578155)
 - [Dangerous Android App Pretends to Be a System Update to Steal Your Data](https://gizmodo.com/dangerous-android-app-pretends-to-be-a-system-update-to-1846574044)
 - [17 Google Assistant Tricks You Might Not Know About](https://gizmodo.com/17-google-assistant-tricks-you-might-not-know-about-1846523906)
@@ -336,7 +337,6 @@ A Better Routeplanner (ABRP) in Polestar 2](https://medium.com/snapp-automotive/
 - [Maybe There's Hope for Wear OS Yet](https://gizmodo.com/maybe-theres-hope-for-wear-os-yet-1846476548)
 - [The Best Customizable Controller Can Now Be Programmed on Your Phone](https://gizmodo.com/the-best-customizable-controller-can-now-be-programmed-1846416067)
 - [How to Use Your Android Phone Seamlessly With Your Chromebook](https://gizmodo.com/how-to-use-your-android-phone-seamlessly-with-your-chro-1846474450)
-- [Someone Totally Ruined the Memory of PalmOS By Putting Twitter on It](https://gizmodo.com/someone-totally-ruined-the-memory-of-palmos-by-putting-1846457707)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
