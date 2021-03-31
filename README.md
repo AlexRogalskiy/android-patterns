@@ -311,16 +311,17 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Explotan vulnerabilidades Zero-Day en Android y Chrome.](https://ehcgroup.medium.com/explotan-vulnerabilidades-zero-day-en-android-y-chrome-b1c2cd78bdc8?source=rss------android-5)
-- [How Google Play “Treat We Indians As Beggars” No Trials Only Death Punishments.](https://snjkmrkr33.medium.com/how-google-play-treat-we-indians-as-beggars-no-trials-only-death-punishments-e4d201f968e6?source=rss------android-5)
-- [Clubhouse: Instant Success of Overhype?](https://privacytutor.medium.com/clubhouse-instant-success-of-overhype-4f09a59427ac?source=rss------android-5)
-- [Aa iucnrkweo vjiejgfn e oviejr](https://medium.com/@juemyyoq/aa-iucnrkweo-vjiejgfn-e-oviejr-a02410a3f0d9?source=rss------android-5)
-- [View Binding Delegate , Membuat ngoding lebih mudah :)](https://zaimilzam.medium.com/view-binding-delegate-membuat-ngoding-lebih-mudah-e9cb189bee7?source=rss------android-5)
-- [Приложения для Android запрашивают слишком много опасных разрешений. Вот откуда мы это знаем](https://ib-tree.medium.com/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-android-%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D1%88%D0%B8%D0%B2%D0%B0%D1%8E%D1%82-%D1%81%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%BC-%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D1%85-%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2%D0%BE%D1%82-%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0-%D0%BC%D1%8B-%D1%8D%D1%82%D0%BE-%D0%B7%D0%BD%D0%B0%D0%B5%D0%BC-ca0abd13a690?source=rss------android-5)
-- [Про гайды (guidlines). С чего начать изучать мобильные приложения.](https://freelanceblog.medium.com/%D0%BF%D1%80%D0%BE-%D0%B3%D0%B0%D0%B9%D0%B4%D1%8B-guidlines-%D1%81-%D1%87%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%82%D1%8C-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-9a964f2b20e6?source=rss------android-5)
-- [How To Record Screen On Android](https://howfinity.medium.com/it-is-easy-to-record-the-screen-on-android-irrespective-of-the-type-of-phone-you-have-85729eb2b073?source=rss------android-5)
-- [Script Hub Menu Injector APK Free Download For Android | Mobile APK](https://nafaswali14.medium.com/script-hub-menu-injector-apk-free-download-for-android-mobile-apk-d9434a49d5c6?source=rss------android-5)
-- [Mobile Banking: Security Practices](https://altyinc.medium.com/mobile-banking-security-practices-305e42f9e76?source=rss------android-5)
+- [What I think about moving to Jetpack Compose?](https://nepalbrothers.medium.com/what-i-think-about-moving-to-jetpack-compose-8e8a7720d5e9?source=rss------android-5)
+- [Uso de câmera no React-Native](https://gusbdev.medium.com/uso-de-c%C3%A2mera-no-react-native-3917ef1de182?source=rss------android-5)
+- [React Native MacOS Kurulum Rehberi](https://dogramaciziya.medium.com/react-native-macos-kurulum-rehberi-a08df5e68c17?source=rss------android-5)
+- [Dangerous permissions and how to find them](https://fanky10.medium.com/dangerous-permissions-and-how-to-find-them-ebb95a5d0e6c?source=rss------android-5)
+- [Navigation Components: A fix for “Navigation action cannot be found in the current destination”…](https://nezspencer.medium.com/navigation-components-a-fix-for-navigation-action-cannot-be-found-in-the-current-destination-95b63e16152e?source=rss------android-5)
+- [ppHow do I enable self-destructing messages on WhatsApp? | What is self-destructing message?](https://sk6446777.medium.com/pphow-do-i-enable-self-destructing-messages-on-whatsapp-what-is-self-destructing-message-e43fd197d75a?source=rss------android-5)
+- [A9e templ stories 31 03 2021](https://medium.com/@dhnikupq/a9e-templ-stories-31-03-2021-64ff04dc8336?source=rss------android-5)
+- [https://timtimsoft.com/melodimusic.html](https://medium.com/@mirzaghag/https-timtimsoft-com-melodimusic-html-1f4066bf99f6?source=rss------android-5)
+- [TIMTIM SOFT](https://medium.com/@mirzaghag/timtim-soft-980fc3603b2c?source=rss------android-5)
+- [A Quick Look — 
+A Better Routeplanner (ABRP) in Polestar 2](https://medium.com/snapp-automotive/a-quick-look-a-better-routeplanner-abrp-in-polestar-2-459dbfecd41e?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
