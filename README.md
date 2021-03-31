@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [android Room M:N relationship with attribute on relationship, can it be done?](https://www.reddit.com/r/androiddev/comments/mg3a0y/android_room_mn_relationship_with_attribute_on/)
-- [hilt module with sip manager not being created](https://www.reddit.com/r/androiddev/comments/mg2fr3/hilt_module_with_sip_manager_not_being_created/)
-- [Is It Possible To Run Android Studio on Lubuntu with 2GB Ram and Dual Core Processor Without Using The AVD?](https://www.reddit.com/r/androiddev/comments/mg0in3/is_it_possible_to_run_android_studio_on_lubuntu/)
-- [Apply even if you don't meet the "qualifications"? Do those things even matter?](https://www.reddit.com/r/androiddev/comments/mfz2r7/apply_even_if_you_dont_meet_the_qualifications_do/)
-- [Choosing the best Network for a banner ads](https://www.reddit.com/r/androiddev/comments/mfvldn/choosing_the_best_network_for_a_banner_ads/)
-- [Lone Devs: How much money are you making?](https://www.reddit.com/r/androiddev/comments/mfurj7/lone_devs_how_much_money_are_you_making/)
-- [Different app sizes and starting time](https://www.reddit.com/r/androiddev/comments/mfume2/different_app_sizes_and_starting_time/)
-- [How do you skew both the text and shape of a textview in Kotlin?](https://www.reddit.com/r/androiddev/comments/mftutf/how_do_you_skew_both_the_text_and_shape_of_a/)
-- [The Best alternative to AdMob [Not a programming post]](https://www.reddit.com/r/androiddev/comments/mfssvf/the_best_alternative_to_admob_not_a_programming/)
-- [How Hard to Update Android Apps for New Versions of Android](https://www.reddit.com/r/androiddev/comments/mfs4sr/how_hard_to_update_android_apps_for_new_versions/)
+- [HackerRank Android hiring test](https://www.reddit.com/r/androiddev/comments/mgrp74/hackerrank_android_hiring_test/)
+- [New Android malware disguises itself as a system update](https://www.reddit.com/r/androiddev/comments/mgouca/new_android_malware_disguises_itself_as_a_system/)
+- [Open source, unique & mega customisable seek bar!](https://www.reddit.com/r/androiddev/comments/mgnk0i/open_source_unique_mega_customisable_seek_bar/)
+- [SIM Card Based Mobile Authentication with Android - tru.ID](https://www.reddit.com/r/androiddev/comments/mgn1v0/sim_card_based_mobile_authentication_with_android/)
+- [Sales to Android dev?](https://www.reddit.com/r/androiddev/comments/mgloh2/sales_to_android_dev/)
+- [Amazon did not approve my app made in thinkable..](https://www.reddit.com/r/androiddev/comments/mgk7h5/amazon_did_not_approve_my_app_made_in_thinkable/)
+- [how anonymous are android apps and how does a developer make sure their apps cannot be used to reveal their true identity and location ?](https://www.reddit.com/r/androiddev/comments/mgjnms/how_anonymous_are_android_apps_and_how_does_a/)
+- [Notification action after User authentication](https://www.reddit.com/r/androiddev/comments/mgj5eu/notification_action_after_user_authentication/)
+- [Run ARM apps on the x86 Android 11 Emulator](https://www.reddit.com/r/androiddev/comments/mgi409/run_arm_apps_on_the_x86_android_11_emulator/)
+- [2 months after it release, some users still don't use the latest version of my app](https://www.reddit.com/r/androiddev/comments/mggfxy/2_months_after_it_release_some_users_still_dont/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
