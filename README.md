@@ -281,16 +281,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+- [Python beginner’s guide – Everything you need to know to get started](https://www.androidauthority.com/learn-python-beginner-1142688/)
+- [Kotlin tutorial for Android for beginners: Build a simple quiz](https://www.androidauthority.com/kotlin-tutorial-1134289/)
+- [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
 - [How to make money on Fiverr as a creative professional](https://www.androidauthority.com/how-to-make-money-on-fiverr-1026987/)
 - [What is AWS certification?](https://www.androidauthority.com/what-is-aws-certification-1157928/)
 - [The best AWS courses for professionals](https://www.androidauthority.com/aws-courses-1159464/)
 - [How to use lists in Python](https://www.androidauthority.com/how-to-add-to-a-list-in-python-1134815/)
 - [What is Google Cloud? Here’s what you need to know](https://www.androidauthority.com/what-is-google-cloud-1163777/)
 - [The beginner’s guide to Android game development: Everything you need to know](https://www.androidauthority.com/android-game-development-1128058/)
-- [The best resources to learn Java – free and paid](https://www.androidauthority.com/best-resources-to-learn-java-1147362/)
-- [Making an app with no programming experience: What are your options?](https://www.androidauthority.com/how-to-make-android-apps-629325/)
-- [How to open CSV files in Python – store and retrieve large data sets](https://www.androidauthority.com/how-to-open-csv-file-python-1140486/)
-- [How to round in Python](https://www.androidauthority.com/how-to-round-in-python-1134475/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
