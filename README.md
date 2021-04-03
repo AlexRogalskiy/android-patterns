@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [HackerRank Android hiring test](https://www.reddit.com/r/androiddev/comments/mgrp74/hackerrank_android_hiring_test/)
-- [New Android malware disguises itself as a system update](https://www.reddit.com/r/androiddev/comments/mgouca/new_android_malware_disguises_itself_as_a_system/)
-- [Open source, unique & mega customisable seek bar!](https://www.reddit.com/r/androiddev/comments/mgnk0i/open_source_unique_mega_customisable_seek_bar/)
-- [SIM Card Based Mobile Authentication with Android - tru.ID](https://www.reddit.com/r/androiddev/comments/mgn1v0/sim_card_based_mobile_authentication_with_android/)
-- [Sales to Android dev?](https://www.reddit.com/r/androiddev/comments/mgloh2/sales_to_android_dev/)
-- [Amazon did not approve my app made in thinkable..](https://www.reddit.com/r/androiddev/comments/mgk7h5/amazon_did_not_approve_my_app_made_in_thinkable/)
-- [how anonymous are android apps and how does a developer make sure their apps cannot be used to reveal their true identity and location ?](https://www.reddit.com/r/androiddev/comments/mgjnms/how_anonymous_are_android_apps_and_how_does_a/)
-- [Notification action after User authentication](https://www.reddit.com/r/androiddev/comments/mgj5eu/notification_action_after_user_authentication/)
-- [Run ARM apps on the x86 Android 11 Emulator](https://www.reddit.com/r/androiddev/comments/mgi409/run_arm_apps_on_the_x86_android_11_emulator/)
-- [2 months after it release, some users still don't use the latest version of my app](https://www.reddit.com/r/androiddev/comments/mggfxy/2_months_after_it_release_some_users_still_dont/)
+- [Using AndroidStudio on Linux](https://www.reddit.com/r/androiddev/comments/mivhg8/using_androidstudio_on_linux/)
+- [Dagger2 is hard, but it can be easy, part 6 (correct place of injection, qualifiers and named)](https://www.reddit.com/r/androiddev/comments/mit23j/dagger2_is_hard_but_it_can_be_easy_part_6_correct/)
+- [WebView local files Android studio](https://www.reddit.com/r/androiddev/comments/mishn0/webview_local_files_android_studio/)
+- [How to automate deployment to galaxy store?](https://www.reddit.com/r/androiddev/comments/mirssa/how_to_automate_deployment_to_galaxy_store/)
+- [First app development, struggling with databases](https://www.reddit.com/r/androiddev/comments/miqa5m/first_app_development_struggling_with_databases/)
+- [new dev advice](https://www.reddit.com/r/androiddev/comments/mip8n6/new_dev_advice/)
+- [Quick illustrations of the insetEdge property of CoordinatorLayout](https://www.reddit.com/r/androiddev/comments/mioez1/quick_illustrations_of_the_insetedge_property_of/)
+- [Choosing countries/regions question](https://www.reddit.com/r/androiddev/comments/min7dg/choosing_countriesregions_question/)
+- [React Native vs Flutter?](https://www.reddit.com/r/androiddev/comments/mim89l/react_native_vs_flutter/)
+- [Correct usage of Room with ExecutorService in Android Java?](https://www.reddit.com/r/androiddev/comments/miknyw/correct_usage_of_room_with_executorservice_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
