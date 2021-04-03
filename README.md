@@ -356,11 +356,11 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Infinum posts_
 
 <!-- INFINUM-POST-LIST:START -->
+- [Do you know your dependencies?](https://androidsweets.ongoodbits.com/do-you-know-your-dependencies)
 - [Do you think you know all about PendingIntent?](https://androidsweets.ongoodbits.com/do-you-think-you-know-all-about-pendingintent)
 - [Share code between Android and Jvm](https://androidsweets.ongoodbits.com/share-code-between-android-and-jvm)
 - [Create a blur effect with Android 12](https://androidsweets.ongoodbits.com/create-a-blur-effect-with-android-12)
 - [There is a Better Way to Mock Retrofit API Calls](https://androidsweets.ongoodbits.com/there-is-a-better-way-to-mock-retrofit-api-calls)
-- [Announcing Jetpack Compose Beta!](https://androidsweets.ongoodbits.com/announcing-jetpack-compose-beta)
 <!-- INFINUM-POST-LIST:END -->
 
 ---
