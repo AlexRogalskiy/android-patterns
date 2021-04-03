@@ -311,17 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [What I think about moving to Jetpack Compose?](https://nepalbrothers.medium.com/what-i-think-about-moving-to-jetpack-compose-8e8a7720d5e9?source=rss------android-5)
-- [Uso de câmera no React-Native](https://gusbdev.medium.com/uso-de-c%C3%A2mera-no-react-native-3917ef1de182?source=rss------android-5)
-- [React Native MacOS Kurulum Rehberi](https://dogramaciziya.medium.com/react-native-macos-kurulum-rehberi-a08df5e68c17?source=rss------android-5)
-- [Dangerous permissions and how to find them](https://fanky10.medium.com/dangerous-permissions-and-how-to-find-them-ebb95a5d0e6c?source=rss------android-5)
-- [Navigation Components: A fix for “Navigation action cannot be found in the current destination”…](https://nezspencer.medium.com/navigation-components-a-fix-for-navigation-action-cannot-be-found-in-the-current-destination-95b63e16152e?source=rss------android-5)
-- [ppHow do I enable self-destructing messages on WhatsApp? | What is self-destructing message?](https://sk6446777.medium.com/pphow-do-i-enable-self-destructing-messages-on-whatsapp-what-is-self-destructing-message-e43fd197d75a?source=rss------android-5)
-- [A9e templ stories 31 03 2021](https://medium.com/@dhnikupq/a9e-templ-stories-31-03-2021-64ff04dc8336?source=rss------android-5)
-- [https://timtimsoft.com/melodimusic.html](https://medium.com/@mirzaghag/https-timtimsoft-com-melodimusic-html-1f4066bf99f6?source=rss------android-5)
-- [TIMTIM SOFT](https://medium.com/@mirzaghag/timtim-soft-980fc3603b2c?source=rss------android-5)
-- [A Quick Look — 
-A Better Routeplanner (ABRP) in Polestar 2](https://medium.com/snapp-automotive/a-quick-look-a-better-routeplanner-abrp-in-polestar-2-459dbfecd41e?source=rss------android-5)
+- [Converting LiveData to Flow: Lessons learned](https://chao2zhang.medium.com/converting-livedata-to-flow-lessons-learned-9362a00611c8?source=rss------android-5)
+- [Hyperlinks in Flutter](https://medium.com/nerd-for-tech/hyperlinks-in-flutter-8adb88f96fe8?source=rss------android-5)
+- [KMM QuickStart Guide](https://proandroiddev.com/kmm-quickstart-guide-7598527a2ab9?source=rss------android-5)
+- [List: Free Phone Number & SMS Sites for Verification](https://techmende.medium.com/list-free-phone-number-sms-sites-for-verification-a5490df8bf8?source=rss------android-5)
+- [Business Logic and Input Validation Fl at a Fintech app](https://stevebiotech.medium.com/business-logic-and-input-validation-fl-at-a-fintech-app-df3128df0ba7?source=rss------android-5)
+- [Limedev Cards — service for creating electronic business cards](https://medium.com/@timmeleshko/limedev-cards-service-for-creating-electronic-business-cards-890ffc0268b2?source=rss------android-5)
+- [ANDROID APPLICATION EXPLOITATION OF A DIGITAL BANK](https://stevebiotech.medium.com/android-application-exploitation-of-a-digital-bank-5809360838ac?source=rss------android-5)
+- [Beating the fitsSystemWindows nightmare](https://skinnyy.medium.com/beating-the-fitssystemwindows-nightmare-607eea46d3b?source=rss------android-5)
+- [Custom Image Classification on Android using TensorFlow Lite](https://tiwarinitin1999.medium.com/custom-image-classification-on-android-using-tensorflow-lite-9f9b3917a26f?source=rss------android-5)
+- [How to Use Apple Maps on Windows and Android Devices](https://stephennicoisa.medium.com/how-to-use-apple-maps-on-windows-and-android-devices-6557064b142?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
