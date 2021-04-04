@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using AndroidStudio on Linux](https://www.reddit.com/r/androiddev/comments/mivhg8/using_androidstudio_on_linux/)
-- [Dagger2 is hard, but it can be easy, part 6 (correct place of injection, qualifiers and named)](https://www.reddit.com/r/androiddev/comments/mit23j/dagger2_is_hard_but_it_can_be_easy_part_6_correct/)
-- [WebView local files Android studio](https://www.reddit.com/r/androiddev/comments/mishn0/webview_local_files_android_studio/)
-- [How to automate deployment to galaxy store?](https://www.reddit.com/r/androiddev/comments/mirssa/how_to_automate_deployment_to_galaxy_store/)
-- [First app development, struggling with databases](https://www.reddit.com/r/androiddev/comments/miqa5m/first_app_development_struggling_with_databases/)
-- [new dev advice](https://www.reddit.com/r/androiddev/comments/mip8n6/new_dev_advice/)
-- [Quick illustrations of the insetEdge property of CoordinatorLayout](https://www.reddit.com/r/androiddev/comments/mioez1/quick_illustrations_of_the_insetedge_property_of/)
-- [Choosing countries/regions question](https://www.reddit.com/r/androiddev/comments/min7dg/choosing_countriesregions_question/)
-- [React Native vs Flutter?](https://www.reddit.com/r/androiddev/comments/mim89l/react_native_vs_flutter/)
-- [Correct usage of Room with ExecutorService in Android Java?](https://www.reddit.com/r/androiddev/comments/miknyw/correct_usage_of_room_with_executorservice_in/)
+- [Resources for learning Kotlin for Android dev](https://www.reddit.com/r/androiddev/comments/mjjywx/resources_for_learning_kotlin_for_android_dev/)
+- [Best practices of Android CI/CD & releases](https://www.reddit.com/r/androiddev/comments/mjif6i/best_practices_of_android_cicd_releases/)
+- [Update strings.XML once a month](https://www.reddit.com/r/androiddev/comments/mje6wm/update_stringsxml_once_a_month/)
+- [2-way binding with MVVM](https://www.reddit.com/r/androiddev/comments/mjdfnw/2way_binding_with_mvvm/)
+- [Publishing A Game (In Review)](https://www.reddit.com/r/androiddev/comments/mjde00/publishing_a_game_in_review/)
+- [Reccomendations for implementations](https://www.reddit.com/r/androiddev/comments/mjchwe/reccomendations_for_implementations/)
+- [App Feedback Thread - April 03, 2021](https://www.reddit.com/r/androiddev/comments/mj817x/app_feedback_thread_april_03_2021/)
+- [Should I use jetpack compose in my APPS](https://www.reddit.com/r/androiddev/comments/mj811x/should_i_use_jetpack_compose_in_my_apps/)
+- [Are these changes enough to complying with AdMob policies?](https://www.reddit.com/r/androiddev/comments/mj7lyv/are_these_changes_enough_to_complying_with_admob/)
+- [My experience with Flutter as an Android developer](https://www.reddit.com/r/androiddev/comments/mj6m4y/my_experience_with_flutter_as_an_android_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
