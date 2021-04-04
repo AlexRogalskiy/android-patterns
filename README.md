@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Converting LiveData to Flow: Lessons learned](https://chao2zhang.medium.com/converting-livedata-to-flow-lessons-learned-9362a00611c8?source=rss------android-5)
-- [Hyperlinks in Flutter](https://medium.com/nerd-for-tech/hyperlinks-in-flutter-8adb88f96fe8?source=rss------android-5)
-- [KMM QuickStart Guide](https://proandroiddev.com/kmm-quickstart-guide-7598527a2ab9?source=rss------android-5)
-- [List: Free Phone Number & SMS Sites for Verification](https://techmende.medium.com/list-free-phone-number-sms-sites-for-verification-a5490df8bf8?source=rss------android-5)
-- [Business Logic and Input Validation Fl at a Fintech app](https://stevebiotech.medium.com/business-logic-and-input-validation-fl-at-a-fintech-app-df3128df0ba7?source=rss------android-5)
-- [Limedev Cards — service for creating electronic business cards](https://medium.com/@timmeleshko/limedev-cards-service-for-creating-electronic-business-cards-890ffc0268b2?source=rss------android-5)
-- [ANDROID APPLICATION EXPLOITATION OF A DIGITAL BANK](https://stevebiotech.medium.com/android-application-exploitation-of-a-digital-bank-5809360838ac?source=rss------android-5)
-- [Beating the fitsSystemWindows nightmare](https://skinnyy.medium.com/beating-the-fitssystemwindows-nightmare-607eea46d3b?source=rss------android-5)
-- [Custom Image Classification on Android using TensorFlow Lite](https://tiwarinitin1999.medium.com/custom-image-classification-on-android-using-tensorflow-lite-9f9b3917a26f?source=rss------android-5)
-- [How to Use Apple Maps on Windows and Android Devices](https://stephennicoisa.medium.com/how-to-use-apple-maps-on-windows-and-android-devices-6557064b142?source=rss------android-5)
+- [8 Secret Android Functions 90% of Users Don’t Know About](https://lifebetter.medium.com/8-secret-android-functions-90-of-users-dont-know-about-f38395b2b418?source=rss------android-5)
+- [Turn Your WordPress Website into a PWA](https://volkan68.medium.com/turn-your-wordpress-website-into-a-pwa-a958e1bf0e4c?source=rss------android-5)
+- [Aefo mvyr 8vruka aiocer](https://medium.com/@kvblxstq/aefo-mvyr-8vruka-aiocer-e15986915216?source=rss------android-5)
+- [Context Nedir? — Onlar her yerde.](https://eeren.medium.com/context-nedir-onlar-her-yerde-849671668566?source=rss------android-5)
+- [Animated Folding Cell in Android Studio (JAVA)](https://androidapps-development-blogs.medium.com/animated-folding-cell-in-android-studio-java-c270e26f8057?source=rss------android-5)
+- [Абстракции с нулевой стоимостью* в Kotlin](https://medium.com/nuances-of-programming/%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D1%81-%D0%BD%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9-%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%D1%8E-%D0%B2-kotlin-6cd14f0be503?source=rss------android-5)
+- [「Android Binder」AIDL中的 in / out 到底是啥？](https://littlefourthlee.medium.com/android-binder-aidl%E4%B8%AD%E7%9A%84-in-out-%E5%88%B0%E5%BA%95%E6%98%AF%E5%95%A5-5c9defdef069?source=rss------android-5)
+- [Android Activity Life Cycle](https://medium.com/cnk-tech/android-activity-life-cycle-7116bebee77c?source=rss------android-5)
+- [Learn motion layout in Android using Twitter splash screen](https://medium.com/swlh/learn-motion-layout-in-android-using-twitter-splash-screen-9c38160c46d?source=rss------android-5)
+- [React Native Generate APK — Debug and Release APK](https://fabiomancuso-11.medium.com/react-native-generate-apk-debug-and-release-apk-1377f6898cf5?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
