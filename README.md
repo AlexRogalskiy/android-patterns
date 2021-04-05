@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Resources for learning Kotlin for Android dev](https://www.reddit.com/r/androiddev/comments/mjjywx/resources_for_learning_kotlin_for_android_dev/)
-- [Best practices of Android CI/CD & releases](https://www.reddit.com/r/androiddev/comments/mjif6i/best_practices_of_android_cicd_releases/)
-- [Update strings.XML once a month](https://www.reddit.com/r/androiddev/comments/mje6wm/update_stringsxml_once_a_month/)
-- [2-way binding with MVVM](https://www.reddit.com/r/androiddev/comments/mjdfnw/2way_binding_with_mvvm/)
-- [Publishing A Game (In Review)](https://www.reddit.com/r/androiddev/comments/mjde00/publishing_a_game_in_review/)
-- [Reccomendations for implementations](https://www.reddit.com/r/androiddev/comments/mjchwe/reccomendations_for_implementations/)
-- [App Feedback Thread - April 03, 2021](https://www.reddit.com/r/androiddev/comments/mj817x/app_feedback_thread_april_03_2021/)
-- [Should I use jetpack compose in my APPS](https://www.reddit.com/r/androiddev/comments/mj811x/should_i_use_jetpack_compose_in_my_apps/)
-- [Are these changes enough to complying with AdMob policies?](https://www.reddit.com/r/androiddev/comments/mj7lyv/are_these_changes_enough_to_complying_with_admob/)
-- [My experience with Flutter as an Android developer](https://www.reddit.com/r/androiddev/comments/mj6m4y/my_experience_with_flutter_as_an_android_developer/)
+- [Why Google Play store is not promoting my app?](https://www.reddit.com/r/androiddev/comments/mk988d/why_google_play_store_is_not_promoting_my_app/)
+- [I'm looking for a good sample codebase to review/learn from that uses MVVM, live data, compose and either dagger or hilt. Any suggestions?](https://www.reddit.com/r/androiddev/comments/mk7m1k/im_looking_for_a_good_sample_codebase_to/)
+- [Creating a good Android developer test](https://www.reddit.com/r/androiddev/comments/mk7bus/creating_a_good_android_developer_test/)
+- [Struggling with Android Studio homework. Can someone help?](https://www.reddit.com/r/androiddev/comments/mk6d0e/struggling_with_android_studio_homework_can/)
+- [Why are there many people asking for a developer account?](https://www.reddit.com/r/androiddev/comments/mk5xeq/why_are_there_many_people_asking_for_a_developer/)
+- [Academic Survey on Parameters in Android Apps](https://www.reddit.com/r/androiddev/comments/mk577d/academic_survey_on_parameters_in_android_apps/)
+- [Koin or Hilt?](https://www.reddit.com/r/androiddev/comments/mk3x3u/koin_or_hilt/)
+- [Break out from the sea of installed app icons with app actions.](https://www.reddit.com/r/androiddev/comments/mk2qpp/break_out_from_the_sea_of_installed_app_icons/)
+- [RecyclerView vs ScrollView: What is a large data set?](https://www.reddit.com/r/androiddev/comments/mk16d9/recyclerview_vs_scrollview_what_is_a_large_data/)
+- [Free Android Mentorship Program - Registrations are now open](https://www.reddit.com/r/androiddev/comments/mk0x4r/free_android_mentorship_program_registrations_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
