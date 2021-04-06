@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [8 Secret Android Functions 90% of Users Don’t Know About](https://lifebetter.medium.com/8-secret-android-functions-90-of-users-dont-know-about-f38395b2b418?source=rss------android-5)
-- [Turn Your WordPress Website into a PWA](https://volkan68.medium.com/turn-your-wordpress-website-into-a-pwa-a958e1bf0e4c?source=rss------android-5)
-- [Aefo mvyr 8vruka aiocer](https://medium.com/@kvblxstq/aefo-mvyr-8vruka-aiocer-e15986915216?source=rss------android-5)
-- [Context Nedir? — Onlar her yerde.](https://eeren.medium.com/context-nedir-onlar-her-yerde-849671668566?source=rss------android-5)
-- [Animated Folding Cell in Android Studio (JAVA)](https://androidapps-development-blogs.medium.com/animated-folding-cell-in-android-studio-java-c270e26f8057?source=rss------android-5)
-- [Абстракции с нулевой стоимостью* в Kotlin](https://medium.com/nuances-of-programming/%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D1%81-%D0%BD%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9-%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%D1%8E-%D0%B2-kotlin-6cd14f0be503?source=rss------android-5)
-- [「Android Binder」AIDL中的 in / out 到底是啥？](https://littlefourthlee.medium.com/android-binder-aidl%E4%B8%AD%E7%9A%84-in-out-%E5%88%B0%E5%BA%95%E6%98%AF%E5%95%A5-5c9defdef069?source=rss------android-5)
-- [Android Activity Life Cycle](https://medium.com/cnk-tech/android-activity-life-cycle-7116bebee77c?source=rss------android-5)
-- [Learn motion layout in Android using Twitter splash screen](https://medium.com/swlh/learn-motion-layout-in-android-using-twitter-splash-screen-9c38160c46d?source=rss------android-5)
-- [React Native Generate APK — Debug and Release APK](https://fabiomancuso-11.medium.com/react-native-generate-apk-debug-and-release-apk-1377f6898cf5?source=rss------android-5)
+- [Cómo compartir su red Wifi con dispositivos cercanos, usando el servicio cercano de HMS](https://huawei-latinoamerica.medium.com/c%C3%B3mo-compartir-su-red-wifi-con-dispositivos-cercanos-usando-el-servicio-cercano-de-hms-a26e2f77468b?source=rss------android-5)
+- [Como tirar a mensagem de correio de voz da One UI 3.0](https://tatss.medium.com/como-tirar-a-mensagem-de-correio-de-voz-da-one-ui-3-0-6c6ace426bee?source=rss------android-5)
+- [Get Android 11 Update on Your Android Phone With These Steps](https://martinjosephine115.medium.com/get-android-11-update-on-your-android-phone-with-these-steps-dd05d8982d6e?source=rss------android-5)
+- [Deploying a cross platform deep learning application](https://towardsdatascience.com/deploying-a-cross-platform-deep-learning-application-a026da146d6?source=rss------android-5)
+- [[Android] 4대 구성 요소 (4 Components)](https://medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B9%B5%EC%A7%80/android-4%EB%8C%80-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C-4-components-53de6a293898?source=rss------android-5)
+- [As a part of my series about about how leaders can create a “fantastic work culture”, I had the…](https://sevencheese777.medium.com/as-a-part-of-my-series-about-about-how-leaders-can-create-a-fantastic-work-culture-i-had-the-cf55f532766e?source=rss------android-5)
+- [Kotlin Volley ile Sunucudan Veri Çekme](https://basaransuleyman.medium.com/kotlin-volley-ile-sunucudan-veri-%C3%A7ekme-92176137c6ea?source=rss------android-5)
+- [Kotlin Multiplatform Mobile — what’s all the fuss?](https://ian-alexander.medium.com/kotlin-multiplatform-mobile-whats-all-the-fuss-fd6cb8af7082?source=rss------android-5)
+- [What, Why and How questions of flutter](https://flutter-simplified.medium.com/what-why-and-how-questions-of-flutter-d0c8eca89653?source=rss------android-5)
+- [Gestión de Errores en Android — Parte 1: entrando en calor](https://medium.com/droid-latam/gesti%C3%B3n-de-errores-en-android-parte-1-entrando-en-calor-296946977557?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
