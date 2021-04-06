@@ -256,6 +256,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google wins Java dispute, Oracle remains defiant](https://www.infoworld.com/article/3614083/google-wins-java-dispute-oracle-remains-defiant.html#tk.rss_android)
 - [PinePhone: A Linux smartphone a developer could love](https://www.infoworld.com/article/3610602/pinephone-a-linux-smartphone-a-developer-could-love.html#tk.rss_android)
 - [Google Jetpack Compose Android UI toolkit now in beta](https://www.infoworld.com/article/3609830/google-jetpack-compose-android-ui-toolkit-now-in-beta.html#tk.rss_android)
 - [Android 12 developer preview bolsters privacy, user experience](https://www.infoworld.com/article/3608937/android-12-developer-preview-bolsters-privacy-user-experience.html#tk.rss_android)
@@ -265,7 +266,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google’s UI toolkit for Android moves to alpha release](https://www.infoworld.com/article/3572565/googles-ui-toolkit-for-android-moves-to-alpha-release.html#tk.rss_android)
 - [Gradle 6.5 adds file system watching to improve build times](https://www.infoworld.com/article/3561572/gradle-65-adds-file-system-watching-to-improve-build-times.html#tk.rss_android)
 - [Android Studio 4.0 adds Motion Editor and Build Analyzer](https://www.infoworld.com/article/3561230/android-studio-40-adds-motion-editor-and-build-analyzer.html#tk.rss_android)
-- [Amid the pandemic, using trust to fight shadow IT](https://www.computerworld.com/article/3544301/amid-the-pandemic-using-trust-to-fight-shadow-it.html#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _RedHat posts_
