@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why Google Play store is not promoting my app?](https://www.reddit.com/r/androiddev/comments/mk988d/why_google_play_store_is_not_promoting_my_app/)
-- [I'm looking for a good sample codebase to review/learn from that uses MVVM, live data, compose and either dagger or hilt. Any suggestions?](https://www.reddit.com/r/androiddev/comments/mk7m1k/im_looking_for_a_good_sample_codebase_to/)
-- [Creating a good Android developer test](https://www.reddit.com/r/androiddev/comments/mk7bus/creating_a_good_android_developer_test/)
-- [Struggling with Android Studio homework. Can someone help?](https://www.reddit.com/r/androiddev/comments/mk6d0e/struggling_with_android_studio_homework_can/)
-- [Why are there many people asking for a developer account?](https://www.reddit.com/r/androiddev/comments/mk5xeq/why_are_there_many_people_asking_for_a_developer/)
-- [Academic Survey on Parameters in Android Apps](https://www.reddit.com/r/androiddev/comments/mk577d/academic_survey_on_parameters_in_android_apps/)
-- [Koin or Hilt?](https://www.reddit.com/r/androiddev/comments/mk3x3u/koin_or_hilt/)
-- [Break out from the sea of installed app icons with app actions.](https://www.reddit.com/r/androiddev/comments/mk2qpp/break_out_from_the_sea_of_installed_app_icons/)
-- [RecyclerView vs ScrollView: What is a large data set?](https://www.reddit.com/r/androiddev/comments/mk16d9/recyclerview_vs_scrollview_what_is_a_large_data/)
-- [Free Android Mentorship Program - Registrations are now open](https://www.reddit.com/r/androiddev/comments/mk0x4r/free_android_mentorship_program_registrations_are/)
+- [Is it a good decision to store login credentials in Shared Preferences?](https://www.reddit.com/r/androiddev/comments/mkwa2p/is_it_a_good_decision_to_store_login_credentials/)
+- [GeofenceBroadcastReceiver onReceive gets called with wrong Intents. What am I missing?](https://www.reddit.com/r/androiddev/comments/mksrh2/geofencebroadcastreceiver_onreceive_gets_called/)
+- [AAB vs APK especially updating older apps](https://www.reddit.com/r/androiddev/comments/mksj08/aab_vs_apk_especially_updating_older_apps/)
+- [What's a kick ass phone for development?](https://www.reddit.com/r/androiddev/comments/mksg8f/whats_a_kick_ass_phone_for_development/)
+- [Fullscreen in Hyper-V?](https://www.reddit.com/r/androiddev/comments/mkrqln/fullscreen_in_hyperv/)
+- [JCenter alternative for closed-source projects?](https://www.reddit.com/r/androiddev/comments/mkr0kn/jcenter_alternative_for_closedsource_projects/)
+- [Has anyone else tried the Jetpack Window Manager lib with the new Foldable Emulator?](https://www.reddit.com/r/androiddev/comments/mkqnup/has_anyone_else_tried_the_jetpack_window_manager/)
+- [Google Admob alternatives?](https://www.reddit.com/r/androiddev/comments/mknbbc/google_admob_alternatives/)
+- [Top court sides with Google in copyright dispute with Oracle](https://www.reddit.com/r/androiddev/comments/mkm2pa/top_court_sides_with_google_in_copyright_dispute/)
+- [Location permission update for Android 11. Now application is rejected?](https://www.reddit.com/r/androiddev/comments/mklt72/location_permission_update_for_android_11_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
