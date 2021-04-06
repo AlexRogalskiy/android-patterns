@@ -326,6 +326,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Supreme Court Sides With Google in Historic API Copyright Fight Against Oracle](https://gizmodo.com/supreme-courts-sides-with-google-in-historic-api-copyri-1846618603)
+- [Google Is Cracking Down on Apps That Can See Every Other App You Have Installed](https://gizmodo.com/google-is-cracking-down-on-apps-that-can-see-every-othe-1846619251)
 - [Google Maps Is Adding Indoor Live View and 100+ Other Features](https://gizmodo.com/google-maps-is-adding-indoor-live-view-and-100-other-f-1846577782)
 - [T-Mobile Will Make Google Messages Its Default Messaging App for Android](https://gizmodo.com/t-mobile-will-make-google-messages-its-default-messagin-1846578155)
 - [Dangerous Android App Pretends to Be a System Update to Steal Your Data](https://gizmodo.com/dangerous-android-app-pretends-to-be-a-system-update-to-1846574044)
@@ -334,8 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [How to Sideload Any App on Your Chromecast With Google TV](https://gizmodo.com/how-to-sideload-any-app-on-your-chromecast-with-google-1846490542)
 - [Google's New Nest Hub Tracks Your Sleep From Your Nightstand, No Wearables Required](https://gizmodo.com/googles-new-nest-hub-tracks-your-sleep-from-your-nights-1846389994)
 - [Maybe There's Hope for Wear OS Yet](https://gizmodo.com/maybe-theres-hope-for-wear-os-yet-1846476548)
-- [The Best Customizable Controller Can Now Be Programmed on Your Phone](https://gizmodo.com/the-best-customizable-controller-can-now-be-programmed-1846416067)
-- [How to Use Your Android Phone Seamlessly With Your Chromebook](https://gizmodo.com/how-to-use-your-android-phone-seamlessly-with-your-chro-1846474450)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
