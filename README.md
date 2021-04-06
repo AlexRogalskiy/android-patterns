@@ -341,6 +341,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [What is differential privacy in digital advertising?](https://mobiledevmemo.com/what-is-differential-privacy/)
 - [Dear App Developers: fingerprinting is not a viable workaround to ATT](https://mobiledevmemo.com/dear-app-developers-fingerprinting-is-not-a-viable-workaround-to-att/)
 - [Surveillance advertising is a myth](https://mobiledevmemo.com/surveillance-advertising-is-a-myth/)
 - [iOS14, Fortnite, and the importance of controlling distribution](https://mobiledevmemo.com/ios14-fortnite-and-the-importance-of-controlling-distribution/)
@@ -350,7 +351,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [iOS 14, Privacy, and the Future of Digital Advertising](https://mobiledevmemo.com/ios-14-att-and-the-future-of-digital-advertising/)
 - [Podcast: The future of mobile attribution with Maor Sadra and Peter Hamilton](https://mobiledevmemo.com/podcast-the-future-of-mobile-attribution-with-maor-sadra-and-peter-hamilton/)
 - [The CPM math doesn’t work](https://mobiledevmemo.com/the-cpm-math-doesnt-work/)
-- [Why doesn’t Google have to show the ATT prompt?](https://mobiledevmemo.com/why-doesnt-google-have-to-show-the-att-prompt/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
