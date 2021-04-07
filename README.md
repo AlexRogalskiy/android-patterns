@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it a good decision to store login credentials in Shared Preferences?](https://www.reddit.com/r/androiddev/comments/mkwa2p/is_it_a_good_decision_to_store_login_credentials/)
-- [GeofenceBroadcastReceiver onReceive gets called with wrong Intents. What am I missing?](https://www.reddit.com/r/androiddev/comments/mksrh2/geofencebroadcastreceiver_onreceive_gets_called/)
-- [AAB vs APK especially updating older apps](https://www.reddit.com/r/androiddev/comments/mksj08/aab_vs_apk_especially_updating_older_apps/)
-- [What's a kick ass phone for development?](https://www.reddit.com/r/androiddev/comments/mksg8f/whats_a_kick_ass_phone_for_development/)
-- [Fullscreen in Hyper-V?](https://www.reddit.com/r/androiddev/comments/mkrqln/fullscreen_in_hyperv/)
-- [JCenter alternative for closed-source projects?](https://www.reddit.com/r/androiddev/comments/mkr0kn/jcenter_alternative_for_closedsource_projects/)
-- [Has anyone else tried the Jetpack Window Manager lib with the new Foldable Emulator?](https://www.reddit.com/r/androiddev/comments/mkqnup/has_anyone_else_tried_the_jetpack_window_manager/)
-- [Google Admob alternatives?](https://www.reddit.com/r/androiddev/comments/mknbbc/google_admob_alternatives/)
-- [Top court sides with Google in copyright dispute with Oracle](https://www.reddit.com/r/androiddev/comments/mkm2pa/top_court_sides_with_google_in_copyright_dispute/)
-- [Location permission update for Android 11. Now application is rejected?](https://www.reddit.com/r/androiddev/comments/mklt72/location_permission_update_for_android_11_now/)
+- [Best free or cheap server to host online app](https://www.reddit.com/r/androiddev/comments/mlqvyf/best_free_or_cheap_server_to_host_online_app/)
+- [I know its a simple question but how can I make a method run itself every 3 seconds after a button click](https://www.reddit.com/r/androiddev/comments/mlqq3w/i_know_its_a_simple_question_but_how_can_i_make_a/)
+- [Dark mode for developer.android.com?](https://www.reddit.com/r/androiddev/comments/mlqlc7/dark_mode_for_developerandroidcom/)
+- [How to Remove the Status Bar in Android Studio](https://www.reddit.com/r/androiddev/comments/mlpvc8/how_to_remove_the_status_bar_in_android_studio/)
+- [How to Play Sound On Button Click in Android Studio Java 2021](https://www.reddit.com/r/androiddev/comments/mlpuef/how_to_play_sound_on_button_click_in_android/)
+- [Dart Functions as First Order Objects](https://www.reddit.com/r/androiddev/comments/mlp8br/dart_functions_as_first_order_objects/)
+- [Dynamic Colors With Glide Library and Android Palette](https://www.reddit.com/r/androiddev/comments/mlodp8/dynamic_colors_with_glide_library_and_android/)
+- [Developers study - online via Zoom](https://www.reddit.com/r/androiddev/comments/mlnk6v/developers_study_online_via_zoom/)
+- [In the last part of the Dagger2 blog post series we're exploring the powerful multi bindings](https://www.reddit.com/r/androiddev/comments/mlndqh/in_the_last_part_of_the_dagger2_blog_post_series/)
+- [Problem in adding custom stickers to Gboard using Firebase](https://www.reddit.com/r/androiddev/comments/mlml4i/problem_in_adding_custom_stickers_to_gboard_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
