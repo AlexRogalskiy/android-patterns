@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Cómo compartir su red Wifi con dispositivos cercanos, usando el servicio cercano de HMS](https://huawei-latinoamerica.medium.com/c%C3%B3mo-compartir-su-red-wifi-con-dispositivos-cercanos-usando-el-servicio-cercano-de-hms-a26e2f77468b?source=rss------android-5)
-- [Como tirar a mensagem de correio de voz da One UI 3.0](https://tatss.medium.com/como-tirar-a-mensagem-de-correio-de-voz-da-one-ui-3-0-6c6ace426bee?source=rss------android-5)
-- [Get Android 11 Update on Your Android Phone With These Steps](https://martinjosephine115.medium.com/get-android-11-update-on-your-android-phone-with-these-steps-dd05d8982d6e?source=rss------android-5)
-- [Deploying a cross platform deep learning application](https://towardsdatascience.com/deploying-a-cross-platform-deep-learning-application-a026da146d6?source=rss------android-5)
-- [[Android] 4대 구성 요소 (4 Components)](https://medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B9%B5%EC%A7%80/android-4%EB%8C%80-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C-4-components-53de6a293898?source=rss------android-5)
-- [As a part of my series about about how leaders can create a “fantastic work culture”, I had the…](https://sevencheese777.medium.com/as-a-part-of-my-series-about-about-how-leaders-can-create-a-fantastic-work-culture-i-had-the-cf55f532766e?source=rss------android-5)
-- [Kotlin Volley ile Sunucudan Veri Çekme](https://basaransuleyman.medium.com/kotlin-volley-ile-sunucudan-veri-%C3%A7ekme-92176137c6ea?source=rss------android-5)
-- [Kotlin Multiplatform Mobile — what’s all the fuss?](https://ian-alexander.medium.com/kotlin-multiplatform-mobile-whats-all-the-fuss-fd6cb8af7082?source=rss------android-5)
-- [What, Why and How questions of flutter](https://flutter-simplified.medium.com/what-why-and-how-questions-of-flutter-d0c8eca89653?source=rss------android-5)
-- [Gestión de Errores en Android — Parte 1: entrando en calor](https://medium.com/droid-latam/gesti%C3%B3n-de-errores-en-android-parte-1-entrando-en-calor-296946977557?source=rss------android-5)
+- [Coordinating multiple view visibility with Flow and the combine operator](https://aidan128.medium.com/coordinating-multiple-view-visibility-with-flow-and-the-combine-operator-6ecceaadd37c?source=rss------android-5)
+- [Odin for Beginners | Flash Like Pro](https://medium.com/@trendyport002/odin-for-beginners-flash-like-pro-d2b86861cfdd?source=rss------android-5)
+- [How to increase internal storage on your android device](https://medium.com/@trendyport008/how-to-increase-internal-storage-on-your-android-device-3098d2c205b2?source=rss------android-5)
+- [How to Boost Gaming Performance on Android Devices](https://medium.com/@trendyport008/how-to-boost-gaming-performance-on-android-devices-9b347e579bef?source=rss------android-5)
+- [The Best Meditation Apps You Can Use on Android](https://jackturner808.medium.com/the-best-meditation-apps-you-can-use-on-android-537ad9f462f0?source=rss------android-5)
+- [Generating a GraphQL Query DSL with Kotlin](https://mtzhisham.medium.com/generating-a-graphql-query-dsl-with-kotlin-b4bfc9def9a8?source=rss------android-5)
+- [En İyi Ücretsiz Android Uygulamaları](https://sosyal-teknoloji-news.medium.com/en-i%CC%87yi-%C3%BCcretsiz-android-uygulamalar%C4%B1-d630bfcd4e1b?source=rss------android-5)
+- [Relax & Enjoy Your Free Time With Candy Fruit Blast Game for Android](https://hightechholic.medium.com/relax-enjoy-your-free-time-with-candy-fruit-blast-game-for-android-84b7cb846f2c?source=rss------android-5)
+- [Network debugging in android with Stetho](https://todaypoc.medium.com/network-debugging-in-android-with-stetho-eff9c2b15ccd?source=rss------android-5)
+- [Best Open Source Apps for Android in 2021](https://medium.com/@wesleyjrz/best-open-source-apps-for-android-in-2021-fc558e1bbbc?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
