@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Coordinating multiple view visibility with Flow and the combine operator](https://aidan128.medium.com/coordinating-multiple-view-visibility-with-flow-and-the-combine-operator-6ecceaadd37c?source=rss------android-5)
-- [Odin for Beginners | Flash Like Pro](https://medium.com/@trendyport002/odin-for-beginners-flash-like-pro-d2b86861cfdd?source=rss------android-5)
-- [How to increase internal storage on your android device](https://medium.com/@trendyport008/how-to-increase-internal-storage-on-your-android-device-3098d2c205b2?source=rss------android-5)
-- [How to Boost Gaming Performance on Android Devices](https://medium.com/@trendyport008/how-to-boost-gaming-performance-on-android-devices-9b347e579bef?source=rss------android-5)
-- [The Best Meditation Apps You Can Use on Android](https://jackturner808.medium.com/the-best-meditation-apps-you-can-use-on-android-537ad9f462f0?source=rss------android-5)
-- [Generating a GraphQL Query DSL with Kotlin](https://mtzhisham.medium.com/generating-a-graphql-query-dsl-with-kotlin-b4bfc9def9a8?source=rss------android-5)
-- [En İyi Ücretsiz Android Uygulamaları](https://sosyal-teknoloji-news.medium.com/en-i%CC%87yi-%C3%BCcretsiz-android-uygulamalar%C4%B1-d630bfcd4e1b?source=rss------android-5)
-- [Relax & Enjoy Your Free Time With Candy Fruit Blast Game for Android](https://hightechholic.medium.com/relax-enjoy-your-free-time-with-candy-fruit-blast-game-for-android-84b7cb846f2c?source=rss------android-5)
-- [Network debugging in android with Stetho](https://todaypoc.medium.com/network-debugging-in-android-with-stetho-eff9c2b15ccd?source=rss------android-5)
-- [Best Open Source Apps for Android in 2021](https://medium.com/@wesleyjrz/best-open-source-apps-for-android-in-2021-fc558e1bbbc?source=rss------android-5)
+- [Open messaging app in Android](https://medium.com/swlh/open-messaging-app-in-android-44c4b218cb1a?source=rss------android-5)
+- [10 great ideas to improve your Gradle build times](https://medium.com/dipien/10-great-ideas-to-improve-your-gradle-build-times-2a6b281c69c6?source=rss------android-5)
+- [How Artificial Intelligence Transforming Mobile App Industry](https://eetipatel.medium.com/how-artificial-intelligence-transforming-mobile-app-industry-83698af17a92?source=rss------android-5)
+- [Android App Development course in Rawalpindi Islamabad](https://alitayyaba01.medium.com/android-app-development-course-in-rawalpindi-islamabad-b37fe70d0abb?source=rss------android-5)
+- [Ae tempiro nce vagsd casin](https://medium.com/@bwwwfhwq/ae-tempiro-nce-vagsd-casin-b0a47edaebd7?source=rss------android-5)
+- [Fim da divisão mobile da LG](https://medium.com/technyks/fim-da-divis%C3%A3o-mobile-da-lg-a4cc2ca96421?source=rss------android-5)
+- [Best video editing app for Android without watermark](https://shafiq-rehman193.medium.com/best-video-editing-app-for-android-without-watermark-19f0e45873b7?source=rss------android-5)
+- [DevTools no Android — Debbugando aplicações web pelo celular em 9 passos](https://pedromihael.medium.com/devtools-no-android-debbugando-aplica%C3%A7%C3%B5es-web-pelo-celular-em-9-passos-86df4d47b538?source=rss------android-5)
+- [Kotlin Fragment ile iletişim](https://basaransuleyman.medium.com/kotlin-fragment-ile-ileti%C5%9Fim-8780844cf293?source=rss------android-5)
+- [How to build an Android app in Scala 2.13](https://medium.com/swlh/how-to-build-an-android-app-in-scala-2-13-e2d887c4dc2?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
