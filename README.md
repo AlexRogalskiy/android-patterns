@@ -311,16 +311,14 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Open messaging app in Android](https://medium.com/swlh/open-messaging-app-in-android-44c4b218cb1a?source=rss------android-5)
-- [10 great ideas to improve your Gradle build times](https://medium.com/dipien/10-great-ideas-to-improve-your-gradle-build-times-2a6b281c69c6?source=rss------android-5)
-- [How Artificial Intelligence Transforming Mobile App Industry](https://eetipatel.medium.com/how-artificial-intelligence-transforming-mobile-app-industry-83698af17a92?source=rss------android-5)
-- [Android App Development course in Rawalpindi Islamabad](https://alitayyaba01.medium.com/android-app-development-course-in-rawalpindi-islamabad-b37fe70d0abb?source=rss------android-5)
-- [Ae tempiro nce vagsd casin](https://medium.com/@bwwwfhwq/ae-tempiro-nce-vagsd-casin-b0a47edaebd7?source=rss------android-5)
-- [Fim da divisão mobile da LG](https://medium.com/technyks/fim-da-divis%C3%A3o-mobile-da-lg-a4cc2ca96421?source=rss------android-5)
-- [Best video editing app for Android without watermark](https://shafiq-rehman193.medium.com/best-video-editing-app-for-android-without-watermark-19f0e45873b7?source=rss------android-5)
-- [DevTools no Android — Debbugando aplicações web pelo celular em 9 passos](https://pedromihael.medium.com/devtools-no-android-debbugando-aplica%C3%A7%C3%B5es-web-pelo-celular-em-9-passos-86df4d47b538?source=rss------android-5)
-- [Kotlin Fragment ile iletişim](https://basaransuleyman.medium.com/kotlin-fragment-ile-ileti%C5%9Fim-8780844cf293?source=rss------android-5)
-- [How to build an Android app in Scala 2.13](https://medium.com/swlh/how-to-build-an-android-app-in-scala-2-13-e2d887c4dc2?source=rss------android-5)
+- [¿Cómo trabajo (UX/UI Designer)? 2/4](https://samueluxdesigner.medium.com/c%C3%B3mo-trabajo-ux-ui-designer-2-4-5560cab57890?source=rss------android-5)
+- [Review of the Google Pixel 4A, after more than half a year using it](https://dannyemerson2.medium.com/review-of-the-google-pixel-4a-after-more-than-half-a-year-using-it-9fa4c016aef9?source=rss------android-5)
+- [Debugging LiveData changes made easy](https://chao2zhang.medium.com/debugging-livedata-changes-made-easy-d3aa16b81b41?source=rss------android-5)
+- [10 Best Android Phones To Buy In 2021](https://infotinotech.medium.com/10-best-android-phones-to-buy-in-2021-83d6c203e69a?source=rss------android-5)
+- [Ace cppem nhcaie](https://medium.com/@ubkijcxq/ace-cppem-nhcaie-76fd38aa02f2?source=rss------android-5)
+- [Jetpack Compose Part 3 — Retrospect](https://medium.com/android-deep-dive-study/jetpack-compose-part-3-retrospect-73f0769b2d82?source=rss------android-5)
+- [Jetpack Compose Part 2 — Preview / Layout / Decompile](https://medium.com/android-deep-dive-study/jetpack-compose-part-2-preview-layout-decompile-84fae294d458?source=rss------android-5)
+- [Jetpack Compose Part 1 — Compose 소개 및 코드랩 따라하기](https://medium.com/android-deep-dive-study/jetpack-compose-part-1-compose-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%BD%94%EB%93%9C%EB%9E%A9-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-35f7a0e6c581?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
