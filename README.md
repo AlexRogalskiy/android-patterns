@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [is mac air m1 with 8gb ram enough for development](https://www.reddit.com/r/androiddev/comments/mmgetp/is_mac_air_m1_with_8gb_ram_enough_for_development/)
-- [Recycler View 1.2.0 with ConcatAdapter and Lazy State Restoration is now stable!](https://www.reddit.com/r/androiddev/comments/mmfsl9/recycler_view_120_with_concatadapter_and_lazy/)
-- [Fragments constructor: Kotlin vs Java](https://www.reddit.com/r/androiddev/comments/mmeh04/fragments_constructor_kotlin_vs_java/)
-- [I need some feedback before launching on Product Hunt](https://www.reddit.com/r/androiddev/comments/mmczy9/i_need_some_feedback_before_launching_on_product/)
-- [10 great ideas to improve your Gradle build times](https://www.reddit.com/r/androiddev/comments/mmcq52/10_great_ideas_to_improve_your_gradle_build_times/)
-- [Android unable to generate Bugreport.zip](https://www.reddit.com/r/androiddev/comments/mmbyoh/android_unable_to_generate_bugreportzip/)
-- [Making enough from ads to cover OpenWeather API fees?](https://www.reddit.com/r/androiddev/comments/mm9jg0/making_enough_from_ads_to_cover_openweather_api/)
-- [Why backend Google Android Publisher API always return UNSPECIFIED_STATE for success order?](https://www.reddit.com/r/androiddev/comments/mm8q5t/why_backend_google_android_publisher_api_always/)
-- [Realm database vs inheritance](https://www.reddit.com/r/androiddev/comments/mm8p6d/realm_database_vs_inheritance/)
-- [Integration verbosity and good layering – Jake Wharton](https://www.reddit.com/r/androiddev/comments/mm70wy/integration_verbosity_and_good_layering_jake/)
+- [DevProdEng Showdown! Trailer - Next Live Event on 4/21](https://www.reddit.com/r/androiddev/comments/mn2rid/devprodeng_showdown_trailer_next_live_event_on_421/)
+- [Debugging LiveData changes made easy](https://www.reddit.com/r/androiddev/comments/mn2bej/debugging_livedata_changes_made_easy/)
+- [Old build variant on new AOSP](https://www.reddit.com/r/androiddev/comments/mmzsmj/old_build_variant_on_new_aosp/)
+- [SSL Pinning](https://www.reddit.com/r/androiddev/comments/mmyid4/ssl_pinning/)
+- [BinTray substitute?](https://www.reddit.com/r/androiddev/comments/mmxy73/bintray_substitute/)
+- [Built an AS Plugin for generating alpha variants](https://www.reddit.com/r/androiddev/comments/mmvq27/built_an_as_plugin_for_generating_alpha_variants/)
+- [Is releasing an app as early access on the playstore no longer a thing?](https://www.reddit.com/r/androiddev/comments/mmucxu/is_releasing_an_app_as_early_access_on_the/)
+- [What language do you prefer for Android Development?](https://www.reddit.com/r/androiddev/comments/mmu8of/what_language_do_you_prefer_for_android/)
+- [Kotlin custom getter](https://www.reddit.com/r/androiddev/comments/mmt3bo/kotlin_custom_getter/)
+- [Which external database is recommended and how should I connect with it?](https://www.reddit.com/r/androiddev/comments/mmssje/which_external_database_is_recommended_and_how/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
