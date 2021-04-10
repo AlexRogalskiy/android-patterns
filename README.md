@@ -311,14 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [¿Cómo trabajo (UX/UI Designer)? 2/4](https://samueluxdesigner.medium.com/c%C3%B3mo-trabajo-ux-ui-designer-2-4-5560cab57890?source=rss------android-5)
-- [Review of the Google Pixel 4A, after more than half a year using it](https://dannyemerson2.medium.com/review-of-the-google-pixel-4a-after-more-than-half-a-year-using-it-9fa4c016aef9?source=rss------android-5)
-- [Debugging LiveData changes made easy](https://chao2zhang.medium.com/debugging-livedata-changes-made-easy-d3aa16b81b41?source=rss------android-5)
-- [10 Best Android Phones To Buy In 2021](https://infotinotech.medium.com/10-best-android-phones-to-buy-in-2021-83d6c203e69a?source=rss------android-5)
-- [Ace cppem nhcaie](https://medium.com/@ubkijcxq/ace-cppem-nhcaie-76fd38aa02f2?source=rss------android-5)
-- [Jetpack Compose Part 3 — Retrospect](https://medium.com/android-deep-dive-study/jetpack-compose-part-3-retrospect-73f0769b2d82?source=rss------android-5)
-- [Jetpack Compose Part 2 — Preview / Layout / Decompile](https://medium.com/android-deep-dive-study/jetpack-compose-part-2-preview-layout-decompile-84fae294d458?source=rss------android-5)
-- [Jetpack Compose Part 1 — Compose 소개 및 코드랩 따라하기](https://medium.com/android-deep-dive-study/jetpack-compose-part-1-compose-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%BD%94%EB%93%9C%EB%9E%A9-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-35f7a0e6c581?source=rss------android-5)
+- [Flutter | 5 Dakikada BLoC State Management](https://medium.com/cnk-tech/flutter-5-dakikada-bloc-state-management-e0d7ef0f19e0?source=rss------android-5)
+- [Android Context: Out of Context](https://medium.com/android-insights/android-context-out-of-context-be3c76236417?source=rss------android-5)
+- [Construyendo un Botnet en Android](https://fahedhermoza.medium.com/construyendo-un-botnet-en-android-1f0979b923b0?source=rss------android-5)
+- [TikTok Android APP Latest Version (v18.9.15 ) Free Download For Andriod | Mobile APK](https://nafaswali14.medium.com/tiktok-android-app-latest-version-v18-9-15-free-download-for-andriod-mobile-apk-641cb970a770?source=rss------android-5)
+- [GBpuzzle (v1.0) APK Latest Version 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/gbpuzzle-v1-0-apk-latest-version-2021-22-free-download-for-android-mobile-apk-70a1d90d8bf6?source=rss------android-5)
+- [Free Android Video Editor Apps For 2021](https://shafiq-rehman193.medium.com/free-android-video-editor-apps-for-2021-1780aaf1b144?source=rss------android-5)
+- [Tv](https://deshingemayur.medium.com/tv-cb7a928c13ac?source=rss------android-5)
+- [The world best best one that includes on apps games movies and music app.](https://waqar-ali-bushoo.medium.com/the-world-best-best-one-that-includes-on-apps-games-movies-and-music-app-ea9a3586c021?source=rss------android-5)
+- [most popular operating system in 2021 / What is Operating System How the operating system works](https://technical-mbn.medium.com/most-popular-operating-system-in-2021-what-is-operating-system-how-the-operating-system-works-adb27b91f870?source=rss------android-5)
+- [Getting Started With Android Jetpack  — Series 1 Episode 2 (ViewModel)](https://medium.com/backyard-programmers/getting-started-with-android-jetpack-series-1-episode-2-viewmodel-4aedfb5cac44?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
