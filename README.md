@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [DevProdEng Showdown! Trailer - Next Live Event on 4/21](https://www.reddit.com/r/androiddev/comments/mn2rid/devprodeng_showdown_trailer_next_live_event_on_421/)
-- [Debugging LiveData changes made easy](https://www.reddit.com/r/androiddev/comments/mn2bej/debugging_livedata_changes_made_easy/)
-- [Old build variant on new AOSP](https://www.reddit.com/r/androiddev/comments/mmzsmj/old_build_variant_on_new_aosp/)
-- [SSL Pinning](https://www.reddit.com/r/androiddev/comments/mmyid4/ssl_pinning/)
-- [BinTray substitute?](https://www.reddit.com/r/androiddev/comments/mmxy73/bintray_substitute/)
-- [Built an AS Plugin for generating alpha variants](https://www.reddit.com/r/androiddev/comments/mmvq27/built_an_as_plugin_for_generating_alpha_variants/)
-- [Is releasing an app as early access on the playstore no longer a thing?](https://www.reddit.com/r/androiddev/comments/mmucxu/is_releasing_an_app_as_early_access_on_the/)
-- [What language do you prefer for Android Development?](https://www.reddit.com/r/androiddev/comments/mmu8of/what_language_do_you_prefer_for_android/)
-- [Kotlin custom getter](https://www.reddit.com/r/androiddev/comments/mmt3bo/kotlin_custom_getter/)
-- [Which external database is recommended and how should I connect with it?](https://www.reddit.com/r/androiddev/comments/mmssje/which_external_database_is_recommended_and_how/)
+- [Internal Test Track doesn't seem to allow testers to install updates or auto-update](https://www.reddit.com/r/androiddev/comments/mnsv8e/internal_test_track_doesnt_seem_to_allow_testers/)
+- [What's the best library for Native Apps to create beautiful charts?](https://www.reddit.com/r/androiddev/comments/mnridj/whats_the_best_library_for_native_apps_to_create/)
+- [Reduce the debug build time in Android](https://www.reddit.com/r/androiddev/comments/mnr7qq/reduce_the_debug_build_time_in_android/)
+- [Weekly Anything Goes Thread - April 09, 2021](https://www.reddit.com/r/androiddev/comments/mngnyt/weekly_anything_goes_thread_april_09_2021/)
+- [Are you facing data glitch in google play console or is it just me?](https://www.reddit.com/r/androiddev/comments/mnemvz/are_you_facing_data_glitch_in_google_play_console/)
+- [Wrong app status in play console](https://www.reddit.com/r/androiddev/comments/mndu25/wrong_app_status_in_play_console/)
+- [dispatchTouchEvent() inside a fragment ?](https://www.reddit.com/r/androiddev/comments/mnd02r/dispatchtouchevent_inside_a_fragment/)
+- [Testing App on real device instead of Emulator. Unable to perform Network tasks.](https://www.reddit.com/r/androiddev/comments/mncio3/testing_app_on_real_device_instead_of_emulator/)
+- [Developing an app with Microsoft Graph API](https://www.reddit.com/r/androiddev/comments/mn7jzj/developing_an_app_with_microsoft_graph_api/)
+- [How to Refactor Flutter Widgets](https://www.reddit.com/r/androiddev/comments/mn6g2r/how_to_refactor_flutter_widgets/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
