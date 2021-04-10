@@ -326,6 +326,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Has Canceled the Pixel 5a, Multiple Reports Claim [Update: The Pixel 5a Is Still Alive]](https://gizmodo.com/google-has-canceled-the-pixel-5a-multiple-reports-clai-1846651933)
 - [Google's April Software Update Just Gave the Pixel 5 and 4a 5G a Big Performance Boost](https://gizmodo.com/googles-april-software-update-just-gave-the-pixel-5-and-1846627652)
 - [Supreme Court Sides With Google in Historic API Copyright Fight Against Oracle](https://gizmodo.com/supreme-courts-sides-with-google-in-historic-api-copyri-1846618603)
 - [Google Is Cracking Down on Apps That Can See Every Other App You Have Installed](https://gizmodo.com/google-is-cracking-down-on-apps-that-can-see-every-othe-1846619251)
@@ -335,7 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [17 Google Assistant Tricks You Might Not Know About](https://gizmodo.com/17-google-assistant-tricks-you-might-not-know-about-1846523906)
 - [Barnes & Noble's Nook Sidesteps the Grave Once Again With a New Lenovo-Built Tablet](https://gizmodo.com/barnes-nobles-nook-sidesteps-the-grave-once-again-wit-1846511475)
 - [How to Sideload Any App on Your Chromecast With Google TV](https://gizmodo.com/how-to-sideload-any-app-on-your-chromecast-with-google-1846490542)
-- [Google's New Nest Hub Tracks Your Sleep From Your Nightstand, No Wearables Required](https://gizmodo.com/googles-new-nest-hub-tracks-your-sleep-from-your-nights-1846389994)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
