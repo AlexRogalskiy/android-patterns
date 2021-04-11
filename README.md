@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Internal Test Track doesn't seem to allow testers to install updates or auto-update](https://www.reddit.com/r/androiddev/comments/mnsv8e/internal_test_track_doesnt_seem_to_allow_testers/)
-- [What's the best library for Native Apps to create beautiful charts?](https://www.reddit.com/r/androiddev/comments/mnridj/whats_the_best_library_for_native_apps_to_create/)
-- [Reduce the debug build time in Android](https://www.reddit.com/r/androiddev/comments/mnr7qq/reduce_the_debug_build_time_in_android/)
-- [Weekly Anything Goes Thread - April 09, 2021](https://www.reddit.com/r/androiddev/comments/mngnyt/weekly_anything_goes_thread_april_09_2021/)
-- [Are you facing data glitch in google play console or is it just me?](https://www.reddit.com/r/androiddev/comments/mnemvz/are_you_facing_data_glitch_in_google_play_console/)
-- [Wrong app status in play console](https://www.reddit.com/r/androiddev/comments/mndu25/wrong_app_status_in_play_console/)
-- [dispatchTouchEvent() inside a fragment ?](https://www.reddit.com/r/androiddev/comments/mnd02r/dispatchtouchevent_inside_a_fragment/)
-- [Testing App on real device instead of Emulator. Unable to perform Network tasks.](https://www.reddit.com/r/androiddev/comments/mncio3/testing_app_on_real_device_instead_of_emulator/)
-- [Developing an app with Microsoft Graph API](https://www.reddit.com/r/androiddev/comments/mn7jzj/developing_an_app_with_microsoft_graph_api/)
-- [How to Refactor Flutter Widgets](https://www.reddit.com/r/androiddev/comments/mn6g2r/how_to_refactor_flutter_widgets/)
+- [Do you really recommend using Jetpack Compose? Explain your reason.](https://www.reddit.com/r/androiddev/comments/moeboy/do_you_really_recommend_using_jetpack_compose/)
+- [I wanna create a nutrition planner app? But where do I get the nutrition and diet plans.](https://www.reddit.com/r/androiddev/comments/moeat6/i_wanna_create_a_nutrition_planner_app_but_where/)
+- [Convert Figma UI's to android XML?](https://www.reddit.com/r/androiddev/comments/mod8bx/convert_figma_uis_to_android_xml/)
+- [MVI: Safe ways to delegate render methods from Fragments](https://www.reddit.com/r/androiddev/comments/mobdtu/mvi_safe_ways_to_delegate_render_methods_from/)
+- [Is Java/Kotlin "native" on Android?](https://www.reddit.com/r/androiddev/comments/moadkw/is_javakotlin_native_on_android/)
+- [Just a question, why developers prefer to use in-app purchases only to monetize from their apps?](https://www.reddit.com/r/androiddev/comments/moa3iu/just_a_question_why_developers_prefer_to_use/)
+- [Survey about cross-platform development. Part of bachelor thesis, answers much appreciated.](https://www.reddit.com/r/androiddev/comments/mo9jux/survey_about_crossplatform_development_part_of/)
+- [Using View Model to call functions?](https://www.reddit.com/r/androiddev/comments/mo7ne3/using_view_model_to_call_functions/)
+- [Android Studio in a Virtual Box guest OS?](https://www.reddit.com/r/androiddev/comments/mo6mrn/android_studio_in_a_virtual_box_guest_os/)
+- [Can anyone guide me about object detection using OpenCV in Android ?](https://www.reddit.com/r/androiddev/comments/mo6gkp/can_anyone_guide_me_about_object_detection_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
