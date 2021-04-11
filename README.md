@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Flutter | 5 Dakikada BLoC State Management](https://medium.com/cnk-tech/flutter-5-dakikada-bloc-state-management-e0d7ef0f19e0?source=rss------android-5)
-- [Android Context: Out of Context](https://medium.com/android-insights/android-context-out-of-context-be3c76236417?source=rss------android-5)
-- [Construyendo un Botnet en Android](https://fahedhermoza.medium.com/construyendo-un-botnet-en-android-1f0979b923b0?source=rss------android-5)
-- [TikTok Android APP Latest Version (v18.9.15 ) Free Download For Andriod | Mobile APK](https://nafaswali14.medium.com/tiktok-android-app-latest-version-v18-9-15-free-download-for-andriod-mobile-apk-641cb970a770?source=rss------android-5)
-- [GBpuzzle (v1.0) APK Latest Version 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/gbpuzzle-v1-0-apk-latest-version-2021-22-free-download-for-android-mobile-apk-70a1d90d8bf6?source=rss------android-5)
-- [Free Android Video Editor Apps For 2021](https://shafiq-rehman193.medium.com/free-android-video-editor-apps-for-2021-1780aaf1b144?source=rss------android-5)
-- [Tv](https://deshingemayur.medium.com/tv-cb7a928c13ac?source=rss------android-5)
-- [The world best best one that includes on apps games movies and music app.](https://waqar-ali-bushoo.medium.com/the-world-best-best-one-that-includes-on-apps-games-movies-and-music-app-ea9a3586c021?source=rss------android-5)
-- [most popular operating system in 2021 / What is Operating System How the operating system works](https://technical-mbn.medium.com/most-popular-operating-system-in-2021-what-is-operating-system-how-the-operating-system-works-adb27b91f870?source=rss------android-5)
-- [Getting Started With Android Jetpack  — Series 1 Episode 2 (ViewModel)](https://medium.com/backyard-programmers/getting-started-with-android-jetpack-series-1-episode-2-viewmodel-4aedfb5cac44?source=rss------android-5)
+- [How I developed an Android Application and published it to the Google Play Store](https://adityasahu1511.medium.com/how-i-developed-an-android-application-and-published-it-to-the-google-play-store-751e213c6d6d?source=rss------android-5)
+- [Vocal And Music Separator And Audio Editor App Moises](https://shuvrabiswas.medium.com/vocal-and-music-separator-and-audio-editor-app-moises-5a2e8cc9af9a?source=rss------android-5)
+- [Android: Best practice for RecyclerView with HeaderView](https://khacpv.medium.com/android-best-practice-for-recyclerview-with-headerview-140bd4b10757?source=rss------android-5)
+- [10/04/2021 april 11 2021](https://ftybaoyq.medium.com/10-04-2021-april-11-2021-7745384241d1?source=rss------android-5)
+- [Restore Recycler View State](https://swatiomar09.medium.com/restore-recycler-view-state-2d5bb6a3eb6a?source=rss------android-5)
+- [Custom UI component NormalBold TextView style — Android — Kotlin](https://rrohaill.medium.com/custom-ui-component-normalbold-textview-style-android-kotlin-4612e4839c2?source=rss------android-5)
+- [5 steps to publishing your app to Play Store…](https://younocode.medium.com/5-steps-to-publishing-your-app-to-play-store-77ba614dcfba?source=rss------android-5)
+- [LG is one of the most prominent smartphone providers in India.](https://medium.com/@techienesshub/lg-is-one-of-the-most-prominent-smartphone-providers-in-india-fc637d13ed1a?source=rss------android-5)
+- [5 obvious signs that your phone has been hacked](https://m.2fas.com/5-obvious-signs-that-your-phone-has-been-hacked-da5bf898ad82?source=rss------android-5)
+- [Download Gcam apk for Redmi Note 10 pro(latest version)](https://gcamforandroid.medium.com/download-gcam-apk-for-redmi-note-10-pro-latest-version-a3a18554969e?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
