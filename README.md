@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do you really recommend using Jetpack Compose? Explain your reason.](https://www.reddit.com/r/androiddev/comments/moeboy/do_you_really_recommend_using_jetpack_compose/)
-- [I wanna create a nutrition planner app? But where do I get the nutrition and diet plans.](https://www.reddit.com/r/androiddev/comments/moeat6/i_wanna_create_a_nutrition_planner_app_but_where/)
-- [Convert Figma UI's to android XML?](https://www.reddit.com/r/androiddev/comments/mod8bx/convert_figma_uis_to_android_xml/)
-- [MVI: Safe ways to delegate render methods from Fragments](https://www.reddit.com/r/androiddev/comments/mobdtu/mvi_safe_ways_to_delegate_render_methods_from/)
-- [Is Java/Kotlin "native" on Android?](https://www.reddit.com/r/androiddev/comments/moadkw/is_javakotlin_native_on_android/)
-- [Just a question, why developers prefer to use in-app purchases only to monetize from their apps?](https://www.reddit.com/r/androiddev/comments/moa3iu/just_a_question_why_developers_prefer_to_use/)
-- [Survey about cross-platform development. Part of bachelor thesis, answers much appreciated.](https://www.reddit.com/r/androiddev/comments/mo9jux/survey_about_crossplatform_development_part_of/)
-- [Using View Model to call functions?](https://www.reddit.com/r/androiddev/comments/mo7ne3/using_view_model_to_call_functions/)
-- [Android Studio in a Virtual Box guest OS?](https://www.reddit.com/r/androiddev/comments/mo6mrn/android_studio_in_a_virtual_box_guest_os/)
-- [Can anyone guide me about object detection using OpenCV in Android ?](https://www.reddit.com/r/androiddev/comments/mo6gkp/can_anyone_guide_me_about_object_detection_using/)
+- [138 Uninstalls from Australia in one day](https://www.reddit.com/r/androiddev/comments/mp0j8o/138_uninstalls_from_australia_in_one_day/)
+- [M1 optimization for android studio](https://www.reddit.com/r/androiddev/comments/mp070l/m1_optimization_for_android_studio/)
+- [My app got a whole 10 downloads on the play store. Now what?](https://www.reddit.com/r/androiddev/comments/mozf96/my_app_got_a_whole_10_downloads_on_the_play_store/)
+- [IAP refund paid for by Google?](https://www.reddit.com/r/androiddev/comments/moxtg2/iap_refund_paid_for_by_google/)
+- [viewbinding in 4 minutes](https://www.reddit.com/r/androiddev/comments/mox35p/viewbinding_in_4_minutes/)
+- [Can someone help me with this?](https://www.reddit.com/r/androiddev/comments/mox0cj/can_someone_help_me_with_this/)
+- [Java, getIntent() / Firebase / App restarting / Help](https://www.reddit.com/r/androiddev/comments/mow2p3/java_getintent_firebase_app_restarting_help/)
+- [Improve your Gradle build times by only applying needed plugins](https://www.reddit.com/r/androiddev/comments/mou64n/improve_your_gradle_build_times_by_only_applying/)
+- [getExternalStoragePublicDirectory(String!): File!’ is deprecated. Deprecated](https://www.reddit.com/r/androiddev/comments/mosifv/getexternalstoragepublicdirectorystring_file_is/)
+- [One of my app has been miraculously disappeared from the playstore, play console shows that its still active !!](https://www.reddit.com/r/androiddev/comments/mos1ar/one_of_my_app_has_been_miraculously_disappeared/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
