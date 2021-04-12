@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [How I developed an Android Application and published it to the Google Play Store](https://adityasahu1511.medium.com/how-i-developed-an-android-application-and-published-it-to-the-google-play-store-751e213c6d6d?source=rss------android-5)
-- [Vocal And Music Separator And Audio Editor App Moises](https://shuvrabiswas.medium.com/vocal-and-music-separator-and-audio-editor-app-moises-5a2e8cc9af9a?source=rss------android-5)
-- [Android: Best practice for RecyclerView with HeaderView](https://khacpv.medium.com/android-best-practice-for-recyclerview-with-headerview-140bd4b10757?source=rss------android-5)
-- [10/04/2021 april 11 2021](https://ftybaoyq.medium.com/10-04-2021-april-11-2021-7745384241d1?source=rss------android-5)
-- [Restore Recycler View State](https://swatiomar09.medium.com/restore-recycler-view-state-2d5bb6a3eb6a?source=rss------android-5)
-- [Custom UI component NormalBold TextView style — Android — Kotlin](https://rrohaill.medium.com/custom-ui-component-normalbold-textview-style-android-kotlin-4612e4839c2?source=rss------android-5)
-- [5 steps to publishing your app to Play Store…](https://younocode.medium.com/5-steps-to-publishing-your-app-to-play-store-77ba614dcfba?source=rss------android-5)
-- [LG is one of the most prominent smartphone providers in India.](https://medium.com/@techienesshub/lg-is-one-of-the-most-prominent-smartphone-providers-in-india-fc637d13ed1a?source=rss------android-5)
-- [5 obvious signs that your phone has been hacked](https://m.2fas.com/5-obvious-signs-that-your-phone-has-been-hacked-da5bf898ad82?source=rss------android-5)
-- [Download Gcam apk for Redmi Note 10 pro(latest version)](https://gcamforandroid.medium.com/download-gcam-apk-for-redmi-note-10-pro-latest-version-a3a18554969e?source=rss------android-5)
+- [Actualiza tu HTC! Android 11 para todos-casi todos](https://htcstoremexico.medium.com/actualiza-tu-htc-android-11-para-todos-casi-todos-fe15f47ec7a8?source=rss------android-5)
+- [Colisiones en Android FileProvider, Una Solución Simple.](https://drummshot.medium.com/colisiones-en-android-fileprovider-una-soluci%C3%B3n-simple-edc17e96b0f2?source=rss------android-5)
+- [UPGRADE REACT NATIVE APP TO API LEVEL TO 29](https://fayyaztech.medium.com/upgrade-react-native-app-to-api-level-to-29-8c964c71ee2b?source=rss------android-5)
+- [Kotlin Simplified (Part -1 Basic syntax)](https://errorcrasher.medium.com/kotlin-simplified-part-1-basic-syntax-2d8fec9d7781?source=rss------android-5)
+- [Exploiting Android Activity “<activity android:exported=”true”>“](https://aupsham98.medium.com/exploiting-android-activity-activity-android-exported-true-93ffeb263682?source=rss------android-5)
+- [Download dbz shin budokai 7 file iso for psp](https://gamepech.medium.com/download-dbz-shin-budokai-7-file-iso-for-psp-6f0b4981456f?source=rss------android-5)
+- [GTA Chinatown Wars PSP Download — GTA Chinatown Wars PPSSPP ISO 500MB Free](https://gamepech.medium.com/gta-chinatown-wars-psp-download-gta-chinatown-wars-ppsspp-iso-500mb-free-30684c9d8a9e?source=rss------android-5)
+- [Improve your Gradle build times by disabling plugins](https://medium.com/dipien/improve-your-gradle-build-times-by-only-applying-needed-plugins-5cbe78319e17?source=rss------android-5)
+- [Managing Global textScaleFactor in Flutter](https://dishita-shah1714.medium.com/managing-global-textscalefactor-in-flutter-226ed1daa3b5?source=rss------android-5)
+- [Top Casual Game of 2021](https://chatorasant.medium.com/top-casual-game-of-2021-8fa92794245b?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
