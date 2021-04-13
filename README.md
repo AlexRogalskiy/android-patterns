@@ -256,6 +256,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
 - [Google wins Java dispute, Oracle remains defiant](https://www.infoworld.com/article/3614083/google-wins-java-dispute-oracle-remains-defiant.html#tk.rss_android)
 - [PinePhone: A Linux smartphone a developer could love](https://www.infoworld.com/article/3610602/pinephone-a-linux-smartphone-a-developer-could-love.html#tk.rss_android)
@@ -265,7 +266,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
 - [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
 - [Google’s UI toolkit for Android moves to alpha release](https://www.infoworld.com/article/3572565/googles-ui-toolkit-for-android-moves-to-alpha-release.html#tk.rss_android)
-- [Gradle 6.5 adds file system watching to improve build times](https://www.infoworld.com/article/3561572/gradle-65-adds-file-system-watching-to-improve-build-times.html#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _RedHat posts_
