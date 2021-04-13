@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Actualiza tu HTC! Android 11 para todos-casi todos](https://htcstoremexico.medium.com/actualiza-tu-htc-android-11-para-todos-casi-todos-fe15f47ec7a8?source=rss------android-5)
-- [Colisiones en Android FileProvider, Una Solución Simple.](https://drummshot.medium.com/colisiones-en-android-fileprovider-una-soluci%C3%B3n-simple-edc17e96b0f2?source=rss------android-5)
-- [UPGRADE REACT NATIVE APP TO API LEVEL TO 29](https://fayyaztech.medium.com/upgrade-react-native-app-to-api-level-to-29-8c964c71ee2b?source=rss------android-5)
-- [Kotlin Simplified (Part -1 Basic syntax)](https://errorcrasher.medium.com/kotlin-simplified-part-1-basic-syntax-2d8fec9d7781?source=rss------android-5)
-- [Exploiting Android Activity “<activity android:exported=”true”>“](https://aupsham98.medium.com/exploiting-android-activity-activity-android-exported-true-93ffeb263682?source=rss------android-5)
-- [Download dbz shin budokai 7 file iso for psp](https://gamepech.medium.com/download-dbz-shin-budokai-7-file-iso-for-psp-6f0b4981456f?source=rss------android-5)
-- [GTA Chinatown Wars PSP Download — GTA Chinatown Wars PPSSPP ISO 500MB Free](https://gamepech.medium.com/gta-chinatown-wars-psp-download-gta-chinatown-wars-ppsspp-iso-500mb-free-30684c9d8a9e?source=rss------android-5)
-- [Improve your Gradle build times by disabling plugins](https://medium.com/dipien/improve-your-gradle-build-times-by-only-applying-needed-plugins-5cbe78319e17?source=rss------android-5)
-- [Managing Global textScaleFactor in Flutter](https://dishita-shah1714.medium.com/managing-global-textscalefactor-in-flutter-226ed1daa3b5?source=rss------android-5)
-- [Top Casual Game of 2021](https://chatorasant.medium.com/top-casual-game-of-2021-8fa92794245b?source=rss------android-5)
+- [Implementing MVI on Android with Coroutines](https://fvilarino.medium.com/implementing-mvi-on-android-with-coroutines-7b747ef96870?source=rss------android-5)
+- [How To Transfer iPhone contacts to Android Phone using BizConnect?](https://bizconnect321.medium.com/how-to-transfer-iphone-contacts-to-android-phone-using-bizconnect-7bea6ccde168?source=rss------android-5)
+- [SharePoint Site Templates](https://regarding365.com/sharepoint-site-templates-1d18c9ad2562?source=rss------android-5)
+- [Dragon Ball Z Tag Team Anime Crossover download PPSSPP ISO Mod Android 2021](https://gamepech.medium.com/dragon-ball-z-tag-team-anime-crossover-download-ppsspp-iso-mod-android-2021-cc10ec999a95?source=rss------android-5)
+- [SpiderDAO iOS ve Android Uygulamalarına Göz Atın — Size yakın bir mağazaya geliyor](https://bkocabey.medium.com/spiderdao-ios-ve-android-uygulamalar%C4%B1na-g%C3%B6z-at%C4%B1n-size-yak%C4%B1n-bir-ma%C4%9Fazaya-geliyor-46b65d33f012?source=rss------android-5)
+- [Android draw Line Chart with Canvas](https://medium.com/gustavo-santorio/android-draw-line-chart-with-canvas-106120579d96?source=rss------android-5)
+- [MediaPipe Object Detection and Box Tracking](https://yogeshsangtani.medium.com/mediapipe-object-detection-and-box-tracking-82926abc50c2?source=rss------android-5)
+- [Troubleshooting Microsoft Teams Android based devices](https://medium.com/@graham_walsh/troubleshooting-microsoft-teams-android-based-devices-8f20bde5a075?source=rss------android-5)
+- [An App Developer’s Guide to Mobile System Design Interviews](https://betterprogramming.pub/an-app-developers-guide-to-mobile-system-design-interviews-74cd552bd963?source=rss------android-5)
+- [MediaStore Audio Album image Thumbnail](https://amitkumar-72131.medium.com/mediastore-audio-album-image-thumbnail-e2493e0373a8?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
