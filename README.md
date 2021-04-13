@@ -341,6 +341,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [ATT opt-in rates are irrelevant](https://mobiledevmemo.com/att-opt-in-rates-are-irrelevant/)
 - [Unpacking Tim Cook’s comments about ATT](https://mobiledevmemo.com/unpacking-tim-cooks-comments-about-att/)
 - [What is differential privacy in digital advertising?](https://mobiledevmemo.com/what-is-differential-privacy/)
 - [Dear App Developers: fingerprinting is not a viable workaround to ATT](https://mobiledevmemo.com/dear-app-developers-fingerprinting-is-not-a-viable-workaround-to-att/)
@@ -350,7 +351,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Is VR the bear case for Facebook?](https://mobiledevmemo.com/is-vr-ar-the-bear-case-for-facebook/)
 - [The privacy mirage](https://mobiledevmemo.com/the-privacy-mirage/)
 - [iOS 14, Privacy, and the Future of Digital Advertising](https://mobiledevmemo.com/ios-14-att-and-the-future-of-digital-advertising/)
-- [Podcast: The future of mobile attribution with Maor Sadra and Peter Hamilton](https://mobiledevmemo.com/podcast-the-future-of-mobile-attribution-with-maor-sadra-and-peter-hamilton/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
