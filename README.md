@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [138 Uninstalls from Australia in one day](https://www.reddit.com/r/androiddev/comments/mp0j8o/138_uninstalls_from_australia_in_one_day/)
-- [M1 optimization for android studio](https://www.reddit.com/r/androiddev/comments/mp070l/m1_optimization_for_android_studio/)
-- [My app got a whole 10 downloads on the play store. Now what?](https://www.reddit.com/r/androiddev/comments/mozf96/my_app_got_a_whole_10_downloads_on_the_play_store/)
-- [IAP refund paid for by Google?](https://www.reddit.com/r/androiddev/comments/moxtg2/iap_refund_paid_for_by_google/)
-- [viewbinding in 4 minutes](https://www.reddit.com/r/androiddev/comments/mox35p/viewbinding_in_4_minutes/)
-- [Can someone help me with this?](https://www.reddit.com/r/androiddev/comments/mox0cj/can_someone_help_me_with_this/)
-- [Java, getIntent() / Firebase / App restarting / Help](https://www.reddit.com/r/androiddev/comments/mow2p3/java_getintent_firebase_app_restarting_help/)
-- [Improve your Gradle build times by only applying needed plugins](https://www.reddit.com/r/androiddev/comments/mou64n/improve_your_gradle_build_times_by_only_applying/)
-- [getExternalStoragePublicDirectory(String!): File!’ is deprecated. Deprecated](https://www.reddit.com/r/androiddev/comments/mosifv/getexternalstoragepublicdirectorystring_file_is/)
-- [One of my app has been miraculously disappeared from the playstore, play console shows that its still active !!](https://www.reddit.com/r/androiddev/comments/mos1ar/one_of_my_app_has_been_miraculously_disappeared/)
+- [How Good Are Mobile App Development Titles ?](https://www.reddit.com/r/androiddev/comments/mpqwvx/how_good_are_mobile_app_development_titles/)
+- [Best way to deal with data type based on enum with Retrofit?](https://www.reddit.com/r/androiddev/comments/mpqfxd/best_way_to_deal_with_data_type_based_on_enum/)
+- [Possible to get Hacker's Keyboard modifiers to work like modifiers on a physical keyboard?](https://www.reddit.com/r/androiddev/comments/mppoz6/possible_to_get_hackers_keyboard_modifiers_to/)
+- [Another rejection after an otherwise splendid interview. What do I do?](https://www.reddit.com/r/androiddev/comments/mpnpkd/another_rejection_after_an_otherwise_splendid/)
+- [The Play Store's App Bundle requirement is a security problem. How do we mitigate it?](https://www.reddit.com/r/androiddev/comments/mpnl20/the_play_stores_app_bundle_requirement_is_a/)
+- [Using DataStore With Kotlin Serialization](https://www.reddit.com/r/androiddev/comments/mpnf31/using_datastore_with_kotlin_serialization/)
+- [Older Android Versions no longer working for app?](https://www.reddit.com/r/androiddev/comments/mpilze/older_android_versions_no_longer_working_for_app/)
+- [whats the best way to hide/show admob banner ad? so i have a game made in Unity. i want to display banner when the pause button is clicked and hide the banner if the resume button is clicked. do i need to call request banner every pause button click? and destroy it when resume?](https://www.reddit.com/r/androiddev/comments/mpia41/whats_the_best_way_to_hideshow_admob_banner_ad_so/)
+- [What I appreciate about Android Dev interviews: Very little whiteboarding.](https://www.reddit.com/r/androiddev/comments/mph4s8/what_i_appreciate_about_android_dev_interviews/)
+- [Could anyone view the sources of third-party libraries such as RxJava2 in AndroidStudio?](https://www.reddit.com/r/androiddev/comments/mpdtl0/could_anyone_view_the_sources_of_thirdparty/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
