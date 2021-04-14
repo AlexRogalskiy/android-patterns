@@ -326,6 +326,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Wow, Google, Show Us How You Really Feel About Wear OS](https://gizmodo.com/wow-google-show-us-how-you-really-feel-about-wear-os-1846674295)
+- [New Google Photos Video-Editing Features Finally Appearing on Android Phones](https://gizmodo.com/new-google-photos-video-editing-features-finally-appear-1846674527)
+- [This Is the Worst Smartwatch I've Ever Used](https://gizmodo.com/this-is-the-worst-smartwatch-ive-ever-used-1846652533)
 - [Google Will Shut Down the Google Shopping App for iOS and Android in a Few Weeks](https://gizmodo.com/google-will-shut-down-the-google-shopping-app-for-ios-a-1846662681)
 - [Google Has Canceled the Pixel 5a, Multiple Reports Claim [Update: The Pixel 5a Is Still Alive]](https://gizmodo.com/google-has-canceled-the-pixel-5a-multiple-reports-clai-1846651933)
 - [Google's April Software Update Just Gave the Pixel 5 and 4a 5G a Big Performance Boost](https://gizmodo.com/googles-april-software-update-just-gave-the-pixel-5-and-1846627652)
@@ -333,9 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google Is Cracking Down on Apps That Can See Every Other App You Have Installed](https://gizmodo.com/google-is-cracking-down-on-apps-that-can-see-every-othe-1846619251)
 - [Google Maps Is Adding Indoor Live View and 100+ Other Features](https://gizmodo.com/google-maps-is-adding-indoor-live-view-and-100-other-f-1846577782)
 - [T-Mobile Will Make Google Messages Its Default Messaging App for Android](https://gizmodo.com/t-mobile-will-make-google-messages-its-default-messagin-1846578155)
-- [Dangerous Android App Pretends to Be a System Update to Steal Your Data](https://gizmodo.com/dangerous-android-app-pretends-to-be-a-system-update-to-1846574044)
-- [17 Google Assistant Tricks You Might Not Know About](https://gizmodo.com/17-google-assistant-tricks-you-might-not-know-about-1846523906)
-- [Barnes & Noble's Nook Sidesteps the Grave Once Again With a New Lenovo-Built Tablet](https://gizmodo.com/barnes-nobles-nook-sidesteps-the-grave-once-again-wit-1846511475)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
