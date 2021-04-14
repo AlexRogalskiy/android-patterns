@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Implementing MVI on Android with Coroutines](https://fvilarino.medium.com/implementing-mvi-on-android-with-coroutines-7b747ef96870?source=rss------android-5)
-- [How To Transfer iPhone contacts to Android Phone using BizConnect?](https://bizconnect321.medium.com/how-to-transfer-iphone-contacts-to-android-phone-using-bizconnect-7bea6ccde168?source=rss------android-5)
-- [SharePoint Site Templates](https://regarding365.com/sharepoint-site-templates-1d18c9ad2562?source=rss------android-5)
-- [Dragon Ball Z Tag Team Anime Crossover download PPSSPP ISO Mod Android 2021](https://gamepech.medium.com/dragon-ball-z-tag-team-anime-crossover-download-ppsspp-iso-mod-android-2021-cc10ec999a95?source=rss------android-5)
-- [SpiderDAO iOS ve Android Uygulamalarına Göz Atın — Size yakın bir mağazaya geliyor](https://bkocabey.medium.com/spiderdao-ios-ve-android-uygulamalar%C4%B1na-g%C3%B6z-at%C4%B1n-size-yak%C4%B1n-bir-ma%C4%9Fazaya-geliyor-46b65d33f012?source=rss------android-5)
-- [Android draw Line Chart with Canvas](https://medium.com/gustavo-santorio/android-draw-line-chart-with-canvas-106120579d96?source=rss------android-5)
-- [MediaPipe Object Detection and Box Tracking](https://yogeshsangtani.medium.com/mediapipe-object-detection-and-box-tracking-82926abc50c2?source=rss------android-5)
-- [Troubleshooting Microsoft Teams Android based devices](https://medium.com/@graham_walsh/troubleshooting-microsoft-teams-android-based-devices-8f20bde5a075?source=rss------android-5)
-- [An App Developer’s Guide to Mobile System Design Interviews](https://betterprogramming.pub/an-app-developers-guide-to-mobile-system-design-interviews-74cd552bd963?source=rss------android-5)
-- [MediaStore Audio Album image Thumbnail](https://amitkumar-72131.medium.com/mediastore-audio-album-image-thumbnail-e2493e0373a8?source=rss------android-5)
+- [Simple Android GPS Tracker](https://bayuyanuargi.medium.com/simple-android-gps-tracker-836b15acab38?source=rss------android-5)
+- [Success Story of Deaf Sign Language App (ASL)](https://yousafkhokhar.medium.com/success-story-of-deaf-sign-language-app-asl-f2d97825d23e?source=rss------android-5)
+- [Do you want more assertions than one in your tests? Strikt comes to your rescue](https://simtop.medium.com/do-you-want-more-assertions-than-one-in-your-tests-strikt-comes-to-your-rescue-94743b995703?source=rss------android-5)
+- [The top five benefits of owning a OnePlus 9 Pro | OnePlus 9 Pro launch date](https://sk6446777.medium.com/the-top-five-benefits-of-owning-a-oneplus-9-pro-oneplus-9-pro-launch-date-621de94fa8?source=rss------android-5)
+- [Getting Frames of Live camera footage as Bitmaps in Android using Camera2 API Kotlin](https://hamzaasif-mobileml.medium.com/getting-frames-of-live-camera-footage-as-bitmaps-in-android-using-camera2-api-kotlin-40ba8d3afc76?source=rss------android-5)
+- [shet](https://medium.com/@binancecom2021/shet-224c1af95e46?source=rss------android-5)
+- [RecyclerView ile Dinamik Liste Oluşturma](https://kursatk52.medium.com/recyclerview-ile-dinamik-liste-olu%C5%9Fturma-c5a8ec596b4f?source=rss------android-5)
+- [The ultimate mind game](https://martaelenasmith.medium.com/the-ultimate-mind-game-f0b6a114f9d2?source=rss------android-5)
+- [The best Android home screen setup (no.195)](https://medium.com/@Kustome_bee/the-best-android-home-screen-setup-no-195-5cd58e21a5d7?source=rss------android-5)
+- [How to Clear Cache on Android](https://lilianada.medium.com/how-to-clear-cache-on-android-c19fbbafdd04?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
