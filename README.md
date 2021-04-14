@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How Good Are Mobile App Development Titles ?](https://www.reddit.com/r/androiddev/comments/mpqwvx/how_good_are_mobile_app_development_titles/)
-- [Best way to deal with data type based on enum with Retrofit?](https://www.reddit.com/r/androiddev/comments/mpqfxd/best_way_to_deal_with_data_type_based_on_enum/)
-- [Possible to get Hacker's Keyboard modifiers to work like modifiers on a physical keyboard?](https://www.reddit.com/r/androiddev/comments/mppoz6/possible_to_get_hackers_keyboard_modifiers_to/)
-- [Another rejection after an otherwise splendid interview. What do I do?](https://www.reddit.com/r/androiddev/comments/mpnpkd/another_rejection_after_an_otherwise_splendid/)
-- [The Play Store's App Bundle requirement is a security problem. How do we mitigate it?](https://www.reddit.com/r/androiddev/comments/mpnl20/the_play_stores_app_bundle_requirement_is_a/)
-- [Using DataStore With Kotlin Serialization](https://www.reddit.com/r/androiddev/comments/mpnf31/using_datastore_with_kotlin_serialization/)
-- [Older Android Versions no longer working for app?](https://www.reddit.com/r/androiddev/comments/mpilze/older_android_versions_no_longer_working_for_app/)
-- [whats the best way to hide/show admob banner ad? so i have a game made in Unity. i want to display banner when the pause button is clicked and hide the banner if the resume button is clicked. do i need to call request banner every pause button click? and destroy it when resume?](https://www.reddit.com/r/androiddev/comments/mpia41/whats_the_best_way_to_hideshow_admob_banner_ad_so/)
-- [What I appreciate about Android Dev interviews: Very little whiteboarding.](https://www.reddit.com/r/androiddev/comments/mph4s8/what_i_appreciate_about_android_dev_interviews/)
-- [Could anyone view the sources of third-party libraries such as RxJava2 in AndroidStudio?](https://www.reddit.com/r/androiddev/comments/mpdtl0/could_anyone_view_the_sources_of_thirdparty/)
+- [Does interstitial ads cause uninstalls?](https://www.reddit.com/r/androiddev/comments/mqg980/does_interstitial_ads_cause_uninstalls/)
+- [Question:](https://www.reddit.com/r/androiddev/comments/mqfmyo/question/)
+- [Vertical seekbar for android](https://www.reddit.com/r/androiddev/comments/mqejwg/vertical_seekbar_for_android/)
+- [fetching data for google knowledge panel](https://www.reddit.com/r/androiddev/comments/mqe1xs/fetching_data_for_google_knowledge_panel/)
+- [Appealing an Admob policy violation for sexual content](https://www.reddit.com/r/androiddev/comments/mqaqiy/appealing_an_admob_policy_violation_for_sexual/)
+- [Where do you or where did you start?](https://www.reddit.com/r/androiddev/comments/mq9xzu/where_do_you_or_where_did_you_start/)
+- [Side-project puts GUIs and 3D scenes directly on your device with no code compilation](https://www.reddit.com/r/androiddev/comments/mq9fcq/sideproject_puts_guis_and_3d_scenes_directly_on/)
+- [Building Virtual Test Environment (Android Emulator) with Play Store Access](https://www.reddit.com/r/androiddev/comments/mq96p7/building_virtual_test_environment_android/)
+- [Need some suggestions choosing database](https://www.reddit.com/r/androiddev/comments/mq96oy/need_some_suggestions_choosing_database/)
+- [The "backend" part of building own application](https://www.reddit.com/r/androiddev/comments/mq8luf/the_backend_part_of_building_own_application/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
