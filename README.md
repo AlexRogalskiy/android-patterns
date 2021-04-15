@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does interstitial ads cause uninstalls?](https://www.reddit.com/r/androiddev/comments/mqg980/does_interstitial_ads_cause_uninstalls/)
-- [Question:](https://www.reddit.com/r/androiddev/comments/mqfmyo/question/)
-- [Vertical seekbar for android](https://www.reddit.com/r/androiddev/comments/mqejwg/vertical_seekbar_for_android/)
-- [fetching data for google knowledge panel](https://www.reddit.com/r/androiddev/comments/mqe1xs/fetching_data_for_google_knowledge_panel/)
-- [Appealing an Admob policy violation for sexual content](https://www.reddit.com/r/androiddev/comments/mqaqiy/appealing_an_admob_policy_violation_for_sexual/)
-- [Where do you or where did you start?](https://www.reddit.com/r/androiddev/comments/mq9xzu/where_do_you_or_where_did_you_start/)
-- [Side-project puts GUIs and 3D scenes directly on your device with no code compilation](https://www.reddit.com/r/androiddev/comments/mq9fcq/sideproject_puts_guis_and_3d_scenes_directly_on/)
-- [Building Virtual Test Environment (Android Emulator) with Play Store Access](https://www.reddit.com/r/androiddev/comments/mq96p7/building_virtual_test_environment_android/)
-- [Need some suggestions choosing database](https://www.reddit.com/r/androiddev/comments/mq96oy/need_some_suggestions_choosing_database/)
-- [The "backend" part of building own application](https://www.reddit.com/r/androiddev/comments/mq8luf/the_backend_part_of_building_own_application/)
+- [Academic Survey on Parameters in Android Apps](https://www.reddit.com/r/androiddev/comments/mqztex/academic_survey_on_parameters_in_android_apps/)
+- [Ominous Scoped Storage warning messages](https://www.reddit.com/r/androiddev/comments/mqzls8/ominous_scoped_storage_warning_messages/)
+- [Is it possible to make an app with only one admin user, myself ?](https://www.reddit.com/r/androiddev/comments/mqzb2r/is_it_possible_to_make_an_app_with_only_one_admin/)
+- [How does your team handle release builds from CI/CD?](https://www.reddit.com/r/androiddev/comments/mqyhfo/how_does_your_team_handle_release_builds_from_cicd/)
+- [What is the best way to test app + backend interactions?](https://www.reddit.com/r/androiddev/comments/mqxotx/what_is_the_best_way_to_test_app_backend/)
+- [real-time sample android app code challenges, rapid-prototyping interviews ?](https://www.reddit.com/r/androiddev/comments/mqvp4l/realtime_sample_android_app_code_challenges/)
+- [How to navigate upstream navigation graphs?](https://www.reddit.com/r/androiddev/comments/mqvkjy/how_to_navigate_upstream_navigation_graphs/)
+- [What is wrong with MVVM?](https://www.reddit.com/r/androiddev/comments/mqusw7/what_is_wrong_with_mvvm/)
+- [For those with admob on their apps which recently verified. how many days before you received your pin for address verification ?](https://www.reddit.com/r/androiddev/comments/mqtvwr/for_those_with_admob_on_their_apps_which_recently/)
+- [How to rename package name in Android Studio || Rename package name andr...](https://www.reddit.com/r/androiddev/comments/mqt00a/how_to_rename_package_name_in_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
