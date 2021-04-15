@@ -325,6 +325,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Assistant Just Got a Useful Update With Four Helpful Features](https://gizmodo.com/google-assistant-just-got-a-useful-update-with-four-hel-1846681958)
 - [Wow, Google, Show Us How You Really Feel About Wear OS](https://gizmodo.com/wow-google-show-us-how-you-really-feel-about-wear-os-1846674295)
 - [New Google Photos Video-Editing Features Finally Appearing on Android Phones](https://gizmodo.com/new-google-photos-video-editing-features-finally-appear-1846674527)
 - [This Is the Worst Smartwatch I've Ever Used](https://gizmodo.com/this-is-the-worst-smartwatch-ive-ever-used-1846652533)
@@ -334,7 +335,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Supreme Court Sides With Google in Historic API Copyright Fight Against Oracle](https://gizmodo.com/supreme-courts-sides-with-google-in-historic-api-copyri-1846618603)
 - [Google Is Cracking Down on Apps That Can See Every Other App You Have Installed](https://gizmodo.com/google-is-cracking-down-on-apps-that-can-see-every-othe-1846619251)
 - [Google Maps Is Adding Indoor Live View and 100+ Other Features](https://gizmodo.com/google-maps-is-adding-indoor-live-view-and-100-other-f-1846577782)
-- [T-Mobile Will Make Google Messages Its Default Messaging App for Android](https://gizmodo.com/t-mobile-will-make-google-messages-its-default-messagin-1846578155)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
