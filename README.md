@@ -311,16 +311,15 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Simple Android GPS Tracker](https://bayuyanuargi.medium.com/simple-android-gps-tracker-836b15acab38?source=rss------android-5)
-- [Success Story of Deaf Sign Language App (ASL)](https://yousafkhokhar.medium.com/success-story-of-deaf-sign-language-app-asl-f2d97825d23e?source=rss------android-5)
-- [Do you want more assertions than one in your tests? Strikt comes to your rescue](https://simtop.medium.com/do-you-want-more-assertions-than-one-in-your-tests-strikt-comes-to-your-rescue-94743b995703?source=rss------android-5)
-- [The top five benefits of owning a OnePlus 9 Pro | OnePlus 9 Pro launch date](https://sk6446777.medium.com/the-top-five-benefits-of-owning-a-oneplus-9-pro-oneplus-9-pro-launch-date-621de94fa8?source=rss------android-5)
-- [Getting Frames of Live camera footage as Bitmaps in Android using Camera2 API Kotlin](https://hamzaasif-mobileml.medium.com/getting-frames-of-live-camera-footage-as-bitmaps-in-android-using-camera2-api-kotlin-40ba8d3afc76?source=rss------android-5)
-- [shet](https://medium.com/@binancecom2021/shet-224c1af95e46?source=rss------android-5)
-- [RecyclerView ile Dinamik Liste Oluşturma](https://kursatk52.medium.com/recyclerview-ile-dinamik-liste-olu%C5%9Fturma-c5a8ec596b4f?source=rss------android-5)
-- [The ultimate mind game](https://martaelenasmith.medium.com/the-ultimate-mind-game-f0b6a114f9d2?source=rss------android-5)
-- [The best Android home screen setup (no.195)](https://medium.com/@Kustome_bee/the-best-android-home-screen-setup-no-195-5cd58e21a5d7?source=rss------android-5)
-- [How to Clear Cache on Android](https://lilianada.medium.com/how-to-clear-cache-on-android-c19fbbafdd04?source=rss------android-5)
+- [ClubHouse — open to everyone](https://zpmirov.medium.com/clubhouse-open-to-everyone-55c1f9712cfd?source=rss------android-5)
+- [Tampilan Baru Ponsep Ponsel Hybrid TCL, Dapat Digulung Dan Dilipat](https://maucariapadotcom.medium.com/tampilan-baru-ponsep-ponsel-hybrid-tcl-dapat-digulung-dan-dilipat-214030a63330?source=rss------android-5)
+- [Advantages of React Native](https://durenajafamjad321.medium.com/advantages-of-react-native-9146c7811a28?source=rss------android-5)
+- [The Google Photos Android App now has a new and improved video editor feature | Google Photos app…](https://sk6446777.medium.com/the-google-photos-android-app-now-has-a-new-and-improved-video-editor-feature-google-photos-app-31bc86e09636?source=rss------android-5)
+- [Expo SDK 41](https://blog.expo.io/expo-sdk-41-12cc5232f2ef?source=rss------android-5)
+- [Dark Theme Dev @ Wynk | Wynk Android Stories](https://medium.com/wynk/dark-theme-dev-wynk-wynk-android-stories-38cb3606259b?source=rss------android-5)
+- [Our way of migrating from RxJava to Kotlin Coroutines](https://stefma.medium.com/our-way-of-migrating-from-rxjava-to-kotlin-coroutines-edbb648e6277?source=rss------android-5)
+- [How to setup Firebase with Flutter(Android + SHA1) project for complete beginners 2021](https://nayanjagtap007.medium.com/how-to-setup-firebase-with-flutter-android-sha1-project-for-complete-beginners-2021-84d4c3be4d80?source=rss------android-5)
+- [Android Runtime — How Dalvik and ART work?](https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
