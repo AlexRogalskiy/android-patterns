@@ -311,15 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [ClubHouse — open to everyone](https://zpmirov.medium.com/clubhouse-open-to-everyone-55c1f9712cfd?source=rss------android-5)
-- [Tampilan Baru Ponsep Ponsel Hybrid TCL, Dapat Digulung Dan Dilipat](https://maucariapadotcom.medium.com/tampilan-baru-ponsep-ponsel-hybrid-tcl-dapat-digulung-dan-dilipat-214030a63330?source=rss------android-5)
-- [Advantages of React Native](https://durenajafamjad321.medium.com/advantages-of-react-native-9146c7811a28?source=rss------android-5)
-- [The Google Photos Android App now has a new and improved video editor feature | Google Photos app…](https://sk6446777.medium.com/the-google-photos-android-app-now-has-a-new-and-improved-video-editor-feature-google-photos-app-31bc86e09636?source=rss------android-5)
-- [Expo SDK 41](https://blog.expo.io/expo-sdk-41-12cc5232f2ef?source=rss------android-5)
-- [Dark Theme Dev @ Wynk | Wynk Android Stories](https://medium.com/wynk/dark-theme-dev-wynk-wynk-android-stories-38cb3606259b?source=rss------android-5)
-- [Our way of migrating from RxJava to Kotlin Coroutines](https://stefma.medium.com/our-way-of-migrating-from-rxjava-to-kotlin-coroutines-edbb648e6277?source=rss------android-5)
-- [How to setup Firebase with Flutter(Android + SHA1) project for complete beginners 2021](https://nayanjagtap007.medium.com/how-to-setup-firebase-with-flutter-android-sha1-project-for-complete-beginners-2021-84d4c3be4d80?source=rss------android-5)
-- [Android Runtime — How Dalvik and ART work?](https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5?source=rss------android-5)
+- [Cómo hacer Quickapps sin ninguna habilidad de codificación …](https://huawei-latinoamerica.medium.com/c%C3%B3mo-hacer-quickapps-sin-ninguna-habilidad-de-codificaci%C3%B3n-1c73133ec211?source=rss------android-5)
+- [Android Bottom Sheet —  How to use it in practice](https://medium.com/codex/android-bottom-sheet-how-to-use-it-in-practice-c1e8f110d624?source=rss------android-5)
+- [Mobil uygulamanız kusursuz müşteri deneyimi için hazır mı?](https://wiseback.medium.com/mobil-uygulaman%C4%B1z-kusursuz-m%C3%BC%C5%9Fteri-deneyimi-i%C3%A7in-haz%C4%B1r-m%C4%B1-d3de81268fd2?source=rss------android-5)
+- [JOIN ILLUMINATI](https://gregt4180.medium.com/join-illuminati-b7b68640008c?source=rss------android-5)
+- [Why did Xiaomi abandon it? Cheap Mibro Air Smartwatch Review](https://isroexpress.medium.com/why-did-xiaomi-abandon-it-cheap-mibro-air-smartwatch-review-7e70f8474e0e?source=rss------android-5)
+- [Top 5 Guessed features for the iPhone 14: 48MP principle camera, new focal point and more](https://medium.com/@newsvillepost/top-5-guessed-features-for-the-iphone-14-48mp-principle-camera-new-focal-point-and-more-b253c9939712?source=rss------android-5)
+- [[Actualización 2021] La venta de chalet en Azuqueca de Henares en 2021 es tendencia](https://medium.com/@fvv.esoficial/actualizaci%C3%B3n-2021-la-venta-de-chalet-en-azuqueca-de-henares-en-2021-es-tendencia-74e9b8610538?source=rss------android-5)
+- [El ‘Rincón de la Espe’, paz interior y personalidad en el corazón de la Nueva Sierra](https://medium.com/@g-web/el-rinc%C3%B3n-de-la-espe-paz-interior-y-personalidad-en-el-coraz%C3%B3n-de-la-nueva-sierra-df75832982f7?source=rss------android-5)
+- [No Way, Google: Build Your Own Wake Word Service on Android](https://medium.com/picovoice/no-way-google-build-your-own-wake-word-service-on-android-339a0189ff4c?source=rss------android-5)
+- [Desenvolvedor(a) Android: Um guia prático para se tornar — Parte 1](https://medium.com/aline-souza/desenvolvedor-a-android-um-guia-pr%C3%A1tico-para-se-tornar-parte-1-6dfb762ee98e?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
