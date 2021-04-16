@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Academic Survey on Parameters in Android Apps](https://www.reddit.com/r/androiddev/comments/mqztex/academic_survey_on_parameters_in_android_apps/)
-- [Ominous Scoped Storage warning messages](https://www.reddit.com/r/androiddev/comments/mqzls8/ominous_scoped_storage_warning_messages/)
-- [Is it possible to make an app with only one admin user, myself ?](https://www.reddit.com/r/androiddev/comments/mqzb2r/is_it_possible_to_make_an_app_with_only_one_admin/)
-- [How does your team handle release builds from CI/CD?](https://www.reddit.com/r/androiddev/comments/mqyhfo/how_does_your_team_handle_release_builds_from_cicd/)
-- [What is the best way to test app + backend interactions?](https://www.reddit.com/r/androiddev/comments/mqxotx/what_is_the_best_way_to_test_app_backend/)
-- [real-time sample android app code challenges, rapid-prototyping interviews ?](https://www.reddit.com/r/androiddev/comments/mqvp4l/realtime_sample_android_app_code_challenges/)
-- [How to navigate upstream navigation graphs?](https://www.reddit.com/r/androiddev/comments/mqvkjy/how_to_navigate_upstream_navigation_graphs/)
-- [What is wrong with MVVM?](https://www.reddit.com/r/androiddev/comments/mqusw7/what_is_wrong_with_mvvm/)
-- [For those with admob on their apps which recently verified. how many days before you received your pin for address verification ?](https://www.reddit.com/r/androiddev/comments/mqtvwr/for_those_with_admob_on_their_apps_which_recently/)
-- [How to rename package name in Android Studio || Rename package name andr...](https://www.reddit.com/r/androiddev/comments/mqt00a/how_to_rename_package_name_in_android_studio/)
+- [Google Play Console - Submission times](https://www.reddit.com/r/androiddev/comments/mrsgdw/google_play_console_submission_times/)
+- [Got an interview for an android dev intern position while I only have IOS experience](https://www.reddit.com/r/androiddev/comments/mrry6g/got_an_interview_for_an_android_dev_intern/)
+- [How is the built-in default browser function/feature called ?](https://www.reddit.com/r/androiddev/comments/mrru2i/how_is_the_builtin_default_browser/)
+- [What we do in the shadows – Alec Strong](https://www.reddit.com/r/androiddev/comments/mrrhge/what_we_do_in_the_shadows_alec_strong/)
+- [Anyone else who had no experience with declarative UI and is having a bad time trying to "get" Compose?](https://www.reddit.com/r/androiddev/comments/mrraew/anyone_else_who_had_no_experience_with/)
+- [Is anyone using Compose-only navigation?](https://www.reddit.com/r/androiddev/comments/mrotjv/is_anyone_using_composeonly_navigation/)
+- [Learning Partner](https://www.reddit.com/r/androiddev/comments/mron7k/learning_partner/)
+- [How Spyic and other spy apps access whatsapp messages when the messages are encrypted and impossible to decrypt without the key? Moreover, we can't obtain the key without rooting the device.](https://www.reddit.com/r/androiddev/comments/mrojxb/how_spyic_and_other_spy_apps_access_whatsapp/)
+- [Scalable Database for private/commercial use](https://www.reddit.com/r/androiddev/comments/mrm3fu/scalable_database_for_privatecommercial_use/)
+- [Am I able to make an app with this functionality](https://www.reddit.com/r/androiddev/comments/mrkmu0/am_i_able_to_make_an_app_with_this_functionality/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
