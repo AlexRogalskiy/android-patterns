@@ -326,6 +326,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Misled Android Users About Location Data, Australian Court Finds](https://gizmodo.com/google-misled-android-users-about-location-data-austra-1846699135)
 - [Google Assistant Just Got a Useful Update With Four Helpful Features](https://gizmodo.com/google-assistant-just-got-a-useful-update-with-four-hel-1846681958)
 - [Wow, Google, Show Us How You Really Feel About Wear OS](https://gizmodo.com/wow-google-show-us-how-you-really-feel-about-wear-os-1846674295)
 - [New Google Photos Video-Editing Features Finally Appearing on Android Phones](https://gizmodo.com/new-google-photos-video-editing-features-finally-appear-1846674527)
@@ -335,7 +336,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google's April Software Update Just Gave the Pixel 5 and 4a 5G a Big Performance Boost](https://gizmodo.com/googles-april-software-update-just-gave-the-pixel-5-and-1846627652)
 - [Supreme Court Sides With Google in Historic API Copyright Fight Against Oracle](https://gizmodo.com/supreme-courts-sides-with-google-in-historic-api-copyri-1846618603)
 - [Google Is Cracking Down on Apps That Can See Every Other App You Have Installed](https://gizmodo.com/google-is-cracking-down-on-apps-that-can-see-every-othe-1846619251)
-- [Google Maps Is Adding Indoor Live View and 100+ Other Features](https://gizmodo.com/google-maps-is-adding-indoor-live-view-and-100-other-f-1846577782)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
