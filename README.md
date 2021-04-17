@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Cómo hacer Quickapps sin ninguna habilidad de codificación …](https://huawei-latinoamerica.medium.com/c%C3%B3mo-hacer-quickapps-sin-ninguna-habilidad-de-codificaci%C3%B3n-1c73133ec211?source=rss------android-5)
-- [Android Bottom Sheet —  How to use it in practice](https://medium.com/codex/android-bottom-sheet-how-to-use-it-in-practice-c1e8f110d624?source=rss------android-5)
-- [Mobil uygulamanız kusursuz müşteri deneyimi için hazır mı?](https://wiseback.medium.com/mobil-uygulaman%C4%B1z-kusursuz-m%C3%BC%C5%9Fteri-deneyimi-i%C3%A7in-haz%C4%B1r-m%C4%B1-d3de81268fd2?source=rss------android-5)
-- [JOIN ILLUMINATI](https://gregt4180.medium.com/join-illuminati-b7b68640008c?source=rss------android-5)
-- [Why did Xiaomi abandon it? Cheap Mibro Air Smartwatch Review](https://isroexpress.medium.com/why-did-xiaomi-abandon-it-cheap-mibro-air-smartwatch-review-7e70f8474e0e?source=rss------android-5)
-- [Top 5 Guessed features for the iPhone 14: 48MP principle camera, new focal point and more](https://medium.com/@newsvillepost/top-5-guessed-features-for-the-iphone-14-48mp-principle-camera-new-focal-point-and-more-b253c9939712?source=rss------android-5)
-- [[Actualización 2021] La venta de chalet en Azuqueca de Henares en 2021 es tendencia](https://medium.com/@fvv.esoficial/actualizaci%C3%B3n-2021-la-venta-de-chalet-en-azuqueca-de-henares-en-2021-es-tendencia-74e9b8610538?source=rss------android-5)
-- [El ‘Rincón de la Espe’, paz interior y personalidad en el corazón de la Nueva Sierra](https://medium.com/@g-web/el-rinc%C3%B3n-de-la-espe-paz-interior-y-personalidad-en-el-coraz%C3%B3n-de-la-nueva-sierra-df75832982f7?source=rss------android-5)
-- [No Way, Google: Build Your Own Wake Word Service on Android](https://medium.com/picovoice/no-way-google-build-your-own-wake-word-service-on-android-339a0189ff4c?source=rss------android-5)
-- [Desenvolvedor(a) Android: Um guia prático para se tornar — Parte 1](https://medium.com/aline-souza/desenvolvedor-a-android-um-guia-pr%C3%A1tico-para-se-tornar-parte-1-6dfb762ee98e?source=rss------android-5)
+- [Create Custom Dialogs With DialogFragment in Android](https://medium.com/codex/create-custom-dialogs-with-dialogfragment-in-android-5cf39c5ccb72?source=rss------android-5)
+- [Layouts | Android](https://wolvesmobile.medium.com/layouts-android-bb756f8b526c?source=rss------android-5)
+- [The problem: A particular code block where we were reading from the database was accessed by 2…](https://vplusplus.medium.com/the-problem-a-particular-code-block-where-we-were-reading-from-the-database-was-accessed-by-2-d24d0ea01003?source=rss------android-5)
+- [Android 20 Best Apps On Google Play in 2021](https://durraniii393.medium.com/android-20-best-apps-on-google-play-in-2021-159b400ecfa?source=rss------android-5)
+- [How to Implement Machine Learning in android application using TFlite](https://vishalvis02.medium.com/how-to-implement-machine-learning-in-android-application-using-tflite-7f1f3e34251e?source=rss------android-5)
+- [Jenkins + Fastlane + Android](https://jakevin.medium.com/jenkins-fastlane-android-3fa9a2ce52c7?source=rss------android-5)
+- [Cómo un programador desarrolló una útil aplicación de viajes para su novia](https://medium.com/huawei-developers-latinoam%C3%A9rica/c%C3%B3mo-un-programador-desarroll%C3%B3-una-%C3%BAtil-aplicaci%C3%B3n-de-viajes-para-su-novia-741abda867c5?source=rss------android-5)
+- [加入背景音樂與按鍵音 — Android](https://medium.com/%E7%A8%8B%E7%99%AE%E5%AF%A6%E9%A9%97%E5%AE%A4/%E5%8A%A0%E5%85%A5%E8%83%8C%E6%99%AF%E9%9F%B3%E6%A8%82%E8%88%87%E6%8C%89%E9%8D%B5%E9%9F%B3-android-2d3ce74015c7?source=rss------android-5)
+- [ViewBinding | Android](https://wolvesmobile.medium.com/viewbinding-android-342ecc52c077?source=rss------android-5)
+- [Samsung M51Mobile Data OR Internet Not Working Not Connecting Problem Solved](https://akayhelp.medium.com/samsung-m51mobile-data-or-internet-not-working-not-connecting-problem-solved-3491ffca30fc?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
