@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play Console - Submission times](https://www.reddit.com/r/androiddev/comments/mrsgdw/google_play_console_submission_times/)
-- [Got an interview for an android dev intern position while I only have IOS experience](https://www.reddit.com/r/androiddev/comments/mrry6g/got_an_interview_for_an_android_dev_intern/)
-- [How is the built-in default browser function/feature called ?](https://www.reddit.com/r/androiddev/comments/mrru2i/how_is_the_builtin_default_browser/)
-- [What we do in the shadows – Alec Strong](https://www.reddit.com/r/androiddev/comments/mrrhge/what_we_do_in_the_shadows_alec_strong/)
-- [Anyone else who had no experience with declarative UI and is having a bad time trying to "get" Compose?](https://www.reddit.com/r/androiddev/comments/mrraew/anyone_else_who_had_no_experience_with/)
-- [Is anyone using Compose-only navigation?](https://www.reddit.com/r/androiddev/comments/mrotjv/is_anyone_using_composeonly_navigation/)
-- [Learning Partner](https://www.reddit.com/r/androiddev/comments/mron7k/learning_partner/)
-- [How Spyic and other spy apps access whatsapp messages when the messages are encrypted and impossible to decrypt without the key? Moreover, we can't obtain the key without rooting the device.](https://www.reddit.com/r/androiddev/comments/mrojxb/how_spyic_and_other_spy_apps_access_whatsapp/)
-- [Scalable Database for private/commercial use](https://www.reddit.com/r/androiddev/comments/mrm3fu/scalable_database_for_privatecommercial_use/)
-- [Am I able to make an app with this functionality](https://www.reddit.com/r/androiddev/comments/mrkmu0/am_i_able_to_make_an_app_with_this_functionality/)
+- [Kivy for develop an app (and Buildozer)](https://www.reddit.com/r/androiddev/comments/msg24f/kivy_for_develop_an_app_and_buildozer/)
+- [Can I sell monthly subscription via in app purchases in all countries available on Google Play?](https://www.reddit.com/r/androiddev/comments/msek6c/can_i_sell_monthly_subscription_via_in_app/)
+- [Best resource(s) for learning how to modify and rebuild an APK?](https://www.reddit.com/r/androiddev/comments/msdphw/best_resources_for_learning_how_to_modify_and/)
+- [Writing An Integration Test With Jetpack Compose and Dagger Hilt](https://www.reddit.com/r/androiddev/comments/msdju1/writing_an_integration_test_with_jetpack_compose/)
+- [As a user, is it possible for me to grant an old app access to manage and view all files via ADB?](https://www.reddit.com/r/androiddev/comments/mscu80/as_a_user_is_it_possible_for_me_to_grant_an_old/)
+- [Has anyone figured out yet if the warning about scoped storage for people targeting API 29 is a mistake?](https://www.reddit.com/r/androiddev/comments/msb3bl/has_anyone_figured_out_yet_if_the_warning_about/)
+- [Camera permission not needed, help with information](https://www.reddit.com/r/androiddev/comments/ms9fk7/camera_permission_not_needed_help_with_information/)
+- [Realme 6 (rmx2001) stuck on "fastboot_unlock_verify ok" screen.](https://www.reddit.com/r/androiddev/comments/ms9aav/realme_6_rmx2001_stuck_on_fastboot_unlock_verify/)
+- [What's up with seemingly every 'beginner' course/tutorial skipping over so much stuff?](https://www.reddit.com/r/androiddev/comments/ms96sp/whats_up_with_seemingly_every_beginner/)
+- [(Unofficial) Android Studio Arctic Fox Canary 14 for Apple Silicon (M1) Patch 1 Released!](https://www.reddit.com/r/androiddev/comments/ms85m1/unofficial_android_studio_arctic_fox_canary_14/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
