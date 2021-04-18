@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kivy for develop an app (and Buildozer)](https://www.reddit.com/r/androiddev/comments/msg24f/kivy_for_develop_an_app_and_buildozer/)
-- [Can I sell monthly subscription via in app purchases in all countries available on Google Play?](https://www.reddit.com/r/androiddev/comments/msek6c/can_i_sell_monthly_subscription_via_in_app/)
-- [Best resource(s) for learning how to modify and rebuild an APK?](https://www.reddit.com/r/androiddev/comments/msdphw/best_resources_for_learning_how_to_modify_and/)
-- [Writing An Integration Test With Jetpack Compose and Dagger Hilt](https://www.reddit.com/r/androiddev/comments/msdju1/writing_an_integration_test_with_jetpack_compose/)
-- [As a user, is it possible for me to grant an old app access to manage and view all files via ADB?](https://www.reddit.com/r/androiddev/comments/mscu80/as_a_user_is_it_possible_for_me_to_grant_an_old/)
-- [Has anyone figured out yet if the warning about scoped storage for people targeting API 29 is a mistake?](https://www.reddit.com/r/androiddev/comments/msb3bl/has_anyone_figured_out_yet_if_the_warning_about/)
-- [Camera permission not needed, help with information](https://www.reddit.com/r/androiddev/comments/ms9fk7/camera_permission_not_needed_help_with_information/)
-- [Realme 6 (rmx2001) stuck on "fastboot_unlock_verify ok" screen.](https://www.reddit.com/r/androiddev/comments/ms9aav/realme_6_rmx2001_stuck_on_fastboot_unlock_verify/)
-- [What's up with seemingly every 'beginner' course/tutorial skipping over so much stuff?](https://www.reddit.com/r/androiddev/comments/ms96sp/whats_up_with_seemingly_every_beginner/)
-- [(Unofficial) Android Studio Arctic Fox Canary 14 for Apple Silicon (M1) Patch 1 Released!](https://www.reddit.com/r/androiddev/comments/ms85m1/unofficial_android_studio_arctic_fox_canary_14/)
+- [App icon won't update in Andriod Studio](https://www.reddit.com/r/androiddev/comments/mt2rfd/app_icon_wont_update_in_andriod_studio/)
+- [Little question about ROOM](https://www.reddit.com/r/androiddev/comments/mt2ego/little_question_about_room/)
+- [What’s the best tablet? That has great transitions and feedback? I’m getting started with Flutter... but under 300?](https://www.reddit.com/r/androiddev/comments/mt1px7/whats_the_best_tablet_that_has_great_transitions/)
+- [Tracking data with Accessibility Service](https://www.reddit.com/r/androiddev/comments/mt1jah/tracking_data_with_accessibility_service/)
+- [Web scraping in real time](https://www.reddit.com/r/androiddev/comments/mswuq6/web_scraping_in_real_time/)
+- [74 days passed and AdMob still limited the ad serving in my account, what should I do?](https://www.reddit.com/r/androiddev/comments/mswukv/74_days_passed_and_admob_still_limited_the_ad/)
+- [Are there any frameworks that are useful for establishing architecture ie MVVM in Android Studio?](https://www.reddit.com/r/androiddev/comments/msva1v/are_there_any_frameworks_that_are_useful_for/)
+- [Why does my project structure look different than everyone else's in Android Studio?](https://www.reddit.com/r/androiddev/comments/msuzro/why_does_my_project_structure_look_different_than/)
+- [Another shout of frustration from the Google apps review process](https://www.reddit.com/r/androiddev/comments/msu3wc/another_shout_of_frustration_from_the_google_apps/)
+- [Can't find the plugin: "Plugin "Google Sceneform Tools (Beta)" is incompatible (supported only in IntelliJ IDEA)"](https://www.reddit.com/r/androiddev/comments/mstm5e/cant_find_the_plugin_plugin_google_sceneform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
