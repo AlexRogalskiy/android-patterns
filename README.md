@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Create Custom Dialogs With DialogFragment in Android](https://medium.com/codex/create-custom-dialogs-with-dialogfragment-in-android-5cf39c5ccb72?source=rss------android-5)
-- [Layouts | Android](https://wolvesmobile.medium.com/layouts-android-bb756f8b526c?source=rss------android-5)
-- [The problem: A particular code block where we were reading from the database was accessed by 2…](https://vplusplus.medium.com/the-problem-a-particular-code-block-where-we-were-reading-from-the-database-was-accessed-by-2-d24d0ea01003?source=rss------android-5)
-- [Android 20 Best Apps On Google Play in 2021](https://durraniii393.medium.com/android-20-best-apps-on-google-play-in-2021-159b400ecfa?source=rss------android-5)
-- [How to Implement Machine Learning in android application using TFlite](https://vishalvis02.medium.com/how-to-implement-machine-learning-in-android-application-using-tflite-7f1f3e34251e?source=rss------android-5)
-- [Jenkins + Fastlane + Android](https://jakevin.medium.com/jenkins-fastlane-android-3fa9a2ce52c7?source=rss------android-5)
-- [Cómo un programador desarrolló una útil aplicación de viajes para su novia](https://medium.com/huawei-developers-latinoam%C3%A9rica/c%C3%B3mo-un-programador-desarroll%C3%B3-una-%C3%BAtil-aplicaci%C3%B3n-de-viajes-para-su-novia-741abda867c5?source=rss------android-5)
-- [加入背景音樂與按鍵音 — Android](https://medium.com/%E7%A8%8B%E7%99%AE%E5%AF%A6%E9%A9%97%E5%AE%A4/%E5%8A%A0%E5%85%A5%E8%83%8C%E6%99%AF%E9%9F%B3%E6%A8%82%E8%88%87%E6%8C%89%E9%8D%B5%E9%9F%B3-android-2d3ce74015c7?source=rss------android-5)
-- [ViewBinding | Android](https://wolvesmobile.medium.com/viewbinding-android-342ecc52c077?source=rss------android-5)
-- [Samsung M51Mobile Data OR Internet Not Working Not Connecting Problem Solved](https://akayhelp.medium.com/samsung-m51mobile-data-or-internet-not-working-not-connecting-problem-solved-3491ffca30fc?source=rss------android-5)
+- [Kotlinx.serialization part5](https://petnagy.medium.com/kotlinx-serialization-part5-9ee8ca38e70f?source=rss------android-5)
+- [From Zero To Hero Series — Kotlin Sequences, Channels, Flows — Part 1 — Sequences](https://omeriyioz.medium.com/from-zero-to-hero-series-kotlin-sequences-channels-flows-part-1-sequences-3dbba97f55c2?source=rss------android-5)
+- [First step in android development](https://medium.com/@harshitbhatt972/first-step-in-android-development-672c2899a777?source=rss------android-5)
+- [Roadmap to become a Flutter Developer-DTU D_CODER](https://cardio-coder.medium.com/roadmap-to-become-a-flutter-developer-dtu-d-coder-a613097a65f6?source=rss------android-5)
+- [TAU TXAIS KOJ TSHAJ TSHEB, TSO TSHEB TSAV TSHEB, TSAB NTAWV ID, CARDS, SSN, IELTS / TOEFL THIAB…](https://handzerjohn.medium.com/tau-txais-koj-tshaj-tsheb-tso-tsheb-tsav-tsheb-tsab-ntawv-id-cards-ssn-ielts-toefl-thiab-4ace33ca0186?source=rss------android-5)
+- [Connecting Android Apps to localhost, Simplified](https://tusharsadhwani.medium.com/connecting-android-apps-to-localhost-simplified-737b5690386e?source=rss------android-5)
+- [Epic Seven Equipment Guide, Everthing You Should Know](https://ujutt7565.medium.com/epic-seven-equipment-guide-everthing-you-should-know-814c82d4d697?source=rss------android-5)
+- [How to Design an App from Scratch in Figma](https://medium.com/the-samurai-sale/how-to-design-an-app-from-scratch-in-figma-eccaa0410ebe?source=rss------android-5)
+- [İndirbook Android uygulamalar](https://canliiradyo.medium.com/i%CC%87ndirbook-android-uygulamalar-e3967c38babc?source=rss------android-5)
+- [İndirwin Android Apk uygulama Adresi](https://canliiradyo.medium.com/i%CC%87ndirwin-android-apk-uygulama-adresi-ebba5338a971?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
