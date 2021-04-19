@@ -311,16 +311,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Kotlinx.serialization part5](https://petnagy.medium.com/kotlinx-serialization-part5-9ee8ca38e70f?source=rss------android-5)
-- [From Zero To Hero Series — Kotlin Sequences, Channels, Flows — Part 1 — Sequences](https://omeriyioz.medium.com/from-zero-to-hero-series-kotlin-sequences-channels-flows-part-1-sequences-3dbba97f55c2?source=rss------android-5)
-- [First step in android development](https://medium.com/@harshitbhatt972/first-step-in-android-development-672c2899a777?source=rss------android-5)
-- [Roadmap to become a Flutter Developer-DTU D_CODER](https://cardio-coder.medium.com/roadmap-to-become-a-flutter-developer-dtu-d-coder-a613097a65f6?source=rss------android-5)
-- [TAU TXAIS KOJ TSHAJ TSHEB, TSO TSHEB TSAV TSHEB, TSAB NTAWV ID, CARDS, SSN, IELTS / TOEFL THIAB…](https://handzerjohn.medium.com/tau-txais-koj-tshaj-tsheb-tso-tsheb-tsav-tsheb-tsab-ntawv-id-cards-ssn-ielts-toefl-thiab-4ace33ca0186?source=rss------android-5)
-- [Connecting Android Apps to localhost, Simplified](https://tusharsadhwani.medium.com/connecting-android-apps-to-localhost-simplified-737b5690386e?source=rss------android-5)
-- [Epic Seven Equipment Guide, Everthing You Should Know](https://ujutt7565.medium.com/epic-seven-equipment-guide-everthing-you-should-know-814c82d4d697?source=rss------android-5)
-- [How to Design an App from Scratch in Figma](https://medium.com/the-samurai-sale/how-to-design-an-app-from-scratch-in-figma-eccaa0410ebe?source=rss------android-5)
-- [İndirbook Android uygulamalar](https://canliiradyo.medium.com/i%CC%87ndirbook-android-uygulamalar-e3967c38babc?source=rss------android-5)
-- [İndirwin Android Apk uygulama Adresi](https://canliiradyo.medium.com/i%CC%87ndirwin-android-apk-uygulama-adresi-ebba5338a971?source=rss------android-5)
+- [Belajar Yuk Sahabat Migran! Mengaktifkan Mode Gelap di Aplikasi Gmail Mobile](https://rumahmigran.medium.com/belajar-yuk-sahabat-migran-mengaktifkan-mode-gelap-di-aplikasi-gmail-mobile-5c46cf9b7ef0?source=rss------android-5)
+- [Top 10 trending phones of week 15 _Rataul.comLatest upcoming mobile phones and gadgets](https://mobilephone.medium.com/top-10-trending-phones-of-week-15-rataul-comlatest-upcoming-mobile-phones-and-gadgets-bc544ef7f4cb?source=rss------android-5)
+- [Call International Numbers with Second Number](https://bitwings.medium.com/call-international-numbers-with-second-number-6b9f5e93b778?source=rss------android-5)
+- [Real-time lifecycle-aware updates in Jetpack Compose](https://skyyo.medium.com/real-time-lifecycle-aware-updates-in-jetpack-compose-be2e80e613c2?source=rss------android-5)
+- [Pi Practice App in Compose](https://proandroiddev.com/pi-practice-app-in-compose-bb6572d5bad4?source=rss------android-5)
+- [Product Flavors in Android (Part 1)](https://vadhermilan64526.medium.com/product-flavors-in-android-part-1-9ede9a519f07?source=rss------android-5)
+- [Scope Functions and it’s use case](https://poojaabbott96.medium.com/scope-functions-and-its-use-case-c20a9fbe22ba?source=rss------android-5)
+- [WhatsApp offers two main features to iPhone users with new update this month](https://medium.com/@shubham.reddy50/whatsapp-offers-two-main-features-to-iphone-users-with-new-update-this-month-8bec4617e37c?source=rss------android-5)
+- [Convert website to mobile app](https://medium.com/techlinehub/convert-website-to-mobile-app-2b0c56a9f233?source=rss------android-5)
+- [The Coroutine Basics in Android](https://bobirawan.medium.com/the-coroutine-basics-in-android-15219795c597?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
