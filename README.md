@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [App icon won't update in Andriod Studio](https://www.reddit.com/r/androiddev/comments/mt2rfd/app_icon_wont_update_in_andriod_studio/)
-- [Little question about ROOM](https://www.reddit.com/r/androiddev/comments/mt2ego/little_question_about_room/)
-- [What’s the best tablet? That has great transitions and feedback? I’m getting started with Flutter... but under 300?](https://www.reddit.com/r/androiddev/comments/mt1px7/whats_the_best_tablet_that_has_great_transitions/)
-- [Tracking data with Accessibility Service](https://www.reddit.com/r/androiddev/comments/mt1jah/tracking_data_with_accessibility_service/)
-- [Web scraping in real time](https://www.reddit.com/r/androiddev/comments/mswuq6/web_scraping_in_real_time/)
-- [74 days passed and AdMob still limited the ad serving in my account, what should I do?](https://www.reddit.com/r/androiddev/comments/mswukv/74_days_passed_and_admob_still_limited_the_ad/)
-- [Are there any frameworks that are useful for establishing architecture ie MVVM in Android Studio?](https://www.reddit.com/r/androiddev/comments/msva1v/are_there_any_frameworks_that_are_useful_for/)
-- [Why does my project structure look different than everyone else's in Android Studio?](https://www.reddit.com/r/androiddev/comments/msuzro/why_does_my_project_structure_look_different_than/)
-- [Another shout of frustration from the Google apps review process](https://www.reddit.com/r/androiddev/comments/msu3wc/another_shout_of_frustration_from_the_google_apps/)
-- [Can't find the plugin: "Plugin "Google Sceneform Tools (Beta)" is incompatible (supported only in IntelliJ IDEA)"](https://www.reddit.com/r/androiddev/comments/mstm5e/cant_find_the_plugin_plugin_google_sceneform/)
+- [Real-time lifecycle-aware updates in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/mtm9uf/realtime_lifecycleaware_updates_in_jetpack_compose/)
+- [$50 amazon gift card for survey response](https://www.reddit.com/r/androiddev/comments/mtiln5/50_amazon_gift_card_for_survey_response/)
+- [Google Play API: Discount for users who cancel purchase?](https://www.reddit.com/r/androiddev/comments/mti0zd/google_play_api_discount_for_users_who_cancel/)
+- [I created a full functional login template written entirely in Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/mtec8c/i_created_a_full_functional_login_template/)
+- [How do you create Adaptive Icons with more than one vector/asset?](https://www.reddit.com/r/androiddev/comments/mtbves/how_do_you_create_adaptive_icons_with_more_than/)
+- [How do you deal with Android 10+ Media Store & Scoped Storage mess?](https://www.reddit.com/r/androiddev/comments/mtbccq/how_do_you_deal_with_android_10_media_store/)
+- [No Way, Google: Build Your Own Wake Word Service on Android](https://www.reddit.com/r/androiddev/comments/mt912h/no_way_google_build_your_own_wake_word_service_on/)
+- [Am i allowed to name my app widgetsmith or widgy?](https://www.reddit.com/r/androiddev/comments/mt7w0g/am_i_allowed_to_name_my_app_widgetsmith_or_widgy/)
+- [Privacy oriented note taking app](https://www.reddit.com/r/androiddev/comments/mt6fpy/privacy_oriented_note_taking_app/)
+- [Target API level 30 requirement by August - question](https://www.reddit.com/r/androiddev/comments/mt5ud8/target_api_level_30_requirement_by_august_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
