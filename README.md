@@ -343,6 +343,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Mobile Dev Memo posts_
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [The growth trap](https://mobiledevmemo.com/the-growth-trap/)
 - [ATT opt-in rates are irrelevant](https://mobiledevmemo.com/att-opt-in-rates-are-irrelevant/)
 - [Unpacking Tim Cook’s comments about ATT](https://mobiledevmemo.com/unpacking-tim-cooks-comments-about-att/)
 - [What is differential privacy in digital advertising?](https://mobiledevmemo.com/what-is-differential-privacy/)
@@ -352,7 +353,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Apple, CAID, and China: rock, meet hard place](https://mobiledevmemo.com/apple-caid-and-china-rock-meet-hard-place/)
 - [Is VR the bear case for Facebook?](https://mobiledevmemo.com/is-vr-ar-the-bear-case-for-facebook/)
 - [The privacy mirage](https://mobiledevmemo.com/the-privacy-mirage/)
-- [iOS 14, Privacy, and the Future of Digital Advertising](https://mobiledevmemo.com/ios-14-att-and-the-future-of-digital-advertising/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### _Infinum posts_
