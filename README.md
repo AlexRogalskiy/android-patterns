@@ -243,16 +243,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Real-time lifecycle-aware updates in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/mtm9uf/realtime_lifecycleaware_updates_in_jetpack_compose/)
-- [$50 amazon gift card for survey response](https://www.reddit.com/r/androiddev/comments/mtiln5/50_amazon_gift_card_for_survey_response/)
-- [Google Play API: Discount for users who cancel purchase?](https://www.reddit.com/r/androiddev/comments/mti0zd/google_play_api_discount_for_users_who_cancel/)
-- [I created a full functional login template written entirely in Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/mtec8c/i_created_a_full_functional_login_template/)
-- [How do you create Adaptive Icons with more than one vector/asset?](https://www.reddit.com/r/androiddev/comments/mtbves/how_do_you_create_adaptive_icons_with_more_than/)
-- [How do you deal with Android 10+ Media Store & Scoped Storage mess?](https://www.reddit.com/r/androiddev/comments/mtbccq/how_do_you_deal_with_android_10_media_store/)
-- [No Way, Google: Build Your Own Wake Word Service on Android](https://www.reddit.com/r/androiddev/comments/mt912h/no_way_google_build_your_own_wake_word_service_on/)
-- [Am i allowed to name my app widgetsmith or widgy?](https://www.reddit.com/r/androiddev/comments/mt7w0g/am_i_allowed_to_name_my_app_widgetsmith_or_widgy/)
-- [Privacy oriented note taking app](https://www.reddit.com/r/androiddev/comments/mt6fpy/privacy_oriented_note_taking_app/)
-- [Target API level 30 requirement by August - question](https://www.reddit.com/r/androiddev/comments/mt5ud8/target_api_level_30_requirement_by_august_question/)
+- [OAuth Verification Request help?](https://www.reddit.com/r/androiddev/comments/mueomn/oauth_verification_request_help/)
+- [Removing borders and ripple effect for Button() in Jetpack compose?](https://www.reddit.com/r/androiddev/comments/muddqw/removing_borders_and_ripple_effect_for_button_in/)
+- [Modular Navigation with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/mubrm8/modular_navigation_with_jetpack_compose/)
+- [Whats the new app review time?](https://www.reddit.com/r/androiddev/comments/mub32o/whats_the_new_app_review_time/)
+- [How to build an app builder](https://www.reddit.com/r/androiddev/comments/muapbu/how_to_build_an_app_builder/)
+- [Android-optimized version of SoundTouch](https://www.reddit.com/r/androiddev/comments/mua655/androidoptimized_version_of_soundtouch/)
+- [Premature optimization is the root of all evil](https://www.reddit.com/r/androiddev/comments/mu7y36/premature_optimization_is_the_root_of_all_evil/)
+- [Lost signing signing key store! not upload keys](https://www.reddit.com/r/androiddev/comments/mu5vvb/lost_signing_signing_key_store_not_upload_keys/)
+- [Unofficial Android Studio Build for Apple Silicon (by dsa28s)](https://www.reddit.com/r/androiddev/comments/mu4ume/unofficial_android_studio_build_for_apple_silicon/)
+- [Has anyone else experienced a sudden significant drop in Explore traffic for their app for no apparent reason?](https://www.reddit.com/r/androiddev/comments/mu22jp/has_anyone_else_experienced_a_sudden_significant/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
