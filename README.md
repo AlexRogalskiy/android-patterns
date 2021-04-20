@@ -313,16 +313,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Belajar Yuk Sahabat Migran! Mengaktifkan Mode Gelap di Aplikasi Gmail Mobile](https://rumahmigran.medium.com/belajar-yuk-sahabat-migran-mengaktifkan-mode-gelap-di-aplikasi-gmail-mobile-5c46cf9b7ef0?source=rss------android-5)
-- [Top 10 trending phones of week 15 _Rataul.comLatest upcoming mobile phones and gadgets](https://mobilephone.medium.com/top-10-trending-phones-of-week-15-rataul-comlatest-upcoming-mobile-phones-and-gadgets-bc544ef7f4cb?source=rss------android-5)
-- [Call International Numbers with Second Number](https://bitwings.medium.com/call-international-numbers-with-second-number-6b9f5e93b778?source=rss------android-5)
-- [Real-time lifecycle-aware updates in Jetpack Compose](https://skyyo.medium.com/real-time-lifecycle-aware-updates-in-jetpack-compose-be2e80e613c2?source=rss------android-5)
-- [Pi Practice App in Compose](https://proandroiddev.com/pi-practice-app-in-compose-bb6572d5bad4?source=rss------android-5)
-- [Product Flavors in Android (Part 1)](https://vadhermilan64526.medium.com/product-flavors-in-android-part-1-9ede9a519f07?source=rss------android-5)
-- [Scope Functions and it’s use case](https://poojaabbott96.medium.com/scope-functions-and-its-use-case-c20a9fbe22ba?source=rss------android-5)
-- [WhatsApp offers two main features to iPhone users with new update this month](https://medium.com/@shubham.reddy50/whatsapp-offers-two-main-features-to-iphone-users-with-new-update-this-month-8bec4617e37c?source=rss------android-5)
-- [Convert website to mobile app](https://medium.com/techlinehub/convert-website-to-mobile-app-2b0c56a9f233?source=rss------android-5)
-- [The Coroutine Basics in Android](https://bobirawan.medium.com/the-coroutine-basics-in-android-15219795c597?source=rss------android-5)
+- [把手機當成FTP使用](https://medium.com/%E9%A6%AC%E5%85%8B%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/%E6%8A%8A%E6%89%8B%E6%A9%9F%E7%95%B6%E6%88%90ftp%E4%BD%BF%E7%94%A8-f6daf231f96f?source=rss------android-5)
+- [On July 21, 2020, fundraising for the release of the smallest smartphone in the world began.](https://medium.com/@nesterdanya21/on-july-21-2020-fundraising-for-the-release-of-the-smallest-smartphone-in-the-world-began-8a4fd04e6dbd?source=rss------android-5)
+- [E kiʻi i kāu paseka hou, ka leka uila, nā kāleka ID, SSN, IELTS / TOEFL a me nā pepa ʻē aʻe.](https://brandonhan203.medium.com/e-ki%CA%BBi-i-k%C4%81u-paseka-hou-ka-leka-uila-n%C4%81-k%C4%81leka-id-ssn-ielts-toefl-a-me-n%C4%81-pepa-%CA%BB%C4%93-a%CA%BBe-95d94816b030?source=rss------android-5)
+- [Creating a heterogeneous list with Jetpack Compose](https://fvilarino.medium.com/creating-a-heterogeneous-list-with-jetpack-compose-138d3698c4cc?source=rss------android-5)
+- [Modular Navigation with Jetpack Compose](https://medium.com/google-developer-experts/modular-navigation-with-jetpack-compose-fda9f6b2bef7?source=rss------android-5)
+- [Android — İstisna İşleme — ExceptionHandler](https://resulsilay.medium.com/android-i%CC%87stisna-i%CC%87%C5%9Fleme-exceptionhandler-fd82a4d8469c?source=rss------android-5)
+- [How to use NestedScrollView with ConstraintLayout and RecyclerView](https://medium.com/tech-takeaways/how-to-use-nestedscrollview-with-constraintlayout-and-recyclerview-fbd1cf977e98?source=rss------android-5)
+- [Counter-Strike 16 Apk (Latest Version)v1.6 Free Download For Android](https://alymalang00.medium.com/counter-strike-16-apk-latest-version-v1-6-free-download-for-android-2493261012f6?source=rss------android-5)
+- [The 6 Best Android Screen Brightness Apps](https://medium.com/@duggu2409/the-6-best-android-screen-brightness-apps-810250cbc269?source=rss------android-5)
+- [Using Google’s ML Kit to control an Android device without hands](https://axel7083.medium.com/using-googles-ml-kit-to-control-an-android-device-without-hands-cf2a1c589e73?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
