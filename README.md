@@ -328,6 +328,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Android 12 May Include Feature That Will Hibernate Apps You Haven't Used in a While](https://gizmodo.com/android-12-may-include-feature-that-will-hibernate-apps-1846721234)
 - [These Are the Best AR Apps You Can Use Outside](https://gizmodo.com/these-are-the-best-ar-apps-you-can-use-outside-1846696834)
 - [Google Misled Android Users About Location Data, Australian Court Finds](https://gizmodo.com/google-misled-android-users-about-location-data-austra-1846699135)
 - [Google Assistant Just Got a Useful Update With Four Helpful Features](https://gizmodo.com/google-assistant-just-got-a-useful-update-with-four-hel-1846681958)
@@ -337,7 +338,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google Will Shut Down the Google Shopping App for iOS and Android in a Few Weeks](https://gizmodo.com/google-will-shut-down-the-google-shopping-app-for-ios-a-1846662681)
 - [Google Has Canceled the Pixel 5a, Multiple Reports Claim [Update: The Pixel 5a Is Still Alive]](https://gizmodo.com/google-has-canceled-the-pixel-5a-multiple-reports-clai-1846651933)
 - [Google's April Software Update Just Gave the Pixel 5 and 4a 5G a Big Performance Boost](https://gizmodo.com/googles-april-software-update-just-gave-the-pixel-5-and-1846627652)
-- [Supreme Court Sides With Google in Historic API Copyright Fight Against Oracle](https://gizmodo.com/supreme-courts-sides-with-google-in-historic-api-copyri-1846618603)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
