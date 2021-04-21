@@ -243,16 +243,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [OAuth Verification Request help?](https://www.reddit.com/r/androiddev/comments/mueomn/oauth_verification_request_help/)
-- [Removing borders and ripple effect for Button() in Jetpack compose?](https://www.reddit.com/r/androiddev/comments/muddqw/removing_borders_and_ripple_effect_for_button_in/)
-- [Modular Navigation with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/mubrm8/modular_navigation_with_jetpack_compose/)
-- [Whats the new app review time?](https://www.reddit.com/r/androiddev/comments/mub32o/whats_the_new_app_review_time/)
-- [How to build an app builder](https://www.reddit.com/r/androiddev/comments/muapbu/how_to_build_an_app_builder/)
-- [Android-optimized version of SoundTouch](https://www.reddit.com/r/androiddev/comments/mua655/androidoptimized_version_of_soundtouch/)
-- [Premature optimization is the root of all evil](https://www.reddit.com/r/androiddev/comments/mu7y36/premature_optimization_is_the_root_of_all_evil/)
-- [Lost signing signing key store! not upload keys](https://www.reddit.com/r/androiddev/comments/mu5vvb/lost_signing_signing_key_store_not_upload_keys/)
-- [Unofficial Android Studio Build for Apple Silicon (by dsa28s)](https://www.reddit.com/r/androiddev/comments/mu4ume/unofficial_android_studio_build_for_apple_silicon/)
-- [Has anyone else experienced a sudden significant drop in Explore traffic for their app for no apparent reason?](https://www.reddit.com/r/androiddev/comments/mu22jp/has_anyone_else_experienced_a_sudden_significant/)
+- [Where to find theory about the Consumer - Producer paradigm (Do variations exist??).](https://www.reddit.com/r/androiddev/comments/mv54jd/where_to_find_theory_about_the_consumer_producer/)
+- [APK Download Sites Outside Google Play](https://www.reddit.com/r/androiddev/comments/mv32ez/apk_download_sites_outside_google_play/)
+- [10 ideas to improve your Gradle build times [Part II]](https://www.reddit.com/r/androiddev/comments/muz8pt/10_ideas_to_improve_your_gradle_build_times_part/)
+- [Getting Started with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/muyr0m/getting_started_with_jetpack_compose/)
+- [Raspberry Pi Server](https://www.reddit.com/r/androiddev/comments/muydan/raspberry_pi_server/)
+- [RoundedProgressBar 2.0: The first open source ProgressBar with individually "roundable" corners](https://www.reddit.com/r/androiddev/comments/muwgch/roundedprogressbar_20_the_first_open_source/)
+- [A big "This is bull****" to big tech interviews.](https://www.reddit.com/r/androiddev/comments/muwenw/a_big_this_is_bull_to_big_tech_interviews/)
+- [Help with a simple project](https://www.reddit.com/r/androiddev/comments/muvk6j/help_with_a_simple_project/)
+- [making my play store app only available by link](https://www.reddit.com/r/androiddev/comments/muvdqz/making_my_play_store_app_only_available_by_link/)
+- [Good and affordable service to deploy the server of my app?](https://www.reddit.com/r/androiddev/comments/muvanf/good_and_affordable_service_to_deploy_the_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
