@@ -313,16 +313,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [把手機當成FTP使用](https://medium.com/%E9%A6%AC%E5%85%8B%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/%E6%8A%8A%E6%89%8B%E6%A9%9F%E7%95%B6%E6%88%90ftp%E4%BD%BF%E7%94%A8-f6daf231f96f?source=rss------android-5)
-- [On July 21, 2020, fundraising for the release of the smallest smartphone in the world began.](https://medium.com/@nesterdanya21/on-july-21-2020-fundraising-for-the-release-of-the-smallest-smartphone-in-the-world-began-8a4fd04e6dbd?source=rss------android-5)
-- [E kiʻi i kāu paseka hou, ka leka uila, nā kāleka ID, SSN, IELTS / TOEFL a me nā pepa ʻē aʻe.](https://brandonhan203.medium.com/e-ki%CA%BBi-i-k%C4%81u-paseka-hou-ka-leka-uila-n%C4%81-k%C4%81leka-id-ssn-ielts-toefl-a-me-n%C4%81-pepa-%CA%BB%C4%93-a%CA%BBe-95d94816b030?source=rss------android-5)
-- [Creating a heterogeneous list with Jetpack Compose](https://fvilarino.medium.com/creating-a-heterogeneous-list-with-jetpack-compose-138d3698c4cc?source=rss------android-5)
-- [Modular Navigation with Jetpack Compose](https://medium.com/google-developer-experts/modular-navigation-with-jetpack-compose-fda9f6b2bef7?source=rss------android-5)
-- [Android — İstisna İşleme — ExceptionHandler](https://resulsilay.medium.com/android-i%CC%87stisna-i%CC%87%C5%9Fleme-exceptionhandler-fd82a4d8469c?source=rss------android-5)
-- [How to use NestedScrollView with ConstraintLayout and RecyclerView](https://medium.com/tech-takeaways/how-to-use-nestedscrollview-with-constraintlayout-and-recyclerview-fbd1cf977e98?source=rss------android-5)
-- [Counter-Strike 16 Apk (Latest Version)v1.6 Free Download For Android](https://alymalang00.medium.com/counter-strike-16-apk-latest-version-v1-6-free-download-for-android-2493261012f6?source=rss------android-5)
-- [The 6 Best Android Screen Brightness Apps](https://medium.com/@duggu2409/the-6-best-android-screen-brightness-apps-810250cbc269?source=rss------android-5)
-- [Using Google’s ML Kit to control an Android device without hands](https://axel7083.medium.com/using-googles-ml-kit-to-control-an-android-device-without-hands-cf2a1c589e73?source=rss------android-5)
+- [How to restore Logcat access on Huawei phones](https://conexur.medium.com/how-to-restore-logcat-access-on-huawei-phones-ecae9e1fe4cf?source=rss------android-5)
+- [Top 5 Professional Video Editing Apps For Android 2021](https://parvezhossain855.medium.com/top-5-professional-video-editing-apps-for-android-2021-5ccc7727ab84?source=rss------android-5)
+- [Código Abierto y los Cambios de la Tecnología](https://medium.com/@Noticiasinternacionales/c%C3%B3digo-abierto-y-los-cambios-de-la-tecnolog%C3%ADa-69c250ae75ca?source=rss------android-5)
+- [Towards GPU-accelerated image classification on low-end hardware](https://lnstadrum.medium.com/towards-gpu-accelerated-image-classification-on-low-end-hardware-ec592e125ad9?source=rss------android-5)
+- [Android integration with Doorbird (part 3)](https://bagiyoni.medium.com/android-integration-with-doorbird-part-3-f1068e442897?source=rss------android-5)
+- [Android integration with Doorbird (part 2)](https://bagiyoni.medium.com/android-integration-with-doorbird-part-2-ef917349798d?source=rss------android-5)
+- [Android: Initialization performance between Thread, ThreadPool, and Coroutine](https://joshuapark82.medium.com/android-initialization-performance-between-thread-threadpool-and-coroutine-bb9b7615581e?source=rss------android-5)
+- [Android integration with Doorbird](https://bagiyoni.medium.com/android-integration-with-doorbird-62f24e1bdd38?source=rss------android-5)
+- [Handling lifecycle events on Jetpack Compose](https://fvilarino.medium.com/handling-lifecycle-events-on-jetpack-compose-f4f53de41f0a?source=rss------android-5)
+- [Need for Speed Most Wanted APK v1.3.71 for Android](https://alymalang00.medium.com/need-for-speed-most-wanted-apk-v1-3-71-for-android-a3394935a7b5?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
