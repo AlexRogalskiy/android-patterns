@@ -313,16 +313,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Medium posts_
 
 <!-- MEDIUM-POST-LIST:START -->
-- [How to restore Logcat access on Huawei phones](https://conexur.medium.com/how-to-restore-logcat-access-on-huawei-phones-ecae9e1fe4cf?source=rss------android-5)
-- [Top 5 Professional Video Editing Apps For Android 2021](https://parvezhossain855.medium.com/top-5-professional-video-editing-apps-for-android-2021-5ccc7727ab84?source=rss------android-5)
-- [Código Abierto y los Cambios de la Tecnología](https://medium.com/@Noticiasinternacionales/c%C3%B3digo-abierto-y-los-cambios-de-la-tecnolog%C3%ADa-69c250ae75ca?source=rss------android-5)
-- [Towards GPU-accelerated image classification on low-end hardware](https://lnstadrum.medium.com/towards-gpu-accelerated-image-classification-on-low-end-hardware-ec592e125ad9?source=rss------android-5)
-- [Android integration with Doorbird (part 3)](https://bagiyoni.medium.com/android-integration-with-doorbird-part-3-f1068e442897?source=rss------android-5)
-- [Android integration with Doorbird (part 2)](https://bagiyoni.medium.com/android-integration-with-doorbird-part-2-ef917349798d?source=rss------android-5)
-- [Android: Initialization performance between Thread, ThreadPool, and Coroutine](https://joshuapark82.medium.com/android-initialization-performance-between-thread-threadpool-and-coroutine-bb9b7615581e?source=rss------android-5)
-- [Android integration with Doorbird](https://bagiyoni.medium.com/android-integration-with-doorbird-62f24e1bdd38?source=rss------android-5)
-- [Handling lifecycle events on Jetpack Compose](https://fvilarino.medium.com/handling-lifecycle-events-on-jetpack-compose-f4f53de41f0a?source=rss------android-5)
-- [Need for Speed Most Wanted APK v1.3.71 for Android](https://alymalang00.medium.com/need-for-speed-most-wanted-apk-v1-3-71-for-android-a3394935a7b5?source=rss------android-5)
+- [Custom Cluster Marker For Google Maps: How To](https://gabrielwadi.medium.com/custom-cluster-marker-for-google-maps-how-to-8a7b858e2879?source=rss------android-5)
+- [How I show and hide a password in NativeScript on Android](https://medium.com/@stephen.carboni/how-i-show-and-hide-a-password-in-nativescript-on-android-da9450ef4adf?source=rss------android-5)
+- [Android Jetpack : App Startup Kütüphanesi](https://akacaran.medium.com/android-jetpack-app-startup-k%C3%BCt%C3%BCphanesi-d7c7ff80d36a?source=rss------android-5)
+- [Now in Android #38](https://medium.com/androiddevelopers/now-in-android-38-588b043094?source=rss------android-5)
+- [Design to Canvas in Android](https://blog.usejournal.com/design-to-canvas-in-android-81e77d8e136f?source=rss------android-5)
+- [Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb?source=rss------android-5)
+- [Behind the scenes at Moneybox: Meet Jaeren & Valerio](https://medium.com/moneybox-product-engineering/behind-the-scenes-at-moneybox-meet-jaeren-valerio-3343fb8a0337?source=rss------android-5)
+- [Android’in En Son Özelliği, Dikkatinizin Dağılmasını Önleyecek](https://sosyal-teknoloji-news.medium.com/androidin-en-son-%C3%B6zelli%C4%9Fi-dikkatinizin-da%C4%9F%C4%B1lmas%C4%B1n%C4%B1-%C3%B6nleyecek-2be5f39ef368?source=rss------android-5)
+- [Jetpack Compose: building a generic grid canvas](https://patxi.medium.com/jetpack-compose-building-a-generic-grid-canvas-557da35493fe?source=rss------android-5)
+- [Material Motion for Jetpack Compose](https://fornewid.medium.com/material-motion-for-jetpack-compose-d97ef2114b9c?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### _Gizmodo posts_
