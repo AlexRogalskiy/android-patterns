@@ -328,6 +328,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Gizmodo posts_
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Congrats to OnePlus for Making Its Smartwatch Slightly Less Awful](https://gizmodo.com/congrats-to-oneplus-for-making-its-smartwatch-slightly-1846734118)
+- [Apple's M1 Chip Is a Cruel Reminder of What Android Users Are Missing Out On](https://gizmodo.com/apples-m1-chip-is-a-cruel-reminder-of-what-android-user-1846726731)
 - [Android 12 May Include Feature That Will Hibernate Apps You Haven't Used in a While](https://gizmodo.com/android-12-may-include-feature-that-will-hibernate-apps-1846721234)
 - [These Are the Best AR Apps You Can Use Outside](https://gizmodo.com/these-are-the-best-ar-apps-you-can-use-outside-1846696834)
 - [Google Misled Android Users About Location Data, Australian Court Finds](https://gizmodo.com/google-misled-android-users-about-location-data-austra-1846699135)
@@ -336,8 +338,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [New Google Photos Video-Editing Features Finally Appearing on Android Phones](https://gizmodo.com/new-google-photos-video-editing-features-finally-appear-1846674527)
 - [This Is the Worst Smartwatch I've Ever Used](https://gizmodo.com/this-is-the-worst-smartwatch-ive-ever-used-1846652533)
 - [Google Will Shut Down the Google Shopping App for iOS and Android in a Few Weeks](https://gizmodo.com/google-will-shut-down-the-google-shopping-app-for-ios-a-1846662681)
-- [Google Has Canceled the Pixel 5a, Multiple Reports Claim [Update: The Pixel 5a Is Still Alive]](https://gizmodo.com/google-has-canceled-the-pixel-5a-multiple-reports-clai-1846651933)
-- [Google's April Software Update Just Gave the Pixel 5 and 4a 5G a Big Performance Boost](https://gizmodo.com/googles-april-software-update-just-gave-the-pixel-5-and-1846627652)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### _Mobile Dev Memo posts_
