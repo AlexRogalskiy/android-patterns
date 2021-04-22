@@ -283,6 +283,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Android Authority posts_
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+- [How to make a game in Python: An introduction to Pygame](https://www.androidauthority.com/how-to-make-a-game-in-python-1136589/)
 - [How to call a function in Python](https://www.androidauthority.com/python-function-call-1121793/)
 - [How to use loops in Python](https://www.androidauthority.com/how-to-use-loops-in-python-1148510/)
 - [The best Android developer tools for getting started](https://www.androidauthority.com/best-android-developer-tools-671650/)
@@ -292,7 +293,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Python beginner’s guide – Everything you need to know to get started](https://www.androidauthority.com/learn-python-beginner-1142688/)
 - [Kotlin tutorial for Android for beginners: Build a simple quiz](https://www.androidauthority.com/kotlin-tutorial-1134289/)
 - [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
-- [How to make money on Fiverr as a creative professional](https://www.androidauthority.com/how-to-make-money-on-fiverr-1026987/)
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### _Android Arsenal posts_
