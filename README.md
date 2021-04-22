@@ -243,16 +243,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where to find theory about the Consumer - Producer paradigm (Do variations exist??).](https://www.reddit.com/r/androiddev/comments/mv54jd/where_to_find_theory_about_the_consumer_producer/)
-- [APK Download Sites Outside Google Play](https://www.reddit.com/r/androiddev/comments/mv32ez/apk_download_sites_outside_google_play/)
-- [10 ideas to improve your Gradle build times [Part II]](https://www.reddit.com/r/androiddev/comments/muz8pt/10_ideas_to_improve_your_gradle_build_times_part/)
-- [Getting Started with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/muyr0m/getting_started_with_jetpack_compose/)
-- [Raspberry Pi Server](https://www.reddit.com/r/androiddev/comments/muydan/raspberry_pi_server/)
-- [RoundedProgressBar 2.0: The first open source ProgressBar with individually "roundable" corners](https://www.reddit.com/r/androiddev/comments/muwgch/roundedprogressbar_20_the_first_open_source/)
-- [A big "This is bull****" to big tech interviews.](https://www.reddit.com/r/androiddev/comments/muwenw/a_big_this_is_bull_to_big_tech_interviews/)
-- [Help with a simple project](https://www.reddit.com/r/androiddev/comments/muvk6j/help_with_a_simple_project/)
-- [making my play store app only available by link](https://www.reddit.com/r/androiddev/comments/muvdqz/making_my_play_store_app_only_available_by_link/)
-- [Good and affordable service to deploy the server of my app?](https://www.reddit.com/r/androiddev/comments/muvanf/good_and_affordable_service_to_deploy_the_server/)
+- [Google Play Console shows crashes of forked apps](https://www.reddit.com/r/androiddev/comments/mvplsg/google_play_console_shows_crashes_of_forked_apps/)
+- [[Open source] Simple Calculator](https://www.reddit.com/r/androiddev/comments/mvotoq/open_source_simple_calculator/)
+- [How to setup NDK in IntelliJ ultimate on Mac m1?](https://www.reddit.com/r/androiddev/comments/mvoqcv/how_to_setup_ndk_in_intellij_ultimate_on_mac_m1/)
+- [Android 12 deprecate MediaStore Playlists (Is there any captain still controlling the ship?)](https://www.reddit.com/r/androiddev/comments/mvmuin/android_12_deprecate_mediastore_playlists_is/)
+- [Android 12 Developer Preview 3](https://www.reddit.com/r/androiddev/comments/mvkjc9/android_12_developer_preview_3/)
+- [Does the developer need to detect and prevent click fraud on their ads or is this handled more by google?](https://www.reddit.com/r/androiddev/comments/mvj7ya/does_the_developer_need_to_detect_and_prevent/)
+- [Lazy and fluent syntactic sugar of Kotlin for initializing Android lifecycle-aware property.](https://www.reddit.com/r/androiddev/comments/mvi5xt/lazy_and_fluent_syntactic_sugar_of_kotlin_for/)
+- [Tools to help developers provide a safer content experience](https://www.reddit.com/r/androiddev/comments/mvhfae/tools_to_help_developers_provide_a_safer_content/)
+- [Total remake of my game - New game or update?](https://www.reddit.com/r/androiddev/comments/mvghgl/total_remake_of_my_game_new_game_or_update/)
+- [Livedata giving null](https://www.reddit.com/r/androiddev/comments/mvg0pw/livedata_giving_null/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
