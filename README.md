@@ -38,35 +38,37 @@
 [![GitHub Super-Linter](https://github.com/alexrogalskiy/android-patterns/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![Documentation Status](https://readthedocs.org/projects/android-patterns/badge/?version=latest)](https://android-patterns.readthedocs.io/en/latest/?badge=latest)
 
-## 🎹 _Table of contents_
+## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Android Design Patterns](#android-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Android Authority posts</em>](#android-authority-posts)
-         * [<em>Android Arsenal posts</em>](#android-arsenal-posts)
-         * [<em>Medium posts</em>](#medium-posts)
-         * [<em>Gizmodo posts</em>](#gizmodo-posts)
-         * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
-         * [<em>Infinum posts</em>](#infinum-posts)
+
+- [Android Design Patterns](#android-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Android Authority posts</em>](#android-authority-posts)
+    - [<em>Android Arsenal posts</em>](#android-arsenal-posts)
+    - [<em>Medium posts</em>](#medium-posts)
+    - [<em>Gizmodo posts</em>](#gizmodo-posts)
+    - [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
+    - [<em>Infinum posts</em>](#infinum-posts)
+
 <!--te-->
 
-## ☝ _Summary_
+## ☝ *Summary*
 
 <p align="center" style="text-align:center;">
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
@@ -81,7 +83,7 @@
     </a>
 </p>
 
-_**Android Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+***Android Design Patterns*** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
 ```text
 mkdocs.yml    # Configuration file.
@@ -115,27 +117,27 @@ docs/
         info.md # Links page
 ```
 
-## 📝 _Documentation_
+## 📝 *Documentation*
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[_**Android Patterns**_][docs]
+[***Android Patterns***][docs]
 
-To enable documentation serving at _**localhost**_ the following steps should be considered:
+To enable documentation serving at ***localhost*** the following steps should be considered:
 
-1\) Install/upgrade _**pip**_ command-line utility:
+1\) Install/upgrade ***pip*** command-line utility:
 
 ```text
 pip install --upgrade pip
 ```
 
-or if you need to install _**pip**_ for the first time:
+or if you need to install ***pip*** for the first time:
 
 ```text
 python get-pip.py
 ```
 
-2\) Install the _**mkdocs**_ package using pip:
+2\) Install the ***mkdocs*** package using pip:
 
 ```text
 pip install mkdocs
@@ -155,7 +157,7 @@ pip install mkdocs-material
 pip install markdown-include
 ```
 
-4\) Start the server at _**localhost**_ by running the following command:
+4\) Start the server at ***localhost*** by running the following command:
 
 ```text
 mkdocs serve --verbose --dirtyreload
@@ -169,27 +171,27 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
 
-## ⏰ _Statistics_
+## ⏰ *Statistics*
 
 <p align="center" style="text-align:center;">
     <img alt="Documentation PageSpeed result dashboard" src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/master/reports/pagespeedresultmobile.svg"/>
 </p>
 
-## 📝 _Versioning_
+## 📝 *Versioning*
 
 The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository][tags].
 
-## 🌹 _Authors_
+## 🌹 *Authors*
 
-_**Android Patterns**_ is maintained by the following GitHub team-members:
+***Android Patterns*** is maintained by the following GitHub team-members:
 
-* [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
+- [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
 
 with community support please contact with us if you have some question or proposition.
 
-## 💕 _Contributing_
+## 💕 *Contributing*
 
-[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/android-patterns?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/android-patterns?size=50\&padding=5\&bots=true)](https://badges.pufler.dev)
 
 Please read
 [CONTRIBUTING.md](https://github.com/AlexRogalskiy/android-patterns/blob/master/.github/CONTRIBUTING.md)
@@ -204,60 +206,63 @@ specification. Contributions of any kind are welcome!
 
 See also the list of [contributors][contributors] who participated in this project.
 
-## 🚨 _Visitor stats_
+## 🚨 *Visitor stats*
 
-[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fandroid-patterns&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fandroid-patterns\&count_bg=%2379C83D\&title_bg=%23555555\&icon=\&icon_color=%23E7E7E7\&title=hits\&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![GitHub stars](https://img.shields.io/github/stars/AlexRogalskiy/android-patterns?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AlexRogalskiy/android-patterns?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/AlexRogalskiy/android-patterns?style=social)
 
-## ⚽ _Licensing_
+## ⚽ *Licensing*
 
-_**Android Patterns**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/android-patterns/blob/master/LICENSE.txt)].
+***Android Patterns*** is distributed under LGPL version 3 or later, \[[License](https://github.com/AlexRogalskiy/android-patterns/blob/master/LICENSE.txt)].
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
-## 🌟 _Development Support_
+## 🌟 *Development Support*
 
 Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/master/images/icon.png" width="20" height="20" alt="Android Design patterns"/>
- and _**Android Patterns**_ ? Consider buying me a coffee :\)
+and ***Android Patterns*** ? Consider buying me a coffee :)
 
-[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
+[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square\&logo=patreon\&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
 [![KoFi](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/alexrogalskiy)
 
-## 👨‍👨‍👧‍👦 _Acknowledgement_
+## 👨‍👨‍👧‍👦 *Acknowledgement*
 
 [![Stargazers repo roster for @AlexRogalskiy/android-patterns](https://reporoster.com/stars/AlexRogalskiy/android-patterns)][stars]
 
-## 📎 _OpenGraph Card_
+## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
     <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/master/images/opengraph-card.png"/>
 </p>
 
-## 🔥 _Feeds and Podcasts_
+## 🔥 *Feeds and Podcasts*
 
-### _Reddit posts_
+### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Google Play Console shows crashes of forked apps](https://www.reddit.com/r/androiddev/comments/mvplsg/google_play_console_shows_crashes_of_forked_apps/)
-- [[Open source] Simple Calculator](https://www.reddit.com/r/androiddev/comments/mvotoq/open_source_simple_calculator/)
+- [\[Open source\] Simple Calculator](https://www.reddit.com/r/androiddev/comments/mvotoq/open_source_simple_calculator/)
 - [How to setup NDK in IntelliJ ultimate on Mac m1?](https://www.reddit.com/r/androiddev/comments/mvoqcv/how_to_setup_ndk_in_intellij_ultimate_on_mac_m1/)
-- [Android 12 deprecate MediaStore Playlists (Is there any captain still controlling the ship?)](https://www.reddit.com/r/androiddev/comments/mvmuin/android_12_deprecate_mediastore_playlists_is/)
-- [Android 12 Developer Preview 3](https://www.reddit.com/r/androiddev/comments/mvkjc9/android_12_developer_preview_3/)
+- [Android 12 deprecate MediaStore Playlists (Is there any captain still controlling the ship?)](https://www.reddit.com/r/androiddev/comments/mvmuin/android\_12\_deprecate_mediastore_playlists_is/)
+- [Android 12 Developer Preview 3](https://www.reddit.com/r/androiddev/comments/mvkjc9/android\_12\_developer_preview\_3/)
 - [Does the developer need to detect and prevent click fraud on their ads or is this handled more by google?](https://www.reddit.com/r/androiddev/comments/mvj7ya/does_the_developer_need_to_detect_and_prevent/)
 - [Lazy and fluent syntactic sugar of Kotlin for initializing Android lifecycle-aware property.](https://www.reddit.com/r/androiddev/comments/mvi5xt/lazy_and_fluent_syntactic_sugar_of_kotlin_for/)
 - [Tools to help developers provide a safer content experience](https://www.reddit.com/r/androiddev/comments/mvhfae/tools_to_help_developers_provide_a_safer_content/)
 - [Total remake of my game - New game or update?](https://www.reddit.com/r/androiddev/comments/mvghgl/total_remake_of_my_game_new_game_or_update/)
 - [Livedata giving null](https://www.reddit.com/r/androiddev/comments/mvg0pw/livedata_giving_null/)
+
 <!-- REDDIT-POST-LIST:END -->
 
-### _InfoWorld posts_
+### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
@@ -268,21 +273,25 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
 - [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
 - [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
-### _RedHat posts_
+### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Android SPKI Pinning with TrustKit](https://developers.redhat.com/blog/2017/10/26/android-spki-pinning-trustkit/)
 - [Server-side Kotlin with Eclipse Vert.x at JavaOne](https://developers.redhat.com/blog/2017/10/13/server-side-kotlin-eclipse-vert-x-javaone/)
 - [Testing your Android App’s UI with Espresso](https://developers.redhat.com/blog/2017/07/13/testing-your-android-apps-ui-with-espresso/)
 - [Installing Linux on an Android Phone](https://developers.redhat.com/blog/2017/03/16/installing-linux-on-an-android-phone/)
 - [A step-by-step tutorial for continuous integration with Jenkins on a Red Hat Mobile Native Android application: Part 2](https://developers.redhat.com/blog/2016/08/11/a-step-by-step-tutorial-for-continuous-integration-with-jenkins-on-a-red-hat-mobile-native-android-application-part-2/)
+
 <!-- REDHAT-POST-LIST:END -->
 
-### _Android Authority posts_
+### *Android Authority posts*
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+
 - [How to make a game in Python: An introduction to Pygame](https://www.androidauthority.com/how-to-make-a-game-in-python-1136589/)
 - [How to call a function in Python](https://www.androidauthority.com/python-function-call-1121793/)
 - [How to use loops in Python](https://www.androidauthority.com/how-to-use-loops-in-python-1148510/)
@@ -293,11 +302,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Python beginner’s guide – Everything you need to know to get started](https://www.androidauthority.com/learn-python-beginner-1142688/)
 - [Kotlin tutorial for Android for beginners: Build a simple quiz](https://www.androidauthority.com/kotlin-tutorial-1134289/)
 - [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
+
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
-### _Android Arsenal posts_
+### *Android Arsenal posts*
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+
 - [Screenshot Detection](http://android-arsenal.com/details/1/8241)
 - [AndroidResourceManager](http://android-arsenal.com/details/1/8240)
 - [FixedHeaderTableLayout](http://android-arsenal.com/details/1/8239)
@@ -308,11 +319,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Composer](http://android-arsenal.com/details/1/8234)
 - [Synth](http://android-arsenal.com/details/1/8233)
 - [TCharts](http://android-arsenal.com/details/1/8232)
+
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
-### _Medium posts_
+### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
+
 - [Custom Cluster Marker For Google Maps: How To](https://gabrielwadi.medium.com/custom-cluster-marker-for-google-maps-how-to-8a7b858e2879?source=rss------android-5)
 - [How I show and hide a password in NativeScript on Android](https://medium.com/@stephen.carboni/how-i-show-and-hide-a-password-in-nativescript-on-android-da9450ef4adf?source=rss------android-5)
 - [Android Jetpack : App Startup Kütüphanesi](https://akacaran.medium.com/android-jetpack-app-startup-k%C3%BCt%C3%BCphanesi-d7c7ff80d36a?source=rss------android-5)
@@ -323,11 +336,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [Android’in En Son Özelliği, Dikkatinizin Dağılmasını Önleyecek](https://sosyal-teknoloji-news.medium.com/androidin-en-son-%C3%B6zelli%C4%9Fi-dikkatinizin-da%C4%9F%C4%B1lmas%C4%B1n%C4%B1-%C3%B6nleyecek-2be5f39ef368?source=rss------android-5)
 - [Jetpack Compose: building a generic grid canvas](https://patxi.medium.com/jetpack-compose-building-a-generic-grid-canvas-557da35493fe?source=rss------android-5)
 - [Material Motion for Jetpack Compose](https://fornewid.medium.com/material-motion-for-jetpack-compose-d97ef2114b9c?source=rss------android-5)
+
 <!-- MEDIUM-POST-LIST:END -->
 
-### _Gizmodo posts_
+### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+
 - [Congrats to OnePlus for Making Its Smartwatch Slightly Less Awful](https://gizmodo.com/congrats-to-oneplus-for-making-its-smartwatch-slightly-1846734118)
 - [Apple's M1 Chip Is a Cruel Reminder of What Android Users Are Missing Out On](https://gizmodo.com/apples-m1-chip-is-a-cruel-reminder-of-what-android-user-1846726731)
 - [Android 12 May Include Feature That Will Hibernate Apps You Haven't Used in a While](https://gizmodo.com/android-12-may-include-feature-that-will-hibernate-apps-1846721234)
@@ -338,11 +353,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [New Google Photos Video-Editing Features Finally Appearing on Android Phones](https://gizmodo.com/new-google-photos-video-editing-features-finally-appear-1846674527)
 - [This Is the Worst Smartwatch I've Ever Used](https://gizmodo.com/this-is-the-worst-smartwatch-ive-ever-used-1846652533)
 - [Google Will Shut Down the Google Shopping App for iOS and Android in a Few Weeks](https://gizmodo.com/google-will-shut-down-the-google-shopping-app-for-ios-a-1846662681)
+
 <!-- GIZMODO-POST-LIST:END -->
 
-### _Mobile Dev Memo posts_
+### *Mobile Dev Memo posts*
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+
 - [The end of the beginning on mobile: ATT is enforced next week](https://mobiledevmemo.com/the-end-of-the-beginning-on-mobile-att-is-enforced-next-week/)
 - [The growth trap](https://mobiledevmemo.com/the-growth-trap/)
 - [ATT opt-in rates are irrelevant](https://mobiledevmemo.com/att-opt-in-rates-are-irrelevant/)
@@ -353,30 +370,39 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/android-patterns/
 - [iOS14, Fortnite, and the importance of controlling distribution](https://mobiledevmemo.com/ios14-fortnite-and-the-importance-of-controlling-distribution/)
 - [Apple, CAID, and China: rock, meet hard place](https://mobiledevmemo.com/apple-caid-and-china-rock-meet-hard-place/)
 - [Is VR the bear case for Facebook?](https://mobiledevmemo.com/is-vr-ar-the-bear-case-for-facebook/)
+
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
-### _Infinum posts_
+### *Infinum posts*
 
 <!-- INFINUM-POST-LIST:START -->
+
 - [How Dalvik and ART work?](https://androidsweets.ongoodbits.com/how-dalvik-and-art-work)
 - [Tools to help developers provide a positive user experience](https://androidsweets.ongoodbits.com/tools-to-help-developers-provide-a-positive-user-experience)
 - [Do you know your dependencies?](https://androidsweets.ongoodbits.com/do-you-know-your-dependencies)
 - [Do you think you know all about PendingIntent?](https://androidsweets.ongoodbits.com/do-you-think-you-know-all-about-pendingintent)
 - [Share code between Android and Jvm](https://androidsweets.ongoodbits.com/share-code-between-android-and-jvm)
+
 <!-- INFINUM-POST-LIST:END -->
 
----
+***
 
-[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown&style=for-the-badge)](https://www.markdownguide.org/)
-[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook&style=for-the-badge)](https://www.gitbook.com/)
-[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart&style=for-the-badge)](https://forthebadge.com/)
+[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown\&style=for-the-badge)](https://www.markdownguide.org/)
+[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook\&style=for-the-badge)](https://www.gitbook.com/)
+[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart\&style=for-the-badge)](https://forthebadge.com/)
 
+[repo]: https://github.com/AlexRogalskiy/android-patterns
 
-  [repo]:           https://github.com/AlexRogalskiy/android-patterns
-  [tags]:           https://github.com/AlexRogalskiy/android-patterns/tags
-  [issues]:         https://github.com/AlexRogalskiy/android-patterns/issues
-  [pulls]:          https://github.com/AlexRogalskiy/android-patterns/pulls
-  [wiki]:           https://github.com/AlexRogalskiy/android-patterns/wiki
-  [stars]:          https://github.com/AlexRogalskiy/android-patterns/stargazers
-  [contributors]:   https://github.com/AlexRogalskiy/android-patterns/graphs/contributors
-  [docs]:           https://alexander-rogalsky.gitbook.io/android-patterns/
+[tags]: https://github.com/AlexRogalskiy/android-patterns/tags
+
+[issues]: https://github.com/AlexRogalskiy/android-patterns/issues
+
+[pulls]: https://github.com/AlexRogalskiy/android-patterns/pulls
+
+[wiki]: https://github.com/AlexRogalskiy/android-patterns/wiki
+
+[stars]: https://github.com/AlexRogalskiy/android-patterns/stargazers
+
+[contributors]: https://github.com/AlexRogalskiy/android-patterns/graphs/contributors
+
+[docs]: https://alexander-rogalsky.gitbook.io/android-patterns/
