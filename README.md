@@ -298,7 +298,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Android Arsenal posts*
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
-
 - [Screenshot Detection](http://android-arsenal.com/details/1/8241)
 - [AndroidResourceManager](http://android-arsenal.com/details/1/8240)
 - [FixedHeaderTableLayout](http://android-arsenal.com/details/1/8239)
@@ -309,7 +308,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Composer](http://android-arsenal.com/details/1/8234)
 - [Synth](http://android-arsenal.com/details/1/8233)
 - [TCharts](http://android-arsenal.com/details/1/8232)
-
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### *Medium posts*
