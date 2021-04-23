@@ -243,18 +243,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [Google Play Console shows crashes of forked apps](https://www.reddit.com/r/androiddev/comments/mvplsg/google_play_console_shows_crashes_of_forked_apps/)
-- [\[Open source\] Simple Calculator](https://www.reddit.com/r/androiddev/comments/mvotoq/open_source_simple_calculator/)
-- [How to setup NDK in IntelliJ ultimate on Mac m1?](https://www.reddit.com/r/androiddev/comments/mvoqcv/how_to_setup_ndk_in_intellij_ultimate_on_mac_m1/)
-- [Android 12 deprecate MediaStore Playlists (Is there any captain still controlling the ship?)](https://www.reddit.com/r/androiddev/comments/mvmuin/android\_12\_deprecate_mediastore_playlists_is/)
-- [Android 12 Developer Preview 3](https://www.reddit.com/r/androiddev/comments/mvkjc9/android\_12\_developer_preview\_3/)
-- [Does the developer need to detect and prevent click fraud on their ads or is this handled more by google?](https://www.reddit.com/r/androiddev/comments/mvj7ya/does_the_developer_need_to_detect_and_prevent/)
-- [Lazy and fluent syntactic sugar of Kotlin for initializing Android lifecycle-aware property.](https://www.reddit.com/r/androiddev/comments/mvi5xt/lazy_and_fluent_syntactic_sugar_of_kotlin_for/)
-- [Tools to help developers provide a safer content experience](https://www.reddit.com/r/androiddev/comments/mvhfae/tools_to_help_developers_provide_a_safer_content/)
-- [Total remake of my game - New game or update?](https://www.reddit.com/r/androiddev/comments/mvghgl/total_remake_of_my_game_new_game_or_update/)
-- [Livedata giving null](https://www.reddit.com/r/androiddev/comments/mvg0pw/livedata_giving_null/)
-
+- [If you were to “start over”, how would you go about learning fundamentals?](https://www.reddit.com/r/androiddev/comments/mwjw9y/if_you_were_to_start_over_how_would_you_go_about/)
+- [Dagger Hilt is now stable with 2.35!](https://www.reddit.com/r/androiddev/comments/mwjut9/dagger_hilt_is_now_stable_with_235/)
+- [Developing notes application](https://www.reddit.com/r/androiddev/comments/mwe2md/developing_notes_application/)
+- [How do you work with E2E testing?](https://www.reddit.com/r/androiddev/comments/mwbrwf/how_do_you_work_with_e2e_testing/)
+- [Interested in bringing custom voice tech to Android? I've got the beta program for you!](https://www.reddit.com/r/androiddev/comments/mwbaht/interested_in_bringing_custom_voice_tech_to/)
+- [Scoped Storage Recap](https://www.reddit.com/r/androiddev/comments/mwaqn1/scoped_storage_recap/)
+- [Any way to know if an app is running in the background or not?](https://www.reddit.com/r/androiddev/comments/mwa3cy/any_way_to_know_if_an_app_is_running_in_the/)
+- [Is there any android emulator that Supports magisk? I need an emulator that passes the safetynet, and as of nowl think that can be done only using magisk!](https://www.reddit.com/r/androiddev/comments/mw91wg/is_there_any_android_emulator_that_supports/)
+- [SAF - filter by file extension](https://www.reddit.com/r/androiddev/comments/mw8aan/saf_filter_by_file_extension/)
+- [University Project App Feedback Request](https://www.reddit.com/r/androiddev/comments/mw6nzq/university_project_app_feedback_request/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
