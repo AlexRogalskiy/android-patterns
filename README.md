@@ -313,18 +313,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-
-- [Custom Cluster Marker For Google Maps: How To](https://gabrielwadi.medium.com/custom-cluster-marker-for-google-maps-how-to-8a7b858e2879?source=rss------android-5)
-- [How I show and hide a password in NativeScript on Android](https://medium.com/@stephen.carboni/how-i-show-and-hide-a-password-in-nativescript-on-android-da9450ef4adf?source=rss------android-5)
-- [Android Jetpack : App Startup Kütüphanesi](https://akacaran.medium.com/android-jetpack-app-startup-k%C3%BCt%C3%BCphanesi-d7c7ff80d36a?source=rss------android-5)
-- [Now in Android #38](https://medium.com/androiddevelopers/now-in-android-38-588b043094?source=rss------android-5)
-- [Design to Canvas in Android](https://blog.usejournal.com/design-to-canvas-in-android-81e77d8e136f?source=rss------android-5)
-- [Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb?source=rss------android-5)
-- [Behind the scenes at Moneybox: Meet Jaeren & Valerio](https://medium.com/moneybox-product-engineering/behind-the-scenes-at-moneybox-meet-jaeren-valerio-3343fb8a0337?source=rss------android-5)
-- [Android’in En Son Özelliği, Dikkatinizin Dağılmasını Önleyecek](https://sosyal-teknoloji-news.medium.com/androidin-en-son-%C3%B6zelli%C4%9Fi-dikkatinizin-da%C4%9F%C4%B1lmas%C4%B1n%C4%B1-%C3%B6nleyecek-2be5f39ef368?source=rss------android-5)
-- [Jetpack Compose: building a generic grid canvas](https://patxi.medium.com/jetpack-compose-building-a-generic-grid-canvas-557da35493fe?source=rss------android-5)
-- [Material Motion for Jetpack Compose](https://fornewid.medium.com/material-motion-for-jetpack-compose-d97ef2114b9c?source=rss------android-5)
-
+- [Android Activity Result API](https://oguzhanalpayli.medium.com/android-activity-result-api-daff2156c054?source=rss------android-5)
+- [ДОБИЈТЕ ЈА ВАШАТА НОВА ПАСПОРТ, ЛИЦЕНЦА ЗА ВОЗАЕ, ЛИЦЕНСКИ КАРТИ, SSN, IELTS / TOEFL И ДРУГИ…](https://alihandzer.medium.com/%D0%B4%D0%BE%D0%B1%D0%B8%D1%98%D1%82%D0%B5-%D1%98%D0%B0-%D0%B2%D0%B0%D1%88%D0%B0%D1%82%D0%B0-%D0%BD%D0%BE%D0%B2%D0%B0-%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D1%86%D0%B0-%D0%B7%D0%B0-%D0%B2%D0%BE%D0%B7%D0%B0%D0%B5-%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BA%D0%B0%D1%80%D1%82%D0%B8-ssn-ielts-toefl-%D0%B8-%D0%B4%D1%80%D1%83%D0%B3%D0%B8-ade348b77abf?source=rss------android-5)
+- [Agregar texto en Flutter](https://pepecode6.medium.com/agregar-texto-en-flutter-ad0d7147feef?source=rss------android-5)
+- [Disgaea RPG Takes Your Phone to the Netherworld](https://medium.com/super-jump/disgaea-rpg-takes-your-phone-to-the-netherworld-449700e0f824?source=rss------android-5)
+- [Navigation Drawer using Jetpack Compose](https://proandroiddev.com/navigation-drawer-using-jetpack-compose-27ea7db74903?source=rss------android-5)
+- [Brave — Stealing your cookies remotely](https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675?source=rss------android-5)
+- [The Tragic Tale of Ouya](https://medium.com/super-jump/the-tragic-tale-of-ouya-152bd63b58cc?source=rss------android-5)
+- [Hacker Baba Free Fire APK Download](https://hmuzafar398.medium.com/hacker-baba-free-fire-apk-download-beaa683628b4?source=rss------android-5)
+- [Publish a multi-module Java/Android library to Maven Central + GitHub CI automation at  2021](https://petrakeas.medium.com/publish-a-multi-module-java-android-library-to-maven-central-github-ci-automation-at-2021-4f98a311df2a?source=rss------android-5)
+- [Kotlin - delegate that interface!](https://medium.com/wonderquill/kotlin-delegate-that-interface-1fd97c36019d?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
