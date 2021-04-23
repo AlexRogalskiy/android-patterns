@@ -328,7 +328,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
-
+- [Researchers Take Down Botnet Pretending to Be Millions of People Watching TV](https://gizmodo.com/researchers-take-down-botnet-pretending-to-be-millions-1846726865)
 - [Congrats to OnePlus for Making Its Smartwatch Slightly Less Awful](https://gizmodo.com/congrats-to-oneplus-for-making-its-smartwatch-slightly-1846734118)
 - [Apple's M1 Chip Is a Cruel Reminder of What Android Users Are Missing Out On](https://gizmodo.com/apples-m1-chip-is-a-cruel-reminder-of-what-android-user-1846726731)
 - [Android 12 May Include Feature That Will Hibernate Apps You Haven't Used in a While](https://gizmodo.com/android-12-may-include-feature-that-will-hibernate-apps-1846721234)
@@ -338,8 +338,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Wow, Google, Show Us How You Really Feel About Wear OS](https://gizmodo.com/wow-google-show-us-how-you-really-feel-about-wear-os-1846674295)
 - [New Google Photos Video-Editing Features Finally Appearing on Android Phones](https://gizmodo.com/new-google-photos-video-editing-features-finally-appear-1846674527)
 - [This Is the Worst Smartwatch I've Ever Used](https://gizmodo.com/this-is-the-worst-smartwatch-ive-ever-used-1846652533)
-- [Google Will Shut Down the Google Shopping App for iOS and Android in a Few Weeks](https://gizmodo.com/google-will-shut-down-the-google-shopping-app-for-ios-a-1846662681)
-
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
