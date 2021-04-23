@@ -41,29 +41,31 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Android Design Patterns](#android-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Android Authority posts</em>](#android-authority-posts)
-         * [<em>Android Arsenal posts</em>](#android-arsenal-posts)
-         * [<em>Medium posts</em>](#medium-posts)
-         * [<em>Gizmodo posts</em>](#gizmodo-posts)
-         * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
-         * [<em>Infinum posts</em>](#infinum-posts)
+
+- [Android Design Patterns](#android-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Android Authority posts</em>](#android-authority-posts)
+    - [<em>Android Arsenal posts</em>](#android-arsenal-posts)
+    - [<em>Medium posts</em>](#medium-posts)
+    - [<em>Gizmodo posts</em>](#gizmodo-posts)
+    - [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
+    - [<em>Infinum posts</em>](#infinum-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -121,50 +123,57 @@ The Website documentation is provided by [gitbook](https://www.gitbook.com/) and
 
 [***Android Patterns***][docs]
 
-To enable documentation serving at ***localhost*** the following steps should be considered:
+To enable documentation serving at ***localhost*** you can run the following script
+
+```shell script
+./scripts/build-docs.sh
+```
+
+otherwise, the next steps should be considered:
 
 1\) Install/upgrade ***pip*** command-line utility:
 
-```text
+```shell script
 pip install --upgrade pip
 ```
 
 or if you need to install ***pip*** for the first time:
 
-```text
+```shell script
+wget --no-check-certificate https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 ```
 
 2\) Install the ***mkdocs*** package using pip:
 
-```text
+```shell script
 pip install mkdocs
 ```
 
 or more conveniently for Windows subsystem:
 
-```text
+```shell script
 python -m pip install mkdocs
 python -m mkdocs
 ```
 
 3\) Install the material theme for the website:
 
-```text
-pip install mkdocs-material
-pip install markdown-include
+```shell script
+python -m pip install mkdocs-material
+python -m pip install markdown-include
 ```
 
 4\) Start the server at ***localhost*** by running the following command:
 
-```text
-mkdocs serve --verbose --dirtyreload
+```shell script
+python -m mkdocs serve --verbose --dirtyreload
 ```
 
 5\) Deploy to GitHub pages:
 
-```text
-mkdocs --verbose gh-deploy --force --remote-branch gh-pages
+```shell script
+python -m mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ```
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
@@ -243,8 +252,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [If you were to “start over”, how would you go about learning fundamentals?](https://www.reddit.com/r/androiddev/comments/mwjw9y/if_you_were_to_start_over_how_would_you_go_about/)
-- [Dagger Hilt is now stable with 2.35!](https://www.reddit.com/r/androiddev/comments/mwjut9/dagger_hilt_is_now_stable_with_235/)
+- [Dagger Hilt is now stable with 2.35!](https://www.reddit.com/r/androiddev/comments/mwjut9/dagger_hilt_is_now_stable_with\_235/)
 - [Developing notes application](https://www.reddit.com/r/androiddev/comments/mwe2md/developing_notes_application/)
 - [How do you work with E2E testing?](https://www.reddit.com/r/androiddev/comments/mwbrwf/how_do_you_work_with_e2e_testing/)
 - [Interested in bringing custom voice tech to Android? I've got the beta program for you!](https://www.reddit.com/r/androiddev/comments/mwbaht/interested_in_bringing_custom_voice_tech_to/)
@@ -253,11 +263,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Is there any android emulator that Supports magisk? I need an emulator that passes the safetynet, and as of nowl think that can be done only using magisk!](https://www.reddit.com/r/androiddev/comments/mw91wg/is_there_any_android_emulator_that_supports/)
 - [SAF - filter by file extension](https://www.reddit.com/r/androiddev/comments/mw8aan/saf_filter_by_file_extension/)
 - [University Project App Feedback Request](https://www.reddit.com/r/androiddev/comments/mw6nzq/university_project_app_feedback_request/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
@@ -268,21 +280,25 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
 - [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
 - [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Android SPKI Pinning with TrustKit](https://developers.redhat.com/blog/2017/10/26/android-spki-pinning-trustkit/)
 - [Server-side Kotlin with Eclipse Vert.x at JavaOne](https://developers.redhat.com/blog/2017/10/13/server-side-kotlin-eclipse-vert-x-javaone/)
 - [Testing your Android App’s UI with Espresso](https://developers.redhat.com/blog/2017/07/13/testing-your-android-apps-ui-with-espresso/)
 - [Installing Linux on an Android Phone](https://developers.redhat.com/blog/2017/03/16/installing-linux-on-an-android-phone/)
 - [A step-by-step tutorial for continuous integration with Jenkins on a Red Hat Mobile Native Android application: Part 2](https://developers.redhat.com/blog/2016/08/11/a-step-by-step-tutorial-for-continuous-integration-with-jenkins-on-a-red-hat-mobile-native-android-application-part-2/)
+
 <!-- REDHAT-POST-LIST:END -->
 
 ### *Android Authority posts*
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+
 - [How to make a game in Python: An introduction to Pygame](https://www.androidauthority.com/how-to-make-a-game-in-python-1136589/)
 - [How to call a function in Python](https://www.androidauthority.com/python-function-call-1121793/)
 - [How to use loops in Python](https://www.androidauthority.com/how-to-use-loops-in-python-1148510/)
@@ -293,11 +309,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Python beginner’s guide – Everything you need to know to get started](https://www.androidauthority.com/learn-python-beginner-1142688/)
 - [Kotlin tutorial for Android for beginners: Build a simple quiz](https://www.androidauthority.com/kotlin-tutorial-1134289/)
 - [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
+
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### *Android Arsenal posts*
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+
 - [Screenshot Detection](http://android-arsenal.com/details/1/8241)
 - [AndroidResourceManager](http://android-arsenal.com/details/1/8240)
 - [FixedHeaderTableLayout](http://android-arsenal.com/details/1/8239)
@@ -308,11 +326,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Composer](http://android-arsenal.com/details/1/8234)
 - [Synth](http://android-arsenal.com/details/1/8233)
 - [TCharts](http://android-arsenal.com/details/1/8232)
+
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
+
 - [Android Activity Result API](https://oguzhanalpayli.medium.com/android-activity-result-api-daff2156c054?source=rss------android-5)
 - [ДОБИЈТЕ ЈА ВАШАТА НОВА ПАСПОРТ, ЛИЦЕНЦА ЗА ВОЗАЕ, ЛИЦЕНСКИ КАРТИ, SSN, IELTS / TOEFL И ДРУГИ…](https://alihandzer.medium.com/%D0%B4%D0%BE%D0%B1%D0%B8%D1%98%D1%82%D0%B5-%D1%98%D0%B0-%D0%B2%D0%B0%D1%88%D0%B0%D1%82%D0%B0-%D0%BD%D0%BE%D0%B2%D0%B0-%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D1%86%D0%B0-%D0%B7%D0%B0-%D0%B2%D0%BE%D0%B7%D0%B0%D0%B5-%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BA%D0%B0%D1%80%D1%82%D0%B8-ssn-ielts-toefl-%D0%B8-%D0%B4%D1%80%D1%83%D0%B3%D0%B8-ade348b77abf?source=rss------android-5)
 - [Agregar texto en Flutter](https://pepecode6.medium.com/agregar-texto-en-flutter-ad0d7147feef?source=rss------android-5)
@@ -323,11 +343,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Hacker Baba Free Fire APK Download](https://hmuzafar398.medium.com/hacker-baba-free-fire-apk-download-beaa683628b4?source=rss------android-5)
 - [Publish a multi-module Java/Android library to Maven Central + GitHub CI automation at  2021](https://petrakeas.medium.com/publish-a-multi-module-java-android-library-to-maven-central-github-ci-automation-at-2021-4f98a311df2a?source=rss------android-5)
 - [Kotlin - delegate that interface!](https://medium.com/wonderquill/kotlin-delegate-that-interface-1fd97c36019d?source=rss------android-5)
+
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+
 - [Researchers Take Down Botnet Pretending to Be Millions of People Watching TV](https://gizmodo.com/researchers-take-down-botnet-pretending-to-be-millions-1846726865)
 - [Congrats to OnePlus for Making Its Smartwatch Slightly Less Awful](https://gizmodo.com/congrats-to-oneplus-for-making-its-smartwatch-slightly-1846734118)
 - [Apple's M1 Chip Is a Cruel Reminder of What Android Users Are Missing Out On](https://gizmodo.com/apples-m1-chip-is-a-cruel-reminder-of-what-android-user-1846726731)
@@ -338,11 +360,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Wow, Google, Show Us How You Really Feel About Wear OS](https://gizmodo.com/wow-google-show-us-how-you-really-feel-about-wear-os-1846674295)
 - [New Google Photos Video-Editing Features Finally Appearing on Android Phones](https://gizmodo.com/new-google-photos-video-editing-features-finally-appear-1846674527)
 - [This Is the Worst Smartwatch I've Ever Used](https://gizmodo.com/this-is-the-worst-smartwatch-ive-ever-used-1846652533)
+
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+
 - [The end of the beginning on mobile: ATT is enforced next week](https://mobiledevmemo.com/the-end-of-the-beginning-on-mobile-att-is-enforced-next-week/)
 - [The growth trap](https://mobiledevmemo.com/the-growth-trap/)
 - [ATT opt-in rates are irrelevant](https://mobiledevmemo.com/att-opt-in-rates-are-irrelevant/)
@@ -353,16 +377,19 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [iOS14, Fortnite, and the importance of controlling distribution](https://mobiledevmemo.com/ios14-fortnite-and-the-importance-of-controlling-distribution/)
 - [Apple, CAID, and China: rock, meet hard place](https://mobiledevmemo.com/apple-caid-and-china-rock-meet-hard-place/)
 - [Is VR the bear case for Facebook?](https://mobiledevmemo.com/is-vr-ar-the-bear-case-for-facebook/)
+
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### *Infinum posts*
 
 <!-- INFINUM-POST-LIST:START -->
+
 - [How Dalvik and ART work?](https://androidsweets.ongoodbits.com/how-dalvik-and-art-work)
 - [Tools to help developers provide a positive user experience](https://androidsweets.ongoodbits.com/tools-to-help-developers-provide-a-positive-user-experience)
 - [Do you know your dependencies?](https://androidsweets.ongoodbits.com/do-you-know-your-dependencies)
 - [Do you think you know all about PendingIntent?](https://androidsweets.ongoodbits.com/do-you-think-you-know-all-about-pendingintent)
 - [Share code between Android and Jvm](https://androidsweets.ongoodbits.com/share-code-between-android-and-jvm)
+
 <!-- INFINUM-POST-LIST:END -->
 
 ***
