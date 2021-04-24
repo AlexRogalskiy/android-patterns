@@ -305,7 +305,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Android Arsenal posts*
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
-
+- [Comparing Performance Bar](http://android-arsenal.com/details/1/8242)
 - [Screenshot Detection](http://android-arsenal.com/details/1/8241)
 - [AndroidResourceManager](http://android-arsenal.com/details/1/8240)
 - [FixedHeaderTableLayout](http://android-arsenal.com/details/1/8239)
@@ -315,8 +315,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Android BLE Made Easy](http://android-arsenal.com/details/1/8235)
 - [Composer](http://android-arsenal.com/details/1/8234)
 - [Synth](http://android-arsenal.com/details/1/8233)
-- [TCharts](http://android-arsenal.com/details/1/8232)
-
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### *Medium posts*
