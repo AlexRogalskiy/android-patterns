@@ -320,18 +320,15 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-
-- [Android Activity Result API](https://oguzhanalpayli.medium.com/android-activity-result-api-daff2156c054?source=rss------android-5)
-- [ДОБИЈТЕ ЈА ВАШАТА НОВА ПАСПОРТ, ЛИЦЕНЦА ЗА ВОЗАЕ, ЛИЦЕНСКИ КАРТИ, SSN, IELTS / TOEFL И ДРУГИ…](https://alihandzer.medium.com/%D0%B4%D0%BE%D0%B1%D0%B8%D1%98%D1%82%D0%B5-%D1%98%D0%B0-%D0%B2%D0%B0%D1%88%D0%B0%D1%82%D0%B0-%D0%BD%D0%BE%D0%B2%D0%B0-%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D1%86%D0%B0-%D0%B7%D0%B0-%D0%B2%D0%BE%D0%B7%D0%B0%D0%B5-%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BA%D0%B0%D1%80%D1%82%D0%B8-ssn-ielts-toefl-%D0%B8-%D0%B4%D1%80%D1%83%D0%B3%D0%B8-ade348b77abf?source=rss------android-5)
-- [Agregar texto en Flutter](https://pepecode6.medium.com/agregar-texto-en-flutter-ad0d7147feef?source=rss------android-5)
-- [Disgaea RPG Takes Your Phone to the Netherworld](https://medium.com/super-jump/disgaea-rpg-takes-your-phone-to-the-netherworld-449700e0f824?source=rss------android-5)
-- [Navigation Drawer using Jetpack Compose](https://proandroiddev.com/navigation-drawer-using-jetpack-compose-27ea7db74903?source=rss------android-5)
-- [Brave — Stealing your cookies remotely](https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675?source=rss------android-5)
-- [The Tragic Tale of Ouya](https://medium.com/super-jump/the-tragic-tale-of-ouya-152bd63b58cc?source=rss------android-5)
-- [Hacker Baba Free Fire APK Download](https://hmuzafar398.medium.com/hacker-baba-free-fire-apk-download-beaa683628b4?source=rss------android-5)
-- [Publish a multi-module Java/Android library to Maven Central + GitHub CI automation at  2021](https://petrakeas.medium.com/publish-a-multi-module-java-android-library-to-maven-central-github-ci-automation-at-2021-4f98a311df2a?source=rss------android-5)
-- [Kotlin - delegate that interface!](https://medium.com/wonderquill/kotlin-delegate-that-interface-1fd97c36019d?source=rss------android-5)
-
+- [Cómo integrar Huawei Map Kit en Xamarin](https://medium.com/huawei-developers-latinoam%C3%A9rica/c%C3%B3mo-integrar-huawei-map-kit-en-xamarin-f26aa4f349de?source=rss------android-5)
+- [ZOAKS Weekly Summary from the Latest News #16–1](https://zoaksteam.medium.com/zoaks-weekly-summary-from-the-latest-news-16-1-66fb3aae34c0?source=rss------android-5)
+- [Dragon City Mod APK[l](https://alymalang00.medium.com/dragon-city-mod-apk-l-1cfaad1e708b?source=rss------android-5)
+- [Using Reflection in Android](https://medium.com/predict/using-reflection-in-android-87e56329c706?source=rss------android-5)
+- [Scared Grate Apk Download](https://hmuzafar398.medium.com/scared-grate-apk-download-bf22d4d3a96e?source=rss------android-5)
+- [Lessons learned when migrating my app to Jetpack Compose](https://proandroiddev.com/lessons-learned-when-migrating-my-app-to-jetpack-compose-55ea1b05b988?source=rss------android-5)
+- [Basics of Kotlin- Part 2](https://csj5483.medium.com/basics-of-kotlin-part-2-ff3c14b2e625?source=rss------android-5)
+- [Extension Functions and Swipe for delete.](https://andrewthompson-80543.medium.com/extension-functions-and-swipe-for-delete-4cb5226edca1?source=rss------android-5)
+- [Handling user selectable themes in Jetpack Compose](https://fvilarino.medium.com/handling-user-selectable-themes-in-jetpack-compose-c7509784da16?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
