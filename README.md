@@ -250,18 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [If you were to “start over”, how would you go about learning fundamentals?](https://www.reddit.com/r/androiddev/comments/mwjw9y/if_you_were_to_start_over_how_would_you_go_about/)
-- [Dagger Hilt is now stable with 2.35!](https://www.reddit.com/r/androiddev/comments/mwjut9/dagger_hilt_is_now_stable_with\_235/)
-- [Developing notes application](https://www.reddit.com/r/androiddev/comments/mwe2md/developing_notes_application/)
-- [How do you work with E2E testing?](https://www.reddit.com/r/androiddev/comments/mwbrwf/how_do_you_work_with_e2e_testing/)
-- [Interested in bringing custom voice tech to Android? I've got the beta program for you!](https://www.reddit.com/r/androiddev/comments/mwbaht/interested_in_bringing_custom_voice_tech_to/)
-- [Scoped Storage Recap](https://www.reddit.com/r/androiddev/comments/mwaqn1/scoped_storage_recap/)
-- [Any way to know if an app is running in the background or not?](https://www.reddit.com/r/androiddev/comments/mwa3cy/any_way_to_know_if_an_app_is_running_in_the/)
-- [Is there any android emulator that Supports magisk? I need an emulator that passes the safetynet, and as of nowl think that can be done only using magisk!](https://www.reddit.com/r/androiddev/comments/mw91wg/is_there_any_android_emulator_that_supports/)
-- [SAF - filter by file extension](https://www.reddit.com/r/androiddev/comments/mw8aan/saf_filter_by_file_extension/)
-- [University Project App Feedback Request](https://www.reddit.com/r/androiddev/comments/mw6nzq/university_project_app_feedback_request/)
-
+- [SQLDelight v1.5.0 released](https://www.reddit.com/r/androiddev/comments/mx8j48/sqldelight_v150_released/)
+- [Why Declarative UIs matter on Android? All the answers in this article](https://www.reddit.com/r/androiddev/comments/mx7m2c/why_declarative_uis_matter_on_android_all_the/)
+- [IMO Verve Android 6.0 FRP Bypass](https://www.reddit.com/r/androiddev/comments/mx40p4/imo_verve_android_60_frp_bypass/)
+- [Keeping up to date with the Android Topics](https://www.reddit.com/r/androiddev/comments/mx3ypz/keeping_up_to_date_with_the_android_topics/)
+- [Androidtv live-tv app build, Protocol Buffers Files](https://www.reddit.com/r/androiddev/comments/mx3lti/androidtv_livetv_app_build_protocol_buffers_files/)
+- [Emulator is killing my Mac mini. Is there any way to reduce usage of Emulator? (I tried disabling the sound for emulator through config file already, doesn't fix anything).](https://www.reddit.com/r/androiddev/comments/mx299l/emulator_is_killing_my_mac_mini_is_there_any_way/)
+- [RecyclerViews and the Law of Demeter!](https://www.reddit.com/r/androiddev/comments/mx1vst/recyclerviews_and_the_law_of_demeter/)
+- [Accessibility in a Scrollview. Should the accessibility focus force it to scroll down further?](https://www.reddit.com/r/androiddev/comments/mx1afq/accessibility_in_a_scrollview_should_the/)
+- [ELI5: Layout Inflation](https://www.reddit.com/r/androiddev/comments/mwzfj8/eli5_layout_inflation/)
+- [Showing No internet in Android App](https://www.reddit.com/r/androiddev/comments/mwyuzj/showing_no_internet_in_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
