@@ -364,13 +364,11 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Infinum posts*
 
 <!-- INFINUM-POST-LIST:START -->
-
+- [How to have Modular Navigation with Jetpack Compose?](https://androidsweets.ongoodbits.com/how-to-have-modular-navigation-with-jetpack-compose)
 - [How Dalvik and ART work?](https://androidsweets.ongoodbits.com/how-dalvik-and-art-work)
 - [Tools to help developers provide a positive user experience](https://androidsweets.ongoodbits.com/tools-to-help-developers-provide-a-positive-user-experience)
 - [Do you know your dependencies?](https://androidsweets.ongoodbits.com/do-you-know-your-dependencies)
 - [Do you think you know all about PendingIntent?](https://androidsweets.ongoodbits.com/do-you-think-you-know-all-about-pendingintent)
-- [Share code between Android and Jvm](https://androidsweets.ongoodbits.com/share-code-between-android-and-jvm)
-
 <!-- INFINUM-POST-LIST:END -->
 
 ***
