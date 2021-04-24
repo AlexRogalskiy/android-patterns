@@ -290,7 +290,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Android Authority posts*
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
-
 - [How to make a game in Python: An introduction to Pygame](https://www.androidauthority.com/how-to-make-a-game-in-python-1136589/)
 - [How to call a function in Python](https://www.androidauthority.com/python-function-call-1121793/)
 - [How to use loops in Python](https://www.androidauthority.com/how-to-use-loops-in-python-1148510/)
@@ -301,7 +300,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Python beginner’s guide – Everything you need to know to get started](https://www.androidauthority.com/learn-python-beginner-1142688/)
 - [Kotlin tutorial for Android for beginners: Build a simple quiz](https://www.androidauthority.com/kotlin-tutorial-1134289/)
 - [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
-
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### *Android Arsenal posts*
