@@ -305,6 +305,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Android Arsenal posts*
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+- [SSImagePicker](http://android-arsenal.com/details/1/8243)
 - [Comparing Performance Bar](http://android-arsenal.com/details/1/8242)
 - [Screenshot Detection](http://android-arsenal.com/details/1/8241)
 - [AndroidResourceManager](http://android-arsenal.com/details/1/8240)
@@ -314,7 +315,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [MaterialDialogFragments](http://android-arsenal.com/details/1/8236)
 - [Android BLE Made Easy](http://android-arsenal.com/details/1/8235)
 - [Composer](http://android-arsenal.com/details/1/8234)
-- [Synth](http://android-arsenal.com/details/1/8233)
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### *Medium posts*
