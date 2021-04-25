@@ -320,15 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Cómo integrar Huawei Map Kit en Xamarin](https://medium.com/huawei-developers-latinoam%C3%A9rica/c%C3%B3mo-integrar-huawei-map-kit-en-xamarin-f26aa4f349de?source=rss------android-5)
-- [ZOAKS Weekly Summary from the Latest News #16–1](https://zoaksteam.medium.com/zoaks-weekly-summary-from-the-latest-news-16-1-66fb3aae34c0?source=rss------android-5)
-- [Dragon City Mod APK[l](https://alymalang00.medium.com/dragon-city-mod-apk-l-1cfaad1e708b?source=rss------android-5)
-- [Using Reflection in Android](https://medium.com/predict/using-reflection-in-android-87e56329c706?source=rss------android-5)
-- [Scared Grate Apk Download](https://hmuzafar398.medium.com/scared-grate-apk-download-bf22d4d3a96e?source=rss------android-5)
-- [Lessons learned when migrating my app to Jetpack Compose](https://proandroiddev.com/lessons-learned-when-migrating-my-app-to-jetpack-compose-55ea1b05b988?source=rss------android-5)
-- [Basics of Kotlin- Part 2](https://csj5483.medium.com/basics-of-kotlin-part-2-ff3c14b2e625?source=rss------android-5)
-- [Extension Functions and Swipe for delete.](https://andrewthompson-80543.medium.com/extension-functions-and-swipe-for-delete-4cb5226edca1?source=rss------android-5)
-- [Handling user selectable themes in Jetpack Compose](https://fvilarino.medium.com/handling-user-selectable-themes-in-jetpack-compose-c7509784da16?source=rss------android-5)
+- [Oneplus 8T Review.](https://princemanik1971.medium.com/oneplus-8t-review-95606298f23?source=rss------android-5)
+- [Android ConstraintLayout — All of the Things](https://medium.com/geekculture/android-constraintlayout-all-of-the-things-7b74ba9a366b?source=rss------android-5)
+- [Galaxy Note 20 Ultra camera update | Which Samsung Note has the best camera?](https://sk6446777.medium.com/galaxy-note-20-ultra-camera-update-which-samsung-note-has-the-best-camera-271a4580ba96?source=rss------android-5)
+- [Local Notifications In Flutter](https://medium.com/flutter-community/local-notifications-in-flutter-746eb1d606c6?source=rss------android-5)
+- [The Problem with Clubhouse Being iOS-only at This Point](https://medium.com/voiceedu/the-problem-with-clubhouse-being-ios-only-at-this-point-f829f756ad69?source=rss------android-5)
+- [Tic Tac Toe with Android Studio](https://medium.com/@harshitbhatt972/tic-tac-toe-with-android-studio-ba65f8689b73?source=rss------android-5)
+- [How to set a Ringtone from an MP3 file on  iPhone](https://medium.com/idomongodb/how-to-set-a-ringtone-from-an-mp3-file-on-iphone-59697a339ef2?source=rss------android-5)
+- [Google Assistant For Android Lets You Run Quick Commands Without Having to Say “Ok Google”](https://medium.com/@thetechnodiary.com/google-assistant-for-android-lets-you-run-quick-commands-without-having-to-say-ok-google-59dbf89bc0f6?source=rss------android-5)
+- [HMS Remote Configuration — Notificar nueva versión y otras funciones](https://firemixdev.medium.com/hms-remote-configuration-notificar-nueva-versi%C3%B3n-y-otras-funciones-559d92204401?source=rss------android-5)
+- [Run Multiple Android Studio Versions On A Single Machine](https://medium.com/dwarsoft/run-multiple-android-studio-versions-on-a-single-machine-2a7d00045813?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
