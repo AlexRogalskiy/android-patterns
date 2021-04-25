@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [SQLDelight v1.5.0 released](https://www.reddit.com/r/androiddev/comments/mx8j48/sqldelight_v150_released/)
-- [Why Declarative UIs matter on Android? All the answers in this article](https://www.reddit.com/r/androiddev/comments/mx7m2c/why_declarative_uis_matter_on_android_all_the/)
-- [IMO Verve Android 6.0 FRP Bypass](https://www.reddit.com/r/androiddev/comments/mx40p4/imo_verve_android_60_frp_bypass/)
-- [Keeping up to date with the Android Topics](https://www.reddit.com/r/androiddev/comments/mx3ypz/keeping_up_to_date_with_the_android_topics/)
-- [Androidtv live-tv app build, Protocol Buffers Files](https://www.reddit.com/r/androiddev/comments/mx3lti/androidtv_livetv_app_build_protocol_buffers_files/)
-- [Emulator is killing my Mac mini. Is there any way to reduce usage of Emulator? (I tried disabling the sound for emulator through config file already, doesn't fix anything).](https://www.reddit.com/r/androiddev/comments/mx299l/emulator_is_killing_my_mac_mini_is_there_any_way/)
-- [RecyclerViews and the Law of Demeter!](https://www.reddit.com/r/androiddev/comments/mx1vst/recyclerviews_and_the_law_of_demeter/)
-- [Accessibility in a Scrollview. Should the accessibility focus force it to scroll down further?](https://www.reddit.com/r/androiddev/comments/mx1afq/accessibility_in_a_scrollview_should_the/)
-- [ELI5: Layout Inflation](https://www.reddit.com/r/androiddev/comments/mwzfj8/eli5_layout_inflation/)
-- [Showing No internet in Android App](https://www.reddit.com/r/androiddev/comments/mwyuzj/showing_no_internet_in_android_app/)
+- [app idea](https://www.reddit.com/r/androiddev/comments/mxtq1q/app_idea/)
+- [Why smartphones with identical hardware have different performance? Which parts of Android OS that are usually modified/implemented by smartphone manufacturers have the greatest impact on it?](https://www.reddit.com/r/androiddev/comments/mxro8v/why_smartphones_with_identical_hardware_have/)
+- [Tap Response Time: Jetpack Navigation](https://www.reddit.com/r/androiddev/comments/mxrjkx/tap_response_time_jetpack_navigation/)
+- [Android Login template with the most common login methods with Firebase.](https://www.reddit.com/r/androiddev/comments/mxrgxr/android_login_template_with_the_most_common_login/)
+- [First time Android app developer. Please send me down the right path.](https://www.reddit.com/r/androiddev/comments/mxr48x/first_time_android_app_developer_please_send_me/)
+- [Admob Issues Again](https://www.reddit.com/r/androiddev/comments/mxqfmg/admob_issues_again/)
+- [How to translate your application](https://www.reddit.com/r/androiddev/comments/mxoncv/how_to_translate_your_application/)
+- [Are there any services/websites that will make apks or webapps from urls?](https://www.reddit.com/r/androiddev/comments/mxoi83/are_there_any_serviceswebsites_that_will_make/)
+- [Android Modular Navigation](https://www.reddit.com/r/androiddev/comments/mxnxyu/android_modular_navigation/)
+- [Does Admob SDK V20 improve ad performance?](https://www.reddit.com/r/androiddev/comments/mxmb5e/does_admob_sdk_v20_improve_ad_performance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
