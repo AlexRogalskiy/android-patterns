@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [app idea](https://www.reddit.com/r/androiddev/comments/mxtq1q/app_idea/)
-- [Why smartphones with identical hardware have different performance? Which parts of Android OS that are usually modified/implemented by smartphone manufacturers have the greatest impact on it?](https://www.reddit.com/r/androiddev/comments/mxro8v/why_smartphones_with_identical_hardware_have/)
-- [Tap Response Time: Jetpack Navigation](https://www.reddit.com/r/androiddev/comments/mxrjkx/tap_response_time_jetpack_navigation/)
-- [Android Login template with the most common login methods with Firebase.](https://www.reddit.com/r/androiddev/comments/mxrgxr/android_login_template_with_the_most_common_login/)
-- [First time Android app developer. Please send me down the right path.](https://www.reddit.com/r/androiddev/comments/mxr48x/first_time_android_app_developer_please_send_me/)
-- [Admob Issues Again](https://www.reddit.com/r/androiddev/comments/mxqfmg/admob_issues_again/)
-- [How to translate your application](https://www.reddit.com/r/androiddev/comments/mxoncv/how_to_translate_your_application/)
-- [Are there any services/websites that will make apks or webapps from urls?](https://www.reddit.com/r/androiddev/comments/mxoi83/are_there_any_serviceswebsites_that_will_make/)
-- [Android Modular Navigation](https://www.reddit.com/r/androiddev/comments/mxnxyu/android_modular_navigation/)
-- [Does Admob SDK V20 improve ad performance?](https://www.reddit.com/r/androiddev/comments/mxmb5e/does_admob_sdk_v20_improve_ad_performance/)
+- [Looking for Tutor for Android App Dev](https://www.reddit.com/r/androiddev/comments/mymhx8/looking_for_tutor_for_android_app_dev/)
+- [Programming for Tile Tracker?](https://www.reddit.com/r/androiddev/comments/mylrio/programming_for_tile_tracker/)
+- [Android Studio on Linux - OpenJDK or Oracle JDK?](https://www.reddit.com/r/androiddev/comments/myk9vc/android_studio_on_linux_openjdk_or_oracle_jdk/)
+- [Use mobile data while connected to my laptop's hotspot](https://www.reddit.com/r/androiddev/comments/mybl4c/use_mobile_data_while_connected_to_my_laptops/)
+- [Is this against data laws ?](https://www.reddit.com/r/androiddev/comments/mybdzh/is_this_against_data_laws/)
+- [Library private resources](https://www.reddit.com/r/androiddev/comments/myb8us/library_private_resources/)
+- [Using App Mediation](https://www.reddit.com/r/androiddev/comments/my8itp/using_app_mediation/)
+- [Why lawmakers are so interested in Apple’s and Google’s “rents”](https://www.reddit.com/r/androiddev/comments/my8dk4/why_lawmakers_are_so_interested_in_apples_and/)
+- [Changing bundle Id to reset the ratings. What to expect?](https://www.reddit.com/r/androiddev/comments/my5sxz/changing_bundle_id_to_reset_the_ratings_what_to/)
+- [Android Setup Decent Look](https://www.reddit.com/r/androiddev/comments/my401o/android_setup_decent_look/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
