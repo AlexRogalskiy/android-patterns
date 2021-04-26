@@ -320,16 +320,15 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Oneplus 8T Review.](https://princemanik1971.medium.com/oneplus-8t-review-95606298f23?source=rss------android-5)
-- [Android ConstraintLayout — All of the Things](https://medium.com/geekculture/android-constraintlayout-all-of-the-things-7b74ba9a366b?source=rss------android-5)
-- [Galaxy Note 20 Ultra camera update | Which Samsung Note has the best camera?](https://sk6446777.medium.com/galaxy-note-20-ultra-camera-update-which-samsung-note-has-the-best-camera-271a4580ba96?source=rss------android-5)
-- [Local Notifications In Flutter](https://medium.com/flutter-community/local-notifications-in-flutter-746eb1d606c6?source=rss------android-5)
-- [The Problem with Clubhouse Being iOS-only at This Point](https://medium.com/voiceedu/the-problem-with-clubhouse-being-ios-only-at-this-point-f829f756ad69?source=rss------android-5)
-- [Tic Tac Toe with Android Studio](https://medium.com/@harshitbhatt972/tic-tac-toe-with-android-studio-ba65f8689b73?source=rss------android-5)
-- [How to set a Ringtone from an MP3 file on  iPhone](https://medium.com/idomongodb/how-to-set-a-ringtone-from-an-mp3-file-on-iphone-59697a339ef2?source=rss------android-5)
-- [Google Assistant For Android Lets You Run Quick Commands Without Having to Say “Ok Google”](https://medium.com/@thetechnodiary.com/google-assistant-for-android-lets-you-run-quick-commands-without-having-to-say-ok-google-59dbf89bc0f6?source=rss------android-5)
-- [HMS Remote Configuration — Notificar nueva versión y otras funciones](https://firemixdev.medium.com/hms-remote-configuration-notificar-nueva-versi%C3%B3n-y-otras-funciones-559d92204401?source=rss------android-5)
-- [Run Multiple Android Studio Versions On A Single Machine](https://medium.com/dwarsoft/run-multiple-android-studio-versions-on-a-single-machine-2a7d00045813?source=rss------android-5)
+- [Jetpack Compose の Navigation Compose で画面遷移を実現する](https://kaleidot.net/jetpack-compose-%E3%81%AE-navigation-compose-%E3%81%A7%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B-5ce09b446c?source=rss------android-5)
+- [Android user authentication using Firebase with Spring boot backend — Part 2](https://richygreat.medium.com/android-user-authentication-using-firebase-with-spring-boot-backend-part-2-2a7243cf5b0c?source=rss------android-5)
+- [Controlling video and audio in android application with android studio](https://medium.com/@harshitbhatt972/controlling-video-and-audio-in-android-application-with-android-studio-177a3cf6328c?source=rss------android-5)
+- [Background work in Android : WorkManager .](https://marouene-khadhraoui.medium.com/background-work-in-android-workmanager-a228ffbcbdee?source=rss------android-5)
+- [Free-Mobi Ringtones](https://freemobi-ringtones.medium.com/free-mobi-ringtones-ebc6d5787f9b?source=rss------android-5)
+- [Cops & Thugs: Police Car Chase — Endless Chase](https://iamfahad1296.medium.com/cops-thugs-police-car-chase-endless-chase-dc008c681f87?source=rss------android-5)
+- [Android 12 will be Featuring Extra dim mode](https://techberg.medium.com/android-12-will-be-featuring-extra-dim-mode-dbebdb43b58f?source=rss------android-5)
+- [Swipe to Delete and Undo in Android RecyclerView](https://walidum.medium.com/swipe-to-delete-and-undo-in-android-recyclerview-6066b5d73541?source=rss------android-5)
+- [Kotlin Collections](https://rcpyesilkaya.medium.com/kotlin-collections-c1ca6af5da87?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
