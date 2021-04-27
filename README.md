@@ -320,15 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Jetpack Compose の Navigation Compose で画面遷移を実現する](https://kaleidot.net/jetpack-compose-%E3%81%AE-navigation-compose-%E3%81%A7%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B-5ce09b446c?source=rss------android-5)
-- [Android user authentication using Firebase with Spring boot backend — Part 2](https://richygreat.medium.com/android-user-authentication-using-firebase-with-spring-boot-backend-part-2-2a7243cf5b0c?source=rss------android-5)
-- [Controlling video and audio in android application with android studio](https://medium.com/@harshitbhatt972/controlling-video-and-audio-in-android-application-with-android-studio-177a3cf6328c?source=rss------android-5)
-- [Background work in Android : WorkManager .](https://marouene-khadhraoui.medium.com/background-work-in-android-workmanager-a228ffbcbdee?source=rss------android-5)
-- [Free-Mobi Ringtones](https://freemobi-ringtones.medium.com/free-mobi-ringtones-ebc6d5787f9b?source=rss------android-5)
-- [Cops & Thugs: Police Car Chase — Endless Chase](https://iamfahad1296.medium.com/cops-thugs-police-car-chase-endless-chase-dc008c681f87?source=rss------android-5)
-- [Android 12 will be Featuring Extra dim mode](https://techberg.medium.com/android-12-will-be-featuring-extra-dim-mode-dbebdb43b58f?source=rss------android-5)
-- [Swipe to Delete and Undo in Android RecyclerView](https://walidum.medium.com/swipe-to-delete-and-undo-in-android-recyclerview-6066b5d73541?source=rss------android-5)
-- [Kotlin Collections](https://rcpyesilkaya.medium.com/kotlin-collections-c1ca6af5da87?source=rss------android-5)
+- [Android Lifecycle Revised](https://victorbrandalise.medium.com/android-lifecycle-revised-9974eb952bc5?source=rss------android-5)
+- [Herramientas de informática para Android](https://vay3t.medium.com/herramientas-de-inform%C3%A1tica-para-android-fe01bb9b0e98?source=rss------android-5)
+- [An organization out to help and to give privilege to the less privilege and also to enhance power](https://elp541113.medium.com/an-organization-out-to-help-and-to-give-privilege-to-the-less-privilege-and-also-to-enhance-power-534d5ec2ab01?source=rss------android-5)
+- [FluBot: An Andriod password-stealing malware](https://priderockjoy.medium.com/flubot-an-andriod-password-stealing-malware-4cc5ec0a2529?source=rss------android-5)
+- [Eyecandying Android app’s splash screen with animations](https://aednlaxer.medium.com/eyecandying-android-apps-splash-screen-with-animations-b6630c732940?source=rss------android-5)
+- [MLive Mod Apk (2.3.6.5)_Unlock Room_Latest Version 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/mlive-mod-apk-2-3-6-5-unlock-room-latest-version-2021-22-free-download-for-android-mobile-apk-d0861a7ca378?source=rss------android-5)
+- [Creating a custom modifier attribute on Jetpack Compose](https://fvilarino.medium.com/creating-a-custom-modifier-attribute-on-jetpack-compose-f100c6bcb987?source=rss------android-5)
+- [Jetpack Compose — Earthquake Effect](https://pauloaapereira.medium.com/jetpack-compose-earthquake-effect-9c3c0701fd2c?source=rss------android-5)
+- [YouCut Pro Apk Latest Version 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/youcut-pro-apk-latest-version-2021-22-free-download-for-android-mobile-apk-13f984aa7ee1?source=rss------android-5)
+- [Having Texting Issues After Switching from Android to iPhone? Here’s a Possible Fix](https://joshuabeckthewriter.medium.com/having-texting-issues-after-switching-from-android-to-iphone-heres-a-possible-fix-cd94efae812c?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
