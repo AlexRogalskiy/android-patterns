@@ -350,6 +350,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Mobile Dev Memo posts*
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [iOS 14: How to prevail in Q2 2021](https://mobiledevmemo.com/ios-14-prevailing-in-q2-2021/)
 - [The end of the beginning on mobile: ATT is enforced next week](https://mobiledevmemo.com/the-end-of-the-beginning-on-mobile-att-is-enforced-next-week/)
 - [The growth trap](https://mobiledevmemo.com/the-growth-trap/)
 - [ATT opt-in rates are irrelevant](https://mobiledevmemo.com/att-opt-in-rates-are-irrelevant/)
@@ -359,7 +360,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Surveillance advertising is a myth](https://mobiledevmemo.com/surveillance-advertising-is-a-myth/)
 - [iOS14, Fortnite, and the importance of controlling distribution](https://mobiledevmemo.com/ios14-fortnite-and-the-importance-of-controlling-distribution/)
 - [Apple, CAID, and China: rock, meet hard place](https://mobiledevmemo.com/apple-caid-and-china-rock-meet-hard-place/)
-- [Is VR the bear case for Facebook?](https://mobiledevmemo.com/is-vr-ar-the-bear-case-for-facebook/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### *Infinum posts*
