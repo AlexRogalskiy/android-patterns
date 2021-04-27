@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for Tutor for Android App Dev](https://www.reddit.com/r/androiddev/comments/mymhx8/looking_for_tutor_for_android_app_dev/)
-- [Programming for Tile Tracker?](https://www.reddit.com/r/androiddev/comments/mylrio/programming_for_tile_tracker/)
-- [Android Studio on Linux - OpenJDK or Oracle JDK?](https://www.reddit.com/r/androiddev/comments/myk9vc/android_studio_on_linux_openjdk_or_oracle_jdk/)
-- [Use mobile data while connected to my laptop's hotspot](https://www.reddit.com/r/androiddev/comments/mybl4c/use_mobile_data_while_connected_to_my_laptops/)
-- [Is this against data laws ?](https://www.reddit.com/r/androiddev/comments/mybdzh/is_this_against_data_laws/)
-- [Library private resources](https://www.reddit.com/r/androiddev/comments/myb8us/library_private_resources/)
-- [Using App Mediation](https://www.reddit.com/r/androiddev/comments/my8itp/using_app_mediation/)
-- [Why lawmakers are so interested in Apple’s and Google’s “rents”](https://www.reddit.com/r/androiddev/comments/my8dk4/why_lawmakers_are_so_interested_in_apples_and/)
-- [Changing bundle Id to reset the ratings. What to expect?](https://www.reddit.com/r/androiddev/comments/my5sxz/changing_bundle_id_to_reset_the_ratings_what_to/)
-- [Android Setup Decent Look](https://www.reddit.com/r/androiddev/comments/my401o/android_setup_decent_look/)
+- [UK company charging VAT](https://www.reddit.com/r/androiddev/comments/mzbsip/uk_company_charging_vat/)
+- [New Android Device Actually Shipping](https://www.reddit.com/r/androiddev/comments/mzart2/new_android_device_actually_shipping/)
+- [KotlinX Coroutines Release 1.5.0-RC](https://www.reddit.com/r/androiddev/comments/mzane5/kotlinx_coroutines_release_150rc/)
+- [What is the best way to keep the auth token?](https://www.reddit.com/r/androiddev/comments/mz8ac3/what_is_the_best_way_to_keep_the_auth_token/)
+- [Question regarding Google coroutine example](https://www.reddit.com/r/androiddev/comments/mz76a2/question_regarding_google_coroutine_example/)
+- [Apple just posted this about data, I wonder how Google will respond. Especially with data mining being the center of many of Google's core businesses.](https://www.reddit.com/r/androiddev/comments/mz5n8x/apple_just_posted_this_about_data_i_wonder_how/)
+- [Use delegates to access Room methods from the Ui](https://www.reddit.com/r/androiddev/comments/mz57he/use_delegates_to_access_room_methods_from_the_ui/)
+- [How to select vector path in android?](https://www.reddit.com/r/androiddev/comments/mz471n/how_to_select_vector_path_in_android/)
+- [The current state of audio manipulation frameworks in Android](https://www.reddit.com/r/androiddev/comments/mz2r81/the_current_state_of_audio_manipulation/)
+- [Android SAF Create Document - URI Manipulation](https://www.reddit.com/r/androiddev/comments/mz2j9s/android_saf_create_document_uri_manipulation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
