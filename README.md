@@ -41,29 +41,31 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Android Design Patterns](#android-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Android Authority posts</em>](#android-authority-posts)
-         * [<em>Android Arsenal posts</em>](#android-arsenal-posts)
-         * [<em>Medium posts</em>](#medium-posts)
-         * [<em>Gizmodo posts</em>](#gizmodo-posts)
-         * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
-         * [<em>Infinum posts</em>](#infinum-posts)
+
+- [Android Design Patterns](#android-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Android Authority posts</em>](#android-authority-posts)
+    - [<em>Android Arsenal posts</em>](#android-arsenal-posts)
+    - [<em>Medium posts</em>](#medium-posts)
+    - [<em>Gizmodo posts</em>](#gizmodo-posts)
+    - [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
+    - [<em>Infinum posts</em>](#infinum-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -250,9 +252,10 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [UK company charging VAT](https://www.reddit.com/r/androiddev/comments/mzbsip/uk_company_charging_vat/)
 - [New Android Device Actually Shipping](https://www.reddit.com/r/androiddev/comments/mzart2/new_android_device_actually_shipping/)
-- [KotlinX Coroutines Release 1.5.0-RC](https://www.reddit.com/r/androiddev/comments/mzane5/kotlinx_coroutines_release_150rc/)
+- [KotlinX Coroutines Release 1.5.0-RC](https://www.reddit.com/r/androiddev/comments/mzane5/kotlinx_coroutines_release\_150rc/)
 - [What is the best way to keep the auth token?](https://www.reddit.com/r/androiddev/comments/mz8ac3/what_is_the_best_way_to_keep_the_auth_token/)
 - [Question regarding Google coroutine example](https://www.reddit.com/r/androiddev/comments/mz76a2/question_regarding_google_coroutine_example/)
 - [Apple just posted this about data, I wonder how Google will respond. Especially with data mining being the center of many of Google's core businesses.](https://www.reddit.com/r/androiddev/comments/mz5n8x/apple_just_posted_this_about_data_i_wonder_how/)
@@ -260,11 +263,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [How to select vector path in android?](https://www.reddit.com/r/androiddev/comments/mz471n/how_to_select_vector_path_in_android/)
 - [The current state of audio manipulation frameworks in Android](https://www.reddit.com/r/androiddev/comments/mz2r81/the_current_state_of_audio_manipulation/)
 - [Android SAF Create Document - URI Manipulation](https://www.reddit.com/r/androiddev/comments/mz2j9s/android_saf_create_document_uri_manipulation/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
@@ -275,21 +280,25 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
 - [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
 - [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Android SPKI Pinning with TrustKit](https://developers.redhat.com/blog/2017/10/26/android-spki-pinning-trustkit/)
 - [Server-side Kotlin with Eclipse Vert.x at JavaOne](https://developers.redhat.com/blog/2017/10/13/server-side-kotlin-eclipse-vert-x-javaone/)
 - [Testing your Android App’s UI with Espresso](https://developers.redhat.com/blog/2017/07/13/testing-your-android-apps-ui-with-espresso/)
 - [Installing Linux on an Android Phone](https://developers.redhat.com/blog/2017/03/16/installing-linux-on-an-android-phone/)
 - [A step-by-step tutorial for continuous integration with Jenkins on a Red Hat Mobile Native Android application: Part 2](https://developers.redhat.com/blog/2016/08/11/a-step-by-step-tutorial-for-continuous-integration-with-jenkins-on-a-red-hat-mobile-native-android-application-part-2/)
+
 <!-- REDHAT-POST-LIST:END -->
 
 ### *Android Authority posts*
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+
 - [How to make a game in Python: An introduction to Pygame](https://www.androidauthority.com/how-to-make-a-game-in-python-1136589/)
 - [How to call a function in Python](https://www.androidauthority.com/python-function-call-1121793/)
 - [How to use loops in Python](https://www.androidauthority.com/how-to-use-loops-in-python-1148510/)
@@ -300,11 +309,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Python beginner’s guide – Everything you need to know to get started](https://www.androidauthority.com/learn-python-beginner-1142688/)
 - [Kotlin tutorial for Android for beginners: Build a simple quiz](https://www.androidauthority.com/kotlin-tutorial-1134289/)
 - [An easy GameMaker Studio tutorial for beginners](https://www.androidauthority.com/gamemaker-studio-tutorial-1198695/)
+
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### *Android Arsenal posts*
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+
 - [locus](http://android-arsenal.com/details/1/8244)
 - [SSImagePicker](http://android-arsenal.com/details/1/8243)
 - [Comparing Performance Bar](http://android-arsenal.com/details/1/8242)
@@ -315,26 +326,30 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [MaterialPreferences](http://android-arsenal.com/details/1/8237)
 - [MaterialDialogFragments](http://android-arsenal.com/details/1/8236)
 - [Android BLE Made Easy](http://android-arsenal.com/details/1/8235)
+
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
+
 - [Android Lifecycle Revised](https://victorbrandalise.medium.com/android-lifecycle-revised-9974eb952bc5?source=rss------android-5)
 - [Herramientas de informática para Android](https://vay3t.medium.com/herramientas-de-inform%C3%A1tica-para-android-fe01bb9b0e98?source=rss------android-5)
 - [An organization out to help and to give privilege to the less privilege and also to enhance power](https://elp541113.medium.com/an-organization-out-to-help-and-to-give-privilege-to-the-less-privilege-and-also-to-enhance-power-534d5ec2ab01?source=rss------android-5)
 - [FluBot: An Andriod password-stealing malware](https://priderockjoy.medium.com/flubot-an-andriod-password-stealing-malware-4cc5ec0a2529?source=rss------android-5)
 - [Eyecandying Android app’s splash screen with animations](https://aednlaxer.medium.com/eyecandying-android-apps-splash-screen-with-animations-b6630c732940?source=rss------android-5)
-- [MLive Mod Apk (2.3.6.5)_Unlock Room_Latest Version 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/mlive-mod-apk-2-3-6-5-unlock-room-latest-version-2021-22-free-download-for-android-mobile-apk-d0861a7ca378?source=rss------android-5)
+- [MLive Mod Apk (2.3.6.5)\_Unlock Room_Latest Version 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/mlive-mod-apk-2-3-6-5-unlock-room-latest-version-2021-22-free-download-for-android-mobile-apk-d0861a7ca378?source=rss------android-5)
 - [Creating a custom modifier attribute on Jetpack Compose](https://fvilarino.medium.com/creating-a-custom-modifier-attribute-on-jetpack-compose-f100c6bcb987?source=rss------android-5)
 - [Jetpack Compose — Earthquake Effect](https://pauloaapereira.medium.com/jetpack-compose-earthquake-effect-9c3c0701fd2c?source=rss------android-5)
 - [YouCut Pro Apk Latest Version 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/youcut-pro-apk-latest-version-2021-22-free-download-for-android-mobile-apk-13f984aa7ee1?source=rss------android-5)
 - [Having Texting Issues After Switching from Android to iPhone? Here’s a Possible Fix](https://joshuabeckthewriter.medium.com/having-texting-issues-after-switching-from-android-to-iphone-heres-a-possible-fix-cd94efae812c?source=rss------android-5)
+
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+
 - [Soon You May Not Have to Say 'Hey Google' to Get Your Phone's Google Assistant to Listen to You](https://gizmodo.com/soon-you-may-not-have-to-say-hey-google-to-get-your-pho-1846757693)
 - [Researchers Take Down Botnet Pretending to Be Millions of People Watching TV](https://gizmodo.com/researchers-take-down-botnet-pretending-to-be-millions-1846726865)
 - [Congrats to OnePlus for Making Its Smartwatch Slightly Less Awful](https://gizmodo.com/congrats-to-oneplus-for-making-its-smartwatch-slightly-1846734118)
@@ -345,11 +360,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google Assistant Just Got a Useful Update With Four Helpful Features](https://gizmodo.com/google-assistant-just-got-a-useful-update-with-four-hel-1846681958)
 - [Wow, Google, Show Us How You Really Feel About Wear OS](https://gizmodo.com/wow-google-show-us-how-you-really-feel-about-wear-os-1846674295)
 - [New Google Photos Video-Editing Features Finally Appearing on Android Phones](https://gizmodo.com/new-google-photos-video-editing-features-finally-appear-1846674527)
+
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+
 - [iOS 14: How to prevail in Q2 2021](https://mobiledevmemo.com/ios-14-prevailing-in-q2-2021/)
 - [The end of the beginning on mobile: ATT is enforced next week](https://mobiledevmemo.com/the-end-of-the-beginning-on-mobile-att-is-enforced-next-week/)
 - [The growth trap](https://mobiledevmemo.com/the-growth-trap/)
@@ -360,16 +377,19 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Surveillance advertising is a myth](https://mobiledevmemo.com/surveillance-advertising-is-a-myth/)
 - [iOS14, Fortnite, and the importance of controlling distribution](https://mobiledevmemo.com/ios14-fortnite-and-the-importance-of-controlling-distribution/)
 - [Apple, CAID, and China: rock, meet hard place](https://mobiledevmemo.com/apple-caid-and-china-rock-meet-hard-place/)
+
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### *Infinum posts*
 
 <!-- INFINUM-POST-LIST:START -->
+
 - [How to have Modular Navigation with Jetpack Compose?](https://androidsweets.ongoodbits.com/how-to-have-modular-navigation-with-jetpack-compose)
 - [How Dalvik and ART work?](https://androidsweets.ongoodbits.com/how-dalvik-and-art-work)
 - [Tools to help developers provide a positive user experience](https://androidsweets.ongoodbits.com/tools-to-help-developers-provide-a-positive-user-experience)
 - [Do you know your dependencies?](https://androidsweets.ongoodbits.com/do-you-know-your-dependencies)
 - [Do you think you know all about PendingIntent?](https://androidsweets.ongoodbits.com/do-you-think-you-know-all-about-pendingintent)
+
 <!-- INFINUM-POST-LIST:END -->
 
 ***
