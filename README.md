@@ -250,18 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [UK company charging VAT](https://www.reddit.com/r/androiddev/comments/mzbsip/uk_company_charging_vat/)
-- [New Android Device Actually Shipping](https://www.reddit.com/r/androiddev/comments/mzart2/new_android_device_actually_shipping/)
-- [KotlinX Coroutines Release 1.5.0-RC](https://www.reddit.com/r/androiddev/comments/mzane5/kotlinx_coroutines_release\_150rc/)
-- [What is the best way to keep the auth token?](https://www.reddit.com/r/androiddev/comments/mz8ac3/what_is_the_best_way_to_keep_the_auth_token/)
-- [Question regarding Google coroutine example](https://www.reddit.com/r/androiddev/comments/mz76a2/question_regarding_google_coroutine_example/)
-- [Apple just posted this about data, I wonder how Google will respond. Especially with data mining being the center of many of Google's core businesses.](https://www.reddit.com/r/androiddev/comments/mz5n8x/apple_just_posted_this_about_data_i_wonder_how/)
-- [Use delegates to access Room methods from the Ui](https://www.reddit.com/r/androiddev/comments/mz57he/use_delegates_to_access_room_methods_from_the_ui/)
-- [How to select vector path in android?](https://www.reddit.com/r/androiddev/comments/mz471n/how_to_select_vector_path_in_android/)
-- [The current state of audio manipulation frameworks in Android](https://www.reddit.com/r/androiddev/comments/mz2r81/the_current_state_of_audio_manipulation/)
-- [Android SAF Create Document - URI Manipulation](https://www.reddit.com/r/androiddev/comments/mz2j9s/android_saf_create_document_uri_manipulation/)
-
+- [How to deal with unknown device in google play devices list](https://www.reddit.com/r/androiddev/comments/n01zr3/how_to_deal_with_unknown_device_in_google_play/)
+- [Has anyone actually benefited from migrating to using androidx.datastore?](https://www.reddit.com/r/androiddev/comments/mzzd0e/has_anyone_actually_benefited_from_migrating_to/)
+- [How do Firebase query listeners work with cloud functions?](https://www.reddit.com/r/androiddev/comments/mzw77a/how_do_firebase_query_listeners_work_with_cloud/)
+- [Coveralls with Android Development?](https://www.reddit.com/r/androiddev/comments/mzvdlh/coveralls_with_android_development/)
+- [Does the place you work at dedicate time for learning and research?](https://www.reddit.com/r/androiddev/comments/mzuwj8/does_the_place_you_work_at_dedicate_time_for/)
+- [is it possible to compile chromium webview and embed that inside an android app ?](https://www.reddit.com/r/androiddev/comments/mzuieu/is_it_possible_to_compile_chromium_webview_and/)
+- [Jetpack Compose: An easy way to RecyclerView](https://www.reddit.com/r/androiddev/comments/mzug49/jetpack_compose_an_easy_way_to_recyclerview/)
+- [A few tips for TestParameterInjector Library](https://www.reddit.com/r/androiddev/comments/mztyva/a_few_tips_for_testparameterinjector_library/)
+- [Any tutorial on how to create a paid app?](https://www.reddit.com/r/androiddev/comments/mztgb6/any_tutorial_on_how_to_create_a_paid_app/)
+- [Best 5 Chat SDK Tools for Android & iOS Apps — Worth Your Attention](https://www.reddit.com/r/androiddev/comments/mztbe5/best_5_chat_sdk_tools_for_android_ios_apps_worth/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
