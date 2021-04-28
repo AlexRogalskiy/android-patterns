@@ -280,13 +280,11 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
-
 - [Android SPKI Pinning with TrustKit](https://developers.redhat.com/blog/2017/10/26/android-spki-pinning-trustkit/)
 - [Server-side Kotlin with Eclipse Vert.x at JavaOne](https://developers.redhat.com/blog/2017/10/13/server-side-kotlin-eclipse-vert-x-javaone/)
 - [Testing your Android App’s UI with Espresso](https://developers.redhat.com/blog/2017/07/13/testing-your-android-apps-ui-with-espresso/)
 - [Installing Linux on an Android Phone](https://developers.redhat.com/blog/2017/03/16/installing-linux-on-an-android-phone/)
 - [A step-by-step tutorial for continuous integration with Jenkins on a Red Hat Mobile Native Android application: Part 2](https://developers.redhat.com/blog/2016/08/11/a-step-by-step-tutorial-for-continuous-integration-with-jenkins-on-a-red-hat-mobile-native-android-application-part-2/)
-
 <!-- REDHAT-POST-LIST:END -->
 
 ### *Android Authority posts*
