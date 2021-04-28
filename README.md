@@ -320,18 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-
-- [Android Lifecycle Revised](https://victorbrandalise.medium.com/android-lifecycle-revised-9974eb952bc5?source=rss------android-5)
-- [Herramientas de informática para Android](https://vay3t.medium.com/herramientas-de-inform%C3%A1tica-para-android-fe01bb9b0e98?source=rss------android-5)
-- [An organization out to help and to give privilege to the less privilege and also to enhance power](https://elp541113.medium.com/an-organization-out-to-help-and-to-give-privilege-to-the-less-privilege-and-also-to-enhance-power-534d5ec2ab01?source=rss------android-5)
-- [FluBot: An Andriod password-stealing malware](https://priderockjoy.medium.com/flubot-an-andriod-password-stealing-malware-4cc5ec0a2529?source=rss------android-5)
-- [Eyecandying Android app’s splash screen with animations](https://aednlaxer.medium.com/eyecandying-android-apps-splash-screen-with-animations-b6630c732940?source=rss------android-5)
-- [MLive Mod Apk (2.3.6.5)\_Unlock Room_Latest Version 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/mlive-mod-apk-2-3-6-5-unlock-room-latest-version-2021-22-free-download-for-android-mobile-apk-d0861a7ca378?source=rss------android-5)
-- [Creating a custom modifier attribute on Jetpack Compose](https://fvilarino.medium.com/creating-a-custom-modifier-attribute-on-jetpack-compose-f100c6bcb987?source=rss------android-5)
-- [Jetpack Compose — Earthquake Effect](https://pauloaapereira.medium.com/jetpack-compose-earthquake-effect-9c3c0701fd2c?source=rss------android-5)
-- [YouCut Pro Apk Latest Version 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/youcut-pro-apk-latest-version-2021-22-free-download-for-android-mobile-apk-13f984aa7ee1?source=rss------android-5)
-- [Having Texting Issues After Switching from Android to iPhone? Here’s a Possible Fix](https://joshuabeckthewriter.medium.com/having-texting-issues-after-switching-from-android-to-iphone-heres-a-possible-fix-cd94efae812c?source=rss------android-5)
-
+- [50 PCS Prop Money 100 Dollars 20s Pile d’impression complète pour film, télévision, vidéo…](https://brandonhan203.medium.com/50-pcs-prop-money-100-dollars-20s-pile-dimpression-compl%C3%A8te-pour-film-t%C3%A9l%C3%A9vision-vid%C3%A9o-6b2d2dd89f87?source=rss------android-5)
+- [O app da Polkamon para Android já está disponível!](https://polkamonportuguese.medium.com/o-app-da-polkamon-para-android-j%C3%A1-est%C3%A1-dispon%C3%ADvel-804a0552fb46?source=rss------android-5)
+- [Como conectar minha App Android ao Flutter — Acoplando meu projecto](https://medium.com/android-dev-moz/como-conectar-minha-app-android-ao-flutter-acoplando-meu-projecto-61feabdd5d26?source=rss------android-5)
+- [¿Porque Android Studio?](https://alainnicolastello.medium.com/porque-android-studio-d8142048cbff?source=rss------android-5)
+- [Ubiquity Founder Profile: Yadhu Gopalan, CEO of Esper](https://ubiquityvc.medium.com/ubiquity-founder-profile-yadhu-gopalan-ceo-of-esper-ea0e17a7c088?source=rss------android-5)
+- [Jetpack Compose: Řekneme XML konečně sbohem?](https://medium.com/ackee/jetpack-compose-%C5%99ekneme-xml-kone%C4%8Dn%C4%9B-sbohem-80e1537177fe?source=rss------android-5)
+- [Programmatically add chips to chipGroup Android Kotlin.](https://dehb.medium.com/programmatically-add-chips-to-chipgroup-android-kotlin-72f975b475ab?source=rss------android-5)
+- [2 Minutes: 2 minutes of anger](https://medium.com/@ikkondratov/2-minutes-2-minutes-of-anger-5a59982d76a5?source=rss------android-5)
+- [Android App to match Regular Expressions](https://nobinjohnson2.medium.com/android-app-to-match-regular-expressions-4864df7acddb?source=rss------android-5)
+- [How is Android Application Development has brought about a major revolution in the mobile world?](https://mabdulla.medium.com/how-is-android-application-development-has-brought-about-a-major-revolution-in-the-mobile-world-f16e24e6ee4f?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
