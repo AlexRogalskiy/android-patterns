@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [50 PCS Prop Money 100 Dollars 20s Pile d’impression complète pour film, télévision, vidéo…](https://brandonhan203.medium.com/50-pcs-prop-money-100-dollars-20s-pile-dimpression-compl%C3%A8te-pour-film-t%C3%A9l%C3%A9vision-vid%C3%A9o-6b2d2dd89f87?source=rss------android-5)
-- [O app da Polkamon para Android já está disponível!](https://polkamonportuguese.medium.com/o-app-da-polkamon-para-android-j%C3%A1-est%C3%A1-dispon%C3%ADvel-804a0552fb46?source=rss------android-5)
-- [Como conectar minha App Android ao Flutter — Acoplando meu projecto](https://medium.com/android-dev-moz/como-conectar-minha-app-android-ao-flutter-acoplando-meu-projecto-61feabdd5d26?source=rss------android-5)
-- [¿Porque Android Studio?](https://alainnicolastello.medium.com/porque-android-studio-d8142048cbff?source=rss------android-5)
-- [Ubiquity Founder Profile: Yadhu Gopalan, CEO of Esper](https://ubiquityvc.medium.com/ubiquity-founder-profile-yadhu-gopalan-ceo-of-esper-ea0e17a7c088?source=rss------android-5)
-- [Jetpack Compose: Řekneme XML konečně sbohem?](https://medium.com/ackee/jetpack-compose-%C5%99ekneme-xml-kone%C4%8Dn%C4%9B-sbohem-80e1537177fe?source=rss------android-5)
-- [Programmatically add chips to chipGroup Android Kotlin.](https://dehb.medium.com/programmatically-add-chips-to-chipgroup-android-kotlin-72f975b475ab?source=rss------android-5)
-- [2 Minutes: 2 minutes of anger](https://medium.com/@ikkondratov/2-minutes-2-minutes-of-anger-5a59982d76a5?source=rss------android-5)
-- [Android App to match Regular Expressions](https://nobinjohnson2.medium.com/android-app-to-match-regular-expressions-4864df7acddb?source=rss------android-5)
-- [How is Android Application Development has brought about a major revolution in the mobile world?](https://mabdulla.medium.com/how-is-android-application-development-has-brought-about-a-major-revolution-in-the-mobile-world-f16e24e6ee4f?source=rss------android-5)
+- [Android Lifecycle Scenarios — Single and Multi Activities](https://victorbrandalise.medium.com/android-lifecycle-scenarios-single-and-multi-activities-43b28dd3ee26?source=rss------android-5)
+- [5th Blog Post (3rd party Icons done)](https://vaivea1.medium.com/5th-blog-post-3rd-party-icons-done-dbe0cfdb0424?source=rss------android-5)
+- [¿Porque Kotlin? Kotlin vs Java](https://alainnicolastello.medium.com/porque-kotlin-kotlin-vs-java-78b2070035f5?source=rss------android-5)
+- [Ghost Screen Fix Repara Daños En Tu Pantalla](https://htcstoremexico.medium.com/ghost-screen-fix-repara-da%C3%B1os-en-tu-pantalla-8515a548e932?source=rss------android-5)
+- [Test Secrets, Test Suites](https://fredgrott.medium.com/test-secrets-test-suites-99f8390b8d4b?source=rss------android-5)
+- [An organization out to help and to give privilege to the less privilege and also to enhance power](https://tiopage86.medium.com/an-organization-out-to-help-and-to-give-privilege-to-the-less-privilege-and-also-to-enhance-power-188e82c0ea0d?source=rss------android-5)
+- [Snipping Tool++ (v6.4.5) Latest Version 2021/22 Free Download For All Windows — PCSuite](https://nafaswali14.medium.com/snipping-tool-v6-4-5-latest-version-2021-22-free-download-for-all-windows-pcsuite-f0ad12599e0f?source=rss------android-5)
+- [ONEPLUS in 2021?](https://kailashsiri.medium.com/oneplus-in-2021-f9cec0ba1e65?source=rss------android-5)
+- [Domain Specific Language — DSL](https://gabrielmoraesleonardo.medium.com/domain-specific-language-dsl-82e458f330c4?source=rss------android-5)
+- [Best File Manager Apps Android Phone Ke Liye](https://hinditechvideos.medium.com/best-file-manager-apps-android-phone-ke-liye-fa0c968711bd?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
