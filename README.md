@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to deal with unknown device in google play devices list](https://www.reddit.com/r/androiddev/comments/n01zr3/how_to_deal_with_unknown_device_in_google_play/)
-- [Has anyone actually benefited from migrating to using androidx.datastore?](https://www.reddit.com/r/androiddev/comments/mzzd0e/has_anyone_actually_benefited_from_migrating_to/)
-- [How do Firebase query listeners work with cloud functions?](https://www.reddit.com/r/androiddev/comments/mzw77a/how_do_firebase_query_listeners_work_with_cloud/)
-- [Coveralls with Android Development?](https://www.reddit.com/r/androiddev/comments/mzvdlh/coveralls_with_android_development/)
-- [Does the place you work at dedicate time for learning and research?](https://www.reddit.com/r/androiddev/comments/mzuwj8/does_the_place_you_work_at_dedicate_time_for/)
-- [is it possible to compile chromium webview and embed that inside an android app ?](https://www.reddit.com/r/androiddev/comments/mzuieu/is_it_possible_to_compile_chromium_webview_and/)
-- [Jetpack Compose: An easy way to RecyclerView](https://www.reddit.com/r/androiddev/comments/mzug49/jetpack_compose_an_easy_way_to_recyclerview/)
-- [A few tips for TestParameterInjector Library](https://www.reddit.com/r/androiddev/comments/mztyva/a_few_tips_for_testparameterinjector_library/)
-- [Any tutorial on how to create a paid app?](https://www.reddit.com/r/androiddev/comments/mztgb6/any_tutorial_on_how_to_create_a_paid_app/)
-- [Best 5 Chat SDK Tools for Android & iOS Apps — Worth Your Attention](https://www.reddit.com/r/androiddev/comments/mztbe5/best_5_chat_sdk_tools_for_android_ios_apps_worth/)
+- [KotlinX Serialization Release 1.2.0](https://www.reddit.com/r/androiddev/comments/n0spbu/kotlinx_serialization_release_120/)
+- [Why are globals, static variables, and singletons so often used?](https://www.reddit.com/r/androiddev/comments/n0qgj7/why_are_globals_static_variables_and_singletons/)
+- [I know that Compose’s Preview feature can only be used in the Canary version, but is it possible to use, or at least build Jetpack Compose in the stable Android Studio?](https://www.reddit.com/r/androiddev/comments/n0pbk2/i_know_that_composes_preview_feature_can_only_be/)
+- [Kotlin 1.5.0, More About Future Support for Value Classes"](https://www.reddit.com/r/androiddev/comments/n0oj48/kotlin_150_more_about_future_support_for_value/)
+- [Google has declared Droidscript is malware](https://www.reddit.com/r/androiddev/comments/n0hq7t/google_has_declared_droidscript_is_malware/)
+- [PSA: Big Sur 11.3 breaks Android emulator](https://www.reddit.com/r/androiddev/comments/n0hnn6/psa_big_sur_113_breaks_android_emulator/)
+- [AutoBindings - Set of annotations that aims to remove some boilerplate code](https://www.reddit.com/r/androiddev/comments/n0fg08/autobindings_set_of_annotations_that_aims_to/)
+- [Phone warranty lost due to "adb root" command on unrooted phone](https://www.reddit.com/r/androiddev/comments/n0fc75/phone_warranty_lost_due_to_adb_root_command_on/)
+- [Google Play App Upload](https://www.reddit.com/r/androiddev/comments/n0d243/google_play_app_upload/)
+- [Looking for a chat SDK for a marketplace app](https://www.reddit.com/r/androiddev/comments/n0cwnx/looking_for_a_chat_sdk_for_a_marketplace_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
