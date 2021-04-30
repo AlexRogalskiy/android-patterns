@@ -320,16 +320,15 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Android Lifecycle Scenarios — Single and Multi Activities](https://victorbrandalise.medium.com/android-lifecycle-scenarios-single-and-multi-activities-43b28dd3ee26?source=rss------android-5)
-- [5th Blog Post (3rd party Icons done)](https://vaivea1.medium.com/5th-blog-post-3rd-party-icons-done-dbe0cfdb0424?source=rss------android-5)
-- [¿Porque Kotlin? Kotlin vs Java](https://alainnicolastello.medium.com/porque-kotlin-kotlin-vs-java-78b2070035f5?source=rss------android-5)
-- [Ghost Screen Fix Repara Daños En Tu Pantalla](https://htcstoremexico.medium.com/ghost-screen-fix-repara-da%C3%B1os-en-tu-pantalla-8515a548e932?source=rss------android-5)
-- [Test Secrets, Test Suites](https://fredgrott.medium.com/test-secrets-test-suites-99f8390b8d4b?source=rss------android-5)
-- [An organization out to help and to give privilege to the less privilege and also to enhance power](https://tiopage86.medium.com/an-organization-out-to-help-and-to-give-privilege-to-the-less-privilege-and-also-to-enhance-power-188e82c0ea0d?source=rss------android-5)
-- [Snipping Tool++ (v6.4.5) Latest Version 2021/22 Free Download For All Windows — PCSuite](https://nafaswali14.medium.com/snipping-tool-v6-4-5-latest-version-2021-22-free-download-for-all-windows-pcsuite-f0ad12599e0f?source=rss------android-5)
-- [ONEPLUS in 2021?](https://kailashsiri.medium.com/oneplus-in-2021-f9cec0ba1e65?source=rss------android-5)
-- [Domain Specific Language — DSL](https://gabrielmoraesleonardo.medium.com/domain-specific-language-dsl-82e458f330c4?source=rss------android-5)
-- [Best File Manager Apps Android Phone Ke Liye](https://hinditechvideos.medium.com/best-file-manager-apps-android-phone-ke-liye-fa0c968711bd?source=rss------android-5)
+- [Primeros pasos con HUAWEI Auth Service](https://medium.com/huawei-developers-latinoam%C3%A9rica/primeros-pasos-con-huawei-auth-service-50053f2c4fa5?source=rss------android-5)
+- [50 sztuk Prop Money 100 dolarów 20s Full Print Stack do filmów, telewizji, wideo, nowości i…](https://handzerjohn.medium.com/50-sztuk-prop-money-100-dolar%C3%B3w-20s-full-print-stack-do-film%C3%B3w-telewizji-wideo-nowo%C5%9Bci-i-ce8f275a431b?source=rss------android-5)
+- [Seekbar in application with Android Studio](https://medium.com/@harshitbhatt972/seekbar-in-application-with-android-studio-fedadd2dcfb1?source=rss------android-5)
+- [API(Application programming Interface)](https://askmrtrivedi.medium.com/api-application-programming-interface-22e11ddbfd1b?source=rss------android-5)
+- [Simple Steps to Saving, Loading, and Deleting Bitmaps in Android Storage — Using Java](https://dpw-developer.medium.com/simple-steps-to-saving-loading-and-deleting-bitmaps-in-android-storage-using-java-a974b9d97c4a?source=rss------android-5)
+- [Virtual Library, An Easy to Use Android Application](https://grantsaylordev.medium.com/virtual-library-an-easy-to-use-android-application-53275a905768?source=rss------android-5)
+- [Chrome OS で Android の設定画面を出す](https://oka.medium.com/chromeos-%E3%81%A7-android-%E3%81%AE%E8%A8%AD%E5%AE%9A%E7%94%BB%E9%9D%A2%E3%82%92%E5%87%BA%E3%81%99-32e2cdcd87ee?source=rss------android-5)
+- [Facebook harvested phone call and text data from Android users for years](https://weberlegacy.medium.com/facebook-harvested-phone-call-and-text-data-from-android-users-for-years-8b67f14cbd14?source=rss------android-5)
+- [Adding Interactivity to an Image in Flutter — Take 2](https://jtmuller5-98869.medium.com/adding-interactivity-to-an-image-in-flutter-take-2-9b51402c8329?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
