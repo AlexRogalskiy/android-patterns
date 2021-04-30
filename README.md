@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [KotlinX Serialization Release 1.2.0](https://www.reddit.com/r/androiddev/comments/n0spbu/kotlinx_serialization_release_120/)
-- [Why are globals, static variables, and singletons so often used?](https://www.reddit.com/r/androiddev/comments/n0qgj7/why_are_globals_static_variables_and_singletons/)
-- [I know that Compose’s Preview feature can only be used in the Canary version, but is it possible to use, or at least build Jetpack Compose in the stable Android Studio?](https://www.reddit.com/r/androiddev/comments/n0pbk2/i_know_that_composes_preview_feature_can_only_be/)
-- [Kotlin 1.5.0, More About Future Support for Value Classes"](https://www.reddit.com/r/androiddev/comments/n0oj48/kotlin_150_more_about_future_support_for_value/)
-- [Google has declared Droidscript is malware](https://www.reddit.com/r/androiddev/comments/n0hq7t/google_has_declared_droidscript_is_malware/)
-- [PSA: Big Sur 11.3 breaks Android emulator](https://www.reddit.com/r/androiddev/comments/n0hnn6/psa_big_sur_113_breaks_android_emulator/)
-- [AutoBindings - Set of annotations that aims to remove some boilerplate code](https://www.reddit.com/r/androiddev/comments/n0fg08/autobindings_set_of_annotations_that_aims_to/)
-- [Phone warranty lost due to "adb root" command on unrooted phone](https://www.reddit.com/r/androiddev/comments/n0fc75/phone_warranty_lost_due_to_adb_root_command_on/)
-- [Google Play App Upload](https://www.reddit.com/r/androiddev/comments/n0d243/google_play_app_upload/)
-- [Looking for a chat SDK for a marketplace app](https://www.reddit.com/r/androiddev/comments/n0cwnx/looking_for_a_chat_sdk_for_a_marketplace_app/)
+- [How to lock bootloader from a Chromebook...](https://www.reddit.com/r/androiddev/comments/n1ifhr/how_to_lock_bootloader_from_a_chromebook/)
+- [Did you try "Paraphraser" android app?](https://www.reddit.com/r/androiddev/comments/n1hh45/did_you_try_paraphraser_android_app/)
+- [I we can use It natively in mac m1](https://www.reddit.com/r/androiddev/comments/n1gxk8/i_we_can_use_it_natively_in_mac_m1/)
+- [Initial support for Apple Silicon (arm64) in Android Studio Arctic Fox](https://www.reddit.com/r/androiddev/comments/n1gtit/initial_support_for_apple_silicon_arm64_in/)
+- [Looking to buy apps with 5000+ dau](https://www.reddit.com/r/androiddev/comments/n1gnzy/looking_to_buy_apps_with_5000_dau/)
+- [Scene depth map using android smartphone](https://www.reddit.com/r/androiddev/comments/n1g077/scene_depth_map_using_android_smartphone/)
+- [Android Studio Arctic Fox Canary 15 available](https://www.reddit.com/r/androiddev/comments/n1fkme/android_studio_arctic_fox_canary_15_available/)
+- [Did you ever think how would your UI behave when there is an e҉a҉r҉t҉h҉q҉u҉a҉k҉e҉? Well, I can show you. 🤯](https://www.reddit.com/r/androiddev/comments/n1dqfr/did_you_ever_think_how_would_your_ui_behave_when/)
+- [Neumorphic UI in android](https://www.reddit.com/r/androiddev/comments/n193jm/neumorphic_ui_in_android/)
+- [Is there a way to export the navigation graph as an image?](https://www.reddit.com/r/androiddev/comments/n16j64/is_there_a_way_to_export_the_navigation_graph_as/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
