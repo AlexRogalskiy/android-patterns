@@ -320,15 +320,15 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Primeros pasos con HUAWEI Auth Service](https://medium.com/huawei-developers-latinoam%C3%A9rica/primeros-pasos-con-huawei-auth-service-50053f2c4fa5?source=rss------android-5)
-- [50 sztuk Prop Money 100 dolarów 20s Full Print Stack do filmów, telewizji, wideo, nowości i…](https://handzerjohn.medium.com/50-sztuk-prop-money-100-dolar%C3%B3w-20s-full-print-stack-do-film%C3%B3w-telewizji-wideo-nowo%C5%9Bci-i-ce8f275a431b?source=rss------android-5)
-- [Seekbar in application with Android Studio](https://medium.com/@harshitbhatt972/seekbar-in-application-with-android-studio-fedadd2dcfb1?source=rss------android-5)
-- [API(Application programming Interface)](https://askmrtrivedi.medium.com/api-application-programming-interface-22e11ddbfd1b?source=rss------android-5)
-- [Simple Steps to Saving, Loading, and Deleting Bitmaps in Android Storage — Using Java](https://dpw-developer.medium.com/simple-steps-to-saving-loading-and-deleting-bitmaps-in-android-storage-using-java-a974b9d97c4a?source=rss------android-5)
-- [Virtual Library, An Easy to Use Android Application](https://grantsaylordev.medium.com/virtual-library-an-easy-to-use-android-application-53275a905768?source=rss------android-5)
-- [Chrome OS で Android の設定画面を出す](https://oka.medium.com/chromeos-%E3%81%A7-android-%E3%81%AE%E8%A8%AD%E5%AE%9A%E7%94%BB%E9%9D%A2%E3%82%92%E5%87%BA%E3%81%99-32e2cdcd87ee?source=rss------android-5)
-- [Facebook harvested phone call and text data from Android users for years](https://weberlegacy.medium.com/facebook-harvested-phone-call-and-text-data-from-android-users-for-years-8b67f14cbd14?source=rss------android-5)
-- [Adding Interactivity to an Image in Flutter — Take 2](https://jtmuller5-98869.medium.com/adding-interactivity-to-an-image-in-flutter-take-2-9b51402c8329?source=rss------android-5)
+- [Simplewall (Latest v3.3.3) Free Download For Windows — PCSuite](https://nafaswali14.medium.com/simplewall-latest-v3-3-3-free-download-for-windows-pcsuite-55e13b8e885f?source=rss------android-5)
+- [50 sztuk Prop Money 100 dolarów 20s Full Print Stack do filmów, telewizji, wideo, nowości i…](https://lelyahandzer.medium.com/50-sztuk-prop-money-100-dolar%C3%B3w-20s-full-print-stack-do-film%C3%B3w-telewizji-wideo-nowo%C5%9Bci-i-be954bc6b857?source=rss------android-5)
+- [TECNO has announced the release of the Spark 7 Pro, which includes some exciting surprises for fans!](https://sk6446777.medium.com/tecno-has-announced-the-release-of-the-spark-7-pro-which-includes-some-exciting-surprises-for-fans-6c83b1f3555c?source=rss------android-5)
+- [Rules of Structured concurrency in Kotlin](https://keep-calm.medium.com/rules-of-structured-concurrency-in-kotlin-dad5623423a4?source=rss------android-5)
+- [SOLID: Um assunto necessário | Parte 5 — Princípio da inversão de dependência](https://medium.com/aline-souza/solid-um-assunto-necess%C3%A1rio-parte-5-princ%C3%ADpio-da-invers%C3%A3o-de-depend%C3%AAncia-46ef93709e06?source=rss------android-5)
+- [Snapchat iOS’tan Daha Fazla Android Kullanıcısına Sahip](https://sosyal-teknoloji-news.medium.com/snapchat-iostan-daha-fazla-android-kullan%C4%B1c%C4%B1s%C4%B1na-sahip-f19ac0667955?source=rss------android-5)
+- [Test ypurs souce a 30 04 2021](https://medium.com/@iumqcdbs/test-ypurs-souce-a-30-04-2021-a5e604dcf293?source=rss------android-5)
+- [Android Kotlin Mülakat Soruları](https://ercanduman.medium.com/android-kotlin-m%C3%BClakat-sorular%C4%B1-39a6c39ab2d9?source=rss------android-5)
+- [Android Developer Interview Questions:-](https://p-mishra2905.medium.com/android-developer-interview-questions-553c8508fe3?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
