@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to lock bootloader from a Chromebook...](https://www.reddit.com/r/androiddev/comments/n1ifhr/how_to_lock_bootloader_from_a_chromebook/)
-- [Did you try "Paraphraser" android app?](https://www.reddit.com/r/androiddev/comments/n1hh45/did_you_try_paraphraser_android_app/)
-- [I we can use It natively in mac m1](https://www.reddit.com/r/androiddev/comments/n1gxk8/i_we_can_use_it_natively_in_mac_m1/)
-- [Initial support for Apple Silicon (arm64) in Android Studio Arctic Fox](https://www.reddit.com/r/androiddev/comments/n1gtit/initial_support_for_apple_silicon_arm64_in/)
-- [Looking to buy apps with 5000+ dau](https://www.reddit.com/r/androiddev/comments/n1gnzy/looking_to_buy_apps_with_5000_dau/)
-- [Scene depth map using android smartphone](https://www.reddit.com/r/androiddev/comments/n1g077/scene_depth_map_using_android_smartphone/)
-- [Android Studio Arctic Fox Canary 15 available](https://www.reddit.com/r/androiddev/comments/n1fkme/android_studio_arctic_fox_canary_15_available/)
-- [Did you ever think how would your UI behave when there is an e҉a҉r҉t҉h҉q҉u҉a҉k҉e҉? Well, I can show you. 🤯](https://www.reddit.com/r/androiddev/comments/n1dqfr/did_you_ever_think_how_would_your_ui_behave_when/)
-- [Neumorphic UI in android](https://www.reddit.com/r/androiddev/comments/n193jm/neumorphic_ui_in_android/)
-- [Is there a way to export the navigation graph as an image?](https://www.reddit.com/r/androiddev/comments/n16j64/is_there_a_way_to_export_the_navigation_graph_as/)
+- [Interviewing: Android focused system design materials](https://www.reddit.com/r/androiddev/comments/n2614y/interviewing_android_focused_system_design/)
+- [Write to Android/data folder, android 11](https://www.reddit.com/r/androiddev/comments/n25iu0/write_to_androiddata_folder_android_11/)
+- [Google pixel 4 can't connect to VoLTE](https://www.reddit.com/r/androiddev/comments/n23lh2/google_pixel_4_cant_connect_to_volte/)
+- [How to hide "Developer Options" from other apps?](https://www.reddit.com/r/androiddev/comments/n232ko/how_to_hide_developer_options_from_other_apps/)
+- [What is your experience and tips for driving game app downloads via paid ads platforms like Facebook Ads, Apple Search Ads, Youtube ads, etc...?](https://www.reddit.com/r/androiddev/comments/n21csq/what_is_your_experience_and_tips_for_driving_game/)
+- [How should I differentiate free and paid version of an app?](https://www.reddit.com/r/androiddev/comments/n1ykaw/how_should_i_differentiate_free_and_paid_version/)
+- [Mail notificationfor every sms i got on my android device with its content](https://www.reddit.com/r/androiddev/comments/n1x5f8/mail_notificationfor_every_sms_i_got_on_my/)
+- [KMMT : Kotlin Multiplatform Mobile Template ( Kotlin Multiplatform Mobile Development Simplified )](https://www.reddit.com/r/androiddev/comments/n1x3pi/kmmt_kotlin_multiplatform_mobile_template_kotlin/)
+- [Google I/O 2021 schedule is out](https://www.reddit.com/r/androiddev/comments/n1wdli/google_io_2021_schedule_is_out/)
+- [Salaries](https://www.reddit.com/r/androiddev/comments/n1u3p8/salaries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
