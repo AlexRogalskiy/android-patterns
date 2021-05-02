@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Interviewing: Android focused system design materials](https://www.reddit.com/r/androiddev/comments/n2614y/interviewing_android_focused_system_design/)
-- [Write to Android/data folder, android 11](https://www.reddit.com/r/androiddev/comments/n25iu0/write_to_androiddata_folder_android_11/)
-- [Google pixel 4 can't connect to VoLTE](https://www.reddit.com/r/androiddev/comments/n23lh2/google_pixel_4_cant_connect_to_volte/)
-- [How to hide "Developer Options" from other apps?](https://www.reddit.com/r/androiddev/comments/n232ko/how_to_hide_developer_options_from_other_apps/)
-- [What is your experience and tips for driving game app downloads via paid ads platforms like Facebook Ads, Apple Search Ads, Youtube ads, etc...?](https://www.reddit.com/r/androiddev/comments/n21csq/what_is_your_experience_and_tips_for_driving_game/)
-- [How should I differentiate free and paid version of an app?](https://www.reddit.com/r/androiddev/comments/n1ykaw/how_should_i_differentiate_free_and_paid_version/)
-- [Mail notificationfor every sms i got on my android device with its content](https://www.reddit.com/r/androiddev/comments/n1x5f8/mail_notificationfor_every_sms_i_got_on_my/)
-- [KMMT : Kotlin Multiplatform Mobile Template ( Kotlin Multiplatform Mobile Development Simplified )](https://www.reddit.com/r/androiddev/comments/n1x3pi/kmmt_kotlin_multiplatform_mobile_template_kotlin/)
-- [Google I/O 2021 schedule is out](https://www.reddit.com/r/androiddev/comments/n1wdli/google_io_2021_schedule_is_out/)
-- [Salaries](https://www.reddit.com/r/androiddev/comments/n1u3p8/salaries/)
+- [Boot loader](https://www.reddit.com/r/androiddev/comments/n2wqty/boot_loader/)
+- [Is it possible to use Android Enterprise on Android Go devices?](https://www.reddit.com/r/androiddev/comments/n2w8fg/is_it_possible_to_use_android_enterprise_on/)
+- [What is the logic behind updateQuestion regarding the animations in Trivia App?](https://www.reddit.com/r/androiddev/comments/n2vj6z/what_is_the_logic_behind_updatequestion_regarding/)
+- [Testing Admob Ad Serving Limit](https://www.reddit.com/r/androiddev/comments/n2vi51/testing_admob_ad_serving_limit/)
+- [Library for Resource Binding?](https://www.reddit.com/r/androiddev/comments/n2uba4/library_for_resource_binding/)
+- [How do you implement your FirebaseRemoteConfig object as singleton correct, for easy access?](https://www.reddit.com/r/androiddev/comments/n2ouir/how_do_you_implement_your_firebaseremoteconfig/)
+- [Did Google all of a sudden start manually reviewing Android TV apps?](https://www.reddit.com/r/androiddev/comments/n2nqjx/did_google_all_of_a_sudden_start_manually/)
+- [Handling Scrolling of Horizontal Recyclerview inside Viewpager2](https://www.reddit.com/r/androiddev/comments/n2nax9/handling_scrolling_of_horizontal_recyclerview/)
+- [Has anyone used the instrumentation orchestrator and Emma code coverage targeting Android 11?](https://www.reddit.com/r/androiddev/comments/n2n7fe/has_anyone_used_the_instrumentation_orchestrator/)
+- [Create video generator](https://www.reddit.com/r/androiddev/comments/n2mx47/create_video_generator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
