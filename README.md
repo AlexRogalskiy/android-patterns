@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Boot loader](https://www.reddit.com/r/androiddev/comments/n2wqty/boot_loader/)
-- [Is it possible to use Android Enterprise on Android Go devices?](https://www.reddit.com/r/androiddev/comments/n2w8fg/is_it_possible_to_use_android_enterprise_on/)
-- [What is the logic behind updateQuestion regarding the animations in Trivia App?](https://www.reddit.com/r/androiddev/comments/n2vj6z/what_is_the_logic_behind_updatequestion_regarding/)
-- [Testing Admob Ad Serving Limit](https://www.reddit.com/r/androiddev/comments/n2vi51/testing_admob_ad_serving_limit/)
-- [Library for Resource Binding?](https://www.reddit.com/r/androiddev/comments/n2uba4/library_for_resource_binding/)
-- [How do you implement your FirebaseRemoteConfig object as singleton correct, for easy access?](https://www.reddit.com/r/androiddev/comments/n2ouir/how_do_you_implement_your_firebaseremoteconfig/)
-- [Did Google all of a sudden start manually reviewing Android TV apps?](https://www.reddit.com/r/androiddev/comments/n2nqjx/did_google_all_of_a_sudden_start_manually/)
-- [Handling Scrolling of Horizontal Recyclerview inside Viewpager2](https://www.reddit.com/r/androiddev/comments/n2nax9/handling_scrolling_of_horizontal_recyclerview/)
-- [Has anyone used the instrumentation orchestrator and Emma code coverage targeting Android 11?](https://www.reddit.com/r/androiddev/comments/n2n7fe/has_anyone_used_the_instrumentation_orchestrator/)
-- [Create video generator](https://www.reddit.com/r/androiddev/comments/n2mx47/create_video_generator/)
+- [Jira vs. Github Project Management vs. ClickUp, which one is the best?](https://www.reddit.com/r/androiddev/comments/n3hriv/jira_vs_github_project_management_vs_clickup/)
+- [Updated : KMMT : Kotlin Multiplatform Mobile Development Simplified](https://www.reddit.com/r/androiddev/comments/n3h4ve/updated_kmmt_kotlin_multiplatform_mobile/)
+- [What's the best software to use to document features?](https://www.reddit.com/r/androiddev/comments/n39y9k/whats_the_best_software_to_use_to_document/)
+- [Coroutines for beginners- the only article you need to get started!](https://www.reddit.com/r/androiddev/comments/n36o42/coroutines_for_beginners_the_only_article_you/)
+- [Upload to MavenCentral made easy for Android Library](https://www.reddit.com/r/androiddev/comments/n35qkc/upload_to_mavencentral_made_easy_for_android/)
+- [Getting the notification's id sent via Firebase Messaging](https://www.reddit.com/r/androiddev/comments/n35ay1/getting_the_notifications_id_sent_via_firebase/)
+- [Question about saving state in LazyColumn?](https://www.reddit.com/r/androiddev/comments/n34tec/question_about_saving_state_in_lazycolumn/)
+- [Lightweight Linux distro for android app developers?](https://www.reddit.com/r/androiddev/comments/n33gc8/lightweight_linux_distro_for_android_app/)
+- [Any free way to find keywords for your app?](https://www.reddit.com/r/androiddev/comments/n31c5j/any_free_way_to_find_keywords_for_your_app/)
+- [[GDPR] How do you handle the user consent when using Crashlytics and Remote Config](https://www.reddit.com/r/androiddev/comments/n315az/gdpr_how_do_you_handle_the_user_consent_when/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
