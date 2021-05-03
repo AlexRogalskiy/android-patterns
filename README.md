@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Easy UI And Screenshot Testing On Android](https://patrykkosieradzki.medium.com/easy-ui-and-screenshot-testing-on-android-2b138f6d1eb8?source=rss------android-5)
-- [No encuentras una app en la Play Store? Aquí te la conseguimos!](https://htcstoremexico.medium.com/no-encuentras-una-app-en-la-play-store-aqu%C3%AD-te-la-conseguimos-1c396c53f0b8?source=rss------android-5)
-- [Jetpack RecyclerView [All official development resources]](https://medium.com/android-topics/recyclerview-all-official-development-resources-6da82e5966b6?source=rss------android-5)
-- [Организация, стремящаяся помочь и предоставить привилегии менее привилегированным, а также усилить…](https://chii58921.medium.com/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%81%D1%82%D1%80%D0%B5%D0%BC%D1%8F%D1%89%D0%B0%D1%8F%D1%81%D1%8F-%D0%BF%D0%BE%D0%BC%D0%BE%D1%87%D1%8C-%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%BB%D0%B5%D0%B3%D0%B8%D0%B8-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B5-%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-%D0%B0-%D1%82%D0%B0%D0%BA%D0%B6%D0%B5-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D1%8C-379606c100e4?source=rss------android-5)
-- [Android, Kotlin free resources](https://paul77uk.medium.com/android-kotlin-free-resources-73418a87b95b?source=rss------android-5)
-- [Gaming trends witnessed in 2020](https://tinyturtlesays.medium.com/gaming-trends-witnessed-in-2020-a3f20ad0bc03?source=rss------android-5)
-- [Android Coroutine Scopes](https://loumorda.medium.com/android-coroutine-scopes-ebf4c88bf4d1?source=rss------android-5)
-- [Firebase Remote Config [All official development resources]](https://medium.com/android-topics/firebase-remote-config-all-official-development-resources-14e1c0f6ac2b?source=rss------android-5)
-- [Best Moba Injector (Latest v1.10) 2021/22 Free Download For Android | Mobile APK](https://nafaswali14.medium.com/best-moba-injector-latest-v1-10-2021-22-free-download-for-android-mobile-apk-bb9108ceec12?source=rss------android-5)
-- [Выбор лучшего фреймворка для создания мобильного приложения](https://medium.com/nuances-of-programming/%D0%B2%D1%8B%D0%B1%D0%BE%D1%80-%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE-%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-4bbca64a41f2?source=rss------android-5)
+- [Flutter Image classification using TensorFlow in 4 steps](https://teresa-wu.medium.com/flutter-image-classification-using-tensorflow-in-4-steps-c68869b1d6e7?source=rss------android-5)
+- [Android Vitals [All official development resources]](https://medium.com/android-topics/android-vitals-all-official-development-resources-aabb6d58a111?source=rss------android-5)
+- [Fungsi android:allowBackup=”true” pada Android](https://inialdan.medium.com/fungsi-android-allowbackup-true-pada-android-606098eb836d?source=rss------android-5)
+- [Apctmj mwpd porusicer opipos sezion](https://medium.com/@hlgypnds/apctmj-mwpd-porusicer-opipos-sezion-efc8b2588822?source=rss------android-5)
+- [Without these three tools, I can not think of react native development](https://blog.devgenius.io/without-these-three-tools-i-can-not-think-of-react-native-development-4efb53dd6298?source=rss------android-5)
+- [OAprm viro news 03 05 202](https://medium.com/@dimwifds/oaprm-viro-news-03-05-202-3f76234142b1?source=rss------android-5)
+- [UX Policies — Part 3](https://medium.com/nerd-for-tech/ux-policies-part-3-d6937e2dda57?source=rss------android-5)
+- [Implementation of Circular RecyclerView with Custom circle indicator which acts like ViewPager](https://medium.com/@akshaydahatonde/implementation-of-circular-recyclerview-with-custom-circle-indicator-which-acts-like-viewpager-805c6c20d628?source=rss------android-5)
+- [Thread dealers: Kotlin Coroutines for beginners](https://enofeb.medium.com/thread-dealers-kotlin-coroutines-for-beginners-74a9c732d6d2?source=rss------android-5)
+- [Best Android Home Screen Setup using Nova Launcher - 205](https://medium.com/@Kustome_bee/best-android-home-screen-setup-using-nova-launcher-205-549250e80237?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
