@@ -350,6 +350,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Mobile Dev Memo posts*
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+- [“Mobile advertising spend can’t just disappear”](https://mobiledevmemo.com/mobile-advertising-spend-cant-just-disappear/)
 - [Creative paralysis: ad creative production and testing in iOS 14](https://mobiledevmemo.com/creative-paralysis-ad-creative-production-and-testing-for-ios-14/)
 - [iOS 14: How to prevail in Q2 2021](https://mobiledevmemo.com/ios-14-prevailing-in-q2-2021/)
 - [The end of the beginning on mobile: ATT is enforced next week](https://mobiledevmemo.com/the-end-of-the-beginning-on-mobile-att-is-enforced-next-week/)
@@ -359,7 +360,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [What is differential privacy in digital advertising?](https://mobiledevmemo.com/what-is-differential-privacy/)
 - [Dear App Developers: fingerprinting is not a viable workaround to ATT](https://mobiledevmemo.com/dear-app-developers-fingerprinting-is-not-a-viable-workaround-to-att/)
 - [Surveillance advertising is a myth](https://mobiledevmemo.com/surveillance-advertising-is-a-myth/)
-- [iOS14, Fortnite, and the importance of controlling distribution](https://mobiledevmemo.com/ios14-fortnite-and-the-importance-of-controlling-distribution/)
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### *Infinum posts*
