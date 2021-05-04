@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Flutter Image classification using TensorFlow in 4 steps](https://teresa-wu.medium.com/flutter-image-classification-using-tensorflow-in-4-steps-c68869b1d6e7?source=rss------android-5)
-- [Android Vitals [All official development resources]](https://medium.com/android-topics/android-vitals-all-official-development-resources-aabb6d58a111?source=rss------android-5)
-- [Fungsi android:allowBackup=”true” pada Android](https://inialdan.medium.com/fungsi-android-allowbackup-true-pada-android-606098eb836d?source=rss------android-5)
-- [Apctmj mwpd porusicer opipos sezion](https://medium.com/@hlgypnds/apctmj-mwpd-porusicer-opipos-sezion-efc8b2588822?source=rss------android-5)
-- [Without these three tools, I can not think of react native development](https://blog.devgenius.io/without-these-three-tools-i-can-not-think-of-react-native-development-4efb53dd6298?source=rss------android-5)
-- [OAprm viro news 03 05 202](https://medium.com/@dimwifds/oaprm-viro-news-03-05-202-3f76234142b1?source=rss------android-5)
-- [UX Policies — Part 3](https://medium.com/nerd-for-tech/ux-policies-part-3-d6937e2dda57?source=rss------android-5)
-- [Implementation of Circular RecyclerView with Custom circle indicator which acts like ViewPager](https://medium.com/@akshaydahatonde/implementation-of-circular-recyclerview-with-custom-circle-indicator-which-acts-like-viewpager-805c6c20d628?source=rss------android-5)
-- [Thread dealers: Kotlin Coroutines for beginners](https://enofeb.medium.com/thread-dealers-kotlin-coroutines-for-beginners-74a9c732d6d2?source=rss------android-5)
-- [Best Android Home Screen Setup using Nova Launcher - 205](https://medium.com/@Kustome_bee/best-android-home-screen-setup-using-nova-launcher-205-549250e80237?source=rss------android-5)
+- [Spesifikasi Realme 5 Pro Terbaru 2021](https://rxhmadi.medium.com/spesifikasi-realme-5-pro-terbaru-2021-2f4f69369956?source=rss------android-5)
+- [Install your debug & release variants on the same device](https://medium.com/dipien/install-your-debug-release-variants-on-the-same-device-be506916933f?source=rss------android-5)
+- [Membuat Splash Screen Aplikasi Android di Android Studio (JAVA)](https://ramadhanhadiatma.medium.com/membuat-splash-screen-aplikasi-android-di-android-studio-java-8b960a555c32?source=rss------android-5)
+- [Como realizar una validación HMS](https://medium.com/huawei-developers-latinoam%C3%A9rica/como-realizar-una-validaci%C3%B3n-hms-b0453a891ca5?source=rss------android-5)
+- [In-app updates [All official development resources]](https://medium.com/android-topics/in-app-updates-all-official-development-resources-90a3ca4eb409?source=rss------android-5)
+- [How to Ace your Studies with Handwritten Flashcards: 3 Tools: Microsoft OneNote + NoteDex + a…](https://notedex.medium.com/how-to-ace-your-studies-with-handwritten-digital-flash-cards-onenote-notedex-index-cards-app-a-c02cb452c574?source=rss------android-5)
+- [This is about fetching list of data from Room database Asynchronously with coroutine’s Flow and…](https://pratibhagburde.medium.com/this-is-about-fetching-list-of-data-from-room-database-asynchronously-with-coroutines-flow-and-6b2a04544461?source=rss------android-5)
+- [Aeo 02iu NEuai](https://metglres.medium.com/aeo-02iu-neuai-8b1a6589d720?source=rss------android-5)
+- [Kotlin scope function Let, Run, With, apply and also](https://rahulsharmagbpec.medium.com/kotlin-scope-function-let-run-with-apply-and-also-63a86bebe5c7?source=rss------android-5)
+- [How to upgrade the technology stack of your react native app?](https://marmik-mobile.medium.com/how-to-upgrade-the-technology-stack-of-your-react-native-app-ee0b56129508?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
