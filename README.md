@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Jira vs. Github Project Management vs. ClickUp, which one is the best?](https://www.reddit.com/r/androiddev/comments/n3hriv/jira_vs_github_project_management_vs_clickup/)
-- [Updated : KMMT : Kotlin Multiplatform Mobile Development Simplified](https://www.reddit.com/r/androiddev/comments/n3h4ve/updated_kmmt_kotlin_multiplatform_mobile/)
-- [What's the best software to use to document features?](https://www.reddit.com/r/androiddev/comments/n39y9k/whats_the_best_software_to_use_to_document/)
-- [Coroutines for beginners- the only article you need to get started!](https://www.reddit.com/r/androiddev/comments/n36o42/coroutines_for_beginners_the_only_article_you/)
-- [Upload to MavenCentral made easy for Android Library](https://www.reddit.com/r/androiddev/comments/n35qkc/upload_to_mavencentral_made_easy_for_android/)
-- [Getting the notification's id sent via Firebase Messaging](https://www.reddit.com/r/androiddev/comments/n35ay1/getting_the_notifications_id_sent_via_firebase/)
-- [Question about saving state in LazyColumn?](https://www.reddit.com/r/androiddev/comments/n34tec/question_about_saving_state_in_lazycolumn/)
-- [Lightweight Linux distro for android app developers?](https://www.reddit.com/r/androiddev/comments/n33gc8/lightweight_linux_distro_for_android_app/)
-- [Any free way to find keywords for your app?](https://www.reddit.com/r/androiddev/comments/n31c5j/any_free_way_to_find_keywords_for_your_app/)
-- [[GDPR] How do you handle the user consent when using Crashlytics and Remote Config](https://www.reddit.com/r/androiddev/comments/n315az/gdpr_how_do_you_handle_the_user_consent_when/)
+- [Gradle Kotlin DSL failures on Android Gradle Plugin 7.0.0-alpha15](https://www.reddit.com/r/androiddev/comments/n4cvri/gradle_kotlin_dsl_failures_on_android_gradle/)
+- [Tool tips in a chart in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/n47r7f/tool_tips_in_a_chart_in_jetpack_compose/)
+- [How much could I sell my app for?](https://www.reddit.com/r/androiddev/comments/n44ip2/how_much_could_i_sell_my_app_for/)
+- [Video Tutorial on Using Guidelines and Barriers in ConstraintLayout](https://www.reddit.com/r/androiddev/comments/n3zvrf/video_tutorial_on_using_guidelines_and_barriers/)
+- [Custom Keyboard input for minority language (Java/Kotlin/Flutter/ReactNative?)](https://www.reddit.com/r/androiddev/comments/n3zgyc/custom_keyboard_input_for_minority_language/)
+- [How NOT TO get banned from AdMob for 'click fraud'](https://www.reddit.com/r/androiddev/comments/n3xybm/how_not_to_get_banned_from_admob_for_click_fraud/)
+- [Apple M1 Chip & Android Emulator: Working](https://www.reddit.com/r/androiddev/comments/n3w6hj/apple_m1_chip_android_emulator_working/)
+- [How to add data binding to your project.](https://www.reddit.com/r/androiddev/comments/n3vqnx/how_to_add_data_binding_to_your_project/)
+- [Weekly Who's Hiring Thread - May 03, 2021](https://www.reddit.com/r/androiddev/comments/n3veib/weekly_whos_hiring_thread_may_03_2021/)
+- [Is it possible to find the status of the unsuccessful outgoing call?](https://www.reddit.com/r/androiddev/comments/n3uo8f/is_it_possible_to_find_the_status_of_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
