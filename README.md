@@ -335,16 +335,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Clubhouse Is Losing Steam](https://gizmodo.com/clubhouse-is-losing-steam-1846813209)
+- [New Google Play Store Rules Aim to Weed Out Spammy Apps](https://gizmodo.com/new-google-play-store-rules-aim-to-weed-out-spammy-apps-1846797462)
+- [Google Assistant Will Now Finally Be Able to Say Your Name Correctly](https://gizmodo.com/google-assistant-will-now-finally-be-able-to-say-your-n-1846791494)
+- [It Turns Out Covid-19 Contact Tracing on Android Is Not So Private After All](https://gizmodo.com/it-turns-out-covid-19-contact-tracing-on-android-is-not-1846775139)
 - [Soon You May Not Have to Say 'Hey Google' to Get Your Phone's Google Assistant to Listen to You](https://gizmodo.com/soon-you-may-not-have-to-say-hey-google-to-get-your-pho-1846757693)
 - [Researchers Take Down Botnet Pretending to Be Millions of People Watching TV](https://gizmodo.com/researchers-take-down-botnet-pretending-to-be-millions-1846726865)
 - [Congrats to OnePlus for Making Its Smartwatch Slightly Less Awful](https://gizmodo.com/congrats-to-oneplus-for-making-its-smartwatch-slightly-1846734118)
 - [Apple's M1 Chip Is a Cruel Reminder of What Android Users Are Missing Out On](https://gizmodo.com/apples-m1-chip-is-a-cruel-reminder-of-what-android-user-1846726731)
 - [Android 12 May Include Feature That Will Hibernate Apps You Haven't Used in a While](https://gizmodo.com/android-12-may-include-feature-that-will-hibernate-apps-1846721234)
 - [These Are the Best AR Apps You Can Use Outside](https://gizmodo.com/these-are-the-best-ar-apps-you-can-use-outside-1846696834)
-- [Google Misled Android Users About Location Data, Australian Court Finds](https://gizmodo.com/google-misled-android-users-about-location-data-austra-1846699135)
-- [Google Assistant Just Got a Useful Update With Four Helpful Features](https://gizmodo.com/google-assistant-just-got-a-useful-update-with-four-hel-1846681958)
-- [Wow, Google, Show Us How You Really Feel About Wear OS](https://gizmodo.com/wow-google-show-us-how-you-really-feel-about-wear-os-1846674295)
-- [New Google Photos Video-Editing Features Finally Appearing on Android Phones](https://gizmodo.com/new-google-photos-video-editing-features-finally-appear-1846674527)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
