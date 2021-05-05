@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Spesifikasi Realme 5 Pro Terbaru 2021](https://rxhmadi.medium.com/spesifikasi-realme-5-pro-terbaru-2021-2f4f69369956?source=rss------android-5)
-- [Install your debug & release variants on the same device](https://medium.com/dipien/install-your-debug-release-variants-on-the-same-device-be506916933f?source=rss------android-5)
-- [Membuat Splash Screen Aplikasi Android di Android Studio (JAVA)](https://ramadhanhadiatma.medium.com/membuat-splash-screen-aplikasi-android-di-android-studio-java-8b960a555c32?source=rss------android-5)
-- [Como realizar una validación HMS](https://medium.com/huawei-developers-latinoam%C3%A9rica/como-realizar-una-validaci%C3%B3n-hms-b0453a891ca5?source=rss------android-5)
-- [In-app updates [All official development resources]](https://medium.com/android-topics/in-app-updates-all-official-development-resources-90a3ca4eb409?source=rss------android-5)
-- [How to Ace your Studies with Handwritten Flashcards: 3 Tools: Microsoft OneNote + NoteDex + a…](https://notedex.medium.com/how-to-ace-your-studies-with-handwritten-digital-flash-cards-onenote-notedex-index-cards-app-a-c02cb452c574?source=rss------android-5)
-- [This is about fetching list of data from Room database Asynchronously with coroutine’s Flow and…](https://pratibhagburde.medium.com/this-is-about-fetching-list-of-data-from-room-database-asynchronously-with-coroutines-flow-and-6b2a04544461?source=rss------android-5)
-- [Aeo 02iu NEuai](https://metglres.medium.com/aeo-02iu-neuai-8b1a6589d720?source=rss------android-5)
-- [Kotlin scope function Let, Run, With, apply and also](https://rahulsharmagbpec.medium.com/kotlin-scope-function-let-run-with-apply-and-also-63a86bebe5c7?source=rss------android-5)
-- [How to upgrade the technology stack of your react native app?](https://marmik-mobile.medium.com/how-to-upgrade-the-technology-stack-of-your-react-native-app-ee0b56129508?source=rss------android-5)
+- [Flutter-Text Recognition with Firebase ML Vision](https://emenaa.medium.com/flutter-text-recognition-with-firebase-ml-vision-80f887a0711a?source=rss------android-5)
+- [BatteryGuru — Extiende la vida útil de tu batería](https://htcstoremexico.medium.com/batteryguru-extiende-la-vida-%C3%BAtil-de-tu-bater%C3%ADa-9ca862bb960b?source=rss------android-5)
+- [Intents en Android ¿Qué son y para qué sirven?](https://alainnicolastello.medium.com/intents-en-android-qu%C3%A9-son-y-para-qu%C3%A9-sirven-f60b5f34c15b?source=rss------android-5)
+- [Well done!](https://jonathancampos.medium.com/well-done-2753e4001fa7?source=rss------android-5)
+- [Blokada- Bloquea Publicidad en tu Android](https://htcstoremexico.medium.com/blokada-bloquea-publicidad-en-tu-android-da56bbabeb89?source=rss------android-5)
+- [Game Situs Betting Online Terhoki Di ASIA](https://kasqqpkv.medium.com/game-situs-betting-online-terhoki-di-asia-72f80ce2f33d?source=rss------android-5)
+- [How do I earn in affiliate marketing?](https://meletadivine.medium.com/how-do-i-earn-in-affiliate-marketing-688a19559469?source=rss------android-5)
+- [Hilt is stable! Easier dependency injection on Android](https://medium.com/androiddevelopers/hilt-is-stable-easier-dependency-injection-on-android-53aca3f38b9c?source=rss------android-5)
+- [Ne demek startActivityForResult() is deprecated ?](https://hamurcuabi.medium.com/ne-demek-startactivityforresult-is-deprecated-bc438542fa8e?source=rss------android-5)
+- [Infinix Hot 10 Play Bangla Review, ইনফিনিক্স হট ১০ প্লে বাংলা রিভিউ,](https://mobilephonedetailsbd.medium.com/infinix-hot-10-play-bangla-review-%E0%A6%87%E0%A6%A8%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8-%E0%A6%B9%E0%A6%9F-%E0%A7%A7%E0%A7%A6-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89-d35ba9f9be04?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
