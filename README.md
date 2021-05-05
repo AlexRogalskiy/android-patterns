@@ -335,6 +335,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google May Have Inadvertently Just Spilled the Beans About the Pixel Buds A on Twitter](https://gizmodo.com/google-may-have-inadvertently-just-spilled-the-beans-ab-1846823832)
+- [60% of School Apps Are Sharing Your Kids' Data With Third Parties](https://gizmodo.com/60-of-school-apps-are-sharing-your-kids-data-with-thir-1846819024)
 - [Clubhouse Is Losing Steam](https://gizmodo.com/clubhouse-is-losing-steam-1846813209)
 - [New Google Play Store Rules Aim to Weed Out Spammy Apps](https://gizmodo.com/new-google-play-store-rules-aim-to-weed-out-spammy-apps-1846797462)
 - [Google Assistant Will Now Finally Be Able to Say Your Name Correctly](https://gizmodo.com/google-assistant-will-now-finally-be-able-to-say-your-n-1846791494)
@@ -343,8 +345,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Researchers Take Down Botnet Pretending to Be Millions of People Watching TV](https://gizmodo.com/researchers-take-down-botnet-pretending-to-be-millions-1846726865)
 - [Congrats to OnePlus for Making Its Smartwatch Slightly Less Awful](https://gizmodo.com/congrats-to-oneplus-for-making-its-smartwatch-slightly-1846734118)
 - [Apple's M1 Chip Is a Cruel Reminder of What Android Users Are Missing Out On](https://gizmodo.com/apples-m1-chip-is-a-cruel-reminder-of-what-android-user-1846726731)
-- [Android 12 May Include Feature That Will Hibernate Apps You Haven't Used in a While](https://gizmodo.com/android-12-may-include-feature-that-will-hibernate-apps-1846721234)
-- [These Are the Best AR Apps You Can Use Outside](https://gizmodo.com/these-are-the-best-ar-apps-you-can-use-outside-1846696834)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
