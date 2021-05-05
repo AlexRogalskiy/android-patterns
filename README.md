@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gradle Kotlin DSL failures on Android Gradle Plugin 7.0.0-alpha15](https://www.reddit.com/r/androiddev/comments/n4cvri/gradle_kotlin_dsl_failures_on_android_gradle/)
-- [Tool tips in a chart in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/n47r7f/tool_tips_in_a_chart_in_jetpack_compose/)
-- [How much could I sell my app for?](https://www.reddit.com/r/androiddev/comments/n44ip2/how_much_could_i_sell_my_app_for/)
-- [Video Tutorial on Using Guidelines and Barriers in ConstraintLayout](https://www.reddit.com/r/androiddev/comments/n3zvrf/video_tutorial_on_using_guidelines_and_barriers/)
-- [Custom Keyboard input for minority language (Java/Kotlin/Flutter/ReactNative?)](https://www.reddit.com/r/androiddev/comments/n3zgyc/custom_keyboard_input_for_minority_language/)
-- [How NOT TO get banned from AdMob for 'click fraud'](https://www.reddit.com/r/androiddev/comments/n3xybm/how_not_to_get_banned_from_admob_for_click_fraud/)
-- [Apple M1 Chip & Android Emulator: Working](https://www.reddit.com/r/androiddev/comments/n3w6hj/apple_m1_chip_android_emulator_working/)
-- [How to add data binding to your project.](https://www.reddit.com/r/androiddev/comments/n3vqnx/how_to_add_data_binding_to_your_project/)
-- [Weekly Who's Hiring Thread - May 03, 2021](https://www.reddit.com/r/androiddev/comments/n3veib/weekly_whos_hiring_thread_may_03_2021/)
-- [Is it possible to find the status of the unsuccessful outgoing call?](https://www.reddit.com/r/androiddev/comments/n3uo8f/is_it_possible_to_find_the_status_of_the/)
+- [How to auto-update local db every Xmins with web data/api?](https://www.reddit.com/r/androiddev/comments/n51weu/how_to_autoupdate_local_db_every_xmins_with_web/)
+- [Do mobile apps (including iOS apps) use WebSockets for async features?](https://www.reddit.com/r/androiddev/comments/n4zlbj/do_mobile_apps_including_ios_apps_use_websockets/)
+- [Hunting a race condition in the Android 10 Emulator](https://www.reddit.com/r/androiddev/comments/n4yfao/hunting_a_race_condition_in_the_android_10/)
+- [How to survive Pair-Programming in an interview?](https://www.reddit.com/r/androiddev/comments/n4wyna/how_to_survive_pairprogramming_in_an_interview/)
+- [Android Studio 4.2 available in the Stable channel](https://www.reddit.com/r/androiddev/comments/n4vco3/android_studio_42_available_in_the_stable_channel/)
+- [First foray into Jetpack Compose – A party viewer for DDO](https://www.reddit.com/r/androiddev/comments/n4utfq/first_foray_into_jetpack_compose_a_party_viewer/)
+- [Android Studio 4.2](https://www.reddit.com/r/androiddev/comments/n4uom7/android_studio_42/)
+- [What's new in Android Studio 4.2](https://www.reddit.com/r/androiddev/comments/n4tt2y/whats_new_in_android_studio_42/)
+- [Clicking Through a ViewPager2?](https://www.reddit.com/r/androiddev/comments/n4tr92/clicking_through_a_viewpager2/)
+- [What's new in Android Studio 4.2](https://www.reddit.com/r/androiddev/comments/n4tp7h/whats_new_in_android_studio_42/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
