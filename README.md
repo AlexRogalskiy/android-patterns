@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to auto-update local db every Xmins with web data/api?](https://www.reddit.com/r/androiddev/comments/n51weu/how_to_autoupdate_local_db_every_xmins_with_web/)
-- [Do mobile apps (including iOS apps) use WebSockets for async features?](https://www.reddit.com/r/androiddev/comments/n4zlbj/do_mobile_apps_including_ios_apps_use_websockets/)
-- [Hunting a race condition in the Android 10 Emulator](https://www.reddit.com/r/androiddev/comments/n4yfao/hunting_a_race_condition_in_the_android_10/)
-- [How to survive Pair-Programming in an interview?](https://www.reddit.com/r/androiddev/comments/n4wyna/how_to_survive_pairprogramming_in_an_interview/)
-- [Android Studio 4.2 available in the Stable channel](https://www.reddit.com/r/androiddev/comments/n4vco3/android_studio_42_available_in_the_stable_channel/)
-- [First foray into Jetpack Compose – A party viewer for DDO](https://www.reddit.com/r/androiddev/comments/n4utfq/first_foray_into_jetpack_compose_a_party_viewer/)
-- [Android Studio 4.2](https://www.reddit.com/r/androiddev/comments/n4uom7/android_studio_42/)
-- [What's new in Android Studio 4.2](https://www.reddit.com/r/androiddev/comments/n4tt2y/whats_new_in_android_studio_42/)
-- [Clicking Through a ViewPager2?](https://www.reddit.com/r/androiddev/comments/n4tr92/clicking_through_a_viewpager2/)
-- [What's new in Android Studio 4.2](https://www.reddit.com/r/androiddev/comments/n4tp7h/whats_new_in_android_studio_42/)
+- [deleted the rom from android](https://www.reddit.com/r/androiddev/comments/n5vw6v/deleted_the_rom_from_android/)
+- [Does Android have some kind of problem resolving subdomains of localhost? Browsers can, but it seems that internal connections from my app fail.](https://www.reddit.com/r/androiddev/comments/n5uxp3/does_android_have_some_kind_of_problem_resolving/)
+- [AndroidX Camera is now stable!](https://www.reddit.com/r/androiddev/comments/n5umnh/androidx_camera_is_now_stable/)
+- [Auth0 and Lock UI for Android got a major update that uses AndroidX dependencies, drops the use of Jetifier](https://www.reddit.com/r/androiddev/comments/n5uk68/auth0_and_lock_ui_for_android_got_a_major_update/)
+- [How do I know if my projects (and resume) are good enough to start applying for Junior Android Dev jobs?](https://www.reddit.com/r/androiddev/comments/n5reww/how_do_i_know_if_my_projects_and_resume_are_good/)
+- [shimart96/MyJoystick2](https://www.reddit.com/r/androiddev/comments/n5qlgs/shimart96myjoystick2/)
+- [How do I use the Android Studio Github integration?](https://www.reddit.com/r/androiddev/comments/n5q5ql/how_do_i_use_the_android_studio_github_integration/)
+- [Getting on the same page with Paging 3](https://www.reddit.com/r/androiddev/comments/n5piz4/getting_on_the_same_page_with_paging_3/)
+- [A sample Android application to including Hilt + Coroutine + Flow](https://www.reddit.com/r/androiddev/comments/n5p6yj/a_sample_android_application_to_including_hilt/)
+- [is there a discord server of android-x86?](https://www.reddit.com/r/androiddev/comments/n5l8xx/is_there_a_discord_server_of_androidx86/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
