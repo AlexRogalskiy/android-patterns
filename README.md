@@ -351,8 +351,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
 - [“Mobile advertising spend can’t just disappear”](https://mobiledevmemo.com/mobile-advertising-spend-cant-just-disappear/)
-- [Creative paralysis: ad creative production and testing in iOS 14](https://mobiledevmemo.com/creative-paralysis-ad-creative-production-and-testing-for-ios-14/)
 - [iOS 14: How to prevail in Q2 2021](https://mobiledevmemo.com/ios-14-prevailing-in-q2-2021/)
+- [Creative paralysis: ad creative production and testing in iOS 14](https://mobiledevmemo.com/creative-paralysis-ad-creative-production-and-testing-for-ios-14/)
 - [The end of the beginning on mobile: ATT is enforced next week](https://mobiledevmemo.com/the-end-of-the-beginning-on-mobile-att-is-enforced-next-week/)
 - [The growth trap](https://mobiledevmemo.com/the-growth-trap/)
 - [ATT opt-in rates are irrelevant](https://mobiledevmemo.com/att-opt-in-rates-are-irrelevant/)
