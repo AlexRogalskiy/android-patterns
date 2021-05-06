@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Flutter-Text Recognition with Firebase ML Vision](https://emenaa.medium.com/flutter-text-recognition-with-firebase-ml-vision-80f887a0711a?source=rss------android-5)
-- [BatteryGuru — Extiende la vida útil de tu batería](https://htcstoremexico.medium.com/batteryguru-extiende-la-vida-%C3%BAtil-de-tu-bater%C3%ADa-9ca862bb960b?source=rss------android-5)
-- [Intents en Android ¿Qué son y para qué sirven?](https://alainnicolastello.medium.com/intents-en-android-qu%C3%A9-son-y-para-qu%C3%A9-sirven-f60b5f34c15b?source=rss------android-5)
-- [Well done!](https://jonathancampos.medium.com/well-done-2753e4001fa7?source=rss------android-5)
-- [Blokada- Bloquea Publicidad en tu Android](https://htcstoremexico.medium.com/blokada-bloquea-publicidad-en-tu-android-da56bbabeb89?source=rss------android-5)
-- [Game Situs Betting Online Terhoki Di ASIA](https://kasqqpkv.medium.com/game-situs-betting-online-terhoki-di-asia-72f80ce2f33d?source=rss------android-5)
-- [How do I earn in affiliate marketing?](https://meletadivine.medium.com/how-do-i-earn-in-affiliate-marketing-688a19559469?source=rss------android-5)
-- [Hilt is stable! Easier dependency injection on Android](https://medium.com/androiddevelopers/hilt-is-stable-easier-dependency-injection-on-android-53aca3f38b9c?source=rss------android-5)
-- [Ne demek startActivityForResult() is deprecated ?](https://hamurcuabi.medium.com/ne-demek-startactivityforresult-is-deprecated-bc438542fa8e?source=rss------android-5)
-- [Infinix Hot 10 Play Bangla Review, ইনফিনিক্স হট ১০ প্লে বাংলা রিভিউ,](https://mobilephonedetailsbd.medium.com/infinix-hot-10-play-bangla-review-%E0%A6%87%E0%A6%A8%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8-%E0%A6%B9%E0%A6%9F-%E0%A7%A7%E0%A7%A6-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%B0%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%89-d35ba9f9be04?source=rss------android-5)
+- [Situs Poker Deposit Pulsa BEBAS RATE POTONGAN](https://kasqqpkv.medium.com/situs-poker-deposit-pulsa-bebas-rate-potongan-6cb13a4b9ebb?source=rss------android-5)
+- [Adding a PIN screen with biometric authentication in Jetpack Compose](https://fvilarino.medium.com/adding-a-pin-screen-with-biometric-authentication-in-jetpack-compose-a9bf7bd8acc9?source=rss------android-5)
+- [DEVELOPMENT AND LANGUAGE COMPLETE GUIDE](https://arpit16.medium.com/development-and-language-complete-guide-9daf3e49ae2c?source=rss------android-5)
+- [Customize Your TUI-ConsoleLauncher](https://gabbarmod.medium.com/customize-your-tui-consolelauncher-2fd61798233a?source=rss------android-5)
+- [Android CameraX — An Emergence](https://hannaholukoye.medium.com/android-camerax-an-emergence-119fba29ac75?source=rss------android-5)
+- [Top 15 Android App Development Companies- 2021 Updated List](https://sysbunny.medium.com/top-15-android-app-development-companies-2021-updated-list-563b723952ad?source=rss------android-5)
+- [Resizing while sliding would be little tricky because the child wouldnt have received its…](https://saurabhpant.medium.com/resizing-while-sliding-would-be-little-tricky-because-the-child-wouldnt-have-received-its-52597a74be23?source=rss------android-5)
+- [What will it cost to make the app like fanni?](https://akkirewamped.medium.com/what-will-it-cost-to-make-the-app-like-fanni-f50757c745a7?source=rss------android-5)
+- [Students के लिए iOS से 8 गुना ज्यादा Dangerous है Android Apps, study में दावा। Android Apps is 8…](https://glycalwarz.medium.com/students-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-ios-%E0%A4%B8%E0%A5%87-8-%E0%A4%97%E0%A5%81%E0%A4%A8%E0%A4%BE-%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%BE-dangerous-%E0%A4%B9%E0%A5%88-android-apps-study-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%A6%E0%A4%BE%E0%A4%B5%E0%A4%BE-android-apps-is-8-b0f6699882eb?source=rss------android-5)
+- [TasteGram Android](https://lush93.medium.com/tastegram-android-afa113302432?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
