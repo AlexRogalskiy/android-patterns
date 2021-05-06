@@ -335,6 +335,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Google Is Bringing a Google TV-Like Experience to Android Tablets](https://gizmodo.com/google-is-bringing-a-google-tv-like-experience-to-andro-1846824566)
 - [Google May Have Inadvertently Just Spilled the Beans About the Pixel Buds A on Twitter](https://gizmodo.com/google-may-have-inadvertently-just-spilled-the-beans-ab-1846823832)
 - [60% of School Apps Are Sharing Your Kids' Data With Third Parties](https://gizmodo.com/60-of-school-apps-are-sharing-your-kids-data-with-thir-1846819024)
 - [Clubhouse Is Losing Steam](https://gizmodo.com/clubhouse-is-losing-steam-1846813209)
@@ -344,7 +345,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Soon You May Not Have to Say 'Hey Google' to Get Your Phone's Google Assistant to Listen to You](https://gizmodo.com/soon-you-may-not-have-to-say-hey-google-to-get-your-pho-1846757693)
 - [Researchers Take Down Botnet Pretending to Be Millions of People Watching TV](https://gizmodo.com/researchers-take-down-botnet-pretending-to-be-millions-1846726865)
 - [Congrats to OnePlus for Making Its Smartwatch Slightly Less Awful](https://gizmodo.com/congrats-to-oneplus-for-making-its-smartwatch-slightly-1846734118)
-- [Apple's M1 Chip Is a Cruel Reminder of What Android Users Are Missing Out On](https://gizmodo.com/apples-m1-chip-is-a-cruel-reminder-of-what-android-user-1846726731)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
