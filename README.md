@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Situs Poker Deposit Pulsa BEBAS RATE POTONGAN](https://kasqqpkv.medium.com/situs-poker-deposit-pulsa-bebas-rate-potongan-6cb13a4b9ebb?source=rss------android-5)
-- [Adding a PIN screen with biometric authentication in Jetpack Compose](https://fvilarino.medium.com/adding-a-pin-screen-with-biometric-authentication-in-jetpack-compose-a9bf7bd8acc9?source=rss------android-5)
-- [DEVELOPMENT AND LANGUAGE COMPLETE GUIDE](https://arpit16.medium.com/development-and-language-complete-guide-9daf3e49ae2c?source=rss------android-5)
-- [Customize Your TUI-ConsoleLauncher](https://gabbarmod.medium.com/customize-your-tui-consolelauncher-2fd61798233a?source=rss------android-5)
-- [Android CameraX — An Emergence](https://hannaholukoye.medium.com/android-camerax-an-emergence-119fba29ac75?source=rss------android-5)
-- [Top 15 Android App Development Companies- 2021 Updated List](https://sysbunny.medium.com/top-15-android-app-development-companies-2021-updated-list-563b723952ad?source=rss------android-5)
-- [Resizing while sliding would be little tricky because the child wouldnt have received its…](https://saurabhpant.medium.com/resizing-while-sliding-would-be-little-tricky-because-the-child-wouldnt-have-received-its-52597a74be23?source=rss------android-5)
-- [What will it cost to make the app like fanni?](https://akkirewamped.medium.com/what-will-it-cost-to-make-the-app-like-fanni-f50757c745a7?source=rss------android-5)
-- [Students के लिए iOS से 8 गुना ज्यादा Dangerous है Android Apps, study में दावा। Android Apps is 8…](https://glycalwarz.medium.com/students-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-ios-%E0%A4%B8%E0%A5%87-8-%E0%A4%97%E0%A5%81%E0%A4%A8%E0%A4%BE-%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%BE-dangerous-%E0%A4%B9%E0%A5%88-android-apps-study-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%A6%E0%A4%BE%E0%A4%B5%E0%A4%BE-android-apps-is-8-b0f6699882eb?source=rss------android-5)
-- [TasteGram Android](https://lush93.medium.com/tastegram-android-afa113302432?source=rss------android-5)
+- [Gestionar archivos en Huawei Drive usando HMS Drive Kit y Account Kit](https://firemixdev.medium.com/gestionar-archivos-en-huawei-drive-usando-hms-drive-kit-y-account-kit-80094ef8c5?source=rss------android-5)
+- [Understanding MVVM pattern for Android in 2021](https://christopher-elias.medium.com/understanding-mvvm-pattern-for-android-in-2021-98b155b37b54?source=rss------android-5)
+- [Retrofit request including both body and URL parameters](https://medium.com/@akshaykapase11/retrofit-request-including-both-body-and-url-parameters-8e19624f9981?source=rss------android-5)
+- [[Android] AAC MVVM Pattern](https://dev-jihun.medium.com/android-aac-mvvm-pattern-7c1bf54fc574?source=rss------android-5)
+- [5 Common question for starting career as mobile application developer](https://medium.com/@nobanhasan/5-common-question-for-starting-career-as-mobile-application-developer-b2d57d46cb7d?source=rss------android-5)
+- [Managing UI with Kotlin sealed classes](https://sosorevgm.medium.com/managing-ui-with-kotlin-sealed-classes-1ee674f1836f?source=rss------android-5)
+- [Twitter Will Now Prompt Users When They Reply With Offensive Language](https://rivek085.medium.com/twitter-will-now-prompt-users-when-they-reply-with-offensive-language-e1602dba3ec0?source=rss------android-5)
+- [研究採用 R8 Compiler 的利益與風險設計與執行實驗](https://lush93.medium.com/%E7%A0%94%E7%A9%B6%E6%8E%A1%E7%94%A8-r8-compiler-%E7%9A%84%E5%88%A9%E7%9B%8A%E8%88%87%E9%A2%A8%E9%9A%AA%E8%A8%AD%E8%A8%88%E8%88%87%E5%9F%B7%E8%A1%8C%E5%AF%A6%E9%A9%97-5452116dc3d2?source=rss------android-5)
+- [為專案導入 MVVM 架構以及 Data Binding，解決 memory leak 問題](https://lush93.medium.com/%E7%82%BA%E5%B0%88%E6%A1%88%E5%B0%8E%E5%85%A5-mvvm-%E6%9E%B6%E6%A7%8B%E4%BB%A5%E5%8F%8A-data-binding-%E8%A7%A3%E6%B1%BA-memory-leak-%E5%95%8F%E9%A1%8C-f2c67e4c80e3?source=rss------android-5)
+- [Project Taste](https://lush93.medium.com/project-taste-869fa738d245?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
