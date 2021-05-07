@@ -335,6 +335,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Qualcomm Chip Flaw Could Leave 30 Percent of the World's Phones Vulnerable to Hackers](https://gizmodo.com/qualcomm-chip-flaw-could-leave-30-percent-of-the-worlds-1846837667)
+- [Google Is Launching Its Own Version of Apple’s Privacy Nutrition Labels](https://gizmodo.com/google-is-launching-its-own-version-of-apple-s-privacy-1846839667)
+- [Google Assistant Is Getting a New Family Broadcast Feature Just in Time for Mother's Day](https://gizmodo.com/google-assistant-is-getting-a-new-family-broadcast-feat-1846836811)
 - [Google Is Bringing a Google TV-Like Experience to Android Tablets](https://gizmodo.com/google-is-bringing-a-google-tv-like-experience-to-andro-1846824566)
 - [Google May Have Inadvertently Just Spilled the Beans About the Pixel Buds A on Twitter](https://gizmodo.com/google-may-have-inadvertently-just-spilled-the-beans-ab-1846823832)
 - [60% of School Apps Are Sharing Your Kids' Data With Third Parties](https://gizmodo.com/60-of-school-apps-are-sharing-your-kids-data-with-thir-1846819024)
@@ -342,9 +345,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [New Google Play Store Rules Aim to Weed Out Spammy Apps](https://gizmodo.com/new-google-play-store-rules-aim-to-weed-out-spammy-apps-1846797462)
 - [Google Assistant Will Now Finally Be Able to Say Your Name Correctly](https://gizmodo.com/google-assistant-will-now-finally-be-able-to-say-your-n-1846791494)
 - [It Turns Out Covid-19 Contact Tracing on Android Is Not So Private After All](https://gizmodo.com/it-turns-out-covid-19-contact-tracing-on-android-is-not-1846775139)
-- [Soon You May Not Have to Say 'Hey Google' to Get Your Phone's Google Assistant to Listen to You](https://gizmodo.com/soon-you-may-not-have-to-say-hey-google-to-get-your-pho-1846757693)
-- [Researchers Take Down Botnet Pretending to Be Millions of People Watching TV](https://gizmodo.com/researchers-take-down-botnet-pretending-to-be-millions-1846726865)
-- [Congrats to OnePlus for Making Its Smartwatch Slightly Less Awful](https://gizmodo.com/congrats-to-oneplus-for-making-its-smartwatch-slightly-1846734118)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
