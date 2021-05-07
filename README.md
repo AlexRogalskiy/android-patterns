@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [deleted the rom from android](https://www.reddit.com/r/androiddev/comments/n5vw6v/deleted_the_rom_from_android/)
-- [Does Android have some kind of problem resolving subdomains of localhost? Browsers can, but it seems that internal connections from my app fail.](https://www.reddit.com/r/androiddev/comments/n5uxp3/does_android_have_some_kind_of_problem_resolving/)
-- [AndroidX Camera is now stable!](https://www.reddit.com/r/androiddev/comments/n5umnh/androidx_camera_is_now_stable/)
-- [Auth0 and Lock UI for Android got a major update that uses AndroidX dependencies, drops the use of Jetifier](https://www.reddit.com/r/androiddev/comments/n5uk68/auth0_and_lock_ui_for_android_got_a_major_update/)
-- [How do I know if my projects (and resume) are good enough to start applying for Junior Android Dev jobs?](https://www.reddit.com/r/androiddev/comments/n5reww/how_do_i_know_if_my_projects_and_resume_are_good/)
-- [shimart96/MyJoystick2](https://www.reddit.com/r/androiddev/comments/n5qlgs/shimart96myjoystick2/)
-- [How do I use the Android Studio Github integration?](https://www.reddit.com/r/androiddev/comments/n5q5ql/how_do_i_use_the_android_studio_github_integration/)
-- [Getting on the same page with Paging 3](https://www.reddit.com/r/androiddev/comments/n5piz4/getting_on_the_same_page_with_paging_3/)
-- [A sample Android application to including Hilt + Coroutine + Flow](https://www.reddit.com/r/androiddev/comments/n5p6yj/a_sample_android_application_to_including_hilt/)
-- [is there a discord server of android-x86?](https://www.reddit.com/r/androiddev/comments/n5l8xx/is_there_a_discord_server_of_androidx86/)
+- [New safety section in Google Play will give transparency into how apps use data](https://www.reddit.com/r/androiddev/comments/n6bfgy/new_safety_section_in_google_play_will_give/)
+- [App removal warning from Google due to Spam policy. What should I do?](https://www.reddit.com/r/androiddev/comments/n6bcqa/app_removal_warning_from_google_due_to_spam/)
+- [Context Menu on ListViewItem](https://www.reddit.com/r/androiddev/comments/n6at7r/context_menu_on_listviewitem/)
+- [Why does the Google Play console require 16:9 ratio *tablet* screenshots?](https://www.reddit.com/r/androiddev/comments/n693wn/why_does_the_google_play_console_require_169/)
+- [Is the associate android developer certification worth it?](https://www.reddit.com/r/androiddev/comments/n67y9d/is_the_associate_android_developer_certification/)
+- [How good is Admob actually?](https://www.reddit.com/r/androiddev/comments/n67x3i/how_good_is_admob_actually/)
+- [GenericRecyclerView | Kotlin](https://www.reddit.com/r/androiddev/comments/n67rmy/genericrecyclerview_kotlin/)
+- [Feedback on my latest Android project](https://www.reddit.com/r/androiddev/comments/n66t8l/feedback_on_my_latest_android_project/)
+- [App rejected for upload phone](https://www.reddit.com/r/androiddev/comments/n66sad/app_rejected_for_upload_phone/)
+- [Getting View Ids of third part applications](https://www.reddit.com/r/androiddev/comments/n65x2n/getting_view_ids_of_third_part_applications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
