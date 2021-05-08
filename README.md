@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New safety section in Google Play will give transparency into how apps use data](https://www.reddit.com/r/androiddev/comments/n6bfgy/new_safety_section_in_google_play_will_give/)
-- [App removal warning from Google due to Spam policy. What should I do?](https://www.reddit.com/r/androiddev/comments/n6bcqa/app_removal_warning_from_google_due_to_spam/)
-- [Context Menu on ListViewItem](https://www.reddit.com/r/androiddev/comments/n6at7r/context_menu_on_listviewitem/)
-- [Why does the Google Play console require 16:9 ratio *tablet* screenshots?](https://www.reddit.com/r/androiddev/comments/n693wn/why_does_the_google_play_console_require_169/)
-- [Is the associate android developer certification worth it?](https://www.reddit.com/r/androiddev/comments/n67y9d/is_the_associate_android_developer_certification/)
-- [How good is Admob actually?](https://www.reddit.com/r/androiddev/comments/n67x3i/how_good_is_admob_actually/)
-- [GenericRecyclerView | Kotlin](https://www.reddit.com/r/androiddev/comments/n67rmy/genericrecyclerview_kotlin/)
-- [Feedback on my latest Android project](https://www.reddit.com/r/androiddev/comments/n66t8l/feedback_on_my_latest_android_project/)
-- [App rejected for upload phone](https://www.reddit.com/r/androiddev/comments/n66sad/app_rejected_for_upload_phone/)
-- [Getting View Ids of third part applications](https://www.reddit.com/r/androiddev/comments/n65x2n/getting_view_ids_of_third_part_applications/)
+- [Problem in android studio](https://www.reddit.com/r/androiddev/comments/n7e3qz/problem_in_android_studio/)
+- [[Survey] Rutgers and Mozilla researchers want to know how you use Google Assistant](https://www.reddit.com/r/androiddev/comments/n7cncd/survey_rutgers_and_mozilla_researchers_want_to/)
+- [Is there a good app making program that let’s me start from the front end and work back?](https://www.reddit.com/r/androiddev/comments/n7b1dm/is_there_a_good_app_making_program_that_lets_me/)
+- [is there any Real-time analytics just like fabric ?](https://www.reddit.com/r/androiddev/comments/n79s8t/is_there_any_realtime_analytics_just_like_fabric/)
+- [Kotlin - wait till asynchronous call to get a response](https://www.reddit.com/r/androiddev/comments/n77ukc/kotlin_wait_till_asynchronous_call_to_get_a/)
+- [Emulating old version for legacy app](https://www.reddit.com/r/androiddev/comments/n76js3/emulating_old_version_for_legacy_app/)
+- [best phone with at least 90hz screen and developer friendly with at least a snapdragon 855???](https://www.reddit.com/r/androiddev/comments/n73ajg/best_phone_with_at_least_90hz_screen_and/)
+- [Things to know about Flow’s shareIn and stateIn operators](https://www.reddit.com/r/androiddev/comments/n720u4/things_to_know_about_flows_sharein_and_statein/)
+- [[JobSwitch] I am planning to move to a better company like Uber and I am not understanding if I should concentrate on Android Concepts or do LeetCode for couple of months before I start giving interviews.](https://www.reddit.com/r/androiddev/comments/n71rt5/jobswitch_i_am_planning_to_move_to_a_better/)
+- [MVP on Jetpack Compose](https://www.reddit.com/r/androiddev/comments/n71n21/mvp_on_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
