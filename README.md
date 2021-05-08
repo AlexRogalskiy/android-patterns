@@ -365,11 +365,11 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Infinum posts*
 
 <!-- INFINUM-POST-LIST:START -->
+- [Android Studio 4.2 is now available](https://androidsweets.ongoodbits.com/android-studio-4-2-is-now-available)
 - [Be careful with you Google ads!](https://androidsweets.ongoodbits.com/be-careful-with-you-google-ads)
 - [How to have Modular Navigation with Jetpack Compose?](https://androidsweets.ongoodbits.com/how-to-have-modular-navigation-with-jetpack-compose)
 - [How Dalvik and ART work?](https://androidsweets.ongoodbits.com/how-dalvik-and-art-work)
 - [Tools to help developers provide a positive user experience](https://androidsweets.ongoodbits.com/tools-to-help-developers-provide-a-positive-user-experience)
-- [Do you know your dependencies?](https://androidsweets.ongoodbits.com/do-you-know-your-dependencies)
 <!-- INFINUM-POST-LIST:END -->
 
 ***
