@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Gestionar archivos en Huawei Drive usando HMS Drive Kit y Account Kit](https://firemixdev.medium.com/gestionar-archivos-en-huawei-drive-usando-hms-drive-kit-y-account-kit-80094ef8c5?source=rss------android-5)
-- [Understanding MVVM pattern for Android in 2021](https://christopher-elias.medium.com/understanding-mvvm-pattern-for-android-in-2021-98b155b37b54?source=rss------android-5)
-- [Retrofit request including both body and URL parameters](https://medium.com/@akshaykapase11/retrofit-request-including-both-body-and-url-parameters-8e19624f9981?source=rss------android-5)
-- [[Android] AAC MVVM Pattern](https://dev-jihun.medium.com/android-aac-mvvm-pattern-7c1bf54fc574?source=rss------android-5)
-- [5 Common question for starting career as mobile application developer](https://medium.com/@nobanhasan/5-common-question-for-starting-career-as-mobile-application-developer-b2d57d46cb7d?source=rss------android-5)
-- [Managing UI with Kotlin sealed classes](https://sosorevgm.medium.com/managing-ui-with-kotlin-sealed-classes-1ee674f1836f?source=rss------android-5)
-- [Twitter Will Now Prompt Users When They Reply With Offensive Language](https://rivek085.medium.com/twitter-will-now-prompt-users-when-they-reply-with-offensive-language-e1602dba3ec0?source=rss------android-5)
-- [研究採用 R8 Compiler 的利益與風險設計與執行實驗](https://lush93.medium.com/%E7%A0%94%E7%A9%B6%E6%8E%A1%E7%94%A8-r8-compiler-%E7%9A%84%E5%88%A9%E7%9B%8A%E8%88%87%E9%A2%A8%E9%9A%AA%E8%A8%AD%E8%A8%88%E8%88%87%E5%9F%B7%E8%A1%8C%E5%AF%A6%E9%A9%97-5452116dc3d2?source=rss------android-5)
-- [為專案導入 MVVM 架構以及 Data Binding，解決 memory leak 問題](https://lush93.medium.com/%E7%82%BA%E5%B0%88%E6%A1%88%E5%B0%8E%E5%85%A5-mvvm-%E6%9E%B6%E6%A7%8B%E4%BB%A5%E5%8F%8A-data-binding-%E8%A7%A3%E6%B1%BA-memory-leak-%E5%95%8F%E9%A1%8C-f2c67e4c80e3?source=rss------android-5)
-- [Project Taste](https://lush93.medium.com/project-taste-869fa738d245?source=rss------android-5)
+- [Best Screen Recorders Apps For Huge Games](https://medium.com/@arya4955q/best-screen-recorders-apps-for-huge-games-db0ce938ed7a?source=rss------android-5)
+- [How did I learn Android Clean Architecture, Dagger2, and Retrofit?](https://ghahremani.medium.com/how-i-learned-android-clean-architecture-dagger2-and-retrofit-d1de27b211c7?source=rss------android-5)
+- [Great article Brian.](https://medium.com/@arrmixer/great-article-brian-1eec0f48744a?source=rss------android-5)
+- [Theming basics in Android](https://proandroiddev.com/theming-basics-in-android-13c57bc20605?source=rss------android-5)
+- [Situs Poker Deposit Pulsa Elektrik Bebas Potongan](https://kasqqpkv.medium.com/situs-poker-deposit-pulsa-elektrik-bebas-potongan-9a800b9183c4?source=rss------android-5)
+- [Android’de Recycler View — (JAVA)](https://tugcenurdaglar.medium.com/androidde-recycler-view-java-2a88986c3636?source=rss------android-5)
+- [Hello iPhone](https://enomfon-inyang.medium.com/hello-iphone-3d8d0eb033f0?source=rss------android-5)
+- [Coroutine Misconceptions: Whose Context Is It Anyway?](https://medium.com/livefront/coroutine-misconceptions-whose-context-is-it-anyway-320c0b7adcc7?source=rss------android-5)
+- [Detecting which app was used to share your apps content](https://kbibek.medium.com/detecting-which-app-was-used-to-share-your-apps-content-cde124b563bb?source=rss------android-5)
+- [Android : Circular ImageView](https://anubhav-arora.medium.com/android-circular-imageview-4147579d1a44?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
