@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Best Screen Recorders Apps For Huge Games](https://medium.com/@arya4955q/best-screen-recorders-apps-for-huge-games-db0ce938ed7a?source=rss------android-5)
-- [How did I learn Android Clean Architecture, Dagger2, and Retrofit?](https://ghahremani.medium.com/how-i-learned-android-clean-architecture-dagger2-and-retrofit-d1de27b211c7?source=rss------android-5)
-- [Great article Brian.](https://medium.com/@arrmixer/great-article-brian-1eec0f48744a?source=rss------android-5)
-- [Theming basics in Android](https://proandroiddev.com/theming-basics-in-android-13c57bc20605?source=rss------android-5)
-- [Situs Poker Deposit Pulsa Elektrik Bebas Potongan](https://kasqqpkv.medium.com/situs-poker-deposit-pulsa-elektrik-bebas-potongan-9a800b9183c4?source=rss------android-5)
-- [Android’de Recycler View — (JAVA)](https://tugcenurdaglar.medium.com/androidde-recycler-view-java-2a88986c3636?source=rss------android-5)
-- [Hello iPhone](https://enomfon-inyang.medium.com/hello-iphone-3d8d0eb033f0?source=rss------android-5)
-- [Coroutine Misconceptions: Whose Context Is It Anyway?](https://medium.com/livefront/coroutine-misconceptions-whose-context-is-it-anyway-320c0b7adcc7?source=rss------android-5)
-- [Detecting which app was used to share your apps content](https://kbibek.medium.com/detecting-which-app-was-used-to-share-your-apps-content-cde124b563bb?source=rss------android-5)
-- [Android : Circular ImageView](https://anubhav-arora.medium.com/android-circular-imageview-4147579d1a44?source=rss------android-5)
+- [Situs 99 Bandar Poker Pulsa Elektrik Bebas Rate Potongan](https://kasqqpkv.medium.com/situs-99-bandar-poker-pulsa-elektrik-bebas-rate-potongan-bd8af0c2080?source=rss------android-5)
+- [Android-Simple Login Screen](https://hasancobanoglu1.medium.com/android-simple-login-screen-624752968fd?source=rss------android-5)
+- [Quick Guide to Git](https://medium.com/geekculture/quick-guide-to-git-937d0e4c6e69?source=rss------android-5)
+- [WhatsApp privacy policy changes 2021 | What is the new policy of WhatsApp 2021?](https://sk6446777.medium.com/whatsapp-privacy-policy-changes-2021-what-is-the-new-policy-of-whatsapp-2021-2575b165dc74?source=rss------android-5)
+- [Shimmer Effect in Android](https://emre-arslan.medium.com/shimmer-effect-in-android-2b6840cc0097?source=rss------android-5)
+- [Working with ViewPager2](https://info-anikdey003.medium.com/working-with-viewpager2-c4a43227486b?source=rss------android-5)
+- [Firebase Google Sign-In Error pada Release Mode](https://muklasr.medium.com/firebase-google-sign-in-error-pada-release-mode-6cd9ef5792cb?source=rss------android-5)
+- [Working with WAV files in Android](https://medium.com/@rizveeredwan/working-with-wav-files-in-android-52e9500297e?source=rss------android-5)
+- [Flutter Basics: Making a Quote app and fetching data from a quote api](https://saquib-ansari.medium.com/flutter-basics-making-a-quote-app-and-fetching-data-from-a-quote-api-b4f0d64a2dbb?source=rss------android-5)
+- [Firebase를 이용해 Audience(잠재고객) + FCM](https://c004112.medium.com/firebase%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-audience-%EC%9E%A0%EC%9E%AC%EA%B3%A0%EA%B0%9D-fcm-247a7c720990?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
