@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Problem in android studio](https://www.reddit.com/r/androiddev/comments/n7e3qz/problem_in_android_studio/)
-- [[Survey] Rutgers and Mozilla researchers want to know how you use Google Assistant](https://www.reddit.com/r/androiddev/comments/n7cncd/survey_rutgers_and_mozilla_researchers_want_to/)
-- [Is there a good app making program that let’s me start from the front end and work back?](https://www.reddit.com/r/androiddev/comments/n7b1dm/is_there_a_good_app_making_program_that_lets_me/)
-- [is there any Real-time analytics just like fabric ?](https://www.reddit.com/r/androiddev/comments/n79s8t/is_there_any_realtime_analytics_just_like_fabric/)
-- [Kotlin - wait till asynchronous call to get a response](https://www.reddit.com/r/androiddev/comments/n77ukc/kotlin_wait_till_asynchronous_call_to_get_a/)
-- [Emulating old version for legacy app](https://www.reddit.com/r/androiddev/comments/n76js3/emulating_old_version_for_legacy_app/)
-- [best phone with at least 90hz screen and developer friendly with at least a snapdragon 855???](https://www.reddit.com/r/androiddev/comments/n73ajg/best_phone_with_at_least_90hz_screen_and/)
-- [Things to know about Flow’s shareIn and stateIn operators](https://www.reddit.com/r/androiddev/comments/n720u4/things_to_know_about_flows_sharein_and_statein/)
-- [[JobSwitch] I am planning to move to a better company like Uber and I am not understanding if I should concentrate on Android Concepts or do LeetCode for couple of months before I start giving interviews.](https://www.reddit.com/r/androiddev/comments/n71rt5/jobswitch_i_am_planning_to_move_to_a_better/)
-- [MVP on Jetpack Compose](https://www.reddit.com/r/androiddev/comments/n71n21/mvp_on_jetpack_compose/)
+- [AMD or intel (lenovo legion 5)](https://www.reddit.com/r/androiddev/comments/n816lu/amd_or_intel_lenovo_legion_5/)
+- [Adb open file picker](https://www.reddit.com/r/androiddev/comments/n7xbfo/adb_open_file_picker/)
+- [Has anyone else gotten the error that there's a hold on their payment account because of Brazil?](https://www.reddit.com/r/androiddev/comments/n7tnn5/has_anyone_else_gotten_the_error_that_theres_a/)
+- [How much money does a 30-second unskippable mobile ad generate?](https://www.reddit.com/r/androiddev/comments/n7sp5a/how_much_money_does_a_30second_unskippable_mobile/)
+- [Seeking bite-sized app ideas](https://www.reddit.com/r/androiddev/comments/n7sllj/seeking_bitesized_app_ideas/)
+- [Resources to learn MVVM development](https://www.reddit.com/r/androiddev/comments/n7ragw/resources_to_learn_mvvm_development/)
+- [App Feedback Thread - May 08, 2021](https://www.reddit.com/r/androiddev/comments/n7oqr3/app_feedback_thread_may_08_2021/)
+- [I'm working as a virtual assistant. Hated my job. Should I quit and take the plunge self studying Android dev?](https://www.reddit.com/r/androiddev/comments/n7ohq8/im_working_as_a_virtual_assistant_hated_my_job/)
+- [Can't upload .apk - "Couldn't upload. Try again" error.](https://www.reddit.com/r/androiddev/comments/n7o676/cant_upload_apk_couldnt_upload_try_again_error/)
+- [Rate my widgets!](https://www.reddit.com/r/androiddev/comments/n7lac3/rate_my_widgets/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
