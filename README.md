@@ -335,6 +335,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+- [Clubhouse Launches Android Beta as iOS Downloads Nosedive](https://gizmodo.com/clubhouse-launches-android-beta-as-downloads-nosedive-1846856771)
 - [Qualcomm Chip Flaw Could Leave 30 Percent of the World's Phones Vulnerable to Hackers](https://gizmodo.com/qualcomm-chip-flaw-could-leave-30-percent-of-the-worlds-1846837667)
 - [Google Is Launching Its Own Version of Apple’s Privacy Nutrition Labels](https://gizmodo.com/google-is-launching-its-own-version-of-apple-s-privacy-1846839667)
 - [Google Assistant Is Getting a New Family Broadcast Feature Just in Time for Mother's Day](https://gizmodo.com/google-assistant-is-getting-a-new-family-broadcast-feat-1846836811)
@@ -344,7 +345,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Clubhouse Is Losing Steam](https://gizmodo.com/clubhouse-is-losing-steam-1846813209)
 - [New Google Play Store Rules Aim to Weed Out Spammy Apps](https://gizmodo.com/new-google-play-store-rules-aim-to-weed-out-spammy-apps-1846797462)
 - [Google Assistant Will Now Finally Be Able to Say Your Name Correctly](https://gizmodo.com/google-assistant-will-now-finally-be-able-to-say-your-n-1846791494)
-- [It Turns Out Covid-19 Contact Tracing on Android Is Not So Private After All](https://gizmodo.com/it-turns-out-covid-19-contact-tracing-on-android-is-not-1846775139)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
