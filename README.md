@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AMD or intel (lenovo legion 5)](https://www.reddit.com/r/androiddev/comments/n816lu/amd_or_intel_lenovo_legion_5/)
-- [Adb open file picker](https://www.reddit.com/r/androiddev/comments/n7xbfo/adb_open_file_picker/)
-- [Has anyone else gotten the error that there's a hold on their payment account because of Brazil?](https://www.reddit.com/r/androiddev/comments/n7tnn5/has_anyone_else_gotten_the_error_that_theres_a/)
-- [How much money does a 30-second unskippable mobile ad generate?](https://www.reddit.com/r/androiddev/comments/n7sp5a/how_much_money_does_a_30second_unskippable_mobile/)
-- [Seeking bite-sized app ideas](https://www.reddit.com/r/androiddev/comments/n7sllj/seeking_bitesized_app_ideas/)
-- [Resources to learn MVVM development](https://www.reddit.com/r/androiddev/comments/n7ragw/resources_to_learn_mvvm_development/)
-- [App Feedback Thread - May 08, 2021](https://www.reddit.com/r/androiddev/comments/n7oqr3/app_feedback_thread_may_08_2021/)
-- [I'm working as a virtual assistant. Hated my job. Should I quit and take the plunge self studying Android dev?](https://www.reddit.com/r/androiddev/comments/n7ohq8/im_working_as_a_virtual_assistant_hated_my_job/)
-- [Can't upload .apk - "Couldn't upload. Try again" error.](https://www.reddit.com/r/androiddev/comments/n7o676/cant_upload_apk_couldnt_upload_try_again_error/)
-- [Rate my widgets!](https://www.reddit.com/r/androiddev/comments/n7lac3/rate_my_widgets/)
+- [App that uses several interfaces, some with AR, games and other tools](https://www.reddit.com/r/androiddev/comments/n8rvg0/app_that_uses_several_interfaces_some_with_ar/)
+- [There is a solution the problem of saving a picture into a folder in the comments of this video. How do you implement it?](https://www.reddit.com/r/androiddev/comments/n8ru9t/there_is_a_solution_the_problem_of_saving_a/)
+- [Android Studio emulator keeps opening as standalone app?](https://www.reddit.com/r/androiddev/comments/n8rc95/android_studio_emulator_keeps_opening_as/)
+- [Are the IMG files in the AVD data directory really encrypted?](https://www.reddit.com/r/androiddev/comments/n8qv61/are_the_img_files_in_the_avd_data_directory/)
+- [Can anyone suggest me a template of clean architecture ?](https://www.reddit.com/r/androiddev/comments/n8q7le/can_anyone_suggest_me_a_template_of_clean/)
+- [Foot Marksmanship With runBlocking](https://www.reddit.com/r/androiddev/comments/n8p5sg/foot_marksmanship_with_runblocking/)
+- [Flutter dev wanting to learn native, in 2021 what is the best path for an android dev?](https://www.reddit.com/r/androiddev/comments/n8p0a2/flutter_dev_wanting_to_learn_native_in_2021_what/)
+- [Is anyone here running the Android Emulator alongside WSL2?](https://www.reddit.com/r/androiddev/comments/n8orkj/is_anyone_here_running_the_android_emulator/)
+- [Jetpack Compose, should we care yet?](https://www.reddit.com/r/androiddev/comments/n8ocki/jetpack_compose_should_we_care_yet/)
+- [How often do you have to use multithreading while developing an app? Is it required for a simple CRUD app?](https://www.reddit.com/r/androiddev/comments/n8mpag/how_often_do_you_have_to_use_multithreading_while/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
