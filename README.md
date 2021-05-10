@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Situs 99 Bandar Poker Pulsa Elektrik Bebas Rate Potongan](https://kasqqpkv.medium.com/situs-99-bandar-poker-pulsa-elektrik-bebas-rate-potongan-bd8af0c2080?source=rss------android-5)
-- [Android-Simple Login Screen](https://hasancobanoglu1.medium.com/android-simple-login-screen-624752968fd?source=rss------android-5)
-- [Quick Guide to Git](https://medium.com/geekculture/quick-guide-to-git-937d0e4c6e69?source=rss------android-5)
-- [WhatsApp privacy policy changes 2021 | What is the new policy of WhatsApp 2021?](https://sk6446777.medium.com/whatsapp-privacy-policy-changes-2021-what-is-the-new-policy-of-whatsapp-2021-2575b165dc74?source=rss------android-5)
-- [Shimmer Effect in Android](https://emre-arslan.medium.com/shimmer-effect-in-android-2b6840cc0097?source=rss------android-5)
-- [Working with ViewPager2](https://info-anikdey003.medium.com/working-with-viewpager2-c4a43227486b?source=rss------android-5)
-- [Firebase Google Sign-In Error pada Release Mode](https://muklasr.medium.com/firebase-google-sign-in-error-pada-release-mode-6cd9ef5792cb?source=rss------android-5)
-- [Working with WAV files in Android](https://medium.com/@rizveeredwan/working-with-wav-files-in-android-52e9500297e?source=rss------android-5)
-- [Flutter Basics: Making a Quote app and fetching data from a quote api](https://saquib-ansari.medium.com/flutter-basics-making-a-quote-app-and-fetching-data-from-a-quote-api-b4f0d64a2dbb?source=rss------android-5)
-- [Firebase를 이용해 Audience(잠재고객) + FCM](https://c004112.medium.com/firebase%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-audience-%EC%9E%A0%EC%9E%AC%EA%B3%A0%EA%B0%9D-fcm-247a7c720990?source=rss------android-5)
+- [Android Phone Ke Liye 10 Best Photo Editor App Ke Baare Me Puri Jaankari](https://techdhyan.medium.com/android-phone-ke-liye-10-best-photo-editor-app-ke-baare-me-puri-jaankari-56c83f0216f2?source=rss------android-5)
+- [How to use the Android Activity Result API for selecting and taking images](https://medium.com/codex/how-to-use-the-android-activity-result-api-for-selecting-and-taking-images-5dbcc3e6324b?source=rss------android-5)
+- [Thinking about Mobile: MediaQuery-CrossPlatform-Native](https://james-ardery.medium.com/thinking-about-mobile-mediaquery-crossplatform-native-9a406aecada6?source=rss------android-5)
+- [Risk of Using System keyboard in mobile apps](https://ali-appdev.medium.com/risk-of-using-system-keyboard-in-mobile-apps-bd33ca3a8596?source=rss------android-5)
+- [Android or IOS: My Experiment](https://hamidzr.medium.com/android-or-ios-bf439e688b7?source=rss------android-5)
+- [Szerezd meg új útlevél, vezetői engedély, személyi igazolványok, SSN, IELTS / TOEFL és egyéb…](https://davidkelmama.medium.com/szerezd-meg-%C3%BAj-%C3%BAtlev%C3%A9l-vezet%C5%91i-enged%C3%A9ly-szem%C3%A9lyi-igazolv%C3%A1nyok-ssn-ielts-toefl-%C3%A9s-egy%C3%A9b-16693bf67ce9?source=rss------android-5)
+- [How to Build an Offline-First Mobile App](https://santhosh-adiga-u.medium.com/how-to-build-an-offline-first-mobile-app-636487ca8036?source=rss------android-5)
+- [Agen Deposit Pulsa Elektrik Poker online](https://kasqqpkv.medium.com/agen-deposit-pulsa-elektrik-poker-online-f1b1c2c509bf?source=rss------android-5)
+- [Android uygulamanızın web sitenize giren kullanıcınızda yüklü olup olmadığını tespit etme.](https://hasokeyk.medium.com/android-uygulaman%C4%B1z%C4%B1n-web-sitenize-giren-kullan%C4%B1c%C4%B1n%C4%B1zda-y%C3%BCkl%C3%BC-olup-olmad%C4%B1%C4%9F%C4%B1n%C4%B1-tespit-etme-189865febc79?source=rss------android-5)
+- [Welcome to RIT Android Club](https://medium.com/rit-android-club/welcome-to-rit-android-club-2a55e9f2a0bc?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
