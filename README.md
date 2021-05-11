@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App that uses several interfaces, some with AR, games and other tools](https://www.reddit.com/r/androiddev/comments/n8rvg0/app_that_uses_several_interfaces_some_with_ar/)
-- [There is a solution the problem of saving a picture into a folder in the comments of this video. How do you implement it?](https://www.reddit.com/r/androiddev/comments/n8ru9t/there_is_a_solution_the_problem_of_saving_a/)
-- [Android Studio emulator keeps opening as standalone app?](https://www.reddit.com/r/androiddev/comments/n8rc95/android_studio_emulator_keeps_opening_as/)
-- [Are the IMG files in the AVD data directory really encrypted?](https://www.reddit.com/r/androiddev/comments/n8qv61/are_the_img_files_in_the_avd_data_directory/)
-- [Can anyone suggest me a template of clean architecture ?](https://www.reddit.com/r/androiddev/comments/n8q7le/can_anyone_suggest_me_a_template_of_clean/)
-- [Foot Marksmanship With runBlocking](https://www.reddit.com/r/androiddev/comments/n8p5sg/foot_marksmanship_with_runblocking/)
-- [Flutter dev wanting to learn native, in 2021 what is the best path for an android dev?](https://www.reddit.com/r/androiddev/comments/n8p0a2/flutter_dev_wanting_to_learn_native_in_2021_what/)
-- [Is anyone here running the Android Emulator alongside WSL2?](https://www.reddit.com/r/androiddev/comments/n8orkj/is_anyone_here_running_the_android_emulator/)
-- [Jetpack Compose, should we care yet?](https://www.reddit.com/r/androiddev/comments/n8ocki/jetpack_compose_should_we_care_yet/)
-- [How often do you have to use multithreading while developing an app? Is it required for a simple CRUD app?](https://www.reddit.com/r/androiddev/comments/n8mpag/how_often_do_you_have_to_use_multithreading_while/)
+- [What is External marketing in PlayStore console?](https://www.reddit.com/r/androiddev/comments/n9k2n7/what_is_external_marketing_in_playstore_console/)
+- [Need some advice - Firebase newbie here](https://www.reddit.com/r/androiddev/comments/n9j9w0/need_some_advice_firebase_newbie_here/)
+- [Releasing my first paid app and have some questions](https://www.reddit.com/r/androiddev/comments/n9iv2o/releasing_my_first_paid_app_and_have_some/)
+- [USB Type-C API](https://www.reddit.com/r/androiddev/comments/n9ii9z/usb_typec_api/)
+- [Can any dev create an app that replaces the status bar like that of ios Jailbreak?](https://www.reddit.com/r/androiddev/comments/n9gik0/can_any_dev_create_an_app_that_replaces_the/)
+- [A library I made that allows you to make quizzes and questionnaires without having to code a complex UI.](https://www.reddit.com/r/androiddev/comments/n9cox4/a_library_i_made_that_allows_you_to_make_quizzes/)
+- [Can someone post a detailed review of using Android studio on the new M1 chip with the recent updates?](https://www.reddit.com/r/androiddev/comments/n9bx2k/can_someone_post_a_detailed_review_of_using/)
+- [What do you think about limiting the number of times the main feature of an app can be used until an in-app purchase unlocks this limitation?](https://www.reddit.com/r/androiddev/comments/n9as77/what_do_you_think_about_limiting_the_number_of/)
+- [Persist.vendor.audio_fx_current: Access denied](https://www.reddit.com/r/androiddev/comments/n99dtg/persistvendoraudio_fx_current_access_denied/)
+- [How can I copy files to downloads folder in android 11 ?](https://www.reddit.com/r/androiddev/comments/n96kxn/how_can_i_copy_files_to_downloads_folder_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
