@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Android Phone Ke Liye 10 Best Photo Editor App Ke Baare Me Puri Jaankari](https://techdhyan.medium.com/android-phone-ke-liye-10-best-photo-editor-app-ke-baare-me-puri-jaankari-56c83f0216f2?source=rss------android-5)
-- [How to use the Android Activity Result API for selecting and taking images](https://medium.com/codex/how-to-use-the-android-activity-result-api-for-selecting-and-taking-images-5dbcc3e6324b?source=rss------android-5)
-- [Thinking about Mobile: MediaQuery-CrossPlatform-Native](https://james-ardery.medium.com/thinking-about-mobile-mediaquery-crossplatform-native-9a406aecada6?source=rss------android-5)
-- [Risk of Using System keyboard in mobile apps](https://ali-appdev.medium.com/risk-of-using-system-keyboard-in-mobile-apps-bd33ca3a8596?source=rss------android-5)
-- [Android or IOS: My Experiment](https://hamidzr.medium.com/android-or-ios-bf439e688b7?source=rss------android-5)
-- [Szerezd meg új útlevél, vezetői engedély, személyi igazolványok, SSN, IELTS / TOEFL és egyéb…](https://davidkelmama.medium.com/szerezd-meg-%C3%BAj-%C3%BAtlev%C3%A9l-vezet%C5%91i-enged%C3%A9ly-szem%C3%A9lyi-igazolv%C3%A1nyok-ssn-ielts-toefl-%C3%A9s-egy%C3%A9b-16693bf67ce9?source=rss------android-5)
-- [How to Build an Offline-First Mobile App](https://santhosh-adiga-u.medium.com/how-to-build-an-offline-first-mobile-app-636487ca8036?source=rss------android-5)
-- [Agen Deposit Pulsa Elektrik Poker online](https://kasqqpkv.medium.com/agen-deposit-pulsa-elektrik-poker-online-f1b1c2c509bf?source=rss------android-5)
-- [Android uygulamanızın web sitenize giren kullanıcınızda yüklü olup olmadığını tespit etme.](https://hasokeyk.medium.com/android-uygulaman%C4%B1z%C4%B1n-web-sitenize-giren-kullan%C4%B1c%C4%B1n%C4%B1zda-y%C3%BCkl%C3%BC-olup-olmad%C4%B1%C4%9F%C4%B1n%C4%B1-tespit-etme-189865febc79?source=rss------android-5)
-- [Welcome to RIT Android Club](https://medium.com/rit-android-club/welcome-to-rit-android-club-2a55e9f2a0bc?source=rss------android-5)
+- [Un’organizzazione che vuole aiutare e dare privilegi a chi ha meno privilegi e anche aumentare il…](https://vr4692183.medium.com/unorganizzazione-che-vuole-aiutare-e-dare-privilegi-a-chi-ha-meno-privilegi-e-anche-aumentare-il-8517de3197f1?source=rss------android-5)
+- [Agen Pulsa Elektrik Poker Online](https://kasqqpkv.medium.com/agen-pulsa-elektrik-poker-online-988db866792d?source=rss------android-5)
+- [How to work with WebSockets and unit-test them by OkHttp and Mockito](https://m-abdelsattar.medium.com/how-to-work-with-websockets-and-unit-test-them-by-okhttp-and-mockito-2f179967e7d?source=rss------android-5)
+- [Mengatasi ‘constructor Handler()’ is deprecated](https://inialdan.medium.com/mengatasi-constructor-handler-is-deprecated-f96cf567a1f?source=rss------android-5)
+- [Retrofit Fetch API with clean architecture MVVM](https://shivamk345.medium.com/retrofit-fetch-api-with-clean-architecture-mvvm-cc95a0f7f6f?source=rss------android-5)
+- [Gamerazi Free Online HTML5 Game](https://gamerazi.medium.com/gamerazi-free-online-html5-game-37eb5ddacdc2?source=rss------android-5)
+- [Samsung Galaxy A12 and Galaxy A02s have received the Android 11 update](https://realimagess.medium.com/samsung-galaxy-a12-and-galaxy-a02s-have-received-the-android-11-update-b31bbb7622af?source=rss------android-5)
+- [RssBook for Surface Duo — yet another Flutter dual screen sample app](https://dualscreentobbo.medium.com/rssbook-for-surface-duo-yet-another-flutter-dual-screen-sample-app-382bac042fa4?source=rss------android-5)
+- [Google I/O and everything to expect.](https://samcastle.medium.com/google-i-o-and-everything-to-expect-7fa8f385f08?source=rss------android-5)
+- [[ASJ2021] 從零開始學 Android（一）Unit 1: Kotlin basic for Android](https://heidi-coding.medium.com/asj2021-%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B%E5%AD%B8-android-%E4%B8%80-unit-1-kotlin-basic-for-android-cc367238bc52?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
