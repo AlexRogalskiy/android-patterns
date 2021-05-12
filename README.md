@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is External marketing in PlayStore console?](https://www.reddit.com/r/androiddev/comments/n9k2n7/what_is_external_marketing_in_playstore_console/)
-- [Need some advice - Firebase newbie here](https://www.reddit.com/r/androiddev/comments/n9j9w0/need_some_advice_firebase_newbie_here/)
-- [Releasing my first paid app and have some questions](https://www.reddit.com/r/androiddev/comments/n9iv2o/releasing_my_first_paid_app_and_have_some/)
-- [USB Type-C API](https://www.reddit.com/r/androiddev/comments/n9ii9z/usb_typec_api/)
-- [Can any dev create an app that replaces the status bar like that of ios Jailbreak?](https://www.reddit.com/r/androiddev/comments/n9gik0/can_any_dev_create_an_app_that_replaces_the/)
-- [A library I made that allows you to make quizzes and questionnaires without having to code a complex UI.](https://www.reddit.com/r/androiddev/comments/n9cox4/a_library_i_made_that_allows_you_to_make_quizzes/)
-- [Can someone post a detailed review of using Android studio on the new M1 chip with the recent updates?](https://www.reddit.com/r/androiddev/comments/n9bx2k/can_someone_post_a_detailed_review_of_using/)
-- [What do you think about limiting the number of times the main feature of an app can be used until an in-app purchase unlocks this limitation?](https://www.reddit.com/r/androiddev/comments/n9as77/what_do_you_think_about_limiting_the_number_of/)
-- [Persist.vendor.audio_fx_current: Access denied](https://www.reddit.com/r/androiddev/comments/n99dtg/persistvendoraudio_fx_current_access_denied/)
-- [How can I copy files to downloads folder in android 11 ?](https://www.reddit.com/r/androiddev/comments/n96kxn/how_can_i_copy_files_to_downloads_folder_in/)
+- [Food Planner App](https://www.reddit.com/r/androiddev/comments/nad7al/food_planner_app/)
+- [Integrating Rust Into the Android Open Source Project](https://www.reddit.com/r/androiddev/comments/na5bkt/integrating_rust_into_the_android_open_source/)
+- [Unable to Create a sale on mobile device.](https://www.reddit.com/r/androiddev/comments/na0cvn/unable_to_create_a_sale_on_mobile_device/)
+- [Advantages of new Fragment Version (1.3.3)?](https://www.reddit.com/r/androiddev/comments/n9zift/advantages_of_new_fragment_version_133/)
+- [Is it possible to make my own (third party) keyboard that will have password manager integration like GBoard have?](https://www.reddit.com/r/androiddev/comments/n9y0je/is_it_possible_to_make_my_own_third_party/)
+- [Two modern ProGuard tools we used to quickly find the optimal -keep rules for DuckDuckGo](https://www.reddit.com/r/androiddev/comments/n9xlxa/two_modern_proguard_tools_we_used_to_quickly_find/)
+- [Dagger Android 2.28 deprecated](https://www.reddit.com/r/androiddev/comments/n9x5sj/dagger_android_228_deprecated/)
+- [How to send body in Android Valley StringRequest?](https://www.reddit.com/r/androiddev/comments/n9wpkn/how_to_send_body_in_android_valley_stringrequest/)
+- [Weekly Questions Thread - May 11, 2021](https://www.reddit.com/r/androiddev/comments/n9wgmn/weekly_questions_thread_may_11_2021/)
+- [Android Automotive OS review: Under the hood with Google’s car OS](https://www.reddit.com/r/androiddev/comments/n9uxge/android_automotive_os_review_under_the_hood_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
