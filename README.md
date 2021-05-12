@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [Un’organizzazione che vuole aiutare e dare privilegi a chi ha meno privilegi e anche aumentare il…](https://vr4692183.medium.com/unorganizzazione-che-vuole-aiutare-e-dare-privilegi-a-chi-ha-meno-privilegi-e-anche-aumentare-il-8517de3197f1?source=rss------android-5)
-- [Agen Pulsa Elektrik Poker Online](https://kasqqpkv.medium.com/agen-pulsa-elektrik-poker-online-988db866792d?source=rss------android-5)
-- [How to work with WebSockets and unit-test them by OkHttp and Mockito](https://m-abdelsattar.medium.com/how-to-work-with-websockets-and-unit-test-them-by-okhttp-and-mockito-2f179967e7d?source=rss------android-5)
-- [Mengatasi ‘constructor Handler()’ is deprecated](https://inialdan.medium.com/mengatasi-constructor-handler-is-deprecated-f96cf567a1f?source=rss------android-5)
-- [Retrofit Fetch API with clean architecture MVVM](https://shivamk345.medium.com/retrofit-fetch-api-with-clean-architecture-mvvm-cc95a0f7f6f?source=rss------android-5)
-- [Gamerazi Free Online HTML5 Game](https://gamerazi.medium.com/gamerazi-free-online-html5-game-37eb5ddacdc2?source=rss------android-5)
-- [Samsung Galaxy A12 and Galaxy A02s have received the Android 11 update](https://realimagess.medium.com/samsung-galaxy-a12-and-galaxy-a02s-have-received-the-android-11-update-b31bbb7622af?source=rss------android-5)
-- [RssBook for Surface Duo — yet another Flutter dual screen sample app](https://dualscreentobbo.medium.com/rssbook-for-surface-duo-yet-another-flutter-dual-screen-sample-app-382bac042fa4?source=rss------android-5)
-- [Google I/O and everything to expect.](https://samcastle.medium.com/google-i-o-and-everything-to-expect-7fa8f385f08?source=rss------android-5)
-- [[ASJ2021] 從零開始學 Android（一）Unit 1: Kotlin basic for Android](https://heidi-coding.medium.com/asj2021-%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B%E5%AD%B8-android-%E4%B8%80-unit-1-kotlin-basic-for-android-cc367238bc52?source=rss------android-5)
+- [In-App Updates: Como gerenciar updates no Android](https://wottrich.medium.com/in-app-updates-como-gerenciar-updates-no-android-41c09a4cdd04?source=rss------android-5)
+- [MY APP NAME IS: GW ANIMALS](https://medium.com/appgallery/my-app-name-is-gw-animals-da9364a14202?source=rss------android-5)
+- [Static analysis tools for Android](https://coyarzun.medium.com/static-analysis-tools-for-android-9531334954f6?source=rss------android-5)
+- [Android 동일 Resource ID의 오동작](https://astrodeveloper.medium.com/android-%EB%8F%99%EC%9D%BC-resource-id%EC%9D%98-%EC%98%A4%EB%8F%99%EC%9E%91-a31e512e4ba2?source=rss------android-5)
+- [Compose a Smart CameraX](https://proandroiddev.com/compose-a-smart-camerax-277f4933b54b?source=rss------android-5)
+- [Dagger 2 and Jetpack Compose Integration](https://proandroiddev.com/dagger-2-and-jetpack-compose-integration-8a8d424ffdb4?source=rss------android-5)
+- [Robot reviewing DANGERous Pull Request](https://zahidrasheed.medium.com/robot-reviewing-dangerous-pull-request-9f42eb7943d9?source=rss------android-5)
+- [TwitchMod — Versión modificada de Twitch con muchas mejoras](https://htcstoremexico.medium.com/twitchmod-versi%C3%B3n-modificada-de-twitch-con-muchas-mejoras-81edac251c1c?source=rss------android-5)
+- [Android Touch Framework](https://iadilkhan.medium.com/android-touch-framework-b5cc5a9926ed?source=rss------android-5)
+- [My Old Android Phone Was Better Than My New iPhone](https://debugger.medium.com/my-old-android-phone-was-better-than-my-new-iphone-a9168a82b7f?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
