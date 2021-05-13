@@ -335,6 +335,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+- [The Asus Zenfone 8 Is an Affordable, Compelling Option If You Love Small Phones](https://gizmodo.com/the-asus-zenfone-8-is-an-affordable-compelling-option-1846854210)
+- [My Kingdom for an Android Tablet That Doubles As a Portable Monitor](https://gizmodo.com/my-kingdom-for-an-android-tablet-that-doubles-as-a-port-1846850182)
 - [Google, You Should Already Know How People Feel About Wear OS](https://gizmodo.com/google-you-should-already-know-how-people-feel-about-w-1846866808)
 - [Clubhouse Launches Android Beta as iOS Downloads Nosedive](https://gizmodo.com/clubhouse-launches-android-beta-as-downloads-nosedive-1846856771)
 - [Qualcomm Chip Flaw Could Leave 30 Percent of the World's Phones Vulnerable to Hackers](https://gizmodo.com/qualcomm-chip-flaw-could-leave-30-percent-of-the-worlds-1846837667)
@@ -343,8 +345,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google Is Bringing a Google TV-Like Experience to Android Tablets](https://gizmodo.com/google-is-bringing-a-google-tv-like-experience-to-andro-1846824566)
 - [Google May Have Inadvertently Just Spilled the Beans About the Pixel Buds A on Twitter](https://gizmodo.com/google-may-have-inadvertently-just-spilled-the-beans-ab-1846823832)
 - [60% of School Apps Are Sharing Your Kids' Data With Third Parties](https://gizmodo.com/60-of-school-apps-are-sharing-your-kids-data-with-thir-1846819024)
-- [Clubhouse Is Losing Steam](https://gizmodo.com/clubhouse-is-losing-steam-1846813209)
-- [New Google Play Store Rules Aim to Weed Out Spammy Apps](https://gizmodo.com/new-google-play-store-rules-aim-to-weed-out-spammy-apps-1846797462)
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
