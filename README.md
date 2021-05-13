@@ -320,16 +320,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
-- [In-App Updates: Como gerenciar updates no Android](https://wottrich.medium.com/in-app-updates-como-gerenciar-updates-no-android-41c09a4cdd04?source=rss------android-5)
-- [MY APP NAME IS: GW ANIMALS](https://medium.com/appgallery/my-app-name-is-gw-animals-da9364a14202?source=rss------android-5)
-- [Static analysis tools for Android](https://coyarzun.medium.com/static-analysis-tools-for-android-9531334954f6?source=rss------android-5)
-- [Android 동일 Resource ID의 오동작](https://astrodeveloper.medium.com/android-%EB%8F%99%EC%9D%BC-resource-id%EC%9D%98-%EC%98%A4%EB%8F%99%EC%9E%91-a31e512e4ba2?source=rss------android-5)
-- [Compose a Smart CameraX](https://proandroiddev.com/compose-a-smart-camerax-277f4933b54b?source=rss------android-5)
-- [Dagger 2 and Jetpack Compose Integration](https://proandroiddev.com/dagger-2-and-jetpack-compose-integration-8a8d424ffdb4?source=rss------android-5)
-- [Robot reviewing DANGERous Pull Request](https://zahidrasheed.medium.com/robot-reviewing-dangerous-pull-request-9f42eb7943d9?source=rss------android-5)
-- [TwitchMod — Versión modificada de Twitch con muchas mejoras](https://htcstoremexico.medium.com/twitchmod-versi%C3%B3n-modificada-de-twitch-con-muchas-mejoras-81edac251c1c?source=rss------android-5)
-- [Android Touch Framework](https://iadilkhan.medium.com/android-touch-framework-b5cc5a9926ed?source=rss------android-5)
-- [My Old Android Phone Was Better Than My New iPhone](https://debugger.medium.com/my-old-android-phone-was-better-than-my-new-iphone-a9168a82b7f?source=rss------android-5)
+- [Every student needs to install this FREE android app NOW!](https://lydia22.medium.com/every-student-needs-to-install-this-free-android-app-now-563fed9189d1?source=rss------android-5)
+- [Digital Signature Android Demo.](https://info-anikdey003.medium.com/digital-signature-android-demo-a38f1342b880?source=rss------android-5)
+- [Augmented Reality(AR) in Android](https://mothegoat.medium.com/augmented-reality-ar-in-android-1af62f6a207e?source=rss------android-5)
+- [5 Effective Dos and Don’ts in Java Programming](https://betterprogramming.pub/5-effective-dos-and-donts-in-java-programming-3c14b0467bfd?source=rss------android-5)
+- [Latest whatsapp messenger apk download](https://farida-bomo.medium.com/latest-whatsapp-messenger-apk-download-230c83acbc43?source=rss------android-5)
+- [Android : Good to know, Part-1](https://anubhav-arora.medium.com/android-good-to-know-part-1-93b141e93192?source=rss------android-5)
+- [Pop-Up-Date](https://medium.com/niagara-launcher/pop-up-date-4a5d3522df2d?source=rss------android-5)
+- [Un’organizzazione che vuole aiutare e dare privilegi a chi ha meno privilegi e anche aumentare il…](https://wemovekel01.medium.com/unorganizzazione-che-vuole-aiutare-e-dare-privilegi-a-chi-ha-meno-privilegi-e-anche-aumentare-il-13ec5ea12f09?source=rss------android-5)
+- [Getting started: Android CameraX](https://thewerner.medium.com/getting-started-android-camerax-a84e138e2c00?source=rss------android-5)
+- [Maintain View from Resizing while use `ADJUST_RESIZE`](https://mahmoud-mabrok.medium.com/maintain-view-from-resizing-while-use-adjust-resize-915676c1c5e5?source=rss------android-5)
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
