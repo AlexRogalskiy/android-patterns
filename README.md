@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Food Planner App](https://www.reddit.com/r/androiddev/comments/nad7al/food_planner_app/)
-- [Integrating Rust Into the Android Open Source Project](https://www.reddit.com/r/androiddev/comments/na5bkt/integrating_rust_into_the_android_open_source/)
-- [Unable to Create a sale on mobile device.](https://www.reddit.com/r/androiddev/comments/na0cvn/unable_to_create_a_sale_on_mobile_device/)
-- [Advantages of new Fragment Version (1.3.3)?](https://www.reddit.com/r/androiddev/comments/n9zift/advantages_of_new_fragment_version_133/)
-- [Is it possible to make my own (third party) keyboard that will have password manager integration like GBoard have?](https://www.reddit.com/r/androiddev/comments/n9y0je/is_it_possible_to_make_my_own_third_party/)
-- [Two modern ProGuard tools we used to quickly find the optimal -keep rules for DuckDuckGo](https://www.reddit.com/r/androiddev/comments/n9xlxa/two_modern_proguard_tools_we_used_to_quickly_find/)
-- [Dagger Android 2.28 deprecated](https://www.reddit.com/r/androiddev/comments/n9x5sj/dagger_android_228_deprecated/)
-- [How to send body in Android Valley StringRequest?](https://www.reddit.com/r/androiddev/comments/n9wpkn/how_to_send_body_in_android_valley_stringrequest/)
-- [Weekly Questions Thread - May 11, 2021](https://www.reddit.com/r/androiddev/comments/n9wgmn/weekly_questions_thread_may_11_2021/)
-- [Android Automotive OS review: Under the hood with Google’s car OS](https://www.reddit.com/r/androiddev/comments/n9uxge/android_automotive_os_review_under_the_hood_with/)
+- [Anyone else getting this error when trying to upload app bundle "There was an error uploading the Android App Bundle. Try again later or contact Google Play developer support if the error persists."?](https://www.reddit.com/r/androiddev/comments/nb3zww/anyone_else_getting_this_error_when_trying_to/)
+- [My newly app created to help you build lead (Lead Extractor)](https://www.reddit.com/r/androiddev/comments/nb2rvj/my_newly_app_created_to_help_you_build_lead_lead/)
+- [Tips on choosing a library](https://www.reddit.com/r/androiddev/comments/nb2q4u/tips_on_choosing_a_library/)
+- [Drawing Overlay graphics (lines), can under-app tell this is being done?](https://www.reddit.com/r/androiddev/comments/nau9yb/drawing_overlay_graphics_lines_can_underapp_tell/)
+- [I wrote a free-to-read book about large-scale Android (and iOS) development challenges](https://www.reddit.com/r/androiddev/comments/naro2u/i_wrote_a_freetoread_book_about_largescale/)
+- [Extending Material theme in Jetpack Compose | Xmartlabs Blog](https://www.reddit.com/r/androiddev/comments/naqr5f/extending_material_theme_in_jetpack_compose/)
+- [Scaling architecture at Lyft with Denis Neklyudov](https://www.reddit.com/r/androiddev/comments/naqkj6/scaling_architecture_at_lyft_with_denis_neklyudov/)
+- [Talking Kotlin: Contributing to the Kotlin Compiler](https://www.reddit.com/r/androiddev/comments/naqk8c/talking_kotlin_contributing_to_the_kotlin_compiler/)
+- [Background Task Inspector](https://www.reddit.com/r/androiddev/comments/nanror/background_task_inspector/)
+- [Android Demo](https://www.reddit.com/r/androiddev/comments/namtyd/android_demo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
