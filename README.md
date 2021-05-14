@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone else getting this error when trying to upload app bundle "There was an error uploading the Android App Bundle. Try again later or contact Google Play developer support if the error persists."?](https://www.reddit.com/r/androiddev/comments/nb3zww/anyone_else_getting_this_error_when_trying_to/)
-- [My newly app created to help you build lead (Lead Extractor)](https://www.reddit.com/r/androiddev/comments/nb2rvj/my_newly_app_created_to_help_you_build_lead_lead/)
-- [Tips on choosing a library](https://www.reddit.com/r/androiddev/comments/nb2q4u/tips_on_choosing_a_library/)
-- [Drawing Overlay graphics (lines), can under-app tell this is being done?](https://www.reddit.com/r/androiddev/comments/nau9yb/drawing_overlay_graphics_lines_can_underapp_tell/)
-- [I wrote a free-to-read book about large-scale Android (and iOS) development challenges](https://www.reddit.com/r/androiddev/comments/naro2u/i_wrote_a_freetoread_book_about_largescale/)
-- [Extending Material theme in Jetpack Compose | Xmartlabs Blog](https://www.reddit.com/r/androiddev/comments/naqr5f/extending_material_theme_in_jetpack_compose/)
-- [Scaling architecture at Lyft with Denis Neklyudov](https://www.reddit.com/r/androiddev/comments/naqkj6/scaling_architecture_at_lyft_with_denis_neklyudov/)
-- [Talking Kotlin: Contributing to the Kotlin Compiler](https://www.reddit.com/r/androiddev/comments/naqk8c/talking_kotlin_contributing_to_the_kotlin_compiler/)
-- [Background Task Inspector](https://www.reddit.com/r/androiddev/comments/nanror/background_task_inspector/)
-- [Android Demo](https://www.reddit.com/r/androiddev/comments/namtyd/android_demo/)
+- [Proper way to launch other apps from native C/C++ code](https://www.reddit.com/r/androiddev/comments/nbujqh/proper_way_to_launch_other_apps_from_native_cc/)
+- [How to upgrade Jetpack Compose to Beta in Android Studio](https://www.reddit.com/r/androiddev/comments/nbr79n/how_to_upgrade_jetpack_compose_to_beta_in_android/)
+- [Using Apple's "SF Symbols" in our Android Apps](https://www.reddit.com/r/androiddev/comments/nbozcf/using_apples_sf_symbols_in_our_android_apps/)
+- [Coroutine Misconceptions: Whose Context Is It Anyway?](https://www.reddit.com/r/androiddev/comments/nboxhc/coroutine_misconceptions_whose_context_is_it/)
+- [Investigate Cause of Play Store Complaints Faster!](https://www.reddit.com/r/androiddev/comments/nbnri4/investigate_cause_of_play_store_complaints_faster/)
+- [Android Studio 4.2.1 available](https://www.reddit.com/r/androiddev/comments/nbn12l/android_studio_421_available/)
+- [Data binding in MVVM](https://www.reddit.com/r/androiddev/comments/nbmn2z/data_binding_in_mvvm/)
+- [Compromised Keystore](https://www.reddit.com/r/androiddev/comments/nbmmls/compromised_keystore/)
+- [Kotlin Multiplatform vs Flutter](https://www.reddit.com/r/androiddev/comments/nbjskd/kotlin_multiplatform_vs_flutter/)
+- [Is it possible to not show ad for 15 second after click?](https://www.reddit.com/r/androiddev/comments/nbigna/is_it_possible_to_not_show_ad_for_15_second_after/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
