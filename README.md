@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Proper way to launch other apps from native C/C++ code](https://www.reddit.com/r/androiddev/comments/nbujqh/proper_way_to_launch_other_apps_from_native_cc/)
-- [How to upgrade Jetpack Compose to Beta in Android Studio](https://www.reddit.com/r/androiddev/comments/nbr79n/how_to_upgrade_jetpack_compose_to_beta_in_android/)
-- [Using Apple's "SF Symbols" in our Android Apps](https://www.reddit.com/r/androiddev/comments/nbozcf/using_apples_sf_symbols_in_our_android_apps/)
-- [Coroutine Misconceptions: Whose Context Is It Anyway?](https://www.reddit.com/r/androiddev/comments/nboxhc/coroutine_misconceptions_whose_context_is_it/)
-- [Investigate Cause of Play Store Complaints Faster!](https://www.reddit.com/r/androiddev/comments/nbnri4/investigate_cause_of_play_store_complaints_faster/)
-- [Android Studio 4.2.1 available](https://www.reddit.com/r/androiddev/comments/nbn12l/android_studio_421_available/)
-- [Data binding in MVVM](https://www.reddit.com/r/androiddev/comments/nbmn2z/data_binding_in_mvvm/)
-- [Compromised Keystore](https://www.reddit.com/r/androiddev/comments/nbmmls/compromised_keystore/)
-- [Kotlin Multiplatform vs Flutter](https://www.reddit.com/r/androiddev/comments/nbjskd/kotlin_multiplatform_vs_flutter/)
-- [Is it possible to not show ad for 15 second after click?](https://www.reddit.com/r/androiddev/comments/nbigna/is_it_possible_to_not_show_ad_for_15_second_after/)
+- [Has anyone got the new Admob console (app review process)?](https://www.reddit.com/r/androiddev/comments/ncnzif/has_anyone_got_the_new_admob_console_app_review/)
+- [How do I resume my app on all android devices when its minimized and then the icon is clicked of the app](https://www.reddit.com/r/androiddev/comments/nchn7g/how_do_i_resume_my_app_on_all_android_devices/)
+- [Coroutine 1.5.0 releasee](https://www.reddit.com/r/androiddev/comments/ncfkb3/coroutine_150_releasee/)
+- [Assume: Easy response mocking library for retrofit-okhttp](https://www.reddit.com/r/androiddev/comments/ncer81/assume_easy_response_mocking_library_for/)
+- [How do you know you are ready for freelance or junior dev position at a firm?](https://www.reddit.com/r/androiddev/comments/ncdsq7/how_do_you_know_you_are_ready_for_freelance_or/)
+- [for people wondering how to log android room operation (CRUD) and transaction](https://www.reddit.com/r/androiddev/comments/ncdfst/for_people_wondering_how_to_log_android_room/)
+- [New network address on Android 11 Hotspot](https://www.reddit.com/r/androiddev/comments/ncd38c/new_network_address_on_android_11_hotspot/)
+- [Tablet for Dev recommendations](https://www.reddit.com/r/androiddev/comments/ncctif/tablet_for_dev_recommendations/)
+- [Hey! 👋 I built a tool to modify app designs and content in the code. Without code —](https://www.reddit.com/r/androiddev/comments/ncbcnv/hey_i_built_a_tool_to_modify_app_designs_and/)
+- [Data Visualization Libraries](https://www.reddit.com/r/androiddev/comments/nc9pjt/data_visualization_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
