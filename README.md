@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Has anyone got the new Admob console (app review process)?](https://www.reddit.com/r/androiddev/comments/ncnzif/has_anyone_got_the_new_admob_console_app_review/)
-- [How do I resume my app on all android devices when its minimized and then the icon is clicked of the app](https://www.reddit.com/r/androiddev/comments/nchn7g/how_do_i_resume_my_app_on_all_android_devices/)
-- [Coroutine 1.5.0 releasee](https://www.reddit.com/r/androiddev/comments/ncfkb3/coroutine_150_releasee/)
-- [Assume: Easy response mocking library for retrofit-okhttp](https://www.reddit.com/r/androiddev/comments/ncer81/assume_easy_response_mocking_library_for/)
-- [How do you know you are ready for freelance or junior dev position at a firm?](https://www.reddit.com/r/androiddev/comments/ncdsq7/how_do_you_know_you_are_ready_for_freelance_or/)
-- [for people wondering how to log android room operation (CRUD) and transaction](https://www.reddit.com/r/androiddev/comments/ncdfst/for_people_wondering_how_to_log_android_room/)
-- [New network address on Android 11 Hotspot](https://www.reddit.com/r/androiddev/comments/ncd38c/new_network_address_on_android_11_hotspot/)
-- [Tablet for Dev recommendations](https://www.reddit.com/r/androiddev/comments/ncctif/tablet_for_dev_recommendations/)
-- [Hey! 👋 I built a tool to modify app designs and content in the code. Without code —](https://www.reddit.com/r/androiddev/comments/ncbcnv/hey_i_built_a_tool_to_modify_app_designs_and/)
-- [Data Visualization Libraries](https://www.reddit.com/r/androiddev/comments/nc9pjt/data_visualization_libraries/)
+- [I want to get into mobile (mainly android) dev with programming background and some mobile development shortcuts background (like Unity and Appinventor and tiny bit of android studio), what is the best programming language or thingy?](https://www.reddit.com/r/androiddev/comments/nd7oq0/i_want_to_get_into_mobile_mainly_android_dev_with/)
+- [Video: Google's upcoming OS Android 12 first official promo leaked » The Deep News Source](https://www.reddit.com/r/androiddev/comments/nd6ssm/video_googles_upcoming_os_android_12_first/)
+- [Does anyone has a good Android Java code example/ library which can perform PUT operation via S3 presigned URL?](https://www.reddit.com/r/androiddev/comments/nd49oj/does_anyone_has_a_good_android_java_code_example/)
+- [Change app function completely.](https://www.reddit.com/r/androiddev/comments/nd42up/change_app_function_completely/)
+- [Custom class initiates multiple times](https://www.reddit.com/r/androiddev/comments/nd3im7/custom_class_initiates_multiple_times/)
+- [Looking for an USB IO Library to stream data](https://www.reddit.com/r/androiddev/comments/nd3ii2/looking_for_an_usb_io_library_to_stream_data/)
+- [what do you predict is the future of cross platform mobile development?](https://www.reddit.com/r/androiddev/comments/nd27j5/what_do_you_predict_is_the_future_of_cross/)
+- [A "Scala on Android" meetup, May 18, 19:00-21:00](https://www.reddit.com/r/androiddev/comments/nd1d78/a_scala_on_android_meetup_may_18_19002100/)
+- [Is there any privacy-focused analytic platforms for mobile in 2021?](https://www.reddit.com/r/androiddev/comments/nd0gpk/is_there_any_privacyfocused_analytic_platforms/)
+- [Canvas | 2D space Particles | Jetpack Compose Desktop](https://www.reddit.com/r/androiddev/comments/nczlsr/canvas_2d_space_particles_jetpack_compose_desktop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
