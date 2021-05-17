@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I want to get into mobile (mainly android) dev with programming background and some mobile development shortcuts background (like Unity and Appinventor and tiny bit of android studio), what is the best programming language or thingy?](https://www.reddit.com/r/androiddev/comments/nd7oq0/i_want_to_get_into_mobile_mainly_android_dev_with/)
-- [Video: Google's upcoming OS Android 12 first official promo leaked » The Deep News Source](https://www.reddit.com/r/androiddev/comments/nd6ssm/video_googles_upcoming_os_android_12_first/)
-- [Does anyone has a good Android Java code example/ library which can perform PUT operation via S3 presigned URL?](https://www.reddit.com/r/androiddev/comments/nd49oj/does_anyone_has_a_good_android_java_code_example/)
-- [Change app function completely.](https://www.reddit.com/r/androiddev/comments/nd42up/change_app_function_completely/)
-- [Custom class initiates multiple times](https://www.reddit.com/r/androiddev/comments/nd3im7/custom_class_initiates_multiple_times/)
-- [Looking for an USB IO Library to stream data](https://www.reddit.com/r/androiddev/comments/nd3ii2/looking_for_an_usb_io_library_to_stream_data/)
-- [what do you predict is the future of cross platform mobile development?](https://www.reddit.com/r/androiddev/comments/nd27j5/what_do_you_predict_is_the_future_of_cross/)
-- [A "Scala on Android" meetup, May 18, 19:00-21:00](https://www.reddit.com/r/androiddev/comments/nd1d78/a_scala_on_android_meetup_may_18_19002100/)
-- [Is there any privacy-focused analytic platforms for mobile in 2021?](https://www.reddit.com/r/androiddev/comments/nd0gpk/is_there_any_privacyfocused_analytic_platforms/)
-- [Canvas | 2D space Particles | Jetpack Compose Desktop](https://www.reddit.com/r/androiddev/comments/nczlsr/canvas_2d_space_particles_jetpack_compose_desktop/)
+- [Do all architecture components really make development easier?](https://www.reddit.com/r/androiddev/comments/ne39kw/do_all_architecture_components_really_make/)
+- [What do you think about Panoramic screenshots for Play Store?](https://www.reddit.com/r/androiddev/comments/ne2ca6/what_do_you_think_about_panoramic_screenshots_for/)
+- [Have you had to deal with a negative review campaign against your app? What's the recourse?](https://www.reddit.com/r/androiddev/comments/ne1rek/have_you_had_to_deal_with_a_negative_review/)
+- [Can't find Sha -1 key](https://www.reddit.com/r/androiddev/comments/ne1cue/cant_find_sha_1_key/)
+- [Easy way to create a virtual keyboard?](https://www.reddit.com/r/androiddev/comments/ne11w3/easy_way_to_create_a_virtual_keyboard/)
+- [I am looking for a free API for streaming music.](https://www.reddit.com/r/androiddev/comments/ndy8xr/i_am_looking_for_a_free_api_for_streaming_music/)
+- [How to Update RecyclerView Item upload/download progress after fragment replaced?](https://www.reddit.com/r/androiddev/comments/ndxrtb/how_to_update_recyclerview_item_uploaddownload/)
+- [Kotlin withContext() is very slow](https://www.reddit.com/r/androiddev/comments/ndvahj/kotlin_withcontext_is_very_slow/)
+- [When you use a custom launcher, does the system launcher of your phone go to sleep?](https://www.reddit.com/r/androiddev/comments/ndute6/when_you_use_a_custom_launcher_does_the_system/)
+- [Don't know how to (insert many things here) - text/UI based MMO.](https://www.reddit.com/r/androiddev/comments/ndt6l0/dont_know_how_to_insert_many_things_here_textui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
