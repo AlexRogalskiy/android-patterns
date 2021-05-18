@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do all architecture components really make development easier?](https://www.reddit.com/r/androiddev/comments/ne39kw/do_all_architecture_components_really_make/)
-- [What do you think about Panoramic screenshots for Play Store?](https://www.reddit.com/r/androiddev/comments/ne2ca6/what_do_you_think_about_panoramic_screenshots_for/)
-- [Have you had to deal with a negative review campaign against your app? What's the recourse?](https://www.reddit.com/r/androiddev/comments/ne1rek/have_you_had_to_deal_with_a_negative_review/)
-- [Can't find Sha -1 key](https://www.reddit.com/r/androiddev/comments/ne1cue/cant_find_sha_1_key/)
-- [Easy way to create a virtual keyboard?](https://www.reddit.com/r/androiddev/comments/ne11w3/easy_way_to_create_a_virtual_keyboard/)
-- [I am looking for a free API for streaming music.](https://www.reddit.com/r/androiddev/comments/ndy8xr/i_am_looking_for_a_free_api_for_streaming_music/)
-- [How to Update RecyclerView Item upload/download progress after fragment replaced?](https://www.reddit.com/r/androiddev/comments/ndxrtb/how_to_update_recyclerview_item_uploaddownload/)
-- [Kotlin withContext() is very slow](https://www.reddit.com/r/androiddev/comments/ndvahj/kotlin_withcontext_is_very_slow/)
-- [When you use a custom launcher, does the system launcher of your phone go to sleep?](https://www.reddit.com/r/androiddev/comments/ndute6/when_you_use_a_custom_launcher_does_the_system/)
-- [Don't know how to (insert many things here) - text/UI based MMO.](https://www.reddit.com/r/androiddev/comments/ndt6l0/dont_know_how_to_insert_many_things_here_textui/)
+- [Migrating from LiveData to Kotlin’s Flow](https://www.reddit.com/r/androiddev/comments/nexb2r/migrating_from_livedata_to_kotlins_flow/)
+- [Improving Android startup: Initializing Dagger Async](https://www.reddit.com/r/androiddev/comments/newfmg/improving_android_startup_initializing_dagger/)
+- [Leak investigation: Rx disposal race in SQLDelight](https://www.reddit.com/r/androiddev/comments/neumod/leak_investigation_rx_disposal_race_in_sqldelight/)
+- [Have you ever come across a situation where you used DS like graphs/trees to solve a problem in android Dev?](https://www.reddit.com/r/androiddev/comments/neqmak/have_you_ever_come_across_a_situation_where_you/)
+- [Hilt to the rescue, part 1](https://www.reddit.com/r/androiddev/comments/neoyx5/hilt_to_the_rescue_part_1/)
+- [yairm210/Unciv Unciv - FOSS Civ V for Android+Desktop](https://www.reddit.com/r/androiddev/comments/neob23/yairm210unciv_unciv_foss_civ_v_for_androiddesktop/)
+- [Rich Messaging Implementation](https://www.reddit.com/r/androiddev/comments/nelnp8/rich_messaging_implementation/)
+- [Have you ever used Facebook Audience Network ads in your app that is launched on galaxy store?](https://www.reddit.com/r/androiddev/comments/nek5ym/have_you_ever_used_facebook_audience_network_ads/)
+- [Does anyone else have something other than a love for Material design?](https://www.reddit.com/r/androiddev/comments/nejy1t/does_anyone_else_have_something_other_than_a_love/)
+- [Does providing link in the app is a policy violation?](https://www.reddit.com/r/androiddev/comments/nejque/does_providing_link_in_the_app_is_a_policy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
