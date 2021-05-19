@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Migrating from LiveData to Kotlin’s Flow](https://www.reddit.com/r/androiddev/comments/nexb2r/migrating_from_livedata_to_kotlins_flow/)
-- [Improving Android startup: Initializing Dagger Async](https://www.reddit.com/r/androiddev/comments/newfmg/improving_android_startup_initializing_dagger/)
-- [Leak investigation: Rx disposal race in SQLDelight](https://www.reddit.com/r/androiddev/comments/neumod/leak_investigation_rx_disposal_race_in_sqldelight/)
-- [Have you ever come across a situation where you used DS like graphs/trees to solve a problem in android Dev?](https://www.reddit.com/r/androiddev/comments/neqmak/have_you_ever_come_across_a_situation_where_you/)
-- [Hilt to the rescue, part 1](https://www.reddit.com/r/androiddev/comments/neoyx5/hilt_to_the_rescue_part_1/)
-- [yairm210/Unciv Unciv - FOSS Civ V for Android+Desktop](https://www.reddit.com/r/androiddev/comments/neob23/yairm210unciv_unciv_foss_civ_v_for_androiddesktop/)
-- [Rich Messaging Implementation](https://www.reddit.com/r/androiddev/comments/nelnp8/rich_messaging_implementation/)
-- [Have you ever used Facebook Audience Network ads in your app that is launched on galaxy store?](https://www.reddit.com/r/androiddev/comments/nek5ym/have_you_ever_used_facebook_audience_network_ads/)
-- [Does anyone else have something other than a love for Material design?](https://www.reddit.com/r/androiddev/comments/nejy1t/does_anyone_else_have_something_other_than_a_love/)
-- [Does providing link in the app is a policy violation?](https://www.reddit.com/r/androiddev/comments/nejque/does_providing_link_in_the_app_is_a_policy/)
+- [Pixel phone design](https://www.reddit.com/r/androiddev/comments/nfr064/pixel_phone_design/)
+- [An idea of how you could handle Error Views in Android using SOLID Principles! :]](https://www.reddit.com/r/androiddev/comments/nfnm5u/an_idea_of_how_you_could_handle_error_views_in/)
+- [Is there any app/game that you found that uses fast-follow asset delivery? Did you notice any app let's you play before it fully installs?](https://www.reddit.com/r/androiddev/comments/nfm89r/is_there_any_appgame_that_you_found_that_uses/)
+- [The benefits of a shared mobile architecture](https://www.reddit.com/r/androiddev/comments/nflu0n/the_benefits_of_a_shared_mobile_architecture/)
+- [Dear, droids, I need you help!!](https://www.reddit.com/r/androiddev/comments/nfkr24/dear_droids_i_need_you_help/)
+- [What's new for Android developers at Google I/O](https://www.reddit.com/r/androiddev/comments/nfk2i2/whats_new_for_android_developers_at_google_io/)
+- [Compose stable coming in July](https://www.reddit.com/r/androiddev/comments/nfjyvo/compose_stable_coming_in_july/)
+- [Android Studio Arctic Fox Beta 1 available](https://www.reddit.com/r/androiddev/comments/nfj6aj/android_studio_arctic_fox_beta_1_available/)
+- [Android Studio Arctic Fox beta is available!](https://www.reddit.com/r/androiddev/comments/nfj13h/android_studio_arctic_fox_beta_is_available/)
+- [Android Studio's keyboard shortcuts mapped onto a virtual keyboard](https://www.reddit.com/r/androiddev/comments/nfiqq5/android_studios_keyboard_shortcuts_mapped_onto_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
