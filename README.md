@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Pixel phone design](https://www.reddit.com/r/androiddev/comments/nfr064/pixel_phone_design/)
-- [An idea of how you could handle Error Views in Android using SOLID Principles! :]](https://www.reddit.com/r/androiddev/comments/nfnm5u/an_idea_of_how_you_could_handle_error_views_in/)
-- [Is there any app/game that you found that uses fast-follow asset delivery? Did you notice any app let's you play before it fully installs?](https://www.reddit.com/r/androiddev/comments/nfm89r/is_there_any_appgame_that_you_found_that_uses/)
-- [The benefits of a shared mobile architecture](https://www.reddit.com/r/androiddev/comments/nflu0n/the_benefits_of_a_shared_mobile_architecture/)
-- [Dear, droids, I need you help!!](https://www.reddit.com/r/androiddev/comments/nfkr24/dear_droids_i_need_you_help/)
-- [What's new for Android developers at Google I/O](https://www.reddit.com/r/androiddev/comments/nfk2i2/whats_new_for_android_developers_at_google_io/)
-- [Compose stable coming in July](https://www.reddit.com/r/androiddev/comments/nfjyvo/compose_stable_coming_in_july/)
-- [Android Studio Arctic Fox Beta 1 available](https://www.reddit.com/r/androiddev/comments/nfj6aj/android_studio_arctic_fox_beta_1_available/)
-- [Android Studio Arctic Fox beta is available!](https://www.reddit.com/r/androiddev/comments/nfj13h/android_studio_arctic_fox_beta_is_available/)
-- [Android Studio's keyboard shortcuts mapped onto a virtual keyboard](https://www.reddit.com/r/androiddev/comments/nfiqq5/android_studios_keyboard_shortcuts_mapped_onto_a/)
+- [Where to store JSON file for parsing](https://www.reddit.com/r/androiddev/comments/nglzmv/where_to_store_json_file_for_parsing/)
+- [Which virtual devices should you install?](https://www.reddit.com/r/androiddev/comments/ngkblm/which_virtual_devices_should_you_install/)
+- [Intercept and disable power button](https://www.reddit.com/r/androiddev/comments/ngj2pt/intercept_and_disable_power_button/)
+- [How many of the presented changes in Android 12 will be available for everyone with AOSP ?](https://www.reddit.com/r/androiddev/comments/nghggx/how_many_of_the_presented_changes_in_android_12/)
+- [Current state of GDPR and Ads in Europe?](https://www.reddit.com/r/androiddev/comments/ngh0gj/current_state_of_gdpr_and_ads_in_europe/)
+- [Project Nitrogen becomes Unified Test Platform + Gradle Managed Devices](https://www.reddit.com/r/androiddev/comments/nggq9j/project_nitrogen_becomes_unified_test_platform/)
+- [Is there any app/game that you found that uses fast-follow asset delivery? Did you notice any app let's you play before it fully installs?](https://www.reddit.com/r/androiddev/comments/nggbfl/is_there_any_appgame_that_you_found_that_uses/)
+- [Flutter Labs on Qwiklabs](https://www.reddit.com/r/androiddev/comments/ngfzpf/flutter_labs_on_qwiklabs/)
+- [Material You — Google's New Design System is Here!](https://www.reddit.com/r/androiddev/comments/ngaoap/material_you_googles_new_design_system_is_here/)
+- [hilt-lifecycle-viewmodel 1.0.0 failing to resolve with gradle](https://www.reddit.com/r/androiddev/comments/nga3su/hiltlifecycleviewmodel_100_failing_to_resolve/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
