@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where to store JSON file for parsing](https://www.reddit.com/r/androiddev/comments/nglzmv/where_to_store_json_file_for_parsing/)
-- [Which virtual devices should you install?](https://www.reddit.com/r/androiddev/comments/ngkblm/which_virtual_devices_should_you_install/)
-- [Intercept and disable power button](https://www.reddit.com/r/androiddev/comments/ngj2pt/intercept_and_disable_power_button/)
-- [How many of the presented changes in Android 12 will be available for everyone with AOSP ?](https://www.reddit.com/r/androiddev/comments/nghggx/how_many_of_the_presented_changes_in_android_12/)
-- [Current state of GDPR and Ads in Europe?](https://www.reddit.com/r/androiddev/comments/ngh0gj/current_state_of_gdpr_and_ads_in_europe/)
-- [Project Nitrogen becomes Unified Test Platform + Gradle Managed Devices](https://www.reddit.com/r/androiddev/comments/nggq9j/project_nitrogen_becomes_unified_test_platform/)
-- [Is there any app/game that you found that uses fast-follow asset delivery? Did you notice any app let's you play before it fully installs?](https://www.reddit.com/r/androiddev/comments/nggbfl/is_there_any_appgame_that_you_found_that_uses/)
-- [Flutter Labs on Qwiklabs](https://www.reddit.com/r/androiddev/comments/ngfzpf/flutter_labs_on_qwiklabs/)
-- [Material You — Google's New Design System is Here!](https://www.reddit.com/r/androiddev/comments/ngaoap/material_you_googles_new_design_system_is_here/)
-- [hilt-lifecycle-viewmodel 1.0.0 failing to resolve with gradle](https://www.reddit.com/r/androiddev/comments/nga3su/hiltlifecycleviewmodel_100_failing_to_resolve/)
+- [Learn Android: Design or Development?](https://www.reddit.com/r/androiddev/comments/nhhfi8/learn_android_design_or_development/)
+- [Useful Kotlin Extensions for Android](https://www.reddit.com/r/androiddev/comments/nheyes/useful_kotlin_extensions_for_android/)
+- [What’s New in Android 12 For Developers?](https://www.reddit.com/r/androiddev/comments/nheuzm/whats_new_in_android_12_for_developers/)
+- [Good Open Source native App to learn](https://www.reddit.com/r/androiddev/comments/nhc06q/good_open_source_native_app_to_learn/)
+- [How did Medium block custom text selection?](https://www.reddit.com/r/androiddev/comments/nhaugi/how_did_medium_block_custom_text_selection/)
+- [APP TESTING AUTOMATION](https://www.reddit.com/r/androiddev/comments/nh8nxo/app_testing_automation/)
+- [Emulator for Firebase](https://www.reddit.com/r/androiddev/comments/nh7qu7/emulator_for_firebase/)
+- [Comparing the performance of two identical android apps](https://www.reddit.com/r/androiddev/comments/nh4tf4/comparing_the_performance_of_two_identical/)
+- [Firebase + Spring + Tomcat for large files](https://www.reddit.com/r/androiddev/comments/nh4cbt/firebase_spring_tomcat_for_large_files/)
+- [Beginners Guide to learn android dev step by step.](https://www.reddit.com/r/androiddev/comments/nh4b17/beginners_guide_to_learn_android_dev_step_by_step/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
