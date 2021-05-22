@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Learn Android: Design or Development?](https://www.reddit.com/r/androiddev/comments/nhhfi8/learn_android_design_or_development/)
-- [Useful Kotlin Extensions for Android](https://www.reddit.com/r/androiddev/comments/nheyes/useful_kotlin_extensions_for_android/)
-- [What’s New in Android 12 For Developers?](https://www.reddit.com/r/androiddev/comments/nheuzm/whats_new_in_android_12_for_developers/)
-- [Good Open Source native App to learn](https://www.reddit.com/r/androiddev/comments/nhc06q/good_open_source_native_app_to_learn/)
-- [How did Medium block custom text selection?](https://www.reddit.com/r/androiddev/comments/nhaugi/how_did_medium_block_custom_text_selection/)
-- [APP TESTING AUTOMATION](https://www.reddit.com/r/androiddev/comments/nh8nxo/app_testing_automation/)
-- [Emulator for Firebase](https://www.reddit.com/r/androiddev/comments/nh7qu7/emulator_for_firebase/)
-- [Comparing the performance of two identical android apps](https://www.reddit.com/r/androiddev/comments/nh4tf4/comparing_the_performance_of_two_identical/)
-- [Firebase + Spring + Tomcat for large files](https://www.reddit.com/r/androiddev/comments/nh4cbt/firebase_spring_tomcat_for_large_files/)
-- [Beginners Guide to learn android dev step by step.](https://www.reddit.com/r/androiddev/comments/nh4b17/beginners_guide_to_learn_android_dev_step_by_step/)
+- [Some questions about Play Billing](https://www.reddit.com/r/androiddev/comments/ni88uq/some_questions_about_play_billing/)
+- [Releasing Open Source Lib via Jitpack vs MavenCentral](https://www.reddit.com/r/androiddev/comments/ni5n9g/releasing_open_source_lib_via_jitpack_vs/)
+- [Anyone else experience completely broken deep links on Android 12?](https://www.reddit.com/r/androiddev/comments/ni33zr/anyone_else_experience_completely_broken_deep/)
+- [Suggested alternative App Stores](https://www.reddit.com/r/androiddev/comments/ni1977/suggested_alternative_app_stores/)
+- [Is there any app/game that you found that uses fast-follow asset delivery? Did you notice any app let's you play before it fully installs?](https://www.reddit.com/r/androiddev/comments/ni0xj2/is_there_any_appgame_that_you_found_that_uses/)
+- [Invalid Warning? Updating an androidx lib to an alpha version.](https://www.reddit.com/r/androiddev/comments/nhzl66/invalid_warning_updating_an_androidx_lib_to_an/)
+- [[Study] How you validate fields in MVVM architecture and notify the user?](https://www.reddit.com/r/androiddev/comments/nhzgk2/study_how_you_validate_fields_in_mvvm/)
+- [Are there any launchers other than Taskbar which can be configured to force-open all apps in freeform mode?](https://www.reddit.com/r/androiddev/comments/nhyhtb/are_there_any_launchers_other_than_taskbar_which/)
+- [Speed performance](https://www.reddit.com/r/androiddev/comments/nhy4fe/speed_performance/)
+- [How to add new item in an existing navigation drawer activity?](https://www.reddit.com/r/androiddev/comments/nhy2m9/how_to_add_new_item_in_an_existing_navigation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
