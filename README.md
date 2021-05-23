@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Some questions about Play Billing](https://www.reddit.com/r/androiddev/comments/ni88uq/some_questions_about_play_billing/)
-- [Releasing Open Source Lib via Jitpack vs MavenCentral](https://www.reddit.com/r/androiddev/comments/ni5n9g/releasing_open_source_lib_via_jitpack_vs/)
-- [Anyone else experience completely broken deep links on Android 12?](https://www.reddit.com/r/androiddev/comments/ni33zr/anyone_else_experience_completely_broken_deep/)
-- [Suggested alternative App Stores](https://www.reddit.com/r/androiddev/comments/ni1977/suggested_alternative_app_stores/)
-- [Is there any app/game that you found that uses fast-follow asset delivery? Did you notice any app let's you play before it fully installs?](https://www.reddit.com/r/androiddev/comments/ni0xj2/is_there_any_appgame_that_you_found_that_uses/)
-- [Invalid Warning? Updating an androidx lib to an alpha version.](https://www.reddit.com/r/androiddev/comments/nhzl66/invalid_warning_updating_an_androidx_lib_to_an/)
-- [[Study] How you validate fields in MVVM architecture and notify the user?](https://www.reddit.com/r/androiddev/comments/nhzgk2/study_how_you_validate_fields_in_mvvm/)
-- [Are there any launchers other than Taskbar which can be configured to force-open all apps in freeform mode?](https://www.reddit.com/r/androiddev/comments/nhyhtb/are_there_any_launchers_other_than_taskbar_which/)
-- [Speed performance](https://www.reddit.com/r/androiddev/comments/nhy4fe/speed_performance/)
-- [How to add new item in an existing navigation drawer activity?](https://www.reddit.com/r/androiddev/comments/nhy2m9/how_to_add_new_item_in_an_existing_navigation/)
+- [Looking for AdMob alternatives](https://www.reddit.com/r/androiddev/comments/nix27l/looking_for_admob_alternatives/)
+- [Marketing in Google Play](https://www.reddit.com/r/androiddev/comments/niv96g/marketing_in_google_play/)
+- [Should I disable ads for users that live with me?](https://www.reddit.com/r/androiddev/comments/nircc3/should_i_disable_ads_for_users_that_live_with_me/)
+- [I've build an app in Java and I need an IOs version of this, do I need to write it all over again?](https://www.reddit.com/r/androiddev/comments/nipv22/ive_build_an_app_in_java_and_i_need_an_ios/)
+- [Android 12 features and which devices are compatible with Android 12.](https://www.reddit.com/r/androiddev/comments/nimvw1/android_12_features_and_which_devices_are/)
+- [How is the Android Basics in Kotlin Course from Android? Anyone learn using this source?](https://www.reddit.com/r/androiddev/comments/nilw8x/how_is_the_android_basics_in_kotlin_course_from/)
+- [App Feedback Thread - May 22, 2021](https://www.reddit.com/r/androiddev/comments/nii4lz/app_feedback_thread_may_22_2021/)
+- [LocalBroadcastManager not working in Kotlin?](https://www.reddit.com/r/androiddev/comments/niggnq/localbroadcastmanager_not_working_in_kotlin/)
+- [CoinCurrently - I´d love some more feedback on the new widgets](https://www.reddit.com/r/androiddev/comments/nigfuy/coincurrently_id_love_some_more_feedback_on_the/)
+- [Any really free screenshot generator for the play store?](https://www.reddit.com/r/androiddev/comments/nielvq/any_really_free_screenshot_generator_for_the_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
