@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for AdMob alternatives](https://www.reddit.com/r/androiddev/comments/nix27l/looking_for_admob_alternatives/)
-- [Marketing in Google Play](https://www.reddit.com/r/androiddev/comments/niv96g/marketing_in_google_play/)
-- [Should I disable ads for users that live with me?](https://www.reddit.com/r/androiddev/comments/nircc3/should_i_disable_ads_for_users_that_live_with_me/)
-- [I've build an app in Java and I need an IOs version of this, do I need to write it all over again?](https://www.reddit.com/r/androiddev/comments/nipv22/ive_build_an_app_in_java_and_i_need_an_ios/)
-- [Android 12 features and which devices are compatible with Android 12.](https://www.reddit.com/r/androiddev/comments/nimvw1/android_12_features_and_which_devices_are/)
-- [How is the Android Basics in Kotlin Course from Android? Anyone learn using this source?](https://www.reddit.com/r/androiddev/comments/nilw8x/how_is_the_android_basics_in_kotlin_course_from/)
-- [App Feedback Thread - May 22, 2021](https://www.reddit.com/r/androiddev/comments/nii4lz/app_feedback_thread_may_22_2021/)
-- [LocalBroadcastManager not working in Kotlin?](https://www.reddit.com/r/androiddev/comments/niggnq/localbroadcastmanager_not_working_in_kotlin/)
-- [CoinCurrently - I´d love some more feedback on the new widgets](https://www.reddit.com/r/androiddev/comments/nigfuy/coincurrently_id_love_some_more_feedback_on_the/)
-- [Any really free screenshot generator for the play store?](https://www.reddit.com/r/androiddev/comments/nielvq/any_really_free_screenshot_generator_for_the_play/)
+- [How to make a step counter with the Android Sensor.TYPE_ACCELEROMETER?](https://www.reddit.com/r/androiddev/comments/njkdfa/how_to_make_a_step_counter_with_the_android/)
+- [I expect better from google. God forbid you have a postal code that starts with 0.](https://www.reddit.com/r/androiddev/comments/njixpt/i_expect_better_from_google_god_forbid_you_have_a/)
+- [A schedule calendar implemented with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/njhvus/a_schedule_calendar_implemented_with_jetpack/)
+- [Professional deformation and Compose](https://www.reddit.com/r/androiddev/comments/njfwuq/professional_deformation_and_compose/)
+- [Can I submit an update, while the previous one still under review?](https://www.reddit.com/r/androiddev/comments/njejqu/can_i_submit_an_update_while_the_previous_one/)
+- [Android Jobs Job Board maintained by Donn Felker](https://www.reddit.com/r/androiddev/comments/njcyz4/android_jobs_job_board_maintained_by_donn_felker/)
+- [How can I do this? Server + android as front end?](https://www.reddit.com/r/androiddev/comments/njattf/how_can_i_do_this_server_android_as_front_end/)
+- [What are some examples of unnecessarily making Android app development complex?](https://www.reddit.com/r/androiddev/comments/njaj3o/what_are_some_examples_of_unnecessarily_making/)
+- [[AMA]In 2019 I made a vector design app for android and never really released it on the play store. I gained some skills during this which I never used again, so if anyone wants to know anything about such an app just leave a comment down below, and I will try to answer IF I CAN.](https://www.reddit.com/r/androiddev/comments/nj8ptc/amain_2019_i_made_a_vector_design_app_for_android/)
+- [Just a vlog explaining how I built a Instagram clone sort of](https://www.reddit.com/r/androiddev/comments/nj8fzh/just_a_vlog_explaining_how_i_built_a_instagram/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
