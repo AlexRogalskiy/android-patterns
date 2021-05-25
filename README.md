@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to make a step counter with the Android Sensor.TYPE_ACCELEROMETER?](https://www.reddit.com/r/androiddev/comments/njkdfa/how_to_make_a_step_counter_with_the_android/)
-- [I expect better from google. God forbid you have a postal code that starts with 0.](https://www.reddit.com/r/androiddev/comments/njixpt/i_expect_better_from_google_god_forbid_you_have_a/)
-- [A schedule calendar implemented with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/njhvus/a_schedule_calendar_implemented_with_jetpack/)
-- [Professional deformation and Compose](https://www.reddit.com/r/androiddev/comments/njfwuq/professional_deformation_and_compose/)
-- [Can I submit an update, while the previous one still under review?](https://www.reddit.com/r/androiddev/comments/njejqu/can_i_submit_an_update_while_the_previous_one/)
-- [Android Jobs Job Board maintained by Donn Felker](https://www.reddit.com/r/androiddev/comments/njcyz4/android_jobs_job_board_maintained_by_donn_felker/)
-- [How can I do this? Server + android as front end?](https://www.reddit.com/r/androiddev/comments/njattf/how_can_i_do_this_server_android_as_front_end/)
-- [What are some examples of unnecessarily making Android app development complex?](https://www.reddit.com/r/androiddev/comments/njaj3o/what_are_some_examples_of_unnecessarily_making/)
-- [[AMA]In 2019 I made a vector design app for android and never really released it on the play store. I gained some skills during this which I never used again, so if anyone wants to know anything about such an app just leave a comment down below, and I will try to answer IF I CAN.](https://www.reddit.com/r/androiddev/comments/nj8ptc/amain_2019_i_made_a_vector_design_app_for_android/)
-- [Just a vlog explaining how I built a Instagram clone sort of](https://www.reddit.com/r/androiddev/comments/nj8fzh/just_a_vlog_explaining_how_i_built_a_instagram/)
+- [little off topic](https://www.reddit.com/r/androiddev/comments/nkbhfg/little_off_topic/)
+- [Brave and Kiwi browser give this when rying to upload a video to bitchute...why is this happening? Thanks.](https://www.reddit.com/r/androiddev/comments/nkanhe/brave_and_kiwi_browser_give_this_when_rying_to/)
+- [Is there a way I can skip these bluetooth popups and just pair immediately? One is from NFC to pair and other is right after](https://www.reddit.com/r/androiddev/comments/nk47u9/is_there_a_way_i_can_skip_these_bluetooth_popups/)
+- [A historical introduction to the Compose reactive state model](https://www.reddit.com/r/androiddev/comments/nk3vai/a_historical_introduction_to_the_compose_reactive/)
+- [Is StrictMode broken on Android?](https://www.reddit.com/r/androiddev/comments/nk2tjs/is_strictmode_broken_on_android/)
+- [StateFlow & SharedFlow, What are the disadvantages ?](https://www.reddit.com/r/androiddev/comments/nk2mur/stateflow_sharedflow_what_are_the_disadvantages/)
+- [Why did Android choose Java to be its language?](https://www.reddit.com/r/androiddev/comments/nk2f4a/why_did_android_choose_java_to_be_its_language/)
+- [Creating A Google Play Developer account for a Company?](https://www.reddit.com/r/androiddev/comments/nk268t/creating_a_google_play_developer_account_for_a/)
+- [Jake Wharton Debates in DevProdEng Showdown! S1E4: Android Architecture and Developer Productivity at Scale on Wednesday May 26th @ 10AM PST](https://www.reddit.com/r/androiddev/comments/nk1qj4/jake_wharton_debates_in_devprodeng_showdown_s1e4/)
+- [Open source podcast app built with kotlin jetpack core libraries](https://www.reddit.com/r/androiddev/comments/nk0epz/open_source_podcast_app_built_with_kotlin_jetpack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
