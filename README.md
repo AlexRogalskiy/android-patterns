@@ -251,16 +251,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 
-- [little off topic](https://www.reddit.com/r/androiddev/comments/nkbhfg/little_off_topic/)
-- [Brave and Kiwi browser give this when rying to upload a video to bitchute...why is this happening? Thanks.](https://www.reddit.com/r/androiddev/comments/nkanhe/brave_and_kiwi_browser_give_this_when_rying_to/)
-- [Is there a way I can skip these bluetooth popups and just pair immediately? One is from NFC to pair and other is right after](https://www.reddit.com/r/androiddev/comments/nk47u9/is_there_a_way_i_can_skip_these_bluetooth_popups/)
-- [A historical introduction to the Compose reactive state model](https://www.reddit.com/r/androiddev/comments/nk3vai/a_historical_introduction_to_the_compose_reactive/)
-- [Is StrictMode broken on Android?](https://www.reddit.com/r/androiddev/comments/nk2tjs/is_strictmode_broken_on_android/)
-- [StateFlow & SharedFlow, What are the disadvantages ?](https://www.reddit.com/r/androiddev/comments/nk2mur/stateflow_sharedflow_what_are_the_disadvantages/)
-- [Why did Android choose Java to be its language?](https://www.reddit.com/r/androiddev/comments/nk2f4a/why_did_android_choose_java_to_be_its_language/)
-- [Creating A Google Play Developer account for a Company?](https://www.reddit.com/r/androiddev/comments/nk268t/creating_a_google_play_developer_account_for_a/)
-- [Jake Wharton Debates in DevProdEng Showdown! S1E4: Android Architecture and Developer Productivity at Scale on Wednesday May 26th @ 10AM PST](https://www.reddit.com/r/androiddev/comments/nk1qj4/jake_wharton_debates_in_devprodeng_showdown_s1e4/)
-- [Open source podcast app built with kotlin jetpack core libraries](https://www.reddit.com/r/androiddev/comments/nk0epz/open_source_podcast_app_built_with_kotlin_jetpack/)
+- [How does the Geocoder class in Android works?](https://www.reddit.com/r/androiddev/comments/nl5bs4/how_does_the_geocoder_class_in_android_works/)
+- [Android Studio 4.2 Broken](https://www.reddit.com/r/androiddev/comments/nl4kua/android_studio\_42\_broken/)
+- [Building Android Widgets from Scratch ( Learn 8 Widgets) - free course from udemy](https://www.reddit.com/r/androiddev/comments/nl4bny/building_android_widgets_from_scratch_learn\_8/)
+- [New Dangerous Permission from Android12!](https://www.reddit.com/r/androiddev/comments/nl1d0d/new_dangerous_permission_from_android12/)
+- [Android Project picture sizes](https://www.reddit.com/r/androiddev/comments/nkzzpf/android_project_picture_sizes/)
+- [How do Play Console reviews affect the update flow](https://www.reddit.com/r/androiddev/comments/nkzqbq/how_do_play_console_reviews_affect_the_update_flow/)
+- [Hello fellow devs! Is there anyone who wants to help reverse engineering an apk to hack a DJI drone?](https://www.reddit.com/r/androiddev/comments/nky85m/hello_fellow_devs_is_there_anyone_who_wants_to/)
+- [Database inspector force close app after update Android Studio to 4.2](https://www.reddit.com/r/androiddev/comments/nku2z0/database_inspector_force_close_app_after_update/)
+- [Java vs Kotlin for Android Development in 2021](https://www.reddit.com/r/androiddev/comments/nkt17m/java_vs_kotlin_for_android_development_in\_2021/)
+- [App One-Off Promo Pricing](https://www.reddit.com/r/androiddev/comments/nks980/app_oneoff_promo_pricing/)
 
 <!-- REDDIT-POST-LIST:END -->
 
