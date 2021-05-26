@@ -41,29 +41,31 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Android Design Patterns](#android-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Android Authority posts</em>](#android-authority-posts)
-         * [<em>Android Arsenal posts</em>](#android-arsenal-posts)
-         * [<em>Medium posts</em>](#medium-posts)
-         * [<em>Gizmodo posts</em>](#gizmodo-posts)
-         * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
-         * [<em>Infinum posts</em>](#infinum-posts)
+
+- [Android Design Patterns](#android-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Android Authority posts</em>](#android-authority-posts)
+    - [<em>Android Arsenal posts</em>](#android-arsenal-posts)
+    - [<em>Medium posts</em>](#medium-posts)
+    - [<em>Gizmodo posts</em>](#gizmodo-posts)
+    - [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
+    - [<em>Infinum posts</em>](#infinum-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -198,10 +200,8 @@ with community support please contact with us if you have some question or propo
 
 [![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/android-patterns?size=50\&padding=5\&bots=true)](https://badges.pufler.dev)
 
-Please read
-[CONTRIBUTING.md](https://github.com/AlexRogalskiy/android-patterns/blob/master/.github/CONTRIBUTING.md)
-for details on our code of conduct, and the process for submitting pull requests to us
-([emoji key](https://allcontributors.org/docs/en/emoji-key)).
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests
+to us ([emoji key](https://allcontributors.org/docs/en/emoji-key)).
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors)
 specification. Contributions of any kind are welcome!
@@ -250,6 +250,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [little off topic](https://www.reddit.com/r/androiddev/comments/nkbhfg/little_off_topic/)
 - [Brave and Kiwi browser give this when rying to upload a video to bitchute...why is this happening? Thanks.](https://www.reddit.com/r/androiddev/comments/nkanhe/brave_and_kiwi_browser_give_this_when_rying_to/)
 - [Is there a way I can skip these bluetooth popups and just pair immediately? One is from NFC to pair and other is right after](https://www.reddit.com/r/androiddev/comments/nk47u9/is_there_a_way_i_can_skip_these_bluetooth_popups/)
@@ -260,11 +261,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Creating A Google Play Developer account for a Company?](https://www.reddit.com/r/androiddev/comments/nk268t/creating_a_google_play_developer_account_for_a/)
 - [Jake Wharton Debates in DevProdEng Showdown! S1E4: Android Architecture and Developer Productivity at Scale on Wednesday May 26th @ 10AM PST](https://www.reddit.com/r/androiddev/comments/nk1qj4/jake_wharton_debates_in_devprodeng_showdown_s1e4/)
 - [Open source podcast app built with kotlin jetpack core libraries](https://www.reddit.com/r/androiddev/comments/nk0epz/open_source_podcast_app_built_with_kotlin_jetpack/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
@@ -275,21 +278,25 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
 - [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
 - [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Android SPKI Pinning with TrustKit](https://developers.redhat.com/blog/2017/10/26/android-spki-pinning-trustkit/)
 - [Server-side Kotlin with Eclipse Vert.x at JavaOne](https://developers.redhat.com/blog/2017/10/13/server-side-kotlin-eclipse-vert-x-javaone/)
 - [Testing your Android App’s UI with Espresso](https://developers.redhat.com/blog/2017/07/13/testing-your-android-apps-ui-with-espresso/)
 - [Installing Linux on an Android Phone](https://developers.redhat.com/blog/2017/03/16/installing-linux-on-an-android-phone/)
 - [A step-by-step tutorial for continuous integration with Jenkins on a Red Hat Mobile Native Android application: Part 2](https://developers.redhat.com/blog/2016/08/11/a-step-by-step-tutorial-for-continuous-integration-with-jenkins-on-a-red-hat-mobile-native-android-application-part-2/)
+
 <!-- REDHAT-POST-LIST:END -->
 
 ### *Android Authority posts*
 
 <!-- ANDROIDAUTHORITY-POST-LIST:START -->
+
 - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
 - [Google I/O 2021: Here’s what to expect](https://www.androidauthority.com/google-io/)
 - [How to make a game in Python: An introduction to Pygame](https://www.androidauthority.com/how-to-make-a-game-in-python-1136589/)
@@ -300,11 +307,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [How to define a function in Python](https://www.androidauthority.com/how-to-define-a-function-in-python-1141219/)
 - [Python beginner’s guide – Everything you need to know to get started](https://www.androidauthority.com/learn-python-beginner-1142688/)
 - [Kotlin tutorial for Android for beginners: Build a simple quiz](https://www.androidauthority.com/kotlin-tutorial-1134289/)
+
 <!-- ANDROIDAUTHORITY-POST-LIST:END -->
 
 ### *Android Arsenal posts*
 
 <!-- ANDROIDARSENAL-POST-LIST:START -->
+
 - [locus](http://android-arsenal.com/details/1/8244)
 - [SSImagePicker](http://android-arsenal.com/details/1/8243)
 - [Comparing Performance Bar](http://android-arsenal.com/details/1/8242)
@@ -315,11 +324,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [MaterialPreferences](http://android-arsenal.com/details/1/8237)
 - [MaterialDialogFragments](http://android-arsenal.com/details/1/8236)
 - [Android BLE Made Easy](http://android-arsenal.com/details/1/8235)
+
 <!-- ANDROIDARSENAL-POST-LIST:END -->
 
 ### *Medium posts*
 
 <!-- MEDIUM-POST-LIST:START -->
+
 - [Every student needs to install this FREE android app NOW!](https://lydia22.medium.com/every-student-needs-to-install-this-free-android-app-now-563fed9189d1?source=rss------android-5)
 - [Digital Signature Android Demo.](https://info-anikdey003.medium.com/digital-signature-android-demo-a38f1342b880?source=rss------android-5)
 - [Augmented Reality(AR) in Android](https://mothegoat.medium.com/augmented-reality-ar-in-android-1af62f6a207e?source=rss------android-5)
@@ -330,11 +341,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Un’organizzazione che vuole aiutare e dare privilegi a chi ha meno privilegi e anche aumentare il…](https://wemovekel01.medium.com/unorganizzazione-che-vuole-aiutare-e-dare-privilegi-a-chi-ha-meno-privilegi-e-anche-aumentare-il-13ec5ea12f09?source=rss------android-5)
 - [Getting started: Android CameraX](https://thewerner.medium.com/getting-started-android-camerax-a84e138e2c00?source=rss------android-5)
 - [Maintain View from Resizing while use `ADJUST_RESIZE`](https://mahmoud-mabrok.medium.com/maintain-view-from-resizing-while-use-adjust-resize-915676c1c5e5?source=rss------android-5)
+
 <!-- MEDIUM-POST-LIST:END -->
 
 ### *Gizmodo posts*
 
 <!-- GIZMODO-POST-LIST:START -->
+
 - [The Asus Zenfone 8 Is an Affordable, Compelling Option If You Love Small Phones](https://gizmodo.com/the-asus-zenfone-8-is-an-affordable-compelling-option-1846854210)
 - [My Kingdom for an Android Tablet That Doubles As a Portable Monitor](https://gizmodo.com/my-kingdom-for-an-android-tablet-that-doubles-as-a-port-1846850182)
 - [Google, You Should Already Know How People Feel About Wear OS](https://gizmodo.com/google-you-should-already-know-how-people-feel-about-w-1846866808)
@@ -345,11 +358,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google Is Bringing a Google TV-Like Experience to Android Tablets](https://gizmodo.com/google-is-bringing-a-google-tv-like-experience-to-andro-1846824566)
 - [Google May Have Inadvertently Just Spilled the Beans About the Pixel Buds A on Twitter](https://gizmodo.com/google-may-have-inadvertently-just-spilled-the-beans-ab-1846823832)
 - [60% of School Apps Are Sharing Your Kids' Data With Third Parties](https://gizmodo.com/60-of-school-apps-are-sharing-your-kids-data-with-thir-1846819024)
+
 <!-- GIZMODO-POST-LIST:END -->
 
 ### *Mobile Dev Memo posts*
 
 <!-- MOBILEDEVMEMO-POST-LIST:START -->
+
 - [Apple robbed the mob’s bank](https://mobiledevmemo.com/apple-robbed-the-mobs-bank/)
 - [iOS 14: How to prevail in Q2 2021](https://mobiledevmemo.com/ios-14-prevailing-in-q2-2021/)
 - [“Mobile advertising spend can’t just disappear”](https://mobiledevmemo.com/mobile-advertising-spend-cant-just-disappear/)
@@ -360,16 +375,19 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Unpacking Tim Cook’s comments about ATT](https://mobiledevmemo.com/unpacking-tim-cooks-comments-about-att/)
 - [What is differential privacy in digital advertising?](https://mobiledevmemo.com/what-is-differential-privacy/)
 - [Dear App Developers: fingerprinting is not a viable workaround to ATT](https://mobiledevmemo.com/dear-app-developers-fingerprinting-is-not-a-viable-workaround-to-att/)
+
 <!-- MOBILEDEVMEMO-POST-LIST:END -->
 
 ### *Infinum posts*
 
 <!-- INFINUM-POST-LIST:START -->
+
 - [Android Studio 4.2 is now available](https://androidsweets.ongoodbits.com/android-studio-4-2-is-now-available)
 - [Be careful with you Google ads!](https://androidsweets.ongoodbits.com/be-careful-with-you-google-ads)
 - [How to have Modular Navigation with Jetpack Compose?](https://androidsweets.ongoodbits.com/how-to-have-modular-navigation-with-jetpack-compose)
 - [How Dalvik and ART work?](https://androidsweets.ongoodbits.com/how-dalvik-and-art-work)
 - [Tools to help developers provide a positive user experience](https://androidsweets.ongoodbits.com/tools-to-help-developers-provide-a-positive-user-experience)
+
 <!-- INFINUM-POST-LIST:END -->
 
 ***
