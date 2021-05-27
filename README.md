@@ -248,18 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [How does the Geocoder class in Android works?](https://www.reddit.com/r/androiddev/comments/nl5bs4/how_does_the_geocoder_class_in_android_works/)
-- [Android Studio 4.2 Broken](https://www.reddit.com/r/androiddev/comments/nl4kua/android_studio\_42\_broken/)
-- [Building Android Widgets from Scratch ( Learn 8 Widgets) - free course from udemy](https://www.reddit.com/r/androiddev/comments/nl4bny/building_android_widgets_from_scratch_learn\_8/)
-- [New Dangerous Permission from Android12!](https://www.reddit.com/r/androiddev/comments/nl1d0d/new_dangerous_permission_from_android12/)
-- [Android Project picture sizes](https://www.reddit.com/r/androiddev/comments/nkzzpf/android_project_picture_sizes/)
-- [How do Play Console reviews affect the update flow](https://www.reddit.com/r/androiddev/comments/nkzqbq/how_do_play_console_reviews_affect_the_update_flow/)
-- [Hello fellow devs! Is there anyone who wants to help reverse engineering an apk to hack a DJI drone?](https://www.reddit.com/r/androiddev/comments/nky85m/hello_fellow_devs_is_there_anyone_who_wants_to/)
-- [Database inspector force close app after update Android Studio to 4.2](https://www.reddit.com/r/androiddev/comments/nku2z0/database_inspector_force_close_app_after_update/)
-- [Java vs Kotlin for Android Development in 2021](https://www.reddit.com/r/androiddev/comments/nkt17m/java_vs_kotlin_for_android_development_in\_2021/)
-- [App One-Off Promo Pricing](https://www.reddit.com/r/androiddev/comments/nks980/app_oneoff_promo_pricing/)
-
+- [Mobile Developers Cafe - Weekly Issue #26 is out now with curated Android Developer blogs around the world. Read now for free.](https://www.reddit.com/r/androiddev/comments/nly53a/mobile_developers_cafe_weekly_issue_26_is_out_now/)
+- [Issues with background services on Cat S42](https://www.reddit.com/r/androiddev/comments/nlt9n1/issues_with_background_services_on_cat_s42/)
+- [Android Library for easing Slider insertion to your apps with support for Images with a beautiful sample app.](https://www.reddit.com/r/androiddev/comments/nlso6y/android_library_for_easing_slider_insertion_to/)
+- [Android Library for easing up the onboarding process to apps with a beautiful sample app.](https://www.reddit.com/r/androiddev/comments/nls1ym/android_library_for_easing_up_the_onboarding/)
+- [What kills my store conversion rate?](https://www.reddit.com/r/androiddev/comments/nlpvja/what_kills_my_store_conversion_rate/)
+- [Android Studio Bumblebee Canary 1 available](https://www.reddit.com/r/androiddev/comments/nlncx9/android_studio_bumblebee_canary_1_available/)
+- [A primitive implementation of a line chart in Jetpack Compose, featuring animations and popups when hovering.](https://www.reddit.com/r/androiddev/comments/nlmbpi/a_primitive_implementation_of_a_line_chart_in/)
+- [Best practices for subscriptions in Play Billing](https://www.reddit.com/r/androiddev/comments/nlj70s/best_practices_for_subscriptions_in_play_billing/)
+- [ANDROID : IMPLICIT INTENT](https://www.reddit.com/r/androiddev/comments/nliygh/android_implicit_intent/)
+- [What are some of the best mobile testing tools for UI testing of Android apps?](https://www.reddit.com/r/androiddev/comments/nlgmh3/what_are_some_of_the_best_mobile_testing_tools/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
