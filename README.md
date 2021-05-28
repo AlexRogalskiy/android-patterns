@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mobile Developers Cafe - Weekly Issue #26 is out now with curated Android Developer blogs around the world. Read now for free.](https://www.reddit.com/r/androiddev/comments/nly53a/mobile_developers_cafe_weekly_issue_26_is_out_now/)
-- [Issues with background services on Cat S42](https://www.reddit.com/r/androiddev/comments/nlt9n1/issues_with_background_services_on_cat_s42/)
-- [Android Library for easing Slider insertion to your apps with support for Images with a beautiful sample app.](https://www.reddit.com/r/androiddev/comments/nlso6y/android_library_for_easing_slider_insertion_to/)
-- [Android Library for easing up the onboarding process to apps with a beautiful sample app.](https://www.reddit.com/r/androiddev/comments/nls1ym/android_library_for_easing_up_the_onboarding/)
-- [What kills my store conversion rate?](https://www.reddit.com/r/androiddev/comments/nlpvja/what_kills_my_store_conversion_rate/)
-- [Android Studio Bumblebee Canary 1 available](https://www.reddit.com/r/androiddev/comments/nlncx9/android_studio_bumblebee_canary_1_available/)
-- [A primitive implementation of a line chart in Jetpack Compose, featuring animations and popups when hovering.](https://www.reddit.com/r/androiddev/comments/nlmbpi/a_primitive_implementation_of_a_line_chart_in/)
-- [Best practices for subscriptions in Play Billing](https://www.reddit.com/r/androiddev/comments/nlj70s/best_practices_for_subscriptions_in_play_billing/)
-- [ANDROID : IMPLICIT INTENT](https://www.reddit.com/r/androiddev/comments/nliygh/android_implicit_intent/)
-- [What are some of the best mobile testing tools for UI testing of Android apps?](https://www.reddit.com/r/androiddev/comments/nlgmh3/what_are_some_of_the_best_mobile_testing_tools/)
+- [Alien Space invaders 👾👾👾 in Jetpack Compose 🚀](https://www.reddit.com/r/androiddev/comments/nmhsov/alien_space_invaders_in_jetpack_compose/)
+- [Quick question, going from closed testing to production in Google Play Store](https://www.reddit.com/r/androiddev/comments/nmhpkx/quick_question_going_from_closed_testing_to/)
+- [The Effect of a Lunar Eclipse on Install Rates (of a Moon position app)](https://www.reddit.com/r/androiddev/comments/nmgnha/the_effect_of_a_lunar_eclipse_on_install_rates_of/)
+- [admob ad serving is limited](https://www.reddit.com/r/androiddev/comments/nmg6dn/admob_ad_serving_is_limited/)
+- [Users don't know Google Play Store email when getting new device](https://www.reddit.com/r/androiddev/comments/nmf3v9/users_dont_know_google_play_store_email_when/)
+- [Meeting reminder for Zoom meetings](https://www.reddit.com/r/androiddev/comments/nmbdcr/meeting_reminder_for_zoom_meetings/)
+- [What's play-bd@google.com? Google play Bangladesh? Or Business development?](https://www.reddit.com/r/androiddev/comments/nm7ql4/whats_playbdgooglecom_google_play_bangladesh_or/)
+- [Tech stack recommendations and resources](https://www.reddit.com/r/androiddev/comments/nm7ehs/tech_stack_recommendations_and_resources/)
+- [Use Conductor with Hilt! conductor-hilt extension](https://www.reddit.com/r/androiddev/comments/nm6zkn/use_conductor_with_hilt_conductorhilt_extension/)
+- [I love native but what are your thoughts on other developing options like React Native, Flutter, even Kotlin?](https://www.reddit.com/r/androiddev/comments/nm6v9h/i_love_native_but_what_are_your_thoughts_on_other/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
