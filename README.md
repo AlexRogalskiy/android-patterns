@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to programmatically identify whether a device supports seperate volume levels for ringtones and notifications?](https://www.reddit.com/r/androiddev/comments/nnegpp/how_to_programmatically_identify_whether_a_device/)
-- [How to make an English to Tamil Transliteration EditText in Android](https://www.reddit.com/r/androiddev/comments/nne34c/how_to_make_an_english_to_tamil_transliteration/)
-- [How do I fork a android app on github?](https://www.reddit.com/r/androiddev/comments/nnd6io/how_do_i_fork_a_android_app_on_github/)
-- [How do I build a CryFS encrypted file system app?](https://www.reddit.com/r/androiddev/comments/nn98r9/how_do_i_build_a_cryfs_encrypted_file_system_app/)
-- [MutableSharedFlow is kind of complicated](https://www.reddit.com/r/androiddev/comments/nn6t21/mutablesharedflow_is_kind_of_complicated/)
-- [Category rankings are missing on play store. Is permanent or some kind of glitch?](https://www.reddit.com/r/androiddev/comments/nn5ly3/category_rankings_are_missing_on_play_store_is/)
-- [How do I restore WebView contents after my Activity restarts?](https://www.reddit.com/r/androiddev/comments/nn4v84/how_do_i_restore_webview_contents_after_my/)
-- [[HELP] Guidance developing a simple app for Covid19 volunteers.](https://www.reddit.com/r/androiddev/comments/nn3ey3/help_guidance_developing_a_simple_app_for_covid19/)
-- [How have you utilized Rxjava2 Subjects in your Android production apps?](https://www.reddit.com/r/androiddev/comments/nn37z3/how_have_you_utilized_rxjava2_subjects_in_your/)
-- [Suggestions for any YT channels that teach through mini-projects?](https://www.reddit.com/r/androiddev/comments/nn2ikd/suggestions_for_any_yt_channels_that_teach/)
+- [Security ROMS and features to make android more secure and prevent location tracking?](https://www.reddit.com/r/androiddev/comments/no1n11/security_roms_and_features_to_make_android_more/)
+- [Explanation of notNull built-in Delegate](https://www.reddit.com/r/androiddev/comments/nnzgce/explanation_of_notnull_builtin_delegate/)
+- [App reviews take forever now?...](https://www.reddit.com/r/androiddev/comments/nnytf7/app_reviews_take_forever_now/)
+- [Huawei Mate 40 Pro 1080p@30fps only...](https://www.reddit.com/r/androiddev/comments/nnw40z/huawei_mate_40_pro_1080p30fps_only/)
+- [Create customizable timer](https://www.reddit.com/r/androiddev/comments/nnw29f/create_customizable_timer/)
+- [Android tools for radio broadcasting/signal propagation.](https://www.reddit.com/r/androiddev/comments/nnujbi/android_tools_for_radio_broadcastingsignal/)
+- [Google maps activity in android project (On macbook pro M1)](https://www.reddit.com/r/androiddev/comments/nntlj0/google_maps_activity_in_android_project_on/)
+- [A comprehensive guide to coroutines](https://www.reddit.com/r/androiddev/comments/nntjqv/a_comprehensive_guide_to_coroutines/)
+- [Anyone else having problems with Lint and Studio? Ever since the new update, it's been extremely buggy and slow](https://www.reddit.com/r/androiddev/comments/nnt99j/anyone_else_having_problems_with_lint_and_studio/)
+- [What are the recommended alternative to achieve the same effect of `NetworkBoundResource` class?](https://www.reddit.com/r/androiddev/comments/nnsxw3/what_are_the_recommended_alternative_to_achieve/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
