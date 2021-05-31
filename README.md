@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Security ROMS and features to make android more secure and prevent location tracking?](https://www.reddit.com/r/androiddev/comments/no1n11/security_roms_and_features_to_make_android_more/)
-- [Explanation of notNull built-in Delegate](https://www.reddit.com/r/androiddev/comments/nnzgce/explanation_of_notnull_builtin_delegate/)
-- [App reviews take forever now?...](https://www.reddit.com/r/androiddev/comments/nnytf7/app_reviews_take_forever_now/)
-- [Huawei Mate 40 Pro 1080p@30fps only...](https://www.reddit.com/r/androiddev/comments/nnw40z/huawei_mate_40_pro_1080p30fps_only/)
-- [Create customizable timer](https://www.reddit.com/r/androiddev/comments/nnw29f/create_customizable_timer/)
-- [Android tools for radio broadcasting/signal propagation.](https://www.reddit.com/r/androiddev/comments/nnujbi/android_tools_for_radio_broadcastingsignal/)
-- [Google maps activity in android project (On macbook pro M1)](https://www.reddit.com/r/androiddev/comments/nntlj0/google_maps_activity_in_android_project_on/)
-- [A comprehensive guide to coroutines](https://www.reddit.com/r/androiddev/comments/nntjqv/a_comprehensive_guide_to_coroutines/)
-- [Anyone else having problems with Lint and Studio? Ever since the new update, it's been extremely buggy and slow](https://www.reddit.com/r/androiddev/comments/nnt99j/anyone_else_having_problems_with_lint_and_studio/)
-- [What are the recommended alternative to achieve the same effect of `NetworkBoundResource` class?](https://www.reddit.com/r/androiddev/comments/nnsxw3/what_are_the_recommended_alternative_to_achieve/)
+- [Android 12 native game mode revealed](https://www.reddit.com/r/androiddev/comments/not5db/android_12_native_game_mode_revealed/)
+- [Best android version from 2012 to 2020](https://www.reddit.com/r/androiddev/comments/nosup4/best_android_version_from_2012_to_2020/)
+- [Is it possible to run an android device headless and access remotely (physical screen disabled)](https://www.reddit.com/r/androiddev/comments/noqpxt/is_it_possible_to_run_an_android_device_headless/)
+- [Getting back into Android Development](https://www.reddit.com/r/androiddev/comments/noqp8s/getting_back_into_android_development/)
+- [Is there a way to integrate After Effects animations in the app?](https://www.reddit.com/r/androiddev/comments/noq9ot/is_there_a_way_to_integrate_after_effects/)
+- [Writing Apache Parquet Files](https://www.reddit.com/r/androiddev/comments/none9r/writing_apache_parquet_files/)
+- [Android Flipper Debugging Plugins](https://www.reddit.com/r/androiddev/comments/nokno7/android_flipper_debugging_plugins/)
+- [Invoice library](https://www.reddit.com/r/androiddev/comments/noh4gl/invoice_library/)
+- [Can I use Android Studio in a VM?](https://www.reddit.com/r/androiddev/comments/noecif/can_i_use_android_studio_in_a_vm/)
+- [setOnLongClickListener uses which sensors on the phone?](https://www.reddit.com/r/androiddev/comments/nod3bg/setonlongclicklistener_uses_which_sensors_on_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
