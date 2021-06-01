@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android 12 native game mode revealed](https://www.reddit.com/r/androiddev/comments/not5db/android_12_native_game_mode_revealed/)
-- [Best android version from 2012 to 2020](https://www.reddit.com/r/androiddev/comments/nosup4/best_android_version_from_2012_to_2020/)
-- [Is it possible to run an android device headless and access remotely (physical screen disabled)](https://www.reddit.com/r/androiddev/comments/noqpxt/is_it_possible_to_run_an_android_device_headless/)
-- [Getting back into Android Development](https://www.reddit.com/r/androiddev/comments/noqp8s/getting_back_into_android_development/)
-- [Is there a way to integrate After Effects animations in the app?](https://www.reddit.com/r/androiddev/comments/noq9ot/is_there_a_way_to_integrate_after_effects/)
-- [Writing Apache Parquet Files](https://www.reddit.com/r/androiddev/comments/none9r/writing_apache_parquet_files/)
-- [Android Flipper Debugging Plugins](https://www.reddit.com/r/androiddev/comments/nokno7/android_flipper_debugging_plugins/)
-- [Invoice library](https://www.reddit.com/r/androiddev/comments/noh4gl/invoice_library/)
-- [Can I use Android Studio in a VM?](https://www.reddit.com/r/androiddev/comments/noecif/can_i_use_android_studio_in_a_vm/)
-- [setOnLongClickListener uses which sensors on the phone?](https://www.reddit.com/r/androiddev/comments/nod3bg/setonlongclicklistener_uses_which_sensors_on_the/)
+- [Ageism in Android?](https://www.reddit.com/r/androiddev/comments/nplgx5/ageism_in_android/)
+- [Can somebody help me to get data like in this app? I tried to scan BLE devices and filter them based on manufacturer data. It seems ionic doesn’t get me any manufacturer specific data. Any idea? Is it possible with react native?](https://www.reddit.com/r/androiddev/comments/npidta/can_somebody_help_me_to_get_data_like_in_this_app/)
+- [My thoughts and experience on edge to edge displaying apps. (as a comment)](https://www.reddit.com/r/androiddev/comments/nphmcg/my_thoughts_and_experience_on_edge_to_edge/)
+- [Actual footage of different kinds of Gradle Configurations](https://www.reddit.com/r/androiddev/comments/npe405/actual_footage_of_different_kinds_of_gradle/)
+- [No reviews showing in the playstore.](https://www.reddit.com/r/androiddev/comments/npcwo5/no_reviews_showing_in_the_playstore/)
+- [Would it be possible to replace the notification LED by addressing a tiny portion of an OLED screen while the screen is off?](https://www.reddit.com/r/androiddev/comments/npbra0/would_it_be_possible_to_replace_the_notification/)
+- [How to use signature pad library with jetpack compose using Android and Kotlin?](https://www.reddit.com/r/androiddev/comments/np88mj/how_to_use_signature_pad_library_with_jetpack/)
+- [Create Android app from open source C++ code](https://www.reddit.com/r/androiddev/comments/np7yeu/create_android_app_from_open_source_c_code/)
+- [How many of you all are indie developers that maintain your own backend for your app? How’s it going?](https://www.reddit.com/r/androiddev/comments/np40ig/how_many_of_you_all_are_indie_developers_that/)
+- [Android Studio AVD not running the app in Macbook air M1. Emulator (API S) is opening up but it's not running the application.](https://www.reddit.com/r/androiddev/comments/np2vp6/android_studio_avd_not_running_the_app_in_macbook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
