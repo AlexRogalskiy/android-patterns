@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ageism in Android?](https://www.reddit.com/r/androiddev/comments/nplgx5/ageism_in_android/)
-- [Can somebody help me to get data like in this app? I tried to scan BLE devices and filter them based on manufacturer data. It seems ionic doesn’t get me any manufacturer specific data. Any idea? Is it possible with react native?](https://www.reddit.com/r/androiddev/comments/npidta/can_somebody_help_me_to_get_data_like_in_this_app/)
-- [My thoughts and experience on edge to edge displaying apps. (as a comment)](https://www.reddit.com/r/androiddev/comments/nphmcg/my_thoughts_and_experience_on_edge_to_edge/)
-- [Actual footage of different kinds of Gradle Configurations](https://www.reddit.com/r/androiddev/comments/npe405/actual_footage_of_different_kinds_of_gradle/)
-- [No reviews showing in the playstore.](https://www.reddit.com/r/androiddev/comments/npcwo5/no_reviews_showing_in_the_playstore/)
-- [Would it be possible to replace the notification LED by addressing a tiny portion of an OLED screen while the screen is off?](https://www.reddit.com/r/androiddev/comments/npbra0/would_it_be_possible_to_replace_the_notification/)
-- [How to use signature pad library with jetpack compose using Android and Kotlin?](https://www.reddit.com/r/androiddev/comments/np88mj/how_to_use_signature_pad_library_with_jetpack/)
-- [Create Android app from open source C++ code](https://www.reddit.com/r/androiddev/comments/np7yeu/create_android_app_from_open_source_c_code/)
-- [How many of you all are indie developers that maintain your own backend for your app? How’s it going?](https://www.reddit.com/r/androiddev/comments/np40ig/how_many_of_you_all_are_indie_developers_that/)
-- [Android Studio AVD not running the app in Macbook air M1. Emulator (API S) is opening up but it's not running the application.](https://www.reddit.com/r/androiddev/comments/np2vp6/android_studio_avd_not_running_the_app_in_macbook/)
+- [Pangle Ad Network](https://www.reddit.com/r/androiddev/comments/nqd156/pangle_ad_network/)
+- [Harmony Crypto: Multi-process Encrypted SharedPreferences](https://www.reddit.com/r/androiddev/comments/nqcjsi/harmony_crypto_multiprocess_encrypted/)
+- [image picker from gallery for Jetpack compose - Android/Kotlin](https://www.reddit.com/r/androiddev/comments/nq88d4/image_picker_from_gallery_for_jetpack_compose/)
+- [Get notified for every app purchase](https://www.reddit.com/r/androiddev/comments/nq87w5/get_notified_for_every_app_purchase/)
+- [Anyone know of a non convoluted way to impliment Play Billing 4 for standard Android Studio apps?](https://www.reddit.com/r/androiddev/comments/nq6pdf/anyone_know_of_a_non_convoluted_way_to_impliment/)
+- [What is your step by step process when making your apps?](https://www.reddit.com/r/androiddev/comments/nq2wuy/what_is_your_step_by_step_process_when_making/)
+- [Introducing HiltBinder: An annotation processing library that automatically generates Dagger Hilt's @Binds methods.](https://www.reddit.com/r/androiddev/comments/nq2j33/introducing_hiltbinder_an_annotation_processing/)
+- [Is "nobody" the name of an android dev tool/app?](https://www.reddit.com/r/androiddev/comments/nq1fwh/is_nobody_the_name_of_an_android_dev_toolapp/)
+- [Simple Compose runtime mental model](https://www.reddit.com/r/androiddev/comments/nq0hri/simple_compose_runtime_mental_model/)
+- [How to compile/run a project using sdk 8-15](https://www.reddit.com/r/androiddev/comments/nptue5/how_to_compilerun_a_project_using_sdk_815/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
