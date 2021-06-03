@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Pangle Ad Network](https://www.reddit.com/r/androiddev/comments/nqd156/pangle_ad_network/)
-- [Harmony Crypto: Multi-process Encrypted SharedPreferences](https://www.reddit.com/r/androiddev/comments/nqcjsi/harmony_crypto_multiprocess_encrypted/)
-- [image picker from gallery for Jetpack compose - Android/Kotlin](https://www.reddit.com/r/androiddev/comments/nq88d4/image_picker_from_gallery_for_jetpack_compose/)
-- [Get notified for every app purchase](https://www.reddit.com/r/androiddev/comments/nq87w5/get_notified_for_every_app_purchase/)
-- [Anyone know of a non convoluted way to impliment Play Billing 4 for standard Android Studio apps?](https://www.reddit.com/r/androiddev/comments/nq6pdf/anyone_know_of_a_non_convoluted_way_to_impliment/)
-- [What is your step by step process when making your apps?](https://www.reddit.com/r/androiddev/comments/nq2wuy/what_is_your_step_by_step_process_when_making/)
-- [Introducing HiltBinder: An annotation processing library that automatically generates Dagger Hilt's @Binds methods.](https://www.reddit.com/r/androiddev/comments/nq2j33/introducing_hiltbinder_an_annotation_processing/)
-- [Is "nobody" the name of an android dev tool/app?](https://www.reddit.com/r/androiddev/comments/nq1fwh/is_nobody_the_name_of_an_android_dev_toolapp/)
-- [Simple Compose runtime mental model](https://www.reddit.com/r/androiddev/comments/nq0hri/simple_compose_runtime_mental_model/)
-- [How to compile/run a project using sdk 8-15](https://www.reddit.com/r/androiddev/comments/nptue5/how_to_compilerun_a_project_using_sdk_815/)
+- [Your suggestions about a recipe app](https://www.reddit.com/r/androiddev/comments/nr3hm4/your_suggestions_about_a_recipe_app/)
+- [Starting in late 2021, when a user opts out of interest-based advertising or ads personalization, the advertising identifier will not be available. You will receive a string of zeros in place of the identifier.](https://www.reddit.com/r/androiddev/comments/nr1dy2/starting_in_late_2021_when_a_user_opts_out_of/)
+- [React native Expo for multiplatform mobile app development - free course from udemy](https://www.reddit.com/r/androiddev/comments/nr0kh7/react_native_expo_for_multiplatform_mobile_app/)
+- [Firestore](https://www.reddit.com/r/androiddev/comments/nqzqby/firestore/)
+- [Compose is the future: my experience, why I love it and tips on getting started](https://www.reddit.com/r/androiddev/comments/nqu478/compose_is_the_future_my_experience_why_i_love_it/)
+- [On Android is there an equivalent to this drag-down-to-dismiss modal view on iOS?](https://www.reddit.com/r/androiddev/comments/nqsozk/on_android_is_there_an_equivalent_to_this/)
+- [Library for translations](https://www.reddit.com/r/androiddev/comments/nqs7uq/library_for_translations/)
+- [Bubble Chat idea](https://www.reddit.com/r/androiddev/comments/nqs709/bubble_chat_idea/)
+- [Buying a Mac M1 with 8gb RAM for android dev is enough?](https://www.reddit.com/r/androiddev/comments/nqqo97/buying_a_mac_m1_with_8gb_ram_for_android_dev_is/)
+- [How to boot the ADT-3 image into AVD?](https://www.reddit.com/r/androiddev/comments/nqpekl/how_to_boot_the_adt3_image_into_avd/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
