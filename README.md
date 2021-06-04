@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Your suggestions about a recipe app](https://www.reddit.com/r/androiddev/comments/nr3hm4/your_suggestions_about_a_recipe_app/)
-- [Starting in late 2021, when a user opts out of interest-based advertising or ads personalization, the advertising identifier will not be available. You will receive a string of zeros in place of the identifier.](https://www.reddit.com/r/androiddev/comments/nr1dy2/starting_in_late_2021_when_a_user_opts_out_of/)
-- [React native Expo for multiplatform mobile app development - free course from udemy](https://www.reddit.com/r/androiddev/comments/nr0kh7/react_native_expo_for_multiplatform_mobile_app/)
-- [Firestore](https://www.reddit.com/r/androiddev/comments/nqzqby/firestore/)
-- [Compose is the future: my experience, why I love it and tips on getting started](https://www.reddit.com/r/androiddev/comments/nqu478/compose_is_the_future_my_experience_why_i_love_it/)
-- [On Android is there an equivalent to this drag-down-to-dismiss modal view on iOS?](https://www.reddit.com/r/androiddev/comments/nqsozk/on_android_is_there_an_equivalent_to_this/)
-- [Library for translations](https://www.reddit.com/r/androiddev/comments/nqs7uq/library_for_translations/)
-- [Bubble Chat idea](https://www.reddit.com/r/androiddev/comments/nqs709/bubble_chat_idea/)
-- [Buying a Mac M1 with 8gb RAM for android dev is enough?](https://www.reddit.com/r/androiddev/comments/nqqo97/buying_a_mac_m1_with_8gb_ram_for_android_dev_is/)
-- [How to boot the ADT-3 image into AVD?](https://www.reddit.com/r/androiddev/comments/nqpekl/how_to_boot_the_adt3_image_into_avd/)
+- [What will you do if your account on Google Play got banned?](https://www.reddit.com/r/androiddev/comments/nrtqfb/what_will_you_do_if_your_account_on_google_play/)
+- [Making an Android game in Golang (includes example)](https://www.reddit.com/r/androiddev/comments/nrrt62/making_an_android_game_in_golang_includes_example/)
+- [Welcome Fruit Ninja 🥝 on Jetpack Compose Desktop 🚀, using Canvas API 🎨](https://www.reddit.com/r/androiddev/comments/nrqzz3/welcome_fruit_ninja_on_jetpack_compose_desktop/)
+- [Account banned from Google Play](https://www.reddit.com/r/androiddev/comments/nrqabz/account_banned_from_google_play/)
+- [How do I figure out the monthly fee I should charge my users for premium access in order to make my app profitable?](https://www.reddit.com/r/androiddev/comments/nrpbrb/how_do_i_figure_out_the_monthly_fee_i_should/)
+- [What is the best way to save app data?](https://www.reddit.com/r/androiddev/comments/nriq9w/what_is_the_best_way_to_save_app_data/)
+- [Android GridLayout with CardView, Image and OnclickListener](https://www.reddit.com/r/androiddev/comments/nri51c/android_gridlayout_with_cardview_image_and/)
+- [WhatsApp folder location changed](https://www.reddit.com/r/androiddev/comments/nrhrj0/whatsapp_folder_location_changed/)
+- [App having FIS_AUTH_ERROR issues for some - we can't replicate in house - need help](https://www.reddit.com/r/androiddev/comments/nrhdda/app_having_fis_auth_error_issues_for_some_we_cant/)
+- [Android Resource Manager tool](https://www.reddit.com/r/androiddev/comments/nrftnd/android_resource_manager_tool/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
