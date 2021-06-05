@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What will you do if your account on Google Play got banned?](https://www.reddit.com/r/androiddev/comments/nrtqfb/what_will_you_do_if_your_account_on_google_play/)
-- [Making an Android game in Golang (includes example)](https://www.reddit.com/r/androiddev/comments/nrrt62/making_an_android_game_in_golang_includes_example/)
-- [Welcome Fruit Ninja 🥝 on Jetpack Compose Desktop 🚀, using Canvas API 🎨](https://www.reddit.com/r/androiddev/comments/nrqzz3/welcome_fruit_ninja_on_jetpack_compose_desktop/)
-- [Account banned from Google Play](https://www.reddit.com/r/androiddev/comments/nrqabz/account_banned_from_google_play/)
-- [How do I figure out the monthly fee I should charge my users for premium access in order to make my app profitable?](https://www.reddit.com/r/androiddev/comments/nrpbrb/how_do_i_figure_out_the_monthly_fee_i_should/)
-- [What is the best way to save app data?](https://www.reddit.com/r/androiddev/comments/nriq9w/what_is_the_best_way_to_save_app_data/)
-- [Android GridLayout with CardView, Image and OnclickListener](https://www.reddit.com/r/androiddev/comments/nri51c/android_gridlayout_with_cardview_image_and/)
-- [WhatsApp folder location changed](https://www.reddit.com/r/androiddev/comments/nrhrj0/whatsapp_folder_location_changed/)
-- [App having FIS_AUTH_ERROR issues for some - we can't replicate in house - need help](https://www.reddit.com/r/androiddev/comments/nrhdda/app_having_fis_auth_error_issues_for_some_we_cant/)
-- [Android Resource Manager tool](https://www.reddit.com/r/androiddev/comments/nrftnd/android_resource_manager_tool/)
+- [Goofle Play Inappropriate Ads Policy](https://www.reddit.com/r/androiddev/comments/nsjerh/goofle_play_inappropriate_ads_policy/)
+- [Emulator is working fine on my Mac M1 but won’t launch the app](https://www.reddit.com/r/androiddev/comments/nshfk3/emulator_is_working_fine_on_my_mac_m1_but_wont/)
+- [SmplrAlarm - An Android convenience library to make setting an alarm way simpler than it is.](https://www.reddit.com/r/androiddev/comments/nsg9nz/smplralarm_an_android_convenience_library_to_make/)
+- [Drawing music sheets](https://www.reddit.com/r/androiddev/comments/nsd3tj/drawing_music_sheets/)
+- [Kotlin](https://www.reddit.com/r/androiddev/comments/nsc6fc/kotlin/)
+- [Simplifying the setup for multi-module navigation with Jetpack Navigation Compose](https://www.reddit.com/r/androiddev/comments/nsbe8o/simplifying_the_setup_for_multimodule_navigation/)
+- [IDE Live coding interview](https://www.reddit.com/r/androiddev/comments/ns9l5y/ide_live_coding_interview/)
+- [APK directory/file structure changes between gradle 4.1.x and 4.2.x](https://www.reddit.com/r/androiddev/comments/ns8g4m/apk_directoryfile_structure_changes_between/)
+- [Synthetic "file system" with or without root](https://www.reddit.com/r/androiddev/comments/ns8571/synthetic_file_system_with_or_without_root/)
+- [TimeRangePicker - A circular time range picker similar to iOS bedtime](https://www.reddit.com/r/androiddev/comments/ns6kig/timerangepicker_a_circular_time_range_picker/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
