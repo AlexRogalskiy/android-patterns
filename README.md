@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Goofle Play Inappropriate Ads Policy](https://www.reddit.com/r/androiddev/comments/nsjerh/goofle_play_inappropriate_ads_policy/)
-- [Emulator is working fine on my Mac M1 but won’t launch the app](https://www.reddit.com/r/androiddev/comments/nshfk3/emulator_is_working_fine_on_my_mac_m1_but_wont/)
-- [SmplrAlarm - An Android convenience library to make setting an alarm way simpler than it is.](https://www.reddit.com/r/androiddev/comments/nsg9nz/smplralarm_an_android_convenience_library_to_make/)
-- [Drawing music sheets](https://www.reddit.com/r/androiddev/comments/nsd3tj/drawing_music_sheets/)
-- [Kotlin](https://www.reddit.com/r/androiddev/comments/nsc6fc/kotlin/)
-- [Simplifying the setup for multi-module navigation with Jetpack Navigation Compose](https://www.reddit.com/r/androiddev/comments/nsbe8o/simplifying_the_setup_for_multimodule_navigation/)
-- [IDE Live coding interview](https://www.reddit.com/r/androiddev/comments/ns9l5y/ide_live_coding_interview/)
-- [APK directory/file structure changes between gradle 4.1.x and 4.2.x](https://www.reddit.com/r/androiddev/comments/ns8g4m/apk_directoryfile_structure_changes_between/)
-- [Synthetic "file system" with or without root](https://www.reddit.com/r/androiddev/comments/ns8571/synthetic_file_system_with_or_without_root/)
-- [TimeRangePicker - A circular time range picker similar to iOS bedtime](https://www.reddit.com/r/androiddev/comments/ns6kig/timerangepicker_a_circular_time_range_picker/)
+- [Will google ban an app thats built with ionic?](https://www.reddit.com/r/androiddev/comments/ntajyz/will_google_ban_an_app_thats_built_with_ionic/)
+- [UI Not Loading From XML File](https://www.reddit.com/r/androiddev/comments/nta85s/ui_not_loading_from_xml_file/)
+- [Some thoughts on minimalistic launchers in general & A selecfion of minimalistic launchers that have wallpaper support.](https://www.reddit.com/r/androiddev/comments/nt7xj1/some_thoughts_on_minimalistic_launchers_in/)
+- [Save Jetpack Compose Canvas to Image](https://www.reddit.com/r/androiddev/comments/nt587s/save_jetpack_compose_canvas_to_image/)
+- [Working on a game inspired by fruit ninja](https://www.reddit.com/r/androiddev/comments/nt3uqy/working_on_a_game_inspired_by_fruit_ninja/)
+- [PROCESS_TEXT Not visible in text selection menu in most apps after Android 11](https://www.reddit.com/r/androiddev/comments/nt2v81/process_text_not_visible_in_text_selection_menu/)
+- [In-depth look at gRPC for Android](https://www.reddit.com/r/androiddev/comments/nt2j6h/indepth_look_at_grpc_for_android/)
+- [Updated Jitpack library publishing tutorial for 2021?](https://www.reddit.com/r/androiddev/comments/nszgex/updated_jitpack_library_publishing_tutorial_for/)
+- [Android CodeView: Highlight search result in List Items](https://www.reddit.com/r/androiddev/comments/nswmyt/android_codeview_highlight_search_result_in_list/)
+- [App Feedback Thread - June 05, 2021](https://www.reddit.com/r/androiddev/comments/nsv8e4/app_feedback_thread_june_05_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
