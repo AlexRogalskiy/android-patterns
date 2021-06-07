@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Will google ban an app thats built with ionic?](https://www.reddit.com/r/androiddev/comments/ntajyz/will_google_ban_an_app_thats_built_with_ionic/)
-- [UI Not Loading From XML File](https://www.reddit.com/r/androiddev/comments/nta85s/ui_not_loading_from_xml_file/)
-- [Some thoughts on minimalistic launchers in general & A selecfion of minimalistic launchers that have wallpaper support.](https://www.reddit.com/r/androiddev/comments/nt7xj1/some_thoughts_on_minimalistic_launchers_in/)
-- [Save Jetpack Compose Canvas to Image](https://www.reddit.com/r/androiddev/comments/nt587s/save_jetpack_compose_canvas_to_image/)
-- [Working on a game inspired by fruit ninja](https://www.reddit.com/r/androiddev/comments/nt3uqy/working_on_a_game_inspired_by_fruit_ninja/)
-- [PROCESS_TEXT Not visible in text selection menu in most apps after Android 11](https://www.reddit.com/r/androiddev/comments/nt2v81/process_text_not_visible_in_text_selection_menu/)
-- [In-depth look at gRPC for Android](https://www.reddit.com/r/androiddev/comments/nt2j6h/indepth_look_at_grpc_for_android/)
-- [Updated Jitpack library publishing tutorial for 2021?](https://www.reddit.com/r/androiddev/comments/nszgex/updated_jitpack_library_publishing_tutorial_for/)
-- [Android CodeView: Highlight search result in List Items](https://www.reddit.com/r/androiddev/comments/nswmyt/android_codeview_highlight_search_result_in_list/)
-- [App Feedback Thread - June 05, 2021](https://www.reddit.com/r/androiddev/comments/nsv8e4/app_feedback_thread_june_05_2021/)
+- [Functional Interfaces (SAM) in Kotlin](https://www.reddit.com/r/androiddev/comments/nu225e/functional_interfaces_sam_in_kotlin/)
+- [Keeping up to date with the Android Topics](https://www.reddit.com/r/androiddev/comments/nu0zvx/keeping_up_to_date_with_the_android_topics/)
+- [How to set up SDL 2 for Android?](https://www.reddit.com/r/androiddev/comments/nu0rj0/how_to_set_up_sdl_2_for_android/)
+- [someone managed to run full windows on these devices (links)](https://www.reddit.com/r/androiddev/comments/ntub87/someone_managed_to_run_full_windows_on_these/)
+- [Architecture questions. I am expected to be in charge of app development coordination...](https://www.reddit.com/r/androiddev/comments/ntsqz7/architecture_questions_i_am_expected_to_be_in/)
+- [No Content Provider error accessing Google Drive URI with targetSdkVersion=30](https://www.reddit.com/r/androiddev/comments/ntq2ye/no_content_provider_error_accessing_google_drive/)
+- [Developer survey for project](https://www.reddit.com/r/androiddev/comments/ntoo37/developer_survey_for_project/)
+- [Good enough to make apps but not good enough to contribute to open source?](https://www.reddit.com/r/androiddev/comments/nto00v/good_enough_to_make_apps_but_not_good_enough_to/)
+- [PSA: Android Studio running great on M1 Apple Silicon](https://www.reddit.com/r/androiddev/comments/ntnwu4/psa_android_studio_running_great_on_m1_apple/)
+- [Advice for the future?](https://www.reddit.com/r/androiddev/comments/ntn3x4/advice_for_the_future/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
