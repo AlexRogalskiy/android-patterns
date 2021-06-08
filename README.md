@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Functional Interfaces (SAM) in Kotlin](https://www.reddit.com/r/androiddev/comments/nu225e/functional_interfaces_sam_in_kotlin/)
-- [Keeping up to date with the Android Topics](https://www.reddit.com/r/androiddev/comments/nu0zvx/keeping_up_to_date_with_the_android_topics/)
-- [How to set up SDL 2 for Android?](https://www.reddit.com/r/androiddev/comments/nu0rj0/how_to_set_up_sdl_2_for_android/)
-- [someone managed to run full windows on these devices (links)](https://www.reddit.com/r/androiddev/comments/ntub87/someone_managed_to_run_full_windows_on_these/)
-- [Architecture questions. I am expected to be in charge of app development coordination...](https://www.reddit.com/r/androiddev/comments/ntsqz7/architecture_questions_i_am_expected_to_be_in/)
-- [No Content Provider error accessing Google Drive URI with targetSdkVersion=30](https://www.reddit.com/r/androiddev/comments/ntq2ye/no_content_provider_error_accessing_google_drive/)
-- [Developer survey for project](https://www.reddit.com/r/androiddev/comments/ntoo37/developer_survey_for_project/)
-- [Good enough to make apps but not good enough to contribute to open source?](https://www.reddit.com/r/androiddev/comments/nto00v/good_enough_to_make_apps_but_not_good_enough_to/)
-- [PSA: Android Studio running great on M1 Apple Silicon](https://www.reddit.com/r/androiddev/comments/ntnwu4/psa_android_studio_running_great_on_m1_apple/)
-- [Advice for the future?](https://www.reddit.com/r/androiddev/comments/ntn3x4/advice_for_the_future/)
+- [How to implement in app update with FLEXIBLE or IMMEDIATE update](https://www.reddit.com/r/androiddev/comments/nutpgr/how_to_implement_in_app_update_with_flexible_or/)
+- [Android Studio 2020.1.1 Bumblebee Canary 2 Released](https://www.reddit.com/r/androiddev/comments/nut40k/android_studio_202011_bumblebee_canary_2_released/)
+- [How to opt-in to 15% cut below 1m in revenue on google play?](https://www.reddit.com/r/androiddev/comments/nurnyb/how_to_optin_to_15_cut_below_1m_in_revenue_on/)
+- [June update seems to break custom fonts in widgets](https://www.reddit.com/r/androiddev/comments/nuqtpl/june_update_seems_to_break_custom_fonts_in_widgets/)
+- [Multiple back stacks. A deep dive | by Ian Lake](https://www.reddit.com/r/androiddev/comments/nuq0f4/multiple_back_stacks_a_deep_dive_by_ian_lake/)
+- [Lookng for app devs needing beta-testers..](https://www.reddit.com/r/androiddev/comments/nuna3n/lookng_for_app_devs_needing_betatesters/)
+- [MutableLiveData/ViewModel - Saving after multiple sources?](https://www.reddit.com/r/androiddev/comments/nun346/mutablelivedataviewmodel_saving_after_multiple/)
+- [Navigating in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/num1lc/navigating_in_jetpack_compose/)
+- [Android Tutorials: Mobile Touch Scripts](https://www.reddit.com/r/androiddev/comments/nuj64a/android_tutorials_mobile_touch_scripts/)
+- [Speech-to-Text from a File](https://www.reddit.com/r/androiddev/comments/nuge47/speechtotext_from_a_file/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
