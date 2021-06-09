@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to implement in app update with FLEXIBLE or IMMEDIATE update](https://www.reddit.com/r/androiddev/comments/nutpgr/how_to_implement_in_app_update_with_flexible_or/)
-- [Android Studio 2020.1.1 Bumblebee Canary 2 Released](https://www.reddit.com/r/androiddev/comments/nut40k/android_studio_202011_bumblebee_canary_2_released/)
-- [How to opt-in to 15% cut below 1m in revenue on google play?](https://www.reddit.com/r/androiddev/comments/nurnyb/how_to_optin_to_15_cut_below_1m_in_revenue_on/)
-- [June update seems to break custom fonts in widgets](https://www.reddit.com/r/androiddev/comments/nuqtpl/june_update_seems_to_break_custom_fonts_in_widgets/)
-- [Multiple back stacks. A deep dive | by Ian Lake](https://www.reddit.com/r/androiddev/comments/nuq0f4/multiple_back_stacks_a_deep_dive_by_ian_lake/)
-- [Lookng for app devs needing beta-testers..](https://www.reddit.com/r/androiddev/comments/nuna3n/lookng_for_app_devs_needing_betatesters/)
-- [MutableLiveData/ViewModel - Saving after multiple sources?](https://www.reddit.com/r/androiddev/comments/nun346/mutablelivedataviewmodel_saving_after_multiple/)
-- [Navigating in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/num1lc/navigating_in_jetpack_compose/)
-- [Android Tutorials: Mobile Touch Scripts](https://www.reddit.com/r/androiddev/comments/nuj64a/android_tutorials_mobile_touch_scripts/)
-- [Speech-to-Text from a File](https://www.reddit.com/r/androiddev/comments/nuge47/speechtotext_from_a_file/)
+- [Handling the time zone issue in Material Date Picker & Date Range Picker](https://www.reddit.com/r/androiddev/comments/nvkqee/handling_the_time_zone_issue_in_material_date/)
+- [nfc tag bluetooth speaker pairing](https://www.reddit.com/r/androiddev/comments/nvj0x4/nfc_tag_bluetooth_speaker_pairing/)
+- [Can't install Intel HAXM, please help!](https://www.reddit.com/r/androiddev/comments/nvg0r1/cant_install_intel_haxm_please_help/)
+- [Rust/C++ interop in the Android Platform](https://www.reddit.com/r/androiddev/comments/nvex12/rustc_interop_in_the_android_platform/)
+- [This sub is pointless if you can't ask general questions about Android programming .](https://www.reddit.com/r/androiddev/comments/nvdyc7/this_sub_is_pointless_if_you_cant_ask_general/)
+- [Difference in implementation of VPN on Android vs iOS](https://www.reddit.com/r/androiddev/comments/nvdjug/difference_in_implementation_of_vpn_on_android_vs/)
+- [Jetpack compose and viewmodel](https://www.reddit.com/r/androiddev/comments/nvclry/jetpack_compose_and_viewmodel/)
+- [Writing Firebase Firestore Rules](https://www.reddit.com/r/androiddev/comments/nvbodu/writing_firebase_firestore_rules/)
+- [Room vs Services vs SharedPreferences? Which one to choose for a Timer App?](https://www.reddit.com/r/androiddev/comments/nvb5xj/room_vs_services_vs_sharedpreferences_which_one/)
+- ["compileSdkVersion vs. targetSdkVersion - what's the difference?" - new video on my YouTube channel :)](https://www.reddit.com/r/androiddev/comments/nvay3e/compilesdkversion_vs_targetsdkversion_whats_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
