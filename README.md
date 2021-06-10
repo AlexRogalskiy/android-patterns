@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Handling the time zone issue in Material Date Picker & Date Range Picker](https://www.reddit.com/r/androiddev/comments/nvkqee/handling_the_time_zone_issue_in_material_date/)
-- [nfc tag bluetooth speaker pairing](https://www.reddit.com/r/androiddev/comments/nvj0x4/nfc_tag_bluetooth_speaker_pairing/)
-- [Can't install Intel HAXM, please help!](https://www.reddit.com/r/androiddev/comments/nvg0r1/cant_install_intel_haxm_please_help/)
-- [Rust/C++ interop in the Android Platform](https://www.reddit.com/r/androiddev/comments/nvex12/rustc_interop_in_the_android_platform/)
-- [This sub is pointless if you can't ask general questions about Android programming .](https://www.reddit.com/r/androiddev/comments/nvdyc7/this_sub_is_pointless_if_you_cant_ask_general/)
-- [Difference in implementation of VPN on Android vs iOS](https://www.reddit.com/r/androiddev/comments/nvdjug/difference_in_implementation_of_vpn_on_android_vs/)
-- [Jetpack compose and viewmodel](https://www.reddit.com/r/androiddev/comments/nvclry/jetpack_compose_and_viewmodel/)
-- [Writing Firebase Firestore Rules](https://www.reddit.com/r/androiddev/comments/nvbodu/writing_firebase_firestore_rules/)
-- [Room vs Services vs SharedPreferences? Which one to choose for a Timer App?](https://www.reddit.com/r/androiddev/comments/nvb5xj/room_vs_services_vs_sharedpreferences_which_one/)
-- ["compileSdkVersion vs. targetSdkVersion - what's the difference?" - new video on my YouTube channel :)](https://www.reddit.com/r/androiddev/comments/nvay3e/compilesdkversion_vs_targetsdkversion_whats_the/)
+- [Test SIM Card from Google Repair Depot](https://www.reddit.com/r/androiddev/comments/nw8tlw/test_sim_card_from_google_repair_depot/)
+- [Developing an Android app from iOS](https://www.reddit.com/r/androiddev/comments/nw5pnl/developing_an_android_app_from_ios/)
+- [Any good ads platform without SDK to promote Android mobile app besides Google Ads?](https://www.reddit.com/r/androiddev/comments/nw4m3w/any_good_ads_platform_without_sdk_to_promote/)
+- [How to query my app feed based on location?](https://www.reddit.com/r/androiddev/comments/nw4du6/how_to_query_my_app_feed_based_on_location/)
+- [Why would Google suspend a digital scales app that works?](https://www.reddit.com/r/androiddev/comments/nw35bw/why_would_google_suspend_a_digital_scales_app/)
+- [Is it possible to make a custom navigation•bar app that doesn't zoom•in while using triple•tap magnification•gestures?](https://www.reddit.com/r/androiddev/comments/nw1wd6/is_it_possible_to_make_a_custom_navigationbar_app/)
+- [Have any of you been contacted randomly to sell your apps, and how did it go? Place was apps-sbd](https://www.reddit.com/r/androiddev/comments/nvzhmq/have_any_of_you_been_contacted_randomly_to_sell/)
+- [Love the new Splash window for Bumblebee!](https://www.reddit.com/r/androiddev/comments/nvz5xd/love_the_new_splash_window_for_bumblebee/)
+- [How to manage image resources in Android?](https://www.reddit.com/r/androiddev/comments/nvvr3l/how_to_manage_image_resources_in_android/)
+- [How difficult and time consuming will It be to change the AOSP Window Manager?](https://www.reddit.com/r/androiddev/comments/nvuz8c/how_difficult_and_time_consuming_will_it_be_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
