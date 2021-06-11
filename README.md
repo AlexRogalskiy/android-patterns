@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Test SIM Card from Google Repair Depot](https://www.reddit.com/r/androiddev/comments/nw8tlw/test_sim_card_from_google_repair_depot/)
-- [Developing an Android app from iOS](https://www.reddit.com/r/androiddev/comments/nw5pnl/developing_an_android_app_from_ios/)
-- [Any good ads platform without SDK to promote Android mobile app besides Google Ads?](https://www.reddit.com/r/androiddev/comments/nw4m3w/any_good_ads_platform_without_sdk_to_promote/)
-- [How to query my app feed based on location?](https://www.reddit.com/r/androiddev/comments/nw4du6/how_to_query_my_app_feed_based_on_location/)
-- [Why would Google suspend a digital scales app that works?](https://www.reddit.com/r/androiddev/comments/nw35bw/why_would_google_suspend_a_digital_scales_app/)
-- [Is it possible to make a custom navigation•bar app that doesn't zoom•in while using triple•tap magnification•gestures?](https://www.reddit.com/r/androiddev/comments/nw1wd6/is_it_possible_to_make_a_custom_navigationbar_app/)
-- [Have any of you been contacted randomly to sell your apps, and how did it go? Place was apps-sbd](https://www.reddit.com/r/androiddev/comments/nvzhmq/have_any_of_you_been_contacted_randomly_to_sell/)
-- [Love the new Splash window for Bumblebee!](https://www.reddit.com/r/androiddev/comments/nvz5xd/love_the_new_splash_window_for_bumblebee/)
-- [How to manage image resources in Android?](https://www.reddit.com/r/androiddev/comments/nvvr3l/how_to_manage_image_resources_in_android/)
-- [How difficult and time consuming will It be to change the AOSP Window Manager?](https://www.reddit.com/r/androiddev/comments/nvuz8c/how_difficult_and_time_consuming_will_it_be_to/)
+- [Navigate from Jetpack Compose to Fragment and from Fragment to Jetpack Compose Screen](https://www.reddit.com/r/androiddev/comments/nx3w1t/navigate_from_jetpack_compose_to_fragment_and/)
+- [Issues uploading game](https://www.reddit.com/r/androiddev/comments/nx2wkz/issues_uploading_game/)
+- [HELP !!! AR App with Arcore Kotlin not possible?😱🤔](https://www.reddit.com/r/androiddev/comments/nx0crb/help_ar_app_with_arcore_kotlin_not_possible/)
+- [Android development advanced book](https://www.reddit.com/r/androiddev/comments/nwy7yh/android_development_advanced_book/)
+- [App suspended with the non-existent appeal process](https://www.reddit.com/r/androiddev/comments/nwxe51/app_suspended_with_the_nonexistent_appeal_process/)
+- [Help! Google service fee for service marketplace apps.](https://www.reddit.com/r/androiddev/comments/nwwrle/help_google_service_fee_for_service_marketplace/)
+- [Create an application CoroutineScope using Hilt](https://www.reddit.com/r/androiddev/comments/nwu46d/create_an_application_coroutinescope_using_hilt/)
+- [A simple Android Tag EditText](https://www.reddit.com/r/androiddev/comments/nwt9bp/a_simple_android_tag_edittext/)
+- [Questionnaire from Google on OEM battery savers killing apps](https://www.reddit.com/r/androiddev/comments/nwsjm9/questionnaire_from_google_on_oem_battery_savers/)
+- [Help us improve Android Virtual Devices for automated testing!](https://www.reddit.com/r/androiddev/comments/nws7el/help_us_improve_android_virtual_devices_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
