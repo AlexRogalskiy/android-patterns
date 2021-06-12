@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Navigate from Jetpack Compose to Fragment and from Fragment to Jetpack Compose Screen](https://www.reddit.com/r/androiddev/comments/nx3w1t/navigate_from_jetpack_compose_to_fragment_and/)
-- [Issues uploading game](https://www.reddit.com/r/androiddev/comments/nx2wkz/issues_uploading_game/)
-- [HELP !!! AR App with Arcore Kotlin not possible?😱🤔](https://www.reddit.com/r/androiddev/comments/nx0crb/help_ar_app_with_arcore_kotlin_not_possible/)
-- [Android development advanced book](https://www.reddit.com/r/androiddev/comments/nwy7yh/android_development_advanced_book/)
-- [App suspended with the non-existent appeal process](https://www.reddit.com/r/androiddev/comments/nwxe51/app_suspended_with_the_nonexistent_appeal_process/)
-- [Help! Google service fee for service marketplace apps.](https://www.reddit.com/r/androiddev/comments/nwwrle/help_google_service_fee_for_service_marketplace/)
-- [Create an application CoroutineScope using Hilt](https://www.reddit.com/r/androiddev/comments/nwu46d/create_an_application_coroutinescope_using_hilt/)
-- [A simple Android Tag EditText](https://www.reddit.com/r/androiddev/comments/nwt9bp/a_simple_android_tag_edittext/)
-- [Questionnaire from Google on OEM battery savers killing apps](https://www.reddit.com/r/androiddev/comments/nwsjm9/questionnaire_from_google_on_oem_battery_savers/)
-- [Help us improve Android Virtual Devices for automated testing!](https://www.reddit.com/r/androiddev/comments/nws7el/help_us_improve_android_virtual_devices_for/)
+- [Virtual Cam on Android](https://www.reddit.com/r/androiddev/comments/nxv2ek/virtual_cam_on_android/)
+- [How can I translate Android's Developer Guides into different languages?](https://www.reddit.com/r/androiddev/comments/nxs5g7/how_can_i_translate_androids_developer_guides/)
+- [💥 The Story of My First A-ha Moment With Jetpack Compose](https://www.reddit.com/r/androiddev/comments/nxq58u/the_story_of_my_first_aha_moment_with_jetpack/)
+- [Android Project Error](https://www.reddit.com/r/androiddev/comments/nxp4ap/android_project_error/)
+- [SquircleView - A library with support for Squircle buttons, images and layouts](https://www.reddit.com/r/androiddev/comments/nxnl0g/squircleview_a_library_with_support_for_squircle/)
+- [Easy way to create a tarot app](https://www.reddit.com/r/androiddev/comments/nxmcvn/easy_way_to_create_a_tarot_app/)
+- [Backend/DevOps suggestion for a Flutter App](https://www.reddit.com/r/androiddev/comments/nxm25y/backenddevops_suggestion_for_a_flutter_app/)
+- [Creating mobile app that can allow login with phone number or email](https://www.reddit.com/r/androiddev/comments/nxjg8r/creating_mobile_app_that_can_allow_login_with/)
+- [local stored lyrics on mobile app counts as copyright infringement?](https://www.reddit.com/r/androiddev/comments/nxgssb/local_stored_lyrics_on_mobile_app_counts_as/)
+- [Is there an easier way to designing frontend XML](https://www.reddit.com/r/androiddev/comments/nxgohl/is_there_an_easier_way_to_designing_frontend_xml/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
