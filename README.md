@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Virtual Cam on Android](https://www.reddit.com/r/androiddev/comments/nxv2ek/virtual_cam_on_android/)
-- [How can I translate Android's Developer Guides into different languages?](https://www.reddit.com/r/androiddev/comments/nxs5g7/how_can_i_translate_androids_developer_guides/)
-- [💥 The Story of My First A-ha Moment With Jetpack Compose](https://www.reddit.com/r/androiddev/comments/nxq58u/the_story_of_my_first_aha_moment_with_jetpack/)
-- [Android Project Error](https://www.reddit.com/r/androiddev/comments/nxp4ap/android_project_error/)
-- [SquircleView - A library with support for Squircle buttons, images and layouts](https://www.reddit.com/r/androiddev/comments/nxnl0g/squircleview_a_library_with_support_for_squircle/)
-- [Easy way to create a tarot app](https://www.reddit.com/r/androiddev/comments/nxmcvn/easy_way_to_create_a_tarot_app/)
-- [Backend/DevOps suggestion for a Flutter App](https://www.reddit.com/r/androiddev/comments/nxm25y/backenddevops_suggestion_for_a_flutter_app/)
-- [Creating mobile app that can allow login with phone number or email](https://www.reddit.com/r/androiddev/comments/nxjg8r/creating_mobile_app_that_can_allow_login_with/)
-- [local stored lyrics on mobile app counts as copyright infringement?](https://www.reddit.com/r/androiddev/comments/nxgssb/local_stored_lyrics_on_mobile_app_counts_as/)
-- [Is there an easier way to designing frontend XML](https://www.reddit.com/r/androiddev/comments/nxgohl/is_there_an_easier_way_to_designing_frontend_xml/)
+- [Android Emulator and Intel HAXM issues](https://www.reddit.com/r/androiddev/comments/nyka7h/android_emulator_and_intel_haxm_issues/)
+- [Entry-Level Android Dev or something else?](https://www.reddit.com/r/androiddev/comments/nyjlne/entrylevel_android_dev_or_something_else/)
+- [It's possible to put a fragment into a RecyclerView ?](https://www.reddit.com/r/androiddev/comments/nyj9ra/its_possible_to_put_a_fragment_into_a_recyclerview/)
+- [How to implement ListenableWorker for an async task?](https://www.reddit.com/r/androiddev/comments/nyh8pr/how_to_implement_listenableworker_for_an_async/)
+- [Should one get a 256GB or a 512GB ssd for a new m1 macbook for Android development?](https://www.reddit.com/r/androiddev/comments/nyh6md/should_one_get_a_256gb_or_a_512gb_ssd_for_a_new/)
+- [What are your must have libraries or frameworks for every new project?](https://www.reddit.com/r/androiddev/comments/nyg5rm/what_are_your_must_have_libraries_or_frameworks/)
+- [RecyclerView view glitching with viewbinding](https://www.reddit.com/r/androiddev/comments/nyegk5/recyclerview_view_glitching_with_viewbinding/)
+- [Translation services that do a good job with Android apps?](https://www.reddit.com/r/androiddev/comments/nycn0q/translation_services_that_do_a_good_job_with/)
+- [Observable loading view?](https://www.reddit.com/r/androiddev/comments/nybwdh/observable_loading_view/)
+- [How to Show an Activity on Lock Screen instead of a Notification](https://www.reddit.com/r/androiddev/comments/ny81y4/how_to_show_an_activity_on_lock_screen_instead_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
