@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Emulator and Intel HAXM issues](https://www.reddit.com/r/androiddev/comments/nyka7h/android_emulator_and_intel_haxm_issues/)
-- [Entry-Level Android Dev or something else?](https://www.reddit.com/r/androiddev/comments/nyjlne/entrylevel_android_dev_or_something_else/)
-- [It's possible to put a fragment into a RecyclerView ?](https://www.reddit.com/r/androiddev/comments/nyj9ra/its_possible_to_put_a_fragment_into_a_recyclerview/)
-- [How to implement ListenableWorker for an async task?](https://www.reddit.com/r/androiddev/comments/nyh8pr/how_to_implement_listenableworker_for_an_async/)
-- [Should one get a 256GB or a 512GB ssd for a new m1 macbook for Android development?](https://www.reddit.com/r/androiddev/comments/nyh6md/should_one_get_a_256gb_or_a_512gb_ssd_for_a_new/)
-- [What are your must have libraries or frameworks for every new project?](https://www.reddit.com/r/androiddev/comments/nyg5rm/what_are_your_must_have_libraries_or_frameworks/)
-- [RecyclerView view glitching with viewbinding](https://www.reddit.com/r/androiddev/comments/nyegk5/recyclerview_view_glitching_with_viewbinding/)
-- [Translation services that do a good job with Android apps?](https://www.reddit.com/r/androiddev/comments/nycn0q/translation_services_that_do_a_good_job_with/)
-- [Observable loading view?](https://www.reddit.com/r/androiddev/comments/nybwdh/observable_loading_view/)
-- [How to Show an Activity on Lock Screen instead of a Notification](https://www.reddit.com/r/androiddev/comments/ny81y4/how_to_show_an_activity_on_lock_screen_instead_of/)
+- [Guide to upgrade app from Android Wear to Wear OS?](https://www.reddit.com/r/androiddev/comments/nz29q3/guide_to_upgrade_app_from_android_wear_to_wear_os/)
+- [Aurora - Building modern, elegant and fast Compose Desktop applications](https://www.reddit.com/r/androiddev/comments/nz1pyn/aurora_building_modern_elegant_and_fast_compose/)
+- [Career jump, back to being android dev again.](https://www.reddit.com/r/androiddev/comments/nz1fr6/career_jump_back_to_being_android_dev_again/)
+- [Notification help](https://www.reddit.com/r/androiddev/comments/nz1dyz/notification_help/)
+- [Confused on getting started with android development.Help me please.](https://www.reddit.com/r/androiddev/comments/nyzpsq/confused_on_getting_started_with_android/)
+- [How do you progress as a dev after your first few apps?](https://www.reddit.com/r/androiddev/comments/nyywj3/how_do_you_progress_as_a_dev_after_your_first_few/)
+- [What is a good starting point for Android Fragments ?](https://www.reddit.com/r/androiddev/comments/nyxm6t/what_is_a_good_starting_point_for_android/)
+- [is there an API to know if a Composable is currently visible on the screen?](https://www.reddit.com/r/androiddev/comments/nyxjy7/is_there_an_api_to_know_if_a_composable_is/)
+- [How can I extract a samsung system img file?](https://www.reddit.com/r/androiddev/comments/nyx13y/how_can_i_extract_a_samsung_system_img_file/)
+- [Navigator Compose - A navigation library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/nyw8vx/navigator_compose_a_navigation_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
