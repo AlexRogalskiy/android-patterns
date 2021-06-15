@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Guide to upgrade app from Android Wear to Wear OS?](https://www.reddit.com/r/androiddev/comments/nz29q3/guide_to_upgrade_app_from_android_wear_to_wear_os/)
-- [Aurora - Building modern, elegant and fast Compose Desktop applications](https://www.reddit.com/r/androiddev/comments/nz1pyn/aurora_building_modern_elegant_and_fast_compose/)
-- [Career jump, back to being android dev again.](https://www.reddit.com/r/androiddev/comments/nz1fr6/career_jump_back_to_being_android_dev_again/)
-- [Notification help](https://www.reddit.com/r/androiddev/comments/nz1dyz/notification_help/)
-- [Confused on getting started with android development.Help me please.](https://www.reddit.com/r/androiddev/comments/nyzpsq/confused_on_getting_started_with_android/)
-- [How do you progress as a dev after your first few apps?](https://www.reddit.com/r/androiddev/comments/nyywj3/how_do_you_progress_as_a_dev_after_your_first_few/)
-- [What is a good starting point for Android Fragments ?](https://www.reddit.com/r/androiddev/comments/nyxm6t/what_is_a_good_starting_point_for_android/)
-- [is there an API to know if a Composable is currently visible on the screen?](https://www.reddit.com/r/androiddev/comments/nyxjy7/is_there_an_api_to_know_if_a_composable_is/)
-- [How can I extract a samsung system img file?](https://www.reddit.com/r/androiddev/comments/nyx13y/how_can_i_extract_a_samsung_system_img_file/)
-- [Navigator Compose - A navigation library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/nyw8vx/navigator_compose_a_navigation_library_for/)
+- [So about Google requiring me to make public my home address to sell my app for a fixed price...](https://www.reddit.com/r/androiddev/comments/o02rrm/so_about_google_requiring_me_to_make_public_my/)
+- [Need help building a Specialized Tablet/ MP4 player](https://www.reddit.com/r/androiddev/comments/o02ojz/need_help_building_a_specialized_tablet_mp4_player/)
+- [am i the only one experiencing this? after may 19 my ANR rate on google play console doubled. plus when i want to view the anr all of them has this warning "Stack trace not available" how can i fix this if i dont know what it is? my app anr rate is now twice the "bad behaviour threshold".](https://www.reddit.com/r/androiddev/comments/o02kgy/am_i_the_only_one_experiencing_this_after_may_19/)
+- [am i the only one experiencing this? after may 19 my ANR rate on google play console doubled. plus when i want to view the anr all of them has this warning "Stack trace not available" how can i fix this if i dont know what it is? my app anr rate is now twice the "bad behaviour threshold".](https://www.reddit.com/r/androiddev/comments/o02kgx/am_i_the_only_one_experiencing_this_after_may_19/)
+- [How to get in contact with Google Play store to challenge an app rejection](https://www.reddit.com/r/androiddev/comments/nzzax4/how_to_get_in_contact_with_google_play_store_to/)
+- [Awesome Book! Someone recommend me another!](https://www.reddit.com/r/androiddev/comments/nzwif8/awesome_book_someone_recommend_me_another/)
+- [Nearby Places](https://www.reddit.com/r/androiddev/comments/nzw2rt/nearby_places/)
+- [Should I post my android application's source code on github?](https://www.reddit.com/r/androiddev/comments/nzv9q9/should_i_post_my_android_applications_source_code/)
+- [No more SMS & Call Log permissions, Now What ?Google restricting the apps that access unnecessary SMS, Call Logs permission groups from the users and 80 percent rejection rate for applications?](https://www.reddit.com/r/androiddev/comments/nzug55/no_more_sms_call_log_permissions_now_what_google/)
+- [Screen Tracker is a library that helps you identify Activites and Fragments much easier at runtime](https://www.reddit.com/r/androiddev/comments/nzrky8/screen_tracker_is_a_library_that_helps_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
