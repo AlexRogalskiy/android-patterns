@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [So about Google requiring me to make public my home address to sell my app for a fixed price...](https://www.reddit.com/r/androiddev/comments/o02rrm/so_about_google_requiring_me_to_make_public_my/)
-- [Need help building a Specialized Tablet/ MP4 player](https://www.reddit.com/r/androiddev/comments/o02ojz/need_help_building_a_specialized_tablet_mp4_player/)
-- [am i the only one experiencing this? after may 19 my ANR rate on google play console doubled. plus when i want to view the anr all of them has this warning "Stack trace not available" how can i fix this if i dont know what it is? my app anr rate is now twice the "bad behaviour threshold".](https://www.reddit.com/r/androiddev/comments/o02kgy/am_i_the_only_one_experiencing_this_after_may_19/)
-- [am i the only one experiencing this? after may 19 my ANR rate on google play console doubled. plus when i want to view the anr all of them has this warning "Stack trace not available" how can i fix this if i dont know what it is? my app anr rate is now twice the "bad behaviour threshold".](https://www.reddit.com/r/androiddev/comments/o02kgx/am_i_the_only_one_experiencing_this_after_may_19/)
-- [How to get in contact with Google Play store to challenge an app rejection](https://www.reddit.com/r/androiddev/comments/nzzax4/how_to_get_in_contact_with_google_play_store_to/)
-- [Awesome Book! Someone recommend me another!](https://www.reddit.com/r/androiddev/comments/nzwif8/awesome_book_someone_recommend_me_another/)
-- [Nearby Places](https://www.reddit.com/r/androiddev/comments/nzw2rt/nearby_places/)
-- [Should I post my android application's source code on github?](https://www.reddit.com/r/androiddev/comments/nzv9q9/should_i_post_my_android_applications_source_code/)
-- [No more SMS & Call Log permissions, Now What ?Google restricting the apps that access unnecessary SMS, Call Logs permission groups from the users and 80 percent rejection rate for applications?](https://www.reddit.com/r/androiddev/comments/nzug55/no_more_sms_call_log_permissions_now_what_google/)
-- [Screen Tracker is a library that helps you identify Activites and Fragments much easier at runtime](https://www.reddit.com/r/androiddev/comments/nzrky8/screen_tracker_is_a_library_that_helps_you/)
+- [Sites para enviar seu aplicativo para iOS](https://www.reddit.com/r/androiddev/comments/o0t0rl/sites_para_enviar_seu_aplicativo_para_ios/)
+- [searching tool to access android RAM from pc (like Cheat Engine)](https://www.reddit.com/r/androiddev/comments/o0r7lk/searching_tool_to_access_android_ram_from_pc_like/)
+- [Why should one upgrade to newer android gradle version?](https://www.reddit.com/r/androiddev/comments/o0oz38/why_should_one_upgrade_to_newer_android_gradle/)
+- [Google release AppSearch: search engine library for Android (offline - on device)](https://www.reddit.com/r/androiddev/comments/o0mlja/google_release_appsearch_search_engine_library/)
+- [I make an Android base Webview App to read Medium unlimited](https://www.reddit.com/r/androiddev/comments/o0mfdk/i_make_an_android_base_webview_app_to_read_medium/)
+- [Multi-tenancy support for Android SDKs](https://www.reddit.com/r/androiddev/comments/o0l5zj/multitenancy_support_for_android_sdks/)
+- [Is a career in android development possible after 24?](https://www.reddit.com/r/androiddev/comments/o0ke6h/is_a_career_in_android_development_possible_after/)
+- [DashedView Library: Easily create views with a background of repeating dashes](https://www.reddit.com/r/androiddev/comments/o0jmvq/dashedview_library_easily_create_views_with_a/)
+- [The UK's Competition and Markets Authority (CMA) (CMA) has confirmed it is investigating Apple & Google and looking for feedback from developers](https://www.reddit.com/r/androiddev/comments/o0jld0/the_uks_competition_and_markets_authority_cma_cma/)
+- [Why are these screenshots just a waste of time? (Until you have at least 4000 downloads per month)](https://www.reddit.com/r/androiddev/comments/o0jl9i/why_are_these_screenshots_just_a_waste_of_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
