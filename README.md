@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sites para enviar seu aplicativo para iOS](https://www.reddit.com/r/androiddev/comments/o0t0rl/sites_para_enviar_seu_aplicativo_para_ios/)
-- [searching tool to access android RAM from pc (like Cheat Engine)](https://www.reddit.com/r/androiddev/comments/o0r7lk/searching_tool_to_access_android_ram_from_pc_like/)
-- [Why should one upgrade to newer android gradle version?](https://www.reddit.com/r/androiddev/comments/o0oz38/why_should_one_upgrade_to_newer_android_gradle/)
-- [Google release AppSearch: search engine library for Android (offline - on device)](https://www.reddit.com/r/androiddev/comments/o0mlja/google_release_appsearch_search_engine_library/)
-- [I make an Android base Webview App to read Medium unlimited](https://www.reddit.com/r/androiddev/comments/o0mfdk/i_make_an_android_base_webview_app_to_read_medium/)
-- [Multi-tenancy support for Android SDKs](https://www.reddit.com/r/androiddev/comments/o0l5zj/multitenancy_support_for_android_sdks/)
-- [Is a career in android development possible after 24?](https://www.reddit.com/r/androiddev/comments/o0ke6h/is_a_career_in_android_development_possible_after/)
-- [DashedView Library: Easily create views with a background of repeating dashes](https://www.reddit.com/r/androiddev/comments/o0jmvq/dashedview_library_easily_create_views_with_a/)
-- [The UK's Competition and Markets Authority (CMA) (CMA) has confirmed it is investigating Apple & Google and looking for feedback from developers](https://www.reddit.com/r/androiddev/comments/o0jld0/the_uks_competition_and_markets_authority_cma_cma/)
-- [Why are these screenshots just a waste of time? (Until you have at least 4000 downloads per month)](https://www.reddit.com/r/androiddev/comments/o0jl9i/why_are_these_screenshots_just_a_waste_of_time/)
+- [Do you guys always use Material Design in your projects?](https://www.reddit.com/r/androiddev/comments/o1kctr/do_you_guys_always_use_material_design_in_your/)
+- [MVC | Model View Controller | Android MVC Login Example with Validation](https://www.reddit.com/r/androiddev/comments/o1kcme/mvc_model_view_controller_android_mvc_login/)
+- [What the minimum SDK version do you guys use?](https://www.reddit.com/r/androiddev/comments/o1kbq6/what_the_minimum_sdk_version_do_you_guys_use/)
+- [Android RecyclerView with EditText Example + Expense sum calculation](https://www.reddit.com/r/androiddev/comments/o1kbhd/android_recyclerview_with_edittext_example/)
+- [Compose tests can now be run on Robolectric](https://www.reddit.com/r/androiddev/comments/o1ioif/compose_tests_can_now_be_run_on_robolectric/)
+- [Google Play's automatic sales tax settings](https://www.reddit.com/r/androiddev/comments/o1gvtu/google_plays_automatic_sales_tax_settings/)
+- [Android Distribution Chart as of 16.06.2021.](https://www.reddit.com/r/androiddev/comments/o1dool/android_distribution_chart_as_of_16062021/)
+- [Do you guys feel like Jetpack Paging3 library messes with your Architecture a lot?](https://www.reddit.com/r/androiddev/comments/o1da2f/do_you_guys_feel_like_jetpack_paging3_library/)
+- [Best Mediation for Android app ??](https://www.reddit.com/r/androiddev/comments/o1casd/best_mediation_for_android_app/)
+- [Marketing Tips in the Games Industry](https://www.reddit.com/r/androiddev/comments/o1axy0/marketing_tips_in_the_games_industry/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
