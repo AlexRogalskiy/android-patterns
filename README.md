@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do you guys always use Material Design in your projects?](https://www.reddit.com/r/androiddev/comments/o1kctr/do_you_guys_always_use_material_design_in_your/)
-- [MVC | Model View Controller | Android MVC Login Example with Validation](https://www.reddit.com/r/androiddev/comments/o1kcme/mvc_model_view_controller_android_mvc_login/)
-- [What the minimum SDK version do you guys use?](https://www.reddit.com/r/androiddev/comments/o1kbq6/what_the_minimum_sdk_version_do_you_guys_use/)
-- [Android RecyclerView with EditText Example + Expense sum calculation](https://www.reddit.com/r/androiddev/comments/o1kbhd/android_recyclerview_with_edittext_example/)
-- [Compose tests can now be run on Robolectric](https://www.reddit.com/r/androiddev/comments/o1ioif/compose_tests_can_now_be_run_on_robolectric/)
-- [Google Play's automatic sales tax settings](https://www.reddit.com/r/androiddev/comments/o1gvtu/google_plays_automatic_sales_tax_settings/)
-- [Android Distribution Chart as of 16.06.2021.](https://www.reddit.com/r/androiddev/comments/o1dool/android_distribution_chart_as_of_16062021/)
-- [Do you guys feel like Jetpack Paging3 library messes with your Architecture a lot?](https://www.reddit.com/r/androiddev/comments/o1da2f/do_you_guys_feel_like_jetpack_paging3_library/)
-- [Best Mediation for Android app ??](https://www.reddit.com/r/androiddev/comments/o1casd/best_mediation_for_android_app/)
-- [Marketing Tips in the Games Industry](https://www.reddit.com/r/androiddev/comments/o1axy0/marketing_tips_in_the_games_industry/)
+- [Splitting strings to get correct tree](https://www.reddit.com/r/androiddev/comments/o2d0cs/splitting_strings_to_get_correct_tree/)
+- [Hello devs!](https://www.reddit.com/r/androiddev/comments/o2a1hx/hello_devs/)
+- [Incentivize ad viewing question](https://www.reddit.com/r/androiddev/comments/o25yna/incentivize_ad_viewing_question/)
+- [Announcing requireKTX - zsmb.co](https://www.reddit.com/r/androiddev/comments/o24yep/announcing_requirektx_zsmbco/)
+- [What does one do about Sceneform and ARCore?](https://www.reddit.com/r/androiddev/comments/o230ew/what_does_one_do_about_sceneform_and_arcore/)
+- [I don't understand Covid-19 app guidelines](https://www.reddit.com/r/androiddev/comments/o22vv1/i_dont_understand_covid19_app_guidelines/)
+- [Why does Android INSIST on creating two new fragments with a new basic activity?](https://www.reddit.com/r/androiddev/comments/o20k8z/why_does_android_insist_on_creating_two_new/)
+- [Disabling push notifications from google play services](https://www.reddit.com/r/androiddev/comments/o1z3wm/disabling_push_notifications_from_google_play/)
+- [Learn To Build Android Attendance Application Using Kotlin](https://www.reddit.com/r/androiddev/comments/o1ynau/learn_to_build_android_attendance_application/)
+- [Add-on architecture](https://www.reddit.com/r/androiddev/comments/o1ykv6/addon_architecture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
