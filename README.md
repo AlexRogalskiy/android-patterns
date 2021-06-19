@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Splitting strings to get correct tree](https://www.reddit.com/r/androiddev/comments/o2d0cs/splitting_strings_to_get_correct_tree/)
-- [Hello devs!](https://www.reddit.com/r/androiddev/comments/o2a1hx/hello_devs/)
-- [Incentivize ad viewing question](https://www.reddit.com/r/androiddev/comments/o25yna/incentivize_ad_viewing_question/)
-- [Announcing requireKTX - zsmb.co](https://www.reddit.com/r/androiddev/comments/o24yep/announcing_requirektx_zsmbco/)
-- [What does one do about Sceneform and ARCore?](https://www.reddit.com/r/androiddev/comments/o230ew/what_does_one_do_about_sceneform_and_arcore/)
-- [I don't understand Covid-19 app guidelines](https://www.reddit.com/r/androiddev/comments/o22vv1/i_dont_understand_covid19_app_guidelines/)
-- [Why does Android INSIST on creating two new fragments with a new basic activity?](https://www.reddit.com/r/androiddev/comments/o20k8z/why_does_android_insist_on_creating_two_new/)
-- [Disabling push notifications from google play services](https://www.reddit.com/r/androiddev/comments/o1z3wm/disabling_push_notifications_from_google_play/)
-- [Learn To Build Android Attendance Application Using Kotlin](https://www.reddit.com/r/androiddev/comments/o1ynau/learn_to_build_android_attendance_application/)
-- [Add-on architecture](https://www.reddit.com/r/androiddev/comments/o1ykv6/addon_architecture/)
+- [Is authentication supposed to be this difficult?](https://www.reddit.com/r/androiddev/comments/o33s5e/is_authentication_supposed_to_be_this_difficult/)
+- [Better physical stories with Google’s Nearby APIs](https://www.reddit.com/r/androiddev/comments/o321rh/better_physical_stories_with_googles_nearby_apis/)
+- [Cannot resolve class android.support.design](https://www.reddit.com/r/androiddev/comments/o2yqkc/cannot_resolve_class_androidsupportdesign/)
+- [jetpack compose list change animations](https://www.reddit.com/r/androiddev/comments/o2wtq5/jetpack_compose_list_change_animations/)
+- [Good introduction to Android Development for beginners](https://www.reddit.com/r/androiddev/comments/o2rvci/good_introduction_to_android_development_for/)
+- [Is strandhogg a real security thread to Android Apps?](https://www.reddit.com/r/androiddev/comments/o2rr47/is_strandhogg_a_real_security_thread_to_android/)
+- [Creating Google Play game - worth it?](https://www.reddit.com/r/androiddev/comments/o2r203/creating_google_play_game_worth_it/)
+- [Does anyone know how to verify number of install origin from Google Mobile App Install ads?](https://www.reddit.com/r/androiddev/comments/o2prr6/does_anyone_know_how_to_verify_number_of_install/)
+- [Weekly Anything Goes Thread - June 18, 2021](https://www.reddit.com/r/androiddev/comments/o2ok69/weekly_anything_goes_thread_june_18_2021/)
+- [Issues with Android App and Deep Linking](https://www.reddit.com/r/androiddev/comments/o2nswv/issues_with_android_app_and_deep_linking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
