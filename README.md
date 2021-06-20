@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is authentication supposed to be this difficult?](https://www.reddit.com/r/androiddev/comments/o33s5e/is_authentication_supposed_to_be_this_difficult/)
-- [Better physical stories with Google’s Nearby APIs](https://www.reddit.com/r/androiddev/comments/o321rh/better_physical_stories_with_googles_nearby_apis/)
-- [Cannot resolve class android.support.design](https://www.reddit.com/r/androiddev/comments/o2yqkc/cannot_resolve_class_androidsupportdesign/)
-- [jetpack compose list change animations](https://www.reddit.com/r/androiddev/comments/o2wtq5/jetpack_compose_list_change_animations/)
-- [Good introduction to Android Development for beginners](https://www.reddit.com/r/androiddev/comments/o2rvci/good_introduction_to_android_development_for/)
-- [Is strandhogg a real security thread to Android Apps?](https://www.reddit.com/r/androiddev/comments/o2rr47/is_strandhogg_a_real_security_thread_to_android/)
-- [Creating Google Play game - worth it?](https://www.reddit.com/r/androiddev/comments/o2r203/creating_google_play_game_worth_it/)
-- [Does anyone know how to verify number of install origin from Google Mobile App Install ads?](https://www.reddit.com/r/androiddev/comments/o2prr6/does_anyone_know_how_to_verify_number_of_install/)
-- [Weekly Anything Goes Thread - June 18, 2021](https://www.reddit.com/r/androiddev/comments/o2ok69/weekly_anything_goes_thread_june_18_2021/)
-- [Issues with Android App and Deep Linking](https://www.reddit.com/r/androiddev/comments/o2nswv/issues_with_android_app_and_deep_linking/)
+- [Flocking Boids 🐜 in Jetpack Compose Canvas 🚀| Flocking Algorithm [Cohesion, Alignment and Separation]](https://www.reddit.com/r/androiddev/comments/o3t9y7/flocking_boids_in_jetpack_compose_canvas_flocking/)
+- [ui setup in android studio](https://www.reddit.com/r/androiddev/comments/o3rsqe/ui_setup_in_android_studio/)
+- [Dagger Hilt Implementation Tests on AWS Device Farm](https://www.reddit.com/r/androiddev/comments/o3qoos/dagger_hilt_implementation_tests_on_aws_device/)
+- [Can you use an Accessibility service to auto-click buttons in the quick access panel?](https://www.reddit.com/r/androiddev/comments/o3pfdg/can_you_use_an_accessibility_service_to_autoclick/)
+- [Jetpack - passing function from parent Composable to child Composable](https://www.reddit.com/r/androiddev/comments/o3nqno/jetpack_passing_function_from_parent_composable/)
+- [Caching data from a single API endpoint into multiple room tables. Would it be bad practice to not normalise and instead store the data as is?](https://www.reddit.com/r/androiddev/comments/o3ndjk/caching_data_from_a_single_api_endpoint_into/)
+- [The magic of open source](https://www.reddit.com/r/androiddev/comments/o3mprs/the_magic_of_open_source/)
+- [Developing for Android Enterprise and individual user](https://www.reddit.com/r/androiddev/comments/o3lfai/developing_for_android_enterprise_and_individual/)
+- [Kotlin maybe more Android friendly but Android studio/IntelliJ is not Kotlin friendly enough](https://www.reddit.com/r/androiddev/comments/o3il52/kotlin_maybe_more_android_friendly_but_android/)
+- [Implement Achievements feature in App](https://www.reddit.com/r/androiddev/comments/o3gtna/implement_achievements_feature_in_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
