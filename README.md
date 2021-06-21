@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Flocking Boids 🐜 in Jetpack Compose Canvas 🚀| Flocking Algorithm [Cohesion, Alignment and Separation]](https://www.reddit.com/r/androiddev/comments/o3t9y7/flocking_boids_in_jetpack_compose_canvas_flocking/)
-- [ui setup in android studio](https://www.reddit.com/r/androiddev/comments/o3rsqe/ui_setup_in_android_studio/)
-- [Dagger Hilt Implementation Tests on AWS Device Farm](https://www.reddit.com/r/androiddev/comments/o3qoos/dagger_hilt_implementation_tests_on_aws_device/)
-- [Can you use an Accessibility service to auto-click buttons in the quick access panel?](https://www.reddit.com/r/androiddev/comments/o3pfdg/can_you_use_an_accessibility_service_to_autoclick/)
-- [Jetpack - passing function from parent Composable to child Composable](https://www.reddit.com/r/androiddev/comments/o3nqno/jetpack_passing_function_from_parent_composable/)
-- [Caching data from a single API endpoint into multiple room tables. Would it be bad practice to not normalise and instead store the data as is?](https://www.reddit.com/r/androiddev/comments/o3ndjk/caching_data_from_a_single_api_endpoint_into/)
-- [The magic of open source](https://www.reddit.com/r/androiddev/comments/o3mprs/the_magic_of_open_source/)
-- [Developing for Android Enterprise and individual user](https://www.reddit.com/r/androiddev/comments/o3lfai/developing_for_android_enterprise_and_individual/)
-- [Kotlin maybe more Android friendly but Android studio/IntelliJ is not Kotlin friendly enough](https://www.reddit.com/r/androiddev/comments/o3il52/kotlin_maybe_more_android_friendly_but_android/)
-- [Implement Achievements feature in App](https://www.reddit.com/r/androiddev/comments/o3gtna/implement_achievements_feature_in_app/)
+- [A simple app showing how to make a YouTube Shorts/TikTok style video pager](https://www.reddit.com/r/androiddev/comments/o4i7km/a_simple_app_showing_how_to_make_a_youtube/)
+- [Linking static libraries to Android.mk - ld undefined symbol is found in the static lib?](https://www.reddit.com/r/androiddev/comments/o4g3r1/linking_static_libraries_to_androidmk_ld/)
+- [Android Development: Android App Development From Scratch - free course from udemy](https://www.reddit.com/r/androiddev/comments/o4f0la/android_development_android_app_development_from/)
+- [Learn keyboard shortcuts using this plugin HOTKEYS | Jetbrains Link | https://plugins.jetbrains.com/plugin/17027-hotkeys | Open Source | https://github.com/SachinKasaraddi/Hotkeys](https://www.reddit.com/r/androiddev/comments/o4e15j/learn_keyboard_shortcuts_using_this_plugin/)
+- [Sharing my podcast with fellow android devs](https://www.reddit.com/r/androiddev/comments/o49pqr/sharing_my_podcast_with_fellow_android_devs/)
+- [What concepts should I know to qualify as an beginner level android developer?](https://www.reddit.com/r/androiddev/comments/o49p8v/what_concepts_should_i_know_to_qualify_as_an/)
+- [Part 2 - Building Simple Attendance App using Kotlin - Jetpack Navigation Component](https://www.reddit.com/r/androiddev/comments/o45zy7/part_2_building_simple_attendance_app_using/)
+- [a wired problem when using Navigation Component](https://www.reddit.com/r/androiddev/comments/o45tbo/a_wired_problem_when_using_navigation_component/)
+- [I built this JetQuotes Desktop Client using Compose for Desktop](https://www.reddit.com/r/androiddev/comments/o43gd9/i_built_this_jetquotes_desktop_client_using/)
+- [Migrating from AndroidX paging 2 to 3 lets you remove so much boilerplate code, 😳](https://www.reddit.com/r/androiddev/comments/o433oa/migrating_from_androidx_paging_2_to_3_lets_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
