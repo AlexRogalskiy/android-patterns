@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A simple app showing how to make a YouTube Shorts/TikTok style video pager](https://www.reddit.com/r/androiddev/comments/o4i7km/a_simple_app_showing_how_to_make_a_youtube/)
-- [Linking static libraries to Android.mk - ld undefined symbol is found in the static lib?](https://www.reddit.com/r/androiddev/comments/o4g3r1/linking_static_libraries_to_androidmk_ld/)
-- [Android Development: Android App Development From Scratch - free course from udemy](https://www.reddit.com/r/androiddev/comments/o4f0la/android_development_android_app_development_from/)
-- [Learn keyboard shortcuts using this plugin HOTKEYS | Jetbrains Link | https://plugins.jetbrains.com/plugin/17027-hotkeys | Open Source | https://github.com/SachinKasaraddi/Hotkeys](https://www.reddit.com/r/androiddev/comments/o4e15j/learn_keyboard_shortcuts_using_this_plugin/)
-- [Sharing my podcast with fellow android devs](https://www.reddit.com/r/androiddev/comments/o49pqr/sharing_my_podcast_with_fellow_android_devs/)
-- [What concepts should I know to qualify as an beginner level android developer?](https://www.reddit.com/r/androiddev/comments/o49p8v/what_concepts_should_i_know_to_qualify_as_an/)
-- [Part 2 - Building Simple Attendance App using Kotlin - Jetpack Navigation Component](https://www.reddit.com/r/androiddev/comments/o45zy7/part_2_building_simple_attendance_app_using/)
-- [a wired problem when using Navigation Component](https://www.reddit.com/r/androiddev/comments/o45tbo/a_wired_problem_when_using_navigation_component/)
-- [I built this JetQuotes Desktop Client using Compose for Desktop](https://www.reddit.com/r/androiddev/comments/o43gd9/i_built_this_jetquotes_desktop_client_using/)
-- [Migrating from AndroidX paging 2 to 3 lets you remove so much boilerplate code, 😳](https://www.reddit.com/r/androiddev/comments/o433oa/migrating_from_androidx_paging_2_to_3_lets_you/)
+- [Is it possible to use MPI on Android?](https://www.reddit.com/r/androiddev/comments/o58sf2/is_it_possible_to_use_mpi_on_android/)
+- [My personal helper library for easy Android development](https://www.reddit.com/r/androiddev/comments/o579b9/my_personal_helper_library_for_easy_android/)
+- [Any one facing issues with Android S on Android Studio's emulator?](https://www.reddit.com/r/androiddev/comments/o55odq/any_one_facing_issues_with_android_s_on_android/)
+- [Android for Cars [All official development resources]](https://www.reddit.com/r/androiddev/comments/o54kpx/android_for_cars_all_official_development/)
+- [Documentation error, ConstraintLayout?](https://www.reddit.com/r/androiddev/comments/o532vk/documentation_error_constraintlayout/)
+- [Using Cordova and cant find out how to use Splashscreen without action bar. I was able to remove titlebar but not ActionBar](https://www.reddit.com/r/androiddev/comments/o52ov5/using_cordova_and_cant_find_out_how_to_use/)
+- [What are some popular APIs and libraries?](https://www.reddit.com/r/androiddev/comments/o52j2k/what_are_some_popular_apis_and_libraries/)
+- [Which of Google's courses should I do, and in what order?](https://www.reddit.com/r/androiddev/comments/o51w56/which_of_googles_courses_should_i_do_and_in_what/)
+- [How to import my main app classes into my library module?](https://www.reddit.com/r/androiddev/comments/o506o3/how_to_import_my_main_app_classes_into_my_library/)
+- [Google for Games Developer Summit 2021](https://www.reddit.com/r/androiddev/comments/o4zvzv/google_for_games_developer_summit_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
