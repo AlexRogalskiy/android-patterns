@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible to use MPI on Android?](https://www.reddit.com/r/androiddev/comments/o58sf2/is_it_possible_to_use_mpi_on_android/)
-- [My personal helper library for easy Android development](https://www.reddit.com/r/androiddev/comments/o579b9/my_personal_helper_library_for_easy_android/)
-- [Any one facing issues with Android S on Android Studio's emulator?](https://www.reddit.com/r/androiddev/comments/o55odq/any_one_facing_issues_with_android_s_on_android/)
-- [Android for Cars [All official development resources]](https://www.reddit.com/r/androiddev/comments/o54kpx/android_for_cars_all_official_development/)
-- [Documentation error, ConstraintLayout?](https://www.reddit.com/r/androiddev/comments/o532vk/documentation_error_constraintlayout/)
-- [Using Cordova and cant find out how to use Splashscreen without action bar. I was able to remove titlebar but not ActionBar](https://www.reddit.com/r/androiddev/comments/o52ov5/using_cordova_and_cant_find_out_how_to_use/)
-- [What are some popular APIs and libraries?](https://www.reddit.com/r/androiddev/comments/o52j2k/what_are_some_popular_apis_and_libraries/)
-- [Which of Google's courses should I do, and in what order?](https://www.reddit.com/r/androiddev/comments/o51w56/which_of_googles_courses_should_i_do_and_in_what/)
-- [How to import my main app classes into my library module?](https://www.reddit.com/r/androiddev/comments/o506o3/how_to_import_my_main_app_classes_into_my_library/)
-- [Google for Games Developer Summit 2021](https://www.reddit.com/r/androiddev/comments/o4zvzv/google_for_games_developer_summit_2021/)
+- [Creating a mini Board Game (Sudoku). which library and language should I go with](https://www.reddit.com/r/androiddev/comments/o62htl/creating_a_mini_board_game_sudoku_which_library/)
+- [Need Some App Reviews](https://www.reddit.com/r/androiddev/comments/o60tj1/need_some_app_reviews/)
+- [Is there a way to wrap textview breaking at a specific word?](https://www.reddit.com/r/androiddev/comments/o60bbp/is_there_a_way_to_wrap_textview_breaking_at_a/)
+- [What's the difference between MoShi (Reflect) and MoShi (Codegen) and which one is better?](https://www.reddit.com/r/androiddev/comments/o5znuy/whats_the_difference_between_moshi_reflect_and/)
+- [An effective testing strategy for Android (I)](https://www.reddit.com/r/androiddev/comments/o5yq8j/an_effective_testing_strategy_for_android_i/)
+- [How to protect level data from access](https://www.reddit.com/r/androiddev/comments/o5ucv1/how_to_protect_level_data_from_access/)
+- [How does google verify developer ID, if an account is created using non-personal company email?](https://www.reddit.com/r/androiddev/comments/o5tyoo/how_does_google_verify_developer_id_if_an_account/)
+- [View Model Doesn’t Have To Depend on ViewModel](https://www.reddit.com/r/androiddev/comments/o5t2me/view_model_doesnt_have_to_depend_on_viewmodel/)
+- [What's the best JSON to Moshi converter?](https://www.reddit.com/r/androiddev/comments/o5ov7p/whats_the_best_json_to_moshi_converter/)
+- [How should I expose a Manager/Controller to other classes?](https://www.reddit.com/r/androiddev/comments/o5nnf7/how_should_i_expose_a_managercontroller_to_other/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
