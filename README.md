@@ -41,29 +41,31 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Android Design Patterns](#android-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Android Authority posts</em>](#android-authority-posts)
-         * [<em>Android Arsenal posts</em>](#android-arsenal-posts)
-         * [<em>Medium posts</em>](#medium-posts)
-         * [<em>Gizmodo posts</em>](#gizmodo-posts)
-         * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
-         * [<em>Infinum posts</em>](#infinum-posts)
+
+- [Android Design Patterns](#android-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Android Authority posts</em>](#android-authority-posts)
+    - [<em>Android Arsenal posts</em>](#android-arsenal-posts)
+    - [<em>Medium posts</em>](#medium-posts)
+    - [<em>Gizmodo posts</em>](#gizmodo-posts)
+    - [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
+    - [<em>Infinum posts</em>](#infinum-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -248,6 +250,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Creating a mini Board Game (Sudoku). which library and language should I go with](https://www.reddit.com/r/androiddev/comments/o62htl/creating_a_mini_board_game_sudoku_which_library/)
 - [Need Some App Reviews](https://www.reddit.com/r/androiddev/comments/o60tj1/need_some_app_reviews/)
 - [Is there a way to wrap textview breaking at a specific word?](https://www.reddit.com/r/androiddev/comments/o60bbp/is_there_a_way_to_wrap_textview_breaking_at_a/)
@@ -258,11 +261,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [View Model Doesn’t Have To Depend on ViewModel](https://www.reddit.com/r/androiddev/comments/o5t2me/view_model_doesnt_have_to_depend_on_viewmodel/)
 - [What's the best JSON to Moshi converter?](https://www.reddit.com/r/androiddev/comments/o5ov7p/whats_the_best_json_to_moshi_converter/)
 - [How should I expose a Manager/Controller to other classes?](https://www.reddit.com/r/androiddev/comments/o5nnf7/how_should_i_expose_a_managercontroller_to_other/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
@@ -273,6 +278,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
 - [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
 - [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
