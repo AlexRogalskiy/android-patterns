@@ -248,18 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [Creating a mini Board Game (Sudoku). which library and language should I go with](https://www.reddit.com/r/androiddev/comments/o62htl/creating_a_mini_board_game_sudoku_which_library/)
-- [Need Some App Reviews](https://www.reddit.com/r/androiddev/comments/o60tj1/need_some_app_reviews/)
-- [Is there a way to wrap textview breaking at a specific word?](https://www.reddit.com/r/androiddev/comments/o60bbp/is_there_a_way_to_wrap_textview_breaking_at_a/)
-- [What's the difference between MoShi (Reflect) and MoShi (Codegen) and which one is better?](https://www.reddit.com/r/androiddev/comments/o5znuy/whats_the_difference_between_moshi_reflect_and/)
-- [An effective testing strategy for Android (I)](https://www.reddit.com/r/androiddev/comments/o5yq8j/an_effective_testing_strategy_for_android_i/)
-- [How to protect level data from access](https://www.reddit.com/r/androiddev/comments/o5ucv1/how_to_protect_level_data_from_access/)
-- [How does google verify developer ID, if an account is created using non-personal company email?](https://www.reddit.com/r/androiddev/comments/o5tyoo/how_does_google_verify_developer_id_if_an_account/)
-- [View Model Doesn’t Have To Depend on ViewModel](https://www.reddit.com/r/androiddev/comments/o5t2me/view_model_doesnt_have_to_depend_on_viewmodel/)
-- [What's the best JSON to Moshi converter?](https://www.reddit.com/r/androiddev/comments/o5ov7p/whats_the_best_json_to_moshi_converter/)
-- [How should I expose a Manager/Controller to other classes?](https://www.reddit.com/r/androiddev/comments/o5nnf7/how_should_i_expose_a_managercontroller_to_other/)
-
+- [The dangers of JSON + default values](https://www.reddit.com/r/androiddev/comments/o6qgb0/the_dangers_of_json_default_values/)
+- [Android Ad blocker that blocks ads in chrome?](https://www.reddit.com/r/androiddev/comments/o6q5ly/android_ad_blocker_that_blocks_ads_in_chrome/)
+- [How to Handle Errors in MVVM?](https://www.reddit.com/r/androiddev/comments/o6nnlg/how_to_handle_errors_in_mvvm/)
+- [Android 12 SplashScreen api - Compatible below Android 12?](https://www.reddit.com/r/androiddev/comments/o6kkzk/android_12_splashscreen_api_compatible_below/)
+- [FYI - Latest emulator update (30.7.4) seems to have broken things on macOS Catalina](https://www.reddit.com/r/androiddev/comments/o6k4dz/fyi_latest_emulator_update_3074_seems_to_have/)
+- [Soon we can add multi-quantity purchases inside apps](https://www.reddit.com/r/androiddev/comments/o6gudo/soon_we_can_add_multiquantity_purchases_inside/)
+- [Soon we can add multi-quantity purchases inside apps using Play Billing](https://www.reddit.com/r/androiddev/comments/o6go2f/soon_we_can_add_multiquantity_purchases_inside/)
+- [Create a wait-timeout with MutableSharedFlow](https://www.reddit.com/r/androiddev/comments/o6fyx8/create_a_waittimeout_with_mutablesharedflow/)
+- [Are you supposed to load an online image again when using a shared element transition?](https://www.reddit.com/r/androiddev/comments/o6fdxo/are_you_supposed_to_load_an_online_image_again/)
+- [ANR metric is fallen drastically on June 14 on Play console without any change.](https://www.reddit.com/r/androiddev/comments/o6dv7f/anr_metric_is_fallen_drastically_on_june_14_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
