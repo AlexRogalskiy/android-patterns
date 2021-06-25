@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The dangers of JSON + default values](https://www.reddit.com/r/androiddev/comments/o6qgb0/the_dangers_of_json_default_values/)
-- [Android Ad blocker that blocks ads in chrome?](https://www.reddit.com/r/androiddev/comments/o6q5ly/android_ad_blocker_that_blocks_ads_in_chrome/)
-- [How to Handle Errors in MVVM?](https://www.reddit.com/r/androiddev/comments/o6nnlg/how_to_handle_errors_in_mvvm/)
-- [Android 12 SplashScreen api - Compatible below Android 12?](https://www.reddit.com/r/androiddev/comments/o6kkzk/android_12_splashscreen_api_compatible_below/)
-- [FYI - Latest emulator update (30.7.4) seems to have broken things on macOS Catalina](https://www.reddit.com/r/androiddev/comments/o6k4dz/fyi_latest_emulator_update_3074_seems_to_have/)
-- [Soon we can add multi-quantity purchases inside apps](https://www.reddit.com/r/androiddev/comments/o6gudo/soon_we_can_add_multiquantity_purchases_inside/)
-- [Soon we can add multi-quantity purchases inside apps using Play Billing](https://www.reddit.com/r/androiddev/comments/o6go2f/soon_we_can_add_multiquantity_purchases_inside/)
-- [Create a wait-timeout with MutableSharedFlow](https://www.reddit.com/r/androiddev/comments/o6fyx8/create_a_waittimeout_with_mutablesharedflow/)
-- [Are you supposed to load an online image again when using a shared element transition?](https://www.reddit.com/r/androiddev/comments/o6fdxo/are_you_supposed_to_load_an_online_image_again/)
-- [ANR metric is fallen drastically on June 14 on Play console without any change.](https://www.reddit.com/r/androiddev/comments/o6dv7f/anr_metric_is_fallen_drastically_on_june_14_on/)
+- [Why we need both flutter and jetpack compose?](https://www.reddit.com/r/androiddev/comments/o79toz/why_we_need_both_flutter_and_jetpack_compose/)
+- [Dumb, dumb question. Does anyone have a clear guide on how to set up a proper Mvvm?](https://www.reddit.com/r/androiddev/comments/o78y4q/dumb_dumb_question_does_anyone_have_a_clear_guide/)
+- [Vertical Recycler view of variable height items issues](https://www.reddit.com/r/androiddev/comments/o784gy/vertical_recycler_view_of_variable_height_items/)
+- [Setting up "United States tax info"](https://www.reddit.com/r/androiddev/comments/o7733w/setting_up_united_states_tax_info/)
+- [Open source apps that use Android architecture components?](https://www.reddit.com/r/androiddev/comments/o76vm2/open_source_apps_that_use_android_architecture/)
+- [Want to develop (or use existing) custom video streaming app. Cost? Advice?](https://www.reddit.com/r/androiddev/comments/o75gad/want_to_develop_or_use_existing_custom_video/)
+- [Hey guys, checkout this android library that animates your text like its being hand written. https://github.com/sarnavakonar/TextWriter Dont forget to give it a star ⭐](https://www.reddit.com/r/androiddev/comments/o75aq3/hey_guys_checkout_this_android_library_that/)
+- [Microsoft is bringing Android apps to Windows 11 with Amazon’s Appstore](https://www.reddit.com/r/androiddev/comments/o74732/microsoft_is_bringing_android_apps_to_windows_11/)
+- [Microsoft is bringing Android apps to Windows 11 with Amazon’s Appstore - The Verge](https://www.reddit.com/r/androiddev/comments/o73t2k/microsoft_is_bringing_android_apps_to_windows_11/)
+- [Kotlin 1.5.20 Released](https://www.reddit.com/r/androiddev/comments/o73mu7/kotlin_1520_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
