@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why we need both flutter and jetpack compose?](https://www.reddit.com/r/androiddev/comments/o79toz/why_we_need_both_flutter_and_jetpack_compose/)
-- [Dumb, dumb question. Does anyone have a clear guide on how to set up a proper Mvvm?](https://www.reddit.com/r/androiddev/comments/o78y4q/dumb_dumb_question_does_anyone_have_a_clear_guide/)
-- [Vertical Recycler view of variable height items issues](https://www.reddit.com/r/androiddev/comments/o784gy/vertical_recycler_view_of_variable_height_items/)
-- [Setting up "United States tax info"](https://www.reddit.com/r/androiddev/comments/o7733w/setting_up_united_states_tax_info/)
-- [Open source apps that use Android architecture components?](https://www.reddit.com/r/androiddev/comments/o76vm2/open_source_apps_that_use_android_architecture/)
-- [Want to develop (or use existing) custom video streaming app. Cost? Advice?](https://www.reddit.com/r/androiddev/comments/o75gad/want_to_develop_or_use_existing_custom_video/)
-- [Hey guys, checkout this android library that animates your text like its being hand written. https://github.com/sarnavakonar/TextWriter Dont forget to give it a star ⭐](https://www.reddit.com/r/androiddev/comments/o75aq3/hey_guys_checkout_this_android_library_that/)
-- [Microsoft is bringing Android apps to Windows 11 with Amazon’s Appstore](https://www.reddit.com/r/androiddev/comments/o74732/microsoft_is_bringing_android_apps_to_windows_11/)
-- [Microsoft is bringing Android apps to Windows 11 with Amazon’s Appstore - The Verge](https://www.reddit.com/r/androiddev/comments/o73t2k/microsoft_is_bringing_android_apps_to_windows_11/)
-- [Kotlin 1.5.20 Released](https://www.reddit.com/r/androiddev/comments/o73mu7/kotlin_1520_released/)
+- [I remember i was able to backup my memos but for some reason i can't now. How can i backup my memos ? It's important for me and i'm going to format my phone a short time later](https://www.reddit.com/r/androiddev/comments/o80qxi/i_remember_i_was_able_to_backup_my_memos_but_for/)
+- [Been out of Android dev for a few years. What's the most important things for me to read up on?](https://www.reddit.com/r/androiddev/comments/o7zao5/been_out_of_android_dev_for_a_few_years_whats_the/)
+- [I made a free. open source note taking application!](https://www.reddit.com/r/androiddev/comments/o7z6yd/i_made_a_free_open_source_note_taking_application/)
+- [There appear to be ways to circumvent the user-controlled accessibility settings of font size and display size. Do you all do this?](https://www.reddit.com/r/androiddev/comments/o7xw31/there_appear_to_be_ways_to_circumvent_the/)
+- [Google to Android devs: Support more form factors, get a higher sales cut](https://www.reddit.com/r/androiddev/comments/o7vzl0/google_to_android_devs_support_more_form_factors/)
+- [Is it possible to create an app like ( OnePlus's ZenMode)?](https://www.reddit.com/r/androiddev/comments/o7us1o/is_it_possible_to_create_an_app_like_onepluss/)
+- [What is Google's policy on accepting in app payments that aren't via the play store](https://www.reddit.com/r/androiddev/comments/o7u9lq/what_is_googles_policy_on_accepting_in_app/)
+- [clean architecture _without_ using reactive streams](https://www.reddit.com/r/androiddev/comments/o7s009/clean_architecture_without_using_reactive_streams/)
+- [Isn't filtering app reviews against Google Play policy? Like prompting a user "Do you like the app", if yes redirect to Play Store page, if no do nothing/show a form?](https://www.reddit.com/r/androiddev/comments/o7rm5k/isnt_filtering_app_reviews_against_google_play/)
+- [What's the best way to learn about the Canvas?](https://www.reddit.com/r/androiddev/comments/o7pedv/whats_the_best_way_to_learn_about_the_canvas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
