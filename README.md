@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I remember i was able to backup my memos but for some reason i can't now. How can i backup my memos ? It's important for me and i'm going to format my phone a short time later](https://www.reddit.com/r/androiddev/comments/o80qxi/i_remember_i_was_able_to_backup_my_memos_but_for/)
-- [Been out of Android dev for a few years. What's the most important things for me to read up on?](https://www.reddit.com/r/androiddev/comments/o7zao5/been_out_of_android_dev_for_a_few_years_whats_the/)
-- [I made a free. open source note taking application!](https://www.reddit.com/r/androiddev/comments/o7z6yd/i_made_a_free_open_source_note_taking_application/)
-- [There appear to be ways to circumvent the user-controlled accessibility settings of font size and display size. Do you all do this?](https://www.reddit.com/r/androiddev/comments/o7xw31/there_appear_to_be_ways_to_circumvent_the/)
-- [Google to Android devs: Support more form factors, get a higher sales cut](https://www.reddit.com/r/androiddev/comments/o7vzl0/google_to_android_devs_support_more_form_factors/)
-- [Is it possible to create an app like ( OnePlus's ZenMode)?](https://www.reddit.com/r/androiddev/comments/o7us1o/is_it_possible_to_create_an_app_like_onepluss/)
-- [What is Google's policy on accepting in app payments that aren't via the play store](https://www.reddit.com/r/androiddev/comments/o7u9lq/what_is_googles_policy_on_accepting_in_app/)
-- [clean architecture _without_ using reactive streams](https://www.reddit.com/r/androiddev/comments/o7s009/clean_architecture_without_using_reactive_streams/)
-- [Isn't filtering app reviews against Google Play policy? Like prompting a user "Do you like the app", if yes redirect to Play Store page, if no do nothing/show a form?](https://www.reddit.com/r/androiddev/comments/o7rm5k/isnt_filtering_app_reviews_against_google_play/)
-- [What's the best way to learn about the Canvas?](https://www.reddit.com/r/androiddev/comments/o7pedv/whats_the_best_way_to_learn_about_the_canvas/)
+- [Are there any tips or tricks to make sure your google account does not get banned?](https://www.reddit.com/r/androiddev/comments/o8nlku/are_there_any_tips_or_tricks_to_make_sure_your/)
+- [How can I detect if a bluetooth device is a PC?](https://www.reddit.com/r/androiddev/comments/o8nj6k/how_can_i_detect_if_a_bluetooth_device_is_a_pc/)
+- [I'd like to disconnect the camera on my Nokia 8 from the power button. Is this possible?](https://www.reddit.com/r/androiddev/comments/o8m1fi/id_like_to_disconnect_the_camera_on_my_nokia_8/)
+- [Android UI idea 💡](https://www.reddit.com/r/androiddev/comments/o8lwey/android_ui_idea/)
+- [[LOOKING FOR MENTOR] Back at coding...again](https://www.reddit.com/r/androiddev/comments/o8lhza/looking_for_mentor_back_at_codingagain/)
+- [Is Raccoon better than wireMock for Android UI test?](https://www.reddit.com/r/androiddev/comments/o8laht/is_raccoon_better_than_wiremock_for_android_ui/)
+- [CircleCI Gradle Plug-in?](https://www.reddit.com/r/androiddev/comments/o8kz84/circleci_gradle_plugin/)
+- [Do you use SharedPreferences?](https://www.reddit.com/r/androiddev/comments/o8iak5/do_you_use_sharedpreferences/)
+- [Need help from an experienced android developer.](https://www.reddit.com/r/androiddev/comments/o8fjek/need_help_from_an_experienced_android_developer/)
+- [Heyy everyone, if someone is looking for offline database solution in Flutter, sqfentity is working really well for me, so here is an example on how to set it up 😊](https://www.reddit.com/r/androiddev/comments/o8f3pr/heyy_everyone_if_someone_is_looking_for_offline/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
