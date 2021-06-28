@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are there any tips or tricks to make sure your google account does not get banned?](https://www.reddit.com/r/androiddev/comments/o8nlku/are_there_any_tips_or_tricks_to_make_sure_your/)
-- [How can I detect if a bluetooth device is a PC?](https://www.reddit.com/r/androiddev/comments/o8nj6k/how_can_i_detect_if_a_bluetooth_device_is_a_pc/)
-- [I'd like to disconnect the camera on my Nokia 8 from the power button. Is this possible?](https://www.reddit.com/r/androiddev/comments/o8m1fi/id_like_to_disconnect_the_camera_on_my_nokia_8/)
-- [Android UI idea 💡](https://www.reddit.com/r/androiddev/comments/o8lwey/android_ui_idea/)
-- [[LOOKING FOR MENTOR] Back at coding...again](https://www.reddit.com/r/androiddev/comments/o8lhza/looking_for_mentor_back_at_codingagain/)
-- [Is Raccoon better than wireMock for Android UI test?](https://www.reddit.com/r/androiddev/comments/o8laht/is_raccoon_better_than_wiremock_for_android_ui/)
-- [CircleCI Gradle Plug-in?](https://www.reddit.com/r/androiddev/comments/o8kz84/circleci_gradle_plugin/)
-- [Do you use SharedPreferences?](https://www.reddit.com/r/androiddev/comments/o8iak5/do_you_use_sharedpreferences/)
-- [Need help from an experienced android developer.](https://www.reddit.com/r/androiddev/comments/o8fjek/need_help_from_an_experienced_android_developer/)
-- [Heyy everyone, if someone is looking for offline database solution in Flutter, sqfentity is working really well for me, so here is an example on how to set it up 😊](https://www.reddit.com/r/androiddev/comments/o8f3pr/heyy_everyone_if_someone_is_looking_for_offline/)
+- [Is there a Apple Media Service alternative in android?](https://www.reddit.com/r/androiddev/comments/o98vck/is_there_a_apple_media_service_alternative_in/)
+- [Guys, should I include the previous version (APK) of an app in the latest release? What happens if I don't include it?](https://www.reddit.com/r/androiddev/comments/o95kl2/guys_should_i_include_the_previous_version_apk_of/)
+- [How to deal with an App requires Root access getting negative reviews by users who don't have Root?](https://www.reddit.com/r/androiddev/comments/o93nd7/how_to_deal_with_an_app_requires_root_access/)
+- [How much time is it taking for app reviews nowadays?](https://www.reddit.com/r/androiddev/comments/o93h1m/how_much_time_is_it_taking_for_app_reviews/)
+- [Is there any way to have a secure storage for an app, that can be read and written only by the app, and cannot be read/written to by anyone else, including root?](https://www.reddit.com/r/androiddev/comments/o916hy/is_there_any_way_to_have_a_secure_storage_for_an/)
+- [Asking to Android Developers](https://www.reddit.com/r/androiddev/comments/o8sx21/asking_to_android_developers/)
+- [Is there a way to read Heart Rate history data similarly to how one reads steps count on Wear OS?](https://www.reddit.com/r/androiddev/comments/o8s8ry/is_there_a_way_to_read_heart_rate_history_data/)
+- [Level up your espresso tests with Raccoon!](https://www.reddit.com/r/androiddev/comments/o8s21x/level_up_your_espresso_tests_with_raccoon/)
+- [Fling behaviour adjustment are now so much simpler with flinger 🙌](https://www.reddit.com/r/androiddev/comments/o8r9cb/fling_behaviour_adjustment_are_now_so_much/)
+- [Admob estimated revenue not showing after account being assessed](https://www.reddit.com/r/androiddev/comments/o8pxfk/admob_estimated_revenue_not_showing_after_account/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
