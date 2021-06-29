@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a Apple Media Service alternative in android?](https://www.reddit.com/r/androiddev/comments/o98vck/is_there_a_apple_media_service_alternative_in/)
-- [Guys, should I include the previous version (APK) of an app in the latest release? What happens if I don't include it?](https://www.reddit.com/r/androiddev/comments/o95kl2/guys_should_i_include_the_previous_version_apk_of/)
-- [How to deal with an App requires Root access getting negative reviews by users who don't have Root?](https://www.reddit.com/r/androiddev/comments/o93nd7/how_to_deal_with_an_app_requires_root_access/)
-- [How much time is it taking for app reviews nowadays?](https://www.reddit.com/r/androiddev/comments/o93h1m/how_much_time_is_it_taking_for_app_reviews/)
-- [Is there any way to have a secure storage for an app, that can be read and written only by the app, and cannot be read/written to by anyone else, including root?](https://www.reddit.com/r/androiddev/comments/o916hy/is_there_any_way_to_have_a_secure_storage_for_an/)
-- [Asking to Android Developers](https://www.reddit.com/r/androiddev/comments/o8sx21/asking_to_android_developers/)
-- [Is there a way to read Heart Rate history data similarly to how one reads steps count on Wear OS?](https://www.reddit.com/r/androiddev/comments/o8s8ry/is_there_a_way_to_read_heart_rate_history_data/)
-- [Level up your espresso tests with Raccoon!](https://www.reddit.com/r/androiddev/comments/o8s21x/level_up_your_espresso_tests_with_raccoon/)
-- [Fling behaviour adjustment are now so much simpler with flinger 🙌](https://www.reddit.com/r/androiddev/comments/o8r9cb/fling_behaviour_adjustment_are_now_so_much/)
-- [Admob estimated revenue not showing after account being assessed](https://www.reddit.com/r/androiddev/comments/o8pxfk/admob_estimated_revenue_not_showing_after_account/)
+- [Scope Storage Myths](https://www.reddit.com/r/androiddev/comments/o9wyuj/scope_storage_myths/)
+- [How much to pay a musician whose music I'm using on my app?](https://www.reddit.com/r/androiddev/comments/o9wvya/how_much_to_pay_a_musician_whose_music_im_using/)
+- [Google releases WifiRttLocator App as Wifi-RTT demo on Play Store](https://www.reddit.com/r/androiddev/comments/o9v4rj/google_releases_wifirttlocator_app_as_wifirtt/)
+- [ViewModel as a variable in XML](https://www.reddit.com/r/androiddev/comments/o9s0fy/viewmodel_as_a_variable_in_xml/)
+- [How to cancel slow emission when using RxJava](https://www.reddit.com/r/androiddev/comments/o9r5yv/how_to_cancel_slow_emission_when_using_rxjava/)
+- [Play Dev ID requirements + 2-Step Verification [Google's Android Developers Blog]](https://www.reddit.com/r/androiddev/comments/o9qjtq/play_dev_id_requirements_2step_verification/)
+- [Compose: Displaying Snackbars](https://www.reddit.com/r/androiddev/comments/o9lc6w/compose_displaying_snackbars/)
+- [Weekly Who's Hiring Thread - June 28, 2021](https://www.reddit.com/r/androiddev/comments/o9jrpv/weekly_whos_hiring_thread_june_28_2021/)
+- [How feasible is it to be able to display tweets or Reddit posts in a mobile app?](https://www.reddit.com/r/androiddev/comments/o9jn80/how_feasible_is_it_to_be_able_to_display_tweets/)
+- [New Android Dev Sanity Check](https://www.reddit.com/r/androiddev/comments/o9j7ai/new_android_dev_sanity_check/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
