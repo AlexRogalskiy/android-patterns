@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Scope Storage Myths](https://www.reddit.com/r/androiddev/comments/o9wyuj/scope_storage_myths/)
-- [How much to pay a musician whose music I'm using on my app?](https://www.reddit.com/r/androiddev/comments/o9wvya/how_much_to_pay_a_musician_whose_music_im_using/)
-- [Google releases WifiRttLocator App as Wifi-RTT demo on Play Store](https://www.reddit.com/r/androiddev/comments/o9v4rj/google_releases_wifirttlocator_app_as_wifirtt/)
-- [ViewModel as a variable in XML](https://www.reddit.com/r/androiddev/comments/o9s0fy/viewmodel_as_a_variable_in_xml/)
-- [How to cancel slow emission when using RxJava](https://www.reddit.com/r/androiddev/comments/o9r5yv/how_to_cancel_slow_emission_when_using_rxjava/)
-- [Play Dev ID requirements + 2-Step Verification [Google's Android Developers Blog]](https://www.reddit.com/r/androiddev/comments/o9qjtq/play_dev_id_requirements_2step_verification/)
-- [Compose: Displaying Snackbars](https://www.reddit.com/r/androiddev/comments/o9lc6w/compose_displaying_snackbars/)
-- [Weekly Who's Hiring Thread - June 28, 2021](https://www.reddit.com/r/androiddev/comments/o9jrpv/weekly_whos_hiring_thread_june_28_2021/)
-- [How feasible is it to be able to display tweets or Reddit posts in a mobile app?](https://www.reddit.com/r/androiddev/comments/o9jn80/how_feasible_is_it_to_be_able_to_display_tweets/)
-- [New Android Dev Sanity Check](https://www.reddit.com/r/androiddev/comments/o9j7ai/new_android_dev_sanity_check/)
+- [Google Play developers will need to enable 2-Step Verification and meet identity requirements](https://www.reddit.com/r/androiddev/comments/oajtge/google_play_developers_will_need_to_enable_2step/)
+- [Continue Kotlin or start React Native?](https://www.reddit.com/r/androiddev/comments/oahwuf/continue_kotlin_or_start_react_native/)
+- [Kotlin Features Survey Edition #2](https://www.reddit.com/r/androiddev/comments/oahv68/kotlin_features_survey_edition_2/)
+- [Beginning to work on Android game/app that grabs wearable data from Samsung health and gamifies metrics. As a new developer who just downloaded the Android dev kit from Google, what is a good place to learn on making my app? Solid documentation?](https://www.reddit.com/r/androiddev/comments/oad32v/beginning_to_work_on_android_gameapp_that_grabs/)
+- [Suggestion to handle translations](https://www.reddit.com/r/androiddev/comments/oac2ov/suggestion_to_handle_translations/)
+- [I want to implement Achievements features like Nike Run club app. Any suggestions or tutorial which can be followed.](https://www.reddit.com/r/androiddev/comments/oabb41/i_want_to_implement_achievements_features_like/)
+- [Getting device width info for lots of devices](https://www.reddit.com/r/androiddev/comments/oaan4p/getting_device_width_info_for_lots_of_devices/)
+- [Whatsapp image picker replica on Github](https://www.reddit.com/r/androiddev/comments/oaal33/whatsapp_image_picker_replica_on_github/)
+- [Providing AssistedInject supported ViewModel for Composable using Hilt](https://www.reddit.com/r/androiddev/comments/oa9x2m/providing_assistedinject_supported_viewmodel_for/)
+- [Data Binding](https://www.reddit.com/r/androiddev/comments/oa8pua/data_binding/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
