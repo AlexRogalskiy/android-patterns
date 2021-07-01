@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play developers will need to enable 2-Step Verification and meet identity requirements](https://www.reddit.com/r/androiddev/comments/oajtge/google_play_developers_will_need_to_enable_2step/)
-- [Continue Kotlin or start React Native?](https://www.reddit.com/r/androiddev/comments/oahwuf/continue_kotlin_or_start_react_native/)
-- [Kotlin Features Survey Edition #2](https://www.reddit.com/r/androiddev/comments/oahv68/kotlin_features_survey_edition_2/)
-- [Beginning to work on Android game/app that grabs wearable data from Samsung health and gamifies metrics. As a new developer who just downloaded the Android dev kit from Google, what is a good place to learn on making my app? Solid documentation?](https://www.reddit.com/r/androiddev/comments/oad32v/beginning_to_work_on_android_gameapp_that_grabs/)
-- [Suggestion to handle translations](https://www.reddit.com/r/androiddev/comments/oac2ov/suggestion_to_handle_translations/)
-- [I want to implement Achievements features like Nike Run club app. Any suggestions or tutorial which can be followed.](https://www.reddit.com/r/androiddev/comments/oabb41/i_want_to_implement_achievements_features_like/)
-- [Getting device width info for lots of devices](https://www.reddit.com/r/androiddev/comments/oaan4p/getting_device_width_info_for_lots_of_devices/)
-- [Whatsapp image picker replica on Github](https://www.reddit.com/r/androiddev/comments/oaal33/whatsapp_image_picker_replica_on_github/)
-- [Providing AssistedInject supported ViewModel for Composable using Hilt](https://www.reddit.com/r/androiddev/comments/oa9x2m/providing_assistedinject_supported_viewmodel_for/)
-- [Data Binding](https://www.reddit.com/r/androiddev/comments/oa8pua/data_binding/)
+- [How do you get paid for your app / game?](https://www.reddit.com/r/androiddev/comments/ob4dmt/how_do_you_get_paid_for_your_app_game/)
+- [Setting multiple icon on app & can change from with dark mode](https://www.reddit.com/r/androiddev/comments/ob3wu1/setting_multiple_icon_on_app_can_change_from_with/)
+- [New Core Splashscreen 1.0.0-alpha01 release - backwards compability for the new Splash Screen APIs down to API 23](https://www.reddit.com/r/androiddev/comments/ob3o5j/new_core_splashscreen_100alpha01_release/)
+- [I Created a Clone of the Tesla App](https://www.reddit.com/r/androiddev/comments/ob2wpr/i_created_a_clone_of_the_tesla_app/)
+- [Android Studio 4.2.2 available](https://www.reddit.com/r/androiddev/comments/ob2uuk/android_studio_422_available/)
+- [How to publish update to playstore while not forcing autoupdate for exiting users?](https://www.reddit.com/r/androiddev/comments/ob2dhz/how_to_publish_update_to_playstore_while_not/)
+- [Signing a previously signed application with a new keystore file?](https://www.reddit.com/r/androiddev/comments/ob08la/signing_a_previously_signed_application_with_a/)
+- [SUGGEST A COURSE!](https://www.reddit.com/r/androiddev/comments/oaydr1/suggest_a_course/)
+- [Is there a way to have an animated launch / splash screen using SVGs](https://www.reddit.com/r/androiddev/comments/oav6qa/is_there_a_way_to_have_an_animated_launch_splash/)
+- [Why simple app with Jetpack Compose is 5x times slower than without?](https://www.reddit.com/r/androiddev/comments/oatiur/why_simple_app_with_jetpack_compose_is_5x_times/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
