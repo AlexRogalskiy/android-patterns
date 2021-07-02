@@ -41,29 +41,31 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Android Design Patterns](#android-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Android Authority posts</em>](#android-authority-posts)
-         * [<em>Android Arsenal posts</em>](#android-arsenal-posts)
-         * [<em>Medium posts</em>](#medium-posts)
-         * [<em>Gizmodo posts</em>](#gizmodo-posts)
-         * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
-         * [<em>Infinum posts</em>](#infinum-posts)
+
+- [Android Design Patterns](#android-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Android Authority posts</em>](#android-authority-posts)
+    - [<em>Android Arsenal posts</em>](#android-arsenal-posts)
+    - [<em>Medium posts</em>](#medium-posts)
+    - [<em>Gizmodo posts</em>](#gizmodo-posts)
+    - [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
+    - [<em>Infinum posts</em>](#infinum-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -248,21 +250,24 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [How do you get paid for your app / game?](https://www.reddit.com/r/androiddev/comments/ob4dmt/how_do_you_get_paid_for_your_app_game/)
 - [Setting multiple icon on app & can change from with dark mode](https://www.reddit.com/r/androiddev/comments/ob3wu1/setting_multiple_icon_on_app_can_change_from_with/)
-- [New Core Splashscreen 1.0.0-alpha01 release - backwards compability for the new Splash Screen APIs down to API 23](https://www.reddit.com/r/androiddev/comments/ob3o5j/new_core_splashscreen_100alpha01_release/)
+- [New Core Splashscreen 1.0.0-alpha01 release - backwards compability for the new Splash Screen APIs down to API 23](https://www.reddit.com/r/androiddev/comments/ob3o5j/new_core_splashscreen\_100alpha01\_release/)
 - [I Created a Clone of the Tesla App](https://www.reddit.com/r/androiddev/comments/ob2wpr/i_created_a_clone_of_the_tesla_app/)
-- [Android Studio 4.2.2 available](https://www.reddit.com/r/androiddev/comments/ob2uuk/android_studio_422_available/)
+- [Android Studio 4.2.2 available](https://www.reddit.com/r/androiddev/comments/ob2uuk/android_studio\_422\_available/)
 - [How to publish update to playstore while not forcing autoupdate for exiting users?](https://www.reddit.com/r/androiddev/comments/ob2dhz/how_to_publish_update_to_playstore_while_not/)
 - [Signing a previously signed application with a new keystore file?](https://www.reddit.com/r/androiddev/comments/ob08la/signing_a_previously_signed_application_with_a/)
 - [SUGGEST A COURSE!](https://www.reddit.com/r/androiddev/comments/oaydr1/suggest_a_course/)
 - [Is there a way to have an animated launch / splash screen using SVGs](https://www.reddit.com/r/androiddev/comments/oav6qa/is_there_a_way_to_have_an_animated_launch_splash/)
-- [Why simple app with Jetpack Compose is 5x times slower than without?](https://www.reddit.com/r/androiddev/comments/oatiur/why_simple_app_with_jetpack_compose_is_5x_times/)
+- [Why simple app with Jetpack Compose is 5x times slower than without?](https://www.reddit.com/r/androiddev/comments/oatiur/why_simple_app_with_jetpack_compose_is\_5x_times/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
@@ -273,6 +278,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
 - [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
 - [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
