@@ -41,31 +41,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-
-- [Android Design Patterns](#android-design-patterns)
-  - [<em>Table of contents</em>](#-table-of-contents)
-  - [<em>Summary</em>](#-summary)
-  - [<em>Documentation</em>](#-documentation)
-  - [<em>Statistics</em>](#-statistics)
-  - [<em>Versioning</em>](#-versioning)
-  - [<em>Authors</em>](#-authors)
-  - [<em>Contributing</em>](#-contributing)
-  - [<em>Visitor stats</em>](#-visitor-stats)
-  - [<em>Licensing</em>](#-licensing)
-  - [<em>Development Support</em>](#-development-support)
-  - [<em>Acknowledgement</em>](#-acknowledgement)
-  - [<em>OpenGraph Card</em>](#-opengraph-card)
-  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-    - [<em>Reddit posts</em>](#reddit-posts)
-    - [<em>InfoWorld posts</em>](#infoworld-posts)
-    - [<em>RedHat posts</em>](#redhat-posts)
-    - [<em>Android Authority posts</em>](#android-authority-posts)
-    - [<em>Android Arsenal posts</em>](#android-arsenal-posts)
-    - [<em>Medium posts</em>](#medium-posts)
-    - [<em>Gizmodo posts</em>](#gizmodo-posts)
-    - [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
-    - [<em>Infinum posts</em>](#infinum-posts)
-
+   * [Android Design Patterns](#android-design-patterns)
+      * [<em>Table of contents</em>](#-table-of-contents)
+      * [<em>Summary</em>](#-summary)
+      * [<em>Documentation</em>](#-documentation)
+      * [<em>Statistics</em>](#-statistics)
+      * [<em>Versioning</em>](#-versioning)
+      * [<em>Authors</em>](#-authors)
+      * [<em>Contributing</em>](#-contributing)
+      * [<em>Visitor stats</em>](#-visitor-stats)
+      * [<em>Licensing</em>](#-licensing)
+      * [<em>Development Support</em>](#-development-support)
+      * [<em>Acknowledgement</em>](#-acknowledgement)
+      * [<em>OpenGraph Card</em>](#-opengraph-card)
+      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+         * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>InfoWorld posts</em>](#infoworld-posts)
+         * [<em>RedHat posts</em>](#redhat-posts)
+         * [<em>Android Authority posts</em>](#android-authority-posts)
+         * [<em>Android Arsenal posts</em>](#android-arsenal-posts)
+         * [<em>Medium posts</em>](#medium-posts)
+         * [<em>Gizmodo posts</em>](#gizmodo-posts)
+         * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
+         * [<em>Infinum posts</em>](#infinum-posts)
 <!--te-->
 
 ## ☝ *Summary*
@@ -250,24 +248,21 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [How do I create non-rectangular views](https://www.reddit.com/r/androiddev/comments/obzl63/how_do_i_create_nonrectangular_views/)
-- [Question about naming my mobile game](https://www.reddit.com/r/androiddev/comments/obyvc4/question_about_naming_my_mobile_game/)
-- [Navigation Component fragment artifact now contains a prebuilt implementation of a two pane layout](https://www.reddit.com/r/androiddev/comments/obyi4c/navigation_component_fragment_artifact_now/)
-- [repeatOnLifecycle API design story](https://www.reddit.com/r/androiddev/comments/oby5h8/repeatonlifecycle_api_design_story/)
-- [Should I drop $4K on my game advertisement? Or will it be just money burnt on nothing.](https://www.reddit.com/r/androiddev/comments/obxdzl/should_i_drop\_4k_on_my_game_advertisement_or_will/)
-- [Device Verification methods?](https://www.reddit.com/r/androiddev/comments/obwtqd/device_verification_methods/)
-- [Mac M1 Android Emulator](https://www.reddit.com/r/androiddev/comments/obvqxg/mac_m1\_android_emulator/)
-- [Were Support libraries e.g. v4 all replaced by AndroidX?](https://www.reddit.com/r/androiddev/comments/obv1z0/were_support_libraries_eg_v4\_all_replaced_by/)
-- [Released Jetpack Compose first release candidate (v1.0.0-rc01)](https://www.reddit.com/r/androiddev/comments/obqitv/released_jetpack_compose_first_release_candidate/)
-- [I would like advice from the members here on the subject of publishing and having an app searchable in the Google store.](https://www.reddit.com/r/androiddev/comments/obq2zv/i_would_like_advice_from_the_members_here_on_the/)
-
+- [Google Play Publishing](https://www.reddit.com/r/androiddev/comments/oco6mi/google_play_publishing/)
+- [I want to become an android dev](https://www.reddit.com/r/androiddev/comments/ocn3au/i_want_to_become_an_android_dev/)
+- [Does Lens Studio use ARKit/ARCore?](https://www.reddit.com/r/androiddev/comments/oclwu6/does_lens_studio_use_arkitarcore/)
+- [Android Jetpack Compose (Conditional Navigation)](https://www.reddit.com/r/androiddev/comments/ochklq/android_jetpack_compose_conditional_navigation/)
+- [Wireless debugging: Are you repeatedly typing the full addresses in the console?](https://www.reddit.com/r/androiddev/comments/ochju8/wireless_debugging_are_you_repeatedly_typing_the/)
+- [Here is a beginner guide to learn Reactivate Programing with kotlin](https://www.reddit.com/r/androiddev/comments/ocgz7f/here_is_a_beginner_guide_to_learn_reactivate/)
+- [Fatal Exception: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching](https://www.reddit.com/r/androiddev/comments/ocgkvz/fatal_exception/)
+- [I’m using “managed publishing.” I submitted a build to production for review. I have not published the build. Why are my subsequent Closed Beta submissions saying “superseded”?](https://www.reddit.com/r/androiddev/comments/ocgea4/im_using_managed_publishing_i_submitted_a_build/)
+- [What technologies should my team learn in order to implement an in-app messaging system?](https://www.reddit.com/r/androiddev/comments/ocg710/what_technologies_should_my_team_learn_in_order/)
+- [[noob] Do I need android studio if I am going to run the app on a physical device (my smartphone)? I already have installed VSvode & node.js. (react native)](https://www.reddit.com/r/androiddev/comments/ocf56r/noob_do_i_need_android_studio_if_i_am_going_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
@@ -278,7 +273,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
 - [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
 - [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
-
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
