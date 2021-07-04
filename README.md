@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play Publishing](https://www.reddit.com/r/androiddev/comments/oco6mi/google_play_publishing/)
-- [I want to become an android dev](https://www.reddit.com/r/androiddev/comments/ocn3au/i_want_to_become_an_android_dev/)
-- [Does Lens Studio use ARKit/ARCore?](https://www.reddit.com/r/androiddev/comments/oclwu6/does_lens_studio_use_arkitarcore/)
-- [Android Jetpack Compose (Conditional Navigation)](https://www.reddit.com/r/androiddev/comments/ochklq/android_jetpack_compose_conditional_navigation/)
-- [Wireless debugging: Are you repeatedly typing the full addresses in the console?](https://www.reddit.com/r/androiddev/comments/ochju8/wireless_debugging_are_you_repeatedly_typing_the/)
-- [Here is a beginner guide to learn Reactivate Programing with kotlin](https://www.reddit.com/r/androiddev/comments/ocgz7f/here_is_a_beginner_guide_to_learn_reactivate/)
-- [Fatal Exception: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching](https://www.reddit.com/r/androiddev/comments/ocgkvz/fatal_exception/)
-- [I’m using “managed publishing.” I submitted a build to production for review. I have not published the build. Why are my subsequent Closed Beta submissions saying “superseded”?](https://www.reddit.com/r/androiddev/comments/ocgea4/im_using_managed_publishing_i_submitted_a_build/)
-- [What technologies should my team learn in order to implement an in-app messaging system?](https://www.reddit.com/r/androiddev/comments/ocg710/what_technologies_should_my_team_learn_in_order/)
-- [[noob] Do I need android studio if I am going to run the app on a physical device (my smartphone)? I already have installed VSvode & node.js. (react native)](https://www.reddit.com/r/androiddev/comments/ocf56r/noob_do_i_need_android_studio_if_i_am_going_to/)
+- [Android studio not opening - Java.io.file.InvalidPathException: Trailing char < > at index 80: C:/Users/Livin/AndroidtStudioProjects/LoginApplication/Studion/caches/trunk-system](https://www.reddit.com/r/androiddev/comments/odagos/android_studio_not_opening/)
+- [Step3 - Learn how to use Room Database](https://www.reddit.com/r/androiddev/comments/oda35u/step3_learn_how_to_use_room_database/)
+- [In a bit of a coding pickle](https://www.reddit.com/r/androiddev/comments/od9nsg/in_a_bit_of_a_coding_pickle/)
+- [Best Courses in Kotlin For Beginner/Mid Level](https://www.reddit.com/r/androiddev/comments/od6xgm/best_courses_in_kotlin_for_beginnermid_level/)
+- [ro.serialno Is it necessary???](https://www.reddit.com/r/androiddev/comments/od68rm/roserialno_is_it_necessary/)
+- [Is there a NoSQL option for Android?](https://www.reddit.com/r/androiddev/comments/od489r/is_there_a_nosql_option_for_android/)
+- [Is the age of mobile apps over?](https://www.reddit.com/r/androiddev/comments/od2d7v/is_the_age_of_mobile_apps_over/)
+- [How do I get to the google developer portal?](https://www.reddit.com/r/androiddev/comments/od14e3/how_do_i_get_to_the_google_developer_portal/)
+- [Pass Parcelable args in the routes navigation, e.g. Compose](https://www.reddit.com/r/androiddev/comments/od0xu4/pass_parcelable_args_in_the_routes_navigation_eg/)
+- [Android Studio Arctic Fox Beta 5](https://www.reddit.com/r/androiddev/comments/od0ure/android_studio_arctic_fox_beta_5/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
