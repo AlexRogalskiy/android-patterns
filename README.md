@@ -248,18 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [Android studio not opening - Java.io.file.InvalidPathException: Trailing char < > at index 80: C:/Users/Livin/AndroidtStudioProjects/LoginApplication/Studion/caches/trunk-system](https://www.reddit.com/r/androiddev/comments/odagos/android_studio_not_opening/)
-- [Step3 - Learn how to use Room Database](https://www.reddit.com/r/androiddev/comments/oda35u/step3\_learn_how_to_use_room_database/)
-- [In a bit of a coding pickle](https://www.reddit.com/r/androiddev/comments/od9nsg/in_a_bit_of_a_coding_pickle/)
-- [Best Courses in Kotlin For Beginner/Mid Level](https://www.reddit.com/r/androiddev/comments/od6xgm/best_courses_in_kotlin_for_beginnermid_level/)
-- [ro.serialno Is it necessary???](https://www.reddit.com/r/androiddev/comments/od68rm/roserialno_is_it_necessary/)
-- [Is there a NoSQL option for Android?](https://www.reddit.com/r/androiddev/comments/od489r/is_there_a_nosql_option_for_android/)
-- [Is the age of mobile apps over?](https://www.reddit.com/r/androiddev/comments/od2d7v/is_the_age_of_mobile_apps_over/)
-- [How do I get to the google developer portal?](https://www.reddit.com/r/androiddev/comments/od14e3/how_do_i_get_to_the_google_developer_portal/)
-- [Pass Parcelable args in the routes navigation, e.g. Compose](https://www.reddit.com/r/androiddev/comments/od0xu4/pass_parcelable_args_in_the_routes_navigation_eg/)
-- [Android Studio Arctic Fox Beta 5](https://www.reddit.com/r/androiddev/comments/od0ure/android_studio_arctic_fox_beta\_5/)
-
+- [How to improve my sudoku app](https://www.reddit.com/r/androiddev/comments/odwrrt/how_to_improve_my_sudoku_app/)
+- [Android-programming a "simple" website](https://www.reddit.com/r/androiddev/comments/odvws9/androidprogramming_a_simple_website/)
+- [I've been working on this Lottie animation editor to edit and export Lottie animations (supported by Android) without After Effects! A lot of people on here have given super useful feedback so far and here's the UI update I'm implementing based on it. Feel free to sign up on lottielab.io. Thanks!](https://www.reddit.com/r/androiddev/comments/odup0o/ive_been_working_on_this_lottie_animation_editor/)
+- [Has anyone gotten rejected from the Play Store for not providing attribution to content creators?](https://www.reddit.com/r/androiddev/comments/ods17r/has_anyone_gotten_rejected_from_the_play_store/)
+- [Intercept splash screen API](https://www.reddit.com/r/androiddev/comments/odr93i/intercept_splash_screen_api/)
+- [How do i achieve this animation in native android (kotlin) ??](https://www.reddit.com/r/androiddev/comments/odr8mf/how_do_i_achieve_this_animation_in_native_android/)
+- [Google's Associate Android Developer Certification vs Udacity's Android Developer Nanodegree](https://www.reddit.com/r/androiddev/comments/odqu19/googles_associate_android_developer_certification/)
+- [Can I become an Android developer? How long will it take?](https://www.reddit.com/r/androiddev/comments/odqfru/can_i_become_an_android_developer_how_long_will/)
+- [Gradle peace in multi module projects](https://www.reddit.com/r/androiddev/comments/odqe1b/gradle_peace_in_multi_module_projects/)
+- [What should I add in the ”what's new" section for the first release in play store?](https://www.reddit.com/r/androiddev/comments/odp731/what_should_i_add_in_the_whats_new_section_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
