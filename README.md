@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to improve my sudoku app](https://www.reddit.com/r/androiddev/comments/odwrrt/how_to_improve_my_sudoku_app/)
-- [Android-programming a "simple" website](https://www.reddit.com/r/androiddev/comments/odvws9/androidprogramming_a_simple_website/)
-- [I've been working on this Lottie animation editor to edit and export Lottie animations (supported by Android) without After Effects! A lot of people on here have given super useful feedback so far and here's the UI update I'm implementing based on it. Feel free to sign up on lottielab.io. Thanks!](https://www.reddit.com/r/androiddev/comments/odup0o/ive_been_working_on_this_lottie_animation_editor/)
-- [Has anyone gotten rejected from the Play Store for not providing attribution to content creators?](https://www.reddit.com/r/androiddev/comments/ods17r/has_anyone_gotten_rejected_from_the_play_store/)
-- [Intercept splash screen API](https://www.reddit.com/r/androiddev/comments/odr93i/intercept_splash_screen_api/)
-- [How do i achieve this animation in native android (kotlin) ??](https://www.reddit.com/r/androiddev/comments/odr8mf/how_do_i_achieve_this_animation_in_native_android/)
-- [Google's Associate Android Developer Certification vs Udacity's Android Developer Nanodegree](https://www.reddit.com/r/androiddev/comments/odqu19/googles_associate_android_developer_certification/)
-- [Can I become an Android developer? How long will it take?](https://www.reddit.com/r/androiddev/comments/odqfru/can_i_become_an_android_developer_how_long_will/)
-- [Gradle peace in multi module projects](https://www.reddit.com/r/androiddev/comments/odqe1b/gradle_peace_in_multi_module_projects/)
-- [What should I add in the ”what's new" section for the first release in play store?](https://www.reddit.com/r/androiddev/comments/odp731/what_should_i_add_in_the_whats_new_section_for/)
+- [Just bought a house at age 30. Will it be harder to find jobs since I can't move?](https://www.reddit.com/r/androiddev/comments/oel74r/just_bought_a_house_at_age_30_will_it_be_harder/)
+- [SERVER PARA GAMERS ANDROID](https://www.reddit.com/r/androiddev/comments/oekp9e/server_para_gamers_android/)
+- [Is Google's Firestore good for large scale applications?](https://www.reddit.com/r/androiddev/comments/oej3uw/is_googles_firestore_good_for_large_scale/)
+- [ViewPager2 and Fragments Onboarding screen(Java).](https://www.reddit.com/r/androiddev/comments/oeisum/viewpager2_and_fragments_onboarding_screenjava/)
+- [New to Android, Why Can't I Just Write SQL?](https://www.reddit.com/r/androiddev/comments/oegrul/new_to_android_why_cant_i_just_write_sql/)
+- [NEW VSCode extension "Blockman" to highlight nested code blocks](https://www.reddit.com/r/androiddev/comments/oegmbb/new_vscode_extension_blockman_to_highlight_nested/)
+- [Will google moving away from APKs to AAB stop my users downloading a modded version of an app?](https://www.reddit.com/r/androiddev/comments/oegg17/will_google_moving_away_from_apks_to_aab_stop_my/)
+- [Common mistakes when using Architecture Components](https://www.reddit.com/r/androiddev/comments/oefq0q/common_mistakes_when_using_architecture_components/)
+- [ELI5 Keystore and keytool used to provide SHA keys.](https://www.reddit.com/r/androiddev/comments/oeeqdi/eli5_keystore_and_keytool_used_to_provide_sha_keys/)
+- [Support multiple screens — Android](https://www.reddit.com/r/androiddev/comments/oeb6oy/support_multiple_screens_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
