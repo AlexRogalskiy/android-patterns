@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just bought a house at age 30. Will it be harder to find jobs since I can't move?](https://www.reddit.com/r/androiddev/comments/oel74r/just_bought_a_house_at_age_30_will_it_be_harder/)
-- [SERVER PARA GAMERS ANDROID](https://www.reddit.com/r/androiddev/comments/oekp9e/server_para_gamers_android/)
-- [Is Google's Firestore good for large scale applications?](https://www.reddit.com/r/androiddev/comments/oej3uw/is_googles_firestore_good_for_large_scale/)
-- [ViewPager2 and Fragments Onboarding screen(Java).](https://www.reddit.com/r/androiddev/comments/oeisum/viewpager2_and_fragments_onboarding_screenjava/)
-- [New to Android, Why Can't I Just Write SQL?](https://www.reddit.com/r/androiddev/comments/oegrul/new_to_android_why_cant_i_just_write_sql/)
-- [NEW VSCode extension "Blockman" to highlight nested code blocks](https://www.reddit.com/r/androiddev/comments/oegmbb/new_vscode_extension_blockman_to_highlight_nested/)
-- [Will google moving away from APKs to AAB stop my users downloading a modded version of an app?](https://www.reddit.com/r/androiddev/comments/oegg17/will_google_moving_away_from_apks_to_aab_stop_my/)
-- [Common mistakes when using Architecture Components](https://www.reddit.com/r/androiddev/comments/oefq0q/common_mistakes_when_using_architecture_components/)
-- [ELI5 Keystore and keytool used to provide SHA keys.](https://www.reddit.com/r/androiddev/comments/oeeqdi/eli5_keystore_and_keytool_used_to_provide_sha_keys/)
-- [Support multiple screens — Android](https://www.reddit.com/r/androiddev/comments/oeb6oy/support_multiple_screens_android/)
+- [Recent Grad, Android dev resume](https://www.reddit.com/r/androiddev/comments/of5hi2/recent_grad_android_dev_resume/)
+- [How to get started with a simple Bluetooth Serial app?](https://www.reddit.com/r/androiddev/comments/of546v/how_to_get_started_with_a_simple_bluetooth_serial/)
+- [Free Tensorflow Lite and Android Project Course on Udemy](https://www.reddit.com/r/androiddev/comments/of4kdj/free_tensorflow_lite_and_android_project_course/)
+- [Android studio with integrated card on linux](https://www.reddit.com/r/androiddev/comments/of3uwz/android_studio_with_integrated_card_on_linux/)
+- [How to get investments for your games?](https://www.reddit.com/r/androiddev/comments/of1j67/how_to_get_investments_for_your_games/)
+- [What else can I do to get the Android Studio Emulator working?](https://www.reddit.com/r/androiddev/comments/of0squ/what_else_can_i_do_to_get_the_android_studio/)
+- [Firebase auth - users being created in console but progress bar won't stop spinning.](https://www.reddit.com/r/androiddev/comments/oey81p/firebase_auth_users_being_created_in_console_but/)
+- [Weird issue (Crash) when casting drawable to AnimatedVectorDrawableCompat with `as`. But works fine when surrounded with if `is` check.](https://www.reddit.com/r/androiddev/comments/oey7m3/weird_issue_crash_when_casting_drawable_to/)
+- [ViewModel initial model question](https://www.reddit.com/r/androiddev/comments/oey5zu/viewmodel_initial_model_question/)
+- [With Android powered gaming handhelds emerging on the market, does that mean that Android can be utilised in order to make a high quality "traditional" console / handheld game?](https://www.reddit.com/r/androiddev/comments/oeunzk/with_android_powered_gaming_handhelds_emerging_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
