@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Recent Grad, Android dev resume](https://www.reddit.com/r/androiddev/comments/of5hi2/recent_grad_android_dev_resume/)
-- [How to get started with a simple Bluetooth Serial app?](https://www.reddit.com/r/androiddev/comments/of546v/how_to_get_started_with_a_simple_bluetooth_serial/)
-- [Free Tensorflow Lite and Android Project Course on Udemy](https://www.reddit.com/r/androiddev/comments/of4kdj/free_tensorflow_lite_and_android_project_course/)
-- [Android studio with integrated card on linux](https://www.reddit.com/r/androiddev/comments/of3uwz/android_studio_with_integrated_card_on_linux/)
-- [How to get investments for your games?](https://www.reddit.com/r/androiddev/comments/of1j67/how_to_get_investments_for_your_games/)
-- [What else can I do to get the Android Studio Emulator working?](https://www.reddit.com/r/androiddev/comments/of0squ/what_else_can_i_do_to_get_the_android_studio/)
-- [Firebase auth - users being created in console but progress bar won't stop spinning.](https://www.reddit.com/r/androiddev/comments/oey81p/firebase_auth_users_being_created_in_console_but/)
-- [Weird issue (Crash) when casting drawable to AnimatedVectorDrawableCompat with `as`. But works fine when surrounded with if `is` check.](https://www.reddit.com/r/androiddev/comments/oey7m3/weird_issue_crash_when_casting_drawable_to/)
-- [ViewModel initial model question](https://www.reddit.com/r/androiddev/comments/oey5zu/viewmodel_initial_model_question/)
-- [With Android powered gaming handhelds emerging on the market, does that mean that Android can be utilised in order to make a high quality "traditional" console / handheld game?](https://www.reddit.com/r/androiddev/comments/oeunzk/with_android_powered_gaming_handhelds_emerging_on/)
+- [Android studio spamming openJDK platform binary process](https://www.reddit.com/r/androiddev/comments/ofvw1m/android_studio_spamming_openjdk_platform_binary/)
+- [Just published one of my projects](https://www.reddit.com/r/androiddev/comments/ofvs60/just_published_one_of_my_projects/)
+- [Click events for Views](https://www.reddit.com/r/androiddev/comments/ofvif1/click_events_for_views/)
+- [Analytics question](https://www.reddit.com/r/androiddev/comments/ofu0ux/analytics_question/)
+- [Login and registration pages UI design in Android](https://www.reddit.com/r/androiddev/comments/ofp47q/login_and_registration_pages_ui_design_in_android/)
+- [App Testers Requirement](https://www.reddit.com/r/androiddev/comments/ofp0pk/app_testers_requirement/)
+- [Website to app using webview bad practice ?](https://www.reddit.com/r/androiddev/comments/ofotlc/website_to_app_using_webview_bad_practice/)
+- [Open Source Gurus Josh Long (Spring), Fred Simon (JFrog), Luke Daley (Gradle), and Jiyasa Grover (Twitter) debate next Thursday in DevProdEng Showdown!](https://www.reddit.com/r/androiddev/comments/ofm3pi/open_source_gurus_josh_long_spring_fred_simon/)
+- [Android Extensions: Are you replacing them?](https://www.reddit.com/r/androiddev/comments/ofl957/android_extensions_are_you_replacing_them/)
+- [What is performance overhead of multiple modules in Android?](https://www.reddit.com/r/androiddev/comments/ofiwjf/what_is_performance_overhead_of_multiple_modules/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
