@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android studio spamming openJDK platform binary process](https://www.reddit.com/r/androiddev/comments/ofvw1m/android_studio_spamming_openjdk_platform_binary/)
-- [Just published one of my projects](https://www.reddit.com/r/androiddev/comments/ofvs60/just_published_one_of_my_projects/)
-- [Click events for Views](https://www.reddit.com/r/androiddev/comments/ofvif1/click_events_for_views/)
-- [Analytics question](https://www.reddit.com/r/androiddev/comments/ofu0ux/analytics_question/)
-- [Login and registration pages UI design in Android](https://www.reddit.com/r/androiddev/comments/ofp47q/login_and_registration_pages_ui_design_in_android/)
-- [App Testers Requirement](https://www.reddit.com/r/androiddev/comments/ofp0pk/app_testers_requirement/)
-- [Website to app using webview bad practice ?](https://www.reddit.com/r/androiddev/comments/ofotlc/website_to_app_using_webview_bad_practice/)
-- [Open Source Gurus Josh Long (Spring), Fred Simon (JFrog), Luke Daley (Gradle), and Jiyasa Grover (Twitter) debate next Thursday in DevProdEng Showdown!](https://www.reddit.com/r/androiddev/comments/ofm3pi/open_source_gurus_josh_long_spring_fred_simon/)
-- [Android Extensions: Are you replacing them?](https://www.reddit.com/r/androiddev/comments/ofl957/android_extensions_are_you_replacing_them/)
-- [What is performance overhead of multiple modules in Android?](https://www.reddit.com/r/androiddev/comments/ofiwjf/what_is_performance_overhead_of_multiple_modules/)
+- [I wish to show stats chart in my app? How do I integrate that in?](https://www.reddit.com/r/androiddev/comments/ogl1nv/i_wish_to_show_stats_chart_in_my_app_how_do_i/)
+- [What development topics do you want to see more documentation/articles of?](https://www.reddit.com/r/androiddev/comments/ogjlyp/what_development_topics_do_you_want_to_see_more/)
+- [Need help with Dialog Fragment with round edges getting cut on top](https://www.reddit.com/r/androiddev/comments/ogjapk/need_help_with_dialog_fragment_with_round_edges/)
+- [Release date - when is Bluetooth 5.1 coming?](https://www.reddit.com/r/androiddev/comments/oghcmi/release_date_when_is_bluetooth_51_coming/)
+- [Which components should not be injecting in hilt or dagger?](https://www.reddit.com/r/androiddev/comments/ogghvf/which_components_should_not_be_injecting_in_hilt/)
+- [Is Java dead?](https://www.reddit.com/r/androiddev/comments/og8oal/is_java_dead/)
+- [Is there any interesting app development/marketing conferences?](https://www.reddit.com/r/androiddev/comments/og7w6z/is_there_any_interesting_app_developmentmarketing/)
+- [Android app got rejected because reviewers went through my website, how to fix this?](https://www.reddit.com/r/androiddev/comments/og6qz0/android_app_got_rejected_because_reviewers_went/)
+- [Open Source Firebase Alternative now has Android Support! ✅️](https://www.reddit.com/r/androiddev/comments/og61cz/open_source_firebase_alternative_now_has_android/)
+- [wanna start learning android native development but afraid of the choice](https://www.reddit.com/r/androiddev/comments/og55qg/wanna_start_learning_android_native_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
