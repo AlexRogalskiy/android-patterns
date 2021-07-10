@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I wish to show stats chart in my app? How do I integrate that in?](https://www.reddit.com/r/androiddev/comments/ogl1nv/i_wish_to_show_stats_chart_in_my_app_how_do_i/)
-- [What development topics do you want to see more documentation/articles of?](https://www.reddit.com/r/androiddev/comments/ogjlyp/what_development_topics_do_you_want_to_see_more/)
-- [Need help with Dialog Fragment with round edges getting cut on top](https://www.reddit.com/r/androiddev/comments/ogjapk/need_help_with_dialog_fragment_with_round_edges/)
-- [Release date - when is Bluetooth 5.1 coming?](https://www.reddit.com/r/androiddev/comments/oghcmi/release_date_when_is_bluetooth_51_coming/)
-- [Which components should not be injecting in hilt or dagger?](https://www.reddit.com/r/androiddev/comments/ogghvf/which_components_should_not_be_injecting_in_hilt/)
-- [Is Java dead?](https://www.reddit.com/r/androiddev/comments/og8oal/is_java_dead/)
-- [Is there any interesting app development/marketing conferences?](https://www.reddit.com/r/androiddev/comments/og7w6z/is_there_any_interesting_app_developmentmarketing/)
-- [Android app got rejected because reviewers went through my website, how to fix this?](https://www.reddit.com/r/androiddev/comments/og6qz0/android_app_got_rejected_because_reviewers_went/)
-- [Open Source Firebase Alternative now has Android Support! ✅️](https://www.reddit.com/r/androiddev/comments/og61cz/open_source_firebase_alternative_now_has_android/)
-- [wanna start learning android native development but afraid of the choice](https://www.reddit.com/r/androiddev/comments/og55qg/wanna_start_learning_android_native_development/)
+- [How you you get the Receipt Info in Android Studio for In App Purchases](https://www.reddit.com/r/androiddev/comments/oh99zz/how_you_you_get_the_receipt_info_in_android/)
+- [Payment pending for larger purchases](https://www.reddit.com/r/androiddev/comments/oh5vns/payment_pending_for_larger_purchases/)
+- [Android Dex Loader Illegal Access Error](https://www.reddit.com/r/androiddev/comments/oh4ub6/android_dex_loader_illegal_access_error/)
+- [Anyone here had Pixelate or MoPub claim they are device ID stuffing?](https://www.reddit.com/r/androiddev/comments/oh2sol/anyone_here_had_pixelate_or_mopub_claim_they_are/)
+- [Recreated my first application Recipedia in Flutter to learn about the framework. Originally I had created it in Java when I was learning Android App Development in 2017.](https://www.reddit.com/r/androiddev/comments/oh2lr7/recreated_my_first_application_recipedia_in/)
+- [I need to create several views like buttons, textview and other views in runtime when button is pressed from button sheet and remove them once button sheet is collapsed. What might be good practice for it?](https://www.reddit.com/r/androiddev/comments/oh2aan/i_need_to_create_several_views_like_buttons/)
+- [Announcing Android’s updateable, fully integrated ML inference stack](https://www.reddit.com/r/androiddev/comments/oh1cex/announcing_androids_updateable_fully_integrated/)
+- [Did someone reverse engineer my app?](https://www.reddit.com/r/androiddev/comments/oh1ans/did_someone_reverse_engineer_my_app/)
+- [Developers Alliance Issues Statement Challenging State Coalition Antitrust Lawsuit Basis](https://www.reddit.com/r/androiddev/comments/ogyvtx/developers_alliance_issues_statement_challenging/)
+- [Does MacBook m1 good for Android development](https://www.reddit.com/r/androiddev/comments/ogwa4d/does_macbook_m1_good_for_android_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
