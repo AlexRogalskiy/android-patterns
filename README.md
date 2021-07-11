@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How you you get the Receipt Info in Android Studio for In App Purchases](https://www.reddit.com/r/androiddev/comments/oh99zz/how_you_you_get_the_receipt_info_in_android/)
-- [Payment pending for larger purchases](https://www.reddit.com/r/androiddev/comments/oh5vns/payment_pending_for_larger_purchases/)
-- [Android Dex Loader Illegal Access Error](https://www.reddit.com/r/androiddev/comments/oh4ub6/android_dex_loader_illegal_access_error/)
-- [Anyone here had Pixelate or MoPub claim they are device ID stuffing?](https://www.reddit.com/r/androiddev/comments/oh2sol/anyone_here_had_pixelate_or_mopub_claim_they_are/)
-- [Recreated my first application Recipedia in Flutter to learn about the framework. Originally I had created it in Java when I was learning Android App Development in 2017.](https://www.reddit.com/r/androiddev/comments/oh2lr7/recreated_my_first_application_recipedia_in/)
-- [I need to create several views like buttons, textview and other views in runtime when button is pressed from button sheet and remove them once button sheet is collapsed. What might be good practice for it?](https://www.reddit.com/r/androiddev/comments/oh2aan/i_need_to_create_several_views_like_buttons/)
-- [Announcing Android’s updateable, fully integrated ML inference stack](https://www.reddit.com/r/androiddev/comments/oh1cex/announcing_androids_updateable_fully_integrated/)
-- [Did someone reverse engineer my app?](https://www.reddit.com/r/androiddev/comments/oh1ans/did_someone_reverse_engineer_my_app/)
-- [Developers Alliance Issues Statement Challenging State Coalition Antitrust Lawsuit Basis](https://www.reddit.com/r/androiddev/comments/ogyvtx/developers_alliance_issues_statement_challenging/)
-- [Does MacBook m1 good for Android development](https://www.reddit.com/r/androiddev/comments/ogwa4d/does_macbook_m1_good_for_android_development/)
+- [Dagger hilt - rid of it completely](https://www.reddit.com/r/androiddev/comments/ohuapp/dagger_hilt_rid_of_it_completely/)
+- [Platform or tools for gathering feedback](https://www.reddit.com/r/androiddev/comments/oht9bn/platform_or_tools_for_gathering_feedback/)
+- [Stuck on Bluetooth Headset Issue](https://www.reddit.com/r/androiddev/comments/ohqist/stuck_on_bluetooth_headset_issue/)
+- [Is a strike against your developer account permanent?](https://www.reddit.com/r/androiddev/comments/ohpjon/is_a_strike_against_your_developer_account/)
+- [Open Sourced NIDS(Intruder Detection Systems) on Android](https://www.reddit.com/r/androiddev/comments/ohlc73/open_sourced_nidsintruder_detection_systems_on/)
+- [Adopting Jetpack Compose - Joe Birch](https://www.reddit.com/r/androiddev/comments/ohky22/adopting_jetpack_compose_joe_birch/)
+- [FIRESTORE COLLECTION GROUP QUERY](https://www.reddit.com/r/androiddev/comments/ohksxl/firestore_collection_group_query/)
+- [JavaFX application to resize images and add them into folders automatically. It is a powerful Cross-Platform tool for Android developers.](https://www.reddit.com/r/androiddev/comments/ohjx3o/javafx_application_to_resize_images_and_add_them/)
+- [Alternatives to sceneform?](https://www.reddit.com/r/androiddev/comments/ohje5j/alternatives_to_sceneform/)
+- [App Feedback Thread - July 10, 2021](https://www.reddit.com/r/androiddev/comments/ohi9oy/app_feedback_thread_july_10_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
