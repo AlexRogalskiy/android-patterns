@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dagger hilt - rid of it completely](https://www.reddit.com/r/androiddev/comments/ohuapp/dagger_hilt_rid_of_it_completely/)
-- [Platform or tools for gathering feedback](https://www.reddit.com/r/androiddev/comments/oht9bn/platform_or_tools_for_gathering_feedback/)
-- [Stuck on Bluetooth Headset Issue](https://www.reddit.com/r/androiddev/comments/ohqist/stuck_on_bluetooth_headset_issue/)
-- [Is a strike against your developer account permanent?](https://www.reddit.com/r/androiddev/comments/ohpjon/is_a_strike_against_your_developer_account/)
-- [Open Sourced NIDS(Intruder Detection Systems) on Android](https://www.reddit.com/r/androiddev/comments/ohlc73/open_sourced_nidsintruder_detection_systems_on/)
-- [Adopting Jetpack Compose - Joe Birch](https://www.reddit.com/r/androiddev/comments/ohky22/adopting_jetpack_compose_joe_birch/)
-- [FIRESTORE COLLECTION GROUP QUERY](https://www.reddit.com/r/androiddev/comments/ohksxl/firestore_collection_group_query/)
-- [JavaFX application to resize images and add them into folders automatically. It is a powerful Cross-Platform tool for Android developers.](https://www.reddit.com/r/androiddev/comments/ohjx3o/javafx_application_to_resize_images_and_add_them/)
-- [Alternatives to sceneform?](https://www.reddit.com/r/androiddev/comments/ohje5j/alternatives_to_sceneform/)
-- [App Feedback Thread - July 10, 2021](https://www.reddit.com/r/androiddev/comments/ohi9oy/app_feedback_thread_july_10_2021/)
+- [New to android devv and curious about legal stuff](https://www.reddit.com/r/androiddev/comments/oie238/new_to_android_devv_and_curious_about_legal_stuff/)
+- [Anyone who can take in a mentee?](https://www.reddit.com/r/androiddev/comments/oiafgw/anyone_who_can_take_in_a_mentee/)
+- [Best practice to organize user preferences/settings?](https://www.reddit.com/r/androiddev/comments/oiach5/best_practice_to_organize_user_preferencessettings/)
+- [How can I mock dependencies in my activities for tests?](https://www.reddit.com/r/androiddev/comments/oia1ri/how_can_i_mock_dependencies_in_my_activities_for/)
+- [Shopify screenshot testing](https://www.reddit.com/r/androiddev/comments/oi7yzv/shopify_screenshot_testing/)
+- [95 of 100 subscription orders from Indonesia stuck in payment pending after free trial ended. Is it normal?](https://www.reddit.com/r/androiddev/comments/oi5ler/95_of_100_subscription_orders_from_indonesia/)
+- [How long will you go to protect your Android app from being tampered?](https://www.reddit.com/r/androiddev/comments/oi5j4j/how_long_will_you_go_to_protect_your_android_app/)
+- [Path Finding Visualizer App using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oi58sz/path_finding_visualizer_app_using_jetpack_compose/)
+- [I'm having issue submitting an app for Android Auto.](https://www.reddit.com/r/androiddev/comments/oi2fv1/im_having_issue_submitting_an_app_for_android_auto/)
+- [Integratable piece of code for apps](https://www.reddit.com/r/androiddev/comments/oi1vnb/integratable_piece_of_code_for_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
