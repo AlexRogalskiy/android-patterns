@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New to android devv and curious about legal stuff](https://www.reddit.com/r/androiddev/comments/oie238/new_to_android_devv_and_curious_about_legal_stuff/)
-- [Anyone who can take in a mentee?](https://www.reddit.com/r/androiddev/comments/oiafgw/anyone_who_can_take_in_a_mentee/)
-- [Best practice to organize user preferences/settings?](https://www.reddit.com/r/androiddev/comments/oiach5/best_practice_to_organize_user_preferencessettings/)
-- [How can I mock dependencies in my activities for tests?](https://www.reddit.com/r/androiddev/comments/oia1ri/how_can_i_mock_dependencies_in_my_activities_for/)
-- [Shopify screenshot testing](https://www.reddit.com/r/androiddev/comments/oi7yzv/shopify_screenshot_testing/)
-- [95 of 100 subscription orders from Indonesia stuck in payment pending after free trial ended. Is it normal?](https://www.reddit.com/r/androiddev/comments/oi5ler/95_of_100_subscription_orders_from_indonesia/)
-- [How long will you go to protect your Android app from being tampered?](https://www.reddit.com/r/androiddev/comments/oi5j4j/how_long_will_you_go_to_protect_your_android_app/)
-- [Path Finding Visualizer App using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oi58sz/path_finding_visualizer_app_using_jetpack_compose/)
-- [I'm having issue submitting an app for Android Auto.](https://www.reddit.com/r/androiddev/comments/oi2fv1/im_having_issue_submitting_an_app_for_android_auto/)
-- [Integratable piece of code for apps](https://www.reddit.com/r/androiddev/comments/oi1vnb/integratable_piece_of_code_for_apps/)
+- [Where to start with Kotlin app development](https://www.reddit.com/r/androiddev/comments/oj48ta/where_to_start_with_kotlin_app_development/)
+- [MQTT as IPC on Android?](https://www.reddit.com/r/androiddev/comments/oj1llo/mqtt_as_ipc_on_android/)
+- [JetBrains' Code With Me plugin is now compatible with Android Studio Canary](https://www.reddit.com/r/androiddev/comments/oj0ebm/jetbrains_code_with_me_plugin_is_now_compatible/)
+- [Best way to implementing Dialog with option and error message using MVVM architecture.](https://www.reddit.com/r/androiddev/comments/oivt8m/best_way_to_implementing_dialog_with_option_and/)
+- [Creating a Google Play Coupon Code Question.](https://www.reddit.com/r/androiddev/comments/oivb25/creating_a_google_play_coupon_code_question/)
+- [How to get all file access permission for social networking app?](https://www.reddit.com/r/androiddev/comments/oiuuby/how_to_get_all_file_access_permission_for_social/)
+- [Added Scoped Storage support to app and...](https://www.reddit.com/r/androiddev/comments/oiu724/added_scoped_storage_support_to_app_and/)
+- [Jetpack data store first release candidate is released v1.0.0-rc01](https://www.reddit.com/r/androiddev/comments/oiu344/jetpack_data_store_first_release_candidate_is/)
+- [Changing the text color of edit text context menu (copy/paste/cut)](https://www.reddit.com/r/androiddev/comments/oit744/changing_the_text_color_of_edit_text_context_menu/)
+- [Things you need to know before switching to Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oisr62/things_you_need_to_know_before_switching_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
