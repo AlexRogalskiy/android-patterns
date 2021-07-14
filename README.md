@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where to start with Kotlin app development](https://www.reddit.com/r/androiddev/comments/oj48ta/where_to_start_with_kotlin_app_development/)
-- [MQTT as IPC on Android?](https://www.reddit.com/r/androiddev/comments/oj1llo/mqtt_as_ipc_on_android/)
-- [JetBrains' Code With Me plugin is now compatible with Android Studio Canary](https://www.reddit.com/r/androiddev/comments/oj0ebm/jetbrains_code_with_me_plugin_is_now_compatible/)
-- [Best way to implementing Dialog with option and error message using MVVM architecture.](https://www.reddit.com/r/androiddev/comments/oivt8m/best_way_to_implementing_dialog_with_option_and/)
-- [Creating a Google Play Coupon Code Question.](https://www.reddit.com/r/androiddev/comments/oivb25/creating_a_google_play_coupon_code_question/)
-- [How to get all file access permission for social networking app?](https://www.reddit.com/r/androiddev/comments/oiuuby/how_to_get_all_file_access_permission_for_social/)
-- [Added Scoped Storage support to app and...](https://www.reddit.com/r/androiddev/comments/oiu724/added_scoped_storage_support_to_app_and/)
-- [Jetpack data store first release candidate is released v1.0.0-rc01](https://www.reddit.com/r/androiddev/comments/oiu344/jetpack_data_store_first_release_candidate_is/)
-- [Changing the text color of edit text context menu (copy/paste/cut)](https://www.reddit.com/r/androiddev/comments/oit744/changing_the_text_color_of_edit_text_context_menu/)
-- [Things you need to know before switching to Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oisr62/things_you_need_to_know_before_switching_to/)
+- [Is there any good tutorials on the Android filesystem and commands?](https://www.reddit.com/r/androiddev/comments/ojsq1s/is_there_any_good_tutorials_on_the_android/)
+- [Please can anyone help me to understand why I am violating the privacy policy?](https://www.reddit.com/r/androiddev/comments/ojspfo/please_can_anyone_help_me_to_understand_why_i_am/)
+- [How to access a field in a nested json response with retrofit](https://www.reddit.com/r/androiddev/comments/ojqv8b/how_to_access_a_field_in_a_nested_json_response/)
+- [FAN : No more Chance to appeal Ad bundle. What should I do now? Can I create new Ad Bundle in same FAN account ?](https://www.reddit.com/r/androiddev/comments/ojpt7h/fan_no_more_chance_to_appeal_ad_bundle_what/)
+- [Can some one tell me a simple way to compress a video in Android Java?](https://www.reddit.com/r/androiddev/comments/ojp50a/can_some_one_tell_me_a_simple_way_to_compress_a/)
+- [Why in some case do we use <tag content/> and in some cases we use <tag>content<tag/>](https://www.reddit.com/r/androiddev/comments/ojoxu2/why_in_some_case_do_we_use_tag_content_and_in/)
+- [Background Service using Bluetooth LE requires background location permission. Anyway to get around it from a calling app using PendingIntent (or otherway)](https://www.reddit.com/r/androiddev/comments/ojlykp/background_service_using_bluetooth_le_requires/)
+- [Recent versions of IntelliJ/AndroidStudio changed how "Search Everywhere" results are displayed; here's how to change it back](https://www.reddit.com/r/androiddev/comments/ojkwbk/recent_versions_of_intellijandroidstudio_changed/)
+- [RecyclerView getting way too complex! ♻️👀🤔](https://www.reddit.com/r/androiddev/comments/ojkjvj/recyclerview_getting_way_too_complex/)
+- [Does using keep alive, Foreground Services, irremovable notification harm the device, if you keep it on constantly?](https://www.reddit.com/r/androiddev/comments/ojkjo1/does_using_keep_alive_foreground_services/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
