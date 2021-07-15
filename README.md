@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there any good tutorials on the Android filesystem and commands?](https://www.reddit.com/r/androiddev/comments/ojsq1s/is_there_any_good_tutorials_on_the_android/)
-- [Please can anyone help me to understand why I am violating the privacy policy?](https://www.reddit.com/r/androiddev/comments/ojspfo/please_can_anyone_help_me_to_understand_why_i_am/)
-- [How to access a field in a nested json response with retrofit](https://www.reddit.com/r/androiddev/comments/ojqv8b/how_to_access_a_field_in_a_nested_json_response/)
-- [FAN : No more Chance to appeal Ad bundle. What should I do now? Can I create new Ad Bundle in same FAN account ?](https://www.reddit.com/r/androiddev/comments/ojpt7h/fan_no_more_chance_to_appeal_ad_bundle_what/)
-- [Can some one tell me a simple way to compress a video in Android Java?](https://www.reddit.com/r/androiddev/comments/ojp50a/can_some_one_tell_me_a_simple_way_to_compress_a/)
-- [Why in some case do we use <tag content/> and in some cases we use <tag>content<tag/>](https://www.reddit.com/r/androiddev/comments/ojoxu2/why_in_some_case_do_we_use_tag_content_and_in/)
-- [Background Service using Bluetooth LE requires background location permission. Anyway to get around it from a calling app using PendingIntent (or otherway)](https://www.reddit.com/r/androiddev/comments/ojlykp/background_service_using_bluetooth_le_requires/)
-- [Recent versions of IntelliJ/AndroidStudio changed how "Search Everywhere" results are displayed; here's how to change it back](https://www.reddit.com/r/androiddev/comments/ojkwbk/recent_versions_of_intellijandroidstudio_changed/)
-- [RecyclerView getting way too complex! ♻️👀🤔](https://www.reddit.com/r/androiddev/comments/ojkjvj/recyclerview_getting_way_too_complex/)
-- [Does using keep alive, Foreground Services, irremovable notification harm the device, if you keep it on constantly?](https://www.reddit.com/r/androiddev/comments/ojkjo1/does_using_keep_alive_foreground_services/)
+- [Questions about using AMD Ryzen 5900X with Android Studio](https://www.reddit.com/r/androiddev/comments/okejm4/questions_about_using_amd_ryzen_5900x_with/)
+- [Has anyone got a websocket working from an Android to a Ruby on Rails server with ActionCable?](https://www.reddit.com/r/androiddev/comments/okd67v/has_anyone_got_a_websocket_working_from_an/)
+- ["Company Name" when publishing app?](https://www.reddit.com/r/androiddev/comments/okd424/company_name_when_publishing_app/)
+- [Had anyone success filing a DMCA counter notification?](https://www.reddit.com/r/androiddev/comments/okcnyo/had_anyone_success_filing_a_dmca_counter/)
+- [Admob eCPM](https://www.reddit.com/r/androiddev/comments/okckx9/admob_ecpm/)
+- [Google Play Console: no pre-registration statistics](https://www.reddit.com/r/androiddev/comments/okakcv/google_play_console_no_preregistration_statistics/)
+- [Request to postpone 2nd tech interview with final interview already scheduled](https://www.reddit.com/r/androiddev/comments/ok9qgb/request_to_postpone_2nd_tech_interview_with_final/)
+- [When will Android Studio 2020.3.1 hit stable?](https://www.reddit.com/r/androiddev/comments/ok8ukv/when_will_android_studio_202031_hit_stable/)
+- [Beta 3](https://www.reddit.com/r/androiddev/comments/ok8sns/beta_3/)
+- [New security mechanisms per android version](https://www.reddit.com/r/androiddev/comments/ok8d7l/new_security_mechanisms_per_android_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
