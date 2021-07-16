@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Questions about using AMD Ryzen 5900X with Android Studio](https://www.reddit.com/r/androiddev/comments/okejm4/questions_about_using_amd_ryzen_5900x_with/)
-- [Has anyone got a websocket working from an Android to a Ruby on Rails server with ActionCable?](https://www.reddit.com/r/androiddev/comments/okd67v/has_anyone_got_a_websocket_working_from_an/)
-- ["Company Name" when publishing app?](https://www.reddit.com/r/androiddev/comments/okd424/company_name_when_publishing_app/)
-- [Had anyone success filing a DMCA counter notification?](https://www.reddit.com/r/androiddev/comments/okcnyo/had_anyone_success_filing_a_dmca_counter/)
-- [Admob eCPM](https://www.reddit.com/r/androiddev/comments/okckx9/admob_ecpm/)
-- [Google Play Console: no pre-registration statistics](https://www.reddit.com/r/androiddev/comments/okakcv/google_play_console_no_preregistration_statistics/)
-- [Request to postpone 2nd tech interview with final interview already scheduled](https://www.reddit.com/r/androiddev/comments/ok9qgb/request_to_postpone_2nd_tech_interview_with_final/)
-- [When will Android Studio 2020.3.1 hit stable?](https://www.reddit.com/r/androiddev/comments/ok8ukv/when_will_android_studio_202031_hit_stable/)
-- [Beta 3](https://www.reddit.com/r/androiddev/comments/ok8sns/beta_3/)
-- [New security mechanisms per android version](https://www.reddit.com/r/androiddev/comments/ok8d7l/new_security_mechanisms_per_android_version/)
+- [Does Google/Apple take fees on money that our users are earning?](https://www.reddit.com/r/androiddev/comments/ol3hoi/does_googleapple_take_fees_on_money_that_our/)
+- [Jetpack Compose: Missing piece to the MVI puzzle?](https://www.reddit.com/r/androiddev/comments/ol39h6/jetpack_compose_missing_piece_to_the_mvi_puzzle/)
+- [New Switch design](https://www.reddit.com/r/androiddev/comments/ol2tap/new_switch_design/)
+- [Beginner:- Jetpack compose or XML?](https://www.reddit.com/r/androiddev/comments/ol07oi/beginner_jetpack_compose_or_xml/)
+- [CustomView for Tooltip](https://www.reddit.com/r/androiddev/comments/oky7wr/customview_for_tooltip/)
+- [Books](https://www.reddit.com/r/androiddev/comments/oky5z7/books/)
+- [If there was a way to search Google Play Store with lots of parameters...](https://www.reddit.com/r/androiddev/comments/okxeps/if_there_was_a_way_to_search_google_play_store/)
+- [Why did you choose Android development as a career path over web or iOS?](https://www.reddit.com/r/androiddev/comments/okvxkq/why_did_you_choose_android_development_as_a/)
+- [Starter Kit is the best way to learn react native](https://www.reddit.com/r/androiddev/comments/okumvh/starter_kit_is_the_best_way_to_learn_react_native/)
+- [An easy checklist to follow when you are testing a mobile app](https://www.reddit.com/r/androiddev/comments/oktmw3/an_easy_checklist_to_follow_when_you_are_testing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
