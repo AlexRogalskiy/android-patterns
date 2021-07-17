@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does Google/Apple take fees on money that our users are earning?](https://www.reddit.com/r/androiddev/comments/ol3hoi/does_googleapple_take_fees_on_money_that_our/)
-- [Jetpack Compose: Missing piece to the MVI puzzle?](https://www.reddit.com/r/androiddev/comments/ol39h6/jetpack_compose_missing_piece_to_the_mvi_puzzle/)
-- [New Switch design](https://www.reddit.com/r/androiddev/comments/ol2tap/new_switch_design/)
-- [Beginner:- Jetpack compose or XML?](https://www.reddit.com/r/androiddev/comments/ol07oi/beginner_jetpack_compose_or_xml/)
-- [CustomView for Tooltip](https://www.reddit.com/r/androiddev/comments/oky7wr/customview_for_tooltip/)
-- [Books](https://www.reddit.com/r/androiddev/comments/oky5z7/books/)
-- [If there was a way to search Google Play Store with lots of parameters...](https://www.reddit.com/r/androiddev/comments/okxeps/if_there_was_a_way_to_search_google_play_store/)
-- [Why did you choose Android development as a career path over web or iOS?](https://www.reddit.com/r/androiddev/comments/okvxkq/why_did_you_choose_android_development_as_a/)
-- [Starter Kit is the best way to learn react native](https://www.reddit.com/r/androiddev/comments/okumvh/starter_kit_is_the_best_way_to_learn_react_native/)
-- [An easy checklist to follow when you are testing a mobile app](https://www.reddit.com/r/androiddev/comments/oktmw3/an_easy_checklist_to_follow_when_you_are_testing/)
+- [Bring parallelism to your Junit tests with BatchRunner](https://www.reddit.com/r/androiddev/comments/olsz8j/bring_parallelism_to_your_junit_tests_with/)
+- [Third party library](https://www.reddit.com/r/androiddev/comments/olrzd7/third_party_library/)
+- [How to avoid violating the Interface Segregation Principle in Android app?](https://www.reddit.com/r/androiddev/comments/oln1rn/how_to_avoid_violating_the_interface_segregation/)
+- [Help me find a course as a beginner in android dev with previous programming exp!](https://www.reddit.com/r/androiddev/comments/oln15s/help_me_find_a_course_as_a_beginner_in_android/)
+- [Anyone have experience creating paid Amazon app?](https://www.reddit.com/r/androiddev/comments/olmbt1/anyone_have_experience_creating_paid_amazon_app/)
+- [I am getting a very high proportion of refunds. It wasn't like that before, not even close. I have 10 times more download a day but 5 times less revenue. Any idea what's causing this? The game didn't get worse by any mean.](https://www.reddit.com/r/androiddev/comments/olj9aw/i_am_getting_a_very_high_proportion_of_refunds_it/)
+- [Maven 101: Wrapping your head around Apache's Amazing Build Tool](https://www.reddit.com/r/androiddev/comments/olhv1v/maven_101_wrapping_your_head_around_apaches/)
+- [Set up for Android 12](https://www.reddit.com/r/androiddev/comments/olh1pp/set_up_for_android_12/)
+- [TIL using a preview compileSdkVersion for an app will not you install it from the Play Store](https://www.reddit.com/r/androiddev/comments/olgtgb/til_using_a_preview_compilesdkversion_for_an_app/)
+- [Weekly Anything Goes Thread - July 16, 2021](https://www.reddit.com/r/androiddev/comments/olgejh/weekly_anything_goes_thread_july_16_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
