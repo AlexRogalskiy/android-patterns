@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bring parallelism to your Junit tests with BatchRunner](https://www.reddit.com/r/androiddev/comments/olsz8j/bring_parallelism_to_your_junit_tests_with/)
-- [Third party library](https://www.reddit.com/r/androiddev/comments/olrzd7/third_party_library/)
-- [How to avoid violating the Interface Segregation Principle in Android app?](https://www.reddit.com/r/androiddev/comments/oln1rn/how_to_avoid_violating_the_interface_segregation/)
-- [Help me find a course as a beginner in android dev with previous programming exp!](https://www.reddit.com/r/androiddev/comments/oln15s/help_me_find_a_course_as_a_beginner_in_android/)
-- [Anyone have experience creating paid Amazon app?](https://www.reddit.com/r/androiddev/comments/olmbt1/anyone_have_experience_creating_paid_amazon_app/)
-- [I am getting a very high proportion of refunds. It wasn't like that before, not even close. I have 10 times more download a day but 5 times less revenue. Any idea what's causing this? The game didn't get worse by any mean.](https://www.reddit.com/r/androiddev/comments/olj9aw/i_am_getting_a_very_high_proportion_of_refunds_it/)
-- [Maven 101: Wrapping your head around Apache's Amazing Build Tool](https://www.reddit.com/r/androiddev/comments/olhv1v/maven_101_wrapping_your_head_around_apaches/)
-- [Set up for Android 12](https://www.reddit.com/r/androiddev/comments/olh1pp/set_up_for_android_12/)
-- [TIL using a preview compileSdkVersion for an app will not you install it from the Play Store](https://www.reddit.com/r/androiddev/comments/olgtgb/til_using_a_preview_compilesdkversion_for_an_app/)
-- [Weekly Anything Goes Thread - July 16, 2021](https://www.reddit.com/r/androiddev/comments/olgejh/weekly_anything_goes_thread_july_16_2021/)
+- [UI Design in Android Studio](https://www.reddit.com/r/androiddev/comments/omfnga/ui_design_in_android_studio/)
+- [What are Admob's "Sensitive categories" for?](https://www.reddit.com/r/androiddev/comments/ombvkx/what_are_admobs_sensitive_categories_for/)
+- [Compose Calendar library](https://www.reddit.com/r/androiddev/comments/omb325/compose_calendar_library/)
+- [Facebook Open Bidding In Admob](https://www.reddit.com/r/androiddev/comments/om85gl/facebook_open_bidding_in_admob/)
+- [Resources/Tutorials for in app billing subscriptions?](https://www.reddit.com/r/androiddev/comments/om6vz3/resourcestutorials_for_in_app_billing/)
+- [Dear Freelancers, can you share your journey?](https://www.reddit.com/r/androiddev/comments/om5jcm/dear_freelancers_can_you_share_your_journey/)
+- [What are the things you dislike the most about working as an Android developer?](https://www.reddit.com/r/androiddev/comments/om4lng/what_are_the_things_you_dislike_the_most_about/)
+- [How to use Android Data Binding in custom views?](https://www.reddit.com/r/androiddev/comments/om404y/how_to_use_android_data_binding_in_custom_views/)
+- [App Feedback Thread - July 17, 2021](https://www.reddit.com/r/androiddev/comments/om3s9k/app_feedback_thread_july_17_2021/)
+- [Discussion](https://www.reddit.com/r/androiddev/comments/om3ngf/discussion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
