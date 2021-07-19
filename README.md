@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [UI Design in Android Studio](https://www.reddit.com/r/androiddev/comments/omfnga/ui_design_in_android_studio/)
-- [What are Admob's "Sensitive categories" for?](https://www.reddit.com/r/androiddev/comments/ombvkx/what_are_admobs_sensitive_categories_for/)
-- [Compose Calendar library](https://www.reddit.com/r/androiddev/comments/omb325/compose_calendar_library/)
-- [Facebook Open Bidding In Admob](https://www.reddit.com/r/androiddev/comments/om85gl/facebook_open_bidding_in_admob/)
-- [Resources/Tutorials for in app billing subscriptions?](https://www.reddit.com/r/androiddev/comments/om6vz3/resourcestutorials_for_in_app_billing/)
-- [Dear Freelancers, can you share your journey?](https://www.reddit.com/r/androiddev/comments/om5jcm/dear_freelancers_can_you_share_your_journey/)
-- [What are the things you dislike the most about working as an Android developer?](https://www.reddit.com/r/androiddev/comments/om4lng/what_are_the_things_you_dislike_the_most_about/)
-- [How to use Android Data Binding in custom views?](https://www.reddit.com/r/androiddev/comments/om404y/how_to_use_android_data_binding_in_custom_views/)
-- [App Feedback Thread - July 17, 2021](https://www.reddit.com/r/androiddev/comments/om3s9k/app_feedback_thread_july_17_2021/)
-- [Discussion](https://www.reddit.com/r/androiddev/comments/om3ngf/discussion/)
+- [Git freezed with AS 4.2+ but works fine in AS 4.1.3](https://www.reddit.com/r/androiddev/comments/omzb80/git_freezed_with_as_42_but_works_fine_in_as_413/)
+- [[HELP] Jetpack Compose vs XML For The Absolute Beginners](https://www.reddit.com/r/androiddev/comments/omz6ed/help_jetpack_compose_vs_xml_for_the_absolute/)
+- [What are the best looking non-Google apps with Material Design?](https://www.reddit.com/r/androiddev/comments/omt51a/what_are_the_best_looking_nongoogle_apps_with/)
+- [The Best Version(s) For Game Development](https://www.reddit.com/r/androiddev/comments/omr3qe/the_best_versions_for_game_development/)
+- [Use Python programs for making an app](https://www.reddit.com/r/androiddev/comments/omqu7w/use_python_programs_for_making_an_app/)
+- [Sample Android WebRTC app using Firebase Realtime Database](https://www.reddit.com/r/androiddev/comments/omqdn8/sample_android_webrtc_app_using_firebase_realtime/)
+- [Google Play Console Reviewing](https://www.reddit.com/r/androiddev/comments/omq3wn/google_play_console_reviewing/)
+- [Best Android Studio for production in Apple Chip (M1)](https://www.reddit.com/r/androiddev/comments/ompyc8/best_android_studio_for_production_in_apple_chip/)
+- [Is gradle configuration avoidance possible with AGP?](https://www.reddit.com/r/androiddev/comments/ompa5v/is_gradle_configuration_avoidance_possible_with/)
+- [What laptop specs would you recommend for android app building?](https://www.reddit.com/r/androiddev/comments/ommgb4/what_laptop_specs_would_you_recommend_for_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
