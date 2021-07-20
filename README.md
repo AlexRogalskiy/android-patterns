@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Git freezed with AS 4.2+ but works fine in AS 4.1.3](https://www.reddit.com/r/androiddev/comments/omzb80/git_freezed_with_as_42_but_works_fine_in_as_413/)
-- [[HELP] Jetpack Compose vs XML For The Absolute Beginners](https://www.reddit.com/r/androiddev/comments/omz6ed/help_jetpack_compose_vs_xml_for_the_absolute/)
-- [What are the best looking non-Google apps with Material Design?](https://www.reddit.com/r/androiddev/comments/omt51a/what_are_the_best_looking_nongoogle_apps_with/)
-- [The Best Version(s) For Game Development](https://www.reddit.com/r/androiddev/comments/omr3qe/the_best_versions_for_game_development/)
-- [Use Python programs for making an app](https://www.reddit.com/r/androiddev/comments/omqu7w/use_python_programs_for_making_an_app/)
-- [Sample Android WebRTC app using Firebase Realtime Database](https://www.reddit.com/r/androiddev/comments/omqdn8/sample_android_webrtc_app_using_firebase_realtime/)
-- [Google Play Console Reviewing](https://www.reddit.com/r/androiddev/comments/omq3wn/google_play_console_reviewing/)
-- [Best Android Studio for production in Apple Chip (M1)](https://www.reddit.com/r/androiddev/comments/ompyc8/best_android_studio_for_production_in_apple_chip/)
-- [Is gradle configuration avoidance possible with AGP?](https://www.reddit.com/r/androiddev/comments/ompa5v/is_gradle_configuration_avoidance_possible_with/)
-- [What laptop specs would you recommend for android app building?](https://www.reddit.com/r/androiddev/comments/ommgb4/what_laptop_specs_would_you_recommend_for_android/)
+- [Color Palette for GMail App](https://www.reddit.com/r/androiddev/comments/ons8bf/color_palette_for_gmail_app/)
+- [Swarogya - Automated Hospital Management System](https://www.reddit.com/r/androiddev/comments/onlhvf/swarogya_automated_hospital_management_system/)
+- [Importance of Wall clock time, On CPU time and off CPU time for solving performance issues](https://www.reddit.com/r/androiddev/comments/onky5c/importance_of_wall_clock_time_on_cpu_time_and_off/)
+- [Allowing developers to apply for more time to comply with Play Payments Policy](https://www.reddit.com/r/androiddev/comments/onk8ll/allowing_developers_to_apply_for_more_time_to/)
+- [Has Google built in a TikTok service working into the OS?](https://www.reddit.com/r/androiddev/comments/onewk1/has_google_built_in_a_tiktok_service_working_into/)
+- [Weekly Who's Hiring Thread - July 19, 2021](https://www.reddit.com/r/androiddev/comments/ondka1/weekly_whos_hiring_thread_july_19_2021/)
+- [Build multiplatform projects in Kotlin and learn more about server driven UI in Android!](https://www.reddit.com/r/androiddev/comments/onc4vy/build_multiplatform_projects_in_kotlin_and_learn/)
+- [🤓 Google Play bots signup after releasing bundle to Store](https://www.reddit.com/r/androiddev/comments/on9olt/google_play_bots_signup_after_releasing_bundle_to/)
+- [Someone tell me what kind of sorcery this is.](https://www.reddit.com/r/androiddev/comments/on9m35/someone_tell_me_what_kind_of_sorcery_this_is/)
+- [Android app testing](https://www.reddit.com/r/androiddev/comments/on91wd/android_app_testing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
