@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Color Palette for GMail App](https://www.reddit.com/r/androiddev/comments/ons8bf/color_palette_for_gmail_app/)
-- [Swarogya - Automated Hospital Management System](https://www.reddit.com/r/androiddev/comments/onlhvf/swarogya_automated_hospital_management_system/)
-- [Importance of Wall clock time, On CPU time and off CPU time for solving performance issues](https://www.reddit.com/r/androiddev/comments/onky5c/importance_of_wall_clock_time_on_cpu_time_and_off/)
-- [Allowing developers to apply for more time to comply with Play Payments Policy](https://www.reddit.com/r/androiddev/comments/onk8ll/allowing_developers_to_apply_for_more_time_to/)
-- [Has Google built in a TikTok service working into the OS?](https://www.reddit.com/r/androiddev/comments/onewk1/has_google_built_in_a_tiktok_service_working_into/)
-- [Weekly Who's Hiring Thread - July 19, 2021](https://www.reddit.com/r/androiddev/comments/ondka1/weekly_whos_hiring_thread_july_19_2021/)
-- [Build multiplatform projects in Kotlin and learn more about server driven UI in Android!](https://www.reddit.com/r/androiddev/comments/onc4vy/build_multiplatform_projects_in_kotlin_and_learn/)
-- [🤓 Google Play bots signup after releasing bundle to Store](https://www.reddit.com/r/androiddev/comments/on9olt/google_play_bots_signup_after_releasing_bundle_to/)
-- [Someone tell me what kind of sorcery this is.](https://www.reddit.com/r/androiddev/comments/on9m35/someone_tell_me_what_kind_of_sorcery_this_is/)
-- [Android app testing](https://www.reddit.com/r/androiddev/comments/on91wd/android_app_testing/)
+- [Installed Build Tools revision 31.0.0 is corrupted](https://www.reddit.com/r/androiddev/comments/oof67i/installed_build_tools_revision_3100_is_corrupted/)
+- [Android SDK Platform and Build Tools 31 now stable!](https://www.reddit.com/r/androiddev/comments/ooe5tu/android_sdk_platform_and_build_tools_31_now_stable/)
+- [In-App reviews not working for me](https://www.reddit.com/r/androiddev/comments/ooe4e3/inapp_reviews_not_working_for_me/)
+- [my admob account get limit ads](https://www.reddit.com/r/androiddev/comments/oodkf5/my_admob_account_get_limit_ads/)
+- [Foldables [All official development resources]](https://www.reddit.com/r/androiddev/comments/ooc50z/foldables_all_official_development_resources/)
+- [Android Studio Arctic Fox RC1 has been released](https://www.reddit.com/r/androiddev/comments/oob4yv/android_studio_arctic_fox_rc1_has_been_released/)
+- [Learning unit testing on Android: Unresolved reference: isEqualTo](https://www.reddit.com/r/androiddev/comments/oo7036/learning_unit_testing_on_android_unresolved/)
+- [Can I use firebase remote config if a user opts out of analytics and tracking?](https://www.reddit.com/r/androiddev/comments/oo4x7z/can_i_use_firebase_remote_config_if_a_user_opts/)
+- [Scoped storage: what is your opinion?](https://www.reddit.com/r/androiddev/comments/oo46pm/scoped_storage_what_is_your_opinion/)
+- [List TTS voices](https://www.reddit.com/r/androiddev/comments/oo41e3/list_tts_voices/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
