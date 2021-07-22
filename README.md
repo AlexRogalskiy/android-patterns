@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Installed Build Tools revision 31.0.0 is corrupted](https://www.reddit.com/r/androiddev/comments/oof67i/installed_build_tools_revision_3100_is_corrupted/)
-- [Android SDK Platform and Build Tools 31 now stable!](https://www.reddit.com/r/androiddev/comments/ooe5tu/android_sdk_platform_and_build_tools_31_now_stable/)
-- [In-App reviews not working for me](https://www.reddit.com/r/androiddev/comments/ooe4e3/inapp_reviews_not_working_for_me/)
-- [my admob account get limit ads](https://www.reddit.com/r/androiddev/comments/oodkf5/my_admob_account_get_limit_ads/)
-- [Foldables [All official development resources]](https://www.reddit.com/r/androiddev/comments/ooc50z/foldables_all_official_development_resources/)
-- [Android Studio Arctic Fox RC1 has been released](https://www.reddit.com/r/androiddev/comments/oob4yv/android_studio_arctic_fox_rc1_has_been_released/)
-- [Learning unit testing on Android: Unresolved reference: isEqualTo](https://www.reddit.com/r/androiddev/comments/oo7036/learning_unit_testing_on_android_unresolved/)
-- [Can I use firebase remote config if a user opts out of analytics and tracking?](https://www.reddit.com/r/androiddev/comments/oo4x7z/can_i_use_firebase_remote_config_if_a_user_opts/)
-- [Scoped storage: what is your opinion?](https://www.reddit.com/r/androiddev/comments/oo46pm/scoped_storage_what_is_your_opinion/)
-- [List TTS voices](https://www.reddit.com/r/androiddev/comments/oo41e3/list_tts_voices/)
+- [Alternatives to push notifications?](https://www.reddit.com/r/androiddev/comments/op2v6e/alternatives_to_push_notifications/)
+- [Android Studio Bumblebee Canary 4 available](https://www.reddit.com/r/androiddev/comments/op16xa/android_studio_bumblebee_canary_4_available/)
+- [some basic questions about dangerous topic - google policy](https://www.reddit.com/r/androiddev/comments/ooyuh5/some_basic_questions_about_dangerous_topic_google/)
+- [I wrote my first article today.Please be kind to me and leave a like/comment.it Will really make my day. Thanks in advance.](https://www.reddit.com/r/androiddev/comments/ooyrg7/i_wrote_my_first_article_todayplease_be_kind_to/)
+- [Keyboard Long Key Press in Android WebVIew](https://www.reddit.com/r/androiddev/comments/ooq85g/keyboard_long_key_press_in_android_webview/)
+- [Switching career to Android dev due to covid, where should i start?](https://www.reddit.com/r/androiddev/comments/ooq3bg/switching_career_to_android_dev_due_to_covid/)
+- [I will be the tutor of a young Android Developer, how should I approach this?](https://www.reddit.com/r/androiddev/comments/oop9e6/i_will_be_the_tutor_of_a_young_android_developer/)
+- [Painless way of migrating to Admob Business a/c from Individual a/c.](https://www.reddit.com/r/androiddev/comments/oontz1/painless_way_of_migrating_to_admob_business_ac/)
+- [1 year since the start: Making it easy for developers to present their apps [Tool]](https://www.reddit.com/r/androiddev/comments/oon77h/1_year_since_the_start_making_it_easy_for/)
+- [What are some best practices when developing data based mobile apps?](https://www.reddit.com/r/androiddev/comments/oom74q/what_are_some_best_practices_when_developing_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
