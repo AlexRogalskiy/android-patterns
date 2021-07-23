@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Alternatives to push notifications?](https://www.reddit.com/r/androiddev/comments/op2v6e/alternatives_to_push_notifications/)
-- [Android Studio Bumblebee Canary 4 available](https://www.reddit.com/r/androiddev/comments/op16xa/android_studio_bumblebee_canary_4_available/)
-- [some basic questions about dangerous topic - google policy](https://www.reddit.com/r/androiddev/comments/ooyuh5/some_basic_questions_about_dangerous_topic_google/)
-- [I wrote my first article today.Please be kind to me and leave a like/comment.it Will really make my day. Thanks in advance.](https://www.reddit.com/r/androiddev/comments/ooyrg7/i_wrote_my_first_article_todayplease_be_kind_to/)
-- [Keyboard Long Key Press in Android WebVIew](https://www.reddit.com/r/androiddev/comments/ooq85g/keyboard_long_key_press_in_android_webview/)
-- [Switching career to Android dev due to covid, where should i start?](https://www.reddit.com/r/androiddev/comments/ooq3bg/switching_career_to_android_dev_due_to_covid/)
-- [I will be the tutor of a young Android Developer, how should I approach this?](https://www.reddit.com/r/androiddev/comments/oop9e6/i_will_be_the_tutor_of_a_young_android_developer/)
-- [Painless way of migrating to Admob Business a/c from Individual a/c.](https://www.reddit.com/r/androiddev/comments/oontz1/painless_way_of_migrating_to_admob_business_ac/)
-- [1 year since the start: Making it easy for developers to present their apps [Tool]](https://www.reddit.com/r/androiddev/comments/oon77h/1_year_since_the_start_making_it_easy_for/)
-- [What are some best practices when developing data based mobile apps?](https://www.reddit.com/r/androiddev/comments/oom74q/what_are_some_best_practices_when_developing_data/)
+- [Where should I turn?](https://www.reddit.com/r/androiddev/comments/opqmr9/where_should_i_turn/)
+- [Gut "apply changes"? Yay, or nay?](https://www.reddit.com/r/androiddev/comments/oppjpf/gut_apply_changes_yay_or_nay/)
+- [Android Suspendable Dialogs](https://www.reddit.com/r/androiddev/comments/opmwl8/android_suspendable_dialogs/)
+- [Help with react native and one signal](https://www.reddit.com/r/androiddev/comments/opmn6v/help_with_react_native_and_one_signal/)
+- [searching a stack to develop android apps from an old pc with few resources.](https://www.reddit.com/r/androiddev/comments/oplub7/searching_a_stack_to_develop_android_apps_from_an/)
+- [Effective extension function refactoring in Kotlin: companion object use case](https://www.reddit.com/r/androiddev/comments/opkoer/effective_extension_function_refactoring_in/)
+- [Question: Test automation team & Espresso UI tests](https://www.reddit.com/r/androiddev/comments/opjdg7/question_test_automation_team_espresso_ui_tests/)
+- [Android 12 comes with an exciting theme engine called Monet. Google is also advertising android 12 with a tag Material You. Also there are many new apps that are using this feature. The main question is how the app are integrating this with their new app? Is there any api available for this?](https://www.reddit.com/r/androiddev/comments/opj6fp/android_12_comes_with_an_exciting_theme_engine/)
+- [Introducing Voyager: a pragmatic navigation library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/opifup/introducing_voyager_a_pragmatic_navigation/)
+- [How to see assembly code of compiled Java method?](https://www.reddit.com/r/androiddev/comments/oph5bp/how_to_see_assembly_code_of_compiled_java_method/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
