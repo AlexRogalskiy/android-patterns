@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where should I turn?](https://www.reddit.com/r/androiddev/comments/opqmr9/where_should_i_turn/)
-- [Gut "apply changes"? Yay, or nay?](https://www.reddit.com/r/androiddev/comments/oppjpf/gut_apply_changes_yay_or_nay/)
-- [Android Suspendable Dialogs](https://www.reddit.com/r/androiddev/comments/opmwl8/android_suspendable_dialogs/)
-- [Help with react native and one signal](https://www.reddit.com/r/androiddev/comments/opmn6v/help_with_react_native_and_one_signal/)
-- [searching a stack to develop android apps from an old pc with few resources.](https://www.reddit.com/r/androiddev/comments/oplub7/searching_a_stack_to_develop_android_apps_from_an/)
-- [Effective extension function refactoring in Kotlin: companion object use case](https://www.reddit.com/r/androiddev/comments/opkoer/effective_extension_function_refactoring_in/)
-- [Question: Test automation team & Espresso UI tests](https://www.reddit.com/r/androiddev/comments/opjdg7/question_test_automation_team_espresso_ui_tests/)
-- [Android 12 comes with an exciting theme engine called Monet. Google is also advertising android 12 with a tag Material You. Also there are many new apps that are using this feature. The main question is how the app are integrating this with their new app? Is there any api available for this?](https://www.reddit.com/r/androiddev/comments/opj6fp/android_12_comes_with_an_exciting_theme_engine/)
-- [Introducing Voyager: a pragmatic navigation library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/opifup/introducing_voyager_a_pragmatic_navigation/)
-- [How to see assembly code of compiled Java method?](https://www.reddit.com/r/androiddev/comments/oph5bp/how_to_see_assembly_code_of_compiled_java_method/)
+- [Input appreciated on Scoped Storage..](https://www.reddit.com/r/androiddev/comments/oqftm7/input_appreciated_on_scoped_storage/)
+- [ConstraintLayout 2.1.0 rc1 & ConstraintLayout-compose 1.0 beta 1](https://www.reddit.com/r/androiddev/comments/oqeq9k/constraintlayout_210_rc1_constraintlayoutcompose/)
+- [Los anuncios no se visualizan y no me permiten enviar correo a los soporte de google](https://www.reddit.com/r/androiddev/comments/oqdr01/los_anuncios_no_se_visualizan_y_no_me_permiten/)
+- [Need help with android app development](https://www.reddit.com/r/androiddev/comments/oqb3wx/need_help_with_android_app_development/)
+- [How do you handle attacks?](https://www.reddit.com/r/androiddev/comments/oq7423/how_do_you_handle_attacks/)
+- [Cross platform dev tools with android native capabilities](https://www.reddit.com/r/androiddev/comments/oq5env/cross_platform_dev_tools_with_android_native/)
+- [Is anyone here using Google Maps SDK v3 Beta in production?](https://www.reddit.com/r/androiddev/comments/oq3a1s/is_anyone_here_using_google_maps_sdk_v3_beta_in/)
+- [Optimizing Your Kotlin Build](https://www.reddit.com/r/androiddev/comments/oq35jn/optimizing_your_kotlin_build/)
+- [Wrote a VPN Client app using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oq30ln/wrote_a_vpn_client_app_using_jetpack_compose/)
+- [Weekly Anything Goes Thread - July 23, 2021](https://www.reddit.com/r/androiddev/comments/oq1wfu/weekly_anything_goes_thread_july_23_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
