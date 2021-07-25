@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Input appreciated on Scoped Storage..](https://www.reddit.com/r/androiddev/comments/oqftm7/input_appreciated_on_scoped_storage/)
-- [ConstraintLayout 2.1.0 rc1 & ConstraintLayout-compose 1.0 beta 1](https://www.reddit.com/r/androiddev/comments/oqeq9k/constraintlayout_210_rc1_constraintlayoutcompose/)
-- [Los anuncios no se visualizan y no me permiten enviar correo a los soporte de google](https://www.reddit.com/r/androiddev/comments/oqdr01/los_anuncios_no_se_visualizan_y_no_me_permiten/)
-- [Need help with android app development](https://www.reddit.com/r/androiddev/comments/oqb3wx/need_help_with_android_app_development/)
-- [How do you handle attacks?](https://www.reddit.com/r/androiddev/comments/oq7423/how_do_you_handle_attacks/)
-- [Cross platform dev tools with android native capabilities](https://www.reddit.com/r/androiddev/comments/oq5env/cross_platform_dev_tools_with_android_native/)
-- [Is anyone here using Google Maps SDK v3 Beta in production?](https://www.reddit.com/r/androiddev/comments/oq3a1s/is_anyone_here_using_google_maps_sdk_v3_beta_in/)
-- [Optimizing Your Kotlin Build](https://www.reddit.com/r/androiddev/comments/oq35jn/optimizing_your_kotlin_build/)
-- [Wrote a VPN Client app using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oq30ln/wrote_a_vpn_client_app_using_jetpack_compose/)
-- [Weekly Anything Goes Thread - July 23, 2021](https://www.reddit.com/r/androiddev/comments/oq1wfu/weekly_anything_goes_thread_july_23_2021/)
+- [Say bye-bye to Android Jetifier](https://www.reddit.com/r/androiddev/comments/or2mc3/say_byebye_to_android_jetifier/)
+- [Can anyone suggest me any way to mock API response so that I can test my app?](https://www.reddit.com/r/androiddev/comments/oqvov3/can_anyone_suggest_me_any_way_to_mock_api/)
+- [Hidden Perks of Unit Tests](https://www.reddit.com/r/androiddev/comments/oqvl18/hidden_perks_of_unit_tests/)
+- [Question in regards towards Sign in Page](https://www.reddit.com/r/androiddev/comments/oqvgh5/question_in_regards_towards_sign_in_page/)
+- [Push notifications to multiple users](https://www.reddit.com/r/androiddev/comments/oquxb5/push_notifications_to_multiple_users/)
+- [How do location updates work in Android?](https://www.reddit.com/r/androiddev/comments/oquswc/how_do_location_updates_work_in_android/)
+- [I know it's taboo to ask but, how much have you earned with your own apps so far?](https://www.reddit.com/r/androiddev/comments/oqtpcd/i_know_its_taboo_to_ask_but_how_much_have_you/)
+- [Embed Https web server in Android with Ktor](https://www.reddit.com/r/androiddev/comments/oqrvku/embed_https_web_server_in_android_with_ktor/)
+- [App to make phone call based on location](https://www.reddit.com/r/androiddev/comments/oqrjku/app_to_make_phone_call_based_on_location/)
+- [Zip/Postcode autofill just straight up doesn't work?](https://www.reddit.com/r/androiddev/comments/oqrdc7/zippostcode_autofill_just_straight_up_doesnt_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
