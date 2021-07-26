@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Say bye-bye to Android Jetifier](https://www.reddit.com/r/androiddev/comments/or2mc3/say_byebye_to_android_jetifier/)
-- [Can anyone suggest me any way to mock API response so that I can test my app?](https://www.reddit.com/r/androiddev/comments/oqvov3/can_anyone_suggest_me_any_way_to_mock_api/)
-- [Hidden Perks of Unit Tests](https://www.reddit.com/r/androiddev/comments/oqvl18/hidden_perks_of_unit_tests/)
-- [Question in regards towards Sign in Page](https://www.reddit.com/r/androiddev/comments/oqvgh5/question_in_regards_towards_sign_in_page/)
-- [Push notifications to multiple users](https://www.reddit.com/r/androiddev/comments/oquxb5/push_notifications_to_multiple_users/)
-- [How do location updates work in Android?](https://www.reddit.com/r/androiddev/comments/oquswc/how_do_location_updates_work_in_android/)
-- [I know it's taboo to ask but, how much have you earned with your own apps so far?](https://www.reddit.com/r/androiddev/comments/oqtpcd/i_know_its_taboo_to_ask_but_how_much_have_you/)
-- [Embed Https web server in Android with Ktor](https://www.reddit.com/r/androiddev/comments/oqrvku/embed_https_web_server_in_android_with_ktor/)
-- [App to make phone call based on location](https://www.reddit.com/r/androiddev/comments/oqrjku/app_to_make_phone_call_based_on_location/)
-- [Zip/Postcode autofill just straight up doesn't work?](https://www.reddit.com/r/androiddev/comments/oqrdc7/zippostcode_autofill_just_straight_up_doesnt_work/)
+- [Kotlin or Dart for job opportunities in the US](https://www.reddit.com/r/androiddev/comments/orov8p/kotlin_or_dart_for_job_opportunities_in_the_us/)
+- [Disable mobile data after certain time](https://www.reddit.com/r/androiddev/comments/orjt1x/disable_mobile_data_after_certain_time/)
+- [There's a lot of ways to do background tasks. Which ones are worth learning today? (HandlerThread, IntentService, WorkManager, etc)](https://www.reddit.com/r/androiddev/comments/oriflv/theres_a_lot_of_ways_to_do_background_tasks_which/)
+- [Make sure to update your StateFlow safely in Kotlin!](https://www.reddit.com/r/androiddev/comments/orf305/make_sure_to_update_your_stateflow_safely_in/)
+- [LazyColumn Item Diff Animations](https://www.reddit.com/r/androiddev/comments/orc2rp/lazycolumn_item_diff_animations/)
+- [messaging app icon](https://www.reddit.com/r/androiddev/comments/orbrrm/messaging_app_icon/)
+- [Republish an unpublished app](https://www.reddit.com/r/androiddev/comments/or8ut2/republish_an_unpublished_app/)
+- [Any SDK developer here?](https://www.reddit.com/r/androiddev/comments/or8sus/any_sdk_developer_here/)
+- [Looking for a Google Play app affiliate program solution. Recommendations?](https://www.reddit.com/r/androiddev/comments/or87bs/looking_for_a_google_play_app_affiliate_program/)
+- [2 Releases under Managed Publishing](https://www.reddit.com/r/androiddev/comments/or6yqn/2_releases_under_managed_publishing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
