@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin or Dart for job opportunities in the US](https://www.reddit.com/r/androiddev/comments/orov8p/kotlin_or_dart_for_job_opportunities_in_the_us/)
-- [Disable mobile data after certain time](https://www.reddit.com/r/androiddev/comments/orjt1x/disable_mobile_data_after_certain_time/)
-- [There's a lot of ways to do background tasks. Which ones are worth learning today? (HandlerThread, IntentService, WorkManager, etc)](https://www.reddit.com/r/androiddev/comments/oriflv/theres_a_lot_of_ways_to_do_background_tasks_which/)
-- [Make sure to update your StateFlow safely in Kotlin!](https://www.reddit.com/r/androiddev/comments/orf305/make_sure_to_update_your_stateflow_safely_in/)
-- [LazyColumn Item Diff Animations](https://www.reddit.com/r/androiddev/comments/orc2rp/lazycolumn_item_diff_animations/)
-- [messaging app icon](https://www.reddit.com/r/androiddev/comments/orbrrm/messaging_app_icon/)
-- [Republish an unpublished app](https://www.reddit.com/r/androiddev/comments/or8ut2/republish_an_unpublished_app/)
-- [Any SDK developer here?](https://www.reddit.com/r/androiddev/comments/or8sus/any_sdk_developer_here/)
-- [Looking for a Google Play app affiliate program solution. Recommendations?](https://www.reddit.com/r/androiddev/comments/or87bs/looking_for_a_google_play_app_affiliate_program/)
-- [2 Releases under Managed Publishing](https://www.reddit.com/r/androiddev/comments/or6yqn/2_releases_under_managed_publishing/)
+- [Gradle DevProdEng Showdown S1E6: Android Builds and Tests at Scale](https://www.reddit.com/r/androiddev/comments/oscmzi/gradle_devprodeng_showdown_s1e6_android_builds/)
+- [How to detect user creating multiple accounts?](https://www.reddit.com/r/androiddev/comments/osazmq/how_to_detect_user_creating_multiple_accounts/)
+- [Creating & styling dropdown menus on Android](https://www.reddit.com/r/androiddev/comments/osawza/creating_styling_dropdown_menus_on_android/)
+- [Is there any real difference in getting paid subscribers if the first 3-7 days are free?](https://www.reddit.com/r/androiddev/comments/osa8ba/is_there_any_real_difference_in_getting_paid/)
+- [Quick article I wrote after upgrading to using App Bundles instead of APK. Hope it helps.](https://www.reddit.com/r/androiddev/comments/os8m3i/quick_article_i_wrote_after_upgrading_to_using/)
+- [Xamarin Android Download Manager Advanced Guide](https://www.reddit.com/r/androiddev/comments/os8cyo/xamarin_android_download_manager_advanced_guide/)
+- [The Lateral Pass (Higher Order Code Smells, Part 2)](https://www.reddit.com/r/androiddev/comments/os6c2t/the_lateral_pass_higher_order_code_smells_part_2/)
+- [Which frameworks for work?](https://www.reddit.com/r/androiddev/comments/os4pzc/which_frameworks_for_work/)
+- [An android app which let us power on/off generator at our home.](https://www.reddit.com/r/androiddev/comments/os18fb/an_android_app_which_let_us_power_onoff_generator/)
+- [How to handle large ViewModels in a scoped nav graph?](https://www.reddit.com/r/androiddev/comments/os02l6/how_to_handle_large_viewmodels_in_a_scoped_nav/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
