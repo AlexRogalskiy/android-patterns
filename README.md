@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gradle DevProdEng Showdown S1E6: Android Builds and Tests at Scale](https://www.reddit.com/r/androiddev/comments/oscmzi/gradle_devprodeng_showdown_s1e6_android_builds/)
-- [How to detect user creating multiple accounts?](https://www.reddit.com/r/androiddev/comments/osazmq/how_to_detect_user_creating_multiple_accounts/)
-- [Creating & styling dropdown menus on Android](https://www.reddit.com/r/androiddev/comments/osawza/creating_styling_dropdown_menus_on_android/)
-- [Is there any real difference in getting paid subscribers if the first 3-7 days are free?](https://www.reddit.com/r/androiddev/comments/osa8ba/is_there_any_real_difference_in_getting_paid/)
-- [Quick article I wrote after upgrading to using App Bundles instead of APK. Hope it helps.](https://www.reddit.com/r/androiddev/comments/os8m3i/quick_article_i_wrote_after_upgrading_to_using/)
-- [Xamarin Android Download Manager Advanced Guide](https://www.reddit.com/r/androiddev/comments/os8cyo/xamarin_android_download_manager_advanced_guide/)
-- [The Lateral Pass (Higher Order Code Smells, Part 2)](https://www.reddit.com/r/androiddev/comments/os6c2t/the_lateral_pass_higher_order_code_smells_part_2/)
-- [Which frameworks for work?](https://www.reddit.com/r/androiddev/comments/os4pzc/which_frameworks_for_work/)
-- [An android app which let us power on/off generator at our home.](https://www.reddit.com/r/androiddev/comments/os18fb/an_android_app_which_let_us_power_onoff_generator/)
-- [How to handle large ViewModels in a scoped nav graph?](https://www.reddit.com/r/androiddev/comments/os02l6/how_to_handle_large_viewmodels_in_a_scoped_nav/)
+- [How do you access the D2D (Device-to-Device) Data Transfer functionality?](https://www.reddit.com/r/androiddev/comments/osz9p5/how_do_you_access_the_d2d_devicetodevice_data/)
+- [Google won't let me publish new apps](https://www.reddit.com/r/androiddev/comments/osz138/google_wont_let_me_publish_new_apps/)
+- [Chrome OS [All official development resources]](https://www.reddit.com/r/androiddev/comments/osx6q0/chrome_os_all_official_development_resources/)
+- [Save session when app closed android studio](https://www.reddit.com/r/androiddev/comments/osx54p/save_session_when_app_closed_android_studio/)
+- [Where would you cut off Android OS Support?](https://www.reddit.com/r/androiddev/comments/osvqa8/where_would_you_cut_off_android_os_support/)
+- [Hello I am Java Developer transfering to Kotlin, can you suggest me what to learn first, what to start with please, Thank you.](https://www.reddit.com/r/androiddev/comments/osvlis/hello_i_am_java_developer_transfering_to_kotlin/)
+- [App settings that can't be changed after release](https://www.reddit.com/r/androiddev/comments/osu9ud/app_settings_that_cant_be_changed_after_release/)
+- [Why is Jetpack Compose taking so long to reach 1.0?](https://www.reddit.com/r/androiddev/comments/ostdys/why_is_jetpack_compose_taking_so_long_to_reach_10/)
+- [android-studio-bumblebee-canary-5 available](https://www.reddit.com/r/androiddev/comments/osr9tj/androidstudiobumblebeecanary5_available/)
+- [perform(click()) is not working in Android 11 but working in Android 10](https://www.reddit.com/r/androiddev/comments/osok9w/performclick_is_not_working_in_android_11_but/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
