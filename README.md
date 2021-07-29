@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you access the D2D (Device-to-Device) Data Transfer functionality?](https://www.reddit.com/r/androiddev/comments/osz9p5/how_do_you_access_the_d2d_devicetodevice_data/)
-- [Google won't let me publish new apps](https://www.reddit.com/r/androiddev/comments/osz138/google_wont_let_me_publish_new_apps/)
-- [Chrome OS [All official development resources]](https://www.reddit.com/r/androiddev/comments/osx6q0/chrome_os_all_official_development_resources/)
-- [Save session when app closed android studio](https://www.reddit.com/r/androiddev/comments/osx54p/save_session_when_app_closed_android_studio/)
-- [Where would you cut off Android OS Support?](https://www.reddit.com/r/androiddev/comments/osvqa8/where_would_you_cut_off_android_os_support/)
-- [Hello I am Java Developer transfering to Kotlin, can you suggest me what to learn first, what to start with please, Thank you.](https://www.reddit.com/r/androiddev/comments/osvlis/hello_i_am_java_developer_transfering_to_kotlin/)
-- [App settings that can't be changed after release](https://www.reddit.com/r/androiddev/comments/osu9ud/app_settings_that_cant_be_changed_after_release/)
-- [Why is Jetpack Compose taking so long to reach 1.0?](https://www.reddit.com/r/androiddev/comments/ostdys/why_is_jetpack_compose_taking_so_long_to_reach_10/)
-- [android-studio-bumblebee-canary-5 available](https://www.reddit.com/r/androiddev/comments/osr9tj/androidstudiobumblebeecanary5_available/)
-- [perform(click()) is not working in Android 11 but working in Android 10](https://www.reddit.com/r/androiddev/comments/osok9w/performclick_is_not_working_in_android_11_but/)
+- [[Google Admob] Who here already received their admob pin mail(address verification)? just want to ask if admob mail looks like this in this image or not?was it google adsense or Google admob logo?](https://www.reddit.com/r/androiddev/comments/oto06n/google_admob_who_here_already_received_their/)
+- [How can I completely remove and reinstall Android Studio(m1 mac)?](https://www.reddit.com/r/androiddev/comments/otnsyu/how_can_i_completely_remove_and_reinstall_android/)
+- [Fine-tune control of Android shadows](https://www.reddit.com/r/androiddev/comments/otmnvg/finetune_control_of_android_shadows/)
+- [Is 1 year of full time learning a realistic goal to get hired as an Android Dev?](https://www.reddit.com/r/androiddev/comments/otl1dl/is_1_year_of_full_time_learning_a_realistic_goal/)
+- [Can I use advertising id to block users that might be committing ad fraud?](https://www.reddit.com/r/androiddev/comments/otk0gg/can_i_use_advertising_id_to_block_users_that/)
+- [Updating App Permissions](https://www.reddit.com/r/androiddev/comments/otj10e/updating_app_permissions/)
+- [A major change - Use of the AccessibilityService API](https://www.reddit.com/r/androiddev/comments/otiwvz/a_major_change_use_of_the_accessibilityservice_api/)
+- [App not showing up when searched](https://www.reddit.com/r/androiddev/comments/otikhj/app_not_showing_up_when_searched/)
+- [Account suspension due to "Dormant Account"](https://www.reddit.com/r/androiddev/comments/otiauc/account_suspension_due_to_dormant_account/)
+- [Google Play Developer Program Policy Update](https://www.reddit.com/r/androiddev/comments/otgork/google_play_developer_program_policy_update/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
