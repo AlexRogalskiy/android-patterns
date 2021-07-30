@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Google Admob] Who here already received their admob pin mail(address verification)? just want to ask if admob mail looks like this in this image or not?was it google adsense or Google admob logo?](https://www.reddit.com/r/androiddev/comments/oto06n/google_admob_who_here_already_received_their/)
-- [How can I completely remove and reinstall Android Studio(m1 mac)?](https://www.reddit.com/r/androiddev/comments/otnsyu/how_can_i_completely_remove_and_reinstall_android/)
-- [Fine-tune control of Android shadows](https://www.reddit.com/r/androiddev/comments/otmnvg/finetune_control_of_android_shadows/)
-- [Is 1 year of full time learning a realistic goal to get hired as an Android Dev?](https://www.reddit.com/r/androiddev/comments/otl1dl/is_1_year_of_full_time_learning_a_realistic_goal/)
-- [Can I use advertising id to block users that might be committing ad fraud?](https://www.reddit.com/r/androiddev/comments/otk0gg/can_i_use_advertising_id_to_block_users_that/)
-- [Updating App Permissions](https://www.reddit.com/r/androiddev/comments/otj10e/updating_app_permissions/)
-- [A major change - Use of the AccessibilityService API](https://www.reddit.com/r/androiddev/comments/otiwvz/a_major_change_use_of_the_accessibilityservice_api/)
-- [App not showing up when searched](https://www.reddit.com/r/androiddev/comments/otikhj/app_not_showing_up_when_searched/)
-- [Account suspension due to "Dormant Account"](https://www.reddit.com/r/androiddev/comments/otiauc/account_suspension_due_to_dormant_account/)
-- [Google Play Developer Program Policy Update](https://www.reddit.com/r/androiddev/comments/otgork/google_play_developer_program_policy_update/)
+- [How stable is the "id" integer of a resource asset?](https://www.reddit.com/r/androiddev/comments/ou8hhk/how_stable_is_the_id_integer_of_a_resource_asset/)
+- [Arctic Fox doesn't let you change the IDE theme to anythign other than the two default themes](https://www.reddit.com/r/androiddev/comments/ou4yvb/arctic_fox_doesnt_let_you_change_the_ide_theme_to/)
+- [Compose - Activity question](https://www.reddit.com/r/androiddev/comments/ou3vew/compose_activity_question/)
+- [Advertise another app via Push notifications](https://www.reddit.com/r/androiddev/comments/ou25d8/advertise_another_app_via_push_notifications/)
+- [Preference for defining coroutine context](https://www.reddit.com/r/androiddev/comments/ou1npb/preference_for_defining_coroutine_context/)
+- [Reasons to switch from Volley to Retrofit (or something else)?](https://www.reddit.com/r/androiddev/comments/ou0ph6/reasons_to_switch_from_volley_to_retrofit_or/)
+- [OPINIONS](https://www.reddit.com/r/androiddev/comments/ou04fw/opinions/)
+- [Stream releases a new Chat SDK for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/otzq45/stream_releases_a_new_chat_sdk_for_jetpack_compose/)
+- [Is there a preset library of "colors.xml" and "themes.xml" files that I can use in my projects?](https://www.reddit.com/r/androiddev/comments/otxqm8/is_there_a_preset_library_of_colorsxml_and/)
+- [Does Google Play Store ban drug metaphor games?](https://www.reddit.com/r/androiddev/comments/otx5sf/does_google_play_store_ban_drug_metaphor_games/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
