@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How stable is the "id" integer of a resource asset?](https://www.reddit.com/r/androiddev/comments/ou8hhk/how_stable_is_the_id_integer_of_a_resource_asset/)
-- [Arctic Fox doesn't let you change the IDE theme to anythign other than the two default themes](https://www.reddit.com/r/androiddev/comments/ou4yvb/arctic_fox_doesnt_let_you_change_the_ide_theme_to/)
-- [Compose - Activity question](https://www.reddit.com/r/androiddev/comments/ou3vew/compose_activity_question/)
-- [Advertise another app via Push notifications](https://www.reddit.com/r/androiddev/comments/ou25d8/advertise_another_app_via_push_notifications/)
-- [Preference for defining coroutine context](https://www.reddit.com/r/androiddev/comments/ou1npb/preference_for_defining_coroutine_context/)
-- [Reasons to switch from Volley to Retrofit (or something else)?](https://www.reddit.com/r/androiddev/comments/ou0ph6/reasons_to_switch_from_volley_to_retrofit_or/)
-- [OPINIONS](https://www.reddit.com/r/androiddev/comments/ou04fw/opinions/)
-- [Stream releases a new Chat SDK for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/otzq45/stream_releases_a_new_chat_sdk_for_jetpack_compose/)
-- [Is there a preset library of "colors.xml" and "themes.xml" files that I can use in my projects?](https://www.reddit.com/r/androiddev/comments/otxqm8/is_there_a_preset_library_of_colorsxml_and/)
-- [Does Google Play Store ban drug metaphor games?](https://www.reddit.com/r/androiddev/comments/otx5sf/does_google_play_store_ban_drug_metaphor_games/)
+- [How do you document your code?](https://www.reddit.com/r/androiddev/comments/ouy9zb/how_do_you_document_your_code/)
+- [ConstraintLayout 2.1.0 & ConstraintLayout-compose 1.0 beta 2](https://www.reddit.com/r/androiddev/comments/ouxquv/constraintlayout_210_constraintlayoutcompose_10/)
+- [Toast message disapearing too soon](https://www.reddit.com/r/androiddev/comments/ouwwcr/toast_message_disapearing_too_soon/)
+- [Does Google Admob ban your app ads based on your Youtube channel?](https://www.reddit.com/r/androiddev/comments/ouwn7u/does_google_admob_ban_your_app_ads_based_on_your/)
+- [Rewriting my app, java, kotlin, (compose?) advice.](https://www.reddit.com/r/androiddev/comments/ouuop1/rewriting_my_app_java_kotlin_compose_advice/)
+- [FIREBASE problem](https://www.reddit.com/r/androiddev/comments/ourcno/firebase_problem/)
+- [Google Universal App Campaigns. How much time/users does it take to accurately target user actions?](https://www.reddit.com/r/androiddev/comments/ouqq1i/google_universal_app_campaigns_how_much_timeusers/)
+- [Fun with Compose: Bad UI in a Great Framework](https://www.reddit.com/r/androiddev/comments/oung14/fun_with_compose_bad_ui_in_a_great_framework/)
+- [Composing composable in the Text line with InlineTextContent in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oumb5p/composing_composable_in_the_text_line_with/)
+- [What's the point of Intent flags conjunction?](https://www.reddit.com/r/androiddev/comments/oum3oy/whats_the_point_of_intent_flags_conjunction/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
