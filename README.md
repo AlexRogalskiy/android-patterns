@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you document your code?](https://www.reddit.com/r/androiddev/comments/ouy9zb/how_do_you_document_your_code/)
-- [ConstraintLayout 2.1.0 & ConstraintLayout-compose 1.0 beta 2](https://www.reddit.com/r/androiddev/comments/ouxquv/constraintlayout_210_constraintlayoutcompose_10/)
-- [Toast message disapearing too soon](https://www.reddit.com/r/androiddev/comments/ouwwcr/toast_message_disapearing_too_soon/)
-- [Does Google Admob ban your app ads based on your Youtube channel?](https://www.reddit.com/r/androiddev/comments/ouwn7u/does_google_admob_ban_your_app_ads_based_on_your/)
-- [Rewriting my app, java, kotlin, (compose?) advice.](https://www.reddit.com/r/androiddev/comments/ouuop1/rewriting_my_app_java_kotlin_compose_advice/)
-- [FIREBASE problem](https://www.reddit.com/r/androiddev/comments/ourcno/firebase_problem/)
-- [Google Universal App Campaigns. How much time/users does it take to accurately target user actions?](https://www.reddit.com/r/androiddev/comments/ouqq1i/google_universal_app_campaigns_how_much_timeusers/)
-- [Fun with Compose: Bad UI in a Great Framework](https://www.reddit.com/r/androiddev/comments/oung14/fun_with_compose_bad_ui_in_a_great_framework/)
-- [Composing composable in the Text line with InlineTextContent in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oumb5p/composing_composable_in_the_text_line_with/)
-- [What's the point of Intent flags conjunction?](https://www.reddit.com/r/androiddev/comments/oum3oy/whats_the_point_of_intent_flags_conjunction/)
+- [Check out my first 3D mobile game, Paddle Pong! I'd appreciate any feedback for improvement.](https://www.reddit.com/r/androiddev/comments/ovi769/check_out_my_first_3d_mobile_game_paddle_pong_id/)
+- [Rekeying for app that’s already deployed](https://www.reddit.com/r/androiddev/comments/ovgq2r/rekeying_for_app_thats_already_deployed/)
+- [Custom generated keystore file and sensitive keys included](https://www.reddit.com/r/androiddev/comments/ovg3i0/custom_generated_keystore_file_and_sensitive_keys/)
+- [Opensource Education Augmented Reality App | HucreAR](https://www.reddit.com/r/androiddev/comments/oveglo/opensource_education_augmented_reality_app_hucrear/)
+- [Camera Library](https://www.reddit.com/r/androiddev/comments/ovdyfs/camera_library/)
+- [What's the difference between a normal view and an AppCompat view?](https://www.reddit.com/r/androiddev/comments/ovbyn9/whats_the_difference_between_a_normal_view_and_an/)
+- [App flagged for Ads](https://www.reddit.com/r/androiddev/comments/ovavba/app_flagged_for_ads/)
+- [Upload Android Bundle now users cannot update](https://www.reddit.com/r/androiddev/comments/ov9917/upload_android_bundle_now_users_cannot_update/)
+- [What is considered as a "compact" phone today?](https://www.reddit.com/r/androiddev/comments/ov8x3r/what_is_considered_as_a_compact_phone_today/)
+- [[Question] Getting started with Android for experienced front end engineers?](https://www.reddit.com/r/androiddev/comments/ov8tdt/question_getting_started_with_android_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
