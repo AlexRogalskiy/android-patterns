@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Check out my first 3D mobile game, Paddle Pong! I'd appreciate any feedback for improvement.](https://www.reddit.com/r/androiddev/comments/ovi769/check_out_my_first_3d_mobile_game_paddle_pong_id/)
-- [Rekeying for app that’s already deployed](https://www.reddit.com/r/androiddev/comments/ovgq2r/rekeying_for_app_thats_already_deployed/)
-- [Custom generated keystore file and sensitive keys included](https://www.reddit.com/r/androiddev/comments/ovg3i0/custom_generated_keystore_file_and_sensitive_keys/)
-- [Opensource Education Augmented Reality App | HucreAR](https://www.reddit.com/r/androiddev/comments/oveglo/opensource_education_augmented_reality_app_hucrear/)
-- [Camera Library](https://www.reddit.com/r/androiddev/comments/ovdyfs/camera_library/)
-- [What's the difference between a normal view and an AppCompat view?](https://www.reddit.com/r/androiddev/comments/ovbyn9/whats_the_difference_between_a_normal_view_and_an/)
-- [App flagged for Ads](https://www.reddit.com/r/androiddev/comments/ovavba/app_flagged_for_ads/)
-- [Upload Android Bundle now users cannot update](https://www.reddit.com/r/androiddev/comments/ov9917/upload_android_bundle_now_users_cannot_update/)
-- [What is considered as a "compact" phone today?](https://www.reddit.com/r/androiddev/comments/ov8x3r/what_is_considered_as_a_compact_phone_today/)
-- [[Question] Getting started with Android for experienced front end engineers?](https://www.reddit.com/r/androiddev/comments/ov8tdt/question_getting_started_with_android_for/)
+- [Has anyone made a personal mobile app for their portfolio before?](https://www.reddit.com/r/androiddev/comments/ow3iko/has_anyone_made_a_personal_mobile_app_for_their/)
+- [Android Studio Emulator in Windows 11](https://www.reddit.com/r/androiddev/comments/ovz4g2/android_studio_emulator_in_windows_11/)
+- [[XP Sharing] Have you ever worked on a project with the Bazel build tool instead of Gradle?](https://www.reddit.com/r/androiddev/comments/ovz294/xp_sharing_have_you_ever_worked_on_a_project_with/)
+- [What are the architecture guidelines when developing an SDK?](https://www.reddit.com/r/androiddev/comments/ovw2ua/what_are_the_architecture_guidelines_when/)
+- [Dropbox StoreBuilder API - why to use it?](https://www.reddit.com/r/androiddev/comments/ovuoxb/dropbox_storebuilder_api_why_to_use_it/)
+- [As an app developer, what's the one thing you have the most difficulty with?](https://www.reddit.com/r/androiddev/comments/ovuda9/as_an_app_developer_whats_the_one_thing_you_have/)
+- [Introduction to Dagger dependency injection [Free course]](https://www.reddit.com/r/androiddev/comments/ovtgjp/introduction_to_dagger_dependency_injection_free/)
+- [Stop other media players like music player, spotify or youtube, etc](https://www.reddit.com/r/androiddev/comments/ovsm3e/stop_other_media_players_like_music_player/)
+- [Jetpack Compose: Where is the Documentation?](https://www.reddit.com/r/androiddev/comments/ovr0b3/jetpack_compose_where_is_the_documentation/)
+- [Showing the toast message in the proper language from resources.](https://www.reddit.com/r/androiddev/comments/ovolqt/showing_the_toast_message_in_the_proper_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
