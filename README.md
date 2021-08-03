@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Has anyone made a personal mobile app for their portfolio before?](https://www.reddit.com/r/androiddev/comments/ow3iko/has_anyone_made_a_personal_mobile_app_for_their/)
-- [Android Studio Emulator in Windows 11](https://www.reddit.com/r/androiddev/comments/ovz4g2/android_studio_emulator_in_windows_11/)
-- [[XP Sharing] Have you ever worked on a project with the Bazel build tool instead of Gradle?](https://www.reddit.com/r/androiddev/comments/ovz294/xp_sharing_have_you_ever_worked_on_a_project_with/)
-- [What are the architecture guidelines when developing an SDK?](https://www.reddit.com/r/androiddev/comments/ovw2ua/what_are_the_architecture_guidelines_when/)
-- [Dropbox StoreBuilder API - why to use it?](https://www.reddit.com/r/androiddev/comments/ovuoxb/dropbox_storebuilder_api_why_to_use_it/)
-- [As an app developer, what's the one thing you have the most difficulty with?](https://www.reddit.com/r/androiddev/comments/ovuda9/as_an_app_developer_whats_the_one_thing_you_have/)
-- [Introduction to Dagger dependency injection [Free course]](https://www.reddit.com/r/androiddev/comments/ovtgjp/introduction_to_dagger_dependency_injection_free/)
-- [Stop other media players like music player, spotify or youtube, etc](https://www.reddit.com/r/androiddev/comments/ovsm3e/stop_other_media_players_like_music_player/)
-- [Jetpack Compose: Where is the Documentation?](https://www.reddit.com/r/androiddev/comments/ovr0b3/jetpack_compose_where_is_the_documentation/)
-- [Showing the toast message in the proper language from resources.](https://www.reddit.com/r/androiddev/comments/ovolqt/showing_the_toast_message_in_the_proper_language/)
+- [Firebase auth not working!](https://www.reddit.com/r/androiddev/comments/owt9px/firebase_auth_not_working/)
+- [Where to go from here?](https://www.reddit.com/r/androiddev/comments/owsudr/where_to_go_from_here/)
+- [Looking for a bit of guidance on architecture of a project.](https://www.reddit.com/r/androiddev/comments/own7ss/looking_for_a_bit_of_guidance_on_architecture_of/)
+- [Full Stack Mobile Application Development - Master Class - free course from 48Hrs](https://www.reddit.com/r/androiddev/comments/own3xa/full_stack_mobile_application_development_master/)
+- [WorkManager setExpedited (new method instead of foreground service)](https://www.reddit.com/r/androiddev/comments/owmzwt/workmanager_setexpedited_new_method_instead_of/)
+- [A few questions on Work Profile and how does it work](https://www.reddit.com/r/androiddev/comments/owmuyf/a_few_questions_on_work_profile_and_how_does_it/)
+- [What does it mean for apps like reddit to have nearby device permission?](https://www.reddit.com/r/androiddev/comments/owlr2v/what_does_it_mean_for_apps_like_reddit_to_have/)
+- [Accenture Andriod Apprenticeship](https://www.reddit.com/r/androiddev/comments/owj065/accenture_andriod_apprenticeship/)
+- [Ffmpeg Library](https://www.reddit.com/r/androiddev/comments/owik2f/ffmpeg_library/)
+- [Am I too slow on Jetpack Compose codelabs?](https://www.reddit.com/r/androiddev/comments/owihfc/am_i_too_slow_on_jetpack_compose_codelabs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
