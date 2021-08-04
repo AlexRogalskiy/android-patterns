@@ -248,16 +248,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Firebase auth not working!](https://www.reddit.com/r/androiddev/comments/owt9px/firebase_auth_not_working/)
-- [Where to go from here?](https://www.reddit.com/r/androiddev/comments/owsudr/where_to_go_from_here/)
-- [Looking for a bit of guidance on architecture of a project.](https://www.reddit.com/r/androiddev/comments/own7ss/looking_for_a_bit_of_guidance_on_architecture_of/)
-- [Full Stack Mobile Application Development - Master Class - free course from 48Hrs](https://www.reddit.com/r/androiddev/comments/own3xa/full_stack_mobile_application_development_master/)
-- [WorkManager setExpedited (new method instead of foreground service)](https://www.reddit.com/r/androiddev/comments/owmzwt/workmanager_setexpedited_new_method_instead_of/)
-- [A few questions on Work Profile and how does it work](https://www.reddit.com/r/androiddev/comments/owmuyf/a_few_questions_on_work_profile_and_how_does_it/)
-- [What does it mean for apps like reddit to have nearby device permission?](https://www.reddit.com/r/androiddev/comments/owlr2v/what_does_it_mean_for_apps_like_reddit_to_have/)
-- [Accenture Andriod Apprenticeship](https://www.reddit.com/r/androiddev/comments/owj065/accenture_andriod_apprenticeship/)
-- [Ffmpeg Library](https://www.reddit.com/r/androiddev/comments/owik2f/ffmpeg_library/)
-- [Am I too slow on Jetpack Compose codelabs?](https://www.reddit.com/r/androiddev/comments/owihfc/am_i_too_slow_on_jetpack_compose_codelabs/)
+- [How would one go about bypassing this? How does the app recognise the device?](https://www.reddit.com/r/androiddev/comments/oxeq70/how_would_one_go_about_bypassing_this_how_does/)
+- [Terms of Service and Privacy Policy question](https://www.reddit.com/r/androiddev/comments/oxadqs/terms_of_service_and_privacy_policy_question/)
+- [Re-writing the AOSP Calendar App in Kotlin](https://www.reddit.com/r/androiddev/comments/ox80pk/rewriting_the_aosp_calendar_app_in_kotlin/)
+- [Kiwi: An Auto-scroller Adventure Game!](https://www.reddit.com/r/androiddev/comments/ox7x7s/kiwi_an_autoscroller_adventure_game/)
+- [Accessing chrome content provider](https://www.reddit.com/r/androiddev/comments/ox3te5/accessing_chrome_content_provider/)
+- [Weekly Questions Thread - August 03, 2021](https://www.reddit.com/r/androiddev/comments/ox2z27/weekly_questions_thread_august_03_2021/)
+- [How to make a custom SeekBar?](https://www.reddit.com/r/androiddev/comments/ox2sv0/how_to_make_a_custom_seekbar/)
+- [AppSweep, mobile application scanning for developers](https://www.reddit.com/r/androiddev/comments/ox2go5/appsweep_mobile_application_scanning_for/)
+- [Android Integrated Softphone](https://www.reddit.com/r/androiddev/comments/ox248r/android_integrated_softphone/)
+- [Viewmodels, delays and lifecycle problems](https://www.reddit.com/r/androiddev/comments/ox1nz3/viewmodels_delays_and_lifecycle_problems/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
