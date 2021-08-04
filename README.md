@@ -253,16 +253,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 
-- [How to improve my sudoku app](https://www.reddit.com/r/androiddev/comments/odwrrt/how_to_improve_my_sudoku_app/)
-- [Android-programming a "simple" website](https://www.reddit.com/r/androiddev/comments/odvws9/androidprogramming_a_simple_website/)
-- [I've been working on this Lottie animation editor to edit and export Lottie animations (supported by Android) without After Effects! A lot of people on here have given super useful feedback so far and here's the UI update I'm implementing based on it. Feel free to sign up on lottielab.io. Thanks!](https://www.reddit.com/r/androiddev/comments/odup0o/ive_been_working_on_this_lottie_animation_editor/)
-- [Has anyone gotten rejected from the Play Store for not providing attribution to content creators?](https://www.reddit.com/r/androiddev/comments/ods17r/has_anyone_gotten_rejected_from_the_play_store/)
-- [Intercept splash screen API](https://www.reddit.com/r/androiddev/comments/odr93i/intercept_splash_screen_api/)
-- [How do i achieve this animation in native android (kotlin) ??](https://www.reddit.com/r/androiddev/comments/odr8mf/how_do_i_achieve_this_animation_in_native_android/)
-- [Google's Associate Android Developer Certification vs Udacity's Android Developer Nanodegree](https://www.reddit.com/r/androiddev/comments/odqu19/googles_associate_android_developer_certification/)
-- [Can I become an Android developer? How long will it take?](https://www.reddit.com/r/androiddev/comments/odqfru/can_i_become_an_android_developer_how_long_will/)
-- [Gradle peace in multi module projects](https://www.reddit.com/r/androiddev/comments/odqe1b/gradle_peace_in_multi_module_projects/)
-- [What should I add in the ”what's new" section for the first release in play store?](https://www.reddit.com/r/androiddev/comments/odp731/what_should_i_add_in_the_whats_new_section_for/)
+- [How would one go about bypassing this? How does the app recognise the device?](https://www.reddit.com/r/androiddev/comments/oxeq70/how_would_one_go_about_bypassing_this_how_does/)
+- [Terms of Service and Privacy Policy question](https://www.reddit.com/r/androiddev/comments/oxadqs/terms_of_service_and_privacy_policy_question/)
+- [Re-writing the AOSP Calendar App in Kotlin](https://www.reddit.com/r/androiddev/comments/ox80pk/rewriting_the_aosp_calendar_app_in_kotlin/)
+- [Kiwi: An Auto-scroller Adventure Game!](https://www.reddit.com/r/androiddev/comments/ox7x7s/kiwi_an_autoscroller_adventure_game/)
+- [Accessing chrome content provider](https://www.reddit.com/r/androiddev/comments/ox3te5/accessing_chrome_content_provider/)
+- [Weekly Questions Thread - August 03, 2021](https://www.reddit.com/r/androiddev/comments/ox2z27/weekly_questions_thread_august\_03\_2021/)
+- [How to make a custom SeekBar?](https://www.reddit.com/r/androiddev/comments/ox2sv0/how_to_make_a_custom_seekbar/)
+- [AppSweep, mobile application scanning for developers](https://www.reddit.com/r/androiddev/comments/ox2go5/appsweep_mobile_application_scanning_for/)
+- [Android Integrated Softphone](https://www.reddit.com/r/androiddev/comments/ox248r/android_integrated_softphone/)
+- [Viewmodels, delays and lifecycle problems](https://www.reddit.com/r/androiddev/comments/ox1nz3/viewmodels_delays_and_lifecycle_problems/)
 
 <!-- REDDIT-POST-LIST:END -->
 
@@ -270,6 +270,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 
 <!-- INFOWORLD-POST-LIST:START -->
 
+- [Jetpack Compose for Android turns GA](https://www.infoworld.com/article/3627298/jetpack-compose-for-android-turns-ga.html#tk.rss_android)
+- [Microsoft sunsets Xamarin toolkit](https://www.infoworld.com/article/3626453/microsoft-sunsets-xamarin-toolkit.html#tk.rss_android)
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
@@ -278,8 +280,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google Jetpack Compose Android UI toolkit now in beta](https://www.infoworld.com/article/3609830/google-jetpack-compose-android-ui-toolkit-now-in-beta.html#tk.rss_android)
 - [Android 12 developer preview bolsters privacy, user experience](https://www.infoworld.com/article/3608937/android-12-developer-preview-bolsters-privacy-user-experience.html#tk.rss_android)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
-- [Android Studio improves machine learning support](https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html#tk.rss_android)
-- [Kotlin mobile SDK shares code across Android, iOS](https://www.infoworld.com/article/3574076/kotlin-mobile-sdk-shares-code-across-android-ios.html#tk.rss_android)
 
 <!-- INFOWORLD-POST-LIST:END -->
 
