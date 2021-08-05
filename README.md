@@ -250,18 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [How would one go about bypassing this? How does the app recognise the device?](https://www.reddit.com/r/androiddev/comments/oxeq70/how_would_one_go_about_bypassing_this_how_does/)
-- [Terms of Service and Privacy Policy question](https://www.reddit.com/r/androiddev/comments/oxadqs/terms_of_service_and_privacy_policy_question/)
-- [Re-writing the AOSP Calendar App in Kotlin](https://www.reddit.com/r/androiddev/comments/ox80pk/rewriting_the_aosp_calendar_app_in_kotlin/)
-- [Kiwi: An Auto-scroller Adventure Game!](https://www.reddit.com/r/androiddev/comments/ox7x7s/kiwi_an_autoscroller_adventure_game/)
-- [Accessing chrome content provider](https://www.reddit.com/r/androiddev/comments/ox3te5/accessing_chrome_content_provider/)
-- [Weekly Questions Thread - August 03, 2021](https://www.reddit.com/r/androiddev/comments/ox2z27/weekly_questions_thread_august\_03\_2021/)
-- [How to make a custom SeekBar?](https://www.reddit.com/r/androiddev/comments/ox2sv0/how_to_make_a_custom_seekbar/)
-- [AppSweep, mobile application scanning for developers](https://www.reddit.com/r/androiddev/comments/ox2go5/appsweep_mobile_application_scanning_for/)
-- [Android Integrated Softphone](https://www.reddit.com/r/androiddev/comments/ox248r/android_integrated_softphone/)
-- [Viewmodels, delays and lifecycle problems](https://www.reddit.com/r/androiddev/comments/ox1nz3/viewmodels_delays_and_lifecycle_problems/)
-
+- [How do I fix this (moto G7)](https://www.reddit.com/r/androiddev/comments/oy6dvp/how_do_i_fix_this_moto_g7/)
+- [Is it ok to deny taking the lead on future projects?](https://www.reddit.com/r/androiddev/comments/oy66ew/is_it_ok_to_deny_taking_the_lead_on_future/)
+- [Hey all. Does anyone here know what are the implementations to be added to be able to use Room and lifeCycle in the last version of Android Studio? (- Arctic Fox - 2020.3.1) . Thx!](https://www.reddit.com/r/androiddev/comments/oy4y7b/hey_all_does_anyone_here_know_what_are_the/)
+- [[June 2021] App Millionaire](https://www.reddit.com/r/androiddev/comments/oy4vts/june_2021_app_millionaire/)
+- [What's the best way to create app files that is visible to the users?](https://www.reddit.com/r/androiddev/comments/oy1cin/whats_the_best_way_to_create_app_files_that_is/)
+- [We just released an Open Source Android base project using Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/oxzyg4/we_just_released_an_open_source_android_base/)
+- [Is there any way at all to artificially send touch events to an application without rooting my phone or connecting it to a PC?](https://www.reddit.com/r/androiddev/comments/oxzq9y/is_there_any_way_at_all_to_artificially_send/)
+- [Combining Room 2.4.0 with Jetpack Paging v3 using Clean Architecture](https://www.reddit.com/r/androiddev/comments/oxyn9z/combining_room_240_with_jetpack_paging_v3_using/)
+- [Nested Recyclerview Alternative](https://www.reddit.com/r/androiddev/comments/oxy4xw/nested_recyclerview_alternative/)
+- [Looking for advertising alternative for revenue](https://www.reddit.com/r/androiddev/comments/oxub7f/looking_for_advertising_alternative_for_revenue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
