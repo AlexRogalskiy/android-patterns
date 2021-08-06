@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I fix this (moto G7)](https://www.reddit.com/r/androiddev/comments/oy6dvp/how_do_i_fix_this_moto_g7/)
-- [Is it ok to deny taking the lead on future projects?](https://www.reddit.com/r/androiddev/comments/oy66ew/is_it_ok_to_deny_taking_the_lead_on_future/)
-- [Hey all. Does anyone here know what are the implementations to be added to be able to use Room and lifeCycle in the last version of Android Studio? (- Arctic Fox - 2020.3.1) . Thx!](https://www.reddit.com/r/androiddev/comments/oy4y7b/hey_all_does_anyone_here_know_what_are_the/)
-- [[June 2021] App Millionaire](https://www.reddit.com/r/androiddev/comments/oy4vts/june_2021_app_millionaire/)
-- [What's the best way to create app files that is visible to the users?](https://www.reddit.com/r/androiddev/comments/oy1cin/whats_the_best_way_to_create_app_files_that_is/)
-- [We just released an Open Source Android base project using Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/oxzyg4/we_just_released_an_open_source_android_base/)
-- [Is there any way at all to artificially send touch events to an application without rooting my phone or connecting it to a PC?](https://www.reddit.com/r/androiddev/comments/oxzq9y/is_there_any_way_at_all_to_artificially_send/)
-- [Combining Room 2.4.0 with Jetpack Paging v3 using Clean Architecture](https://www.reddit.com/r/androiddev/comments/oxyn9z/combining_room_240_with_jetpack_paging_v3_using/)
-- [Nested Recyclerview Alternative](https://www.reddit.com/r/androiddev/comments/oxy4xw/nested_recyclerview_alternative/)
-- [Looking for advertising alternative for revenue](https://www.reddit.com/r/androiddev/comments/oxub7f/looking_for_advertising_alternative_for_revenue/)
+- [Question](https://www.reddit.com/r/androiddev/comments/oywnrc/question/)
+- [disable pixels s10 plus](https://www.reddit.com/r/androiddev/comments/oytipi/disable_pixels_s10_plus/)
+- [adding functionality on Dependent Spinner.](https://www.reddit.com/r/androiddev/comments/oynr6n/adding_functionality_on_dependent_spinner/)
+- [Granting more permissions to Shell user](https://www.reddit.com/r/androiddev/comments/oyn1e6/granting_more_permissions_to_shell_user/)
+- [Question about the new User Messaging Platform (UMP) SDK to obtain the user consent](https://www.reddit.com/r/androiddev/comments/oymm36/question_about_the_new_user_messaging_platform/)
+- [Single events from ViewModel to UI in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oylh8u/single_events_from_viewmodel_to_ui_in_jetpack/)
+- [Top Android MVI libraries in 2021](https://www.reddit.com/r/androiddev/comments/oyl1ld/top_android_mvi_libraries_in_2021/)
+- [Animations in Navigation Compose](https://www.reddit.com/r/androiddev/comments/oykr2y/animations_in_navigation_compose/)
+- [LottieFiles attribution](https://www.reddit.com/r/androiddev/comments/oyk1z6/lottiefiles_attribution/)
+- [Allow application installation only if terms are accepted](https://www.reddit.com/r/androiddev/comments/oyjx39/allow_application_installation_only_if_terms_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
