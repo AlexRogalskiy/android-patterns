@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question](https://www.reddit.com/r/androiddev/comments/oywnrc/question/)
-- [disable pixels s10 plus](https://www.reddit.com/r/androiddev/comments/oytipi/disable_pixels_s10_plus/)
-- [adding functionality on Dependent Spinner.](https://www.reddit.com/r/androiddev/comments/oynr6n/adding_functionality_on_dependent_spinner/)
-- [Granting more permissions to Shell user](https://www.reddit.com/r/androiddev/comments/oyn1e6/granting_more_permissions_to_shell_user/)
-- [Question about the new User Messaging Platform (UMP) SDK to obtain the user consent](https://www.reddit.com/r/androiddev/comments/oymm36/question_about_the_new_user_messaging_platform/)
-- [Single events from ViewModel to UI in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/oylh8u/single_events_from_viewmodel_to_ui_in_jetpack/)
-- [Top Android MVI libraries in 2021](https://www.reddit.com/r/androiddev/comments/oyl1ld/top_android_mvi_libraries_in_2021/)
-- [Animations in Navigation Compose](https://www.reddit.com/r/androiddev/comments/oykr2y/animations_in_navigation_compose/)
-- [LottieFiles attribution](https://www.reddit.com/r/androiddev/comments/oyk1z6/lottiefiles_attribution/)
-- [Allow application installation only if terms are accepted](https://www.reddit.com/r/androiddev/comments/oyjx39/allow_application_installation_only_if_terms_are/)
+- [Drafting software for apps](https://www.reddit.com/r/androiddev/comments/ozj9vi/drafting_software_for_apps/)
+- [My PM doesn't have an android device. Wants to test. What's the easiest way?](https://www.reddit.com/r/androiddev/comments/oziddy/my_pm_doesnt_have_an_android_device_wants_to_test/)
+- [How do some developers get limited time events on Google Play? Is there a beta program for this?](https://www.reddit.com/r/androiddev/comments/ozga63/how_do_some_developers_get_limited_time_events_on/)
+- [Send Email DIRECTLY from android app WITHOUT using intents](https://www.reddit.com/r/androiddev/comments/ozbpq7/send_email_directly_from_android_app_without/)
+- [Our Google Developer Account has been terminated AGAIN](https://www.reddit.com/r/androiddev/comments/ozacmj/our_google_developer_account_has_been_terminated/)
+- [Will tools:targetApi="q" affect app that are below API level Q?](https://www.reddit.com/r/androiddev/comments/oz9ttr/will_toolstargetapiq_affect_app_that_are_below/)
+- [What are/is the best book(s) to learn Android Development ? (Preferably with Kotlin)](https://www.reddit.com/r/androiddev/comments/oz97kk/what_areis_the_best_books_to_learn_android/)
+- [Weekly Anything Goes Thread - August 06, 2021](https://www.reddit.com/r/androiddev/comments/oz65mb/weekly_anything_goes_thread_august_06_2021/)
+- [Top Android MVI libraries in 2021](https://www.reddit.com/r/androiddev/comments/oz5xn1/top_android_mvi_libraries_in_2021/)
+- [How my app can access the screen time of other apps on android?](https://www.reddit.com/r/androiddev/comments/oz56wl/how_my_app_can_access_the_screen_time_of_other/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
