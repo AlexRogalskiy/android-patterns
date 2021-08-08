@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Drafting software for apps](https://www.reddit.com/r/androiddev/comments/ozj9vi/drafting_software_for_apps/)
-- [My PM doesn't have an android device. Wants to test. What's the easiest way?](https://www.reddit.com/r/androiddev/comments/oziddy/my_pm_doesnt_have_an_android_device_wants_to_test/)
-- [How do some developers get limited time events on Google Play? Is there a beta program for this?](https://www.reddit.com/r/androiddev/comments/ozga63/how_do_some_developers_get_limited_time_events_on/)
-- [Send Email DIRECTLY from android app WITHOUT using intents](https://www.reddit.com/r/androiddev/comments/ozbpq7/send_email_directly_from_android_app_without/)
-- [Our Google Developer Account has been terminated AGAIN](https://www.reddit.com/r/androiddev/comments/ozacmj/our_google_developer_account_has_been_terminated/)
-- [Will tools:targetApi="q" affect app that are below API level Q?](https://www.reddit.com/r/androiddev/comments/oz9ttr/will_toolstargetapiq_affect_app_that_are_below/)
-- [What are/is the best book(s) to learn Android Development ? (Preferably with Kotlin)](https://www.reddit.com/r/androiddev/comments/oz97kk/what_areis_the_best_books_to_learn_android/)
-- [Weekly Anything Goes Thread - August 06, 2021](https://www.reddit.com/r/androiddev/comments/oz65mb/weekly_anything_goes_thread_august_06_2021/)
-- [Top Android MVI libraries in 2021](https://www.reddit.com/r/androiddev/comments/oz5xn1/top_android_mvi_libraries_in_2021/)
-- [How my app can access the screen time of other apps on android?](https://www.reddit.com/r/androiddev/comments/oz56wl/how_my_app_can_access_the_screen_time_of_other/)
+- [What are some design patterns that enhance Android development?](https://www.reddit.com/r/androiddev/comments/p04zvy/what_are_some_design_patterns_that_enhance/)
+- [Is this against the rules? And can it be done?](https://www.reddit.com/r/androiddev/comments/p030zd/is_this_against_the_rules_and_can_it_be_done/)
+- [Is fedora good enough for development ?](https://www.reddit.com/r/androiddev/comments/p022ue/is_fedora_good_enough_for_development/)
+- [Learn XML or jetpack compose ?](https://www.reddit.com/r/androiddev/comments/ozyqpu/learn_xml_or_jetpack_compose/)
+- [Multibinding in Koin (almost like in Dagger 2)](https://www.reddit.com/r/androiddev/comments/ozxrlj/multibinding_in_koin_almost_like_in_dagger_2/)
+- [Java or learn kotlin just to make 1 app?](https://www.reddit.com/r/androiddev/comments/ozwbyy/java_or_learn_kotlin_just_to_make_1_app/)
+- [Jetpack compose Good Learning Resource or Course](https://www.reddit.com/r/androiddev/comments/ozu86g/jetpack_compose_good_learning_resource_or_course/)
+- [Learning to 'Hack Android' with picoCTF](https://www.reddit.com/r/androiddev/comments/oztc8o/learning_to_hack_android_with_picoctf/)
+- [App Feedback Thread - August 07, 2021](https://www.reddit.com/r/androiddev/comments/ozsteg/app_feedback_thread_august_07_2021/)
+- [How do you build your structure project?](https://www.reddit.com/r/androiddev/comments/ozrsdn/how_do_you_build_your_structure_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
