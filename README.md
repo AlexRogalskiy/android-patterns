@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are some design patterns that enhance Android development?](https://www.reddit.com/r/androiddev/comments/p04zvy/what_are_some_design_patterns_that_enhance/)
-- [Is this against the rules? And can it be done?](https://www.reddit.com/r/androiddev/comments/p030zd/is_this_against_the_rules_and_can_it_be_done/)
-- [Is fedora good enough for development ?](https://www.reddit.com/r/androiddev/comments/p022ue/is_fedora_good_enough_for_development/)
-- [Learn XML or jetpack compose ?](https://www.reddit.com/r/androiddev/comments/ozyqpu/learn_xml_or_jetpack_compose/)
-- [Multibinding in Koin (almost like in Dagger 2)](https://www.reddit.com/r/androiddev/comments/ozxrlj/multibinding_in_koin_almost_like_in_dagger_2/)
-- [Java or learn kotlin just to make 1 app?](https://www.reddit.com/r/androiddev/comments/ozwbyy/java_or_learn_kotlin_just_to_make_1_app/)
-- [Jetpack compose Good Learning Resource or Course](https://www.reddit.com/r/androiddev/comments/ozu86g/jetpack_compose_good_learning_resource_or_course/)
-- [Learning to 'Hack Android' with picoCTF](https://www.reddit.com/r/androiddev/comments/oztc8o/learning_to_hack_android_with_picoctf/)
-- [App Feedback Thread - August 07, 2021](https://www.reddit.com/r/androiddev/comments/ozsteg/app_feedback_thread_august_07_2021/)
-- [How do you build your structure project?](https://www.reddit.com/r/androiddev/comments/ozrsdn/how_do_you_build_your_structure_project/)
+- [I want to be a mobile developer, but i don't know where to start](https://www.reddit.com/r/androiddev/comments/p0qtae/i_want_to_be_a_mobile_developer_but_i_dont_know/)
+- [What benefits do repositories provide in an app with no caching?](https://www.reddit.com/r/androiddev/comments/p0q4ls/what_benefits_do_repositories_provide_in_an_app/)
+- [Admob App Open ads](https://www.reddit.com/r/androiddev/comments/p0oyet/admob_app_open_ads/)
+- [Send an email DIRECTLY from android App WITHOUT using intent STEP BY STEP GUIDE](https://www.reddit.com/r/androiddev/comments/p0nfww/send_an_email_directly_from_android_app_without/)
+- [Can someone give me some direction with a market place crypto currency app and Google Plays terms of service?](https://www.reddit.com/r/androiddev/comments/p0n2el/can_someone_give_me_some_direction_with_a_market/)
+- [Some good peers 🙏](https://www.reddit.com/r/androiddev/comments/p0lmrh/some_good_peers/)
+- [Need books or courses recommendations to help me understand how Android works on a very low level. How Android exploiting works.](https://www.reddit.com/r/androiddev/comments/p0kwwr/need_books_or_courses_recommendations_to_help_me/)
+- [Don't forget to turn it off!!](https://www.reddit.com/r/androiddev/comments/p0juh3/dont_forget_to_turn_it_off/)
+- [I really don’t get how customization works with XML (customize buttons, checkboxes, edit texts...). Need advice !](https://www.reddit.com/r/androiddev/comments/p0hcoa/i_really_dont_get_how_customization_works_with/)
+- [Actor based peaceful state management - TL;DR: Concurrency without any synchronization primitives*](https://www.reddit.com/r/androiddev/comments/p0gj17/actor_based_peaceful_state_management_tldr/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
