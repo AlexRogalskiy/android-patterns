@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I want to be a mobile developer, but i don't know where to start](https://www.reddit.com/r/androiddev/comments/p0qtae/i_want_to_be_a_mobile_developer_but_i_dont_know/)
-- [What benefits do repositories provide in an app with no caching?](https://www.reddit.com/r/androiddev/comments/p0q4ls/what_benefits_do_repositories_provide_in_an_app/)
-- [Admob App Open ads](https://www.reddit.com/r/androiddev/comments/p0oyet/admob_app_open_ads/)
-- [Send an email DIRECTLY from android App WITHOUT using intent STEP BY STEP GUIDE](https://www.reddit.com/r/androiddev/comments/p0nfww/send_an_email_directly_from_android_app_without/)
-- [Can someone give me some direction with a market place crypto currency app and Google Plays terms of service?](https://www.reddit.com/r/androiddev/comments/p0n2el/can_someone_give_me_some_direction_with_a_market/)
-- [Some good peers 🙏](https://www.reddit.com/r/androiddev/comments/p0lmrh/some_good_peers/)
-- [Need books or courses recommendations to help me understand how Android works on a very low level. How Android exploiting works.](https://www.reddit.com/r/androiddev/comments/p0kwwr/need_books_or_courses_recommendations_to_help_me/)
-- [Don't forget to turn it off!!](https://www.reddit.com/r/androiddev/comments/p0juh3/dont_forget_to_turn_it_off/)
-- [I really don’t get how customization works with XML (customize buttons, checkboxes, edit texts...). Need advice !](https://www.reddit.com/r/androiddev/comments/p0hcoa/i_really_dont_get_how_customization_works_with/)
-- [Actor based peaceful state management - TL;DR: Concurrency without any synchronization primitives*](https://www.reddit.com/r/androiddev/comments/p0gj17/actor_based_peaceful_state_management_tldr/)
+- [Activity Recognition on AOSP](https://www.reddit.com/r/androiddev/comments/p1ejoq/activity_recognition_on_aosp/)
+- [Proper vertical scrolling of ViewPager2 Fragments nested within a scroll view](https://www.reddit.com/r/androiddev/comments/p1bxm1/proper_vertical_scrolling_of_viewpager2_fragments/)
+- [On every new update, a Google bot posts private messages to random people in our app](https://www.reddit.com/r/androiddev/comments/p1a2z7/on_every_new_update_a_google_bot_posts_private/)
+- [What Happened to my Subclass Android Application?](https://www.reddit.com/r/androiddev/comments/p19k5j/what_happened_to_my_subclass_android_application/)
+- [Best way to get remote Android development work?](https://www.reddit.com/r/androiddev/comments/p18kh0/best_way_to_get_remote_android_development_work/)
+- [Billing library warning email from Google](https://www.reddit.com/r/androiddev/comments/p16fof/billing_library_warning_email_from_google/)
+- [Android Studio Bumblebee Canary 7 available](https://www.reddit.com/r/androiddev/comments/p15i4m/android_studio_bumblebee_canary_7_available/)
+- [How to create checkbox multi selection in recyclerview item](https://www.reddit.com/r/androiddev/comments/p159e2/how_to_create_checkbox_multi_selection_in/)
+- [Can we still follow this playlist with jetpack compose 1.0.0?](https://www.reddit.com/r/androiddev/comments/p154hi/can_we_still_follow_this_playlist_with_jetpack/)
+- [BottomSheetDialog and BottomSheetDialogFragment in Compose](https://www.reddit.com/r/androiddev/comments/p123yu/bottomsheetdialog_and_bottomsheetdialogfragment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
