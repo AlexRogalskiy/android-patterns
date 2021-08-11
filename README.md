@@ -250,16 +250,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Activity Recognition on AOSP](https://www.reddit.com/r/androiddev/comments/p1ejoq/activity_recognition_on_aosp/)
-- [Proper vertical scrolling of ViewPager2 Fragments nested within a scroll view](https://www.reddit.com/r/androiddev/comments/p1bxm1/proper_vertical_scrolling_of_viewpager2_fragments/)
-- [On every new update, a Google bot posts private messages to random people in our app](https://www.reddit.com/r/androiddev/comments/p1a2z7/on_every_new_update_a_google_bot_posts_private/)
-- [What Happened to my Subclass Android Application?](https://www.reddit.com/r/androiddev/comments/p19k5j/what_happened_to_my_subclass_android_application/)
-- [Best way to get remote Android development work?](https://www.reddit.com/r/androiddev/comments/p18kh0/best_way_to_get_remote_android_development_work/)
-- [Billing library warning email from Google](https://www.reddit.com/r/androiddev/comments/p16fof/billing_library_warning_email_from_google/)
-- [Android Studio Bumblebee Canary 7 available](https://www.reddit.com/r/androiddev/comments/p15i4m/android_studio_bumblebee_canary_7_available/)
-- [How to create checkbox multi selection in recyclerview item](https://www.reddit.com/r/androiddev/comments/p159e2/how_to_create_checkbox_multi_selection_in/)
-- [Can we still follow this playlist with jetpack compose 1.0.0?](https://www.reddit.com/r/androiddev/comments/p154hi/can_we_still_follow_this_playlist_with_jetpack/)
-- [BottomSheetDialog and BottomSheetDialogFragment in Compose](https://www.reddit.com/r/androiddev/comments/p123yu/bottomsheetdialog_and_bottomsheetdialogfragment/)
+- [So I tried asking Google to delete some of my old Apps.](https://www.reddit.com/r/androiddev/comments/p1ywk4/so_i_tried_asking_google_to_delete_some_of_my_old/)
+- [Is this a scam ?](https://www.reddit.com/r/androiddev/comments/p1wacc/is_this_a_scam/)
+- [Singleton alternatives](https://www.reddit.com/r/androiddev/comments/p1v3py/singleton_alternatives/)
+- [Timber 5.0 is out! Rewritten in Kotlin, binary compatible with 4.x and support for AGP 7.0 lint checks](https://www.reddit.com/r/androiddev/comments/p1uvo2/timber_50_is_out_rewritten_in_kotlin_binary/)
+- [Why is this happing all sudden? Projects will work fine but after add room, its start to giving the error or if I even remove them then still give an error](https://www.reddit.com/r/androiddev/comments/p1ua78/why_is_this_happing_all_sudden_projects_will_work/)
+- [Someone offering to buy my dev account.](https://www.reddit.com/r/androiddev/comments/p1thi6/someone_offering_to_buy_my_dev_account/)
+- [Can I globally filter the display content to only show certain colors?](https://www.reddit.com/r/androiddev/comments/p1qy40/can_i_globally_filter_the_display_content_to_only/)
+- [What to do when you get 1 star ratings with no explanation](https://www.reddit.com/r/androiddev/comments/p1qr8x/what_to_do_when_you_get_1_star_ratings_with_no/)
+- [Weekly Questions Thread - August 10, 2021](https://www.reddit.com/r/androiddev/comments/p1oor7/weekly_questions_thread_august_10_2021/)
+- [[Tolls] Does anyone know of a library or any way for my app to know when there is a toll?](https://www.reddit.com/r/androiddev/comments/p1o02q/tolls_does_anyone_know_of_a_library_or_any_way/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
