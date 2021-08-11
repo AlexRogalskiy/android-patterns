@@ -41,31 +41,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-
-- [Android Design Patterns](#android-design-patterns)
-  - [<em>Table of contents</em>](#-table-of-contents)
-  - [<em>Summary</em>](#-summary)
-  - [<em>Documentation</em>](#-documentation)
-  - [<em>Statistics</em>](#-statistics)
-  - [<em>Versioning</em>](#-versioning)
-  - [<em>Authors</em>](#-authors)
-  - [<em>Contributing</em>](#-contributing)
-  - [<em>Visitor stats</em>](#-visitor-stats)
-  - [<em>Licensing</em>](#-licensing)
-  - [<em>Development Support</em>](#-development-support)
-  - [<em>Acknowledgement</em>](#-acknowledgement)
-  - [<em>OpenGraph Card</em>](#-opengraph-card)
-  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-    - [<em>Reddit posts</em>](#reddit-posts)
-    - [<em>InfoWorld posts</em>](#infoworld-posts)
-    - [<em>RedHat posts</em>](#redhat-posts)
-    - [<em>Android Authority posts</em>](#android-authority-posts)
-    - [<em>Android Arsenal posts</em>](#android-arsenal-posts)
-    - [<em>Medium posts</em>](#medium-posts)
-    - [<em>Gizmodo posts</em>](#gizmodo-posts)
-    - [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
-    - [<em>Infinum posts</em>](#infinum-posts)
-
+   * [Android Design Patterns](#android-design-patterns)
+      * [<em>Table of contents</em>](#-table-of-contents)
+      * [<em>Summary</em>](#-summary)
+      * [<em>Documentation</em>](#-documentation)
+      * [<em>Statistics</em>](#-statistics)
+      * [<em>Versioning</em>](#-versioning)
+      * [<em>Authors</em>](#-authors)
+      * [<em>Contributing</em>](#-contributing)
+      * [<em>Visitor stats</em>](#-visitor-stats)
+      * [<em>Licensing</em>](#-licensing)
+      * [<em>Development Support</em>](#-development-support)
+      * [<em>Acknowledgement</em>](#-acknowledgement)
+      * [<em>OpenGraph Card</em>](#-opengraph-card)
+      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+         * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>InfoWorld posts</em>](#infoworld-posts)
+         * [<em>RedHat posts</em>](#redhat-posts)
+         * [<em>Android Authority posts</em>](#android-authority-posts)
+         * [<em>Android Arsenal posts</em>](#android-arsenal-posts)
+         * [<em>Medium posts</em>](#medium-posts)
+         * [<em>Gizmodo posts</em>](#gizmodo-posts)
+         * [<em>Mobile Dev Memo posts</em>](#mobile-dev-memo-posts)
+         * [<em>Infinum posts</em>](#infinum-posts)
 <!--te-->
 
 ## ☝ *Summary*
@@ -269,24 +267,21 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [How would one go about bypassing this? How does the app recognise the device?](https://www.reddit.com/r/androiddev/comments/oxeq70/how_would_one_go_about_bypassing_this_how_does/)
-- [Terms of Service and Privacy Policy question](https://www.reddit.com/r/androiddev/comments/oxadqs/terms_of_service_and_privacy_policy_question/)
-- [Re-writing the AOSP Calendar App in Kotlin](https://www.reddit.com/r/androiddev/comments/ox80pk/rewriting_the_aosp_calendar_app_in_kotlin/)
-- [Kiwi: An Auto-scroller Adventure Game!](https://www.reddit.com/r/androiddev/comments/ox7x7s/kiwi_an_autoscroller_adventure_game/)
-- [Accessing chrome content provider](https://www.reddit.com/r/androiddev/comments/ox3te5/accessing_chrome_content_provider/)
-- [Weekly Questions Thread - August 03, 2021](https://www.reddit.com/r/androiddev/comments/ox2z27/weekly_questions_thread_august\_03\_2021/)
-- [How to make a custom SeekBar?](https://www.reddit.com/r/androiddev/comments/ox2sv0/how_to_make_a_custom_seekbar/)
-- [AppSweep, mobile application scanning for developers](https://www.reddit.com/r/androiddev/comments/ox2go5/appsweep_mobile_application_scanning_for/)
-- [Android Integrated Softphone](https://www.reddit.com/r/androiddev/comments/ox248r/android_integrated_softphone/)
-- [Viewmodels, delays and lifecycle problems](https://www.reddit.com/r/androiddev/comments/ox1nz3/viewmodels_delays_and_lifecycle_problems/)
-
+- [So I tried asking Google to delete some of my old Apps.](https://www.reddit.com/r/androiddev/comments/p1ywk4/so_i_tried_asking_google_to_delete_some_of_my_old/)
+- [Is this a scam ?](https://www.reddit.com/r/androiddev/comments/p1wacc/is_this_a_scam/)
+- [Singleton alternatives](https://www.reddit.com/r/androiddev/comments/p1v3py/singleton_alternatives/)
+- [Timber 5.0 is out! Rewritten in Kotlin, binary compatible with 4.x and support for AGP 7.0 lint checks](https://www.reddit.com/r/androiddev/comments/p1uvo2/timber_50_is_out_rewritten_in_kotlin_binary/)
+- [Why is this happing all sudden? Projects will work fine but after add room, its start to giving the error or if I even remove them then still give an error](https://www.reddit.com/r/androiddev/comments/p1ua78/why_is_this_happing_all_sudden_projects_will_work/)
+- [Someone offering to buy my dev account.](https://www.reddit.com/r/androiddev/comments/p1thi6/someone_offering_to_buy_my_dev_account/)
+- [Can I globally filter the display content to only show certain colors?](https://www.reddit.com/r/androiddev/comments/p1qy40/can_i_globally_filter_the_display_content_to_only/)
+- [What to do when you get 1 star ratings with no explanation](https://www.reddit.com/r/androiddev/comments/p1qr8x/what_to_do_when_you_get_1_star_ratings_with_no/)
+- [Weekly Questions Thread - August 10, 2021](https://www.reddit.com/r/androiddev/comments/p1oor7/weekly_questions_thread_august_10_2021/)
+- [[Tolls] Does anyone know of a library or any way for my app to know when there is a toll?](https://www.reddit.com/r/androiddev/comments/p1o02q/tolls_does_anyone_know_of_a_library_or_any_way/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-
 - [Jetpack Compose for Android turns GA](https://www.infoworld.com/article/3627298/jetpack-compose-for-android-turns-ga.html#tk.rss_android)
 - [Microsoft sunsets Xamarin toolkit](https://www.infoworld.com/article/3626453/microsoft-sunsets-xamarin-toolkit.html#tk.rss_android)
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
@@ -297,7 +292,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google Jetpack Compose Android UI toolkit now in beta](https://www.infoworld.com/article/3609830/google-jetpack-compose-android-ui-toolkit-now-in-beta.html#tk.rss_android)
 - [Android 12 developer preview bolsters privacy, user experience](https://www.infoworld.com/article/3608937/android-12-developer-preview-bolsters-privacy-user-experience.html#tk.rss_android)
 - [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
-
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
