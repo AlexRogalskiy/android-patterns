@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [So I tried asking Google to delete some of my old Apps.](https://www.reddit.com/r/androiddev/comments/p1ywk4/so_i_tried_asking_google_to_delete_some_of_my_old/)
-- [Is this a scam ?](https://www.reddit.com/r/androiddev/comments/p1wacc/is_this_a_scam/)
-- [Singleton alternatives](https://www.reddit.com/r/androiddev/comments/p1v3py/singleton_alternatives/)
-- [Timber 5.0 is out! Rewritten in Kotlin, binary compatible with 4.x and support for AGP 7.0 lint checks](https://www.reddit.com/r/androiddev/comments/p1uvo2/timber_50_is_out_rewritten_in_kotlin_binary/)
-- [Why is this happing all sudden? Projects will work fine but after add room, its start to giving the error or if I even remove them then still give an error](https://www.reddit.com/r/androiddev/comments/p1ua78/why_is_this_happing_all_sudden_projects_will_work/)
-- [Someone offering to buy my dev account.](https://www.reddit.com/r/androiddev/comments/p1thi6/someone_offering_to_buy_my_dev_account/)
-- [Can I globally filter the display content to only show certain colors?](https://www.reddit.com/r/androiddev/comments/p1qy40/can_i_globally_filter_the_display_content_to_only/)
-- [What to do when you get 1 star ratings with no explanation](https://www.reddit.com/r/androiddev/comments/p1qr8x/what_to_do_when_you_get_1_star_ratings_with_no/)
-- [Weekly Questions Thread - August 10, 2021](https://www.reddit.com/r/androiddev/comments/p1oor7/weekly_questions_thread_august_10_2021/)
-- [[Tolls] Does anyone know of a library or any way for my app to know when there is a toll?](https://www.reddit.com/r/androiddev/comments/p1o02q/tolls_does_anyone_know_of_a_library_or_any_way/)
+- [Motorola Edge on bootloop](https://www.reddit.com/r/androiddev/comments/p2qgpd/motorola_edge_on_bootloop/)
+- [Trading in-game goods of a PC game](https://www.reddit.com/r/androiddev/comments/p2jyxk/trading_ingame_goods_of_a_pc_game/)
+- [How to be good they can’t ignore you? The Software Engineering version](https://www.reddit.com/r/androiddev/comments/p2jnao/how_to_be_good_they_cant_ignore_you_the_software/)
+- [Android 11 - Track Permission State](https://www.reddit.com/r/androiddev/comments/p2ibxj/android_11_track_permission_state/)
+- [The Future of Kotlin](https://www.reddit.com/r/androiddev/comments/p2hut3/the_future_of_kotlin/)
+- [Play Store submission - promote directly from internal testing to production or create alpha first?](https://www.reddit.com/r/androiddev/comments/p2flnr/play_store_submission_promote_directly_from/)
+- [I created a library to help determine when the app UI is visible](https://www.reddit.com/r/androiddev/comments/p2copu/i_created_a_library_to_help_determine_when_the/)
+- [Favourite CI/CD tool for android build, tests, and publish.](https://www.reddit.com/r/androiddev/comments/p2ai02/favourite_cicd_tool_for_android_build_tests_and/)
+- [How do you guys manage forms?](https://www.reddit.com/r/androiddev/comments/p29v5o/how_do_you_guys_manage_forms/)
+- [How to choose app to work on if you suffer from analysis-paralysis?](https://www.reddit.com/r/androiddev/comments/p29u9n/how_to_choose_app_to_work_on_if_you_suffer_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
