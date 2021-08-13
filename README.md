@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Motorola Edge on bootloop](https://www.reddit.com/r/androiddev/comments/p2qgpd/motorola_edge_on_bootloop/)
-- [Trading in-game goods of a PC game](https://www.reddit.com/r/androiddev/comments/p2jyxk/trading_ingame_goods_of_a_pc_game/)
-- [How to be good they can’t ignore you? The Software Engineering version](https://www.reddit.com/r/androiddev/comments/p2jnao/how_to_be_good_they_cant_ignore_you_the_software/)
-- [Android 11 - Track Permission State](https://www.reddit.com/r/androiddev/comments/p2ibxj/android_11_track_permission_state/)
-- [The Future of Kotlin](https://www.reddit.com/r/androiddev/comments/p2hut3/the_future_of_kotlin/)
-- [Play Store submission - promote directly from internal testing to production or create alpha first?](https://www.reddit.com/r/androiddev/comments/p2flnr/play_store_submission_promote_directly_from/)
-- [I created a library to help determine when the app UI is visible](https://www.reddit.com/r/androiddev/comments/p2copu/i_created_a_library_to_help_determine_when_the/)
-- [Favourite CI/CD tool for android build, tests, and publish.](https://www.reddit.com/r/androiddev/comments/p2ai02/favourite_cicd_tool_for_android_build_tests_and/)
-- [How do you guys manage forms?](https://www.reddit.com/r/androiddev/comments/p29v5o/how_do_you_guys_manage_forms/)
-- [How to choose app to work on if you suffer from analysis-paralysis?](https://www.reddit.com/r/androiddev/comments/p29u9n/how_to_choose_app_to_work_on_if_you_suffer_from/)
+- [my app doesn’t run, I downloaded the emulator from the avd manager made specifically for the m1 Mac. Does anyone know why it won’t run??](https://www.reddit.com/r/androiddev/comments/p3ds2v/my_app_doesnt_run_i_downloaded_the_emulator_from/)
+- [Compose without Jetpack ViewModel](https://www.reddit.com/r/androiddev/comments/p3dmge/compose_without_jetpack_viewmodel/)
+- [Android Studio Bumblebee Canary 8 available](https://www.reddit.com/r/androiddev/comments/p38qf4/android_studio_bumblebee_canary_8_available/)
+- [Moving app-specific GCP projects to a shared GCP project for all my apps](https://www.reddit.com/r/androiddev/comments/p375m3/moving_appspecific_gcp_projects_to_a_shared_gcp/)
+- [Samsung Galaxy Tab S6 is only 711dp wide?](https://www.reddit.com/r/androiddev/comments/p371p6/samsung_galaxy_tab_s6_is_only_711dp_wide/)
+- [Download mp3 files and access it](https://www.reddit.com/r/androiddev/comments/p3710n/download_mp3_files_and_access_it/)
+- [uiautomatorviewer shows incorrect orientation](https://www.reddit.com/r/androiddev/comments/p34oil/uiautomatorviewer_shows_incorrect_orientation/)
+- [Is review needed for republishing an unpublished app?](https://www.reddit.com/r/androiddev/comments/p33yel/is_review_needed_for_republishing_an_unpublished/)
+- [Question about building social platforms that use cryptocurrency](https://www.reddit.com/r/androiddev/comments/p330gw/question_about_building_social_platforms_that_use/)
+- [Which ad mediation is best?](https://www.reddit.com/r/androiddev/comments/p2yhl8/which_ad_mediation_is_best/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
