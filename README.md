@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [my app doesn’t run, I downloaded the emulator from the avd manager made specifically for the m1 Mac. Does anyone know why it won’t run??](https://www.reddit.com/r/androiddev/comments/p3ds2v/my_app_doesnt_run_i_downloaded_the_emulator_from/)
-- [Compose without Jetpack ViewModel](https://www.reddit.com/r/androiddev/comments/p3dmge/compose_without_jetpack_viewmodel/)
-- [Android Studio Bumblebee Canary 8 available](https://www.reddit.com/r/androiddev/comments/p38qf4/android_studio_bumblebee_canary_8_available/)
-- [Moving app-specific GCP projects to a shared GCP project for all my apps](https://www.reddit.com/r/androiddev/comments/p375m3/moving_appspecific_gcp_projects_to_a_shared_gcp/)
-- [Samsung Galaxy Tab S6 is only 711dp wide?](https://www.reddit.com/r/androiddev/comments/p371p6/samsung_galaxy_tab_s6_is_only_711dp_wide/)
-- [Download mp3 files and access it](https://www.reddit.com/r/androiddev/comments/p3710n/download_mp3_files_and_access_it/)
-- [uiautomatorviewer shows incorrect orientation](https://www.reddit.com/r/androiddev/comments/p34oil/uiautomatorviewer_shows_incorrect_orientation/)
-- [Is review needed for republishing an unpublished app?](https://www.reddit.com/r/androiddev/comments/p33yel/is_review_needed_for_republishing_an_unpublished/)
-- [Question about building social platforms that use cryptocurrency](https://www.reddit.com/r/androiddev/comments/p330gw/question_about_building_social_platforms_that_use/)
-- [Which ad mediation is best?](https://www.reddit.com/r/androiddev/comments/p2yhl8/which_ad_mediation_is_best/)
+- [Where to download sample android app bundle (for beginner)?](https://www.reddit.com/r/androiddev/comments/p3w3ej/where_to_download_sample_android_app_bundle_for/)
+- [Smali if statement](https://www.reddit.com/r/androiddev/comments/p3uzxv/smali_if_statement/)
+- [What is the most recommended image/setup to have a light android emulator?](https://www.reddit.com/r/androiddev/comments/p3uxy8/what_is_the_most_recommended_imagesetup_to_have_a/)
+- [Email about my developer account at risk of being closed for having no activity. What can I do?](https://www.reddit.com/r/androiddev/comments/p3ungi/email_about_my_developer_account_at_risk_of_being/)
+- [Is there a way to show images over phone camera?](https://www.reddit.com/r/androiddev/comments/p3u9n4/is_there_a_way_to_show_images_over_phone_camera/)
+- [Google Play daily installs drop by 2/3 because of new 15% Play Store cut?](https://www.reddit.com/r/androiddev/comments/p3meyk/google_play_daily_installs_drop_by_23_because_of/)
+- [DioHub, an open-source GitHub mobile app, is now available on the Play Store!](https://www.reddit.com/r/androiddev/comments/p3mcj7/diohub_an_opensource_github_mobile_app_is_now/)
+- [Question about backend technology choices for social network app](https://www.reddit.com/r/androiddev/comments/p3mbe7/question_about_backend_technology_choices_for/)
+- [Weekly Anything Goes Thread - August 13, 2021](https://www.reddit.com/r/androiddev/comments/p3m7mx/weekly_anything_goes_thread_august_13_2021/)
+- [Google play service missing from emulator on mac os](https://www.reddit.com/r/androiddev/comments/p3log1/google_play_service_missing_from_emulator_on_mac/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
