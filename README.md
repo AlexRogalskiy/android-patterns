@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where to download sample android app bundle (for beginner)?](https://www.reddit.com/r/androiddev/comments/p3w3ej/where_to_download_sample_android_app_bundle_for/)
-- [Smali if statement](https://www.reddit.com/r/androiddev/comments/p3uzxv/smali_if_statement/)
-- [What is the most recommended image/setup to have a light android emulator?](https://www.reddit.com/r/androiddev/comments/p3uxy8/what_is_the_most_recommended_imagesetup_to_have_a/)
-- [Email about my developer account at risk of being closed for having no activity. What can I do?](https://www.reddit.com/r/androiddev/comments/p3ungi/email_about_my_developer_account_at_risk_of_being/)
-- [Is there a way to show images over phone camera?](https://www.reddit.com/r/androiddev/comments/p3u9n4/is_there_a_way_to_show_images_over_phone_camera/)
-- [Google Play daily installs drop by 2/3 because of new 15% Play Store cut?](https://www.reddit.com/r/androiddev/comments/p3meyk/google_play_daily_installs_drop_by_23_because_of/)
-- [DioHub, an open-source GitHub mobile app, is now available on the Play Store!](https://www.reddit.com/r/androiddev/comments/p3mcj7/diohub_an_opensource_github_mobile_app_is_now/)
-- [Question about backend technology choices for social network app](https://www.reddit.com/r/androiddev/comments/p3mbe7/question_about_backend_technology_choices_for/)
-- [Weekly Anything Goes Thread - August 13, 2021](https://www.reddit.com/r/androiddev/comments/p3m7mx/weekly_anything_goes_thread_august_13_2021/)
-- [Google play service missing from emulator on mac os](https://www.reddit.com/r/androiddev/comments/p3log1/google_play_service_missing_from_emulator_on_mac/)
+- [Androids – A Book is Born](https://www.reddit.com/r/androiddev/comments/p4hf9g/androids_a_book_is_born/)
+- [Web3.JS va Web3J](https://www.reddit.com/r/androiddev/comments/p4h0u2/web3js_va_web3j/)
+- [Any faster way to preview compose?](https://www.reddit.com/r/androiddev/comments/p4gh3q/any_faster_way_to_preview_compose/)
+- [You're currently unable to receive payouts because there's a hold on your payments account.](https://www.reddit.com/r/androiddev/comments/p4fvj6/youre_currently_unable_to_receive_payouts_because/)
+- [What do you think is the percentage of developers getting wrong fully banned from play store ?](https://www.reddit.com/r/androiddev/comments/p4e16b/what_do_you_think_is_the_percentage_of_developers/)
+- [Does anyone know how to restore data from google backup using a non-active set?](https://www.reddit.com/r/androiddev/comments/p4d2aq/does_anyone_know_how_to_restore_data_from_google/)
+- [eBay Motors: Accelerating With Flutter™](https://www.reddit.com/r/androiddev/comments/p4cy2e/ebay_motors_accelerating_with_flutter/)
+- [Which features exist to collect data about phone usage?](https://www.reddit.com/r/androiddev/comments/p4akue/which_features_exist_to_collect_data_about_phone/)
+- [Room Database manipulating a list in LiveData](https://www.reddit.com/r/androiddev/comments/p47n80/room_database_manipulating_a_list_in_livedata/)
+- [App Feedback Thread - August 14, 2021](https://www.reddit.com/r/androiddev/comments/p47l48/app_feedback_thread_august_14_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
