@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Androids – A Book is Born](https://www.reddit.com/r/androiddev/comments/p4hf9g/androids_a_book_is_born/)
-- [Web3.JS va Web3J](https://www.reddit.com/r/androiddev/comments/p4h0u2/web3js_va_web3j/)
-- [Any faster way to preview compose?](https://www.reddit.com/r/androiddev/comments/p4gh3q/any_faster_way_to_preview_compose/)
-- [You're currently unable to receive payouts because there's a hold on your payments account.](https://www.reddit.com/r/androiddev/comments/p4fvj6/youre_currently_unable_to_receive_payouts_because/)
-- [What do you think is the percentage of developers getting wrong fully banned from play store ?](https://www.reddit.com/r/androiddev/comments/p4e16b/what_do_you_think_is_the_percentage_of_developers/)
-- [Does anyone know how to restore data from google backup using a non-active set?](https://www.reddit.com/r/androiddev/comments/p4d2aq/does_anyone_know_how_to_restore_data_from_google/)
-- [eBay Motors: Accelerating With Flutter™](https://www.reddit.com/r/androiddev/comments/p4cy2e/ebay_motors_accelerating_with_flutter/)
-- [Which features exist to collect data about phone usage?](https://www.reddit.com/r/androiddev/comments/p4akue/which_features_exist_to_collect_data_about_phone/)
-- [Room Database manipulating a list in LiveData](https://www.reddit.com/r/androiddev/comments/p47n80/room_database_manipulating_a_list_in_livedata/)
-- [App Feedback Thread - August 14, 2021](https://www.reddit.com/r/androiddev/comments/p47l48/app_feedback_thread_august_14_2021/)
+- [Starting out in android app development](https://www.reddit.com/r/androiddev/comments/p52nta/starting_out_in_android_app_development/)
+- [What are some of your favorite Android podcasts?](https://www.reddit.com/r/androiddev/comments/p52kqw/what_are_some_of_your_favorite_android_podcasts/)
+- [Android Development is a mess](https://www.reddit.com/r/androiddev/comments/p523d4/android_development_is_a_mess/)
+- [Need Help! In app Architecture](https://www.reddit.com/r/androiddev/comments/p4zbwm/need_help_in_app_architecture/)
+- [Udemy courses for beginners](https://www.reddit.com/r/androiddev/comments/p4yzkt/udemy_courses_for_beginners/)
+- [Will taking a job at a no name company hurt my career?](https://www.reddit.com/r/androiddev/comments/p4xq64/will_taking_a_job_at_a_no_name_company_hurt_my/)
+- [Ideas regarding projects](https://www.reddit.com/r/androiddev/comments/p4vzft/ideas_regarding_projects/)
+- [How can i create a small server to use for a personal app?](https://www.reddit.com/r/androiddev/comments/p4unrk/how_can_i_create_a_small_server_to_use_for_a/)
+- [I had a query regarding Online mobile apps](https://www.reddit.com/r/androiddev/comments/p4r1kw/i_had_a_query_regarding_online_mobile_apps/)
+- [[x-post] Rant: I've had to apply to Android Senior Engineering Jobs but haven't been asked a single Android question](https://www.reddit.com/r/androiddev/comments/p4q2zo/xpost_rant_ive_had_to_apply_to_android_senior/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
