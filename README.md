@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Starting out in android app development](https://www.reddit.com/r/androiddev/comments/p52nta/starting_out_in_android_app_development/)
-- [What are some of your favorite Android podcasts?](https://www.reddit.com/r/androiddev/comments/p52kqw/what_are_some_of_your_favorite_android_podcasts/)
-- [Android Development is a mess](https://www.reddit.com/r/androiddev/comments/p523d4/android_development_is_a_mess/)
-- [Need Help! In app Architecture](https://www.reddit.com/r/androiddev/comments/p4zbwm/need_help_in_app_architecture/)
-- [Udemy courses for beginners](https://www.reddit.com/r/androiddev/comments/p4yzkt/udemy_courses_for_beginners/)
-- [Will taking a job at a no name company hurt my career?](https://www.reddit.com/r/androiddev/comments/p4xq64/will_taking_a_job_at_a_no_name_company_hurt_my/)
-- [Ideas regarding projects](https://www.reddit.com/r/androiddev/comments/p4vzft/ideas_regarding_projects/)
-- [How can i create a small server to use for a personal app?](https://www.reddit.com/r/androiddev/comments/p4unrk/how_can_i_create_a_small_server_to_use_for_a/)
-- [I had a query regarding Online mobile apps](https://www.reddit.com/r/androiddev/comments/p4r1kw/i_had_a_query_regarding_online_mobile_apps/)
-- [[x-post] Rant: I've had to apply to Android Senior Engineering Jobs but haven't been asked a single Android question](https://www.reddit.com/r/androiddev/comments/p4q2zo/xpost_rant_ive_had_to_apply_to_android_senior/)
+- [Should I learn Java or Kotlin?](https://www.reddit.com/r/androiddev/comments/p5tple/should_i_learn_java_or_kotlin/)
+- [Advantages of publishing your app in playstore instead of publishing it in your own website ?](https://www.reddit.com/r/androiddev/comments/p5sbdd/advantages_of_publishing_your_app_in_playstore/)
+- [Why app module needs to know retrofit dependency? (Dagger/Hilt)](https://www.reddit.com/r/androiddev/comments/p5rfep/why_app_module_needs_to_know_retrofit_dependency/)
+- [In android, is it a bad idea to inject an adapter with Hilt](https://www.reddit.com/r/androiddev/comments/p5r0qc/in_android_is_it_a_bad_idea_to_inject_an_adapter/)
+- [My Take on 8 Years of Android Development](https://www.reddit.com/r/androiddev/comments/p5q1vd/my_take_on_8_years_of_android_development/)
+- [How to keep code quality high?](https://www.reddit.com/r/androiddev/comments/p5ozsx/how_to_keep_code_quality_high/)
+- [Honest question: Why does it seem like Android development is way more popular in areas such as India or Eastern Europe than, say, in the US?](https://www.reddit.com/r/androiddev/comments/p5macc/honest_question_why_does_it_seem_like_android/)
+- [🏆 This Thursday 🏆 Android gurus face off in DevProdEng Showdown! S1E6: Android Builds and Tests at Scale](https://www.reddit.com/r/androiddev/comments/p5l171/this_thursday_android_gurus_face_off_in/)
+- [If one completely migrated to pure Jetpack Compose, what are the traditional libraries that becomes absolute ?](https://www.reddit.com/r/androiddev/comments/p5konu/if_one_completely_migrated_to_pure_jetpack/)
+- [Newbie Developer Looking For A Mentor](https://www.reddit.com/r/androiddev/comments/p5kfph/newbie_developer_looking_for_a_mentor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
