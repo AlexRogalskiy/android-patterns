@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Should I learn Java or Kotlin?](https://www.reddit.com/r/androiddev/comments/p5tple/should_i_learn_java_or_kotlin/)
-- [Advantages of publishing your app in playstore instead of publishing it in your own website ?](https://www.reddit.com/r/androiddev/comments/p5sbdd/advantages_of_publishing_your_app_in_playstore/)
-- [Why app module needs to know retrofit dependency? (Dagger/Hilt)](https://www.reddit.com/r/androiddev/comments/p5rfep/why_app_module_needs_to_know_retrofit_dependency/)
-- [In android, is it a bad idea to inject an adapter with Hilt](https://www.reddit.com/r/androiddev/comments/p5r0qc/in_android_is_it_a_bad_idea_to_inject_an_adapter/)
-- [My Take on 8 Years of Android Development](https://www.reddit.com/r/androiddev/comments/p5q1vd/my_take_on_8_years_of_android_development/)
-- [How to keep code quality high?](https://www.reddit.com/r/androiddev/comments/p5ozsx/how_to_keep_code_quality_high/)
-- [Honest question: Why does it seem like Android development is way more popular in areas such as India or Eastern Europe than, say, in the US?](https://www.reddit.com/r/androiddev/comments/p5macc/honest_question_why_does_it_seem_like_android/)
-- [🏆 This Thursday 🏆 Android gurus face off in DevProdEng Showdown! S1E6: Android Builds and Tests at Scale](https://www.reddit.com/r/androiddev/comments/p5l171/this_thursday_android_gurus_face_off_in/)
-- [If one completely migrated to pure Jetpack Compose, what are the traditional libraries that becomes absolute ?](https://www.reddit.com/r/androiddev/comments/p5konu/if_one_completely_migrated_to_pure_jetpack/)
-- [Newbie Developer Looking For A Mentor](https://www.reddit.com/r/androiddev/comments/p5kfph/newbie_developer_looking_for_a_mentor/)
+- [How badly can the android vitals affect play store visibility? My app on playstore already passed the "bad behavior threshold" but i cant fix it since the stack trace is EMPTY.i just want to know how badly can the bad behavior affect my visibility.ANR Bad behavior threshold: 0.47% vs 0.64%(mine)](https://www.reddit.com/r/androiddev/comments/p6goo3/how_badly_can_the_android_vitals_affect_play/)
+- [No AMA with the Android Engineering Team this year?](https://www.reddit.com/r/androiddev/comments/p69z50/no_ama_with_the_android_engineering_team_this_year/)
+- [How well do emulators for older SDKs (pre 30) perform on Apple M1?](https://www.reddit.com/r/androiddev/comments/p67rxg/how_well_do_emulators_for_older_sdks_pre_30/)
+- [Internal test deployment platforms](https://www.reddit.com/r/androiddev/comments/p66ufq/internal_test_deployment_platforms/)
+- [Android in-app purchases: configuration and adding to the project](https://www.reddit.com/r/androiddev/comments/p65oye/android_inapp_purchases_configuration_and_adding/)
+- [Question - how to let them know whether my app is a COVID-19 contact tracing or status app?](https://www.reddit.com/r/androiddev/comments/p65gzs/question_how_to_let_them_know_whether_my_app_is_a/)
+- [Observing Live connectivity status in Jetpack Compose way!](https://www.reddit.com/r/androiddev/comments/p63qw5/observing_live_connectivity_status_in_jetpack/)
+- [Weekly Questions Thread - August 17, 2021](https://www.reddit.com/r/androiddev/comments/p63ata/weekly_questions_thread_august_17_2021/)
+- [Coroutines (Part III) – Structured Concurrency and Cancellation](https://www.reddit.com/r/androiddev/comments/p61r69/coroutines_part_iii_structured_concurrency_and/)
+- [Can I post an app on Google play that is very similar with another one?](https://www.reddit.com/r/androiddev/comments/p5wi20/can_i_post_an_app_on_google_play_that_is_very/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
