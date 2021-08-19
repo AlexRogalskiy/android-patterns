@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How badly can the android vitals affect play store visibility? My app on playstore already passed the "bad behavior threshold" but i cant fix it since the stack trace is EMPTY.i just want to know how badly can the bad behavior affect my visibility.ANR Bad behavior threshold: 0.47% vs 0.64%(mine)](https://www.reddit.com/r/androiddev/comments/p6goo3/how_badly_can_the_android_vitals_affect_play/)
-- [No AMA with the Android Engineering Team this year?](https://www.reddit.com/r/androiddev/comments/p69z50/no_ama_with_the_android_engineering_team_this_year/)
-- [How well do emulators for older SDKs (pre 30) perform on Apple M1?](https://www.reddit.com/r/androiddev/comments/p67rxg/how_well_do_emulators_for_older_sdks_pre_30/)
-- [Internal test deployment platforms](https://www.reddit.com/r/androiddev/comments/p66ufq/internal_test_deployment_platforms/)
-- [Android in-app purchases: configuration and adding to the project](https://www.reddit.com/r/androiddev/comments/p65oye/android_inapp_purchases_configuration_and_adding/)
-- [Question - how to let them know whether my app is a COVID-19 contact tracing or status app?](https://www.reddit.com/r/androiddev/comments/p65gzs/question_how_to_let_them_know_whether_my_app_is_a/)
-- [Observing Live connectivity status in Jetpack Compose way!](https://www.reddit.com/r/androiddev/comments/p63qw5/observing_live_connectivity_status_in_jetpack/)
-- [Weekly Questions Thread - August 17, 2021](https://www.reddit.com/r/androiddev/comments/p63ata/weekly_questions_thread_august_17_2021/)
-- [Coroutines (Part III) – Structured Concurrency and Cancellation](https://www.reddit.com/r/androiddev/comments/p61r69/coroutines_part_iii_structured_concurrency_and/)
-- [Can I post an app on Google play that is very similar with another one?](https://www.reddit.com/r/androiddev/comments/p5wi20/can_i_post_an_app_on_google_play_that_is_very/)
+- [Android 11 (API level 30) for new app updates?](https://www.reddit.com/r/androiddev/comments/p6xqma/android_11_api_level_30_for_new_app_updates/)
+- [Android Studio - Arctic Fox | 2020.3.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/p6whlj/android_studio_arctic_fox_202031_patch_1_now/)
+- [Is there an alternative for Android studio for low end pc?](https://www.reddit.com/r/androiddev/comments/p6vom8/is_there_an_alternative_for_android_studio_for/)
+- [What to message LinkedIn connections](https://www.reddit.com/r/androiddev/comments/p6vg6y/what_to_message_linkedin_connections/)
+- [Learning Jetpack Compose](https://www.reddit.com/r/androiddev/comments/p6t9op/learning_jetpack_compose/)
+- [I want to add user friendly preset sharing in my app, what is best approach?](https://www.reddit.com/r/androiddev/comments/p6smtz/i_want_to_add_user_friendly_preset_sharing_in_my/)
+- [Which kind of architecture does the Android Studio template uses?](https://www.reddit.com/r/androiddev/comments/p6rzts/which_kind_of_architecture_does_the_android/)
+- [Measuring Render Performance with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/p6rl1u/measuring_render_performance_with_jetpack_compose/)
+- [Dagger 2 complete tutorial with detailed learning path for beginners! I appreciate any feedback, let me know what you think!](https://www.reddit.com/r/androiddev/comments/p6qu08/dagger_2_complete_tutorial_with_detailed_learning/)
+- [Should you bother with alternatives to the Play Store?](https://www.reddit.com/r/androiddev/comments/p6onxh/should_you_bother_with_alternatives_to_the_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
