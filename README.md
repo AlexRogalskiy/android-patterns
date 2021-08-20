@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android 11 (API level 30) for new app updates?](https://www.reddit.com/r/androiddev/comments/p6xqma/android_11_api_level_30_for_new_app_updates/)
-- [Android Studio - Arctic Fox | 2020.3.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/p6whlj/android_studio_arctic_fox_202031_patch_1_now/)
-- [Is there an alternative for Android studio for low end pc?](https://www.reddit.com/r/androiddev/comments/p6vom8/is_there_an_alternative_for_android_studio_for/)
-- [What to message LinkedIn connections](https://www.reddit.com/r/androiddev/comments/p6vg6y/what_to_message_linkedin_connections/)
-- [Learning Jetpack Compose](https://www.reddit.com/r/androiddev/comments/p6t9op/learning_jetpack_compose/)
-- [I want to add user friendly preset sharing in my app, what is best approach?](https://www.reddit.com/r/androiddev/comments/p6smtz/i_want_to_add_user_friendly_preset_sharing_in_my/)
-- [Which kind of architecture does the Android Studio template uses?](https://www.reddit.com/r/androiddev/comments/p6rzts/which_kind_of_architecture_does_the_android/)
-- [Measuring Render Performance with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/p6rl1u/measuring_render_performance_with_jetpack_compose/)
-- [Dagger 2 complete tutorial with detailed learning path for beginners! I appreciate any feedback, let me know what you think!](https://www.reddit.com/r/androiddev/comments/p6qu08/dagger_2_complete_tutorial_with_detailed_learning/)
-- [Should you bother with alternatives to the Play Store?](https://www.reddit.com/r/androiddev/comments/p6onxh/should_you_bother_with_alternatives_to_the_play/)
+- [Is the Pixel 5a going to be added to the Android Beta Program?](https://www.reddit.com/r/androiddev/comments/p7q3n7/is_the_pixel_5a_going_to_be_added_to_the_android/)
+- [Android development online resource suggestions for final year project](https://www.reddit.com/r/androiddev/comments/p7q1et/android_development_online_resource_suggestions/)
+- [Replacing Firebase Test Lab with Unified Test Platform](https://www.reddit.com/r/androiddev/comments/p7olpi/replacing_firebase_test_lab_with_unified_test/)
+- [Does LazyColumn in Compose really replace Recyclerview or am I missing something?](https://www.reddit.com/r/androiddev/comments/p7l8xy/does_lazycolumn_in_compose_really_replace/)
+- [Who wants layout_marginTopAndBottom and layout_marginStartAndEnd?](https://www.reddit.com/r/androiddev/comments/p7il3c/who_wants_layout_margintopandbottom_and_layout/)
+- [Question about tool for apps](https://www.reddit.com/r/androiddev/comments/p7feic/question_about_tool_for_apps/)
+- [Android in-app purchases: how to process purchases with the Google Play Billing Library](https://www.reddit.com/r/androiddev/comments/p7f6kv/android_inapp_purchases_how_to_process_purchases/)
+- [Up to date summary of official android development resources for different Android Topics](https://www.reddit.com/r/androiddev/comments/p7f53n/up_to_date_summary_of_official_android/)
+- [freeRASP 1.0 is out! Want to be the first one to try out new free App Shielding library?](https://www.reddit.com/r/androiddev/comments/p7f32v/freerasp_10_is_out_want_to_be_the_first_one_to/)
+- [Buttons shown in preview are incorrect](https://www.reddit.com/r/androiddev/comments/p7dhoc/buttons_shown_in_preview_are_incorrect/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
