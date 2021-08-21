@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is the Pixel 5a going to be added to the Android Beta Program?](https://www.reddit.com/r/androiddev/comments/p7q3n7/is_the_pixel_5a_going_to_be_added_to_the_android/)
-- [Android development online resource suggestions for final year project](https://www.reddit.com/r/androiddev/comments/p7q1et/android_development_online_resource_suggestions/)
-- [Replacing Firebase Test Lab with Unified Test Platform](https://www.reddit.com/r/androiddev/comments/p7olpi/replacing_firebase_test_lab_with_unified_test/)
-- [Does LazyColumn in Compose really replace Recyclerview or am I missing something?](https://www.reddit.com/r/androiddev/comments/p7l8xy/does_lazycolumn_in_compose_really_replace/)
-- [Who wants layout_marginTopAndBottom and layout_marginStartAndEnd?](https://www.reddit.com/r/androiddev/comments/p7il3c/who_wants_layout_margintopandbottom_and_layout/)
-- [Question about tool for apps](https://www.reddit.com/r/androiddev/comments/p7feic/question_about_tool_for_apps/)
-- [Android in-app purchases: how to process purchases with the Google Play Billing Library](https://www.reddit.com/r/androiddev/comments/p7f6kv/android_inapp_purchases_how_to_process_purchases/)
-- [Up to date summary of official android development resources for different Android Topics](https://www.reddit.com/r/androiddev/comments/p7f53n/up_to_date_summary_of_official_android/)
-- [freeRASP 1.0 is out! Want to be the first one to try out new free App Shielding library?](https://www.reddit.com/r/androiddev/comments/p7f32v/freerasp_10_is_out_want_to_be_the_first_one_to/)
-- [Buttons shown in preview are incorrect](https://www.reddit.com/r/androiddev/comments/p7dhoc/buttons_shown_in_preview_are_incorrect/)
+- [Getting GPLv2 compliance from UMIDIGI- in person, in Shenzhen😁](https://www.reddit.com/r/androiddev/comments/p8h3l2/getting_gplv2_compliance_from_umidigi_in_person/)
+- [It seems there is no way to use Android developer options with non-owner user accounts](https://www.reddit.com/r/androiddev/comments/p8goky/it_seems_there_is_no_way_to_use_android_developer/)
+- [Open source, unique & mega customisable seek bar!](https://www.reddit.com/r/androiddev/comments/p8czaz/open_source_unique_mega_customisable_seek_bar/)
+- [Question about a gaming app on resume?](https://www.reddit.com/r/androiddev/comments/p8chwi/question_about_a_gaming_app_on_resume/)
+- [Architecture Mapping](https://www.reddit.com/r/androiddev/comments/p88dlj/architecture_mapping/)
+- [Why Workflow?](https://www.reddit.com/r/androiddev/comments/p87v45/why_workflow/)
+- [Need some ideas](https://www.reddit.com/r/androiddev/comments/p868p9/need_some_ideas/)
+- [Video Playback in Browser vs Native App WebView](https://www.reddit.com/r/androiddev/comments/p85h0f/video_playback_in_browser_vs_native_app_webview/)
+- [App rejected due to not adhering to Families policy](https://www.reddit.com/r/androiddev/comments/p84yy1/app_rejected_due_to_not_adhering_to_families/)
+- [Improving the Play Store listing conversion rate](https://www.reddit.com/r/androiddev/comments/p83wbh/improving_the_play_store_listing_conversion_rate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
