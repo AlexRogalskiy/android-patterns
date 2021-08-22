@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Getting GPLv2 compliance from UMIDIGI- in person, in Shenzhen😁](https://www.reddit.com/r/androiddev/comments/p8h3l2/getting_gplv2_compliance_from_umidigi_in_person/)
-- [It seems there is no way to use Android developer options with non-owner user accounts](https://www.reddit.com/r/androiddev/comments/p8goky/it_seems_there_is_no_way_to_use_android_developer/)
-- [Open source, unique & mega customisable seek bar!](https://www.reddit.com/r/androiddev/comments/p8czaz/open_source_unique_mega_customisable_seek_bar/)
-- [Question about a gaming app on resume?](https://www.reddit.com/r/androiddev/comments/p8chwi/question_about_a_gaming_app_on_resume/)
-- [Architecture Mapping](https://www.reddit.com/r/androiddev/comments/p88dlj/architecture_mapping/)
-- [Why Workflow?](https://www.reddit.com/r/androiddev/comments/p87v45/why_workflow/)
-- [Need some ideas](https://www.reddit.com/r/androiddev/comments/p868p9/need_some_ideas/)
-- [Video Playback in Browser vs Native App WebView](https://www.reddit.com/r/androiddev/comments/p85h0f/video_playback_in_browser_vs_native_app_webview/)
-- [App rejected due to not adhering to Families policy](https://www.reddit.com/r/androiddev/comments/p84yy1/app_rejected_due_to_not_adhering_to_families/)
-- [Improving the Play Store listing conversion rate](https://www.reddit.com/r/androiddev/comments/p83wbh/improving_the_play_store_listing_conversion_rate/)
+- [Is it wise to download pre-built flutter template app, with a design that's already made, and left for to do is just the back end part?](https://www.reddit.com/r/androiddev/comments/p92x4a/is_it_wise_to_download_prebuilt_flutter_template/)
+- [Any declarative based libraries](https://www.reddit.com/r/androiddev/comments/p90m89/any_declarative_based_libraries/)
+- [Google Play Console analytics vs. 3rd party solutions](https://www.reddit.com/r/androiddev/comments/p8y9bc/google_play_console_analytics_vs_3rd_party/)
+- [Upgrading Android Studio often breaks my project in unpredictable ways, so I created a script to clear everything and start from scratch](https://www.reddit.com/r/androiddev/comments/p8wzp8/upgrading_android_studio_often_breaks_my_project/)
+- [Increasing organic downloads and the bain of ASO](https://www.reddit.com/r/androiddev/comments/p8u8ps/increasing_organic_downloads_and_the_bain_of_aso/)
+- [How do package disabler apps work, and is it possible to make my own to avoid having to use shady apps on the store?](https://www.reddit.com/r/androiddev/comments/p8s7lu/how_do_package_disabler_apps_work_and_is_it/)
+- [Looking for a 3D graphics framework for a mechanical engineering app](https://www.reddit.com/r/androiddev/comments/p8rmic/looking_for_a_3d_graphics_framework_for_a/)
+- [App removed due to "Disruptive Ads" policy](https://www.reddit.com/r/androiddev/comments/p8rlsc/app_removed_due_to_disruptive_ads_policy/)
+- [App Feedback Thread - August 21, 2021](https://www.reddit.com/r/androiddev/comments/p8r13p/app_feedback_thread_august_21_2021/)
+- [Measuring the impact of the app screenshots in Google Play and how it affects the overall downloads amount](https://www.reddit.com/r/androiddev/comments/p8p3eq/measuring_the_impact_of_the_app_screenshots_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
