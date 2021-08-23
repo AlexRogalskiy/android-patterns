@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it wise to download pre-built flutter template app, with a design that's already made, and left for to do is just the back end part?](https://www.reddit.com/r/androiddev/comments/p92x4a/is_it_wise_to_download_prebuilt_flutter_template/)
-- [Any declarative based libraries](https://www.reddit.com/r/androiddev/comments/p90m89/any_declarative_based_libraries/)
-- [Google Play Console analytics vs. 3rd party solutions](https://www.reddit.com/r/androiddev/comments/p8y9bc/google_play_console_analytics_vs_3rd_party/)
-- [Upgrading Android Studio often breaks my project in unpredictable ways, so I created a script to clear everything and start from scratch](https://www.reddit.com/r/androiddev/comments/p8wzp8/upgrading_android_studio_often_breaks_my_project/)
-- [Increasing organic downloads and the bain of ASO](https://www.reddit.com/r/androiddev/comments/p8u8ps/increasing_organic_downloads_and_the_bain_of_aso/)
-- [How do package disabler apps work, and is it possible to make my own to avoid having to use shady apps on the store?](https://www.reddit.com/r/androiddev/comments/p8s7lu/how_do_package_disabler_apps_work_and_is_it/)
-- [Looking for a 3D graphics framework for a mechanical engineering app](https://www.reddit.com/r/androiddev/comments/p8rmic/looking_for_a_3d_graphics_framework_for_a/)
-- [App removed due to "Disruptive Ads" policy](https://www.reddit.com/r/androiddev/comments/p8rlsc/app_removed_due_to_disruptive_ads_policy/)
-- [App Feedback Thread - August 21, 2021](https://www.reddit.com/r/androiddev/comments/p8r13p/app_feedback_thread_august_21_2021/)
-- [Measuring the impact of the app screenshots in Google Play and how it affects the overall downloads amount](https://www.reddit.com/r/androiddev/comments/p8p3eq/measuring_the_impact_of_the_app_screenshots_in/)
+- [I need help with AR library](https://www.reddit.com/r/androiddev/comments/p9jqlb/i_need_help_with_ar_library/)
+- [Will android native jobs market dwindle?](https://www.reddit.com/r/androiddev/comments/p9i3og/will_android_native_jobs_market_dwindle/)
+- [An alternative to OneSignal as push notifications service](https://www.reddit.com/r/androiddev/comments/p9hwgk/an_alternative_to_onesignal_as_push_notifications/)
+- [Nested RecyclerView](https://www.reddit.com/r/androiddev/comments/p9gmqi/nested_recyclerview/)
+- [Inputs validation in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/p9g3gg/inputs_validation_in_jetpack_compose/)
+- [Play Billing Errors in Trusted Web Activities](https://www.reddit.com/r/androiddev/comments/p9f6v1/play_billing_errors_in_trusted_web_activities/)
+- [An open-source project to put my skills to use](https://www.reddit.com/r/androiddev/comments/p9e1x4/an_opensource_project_to_put_my_skills_to_use/)
+- [A small movie project using Jetpack Compose, Hilt based on modern Android tech stacks.](https://www.reddit.com/r/androiddev/comments/p9dhrq/a_small_movie_project_using_jetpack_compose_hilt/)
+- [Google Billing requirement for a semi-physical product?](https://www.reddit.com/r/androiddev/comments/p9bk0i/google_billing_requirement_for_a_semiphysical/)
+- [WakeLock not turning on the screen](https://www.reddit.com/r/androiddev/comments/p9bbfu/wakelock_not_turning_on_the_screen/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
