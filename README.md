@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I need help with AR library](https://www.reddit.com/r/androiddev/comments/p9jqlb/i_need_help_with_ar_library/)
-- [Will android native jobs market dwindle?](https://www.reddit.com/r/androiddev/comments/p9i3og/will_android_native_jobs_market_dwindle/)
-- [An alternative to OneSignal as push notifications service](https://www.reddit.com/r/androiddev/comments/p9hwgk/an_alternative_to_onesignal_as_push_notifications/)
-- [Nested RecyclerView](https://www.reddit.com/r/androiddev/comments/p9gmqi/nested_recyclerview/)
-- [Inputs validation in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/p9g3gg/inputs_validation_in_jetpack_compose/)
-- [Play Billing Errors in Trusted Web Activities](https://www.reddit.com/r/androiddev/comments/p9f6v1/play_billing_errors_in_trusted_web_activities/)
-- [An open-source project to put my skills to use](https://www.reddit.com/r/androiddev/comments/p9e1x4/an_opensource_project_to_put_my_skills_to_use/)
-- [A small movie project using Jetpack Compose, Hilt based on modern Android tech stacks.](https://www.reddit.com/r/androiddev/comments/p9dhrq/a_small_movie_project_using_jetpack_compose_hilt/)
-- [Google Billing requirement for a semi-physical product?](https://www.reddit.com/r/androiddev/comments/p9bk0i/google_billing_requirement_for_a_semiphysical/)
-- [WakeLock not turning on the screen](https://www.reddit.com/r/androiddev/comments/p9bbfu/wakelock_not_turning_on_the_screen/)
+- [Interesting Project: LocalSTT](https://www.reddit.com/r/androiddev/comments/paa3z5/interesting_project_localstt/)
+- [Selling In-App Products on Android: Implementing Google Play Billing](https://www.reddit.com/r/androiddev/comments/pa9380/selling_inapp_products_on_android_implementing/)
+- [New Downloadable Fonts Not Working](https://www.reddit.com/r/androiddev/comments/pa8u1a/new_downloadable_fonts_not_working/)
+- [Android Studio Bumblebee Canary 9 available](https://www.reddit.com/r/androiddev/comments/pa7m5z/android_studio_bumblebee_canary_9_available/)
+- [help embedded bluetooth (4.0) hid app to android phone](https://www.reddit.com/r/androiddev/comments/pa6rnj/help_embedded_bluetooth_40_hid_app_to_android/)
+- [Android change while app language](https://www.reddit.com/r/androiddev/comments/pa4987/android_change_while_app_language/)
+- [Internationalization and third party libs](https://www.reddit.com/r/androiddev/comments/pa3cme/internationalization_and_third_party_libs/)
+- [WifiNetworkSuggestion config for enterprise network](https://www.reddit.com/r/androiddev/comments/pa32iv/wifinetworksuggestion_config_for_enterprise/)
+- [Kotlin property delegates for Datastore Preferences library](https://www.reddit.com/r/androiddev/comments/pa2ma8/kotlin_property_delegates_for_datastore/)
+- [What to do if an entire category is being ignored on Google's Issue tracker?](https://www.reddit.com/r/androiddev/comments/pa2351/what_to_do_if_an_entire_category_is_being_ignored/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
