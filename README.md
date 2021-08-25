@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Interesting Project: LocalSTT](https://www.reddit.com/r/androiddev/comments/paa3z5/interesting_project_localstt/)
-- [Selling In-App Products on Android: Implementing Google Play Billing](https://www.reddit.com/r/androiddev/comments/pa9380/selling_inapp_products_on_android_implementing/)
-- [New Downloadable Fonts Not Working](https://www.reddit.com/r/androiddev/comments/pa8u1a/new_downloadable_fonts_not_working/)
-- [Android Studio Bumblebee Canary 9 available](https://www.reddit.com/r/androiddev/comments/pa7m5z/android_studio_bumblebee_canary_9_available/)
-- [help embedded bluetooth (4.0) hid app to android phone](https://www.reddit.com/r/androiddev/comments/pa6rnj/help_embedded_bluetooth_40_hid_app_to_android/)
-- [Android change while app language](https://www.reddit.com/r/androiddev/comments/pa4987/android_change_while_app_language/)
-- [Internationalization and third party libs](https://www.reddit.com/r/androiddev/comments/pa3cme/internationalization_and_third_party_libs/)
-- [WifiNetworkSuggestion config for enterprise network](https://www.reddit.com/r/androiddev/comments/pa32iv/wifinetworksuggestion_config_for_enterprise/)
-- [Kotlin property delegates for Datastore Preferences library](https://www.reddit.com/r/androiddev/comments/pa2ma8/kotlin_property_delegates_for_datastore/)
-- [What to do if an entire category is being ignored on Google's Issue tracker?](https://www.reddit.com/r/androiddev/comments/pa2351/what_to_do_if_an_entire_category_is_being_ignored/)
+- [When does a Play Store experiment get completed?](https://www.reddit.com/r/androiddev/comments/pasfkz/when_does_a_play_store_experiment_get_completed/)
+- [API for getting all android permissions list](https://www.reddit.com/r/androiddev/comments/pasel2/api_for_getting_all_android_permissions_list/)
+- [External Storage differences](https://www.reddit.com/r/androiddev/comments/paptbm/external_storage_differences/)
+- [70+ Jetpack Compose Android App Projects for Beginners, Intermediate and Experienced Developers](https://www.reddit.com/r/androiddev/comments/papeie/70_jetpack_compose_android_app_projects_for/)
+- [WearOS Tile Feature Pray Times Application](https://www.reddit.com/r/androiddev/comments/papb7g/wearos_tile_feature_pray_times_application/)
+- [An upgraded version of an app made for #AndroidDevChallenge week #1 using all the latest Jetpack Libraries and more](https://www.reddit.com/r/androiddev/comments/papami/an_upgraded_version_of_an_app_made_for/)
+- [Kotlin’s Sealed Interfaces & The Hole in The Sealing](https://www.reddit.com/r/androiddev/comments/pap8b7/kotlins_sealed_interfaces_the_hole_in_the_sealing/)
+- [Weekly Questions Thread - August 24, 2021](https://www.reddit.com/r/androiddev/comments/pamu9t/weekly_questions_thread_august_24_2021/)
+- [Admob accounts and contacting the Admob support team](https://www.reddit.com/r/androiddev/comments/pam47c/admob_accounts_and_contacting_the_admob_support/)
+- [Bypassing in-app purchases: Android vs iOS](https://www.reddit.com/r/androiddev/comments/pam32j/bypassing_inapp_purchases_android_vs_ios/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
