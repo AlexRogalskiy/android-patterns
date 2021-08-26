@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When does a Play Store experiment get completed?](https://www.reddit.com/r/androiddev/comments/pasfkz/when_does_a_play_store_experiment_get_completed/)
-- [API for getting all android permissions list](https://www.reddit.com/r/androiddev/comments/pasel2/api_for_getting_all_android_permissions_list/)
-- [External Storage differences](https://www.reddit.com/r/androiddev/comments/paptbm/external_storage_differences/)
-- [70+ Jetpack Compose Android App Projects for Beginners, Intermediate and Experienced Developers](https://www.reddit.com/r/androiddev/comments/papeie/70_jetpack_compose_android_app_projects_for/)
-- [WearOS Tile Feature Pray Times Application](https://www.reddit.com/r/androiddev/comments/papb7g/wearos_tile_feature_pray_times_application/)
-- [An upgraded version of an app made for #AndroidDevChallenge week #1 using all the latest Jetpack Libraries and more](https://www.reddit.com/r/androiddev/comments/papami/an_upgraded_version_of_an_app_made_for/)
-- [Kotlin’s Sealed Interfaces & The Hole in The Sealing](https://www.reddit.com/r/androiddev/comments/pap8b7/kotlins_sealed_interfaces_the_hole_in_the_sealing/)
-- [Weekly Questions Thread - August 24, 2021](https://www.reddit.com/r/androiddev/comments/pamu9t/weekly_questions_thread_august_24_2021/)
-- [Admob accounts and contacting the Admob support team](https://www.reddit.com/r/androiddev/comments/pam47c/admob_accounts_and_contacting_the_admob_support/)
-- [Bypassing in-app purchases: Android vs iOS](https://www.reddit.com/r/androiddev/comments/pam32j/bypassing_inapp_purchases_android_vs_ios/)
+- [Question about the deadline of FAN bidding.](https://www.reddit.com/r/androiddev/comments/pbofov/question_about_the_deadline_of_fan_bidding/)
+- [organize layouts](https://www.reddit.com/r/androiddev/comments/pbmllh/organize_layouts/)
+- [Building Android Conversation Bubbles - Slack Engineering](https://www.reddit.com/r/androiddev/comments/pbkudn/building_android_conversation_bubbles_slack/)
+- [Gradle plugins and extensions: A primer for the bemused](https://www.reddit.com/r/androiddev/comments/pbibrx/gradle_plugins_and_extensions_a_primer_for_the/)
+- [A Jetpack Compose weather app with offline caching using Hilt and Google's MVVM architecture](https://www.reddit.com/r/androiddev/comments/pbi6pb/a_jetpack_compose_weather_app_with_offline/)
+- [Android Studio Bumblebee Canary 10 available](https://www.reddit.com/r/androiddev/comments/pbgliq/android_studio_bumblebee_canary_10_available/)
+- [Fullscreen vs Banner Ads](https://www.reddit.com/r/androiddev/comments/pbf8xb/fullscreen_vs_banner_ads/)
+- [simple wallpaper app ( still working to improve it )](https://www.reddit.com/r/androiddev/comments/pbdc5n/simple_wallpaper_app_still_working_to_improve_it/)
+- [Google Play says release is at 100%, update metrics tell a different story...](https://www.reddit.com/r/androiddev/comments/pbb62d/google_play_says_release_is_at_100_update_metrics/)
+- [Swear words in password app for Google Play Store](https://www.reddit.com/r/androiddev/comments/pbb03o/swear_words_in_password_app_for_google_play_store/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
