@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question about the deadline of FAN bidding.](https://www.reddit.com/r/androiddev/comments/pbofov/question_about_the_deadline_of_fan_bidding/)
+- [Help with Google Play Console](https://www.reddit.com/r/androiddev/comments/pc8t3v/help_with_google_play_console/)
+- [Acura Android Infotainment System](https://www.reddit.com/r/androiddev/comments/pc7br9/acura_android_infotainment_system/)
+- [Need one line no internet notifier for your awesome Android project? Try Oops! No Internet! library.](https://www.reddit.com/r/androiddev/comments/pc4s9g/need_one_line_no_internet_notifier_for_your/)
+- [Is it there any free translation api that doesn't use neural network and Internet connection, but just shows possible translations (many e.g. noun, adjective, etc.) for single given word?](https://www.reddit.com/r/androiddev/comments/pc4bgs/is_it_there_any_free_translation_api_that_doesnt/)
+- [Emulator for M1](https://www.reddit.com/r/androiddev/comments/pc17sf/emulator_for_m1/)
+- [Android VPN project not working when installed using Android App Bundle instead using APK](https://www.reddit.com/r/androiddev/comments/pbxoh1/android_vpn_project_not_working_when_installed/)
+- [2 app versions at a time: Free & Premium - how hard is to handle?](https://www.reddit.com/r/androiddev/comments/pbwe09/2_app_versions_at_a_time_free_premium_how_hard_is/)
+- [Is there something like Play Store Promo Codes for the Amazon Appstore?](https://www.reddit.com/r/androiddev/comments/pbw5pe/is_there_something_like_play_store_promo_codes/)
+- [My first app as a self-thaught developer at the age of 31. Please let me know what you think](https://www.reddit.com/r/androiddev/comments/pbulqe/my_first_app_as_a_selfthaught_developer_at_the/)
 - [organize layouts](https://www.reddit.com/r/androiddev/comments/pbmllh/organize_layouts/)
-- [Building Android Conversation Bubbles - Slack Engineering](https://www.reddit.com/r/androiddev/comments/pbkudn/building_android_conversation_bubbles_slack/)
-- [Gradle plugins and extensions: A primer for the bemused](https://www.reddit.com/r/androiddev/comments/pbibrx/gradle_plugins_and_extensions_a_primer_for_the/)
-- [A Jetpack Compose weather app with offline caching using Hilt and Google's MVVM architecture](https://www.reddit.com/r/androiddev/comments/pbi6pb/a_jetpack_compose_weather_app_with_offline/)
-- [Android Studio Bumblebee Canary 10 available](https://www.reddit.com/r/androiddev/comments/pbgliq/android_studio_bumblebee_canary_10_available/)
-- [Fullscreen vs Banner Ads](https://www.reddit.com/r/androiddev/comments/pbf8xb/fullscreen_vs_banner_ads/)
-- [simple wallpaper app ( still working to improve it )](https://www.reddit.com/r/androiddev/comments/pbdc5n/simple_wallpaper_app_still_working_to_improve_it/)
-- [Google Play says release is at 100%, update metrics tell a different story...](https://www.reddit.com/r/androiddev/comments/pbb62d/google_play_says_release_is_at_100_update_metrics/)
-- [Swear words in password app for Google Play Store](https://www.reddit.com/r/androiddev/comments/pbb03o/swear_words_in_password_app_for_google_play_store/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
