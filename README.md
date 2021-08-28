@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help with Google Play Console](https://www.reddit.com/r/androiddev/comments/pc8t3v/help_with_google_play_console/)
-- [Acura Android Infotainment System](https://www.reddit.com/r/androiddev/comments/pc7br9/acura_android_infotainment_system/)
-- [Need one line no internet notifier for your awesome Android project? Try Oops! No Internet! library.](https://www.reddit.com/r/androiddev/comments/pc4s9g/need_one_line_no_internet_notifier_for_your/)
-- [Is it there any free translation api that doesn't use neural network and Internet connection, but just shows possible translations (many e.g. noun, adjective, etc.) for single given word?](https://www.reddit.com/r/androiddev/comments/pc4bgs/is_it_there_any_free_translation_api_that_doesnt/)
-- [Emulator for M1](https://www.reddit.com/r/androiddev/comments/pc17sf/emulator_for_m1/)
-- [Android VPN project not working when installed using Android App Bundle instead using APK](https://www.reddit.com/r/androiddev/comments/pbxoh1/android_vpn_project_not_working_when_installed/)
-- [2 app versions at a time: Free & Premium - how hard is to handle?](https://www.reddit.com/r/androiddev/comments/pbwe09/2_app_versions_at_a_time_free_premium_how_hard_is/)
-- [Is there something like Play Store Promo Codes for the Amazon Appstore?](https://www.reddit.com/r/androiddev/comments/pbw5pe/is_there_something_like_play_store_promo_codes/)
-- [My first app as a self-thaught developer at the age of 31. Please let me know what you think](https://www.reddit.com/r/androiddev/comments/pbulqe/my_first_app_as_a_selfthaught_developer_at_the/)
-- [organize layouts](https://www.reddit.com/r/androiddev/comments/pbmllh/organize_layouts/)
+- [Android app rejects update for MANAGE_EXTERNAL_STORAGE permission request. Need help in getting approve.](https://www.reddit.com/r/androiddev/comments/pcybc1/android_app_rejects_update_for_manage_external/)
+- [How to access external non media files on Android TV 11?](https://www.reddit.com/r/androiddev/comments/pcuca0/how_to_access_external_non_media_files_on_android/)
+- [How to correctly measure the App Startup time on Android](https://www.reddit.com/r/androiddev/comments/pcrlcb/how_to_correctly_measure_the_app_startup_time_on/)
+- [I wrote a free Jetpack Compose library. It shows Snackbar-style messages with less boilerplate code and more customizability options.](https://www.reddit.com/r/androiddev/comments/pcqi6b/i_wrote_a_free_jetpack_compose_library_it_shows/)
+- [Hey! Update on the Lottie animation editor I've been working on to edit and export Lottie animations (supported by Android) without After Effects. Here's a vid on collaborating and updating exported animations in your live app straight from the editor easily! Feel free to sign up on lottielab.io](https://www.reddit.com/r/androiddev/comments/pcos7z/hey_update_on_the_lottie_animation_editor_ive/)
+- [Finally finished my first Jetpack Compose/Native Android app!](https://www.reddit.com/r/androiddev/comments/pcom89/finally_finished_my_first_jetpack_composenative/)
+- [Google Admob is garbage, rubbish,](https://www.reddit.com/r/androiddev/comments/pcodfa/google_admob_is_garbage_rubbish/)
+- [AppyGen alternatives that let you use MoPub?](https://www.reddit.com/r/androiddev/comments/pcn8vu/appygen_alternatives_that_let_you_use_mopub/)
+- [Cross-Platform App Development Tools: What do you use?](https://www.reddit.com/r/androiddev/comments/pclqdc/crossplatform_app_development_tools_what_do_you/)
+- [Anyone using both AIDE and android studio. Is it possible to pull the GitHub of android studio into AIDE and vice versa. Any other way to do small changes in mobile app using my mobile instead of opening the whole laptop starting android studio and all](https://www.reddit.com/r/androiddev/comments/pcjq0h/anyone_using_both_aide_and_android_studio_is_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
