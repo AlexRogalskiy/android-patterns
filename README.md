@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android app rejects update for MANAGE_EXTERNAL_STORAGE permission request. Need help in getting approve.](https://www.reddit.com/r/androiddev/comments/pcybc1/android_app_rejects_update_for_manage_external/)
-- [How to access external non media files on Android TV 11?](https://www.reddit.com/r/androiddev/comments/pcuca0/how_to_access_external_non_media_files_on_android/)
-- [How to correctly measure the App Startup time on Android](https://www.reddit.com/r/androiddev/comments/pcrlcb/how_to_correctly_measure_the_app_startup_time_on/)
-- [I wrote a free Jetpack Compose library. It shows Snackbar-style messages with less boilerplate code and more customizability options.](https://www.reddit.com/r/androiddev/comments/pcqi6b/i_wrote_a_free_jetpack_compose_library_it_shows/)
-- [Hey! Update on the Lottie animation editor I've been working on to edit and export Lottie animations (supported by Android) without After Effects. Here's a vid on collaborating and updating exported animations in your live app straight from the editor easily! Feel free to sign up on lottielab.io](https://www.reddit.com/r/androiddev/comments/pcos7z/hey_update_on_the_lottie_animation_editor_ive/)
-- [Finally finished my first Jetpack Compose/Native Android app!](https://www.reddit.com/r/androiddev/comments/pcom89/finally_finished_my_first_jetpack_composenative/)
-- [Google Admob is garbage, rubbish,](https://www.reddit.com/r/androiddev/comments/pcodfa/google_admob_is_garbage_rubbish/)
-- [AppyGen alternatives that let you use MoPub?](https://www.reddit.com/r/androiddev/comments/pcn8vu/appygen_alternatives_that_let_you_use_mopub/)
-- [Cross-Platform App Development Tools: What do you use?](https://www.reddit.com/r/androiddev/comments/pclqdc/crossplatform_app_development_tools_what_do_you/)
-- [Anyone using both AIDE and android studio. Is it possible to pull the GitHub of android studio into AIDE and vice versa. Any other way to do small changes in mobile app using my mobile instead of opening the whole laptop starting android studio and all](https://www.reddit.com/r/androiddev/comments/pcjq0h/anyone_using_both_aide_and_android_studio_is_it/)
+- [I made a flutter app for Anime episodes and news updates. (Flutter)](https://www.reddit.com/r/androiddev/comments/pdllgc/i_made_a_flutter_app_for_anime_episodes_and_news/)
+- [Action button best practices? FABs and/or buttons?](https://www.reddit.com/r/androiddev/comments/pdj9bu/action_button_best_practices_fabs_andor_buttons/)
+- [Design to Dev - Font Size/scaling Issue](https://www.reddit.com/r/androiddev/comments/pdg86s/design_to_dev_font_sizescaling_issue/)
+- [Our user-generated football (social network where users publish their own content has been suspended and removed from Google Play due to alleged copyright infringement](https://www.reddit.com/r/androiddev/comments/pdex08/our_usergenerated_football_social_network_where/)
+- [How do you usually perform mocking for instrument unit test?](https://www.reddit.com/r/androiddev/comments/pd9v4m/how_do_you_usually_perform_mocking_for_instrument/)
+- [Android Design Patterns : Factory Method](https://www.reddit.com/r/androiddev/comments/pd9fz9/android_design_patterns_factory_method/)
+- [App Feedback Thread - August 28, 2021](https://www.reddit.com/r/androiddev/comments/pd9cfb/app_feedback_thread_august_28_2021/)
+- [Jetpack Compose : "remember" composable seems useless because it doesn't retain state during activity recreation(for example during configuration change).](https://www.reddit.com/r/androiddev/comments/pd936c/jetpack_compose_remember_composable_seems_useless/)
+- [What are the best ads for marketing apps/games?](https://www.reddit.com/r/androiddev/comments/pd80bv/what_are_the_best_ads_for_marketing_appsgames/)
+- [Developing Android apps with api.](https://www.reddit.com/r/androiddev/comments/pd6cbh/developing_android_apps_with_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
