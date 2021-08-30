@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Alternative Ad networks to Admob (CPM/CPC)](https://www.reddit.com/r/androiddev/comments/pe2b9w/alternative_ad_networks_to_admob_cpmcpc/)
+- [Databind lists of radio buttons and checkboxes with the library "bindable-radiobuttons" just published!](https://www.reddit.com/r/androiddev/comments/pdyp3z/databind_lists_of_radio_buttons_and_checkboxes/)
+- [how to handle the scenario where the versions of Dependencies/MinSDK/CompileSDK/Kotlin Version/ Java Versions /.. etc OF A LIBRARY does not match with the project?](https://www.reddit.com/r/androiddev/comments/pdwod6/how_to_handle_the_scenario_where_the_versions_of/)
+- [What do you use except SingleLiveEvent for one time actions in MVI/MVVM?](https://www.reddit.com/r/androiddev/comments/pdtin2/what_do_you_use_except_singleliveevent_for_one/)
 - [I made a flutter app for Anime episodes and news updates. (Flutter)](https://www.reddit.com/r/androiddev/comments/pdllgc/i_made_a_flutter_app_for_anime_episodes_and_news/)
 - [Action button best practices? FABs and/or buttons?](https://www.reddit.com/r/androiddev/comments/pdj9bu/action_button_best_practices_fabs_andor_buttons/)
 - [Design to Dev - Font Size/scaling Issue](https://www.reddit.com/r/androiddev/comments/pdg86s/design_to_dev_font_sizescaling_issue/)
 - [Our user-generated football (social network where users publish their own content has been suspended and removed from Google Play due to alleged copyright infringement](https://www.reddit.com/r/androiddev/comments/pdex08/our_usergenerated_football_social_network_where/)
 - [How do you usually perform mocking for instrument unit test?](https://www.reddit.com/r/androiddev/comments/pd9v4m/how_do_you_usually_perform_mocking_for_instrument/)
-- [Android Design Patterns : Factory Method](https://www.reddit.com/r/androiddev/comments/pd9fz9/android_design_patterns_factory_method/)
 - [App Feedback Thread - August 28, 2021](https://www.reddit.com/r/androiddev/comments/pd9cfb/app_feedback_thread_august_28_2021/)
-- [Jetpack Compose : "remember" composable seems useless because it doesn't retain state during activity recreation(for example during configuration change).](https://www.reddit.com/r/androiddev/comments/pd936c/jetpack_compose_remember_composable_seems_useless/)
-- [What are the best ads for marketing apps/games?](https://www.reddit.com/r/androiddev/comments/pd80bv/what_are_the_best_ads_for_marketing_appsgames/)
-- [Developing Android apps with api.](https://www.reddit.com/r/androiddev/comments/pd6cbh/developing_android_apps_with_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
