@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Referral Tracking for Google Play Store](https://www.reddit.com/r/androiddev/comments/per6pd/referral_tracking_for_google_play_store/)
-- [Android Drag and Drop Tutorial: Moving Views and Data](https://www.reddit.com/r/androiddev/comments/peqq1p/android_drag_and_drop_tutorial_moving_views_and/)
-- [Android Apps on Windows 11](https://www.reddit.com/r/androiddev/comments/pept2v/android_apps_on_windows_11/)
-- [MyFitnessPal Question: how do they get nutritional data??](https://www.reddit.com/r/androiddev/comments/peo3tj/myfitnesspal_question_how_do_they_get_nutritional/)
-- [Jetpack Compose navigation architecture with ViewModels](https://www.reddit.com/r/androiddev/comments/pelh3q/jetpack_compose_navigation_architecture_with/)
-- [Kuberam: Jetpack Compose Project using MVVM pattern](https://www.reddit.com/r/androiddev/comments/pekc0a/kuberam_jetpack_compose_project_using_mvvm_pattern/)
-- [Android in-app purchases tutorial: how to retrieve active purchases and process a subscription change](https://www.reddit.com/r/androiddev/comments/pei5v1/android_inapp_purchases_tutorial_how_to_retrieve/)
-- [Weekly Who's Hiring Thread - August 30, 2021](https://www.reddit.com/r/androiddev/comments/pehlmy/weekly_whos_hiring_thread_august_30_2021/)
-- [How To Make An Android Runner Tracking App?](https://www.reddit.com/r/androiddev/comments/pegbq8/how_to_make_an_android_runner_tracking_app/)
-- [Daily active users(DAU) displays "Data Unavailable" on play console.](https://www.reddit.com/r/androiddev/comments/pefa1p/daily_active_usersdau_displays_data_unavailable/)
+- [Material Components 1.5.0-alpha03 · Early access preview of Material 3](https://www.reddit.com/r/androiddev/comments/pfhr6y/material_components_150alpha03_early_access/)
+- [App Takedown – Trying to resolve inadequate prominent disclosure](https://www.reddit.com/r/androiddev/comments/pfcf4y/app_takedown_trying_to_resolve_inadequate/)
+- [What's a reliable method to wake up the device from sleep and activate the display?](https://www.reddit.com/r/androiddev/comments/pfcd2l/whats_a_reliable_method_to_wake_up_the_device/)
+- [Anyone received mails like these after publishing your app/game on Google Play Store or any other market?](https://www.reddit.com/r/androiddev/comments/pfcd0x/anyone_received_mails_like_these_after_publishing/)
+- [Unique segmented arc view with rich customisation options!](https://www.reddit.com/r/androiddev/comments/pfbiru/unique_segmented_arc_view_with_rich_customisation/)
+- [Getting started with android developmenz](https://www.reddit.com/r/androiddev/comments/pf9mh8/getting_started_with_android_developmenz/)
+- [Try the New Kotlin/Native Memory Manager Development Preview](https://www.reddit.com/r/androiddev/comments/pf8juy/try_the_new_kotlinnative_memory_manager/)
+- [Performance and Velocity: How Duolingo Adopted MVVM on Android](https://www.reddit.com/r/androiddev/comments/pf72pk/performance_and_velocity_how_duolingo_adopted/)
+- [Software shenanigans](https://www.reddit.com/r/androiddev/comments/pf6biq/software_shenanigans/)
+- [What events are fired when someone uses the camera app to take a photo?](https://www.reddit.com/r/androiddev/comments/pf660d/what_events_are_fired_when_someone_uses_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
