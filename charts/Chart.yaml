@@ -4,12 +4,12 @@ appVersion: "1.0.1"
 created: "2021-09-01T06:23:41.21262323Z"
 name: backend-android-patterns
 description: |
-  Java Design Patterns documentation
+  Android Design Patterns documentation
 home: https://alexander-rogalsky.gitbook.io/android-patterns
 icon: https://d1j8pt39hxlh3d.cloudfront.net/emoji/emojione/5.0/png/unicode/32/1f4d2.png
 type: application
 keywords:
-  - java
+  - android
   - design patterns
   - documentation
 maintainers:
