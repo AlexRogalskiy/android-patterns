@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Material Components 1.5.0-alpha03 · Early access preview of Material 3](https://www.reddit.com/r/androiddev/comments/pfhr6y/material_components_150alpha03_early_access/)
-- [App Takedown – Trying to resolve inadequate prominent disclosure](https://www.reddit.com/r/androiddev/comments/pfcf4y/app_takedown_trying_to_resolve_inadequate/)
-- [What's a reliable method to wake up the device from sleep and activate the display?](https://www.reddit.com/r/androiddev/comments/pfcd2l/whats_a_reliable_method_to_wake_up_the_device/)
-- [Anyone received mails like these after publishing your app/game on Google Play Store or any other market?](https://www.reddit.com/r/androiddev/comments/pfcd0x/anyone_received_mails_like_these_after_publishing/)
-- [Unique segmented arc view with rich customisation options!](https://www.reddit.com/r/androiddev/comments/pfbiru/unique_segmented_arc_view_with_rich_customisation/)
-- [Getting started with android developmenz](https://www.reddit.com/r/androiddev/comments/pf9mh8/getting_started_with_android_developmenz/)
-- [Try the New Kotlin/Native Memory Manager Development Preview](https://www.reddit.com/r/androiddev/comments/pf8juy/try_the_new_kotlinnative_memory_manager/)
-- [Performance and Velocity: How Duolingo Adopted MVVM on Android](https://www.reddit.com/r/androiddev/comments/pf72pk/performance_and_velocity_how_duolingo_adopted/)
-- [Software shenanigans](https://www.reddit.com/r/androiddev/comments/pf6biq/software_shenanigans/)
-- [What events are fired when someone uses the camera app to take a photo?](https://www.reddit.com/r/androiddev/comments/pf660d/what_events_are_fired_when_someone_uses_the/)
+- [Help with Android Emulators](https://www.reddit.com/r/androiddev/comments/pg4q0p/help_with_android_emulators/)
+- [Starting with Compose. Things I'm not comfortable with so far.](https://www.reddit.com/r/androiddev/comments/pg2lux/starting_with_compose_things_im_not_comfortable/)
+- [A Bit of Gradle Housekeeping - zsmb.co](https://www.reddit.com/r/androiddev/comments/pg2itm/a_bit_of_gradle_housekeeping_zsmbco/)
+- [37 days since Jetpack compose was released, what is your learning state?](https://www.reddit.com/r/androiddev/comments/pg1hlm/37_days_since_jetpack_compose_was_released_what/)
+- [Android Studio - Arctic Fox | 2020.3.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/pg0j11/android_studio_arctic_fox_202031_patch_2_now/)
+- [The Shift Left in Mobile Engineering](https://www.reddit.com/r/androiddev/comments/pg06g3/the_shift_left_in_mobile_engineering/)
+- [Is there away to use Play Store subscription as reward?](https://www.reddit.com/r/androiddev/comments/pfxsaa/is_there_away_to_use_play_store_subscription_as/)
+- [Is ban of Google dev account after 3 app suspensions Truth or Myth?](https://www.reddit.com/r/androiddev/comments/pfx28b/is_ban_of_google_dev_account_after_3_app/)
+- [Nested RecyclerView Vs. Two different view types performance question.](https://www.reddit.com/r/androiddev/comments/pfwo4r/nested_recyclerview_vs_two_different_view_types/)
+- [Can't download Android Studio installer from official site.](https://www.reddit.com/r/androiddev/comments/pfv3rb/cant_download_android_studio_installer_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
