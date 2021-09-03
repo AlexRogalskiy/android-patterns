@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help with Android Emulators](https://www.reddit.com/r/androiddev/comments/pg4q0p/help_with_android_emulators/)
-- [Starting with Compose. Things I'm not comfortable with so far.](https://www.reddit.com/r/androiddev/comments/pg2lux/starting_with_compose_things_im_not_comfortable/)
-- [A Bit of Gradle Housekeeping - zsmb.co](https://www.reddit.com/r/androiddev/comments/pg2itm/a_bit_of_gradle_housekeeping_zsmbco/)
-- [37 days since Jetpack compose was released, what is your learning state?](https://www.reddit.com/r/androiddev/comments/pg1hlm/37_days_since_jetpack_compose_was_released_what/)
-- [Android Studio - Arctic Fox | 2020.3.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/pg0j11/android_studio_arctic_fox_202031_patch_2_now/)
-- [The Shift Left in Mobile Engineering](https://www.reddit.com/r/androiddev/comments/pg06g3/the_shift_left_in_mobile_engineering/)
-- [Is there away to use Play Store subscription as reward?](https://www.reddit.com/r/androiddev/comments/pfxsaa/is_there_away_to_use_play_store_subscription_as/)
-- [Is ban of Google dev account after 3 app suspensions Truth or Myth?](https://www.reddit.com/r/androiddev/comments/pfx28b/is_ban_of_google_dev_account_after_3_app/)
-- [Nested RecyclerView Vs. Two different view types performance question.](https://www.reddit.com/r/androiddev/comments/pfwo4r/nested_recyclerview_vs_two_different_view_types/)
-- [Can't download Android Studio installer from official site.](https://www.reddit.com/r/androiddev/comments/pfv3rb/cant_download_android_studio_installer_from/)
+- [Should I pursue this freelancing opportunity?](https://www.reddit.com/r/androiddev/comments/pgv36a/should_i_pursue_this_freelancing_opportunity/)
+- [Any custom roms for Galaxy Note 20 Ultra U.S?](https://www.reddit.com/r/androiddev/comments/pgu8yd/any_custom_roms_for_galaxy_note_20_ultra_us/)
+- [New android dev setting up a Google Play Console account – What do I use for "proof of organization"?](https://www.reddit.com/r/androiddev/comments/pgrru3/new_android_dev_setting_up_a_google_play_console/)
+- [Camera SDK Recommendations](https://www.reddit.com/r/androiddev/comments/pgp39z/camera_sdk_recommendations/)
+- [Pulling my hair out with WebView problem.](https://www.reddit.com/r/androiddev/comments/pgoivz/pulling_my_hair_out_with_webview_problem/)
+- [Appwrite introduces Realtime API to its Open Source Firebase Alternative](https://www.reddit.com/r/androiddev/comments/pglcb9/appwrite_introduces_realtime_api_to_its_open/)
+- [How closely to tie ViewModel state to the view?](https://www.reddit.com/r/androiddev/comments/pgjqdg/how_closely_to_tie_viewmodel_state_to_the_view/)
+- [What is the "minimum viable" set of tools to get from point A (develop the app) to point B (publish the app in Google Play)?](https://www.reddit.com/r/androiddev/comments/pgjm6q/what_is_the_minimum_viable_set_of_tools_to_get/)
+- [Delaying camera footage - best approach?](https://www.reddit.com/r/androiddev/comments/pgib6l/delaying_camera_footage_best_approach/)
+- [Do you use buildSrc, Version Catalogs, or just the "conventional" method to manage dependencies?](https://www.reddit.com/r/androiddev/comments/pgi630/do_you_use_buildsrc_version_catalogs_or_just_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
