@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Should I pursue this freelancing opportunity?](https://www.reddit.com/r/androiddev/comments/pgv36a/should_i_pursue_this_freelancing_opportunity/)
-- [Any custom roms for Galaxy Note 20 Ultra U.S?](https://www.reddit.com/r/androiddev/comments/pgu8yd/any_custom_roms_for_galaxy_note_20_ultra_us/)
-- [New android dev setting up a Google Play Console account – What do I use for "proof of organization"?](https://www.reddit.com/r/androiddev/comments/pgrru3/new_android_dev_setting_up_a_google_play_console/)
-- [Camera SDK Recommendations](https://www.reddit.com/r/androiddev/comments/pgp39z/camera_sdk_recommendations/)
-- [Pulling my hair out with WebView problem.](https://www.reddit.com/r/androiddev/comments/pgoivz/pulling_my_hair_out_with_webview_problem/)
-- [Appwrite introduces Realtime API to its Open Source Firebase Alternative](https://www.reddit.com/r/androiddev/comments/pglcb9/appwrite_introduces_realtime_api_to_its_open/)
-- [How closely to tie ViewModel state to the view?](https://www.reddit.com/r/androiddev/comments/pgjqdg/how_closely_to_tie_viewmodel_state_to_the_view/)
-- [What is the "minimum viable" set of tools to get from point A (develop the app) to point B (publish the app in Google Play)?](https://www.reddit.com/r/androiddev/comments/pgjm6q/what_is_the_minimum_viable_set_of_tools_to_get/)
-- [Delaying camera footage - best approach?](https://www.reddit.com/r/androiddev/comments/pgib6l/delaying_camera_footage_best_approach/)
-- [Do you use buildSrc, Version Catalogs, or just the "conventional" method to manage dependencies?](https://www.reddit.com/r/androiddev/comments/pgi630/do_you_use_buildsrc_version_catalogs_or_just_the/)
+- [What specs should I have to make Android apps?](https://www.reddit.com/r/androiddev/comments/phhblj/what_specs_should_i_have_to_make_android_apps/)
+- [System bit upgrade](https://www.reddit.com/r/androiddev/comments/phgl78/system_bit_upgrade/)
+- [Is it legal to use other apps and website tools in my app?](https://www.reddit.com/r/androiddev/comments/phg5pj/is_it_legal_to_use_other_apps_and_website_tools/)
+- [Open library of Composables like pub.dev is for Flutter](https://www.reddit.com/r/androiddev/comments/phdegh/open_library_of_composables_like_pubdev_is_for/)
+- [LiveData vs Kotlin Flows](https://www.reddit.com/r/androiddev/comments/ph9iqs/livedata_vs_kotlin_flows/)
+- [Android Studio Bumblebee Canary 11 available](https://www.reddit.com/r/androiddev/comments/ph977b/android_studio_bumblebee_canary_11_available/)
+- [Why did adding this weird line of code make my code for widgets start working as expected? What does it do?](https://www.reddit.com/r/androiddev/comments/ph92hr/why_did_adding_this_weird_line_of_code_make_my/)
+- [Android - Starting custom gradle task after build with Gradle 7](https://www.reddit.com/r/androiddev/comments/ph5x8j/android_starting_custom_gradle_task_after_build/)
+- [Suspended App in Play Store](https://www.reddit.com/r/androiddev/comments/ph20vz/suspended_app_in_play_store/)
+- [QR scanner library](https://www.reddit.com/r/androiddev/comments/pgyb21/qr_scanner_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
