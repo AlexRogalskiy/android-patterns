@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What specs should I have to make Android apps?](https://www.reddit.com/r/androiddev/comments/phhblj/what_specs_should_i_have_to_make_android_apps/)
-- [System bit upgrade](https://www.reddit.com/r/androiddev/comments/phgl78/system_bit_upgrade/)
-- [Is it legal to use other apps and website tools in my app?](https://www.reddit.com/r/androiddev/comments/phg5pj/is_it_legal_to_use_other_apps_and_website_tools/)
-- [Open library of Composables like pub.dev is for Flutter](https://www.reddit.com/r/androiddev/comments/phdegh/open_library_of_composables_like_pubdev_is_for/)
-- [LiveData vs Kotlin Flows](https://www.reddit.com/r/androiddev/comments/ph9iqs/livedata_vs_kotlin_flows/)
-- [Android Studio Bumblebee Canary 11 available](https://www.reddit.com/r/androiddev/comments/ph977b/android_studio_bumblebee_canary_11_available/)
-- [Why did adding this weird line of code make my code for widgets start working as expected? What does it do?](https://www.reddit.com/r/androiddev/comments/ph92hr/why_did_adding_this_weird_line_of_code_make_my/)
-- [Android - Starting custom gradle task after build with Gradle 7](https://www.reddit.com/r/androiddev/comments/ph5x8j/android_starting_custom_gradle_task_after_build/)
-- [Suspended App in Play Store](https://www.reddit.com/r/androiddev/comments/ph20vz/suspended_app_in_play_store/)
-- [QR scanner library](https://www.reddit.com/r/androiddev/comments/pgyb21/qr_scanner_library/)
+- [I need resources....](https://www.reddit.com/r/androiddev/comments/phyjd5/i_need_resources/)
+- [Annoying that the icons of Studio and the emulator are difficult to discern.](https://www.reddit.com/r/androiddev/comments/phx16t/annoying_that_the_icons_of_studio_and_the/)
+- [Where to go from here](https://www.reddit.com/r/androiddev/comments/phu9x4/where_to_go_from_here/)
+- [App Feedback Thread - September 04, 2021](https://www.reddit.com/r/androiddev/comments/phr4g1/app_feedback_thread_september_04_2021/)
+- [Is the Input NDK API the worst API ever conceived?](https://www.reddit.com/r/androiddev/comments/phpyum/is_the_input_ndk_api_the_worst_api_ever_conceived/)
+- [I want to build an app which uses Firebase. I have previously built an app for a school project in Java and found it very convoluted and needlessly complicated, so I am thinking about learning Flutter - is this a good idea (if I already know basic android SDK)?](https://www.reddit.com/r/androiddev/comments/phpk6q/i_want_to_build_an_app_which_uses_firebase_i_have/)
+- [What are the core differences between Jetpack Compose and Flutter in terms of UI rendering?](https://www.reddit.com/r/androiddev/comments/pho82v/what_are_the_core_differences_between_jetpack/)
+- [Google Play team rejected the application due to SMS/Call permission](https://www.reddit.com/r/androiddev/comments/phnlwe/google_play_team_rejected_the_application_due_to/)
+- [Mocking API for efficient development with mockoon](https://www.reddit.com/r/androiddev/comments/phk5kg/mocking_api_for_efficient_development_with_mockoon/)
+- [Android equivalent to iOS's SceneKit for PBR?](https://www.reddit.com/r/androiddev/comments/phjmzb/android_equivalent_to_ioss_scenekit_for_pbr/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
