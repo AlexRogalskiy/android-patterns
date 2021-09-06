@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I need resources....](https://www.reddit.com/r/androiddev/comments/phyjd5/i_need_resources/)
+- [When using compose what do you prefer to setup navigation? Compose navigation or traditional navigation component ?](https://www.reddit.com/r/androiddev/comments/pimdb0/when_using_compose_what_do_you_prefer_to_setup/)
+- [How many of you guys look or develop apps for wear os platform ?](https://www.reddit.com/r/androiddev/comments/pilmt1/how_many_of_you_guys_look_or_develop_apps_for/)
+- [How to have a simple queue/list/pipeline design to execute nested list of background tasks/works in Kotlin/coroutines?](https://www.reddit.com/r/androiddev/comments/pik5w5/how_to_have_a_simple_queuelistpipeline_design_to/)
+- [How does a launcher decide if it is required to start an activity or resuming the previous task?](https://www.reddit.com/r/androiddev/comments/pihd3p/how_does_a_launcher_decide_if_it_is_required_to/)
+- [How To Prevent Screen Timeout Programmatically?](https://www.reddit.com/r/androiddev/comments/picg07/how_to_prevent_screen_timeout_programmatically/)
+- [Streamlining android development with Charles](https://www.reddit.com/r/androiddev/comments/pia2nx/streamlining_android_development_with_charles/)
+- [Why are review not showing on my app?](https://www.reddit.com/r/androiddev/comments/pi9tko/why_are_review_not_showing_on_my_app/)
 - [Annoying that the icons of Studio and the emulator are difficult to discern.](https://www.reddit.com/r/androiddev/comments/phx16t/annoying_that_the_icons_of_studio_and_the/)
 - [Where to go from here](https://www.reddit.com/r/androiddev/comments/phu9x4/where_to_go_from_here/)
 - [App Feedback Thread - September 04, 2021](https://www.reddit.com/r/androiddev/comments/phr4g1/app_feedback_thread_september_04_2021/)
-- [Is the Input NDK API the worst API ever conceived?](https://www.reddit.com/r/androiddev/comments/phpyum/is_the_input_ndk_api_the_worst_api_ever_conceived/)
-- [I want to build an app which uses Firebase. I have previously built an app for a school project in Java and found it very convoluted and needlessly complicated, so I am thinking about learning Flutter - is this a good idea (if I already know basic android SDK)?](https://www.reddit.com/r/androiddev/comments/phpk6q/i_want_to_build_an_app_which_uses_firebase_i_have/)
-- [What are the core differences between Jetpack Compose and Flutter in terms of UI rendering?](https://www.reddit.com/r/androiddev/comments/pho82v/what_are_the_core_differences_between_jetpack/)
-- [Google Play team rejected the application due to SMS/Call permission](https://www.reddit.com/r/androiddev/comments/phnlwe/google_play_team_rejected_the_application_due_to/)
-- [Mocking API for efficient development with mockoon](https://www.reddit.com/r/androiddev/comments/phk5kg/mocking_api_for_efficient_development_with_mockoon/)
-- [Android equivalent to iOS's SceneKit for PBR?](https://www.reddit.com/r/androiddev/comments/phjmzb/android_equivalent_to_ioss_scenekit_for_pbr/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
