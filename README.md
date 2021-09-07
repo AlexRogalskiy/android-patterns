@@ -268,16 +268,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When using compose what do you prefer to setup navigation? Compose navigation or traditional navigation component ?](https://www.reddit.com/r/androiddev/comments/pimdb0/when_using_compose_what_do_you_prefer_to_setup/)
-- [How many of you guys look or develop apps for wear os platform ?](https://www.reddit.com/r/androiddev/comments/pilmt1/how_many_of_you_guys_look_or_develop_apps_for/)
-- [How to have a simple queue/list/pipeline design to execute nested list of background tasks/works in Kotlin/coroutines?](https://www.reddit.com/r/androiddev/comments/pik5w5/how_to_have_a_simple_queuelistpipeline_design_to/)
-- [How does a launcher decide if it is required to start an activity or resuming the previous task?](https://www.reddit.com/r/androiddev/comments/pihd3p/how_does_a_launcher_decide_if_it_is_required_to/)
-- [How To Prevent Screen Timeout Programmatically?](https://www.reddit.com/r/androiddev/comments/picg07/how_to_prevent_screen_timeout_programmatically/)
-- [Streamlining android development with Charles](https://www.reddit.com/r/androiddev/comments/pia2nx/streamlining_android_development_with_charles/)
-- [Why are review not showing on my app?](https://www.reddit.com/r/androiddev/comments/pi9tko/why_are_review_not_showing_on_my_app/)
-- [Annoying that the icons of Studio and the emulator are difficult to discern.](https://www.reddit.com/r/androiddev/comments/phx16t/annoying_that_the_icons_of_studio_and_the/)
-- [Where to go from here](https://www.reddit.com/r/androiddev/comments/phu9x4/where_to_go_from_here/)
-- [App Feedback Thread - September 04, 2021](https://www.reddit.com/r/androiddev/comments/phr4g1/app_feedback_thread_september_04_2021/)
+- [European Android devs: What about your region should I know as an Android developer from the USA?](https://www.reddit.com/r/androiddev/comments/pjcurs/european_android_devs_what_about_your_region/)
+- [Historically iOS only, but wondering if Android is better for this 'Dad's Carputer' idea.](https://www.reddit.com/r/androiddev/comments/pjcg8j/historically_ios_only_but_wondering_if_android_is/)
+- [Verifying ID with Google Play](https://www.reddit.com/r/androiddev/comments/pjc161/verifying_id_with_google_play/)
+- [Is it possible to input a number and change it to 2 different numbers in 2 different textboxes upon clicking a single button?](https://www.reddit.com/r/androiddev/comments/pjavcl/is_it_possible_to_input_a_number_and_change_it_to/)
+- [Free math application to simplify fractions and find prime factors](https://www.reddit.com/r/androiddev/comments/pj8pzt/free_math_application_to_simplify_fractions_and/)
+- [Going back to the market after 2 year hiatus](https://www.reddit.com/r/androiddev/comments/pj7un5/going_back_to_the_market_after_2_year_hiatus/)
+- [Analog Watch Face for Wear OS](https://www.reddit.com/r/androiddev/comments/pj6bgq/analog_watch_face_for_wear_os/)
+- [update fragment through list in viewmodel](https://www.reddit.com/r/androiddev/comments/pj6b0k/update_fragment_through_list_in_viewmodel/)
+- [libraries to use with API (parsing JSON)(NEW TO DEV)](https://www.reddit.com/r/androiddev/comments/pj60qq/libraries_to_use_with_api_parsing_jsonnew_to_dev/)
+- [App that would speak when button is pressed](https://www.reddit.com/r/androiddev/comments/pj60hr/app_that_would_speak_when_button_is_pressed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
