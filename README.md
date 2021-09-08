@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [European Android devs: What about your region should I know as an Android developer from the USA?](https://www.reddit.com/r/androiddev/comments/pjcurs/european_android_devs_what_about_your_region/)
-- [Historically iOS only, but wondering if Android is better for this 'Dad's Carputer' idea.](https://www.reddit.com/r/androiddev/comments/pjcg8j/historically_ios_only_but_wondering_if_android_is/)
-- [Verifying ID with Google Play](https://www.reddit.com/r/androiddev/comments/pjc161/verifying_id_with_google_play/)
-- [Is it possible to input a number and change it to 2 different numbers in 2 different textboxes upon clicking a single button?](https://www.reddit.com/r/androiddev/comments/pjavcl/is_it_possible_to_input_a_number_and_change_it_to/)
-- [Free math application to simplify fractions and find prime factors](https://www.reddit.com/r/androiddev/comments/pj8pzt/free_math_application_to_simplify_fractions_and/)
-- [Going back to the market after 2 year hiatus](https://www.reddit.com/r/androiddev/comments/pj7un5/going_back_to_the_market_after_2_year_hiatus/)
-- [Analog Watch Face for Wear OS](https://www.reddit.com/r/androiddev/comments/pj6bgq/analog_watch_face_for_wear_os/)
-- [update fragment through list in viewmodel](https://www.reddit.com/r/androiddev/comments/pj6b0k/update_fragment_through_list_in_viewmodel/)
-- [libraries to use with API (parsing JSON)(NEW TO DEV)](https://www.reddit.com/r/androiddev/comments/pj60qq/libraries_to_use_with_api_parsing_jsonnew_to_dev/)
-- [App that would speak when button is pressed](https://www.reddit.com/r/androiddev/comments/pj60hr/app_that_would_speak_when_button_is_pressed/)
+- [How do I force Facebook app to use user's default browser?](https://www.reddit.com/r/androiddev/comments/pk0rkw/how_do_i_force_facebook_app_to_use_users_default/)
+- [Do I need a bank account yet](https://www.reddit.com/r/androiddev/comments/pjwr38/do_i_need_a_bank_account_yet/)
+- [Android Developers Blog: Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](https://www.reddit.com/r/androiddev/comments/pjwh75/android_developers_blog_accelerated_kotlin_build/)
+- [Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](https://www.reddit.com/r/androiddev/comments/pjvx2o/accelerated_kotlin_build_times_with_kotlin_symbol/)
+- [Android Navigation - Handling Logout](https://www.reddit.com/r/androiddev/comments/pjvkff/android_navigation_handling_logout/)
+- [Suggestion for library to connect to a remote database for an android app?](https://www.reddit.com/r/androiddev/comments/pjuntx/suggestion_for_library_to_connect_to_a_remote/)
+- [suspendCancellableCoroutine in a different Dispatcher](https://www.reddit.com/r/androiddev/comments/pjqv5s/suspendcancellablecoroutine_in_a_different/)
+- [An animated number stepper. https://github.com/kojofosu/Quantitizer](https://www.reddit.com/r/androiddev/comments/pjqm1t/an_animated_number_stepper/)
+- [Correct implementation of in app review](https://www.reddit.com/r/androiddev/comments/pjpcw2/correct_implementation_of_in_app_review/)
+- [what technical questions/side questions would you ask or like to discuss during an interview?](https://www.reddit.com/r/androiddev/comments/pjp250/what_technical_questionsside_questions_would_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
