@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I force Facebook app to use user's default browser?](https://www.reddit.com/r/androiddev/comments/pk0rkw/how_do_i_force_facebook_app_to_use_users_default/)
-- [Do I need a bank account yet](https://www.reddit.com/r/androiddev/comments/pjwr38/do_i_need_a_bank_account_yet/)
-- [Android Developers Blog: Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](https://www.reddit.com/r/androiddev/comments/pjwh75/android_developers_blog_accelerated_kotlin_build/)
-- [Accelerated Kotlin build times with Kotlin Symbol Processing 1.0](https://www.reddit.com/r/androiddev/comments/pjvx2o/accelerated_kotlin_build_times_with_kotlin_symbol/)
-- [Android Navigation - Handling Logout](https://www.reddit.com/r/androiddev/comments/pjvkff/android_navigation_handling_logout/)
-- [Suggestion for library to connect to a remote database for an android app?](https://www.reddit.com/r/androiddev/comments/pjuntx/suggestion_for_library_to_connect_to_a_remote/)
-- [suspendCancellableCoroutine in a different Dispatcher](https://www.reddit.com/r/androiddev/comments/pjqv5s/suspendcancellablecoroutine_in_a_different/)
-- [An animated number stepper. https://github.com/kojofosu/Quantitizer](https://www.reddit.com/r/androiddev/comments/pjqm1t/an_animated_number_stepper/)
-- [Correct implementation of in app review](https://www.reddit.com/r/androiddev/comments/pjpcw2/correct_implementation_of_in_app_review/)
-- [what technical questions/side questions would you ask or like to discuss during an interview?](https://www.reddit.com/r/androiddev/comments/pjp250/what_technical_questionsside_questions_would_you/)
+- [Should I reset the app Version Counter after rebranding?](https://www.reddit.com/r/androiddev/comments/pkj52s/should_i_reset_the_app_version_counter_after/)
+- [Kotlin 2021 Premier Online Event](https://www.reddit.com/r/androiddev/comments/pkgcy3/kotlin_2021_premier_online_event/)
+- [RBusarow/Tangle - Android components injection using Anvil instead of Hilt.](https://www.reddit.com/r/androiddev/comments/pkfp0i/rbusarowtangle_android_components_injection_using/)
+- [How long does the approval process take nowadays?](https://www.reddit.com/r/androiddev/comments/pkeoh1/how_long_does_the_approval_process_take_nowadays/)
+- [JetpackCompose.app | What is “donut-hole skipping” in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/pkdjef/jetpackcomposeapp_what_is_donuthole_skipping_in/)
+- [Error upload AAB](https://www.reddit.com/r/androiddev/comments/pkd6s8/error_upload_aab/)
+- [Rudroid - Writing the World's worst Android Emulator in Rust 🦀](https://www.reddit.com/r/androiddev/comments/pkcald/rudroid_writing_the_worlds_worst_android_emulator/)
+- [an app to test receiving different types of notifications?](https://www.reddit.com/r/androiddev/comments/pkbo7k/an_app_to_test_receiving_different_types_of/)
+- [Wear OS watch face app + empty activity phone app](https://www.reddit.com/r/androiddev/comments/pkblyz/wear_os_watch_face_app_empty_activity_phone_app/)
+- [The best route to developing a custom phone to distribute.](https://www.reddit.com/r/androiddev/comments/pkag9x/the_best_route_to_developing_a_custom_phone_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
