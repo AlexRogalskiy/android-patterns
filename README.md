@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Should I reset the app Version Counter after rebranding?](https://www.reddit.com/r/androiddev/comments/pkj52s/should_i_reset_the_app_version_counter_after/)
-- [Kotlin 2021 Premier Online Event](https://www.reddit.com/r/androiddev/comments/pkgcy3/kotlin_2021_premier_online_event/)
-- [RBusarow/Tangle - Android components injection using Anvil instead of Hilt.](https://www.reddit.com/r/androiddev/comments/pkfp0i/rbusarowtangle_android_components_injection_using/)
-- [How long does the approval process take nowadays?](https://www.reddit.com/r/androiddev/comments/pkeoh1/how_long_does_the_approval_process_take_nowadays/)
-- [JetpackCompose.app | What is “donut-hole skipping” in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/pkdjef/jetpackcomposeapp_what_is_donuthole_skipping_in/)
-- [Error upload AAB](https://www.reddit.com/r/androiddev/comments/pkd6s8/error_upload_aab/)
-- [Rudroid - Writing the World's worst Android Emulator in Rust 🦀](https://www.reddit.com/r/androiddev/comments/pkcald/rudroid_writing_the_worlds_worst_android_emulator/)
-- [an app to test receiving different types of notifications?](https://www.reddit.com/r/androiddev/comments/pkbo7k/an_app_to_test_receiving_different_types_of/)
-- [Wear OS watch face app + empty activity phone app](https://www.reddit.com/r/androiddev/comments/pkblyz/wear_os_watch_face_app_empty_activity_phone_app/)
-- [The best route to developing a custom phone to distribute.](https://www.reddit.com/r/androiddev/comments/pkag9x/the_best_route_to_developing_a_custom_phone_to/)
+- [Does anybody knows what's the issue with my instagram reels?](https://www.reddit.com/r/androiddev/comments/plb92i/does_anybody_knows_whats_the_issue_with_my/)
+- [Can i get the source code of any app available on app store???](https://www.reddit.com/r/androiddev/comments/pl7ngs/can_i_get_the_source_code_of_any_app_available_on/)
+- [Detect a bank check in camera preview](https://www.reddit.com/r/androiddev/comments/pl6f1w/detect_a_bank_check_in_camera_preview/)
+- [Best practices for reporting a bug?](https://www.reddit.com/r/androiddev/comments/pl61o0/best_practices_for_reporting_a_bug/)
+- [[Corrupted Android OS] Can anyone help me with this BQ Aquaris X2 phone. This is everything the phone has and i cant flash it using my pc as it wont connect. Any help would be appreciated!](https://www.reddit.com/r/androiddev/comments/pl4dxx/corrupted_android_os_can_anyone_help_me_with_this/)
+- [How do expense tracking apps connect to your bank account?](https://www.reddit.com/r/androiddev/comments/pl449g/how_do_expense_tracking_apps_connect_to_your_bank/)
+- [Since this method is the cause of some deprecations, can someone tell me some usecases where you would use tags for Contexts (or in general, need to distinguish those)?](https://www.reddit.com/r/androiddev/comments/pl3xz0/since_this_method_is_the_cause_of_some/)
+- [App on the store for past 6 months removed for noncompliant active URIs?](https://www.reddit.com/r/androiddev/comments/pl3hdz/app_on_the_store_for_past_6_months_removed_for/)
+- [adb backup - why compulsory password?](https://www.reddit.com/r/androiddev/comments/pl2jk2/adb_backup_why_compulsory_password/)
+- [Features you want in a flashcard based language learning app](https://www.reddit.com/r/androiddev/comments/pl2axc/features_you_want_in_a_flashcard_based_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
