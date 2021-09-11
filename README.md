@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does anybody knows what's the issue with my instagram reels?](https://www.reddit.com/r/androiddev/comments/plb92i/does_anybody_knows_whats_the_issue_with_my/)
-- [Can i get the source code of any app available on app store???](https://www.reddit.com/r/androiddev/comments/pl7ngs/can_i_get_the_source_code_of_any_app_available_on/)
-- [Detect a bank check in camera preview](https://www.reddit.com/r/androiddev/comments/pl6f1w/detect_a_bank_check_in_camera_preview/)
-- [Best practices for reporting a bug?](https://www.reddit.com/r/androiddev/comments/pl61o0/best_practices_for_reporting_a_bug/)
-- [[Corrupted Android OS] Can anyone help me with this BQ Aquaris X2 phone. This is everything the phone has and i cant flash it using my pc as it wont connect. Any help would be appreciated!](https://www.reddit.com/r/androiddev/comments/pl4dxx/corrupted_android_os_can_anyone_help_me_with_this/)
-- [How do expense tracking apps connect to your bank account?](https://www.reddit.com/r/androiddev/comments/pl449g/how_do_expense_tracking_apps_connect_to_your_bank/)
-- [Since this method is the cause of some deprecations, can someone tell me some usecases where you would use tags for Contexts (or in general, need to distinguish those)?](https://www.reddit.com/r/androiddev/comments/pl3xz0/since_this_method_is_the_cause_of_some/)
-- [App on the store for past 6 months removed for noncompliant active URIs?](https://www.reddit.com/r/androiddev/comments/pl3hdz/app_on_the_store_for_past_6_months_removed_for/)
-- [adb backup - why compulsory password?](https://www.reddit.com/r/androiddev/comments/pl2jk2/adb_backup_why_compulsory_password/)
-- [Features you want in a flashcard based language learning app](https://www.reddit.com/r/androiddev/comments/pl2axc/features_you_want_in_a_flashcard_based_language/)
+- [Help with aab file and Google Play](https://www.reddit.com/r/androiddev/comments/plw4mj/help_with_aab_file_and_google_play/)
+- [How do I create a MapFragment and pass in the MapProperties? TomTom Api + Android](https://www.reddit.com/r/androiddev/comments/plvkjv/how_do_i_create_a_mapfragment_and_pass_in_the/)
+- [How to split money within a team for an indie app?](https://www.reddit.com/r/androiddev/comments/plv5v8/how_to_split_money_within_a_team_for_an_indie_app/)
+- [Pixel 3 and EDL.](https://www.reddit.com/r/androiddev/comments/pluv34/pixel_3_and_edl/)
+- [Problems when trying to display delayed camera feed.](https://www.reddit.com/r/androiddev/comments/plth02/problems_when_trying_to_display_delayed_camera/)
+- [Question about Facebook SDK](https://www.reddit.com/r/androiddev/comments/plrlze/question_about_facebook_sdk/)
+- [Figma for UI](https://www.reddit.com/r/androiddev/comments/plr5am/figma_for_ui/)
+- [A question regarding "Wireless debugging" in developer options of android 11](https://www.reddit.com/r/androiddev/comments/plqm82/a_question_regarding_wireless_debugging_in/)
+- [How to get t device mac address without enabling WiFi](https://www.reddit.com/r/androiddev/comments/plqfvn/how_to_get_t_device_mac_address_without_enabling/)
+- [I don't know if Google has ever undeprecated a method, but they need to bring back the old onActivityResult.](https://www.reddit.com/r/androiddev/comments/plp8xj/i_dont_know_if_google_has_ever_undeprecated_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
