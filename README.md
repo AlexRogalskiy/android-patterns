@@ -284,6 +284,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google Flutter 2.5 UI kit is now stable](https://www.infoworld.com/article/3632887/google-flutter-25-ui-kit-is-now-stable.html#tk.rss_android)
 - [Jetpack Compose for Android turns GA](https://www.infoworld.com/article/3627298/jetpack-compose-for-android-turns-ga.html#tk.rss_android)
 - [Microsoft sunsets Xamarin toolkit](https://www.infoworld.com/article/3626453/microsoft-sunsets-xamarin-toolkit.html#tk.rss_android)
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
@@ -293,7 +294,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [PinePhone: A Linux smartphone a developer could love](https://www.infoworld.com/article/3610602/pinephone-a-linux-smartphone-a-developer-could-love.html#tk.rss_android)
 - [Google Jetpack Compose Android UI toolkit now in beta](https://www.infoworld.com/article/3609830/google-jetpack-compose-android-ui-toolkit-now-in-beta.html#tk.rss_android)
 - [Android 12 developer preview bolsters privacy, user experience](https://www.infoworld.com/article/3608937/android-12-developer-preview-bolsters-privacy-user-experience.html#tk.rss_android)
-- [Google introduces API for faster Kotlin builds](https://www.infoworld.com/article/3608434/google-introduces-api-for-faster-kotlin-builds.html#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
