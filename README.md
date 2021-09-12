@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help with aab file and Google Play](https://www.reddit.com/r/androiddev/comments/plw4mj/help_with_aab_file_and_google_play/)
-- [How do I create a MapFragment and pass in the MapProperties? TomTom Api + Android](https://www.reddit.com/r/androiddev/comments/plvkjv/how_do_i_create_a_mapfragment_and_pass_in_the/)
-- [How to split money within a team for an indie app?](https://www.reddit.com/r/androiddev/comments/plv5v8/how_to_split_money_within_a_team_for_an_indie_app/)
-- [Pixel 3 and EDL.](https://www.reddit.com/r/androiddev/comments/pluv34/pixel_3_and_edl/)
-- [Problems when trying to display delayed camera feed.](https://www.reddit.com/r/androiddev/comments/plth02/problems_when_trying_to_display_delayed_camera/)
-- [Question about Facebook SDK](https://www.reddit.com/r/androiddev/comments/plrlze/question_about_facebook_sdk/)
-- [Figma for UI](https://www.reddit.com/r/androiddev/comments/plr5am/figma_for_ui/)
-- [A question regarding "Wireless debugging" in developer options of android 11](https://www.reddit.com/r/androiddev/comments/plqm82/a_question_regarding_wireless_debugging_in/)
-- [How to get t device mac address without enabling WiFi](https://www.reddit.com/r/androiddev/comments/plqfvn/how_to_get_t_device_mac_address_without_enabling/)
-- [I don't know if Google has ever undeprecated a method, but they need to bring back the old onActivityResult.](https://www.reddit.com/r/androiddev/comments/plp8xj/i_dont_know_if_google_has_ever_undeprecated_a/)
+- [Facebook disabled my dating app because I use an age filter](https://www.reddit.com/r/androiddev/comments/pmj70p/facebook_disabled_my_dating_app_because_i_use_an/)
+- [Implementing Google Maps on Android Apps — Codeible.com](https://www.reddit.com/r/androiddev/comments/pmiyvk/implementing_google_maps_on_android_apps/)
+- [Recover data (contacts) from P9 Lite with broken touchscreen](https://www.reddit.com/r/androiddev/comments/pmiqoh/recover_data_contacts_from_p9_lite_with_broken/)
+- [Dpi does it matter side loading?](https://www.reddit.com/r/androiddev/comments/pmiopw/dpi_does_it_matter_side_loading/)
+- [Android application Icon](https://www.reddit.com/r/androiddev/comments/pme2mg/android_application_icon/)
+- [will be something like that available in android 12? personally this would be extremely useful for me](https://www.reddit.com/r/androiddev/comments/pmdlfu/will_be_something_like_that_available_in_android/)
+- [Scoped Storage is confusing](https://www.reddit.com/r/androiddev/comments/pm4j4d/scoped_storage_is_confusing/)
+- [My Mopub account has been suspended without any reason](https://www.reddit.com/r/androiddev/comments/pm42dw/my_mopub_account_has_been_suspended_without_any/)
+- [SSCustomEditTextOutlineBorder is a small kotlin library for android to support outlined (stroked) text in EditText widgets same as Material Design Outlined Box but without Floating Label.](https://www.reddit.com/r/androiddev/comments/pm0twz/sscustomedittextoutlineborder_is_a_small_kotlin/)
+- [Apple lost the Epic battle](https://www.reddit.com/r/androiddev/comments/pm0lo9/apple_lost_the_epic_battle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
