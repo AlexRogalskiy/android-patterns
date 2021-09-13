@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Facebook disabled my dating app because I use an age filter](https://www.reddit.com/r/androiddev/comments/pmj70p/facebook_disabled_my_dating_app_because_i_use_an/)
-- [Implementing Google Maps on Android Apps — Codeible.com](https://www.reddit.com/r/androiddev/comments/pmiyvk/implementing_google_maps_on_android_apps/)
-- [Recover data (contacts) from P9 Lite with broken touchscreen](https://www.reddit.com/r/androiddev/comments/pmiqoh/recover_data_contacts_from_p9_lite_with_broken/)
-- [Dpi does it matter side loading?](https://www.reddit.com/r/androiddev/comments/pmiopw/dpi_does_it_matter_side_loading/)
-- [Android application Icon](https://www.reddit.com/r/androiddev/comments/pme2mg/android_application_icon/)
-- [will be something like that available in android 12? personally this would be extremely useful for me](https://www.reddit.com/r/androiddev/comments/pmdlfu/will_be_something_like_that_available_in_android/)
-- [Scoped Storage is confusing](https://www.reddit.com/r/androiddev/comments/pm4j4d/scoped_storage_is_confusing/)
-- [My Mopub account has been suspended without any reason](https://www.reddit.com/r/androiddev/comments/pm42dw/my_mopub_account_has_been_suspended_without_any/)
-- [SSCustomEditTextOutlineBorder is a small kotlin library for android to support outlined (stroked) text in EditText widgets same as Material Design Outlined Box but without Floating Label.](https://www.reddit.com/r/androiddev/comments/pm0twz/sscustomedittextoutlineborder_is_a_small_kotlin/)
-- [Apple lost the Epic battle](https://www.reddit.com/r/androiddev/comments/pm0lo9/apple_lost_the_epic_battle/)
+- [Question about Approving an app, not working on the Work playstore.](https://www.reddit.com/r/androiddev/comments/pn4c5r/question_about_approving_an_app_not_working_on/)
+- [Does anyone know of a FREE api that provides live transcription?](https://www.reddit.com/r/androiddev/comments/pn1d5l/does_anyone_know_of_a_free_api_that_provides_live/)
+- [I installed Android x86 on an older laptop, and when I try to play certain games it gives me this error. Don't know if this is the right sub to ask, but does anyone know how to solve this?](https://www.reddit.com/r/androiddev/comments/pmzxxb/i_installed_android_x86_on_an_older_laptop_and/)
+- [Intend to learn node js with 3 years of android experience](https://www.reddit.com/r/androiddev/comments/pmx2lm/intend_to_learn_node_js_with_3_years_of_android/)
+- [Using Activity Result API for multiple files (chosen seperately)](https://www.reddit.com/r/androiddev/comments/pmwmtc/using_activity_result_api_for_multiple_files/)
+- [Preventing Extraneous Flavor Tasks in Gradle](https://www.reddit.com/r/androiddev/comments/pmwcxv/preventing_extraneous_flavor_tasks_in_gradle/)
+- [Another app using my screenshots](https://www.reddit.com/r/androiddev/comments/pmv1a7/another_app_using_my_screenshots/)
+- [What is warning 703 and warning 701 in MediaPlayer](https://www.reddit.com/r/androiddev/comments/pmsavd/what_is_warning_703_and_warning_701_in_mediaplayer/)
+- [I just released my first (open source) app, BootyCrate](https://www.reddit.com/r/androiddev/comments/pms7rk/i_just_released_my_first_open_source_app/)
+- [My emulator is throwing me an error "missing system image". Could anyone help me? Thanks in advance.](https://www.reddit.com/r/androiddev/comments/pms23j/my_emulator_is_throwing_me_an_error_missing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
