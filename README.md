@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question about Approving an app, not working on the Work playstore.](https://www.reddit.com/r/androiddev/comments/pn4c5r/question_about_approving_an_app_not_working_on/)
-- [Does anyone know of a FREE api that provides live transcription?](https://www.reddit.com/r/androiddev/comments/pn1d5l/does_anyone_know_of_a_free_api_that_provides_live/)
-- [I installed Android x86 on an older laptop, and when I try to play certain games it gives me this error. Don't know if this is the right sub to ask, but does anyone know how to solve this?](https://www.reddit.com/r/androiddev/comments/pmzxxb/i_installed_android_x86_on_an_older_laptop_and/)
-- [Intend to learn node js with 3 years of android experience](https://www.reddit.com/r/androiddev/comments/pmx2lm/intend_to_learn_node_js_with_3_years_of_android/)
-- [Using Activity Result API for multiple files (chosen seperately)](https://www.reddit.com/r/androiddev/comments/pmwmtc/using_activity_result_api_for_multiple_files/)
-- [Preventing Extraneous Flavor Tasks in Gradle](https://www.reddit.com/r/androiddev/comments/pmwcxv/preventing_extraneous_flavor_tasks_in_gradle/)
-- [Another app using my screenshots](https://www.reddit.com/r/androiddev/comments/pmv1a7/another_app_using_my_screenshots/)
-- [What is warning 703 and warning 701 in MediaPlayer](https://www.reddit.com/r/androiddev/comments/pmsavd/what_is_warning_703_and_warning_701_in_mediaplayer/)
-- [I just released my first (open source) app, BootyCrate](https://www.reddit.com/r/androiddev/comments/pms7rk/i_just_released_my_first_open_source_app/)
-- [My emulator is throwing me an error "missing system image". Could anyone help me? Thanks in advance.](https://www.reddit.com/r/androiddev/comments/pms23j/my_emulator_is_throwing_me_an_error_missing/)
+- [Problem with APK upload link for Play Protect appeal.](https://www.reddit.com/r/androiddev/comments/pnrbt6/problem_with_apk_upload_link_for_play_protect/)
+- [Hello, the following post might be unrelated to this subreddit but I'm hoping to find some answers here. Hope the mods and other members here take this post into conisderation. Also, feel free to tell me whatever action is necessary regarding on this post.](https://www.reddit.com/r/androiddev/comments/pnr5ht/hello_the_following_post_might_be_unrelated_to/)
+- [Pop up on home screen like on Google assistant.](https://www.reddit.com/r/androiddev/comments/pnq9ej/pop_up_on_home_screen_like_on_google_assistant/)
+- [Is it possible to get near real time location updates while the phone is Idle using persistent notification with foreground service or accessibility service?](https://www.reddit.com/r/androiddev/comments/pnpr70/is_it_possible_to_get_near_real_time_location/)
+- [How was your experience with non-git version control systems like IBM RTC?](https://www.reddit.com/r/androiddev/comments/pno05s/how_was_your_experience_with_nongit_version/)
+- [MMR system for a casual scoreboard android application](https://www.reddit.com/r/androiddev/comments/pnnrn6/mmr_system_for_a_casual_scoreboard_android/)
+- [Bot Manager SDK: Akamai?](https://www.reddit.com/r/androiddev/comments/pnnqn9/bot_manager_sdk_akamai/)
+- [Website that list all dependency packages for android](https://www.reddit.com/r/androiddev/comments/pnlzrb/website_that_list_all_dependency_packages_for/)
+- [App not available for my device eventhough it's supported?](https://www.reddit.com/r/androiddev/comments/pnk34k/app_not_available_for_my_device_eventhough_its/)
+- [Managing user's in-app interaction with another business: co-development, integration or... - which is better?](https://www.reddit.com/r/androiddev/comments/pnja9u/managing_users_inapp_interaction_with_another/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
