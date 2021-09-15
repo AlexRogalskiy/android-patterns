@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Problem with APK upload link for Play Protect appeal.](https://www.reddit.com/r/androiddev/comments/pnrbt6/problem_with_apk_upload_link_for_play_protect/)
-- [Hello, the following post might be unrelated to this subreddit but I'm hoping to find some answers here. Hope the mods and other members here take this post into conisderation. Also, feel free to tell me whatever action is necessary regarding on this post.](https://www.reddit.com/r/androiddev/comments/pnr5ht/hello_the_following_post_might_be_unrelated_to/)
-- [Pop up on home screen like on Google assistant.](https://www.reddit.com/r/androiddev/comments/pnq9ej/pop_up_on_home_screen_like_on_google_assistant/)
-- [Is it possible to get near real time location updates while the phone is Idle using persistent notification with foreground service or accessibility service?](https://www.reddit.com/r/androiddev/comments/pnpr70/is_it_possible_to_get_near_real_time_location/)
-- [How was your experience with non-git version control systems like IBM RTC?](https://www.reddit.com/r/androiddev/comments/pno05s/how_was_your_experience_with_nongit_version/)
-- [MMR system for a casual scoreboard android application](https://www.reddit.com/r/androiddev/comments/pnnrn6/mmr_system_for_a_casual_scoreboard_android/)
-- [Bot Manager SDK: Akamai?](https://www.reddit.com/r/androiddev/comments/pnnqn9/bot_manager_sdk_akamai/)
-- [Website that list all dependency packages for android](https://www.reddit.com/r/androiddev/comments/pnlzrb/website_that_list_all_dependency_packages_for/)
-- [App not available for my device eventhough it's supported?](https://www.reddit.com/r/androiddev/comments/pnk34k/app_not_available_for_my_device_eventhough_its/)
-- [Managing user's in-app interaction with another business: co-development, integration or... - which is better?](https://www.reddit.com/r/androiddev/comments/pnja9u/managing_users_inapp_interaction_with_another/)
+- [Mediarecorder and AudioRecord](https://www.reddit.com/r/androiddev/comments/poenqf/mediarecorder_and_audiorecord/)
+- [Unable to scroll vertically when touch horizontal recyclerview within item in recyclerview](https://www.reddit.com/r/androiddev/comments/poel2a/unable_to_scroll_vertically_when_touch_horizontal/)
+- [Released workflow v1.0.0](https://www.reddit.com/r/androiddev/comments/poek5t/released_workflow_v100/)
+- [Taking screenshots on Android 12 emulator - is the status bar sizing correct?](https://www.reddit.com/r/androiddev/comments/poar8e/taking_screenshots_on_android_12_emulator_is_the/)
+- [ML/Blockchain real life implementation](https://www.reddit.com/r/androiddev/comments/po7r9w/mlblockchain_real_life_implementation/)
+- [Material you for developers.](https://www.reddit.com/r/androiddev/comments/po5hjn/material_you_for_developers/)
+- [Understand Gradle In Half An Hour](https://www.reddit.com/r/androiddev/comments/po5bct/understand_gradle_in_half_an_hour/)
+- [Java 17 / JDK 17: General Availability](https://www.reddit.com/r/androiddev/comments/po4es8/java_17_jdk_17_general_availability/)
+- [Mejiboard - An image board client based on Gelbooru for android, made from Jetpack Compose](https://www.reddit.com/r/androiddev/comments/po44fp/mejiboard_an_image_board_client_based_on_gelbooru/)
+- [Privacy friendly analytics/custom event logging](https://www.reddit.com/r/androiddev/comments/po3nf6/privacy_friendly_analyticscustom_event_logging/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
