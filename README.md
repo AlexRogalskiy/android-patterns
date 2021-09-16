@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mediarecorder and AudioRecord](https://www.reddit.com/r/androiddev/comments/poenqf/mediarecorder_and_audiorecord/)
-- [Unable to scroll vertically when touch horizontal recyclerview within item in recyclerview](https://www.reddit.com/r/androiddev/comments/poel2a/unable_to_scroll_vertically_when_touch_horizontal/)
-- [Released workflow v1.0.0](https://www.reddit.com/r/androiddev/comments/poek5t/released_workflow_v100/)
-- [Taking screenshots on Android 12 emulator - is the status bar sizing correct?](https://www.reddit.com/r/androiddev/comments/poar8e/taking_screenshots_on_android_12_emulator_is_the/)
-- [ML/Blockchain real life implementation](https://www.reddit.com/r/androiddev/comments/po7r9w/mlblockchain_real_life_implementation/)
-- [Material you for developers.](https://www.reddit.com/r/androiddev/comments/po5hjn/material_you_for_developers/)
-- [Understand Gradle In Half An Hour](https://www.reddit.com/r/androiddev/comments/po5bct/understand_gradle_in_half_an_hour/)
-- [Java 17 / JDK 17: General Availability](https://www.reddit.com/r/androiddev/comments/po4es8/java_17_jdk_17_general_availability/)
-- [Mejiboard - An image board client based on Gelbooru for android, made from Jetpack Compose](https://www.reddit.com/r/androiddev/comments/po44fp/mejiboard_an_image_board_client_based_on_gelbooru/)
-- [Privacy friendly analytics/custom event logging](https://www.reddit.com/r/androiddev/comments/po3nf6/privacy_friendly_analyticscustom_event_logging/)
+- [This app has downloaded a reasonable amount of data in my phone but i don't seem to find those files in my local storage. There is no directory by the name of the app in my device. How come the app manage to access those files but i can't? Or is there any way to get access to those files?](https://www.reddit.com/r/androiddev/comments/pp3mvs/this_app_has_downloaded_a_reasonable_amount_of/)
+- [How to remove inner padding from vector drawable](https://www.reddit.com/r/androiddev/comments/pp1mgw/how_to_remove_inner_padding_from_vector_drawable/)
+- [Trying to find the best dpi setting for some custom tablets](https://www.reddit.com/r/androiddev/comments/pp1dx8/trying_to_find_the_best_dpi_setting_for_some/)
+- [Ad network and indeterminate ProgressBar](https://www.reddit.com/r/androiddev/comments/pow48t/ad_network_and_indeterminate_progressbar/)
+- [What are those application that can install fonts style in galaxy phones?](https://www.reddit.com/r/androiddev/comments/pov2vt/what_are_those_application_that_can_install_fonts/)
+- [Android TV apps with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/pou5sw/android_tv_apps_with_jetpack_compose/)
+- [Android Jetpack Compose Examples for beginners](https://www.reddit.com/r/androiddev/comments/potydt/android_jetpack_compose_examples_for_beginners/)
+- [Will Google have to revert it's In App Purchases enforcement now?](https://www.reddit.com/r/androiddev/comments/potkal/will_google_have_to_revert_its_in_app_purchases/)
+- [Currency Exchange App in Kotlin with Dagger2 and RxJava2](https://www.reddit.com/r/androiddev/comments/posdmd/currency_exchange_app_in_kotlin_with_dagger2_and/)
+- [How to implement code completion for an android application ?](https://www.reddit.com/r/androiddev/comments/porqkf/how_to_implement_code_completion_for_an_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
