@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [This app has downloaded a reasonable amount of data in my phone but i don't seem to find those files in my local storage. There is no directory by the name of the app in my device. How come the app manage to access those files but i can't? Or is there any way to get access to those files?](https://www.reddit.com/r/androiddev/comments/pp3mvs/this_app_has_downloaded_a_reasonable_amount_of/)
-- [How to remove inner padding from vector drawable](https://www.reddit.com/r/androiddev/comments/pp1mgw/how_to_remove_inner_padding_from_vector_drawable/)
-- [Trying to find the best dpi setting for some custom tablets](https://www.reddit.com/r/androiddev/comments/pp1dx8/trying_to_find_the_best_dpi_setting_for_some/)
-- [Ad network and indeterminate ProgressBar](https://www.reddit.com/r/androiddev/comments/pow48t/ad_network_and_indeterminate_progressbar/)
-- [What are those application that can install fonts style in galaxy phones?](https://www.reddit.com/r/androiddev/comments/pov2vt/what_are_those_application_that_can_install_fonts/)
-- [Android TV apps with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/pou5sw/android_tv_apps_with_jetpack_compose/)
-- [Android Jetpack Compose Examples for beginners](https://www.reddit.com/r/androiddev/comments/potydt/android_jetpack_compose_examples_for_beginners/)
-- [Will Google have to revert it's In App Purchases enforcement now?](https://www.reddit.com/r/androiddev/comments/potkal/will_google_have_to_revert_its_in_app_purchases/)
-- [Currency Exchange App in Kotlin with Dagger2 and RxJava2](https://www.reddit.com/r/androiddev/comments/posdmd/currency_exchange_app_in_kotlin_with_dagger2_and/)
-- [How to implement code completion for an android application ?](https://www.reddit.com/r/androiddev/comments/porqkf/how_to_implement_code_completion_for_an_android/)
+- [Best language (for me) to start developing simple apps in android](https://www.reddit.com/r/androiddev/comments/ppq3kj/best_language_for_me_to_start_developing_simple/)
+- [Selling In-App Products on Android: Implementing Google Play Billing V4](https://www.reddit.com/r/androiddev/comments/ppjhc9/selling_inapp_products_on_android_implementing/)
+- [How to test flows that emit during viewModel initialization](https://www.reddit.com/r/androiddev/comments/ppj3pr/how_to_test_flows_that_emit_during_viewmodel/)
+- [Question about external USB storage access on Android 11](https://www.reddit.com/r/androiddev/comments/ppg9re/question_about_external_usb_storage_access_on/)
+- [Wireless Debugging auto connect not working on specific machine.](https://www.reddit.com/r/androiddev/comments/ppfl1k/wireless_debugging_auto_connect_not_working_on/)
+- [Starting new job after 4 years of working for first company](https://www.reddit.com/r/androiddev/comments/ppep73/starting_new_job_after_4_years_of_working_for/)
+- [Responsive design best practice w/ margin&padding](https://www.reddit.com/r/androiddev/comments/ppebx2/responsive_design_best_practice_w_marginpadding/)
+- [Fetch latest source tag for device](https://www.reddit.com/r/androiddev/comments/ppdtbm/fetch_latest_source_tag_for_device/)
+- [Is it possible to sync/update the offline cache of Firestore while in the background?](https://www.reddit.com/r/androiddev/comments/ppddxo/is_it_possible_to_syncupdate_the_offline_cache_of/)
+- [App promotion with GoogleAds](https://www.reddit.com/r/androiddev/comments/ppd06b/app_promotion_with_googleads/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
