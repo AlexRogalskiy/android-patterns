@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best language (for me) to start developing simple apps in android](https://www.reddit.com/r/androiddev/comments/ppq3kj/best_language_for_me_to_start_developing_simple/)
-- [Selling In-App Products on Android: Implementing Google Play Billing V4](https://www.reddit.com/r/androiddev/comments/ppjhc9/selling_inapp_products_on_android_implementing/)
-- [How to test flows that emit during viewModel initialization](https://www.reddit.com/r/androiddev/comments/ppj3pr/how_to_test_flows_that_emit_during_viewmodel/)
-- [Question about external USB storage access on Android 11](https://www.reddit.com/r/androiddev/comments/ppg9re/question_about_external_usb_storage_access_on/)
-- [Wireless Debugging auto connect not working on specific machine.](https://www.reddit.com/r/androiddev/comments/ppfl1k/wireless_debugging_auto_connect_not_working_on/)
-- [Starting new job after 4 years of working for first company](https://www.reddit.com/r/androiddev/comments/ppep73/starting_new_job_after_4_years_of_working_for/)
-- [Responsive design best practice w/ margin&padding](https://www.reddit.com/r/androiddev/comments/ppebx2/responsive_design_best_practice_w_marginpadding/)
-- [Fetch latest source tag for device](https://www.reddit.com/r/androiddev/comments/ppdtbm/fetch_latest_source_tag_for_device/)
-- [Is it possible to sync/update the offline cache of Firestore while in the background?](https://www.reddit.com/r/androiddev/comments/ppddxo/is_it_possible_to_syncupdate_the_offline_cache_of/)
-- [App promotion with GoogleAds](https://www.reddit.com/r/androiddev/comments/ppd06b/app_promotion_with_googleads/)
+- [Can someone explain how to simplify android development](https://www.reddit.com/r/androiddev/comments/pqb65a/can_someone_explain_how_to_simplify_android/)
+- [Android Studio Bumblebee Canary 12 available](https://www.reddit.com/r/androiddev/comments/pqasdg/android_studio_bumblebee_canary_12_available/)
+- [Waves Animation with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/pq97wd/waves_animation_with_jetpack_compose/)
+- [Distributing Android OS](https://www.reddit.com/r/androiddev/comments/pq51c8/distributing_android_os/)
+- [Are you allowed to tell your users things such as "playing our puzzle game 15 minutes every day will improve your focus" even though it might in fact be true?](https://www.reddit.com/r/androiddev/comments/pq39uf/are_you_allowed_to_tell_your_users_things_such_as/)
+- [I can't contact Google for my App Suspension](https://www.reddit.com/r/androiddev/comments/pq19dv/i_cant_contact_google_for_my_app_suspension/)
+- [‘Gamebaaz’ a full-stack KOTLIN application. Entire android app is in jetpack compose + backend tech stack includes Ktor + mysql + heroku deployment. If you find it helpful, please give it a star](https://www.reddit.com/r/androiddev/comments/pq0ogr/gamebaaz_a_fullstack_kotlin_application_entire/)
+- [App Feedback Thread - September 17, 2021](https://www.reddit.com/r/androiddev/comments/ppzp0b/app_feedback_thread_september_17_2021/)
+- [🙅‍♂️Don't let ViewModel knew about framework level dependencies](https://www.reddit.com/r/androiddev/comments/ppz6kb/dont_let_viewmodel_knew_about_framework_level/)
+- [Experience with Nicholas Duro's Private Island interview](https://www.reddit.com/r/androiddev/comments/ppz2hv/experience_with_nicholas_duros_private_island/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
