@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can someone explain how to simplify android development](https://www.reddit.com/r/androiddev/comments/pqb65a/can_someone_explain_how_to_simplify_android/)
-- [Android Studio Bumblebee Canary 12 available](https://www.reddit.com/r/androiddev/comments/pqasdg/android_studio_bumblebee_canary_12_available/)
-- [Waves Animation with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/pq97wd/waves_animation_with_jetpack_compose/)
-- [Distributing Android OS](https://www.reddit.com/r/androiddev/comments/pq51c8/distributing_android_os/)
-- [Are you allowed to tell your users things such as "playing our puzzle game 15 minutes every day will improve your focus" even though it might in fact be true?](https://www.reddit.com/r/androiddev/comments/pq39uf/are_you_allowed_to_tell_your_users_things_such_as/)
-- [I can't contact Google for my App Suspension](https://www.reddit.com/r/androiddev/comments/pq19dv/i_cant_contact_google_for_my_app_suspension/)
-- [‘Gamebaaz’ a full-stack KOTLIN application. Entire android app is in jetpack compose + backend tech stack includes Ktor + mysql + heroku deployment. If you find it helpful, please give it a star](https://www.reddit.com/r/androiddev/comments/pq0ogr/gamebaaz_a_fullstack_kotlin_application_entire/)
-- [App Feedback Thread - September 17, 2021](https://www.reddit.com/r/androiddev/comments/ppzp0b/app_feedback_thread_september_17_2021/)
-- [🙅‍♂️Don't let ViewModel knew about framework level dependencies](https://www.reddit.com/r/androiddev/comments/ppz6kb/dont_let_viewmodel_knew_about_framework_level/)
-- [Experience with Nicholas Duro's Private Island interview](https://www.reddit.com/r/androiddev/comments/ppz2hv/experience_with_nicholas_duros_private_island/)
+- [I released my first Kotlin app and giving away 400 free promo codes: HACK: Beautiful Hacker News client with reply push notifications, swipe to vote & comment, submit posts, reader mode for articles, text to speech for articles, highly customizable with themes, fonts, colors](https://www.reddit.com/r/androiddev/comments/pqxbse/i_released_my_first_kotlin_app_and_giving_away/)
+- [How to upload files to S3?](https://www.reddit.com/r/androiddev/comments/pqw7q5/how_to_upload_files_to_s3/)
+- [Masters Degree and Android Development](https://www.reddit.com/r/androiddev/comments/pqvm6m/masters_degree_and_android_development/)
+- [Releasing an app on Play Store with SMS & Call Log permissions](https://www.reddit.com/r/androiddev/comments/pqtq9c/releasing_an_app_on_play_store_with_sms_call_log/)
+- [Investigating and disabling hard-coded certificate pinning in an Android application](https://www.reddit.com/r/androiddev/comments/pqslhb/investigating_and_disabling_hardcoded_certificate/)
+- [Making Android Studio Plugin that records User Input](https://www.reddit.com/r/androiddev/comments/pqsa09/making_android_studio_plugin_that_records_user/)
+- [Question: I want to start an application within another application, but I don't want to use intent.](https://www.reddit.com/r/androiddev/comments/pqqi6z/question_i_want_to_start_an_application_within/)
+- [How to create an analog clock UI in jetpack compose?](https://www.reddit.com/r/androiddev/comments/pqpwix/how_to_create_an_analog_clock_ui_in_jetpack/)
+- [Your app contains content that doesn't comply with the User Generated Content policy.](https://www.reddit.com/r/androiddev/comments/pqpukf/your_app_contains_content_that_doesnt_comply_with/)
+- [Google apps spotted with a partial Material You Redesign | Android 12](https://www.reddit.com/r/androiddev/comments/pqogl9/google_apps_spotted_with_a_partial_material_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
