@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I released my first Kotlin app and giving away 400 free promo codes: HACK: Beautiful Hacker News client with reply push notifications, swipe to vote & comment, submit posts, reader mode for articles, text to speech for articles, highly customizable with themes, fonts, colors](https://www.reddit.com/r/androiddev/comments/pqxbse/i_released_my_first_kotlin_app_and_giving_away/)
-- [How to upload files to S3?](https://www.reddit.com/r/androiddev/comments/pqw7q5/how_to_upload_files_to_s3/)
-- [Masters Degree and Android Development](https://www.reddit.com/r/androiddev/comments/pqvm6m/masters_degree_and_android_development/)
-- [Releasing an app on Play Store with SMS & Call Log permissions](https://www.reddit.com/r/androiddev/comments/pqtq9c/releasing_an_app_on_play_store_with_sms_call_log/)
-- [Investigating and disabling hard-coded certificate pinning in an Android application](https://www.reddit.com/r/androiddev/comments/pqslhb/investigating_and_disabling_hardcoded_certificate/)
-- [Making Android Studio Plugin that records User Input](https://www.reddit.com/r/androiddev/comments/pqsa09/making_android_studio_plugin_that_records_user/)
-- [Question: I want to start an application within another application, but I don't want to use intent.](https://www.reddit.com/r/androiddev/comments/pqqi6z/question_i_want_to_start_an_application_within/)
-- [How to create an analog clock UI in jetpack compose?](https://www.reddit.com/r/androiddev/comments/pqpwix/how_to_create_an_analog_clock_ui_in_jetpack/)
-- [Your app contains content that doesn't comply with the User Generated Content policy.](https://www.reddit.com/r/androiddev/comments/pqpukf/your_app_contains_content_that_doesnt_comply_with/)
-- [Google apps spotted with a partial Material You Redesign | Android 12](https://www.reddit.com/r/androiddev/comments/pqogl9/google_apps_spotted_with_a_partial_material_you/)
+- [Android Developer documentation inconsistent with 2020.3.1?](https://www.reddit.com/r/androiddev/comments/prk0bd/android_developer_documentation_inconsistent_with/)
+- [Jetpack Compose - Login Screen Implementation](https://www.reddit.com/r/androiddev/comments/prjbpr/jetpack_compose_login_screen_implementation/)
+- [Why What'sApp isn't using Room Persistence library to store local data?](https://www.reddit.com/r/androiddev/comments/prhlco/why_whatsapp_isnt_using_room_persistence_library/)
+- [How can i promote and network?](https://www.reddit.com/r/androiddev/comments/prgnqo/how_can_i_promote_and_network/)
+- [Is there a way to limit smartphone to 8gb of ram?](https://www.reddit.com/r/androiddev/comments/prgmkb/is_there_a_way_to_limit_smartphone_to_8gb_of_ram/)
+- [Anyone of you guys got the blocked by play protect warning for your apps? How did you fix it?](https://www.reddit.com/r/androiddev/comments/pre6vt/anyone_of_you_guys_got_the_blocked_by_play/)
+- [What is “donut-hole skipping” in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/prauhz/what_is_donuthole_skipping_in_jetpack_compose/)
+- [Espresso testing strategies - mocking data](https://www.reddit.com/r/androiddev/comments/pr9u8t/espresso_testing_strategies_mocking_data/)
+- [Is it possible to create an Android app which will manipulate another app in that mobile(Not emulator)?](https://www.reddit.com/r/androiddev/comments/pr8upw/is_it_possible_to_create_an_android_app_which/)
+- [Android App Overlay](https://www.reddit.com/r/androiddev/comments/pr8358/android_app_overlay/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
