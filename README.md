@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Developer documentation inconsistent with 2020.3.1?](https://www.reddit.com/r/androiddev/comments/prk0bd/android_developer_documentation_inconsistent_with/)
-- [Jetpack Compose - Login Screen Implementation](https://www.reddit.com/r/androiddev/comments/prjbpr/jetpack_compose_login_screen_implementation/)
-- [Why What'sApp isn't using Room Persistence library to store local data?](https://www.reddit.com/r/androiddev/comments/prhlco/why_whatsapp_isnt_using_room_persistence_library/)
-- [How can i promote and network?](https://www.reddit.com/r/androiddev/comments/prgnqo/how_can_i_promote_and_network/)
-- [Is there a way to limit smartphone to 8gb of ram?](https://www.reddit.com/r/androiddev/comments/prgmkb/is_there_a_way_to_limit_smartphone_to_8gb_of_ram/)
-- [Anyone of you guys got the blocked by play protect warning for your apps? How did you fix it?](https://www.reddit.com/r/androiddev/comments/pre6vt/anyone_of_you_guys_got_the_blocked_by_play/)
-- [What is “donut-hole skipping” in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/prauhz/what_is_donuthole_skipping_in_jetpack_compose/)
-- [Espresso testing strategies - mocking data](https://www.reddit.com/r/androiddev/comments/pr9u8t/espresso_testing_strategies_mocking_data/)
-- [Is it possible to create an Android app which will manipulate another app in that mobile(Not emulator)?](https://www.reddit.com/r/androiddev/comments/pr8upw/is_it_possible_to_create_an_android_app_which/)
-- [Android App Overlay](https://www.reddit.com/r/androiddev/comments/pr8358/android_app_overlay/)
+- [What is this?](https://www.reddit.com/r/androiddev/comments/ps84lx/what_is_this/)
+- [Release Kotlin 1.5.31 · JetBrains/kotlin](https://www.reddit.com/r/androiddev/comments/ps7h8x/release_kotlin_1531_jetbrainskotlin/)
+- [Kotlin android development tutorial for web developers](https://www.reddit.com/r/androiddev/comments/ps5wvx/kotlin_android_development_tutorial_for_web/)
+- [Exiting android emulator crashes my linux machine.](https://www.reddit.com/r/androiddev/comments/ps500g/exiting_android_emulator_crashes_my_linux_machine/)
+- [Mobile Apps validation approach](https://www.reddit.com/r/androiddev/comments/ps4mpj/mobile_apps_validation_approach/)
+- [Android 11 Send user directly to the Location Permission screen](https://www.reddit.com/r/androiddev/comments/ps1xek/android_11_send_user_directly_to_the_location/)
+- [First time app: licensing your terms of use/servive/copyright?](https://www.reddit.com/r/androiddev/comments/pryhis/first_time_app_licensing_your_terms_of/)
+- [Is app source code copyrighted?](https://www.reddit.com/r/androiddev/comments/prwglb/is_app_source_code_copyrighted/)
+- [Build applications with python](https://www.reddit.com/r/androiddev/comments/prvj9c/build_applications_with_python/)
+- [Noob question, can't find a tutorial on how to view all available network folders/smb](https://www.reddit.com/r/androiddev/comments/prv3wf/noob_question_cant_find_a_tutorial_on_how_to_view/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
