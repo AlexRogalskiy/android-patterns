@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is this?](https://www.reddit.com/r/androiddev/comments/ps84lx/what_is_this/)
-- [Release Kotlin 1.5.31 · JetBrains/kotlin](https://www.reddit.com/r/androiddev/comments/ps7h8x/release_kotlin_1531_jetbrainskotlin/)
-- [Kotlin android development tutorial for web developers](https://www.reddit.com/r/androiddev/comments/ps5wvx/kotlin_android_development_tutorial_for_web/)
-- [Exiting android emulator crashes my linux machine.](https://www.reddit.com/r/androiddev/comments/ps500g/exiting_android_emulator_crashes_my_linux_machine/)
-- [Mobile Apps validation approach](https://www.reddit.com/r/androiddev/comments/ps4mpj/mobile_apps_validation_approach/)
-- [Android 11 Send user directly to the Location Permission screen](https://www.reddit.com/r/androiddev/comments/ps1xek/android_11_send_user_directly_to_the_location/)
-- [First time app: licensing your terms of use/servive/copyright?](https://www.reddit.com/r/androiddev/comments/pryhis/first_time_app_licensing_your_terms_of/)
-- [Is app source code copyrighted?](https://www.reddit.com/r/androiddev/comments/prwglb/is_app_source_code_copyrighted/)
-- [Build applications with python](https://www.reddit.com/r/androiddev/comments/prvj9c/build_applications_with_python/)
-- [Noob question, can't find a tutorial on how to view all available network folders/smb](https://www.reddit.com/r/androiddev/comments/prv3wf/noob_question_cant_find_a_tutorial_on_how_to_view/)
+- [App Developers, do you know what causes device bans? And how to bypass that?](https://www.reddit.com/r/androiddev/comments/psv4uf/app_developers_do_you_know_what_causes_device/)
+- [Swipe to delete gesture animation in Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/pssm9j/swipe_to_delete_gesture_animation_in_jetpack/)
+- [Is Android 12's dynamic theming feature Pixel exclusive?](https://www.reddit.com/r/androiddev/comments/pss2kd/is_android_12s_dynamic_theming_feature_pixel/)
+- [Can Google PAD (fast-follow) reduce apk size?](https://www.reddit.com/r/androiddev/comments/psr9du/can_google_pad_fastfollow_reduce_apk_size/)
+- [How secure is Firebase AppCheck?](https://www.reddit.com/r/androiddev/comments/psox67/how_secure_is_firebase_appcheck/)
+- [Youtube | Open Source | Building Windows 97 themed Notepad App Using Jetpack Compose 🚀](https://www.reddit.com/r/androiddev/comments/psoclr/youtube_open_source_building_windows_97_themed/)
+- [Shimmer Effect for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/pslrxv/shimmer_effect_for_jetpack_compose/)
+- [Losing users.](https://www.reddit.com/r/androiddev/comments/psjpb4/losing_users/)
+- [I am newly in Android programming , i know Java not very good but at least. I want some your advices which chapters i should cover . Maybe some tips for Junior , please i will glad to any answers!](https://www.reddit.com/r/androiddev/comments/psiquk/i_am_newly_in_android_programming_i_know_java_not/)
+- [Weekly Questions Thread - September 21, 2021](https://www.reddit.com/r/androiddev/comments/psi8cs/weekly_questions_thread_september_21_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
