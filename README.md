@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App Developers, do you know what causes device bans? And how to bypass that?](https://www.reddit.com/r/androiddev/comments/psv4uf/app_developers_do_you_know_what_causes_device/)
-- [Swipe to delete gesture animation in Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/pssm9j/swipe_to_delete_gesture_animation_in_jetpack/)
-- [Is Android 12's dynamic theming feature Pixel exclusive?](https://www.reddit.com/r/androiddev/comments/pss2kd/is_android_12s_dynamic_theming_feature_pixel/)
-- [Can Google PAD (fast-follow) reduce apk size?](https://www.reddit.com/r/androiddev/comments/psr9du/can_google_pad_fastfollow_reduce_apk_size/)
-- [How secure is Firebase AppCheck?](https://www.reddit.com/r/androiddev/comments/psox67/how_secure_is_firebase_appcheck/)
-- [Youtube | Open Source | Building Windows 97 themed Notepad App Using Jetpack Compose 🚀](https://www.reddit.com/r/androiddev/comments/psoclr/youtube_open_source_building_windows_97_themed/)
-- [Shimmer Effect for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/pslrxv/shimmer_effect_for_jetpack_compose/)
-- [Losing users.](https://www.reddit.com/r/androiddev/comments/psjpb4/losing_users/)
-- [I am newly in Android programming , i know Java not very good but at least. I want some your advices which chapters i should cover . Maybe some tips for Junior , please i will glad to any answers!](https://www.reddit.com/r/androiddev/comments/psiquk/i_am_newly_in_android_programming_i_know_java_not/)
-- [Weekly Questions Thread - September 21, 2021](https://www.reddit.com/r/androiddev/comments/psi8cs/weekly_questions_thread_september_21_2021/)
+- [Do you really have Gradle configuration cache work on the Android project?](https://www.reddit.com/r/androiddev/comments/ptkso2/do_you_really_have_gradle_configuration_cache/)
+- [Released 𝚜𝚚𝚞𝚊𝚛𝚎/𝚕𝚘𝚐𝚌𝚊𝚝 – tiny Kotlin API for cheap logging on top of Android's normal 𝙻𝚘𝚐 class](https://www.reddit.com/r/androiddev/comments/pth0o7/released_𝚜𝚚𝚞𝚊𝚛𝚎𝚕𝚘𝚐𝚌𝚊𝚝_tiny_kotlin_api_for_cheap/)
+- [Smart Casting Does Not Work With Multiple Data Classes And Warns Me To Cast Then Saying No Need To Do This](https://www.reddit.com/r/androiddev/comments/ptgm6m/smart_casting_does_not_work_with_multiple_data/)
+- [Puppy adoption app UI using Compose](https://www.reddit.com/r/androiddev/comments/ptf8bv/puppy_adoption_app_ui_using_compose/)
+- [Recycler view as a alternative of scroll view?](https://www.reddit.com/r/androiddev/comments/ptcuwn/recycler_view_as_a_alternative_of_scroll_view/)
+- [Increase Your Efficiency as an Android Dev - Keyboard Shortcuts, ADB aliases, Live Templates](https://www.reddit.com/r/androiddev/comments/ptc1y7/increase_your_efficiency_as_an_android_dev/)
+- [Emulator with ADB and Google Play Services](https://www.reddit.com/r/androiddev/comments/ptbfqg/emulator_with_adb_and_google_play_services/)
+- [App resources "images" , "logo" copyright](https://www.reddit.com/r/androiddev/comments/ptamoh/app_resources_images_logo_copyright/)
+- [Do you(developers) know how much device ram your application consumes in best, normal and worst case scenarios?](https://www.reddit.com/r/androiddev/comments/ptaiud/do_youdevelopers_know_how_much_device_ram_your/)
+- [Keep getting Javadoc generation failed error only on Bitrise](https://www.reddit.com/r/androiddev/comments/pta6ia/keep_getting_javadoc_generation_failed_error_only/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
