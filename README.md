@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do you really have Gradle configuration cache work on the Android project?](https://www.reddit.com/r/androiddev/comments/ptkso2/do_you_really_have_gradle_configuration_cache/)
-- [Released 𝚜𝚚𝚞𝚊𝚛𝚎/𝚕𝚘𝚐𝚌𝚊𝚝 – tiny Kotlin API for cheap logging on top of Android's normal 𝙻𝚘𝚐 class](https://www.reddit.com/r/androiddev/comments/pth0o7/released_𝚜𝚚𝚞𝚊𝚛𝚎𝚕𝚘𝚐𝚌𝚊𝚝_tiny_kotlin_api_for_cheap/)
-- [Smart Casting Does Not Work With Multiple Data Classes And Warns Me To Cast Then Saying No Need To Do This](https://www.reddit.com/r/androiddev/comments/ptgm6m/smart_casting_does_not_work_with_multiple_data/)
-- [Puppy adoption app UI using Compose](https://www.reddit.com/r/androiddev/comments/ptf8bv/puppy_adoption_app_ui_using_compose/)
-- [Recycler view as a alternative of scroll view?](https://www.reddit.com/r/androiddev/comments/ptcuwn/recycler_view_as_a_alternative_of_scroll_view/)
-- [Increase Your Efficiency as an Android Dev - Keyboard Shortcuts, ADB aliases, Live Templates](https://www.reddit.com/r/androiddev/comments/ptc1y7/increase_your_efficiency_as_an_android_dev/)
-- [Emulator with ADB and Google Play Services](https://www.reddit.com/r/androiddev/comments/ptbfqg/emulator_with_adb_and_google_play_services/)
-- [App resources "images" , "logo" copyright](https://www.reddit.com/r/androiddev/comments/ptamoh/app_resources_images_logo_copyright/)
-- [Do you(developers) know how much device ram your application consumes in best, normal and worst case scenarios?](https://www.reddit.com/r/androiddev/comments/ptaiud/do_youdevelopers_know_how_much_device_ram_your/)
-- [Keep getting Javadoc generation failed error only on Bitrise](https://www.reddit.com/r/androiddev/comments/pta6ia/keep_getting_javadoc_generation_failed_error_only/)
+- [How else do you test your apps, apart from Unit Testing?](https://www.reddit.com/r/androiddev/comments/pu5c6k/how_else_do_you_test_your_apps_apart_from_unit/)
+- [[App architecture] Building app with multiple features/games like MPL.](https://www.reddit.com/r/androiddev/comments/pu37ju/app_architecture_building_app_with_multiple/)
+- [How much will this app take to develop/cost?](https://www.reddit.com/r/androiddev/comments/pu0dii/how_much_will_this_app_take_to_developcost/)
+- [[Room Database] How to get a default object if query can't find any such row?](https://www.reddit.com/r/androiddev/comments/ptzyov/room_database_how_to_get_a_default_object_if/)
+- [Android App - Hot spot, listening to pings](https://www.reddit.com/r/androiddev/comments/ptzg8w/android_app_hot_spot_listening_to_pings/)
+- [Animating gridview item](https://www.reddit.com/r/androiddev/comments/ptyzdd/animating_gridview_item/)
+- [3D cube launcher](https://www.reddit.com/r/androiddev/comments/ptvj95/3d_cube_launcher/)
+- [Android Gradle Plugin 7 LibraryBuildType no longer has isDebuggable property](https://www.reddit.com/r/androiddev/comments/ptvemu/android_gradle_plugin_7_librarybuildtype_no/)
+- [App dev time/cost calculator](https://www.reddit.com/r/androiddev/comments/ptuu1f/app_dev_timecost_calculator/)
+- [Question : Do android OS clears data from Android/data/com.package.name?](https://www.reddit.com/r/androiddev/comments/ptut4s/question_do_android_os_clears_data_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
