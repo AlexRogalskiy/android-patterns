@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How else do you test your apps, apart from Unit Testing?](https://www.reddit.com/r/androiddev/comments/pu5c6k/how_else_do_you_test_your_apps_apart_from_unit/)
-- [[App architecture] Building app with multiple features/games like MPL.](https://www.reddit.com/r/androiddev/comments/pu37ju/app_architecture_building_app_with_multiple/)
-- [How much will this app take to develop/cost?](https://www.reddit.com/r/androiddev/comments/pu0dii/how_much_will_this_app_take_to_developcost/)
-- [[Room Database] How to get a default object if query can't find any such row?](https://www.reddit.com/r/androiddev/comments/ptzyov/room_database_how_to_get_a_default_object_if/)
-- [Android App - Hot spot, listening to pings](https://www.reddit.com/r/androiddev/comments/ptzg8w/android_app_hot_spot_listening_to_pings/)
-- [Animating gridview item](https://www.reddit.com/r/androiddev/comments/ptyzdd/animating_gridview_item/)
-- [3D cube launcher](https://www.reddit.com/r/androiddev/comments/ptvj95/3d_cube_launcher/)
-- [Android Gradle Plugin 7 LibraryBuildType no longer has isDebuggable property](https://www.reddit.com/r/androiddev/comments/ptvemu/android_gradle_plugin_7_librarybuildtype_no/)
-- [App dev time/cost calculator](https://www.reddit.com/r/androiddev/comments/ptuu1f/app_dev_timecost_calculator/)
-- [Question : Do android OS clears data from Android/data/com.package.name?](https://www.reddit.com/r/androiddev/comments/ptut4s/question_do_android_os_clears_data_from/)
+- [Looking for Android Tutor](https://www.reddit.com/r/androiddev/comments/puwrqt/looking_for_android_tutor/)
+- [How can I get tab layout like this with the rounded indicator? (Example from GDrive)](https://www.reddit.com/r/androiddev/comments/puv972/how_can_i_get_tab_layout_like_this_with_the/)
+- [Launch Response Time](https://www.reddit.com/r/androiddev/comments/puuch8/launch_response_time/)
+- [Logcat/ADB question: can I determine a reason why my phone's display is constantly waking up?](https://www.reddit.com/r/androiddev/comments/put2sd/logcatadb_question_can_i_determine_a_reason_why/)
+- [Starting to realize, how much damaging is Google dominance over Android platform to users, developers and even phone manufacturers.](https://www.reddit.com/r/androiddev/comments/pusnte/starting_to_realize_how_much_damaging_is_google/)
+- [Which backend framework?](https://www.reddit.com/r/androiddev/comments/purxae/which_backend_framework/)
+- [Messenger inside Coroutine becomes null](https://www.reddit.com/r/androiddev/comments/puoeyt/messenger_inside_coroutine_becomes_null/)
+- [What are some good resources to get in depth knowledge of Gradle as an Android developer?](https://www.reddit.com/r/androiddev/comments/pulc1r/what_are_some_good_resources_to_get_in_depth/)
+- [How to Prepare Your Android App for a Pentest: The Bits and Pieces](https://www.reddit.com/r/androiddev/comments/puksg2/how_to_prepare_your_android_app_for_a_pentest_the/)
+- [Templates without Navigation component in Android Studio 4?](https://www.reddit.com/r/androiddev/comments/pukn4m/templates_without_navigation_component_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
