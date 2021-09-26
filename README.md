@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for Android Tutor](https://www.reddit.com/r/androiddev/comments/puwrqt/looking_for_android_tutor/)
-- [How can I get tab layout like this with the rounded indicator? (Example from GDrive)](https://www.reddit.com/r/androiddev/comments/puv972/how_can_i_get_tab_layout_like_this_with_the/)
-- [Launch Response Time](https://www.reddit.com/r/androiddev/comments/puuch8/launch_response_time/)
-- [Logcat/ADB question: can I determine a reason why my phone's display is constantly waking up?](https://www.reddit.com/r/androiddev/comments/put2sd/logcatadb_question_can_i_determine_a_reason_why/)
-- [Starting to realize, how much damaging is Google dominance over Android platform to users, developers and even phone manufacturers.](https://www.reddit.com/r/androiddev/comments/pusnte/starting_to_realize_how_much_damaging_is_google/)
-- [Which backend framework?](https://www.reddit.com/r/androiddev/comments/purxae/which_backend_framework/)
-- [Messenger inside Coroutine becomes null](https://www.reddit.com/r/androiddev/comments/puoeyt/messenger_inside_coroutine_becomes_null/)
-- [What are some good resources to get in depth knowledge of Gradle as an Android developer?](https://www.reddit.com/r/androiddev/comments/pulc1r/what_are_some_good_resources_to_get_in_depth/)
-- [How to Prepare Your Android App for a Pentest: The Bits and Pieces](https://www.reddit.com/r/androiddev/comments/puksg2/how_to_prepare_your_android_app_for_a_pentest_the/)
-- [Templates without Navigation component in Android Studio 4?](https://www.reddit.com/r/androiddev/comments/pukn4m/templates_without_navigation_component_in_android/)
+- [Question about Admob Campaign](https://www.reddit.com/r/androiddev/comments/pvk3jn/question_about_admob_campaign/)
+- [Convert Android’s Gradle files from Groovy to Kotlin Step by Step](https://www.reddit.com/r/androiddev/comments/pvidly/convert_androids_gradle_files_from_groovy_to/)
+- [Anyone uses the Huawei Ads kit to monetize?](https://www.reddit.com/r/androiddev/comments/pvht5r/anyone_uses_the_huawei_ads_kit_to_monetize/)
+- [Admob what % do we make from ads?](https://www.reddit.com/r/androiddev/comments/pvh3h2/admob_what_do_we_make_from_ads/)
+- [Hey Android Developers, Do you know that you can remove extra log data like time stamps or package name from logcat to focus more on the logs itself? Learn how to do it in this video.](https://www.reddit.com/r/androiddev/comments/pveg68/hey_android_developers_do_you_know_that_you_can/)
+- [Do you and how would you handle device being out of memory?](https://www.reddit.com/r/androiddev/comments/pvebe1/do_you_and_how_would_you_handle_device_being_out/)
+- [GitHub - OutSorcerer/pocket-automl-android-tutorial: Pocket AutoML: Tutorial for Creating an Android App for Image Classification with Deep Learning](https://www.reddit.com/r/androiddev/comments/pvd19u/github_outsorcererpocketautomlandroidtutorial/)
+- [Hi everyone!Is selling source code of android apps that i made profitable or not?Has anyone ever earned decent amount selling source code?](https://www.reddit.com/r/androiddev/comments/pvcdfm/hi_everyoneis_selling_source_code_of_android_apps/)
+- [How do i make Click events with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/pvc9s9/how_do_i_make_click_events_with_jetpack_compose/)
+- [What's the best way to duplicate a block of code into multiple activities/fragments?](https://www.reddit.com/r/androiddev/comments/pv9etw/whats_the_best_way_to_duplicate_a_block_of_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
