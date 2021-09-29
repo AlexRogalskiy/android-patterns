@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a type of notification/popup that can be created using Native Apps that isn't replicable via websites?](https://www.reddit.com/r/androiddev/comments/pwvi2r/is_there_a_type_of_notificationpopup_that_can_be/)
-- [Why torrent apps for android?](https://www.reddit.com/r/androiddev/comments/pwsfn2/why_torrent_apps_for_android/)
-- [Anyone knows what those 4 X 2 , 1 X 2, etc information is all about in widgets screen ?](https://www.reddit.com/r/androiddev/comments/pwrtw9/anyone_knows_what_those_4_x_2_1_x_2_etc/)
-- [Is it possible to develop an open-source app while still have subscription based business model within in it?](https://www.reddit.com/r/androiddev/comments/pwr04q/is_it_possible_to_develop_an_opensource_app_while/)
-- [Windows for Android dev](https://www.reddit.com/r/androiddev/comments/pwquvf/windows_for_android_dev/)
-- [Hey Android Developers, Do you know that you can validate and debug your Android app Analytics implementation using Firebase Debug View? Learn how to do it in this video:](https://www.reddit.com/r/androiddev/comments/pwqgdl/hey_android_developers_do_you_know_that_you_can/)
-- [Is VOIP protocol implementation more or less uniform for all apps?](https://www.reddit.com/r/androiddev/comments/pwnazh/is_voip_protocol_implementation_more_or_less/)
-- [Hello friends, i have an application that seems to only install via Android Studio when i try to use the Apk i keep getting a App not Installed error](https://www.reddit.com/r/androiddev/comments/pwmug9/hello_friends_i_have_an_application_that_seems_to/)
-- [Is there a way to embbed a complex flutter app thats uses flutter_storyBook, in a native Kotlin App as a module?](https://www.reddit.com/r/androiddev/comments/pwmf3u/is_there_a_way_to_embbed_a_complex_flutter_app/)
-- [The Kotlin serialization library v1.3.0 is now available allowing serializing and deserializing Java IO stream! You can now read and write JSON directly to network streams or files. 🎉](https://www.reddit.com/r/androiddev/comments/pwkq2v/the_kotlin_serialization_library_v130_is_now/)
+- [How does android app system works?](https://www.reddit.com/r/androiddev/comments/pxkm9o/how_does_android_app_system_works/)
+- [Why is "DAU/MAU vs. peers" not showing data in play console?](https://www.reddit.com/r/androiddev/comments/pxekfv/why_is_daumau_vs_peers_not_showing_data_in_play/)
+- [The lack of documention about Material You colors is disturbing](https://www.reddit.com/r/androiddev/comments/pxdmch/the_lack_of_documention_about_material_you_colors/)
+- [Selling Android app via escrow.com](https://www.reddit.com/r/androiddev/comments/pxd2hh/selling_android_app_via_escrowcom/)
+- [Caribou - a tool to help your team manage software migrations (like migrating to Jetpack Compose) in a collaborative and data-driven way.](https://www.reddit.com/r/androiddev/comments/pxbjqo/caribou_a_tool_to_help_your_team_manage_software/)
+- [How to obtain resource id from UIautomator event](https://www.reddit.com/r/androiddev/comments/pxb7bs/how_to_obtain_resource_id_from_uiautomator_event/)
+- [Google Play Content Rating](https://www.reddit.com/r/androiddev/comments/px6nld/google_play_content_rating/)
+- [What are some of the things to keep in mind before changing developers for my app?](https://www.reddit.com/r/androiddev/comments/px6niw/what_are_some_of_the_things_to_keep_in_mind/)
+- [Weekly Questions Thread - September 28, 2021](https://www.reddit.com/r/androiddev/comments/px5vgg/weekly_questions_thread_september_28_2021/)
+- [java.lang.RuntimeException: Canvas: trying to draw too large(122680608bytes) bitmap.](https://www.reddit.com/r/androiddev/comments/px384u/javalangruntimeexception_canvas_trying_to_draw/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
