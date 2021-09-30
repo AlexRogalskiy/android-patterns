@@ -284,6 +284,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft weighs in on Surface Duo apps](https://www.infoworld.com/article/3634419/microsoft-weighs-in-on-surface-duo-apps.html#tk.rss_android)
 - [Google Flutter 2.5 UI kit is now stable](https://www.infoworld.com/article/3632887/google-flutter-25-ui-kit-is-now-stable.html#tk.rss_android)
 - [Jetpack Compose for Android turns GA](https://www.infoworld.com/article/3627298/jetpack-compose-for-android-turns-ga.html#tk.rss_android)
 - [Microsoft sunsets Xamarin toolkit](https://www.infoworld.com/article/3626453/microsoft-sunsets-xamarin-toolkit.html#tk.rss_android)
@@ -293,7 +294,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google wins Java dispute, Oracle remains defiant](https://www.infoworld.com/article/3614083/google-wins-java-dispute-oracle-remains-defiant.html#tk.rss_android)
 - [PinePhone: A Linux smartphone a developer could love](https://www.infoworld.com/article/3610602/pinephone-a-linux-smartphone-a-developer-could-love.html#tk.rss_android)
 - [Google Jetpack Compose Android UI toolkit now in beta](https://www.infoworld.com/article/3609830/google-jetpack-compose-android-ui-toolkit-now-in-beta.html#tk.rss_android)
-- [Android 12 developer preview bolsters privacy, user experience](https://www.infoworld.com/article/3608937/android-12-developer-preview-bolsters-privacy-user-experience.html#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
