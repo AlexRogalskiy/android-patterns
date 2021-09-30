@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How does android app system works?](https://www.reddit.com/r/androiddev/comments/pxkm9o/how_does_android_app_system_works/)
-- [Why is "DAU/MAU vs. peers" not showing data in play console?](https://www.reddit.com/r/androiddev/comments/pxekfv/why_is_daumau_vs_peers_not_showing_data_in_play/)
-- [The lack of documention about Material You colors is disturbing](https://www.reddit.com/r/androiddev/comments/pxdmch/the_lack_of_documention_about_material_you_colors/)
-- [Selling Android app via escrow.com](https://www.reddit.com/r/androiddev/comments/pxd2hh/selling_android_app_via_escrowcom/)
-- [Caribou - a tool to help your team manage software migrations (like migrating to Jetpack Compose) in a collaborative and data-driven way.](https://www.reddit.com/r/androiddev/comments/pxbjqo/caribou_a_tool_to_help_your_team_manage_software/)
-- [How to obtain resource id from UIautomator event](https://www.reddit.com/r/androiddev/comments/pxb7bs/how_to_obtain_resource_id_from_uiautomator_event/)
-- [Google Play Content Rating](https://www.reddit.com/r/androiddev/comments/px6nld/google_play_content_rating/)
-- [What are some of the things to keep in mind before changing developers for my app?](https://www.reddit.com/r/androiddev/comments/px6niw/what_are_some_of_the_things_to_keep_in_mind/)
-- [Weekly Questions Thread - September 28, 2021](https://www.reddit.com/r/androiddev/comments/px5vgg/weekly_questions_thread_september_28_2021/)
-- [java.lang.RuntimeException: Canvas: trying to draw too large(122680608bytes) bitmap.](https://www.reddit.com/r/androiddev/comments/px384u/javalangruntimeexception_canvas_trying_to_draw/)
+- [For those that became an Android dev while while working, how long did it take?](https://www.reddit.com/r/androiddev/comments/py9oab/for_those_that_became_an_android_dev_while_while/)
+- [Is SDK development a good career move?](https://www.reddit.com/r/androiddev/comments/py846k/is_sdk_development_a_good_career_move/)
+- [Has anyone made hardlinks like on Windows tablet? My company requires a legacy app -- Kiwix -- but it doesn't support external storage on my tablet, so I got to thinking: Linux/Windows/OSX all solve this the same way for all their software, maybe Android can do it in a generalizable way too?](https://www.reddit.com/r/androiddev/comments/py72qd/has_anyone_made_hardlinks_like_on_windows_tablet/)
+- [is it still a good time to learn Android development?](https://www.reddit.com/r/androiddev/comments/py66tn/is_it_still_a_good_time_to_learn_android/)
+- [What is the realistic income increase using Ad Mediation?](https://www.reddit.com/r/androiddev/comments/py4mk8/what_is_the_realistic_income_increase_using_ad/)
+- [Recommended approach to determining when to run a DataStore migration?](https://www.reddit.com/r/androiddev/comments/py2cnn/recommended_approach_to_determining_when_to_run_a/)
+- [Many users complain they can't download our app on Gplay](https://www.reddit.com/r/androiddev/comments/py11n0/many_users_complain_they_cant_download_our_app_on/)
+- [Do you know nice project with dagger2?](https://www.reddit.com/r/androiddev/comments/py08ka/do_you_know_nice_project_with_dagger2/)
+- [Android United Slack Group](https://www.reddit.com/r/androiddev/comments/pxzjwv/android_united_slack_group/)
+- [Found my .apk file on a Chinese website](https://www.reddit.com/r/androiddev/comments/pxxrf4/found_my_apk_file_on_a_chinese_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
