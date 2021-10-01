@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [For those that became an Android dev while while working, how long did it take?](https://www.reddit.com/r/androiddev/comments/py9oab/for_those_that_became_an_android_dev_while_while/)
-- [Is SDK development a good career move?](https://www.reddit.com/r/androiddev/comments/py846k/is_sdk_development_a_good_career_move/)
-- [Has anyone made hardlinks like on Windows tablet? My company requires a legacy app -- Kiwix -- but it doesn't support external storage on my tablet, so I got to thinking: Linux/Windows/OSX all solve this the same way for all their software, maybe Android can do it in a generalizable way too?](https://www.reddit.com/r/androiddev/comments/py72qd/has_anyone_made_hardlinks_like_on_windows_tablet/)
-- [is it still a good time to learn Android development?](https://www.reddit.com/r/androiddev/comments/py66tn/is_it_still_a_good_time_to_learn_android/)
-- [What is the realistic income increase using Ad Mediation?](https://www.reddit.com/r/androiddev/comments/py4mk8/what_is_the_realistic_income_increase_using_ad/)
-- [Recommended approach to determining when to run a DataStore migration?](https://www.reddit.com/r/androiddev/comments/py2cnn/recommended_approach_to_determining_when_to_run_a/)
-- [Many users complain they can't download our app on Gplay](https://www.reddit.com/r/androiddev/comments/py11n0/many_users_complain_they_cant_download_our_app_on/)
-- [Do you know nice project with dagger2?](https://www.reddit.com/r/androiddev/comments/py08ka/do_you_know_nice_project_with_dagger2/)
-- [Android United Slack Group](https://www.reddit.com/r/androiddev/comments/pxzjwv/android_united_slack_group/)
-- [Found my .apk file on a Chinese website](https://www.reddit.com/r/androiddev/comments/pxxrf4/found_my_apk_file_on_a_chinese_website/)
+- [I'm trying to move from only-used-by-me projects to releasable projects, but I could use some advice on how to set up API key protection.](https://www.reddit.com/r/androiddev/comments/pywdog/im_trying_to_move_from_onlyusedbyme_projects_to/)
+- [If your app require a device unique ID for tracking data or white listing device, watch this video to get some idea how it should be done!](https://www.reddit.com/r/androiddev/comments/pyubfb/if_your_app_require_a_device_unique_id_for/)
+- [Firebase Remote Config: in-app default parameter values](https://www.reddit.com/r/androiddev/comments/pytf0c/firebase_remote_config_inapp_default_parameter/)
+- [MediaCodec+Camera2](https://www.reddit.com/r/androiddev/comments/pys9tj/mediacodeccamera2/)
+- [Using Jetpack Compose in production](https://www.reddit.com/r/androiddev/comments/pys6mo/using_jetpack_compose_in_production/)
+- [Upgraded to Arctic Fox 2020.3.1 and my "src/main/jni" is not showing in the project anymore.](https://www.reddit.com/r/androiddev/comments/pyq9ni/upgraded_to_arctic_fox_202031_and_my_srcmainjni/)
+- [Simple Button Design](https://www.reddit.com/r/androiddev/comments/pyq66z/simple_button_design/)
+- [how to bypass an apps ability to know is being run on an emulator rather then a real device?](https://www.reddit.com/r/androiddev/comments/pyp9rb/how_to_bypass_an_apps_ability_to_know_is_being/)
+- [Published a blog post on Firebase chat app](https://www.reddit.com/r/androiddev/comments/pyo6yd/published_a_blog_post_on_firebase_chat_app/)
+- [Android Studio Bumblebee Canary 13 available](https://www.reddit.com/r/androiddev/comments/pynz1v/android_studio_bumblebee_canary_13_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
