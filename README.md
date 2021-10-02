@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I'm trying to move from only-used-by-me projects to releasable projects, but I could use some advice on how to set up API key protection.](https://www.reddit.com/r/androiddev/comments/pywdog/im_trying_to_move_from_onlyusedbyme_projects_to/)
-- [If your app require a device unique ID for tracking data or white listing device, watch this video to get some idea how it should be done!](https://www.reddit.com/r/androiddev/comments/pyubfb/if_your_app_require_a_device_unique_id_for/)
-- [Firebase Remote Config: in-app default parameter values](https://www.reddit.com/r/androiddev/comments/pytf0c/firebase_remote_config_inapp_default_parameter/)
-- [MediaCodec+Camera2](https://www.reddit.com/r/androiddev/comments/pys9tj/mediacodeccamera2/)
-- [Using Jetpack Compose in production](https://www.reddit.com/r/androiddev/comments/pys6mo/using_jetpack_compose_in_production/)
-- [Upgraded to Arctic Fox 2020.3.1 and my "src/main/jni" is not showing in the project anymore.](https://www.reddit.com/r/androiddev/comments/pyq9ni/upgraded_to_arctic_fox_202031_and_my_srcmainjni/)
-- [Simple Button Design](https://www.reddit.com/r/androiddev/comments/pyq66z/simple_button_design/)
-- [how to bypass an apps ability to know is being run on an emulator rather then a real device?](https://www.reddit.com/r/androiddev/comments/pyp9rb/how_to_bypass_an_apps_ability_to_know_is_being/)
-- [Published a blog post on Firebase chat app](https://www.reddit.com/r/androiddev/comments/pyo6yd/published_a_blog_post_on_firebase_chat_app/)
-- [Android Studio Bumblebee Canary 13 available](https://www.reddit.com/r/androiddev/comments/pynz1v/android_studio_bumblebee_canary_13_available/)
+- [How does keyboard development compare to app development?](https://www.reddit.com/r/androiddev/comments/pzkjno/how_does_keyboard_development_compare_to_app/)
+- [Easiest way to make a simple soundboard app with no experience?](https://www.reddit.com/r/androiddev/comments/pzk3z2/easiest_way_to_make_a_simple_soundboard_app_with/)
+- [How to find out which Android devices are my user's using?](https://www.reddit.com/r/androiddev/comments/pzim1j/how_to_find_out_which_android_devices_are_my/)
+- [Publishing apps for others](https://www.reddit.com/r/androiddev/comments/pzga8l/publishing_apps_for_others/)
+- [Can i open a play store developer account in another country to unlock in game purchases ?](https://www.reddit.com/r/androiddev/comments/pzfw7c/can_i_open_a_play_store_developer_account_in/)
+- [How to mitigate reverse engineering attacks](https://www.reddit.com/r/androiddev/comments/pzez3x/how_to_mitigate_reverse_engineering_attacks/)
+- [App suspended from the Play Store](https://www.reddit.com/r/androiddev/comments/pzdj6e/app_suspended_from_the_play_store/)
+- [How to calculate retention?](https://www.reddit.com/r/androiddev/comments/pzclow/how_to_calculate_retention/)
+- [Which (Jetpack) libraries are not available to use from Java at this moment?](https://www.reddit.com/r/androiddev/comments/pza0ee/which_jetpack_libraries_are_not_available_to_use/)
+- [Updating my tech stack: RxJava vs Flow](https://www.reddit.com/r/androiddev/comments/pz9afi/updating_my_tech_stack_rxjava_vs_flow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
