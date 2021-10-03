@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How does keyboard development compare to app development?](https://www.reddit.com/r/androiddev/comments/pzkjno/how_does_keyboard_development_compare_to_app/)
-- [Easiest way to make a simple soundboard app with no experience?](https://www.reddit.com/r/androiddev/comments/pzk3z2/easiest_way_to_make_a_simple_soundboard_app_with/)
-- [How to find out which Android devices are my user's using?](https://www.reddit.com/r/androiddev/comments/pzim1j/how_to_find_out_which_android_devices_are_my/)
-- [Publishing apps for others](https://www.reddit.com/r/androiddev/comments/pzga8l/publishing_apps_for_others/)
-- [Can i open a play store developer account in another country to unlock in game purchases ?](https://www.reddit.com/r/androiddev/comments/pzfw7c/can_i_open_a_play_store_developer_account_in/)
-- [How to mitigate reverse engineering attacks](https://www.reddit.com/r/androiddev/comments/pzez3x/how_to_mitigate_reverse_engineering_attacks/)
-- [App suspended from the Play Store](https://www.reddit.com/r/androiddev/comments/pzdj6e/app_suspended_from_the_play_store/)
-- [How to calculate retention?](https://www.reddit.com/r/androiddev/comments/pzclow/how_to_calculate_retention/)
-- [Which (Jetpack) libraries are not available to use from Java at this moment?](https://www.reddit.com/r/androiddev/comments/pza0ee/which_jetpack_libraries_are_not_available_to_use/)
-- [Updating my tech stack: RxJava vs Flow](https://www.reddit.com/r/androiddev/comments/pz9afi/updating_my_tech_stack_rxjava_vs_flow/)
+- [How to integrate a SINGLE MoPub Native ad in a Relative Layout (using java)?](https://www.reddit.com/r/androiddev/comments/q078uv/how_to_integrate_a_single_mopub_native_ad_in_a/)
+- [How long you guys took learning compose for building some project by yourself?](https://www.reddit.com/r/androiddev/comments/q06zkq/how_long_you_guys_took_learning_compose_for/)
+- [Ethernet losing static address on power loss](https://www.reddit.com/r/androiddev/comments/q06444/ethernet_losing_static_address_on_power_loss/)
+- [How can I make nested Recyclerview clickable as a whole view?](https://www.reddit.com/r/androiddev/comments/q0480p/how_can_i_make_nested_recyclerview_clickable_as_a/)
+- [How Google destroyed our startup by terminating our Google Play Developer Account](https://www.reddit.com/r/androiddev/comments/pzxi4y/how_google_destroyed_our_startup_by_terminating/)
+- [How legitmate these claims about "Google Ban by Association"? are these people really innocent? can a company's dev account get banned by just having a banned Employee?isnt that an exageration?](https://www.reddit.com/r/androiddev/comments/pzx9xe/how_legitmate_these_claims_about_google_ban_by/)
+- [Did anyone of you start Android development (instead of iOS or both) because you didn't have a Mac?](https://www.reddit.com/r/androiddev/comments/pzx545/did_anyone_of_you_start_android_development/)
+- [Scheduling network task in cron job fashion](https://www.reddit.com/r/androiddev/comments/pzrz7r/scheduling_network_task_in_cron_job_fashion/)
+- [Flutter limitations](https://www.reddit.com/r/androiddev/comments/pzqmuv/flutter_limitations/)
+- [How do I export for an Android app splash screen from Adobe after effects?](https://www.reddit.com/r/androiddev/comments/pzqkj8/how_do_i_export_for_an_android_app_splash_screen/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
