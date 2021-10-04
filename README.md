@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to integrate a SINGLE MoPub Native ad in a Relative Layout (using java)?](https://www.reddit.com/r/androiddev/comments/q078uv/how_to_integrate_a_single_mopub_native_ad_in_a/)
-- [How long you guys took learning compose for building some project by yourself?](https://www.reddit.com/r/androiddev/comments/q06zkq/how_long_you_guys_took_learning_compose_for/)
-- [Ethernet losing static address on power loss](https://www.reddit.com/r/androiddev/comments/q06444/ethernet_losing_static_address_on_power_loss/)
-- [How can I make nested Recyclerview clickable as a whole view?](https://www.reddit.com/r/androiddev/comments/q0480p/how_can_i_make_nested_recyclerview_clickable_as_a/)
-- [How Google destroyed our startup by terminating our Google Play Developer Account](https://www.reddit.com/r/androiddev/comments/pzxi4y/how_google_destroyed_our_startup_by_terminating/)
-- [How legitmate these claims about "Google Ban by Association"? are these people really innocent? can a company's dev account get banned by just having a banned Employee?isnt that an exageration?](https://www.reddit.com/r/androiddev/comments/pzx9xe/how_legitmate_these_claims_about_google_ban_by/)
-- [Did anyone of you start Android development (instead of iOS or both) because you didn't have a Mac?](https://www.reddit.com/r/androiddev/comments/pzx545/did_anyone_of_you_start_android_development/)
-- [Scheduling network task in cron job fashion](https://www.reddit.com/r/androiddev/comments/pzrz7r/scheduling_network_task_in_cron_job_fashion/)
-- [Flutter limitations](https://www.reddit.com/r/androiddev/comments/pzqmuv/flutter_limitations/)
-- [How do I export for an Android app splash screen from Adobe after effects?](https://www.reddit.com/r/androiddev/comments/pzqkj8/how_do_i_export_for_an_android_app_splash_screen/)
+- [Installed Android 12 back in August and about a month after that the phone got wet so I went ahead and dried it out and when I try to power it back on it's stuck on the Android logo startup and won't go into the phone. Any advice?](https://www.reddit.com/r/androiddev/comments/q0vht4/installed_android_12_back_in_august_and_about_a/)
+- [Thanks to this sub I just got hired](https://www.reddit.com/r/androiddev/comments/q0vdgg/thanks_to_this_sub_i_just_got_hired/)
+- [How to save room database list after drag and drop in recyclerview?](https://www.reddit.com/r/androiddev/comments/q0u5g5/how_to_save_room_database_list_after_drag_and/)
+- [My volume key no longer changes the media volume, it just changes this weird icon that does nothing.](https://www.reddit.com/r/androiddev/comments/q0u1fz/my_volume_key_no_longer_changes_the_media_volume/)
+- [What format is compatible for importing an animated splash screen?](https://www.reddit.com/r/androiddev/comments/q0r7pn/what_format_is_compatible_for_importing_an/)
+- [Jetpack Compose - Login Form Validation (Building a Login Screen Part 2)](https://www.reddit.com/r/androiddev/comments/q0qxed/jetpack_compose_login_form_validation_building_a/)
+- [Is anyone else's app updates getting stuck "in review" for over 24 hrs now?](https://www.reddit.com/r/androiddev/comments/q0q8qp/is_anyone_elses_app_updates_getting_stuck_in/)
+- [Is there any way to delete the browsing history of "com.android.browser" from the program?](https://www.reddit.com/r/androiddev/comments/q0q4dv/is_there_any_way_to_delete_the_browsing_history/)
+- [App suspended from Play Store for not having a privacy policy. Appeal rejected even after adding a privacy policy.](https://www.reddit.com/r/androiddev/comments/q0occt/app_suspended_from_play_store_for_not_having_a/)
+- [Android Application class ?](https://www.reddit.com/r/androiddev/comments/q0nepl/android_application_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
