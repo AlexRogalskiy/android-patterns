@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Installed Android 12 back in August and about a month after that the phone got wet so I went ahead and dried it out and when I try to power it back on it's stuck on the Android logo startup and won't go into the phone. Any advice?](https://www.reddit.com/r/androiddev/comments/q0vht4/installed_android_12_back_in_august_and_about_a/)
-- [Thanks to this sub I just got hired](https://www.reddit.com/r/androiddev/comments/q0vdgg/thanks_to_this_sub_i_just_got_hired/)
-- [How to save room database list after drag and drop in recyclerview?](https://www.reddit.com/r/androiddev/comments/q0u5g5/how_to_save_room_database_list_after_drag_and/)
-- [My volume key no longer changes the media volume, it just changes this weird icon that does nothing.](https://www.reddit.com/r/androiddev/comments/q0u1fz/my_volume_key_no_longer_changes_the_media_volume/)
-- [What format is compatible for importing an animated splash screen?](https://www.reddit.com/r/androiddev/comments/q0r7pn/what_format_is_compatible_for_importing_an/)
-- [Jetpack Compose - Login Form Validation (Building a Login Screen Part 2)](https://www.reddit.com/r/androiddev/comments/q0qxed/jetpack_compose_login_form_validation_building_a/)
-- [Is anyone else's app updates getting stuck "in review" for over 24 hrs now?](https://www.reddit.com/r/androiddev/comments/q0q8qp/is_anyone_elses_app_updates_getting_stuck_in/)
-- [Is there any way to delete the browsing history of "com.android.browser" from the program?](https://www.reddit.com/r/androiddev/comments/q0q4dv/is_there_any_way_to_delete_the_browsing_history/)
-- [App suspended from Play Store for not having a privacy policy. Appeal rejected even after adding a privacy policy.](https://www.reddit.com/r/androiddev/comments/q0occt/app_suspended_from_play_store_for_not_having_a/)
-- [Android Application class ?](https://www.reddit.com/r/androiddev/comments/q0nepl/android_application_class/)
+- [What is your currently configured SharedFlow implementation ?](https://www.reddit.com/r/androiddev/comments/q1joi2/what_is_your_currently_configured_sharedflow/)
+- [Back to Android after a 3.5y break](https://www.reddit.com/r/androiddev/comments/q1g0el/back_to_android_after_a_35y_break/)
+- [In this video you will learn how to use String Manipulation Plugin to define your data classes faster in Android Studio.](https://www.reddit.com/r/androiddev/comments/q1ce8u/in_this_video_you_will_learn_how_to_use_string/)
+- [Material Components 1.5.0-alpha04 · More Material 3/You](https://www.reddit.com/r/androiddev/comments/q1c4j8/material_components_150alpha04_more_material_3you/)
+- [Google integrated Android Runtime (ART) into the Project Mainline - what are the consequences (to custom ROMs, OEMs, mobile carriers, developers)?](https://www.reddit.com/r/androiddev/comments/q1c15z/google_integrated_android_runtime_art_into_the/)
+- [Google launches the stable version of Android 12](https://www.reddit.com/r/androiddev/comments/q1b65y/google_launches_the_stable_version_of_android_12/)
+- [Android 12 is live in AOSP!](https://www.reddit.com/r/androiddev/comments/q1aynd/android_12_is_live_in_aosp/)
+- [Bottom Nav in Jetpack Compose with other full screens.](https://www.reddit.com/r/androiddev/comments/q1ajuz/bottom_nav_in_jetpack_compose_with_other_full/)
+- [Jetpack Compose for iOS!](https://www.reddit.com/r/androiddev/comments/q1a1wt/jetpack_compose_for_ios/)
+- [Disable Managed Google Play?](https://www.reddit.com/r/androiddev/comments/q19a3y/disable_managed_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
