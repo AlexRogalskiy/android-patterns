@@ -258,6 +258,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 
 [![Stargazers over time](https://starchart.cc/AlexRogalskiy/android-patterns.svg)][stars_chart]
 
+[![Statistics report](https://cauldron.io/project/5126/stats.svg)][stats_chart]
+
 ## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
@@ -424,6 +426,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 [stars]: https://github.com/AlexRogalskiy/android-patterns/stargazers
 
 [stars_chart]: https://starchart.cc/AlexRogalskiy/android-patterns
+
+[stats_chart]: https://cauldron.io/project/5126
 
 [contributors]: https://github.com/AlexRogalskiy/android-patterns/graphs/contributors
 
