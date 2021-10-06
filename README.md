@@ -269,16 +269,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is your currently configured SharedFlow implementation ?](https://www.reddit.com/r/androiddev/comments/q1joi2/what_is_your_currently_configured_sharedflow/)
-- [Back to Android after a 3.5y break](https://www.reddit.com/r/androiddev/comments/q1g0el/back_to_android_after_a_35y_break/)
-- [In this video you will learn how to use String Manipulation Plugin to define your data classes faster in Android Studio.](https://www.reddit.com/r/androiddev/comments/q1ce8u/in_this_video_you_will_learn_how_to_use_string/)
-- [Material Components 1.5.0-alpha04 · More Material 3/You](https://www.reddit.com/r/androiddev/comments/q1c4j8/material_components_150alpha04_more_material_3you/)
-- [Google integrated Android Runtime (ART) into the Project Mainline - what are the consequences (to custom ROMs, OEMs, mobile carriers, developers)?](https://www.reddit.com/r/androiddev/comments/q1c15z/google_integrated_android_runtime_art_into_the/)
-- [Google launches the stable version of Android 12](https://www.reddit.com/r/androiddev/comments/q1b65y/google_launches_the_stable_version_of_android_12/)
-- [Android 12 is live in AOSP!](https://www.reddit.com/r/androiddev/comments/q1aynd/android_12_is_live_in_aosp/)
-- [Bottom Nav in Jetpack Compose with other full screens.](https://www.reddit.com/r/androiddev/comments/q1ajuz/bottom_nav_in_jetpack_compose_with_other_full/)
-- [Jetpack Compose for iOS!](https://www.reddit.com/r/androiddev/comments/q1a1wt/jetpack_compose_for_ios/)
-- [Disable Managed Google Play?](https://www.reddit.com/r/androiddev/comments/q19a3y/disable_managed_google_play/)
+- [RecyclerView Fast Smooth Scroll To Top](https://www.reddit.com/r/androiddev/comments/q2a4xj/recyclerview_fast_smooth_scroll_to_top/)
+- [This was reported in 2012 🙈](https://www.reddit.com/r/androiddev/comments/q26iqr/this_was_reported_in_2012/)
+- [Constraint layout, textview and ellipsize, a sad long story..](https://www.reddit.com/r/androiddev/comments/q25uba/constraint_layout_textview_and_ellipsize_a_sad/)
+- [Unity, app bundle signing keys, ELI5](https://www.reddit.com/r/androiddev/comments/q251os/unity_app_bundle_signing_keys_eli5/)
+- [Calculating dips by the formula px/dp = dpi/dpi for screen resolution](https://www.reddit.com/r/androiddev/comments/q23ukc/calculating_dips_by_the_formula_pxdp_dpidpi_for/)
+- [8 Tips Learned from Adding Payments to DoorDash's Android App](https://www.reddit.com/r/androiddev/comments/q236s4/8_tips_learned_from_adding_payments_to_doordashs/)
+- [Android 12 Is Here To Impress You With Android Open Source Project](https://www.reddit.com/r/androiddev/comments/q229gl/android_12_is_here_to_impress_you_with_android/)
+- [Firebase Authentication [All official development resources]](https://www.reddit.com/r/androiddev/comments/q217ot/firebase_authentication_all_official_development/)
+- [AdSense account has been disabled even though app is in early access.](https://www.reddit.com/r/androiddev/comments/q20boy/adsense_account_has_been_disabled_even_though_app/)
+- [Drag to reorder in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/q206ou/drag_to_reorder_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
