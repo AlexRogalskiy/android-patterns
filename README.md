@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [RecyclerView Fast Smooth Scroll To Top](https://www.reddit.com/r/androiddev/comments/q2a4xj/recyclerview_fast_smooth_scroll_to_top/)
-- [This was reported in 2012 🙈](https://www.reddit.com/r/androiddev/comments/q26iqr/this_was_reported_in_2012/)
-- [Constraint layout, textview and ellipsize, a sad long story..](https://www.reddit.com/r/androiddev/comments/q25uba/constraint_layout_textview_and_ellipsize_a_sad/)
-- [Unity, app bundle signing keys, ELI5](https://www.reddit.com/r/androiddev/comments/q251os/unity_app_bundle_signing_keys_eli5/)
-- [Calculating dips by the formula px/dp = dpi/dpi for screen resolution](https://www.reddit.com/r/androiddev/comments/q23ukc/calculating_dips_by_the_formula_pxdp_dpidpi_for/)
-- [8 Tips Learned from Adding Payments to DoorDash's Android App](https://www.reddit.com/r/androiddev/comments/q236s4/8_tips_learned_from_adding_payments_to_doordashs/)
-- [Android 12 Is Here To Impress You With Android Open Source Project](https://www.reddit.com/r/androiddev/comments/q229gl/android_12_is_here_to_impress_you_with_android/)
-- [Firebase Authentication [All official development resources]](https://www.reddit.com/r/androiddev/comments/q217ot/firebase_authentication_all_official_development/)
-- [AdSense account has been disabled even though app is in early access.](https://www.reddit.com/r/androiddev/comments/q20boy/adsense_account_has_been_disabled_even_though_app/)
-- [Drag to reorder in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/q206ou/drag_to_reorder_in_jetpack_compose/)
+- [how can I group my elements by section?](https://www.reddit.com/r/androiddev/comments/q2w562/how_can_i_group_my_elements_by_section/)
+- [Android visual design, how to](https://www.reddit.com/r/androiddev/comments/q2tqew/android_visual_design_how_to/)
+- [Is using an API on mobile app published to play store considered business use?](https://www.reddit.com/r/androiddev/comments/q2r04w/is_using_an_api_on_mobile_app_published_to_play/)
+- [Best beginner friendly courses for android](https://www.reddit.com/r/androiddev/comments/q2pq9t/best_beginner_friendly_courses_for_android/)
+- [7 things you should know before using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/q2mz8d/7_things_you_should_know_before_using_jetpack/)
+- [Making games about chidren fairy tales](https://www.reddit.com/r/androiddev/comments/q2l65r/making_games_about_chidren_fairy_tales/)
+- [Is there anything wrong to do repository operation from inside RecyclerView Adapter?](https://www.reddit.com/r/androiddev/comments/q2kgh2/is_there_anything_wrong_to_do_repository/)
+- [Is Samsung's "Color theme" in One ui 4 beta 2 different from Google's material you?](https://www.reddit.com/r/androiddev/comments/q2kck3/is_samsungs_color_theme_in_one_ui_4_beta_2/)
+- [Suggestions how to prepare for job interview?](https://www.reddit.com/r/androiddev/comments/q2jupp/suggestions_how_to_prepare_for_job_interview/)
+- [Can someone link or help me out with what data can we get on publishing an app to play store?](https://www.reddit.com/r/androiddev/comments/q2iak8/can_someone_link_or_help_me_out_with_what_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
