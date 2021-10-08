@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [how can I group my elements by section?](https://www.reddit.com/r/androiddev/comments/q2w562/how_can_i_group_my_elements_by_section/)
-- [Android visual design, how to](https://www.reddit.com/r/androiddev/comments/q2tqew/android_visual_design_how_to/)
-- [Is using an API on mobile app published to play store considered business use?](https://www.reddit.com/r/androiddev/comments/q2r04w/is_using_an_api_on_mobile_app_published_to_play/)
-- [Best beginner friendly courses for android](https://www.reddit.com/r/androiddev/comments/q2pq9t/best_beginner_friendly_courses_for_android/)
-- [7 things you should know before using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/q2mz8d/7_things_you_should_know_before_using_jetpack/)
-- [Making games about chidren fairy tales](https://www.reddit.com/r/androiddev/comments/q2l65r/making_games_about_chidren_fairy_tales/)
-- [Is there anything wrong to do repository operation from inside RecyclerView Adapter?](https://www.reddit.com/r/androiddev/comments/q2kgh2/is_there_anything_wrong_to_do_repository/)
-- [Is Samsung's "Color theme" in One ui 4 beta 2 different from Google's material you?](https://www.reddit.com/r/androiddev/comments/q2kck3/is_samsungs_color_theme_in_one_ui_4_beta_2/)
-- [Suggestions how to prepare for job interview?](https://www.reddit.com/r/androiddev/comments/q2jupp/suggestions_how_to_prepare_for_job_interview/)
-- [Can someone link or help me out with what data can we get on publishing an app to play store?](https://www.reddit.com/r/androiddev/comments/q2iak8/can_someone_link_or_help_me_out_with_what_data/)
+- [I open-sourced my 4-year-old interval timer app!](https://www.reddit.com/r/androiddev/comments/q3mevy/i_opensourced_my_4yearold_interval_timer_app/)
+- [Apply special effects to images with the CameraX Extensions API](https://www.reddit.com/r/androiddev/comments/q3m77m/apply_special_effects_to_images_with_the_camerax/)
+- [5 amazing Gradle Plugins for Android apps](https://www.reddit.com/r/androiddev/comments/q3lyub/5_amazing_gradle_plugins_for_android_apps/)
+- [Disable Startup Apps on Condeco Tablet](https://www.reddit.com/r/androiddev/comments/q3lfuo/disable_startup_apps_on_condeco_tablet/)
+- [middle developer](https://www.reddit.com/r/androiddev/comments/q3gloy/middle_developer/)
+- [GitHub - xmartlabs/TypedNavigation: A lightweight library to help you navigate in compose with well typed functions.](https://www.reddit.com/r/androiddev/comments/q3gjpr/github_xmartlabstypednavigation_a_lightweight/)
+- [Hi! Some years ago I had depression and decided to start a small game to hold to something but I was unable to finish it. Unfortunately, I'm with the same problem and decided to finish what I started. my goal for success is to make someone that had a bad day smile. If you want to test it pm me.](https://www.reddit.com/r/androiddev/comments/q3fyjo/hi_some_years_ago_i_had_depression_and_decided_to/)
+- [DataStore: proto vs Preferences](https://www.reddit.com/r/androiddev/comments/q3f5n0/datastore_proto_vs_preferences/)
+- [OnePlus 9 Pro LINEAGEOS on OnePlus 9](https://www.reddit.com/r/androiddev/comments/q3er5y/oneplus_9_pro_lineageos_on_oneplus_9/)
+- [Are we still allowed to use Secure.ANDROID_ID (aka Android ID, SSAID)?](https://www.reddit.com/r/androiddev/comments/q3ekca/are_we_still_allowed_to_use_secureandroid_id_aka/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
