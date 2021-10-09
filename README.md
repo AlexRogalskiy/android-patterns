@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I open-sourced my 4-year-old interval timer app!](https://www.reddit.com/r/androiddev/comments/q3mevy/i_opensourced_my_4yearold_interval_timer_app/)
-- [Apply special effects to images with the CameraX Extensions API](https://www.reddit.com/r/androiddev/comments/q3m77m/apply_special_effects_to_images_with_the_camerax/)
-- [5 amazing Gradle Plugins for Android apps](https://www.reddit.com/r/androiddev/comments/q3lyub/5_amazing_gradle_plugins_for_android_apps/)
-- [Disable Startup Apps on Condeco Tablet](https://www.reddit.com/r/androiddev/comments/q3lfuo/disable_startup_apps_on_condeco_tablet/)
-- [middle developer](https://www.reddit.com/r/androiddev/comments/q3gloy/middle_developer/)
-- [GitHub - xmartlabs/TypedNavigation: A lightweight library to help you navigate in compose with well typed functions.](https://www.reddit.com/r/androiddev/comments/q3gjpr/github_xmartlabstypednavigation_a_lightweight/)
-- [Hi! Some years ago I had depression and decided to start a small game to hold to something but I was unable to finish it. Unfortunately, I'm with the same problem and decided to finish what I started. my goal for success is to make someone that had a bad day smile. If you want to test it pm me.](https://www.reddit.com/r/androiddev/comments/q3fyjo/hi_some_years_ago_i_had_depression_and_decided_to/)
-- [DataStore: proto vs Preferences](https://www.reddit.com/r/androiddev/comments/q3f5n0/datastore_proto_vs_preferences/)
-- [OnePlus 9 Pro LINEAGEOS on OnePlus 9](https://www.reddit.com/r/androiddev/comments/q3er5y/oneplus_9_pro_lineageos_on_oneplus_9/)
-- [Are we still allowed to use Secure.ANDROID_ID (aka Android ID, SSAID)?](https://www.reddit.com/r/androiddev/comments/q3ekca/are_we_still_allowed_to_use_secureandroid_id_aka/)
+- [Is Android dev a good career? Does it have a future? How is the pay?](https://www.reddit.com/r/androiddev/comments/q4bd8q/is_android_dev_a_good_career_does_it_have_a/)
+- [Video as camera input in android emulator](https://www.reddit.com/r/androiddev/comments/q4ajnp/video_as_camera_input_in_android_emulator/)
+- [Android Rust Introduction – AOSP](https://www.reddit.com/r/androiddev/comments/q48za5/android_rust_introduction_aosp/)
+- [LiveData is superior to StateFlow for UI and ViewModel layer.](https://www.reddit.com/r/androiddev/comments/q46b23/livedata_is_superior_to_stateflow_for_ui_and/)
+- [Ways to notify the user](https://www.reddit.com/r/androiddev/comments/q43k6q/ways_to_notify_the_user/)
+- [Best admob mediation without sdk integration?](https://www.reddit.com/r/androiddev/comments/q42uch/best_admob_mediation_without_sdk_integration/)
+- [Question for students of Udacity - Developing Android Apps with Kotlin](https://www.reddit.com/r/androiddev/comments/q3zpfj/question_for_students_of_udacity_developing/)
+- [App Feedback Thread - October 08, 2021](https://www.reddit.com/r/androiddev/comments/q3x9d1/app_feedback_thread_october_08_2021/)
+- [ReactButton 2.0.3 Release with customized tooltip feature](https://www.reddit.com/r/androiddev/comments/q3wb30/reactbutton_203_release_with_customized_tooltip/)
+- [How to listen app’s traffic on a rooted emulator?](https://www.reddit.com/r/androiddev/comments/q3ujox/how_to_listen_apps_traffic_on_a_rooted_emulator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
