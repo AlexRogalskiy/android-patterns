@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is Android dev a good career? Does it have a future? How is the pay?](https://www.reddit.com/r/androiddev/comments/q4bd8q/is_android_dev_a_good_career_does_it_have_a/)
-- [Video as camera input in android emulator](https://www.reddit.com/r/androiddev/comments/q4ajnp/video_as_camera_input_in_android_emulator/)
-- [Android Rust Introduction – AOSP](https://www.reddit.com/r/androiddev/comments/q48za5/android_rust_introduction_aosp/)
-- [LiveData is superior to StateFlow for UI and ViewModel layer.](https://www.reddit.com/r/androiddev/comments/q46b23/livedata_is_superior_to_stateflow_for_ui_and/)
-- [Ways to notify the user](https://www.reddit.com/r/androiddev/comments/q43k6q/ways_to_notify_the_user/)
-- [Best admob mediation without sdk integration?](https://www.reddit.com/r/androiddev/comments/q42uch/best_admob_mediation_without_sdk_integration/)
-- [Question for students of Udacity - Developing Android Apps with Kotlin](https://www.reddit.com/r/androiddev/comments/q3zpfj/question_for_students_of_udacity_developing/)
-- [App Feedback Thread - October 08, 2021](https://www.reddit.com/r/androiddev/comments/q3x9d1/app_feedback_thread_october_08_2021/)
-- [ReactButton 2.0.3 Release with customized tooltip feature](https://www.reddit.com/r/androiddev/comments/q3wb30/reactbutton_203_release_with_customized_tooltip/)
-- [How to listen app’s traffic on a rooted emulator?](https://www.reddit.com/r/androiddev/comments/q3ujox/how_to_listen_apps_traffic_on_a_rooted_emulator/)
+- [App Theming with Dark and Light Mode | React Native ⚛️](https://www.reddit.com/r/androiddev/comments/q4ybai/app_theming_with_dark_and_light_mode_react_native/)
+- [Developer Salaries](https://www.reddit.com/r/androiddev/comments/q4xgk7/developer_salaries/)
+- [Can we (and how can we) implement ViewModel in Android without extending androidx.lifecycle.ViewModel class since ViewModel is not just a concept in Android but in general software development?](https://www.reddit.com/r/androiddev/comments/q4uj8e/can_we_and_how_can_we_implement_viewmodel_in/)
+- [Can we parallelize creation of ui object?](https://www.reddit.com/r/androiddev/comments/q4p2vm/can_we_parallelize_creation_of_ui_object/)
+- [How to show Jetpack compose alert dialog?](https://www.reddit.com/r/androiddev/comments/q4orvn/how_to_show_jetpack_compose_alert_dialog/)
+- [Ads are now able to bypass Google Play to install apps WITHOUT user consent. Digital Turbine DSP seems to be the one enabling it.](https://www.reddit.com/r/androiddev/comments/q4nltn/ads_are_now_able_to_bypass_google_play_to_install/)
+- [How to install and try One UI 4.0 (Android 12) beta on your Samsung Galaxy device](https://www.reddit.com/r/androiddev/comments/q4ndbt/how_to_install_and_try_one_ui_40_android_12_beta/)
+- [Running two A/B experiments at once (with 2 variables each), or one A/B experiment with 4 variables?](https://www.reddit.com/r/androiddev/comments/q4lmbj/running_two_ab_experiments_at_once_with_2/)
+- [How to build app like Samsung game launcher?](https://www.reddit.com/r/androiddev/comments/q4kmnn/how_to_build_app_like_samsung_game_launcher/)
+- [Introducing Compass: Effective Paging with Realm and Jetpack Paging 3](https://www.reddit.com/r/androiddev/comments/q4j9hu/introducing_compass_effective_paging_with_realm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
