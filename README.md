@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App Theming with Dark and Light Mode | React Native ⚛️](https://www.reddit.com/r/androiddev/comments/q4ybai/app_theming_with_dark_and_light_mode_react_native/)
-- [Developer Salaries](https://www.reddit.com/r/androiddev/comments/q4xgk7/developer_salaries/)
-- [Can we (and how can we) implement ViewModel in Android without extending androidx.lifecycle.ViewModel class since ViewModel is not just a concept in Android but in general software development?](https://www.reddit.com/r/androiddev/comments/q4uj8e/can_we_and_how_can_we_implement_viewmodel_in/)
-- [Can we parallelize creation of ui object?](https://www.reddit.com/r/androiddev/comments/q4p2vm/can_we_parallelize_creation_of_ui_object/)
-- [How to show Jetpack compose alert dialog?](https://www.reddit.com/r/androiddev/comments/q4orvn/how_to_show_jetpack_compose_alert_dialog/)
-- [Ads are now able to bypass Google Play to install apps WITHOUT user consent. Digital Turbine DSP seems to be the one enabling it.](https://www.reddit.com/r/androiddev/comments/q4nltn/ads_are_now_able_to_bypass_google_play_to_install/)
-- [How to install and try One UI 4.0 (Android 12) beta on your Samsung Galaxy device](https://www.reddit.com/r/androiddev/comments/q4ndbt/how_to_install_and_try_one_ui_40_android_12_beta/)
-- [Running two A/B experiments at once (with 2 variables each), or one A/B experiment with 4 variables?](https://www.reddit.com/r/androiddev/comments/q4lmbj/running_two_ab_experiments_at_once_with_2/)
-- [How to build app like Samsung game launcher?](https://www.reddit.com/r/androiddev/comments/q4kmnn/how_to_build_app_like_samsung_game_launcher/)
-- [Introducing Compass: Effective Paging with Realm and Jetpack Paging 3](https://www.reddit.com/r/androiddev/comments/q4j9hu/introducing_compass_effective_paging_with_realm/)
+- [How do I make a new google play console developer account?](https://www.reddit.com/r/androiddev/comments/q5i7ul/how_do_i_make_a_new_google_play_console_developer/)
+- [Is there a way to just get the source of the keyboard from AOSP, to create my own "Gboard" alike app?](https://www.reddit.com/r/androiddev/comments/q5he8j/is_there_a_way_to_just_get_the_source_of_the/)
+- [Room & Kotlin Symbol Processing](https://www.reddit.com/r/androiddev/comments/q5gtvf/room_kotlin_symbol_processing/)
+- [How do big corporations like Zynga, Ketchapp etc handle developer accounts (appstore, gpd) I mean are the founders only with root account access, while rest of the employees have admin access?](https://www.reddit.com/r/androiddev/comments/q5fds0/how_do_big_corporations_like_zynga_ketchapp_etc/)
+- [Is Jetpack Compose actually stable if it is still missing important functionalities? Is XML actually more reliable when using features such as navigation animation?](https://www.reddit.com/r/androiddev/comments/q5et09/is_jetpack_compose_actually_stable_if_it_is_still/)
+- [Change my mind: Git + Drive API is perfect for enabling data sync](https://www.reddit.com/r/androiddev/comments/q5e3ar/change_my_mind_git_drive_api_is_perfect_for/)
+- [Apps Removed Due to Lack of IARC content rating - Penalty Against Account?](https://www.reddit.com/r/androiddev/comments/q5cidh/apps_removed_due_to_lack_of_iarc_content_rating/)
+- [Static context in a failsafe situation?](https://www.reddit.com/r/androiddev/comments/q5chyq/static_context_in_a_failsafe_situation/)
+- [Getting error message: @Composable invocations can only happen from the context of a @Composable function](https://www.reddit.com/r/androiddev/comments/q5al24/getting_error_message_composable_invocations_can/)
+- [Jetpack Compose: lists primer](https://www.reddit.com/r/androiddev/comments/q58yj8/jetpack_compose_lists_primer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
