@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I make a new google play console developer account?](https://www.reddit.com/r/androiddev/comments/q5i7ul/how_do_i_make_a_new_google_play_console_developer/)
-- [Is there a way to just get the source of the keyboard from AOSP, to create my own "Gboard" alike app?](https://www.reddit.com/r/androiddev/comments/q5he8j/is_there_a_way_to_just_get_the_source_of_the/)
-- [Room & Kotlin Symbol Processing](https://www.reddit.com/r/androiddev/comments/q5gtvf/room_kotlin_symbol_processing/)
-- [How do big corporations like Zynga, Ketchapp etc handle developer accounts (appstore, gpd) I mean are the founders only with root account access, while rest of the employees have admin access?](https://www.reddit.com/r/androiddev/comments/q5fds0/how_do_big_corporations_like_zynga_ketchapp_etc/)
-- [Is Jetpack Compose actually stable if it is still missing important functionalities? Is XML actually more reliable when using features such as navigation animation?](https://www.reddit.com/r/androiddev/comments/q5et09/is_jetpack_compose_actually_stable_if_it_is_still/)
-- [Change my mind: Git + Drive API is perfect for enabling data sync](https://www.reddit.com/r/androiddev/comments/q5e3ar/change_my_mind_git_drive_api_is_perfect_for/)
-- [Apps Removed Due to Lack of IARC content rating - Penalty Against Account?](https://www.reddit.com/r/androiddev/comments/q5cidh/apps_removed_due_to_lack_of_iarc_content_rating/)
-- [Static context in a failsafe situation?](https://www.reddit.com/r/androiddev/comments/q5chyq/static_context_in_a_failsafe_situation/)
-- [Getting error message: @Composable invocations can only happen from the context of a @Composable function](https://www.reddit.com/r/androiddev/comments/q5al24/getting_error_message_composable_invocations_can/)
-- [Jetpack Compose: lists primer](https://www.reddit.com/r/androiddev/comments/q58yj8/jetpack_compose_lists_primer/)
+- [Android Studio - Arctic Fox | 2020.3.1 Patch 3 now available](https://www.reddit.com/r/androiddev/comments/q6994n/android_studio_arctic_fox_202031_patch_3_now/)
+- [A10 Gesture Compatibility](https://www.reddit.com/r/androiddev/comments/q67hcp/a10_gesture_compatibility/)
+- [Risk to Google accounts for a new dev](https://www.reddit.com/r/androiddev/comments/q66xcm/risk_to_google_accounts_for_a_new_dev/)
+- [Does anyone know how to replicate the concept of AVG alarm clock extreme night light mode](https://www.reddit.com/r/androiddev/comments/q64t5y/does_anyone_know_how_to_replicate_the_concept_of/)
+- [Android Studio Download Broken?](https://www.reddit.com/r/androiddev/comments/q64sma/android_studio_download_broken/)
+- [Our great chat with Chet Haase about the book of the moment: Androids, the team that built the Android Operating System 😍](https://www.reddit.com/r/androiddev/comments/q62n47/our_great_chat_with_chet_haase_about_the_book_of/)
+- [which databases to use?](https://www.reddit.com/r/androiddev/comments/q60nab/which_databases_to_use/)
+- [looking for solutions](https://www.reddit.com/r/androiddev/comments/q5wrac/looking_for_solutions/)
+- [Weekly Who's Hiring Thread - October 11, 2021](https://www.reddit.com/r/androiddev/comments/q5vayq/weekly_whos_hiring_thread_october_11_2021/)
+- [What are your favourite shortcuts or features in Android Studio?](https://www.reddit.com/r/androiddev/comments/q5thme/what_are_your_favourite_shortcuts_or_features_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
