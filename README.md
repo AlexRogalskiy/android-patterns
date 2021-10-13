@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio - Arctic Fox | 2020.3.1 Patch 3 now available](https://www.reddit.com/r/androiddev/comments/q6994n/android_studio_arctic_fox_202031_patch_3_now/)
-- [A10 Gesture Compatibility](https://www.reddit.com/r/androiddev/comments/q67hcp/a10_gesture_compatibility/)
-- [Risk to Google accounts for a new dev](https://www.reddit.com/r/androiddev/comments/q66xcm/risk_to_google_accounts_for_a_new_dev/)
-- [Does anyone know how to replicate the concept of AVG alarm clock extreme night light mode](https://www.reddit.com/r/androiddev/comments/q64t5y/does_anyone_know_how_to_replicate_the_concept_of/)
-- [Android Studio Download Broken?](https://www.reddit.com/r/androiddev/comments/q64sma/android_studio_download_broken/)
-- [Our great chat with Chet Haase about the book of the moment: Androids, the team that built the Android Operating System 😍](https://www.reddit.com/r/androiddev/comments/q62n47/our_great_chat_with_chet_haase_about_the_book_of/)
-- [which databases to use?](https://www.reddit.com/r/androiddev/comments/q60nab/which_databases_to_use/)
-- [looking for solutions](https://www.reddit.com/r/androiddev/comments/q5wrac/looking_for_solutions/)
-- [Weekly Who's Hiring Thread - October 11, 2021](https://www.reddit.com/r/androiddev/comments/q5vayq/weekly_whos_hiring_thread_october_11_2021/)
-- [What are your favourite shortcuts or features in Android Studio?](https://www.reddit.com/r/androiddev/comments/q5thme/what_are_your_favourite_shortcuts_or_features_in/)
+- [Developer Options (Default Settings)](https://www.reddit.com/r/androiddev/comments/q707d4/developer_options_default_settings/)
+- [Editing an XML in Android Studio wont save](https://www.reddit.com/r/androiddev/comments/q6yn7h/editing_an_xml_in_android_studio_wont_save/)
+- [How to render SurfaceView cropped to a circle?](https://www.reddit.com/r/androiddev/comments/q6weyj/how_to_render_surfaceview_cropped_to_a_circle/)
+- [What is a good uninstalls ratio for a new Android app?](https://www.reddit.com/r/androiddev/comments/q6vml8/what_is_a_good_uninstalls_ratio_for_a_new_android/)
+- [A Comprehensive Guide to Android 12’s Splash Screen API](https://www.reddit.com/r/androiddev/comments/q6tuq8/a_comprehensive_guide_to_android_12s_splash/)
+- [HELP PLEASE: Calling experienced developers. Any App developers here experiencing visibility issues with any of their apps?](https://www.reddit.com/r/androiddev/comments/q6sz6a/help_please_calling_experienced_developers_any/)
+- [Image recognition API Questions](https://www.reddit.com/r/androiddev/comments/q6rzm1/image_recognition_api_questions/)
+- [I'm getting this error, when trying to publish a app](https://www.reddit.com/r/androiddev/comments/q6rxwh/im_getting_this_error_when_trying_to_publish_a_app/)
+- [Is sdkmanager tool literally broken by default for everyone else as well?](https://www.reddit.com/r/androiddev/comments/q6pto1/is_sdkmanager_tool_literally_broken_by_default/)
+- [How to open other permissions page (App info -> other permissions) in miui programmatically ?](https://www.reddit.com/r/androiddev/comments/q6n12w/how_to_open_other_permissions_page_app_info_other/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
