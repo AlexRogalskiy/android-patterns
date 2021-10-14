@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Developer Options (Default Settings)](https://www.reddit.com/r/androiddev/comments/q707d4/developer_options_default_settings/)
-- [Editing an XML in Android Studio wont save](https://www.reddit.com/r/androiddev/comments/q6yn7h/editing_an_xml_in_android_studio_wont_save/)
-- [How to render SurfaceView cropped to a circle?](https://www.reddit.com/r/androiddev/comments/q6weyj/how_to_render_surfaceview_cropped_to_a_circle/)
-- [What is a good uninstalls ratio for a new Android app?](https://www.reddit.com/r/androiddev/comments/q6vml8/what_is_a_good_uninstalls_ratio_for_a_new_android/)
-- [A Comprehensive Guide to Android 12’s Splash Screen API](https://www.reddit.com/r/androiddev/comments/q6tuq8/a_comprehensive_guide_to_android_12s_splash/)
-- [HELP PLEASE: Calling experienced developers. Any App developers here experiencing visibility issues with any of their apps?](https://www.reddit.com/r/androiddev/comments/q6sz6a/help_please_calling_experienced_developers_any/)
-- [Image recognition API Questions](https://www.reddit.com/r/androiddev/comments/q6rzm1/image_recognition_api_questions/)
-- [I'm getting this error, when trying to publish a app](https://www.reddit.com/r/androiddev/comments/q6rxwh/im_getting_this_error_when_trying_to_publish_a_app/)
-- [Is sdkmanager tool literally broken by default for everyone else as well?](https://www.reddit.com/r/androiddev/comments/q6pto1/is_sdkmanager_tool_literally_broken_by_default/)
-- [How to open other permissions page (App info -> other permissions) in miui programmatically ?](https://www.reddit.com/r/androiddev/comments/q6n12w/how_to_open_other_permissions_page_app_info_other/)
+- [Facebook Audience Network bidding system to serve ads](https://www.reddit.com/r/androiddev/comments/q7k22y/facebook_audience_network_bidding_system_to_serve/)
+- [Do you guys/ gals encounter "Zip Path Traversal Vulnerability" recently in Android 11?](https://www.reddit.com/r/androiddev/comments/q7gil9/do_you_guys_gals_encounter_zip_path_traversal/)
+- [Template repository: fragment based & full compose](https://www.reddit.com/r/androiddev/comments/q7cypu/template_repository_fragment_based_full_compose/)
+- [What companies give take home projects as an interview option?](https://www.reddit.com/r/androiddev/comments/q7bxpg/what_companies_give_take_home_projects_as_an/)
+- [Android App Design](https://www.reddit.com/r/androiddev/comments/q79sf3/android_app_design/)
+- [Regional/Country ratings are great for small and new developers?](https://www.reddit.com/r/androiddev/comments/q78p6x/regionalcountry_ratings_are_great_for_small_and/)
+- [thousands of app reviews were removed, anyway to get them back??](https://www.reddit.com/r/androiddev/comments/q782ic/thousands_of_app_reviews_were_removed_anyway_to/)
+- [JitPack Down?](https://www.reddit.com/r/androiddev/comments/q76luh/jitpack_down/)
+- [Got 1 star from an app user because my app was made for kids and the user is not a kid 🤦‍♂️](https://www.reddit.com/r/androiddev/comments/q73cqo/got_1_star_from_an_app_user_because_my_app_was/)
+- [where should getting data from another fragment happen onCreate or onCreateView ?](https://www.reddit.com/r/androiddev/comments/q72jjd/where_should_getting_data_from_another_fragment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
