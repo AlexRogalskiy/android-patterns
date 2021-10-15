@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Facebook Audience Network bidding system to serve ads](https://www.reddit.com/r/androiddev/comments/q7k22y/facebook_audience_network_bidding_system_to_serve/)
-- [Do you guys/ gals encounter "Zip Path Traversal Vulnerability" recently in Android 11?](https://www.reddit.com/r/androiddev/comments/q7gil9/do_you_guys_gals_encounter_zip_path_traversal/)
-- [Template repository: fragment based & full compose](https://www.reddit.com/r/androiddev/comments/q7cypu/template_repository_fragment_based_full_compose/)
-- [What companies give take home projects as an interview option?](https://www.reddit.com/r/androiddev/comments/q7bxpg/what_companies_give_take_home_projects_as_an/)
-- [Android App Design](https://www.reddit.com/r/androiddev/comments/q79sf3/android_app_design/)
-- [Regional/Country ratings are great for small and new developers?](https://www.reddit.com/r/androiddev/comments/q78p6x/regionalcountry_ratings_are_great_for_small_and/)
-- [thousands of app reviews were removed, anyway to get them back??](https://www.reddit.com/r/androiddev/comments/q782ic/thousands_of_app_reviews_were_removed_anyway_to/)
-- [JitPack Down?](https://www.reddit.com/r/androiddev/comments/q76luh/jitpack_down/)
-- [Got 1 star from an app user because my app was made for kids and the user is not a kid 🤦‍♂️](https://www.reddit.com/r/androiddev/comments/q73cqo/got_1_star_from_an_app_user_because_my_app_was/)
-- [where should getting data from another fragment happen onCreate or onCreateView ?](https://www.reddit.com/r/androiddev/comments/q72jjd/where_should_getting_data_from_another_fragment/)
+- [Best way to boost your app, get installs from a direct link, or make users search on it on Google Play?](https://www.reddit.com/r/androiddev/comments/q8bkcu/best_way_to_boost_your_app_get_installs_from_a/)
+- [Is there anyone here who use IntelliJ for Android development? What is your reason?](https://www.reddit.com/r/androiddev/comments/q8bhi8/is_there_anyone_here_who_use_intellij_for_android/)
+- [Apptentive- pop up for "Love this app" Comes up but doesn't send user to Real time survey](https://www.reddit.com/r/androiddev/comments/q89uqj/apptentive_pop_up_for_love_this_app_comes_up_but/)
+- [Anyone changed their app name from previously +30 characters to 30 or less? What was the impact on your new installs?](https://www.reddit.com/r/androiddev/comments/q86y3s/anyone_changed_their_app_name_from_previously_30/)
+- [Android Studio Chipmunk Canary 1 available](https://www.reddit.com/r/androiddev/comments/q869tn/android_studio_chipmunk_canary_1_available/)
+- [Android Studio Bumblebee Beta 1 available](https://www.reddit.com/r/androiddev/comments/q869t3/android_studio_bumblebee_beta_1_available/)
+- [State managment uber and chat app](https://www.reddit.com/r/androiddev/comments/q84k9i/state_managment_uber_and_chat_app/)
+- [Injecting objects into composables with Hilt](https://www.reddit.com/r/androiddev/comments/q842un/injecting_objects_into_composables_with_hilt/)
+- [Need Ideas for a Unique Android App](https://www.reddit.com/r/androiddev/comments/q83n41/need_ideas_for_a_unique_android_app/)
+- [How to detect if your website is being scraped by someone' app using JSOUP](https://www.reddit.com/r/androiddev/comments/q83b0q/how_to_detect_if_your_website_is_being_scraped_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
