@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best way to boost your app, get installs from a direct link, or make users search on it on Google Play?](https://www.reddit.com/r/androiddev/comments/q8bkcu/best_way_to_boost_your_app_get_installs_from_a/)
-- [Is there anyone here who use IntelliJ for Android development? What is your reason?](https://www.reddit.com/r/androiddev/comments/q8bhi8/is_there_anyone_here_who_use_intellij_for_android/)
-- [Apptentive- pop up for "Love this app" Comes up but doesn't send user to Real time survey](https://www.reddit.com/r/androiddev/comments/q89uqj/apptentive_pop_up_for_love_this_app_comes_up_but/)
-- [Anyone changed their app name from previously +30 characters to 30 or less? What was the impact on your new installs?](https://www.reddit.com/r/androiddev/comments/q86y3s/anyone_changed_their_app_name_from_previously_30/)
-- [Android Studio Chipmunk Canary 1 available](https://www.reddit.com/r/androiddev/comments/q869tn/android_studio_chipmunk_canary_1_available/)
-- [Android Studio Bumblebee Beta 1 available](https://www.reddit.com/r/androiddev/comments/q869t3/android_studio_bumblebee_beta_1_available/)
-- [State managment uber and chat app](https://www.reddit.com/r/androiddev/comments/q84k9i/state_managment_uber_and_chat_app/)
-- [Injecting objects into composables with Hilt](https://www.reddit.com/r/androiddev/comments/q842un/injecting_objects_into_composables_with_hilt/)
-- [Need Ideas for a Unique Android App](https://www.reddit.com/r/androiddev/comments/q83n41/need_ideas_for_a_unique_android_app/)
-- [How to detect if your website is being scraped by someone' app using JSOUP](https://www.reddit.com/r/androiddev/comments/q83b0q/how_to_detect_if_your_website_is_being_scraped_by/)
+- [Hosting my app admin panel on a server?](https://www.reddit.com/r/androiddev/comments/q91fff/hosting_my_app_admin_panel_on_a_server/)
+- [Second display](https://www.reddit.com/r/androiddev/comments/q919a5/second_display/)
+- [How to "highlight to make the user aware of an action and show a description of it" in XML/Kotlin?](https://www.reddit.com/r/androiddev/comments/q90qss/how_to_highlight_to_make_the_user_aware_of_an/)
+- [Stressing memory on any android device](https://www.reddit.com/r/androiddev/comments/q8zb3k/stressing_memory_on_any_android_device/)
+- [how can i make this chart? xml&java](https://www.reddit.com/r/androiddev/comments/q8ylb6/how_can_i_make_this_chart_xmljava/)
+- [Insults apparently don't violate the Google Play Comment posting policy](https://www.reddit.com/r/androiddev/comments/q8wlg7/insults_apparently_dont_violate_the_google_play/)
+- [Any idea how to clear room databases located in multiple feature modules?](https://www.reddit.com/r/androiddev/comments/q8wacy/any_idea_how_to_clear_room_databases_located_in/)
+- [Does anyone encounter wrong File.getCanonicalPath from Android 11 device?](https://www.reddit.com/r/androiddev/comments/q8v8aw/does_anyone_encounter_wrong_filegetcanonicalpath/)
+- [My app pulls data from my website api. How can I get the language translated data when someone has a language other than English in their device?](https://www.reddit.com/r/androiddev/comments/q8uxkd/my_app_pulls_data_from_my_website_api_how_can_i/)
+- [How can I make custom options for each sub category like Amazon in Firestore?](https://www.reddit.com/r/androiddev/comments/q8tk7t/how_can_i_make_custom_options_for_each_sub/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
