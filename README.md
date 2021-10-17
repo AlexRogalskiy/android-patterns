@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hosting my app admin panel on a server?](https://www.reddit.com/r/androiddev/comments/q91fff/hosting_my_app_admin_panel_on_a_server/)
-- [Second display](https://www.reddit.com/r/androiddev/comments/q919a5/second_display/)
-- [How to "highlight to make the user aware of an action and show a description of it" in XML/Kotlin?](https://www.reddit.com/r/androiddev/comments/q90qss/how_to_highlight_to_make_the_user_aware_of_an/)
-- [Stressing memory on any android device](https://www.reddit.com/r/androiddev/comments/q8zb3k/stressing_memory_on_any_android_device/)
-- [how can i make this chart? xml&java](https://www.reddit.com/r/androiddev/comments/q8ylb6/how_can_i_make_this_chart_xmljava/)
-- [Insults apparently don't violate the Google Play Comment posting policy](https://www.reddit.com/r/androiddev/comments/q8wlg7/insults_apparently_dont_violate_the_google_play/)
-- [Any idea how to clear room databases located in multiple feature modules?](https://www.reddit.com/r/androiddev/comments/q8wacy/any_idea_how_to_clear_room_databases_located_in/)
-- [Does anyone encounter wrong File.getCanonicalPath from Android 11 device?](https://www.reddit.com/r/androiddev/comments/q8v8aw/does_anyone_encounter_wrong_filegetcanonicalpath/)
-- [My app pulls data from my website api. How can I get the language translated data when someone has a language other than English in their device?](https://www.reddit.com/r/androiddev/comments/q8uxkd/my_app_pulls_data_from_my_website_api_how_can_i/)
-- [How can I make custom options for each sub category like Amazon in Firestore?](https://www.reddit.com/r/androiddev/comments/q8tk7t/how_can_i_make_custom_options_for_each_sub/)
+- [State Managment question](https://www.reddit.com/r/androiddev/comments/q9od0t/state_managment_question/)
+- [Exoplayer API’s](https://www.reddit.com/r/androiddev/comments/q9lzum/exoplayer_apis/)
+- [App looks amazing on layout preview, but awful on real device](https://www.reddit.com/r/androiddev/comments/q9ieac/app_looks_amazing_on_layout_preview_but_awful_on/)
+- [Trying to install a system app extracted from a different phone](https://www.reddit.com/r/androiddev/comments/q9g6jm/trying_to_install_a_system_app_extracted_from_a/)
+- [Books to get back into the swing of things.](https://www.reddit.com/r/androiddev/comments/q9faol/books_to_get_back_into_the_swing_of_things/)
+- [How to use sealed interfaces in Android?](https://www.reddit.com/r/androiddev/comments/q9dqld/how_to_use_sealed_interfaces_in_android/)
+- [DataBinding generated classes](https://www.reddit.com/r/androiddev/comments/q9cv97/databinding_generated_classes/)
+- [Jetpack Compose: Drag-and-drop reorder for lists](https://www.reddit.com/r/androiddev/comments/q9b18r/jetpack_compose_draganddrop_reorder_for_lists/)
+- [Spazes : [Since you can't search for spaces on the Twitter app, I made an app to do that!] Spazes is an android application that allows users to search twitter spaces and join in.](https://www.reddit.com/r/androiddev/comments/q9a19k/spazes_since_you_cant_search_for_spaces_on_the/)
+- [Jetpack Compose - Learn with code](https://www.reddit.com/r/androiddev/comments/q98bkc/jetpack_compose_learn_with_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
