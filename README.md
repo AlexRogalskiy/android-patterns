@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [State Managment question](https://www.reddit.com/r/androiddev/comments/q9od0t/state_managment_question/)
-- [Exoplayer API’s](https://www.reddit.com/r/androiddev/comments/q9lzum/exoplayer_apis/)
-- [App looks amazing on layout preview, but awful on real device](https://www.reddit.com/r/androiddev/comments/q9ieac/app_looks_amazing_on_layout_preview_but_awful_on/)
-- [Trying to install a system app extracted from a different phone](https://www.reddit.com/r/androiddev/comments/q9g6jm/trying_to_install_a_system_app_extracted_from_a/)
-- [Books to get back into the swing of things.](https://www.reddit.com/r/androiddev/comments/q9faol/books_to_get_back_into_the_swing_of_things/)
-- [How to use sealed interfaces in Android?](https://www.reddit.com/r/androiddev/comments/q9dqld/how_to_use_sealed_interfaces_in_android/)
-- [DataBinding generated classes](https://www.reddit.com/r/androiddev/comments/q9cv97/databinding_generated_classes/)
-- [Jetpack Compose: Drag-and-drop reorder for lists](https://www.reddit.com/r/androiddev/comments/q9b18r/jetpack_compose_draganddrop_reorder_for_lists/)
-- [Spazes : [Since you can't search for spaces on the Twitter app, I made an app to do that!] Spazes is an android application that allows users to search twitter spaces and join in.](https://www.reddit.com/r/androiddev/comments/q9a19k/spazes_since_you_cant_search_for_spaces_on_the/)
-- [Jetpack Compose - Learn with code](https://www.reddit.com/r/androiddev/comments/q98bkc/jetpack_compose_learn_with_code/)
+- [Dagger 2 limitation](https://www.reddit.com/r/androiddev/comments/qac4or/dagger_2_limitation/)
+- [Can sudden appearing of an Interstitial ad annoy users?](https://www.reddit.com/r/androiddev/comments/qa8jru/can_sudden_appearing_of_an_interstitial_ad_annoy/)
+- [Beginner question: Searching for a way to create multiple instances of the same object](https://www.reddit.com/r/androiddev/comments/qa7sie/beginner_question_searching_for_a_way_to_create/)
+- [Introducing Sap: A music streaming and discovery app built with Flutter & the Deezer API. Feedback appreciated🌟](https://www.reddit.com/r/androiddev/comments/qa6vmc/introducing_sap_a_music_streaming_and_discovery/)
+- [A tiny app I created in response to the Google Recorder app not implementing a way to export your recordings to a local directory.](https://www.reddit.com/r/androiddev/comments/qa6qw6/a_tiny_app_i_created_in_response_to_the_google/)
+- [What does Google mean by "client mode" (relating to wifi apparently?)](https://www.reddit.com/r/androiddev/comments/qa4yzq/what_does_google_mean_by_client_mode_relating_to/)
+- [Unable to run the AS built in emulator on my M1 MacBook Air](https://www.reddit.com/r/androiddev/comments/qa48c7/unable_to_run_the_as_built_in_emulator_on_my_m1/)
+- [Can you explain MVVM pattern simply?](https://www.reddit.com/r/androiddev/comments/qa1g1u/can_you_explain_mvvm_pattern_simply/)
+- [Which logging facade/logger to use in a library?](https://www.reddit.com/r/androiddev/comments/qa16iy/which_logging_facadelogger_to_use_in_a_library/)
+- [Can someone help me out with this error. I have been stack for about 2 days today being the third day](https://www.reddit.com/r/androiddev/comments/q9z3y9/can_someone_help_me_out_with_this_error_i_have/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
