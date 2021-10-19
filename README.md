@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dagger 2 limitation](https://www.reddit.com/r/androiddev/comments/qac4or/dagger_2_limitation/)
-- [Can sudden appearing of an Interstitial ad annoy users?](https://www.reddit.com/r/androiddev/comments/qa8jru/can_sudden_appearing_of_an_interstitial_ad_annoy/)
-- [Beginner question: Searching for a way to create multiple instances of the same object](https://www.reddit.com/r/androiddev/comments/qa7sie/beginner_question_searching_for_a_way_to_create/)
-- [Introducing Sap: A music streaming and discovery app built with Flutter & the Deezer API. Feedback appreciated🌟](https://www.reddit.com/r/androiddev/comments/qa6vmc/introducing_sap_a_music_streaming_and_discovery/)
-- [A tiny app I created in response to the Google Recorder app not implementing a way to export your recordings to a local directory.](https://www.reddit.com/r/androiddev/comments/qa6qw6/a_tiny_app_i_created_in_response_to_the_google/)
-- [What does Google mean by "client mode" (relating to wifi apparently?)](https://www.reddit.com/r/androiddev/comments/qa4yzq/what_does_google_mean_by_client_mode_relating_to/)
-- [Unable to run the AS built in emulator on my M1 MacBook Air](https://www.reddit.com/r/androiddev/comments/qa48c7/unable_to_run_the_as_built_in_emulator_on_my_m1/)
-- [Can you explain MVVM pattern simply?](https://www.reddit.com/r/androiddev/comments/qa1g1u/can_you_explain_mvvm_pattern_simply/)
-- [Which logging facade/logger to use in a library?](https://www.reddit.com/r/androiddev/comments/qa16iy/which_logging_facadelogger_to_use_in_a_library/)
-- [Can someone help me out with this error. I have been stack for about 2 days today being the third day](https://www.reddit.com/r/androiddev/comments/q9z3y9/can_someone_help_me_out_with_this_error_i_have/)
+- [Compass Gets Stuck](https://www.reddit.com/r/androiddev/comments/qazoun/compass_gets_stuck/)
+- [How to set IFrame Interval with MediaRecorder 240fps to speed up reverse play](https://www.reddit.com/r/androiddev/comments/qay2r8/how_to_set_iframe_interval_with_mediarecorder/)
+- [MediaCodec Async - What's using all the processing time?](https://www.reddit.com/r/androiddev/comments/qay287/mediacodec_async_whats_using_all_the_processing/)
+- [Hi all, I have this Samsung J4 as a company mobile. The phone Icon has completely disappeared. I have checked hidden apps and other methods I have found online. The phone is locked by company IT so I am unable to even download an alternative. Can anyone help? Thank you.](https://www.reddit.com/r/androiddev/comments/qawr16/hi_all_i_have_this_samsung_j4_as_a_company_mobile/)
+- [Appwrite announces version 0.11 of its open-source Firebase alternative](https://www.reddit.com/r/androiddev/comments/qar91e/appwrite_announces_version_011_of_its_opensource/)
+- [Is my app rating wrong?](https://www.reddit.com/r/androiddev/comments/qaq7fp/is_my_app_rating_wrong/)
+- [Invalidate() and PostInvalidate() for OpenGLSurfaceView?](https://www.reddit.com/r/androiddev/comments/qapjyi/invalidate_and_postinvalidate_for/)
+- [Do you have issues with emulators on MacBook M1 ?](https://www.reddit.com/r/androiddev/comments/qanlhs/do_you_have_issues_with_emulators_on_macbook_m1/)
+- [Android multi module architecture tutorials](https://www.reddit.com/r/androiddev/comments/qanj8z/android_multi_module_architecture_tutorials/)
+- [Starting with android official site. Kotlin or java?](https://www.reddit.com/r/androiddev/comments/qamp6s/starting_with_android_official_site_kotlin_or_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
