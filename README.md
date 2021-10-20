@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compass Gets Stuck](https://www.reddit.com/r/androiddev/comments/qazoun/compass_gets_stuck/)
-- [How to set IFrame Interval with MediaRecorder 240fps to speed up reverse play](https://www.reddit.com/r/androiddev/comments/qay2r8/how_to_set_iframe_interval_with_mediarecorder/)
-- [MediaCodec Async - What's using all the processing time?](https://www.reddit.com/r/androiddev/comments/qay287/mediacodec_async_whats_using_all_the_processing/)
-- [Hi all, I have this Samsung J4 as a company mobile. The phone Icon has completely disappeared. I have checked hidden apps and other methods I have found online. The phone is locked by company IT so I am unable to even download an alternative. Can anyone help? Thank you.](https://www.reddit.com/r/androiddev/comments/qawr16/hi_all_i_have_this_samsung_j4_as_a_company_mobile/)
-- [Appwrite announces version 0.11 of its open-source Firebase alternative](https://www.reddit.com/r/androiddev/comments/qar91e/appwrite_announces_version_011_of_its_opensource/)
-- [Is my app rating wrong?](https://www.reddit.com/r/androiddev/comments/qaq7fp/is_my_app_rating_wrong/)
-- [Invalidate() and PostInvalidate() for OpenGLSurfaceView?](https://www.reddit.com/r/androiddev/comments/qapjyi/invalidate_and_postinvalidate_for/)
-- [Do you have issues with emulators on MacBook M1 ?](https://www.reddit.com/r/androiddev/comments/qanlhs/do_you_have_issues_with_emulators_on_macbook_m1/)
-- [Android multi module architecture tutorials](https://www.reddit.com/r/androiddev/comments/qanj8z/android_multi_module_architecture_tutorials/)
-- [Starting with android official site. Kotlin or java?](https://www.reddit.com/r/androiddev/comments/qamp6s/starting_with_android_official_site_kotlin_or_java/)
+- [When should I make a reCAPTCHA request?](https://www.reddit.com/r/androiddev/comments/qblubj/when_should_i_make_a_recaptcha_request/)
+- ["Turn and Dodge", my new one-day game.](https://www.reddit.com/r/androiddev/comments/qblb9n/turn_and_dodge_my_new_oneday_game/)
+- [Android Studio Chipmunk Canary 2 available](https://www.reddit.com/r/androiddev/comments/qbi9cq/android_studio_chipmunk_canary_2_available/)
+- [Gaming app](https://www.reddit.com/r/androiddev/comments/qbhmc3/gaming_app/)
+- [Devs with 100K+ apps without paid promotion](https://www.reddit.com/r/androiddev/comments/qbg8c8/devs_with_100k_apps_without_paid_promotion/)
+- [How to make a network request synchronously with rxjava? This function always returns null. (I need this function to return a string, cannot return a Single)](https://www.reddit.com/r/androiddev/comments/qbdv74/how_to_make_a_network_request_synchronously_with/)
+- [Images in Mobile Apps shouldn't be large - Would You need image processing Service which adjusts Image size?](https://www.reddit.com/r/androiddev/comments/qbdt2q/images_in_mobile_apps_shouldnt_be_large_would_you/)
+- [Question](https://www.reddit.com/r/androiddev/comments/qbbk26/question/)
+- [Weekly Questions Thread - October 19, 2021](https://www.reddit.com/r/androiddev/comments/qbb08z/weekly_questions_thread_october_19_2021/)
+- [When will we see benchmarks for the new Macbook Pros for Android/Gradle Builds?](https://www.reddit.com/r/androiddev/comments/qbazin/when_will_we_see_benchmarks_for_the_new_macbook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
