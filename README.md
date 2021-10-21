@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When should I make a reCAPTCHA request?](https://www.reddit.com/r/androiddev/comments/qblubj/when_should_i_make_a_recaptcha_request/)
-- ["Turn and Dodge", my new one-day game.](https://www.reddit.com/r/androiddev/comments/qblb9n/turn_and_dodge_my_new_oneday_game/)
-- [Android Studio Chipmunk Canary 2 available](https://www.reddit.com/r/androiddev/comments/qbi9cq/android_studio_chipmunk_canary_2_available/)
-- [Gaming app](https://www.reddit.com/r/androiddev/comments/qbhmc3/gaming_app/)
-- [Devs with 100K+ apps without paid promotion](https://www.reddit.com/r/androiddev/comments/qbg8c8/devs_with_100k_apps_without_paid_promotion/)
-- [How to make a network request synchronously with rxjava? This function always returns null. (I need this function to return a string, cannot return a Single)](https://www.reddit.com/r/androiddev/comments/qbdv74/how_to_make_a_network_request_synchronously_with/)
-- [Images in Mobile Apps shouldn't be large - Would You need image processing Service which adjusts Image size?](https://www.reddit.com/r/androiddev/comments/qbdt2q/images_in_mobile_apps_shouldnt_be_large_would_you/)
-- [Question](https://www.reddit.com/r/androiddev/comments/qbbk26/question/)
-- [Weekly Questions Thread - October 19, 2021](https://www.reddit.com/r/androiddev/comments/qbb08z/weekly_questions_thread_october_19_2021/)
-- [When will we see benchmarks for the new Macbook Pros for Android/Gradle Builds?](https://www.reddit.com/r/androiddev/comments/qbazin/when_will_we_see_benchmarks_for_the_new_macbook/)
+- [Are all Jetpack Compose libraries totally stable? Or are there some ones aren't yet?](https://www.reddit.com/r/androiddev/comments/qcfi9d/are_all_jetpack_compose_libraries_totally_stable/)
+- [Roadmap for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/qcd5kq/roadmap_for_jetpack_compose/)
+- [RecyclerView - best practices](https://www.reddit.com/r/androiddev/comments/qcaqu1/recyclerview_best_practices/)
+- [Droidcon Berlin 2021 at a quick glance!](https://www.reddit.com/r/androiddev/comments/qcai1z/droidcon_berlin_2021_at_a_quick_glance/)
+- [It's so difficult to work with ConstraintLayout on my Dell laptop with not so great trackpad(mouse). MacBook Trackpad is Excellent in this regard. Do we have any external trackpad that can be used with my Dell laptop.](https://www.reddit.com/r/androiddev/comments/qc7vuf/its_so_difficult_to_work_with_constraintlayout_on/)
+- [AndroidX Junit Test Ideas on Sample Project](https://www.reddit.com/r/androiddev/comments/qc508m/androidx_junit_test_ideas_on_sample_project/)
+- [Strange behavior on Xiaomi device!](https://www.reddit.com/r/androiddev/comments/qc3sh2/strange_behavior_on_xiaomi_device/)
+- [Windows 11 Subsystem for Android](https://www.reddit.com/r/androiddev/comments/qc3gug/windows_11_subsystem_for_android/)
+- [Does anyone know what is the deadline to implement 30 characters or less for App title?](https://www.reddit.com/r/androiddev/comments/qc34zz/does_anyone_know_what_is_the_deadline_to/)
+- [Tips for Kotlin Project | Supercharge your Kotlin Project](https://www.reddit.com/r/androiddev/comments/qc2shg/tips_for_kotlin_project_supercharge_your_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
