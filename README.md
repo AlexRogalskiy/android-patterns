@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are all Jetpack Compose libraries totally stable? Or are there some ones aren't yet?](https://www.reddit.com/r/androiddev/comments/qcfi9d/are_all_jetpack_compose_libraries_totally_stable/)
-- [Roadmap for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/qcd5kq/roadmap_for_jetpack_compose/)
-- [RecyclerView - best practices](https://www.reddit.com/r/androiddev/comments/qcaqu1/recyclerview_best_practices/)
-- [Droidcon Berlin 2021 at a quick glance!](https://www.reddit.com/r/androiddev/comments/qcai1z/droidcon_berlin_2021_at_a_quick_glance/)
-- [It's so difficult to work with ConstraintLayout on my Dell laptop with not so great trackpad(mouse). MacBook Trackpad is Excellent in this regard. Do we have any external trackpad that can be used with my Dell laptop.](https://www.reddit.com/r/androiddev/comments/qc7vuf/its_so_difficult_to_work_with_constraintlayout_on/)
-- [AndroidX Junit Test Ideas on Sample Project](https://www.reddit.com/r/androiddev/comments/qc508m/androidx_junit_test_ideas_on_sample_project/)
-- [Strange behavior on Xiaomi device!](https://www.reddit.com/r/androiddev/comments/qc3sh2/strange_behavior_on_xiaomi_device/)
-- [Windows 11 Subsystem for Android](https://www.reddit.com/r/androiddev/comments/qc3gug/windows_11_subsystem_for_android/)
-- [Does anyone know what is the deadline to implement 30 characters or less for App title?](https://www.reddit.com/r/androiddev/comments/qc34zz/does_anyone_know_what_is_the_deadline_to/)
-- [Tips for Kotlin Project | Supercharge your Kotlin Project](https://www.reddit.com/r/androiddev/comments/qc2shg/tips_for_kotlin_project_supercharge_your_kotlin/)
+- [List of Popular Apps & Their Core Framework?](https://www.reddit.com/r/androiddev/comments/qd6j3j/list_of_popular_apps_their_core_framework/)
+- [SaveInstanceState. Do you use it?](https://www.reddit.com/r/androiddev/comments/qd51cz/saveinstancestate_do_you_use_it/)
+- [When it comes to logcat and adb, is there a more efficient way to look at the general timeline of usage? Example below..](https://www.reddit.com/r/androiddev/comments/qd47qm/when_it_comes_to_logcat_and_adb_is_there_a_more/)
+- [Is it possible to add another app into Media Management?](https://www.reddit.com/r/androiddev/comments/qd42bq/is_it_possible_to_add_another_app_into_media/)
+- [For an app with a MapView, should we support approximate location?](https://www.reddit.com/r/androiddev/comments/qd3mw3/for_an_app_with_a_mapview_should_we_support/)
+- [What's the best android location library.](https://www.reddit.com/r/androiddev/comments/qcyfta/whats_the_best_android_location_library/)
+- [Background service much less used now?](https://www.reddit.com/r/androiddev/comments/qcy1es/background_service_much_less_used_now/)
+- [Evolving our business model to address developer needs](https://www.reddit.com/r/androiddev/comments/qcxskg/evolving_our_business_model_to_address_developer/)
+- [Android and Arduino Studio](https://www.reddit.com/r/androiddev/comments/qcw4s8/android_and_arduino_studio/)
+- [Country origin of Wellsource developers](https://www.reddit.com/r/androiddev/comments/qcvu4d/country_origin_of_wellsource_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
