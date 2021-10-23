@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [List of Popular Apps & Their Core Framework?](https://www.reddit.com/r/androiddev/comments/qd6j3j/list_of_popular_apps_their_core_framework/)
-- [SaveInstanceState. Do you use it?](https://www.reddit.com/r/androiddev/comments/qd51cz/saveinstancestate_do_you_use_it/)
-- [When it comes to logcat and adb, is there a more efficient way to look at the general timeline of usage? Example below..](https://www.reddit.com/r/androiddev/comments/qd47qm/when_it_comes_to_logcat_and_adb_is_there_a_more/)
-- [Is it possible to add another app into Media Management?](https://www.reddit.com/r/androiddev/comments/qd42bq/is_it_possible_to_add_another_app_into_media/)
-- [For an app with a MapView, should we support approximate location?](https://www.reddit.com/r/androiddev/comments/qd3mw3/for_an_app_with_a_mapview_should_we_support/)
-- [What's the best android location library.](https://www.reddit.com/r/androiddev/comments/qcyfta/whats_the_best_android_location_library/)
-- [Background service much less used now?](https://www.reddit.com/r/androiddev/comments/qcy1es/background_service_much_less_used_now/)
-- [Evolving our business model to address developer needs](https://www.reddit.com/r/androiddev/comments/qcxskg/evolving_our_business_model_to_address_developer/)
-- [Android and Arduino Studio](https://www.reddit.com/r/androiddev/comments/qcw4s8/android_and_arduino_studio/)
-- [Country origin of Wellsource developers](https://www.reddit.com/r/androiddev/comments/qcvu4d/country_origin_of_wellsource_developers/)
+- [Do anybody know tha answer for the "The emulator process for android was killed/terminated" issue?](https://www.reddit.com/r/androiddev/comments/qdtovs/do_anybody_know_tha_answer_for_the_the_emulator/)
+- [My friendly talk with Paulo da Silva the Business Developer of eShard Mobile Application Security Service Testing at #dcbln21 about the kind of service they are providing.](https://www.reddit.com/r/androiddev/comments/qdpou0/my_friendly_talk_with_paulo_da_silva_the_business/)
+- [How to get a URL with a Privacy Policy for Kids App?](https://www.reddit.com/r/androiddev/comments/qdm66g/how_to_get_a_url_with_a_privacy_policy_for_kids/)
+- [Is publishing apps on Samsung Portal worth it?](https://www.reddit.com/r/androiddev/comments/qdkfdp/is_publishing_apps_on_samsung_portal_worth_it/)
+- [What am I missing? Using Volley, trying to import its classes](https://www.reddit.com/r/androiddev/comments/qdi2ru/what_am_i_missing_using_volley_trying_to_import/)
+- [Help sedding up admob GDPR eu consent form](https://www.reddit.com/r/androiddev/comments/qdi01m/help_sedding_up_admob_gdpr_eu_consent_form/)
+- [So I remade Squid Game....](https://www.reddit.com/r/androiddev/comments/qdhhrq/so_i_remade_squid_game/)
+- [How to cross-promote app correctly?](https://www.reddit.com/r/androiddev/comments/qdgfu6/how_to_crosspromote_app_correctly/)
+- [App Feedback Thread - October 22, 2021](https://www.reddit.com/r/androiddev/comments/qdgf6n/app_feedback_thread_october_22_2021/)
+- [Android Avengers chat demo project using Stream Chat SDK based on MVVM architecture. (ViewModel, Hilt, Coroutines, Room, Repository)](https://www.reddit.com/r/androiddev/comments/qdg1qt/android_avengers_chat_demo_project_using_stream/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
