@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do anybody know tha answer for the "The emulator process for android was killed/terminated" issue?](https://www.reddit.com/r/androiddev/comments/qdtovs/do_anybody_know_tha_answer_for_the_the_emulator/)
-- [My friendly talk with Paulo da Silva the Business Developer of eShard Mobile Application Security Service Testing at #dcbln21 about the kind of service they are providing.](https://www.reddit.com/r/androiddev/comments/qdpou0/my_friendly_talk_with_paulo_da_silva_the_business/)
-- [How to get a URL with a Privacy Policy for Kids App?](https://www.reddit.com/r/androiddev/comments/qdm66g/how_to_get_a_url_with_a_privacy_policy_for_kids/)
-- [Is publishing apps on Samsung Portal worth it?](https://www.reddit.com/r/androiddev/comments/qdkfdp/is_publishing_apps_on_samsung_portal_worth_it/)
-- [What am I missing? Using Volley, trying to import its classes](https://www.reddit.com/r/androiddev/comments/qdi2ru/what_am_i_missing_using_volley_trying_to_import/)
-- [Help sedding up admob GDPR eu consent form](https://www.reddit.com/r/androiddev/comments/qdi01m/help_sedding_up_admob_gdpr_eu_consent_form/)
-- [So I remade Squid Game....](https://www.reddit.com/r/androiddev/comments/qdhhrq/so_i_remade_squid_game/)
-- [How to cross-promote app correctly?](https://www.reddit.com/r/androiddev/comments/qdgfu6/how_to_crosspromote_app_correctly/)
-- [App Feedback Thread - October 22, 2021](https://www.reddit.com/r/androiddev/comments/qdgf6n/app_feedback_thread_october_22_2021/)
-- [Android Avengers chat demo project using Stream Chat SDK based on MVVM architecture. (ViewModel, Hilt, Coroutines, Room, Repository)](https://www.reddit.com/r/androiddev/comments/qdg1qt/android_avengers_chat_demo_project_using_stream/)
+- [Reverse engineer an app](https://www.reddit.com/r/androiddev/comments/qehjgi/reverse_engineer_an_app/)
+- [How do I put this thing in debugging mode with a screen like this?](https://www.reddit.com/r/androiddev/comments/qehghj/how_do_i_put_this_thing_in_debugging_mode_with_a/)
+- [Continue with flutter (android studio) or move to react native](https://www.reddit.com/r/androiddev/comments/qegf08/continue_with_flutter_android_studio_or_move_to/)
+- [My interview with Zebra Technologies about their barcode scanner solutions using the Android operating system!](https://www.reddit.com/r/androiddev/comments/qeczd1/my_interview_with_zebra_technologies_about_their/)
+- [Jetpack Compose: filling max width or height](https://www.reddit.com/r/androiddev/comments/qec80x/jetpack_compose_filling_max_width_or_height/)
+- [Can we debug system app on emulator?](https://www.reddit.com/r/androiddev/comments/qeay1s/can_we_debug_system_app_on_emulator/)
+- [Im still confuse if its allowed for a single person to create multiple developer accounts? I know it states on the policy that only one developer account per user but whenever we login to play console we get to see a "choose developer account"(could be multiple?) after logging in using email.](https://www.reddit.com/r/androiddev/comments/qe94av/im_still_confuse_if_its_allowed_for_a_single/)
+- [Screenshot testing to replace espresso testing](https://www.reddit.com/r/androiddev/comments/qe62kt/screenshot_testing_to_replace_espresso_testing/)
+- [KMM Beta Roadmap](https://www.reddit.com/r/androiddev/comments/qe5zls/kmm_beta_roadmap/)
+- [What payment provider do you use for your android app?](https://www.reddit.com/r/androiddev/comments/qe51uf/what_payment_provider_do_you_use_for_your_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
