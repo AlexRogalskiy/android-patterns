@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Reverse engineer an app](https://www.reddit.com/r/androiddev/comments/qehjgi/reverse_engineer_an_app/)
-- [How do I put this thing in debugging mode with a screen like this?](https://www.reddit.com/r/androiddev/comments/qehghj/how_do_i_put_this_thing_in_debugging_mode_with_a/)
-- [Continue with flutter (android studio) or move to react native](https://www.reddit.com/r/androiddev/comments/qegf08/continue_with_flutter_android_studio_or_move_to/)
-- [My interview with Zebra Technologies about their barcode scanner solutions using the Android operating system!](https://www.reddit.com/r/androiddev/comments/qeczd1/my_interview_with_zebra_technologies_about_their/)
-- [Jetpack Compose: filling max width or height](https://www.reddit.com/r/androiddev/comments/qec80x/jetpack_compose_filling_max_width_or_height/)
-- [Can we debug system app on emulator?](https://www.reddit.com/r/androiddev/comments/qeay1s/can_we_debug_system_app_on_emulator/)
-- [Im still confuse if its allowed for a single person to create multiple developer accounts? I know it states on the policy that only one developer account per user but whenever we login to play console we get to see a "choose developer account"(could be multiple?) after logging in using email.](https://www.reddit.com/r/androiddev/comments/qe94av/im_still_confuse_if_its_allowed_for_a_single/)
-- [Screenshot testing to replace espresso testing](https://www.reddit.com/r/androiddev/comments/qe62kt/screenshot_testing_to_replace_espresso_testing/)
-- [KMM Beta Roadmap](https://www.reddit.com/r/androiddev/comments/qe5zls/kmm_beta_roadmap/)
-- [What payment provider do you use for your android app?](https://www.reddit.com/r/androiddev/comments/qe51uf/what_payment_provider_do_you_use_for_your_android/)
+- [Google Play Console not providing me an option to upload APKs?](https://www.reddit.com/r/androiddev/comments/qezjdd/google_play_console_not_providing_me_an_option_to/)
+- [Is compose actually production ready?](https://www.reddit.com/r/androiddev/comments/qezc07/is_compose_actually_production_ready/)
+- [trying to find device specs from a fake android smarthphone](https://www.reddit.com/r/androiddev/comments/qes0um/trying_to_find_device_specs_from_a_fake_android/)
+- [Android prototyping](https://www.reddit.com/r/androiddev/comments/qer062/android_prototyping/)
+- [What is the best way to read csv body from HTTP response?](https://www.reddit.com/r/androiddev/comments/qeqjun/what_is_the_best_way_to_read_csv_body_from_http/)
+- [My interview with Realm about their open source library and new features they introduced at Droidcon Berlin 2021!](https://www.reddit.com/r/androiddev/comments/qepl5k/my_interview_with_realm_about_their_open_source/)
+- [EditText disappearing at Custom View usage](https://www.reddit.com/r/androiddev/comments/qenleh/edittext_disappearing_at_custom_view_usage/)
+- [ADB Shell Error Closed](https://www.reddit.com/r/androiddev/comments/qenkzg/adb_shell_error_closed/)
+- [Personal account vs business account](https://www.reddit.com/r/androiddev/comments/qenb7h/personal_account_vs_business_account/)
+- [Android Emulator not responding in Windows 11 version 21H2](https://www.reddit.com/r/androiddev/comments/qemloj/android_emulator_not_responding_in_windows_11/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
