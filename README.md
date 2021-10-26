@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play Console not providing me an option to upload APKs?](https://www.reddit.com/r/androiddev/comments/qezjdd/google_play_console_not_providing_me_an_option_to/)
-- [Is compose actually production ready?](https://www.reddit.com/r/androiddev/comments/qezc07/is_compose_actually_production_ready/)
-- [trying to find device specs from a fake android smarthphone](https://www.reddit.com/r/androiddev/comments/qes0um/trying_to_find_device_specs_from_a_fake_android/)
-- [Android prototyping](https://www.reddit.com/r/androiddev/comments/qer062/android_prototyping/)
-- [What is the best way to read csv body from HTTP response?](https://www.reddit.com/r/androiddev/comments/qeqjun/what_is_the_best_way_to_read_csv_body_from_http/)
-- [My interview with Realm about their open source library and new features they introduced at Droidcon Berlin 2021!](https://www.reddit.com/r/androiddev/comments/qepl5k/my_interview_with_realm_about_their_open_source/)
-- [EditText disappearing at Custom View usage](https://www.reddit.com/r/androiddev/comments/qenleh/edittext_disappearing_at_custom_view_usage/)
-- [ADB Shell Error Closed](https://www.reddit.com/r/androiddev/comments/qenkzg/adb_shell_error_closed/)
-- [Personal account vs business account](https://www.reddit.com/r/androiddev/comments/qenb7h/personal_account_vs_business_account/)
-- [Android Emulator not responding in Windows 11 version 21H2](https://www.reddit.com/r/androiddev/comments/qemloj/android_emulator_not_responding_in_windows_11/)
+- [Macbook Pro 16" -- M1 Pro vs. M1 Max](https://www.reddit.com/r/androiddev/comments/qfvc5u/macbook_pro_16_m1_pro_vs_m1_max/)
+- [Is a running service the best option for making a request where you want to minimize the chances of it failing?](https://www.reddit.com/r/androiddev/comments/qfuz2u/is_a_running_service_the_best_option_for_making_a/)
+- [DESFIRE EV1 card scan](https://www.reddit.com/r/androiddev/comments/qfrput/desfire_ev1_card_scan/)
+- [Trying to learn about Android APKs, can't seem to figure out where the source code in decompiled APK files are.](https://www.reddit.com/r/androiddev/comments/qfqotv/trying_to_learn_about_android_apks_cant_seem_to/)
+- [Play console update rejected](https://www.reddit.com/r/androiddev/comments/qfjodi/play_console_update_rejected/)
+- [Android app ownership transfer question!](https://www.reddit.com/r/androiddev/comments/qfjfta/android_app_ownership_transfer_question/)
+- [apps supporting the full screen size/shape of the pixel 4 and ;](https://www.reddit.com/r/androiddev/comments/qfjce3/apps_supporting_the_full_screen_sizeshape_of_the/)
+- [Is it even possible to get an actual response in Google Play appeals?](https://www.reddit.com/r/androiddev/comments/qfif4c/is_it_even_possible_to_get_an_actual_response_in/)
+- [Weekly Who's Hiring Thread - October 25, 2021](https://www.reddit.com/r/androiddev/comments/qfg73u/weekly_whos_hiring_thread_october_25_2021/)
+- [Using 'TalkBack' in my apps title](https://www.reddit.com/r/androiddev/comments/qffuyu/using_talkback_in_my_apps_title/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
