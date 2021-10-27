@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Macbook Pro 16" -- M1 Pro vs. M1 Max](https://www.reddit.com/r/androiddev/comments/qfvc5u/macbook_pro_16_m1_pro_vs_m1_max/)
-- [Is a running service the best option for making a request where you want to minimize the chances of it failing?](https://www.reddit.com/r/androiddev/comments/qfuz2u/is_a_running_service_the_best_option_for_making_a/)
-- [DESFIRE EV1 card scan](https://www.reddit.com/r/androiddev/comments/qfrput/desfire_ev1_card_scan/)
-- [Trying to learn about Android APKs, can't seem to figure out where the source code in decompiled APK files are.](https://www.reddit.com/r/androiddev/comments/qfqotv/trying_to_learn_about_android_apks_cant_seem_to/)
-- [Play console update rejected](https://www.reddit.com/r/androiddev/comments/qfjodi/play_console_update_rejected/)
-- [Android app ownership transfer question!](https://www.reddit.com/r/androiddev/comments/qfjfta/android_app_ownership_transfer_question/)
-- [apps supporting the full screen size/shape of the pixel 4 and ;](https://www.reddit.com/r/androiddev/comments/qfjce3/apps_supporting_the_full_screen_sizeshape_of_the/)
-- [Is it even possible to get an actual response in Google Play appeals?](https://www.reddit.com/r/androiddev/comments/qfif4c/is_it_even_possible_to_get_an_actual_response_in/)
-- [Weekly Who's Hiring Thread - October 25, 2021](https://www.reddit.com/r/androiddev/comments/qfg73u/weekly_whos_hiring_thread_october_25_2021/)
-- [Using 'TalkBack' in my apps title](https://www.reddit.com/r/androiddev/comments/qffuyu/using_talkback_in_my_apps_title/)
+- [Macbook Pro m1 how stable for Android Development?](https://www.reddit.com/r/androiddev/comments/qgje0u/macbook_pro_m1_how_stable_for_android_development/)
+- [Inflate fragment inside InputMethodService](https://www.reddit.com/r/androiddev/comments/qggyfc/inflate_fragment_inside_inputmethodservice/)
+- [input validation](https://www.reddit.com/r/androiddev/comments/qgf7cn/input_validation/)
+- [Can you guys help me with understanding contexts?](https://www.reddit.com/r/androiddev/comments/qgei3z/can_you_guys_help_me_with_understanding_contexts/)
+- [android development](https://www.reddit.com/r/androiddev/comments/qgbbw6/android_development/)
+- [Gadget - A library to make analytics event tracking more easier and reliable](https://www.reddit.com/r/androiddev/comments/qga4r7/gadget_a_library_to_make_analytics_event_tracking/)
+- [Navigating Screens in Jetpack Compose (DevFest India 2021 - Mobile Track)](https://www.reddit.com/r/androiddev/comments/qg9ofs/navigating_screens_in_jetpack_compose_devfest/)
+- [My boss is asking me for a quote on a mobile app that integrates into our POS system. I can design it but I can’t develop/code for my life! How much should I quote her? What should I base the price on?](https://www.reddit.com/r/androiddev/comments/qg8j7f/my_boss_is_asking_me_for_a_quote_on_a_mobile_app/)
+- [Could money be the only reason to stay with a company as an Android Developer?](https://www.reddit.com/r/androiddev/comments/qg7tx6/could_money_be_the_only_reason_to_stay_with_a/)
+- [Weekly Questions Thread - October 26, 2021](https://www.reddit.com/r/androiddev/comments/qg5vnl/weekly_questions_thread_october_26_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
