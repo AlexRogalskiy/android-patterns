@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Macbook Pro m1 how stable for Android Development?](https://www.reddit.com/r/androiddev/comments/qgje0u/macbook_pro_m1_how_stable_for_android_development/)
-- [Inflate fragment inside InputMethodService](https://www.reddit.com/r/androiddev/comments/qggyfc/inflate_fragment_inside_inputmethodservice/)
-- [input validation](https://www.reddit.com/r/androiddev/comments/qgf7cn/input_validation/)
-- [Can you guys help me with understanding contexts?](https://www.reddit.com/r/androiddev/comments/qgei3z/can_you_guys_help_me_with_understanding_contexts/)
-- [android development](https://www.reddit.com/r/androiddev/comments/qgbbw6/android_development/)
-- [Gadget - A library to make analytics event tracking more easier and reliable](https://www.reddit.com/r/androiddev/comments/qga4r7/gadget_a_library_to_make_analytics_event_tracking/)
-- [Navigating Screens in Jetpack Compose (DevFest India 2021 - Mobile Track)](https://www.reddit.com/r/androiddev/comments/qg9ofs/navigating_screens_in_jetpack_compose_devfest/)
-- [My boss is asking me for a quote on a mobile app that integrates into our POS system. I can design it but I can’t develop/code for my life! How much should I quote her? What should I base the price on?](https://www.reddit.com/r/androiddev/comments/qg8j7f/my_boss_is_asking_me_for_a_quote_on_a_mobile_app/)
-- [Could money be the only reason to stay with a company as an Android Developer?](https://www.reddit.com/r/androiddev/comments/qg7tx6/could_money_be_the_only_reason_to_stay_with_a/)
-- [Weekly Questions Thread - October 26, 2021](https://www.reddit.com/r/androiddev/comments/qg5vnl/weekly_questions_thread_october_26_2021/)
+- [How to remove sticky code? Or is this a bug](https://www.reddit.com/r/androiddev/comments/qhb9ag/how_to_remove_sticky_code_or_is_this_a_bug/)
+- [Questions about the data safety form](https://www.reddit.com/r/androiddev/comments/qh8oev/questions_about_the_data_safety_form/)
+- [General curiosity: Android and ChromeOS - what is the difference?](https://www.reddit.com/r/androiddev/comments/qh69e2/general_curiosity_android_and_chromeos_what_is/)
+- [Question about App name on playstore](https://www.reddit.com/r/androiddev/comments/qh5trb/question_about_app_name_on_playstore/)
+- [Easiest way to create a 'betting' app?](https://www.reddit.com/r/androiddev/comments/qh5p4u/easiest_way_to_create_a_betting_app/)
+- [Android accelerometer doesn't reach 0](https://www.reddit.com/r/androiddev/comments/qh4i40/android_accelerometer_doesnt_reach_0/)
+- [Material You components, libraries, and guidelines released](https://www.reddit.com/r/androiddev/comments/qh337v/material_you_components_libraries_and_guidelines/)
+- [Someone forgot to remove the drawer menu in the new YouTube Studio app. 😁 The menu button is not there but swipe gesture works. 🤷‍♂️](https://www.reddit.com/r/androiddev/comments/qh30p3/someone_forgot_to_remove_the_drawer_menu_in_the/)
+- [Android Developers Blog: Introducing Jetpack Media3](https://www.reddit.com/r/androiddev/comments/qh2s5d/android_developers_blog_introducing_jetpack_media3/)
+- [Android Studio Chipmunk Canary 3 available](https://www.reddit.com/r/androiddev/comments/qh2iiu/android_studio_chipmunk_canary_3_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
