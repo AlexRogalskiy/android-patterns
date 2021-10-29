@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to remove sticky code? Or is this a bug](https://www.reddit.com/r/androiddev/comments/qhb9ag/how_to_remove_sticky_code_or_is_this_a_bug/)
-- [Questions about the data safety form](https://www.reddit.com/r/androiddev/comments/qh8oev/questions_about_the_data_safety_form/)
-- [General curiosity: Android and ChromeOS - what is the difference?](https://www.reddit.com/r/androiddev/comments/qh69e2/general_curiosity_android_and_chromeos_what_is/)
-- [Question about App name on playstore](https://www.reddit.com/r/androiddev/comments/qh5trb/question_about_app_name_on_playstore/)
-- [Easiest way to create a 'betting' app?](https://www.reddit.com/r/androiddev/comments/qh5p4u/easiest_way_to_create_a_betting_app/)
-- [Android accelerometer doesn't reach 0](https://www.reddit.com/r/androiddev/comments/qh4i40/android_accelerometer_doesnt_reach_0/)
-- [Material You components, libraries, and guidelines released](https://www.reddit.com/r/androiddev/comments/qh337v/material_you_components_libraries_and_guidelines/)
-- [Someone forgot to remove the drawer menu in the new YouTube Studio app. 😁 The menu button is not there but swipe gesture works. 🤷‍♂️](https://www.reddit.com/r/androiddev/comments/qh30p3/someone_forgot_to_remove_the_drawer_menu_in_the/)
-- [Android Developers Blog: Introducing Jetpack Media3](https://www.reddit.com/r/androiddev/comments/qh2s5d/android_developers_blog_introducing_jetpack_media3/)
-- [Android Studio Chipmunk Canary 3 available](https://www.reddit.com/r/androiddev/comments/qh2iiu/android_studio_chipmunk_canary_3_available/)
+- [Advice on frameworks](https://www.reddit.com/r/androiddev/comments/qhzo3h/advice_on_frameworks/)
+- [Just got email FB lawiers to shut down my app. But my app using only one public WA API doing nothing more than thousands of websites..](https://www.reddit.com/r/androiddev/comments/qhz2j8/just_got_email_fb_lawiers_to_shut_down_my_app_but/)
+- [Data safety form / privacy policy nag emails for long-dead apps](https://www.reddit.com/r/androiddev/comments/qhylex/data_safety_form_privacy_policy_nag_emails_for/)
+- [Where do I store sensitive wallet keys on Android?](https://www.reddit.com/r/androiddev/comments/qhwe56/where_do_i_store_sensitive_wallet_keys_on_android/)
+- [Are there any sales coming up for the Android Kotlin Udacity program?](https://www.reddit.com/r/androiddev/comments/qhw7lr/are_there_any_sales_coming_up_for_the_android/)
+- [How can I effectively learn what to mock and fake in an Android MVVM project for testing?](https://www.reddit.com/r/androiddev/comments/qhuo05/how_can_i_effectively_learn_what_to_mock_and_fake/)
+- [Udacity's Nanodegree program](https://www.reddit.com/r/androiddev/comments/qht9d0/udacitys_nanodegree_program/)
+- [Repository of Android rating/review flows](https://www.reddit.com/r/androiddev/comments/qhrjxa/repository_of_android_ratingreview_flows/)
+- [Android Studio Bumblebee Beta 2 now available](https://www.reddit.com/r/androiddev/comments/qhreu3/android_studio_bumblebee_beta_2_now_available/)
+- [Data Safety Form and Ads](https://www.reddit.com/r/androiddev/comments/qhqtt0/data_safety_form_and_ads/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
