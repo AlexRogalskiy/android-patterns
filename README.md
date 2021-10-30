@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Advice on frameworks](https://www.reddit.com/r/androiddev/comments/qhzo3h/advice_on_frameworks/)
-- [Just got email FB lawiers to shut down my app. But my app using only one public WA API doing nothing more than thousands of websites..](https://www.reddit.com/r/androiddev/comments/qhz2j8/just_got_email_fb_lawiers_to_shut_down_my_app_but/)
-- [Data safety form / privacy policy nag emails for long-dead apps](https://www.reddit.com/r/androiddev/comments/qhylex/data_safety_form_privacy_policy_nag_emails_for/)
-- [Where do I store sensitive wallet keys on Android?](https://www.reddit.com/r/androiddev/comments/qhwe56/where_do_i_store_sensitive_wallet_keys_on_android/)
-- [Are there any sales coming up for the Android Kotlin Udacity program?](https://www.reddit.com/r/androiddev/comments/qhw7lr/are_there_any_sales_coming_up_for_the_android/)
-- [How can I effectively learn what to mock and fake in an Android MVVM project for testing?](https://www.reddit.com/r/androiddev/comments/qhuo05/how_can_i_effectively_learn_what_to_mock_and_fake/)
-- [Udacity's Nanodegree program](https://www.reddit.com/r/androiddev/comments/qht9d0/udacitys_nanodegree_program/)
-- [Repository of Android rating/review flows](https://www.reddit.com/r/androiddev/comments/qhrjxa/repository_of_android_ratingreview_flows/)
-- [Android Studio Bumblebee Beta 2 now available](https://www.reddit.com/r/androiddev/comments/qhreu3/android_studio_bumblebee_beta_2_now_available/)
-- [Data Safety Form and Ads](https://www.reddit.com/r/androiddev/comments/qhqtt0/data_safety_form_and_ads/)
+- [REST in 2021](https://www.reddit.com/r/androiddev/comments/qimw3d/rest_in_2021/)
+- [Flutter or Android NDK/iOS external C++ library usage ?](https://www.reddit.com/r/androiddev/comments/qimf7y/flutter_or_android_ndkios_external_c_library_usage/)
+- [Stuck at this question: Do you provide a way for users to request that their data is deleted?](https://www.reddit.com/r/androiddev/comments/qiik85/stuck_at_this_question_do_you_provide_a_way_for/)
+- [Database usage guidelines for apps](https://www.reddit.com/r/androiddev/comments/qihvz1/database_usage_guidelines_for_apps/)
+- [Is it realistic to earn survivable amount of money by being an individual app developer and selling apps on google play store?](https://www.reddit.com/r/androiddev/comments/qihppk/is_it_realistic_to_earn_survivable_amount_of/)
+- [For anyone who's done the Android Kotlin nanodegree program from Udacity - Where are you now?](https://www.reddit.com/r/androiddev/comments/qihdk5/for_anyone_whos_done_the_android_kotlin/)
+- [Alternative to my solution? Tracking when views are in view](https://www.reddit.com/r/androiddev/comments/qiet0c/alternative_to_my_solution_tracking_when_views/)
+- [Avoiding Invalid Activity on Admob](https://www.reddit.com/r/androiddev/comments/qiecr5/avoiding_invalid_activity_on_admob/)
+- [android.view.WindowManager$BadTokenException](https://www.reddit.com/r/androiddev/comments/qicmto/androidviewwindowmanagerbadtokenexception/)
+- [App Feedback Thread - October 29, 2021](https://www.reddit.com/r/androiddev/comments/qic9n7/app_feedback_thread_october_29_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
