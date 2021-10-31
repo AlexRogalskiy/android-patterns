@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [REST in 2021](https://www.reddit.com/r/androiddev/comments/qimw3d/rest_in_2021/)
-- [Flutter or Android NDK/iOS external C++ library usage ?](https://www.reddit.com/r/androiddev/comments/qimf7y/flutter_or_android_ndkios_external_c_library_usage/)
-- [Stuck at this question: Do you provide a way for users to request that their data is deleted?](https://www.reddit.com/r/androiddev/comments/qiik85/stuck_at_this_question_do_you_provide_a_way_for/)
-- [Database usage guidelines for apps](https://www.reddit.com/r/androiddev/comments/qihvz1/database_usage_guidelines_for_apps/)
-- [Is it realistic to earn survivable amount of money by being an individual app developer and selling apps on google play store?](https://www.reddit.com/r/androiddev/comments/qihppk/is_it_realistic_to_earn_survivable_amount_of/)
-- [For anyone who's done the Android Kotlin nanodegree program from Udacity - Where are you now?](https://www.reddit.com/r/androiddev/comments/qihdk5/for_anyone_whos_done_the_android_kotlin/)
-- [Alternative to my solution? Tracking when views are in view](https://www.reddit.com/r/androiddev/comments/qiet0c/alternative_to_my_solution_tracking_when_views/)
-- [Avoiding Invalid Activity on Admob](https://www.reddit.com/r/androiddev/comments/qiecr5/avoiding_invalid_activity_on_admob/)
-- [android.view.WindowManager$BadTokenException](https://www.reddit.com/r/androiddev/comments/qicmto/androidviewwindowmanagerbadtokenexception/)
-- [App Feedback Thread - October 29, 2021](https://www.reddit.com/r/androiddev/comments/qic9n7/app_feedback_thread_october_29_2021/)
+- [Do you have any favorite blog writers (ideally from Seniors, Leads, etc.)](https://www.reddit.com/r/androiddev/comments/qjeutl/do_you_have_any_favorite_blog_writers_ideally/)
+- [Working on some software for the retail techs out there, here is one of the features I’m working on (AutoSetup w/o NFC or USB debugging)](https://www.reddit.com/r/androiddev/comments/qj5n31/working_on_some_software_for_the_retail_techs_out/)
+- [Android 12 - Deactivate Stretch/Bounce effect for certain elements](https://www.reddit.com/r/androiddev/comments/qj4x0o/android_12_deactivate_stretchbounce_effect_for/)
+- [Is there any learning source/ github repo talking about using ktor web sockets in android for instance chatting app?](https://www.reddit.com/r/androiddev/comments/qj4jjx/is_there_any_learning_source_github_repo_talking/)
+- [How does eye tracking work on Android ?](https://www.reddit.com/r/androiddev/comments/qj20w9/how_does_eye_tracking_work_on_android/)
+- [Preferred Back end for Chat App](https://www.reddit.com/r/androiddev/comments/qj1jtp/preferred_back_end_for_chat_app/)
+- [Self taught dev about to start applying, critique my resume please!](https://www.reddit.com/r/androiddev/comments/qj0emo/self_taught_dev_about_to_start_applying_critique/)
+- [Anybody using Jetpack compose in production?](https://www.reddit.com/r/androiddev/comments/qiz0mm/anybody_using_jetpack_compose_in_production/)
+- [Anyone knows how to fix this bad FAB animation?](https://www.reddit.com/r/androiddev/comments/qiyikc/anyone_knows_how_to_fix_this_bad_fab_animation/)
+- [My last interview at Droidcon Berlin 2021 with Delivery Hero, about how they use Android to deliver an amazing experience to their customers.](https://www.reddit.com/r/androiddev/comments/qiyhf3/my_last_interview_at_droidcon_berlin_2021_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
