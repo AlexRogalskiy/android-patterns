@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do you have any favorite blog writers (ideally from Seniors, Leads, etc.)](https://www.reddit.com/r/androiddev/comments/qjeutl/do_you_have_any_favorite_blog_writers_ideally/)
-- [Working on some software for the retail techs out there, here is one of the features I’m working on (AutoSetup w/o NFC or USB debugging)](https://www.reddit.com/r/androiddev/comments/qj5n31/working_on_some_software_for_the_retail_techs_out/)
-- [Android 12 - Deactivate Stretch/Bounce effect for certain elements](https://www.reddit.com/r/androiddev/comments/qj4x0o/android_12_deactivate_stretchbounce_effect_for/)
-- [Is there any learning source/ github repo talking about using ktor web sockets in android for instance chatting app?](https://www.reddit.com/r/androiddev/comments/qj4jjx/is_there_any_learning_source_github_repo_talking/)
-- [How does eye tracking work on Android ?](https://www.reddit.com/r/androiddev/comments/qj20w9/how_does_eye_tracking_work_on_android/)
-- [Preferred Back end for Chat App](https://www.reddit.com/r/androiddev/comments/qj1jtp/preferred_back_end_for_chat_app/)
-- [Self taught dev about to start applying, critique my resume please!](https://www.reddit.com/r/androiddev/comments/qj0emo/self_taught_dev_about_to_start_applying_critique/)
-- [Anybody using Jetpack compose in production?](https://www.reddit.com/r/androiddev/comments/qiz0mm/anybody_using_jetpack_compose_in_production/)
-- [Anyone knows how to fix this bad FAB animation?](https://www.reddit.com/r/androiddev/comments/qiyikc/anyone_knows_how_to_fix_this_bad_fab_animation/)
-- [My last interview at Droidcon Berlin 2021 with Delivery Hero, about how they use Android to deliver an amazing experience to their customers.](https://www.reddit.com/r/androiddev/comments/qiyhf3/my_last_interview_at_droidcon_berlin_2021_with/)
+- [Implementation of a dynamic List in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/qk0ex9/implementation_of_a_dynamic_list_in_jetpack/)
+- [API for peer-to-peer payment requests?](https://www.reddit.com/r/androiddev/comments/qk0co5/api_for_peertopeer_payment_requests/)
+- [Has Anyone been a victim of Google Play account being terminated](https://www.reddit.com/r/androiddev/comments/qjyp72/has_anyone_been_a_victim_of_google_play_account/)
+- [Impact of using repeatOnLifecycle/flowWithLifecycle on cold Flows](https://www.reddit.com/r/androiddev/comments/qjxl28/impact_of_using/)
+- [How's Android Studio on Macbook Air M1](https://www.reddit.com/r/androiddev/comments/qjx55w/hows_android_studio_on_macbook_air_m1/)
+- [FAN Placements failing Admob Limiting Ads](https://www.reddit.com/r/androiddev/comments/qjuwcw/fan_placements_failing_admob_limiting_ads/)
+- [Is it possible to gather any information about GPU power consumption?](https://www.reddit.com/r/androiddev/comments/qjsck8/is_it_possible_to_gather_any_information_about/)
+- [question](https://www.reddit.com/r/androiddev/comments/qjoqs6/question/)
+- [How much can an app with 350 DAU and around 20,000 chat messages exchanged per day and 30k screen views per day earn via Google Admob? Right now I am being charged around 80 USD per month for Firebase database and server charges. Will I be able to recover it via Ads?](https://www.reddit.com/r/androiddev/comments/qjn1lp/how_much_can_an_app_with_350_dau_and_around_20000/)
+- [How do I smooth the bottom sheet height when making the view invisible? How can I animate that?](https://www.reddit.com/r/androiddev/comments/qjlm69/how_do_i_smooth_the_bottom_sheet_height_when/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
