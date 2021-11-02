@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Implementation of a dynamic List in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/qk0ex9/implementation_of_a_dynamic_list_in_jetpack/)
-- [API for peer-to-peer payment requests?](https://www.reddit.com/r/androiddev/comments/qk0co5/api_for_peertopeer_payment_requests/)
-- [Has Anyone been a victim of Google Play account being terminated](https://www.reddit.com/r/androiddev/comments/qjyp72/has_anyone_been_a_victim_of_google_play_account/)
-- [Impact of using repeatOnLifecycle/flowWithLifecycle on cold Flows](https://www.reddit.com/r/androiddev/comments/qjxl28/impact_of_using/)
-- [How's Android Studio on Macbook Air M1](https://www.reddit.com/r/androiddev/comments/qjx55w/hows_android_studio_on_macbook_air_m1/)
-- [FAN Placements failing Admob Limiting Ads](https://www.reddit.com/r/androiddev/comments/qjuwcw/fan_placements_failing_admob_limiting_ads/)
-- [Is it possible to gather any information about GPU power consumption?](https://www.reddit.com/r/androiddev/comments/qjsck8/is_it_possible_to_gather_any_information_about/)
-- [question](https://www.reddit.com/r/androiddev/comments/qjoqs6/question/)
-- [How much can an app with 350 DAU and around 20,000 chat messages exchanged per day and 30k screen views per day earn via Google Admob? Right now I am being charged around 80 USD per month for Firebase database and server charges. Will I be able to recover it via Ads?](https://www.reddit.com/r/androiddev/comments/qjn1lp/how_much_can_an_app_with_350_dau_and_around_20000/)
-- [How do I smooth the bottom sheet height when making the view invisible? How can I animate that?](https://www.reddit.com/r/androiddev/comments/qjlm69/how_do_i_smooth_the_bottom_sheet_height_when/)
+- [I cant install any apps i reset my tablet and everything I need find my phone](https://www.reddit.com/r/androiddev/comments/qksah7/i_cant_install_any_apps_i_reset_my_tablet_and/)
+- [Retrofit: Null value in Field is dropped on Put / Patch Request](https://www.reddit.com/r/androiddev/comments/qkq5ga/retrofit_null_value_in_field_is_dropped_on_put/)
+- [Announcing Kotlin support for protocol buffers](https://www.reddit.com/r/androiddev/comments/qkny7g/announcing_kotlin_support_for_protocol_buffers/)
+- [I want to apply for "Designed for Families" program but app have a link button to my playstore page which have +18 apps about lotto game predictions. Would that be a problem ?](https://www.reddit.com/r/androiddev/comments/qknfk3/i_want_to_apply_for_designed_for_families_program/)
+- [Better tooling to build widgets - Glance abstracts RemoteViews with Compose syntax](https://www.reddit.com/r/androiddev/comments/qkndpc/better_tooling_to_build_widgets_glance_abstracts/)
+- [Compose for Wear OS: Navigation](https://www.reddit.com/r/androiddev/comments/qkkm2l/compose_for_wear_os_navigation/)
+- [High school android development.](https://www.reddit.com/r/androiddev/comments/qkhhx5/high_school_android_development/)
+- [App developers and publish help](https://www.reddit.com/r/androiddev/comments/qkgp13/app_developers_and_publish_help/)
+- [My broadcast receiver doesnt work properly](https://www.reddit.com/r/androiddev/comments/qkfmk6/my_broadcast_receiver_doesnt_work_properly/)
+- [Weekly Who's Hiring Thread - November 01, 2021](https://www.reddit.com/r/androiddev/comments/qkelor/weekly_whos_hiring_thread_november_01_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
