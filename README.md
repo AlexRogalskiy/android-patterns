@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I cant install any apps i reset my tablet and everything I need find my phone](https://www.reddit.com/r/androiddev/comments/qksah7/i_cant_install_any_apps_i_reset_my_tablet_and/)
-- [Retrofit: Null value in Field is dropped on Put / Patch Request](https://www.reddit.com/r/androiddev/comments/qkq5ga/retrofit_null_value_in_field_is_dropped_on_put/)
-- [Announcing Kotlin support for protocol buffers](https://www.reddit.com/r/androiddev/comments/qkny7g/announcing_kotlin_support_for_protocol_buffers/)
-- [I want to apply for "Designed for Families" program but app have a link button to my playstore page which have +18 apps about lotto game predictions. Would that be a problem ?](https://www.reddit.com/r/androiddev/comments/qknfk3/i_want_to_apply_for_designed_for_families_program/)
-- [Better tooling to build widgets - Glance abstracts RemoteViews with Compose syntax](https://www.reddit.com/r/androiddev/comments/qkndpc/better_tooling_to_build_widgets_glance_abstracts/)
-- [Compose for Wear OS: Navigation](https://www.reddit.com/r/androiddev/comments/qkkm2l/compose_for_wear_os_navigation/)
-- [High school android development.](https://www.reddit.com/r/androiddev/comments/qkhhx5/high_school_android_development/)
-- [App developers and publish help](https://www.reddit.com/r/androiddev/comments/qkgp13/app_developers_and_publish_help/)
-- [My broadcast receiver doesnt work properly](https://www.reddit.com/r/androiddev/comments/qkfmk6/my_broadcast_receiver_doesnt_work_properly/)
-- [Weekly Who's Hiring Thread - November 01, 2021](https://www.reddit.com/r/androiddev/comments/qkelor/weekly_whos_hiring_thread_november_01_2021/)
+- [Looking for a browser that run website (GPS) in the background](https://www.reddit.com/r/androiddev/comments/qlia8s/looking_for_a_browser_that_run_website_gps_in_the/)
+- [Look this ridiculous tactic to lure in ad clicks](https://www.reddit.com/r/androiddev/comments/qlh8p7/look_this_ridiculous_tactic_to_lure_in_ad_clicks/)
+- [Back button does not change back to Menu icon](https://www.reddit.com/r/androiddev/comments/qlf9th/back_button_does_not_change_back_to_menu_icon/)
+- [Wrote an article about gradle properties and shared some cool ones that helped improve build speeds](https://www.reddit.com/r/androiddev/comments/qledn5/wrote_an_article_about_gradle_properties_and/)
+- [Trying to understand why a user can't download our app](https://www.reddit.com/r/androiddev/comments/qlcg4x/trying_to_understand_why_a_user_cant_download_our/)
+- [In-App Purchases](https://www.reddit.com/r/androiddev/comments/qlbmvn/inapp_purchases/)
+- [We created figma plugin for easy convert from Figma designs to Android Jetpack Compose code.](https://www.reddit.com/r/androiddev/comments/qlb6sn/we_created_figma_plugin_for_easy_convert_from/)
+- [Is there a way to change A12s quicksettings to those of A11?](https://www.reddit.com/r/androiddev/comments/qla5b1/is_there_a_way_to_change_a12s_quicksettings_to/)
+- [APNG vs GIF memory consumption](https://www.reddit.com/r/androiddev/comments/ql9u6d/apng_vs_gif_memory_consumption/)
+- [Is there a difference between Media and Documents?](https://www.reddit.com/r/androiddev/comments/ql83fg/is_there_a_difference_between_media_and_documents/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
