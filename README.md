@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for a browser that run website (GPS) in the background](https://www.reddit.com/r/androiddev/comments/qlia8s/looking_for_a_browser_that_run_website_gps_in_the/)
-- [Look this ridiculous tactic to lure in ad clicks](https://www.reddit.com/r/androiddev/comments/qlh8p7/look_this_ridiculous_tactic_to_lure_in_ad_clicks/)
-- [Back button does not change back to Menu icon](https://www.reddit.com/r/androiddev/comments/qlf9th/back_button_does_not_change_back_to_menu_icon/)
-- [Wrote an article about gradle properties and shared some cool ones that helped improve build speeds](https://www.reddit.com/r/androiddev/comments/qledn5/wrote_an_article_about_gradle_properties_and/)
-- [Trying to understand why a user can't download our app](https://www.reddit.com/r/androiddev/comments/qlcg4x/trying_to_understand_why_a_user_cant_download_our/)
-- [In-App Purchases](https://www.reddit.com/r/androiddev/comments/qlbmvn/inapp_purchases/)
-- [We created figma plugin for easy convert from Figma designs to Android Jetpack Compose code.](https://www.reddit.com/r/androiddev/comments/qlb6sn/we_created_figma_plugin_for_easy_convert_from/)
-- [Is there a way to change A12s quicksettings to those of A11?](https://www.reddit.com/r/androiddev/comments/qla5b1/is_there_a_way_to_change_a12s_quicksettings_to/)
-- [APNG vs GIF memory consumption](https://www.reddit.com/r/androiddev/comments/ql9u6d/apng_vs_gif_memory_consumption/)
-- [Is there a difference between Media and Documents?](https://www.reddit.com/r/androiddev/comments/ql83fg/is_there_a_difference_between_media_and_documents/)
+- [Can anyone explain to me the way of showing data from SQL database in a mobile app securely?](https://www.reddit.com/r/androiddev/comments/qm73ky/can_anyone_explain_to_me_the_way_of_showing_data/)
+- [Android studio not running app on emulator, trying to import project from GitHub code.](https://www.reddit.com/r/androiddev/comments/qm4syk/android_studio_not_running_app_on_emulator_trying/)
+- [Can I use admob mediation to show FAN ads even with AdMob limited ads?](https://www.reddit.com/r/androiddev/comments/qm4a6k/can_i_use_admob_mediation_to_show_fan_ads_even/)
+- [All apps are ready to serve ads, but AdMob still limiting the ads in my account, what should I do](https://www.reddit.com/r/androiddev/comments/qm295v/all_apps_are_ready_to_serve_ads_but_admob_still/)
+- [Google Maps Additional Functionality "Plugin"](https://www.reddit.com/r/androiddev/comments/qlzvzg/google_maps_additional_functionality_plugin/)
+- [How to remove Google Play Protect requirement?](https://www.reddit.com/r/androiddev/comments/qlytjj/how_to_remove_google_play_protect_requirement/)
+- [I need a Single Source of Truth across the app](https://www.reddit.com/r/androiddev/comments/qlyf6h/i_need_a_single_source_of_truth_across_the_app/)
+- [Intent for playing video on Android 11](https://www.reddit.com/r/androiddev/comments/qlsgtn/intent_for_playing_video_on_android_11/)
+- [Switching between navigation component screens so fast](https://www.reddit.com/r/androiddev/comments/qlscal/switching_between_navigation_component_screens_so/)
+- [App crash after activity using audio-visualizer-android](https://www.reddit.com/r/androiddev/comments/qlrbwl/app_crash_after_activity_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
