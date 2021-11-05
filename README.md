@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can anyone explain to me the way of showing data from SQL database in a mobile app securely?](https://www.reddit.com/r/androiddev/comments/qm73ky/can_anyone_explain_to_me_the_way_of_showing_data/)
-- [Android studio not running app on emulator, trying to import project from GitHub code.](https://www.reddit.com/r/androiddev/comments/qm4syk/android_studio_not_running_app_on_emulator_trying/)
-- [Can I use admob mediation to show FAN ads even with AdMob limited ads?](https://www.reddit.com/r/androiddev/comments/qm4a6k/can_i_use_admob_mediation_to_show_fan_ads_even/)
-- [All apps are ready to serve ads, but AdMob still limiting the ads in my account, what should I do](https://www.reddit.com/r/androiddev/comments/qm295v/all_apps_are_ready_to_serve_ads_but_admob_still/)
-- [Google Maps Additional Functionality "Plugin"](https://www.reddit.com/r/androiddev/comments/qlzvzg/google_maps_additional_functionality_plugin/)
-- [How to remove Google Play Protect requirement?](https://www.reddit.com/r/androiddev/comments/qlytjj/how_to_remove_google_play_protect_requirement/)
-- [I need a Single Source of Truth across the app](https://www.reddit.com/r/androiddev/comments/qlyf6h/i_need_a_single_source_of_truth_across_the_app/)
-- [Intent for playing video on Android 11](https://www.reddit.com/r/androiddev/comments/qlsgtn/intent_for_playing_video_on_android_11/)
-- [Switching between navigation component screens so fast](https://www.reddit.com/r/androiddev/comments/qlscal/switching_between_navigation_component_screens_so/)
-- [App crash after activity using audio-visualizer-android](https://www.reddit.com/r/androiddev/comments/qlrbwl/app_crash_after_activity_using/)
+- [Multiplatform Compose and Gradle module metadata abuse â Jake Wharton](https://www.reddit.com/r/androiddev/comments/qn0c7a/multiplatform_compose_and_gradle_module_metadata/)
+- [PayPal.Me tax income declaration](https://www.reddit.com/r/androiddev/comments/qmyngn/paypalme_tax_income_declaration/)
+- [At a BLE / Android "learning" crossroads.](https://www.reddit.com/r/androiddev/comments/qmxj0h/at_a_ble_android_learning_crossroads/)
+- [Looking for a project with tests. Lots of tests.](https://www.reddit.com/r/androiddev/comments/qmuvw3/looking_for_a_project_with_tests_lots_of_tests/)
+- [Dagger 2 - component dependency - nullify dependencies](https://www.reddit.com/r/androiddev/comments/qmusn6/dagger_2_component_dependency_nullify_dependencies/)
+- [Any way to disable the list view/recycler views ending swipe/expanding animation on android 12?](https://www.reddit.com/r/androiddev/comments/qmtszb/any_way_to_disable_the_list_viewrecycler_views/)
+- [Android 12 Is Killing Phantom Background Processes Of Apps](https://www.reddit.com/r/androiddev/comments/qmsupb/android_12_is_killing_phantom_background/)
+- [Cédric Champeau's blog: Multi-repository development made easy](https://www.reddit.com/r/androiddev/comments/qmrhtd/cédric_champeaus_blog_multirepository_development/)
+- [Retrofit/OkHttp cache control](https://www.reddit.com/r/androiddev/comments/qmqdpm/retrofitokhttp_cache_control/)
+- [Google Play Console - app not getting reviewed](https://www.reddit.com/r/androiddev/comments/qmkuud/google_play_console_app_not_getting_reviewed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
