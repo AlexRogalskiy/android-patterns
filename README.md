@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Multiplatform Compose and Gradle module metadata abuse â Jake Wharton](https://www.reddit.com/r/androiddev/comments/qn0c7a/multiplatform_compose_and_gradle_module_metadata/)
-- [PayPal.Me tax income declaration](https://www.reddit.com/r/androiddev/comments/qmyngn/paypalme_tax_income_declaration/)
-- [At a BLE / Android "learning" crossroads.](https://www.reddit.com/r/androiddev/comments/qmxj0h/at_a_ble_android_learning_crossroads/)
-- [Looking for a project with tests. Lots of tests.](https://www.reddit.com/r/androiddev/comments/qmuvw3/looking_for_a_project_with_tests_lots_of_tests/)
-- [Dagger 2 - component dependency - nullify dependencies](https://www.reddit.com/r/androiddev/comments/qmusn6/dagger_2_component_dependency_nullify_dependencies/)
-- [Any way to disable the list view/recycler views ending swipe/expanding animation on android 12?](https://www.reddit.com/r/androiddev/comments/qmtszb/any_way_to_disable_the_list_viewrecycler_views/)
-- [Android 12 Is Killing Phantom Background Processes Of Apps](https://www.reddit.com/r/androiddev/comments/qmsupb/android_12_is_killing_phantom_background/)
-- [Cédric Champeau's blog: Multi-repository development made easy](https://www.reddit.com/r/androiddev/comments/qmrhtd/cédric_champeaus_blog_multirepository_development/)
-- [Retrofit/OkHttp cache control](https://www.reddit.com/r/androiddev/comments/qmqdpm/retrofitokhttp_cache_control/)
-- [Google Play Console - app not getting reviewed](https://www.reddit.com/r/androiddev/comments/qmkuud/google_play_console_app_not_getting_reviewed/)
+- [Help! simple product catalog app](https://www.reddit.com/r/androiddev/comments/qnmi8o/help_simple_product_catalog_app/)
+- [Maps SDK v3 which was in Beta is already deprecated?](https://www.reddit.com/r/androiddev/comments/qnju4w/maps_sdk_v3_which_was_in_beta_is_already/)
+- [How do you implement shadows in practice ?](https://www.reddit.com/r/androiddev/comments/qni98r/how_do_you_implement_shadows_in_practice/)
+- [This thing giving me pop up ads how do I remove this](https://www.reddit.com/r/androiddev/comments/qnh7qf/this_thing_giving_me_pop_up_ads_how_do_i_remove/)
+- [Herding Elephants – Wrangling a 3,500-module Gradle project](https://www.reddit.com/r/androiddev/comments/qngrq4/herding_elephants_wrangling_a_3500module_gradle/)
+- [Checking Screenshots of App Review](https://www.reddit.com/r/androiddev/comments/qnfvap/checking_screenshots_of_app_review/)
+- [How much time does it usually take for an app review in google play?](https://www.reddit.com/r/androiddev/comments/qnfh62/how_much_time_does_it_usually_take_for_an_app/)
+- [Am I allowed to upload 2 different versions to PlayStore?](https://www.reddit.com/r/androiddev/comments/qnewud/am_i_allowed_to_upload_2_different_versions_to/)
+- [What's the best way to get other users' location with Firebase?](https://www.reddit.com/r/androiddev/comments/qnefqe/whats_the_best_way_to_get_other_users_location/)
+- [ViewModel, LiveData](https://www.reddit.com/r/androiddev/comments/qnea0p/viewmodel_livedata/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
