@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help! simple product catalog app](https://www.reddit.com/r/androiddev/comments/qnmi8o/help_simple_product_catalog_app/)
-- [Maps SDK v3 which was in Beta is already deprecated?](https://www.reddit.com/r/androiddev/comments/qnju4w/maps_sdk_v3_which_was_in_beta_is_already/)
-- [How do you implement shadows in practice ?](https://www.reddit.com/r/androiddev/comments/qni98r/how_do_you_implement_shadows_in_practice/)
-- [This thing giving me pop up ads how do I remove this](https://www.reddit.com/r/androiddev/comments/qnh7qf/this_thing_giving_me_pop_up_ads_how_do_i_remove/)
-- [Herding Elephants – Wrangling a 3,500-module Gradle project](https://www.reddit.com/r/androiddev/comments/qngrq4/herding_elephants_wrangling_a_3500module_gradle/)
-- [Checking Screenshots of App Review](https://www.reddit.com/r/androiddev/comments/qnfvap/checking_screenshots_of_app_review/)
-- [How much time does it usually take for an app review in google play?](https://www.reddit.com/r/androiddev/comments/qnfh62/how_much_time_does_it_usually_take_for_an_app/)
-- [Am I allowed to upload 2 different versions to PlayStore?](https://www.reddit.com/r/androiddev/comments/qnewud/am_i_allowed_to_upload_2_different_versions_to/)
-- [What's the best way to get other users' location with Firebase?](https://www.reddit.com/r/androiddev/comments/qnefqe/whats_the_best_way_to_get_other_users_location/)
-- [ViewModel, LiveData](https://www.reddit.com/r/androiddev/comments/qnea0p/viewmodel_livedata/)
+- [Releasing app to Google play Store for a big company as an intern with no seniority at ALL (What I need to do so)](https://www.reddit.com/r/androiddev/comments/qobafh/releasing_app_to_google_play_store_for_a_big/)
+- [Is it possible to verify AdMob address without a physical PIN?](https://www.reddit.com/r/androiddev/comments/qoa5w5/is_it_possible_to_verify_admob_address_without_a/)
+- [What legal documents should your app have?](https://www.reddit.com/r/androiddev/comments/qo86qt/what_legal_documents_should_your_app_have/)
+- [Multi-Theme Screenshot Tests in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/qo4vkw/multitheme_screenshot_tests_in_jetpack_compose/)
+- [Getting list of PDFs from Downloads in API 29?](https://www.reddit.com/r/androiddev/comments/qo1djz/getting_list_of_pdfs_from_downloads_in_api_29/)
+- [Stance on donation requests from Google?](https://www.reddit.com/r/androiddev/comments/qnxxhg/stance_on_donation_requests_from_google/)
+- [Autofill service not in settings](https://www.reddit.com/r/androiddev/comments/qnxtfn/autofill_service_not_in_settings/)
+- [Android/Kotlin Bootcamp/Full Course - Any suggestions for a nice/big/detailed tutorial?](https://www.reddit.com/r/androiddev/comments/qnxi78/androidkotlin_bootcampfull_course_any_suggestions/)
+- [Is there tool that can be used to validate the formatter correctness of strings.xml localization?](https://www.reddit.com/r/androiddev/comments/qnwhf6/is_there_tool_that_can_be_used_to_validate_the/)
+- [Android developer options error](https://www.reddit.com/r/androiddev/comments/qnw9d2/android_developer_options_error/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
