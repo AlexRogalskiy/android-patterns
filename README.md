@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Releasing app to Google play Store for a big company as an intern with no seniority at ALL (What I need to do so)](https://www.reddit.com/r/androiddev/comments/qobafh/releasing_app_to_google_play_store_for_a_big/)
-- [Is it possible to verify AdMob address without a physical PIN?](https://www.reddit.com/r/androiddev/comments/qoa5w5/is_it_possible_to_verify_admob_address_without_a/)
-- [What legal documents should your app have?](https://www.reddit.com/r/androiddev/comments/qo86qt/what_legal_documents_should_your_app_have/)
-- [Multi-Theme Screenshot Tests in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/qo4vkw/multitheme_screenshot_tests_in_jetpack_compose/)
-- [Getting list of PDFs from Downloads in API 29?](https://www.reddit.com/r/androiddev/comments/qo1djz/getting_list_of_pdfs_from_downloads_in_api_29/)
-- [Stance on donation requests from Google?](https://www.reddit.com/r/androiddev/comments/qnxxhg/stance_on_donation_requests_from_google/)
-- [Autofill service not in settings](https://www.reddit.com/r/androiddev/comments/qnxtfn/autofill_service_not_in_settings/)
-- [Android/Kotlin Bootcamp/Full Course - Any suggestions for a nice/big/detailed tutorial?](https://www.reddit.com/r/androiddev/comments/qnxi78/androidkotlin_bootcampfull_course_any_suggestions/)
-- [Is there tool that can be used to validate the formatter correctness of strings.xml localization?](https://www.reddit.com/r/androiddev/comments/qnwhf6/is_there_tool_that_can_be_used_to_validate_the/)
-- [Android developer options error](https://www.reddit.com/r/androiddev/comments/qnw9d2/android_developer_options_error/)
+- [I'm working on a demo app for using BLE + MVVM, with a novel approach for using bound services from view models. Would appreciate feedback and review!](https://www.reddit.com/r/androiddev/comments/qp2u6a/im_working_on_a_demo_app_for_using_ble_mvvm_with/)
+- [Seeking 8 bit Classic Arcade Style Android Dev](https://www.reddit.com/r/androiddev/comments/qp04dc/seeking_8_bit_classic_arcade_style_android_dev/)
+- [Detect microphone activity without record audio](https://www.reddit.com/r/androiddev/comments/qozy3k/detect_microphone_activity_without_record_audio/)
+- [Is it realistic to write an WebServer with a small database in less than 3 days?](https://www.reddit.com/r/androiddev/comments/qozavw/is_it_realistic_to_write_an_webserver_with_a/)
+- [Wear OS detect HW back button press?](https://www.reddit.com/r/androiddev/comments/qoyf1m/wear_os_detect_hw_back_button_press/)
+- [Have you ever used algorithms in Android development?](https://www.reddit.com/r/androiddev/comments/qoweok/have_you_ever_used_algorithms_in_android/)
+- [Android autofill framework in chrome](https://www.reddit.com/r/androiddev/comments/qot798/android_autofill_framework_in_chrome/)
+- [How to export and import Android emulator snapshot](https://www.reddit.com/r/androiddev/comments/qorsxf/how_to_export_and_import_android_emulator_snapshot/)
+- [DiffUtils.ItemCallBack](https://www.reddit.com/r/androiddev/comments/qoon9e/diffutilsitemcallback/)
+- [Proud to present before you MyTube, a YouTube clone built with Kotlin and Youtube data API, using the MVVM app architecture.](https://www.reddit.com/r/androiddev/comments/qoogh2/proud_to_present_before_you_mytube_a_youtube/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
