@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I'm working on a demo app for using BLE + MVVM, with a novel approach for using bound services from view models. Would appreciate feedback and review!](https://www.reddit.com/r/androiddev/comments/qp2u6a/im_working_on_a_demo_app_for_using_ble_mvvm_with/)
-- [Seeking 8 bit Classic Arcade Style Android Dev](https://www.reddit.com/r/androiddev/comments/qp04dc/seeking_8_bit_classic_arcade_style_android_dev/)
-- [Detect microphone activity without record audio](https://www.reddit.com/r/androiddev/comments/qozy3k/detect_microphone_activity_without_record_audio/)
-- [Is it realistic to write an WebServer with a small database in less than 3 days?](https://www.reddit.com/r/androiddev/comments/qozavw/is_it_realistic_to_write_an_webserver_with_a/)
-- [Wear OS detect HW back button press?](https://www.reddit.com/r/androiddev/comments/qoyf1m/wear_os_detect_hw_back_button_press/)
-- [Have you ever used algorithms in Android development?](https://www.reddit.com/r/androiddev/comments/qoweok/have_you_ever_used_algorithms_in_android/)
-- [Android autofill framework in chrome](https://www.reddit.com/r/androiddev/comments/qot798/android_autofill_framework_in_chrome/)
-- [How to export and import Android emulator snapshot](https://www.reddit.com/r/androiddev/comments/qorsxf/how_to_export_and_import_android_emulator_snapshot/)
-- [DiffUtils.ItemCallBack](https://www.reddit.com/r/androiddev/comments/qoon9e/diffutilsitemcallback/)
-- [Proud to present before you MyTube, a YouTube clone built with Kotlin and Youtube data API, using the MVVM app architecture.](https://www.reddit.com/r/androiddev/comments/qoogh2/proud_to_present_before_you_mytube_a_youtube/)
+- [Question for the hardcore Devs.](https://www.reddit.com/r/androiddev/comments/qpr2g2/question_for_the_hardcore_devs/)
+- [Show images first on app page](https://www.reddit.com/r/androiddev/comments/qpqj5g/show_images_first_on_app_page/)
+- [Translation service for strings](https://www.reddit.com/r/androiddev/comments/qpk6tk/translation_service_for_strings/)
+- [Best Terms &amp; Conditions, Privacy Policy, and EULA generator?](https://www.reddit.com/r/androiddev/comments/qpjv5b/best_terms_conditions_privacy_policy_and_eula/)
+- [Selling app templates](https://www.reddit.com/r/androiddev/comments/qpidph/selling_app_templates/)
+- [Can&#39;t have more than one GoogleMap in a RecyclerView](https://www.reddit.com/r/androiddev/comments/qpgqb5/cant_have_more_than_one_googlemap_in_a/)
+- [Does anyone has experience on how to setup Facebook Ads to promote Android app?](https://www.reddit.com/r/androiddev/comments/qpgmmj/does_anyone_has_experience_on_how_to_setup/)
+- [Best way to retrieve daily app usage time. [Kotlin]](https://www.reddit.com/r/androiddev/comments/qpgdxx/best_way_to_retrieve_daily_app_usage_time_kotlin/)
+- [Weekly Who&#39;s Hiring Thread - November 08, 2021](https://www.reddit.com/r/androiddev/comments/qpe7p5/weekly_whos_hiring_thread_november_08_2021/)
+- [No code platform for drug reminder.](https://www.reddit.com/r/androiddev/comments/qpe0p1/no_code_platform_for_drug_reminder/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
