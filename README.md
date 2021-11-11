@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a way to prevent users from installing a ripped version of the apk?](https://www.reddit.com/r/androiddev/comments/qqgq7r/is_there_a_way_to_prevent_users_from_installing_a/)
-- [Android apps with really nice transitions/animations?](https://www.reddit.com/r/androiddev/comments/qqg749/android_apps_with_really_nice/)
-- [Where should I host tutorial videos for my Android app?](https://www.reddit.com/r/androiddev/comments/qqb5eh/where_should_i_host_tutorial_videos_for_my/)
-- [Hacking Android OS &amp; Apps for profit ?](https://www.reddit.com/r/androiddev/comments/qqaneq/hacking_android_os_apps_for_profit/)
-- [Ben Kadel live demoing MVVM + Compose + Hilt](https://www.reddit.com/r/androiddev/comments/qqa9tu/ben_kadel_live_demoing_mvvm_compose_hilt/)
-- [Android Studio Chipmunk Canary 4 now available](https://www.reddit.com/r/androiddev/comments/qq9bu5/android_studio_chipmunk_canary_4_now_available/)
-- [Android Studio Bumblebee Beta 3 now available](https://www.reddit.com/r/androiddev/comments/qq9bta/android_studio_bumblebee_beta_3_now_available/)
-- [What&#39;s the Future of IDEs?](https://www.reddit.com/r/androiddev/comments/qq850a/whats_the_future_of_ides/)
-- [Is there any way to tell which app is running in the foreground these days? Everything I&#39;ve seen online so far uses deprecated code.](https://www.reddit.com/r/androiddev/comments/qq76t7/is_there_any_way_to_tell_which_app_is_running_in/)
-- [What libraries would you use if you were starting a new project?](https://www.reddit.com/r/androiddev/comments/qq56y1/what_libraries_would_you_use_if_you_were_starting/)
+- [Gradle 7.3 Released](https://www.reddit.com/r/androiddev/comments/qr6mhr/gradle_73_released/)
+- [Caching in Clean Architecture](https://www.reddit.com/r/androiddev/comments/qr53w2/caching_in_clean_architecture/)
+- [Android 4.4 clear other app cache, data programatically](https://www.reddit.com/r/androiddev/comments/qr51jb/android_44_clear_other_app_cache_data/)
+- [Deleting generated files should not delete imports to things in that file. Just sayin.](https://www.reddit.com/r/androiddev/comments/qr3o3b/deleting_generated_files_should_not_delete/)
+- [Language Exchange](https://www.reddit.com/r/androiddev/comments/qr2tgm/language_exchange/)
+- [A BOOK OR RESOURCE TO UNDERSTAND CORE ANDROID](https://www.reddit.com/r/androiddev/comments/qr2ofq/a_book_or_resource_to_understand_core_android/)
+- [Kotlin coroutines retrofit call being made on main thread](https://www.reddit.com/r/androiddev/comments/qr1yuu/kotlin_coroutines_retrofit_call_being_made_on/)
+- [Status of Android &amp; Kotlin Native development on M1 Mac](https://www.reddit.com/r/androiddev/comments/qr0ul7/status_of_android_kotlin_native_development_on_m1/)
+- [HELP - Google Play and banking requirements for your app](https://www.reddit.com/r/androiddev/comments/qr0n8y/help_google_play_and_banking_requirements_for/)
+- [How does `setForeground` work on WorkManager?](https://www.reddit.com/r/androiddev/comments/qr0l2i/how_does_setforeground_work_on_workmanager/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
