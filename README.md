@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gradle 7.3 Released](https://www.reddit.com/r/androiddev/comments/qr6mhr/gradle_73_released/)
-- [Caching in Clean Architecture](https://www.reddit.com/r/androiddev/comments/qr53w2/caching_in_clean_architecture/)
-- [Android 4.4 clear other app cache, data programatically](https://www.reddit.com/r/androiddev/comments/qr51jb/android_44_clear_other_app_cache_data/)
-- [Deleting generated files should not delete imports to things in that file. Just sayin.](https://www.reddit.com/r/androiddev/comments/qr3o3b/deleting_generated_files_should_not_delete/)
-- [Language Exchange](https://www.reddit.com/r/androiddev/comments/qr2tgm/language_exchange/)
-- [A BOOK OR RESOURCE TO UNDERSTAND CORE ANDROID](https://www.reddit.com/r/androiddev/comments/qr2ofq/a_book_or_resource_to_understand_core_android/)
-- [Kotlin coroutines retrofit call being made on main thread](https://www.reddit.com/r/androiddev/comments/qr1yuu/kotlin_coroutines_retrofit_call_being_made_on/)
-- [Status of Android &amp; Kotlin Native development on M1 Mac](https://www.reddit.com/r/androiddev/comments/qr0ul7/status_of_android_kotlin_native_development_on_m1/)
-- [HELP - Google Play and banking requirements for your app](https://www.reddit.com/r/androiddev/comments/qr0n8y/help_google_play_and_banking_requirements_for/)
-- [How does `setForeground` work on WorkManager?](https://www.reddit.com/r/androiddev/comments/qr0l2i/how_does_setforeground_work_on_workmanager/)
+- [I have zero experience, how much will approximately take me to make an app from scratch!?](https://www.reddit.com/r/androiddev/comments/qrw5a4/i_have_zero_experience_how_much_will/)
+- [Perform action with all checkboxes on one screen](https://www.reddit.com/r/androiddev/comments/qrulgj/perform_action_with_all_checkboxes_on_one_screen/)
+- [More Material3 and Material You work with Mike Wolfson &lpar;@mikewolfson&rpar; #themingIsHard 😂](https://www.reddit.com/r/androiddev/comments/qrsvoj/more_material3_and_material_you_work_with_mike/)
+- [Consuming TS logic in Kotlin](https://www.reddit.com/r/androiddev/comments/qrrys3/consuming_ts_logic_in_kotlin/)
+- [Custom Android Flashing / Rooting Guide](https://www.reddit.com/r/androiddev/comments/qrrpag/custom_android_flashing_rooting_guide/)
+- [Do you check your app&#39;s images for copyright in search engines?](https://www.reddit.com/r/androiddev/comments/qrrozs/do_you_check_your_apps_images_for_copyright_in/)
+- [Is this diagram of Fragment and Activity lifecycles correct and up to date?](https://www.reddit.com/r/androiddev/comments/qrrk7o/is_this_diagram_of_fragment_and_activity/)
+- [The state of managing state &lpar;with Compose&rpar;](https://www.reddit.com/r/androiddev/comments/qrqk0o/the_state_of_managing_state_with_compose/)
+- [Which Cloud Provider&lpar;and Service&rpar; do you use for movie streaming app?](https://www.reddit.com/r/androiddev/comments/qrpd6h/which_cloud_providerand_service_do_you_use_for/)
+- [Execute simple Script](https://www.reddit.com/r/androiddev/comments/qrozx8/execute_simple_script/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
