@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I have zero experience, how much will approximately take me to make an app from scratch!?](https://www.reddit.com/r/androiddev/comments/qrw5a4/i_have_zero_experience_how_much_will/)
-- [Perform action with all checkboxes on one screen](https://www.reddit.com/r/androiddev/comments/qrulgj/perform_action_with_all_checkboxes_on_one_screen/)
-- [More Material3 and Material You work with Mike Wolfson &lpar;@mikewolfson&rpar; #themingIsHard 😂](https://www.reddit.com/r/androiddev/comments/qrsvoj/more_material3_and_material_you_work_with_mike/)
-- [Consuming TS logic in Kotlin](https://www.reddit.com/r/androiddev/comments/qrrys3/consuming_ts_logic_in_kotlin/)
-- [Custom Android Flashing / Rooting Guide](https://www.reddit.com/r/androiddev/comments/qrrpag/custom_android_flashing_rooting_guide/)
-- [Do you check your app&#39;s images for copyright in search engines?](https://www.reddit.com/r/androiddev/comments/qrrozs/do_you_check_your_apps_images_for_copyright_in/)
-- [Is this diagram of Fragment and Activity lifecycles correct and up to date?](https://www.reddit.com/r/androiddev/comments/qrrk7o/is_this_diagram_of_fragment_and_activity/)
-- [The state of managing state &lpar;with Compose&rpar;](https://www.reddit.com/r/androiddev/comments/qrqk0o/the_state_of_managing_state_with_compose/)
-- [Which Cloud Provider&lpar;and Service&rpar; do you use for movie streaming app?](https://www.reddit.com/r/androiddev/comments/qrpd6h/which_cloud_providerand_service_do_you_use_for/)
-- [Execute simple Script](https://www.reddit.com/r/androiddev/comments/qrozx8/execute_simple_script/)
+- [Why does music sound crappy once I turn on the Emulator?](https://www.reddit.com/r/androiddev/comments/qsobx4/why_does_music_sound_crappy_once_i_turn_on_the/)
+- [At what point is a dependency injection framework actually needed?](https://www.reddit.com/r/androiddev/comments/qsndn5/at_what_point_is_a_dependency_injection_framework/)
+- [Good Simple Bluetooth examples](https://www.reddit.com/r/androiddev/comments/qslb4j/good_simple_bluetooth_examples/)
+- [Get all TextViews with Accessibility service](https://www.reddit.com/r/androiddev/comments/qsl7mn/get_all_textviews_with_accessibility_service/)
+- [Android VideoView Resizing Algorithm](https://www.reddit.com/r/androiddev/comments/qsk2pf/android_videoview_resizing_algorithm/)
+- [Move contextual action menu at the bottom](https://www.reddit.com/r/androiddev/comments/qsjuej/move_contextual_action_menu_at_the_bottom/)
+- [Data safety in Play Console](https://www.reddit.com/r/androiddev/comments/qsj1iq/data_safety_in_play_console/)
+- [&#39;Generate Signed Bundle/APK&#39; does nothing](https://www.reddit.com/r/androiddev/comments/qsinpk/generate_signed_bundleapk_does_nothing/)
+- [No javadoc attached to the android api](https://www.reddit.com/r/androiddev/comments/qsikrj/no_javadoc_attached_to_the_android_api/)
+- [Which cloud service would you use for storing chart data &lpar;open, close, high, low price&rpar;?](https://www.reddit.com/r/androiddev/comments/qsi052/which_cloud_service_would_you_use_for_storing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
