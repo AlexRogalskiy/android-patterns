@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why does music sound crappy once I turn on the Emulator?](https://www.reddit.com/r/androiddev/comments/qsobx4/why_does_music_sound_crappy_once_i_turn_on_the/)
-- [At what point is a dependency injection framework actually needed?](https://www.reddit.com/r/androiddev/comments/qsndn5/at_what_point_is_a_dependency_injection_framework/)
-- [Good Simple Bluetooth examples](https://www.reddit.com/r/androiddev/comments/qslb4j/good_simple_bluetooth_examples/)
-- [Get all TextViews with Accessibility service](https://www.reddit.com/r/androiddev/comments/qsl7mn/get_all_textviews_with_accessibility_service/)
-- [Android VideoView Resizing Algorithm](https://www.reddit.com/r/androiddev/comments/qsk2pf/android_videoview_resizing_algorithm/)
-- [Move contextual action menu at the bottom](https://www.reddit.com/r/androiddev/comments/qsjuej/move_contextual_action_menu_at_the_bottom/)
-- [Data safety in Play Console](https://www.reddit.com/r/androiddev/comments/qsj1iq/data_safety_in_play_console/)
-- [&#39;Generate Signed Bundle/APK&#39; does nothing](https://www.reddit.com/r/androiddev/comments/qsinpk/generate_signed_bundleapk_does_nothing/)
-- [No javadoc attached to the android api](https://www.reddit.com/r/androiddev/comments/qsikrj/no_javadoc_attached_to_the_android_api/)
-- [Which cloud service would you use for storing chart data &lpar;open, close, high, low price&rpar;?](https://www.reddit.com/r/androiddev/comments/qsi052/which_cloud_service_would_you_use_for_storing/)
+- [How to learn Android development for an iOS developer?](https://www.reddit.com/r/androiddev/comments/qteav7/how_to_learn_android_development_for_an_ios/)
+- [Picked up my first custom ROM and I&#39;m in love! I want to learn more](https://www.reddit.com/r/androiddev/comments/qtdwgd/picked_up_my_first_custom_rom_and_im_in_love_i/)
+- [Is RxBus or similar event delivery methods still a good practice?](https://www.reddit.com/r/androiddev/comments/qtb2fy/is_rxbus_or_similar_event_delivery_methods_still/)
+- [16&quot; Macbook Pro M1 Pro Testing](https://www.reddit.com/r/androiddev/comments/qt9hhg/16_macbook_pro_m1_pro_testing/)
+- [Increase performance when device is running only one App](https://www.reddit.com/r/androiddev/comments/qt58l1/increase_performance_when_device_is_running_only/)
+- [Why is this offwhite color appearing when i scroll down/ up? This is very annoying](https://www.reddit.com/r/androiddev/comments/qt581z/why_is_this_offwhite_color_appearing_when_i/)
+- [Do you recommend obfuscating the app each time &lpar;e.g. with R8 IIRC ProGuard&rpar;?](https://www.reddit.com/r/androiddev/comments/qt42ye/do_you_recommend_obfuscating_the_app_each_time_eg/)
+- [Composition, inheritance, delegation, interface, which one do I use?](https://www.reddit.com/r/androiddev/comments/qt2qcr/composition_inheritance_delegation_interface/)
+- [Trying to grasp virtual sim architecture - eSim](https://www.reddit.com/r/androiddev/comments/qszoo9/trying_to_grasp_virtual_sim_architecture_esim/)
+- [Jetpack Compose: Tabs with swiping](https://www.reddit.com/r/androiddev/comments/qsz7cz/jetpack_compose_tabs_with_swiping/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
