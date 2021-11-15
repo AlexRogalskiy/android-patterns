@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to learn Android development for an iOS developer?](https://www.reddit.com/r/androiddev/comments/qteav7/how_to_learn_android_development_for_an_ios/)
-- [Picked up my first custom ROM and I&#39;m in love! I want to learn more](https://www.reddit.com/r/androiddev/comments/qtdwgd/picked_up_my_first_custom_rom_and_im_in_love_i/)
-- [Is RxBus or similar event delivery methods still a good practice?](https://www.reddit.com/r/androiddev/comments/qtb2fy/is_rxbus_or_similar_event_delivery_methods_still/)
-- [16&quot; Macbook Pro M1 Pro Testing](https://www.reddit.com/r/androiddev/comments/qt9hhg/16_macbook_pro_m1_pro_testing/)
-- [Increase performance when device is running only one App](https://www.reddit.com/r/androiddev/comments/qt58l1/increase_performance_when_device_is_running_only/)
-- [Why is this offwhite color appearing when i scroll down/ up? This is very annoying](https://www.reddit.com/r/androiddev/comments/qt581z/why_is_this_offwhite_color_appearing_when_i/)
-- [Do you recommend obfuscating the app each time &lpar;e.g. with R8 IIRC ProGuard&rpar;?](https://www.reddit.com/r/androiddev/comments/qt42ye/do_you_recommend_obfuscating_the_app_each_time_eg/)
-- [Composition, inheritance, delegation, interface, which one do I use?](https://www.reddit.com/r/androiddev/comments/qt2qcr/composition_inheritance_delegation_interface/)
-- [Trying to grasp virtual sim architecture - eSim](https://www.reddit.com/r/androiddev/comments/qszoo9/trying_to_grasp_virtual_sim_architecture_esim/)
-- [Jetpack Compose: Tabs with swiping](https://www.reddit.com/r/androiddev/comments/qsz7cz/jetpack_compose_tabs_with_swiping/)
+- [&quot;AI Will Take Over the World&quot; Meanwhile in the Google Play Store](https://www.reddit.com/r/androiddev/comments/qu4joy/ai_will_take_over_the_world_meanwhile_in_the/)
+- [ScaleIn Jetpack Compose animation missing?](https://www.reddit.com/r/androiddev/comments/qu4fpl/scalein_jetpack_compose_animation_missing/)
+- [Android Studio Bundle Signing Information](https://www.reddit.com/r/androiddev/comments/qu0tex/android_studio_bundle_signing_information/)
+- [MediaCodec and MediaMuxer for audio and video](https://www.reddit.com/r/androiddev/comments/qu01lz/mediacodec_and_mediamuxer_for_audio_and_video/)
+- [Packages start with com.xxxxxxx.xxxxxxx. Does &#39;com&#39; mean &#39;component&#39;?](https://www.reddit.com/r/androiddev/comments/qtuocd/packages_start_with_comxxxxxxxxxxxxxx_does_com/)
+- [How do you reverse engineer or make a clone of an Android app?](https://www.reddit.com/r/androiddev/comments/qtr04d/how_do_you_reverse_engineer_or_make_a_clone_of_an/)
+- [Is Android canvas holder.lockCanvas blocking UI thread beginning Android SDK 30?](https://www.reddit.com/r/androiddev/comments/qtq8jw/is_android_canvas_holderlockcanvas_blocking_ui/)
+- [Preparing the scene for monthly YouTube interview with some of professional Android developers, coming soon on my YouTube channel. Feel free to send me any question you liked to ask a Senior Android Developer, I&#39;ll get some answers for you! 📷🎬☺️](https://www.reddit.com/r/androiddev/comments/qtntl6/preparing_the_scene_for_monthly_youtube_interview/)
+- [Tasks for beginners](https://www.reddit.com/r/androiddev/comments/qtl1k9/tasks_for_beginners/)
+- [How long did it take for you all to finish your associate android developer certificate exam ?](https://www.reddit.com/r/androiddev/comments/qtjztp/how_long_did_it_take_for_you_all_to_finish_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
