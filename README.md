@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&quot;AI Will Take Over the World&quot; Meanwhile in the Google Play Store](https://www.reddit.com/r/androiddev/comments/qu4joy/ai_will_take_over_the_world_meanwhile_in_the/)
-- [ScaleIn Jetpack Compose animation missing?](https://www.reddit.com/r/androiddev/comments/qu4fpl/scalein_jetpack_compose_animation_missing/)
-- [Android Studio Bundle Signing Information](https://www.reddit.com/r/androiddev/comments/qu0tex/android_studio_bundle_signing_information/)
-- [MediaCodec and MediaMuxer for audio and video](https://www.reddit.com/r/androiddev/comments/qu01lz/mediacodec_and_mediamuxer_for_audio_and_video/)
-- [Packages start with com.xxxxxxx.xxxxxxx. Does &#39;com&#39; mean &#39;component&#39;?](https://www.reddit.com/r/androiddev/comments/qtuocd/packages_start_with_comxxxxxxxxxxxxxx_does_com/)
-- [How do you reverse engineer or make a clone of an Android app?](https://www.reddit.com/r/androiddev/comments/qtr04d/how_do_you_reverse_engineer_or_make_a_clone_of_an/)
-- [Is Android canvas holder.lockCanvas blocking UI thread beginning Android SDK 30?](https://www.reddit.com/r/androiddev/comments/qtq8jw/is_android_canvas_holderlockcanvas_blocking_ui/)
-- [Preparing the scene for monthly YouTube interview with some of professional Android developers, coming soon on my YouTube channel. Feel free to send me any question you liked to ask a Senior Android Developer, I&#39;ll get some answers for you! 📷🎬☺️](https://www.reddit.com/r/androiddev/comments/qtntl6/preparing_the_scene_for_monthly_youtube_interview/)
-- [Tasks for beginners](https://www.reddit.com/r/androiddev/comments/qtl1k9/tasks_for_beginners/)
-- [How long did it take for you all to finish your associate android developer certificate exam ?](https://www.reddit.com/r/androiddev/comments/qtjztp/how_long_did_it_take_for_you_all_to_finish_your/)
+- [Put on your tin foil hat before reading](https://www.reddit.com/r/androiddev/comments/quvgwi/put_on_your_tin_foil_hat_before_reading/)
+- [Recruiter reached out to me for a phone call, what should I expect?](https://www.reddit.com/r/androiddev/comments/quupol/recruiter_reached_out_to_me_for_a_phone_call_what/)
+- [Job Search: Android Developer](https://www.reddit.com/r/androiddev/comments/qutoqb/job_search_android_developer/)
+- [We built an app widget with Compose and the new AndroidX Glance library and it was awesome 😍](https://www.reddit.com/r/androiddev/comments/qus388/we_built_an_app_widget_with_compose_and_the_new/)
+- [In Kotlin Date to Long conversion help](https://www.reddit.com/r/androiddev/comments/quqrdz/in_kotlin_date_to_long_conversion_help/)
+- [Hey guys, anybody know how to code NFC, QR codes, adding contacts, or sending messages through the Android software?](https://www.reddit.com/r/androiddev/comments/quqmal/hey_guys_anybody_know_how_to_code_nfc_qr_codes/)
+- [Is is a SwiftUI feature only?](https://www.reddit.com/r/androiddev/comments/quq7tj/is_is_a_swiftui_feature_only/)
+- [Hello everyone i need a bit help!](https://www.reddit.com/r/androiddev/comments/qum2yc/hello_everyone_i_need_a_bit_help/)
+- [Does Pixel 4 emulator use wrong layout qualifiers?](https://www.reddit.com/r/androiddev/comments/qulvav/does_pixel_4_emulator_use_wrong_layout_qualifiers/)
+- [What are some good REST API services to use with Google Maps?](https://www.reddit.com/r/androiddev/comments/qukdtd/what_are_some_good_rest_api_services_to_use_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
