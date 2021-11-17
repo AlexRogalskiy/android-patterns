@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Put on your tin foil hat before reading](https://www.reddit.com/r/androiddev/comments/quvgwi/put_on_your_tin_foil_hat_before_reading/)
-- [Recruiter reached out to me for a phone call, what should I expect?](https://www.reddit.com/r/androiddev/comments/quupol/recruiter_reached_out_to_me_for_a_phone_call_what/)
-- [Job Search: Android Developer](https://www.reddit.com/r/androiddev/comments/qutoqb/job_search_android_developer/)
-- [We built an app widget with Compose and the new AndroidX Glance library and it was awesome 😍](https://www.reddit.com/r/androiddev/comments/qus388/we_built_an_app_widget_with_compose_and_the_new/)
-- [In Kotlin Date to Long conversion help](https://www.reddit.com/r/androiddev/comments/quqrdz/in_kotlin_date_to_long_conversion_help/)
-- [Hey guys, anybody know how to code NFC, QR codes, adding contacts, or sending messages through the Android software?](https://www.reddit.com/r/androiddev/comments/quqmal/hey_guys_anybody_know_how_to_code_nfc_qr_codes/)
-- [Is is a SwiftUI feature only?](https://www.reddit.com/r/androiddev/comments/quq7tj/is_is_a_swiftui_feature_only/)
-- [Hello everyone i need a bit help!](https://www.reddit.com/r/androiddev/comments/qum2yc/hello_everyone_i_need_a_bit_help/)
-- [Does Pixel 4 emulator use wrong layout qualifiers?](https://www.reddit.com/r/androiddev/comments/qulvav/does_pixel_4_emulator_use_wrong_layout_qualifiers/)
-- [What are some good REST API services to use with Google Maps?](https://www.reddit.com/r/androiddev/comments/qukdtd/what_are_some_good_rest_api_services_to_use_with/)
+- [Autofill framework not working in google chrome](https://www.reddit.com/r/androiddev/comments/qvjgjg/autofill_framework_not_working_in_google_chrome/)
+- [Android Studio hexagon shaped keyboard keys](https://www.reddit.com/r/androiddev/comments/qvdtng/android_studio_hexagon_shaped_keyboard_keys/)
+- [Firebase Realtime Database Listeners and MVVM](https://www.reddit.com/r/androiddev/comments/qvdjfs/firebase_realtime_database_listeners_and_mvvm/)
+- [how i can add chat /forum to my app ?](https://www.reddit.com/r/androiddev/comments/qvckew/how_i_can_add_chat_forum_to_my_app/)
+- [Why aab and apk file works differently?](https://www.reddit.com/r/androiddev/comments/qvb9m1/why_aab_and_apk_file_works_differently/)
+- [I need your help, what is the best way to edit a video &lpar;frame by frame&rpar;](https://www.reddit.com/r/androiddev/comments/qv8hxw/i_need_your_help_what_is_the_best_way_to_edit_a/)
+- [Weekly Questions Thread - November 16, 2021](https://www.reddit.com/r/androiddev/comments/qv8eb2/weekly_questions_thread_november_16_2021/)
+- [Google Play store question !](https://www.reddit.com/r/androiddev/comments/qv7nvt/google_play_store_question/)
+- [Is firebase firestore a good choice for social media app?](https://www.reddit.com/r/androiddev/comments/qv72bz/is_firebase_firestore_a_good_choice_for_social/)
+- [BLE logging temperature sensor](https://www.reddit.com/r/androiddev/comments/qv6ohf/ble_logging_temperature_sensor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
