@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Autofill framework not working in google chrome](https://www.reddit.com/r/androiddev/comments/qvjgjg/autofill_framework_not_working_in_google_chrome/)
-- [Android Studio hexagon shaped keyboard keys](https://www.reddit.com/r/androiddev/comments/qvdtng/android_studio_hexagon_shaped_keyboard_keys/)
-- [Firebase Realtime Database Listeners and MVVM](https://www.reddit.com/r/androiddev/comments/qvdjfs/firebase_realtime_database_listeners_and_mvvm/)
-- [how i can add chat /forum to my app ?](https://www.reddit.com/r/androiddev/comments/qvckew/how_i_can_add_chat_forum_to_my_app/)
-- [Why aab and apk file works differently?](https://www.reddit.com/r/androiddev/comments/qvb9m1/why_aab_and_apk_file_works_differently/)
-- [I need your help, what is the best way to edit a video &lpar;frame by frame&rpar;](https://www.reddit.com/r/androiddev/comments/qv8hxw/i_need_your_help_what_is_the_best_way_to_edit_a/)
-- [Weekly Questions Thread - November 16, 2021](https://www.reddit.com/r/androiddev/comments/qv8eb2/weekly_questions_thread_november_16_2021/)
-- [Google Play store question !](https://www.reddit.com/r/androiddev/comments/qv7nvt/google_play_store_question/)
-- [Is firebase firestore a good choice for social media app?](https://www.reddit.com/r/androiddev/comments/qv72bz/is_firebase_firestore_a_good_choice_for_social/)
-- [BLE logging temperature sensor](https://www.reddit.com/r/androiddev/comments/qv6ohf/ble_logging_temperature_sensor/)
+- [App update rejected: We have determined your app contains code to facilitate disruptive ads](https://www.reddit.com/r/androiddev/comments/qwca97/app_update_rejected_we_have_determined_your_app/)
+- [Anybody also received this type of email? How to fix this? Google play wants to verify my business and i dont have any registered business since my apps cant even earn $1 . it says that my sales will gonna be suspended if i dont verify? Is that permanent?](https://www.reddit.com/r/androiddev/comments/qwc5gj/anybody_also_received_this_type_of_email_how_to/)
+- [Google Play Keys](https://www.reddit.com/r/androiddev/comments/qwbina/google_play_keys/)
+- [Where do you look for Android Job Opportunities?](https://www.reddit.com/r/androiddev/comments/qw9hcq/where_do_you_look_for_android_job_opportunities/)
+- [Designing an App for both Android and Desktop using Compose](https://www.reddit.com/r/androiddev/comments/qw5rbr/designing_an_app_for_both_android_and_desktop/)
+- [Testing Jetpack Compose with Robolectric](https://www.reddit.com/r/androiddev/comments/qw4lwz/testing_jetpack_compose_with_robolectric/)
+- [Jetpack Navigation dot indicator](https://www.reddit.com/r/androiddev/comments/qw3xv6/jetpack_navigation_dot_indicator/)
+- [Consuming Activity Results using coroutines: Part 1](https://www.reddit.com/r/androiddev/comments/qw39zv/consuming_activity_results_using_coroutines_part_1/)
+- [Printer Option to App](https://www.reddit.com/r/androiddev/comments/qw2t27/printer_option_to_app/)
+- [[Russia] How to fill out W-8BEN-E form for Google Admob if our app dev company and office is in Russia?](https://www.reddit.com/r/androiddev/comments/qvw5bo/russia_how_to_fill_out_w8bene_form_for_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
