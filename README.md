@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App update rejected: We have determined your app contains code to facilitate disruptive ads](https://www.reddit.com/r/androiddev/comments/qwca97/app_update_rejected_we_have_determined_your_app/)
-- [Anybody also received this type of email? How to fix this? Google play wants to verify my business and i dont have any registered business since my apps cant even earn $1 . it says that my sales will gonna be suspended if i dont verify? Is that permanent?](https://www.reddit.com/r/androiddev/comments/qwc5gj/anybody_also_received_this_type_of_email_how_to/)
-- [Google Play Keys](https://www.reddit.com/r/androiddev/comments/qwbina/google_play_keys/)
-- [Where do you look for Android Job Opportunities?](https://www.reddit.com/r/androiddev/comments/qw9hcq/where_do_you_look_for_android_job_opportunities/)
-- [Designing an App for both Android and Desktop using Compose](https://www.reddit.com/r/androiddev/comments/qw5rbr/designing_an_app_for_both_android_and_desktop/)
-- [Testing Jetpack Compose with Robolectric](https://www.reddit.com/r/androiddev/comments/qw4lwz/testing_jetpack_compose_with_robolectric/)
-- [Jetpack Navigation dot indicator](https://www.reddit.com/r/androiddev/comments/qw3xv6/jetpack_navigation_dot_indicator/)
-- [Consuming Activity Results using coroutines: Part 1](https://www.reddit.com/r/androiddev/comments/qw39zv/consuming_activity_results_using_coroutines_part_1/)
-- [Printer Option to App](https://www.reddit.com/r/androiddev/comments/qw2t27/printer_option_to_app/)
-- [[Russia] How to fill out W-8BEN-E form for Google Admob if our app dev company and office is in Russia?](https://www.reddit.com/r/androiddev/comments/qvw5bo/russia_how_to_fill_out_w8bene_form_for_google/)
+- [100k app installs](https://www.reddit.com/r/androiddev/comments/qwy7aw/100k_app_installs/)
+- [Design with the Italians #3: Chris and Javier told us everything about LAYOUTS 😍🎊](https://www.reddit.com/r/androiddev/comments/qwxr1o/design_with_the_italians_3_chris_and_javier_told/)
+- [Android Dev Summit 2021 Talks Summary or content outline](https://www.reddit.com/r/androiddev/comments/qwxqba/android_dev_summit_2021_talks_summary_or_content/)
+- [ComposableRoutes - I have wrote a library to help with Android Compose Navigation routes](https://www.reddit.com/r/androiddev/comments/qwwulf/composableroutes_i_have_wrote_a_library_to_help/)
+- [How can we expose LiveData more elegantly and simpler?](https://www.reddit.com/r/androiddev/comments/qwvejx/how_can_we_expose_livedata_more_elegantly_and/)
+- [Activity recreation problem is solved with Jetpack Compose 🤔](https://www.reddit.com/r/androiddev/comments/qwu12a/activity_recreation_problem_is_solved_with/)
+- [Heatmap and location tracking](https://www.reddit.com/r/androiddev/comments/qwswao/heatmap_and_location_tracking/)
+- [Current wait times for app rejection appeal?](https://www.reddit.com/r/androiddev/comments/qwspz2/current_wait_times_for_app_rejection_appeal/)
+- [Triggering python scripts inside Android](https://www.reddit.com/r/androiddev/comments/qwq0kc/triggering_python_scripts_inside_android/)
+- [I can&#39;t keep up with many Android ecosystem updates and it is making me burnout.](https://www.reddit.com/r/androiddev/comments/qwp098/i_cant_keep_up_with_many_android_ecosystem/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
