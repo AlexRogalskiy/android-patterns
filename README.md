@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [100k app installs](https://www.reddit.com/r/androiddev/comments/qwy7aw/100k_app_installs/)
-- [Design with the Italians #3: Chris and Javier told us everything about LAYOUTS 😍🎊](https://www.reddit.com/r/androiddev/comments/qwxr1o/design_with_the_italians_3_chris_and_javier_told/)
-- [Android Dev Summit 2021 Talks Summary or content outline](https://www.reddit.com/r/androiddev/comments/qwxqba/android_dev_summit_2021_talks_summary_or_content/)
-- [ComposableRoutes - I have wrote a library to help with Android Compose Navigation routes](https://www.reddit.com/r/androiddev/comments/qwwulf/composableroutes_i_have_wrote_a_library_to_help/)
-- [How can we expose LiveData more elegantly and simpler?](https://www.reddit.com/r/androiddev/comments/qwvejx/how_can_we_expose_livedata_more_elegantly_and/)
-- [Activity recreation problem is solved with Jetpack Compose 🤔](https://www.reddit.com/r/androiddev/comments/qwu12a/activity_recreation_problem_is_solved_with/)
-- [Heatmap and location tracking](https://www.reddit.com/r/androiddev/comments/qwswao/heatmap_and_location_tracking/)
-- [Current wait times for app rejection appeal?](https://www.reddit.com/r/androiddev/comments/qwspz2/current_wait_times_for_app_rejection_appeal/)
-- [Triggering python scripts inside Android](https://www.reddit.com/r/androiddev/comments/qwq0kc/triggering_python_scripts_inside_android/)
-- [I can&#39;t keep up with many Android ecosystem updates and it is making me burnout.](https://www.reddit.com/r/androiddev/comments/qwp098/i_cant_keep_up_with_many_android_ecosystem/)
+- [Expandable outlined bottom navigation bar](https://www.reddit.com/r/androiddev/comments/qxstxq/expandable_outlined_bottom_navigation_bar/)
+- [Programmatically subscribe to an external .ics calendar on Android](https://www.reddit.com/r/androiddev/comments/qxos8d/programmatically_subscribe_to_an_external_ics/)
+- [Jetpack Compose - How to Add Multiple Markers to Google Maps](https://www.reddit.com/r/androiddev/comments/qxkuix/jetpack_compose_how_to_add_multiple_markers_to/)
+- [Change app completely?](https://www.reddit.com/r/androiddev/comments/qxk7se/change_app_completely/)
+- [I have created library to easily make custom slider in jetpack compose. The difference from material slider is that track and thumb can be anything you want.](https://www.reddit.com/r/androiddev/comments/qxj6yp/i_have_created_library_to_easily_make_custom/)
+- [How to fix the “Android emulator crashes when I take a screenshot” bug](https://www.reddit.com/r/androiddev/comments/qxiieb/how_to_fix_the_android_emulator_crashes_when_i/)
+- [App Feedback Thread - November 19, 2021](https://www.reddit.com/r/androiddev/comments/qxgsgj/app_feedback_thread_november_19_2021/)
+- [How to create graph in Android app?📈](https://www.reddit.com/r/androiddev/comments/qxeawt/how_to_create_graph_in_android_app/)
+- [Does Flutter support Automatic persisted queries](https://www.reddit.com/r/androiddev/comments/qxe912/does_flutter_support_automatic_persisted_queries/)
+- [Here is an article about my DI library for Kotlin Mutliplatform](https://www.reddit.com/r/androiddev/comments/qxdy1b/here_is_an_article_about_my_di_library_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
