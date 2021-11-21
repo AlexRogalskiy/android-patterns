@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Expandable outlined bottom navigation bar](https://www.reddit.com/r/androiddev/comments/qxstxq/expandable_outlined_bottom_navigation_bar/)
-- [Programmatically subscribe to an external .ics calendar on Android](https://www.reddit.com/r/androiddev/comments/qxos8d/programmatically_subscribe_to_an_external_ics/)
-- [Jetpack Compose - How to Add Multiple Markers to Google Maps](https://www.reddit.com/r/androiddev/comments/qxkuix/jetpack_compose_how_to_add_multiple_markers_to/)
-- [Change app completely?](https://www.reddit.com/r/androiddev/comments/qxk7se/change_app_completely/)
-- [I have created library to easily make custom slider in jetpack compose. The difference from material slider is that track and thumb can be anything you want.](https://www.reddit.com/r/androiddev/comments/qxj6yp/i_have_created_library_to_easily_make_custom/)
-- [How to fix the “Android emulator crashes when I take a screenshot” bug](https://www.reddit.com/r/androiddev/comments/qxiieb/how_to_fix_the_android_emulator_crashes_when_i/)
-- [App Feedback Thread - November 19, 2021](https://www.reddit.com/r/androiddev/comments/qxgsgj/app_feedback_thread_november_19_2021/)
-- [How to create graph in Android app?📈](https://www.reddit.com/r/androiddev/comments/qxeawt/how_to_create_graph_in_android_app/)
-- [Does Flutter support Automatic persisted queries](https://www.reddit.com/r/androiddev/comments/qxe912/does_flutter_support_automatic_persisted_queries/)
-- [Here is an article about my DI library for Kotlin Mutliplatform](https://www.reddit.com/r/androiddev/comments/qxdy1b/here_is_an_article_about_my_di_library_for_kotlin/)
+- [Dear developers, would continue learning XML or start learning Jetpack Compose be more convenient?](https://www.reddit.com/r/androiddev/comments/qyii9l/dear_developers_would_continue_learning_xml_or/)
+- [Do you use Google Play reviews for marketing?](https://www.reddit.com/r/androiddev/comments/qyhwo2/do_you_use_google_play_reviews_for_marketing/)
+- [Where can I download free XML vector icons?](https://www.reddit.com/r/androiddev/comments/qygh2j/where_can_i_download_free_xml_vector_icons/)
+- [Viewing Kotlin Code for Layout made in Layout Editor?](https://www.reddit.com/r/androiddev/comments/qyfzom/viewing_kotlin_code_for_layout_made_in_layout/)
+- [Can someone tell me how do i get a imag popup like this?](https://www.reddit.com/r/androiddev/comments/qyfvei/can_someone_tell_me_how_do_i_get_a_imag_popup/)
+- [How much have you made on your self-made apps, what generates the most revenue, ads? IAP?](https://www.reddit.com/r/androiddev/comments/qybt1o/how_much_have_you_made_on_your_selfmade_apps_what/)
+- [Developers who only published their app for the Android market, how successful was your app?](https://www.reddit.com/r/androiddev/comments/qybgqu/developers_who_only_published_their_app_for_the/)
+- [Is 65K yearly gross good for Android Dev in Berlín?](https://www.reddit.com/r/androiddev/comments/qy9sw1/is_65k_yearly_gross_good_for_android_dev_in_berlín/)
+- [You&#39;re currently unable to receive payouts because there&#39;s a hold on your payments account.](https://www.reddit.com/r/androiddev/comments/qy8tza/youre_currently_unable_to_receive_payouts_because/)
+- [How did you guys learn Android dev? I&#39;m struggling with basic things.](https://www.reddit.com/r/androiddev/comments/qy5mnv/how_did_you_guys_learn_android_dev_im_struggling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
