@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dear developers, would continue learning XML or start learning Jetpack Compose be more convenient?](https://www.reddit.com/r/androiddev/comments/qyii9l/dear_developers_would_continue_learning_xml_or/)
-- [Do you use Google Play reviews for marketing?](https://www.reddit.com/r/androiddev/comments/qyhwo2/do_you_use_google_play_reviews_for_marketing/)
-- [Where can I download free XML vector icons?](https://www.reddit.com/r/androiddev/comments/qygh2j/where_can_i_download_free_xml_vector_icons/)
-- [Viewing Kotlin Code for Layout made in Layout Editor?](https://www.reddit.com/r/androiddev/comments/qyfzom/viewing_kotlin_code_for_layout_made_in_layout/)
-- [Can someone tell me how do i get a imag popup like this?](https://www.reddit.com/r/androiddev/comments/qyfvei/can_someone_tell_me_how_do_i_get_a_imag_popup/)
-- [How much have you made on your self-made apps, what generates the most revenue, ads? IAP?](https://www.reddit.com/r/androiddev/comments/qybt1o/how_much_have_you_made_on_your_selfmade_apps_what/)
-- [Developers who only published their app for the Android market, how successful was your app?](https://www.reddit.com/r/androiddev/comments/qybgqu/developers_who_only_published_their_app_for_the/)
-- [Is 65K yearly gross good for Android Dev in Berlín?](https://www.reddit.com/r/androiddev/comments/qy9sw1/is_65k_yearly_gross_good_for_android_dev_in_berlín/)
-- [You&#39;re currently unable to receive payouts because there&#39;s a hold on your payments account.](https://www.reddit.com/r/androiddev/comments/qy8tza/youre_currently_unable_to_receive_payouts_because/)
-- [How did you guys learn Android dev? I&#39;m struggling with basic things.](https://www.reddit.com/r/androiddev/comments/qy5mnv/how_did_you_guys_learn_android_dev_im_struggling/)
+- [Asking for advice &lpar;Mariadb, REST API, Android&rpar;](https://www.reddit.com/r/androiddev/comments/qz9xlt/asking_for_advice_mariadb_rest_api_android/)
+- [What tool do you recommend to create great screenshots in Google Play store?](https://www.reddit.com/r/androiddev/comments/qz98qe/what_tool_do_you_recommend_to_create_great/)
+- [For those considering to buy or already have bought a new Macbook, which did you choose?](https://www.reddit.com/r/androiddev/comments/qz6xzi/for_those_considering_to_buy_or_already_have/)
+- [Eclipse error &quot;sdk platforms tool component is missing!&quot;](https://www.reddit.com/r/androiddev/comments/qz5mgn/eclipse_error_sdk_platforms_tool_component_is/)
+- [Optimizing app for Talkback](https://www.reddit.com/r/androiddev/comments/qz2i7b/optimizing_app_for_talkback/)
+- [Compose-based App to showcase my artworks and to set them as Live Wallpaper.](https://www.reddit.com/r/androiddev/comments/qywwgg/composebased_app_to_showcase_my_artworks_and_to/)
+- [Recently got hired as an android developer, need some guide/tutorial/book suggestions](https://www.reddit.com/r/androiddev/comments/qyw04l/recently_got_hired_as_an_android_developer_need/)
+- [Google Play strike](https://www.reddit.com/r/androiddev/comments/qyv2cc/google_play_strike/)
+- [Should I learn Java or Kotlin for android dev. Also can anyone help me how to start with it and the free sources to learn the best stuff.](https://www.reddit.com/r/androiddev/comments/qys3pi/should_i_learn_java_or_kotlin_for_android_dev/)
+- [Looking at options for adding layout files to an installed app, without updating APK](https://www.reddit.com/r/androiddev/comments/qyqz9x/looking_at_options_for_adding_layout_files_to_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
