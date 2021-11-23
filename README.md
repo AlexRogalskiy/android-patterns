@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Asking for advice &lpar;Mariadb, REST API, Android&rpar;](https://www.reddit.com/r/androiddev/comments/qz9xlt/asking_for_advice_mariadb_rest_api_android/)
-- [What tool do you recommend to create great screenshots in Google Play store?](https://www.reddit.com/r/androiddev/comments/qz98qe/what_tool_do_you_recommend_to_create_great/)
-- [For those considering to buy or already have bought a new Macbook, which did you choose?](https://www.reddit.com/r/androiddev/comments/qz6xzi/for_those_considering_to_buy_or_already_have/)
-- [Eclipse error &quot;sdk platforms tool component is missing!&quot;](https://www.reddit.com/r/androiddev/comments/qz5mgn/eclipse_error_sdk_platforms_tool_component_is/)
-- [Optimizing app for Talkback](https://www.reddit.com/r/androiddev/comments/qz2i7b/optimizing_app_for_talkback/)
-- [Compose-based App to showcase my artworks and to set them as Live Wallpaper.](https://www.reddit.com/r/androiddev/comments/qywwgg/composebased_app_to_showcase_my_artworks_and_to/)
-- [Recently got hired as an android developer, need some guide/tutorial/book suggestions](https://www.reddit.com/r/androiddev/comments/qyw04l/recently_got_hired_as_an_android_developer_need/)
-- [Google Play strike](https://www.reddit.com/r/androiddev/comments/qyv2cc/google_play_strike/)
-- [Should I learn Java or Kotlin for android dev. Also can anyone help me how to start with it and the free sources to learn the best stuff.](https://www.reddit.com/r/androiddev/comments/qys3pi/should_i_learn_java_or_kotlin_for_android_dev/)
-- [Looking at options for adding layout files to an installed app, without updating APK](https://www.reddit.com/r/androiddev/comments/qyqz9x/looking_at_options_for_adding_layout_files_to_an/)
+- [Server client between 2 Android devices over USB?](https://www.reddit.com/r/androiddev/comments/r01l0d/server_client_between_2_android_devices_over_usb/)
+- [Violating the Device and Network Abuse policy when add YouTube API](https://www.reddit.com/r/androiddev/comments/r01055/violating_the_device_and_network_abuse_policy/)
+- [New to Android Developer.. take it easy on me.](https://www.reddit.com/r/androiddev/comments/r00lxt/new_to_android_developer_take_it_easy_on_me/)
+- [fish table Sweepstakes games](https://www.reddit.com/r/androiddev/comments/qzzvx4/fish_table_sweepstakes_games/)
+- [CodeView 1.1.0 with snippets and line number](https://www.reddit.com/r/androiddev/comments/qzuqzq/codeview_110_with_snippets_and_line_number/)
+- [Facing two errors in android studio, cannot run application](https://www.reddit.com/r/androiddev/comments/qzufov/facing_two_errors_in_android_studio_cannot_run/)
+- [Looking to do app dev for a living as a freelancer. Can you guys give me some insight what to expect, the best platform for C Sharp &lpar;that&#39;s what I know&rpar;, and the ins and outs of the trade? Thanks!](https://www.reddit.com/r/androiddev/comments/qztn64/looking_to_do_app_dev_for_a_living_as_a/)
+- [Finally, I&#39;ve found a valid use for &quot;android:process&quot; attribute for the activity - I&#39;ve made a small library to trigger &quot;safe mode&quot; for application that experiences repeated crashes on startup](https://www.reddit.com/r/androiddev/comments/qzt9kq/finally_ive_found_a_valid_use_for_androidprocess/)
+- [Android Panel Discussion](https://www.reddit.com/r/androiddev/comments/qzr9t9/android_panel_discussion/)
+- [Mobile Developer Productivity at Reddit](https://www.reddit.com/r/androiddev/comments/qzqgeq/mobile_developer_productivity_at_reddit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
