@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Server client between 2 Android devices over USB?](https://www.reddit.com/r/androiddev/comments/r01l0d/server_client_between_2_android_devices_over_usb/)
-- [Violating the Device and Network Abuse policy when add YouTube API](https://www.reddit.com/r/androiddev/comments/r01055/violating_the_device_and_network_abuse_policy/)
-- [New to Android Developer.. take it easy on me.](https://www.reddit.com/r/androiddev/comments/r00lxt/new_to_android_developer_take_it_easy_on_me/)
-- [fish table Sweepstakes games](https://www.reddit.com/r/androiddev/comments/qzzvx4/fish_table_sweepstakes_games/)
-- [CodeView 1.1.0 with snippets and line number](https://www.reddit.com/r/androiddev/comments/qzuqzq/codeview_110_with_snippets_and_line_number/)
-- [Facing two errors in android studio, cannot run application](https://www.reddit.com/r/androiddev/comments/qzufov/facing_two_errors_in_android_studio_cannot_run/)
-- [Looking to do app dev for a living as a freelancer. Can you guys give me some insight what to expect, the best platform for C Sharp &lpar;that&#39;s what I know&rpar;, and the ins and outs of the trade? Thanks!](https://www.reddit.com/r/androiddev/comments/qztn64/looking_to_do_app_dev_for_a_living_as_a/)
-- [Finally, I&#39;ve found a valid use for &quot;android:process&quot; attribute for the activity - I&#39;ve made a small library to trigger &quot;safe mode&quot; for application that experiences repeated crashes on startup](https://www.reddit.com/r/androiddev/comments/qzt9kq/finally_ive_found_a_valid_use_for_androidprocess/)
-- [Android Panel Discussion](https://www.reddit.com/r/androiddev/comments/qzr9t9/android_panel_discussion/)
-- [Mobile Developer Productivity at Reddit](https://www.reddit.com/r/androiddev/comments/qzqgeq/mobile_developer_productivity_at_reddit/)
+- [NDK Setup?](https://www.reddit.com/r/androiddev/comments/r0quh5/ndk_setup/)
+- [How do I monitor a directory for changes via SAF?](https://www.reddit.com/r/androiddev/comments/r0qih8/how_do_i_monitor_a_directory_for_changes_via_saf/)
+- [Sticker - package for Gboard?!](https://www.reddit.com/r/androiddev/comments/r0p0fz/sticker_package_for_gboard/)
+- [Talking about the problems of Jetpack Compose with Gabor Varadi](https://www.reddit.com/r/androiddev/comments/r0nbdo/talking_about_the_problems_of_jetpack_compose/)
+- [Charles Proxy Config on Android OS 12](https://www.reddit.com/r/androiddev/comments/r0lxjy/charles_proxy_config_on_android_os_12/)
+- [Small sized foreground notification looks good on Android 10 and 11, but on Xiaomi Redmi Android 9, it looks bad](https://www.reddit.com/r/androiddev/comments/r0j3ta/small_sized_foreground_notification_looks_good_on/)
+- [Android 8.0 or 8.1 emulator &lpar;x86 image&rpar; on Apple M1](https://www.reddit.com/r/androiddev/comments/r0ilji/android_80_or_81_emulator_x86_image_on_apple_m1/)
+- [What would be the best way to add a multicolor &lpar;light, dark, green, solar, whatever&rpar; theme to an app and let user switch between them?](https://www.reddit.com/r/androiddev/comments/r0g4vm/what_would_be_the_best_way_to_add_a_multicolor/)
+- [Free cloud database with frequent data access?](https://www.reddit.com/r/androiddev/comments/r0frw8/free_cloud_database_with_frequent_data_access/)
+- [Best way to test on lots of different screen sizes?](https://www.reddit.com/r/androiddev/comments/r0eudt/best_way_to_test_on_lots_of_different_screen_sizes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
