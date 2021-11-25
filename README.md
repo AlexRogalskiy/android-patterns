@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [NDK Setup?](https://www.reddit.com/r/androiddev/comments/r0quh5/ndk_setup/)
-- [How do I monitor a directory for changes via SAF?](https://www.reddit.com/r/androiddev/comments/r0qih8/how_do_i_monitor_a_directory_for_changes_via_saf/)
-- [Sticker - package for Gboard?!](https://www.reddit.com/r/androiddev/comments/r0p0fz/sticker_package_for_gboard/)
-- [Talking about the problems of Jetpack Compose with Gabor Varadi](https://www.reddit.com/r/androiddev/comments/r0nbdo/talking_about_the_problems_of_jetpack_compose/)
-- [Charles Proxy Config on Android OS 12](https://www.reddit.com/r/androiddev/comments/r0lxjy/charles_proxy_config_on_android_os_12/)
-- [Small sized foreground notification looks good on Android 10 and 11, but on Xiaomi Redmi Android 9, it looks bad](https://www.reddit.com/r/androiddev/comments/r0j3ta/small_sized_foreground_notification_looks_good_on/)
-- [Android 8.0 or 8.1 emulator &lpar;x86 image&rpar; on Apple M1](https://www.reddit.com/r/androiddev/comments/r0ilji/android_80_or_81_emulator_x86_image_on_apple_m1/)
-- [What would be the best way to add a multicolor &lpar;light, dark, green, solar, whatever&rpar; theme to an app and let user switch between them?](https://www.reddit.com/r/androiddev/comments/r0g4vm/what_would_be_the_best_way_to_add_a_multicolor/)
-- [Free cloud database with frequent data access?](https://www.reddit.com/r/androiddev/comments/r0frw8/free_cloud_database_with_frequent_data_access/)
-- [Best way to test on lots of different screen sizes?](https://www.reddit.com/r/androiddev/comments/r0eudt/best_way_to_test_on_lots_of_different_screen_sizes/)
+- [Should you always use Hilt over inheritance, composition, and delegation?](https://www.reddit.com/r/androiddev/comments/r1kqou/should_you_always_use_hilt_over_inheritance/)
+- [Cac certs and to android](https://www.reddit.com/r/androiddev/comments/r1j7fy/cac_certs_and_to_android/)
+- [The famous and unthought MVI “misconception” in Android, alongside MVVM](https://www.reddit.com/r/androiddev/comments/r1hi5f/the_famous_and_unthought_mvi_misconception_in/)
+- [Creating native mobile app &lpar;Android&rpar; and corresponding web app](https://www.reddit.com/r/androiddev/comments/r1fvse/creating_native_mobile_app_android_and/)
+- [How to make nice looking designs when you are bad? Where can you find inspirations for layouts, colors, etc?](https://www.reddit.com/r/androiddev/comments/r1eodh/how_to_make_nice_looking_designs_when_you_are_bad/)
+- [Is there really no way to know?](https://www.reddit.com/r/androiddev/comments/r1c60v/is_there_really_no_way_to_know/)
+- [I don&#39;t see a lot of tutorials about Material You, so I decided to start making some myself. This one shows how to apply the new dynamic theming to your app!](https://www.reddit.com/r/androiddev/comments/r1btwj/i_dont_see_a_lot_of_tutorials_about_material_you/)
+- [Is it more profitable selling/publishing apps to the playstore or selling to clients in general? How do you guys make most of your money with android dev? I&#39;m looking to find my way here.](https://www.reddit.com/r/androiddev/comments/r196s4/is_it_more_profitable_sellingpublishing_apps_to/)
+- [What kind of window do I need if I want the app to close immediately when I switch apps or press back?](https://www.reddit.com/r/androiddev/comments/r1857z/what_kind_of_window_do_i_need_if_i_want_the_app/)
+- [Difference behavior in view binding vs data binding in included layout](https://www.reddit.com/r/androiddev/comments/r17juu/difference_behavior_in_view_binding_vs_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
