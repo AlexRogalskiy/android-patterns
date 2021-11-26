@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Problem with jetpack paging 3.0](https://www.reddit.com/r/androiddev/comments/r2asqi/problem_with_jetpack_paging_30/)
+- [how to show the dominant color of image as placeholder before the image is loaded from url?](https://www.reddit.com/r/androiddev/comments/r24ac2/how_to_show_the_dominant_color_of_image_as/)
+- [How do you charge Per project?](https://www.reddit.com/r/androiddev/comments/r1x4uu/how_do_you_charge_per_project/)
+- [Good resources for Android Developers?](https://www.reddit.com/r/androiddev/comments/r1v54q/good_resources_for_android_developers/)
+- [Do not update kotlin 1.6 on your android project, yet](https://www.reddit.com/r/androiddev/comments/r1saya/do_not_update_kotlin_16_on_your_android_project/)
+- [Hey Android Developers, as promised, here is my first Android interview with Ben Kadel. 😁🎙️😛 The questions categories are Android developers&#39; lifestyle, Android Community, encouraging Junior Android Developers, and some Android technicals. Hope you like it!](https://www.reddit.com/r/androiddev/comments/r1r9oz/hey_android_developers_as_promised_here_is_my/)
+- [Kotlin vs Java in Android, Four Years Later](https://www.reddit.com/r/androiddev/comments/r1r5ic/kotlin_vs_java_in_android_four_years_later/)
+- [How to replace strings.xml dynamically in Android?](https://www.reddit.com/r/androiddev/comments/r1r5hr/how_to_replace_stringsxml_dynamically_in_android/)
+- [Hello! I&#39;m quite new to Android Development and I have a concern.](https://www.reddit.com/r/androiddev/comments/r1qjuj/hello_im_quite_new_to_android_development_and_i/)
 - [Should you always use Hilt over inheritance, composition, and delegation?](https://www.reddit.com/r/androiddev/comments/r1kqou/should_you_always_use_hilt_over_inheritance/)
-- [Cac certs and to android](https://www.reddit.com/r/androiddev/comments/r1j7fy/cac_certs_and_to_android/)
-- [The famous and unthought MVI “misconception” in Android, alongside MVVM](https://www.reddit.com/r/androiddev/comments/r1hi5f/the_famous_and_unthought_mvi_misconception_in/)
-- [Creating native mobile app &lpar;Android&rpar; and corresponding web app](https://www.reddit.com/r/androiddev/comments/r1fvse/creating_native_mobile_app_android_and/)
-- [How to make nice looking designs when you are bad? Where can you find inspirations for layouts, colors, etc?](https://www.reddit.com/r/androiddev/comments/r1eodh/how_to_make_nice_looking_designs_when_you_are_bad/)
-- [Is there really no way to know?](https://www.reddit.com/r/androiddev/comments/r1c60v/is_there_really_no_way_to_know/)
-- [I don&#39;t see a lot of tutorials about Material You, so I decided to start making some myself. This one shows how to apply the new dynamic theming to your app!](https://www.reddit.com/r/androiddev/comments/r1btwj/i_dont_see_a_lot_of_tutorials_about_material_you/)
-- [Is it more profitable selling/publishing apps to the playstore or selling to clients in general? How do you guys make most of your money with android dev? I&#39;m looking to find my way here.](https://www.reddit.com/r/androiddev/comments/r196s4/is_it_more_profitable_sellingpublishing_apps_to/)
-- [What kind of window do I need if I want the app to close immediately when I switch apps or press back?](https://www.reddit.com/r/androiddev/comments/r1857z/what_kind_of_window_do_i_need_if_i_want_the_app/)
-- [Difference behavior in view binding vs data binding in included layout](https://www.reddit.com/r/androiddev/comments/r17juu/difference_behavior_in_view_binding_vs_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
