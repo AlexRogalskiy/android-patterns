@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Problem with jetpack paging 3.0](https://www.reddit.com/r/androiddev/comments/r2asqi/problem_with_jetpack_paging_30/)
-- [how to show the dominant color of image as placeholder before the image is loaded from url?](https://www.reddit.com/r/androiddev/comments/r24ac2/how_to_show_the_dominant_color_of_image_as/)
-- [How do you charge Per project?](https://www.reddit.com/r/androiddev/comments/r1x4uu/how_do_you_charge_per_project/)
-- [Good resources for Android Developers?](https://www.reddit.com/r/androiddev/comments/r1v54q/good_resources_for_android_developers/)
-- [Do not update kotlin 1.6 on your android project, yet](https://www.reddit.com/r/androiddev/comments/r1saya/do_not_update_kotlin_16_on_your_android_project/)
-- [Hey Android Developers, as promised, here is my first Android interview with Ben Kadel. 😁🎙️😛 The questions categories are Android developers&#39; lifestyle, Android Community, encouraging Junior Android Developers, and some Android technicals. Hope you like it!](https://www.reddit.com/r/androiddev/comments/r1r9oz/hey_android_developers_as_promised_here_is_my/)
-- [Kotlin vs Java in Android, Four Years Later](https://www.reddit.com/r/androiddev/comments/r1r5ic/kotlin_vs_java_in_android_four_years_later/)
-- [How to replace strings.xml dynamically in Android?](https://www.reddit.com/r/androiddev/comments/r1r5hr/how_to_replace_stringsxml_dynamically_in_android/)
-- [Hello! I&#39;m quite new to Android Development and I have a concern.](https://www.reddit.com/r/androiddev/comments/r1qjuj/hello_im_quite_new_to_android_development_and_i/)
-- [Should you always use Hilt over inheritance, composition, and delegation?](https://www.reddit.com/r/androiddev/comments/r1kqou/should_you_always_use_hilt_over_inheritance/)
+- [Two mutables don’t make a right](https://www.reddit.com/r/androiddev/comments/r30veg/two_mutables_dont_make_a_right/)
+- [Typical use of inline functions in Android apps?](https://www.reddit.com/r/androiddev/comments/r2ysdf/typical_use_of_inline_functions_in_android_apps/)
+- [Share your experience on handling API request errors :&rpar;](https://www.reddit.com/r/androiddev/comments/r2ypsv/share_your_experience_on_handling_api_request/)
+- [Kotlin list transformations](https://www.reddit.com/r/androiddev/comments/r2x0zf/kotlin_list_transformations/)
+- [Is Google committed to AR on Android?](https://www.reddit.com/r/androiddev/comments/r2wt8v/is_google_committed_to_ar_on_android/)
+- [Is it a good practice to cache AlertDialogs and AlertDialog.Builders?](https://www.reddit.com/r/androiddev/comments/r2to1b/is_it_a_good_practice_to_cache_alertdialogs_and/)
+- [Splash Screen API](https://www.reddit.com/r/androiddev/comments/r2tawy/splash_screen_api/)
+- [Samsung Locked Bootloaders](https://www.reddit.com/r/androiddev/comments/r2t5me/samsung_locked_bootloaders/)
+- [Porting a Linux CLI program to Android. What will the process entail?](https://www.reddit.com/r/androiddev/comments/r2sm82/porting_a_linux_cli_program_to_android_what_will/)
+- [Can this be changed?](https://www.reddit.com/r/androiddev/comments/r2ragf/can_this_be_changed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
