@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thoughts on compose](https://www.reddit.com/r/androiddev/comments/r3mi69/thoughts_on_compose/)
+- [Best source to learn about multi module project in android](https://www.reddit.com/r/androiddev/comments/r3kqvv/best_source_to_learn_about_multi_module_project/)
+- [Telemetry library for Android suggestions](https://www.reddit.com/r/androiddev/comments/r3jtn1/telemetry_library_for_android_suggestions/)
+- [Fragment or Adapter](https://www.reddit.com/r/androiddev/comments/r3if84/fragment_or_adapter/)
+- [Is a dedicated GPU relevant for emulator performance?](https://www.reddit.com/r/androiddev/comments/r3ese7/is_a_dedicated_gpu_relevant_for_emulator/)
+- [How are the job opportunities for an android dev in India? Is it a good career choice?](https://www.reddit.com/r/androiddev/comments/r3daex/how_are_the_job_opportunities_for_an_android_dev/)
+- [Extension function with 2 receivers in Kotlin 1.6.0](https://www.reddit.com/r/androiddev/comments/r3czyz/extension_function_with_2_receivers_in_kotlin_160/)
+- [Drawer layout swipe](https://www.reddit.com/r/androiddev/comments/r3cz7a/drawer_layout_swipe/)
+- [Encrypting user data in-transit for User Messaging Platform SDK for Android](https://www.reddit.com/r/androiddev/comments/r38ief/encrypting_user_data_intransit_for_user_messaging/)
 - [Two mutables don’t make a right](https://www.reddit.com/r/androiddev/comments/r30veg/two_mutables_dont_make_a_right/)
-- [Typical use of inline functions in Android apps?](https://www.reddit.com/r/androiddev/comments/r2ysdf/typical_use_of_inline_functions_in_android_apps/)
-- [Share your experience on handling API request errors :&rpar;](https://www.reddit.com/r/androiddev/comments/r2ypsv/share_your_experience_on_handling_api_request/)
-- [Kotlin list transformations](https://www.reddit.com/r/androiddev/comments/r2x0zf/kotlin_list_transformations/)
-- [Is Google committed to AR on Android?](https://www.reddit.com/r/androiddev/comments/r2wt8v/is_google_committed_to_ar_on_android/)
-- [Is it a good practice to cache AlertDialogs and AlertDialog.Builders?](https://www.reddit.com/r/androiddev/comments/r2to1b/is_it_a_good_practice_to_cache_alertdialogs_and/)
-- [Splash Screen API](https://www.reddit.com/r/androiddev/comments/r2tawy/splash_screen_api/)
-- [Samsung Locked Bootloaders](https://www.reddit.com/r/androiddev/comments/r2t5me/samsung_locked_bootloaders/)
-- [Porting a Linux CLI program to Android. What will the process entail?](https://www.reddit.com/r/androiddev/comments/r2sm82/porting_a_linux_cli_program_to_android_what_will/)
-- [Can this be changed?](https://www.reddit.com/r/androiddev/comments/r2ragf/can_this_be_changed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
