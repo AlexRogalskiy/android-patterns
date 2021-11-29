@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Thoughts on compose](https://www.reddit.com/r/androiddev/comments/r3mi69/thoughts_on_compose/)
-- [Best source to learn about multi module project in android](https://www.reddit.com/r/androiddev/comments/r3kqvv/best_source_to_learn_about_multi_module_project/)
-- [Telemetry library for Android suggestions](https://www.reddit.com/r/androiddev/comments/r3jtn1/telemetry_library_for_android_suggestions/)
-- [Fragment or Adapter](https://www.reddit.com/r/androiddev/comments/r3if84/fragment_or_adapter/)
-- [Is a dedicated GPU relevant for emulator performance?](https://www.reddit.com/r/androiddev/comments/r3ese7/is_a_dedicated_gpu_relevant_for_emulator/)
-- [How are the job opportunities for an android dev in India? Is it a good career choice?](https://www.reddit.com/r/androiddev/comments/r3daex/how_are_the_job_opportunities_for_an_android_dev/)
-- [Extension function with 2 receivers in Kotlin 1.6.0](https://www.reddit.com/r/androiddev/comments/r3czyz/extension_function_with_2_receivers_in_kotlin_160/)
-- [Drawer layout swipe](https://www.reddit.com/r/androiddev/comments/r3cz7a/drawer_layout_swipe/)
-- [Encrypting user data in-transit for User Messaging Platform SDK for Android](https://www.reddit.com/r/androiddev/comments/r38ief/encrypting_user_data_intransit_for_user_messaging/)
-- [Two mutables don’t make a right](https://www.reddit.com/r/androiddev/comments/r30veg/two_mutables_dont_make_a_right/)
+- [Google AdMob](https://www.reddit.com/r/androiddev/comments/r4hwat/google_admob/)
+- [Weird behaviour of RecyclerView inside NestedScrollView.](https://www.reddit.com/r/androiddev/comments/r4gotq/weird_behaviour_of_recyclerview_inside/)
+- [Third-party QA platforms used by medium to large businesses?](https://www.reddit.com/r/androiddev/comments/r4go38/thirdparty_qa_platforms_used_by_medium_to_large/)
+- [Google Play internal testing release &quot;in review&quot; - How even?](https://www.reddit.com/r/androiddev/comments/r4f0mi/google_play_internal_testing_release_in_review/)
+- [On average, how many Google Geocode API requests do each of your users make a month?](https://www.reddit.com/r/androiddev/comments/r4f0ll/on_average_how_many_google_geocode_api_requests/)
+- [Windows machine owner, How do you guys make your android emulator working smoothly with WSL2 ???](https://www.reddit.com/r/androiddev/comments/r4dnp5/windows_machine_owner_how_do_you_guys_make_your/)
+- [ExecutorService from kotlin coroutines](https://www.reddit.com/r/androiddev/comments/r4b9u2/executorservice_from_kotlin_coroutines/)
+- [My First YouTube Video](https://www.reddit.com/r/androiddev/comments/r4a894/my_first_youtube_video/)
+- [Opinion on native eshop apps?](https://www.reddit.com/r/androiddev/comments/r49hkb/opinion_on_native_eshop_apps/)
+- [The deprecation of RenderScript is infuriating](https://www.reddit.com/r/androiddev/comments/r49496/the_deprecation_of_renderscript_is_infuriating/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
