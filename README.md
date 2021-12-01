@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google AdMob](https://www.reddit.com/r/androiddev/comments/r4hwat/google_admob/)
-- [Weird behaviour of RecyclerView inside NestedScrollView.](https://www.reddit.com/r/androiddev/comments/r4gotq/weird_behaviour_of_recyclerview_inside/)
-- [Third-party QA platforms used by medium to large businesses?](https://www.reddit.com/r/androiddev/comments/r4go38/thirdparty_qa_platforms_used_by_medium_to_large/)
-- [Google Play internal testing release &quot;in review&quot; - How even?](https://www.reddit.com/r/androiddev/comments/r4f0mi/google_play_internal_testing_release_in_review/)
-- [On average, how many Google Geocode API requests do each of your users make a month?](https://www.reddit.com/r/androiddev/comments/r4f0ll/on_average_how_many_google_geocode_api_requests/)
-- [Windows machine owner, How do you guys make your android emulator working smoothly with WSL2 ???](https://www.reddit.com/r/androiddev/comments/r4dnp5/windows_machine_owner_how_do_you_guys_make_your/)
-- [ExecutorService from kotlin coroutines](https://www.reddit.com/r/androiddev/comments/r4b9u2/executorservice_from_kotlin_coroutines/)
-- [My First YouTube Video](https://www.reddit.com/r/androiddev/comments/r4a894/my_first_youtube_video/)
-- [Opinion on native eshop apps?](https://www.reddit.com/r/androiddev/comments/r49hkb/opinion_on_native_eshop_apps/)
-- [The deprecation of RenderScript is infuriating](https://www.reddit.com/r/androiddev/comments/r49496/the_deprecation_of_renderscript_is_infuriating/)
+- [So I get this error when I try upload my aab &lpar;made with unity&rpar; for release on Google Play Console?](https://www.reddit.com/r/androiddev/comments/r5z245/so_i_get_this_error_when_i_try_upload_my_aab_made/)
+- [Under The Hood – Crashlytics](https://www.reddit.com/r/androiddev/comments/r5xncg/under_the_hood_crashlytics/)
+- [Activity A starts activity B, activity B starts activity C and activity C starts activity D. How can we send data back from acitivity D to activity A? &lpar;Interview question&rpar;](https://www.reddit.com/r/androiddev/comments/r5xh74/activity_a_starts_activity_b_activity_b_starts/)
+- [What are deductions in Payments profile report?](https://www.reddit.com/r/androiddev/comments/r5won5/what_are_deductions_in_payments_profile_report/)
+- [Persism 2.0.0 Released - A zero ceremony ORM for Java](https://www.reddit.com/r/androiddev/comments/r5w7i1/persism_200_released_a_zero_ceremony_orm_for_java/)
+- [Resources for learning?](https://www.reddit.com/r/androiddev/comments/r5w08b/resources_for_learning/)
+- [How does android studio use values inside XML files](https://www.reddit.com/r/androiddev/comments/r5vmcq/how_does_android_studio_use_values_inside_xml/)
+- [What is the Android Cache Fix Plugin and Why do I need to Solve my Own Cache Misses? | Nelson Osacky](https://www.reddit.com/r/androiddev/comments/r5rh8m/what_is_the_android_cache_fix_plugin_and_why_do_i/)
+- [What map SDK&#39;s do you prefer?](https://www.reddit.com/r/androiddev/comments/r5q6pj/what_map_sdks_do_you_prefer/)
+- [Weekly Questions Thread - November 30, 2021](https://www.reddit.com/r/androiddev/comments/r5nvoh/weekly_questions_thread_november_30_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
