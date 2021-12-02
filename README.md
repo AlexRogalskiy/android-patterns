@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [So I get this error when I try upload my aab &lpar;made with unity&rpar; for release on Google Play Console?](https://www.reddit.com/r/androiddev/comments/r5z245/so_i_get_this_error_when_i_try_upload_my_aab_made/)
-- [Under The Hood – Crashlytics](https://www.reddit.com/r/androiddev/comments/r5xncg/under_the_hood_crashlytics/)
-- [Activity A starts activity B, activity B starts activity C and activity C starts activity D. How can we send data back from acitivity D to activity A? &lpar;Interview question&rpar;](https://www.reddit.com/r/androiddev/comments/r5xh74/activity_a_starts_activity_b_activity_b_starts/)
-- [What are deductions in Payments profile report?](https://www.reddit.com/r/androiddev/comments/r5won5/what_are_deductions_in_payments_profile_report/)
-- [Persism 2.0.0 Released - A zero ceremony ORM for Java](https://www.reddit.com/r/androiddev/comments/r5w7i1/persism_200_released_a_zero_ceremony_orm_for_java/)
-- [Resources for learning?](https://www.reddit.com/r/androiddev/comments/r5w08b/resources_for_learning/)
-- [How does android studio use values inside XML files](https://www.reddit.com/r/androiddev/comments/r5vmcq/how_does_android_studio_use_values_inside_xml/)
-- [What is the Android Cache Fix Plugin and Why do I need to Solve my Own Cache Misses? | Nelson Osacky](https://www.reddit.com/r/androiddev/comments/r5rh8m/what_is_the_android_cache_fix_plugin_and_why_do_i/)
-- [What map SDK&#39;s do you prefer?](https://www.reddit.com/r/androiddev/comments/r5q6pj/what_map_sdks_do_you_prefer/)
-- [Weekly Questions Thread - November 30, 2021](https://www.reddit.com/r/androiddev/comments/r5nvoh/weekly_questions_thread_november_30_2021/)
+- [The RxJava Threading Mistake You Are Probably Making](https://www.reddit.com/r/androiddev/comments/r6rqxj/the_rxjava_threading_mistake_you_are_probably/)
+- [CashApp + Gradle – A Journey in Android Developer Productivity w/ John R. &amp; Rooz M.](https://www.reddit.com/r/androiddev/comments/r6onw8/cashapp_gradle_a_journey_in_android_developer/)
+- [How to use view binding on customview and call its functions?](https://www.reddit.com/r/androiddev/comments/r6nmdx/how_to_use_view_binding_on_customview_and_call/)
+- [iTextPDF in Android Q and above](https://www.reddit.com/r/androiddev/comments/r6n96v/itextpdf_in_android_q_and_above/)
+- [Lag on scroll - Recyclerview Android](https://www.reddit.com/r/androiddev/comments/r6mt2m/lag_on_scroll_recyclerview_android/)
+- [Android Telematics App SDK Integration](https://www.reddit.com/r/androiddev/comments/r6k6fg/android_telematics_app_sdk_integration/)
+- [Android custom keyboard key press location](https://www.reddit.com/r/androiddev/comments/r6k3jw/android_custom_keyboard_key_press_location/)
+- [Loading animation on button click](https://www.reddit.com/r/androiddev/comments/r6k2wh/loading_animation_on_button_click/)
+- [How to support all Android versions? Or at least those with &gt; 1-2% of users.](https://www.reddit.com/r/androiddev/comments/r6jw39/how_to_support_all_android_versions_or_at_least/)
+- [A little help here please](https://www.reddit.com/r/androiddev/comments/r6g5ye/a_little_help_here_please/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
