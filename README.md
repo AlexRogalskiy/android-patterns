@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The RxJava Threading Mistake You Are Probably Making](https://www.reddit.com/r/androiddev/comments/r6rqxj/the_rxjava_threading_mistake_you_are_probably/)
-- [CashApp + Gradle – A Journey in Android Developer Productivity w/ John R. &amp; Rooz M.](https://www.reddit.com/r/androiddev/comments/r6onw8/cashapp_gradle_a_journey_in_android_developer/)
-- [How to use view binding on customview and call its functions?](https://www.reddit.com/r/androiddev/comments/r6nmdx/how_to_use_view_binding_on_customview_and_call/)
-- [iTextPDF in Android Q and above](https://www.reddit.com/r/androiddev/comments/r6n96v/itextpdf_in_android_q_and_above/)
-- [Lag on scroll - Recyclerview Android](https://www.reddit.com/r/androiddev/comments/r6mt2m/lag_on_scroll_recyclerview_android/)
-- [Android Telematics App SDK Integration](https://www.reddit.com/r/androiddev/comments/r6k6fg/android_telematics_app_sdk_integration/)
-- [Android custom keyboard key press location](https://www.reddit.com/r/androiddev/comments/r6k3jw/android_custom_keyboard_key_press_location/)
-- [Loading animation on button click](https://www.reddit.com/r/androiddev/comments/r6k2wh/loading_animation_on_button_click/)
-- [How to support all Android versions? Or at least those with &gt; 1-2% of users.](https://www.reddit.com/r/androiddev/comments/r6jw39/how_to_support_all_android_versions_or_at_least/)
-- [A little help here please](https://www.reddit.com/r/androiddev/comments/r6g5ye/a_little_help_here_please/)
+- [Google developer account terminated.](https://www.reddit.com/r/androiddev/comments/r7lsov/google_developer_account_terminated/)
+- [[Beginner Question] Trying to understand the ViewModel&lt;-&gt; repository interaction](https://www.reddit.com/r/androiddev/comments/r7k11m/beginner_question_trying_to_understand_the/)
+- [Graduating from View IDs](https://www.reddit.com/r/androiddev/comments/r7jvm1/graduating_from_view_ids/)
+- [I built an open source ear training app for musicians](https://www.reddit.com/r/androiddev/comments/r7hvs8/i_built_an_open_source_ear_training_app_for/)
+- [Why is my app in &quot;open testing&quot; I was trying to release an official version/publish it to the store?](https://www.reddit.com/r/androiddev/comments/r7h7h2/why_is_my_app_in_open_testing_i_was_trying_to/)
+- [Our latest design VOD is now live on YouTube — join us as we talk with Chris Sinco about affordances, touch feedback, and… door handles?!?](https://www.reddit.com/r/androiddev/comments/r7f8s7/our_latest_design_vod_is_now_live_on_youtube_join/)
+- [How to stay updated on the correct methods/ ways to use features when old versions are depreciated?](https://www.reddit.com/r/androiddev/comments/r7e9p0/how_to_stay_updated_on_the_correct_methods_ways/)
+- [Looking for a specific Android Studio icon for mac](https://www.reddit.com/r/androiddev/comments/r7d43f/looking_for_a_specific_android_studio_icon_for_mac/)
+- [Would i3 10th gen be able to run android studio?](https://www.reddit.com/r/androiddev/comments/r7cwio/would_i3_10th_gen_be_able_to_run_android_studio/)
+- [Post launch failure?](https://www.reddit.com/r/androiddev/comments/r7bv9k/post_launch_failure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
