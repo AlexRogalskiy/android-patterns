@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google developer account terminated.](https://www.reddit.com/r/androiddev/comments/r7lsov/google_developer_account_terminated/)
-- [[Beginner Question] Trying to understand the ViewModel&lt;-&gt; repository interaction](https://www.reddit.com/r/androiddev/comments/r7k11m/beginner_question_trying_to_understand_the/)
-- [Graduating from View IDs](https://www.reddit.com/r/androiddev/comments/r7jvm1/graduating_from_view_ids/)
-- [I built an open source ear training app for musicians](https://www.reddit.com/r/androiddev/comments/r7hvs8/i_built_an_open_source_ear_training_app_for/)
-- [Why is my app in &quot;open testing&quot; I was trying to release an official version/publish it to the store?](https://www.reddit.com/r/androiddev/comments/r7h7h2/why_is_my_app_in_open_testing_i_was_trying_to/)
-- [Our latest design VOD is now live on YouTube — join us as we talk with Chris Sinco about affordances, touch feedback, and… door handles?!?](https://www.reddit.com/r/androiddev/comments/r7f8s7/our_latest_design_vod_is_now_live_on_youtube_join/)
-- [How to stay updated on the correct methods/ ways to use features when old versions are depreciated?](https://www.reddit.com/r/androiddev/comments/r7e9p0/how_to_stay_updated_on_the_correct_methods_ways/)
-- [Looking for a specific Android Studio icon for mac](https://www.reddit.com/r/androiddev/comments/r7d43f/looking_for_a_specific_android_studio_icon_for_mac/)
-- [Would i3 10th gen be able to run android studio?](https://www.reddit.com/r/androiddev/comments/r7cwio/would_i3_10th_gen_be_able_to_run_android_studio/)
-- [Post launch failure?](https://www.reddit.com/r/androiddev/comments/r7bv9k/post_launch_failure/)
+- [I can&#39;t import library - Android Studio](https://www.reddit.com/r/androiddev/comments/r8d4gc/i_cant_import_library_android_studio/)
+- [Do you ever make apps that you don&#39;t publish but use personally for doing stuff? What are some examples?](https://www.reddit.com/r/androiddev/comments/r8ck4t/do_you_ever_make_apps_that_you_dont_publish_but/)
+- [Turning off Camera features for Machine Learning performance?](https://www.reddit.com/r/androiddev/comments/r8cexd/turning_off_camera_features_for_machine_learning/)
+- [Has anyone faced an issue with Room Database?](https://www.reddit.com/r/androiddev/comments/r89i8e/has_anyone_faced_an_issue_with_room_database/)
+- [Complaints from users about not being able to close reward video ads](https://www.reddit.com/r/androiddev/comments/r8993b/complaints_from_users_about_not_being_able_to/)
+- [How do i modify an .apk to include scanning of .nomedia files.](https://www.reddit.com/r/androiddev/comments/r849qf/how_do_i_modify_an_apk_to_include_scanning_of/)
+- [Hey Android Developers, in this new ADT video I demo how you can migrate your Android app&#39;s Gradle build configuration from unfamiliar Groovy to lovely Kotlin. 🛠️](https://www.reddit.com/r/androiddev/comments/r82zcb/hey_android_developers_in_this_new_adt_video_i/)
+- [Paging 3 still not simple enough](https://www.reddit.com/r/androiddev/comments/r824ea/paging_3_still_not_simple_enough/)
+- [Acquire photos from rear cameras](https://www.reddit.com/r/androiddev/comments/r81gpo/acquire_photos_from_rear_cameras/)
+- [Apple legal filing indicates it intends to collect commission regardless of whether developers use IAP or a competing payments platform](https://www.reddit.com/r/androiddev/comments/r800c5/apple_legal_filing_indicates_it_intends_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
