@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I can&#39;t import library - Android Studio](https://www.reddit.com/r/androiddev/comments/r8d4gc/i_cant_import_library_android_studio/)
-- [Do you ever make apps that you don&#39;t publish but use personally for doing stuff? What are some examples?](https://www.reddit.com/r/androiddev/comments/r8ck4t/do_you_ever_make_apps_that_you_dont_publish_but/)
-- [Turning off Camera features for Machine Learning performance?](https://www.reddit.com/r/androiddev/comments/r8cexd/turning_off_camera_features_for_machine_learning/)
-- [Has anyone faced an issue with Room Database?](https://www.reddit.com/r/androiddev/comments/r89i8e/has_anyone_faced_an_issue_with_room_database/)
-- [Complaints from users about not being able to close reward video ads](https://www.reddit.com/r/androiddev/comments/r8993b/complaints_from_users_about_not_being_able_to/)
-- [How do i modify an .apk to include scanning of .nomedia files.](https://www.reddit.com/r/androiddev/comments/r849qf/how_do_i_modify_an_apk_to_include_scanning_of/)
-- [Hey Android Developers, in this new ADT video I demo how you can migrate your Android app&#39;s Gradle build configuration from unfamiliar Groovy to lovely Kotlin. 🛠️](https://www.reddit.com/r/androiddev/comments/r82zcb/hey_android_developers_in_this_new_adt_video_i/)
-- [Paging 3 still not simple enough](https://www.reddit.com/r/androiddev/comments/r824ea/paging_3_still_not_simple_enough/)
-- [Acquire photos from rear cameras](https://www.reddit.com/r/androiddev/comments/r81gpo/acquire_photos_from_rear_cameras/)
-- [Apple legal filing indicates it intends to collect commission regardless of whether developers use IAP or a competing payments platform](https://www.reddit.com/r/androiddev/comments/r800c5/apple_legal_filing_indicates_it_intends_to/)
+- [Is Android autofill framework completely useless on Web pages?](https://www.reddit.com/r/androiddev/comments/r915e0/is_android_autofill_framework_completely_useless/)
+- [Dynamically Update/Refresh/Reload ViewPager2 Fragments](https://www.reddit.com/r/androiddev/comments/r90zoo/dynamically_updaterefreshreload_viewpager2/)
+- [Parallel Multiple API Calls or Network Calls Using Kotlin Coroutines](https://www.reddit.com/r/androiddev/comments/r90xw5/parallel_multiple_api_calls_or_network_calls/)
+- [Confusing inconsistent Gradle build times](https://www.reddit.com/r/androiddev/comments/r8zzef/confusing_inconsistent_gradle_build_times/)
+- [The file name must end with .xml while using solidity](https://www.reddit.com/r/androiddev/comments/r8w9mk/the_file_name_must_end_with_xml_while_using/)
+- [How do you find beta testers before initial release](https://www.reddit.com/r/androiddev/comments/r8thh9/how_do_you_find_beta_testers_before_initial/)
+- [Added tiled terrain support to the quixotic &lpar;Linux / Android / Windows&rpar; side-project](https://www.reddit.com/r/androiddev/comments/r8snjx/added_tiled_terrain_support_to_the_quixotic_linux/)
+- [Sound design—outlook for specialists?](https://www.reddit.com/r/androiddev/comments/r8sn9c/sound_designoutlook_for_specialists/)
+- [Why ride hailing apps have 2 apps](https://www.reddit.com/r/androiddev/comments/r8qhkw/why_ride_hailing_apps_have_2_apps/)
+- [Cropper - Android Library](https://www.reddit.com/r/androiddev/comments/r8pdx5/cropper_android_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
