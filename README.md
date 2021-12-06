@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is Android autofill framework completely useless on Web pages?](https://www.reddit.com/r/androiddev/comments/r915e0/is_android_autofill_framework_completely_useless/)
-- [Dynamically Update/Refresh/Reload ViewPager2 Fragments](https://www.reddit.com/r/androiddev/comments/r90zoo/dynamically_updaterefreshreload_viewpager2/)
-- [Parallel Multiple API Calls or Network Calls Using Kotlin Coroutines](https://www.reddit.com/r/androiddev/comments/r90xw5/parallel_multiple_api_calls_or_network_calls/)
-- [Confusing inconsistent Gradle build times](https://www.reddit.com/r/androiddev/comments/r8zzef/confusing_inconsistent_gradle_build_times/)
-- [The file name must end with .xml while using solidity](https://www.reddit.com/r/androiddev/comments/r8w9mk/the_file_name_must_end_with_xml_while_using/)
-- [How do you find beta testers before initial release](https://www.reddit.com/r/androiddev/comments/r8thh9/how_do_you_find_beta_testers_before_initial/)
-- [Added tiled terrain support to the quixotic &lpar;Linux / Android / Windows&rpar; side-project](https://www.reddit.com/r/androiddev/comments/r8snjx/added_tiled_terrain_support_to_the_quixotic_linux/)
-- [Sound design—outlook for specialists?](https://www.reddit.com/r/androiddev/comments/r8sn9c/sound_designoutlook_for_specialists/)
-- [Why ride hailing apps have 2 apps](https://www.reddit.com/r/androiddev/comments/r8qhkw/why_ride_hailing_apps_have_2_apps/)
-- [Cropper - Android Library](https://www.reddit.com/r/androiddev/comments/r8pdx5/cropper_android_library/)
+- [How should achievements be managed with and without Google Play Games?](https://www.reddit.com/r/androiddev/comments/r9r1y4/how_should_achievements_be_managed_with_and/)
+- [What is the best way to manage and organize build gradle dependencies?](https://www.reddit.com/r/androiddev/comments/r9r1d9/what_is_the_best_way_to_manage_and_organize_build/)
+- [Is OpenGL ES 2 book from 2013 still useful nowadays?](https://www.reddit.com/r/androiddev/comments/r9pbgh/is_opengl_es_2_book_from_2013_still_useful/)
+- [My app is &quot;unreviewed&quot; how do I get it reviewed. It&#39;s uploaded, I have a description, it&#39;s also on closed testing. Do I really have to publish it live for it to get reviewed?](https://www.reddit.com/r/androiddev/comments/r9mx39/my_app_is_unreviewed_how_do_i_get_it_reviewed_its/)
+- [PLEASE HELP !!!!! Create/Remove Dynamic views in Android &lpar;Android Studio&rpar;, export in a excel file](https://www.reddit.com/r/androiddev/comments/r9muh6/please_help_createremove_dynamic_views_in_android/)
+- [Tomorrow 7pm CET there will be my first premier video of learning #Android #Jetpack #Compose together. - I am trying to migrate a sample app to compose and learn on the go! 🧑🏽‍💻 - There will be live chat! 🗨️ - Press reminder to not miss it! ⏰](https://www.reddit.com/r/androiddev/comments/r9mo4y/tomorrow_7pm_cet_there_will_be_my_first_premier/)
+- [Change WebView provider on Samsung](https://www.reddit.com/r/androiddev/comments/r9kgwh/change_webview_provider_on_samsung/)
+- [Is the Google Drive API / &quot;App folder&quot; for developers actually going away?](https://www.reddit.com/r/androiddev/comments/r9k79f/is_the_google_drive_api_app_folder_for_developers/)
+- [Help, I’m new to android,I want to send automatic schedule email in the background](https://www.reddit.com/r/androiddev/comments/r9k4f8/help_im_new_to_androidi_want_to_send_automatic/)
+- [The Case of the Disappearing Days](https://www.reddit.com/r/androiddev/comments/r9i1cd/the_case_of_the_disappearing_days/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
