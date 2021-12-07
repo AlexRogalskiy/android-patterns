@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How should achievements be managed with and without Google Play Games?](https://www.reddit.com/r/androiddev/comments/r9r1y4/how_should_achievements_be_managed_with_and/)
-- [What is the best way to manage and organize build gradle dependencies?](https://www.reddit.com/r/androiddev/comments/r9r1d9/what_is_the_best_way_to_manage_and_organize_build/)
-- [Is OpenGL ES 2 book from 2013 still useful nowadays?](https://www.reddit.com/r/androiddev/comments/r9pbgh/is_opengl_es_2_book_from_2013_still_useful/)
-- [My app is &quot;unreviewed&quot; how do I get it reviewed. It&#39;s uploaded, I have a description, it&#39;s also on closed testing. Do I really have to publish it live for it to get reviewed?](https://www.reddit.com/r/androiddev/comments/r9mx39/my_app_is_unreviewed_how_do_i_get_it_reviewed_its/)
-- [PLEASE HELP !!!!! Create/Remove Dynamic views in Android &lpar;Android Studio&rpar;, export in a excel file](https://www.reddit.com/r/androiddev/comments/r9muh6/please_help_createremove_dynamic_views_in_android/)
-- [Tomorrow 7pm CET there will be my first premier video of learning #Android #Jetpack #Compose together. - I am trying to migrate a sample app to compose and learn on the go! 🧑🏽‍💻 - There will be live chat! 🗨️ - Press reminder to not miss it! ⏰](https://www.reddit.com/r/androiddev/comments/r9mo4y/tomorrow_7pm_cet_there_will_be_my_first_premier/)
-- [Change WebView provider on Samsung](https://www.reddit.com/r/androiddev/comments/r9kgwh/change_webview_provider_on_samsung/)
-- [Is the Google Drive API / &quot;App folder&quot; for developers actually going away?](https://www.reddit.com/r/androiddev/comments/r9k79f/is_the_google_drive_api_app_folder_for_developers/)
-- [Help, I’m new to android,I want to send automatic schedule email in the background](https://www.reddit.com/r/androiddev/comments/r9k4f8/help_im_new_to_androidi_want_to_send_automatic/)
-- [The Case of the Disappearing Days](https://www.reddit.com/r/androiddev/comments/r9i1cd/the_case_of_the_disappearing_days/)
+- [Alternatives to Pendo](https://www.reddit.com/r/androiddev/comments/ramgmq/alternatives_to_pendo/)
+- [Mistakenly registered &lpar;paid $25&rpar; as organisation in Google Play developer](https://www.reddit.com/r/androiddev/comments/rahsrm/mistakenly_registered_paid_25_as_organisation_in/)
+- [Previewing to rear cameras simultaneously](https://www.reddit.com/r/androiddev/comments/rahq8u/previewing_to_rear_cameras_simultaneously/)
+- [Building a library for Jetpack Compose UI and screenshot testing](https://www.reddit.com/r/androiddev/comments/ragvu5/building_a_library_for_jetpack_compose_ui_and/)
+- [What&#39;s the name of qs media controls color token?](https://www.reddit.com/r/androiddev/comments/ragm9r/whats_the_name_of_qs_media_controls_color_token/)
+- [Best way to manage a fleet of Android devices and push app updates &lpar;without prompting Google login challenges&rpar;?](https://www.reddit.com/r/androiddev/comments/ragdns/best_way_to_manage_a_fleet_of_android_devices_and/)
+- [Any advice on developing first app?](https://www.reddit.com/r/androiddev/comments/raffw9/any_advice_on_developing_first_app/)
+- [1 star review from cheap phones](https://www.reddit.com/r/androiddev/comments/radu5s/1_star_review_from_cheap_phones/)
+- [how to upgrade your app listing page.](https://www.reddit.com/r/androiddev/comments/radq1t/how_to_upgrade_your_app_listing_page/)
+- [Open source Android projects with lots of Gradle modules](https://www.reddit.com/r/androiddev/comments/raamm1/open_source_android_projects_with_lots_of_gradle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
