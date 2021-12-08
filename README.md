@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Alternatives to Pendo](https://www.reddit.com/r/androiddev/comments/ramgmq/alternatives_to_pendo/)
-- [Mistakenly registered &lpar;paid $25&rpar; as organisation in Google Play developer](https://www.reddit.com/r/androiddev/comments/rahsrm/mistakenly_registered_paid_25_as_organisation_in/)
-- [Previewing to rear cameras simultaneously](https://www.reddit.com/r/androiddev/comments/rahq8u/previewing_to_rear_cameras_simultaneously/)
-- [Building a library for Jetpack Compose UI and screenshot testing](https://www.reddit.com/r/androiddev/comments/ragvu5/building_a_library_for_jetpack_compose_ui_and/)
-- [What&#39;s the name of qs media controls color token?](https://www.reddit.com/r/androiddev/comments/ragm9r/whats_the_name_of_qs_media_controls_color_token/)
-- [Best way to manage a fleet of Android devices and push app updates &lpar;without prompting Google login challenges&rpar;?](https://www.reddit.com/r/androiddev/comments/ragdns/best_way_to_manage_a_fleet_of_android_devices_and/)
-- [Any advice on developing first app?](https://www.reddit.com/r/androiddev/comments/raffw9/any_advice_on_developing_first_app/)
-- [1 star review from cheap phones](https://www.reddit.com/r/androiddev/comments/radu5s/1_star_review_from_cheap_phones/)
-- [how to upgrade your app listing page.](https://www.reddit.com/r/androiddev/comments/radq1t/how_to_upgrade_your_app_listing_page/)
-- [Open source Android projects with lots of Gradle modules](https://www.reddit.com/r/androiddev/comments/raamm1/open_source_android_projects_with_lots_of_gradle/)
+- [Reverse engineering Android apps](https://www.reddit.com/r/androiddev/comments/rbeemx/reverse_engineering_android_apps/)
+- [When does the view model call onCleared&lpar;&rpar; when it’s connected with two fragments?](https://www.reddit.com/r/androiddev/comments/rbcxq9/when_does_the_view_model_call_oncleared_when_its/)
+- [Nullable !! practice](https://www.reddit.com/r/androiddev/comments/rbbyzp/nullable_practice/)
+- [What are some cheap aso tools for app developers?](https://www.reddit.com/r/androiddev/comments/rb65n5/what_are_some_cheap_aso_tools_for_app_developers/)
+- [WebView not found? Time to crash everything!](https://www.reddit.com/r/androiddev/comments/rb5v34/webview_not_found_time_to_crash_everything/)
+- [Having issues connecting to an API to display search results to the user in an app.](https://www.reddit.com/r/androiddev/comments/rb56yh/having_issues_connecting_to_an_api_to_display/)
+- [Android 12 and Notification Trampolines](https://www.reddit.com/r/androiddev/comments/rb2kgu/android_12_and_notification_trampolines/)
+- [Weekly Questions Thread - December 07, 2021](https://www.reddit.com/r/androiddev/comments/razszb/weekly_questions_thread_december_07_2021/)
+- [Styles and themes in xml are hard to work with](https://www.reddit.com/r/androiddev/comments/raybsz/styles_and_themes_in_xml_are_hard_to_work_with/)
+- [Communication between UI and Logic](https://www.reddit.com/r/androiddev/comments/rayaka/communication_between_ui_and_logic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
