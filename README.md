@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Reverse engineering Android apps](https://www.reddit.com/r/androiddev/comments/rbeemx/reverse_engineering_android_apps/)
-- [When does the view model call onCleared&lpar;&rpar; when it’s connected with two fragments?](https://www.reddit.com/r/androiddev/comments/rbcxq9/when_does_the_view_model_call_oncleared_when_its/)
-- [Nullable !! practice](https://www.reddit.com/r/androiddev/comments/rbbyzp/nullable_practice/)
-- [What are some cheap aso tools for app developers?](https://www.reddit.com/r/androiddev/comments/rb65n5/what_are_some_cheap_aso_tools_for_app_developers/)
-- [WebView not found? Time to crash everything!](https://www.reddit.com/r/androiddev/comments/rb5v34/webview_not_found_time_to_crash_everything/)
-- [Having issues connecting to an API to display search results to the user in an app.](https://www.reddit.com/r/androiddev/comments/rb56yh/having_issues_connecting_to_an_api_to_display/)
-- [Android 12 and Notification Trampolines](https://www.reddit.com/r/androiddev/comments/rb2kgu/android_12_and_notification_trampolines/)
-- [Weekly Questions Thread - December 07, 2021](https://www.reddit.com/r/androiddev/comments/razszb/weekly_questions_thread_december_07_2021/)
-- [Styles and themes in xml are hard to work with](https://www.reddit.com/r/androiddev/comments/raybsz/styles_and_themes_in_xml_are_hard_to_work_with/)
-- [Communication between UI and Logic](https://www.reddit.com/r/androiddev/comments/rayaka/communication_between_ui_and_logic/)
+- [How does Crashlytics work?](https://www.reddit.com/r/androiddev/comments/rc3fyj/how_does_crashlytics_work/)
+- [How to set video view to a video in Parse backend](https://www.reddit.com/r/androiddev/comments/rc14lr/how_to_set_video_view_to_a_video_in_parse_backend/)
+- [How to choose which layout to be used in the Android app? Is constraint layout is best layout?](https://www.reddit.com/r/androiddev/comments/rbzkqw/how_to_choose_which_layout_to_be_used_in_the/)
+- [Consuming Activity Results using coroutines: Part 2](https://www.reddit.com/r/androiddev/comments/rby4d5/consuming_activity_results_using_coroutines_part_2/)
+- [Android POS system and hardware go to homescreen via usb](https://www.reddit.com/r/androiddev/comments/rbx1en/android_pos_system_and_hardware_go_to_homescreen/)
+- [Come ask your questions about Jetpack Compose, Compose compiler and much more to Jake and Leland](https://www.reddit.com/r/androiddev/comments/rbwqch/come_ask_your_questions_about_jetpack_compose/)
+- [Android Studio - Arctic Fox | 2020.3.1 Patch 4 now available](https://www.reddit.com/r/androiddev/comments/rbw85y/android_studio_arctic_fox_202031_patch_4_now/)
+- [Programmatically talking to the Android system via ADB shell commands](https://www.reddit.com/r/androiddev/comments/rbuz4t/programmatically_talking_to_the_android_system/)
+- [A lightweight library for requesting and consuming Activity Results using coroutines](https://www.reddit.com/r/androiddev/comments/rbulex/a_lightweight_library_for_requesting_and/)
+- [Is there a library that can generate a dependency graph for you?](https://www.reddit.com/r/androiddev/comments/rbt65s/is_there_a_library_that_can_generate_a_dependency/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
