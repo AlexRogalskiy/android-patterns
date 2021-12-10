@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How does Crashlytics work?](https://www.reddit.com/r/androiddev/comments/rc3fyj/how_does_crashlytics_work/)
-- [How to set video view to a video in Parse backend](https://www.reddit.com/r/androiddev/comments/rc14lr/how_to_set_video_view_to_a_video_in_parse_backend/)
-- [How to choose which layout to be used in the Android app? Is constraint layout is best layout?](https://www.reddit.com/r/androiddev/comments/rbzkqw/how_to_choose_which_layout_to_be_used_in_the/)
-- [Consuming Activity Results using coroutines: Part 2](https://www.reddit.com/r/androiddev/comments/rby4d5/consuming_activity_results_using_coroutines_part_2/)
-- [Android POS system and hardware go to homescreen via usb](https://www.reddit.com/r/androiddev/comments/rbx1en/android_pos_system_and_hardware_go_to_homescreen/)
-- [Come ask your questions about Jetpack Compose, Compose compiler and much more to Jake and Leland](https://www.reddit.com/r/androiddev/comments/rbwqch/come_ask_your_questions_about_jetpack_compose/)
-- [Android Studio - Arctic Fox | 2020.3.1 Patch 4 now available](https://www.reddit.com/r/androiddev/comments/rbw85y/android_studio_arctic_fox_202031_patch_4_now/)
-- [Programmatically talking to the Android system via ADB shell commands](https://www.reddit.com/r/androiddev/comments/rbuz4t/programmatically_talking_to_the_android_system/)
-- [A lightweight library for requesting and consuming Activity Results using coroutines](https://www.reddit.com/r/androiddev/comments/rbulex/a_lightweight_library_for_requesting_and/)
-- [Is there a library that can generate a dependency graph for you?](https://www.reddit.com/r/androiddev/comments/rbt65s/is_there_a_library_that_can_generate_a_dependency/)
+- [Google Play Developer Console file verification - is there any .](https://www.reddit.com/r/androiddev/comments/rcwxuf/google_play_developer_console_file_verification/)
+- [Configure screen brightness with ADB on Sony Bravia XBR-X950G](https://www.reddit.com/r/androiddev/comments/rcwdbs/configure_screen_brightness_with_adb_on_sony/)
+- [Getting bandwith usage data](https://www.reddit.com/r/androiddev/comments/rctpoc/getting_bandwith_usage_data/)
+- [Currently using Google Advanced Mobile Management and I need to restrict browser activity on Samsung tablets in Chrome app. Any suggestions?](https://www.reddit.com/r/androiddev/comments/rcthgg/currently_using_google_advanced_mobile_management/)
+- [Why a Purchase can have multiple SKUs?](https://www.reddit.com/r/androiddev/comments/rcsb7o/why_a_purchase_can_have_multiple_skus/)
+- [Playing with Jetpack Compose States &amp; Flow](https://www.reddit.com/r/androiddev/comments/rcn0mo/playing_with_jetpack_compose_states_flow/)
+- [Publishing apps worldwide?](https://www.reddit.com/r/androiddev/comments/rcmni3/publishing_apps_worldwide/)
+- [What are some resources to learn Android with kotlin coming from a java background?](https://www.reddit.com/r/androiddev/comments/rcmbob/what_are_some_resources_to_learn_android_with/)
+- [Question: Google play store rules](https://www.reddit.com/r/androiddev/comments/rcloj5/question_google_play_store_rules/)
+- [How long would it take to become employable?](https://www.reddit.com/r/androiddev/comments/rclnlh/how_long_would_it_take_to_become_employable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
