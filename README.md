@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play Developer Console file verification - is there any .](https://www.reddit.com/r/androiddev/comments/rcwxuf/google_play_developer_console_file_verification/)
-- [Configure screen brightness with ADB on Sony Bravia XBR-X950G](https://www.reddit.com/r/androiddev/comments/rcwdbs/configure_screen_brightness_with_adb_on_sony/)
-- [Getting bandwith usage data](https://www.reddit.com/r/androiddev/comments/rctpoc/getting_bandwith_usage_data/)
-- [Currently using Google Advanced Mobile Management and I need to restrict browser activity on Samsung tablets in Chrome app. Any suggestions?](https://www.reddit.com/r/androiddev/comments/rcthgg/currently_using_google_advanced_mobile_management/)
-- [Why a Purchase can have multiple SKUs?](https://www.reddit.com/r/androiddev/comments/rcsb7o/why_a_purchase_can_have_multiple_skus/)
-- [Playing with Jetpack Compose States &amp; Flow](https://www.reddit.com/r/androiddev/comments/rcn0mo/playing_with_jetpack_compose_states_flow/)
-- [Publishing apps worldwide?](https://www.reddit.com/r/androiddev/comments/rcmni3/publishing_apps_worldwide/)
-- [What are some resources to learn Android with kotlin coming from a java background?](https://www.reddit.com/r/androiddev/comments/rcmbob/what_are_some_resources_to_learn_android_with/)
-- [Question: Google play store rules](https://www.reddit.com/r/androiddev/comments/rcloj5/question_google_play_store_rules/)
-- [How long would it take to become employable?](https://www.reddit.com/r/androiddev/comments/rclnlh/how_long_would_it_take_to_become_employable/)
+- [What&#39;s the point of the &quot;Internal testing&quot; track on google play?](https://www.reddit.com/r/androiddev/comments/rdns15/whats_the_point_of_the_internal_testing_track_on/)
+- [Coding interview in Android](https://www.reddit.com/r/androiddev/comments/rdmz1o/coding_interview_in_android/)
+- [Junior Question, bit I will ask it.](https://www.reddit.com/r/androiddev/comments/rdlz0r/junior_question_bit_i_will_ask_it/)
+- [Is there a way you could scroll one page at a time like on a pc?](https://www.reddit.com/r/androiddev/comments/rdjlor/is_there_a_way_you_could_scroll_one_page_at_a/)
+- [Webinar Alert: Mobile App Localization](https://www.reddit.com/r/androiddev/comments/rdjlin/webinar_alert_mobile_app_localization/)
+- [Facebook Audience Network Question](https://www.reddit.com/r/androiddev/comments/rde4s2/facebook_audience_network_question/)
+- [Android build identification number](https://www.reddit.com/r/androiddev/comments/rdcy1o/android_build_identification_number/)
+- [What is your process to compare adb key fingerprint?](https://www.reddit.com/r/androiddev/comments/rdbx94/what_is_your_process_to_compare_adb_key/)
+- [Android mobile app that utilises smarwatch accelerometer data](https://www.reddit.com/r/androiddev/comments/rdaf56/android_mobile_app_that_utilises_smarwatch/)
+- [App Feedback Thread - December 10, 2021](https://www.reddit.com/r/androiddev/comments/rd99q9/app_feedback_thread_december_10_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
