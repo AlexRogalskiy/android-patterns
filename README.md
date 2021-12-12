@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s the point of the &quot;Internal testing&quot; track on google play?](https://www.reddit.com/r/androiddev/comments/rdns15/whats_the_point_of_the_internal_testing_track_on/)
-- [Coding interview in Android](https://www.reddit.com/r/androiddev/comments/rdmz1o/coding_interview_in_android/)
-- [Junior Question, bit I will ask it.](https://www.reddit.com/r/androiddev/comments/rdlz0r/junior_question_bit_i_will_ask_it/)
-- [Is there a way you could scroll one page at a time like on a pc?](https://www.reddit.com/r/androiddev/comments/rdjlor/is_there_a_way_you_could_scroll_one_page_at_a/)
-- [Webinar Alert: Mobile App Localization](https://www.reddit.com/r/androiddev/comments/rdjlin/webinar_alert_mobile_app_localization/)
-- [Facebook Audience Network Question](https://www.reddit.com/r/androiddev/comments/rde4s2/facebook_audience_network_question/)
-- [Android build identification number](https://www.reddit.com/r/androiddev/comments/rdcy1o/android_build_identification_number/)
-- [What is your process to compare adb key fingerprint?](https://www.reddit.com/r/androiddev/comments/rdbx94/what_is_your_process_to_compare_adb_key/)
-- [Android mobile app that utilises smarwatch accelerometer data](https://www.reddit.com/r/androiddev/comments/rdaf56/android_mobile_app_that_utilises_smarwatch/)
-- [App Feedback Thread - December 10, 2021](https://www.reddit.com/r/androiddev/comments/rd99q9/app_feedback_thread_december_10_2021/)
+- [Sleepin’ Guy our first game for Google Play!](https://www.reddit.com/r/androiddev/comments/reb7rp/sleepin_guy_our_first_game_for_google_play/)
+- [So I released my app, &quot;Notes This Time&quot;, but it was released with Early access tagged to it. How long does this tag/released stick around for before they change it or is that something I&#39;m supposed to do?](https://www.reddit.com/r/androiddev/comments/re9ogg/so_i_released_my_app_notes_this_time_but_it_was/)
+- [45 days waiting for app approval](https://www.reddit.com/r/androiddev/comments/re8ef0/45_days_waiting_for_app_approval/)
+- [What is the most community supported brand?](https://www.reddit.com/r/androiddev/comments/re61l8/what_is_the_most_community_supported_brand/)
+- [Why FileInputStream, File.createTempFile or FileOutputStream shows &quot;Inappropriate blocking method call&quot;](https://www.reddit.com/r/androiddev/comments/re59ea/why_fileinputstream_filecreatetempfile_or/)
+- [Looking for a particular youtube video about Kotlin Coroutines &lpar;2 - 3 years old minimum&rpar;](https://www.reddit.com/r/androiddev/comments/re268i/looking_for_a_particular_youtube_video_about/)
+- [Hey guys, check out this article on the Composite pattern in Kotlin and Android.](https://www.reddit.com/r/androiddev/comments/rdz9oe/hey_guys_check_out_this_article_on_the_composite/)
+- [Can a Android device connect to more than one Wifi Direct Group Owners simultaneously?](https://www.reddit.com/r/androiddev/comments/rdyqng/can_a_android_device_connect_to_more_than_one/)
+- [How a bug in Android and Microsoft Teams could have caused this user’s 911 call to fail](https://www.reddit.com/r/androiddev/comments/rdyilr/how_a_bug_in_android_and_microsoft_teams_could/)
+- [Prevent item from getting removed from list &lpar;unless it is really deleted&rpar; in Firebase Realtime Database/Firestore &lpar;wherever it is possible&rpar;?](https://www.reddit.com/r/androiddev/comments/rdxm97/prevent_item_from_getting_removed_from_list/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
