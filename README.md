@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sleepin’ Guy our first game for Google Play!](https://www.reddit.com/r/androiddev/comments/reb7rp/sleepin_guy_our_first_game_for_google_play/)
-- [So I released my app, &quot;Notes This Time&quot;, but it was released with Early access tagged to it. How long does this tag/released stick around for before they change it or is that something I&#39;m supposed to do?](https://www.reddit.com/r/androiddev/comments/re9ogg/so_i_released_my_app_notes_this_time_but_it_was/)
-- [45 days waiting for app approval](https://www.reddit.com/r/androiddev/comments/re8ef0/45_days_waiting_for_app_approval/)
-- [What is the most community supported brand?](https://www.reddit.com/r/androiddev/comments/re61l8/what_is_the_most_community_supported_brand/)
-- [Why FileInputStream, File.createTempFile or FileOutputStream shows &quot;Inappropriate blocking method call&quot;](https://www.reddit.com/r/androiddev/comments/re59ea/why_fileinputstream_filecreatetempfile_or/)
-- [Looking for a particular youtube video about Kotlin Coroutines &lpar;2 - 3 years old minimum&rpar;](https://www.reddit.com/r/androiddev/comments/re268i/looking_for_a_particular_youtube_video_about/)
-- [Hey guys, check out this article on the Composite pattern in Kotlin and Android.](https://www.reddit.com/r/androiddev/comments/rdz9oe/hey_guys_check_out_this_article_on_the_composite/)
-- [Can a Android device connect to more than one Wifi Direct Group Owners simultaneously?](https://www.reddit.com/r/androiddev/comments/rdyqng/can_a_android_device_connect_to_more_than_one/)
-- [How a bug in Android and Microsoft Teams could have caused this user’s 911 call to fail](https://www.reddit.com/r/androiddev/comments/rdyilr/how_a_bug_in_android_and_microsoft_teams_could/)
-- [Prevent item from getting removed from list &lpar;unless it is really deleted&rpar; in Firebase Realtime Database/Firestore &lpar;wherever it is possible&rpar;?](https://www.reddit.com/r/androiddev/comments/rdxm97/prevent_item_from_getting_removed_from_list/)
+- [Performance of Compose AlertDialog is terrible](https://www.reddit.com/r/androiddev/comments/rf2k3q/performance_of_compose_alertdialog_is_terrible/)
+- [Trying to understand google play Content Policy with respect to nudity](https://www.reddit.com/r/androiddev/comments/rf2i96/trying_to_understand_google_play_content_policy/)
+- [What is the current tooling for android development?](https://www.reddit.com/r/androiddev/comments/rf04uz/what_is_the_current_tooling_for_android/)
+- [Junior question #2](https://www.reddit.com/r/androiddev/comments/rey24c/junior_question_2/)
+- [Does google actually take 30% from in app purchases?](https://www.reddit.com/r/androiddev/comments/rexlt6/does_google_actually_take_30_from_in_app_purchases/)
+- [how it would be possible to receive only a single notification per app per day, instead of 100 notifications from the same app in that same day?](https://www.reddit.com/r/androiddev/comments/rexaay/how_it_would_be_possible_to_receive_only_a_single/)
+- [Any decent OS projects to check out and contribute to?](https://www.reddit.com/r/androiddev/comments/revji8/any_decent_os_projects_to_check_out_and/)
+- [Jake and Leland answered your questions about Jetpack Compose 😱🤣🎄](https://www.reddit.com/r/androiddev/comments/reuwbm/jake_and_leland_answered_your_questions_about/)
+- [Android Biometric API primer](https://www.reddit.com/r/androiddev/comments/repwpm/android_biometric_api_primer/)
+- [Admob Limited but 100% Match Rate](https://www.reddit.com/r/androiddev/comments/repwgh/admob_limited_but_100_match_rate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
