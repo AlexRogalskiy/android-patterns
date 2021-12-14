@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Performance of Compose AlertDialog is terrible](https://www.reddit.com/r/androiddev/comments/rf2k3q/performance_of_compose_alertdialog_is_terrible/)
-- [Trying to understand google play Content Policy with respect to nudity](https://www.reddit.com/r/androiddev/comments/rf2i96/trying_to_understand_google_play_content_policy/)
-- [What is the current tooling for android development?](https://www.reddit.com/r/androiddev/comments/rf04uz/what_is_the_current_tooling_for_android/)
-- [Junior question #2](https://www.reddit.com/r/androiddev/comments/rey24c/junior_question_2/)
-- [Does google actually take 30% from in app purchases?](https://www.reddit.com/r/androiddev/comments/rexlt6/does_google_actually_take_30_from_in_app_purchases/)
-- [how it would be possible to receive only a single notification per app per day, instead of 100 notifications from the same app in that same day?](https://www.reddit.com/r/androiddev/comments/rexaay/how_it_would_be_possible_to_receive_only_a_single/)
-- [Any decent OS projects to check out and contribute to?](https://www.reddit.com/r/androiddev/comments/revji8/any_decent_os_projects_to_check_out_and/)
-- [Jake and Leland answered your questions about Jetpack Compose 😱🤣🎄](https://www.reddit.com/r/androiddev/comments/reuwbm/jake_and_leland_answered_your_questions_about/)
-- [Android Biometric API primer](https://www.reddit.com/r/androiddev/comments/repwpm/android_biometric_api_primer/)
-- [Admob Limited but 100% Match Rate](https://www.reddit.com/r/androiddev/comments/repwgh/admob_limited_but_100_match_rate/)
+- [Those of you who use MoPub for mediation, what are you planing on switching to?](https://www.reddit.com/r/androiddev/comments/rfpxq3/those_of_you_who_use_mopub_for_mediation_what_are/)
+- [Android Studio 2020.3.1 Patch 4 is soo slow](https://www.reddit.com/r/androiddev/comments/rfpr0u/android_studio_202031_patch_4_is_soo_slow/)
+- [Android Networking Tutorial Using Retrofit2](https://www.reddit.com/r/androiddev/comments/rfo98b/android_networking_tutorial_using_retrofit2/)
+- [Trying out Shot - screenshot testing library](https://www.reddit.com/r/androiddev/comments/rfo4tr/trying_out_shot_screenshot_testing_library/)
+- [HOW TO ADD DYNAMIC COLUMNS IN SQLITE ANDROID](https://www.reddit.com/r/androiddev/comments/rfnnbm/how_to_add_dynamic_columns_in_sqlite_android/)
+- [Learning Jetpack Compose together part 2 is live now, see you on chat.](https://www.reddit.com/r/androiddev/comments/rflv11/learning_jetpack_compose_together_part_2_is_live/)
+- [Value Classes in Kotlin: Good-Bye, Type Aliases! 👋](https://www.reddit.com/r/androiddev/comments/rflt16/value_classes_in_kotlin_goodbye_type_aliases/)
+- [Accessibility navigation ignoring Android:nextFocusForward &lpar;and others&rpar;](https://www.reddit.com/r/androiddev/comments/rflr7g/accessibility_navigation_ignoring/)
+- [Determining app prices](https://www.reddit.com/r/androiddev/comments/rfk3lv/determining_app_prices/)
+- [How do you show your app code to recruiters but protact it at the same time?](https://www.reddit.com/r/androiddev/comments/rfjrn4/how_do_you_show_your_app_code_to_recruiters_but/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
