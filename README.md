@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Those of you who use MoPub for mediation, what are you planing on switching to?](https://www.reddit.com/r/androiddev/comments/rfpxq3/those_of_you_who_use_mopub_for_mediation_what_are/)
-- [Android Studio 2020.3.1 Patch 4 is soo slow](https://www.reddit.com/r/androiddev/comments/rfpr0u/android_studio_202031_patch_4_is_soo_slow/)
-- [Android Networking Tutorial Using Retrofit2](https://www.reddit.com/r/androiddev/comments/rfo98b/android_networking_tutorial_using_retrofit2/)
-- [Trying out Shot - screenshot testing library](https://www.reddit.com/r/androiddev/comments/rfo4tr/trying_out_shot_screenshot_testing_library/)
-- [HOW TO ADD DYNAMIC COLUMNS IN SQLITE ANDROID](https://www.reddit.com/r/androiddev/comments/rfnnbm/how_to_add_dynamic_columns_in_sqlite_android/)
-- [Learning Jetpack Compose together part 2 is live now, see you on chat.](https://www.reddit.com/r/androiddev/comments/rflv11/learning_jetpack_compose_together_part_2_is_live/)
-- [Value Classes in Kotlin: Good-Bye, Type Aliases! 👋](https://www.reddit.com/r/androiddev/comments/rflt16/value_classes_in_kotlin_goodbye_type_aliases/)
-- [Accessibility navigation ignoring Android:nextFocusForward &lpar;and others&rpar;](https://www.reddit.com/r/androiddev/comments/rflr7g/accessibility_navigation_ignoring/)
-- [Determining app prices](https://www.reddit.com/r/androiddev/comments/rfk3lv/determining_app_prices/)
-- [How do you show your app code to recruiters but protact it at the same time?](https://www.reddit.com/r/androiddev/comments/rfjrn4/how_do_you_show_your_app_code_to_recruiters_but/)
+- [How do i fix this? Pc won’t detect my phone wile on fastboot mode](https://www.reddit.com/r/androiddev/comments/rgkhx9/how_do_i_fix_this_pc_wont_detect_my_phone_wile_on/)
+- [LineageOS Single tap to wake?](https://www.reddit.com/r/androiddev/comments/rgjtsx/lineageos_single_tap_to_wake/)
+- [What is the best option to create a burger menu: use a fragment or create a new activity and then use &#39;include&#39;?](https://www.reddit.com/r/androiddev/comments/rgjs6c/what_is_the_best_option_to_create_a_burger_menu/)
+- [Aqua Mail celebrates its 10th anniversary](https://www.reddit.com/r/androiddev/comments/rgijom/aqua_mail_celebrates_its_10th_anniversary/)
+- [Observing a Transformed StateFlow in a Composable](https://www.reddit.com/r/androiddev/comments/rghvu3/observing_a_transformed_stateflow_in_a_composable/)
+- [Is it possible to use different number of children in different parents &lpar;groups&rpar; in ExpandAble Recycler view?](https://www.reddit.com/r/androiddev/comments/rggfyz/is_it_possible_to_use_different_number_of/)
+- [How to get max file size limit by path in Android?](https://www.reddit.com/r/androiddev/comments/rgg3zd/how_to_get_max_file_size_limit_by_path_in_android/)
+- [Help a former colleague with an app that is ethically a bad idea?](https://www.reddit.com/r/androiddev/comments/rge6j4/help_a_former_colleague_with_an_app_that_is/)
+- [Do you used Navigation component for production?](https://www.reddit.com/r/androiddev/comments/rge20a/do_you_used_navigation_component_for_production/)
+- [Rebuilding our guide to app architecture](https://www.reddit.com/r/androiddev/comments/rgdamo/rebuilding_our_guide_to_app_architecture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
