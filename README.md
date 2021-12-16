@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do i fix this? Pc won’t detect my phone wile on fastboot mode](https://www.reddit.com/r/androiddev/comments/rgkhx9/how_do_i_fix_this_pc_wont_detect_my_phone_wile_on/)
-- [LineageOS Single tap to wake?](https://www.reddit.com/r/androiddev/comments/rgjtsx/lineageos_single_tap_to_wake/)
-- [What is the best option to create a burger menu: use a fragment or create a new activity and then use &#39;include&#39;?](https://www.reddit.com/r/androiddev/comments/rgjs6c/what_is_the_best_option_to_create_a_burger_menu/)
-- [Aqua Mail celebrates its 10th anniversary](https://www.reddit.com/r/androiddev/comments/rgijom/aqua_mail_celebrates_its_10th_anniversary/)
-- [Observing a Transformed StateFlow in a Composable](https://www.reddit.com/r/androiddev/comments/rghvu3/observing_a_transformed_stateflow_in_a_composable/)
-- [Is it possible to use different number of children in different parents &lpar;groups&rpar; in ExpandAble Recycler view?](https://www.reddit.com/r/androiddev/comments/rggfyz/is_it_possible_to_use_different_number_of/)
-- [How to get max file size limit by path in Android?](https://www.reddit.com/r/androiddev/comments/rgg3zd/how_to_get_max_file_size_limit_by_path_in_android/)
-- [Help a former colleague with an app that is ethically a bad idea?](https://www.reddit.com/r/androiddev/comments/rge6j4/help_a_former_colleague_with_an_app_that_is/)
-- [Do you used Navigation component for production?](https://www.reddit.com/r/androiddev/comments/rge20a/do_you_used_navigation_component_for_production/)
-- [Rebuilding our guide to app architecture](https://www.reddit.com/r/androiddev/comments/rgdamo/rebuilding_our_guide_to_app_architecture/)
+- [Rx to Coroutines Concepts, Part 4: Cold Flows](https://www.reddit.com/r/androiddev/comments/rheo19/rx_to_coroutines_concepts_part_4_cold_flows/)
+- [The hello world text is nearly visible. Anyone know why is that? I tried reinstalling the Android studio and it&#39;s still the same](https://www.reddit.com/r/androiddev/comments/rhcfdp/the_hello_world_text_is_nearly_visible_anyone/)
+- [Help .e redditors](https://www.reddit.com/r/androiddev/comments/rhaoh1/help_e_redditors/)
+- [Jetpack Glance for app widgets](https://www.reddit.com/r/androiddev/comments/rh9m2t/jetpack_glance_for_app_widgets/)
+- [Question about full time location tracking permission.](https://www.reddit.com/r/androiddev/comments/rh9gf0/question_about_full_time_location_tracking/)
+- [What is the reasonable number of supported android devices I should target?](https://www.reddit.com/r/androiddev/comments/rh8k75/what_is_the_reasonable_number_of_supported/)
+- [Missing Bumblebee Beta 5 in Toolbox](https://www.reddit.com/r/androiddev/comments/rh7nr7/missing_bumblebee_beta_5_in_toolbox/)
+- [Google Play Console Keeps showing old version of my app I can&#39;t test the new version internally](https://www.reddit.com/r/androiddev/comments/rh6t6m/google_play_console_keeps_showing_old_version_of/)
+- [Android Studio Chipmunk Canary 6 now available](https://www.reddit.com/r/androiddev/comments/rh5240/android_studio_chipmunk_canary_6_now_available/)
+- [Android Studio Chipmunk Canary 5 now available](https://www.reddit.com/r/androiddev/comments/rh523i/android_studio_chipmunk_canary_5_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
