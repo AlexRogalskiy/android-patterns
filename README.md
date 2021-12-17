@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Rx to Coroutines Concepts, Part 4: Cold Flows](https://www.reddit.com/r/androiddev/comments/rheo19/rx_to_coroutines_concepts_part_4_cold_flows/)
-- [The hello world text is nearly visible. Anyone know why is that? I tried reinstalling the Android studio and it&#39;s still the same](https://www.reddit.com/r/androiddev/comments/rhcfdp/the_hello_world_text_is_nearly_visible_anyone/)
-- [Help .e redditors](https://www.reddit.com/r/androiddev/comments/rhaoh1/help_e_redditors/)
-- [Jetpack Glance for app widgets](https://www.reddit.com/r/androiddev/comments/rh9m2t/jetpack_glance_for_app_widgets/)
-- [Question about full time location tracking permission.](https://www.reddit.com/r/androiddev/comments/rh9gf0/question_about_full_time_location_tracking/)
-- [What is the reasonable number of supported android devices I should target?](https://www.reddit.com/r/androiddev/comments/rh8k75/what_is_the_reasonable_number_of_supported/)
-- [Missing Bumblebee Beta 5 in Toolbox](https://www.reddit.com/r/androiddev/comments/rh7nr7/missing_bumblebee_beta_5_in_toolbox/)
-- [Google Play Console Keeps showing old version of my app I can&#39;t test the new version internally](https://www.reddit.com/r/androiddev/comments/rh6t6m/google_play_console_keeps_showing_old_version_of/)
-- [Android Studio Chipmunk Canary 6 now available](https://www.reddit.com/r/androiddev/comments/rh5240/android_studio_chipmunk_canary_6_now_available/)
-- [Android Studio Chipmunk Canary 5 now available](https://www.reddit.com/r/androiddev/comments/rh523i/android_studio_chipmunk_canary_5_now_available/)
+- [Who qualifies as a level 3 android software engineer?](https://www.reddit.com/r/androiddev/comments/ri3pv8/who_qualifies_as_a_level_3_android_software/)
+- [Multi-Module-Arch-Netflix-Composable](https://www.reddit.com/r/androiddev/comments/ri1tdo/multimodulearchnetflixcomposable/)
+- [Looks like the next version of Android will go back to desserts &lpar;Tiramisu&rpar;](https://www.reddit.com/r/androiddev/comments/ri1flv/looks_like_the_next_version_of_android_will_go/)
+- [Android Developers Backstage – Episode 180: Kotlin Magic Platform](https://www.reddit.com/r/androiddev/comments/rhzl2f/android_developers_backstage_episode_180_kotlin/)
+- [Android Edge to Edge 101](https://www.reddit.com/r/androiddev/comments/rhvm5u/android_edge_to_edge_101/)
+- [Mic mute by pressing headphone pause button.](https://www.reddit.com/r/androiddev/comments/rhuop1/mic_mute_by_pressing_headphone_pause_button/)
+- [Android App having a Instagram upload feature](https://www.reddit.com/r/androiddev/comments/rht315/android_app_having_a_instagram_upload_feature/)
+- [Best way to present pictures in an app?](https://www.reddit.com/r/androiddev/comments/rhrv6r/best_way_to_present_pictures_in_an_app/)
+- [Rebuilding our guide to app architecture](https://www.reddit.com/r/androiddev/comments/rhr2bd/rebuilding_our_guide_to_app_architecture/)
+- [How to connect to steam, Uplay, epic games API?](https://www.reddit.com/r/androiddev/comments/rhptaq/how_to_connect_to_steam_uplay_epic_games_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
