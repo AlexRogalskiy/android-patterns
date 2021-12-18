@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Who qualifies as a level 3 android software engineer?](https://www.reddit.com/r/androiddev/comments/ri3pv8/who_qualifies_as_a_level_3_android_software/)
-- [Multi-Module-Arch-Netflix-Composable](https://www.reddit.com/r/androiddev/comments/ri1tdo/multimodulearchnetflixcomposable/)
-- [Looks like the next version of Android will go back to desserts &lpar;Tiramisu&rpar;](https://www.reddit.com/r/androiddev/comments/ri1flv/looks_like_the_next_version_of_android_will_go/)
-- [Android Developers Backstage – Episode 180: Kotlin Magic Platform](https://www.reddit.com/r/androiddev/comments/rhzl2f/android_developers_backstage_episode_180_kotlin/)
-- [Android Edge to Edge 101](https://www.reddit.com/r/androiddev/comments/rhvm5u/android_edge_to_edge_101/)
-- [Mic mute by pressing headphone pause button.](https://www.reddit.com/r/androiddev/comments/rhuop1/mic_mute_by_pressing_headphone_pause_button/)
-- [Android App having a Instagram upload feature](https://www.reddit.com/r/androiddev/comments/rht315/android_app_having_a_instagram_upload_feature/)
-- [Best way to present pictures in an app?](https://www.reddit.com/r/androiddev/comments/rhrv6r/best_way_to_present_pictures_in_an_app/)
-- [Rebuilding our guide to app architecture](https://www.reddit.com/r/androiddev/comments/rhr2bd/rebuilding_our_guide_to_app_architecture/)
-- [How to connect to steam, Uplay, epic games API?](https://www.reddit.com/r/androiddev/comments/rhptaq/how_to_connect_to_steam_uplay_epic_games_api/)
+- [Moving to a &quot;legacyer&quot; project](https://www.reddit.com/r/androiddev/comments/riotlo/moving_to_a_legacyer_project/)
+- [Tracking apps from ad clicks to in-app events](https://www.reddit.com/r/androiddev/comments/rintl3/tracking_apps_from_ad_clicks_to_inapp_events/)
+- [Remote Debugging without USB, connected via VPN](https://www.reddit.com/r/androiddev/comments/rinoc3/remote_debugging_without_usb_connected_via_vpn/)
+- [Facebook Audience Network problem](https://www.reddit.com/r/androiddev/comments/rikh60/facebook_audience_network_problem/)
+- [Practical Jetpack Compose - available now!](https://www.reddit.com/r/androiddev/comments/rik3q7/practical_jetpack_compose_available_now/)
+- [How do you permanently disable bluetooth tethering on an android phone? Possibly without rooting.](https://www.reddit.com/r/androiddev/comments/rij8tr/how_do_you_permanently_disable_bluetooth/)
+- [Marcel from the Jetpack Glance team joined us to celebrate the release of the first Alpha version! 🎊 Oh, we also coded a bit 🤣](https://www.reddit.com/r/androiddev/comments/rij1ei/marcel_from_the_jetpack_glance_team_joined_us_to/)
+- [Should I be using material2 or material3 with compose right now?](https://www.reddit.com/r/androiddev/comments/rii62v/should_i_be_using_material2_or_material3_with/)
+- [App Feedback Thread - December 17, 2021](https://www.reddit.com/r/androiddev/comments/rii1au/app_feedback_thread_december_17_2021/)
+- [Help: save a portion of google map and add personalized pins](https://www.reddit.com/r/androiddev/comments/riecmy/help_save_a_portion_of_google_map_and_add/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
