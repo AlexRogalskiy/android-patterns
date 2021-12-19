@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Moving to a &quot;legacyer&quot; project](https://www.reddit.com/r/androiddev/comments/riotlo/moving_to_a_legacyer_project/)
-- [Tracking apps from ad clicks to in-app events](https://www.reddit.com/r/androiddev/comments/rintl3/tracking_apps_from_ad_clicks_to_inapp_events/)
-- [Remote Debugging without USB, connected via VPN](https://www.reddit.com/r/androiddev/comments/rinoc3/remote_debugging_without_usb_connected_via_vpn/)
-- [Facebook Audience Network problem](https://www.reddit.com/r/androiddev/comments/rikh60/facebook_audience_network_problem/)
-- [Practical Jetpack Compose - available now!](https://www.reddit.com/r/androiddev/comments/rik3q7/practical_jetpack_compose_available_now/)
-- [How do you permanently disable bluetooth tethering on an android phone? Possibly without rooting.](https://www.reddit.com/r/androiddev/comments/rij8tr/how_do_you_permanently_disable_bluetooth/)
-- [Marcel from the Jetpack Glance team joined us to celebrate the release of the first Alpha version! 🎊 Oh, we also coded a bit 🤣](https://www.reddit.com/r/androiddev/comments/rij1ei/marcel_from_the_jetpack_glance_team_joined_us_to/)
-- [Should I be using material2 or material3 with compose right now?](https://www.reddit.com/r/androiddev/comments/rii62v/should_i_be_using_material2_or_material3_with/)
-- [App Feedback Thread - December 17, 2021](https://www.reddit.com/r/androiddev/comments/rii1au/app_feedback_thread_december_17_2021/)
-- [Help: save a portion of google map and add personalized pins](https://www.reddit.com/r/androiddev/comments/riecmy/help_save_a_portion_of_google_map_and_add/)
+- [ANDROID REVERSE TETHER FFS](https://www.reddit.com/r/androiddev/comments/rjm248/android_reverse_tether_ffs/)
+- [What are some learning resources for Android design-patterns?](https://www.reddit.com/r/androiddev/comments/rjk9mc/what_are_some_learning_resources_for_android/)
+- [Android Information 2021 Images and Photos](https://www.reddit.com/r/androiddev/comments/rjk04x/android_information_2021_images_and_photos/)
+- [I wrote an Article and Demo App for how to use Jetpack Glance Alpha for building a Widget!](https://www.reddit.com/r/androiddev/comments/rji0sx/i_wrote_an_article_and_demo_app_for_how_to_use/)
+- [Marketing an android app](https://www.reddit.com/r/androiddev/comments/rjgn60/marketing_an_android_app/)
+- [USB debugging off, bricked phone](https://www.reddit.com/r/androiddev/comments/rjegbz/usb_debugging_off_bricked_phone/)
+- [How would you memorize large list of Strings](https://www.reddit.com/r/androiddev/comments/rjdhyo/how_would_you_memorize_large_list_of_strings/)
+- [flutter compass](https://www.reddit.com/r/androiddev/comments/rjbmoj/flutter_compass/)
+- [Gmail App Color Palette](https://www.reddit.com/r/androiddev/comments/rjb3ec/gmail_app_color_palette/)
+- [I open-sourced a Minesweeper game made with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/rjagz8/i_opensourced_a_minesweeper_game_made_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
