@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ANDROID REVERSE TETHER FFS](https://www.reddit.com/r/androiddev/comments/rjm248/android_reverse_tether_ffs/)
-- [What are some learning resources for Android design-patterns?](https://www.reddit.com/r/androiddev/comments/rjk9mc/what_are_some_learning_resources_for_android/)
-- [Android Information 2021 Images and Photos](https://www.reddit.com/r/androiddev/comments/rjk04x/android_information_2021_images_and_photos/)
-- [I wrote an Article and Demo App for how to use Jetpack Glance Alpha for building a Widget!](https://www.reddit.com/r/androiddev/comments/rji0sx/i_wrote_an_article_and_demo_app_for_how_to_use/)
-- [Marketing an android app](https://www.reddit.com/r/androiddev/comments/rjgn60/marketing_an_android_app/)
-- [USB debugging off, bricked phone](https://www.reddit.com/r/androiddev/comments/rjegbz/usb_debugging_off_bricked_phone/)
-- [How would you memorize large list of Strings](https://www.reddit.com/r/androiddev/comments/rjdhyo/how_would_you_memorize_large_list_of_strings/)
-- [flutter compass](https://www.reddit.com/r/androiddev/comments/rjbmoj/flutter_compass/)
-- [Gmail App Color Palette](https://www.reddit.com/r/androiddev/comments/rjb3ec/gmail_app_color_palette/)
-- [I open-sourced a Minesweeper game made with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/rjagz8/i_opensourced_a_minesweeper_game_made_with/)
+- [Anyone have experience moving an app with in-app purchases from one Google Play Dev account to another?](https://www.reddit.com/r/androiddev/comments/rk7qjl/anyone_have_experience_moving_an_app_with_inapp/)
+- [Did anyone already use Micrsoft Graph API ;](https://www.reddit.com/r/androiddev/comments/rk5ucw/did_anyone_already_use_micrsoft_graph_api/)
+- [Question regarding store listing data](https://www.reddit.com/r/androiddev/comments/rk5n51/question_regarding_store_listing_data/)
+- [Detect Slow-Down Hack in Game](https://www.reddit.com/r/androiddev/comments/rk3f8z/detect_slowdown_hack_in_game/)
+- [Update avail, again?](https://www.reddit.com/r/androiddev/comments/rk0a1x/update_avail_again/)
+- [How Google Play Policies are only Applicable to indie developers](https://www.reddit.com/r/androiddev/comments/rk0026/how_google_play_policies_are_only_applicable_to/)
+- [I saw a post here about a library that was supposed to be better performing than Shared Prefs and could store small lists? Can someone link it?](https://www.reddit.com/r/androiddev/comments/rjxpuz/i_saw_a_post_here_about_a_library_that_was/)
+- [Is there a way to have a non-nullable LiveData that has SavedState?](https://www.reddit.com/r/androiddev/comments/rjx6h3/is_there_a_way_to_have_a_nonnullable_livedata/)
+- [App updates how do they work](https://www.reddit.com/r/androiddev/comments/rjvpp1/app_updates_how_do_they_work/)
+- [Recycler view in android studio](https://www.reddit.com/r/androiddev/comments/rjvn3f/recycler_view_in_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
