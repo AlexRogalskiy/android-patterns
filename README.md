@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone have experience moving an app with in-app purchases from one Google Play Dev account to another?](https://www.reddit.com/r/androiddev/comments/rk7qjl/anyone_have_experience_moving_an_app_with_inapp/)
-- [Did anyone already use Micrsoft Graph API ;](https://www.reddit.com/r/androiddev/comments/rk5ucw/did_anyone_already_use_micrsoft_graph_api/)
-- [Question regarding store listing data](https://www.reddit.com/r/androiddev/comments/rk5n51/question_regarding_store_listing_data/)
-- [Detect Slow-Down Hack in Game](https://www.reddit.com/r/androiddev/comments/rk3f8z/detect_slowdown_hack_in_game/)
-- [Update avail, again?](https://www.reddit.com/r/androiddev/comments/rk0a1x/update_avail_again/)
-- [How Google Play Policies are only Applicable to indie developers](https://www.reddit.com/r/androiddev/comments/rk0026/how_google_play_policies_are_only_applicable_to/)
-- [I saw a post here about a library that was supposed to be better performing than Shared Prefs and could store small lists? Can someone link it?](https://www.reddit.com/r/androiddev/comments/rjxpuz/i_saw_a_post_here_about_a_library_that_was/)
-- [Is there a way to have a non-nullable LiveData that has SavedState?](https://www.reddit.com/r/androiddev/comments/rjx6h3/is_there_a_way_to_have_a_nonnullable_livedata/)
-- [App updates how do they work](https://www.reddit.com/r/androiddev/comments/rjvpp1/app_updates_how_do_they_work/)
-- [Recycler view in android studio](https://www.reddit.com/r/androiddev/comments/rjvn3f/recycler_view_in_android_studio/)
+- [Adb is working but not fastboot!](https://www.reddit.com/r/androiddev/comments/rl2x76/adb_is_working_but_not_fastboot/)
+- [Facebook Audience Network got issue?](https://www.reddit.com/r/androiddev/comments/rl2h41/facebook_audience_network_got_issue/)
+- [Missing Wireless ADB Android 11](https://www.reddit.com/r/androiddev/comments/rl1iyl/missing_wireless_adb_android_11/)
+- [split string to two string](https://www.reddit.com/r/androiddev/comments/rl109n/split_string_to_two_string/)
+- [Is Google Maps API - Street View free or paid](https://www.reddit.com/r/androiddev/comments/rl0xe6/is_google_maps_api_street_view_free_or_paid/)
+- [Facebook Audience Network Problem](https://www.reddit.com/r/androiddev/comments/rkzddx/facebook_audience_network_problem/)
+- [How much money does reward apps make?](https://www.reddit.com/r/androiddev/comments/rkyh5a/how_much_money_does_reward_apps_make/)
+- [Implementation&lpar;&rpar; not working](https://www.reddit.com/r/androiddev/comments/rkw96g/implementation_not_working/)
+- [Yesterday we had the last episode of the year! ❄️🎄 With Mark, we created a custom #JetpackCompose modifier to add a snow effect to our Composables.](https://www.reddit.com/r/androiddev/comments/rkugz4/yesterday_we_had_the_last_episode_of_the_year/)
+- [What is the best class to manage connectivity continuously in an app?](https://www.reddit.com/r/androiddev/comments/rksw2k/what_is_the_best_class_to_manage_connectivity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
