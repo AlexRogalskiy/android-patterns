@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Adb is working but not fastboot!](https://www.reddit.com/r/androiddev/comments/rl2x76/adb_is_working_but_not_fastboot/)
-- [Facebook Audience Network got issue?](https://www.reddit.com/r/androiddev/comments/rl2h41/facebook_audience_network_got_issue/)
-- [Missing Wireless ADB Android 11](https://www.reddit.com/r/androiddev/comments/rl1iyl/missing_wireless_adb_android_11/)
-- [split string to two string](https://www.reddit.com/r/androiddev/comments/rl109n/split_string_to_two_string/)
-- [Is Google Maps API - Street View free or paid](https://www.reddit.com/r/androiddev/comments/rl0xe6/is_google_maps_api_street_view_free_or_paid/)
-- [Facebook Audience Network Problem](https://www.reddit.com/r/androiddev/comments/rkzddx/facebook_audience_network_problem/)
-- [How much money does reward apps make?](https://www.reddit.com/r/androiddev/comments/rkyh5a/how_much_money_does_reward_apps_make/)
-- [Implementation&lpar;&rpar; not working](https://www.reddit.com/r/androiddev/comments/rkw96g/implementation_not_working/)
-- [Yesterday we had the last episode of the year! ❄️🎄 With Mark, we created a custom #JetpackCompose modifier to add a snow effect to our Composables.](https://www.reddit.com/r/androiddev/comments/rkugz4/yesterday_we_had_the_last_episode_of_the_year/)
-- [What is the best class to manage connectivity continuously in an app?](https://www.reddit.com/r/androiddev/comments/rksw2k/what_is_the_best_class_to_manage_connectivity/)
+- [Any feature not available in IntelliJ but in Android Studio?](https://www.reddit.com/r/androiddev/comments/rlt6av/any_feature_not_available_in_intellij_but_in/)
+- [Android security course](https://www.reddit.com/r/androiddev/comments/rlsl5f/android_security_course/)
+- [How do you add an int value to a pre existing int value in SharedPreferences instead of overwriting it with the new value?](https://www.reddit.com/r/androiddev/comments/rlrxy6/how_do_you_add_an_int_value_to_a_pre_existing_int/)
+- [Is there any tricky way to know if the user playing a video on the YouTube app](https://www.reddit.com/r/androiddev/comments/rlq0xv/is_there_any_tricky_way_to_know_if_the_user/)
+- [How to use an image as camera input in android emulator?](https://www.reddit.com/r/androiddev/comments/rlla2f/how_to_use_an_image_as_camera_input_in_android/)
+- [Amazon Fire TV?](https://www.reddit.com/r/androiddev/comments/rli7xc/amazon_fire_tv/)
+- [FireBase Analytics with three environments](https://www.reddit.com/r/androiddev/comments/rlfp3v/firebase_analytics_with_three_environments/)
+- [Weekly Questions Thread - December 21, 2021](https://www.reddit.com/r/androiddev/comments/rlf9uk/weekly_questions_thread_december_21_2021/)
+- [Beginner’s Guide to Google Play Store Keywords Research &amp; Optimization &lpar;ASO&rpar;](https://www.reddit.com/r/androiddev/comments/rled7g/beginners_guide_to_google_play_store_keywords/)
+- [Common security issues when configuring HTTPs connections in Android](https://www.reddit.com/r/androiddev/comments/rleai1/common_security_issues_when_configuring_https/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
