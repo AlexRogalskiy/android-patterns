@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any feature not available in IntelliJ but in Android Studio?](https://www.reddit.com/r/androiddev/comments/rlt6av/any_feature_not_available_in_intellij_but_in/)
-- [Android security course](https://www.reddit.com/r/androiddev/comments/rlsl5f/android_security_course/)
-- [How do you add an int value to a pre existing int value in SharedPreferences instead of overwriting it with the new value?](https://www.reddit.com/r/androiddev/comments/rlrxy6/how_do_you_add_an_int_value_to_a_pre_existing_int/)
-- [Is there any tricky way to know if the user playing a video on the YouTube app](https://www.reddit.com/r/androiddev/comments/rlq0xv/is_there_any_tricky_way_to_know_if_the_user/)
-- [How to use an image as camera input in android emulator?](https://www.reddit.com/r/androiddev/comments/rlla2f/how_to_use_an_image_as_camera_input_in_android/)
-- [Amazon Fire TV?](https://www.reddit.com/r/androiddev/comments/rli7xc/amazon_fire_tv/)
-- [FireBase Analytics with three environments](https://www.reddit.com/r/androiddev/comments/rlfp3v/firebase_analytics_with_three_environments/)
-- [Weekly Questions Thread - December 21, 2021](https://www.reddit.com/r/androiddev/comments/rlf9uk/weekly_questions_thread_december_21_2021/)
-- [Beginner’s Guide to Google Play Store Keywords Research &amp; Optimization &lpar;ASO&rpar;](https://www.reddit.com/r/androiddev/comments/rled7g/beginners_guide_to_google_play_store_keywords/)
-- [Common security issues when configuring HTTPs connections in Android](https://www.reddit.com/r/androiddev/comments/rleai1/common_security_issues_when_configuring_https/)
+- [How to protect android app against VPN apps?](https://www.reddit.com/r/androiddev/comments/rmkieb/how_to_protect_android_app_against_vpn_apps/)
+- [How do you guys design UI?](https://www.reddit.com/r/androiddev/comments/rminwp/how_do_you_guys_design_ui/)
+- [how to handle switch button in navigation drawer](https://www.reddit.com/r/androiddev/comments/rmid2a/how_to_handle_switch_button_in_navigation_drawer/)
+- [How come VLC is allowed to use MANAGE_EXTERNAL_STORAGE permission?](https://www.reddit.com/r/androiddev/comments/rmgdis/how_come_vlc_is_allowed_to_use_manage_external/)
+- [Allowance Tracker: A Super Simple Android App](https://www.reddit.com/r/androiddev/comments/rmfmei/allowance_tracker_a_super_simple_android_app/)
+- [How can i stop my widget from opening my app](https://www.reddit.com/r/androiddev/comments/rmf2cb/how_can_i_stop_my_widget_from_opening_my_app/)
+- [Nested screen navigation in Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/rmd2kv/nested_screen_navigation_in_jetpack_compose/)
+- [Which version to launch on](https://www.reddit.com/r/androiddev/comments/rmbk4a/which_version_to_launch_on/)
+- [Create an open release.](https://www.reddit.com/r/androiddev/comments/rm7zmk/create_an_open_release/)
+- [Notifications Division](https://www.reddit.com/r/androiddev/comments/rm7cq0/notifications_division/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
