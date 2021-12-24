@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to protect android app against VPN apps?](https://www.reddit.com/r/androiddev/comments/rmkieb/how_to_protect_android_app_against_vpn_apps/)
-- [How do you guys design UI?](https://www.reddit.com/r/androiddev/comments/rminwp/how_do_you_guys_design_ui/)
-- [how to handle switch button in navigation drawer](https://www.reddit.com/r/androiddev/comments/rmid2a/how_to_handle_switch_button_in_navigation_drawer/)
-- [How come VLC is allowed to use MANAGE_EXTERNAL_STORAGE permission?](https://www.reddit.com/r/androiddev/comments/rmgdis/how_come_vlc_is_allowed_to_use_manage_external/)
-- [Allowance Tracker: A Super Simple Android App](https://www.reddit.com/r/androiddev/comments/rmfmei/allowance_tracker_a_super_simple_android_app/)
-- [How can i stop my widget from opening my app](https://www.reddit.com/r/androiddev/comments/rmf2cb/how_can_i_stop_my_widget_from_opening_my_app/)
-- [Nested screen navigation in Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/rmd2kv/nested_screen_navigation_in_jetpack_compose/)
-- [Which version to launch on](https://www.reddit.com/r/androiddev/comments/rmbk4a/which_version_to_launch_on/)
-- [Create an open release.](https://www.reddit.com/r/androiddev/comments/rm7zmk/create_an_open_release/)
-- [Notifications Division](https://www.reddit.com/r/androiddev/comments/rm7cq0/notifications_division/)
+- [Did you consider or are you considering the integration of Huawei Mobile Services ?](https://www.reddit.com/r/androiddev/comments/rn7jw1/did_you_consider_or_are_you_considering_the/)
+- [How to create this collapsing toolbar?](https://www.reddit.com/r/androiddev/comments/rn4135/how_to_create_this_collapsing_toolbar/)
+- [RTSP stream parse exception with Exoplayer](https://www.reddit.com/r/androiddev/comments/rn2ywo/rtsp_stream_parse_exception_with_exoplayer/)
+- [Looking to diagnose a potentially broken SD card slot](https://www.reddit.com/r/androiddev/comments/rn2chl/looking_to_diagnose_a_potentially_broken_sd_card/)
+- [Resources for android development](https://www.reddit.com/r/androiddev/comments/rmzz0i/resources_for_android_development/)
+- [Do Ad impressions pay on google Admob?](https://www.reddit.com/r/androiddev/comments/rmyd73/do_ad_impressions_pay_on_google_admob/)
+- [Microsoft Rolled Out Latest Staple of Surface Products](https://www.reddit.com/r/androiddev/comments/rmy6h6/microsoft_rolled_out_latest_staple_of_surface/)
+- [Microsoft Windows 11 Update Includes Older Intel CPUs in Compatibility List](https://www.reddit.com/r/androiddev/comments/rmy516/microsoft_windows_11_update_includes_older_intel/)
+- [Android app bundle vs apk. How to get APK after cordova 10 release.](https://www.reddit.com/r/androiddev/comments/rmxsy3/android_app_bundle_vs_apk_how_to_get_apk_after/)
+- [Compose rememberScoped: Scoping objects to a Composable&#39; lifecycle](https://www.reddit.com/r/androiddev/comments/rmwq1p/compose_rememberscoped_scoping_objects_to_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
