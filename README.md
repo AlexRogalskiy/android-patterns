@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Did you consider or are you considering the integration of Huawei Mobile Services ?](https://www.reddit.com/r/androiddev/comments/rn7jw1/did_you_consider_or_are_you_considering_the/)
-- [How to create this collapsing toolbar?](https://www.reddit.com/r/androiddev/comments/rn4135/how_to_create_this_collapsing_toolbar/)
-- [RTSP stream parse exception with Exoplayer](https://www.reddit.com/r/androiddev/comments/rn2ywo/rtsp_stream_parse_exception_with_exoplayer/)
-- [Looking to diagnose a potentially broken SD card slot](https://www.reddit.com/r/androiddev/comments/rn2chl/looking_to_diagnose_a_potentially_broken_sd_card/)
-- [Resources for android development](https://www.reddit.com/r/androiddev/comments/rmzz0i/resources_for_android_development/)
-- [Do Ad impressions pay on google Admob?](https://www.reddit.com/r/androiddev/comments/rmyd73/do_ad_impressions_pay_on_google_admob/)
-- [Microsoft Rolled Out Latest Staple of Surface Products](https://www.reddit.com/r/androiddev/comments/rmy6h6/microsoft_rolled_out_latest_staple_of_surface/)
-- [Microsoft Windows 11 Update Includes Older Intel CPUs in Compatibility List](https://www.reddit.com/r/androiddev/comments/rmy516/microsoft_windows_11_update_includes_older_intel/)
-- [Android app bundle vs apk. How to get APK after cordova 10 release.](https://www.reddit.com/r/androiddev/comments/rmxsy3/android_app_bundle_vs_apk_how_to_get_apk_after/)
-- [Compose rememberScoped: Scoping objects to a Composable&#39; lifecycle](https://www.reddit.com/r/androiddev/comments/rmwq1p/compose_rememberscoped_scoping_objects_to_a/)
+- [Few questions regarding android settings](https://www.reddit.com/r/androiddev/comments/rnvg87/few_questions_regarding_android_settings/)
+- [The common red-flag in all Android hiring scams:](https://www.reddit.com/r/androiddev/comments/rnuwcw/the_common_redflag_in_all_android_hiring_scams/)
+- [How much did you pay in Ads before your app took off organically !](https://www.reddit.com/r/androiddev/comments/rns9jg/how_much_did_you_pay_in_ads_before_your_app_took/)
+- [Making a game with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/rnqc8r/making_a_game_with_jetpack_compose/)
+- [Applovin SDK 10.3.5 is showing integration error in debugger](https://www.reddit.com/r/androiddev/comments/rnodff/applovin_sdk_1035_is_showing_integration_error_in/)
+- [My first blog post on medium : Android Themes vs Styles For Absolute Beginners](https://www.reddit.com/r/androiddev/comments/rno3fq/my_first_blog_post_on_medium_android_themes_vs/)
+- [Difference between &quot;Active Devices&quot; number and &quot;Installs/Uninstalls&quot; equation](https://www.reddit.com/r/androiddev/comments/rnnpmm/difference_between_active_devices_number_and/)
+- [App Feedback Thread - December 24, 2021](https://www.reddit.com/r/androiddev/comments/rnmwih/app_feedback_thread_december_24_2021/)
+- [Which is the proper way to manage state in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/rnlham/which_is_the_proper_way_to_manage_state_in/)
+- [Has anyone had this AS keymap problem?](https://www.reddit.com/r/androiddev/comments/rnklcs/has_anyone_had_this_as_keymap_problem/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
