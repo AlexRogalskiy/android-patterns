@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Few questions regarding android settings](https://www.reddit.com/r/androiddev/comments/rnvg87/few_questions_regarding_android_settings/)
-- [The common red-flag in all Android hiring scams:](https://www.reddit.com/r/androiddev/comments/rnuwcw/the_common_redflag_in_all_android_hiring_scams/)
-- [How much did you pay in Ads before your app took off organically !](https://www.reddit.com/r/androiddev/comments/rns9jg/how_much_did_you_pay_in_ads_before_your_app_took/)
-- [Making a game with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/rnqc8r/making_a_game_with_jetpack_compose/)
-- [Applovin SDK 10.3.5 is showing integration error in debugger](https://www.reddit.com/r/androiddev/comments/rnodff/applovin_sdk_1035_is_showing_integration_error_in/)
-- [My first blog post on medium : Android Themes vs Styles For Absolute Beginners](https://www.reddit.com/r/androiddev/comments/rno3fq/my_first_blog_post_on_medium_android_themes_vs/)
-- [Difference between &quot;Active Devices&quot; number and &quot;Installs/Uninstalls&quot; equation](https://www.reddit.com/r/androiddev/comments/rnnpmm/difference_between_active_devices_number_and/)
-- [App Feedback Thread - December 24, 2021](https://www.reddit.com/r/androiddev/comments/rnmwih/app_feedback_thread_december_24_2021/)
-- [Which is the proper way to manage state in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/rnlham/which_is_the_proper_way_to_manage_state_in/)
-- [Has anyone had this AS keymap problem?](https://www.reddit.com/r/androiddev/comments/rnklcs/has_anyone_had_this_as_keymap_problem/)
+- [Why does putExtra have many combination of ways to write it?](https://www.reddit.com/r/androiddev/comments/rogxm7/why_does_putextra_have_many_combination_of_ways/)
+- [Is it good practice to call ViewModel methods from the observer while implementing mvvm?](https://www.reddit.com/r/androiddev/comments/rog6ca/is_it_good_practice_to_call_viewmodel_methods/)
+- [Transfer app to another dev account QUESTIONS](https://www.reddit.com/r/androiddev/comments/roe7vk/transfer_app_to_another_dev_account_questions/)
+- [GitHub - DevsOnFlutter/flutter_shortcuts: Flutter plugin for creating static &amp; dynamic app shortcuts on the home screen.](https://www.reddit.com/r/androiddev/comments/rob7lv/github_devsonflutterflutter_shortcuts_flutter/)
+- [Why do people confuses async await with multithreading and how does it work in different language?](https://www.reddit.com/r/androiddev/comments/roa2uf/why_do_people_confuses_async_await_with/)
+- [looking to get back into android development. haven&#39;t done much the last few years](https://www.reddit.com/r/androiddev/comments/ro7qts/looking_to_get_back_into_android_development/)
+- [Keyboard layouts](https://www.reddit.com/r/androiddev/comments/ro63i9/keyboard_layouts/)
+- [How to get data from multiple activities to main activity in android java?](https://www.reddit.com/r/androiddev/comments/ro4nym/how_to_get_data_from_multiple_activities_to_main/)
+- [Feedback on my Junior Android Interview](https://www.reddit.com/r/androiddev/comments/ro3zzf/feedback_on_my_junior_android_interview/)
+- [ugh am i missing something how do i make edges in designing tap and android emulator smooth ???](https://www.reddit.com/r/androiddev/comments/ro2v4z/ugh_am_i_missing_something_how_do_i_make_edges_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
