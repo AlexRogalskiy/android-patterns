@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why does putExtra have many combination of ways to write it?](https://www.reddit.com/r/androiddev/comments/rogxm7/why_does_putextra_have_many_combination_of_ways/)
-- [Is it good practice to call ViewModel methods from the observer while implementing mvvm?](https://www.reddit.com/r/androiddev/comments/rog6ca/is_it_good_practice_to_call_viewmodel_methods/)
-- [Transfer app to another dev account QUESTIONS](https://www.reddit.com/r/androiddev/comments/roe7vk/transfer_app_to_another_dev_account_questions/)
-- [GitHub - DevsOnFlutter/flutter_shortcuts: Flutter plugin for creating static &amp; dynamic app shortcuts on the home screen.](https://www.reddit.com/r/androiddev/comments/rob7lv/github_devsonflutterflutter_shortcuts_flutter/)
-- [Why do people confuses async await with multithreading and how does it work in different language?](https://www.reddit.com/r/androiddev/comments/roa2uf/why_do_people_confuses_async_await_with/)
-- [looking to get back into android development. haven&#39;t done much the last few years](https://www.reddit.com/r/androiddev/comments/ro7qts/looking_to_get_back_into_android_development/)
-- [Keyboard layouts](https://www.reddit.com/r/androiddev/comments/ro63i9/keyboard_layouts/)
-- [How to get data from multiple activities to main activity in android java?](https://www.reddit.com/r/androiddev/comments/ro4nym/how_to_get_data_from_multiple_activities_to_main/)
-- [Feedback on my Junior Android Interview](https://www.reddit.com/r/androiddev/comments/ro3zzf/feedback_on_my_junior_android_interview/)
-- [ugh am i missing something how do i make edges in designing tap and android emulator smooth ???](https://www.reddit.com/r/androiddev/comments/ro2v4z/ugh_am_i_missing_something_how_do_i_make_edges_in/)
+- [New dev device Uk](https://www.reddit.com/r/androiddev/comments/rpb82a/new_dev_device_uk/)
+- [Transition of an Eclipse android developer to AndroidStudio](https://www.reddit.com/r/androiddev/comments/rpaifq/transition_of_an_eclipse_android_developer_to/)
+- [Need rec remove twitch video ads in app tasker](https://www.reddit.com/r/androiddev/comments/rp8aco/need_rec_remove_twitch_video_ads_in_app_tasker/)
+- [Can I download an app on a Digital Frame?](https://www.reddit.com/r/androiddev/comments/rp6el2/can_i_download_an_app_on_a_digital_frame/)
+- [Custom back navigation with Navigation component](https://www.reddit.com/r/androiddev/comments/rp4zj7/custom_back_navigation_with_navigation_component/)
+- [Whats the right way to implement this old business logic in MVVM?](https://www.reddit.com/r/androiddev/comments/rp2jc1/whats_the_right_way_to_implement_this_old/)
+- [Medium article for Multi Module arch](https://www.reddit.com/r/androiddev/comments/rp27jd/medium_article_for_multi_module_arch/)
+- [Effective Plan for Development](https://www.reddit.com/r/androiddev/comments/rp01f6/effective_plan_for_development/)
+- [Searched a lot but didn&#39;t find anything about sharing ExoPlayer between min screen fragment and full screen fragment](https://www.reddit.com/r/androiddev/comments/rozz89/searched_a_lot_but_didnt_find_anything_about/)
+- [Best resources for clean architecture and mvvm.](https://www.reddit.com/r/androiddev/comments/row86e/best_resources_for_clean_architecture_and_mvvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
