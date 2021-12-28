@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New dev device Uk](https://www.reddit.com/r/androiddev/comments/rpb82a/new_dev_device_uk/)
-- [Transition of an Eclipse android developer to AndroidStudio](https://www.reddit.com/r/androiddev/comments/rpaifq/transition_of_an_eclipse_android_developer_to/)
-- [Need rec remove twitch video ads in app tasker](https://www.reddit.com/r/androiddev/comments/rp8aco/need_rec_remove_twitch_video_ads_in_app_tasker/)
-- [Can I download an app on a Digital Frame?](https://www.reddit.com/r/androiddev/comments/rp6el2/can_i_download_an_app_on_a_digital_frame/)
-- [Custom back navigation with Navigation component](https://www.reddit.com/r/androiddev/comments/rp4zj7/custom_back_navigation_with_navigation_component/)
-- [Whats the right way to implement this old business logic in MVVM?](https://www.reddit.com/r/androiddev/comments/rp2jc1/whats_the_right_way_to_implement_this_old/)
-- [Medium article for Multi Module arch](https://www.reddit.com/r/androiddev/comments/rp27jd/medium_article_for_multi_module_arch/)
-- [Effective Plan for Development](https://www.reddit.com/r/androiddev/comments/rp01f6/effective_plan_for_development/)
-- [Searched a lot but didn&#39;t find anything about sharing ExoPlayer between min screen fragment and full screen fragment](https://www.reddit.com/r/androiddev/comments/rozz89/searched_a_lot_but_didnt_find_anything_about/)
-- [Best resources for clean architecture and mvvm.](https://www.reddit.com/r/androiddev/comments/row86e/best_resources_for_clean_architecture_and_mvvm/)
+- [Dear Developers, how do you feel about using Jetpack Compose and Xml at the same time&lpar;Hybrid&rpar;?](https://www.reddit.com/r/androiddev/comments/rpyy32/dear_developers_how_do_you_feel_about_using/)
+- [Country restriction on Google Play](https://www.reddit.com/r/androiddev/comments/rpyri4/country_restriction_on_google_play/)
+- [How do I get an apk build number?](https://www.reddit.com/r/androiddev/comments/rpxqna/how_do_i_get_an_apk_build_number/)
+- [MVVM and one shot operations](https://www.reddit.com/r/androiddev/comments/rpxmzp/mvvm_and_one_shot_operations/)
+- [How to get started with mobile app development for Android?](https://www.reddit.com/r/androiddev/comments/rpuz9y/how_to_get_started_with_mobile_app_development/)
+- [My app shows &quot;similar apps&quot; that are not related to my app category](https://www.reddit.com/r/androiddev/comments/rpuw2z/my_app_shows_similar_apps_that_are_not_related_to/)
+- [Have a LiveData problem and not sure how to tackle it](https://www.reddit.com/r/androiddev/comments/rps6uj/have_a_livedata_problem_and_not_sure_how_to/)
+- [How to display SVG from api?](https://www.reddit.com/r/androiddev/comments/rprzvu/how_to_display_svg_from_api/)
+- [Anybody handling navigation in compose from ViewModel?](https://www.reddit.com/r/androiddev/comments/rprahp/anybody_handling_navigation_in_compose_from/)
+- [Onboarding a new Android Dev](https://www.reddit.com/r/androiddev/comments/rpqu1z/onboarding_a_new_android_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
