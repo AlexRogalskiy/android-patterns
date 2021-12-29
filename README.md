@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dear Developers, how do you feel about using Jetpack Compose and Xml at the same time&lpar;Hybrid&rpar;?](https://www.reddit.com/r/androiddev/comments/rpyy32/dear_developers_how_do_you_feel_about_using/)
-- [Country restriction on Google Play](https://www.reddit.com/r/androiddev/comments/rpyri4/country_restriction_on_google_play/)
-- [How do I get an apk build number?](https://www.reddit.com/r/androiddev/comments/rpxqna/how_do_i_get_an_apk_build_number/)
-- [MVVM and one shot operations](https://www.reddit.com/r/androiddev/comments/rpxmzp/mvvm_and_one_shot_operations/)
-- [How to get started with mobile app development for Android?](https://www.reddit.com/r/androiddev/comments/rpuz9y/how_to_get_started_with_mobile_app_development/)
-- [My app shows &quot;similar apps&quot; that are not related to my app category](https://www.reddit.com/r/androiddev/comments/rpuw2z/my_app_shows_similar_apps_that_are_not_related_to/)
-- [Have a LiveData problem and not sure how to tackle it](https://www.reddit.com/r/androiddev/comments/rps6uj/have_a_livedata_problem_and_not_sure_how_to/)
-- [How to display SVG from api?](https://www.reddit.com/r/androiddev/comments/rprzvu/how_to_display_svg_from_api/)
-- [Anybody handling navigation in compose from ViewModel?](https://www.reddit.com/r/androiddev/comments/rprahp/anybody_handling_navigation_in_compose_from/)
-- [Onboarding a new Android Dev](https://www.reddit.com/r/androiddev/comments/rpqu1z/onboarding_a_new_android_dev/)
+- [Applying the null safety operator automatically when typing in Android Studio](https://www.reddit.com/r/androiddev/comments/rqpp8t/applying_the_null_safety_operator_automatically/)
+- [Google Play Rejection &lpar;Because of App screenshots?&rpar;](https://www.reddit.com/r/androiddev/comments/rqlldn/google_play_rejection_because_of_app_screenshots/)
+- [App Only Works In Split Screen Mode](https://www.reddit.com/r/androiddev/comments/rqlgbb/app_only_works_in_split_screen_mode/)
+- [Clarification on RecyclerView viewholder](https://www.reddit.com/r/androiddev/comments/rqkt4k/clarification_on_recyclerview_viewholder/)
+- [Android Room notNull property](https://www.reddit.com/r/androiddev/comments/rqkt2t/android_room_notnull_property/)
+- [How to avoid getting terminated on Google Play?](https://www.reddit.com/r/androiddev/comments/rqjg8q/how_to_avoid_getting_terminated_on_google_play/)
+- [I&#39;d like to create an app based on a pdf, some kind of bestiary. Totally noob, what would you suggest me ?](https://www.reddit.com/r/androiddev/comments/rqj2y2/id_like_to_create_an_app_based_on_a_pdf_some_kind/)
+- [Ever stuck in a constraint where you cannot use Retrofit but have to make network calls in Android?](https://www.reddit.com/r/androiddev/comments/rqikoe/ever_stuck_in_a_constraint_where_you_cannot_use/)
+- [As a followup to my last post about linking your Firebase project to BigQuery, I wrote about how to setup automatic exports of your data from BigQuery to Google Cloud Storage](https://www.reddit.com/r/androiddev/comments/rqhpij/as_a_followup_to_my_last_post_about_linking_your/)
+- [Weekly Questions Thread - December 28, 2021](https://www.reddit.com/r/androiddev/comments/rqgi6u/weekly_questions_thread_december_28_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
