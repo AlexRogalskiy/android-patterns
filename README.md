@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Applying the null safety operator automatically when typing in Android Studio](https://www.reddit.com/r/androiddev/comments/rqpp8t/applying_the_null_safety_operator_automatically/)
-- [Google Play Rejection &lpar;Because of App screenshots?&rpar;](https://www.reddit.com/r/androiddev/comments/rqlldn/google_play_rejection_because_of_app_screenshots/)
-- [App Only Works In Split Screen Mode](https://www.reddit.com/r/androiddev/comments/rqlgbb/app_only_works_in_split_screen_mode/)
-- [Clarification on RecyclerView viewholder](https://www.reddit.com/r/androiddev/comments/rqkt4k/clarification_on_recyclerview_viewholder/)
-- [Android Room notNull property](https://www.reddit.com/r/androiddev/comments/rqkt2t/android_room_notnull_property/)
-- [How to avoid getting terminated on Google Play?](https://www.reddit.com/r/androiddev/comments/rqjg8q/how_to_avoid_getting_terminated_on_google_play/)
-- [I&#39;d like to create an app based on a pdf, some kind of bestiary. Totally noob, what would you suggest me ?](https://www.reddit.com/r/androiddev/comments/rqj2y2/id_like_to_create_an_app_based_on_a_pdf_some_kind/)
-- [Ever stuck in a constraint where you cannot use Retrofit but have to make network calls in Android?](https://www.reddit.com/r/androiddev/comments/rqikoe/ever_stuck_in_a_constraint_where_you_cannot_use/)
-- [As a followup to my last post about linking your Firebase project to BigQuery, I wrote about how to setup automatic exports of your data from BigQuery to Google Cloud Storage](https://www.reddit.com/r/androiddev/comments/rqhpij/as_a_followup_to_my_last_post_about_linking_your/)
-- [Weekly Questions Thread - December 28, 2021](https://www.reddit.com/r/androiddev/comments/rqgi6u/weekly_questions_thread_december_28_2021/)
+- [Is it practical to migrate an app from Eclipse to Android Studio without relocating files?](https://www.reddit.com/r/androiddev/comments/rrn645/is_it_practical_to_migrate_an_app_from_eclipse_to/)
+- [Just wanted to share how the constant changes has made life tough for Android Course Tutors](https://www.reddit.com/r/androiddev/comments/rrh5ut/just_wanted_to_share_how_the_constant_changes_has/)
+- [Stable Android Dev in &lpar;intelliJ/Android Studio &rpar; on an Apple M1 chip?](https://www.reddit.com/r/androiddev/comments/rrh1n6/stable_android_dev_in_intellijandroid_studio_on/)
+- [40+ html5 games check link](https://www.reddit.com/r/androiddev/comments/rrgeem/40_html5_games_check_link/)
+- [Android Dev Scammer PSA](https://www.reddit.com/r/androiddev/comments/rre1ku/android_dev_scammer_psa/)
+- [Tip: Try using the x86_64 emulator images and not the default x86](https://www.reddit.com/r/androiddev/comments/rrdhrq/tip_try_using_the_x86_64_emulator_images_and_not/)
+- [Anime streaming app DOUBT!!](https://www.reddit.com/r/androiddev/comments/rrd4lx/anime_streaming_app_doubt/)
+- [Still looking for a direct answer about &quot;donations&quot; in my app](https://www.reddit.com/r/androiddev/comments/rrcywc/still_looking_for_a_direct_answer_about_donations/)
+- [A card game made with Compose](https://www.reddit.com/r/androiddev/comments/rrcqb7/a_card_game_made_with_compose/)
+- [I am stack at creating tv side menu, please help](https://www.reddit.com/r/androiddev/comments/rrat5n/i_am_stack_at_creating_tv_side_menu_please_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
