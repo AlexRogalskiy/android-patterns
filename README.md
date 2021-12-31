@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it practical to migrate an app from Eclipse to Android Studio without relocating files?](https://www.reddit.com/r/androiddev/comments/rrn645/is_it_practical_to_migrate_an_app_from_eclipse_to/)
-- [Just wanted to share how the constant changes has made life tough for Android Course Tutors](https://www.reddit.com/r/androiddev/comments/rrh5ut/just_wanted_to_share_how_the_constant_changes_has/)
-- [Stable Android Dev in &lpar;intelliJ/Android Studio &rpar; on an Apple M1 chip?](https://www.reddit.com/r/androiddev/comments/rrh1n6/stable_android_dev_in_intellijandroid_studio_on/)
-- [40+ html5 games check link](https://www.reddit.com/r/androiddev/comments/rrgeem/40_html5_games_check_link/)
-- [Android Dev Scammer PSA](https://www.reddit.com/r/androiddev/comments/rre1ku/android_dev_scammer_psa/)
-- [Tip: Try using the x86_64 emulator images and not the default x86](https://www.reddit.com/r/androiddev/comments/rrdhrq/tip_try_using_the_x86_64_emulator_images_and_not/)
-- [Anime streaming app DOUBT!!](https://www.reddit.com/r/androiddev/comments/rrd4lx/anime_streaming_app_doubt/)
-- [Still looking for a direct answer about &quot;donations&quot; in my app](https://www.reddit.com/r/androiddev/comments/rrcywc/still_looking_for_a_direct_answer_about_donations/)
-- [A card game made with Compose](https://www.reddit.com/r/androiddev/comments/rrcqb7/a_card_game_made_with_compose/)
-- [I am stack at creating tv side menu, please help](https://www.reddit.com/r/androiddev/comments/rrat5n/i_am_stack_at_creating_tv_side_menu_please_help/)
+- [Material Design - Tabs and Bottom Navigation](https://www.reddit.com/r/androiddev/comments/rsicoq/material_design_tabs_and_bottom_navigation/)
+- [What to use for app monetisation?](https://www.reddit.com/r/androiddev/comments/rshxbt/what_to_use_for_app_monetisation/)
+- [Sharing experience with Play store release stages](https://www.reddit.com/r/androiddev/comments/rsdmmd/sharing_experience_with_play_store_release_stages/)
+- [Java android dev: How to make elements with code?](https://www.reddit.com/r/androiddev/comments/rscen1/java_android_dev_how_to_make_elements_with_code/)
+- [Learning Resources](https://www.reddit.com/r/androiddev/comments/rsacld/learning_resources/)
+- [I want to make app that has active communities/chats/users only in a specified radius or area, these communities/users cannot be accessed outside the radius or area. You got to pay to open an community, for example open community inside a mall that lets people inside the mall interact, see offers](https://www.reddit.com/r/androiddev/comments/rs7wwb/i_want_to_make_app_that_has_active/)
+- [How do you decide the backend for your personal project ? Do you go with firebase or AWS or something else ?](https://www.reddit.com/r/androiddev/comments/rs6o1o/how_do_you_decide_the_backend_for_your_personal/)
+- [Do you focus on UI/UX for the apps you are making ? If so , how did you learn ? Which software do you use ? Or do you just follow material design guidelines ?](https://www.reddit.com/r/androiddev/comments/rs6my9/do_you_focus_on_uiux_for_the_apps_you_are_making/)
+- [SplashScreen Compat: consistent splash screens](https://www.reddit.com/r/androiddev/comments/rs5649/splashscreen_compat_consistent_splash_screens/)
+- [Google Chrome&#39;s broken graphics on Android 12 emulator](https://www.reddit.com/r/androiddev/comments/rs48oy/google_chromes_broken_graphics_on_android_12/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
