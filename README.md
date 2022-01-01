@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Material Design - Tabs and Bottom Navigation](https://www.reddit.com/r/androiddev/comments/rsicoq/material_design_tabs_and_bottom_navigation/)
-- [What to use for app monetisation?](https://www.reddit.com/r/androiddev/comments/rshxbt/what_to_use_for_app_monetisation/)
-- [Sharing experience with Play store release stages](https://www.reddit.com/r/androiddev/comments/rsdmmd/sharing_experience_with_play_store_release_stages/)
-- [Java android dev: How to make elements with code?](https://www.reddit.com/r/androiddev/comments/rscen1/java_android_dev_how_to_make_elements_with_code/)
-- [Learning Resources](https://www.reddit.com/r/androiddev/comments/rsacld/learning_resources/)
-- [I want to make app that has active communities/chats/users only in a specified radius or area, these communities/users cannot be accessed outside the radius or area. You got to pay to open an community, for example open community inside a mall that lets people inside the mall interact, see offers](https://www.reddit.com/r/androiddev/comments/rs7wwb/i_want_to_make_app_that_has_active/)
-- [How do you decide the backend for your personal project ? Do you go with firebase or AWS or something else ?](https://www.reddit.com/r/androiddev/comments/rs6o1o/how_do_you_decide_the_backend_for_your_personal/)
-- [Do you focus on UI/UX for the apps you are making ? If so , how did you learn ? Which software do you use ? Or do you just follow material design guidelines ?](https://www.reddit.com/r/androiddev/comments/rs6my9/do_you_focus_on_uiux_for_the_apps_you_are_making/)
-- [SplashScreen Compat: consistent splash screens](https://www.reddit.com/r/androiddev/comments/rs5649/splashscreen_compat_consistent_splash_screens/)
-- [Google Chrome&#39;s broken graphics on Android 12 emulator](https://www.reddit.com/r/androiddev/comments/rs48oy/google_chromes_broken_graphics_on_android_12/)
+- [Injecting CoroutineDispatcher instance using Koin](https://www.reddit.com/r/androiddev/comments/rt8ns3/injecting_coroutinedispatcher_instance_using_koin/)
+- [Other than the Surface View, is there anything Android View can do but can&#39;t be achieved by Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/rt7snu/other_than_the_surface_view_is_there_anything/)
+- [5 Uses of KTX LiveData Coroutine Builder](https://www.reddit.com/r/androiddev/comments/rt7d54/5_uses_of_ktx_livedata_coroutine_builder/)
+- [Need Someone to help me in Small project](https://www.reddit.com/r/androiddev/comments/rt4v2g/need_someone_to_help_me_in_small_project/)
+- [Motionlayout corrupted animation when using ExoPlayer](https://www.reddit.com/r/androiddev/comments/rt1j3i/motionlayout_corrupted_animation_when_using/)
+- [In-app purchases, pending state - how to handle for the client?](https://www.reddit.com/r/androiddev/comments/rt0qtz/inapp_purchases_pending_state_how_to_handle_for/)
+- [Do you also have this problem?](https://www.reddit.com/r/androiddev/comments/rsxg1x/do_you_also_have_this_problem/)
+- [App Feedback Thread - December 31, 2021](https://www.reddit.com/r/androiddev/comments/rsui2p/app_feedback_thread_december_31_2021/)
+- [How to hide the secret keys from reverse enginnering in order to decrypt a file that was encrypted in PHP?](https://www.reddit.com/r/androiddev/comments/rss4mv/how_to_hide_the_secret_keys_from_reverse/)
+- [U&#39;ll help the next Mark Zuckerberg in making by clearing this doubt , May u pls !!!](https://www.reddit.com/r/androiddev/comments/rss2j0/ull_help_the_next_mark_zuckerberg_in_making_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
