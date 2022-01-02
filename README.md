@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Injecting CoroutineDispatcher instance using Koin](https://www.reddit.com/r/androiddev/comments/rt8ns3/injecting_coroutinedispatcher_instance_using_koin/)
-- [Other than the Surface View, is there anything Android View can do but can&#39;t be achieved by Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/rt7snu/other_than_the_surface_view_is_there_anything/)
-- [5 Uses of KTX LiveData Coroutine Builder](https://www.reddit.com/r/androiddev/comments/rt7d54/5_uses_of_ktx_livedata_coroutine_builder/)
-- [Need Someone to help me in Small project](https://www.reddit.com/r/androiddev/comments/rt4v2g/need_someone_to_help_me_in_small_project/)
-- [Motionlayout corrupted animation when using ExoPlayer](https://www.reddit.com/r/androiddev/comments/rt1j3i/motionlayout_corrupted_animation_when_using/)
-- [In-app purchases, pending state - how to handle for the client?](https://www.reddit.com/r/androiddev/comments/rt0qtz/inapp_purchases_pending_state_how_to_handle_for/)
-- [Do you also have this problem?](https://www.reddit.com/r/androiddev/comments/rsxg1x/do_you_also_have_this_problem/)
-- [App Feedback Thread - December 31, 2021](https://www.reddit.com/r/androiddev/comments/rsui2p/app_feedback_thread_december_31_2021/)
-- [How to hide the secret keys from reverse enginnering in order to decrypt a file that was encrypted in PHP?](https://www.reddit.com/r/androiddev/comments/rss4mv/how_to_hide_the_secret_keys_from_reverse/)
-- [U&#39;ll help the next Mark Zuckerberg in making by clearing this doubt , May u pls !!!](https://www.reddit.com/r/androiddev/comments/rss2j0/ull_help_the_next_mark_zuckerberg_in_making_by/)
+- [How much money have you made from your self-made android apps?](https://www.reddit.com/r/androiddev/comments/rtynxz/how_much_money_have_you_made_from_your_selfmade/)
+- [WebRTC / VOIP / SIP what to choose for android app](https://www.reddit.com/r/androiddev/comments/rtxikj/webrtc_voip_sip_what_to_choose_for_android_app/)
+- [Official support for clean architecture?](https://www.reddit.com/r/androiddev/comments/rtuw9l/official_support_for_clean_architecture/)
+- [Is fragmentation still an issue?](https://www.reddit.com/r/androiddev/comments/rtulvy/is_fragmentation_still_an_issue/)
+- [I need help on this question](https://www.reddit.com/r/androiddev/comments/rttr4u/i_need_help_on_this_question/)
+- [Unit test coverage, how much?](https://www.reddit.com/r/androiddev/comments/rtsomy/unit_test_coverage_how_much/)
+- [Emulate an ISO 14443-3A RFID Chip?](https://www.reddit.com/r/androiddev/comments/rtqquq/emulate_an_iso_144433a_rfid_chip/)
+- [What is the salary for Android development in your city?](https://www.reddit.com/r/androiddev/comments/rtnhqu/what_is_the_salary_for_android_development_in/)
+- [Casting to smart TV app for own use](https://www.reddit.com/r/androiddev/comments/rtln6c/casting_to_smart_tv_app_for_own_use/)
+- [I have created an API to get rid of ContentProviders when using the Contacts API](https://www.reddit.com/r/androiddev/comments/rtl8ec/i_have_created_an_api_to_get_rid_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
