@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How much money have you made from your self-made android apps?](https://www.reddit.com/r/androiddev/comments/rtynxz/how_much_money_have_you_made_from_your_selfmade/)
-- [WebRTC / VOIP / SIP what to choose for android app](https://www.reddit.com/r/androiddev/comments/rtxikj/webrtc_voip_sip_what_to_choose_for_android_app/)
-- [Official support for clean architecture?](https://www.reddit.com/r/androiddev/comments/rtuw9l/official_support_for_clean_architecture/)
-- [Is fragmentation still an issue?](https://www.reddit.com/r/androiddev/comments/rtulvy/is_fragmentation_still_an_issue/)
-- [I need help on this question](https://www.reddit.com/r/androiddev/comments/rttr4u/i_need_help_on_this_question/)
-- [Unit test coverage, how much?](https://www.reddit.com/r/androiddev/comments/rtsomy/unit_test_coverage_how_much/)
-- [Emulate an ISO 14443-3A RFID Chip?](https://www.reddit.com/r/androiddev/comments/rtqquq/emulate_an_iso_144433a_rfid_chip/)
-- [What is the salary for Android development in your city?](https://www.reddit.com/r/androiddev/comments/rtnhqu/what_is_the_salary_for_android_development_in/)
-- [Casting to smart TV app for own use](https://www.reddit.com/r/androiddev/comments/rtln6c/casting_to_smart_tv_app_for_own_use/)
-- [I have created an API to get rid of ContentProviders when using the Contacts API](https://www.reddit.com/r/androiddev/comments/rtl8ec/i_have_created_an_api_to_get_rid_of/)
+- [How do I avoid users cancelling 7 days FREE trial monthly subscription for my App and then keep resubscribing again for another FREE trial?](https://www.reddit.com/r/androiddev/comments/rup403/how_do_i_avoid_users_cancelling_7_days_free_trial/)
+- [How do you monetize your Android apps?](https://www.reddit.com/r/androiddev/comments/rulqs9/how_do_you_monetize_your_android_apps/)
+- [Difficulties contributing to AOSP](https://www.reddit.com/r/androiddev/comments/ruj2fc/difficulties_contributing_to_aosp/)
+- [Receive/Send push notifications without using a background app?](https://www.reddit.com/r/androiddev/comments/ruirvz/receivesend_push_notifications_without_using_a/)
+- [Publishing multi-module Android libraries with Jitpack is so simple. Why not to use it?](https://www.reddit.com/r/androiddev/comments/ruilaw/publishing_multimodule_android_libraries_with/)
+- [What is the most difficult type of Android app to develop?](https://www.reddit.com/r/androiddev/comments/rui8fn/what_is_the_most_difficult_type_of_android_app_to/)
+- [blogger are can join us](https://www.reddit.com/r/androiddev/comments/ruhzhm/blogger_are_can_join_us/)
+- [Where to do time-consuming first launch setup?](https://www.reddit.com/r/androiddev/comments/ruhjkp/where_to_do_timeconsuming_first_launch_setup/)
+- [What&#39;s the best way to let the UI send data to the view model?](https://www.reddit.com/r/androiddev/comments/ruhfec/whats_the_best_way_to_let_the_ui_send_data_to_the/)
+- [Should I just learn Jetpack Compose rather than XML ?](https://www.reddit.com/r/androiddev/comments/rueqcy/should_i_just_learn_jetpack_compose_rather_than/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
