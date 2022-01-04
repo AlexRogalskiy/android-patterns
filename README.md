@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I avoid users cancelling 7 days FREE trial monthly subscription for my App and then keep resubscribing again for another FREE trial?](https://www.reddit.com/r/androiddev/comments/rup403/how_do_i_avoid_users_cancelling_7_days_free_trial/)
-- [How do you monetize your Android apps?](https://www.reddit.com/r/androiddev/comments/rulqs9/how_do_you_monetize_your_android_apps/)
-- [Difficulties contributing to AOSP](https://www.reddit.com/r/androiddev/comments/ruj2fc/difficulties_contributing_to_aosp/)
-- [Receive/Send push notifications without using a background app?](https://www.reddit.com/r/androiddev/comments/ruirvz/receivesend_push_notifications_without_using_a/)
-- [Publishing multi-module Android libraries with Jitpack is so simple. Why not to use it?](https://www.reddit.com/r/androiddev/comments/ruilaw/publishing_multimodule_android_libraries_with/)
-- [What is the most difficult type of Android app to develop?](https://www.reddit.com/r/androiddev/comments/rui8fn/what_is_the_most_difficult_type_of_android_app_to/)
-- [blogger are can join us](https://www.reddit.com/r/androiddev/comments/ruhzhm/blogger_are_can_join_us/)
-- [Where to do time-consuming first launch setup?](https://www.reddit.com/r/androiddev/comments/ruhjkp/where_to_do_timeconsuming_first_launch_setup/)
-- [What&#39;s the best way to let the UI send data to the view model?](https://www.reddit.com/r/androiddev/comments/ruhfec/whats_the_best_way_to_let_the_ui_send_data_to_the/)
-- [Should I just learn Jetpack Compose rather than XML ?](https://www.reddit.com/r/androiddev/comments/rueqcy/should_i_just_learn_jetpack_compose_rather_than/)
+- [How to combine SavedStateHandler and LiveData Coroutine Builder?](https://www.reddit.com/r/androiddev/comments/rvdttj/how_to_combine_savedstatehandler_and_livedata/)
+- [How to test removing video without Play Store Experiments option? 🤔](https://www.reddit.com/r/androiddev/comments/rvd62r/how_to_test_removing_video_without_play_store/)
+- [Wheezing in wired headphones due Android built-in emulator](https://www.reddit.com/r/androiddev/comments/rvbkc5/wheezing_in_wired_headphones_due_android_builtin/)
+- [User to user payments with native payment?](https://www.reddit.com/r/androiddev/comments/rvbijv/user_to_user_payments_with_native_payment/)
+- [Need app ideas that can make me a billion dollars ?](https://www.reddit.com/r/androiddev/comments/rvb7ch/need_app_ideas_that_can_make_me_a_billion_dollars/)
+- [Data Safety - WebView](https://www.reddit.com/r/androiddev/comments/rvaphz/data_safety_webview/)
+- [Pay per install for paid apps?](https://www.reddit.com/r/androiddev/comments/rv8thx/pay_per_install_for_paid_apps/)
+- [Project Suggestion for anyone wanting to develop it](https://www.reddit.com/r/androiddev/comments/rv7lzj/project_suggestion_for_anyone_wanting_to_develop/)
+- [How to Name an App, Company &lpar;The Essential Guide&rpar;](https://www.reddit.com/r/androiddev/comments/rv7dmh/how_to_name_an_app_company_the_essential_guide/)
+- [Is there any website to sell my source code for one person only not for multiple as the Envato website does?](https://www.reddit.com/r/androiddev/comments/rv70vy/is_there_any_website_to_sell_my_source_code_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
