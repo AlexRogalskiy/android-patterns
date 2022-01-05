@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to combine SavedStateHandler and LiveData Coroutine Builder?](https://www.reddit.com/r/androiddev/comments/rvdttj/how_to_combine_savedstatehandler_and_livedata/)
-- [How to test removing video without Play Store Experiments option? 🤔](https://www.reddit.com/r/androiddev/comments/rvd62r/how_to_test_removing_video_without_play_store/)
-- [Wheezing in wired headphones due Android built-in emulator](https://www.reddit.com/r/androiddev/comments/rvbkc5/wheezing_in_wired_headphones_due_android_builtin/)
-- [User to user payments with native payment?](https://www.reddit.com/r/androiddev/comments/rvbijv/user_to_user_payments_with_native_payment/)
-- [Need app ideas that can make me a billion dollars ?](https://www.reddit.com/r/androiddev/comments/rvb7ch/need_app_ideas_that_can_make_me_a_billion_dollars/)
-- [Data Safety - WebView](https://www.reddit.com/r/androiddev/comments/rvaphz/data_safety_webview/)
-- [Pay per install for paid apps?](https://www.reddit.com/r/androiddev/comments/rv8thx/pay_per_install_for_paid_apps/)
-- [Project Suggestion for anyone wanting to develop it](https://www.reddit.com/r/androiddev/comments/rv7lzj/project_suggestion_for_anyone_wanting_to_develop/)
-- [How to Name an App, Company &lpar;The Essential Guide&rpar;](https://www.reddit.com/r/androiddev/comments/rv7dmh/how_to_name_an_app_company_the_essential_guide/)
-- [Is there any website to sell my source code for one person only not for multiple as the Envato website does?](https://www.reddit.com/r/androiddev/comments/rv70vy/is_there_any_website_to_sell_my_source_code_for/)
+- [Is it good practice for a Jetpack ViewModel to implement an interface?](https://www.reddit.com/r/androiddev/comments/rw643f/is_it_good_practice_for_a_jetpack_viewmodel_to/)
+- [Is January bad for ad monetisation?](https://www.reddit.com/r/androiddev/comments/rw54g8/is_january_bad_for_ad_monetisation/)
+- [Which enterprise really needs native Mobile app?](https://www.reddit.com/r/androiddev/comments/rw4dxv/which_enterprise_really_needs_native_mobile_app/)
+- [Examples of Jetapck Functions Utilizing Java Logic.](https://www.reddit.com/r/androiddev/comments/rw2yz1/examples_of_jetapck_functions_utilizing_java_logic/)
+- [Why most of top apps on Google Play have short description?](https://www.reddit.com/r/androiddev/comments/rw1yid/why_most_of_top_apps_on_google_play_have_short/)
+- [Multiplatform Presentation Model &lpar;aka ViewModel&rpar; with convenient navigation. Navigate between PresentationModels instead of switching views &lpar;or composables&rpar;.](https://www.reddit.com/r/androiddev/comments/rw1eph/multiplatform_presentation_model_aka_viewmodel/)
+- [Android Studio Bumblebee RC 1 available](https://www.reddit.com/r/androiddev/comments/rw0fdr/android_studio_bumblebee_rc_1_available/)
+- [How do I get an .apk file to install on my workspace?](https://www.reddit.com/r/androiddev/comments/rvz12f/how_do_i_get_an_apk_file_to_install_on_my/)
+- [How to make a layout similar Google Keep/Twitter images layout?](https://www.reddit.com/r/androiddev/comments/rvy9c5/how_to_make_a_layout_similar_google_keeptwitter/)
+- [Releasing app to Google play](https://www.reddit.com/r/androiddev/comments/rvxn0q/releasing_app_to_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
