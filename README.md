@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it good practice for a Jetpack ViewModel to implement an interface?](https://www.reddit.com/r/androiddev/comments/rw643f/is_it_good_practice_for_a_jetpack_viewmodel_to/)
-- [Is January bad for ad monetisation?](https://www.reddit.com/r/androiddev/comments/rw54g8/is_january_bad_for_ad_monetisation/)
-- [Which enterprise really needs native Mobile app?](https://www.reddit.com/r/androiddev/comments/rw4dxv/which_enterprise_really_needs_native_mobile_app/)
-- [Examples of Jetapck Functions Utilizing Java Logic.](https://www.reddit.com/r/androiddev/comments/rw2yz1/examples_of_jetapck_functions_utilizing_java_logic/)
-- [Why most of top apps on Google Play have short description?](https://www.reddit.com/r/androiddev/comments/rw1yid/why_most_of_top_apps_on_google_play_have_short/)
-- [Multiplatform Presentation Model &lpar;aka ViewModel&rpar; with convenient navigation. Navigate between PresentationModels instead of switching views &lpar;or composables&rpar;.](https://www.reddit.com/r/androiddev/comments/rw1eph/multiplatform_presentation_model_aka_viewmodel/)
-- [Android Studio Bumblebee RC 1 available](https://www.reddit.com/r/androiddev/comments/rw0fdr/android_studio_bumblebee_rc_1_available/)
-- [How do I get an .apk file to install on my workspace?](https://www.reddit.com/r/androiddev/comments/rvz12f/how_do_i_get_an_apk_file_to_install_on_my/)
-- [How to make a layout similar Google Keep/Twitter images layout?](https://www.reddit.com/r/androiddev/comments/rvy9c5/how_to_make_a_layout_similar_google_keeptwitter/)
-- [Releasing app to Google play](https://www.reddit.com/r/androiddev/comments/rvxn0q/releasing_app_to_google_play/)
+- [I am starting my internship as an android developer in 10 days and the manager at the company said to write 3 goals that I want to achieve in 9 months that I&#39;ll work there. As I&#39;m a newbie I have no clue - what are some realistic goals that I can achieve in these months until middle of October?](https://www.reddit.com/r/androiddev/comments/rwx3co/i_am_starting_my_internship_as_an_android/)
+- [Play Game Services &lpar;Cloud Save&rpar; VS Auto Backup](https://www.reddit.com/r/androiddev/comments/rwv5wn/play_game_services_cloud_save_vs_auto_backup/)
+- [Help with tcl c728 android tv](https://www.reddit.com/r/androiddev/comments/rwv1hj/help_with_tcl_c728_android_tv/)
+- [Vertical Recyclerview focus going to sides when trying to fast scroll by remote control](https://www.reddit.com/r/androiddev/comments/rwt0gj/vertical_recyclerview_focus_going_to_sides_when/)
+- [Android Commbank app icon is different on family members Android phone? Same app version number?](https://www.reddit.com/r/androiddev/comments/rwrydt/android_commbank_app_icon_is_different_on_family/)
+- [Unit test multiple LiveData values in a ViewModel init block](https://www.reddit.com/r/androiddev/comments/rwo24s/unit_test_multiple_livedata_values_in_a_viewmodel/)
+- [What are typical tasks in an android dev Job?](https://www.reddit.com/r/androiddev/comments/rwnt73/what_are_typical_tasks_in_an_android_dev_job/)
+- [Loading images in the splash screen](https://www.reddit.com/r/androiddev/comments/rwnpnu/loading_images_in_the_splash_screen/)
+- [Appwrite 0.12 - A major milestone for the open source Firebase Alternative](https://www.reddit.com/r/androiddev/comments/rwn00i/appwrite_012_a_major_milestone_for_the_open/)
+- [Seller.json Confidential or transparent?](https://www.reddit.com/r/androiddev/comments/rwm92f/sellerjson_confidential_or_transparent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
