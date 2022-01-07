@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I am starting my internship as an android developer in 10 days and the manager at the company said to write 3 goals that I want to achieve in 9 months that I&#39;ll work there. As I&#39;m a newbie I have no clue - what are some realistic goals that I can achieve in these months until middle of October?](https://www.reddit.com/r/androiddev/comments/rwx3co/i_am_starting_my_internship_as_an_android/)
-- [Play Game Services &lpar;Cloud Save&rpar; VS Auto Backup](https://www.reddit.com/r/androiddev/comments/rwv5wn/play_game_services_cloud_save_vs_auto_backup/)
-- [Help with tcl c728 android tv](https://www.reddit.com/r/androiddev/comments/rwv1hj/help_with_tcl_c728_android_tv/)
-- [Vertical Recyclerview focus going to sides when trying to fast scroll by remote control](https://www.reddit.com/r/androiddev/comments/rwt0gj/vertical_recyclerview_focus_going_to_sides_when/)
-- [Android Commbank app icon is different on family members Android phone? Same app version number?](https://www.reddit.com/r/androiddev/comments/rwrydt/android_commbank_app_icon_is_different_on_family/)
-- [Unit test multiple LiveData values in a ViewModel init block](https://www.reddit.com/r/androiddev/comments/rwo24s/unit_test_multiple_livedata_values_in_a_viewmodel/)
-- [What are typical tasks in an android dev Job?](https://www.reddit.com/r/androiddev/comments/rwnt73/what_are_typical_tasks_in_an_android_dev_job/)
-- [Loading images in the splash screen](https://www.reddit.com/r/androiddev/comments/rwnpnu/loading_images_in_the_splash_screen/)
-- [Appwrite 0.12 - A major milestone for the open source Firebase Alternative](https://www.reddit.com/r/androiddev/comments/rwn00i/appwrite_012_a_major_milestone_for_the_open/)
-- [Seller.json Confidential or transparent?](https://www.reddit.com/r/androiddev/comments/rwm92f/sellerjson_confidential_or_transparent/)
+- [Trademark infringement only in one country](https://www.reddit.com/r/androiddev/comments/rxuwhd/trademark_infringement_only_in_one_country/)
+- [How to change the way MotionLayout animates view visibility?](https://www.reddit.com/r/androiddev/comments/rxrqb7/how_to_change_the_way_motionlayout_animates_view/)
+- [App got rejected by Google. Should I try again?](https://www.reddit.com/r/androiddev/comments/rxrhqz/app_got_rejected_by_google_should_i_try_again/)
+- [Has this happened to you?](https://www.reddit.com/r/androiddev/comments/rxr61s/has_this_happened_to_you/)
+- [Would it be very difficult to create an app as a final degree project, without having much idea about Android in general?](https://www.reddit.com/r/androiddev/comments/rxo0aw/would_it_be_very_difficult_to_create_an_app_as_a/)
+- [Master &amp; Edit pages implementation advice](https://www.reddit.com/r/androiddev/comments/rxmmzw/master_edit_pages_implementation_advice/)
+- [What is the thing you most struggle with when using Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/rxmb0z/what_is_the_thing_you_most_struggle_with_when/)
+- [New to android dev, need help.](https://www.reddit.com/r/androiddev/comments/rxm1aa/new_to_android_dev_need_help/)
+- [Advice on making a to-do list / reminder app](https://www.reddit.com/r/androiddev/comments/rxlo6g/advice_on_making_a_todo_list_reminder_app/)
+- [1 Multilingual app vs separate app per language: does it affect how easily people discover your app in the play store?](https://www.reddit.com/r/androiddev/comments/rxk4h6/1_multilingual_app_vs_separate_app_per_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
