@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trademark infringement only in one country](https://www.reddit.com/r/androiddev/comments/rxuwhd/trademark_infringement_only_in_one_country/)
-- [How to change the way MotionLayout animates view visibility?](https://www.reddit.com/r/androiddev/comments/rxrqb7/how_to_change_the_way_motionlayout_animates_view/)
-- [App got rejected by Google. Should I try again?](https://www.reddit.com/r/androiddev/comments/rxrhqz/app_got_rejected_by_google_should_i_try_again/)
-- [Has this happened to you?](https://www.reddit.com/r/androiddev/comments/rxr61s/has_this_happened_to_you/)
-- [Would it be very difficult to create an app as a final degree project, without having much idea about Android in general?](https://www.reddit.com/r/androiddev/comments/rxo0aw/would_it_be_very_difficult_to_create_an_app_as_a/)
-- [Master &amp; Edit pages implementation advice](https://www.reddit.com/r/androiddev/comments/rxmmzw/master_edit_pages_implementation_advice/)
-- [What is the thing you most struggle with when using Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/rxmb0z/what_is_the_thing_you_most_struggle_with_when/)
-- [New to android dev, need help.](https://www.reddit.com/r/androiddev/comments/rxm1aa/new_to_android_dev_need_help/)
-- [Advice on making a to-do list / reminder app](https://www.reddit.com/r/androiddev/comments/rxlo6g/advice_on_making_a_todo_list_reminder_app/)
-- [1 Multilingual app vs separate app per language: does it affect how easily people discover your app in the play store?](https://www.reddit.com/r/androiddev/comments/rxk4h6/1_multilingual_app_vs_separate_app_per_language/)
+- [How to handle state between list-&gt;add screens and back navigation](https://www.reddit.com/r/androiddev/comments/ryo01i/how_to_handle_state_between_listadd_screens_and/)
+- [Internal storage is encrypted in Android API level 29](https://www.reddit.com/r/androiddev/comments/ryngkd/internal_storage_is_encrypted_in_android_api/)
+- [Wired AA suddenly not playing audio, still have visual/GPS](https://www.reddit.com/r/androiddev/comments/ryjjeg/wired_aa_suddenly_not_playing_audio_still_have/)
+- [Wired AA suddenly not playing audio, still have visual/GPS](https://www.reddit.com/r/androiddev/comments/ryjj90/wired_aa_suddenly_not_playing_audio_still_have/)
+- [443 PORT on ANDROID founded OPEN!](https://www.reddit.com/r/androiddev/comments/ryi0l0/443_port_on_android_founded_open/)
+- [Where are the boot/shutdown logs?](https://www.reddit.com/r/androiddev/comments/ryhaiz/where_are_the_bootshutdown_logs/)
+- [An alternative to Firebase to store user data?](https://www.reddit.com/r/androiddev/comments/ryeu8r/an_alternative_to_firebase_to_store_user_data/)
+- [What are the chances an app of some kind could be made to control volume in Nest / Google home speakers?](https://www.reddit.com/r/androiddev/comments/rycrha/what_are_the_chances_an_app_of_some_kind_could_be/)
+- [What are the most common used &lpar;3rd party&rpar; libraries and frameworks used in Android development?](https://www.reddit.com/r/androiddev/comments/ryboka/what_are_the_most_common_used_3rd_party_libraries/)
+- [Android dev has become impossible as a hobby](https://www.reddit.com/r/androiddev/comments/rybndr/android_dev_has_become_impossible_as_a_hobby/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
