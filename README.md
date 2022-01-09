@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to handle state between list-&gt;add screens and back navigation](https://www.reddit.com/r/androiddev/comments/ryo01i/how_to_handle_state_between_listadd_screens_and/)
-- [Internal storage is encrypted in Android API level 29](https://www.reddit.com/r/androiddev/comments/ryngkd/internal_storage_is_encrypted_in_android_api/)
-- [Wired AA suddenly not playing audio, still have visual/GPS](https://www.reddit.com/r/androiddev/comments/ryjjeg/wired_aa_suddenly_not_playing_audio_still_have/)
-- [Wired AA suddenly not playing audio, still have visual/GPS](https://www.reddit.com/r/androiddev/comments/ryjj90/wired_aa_suddenly_not_playing_audio_still_have/)
-- [443 PORT on ANDROID founded OPEN!](https://www.reddit.com/r/androiddev/comments/ryi0l0/443_port_on_android_founded_open/)
-- [Where are the boot/shutdown logs?](https://www.reddit.com/r/androiddev/comments/ryhaiz/where_are_the_bootshutdown_logs/)
-- [An alternative to Firebase to store user data?](https://www.reddit.com/r/androiddev/comments/ryeu8r/an_alternative_to_firebase_to_store_user_data/)
-- [What are the chances an app of some kind could be made to control volume in Nest / Google home speakers?](https://www.reddit.com/r/androiddev/comments/rycrha/what_are_the_chances_an_app_of_some_kind_could_be/)
-- [What are the most common used &lpar;3rd party&rpar; libraries and frameworks used in Android development?](https://www.reddit.com/r/androiddev/comments/ryboka/what_are_the_most_common_used_3rd_party_libraries/)
-- [Android dev has become impossible as a hobby](https://www.reddit.com/r/androiddev/comments/rybndr/android_dev_has_become_impossible_as_a_hobby/)
+- [Google Play taking apps down for Metadata links](https://www.reddit.com/r/androiddev/comments/rzfllh/google_play_taking_apps_down_for_metadata_links/)
+- [How do I become an employable Android Dev again?](https://www.reddit.com/r/androiddev/comments/rzdkap/how_do_i_become_an_employable_android_dev_again/)
+- [How do you Opt-In to certain functions? [Koin]](https://www.reddit.com/r/androiddev/comments/rzcxg8/how_do_you_optin_to_certain_functions_koin/)
+- [Why am I always getting null in Retrofit in Android?](https://www.reddit.com/r/androiddev/comments/rzbfft/why_am_i_always_getting_null_in_retrofit_in/)
+- [ARCore Question](https://www.reddit.com/r/androiddev/comments/rzb4ne/arcore_question/)
+- [Low end alternative for Android Studio &lpar;Flutter&rpar;](https://www.reddit.com/r/androiddev/comments/rz84kc/low_end_alternative_for_android_studio_flutter/)
+- [Replacing the standard android Camera with an image file?](https://www.reddit.com/r/androiddev/comments/rz4m86/replacing_the_standard_android_camera_with_an/)
+- [What according to you are the most complex concepts in android ?](https://www.reddit.com/r/androiddev/comments/rz3f4l/what_according_to_you_are_the_most_complex/)
+- [Android studio emulator skin with M Pro](https://www.reddit.com/r/androiddev/comments/rz3bt1/android_studio_emulator_skin_with_m_pro/)
+- [I dedicated 3 years to building this Android Contacts API library written in Kotlin with Java interop. I want to share it with the Reddit community for the first time.](https://www.reddit.com/r/androiddev/comments/rz370s/i_dedicated_3_years_to_building_this_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
