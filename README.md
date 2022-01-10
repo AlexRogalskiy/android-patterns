@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play taking apps down for Metadata links](https://www.reddit.com/r/androiddev/comments/rzfllh/google_play_taking_apps_down_for_metadata_links/)
-- [How do I become an employable Android Dev again?](https://www.reddit.com/r/androiddev/comments/rzdkap/how_do_i_become_an_employable_android_dev_again/)
-- [How do you Opt-In to certain functions? [Koin]](https://www.reddit.com/r/androiddev/comments/rzcxg8/how_do_you_optin_to_certain_functions_koin/)
-- [Why am I always getting null in Retrofit in Android?](https://www.reddit.com/r/androiddev/comments/rzbfft/why_am_i_always_getting_null_in_retrofit_in/)
-- [ARCore Question](https://www.reddit.com/r/androiddev/comments/rzb4ne/arcore_question/)
-- [Low end alternative for Android Studio &lpar;Flutter&rpar;](https://www.reddit.com/r/androiddev/comments/rz84kc/low_end_alternative_for_android_studio_flutter/)
-- [Replacing the standard android Camera with an image file?](https://www.reddit.com/r/androiddev/comments/rz4m86/replacing_the_standard_android_camera_with_an/)
-- [What according to you are the most complex concepts in android ?](https://www.reddit.com/r/androiddev/comments/rz3f4l/what_according_to_you_are_the_most_complex/)
-- [Android studio emulator skin with M Pro](https://www.reddit.com/r/androiddev/comments/rz3bt1/android_studio_emulator_skin_with_m_pro/)
-- [I dedicated 3 years to building this Android Contacts API library written in Kotlin with Java interop. I want to share it with the Reddit community for the first time.](https://www.reddit.com/r/androiddev/comments/rz370s/i_dedicated_3_years_to_building_this_android/)
+- [Gallery renaming app &lpar;for chronological order when moving photos on PC&rpar;](https://www.reddit.com/r/androiddev/comments/s06lv6/gallery_renaming_app_for_chronological_order_when/)
+- [I am confused with focus management please can you explain me how it works my recyclerview always lost focus,](https://www.reddit.com/r/androiddev/comments/s02o5e/i_am_confused_with_focus_management_please_can/)
+- [Best android phone for app development](https://www.reddit.com/r/androiddev/comments/s019dm/best_android_phone_for_app_development/)
+- [Wearos Tiles with xml?](https://www.reddit.com/r/androiddev/comments/s00gvi/wearos_tiles_with_xml/)
+- [Interview advice](https://www.reddit.com/r/androiddev/comments/rzw1ff/interview_advice/)
+- [Best resource to learn about architecture and planning?](https://www.reddit.com/r/androiddev/comments/rztyf1/best_resource_to_learn_about_architecture_and/)
+- [Help making a simple button chaser app/game](https://www.reddit.com/r/androiddev/comments/rzt3qi/help_making_a_simple_button_chaser_appgame/)
+- [Compose Destinations: simple and type-safe navigation in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/rzsw78/compose_destinations_simple_and_typesafe/)
+- [How to create a simple checklist app](https://www.reddit.com/r/androiddev/comments/rzsj0o/how_to_create_a_simple_checklist_app/)
+- [Best way of converting iOS app to Android?](https://www.reddit.com/r/androiddev/comments/rzs0d0/best_way_of_converting_ios_app_to_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
