@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gallery renaming app &lpar;for chronological order when moving photos on PC&rpar;](https://www.reddit.com/r/androiddev/comments/s06lv6/gallery_renaming_app_for_chronological_order_when/)
-- [I am confused with focus management please can you explain me how it works my recyclerview always lost focus,](https://www.reddit.com/r/androiddev/comments/s02o5e/i_am_confused_with_focus_management_please_can/)
-- [Best android phone for app development](https://www.reddit.com/r/androiddev/comments/s019dm/best_android_phone_for_app_development/)
-- [Wearos Tiles with xml?](https://www.reddit.com/r/androiddev/comments/s00gvi/wearos_tiles_with_xml/)
-- [Interview advice](https://www.reddit.com/r/androiddev/comments/rzw1ff/interview_advice/)
-- [Best resource to learn about architecture and planning?](https://www.reddit.com/r/androiddev/comments/rztyf1/best_resource_to_learn_about_architecture_and/)
-- [Help making a simple button chaser app/game](https://www.reddit.com/r/androiddev/comments/rzt3qi/help_making_a_simple_button_chaser_appgame/)
-- [Compose Destinations: simple and type-safe navigation in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/rzsw78/compose_destinations_simple_and_typesafe/)
-- [How to create a simple checklist app](https://www.reddit.com/r/androiddev/comments/rzsj0o/how_to_create_a_simple_checklist_app/)
-- [Best way of converting iOS app to Android?](https://www.reddit.com/r/androiddev/comments/rzs0d0/best_way_of_converting_ios_app_to_android/)
+- [What do you think about my brother&#39;s Android app?](https://www.reddit.com/r/androiddev/comments/s10bi1/what_do_you_think_about_my_brothers_android_app/)
+- [What is a good testing strategy?](https://www.reddit.com/r/androiddev/comments/s0ykh8/what_is_a_good_testing_strategy/)
+- [Sceneform Pros I need your help! &lpar;java&rpar;](https://www.reddit.com/r/androiddev/comments/s0wfaa/sceneform_pros_i_need_your_help_java/)
+- [If you have dedicated testers in your team what frameworks are they using for UI testing?](https://www.reddit.com/r/androiddev/comments/s0u4tn/if_you_have_dedicated_testers_in_your_team_what/)
+- [Katlib - a companion to standard Kotlin library](https://www.reddit.com/r/androiddev/comments/s0svb5/katlib_a_companion_to_standard_kotlin_library/)
+- [Create a snow effect in Jetpack Compose - with Seb and Ivan](https://www.reddit.com/r/androiddev/comments/s0s3nz/create_a_snow_effect_in_jetpack_compose_with_seb/)
+- [Run Test and Turbine](https://www.reddit.com/r/androiddev/comments/s0rsd0/run_test_and_turbine/)
+- [Trying &lpar;&amp; Failing&rpar; to get an Android App to connect to my Socket.IO server. Any advice?](https://www.reddit.com/r/androiddev/comments/s0qcv8/trying_failing_to_get_an_android_app_to_connect/)
+- [Android Studio Chipmunk Canary 7 now available](https://www.reddit.com/r/androiddev/comments/s0pl1r/android_studio_chipmunk_canary_7_now_available/)
+- [Google Play Store Game Suspension](https://www.reddit.com/r/androiddev/comments/s0pexo/google_play_store_game_suspension/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
