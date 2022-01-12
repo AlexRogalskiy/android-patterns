@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What do you think about my brother&#39;s Android app?](https://www.reddit.com/r/androiddev/comments/s10bi1/what_do_you_think_about_my_brothers_android_app/)
-- [What is a good testing strategy?](https://www.reddit.com/r/androiddev/comments/s0ykh8/what_is_a_good_testing_strategy/)
-- [Sceneform Pros I need your help! &lpar;java&rpar;](https://www.reddit.com/r/androiddev/comments/s0wfaa/sceneform_pros_i_need_your_help_java/)
-- [If you have dedicated testers in your team what frameworks are they using for UI testing?](https://www.reddit.com/r/androiddev/comments/s0u4tn/if_you_have_dedicated_testers_in_your_team_what/)
-- [Katlib - a companion to standard Kotlin library](https://www.reddit.com/r/androiddev/comments/s0svb5/katlib_a_companion_to_standard_kotlin_library/)
-- [Create a snow effect in Jetpack Compose - with Seb and Ivan](https://www.reddit.com/r/androiddev/comments/s0s3nz/create_a_snow_effect_in_jetpack_compose_with_seb/)
-- [Run Test and Turbine](https://www.reddit.com/r/androiddev/comments/s0rsd0/run_test_and_turbine/)
-- [Trying &lpar;&amp; Failing&rpar; to get an Android App to connect to my Socket.IO server. Any advice?](https://www.reddit.com/r/androiddev/comments/s0qcv8/trying_failing_to_get_an_android_app_to_connect/)
-- [Android Studio Chipmunk Canary 7 now available](https://www.reddit.com/r/androiddev/comments/s0pl1r/android_studio_chipmunk_canary_7_now_available/)
-- [Google Play Store Game Suspension](https://www.reddit.com/r/androiddev/comments/s0pexo/google_play_store_game_suspension/)
+- [What does this ? Mean in bubble](https://www.reddit.com/r/androiddev/comments/s1t7y9/what_does_this_mean_in_bubble/)
+- [How long after being approved on the play store will it take for my app to be available for download?](https://www.reddit.com/r/androiddev/comments/s1s1el/how_long_after_being_approved_on_the_play_store/)
+- [projects for improve kotlin knows? benniger - intermediate](https://www.reddit.com/r/androiddev/comments/s1rfv2/projects_for_improve_kotlin_knows_benniger/)
+- [Controlling five Android phones with PC](https://www.reddit.com/r/androiddev/comments/s1r785/controlling_five_android_phones_with_pc/)
+- [Android Developers Backstage: Episode 181: Architecture → Fewer bugs at the end](https://www.reddit.com/r/androiddev/comments/s1q6qj/android_developers_backstage_episode_181/)
+- [How to make this animation in android application?](https://www.reddit.com/r/androiddev/comments/s1oczk/how_to_make_this_animation_in_android_application/)
+- [Closed testing release](https://www.reddit.com/r/androiddev/comments/s1o4xa/closed_testing_release/)
+- [Best practice for working with big frequently updating amount of data with MVI](https://www.reddit.com/r/androiddev/comments/s1n0of/best_practice_for_working_with_big_frequently/)
+- [Is there any really good cheatsheet for RxJava that includes Observables, Subjects, Operators, Schedulers?](https://www.reddit.com/r/androiddev/comments/s1mqv2/is_there_any_really_good_cheatsheet_for_rxjava/)
+- [Help with overwhelming overrides](https://www.reddit.com/r/androiddev/comments/s1m8ae/help_with_overwhelming_overrides/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
