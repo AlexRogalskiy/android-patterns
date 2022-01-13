@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What does this ? Mean in bubble](https://www.reddit.com/r/androiddev/comments/s1t7y9/what_does_this_mean_in_bubble/)
-- [How long after being approved on the play store will it take for my app to be available for download?](https://www.reddit.com/r/androiddev/comments/s1s1el/how_long_after_being_approved_on_the_play_store/)
-- [projects for improve kotlin knows? benniger - intermediate](https://www.reddit.com/r/androiddev/comments/s1rfv2/projects_for_improve_kotlin_knows_benniger/)
-- [Controlling five Android phones with PC](https://www.reddit.com/r/androiddev/comments/s1r785/controlling_five_android_phones_with_pc/)
-- [Android Developers Backstage: Episode 181: Architecture → Fewer bugs at the end](https://www.reddit.com/r/androiddev/comments/s1q6qj/android_developers_backstage_episode_181/)
-- [How to make this animation in android application?](https://www.reddit.com/r/androiddev/comments/s1oczk/how_to_make_this_animation_in_android_application/)
-- [Closed testing release](https://www.reddit.com/r/androiddev/comments/s1o4xa/closed_testing_release/)
-- [Best practice for working with big frequently updating amount of data with MVI](https://www.reddit.com/r/androiddev/comments/s1n0of/best_practice_for_working_with_big_frequently/)
-- [Is there any really good cheatsheet for RxJava that includes Observables, Subjects, Operators, Schedulers?](https://www.reddit.com/r/androiddev/comments/s1mqv2/is_there_any_really_good_cheatsheet_for_rxjava/)
-- [Help with overwhelming overrides](https://www.reddit.com/r/androiddev/comments/s1m8ae/help_with_overwhelming_overrides/)
+- [How to run AOSP Launcher3 after cloning in android studio?](https://www.reddit.com/r/androiddev/comments/s2lcoj/how_to_run_aosp_launcher3_after_cloning_in/)
+- [ELI5 How Java and Kotlin can be used in same project in Android Studio?](https://www.reddit.com/r/androiddev/comments/s2i944/eli5_how_java_and_kotlin_can_be_used_in_same/)
+- [JavaScript engine on Android](https://www.reddit.com/r/androiddev/comments/s2hxzo/javascript_engine_on_android/)
+- [Web development to Android development](https://www.reddit.com/r/androiddev/comments/s2h4df/web_development_to_android_development/)
+- [Are Lifecycle Events sequential, or are they subjected to race conditions?](https://www.reddit.com/r/androiddev/comments/s2eohx/are_lifecycle_events_sequential_or_are_they/)
+- [Play points from testing subscriptions?](https://www.reddit.com/r/androiddev/comments/s2d64h/play_points_from_testing_subscriptions/)
+- [It&#39;s happened again. My 3-year-old game has been suspended by Google.](https://www.reddit.com/r/androiddev/comments/s2d5bi/its_happened_again_my_3yearold_game_has_been/)
+- [Would love to develop an app....](https://www.reddit.com/r/androiddev/comments/s2cg2t/would_love_to_develop_an_app/)
+- [So Frustrated with Google Play Team](https://www.reddit.com/r/androiddev/comments/s2bvu4/so_frustrated_with_google_play_team/)
+- [Here&#39;s a Quick Way to Determine Price of Your App &lpar;Regional Pricing Case Study&rpar;](https://www.reddit.com/r/androiddev/comments/s2bj3n/heres_a_quick_way_to_determine_price_of_your_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
