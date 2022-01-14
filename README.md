@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to run AOSP Launcher3 after cloning in android studio?](https://www.reddit.com/r/androiddev/comments/s2lcoj/how_to_run_aosp_launcher3_after_cloning_in/)
-- [ELI5 How Java and Kotlin can be used in same project in Android Studio?](https://www.reddit.com/r/androiddev/comments/s2i944/eli5_how_java_and_kotlin_can_be_used_in_same/)
-- [JavaScript engine on Android](https://www.reddit.com/r/androiddev/comments/s2hxzo/javascript_engine_on_android/)
-- [Web development to Android development](https://www.reddit.com/r/androiddev/comments/s2h4df/web_development_to_android_development/)
-- [Are Lifecycle Events sequential, or are they subjected to race conditions?](https://www.reddit.com/r/androiddev/comments/s2eohx/are_lifecycle_events_sequential_or_are_they/)
-- [Play points from testing subscriptions?](https://www.reddit.com/r/androiddev/comments/s2d64h/play_points_from_testing_subscriptions/)
-- [It&#39;s happened again. My 3-year-old game has been suspended by Google.](https://www.reddit.com/r/androiddev/comments/s2d5bi/its_happened_again_my_3yearold_game_has_been/)
-- [Would love to develop an app....](https://www.reddit.com/r/androiddev/comments/s2cg2t/would_love_to_develop_an_app/)
-- [So Frustrated with Google Play Team](https://www.reddit.com/r/androiddev/comments/s2bvu4/so_frustrated_with_google_play_team/)
-- [Here&#39;s a Quick Way to Determine Price of Your App &lpar;Regional Pricing Case Study&rpar;](https://www.reddit.com/r/androiddev/comments/s2bj3n/heres_a_quick_way_to_determine_price_of_your_app/)
+- [Amazon Appstore IAP SDK to Kotlin app?](https://www.reddit.com/r/androiddev/comments/s3cyjr/amazon_appstore_iap_sdk_to_kotlin_app/)
+- [Garbage collector for Gradle](https://www.reddit.com/r/androiddev/comments/s3cwoz/garbage_collector_for_gradle/)
+- [How to track eBay Partner Network links for commission revenue?](https://www.reddit.com/r/androiddev/comments/s3cs1t/how_to_track_ebay_partner_network_links_for/)
+- [Vadim Caen shows us the new fancy SPLASH SCREEN lib by Jetpack ⛵🌊](https://www.reddit.com/r/androiddev/comments/s38c5j/vadim_caen_shows_us_the_new_fancy_splash_screen/)
+- [Data Structures for Android Dev.](https://www.reddit.com/r/androiddev/comments/s35ql5/data_structures_for_android_dev/)
+- [I need a phone with Nougat 7.1.1](https://www.reddit.com/r/androiddev/comments/s35p35/i_need_a_phone_with_nougat_711/)
+- [Securing tokens in lower Android API 16 and above](https://www.reddit.com/r/androiddev/comments/s34tms/securing_tokens_in_lower_android_api_16_and_above/)
+- [Questions about a project I&#39;m working on](https://www.reddit.com/r/androiddev/comments/s32404/questions_about_a_project_im_working_on/)
+- [Switching from Web Dev --&gt; App Dev. Should I?](https://www.reddit.com/r/androiddev/comments/s31bzm/switching_from_web_dev_app_dev_should_i/)
+- [Debug tool to show which fragments are currently shown](https://www.reddit.com/r/androiddev/comments/s318b0/debug_tool_to_show_which_fragments_are_currently/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
