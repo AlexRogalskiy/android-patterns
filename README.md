@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Amazon Appstore IAP SDK to Kotlin app?](https://www.reddit.com/r/androiddev/comments/s3cyjr/amazon_appstore_iap_sdk_to_kotlin_app/)
-- [Garbage collector for Gradle](https://www.reddit.com/r/androiddev/comments/s3cwoz/garbage_collector_for_gradle/)
-- [How to track eBay Partner Network links for commission revenue?](https://www.reddit.com/r/androiddev/comments/s3cs1t/how_to_track_ebay_partner_network_links_for/)
-- [Vadim Caen shows us the new fancy SPLASH SCREEN lib by Jetpack ⛵🌊](https://www.reddit.com/r/androiddev/comments/s38c5j/vadim_caen_shows_us_the_new_fancy_splash_screen/)
-- [Data Structures for Android Dev.](https://www.reddit.com/r/androiddev/comments/s35ql5/data_structures_for_android_dev/)
-- [I need a phone with Nougat 7.1.1](https://www.reddit.com/r/androiddev/comments/s35p35/i_need_a_phone_with_nougat_711/)
-- [Securing tokens in lower Android API 16 and above](https://www.reddit.com/r/androiddev/comments/s34tms/securing_tokens_in_lower_android_api_16_and_above/)
-- [Questions about a project I&#39;m working on](https://www.reddit.com/r/androiddev/comments/s32404/questions_about_a_project_im_working_on/)
-- [Switching from Web Dev --&gt; App Dev. Should I?](https://www.reddit.com/r/androiddev/comments/s31bzm/switching_from_web_dev_app_dev_should_i/)
-- [Debug tool to show which fragments are currently shown](https://www.reddit.com/r/androiddev/comments/s318b0/debug_tool_to_show_which_fragments_are_currently/)
+- [Partially translated store listing?](https://www.reddit.com/r/androiddev/comments/s468fd/partially_translated_store_listing/)
+- [2021 was the first year I sold an app on google play. How will income taxes work?](https://www.reddit.com/r/androiddev/comments/s446wj/2021_was_the_first_year_i_sold_an_app_on_google/)
+- [How I made $2.44 with Google AdMob before my account was suspended](https://www.reddit.com/r/androiddev/comments/s441s5/how_i_made_244_with_google_admob_before_my/)
+- [REST efficiency, how to?](https://www.reddit.com/r/androiddev/comments/s43sis/rest_efficiency_how_to/)
+- [Is there a similar resource to The Odin Project and MOOC Helsinki Java course &lpar;interactive and project oriented&rpar; for learning Kotlin and Android development?](https://www.reddit.com/r/androiddev/comments/s43ic3/is_there_a_similar_resource_to_the_odin_project/)
+- [Scammed into a contract by tech company](https://www.reddit.com/r/androiddev/comments/s422l2/scammed_into_a_contract_by_tech_company/)
+- [The First Dump Thing I Had With Android Studio =.=](https://www.reddit.com/r/androiddev/comments/s3zlmw/the_first_dump_thing_i_had_with_android_studio/)
+- [Job Interview Questions &lpar;VMWare Android Developer&rpar;](https://www.reddit.com/r/androiddev/comments/s3y1cm/job_interview_questions_vmware_android_developer/)
+- [I got passed over for the next step of interview because I haven&#39;t interfaced with a UX Designer or Product Manager. Is this normal?](https://www.reddit.com/r/androiddev/comments/s3vxfq/i_got_passed_over_for_the_next_step_of_interview/)
+- [Open source - Android animations library](https://www.reddit.com/r/androiddev/comments/s3vv63/open_source_android_animations_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
