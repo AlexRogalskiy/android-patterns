@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Partially translated store listing?](https://www.reddit.com/r/androiddev/comments/s468fd/partially_translated_store_listing/)
-- [2021 was the first year I sold an app on google play. How will income taxes work?](https://www.reddit.com/r/androiddev/comments/s446wj/2021_was_the_first_year_i_sold_an_app_on_google/)
-- [How I made $2.44 with Google AdMob before my account was suspended](https://www.reddit.com/r/androiddev/comments/s441s5/how_i_made_244_with_google_admob_before_my/)
-- [REST efficiency, how to?](https://www.reddit.com/r/androiddev/comments/s43sis/rest_efficiency_how_to/)
-- [Is there a similar resource to The Odin Project and MOOC Helsinki Java course &lpar;interactive and project oriented&rpar; for learning Kotlin and Android development?](https://www.reddit.com/r/androiddev/comments/s43ic3/is_there_a_similar_resource_to_the_odin_project/)
-- [Scammed into a contract by tech company](https://www.reddit.com/r/androiddev/comments/s422l2/scammed_into_a_contract_by_tech_company/)
-- [The First Dump Thing I Had With Android Studio =.=](https://www.reddit.com/r/androiddev/comments/s3zlmw/the_first_dump_thing_i_had_with_android_studio/)
-- [Job Interview Questions &lpar;VMWare Android Developer&rpar;](https://www.reddit.com/r/androiddev/comments/s3y1cm/job_interview_questions_vmware_android_developer/)
-- [I got passed over for the next step of interview because I haven&#39;t interfaced with a UX Designer or Product Manager. Is this normal?](https://www.reddit.com/r/androiddev/comments/s3vxfq/i_got_passed_over_for_the_next_step_of_interview/)
-- [Open source - Android animations library](https://www.reddit.com/r/androiddev/comments/s3vv63/open_source_android_animations_library/)
+- [Future](https://www.reddit.com/r/androiddev/comments/s4vmse/future/)
+- [MakeEventsEasy library - implement events tracking smoothly](https://www.reddit.com/r/androiddev/comments/s4vau9/makeeventseasy_library_implement_events_tracking/)
+- [What is best way to prevent recreation of fragment when using bottom navigation?](https://www.reddit.com/r/androiddev/comments/s4uzgi/what_is_best_way_to_prevent_recreation_of/)
+- [How would one impement private one-to-one messaging in an anonymous chat app?](https://www.reddit.com/r/androiddev/comments/s4u6r4/how_would_one_impement_private_onetoone_messaging/)
+- [Questions related to android development on M1 Macs.](https://www.reddit.com/r/androiddev/comments/s4u189/questions_related_to_android_development_on_m1/)
+- [What do you consider a good automation setup in Android and why?](https://www.reddit.com/r/androiddev/comments/s4rppz/what_do_you_consider_a_good_automation_setup_in/)
+- [Hot reload like flutter](https://www.reddit.com/r/androiddev/comments/s4l23m/hot_reload_like_flutter/)
+- [Problems found loading plugins](https://www.reddit.com/r/androiddev/comments/s4jx1q/problems_found_loading_plugins/)
+- [Android Jetpack Glance for Widgets](https://www.reddit.com/r/androiddev/comments/s4if0p/android_jetpack_glance_for_widgets/)
+- [What is equivalent in jetpack compose?](https://www.reddit.com/r/androiddev/comments/s4hxka/what_is_equivalent_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
