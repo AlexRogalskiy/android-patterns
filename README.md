@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Future](https://www.reddit.com/r/androiddev/comments/s4vmse/future/)
-- [MakeEventsEasy library - implement events tracking smoothly](https://www.reddit.com/r/androiddev/comments/s4vau9/makeeventseasy_library_implement_events_tracking/)
-- [What is best way to prevent recreation of fragment when using bottom navigation?](https://www.reddit.com/r/androiddev/comments/s4uzgi/what_is_best_way_to_prevent_recreation_of/)
-- [How would one impement private one-to-one messaging in an anonymous chat app?](https://www.reddit.com/r/androiddev/comments/s4u6r4/how_would_one_impement_private_onetoone_messaging/)
-- [Questions related to android development on M1 Macs.](https://www.reddit.com/r/androiddev/comments/s4u189/questions_related_to_android_development_on_m1/)
-- [What do you consider a good automation setup in Android and why?](https://www.reddit.com/r/androiddev/comments/s4rppz/what_do_you_consider_a_good_automation_setup_in/)
-- [Hot reload like flutter](https://www.reddit.com/r/androiddev/comments/s4l23m/hot_reload_like_flutter/)
-- [Problems found loading plugins](https://www.reddit.com/r/androiddev/comments/s4jx1q/problems_found_loading_plugins/)
-- [Android Jetpack Glance for Widgets](https://www.reddit.com/r/androiddev/comments/s4if0p/android_jetpack_glance_for_widgets/)
-- [What is equivalent in jetpack compose?](https://www.reddit.com/r/androiddev/comments/s4hxka/what_is_equivalent_in_jetpack_compose/)
+- [Local Notifications from Recyclerview Adapter, is it possible?](https://www.reddit.com/r/androiddev/comments/s5o0kc/local_notifications_from_recyclerview_adapter_is/)
+- [Form state management and validation library](https://www.reddit.com/r/androiddev/comments/s5l3p4/form_state_management_and_validation_library/)
+- [Portfolio ideas for first dev job?](https://www.reddit.com/r/androiddev/comments/s5j4bl/portfolio_ideas_for_first_dev_job/)
+- [Work Manager or Services&lpar;foreground and background&rpar;](https://www.reddit.com/r/androiddev/comments/s5dphx/work_manager_or_servicesforeground_and_background/)
+- [Are you experiencing problems with Android Studio?](https://www.reddit.com/r/androiddev/comments/s5d24c/are_you_experiencing_problems_with_android_studio/)
+- [beginner here.](https://www.reddit.com/r/androiddev/comments/s5ci2l/beginner_here/)
+- [Why we chose Telegram for team-app over Slack and Microsoft Team, and then moved away from it —…](https://www.reddit.com/r/androiddev/comments/s5c04e/why_we_chose_telegram_for_teamapp_over_slack_and/)
+- [Harsh truth about software development with respect to Android apps?](https://www.reddit.com/r/androiddev/comments/s5bceb/harsh_truth_about_software_development_with/)
+- [Maximizing profits from banner ads](https://www.reddit.com/r/androiddev/comments/s5azyw/maximizing_profits_from_banner_ads/)
+- [How can I get the time interval between two actions and then wait this amount of time?](https://www.reddit.com/r/androiddev/comments/s598tt/how_can_i_get_the_time_interval_between_two/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
