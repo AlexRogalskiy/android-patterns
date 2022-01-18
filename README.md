@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Local Notifications from Recyclerview Adapter, is it possible?](https://www.reddit.com/r/androiddev/comments/s5o0kc/local_notifications_from_recyclerview_adapter_is/)
-- [Form state management and validation library](https://www.reddit.com/r/androiddev/comments/s5l3p4/form_state_management_and_validation_library/)
-- [Portfolio ideas for first dev job?](https://www.reddit.com/r/androiddev/comments/s5j4bl/portfolio_ideas_for_first_dev_job/)
-- [Work Manager or Services&lpar;foreground and background&rpar;](https://www.reddit.com/r/androiddev/comments/s5dphx/work_manager_or_servicesforeground_and_background/)
-- [Are you experiencing problems with Android Studio?](https://www.reddit.com/r/androiddev/comments/s5d24c/are_you_experiencing_problems_with_android_studio/)
-- [beginner here.](https://www.reddit.com/r/androiddev/comments/s5ci2l/beginner_here/)
-- [Why we chose Telegram for team-app over Slack and Microsoft Team, and then moved away from it —…](https://www.reddit.com/r/androiddev/comments/s5c04e/why_we_chose_telegram_for_teamapp_over_slack_and/)
-- [Harsh truth about software development with respect to Android apps?](https://www.reddit.com/r/androiddev/comments/s5bceb/harsh_truth_about_software_development_with/)
-- [Maximizing profits from banner ads](https://www.reddit.com/r/androiddev/comments/s5azyw/maximizing_profits_from_banner_ads/)
-- [How can I get the time interval between two actions and then wait this amount of time?](https://www.reddit.com/r/androiddev/comments/s598tt/how_can_i_get_the_time_interval_between_two/)
+- [Admob match rate dropping near 0](https://www.reddit.com/r/androiddev/comments/s6hpif/admob_match_rate_dropping_near_0/)
+- [Wrong animation applied when navigating using `popUpTo`](https://www.reddit.com/r/androiddev/comments/s6grgb/wrong_animation_applied_when_navigating_using/)
+- [Android developer&#39;s routine](https://www.reddit.com/r/androiddev/comments/s6fkne/android_developers_routine/)
+- [Interview question: what resources do you use to study about development and update your knowledge of Android?](https://www.reddit.com/r/androiddev/comments/s6ff8s/interview_question_what_resources_do_you_use_to/)
+- [Is there a mini pc that runs on Android OS?](https://www.reddit.com/r/androiddev/comments/s6e9js/is_there_a_mini_pc_that_runs_on_android_os/)
+- [Googler Nick Rout tells us EVERYTHING about Material 3, Material You and Dynamic theming](https://www.reddit.com/r/androiddev/comments/s6ddh5/googler_nick_rout_tells_us_everything_about/)
+- [Let&#39;s make your pricing page/screen better with a bit of UX.](https://www.reddit.com/r/androiddev/comments/s6a2yz/lets_make_your_pricing_pagescreen_better_with_a/)
+- [Am I the only one that feels Compose is a step backward?](https://www.reddit.com/r/androiddev/comments/s68u9o/am_i_the_only_one_that_feels_compose_is_a_step/)
+- [Android Navigation Component in Java](https://www.reddit.com/r/androiddev/comments/s64xpl/android_navigation_component_in_java/)
+- [Android 12 foreground service start using alarm?](https://www.reddit.com/r/androiddev/comments/s64x8i/android_12_foreground_service_start_using_alarm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
