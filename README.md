@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Admob match rate dropping near 0](https://www.reddit.com/r/androiddev/comments/s6hpif/admob_match_rate_dropping_near_0/)
-- [Wrong animation applied when navigating using `popUpTo`](https://www.reddit.com/r/androiddev/comments/s6grgb/wrong_animation_applied_when_navigating_using/)
-- [Android developer&#39;s routine](https://www.reddit.com/r/androiddev/comments/s6fkne/android_developers_routine/)
-- [Interview question: what resources do you use to study about development and update your knowledge of Android?](https://www.reddit.com/r/androiddev/comments/s6ff8s/interview_question_what_resources_do_you_use_to/)
-- [Is there a mini pc that runs on Android OS?](https://www.reddit.com/r/androiddev/comments/s6e9js/is_there_a_mini_pc_that_runs_on_android_os/)
-- [Googler Nick Rout tells us EVERYTHING about Material 3, Material You and Dynamic theming](https://www.reddit.com/r/androiddev/comments/s6ddh5/googler_nick_rout_tells_us_everything_about/)
-- [Let&#39;s make your pricing page/screen better with a bit of UX.](https://www.reddit.com/r/androiddev/comments/s6a2yz/lets_make_your_pricing_pagescreen_better_with_a/)
-- [Am I the only one that feels Compose is a step backward?](https://www.reddit.com/r/androiddev/comments/s68u9o/am_i_the_only_one_that_feels_compose_is_a_step/)
-- [Android Navigation Component in Java](https://www.reddit.com/r/androiddev/comments/s64xpl/android_navigation_component_in_java/)
-- [Android 12 foreground service start using alarm?](https://www.reddit.com/r/androiddev/comments/s64x8i/android_12_foreground_service_start_using_alarm/)
+- [What are all the possible screen sizes and densities that an app that has the minimum API level set to 21 can run on?](https://www.reddit.com/r/androiddev/comments/s7e50f/what_are_all_the_possible_screen_sizes_and/)
+- [Deleting Bloatware](https://www.reddit.com/r/androiddev/comments/s7cnlf/deleting_bloatware/)
+- [Jetnews for every screen](https://www.reddit.com/r/androiddev/comments/s79j3z/jetnews_for_every_screen/)
+- [Permission for accessing /Android/data/](https://www.reddit.com/r/androiddev/comments/s76adp/permission_for_accessing_androiddata/)
+- [How are you linking accounts to Google Pay Subscriptions?](https://www.reddit.com/r/androiddev/comments/s75jc8/how_are_you_linking_accounts_to_google_pay/)
+- [Wich search is better when using Room DB, searching directly in database and hold returned data into a list or getting data from database and search in returned list?](https://www.reddit.com/r/androiddev/comments/s74w81/wich_search_is_better_when_using_room_db/)
+- [Android studio for beginner](https://www.reddit.com/r/androiddev/comments/s74pc8/android_studio_for_beginner/)
+- [What Everybody Should Know About App Icons.](https://www.reddit.com/r/androiddev/comments/s7427x/what_everybody_should_know_about_app_icons/)
+- [Adult websites blocker issue &lpar;Deceptive Behavior policy violation&rpar;](https://www.reddit.com/r/androiddev/comments/s73uxr/adult_websites_blocker_issue_deceptive_behavior/)
+- [Persisting state in a ViewModel across process death](https://www.reddit.com/r/androiddev/comments/s73bp9/persisting_state_in_a_viewmodel_across_process/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
