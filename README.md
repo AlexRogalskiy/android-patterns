@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are all the possible screen sizes and densities that an app that has the minimum API level set to 21 can run on?](https://www.reddit.com/r/androiddev/comments/s7e50f/what_are_all_the_possible_screen_sizes_and/)
-- [Deleting Bloatware](https://www.reddit.com/r/androiddev/comments/s7cnlf/deleting_bloatware/)
-- [Jetnews for every screen](https://www.reddit.com/r/androiddev/comments/s79j3z/jetnews_for_every_screen/)
-- [Permission for accessing /Android/data/](https://www.reddit.com/r/androiddev/comments/s76adp/permission_for_accessing_androiddata/)
-- [How are you linking accounts to Google Pay Subscriptions?](https://www.reddit.com/r/androiddev/comments/s75jc8/how_are_you_linking_accounts_to_google_pay/)
-- [Wich search is better when using Room DB, searching directly in database and hold returned data into a list or getting data from database and search in returned list?](https://www.reddit.com/r/androiddev/comments/s74w81/wich_search_is_better_when_using_room_db/)
-- [Android studio for beginner](https://www.reddit.com/r/androiddev/comments/s74pc8/android_studio_for_beginner/)
-- [What Everybody Should Know About App Icons.](https://www.reddit.com/r/androiddev/comments/s7427x/what_everybody_should_know_about_app_icons/)
-- [Adult websites blocker issue &lpar;Deceptive Behavior policy violation&rpar;](https://www.reddit.com/r/androiddev/comments/s73uxr/adult_websites_blocker_issue_deceptive_behavior/)
-- [Persisting state in a ViewModel across process death](https://www.reddit.com/r/androiddev/comments/s73bp9/persisting_state_in_a_viewmodel_across_process/)
+- [Cant replace framework-res.apk. changes don&#39;t stick.](https://www.reddit.com/r/androiddev/comments/s86sl3/cant_replace_frameworkresapk_changes_dont_stick/)
+- [App Approval for apps with scanners that aren&#39;t Covid Apps](https://www.reddit.com/r/androiddev/comments/s85z1n/app_approval_for_apps_with_scanners_that_arent/)
+- [adb for apple silicon?](https://www.reddit.com/r/androiddev/comments/s84vcw/adb_for_apple_silicon/)
+- [Displaying a progress bar in a foreground service notification](https://www.reddit.com/r/androiddev/comments/s83se2/displaying_a_progress_bar_in_a_foreground_service/)
+- [Android 11 with dm-verity disabled, Will framework-res.apk work after I decompile/modify/recompile?](https://www.reddit.com/r/androiddev/comments/s82fb1/android_11_with_dmverity_disabled_will/)
+- [Transitioning from a copypaste monkey to a mid level android dev](https://www.reddit.com/r/androiddev/comments/s824l4/transitioning_from_a_copypaste_monkey_to_a_mid/)
+- [Crypto wallet apps - What do they use to store the user&#39;s keys?](https://www.reddit.com/r/androiddev/comments/s815it/crypto_wallet_apps_what_do_they_use_to_store_the/)
+- [How Doordash does Developer Productivity Engineering on January 27th at 10PST](https://www.reddit.com/r/androiddev/comments/s7zf2p/how_doordash_does_developer_productivity/)
+- [Is it true that an app on Android opens Back Doors more easily than on iOS ?](https://www.reddit.com/r/androiddev/comments/s7x6io/is_it_true_that_an_app_on_android_opens_back/)
+- [Learn How to Rewrite an App&#39;s DI With Hilt in 13 Minutes](https://www.reddit.com/r/androiddev/comments/s7wslb/learn_how_to_rewrite_an_apps_di_with_hilt_in_13/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
