@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cant replace framework-res.apk. changes don&#39;t stick.](https://www.reddit.com/r/androiddev/comments/s86sl3/cant_replace_frameworkresapk_changes_dont_stick/)
-- [App Approval for apps with scanners that aren&#39;t Covid Apps](https://www.reddit.com/r/androiddev/comments/s85z1n/app_approval_for_apps_with_scanners_that_arent/)
-- [adb for apple silicon?](https://www.reddit.com/r/androiddev/comments/s84vcw/adb_for_apple_silicon/)
-- [Displaying a progress bar in a foreground service notification](https://www.reddit.com/r/androiddev/comments/s83se2/displaying_a_progress_bar_in_a_foreground_service/)
-- [Android 11 with dm-verity disabled, Will framework-res.apk work after I decompile/modify/recompile?](https://www.reddit.com/r/androiddev/comments/s82fb1/android_11_with_dmverity_disabled_will/)
-- [Transitioning from a copypaste monkey to a mid level android dev](https://www.reddit.com/r/androiddev/comments/s824l4/transitioning_from_a_copypaste_monkey_to_a_mid/)
-- [Crypto wallet apps - What do they use to store the user&#39;s keys?](https://www.reddit.com/r/androiddev/comments/s815it/crypto_wallet_apps_what_do_they_use_to_store_the/)
-- [How Doordash does Developer Productivity Engineering on January 27th at 10PST](https://www.reddit.com/r/androiddev/comments/s7zf2p/how_doordash_does_developer_productivity/)
-- [Is it true that an app on Android opens Back Doors more easily than on iOS ?](https://www.reddit.com/r/androiddev/comments/s7x6io/is_it_true_that_an_app_on_android_opens_back/)
-- [Learn How to Rewrite an App&#39;s DI With Hilt in 13 Minutes](https://www.reddit.com/r/androiddev/comments/s7wslb/learn_how_to_rewrite_an_apps_di_with_hilt_in_13/)
+- [Sellers.json Transparent or Confidential?](https://www.reddit.com/r/androiddev/comments/s8wgz3/sellersjson_transparent_or_confidential/)
+- [Bogus DMCA claim against my app. Who can I contact?](https://www.reddit.com/r/androiddev/comments/s8uz4a/bogus_dmca_claim_against_my_app_who_can_i_contact/)
+- [Using local project as module will hurt the performance?](https://www.reddit.com/r/androiddev/comments/s8tt4r/using_local_project_as_module_will_hurt_the/)
+- [Major project idea, app + iot. Suggestions requested](https://www.reddit.com/r/androiddev/comments/s8q37o/major_project_idea_app_iot_suggestions_requested/)
+- [My app is crashing with this weird avc message](https://www.reddit.com/r/androiddev/comments/s8paiw/my_app_is_crashing_with_this_weird_avc_message/)
+- [How can I store nested JSON data in Room Database? [Room]](https://www.reddit.com/r/androiddev/comments/s8ohcy/how_can_i_store_nested_json_data_in_room_database/)
+- [What is the best way for making a gamified learning app? Using web development stack or using a Game engine?](https://www.reddit.com/r/androiddev/comments/s8o3tn/what_is_the_best_way_for_making_a_gamified/)
+- [Could I build an app like this or am I way in over my head?](https://www.reddit.com/r/androiddev/comments/s8ns2i/could_i_build_an_app_like_this_or_am_i_way_in/)
+- [Using SpeechRecognizer while recording video with enabled audio](https://www.reddit.com/r/androiddev/comments/s8nn2d/using_speechrecognizer_while_recording_video_with/)
+- [Best/stable Android SBC](https://www.reddit.com/r/androiddev/comments/s8liba/beststable_android_sbc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
