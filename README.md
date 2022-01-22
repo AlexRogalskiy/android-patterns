@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sellers.json Transparent or Confidential?](https://www.reddit.com/r/androiddev/comments/s8wgz3/sellersjson_transparent_or_confidential/)
-- [Bogus DMCA claim against my app. Who can I contact?](https://www.reddit.com/r/androiddev/comments/s8uz4a/bogus_dmca_claim_against_my_app_who_can_i_contact/)
-- [Using local project as module will hurt the performance?](https://www.reddit.com/r/androiddev/comments/s8tt4r/using_local_project_as_module_will_hurt_the/)
-- [Major project idea, app + iot. Suggestions requested](https://www.reddit.com/r/androiddev/comments/s8q37o/major_project_idea_app_iot_suggestions_requested/)
-- [My app is crashing with this weird avc message](https://www.reddit.com/r/androiddev/comments/s8paiw/my_app_is_crashing_with_this_weird_avc_message/)
-- [How can I store nested JSON data in Room Database? [Room]](https://www.reddit.com/r/androiddev/comments/s8ohcy/how_can_i_store_nested_json_data_in_room_database/)
-- [What is the best way for making a gamified learning app? Using web development stack or using a Game engine?](https://www.reddit.com/r/androiddev/comments/s8o3tn/what_is_the_best_way_for_making_a_gamified/)
-- [Could I build an app like this or am I way in over my head?](https://www.reddit.com/r/androiddev/comments/s8ns2i/could_i_build_an_app_like_this_or_am_i_way_in/)
-- [Using SpeechRecognizer while recording video with enabled audio](https://www.reddit.com/r/androiddev/comments/s8nn2d/using_speechrecognizer_while_recording_video_with/)
-- [Best/stable Android SBC](https://www.reddit.com/r/androiddev/comments/s8liba/beststable_android_sbc/)
+- [Improve App Performance by upto 40% in an afternoon](https://www.reddit.com/r/androiddev/comments/s9pp9c/improve_app_performance_by_upto_40_in_an_afternoon/)
+- [Starting as Junior Android developer and insecure](https://www.reddit.com/r/androiddev/comments/s9mzkq/starting_as_junior_android_developer_and_insecure/)
+- [Is there good tutorial for how to migrate recyclerview to leanback vertical listview?](https://www.reddit.com/r/androiddev/comments/s9lrvy/is_there_good_tutorial_for_how_to_migrate/)
+- [Official Android docs containing deprecated code](https://www.reddit.com/r/androiddev/comments/s9l603/official_android_docs_containing_deprecated_code/)
+- [How to get rid of this spacing at the end of line? I use Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/s9kyc3/how_to_get_rid_of_this_spacing_at_the_end_of_line/)
+- [I need help with pivacy policy](https://www.reddit.com/r/androiddev/comments/s9ij57/i_need_help_with_pivacy_policy/)
+- [Can anyone tell me why Google is doing this? This is my only developer account. They also refuse to give the email address of the previous developer account](https://www.reddit.com/r/androiddev/comments/s9hwxg/can_anyone_tell_me_why_google_is_doing_this_this/)
+- [How to await for LiveData emission in Robolectric tests?](https://www.reddit.com/r/androiddev/comments/s9hhid/how_to_await_for_livedata_emission_in_robolectric/)
+- [Fixing simpleperf broken records](https://www.reddit.com/r/androiddev/comments/s9hbhm/fixing_simpleperf_broken_records/)
+- [Hi everyone. What kind of UI is this sliding? I&#39;m trying to create like a popup with sliding with different kinds of button functions. Thank you](https://www.reddit.com/r/androiddev/comments/s9dgmo/hi_everyone_what_kind_of_ui_is_this_sliding_im/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
