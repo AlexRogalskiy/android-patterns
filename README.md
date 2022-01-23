@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Improve App Performance by upto 40% in an afternoon](https://www.reddit.com/r/androiddev/comments/s9pp9c/improve_app_performance_by_upto_40_in_an_afternoon/)
-- [Starting as Junior Android developer and insecure](https://www.reddit.com/r/androiddev/comments/s9mzkq/starting_as_junior_android_developer_and_insecure/)
-- [Is there good tutorial for how to migrate recyclerview to leanback vertical listview?](https://www.reddit.com/r/androiddev/comments/s9lrvy/is_there_good_tutorial_for_how_to_migrate/)
-- [Official Android docs containing deprecated code](https://www.reddit.com/r/androiddev/comments/s9l603/official_android_docs_containing_deprecated_code/)
-- [How to get rid of this spacing at the end of line? I use Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/s9kyc3/how_to_get_rid_of_this_spacing_at_the_end_of_line/)
-- [I need help with pivacy policy](https://www.reddit.com/r/androiddev/comments/s9ij57/i_need_help_with_pivacy_policy/)
-- [Can anyone tell me why Google is doing this? This is my only developer account. They also refuse to give the email address of the previous developer account](https://www.reddit.com/r/androiddev/comments/s9hwxg/can_anyone_tell_me_why_google_is_doing_this_this/)
-- [How to await for LiveData emission in Robolectric tests?](https://www.reddit.com/r/androiddev/comments/s9hhid/how_to_await_for_livedata_emission_in_robolectric/)
-- [Fixing simpleperf broken records](https://www.reddit.com/r/androiddev/comments/s9hbhm/fixing_simpleperf_broken_records/)
-- [Hi everyone. What kind of UI is this sliding? I&#39;m trying to create like a popup with sliding with different kinds of button functions. Thank you](https://www.reddit.com/r/androiddev/comments/s9dgmo/hi_everyone_what_kind_of_ui_is_this_sliding_im/)
+- [Correlating Jetpack Compose Side Effects](https://www.reddit.com/r/androiddev/comments/sagm5l/correlating_jetpack_compose_side_effects/)
+- [What framework &lpar;if any&rpar; would you recommend for this &quot;simple&quot; data entry app?](https://www.reddit.com/r/androiddev/comments/safi92/what_framework_if_any_would_you_recommend_for/)
+- [Navigating in Compose: Criteria](https://www.reddit.com/r/androiddev/comments/sacsfz/navigating_in_compose_criteria/)
+- [RXJava and synchronization](https://www.reddit.com/r/androiddev/comments/sacp1n/rxjava_and_synchronization/)
+- [Jetpack compose bottom navigation](https://www.reddit.com/r/androiddev/comments/saajnh/jetpack_compose_bottom_navigation/)
+- [Besides grinding leetcode how do you study for Android interviews?](https://www.reddit.com/r/androiddev/comments/sa9x3p/besides_grinding_leetcode_how_do_you_study_for/)
+- [Is &quot;Developing Android Apps by Google&quot; still a good resource to learn Android development?](https://www.reddit.com/r/androiddev/comments/sa810t/is_developing_android_apps_by_google_still_a_good/)
+- [How do I check programming language of an app.](https://www.reddit.com/r/androiddev/comments/sa807a/how_do_i_check_programming_language_of_an_app/)
+- [Check if calculator is connected to phone](https://www.reddit.com/r/androiddev/comments/sa5t7v/check_if_calculator_is_connected_to_phone/)
+- [[Ques]In which language to learn android dev Java or Kotlin?](https://www.reddit.com/r/androiddev/comments/sa5etu/quesin_which_language_to_learn_android_dev_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
