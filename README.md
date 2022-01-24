@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Correlating Jetpack Compose Side Effects](https://www.reddit.com/r/androiddev/comments/sagm5l/correlating_jetpack_compose_side_effects/)
-- [What framework &lpar;if any&rpar; would you recommend for this &quot;simple&quot; data entry app?](https://www.reddit.com/r/androiddev/comments/safi92/what_framework_if_any_would_you_recommend_for/)
-- [Navigating in Compose: Criteria](https://www.reddit.com/r/androiddev/comments/sacsfz/navigating_in_compose_criteria/)
-- [RXJava and synchronization](https://www.reddit.com/r/androiddev/comments/sacp1n/rxjava_and_synchronization/)
-- [Jetpack compose bottom navigation](https://www.reddit.com/r/androiddev/comments/saajnh/jetpack_compose_bottom_navigation/)
-- [Besides grinding leetcode how do you study for Android interviews?](https://www.reddit.com/r/androiddev/comments/sa9x3p/besides_grinding_leetcode_how_do_you_study_for/)
-- [Is &quot;Developing Android Apps by Google&quot; still a good resource to learn Android development?](https://www.reddit.com/r/androiddev/comments/sa810t/is_developing_android_apps_by_google_still_a_good/)
-- [How do I check programming language of an app.](https://www.reddit.com/r/androiddev/comments/sa807a/how_do_i_check_programming_language_of_an_app/)
-- [Check if calculator is connected to phone](https://www.reddit.com/r/androiddev/comments/sa5t7v/check_if_calculator_is_connected_to_phone/)
-- [[Ques]In which language to learn android dev Java or Kotlin?](https://www.reddit.com/r/androiddev/comments/sa5etu/quesin_which_language_to_learn_android_dev_java/)
+- [Resources on UI/UX](https://www.reddit.com/r/androiddev/comments/sba8iy/resources_on_uiux/)
+- [If I have an app idea, how do I know if it&#39;s a simple idea or an advanced idea.](https://www.reddit.com/r/androiddev/comments/sba08w/if_i_have_an_app_idea_how_do_i_know_if_its_a/)
+- [Long review times for Google Play review?](https://www.reddit.com/r/androiddev/comments/sb7hxb/long_review_times_for_google_play_review/)
+- [Kotlin Networking Woes: fetching a static xml file](https://www.reddit.com/r/androiddev/comments/sb2nif/kotlin_networking_woes_fetching_a_static_xml_file/)
+- [lucilla: Fast, efficient, in-memory Full Text Search for Kotlin](https://www.reddit.com/r/androiddev/comments/sb1uoe/lucilla_fast_efficient_inmemory_full_text_search/)
+- [Force Android Studio to use a VPN connection on Windows?](https://www.reddit.com/r/androiddev/comments/sb0j2z/force_android_studio_to_use_a_vpn_connection_on/)
+- [What do implementations that use Unsafe do to be able to compile?](https://www.reddit.com/r/androiddev/comments/sazxg6/what_do_implementations_that_use_unsafe_do_to_be/)
+- [Is AirNow still operating?](https://www.reddit.com/r/androiddev/comments/saxdzh/is_airnow_still_operating/)
+- [Button on a live wallpaper?](https://www.reddit.com/r/androiddev/comments/saw4lg/button_on_a_live_wallpaper/)
+- [Demystifing the ANRs riddle](https://www.reddit.com/r/androiddev/comments/saveck/demystifing_the_anrs_riddle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
