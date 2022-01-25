@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Resources on UI/UX](https://www.reddit.com/r/androiddev/comments/sba8iy/resources_on_uiux/)
-- [If I have an app idea, how do I know if it&#39;s a simple idea or an advanced idea.](https://www.reddit.com/r/androiddev/comments/sba08w/if_i_have_an_app_idea_how_do_i_know_if_its_a/)
-- [Long review times for Google Play review?](https://www.reddit.com/r/androiddev/comments/sb7hxb/long_review_times_for_google_play_review/)
-- [Kotlin Networking Woes: fetching a static xml file](https://www.reddit.com/r/androiddev/comments/sb2nif/kotlin_networking_woes_fetching_a_static_xml_file/)
-- [lucilla: Fast, efficient, in-memory Full Text Search for Kotlin](https://www.reddit.com/r/androiddev/comments/sb1uoe/lucilla_fast_efficient_inmemory_full_text_search/)
-- [Force Android Studio to use a VPN connection on Windows?](https://www.reddit.com/r/androiddev/comments/sb0j2z/force_android_studio_to_use_a_vpn_connection_on/)
-- [What do implementations that use Unsafe do to be able to compile?](https://www.reddit.com/r/androiddev/comments/sazxg6/what_do_implementations_that_use_unsafe_do_to_be/)
-- [Is AirNow still operating?](https://www.reddit.com/r/androiddev/comments/saxdzh/is_airnow_still_operating/)
-- [Button on a live wallpaper?](https://www.reddit.com/r/androiddev/comments/saw4lg/button_on_a_live_wallpaper/)
-- [Demystifing the ANRs riddle](https://www.reddit.com/r/androiddev/comments/saveck/demystifing_the_anrs_riddle/)
+- [Anyone else having this issue? Play Console App Error, web version works fine](https://www.reddit.com/r/androiddev/comments/sc1ky6/anyone_else_having_this_issue_play_console_app/)
+- [Hotspot or Wifi Direct, Whats better for Gaming?](https://www.reddit.com/r/androiddev/comments/sc0usu/hotspot_or_wifi_direct_whats_better_for_gaming/)
+- [How to unpack/repack system.img api 28 android emulator](https://www.reddit.com/r/androiddev/comments/sc06gx/how_to_unpackrepack_systemimg_api_28_android/)
+- [Set permanently camera resolution](https://www.reddit.com/r/androiddev/comments/sbxnop/set_permanently_camera_resolution/)
+- [Is Google Play Console Android App malfunction?](https://www.reddit.com/r/androiddev/comments/sbwxjw/is_google_play_console_android_app_malfunction/)
+- [At @squareeng we ran our Android benchmarks with the MacBook Pro M1 Max and it performed 65% faster than the MacBook Pro with Intel chip from last year! More details in the thread.](https://www.reddit.com/r/androiddev/comments/sbvfvp/at_squareeng_we_ran_our_android_benchmarks_with/)
+- [CWTI - From the trenches: dev horror stories and cringe with Mark Allison](https://www.reddit.com/r/androiddev/comments/sbukfx/cwti_from_the_trenches_dev_horror_stories_and/)
+- [Google play console, fail to load review](https://www.reddit.com/r/androiddev/comments/sbu5zh/google_play_console_fail_to_load_review/)
+- [Free Course: Build Foldable, Tablet, Desktop, and Phone-Optimized Apps](https://www.reddit.com/r/androiddev/comments/sbtlue/free_course_build_foldable_tablet_desktop_and/)
+- [Giving app a performance boost](https://www.reddit.com/r/androiddev/comments/sbtdxh/giving_app_a_performance_boost/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
