@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone else having this issue? Play Console App Error, web version works fine](https://www.reddit.com/r/androiddev/comments/sc1ky6/anyone_else_having_this_issue_play_console_app/)
-- [Hotspot or Wifi Direct, Whats better for Gaming?](https://www.reddit.com/r/androiddev/comments/sc0usu/hotspot_or_wifi_direct_whats_better_for_gaming/)
-- [How to unpack/repack system.img api 28 android emulator](https://www.reddit.com/r/androiddev/comments/sc06gx/how_to_unpackrepack_systemimg_api_28_android/)
-- [Set permanently camera resolution](https://www.reddit.com/r/androiddev/comments/sbxnop/set_permanently_camera_resolution/)
-- [Is Google Play Console Android App malfunction?](https://www.reddit.com/r/androiddev/comments/sbwxjw/is_google_play_console_android_app_malfunction/)
-- [At @squareeng we ran our Android benchmarks with the MacBook Pro M1 Max and it performed 65% faster than the MacBook Pro with Intel chip from last year! More details in the thread.](https://www.reddit.com/r/androiddev/comments/sbvfvp/at_squareeng_we_ran_our_android_benchmarks_with/)
-- [CWTI - From the trenches: dev horror stories and cringe with Mark Allison](https://www.reddit.com/r/androiddev/comments/sbukfx/cwti_from_the_trenches_dev_horror_stories_and/)
-- [Google play console, fail to load review](https://www.reddit.com/r/androiddev/comments/sbu5zh/google_play_console_fail_to_load_review/)
-- [Free Course: Build Foldable, Tablet, Desktop, and Phone-Optimized Apps](https://www.reddit.com/r/androiddev/comments/sbtlue/free_course_build_foldable_tablet_desktop_and/)
-- [Giving app a performance boost](https://www.reddit.com/r/androiddev/comments/sbtdxh/giving_app_a_performance_boost/)
+- [How to show launch PDF from URL in default PDF app on Android 12?](https://www.reddit.com/r/androiddev/comments/scsvl1/how_to_show_launch_pdf_from_url_in_default_pdf/)
+- [Call for testing &amp; get rewarded. PackFND : mobile app https://play.google.com/store/apps/details?id=com.pack.pack and KalaCUBE portal &lpar;www.KalaCUBE.com&rpar; for multidimensional creators. Let me know if interested…](https://www.reddit.com/r/androiddev/comments/scsupt/call_for_testing_get_rewarded_packfnd_mobile_app/)
+- [Bank Google Play Store App Reviews](https://www.reddit.com/r/androiddev/comments/scp96o/bank_google_play_store_app_reviews/)
+- [With so many available jobs, what makes a company irresistible to you?](https://www.reddit.com/r/androiddev/comments/scomwl/with_so_many_available_jobs_what_makes_a_company/)
+- [Add Places Autocomplete in a Fragment](https://www.reddit.com/r/androiddev/comments/sco7e1/add_places_autocomplete_in_a_fragment/)
+- [I&#39;m a new developer I hava a quick question....](https://www.reddit.com/r/androiddev/comments/scmkja/im_a_new_developer_i_hava_a_quick_question/)
+- [Same code working in one android studio version and not in another in another pc.](https://www.reddit.com/r/androiddev/comments/sclu1r/same_code_working_in_one_android_studio_version/)
+- [Your Deep Links Might Be Broken: Web Intents and Android 12](https://www.reddit.com/r/androiddev/comments/sclcmv/your_deep_links_might_be_broken_web_intents_and/)
+- [Android Studio Bumblebee &lpar;2021.1.1&rpar; Stable](https://www.reddit.com/r/androiddev/comments/sckryz/android_studio_bumblebee_202111_stable/)
+- [What&#39;s new in Android Studio Bumblebee](https://www.reddit.com/r/androiddev/comments/sckpdn/whats_new_in_android_studio_bumblebee/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
