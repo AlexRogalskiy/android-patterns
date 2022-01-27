@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to show launch PDF from URL in default PDF app on Android 12?](https://www.reddit.com/r/androiddev/comments/scsvl1/how_to_show_launch_pdf_from_url_in_default_pdf/)
-- [Call for testing &amp; get rewarded. PackFND : mobile app https://play.google.com/store/apps/details?id=com.pack.pack and KalaCUBE portal &lpar;www.KalaCUBE.com&rpar; for multidimensional creators. Let me know if interested…](https://www.reddit.com/r/androiddev/comments/scsupt/call_for_testing_get_rewarded_packfnd_mobile_app/)
-- [Bank Google Play Store App Reviews](https://www.reddit.com/r/androiddev/comments/scp96o/bank_google_play_store_app_reviews/)
-- [With so many available jobs, what makes a company irresistible to you?](https://www.reddit.com/r/androiddev/comments/scomwl/with_so_many_available_jobs_what_makes_a_company/)
-- [Add Places Autocomplete in a Fragment](https://www.reddit.com/r/androiddev/comments/sco7e1/add_places_autocomplete_in_a_fragment/)
-- [I&#39;m a new developer I hava a quick question....](https://www.reddit.com/r/androiddev/comments/scmkja/im_a_new_developer_i_hava_a_quick_question/)
-- [Same code working in one android studio version and not in another in another pc.](https://www.reddit.com/r/androiddev/comments/sclu1r/same_code_working_in_one_android_studio_version/)
-- [Your Deep Links Might Be Broken: Web Intents and Android 12](https://www.reddit.com/r/androiddev/comments/sclcmv/your_deep_links_might_be_broken_web_intents_and/)
-- [Android Studio Bumblebee &lpar;2021.1.1&rpar; Stable](https://www.reddit.com/r/androiddev/comments/sckryz/android_studio_bumblebee_202111_stable/)
-- [What&#39;s new in Android Studio Bumblebee](https://www.reddit.com/r/androiddev/comments/sckpdn/whats_new_in_android_studio_bumblebee/)
+- [PSA: If you use Jetbrains toolbox to install Chipmunk Beta 1 it will install Canary 1 instead](https://www.reddit.com/r/androiddev/comments/sdlwn9/psa_if_you_use_jetbrains_toolbox_to_install/)
+- [CameraX Video and Extensions API survey](https://www.reddit.com/r/androiddev/comments/sdl1cj/camerax_video_and_extensions_api_survey/)
+- [Apple silicon support officially marked as fixed!](https://www.reddit.com/r/androiddev/comments/sdkvgu/apple_silicon_support_officially_marked_as_fixed/)
+- [Do you have trouble with updating your app? &lpar;Long verification delays&rpar;](https://www.reddit.com/r/androiddev/comments/sdkpwl/do_you_have_trouble_with_updating_your_app_long/)
+- [App Timer &lpar;Java&rpar;](https://www.reddit.com/r/androiddev/comments/sdhu66/app_timer_java/)
+- [StackOverflow or try to take code from github&lpar;and try to make it compatible?&rpar;](https://www.reddit.com/r/androiddev/comments/sdfvc6/stackoverflow_or_try_to_take_code_from_githuband/)
+- [Cheezam: Find cheeses from pictures and screenshot thanks to AI](https://www.reddit.com/r/androiddev/comments/sdf8m0/cheezam_find_cheeses_from_pictures_and_screenshot/)
+- [Jetpack compose with two Navigation Host, hot to go back without without recompose?](https://www.reddit.com/r/androiddev/comments/sdf83l/jetpack_compose_with_two_navigation_host_hot_to/)
+- [android ble find devices code from github downloaded and run and error](https://www.reddit.com/r/androiddev/comments/sddzr9/android_ble_find_devices_code_from_github/)
+- [While Google Maps navigation is going on, just pressing the power button shows the navigation without unlocking the phone. How are they doing this?](https://www.reddit.com/r/androiddev/comments/sdaymo/while_google_maps_navigation_is_going_on_just/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
