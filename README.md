@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [PSA: If you use Jetbrains toolbox to install Chipmunk Beta 1 it will install Canary 1 instead](https://www.reddit.com/r/androiddev/comments/sdlwn9/psa_if_you_use_jetbrains_toolbox_to_install/)
-- [CameraX Video and Extensions API survey](https://www.reddit.com/r/androiddev/comments/sdl1cj/camerax_video_and_extensions_api_survey/)
-- [Apple silicon support officially marked as fixed!](https://www.reddit.com/r/androiddev/comments/sdkvgu/apple_silicon_support_officially_marked_as_fixed/)
-- [Do you have trouble with updating your app? &lpar;Long verification delays&rpar;](https://www.reddit.com/r/androiddev/comments/sdkpwl/do_you_have_trouble_with_updating_your_app_long/)
-- [App Timer &lpar;Java&rpar;](https://www.reddit.com/r/androiddev/comments/sdhu66/app_timer_java/)
-- [StackOverflow or try to take code from github&lpar;and try to make it compatible?&rpar;](https://www.reddit.com/r/androiddev/comments/sdfvc6/stackoverflow_or_try_to_take_code_from_githuband/)
-- [Cheezam: Find cheeses from pictures and screenshot thanks to AI](https://www.reddit.com/r/androiddev/comments/sdf8m0/cheezam_find_cheeses_from_pictures_and_screenshot/)
-- [Jetpack compose with two Navigation Host, hot to go back without without recompose?](https://www.reddit.com/r/androiddev/comments/sdf83l/jetpack_compose_with_two_navigation_host_hot_to/)
-- [android ble find devices code from github downloaded and run and error](https://www.reddit.com/r/androiddev/comments/sddzr9/android_ble_find_devices_code_from_github/)
-- [While Google Maps navigation is going on, just pressing the power button shows the navigation without unlocking the phone. How are they doing this?](https://www.reddit.com/r/androiddev/comments/sdaymo/while_google_maps_navigation_is_going_on_just/)
+- [[KOTLIN] Insert Firestore Data in TextView](https://www.reddit.com/r/androiddev/comments/seehlb/kotlin_insert_firestore_data_in_textview/)
+- [help with AdMob using android studio](https://www.reddit.com/r/androiddev/comments/sedfey/help_with_admob_using_android_studio/)
+- [Make a monorepo for your Android projects](https://www.reddit.com/r/androiddev/comments/sec0ms/make_a_monorepo_for_your_android_projects/)
+- [Heavy Operations and Listeners](https://www.reddit.com/r/androiddev/comments/sea2lo/heavy_operations_and_listeners/)
+- [Resizable emulator / window where ?](https://www.reddit.com/r/androiddev/comments/se9wsv/resizable_emulator_window_where/)
+- [Android Studio Chipmunk Beta 1 now available](https://www.reddit.com/r/androiddev/comments/se9ve2/android_studio_chipmunk_beta_1_now_available/)
+- [Caribou: Use data-driven metrics to reduce your technical debt](https://www.reddit.com/r/androiddev/comments/se7ryd/caribou_use_datadriven_metrics_to_reduce_your/)
+- [Are the books about media store and the new scoped storage?](https://www.reddit.com/r/androiddev/comments/se7rc5/are_the_books_about_media_store_and_the_new/)
+- [Tracing main thread messages in Perfetto](https://www.reddit.com/r/androiddev/comments/se775b/tracing_main_thread_messages_in_perfetto/)
+- [Android Java Find and Show a List of BLE Devices](https://www.reddit.com/r/androiddev/comments/se772d/android_java_find_and_show_a_list_of_ble_devices/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
