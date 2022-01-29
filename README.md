@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[KOTLIN] Insert Firestore Data in TextView](https://www.reddit.com/r/androiddev/comments/seehlb/kotlin_insert_firestore_data_in_textview/)
-- [help with AdMob using android studio](https://www.reddit.com/r/androiddev/comments/sedfey/help_with_admob_using_android_studio/)
-- [Make a monorepo for your Android projects](https://www.reddit.com/r/androiddev/comments/sec0ms/make_a_monorepo_for_your_android_projects/)
-- [Heavy Operations and Listeners](https://www.reddit.com/r/androiddev/comments/sea2lo/heavy_operations_and_listeners/)
-- [Resizable emulator / window where ?](https://www.reddit.com/r/androiddev/comments/se9wsv/resizable_emulator_window_where/)
-- [Android Studio Chipmunk Beta 1 now available](https://www.reddit.com/r/androiddev/comments/se9ve2/android_studio_chipmunk_beta_1_now_available/)
-- [Caribou: Use data-driven metrics to reduce your technical debt](https://www.reddit.com/r/androiddev/comments/se7ryd/caribou_use_datadriven_metrics_to_reduce_your/)
-- [Are the books about media store and the new scoped storage?](https://www.reddit.com/r/androiddev/comments/se7rc5/are_the_books_about_media_store_and_the_new/)
-- [Tracing main thread messages in Perfetto](https://www.reddit.com/r/androiddev/comments/se775b/tracing_main_thread_messages_in_perfetto/)
-- [Android Java Find and Show a List of BLE Devices](https://www.reddit.com/r/androiddev/comments/se772d/android_java_find_and_show_a_list_of_ble_devices/)
+- [Speed Up Mandelbrot Drawing on Android Jetpack Compose, from 900 seconds to 4 seconds](https://www.reddit.com/r/androiddev/comments/sf55td/speed_up_mandelbrot_drawing_on_android_jetpack/)
+- [I know it&#39;s taboo to ask but, how much have you earned with your own apps so far?](https://www.reddit.com/r/androiddev/comments/sf3nx3/i_know_its_taboo_to_ask_but_how_much_have_you/)
+- [Hiring process project assignments](https://www.reddit.com/r/androiddev/comments/sf0sar/hiring_process_project_assignments/)
+- [Learn how Baseline Profiles helped Google Maps &amp; Google Play](https://www.reddit.com/r/androiddev/comments/sf0jln/learn_how_baseline_profiles_helped_google_maps/)
+- [confusion about sdk](https://www.reddit.com/r/androiddev/comments/sf0d65/confusion_about_sdk/)
+- [What is the best way to create an expandable list?](https://www.reddit.com/r/androiddev/comments/sf0ak7/what_is_the_best_way_to_create_an_expandable_list/)
+- [Mohonta&#39;s tutorial](https://www.reddit.com/r/androiddev/comments/sexoal/mohontas_tutorial/)
+- [[Q] Paging 3: How to display header before items are loaded from server?](https://www.reddit.com/r/androiddev/comments/sewz56/q_paging_3_how_to_display_header_before_items_are/)
+- [What&#39;s going on with Googleplay?](https://www.reddit.com/r/androiddev/comments/sewxry/whats_going_on_with_googleplay/)
+- [Is there a free database containing all countries in the world with their cities and neighborhoods?](https://www.reddit.com/r/androiddev/comments/sewobq/is_there_a_free_database_containing_all_countries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
