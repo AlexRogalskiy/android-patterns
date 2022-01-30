@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Speed Up Mandelbrot Drawing on Android Jetpack Compose, from 900 seconds to 4 seconds](https://www.reddit.com/r/androiddev/comments/sf55td/speed_up_mandelbrot_drawing_on_android_jetpack/)
-- [I know it&#39;s taboo to ask but, how much have you earned with your own apps so far?](https://www.reddit.com/r/androiddev/comments/sf3nx3/i_know_its_taboo_to_ask_but_how_much_have_you/)
-- [Hiring process project assignments](https://www.reddit.com/r/androiddev/comments/sf0sar/hiring_process_project_assignments/)
-- [Learn how Baseline Profiles helped Google Maps &amp; Google Play](https://www.reddit.com/r/androiddev/comments/sf0jln/learn_how_baseline_profiles_helped_google_maps/)
-- [confusion about sdk](https://www.reddit.com/r/androiddev/comments/sf0d65/confusion_about_sdk/)
-- [What is the best way to create an expandable list?](https://www.reddit.com/r/androiddev/comments/sf0ak7/what_is_the_best_way_to_create_an_expandable_list/)
-- [Mohonta&#39;s tutorial](https://www.reddit.com/r/androiddev/comments/sexoal/mohontas_tutorial/)
-- [[Q] Paging 3: How to display header before items are loaded from server?](https://www.reddit.com/r/androiddev/comments/sewz56/q_paging_3_how_to_display_header_before_items_are/)
-- [What&#39;s going on with Googleplay?](https://www.reddit.com/r/androiddev/comments/sewxry/whats_going_on_with_googleplay/)
-- [Is there a free database containing all countries in the world with their cities and neighborhoods?](https://www.reddit.com/r/androiddev/comments/sewobq/is_there_a_free_database_containing_all_countries/)
+- [Weird notification when I receive a call after phone repair](https://www.reddit.com/r/androiddev/comments/sftq6x/weird_notification_when_i_receive_a_call_after/)
+- [Button dosent repeat his function](https://www.reddit.com/r/androiddev/comments/sfrrn7/button_dosent_repeat_his_function/)
+- [Real Time Voice Chat](https://www.reddit.com/r/androiddev/comments/sfrimi/real_time_voice_chat/)
+- [Database?](https://www.reddit.com/r/androiddev/comments/sfofuc/database/)
+- [Android Dev Hangout - monthly informal gathering for our community](https://www.reddit.com/r/androiddev/comments/sfo8ul/android_dev_hangout_monthly_informal_gathering/)
+- [Possibility of black blank captured image in Android](https://www.reddit.com/r/androiddev/comments/sfmhjt/possibility_of_black_blank_captured_image_in/)
+- [I want to start developing android apps but dont know how to start](https://www.reddit.com/r/androiddev/comments/sfm1vh/i_want_to_start_developing_android_apps_but_dont/)
+- [Why would anyone pay me for adding thier app to my account?](https://www.reddit.com/r/androiddev/comments/sfiebb/why_would_anyone_pay_me_for_adding_thier_app_to/)
+- [Android Permissions on Manifest file only is enough or need to be added in MainActivity Code also.](https://www.reddit.com/r/androiddev/comments/sfgy0w/android_permissions_on_manifest_file_only_is/)
+- [Memepedia : An Android app to learn about memes](https://www.reddit.com/r/androiddev/comments/sfgo60/memepedia_an_android_app_to_learn_about_memes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
