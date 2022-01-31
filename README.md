@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Weird notification when I receive a call after phone repair](https://www.reddit.com/r/androiddev/comments/sftq6x/weird_notification_when_i_receive_a_call_after/)
-- [Button dosent repeat his function](https://www.reddit.com/r/androiddev/comments/sfrrn7/button_dosent_repeat_his_function/)
-- [Real Time Voice Chat](https://www.reddit.com/r/androiddev/comments/sfrimi/real_time_voice_chat/)
-- [Database?](https://www.reddit.com/r/androiddev/comments/sfofuc/database/)
-- [Android Dev Hangout - monthly informal gathering for our community](https://www.reddit.com/r/androiddev/comments/sfo8ul/android_dev_hangout_monthly_informal_gathering/)
-- [Possibility of black blank captured image in Android](https://www.reddit.com/r/androiddev/comments/sfmhjt/possibility_of_black_blank_captured_image_in/)
-- [I want to start developing android apps but dont know how to start](https://www.reddit.com/r/androiddev/comments/sfm1vh/i_want_to_start_developing_android_apps_but_dont/)
-- [Why would anyone pay me for adding thier app to my account?](https://www.reddit.com/r/androiddev/comments/sfiebb/why_would_anyone_pay_me_for_adding_thier_app_to/)
-- [Android Permissions on Manifest file only is enough or need to be added in MainActivity Code also.](https://www.reddit.com/r/androiddev/comments/sfgy0w/android_permissions_on_manifest_file_only_is/)
-- [Memepedia : An Android app to learn about memes](https://www.reddit.com/r/androiddev/comments/sfgo60/memepedia_an_android_app_to_learn_about_memes/)
+- [Question about before/after activities with ActivityScenarioRule](https://www.reddit.com/r/androiddev/comments/sgoej1/question_about_beforeafter_activities_with/)
+- [Thought on my upcoming weather app, it&#39;s made in flutter.](https://www.reddit.com/r/androiddev/comments/sglpqq/thought_on_my_upcoming_weather_app_its_made_in/)
+- [How are people testing Compose Multiplatform apps?](https://www.reddit.com/r/androiddev/comments/sgin70/how_are_people_testing_compose_multiplatform_apps/)
+- [MacOS Monterey with Android Studio](https://www.reddit.com/r/androiddev/comments/sggtjg/macos_monterey_with_android_studio/)
+- [Size of Samsung Galaxy clipboard &lpar;or ways to access it&rpar;](https://www.reddit.com/r/androiddev/comments/sgfobh/size_of_samsung_galaxy_clipboard_or_ways_to/)
+- [My app&#39;s similar apps are games](https://www.reddit.com/r/androiddev/comments/sgc1u8/my_apps_similar_apps_are_games/)
+- [Flutter or Native Android [Job market]](https://www.reddit.com/r/androiddev/comments/sg9xd2/flutter_or_native_android_job_market/)
+- [For some, the PIP mode with Android 12 no longer works but the fix is ​​coming](https://www.reddit.com/r/androiddev/comments/sg9led/for_some_the_pip_mode_with_android_12_no_longer/)
+- [I am quite surprised at what you can now do with Flutter](https://www.reddit.com/r/androiddev/comments/sg772u/i_am_quite_surprised_at_what_you_can_now_do_with/)
+- [Ever wonder how Android Access View Items evolve over the years?](https://www.reddit.com/r/androiddev/comments/sg6f2z/ever_wonder_how_android_access_view_items_evolve/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
