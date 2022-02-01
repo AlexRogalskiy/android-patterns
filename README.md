@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question about before/after activities with ActivityScenarioRule](https://www.reddit.com/r/androiddev/comments/sgoej1/question_about_beforeafter_activities_with/)
-- [Thought on my upcoming weather app, it&#39;s made in flutter.](https://www.reddit.com/r/androiddev/comments/sglpqq/thought_on_my_upcoming_weather_app_its_made_in/)
-- [How are people testing Compose Multiplatform apps?](https://www.reddit.com/r/androiddev/comments/sgin70/how_are_people_testing_compose_multiplatform_apps/)
-- [MacOS Monterey with Android Studio](https://www.reddit.com/r/androiddev/comments/sggtjg/macos_monterey_with_android_studio/)
-- [Size of Samsung Galaxy clipboard &lpar;or ways to access it&rpar;](https://www.reddit.com/r/androiddev/comments/sgfobh/size_of_samsung_galaxy_clipboard_or_ways_to/)
-- [My app&#39;s similar apps are games](https://www.reddit.com/r/androiddev/comments/sgc1u8/my_apps_similar_apps_are_games/)
-- [Flutter or Native Android [Job market]](https://www.reddit.com/r/androiddev/comments/sg9xd2/flutter_or_native_android_job_market/)
-- [For some, the PIP mode with Android 12 no longer works but the fix is ​​coming](https://www.reddit.com/r/androiddev/comments/sg9led/for_some_the_pip_mode_with_android_12_no_longer/)
-- [I am quite surprised at what you can now do with Flutter](https://www.reddit.com/r/androiddev/comments/sg772u/i_am_quite_surprised_at_what_you_can_now_do_with/)
-- [Ever wonder how Android Access View Items evolve over the years?](https://www.reddit.com/r/androiddev/comments/sg6f2z/ever_wonder_how_android_access_view_items_evolve/)
+- [Android Studio Plugin Development - Accessing Android Studio Theme Values](https://www.reddit.com/r/androiddev/comments/shfa3r/android_studio_plugin_development_accessing/)
+- [Input needed on my Prominent Disclosure for reading user&#39;s contacts](https://www.reddit.com/r/androiddev/comments/shcax3/input_needed_on_my_prominent_disclosure_for/)
+- [[Question] backup from android phone to WSA](https://www.reddit.com/r/androiddev/comments/shc4my/question_backup_from_android_phone_to_wsa/)
+- [CWTI - Manuel Vivo discussed Android App Architecture with us 🏗️](https://www.reddit.com/r/androiddev/comments/sh9x41/cwti_manuel_vivo_discussed_android_app/)
+- [I have 1 app in my developer account and it got suspended. Could this have any implications for the personal Google account I used to register my developer account?](https://www.reddit.com/r/androiddev/comments/sh9oqs/i_have_1_app_in_my_developer_account_and_it_got/)
+- [Android Studio Dolphin Canary 1 now available](https://www.reddit.com/r/androiddev/comments/sh8zuy/android_studio_dolphin_canary_1_now_available/)
+- [Is there a way to animate a view dynamically?](https://www.reddit.com/r/androiddev/comments/sh8x3u/is_there_a_way_to_animate_a_view_dynamically/)
+- [App crashes when share button pressed](https://www.reddit.com/r/androiddev/comments/sh8myq/app_crashes_when_share_button_pressed/)
+- [Choosingthe right database](https://www.reddit.com/r/androiddev/comments/sh80u9/choosingthe_right_database/)
+- [DataStore and synchronous read access](https://www.reddit.com/r/androiddev/comments/sh7wyh/datastore_and_synchronous_read_access/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
