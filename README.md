@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Plugin Development - Accessing Android Studio Theme Values](https://www.reddit.com/r/androiddev/comments/shfa3r/android_studio_plugin_development_accessing/)
-- [Input needed on my Prominent Disclosure for reading user&#39;s contacts](https://www.reddit.com/r/androiddev/comments/shcax3/input_needed_on_my_prominent_disclosure_for/)
-- [[Question] backup from android phone to WSA](https://www.reddit.com/r/androiddev/comments/shc4my/question_backup_from_android_phone_to_wsa/)
-- [CWTI - Manuel Vivo discussed Android App Architecture with us 🏗️](https://www.reddit.com/r/androiddev/comments/sh9x41/cwti_manuel_vivo_discussed_android_app/)
-- [I have 1 app in my developer account and it got suspended. Could this have any implications for the personal Google account I used to register my developer account?](https://www.reddit.com/r/androiddev/comments/sh9oqs/i_have_1_app_in_my_developer_account_and_it_got/)
-- [Android Studio Dolphin Canary 1 now available](https://www.reddit.com/r/androiddev/comments/sh8zuy/android_studio_dolphin_canary_1_now_available/)
-- [Is there a way to animate a view dynamically?](https://www.reddit.com/r/androiddev/comments/sh8x3u/is_there_a_way_to_animate_a_view_dynamically/)
-- [App crashes when share button pressed](https://www.reddit.com/r/androiddev/comments/sh8myq/app_crashes_when_share_button_pressed/)
-- [Choosingthe right database](https://www.reddit.com/r/androiddev/comments/sh80u9/choosingthe_right_database/)
-- [DataStore and synchronous read access](https://www.reddit.com/r/androiddev/comments/sh7wyh/datastore_and_synchronous_read_access/)
+- [Can you write an Android app that will monitor another app&#39;s screen while in the background?](https://www.reddit.com/r/androiddev/comments/si9dv6/can_you_write_an_android_app_that_will_monitor/)
+- [Build &amp; Deploy Kivy App &lpar;Python&rpar; with Buildozer on Android](https://www.reddit.com/r/androiddev/comments/si8s3w/build_deploy_kivy_app_python_with_buildozer_on/)
+- [I Started Android Development At 40](https://www.reddit.com/r/androiddev/comments/si8apx/i_started_android_development_at_40/)
+- [Find BLE DEVICES program crashes](https://www.reddit.com/r/androiddev/comments/si7i71/find_ble_devices_program_crashes/)
+- [[WIP] The main menu of my new project.](https://www.reddit.com/r/androiddev/comments/si767a/wip_the_main_menu_of_my_new_project/)
+- [New Bundle_Util a utility for bundletool](https://www.reddit.com/r/androiddev/comments/si710m/new_bundle_util_a_utility_for_bundletool/)
+- [A modern android app must have!!](https://www.reddit.com/r/androiddev/comments/si46p2/a_modern_android_app_must_have/)
+- [Best practice to connect a WearOS app to a smartphone app?](https://www.reddit.com/r/androiddev/comments/si45st/best_practice_to_connect_a_wearos_app_to_a/)
+- [Should I change my ad network from Admob to another?](https://www.reddit.com/r/androiddev/comments/si3p5t/should_i_change_my_ad_network_from_admob_to/)
+- [Guys. Quick question. Is it okay to use x86 images on an AMD CPU windows 10? I did install the Android emulator hypervisor driver instead of HAXM. But for some reason I can&#39;t use the ARM images but the x86 images seem to be working.](https://www.reddit.com/r/androiddev/comments/shy7ud/guys_quick_question_is_it_okay_to_use_x86_images/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
