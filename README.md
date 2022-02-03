@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can you write an Android app that will monitor another app&#39;s screen while in the background?](https://www.reddit.com/r/androiddev/comments/si9dv6/can_you_write_an_android_app_that_will_monitor/)
-- [Build &amp; Deploy Kivy App &lpar;Python&rpar; with Buildozer on Android](https://www.reddit.com/r/androiddev/comments/si8s3w/build_deploy_kivy_app_python_with_buildozer_on/)
-- [I Started Android Development At 40](https://www.reddit.com/r/androiddev/comments/si8apx/i_started_android_development_at_40/)
-- [Find BLE DEVICES program crashes](https://www.reddit.com/r/androiddev/comments/si7i71/find_ble_devices_program_crashes/)
-- [[WIP] The main menu of my new project.](https://www.reddit.com/r/androiddev/comments/si767a/wip_the_main_menu_of_my_new_project/)
-- [New Bundle_Util a utility for bundletool](https://www.reddit.com/r/androiddev/comments/si710m/new_bundle_util_a_utility_for_bundletool/)
-- [A modern android app must have!!](https://www.reddit.com/r/androiddev/comments/si46p2/a_modern_android_app_must_have/)
-- [Best practice to connect a WearOS app to a smartphone app?](https://www.reddit.com/r/androiddev/comments/si45st/best_practice_to_connect_a_wearos_app_to_a/)
-- [Should I change my ad network from Admob to another?](https://www.reddit.com/r/androiddev/comments/si3p5t/should_i_change_my_ad_network_from_admob_to/)
-- [Guys. Quick question. Is it okay to use x86 images on an AMD CPU windows 10? I did install the Android emulator hypervisor driver instead of HAXM. But for some reason I can&#39;t use the ARM images but the x86 images seem to be working.](https://www.reddit.com/r/androiddev/comments/shy7ud/guys_quick_question_is_it_okay_to_use_x86_images/)
+- [T-Mobile: Official &quot;mobile internet&quot; provider of the Android Emulator ... &lpar;?&rpar;](https://www.reddit.com/r/androiddev/comments/sj6geo/tmobile_official_mobile_internet_provider_of_the/)
+- [FIRC from google play console payments India?](https://www.reddit.com/r/androiddev/comments/sj4120/firc_from_google_play_console_payments_india/)
+- [What Files Do I Remove/Rename For Security? - Location Information, Play Services, etc.](https://www.reddit.com/r/androiddev/comments/sj40ub/what_files_do_i_removerename_for_security/)
+- [Android legal code push](https://www.reddit.com/r/androiddev/comments/sj1rv7/android_legal_code_push/)
+- [Asking for help about Tax form required from Google Play](https://www.reddit.com/r/androiddev/comments/sizecy/asking_for_help_about_tax_form_required_from/)
+- [Composable that return textStyle / Modifier](https://www.reddit.com/r/androiddev/comments/siy2j9/composable_that_return_textstyle_modifier/)
+- [What laptop to use?](https://www.reddit.com/r/androiddev/comments/siwr7g/what_laptop_to_use/)
+- [An iOS developer and new to Android here. In iOS when you long tap an item you should show a drop down menu with actions, and in Android you should show the actions in the top app bar, so what is the correct way to update the top app bar when you long tap an item? I’m using Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/sis7dt/an_ios_developer_and_new_to_android_here_in_ios/)
+- [Open-source Chinese keyboard: Stroke Input Method &lpar;筆畫輸入法&rpar;](https://www.reddit.com/r/androiddev/comments/sip3of/opensource_chinese_keyboard_stroke_input_method/)
+- [Help, i have lowered screen dp too low](https://www.reddit.com/r/androiddev/comments/sioimn/help_i_have_lowered_screen_dp_too_low/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
