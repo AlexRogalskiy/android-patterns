@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [T-Mobile: Official &quot;mobile internet&quot; provider of the Android Emulator ... &lpar;?&rpar;](https://www.reddit.com/r/androiddev/comments/sj6geo/tmobile_official_mobile_internet_provider_of_the/)
-- [FIRC from google play console payments India?](https://www.reddit.com/r/androiddev/comments/sj4120/firc_from_google_play_console_payments_india/)
-- [What Files Do I Remove/Rename For Security? - Location Information, Play Services, etc.](https://www.reddit.com/r/androiddev/comments/sj40ub/what_files_do_i_removerename_for_security/)
-- [Android legal code push](https://www.reddit.com/r/androiddev/comments/sj1rv7/android_legal_code_push/)
-- [Asking for help about Tax form required from Google Play](https://www.reddit.com/r/androiddev/comments/sizecy/asking_for_help_about_tax_form_required_from/)
-- [Composable that return textStyle / Modifier](https://www.reddit.com/r/androiddev/comments/siy2j9/composable_that_return_textstyle_modifier/)
-- [What laptop to use?](https://www.reddit.com/r/androiddev/comments/siwr7g/what_laptop_to_use/)
-- [An iOS developer and new to Android here. In iOS when you long tap an item you should show a drop down menu with actions, and in Android you should show the actions in the top app bar, so what is the correct way to update the top app bar when you long tap an item? I’m using Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/sis7dt/an_ios_developer_and_new_to_android_here_in_ios/)
-- [Open-source Chinese keyboard: Stroke Input Method &lpar;筆畫輸入法&rpar;](https://www.reddit.com/r/androiddev/comments/sip3of/opensource_chinese_keyboard_stroke_input_method/)
-- [Help, i have lowered screen dp too low](https://www.reddit.com/r/androiddev/comments/sioimn/help_i_have_lowered_screen_dp_too_low/)
+- [Maps Compose: Jetpack Compose components for the Maps SDK for Android](https://www.reddit.com/r/androiddev/comments/sjxdg3/maps_compose_jetpack_compose_components_for_the/)
+- [Delay in revenue reporting?](https://www.reddit.com/r/androiddev/comments/sjw2eb/delay_in_revenue_reporting/)
+- [For those of you who implemented IAP in their apps — are there any easy ways of doing this?](https://www.reddit.com/r/androiddev/comments/sjv8mh/for_those_of_you_who_implemented_iap_in_their/)
+- [Logic inside adapter?](https://www.reddit.com/r/androiddev/comments/sjtchv/logic_inside_adapter/)
+- [CWTI - Chris Sinco re-designs Ivan&#39;s app live on Twitch #FigmaMaster 😱](https://www.reddit.com/r/androiddev/comments/sjskgm/cwti_chris_sinco_redesigns_ivans_app_live_on/)
+- [multiDexEnabled confusion](https://www.reddit.com/r/androiddev/comments/sjrrel/multidexenabled_confusion/)
+- [How to fit a Composable into the view when scrolling?](https://www.reddit.com/r/androiddev/comments/sjr8no/how_to_fit_a_composable_into_the_view_when/)
+- [Security processes in app development](https://www.reddit.com/r/androiddev/comments/sjq9lp/security_processes_in_app_development/)
+- [Changing app type from &quot;app&quot; to &quot;game&quot; in order to access Play Game Services](https://www.reddit.com/r/androiddev/comments/sjpg9x/changing_app_type_from_app_to_game_in_order_to/)
+- [Can i fake it to be a Senior Android Developer](https://www.reddit.com/r/androiddev/comments/sjo39i/can_i_fake_it_to_be_a_senior_android_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
