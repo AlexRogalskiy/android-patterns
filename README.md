@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Maps Compose: Jetpack Compose components for the Maps SDK for Android](https://www.reddit.com/r/androiddev/comments/sjxdg3/maps_compose_jetpack_compose_components_for_the/)
-- [Delay in revenue reporting?](https://www.reddit.com/r/androiddev/comments/sjw2eb/delay_in_revenue_reporting/)
-- [For those of you who implemented IAP in their apps — are there any easy ways of doing this?](https://www.reddit.com/r/androiddev/comments/sjv8mh/for_those_of_you_who_implemented_iap_in_their/)
-- [Logic inside adapter?](https://www.reddit.com/r/androiddev/comments/sjtchv/logic_inside_adapter/)
-- [CWTI - Chris Sinco re-designs Ivan&#39;s app live on Twitch #FigmaMaster 😱](https://www.reddit.com/r/androiddev/comments/sjskgm/cwti_chris_sinco_redesigns_ivans_app_live_on/)
-- [multiDexEnabled confusion](https://www.reddit.com/r/androiddev/comments/sjrrel/multidexenabled_confusion/)
-- [How to fit a Composable into the view when scrolling?](https://www.reddit.com/r/androiddev/comments/sjr8no/how_to_fit_a_composable_into_the_view_when/)
-- [Security processes in app development](https://www.reddit.com/r/androiddev/comments/sjq9lp/security_processes_in_app_development/)
-- [Changing app type from &quot;app&quot; to &quot;game&quot; in order to access Play Game Services](https://www.reddit.com/r/androiddev/comments/sjpg9x/changing_app_type_from_app_to_game_in_order_to/)
-- [Can i fake it to be a Senior Android Developer](https://www.reddit.com/r/androiddev/comments/sjo39i/can_i_fake_it_to_be_a_senior_android_developer/)
+- [Uninstall Chrome](https://www.reddit.com/r/androiddev/comments/sktqbm/uninstall_chrome/)
+- [Can I use native ads in between user-generated content?](https://www.reddit.com/r/androiddev/comments/sktlkh/can_i_use_native_ads_in_between_usergenerated/)
+- [In-app purchase refunded for &quot;Friendly fraud&quot;?](https://www.reddit.com/r/androiddev/comments/skszby/inapp_purchase_refunded_for_friendly_fraud/)
+- [Android Studio Bumblebee | 2021.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/sko495/android_studio_bumblebee_202111_patch_1_now/)
+- [Why can&#39;t some versions &lpar;like Bumblebee patch 1&rpar; automatically installed?](https://www.reddit.com/r/androiddev/comments/skme6e/why_cant_some_versions_like_bumblebee_patch_1/)
+- [Compose Navigation Reimagined](https://www.reddit.com/r/androiddev/comments/skm69f/compose_navigation_reimagined/)
+- [Best way to store arrays](https://www.reddit.com/r/androiddev/comments/skl7ui/best_way_to_store_arrays/)
+- [hot-loading / cached classes for faster development ?](https://www.reddit.com/r/androiddev/comments/skkj9v/hotloading_cached_classes_for_faster_development/)
+- [What would you like to see Stripe improve on Android?](https://www.reddit.com/r/androiddev/comments/skixzr/what_would_you_like_to_see_stripe_improve_on/)
+- [Android Developer Tips: Interview with Danny Preussler a SoundCloud Android engineer, LifeStyle + AndroidCommunity + encouraging junior developers + Technical + Kotlin](https://www.reddit.com/r/androiddev/comments/skgxuo/android_developer_tips_interview_with_danny/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
