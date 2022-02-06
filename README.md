@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Uninstall Chrome](https://www.reddit.com/r/androiddev/comments/sktqbm/uninstall_chrome/)
-- [Can I use native ads in between user-generated content?](https://www.reddit.com/r/androiddev/comments/sktlkh/can_i_use_native_ads_in_between_usergenerated/)
-- [In-app purchase refunded for &quot;Friendly fraud&quot;?](https://www.reddit.com/r/androiddev/comments/skszby/inapp_purchase_refunded_for_friendly_fraud/)
-- [Android Studio Bumblebee | 2021.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/sko495/android_studio_bumblebee_202111_patch_1_now/)
-- [Why can&#39;t some versions &lpar;like Bumblebee patch 1&rpar; automatically installed?](https://www.reddit.com/r/androiddev/comments/skme6e/why_cant_some_versions_like_bumblebee_patch_1/)
-- [Compose Navigation Reimagined](https://www.reddit.com/r/androiddev/comments/skm69f/compose_navigation_reimagined/)
-- [Best way to store arrays](https://www.reddit.com/r/androiddev/comments/skl7ui/best_way_to_store_arrays/)
-- [hot-loading / cached classes for faster development ?](https://www.reddit.com/r/androiddev/comments/skkj9v/hotloading_cached_classes_for_faster_development/)
-- [What would you like to see Stripe improve on Android?](https://www.reddit.com/r/androiddev/comments/skixzr/what_would_you_like_to_see_stripe_improve_on/)
-- [Android Developer Tips: Interview with Danny Preussler a SoundCloud Android engineer, LifeStyle + AndroidCommunity + encouraging junior developers + Technical + Kotlin](https://www.reddit.com/r/androiddev/comments/skgxuo/android_developer_tips_interview_with_danny/)
+- [Fragment Coding Structure is Different from Activity?](https://www.reddit.com/r/androiddev/comments/sllqff/fragment_coding_structure_is_different_from/)
+- [What is the best way to store sensitive data?](https://www.reddit.com/r/androiddev/comments/slh5gh/what_is_the_best_way_to_store_sensitive_data/)
+- [Hundreds of installs but no user activity](https://www.reddit.com/r/androiddev/comments/slg175/hundreds_of_installs_but_no_user_activity/)
+- [Am I the only one who feels like Google is pushing us to wildly overuse fragments?](https://www.reddit.com/r/androiddev/comments/slfdyk/am_i_the_only_one_who_feels_like_google_is/)
+- [Android Studio - automatic stats on how long I work on which project](https://www.reddit.com/r/androiddev/comments/slb61j/android_studio_automatic_stats_on_how_long_i_work/)
+- [Best way to match screen sizes in compose &lpar;dp/sp&rpar;?](https://www.reddit.com/r/androiddev/comments/slabtq/best_way_to_match_screen_sizes_in_compose_dpsp/)
+- [Handling Dismiss State for ModalBottomSheetLayout &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/sl8rx4/handling_dismiss_state_for_modalbottomsheetlayout/)
+- [How does Apps recognize Bans in 2022? &lpar;Jodel&rpar;](https://www.reddit.com/r/androiddev/comments/sl8jav/how_does_apps_recognize_bans_in_2022_jodel/)
+- [Text recognition](https://www.reddit.com/r/androiddev/comments/sl8ipl/text_recognition/)
+- [App Access testing with auth code received in email](https://www.reddit.com/r/androiddev/comments/sl7olr/app_access_testing_with_auth_code_received_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
