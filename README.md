@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fragment Coding Structure is Different from Activity?](https://www.reddit.com/r/androiddev/comments/sllqff/fragment_coding_structure_is_different_from/)
-- [What is the best way to store sensitive data?](https://www.reddit.com/r/androiddev/comments/slh5gh/what_is_the_best_way_to_store_sensitive_data/)
-- [Hundreds of installs but no user activity](https://www.reddit.com/r/androiddev/comments/slg175/hundreds_of_installs_but_no_user_activity/)
-- [Am I the only one who feels like Google is pushing us to wildly overuse fragments?](https://www.reddit.com/r/androiddev/comments/slfdyk/am_i_the_only_one_who_feels_like_google_is/)
-- [Android Studio - automatic stats on how long I work on which project](https://www.reddit.com/r/androiddev/comments/slb61j/android_studio_automatic_stats_on_how_long_i_work/)
-- [Best way to match screen sizes in compose &lpar;dp/sp&rpar;?](https://www.reddit.com/r/androiddev/comments/slabtq/best_way_to_match_screen_sizes_in_compose_dpsp/)
-- [Handling Dismiss State for ModalBottomSheetLayout &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/sl8rx4/handling_dismiss_state_for_modalbottomsheetlayout/)
-- [How does Apps recognize Bans in 2022? &lpar;Jodel&rpar;](https://www.reddit.com/r/androiddev/comments/sl8jav/how_does_apps_recognize_bans_in_2022_jodel/)
-- [Text recognition](https://www.reddit.com/r/androiddev/comments/sl8ipl/text_recognition/)
-- [App Access testing with auth code received in email](https://www.reddit.com/r/androiddev/comments/sl7olr/app_access_testing_with_auth_code_received_in/)
+- [Multiple viewmodels](https://www.reddit.com/r/androiddev/comments/sm8tin/multiple_viewmodels/)
+- [Developers from outside the US, did you upload your Card ID as proof when you fill the TAX form?](https://www.reddit.com/r/androiddev/comments/sm7vcl/developers_from_outside_the_us_did_you_upload/)
+- [I like to download random apps and see the UI, any idea how they did this sliding screen that collapses into the small view on the bottom? if you go back to the dashboard it&#39;s there too and it expands to show the same fragment](https://www.reddit.com/r/androiddev/comments/sm1vqc/i_like_to_download_random_apps_and_see_the_ui_any/)
+- [Open Source Alternative to LinkPreview API](https://www.reddit.com/r/androiddev/comments/sm1ggm/open_source_alternative_to_linkpreview_api/)
+- [Indie devs, how do you guys get direct feedback for your app?](https://www.reddit.com/r/androiddev/comments/slyyq9/indie_devs_how_do_you_guys_get_direct_feedback/)
+- [Does ML Kit Performance varies by device?](https://www.reddit.com/r/androiddev/comments/sltojv/does_ml_kit_performance_varies_by_device/)
+- [Why Build Apps?](https://www.reddit.com/r/androiddev/comments/sls1tv/why_build_apps/)
+- [Problem: App release isn&#39;t showing up on Google Play](https://www.reddit.com/r/androiddev/comments/slrjm0/problem_app_release_isnt_showing_up_on_google_play/)
+- [What country is FAN available of service?](https://www.reddit.com/r/androiddev/comments/slpfw8/what_country_is_fan_available_of_service/)
+- [Any solo developer making over $500K / year?](https://www.reddit.com/r/androiddev/comments/slol66/any_solo_developer_making_over_500k_year/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
