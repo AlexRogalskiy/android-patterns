@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Multiple viewmodels](https://www.reddit.com/r/androiddev/comments/sm8tin/multiple_viewmodels/)
-- [Developers from outside the US, did you upload your Card ID as proof when you fill the TAX form?](https://www.reddit.com/r/androiddev/comments/sm7vcl/developers_from_outside_the_us_did_you_upload/)
-- [I like to download random apps and see the UI, any idea how they did this sliding screen that collapses into the small view on the bottom? if you go back to the dashboard it&#39;s there too and it expands to show the same fragment](https://www.reddit.com/r/androiddev/comments/sm1vqc/i_like_to_download_random_apps_and_see_the_ui_any/)
-- [Open Source Alternative to LinkPreview API](https://www.reddit.com/r/androiddev/comments/sm1ggm/open_source_alternative_to_linkpreview_api/)
-- [Indie devs, how do you guys get direct feedback for your app?](https://www.reddit.com/r/androiddev/comments/slyyq9/indie_devs_how_do_you_guys_get_direct_feedback/)
-- [Does ML Kit Performance varies by device?](https://www.reddit.com/r/androiddev/comments/sltojv/does_ml_kit_performance_varies_by_device/)
-- [Why Build Apps?](https://www.reddit.com/r/androiddev/comments/sls1tv/why_build_apps/)
-- [Problem: App release isn&#39;t showing up on Google Play](https://www.reddit.com/r/androiddev/comments/slrjm0/problem_app_release_isnt_showing_up_on_google_play/)
-- [What country is FAN available of service?](https://www.reddit.com/r/androiddev/comments/slpfw8/what_country_is_fan_available_of_service/)
-- [Any solo developer making over $500K / year?](https://www.reddit.com/r/androiddev/comments/slol66/any_solo_developer_making_over_500k_year/)
+- [Word bank in android studio](https://www.reddit.com/r/androiddev/comments/sn1ctn/word_bank_in_android_studio/)
+- [Which mediation networks do you recommend now that MoPub is going away?](https://www.reddit.com/r/androiddev/comments/smzjho/which_mediation_networks_do_you_recommend_now/)
+- [CWTI - INDIE HACKING - Our interview with Alex Styl](https://www.reddit.com/r/androiddev/comments/smz2be/cwti_indie_hacking_our_interview_with_alex_styl/)
+- [Building apps with libGDX](https://www.reddit.com/r/androiddev/comments/smynv9/building_apps_with_libgdx/)
+- [I made an app that matches you with the right co-founder.](https://www.reddit.com/r/androiddev/comments/smwl5u/i_made_an_app_that_matches_you_with_the_right/)
+- [is Selendroid what I&#39;m looking for?](https://www.reddit.com/r/androiddev/comments/smwh9s/is_selendroid_what_im_looking_for/)
+- [Payment per hour for App Development?](https://www.reddit.com/r/androiddev/comments/smvtd8/payment_per_hour_for_app_development/)
+- [Android studio](https://www.reddit.com/r/androiddev/comments/smuxnp/android_studio/)
+- [What depths should I choose between Android and Flutter?](https://www.reddit.com/r/androiddev/comments/smtyf0/what_depths_should_i_choose_between_android_and/)
+- [Weekly Who&#39;s Hiring Thread - February 07, 2022](https://www.reddit.com/r/androiddev/comments/smqwg8/weekly_whos_hiring_thread_february_07_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
