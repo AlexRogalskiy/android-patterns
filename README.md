@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Word bank in android studio](https://www.reddit.com/r/androiddev/comments/sn1ctn/word_bank_in_android_studio/)
-- [Which mediation networks do you recommend now that MoPub is going away?](https://www.reddit.com/r/androiddev/comments/smzjho/which_mediation_networks_do_you_recommend_now/)
-- [CWTI - INDIE HACKING - Our interview with Alex Styl](https://www.reddit.com/r/androiddev/comments/smz2be/cwti_indie_hacking_our_interview_with_alex_styl/)
-- [Building apps with libGDX](https://www.reddit.com/r/androiddev/comments/smynv9/building_apps_with_libgdx/)
-- [I made an app that matches you with the right co-founder.](https://www.reddit.com/r/androiddev/comments/smwl5u/i_made_an_app_that_matches_you_with_the_right/)
-- [is Selendroid what I&#39;m looking for?](https://www.reddit.com/r/androiddev/comments/smwh9s/is_selendroid_what_im_looking_for/)
-- [Payment per hour for App Development?](https://www.reddit.com/r/androiddev/comments/smvtd8/payment_per_hour_for_app_development/)
-- [Android studio](https://www.reddit.com/r/androiddev/comments/smuxnp/android_studio/)
-- [What depths should I choose between Android and Flutter?](https://www.reddit.com/r/androiddev/comments/smtyf0/what_depths_should_i_choose_between_android_and/)
-- [Weekly Who&#39;s Hiring Thread - February 07, 2022](https://www.reddit.com/r/androiddev/comments/smqwg8/weekly_whos_hiring_thread_february_07_2022/)
+- [Newbie Question!](https://www.reddit.com/r/androiddev/comments/snwucg/newbie_question/)
+- [Ble scan should find bluetooth mobile phones or not?](https://www.reddit.com/r/androiddev/comments/snwkfd/ble_scan_should_find_bluetooth_mobile_phones_or/)
+- [What&#39;s your strategy for figuring out Gradle errors?](https://www.reddit.com/r/androiddev/comments/snvznj/whats_your_strategy_for_figuring_out_gradle_errors/)
+- [Regarding of metadata policy violation](https://www.reddit.com/r/androiddev/comments/snsy25/regarding_of_metadata_policy_violation/)
+- [My app is removed because this ad is running in my app!!](https://www.reddit.com/r/androiddev/comments/snrwwo/my_app_is_removed_because_this_ad_is_running_in/)
+- [question about locked screen security issue](https://www.reddit.com/r/androiddev/comments/snron7/question_about_locked_screen_security_issue/)
+- [Preview of Kotlin 1.6.20 With Prototype of Context Receivers, Parallel Compilation on JVM, Incremental Compilation in JS, and More](https://www.reddit.com/r/androiddev/comments/snplwc/preview_of_kotlin_1620_with_prototype_of_context/)
+- [How do you enable GLES 3.0+ in the Android Emulator?](https://www.reddit.com/r/androiddev/comments/snpltf/how_do_you_enable_gles_30_in_the_android_emulator/)
+- [Flowbius: Kotlin Flow and Spotify Mobius interop](https://www.reddit.com/r/androiddev/comments/snpl7c/flowbius_kotlin_flow_and_spotify_mobius_interop/)
+- [Jetpack DataStore simplest example for save and read key?](https://www.reddit.com/r/androiddev/comments/snp96o/jetpack_datastore_simplest_example_for_save_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
