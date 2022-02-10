@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Newbie Question!](https://www.reddit.com/r/androiddev/comments/snwucg/newbie_question/)
-- [Ble scan should find bluetooth mobile phones or not?](https://www.reddit.com/r/androiddev/comments/snwkfd/ble_scan_should_find_bluetooth_mobile_phones_or/)
-- [What&#39;s your strategy for figuring out Gradle errors?](https://www.reddit.com/r/androiddev/comments/snvznj/whats_your_strategy_for_figuring_out_gradle_errors/)
-- [Regarding of metadata policy violation](https://www.reddit.com/r/androiddev/comments/snsy25/regarding_of_metadata_policy_violation/)
-- [My app is removed because this ad is running in my app!!](https://www.reddit.com/r/androiddev/comments/snrwwo/my_app_is_removed_because_this_ad_is_running_in/)
-- [question about locked screen security issue](https://www.reddit.com/r/androiddev/comments/snron7/question_about_locked_screen_security_issue/)
-- [Preview of Kotlin 1.6.20 With Prototype of Context Receivers, Parallel Compilation on JVM, Incremental Compilation in JS, and More](https://www.reddit.com/r/androiddev/comments/snplwc/preview_of_kotlin_1620_with_prototype_of_context/)
-- [How do you enable GLES 3.0+ in the Android Emulator?](https://www.reddit.com/r/androiddev/comments/snpltf/how_do_you_enable_gles_30_in_the_android_emulator/)
-- [Flowbius: Kotlin Flow and Spotify Mobius interop](https://www.reddit.com/r/androiddev/comments/snpl7c/flowbius_kotlin_flow_and_spotify_mobius_interop/)
-- [Jetpack DataStore simplest example for save and read key?](https://www.reddit.com/r/androiddev/comments/snp96o/jetpack_datastore_simplest_example_for_save_and/)
+- [App crashes on play console, Works on test device](https://www.reddit.com/r/androiddev/comments/sorlyn/app_crashes_on_play_console_works_on_test_device/)
+- [Solutions for Transcoding Media for Mobile App](https://www.reddit.com/r/androiddev/comments/sorg0g/solutions_for_transcoding_media_for_mobile_app/)
+- [How do I know when Firebase is getting data in Android?](https://www.reddit.com/r/androiddev/comments/sor31g/how_do_i_know_when_firebase_is_getting_data_in/)
+- [What&#39;s the point to make Android 12L compatible with Pixel 4a, 5, 6... if 12L is designed for tablets? I understand that Google wants to inform that this version is compatible with these devices, but it doesn&#39;t make sense since they&#39;re smartphones 🤷](https://www.reddit.com/r/androiddev/comments/soqbc7/whats_the_point_to_make_android_12l_compatible/)
+- [Implementing Live Data functionality with node.js api](https://www.reddit.com/r/androiddev/comments/soo6gm/implementing_live_data_functionality_with_nodejs/)
+- [My app crashes while starting the intent&lpar;after pressing the button&rpar;](https://www.reddit.com/r/androiddev/comments/somlpc/my_app_crashes_while_starting_the_intentafter/)
+- [Dynamic UI webview inside recyclerview](https://www.reddit.com/r/androiddev/comments/sokp4a/dynamic_ui_webview_inside_recyclerview/)
+- [How can I record video and store it in app specific folder instead of gallery?](https://www.reddit.com/r/androiddev/comments/sokok9/how_can_i_record_video_and_store_it_in_app/)
+- [Finding a Job Abroad](https://www.reddit.com/r/androiddev/comments/soknyq/finding_a_job_abroad/)
+- [Lost all the source code, trying to come back as a Dev.](https://www.reddit.com/r/androiddev/comments/sokla8/lost_all_the_source_code_trying_to_come_back_as_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
