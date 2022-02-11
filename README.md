@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App crashes on play console, Works on test device](https://www.reddit.com/r/androiddev/comments/sorlyn/app_crashes_on_play_console_works_on_test_device/)
-- [Solutions for Transcoding Media for Mobile App](https://www.reddit.com/r/androiddev/comments/sorg0g/solutions_for_transcoding_media_for_mobile_app/)
-- [How do I know when Firebase is getting data in Android?](https://www.reddit.com/r/androiddev/comments/sor31g/how_do_i_know_when_firebase_is_getting_data_in/)
-- [What&#39;s the point to make Android 12L compatible with Pixel 4a, 5, 6... if 12L is designed for tablets? I understand that Google wants to inform that this version is compatible with these devices, but it doesn&#39;t make sense since they&#39;re smartphones 🤷](https://www.reddit.com/r/androiddev/comments/soqbc7/whats_the_point_to_make_android_12l_compatible/)
-- [Implementing Live Data functionality with node.js api](https://www.reddit.com/r/androiddev/comments/soo6gm/implementing_live_data_functionality_with_nodejs/)
-- [My app crashes while starting the intent&lpar;after pressing the button&rpar;](https://www.reddit.com/r/androiddev/comments/somlpc/my_app_crashes_while_starting_the_intentafter/)
-- [Dynamic UI webview inside recyclerview](https://www.reddit.com/r/androiddev/comments/sokp4a/dynamic_ui_webview_inside_recyclerview/)
-- [How can I record video and store it in app specific folder instead of gallery?](https://www.reddit.com/r/androiddev/comments/sokok9/how_can_i_record_video_and_store_it_in_app/)
-- [Finding a Job Abroad](https://www.reddit.com/r/androiddev/comments/soknyq/finding_a_job_abroad/)
-- [Lost all the source code, trying to come back as a Dev.](https://www.reddit.com/r/androiddev/comments/sokla8/lost_all_the_source_code_trying_to_come_back_as_a/)
+- [Anybody else with a Reddit third party client noticing videos stuttering, stopping, starting, slow loading over the last month or so? Hoping somebody can shred some light...](https://www.reddit.com/r/androiddev/comments/spigoj/anybody_else_with_a_reddit_third_party_client/)
+- [How to get intellectual property approved in play store listing?](https://www.reddit.com/r/androiddev/comments/spi4sk/how_to_get_intellectual_property_approved_in_play/)
+- [How does Cloud Firestore work?](https://www.reddit.com/r/androiddev/comments/sphi0j/how_does_cloud_firestore_work/)
+- [Open sourcing an app. Pitfalls ? Positive sides?](https://www.reddit.com/r/androiddev/comments/spgpwk/open_sourcing_an_app_pitfalls_positive_sides/)
+- [ML On The Job](https://www.reddit.com/r/androiddev/comments/spg8t1/ml_on_the_job/)
+- [CWTI - Compose ALL the things! 🌮 Foldables, wearables, TVs and more — with Clara Bayarri](https://www.reddit.com/r/androiddev/comments/spfdn8/cwti_compose_all_the_things_foldables_wearables/)
+- [TomTom IndiGO](https://www.reddit.com/r/androiddev/comments/spf0z4/tomtom_indigo/)
+- [Google Developer Account terminated](https://www.reddit.com/r/androiddev/comments/spesct/google_developer_account_terminated/)
+- [Get Android 13 | Android 13 Developer Preview | Android Developers](https://www.reddit.com/r/androiddev/comments/spd45r/get_android_13_android_13_developer_preview/)
+- [Is it possible to create a custom HotSpot wrapper app that can allow/decline acccess to other users and limit HotSpot sharing by time or data?](https://www.reddit.com/r/androiddev/comments/spbuaf/is_it_possible_to_create_a_custom_hotspot_wrapper/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
