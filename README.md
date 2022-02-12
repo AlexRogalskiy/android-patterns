@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anybody else with a Reddit third party client noticing videos stuttering, stopping, starting, slow loading over the last month or so? Hoping somebody can shred some light...](https://www.reddit.com/r/androiddev/comments/spigoj/anybody_else_with_a_reddit_third_party_client/)
-- [How to get intellectual property approved in play store listing?](https://www.reddit.com/r/androiddev/comments/spi4sk/how_to_get_intellectual_property_approved_in_play/)
-- [How does Cloud Firestore work?](https://www.reddit.com/r/androiddev/comments/sphi0j/how_does_cloud_firestore_work/)
-- [Open sourcing an app. Pitfalls ? Positive sides?](https://www.reddit.com/r/androiddev/comments/spgpwk/open_sourcing_an_app_pitfalls_positive_sides/)
-- [ML On The Job](https://www.reddit.com/r/androiddev/comments/spg8t1/ml_on_the_job/)
-- [CWTI - Compose ALL the things! 🌮 Foldables, wearables, TVs and more — with Clara Bayarri](https://www.reddit.com/r/androiddev/comments/spfdn8/cwti_compose_all_the_things_foldables_wearables/)
-- [TomTom IndiGO](https://www.reddit.com/r/androiddev/comments/spf0z4/tomtom_indigo/)
-- [Google Developer Account terminated](https://www.reddit.com/r/androiddev/comments/spesct/google_developer_account_terminated/)
-- [Get Android 13 | Android 13 Developer Preview | Android Developers](https://www.reddit.com/r/androiddev/comments/spd45r/get_android_13_android_13_developer_preview/)
-- [Is it possible to create a custom HotSpot wrapper app that can allow/decline acccess to other users and limit HotSpot sharing by time or data?](https://www.reddit.com/r/androiddev/comments/spbuaf/is_it_possible_to_create_a_custom_hotspot_wrapper/)
+- [This is scaring me a little bit](https://www.reddit.com/r/androiddev/comments/sqf167/this_is_scaring_me_a_little_bit/)
+- [Google Analytics and gdpr](https://www.reddit.com/r/androiddev/comments/sq82hs/google_analytics_and_gdpr/)
+- [Crop image into rectangle](https://www.reddit.com/r/androiddev/comments/sq6l2p/crop_image_into_rectangle/)
+- [Android Studio Dolphin Canary 2 now available](https://www.reddit.com/r/androiddev/comments/sq5eg7/android_studio_dolphin_canary_2_now_available/)
+- [Android Studio Chipmunk Beta 2 now available](https://www.reddit.com/r/androiddev/comments/sq5efh/android_studio_chipmunk_beta_2_now_available/)
+- [TextView Problem in Android Studio](https://www.reddit.com/r/androiddev/comments/sq5dwf/textview_problem_in_android_studio/)
+- [It is possible that Google make dual boot Android L tablets and Chrome os in one device so seamisly switch between desktop and tablet or it is something technologically difficult?](https://www.reddit.com/r/androiddev/comments/sq4ehl/it_is_possible_that_google_make_dual_boot_android/)
+- [Learning #Jetpack #Compose Series Part 3 video is published. 🎥](https://www.reddit.com/r/androiddev/comments/sq4eey/learning_jetpack_compose_series_part_3_video_is/)
+- [Open link from push notification in app](https://www.reddit.com/r/androiddev/comments/sq3x8p/open_link_from_push_notification_in_app/)
+- [Urgent help](https://www.reddit.com/r/androiddev/comments/sq3szw/urgent_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
