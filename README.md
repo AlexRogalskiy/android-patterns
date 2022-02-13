@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [This is scaring me a little bit](https://www.reddit.com/r/androiddev/comments/sqf167/this_is_scaring_me_a_little_bit/)
-- [Google Analytics and gdpr](https://www.reddit.com/r/androiddev/comments/sq82hs/google_analytics_and_gdpr/)
-- [Crop image into rectangle](https://www.reddit.com/r/androiddev/comments/sq6l2p/crop_image_into_rectangle/)
-- [Android Studio Dolphin Canary 2 now available](https://www.reddit.com/r/androiddev/comments/sq5eg7/android_studio_dolphin_canary_2_now_available/)
-- [Android Studio Chipmunk Beta 2 now available](https://www.reddit.com/r/androiddev/comments/sq5efh/android_studio_chipmunk_beta_2_now_available/)
-- [TextView Problem in Android Studio](https://www.reddit.com/r/androiddev/comments/sq5dwf/textview_problem_in_android_studio/)
-- [It is possible that Google make dual boot Android L tablets and Chrome os in one device so seamisly switch between desktop and tablet or it is something technologically difficult?](https://www.reddit.com/r/androiddev/comments/sq4ehl/it_is_possible_that_google_make_dual_boot_android/)
-- [Learning #Jetpack #Compose Series Part 3 video is published. 🎥](https://www.reddit.com/r/androiddev/comments/sq4eey/learning_jetpack_compose_series_part_3_video_is/)
-- [Open link from push notification in app](https://www.reddit.com/r/androiddev/comments/sq3x8p/open_link_from_push_notification_in_app/)
-- [Urgent help](https://www.reddit.com/r/androiddev/comments/sq3szw/urgent_help/)
+- [How to create food delivery app?](https://www.reddit.com/r/androiddev/comments/sr6pu0/how_to_create_food_delivery_app/)
+- [How to create food delivery app?](https://www.reddit.com/r/androiddev/comments/sr6psh/how_to_create_food_delivery_app/)
+- [Data Safety Form](https://www.reddit.com/r/androiddev/comments/sr3d5g/data_safety_form/)
+- [Proguard error](https://www.reddit.com/r/androiddev/comments/sr2j60/proguard_error/)
+- [Online Booking System in my App](https://www.reddit.com/r/androiddev/comments/sr0cwb/online_booking_system_in_my_app/)
+- [Flutter or Android](https://www.reddit.com/r/androiddev/comments/sqwie6/flutter_or_android/)
+- [Using IDEA JDK and JRE for android studio](https://www.reddit.com/r/androiddev/comments/squipz/using_idea_jdk_and_jre_for_android_studio/)
+- [Flutter freelancing veterans share your experience with everyone.](https://www.reddit.com/r/androiddev/comments/squ9wd/flutter_freelancing_veterans_share_your/)
+- [Advise needed ! offline db that syncs to production postgres db](https://www.reddit.com/r/androiddev/comments/sqtu15/advise_needed_offline_db_that_syncs_to_production/)
+- [MVVM repository accessing Room database](https://www.reddit.com/r/androiddev/comments/sqtikv/mvvm_repository_accessing_room_database/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
