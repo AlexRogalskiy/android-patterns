@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to create food delivery app?](https://www.reddit.com/r/androiddev/comments/sr6pu0/how_to_create_food_delivery_app/)
-- [How to create food delivery app?](https://www.reddit.com/r/androiddev/comments/sr6psh/how_to_create_food_delivery_app/)
-- [Data Safety Form](https://www.reddit.com/r/androiddev/comments/sr3d5g/data_safety_form/)
-- [Proguard error](https://www.reddit.com/r/androiddev/comments/sr2j60/proguard_error/)
-- [Online Booking System in my App](https://www.reddit.com/r/androiddev/comments/sr0cwb/online_booking_system_in_my_app/)
-- [Flutter or Android](https://www.reddit.com/r/androiddev/comments/sqwie6/flutter_or_android/)
-- [Using IDEA JDK and JRE for android studio](https://www.reddit.com/r/androiddev/comments/squipz/using_idea_jdk_and_jre_for_android_studio/)
-- [Flutter freelancing veterans share your experience with everyone.](https://www.reddit.com/r/androiddev/comments/squ9wd/flutter_freelancing_veterans_share_your/)
-- [Advise needed ! offline db that syncs to production postgres db](https://www.reddit.com/r/androiddev/comments/sqtu15/advise_needed_offline_db_that_syncs_to_production/)
-- [MVVM repository accessing Room database](https://www.reddit.com/r/androiddev/comments/sqtikv/mvvm_repository_accessing_room_database/)
+- [Does anyone have tips for &quot;mobile coding&quot; interviews?](https://www.reddit.com/r/androiddev/comments/srvtqq/does_anyone_have_tips_for_mobile_coding_interviews/)
+- [How to advertise?](https://www.reddit.com/r/androiddev/comments/sruu5e/how_to_advertise/)
+- [Using manycam within an android app - White screen](https://www.reddit.com/r/androiddev/comments/srsqiu/using_manycam_within_an_android_app_white_screen/)
+- [Converting my webapp to an app - For an androiddev novice](https://www.reddit.com/r/androiddev/comments/srslp3/converting_my_webapp_to_an_app_for_an_androiddev/)
+- [BLE Transfer data](https://www.reddit.com/r/androiddev/comments/srqq6v/ble_transfer_data/)
+- [Best practices for notifying user of billing errors &lpar;or errors in general&rpar;](https://www.reddit.com/r/androiddev/comments/srmrl8/best_practices_for_notifying_user_of_billing/)
+- [Anyone else experiencing long review times right now?](https://www.reddit.com/r/androiddev/comments/srkmk0/anyone_else_experiencing_long_review_times_right/)
+- [How to set up donations inside my app?](https://www.reddit.com/r/androiddev/comments/srki3m/how_to_set_up_donations_inside_my_app/)
+- [Google holds my payout because of GPBR_SVID, did you face the same issue before?](https://www.reddit.com/r/androiddev/comments/sri55z/google_holds_my_payout_because_of_gpbr_svid_did/)
+- [I want to make a subscription gifting system](https://www.reddit.com/r/androiddev/comments/srfzxe/i_want_to_make_a_subscription_gifting_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
