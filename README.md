@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does anyone have tips for &quot;mobile coding&quot; interviews?](https://www.reddit.com/r/androiddev/comments/srvtqq/does_anyone_have_tips_for_mobile_coding_interviews/)
-- [How to advertise?](https://www.reddit.com/r/androiddev/comments/sruu5e/how_to_advertise/)
-- [Using manycam within an android app - White screen](https://www.reddit.com/r/androiddev/comments/srsqiu/using_manycam_within_an_android_app_white_screen/)
-- [Converting my webapp to an app - For an androiddev novice](https://www.reddit.com/r/androiddev/comments/srslp3/converting_my_webapp_to_an_app_for_an_androiddev/)
-- [BLE Transfer data](https://www.reddit.com/r/androiddev/comments/srqq6v/ble_transfer_data/)
-- [Best practices for notifying user of billing errors &lpar;or errors in general&rpar;](https://www.reddit.com/r/androiddev/comments/srmrl8/best_practices_for_notifying_user_of_billing/)
-- [Anyone else experiencing long review times right now?](https://www.reddit.com/r/androiddev/comments/srkmk0/anyone_else_experiencing_long_review_times_right/)
-- [How to set up donations inside my app?](https://www.reddit.com/r/androiddev/comments/srki3m/how_to_set_up_donations_inside_my_app/)
-- [Google holds my payout because of GPBR_SVID, did you face the same issue before?](https://www.reddit.com/r/androiddev/comments/sri55z/google_holds_my_payout_because_of_gpbr_svid_did/)
-- [I want to make a subscription gifting system](https://www.reddit.com/r/androiddev/comments/srfzxe/i_want_to_make_a_subscription_gifting_system/)
+- [Anyone have experience with verysdk?](https://www.reddit.com/r/androiddev/comments/ssq3nf/anyone_have_experience_with_verysdk/)
+- [create a an app with 1 screen application I created only layout help me to make full application](https://www.reddit.com/r/androiddev/comments/ssosid/create_a_an_app_with_1_screen_application_i/)
+- [Good book that is new enough to include Compose?](https://www.reddit.com/r/androiddev/comments/ssorvf/good_book_that_is_new_enough_to_include_compose/)
+- [Are &#39;cloned&#39; apps allowed on Play Store?](https://www.reddit.com/r/androiddev/comments/ssnai1/are_cloned_apps_allowed_on_play_store/)
+- [App Dev.](https://www.reddit.com/r/androiddev/comments/ssn7p3/app_dev/)
+- [How to migrate an existing app to compose?](https://www.reddit.com/r/androiddev/comments/ssn725/how_to_migrate_an_existing_app_to_compose/)
+- [What should I use for running a background service for a websocket connection?](https://www.reddit.com/r/androiddev/comments/ssljo8/what_should_i_use_for_running_a_background/)
+- [Android Studio Dolphin Canary 3 now available](https://www.reddit.com/r/androiddev/comments/sskxuz/android_studio_dolphin_canary_3_now_available/)
+- [Why using Navigation-Compose in your Jetpack Compose app is a bad idea](https://www.reddit.com/r/androiddev/comments/ssitcx/why_using_navigationcompose_in_your_jetpack/)
+- [CWTI - Compose 1.1 and Android 13 are out! Let&#39;s see what&#39;s new and what we can play with 💪🏻](https://www.reddit.com/r/androiddev/comments/ssisp7/cwti_compose_11_and_android_13_are_out_lets_see/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
