@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone have experience with verysdk?](https://www.reddit.com/r/androiddev/comments/ssq3nf/anyone_have_experience_with_verysdk/)
-- [create a an app with 1 screen application I created only layout help me to make full application](https://www.reddit.com/r/androiddev/comments/ssosid/create_a_an_app_with_1_screen_application_i/)
-- [Good book that is new enough to include Compose?](https://www.reddit.com/r/androiddev/comments/ssorvf/good_book_that_is_new_enough_to_include_compose/)
-- [Are &#39;cloned&#39; apps allowed on Play Store?](https://www.reddit.com/r/androiddev/comments/ssnai1/are_cloned_apps_allowed_on_play_store/)
-- [App Dev.](https://www.reddit.com/r/androiddev/comments/ssn7p3/app_dev/)
-- [How to migrate an existing app to compose?](https://www.reddit.com/r/androiddev/comments/ssn725/how_to_migrate_an_existing_app_to_compose/)
-- [What should I use for running a background service for a websocket connection?](https://www.reddit.com/r/androiddev/comments/ssljo8/what_should_i_use_for_running_a_background/)
-- [Android Studio Dolphin Canary 3 now available](https://www.reddit.com/r/androiddev/comments/sskxuz/android_studio_dolphin_canary_3_now_available/)
-- [Why using Navigation-Compose in your Jetpack Compose app is a bad idea](https://www.reddit.com/r/androiddev/comments/ssitcx/why_using_navigationcompose_in_your_jetpack/)
-- [CWTI - Compose 1.1 and Android 13 are out! Let&#39;s see what&#39;s new and what we can play with 💪🏻](https://www.reddit.com/r/androiddev/comments/ssisp7/cwti_compose_11_and_android_13_are_out_lets_see/)
+- [AVD ANRs](https://www.reddit.com/r/androiddev/comments/stigth/avd_anrs/)
+- [android mystery icon](https://www.reddit.com/r/androiddev/comments/stga69/android_mystery_icon/)
+- [Viewpager2 vs activity hosting multiple fragments](https://www.reddit.com/r/androiddev/comments/stfkqp/viewpager2_vs_activity_hosting_multiple_fragments/)
+- [Genymotion Issue](https://www.reddit.com/r/androiddev/comments/stef3h/genymotion_issue/)
+- [Compose LazyColumn inside Alertdialog crash on scroll](https://www.reddit.com/r/androiddev/comments/stdp3j/compose_lazycolumn_inside_alertdialog_crash_on/)
+- [Android studio is a great piece of software](https://www.reddit.com/r/androiddev/comments/std72l/android_studio_is_a_great_piece_of_software/)
+- [&quot;Hold Shift to control camera&quot; in Android Studio](https://www.reddit.com/r/androiddev/comments/stbx60/hold_shift_to_control_camera_in_android_studio/)
+- [Is battery optimization the reason where sometimes home widget is broken?](https://www.reddit.com/r/androiddev/comments/staxf9/is_battery_optimization_the_reason_where/)
+- [Correct way to architect an single insert event from fragment](https://www.reddit.com/r/androiddev/comments/stac7s/correct_way_to_architect_an_single_insert_event/)
+- [Which field to pursue Android dev or front dev? Tried both and equally like them. Which has more job opportunities in India?](https://www.reddit.com/r/androiddev/comments/st9rfa/which_field_to_pursue_android_dev_or_front_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
