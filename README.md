@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AVD ANRs](https://www.reddit.com/r/androiddev/comments/stigth/avd_anrs/)
-- [android mystery icon](https://www.reddit.com/r/androiddev/comments/stga69/android_mystery_icon/)
-- [Viewpager2 vs activity hosting multiple fragments](https://www.reddit.com/r/androiddev/comments/stfkqp/viewpager2_vs_activity_hosting_multiple_fragments/)
-- [Genymotion Issue](https://www.reddit.com/r/androiddev/comments/stef3h/genymotion_issue/)
-- [Compose LazyColumn inside Alertdialog crash on scroll](https://www.reddit.com/r/androiddev/comments/stdp3j/compose_lazycolumn_inside_alertdialog_crash_on/)
-- [Android studio is a great piece of software](https://www.reddit.com/r/androiddev/comments/std72l/android_studio_is_a_great_piece_of_software/)
-- [&quot;Hold Shift to control camera&quot; in Android Studio](https://www.reddit.com/r/androiddev/comments/stbx60/hold_shift_to_control_camera_in_android_studio/)
-- [Is battery optimization the reason where sometimes home widget is broken?](https://www.reddit.com/r/androiddev/comments/staxf9/is_battery_optimization_the_reason_where/)
-- [Correct way to architect an single insert event from fragment](https://www.reddit.com/r/androiddev/comments/stac7s/correct_way_to_architect_an_single_insert_event/)
-- [Which field to pursue Android dev or front dev? Tried both and equally like them. Which has more job opportunities in India?](https://www.reddit.com/r/androiddev/comments/st9rfa/which_field_to_pursue_android_dev_or_front_dev/)
+- [Android 12 Adaptive icon not updating when theme changes](https://www.reddit.com/r/androiddev/comments/su8os2/android_12_adaptive_icon_not_updating_when_theme/)
+- [🌱 Chameleon: color palettes creation](https://www.reddit.com/r/androiddev/comments/su65jd/chameleon_color_palettes_creation/)
+- [CS Freshman, looking for the next step](https://www.reddit.com/r/androiddev/comments/su64o2/cs_freshman_looking_for_the_next_step/)
+- [Is it possible to write an app, that changes certain settings?](https://www.reddit.com/r/androiddev/comments/su2y5f/is_it_possible_to_write_an_app_that_changes/)
+- [How can I move a Path object drawn on the canvas?](https://www.reddit.com/r/androiddev/comments/su2rho/how_can_i_move_a_path_object_drawn_on_the_canvas/)
+- [Why do most of the CS students choose web-dev against Android/IOS?](https://www.reddit.com/r/androiddev/comments/su1jlw/why_do_most_of_the_cs_students_choose_webdev/)
+- [Replacing an audio file in a 3rd party app?](https://www.reddit.com/r/androiddev/comments/su1afc/replacing_an_audio_file_in_a_3rd_party_app/)
+- [Daily life quotes app](https://www.reddit.com/r/androiddev/comments/su127a/daily_life_quotes_app/)
+- [Can anyone recommend automated testing tools similar to Ghost Inspector for mobile apps? Where you can quickly build tests using a GUI / screen recorder?](https://www.reddit.com/r/androiddev/comments/su0l73/can_anyone_recommend_automated_testing_tools/)
+- [How to add compose dependency in &#39;domain&#39;?](https://www.reddit.com/r/androiddev/comments/stzr32/how_to_add_compose_dependency_in_domain/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
