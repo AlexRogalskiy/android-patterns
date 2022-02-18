@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android 12 Adaptive icon not updating when theme changes](https://www.reddit.com/r/androiddev/comments/su8os2/android_12_adaptive_icon_not_updating_when_theme/)
-- [🌱 Chameleon: color palettes creation](https://www.reddit.com/r/androiddev/comments/su65jd/chameleon_color_palettes_creation/)
-- [CS Freshman, looking for the next step](https://www.reddit.com/r/androiddev/comments/su64o2/cs_freshman_looking_for_the_next_step/)
-- [Is it possible to write an app, that changes certain settings?](https://www.reddit.com/r/androiddev/comments/su2y5f/is_it_possible_to_write_an_app_that_changes/)
-- [How can I move a Path object drawn on the canvas?](https://www.reddit.com/r/androiddev/comments/su2rho/how_can_i_move_a_path_object_drawn_on_the_canvas/)
-- [Why do most of the CS students choose web-dev against Android/IOS?](https://www.reddit.com/r/androiddev/comments/su1jlw/why_do_most_of_the_cs_students_choose_webdev/)
-- [Replacing an audio file in a 3rd party app?](https://www.reddit.com/r/androiddev/comments/su1afc/replacing_an_audio_file_in_a_3rd_party_app/)
-- [Daily life quotes app](https://www.reddit.com/r/androiddev/comments/su127a/daily_life_quotes_app/)
-- [Can anyone recommend automated testing tools similar to Ghost Inspector for mobile apps? Where you can quickly build tests using a GUI / screen recorder?](https://www.reddit.com/r/androiddev/comments/su0l73/can_anyone_recommend_automated_testing_tools/)
-- [How to add compose dependency in &#39;domain&#39;?](https://www.reddit.com/r/androiddev/comments/stzr32/how_to_add_compose_dependency_in_domain/)
+- [Play Integrity API - anybody verifying tokens themselves?](https://www.reddit.com/r/androiddev/comments/sv55cx/play_integrity_api_anybody_verifying_tokens/)
+- [Delete app bundle in google play console?](https://www.reddit.com/r/androiddev/comments/suz41t/delete_app_bundle_in_google_play_console/)
+- [At the fronter of the app](https://www.reddit.com/r/androiddev/comments/suyc2p/at_the_fronter_of_the_app/)
+- [Google maps api floor button](https://www.reddit.com/r/androiddev/comments/suwl2r/google_maps_api_floor_button/)
+- [Type c devices sometimes work sometimes you not](https://www.reddit.com/r/androiddev/comments/suwg7m/type_c_devices_sometimes_work_sometimes_you_not/)
+- [It&#39;s showing an Unresolved reference while I am working on Facebook login integration in my app. Please help!](https://www.reddit.com/r/androiddev/comments/suw67z/its_showing_an_unresolved_reference_while_i_am/)
+- [Is there a way to record each user event in my app?](https://www.reddit.com/r/androiddev/comments/suvygg/is_there_a_way_to_record_each_user_event_in_my_app/)
+- [Can I combine native &amp; cross-platform technologies in the same app?](https://www.reddit.com/r/androiddev/comments/suv997/can_i_combine_native_crossplatform_technologies/)
+- [Best Learning platforms](https://www.reddit.com/r/androiddev/comments/suu2us/best_learning_platforms/)
+- [Help and guidance required 🙏](https://www.reddit.com/r/androiddev/comments/suspae/help_and_guidance_required/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
