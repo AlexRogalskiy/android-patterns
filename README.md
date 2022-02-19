@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Play Integrity API - anybody verifying tokens themselves?](https://www.reddit.com/r/androiddev/comments/sv55cx/play_integrity_api_anybody_verifying_tokens/)
-- [Delete app bundle in google play console?](https://www.reddit.com/r/androiddev/comments/suz41t/delete_app_bundle_in_google_play_console/)
-- [At the fronter of the app](https://www.reddit.com/r/androiddev/comments/suyc2p/at_the_fronter_of_the_app/)
-- [Google maps api floor button](https://www.reddit.com/r/androiddev/comments/suwl2r/google_maps_api_floor_button/)
-- [Type c devices sometimes work sometimes you not](https://www.reddit.com/r/androiddev/comments/suwg7m/type_c_devices_sometimes_work_sometimes_you_not/)
-- [It&#39;s showing an Unresolved reference while I am working on Facebook login integration in my app. Please help!](https://www.reddit.com/r/androiddev/comments/suw67z/its_showing_an_unresolved_reference_while_i_am/)
-- [Is there a way to record each user event in my app?](https://www.reddit.com/r/androiddev/comments/suvygg/is_there_a_way_to_record_each_user_event_in_my_app/)
-- [Can I combine native &amp; cross-platform technologies in the same app?](https://www.reddit.com/r/androiddev/comments/suv997/can_i_combine_native_crossplatform_technologies/)
-- [Best Learning platforms](https://www.reddit.com/r/androiddev/comments/suu2us/best_learning_platforms/)
-- [Help and guidance required 🙏](https://www.reddit.com/r/androiddev/comments/suspae/help_and_guidance_required/)
+- [Unbundling the stable WindowManager](https://www.reddit.com/r/androiddev/comments/svv9pf/unbundling_the_stable_windowmanager/)
+- [Admob Account Disabled for 0.5% Invalid Traffic](https://www.reddit.com/r/androiddev/comments/svtv2s/admob_account_disabled_for_05_invalid_traffic/)
+- [Jetpack Compose: MaterialTheme Typography: Huge font size](https://www.reddit.com/r/androiddev/comments/svskyt/jetpack_compose_materialtheme_typography_huge/)
+- [I&#39;ve two Google Play Console accounts, can I close one without worrying about the other one](https://www.reddit.com/r/androiddev/comments/svs7no/ive_two_google_play_console_accounts_can_i_close/)
+- [how to solve &quot;Weak encryption mode&quot; and write Proof of Concept](https://www.reddit.com/r/androiddev/comments/svo83v/how_to_solve_weak_encryption_mode_and_write_proof/)
+- [Android Studio export compliance](https://www.reddit.com/r/androiddev/comments/svn8q8/android_studio_export_compliance/)
+- [What is the most correct approach for nested database in Room?](https://www.reddit.com/r/androiddev/comments/svknda/what_is_the_most_correct_approach_for_nested/)
+- [[MiroTalk] - webRTC sfu/p2p - compatible with all browsers &amp; platforms.](https://www.reddit.com/r/androiddev/comments/svjkyf/mirotalk_webrtc_sfup2p_compatible_with_all/)
+- [Is there a way to insert password in a PDF file?](https://www.reddit.com/r/androiddev/comments/svj1wk/is_there_a_way_to_insert_password_in_a_pdf_file/)
+- [App Feedback Thread - February 18, 2022](https://www.reddit.com/r/androiddev/comments/svimy1/app_feedback_thread_february_18_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
