@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Unbundling the stable WindowManager](https://www.reddit.com/r/androiddev/comments/svv9pf/unbundling_the_stable_windowmanager/)
-- [Admob Account Disabled for 0.5% Invalid Traffic](https://www.reddit.com/r/androiddev/comments/svtv2s/admob_account_disabled_for_05_invalid_traffic/)
-- [Jetpack Compose: MaterialTheme Typography: Huge font size](https://www.reddit.com/r/androiddev/comments/svskyt/jetpack_compose_materialtheme_typography_huge/)
-- [I&#39;ve two Google Play Console accounts, can I close one without worrying about the other one](https://www.reddit.com/r/androiddev/comments/svs7no/ive_two_google_play_console_accounts_can_i_close/)
-- [how to solve &quot;Weak encryption mode&quot; and write Proof of Concept](https://www.reddit.com/r/androiddev/comments/svo83v/how_to_solve_weak_encryption_mode_and_write_proof/)
-- [Android Studio export compliance](https://www.reddit.com/r/androiddev/comments/svn8q8/android_studio_export_compliance/)
-- [What is the most correct approach for nested database in Room?](https://www.reddit.com/r/androiddev/comments/svknda/what_is_the_most_correct_approach_for_nested/)
-- [[MiroTalk] - webRTC sfu/p2p - compatible with all browsers &amp; platforms.](https://www.reddit.com/r/androiddev/comments/svjkyf/mirotalk_webrtc_sfup2p_compatible_with_all/)
-- [Is there a way to insert password in a PDF file?](https://www.reddit.com/r/androiddev/comments/svj1wk/is_there_a_way_to_insert_password_in_a_pdf_file/)
-- [App Feedback Thread - February 18, 2022](https://www.reddit.com/r/androiddev/comments/svimy1/app_feedback_thread_february_18_2022/)
+- [How to create Adapters easily](https://www.reddit.com/r/androiddev/comments/swmjc0/how_to_create_adapters_easily/)
+- [Compose vs XML&lpar;View System&rpar;](https://www.reddit.com/r/androiddev/comments/swj6tw/compose_vs_xmlview_system/)
+- [What&#39;s the best way to use a tree data structure as state in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/switrq/whats_the_best_way_to_use_a_tree_data_structure/)
+- [Why am I seeing a work profile?](https://www.reddit.com/r/androiddev/comments/swipcs/why_am_i_seeing_a_work_profile/)
+- [Recommendations for Android &lpar;Kotlin&rpar; Developer Bootcamps](https://www.reddit.com/r/androiddev/comments/swhy0c/recommendations_for_android_kotlin_developer/)
+- [Is Android Studio the most straightforward way of making an APK, ADD, or is there something easier ?](https://www.reddit.com/r/androiddev/comments/swh5y9/is_android_studio_the_most_straightforward_way_of/)
+- [Can anyone code review my app?](https://www.reddit.com/r/androiddev/comments/swghyg/can_anyone_code_review_my_app/)
+- [Android emulator not flagged as one](https://www.reddit.com/r/androiddev/comments/swf43f/android_emulator_not_flagged_as_one/)
+- [Strange wake lock flag](https://www.reddit.com/r/androiddev/comments/sweqba/strange_wake_lock_flag/)
+- [Android Stem! - Concatenate XML strings at compile time](https://www.reddit.com/r/androiddev/comments/swdaix/android_stem_concatenate_xml_strings_at_compile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
