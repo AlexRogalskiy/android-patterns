@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to create Adapters easily](https://www.reddit.com/r/androiddev/comments/swmjc0/how_to_create_adapters_easily/)
-- [Compose vs XML&lpar;View System&rpar;](https://www.reddit.com/r/androiddev/comments/swj6tw/compose_vs_xmlview_system/)
-- [What&#39;s the best way to use a tree data structure as state in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/switrq/whats_the_best_way_to_use_a_tree_data_structure/)
-- [Why am I seeing a work profile?](https://www.reddit.com/r/androiddev/comments/swipcs/why_am_i_seeing_a_work_profile/)
-- [Recommendations for Android &lpar;Kotlin&rpar; Developer Bootcamps](https://www.reddit.com/r/androiddev/comments/swhy0c/recommendations_for_android_kotlin_developer/)
-- [Is Android Studio the most straightforward way of making an APK, ADD, or is there something easier ?](https://www.reddit.com/r/androiddev/comments/swh5y9/is_android_studio_the_most_straightforward_way_of/)
-- [Can anyone code review my app?](https://www.reddit.com/r/androiddev/comments/swghyg/can_anyone_code_review_my_app/)
-- [Android emulator not flagged as one](https://www.reddit.com/r/androiddev/comments/swf43f/android_emulator_not_flagged_as_one/)
-- [Strange wake lock flag](https://www.reddit.com/r/androiddev/comments/sweqba/strange_wake_lock_flag/)
-- [Android Stem! - Concatenate XML strings at compile time](https://www.reddit.com/r/androiddev/comments/swdaix/android_stem_concatenate_xml_strings_at_compile/)
+- [How can I change drawable path for an ImageView once the user has inputted a letter associated with a picture?](https://www.reddit.com/r/androiddev/comments/sxhcw7/how_can_i_change_drawable_path_for_an_imageview/)
+- [Libraries for SAF that allow selection of multiple files/directories on app start?](https://www.reddit.com/r/androiddev/comments/sxb32c/libraries_for_saf_that_allow_selection_of/)
+- [How is the phone volume controlled?](https://www.reddit.com/r/androiddev/comments/sx9a7r/how_is_the_phone_volume_controlled/)
+- [Protecting unlocked bootloader](https://www.reddit.com/r/androiddev/comments/sx8q22/protecting_unlocked_bootloader/)
+- [Can I place a button under a button?](https://www.reddit.com/r/androiddev/comments/sx7ukb/can_i_place_a_button_under_a_button/)
+- [Is it just me or is Android development hard AF to learn? I&#39;ve been following some courses and YT videos for about a month, and I feel so overwhelmed. Do you have some tips for me?](https://www.reddit.com/r/androiddev/comments/sx4dxy/is_it_just_me_or_is_android_development_hard_af/)
+- [Bytecode transformations: The Android Gradle Plugin](https://www.reddit.com/r/androiddev/comments/sx3ljo/bytecode_transformations_the_android_gradle_plugin/)
+- [Location permissions in Android is a mess](https://www.reddit.com/r/androiddev/comments/sx2xp5/location_permissions_in_android_is_a_mess/)
+- [When I add TextView in Custom View, all elements become invisible.](https://www.reddit.com/r/androiddev/comments/sx2t3i/when_i_add_textview_in_custom_view_all_elements/)
+- [How bad is it to serialize objects or small lists as JSON and save them in shared preferences?](https://www.reddit.com/r/androiddev/comments/sx18uh/how_bad_is_it_to_serialize_objects_or_small_lists/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
