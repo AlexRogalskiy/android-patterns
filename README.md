@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How can I change drawable path for an ImageView once the user has inputted a letter associated with a picture?](https://www.reddit.com/r/androiddev/comments/sxhcw7/how_can_i_change_drawable_path_for_an_imageview/)
-- [Libraries for SAF that allow selection of multiple files/directories on app start?](https://www.reddit.com/r/androiddev/comments/sxb32c/libraries_for_saf_that_allow_selection_of/)
-- [How is the phone volume controlled?](https://www.reddit.com/r/androiddev/comments/sx9a7r/how_is_the_phone_volume_controlled/)
-- [Protecting unlocked bootloader](https://www.reddit.com/r/androiddev/comments/sx8q22/protecting_unlocked_bootloader/)
-- [Can I place a button under a button?](https://www.reddit.com/r/androiddev/comments/sx7ukb/can_i_place_a_button_under_a_button/)
-- [Is it just me or is Android development hard AF to learn? I&#39;ve been following some courses and YT videos for about a month, and I feel so overwhelmed. Do you have some tips for me?](https://www.reddit.com/r/androiddev/comments/sx4dxy/is_it_just_me_or_is_android_development_hard_af/)
-- [Bytecode transformations: The Android Gradle Plugin](https://www.reddit.com/r/androiddev/comments/sx3ljo/bytecode_transformations_the_android_gradle_plugin/)
-- [Location permissions in Android is a mess](https://www.reddit.com/r/androiddev/comments/sx2xp5/location_permissions_in_android_is_a_mess/)
-- [When I add TextView in Custom View, all elements become invisible.](https://www.reddit.com/r/androiddev/comments/sx2t3i/when_i_add_textview_in_custom_view_all_elements/)
-- [How bad is it to serialize objects or small lists as JSON and save them in shared preferences?](https://www.reddit.com/r/androiddev/comments/sx18uh/how_bad_is_it_to_serialize_objects_or_small_lists/)
+- [How is it possible for an app to show in GetApps &lpar;Xiaomi&#39;s own app store&rpar; when it is published only in Google Play Store?](https://www.reddit.com/r/androiddev/comments/syaqws/how_is_it_possible_for_an_app_to_show_in_getapps/)
+- [Want to learn how to code in Android Studio](https://www.reddit.com/r/androiddev/comments/sy8sb2/want_to_learn_how_to_code_in_android_studio/)
+- [Beginner Trouble with Adapter and recycler views](https://www.reddit.com/r/androiddev/comments/sy7u5x/beginner_trouble_with_adapter_and_recycler_views/)
+- [How do you come up with pro features that costs money for your app?](https://www.reddit.com/r/androiddev/comments/sy4gbb/how_do_you_come_up_with_pro_features_that_costs/)
+- [Sigma | Coding for everyone!](https://www.reddit.com/r/androiddev/comments/sy0wd5/sigma_coding_for_everyone/)
+- [Riddle: Why is google bot removing my app from google play?](https://www.reddit.com/r/androiddev/comments/sxytfe/riddle_why_is_google_bot_removing_my_app_from/)
+- [CWTI - Scaling our designs to tablets — live design in Figma with Chris Sinco](https://www.reddit.com/r/androiddev/comments/sxurtp/cwti_scaling_our_designs_to_tablets_live_design/)
+- [Up to date script for uploading to google play store?](https://www.reddit.com/r/androiddev/comments/sxu7su/up_to_date_script_for_uploading_to_google_play/)
+- [Weekly Who&#39;s Hiring Thread - February 21, 2022](https://www.reddit.com/r/androiddev/comments/sxu6l4/weekly_whos_hiring_thread_february_21_2022/)
+- [In app updates and Interstitial ads](https://www.reddit.com/r/androiddev/comments/sxtxql/in_app_updates_and_interstitial_ads/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
