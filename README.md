@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How is it possible for an app to show in GetApps &lpar;Xiaomi&#39;s own app store&rpar; when it is published only in Google Play Store?](https://www.reddit.com/r/androiddev/comments/syaqws/how_is_it_possible_for_an_app_to_show_in_getapps/)
-- [Want to learn how to code in Android Studio](https://www.reddit.com/r/androiddev/comments/sy8sb2/want_to_learn_how_to_code_in_android_studio/)
-- [Beginner Trouble with Adapter and recycler views](https://www.reddit.com/r/androiddev/comments/sy7u5x/beginner_trouble_with_adapter_and_recycler_views/)
-- [How do you come up with pro features that costs money for your app?](https://www.reddit.com/r/androiddev/comments/sy4gbb/how_do_you_come_up_with_pro_features_that_costs/)
-- [Sigma | Coding for everyone!](https://www.reddit.com/r/androiddev/comments/sy0wd5/sigma_coding_for_everyone/)
-- [Riddle: Why is google bot removing my app from google play?](https://www.reddit.com/r/androiddev/comments/sxytfe/riddle_why_is_google_bot_removing_my_app_from/)
-- [CWTI - Scaling our designs to tablets — live design in Figma with Chris Sinco](https://www.reddit.com/r/androiddev/comments/sxurtp/cwti_scaling_our_designs_to_tablets_live_design/)
-- [Up to date script for uploading to google play store?](https://www.reddit.com/r/androiddev/comments/sxu7su/up_to_date_script_for_uploading_to_google_play/)
-- [Weekly Who&#39;s Hiring Thread - February 21, 2022](https://www.reddit.com/r/androiddev/comments/sxu6l4/weekly_whos_hiring_thread_february_21_2022/)
-- [In app updates and Interstitial ads](https://www.reddit.com/r/androiddev/comments/sxtxql/in_app_updates_and_interstitial_ads/)
+- [Considering the demand, should I learn Java over Kotlin?](https://www.reddit.com/r/androiddev/comments/sz4r02/considering_the_demand_should_i_learn_java_over/)
+- [Why recyclerview scrollToPosition not working correctly with long lists?](https://www.reddit.com/r/androiddev/comments/sywuxp/why_recyclerview_scrolltoposition_not_working/)
+- [Can I use a real SIM card with emulated/virtualized Android?](https://www.reddit.com/r/androiddev/comments/sywtu1/can_i_use_a_real_sim_card_with/)
+- [Introduction to RICOH THETA X Plug-in Development &lpar;Android OS based 360 degree camera&rpar;](https://www.reddit.com/r/androiddev/comments/sywd82/introduction_to_ricoh_theta_x_plugin_development/)
+- [Personal Project for Android Revision](https://www.reddit.com/r/androiddev/comments/syvz6x/personal_project_for_android_revision/)
+- [FlutterFlow - what&#39;s your opinion &lpar;for these kinds of apps I&#39;d like to develop&rpar; ?](https://www.reddit.com/r/androiddev/comments/syv40s/flutterflow_whats_your_opinion_for_these_kinds_of/)
+- [Manually installing split APK files &lpar;App Bundles&rpar; via ADB](https://www.reddit.com/r/androiddev/comments/syu6b5/manually_installing_split_apk_files_app_bundles/)
+- [benchmarks and managed code vs unmanaged code](https://www.reddit.com/r/androiddev/comments/sytdsz/benchmarks_and_managed_code_vs_unmanaged_code/)
+- [New Android Studio warning: ComplicationProviderService deprecated](https://www.reddit.com/r/androiddev/comments/sysaxp/new_android_studio_warning/)
+- [study material for learning android auto](https://www.reddit.com/r/androiddev/comments/sys8oj/study_material_for_learning_android_auto/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
