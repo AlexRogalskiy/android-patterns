@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Considering the demand, should I learn Java over Kotlin?](https://www.reddit.com/r/androiddev/comments/sz4r02/considering_the_demand_should_i_learn_java_over/)
-- [Why recyclerview scrollToPosition not working correctly with long lists?](https://www.reddit.com/r/androiddev/comments/sywuxp/why_recyclerview_scrolltoposition_not_working/)
-- [Can I use a real SIM card with emulated/virtualized Android?](https://www.reddit.com/r/androiddev/comments/sywtu1/can_i_use_a_real_sim_card_with/)
-- [Introduction to RICOH THETA X Plug-in Development &lpar;Android OS based 360 degree camera&rpar;](https://www.reddit.com/r/androiddev/comments/sywd82/introduction_to_ricoh_theta_x_plugin_development/)
-- [Personal Project for Android Revision](https://www.reddit.com/r/androiddev/comments/syvz6x/personal_project_for_android_revision/)
-- [FlutterFlow - what&#39;s your opinion &lpar;for these kinds of apps I&#39;d like to develop&rpar; ?](https://www.reddit.com/r/androiddev/comments/syv40s/flutterflow_whats_your_opinion_for_these_kinds_of/)
-- [Manually installing split APK files &lpar;App Bundles&rpar; via ADB](https://www.reddit.com/r/androiddev/comments/syu6b5/manually_installing_split_apk_files_app_bundles/)
-- [benchmarks and managed code vs unmanaged code](https://www.reddit.com/r/androiddev/comments/sytdsz/benchmarks_and_managed_code_vs_unmanaged_code/)
-- [New Android Studio warning: ComplicationProviderService deprecated](https://www.reddit.com/r/androiddev/comments/sysaxp/new_android_studio_warning/)
-- [study material for learning android auto](https://www.reddit.com/r/androiddev/comments/sys8oj/study_material_for_learning_android_auto/)
+- [Hey there! Does anyone know if cross promotion is allowed within an app, to my other app?](https://www.reddit.com/r/androiddev/comments/szyer2/hey_there_does_anyone_know_if_cross_promotion_is/)
+- [Android Studio Bumblebee | 2021.1.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/szxc0o/android_studio_bumblebee_202111_patch_2_now/)
+- [Floating Action Button in Fragment](https://www.reddit.com/r/androiddev/comments/szxa4q/floating_action_button_in_fragment/)
+- [Using Forismatic Quote API in an android app?](https://www.reddit.com/r/androiddev/comments/szsqot/using_forismatic_quote_api_in_an_android_app/)
+- [Is it worth using Google Play&#39;s Preregister for a mobile game?](https://www.reddit.com/r/androiddev/comments/szqy65/is_it_worth_using_google_plays_preregister_for_a/)
+- [android algorithms](https://www.reddit.com/r/androiddev/comments/szqsmi/android_algorithms/)
+- [Best Website to find App Developers?](https://www.reddit.com/r/androiddev/comments/szqiga/best_website_to_find_app_developers/)
+- [Android Keystore permanent lock fix?](https://www.reddit.com/r/androiddev/comments/szovtz/android_keystore_permanent_lock_fix/)
+- [Need help to change the button function.](https://www.reddit.com/r/androiddev/comments/szop80/need_help_to_change_the_button_function/)
+- [Help needed, I can&#39;t understand the `contract`way to have result form activity](https://www.reddit.com/r/androiddev/comments/szn4ax/help_needed_i_cant_understand_the_contractway_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
