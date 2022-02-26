@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cannot power off emulator with system image 30.](https://www.reddit.com/r/androiddev/comments/t0rrh3/cannot_power_off_emulator_with_system_image_30/)
-- [Where do I put this Java code? Forismatic Java API](https://www.reddit.com/r/androiddev/comments/t0qs3v/where_do_i_put_this_java_code_forismatic_java_api/)
-- [Gboard Grammar Checking on non-Pixel](https://www.reddit.com/r/androiddev/comments/t0pnck/gboard_grammar_checking_on_nonpixel/)
-- [As JetBrains we condemn the attacks taking place &lpar;JetBrains on Twitter&rpar;](https://www.reddit.com/r/androiddev/comments/t0my0s/as_jetbrains_we_condemn_the_attacks_taking_place/)
-- [Volley or Retrofit2](https://www.reddit.com/r/androiddev/comments/t0kr3t/volley_or_retrofit2/)
-- [What do you write in the &quot;skills&quot; section of your resume, relevant to Android Dev?](https://www.reddit.com/r/androiddev/comments/t0ki74/what_do_you_write_in_the_skills_section_of_your/)
-- [PDF view and drawing](https://www.reddit.com/r/androiddev/comments/t0h2ux/pdf_view_and_drawing/)
-- [Is there easy way to build ffmpeg.aar with windows?](https://www.reddit.com/r/androiddev/comments/t0h1gb/is_there_easy_way_to_build_ffmpegaar_with_windows/)
-- [How to remove listener from button](https://www.reddit.com/r/androiddev/comments/t0ermn/how_to_remove_listener_from_button/)
-- [Notification/Broadcast Receiver!](https://www.reddit.com/r/androiddev/comments/t0c4li/notificationbroadcast_receiver/)
+- [A must know for an android tech leader &amp; good sites to get value information about development](https://www.reddit.com/r/androiddev/comments/t1j7u3/a_must_know_for_an_android_tech_leader_good_sites/)
+- [Hello everyone, this is my first puzzle game ever, i would love to hear your feedbacks to improve it. the game name is &quot;Lazer Blocks&quot;. it only available on android](https://www.reddit.com/r/androiddev/comments/t1j5uf/hello_everyone_this_is_my_first_puzzle_game_ever/)
+- [making an android game in unity](https://www.reddit.com/r/androiddev/comments/t1j5cy/making_an_android_game_in_unity/)
+- [Change viewmodel variables directly](https://www.reddit.com/r/androiddev/comments/t1i34u/change_viewmodel_variables_directly/)
+- [What important due dates are in 2022 for Android Development.](https://www.reddit.com/r/androiddev/comments/t1hs8s/what_important_due_dates_are_in_2022_for_android/)
+- [Room library keeps strong references of LiveDatas to &quot;avoid garbage collection&quot;, even though the only method of instantiation is by strong referencing them...](https://www.reddit.com/r/androiddev/comments/t1g4bc/room_library_keeps_strong_references_of_livedatas/)
+- [RasmView: An Android Drawing view](https://www.reddit.com/r/androiddev/comments/t1fgyt/rasmview_an_android_drawing_view/)
+- [HomeKit Accessory Protocol HAP on Android?](https://www.reddit.com/r/androiddev/comments/t1cb9l/homekit_accessory_protocol_hap_on_android/)
+- [Hi can you help me please](https://www.reddit.com/r/androiddev/comments/t1bwps/hi_can_you_help_me_please/)
+- [Developers haven&#39;t received Google revenue for three months](https://www.reddit.com/r/androiddev/comments/t1be0q/developers_havent_received_google_revenue_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
