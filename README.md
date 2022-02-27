@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A must know for an android tech leader &amp; good sites to get value information about development](https://www.reddit.com/r/androiddev/comments/t1j7u3/a_must_know_for_an_android_tech_leader_good_sites/)
-- [Hello everyone, this is my first puzzle game ever, i would love to hear your feedbacks to improve it. the game name is &quot;Lazer Blocks&quot;. it only available on android](https://www.reddit.com/r/androiddev/comments/t1j5uf/hello_everyone_this_is_my_first_puzzle_game_ever/)
-- [making an android game in unity](https://www.reddit.com/r/androiddev/comments/t1j5cy/making_an_android_game_in_unity/)
-- [Change viewmodel variables directly](https://www.reddit.com/r/androiddev/comments/t1i34u/change_viewmodel_variables_directly/)
-- [What important due dates are in 2022 for Android Development.](https://www.reddit.com/r/androiddev/comments/t1hs8s/what_important_due_dates_are_in_2022_for_android/)
-- [Room library keeps strong references of LiveDatas to &quot;avoid garbage collection&quot;, even though the only method of instantiation is by strong referencing them...](https://www.reddit.com/r/androiddev/comments/t1g4bc/room_library_keeps_strong_references_of_livedatas/)
-- [RasmView: An Android Drawing view](https://www.reddit.com/r/androiddev/comments/t1fgyt/rasmview_an_android_drawing_view/)
-- [HomeKit Accessory Protocol HAP on Android?](https://www.reddit.com/r/androiddev/comments/t1cb9l/homekit_accessory_protocol_hap_on_android/)
-- [Hi can you help me please](https://www.reddit.com/r/androiddev/comments/t1bwps/hi_can_you_help_me_please/)
-- [Developers haven&#39;t received Google revenue for three months](https://www.reddit.com/r/androiddev/comments/t1be0q/developers_havent_received_google_revenue_for/)
+- [Any Modern examples of using only 1 activity, but multiple&lpar;lots of&rpar; fragments in a non trivial app](https://www.reddit.com/r/androiddev/comments/t2bohy/any_modern_examples_of_using_only_1_activity_but/)
+- [Hi there, I have never programmed anything but I want to learn. Whats the best way to go? Which program? Which videos to start etc?](https://www.reddit.com/r/androiddev/comments/t2azoy/hi_there_i_have_never_programmed_anything_but_i/)
+- [✍️ Plugin to generate Java/Kotlin documentation using AI](https://www.reddit.com/r/androiddev/comments/t2axyu/plugin_to_generate_javakotlin_documentation_using/)
+- [Overlay screen attack and fingerprint disabled](https://www.reddit.com/r/androiddev/comments/t2acqa/overlay_screen_attack_and_fingerprint_disabled/)
+- [Notification Fire Base Android 12 - Samsung](https://www.reddit.com/r/androiddev/comments/t27aco/notification_fire_base_android_12_samsung/)
+- [Help needed: android scoped storage directory listing problem](https://www.reddit.com/r/androiddev/comments/t26zou/help_needed_android_scoped_storage_directory/)
+- [[Q] FCM alternative for social media / chat app?](https://www.reddit.com/r/androiddev/comments/t26ybg/q_fcm_alternative_for_social_media_chat_app/)
+- [Screenshot Testing service](https://www.reddit.com/r/androiddev/comments/t2662w/screenshot_testing_service/)
+- [What does the folder structure suppose to look like for apps that follow the MVVM architecture?](https://www.reddit.com/r/androiddev/comments/t24f99/what_does_the_folder_structure_suppose_to_look/)
+- [How to improve my performance in an extremely large exam with minimal time.](https://www.reddit.com/r/androiddev/comments/t248j6/how_to_improve_my_performance_in_an_extremely/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
