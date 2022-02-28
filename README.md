@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any Modern examples of using only 1 activity, but multiple&lpar;lots of&rpar; fragments in a non trivial app](https://www.reddit.com/r/androiddev/comments/t2bohy/any_modern_examples_of_using_only_1_activity_but/)
-- [Hi there, I have never programmed anything but I want to learn. Whats the best way to go? Which program? Which videos to start etc?](https://www.reddit.com/r/androiddev/comments/t2azoy/hi_there_i_have_never_programmed_anything_but_i/)
-- [✍️ Plugin to generate Java/Kotlin documentation using AI](https://www.reddit.com/r/androiddev/comments/t2axyu/plugin_to_generate_javakotlin_documentation_using/)
-- [Overlay screen attack and fingerprint disabled](https://www.reddit.com/r/androiddev/comments/t2acqa/overlay_screen_attack_and_fingerprint_disabled/)
-- [Notification Fire Base Android 12 - Samsung](https://www.reddit.com/r/androiddev/comments/t27aco/notification_fire_base_android_12_samsung/)
-- [Help needed: android scoped storage directory listing problem](https://www.reddit.com/r/androiddev/comments/t26zou/help_needed_android_scoped_storage_directory/)
-- [[Q] FCM alternative for social media / chat app?](https://www.reddit.com/r/androiddev/comments/t26ybg/q_fcm_alternative_for_social_media_chat_app/)
-- [Screenshot Testing service](https://www.reddit.com/r/androiddev/comments/t2662w/screenshot_testing_service/)
-- [What does the folder structure suppose to look like for apps that follow the MVVM architecture?](https://www.reddit.com/r/androiddev/comments/t24f99/what_does_the_folder_structure_suppose_to_look/)
-- [How to improve my performance in an extremely large exam with minimal time.](https://www.reddit.com/r/androiddev/comments/t248j6/how_to_improve_my_performance_in_an_extremely/)
+- [Back button exit confirmation - recommended behaviour?](https://www.reddit.com/r/androiddev/comments/t3217p/back_button_exit_confirmation_recommended/)
+- [Google Play asking for proof of organization even though I set up a personal account?](https://www.reddit.com/r/androiddev/comments/t2ydgf/google_play_asking_for_proof_of_organization_even/)
+- [Okhttp3 SSL pinning bypass](https://www.reddit.com/r/androiddev/comments/t2x7ol/okhttp3_ssl_pinning_bypass/)
+- [QR WIFI Connector](https://www.reddit.com/r/androiddev/comments/t2x62f/qr_wifi_connector/)
+- [Image uri from contentResolver](https://www.reddit.com/r/androiddev/comments/t2x005/image_uri_from_contentresolver/)
+- [How suitable is Macbook Pro M1 with 8GB of RAM for Android Studio as of February 2022?](https://www.reddit.com/r/androiddev/comments/t2usa5/how_suitable_is_macbook_pro_m1_with_8gb_of_ram/)
+- [How can I use Tik Tokers in my App?](https://www.reddit.com/r/androiddev/comments/t2tk9j/how_can_i_use_tik_tokers_in_my_app/)
+- [Help with the start of the preliminary project of my final degree project](https://www.reddit.com/r/androiddev/comments/t2rwuu/help_with_the_start_of_the_preliminary_project_of/)
+- [May I know what is the use of private_key.pepk, after I have generated aab](https://www.reddit.com/r/androiddev/comments/t2p5dn/may_i_know_what_is_the_use_of_private_keypepk/)
+- [Good PDF Library ?](https://www.reddit.com/r/androiddev/comments/t2m9jo/good_pdf_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
