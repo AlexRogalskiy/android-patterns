@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Back button exit confirmation - recommended behaviour?](https://www.reddit.com/r/androiddev/comments/t3217p/back_button_exit_confirmation_recommended/)
-- [Google Play asking for proof of organization even though I set up a personal account?](https://www.reddit.com/r/androiddev/comments/t2ydgf/google_play_asking_for_proof_of_organization_even/)
-- [Okhttp3 SSL pinning bypass](https://www.reddit.com/r/androiddev/comments/t2x7ol/okhttp3_ssl_pinning_bypass/)
-- [QR WIFI Connector](https://www.reddit.com/r/androiddev/comments/t2x62f/qr_wifi_connector/)
-- [Image uri from contentResolver](https://www.reddit.com/r/androiddev/comments/t2x005/image_uri_from_contentresolver/)
-- [How suitable is Macbook Pro M1 with 8GB of RAM for Android Studio as of February 2022?](https://www.reddit.com/r/androiddev/comments/t2usa5/how_suitable_is_macbook_pro_m1_with_8gb_of_ram/)
-- [How can I use Tik Tokers in my App?](https://www.reddit.com/r/androiddev/comments/t2tk9j/how_can_i_use_tik_tokers_in_my_app/)
-- [Help with the start of the preliminary project of my final degree project](https://www.reddit.com/r/androiddev/comments/t2rwuu/help_with_the_start_of_the_preliminary_project_of/)
-- [May I know what is the use of private_key.pepk, after I have generated aab](https://www.reddit.com/r/androiddev/comments/t2p5dn/may_i_know_what_is_the_use_of_private_keypepk/)
-- [Good PDF Library ?](https://www.reddit.com/r/androiddev/comments/t2m9jo/good_pdf_library/)
+- [Is there a way to &quot;force delete&quot; an obsolete app from users&#39; devices?](https://www.reddit.com/r/androiddev/comments/t3uwdp/is_there_a_way_to_force_delete_an_obsolete_app/)
+- [Wanting to leave production support job for android dev job but worried i wont get interviews](https://www.reddit.com/r/androiddev/comments/t3rayg/wanting_to_leave_production_support_job_for/)
+- [Not sure if I can ask this or where to ask but it&#39;s about code files in android?](https://www.reddit.com/r/androiddev/comments/t3qdoa/not_sure_if_i_can_ask_this_or_where_to_ask_but/)
+- [Why is density value changing?](https://www.reddit.com/r/androiddev/comments/t3nxvu/why_is_density_value_changing/)
+- [Pluto : Open-source On-device debugger for Android apps](https://www.reddit.com/r/androiddev/comments/t3mvt2/pluto_opensource_ondevice_debugger_for_android/)
+- [Im trying to enable developer options on my phone but there isnt any build number. Can anyone help me with this problem?](https://www.reddit.com/r/androiddev/comments/t3llaf/im_trying_to_enable_developer_options_on_my_phone/)
+- [How to develop an alternative to google assistant for Android 11](https://www.reddit.com/r/androiddev/comments/t3l7tm/how_to_develop_an_alternative_to_google_assistant/)
+- [Which of these options is the best for admob?](https://www.reddit.com/r/androiddev/comments/t3kr2k/which_of_these_options_is_the_best_for_admob/)
+- [How do you keep track whether the user source is from paid Google Ads or Organic traffic?](https://www.reddit.com/r/androiddev/comments/t3jgjz/how_do_you_keep_track_whether_the_user_source_is/)
+- [Strapi Complex Queries in Android](https://www.reddit.com/r/androiddev/comments/t3h845/strapi_complex_queries_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
