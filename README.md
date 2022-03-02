@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a way to &quot;force delete&quot; an obsolete app from users&#39; devices?](https://www.reddit.com/r/androiddev/comments/t3uwdp/is_there_a_way_to_force_delete_an_obsolete_app/)
-- [Wanting to leave production support job for android dev job but worried i wont get interviews](https://www.reddit.com/r/androiddev/comments/t3rayg/wanting_to_leave_production_support_job_for/)
-- [Not sure if I can ask this or where to ask but it&#39;s about code files in android?](https://www.reddit.com/r/androiddev/comments/t3qdoa/not_sure_if_i_can_ask_this_or_where_to_ask_but/)
-- [Why is density value changing?](https://www.reddit.com/r/androiddev/comments/t3nxvu/why_is_density_value_changing/)
-- [Pluto : Open-source On-device debugger for Android apps](https://www.reddit.com/r/androiddev/comments/t3mvt2/pluto_opensource_ondevice_debugger_for_android/)
-- [Im trying to enable developer options on my phone but there isnt any build number. Can anyone help me with this problem?](https://www.reddit.com/r/androiddev/comments/t3llaf/im_trying_to_enable_developer_options_on_my_phone/)
-- [How to develop an alternative to google assistant for Android 11](https://www.reddit.com/r/androiddev/comments/t3l7tm/how_to_develop_an_alternative_to_google_assistant/)
-- [Which of these options is the best for admob?](https://www.reddit.com/r/androiddev/comments/t3kr2k/which_of_these_options_is_the_best_for_admob/)
-- [How do you keep track whether the user source is from paid Google Ads or Organic traffic?](https://www.reddit.com/r/androiddev/comments/t3jgjz/how_do_you_keep_track_whether_the_user_source_is/)
-- [Strapi Complex Queries in Android](https://www.reddit.com/r/androiddev/comments/t3h845/strapi_complex_queries_in_android/)
+- [How to get your games to run at full frame rate on Samsung phones?](https://www.reddit.com/r/androiddev/comments/t4mojm/how_to_get_your_games_to_run_at_full_frame_rate/)
+- [Where to host static config file with low network latency?](https://www.reddit.com/r/androiddev/comments/t4lyer/where_to_host_static_config_file_with_low_network/)
+- [A Jetpack compose demo project.](https://www.reddit.com/r/androiddev/comments/t4l6l8/a_jetpack_compose_demo_project/)
+- [Colour detection with android/kotlin](https://www.reddit.com/r/androiddev/comments/t4io2d/colour_detection_with_androidkotlin/)
+- [Paging, by index or by item key?](https://www.reddit.com/r/androiddev/comments/t4ew5z/paging_by_index_or_by_item_key/)
+- [trying to understand Android 12 Foreground Service restrictions](https://www.reddit.com/r/androiddev/comments/t4e31p/trying_to_understand_android_12_foreground/)
+- [Is there a plugin/library to generate Kotlin data/value classes which are API-stable for Java consumers?](https://www.reddit.com/r/androiddev/comments/t4dimt/is_there_a_pluginlibrary_to_generate_kotlin/)
+- [Android Studio Chipmunk Beta 3 now available](https://www.reddit.com/r/androiddev/comments/t4cjfp/android_studio_chipmunk_beta_3_now_available/)
+- [The solution for my Android Phone](https://www.reddit.com/r/androiddev/comments/t4bxto/the_solution_for_my_android_phone/)
+- [Kotlin Illustrated Guide: Lambdas and Function References](https://www.reddit.com/r/androiddev/comments/t4ak4g/kotlin_illustrated_guide_lambdas_and_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
