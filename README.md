@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to get your games to run at full frame rate on Samsung phones?](https://www.reddit.com/r/androiddev/comments/t4mojm/how_to_get_your_games_to_run_at_full_frame_rate/)
-- [Where to host static config file with low network latency?](https://www.reddit.com/r/androiddev/comments/t4lyer/where_to_host_static_config_file_with_low_network/)
-- [A Jetpack compose demo project.](https://www.reddit.com/r/androiddev/comments/t4l6l8/a_jetpack_compose_demo_project/)
-- [Colour detection with android/kotlin](https://www.reddit.com/r/androiddev/comments/t4io2d/colour_detection_with_androidkotlin/)
-- [Paging, by index or by item key?](https://www.reddit.com/r/androiddev/comments/t4ew5z/paging_by_index_or_by_item_key/)
-- [trying to understand Android 12 Foreground Service restrictions](https://www.reddit.com/r/androiddev/comments/t4e31p/trying_to_understand_android_12_foreground/)
-- [Is there a plugin/library to generate Kotlin data/value classes which are API-stable for Java consumers?](https://www.reddit.com/r/androiddev/comments/t4dimt/is_there_a_pluginlibrary_to_generate_kotlin/)
-- [Android Studio Chipmunk Beta 3 now available](https://www.reddit.com/r/androiddev/comments/t4cjfp/android_studio_chipmunk_beta_3_now_available/)
-- [The solution for my Android Phone](https://www.reddit.com/r/androiddev/comments/t4bxto/the_solution_for_my_android_phone/)
-- [Kotlin Illustrated Guide: Lambdas and Function References](https://www.reddit.com/r/androiddev/comments/t4ak4g/kotlin_illustrated_guide_lambdas_and_function/)
+- [Discover and connect to other devices using Klient2Klient](https://www.reddit.com/r/androiddev/comments/t5dp93/discover_and_connect_to_other_devices_using/)
+- [What Font is this? Id like to use this font in the app im currently developing, have no idea what to search to get it.](https://www.reddit.com/r/androiddev/comments/t5d2vy/what_font_is_this_id_like_to_use_this_font_in_the/)
+- [how to watch youtube without Spotify pausing the music when I click play?](https://www.reddit.com/r/androiddev/comments/t5d1kb/how_to_watch_youtube_without_spotify_pausing_the/)
+- [Initialising ViewModel in RecycleView Adapter?](https://www.reddit.com/r/androiddev/comments/t5bezi/initialising_viewmodel_in_recycleview_adapter/)
+- [So I have an idea in mind but I&#39;m very new to android development](https://www.reddit.com/r/androiddev/comments/t5a08b/so_i_have_an_idea_in_mind_but_im_very_new_to/)
+- [How to play 4k videos on HD devices with exoplayer? Is there way to convert it to hd or FHD during play?](https://www.reddit.com/r/androiddev/comments/t58cfq/how_to_play_4k_videos_on_hd_devices_with/)
+- [I&#39;m building a customer side navigation drawer and I want this version code to be in the bottom left corner can anyone help me in fixing this .. And screen size compatibility how to resolve this ? Like in smaller screens version isn&#39;t visible it&#39;d going beyond the screen? Help please](https://www.reddit.com/r/androiddev/comments/t57iow/im_building_a_customer_side_navigation_drawer_and/)
+- [Stabilize, Modularize, Modernize: Scaling Slack’s Mobile Codebases - Slack Engineering](https://www.reddit.com/r/androiddev/comments/t563x9/stabilize_modularize_modernize_scaling_slacks/)
+- [The 2022 Android Developer Roadmap: Part 2](https://www.reddit.com/r/androiddev/comments/t52zem/the_2022_android_developer_roadmap_part_2/)
+- [Locked phone USB debugging](https://www.reddit.com/r/androiddev/comments/t51yph/locked_phone_usb_debugging/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
