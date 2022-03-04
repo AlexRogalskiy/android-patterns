@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Discover and connect to other devices using Klient2Klient](https://www.reddit.com/r/androiddev/comments/t5dp93/discover_and_connect_to_other_devices_using/)
-- [What Font is this? Id like to use this font in the app im currently developing, have no idea what to search to get it.](https://www.reddit.com/r/androiddev/comments/t5d2vy/what_font_is_this_id_like_to_use_this_font_in_the/)
-- [how to watch youtube without Spotify pausing the music when I click play?](https://www.reddit.com/r/androiddev/comments/t5d1kb/how_to_watch_youtube_without_spotify_pausing_the/)
-- [Initialising ViewModel in RecycleView Adapter?](https://www.reddit.com/r/androiddev/comments/t5bezi/initialising_viewmodel_in_recycleview_adapter/)
-- [So I have an idea in mind but I&#39;m very new to android development](https://www.reddit.com/r/androiddev/comments/t5a08b/so_i_have_an_idea_in_mind_but_im_very_new_to/)
-- [How to play 4k videos on HD devices with exoplayer? Is there way to convert it to hd or FHD during play?](https://www.reddit.com/r/androiddev/comments/t58cfq/how_to_play_4k_videos_on_hd_devices_with/)
-- [I&#39;m building a customer side navigation drawer and I want this version code to be in the bottom left corner can anyone help me in fixing this .. And screen size compatibility how to resolve this ? Like in smaller screens version isn&#39;t visible it&#39;d going beyond the screen? Help please](https://www.reddit.com/r/androiddev/comments/t57iow/im_building_a_customer_side_navigation_drawer_and/)
-- [Stabilize, Modularize, Modernize: Scaling Slack’s Mobile Codebases - Slack Engineering](https://www.reddit.com/r/androiddev/comments/t563x9/stabilize_modularize_modernize_scaling_slacks/)
-- [The 2022 Android Developer Roadmap: Part 2](https://www.reddit.com/r/androiddev/comments/t52zem/the_2022_android_developer_roadmap_part_2/)
-- [Locked phone USB debugging](https://www.reddit.com/r/androiddev/comments/t51yph/locked_phone_usb_debugging/)
+- [changing content of gradle aar files](https://www.reddit.com/r/androiddev/comments/t64v8p/changing_content_of_gradle_aar_files/)
+- [Out of the Loop/Genuinely Curious](https://www.reddit.com/r/androiddev/comments/t64at2/out_of_the_loopgenuinely_curious/)
+- [Android Studio Dolphin Canary 4 now available](https://www.reddit.com/r/androiddev/comments/t644op/android_studio_dolphin_canary_4_now_available/)
+- [Newbie In Need Of Help](https://www.reddit.com/r/androiddev/comments/t63v2o/newbie_in_need_of_help/)
+- [How to use Hilt in a Library](https://www.reddit.com/r/androiddev/comments/t63u01/how_to_use_hilt_in_a_library/)
+- [User-creatable references](https://www.reddit.com/r/androiddev/comments/t60ir2/usercreatable_references/)
+- [Started my first android Dev online course with Udemy!](https://www.reddit.com/r/androiddev/comments/t5x682/started_my_first_android_dev_online_course_with/)
+- [MLKIT TextRecognizer is not recognizing everything and barely nothing in portrait mode](https://www.reddit.com/r/androiddev/comments/t5u8bz/mlkit_textrecognizer_is_not_recognizing/)
+- [Android Phone with a computer mouse?](https://www.reddit.com/r/androiddev/comments/t5sn9j/android_phone_with_a_computer_mouse/)
+- [Roadmap for Beginers!](https://www.reddit.com/r/androiddev/comments/t5sdl1/roadmap_for_beginers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
