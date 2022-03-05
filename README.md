@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [changing content of gradle aar files](https://www.reddit.com/r/androiddev/comments/t64v8p/changing_content_of_gradle_aar_files/)
-- [Out of the Loop/Genuinely Curious](https://www.reddit.com/r/androiddev/comments/t64at2/out_of_the_loopgenuinely_curious/)
-- [Android Studio Dolphin Canary 4 now available](https://www.reddit.com/r/androiddev/comments/t644op/android_studio_dolphin_canary_4_now_available/)
-- [Newbie In Need Of Help](https://www.reddit.com/r/androiddev/comments/t63v2o/newbie_in_need_of_help/)
-- [How to use Hilt in a Library](https://www.reddit.com/r/androiddev/comments/t63u01/how_to_use_hilt_in_a_library/)
-- [User-creatable references](https://www.reddit.com/r/androiddev/comments/t60ir2/usercreatable_references/)
-- [Started my first android Dev online course with Udemy!](https://www.reddit.com/r/androiddev/comments/t5x682/started_my_first_android_dev_online_course_with/)
-- [MLKIT TextRecognizer is not recognizing everything and barely nothing in portrait mode](https://www.reddit.com/r/androiddev/comments/t5u8bz/mlkit_textrecognizer_is_not_recognizing/)
-- [Android Phone with a computer mouse?](https://www.reddit.com/r/androiddev/comments/t5sn9j/android_phone_with_a_computer_mouse/)
-- [Roadmap for Beginers!](https://www.reddit.com/r/androiddev/comments/t5sdl1/roadmap_for_beginers/)
+- [I need help, please !! the menu is not showing in the bottom navigation view](https://www.reddit.com/r/androiddev/comments/t6wjo7/i_need_help_please_the_menu_is_not_showing_in_the/)
+- [FCM Data Notification &amp; Network Access](https://www.reddit.com/r/androiddev/comments/t6tnql/fcm_data_notification_network_access/)
+- [How does Gradle handles overlapping implementations?](https://www.reddit.com/r/androiddev/comments/t6tlnf/how_does_gradle_handles_overlapping/)
+- [Jetpack compose routing with bottom navigation bar and standalone full screen pages](https://www.reddit.com/r/androiddev/comments/t6s5y0/jetpack_compose_routing_with_bottom_navigation/)
+- [Android Studio Dolphin Canary 5 now available](https://www.reddit.com/r/androiddev/comments/t6rgy7/android_studio_dolphin_canary_5_now_available/)
+- [Canadian Developer TAX on Earnings](https://www.reddit.com/r/androiddev/comments/t6rd6l/canadian_developer_tax_on_earnings/)
+- [How to setup a waterfall in ironsource platform](https://www.reddit.com/r/androiddev/comments/t6pyws/how_to_setup_a_waterfall_in_ironsource_platform/)
+- [Can I register a UK or US business and use it in my Google Play Merchant account?](https://www.reddit.com/r/androiddev/comments/t6pn15/can_i_register_a_uk_or_us_business_and_use_it_in/)
+- [Package Installer dialog on dismiss problem](https://www.reddit.com/r/androiddev/comments/t6msuz/package_installer_dialog_on_dismiss_problem/)
+- [Admob policy site behaviour navigation](https://www.reddit.com/r/androiddev/comments/t6lmuq/admob_policy_site_behaviour_navigation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
