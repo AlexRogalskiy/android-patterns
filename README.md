@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where should i store the shopping cart items ?](https://www.reddit.com/r/androiddev/comments/t7obff/where_should_i_store_the_shopping_cart_items/)
-- [Play store IAP not using current exchange rates?](https://www.reddit.com/r/androiddev/comments/t7kw8c/play_store_iap_not_using_current_exchange_rates/)
-- [Android emulator does not display correctly](https://www.reddit.com/r/androiddev/comments/t7knkl/android_emulator_does_not_display_correctly/)
-- [Hey guys , I wanted to get into app development as I had this idea I wanted to work upon , I researched a bit and I was looking to make my own app from scratch rather than using app making application, so I was looking for guidance on what softwares to use , or any guides available for beginners](https://www.reddit.com/r/androiddev/comments/t7dcjm/hey_guys_i_wanted_to_get_into_app_development_as/)
-- [Expand/collapse animation issue in LazyColumn Jetpack compose Android](https://www.reddit.com/r/androiddev/comments/t7asti/expandcollapse_animation_issue_in_lazycolumn/)
-- [Ideas to improve university app](https://www.reddit.com/r/androiddev/comments/t78517/ideas_to_improve_university_app/)
-- [FCM Data Notification &amp; Network Access](https://www.reddit.com/r/androiddev/comments/t6tnql/fcm_data_notification_network_access/)
-- [How does Gradle handles overlapping implementations?](https://www.reddit.com/r/androiddev/comments/t6tlnf/how_does_gradle_handles_overlapping/)
-- [Jetpack compose routing with bottom navigation bar and standalone full screen pages](https://www.reddit.com/r/androiddev/comments/t6s5y0/jetpack_compose_routing_with_bottom_navigation/)
-- [Android Studio Dolphin Canary 5 now available](https://www.reddit.com/r/androiddev/comments/t6rgy7/android_studio_dolphin_canary_5_now_available/)
+- [ADB push progress?](https://www.reddit.com/r/androiddev/comments/t8e88y/adb_push_progress/)
+- [NavArgs suddenly stopped working.](https://www.reddit.com/r/androiddev/comments/t8chmk/navargs_suddenly_stopped_working/)
+- [.Net MAUI CALCULATOR APP](https://www.reddit.com/r/androiddev/comments/t89vbq/net_maui_calculator_app/)
+- [Can one use a USB c to USB c cable to run fastboot commands off one device to another?](https://www.reddit.com/r/androiddev/comments/t86ozi/can_one_use_a_usb_c_to_usb_c_cable_to_run/)
+- [Flutter &amp; React Native UI builder online](https://www.reddit.com/r/androiddev/comments/t86iym/flutter_react_native_ui_builder_online/)
+- [My developer account terminated without prior warning](https://www.reddit.com/r/androiddev/comments/t867tf/my_developer_account_terminated_without_prior/)
+- [is it possible to control a phone using another phone through a cable?](https://www.reddit.com/r/androiddev/comments/t8206t/is_it_possible_to_control_a_phone_using_another/)
+- [How can I include a Bottom Navigation Bar on my application without having to copy over the code to all the activities?](https://www.reddit.com/r/androiddev/comments/t7zoze/how_can_i_include_a_bottom_navigation_bar_on_my/)
+- [Android vs. iOS](https://www.reddit.com/r/androiddev/comments/t7xvt7/android_vs_ios/)
+- [Starting Out with Android Dev](https://www.reddit.com/r/androiddev/comments/t7urzh/starting_out_with_android_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
