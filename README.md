@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ADB push progress?](https://www.reddit.com/r/androiddev/comments/t8e88y/adb_push_progress/)
-- [NavArgs suddenly stopped working.](https://www.reddit.com/r/androiddev/comments/t8chmk/navargs_suddenly_stopped_working/)
-- [.Net MAUI CALCULATOR APP](https://www.reddit.com/r/androiddev/comments/t89vbq/net_maui_calculator_app/)
-- [Can one use a USB c to USB c cable to run fastboot commands off one device to another?](https://www.reddit.com/r/androiddev/comments/t86ozi/can_one_use_a_usb_c_to_usb_c_cable_to_run/)
-- [Flutter &amp; React Native UI builder online](https://www.reddit.com/r/androiddev/comments/t86iym/flutter_react_native_ui_builder_online/)
-- [My developer account terminated without prior warning](https://www.reddit.com/r/androiddev/comments/t867tf/my_developer_account_terminated_without_prior/)
-- [is it possible to control a phone using another phone through a cable?](https://www.reddit.com/r/androiddev/comments/t8206t/is_it_possible_to_control_a_phone_using_another/)
-- [How can I include a Bottom Navigation Bar on my application without having to copy over the code to all the activities?](https://www.reddit.com/r/androiddev/comments/t7zoze/how_can_i_include_a_bottom_navigation_bar_on_my/)
-- [Android vs. iOS](https://www.reddit.com/r/androiddev/comments/t7xvt7/android_vs_ios/)
-- [Starting Out with Android Dev](https://www.reddit.com/r/androiddev/comments/t7urzh/starting_out_with_android_dev/)
+- [How to improve Android Development skills further with current side project?](https://www.reddit.com/r/androiddev/comments/t92omh/how_to_improve_android_development_skills_further/)
+- [Display a line chart using MPAndroidChart](https://www.reddit.com/r/androiddev/comments/t92ed4/display_a_line_chart_using_mpandroidchart/)
+- [Main thread priority equals background thread priority](https://www.reddit.com/r/androiddev/comments/t90zwn/main_thread_priority_equals_background_thread/)
+- [Wear OS Complication weirdness](https://www.reddit.com/r/androiddev/comments/t8yfl8/wear_os_complication_weirdness/)
+- [Optical color pattern recognizer - Android](https://www.reddit.com/r/androiddev/comments/t8x8bu/optical_color_pattern_recognizer_android/)
+- [please i need help](https://www.reddit.com/r/androiddev/comments/t8uuqe/please_i_need_help/)
+- [Are there functionalities in Android which are easier to implement than in iOS?](https://www.reddit.com/r/androiddev/comments/t8s8gw/are_there_functionalities_in_android_which_are/)
+- [Please Help cant get Android studio to show my app on the AVD](https://www.reddit.com/r/androiddev/comments/t8q1b5/please_help_cant_get_android_studio_to_show_my/)
+- [Weekly Who&#39;s Hiring Thread - March 07, 2022](https://www.reddit.com/r/androiddev/comments/t8ptz7/weekly_whos_hiring_thread_march_07_2022/)
+- [Navigation drawer - cannot return home after navigation](https://www.reddit.com/r/androiddev/comments/t8p4kp/navigation_drawer_cannot_return_home_after/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
