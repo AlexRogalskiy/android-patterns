@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to improve Android Development skills further with current side project?](https://www.reddit.com/r/androiddev/comments/t92omh/how_to_improve_android_development_skills_further/)
-- [Display a line chart using MPAndroidChart](https://www.reddit.com/r/androiddev/comments/t92ed4/display_a_line_chart_using_mpandroidchart/)
-- [Main thread priority equals background thread priority](https://www.reddit.com/r/androiddev/comments/t90zwn/main_thread_priority_equals_background_thread/)
-- [Wear OS Complication weirdness](https://www.reddit.com/r/androiddev/comments/t8yfl8/wear_os_complication_weirdness/)
-- [Optical color pattern recognizer - Android](https://www.reddit.com/r/androiddev/comments/t8x8bu/optical_color_pattern_recognizer_android/)
-- [please i need help](https://www.reddit.com/r/androiddev/comments/t8uuqe/please_i_need_help/)
-- [Are there functionalities in Android which are easier to implement than in iOS?](https://www.reddit.com/r/androiddev/comments/t8s8gw/are_there_functionalities_in_android_which_are/)
-- [Please Help cant get Android studio to show my app on the AVD](https://www.reddit.com/r/androiddev/comments/t8q1b5/please_help_cant_get_android_studio_to_show_my/)
-- [Weekly Who&#39;s Hiring Thread - March 07, 2022](https://www.reddit.com/r/androiddev/comments/t8ptz7/weekly_whos_hiring_thread_march_07_2022/)
-- [Navigation drawer - cannot return home after navigation](https://www.reddit.com/r/androiddev/comments/t8p4kp/navigation_drawer_cannot_return_home_after/)
+- [Can someone help me figure out my memory leak?](https://www.reddit.com/r/androiddev/comments/t9wzew/can_someone_help_me_figure_out_my_memory_leak/)
+- [Android Notification HowTo](https://www.reddit.com/r/androiddev/comments/t9w1db/android_notification_howto/)
+- [cat controls dont work](https://www.reddit.com/r/androiddev/comments/t9tcin/cat_controls_dont_work/)
+- [An open source compositional deadlock detector for Android Java](https://www.reddit.com/r/androiddev/comments/t9mt7g/an_open_source_compositional_deadlock_detector/)
+- [Compose destination for those who were hurt by compose navigation](https://www.reddit.com/r/androiddev/comments/t9m0yf/compose_destination_for_those_who_were_hurt_by/)
+- [Android Services Quiz](https://www.reddit.com/r/androiddev/comments/t9lyu0/android_services_quiz/)
+- [Update Play Store version by released apk](https://www.reddit.com/r/androiddev/comments/t9l7ax/update_play_store_version_by_released_apk/)
+- [Basic application with Jetpack compose vs flutter](https://www.reddit.com/r/androiddev/comments/t9jeju/basic_application_with_jetpack_compose_vs_flutter/)
+- [Anyone experiencing long review times?](https://www.reddit.com/r/androiddev/comments/t9j5bb/anyone_experiencing_long_review_times/)
+- [Wha development tools has your company created that help improve your android development process?](https://www.reddit.com/r/androiddev/comments/t9j25k/wha_development_tools_has_your_company_created/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
