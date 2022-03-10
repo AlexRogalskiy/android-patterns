@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can someone help me figure out my memory leak?](https://www.reddit.com/r/androiddev/comments/t9wzew/can_someone_help_me_figure_out_my_memory_leak/)
-- [Android Notification HowTo](https://www.reddit.com/r/androiddev/comments/t9w1db/android_notification_howto/)
-- [cat controls dont work](https://www.reddit.com/r/androiddev/comments/t9tcin/cat_controls_dont_work/)
-- [An open source compositional deadlock detector for Android Java](https://www.reddit.com/r/androiddev/comments/t9mt7g/an_open_source_compositional_deadlock_detector/)
-- [Compose destination for those who were hurt by compose navigation](https://www.reddit.com/r/androiddev/comments/t9m0yf/compose_destination_for_those_who_were_hurt_by/)
-- [Android Services Quiz](https://www.reddit.com/r/androiddev/comments/t9lyu0/android_services_quiz/)
-- [Update Play Store version by released apk](https://www.reddit.com/r/androiddev/comments/t9l7ax/update_play_store_version_by_released_apk/)
-- [Basic application with Jetpack compose vs flutter](https://www.reddit.com/r/androiddev/comments/t9jeju/basic_application_with_jetpack_compose_vs_flutter/)
-- [Anyone experiencing long review times?](https://www.reddit.com/r/androiddev/comments/t9j5bb/anyone_experiencing_long_review_times/)
-- [Wha development tools has your company created that help improve your android development process?](https://www.reddit.com/r/androiddev/comments/t9j25k/wha_development_tools_has_your_company_created/)
+- [Beginner Android Trouble. Trying to send selected items of a listview to another activity in kotlin.](https://www.reddit.com/r/androiddev/comments/tanlei/beginner_android_trouble_trying_to_send_selected/)
+- [Meta Open-Sources A Compositional Deadlock Detector for Android Java](https://www.reddit.com/r/androiddev/comments/tamlcr/meta_opensources_a_compositional_deadlock/)
+- [Playstore requires minimum users to have MAU/DAU?](https://www.reddit.com/r/androiddev/comments/tamiys/playstore_requires_minimum_users_to_have_maudau/)
+- [.net maui bmi app](https://www.reddit.com/r/androiddev/comments/taiwu4/net_maui_bmi_app/)
+- [Looking for mockup/wireframing app](https://www.reddit.com/r/androiddev/comments/taim9r/looking_for_mockupwireframing_app/)
+- [How to get current voltage of charging?](https://www.reddit.com/r/androiddev/comments/tai2g9/how_to_get_current_voltage_of_charging/)
+- [S3B1.220218.004 Google what are you doing 😡](https://www.reddit.com/r/androiddev/comments/tai1w5/s3b1220218004_google_what_are_you_doing/)
+- [Help me understand Android Dev a bit better](https://www.reddit.com/r/androiddev/comments/tahwbx/help_me_understand_android_dev_a_bit_better/)
+- [Jetpack Navigation and Swapping tabs animations](https://www.reddit.com/r/androiddev/comments/tag9y0/jetpack_navigation_and_swapping_tabs_animations/)
+- [Android Studio Chipmunk Beta 4 now available](https://www.reddit.com/r/androiddev/comments/tag4or/android_studio_chipmunk_beta_4_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
