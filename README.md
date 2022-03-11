@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Beginner Android Trouble. Trying to send selected items of a listview to another activity in kotlin.](https://www.reddit.com/r/androiddev/comments/tanlei/beginner_android_trouble_trying_to_send_selected/)
-- [Meta Open-Sources A Compositional Deadlock Detector for Android Java](https://www.reddit.com/r/androiddev/comments/tamlcr/meta_opensources_a_compositional_deadlock/)
-- [Playstore requires minimum users to have MAU/DAU?](https://www.reddit.com/r/androiddev/comments/tamiys/playstore_requires_minimum_users_to_have_maudau/)
-- [.net maui bmi app](https://www.reddit.com/r/androiddev/comments/taiwu4/net_maui_bmi_app/)
-- [Looking for mockup/wireframing app](https://www.reddit.com/r/androiddev/comments/taim9r/looking_for_mockupwireframing_app/)
-- [How to get current voltage of charging?](https://www.reddit.com/r/androiddev/comments/tai2g9/how_to_get_current_voltage_of_charging/)
-- [S3B1.220218.004 Google what are you doing 😡](https://www.reddit.com/r/androiddev/comments/tai1w5/s3b1220218004_google_what_are_you_doing/)
-- [Help me understand Android Dev a bit better](https://www.reddit.com/r/androiddev/comments/tahwbx/help_me_understand_android_dev_a_bit_better/)
-- [Jetpack Navigation and Swapping tabs animations](https://www.reddit.com/r/androiddev/comments/tag9y0/jetpack_navigation_and_swapping_tabs_animations/)
-- [Android Studio Chipmunk Beta 4 now available](https://www.reddit.com/r/androiddev/comments/tag4or/android_studio_chipmunk_beta_4_now_available/)
+- [NX Launcher - Simulator for Android](https://www.reddit.com/r/androiddev/comments/tbd8hc/nx_launcher_simulator_for_android/)
+- [HELP! Forced to change app name to adhere to &lt;30 char policy. Now organic installs have fell by more than 80% - major financial loss. Is this temporary fall on the charts and keywords?](https://www.reddit.com/r/androiddev/comments/tbc5bb/help_forced_to_change_app_name_to_adhere_to_30/)
+- [Recommend a Complete resource &quot;Odin Project&quot; Like for Android Developer.](https://www.reddit.com/r/androiddev/comments/tb8au3/recommend_a_complete_resource_odin_project_like/)
+- [Where to Start?](https://www.reddit.com/r/androiddev/comments/tb86k6/where_to_start/)
+- [Fed up with Google Play Store](https://www.reddit.com/r/androiddev/comments/tb5as2/fed_up_with_google_play_store/)
+- [Discussion: Do you write instrumented tests?](https://www.reddit.com/r/androiddev/comments/tb4fkf/discussion_do_you_write_instrumented_tests/)
+- [Reboot history](https://www.reddit.com/r/androiddev/comments/tazyzz/reboot_history/)
+- [Alternatives to AdMob](https://www.reddit.com/r/androiddev/comments/tazfgu/alternatives_to_admob/)
+- [Send live audio stream from client to server using WebSocket and OkHttp client](https://www.reddit.com/r/androiddev/comments/tay128/send_live_audio_stream_from_client_to_server/)
+- [Promise compose compiler and imply when you&#39;ll change](https://www.reddit.com/r/androiddev/comments/taxvau/promise_compose_compiler_and_imply_when_youll/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
