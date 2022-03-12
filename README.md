@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [NX Launcher - Simulator for Android](https://www.reddit.com/r/androiddev/comments/tbd8hc/nx_launcher_simulator_for_android/)
-- [HELP! Forced to change app name to adhere to &lt;30 char policy. Now organic installs have fell by more than 80% - major financial loss. Is this temporary fall on the charts and keywords?](https://www.reddit.com/r/androiddev/comments/tbc5bb/help_forced_to_change_app_name_to_adhere_to_30/)
-- [Recommend a Complete resource &quot;Odin Project&quot; Like for Android Developer.](https://www.reddit.com/r/androiddev/comments/tb8au3/recommend_a_complete_resource_odin_project_like/)
-- [Where to Start?](https://www.reddit.com/r/androiddev/comments/tb86k6/where_to_start/)
-- [Fed up with Google Play Store](https://www.reddit.com/r/androiddev/comments/tb5as2/fed_up_with_google_play_store/)
-- [Discussion: Do you write instrumented tests?](https://www.reddit.com/r/androiddev/comments/tb4fkf/discussion_do_you_write_instrumented_tests/)
-- [Reboot history](https://www.reddit.com/r/androiddev/comments/tazyzz/reboot_history/)
-- [Alternatives to AdMob](https://www.reddit.com/r/androiddev/comments/tazfgu/alternatives_to_admob/)
-- [Send live audio stream from client to server using WebSocket and OkHttp client](https://www.reddit.com/r/androiddev/comments/tay128/send_live_audio_stream_from_client_to_server/)
-- [Promise compose compiler and imply when you&#39;ll change](https://www.reddit.com/r/androiddev/comments/taxvau/promise_compose_compiler_and_imply_when_youll/)
+- [Has anyone ever figured out why some ANRs say &quot;Stack trace not available&quot;?](https://www.reddit.com/r/androiddev/comments/tc3ge8/has_anyone_ever_figured_out_why_some_anrs_say/)
+- [Why do some payments get stuck in &quot;payment processing&quot;?](https://www.reddit.com/r/androiddev/comments/tc31oa/why_do_some_payments_get_stuck_in_payment/)
+- [Exploring the new Android 13 Per-app Language preferences](https://www.reddit.com/r/androiddev/comments/tc304g/exploring_the_new_android_13_perapp_language/)
+- [Dialog vs Sheet](https://www.reddit.com/r/androiddev/comments/tc2ws2/dialog_vs_sheet/)
+- [Is it better from a career perspective to focus on Android app development or learn backend also?](https://www.reddit.com/r/androiddev/comments/tc1xz0/is_it_better_from_a_career_perspective_to_focus/)
+- [Instead of displaying google ads, can I display ads for my ebooks &lpar;sold outside of my app&rpar;?](https://www.reddit.com/r/androiddev/comments/tbxfct/instead_of_displaying_google_ads_can_i_display/)
+- [Seeking advice for making a bestiary for a game companion app](https://www.reddit.com/r/androiddev/comments/tbuvqq/seeking_advice_for_making_a_bestiary_for_a_game/)
+- [Any tips for someone starting Android development?](https://www.reddit.com/r/androiddev/comments/tbsdat/any_tips_for_someone_starting_android_development/)
+- [Android Study Jams swags!!](https://www.reddit.com/r/androiddev/comments/tbs57j/android_study_jams_swags/)
+- [App Feedback Thread - March 11, 2022](https://www.reddit.com/r/androiddev/comments/tbqqza/app_feedback_thread_march_11_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
