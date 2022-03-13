@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Has anyone ever figured out why some ANRs say &quot;Stack trace not available&quot;?](https://www.reddit.com/r/androiddev/comments/tc3ge8/has_anyone_ever_figured_out_why_some_anrs_say/)
-- [Why do some payments get stuck in &quot;payment processing&quot;?](https://www.reddit.com/r/androiddev/comments/tc31oa/why_do_some_payments_get_stuck_in_payment/)
-- [Exploring the new Android 13 Per-app Language preferences](https://www.reddit.com/r/androiddev/comments/tc304g/exploring_the_new_android_13_perapp_language/)
-- [Dialog vs Sheet](https://www.reddit.com/r/androiddev/comments/tc2ws2/dialog_vs_sheet/)
-- [Is it better from a career perspective to focus on Android app development or learn backend also?](https://www.reddit.com/r/androiddev/comments/tc1xz0/is_it_better_from_a_career_perspective_to_focus/)
-- [Instead of displaying google ads, can I display ads for my ebooks &lpar;sold outside of my app&rpar;?](https://www.reddit.com/r/androiddev/comments/tbxfct/instead_of_displaying_google_ads_can_i_display/)
-- [Seeking advice for making a bestiary for a game companion app](https://www.reddit.com/r/androiddev/comments/tbuvqq/seeking_advice_for_making_a_bestiary_for_a_game/)
-- [Any tips for someone starting Android development?](https://www.reddit.com/r/androiddev/comments/tbsdat/any_tips_for_someone_starting_android_development/)
-- [Android Study Jams swags!!](https://www.reddit.com/r/androiddev/comments/tbs57j/android_study_jams_swags/)
-- [App Feedback Thread - March 11, 2022](https://www.reddit.com/r/androiddev/comments/tbqqza/app_feedback_thread_march_11_2022/)
+- [Can a reactivated app get its old rank back in Play Store?](https://www.reddit.com/r/androiddev/comments/tctk8y/can_a_reactivated_app_get_its_old_rank_back_in/)
+- [Work environment - choosing OS](https://www.reddit.com/r/androiddev/comments/tct06v/work_environment_choosing_os/)
+- [Top 4 ways to earn money with a mobile app or game](https://www.reddit.com/r/androiddev/comments/tcruxo/top_4_ways_to_earn_money_with_a_mobile_app_or_game/)
+- [ListAdapter search not updating some parts of item when i search then click on searched Item it gets original item not searched item](https://www.reddit.com/r/androiddev/comments/tcqen8/listadapter_search_not_updating_some_parts_of/)
+- [Question about Google AdMob eCPM floor purpose.](https://www.reddit.com/r/androiddev/comments/tcpqga/question_about_google_admob_ecpm_floor_purpose/)
+- [Crop and rotate images in compose, lack of examples](https://www.reddit.com/r/androiddev/comments/tcowhd/crop_and_rotate_images_in_compose_lack_of_examples/)
+- [Setting Ethernet through Java](https://www.reddit.com/r/androiddev/comments/tcj2lw/setting_ethernet_through_java/)
+- [Is Using Webviews For Some Components a Good Practice ;](https://www.reddit.com/r/androiddev/comments/tcc3f4/is_using_webviews_for_some_components_a_good/)
+- [Made Flipping Poker Card Animation using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/tc9vki/made_flipping_poker_card_animation_using_jetpack/)
+- [Using Retrofit inside ViewModel with Authentication in multiple activities](https://www.reddit.com/r/androiddev/comments/tc5zji/using_retrofit_inside_viewmodel_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
