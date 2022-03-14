@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can a reactivated app get its old rank back in Play Store?](https://www.reddit.com/r/androiddev/comments/tctk8y/can_a_reactivated_app_get_its_old_rank_back_in/)
-- [Work environment - choosing OS](https://www.reddit.com/r/androiddev/comments/tct06v/work_environment_choosing_os/)
-- [Top 4 ways to earn money with a mobile app or game](https://www.reddit.com/r/androiddev/comments/tcruxo/top_4_ways_to_earn_money_with_a_mobile_app_or_game/)
-- [ListAdapter search not updating some parts of item when i search then click on searched Item it gets original item not searched item](https://www.reddit.com/r/androiddev/comments/tcqen8/listadapter_search_not_updating_some_parts_of/)
-- [Question about Google AdMob eCPM floor purpose.](https://www.reddit.com/r/androiddev/comments/tcpqga/question_about_google_admob_ecpm_floor_purpose/)
-- [Crop and rotate images in compose, lack of examples](https://www.reddit.com/r/androiddev/comments/tcowhd/crop_and_rotate_images_in_compose_lack_of_examples/)
-- [Setting Ethernet through Java](https://www.reddit.com/r/androiddev/comments/tcj2lw/setting_ethernet_through_java/)
-- [Is Using Webviews For Some Components a Good Practice ;](https://www.reddit.com/r/androiddev/comments/tcc3f4/is_using_webviews_for_some_components_a_good/)
-- [Made Flipping Poker Card Animation using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/tc9vki/made_flipping_poker_card_animation_using_jetpack/)
-- [Using Retrofit inside ViewModel with Authentication in multiple activities](https://www.reddit.com/r/androiddev/comments/tc5zji/using_retrofit_inside_viewmodel_with/)
+- [What is the usage of ContentProvider in android?](https://www.reddit.com/r/androiddev/comments/tdl9jf/what_is_the_usage_of_contentprovider_in_android/)
+- [How to make a file manager android app for TV &lpar;focus highlighting&rpar;?](https://www.reddit.com/r/androiddev/comments/tdk833/how_to_make_a_file_manager_android_app_for_tv/)
+- [Move ArrayList to another Activity and display it in a list.](https://www.reddit.com/r/androiddev/comments/tdh7a5/move_arraylist_to_another_activity_and_display_it/)
+- [Unique segmented arc view with rich customisation options!](https://www.reddit.com/r/androiddev/comments/tdgtjx/unique_segmented_arc_view_with_rich_customisation/)
+- [Getting AdMob ads to show when using App Bundle and bundletool](https://www.reddit.com/r/androiddev/comments/tddrdv/getting_admob_ads_to_show_when_using_app_bundle/)
+- [Library using jetpack compose](https://www.reddit.com/r/androiddev/comments/tdbmd2/library_using_jetpack_compose/)
+- [How do you decide whether or not to accept Firebase A/B testing result?](https://www.reddit.com/r/androiddev/comments/tdapxy/how_do_you_decide_whether_or_not_to_accept/)
+- [A general TreeView implementation for android base on RecyclerView](https://www.reddit.com/r/androiddev/comments/td9sv3/a_general_treeview_implementation_for_android/)
+- [Android Studio no virtual SD Card](https://www.reddit.com/r/androiddev/comments/td8ivo/android_studio_no_virtual_sd_card/)
+- [Copyright Free Short Song Snippets](https://www.reddit.com/r/androiddev/comments/td70ki/copyright_free_short_song_snippets/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
