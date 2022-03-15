@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the usage of ContentProvider in android?](https://www.reddit.com/r/androiddev/comments/tdl9jf/what_is_the_usage_of_contentprovider_in_android/)
-- [How to make a file manager android app for TV &lpar;focus highlighting&rpar;?](https://www.reddit.com/r/androiddev/comments/tdk833/how_to_make_a_file_manager_android_app_for_tv/)
-- [Move ArrayList to another Activity and display it in a list.](https://www.reddit.com/r/androiddev/comments/tdh7a5/move_arraylist_to_another_activity_and_display_it/)
-- [Unique segmented arc view with rich customisation options!](https://www.reddit.com/r/androiddev/comments/tdgtjx/unique_segmented_arc_view_with_rich_customisation/)
-- [Getting AdMob ads to show when using App Bundle and bundletool](https://www.reddit.com/r/androiddev/comments/tddrdv/getting_admob_ads_to_show_when_using_app_bundle/)
-- [Library using jetpack compose](https://www.reddit.com/r/androiddev/comments/tdbmd2/library_using_jetpack_compose/)
-- [How do you decide whether or not to accept Firebase A/B testing result?](https://www.reddit.com/r/androiddev/comments/tdapxy/how_do_you_decide_whether_or_not_to_accept/)
-- [A general TreeView implementation for android base on RecyclerView](https://www.reddit.com/r/androiddev/comments/td9sv3/a_general_treeview_implementation_for_android/)
-- [Android Studio no virtual SD Card](https://www.reddit.com/r/androiddev/comments/td8ivo/android_studio_no_virtual_sd_card/)
-- [Copyright Free Short Song Snippets](https://www.reddit.com/r/androiddev/comments/td70ki/copyright_free_short_song_snippets/)
+- [Managing states in viewmodel](https://www.reddit.com/r/androiddev/comments/tee2om/managing_states_in_viewmodel/)
+- [How can I find hidden animation/gif data in Android app?](https://www.reddit.com/r/androiddev/comments/tebbi0/how_can_i_find_hidden_animationgif_data_in/)
+- [I ported the Spotify Mobius GitHub wiki to GitHub Pages + MkDocs with light and dark modes. I just created the issue and filed the PR. Let&#39;s see what happens!](https://www.reddit.com/r/androiddev/comments/teance/i_ported_the_spotify_mobius_github_wiki_to_github/)
+- [Google Play Console question](https://www.reddit.com/r/androiddev/comments/te5en4/google_play_console_question/)
+- [Android Studio Dolphin Canary 6 now available](https://www.reddit.com/r/androiddev/comments/te4wh5/android_studio_dolphin_canary_6_now_available/)
+- [Introduction to Architecture - MAD Skills](https://www.reddit.com/r/androiddev/comments/te3g7d/introduction_to_architecture_mad_skills/)
+- [LeetDroid - An android client for LeetCode](https://www.reddit.com/r/androiddev/comments/te2fzm/leetdroid_an_android_client_for_leetcode/)
+- [Starting out](https://www.reddit.com/r/androiddev/comments/te1aqb/starting_out/)
+- [How does the recycling work with Compose lazyList and LazyVerticalGrid?](https://www.reddit.com/r/androiddev/comments/te0ld8/how_does_the_recycling_work_with_compose_lazylist/)
+- [Rich Push Notifications with bigPicture / bigText Style + Actions without having to expand](https://www.reddit.com/r/androiddev/comments/tdzd4v/rich_push_notifications_with_bigpicture_bigtext/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
