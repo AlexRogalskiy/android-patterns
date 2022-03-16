@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Managing states in viewmodel](https://www.reddit.com/r/androiddev/comments/tee2om/managing_states_in_viewmodel/)
-- [How can I find hidden animation/gif data in Android app?](https://www.reddit.com/r/androiddev/comments/tebbi0/how_can_i_find_hidden_animationgif_data_in/)
-- [I ported the Spotify Mobius GitHub wiki to GitHub Pages + MkDocs with light and dark modes. I just created the issue and filed the PR. Let&#39;s see what happens!](https://www.reddit.com/r/androiddev/comments/teance/i_ported_the_spotify_mobius_github_wiki_to_github/)
-- [Google Play Console question](https://www.reddit.com/r/androiddev/comments/te5en4/google_play_console_question/)
-- [Android Studio Dolphin Canary 6 now available](https://www.reddit.com/r/androiddev/comments/te4wh5/android_studio_dolphin_canary_6_now_available/)
-- [Introduction to Architecture - MAD Skills](https://www.reddit.com/r/androiddev/comments/te3g7d/introduction_to_architecture_mad_skills/)
-- [LeetDroid - An android client for LeetCode](https://www.reddit.com/r/androiddev/comments/te2fzm/leetdroid_an_android_client_for_leetcode/)
-- [Starting out](https://www.reddit.com/r/androiddev/comments/te1aqb/starting_out/)
-- [How does the recycling work with Compose lazyList and LazyVerticalGrid?](https://www.reddit.com/r/androiddev/comments/te0ld8/how_does_the_recycling_work_with_compose_lazylist/)
-- [Rich Push Notifications with bigPicture / bigText Style + Actions without having to expand](https://www.reddit.com/r/androiddev/comments/tdzd4v/rich_push_notifications_with_bigpicture_bigtext/)
+- [AVD Manager Virtual Device iPhone X Skin](https://www.reddit.com/r/androiddev/comments/tf31oj/avd_manager_virtual_device_iphone_x_skin/)
+- [App slows down when user is not touching the screen](https://www.reddit.com/r/androiddev/comments/tezw0u/app_slows_down_when_user_is_not_touching_the/)
+- [Clarification on media libraries](https://www.reddit.com/r/androiddev/comments/texzij/clarification_on_media_libraries/)
+- [How would you feel about Google Play charging developers an annual fee like the App Store does?](https://www.reddit.com/r/androiddev/comments/texvm1/how_would_you_feel_about_google_play_charging/)
+- [Trying to convert FrameLayout to Bitmap but I cant get the text that comes with it](https://www.reddit.com/r/androiddev/comments/texdqn/trying_to_convert_framelayout_to_bitmap_but_i/)
+- [Any android base game repo somewhere ?](https://www.reddit.com/r/androiddev/comments/tew2ah/any_android_base_game_repo_somewhere/)
+- [How do you allow the user to draw and edit rectangles and circles?](https://www.reddit.com/r/androiddev/comments/tett3y/how_do_you_allow_the_user_to_draw_and_edit/)
+- [Web Developer -&gt; Android Application Developer](https://www.reddit.com/r/androiddev/comments/tesspy/web_developer_android_application_developer/)
+- [Android Studio on Raspberry Pi](https://www.reddit.com/r/androiddev/comments/tesq1y/android_studio_on_raspberry_pi/)
+- [Android Developer Tips: Interview with Ivan Morgillo a freelance Android Developer currently working for Novoda, and the co-host of Code with the Italians, LifeStyle + AndroidCommunity + encouraging junior developers + Technical + Kotlin](https://www.reddit.com/r/androiddev/comments/tes49a/android_developer_tips_interview_with_ivan/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
