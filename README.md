@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AVD Manager Virtual Device iPhone X Skin](https://www.reddit.com/r/androiddev/comments/tf31oj/avd_manager_virtual_device_iphone_x_skin/)
-- [App slows down when user is not touching the screen](https://www.reddit.com/r/androiddev/comments/tezw0u/app_slows_down_when_user_is_not_touching_the/)
-- [Clarification on media libraries](https://www.reddit.com/r/androiddev/comments/texzij/clarification_on_media_libraries/)
-- [How would you feel about Google Play charging developers an annual fee like the App Store does?](https://www.reddit.com/r/androiddev/comments/texvm1/how_would_you_feel_about_google_play_charging/)
-- [Trying to convert FrameLayout to Bitmap but I cant get the text that comes with it](https://www.reddit.com/r/androiddev/comments/texdqn/trying_to_convert_framelayout_to_bitmap_but_i/)
-- [Any android base game repo somewhere ?](https://www.reddit.com/r/androiddev/comments/tew2ah/any_android_base_game_repo_somewhere/)
-- [How do you allow the user to draw and edit rectangles and circles?](https://www.reddit.com/r/androiddev/comments/tett3y/how_do_you_allow_the_user_to_draw_and_edit/)
-- [Web Developer -&gt; Android Application Developer](https://www.reddit.com/r/androiddev/comments/tesspy/web_developer_android_application_developer/)
-- [Android Studio on Raspberry Pi](https://www.reddit.com/r/androiddev/comments/tesq1y/android_studio_on_raspberry_pi/)
-- [Android Developer Tips: Interview with Ivan Morgillo a freelance Android Developer currently working for Novoda, and the co-host of Code with the Italians, LifeStyle + AndroidCommunity + encouraging junior developers + Technical + Kotlin](https://www.reddit.com/r/androiddev/comments/tes49a/android_developer_tips_interview_with_ivan/)
+- [Will prepaid phones without service work as test devices?](https://www.reddit.com/r/androiddev/comments/tfza3d/will_prepaid_phones_without_service_work_as_test/)
+- [In which cases should I use different Admob banners? &lpar;Fragment/Activity&rpar;](https://www.reddit.com/r/androiddev/comments/tfxlok/in_which_cases_should_i_use_different_admob/)
+- [What is the difference between viewModel&lpar;&rpar; from the architecture components library and hiltViewModel&lpar;&rpar;?](https://www.reddit.com/r/androiddev/comments/tfwozd/what_is_the_difference_between_viewmodel_from_the/)
+- [Is the recent apps UI something you have to completely implement yourself now since it is no longer part of the system or is there some sort of intent you can call?](https://www.reddit.com/r/androiddev/comments/tfvwkf/is_the_recent_apps_ui_something_you_have_to/)
+- [Aged like milk](https://www.reddit.com/r/androiddev/comments/tftwnm/aged_like_milk/)
+- [Put android device to sleep programmatically and wake it up at a specific time](https://www.reddit.com/r/androiddev/comments/tfovbi/put_android_device_to_sleep_programmatically_and/)
+- [New to mobile dev - question about accessing hardware](https://www.reddit.com/r/androiddev/comments/tfo1t3/new_to_mobile_dev_question_about_accessing/)
+- [A browser App that could substitute YouTube Vanced](https://www.reddit.com/r/androiddev/comments/tfmyk9/a_browser_app_that_could_substitute_youtube_vanced/)
+- [strange behavior for newly created Android app](https://www.reddit.com/r/androiddev/comments/tfmem8/strange_behavior_for_newly_created_android_app/)
+- [Android App Link handling Issue in Chrome Browser Version](https://www.reddit.com/r/androiddev/comments/tfmabf/android_app_link_handling_issue_in_chrome_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
