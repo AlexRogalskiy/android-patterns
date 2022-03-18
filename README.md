@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Will prepaid phones without service work as test devices?](https://www.reddit.com/r/androiddev/comments/tfza3d/will_prepaid_phones_without_service_work_as_test/)
-- [In which cases should I use different Admob banners? &lpar;Fragment/Activity&rpar;](https://www.reddit.com/r/androiddev/comments/tfxlok/in_which_cases_should_i_use_different_admob/)
-- [What is the difference between viewModel&lpar;&rpar; from the architecture components library and hiltViewModel&lpar;&rpar;?](https://www.reddit.com/r/androiddev/comments/tfwozd/what_is_the_difference_between_viewmodel_from_the/)
-- [Is the recent apps UI something you have to completely implement yourself now since it is no longer part of the system or is there some sort of intent you can call?](https://www.reddit.com/r/androiddev/comments/tfvwkf/is_the_recent_apps_ui_something_you_have_to/)
-- [Aged like milk](https://www.reddit.com/r/androiddev/comments/tftwnm/aged_like_milk/)
-- [Put android device to sleep programmatically and wake it up at a specific time](https://www.reddit.com/r/androiddev/comments/tfovbi/put_android_device_to_sleep_programmatically_and/)
-- [New to mobile dev - question about accessing hardware](https://www.reddit.com/r/androiddev/comments/tfo1t3/new_to_mobile_dev_question_about_accessing/)
-- [A browser App that could substitute YouTube Vanced](https://www.reddit.com/r/androiddev/comments/tfmyk9/a_browser_app_that_could_substitute_youtube_vanced/)
-- [strange behavior for newly created Android app](https://www.reddit.com/r/androiddev/comments/tfmem8/strange_behavior_for_newly_created_android_app/)
-- [Android App Link handling Issue in Chrome Browser Version](https://www.reddit.com/r/androiddev/comments/tfmabf/android_app_link_handling_issue_in_chrome_browser/)
+- [is there a method to get html source from custom tab?](https://www.reddit.com/r/androiddev/comments/tglqrj/is_there_a_method_to_get_html_source_from_custom/)
+- [My app is not ranked on Google Play anymore.](https://www.reddit.com/r/androiddev/comments/tgl89a/my_app_is_not_ranked_on_google_play_anymore/)
+- [Are App Bundle apps with real AdMob ads working for you?](https://www.reddit.com/r/androiddev/comments/tgjshs/are_app_bundle_apps_with_real_admob_ads_working/)
+- [Google Policy violation due to SDK that is able to update another app](https://www.reddit.com/r/androiddev/comments/tgjj43/google_policy_violation_due_to_sdk_that_is_able/)
+- [Android Studio Dolphin Canary 7 now available](https://www.reddit.com/r/androiddev/comments/tgiswr/android_studio_dolphin_canary_7_now_available/)
+- [Defensive development: Gradle plugin development for busy engineers](https://www.reddit.com/r/androiddev/comments/tghok8/defensive_development_gradle_plugin_development/)
+- [How to get users to your app ?](https://www.reddit.com/r/androiddev/comments/tggkt6/how_to_get_users_to_your_app/)
+- [Android 13 Developer Preview 2](https://www.reddit.com/r/androiddev/comments/tggbys/android_13_developer_preview_2/)
+- [Found out how to make LiveData wait until it&#39;s value gets initialized. I just think it is neat](https://www.reddit.com/r/androiddev/comments/tgewai/found_out_how_to_make_livedata_wait_until_its/)
+- [How to Insert, Read, Update and Delete data from Room Database using Kotlin](https://www.reddit.com/r/androiddev/comments/tgdx1m/how_to_insert_read_update_and_delete_data_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
