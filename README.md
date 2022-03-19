@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [is there a method to get html source from custom tab?](https://www.reddit.com/r/androiddev/comments/tglqrj/is_there_a_method_to_get_html_source_from_custom/)
-- [My app is not ranked on Google Play anymore.](https://www.reddit.com/r/androiddev/comments/tgl89a/my_app_is_not_ranked_on_google_play_anymore/)
-- [Are App Bundle apps with real AdMob ads working for you?](https://www.reddit.com/r/androiddev/comments/tgjshs/are_app_bundle_apps_with_real_admob_ads_working/)
-- [Google Policy violation due to SDK that is able to update another app](https://www.reddit.com/r/androiddev/comments/tgjj43/google_policy_violation_due_to_sdk_that_is_able/)
-- [Android Studio Dolphin Canary 7 now available](https://www.reddit.com/r/androiddev/comments/tgiswr/android_studio_dolphin_canary_7_now_available/)
-- [Defensive development: Gradle plugin development for busy engineers](https://www.reddit.com/r/androiddev/comments/tghok8/defensive_development_gradle_plugin_development/)
-- [How to get users to your app ?](https://www.reddit.com/r/androiddev/comments/tggkt6/how_to_get_users_to_your_app/)
-- [Android 13 Developer Preview 2](https://www.reddit.com/r/androiddev/comments/tggbys/android_13_developer_preview_2/)
-- [Found out how to make LiveData wait until it&#39;s value gets initialized. I just think it is neat](https://www.reddit.com/r/androiddev/comments/tgewai/found_out_how_to_make_livedata_wait_until_its/)
-- [How to Insert, Read, Update and Delete data from Room Database using Kotlin](https://www.reddit.com/r/androiddev/comments/tgdx1m/how_to_insert_read_update_and_delete_data_from/)
+- [Useful Tools and Programs list for Android Development](https://www.reddit.com/r/androiddev/comments/thl24z/useful_tools_and_programs_list_for_android/)
+- [Set marker to place id in Android-iOS Google Maps SDK](https://www.reddit.com/r/androiddev/comments/thhjsz/set_marker_to_place_id_in_androidios_google_maps/)
+- [Can I get a link to download my apk from the play store?](https://www.reddit.com/r/androiddev/comments/thd0uw/can_i_get_a_link_to_download_my_apk_from_the_play/)
+- [Is it possible to stream system sounds over WebRTC?](https://www.reddit.com/r/androiddev/comments/thco6p/is_it_possible_to_stream_system_sounds_over_webrtc/)
+- [New to Android Studio. Need advice on redirecting to main activity after setting reminder.](https://www.reddit.com/r/androiddev/comments/thc50p/new_to_android_studio_need_advice_on_redirecting/)
+- [Has someone implemented MVVM with Clean architecture in Java?](https://www.reddit.com/r/androiddev/comments/th63be/has_someone_implemented_mvvm_with_clean/)
+- [Anyone have ADB constantly disconnecting lately?](https://www.reddit.com/r/androiddev/comments/th48xb/anyone_have_adb_constantly_disconnecting_lately/)
+- [I want to listen to all the gesture on the screen. How can I do this?](https://www.reddit.com/r/androiddev/comments/th2d0e/i_want_to_listen_to_all_the_gesture_on_the_screen/)
+- [Worth it to take an android development internship with no Java / Kotlin experience?](https://www.reddit.com/r/androiddev/comments/th24x4/worth_it_to_take_an_android_development/)
+- [App Feedback Thread - March 18, 2022](https://www.reddit.com/r/androiddev/comments/th1zm8/app_feedback_thread_march_18_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
