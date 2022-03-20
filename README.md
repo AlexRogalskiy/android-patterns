@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Useful Tools and Programs list for Android Development](https://www.reddit.com/r/androiddev/comments/thl24z/useful_tools_and_programs_list_for_android/)
-- [Set marker to place id in Android-iOS Google Maps SDK](https://www.reddit.com/r/androiddev/comments/thhjsz/set_marker_to_place_id_in_androidios_google_maps/)
-- [Can I get a link to download my apk from the play store?](https://www.reddit.com/r/androiddev/comments/thd0uw/can_i_get_a_link_to_download_my_apk_from_the_play/)
-- [Is it possible to stream system sounds over WebRTC?](https://www.reddit.com/r/androiddev/comments/thco6p/is_it_possible_to_stream_system_sounds_over_webrtc/)
-- [New to Android Studio. Need advice on redirecting to main activity after setting reminder.](https://www.reddit.com/r/androiddev/comments/thc50p/new_to_android_studio_need_advice_on_redirecting/)
-- [Has someone implemented MVVM with Clean architecture in Java?](https://www.reddit.com/r/androiddev/comments/th63be/has_someone_implemented_mvvm_with_clean/)
-- [Anyone have ADB constantly disconnecting lately?](https://www.reddit.com/r/androiddev/comments/th48xb/anyone_have_adb_constantly_disconnecting_lately/)
-- [I want to listen to all the gesture on the screen. How can I do this?](https://www.reddit.com/r/androiddev/comments/th2d0e/i_want_to_listen_to_all_the_gesture_on_the_screen/)
-- [Worth it to take an android development internship with no Java / Kotlin experience?](https://www.reddit.com/r/androiddev/comments/th24x4/worth_it_to_take_an_android_development/)
-- [App Feedback Thread - March 18, 2022](https://www.reddit.com/r/androiddev/comments/th1zm8/app_feedback_thread_march_18_2022/)
+- [Flutter replacing native development](https://www.reddit.com/r/androiddev/comments/ti7frn/flutter_replacing_native_development/)
+- [is there a method to disable chrome to open link in browser?](https://www.reddit.com/r/androiddev/comments/ti4bo2/is_there_a_method_to_disable_chrome_to_open_link/)
+- [MVVM with form input?](https://www.reddit.com/r/androiddev/comments/ti46kf/mvvm_with_form_input/)
+- [I&#39;ve been playing around with coding for a while, codeacademy, etc. I have a full time job and I&#39;m sort of considering concentrating in this area just as a hobby. My question is why pick android over web?](https://www.reddit.com/r/androiddev/comments/ti3fyi/ive_been_playing_around_with_coding_for_a_while/)
+- [How can I know which version of view pager 2 I am using?](https://www.reddit.com/r/androiddev/comments/ti34ul/how_can_i_know_which_version_of_view_pager_2_i_am/)
+- [Any Twitch channels with a focus on android or kotlin worth following?](https://www.reddit.com/r/androiddev/comments/ti015p/any_twitch_channels_with_a_focus_on_android_or/)
+- [Hosting App On Cloud](https://www.reddit.com/r/androiddev/comments/thy7rh/hosting_app_on_cloud/)
+- [SQL Query Builder for Android](https://www.reddit.com/r/androiddev/comments/thy1g3/sql_query_builder_for_android/)
+- [Оfficial &quot;contract&quot; with Google as an Android developer?](https://www.reddit.com/r/androiddev/comments/thxiva/оfficial_contract_with_google_as_an_android/)
+- [How to display a number on the menu bar, e.g. for a measure how long an user do a task?](https://www.reddit.com/r/androiddev/comments/thx76q/how_to_display_a_number_on_the_menu_bar_eg_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
