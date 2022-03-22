@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can&#39;t get emulator to run on M1 MacBook Pro](https://www.reddit.com/r/androiddev/comments/tix6cj/cant_get_emulator_to_run_on_m1_macbook_pro/)
-- [Why does Android Studio generate two .gitignore files for new projects?](https://www.reddit.com/r/androiddev/comments/tiwy2l/why_does_android_studio_generate_two_gitignore/)
-- [Android 9: Enable ADB over TCP at startup](https://www.reddit.com/r/androiddev/comments/tivihu/android_9_enable_adb_over_tcp_at_startup/)
-- [How to disable adaptive icons option on android 12/one ui 4?](https://www.reddit.com/r/androiddev/comments/tiuh2d/how_to_disable_adaptive_icons_option_on_android/)
-- [Help with auth0](https://www.reddit.com/r/androiddev/comments/tirxqq/help_with_auth0/)
-- [Any community challenges with code review?](https://www.reddit.com/r/androiddev/comments/tirsjz/any_community_challenges_with_code_review/)
-- [Develop android on linux](https://www.reddit.com/r/androiddev/comments/tilcwv/develop_android_on_linux/)
-- [Is Android Bumblebee stable?](https://www.reddit.com/r/androiddev/comments/tijz54/is_android_bumblebee_stable/)
-- [Android Dev Must-Know Data Format: Protocol Buffer](https://www.reddit.com/r/androiddev/comments/tiiyg1/android_dev_mustknow_data_format_protocol_buffer/)
-- [Even after 5 months, I&#39;m still unsuccessful](https://www.reddit.com/r/androiddev/comments/tii85j/even_after_5_months_im_still_unsuccessful/)
+- [How long before Google punishes your ranking if your vitals are out of whack?](https://www.reddit.com/r/androiddev/comments/tjqune/how_long_before_google_punishes_your_ranking_if/)
+- [Developing my app for android.. currently only iOS.](https://www.reddit.com/r/androiddev/comments/tjnkrw/developing_my_app_for_android_currently_only_ios/)
+- [Trying to start android app development!](https://www.reddit.com/r/androiddev/comments/tjm5xh/trying_to_start_android_app_development/)
+- [The Material Design icon Backspace doesn&#39;t exist anymore?](https://www.reddit.com/r/androiddev/comments/tjk920/the_material_design_icon_backspace_doesnt_exist/)
+- [Are There Any Cross-Platform 3rd Party Video Player Libraries?](https://www.reddit.com/r/androiddev/comments/tjjtvx/are_there_any_crossplatform_3rd_party_video/)
+- [fstab bug while executing init](https://www.reddit.com/r/androiddev/comments/tjgtj7/fstab_bug_while_executing_init/)
+- [how to link two authentication &lpar;Android Kotlin Firebase&rpar;](https://www.reddit.com/r/androiddev/comments/tjf2aa/how_to_link_two_authentication_android_kotlin/)
+- [Big drop in Google ranking from top 5 to 180+](https://www.reddit.com/r/androiddev/comments/tjd1qj/big_drop_in_google_ranking_from_top_5_to_180/)
+- [Weekly Who&#39;s Hiring Thread - March 21, 2022](https://www.reddit.com/r/androiddev/comments/tjcgor/weekly_whos_hiring_thread_march_21_2022/)
+- [How to create 2 version of app &lpar;admin and user&rpar;](https://www.reddit.com/r/androiddev/comments/tjce43/how_to_create_2_version_of_app_admin_and_user/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
