@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How long before Google punishes your ranking if your vitals are out of whack?](https://www.reddit.com/r/androiddev/comments/tjqune/how_long_before_google_punishes_your_ranking_if/)
-- [Developing my app for android.. currently only iOS.](https://www.reddit.com/r/androiddev/comments/tjnkrw/developing_my_app_for_android_currently_only_ios/)
-- [Trying to start android app development!](https://www.reddit.com/r/androiddev/comments/tjm5xh/trying_to_start_android_app_development/)
-- [The Material Design icon Backspace doesn&#39;t exist anymore?](https://www.reddit.com/r/androiddev/comments/tjk920/the_material_design_icon_backspace_doesnt_exist/)
-- [Are There Any Cross-Platform 3rd Party Video Player Libraries?](https://www.reddit.com/r/androiddev/comments/tjjtvx/are_there_any_crossplatform_3rd_party_video/)
-- [fstab bug while executing init](https://www.reddit.com/r/androiddev/comments/tjgtj7/fstab_bug_while_executing_init/)
-- [how to link two authentication &lpar;Android Kotlin Firebase&rpar;](https://www.reddit.com/r/androiddev/comments/tjf2aa/how_to_link_two_authentication_android_kotlin/)
-- [Big drop in Google ranking from top 5 to 180+](https://www.reddit.com/r/androiddev/comments/tjd1qj/big_drop_in_google_ranking_from_top_5_to_180/)
-- [Weekly Who&#39;s Hiring Thread - March 21, 2022](https://www.reddit.com/r/androiddev/comments/tjcgor/weekly_whos_hiring_thread_march_21_2022/)
-- [How to create 2 version of app &lpar;admin and user&rpar;](https://www.reddit.com/r/androiddev/comments/tjce43/how_to_create_2_version_of_app_admin_and_user/)
+- [Hello. What does SPLIT_BUNDLE mean?](https://www.reddit.com/r/androiddev/comments/tkgf5u/hello_what_does_split_bundle_mean/)
+- [I programmed this so for the first time by myself so please please support me , download my Random Number Picker and add a comment and I will download yours too!](https://www.reddit.com/r/androiddev/comments/tkf1l7/i_programmed_this_so_for_the_first_time_by_myself/)
+- [Android emulator suggestion&lpar;s&rpar; for commercial use?](https://www.reddit.com/r/androiddev/comments/tkerm0/android_emulator_suggestions_for_commercial_use/)
+- [Just because Jetpack Compose is out, it does not mean we have to bury the old XML](https://www.reddit.com/r/androiddev/comments/tkd896/just_because_jetpack_compose_is_out_it_does_not/)
+- [Returning Null When Logcat Shows Not Null](https://www.reddit.com/r/androiddev/comments/tkapz8/returning_null_when_logcat_shows_not_null/)
+- [Multi-Module-NextFlix-Composable](https://www.reddit.com/r/androiddev/comments/tkah33/multimodulenextflixcomposable/)
+- [Emulator performance on integrated graphics](https://www.reddit.com/r/androiddev/comments/tkaaq1/emulator_performance_on_integrated_graphics/)
+- [Thank you everyone. I got my first android job offer](https://www.reddit.com/r/androiddev/comments/tk9r16/thank_you_everyone_i_got_my_first_android_job/)
+- [How can I make my custom data formats work in an Android app package?](https://www.reddit.com/r/androiddev/comments/tk9ppx/how_can_i_make_my_custom_data_formats_work_in_an/)
+- [Why is changing the ringback tone &lpar;clientside&rpar; not supported by android? Could this be implemented in a new phone app, or would you have to change the operating system and perform a system update.](https://www.reddit.com/r/androiddev/comments/tk8vx2/why_is_changing_the_ringback_tone_clientside_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
