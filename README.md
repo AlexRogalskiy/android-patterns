@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hello. What does SPLIT_BUNDLE mean?](https://www.reddit.com/r/androiddev/comments/tkgf5u/hello_what_does_split_bundle_mean/)
-- [I programmed this so for the first time by myself so please please support me , download my Random Number Picker and add a comment and I will download yours too!](https://www.reddit.com/r/androiddev/comments/tkf1l7/i_programmed_this_so_for_the_first_time_by_myself/)
-- [Android emulator suggestion&lpar;s&rpar; for commercial use?](https://www.reddit.com/r/androiddev/comments/tkerm0/android_emulator_suggestions_for_commercial_use/)
-- [Just because Jetpack Compose is out, it does not mean we have to bury the old XML](https://www.reddit.com/r/androiddev/comments/tkd896/just_because_jetpack_compose_is_out_it_does_not/)
-- [Returning Null When Logcat Shows Not Null](https://www.reddit.com/r/androiddev/comments/tkapz8/returning_null_when_logcat_shows_not_null/)
-- [Multi-Module-NextFlix-Composable](https://www.reddit.com/r/androiddev/comments/tkah33/multimodulenextflixcomposable/)
-- [Emulator performance on integrated graphics](https://www.reddit.com/r/androiddev/comments/tkaaq1/emulator_performance_on_integrated_graphics/)
-- [Thank you everyone. I got my first android job offer](https://www.reddit.com/r/androiddev/comments/tk9r16/thank_you_everyone_i_got_my_first_android_job/)
-- [How can I make my custom data formats work in an Android app package?](https://www.reddit.com/r/androiddev/comments/tk9ppx/how_can_i_make_my_custom_data_formats_work_in_an/)
-- [Why is changing the ringback tone &lpar;clientside&rpar; not supported by android? Could this be implemented in a new phone app, or would you have to change the operating system and perform a system update.](https://www.reddit.com/r/androiddev/comments/tk8vx2/why_is_changing_the_ringback_tone_clientside_not/)
+- [I need help with an android app backed with AWS](https://www.reddit.com/r/androiddev/comments/tlmtmh/i_need_help_with_an_android_app_backed_with_aws/)
+- [Facebook/Meta interview](https://www.reddit.com/r/androiddev/comments/tlkl1f/facebookmeta_interview/)
+- [TabLayout inside BottomNavBar](https://www.reddit.com/r/androiddev/comments/tlisn4/tablayout_inside_bottomnavbar/)
+- [help uninstalled app for error](https://www.reddit.com/r/androiddev/comments/tlidnl/help_uninstalled_app_for_error/)
+- [kotlin or java?](https://www.reddit.com/r/androiddev/comments/tlh5g7/kotlin_or_java/)
+- [Rx to Coroutines Concepts, Part 5: Shared Flows](https://www.reddit.com/r/androiddev/comments/tl8vhi/rx_to_coroutines_concepts_part_5_shared_flows/)
+- [Snapchat has always been a battery hog, could this be a reason why?](https://www.reddit.com/r/androiddev/comments/tl4jg2/snapchat_has_always_been_a_battery_hog_could_this/)
+- [Learn Kotlin starting from strong Android and OOP knowledge](https://www.reddit.com/r/androiddev/comments/tkt95q/learn_kotlin_starting_from_strong_android_and_oop/)
+- [How to deal with device fragmentation? &lpar;a question from a noob&rpar;](https://www.reddit.com/r/androiddev/comments/tkqwc3/how_to_deal_with_device_fragmentation_a_question/)
+- [Facebook and Google Auth Combined Issue](https://www.reddit.com/r/androiddev/comments/tkqh2a/facebook_and_google_auth_combined_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
