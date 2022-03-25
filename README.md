@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I need help with an android app backed with AWS](https://www.reddit.com/r/androiddev/comments/tlmtmh/i_need_help_with_an_android_app_backed_with_aws/)
-- [Facebook/Meta interview](https://www.reddit.com/r/androiddev/comments/tlkl1f/facebookmeta_interview/)
-- [TabLayout inside BottomNavBar](https://www.reddit.com/r/androiddev/comments/tlisn4/tablayout_inside_bottomnavbar/)
-- [help uninstalled app for error](https://www.reddit.com/r/androiddev/comments/tlidnl/help_uninstalled_app_for_error/)
-- [kotlin or java?](https://www.reddit.com/r/androiddev/comments/tlh5g7/kotlin_or_java/)
-- [Rx to Coroutines Concepts, Part 5: Shared Flows](https://www.reddit.com/r/androiddev/comments/tl8vhi/rx_to_coroutines_concepts_part_5_shared_flows/)
-- [Snapchat has always been a battery hog, could this be a reason why?](https://www.reddit.com/r/androiddev/comments/tl4jg2/snapchat_has_always_been_a_battery_hog_could_this/)
-- [Learn Kotlin starting from strong Android and OOP knowledge](https://www.reddit.com/r/androiddev/comments/tkt95q/learn_kotlin_starting_from_strong_android_and_oop/)
-- [How to deal with device fragmentation? &lpar;a question from a noob&rpar;](https://www.reddit.com/r/androiddev/comments/tkqwc3/how_to_deal_with_device_fragmentation_a_question/)
-- [Facebook and Google Auth Combined Issue](https://www.reddit.com/r/androiddev/comments/tkqh2a/facebook_and_google_auth_combined_issue/)
+- [I need a 2022 phone with almost 100% screen to body ratios, but the same size as a galaxy s5 with 6000MAh please &lpar;that would be the perfect phone&rpar;](https://www.reddit.com/r/androiddev/comments/tnbkss/i_need_a_2022_phone_with_almost_100_screen_to/)
+- [Mysterious Decoding Issue](https://www.reddit.com/r/androiddev/comments/tn8pfu/mysterious_decoding_issue/)
+- [Android Views or Jetpack Compose ?](https://www.reddit.com/r/androiddev/comments/tn69t8/android_views_or_jetpack_compose/)
+- [A launcher app that I uninstalled left a wallpaper on Recent apps screen on Nvidia Shield, how to remove it?](https://www.reddit.com/r/androiddev/comments/tn5yod/a_launcher_app_that_i_uninstalled_left_a/)
+- [What is the most cost effective way to advertise my app?](https://www.reddit.com/r/androiddev/comments/tn2rf6/what_is_the_most_cost_effective_way_to_advertise/)
+- [How would I go about extracting Kotlin files from an apk?](https://www.reddit.com/r/androiddev/comments/tmtfko/how_would_i_go_about_extracting_kotlin_files_from/)
+- [Would this app name be against Google Play developer policy?](https://www.reddit.com/r/androiddev/comments/tms35k/would_this_app_name_be_against_google_play/)
+- [Button press speed display in java.](https://www.reddit.com/r/androiddev/comments/tmq8ix/button_press_speed_display_in_java/)
+- [Does anyone have idea why the following calendar home widget is now workable in real device Android 12 &lpar;Work in emulator though&rpar;](https://www.reddit.com/r/androiddev/comments/tmp99e/does_anyone_have_idea_why_the_following_calendar/)
+- [Stack Overflow needs to purge all answers before 2018 &lpar;at least&rpar;.](https://www.reddit.com/r/androiddev/comments/tmf01a/stack_overflow_needs_to_purge_all_answers_before/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
