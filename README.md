@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I need a 2022 phone with almost 100% screen to body ratios, but the same size as a galaxy s5 with 6000MAh please &lpar;that would be the perfect phone&rpar;](https://www.reddit.com/r/androiddev/comments/tnbkss/i_need_a_2022_phone_with_almost_100_screen_to/)
-- [Mysterious Decoding Issue](https://www.reddit.com/r/androiddev/comments/tn8pfu/mysterious_decoding_issue/)
-- [Android Views or Jetpack Compose ?](https://www.reddit.com/r/androiddev/comments/tn69t8/android_views_or_jetpack_compose/)
-- [A launcher app that I uninstalled left a wallpaper on Recent apps screen on Nvidia Shield, how to remove it?](https://www.reddit.com/r/androiddev/comments/tn5yod/a_launcher_app_that_i_uninstalled_left_a/)
-- [What is the most cost effective way to advertise my app?](https://www.reddit.com/r/androiddev/comments/tn2rf6/what_is_the_most_cost_effective_way_to_advertise/)
-- [How would I go about extracting Kotlin files from an apk?](https://www.reddit.com/r/androiddev/comments/tmtfko/how_would_i_go_about_extracting_kotlin_files_from/)
-- [Would this app name be against Google Play developer policy?](https://www.reddit.com/r/androiddev/comments/tms35k/would_this_app_name_be_against_google_play/)
-- [Button press speed display in java.](https://www.reddit.com/r/androiddev/comments/tmq8ix/button_press_speed_display_in_java/)
-- [Does anyone have idea why the following calendar home widget is now workable in real device Android 12 &lpar;Work in emulator though&rpar;](https://www.reddit.com/r/androiddev/comments/tmp99e/does_anyone_have_idea_why_the_following_calendar/)
-- [Stack Overflow needs to purge all answers before 2018 &lpar;at least&rpar;.](https://www.reddit.com/r/androiddev/comments/tmf01a/stack_overflow_needs_to_purge_all_answers_before/)
+- [Where is the background image on Android TV Recent apps screen located?](https://www.reddit.com/r/androiddev/comments/to9hc4/where_is_the_background_image_on_android_tv/)
+- [Learning android development?](https://www.reddit.com/r/androiddev/comments/to9h09/learning_android_development/)
+- [Is this possible? Android as audio MITM recorder](https://www.reddit.com/r/androiddev/comments/to9a8a/is_this_possible_android_as_audio_mitm_recorder/)
+- [Need help finding Android Course](https://www.reddit.com/r/androiddev/comments/to20be/need_help_finding_android_course/)
+- [What does it take to become a GDE ?](https://www.reddit.com/r/androiddev/comments/tnyp1m/what_does_it_take_to_become_a_gde/)
+- [My game for Google play store takes a long time to review](https://www.reddit.com/r/androiddev/comments/tny378/my_game_for_google_play_store_takes_a_long_time/)
+- [Repetitive content question.](https://www.reddit.com/r/androiddev/comments/tnwgfq/repetitive_content_question/)
+- [Create Android App using Android Studio | Hello World in Android Studio](https://www.reddit.com/r/androiddev/comments/tnutxj/create_android_app_using_android_studio_hello/)
+- [Recommended library for Material 3 dialogs?](https://www.reddit.com/r/androiddev/comments/tnuhkx/recommended_library_for_material_3_dialogs/)
+- [Asking users to leave a review.](https://www.reddit.com/r/androiddev/comments/tntxq3/asking_users_to_leave_a_review/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
