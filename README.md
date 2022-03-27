@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where is the background image on Android TV Recent apps screen located?](https://www.reddit.com/r/androiddev/comments/to9hc4/where_is_the_background_image_on_android_tv/)
-- [Learning android development?](https://www.reddit.com/r/androiddev/comments/to9h09/learning_android_development/)
-- [Is this possible? Android as audio MITM recorder](https://www.reddit.com/r/androiddev/comments/to9a8a/is_this_possible_android_as_audio_mitm_recorder/)
-- [Need help finding Android Course](https://www.reddit.com/r/androiddev/comments/to20be/need_help_finding_android_course/)
-- [What does it take to become a GDE ?](https://www.reddit.com/r/androiddev/comments/tnyp1m/what_does_it_take_to_become_a_gde/)
-- [My game for Google play store takes a long time to review](https://www.reddit.com/r/androiddev/comments/tny378/my_game_for_google_play_store_takes_a_long_time/)
-- [Repetitive content question.](https://www.reddit.com/r/androiddev/comments/tnwgfq/repetitive_content_question/)
-- [Create Android App using Android Studio | Hello World in Android Studio](https://www.reddit.com/r/androiddev/comments/tnutxj/create_android_app_using_android_studio_hello/)
-- [Recommended library for Material 3 dialogs?](https://www.reddit.com/r/androiddev/comments/tnuhkx/recommended_library_for_material_3_dialogs/)
-- [Asking users to leave a review.](https://www.reddit.com/r/androiddev/comments/tntxq3/asking_users_to_leave_a_review/)
+- [is there any possibility to detect Google Play test devices](https://www.reddit.com/r/androiddev/comments/tp97a9/is_there_any_possibility_to_detect_google_play/)
+- [How can do I create layout for each activity in Android?](https://www.reddit.com/r/androiddev/comments/tp8t8d/how_can_do_i_create_layout_for_each_activity_in/)
+- [Modern media playback on Android - Integrate with Android TV &amp; Google TV](https://www.reddit.com/r/androiddev/comments/tp8rnt/modern_media_playback_on_android_integrate_with/)
+- [does anyone know to fix the kernel page file size 0 error in android kitchen](https://www.reddit.com/r/androiddev/comments/tp84me/does_anyone_know_to_fix_the_kernel_page_file_size/)
+- [Learning Android Development on IntelliJ instead of Android Studio](https://www.reddit.com/r/androiddev/comments/tp76jo/learning_android_development_on_intellij_instead/)
+- [Android Twitter community?](https://www.reddit.com/r/androiddev/comments/tp3wmb/android_twitter_community/)
+- [What is the difference between setInterval, setFastestInterval and setMaxWaitTime in LocationRequest - FusedLocationProvider - Android Studio?](https://www.reddit.com/r/androiddev/comments/tp3v2n/what_is_the_difference_between_setinterval/)
+- [Differentiation between free and paid versions of app](https://www.reddit.com/r/androiddev/comments/tozu4j/differentiation_between_free_and_paid_versions_of/)
+- [Dagger on default constructor](https://www.reddit.com/r/androiddev/comments/toz615/dagger_on_default_constructor/)
+- [how execute multiple coroutines without waiting to each other?](https://www.reddit.com/r/androiddev/comments/toyqym/how_execute_multiple_coroutines_without_waiting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
