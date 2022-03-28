@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [is there any possibility to detect Google Play test devices](https://www.reddit.com/r/androiddev/comments/tp97a9/is_there_any_possibility_to_detect_google_play/)
-- [How can do I create layout for each activity in Android?](https://www.reddit.com/r/androiddev/comments/tp8t8d/how_can_do_i_create_layout_for_each_activity_in/)
-- [Modern media playback on Android - Integrate with Android TV &amp; Google TV](https://www.reddit.com/r/androiddev/comments/tp8rnt/modern_media_playback_on_android_integrate_with/)
-- [does anyone know to fix the kernel page file size 0 error in android kitchen](https://www.reddit.com/r/androiddev/comments/tp84me/does_anyone_know_to_fix_the_kernel_page_file_size/)
-- [Learning Android Development on IntelliJ instead of Android Studio](https://www.reddit.com/r/androiddev/comments/tp76jo/learning_android_development_on_intellij_instead/)
-- [Android Twitter community?](https://www.reddit.com/r/androiddev/comments/tp3wmb/android_twitter_community/)
-- [What is the difference between setInterval, setFastestInterval and setMaxWaitTime in LocationRequest - FusedLocationProvider - Android Studio?](https://www.reddit.com/r/androiddev/comments/tp3v2n/what_is_the_difference_between_setinterval/)
-- [Differentiation between free and paid versions of app](https://www.reddit.com/r/androiddev/comments/tozu4j/differentiation_between_free_and_paid_versions_of/)
-- [Dagger on default constructor](https://www.reddit.com/r/androiddev/comments/toz615/dagger_on_default_constructor/)
-- [how execute multiple coroutines without waiting to each other?](https://www.reddit.com/r/androiddev/comments/toyqym/how_execute_multiple_coroutines_without_waiting/)
+- [Looking to create a Pokedex-like app.](https://www.reddit.com/r/androiddev/comments/tpz02k/looking_to_create_a_pokedexlike_app/)
+- [Can&#39;t create a Uri.Builder&lpar;&rpar; instance.](https://www.reddit.com/r/androiddev/comments/tpybrt/cant_create_a_uribuilder_instance/)
+- [what are the versions of the mi stick ?](https://www.reddit.com/r/androiddev/comments/tptoju/what_are_the_versions_of_the_mi_stick/)
+- [recognize android as a printer](https://www.reddit.com/r/androiddev/comments/tpr0dq/recognize_android_as_a_printer/)
+- [Conditional navigation with datastore](https://www.reddit.com/r/androiddev/comments/tpnqtf/conditional_navigation_with_datastore/)
+- [Advice about developer name/identity to use in Google/Apple app stores](https://www.reddit.com/r/androiddev/comments/tpmc8l/advice_about_developer_nameidentity_to_use_in/)
+- [Data Safety Form: Play Console](https://www.reddit.com/r/androiddev/comments/tpj1qr/data_safety_form_play_console/)
+- [Android Compose advantages over XML](https://www.reddit.com/r/androiddev/comments/tpiue2/android_compose_advantages_over_xml/)
+- [Handling app upgrade in case of migrating from apk to app bundle with language splits](https://www.reddit.com/r/androiddev/comments/tphvhx/handling_app_upgrade_in_case_of_migrating_from/)
+- [New Photo Pickers for Android 13 and iOS 14](https://www.reddit.com/r/androiddev/comments/tphj08/new_photo_pickers_for_android_13_and_ios_14/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
