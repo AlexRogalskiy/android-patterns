@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking to create a Pokedex-like app.](https://www.reddit.com/r/androiddev/comments/tpz02k/looking_to_create_a_pokedexlike_app/)
-- [Can&#39;t create a Uri.Builder&lpar;&rpar; instance.](https://www.reddit.com/r/androiddev/comments/tpybrt/cant_create_a_uribuilder_instance/)
-- [what are the versions of the mi stick ?](https://www.reddit.com/r/androiddev/comments/tptoju/what_are_the_versions_of_the_mi_stick/)
-- [recognize android as a printer](https://www.reddit.com/r/androiddev/comments/tpr0dq/recognize_android_as_a_printer/)
-- [Conditional navigation with datastore](https://www.reddit.com/r/androiddev/comments/tpnqtf/conditional_navigation_with_datastore/)
-- [Advice about developer name/identity to use in Google/Apple app stores](https://www.reddit.com/r/androiddev/comments/tpmc8l/advice_about_developer_nameidentity_to_use_in/)
-- [Data Safety Form: Play Console](https://www.reddit.com/r/androiddev/comments/tpj1qr/data_safety_form_play_console/)
-- [Android Compose advantages over XML](https://www.reddit.com/r/androiddev/comments/tpiue2/android_compose_advantages_over_xml/)
-- [Handling app upgrade in case of migrating from apk to app bundle with language splits](https://www.reddit.com/r/androiddev/comments/tphvhx/handling_app_upgrade_in_case_of_migrating_from/)
-- [New Photo Pickers for Android 13 and iOS 14](https://www.reddit.com/r/androiddev/comments/tphj08/new_photo_pickers_for_android_13_and_ios_14/)
+- [Learning Android Camera stack](https://www.reddit.com/r/androiddev/comments/tqliq7/learning_android_camera_stack/)
+- [Changing specific object state in Compose? id?](https://www.reddit.com/r/androiddev/comments/tql16w/changing_specific_object_state_in_compose_id/)
+- [Ad Network with Splash or App Open like Admob](https://www.reddit.com/r/androiddev/comments/tqkhyt/ad_network_with_splash_or_app_open_like_admob/)
+- [Any way to do an automatic staged rollout instead of manual?](https://www.reddit.com/r/androiddev/comments/tqjtd1/any_way_to_do_an_automatic_staged_rollout_instead/)
+- [What architecture should I go for do that its not a bad architecture](https://www.reddit.com/r/androiddev/comments/tqijj1/what_architecture_should_i_go_for_do_that_its_not/)
+- [How to pass a String from MainActicity to a Fragment](https://www.reddit.com/r/androiddev/comments/tqi7sb/how_to_pass_a_string_from_mainacticity_to_a/)
+- [Android || kotlin](https://www.reddit.com/r/androiddev/comments/tqgxdn/android_kotlin/)
+- [Building on ARM CPU, who to CC?](https://www.reddit.com/r/androiddev/comments/tqfzb0/building_on_arm_cpu_who_to_cc/)
+- [App animation methods](https://www.reddit.com/r/androiddev/comments/tqfi76/app_animation_methods/)
+- [Visual tests](https://www.reddit.com/r/androiddev/comments/tqf5pb/visual_tests/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
