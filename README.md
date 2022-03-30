@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Learning Android Camera stack](https://www.reddit.com/r/androiddev/comments/tqliq7/learning_android_camera_stack/)
-- [Changing specific object state in Compose? id?](https://www.reddit.com/r/androiddev/comments/tql16w/changing_specific_object_state_in_compose_id/)
-- [Ad Network with Splash or App Open like Admob](https://www.reddit.com/r/androiddev/comments/tqkhyt/ad_network_with_splash_or_app_open_like_admob/)
-- [Any way to do an automatic staged rollout instead of manual?](https://www.reddit.com/r/androiddev/comments/tqjtd1/any_way_to_do_an_automatic_staged_rollout_instead/)
-- [What architecture should I go for do that its not a bad architecture](https://www.reddit.com/r/androiddev/comments/tqijj1/what_architecture_should_i_go_for_do_that_its_not/)
-- [How to pass a String from MainActicity to a Fragment](https://www.reddit.com/r/androiddev/comments/tqi7sb/how_to_pass_a_string_from_mainacticity_to_a/)
-- [Android || kotlin](https://www.reddit.com/r/androiddev/comments/tqgxdn/android_kotlin/)
-- [Building on ARM CPU, who to CC?](https://www.reddit.com/r/androiddev/comments/tqfzb0/building_on_arm_cpu_who_to_cc/)
-- [App animation methods](https://www.reddit.com/r/androiddev/comments/tqfi76/app_animation_methods/)
-- [Visual tests](https://www.reddit.com/r/androiddev/comments/tqf5pb/visual_tests/)
+- [Spen inputs to mouse inputs](https://www.reddit.com/r/androiddev/comments/trsu7e/spen_inputs_to_mouse_inputs/)
+- [After how many app downloads should ads be integrated?](https://www.reddit.com/r/androiddev/comments/trsmw3/after_how_many_app_downloads_should_ads_be/)
+- [Language for Android interviews](https://www.reddit.com/r/androiddev/comments/trrt4c/language_for_android_interviews/)
+- [curious about using facebook in another app](https://www.reddit.com/r/androiddev/comments/trkmgf/curious_about_using_facebook_in_another_app/)
+- [Are there any specific IP block of Google Play Reviewers](https://www.reddit.com/r/androiddev/comments/trjlxl/are_there_any_specific_ip_block_of_google_play/)
+- [Import old project into Android Studio?](https://www.reddit.com/r/androiddev/comments/trfnag/import_old_project_into_android_studio/)
+- [Introducing Focus, a new open source Gradle plugin](https://www.reddit.com/r/androiddev/comments/trf93s/introducing_focus_a_new_open_source_gradle_plugin/)
+- [Resume review for non-EU candidate &lpar;1 YOE&rpar; applying to jobs in the UK from Italy](https://www.reddit.com/r/androiddev/comments/trf7nl/resume_review_for_noneu_candidate_1_yoe_applying/)
+- [Creating an app for a client, do&#39;s and don&#39;t](https://www.reddit.com/r/androiddev/comments/tres17/creating_an_app_for_a_client_dos_and_dont/)
+- [How can I color Circiural Reveral Animation in Android Activity Transition?](https://www.reddit.com/r/androiddev/comments/tr7o1y/how_can_i_color_circiural_reveral_animation_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
