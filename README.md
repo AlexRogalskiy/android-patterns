@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Spen inputs to mouse inputs](https://www.reddit.com/r/androiddev/comments/trsu7e/spen_inputs_to_mouse_inputs/)
-- [After how many app downloads should ads be integrated?](https://www.reddit.com/r/androiddev/comments/trsmw3/after_how_many_app_downloads_should_ads_be/)
-- [Language for Android interviews](https://www.reddit.com/r/androiddev/comments/trrt4c/language_for_android_interviews/)
-- [curious about using facebook in another app](https://www.reddit.com/r/androiddev/comments/trkmgf/curious_about_using_facebook_in_another_app/)
-- [Are there any specific IP block of Google Play Reviewers](https://www.reddit.com/r/androiddev/comments/trjlxl/are_there_any_specific_ip_block_of_google_play/)
-- [Import old project into Android Studio?](https://www.reddit.com/r/androiddev/comments/trfnag/import_old_project_into_android_studio/)
-- [Introducing Focus, a new open source Gradle plugin](https://www.reddit.com/r/androiddev/comments/trf93s/introducing_focus_a_new_open_source_gradle_plugin/)
-- [Resume review for non-EU candidate &lpar;1 YOE&rpar; applying to jobs in the UK from Italy](https://www.reddit.com/r/androiddev/comments/trf7nl/resume_review_for_noneu_candidate_1_yoe_applying/)
-- [Creating an app for a client, do&#39;s and don&#39;t](https://www.reddit.com/r/androiddev/comments/tres17/creating_an_app_for_a_client_dos_and_dont/)
-- [How can I color Circiural Reveral Animation in Android Activity Transition?](https://www.reddit.com/r/androiddev/comments/tr7o1y/how_can_i_color_circiural_reveral_animation_in/)
+- [youtube vanced down](https://www.reddit.com/r/androiddev/comments/tskm8e/youtube_vanced_down/)
+- [GPS location tampering](https://www.reddit.com/r/androiddev/comments/tsk2vm/gps_location_tampering/)
+- [Sentry can now automatically install all Android SDKs through gradle &lpar;feedback request&rpar;](https://www.reddit.com/r/androiddev/comments/tsjcxx/sentry_can_now_automatically_install_all_android/)
+- [Is it worth working on an app that gets 400 installs/month through the Playstore?](https://www.reddit.com/r/androiddev/comments/tshqhx/is_it_worth_working_on_an_app_that_gets_400/)
+- [Comparing Two numbers Triggers Toast Too Early](https://www.reddit.com/r/androiddev/comments/tsf6ol/comparing_two_numbers_triggers_toast_too_early/)
+- [How do I do Google Play like search?](https://www.reddit.com/r/androiddev/comments/tscu95/how_do_i_do_google_play_like_search/)
+- [ConcurrentModification Exception thrown when inserting the file via content resolver](https://www.reddit.com/r/androiddev/comments/tscdpb/concurrentmodification_exception_thrown_when/)
+- [How to ellipsize here?](https://www.reddit.com/r/androiddev/comments/tsawbl/how_to_ellipsize_here/)
+- [How to &quot;anchor&quot; seekbar to a certain values?](https://www.reddit.com/r/androiddev/comments/tsah9z/how_to_anchor_seekbar_to_a_certain_values/)
+- [Best certifications for a new Android dev?](https://www.reddit.com/r/androiddev/comments/tsafe9/best_certifications_for_a_new_android_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
