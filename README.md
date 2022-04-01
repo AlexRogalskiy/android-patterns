@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [youtube vanced down](https://www.reddit.com/r/androiddev/comments/tskm8e/youtube_vanced_down/)
-- [GPS location tampering](https://www.reddit.com/r/androiddev/comments/tsk2vm/gps_location_tampering/)
-- [Sentry can now automatically install all Android SDKs through gradle &lpar;feedback request&rpar;](https://www.reddit.com/r/androiddev/comments/tsjcxx/sentry_can_now_automatically_install_all_android/)
-- [Is it worth working on an app that gets 400 installs/month through the Playstore?](https://www.reddit.com/r/androiddev/comments/tshqhx/is_it_worth_working_on_an_app_that_gets_400/)
-- [Comparing Two numbers Triggers Toast Too Early](https://www.reddit.com/r/androiddev/comments/tsf6ol/comparing_two_numbers_triggers_toast_too_early/)
-- [How do I do Google Play like search?](https://www.reddit.com/r/androiddev/comments/tscu95/how_do_i_do_google_play_like_search/)
-- [ConcurrentModification Exception thrown when inserting the file via content resolver](https://www.reddit.com/r/androiddev/comments/tscdpb/concurrentmodification_exception_thrown_when/)
-- [How to ellipsize here?](https://www.reddit.com/r/androiddev/comments/tsawbl/how_to_ellipsize_here/)
-- [How to &quot;anchor&quot; seekbar to a certain values?](https://www.reddit.com/r/androiddev/comments/tsah9z/how_to_anchor_seekbar_to_a_certain_values/)
-- [Best certifications for a new Android dev?](https://www.reddit.com/r/androiddev/comments/tsafe9/best_certifications_for_a_new_android_dev/)
+- [A naive Jetpack Compose LazyStaggeredGrid](https://www.reddit.com/r/androiddev/comments/ttax35/a_naive_jetpack_compose_lazystaggeredgrid/)
+- [Do you use visual regression tests in your projects?](https://www.reddit.com/r/androiddev/comments/ttaf0n/do_you_use_visual_regression_tests_in_your/)
+- [Debugging Tips that helped you get over problems faster?](https://www.reddit.com/r/androiddev/comments/ttac6y/debugging_tips_that_helped_you_get_over_problems/)
+- [Hardware suggestion to learn BLE development](https://www.reddit.com/r/androiddev/comments/tta4pz/hardware_suggestion_to_learn_ble_development/)
+- [Android Development with Macbook Pro 14 base variant](https://www.reddit.com/r/androiddev/comments/tt6in0/android_development_with_macbook_pro_14_base/)
+- [Publishing new app as an update of existing app](https://www.reddit.com/r/androiddev/comments/tt5c32/publishing_new_app_as_an_update_of_existing_app/)
+- [Isn&#39;t navigation component forcing developers to use MVVM?](https://www.reddit.com/r/androiddev/comments/tt4vap/isnt_navigation_component_forcing_developers_to/)
+- [Missing 1099 tax form](https://www.reddit.com/r/androiddev/comments/tt3qjr/missing_1099_tax_form/)
+- [Streaming H.264 with MediaCodec: Performance-wise, which is better? using ImageView or Surface/TextureView when user is able to get screenshot of original frame](https://www.reddit.com/r/androiddev/comments/tt39ie/streaming_h264_with_mediacodec_performancewise/)
+- [What to do when a junior developer is more advanced?](https://www.reddit.com/r/androiddev/comments/tsxrku/what_to_do_when_a_junior_developer_is_more/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
