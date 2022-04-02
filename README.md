@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A naive Jetpack Compose LazyStaggeredGrid](https://www.reddit.com/r/androiddev/comments/ttax35/a_naive_jetpack_compose_lazystaggeredgrid/)
-- [Do you use visual regression tests in your projects?](https://www.reddit.com/r/androiddev/comments/ttaf0n/do_you_use_visual_regression_tests_in_your/)
-- [Debugging Tips that helped you get over problems faster?](https://www.reddit.com/r/androiddev/comments/ttac6y/debugging_tips_that_helped_you_get_over_problems/)
-- [Hardware suggestion to learn BLE development](https://www.reddit.com/r/androiddev/comments/tta4pz/hardware_suggestion_to_learn_ble_development/)
-- [Android Development with Macbook Pro 14 base variant](https://www.reddit.com/r/androiddev/comments/tt6in0/android_development_with_macbook_pro_14_base/)
-- [Publishing new app as an update of existing app](https://www.reddit.com/r/androiddev/comments/tt5c32/publishing_new_app_as_an_update_of_existing_app/)
-- [Isn&#39;t navigation component forcing developers to use MVVM?](https://www.reddit.com/r/androiddev/comments/tt4vap/isnt_navigation_component_forcing_developers_to/)
-- [Missing 1099 tax form](https://www.reddit.com/r/androiddev/comments/tt3qjr/missing_1099_tax_form/)
-- [Streaming H.264 with MediaCodec: Performance-wise, which is better? using ImageView or Surface/TextureView when user is able to get screenshot of original frame](https://www.reddit.com/r/androiddev/comments/tt39ie/streaming_h264_with_mediacodec_performancewise/)
-- [What to do when a junior developer is more advanced?](https://www.reddit.com/r/androiddev/comments/tsxrku/what_to_do_when_a_junior_developer_is_more/)
+- [Jeff bezos and his phone getting hacked.](https://www.reddit.com/r/androiddev/comments/tu7mbh/jeff_bezos_and_his_phone_getting_hacked/)
+- [what&#39;s the coroutines alternative for rx zip with multiple suspend functions? async await?](https://www.reddit.com/r/androiddev/comments/tu7bw6/whats_the_coroutines_alternative_for_rx_zip_with/)
+- [Play Store account closed and can&#39;t find any option to create a new one](https://www.reddit.com/r/androiddev/comments/tu3o4q/play_store_account_closed_and_cant_find_any/)
+- [AUTOMATE USSD REQUESTS](https://www.reddit.com/r/androiddev/comments/tu33ev/automate_ussd_requests/)
+- [Is there reason for concern when developing for Android Systems-on-Modules?](https://www.reddit.com/r/androiddev/comments/tu1jyk/is_there_reason_for_concern_when_developing_for/)
+- [Android jetpack compose conditional navigation](https://www.reddit.com/r/androiddev/comments/tu15rj/android_jetpack_compose_conditional_navigation/)
+- [this won&#39;t go away.](https://www.reddit.com/r/androiddev/comments/ttzxmb/this_wont_go_away/)
+- [Compose - NavHost recomposition multiple times](https://www.reddit.com/r/androiddev/comments/ttywxy/compose_navhost_recomposition_multiple_times/)
+- [Looking for experienced Android Developer New Project](https://www.reddit.com/r/androiddev/comments/ttxyw5/looking_for_experienced_android_developer_new/)
+- [DSU will receive new features and notable improvements in Android 13](https://www.reddit.com/r/androiddev/comments/ttwp9n/dsu_will_receive_new_features_and_notable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
