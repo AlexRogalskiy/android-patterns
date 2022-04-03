@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Jeff bezos and his phone getting hacked.](https://www.reddit.com/r/androiddev/comments/tu7mbh/jeff_bezos_and_his_phone_getting_hacked/)
-- [what&#39;s the coroutines alternative for rx zip with multiple suspend functions? async await?](https://www.reddit.com/r/androiddev/comments/tu7bw6/whats_the_coroutines_alternative_for_rx_zip_with/)
-- [Play Store account closed and can&#39;t find any option to create a new one](https://www.reddit.com/r/androiddev/comments/tu3o4q/play_store_account_closed_and_cant_find_any/)
-- [AUTOMATE USSD REQUESTS](https://www.reddit.com/r/androiddev/comments/tu33ev/automate_ussd_requests/)
-- [Is there reason for concern when developing for Android Systems-on-Modules?](https://www.reddit.com/r/androiddev/comments/tu1jyk/is_there_reason_for_concern_when_developing_for/)
-- [Android jetpack compose conditional navigation](https://www.reddit.com/r/androiddev/comments/tu15rj/android_jetpack_compose_conditional_navigation/)
-- [this won&#39;t go away.](https://www.reddit.com/r/androiddev/comments/ttzxmb/this_wont_go_away/)
-- [Compose - NavHost recomposition multiple times](https://www.reddit.com/r/androiddev/comments/ttywxy/compose_navhost_recomposition_multiple_times/)
-- [Looking for experienced Android Developer New Project](https://www.reddit.com/r/androiddev/comments/ttxyw5/looking_for_experienced_android_developer_new/)
-- [DSU will receive new features and notable improvements in Android 13](https://www.reddit.com/r/androiddev/comments/ttwp9n/dsu_will_receive_new_features_and_notable/)
+- [iOS and Android Developments are Converging Over the Years](https://www.reddit.com/r/androiddev/comments/tuvxja/ios_and_android_developments_are_converging_over/)
+- [Generic Memory Profiling &lpar;for non native apps&rpar;](https://www.reddit.com/r/androiddev/comments/tutl4j/generic_memory_profiling_for_non_native_apps/)
+- [Android Java](https://www.reddit.com/r/androiddev/comments/tusn2z/android_java/)
+- [Splash Screen API Android 12 is buggy](https://www.reddit.com/r/androiddev/comments/turytx/splash_screen_api_android_12_is_buggy/)
+- [Rooting android in 2022 &lpar;for developing&rpar;](https://www.reddit.com/r/androiddev/comments/tuoq36/rooting_android_in_2022_for_developing/)
+- [How do layout height qualifiers work?](https://www.reddit.com/r/androiddev/comments/tuibc5/how_do_layout_height_qualifiers_work/)
+- [Navigating to new screen without previous scaffold](https://www.reddit.com/r/androiddev/comments/tug2s6/navigating_to_new_screen_without_previous_scaffold/)
+- [How does the OS know how many cameras a phone has?](https://www.reddit.com/r/androiddev/comments/tufo4i/how_does_the_os_know_how_many_cameras_a_phone_has/)
+- [Blogfy is a Kotlin-stack application built with Ktor &lpar;REST API Backend&rpar; + Android. If you find it helpful, a star would be appreciated](https://www.reddit.com/r/androiddev/comments/tuf3u5/blogfy_is_a_kotlinstack_application_built_with/)
+- [App Upgrade | Easiest way to upgrade/force upgrade your apps.](https://www.reddit.com/r/androiddev/comments/tudj5m/app_upgrade_easiest_way_to_upgradeforce_upgrade/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
