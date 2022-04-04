@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [send updates](https://www.reddit.com/r/androiddev/comments/tvo20d/send_updates/)
+- [Is debugging on a Pixel 6 ungodly slow for anyone else?](https://www.reddit.com/r/androiddev/comments/tviu69/is_debugging_on_a_pixel_6_ungodly_slow_for_anyone/)
+- [Google developer account](https://www.reddit.com/r/androiddev/comments/tvi4pd/google_developer_account/)
+- [Wearos: Refresh ambient watchface](https://www.reddit.com/r/androiddev/comments/tv9gs4/wearos_refresh_ambient_watchface/)
+- [can anyone tell me why my switchcompat is null?](https://www.reddit.com/r/androiddev/comments/tv98n3/can_anyone_tell_me_why_my_switchcompat_is_null/)
+- [Searching for this cool plugin](https://www.reddit.com/r/androiddev/comments/tv75ft/searching_for_this_cool_plugin/)
+- [List of newsletters and news](https://www.reddit.com/r/androiddev/comments/tv66vw/list_of_newsletters_and_news/)
+- [Handling different button state in viewmodel](https://www.reddit.com/r/androiddev/comments/tv5xwt/handling_different_button_state_in_viewmodel/)
 - [iOS and Android Developments are Converging Over the Years](https://www.reddit.com/r/androiddev/comments/tuvxja/ios_and_android_developments_are_converging_over/)
 - [Generic Memory Profiling &lpar;for non native apps&rpar;](https://www.reddit.com/r/androiddev/comments/tutl4j/generic_memory_profiling_for_non_native_apps/)
-- [Android Java](https://www.reddit.com/r/androiddev/comments/tusn2z/android_java/)
-- [Splash Screen API Android 12 is buggy](https://www.reddit.com/r/androiddev/comments/turytx/splash_screen_api_android_12_is_buggy/)
-- [Rooting android in 2022 &lpar;for developing&rpar;](https://www.reddit.com/r/androiddev/comments/tuoq36/rooting_android_in_2022_for_developing/)
-- [How do layout height qualifiers work?](https://www.reddit.com/r/androiddev/comments/tuibc5/how_do_layout_height_qualifiers_work/)
-- [Navigating to new screen without previous scaffold](https://www.reddit.com/r/androiddev/comments/tug2s6/navigating_to_new_screen_without_previous_scaffold/)
-- [How does the OS know how many cameras a phone has?](https://www.reddit.com/r/androiddev/comments/tufo4i/how_does_the_os_know_how_many_cameras_a_phone_has/)
-- [Blogfy is a Kotlin-stack application built with Ktor &lpar;REST API Backend&rpar; + Android. If you find it helpful, a star would be appreciated](https://www.reddit.com/r/androiddev/comments/tuf3u5/blogfy_is_a_kotlinstack_application_built_with/)
-- [App Upgrade | Easiest way to upgrade/force upgrade your apps.](https://www.reddit.com/r/androiddev/comments/tudj5m/app_upgrade_easiest_way_to_upgradeforce_upgrade/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
