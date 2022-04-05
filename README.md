@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [send updates](https://www.reddit.com/r/androiddev/comments/tvo20d/send_updates/)
-- [Is debugging on a Pixel 6 ungodly slow for anyone else?](https://www.reddit.com/r/androiddev/comments/tviu69/is_debugging_on_a_pixel_6_ungodly_slow_for_anyone/)
-- [Google developer account](https://www.reddit.com/r/androiddev/comments/tvi4pd/google_developer_account/)
-- [Wearos: Refresh ambient watchface](https://www.reddit.com/r/androiddev/comments/tv9gs4/wearos_refresh_ambient_watchface/)
-- [can anyone tell me why my switchcompat is null?](https://www.reddit.com/r/androiddev/comments/tv98n3/can_anyone_tell_me_why_my_switchcompat_is_null/)
-- [Searching for this cool plugin](https://www.reddit.com/r/androiddev/comments/tv75ft/searching_for_this_cool_plugin/)
-- [List of newsletters and news](https://www.reddit.com/r/androiddev/comments/tv66vw/list_of_newsletters_and_news/)
-- [Handling different button state in viewmodel](https://www.reddit.com/r/androiddev/comments/tv5xwt/handling_different_button_state_in_viewmodel/)
-- [iOS and Android Developments are Converging Over the Years](https://www.reddit.com/r/androiddev/comments/tuvxja/ios_and_android_developments_are_converging_over/)
-- [Generic Memory Profiling &lpar;for non native apps&rpar;](https://www.reddit.com/r/androiddev/comments/tutl4j/generic_memory_profiling_for_non_native_apps/)
+- [Why am I able to .set&lpar;&rpar; on TextView from outside uiThread](https://www.reddit.com/r/androiddev/comments/twfun0/why_am_i_able_to_set_on_textview_from_outside/)
+- [Can&#39;t Return Data To Previous Activity Using SetResult and registerForActivityResult](https://www.reddit.com/r/androiddev/comments/twf76k/cant_return_data_to_previous_activity_using/)
+- [If nothing else: Read Dagger Core Semantics](https://www.reddit.com/r/androiddev/comments/twerss/if_nothing_else_read_dagger_core_semantics/)
+- [My interpretation of the enigmatic Nothing Phone Glyph:](https://www.reddit.com/r/androiddev/comments/twe7nf/my_interpretation_of_the_enigmatic_nothing_phone/)
+- [Android &quot;linker64&quot; can&#39;t link init. it doesn&#39;t find the library called libc.so Whereas libc.so exists. Can anyone help me please 🥺](https://www.reddit.com/r/androiddev/comments/twe6w1/android_linker64_cant_link_init_it_doesnt_find/)
+- [Feedback about my first App](https://www.reddit.com/r/androiddev/comments/twddqe/feedback_about_my_first_app/)
+- [Android logo on r/place at &lpar;1575, 1995&rpar;!](https://www.reddit.com/r/androiddev/comments/twcpsd/android_logo_on_rplace_at_1575_1995/)
+- [How to ban users without accessing device ID?](https://www.reddit.com/r/androiddev/comments/twc48n/how_to_ban_users_without_accessing_device_id/)
+- [What happens to Sharedpreferences/AndroidKeyStore/AccountManager when user choose to copy apps and data from your old device](https://www.reddit.com/r/androiddev/comments/tw7p5v/what_happens_to/)
+- [Kotlin 1.6.20 Released](https://www.reddit.com/r/androiddev/comments/tw6czf/kotlin_1620_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
