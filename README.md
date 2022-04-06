@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why am I able to .set&lpar;&rpar; on TextView from outside uiThread](https://www.reddit.com/r/androiddev/comments/twfun0/why_am_i_able_to_set_on_textview_from_outside/)
-- [Can&#39;t Return Data To Previous Activity Using SetResult and registerForActivityResult](https://www.reddit.com/r/androiddev/comments/twf76k/cant_return_data_to_previous_activity_using/)
-- [If nothing else: Read Dagger Core Semantics](https://www.reddit.com/r/androiddev/comments/twerss/if_nothing_else_read_dagger_core_semantics/)
-- [My interpretation of the enigmatic Nothing Phone Glyph:](https://www.reddit.com/r/androiddev/comments/twe7nf/my_interpretation_of_the_enigmatic_nothing_phone/)
-- [Android &quot;linker64&quot; can&#39;t link init. it doesn&#39;t find the library called libc.so Whereas libc.so exists. Can anyone help me please 🥺](https://www.reddit.com/r/androiddev/comments/twe6w1/android_linker64_cant_link_init_it_doesnt_find/)
-- [Feedback about my first App](https://www.reddit.com/r/androiddev/comments/twddqe/feedback_about_my_first_app/)
-- [Android logo on r/place at &lpar;1575, 1995&rpar;!](https://www.reddit.com/r/androiddev/comments/twcpsd/android_logo_on_rplace_at_1575_1995/)
-- [How to ban users without accessing device ID?](https://www.reddit.com/r/androiddev/comments/twc48n/how_to_ban_users_without_accessing_device_id/)
-- [What happens to Sharedpreferences/AndroidKeyStore/AccountManager when user choose to copy apps and data from your old device](https://www.reddit.com/r/androiddev/comments/tw7p5v/what_happens_to/)
-- [Kotlin 1.6.20 Released](https://www.reddit.com/r/androiddev/comments/tw6czf/kotlin_1620_released/)
+- [Does the play store allow self-made interstitial ads?](https://www.reddit.com/r/androiddev/comments/txajxo/does_the_play_store_allow_selfmade_interstitial/)
+- [How to create a deep copy of a MutableStateList?](https://www.reddit.com/r/androiddev/comments/tx6m9u/how_to_create_a_deep_copy_of_a_mutablestatelist/)
+- [RT @Mariuxtheone: Live now on https://t.co/LU40jR6I8Z with #AmazonFireSideChat! Today&#39;s topic: Increase Productivity with Split Screen and Drag &amp; Drop #androiddev #fire #tablets #apps #splitscreen](https://www.reddit.com/r/androiddev/comments/tx068z/rt_mariuxtheone_live_now_on_httpstcolu40jr6i8z/)
+- [I simply cannot import anko, what am I doing wrong?](https://www.reddit.com/r/androiddev/comments/twyu4i/i_simply_cannot_import_anko_what_am_i_doing_wrong/)
+- [Play store deletes my reviews?](https://www.reddit.com/r/androiddev/comments/twyef7/play_store_deletes_my_reviews/)
+- [How do you manage native dependencies?](https://www.reddit.com/r/androiddev/comments/twy57w/how_do_you_manage_native_dependencies/)
+- [How are you handling this situations in compose? [Compose Architecture]](https://www.reddit.com/r/androiddev/comments/twxtt6/how_are_you_handling_this_situations_in_compose/)
+- [Use Visual studio&#39;s emulator in android studio](https://www.reddit.com/r/androiddev/comments/twxh92/use_visual_studios_emulator_in_android_studio/)
+- [Slope-intercept library design – Jake Wharton](https://www.reddit.com/r/androiddev/comments/twwmpb/slopeintercept_library_design_jake_wharton/)
+- [From which source the OS gets information about date and time?](https://www.reddit.com/r/androiddev/comments/twwi6x/from_which_source_the_os_gets_information_about/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
