@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does the play store allow self-made interstitial ads?](https://www.reddit.com/r/androiddev/comments/txajxo/does_the_play_store_allow_selfmade_interstitial/)
-- [How to create a deep copy of a MutableStateList?](https://www.reddit.com/r/androiddev/comments/tx6m9u/how_to_create_a_deep_copy_of_a_mutablestatelist/)
-- [RT @Mariuxtheone: Live now on https://t.co/LU40jR6I8Z with #AmazonFireSideChat! Today&#39;s topic: Increase Productivity with Split Screen and Drag &amp; Drop #androiddev #fire #tablets #apps #splitscreen](https://www.reddit.com/r/androiddev/comments/tx068z/rt_mariuxtheone_live_now_on_httpstcolu40jr6i8z/)
-- [I simply cannot import anko, what am I doing wrong?](https://www.reddit.com/r/androiddev/comments/twyu4i/i_simply_cannot_import_anko_what_am_i_doing_wrong/)
-- [Play store deletes my reviews?](https://www.reddit.com/r/androiddev/comments/twyef7/play_store_deletes_my_reviews/)
-- [How do you manage native dependencies?](https://www.reddit.com/r/androiddev/comments/twy57w/how_do_you_manage_native_dependencies/)
-- [How are you handling this situations in compose? [Compose Architecture]](https://www.reddit.com/r/androiddev/comments/twxtt6/how_are_you_handling_this_situations_in_compose/)
-- [Use Visual studio&#39;s emulator in android studio](https://www.reddit.com/r/androiddev/comments/twxh92/use_visual_studios_emulator_in_android_studio/)
-- [Slope-intercept library design – Jake Wharton](https://www.reddit.com/r/androiddev/comments/twwmpb/slopeintercept_library_design_jake_wharton/)
-- [From which source the OS gets information about date and time?](https://www.reddit.com/r/androiddev/comments/twwi6x/from_which_source_the_os_gets_information_about/)
+- [What is your favorite CI/CD setup for Android projects?](https://www.reddit.com/r/androiddev/comments/ty2377/what_is_your_favorite_cicd_setup_for_android/)
+- [What is the pros and cons of Qt over NDK and vice versa?](https://www.reddit.com/r/androiddev/comments/txy5f0/what_is_the_pros_and_cons_of_qt_over_ndk_and_vice/)
+- [Can anyone help to understand this ?](https://www.reddit.com/r/androiddev/comments/txuwwj/can_anyone_help_to_understand_this/)
+- [Expanding Play’s Target Level API Requirements to Strengthen User Security - Google strikes again](https://www.reddit.com/r/androiddev/comments/txuh32/expanding_plays_target_level_api_requirements_to/)
+- [Anybody actually using Kover?](https://www.reddit.com/r/androiddev/comments/txue2a/anybody_actually_using_kover/)
+- [How to view Debugging info from play store app](https://www.reddit.com/r/androiddev/comments/txs2to/how_to_view_debugging_info_from_play_store_app/)
+- [Looking for student with native English](https://www.reddit.com/r/androiddev/comments/txnmlh/looking_for_student_with_native_english/)
+- [Getting Started with Canvas in Compose](https://www.reddit.com/r/androiddev/comments/txnilu/getting_started_with_canvas_in_compose/)
+- [Developer account removed and I need permission to submit an appeal](https://www.reddit.com/r/androiddev/comments/txnf99/developer_account_removed_and_i_need_permission/)
+- [Single Adapter &#39;Pattern&#39;?](https://www.reddit.com/r/androiddev/comments/txmpmj/single_adapter_pattern/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
