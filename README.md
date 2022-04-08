@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is your favorite CI/CD setup for Android projects?](https://www.reddit.com/r/androiddev/comments/ty2377/what_is_your_favorite_cicd_setup_for_android/)
-- [What is the pros and cons of Qt over NDK and vice versa?](https://www.reddit.com/r/androiddev/comments/txy5f0/what_is_the_pros_and_cons_of_qt_over_ndk_and_vice/)
-- [Can anyone help to understand this ?](https://www.reddit.com/r/androiddev/comments/txuwwj/can_anyone_help_to_understand_this/)
-- [Expanding Play’s Target Level API Requirements to Strengthen User Security - Google strikes again](https://www.reddit.com/r/androiddev/comments/txuh32/expanding_plays_target_level_api_requirements_to/)
-- [Anybody actually using Kover?](https://www.reddit.com/r/androiddev/comments/txue2a/anybody_actually_using_kover/)
-- [How to view Debugging info from play store app](https://www.reddit.com/r/androiddev/comments/txs2to/how_to_view_debugging_info_from_play_store_app/)
-- [Looking for student with native English](https://www.reddit.com/r/androiddev/comments/txnmlh/looking_for_student_with_native_english/)
-- [Getting Started with Canvas in Compose](https://www.reddit.com/r/androiddev/comments/txnilu/getting_started_with_canvas_in_compose/)
-- [Developer account removed and I need permission to submit an appeal](https://www.reddit.com/r/androiddev/comments/txnf99/developer_account_removed_and_i_need_permission/)
-- [Single Adapter &#39;Pattern&#39;?](https://www.reddit.com/r/androiddev/comments/txmpmj/single_adapter_pattern/)
+- [Android Studio Emulator extremely laggy](https://www.reddit.com/r/androiddev/comments/tyqq6e/android_studio_emulator_extremely_laggy/)
+- [Why is Seaeme the only non-launcher shortcut searching app?](https://www.reddit.com/r/androiddev/comments/tyq4dw/why_is_seaeme_the_only_nonlauncher_shortcut/)
+- [Of sharks and heaps of sticky marshmallows](https://www.reddit.com/r/androiddev/comments/tyokcb/of_sharks_and_heaps_of_sticky_marshmallows/)
+- [Reverse Engineering the SafetyNet Attestation API](https://www.reddit.com/r/androiddev/comments/tynkyf/reverse_engineering_the_safetynet_attestation_api/)
+- [Data recovery from Note lite 10 - screen damaged](https://www.reddit.com/r/androiddev/comments/tymkbk/data_recovery_from_note_lite_10_screen_damaged/)
+- [Colorful Sliders written with Jetpack Compose that enliven default Sliders with track and thumb dimensions, gradient colors, or borders, labels on top or at the bottom of thumb position and ColorfulIconSlider that can display Emoji or any Composable as thumb uses SubcomposeLayout](https://www.reddit.com/r/androiddev/comments/tyky2b/colorful_sliders_written_with_jetpack_compose/)
+- [Runtime Resource Overlay &lpar;RRO&rpar; - Any Good Resources?](https://www.reddit.com/r/androiddev/comments/tykfhq/runtime_resource_overlay_rro_any_good_resources/)
+- [How does Uber or OLA embedd the drivers location in website on user side?](https://www.reddit.com/r/androiddev/comments/tyjso7/how_does_uber_or_ola_embedd_the_drivers_location/)
+- [RecyclerView not updating after deleting data](https://www.reddit.com/r/androiddev/comments/tyj1md/recyclerview_not_updating_after_deleting_data/)
+- [Flutter or Kotlin?](https://www.reddit.com/r/androiddev/comments/tyixl8/flutter_or_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
