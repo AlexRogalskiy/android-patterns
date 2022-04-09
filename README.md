@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Emulator extremely laggy](https://www.reddit.com/r/androiddev/comments/tyqq6e/android_studio_emulator_extremely_laggy/)
-- [Why is Seaeme the only non-launcher shortcut searching app?](https://www.reddit.com/r/androiddev/comments/tyq4dw/why_is_seaeme_the_only_nonlauncher_shortcut/)
-- [Of sharks and heaps of sticky marshmallows](https://www.reddit.com/r/androiddev/comments/tyokcb/of_sharks_and_heaps_of_sticky_marshmallows/)
-- [Reverse Engineering the SafetyNet Attestation API](https://www.reddit.com/r/androiddev/comments/tynkyf/reverse_engineering_the_safetynet_attestation_api/)
-- [Data recovery from Note lite 10 - screen damaged](https://www.reddit.com/r/androiddev/comments/tymkbk/data_recovery_from_note_lite_10_screen_damaged/)
-- [Colorful Sliders written with Jetpack Compose that enliven default Sliders with track and thumb dimensions, gradient colors, or borders, labels on top or at the bottom of thumb position and ColorfulIconSlider that can display Emoji or any Composable as thumb uses SubcomposeLayout](https://www.reddit.com/r/androiddev/comments/tyky2b/colorful_sliders_written_with_jetpack_compose/)
-- [Runtime Resource Overlay &lpar;RRO&rpar; - Any Good Resources?](https://www.reddit.com/r/androiddev/comments/tykfhq/runtime_resource_overlay_rro_any_good_resources/)
-- [How does Uber or OLA embedd the drivers location in website on user side?](https://www.reddit.com/r/androiddev/comments/tyjso7/how_does_uber_or_ola_embedd_the_drivers_location/)
-- [RecyclerView not updating after deleting data](https://www.reddit.com/r/androiddev/comments/tyj1md/recyclerview_not_updating_after_deleting_data/)
-- [Flutter or Kotlin?](https://www.reddit.com/r/androiddev/comments/tyixl8/flutter_or_kotlin/)
+- [Nifty, well made, small apps you&#39;ve run into?](https://www.reddit.com/r/androiddev/comments/tzhfnc/nifty_well_made_small_apps_youve_run_into/)
+- [Post a image, retrofit or fast android networking?](https://www.reddit.com/r/androiddev/comments/tzhdfy/post_a_image_retrofit_or_fast_android_networking/)
+- [What flag type should I use to cancel the alarm receive in Android?](https://www.reddit.com/r/androiddev/comments/tzfkj7/what_flag_type_should_i_use_to_cancel_the_alarm/)
+- [Failing](https://www.reddit.com/r/androiddev/comments/tzcq54/failing/)
+- [Changing online servers from an apk.](https://www.reddit.com/r/androiddev/comments/tzc9fk/changing_online_servers_from_an_apk/)
+- [Where do you announce your new apps?](https://www.reddit.com/r/androiddev/comments/tzc7ya/where_do_you_announce_your_new_apps/)
+- [Android dev seeks iOS bootcamp](https://www.reddit.com/r/androiddev/comments/tzbg9o/android_dev_seeks_ios_bootcamp/)
+- [Fade out particle animation](https://www.reddit.com/r/androiddev/comments/tz90wu/fade_out_particle_animation/)
+- [Do you observe any performance gain, by using Resource id vs Drawable as recycler view item background?](https://www.reddit.com/r/androiddev/comments/tz87w7/do_you_observe_any_performance_gain_by_using/)
+- [Building a Twitter Spaces 🐥 clone easily with 100ms Android SDK](https://www.reddit.com/r/androiddev/comments/tz7juz/building_a_twitter_spaces_clone_easily_with_100ms/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
