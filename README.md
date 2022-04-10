@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Nifty, well made, small apps you&#39;ve run into?](https://www.reddit.com/r/androiddev/comments/tzhfnc/nifty_well_made_small_apps_youve_run_into/)
-- [Post a image, retrofit or fast android networking?](https://www.reddit.com/r/androiddev/comments/tzhdfy/post_a_image_retrofit_or_fast_android_networking/)
-- [What flag type should I use to cancel the alarm receive in Android?](https://www.reddit.com/r/androiddev/comments/tzfkj7/what_flag_type_should_i_use_to_cancel_the_alarm/)
-- [Failing](https://www.reddit.com/r/androiddev/comments/tzcq54/failing/)
-- [Changing online servers from an apk.](https://www.reddit.com/r/androiddev/comments/tzc9fk/changing_online_servers_from_an_apk/)
-- [Where do you announce your new apps?](https://www.reddit.com/r/androiddev/comments/tzc7ya/where_do_you_announce_your_new_apps/)
-- [Android dev seeks iOS bootcamp](https://www.reddit.com/r/androiddev/comments/tzbg9o/android_dev_seeks_ios_bootcamp/)
-- [Fade out particle animation](https://www.reddit.com/r/androiddev/comments/tz90wu/fade_out_particle_animation/)
-- [Do you observe any performance gain, by using Resource id vs Drawable as recycler view item background?](https://www.reddit.com/r/androiddev/comments/tz87w7/do_you_observe_any_performance_gain_by_using/)
-- [Building a Twitter Spaces 🐥 clone easily with 100ms Android SDK](https://www.reddit.com/r/androiddev/comments/tz7juz/building_a_twitter_spaces_clone_easily_with_100ms/)
+- [I&#39;ve used kotlin for about a year, then I moved on to Flutter for about two years, now my job requires that I use kotlin again, any tips or advice about how to be up-to-date with kotlin, and if there&#39;s a daily coding challenge or something like that it would be really cool.. thank you in advance](https://www.reddit.com/r/androiddev/comments/u075pu/ive_used_kotlin_for_about_a_year_then_i_moved_on/)
+- [VESmail: Set-and-forget Encrypted Email - in open testing](https://www.reddit.com/r/androiddev/comments/u04rwz/vesmail_setandforget_encrypted_email_in_open/)
+- [Why haven&#39;t Google added API 32 &lpar;12L&rpar; sources to Android SDK yet?](https://www.reddit.com/r/androiddev/comments/u014xu/why_havent_google_added_api_32_12l_sources_to/)
+- [Navigation drawer which can open different fragments](https://www.reddit.com/r/androiddev/comments/tzzxtf/navigation_drawer_which_can_open_different/)
+- [Facebook audience network](https://www.reddit.com/r/androiddev/comments/tzykyz/facebook_audience_network/)
+- [My new Android app doesn&#39;t rank in Google Play Store, what do I do?](https://www.reddit.com/r/androiddev/comments/tzw62x/my_new_android_app_doesnt_rank_in_google_play/)
+- [Procedural Meadow Demo on Android @ 60 fps &lpar;on Moto G60s&rpar;](https://www.reddit.com/r/androiddev/comments/tzuv8q/procedural_meadow_demo_on_android_60_fps_on_moto/)
+- [GoogleSignIn in a second activity](https://www.reddit.com/r/androiddev/comments/tztwnn/googlesignin_in_a_second_activity/)
+- [I have 2 apps on the PlayStore. One is always reviewed and updated in a matter of hours, the other always takes a few days. Why?](https://www.reddit.com/r/androiddev/comments/tztvz1/i_have_2_apps_on_the_playstore_one_is_always/)
+- [[OSS] Thud. News Reader - Pulse News Revival](https://www.reddit.com/r/androiddev/comments/tzsmy0/oss_thud_news_reader_pulse_news_revival/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
