@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I&#39;ve used kotlin for about a year, then I moved on to Flutter for about two years, now my job requires that I use kotlin again, any tips or advice about how to be up-to-date with kotlin, and if there&#39;s a daily coding challenge or something like that it would be really cool.. thank you in advance](https://www.reddit.com/r/androiddev/comments/u075pu/ive_used_kotlin_for_about_a_year_then_i_moved_on/)
-- [VESmail: Set-and-forget Encrypted Email - in open testing](https://www.reddit.com/r/androiddev/comments/u04rwz/vesmail_setandforget_encrypted_email_in_open/)
-- [Why haven&#39;t Google added API 32 &lpar;12L&rpar; sources to Android SDK yet?](https://www.reddit.com/r/androiddev/comments/u014xu/why_havent_google_added_api_32_12l_sources_to/)
-- [Navigation drawer which can open different fragments](https://www.reddit.com/r/androiddev/comments/tzzxtf/navigation_drawer_which_can_open_different/)
-- [Facebook audience network](https://www.reddit.com/r/androiddev/comments/tzykyz/facebook_audience_network/)
-- [My new Android app doesn&#39;t rank in Google Play Store, what do I do?](https://www.reddit.com/r/androiddev/comments/tzw62x/my_new_android_app_doesnt_rank_in_google_play/)
-- [Procedural Meadow Demo on Android @ 60 fps &lpar;on Moto G60s&rpar;](https://www.reddit.com/r/androiddev/comments/tzuv8q/procedural_meadow_demo_on_android_60_fps_on_moto/)
-- [GoogleSignIn in a second activity](https://www.reddit.com/r/androiddev/comments/tztwnn/googlesignin_in_a_second_activity/)
-- [I have 2 apps on the PlayStore. One is always reviewed and updated in a matter of hours, the other always takes a few days. Why?](https://www.reddit.com/r/androiddev/comments/tztvz1/i_have_2_apps_on_the_playstore_one_is_always/)
-- [[OSS] Thud. News Reader - Pulse News Revival](https://www.reddit.com/r/androiddev/comments/tzsmy0/oss_thud_news_reader_pulse_news_revival/)
+- [Suggested global gradle.properties for Android dev](https://www.reddit.com/r/androiddev/comments/u0wopg/suggested_global_gradleproperties_for_android_dev/)
+- [Is the macro mode available for video?](https://www.reddit.com/r/androiddev/comments/u0uspl/is_the_macro_mode_available_for_video/)
+- [What&#39;s the real benefit of using another language instead of Java for Android? It seems like other tools just lead to more possibility of breaking.](https://www.reddit.com/r/androiddev/comments/u0r45j/whats_the_real_benefit_of_using_another_language/)
+- [How much do ad mediation companies earn?](https://www.reddit.com/r/androiddev/comments/u0nedl/how_much_do_ad_mediation_companies_earn/)
+- [my app s countdown is not working as it should be.how to fix it&lpar;code inside&rpar;](https://www.reddit.com/r/androiddev/comments/u0mwzs/my_app_s_countdown_is_not_working_as_it_should/)
+- [Coming back after 8 years. Anything I need to be aware of?](https://www.reddit.com/r/androiddev/comments/u0mqnh/coming_back_after_8_years_anything_i_need_to_be/)
+- [Flutter Integration issue](https://www.reddit.com/r/androiddev/comments/u0m8hq/flutter_integration_issue/)
+- [Is it possible to write and run basic code on a modern tablet?](https://www.reddit.com/r/androiddev/comments/u0m7z9/is_it_possible_to_write_and_run_basic_code_on_a/)
+- [How is it possible, for an app to retain data after uninstallation, without SAF user interaction to pick a file/ folder location?](https://www.reddit.com/r/androiddev/comments/u0levz/how_is_it_possible_for_an_app_to_retain_data/)
+- [How do you generally mange your projects&#39; packages?](https://www.reddit.com/r/androiddev/comments/u0kzkc/how_do_you_generally_mange_your_projects_packages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
