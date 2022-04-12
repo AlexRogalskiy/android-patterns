@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Suggested global gradle.properties for Android dev](https://www.reddit.com/r/androiddev/comments/u0wopg/suggested_global_gradleproperties_for_android_dev/)
-- [Is the macro mode available for video?](https://www.reddit.com/r/androiddev/comments/u0uspl/is_the_macro_mode_available_for_video/)
-- [What&#39;s the real benefit of using another language instead of Java for Android? It seems like other tools just lead to more possibility of breaking.](https://www.reddit.com/r/androiddev/comments/u0r45j/whats_the_real_benefit_of_using_another_language/)
-- [How much do ad mediation companies earn?](https://www.reddit.com/r/androiddev/comments/u0nedl/how_much_do_ad_mediation_companies_earn/)
-- [my app s countdown is not working as it should be.how to fix it&lpar;code inside&rpar;](https://www.reddit.com/r/androiddev/comments/u0mwzs/my_app_s_countdown_is_not_working_as_it_should/)
-- [Coming back after 8 years. Anything I need to be aware of?](https://www.reddit.com/r/androiddev/comments/u0mqnh/coming_back_after_8_years_anything_i_need_to_be/)
-- [Flutter Integration issue](https://www.reddit.com/r/androiddev/comments/u0m8hq/flutter_integration_issue/)
-- [Is it possible to write and run basic code on a modern tablet?](https://www.reddit.com/r/androiddev/comments/u0m7z9/is_it_possible_to_write_and_run_basic_code_on_a/)
-- [How is it possible, for an app to retain data after uninstallation, without SAF user interaction to pick a file/ folder location?](https://www.reddit.com/r/androiddev/comments/u0levz/how_is_it_possible_for_an_app_to_retain_data/)
-- [How do you generally mange your projects&#39; packages?](https://www.reddit.com/r/androiddev/comments/u0kzkc/how_do_you_generally_mange_your_projects_packages/)
+- [unable to upload new version apk that is signed with different certificate to the previous apk in google play console](https://www.reddit.com/r/androiddev/comments/u1nfn2/unable_to_upload_new_version_apk_that_is_signed/)
+- [Can someone Add Return YouTube Dislikes mod to YouTube Vanced Version 16.02.35 ?](https://www.reddit.com/r/androiddev/comments/u1mrl7/can_someone_add_return_youtube_dislikes_mod_to/)
+- [Architecture \ Design advice on a part of an Application](https://www.reddit.com/r/androiddev/comments/u1l68m/architecture_design_advice_on_a_part_of_an/)
+- [Gradle sync failed: invalid type code: 00](https://www.reddit.com/r/androiddev/comments/u1jc1h/gradle_sync_failed_invalid_type_code_00/)
+- [Any idea how could I make a collapsing top bar with jetpack compose? Similar to one in the video.](https://www.reddit.com/r/androiddev/comments/u1fsv2/any_idea_how_could_i_make_a_collapsing_top_bar/)
+- [Do you have any good resources to properly learn the Canvas API for Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/u1f6qe/do_you_have_any_good_resources_to_properly_learn/)
+- [I&#39;m getting an error that &#39;child jobs have not finished yet&#39; while executing this test case. But i&#39;m making sure that my child coroutine finishes before asserting the result. Any ideas?](https://www.reddit.com/r/androiddev/comments/u1cy0k/im_getting_an_error_that_child_jobs_have_not/)
+- [Connecting to a car with Bluetooth.](https://www.reddit.com/r/androiddev/comments/u1awql/connecting_to_a_car_with_bluetooth/)
+- [Weekly Who&#39;s Hiring Thread - April 11, 2022](https://www.reddit.com/r/androiddev/comments/u177bj/weekly_whos_hiring_thread_april_11_2022/)
+- [Weekly discussion, code review, and feedback thread - April 11, 2022](https://www.reddit.com/r/androiddev/comments/u177bm/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
