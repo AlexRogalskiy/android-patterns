@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [unable to upload new version apk that is signed with different certificate to the previous apk in google play console](https://www.reddit.com/r/androiddev/comments/u1nfn2/unable_to_upload_new_version_apk_that_is_signed/)
-- [Can someone Add Return YouTube Dislikes mod to YouTube Vanced Version 16.02.35 ?](https://www.reddit.com/r/androiddev/comments/u1mrl7/can_someone_add_return_youtube_dislikes_mod_to/)
-- [Architecture \ Design advice on a part of an Application](https://www.reddit.com/r/androiddev/comments/u1l68m/architecture_design_advice_on_a_part_of_an/)
-- [Gradle sync failed: invalid type code: 00](https://www.reddit.com/r/androiddev/comments/u1jc1h/gradle_sync_failed_invalid_type_code_00/)
-- [Any idea how could I make a collapsing top bar with jetpack compose? Similar to one in the video.](https://www.reddit.com/r/androiddev/comments/u1fsv2/any_idea_how_could_i_make_a_collapsing_top_bar/)
-- [Do you have any good resources to properly learn the Canvas API for Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/u1f6qe/do_you_have_any_good_resources_to_properly_learn/)
-- [I&#39;m getting an error that &#39;child jobs have not finished yet&#39; while executing this test case. But i&#39;m making sure that my child coroutine finishes before asserting the result. Any ideas?](https://www.reddit.com/r/androiddev/comments/u1cy0k/im_getting_an_error_that_child_jobs_have_not/)
-- [Connecting to a car with Bluetooth.](https://www.reddit.com/r/androiddev/comments/u1awql/connecting_to_a_car_with_bluetooth/)
-- [Weekly Who&#39;s Hiring Thread - April 11, 2022](https://www.reddit.com/r/androiddev/comments/u177bj/weekly_whos_hiring_thread_april_11_2022/)
-- [Weekly discussion, code review, and feedback thread - April 11, 2022](https://www.reddit.com/r/androiddev/comments/u177bm/weekly_discussion_code_review_and_feedback_thread/)
+- [How to install an app through the app, like Play Store?](https://www.reddit.com/r/androiddev/comments/u2fwe8/how_to_install_an_app_through_the_app_like_play/)
+- [Trying to find an application to send notifications to my android](https://www.reddit.com/r/androiddev/comments/u2fur9/trying_to_find_an_application_to_send/)
+- [Music while coding](https://www.reddit.com/r/androiddev/comments/u2e161/music_while_coding/)
+- [auto fetch data from fifa 2022](https://www.reddit.com/r/androiddev/comments/u2dbzr/auto_fetch_data_from_fifa_2022/)
+- [Got an error when I was installing the android dev environment. Please help](https://www.reddit.com/r/androiddev/comments/u2aus4/got_an_error_when_i_was_installing_the_android/)
+- [Which IDE for a career developer?](https://www.reddit.com/r/androiddev/comments/u2apzd/which_ide_for_a_career_developer/)
+- [does anyone knows how to create a vendor image for Android ?](https://www.reddit.com/r/androiddev/comments/u29e2y/does_anyone_knows_how_to_create_a_vendor_image/)
+- [Macbook air M1 for Android development?](https://www.reddit.com/r/androiddev/comments/u28ruw/macbook_air_m1_for_android_development/)
+- [Which graph to use if i have 16 variables versus time&lpar;too many values of time&rpar;](https://www.reddit.com/r/androiddev/comments/u27x0s/which_graph_to_use_if_i_have_16_variables_versus/)
+- [Need help on AdMob code id error](https://www.reddit.com/r/androiddev/comments/u27emf/need_help_on_admob_code_id_error/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
