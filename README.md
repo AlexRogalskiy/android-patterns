@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to install an app through the app, like Play Store?](https://www.reddit.com/r/androiddev/comments/u2fwe8/how_to_install_an_app_through_the_app_like_play/)
-- [Trying to find an application to send notifications to my android](https://www.reddit.com/r/androiddev/comments/u2fur9/trying_to_find_an_application_to_send/)
-- [Music while coding](https://www.reddit.com/r/androiddev/comments/u2e161/music_while_coding/)
-- [auto fetch data from fifa 2022](https://www.reddit.com/r/androiddev/comments/u2dbzr/auto_fetch_data_from_fifa_2022/)
-- [Got an error when I was installing the android dev environment. Please help](https://www.reddit.com/r/androiddev/comments/u2aus4/got_an_error_when_i_was_installing_the_android/)
-- [Which IDE for a career developer?](https://www.reddit.com/r/androiddev/comments/u2apzd/which_ide_for_a_career_developer/)
-- [does anyone knows how to create a vendor image for Android ?](https://www.reddit.com/r/androiddev/comments/u29e2y/does_anyone_knows_how_to_create_a_vendor_image/)
-- [Macbook air M1 for Android development?](https://www.reddit.com/r/androiddev/comments/u28ruw/macbook_air_m1_for_android_development/)
-- [Which graph to use if i have 16 variables versus time&lpar;too many values of time&rpar;](https://www.reddit.com/r/androiddev/comments/u27x0s/which_graph_to_use_if_i_have_16_variables_versus/)
-- [Need help on AdMob code id error](https://www.reddit.com/r/androiddev/comments/u27emf/need_help_on_admob_code_id_error/)
+- [Extract data from .trace files &lpar;from the profiler in android studio&rpar; for visualization??](https://www.reddit.com/r/androiddev/comments/u35yvo/extract_data_from_trace_files_from_the_profiler/)
+- [Introducing Bonsai: a multiplatform tree view for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/u35628/introducing_bonsai_a_multiplatform_tree_view_for/)
+- [Do you guys get used to work taking on a entire project or only some part&lpar;s&rpar; of it?](https://www.reddit.com/r/androiddev/comments/u34ddg/do_you_guys_get_used_to_work_taking_on_a_entire/)
+- [Is there extra benefits of using Koin instead of Dagger Hilt in KMM?](https://www.reddit.com/r/androiddev/comments/u33m5e/is_there_extra_benefits_of_using_koin_instead_of/)
+- [Potential Project Coming Up - Trying to gather information on some limits I may face.](https://www.reddit.com/r/androiddev/comments/u32yjt/potential_project_coming_up_trying_to_gather/)
+- [Jank in LazyColumn](https://www.reddit.com/r/androiddev/comments/u3082l/jank_in_lazycolumn/)
+- [How do you guys test apps?](https://www.reddit.com/r/androiddev/comments/u2zwa5/how_do_you_guys_test_apps/)
+- [Disabling built-in Mic](https://www.reddit.com/r/androiddev/comments/u2yk1k/disabling_builtin_mic/)
+- [AdMob serving limit due to app success &lpar;wtf?&rpar;](https://www.reddit.com/r/androiddev/comments/u2ybuz/admob_serving_limit_due_to_app_success_wtf/)
+- [Tapping Api/https/http request made by any app/service on Android device](https://www.reddit.com/r/androiddev/comments/u2xe5s/tapping_apihttpshttp_request_made_by_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
