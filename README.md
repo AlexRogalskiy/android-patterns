@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Extract data from .trace files &lpar;from the profiler in android studio&rpar; for visualization??](https://www.reddit.com/r/androiddev/comments/u35yvo/extract_data_from_trace_files_from_the_profiler/)
-- [Introducing Bonsai: a multiplatform tree view for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/u35628/introducing_bonsai_a_multiplatform_tree_view_for/)
-- [Do you guys get used to work taking on a entire project or only some part&lpar;s&rpar; of it?](https://www.reddit.com/r/androiddev/comments/u34ddg/do_you_guys_get_used_to_work_taking_on_a_entire/)
-- [Is there extra benefits of using Koin instead of Dagger Hilt in KMM?](https://www.reddit.com/r/androiddev/comments/u33m5e/is_there_extra_benefits_of_using_koin_instead_of/)
-- [Potential Project Coming Up - Trying to gather information on some limits I may face.](https://www.reddit.com/r/androiddev/comments/u32yjt/potential_project_coming_up_trying_to_gather/)
-- [Jank in LazyColumn](https://www.reddit.com/r/androiddev/comments/u3082l/jank_in_lazycolumn/)
-- [How do you guys test apps?](https://www.reddit.com/r/androiddev/comments/u2zwa5/how_do_you_guys_test_apps/)
-- [Disabling built-in Mic](https://www.reddit.com/r/androiddev/comments/u2yk1k/disabling_builtin_mic/)
-- [AdMob serving limit due to app success &lpar;wtf?&rpar;](https://www.reddit.com/r/androiddev/comments/u2ybuz/admob_serving_limit_due_to_app_success_wtf/)
-- [Tapping Api/https/http request made by any app/service on Android device](https://www.reddit.com/r/androiddev/comments/u2xe5s/tapping_apihttpshttp_request_made_by_any/)
+- [Google developer account for non supported countries](https://www.reddit.com/r/androiddev/comments/u3sydl/google_developer_account_for_non_supported/)
+- [If I only use Admob and no other data collection is there an easy form I can give for Data Safety with having it analyzed?](https://www.reddit.com/r/androiddev/comments/u3q5d3/if_i_only_use_admob_and_no_other_data_collection/)
+- [Proper way to debug: W/MediaRecorder: mediarecorder went away with unhandled events?](https://www.reddit.com/r/androiddev/comments/u3nthz/proper_way_to_debug_wmediarecorder_mediarecorder/)
+- [BEST RESOURCES Firebase.](https://www.reddit.com/r/androiddev/comments/u3jpem/best_resources_firebase/)
+- [[Question] Hi, does anyone know if it’s possible to make an APK extracted from an Android 5 phone compatible with an Android 12 phone?](https://www.reddit.com/r/androiddev/comments/u3i21d/question_hi_does_anyone_know_if_its_possible_to/)
+- [Android compatibility for Web3](https://www.reddit.com/r/androiddev/comments/u3g2ma/android_compatibility_for_web3/)
+- [Accessing your apps that are published in different countries than your own?](https://www.reddit.com/r/androiddev/comments/u3cr5v/accessing_your_apps_that_are_published_in/)
+- [Play console dashboard shows a lot of crashes, only a small portion is shown in &#39;Crashes &amp; ANRs&#39;](https://www.reddit.com/r/androiddev/comments/u3cbaz/play_console_dashboard_shows_a_lot_of_crashes/)
+- [Has anyone had a longer build time in Java 11?](https://www.reddit.com/r/androiddev/comments/u3aj4h/has_anyone_had_a_longer_build_time_in_java_11/)
+- [How to avoid a double splash screen in Android 12?](https://www.reddit.com/r/androiddev/comments/u39kad/how_to_avoid_a_double_splash_screen_in_android_12/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
