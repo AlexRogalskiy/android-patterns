@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google developer account for non supported countries](https://www.reddit.com/r/androiddev/comments/u3sydl/google_developer_account_for_non_supported/)
-- [If I only use Admob and no other data collection is there an easy form I can give for Data Safety with having it analyzed?](https://www.reddit.com/r/androiddev/comments/u3q5d3/if_i_only_use_admob_and_no_other_data_collection/)
-- [Proper way to debug: W/MediaRecorder: mediarecorder went away with unhandled events?](https://www.reddit.com/r/androiddev/comments/u3nthz/proper_way_to_debug_wmediarecorder_mediarecorder/)
-- [BEST RESOURCES Firebase.](https://www.reddit.com/r/androiddev/comments/u3jpem/best_resources_firebase/)
-- [[Question] Hi, does anyone know if it’s possible to make an APK extracted from an Android 5 phone compatible with an Android 12 phone?](https://www.reddit.com/r/androiddev/comments/u3i21d/question_hi_does_anyone_know_if_its_possible_to/)
-- [Android compatibility for Web3](https://www.reddit.com/r/androiddev/comments/u3g2ma/android_compatibility_for_web3/)
-- [Accessing your apps that are published in different countries than your own?](https://www.reddit.com/r/androiddev/comments/u3cr5v/accessing_your_apps_that_are_published_in/)
-- [Play console dashboard shows a lot of crashes, only a small portion is shown in &#39;Crashes &amp; ANRs&#39;](https://www.reddit.com/r/androiddev/comments/u3cbaz/play_console_dashboard_shows_a_lot_of_crashes/)
-- [Has anyone had a longer build time in Java 11?](https://www.reddit.com/r/androiddev/comments/u3aj4h/has_anyone_had_a_longer_build_time_in_java_11/)
-- [How to avoid a double splash screen in Android 12?](https://www.reddit.com/r/androiddev/comments/u39kad/how_to_avoid_a_double_splash_screen_in_android_12/)
+- [Best PC build under $1000 for Android Studio that can handle a few emulators?](https://www.reddit.com/r/androiddev/comments/u4mzqm/best_pc_build_under_1000_for_android_studio_that/)
+- [what is the best GPU for Android Studio for laptops?](https://www.reddit.com/r/androiddev/comments/u4mml3/what_is_the_best_gpu_for_android_studio_for/)
+- [Stop watch that works in background](https://www.reddit.com/r/androiddev/comments/u4l5be/stop_watch_that_works_in_background/)
+- [Fake app violation email from google@account-developer.com?](https://www.reddit.com/r/androiddev/comments/u4g24m/fake_app_violation_email_from/)
+- [Recent review times?](https://www.reddit.com/r/androiddev/comments/u4eolw/recent_review_times/)
+- [I created a small Jetpack Compose library to create squircles/superellipses programmatically.](https://www.reddit.com/r/androiddev/comments/u4ctcj/i_created_a_small_jetpack_compose_library_to/)
+- [GitHub - pelmenstar1/RangeCalendar: Customizable calendar view with animations and ability to select a day, a week, a month or a custom range](https://www.reddit.com/r/androiddev/comments/u4bkna/github_pelmenstar1rangecalendar_customizable/)
+- [What is a good freelance salary ?](https://www.reddit.com/r/androiddev/comments/u4bcal/what_is_a_good_freelance_salary/)
+- [Login implementation and best practices](https://www.reddit.com/r/androiddev/comments/u4ay3h/login_implementation_and_best_practices/)
+- [What is the correct way to find a view &lpar;findViewById&rpar; so that it can be called from multiple methods? Are globals okay here?](https://www.reddit.com/r/androiddev/comments/u4aerk/what_is_the_correct_way_to_find_a_view/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
