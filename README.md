@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best PC build under $1000 for Android Studio that can handle a few emulators?](https://www.reddit.com/r/androiddev/comments/u4mzqm/best_pc_build_under_1000_for_android_studio_that/)
-- [what is the best GPU for Android Studio for laptops?](https://www.reddit.com/r/androiddev/comments/u4mml3/what_is_the_best_gpu_for_android_studio_for/)
-- [Stop watch that works in background](https://www.reddit.com/r/androiddev/comments/u4l5be/stop_watch_that_works_in_background/)
-- [Fake app violation email from google@account-developer.com?](https://www.reddit.com/r/androiddev/comments/u4g24m/fake_app_violation_email_from/)
-- [Recent review times?](https://www.reddit.com/r/androiddev/comments/u4eolw/recent_review_times/)
-- [I created a small Jetpack Compose library to create squircles/superellipses programmatically.](https://www.reddit.com/r/androiddev/comments/u4ctcj/i_created_a_small_jetpack_compose_library_to/)
-- [GitHub - pelmenstar1/RangeCalendar: Customizable calendar view with animations and ability to select a day, a week, a month or a custom range](https://www.reddit.com/r/androiddev/comments/u4bkna/github_pelmenstar1rangecalendar_customizable/)
-- [What is a good freelance salary ?](https://www.reddit.com/r/androiddev/comments/u4bcal/what_is_a_good_freelance_salary/)
-- [Login implementation and best practices](https://www.reddit.com/r/androiddev/comments/u4ay3h/login_implementation_and_best_practices/)
-- [What is the correct way to find a view &lpar;findViewById&rpar; so that it can be called from multiple methods? Are globals okay here?](https://www.reddit.com/r/androiddev/comments/u4aerk/what_is_the_correct_way_to_find_a_view/)
+- [Reverse engineering Flutter apps](https://www.reddit.com/r/androiddev/comments/u5bttx/reverse_engineering_flutter_apps/)
+- [give a self-taught androiddev a motivational words](https://www.reddit.com/r/androiddev/comments/u5be9p/give_a_selftaught_androiddev_a_motivational_words/)
+- [Is it me or is Android Development not intuitive?](https://www.reddit.com/r/androiddev/comments/u5a127/is_it_me_or_is_android_development_not_intuitive/)
+- [Is it possible to use something like robotium to schedule weekly cycle of: Wake, enact the screen tap sequence, and then just chill until the next weekly interval?](https://www.reddit.com/r/androiddev/comments/u57vir/is_it_possible_to_use_something_like_robotium_to/)
+- [learning andriod](https://www.reddit.com/r/androiddev/comments/u57rjj/learning_andriod/)
+- [Is there an app debug console available or another convenient way to log information during development?](https://www.reddit.com/r/androiddev/comments/u56o77/is_there_an_app_debug_console_available_or/)
+- [Why is a ViewModel scoped to the fragment of a `BottomNavigationView`not cleared when the fragment is destroyed?](https://www.reddit.com/r/androiddev/comments/u555bl/why_is_a_viewmodel_scoped_to_the_fragment_of_a/)
+- [How can I debug recompositions in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/u52215/how_can_i_debug_recompositions_in_jetpack_compose/)
+- [Can I introduce ads in a later version of my app? Settings in play console ;](https://www.reddit.com/r/androiddev/comments/u5041u/can_i_introduce_ads_in_a_later_version_of_my_app/)
+- [Transferring applications from one Google Developer Account to another](https://www.reddit.com/r/androiddev/comments/u4xd5t/transferring_applications_from_one_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
