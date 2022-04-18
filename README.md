@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Reverse engineering Flutter apps](https://www.reddit.com/r/androiddev/comments/u5bttx/reverse_engineering_flutter_apps/)
-- [give a self-taught androiddev a motivational words](https://www.reddit.com/r/androiddev/comments/u5be9p/give_a_selftaught_androiddev_a_motivational_words/)
-- [Is it me or is Android Development not intuitive?](https://www.reddit.com/r/androiddev/comments/u5a127/is_it_me_or_is_android_development_not_intuitive/)
-- [Is it possible to use something like robotium to schedule weekly cycle of: Wake, enact the screen tap sequence, and then just chill until the next weekly interval?](https://www.reddit.com/r/androiddev/comments/u57vir/is_it_possible_to_use_something_like_robotium_to/)
-- [learning andriod](https://www.reddit.com/r/androiddev/comments/u57rjj/learning_andriod/)
-- [Is there an app debug console available or another convenient way to log information during development?](https://www.reddit.com/r/androiddev/comments/u56o77/is_there_an_app_debug_console_available_or/)
-- [Why is a ViewModel scoped to the fragment of a `BottomNavigationView`not cleared when the fragment is destroyed?](https://www.reddit.com/r/androiddev/comments/u555bl/why_is_a_viewmodel_scoped_to_the_fragment_of_a/)
-- [How can I debug recompositions in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/u52215/how_can_i_debug_recompositions_in_jetpack_compose/)
-- [Can I introduce ads in a later version of my app? Settings in play console ;](https://www.reddit.com/r/androiddev/comments/u5041u/can_i_introduce_ads_in_a_later_version_of_my_app/)
-- [Transferring applications from one Google Developer Account to another](https://www.reddit.com/r/androiddev/comments/u4xd5t/transferring_applications_from_one_google/)
+- [Weekly Who&#39;s Hiring Thread - April 18, 2022](https://www.reddit.com/r/androiddev/comments/u620jk/weekly_whos_hiring_thread_april_18_2022/)
+- [Weekly discussion, code review, and feedback thread - April 18, 2022](https://www.reddit.com/r/androiddev/comments/u60vbc/weekly_discussion_code_review_and_feedback_thread/)
+- [Multiple Async Tasks?](https://www.reddit.com/r/androiddev/comments/u60eig/multiple_async_tasks/)
+- [App Growth](https://www.reddit.com/r/androiddev/comments/u5ycbl/app_growth/)
+- [How to organize code properly in Android project](https://www.reddit.com/r/androiddev/comments/u5u7f1/how_to_organize_code_properly_in_android_project/)
+- [[paid] Visualizer API exposed to Unity plugin](https://www.reddit.com/r/androiddev/comments/u5thuq/paid_visualizer_api_exposed_to_unity_plugin/)
+- [Privado&#39;s Play Sore Data Safety Report Generator](https://www.reddit.com/r/androiddev/comments/u5sgha/privados_play_sore_data_safety_report_generator/)
+- [FHIR Validation in Android](https://www.reddit.com/r/androiddev/comments/u5rfz8/fhir_validation_in_android/)
+- [APK Update &lpar;for RPG Maker MV&rpar;](https://www.reddit.com/r/androiddev/comments/u5o0qa/apk_update_for_rpg_maker_mv/)
+- [Compose ScreenshotBox a library that lets you take screenshots of Composables as single shot or periodically.](https://www.reddit.com/r/androiddev/comments/u5na3x/compose_screenshotbox_a_library_that_lets_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
