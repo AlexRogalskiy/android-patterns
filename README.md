@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Weekly Who&#39;s Hiring Thread - April 18, 2022](https://www.reddit.com/r/androiddev/comments/u620jk/weekly_whos_hiring_thread_april_18_2022/)
-- [Weekly discussion, code review, and feedback thread - April 18, 2022](https://www.reddit.com/r/androiddev/comments/u60vbc/weekly_discussion_code_review_and_feedback_thread/)
-- [Multiple Async Tasks?](https://www.reddit.com/r/androiddev/comments/u60eig/multiple_async_tasks/)
-- [App Growth](https://www.reddit.com/r/androiddev/comments/u5ycbl/app_growth/)
-- [How to organize code properly in Android project](https://www.reddit.com/r/androiddev/comments/u5u7f1/how_to_organize_code_properly_in_android_project/)
-- [[paid] Visualizer API exposed to Unity plugin](https://www.reddit.com/r/androiddev/comments/u5thuq/paid_visualizer_api_exposed_to_unity_plugin/)
-- [Privado&#39;s Play Sore Data Safety Report Generator](https://www.reddit.com/r/androiddev/comments/u5sgha/privados_play_sore_data_safety_report_generator/)
-- [FHIR Validation in Android](https://www.reddit.com/r/androiddev/comments/u5rfz8/fhir_validation_in_android/)
-- [APK Update &lpar;for RPG Maker MV&rpar;](https://www.reddit.com/r/androiddev/comments/u5o0qa/apk_update_for_rpg_maker_mv/)
-- [Compose ScreenshotBox a library that lets you take screenshots of Composables as single shot or periodically.](https://www.reddit.com/r/androiddev/comments/u5na3x/compose_screenshotbox_a_library_that_lets_you/)
+- [I am looking for someone to teach Android Development for practicing my English](https://www.reddit.com/r/androiddev/comments/u6uqyy/i_am_looking_for_someone_to_teach_android/)
+- [Chat bot](https://www.reddit.com/r/androiddev/comments/u6u4m7/chat_bot/)
+- [Do in-app purchases, trials, and subscriptions affect downloads and ranking?](https://www.reddit.com/r/androiddev/comments/u6smbo/do_inapp_purchases_trials_and_subscriptions/)
+- [What&#39;s the best alternative for the Google Earth api?](https://www.reddit.com/r/androiddev/comments/u6rmia/whats_the_best_alternative_for_the_google_earth/)
+- [Can I develop Android apps on Windows 11 Home?](https://www.reddit.com/r/androiddev/comments/u6qljh/can_i_develop_android_apps_on_windows_11_home/)
+- [The emulator process for AVD has terminated.](https://www.reddit.com/r/androiddev/comments/u6pi6f/the_emulator_process_for_avd_has_terminated/)
+- [This might clear up a bit of clutter for some...](https://www.reddit.com/r/androiddev/comments/u6p8vt/this_might_clear_up_a_bit_of_clutter_for_some/)
+- [Google Maps Compose](https://www.reddit.com/r/androiddev/comments/u6k4b6/google_maps_compose/)
+- [A friend and I have built a light and extensible chart library for Android that works with both views and Jetpack Compose. Unlike many similar libraries, it doesn’t directly depend on the interoperability between the two UI systems.](https://www.reddit.com/r/androiddev/comments/u6jy5e/a_friend_and_i_have_built_a_light_and_extensible/)
+- [Jetpack compose navigation with custom NavType](https://www.reddit.com/r/androiddev/comments/u6iyyh/jetpack_compose_navigation_with_custom_navtype/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
