@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I am looking for someone to teach Android Development for practicing my English](https://www.reddit.com/r/androiddev/comments/u6uqyy/i_am_looking_for_someone_to_teach_android/)
-- [Chat bot](https://www.reddit.com/r/androiddev/comments/u6u4m7/chat_bot/)
-- [Do in-app purchases, trials, and subscriptions affect downloads and ranking?](https://www.reddit.com/r/androiddev/comments/u6smbo/do_inapp_purchases_trials_and_subscriptions/)
-- [What&#39;s the best alternative for the Google Earth api?](https://www.reddit.com/r/androiddev/comments/u6rmia/whats_the_best_alternative_for_the_google_earth/)
-- [Can I develop Android apps on Windows 11 Home?](https://www.reddit.com/r/androiddev/comments/u6qljh/can_i_develop_android_apps_on_windows_11_home/)
-- [The emulator process for AVD has terminated.](https://www.reddit.com/r/androiddev/comments/u6pi6f/the_emulator_process_for_avd_has_terminated/)
-- [This might clear up a bit of clutter for some...](https://www.reddit.com/r/androiddev/comments/u6p8vt/this_might_clear_up_a_bit_of_clutter_for_some/)
-- [Google Maps Compose](https://www.reddit.com/r/androiddev/comments/u6k4b6/google_maps_compose/)
-- [A friend and I have built a light and extensible chart library for Android that works with both views and Jetpack Compose. Unlike many similar libraries, it doesn’t directly depend on the interoperability between the two UI systems.](https://www.reddit.com/r/androiddev/comments/u6jy5e/a_friend_and_i_have_built_a_light_and_extensible/)
-- [Jetpack compose navigation with custom NavType](https://www.reddit.com/r/androiddev/comments/u6iyyh/jetpack_compose_navigation_with_custom_navtype/)
+- [How do you avoid multiple implementations in testing, for testing different scenarios?](https://www.reddit.com/r/androiddev/comments/u7jyvf/how_do_you_avoid_multiple_implementations_in/)
+- [google play console and individual vs company](https://www.reddit.com/r/androiddev/comments/u7jc68/google_play_console_and_individual_vs_company/)
+- [TalkHouse | WebRTC based peer to peer video calling and realtime messaging web app](https://www.reddit.com/r/androiddev/comments/u7j8rr/talkhouse_webrtc_based_peer_to_peer_video_calling/)
+- [A question about physical address and P.O boxes.](https://www.reddit.com/r/androiddev/comments/u7iqbr/a_question_about_physical_address_and_po_boxes/)
+- [Twitter going all in on Jetpack Compose for feature development: greater productivity, less bugs](https://www.reddit.com/r/androiddev/comments/u7icod/twitter_going_all_in_on_jetpack_compose_for/)
+- [I&#39;m starting a tester career and want to learn about Android-specific tests.](https://www.reddit.com/r/androiddev/comments/u7fqrp/im_starting_a_tester_career_and_want_to_learn/)
+- [How much money have you made on your solo self-made apps?](https://www.reddit.com/r/androiddev/comments/u7ff9m/how_much_money_have_you_made_on_your_solo/)
+- [Life Alert Android watch?](https://www.reddit.com/r/androiddev/comments/u7fe6z/life_alert_android_watch/)
+- [Is there an Amazon Shopping API?](https://www.reddit.com/r/androiddev/comments/u7eh8b/is_there_an_amazon_shopping_api/)
+- [App for monitoring another app](https://www.reddit.com/r/androiddev/comments/u7e5qm/app_for_monitoring_another_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
