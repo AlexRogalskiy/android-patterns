@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you avoid multiple implementations in testing, for testing different scenarios?](https://www.reddit.com/r/androiddev/comments/u7jyvf/how_do_you_avoid_multiple_implementations_in/)
-- [google play console and individual vs company](https://www.reddit.com/r/androiddev/comments/u7jc68/google_play_console_and_individual_vs_company/)
-- [TalkHouse | WebRTC based peer to peer video calling and realtime messaging web app](https://www.reddit.com/r/androiddev/comments/u7j8rr/talkhouse_webrtc_based_peer_to_peer_video_calling/)
-- [A question about physical address and P.O boxes.](https://www.reddit.com/r/androiddev/comments/u7iqbr/a_question_about_physical_address_and_po_boxes/)
-- [Twitter going all in on Jetpack Compose for feature development: greater productivity, less bugs](https://www.reddit.com/r/androiddev/comments/u7icod/twitter_going_all_in_on_jetpack_compose_for/)
-- [I&#39;m starting a tester career and want to learn about Android-specific tests.](https://www.reddit.com/r/androiddev/comments/u7fqrp/im_starting_a_tester_career_and_want_to_learn/)
-- [How much money have you made on your solo self-made apps?](https://www.reddit.com/r/androiddev/comments/u7ff9m/how_much_money_have_you_made_on_your_solo/)
-- [Life Alert Android watch?](https://www.reddit.com/r/androiddev/comments/u7fe6z/life_alert_android_watch/)
-- [Is there an Amazon Shopping API?](https://www.reddit.com/r/androiddev/comments/u7eh8b/is_there_an_amazon_shopping_api/)
-- [App for monitoring another app](https://www.reddit.com/r/androiddev/comments/u7e5qm/app_for_monitoring_another_app/)
+- [Android emulator that inherits base OS&#39;s network connectivity](https://www.reddit.com/r/androiddev/comments/u8bylk/android_emulator_that_inherits_base_oss_network/)
+- [Has anyone used clipboard manager from a composable?](https://www.reddit.com/r/androiddev/comments/u8bkk9/has_anyone_used_clipboard_manager_from_a/)
+- [Does this price for custom app development seem correct?](https://www.reddit.com/r/androiddev/comments/u88q4c/does_this_price_for_custom_app_development_seem/)
+- [What do you think of the new Logcat introduced in Android Studio Dolphin Canary 6?](https://www.reddit.com/r/androiddev/comments/u88p7d/what_do_you_think_of_the_new_logcat_introduced_in/)
+- [Kotlin synchrinized collections](https://www.reddit.com/r/androiddev/comments/u87njs/kotlin_synchrinized_collections/)
+- [Is it possible to create background services in python or ruby?](https://www.reddit.com/r/androiddev/comments/u8749r/is_it_possible_to_create_background_services_in/)
+- [Can I post my Unreal Engine blueprints game video here?](https://www.reddit.com/r/androiddev/comments/u85t74/can_i_post_my_unreal_engine_blueprints_game_video/)
+- [Android Room with a View - Java has the database operate on the main thread](https://www.reddit.com/r/androiddev/comments/u8539g/android_room_with_a_view_java_has_the_database/)
+- [Sentry’s Android Gradle Plugin Updated with Room Support and More](https://www.reddit.com/r/androiddev/comments/u82g7c/sentrys_android_gradle_plugin_updated_with_room/)
+- [Thread &#39;Android Init &lpar;second_stage error!!!!&rpar;&#39;](https://www.reddit.com/r/androiddev/comments/u81ulh/thread_android_init_second_stage_error/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
