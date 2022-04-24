@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Persist position on drag using Recyclerview](https://www.reddit.com/r/androiddev/comments/u9tqdl/persist_position_on_drag_using_recyclerview/)
-- [Genymotion: /dev/hw_random not found](https://www.reddit.com/r/androiddev/comments/u9sl7b/genymotion_devhw_random_not_found/)
-- [My 12Gb RAM notebook&lpar;ubuntu&rpar; run smooth android studio, will i have problem in the future ?](https://www.reddit.com/r/androiddev/comments/u9q0bq/my_12gb_ram_notebookubuntu_run_smooth_android/)
-- [correlation between esim, sim, and serial #?](https://www.reddit.com/r/androiddev/comments/u9onqf/correlation_between_esim_sim_and_serial/)
-- [ueventd selinux not working properly](https://www.reddit.com/r/androiddev/comments/u9lott/ueventd_selinux_not_working_properly/)
-- [WHAT FIREBASE TOOL CAN I USE TO SEND A REQUEST FROM ONE ANDROID APPLICATION TO ANOTHER.](https://www.reddit.com/r/androiddev/comments/u9lk01/what_firebase_tool_can_i_use_to_send_a_request/)
-- [What do you actually put inside the app-ads.txt](https://www.reddit.com/r/androiddev/comments/u9lh2i/what_do_you_actually_put_inside_the_appadstxt/)
-- [Better library for evaluating math expressions stored on a String](https://www.reddit.com/r/androiddev/comments/u9lbhb/better_library_for_evaluating_math_expressions/)
-- [Whatsapp video call recorder](https://www.reddit.com/r/androiddev/comments/u9imy4/whatsapp_video_call_recorder/)
-- [Is anyone using the Dropbox Store library in Android?](https://www.reddit.com/r/androiddev/comments/u9edk8/is_anyone_using_the_dropbox_store_library_in/)
+- [how to keep recyclerview scrolled position when i back from other fragment](https://www.reddit.com/r/androiddev/comments/uaj9bm/how_to_keep_recyclerview_scrolled_position_when_i/)
+- [Is Philipp Lackner the best for learning modern Android development?](https://www.reddit.com/r/androiddev/comments/uahhlk/is_philipp_lackner_the_best_for_learning_modern/)
+- [Scoping a view model in koin-compose](https://www.reddit.com/r/androiddev/comments/uafme1/scoping_a_view_model_in_koincompose/)
+- [Does Java in android run on a virtual machine?](https://www.reddit.com/r/androiddev/comments/uadx2s/does_java_in_android_run_on_a_virtual_machine/)
+- [Advice on Technologies to use](https://www.reddit.com/r/androiddev/comments/uacgff/advice_on_technologies_to_use/)
+- [Looking to learn more about {Android Client &lt;-&gt; Backend Server Communication} System Design alternatives](https://www.reddit.com/r/androiddev/comments/uabqrh/looking_to_learn_more_about_android_client/)
+- [[UPDATED] Android Gif Example | Kotlin | Dagger + Hilt | Kotlin Coroutines | Gradle libs.versions.toml](https://www.reddit.com/r/androiddev/comments/uaba2r/updated_android_gif_example_kotlin_dagger_hilt/)
+- [What&#39;s the use of an &quot;Injector&quot; in a Kotlin app?](https://www.reddit.com/r/androiddev/comments/uab70f/whats_the_use_of_an_injector_in_a_kotlin_app/)
+- [Do Android phones have a hard limit or soft limit in their FM tuner hardware.](https://www.reddit.com/r/androiddev/comments/ua8fs6/do_android_phones_have_a_hard_limit_or_soft_limit/)
+- [Is there some standard way how Android apps move from view to another view?](https://www.reddit.com/r/androiddev/comments/ua6oh7/is_there_some_standard_way_how_android_apps_move/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
