@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [how to keep recyclerview scrolled position when i back from other fragment](https://www.reddit.com/r/androiddev/comments/uaj9bm/how_to_keep_recyclerview_scrolled_position_when_i/)
-- [Is Philipp Lackner the best for learning modern Android development?](https://www.reddit.com/r/androiddev/comments/uahhlk/is_philipp_lackner_the_best_for_learning_modern/)
-- [Scoping a view model in koin-compose](https://www.reddit.com/r/androiddev/comments/uafme1/scoping_a_view_model_in_koincompose/)
-- [Does Java in android run on a virtual machine?](https://www.reddit.com/r/androiddev/comments/uadx2s/does_java_in_android_run_on_a_virtual_machine/)
-- [Advice on Technologies to use](https://www.reddit.com/r/androiddev/comments/uacgff/advice_on_technologies_to_use/)
-- [Looking to learn more about {Android Client &lt;-&gt; Backend Server Communication} System Design alternatives](https://www.reddit.com/r/androiddev/comments/uabqrh/looking_to_learn_more_about_android_client/)
-- [[UPDATED] Android Gif Example | Kotlin | Dagger + Hilt | Kotlin Coroutines | Gradle libs.versions.toml](https://www.reddit.com/r/androiddev/comments/uaba2r/updated_android_gif_example_kotlin_dagger_hilt/)
-- [What&#39;s the use of an &quot;Injector&quot; in a Kotlin app?](https://www.reddit.com/r/androiddev/comments/uab70f/whats_the_use_of_an_injector_in_a_kotlin_app/)
-- [Do Android phones have a hard limit or soft limit in their FM tuner hardware.](https://www.reddit.com/r/androiddev/comments/ua8fs6/do_android_phones_have_a_hard_limit_or_soft_limit/)
-- [Is there some standard way how Android apps move from view to another view?](https://www.reddit.com/r/androiddev/comments/ua6oh7/is_there_some_standard_way_how_android_apps_move/)
+- [What to do with a broken tablet with software issues &lpar;no physical damage&rpar;?](https://www.reddit.com/r/androiddev/comments/ubapae/what_to_do_with_a_broken_tablet_with_software/)
+- [A good tool to map out all user flows?](https://www.reddit.com/r/androiddev/comments/ub850t/a_good_tool_to_map_out_all_user_flows/)
+- [How To Access a Spinner Selected Value inside of a Recycler View Adapter](https://www.reddit.com/r/androiddev/comments/ub5ssy/how_to_access_a_spinner_selected_value_inside_of/)
+- [Guidance For Running Multiple Ussd Request With Telephony Api](https://www.reddit.com/r/androiddev/comments/ub54qn/guidance_for_running_multiple_ussd_request_with/)
+- [Can someone tell me, what are the differences in a retail version and region specific&lpar;Say India&rpar;](https://www.reddit.com/r/androiddev/comments/ub4tkq/can_someone_tell_me_what_are_the_differences_in_a/)
+- [How to prevent View holder from automatically checking radio buttons when it reuses them?](https://www.reddit.com/r/androiddev/comments/ub3fc0/how_to_prevent_view_holder_from_automatically/)
+- [How to teach a young person](https://www.reddit.com/r/androiddev/comments/ub357k/how_to_teach_a_young_person/)
+- [animating a candy crush game](https://www.reddit.com/r/androiddev/comments/ub211z/animating_a_candy_crush_game/)
+- [Awesome Android Lint](https://www.reddit.com/r/androiddev/comments/ub05hm/awesome_android_lint/)
+- [Recyclerview with header](https://www.reddit.com/r/androiddev/comments/uazibj/recyclerview_with_header/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
