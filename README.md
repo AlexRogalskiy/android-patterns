@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What to do with a broken tablet with software issues &lpar;no physical damage&rpar;?](https://www.reddit.com/r/androiddev/comments/ubapae/what_to_do_with_a_broken_tablet_with_software/)
-- [A good tool to map out all user flows?](https://www.reddit.com/r/androiddev/comments/ub850t/a_good_tool_to_map_out_all_user_flows/)
-- [How To Access a Spinner Selected Value inside of a Recycler View Adapter](https://www.reddit.com/r/androiddev/comments/ub5ssy/how_to_access_a_spinner_selected_value_inside_of/)
-- [Guidance For Running Multiple Ussd Request With Telephony Api](https://www.reddit.com/r/androiddev/comments/ub54qn/guidance_for_running_multiple_ussd_request_with/)
-- [Can someone tell me, what are the differences in a retail version and region specific&lpar;Say India&rpar;](https://www.reddit.com/r/androiddev/comments/ub4tkq/can_someone_tell_me_what_are_the_differences_in_a/)
-- [How to prevent View holder from automatically checking radio buttons when it reuses them?](https://www.reddit.com/r/androiddev/comments/ub3fc0/how_to_prevent_view_holder_from_automatically/)
-- [How to teach a young person](https://www.reddit.com/r/androiddev/comments/ub357k/how_to_teach_a_young_person/)
-- [animating a candy crush game](https://www.reddit.com/r/androiddev/comments/ub211z/animating_a_candy_crush_game/)
-- [Awesome Android Lint](https://www.reddit.com/r/androiddev/comments/ub05hm/awesome_android_lint/)
-- [Recyclerview with header](https://www.reddit.com/r/androiddev/comments/uazibj/recyclerview_with_header/)
+- [NTIA Seeks Input on Competition in the Mobile App Ecosystem](https://www.reddit.com/r/androiddev/comments/uc1660/ntia_seeks_input_on_competition_in_the_mobile_app/)
+- [Should we improve ourselves in compose to get a job or in the old view system?](https://www.reddit.com/r/androiddev/comments/ubxfy4/should_we_improve_ourselves_in_compose_to_get_a/)
+- [Is there still a way to remove the white background on app icons?](https://www.reddit.com/r/androiddev/comments/ubsoew/is_there_still_a_way_to_remove_the_white/)
+- [How do you find the right app to reskin guys ?](https://www.reddit.com/r/androiddev/comments/ubs42u/how_do_you_find_the_right_app_to_reskin_guys/)
+- [Afraid of working on an advanced source code.](https://www.reddit.com/r/androiddev/comments/ubop1b/afraid_of_working_on_an_advanced_source_code/)
+- [Is code supposted to be all in main activity?](https://www.reddit.com/r/androiddev/comments/ubo1br/is_code_supposted_to_be_all_in_main_activity/)
+- [Can I ask users to share my app website in exchange for free paid content?](https://www.reddit.com/r/androiddev/comments/ubl5tr/can_i_ask_users_to_share_my_app_website_in/)
+- [Weekly Who&#39;s Hiring Thread - April 25, 2022](https://www.reddit.com/r/androiddev/comments/ubkli3/weekly_whos_hiring_thread_april_25_2022/)
+- [Is there a library or algorithm to create Material Color Swatches, and primary/accent/custom for color, if possible for Compose, in Android like in Flutter?](https://www.reddit.com/r/androiddev/comments/ubkcym/is_there_a_library_or_algorithm_to_create/)
+- [Weekly discussion, code review, and feedback thread - April 25, 2022](https://www.reddit.com/r/androiddev/comments/ubjgxq/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
