@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [NTIA Seeks Input on Competition in the Mobile App Ecosystem](https://www.reddit.com/r/androiddev/comments/uc1660/ntia_seeks_input_on_competition_in_the_mobile_app/)
-- [Should we improve ourselves in compose to get a job or in the old view system?](https://www.reddit.com/r/androiddev/comments/ubxfy4/should_we_improve_ourselves_in_compose_to_get_a/)
-- [Is there still a way to remove the white background on app icons?](https://www.reddit.com/r/androiddev/comments/ubsoew/is_there_still_a_way_to_remove_the_white/)
-- [How do you find the right app to reskin guys ?](https://www.reddit.com/r/androiddev/comments/ubs42u/how_do_you_find_the_right_app_to_reskin_guys/)
-- [Afraid of working on an advanced source code.](https://www.reddit.com/r/androiddev/comments/ubop1b/afraid_of_working_on_an_advanced_source_code/)
-- [Is code supposted to be all in main activity?](https://www.reddit.com/r/androiddev/comments/ubo1br/is_code_supposted_to_be_all_in_main_activity/)
-- [Can I ask users to share my app website in exchange for free paid content?](https://www.reddit.com/r/androiddev/comments/ubl5tr/can_i_ask_users_to_share_my_app_website_in/)
-- [Weekly Who&#39;s Hiring Thread - April 25, 2022](https://www.reddit.com/r/androiddev/comments/ubkli3/weekly_whos_hiring_thread_april_25_2022/)
-- [Is there a library or algorithm to create Material Color Swatches, and primary/accent/custom for color, if possible for Compose, in Android like in Flutter?](https://www.reddit.com/r/androiddev/comments/ubkcym/is_there_a_library_or_algorithm_to_create/)
-- [Weekly discussion, code review, and feedback thread - April 25, 2022](https://www.reddit.com/r/androiddev/comments/ubjgxq/weekly_discussion_code_review_and_feedback_thread/)
+- [Compose Preview with AndroidView](https://www.reddit.com/r/androiddev/comments/uctj7r/compose_preview_with_androidview/)
+- [Should I commit my google-services.json into my public repository?](https://www.reddit.com/r/androiddev/comments/ucscrj/should_i_commit_my_googleservicesjson_into_my/)
+- [how to make the app have different UI when device is portrait vs when it landscaped?](https://www.reddit.com/r/androiddev/comments/ucqv2k/how_to_make_the_app_have_different_ui_when_device/)
+- [note 20 ultra: how can I get rid of this annoying pop up when connected to Google messages?](https://www.reddit.com/r/androiddev/comments/ucpwpb/note_20_ultra_how_can_i_get_rid_of_this_annoying/)
+- [is it possible to create a second developer account?](https://www.reddit.com/r/androiddev/comments/ucoa5q/is_it_possible_to_create_a_second_developer/)
+- [Looking for documentation on using third party fragments](https://www.reddit.com/r/androiddev/comments/ucntu3/looking_for_documentation_on_using_third_party/)
+- [Where do I start?](https://www.reddit.com/r/androiddev/comments/ucmm9t/where_do_i_start/)
+- [Noob here with python/css/html experience - if I wanted to make a call history app that autotracked and displayed all calls made to select work-related phone numbers in my Pixel, with call length/call ID, how hard would that be?](https://www.reddit.com/r/androiddev/comments/ucl89y/noob_here_with_pythoncsshtml_experience_if_i/)
+- [What’s your least favourite part of building an app?](https://www.reddit.com/r/androiddev/comments/ucicjd/whats_your_least_favourite_part_of_building_an_app/)
+- [What&#39;s your strategy for interview prep?](https://www.reddit.com/r/androiddev/comments/uciafm/whats_your_strategy_for_interview_prep/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
