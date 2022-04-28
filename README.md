@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compose Preview with AndroidView](https://www.reddit.com/r/androiddev/comments/uctj7r/compose_preview_with_androidview/)
-- [Should I commit my google-services.json into my public repository?](https://www.reddit.com/r/androiddev/comments/ucscrj/should_i_commit_my_googleservicesjson_into_my/)
-- [how to make the app have different UI when device is portrait vs when it landscaped?](https://www.reddit.com/r/androiddev/comments/ucqv2k/how_to_make_the_app_have_different_ui_when_device/)
-- [note 20 ultra: how can I get rid of this annoying pop up when connected to Google messages?](https://www.reddit.com/r/androiddev/comments/ucpwpb/note_20_ultra_how_can_i_get_rid_of_this_annoying/)
-- [is it possible to create a second developer account?](https://www.reddit.com/r/androiddev/comments/ucoa5q/is_it_possible_to_create_a_second_developer/)
-- [Looking for documentation on using third party fragments](https://www.reddit.com/r/androiddev/comments/ucntu3/looking_for_documentation_on_using_third_party/)
-- [Where do I start?](https://www.reddit.com/r/androiddev/comments/ucmm9t/where_do_i_start/)
-- [Noob here with python/css/html experience - if I wanted to make a call history app that autotracked and displayed all calls made to select work-related phone numbers in my Pixel, with call length/call ID, how hard would that be?](https://www.reddit.com/r/androiddev/comments/ucl89y/noob_here_with_pythoncsshtml_experience_if_i/)
-- [What’s your least favourite part of building an app?](https://www.reddit.com/r/androiddev/comments/ucicjd/whats_your_least_favourite_part_of_building_an_app/)
-- [What&#39;s your strategy for interview prep?](https://www.reddit.com/r/androiddev/comments/uciafm/whats_your_strategy_for_interview_prep/)
+- [Has anyone used clean architecture with &lpar;mongo&rpar; realm?](https://www.reddit.com/r/androiddev/comments/udjqsd/has_anyone_used_clean_architecture_with_mongo/)
+- [what&#39;s the best tutorial to learn Unit testing and the tools n frameworks like Robolectric, Mockito and PowerMock?](https://www.reddit.com/r/androiddev/comments/udgpjw/whats_the_best_tutorial_to_learn_unit_testing_and/)
+- [How can I display 3D models now that SceneForm is deprecated?](https://www.reddit.com/r/androiddev/comments/udfoyo/how_can_i_display_3d_models_now_that_sceneform_is/)
+- [Can you broadcast an NFC URL from an Android Device to an iPhone?](https://www.reddit.com/r/androiddev/comments/udetr9/can_you_broadcast_an_nfc_url_from_an_android/)
+- [How to make a LiveData list, or how to be sure my composable recomposes?](https://www.reddit.com/r/androiddev/comments/uded4j/how_to_make_a_livedata_list_or_how_to_be_sure_my/)
+- [QUESTION: Blocking certain elements from website that are converted into apk using appsgeyser](https://www.reddit.com/r/androiddev/comments/udd1h4/question_blocking_certain_elements_from_website/)
+- [[Question] how can i export my figma UI design into android studio ?](https://www.reddit.com/r/androiddev/comments/udc8k4/question_how_can_i_export_my_figma_ui_design_into/)
+- [[Interview] Design an analytics logger](https://www.reddit.com/r/androiddev/comments/ud9i1y/interview_design_an_analytics_logger/)
+- [Any opinions on Instant Apps in currentYear?](https://www.reddit.com/r/androiddev/comments/ud79zp/any_opinions_on_instant_apps_in_currentyear/)
+- [How to get the number from an enum in Kotlin?](https://www.reddit.com/r/androiddev/comments/ud6fu0/how_to_get_the_number_from_an_enum_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
