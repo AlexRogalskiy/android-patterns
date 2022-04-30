@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Annoying error with Android Project Studio](https://www.reddit.com/r/androiddev/comments/ueb1r0/annoying_error_with_android_project_studio/)
-- [How to execute the &quot;play route&quot; button in the Android Emulator Extended Controls through adb.exe?](https://www.reddit.com/r/androiddev/comments/ueantl/how_to_execute_the_play_route_button_in_the/)
-- [Google I/O 2022 schedule is up](https://www.reddit.com/r/androiddev/comments/ueamgy/google_io_2022_schedule_is_up/)
-- [how to use LiveData?](https://www.reddit.com/r/androiddev/comments/ue6za9/how_to_use_livedata/)
-- [Android Studio Chipmunk RC1 now available](https://www.reddit.com/r/androiddev/comments/ue5w41/android_studio_chipmunk_rc1_now_available/)
-- [Android Studio Chipmunk Beta 4 now available](https://www.reddit.com/r/androiddev/comments/ue5w38/android_studio_chipmunk_beta_4_now_available/)
-- [Android Studio Dolphin Canary 9 now available](https://www.reddit.com/r/androiddev/comments/ue5w2n/android_studio_dolphin_canary_9_now_available/)
-- [Android Studio Dolphin Canary 8 now available](https://www.reddit.com/r/androiddev/comments/ue5w26/android_studio_dolphin_canary_8_now_available/)
-- [Adjusting CarrierConfig/CarrierSettings on Pixel 6](https://www.reddit.com/r/androiddev/comments/ue5n8i/adjusting_carrierconfigcarriersettings_on_pixel_6/)
-- [How can I take user entered text and automatically fix grammar and punctuation?](https://www.reddit.com/r/androiddev/comments/ue3jtf/how_can_i_take_user_entered_text_and/)
+- [Java vs Kotlin, can Google reconsider a change?](https://www.reddit.com/r/androiddev/comments/uezbt0/java_vs_kotlin_can_google_reconsider_a_change/)
+- [Is the User Messaging Platform &lpar;UMP&rpar; SDK mandatory in order to use Admob Ads, even if I still use the old deprecated Consent Library?](https://www.reddit.com/r/androiddev/comments/uewme8/is_the_user_messaging_platform_ump_sdk_mandatory/)
+- [Making reusable composables using Generics](https://www.reddit.com/r/androiddev/comments/ueuydd/making_reusable_composables_using_generics/)
+- [Collapsible App bar made with Jetpack Compose &amp; Motion Compose](https://www.reddit.com/r/androiddev/comments/ueukjv/collapsible_app_bar_made_with_jetpack_compose/)
+- [ListView vs RecyclerView for small list?](https://www.reddit.com/r/androiddev/comments/ueuik2/listview_vs_recyclerview_for_small_list/)
+- [Google Play Console Review Times](https://www.reddit.com/r/androiddev/comments/uetlo2/google_play_console_review_times/)
+- [Google Play Categories](https://www.reddit.com/r/androiddev/comments/uesz39/google_play_categories/)
+- [Anyone have experience contributing to Fenix &lpar;Firefox&rpar;?](https://www.reddit.com/r/androiddev/comments/uertjg/anyone_have_experience_contributing_to_fenix/)
+- [Android Unlocking Issue](https://www.reddit.com/r/androiddev/comments/ueqhs4/android_unlocking_issue/)
+- [I&#39;m starting to give up](https://www.reddit.com/r/androiddev/comments/uenp8w/im_starting_to_give_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
