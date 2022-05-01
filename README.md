@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Java vs Kotlin, can Google reconsider a change?](https://www.reddit.com/r/androiddev/comments/uezbt0/java_vs_kotlin_can_google_reconsider_a_change/)
-- [Is the User Messaging Platform &lpar;UMP&rpar; SDK mandatory in order to use Admob Ads, even if I still use the old deprecated Consent Library?](https://www.reddit.com/r/androiddev/comments/uewme8/is_the_user_messaging_platform_ump_sdk_mandatory/)
-- [Making reusable composables using Generics](https://www.reddit.com/r/androiddev/comments/ueuydd/making_reusable_composables_using_generics/)
-- [Collapsible App bar made with Jetpack Compose &amp; Motion Compose](https://www.reddit.com/r/androiddev/comments/ueukjv/collapsible_app_bar_made_with_jetpack_compose/)
-- [ListView vs RecyclerView for small list?](https://www.reddit.com/r/androiddev/comments/ueuik2/listview_vs_recyclerview_for_small_list/)
-- [Google Play Console Review Times](https://www.reddit.com/r/androiddev/comments/uetlo2/google_play_console_review_times/)
-- [Google Play Categories](https://www.reddit.com/r/androiddev/comments/uesz39/google_play_categories/)
-- [Anyone have experience contributing to Fenix &lpar;Firefox&rpar;?](https://www.reddit.com/r/androiddev/comments/uertjg/anyone_have_experience_contributing_to_fenix/)
-- [Android Unlocking Issue](https://www.reddit.com/r/androiddev/comments/ueqhs4/android_unlocking_issue/)
-- [I&#39;m starting to give up](https://www.reddit.com/r/androiddev/comments/uenp8w/im_starting_to_give_up/)
+- [Integrate Payment in Application?](https://www.reddit.com/r/androiddev/comments/ufp0qt/integrate_payment_in_application/)
+- [How to &#39;execute&#39; a Flow query in a Room?](https://www.reddit.com/r/androiddev/comments/ufo2zm/how_to_execute_a_flow_query_in_a_room/)
+- [How realistic is it for a new dev to take an abandoned app and update it to work with newer versions of Android?](https://www.reddit.com/r/androiddev/comments/ufo1lg/how_realistic_is_it_for_a_new_dev_to_take_an/)
+- [Inserting a List of Objects of an Entity within a Separate Entity in Android using Room Database with Kotlin](https://www.reddit.com/r/androiddev/comments/ufjg16/inserting_a_list_of_objects_of_an_entity_within_a/)
+- [Any good canvas or UI courses to recommend?](https://www.reddit.com/r/androiddev/comments/ufirie/any_good_canvas_or_ui_courses_to_recommend/)
+- [How to do properly when I need access to activity context](https://www.reddit.com/r/androiddev/comments/ufid0n/how_to_do_properly_when_i_need_access_to_activity/)
+- [Is the fact that anyone can just decompile APKs to Java on Android Studio a security issue?](https://www.reddit.com/r/androiddev/comments/uff8u9/is_the_fact_that_anyone_can_just_decompile_apks/)
+- [Testing Mobile Push Notifications](https://www.reddit.com/r/androiddev/comments/uff1k8/testing_mobile_push_notifications/)
+- [How to get JSON data, when a JSON field changes.](https://www.reddit.com/r/androiddev/comments/ufdu5f/how_to_get_json_data_when_a_json_field_changes/)
+- [How to recomposition after popbackstack?](https://www.reddit.com/r/androiddev/comments/ufdsg4/how_to_recomposition_after_popbackstack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
