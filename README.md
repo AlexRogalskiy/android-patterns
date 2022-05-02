@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Integrate Payment in Application?](https://www.reddit.com/r/androiddev/comments/ufp0qt/integrate_payment_in_application/)
-- [How to &#39;execute&#39; a Flow query in a Room?](https://www.reddit.com/r/androiddev/comments/ufo2zm/how_to_execute_a_flow_query_in_a_room/)
-- [How realistic is it for a new dev to take an abandoned app and update it to work with newer versions of Android?](https://www.reddit.com/r/androiddev/comments/ufo1lg/how_realistic_is_it_for_a_new_dev_to_take_an/)
-- [Inserting a List of Objects of an Entity within a Separate Entity in Android using Room Database with Kotlin](https://www.reddit.com/r/androiddev/comments/ufjg16/inserting_a_list_of_objects_of_an_entity_within_a/)
-- [Any good canvas or UI courses to recommend?](https://www.reddit.com/r/androiddev/comments/ufirie/any_good_canvas_or_ui_courses_to_recommend/)
-- [How to do properly when I need access to activity context](https://www.reddit.com/r/androiddev/comments/ufid0n/how_to_do_properly_when_i_need_access_to_activity/)
-- [Is the fact that anyone can just decompile APKs to Java on Android Studio a security issue?](https://www.reddit.com/r/androiddev/comments/uff8u9/is_the_fact_that_anyone_can_just_decompile_apks/)
-- [Testing Mobile Push Notifications](https://www.reddit.com/r/androiddev/comments/uff1k8/testing_mobile_push_notifications/)
-- [How to get JSON data, when a JSON field changes.](https://www.reddit.com/r/androiddev/comments/ufdu5f/how_to_get_json_data_when_a_json_field_changes/)
-- [How to recomposition after popbackstack?](https://www.reddit.com/r/androiddev/comments/ufdsg4/how_to_recomposition_after_popbackstack/)
+- [Do virtual office addresses work for Google Play for indie developers?](https://www.reddit.com/r/androiddev/comments/ugfvb7/do_virtual_office_addresses_work_for_google_play/)
+- [Discord and mentors](https://www.reddit.com/r/androiddev/comments/ug9huc/discord_and_mentors/)
+- [Changing app&#39;s title and short description according to new google policies](https://www.reddit.com/r/androiddev/comments/ug8u2h/changing_apps_title_and_short_description/)
+- [Tool for making screenshots for store/portfolio?](https://www.reddit.com/r/androiddev/comments/ug8u0x/tool_for_making_screenshots_for_storeportfolio/)
+- [Anyone aware about this bug with Firestore + FirebaseUI? Only very few users face it, and clearing app data doesn&#39;t fix it.](https://www.reddit.com/r/androiddev/comments/ug7d7c/anyone_aware_about_this_bug_with_firestore/)
+- [Should my app use Material Design 2 or 3?](https://www.reddit.com/r/androiddev/comments/ug6rhe/should_my_app_use_material_design_2_or_3/)
+- [android dev](https://www.reddit.com/r/androiddev/comments/ug6hv8/android_dev/)
+- [Inevitable to learn Kotlin for Android development? Reluctant to switch from Java to Kotlin as it means spending time to learn a new language for same purpose which Java already served for many years.](https://www.reddit.com/r/androiddev/comments/ug6e2w/inevitable_to_learn_kotlin_for_android/)
+- [Is it okay to provide ViewModel inside a module with Dagger 2?](https://www.reddit.com/r/androiddev/comments/ufzdeh/is_it_okay_to_provide_viewmodel_inside_a_module/)
+- [Best roadmap for android app initial release](https://www.reddit.com/r/androiddev/comments/ufx0p4/best_roadmap_for_android_app_initial_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
