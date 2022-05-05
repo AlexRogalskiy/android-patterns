@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cant do anything on the &quot;no command&quot; boot screen](https://www.reddit.com/r/androiddev/comments/uhwtzc/cant_do_anything_on_the_no_command_boot_screen/)
-- [How can I add a &#39;light&#39; effect to an animation without having to use any 3D modeling libraries?](https://www.reddit.com/r/androiddev/comments/uhu9i8/how_can_i_add_a_light_effect_to_an_animation/)
-- [Advice on starting development on a bike smart trainer controller app](https://www.reddit.com/r/androiddev/comments/uhslf8/advice_on_starting_development_on_a_bike_smart/)
-- [Upgrade the RAM could help me?](https://www.reddit.com/r/androiddev/comments/uhqein/upgrade_the_ram_could_help_me/)
-- [Free theme.xml / style.xml for android apps](https://www.reddit.com/r/androiddev/comments/uhq949/free_themexml_stylexml_for_android_apps/)
-- [Anyone making money as an indie app developer in 2022?](https://www.reddit.com/r/androiddev/comments/uhppe5/anyone_making_money_as_an_indie_app_developer_in/)
-- [Paid app - create promotion codes with reduced price](https://www.reddit.com/r/androiddev/comments/uhp6rd/paid_app_create_promotion_codes_with_reduced_price/)
-- [I&#39;m a newbie overwhelmed with information](https://www.reddit.com/r/androiddev/comments/uhobxt/im_a_newbie_overwhelmed_with_information/)
-- [What does the text &quot;~4 notifications per day&quot; mean in relation to my notification channel.](https://www.reddit.com/r/androiddev/comments/uhnyxw/what_does_the_text_4_notifications_per_day_mean/)
-- [I&#39;m learning compose in Android developer course and it says to press alt + enter to open this option. But only &quot;convert to expression body&quot; shows up. I don&#39;t have the remaining three options](https://www.reddit.com/r/androiddev/comments/uhngfr/im_learning_compose_in_android_developer_course/)
+- [How do I Compile My Own Android OS from Source for my Samsung A20s 3GB](https://www.reddit.com/r/androiddev/comments/uilyoi/how_do_i_compile_my_own_android_os_from_source/)
+- [send image to server and get it back](https://www.reddit.com/r/androiddev/comments/uilkgj/send_image_to_server_and_get_it_back/)
+- [Can&#39;t figure out how to save a list of objects in Room](https://www.reddit.com/r/androiddev/comments/uilbft/cant_figure_out_how_to_save_a_list_of_objects_in/)
+- [Download statistics reports not updating since 2 weeks](https://www.reddit.com/r/androiddev/comments/uil2w1/download_statistics_reports_not_updating_since_2/)
+- [[Book] Jetpack Compose internals](https://www.reddit.com/r/androiddev/comments/uihkcl/book_jetpack_compose_internals/)
+- [Frames Lost during initital composition in jetpack compose](https://www.reddit.com/r/androiddev/comments/uih9g7/frames_lost_during_initital_composition_in/)
+- [Domain Verification for GCP](https://www.reddit.com/r/androiddev/comments/uih8mh/domain_verification_for_gcp/)
+- [What questions should I ask of a company when I want to get an Android app developed](https://www.reddit.com/r/androiddev/comments/uido1v/what_questions_should_i_ask_of_a_company_when_i/)
+- [How many DPI bucket resource folders do you use?](https://www.reddit.com/r/androiddev/comments/uid3sv/how_many_dpi_bucket_resource_folders_do_you_use/)
+- [Can we implement a custom low-level sound effect filter to be applied to all audio outputs?](https://www.reddit.com/r/androiddev/comments/uicqo0/can_we_implement_a_custom_lowlevel_sound_effect/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
