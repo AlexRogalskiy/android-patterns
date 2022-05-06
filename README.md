@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I Compile My Own Android OS from Source for my Samsung A20s 3GB](https://www.reddit.com/r/androiddev/comments/uilyoi/how_do_i_compile_my_own_android_os_from_source/)
-- [send image to server and get it back](https://www.reddit.com/r/androiddev/comments/uilkgj/send_image_to_server_and_get_it_back/)
-- [Can&#39;t figure out how to save a list of objects in Room](https://www.reddit.com/r/androiddev/comments/uilbft/cant_figure_out_how_to_save_a_list_of_objects_in/)
-- [Download statistics reports not updating since 2 weeks](https://www.reddit.com/r/androiddev/comments/uil2w1/download_statistics_reports_not_updating_since_2/)
-- [[Book] Jetpack Compose internals](https://www.reddit.com/r/androiddev/comments/uihkcl/book_jetpack_compose_internals/)
-- [Frames Lost during initital composition in jetpack compose](https://www.reddit.com/r/androiddev/comments/uih9g7/frames_lost_during_initital_composition_in/)
-- [Domain Verification for GCP](https://www.reddit.com/r/androiddev/comments/uih8mh/domain_verification_for_gcp/)
-- [What questions should I ask of a company when I want to get an Android app developed](https://www.reddit.com/r/androiddev/comments/uido1v/what_questions_should_i_ask_of_a_company_when_i/)
-- [How many DPI bucket resource folders do you use?](https://www.reddit.com/r/androiddev/comments/uid3sv/how_many_dpi_bucket_resource_folders_do_you_use/)
-- [Can we implement a custom low-level sound effect filter to be applied to all audio outputs?](https://www.reddit.com/r/androiddev/comments/uicqo0/can_we_implement_a_custom_lowlevel_sound_effect/)
+- [eBay gets a 4.7 Google Play rating with tablet optimizations](https://www.reddit.com/r/androiddev/comments/ujbs95/ebay_gets_a_47_google_play_rating_with_tablet/)
+- [AdMob open bidding low match rate](https://www.reddit.com/r/androiddev/comments/uja7kv/admob_open_bidding_low_match_rate/)
+- [Good Insightful Resource &lpar;Book/ Video/ Course&rpar; for Android Development?](https://www.reddit.com/r/androiddev/comments/uj8ubp/good_insightful_resource_book_video_course_for/)
+- [Android Emulator tools 31.2.10, AVD launch fails.](https://www.reddit.com/r/androiddev/comments/uj7ev5/android_emulator_tools_31210_avd_launch_fails/)
+- [looking for a customizable bar chart lib](https://www.reddit.com/r/androiddev/comments/uj4rcy/looking_for_a_customizable_bar_chart_lib/)
+- [Apache Cordova for cross-platform development?](https://www.reddit.com/r/androiddev/comments/uj39ut/apache_cordova_for_crossplatform_development/)
+- [Android Studio gives me build error &quot;java.util.zip.ZipException: invalid block type&quot; when a raw resource is greater than 90MB. Anybody run into this before?](https://www.reddit.com/r/androiddev/comments/uj1o4d/android_studio_gives_me_build_error/)
+- [did you made an app with your heart and not from your brain](https://www.reddit.com/r/androiddev/comments/uj1jev/did_you_made_an_app_with_your_heart_and_not_from/)
+- [Bulk non-traditional device deployment](https://www.reddit.com/r/androiddev/comments/uj0z1b/bulk_nontraditional_device_deployment/)
+- [Nerding Out On Okio with Jesse Wilson](https://www.reddit.com/r/androiddev/comments/uj0t10/nerding_out_on_okio_with_jesse_wilson/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
