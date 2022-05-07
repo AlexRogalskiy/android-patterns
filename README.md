@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [eBay gets a 4.7 Google Play rating with tablet optimizations](https://www.reddit.com/r/androiddev/comments/ujbs95/ebay_gets_a_47_google_play_rating_with_tablet/)
-- [AdMob open bidding low match rate](https://www.reddit.com/r/androiddev/comments/uja7kv/admob_open_bidding_low_match_rate/)
-- [Good Insightful Resource &lpar;Book/ Video/ Course&rpar; for Android Development?](https://www.reddit.com/r/androiddev/comments/uj8ubp/good_insightful_resource_book_video_course_for/)
-- [Android Emulator tools 31.2.10, AVD launch fails.](https://www.reddit.com/r/androiddev/comments/uj7ev5/android_emulator_tools_31210_avd_launch_fails/)
-- [looking for a customizable bar chart lib](https://www.reddit.com/r/androiddev/comments/uj4rcy/looking_for_a_customizable_bar_chart_lib/)
-- [Apache Cordova for cross-platform development?](https://www.reddit.com/r/androiddev/comments/uj39ut/apache_cordova_for_crossplatform_development/)
-- [Android Studio gives me build error &quot;java.util.zip.ZipException: invalid block type&quot; when a raw resource is greater than 90MB. Anybody run into this before?](https://www.reddit.com/r/androiddev/comments/uj1o4d/android_studio_gives_me_build_error/)
-- [did you made an app with your heart and not from your brain](https://www.reddit.com/r/androiddev/comments/uj1jev/did_you_made_an_app_with_your_heart_and_not_from/)
-- [Bulk non-traditional device deployment](https://www.reddit.com/r/androiddev/comments/uj0z1b/bulk_nontraditional_device_deployment/)
-- [Nerding Out On Okio with Jesse Wilson](https://www.reddit.com/r/androiddev/comments/uj0t10/nerding_out_on_okio_with_jesse_wilson/)
+- [On initial startup of your app, the FCM SDK generates a registration token for the client app instance. &lpar;This means that...&rpar;](https://www.reddit.com/r/androiddev/comments/uk34c7/on_initial_startup_of_your_app_the_fcm_sdk/)
+- [Understanding the Upgrade-Wall](https://www.reddit.com/r/androiddev/comments/uk2vaq/understanding_the_upgradewall/)
+- [Is there a tool that scrapes and compiles custom roms?](https://www.reddit.com/r/androiddev/comments/ujyugy/is_there_a_tool_that_scrapes_and_compiles_custom/)
+- [Not just Android, but Flutter What&#39;s next? StateManagement](https://www.reddit.com/r/androiddev/comments/ujxdaa/not_just_android_but_flutter_whats_next/)
+- [Single Application Always-On Android Screen?](https://www.reddit.com/r/androiddev/comments/ujvdyj/single_application_alwayson_android_screen/)
+- [Google Play and Personal Developer Account](https://www.reddit.com/r/androiddev/comments/ujv1nb/google_play_and_personal_developer_account/)
+- [4 reasons Jetpack Compose is better than XML](https://www.reddit.com/r/androiddev/comments/ujublq/4_reasons_jetpack_compose_is_better_than_xml/)
+- [help reading volume level and displaying it on screen](https://www.reddit.com/r/androiddev/comments/ujt3sa/help_reading_volume_level_and_displaying_it_on/)
+- [Kotlin or Android](https://www.reddit.com/r/androiddev/comments/ujqvcv/kotlin_or_android/)
+- [How are OAuth2 authentication calls made in production?](https://www.reddit.com/r/androiddev/comments/ujohps/how_are_oauth2_authentication_calls_made_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
