@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [On initial startup of your app, the FCM SDK generates a registration token for the client app instance. &lpar;This means that...&rpar;](https://www.reddit.com/r/androiddev/comments/uk34c7/on_initial_startup_of_your_app_the_fcm_sdk/)
-- [Understanding the Upgrade-Wall](https://www.reddit.com/r/androiddev/comments/uk2vaq/understanding_the_upgradewall/)
-- [Is there a tool that scrapes and compiles custom roms?](https://www.reddit.com/r/androiddev/comments/ujyugy/is_there_a_tool_that_scrapes_and_compiles_custom/)
-- [Not just Android, but Flutter What&#39;s next? StateManagement](https://www.reddit.com/r/androiddev/comments/ujxdaa/not_just_android_but_flutter_whats_next/)
-- [Single Application Always-On Android Screen?](https://www.reddit.com/r/androiddev/comments/ujvdyj/single_application_alwayson_android_screen/)
-- [Google Play and Personal Developer Account](https://www.reddit.com/r/androiddev/comments/ujv1nb/google_play_and_personal_developer_account/)
-- [4 reasons Jetpack Compose is better than XML](https://www.reddit.com/r/androiddev/comments/ujublq/4_reasons_jetpack_compose_is_better_than_xml/)
-- [help reading volume level and displaying it on screen](https://www.reddit.com/r/androiddev/comments/ujt3sa/help_reading_volume_level_and_displaying_it_on/)
-- [Kotlin or Android](https://www.reddit.com/r/androiddev/comments/ujqvcv/kotlin_or_android/)
-- [How are OAuth2 authentication calls made in production?](https://www.reddit.com/r/androiddev/comments/ujohps/how_are_oauth2_authentication_calls_made_in/)
+- [Best way to handle config/secrets](https://www.reddit.com/r/androiddev/comments/ukrlyx/best_way_to_handle_configsecrets/)
+- [android based IP68 body cameras](https://www.reddit.com/r/androiddev/comments/ukrd45/android_based_ip68_body_cameras/)
+- [Is React Native preferred choice for beginners to make a local database app with CRUD?](https://www.reddit.com/r/androiddev/comments/ukovgj/is_react_native_preferred_choice_for_beginners_to/)
+- [I just spent half an hour scratching my head trying to debug things, just to realise later that Logcat had crashed and wasn&#39;t printing anything. Where did &quot;Restart logcat&quot; thing go?](https://www.reddit.com/r/androiddev/comments/uknqwx/i_just_spent_half_an_hour_scratching_my_head/)
+- [I launched a new puzzle Zumba game on Playstore, can anyone check how it looks, is it good?](https://www.reddit.com/r/androiddev/comments/ukmo4o/i_launched_a_new_puzzle_zumba_game_on_playstore/)
+- [How to prepare for a job interview?](https://www.reddit.com/r/androiddev/comments/ukm71g/how_to_prepare_for_a_job_interview/)
+- [Help running an old android game from an Apk](https://www.reddit.com/r/androiddev/comments/ukktv5/help_running_an_old_android_game_from_an_apk/)
+- [Ryzen 7 5800H with 32gb ram or i7 1180H with 16 gb ram for programming in android studio](https://www.reddit.com/r/androiddev/comments/ukkgfw/ryzen_7_5800h_with_32gb_ram_or_i7_1180h_with_16/)
+- [Admob - Metrics very low. Need some insights.](https://www.reddit.com/r/androiddev/comments/ukkg10/admob_metrics_very_low_need_some_insights/)
+- [&quot;Received a --sdk argument, but this argument is deprecated....&quot; .... &quot;Warning: failed to apply patch&quot; ----------------&gt; Does &quot;python3 &lt;script&gt; install matplotlib&quot; conflict with the standard buildozer installations I did earlier? &lt;---------------------](https://www.reddit.com/r/androiddev/comments/ukjvvz/received_a_sdk_argument_but_this_argument_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
