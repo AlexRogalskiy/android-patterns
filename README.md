@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best way to handle config/secrets](https://www.reddit.com/r/androiddev/comments/ukrlyx/best_way_to_handle_configsecrets/)
-- [android based IP68 body cameras](https://www.reddit.com/r/androiddev/comments/ukrd45/android_based_ip68_body_cameras/)
-- [Is React Native preferred choice for beginners to make a local database app with CRUD?](https://www.reddit.com/r/androiddev/comments/ukovgj/is_react_native_preferred_choice_for_beginners_to/)
-- [I just spent half an hour scratching my head trying to debug things, just to realise later that Logcat had crashed and wasn&#39;t printing anything. Where did &quot;Restart logcat&quot; thing go?](https://www.reddit.com/r/androiddev/comments/uknqwx/i_just_spent_half_an_hour_scratching_my_head/)
-- [I launched a new puzzle Zumba game on Playstore, can anyone check how it looks, is it good?](https://www.reddit.com/r/androiddev/comments/ukmo4o/i_launched_a_new_puzzle_zumba_game_on_playstore/)
-- [How to prepare for a job interview?](https://www.reddit.com/r/androiddev/comments/ukm71g/how_to_prepare_for_a_job_interview/)
-- [Help running an old android game from an Apk](https://www.reddit.com/r/androiddev/comments/ukktv5/help_running_an_old_android_game_from_an_apk/)
-- [Ryzen 7 5800H with 32gb ram or i7 1180H with 16 gb ram for programming in android studio](https://www.reddit.com/r/androiddev/comments/ukkgfw/ryzen_7_5800h_with_32gb_ram_or_i7_1180h_with_16/)
-- [Admob - Metrics very low. Need some insights.](https://www.reddit.com/r/androiddev/comments/ukkg10/admob_metrics_very_low_need_some_insights/)
-- [&quot;Received a --sdk argument, but this argument is deprecated....&quot; .... &quot;Warning: failed to apply patch&quot; ----------------&gt; Does &quot;python3 &lt;script&gt; install matplotlib&quot; conflict with the standard buildozer installations I did earlier? &lt;---------------------](https://www.reddit.com/r/androiddev/comments/ukjvvz/received_a_sdk_argument_but_this_argument_is/)
+- [Design hand-off experiences wanted!](https://www.reddit.com/r/androiddev/comments/ulafvj/design_handoff_experiences_wanted/)
+- [Location based](https://www.reddit.com/r/androiddev/comments/ula5im/location_based/)
+- [Where to deep dive for kotlin flows?](https://www.reddit.com/r/androiddev/comments/ula472/where_to_deep_dive_for_kotlin_flows/)
+- [Writing notification sounds to storage so that they can be set in the notification channel](https://www.reddit.com/r/androiddev/comments/ul83rs/writing_notification_sounds_to_storage_so_that/)
+- [Is there any software that can check if two codes are identical or have code in common?](https://www.reddit.com/r/androiddev/comments/ul779n/is_there_any_software_that_can_check_if_two_codes/)
+- [Navigation Component anyone?](https://www.reddit.com/r/androiddev/comments/ul58u6/navigation_component_anyone/)
+- [Interactive Map](https://www.reddit.com/r/androiddev/comments/ul4laf/interactive_map/)
+- [DiskCache](https://www.reddit.com/r/androiddev/comments/ul0i09/diskcache/)
+- [i got this weird error after updating kotlin!](https://www.reddit.com/r/androiddev/comments/ukz4yz/i_got_this_weird_error_after_updating_kotlin/)
+- [Need advice on ViewModel reusability&lpar;MVI&rpar;](https://www.reddit.com/r/androiddev/comments/uky38f/need_advice_on_viewmodel_reusabilitymvi/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
