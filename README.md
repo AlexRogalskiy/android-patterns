@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Design hand-off experiences wanted!](https://www.reddit.com/r/androiddev/comments/ulafvj/design_handoff_experiences_wanted/)
-- [Location based](https://www.reddit.com/r/androiddev/comments/ula5im/location_based/)
-- [Where to deep dive for kotlin flows?](https://www.reddit.com/r/androiddev/comments/ula472/where_to_deep_dive_for_kotlin_flows/)
-- [Writing notification sounds to storage so that they can be set in the notification channel](https://www.reddit.com/r/androiddev/comments/ul83rs/writing_notification_sounds_to_storage_so_that/)
-- [Is there any software that can check if two codes are identical or have code in common?](https://www.reddit.com/r/androiddev/comments/ul779n/is_there_any_software_that_can_check_if_two_codes/)
-- [Navigation Component anyone?](https://www.reddit.com/r/androiddev/comments/ul58u6/navigation_component_anyone/)
-- [Interactive Map](https://www.reddit.com/r/androiddev/comments/ul4laf/interactive_map/)
-- [DiskCache](https://www.reddit.com/r/androiddev/comments/ul0i09/diskcache/)
-- [i got this weird error after updating kotlin!](https://www.reddit.com/r/androiddev/comments/ukz4yz/i_got_this_weird_error_after_updating_kotlin/)
-- [Need advice on ViewModel reusability&lpar;MVI&rpar;](https://www.reddit.com/r/androiddev/comments/uky38f/need_advice_on_viewmodel_reusabilitymvi/)
+- [Help with AMD Hypervisor thing](https://www.reddit.com/r/androiddev/comments/um77kc/help_with_amd_hypervisor_thing/)
+- [Anyone here with a 60% keyboard?](https://www.reddit.com/r/androiddev/comments/um61sk/anyone_here_with_a_60_keyboard/)
+- [What animal will the E version of Android Studio be?](https://www.reddit.com/r/androiddev/comments/um4uju/what_animal_will_the_e_version_of_android_studio/)
+- [For those of you creating simple Android apps that use a very small database, do you have async or non-async database calls?](https://www.reddit.com/r/androiddev/comments/um1ybo/for_those_of_you_creating_simple_android_apps/)
+- [App Suspended because of copyright](https://www.reddit.com/r/androiddev/comments/um0jr7/app_suspended_because_of_copyright/)
+- [How to calculate discounts on in-app products](https://www.reddit.com/r/androiddev/comments/um03fw/how_to_calculate_discounts_on_inapp_products/)
+- [Best Way to Sync Activity Data in My Android App](https://www.reddit.com/r/androiddev/comments/ulzcw9/best_way_to_sync_activity_data_in_my_android_app/)
+- [Android/iOS Developers Working for Google or Facebook - Do you use Flutter or React Native?](https://www.reddit.com/r/androiddev/comments/ulz00m/androidios_developers_working_for_google_or/)
+- [How to set no action bar &amp; light status bar at the same time in themes?](https://www.reddit.com/r/androiddev/comments/ulyneq/how_to_set_no_action_bar_light_status_bar_at_the/)
+- [I need to test an Android app on real devices, which devices should I use?](https://www.reddit.com/r/androiddev/comments/ulx8u1/i_need_to_test_an_android_app_on_real_devices/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
