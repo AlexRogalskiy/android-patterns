@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help with AMD Hypervisor thing](https://www.reddit.com/r/androiddev/comments/um77kc/help_with_amd_hypervisor_thing/)
-- [Anyone here with a 60% keyboard?](https://www.reddit.com/r/androiddev/comments/um61sk/anyone_here_with_a_60_keyboard/)
-- [What animal will the E version of Android Studio be?](https://www.reddit.com/r/androiddev/comments/um4uju/what_animal_will_the_e_version_of_android_studio/)
-- [For those of you creating simple Android apps that use a very small database, do you have async or non-async database calls?](https://www.reddit.com/r/androiddev/comments/um1ybo/for_those_of_you_creating_simple_android_apps/)
-- [App Suspended because of copyright](https://www.reddit.com/r/androiddev/comments/um0jr7/app_suspended_because_of_copyright/)
-- [How to calculate discounts on in-app products](https://www.reddit.com/r/androiddev/comments/um03fw/how_to_calculate_discounts_on_inapp_products/)
-- [Best Way to Sync Activity Data in My Android App](https://www.reddit.com/r/androiddev/comments/ulzcw9/best_way_to_sync_activity_data_in_my_android_app/)
-- [Android/iOS Developers Working for Google or Facebook - Do you use Flutter or React Native?](https://www.reddit.com/r/androiddev/comments/ulz00m/androidios_developers_working_for_google_or/)
-- [How to set no action bar &amp; light status bar at the same time in themes?](https://www.reddit.com/r/androiddev/comments/ulyneq/how_to_set_no_action_bar_light_status_bar_at_the/)
-- [I need to test an Android app on real devices, which devices should I use?](https://www.reddit.com/r/androiddev/comments/ulx8u1/i_need_to_test_an_android_app_on_real_devices/)
+- [Already applied a fix but dont know if my fix is ok?](https://www.reddit.com/r/androiddev/comments/umznnz/already_applied_a_fix_but_dont_know_if_my_fix_is/)
+- [Android Studio Chipmunk | 2021.2.1 | Android Developers](https://www.reddit.com/r/androiddev/comments/umvz91/android_studio_chipmunk_202121_android_developers/)
+- [Keeping up with the mess](https://www.reddit.com/r/androiddev/comments/umv2il/keeping_up_with_the_mess/)
+- [Need help with filtering a Recyclerview list](https://www.reddit.com/r/androiddev/comments/umt55q/need_help_with_filtering_a_recyclerview_list/)
+- [[Question] How does facebook stores all that accounts!?](https://www.reddit.com/r/androiddev/comments/umqusk/question_how_does_facebook_stores_all_that/)
+- [[Question] What is this whole signed app term is for ? please explain me?](https://www.reddit.com/r/androiddev/comments/umq1ef/question_what_is_this_whole_signed_app_term_is/)
+- [Coil 2.0 is out now](https://www.reddit.com/r/androiddev/comments/umouuc/coil_20_is_out_now/)
+- [How to order entities by date if date is string?](https://www.reddit.com/r/androiddev/comments/umja30/how_to_order_entities_by_date_if_date_is_string/)
+- [Understand Proguard Generated Files and Manually De-obfuscate Stacktrace](https://www.reddit.com/r/androiddev/comments/umimg5/understand_proguard_generated_files_and_manually/)
+- [Remote Hiring | Mega Online Drive for Android Developers 2022](https://www.reddit.com/r/androiddev/comments/umij0i/remote_hiring_mega_online_drive_for_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
