@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Already applied a fix but dont know if my fix is ok?](https://www.reddit.com/r/androiddev/comments/umznnz/already_applied_a_fix_but_dont_know_if_my_fix_is/)
-- [Android Studio Chipmunk | 2021.2.1 | Android Developers](https://www.reddit.com/r/androiddev/comments/umvz91/android_studio_chipmunk_202121_android_developers/)
-- [Keeping up with the mess](https://www.reddit.com/r/androiddev/comments/umv2il/keeping_up_with_the_mess/)
-- [Need help with filtering a Recyclerview list](https://www.reddit.com/r/androiddev/comments/umt55q/need_help_with_filtering_a_recyclerview_list/)
-- [[Question] How does facebook stores all that accounts!?](https://www.reddit.com/r/androiddev/comments/umqusk/question_how_does_facebook_stores_all_that/)
-- [[Question] What is this whole signed app term is for ? please explain me?](https://www.reddit.com/r/androiddev/comments/umq1ef/question_what_is_this_whole_signed_app_term_is/)
-- [Coil 2.0 is out now](https://www.reddit.com/r/androiddev/comments/umouuc/coil_20_is_out_now/)
-- [How to order entities by date if date is string?](https://www.reddit.com/r/androiddev/comments/umja30/how_to_order_entities_by_date_if_date_is_string/)
-- [Understand Proguard Generated Files and Manually De-obfuscate Stacktrace](https://www.reddit.com/r/androiddev/comments/umimg5/understand_proguard_generated_files_and_manually/)
-- [Remote Hiring | Mega Online Drive for Android Developers 2022](https://www.reddit.com/r/androiddev/comments/umij0i/remote_hiring_mega_online_drive_for_android/)
+- [How can I notify a subset of my users who are selected based on location &lpar;x miles radius&rpar; via Android in-app notifications?](https://www.reddit.com/r/androiddev/comments/unqmzt/how_can_i_notify_a_subset_of_my_users_who_are/)
+- [Thinking of redoing my Kivy App with Kotlin, worth it?](https://www.reddit.com/r/androiddev/comments/unqb20/thinking_of_redoing_my_kivy_app_with_kotlin_worth/)
+- [How to disconnect adb from device?](https://www.reddit.com/r/androiddev/comments/unq4pc/how_to_disconnect_adb_from_device/)
+- [13 Things to know for Android developers at Google I/O!](https://www.reddit.com/r/androiddev/comments/unmsob/13_things_to_know_for_android_developers_at/)
+- [How to keep all the common dependencies between multiple modules in single project gradle file?](https://www.reddit.com/r/androiddev/comments/unm9va/how_to_keep_all_the_common_dependencies_between/)
+- [Android dev docs are terribly written imo](https://www.reddit.com/r/androiddev/comments/unm6s2/android_dev_docs_are_terribly_written_imo/)
+- [State in Jetpack Compose workshop](https://www.reddit.com/r/androiddev/comments/unkpbn/state_in_jetpack_compose_workshop/)
+- [What&#39;s new in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/unjo2r/whats_new_in_jetpack_compose/)
+- [Android 13 Beta 2 released today: Enhanced security/privacy protection rich theme customization](https://www.reddit.com/r/androiddev/comments/uni20x/android_13_beta_2_released_today_enhanced/)
+- [Android 13: Beta 2 with many innovations for tablets](https://www.reddit.com/r/androiddev/comments/unhlw6/android_13_beta_2_with_many_innovations_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
