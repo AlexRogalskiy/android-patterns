@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How can I notify a subset of my users who are selected based on location &lpar;x miles radius&rpar; via Android in-app notifications?](https://www.reddit.com/r/androiddev/comments/unqmzt/how_can_i_notify_a_subset_of_my_users_who_are/)
-- [Thinking of redoing my Kivy App with Kotlin, worth it?](https://www.reddit.com/r/androiddev/comments/unqb20/thinking_of_redoing_my_kivy_app_with_kotlin_worth/)
-- [How to disconnect adb from device?](https://www.reddit.com/r/androiddev/comments/unq4pc/how_to_disconnect_adb_from_device/)
-- [13 Things to know for Android developers at Google I/O!](https://www.reddit.com/r/androiddev/comments/unmsob/13_things_to_know_for_android_developers_at/)
-- [How to keep all the common dependencies between multiple modules in single project gradle file?](https://www.reddit.com/r/androiddev/comments/unm9va/how_to_keep_all_the_common_dependencies_between/)
-- [Android dev docs are terribly written imo](https://www.reddit.com/r/androiddev/comments/unm6s2/android_dev_docs_are_terribly_written_imo/)
-- [State in Jetpack Compose workshop](https://www.reddit.com/r/androiddev/comments/unkpbn/state_in_jetpack_compose_workshop/)
-- [What&#39;s new in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/unjo2r/whats_new_in_jetpack_compose/)
-- [Android 13 Beta 2 released today: Enhanced security/privacy protection rich theme customization](https://www.reddit.com/r/androiddev/comments/uni20x/android_13_beta_2_released_today_enhanced/)
-- [Android 13: Beta 2 with many innovations for tablets](https://www.reddit.com/r/androiddev/comments/unhlw6/android_13_beta_2_with_many_innovations_for/)
+- [Anyone else experiencing app updates being stuck in review for more than 2.5 weeks?](https://www.reddit.com/r/androiddev/comments/uohh60/anyone_else_experiencing_app_updates_being_stuck/)
+- [Now in Android - a new, open source, real-world sample app](https://www.reddit.com/r/androiddev/comments/uogivi/now_in_android_a_new_open_source_realworld_sample/)
+- [Lazy layouts in Compose I/O talk](https://www.reddit.com/r/androiddev/comments/uofu3l/lazy_layouts_in_compose_io_talk/)
+- [Pointer to mimicking view..](https://www.reddit.com/r/androiddev/comments/uodf4i/pointer_to_mimicking_view/)
+- [Is it bad practice to put Kotlin extension functions inside an adapter class?](https://www.reddit.com/r/androiddev/comments/uoc91a/is_it_bad_practice_to_put_kotlin_extension/)
+- [Firebase FireStore Handling Offline](https://www.reddit.com/r/androiddev/comments/uobvcu/firebase_firestore_handling_offline/)
+- [[Help] UseCases with Hotstreams](https://www.reddit.com/r/androiddev/comments/uo88xm/help_usecases_with_hotstreams/)
+- [Integrate Lucene in android app for offline full-text search](https://www.reddit.com/r/androiddev/comments/uo6o17/integrate_lucene_in_android_app_for_offline/)
+- [New Firebase extensions for building and managing in-app purchases](https://www.reddit.com/r/androiddev/comments/uo3no4/new_firebase_extensions_for_building_and_managing/)
+- [Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available.](https://www.reddit.com/r/androiddev/comments/uo3gx5/horologist_is_a_group_of_libraries_that_aim_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
