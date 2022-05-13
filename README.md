@@ -286,6 +286,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Jetpack Compose 1.2 packs text improvements](https://www.infoworld.com/article/3660772/jetpack-compose-12-packs-text-improvements.html#tk.rss_android)
 - [JetBrains launches cross-platform UI framework for Kotlin](https://www.infoworld.com/article/3643392/jetbrains-launches-cross-platform-ui-framework-for-kotlin.html#tk.rss_android)
 - [Google unveils developer preview of Android 12L](https://www.infoworld.com/article/3638757/google-unveils-developer-preview-of-android-12l.html#tk.rss_android)
 - [Microsoft weighs in on Surface Duo apps](https://www.infoworld.com/article/3634419/microsoft-weighs-in-on-surface-duo-apps.html#tk.rss_android)
@@ -295,7 +296,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_android)
 - [Google Android team embraces Rust for Android OS development](https://www.infoworld.com/article/3614591/google-android-team-embraces-rust-for-android-os-development.html#tk.rss_android)
-- [Google wins Java dispute, Oracle remains defiant](https://www.infoworld.com/article/3614083/google-wins-java-dispute-oracle-remains-defiant.html#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
