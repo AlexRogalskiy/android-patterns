@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone else experiencing app updates being stuck in review for more than 2.5 weeks?](https://www.reddit.com/r/androiddev/comments/uohh60/anyone_else_experiencing_app_updates_being_stuck/)
-- [Now in Android - a new, open source, real-world sample app](https://www.reddit.com/r/androiddev/comments/uogivi/now_in_android_a_new_open_source_realworld_sample/)
-- [Lazy layouts in Compose I/O talk](https://www.reddit.com/r/androiddev/comments/uofu3l/lazy_layouts_in_compose_io_talk/)
-- [Pointer to mimicking view..](https://www.reddit.com/r/androiddev/comments/uodf4i/pointer_to_mimicking_view/)
-- [Is it bad practice to put Kotlin extension functions inside an adapter class?](https://www.reddit.com/r/androiddev/comments/uoc91a/is_it_bad_practice_to_put_kotlin_extension/)
-- [Firebase FireStore Handling Offline](https://www.reddit.com/r/androiddev/comments/uobvcu/firebase_firestore_handling_offline/)
-- [[Help] UseCases with Hotstreams](https://www.reddit.com/r/androiddev/comments/uo88xm/help_usecases_with_hotstreams/)
-- [Integrate Lucene in android app for offline full-text search](https://www.reddit.com/r/androiddev/comments/uo6o17/integrate_lucene_in_android_app_for_offline/)
-- [New Firebase extensions for building and managing in-app purchases](https://www.reddit.com/r/androiddev/comments/uo3no4/new_firebase_extensions_for_building_and_managing/)
-- [Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available.](https://www.reddit.com/r/androiddev/comments/uo3gx5/horologist_is_a_group_of_libraries_that_aim_to/)
+- [android operation error](https://www.reddit.com/r/androiddev/comments/up4h27/android_operation_error/)
+- [Android Per-App Language Preferences: Quick Tutorial](https://www.reddit.com/r/androiddev/comments/up2xcu/android_perapp_language_preferences_quick_tutorial/)
+- [What&#39;s up with the Advertiser ID Privacy Update?](https://www.reddit.com/r/androiddev/comments/up2f60/whats_up_with_the_advertiser_id_privacy_update/)
+- [Posting it here cos I didn&#39;t find it anywhere else.](https://www.reddit.com/r/androiddev/comments/up1qkr/posting_it_here_cos_i_didnt_find_it_anywhere_else/)
+- [Android Studio Electric Eel Canary 2 now available](https://www.reddit.com/r/androiddev/comments/up1a31/android_studio_electric_eel_canary_2_now_available/)
+- [Android State Managment](https://www.reddit.com/r/androiddev/comments/up0379/android_state_managment/)
+- [[Questions] How could i change some elements by editing it in the app&lpar;while running&rpar;](https://www.reddit.com/r/androiddev/comments/uoz2zj/questions_how_could_i_change_some_elements_by/)
+- [BeeWare or Kotlin?](https://www.reddit.com/r/androiddev/comments/uoyl0k/beeware_or_kotlin/)
+- [What&#39;s new in Android Studio](https://www.reddit.com/r/androiddev/comments/uoy7dp/whats_new_in_android_studio/)
+- [Overview of Mobile Testing: Tips and Tricks](https://www.reddit.com/r/androiddev/comments/uoxrjv/overview_of_mobile_testing_tips_and_tricks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
