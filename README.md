@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [android operation error](https://www.reddit.com/r/androiddev/comments/up4h27/android_operation_error/)
-- [Android Per-App Language Preferences: Quick Tutorial](https://www.reddit.com/r/androiddev/comments/up2xcu/android_perapp_language_preferences_quick_tutorial/)
-- [What&#39;s up with the Advertiser ID Privacy Update?](https://www.reddit.com/r/androiddev/comments/up2f60/whats_up_with_the_advertiser_id_privacy_update/)
-- [Posting it here cos I didn&#39;t find it anywhere else.](https://www.reddit.com/r/androiddev/comments/up1qkr/posting_it_here_cos_i_didnt_find_it_anywhere_else/)
-- [Android Studio Electric Eel Canary 2 now available](https://www.reddit.com/r/androiddev/comments/up1a31/android_studio_electric_eel_canary_2_now_available/)
-- [Android State Managment](https://www.reddit.com/r/androiddev/comments/up0379/android_state_managment/)
-- [[Questions] How could i change some elements by editing it in the app&lpar;while running&rpar;](https://www.reddit.com/r/androiddev/comments/uoz2zj/questions_how_could_i_change_some_elements_by/)
-- [BeeWare or Kotlin?](https://www.reddit.com/r/androiddev/comments/uoyl0k/beeware_or_kotlin/)
-- [What&#39;s new in Android Studio](https://www.reddit.com/r/androiddev/comments/uoy7dp/whats_new_in_android_studio/)
-- [Overview of Mobile Testing: Tips and Tricks](https://www.reddit.com/r/androiddev/comments/uoxrjv/overview_of_mobile_testing_tips_and_tricks/)
+- [Android apps](https://www.reddit.com/r/androiddev/comments/upv3wx/android_apps/)
+- [Android Developer Fundamentals](https://www.reddit.com/r/androiddev/comments/upughx/android_developer_fundamentals/)
+- [Native crash reporting and Data Safety reporting](https://www.reddit.com/r/androiddev/comments/upt95i/native_crash_reporting_and_data_safety_reporting/)
+- [Any reference on how to do View overlay using a blend mode?](https://www.reddit.com/r/androiddev/comments/upsag9/any_reference_on_how_to_do_view_overlay_using_a/)
+- [If android.view.WindowManager is &quot;the interface that apps use to talk to the window manager&quot; so what is the window manager?](https://www.reddit.com/r/androiddev/comments/upqc7n/if_androidviewwindowmanager_is_the_interface_that/)
+- [Share data between apps](https://www.reddit.com/r/androiddev/comments/upnysx/share_data_between_apps/)
+- [The thing I don&#39;t like about AS on the 13&quot; Macbook Air is that you can&#39;t get 100col with the project browser open to a sufficient width.](https://www.reddit.com/r/androiddev/comments/upn2uz/the_thing_i_dont_like_about_as_on_the_13_macbook/)
+- [ComposePrefs3 is the Material3 version of ComposePrefs, a library for creating Preferences in Jetpack Compose. Available now!](https://www.reddit.com/r/androiddev/comments/upkf1m/composeprefs3_is_the_material3_version_of/)
+- [Jetpack Compose Lifecycle](https://www.reddit.com/r/androiddev/comments/upjcjz/jetpack_compose_lifecycle/)
+- [Help me explain folder structure](https://www.reddit.com/r/androiddev/comments/upi97q/help_me_explain_folder_structure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
