@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android apps](https://www.reddit.com/r/androiddev/comments/upv3wx/android_apps/)
-- [Android Developer Fundamentals](https://www.reddit.com/r/androiddev/comments/upughx/android_developer_fundamentals/)
-- [Native crash reporting and Data Safety reporting](https://www.reddit.com/r/androiddev/comments/upt95i/native_crash_reporting_and_data_safety_reporting/)
-- [Any reference on how to do View overlay using a blend mode?](https://www.reddit.com/r/androiddev/comments/upsag9/any_reference_on_how_to_do_view_overlay_using_a/)
-- [If android.view.WindowManager is &quot;the interface that apps use to talk to the window manager&quot; so what is the window manager?](https://www.reddit.com/r/androiddev/comments/upqc7n/if_androidviewwindowmanager_is_the_interface_that/)
-- [Share data between apps](https://www.reddit.com/r/androiddev/comments/upnysx/share_data_between_apps/)
-- [The thing I don&#39;t like about AS on the 13&quot; Macbook Air is that you can&#39;t get 100col with the project browser open to a sufficient width.](https://www.reddit.com/r/androiddev/comments/upn2uz/the_thing_i_dont_like_about_as_on_the_13_macbook/)
-- [ComposePrefs3 is the Material3 version of ComposePrefs, a library for creating Preferences in Jetpack Compose. Available now!](https://www.reddit.com/r/androiddev/comments/upkf1m/composeprefs3_is_the_material3_version_of/)
-- [Jetpack Compose Lifecycle](https://www.reddit.com/r/androiddev/comments/upjcjz/jetpack_compose_lifecycle/)
-- [Help me explain folder structure](https://www.reddit.com/r/androiddev/comments/upi97q/help_me_explain_folder_structure/)
+- [help my Bluetooth keeps on randomly not working and I&#39;m so so frustrated](https://www.reddit.com/r/androiddev/comments/uql1bb/help_my_bluetooth_keeps_on_randomly_not_working/)
+- [Can developers request for a special alternative mode of payment for IAP on google playstore or is there a workaround that doesnt violate google’s policy?](https://www.reddit.com/r/androiddev/comments/uqijqh/can_developers_request_for_a_special_alternative/)
+- [how to code a calendar app?](https://www.reddit.com/r/androiddev/comments/uqf16i/how_to_code_a_calendar_app/)
+- [Changing the package name and Firebase](https://www.reddit.com/r/androiddev/comments/uqcxfa/changing_the_package_name_and_firebase/)
+- [I wanted to kill myself after watching the first video of the android dev course.](https://www.reddit.com/r/androiddev/comments/uqbtqd/i_wanted_to_kill_myself_after_watching_the_first/)
+- [Some of the best mobile app no code/low code development platforms out there?](https://www.reddit.com/r/androiddev/comments/uq9qt8/some_of_the_best_mobile_app_no_codelow_code/)
+- [is whole android apk can be decompiled?](https://www.reddit.com/r/androiddev/comments/uq94ys/is_whole_android_apk_can_be_decompiled/)
+- [TOML + Gradle + project accessors = ❤️](https://www.reddit.com/r/androiddev/comments/uq5444/toml_gradle_project_accessors/)
+- [First release of FloatingActionButtonSpeedDial for Compose is now available on Maven Central](https://www.reddit.com/r/androiddev/comments/uq31vr/first_release_of_floatingactionbuttonspeeddial/)
+- [Public repos to put on Github?](https://www.reddit.com/r/androiddev/comments/uq30u2/public_repos_to_put_on_github/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
