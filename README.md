@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hackerrank/Leetcode interviews for Android Developers](https://www.reddit.com/r/androiddev/comments/urchfa/hackerrankleetcode_interviews_for_android/)
-- [how do I mirror my TV to my tablet, can not lookup while recovering from surgery.](https://www.reddit.com/r/androiddev/comments/urbmii/how_do_i_mirror_my_tv_to_my_tablet_can_not_lookup/)
-- [can I use getExtra and putExtra for this?](https://www.reddit.com/r/androiddev/comments/ur6v5j/can_i_use_getextra_and_putextra_for_this/)
-- [Is there a way to create the Facebook App ID and App Secret without using your personal Facebook account?](https://www.reddit.com/r/androiddev/comments/ur6tfp/is_there_a_way_to_create_the_facebook_app_id_and/)
-- [Spot your UI jank using CPU profiler in Android Studio](https://www.reddit.com/r/androiddev/comments/ur0xl5/spot_your_ui_jank_using_cpu_profiler_in_android/)
-- [How long should my android game be?](https://www.reddit.com/r/androiddev/comments/uqyo4b/how_long_should_my_android_game_be/)
-- [Studying an example in Android docs](https://www.reddit.com/r/androiddev/comments/uqy02x/studying_an_example_in_android_docs/)
-- [Looking for an app dev buddy](https://www.reddit.com/r/androiddev/comments/uqxla3/looking_for_an_app_dev_buddy/)
-- [How do I share RecycledViewPool between fragments?](https://www.reddit.com/r/androiddev/comments/uqwbmr/how_do_i_share_recycledviewpool_between_fragments/)
-- [How can I implement reddit kind of sort by filter in my app](https://www.reddit.com/r/androiddev/comments/uqvlk9/how_can_i_implement_reddit_kind_of_sort_by_filter/)
+- [2022 Stack Overflow Developer Survey](https://www.reddit.com/r/androiddev/comments/us2q7n/2022_stack_overflow_developer_survey/)
+- [What does &quot;Pre-R&quot; mean?](https://www.reddit.com/r/androiddev/comments/us1ti8/what_does_prer_mean/)
+- [Update Android App Through Web Admin?](https://www.reddit.com/r/androiddev/comments/us0iki/update_android_app_through_web_admin/)
+- [Call RecyclerView after a buttonClick?](https://www.reddit.com/r/androiddev/comments/us0bf3/call_recyclerview_after_a_buttonclick/)
+- [How many of you are really strong with gradle?](https://www.reddit.com/r/androiddev/comments/urwu09/how_many_of_you_are_really_strong_with_gradle/)
+- [Companion Device Manager not working on older androids &gt;11](https://www.reddit.com/r/androiddev/comments/urvqk4/companion_device_manager_not_working_on_older/)
+- [Powerful &amp; Open Source debugger for native android apps](https://www.reddit.com/r/androiddev/comments/urv8wc/powerful_open_source_debugger_for_native_android/)
+- [Free&amp;Easy way to test the response time of your app&#39;s backend from 25 countries](https://www.reddit.com/r/androiddev/comments/uru3g6/freeeasy_way_to_test_the_response_time_of_your/)
+- [I really don&#39;t know if this is the place to post this](https://www.reddit.com/r/androiddev/comments/urs9n2/i_really_dont_know_if_this_is_the_place_to_post/)
+- [increasing heap size in android](https://www.reddit.com/r/androiddev/comments/urq0s1/increasing_heap_size_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
