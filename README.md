@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [2022 Stack Overflow Developer Survey](https://www.reddit.com/r/androiddev/comments/us2q7n/2022_stack_overflow_developer_survey/)
-- [What does &quot;Pre-R&quot; mean?](https://www.reddit.com/r/androiddev/comments/us1ti8/what_does_prer_mean/)
-- [Update Android App Through Web Admin?](https://www.reddit.com/r/androiddev/comments/us0iki/update_android_app_through_web_admin/)
-- [Call RecyclerView after a buttonClick?](https://www.reddit.com/r/androiddev/comments/us0bf3/call_recyclerview_after_a_buttonclick/)
-- [How many of you are really strong with gradle?](https://www.reddit.com/r/androiddev/comments/urwu09/how_many_of_you_are_really_strong_with_gradle/)
-- [Companion Device Manager not working on older androids &gt;11](https://www.reddit.com/r/androiddev/comments/urvqk4/companion_device_manager_not_working_on_older/)
-- [Powerful &amp; Open Source debugger for native android apps](https://www.reddit.com/r/androiddev/comments/urv8wc/powerful_open_source_debugger_for_native_android/)
-- [Free&amp;Easy way to test the response time of your app&#39;s backend from 25 countries](https://www.reddit.com/r/androiddev/comments/uru3g6/freeeasy_way_to_test_the_response_time_of_your/)
-- [I really don&#39;t know if this is the place to post this](https://www.reddit.com/r/androiddev/comments/urs9n2/i_really_dont_know_if_this_is_the_place_to_post/)
-- [increasing heap size in android](https://www.reddit.com/r/androiddev/comments/urq0s1/increasing_heap_size_in_android/)
+- [What Features Do I Need To Add In My Productivity &amp; Energy Mobile App?](https://www.reddit.com/r/androiddev/comments/usqype/what_features_do_i_need_to_add_in_my_productivity/)
+- [How to set notification sound from server?](https://www.reddit.com/r/androiddev/comments/usq1x5/how_to_set_notification_sound_from_server/)
+- [Good hosting for small Json file](https://www.reddit.com/r/androiddev/comments/usp99n/good_hosting_for_small_json_file/)
+- [Enable mock locations missing from developer options](https://www.reddit.com/r/androiddev/comments/usp2g1/enable_mock_locations_missing_from_developer/)
+- [Looking to route the front-facing camera to HDMI](https://www.reddit.com/r/androiddev/comments/usnapr/looking_to_route_the_frontfacing_camera_to_hdmi/)
+- [Suggestion for capturing panoramic image](https://www.reddit.com/r/androiddev/comments/usip7h/suggestion_for_capturing_panoramic_image/)
+- [Changing contents of a Vector Drawable?](https://www.reddit.com/r/androiddev/comments/usiaaq/changing_contents_of_a_vector_drawable/)
+- [Anyone knows of a MVVM guide/tutorial for Firebase Authentication, specifically if you&#39;re only using the Google and Facebook sign-in providers?](https://www.reddit.com/r/androiddev/comments/usguhn/anyone_knows_of_a_mvvm_guidetutorial_for_firebase/)
+- [so i have an App that i just finished freelancing the ui /ux. it hasnt been officially created but looking to get idea on the next steps to take. Any feedback will be appreciated](https://www.reddit.com/r/androiddev/comments/usg6hw/so_i_have_an_app_that_i_just_finished_freelancing/)
+- [How does launchers like Nova get current wallpaper without read external storage permission ?](https://www.reddit.com/r/androiddev/comments/usdx66/how_does_launchers_like_nova_get_current/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
