@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What Features Do I Need To Add In My Productivity &amp; Energy Mobile App?](https://www.reddit.com/r/androiddev/comments/usqype/what_features_do_i_need_to_add_in_my_productivity/)
-- [How to set notification sound from server?](https://www.reddit.com/r/androiddev/comments/usq1x5/how_to_set_notification_sound_from_server/)
-- [Good hosting for small Json file](https://www.reddit.com/r/androiddev/comments/usp99n/good_hosting_for_small_json_file/)
-- [Enable mock locations missing from developer options](https://www.reddit.com/r/androiddev/comments/usp2g1/enable_mock_locations_missing_from_developer/)
-- [Looking to route the front-facing camera to HDMI](https://www.reddit.com/r/androiddev/comments/usnapr/looking_to_route_the_frontfacing_camera_to_hdmi/)
-- [Suggestion for capturing panoramic image](https://www.reddit.com/r/androiddev/comments/usip7h/suggestion_for_capturing_panoramic_image/)
-- [Changing contents of a Vector Drawable?](https://www.reddit.com/r/androiddev/comments/usiaaq/changing_contents_of_a_vector_drawable/)
-- [Anyone knows of a MVVM guide/tutorial for Firebase Authentication, specifically if you&#39;re only using the Google and Facebook sign-in providers?](https://www.reddit.com/r/androiddev/comments/usguhn/anyone_knows_of_a_mvvm_guidetutorial_for_firebase/)
-- [so i have an App that i just finished freelancing the ui /ux. it hasnt been officially created but looking to get idea on the next steps to take. Any feedback will be appreciated](https://www.reddit.com/r/androiddev/comments/usg6hw/so_i_have_an_app_that_i_just_finished_freelancing/)
-- [How does launchers like Nova get current wallpaper without read external storage permission ?](https://www.reddit.com/r/androiddev/comments/usdx66/how_does_launchers_like_nova_get_current/)
+- [Kotlin front in, Python Flask API backend practical?](https://www.reddit.com/r/androiddev/comments/utifvl/kotlin_front_in_python_flask_api_backend_practical/)
+- [can you have an app that sells physical goods without incurring the crazy 30% fees?](https://www.reddit.com/r/androiddev/comments/uthcrt/can_you_have_an_app_that_sells_physical_goods/)
+- [Android Fundamentals in 2022 Java](https://www.reddit.com/r/androiddev/comments/utg31d/android_fundamentals_in_2022_java/)
+- [Get the transactions list from Google Pay via API](https://www.reddit.com/r/androiddev/comments/utekqi/get_the_transactions_list_from_google_pay_via_api/)
+- [Android Dev Courses](https://www.reddit.com/r/androiddev/comments/utehod/android_dev_courses/)
+- [How do I move my button?](https://www.reddit.com/r/androiddev/comments/utegly/how_do_i_move_my_button/)
+- [Account Deletion Requirement](https://www.reddit.com/r/androiddev/comments/utb3ok/account_deletion_requirement/)
+- [Problem with first app](https://www.reddit.com/r/androiddev/comments/uta5kj/problem_with_first_app/)
+- [2 Devs 1 console account?](https://www.reddit.com/r/androiddev/comments/ut7rpx/2_devs_1_console_account/)
+- [app in Google Play open beta / in-app purchases?](https://www.reddit.com/r/androiddev/comments/ut77kw/app_in_google_play_open_beta_inapp_purchases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
