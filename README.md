@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kotlin front in, Python Flask API backend practical?](https://www.reddit.com/r/androiddev/comments/utifvl/kotlin_front_in_python_flask_api_backend_practical/)
-- [can you have an app that sells physical goods without incurring the crazy 30% fees?](https://www.reddit.com/r/androiddev/comments/uthcrt/can_you_have_an_app_that_sells_physical_goods/)
-- [Android Fundamentals in 2022 Java](https://www.reddit.com/r/androiddev/comments/utg31d/android_fundamentals_in_2022_java/)
-- [Get the transactions list from Google Pay via API](https://www.reddit.com/r/androiddev/comments/utekqi/get_the_transactions_list_from_google_pay_via_api/)
-- [Android Dev Courses](https://www.reddit.com/r/androiddev/comments/utehod/android_dev_courses/)
-- [How do I move my button?](https://www.reddit.com/r/androiddev/comments/utegly/how_do_i_move_my_button/)
-- [Account Deletion Requirement](https://www.reddit.com/r/androiddev/comments/utb3ok/account_deletion_requirement/)
-- [Problem with first app](https://www.reddit.com/r/androiddev/comments/uta5kj/problem_with_first_app/)
-- [2 Devs 1 console account?](https://www.reddit.com/r/androiddev/comments/ut7rpx/2_devs_1_console_account/)
-- [app in Google Play open beta / in-app purchases?](https://www.reddit.com/r/androiddev/comments/ut77kw/app_in_google_play_open_beta_inapp_purchases/)
+- [Custom ROM for old Galaxy Tab A with S-pen](https://www.reddit.com/r/androiddev/comments/uuccw2/custom_rom_for_old_galaxy_tab_a_with_spen/)
+- [Password security ideas](https://www.reddit.com/r/androiddev/comments/uuaiqf/password_security_ideas/)
+- [Another Android Studio problem&lpar;super beginner&rpar;](https://www.reddit.com/r/androiddev/comments/uu9awi/another_android_studio_problemsuper_beginner/)
+- [How tf to manage / learn the Android API libraries?](https://www.reddit.com/r/androiddev/comments/uu93bx/how_tf_to_manage_learn_the_android_api_libraries/)
+- [I need to use location in my app.](https://www.reddit.com/r/androiddev/comments/uu8cwm/i_need_to_use_location_in_my_app/)
+- [No mobile app for console?](https://www.reddit.com/r/androiddev/comments/uu8400/no_mobile_app_for_console/)
+- [&quot;Observing&quot; a Live Data or a Flow...](https://www.reddit.com/r/androiddev/comments/uu5khw/observing_a_live_data_or_a_flow/)
+- [How would you design selectable nested list with icons?](https://www.reddit.com/r/androiddev/comments/uu5jt0/how_would_you_design_selectable_nested_list_with/)
+- [Headless Flipper - what it means for plugin developers | Flipper](https://www.reddit.com/r/androiddev/comments/uu3zvr/headless_flipper_what_it_means_for_plugin/)
+- [CameraX - bad distorsion / quality when saving picture](https://www.reddit.com/r/androiddev/comments/uu3ab9/camerax_bad_distorsion_quality_when_saving_picture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
