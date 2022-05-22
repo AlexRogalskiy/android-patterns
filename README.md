@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Custom ROM for old Galaxy Tab A with S-pen](https://www.reddit.com/r/androiddev/comments/uuccw2/custom_rom_for_old_galaxy_tab_a_with_spen/)
-- [Password security ideas](https://www.reddit.com/r/androiddev/comments/uuaiqf/password_security_ideas/)
-- [Another Android Studio problem&lpar;super beginner&rpar;](https://www.reddit.com/r/androiddev/comments/uu9awi/another_android_studio_problemsuper_beginner/)
-- [How tf to manage / learn the Android API libraries?](https://www.reddit.com/r/androiddev/comments/uu93bx/how_tf_to_manage_learn_the_android_api_libraries/)
-- [I need to use location in my app.](https://www.reddit.com/r/androiddev/comments/uu8cwm/i_need_to_use_location_in_my_app/)
-- [No mobile app for console?](https://www.reddit.com/r/androiddev/comments/uu8400/no_mobile_app_for_console/)
-- [&quot;Observing&quot; a Live Data or a Flow...](https://www.reddit.com/r/androiddev/comments/uu5khw/observing_a_live_data_or_a_flow/)
-- [How would you design selectable nested list with icons?](https://www.reddit.com/r/androiddev/comments/uu5jt0/how_would_you_design_selectable_nested_list_with/)
-- [Headless Flipper - what it means for plugin developers | Flipper](https://www.reddit.com/r/androiddev/comments/uu3zvr/headless_flipper_what_it_means_for_plugin/)
-- [CameraX - bad distorsion / quality when saving picture](https://www.reddit.com/r/androiddev/comments/uu3ab9/camerax_bad_distorsion_quality_when_saving_picture/)
+- [usb wifi adapter px6?](https://www.reddit.com/r/androiddev/comments/uv0wey/usb_wifi_adapter_px6/)
+- [Does anyone know the CompileSDKVersion and CompileSDKVersionCodename for Android 13? I want to ensure my apps are well optimized already](https://www.reddit.com/r/androiddev/comments/uv09qh/does_anyone_know_the_compilesdkversion_and/)
+- [easiest way/library for getting a webpage status.](https://www.reddit.com/r/androiddev/comments/uuzvls/easiest_waylibrary_for_getting_a_webpage_status/)
+- [Help with Matching Users and Displaying relevant data](https://www.reddit.com/r/androiddev/comments/uuz4k4/help_with_matching_users_and_displaying_relevant/)
+- [Phones that work for call recording in Canada?](https://www.reddit.com/r/androiddev/comments/uux36t/phones_that_work_for_call_recording_in_canada/)
+- [Making a social app for Uni](https://www.reddit.com/r/androiddev/comments/uuuq09/making_a_social_app_for_uni/)
+- [Which solution do you use for your android app&#39;s backend?](https://www.reddit.com/r/androiddev/comments/uuubdv/which_solution_do_you_use_for_your_android_apps/)
+- [MAX_CHARGING_VOLTAGE](https://www.reddit.com/r/androiddev/comments/uure0d/max_charging_voltage/)
+- [Report button to don’t ever see the reported user from the account that’s been reported](https://www.reddit.com/r/androiddev/comments/uupejy/report_button_to_dont_ever_see_the_reported_user/)
+- [Install last recent Android on galaxy note m3 for testing pourpose](https://www.reddit.com/r/androiddev/comments/uup0kh/install_last_recent_android_on_galaxy_note_m3_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
