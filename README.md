@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [usb wifi adapter px6?](https://www.reddit.com/r/androiddev/comments/uv0wey/usb_wifi_adapter_px6/)
-- [Does anyone know the CompileSDKVersion and CompileSDKVersionCodename for Android 13? I want to ensure my apps are well optimized already](https://www.reddit.com/r/androiddev/comments/uv09qh/does_anyone_know_the_compilesdkversion_and/)
-- [easiest way/library for getting a webpage status.](https://www.reddit.com/r/androiddev/comments/uuzvls/easiest_waylibrary_for_getting_a_webpage_status/)
-- [Help with Matching Users and Displaying relevant data](https://www.reddit.com/r/androiddev/comments/uuz4k4/help_with_matching_users_and_displaying_relevant/)
-- [Phones that work for call recording in Canada?](https://www.reddit.com/r/androiddev/comments/uux36t/phones_that_work_for_call_recording_in_canada/)
-- [Making a social app for Uni](https://www.reddit.com/r/androiddev/comments/uuuq09/making_a_social_app_for_uni/)
-- [Which solution do you use for your android app&#39;s backend?](https://www.reddit.com/r/androiddev/comments/uuubdv/which_solution_do_you_use_for_your_android_apps/)
-- [MAX_CHARGING_VOLTAGE](https://www.reddit.com/r/androiddev/comments/uure0d/max_charging_voltage/)
-- [Report button to don’t ever see the reported user from the account that’s been reported](https://www.reddit.com/r/androiddev/comments/uupejy/report_button_to_dont_ever_see_the_reported_user/)
-- [Install last recent Android on galaxy note m3 for testing pourpose](https://www.reddit.com/r/androiddev/comments/uup0kh/install_last_recent_android_on_galaxy_note_m3_for/)
+- [Another Open-Source Flutter Android App: TeamViewer Alternative](https://www.reddit.com/r/androiddev/comments/uvodjb/another_opensource_flutter_android_app_teamviewer/)
+- [Please tell me there&#39;s a way to disable this split-pane feature in Android Studio](https://www.reddit.com/r/androiddev/comments/uvn5vz/please_tell_me_theres_a_way_to_disable_this/)
+- [How many downloads have your self-made app gotten?](https://www.reddit.com/r/androiddev/comments/uvm45b/how_many_downloads_have_your_selfmade_app_gotten/)
+- [hi everyone! I really need some help with Jacoco. suppose I&#39;m having a project with two modules the app and a library. Can I add a jacoco to library only to see code coverage?](https://www.reddit.com/r/androiddev/comments/uvk8ui/hi_everyone_i_really_need_some_help_with_jacoco/)
+- [Don&#39;t ever rely on donations in your apps](https://www.reddit.com/r/androiddev/comments/uvjw1u/dont_ever_rely_on_donations_in_your_apps/)
+- [OEMs, Please stop putting 3 GHZ Octa-cores and 8 GB RAM in your phones](https://www.reddit.com/r/androiddev/comments/uvj9vp/oems_please_stop_putting_3_ghz_octacores_and_8_gb/)
+- [How to make an Android card game](https://www.reddit.com/r/androiddev/comments/uvgvhc/how_to_make_an_android_card_game/)
+- [Would you advice picking up React Native or Flutter?](https://www.reddit.com/r/androiddev/comments/uvfsjf/would_you_advice_picking_up_react_native_or/)
+- [Employed Senior android developer? they use that?](https://www.reddit.com/r/androiddev/comments/uvfolg/employed_senior_android_developer_they_use_that/)
+- [How to make dialog with choice to load photo from camera or from storage. Android 5.0+](https://www.reddit.com/r/androiddev/comments/uvdlir/how_to_make_dialog_with_choice_to_load_photo_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
