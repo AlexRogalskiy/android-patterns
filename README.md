@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Another Open-Source Flutter Android App: TeamViewer Alternative](https://www.reddit.com/r/androiddev/comments/uvodjb/another_opensource_flutter_android_app_teamviewer/)
-- [Please tell me there&#39;s a way to disable this split-pane feature in Android Studio](https://www.reddit.com/r/androiddev/comments/uvn5vz/please_tell_me_theres_a_way_to_disable_this/)
-- [How many downloads have your self-made app gotten?](https://www.reddit.com/r/androiddev/comments/uvm45b/how_many_downloads_have_your_selfmade_app_gotten/)
-- [hi everyone! I really need some help with Jacoco. suppose I&#39;m having a project with two modules the app and a library. Can I add a jacoco to library only to see code coverage?](https://www.reddit.com/r/androiddev/comments/uvk8ui/hi_everyone_i_really_need_some_help_with_jacoco/)
-- [Don&#39;t ever rely on donations in your apps](https://www.reddit.com/r/androiddev/comments/uvjw1u/dont_ever_rely_on_donations_in_your_apps/)
-- [OEMs, Please stop putting 3 GHZ Octa-cores and 8 GB RAM in your phones](https://www.reddit.com/r/androiddev/comments/uvj9vp/oems_please_stop_putting_3_ghz_octacores_and_8_gb/)
-- [How to make an Android card game](https://www.reddit.com/r/androiddev/comments/uvgvhc/how_to_make_an_android_card_game/)
-- [Would you advice picking up React Native or Flutter?](https://www.reddit.com/r/androiddev/comments/uvfsjf/would_you_advice_picking_up_react_native_or/)
-- [Employed Senior android developer? they use that?](https://www.reddit.com/r/androiddev/comments/uvfolg/employed_senior_android_developer_they_use_that/)
-- [How to make dialog with choice to load photo from camera or from storage. Android 5.0+](https://www.reddit.com/r/androiddev/comments/uvdlir/how_to_make_dialog_with_choice_to_load_photo_from/)
+- [Shot in the dark - anyone know where we implement a Navigation Drawer in the Android Basics in Kotlin course?](https://www.reddit.com/r/androiddev/comments/uwh2gp/shot_in_the_dark_anyone_know_where_we_implement_a/)
+- [Modern Android Techniques - An App Builders Workshop](https://www.reddit.com/r/androiddev/comments/uw9psh/modern_android_techniques_an_app_builders_workshop/)
+- [Get preregistered user&#39;s email list](https://www.reddit.com/r/androiddev/comments/uw9ghu/get_preregistered_users_email_list/)
+- [Best Practices: Are we building apps for everyone?](https://www.reddit.com/r/androiddev/comments/uw3v9y/best_practices_are_we_building_apps_for_everyone/)
+- [App Flow of an Android App?](https://www.reddit.com/r/androiddev/comments/uw3s81/app_flow_of_an_android_app/)
+- [CLI utility to convert Jetpack Compose compiler metrics and reports to beautified HTML page](https://www.reddit.com/r/androiddev/comments/uw2t9n/cli_utility_to_convert_jetpack_compose_compiler/)
+- [Jetpack Compose Color libraries that cover many things you might need about colors. Detect colors with name from screen or image. Utility library with material design 2 or 3 colors shades or tones, 12 different color pickers to select solid color or gradient from linear, sweep and more options](https://www.reddit.com/r/androiddev/comments/uw2rsp/jetpack_compose_color_libraries_that_cover_many/)
+- [Android developers of Reddit, explain like I&#39;m 5 : what are the SOLID principles?](https://www.reddit.com/r/androiddev/comments/uw21u1/android_developers_of_reddit_explain_like_im_5/)
+- [Single source file native app &lpar;without native_app_glue&rpar;](https://www.reddit.com/r/androiddev/comments/uw00k7/single_source_file_native_app_without_native_app/)
+- [Weekly Who&#39;s Hiring Thread - May 23, 2022](https://www.reddit.com/r/androiddev/comments/uvzn8j/weekly_whos_hiring_thread_may_23_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
