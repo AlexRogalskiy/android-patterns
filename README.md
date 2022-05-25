@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Shot in the dark - anyone know where we implement a Navigation Drawer in the Android Basics in Kotlin course?](https://www.reddit.com/r/androiddev/comments/uwh2gp/shot_in_the_dark_anyone_know_where_we_implement_a/)
-- [Modern Android Techniques - An App Builders Workshop](https://www.reddit.com/r/androiddev/comments/uw9psh/modern_android_techniques_an_app_builders_workshop/)
-- [Get preregistered user&#39;s email list](https://www.reddit.com/r/androiddev/comments/uw9ghu/get_preregistered_users_email_list/)
-- [Best Practices: Are we building apps for everyone?](https://www.reddit.com/r/androiddev/comments/uw3v9y/best_practices_are_we_building_apps_for_everyone/)
-- [App Flow of an Android App?](https://www.reddit.com/r/androiddev/comments/uw3s81/app_flow_of_an_android_app/)
-- [CLI utility to convert Jetpack Compose compiler metrics and reports to beautified HTML page](https://www.reddit.com/r/androiddev/comments/uw2t9n/cli_utility_to_convert_jetpack_compose_compiler/)
-- [Jetpack Compose Color libraries that cover many things you might need about colors. Detect colors with name from screen or image. Utility library with material design 2 or 3 colors shades or tones, 12 different color pickers to select solid color or gradient from linear, sweep and more options](https://www.reddit.com/r/androiddev/comments/uw2rsp/jetpack_compose_color_libraries_that_cover_many/)
-- [Android developers of Reddit, explain like I&#39;m 5 : what are the SOLID principles?](https://www.reddit.com/r/androiddev/comments/uw21u1/android_developers_of_reddit_explain_like_im_5/)
-- [Single source file native app &lpar;without native_app_glue&rpar;](https://www.reddit.com/r/androiddev/comments/uw00k7/single_source_file_native_app_without_native_app/)
-- [Weekly Who&#39;s Hiring Thread - May 23, 2022](https://www.reddit.com/r/androiddev/comments/uvzn8j/weekly_whos_hiring_thread_may_23_2022/)
+- [Is it possible for an app to not only see other apps installed, but see logins as well?](https://www.reddit.com/r/androiddev/comments/ux1klf/is_it_possible_for_an_app_to_not_only_see_other/)
+- [Macbook M1 Pro vs M1 Max for Android development](https://www.reddit.com/r/androiddev/comments/ux11s1/macbook_m1_pro_vs_m1_max_for_android_development/)
+- [Question about View Binding](https://www.reddit.com/r/androiddev/comments/ux0ri9/question_about_view_binding/)
+- [Getting duplicate class error](https://www.reddit.com/r/androiddev/comments/uwztw0/getting_duplicate_class_error/)
+- [Where are app files stored in Android Studio?](https://www.reddit.com/r/androiddev/comments/uwzsqt/where_are_app_files_stored_in_android_studio/)
+- [Tips for learning iOS development as an Android developer?](https://www.reddit.com/r/androiddev/comments/uwvvr5/tips_for_learning_ios_development_as_an_android/)
+- [How do you come up with a privacy policy?](https://www.reddit.com/r/androiddev/comments/uwvp1m/how_do_you_come_up_with_a_privacy_policy/)
+- [Looking for Android Developement Mentor](https://www.reddit.com/r/androiddev/comments/uwujd2/looking_for_android_developement_mentor/)
+- [Python or Kotlin?](https://www.reddit.com/r/androiddev/comments/uwtbb0/python_or_kotlin/)
+- [which android phone is best for development](https://www.reddit.com/r/androiddev/comments/uwt2y8/which_android_phone_is_best_for_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
