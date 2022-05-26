@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible for an app to not only see other apps installed, but see logins as well?](https://www.reddit.com/r/androiddev/comments/ux1klf/is_it_possible_for_an_app_to_not_only_see_other/)
-- [Macbook M1 Pro vs M1 Max for Android development](https://www.reddit.com/r/androiddev/comments/ux11s1/macbook_m1_pro_vs_m1_max_for_android_development/)
-- [Question about View Binding](https://www.reddit.com/r/androiddev/comments/ux0ri9/question_about_view_binding/)
-- [Getting duplicate class error](https://www.reddit.com/r/androiddev/comments/uwztw0/getting_duplicate_class_error/)
-- [Where are app files stored in Android Studio?](https://www.reddit.com/r/androiddev/comments/uwzsqt/where_are_app_files_stored_in_android_studio/)
-- [Tips for learning iOS development as an Android developer?](https://www.reddit.com/r/androiddev/comments/uwvvr5/tips_for_learning_ios_development_as_an_android/)
-- [How do you come up with a privacy policy?](https://www.reddit.com/r/androiddev/comments/uwvp1m/how_do_you_come_up_with_a_privacy_policy/)
-- [Looking for Android Developement Mentor](https://www.reddit.com/r/androiddev/comments/uwujd2/looking_for_android_developement_mentor/)
-- [Python or Kotlin?](https://www.reddit.com/r/androiddev/comments/uwtbb0/python_or_kotlin/)
-- [which android phone is best for development](https://www.reddit.com/r/androiddev/comments/uwt2y8/which_android_phone_is_best_for_development/)
+- [Better way to implement onKeyDown for compose ?](https://www.reddit.com/r/androiddev/comments/uxxhb4/better_way_to_implement_onkeydown_for_compose/)
+- [Using recipe API for my app](https://www.reddit.com/r/androiddev/comments/uxv1pt/using_recipe_api_for_my_app/)
+- [raspberry pi and android triggering](https://www.reddit.com/r/androiddev/comments/uxuuwi/raspberry_pi_and_android_triggering/)
+- [Android Udemy course or other resources recommendation](https://www.reddit.com/r/androiddev/comments/uxugcz/android_udemy_course_or_other_resources/)
+- [Verifying identification?](https://www.reddit.com/r/androiddev/comments/uxu6a0/verifying_identification/)
+- [Any non-EU android devs made it to EU ,what is your story?](https://www.reddit.com/r/androiddev/comments/uxrlf9/any_noneu_android_devs_made_it_to_eu_what_is_your/)
+- [want to start developing android apps need help](https://www.reddit.com/r/androiddev/comments/uxqjij/want_to_start_developing_android_apps_need_help/)
+- [Cannot use Kotlin contracts with Android](https://www.reddit.com/r/androiddev/comments/uxqgt3/cannot_use_kotlin_contracts_with_android/)
+- [Can a photo recovery app from a play store steals the scanned data to the server side?](https://www.reddit.com/r/androiddev/comments/uxq5gd/can_a_photo_recovery_app_from_a_play_store_steals/)
+- [Google play instant - NFC permissions?](https://www.reddit.com/r/androiddev/comments/uxpd91/google_play_instant_nfc_permissions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
