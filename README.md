@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Better way to implement onKeyDown for compose ?](https://www.reddit.com/r/androiddev/comments/uxxhb4/better_way_to_implement_onkeydown_for_compose/)
-- [Using recipe API for my app](https://www.reddit.com/r/androiddev/comments/uxv1pt/using_recipe_api_for_my_app/)
-- [raspberry pi and android triggering](https://www.reddit.com/r/androiddev/comments/uxuuwi/raspberry_pi_and_android_triggering/)
-- [Android Udemy course or other resources recommendation](https://www.reddit.com/r/androiddev/comments/uxugcz/android_udemy_course_or_other_resources/)
-- [Verifying identification?](https://www.reddit.com/r/androiddev/comments/uxu6a0/verifying_identification/)
-- [Any non-EU android devs made it to EU ,what is your story?](https://www.reddit.com/r/androiddev/comments/uxrlf9/any_noneu_android_devs_made_it_to_eu_what_is_your/)
-- [want to start developing android apps need help](https://www.reddit.com/r/androiddev/comments/uxqjij/want_to_start_developing_android_apps_need_help/)
-- [Cannot use Kotlin contracts with Android](https://www.reddit.com/r/androiddev/comments/uxqgt3/cannot_use_kotlin_contracts_with_android/)
-- [Can a photo recovery app from a play store steals the scanned data to the server side?](https://www.reddit.com/r/androiddev/comments/uxq5gd/can_a_photo_recovery_app_from_a_play_store_steals/)
-- [Google play instant - NFC permissions?](https://www.reddit.com/r/androiddev/comments/uxpd91/google_play_instant_nfc_permissions/)
+- [It looks like there are 2 listed Google Certified Assoc. Android devs in the US and 420 worldwide](https://www.reddit.com/r/androiddev/comments/uyo793/it_looks_like_there_are_2_listed_google_certified/)
+- [which of these 2 approaches is best for a card game](https://www.reddit.com/r/androiddev/comments/uymgem/which_of_these_2_approaches_is_best_for_a_card/)
+- [Would it be possible to get a junior android dev job if I dedicate 3 months?](https://www.reddit.com/r/androiddev/comments/uyjuj4/would_it_be_possible_to_get_a_junior_android_dev/)
+- [Is there any way to proxy &lpar;with credentials user and pass&rpar; an android device programmatically?](https://www.reddit.com/r/androiddev/comments/uyisfe/is_there_any_way_to_proxy_with_credentials_user/)
+- [Android app to make a robot follow a invisible line drawn on screen](https://www.reddit.com/r/androiddev/comments/uyiqx2/android_app_to_make_a_robot_follow_a_invisible/)
+- [Yay. org.gradle.unsafe.configuration-cache=true](https://www.reddit.com/r/androiddev/comments/uyio89/yay_orggradleunsafeconfigurationcachetrue/)
+- [which manager to use?](https://www.reddit.com/r/androiddev/comments/uyifur/which_manager_to_use/)
+- [Canvas clipOutPath not working](https://www.reddit.com/r/androiddev/comments/uyi9jr/canvas_clipoutpath_not_working/)
+- [looking for willing android development mentors](https://www.reddit.com/r/androiddev/comments/uygkyo/looking_for_willing_android_development_mentors/)
+- [Question about App Signing and Upload Key - Do I need a new keystore if I already have the one for signing apks?](https://www.reddit.com/r/androiddev/comments/uygbx7/question_about_app_signing_and_upload_key_do_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
