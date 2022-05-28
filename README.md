@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [It looks like there are 2 listed Google Certified Assoc. Android devs in the US and 420 worldwide](https://www.reddit.com/r/androiddev/comments/uyo793/it_looks_like_there_are_2_listed_google_certified/)
-- [which of these 2 approaches is best for a card game](https://www.reddit.com/r/androiddev/comments/uymgem/which_of_these_2_approaches_is_best_for_a_card/)
-- [Would it be possible to get a junior android dev job if I dedicate 3 months?](https://www.reddit.com/r/androiddev/comments/uyjuj4/would_it_be_possible_to_get_a_junior_android_dev/)
-- [Is there any way to proxy &lpar;with credentials user and pass&rpar; an android device programmatically?](https://www.reddit.com/r/androiddev/comments/uyisfe/is_there_any_way_to_proxy_with_credentials_user/)
-- [Android app to make a robot follow a invisible line drawn on screen](https://www.reddit.com/r/androiddev/comments/uyiqx2/android_app_to_make_a_robot_follow_a_invisible/)
-- [Yay. org.gradle.unsafe.configuration-cache=true](https://www.reddit.com/r/androiddev/comments/uyio89/yay_orggradleunsafeconfigurationcachetrue/)
-- [which manager to use?](https://www.reddit.com/r/androiddev/comments/uyifur/which_manager_to_use/)
-- [Canvas clipOutPath not working](https://www.reddit.com/r/androiddev/comments/uyi9jr/canvas_clipoutpath_not_working/)
-- [looking for willing android development mentors](https://www.reddit.com/r/androiddev/comments/uygkyo/looking_for_willing_android_development_mentors/)
-- [Question about App Signing and Upload Key - Do I need a new keystore if I already have the one for signing apks?](https://www.reddit.com/r/androiddev/comments/uygbx7/question_about_app_signing_and_upload_key_do_i/)
+- [Android Studio Layout Best Practices](https://www.reddit.com/r/androiddev/comments/uzbafh/android_studio_layout_best_practices/)
+- [library for getting room database data?](https://www.reddit.com/r/androiddev/comments/uz42ty/library_for_getting_room_database_data/)
+- [I created an app that calculates electronic stuff&#39;s usage and monthly expected invoice price. Price policy is based on Turkey.](https://www.reddit.com/r/androiddev/comments/uz2q8y/i_created_an_app_that_calculates_electronic/)
+- [Those who maintain large libraries with UI, How do you generate your style guide?](https://www.reddit.com/r/androiddev/comments/uyzu7o/those_who_maintain_large_libraries_with_ui_how_do/)
+- [[Question]how to convert Json to csv?](https://www.reddit.com/r/androiddev/comments/uyz5xg/questionhow_to_convert_json_to_csv/)
+- [how do I fix this ?](https://www.reddit.com/r/androiddev/comments/uyyig1/how_do_i_fix_this/)
+- [HELP!!!](https://www.reddit.com/r/androiddev/comments/uyy33l/help/)
+- [0 active devices](https://www.reddit.com/r/androiddev/comments/uyvx77/0_active_devices/)
+- [My developer account banned for no reason](https://www.reddit.com/r/androiddev/comments/uyvhcs/my_developer_account_banned_for_no_reason/)
+- [What did Google announce for Developers at Google I/O 2022?](https://www.reddit.com/r/androiddev/comments/uyujm2/what_did_google_announce_for_developers_at_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
