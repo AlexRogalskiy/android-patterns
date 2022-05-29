@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Layout Best Practices](https://www.reddit.com/r/androiddev/comments/uzbafh/android_studio_layout_best_practices/)
-- [library for getting room database data?](https://www.reddit.com/r/androiddev/comments/uz42ty/library_for_getting_room_database_data/)
-- [I created an app that calculates electronic stuff&#39;s usage and monthly expected invoice price. Price policy is based on Turkey.](https://www.reddit.com/r/androiddev/comments/uz2q8y/i_created_an_app_that_calculates_electronic/)
-- [Those who maintain large libraries with UI, How do you generate your style guide?](https://www.reddit.com/r/androiddev/comments/uyzu7o/those_who_maintain_large_libraries_with_ui_how_do/)
-- [[Question]how to convert Json to csv?](https://www.reddit.com/r/androiddev/comments/uyz5xg/questionhow_to_convert_json_to_csv/)
-- [how do I fix this ?](https://www.reddit.com/r/androiddev/comments/uyyig1/how_do_i_fix_this/)
-- [HELP!!!](https://www.reddit.com/r/androiddev/comments/uyy33l/help/)
-- [0 active devices](https://www.reddit.com/r/androiddev/comments/uyvx77/0_active_devices/)
-- [My developer account banned for no reason](https://www.reddit.com/r/androiddev/comments/uyvhcs/my_developer_account_banned_for_no_reason/)
-- [What did Google announce for Developers at Google I/O 2022?](https://www.reddit.com/r/androiddev/comments/uyujm2/what_did_google_announce_for_developers_at_google/)
+- [Google has terminated our Developer Account, says it is &quot;associated&quot;?](https://www.reddit.com/r/androiddev/comments/v0258a/google_has_terminated_our_developer_account_says/)
+- [Using Windows Subsystem for Android on Windows 11](https://www.reddit.com/r/androiddev/comments/v00awy/using_windows_subsystem_for_android_on_windows_11/)
+- [Flutter What&#39;s next? Project Structure](https://www.reddit.com/r/androiddev/comments/uzyqpr/flutter_whats_next_project_structure/)
+- [Jetpack Compose](https://www.reddit.com/r/androiddev/comments/uzuwn3/jetpack_compose/)
+- [Where to start learning???](https://www.reddit.com/r/androiddev/comments/uzuqkb/where_to_start_learning/)
+- [Are you allowed to spend your Google Play balance on your own apps?](https://www.reddit.com/r/androiddev/comments/uzuf7t/are_you_allowed_to_spend_your_google_play_balance/)
+- [Testing Face ID Biometrics on Emulator?](https://www.reddit.com/r/androiddev/comments/uzsqua/testing_face_id_biometrics_on_emulator/)
+- [Play Store&#39;s payment account: is there a way to avoid displaying personal information for an individual?](https://www.reddit.com/r/androiddev/comments/uzs8md/play_stores_payment_account_is_there_a_way_to/)
+- [How do you make intro/walkthrough videos of your android app](https://www.reddit.com/r/androiddev/comments/uzpgrd/how_do_you_make_introwalkthrough_videos_of_your/)
+- [Why my app is still in &quot; getting ready &quot; after 1 month in my AdMob](https://www.reddit.com/r/androiddev/comments/uzp4eb/why_my_app_is_still_in_getting_ready_after_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
