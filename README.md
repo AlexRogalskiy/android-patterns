@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google has terminated our Developer Account, says it is &quot;associated&quot;?](https://www.reddit.com/r/androiddev/comments/v0258a/google_has_terminated_our_developer_account_says/)
-- [Using Windows Subsystem for Android on Windows 11](https://www.reddit.com/r/androiddev/comments/v00awy/using_windows_subsystem_for_android_on_windows_11/)
-- [Flutter What&#39;s next? Project Structure](https://www.reddit.com/r/androiddev/comments/uzyqpr/flutter_whats_next_project_structure/)
-- [Jetpack Compose](https://www.reddit.com/r/androiddev/comments/uzuwn3/jetpack_compose/)
-- [Where to start learning???](https://www.reddit.com/r/androiddev/comments/uzuqkb/where_to_start_learning/)
-- [Are you allowed to spend your Google Play balance on your own apps?](https://www.reddit.com/r/androiddev/comments/uzuf7t/are_you_allowed_to_spend_your_google_play_balance/)
-- [Testing Face ID Biometrics on Emulator?](https://www.reddit.com/r/androiddev/comments/uzsqua/testing_face_id_biometrics_on_emulator/)
-- [Play Store&#39;s payment account: is there a way to avoid displaying personal information for an individual?](https://www.reddit.com/r/androiddev/comments/uzs8md/play_stores_payment_account_is_there_a_way_to/)
-- [How do you make intro/walkthrough videos of your android app](https://www.reddit.com/r/androiddev/comments/uzpgrd/how_do_you_make_introwalkthrough_videos_of_your/)
-- [Why my app is still in &quot; getting ready &quot; after 1 month in my AdMob](https://www.reddit.com/r/androiddev/comments/uzp4eb/why_my_app_is_still_in_getting_ready_after_1/)
+- [Is Base64 the best encoder for image URLs?](https://www.reddit.com/r/androiddev/comments/v0n9mt/is_base64_the_best_encoder_for_image_urls/)
+- [Library for inspecting requests in WebViews](https://www.reddit.com/r/androiddev/comments/v0kz5z/library_for_inspecting_requests_in_webviews/)
+- [what is the best way to develop Android apps in 2022 please mention the best technologies?](https://www.reddit.com/r/androiddev/comments/v0fz2r/what_is_the_best_way_to_develop_android_apps_in/)
+- [Is there a cheaper map API alternative than here.com or google maps?](https://www.reddit.com/r/androiddev/comments/v0e3ag/is_there_a_cheaper_map_api_alternative_than/)
+- [A lightweight library for Object Mapping](https://www.reddit.com/r/androiddev/comments/v0babl/a_lightweight_library_for_object_mapping/)
+- [Cheap Android Device?](https://www.reddit.com/r/androiddev/comments/v0b778/cheap_android_device/)
+- [Is a Singleton bound to App lifecycle?](https://www.reddit.com/r/androiddev/comments/v0awsv/is_a_singleton_bound_to_app_lifecycle/)
+- [Question regarding Logic Building skills](https://www.reddit.com/r/androiddev/comments/v0an9l/question_regarding_logic_building_skills/)
+- [Three features in Android Studio that maybe you&#39;ve missed](https://www.reddit.com/r/androiddev/comments/v0adpr/three_features_in_android_studio_that_maybe_youve/)
+- [Did anyone figure out how to write a preview for a bottom sheet?](https://www.reddit.com/r/androiddev/comments/v09z1d/did_anyone_figure_out_how_to_write_a_preview_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
