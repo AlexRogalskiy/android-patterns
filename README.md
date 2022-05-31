@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is Base64 the best encoder for image URLs?](https://www.reddit.com/r/androiddev/comments/v0n9mt/is_base64_the_best_encoder_for_image_urls/)
-- [Library for inspecting requests in WebViews](https://www.reddit.com/r/androiddev/comments/v0kz5z/library_for_inspecting_requests_in_webviews/)
-- [what is the best way to develop Android apps in 2022 please mention the best technologies?](https://www.reddit.com/r/androiddev/comments/v0fz2r/what_is_the_best_way_to_develop_android_apps_in/)
-- [Is there a cheaper map API alternative than here.com or google maps?](https://www.reddit.com/r/androiddev/comments/v0e3ag/is_there_a_cheaper_map_api_alternative_than/)
-- [A lightweight library for Object Mapping](https://www.reddit.com/r/androiddev/comments/v0babl/a_lightweight_library_for_object_mapping/)
-- [Cheap Android Device?](https://www.reddit.com/r/androiddev/comments/v0b778/cheap_android_device/)
-- [Is a Singleton bound to App lifecycle?](https://www.reddit.com/r/androiddev/comments/v0awsv/is_a_singleton_bound_to_app_lifecycle/)
-- [Question regarding Logic Building skills](https://www.reddit.com/r/androiddev/comments/v0an9l/question_regarding_logic_building_skills/)
-- [Three features in Android Studio that maybe you&#39;ve missed](https://www.reddit.com/r/androiddev/comments/v0adpr/three_features_in_android_studio_that_maybe_youve/)
-- [Did anyone figure out how to write a preview for a bottom sheet?](https://www.reddit.com/r/androiddev/comments/v09z1d/did_anyone_figure_out_how_to_write_a_preview_for/)
+- [changing name of airplane mode](https://www.reddit.com/r/androiddev/comments/v1dnew/changing_name_of_airplane_mode/)
+- [In-App Reviews API on Kids app](https://www.reddit.com/r/androiddev/comments/v1dlw0/inapp_reviews_api_on_kids_app/)
+- [Is there something you can pass into a Room query &#39;where&#39; clause that returns all results?](https://www.reddit.com/r/androiddev/comments/v1d248/is_there_something_you_can_pass_into_a_room_query/)
+- [What&#39;s the best practice for doing a network operation off the main thread?](https://www.reddit.com/r/androiddev/comments/v1cuh6/whats_the_best_practice_for_doing_a_network/)
+- [Library for media picker?](https://www.reddit.com/r/androiddev/comments/v17fie/library_for_media_picker/)
+- [Admob revenue?](https://www.reddit.com/r/androiddev/comments/v171rc/admob_revenue/)
+- [What are some of your favourite extension functions?](https://www.reddit.com/r/androiddev/comments/v16mgg/what_are_some_of_your_favourite_extension/)
+- [Which image library is the best for Android apps?](https://www.reddit.com/r/androiddev/comments/v159yk/which_image_library_is_the_best_for_android_apps/)
+- [compileSdkVersion VS targetSdkVersion!](https://www.reddit.com/r/androiddev/comments/v14ht6/compilesdkversion_vs_targetsdkversion/)
+- [How many people have installed my second app?](https://www.reddit.com/r/androiddev/comments/v13pi4/how_many_people_have_installed_my_second_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
