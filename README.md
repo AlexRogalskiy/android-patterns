@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [changing name of airplane mode](https://www.reddit.com/r/androiddev/comments/v1dnew/changing_name_of_airplane_mode/)
-- [In-App Reviews API on Kids app](https://www.reddit.com/r/androiddev/comments/v1dlw0/inapp_reviews_api_on_kids_app/)
-- [Is there something you can pass into a Room query &#39;where&#39; clause that returns all results?](https://www.reddit.com/r/androiddev/comments/v1d248/is_there_something_you_can_pass_into_a_room_query/)
-- [What&#39;s the best practice for doing a network operation off the main thread?](https://www.reddit.com/r/androiddev/comments/v1cuh6/whats_the_best_practice_for_doing_a_network/)
-- [Library for media picker?](https://www.reddit.com/r/androiddev/comments/v17fie/library_for_media_picker/)
-- [Admob revenue?](https://www.reddit.com/r/androiddev/comments/v171rc/admob_revenue/)
-- [What are some of your favourite extension functions?](https://www.reddit.com/r/androiddev/comments/v16mgg/what_are_some_of_your_favourite_extension/)
-- [Which image library is the best for Android apps?](https://www.reddit.com/r/androiddev/comments/v159yk/which_image_library_is_the_best_for_android_apps/)
-- [compileSdkVersion VS targetSdkVersion!](https://www.reddit.com/r/androiddev/comments/v14ht6/compilesdkversion_vs_targetsdkversion/)
-- [How many people have installed my second app?](https://www.reddit.com/r/androiddev/comments/v13pi4/how_many_people_have_installed_my_second_app/)
+- [Realistic sophisicated samples of UI testing?](https://www.reddit.com/r/androiddev/comments/v24149/realistic_sophisicated_samples_of_ui_testing/)
+- [Can someone explain to me why Official Android Docs use String Resource Strings to access Shared Prefs?](https://www.reddit.com/r/androiddev/comments/v23u02/can_someone_explain_to_me_why_official_android/)
+- [Spinner chooses when to start a recycleriew with cardview problem](https://www.reddit.com/r/androiddev/comments/v23phg/spinner_chooses_when_to_start_a_recycleriew_with/)
+- [Subreddit for OS level dev?](https://www.reddit.com/r/androiddev/comments/v2247s/subreddit_for_os_level_dev/)
+- [How to handle Accessibility Warnings?](https://www.reddit.com/r/androiddev/comments/v1vonc/how_to_handle_accessibility_warnings/)
+- [How do you search for keywords to use for your app title?](https://www.reddit.com/r/androiddev/comments/v1twvn/how_do_you_search_for_keywords_to_use_for_your/)
+- [Do Android smartphone cameras have physical IR filter or is it removed in software?](https://www.reddit.com/r/androiddev/comments/v1tmhq/do_android_smartphone_cameras_have_physical_ir/)
+- [Practical Compose Slot API example — laying out screen sections](https://www.reddit.com/r/androiddev/comments/v1t52r/practical_compose_slot_api_example_laying_out/)
+- [Can I serve only muted Interstitial ads in my app?](https://www.reddit.com/r/androiddev/comments/v1su90/can_i_serve_only_muted_interstitial_ads_in_my_app/)
+- [Tablet with USB 3.0 OTG?](https://www.reddit.com/r/androiddev/comments/v1rcy0/tablet_with_usb_30_otg/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
