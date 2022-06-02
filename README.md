@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Realistic sophisicated samples of UI testing?](https://www.reddit.com/r/androiddev/comments/v24149/realistic_sophisicated_samples_of_ui_testing/)
-- [Can someone explain to me why Official Android Docs use String Resource Strings to access Shared Prefs?](https://www.reddit.com/r/androiddev/comments/v23u02/can_someone_explain_to_me_why_official_android/)
-- [Spinner chooses when to start a recycleriew with cardview problem](https://www.reddit.com/r/androiddev/comments/v23phg/spinner_chooses_when_to_start_a_recycleriew_with/)
-- [Subreddit for OS level dev?](https://www.reddit.com/r/androiddev/comments/v2247s/subreddit_for_os_level_dev/)
-- [How to handle Accessibility Warnings?](https://www.reddit.com/r/androiddev/comments/v1vonc/how_to_handle_accessibility_warnings/)
-- [How do you search for keywords to use for your app title?](https://www.reddit.com/r/androiddev/comments/v1twvn/how_do_you_search_for_keywords_to_use_for_your/)
-- [Do Android smartphone cameras have physical IR filter or is it removed in software?](https://www.reddit.com/r/androiddev/comments/v1tmhq/do_android_smartphone_cameras_have_physical_ir/)
-- [Practical Compose Slot API example — laying out screen sections](https://www.reddit.com/r/androiddev/comments/v1t52r/practical_compose_slot_api_example_laying_out/)
-- [Can I serve only muted Interstitial ads in my app?](https://www.reddit.com/r/androiddev/comments/v1su90/can_i_serve_only_muted_interstitial_ads_in_my_app/)
-- [Tablet with USB 3.0 OTG?](https://www.reddit.com/r/androiddev/comments/v1rcy0/tablet_with_usb_30_otg/)
+- [How to control this urge to make the perfect app](https://www.reddit.com/r/androiddev/comments/v2xmkc/how_to_control_this_urge_to_make_the_perfect_app/)
+- [Physical address for publishing in the Play store](https://www.reddit.com/r/androiddev/comments/v2w9qc/physical_address_for_publishing_in_the_play_store/)
+- [Android Studio Affecting Chrome?](https://www.reddit.com/r/androiddev/comments/v2w8xk/android_studio_affecting_chrome/)
+- [Unity like app creation software ?](https://www.reddit.com/r/androiddev/comments/v2tz93/unity_like_app_creation_software/)
+- [App Title](https://www.reddit.com/r/androiddev/comments/v2sxmg/app_title/)
+- [I need to access and edit an ArrayList from anywhere in the app](https://www.reddit.com/r/androiddev/comments/v2mgf1/i_need_to_access_and_edit_an_arraylist_from/)
+- [When did Google make the review message required on the In-App reviews?](https://www.reddit.com/r/androiddev/comments/v2ltjw/when_did_google_make_the_review_message_required/)
+- [Volume Control](https://www.reddit.com/r/androiddev/comments/v2lc3b/volume_control/)
+- [Publishing an app containing sensitive and maybe offensive text content.](https://www.reddit.com/r/androiddev/comments/v2ks46/publishing_an_app_containing_sensitive_and_maybe/)
+- [SafetyNet vs. AppiCrypt comparison](https://www.reddit.com/r/androiddev/comments/v2jwue/safetynet_vs_appicrypt_comparison/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
