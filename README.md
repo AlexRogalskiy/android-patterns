@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to control this urge to make the perfect app](https://www.reddit.com/r/androiddev/comments/v2xmkc/how_to_control_this_urge_to_make_the_perfect_app/)
-- [Physical address for publishing in the Play store](https://www.reddit.com/r/androiddev/comments/v2w9qc/physical_address_for_publishing_in_the_play_store/)
-- [Android Studio Affecting Chrome?](https://www.reddit.com/r/androiddev/comments/v2w8xk/android_studio_affecting_chrome/)
-- [Unity like app creation software ?](https://www.reddit.com/r/androiddev/comments/v2tz93/unity_like_app_creation_software/)
-- [App Title](https://www.reddit.com/r/androiddev/comments/v2sxmg/app_title/)
-- [I need to access and edit an ArrayList from anywhere in the app](https://www.reddit.com/r/androiddev/comments/v2mgf1/i_need_to_access_and_edit_an_arraylist_from/)
-- [When did Google make the review message required on the In-App reviews?](https://www.reddit.com/r/androiddev/comments/v2ltjw/when_did_google_make_the_review_message_required/)
-- [Volume Control](https://www.reddit.com/r/androiddev/comments/v2lc3b/volume_control/)
-- [Publishing an app containing sensitive and maybe offensive text content.](https://www.reddit.com/r/androiddev/comments/v2ks46/publishing_an_app_containing_sensitive_and_maybe/)
-- [SafetyNet vs. AppiCrypt comparison](https://www.reddit.com/r/androiddev/comments/v2jwue/safetynet_vs_appicrypt_comparison/)
+- [So I’ve been looking for a mobile game i played when I was on the play store and I can’t remember the full name all I remember is the word ended with humbra it was a puzzle Platformer. From what I remember there was a dark blob escaping the void and transforming to a scarecrow. can someone help me](https://www.reddit.com/r/androiddev/comments/v3o3rv/so_ive_been_looking_for_a_mobile_game_i_played/)
+- [Do I have chances to get a Junior Android Developer position?](https://www.reddit.com/r/androiddev/comments/v3i81b/do_i_have_chances_to_get_a_junior_android/)
+- [Does gradle have a specific path for release.apk that lives in the same place in all projects?](https://www.reddit.com/r/androiddev/comments/v3hu8j/does_gradle_have_a_specific_path_for_releaseapk/)
+- [Does Google test apps that are in &quot;Internal Testing&quot;, manually or automatically?](https://www.reddit.com/r/androiddev/comments/v3hqql/does_google_test_apps_that_are_in_internal/)
+- [How do you design offline capability with sync with the backend?](https://www.reddit.com/r/androiddev/comments/v3h66s/how_do_you_design_offline_capability_with_sync/)
+- [Google associate dev certificate!](https://www.reddit.com/r/androiddev/comments/v3fg0h/google_associate_dev_certificate/)
+- [Different in versions](https://www.reddit.com/r/androiddev/comments/v3emzq/different_in_versions/)
+- [ViMusic: A YouTube Music player made with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/v3e41l/vimusic_a_youtube_music_player_made_with_jetpack/)
+- [Is it possible generate a new &#39;upload-keystore.jks&#39; file given keystore password?](https://www.reddit.com/r/androiddev/comments/v3b5vg/is_it_possible_generate_a_new_uploadkeystorejks/)
+- [Alternative to binding SpeechRecognizer without com.google.android.googlequicksearchbox](https://www.reddit.com/r/androiddev/comments/v3as42/alternative_to_binding_speechrecognizer_without/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
