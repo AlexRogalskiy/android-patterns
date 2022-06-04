@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [So I’ve been looking for a mobile game i played when I was on the play store and I can’t remember the full name all I remember is the word ended with humbra it was a puzzle Platformer. From what I remember there was a dark blob escaping the void and transforming to a scarecrow. can someone help me](https://www.reddit.com/r/androiddev/comments/v3o3rv/so_ive_been_looking_for_a_mobile_game_i_played/)
-- [Do I have chances to get a Junior Android Developer position?](https://www.reddit.com/r/androiddev/comments/v3i81b/do_i_have_chances_to_get_a_junior_android/)
-- [Does gradle have a specific path for release.apk that lives in the same place in all projects?](https://www.reddit.com/r/androiddev/comments/v3hu8j/does_gradle_have_a_specific_path_for_releaseapk/)
-- [Does Google test apps that are in &quot;Internal Testing&quot;, manually or automatically?](https://www.reddit.com/r/androiddev/comments/v3hqql/does_google_test_apps_that_are_in_internal/)
-- [How do you design offline capability with sync with the backend?](https://www.reddit.com/r/androiddev/comments/v3h66s/how_do_you_design_offline_capability_with_sync/)
-- [Google associate dev certificate!](https://www.reddit.com/r/androiddev/comments/v3fg0h/google_associate_dev_certificate/)
-- [Different in versions](https://www.reddit.com/r/androiddev/comments/v3emzq/different_in_versions/)
-- [ViMusic: A YouTube Music player made with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/v3e41l/vimusic_a_youtube_music_player_made_with_jetpack/)
-- [Is it possible generate a new &#39;upload-keystore.jks&#39; file given keystore password?](https://www.reddit.com/r/androiddev/comments/v3b5vg/is_it_possible_generate_a_new_uploadkeystorejks/)
-- [Alternative to binding SpeechRecognizer without com.google.android.googlequicksearchbox](https://www.reddit.com/r/androiddev/comments/v3as42/alternative_to_binding_speechrecognizer_without/)
+- [Dependency management through buildSrc vs project level gradle file](https://www.reddit.com/r/androiddev/comments/v4e5e3/dependency_management_through_buildsrc_vs_project/)
+- [When I open compose apps i see a loading... Why?](https://www.reddit.com/r/androiddev/comments/v4dlkc/when_i_open_compose_apps_i_see_a_loading_why/)
+- [Promo code generator my my app?](https://www.reddit.com/r/androiddev/comments/v44vfd/promo_code_generator_my_my_app/)
+- [Learning about android development with the apex file format](https://www.reddit.com/r/androiddev/comments/v44s7c/learning_about_android_development_with_the_apex/)
+- [Installing ndk error through sdkmanager.ubuntu](https://www.reddit.com/r/androiddev/comments/v44336/installing_ndk_error_through_sdkmanagerubuntu/)
+- [Production Release Rollout Percentages Not Working Properly](https://www.reddit.com/r/androiddev/comments/v427je/production_release_rollout_percentages_not/)
+- [Content Padding and Spacing for Lazy Components in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/v40z66/content_padding_and_spacing_for_lazy_components/)
+- [Paparazzi 1.0 is out](https://www.reddit.com/r/androiddev/comments/v40j5y/paparazzi_10_is_out/)
+- [Have an interesting app idea](https://www.reddit.com/r/androiddev/comments/v3z3bm/have_an_interesting_app_idea/)
+- [BLE Communication when app not in focus](https://www.reddit.com/r/androiddev/comments/v3yqqi/ble_communication_when_app_not_in_focus/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
