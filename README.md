@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dependency management through buildSrc vs project level gradle file](https://www.reddit.com/r/androiddev/comments/v4e5e3/dependency_management_through_buildsrc_vs_project/)
-- [When I open compose apps i see a loading... Why?](https://www.reddit.com/r/androiddev/comments/v4dlkc/when_i_open_compose_apps_i_see_a_loading_why/)
-- [Promo code generator my my app?](https://www.reddit.com/r/androiddev/comments/v44vfd/promo_code_generator_my_my_app/)
-- [Learning about android development with the apex file format](https://www.reddit.com/r/androiddev/comments/v44s7c/learning_about_android_development_with_the_apex/)
-- [Installing ndk error through sdkmanager.ubuntu](https://www.reddit.com/r/androiddev/comments/v44336/installing_ndk_error_through_sdkmanagerubuntu/)
-- [Production Release Rollout Percentages Not Working Properly](https://www.reddit.com/r/androiddev/comments/v427je/production_release_rollout_percentages_not/)
-- [Content Padding and Spacing for Lazy Components in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/v40z66/content_padding_and_spacing_for_lazy_components/)
-- [Paparazzi 1.0 is out](https://www.reddit.com/r/androiddev/comments/v40j5y/paparazzi_10_is_out/)
-- [Have an interesting app idea](https://www.reddit.com/r/androiddev/comments/v3z3bm/have_an_interesting_app_idea/)
-- [BLE Communication when app not in focus](https://www.reddit.com/r/androiddev/comments/v3yqqi/ble_communication_when_app_not_in_focus/)
+- [Show recently updated JSON items in listview](https://www.reddit.com/r/androiddev/comments/v4zwx6/show_recently_updated_json_items_in_listview/)
+- [ETH Blockchain - How does an app connect to wallets like MetaMask or other popular wallets?](https://www.reddit.com/r/androiddev/comments/v4va5m/eth_blockchain_how_does_an_app_connect_to_wallets/)
+- [Getting application info using the package manager in SDK 30](https://www.reddit.com/r/androiddev/comments/v4v17g/getting_application_info_using_the_package/)
+- [Showing interstitial ads](https://www.reddit.com/r/androiddev/comments/v4uvkj/showing_interstitial_ads/)
+- [Hotspot Channel has disappeared on latest Android](https://www.reddit.com/r/androiddev/comments/v4ukih/hotspot_channel_has_disappeared_on_latest_android/)
+- [What&#39;s the best site for generating phone screenshots of your app?](https://www.reddit.com/r/androiddev/comments/v4ubng/whats_the_best_site_for_generating_phone/)
+- [What are the things that keep you motivated to remain as a indie app developer in this crowd](https://www.reddit.com/r/androiddev/comments/v4sjts/what_are_the_things_that_keep_you_motivated_to/)
+- [Subscription is charging USD 0.00 for one user](https://www.reddit.com/r/androiddev/comments/v4oy3o/subscription_is_charging_usd_000_for_one_user/)
+- [Sell subscription to multiple users at once](https://www.reddit.com/r/androiddev/comments/v4n3c6/sell_subscription_to_multiple_users_at_once/)
+- [I&#39;m asking for mentorship !](https://www.reddit.com/r/androiddev/comments/v4n2zl/im_asking_for_mentorship/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
