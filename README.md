@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Show recently updated JSON items in listview](https://www.reddit.com/r/androiddev/comments/v4zwx6/show_recently_updated_json_items_in_listview/)
-- [ETH Blockchain - How does an app connect to wallets like MetaMask or other popular wallets?](https://www.reddit.com/r/androiddev/comments/v4va5m/eth_blockchain_how_does_an_app_connect_to_wallets/)
-- [Getting application info using the package manager in SDK 30](https://www.reddit.com/r/androiddev/comments/v4v17g/getting_application_info_using_the_package/)
-- [Showing interstitial ads](https://www.reddit.com/r/androiddev/comments/v4uvkj/showing_interstitial_ads/)
-- [Hotspot Channel has disappeared on latest Android](https://www.reddit.com/r/androiddev/comments/v4ukih/hotspot_channel_has_disappeared_on_latest_android/)
-- [What&#39;s the best site for generating phone screenshots of your app?](https://www.reddit.com/r/androiddev/comments/v4ubng/whats_the_best_site_for_generating_phone/)
-- [What are the things that keep you motivated to remain as a indie app developer in this crowd](https://www.reddit.com/r/androiddev/comments/v4sjts/what_are_the_things_that_keep_you_motivated_to/)
-- [Subscription is charging USD 0.00 for one user](https://www.reddit.com/r/androiddev/comments/v4oy3o/subscription_is_charging_usd_000_for_one_user/)
-- [Sell subscription to multiple users at once](https://www.reddit.com/r/androiddev/comments/v4n3c6/sell_subscription_to_multiple_users_at_once/)
-- [I&#39;m asking for mentorship !](https://www.reddit.com/r/androiddev/comments/v4n2zl/im_asking_for_mentorship/)
+- [Best Practices for Feature Flags/Toggles](https://www.reddit.com/r/androiddev/comments/v5pab8/best_practices_for_feature_flagstoggles/)
+- [Building an Uber kind of app except for farmers where small holder farmers can book equipment from other farmers that have equipment. However, the the map is not working correctly and is not find the equipment owners around. I am getting the following error:](https://www.reddit.com/r/androiddev/comments/v5p5jr/building_an_uber_kind_of_app_except_for_farmers/)
+- [Stuck with one simple task on android stu.](https://www.reddit.com/r/androiddev/comments/v5niq7/stuck_with_one_simple_task_on_android_stu/)
+- [On android there&#39;s a show pointer location overlay but it comes with this ugly coordinates box at the top. Is there a way to remove it or move the notifications panel down?](https://www.reddit.com/r/androiddev/comments/v5mhk3/on_android_theres_a_show_pointer_location_overlay/)
+- [Why does my phone shut down completely when I turn it off?](https://www.reddit.com/r/androiddev/comments/v5lgis/why_does_my_phone_shut_down_completely_when_i/)
+- [Remove/hide items from listview](https://www.reddit.com/r/androiddev/comments/v5jy7j/removehide_items_from_listview/)
+- [Gradle Kotlin-Dsl configurations block with buildType](https://www.reddit.com/r/androiddev/comments/v5hoh0/gradle_kotlindsl_configurations_block_with/)
+- [What does Google Play &quot;In review&quot; mean, and why does it even exist?](https://www.reddit.com/r/androiddev/comments/v5hig9/what_does_google_play_in_review_mean_and_why_does/)
+- [Preferences Data store must have context ?](https://www.reddit.com/r/androiddev/comments/v5g2ow/preferences_data_store_must_have_context/)
+- [Why recyclerview&#39;s scroll event changes childview&#39;s left and right value but not recyclerview&#39;s scrollx?](https://www.reddit.com/r/androiddev/comments/v5cufd/why_recyclerviews_scroll_event_changes_childviews/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
