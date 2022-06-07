@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best Practices for Feature Flags/Toggles](https://www.reddit.com/r/androiddev/comments/v5pab8/best_practices_for_feature_flagstoggles/)
-- [Building an Uber kind of app except for farmers where small holder farmers can book equipment from other farmers that have equipment. However, the the map is not working correctly and is not find the equipment owners around. I am getting the following error:](https://www.reddit.com/r/androiddev/comments/v5p5jr/building_an_uber_kind_of_app_except_for_farmers/)
-- [Stuck with one simple task on android stu.](https://www.reddit.com/r/androiddev/comments/v5niq7/stuck_with_one_simple_task_on_android_stu/)
-- [On android there&#39;s a show pointer location overlay but it comes with this ugly coordinates box at the top. Is there a way to remove it or move the notifications panel down?](https://www.reddit.com/r/androiddev/comments/v5mhk3/on_android_theres_a_show_pointer_location_overlay/)
-- [Why does my phone shut down completely when I turn it off?](https://www.reddit.com/r/androiddev/comments/v5lgis/why_does_my_phone_shut_down_completely_when_i/)
-- [Remove/hide items from listview](https://www.reddit.com/r/androiddev/comments/v5jy7j/removehide_items_from_listview/)
-- [Gradle Kotlin-Dsl configurations block with buildType](https://www.reddit.com/r/androiddev/comments/v5hoh0/gradle_kotlindsl_configurations_block_with/)
-- [What does Google Play &quot;In review&quot; mean, and why does it even exist?](https://www.reddit.com/r/androiddev/comments/v5hig9/what_does_google_play_in_review_mean_and_why_does/)
-- [Preferences Data store must have context ?](https://www.reddit.com/r/androiddev/comments/v5g2ow/preferences_data_store_must_have_context/)
-- [Why recyclerview&#39;s scroll event changes childview&#39;s left and right value but not recyclerview&#39;s scrollx?](https://www.reddit.com/r/androiddev/comments/v5cufd/why_recyclerviews_scroll_event_changes_childviews/)
+- [Managing permissions in Compose with MVVM](https://www.reddit.com/r/androiddev/comments/v6egth/managing_permissions_in_compose_with_mvvm/)
+- [Any Idea when android will support stroke around the adaptive icon?](https://www.reddit.com/r/androiddev/comments/v6doyn/any_idea_when_android_will_support_stroke_around/)
+- [An Espresso experiment](https://www.reddit.com/r/androiddev/comments/v6di5y/an_espresso_experiment/)
+- [Android Studio Electric Eel Canary 3 now available](https://www.reddit.com/r/androiddev/comments/v6aqzw/android_studio_electric_eel_canary_3_now_available/)
+- [What&#39;s your preference between View and Data Binding?](https://www.reddit.com/r/androiddev/comments/v691zl/whats_your_preference_between_view_and_data/)
+- [Help](https://www.reddit.com/r/androiddev/comments/v68rdq/help/)
+- [I&#39;ve Posted About This Project Before !](https://www.reddit.com/r/androiddev/comments/v67hi3/ive_posted_about_this_project_before/)
+- [What to Expect From the Kotlin Team in 2022–23: Key Projects and Productivity Features](https://www.reddit.com/r/androiddev/comments/v668oo/what_to_expect_from_the_kotlin_team_in_202223_key/)
+- [Is Compose a framework or a toolkit?](https://www.reddit.com/r/androiddev/comments/v64vds/is_compose_a_framework_or_a_toolkit/)
+- [Kactory - build simple factory pattern easily leverage on ksp&lpar;Kotlin Symbol Processing&rpar;.](https://www.reddit.com/r/androiddev/comments/v6474h/kactory_build_simple_factory_pattern_easily/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
