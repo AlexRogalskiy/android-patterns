@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Managing permissions in Compose with MVVM](https://www.reddit.com/r/androiddev/comments/v6egth/managing_permissions_in_compose_with_mvvm/)
-- [Any Idea when android will support stroke around the adaptive icon?](https://www.reddit.com/r/androiddev/comments/v6doyn/any_idea_when_android_will_support_stroke_around/)
-- [An Espresso experiment](https://www.reddit.com/r/androiddev/comments/v6di5y/an_espresso_experiment/)
-- [Android Studio Electric Eel Canary 3 now available](https://www.reddit.com/r/androiddev/comments/v6aqzw/android_studio_electric_eel_canary_3_now_available/)
-- [What&#39;s your preference between View and Data Binding?](https://www.reddit.com/r/androiddev/comments/v691zl/whats_your_preference_between_view_and_data/)
-- [Help](https://www.reddit.com/r/androiddev/comments/v68rdq/help/)
-- [I&#39;ve Posted About This Project Before !](https://www.reddit.com/r/androiddev/comments/v67hi3/ive_posted_about_this_project_before/)
-- [What to Expect From the Kotlin Team in 2022–23: Key Projects and Productivity Features](https://www.reddit.com/r/androiddev/comments/v668oo/what_to_expect_from_the_kotlin_team_in_202223_key/)
-- [Is Compose a framework or a toolkit?](https://www.reddit.com/r/androiddev/comments/v64vds/is_compose_a_framework_or_a_toolkit/)
-- [Kactory - build simple factory pattern easily leverage on ksp&lpar;Kotlin Symbol Processing&rpar;.](https://www.reddit.com/r/androiddev/comments/v6474h/kactory_build_simple_factory_pattern_easily/)
+- [Version Control Systems](https://www.reddit.com/r/androiddev/comments/v7awwh/version_control_systems/)
+- [Robust Apps](https://www.reddit.com/r/androiddev/comments/v7apuo/robust_apps/)
+- [Integration with Azure Cosmos/postgresql](https://www.reddit.com/r/androiddev/comments/v79pay/integration_with_azure_cosmospostgresql/)
+- [How did google make this home screen grid feature?](https://www.reddit.com/r/androiddev/comments/v787qf/how_did_google_make_this_home_screen_grid_feature/)
+- [Best app to get started?](https://www.reddit.com/r/androiddev/comments/v75up5/best_app_to_get_started/)
+- [I created Blitz↯Merker: a reminder app using QR codes.](https://www.reddit.com/r/androiddev/comments/v7526w/i_created_blitzmerker_a_reminder_app_using_qr/)
+- [How to show reddit like recycler view with jsoup parsing?](https://www.reddit.com/r/androiddev/comments/v728v5/how_to_show_reddit_like_recycler_view_with_jsoup/)
+- [Should I use COIL everywhere?](https://www.reddit.com/r/androiddev/comments/v71ldb/should_i_use_coil_everywhere/)
+- [Help with ListView](https://www.reddit.com/r/androiddev/comments/v6wfil/help_with_listview/)
+- [Spring Boot starter project/template for Apps backend.](https://www.reddit.com/r/androiddev/comments/v6w4wa/spring_boot_starter_projecttemplate_for_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
