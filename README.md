@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Version Control Systems](https://www.reddit.com/r/androiddev/comments/v7awwh/version_control_systems/)
-- [Robust Apps](https://www.reddit.com/r/androiddev/comments/v7apuo/robust_apps/)
-- [Integration with Azure Cosmos/postgresql](https://www.reddit.com/r/androiddev/comments/v79pay/integration_with_azure_cosmospostgresql/)
-- [How did google make this home screen grid feature?](https://www.reddit.com/r/androiddev/comments/v787qf/how_did_google_make_this_home_screen_grid_feature/)
-- [Best app to get started?](https://www.reddit.com/r/androiddev/comments/v75up5/best_app_to_get_started/)
-- [I created Blitz↯Merker: a reminder app using QR codes.](https://www.reddit.com/r/androiddev/comments/v7526w/i_created_blitzmerker_a_reminder_app_using_qr/)
-- [How to show reddit like recycler view with jsoup parsing?](https://www.reddit.com/r/androiddev/comments/v728v5/how_to_show_reddit_like_recycler_view_with_jsoup/)
-- [Should I use COIL everywhere?](https://www.reddit.com/r/androiddev/comments/v71ldb/should_i_use_coil_everywhere/)
-- [Help with ListView](https://www.reddit.com/r/androiddev/comments/v6wfil/help_with_listview/)
-- [Spring Boot starter project/template for Apps backend.](https://www.reddit.com/r/androiddev/comments/v6w4wa/spring_boot_starter_projecttemplate_for_apps/)
+- [jmdns vs. Android Network Service Discovery](https://www.reddit.com/r/androiddev/comments/v83ovv/jmdns_vs_android_network_service_discovery/)
+- [I forked the in-content ad-free YouTube NewPipe client and put it on the Play Store](https://www.reddit.com/r/androiddev/comments/v80qqc/i_forked_the_incontent_adfree_youtube_newpipe/)
+- [MacBook Air M2 or MacBook Pro 14&quot;](https://www.reddit.com/r/androiddev/comments/v7xy1u/macbook_air_m2_or_macbook_pro_14/)
+- [Android studio can&#39;t download components](https://www.reddit.com/r/androiddev/comments/v7wwab/android_studio_cant_download_components/)
+- [How to learn to make a admin dashboard for the app](https://www.reddit.com/r/androiddev/comments/v7wql1/how_to_learn_to_make_a_admin_dashboard_for_the_app/)
+- [I know jetpack compose, should i go react native?](https://www.reddit.com/r/androiddev/comments/v7tkky/i_know_jetpack_compose_should_i_go_react_native/)
+- [is app dev a worth while side hustle?](https://www.reddit.com/r/androiddev/comments/v7rvwe/is_app_dev_a_worth_while_side_hustle/)
+- [Can Android app on ChromeOS create a KeyPair that is at least SECURITY_LEVEL_TRUSTED_ENVIRONMENT?](https://www.reddit.com/r/androiddev/comments/v7qf98/can_android_app_on_chromeos_create_a_keypair_that/)
+- [Testing in-app purchases](https://www.reddit.com/r/androiddev/comments/v7pj9i/testing_inapp_purchases/)
+- [Some help with cryptography?](https://www.reddit.com/r/androiddev/comments/v7pj1s/some_help_with_cryptography/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
