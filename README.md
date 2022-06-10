@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [jmdns vs. Android Network Service Discovery](https://www.reddit.com/r/androiddev/comments/v83ovv/jmdns_vs_android_network_service_discovery/)
-- [I forked the in-content ad-free YouTube NewPipe client and put it on the Play Store](https://www.reddit.com/r/androiddev/comments/v80qqc/i_forked_the_incontent_adfree_youtube_newpipe/)
-- [MacBook Air M2 or MacBook Pro 14&quot;](https://www.reddit.com/r/androiddev/comments/v7xy1u/macbook_air_m2_or_macbook_pro_14/)
-- [Android studio can&#39;t download components](https://www.reddit.com/r/androiddev/comments/v7wwab/android_studio_cant_download_components/)
-- [How to learn to make a admin dashboard for the app](https://www.reddit.com/r/androiddev/comments/v7wql1/how_to_learn_to_make_a_admin_dashboard_for_the_app/)
-- [I know jetpack compose, should i go react native?](https://www.reddit.com/r/androiddev/comments/v7tkky/i_know_jetpack_compose_should_i_go_react_native/)
-- [is app dev a worth while side hustle?](https://www.reddit.com/r/androiddev/comments/v7rvwe/is_app_dev_a_worth_while_side_hustle/)
-- [Can Android app on ChromeOS create a KeyPair that is at least SECURITY_LEVEL_TRUSTED_ENVIRONMENT?](https://www.reddit.com/r/androiddev/comments/v7qf98/can_android_app_on_chromeos_create_a_keypair_that/)
-- [Testing in-app purchases](https://www.reddit.com/r/androiddev/comments/v7pj9i/testing_inapp_purchases/)
-- [Some help with cryptography?](https://www.reddit.com/r/androiddev/comments/v7pj1s/some_help_with_cryptography/)
+- [Any tips for navigating from old xml to compose using nav graphs?](https://www.reddit.com/r/androiddev/comments/v8xecl/any_tips_for_navigating_from_old_xml_to_compose/)
+- [Dialogs - Jetpack Compose, Lottie, Gifs - Android Library](https://www.reddit.com/r/androiddev/comments/v8t2nv/dialogs_jetpack_compose_lottie_gifs_android/)
+- [Flutter vs Native react, I know once again...](https://www.reddit.com/r/androiddev/comments/v8s2sp/flutter_vs_native_react_i_know_once_again/)
+- [Is it possible to use Google Maps Live View inside my app?](https://www.reddit.com/r/androiddev/comments/v8rqcp/is_it_possible_to_use_google_maps_live_view/)
+- [Android Developer Kit and Kotlin](https://www.reddit.com/r/androiddev/comments/v8rnpv/android_developer_kit_and_kotlin/)
+- [Want some advice on learning Native Android.](https://www.reddit.com/r/androiddev/comments/v8qbcw/want_some_advice_on_learning_native_android/)
+- [I&#39;m 30, looking to change careers to Android Development/Developing](https://www.reddit.com/r/androiddev/comments/v8q2dy/im_30_looking_to_change_careers_to_android/)
+- [Anyone implemented drag and drop correctly with imageViews?](https://www.reddit.com/r/androiddev/comments/v8pnxf/anyone_implemented_drag_and_drop_correctly_with/)
+- [Best programming language to build a full app](https://www.reddit.com/r/androiddev/comments/v8nk8w/best_programming_language_to_build_a_full_app/)
+- [Displaying data from firebase realtime database as a list.](https://www.reddit.com/r/androiddev/comments/v8m2vs/displaying_data_from_firebase_realtime_database/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
