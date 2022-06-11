@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any tips for navigating from old xml to compose using nav graphs?](https://www.reddit.com/r/androiddev/comments/v8xecl/any_tips_for_navigating_from_old_xml_to_compose/)
-- [Dialogs - Jetpack Compose, Lottie, Gifs - Android Library](https://www.reddit.com/r/androiddev/comments/v8t2nv/dialogs_jetpack_compose_lottie_gifs_android/)
-- [Flutter vs Native react, I know once again...](https://www.reddit.com/r/androiddev/comments/v8s2sp/flutter_vs_native_react_i_know_once_again/)
-- [Is it possible to use Google Maps Live View inside my app?](https://www.reddit.com/r/androiddev/comments/v8rqcp/is_it_possible_to_use_google_maps_live_view/)
-- [Android Developer Kit and Kotlin](https://www.reddit.com/r/androiddev/comments/v8rnpv/android_developer_kit_and_kotlin/)
-- [Want some advice on learning Native Android.](https://www.reddit.com/r/androiddev/comments/v8qbcw/want_some_advice_on_learning_native_android/)
-- [I&#39;m 30, looking to change careers to Android Development/Developing](https://www.reddit.com/r/androiddev/comments/v8q2dy/im_30_looking_to_change_careers_to_android/)
-- [Anyone implemented drag and drop correctly with imageViews?](https://www.reddit.com/r/androiddev/comments/v8pnxf/anyone_implemented_drag_and_drop_correctly_with/)
-- [Best programming language to build a full app](https://www.reddit.com/r/androiddev/comments/v8nk8w/best_programming_language_to_build_a_full_app/)
-- [Displaying data from firebase realtime database as a list.](https://www.reddit.com/r/androiddev/comments/v8m2vs/displaying_data_from_firebase_realtime_database/)
+- [DOUBT](https://www.reddit.com/r/androiddev/comments/v9n3go/doubt/)
+- [Payment Profile was empty and no clue where the payout went](https://www.reddit.com/r/androiddev/comments/v9ho82/payment_profile_was_empty_and_no_clue_where_the/)
+- [Selling an app!](https://www.reddit.com/r/androiddev/comments/v9gep5/selling_an_app/)
+- [How not to leak features when using Firebase Remote Config](https://www.reddit.com/r/androiddev/comments/v9f5qd/how_not_to_leak_features_when_using_firebase/)
+- [Changing button color in disabled state](https://www.reddit.com/r/androiddev/comments/v9dkn7/changing_button_color_in_disabled_state/)
+- [Just how?](https://www.reddit.com/r/androiddev/comments/v97w3o/just_how/)
+- [How to use Toolbar with Fragments!](https://www.reddit.com/r/androiddev/comments/v96r1y/how_to_use_toolbar_with_fragments/)
+- [5 Common Mistakes when using Kotlin Coroutines](https://www.reddit.com/r/androiddev/comments/v94sbf/5_common_mistakes_when_using_kotlin_coroutines/)
+- [Native animations for Android developers](https://www.reddit.com/r/androiddev/comments/v93jh0/native_animations_for_android_developers/)
+- [Preparing Android app development &amp; pricing package](https://www.reddit.com/r/androiddev/comments/v91a7i/preparing_android_app_development_pricing_package/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
