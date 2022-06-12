@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [DOUBT](https://www.reddit.com/r/androiddev/comments/v9n3go/doubt/)
-- [Payment Profile was empty and no clue where the payout went](https://www.reddit.com/r/androiddev/comments/v9ho82/payment_profile_was_empty_and_no_clue_where_the/)
-- [Selling an app!](https://www.reddit.com/r/androiddev/comments/v9gep5/selling_an_app/)
-- [How not to leak features when using Firebase Remote Config](https://www.reddit.com/r/androiddev/comments/v9f5qd/how_not_to_leak_features_when_using_firebase/)
-- [Changing button color in disabled state](https://www.reddit.com/r/androiddev/comments/v9dkn7/changing_button_color_in_disabled_state/)
-- [Just how?](https://www.reddit.com/r/androiddev/comments/v97w3o/just_how/)
-- [How to use Toolbar with Fragments!](https://www.reddit.com/r/androiddev/comments/v96r1y/how_to_use_toolbar_with_fragments/)
-- [5 Common Mistakes when using Kotlin Coroutines](https://www.reddit.com/r/androiddev/comments/v94sbf/5_common_mistakes_when_using_kotlin_coroutines/)
-- [Native animations for Android developers](https://www.reddit.com/r/androiddev/comments/v93jh0/native_animations_for_android_developers/)
-- [Preparing Android app development &amp; pricing package](https://www.reddit.com/r/androiddev/comments/v91a7i/preparing_android_app_development_pricing_package/)
+- [Minimum width recommendations](https://www.reddit.com/r/androiddev/comments/vaaqso/minimum_width_recommendations/)
+- [Help in Important question for me](https://www.reddit.com/r/androiddev/comments/va8hdk/help_in_important_question_for_me/)
+- [Will I be able to make full fledge apps with flutter?](https://www.reddit.com/r/androiddev/comments/va7drq/will_i_be_able_to_make_full_fledge_apps_with/)
+- [Only android developers experience ___ over and over and over again...](https://www.reddit.com/r/androiddev/comments/va6imz/only_android_developers_experience_over_and_over/)
+- [Health connect api](https://www.reddit.com/r/androiddev/comments/va6dfk/health_connect_api/)
+- [How the ArchWiki saved me with the android emulator messing up my input sound](https://www.reddit.com/r/androiddev/comments/va5ma1/how_the_archwiki_saved_me_with_the_android/)
+- [Help. cross compiling Android emulator for arm64](https://www.reddit.com/r/androiddev/comments/va5e2d/help_cross_compiling_android_emulator_for_arm64/)
+- [Senior android dev here with limited testing experience. Is this a problem for my career?](https://www.reddit.com/r/androiddev/comments/va58oz/senior_android_dev_here_with_limited_testing/)
+- [Where can I get Android developer remote job as a beginner/fresher, or any internship &lpar; remote &rpar;](https://www.reddit.com/r/androiddev/comments/va3eyv/where_can_i_get_android_developer_remote_job_as_a/)
+- [Advantages of coding activities/fragments completely in Java/Kotlin &lpar;without XML layout&rpar;?](https://www.reddit.com/r/androiddev/comments/va1kyx/advantages_of_coding_activitiesfragments/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
