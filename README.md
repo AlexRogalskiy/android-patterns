@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [anyone had a &quot;error: package R does not exist&quot; before? I can&#39;t get this to go](https://www.reddit.com/r/androiddev/comments/vay9mu/anyone_had_a_error_package_r_does_not_exist/)
-- [is firebase cloud storage a good choice for an video based app?](https://www.reddit.com/r/androiddev/comments/vav5a6/is_firebase_cloud_storage_a_good_choice_for_an/)
-- [as a junior android dev what should i study, use and get better at using to become middle](https://www.reddit.com/r/androiddev/comments/vausmh/as_a_junior_android_dev_what_should_i_study_use/)
-- [A question related to Facebook and Android Media Playback.....!](https://www.reddit.com/r/androiddev/comments/vauftf/a_question_related_to_facebook_and_android_media/)
-- [How do I make an apk?](https://www.reddit.com/r/androiddev/comments/vaqhuj/how_do_i_make_an_apk/)
-- [Fresh Android intern, how should I approach large codebase for enterprise apps? Grant me you guidance r/Androiddev :&rpar;](https://www.reddit.com/r/androiddev/comments/vapwv4/fresh_android_intern_how_should_i_approach_large/)
-- [what is the best practice to get room database two table join in a dao class. what should be the return type?](https://www.reddit.com/r/androiddev/comments/vaouef/what_is_the_best_practice_to_get_room_database/)
-- [How to change state while changing locale in Jetpack compose? Able to change the locale but strings are not changing in Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/van5ar/how_to_change_state_while_changing_locale_in/)
-- [Camcorder: Tool to create, preview, and save GIFs using Compose Desktop](https://www.reddit.com/r/androiddev/comments/vamu08/camcorder_tool_to_create_preview_and_save_gifs/)
-- [Most of the subscriptions in Google Play console showing as Payment Pending after free trail](https://www.reddit.com/r/androiddev/comments/vakhyy/most_of_the_subscriptions_in_google_play_console/)
+- [RE: Socials for health app. Anyone with an illness here?](https://www.reddit.com/r/androiddev/comments/vbtmln/re_socials_for_health_app_anyone_with_an_illness/)
+- [Product development VS SDK development](https://www.reddit.com/r/androiddev/comments/vbnvpc/product_development_vs_sdk_development/)
+- [Is there a way to force aod to 1hz through adb I have the s22ultra and the refresh rate is shown as 60 According to the refresh counter in developer settings.](https://www.reddit.com/r/androiddev/comments/vbigja/is_there_a_way_to_force_aod_to_1hz_through_adb_i/)
+- [Android Studio Dolphin Beta 3 now available](https://www.reddit.com/r/androiddev/comments/vbi6im/android_studio_dolphin_beta_3_now_available/)
+- [Android Studio Electric Eel Canary 4 now available](https://www.reddit.com/r/androiddev/comments/vbi6i4/android_studio_electric_eel_canary_4_now_available/)
+- [Elevated button in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/vbh143/elevated_button_in_jetpack_compose/)
+- [Error while reply to reviews on play console app](https://www.reddit.com/r/androiddev/comments/vbgb9y/error_while_reply_to_reviews_on_play_console_app/)
+- [Geologist to Android Dev. Is it worth it?](https://www.reddit.com/r/androiddev/comments/vbflz7/geologist_to_android_dev_is_it_worth_it/)
+- [Can you A/B test an app title in play console?](https://www.reddit.com/r/androiddev/comments/vbefk1/can_you_ab_test_an_app_title_in_play_console/)
+- [Error generating Android app with Cordova Plugin - &quot;Duplicate class com.google.gson....&quot;](https://www.reddit.com/r/androiddev/comments/vbe2tx/error_generating_android_app_with_cordova_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
