@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [RE: Socials for health app. Anyone with an illness here?](https://www.reddit.com/r/androiddev/comments/vbtmln/re_socials_for_health_app_anyone_with_an_illness/)
-- [Product development VS SDK development](https://www.reddit.com/r/androiddev/comments/vbnvpc/product_development_vs_sdk_development/)
-- [Is there a way to force aod to 1hz through adb I have the s22ultra and the refresh rate is shown as 60 According to the refresh counter in developer settings.](https://www.reddit.com/r/androiddev/comments/vbigja/is_there_a_way_to_force_aod_to_1hz_through_adb_i/)
-- [Android Studio Dolphin Beta 3 now available](https://www.reddit.com/r/androiddev/comments/vbi6im/android_studio_dolphin_beta_3_now_available/)
-- [Android Studio Electric Eel Canary 4 now available](https://www.reddit.com/r/androiddev/comments/vbi6i4/android_studio_electric_eel_canary_4_now_available/)
-- [Elevated button in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/vbh143/elevated_button_in_jetpack_compose/)
-- [Error while reply to reviews on play console app](https://www.reddit.com/r/androiddev/comments/vbgb9y/error_while_reply_to_reviews_on_play_console_app/)
-- [Geologist to Android Dev. Is it worth it?](https://www.reddit.com/r/androiddev/comments/vbflz7/geologist_to_android_dev_is_it_worth_it/)
-- [Can you A/B test an app title in play console?](https://www.reddit.com/r/androiddev/comments/vbefk1/can_you_ab_test_an_app_title_in_play_console/)
-- [Error generating Android app with Cordova Plugin - &quot;Duplicate class com.google.gson....&quot;](https://www.reddit.com/r/androiddev/comments/vbe2tx/error_generating_android_app_with_cordova_plugin/)
+- [Anyone in this sub worried about layoffs at all? Curious on peoples thoughts](https://www.reddit.com/r/androiddev/comments/vcj6e4/anyone_in_this_sub_worried_about_layoffs_at_all/)
+- [I want to see your code!](https://www.reddit.com/r/androiddev/comments/vcimmp/i_want_to_see_your_code/)
+- [Will Flutter replace Android?](https://www.reddit.com/r/androiddev/comments/vcgkky/will_flutter_replace_android/)
+- [Any review for this book? https://practicaljetpackcompose.com/](https://www.reddit.com/r/androiddev/comments/vcfabh/any_review_for_this_book/)
+- [Keep a video playing in the background in Google drive](https://www.reddit.com/r/androiddev/comments/vccqyp/keep_a_video_playing_in_the_background_in_google/)
+- [Possible Pitfalls of Updating jUnit Tests](https://www.reddit.com/r/androiddev/comments/vcckpq/possible_pitfalls_of_updating_junit_tests/)
+- [This app&#39;s UI is so simple and the basic features are so simple, and yet it performs better than top ui design apps doing the same thing](https://www.reddit.com/r/androiddev/comments/vcbe2g/this_apps_ui_is_so_simple_and_the_basic_features/)
+- [Foodies! New Project What You&#39;ll think](https://www.reddit.com/r/androiddev/comments/vc9x3j/foodies_new_project_what_youll_think/)
+- [Needed design improvement tips.](https://www.reddit.com/r/androiddev/comments/vc9sau/needed_design_improvement_tips/)
+- [How do you get paid on the Amazon app store?](https://www.reddit.com/r/androiddev/comments/vc9r3i/how_do_you_get_paid_on_the_amazon_app_store/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
