@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Linux distro for Flutter development](https://www.reddit.com/r/androiddev/comments/vdauls/linux_distro_for_flutter_development/)
-- [Is there a framework for making game auto-play bots?](https://www.reddit.com/r/androiddev/comments/vdaoa4/is_there_a_framework_for_making_game_autoplay_bots/)
-- [Template question](https://www.reddit.com/r/androiddev/comments/vd7kv6/template_question/)
-- [Recycler view is not showing data from the firebase realtime database](https://www.reddit.com/r/androiddev/comments/vd61wf/recycler_view_is_not_showing_data_from_the/)
-- [Duplicate declarations of permission android.permission.ACCESS_COARSE_LOCATION with different maxSdkVersions](https://www.reddit.com/r/androiddev/comments/vd5vv8/duplicate_declarations_of_permission/)
-- [How did the giants rise?](https://www.reddit.com/r/androiddev/comments/vd3s7p/how_did_the_giants_rise/)
-- [Official Cyanogenmod Archive for old devices.](https://www.reddit.com/r/androiddev/comments/vd2ynx/official_cyanogenmod_archive_for_old_devices/)
-- [Noob Advice](https://www.reddit.com/r/androiddev/comments/vd23fi/noob_advice/)
-- [Background timer nowadays.](https://www.reddit.com/r/androiddev/comments/vd1wk1/background_timer_nowadays/)
-- [Any Clean Architecture app courses that make use of Flows completely without LiveData?](https://www.reddit.com/r/androiddev/comments/vcztva/any_clean_architecture_app_courses_that_make_use/)
+- [Interested in becoming android dev. New Grad, no internships. Need advice on possible projects.](https://www.reddit.com/r/androiddev/comments/ve1c1d/interested_in_becoming_android_dev_new_grad_no/)
+- [Udemy or general courses that you recommend for Android Developer?](https://www.reddit.com/r/androiddev/comments/ve13si/udemy_or_general_courses_that_you_recommend_for/)
+- [I made a fastlane plugin to easily get build number for a new version of an app](https://www.reddit.com/r/androiddev/comments/vdzrgr/i_made_a_fastlane_plugin_to_easily_get_build/)
+- [I&#39;m very excited to share my new android game &quot;Blob Dash&quot;. It features an infinite level based on prefab components. Soon to come is a mode with more complex finite levels and a level editor for you to make and share your own levels.](https://www.reddit.com/r/androiddev/comments/vdsr7h/im_very_excited_to_share_my_new_android_game_blob/)
+- [Android Studio Electric Eel Canary 5 now available](https://www.reddit.com/r/androiddev/comments/vdrxmd/android_studio_electric_eel_canary_5_now_available/)
+- [Back in Android Dev after 2 years, how to make myself employable?](https://www.reddit.com/r/androiddev/comments/vdr9zh/back_in_android_dev_after_2_years_how_to_make/)
+- [Is it possible to &lpar;a question from a noob in programming&rpar;](https://www.reddit.com/r/androiddev/comments/vdpfxz/is_it_possible_to_a_question_from_a_noob_in/)
+- [Question. I successfully loaded my first app, but Icon does not appear on phone: There is a grey spheroid. App works great. Help.](https://www.reddit.com/r/androiddev/comments/vdmyfg/question_i_successfully_loaded_my_first_app_but/)
+- [I have few questions regard admob integrating.](https://www.reddit.com/r/androiddev/comments/vdlekr/i_have_few_questions_regard_admob_integrating/)
+- [Tutorial for Mail Client app&lpar;offline&rpar;. With Fragments.](https://www.reddit.com/r/androiddev/comments/vdkohu/tutorial_for_mail_client_appoffline_with_fragments/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
