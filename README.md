@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Interested in becoming android dev. New Grad, no internships. Need advice on possible projects.](https://www.reddit.com/r/androiddev/comments/ve1c1d/interested_in_becoming_android_dev_new_grad_no/)
-- [Udemy or general courses that you recommend for Android Developer?](https://www.reddit.com/r/androiddev/comments/ve13si/udemy_or_general_courses_that_you_recommend_for/)
-- [I made a fastlane plugin to easily get build number for a new version of an app](https://www.reddit.com/r/androiddev/comments/vdzrgr/i_made_a_fastlane_plugin_to_easily_get_build/)
-- [I&#39;m very excited to share my new android game &quot;Blob Dash&quot;. It features an infinite level based on prefab components. Soon to come is a mode with more complex finite levels and a level editor for you to make and share your own levels.](https://www.reddit.com/r/androiddev/comments/vdsr7h/im_very_excited_to_share_my_new_android_game_blob/)
-- [Android Studio Electric Eel Canary 5 now available](https://www.reddit.com/r/androiddev/comments/vdrxmd/android_studio_electric_eel_canary_5_now_available/)
-- [Back in Android Dev after 2 years, how to make myself employable?](https://www.reddit.com/r/androiddev/comments/vdr9zh/back_in_android_dev_after_2_years_how_to_make/)
-- [Is it possible to &lpar;a question from a noob in programming&rpar;](https://www.reddit.com/r/androiddev/comments/vdpfxz/is_it_possible_to_a_question_from_a_noob_in/)
-- [Question. I successfully loaded my first app, but Icon does not appear on phone: There is a grey spheroid. App works great. Help.](https://www.reddit.com/r/androiddev/comments/vdmyfg/question_i_successfully_loaded_my_first_app_but/)
-- [I have few questions regard admob integrating.](https://www.reddit.com/r/androiddev/comments/vdlekr/i_have_few_questions_regard_admob_integrating/)
-- [Tutorial for Mail Client app&lpar;offline&rpar;. With Fragments.](https://www.reddit.com/r/androiddev/comments/vdkohu/tutorial_for_mail_client_appoffline_with_fragments/)
+- [Experience With Android Development on Linux](https://www.reddit.com/r/androiddev/comments/vevgue/experience_with_android_development_on_linux/)
+- [How would you write an audio/DSP application for android?](https://www.reddit.com/r/androiddev/comments/vetvp2/how_would_you_write_an_audiodsp_application_for/)
+- [Daggers2&#39;s AssistedInject vs Subcomponents, which to use when wanting runtime dependencies?](https://www.reddit.com/r/androiddev/comments/vetoxt/daggers2s_assistedinject_vs_subcomponents_which/)
+- [Confusion with deleting item from recyclerview/firebase database](https://www.reddit.com/r/androiddev/comments/veq09u/confusion_with_deleting_item_from/)
+- [Set up tax inclusive pricing for subscriptions after the May 2022 subscription changes](https://www.reddit.com/r/androiddev/comments/vepym2/set_up_tax_inclusive_pricing_for_subscriptions/)
+- [tutorials for making art tool software?](https://www.reddit.com/r/androiddev/comments/veo5ww/tutorials_for_making_art_tool_software/)
+- [Looking for stories on how you become an Android Developer](https://www.reddit.com/r/androiddev/comments/venern/looking_for_stories_on_how_you_become_an_android/)
+- [Can I still get the pdf version from the official android development site?](https://www.reddit.com/r/androiddev/comments/venabz/can_i_still_get_the_pdf_version_from_the_official/)
+- [How do you send push notifications with Android if user is logged out of app?](https://www.reddit.com/r/androiddev/comments/vemccf/how_do_you_send_push_notifications_with_android/)
+- [&quot;Best&quot; method to cache a graph?](https://www.reddit.com/r/androiddev/comments/vekhzn/best_method_to_cache_a_graph/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
