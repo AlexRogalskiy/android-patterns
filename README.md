@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Experience With Android Development on Linux](https://www.reddit.com/r/androiddev/comments/vevgue/experience_with_android_development_on_linux/)
-- [How would you write an audio/DSP application for android?](https://www.reddit.com/r/androiddev/comments/vetvp2/how_would_you_write_an_audiodsp_application_for/)
-- [Daggers2&#39;s AssistedInject vs Subcomponents, which to use when wanting runtime dependencies?](https://www.reddit.com/r/androiddev/comments/vetoxt/daggers2s_assistedinject_vs_subcomponents_which/)
-- [Confusion with deleting item from recyclerview/firebase database](https://www.reddit.com/r/androiddev/comments/veq09u/confusion_with_deleting_item_from/)
-- [Set up tax inclusive pricing for subscriptions after the May 2022 subscription changes](https://www.reddit.com/r/androiddev/comments/vepym2/set_up_tax_inclusive_pricing_for_subscriptions/)
-- [tutorials for making art tool software?](https://www.reddit.com/r/androiddev/comments/veo5ww/tutorials_for_making_art_tool_software/)
-- [Looking for stories on how you become an Android Developer](https://www.reddit.com/r/androiddev/comments/venern/looking_for_stories_on_how_you_become_an_android/)
-- [Can I still get the pdf version from the official android development site?](https://www.reddit.com/r/androiddev/comments/venabz/can_i_still_get_the_pdf_version_from_the_official/)
-- [How do you send push notifications with Android if user is logged out of app?](https://www.reddit.com/r/androiddev/comments/vemccf/how_do_you_send_push_notifications_with_android/)
-- [&quot;Best&quot; method to cache a graph?](https://www.reddit.com/r/androiddev/comments/vekhzn/best_method_to_cache_a_graph/)
+- [I&#39;m a brazilian, beginner at game dev and where should I start to make a game to Android?](https://www.reddit.com/r/androiddev/comments/vfjumr/im_a_brazilian_beginner_at_game_dev_and_where/)
+- [Started with Xamarin, am I doomed?](https://www.reddit.com/r/androiddev/comments/vfhacw/started_with_xamarin_am_i_doomed/)
+- [android:textColor not taking effect for TextInputEditText](https://www.reddit.com/r/androiddev/comments/vffg1y/androidtextcolor_not_taking_effect_for/)
+- [Are there any tutorials on using searchView in fragment specifically in kotlin?](https://www.reddit.com/r/androiddev/comments/vfd03u/are_there_any_tutorials_on_using_searchview_in/)
+- [What are the other great benefits of using Kotlin DSL over Groovy](https://www.reddit.com/r/androiddev/comments/vfclot/what_are_the_other_great_benefits_of_using_kotlin/)
+- [A few question about Logging](https://www.reddit.com/r/androiddev/comments/vfaonz/a_few_question_about_logging/)
+- [Creating Dev Account](https://www.reddit.com/r/androiddev/comments/vf670u/creating_dev_account/)
+- [Changing app in store](https://www.reddit.com/r/androiddev/comments/vf5fr5/changing_app_in_store/)
+- [View Model with Jetpack compose view](https://www.reddit.com/r/androiddev/comments/vf30hy/view_model_with_jetpack_compose_view/)
+- [where can i find .so file for armeabi-v7a .so for my app](https://www.reddit.com/r/androiddev/comments/vf2mfz/where_can_i_find_so_file_for_armeabiv7a_so_for_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
