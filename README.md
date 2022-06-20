@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I&#39;m a brazilian, beginner at game dev and where should I start to make a game to Android?](https://www.reddit.com/r/androiddev/comments/vfjumr/im_a_brazilian_beginner_at_game_dev_and_where/)
-- [Started with Xamarin, am I doomed?](https://www.reddit.com/r/androiddev/comments/vfhacw/started_with_xamarin_am_i_doomed/)
-- [android:textColor not taking effect for TextInputEditText](https://www.reddit.com/r/androiddev/comments/vffg1y/androidtextcolor_not_taking_effect_for/)
-- [Are there any tutorials on using searchView in fragment specifically in kotlin?](https://www.reddit.com/r/androiddev/comments/vfd03u/are_there_any_tutorials_on_using_searchview_in/)
-- [What are the other great benefits of using Kotlin DSL over Groovy](https://www.reddit.com/r/androiddev/comments/vfclot/what_are_the_other_great_benefits_of_using_kotlin/)
-- [A few question about Logging](https://www.reddit.com/r/androiddev/comments/vfaonz/a_few_question_about_logging/)
-- [Creating Dev Account](https://www.reddit.com/r/androiddev/comments/vf670u/creating_dev_account/)
-- [Changing app in store](https://www.reddit.com/r/androiddev/comments/vf5fr5/changing_app_in_store/)
-- [View Model with Jetpack compose view](https://www.reddit.com/r/androiddev/comments/vf30hy/view_model_with_jetpack_compose_view/)
-- [where can i find .so file for armeabi-v7a .so for my app](https://www.reddit.com/r/androiddev/comments/vf2mfz/where_can_i_find_so_file_for_armeabiv7a_so_for_my/)
+- [Thoughts on the release notes character limit?](https://www.reddit.com/r/androiddev/comments/vg6vc8/thoughts_on_the_release_notes_character_limit/)
+- [XML Design](https://www.reddit.com/r/androiddev/comments/vfyvge/xml_design/)
+- [can i make ads for another brand in my app](https://www.reddit.com/r/androiddev/comments/vfxvw2/can_i_make_ads_for_another_brand_in_my_app/)
+- [CompanionDeviceManager: allows for one-to-many connection? &lpar;nearby replacement?&rpar;](https://www.reddit.com/r/androiddev/comments/vfxl1j/companiondevicemanager_allows_for_onetomany/)
+- [Button&#39;s insetTop not working!](https://www.reddit.com/r/androiddev/comments/vfuztb/buttons_insettop_not_working/)
+- [Navigate with complex objects](https://www.reddit.com/r/androiddev/comments/vfu3q6/navigate_with_complex_objects/)
+- [How would you handle firebase&#39;s user data?](https://www.reddit.com/r/androiddev/comments/vfst4f/how_would_you_handle_firebases_user_data/)
+- [Kotlin MultiPlatform Basic Sample](https://www.reddit.com/r/androiddev/comments/vfrk5h/kotlin_multiplatform_basic_sample/)
+- [gonna prevent phones with android 11+ from installing my app](https://www.reddit.com/r/androiddev/comments/vfqppo/gonna_prevent_phones_with_android_11_from/)
+- [Parallax with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/vfq2o0/parallax_with_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
