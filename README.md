@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Thoughts on the release notes character limit?](https://www.reddit.com/r/androiddev/comments/vg6vc8/thoughts_on_the_release_notes_character_limit/)
-- [XML Design](https://www.reddit.com/r/androiddev/comments/vfyvge/xml_design/)
-- [can i make ads for another brand in my app](https://www.reddit.com/r/androiddev/comments/vfxvw2/can_i_make_ads_for_another_brand_in_my_app/)
-- [CompanionDeviceManager: allows for one-to-many connection? &lpar;nearby replacement?&rpar;](https://www.reddit.com/r/androiddev/comments/vfxl1j/companiondevicemanager_allows_for_onetomany/)
-- [Button&#39;s insetTop not working!](https://www.reddit.com/r/androiddev/comments/vfuztb/buttons_insettop_not_working/)
-- [Navigate with complex objects](https://www.reddit.com/r/androiddev/comments/vfu3q6/navigate_with_complex_objects/)
-- [How would you handle firebase&#39;s user data?](https://www.reddit.com/r/androiddev/comments/vfst4f/how_would_you_handle_firebases_user_data/)
-- [Kotlin MultiPlatform Basic Sample](https://www.reddit.com/r/androiddev/comments/vfrk5h/kotlin_multiplatform_basic_sample/)
-- [gonna prevent phones with android 11+ from installing my app](https://www.reddit.com/r/androiddev/comments/vfqppo/gonna_prevent_phones_with_android_11_from/)
-- [Parallax with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/vfq2o0/parallax_with_jetpack_compose/)
+- [Best Practices Kotlin Dagger Module with @Binds and @Provides](https://www.reddit.com/r/androiddev/comments/vh1hgw/best_practices_kotlin_dagger_module_with_binds/)
+- [What is the best way to save a variable value in user’s cache](https://www.reddit.com/r/androiddev/comments/vgz13a/what_is_the_best_way_to_save_a_variable_value_in/)
+- [Is there a way to prevent Factory Resetting a device via Recovery Mode and would that even be a good idea?](https://www.reddit.com/r/androiddev/comments/vgwtn9/is_there_a_way_to_prevent_factory_resetting_a/)
+- [I want to share my learning journey: Android MVVM sample project with different topics](https://www.reddit.com/r/androiddev/comments/vgwe67/i_want_to_share_my_learning_journey_android_mvvm/)
+- [Google Fit integration](https://www.reddit.com/r/androiddev/comments/vgod2y/google_fit_integration/)
+- [Corporate owned device with workprofile - could adb access pose a security risk?](https://www.reddit.com/r/androiddev/comments/vgmeqo/corporate_owned_device_with_workprofile_could_adb/)
+- [Weekly Who&#39;s Hiring Thread - June 20, 2022](https://www.reddit.com/r/androiddev/comments/vgkyup/weekly_whos_hiring_thread_june_20_2022/)
+- [Anyone worked with Flespi for Mobile App ?](https://www.reddit.com/r/androiddev/comments/vgknt7/anyone_worked_with_flespi_for_mobile_app/)
+- [Different types of testing](https://www.reddit.com/r/androiddev/comments/vgk4ex/different_types_of_testing/)
+- [Weekly discussion, code review, and feedback thread - June 20, 2022](https://www.reddit.com/r/androiddev/comments/vgjttm/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
