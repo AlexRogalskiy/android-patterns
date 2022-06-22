@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best Practices Kotlin Dagger Module with @Binds and @Provides](https://www.reddit.com/r/androiddev/comments/vh1hgw/best_practices_kotlin_dagger_module_with_binds/)
-- [What is the best way to save a variable value in user’s cache](https://www.reddit.com/r/androiddev/comments/vgz13a/what_is_the_best_way_to_save_a_variable_value_in/)
-- [Is there a way to prevent Factory Resetting a device via Recovery Mode and would that even be a good idea?](https://www.reddit.com/r/androiddev/comments/vgwtn9/is_there_a_way_to_prevent_factory_resetting_a/)
-- [I want to share my learning journey: Android MVVM sample project with different topics](https://www.reddit.com/r/androiddev/comments/vgwe67/i_want_to_share_my_learning_journey_android_mvvm/)
-- [Google Fit integration](https://www.reddit.com/r/androiddev/comments/vgod2y/google_fit_integration/)
-- [Corporate owned device with workprofile - could adb access pose a security risk?](https://www.reddit.com/r/androiddev/comments/vgmeqo/corporate_owned_device_with_workprofile_could_adb/)
-- [Weekly Who&#39;s Hiring Thread - June 20, 2022](https://www.reddit.com/r/androiddev/comments/vgkyup/weekly_whos_hiring_thread_june_20_2022/)
-- [Anyone worked with Flespi for Mobile App ?](https://www.reddit.com/r/androiddev/comments/vgknt7/anyone_worked_with_flespi_for_mobile_app/)
-- [Different types of testing](https://www.reddit.com/r/androiddev/comments/vgk4ex/different_types_of_testing/)
-- [Weekly discussion, code review, and feedback thread - June 20, 2022](https://www.reddit.com/r/androiddev/comments/vgjttm/weekly_discussion_code_review_and_feedback_thread/)
+- [I want to share my simple library: Kotlinized LRU Cache &lpar;In-Memory and Disk&rpar;](https://www.reddit.com/r/androiddev/comments/vhtfs0/i_want_to_share_my_simple_library_kotlinized_lru/)
+- [Need help removing virus or malware from Android galaxy s10](https://www.reddit.com/r/androiddev/comments/vhrlju/need_help_removing_virus_or_malware_from_android/)
+- [Bulletin: Easy changelog with Jetpack compose](https://www.reddit.com/r/androiddev/comments/vhqrqh/bulletin_easy_changelog_with_jetpack_compose/)
+- [Should I use data encryption for a local password manager android app?](https://www.reddit.com/r/androiddev/comments/vhq7lz/should_i_use_data_encryption_for_a_local_password/)
+- [Hello it&#39;s my first time building a ROM](https://www.reddit.com/r/androiddev/comments/vhq2xc/hello_its_my_first_time_building_a_rom/)
+- [I created &quot;Vibes4Sleep&quot;, an app making use of the vibration function to get you to sleep faster.](https://www.reddit.com/r/androiddev/comments/vhp0ri/i_created_vibes4sleep_an_app_making_use_of_the/)
+- [Activity responsible for all dependencies.](https://www.reddit.com/r/androiddev/comments/vhno73/activity_responsible_for_all_dependencies/)
+- [Github projects that show scalability. Written by Sr. Devs preferably.](https://www.reddit.com/r/androiddev/comments/vhn8i7/github_projects_that_show_scalability_written_by/)
+- [ScrollView TalkBack/Accessibility - Scrolling to Off-Screen Area](https://www.reddit.com/r/androiddev/comments/vhlh74/scrollview_talkbackaccessibility_scrolling_to/)
+- [Native Ads: Best alternative to Admob for Android App](https://www.reddit.com/r/androiddev/comments/vhlghq/native_ads_best_alternative_to_admob_for_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
