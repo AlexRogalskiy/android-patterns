@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I want to share my simple library: Kotlinized LRU Cache &lpar;In-Memory and Disk&rpar;](https://www.reddit.com/r/androiddev/comments/vhtfs0/i_want_to_share_my_simple_library_kotlinized_lru/)
-- [Need help removing virus or malware from Android galaxy s10](https://www.reddit.com/r/androiddev/comments/vhrlju/need_help_removing_virus_or_malware_from_android/)
-- [Bulletin: Easy changelog with Jetpack compose](https://www.reddit.com/r/androiddev/comments/vhqrqh/bulletin_easy_changelog_with_jetpack_compose/)
-- [Should I use data encryption for a local password manager android app?](https://www.reddit.com/r/androiddev/comments/vhq7lz/should_i_use_data_encryption_for_a_local_password/)
-- [Hello it&#39;s my first time building a ROM](https://www.reddit.com/r/androiddev/comments/vhq2xc/hello_its_my_first_time_building_a_rom/)
-- [I created &quot;Vibes4Sleep&quot;, an app making use of the vibration function to get you to sleep faster.](https://www.reddit.com/r/androiddev/comments/vhp0ri/i_created_vibes4sleep_an_app_making_use_of_the/)
-- [Activity responsible for all dependencies.](https://www.reddit.com/r/androiddev/comments/vhno73/activity_responsible_for_all_dependencies/)
-- [Github projects that show scalability. Written by Sr. Devs preferably.](https://www.reddit.com/r/androiddev/comments/vhn8i7/github_projects_that_show_scalability_written_by/)
-- [ScrollView TalkBack/Accessibility - Scrolling to Off-Screen Area](https://www.reddit.com/r/androiddev/comments/vhlh74/scrollview_talkbackaccessibility_scrolling_to/)
-- [Native Ads: Best alternative to Admob for Android App](https://www.reddit.com/r/androiddev/comments/vhlghq/native_ads_best_alternative_to_admob_for_android/)
+- [Using Live Templates to improve Android Development Productivity](https://www.reddit.com/r/androiddev/comments/villoc/using_live_templates_to_improve_android/)
+- [How is the performance of Github Copilot for Android Studio?](https://www.reddit.com/r/androiddev/comments/vik2lc/how_is_the_performance_of_github_copilot_for/)
+- [Retrofit Query separated by commas](https://www.reddit.com/r/androiddev/comments/vik2l1/retrofit_query_separated_by_commas/)
+- [Integrating refresh call to update flows](https://www.reddit.com/r/androiddev/comments/vik1dr/integrating_refresh_call_to_update_flows/)
+- [Google sign in problem](https://www.reddit.com/r/androiddev/comments/vigcly/google_sign_in_problem/)
+- [Anyone experiencing delay in Admob payment, no holidays but I still didn’t receive the payment notification email yet and it is 22nd June . From Nigeria](https://www.reddit.com/r/androiddev/comments/vifl9t/anyone_experiencing_delay_in_admob_payment_no/)
+- [admob payments delayed for June?](https://www.reddit.com/r/androiddev/comments/vieymi/admob_payments_delayed_for_june/)
+- [Wrote about one of my favorite #AndroidDev productivity boosters - &#39;Live Templates&#39;. This article includes details about using the built-in ones, and about creating custom ones to share with your team. This is designed to be a very quick read.](https://www.reddit.com/r/androiddev/comments/vies8h/wrote_about_one_of_my_favorite_androiddev/)
+- [I&#39;m suffering from perfectionism disease in programming. What can I do to get rid of this disease?](https://www.reddit.com/r/androiddev/comments/vidmsp/im_suffering_from_perfectionism_disease_in/)
+- [Thought Experiment: Is it possible to have an app with no errors or warnings?](https://www.reddit.com/r/androiddev/comments/vid5q8/thought_experiment_is_it_possible_to_have_an_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
