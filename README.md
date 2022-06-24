@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using Live Templates to improve Android Development Productivity](https://www.reddit.com/r/androiddev/comments/villoc/using_live_templates_to_improve_android/)
-- [How is the performance of Github Copilot for Android Studio?](https://www.reddit.com/r/androiddev/comments/vik2lc/how_is_the_performance_of_github_copilot_for/)
-- [Retrofit Query separated by commas](https://www.reddit.com/r/androiddev/comments/vik2l1/retrofit_query_separated_by_commas/)
-- [Integrating refresh call to update flows](https://www.reddit.com/r/androiddev/comments/vik1dr/integrating_refresh_call_to_update_flows/)
-- [Google sign in problem](https://www.reddit.com/r/androiddev/comments/vigcly/google_sign_in_problem/)
-- [Anyone experiencing delay in Admob payment, no holidays but I still didn’t receive the payment notification email yet and it is 22nd June . From Nigeria](https://www.reddit.com/r/androiddev/comments/vifl9t/anyone_experiencing_delay_in_admob_payment_no/)
-- [admob payments delayed for June?](https://www.reddit.com/r/androiddev/comments/vieymi/admob_payments_delayed_for_june/)
-- [Wrote about one of my favorite #AndroidDev productivity boosters - &#39;Live Templates&#39;. This article includes details about using the built-in ones, and about creating custom ones to share with your team. This is designed to be a very quick read.](https://www.reddit.com/r/androiddev/comments/vies8h/wrote_about_one_of_my_favorite_androiddev/)
-- [I&#39;m suffering from perfectionism disease in programming. What can I do to get rid of this disease?](https://www.reddit.com/r/androiddev/comments/vidmsp/im_suffering_from_perfectionism_disease_in/)
-- [Thought Experiment: Is it possible to have an app with no errors or warnings?](https://www.reddit.com/r/androiddev/comments/vid5q8/thought_experiment_is_it_possible_to_have_an_app/)
+- [Does this POJO look correct?](https://www.reddit.com/r/androiddev/comments/vjdew9/does_this_pojo_look_correct/)
+- [How to I get a remote internship](https://www.reddit.com/r/androiddev/comments/vjdb7p/how_to_i_get_a_remote_internship/)
+- [Is Android App Reskin Game Still Profitable ?](https://www.reddit.com/r/androiddev/comments/vj8wec/is_android_app_reskin_game_still_profitable/)
+- [Any free &amp; simple Maps SDK/lib?](https://www.reddit.com/r/androiddev/comments/vj7x0k/any_free_simple_maps_sdklib/)
+- [Developer-Powered CTS &lpar;CTS-D&rpar;](https://www.reddit.com/r/androiddev/comments/vj789y/developerpowered_cts_ctsd/)
+- [Successfully appealed an app update rejection](https://www.reddit.com/r/androiddev/comments/vj625c/successfully_appealed_an_app_update_rejection/)
+- [My First Major Android App](https://www.reddit.com/r/androiddev/comments/vj59nt/my_first_major_android_app/)
+- [Best service/product to use to handle customer service inquiries?](https://www.reddit.com/r/androiddev/comments/vj1enn/best_serviceproduct_to_use_to_handle_customer/)
+- [Hello, I have an android 5.1.1 in my car, I need to install apk but I have to allow install from unknown sources android. When I’m trying to enable it I only see cancel instead ok.. is there any way to go around it?](https://www.reddit.com/r/androiddev/comments/vj0nif/hello_i_have_an_android_511_in_my_car_i_need_to/)
+- [Do apps receive any kind of CPU, GPU, or memory prioritization when set as a launcher app?](https://www.reddit.com/r/androiddev/comments/viyl86/do_apps_receive_any_kind_of_cpu_gpu_or_memory/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
