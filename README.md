@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does this POJO look correct?](https://www.reddit.com/r/androiddev/comments/vjdew9/does_this_pojo_look_correct/)
-- [How to I get a remote internship](https://www.reddit.com/r/androiddev/comments/vjdb7p/how_to_i_get_a_remote_internship/)
-- [Is Android App Reskin Game Still Profitable ?](https://www.reddit.com/r/androiddev/comments/vj8wec/is_android_app_reskin_game_still_profitable/)
-- [Any free &amp; simple Maps SDK/lib?](https://www.reddit.com/r/androiddev/comments/vj7x0k/any_free_simple_maps_sdklib/)
-- [Developer-Powered CTS &lpar;CTS-D&rpar;](https://www.reddit.com/r/androiddev/comments/vj789y/developerpowered_cts_ctsd/)
-- [Successfully appealed an app update rejection](https://www.reddit.com/r/androiddev/comments/vj625c/successfully_appealed_an_app_update_rejection/)
-- [My First Major Android App](https://www.reddit.com/r/androiddev/comments/vj59nt/my_first_major_android_app/)
-- [Best service/product to use to handle customer service inquiries?](https://www.reddit.com/r/androiddev/comments/vj1enn/best_serviceproduct_to_use_to_handle_customer/)
-- [Hello, I have an android 5.1.1 in my car, I need to install apk but I have to allow install from unknown sources android. When I’m trying to enable it I only see cancel instead ok.. is there any way to go around it?](https://www.reddit.com/r/androiddev/comments/vj0nif/hello_i_have_an_android_511_in_my_car_i_need_to/)
-- [Do apps receive any kind of CPU, GPU, or memory prioritization when set as a launcher app?](https://www.reddit.com/r/androiddev/comments/viyl86/do_apps_receive_any_kind_of_cpu_gpu_or_memory/)
+- [hi, I wanna change the color of the text but once I click on the text the common attributes disappears as u can see also the common attributes panel is enabled in the settings, can anyone help?](https://www.reddit.com/r/androiddev/comments/vk3r70/hi_i_wanna_change_the_color_of_the_text_but_once/)
+- [Custom navigation gestures](https://www.reddit.com/r/androiddev/comments/vk09s1/custom_navigation_gestures/)
+- [Where can I learn android development in java freely?](https://www.reddit.com/r/androiddev/comments/vjzed9/where_can_i_learn_android_development_in_java/)
+- [Which one of these is best for Android development](https://www.reddit.com/r/androiddev/comments/vjw0b3/which_one_of_these_is_best_for_android_development/)
+- [How to make Android Studio look Awesome! Best themes, fonts and tips 🤩](https://www.reddit.com/r/androiddev/comments/vjvnky/how_to_make_android_studio_look_awesome_best/)
+- [@Composable inside kotlin object](https://www.reddit.com/r/androiddev/comments/vjusiz/composable_inside_kotlin_object/)
+- [Easy way to parse notifications?](https://www.reddit.com/r/androiddev/comments/vjtq4o/easy_way_to_parse_notifications/)
+- [Which lint rules does Jetpack Compose ship with?](https://www.reddit.com/r/androiddev/comments/vjth7i/which_lint_rules_does_jetpack_compose_ship_with/)
+- [I want to start my career in android dev, but don&#39;t know how to start there are so many stuff online and I&#39;m confused, can anyone tell me a simple roadmap and resources.](https://www.reddit.com/r/androiddev/comments/vjriho/i_want_to_start_my_career_in_android_dev_but_dont/)
+- [2022: Best FAN mediation partner &lpar;admob alternative&rpar;](https://www.reddit.com/r/androiddev/comments/vjpacp/2022_best_fan_mediation_partner_admob_alternative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
