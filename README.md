@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [hi, I wanna change the color of the text but once I click on the text the common attributes disappears as u can see also the common attributes panel is enabled in the settings, can anyone help?](https://www.reddit.com/r/androiddev/comments/vk3r70/hi_i_wanna_change_the_color_of_the_text_but_once/)
-- [Custom navigation gestures](https://www.reddit.com/r/androiddev/comments/vk09s1/custom_navigation_gestures/)
-- [Where can I learn android development in java freely?](https://www.reddit.com/r/androiddev/comments/vjzed9/where_can_i_learn_android_development_in_java/)
-- [Which one of these is best for Android development](https://www.reddit.com/r/androiddev/comments/vjw0b3/which_one_of_these_is_best_for_android_development/)
-- [How to make Android Studio look Awesome! Best themes, fonts and tips 🤩](https://www.reddit.com/r/androiddev/comments/vjvnky/how_to_make_android_studio_look_awesome_best/)
-- [@Composable inside kotlin object](https://www.reddit.com/r/androiddev/comments/vjusiz/composable_inside_kotlin_object/)
-- [Easy way to parse notifications?](https://www.reddit.com/r/androiddev/comments/vjtq4o/easy_way_to_parse_notifications/)
-- [Which lint rules does Jetpack Compose ship with?](https://www.reddit.com/r/androiddev/comments/vjth7i/which_lint_rules_does_jetpack_compose_ship_with/)
-- [I want to start my career in android dev, but don&#39;t know how to start there are so many stuff online and I&#39;m confused, can anyone tell me a simple roadmap and resources.](https://www.reddit.com/r/androiddev/comments/vjriho/i_want_to_start_my_career_in_android_dev_but_dont/)
-- [2022: Best FAN mediation partner &lpar;admob alternative&rpar;](https://www.reddit.com/r/androiddev/comments/vjpacp/2022_best_fan_mediation_partner_admob_alternative/)
+- [Possible to add an external peripheral to control an third party app?](https://www.reddit.com/r/androiddev/comments/vkupu6/possible_to_add_an_external_peripheral_to_control/)
+- [How are you supposed to get a job as a Android Dev when almost all listings need 2 years of experience?](https://www.reddit.com/r/androiddev/comments/vkrd52/how_are_you_supposed_to_get_a_job_as_a_android/)
+- [How did the giants rise? Episode III](https://www.reddit.com/r/androiddev/comments/vkp2ip/how_did_the_giants_rise_episode_iii/)
+- [java or flutter?](https://www.reddit.com/r/androiddev/comments/vkocvz/java_or_flutter/)
+- [What is the meaning of T : Viewmodel?](https://www.reddit.com/r/androiddev/comments/vknzjd/what_is_the_meaning_of_t_viewmodel/)
+- [Guide/Tutorial for Android In-app-subscription to remove ads](https://www.reddit.com/r/androiddev/comments/vkn3r8/guidetutorial_for_android_inappsubscription_to/)
+- [Play Dev API no price in new subscriptionsV2 endpoint?](https://www.reddit.com/r/androiddev/comments/vkmmr0/play_dev_api_no_price_in_new_subscriptionsv2/)
+- [What are the security measures on Android apps for banking apps?](https://www.reddit.com/r/androiddev/comments/vkli7p/what_are_the_security_measures_on_android_apps/)
+- [Do app reviewers just care about what code is shown to the user? Or will they take into consideration any other code?](https://www.reddit.com/r/androiddev/comments/vkk04b/do_app_reviewers_just_care_about_what_code_is/)
+- [low users but High session time](https://www.reddit.com/r/androiddev/comments/vkjvi8/low_users_but_high_session_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
