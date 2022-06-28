@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Androids: The Missing Pieces](https://www.reddit.com/r/androiddev/comments/vlio7o/androids_the_missing_pieces/)
-- [I need an idea for E-Learning android application](https://www.reddit.com/r/androiddev/comments/vlhc5u/i_need_an_idea_for_elearning_android_application/)
-- [Alternatives do Data Layer &lpar;wearOS&rpar; on de-googled phones?](https://www.reddit.com/r/androiddev/comments/vlfxt8/alternatives_do_data_layer_wearos_on_degoogled/)
-- [MAX mediation because Admob deceived me by 30,000 Dollars](https://www.reddit.com/r/androiddev/comments/vlf8qj/max_mediation_because_admob_deceived_me_by_30000/)
-- [Recommended emulator device configuration?](https://www.reddit.com/r/androiddev/comments/vlcj6z/recommended_emulator_device_configuration/)
-- [Would you rather spend $500 on ASO tool or PPC advertising?](https://www.reddit.com/r/androiddev/comments/vlbzau/would_you_rather_spend_500_on_aso_tool_or_ppc/)
-- [Could someone share the link/ documents to implement MPChart &lpar;Pie Chart&rpar; in a pop up window?](https://www.reddit.com/r/androiddev/comments/vlb4te/could_someone_share_the_link_documents_to/)
-- [AdMob verifying apps.](https://www.reddit.com/r/androiddev/comments/vl93p1/admob_verifying_apps/)
-- [Flutter Google Play Store Clone Tutorial Ep 1](https://www.reddit.com/r/androiddev/comments/vl6maz/flutter_google_play_store_clone_tutorial_ep_1/)
-- [How can I find the log of uninstalled apps on my phone?](https://www.reddit.com/r/androiddev/comments/vl5pzc/how_can_i_find_the_log_of_uninstalled_apps_on_my/)
+- [Trying to access files written on the emulator so that i can analyze the data on my computer. Do you know where I can find the data stored to file.txt?](https://www.reddit.com/r/androiddev/comments/vm4608/trying_to_access_files_written_on_the_emulator_so/)
+- [Mobile App Security Questions and Practices](https://www.reddit.com/r/androiddev/comments/vm2nll/mobile_app_security_questions_and_practices/)
+- [Google Android 13 Beta 3.3 started rolling for Pixel](https://www.reddit.com/r/androiddev/comments/vm21ja/google_android_13_beta_33_started_rolling_for/)
+- [Google Play data safety and Firebase/Google Play services](https://www.reddit.com/r/androiddev/comments/vm0vty/google_play_data_safety_and_firebasegoogle_play/)
+- [Android Studio Electric Eel Canary 6 now available](https://www.reddit.com/r/androiddev/comments/vm06yt/android_studio_electric_eel_canary_6_now_available/)
+- [Do Google trackers in apps matter if you&#39;re deGoogled &lpar;no google services or apps on your phone&rpar;?](https://www.reddit.com/r/androiddev/comments/vlxqsa/do_google_trackers_in_apps_matter_if_youre/)
+- [Weekly Who&#39;s Hiring Thread - June 27, 2022](https://www.reddit.com/r/androiddev/comments/vluygf/weekly_whos_hiring_thread_june_27_2022/)
+- [Weekly discussion, code review, and feedback thread - June 27, 2022](https://www.reddit.com/r/androiddev/comments/vltuvx/weekly_discussion_code_review_and_feedback_thread/)
+- [Jetpack compose Bottom sheet with TabBar](https://www.reddit.com/r/androiddev/comments/vltktp/jetpack_compose_bottom_sheet_with_tabbar/)
+- [Question: Disable all recurring Play In-App subscription transactions, remove paywall and make app free](https://www.reddit.com/r/androiddev/comments/vlshxr/question_disable_all_recurring_play_inapp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
