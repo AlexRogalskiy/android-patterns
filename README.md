@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trying to access files written on the emulator so that i can analyze the data on my computer. Do you know where I can find the data stored to file.txt?](https://www.reddit.com/r/androiddev/comments/vm4608/trying_to_access_files_written_on_the_emulator_so/)
-- [Mobile App Security Questions and Practices](https://www.reddit.com/r/androiddev/comments/vm2nll/mobile_app_security_questions_and_practices/)
-- [Google Android 13 Beta 3.3 started rolling for Pixel](https://www.reddit.com/r/androiddev/comments/vm21ja/google_android_13_beta_33_started_rolling_for/)
-- [Google Play data safety and Firebase/Google Play services](https://www.reddit.com/r/androiddev/comments/vm0vty/google_play_data_safety_and_firebasegoogle_play/)
-- [Android Studio Electric Eel Canary 6 now available](https://www.reddit.com/r/androiddev/comments/vm06yt/android_studio_electric_eel_canary_6_now_available/)
-- [Do Google trackers in apps matter if you&#39;re deGoogled &lpar;no google services or apps on your phone&rpar;?](https://www.reddit.com/r/androiddev/comments/vlxqsa/do_google_trackers_in_apps_matter_if_youre/)
-- [Weekly Who&#39;s Hiring Thread - June 27, 2022](https://www.reddit.com/r/androiddev/comments/vluygf/weekly_whos_hiring_thread_june_27_2022/)
-- [Weekly discussion, code review, and feedback thread - June 27, 2022](https://www.reddit.com/r/androiddev/comments/vltuvx/weekly_discussion_code_review_and_feedback_thread/)
-- [Jetpack compose Bottom sheet with TabBar](https://www.reddit.com/r/androiddev/comments/vltktp/jetpack_compose_bottom_sheet_with_tabbar/)
-- [Question: Disable all recurring Play In-App subscription transactions, remove paywall and make app free](https://www.reddit.com/r/androiddev/comments/vlshxr/question_disable_all_recurring_play_inapp/)
+- [Using Activity with multiple Fragments](https://www.reddit.com/r/androiddev/comments/vn59jf/using_activity_with_multiple_fragments/)
+- [Where can i rent real android devices?](https://www.reddit.com/r/androiddev/comments/vn4wbj/where_can_i_rent_real_android_devices/)
+- [Screen response time. A critical metric for user experience](https://www.reddit.com/r/androiddev/comments/vn3qc9/screen_response_time_a_critical_metric_for_user/)
+- [I&#39;m self-studying to learn Android development. I know a little Java, but my Java skills need work. Should I polish up my Java, or start fresh with Kotlin?](https://www.reddit.com/r/androiddev/comments/vn2kdv/im_selfstudying_to_learn_android_development_i/)
+- [Android System Logs](https://www.reddit.com/r/androiddev/comments/vn2d6r/android_system_logs/)
+- [Server driven UI](https://www.reddit.com/r/androiddev/comments/vmxk1z/server_driven_ui/)
+- [Google Maps API cost](https://www.reddit.com/r/androiddev/comments/vmvj6r/google_maps_api_cost/)
+- [If Android is supposed to be open, then why can&#39;t one get any programming language one wants?](https://www.reddit.com/r/androiddev/comments/vmvcc7/if_android_is_supposed_to_be_open_then_why_cant/)
+- [Codespector plugin](https://www.reddit.com/r/androiddev/comments/vmu6j2/codespector_plugin/)
+- [How to access resources from app module](https://www.reddit.com/r/androiddev/comments/vmt443/how_to_access_resources_from_app_module/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
