@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using Activity with multiple Fragments](https://www.reddit.com/r/androiddev/comments/vn59jf/using_activity_with_multiple_fragments/)
-- [Where can i rent real android devices?](https://www.reddit.com/r/androiddev/comments/vn4wbj/where_can_i_rent_real_android_devices/)
-- [Screen response time. A critical metric for user experience](https://www.reddit.com/r/androiddev/comments/vn3qc9/screen_response_time_a_critical_metric_for_user/)
-- [I&#39;m self-studying to learn Android development. I know a little Java, but my Java skills need work. Should I polish up my Java, or start fresh with Kotlin?](https://www.reddit.com/r/androiddev/comments/vn2kdv/im_selfstudying_to_learn_android_development_i/)
-- [Android System Logs](https://www.reddit.com/r/androiddev/comments/vn2d6r/android_system_logs/)
-- [Server driven UI](https://www.reddit.com/r/androiddev/comments/vmxk1z/server_driven_ui/)
-- [Google Maps API cost](https://www.reddit.com/r/androiddev/comments/vmvj6r/google_maps_api_cost/)
-- [If Android is supposed to be open, then why can&#39;t one get any programming language one wants?](https://www.reddit.com/r/androiddev/comments/vmvcc7/if_android_is_supposed_to_be_open_then_why_cant/)
-- [Codespector plugin](https://www.reddit.com/r/androiddev/comments/vmu6j2/codespector_plugin/)
-- [How to access resources from app module](https://www.reddit.com/r/androiddev/comments/vmt443/how_to_access_resources_from_app_module/)
+- [how to make a real time filter in camerax?](https://www.reddit.com/r/androiddev/comments/vnuprt/how_to_make_a_real_time_filter_in_camerax/)
+- [How does the Google Play Integrity API quota work?](https://www.reddit.com/r/androiddev/comments/vnu943/how_does_the_google_play_integrity_api_quota_work/)
+- [Please roast my code. I want some feedback on a small app I will use to apply for jobs &lpar;looking for junior-intermediate positions&rpar;](https://www.reddit.com/r/androiddev/comments/vnravc/please_roast_my_code_i_want_some_feedback_on_a/)
+- [How to make app support more devices?](https://www.reddit.com/r/androiddev/comments/vnr2b8/how_to_make_app_support_more_devices/)
+- [Applovin: No fillrate exists?!](https://www.reddit.com/r/androiddev/comments/vnqmup/applovin_no_fillrate_exists/)
+- [MapView is confusing the hell outta me: How do I retain the state?](https://www.reddit.com/r/androiddev/comments/vnoqif/mapview_is_confusing_the_hell_outta_me_how_do_i/)
+- [Google Play Store App review process](https://www.reddit.com/r/androiddev/comments/vnom0u/google_play_store_app_review_process/)
+- [How to protect user data against those who wants to access app data?](https://www.reddit.com/r/androiddev/comments/vnn93o/how_to_protect_user_data_against_those_who_wants/)
+- [How to log bitrate and stall in a programmatic way on Youtube android app?](https://www.reddit.com/r/androiddev/comments/vnm4d9/how_to_log_bitrate_and_stall_in_a_programmatic/)
+- [Using Unity Ads in my app](https://www.reddit.com/r/androiddev/comments/vnljgk/using_unity_ads_in_my_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
