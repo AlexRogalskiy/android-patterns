@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [how to make a real time filter in camerax?](https://www.reddit.com/r/androiddev/comments/vnuprt/how_to_make_a_real_time_filter_in_camerax/)
-- [How does the Google Play Integrity API quota work?](https://www.reddit.com/r/androiddev/comments/vnu943/how_does_the_google_play_integrity_api_quota_work/)
-- [Please roast my code. I want some feedback on a small app I will use to apply for jobs &lpar;looking for junior-intermediate positions&rpar;](https://www.reddit.com/r/androiddev/comments/vnravc/please_roast_my_code_i_want_some_feedback_on_a/)
-- [How to make app support more devices?](https://www.reddit.com/r/androiddev/comments/vnr2b8/how_to_make_app_support_more_devices/)
-- [Applovin: No fillrate exists?!](https://www.reddit.com/r/androiddev/comments/vnqmup/applovin_no_fillrate_exists/)
-- [MapView is confusing the hell outta me: How do I retain the state?](https://www.reddit.com/r/androiddev/comments/vnoqif/mapview_is_confusing_the_hell_outta_me_how_do_i/)
-- [Google Play Store App review process](https://www.reddit.com/r/androiddev/comments/vnom0u/google_play_store_app_review_process/)
-- [How to protect user data against those who wants to access app data?](https://www.reddit.com/r/androiddev/comments/vnn93o/how_to_protect_user_data_against_those_who_wants/)
-- [How to log bitrate and stall in a programmatic way on Youtube android app?](https://www.reddit.com/r/androiddev/comments/vnm4d9/how_to_log_bitrate_and_stall_in_a_programmatic/)
-- [Using Unity Ads in my app](https://www.reddit.com/r/androiddev/comments/vnljgk/using_unity_ads_in_my_app/)
+- [Work profile vs. New user...which is more private?](https://www.reddit.com/r/androiddev/comments/vomfhm/work_profile_vs_new_userwhich_is_more_private/)
+- [How do you flash a phone to install a previous version of Android?](https://www.reddit.com/r/androiddev/comments/vojzmi/how_do_you_flash_a_phone_to_install_a_previous/)
+- [Most In demand apps requirement?](https://www.reddit.com/r/androiddev/comments/voidom/most_in_demand_apps_requirement/)
+- [Good afternoon!](https://www.reddit.com/r/androiddev/comments/voi4zp/good_afternoon/)
+- [Android Studio Electric Eel Canary 7 now available](https://www.reddit.com/r/androiddev/comments/vohd4r/android_studio_electric_eel_canary_7_now_available/)
+- [does android multi tools unlock passcode](https://www.reddit.com/r/androiddev/comments/voh1cc/does_android_multi_tools_unlock_passcode/)
+- [Need help with step counter in my app.](https://www.reddit.com/r/androiddev/comments/vogd9w/need_help_with_step_counter_in_my_app/)
+- [What skills are needed for becoming a Lead Engineer in Android application development?](https://www.reddit.com/r/androiddev/comments/voe516/what_skills_are_needed_for_becoming_a_lead/)
+- [Schedule Image Displaying In Glance Widget With Work Manager API](https://www.reddit.com/r/androiddev/comments/voc3dd/schedule_image_displaying_in_glance_widget_with/)
+- [To improve my coding skills, I want to build some exciting android projects, any suggestions developers???](https://www.reddit.com/r/androiddev/comments/vob41m/to_improve_my_coding_skills_i_want_to_build_some/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
