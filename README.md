@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Work profile vs. New user...which is more private?](https://www.reddit.com/r/androiddev/comments/vomfhm/work_profile_vs_new_userwhich_is_more_private/)
-- [How do you flash a phone to install a previous version of Android?](https://www.reddit.com/r/androiddev/comments/vojzmi/how_do_you_flash_a_phone_to_install_a_previous/)
-- [Most In demand apps requirement?](https://www.reddit.com/r/androiddev/comments/voidom/most_in_demand_apps_requirement/)
-- [Good afternoon!](https://www.reddit.com/r/androiddev/comments/voi4zp/good_afternoon/)
-- [Android Studio Electric Eel Canary 7 now available](https://www.reddit.com/r/androiddev/comments/vohd4r/android_studio_electric_eel_canary_7_now_available/)
-- [does android multi tools unlock passcode](https://www.reddit.com/r/androiddev/comments/voh1cc/does_android_multi_tools_unlock_passcode/)
-- [Need help with step counter in my app.](https://www.reddit.com/r/androiddev/comments/vogd9w/need_help_with_step_counter_in_my_app/)
-- [What skills are needed for becoming a Lead Engineer in Android application development?](https://www.reddit.com/r/androiddev/comments/voe516/what_skills_are_needed_for_becoming_a_lead/)
-- [Schedule Image Displaying In Glance Widget With Work Manager API](https://www.reddit.com/r/androiddev/comments/voc3dd/schedule_image_displaying_in_glance_widget_with/)
-- [To improve my coding skills, I want to build some exciting android projects, any suggestions developers???](https://www.reddit.com/r/androiddev/comments/vob41m/to_improve_my_coding_skills_i_want_to_build_some/)
+- [Working from a different computer&lpar;?&rpar;](https://www.reddit.com/r/androiddev/comments/vpek1h/working_from_a_different_computer/)
+- [What&#39;s the best app for drawing UIs with a stylus?](https://www.reddit.com/r/androiddev/comments/vpdfjk/whats_the_best_app_for_drawing_uis_with_a_stylus/)
+- [How to sign android app with an upload key without password?](https://www.reddit.com/r/androiddev/comments/vp9q2n/how_to_sign_android_app_with_an_upload_key/)
+- [Easily create an android cloud emulator with Terraform.](https://www.reddit.com/r/androiddev/comments/vp967d/easily_create_an_android_cloud_emulator_with/)
+- [Efficiently observing state change in Fragment](https://www.reddit.com/r/androiddev/comments/vp81es/efficiently_observing_state_change_in_fragment/)
+- [What are some good libraries for animated text?](https://www.reddit.com/r/androiddev/comments/vp6sa5/what_are_some_good_libraries_for_animated_text/)
+- [New major Jetpack release with Lifecycle 2.5.0 to support ViewModel creation extras, and SavedStateHandle with getStateFlow support](https://www.reddit.com/r/androiddev/comments/vp6s2b/new_major_jetpack_release_with_lifecycle_250_to/)
+- [Advice for a first project](https://www.reddit.com/r/androiddev/comments/vp57mw/advice_for_a_first_project/)
+- [is it possible to save toggle icon state in database?](https://www.reddit.com/r/androiddev/comments/vp4oz7/is_it_possible_to_save_toggle_icon_state_in/)
+- [Debugging with Hilt / Dagger / Dependency Injection](https://www.reddit.com/r/androiddev/comments/vp4gln/debugging_with_hilt_dagger_dependency_injection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
