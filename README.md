@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Working from a different computer&lpar;?&rpar;](https://www.reddit.com/r/androiddev/comments/vpek1h/working_from_a_different_computer/)
-- [What&#39;s the best app for drawing UIs with a stylus?](https://www.reddit.com/r/androiddev/comments/vpdfjk/whats_the_best_app_for_drawing_uis_with_a_stylus/)
-- [How to sign android app with an upload key without password?](https://www.reddit.com/r/androiddev/comments/vp9q2n/how_to_sign_android_app_with_an_upload_key/)
-- [Easily create an android cloud emulator with Terraform.](https://www.reddit.com/r/androiddev/comments/vp967d/easily_create_an_android_cloud_emulator_with/)
-- [Efficiently observing state change in Fragment](https://www.reddit.com/r/androiddev/comments/vp81es/efficiently_observing_state_change_in_fragment/)
-- [What are some good libraries for animated text?](https://www.reddit.com/r/androiddev/comments/vp6sa5/what_are_some_good_libraries_for_animated_text/)
-- [New major Jetpack release with Lifecycle 2.5.0 to support ViewModel creation extras, and SavedStateHandle with getStateFlow support](https://www.reddit.com/r/androiddev/comments/vp6s2b/new_major_jetpack_release_with_lifecycle_250_to/)
-- [Advice for a first project](https://www.reddit.com/r/androiddev/comments/vp57mw/advice_for_a_first_project/)
-- [is it possible to save toggle icon state in database?](https://www.reddit.com/r/androiddev/comments/vp4oz7/is_it_possible_to_save_toggle_icon_state_in/)
-- [Debugging with Hilt / Dagger / Dependency Injection](https://www.reddit.com/r/androiddev/comments/vp4gln/debugging_with_hilt_dagger_dependency_injection/)
+- [Create your own Cloud Emulator service with just a CSV using Terragrunt](https://www.reddit.com/r/androiddev/comments/vq7i9l/create_your_own_cloud_emulator_service_with_just/)
+- [Where can I find Android WebRTC API?](https://www.reddit.com/r/androiddev/comments/vpzpv3/where_can_i_find_android_webrtc_api/)
+- [Free authentication and email verification service provider besides Google firebase for Android?](https://www.reddit.com/r/androiddev/comments/vpzpc7/free_authentication_and_email_verification/)
+- [Compose not properly resizing after rotation](https://www.reddit.com/r/androiddev/comments/vpy4ll/compose_not_properly_resizing_after_rotation/)
+- [Do you use Linux for Android Development ?](https://www.reddit.com/r/androiddev/comments/vpxtog/do_you_use_linux_for_android_development/)
+- [Second Bachelors in CS or focus on Android dev](https://www.reddit.com/r/androiddev/comments/vpwv9q/second_bachelors_in_cs_or_focus_on_android_dev/)
+- [Is there an ADB command to enable that permission? I didn&#39;t find anything on the internet or the android &lpar;dev&rpar; discord servers.](https://www.reddit.com/r/androiddev/comments/vpwofy/is_there_an_adb_command_to_enable_that_permission/)
+- [AdMob is making me lose my mind. Any ideas?](https://www.reddit.com/r/androiddev/comments/vpwfa8/admob_is_making_me_lose_my_mind_any_ideas/)
+- [why android studio shows trust project pop up whenever I clone a git repo?](https://www.reddit.com/r/androiddev/comments/vpw3ol/why_android_studio_shows_trust_project_pop_up/)
+- [Do you use IOS for personal use, even if you prefer Android Development?](https://www.reddit.com/r/androiddev/comments/vpsk4f/do_you_use_ios_for_personal_use_even_if_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
