@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Create your own Cloud Emulator service with just a CSV using Terragrunt](https://www.reddit.com/r/androiddev/comments/vq7i9l/create_your_own_cloud_emulator_service_with_just/)
-- [Where can I find Android WebRTC API?](https://www.reddit.com/r/androiddev/comments/vpzpv3/where_can_i_find_android_webrtc_api/)
-- [Free authentication and email verification service provider besides Google firebase for Android?](https://www.reddit.com/r/androiddev/comments/vpzpc7/free_authentication_and_email_verification/)
-- [Compose not properly resizing after rotation](https://www.reddit.com/r/androiddev/comments/vpy4ll/compose_not_properly_resizing_after_rotation/)
-- [Do you use Linux for Android Development ?](https://www.reddit.com/r/androiddev/comments/vpxtog/do_you_use_linux_for_android_development/)
-- [Second Bachelors in CS or focus on Android dev](https://www.reddit.com/r/androiddev/comments/vpwv9q/second_bachelors_in_cs_or_focus_on_android_dev/)
-- [Is there an ADB command to enable that permission? I didn&#39;t find anything on the internet or the android &lpar;dev&rpar; discord servers.](https://www.reddit.com/r/androiddev/comments/vpwofy/is_there_an_adb_command_to_enable_that_permission/)
-- [AdMob is making me lose my mind. Any ideas?](https://www.reddit.com/r/androiddev/comments/vpwfa8/admob_is_making_me_lose_my_mind_any_ideas/)
-- [why android studio shows trust project pop up whenever I clone a git repo?](https://www.reddit.com/r/androiddev/comments/vpw3ol/why_android_studio_shows_trust_project_pop_up/)
-- [Do you use IOS for personal use, even if you prefer Android Development?](https://www.reddit.com/r/androiddev/comments/vpsk4f/do_you_use_ios_for_personal_use_even_if_you/)
+- [Create drive image of Android](https://www.reddit.com/r/androiddev/comments/vqxdsg/create_drive_image_of_android/)
+- [&lt;rant&gt; Tutorials are frustrating!](https://www.reddit.com/r/androiddev/comments/vquf6u/rant_tutorials_are_frustrating/)
+- [New library: APK-parser , revived](https://www.reddit.com/r/androiddev/comments/vqsyu2/new_library_apkparser_revived/)
+- [Modifying Key Layout File in System/etc/keylayouts](https://www.reddit.com/r/androiddev/comments/vqs1bj/modifying_key_layout_file_in_systemetckeylayouts/)
+- [Correctly handling dependencies for utility libraries](https://www.reddit.com/r/androiddev/comments/vqp2v5/correctly_handling_dependencies_for_utility/)
+- [OpenGL ES rendering optimization using VRS on Adreno GPUs](https://www.reddit.com/r/androiddev/comments/vqokxl/opengl_es_rendering_optimization_using_vrs_on/)
+- [How to use PreferenceScreen for widget configuration?](https://www.reddit.com/r/androiddev/comments/vqnyu6/how_to_use_preferencescreen_for_widget/)
+- [How to use a material theme scheme outside of composable?](https://www.reddit.com/r/androiddev/comments/vqmilo/how_to_use_a_material_theme_scheme_outside_of/)
+- [Automated screenshots using Fastlane: Switch to dark mode](https://www.reddit.com/r/androiddev/comments/vqkp6c/automated_screenshots_using_fastlane_switch_to/)
+- [When I click on submit button for the 1st time, I get infinity, then I click again and I get the correct answer...Why?](https://www.reddit.com/r/androiddev/comments/vqhi13/when_i_click_on_submit_button_for_the_1st_time_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
