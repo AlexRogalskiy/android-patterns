@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Create drive image of Android](https://www.reddit.com/r/androiddev/comments/vqxdsg/create_drive_image_of_android/)
-- [&lt;rant&gt; Tutorials are frustrating!](https://www.reddit.com/r/androiddev/comments/vquf6u/rant_tutorials_are_frustrating/)
-- [New library: APK-parser , revived](https://www.reddit.com/r/androiddev/comments/vqsyu2/new_library_apkparser_revived/)
-- [Modifying Key Layout File in System/etc/keylayouts](https://www.reddit.com/r/androiddev/comments/vqs1bj/modifying_key_layout_file_in_systemetckeylayouts/)
-- [Correctly handling dependencies for utility libraries](https://www.reddit.com/r/androiddev/comments/vqp2v5/correctly_handling_dependencies_for_utility/)
-- [OpenGL ES rendering optimization using VRS on Adreno GPUs](https://www.reddit.com/r/androiddev/comments/vqokxl/opengl_es_rendering_optimization_using_vrs_on/)
-- [How to use PreferenceScreen for widget configuration?](https://www.reddit.com/r/androiddev/comments/vqnyu6/how_to_use_preferencescreen_for_widget/)
-- [How to use a material theme scheme outside of composable?](https://www.reddit.com/r/androiddev/comments/vqmilo/how_to_use_a_material_theme_scheme_outside_of/)
-- [Automated screenshots using Fastlane: Switch to dark mode](https://www.reddit.com/r/androiddev/comments/vqkp6c/automated_screenshots_using_fastlane_switch_to/)
-- [When I click on submit button for the 1st time, I get infinity, then I click again and I get the correct answer...Why?](https://www.reddit.com/r/androiddev/comments/vqhi13/when_i_click_on_submit_button_for_the_1st_time_i/)
+- [Accurately calculating stairs / flights / floors climbed in android?](https://www.reddit.com/r/androiddev/comments/vrmhv0/accurately_calculating_stairs_flights_floors/)
+- [Can we talk about how hard it is to make an app designed like this?](https://www.reddit.com/r/androiddev/comments/vrie7w/can_we_talk_about_how_hard_it_is_to_make_an_app/)
+- [how to make my phone appear as a pc](https://www.reddit.com/r/androiddev/comments/vri5is/how_to_make_my_phone_appear_as_a_pc/)
+- [Most commonly lacking trait for Android Dev roles](https://www.reddit.com/r/androiddev/comments/vrffm4/most_commonly_lacking_trait_for_android_dev_roles/)
+- [Best way to download a kinda big file](https://www.reddit.com/r/androiddev/comments/vrabto/best_way_to_download_a_kinda_big_file/)
+- [Crypto currency tracker with jetpack compose](https://www.reddit.com/r/androiddev/comments/vr9zvd/crypto_currency_tracker_with_jetpack_compose/)
+- [Android ObjectAnimator position](https://www.reddit.com/r/androiddev/comments/vr9ymm/android_objectanimator_position/)
+- [Error: AVD not created](https://www.reddit.com/r/androiddev/comments/vr7qzs/error_avd_not_created/)
+- [Android Dev resources](https://www.reddit.com/r/androiddev/comments/vr7j7z/android_dev_resources/)
+- [Setting macros to switch to an app at certain intervals of every hour](https://www.reddit.com/r/androiddev/comments/vr7dm4/setting_macros_to_switch_to_an_app_at_certain/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
