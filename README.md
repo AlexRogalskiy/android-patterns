@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Accurately calculating stairs / flights / floors climbed in android?](https://www.reddit.com/r/androiddev/comments/vrmhv0/accurately_calculating_stairs_flights_floors/)
-- [Can we talk about how hard it is to make an app designed like this?](https://www.reddit.com/r/androiddev/comments/vrie7w/can_we_talk_about_how_hard_it_is_to_make_an_app/)
-- [how to make my phone appear as a pc](https://www.reddit.com/r/androiddev/comments/vri5is/how_to_make_my_phone_appear_as_a_pc/)
-- [Most commonly lacking trait for Android Dev roles](https://www.reddit.com/r/androiddev/comments/vrffm4/most_commonly_lacking_trait_for_android_dev_roles/)
-- [Best way to download a kinda big file](https://www.reddit.com/r/androiddev/comments/vrabto/best_way_to_download_a_kinda_big_file/)
-- [Crypto currency tracker with jetpack compose](https://www.reddit.com/r/androiddev/comments/vr9zvd/crypto_currency_tracker_with_jetpack_compose/)
-- [Android ObjectAnimator position](https://www.reddit.com/r/androiddev/comments/vr9ymm/android_objectanimator_position/)
-- [Error: AVD not created](https://www.reddit.com/r/androiddev/comments/vr7qzs/error_avd_not_created/)
-- [Android Dev resources](https://www.reddit.com/r/androiddev/comments/vr7j7z/android_dev_resources/)
-- [Setting macros to switch to an app at certain intervals of every hour](https://www.reddit.com/r/androiddev/comments/vr7dm4/setting_macros_to_switch_to_an_app_at_certain/)
+- [Mobile System Design Interview &lpar;Android/iOS&rpar; - This is my Opinion. You can agree or disagree 🙂.](https://www.reddit.com/r/androiddev/comments/vselju/mobile_system_design_interview_androidios_this_is/)
+- [Themes don&#39;t appear to be doing anything](https://www.reddit.com/r/androiddev/comments/vse5ao/themes_dont_appear_to_be_doing_anything/)
+- [Where is your company at with Jetpack Compose Adoption ?](https://www.reddit.com/r/androiddev/comments/vsb22h/where_is_your_company_at_with_jetpack_compose/)
+- [Getting few errors while trying to implement wifi p2p in android using kotlin](https://www.reddit.com/r/androiddev/comments/vsaxa9/getting_few_errors_while_trying_to_implement_wifi/)
+- [Is it possible to parse yyyy-MM-dd to EEEE.](https://www.reddit.com/r/androiddev/comments/vs8g7n/is_it_possible_to_parse_yyyymmdd_to_eeee/)
+- [How to implement sms permision in my app](https://www.reddit.com/r/androiddev/comments/vs84f2/how_to_implement_sms_permision_in_my_app/)
+- [Appyx - Application mechanics for your Android apps, built on top of Jetpack Compose &lpar;Navigation&rpar;](https://www.reddit.com/r/androiddev/comments/vs6ba8/appyx_application_mechanics_for_your_android_apps/)
+- [Does in-app purchase data presist even after app is reinstalled?](https://www.reddit.com/r/androiddev/comments/vs3mtz/does_inapp_purchase_data_presist_even_after_app/)
+- [Now its 1.5 months and still my admob account is showing getting ready , idk what the hell is wrong, i tried every suggestions people,blogs,youtube,etc said and still its showing me&quot; getting ready &quot;](https://www.reddit.com/r/androiddev/comments/vs372n/now_its_15_months_and_still_my_admob_account_is/)
+- [mobile dev](https://www.reddit.com/r/androiddev/comments/vs2jpr/mobile_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
