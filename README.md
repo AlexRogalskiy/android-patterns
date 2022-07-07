@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mobile System Design Interview &lpar;Android/iOS&rpar; - This is my Opinion. You can agree or disagree 🙂.](https://www.reddit.com/r/androiddev/comments/vselju/mobile_system_design_interview_androidios_this_is/)
-- [Themes don&#39;t appear to be doing anything](https://www.reddit.com/r/androiddev/comments/vse5ao/themes_dont_appear_to_be_doing_anything/)
-- [Where is your company at with Jetpack Compose Adoption ?](https://www.reddit.com/r/androiddev/comments/vsb22h/where_is_your_company_at_with_jetpack_compose/)
-- [Getting few errors while trying to implement wifi p2p in android using kotlin](https://www.reddit.com/r/androiddev/comments/vsaxa9/getting_few_errors_while_trying_to_implement_wifi/)
-- [Is it possible to parse yyyy-MM-dd to EEEE.](https://www.reddit.com/r/androiddev/comments/vs8g7n/is_it_possible_to_parse_yyyymmdd_to_eeee/)
-- [How to implement sms permision in my app](https://www.reddit.com/r/androiddev/comments/vs84f2/how_to_implement_sms_permision_in_my_app/)
-- [Appyx - Application mechanics for your Android apps, built on top of Jetpack Compose &lpar;Navigation&rpar;](https://www.reddit.com/r/androiddev/comments/vs6ba8/appyx_application_mechanics_for_your_android_apps/)
-- [Does in-app purchase data presist even after app is reinstalled?](https://www.reddit.com/r/androiddev/comments/vs3mtz/does_inapp_purchase_data_presist_even_after_app/)
-- [Now its 1.5 months and still my admob account is showing getting ready , idk what the hell is wrong, i tried every suggestions people,blogs,youtube,etc said and still its showing me&quot; getting ready &quot;](https://www.reddit.com/r/androiddev/comments/vs372n/now_its_15_months_and_still_my_admob_account_is/)
-- [mobile dev](https://www.reddit.com/r/androiddev/comments/vs2jpr/mobile_dev/)
+- [Google Play Store Review Completes in 11 Minutes for Production Release](https://www.reddit.com/r/androiddev/comments/vt2sxc/google_play_store_review_completes_in_11_minutes/)
+- [Android Studio Electric Eel Canary 8 now available](https://www.reddit.com/r/androiddev/comments/vsxjug/android_studio_electric_eel_canary_8_now_available/)
+- [ItemTouchHelper and ConcatAdapter problem](https://www.reddit.com/r/androiddev/comments/vswxh5/itemtouchhelper_and_concatadapter_problem/)
+- [Rounding in SurfaceViewRenderer](https://www.reddit.com/r/androiddev/comments/vswwui/rounding_in_surfaceviewrenderer/)
+- [Why is Compose so difficult to learn?](https://www.reddit.com/r/androiddev/comments/vswef2/why_is_compose_so_difficult_to_learn/)
+- [Is a mixer type app that has volume control over other apps&#39; &quot;media&quot; audio level possible?](https://www.reddit.com/r/androiddev/comments/vswda3/is_a_mixer_type_app_that_has_volume_control_over/)
+- [How I should approach double permission decline?](https://www.reddit.com/r/androiddev/comments/vswc0a/how_i_should_approach_double_permission_decline/)
+- [Any problems with the new androidx.activity:activity:1.5.0 ?](https://www.reddit.com/r/androiddev/comments/vsvnjn/any_problems_with_the_new/)
+- [Is Kotlin a front-end, back-end, or full-stack language for Android?](https://www.reddit.com/r/androiddev/comments/vsvk9a/is_kotlin_a_frontend_backend_or_fullstack/)
+- [How does Muver read data and interact with other apps?](https://www.reddit.com/r/androiddev/comments/vsux72/how_does_muver_read_data_and_interact_with_other/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
