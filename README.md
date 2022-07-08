@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play Store Review Completes in 11 Minutes for Production Release](https://www.reddit.com/r/androiddev/comments/vt2sxc/google_play_store_review_completes_in_11_minutes/)
-- [Android Studio Electric Eel Canary 8 now available](https://www.reddit.com/r/androiddev/comments/vsxjug/android_studio_electric_eel_canary_8_now_available/)
-- [ItemTouchHelper and ConcatAdapter problem](https://www.reddit.com/r/androiddev/comments/vswxh5/itemtouchhelper_and_concatadapter_problem/)
-- [Rounding in SurfaceViewRenderer](https://www.reddit.com/r/androiddev/comments/vswwui/rounding_in_surfaceviewrenderer/)
-- [Why is Compose so difficult to learn?](https://www.reddit.com/r/androiddev/comments/vswef2/why_is_compose_so_difficult_to_learn/)
-- [Is a mixer type app that has volume control over other apps&#39; &quot;media&quot; audio level possible?](https://www.reddit.com/r/androiddev/comments/vswda3/is_a_mixer_type_app_that_has_volume_control_over/)
-- [How I should approach double permission decline?](https://www.reddit.com/r/androiddev/comments/vswc0a/how_i_should_approach_double_permission_decline/)
-- [Any problems with the new androidx.activity:activity:1.5.0 ?](https://www.reddit.com/r/androiddev/comments/vsvnjn/any_problems_with_the_new/)
-- [Is Kotlin a front-end, back-end, or full-stack language for Android?](https://www.reddit.com/r/androiddev/comments/vsvk9a/is_kotlin_a_frontend_backend_or_fullstack/)
-- [How does Muver read data and interact with other apps?](https://www.reddit.com/r/androiddev/comments/vsux72/how_does_muver_read_data_and_interact_with_other/)
+- [B2B applications](https://www.reddit.com/r/androiddev/comments/vtzr4y/b2b_applications/)
+- [Get ready for Chicago Roboto 2022!](https://www.reddit.com/r/androiddev/comments/vtzjen/get_ready_for_chicago_roboto_2022/)
+- [Describing skills &amp; projects in Resume](https://www.reddit.com/r/androiddev/comments/vtzb9m/describing_skills_projects_in_resume/)
+- [Back press behavior](https://www.reddit.com/r/androiddev/comments/vtywu0/back_press_behavior/)
+- [Data Transfer: PC to Android to Cloud](https://www.reddit.com/r/androiddev/comments/vtydlf/data_transfer_pc_to_android_to_cloud/)
+- [Behaviour Interview Discussion &lpar;https://youtu.be/uNURFrQeQyg&rpar;](https://www.reddit.com/r/androiddev/comments/vtx9zr/behaviour_interview_discussion/)
+- [Should LiveData be used for &quot;instant&quot; updates to UI?](https://www.reddit.com/r/androiddev/comments/vtvrgf/should_livedata_be_used_for_instant_updates_to_ui/)
+- [Android Studio Dolphin Beta 5 now available](https://www.reddit.com/r/androiddev/comments/vtvhvs/android_studio_dolphin_beta_5_now_available/)
+- [8in Lenovo M8 Tablet shows phone layouts and not tablet layouts](https://www.reddit.com/r/androiddev/comments/vtrxu0/8in_lenovo_m8_tablet_shows_phone_layouts_and_not/)
+- [Is there a way to convert a pending intent from a notification into a normal intent?](https://www.reddit.com/r/androiddev/comments/vtqv19/is_there_a_way_to_convert_a_pending_intent_from_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
