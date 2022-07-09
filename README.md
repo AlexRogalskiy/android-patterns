@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [B2B applications](https://www.reddit.com/r/androiddev/comments/vtzr4y/b2b_applications/)
-- [Get ready for Chicago Roboto 2022!](https://www.reddit.com/r/androiddev/comments/vtzjen/get_ready_for_chicago_roboto_2022/)
-- [Describing skills &amp; projects in Resume](https://www.reddit.com/r/androiddev/comments/vtzb9m/describing_skills_projects_in_resume/)
-- [Back press behavior](https://www.reddit.com/r/androiddev/comments/vtywu0/back_press_behavior/)
-- [Data Transfer: PC to Android to Cloud](https://www.reddit.com/r/androiddev/comments/vtydlf/data_transfer_pc_to_android_to_cloud/)
-- [Behaviour Interview Discussion &lpar;https://youtu.be/uNURFrQeQyg&rpar;](https://www.reddit.com/r/androiddev/comments/vtx9zr/behaviour_interview_discussion/)
-- [Should LiveData be used for &quot;instant&quot; updates to UI?](https://www.reddit.com/r/androiddev/comments/vtvrgf/should_livedata_be_used_for_instant_updates_to_ui/)
-- [Android Studio Dolphin Beta 5 now available](https://www.reddit.com/r/androiddev/comments/vtvhvs/android_studio_dolphin_beta_5_now_available/)
-- [8in Lenovo M8 Tablet shows phone layouts and not tablet layouts](https://www.reddit.com/r/androiddev/comments/vtrxu0/8in_lenovo_m8_tablet_shows_phone_layouts_and_not/)
-- [Is there a way to convert a pending intent from a notification into a normal intent?](https://www.reddit.com/r/androiddev/comments/vtqv19/is_there_a_way_to_convert_a_pending_intent_from_a/)
+- [Change Date &amp; Time With App?](https://www.reddit.com/r/androiddev/comments/vuoawf/change_date_time_with_app/)
+- [Is this fine what I am doing with viewmodels](https://www.reddit.com/r/androiddev/comments/vujrbl/is_this_fine_what_i_am_doing_with_viewmodels/)
+- [Android 13 beta Extreme Battery Saver dialogue bug](https://www.reddit.com/r/androiddev/comments/vuhxc5/android_13_beta_extreme_battery_saver_dialogue_bug/)
+- [ERP and CRM](https://www.reddit.com/r/androiddev/comments/vuh5mx/erp_and_crm/)
+- [Can&#39;t verify ownership of the game on android &lpar;Facebook Ads&rpar;, please help guys.](https://www.reddit.com/r/androiddev/comments/vugnq7/cant_verify_ownership_of_the_game_on_android/)
+- [A beautiful and fascinating app or game caught my attention](https://www.reddit.com/r/androiddev/comments/vugmjt/a_beautiful_and_fascinating_app_or_game_caught_my/)
+- [How can I calculate SQL &lpar;Room in Android&rpar; query time?](https://www.reddit.com/r/androiddev/comments/vudmda/how_can_i_calculate_sql_room_in_android_query_time/)
+- [How do I extract my boot.img if I have root but no TWRP available?](https://www.reddit.com/r/androiddev/comments/vud900/how_do_i_extract_my_bootimg_if_i_have_root_but_no/)
+- [Does &quot;Android Vitals&quot; in the Play Store automatically work or am I missing something?](https://www.reddit.com/r/androiddev/comments/vucvn0/does_android_vitals_in_the_play_store/)
+- [Further learning...](https://www.reddit.com/r/androiddev/comments/vucrap/further_learning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
