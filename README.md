@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Change Date &amp; Time With App?](https://www.reddit.com/r/androiddev/comments/vuoawf/change_date_time_with_app/)
-- [Is this fine what I am doing with viewmodels](https://www.reddit.com/r/androiddev/comments/vujrbl/is_this_fine_what_i_am_doing_with_viewmodels/)
-- [Android 13 beta Extreme Battery Saver dialogue bug](https://www.reddit.com/r/androiddev/comments/vuhxc5/android_13_beta_extreme_battery_saver_dialogue_bug/)
-- [ERP and CRM](https://www.reddit.com/r/androiddev/comments/vuh5mx/erp_and_crm/)
-- [Can&#39;t verify ownership of the game on android &lpar;Facebook Ads&rpar;, please help guys.](https://www.reddit.com/r/androiddev/comments/vugnq7/cant_verify_ownership_of_the_game_on_android/)
-- [A beautiful and fascinating app or game caught my attention](https://www.reddit.com/r/androiddev/comments/vugmjt/a_beautiful_and_fascinating_app_or_game_caught_my/)
-- [How can I calculate SQL &lpar;Room in Android&rpar; query time?](https://www.reddit.com/r/androiddev/comments/vudmda/how_can_i_calculate_sql_room_in_android_query_time/)
-- [How do I extract my boot.img if I have root but no TWRP available?](https://www.reddit.com/r/androiddev/comments/vud900/how_do_i_extract_my_bootimg_if_i_have_root_but_no/)
-- [Does &quot;Android Vitals&quot; in the Play Store automatically work or am I missing something?](https://www.reddit.com/r/androiddev/comments/vucvn0/does_android_vitals_in_the_play_store/)
-- [Further learning...](https://www.reddit.com/r/androiddev/comments/vucrap/further_learning/)
+- [Admob limits causes](https://www.reddit.com/r/androiddev/comments/vvb41x/admob_limits_causes/)
+- [App deployment rejected for privacy policy](https://www.reddit.com/r/androiddev/comments/vv9uro/app_deployment_rejected_for_privacy_policy/)
+- [Recommendations for ad networks with static / short length interstitial ads?](https://www.reddit.com/r/androiddev/comments/vv8lsm/recommendations_for_ad_networks_with_static_short/)
+- [Data safety form question: how to declare data that is being shared by a &quot;share function&quot; &lpar;e.g. ShareSheet&rpar;?](https://www.reddit.com/r/androiddev/comments/vv4zyn/data_safety_form_question_how_to_declare_data/)
+- [Help with potential reasons for a Play Store ban](https://www.reddit.com/r/androiddev/comments/vv31br/help_with_potential_reasons_for_a_play_store_ban/)
+- [Do you do test-based capture &amp; publish for QA? &lpar;Espresso, JUnit,..&rpar;](https://www.reddit.com/r/androiddev/comments/vv1l88/do_you_do_testbased_capture_publish_for_qa/)
+- [Is it possible to create an offline version of an app with the APK?](https://www.reddit.com/r/androiddev/comments/vuzdiy/is_it_possible_to_create_an_offline_version_of_an/)
+- [Display N inputs dynamically and navigate between them](https://www.reddit.com/r/androiddev/comments/vuy65b/display_n_inputs_dynamically_and_navigate_between/)
+- [AS 2021.2.1 Patch 1 Emulator how do I enable gestures // keyboard combinations ?](https://www.reddit.com/r/androiddev/comments/vuwl4d/as_202121_patch_1_emulator_how_do_i_enable/)
+- [Google Play Store states &quot;You will have 90 days to release your app to production after starting Pre-Registration&quot;. What happens then?](https://www.reddit.com/r/androiddev/comments/vuw0hh/google_play_store_states_you_will_have_90_days_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
