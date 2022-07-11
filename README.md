@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Admob limits causes](https://www.reddit.com/r/androiddev/comments/vvb41x/admob_limits_causes/)
-- [App deployment rejected for privacy policy](https://www.reddit.com/r/androiddev/comments/vv9uro/app_deployment_rejected_for_privacy_policy/)
-- [Recommendations for ad networks with static / short length interstitial ads?](https://www.reddit.com/r/androiddev/comments/vv8lsm/recommendations_for_ad_networks_with_static_short/)
-- [Data safety form question: how to declare data that is being shared by a &quot;share function&quot; &lpar;e.g. ShareSheet&rpar;?](https://www.reddit.com/r/androiddev/comments/vv4zyn/data_safety_form_question_how_to_declare_data/)
-- [Help with potential reasons for a Play Store ban](https://www.reddit.com/r/androiddev/comments/vv31br/help_with_potential_reasons_for_a_play_store_ban/)
-- [Do you do test-based capture &amp; publish for QA? &lpar;Espresso, JUnit,..&rpar;](https://www.reddit.com/r/androiddev/comments/vv1l88/do_you_do_testbased_capture_publish_for_qa/)
-- [Is it possible to create an offline version of an app with the APK?](https://www.reddit.com/r/androiddev/comments/vuzdiy/is_it_possible_to_create_an_offline_version_of_an/)
-- [Display N inputs dynamically and navigate between them](https://www.reddit.com/r/androiddev/comments/vuy65b/display_n_inputs_dynamically_and_navigate_between/)
-- [AS 2021.2.1 Patch 1 Emulator how do I enable gestures // keyboard combinations ?](https://www.reddit.com/r/androiddev/comments/vuwl4d/as_202121_patch_1_emulator_how_do_i_enable/)
-- [Google Play Store states &quot;You will have 90 days to release your app to production after starting Pre-Registration&quot;. What happens then?](https://www.reddit.com/r/androiddev/comments/vuw0hh/google_play_store_states_you_will_have_90_days_to/)
+- [Bottom Navigation View colors not updating based on dynamic theme](https://www.reddit.com/r/androiddev/comments/vw7i2w/bottom_navigation_view_colors_not_updating_based/)
+- [I have a paid app on Google play, I would like to change the name that appears once the user card is billed how do I do this?](https://www.reddit.com/r/androiddev/comments/vw34fu/i_have_a_paid_app_on_google_play_i_would_like_to/)
+- [Subscription promotions](https://www.reddit.com/r/androiddev/comments/vw1utj/subscription_promotions/)
+- [Huawei P30 broken screen access data without enabled debugging](https://www.reddit.com/r/androiddev/comments/vvywgr/huawei_p30_broken_screen_access_data_without/)
+- [My dream app that I think would sell: the low bandwidth browser](https://www.reddit.com/r/androiddev/comments/vvwho2/my_dream_app_that_i_think_would_sell_the_low/)
+- [Text view is overlapping the mobile navigation bar ? how to solve this issue ?](https://www.reddit.com/r/androiddev/comments/vvvwzx/text_view_is_overlapping_the_mobile_navigation/)
+- [Importing C++ code in Android](https://www.reddit.com/r/androiddev/comments/vvuwgh/importing_c_code_in_android/)
+- [How to load OpenJDK on Android?](https://www.reddit.com/r/androiddev/comments/vvrvbu/how_to_load_openjdk_on_android/)
+- [The ripple inside BottomNavigationView in my app touches the icon next to it when long-pressed on the item, How can I solve the problem?](https://www.reddit.com/r/androiddev/comments/vvr6q6/the_ripple_inside_bottomnavigationview_in_my_app/)
+- [App doesn&#39;t work on Nokia 1 in tests](https://www.reddit.com/r/androiddev/comments/vvog4m/app_doesnt_work_on_nokia_1_in_tests/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
