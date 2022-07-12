@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bottom Navigation View colors not updating based on dynamic theme](https://www.reddit.com/r/androiddev/comments/vw7i2w/bottom_navigation_view_colors_not_updating_based/)
-- [I have a paid app on Google play, I would like to change the name that appears once the user card is billed how do I do this?](https://www.reddit.com/r/androiddev/comments/vw34fu/i_have_a_paid_app_on_google_play_i_would_like_to/)
-- [Subscription promotions](https://www.reddit.com/r/androiddev/comments/vw1utj/subscription_promotions/)
-- [Huawei P30 broken screen access data without enabled debugging](https://www.reddit.com/r/androiddev/comments/vvywgr/huawei_p30_broken_screen_access_data_without/)
-- [My dream app that I think would sell: the low bandwidth browser](https://www.reddit.com/r/androiddev/comments/vvwho2/my_dream_app_that_i_think_would_sell_the_low/)
-- [Text view is overlapping the mobile navigation bar ? how to solve this issue ?](https://www.reddit.com/r/androiddev/comments/vvvwzx/text_view_is_overlapping_the_mobile_navigation/)
-- [Importing C++ code in Android](https://www.reddit.com/r/androiddev/comments/vvuwgh/importing_c_code_in_android/)
-- [How to load OpenJDK on Android?](https://www.reddit.com/r/androiddev/comments/vvrvbu/how_to_load_openjdk_on_android/)
-- [The ripple inside BottomNavigationView in my app touches the icon next to it when long-pressed on the item, How can I solve the problem?](https://www.reddit.com/r/androiddev/comments/vvr6q6/the_ripple_inside_bottomnavigationview_in_my_app/)
-- [App doesn&#39;t work on Nokia 1 in tests](https://www.reddit.com/r/androiddev/comments/vvog4m/app_doesnt_work_on_nokia_1_in_tests/)
+- [I&#39;ve got an issue when ever I type my app name &lpar;Iguhallee&rpar; in the playstore it wouldn&#39;t display like the image full screen](https://www.reddit.com/r/androiddev/comments/vwvb6u/ive_got_an_issue_when_ever_i_type_my_app_name/)
+- [Why the background color of the top bar changes automatically not as I set it? Material Design 3](https://www.reddit.com/r/androiddev/comments/vwu1gw/why_the_background_color_of_the_top_bar_changes/)
+- [Hybrid app vs a native app in 2022](https://www.reddit.com/r/androiddev/comments/vwtudk/hybrid_app_vs_a_native_app_in_2022/)
+- [Editing/Modifying Vector Drawable](https://www.reddit.com/r/androiddev/comments/vwrung/editingmodifying_vector_drawable/)
+- [Got any nocode app builder recommendations? - simple qr code scanner and email function](https://www.reddit.com/r/androiddev/comments/vwpmyj/got_any_nocode_app_builder_recommendations_simple/)
+- [What is a good pattern for non-mutable LiveData?](https://www.reddit.com/r/androiddev/comments/vwo4k1/what_is_a_good_pattern_for_nonmutable_livedata/)
+- [Storing drawable ids in room database](https://www.reddit.com/r/androiddev/comments/vwkyce/storing_drawable_ids_in_room_database/)
+- [is there a way to disable this button](https://www.reddit.com/r/androiddev/comments/vwk0ix/is_there_a_way_to_disable_this_button/)
+- [can i make decent money making android apps freelancing](https://www.reddit.com/r/androiddev/comments/vwk03t/can_i_make_decent_money_making_android_apps/)
+- [Uploaded an app to play store, have some questions:](https://www.reddit.com/r/androiddev/comments/vwi81c/uploaded_an_app_to_play_store_have_some_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
