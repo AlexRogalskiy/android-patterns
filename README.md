@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I&#39;ve got an issue when ever I type my app name &lpar;Iguhallee&rpar; in the playstore it wouldn&#39;t display like the image full screen](https://www.reddit.com/r/androiddev/comments/vwvb6u/ive_got_an_issue_when_ever_i_type_my_app_name/)
-- [Why the background color of the top bar changes automatically not as I set it? Material Design 3](https://www.reddit.com/r/androiddev/comments/vwu1gw/why_the_background_color_of_the_top_bar_changes/)
-- [Hybrid app vs a native app in 2022](https://www.reddit.com/r/androiddev/comments/vwtudk/hybrid_app_vs_a_native_app_in_2022/)
-- [Editing/Modifying Vector Drawable](https://www.reddit.com/r/androiddev/comments/vwrung/editingmodifying_vector_drawable/)
-- [Got any nocode app builder recommendations? - simple qr code scanner and email function](https://www.reddit.com/r/androiddev/comments/vwpmyj/got_any_nocode_app_builder_recommendations_simple/)
-- [What is a good pattern for non-mutable LiveData?](https://www.reddit.com/r/androiddev/comments/vwo4k1/what_is_a_good_pattern_for_nonmutable_livedata/)
-- [Storing drawable ids in room database](https://www.reddit.com/r/androiddev/comments/vwkyce/storing_drawable_ids_in_room_database/)
-- [is there a way to disable this button](https://www.reddit.com/r/androiddev/comments/vwk0ix/is_there_a_way_to_disable_this_button/)
-- [can i make decent money making android apps freelancing](https://www.reddit.com/r/androiddev/comments/vwk03t/can_i_make_decent_money_making_android_apps/)
-- [Uploaded an app to play store, have some questions:](https://www.reddit.com/r/androiddev/comments/vwi81c/uploaded_an_app_to_play_store_have_some_questions/)
+- [Looking to change careers](https://www.reddit.com/r/androiddev/comments/vxsn2t/looking_to_change_careers/)
+- [App update got rejected.](https://www.reddit.com/r/androiddev/comments/vxpxnt/app_update_got_rejected/)
+- [Is &#39;Leave a review on Trustpilot&#39; link allowed in-app?](https://www.reddit.com/r/androiddev/comments/vxn781/is_leave_a_review_on_trustpilot_link_allowed_inapp/)
+- [We found that your manifest file contains the REQUEST_INSTALL_PACKAGES permission, But my app does not use this permission](https://www.reddit.com/r/androiddev/comments/vxmbwz/we_found_that_your_manifest_file_contains_the/)
+- [on my phone the correct pattern wont work does anyone know why](https://www.reddit.com/r/androiddev/comments/vxlutd/on_my_phone_the_correct_pattern_wont_work_does/)
+- [what type of stream do video-streaming services use?](https://www.reddit.com/r/androiddev/comments/vxkqmg/what_type_of_stream_do_videostreaming_services_use/)
+- [Questions about Google Data Safety Form](https://www.reddit.com/r/androiddev/comments/vxka4d/questions_about_google_data_safety_form/)
+- [Low entry barrier to android Dev](https://www.reddit.com/r/androiddev/comments/vxevkm/low_entry_barrier_to_android_dev/)
+- [Great milestone for us — Donut Punks has reached 1 million installs.](https://www.reddit.com/r/androiddev/comments/vxekby/great_milestone_for_us_donut_punks_has_reached_1/)
+- [Line cant be seen in LineGraph](https://www.reddit.com/r/androiddev/comments/vxe44t/line_cant_be_seen_in_linegraph/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
