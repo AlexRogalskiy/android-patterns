@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking to change careers](https://www.reddit.com/r/androiddev/comments/vxsn2t/looking_to_change_careers/)
-- [App update got rejected.](https://www.reddit.com/r/androiddev/comments/vxpxnt/app_update_got_rejected/)
-- [Is &#39;Leave a review on Trustpilot&#39; link allowed in-app?](https://www.reddit.com/r/androiddev/comments/vxn781/is_leave_a_review_on_trustpilot_link_allowed_inapp/)
-- [We found that your manifest file contains the REQUEST_INSTALL_PACKAGES permission, But my app does not use this permission](https://www.reddit.com/r/androiddev/comments/vxmbwz/we_found_that_your_manifest_file_contains_the/)
-- [on my phone the correct pattern wont work does anyone know why](https://www.reddit.com/r/androiddev/comments/vxlutd/on_my_phone_the_correct_pattern_wont_work_does/)
-- [what type of stream do video-streaming services use?](https://www.reddit.com/r/androiddev/comments/vxkqmg/what_type_of_stream_do_videostreaming_services_use/)
-- [Questions about Google Data Safety Form](https://www.reddit.com/r/androiddev/comments/vxka4d/questions_about_google_data_safety_form/)
-- [Low entry barrier to android Dev](https://www.reddit.com/r/androiddev/comments/vxevkm/low_entry_barrier_to_android_dev/)
-- [Great milestone for us — Donut Punks has reached 1 million installs.](https://www.reddit.com/r/androiddev/comments/vxekby/great_milestone_for_us_donut_punks_has_reached_1/)
-- [Line cant be seen in LineGraph](https://www.reddit.com/r/androiddev/comments/vxe44t/line_cant_be_seen_in_linegraph/)
+- [Is there a good article to read to get up to speed on sleeping, dozing, and background updates?](https://www.reddit.com/r/androiddev/comments/vyk3e6/is_there_a_good_article_to_read_to_get_up_to/)
+- [BLE MTU size](https://www.reddit.com/r/androiddev/comments/vyje2o/ble_mtu_size/)
+- [Android: Reddit style nested comments implementation](https://www.reddit.com/r/androiddev/comments/vyh4hv/android_reddit_style_nested_comments/)
+- [what is this to you?](https://www.reddit.com/r/androiddev/comments/vygqma/what_is_this_to_you/)
+- [Seniors vs Juniors Android Devs](https://www.reddit.com/r/androiddev/comments/vygfu1/seniors_vs_juniors_android_devs/)
+- [Capture lambda inline](https://www.reddit.com/r/androiddev/comments/vycx6p/capture_lambda_inline/)
+- [Google Play In App Purchase Missing Credit, Can we fetch it?](https://www.reddit.com/r/androiddev/comments/vyb8oz/google_play_in_app_purchase_missing_credit_can_we/)
+- [AbstractComposeView - preview not working in old view system](https://www.reddit.com/r/androiddev/comments/vyb44w/abstractcomposeview_preview_not_working_in_old/)
+- [Android 13 Beta 4 rolled out for all Pixel devices](https://www.reddit.com/r/androiddev/comments/vy8qds/android_13_beta_4_rolled_out_for_all_pixel_devices/)
+- [function argument with default value.](https://www.reddit.com/r/androiddev/comments/vy80ia/function_argument_with_default_value/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
