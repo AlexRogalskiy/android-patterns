@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a good article to read to get up to speed on sleeping, dozing, and background updates?](https://www.reddit.com/r/androiddev/comments/vyk3e6/is_there_a_good_article_to_read_to_get_up_to/)
-- [BLE MTU size](https://www.reddit.com/r/androiddev/comments/vyje2o/ble_mtu_size/)
-- [Android: Reddit style nested comments implementation](https://www.reddit.com/r/androiddev/comments/vyh4hv/android_reddit_style_nested_comments/)
-- [what is this to you?](https://www.reddit.com/r/androiddev/comments/vygqma/what_is_this_to_you/)
-- [Seniors vs Juniors Android Devs](https://www.reddit.com/r/androiddev/comments/vygfu1/seniors_vs_juniors_android_devs/)
-- [Capture lambda inline](https://www.reddit.com/r/androiddev/comments/vycx6p/capture_lambda_inline/)
-- [Google Play In App Purchase Missing Credit, Can we fetch it?](https://www.reddit.com/r/androiddev/comments/vyb8oz/google_play_in_app_purchase_missing_credit_can_we/)
-- [AbstractComposeView - preview not working in old view system](https://www.reddit.com/r/androiddev/comments/vyb44w/abstractcomposeview_preview_not_working_in_old/)
-- [Android 13 Beta 4 rolled out for all Pixel devices](https://www.reddit.com/r/androiddev/comments/vy8qds/android_13_beta_4_rolled_out_for_all_pixel_devices/)
-- [function argument with default value.](https://www.reddit.com/r/androiddev/comments/vy80ia/function_argument_with_default_value/)
+- [What is this interface?](https://www.reddit.com/r/androiddev/comments/vzbx7o/what_is_this_interface/)
+- [Operating costs of a chat app for 1000 members](https://www.reddit.com/r/androiddev/comments/vzbs4j/operating_costs_of_a_chat_app_for_1000_members/)
+- [is it that hard to land a remote job lately?](https://www.reddit.com/r/androiddev/comments/vzbnur/is_it_that_hard_to_land_a_remote_job_lately/)
+- [How can I authenticate a APK certificate?](https://www.reddit.com/r/androiddev/comments/vz9ijt/how_can_i_authenticate_a_apk_certificate/)
+- [Warehouse](https://www.reddit.com/r/androiddev/comments/vz80i4/warehouse/)
+- [Roomie: a task-sharing app for roommates in a shared apartment. Looking for teammates to create a mobile app.](https://www.reddit.com/r/androiddev/comments/vz7kb3/roomie_a_tasksharing_app_for_roommates_in_a/)
+- [Connect android app to Azure SQL cloud](https://www.reddit.com/r/androiddev/comments/vz7kal/connect_android_app_to_azure_sql_cloud/)
+- [Is it foolish to look for remote roles for my first android dev role.](https://www.reddit.com/r/androiddev/comments/vz71a4/is_it_foolish_to_look_for_remote_roles_for_my/)
+- [Requirements to be a junior Android developer?](https://www.reddit.com/r/androiddev/comments/vz6gnr/requirements_to_be_a_junior_android_developer/)
+- [How can i create a time period switch for a chart, like this?](https://www.reddit.com/r/androiddev/comments/vz6e0l/how_can_i_create_a_time_period_switch_for_a_chart/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
