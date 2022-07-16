@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is this interface?](https://www.reddit.com/r/androiddev/comments/vzbx7o/what_is_this_interface/)
-- [Operating costs of a chat app for 1000 members](https://www.reddit.com/r/androiddev/comments/vzbs4j/operating_costs_of_a_chat_app_for_1000_members/)
-- [is it that hard to land a remote job lately?](https://www.reddit.com/r/androiddev/comments/vzbnur/is_it_that_hard_to_land_a_remote_job_lately/)
-- [How can I authenticate a APK certificate?](https://www.reddit.com/r/androiddev/comments/vz9ijt/how_can_i_authenticate_a_apk_certificate/)
-- [Warehouse](https://www.reddit.com/r/androiddev/comments/vz80i4/warehouse/)
-- [Roomie: a task-sharing app for roommates in a shared apartment. Looking for teammates to create a mobile app.](https://www.reddit.com/r/androiddev/comments/vz7kb3/roomie_a_tasksharing_app_for_roommates_in_a/)
-- [Connect android app to Azure SQL cloud](https://www.reddit.com/r/androiddev/comments/vz7kal/connect_android_app_to_azure_sql_cloud/)
-- [Is it foolish to look for remote roles for my first android dev role.](https://www.reddit.com/r/androiddev/comments/vz71a4/is_it_foolish_to_look_for_remote_roles_for_my/)
-- [Requirements to be a junior Android developer?](https://www.reddit.com/r/androiddev/comments/vz6gnr/requirements_to_be_a_junior_android_developer/)
-- [How can i create a time period switch for a chart, like this?](https://www.reddit.com/r/androiddev/comments/vz6e0l/how_can_i_create_a_time_period_switch_for_a_chart/)
+- [Building Marketplace App Advice](https://www.reddit.com/r/androiddev/comments/w03yiv/building_marketplace_app_advice/)
+- [Google Map API - No Use in Customer Application Directed To Children.](https://www.reddit.com/r/androiddev/comments/w02ocv/google_map_api_no_use_in_customer_application/)
+- [Best Android Phone to invest in for testing Kotlin apps](https://www.reddit.com/r/androiddev/comments/vzwyvv/best_android_phone_to_invest_in_for_testing/)
+- [Not asking for help, just curious here](https://www.reddit.com/r/androiddev/comments/vzv7hq/not_asking_for_help_just_curious_here/)
+- [Kotlin native vs React native vs Flutter](https://www.reddit.com/r/androiddev/comments/vzuz0g/kotlin_native_vs_react_native_vs_flutter/)
+- [Subscriptions with free trials](https://www.reddit.com/r/androiddev/comments/vztr64/subscriptions_with_free_trials/)
+- [Change of &quot;Install base&quot; and acquired/lost users differ extremely](https://www.reddit.com/r/androiddev/comments/vzsg7g/change_of_install_base_and_acquiredlost_users/)
+- [Why focusRequester.requestFocus&lpar;&rpar; not showing the keyboard?](https://www.reddit.com/r/androiddev/comments/vzraqw/why_focusrequesterrequestfocus_not_showing_the/)
+- [Optimized Chessboard Pattern VectorDrawable in Kotlin](https://www.reddit.com/r/androiddev/comments/vzpy3d/optimized_chessboard_pattern_vectordrawable_in/)
+- [How long could a fragment potentially outlive its view?](https://www.reddit.com/r/androiddev/comments/vznw3x/how_long_could_a_fragment_potentially_outlive_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
