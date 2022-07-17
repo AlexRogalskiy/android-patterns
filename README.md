@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building Marketplace App Advice](https://www.reddit.com/r/androiddev/comments/w03yiv/building_marketplace_app_advice/)
-- [Google Map API - No Use in Customer Application Directed To Children.](https://www.reddit.com/r/androiddev/comments/w02ocv/google_map_api_no_use_in_customer_application/)
-- [Best Android Phone to invest in for testing Kotlin apps](https://www.reddit.com/r/androiddev/comments/vzwyvv/best_android_phone_to_invest_in_for_testing/)
-- [Not asking for help, just curious here](https://www.reddit.com/r/androiddev/comments/vzv7hq/not_asking_for_help_just_curious_here/)
-- [Kotlin native vs React native vs Flutter](https://www.reddit.com/r/androiddev/comments/vzuz0g/kotlin_native_vs_react_native_vs_flutter/)
-- [Subscriptions with free trials](https://www.reddit.com/r/androiddev/comments/vztr64/subscriptions_with_free_trials/)
-- [Change of &quot;Install base&quot; and acquired/lost users differ extremely](https://www.reddit.com/r/androiddev/comments/vzsg7g/change_of_install_base_and_acquiredlost_users/)
-- [Why focusRequester.requestFocus&lpar;&rpar; not showing the keyboard?](https://www.reddit.com/r/androiddev/comments/vzraqw/why_focusrequesterrequestfocus_not_showing_the/)
-- [Optimized Chessboard Pattern VectorDrawable in Kotlin](https://www.reddit.com/r/androiddev/comments/vzpy3d/optimized_chessboard_pattern_vectordrawable_in/)
-- [How long could a fragment potentially outlive its view?](https://www.reddit.com/r/androiddev/comments/vznw3x/how_long_could_a_fragment_potentially_outlive_its/)
+- [hi, how do you decide what app develop?, how do you get that ussers download your app ?](https://www.reddit.com/r/androiddev/comments/w0vl92/hi_how_do_you_decide_what_app_develop_how_do_you/)
+- [Good Android step-by-step app tutorials](https://www.reddit.com/r/androiddev/comments/w0usez/good_android_stepbystep_app_tutorials/)
+- [Installing Androids newer OS versions to unsupported phones?](https://www.reddit.com/r/androiddev/comments/w0snt1/installing_androids_newer_os_versions_to/)
+- [Any good material on how to work with Gradle in Android?](https://www.reddit.com/r/androiddev/comments/w0rno1/any_good_material_on_how_to_work_with_gradle_in/)
+- [FLUTTER OR KOTLIN ???PLZ HELP](https://www.reddit.com/r/androiddev/comments/w0ooz1/flutter_or_kotlin_plz_help/)
+- [Can someone explain what&#39;s going on with media store?](https://www.reddit.com/r/androiddev/comments/w0o6bk/can_someone_explain_whats_going_on_with_media/)
+- [Using retrofit, room and mvvm - should I make separated ViewModel, and ViewModelFactory class for api calls, and db calls?](https://www.reddit.com/r/androiddev/comments/w0n9j6/using_retrofit_room_and_mvvm_should_i_make/)
+- [Preferences Helper: Minimal add-on library for Preferences DataStore that provides a nicer API](https://www.reddit.com/r/androiddev/comments/w0ji4z/preferences_helper_minimal_addon_library_for/)
+- [First app pending for review in google play console since monday, is it normal?](https://www.reddit.com/r/androiddev/comments/w0i2s3/first_app_pending_for_review_in_google_play/)
+- [Is it normal to use the !! operator all over the codebase?](https://www.reddit.com/r/androiddev/comments/w0hi0w/is_it_normal_to_use_the_operator_all_over_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
