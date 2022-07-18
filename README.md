@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [hi, how do you decide what app develop?, how do you get that ussers download your app ?](https://www.reddit.com/r/androiddev/comments/w0vl92/hi_how_do_you_decide_what_app_develop_how_do_you/)
-- [Good Android step-by-step app tutorials](https://www.reddit.com/r/androiddev/comments/w0usez/good_android_stepbystep_app_tutorials/)
-- [Installing Androids newer OS versions to unsupported phones?](https://www.reddit.com/r/androiddev/comments/w0snt1/installing_androids_newer_os_versions_to/)
-- [Any good material on how to work with Gradle in Android?](https://www.reddit.com/r/androiddev/comments/w0rno1/any_good_material_on_how_to_work_with_gradle_in/)
-- [FLUTTER OR KOTLIN ???PLZ HELP](https://www.reddit.com/r/androiddev/comments/w0ooz1/flutter_or_kotlin_plz_help/)
-- [Can someone explain what&#39;s going on with media store?](https://www.reddit.com/r/androiddev/comments/w0o6bk/can_someone_explain_whats_going_on_with_media/)
-- [Using retrofit, room and mvvm - should I make separated ViewModel, and ViewModelFactory class for api calls, and db calls?](https://www.reddit.com/r/androiddev/comments/w0n9j6/using_retrofit_room_and_mvvm_should_i_make/)
-- [Preferences Helper: Minimal add-on library for Preferences DataStore that provides a nicer API](https://www.reddit.com/r/androiddev/comments/w0ji4z/preferences_helper_minimal_addon_library_for/)
-- [First app pending for review in google play console since monday, is it normal?](https://www.reddit.com/r/androiddev/comments/w0i2s3/first_app_pending_for_review_in_google_play/)
-- [Is it normal to use the !! operator all over the codebase?](https://www.reddit.com/r/androiddev/comments/w0hi0w/is_it_normal_to_use_the_operator_all_over_the/)
+- [Macbook Air M2 for Android development ?](https://www.reddit.com/r/androiddev/comments/w1oksa/macbook_air_m2_for_android_development/)
+- [What&#39;s the Current State of Android Development™?](https://www.reddit.com/r/androiddev/comments/w1ls5c/whats_the_current_state_of_android_development/)
+- [question regarding dev and earning from an app i created](https://www.reddit.com/r/androiddev/comments/w1k6dt/question_regarding_dev_and_earning_from_an_app_i/)
+- [Is Smartlook sdk safe ?](https://www.reddit.com/r/androiddev/comments/w1ii58/is_smartlook_sdk_safe/)
+- [Discount code &lpar;15%&rpar; for Chicago Roboto 2022 tickets](https://www.reddit.com/r/androiddev/comments/w1hyzo/discount_code_15_for_chicago_roboto_2022_tickets/)
+- [Receivers and Extensions - Dave Leeds on Kotlin](https://www.reddit.com/r/androiddev/comments/w1hobz/receivers_and_extensions_dave_leeds_on_kotlin/)
+- [How can I put FAB into Bottomsheet in Android Coordinator Layout](https://www.reddit.com/r/androiddev/comments/w1hdcd/how_can_i_put_fab_into_bottomsheet_in_android/)
+- [Help blocking/manage the &#39;ConnectionService&#39; to prevent Discord Voice Chat audits from a tracker app?](https://www.reddit.com/r/androiddev/comments/w1gryv/help_blockingmanage_the_connectionservice_to/)
+- [Is there any way to know when to use that particular layout over the other without actually implementing both of the layouts and understanding it visually in an app?](https://www.reddit.com/r/androiddev/comments/w1evbp/is_there_any_way_to_know_when_to_use_that/)
+- [Requiring a device to support webgl 2.](https://www.reddit.com/r/androiddev/comments/w1dez1/requiring_a_device_to_support_webgl_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
