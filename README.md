@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Macbook Air M2 for Android development ?](https://www.reddit.com/r/androiddev/comments/w1oksa/macbook_air_m2_for_android_development/)
-- [What&#39;s the Current State of Android Development™?](https://www.reddit.com/r/androiddev/comments/w1ls5c/whats_the_current_state_of_android_development/)
-- [question regarding dev and earning from an app i created](https://www.reddit.com/r/androiddev/comments/w1k6dt/question_regarding_dev_and_earning_from_an_app_i/)
-- [Is Smartlook sdk safe ?](https://www.reddit.com/r/androiddev/comments/w1ii58/is_smartlook_sdk_safe/)
-- [Discount code &lpar;15%&rpar; for Chicago Roboto 2022 tickets](https://www.reddit.com/r/androiddev/comments/w1hyzo/discount_code_15_for_chicago_roboto_2022_tickets/)
-- [Receivers and Extensions - Dave Leeds on Kotlin](https://www.reddit.com/r/androiddev/comments/w1hobz/receivers_and_extensions_dave_leeds_on_kotlin/)
-- [How can I put FAB into Bottomsheet in Android Coordinator Layout](https://www.reddit.com/r/androiddev/comments/w1hdcd/how_can_i_put_fab_into_bottomsheet_in_android/)
-- [Help blocking/manage the &#39;ConnectionService&#39; to prevent Discord Voice Chat audits from a tracker app?](https://www.reddit.com/r/androiddev/comments/w1gryv/help_blockingmanage_the_connectionservice_to/)
-- [Is there any way to know when to use that particular layout over the other without actually implementing both of the layouts and understanding it visually in an app?](https://www.reddit.com/r/androiddev/comments/w1evbp/is_there_any_way_to_know_when_to_use_that/)
-- [Requiring a device to support webgl 2.](https://www.reddit.com/r/androiddev/comments/w1dez1/requiring_a_device_to_support_webgl_2/)
+- [Do yout stil use Android Timber lib?](https://www.reddit.com/r/androiddev/comments/w2ax44/do_yout_stil_use_android_timber_lib/)
+- [Support lib namespace vs. android namespace documentation](https://www.reddit.com/r/androiddev/comments/w292wa/support_lib_namespace_vs_android_namespace/)
+- [Android Studio Emulator, lock presentation while changing pose](https://www.reddit.com/r/androiddev/comments/w26dqi/android_studio_emulator_lock_presentation_while/)
+- [Error while creating Developer account](https://www.reddit.com/r/androiddev/comments/w22ouc/error_while_creating_developer_account/)
+- [Compose library for sample image crop?](https://www.reddit.com/r/androiddev/comments/w21c5z/compose_library_for_sample_image_crop/)
+- [A library - Internet availability](https://www.reddit.com/r/androiddev/comments/w20bw9/a_library_internet_availability/)
+- [Admob ads not showing after update in play store](https://www.reddit.com/r/androiddev/comments/w20abv/admob_ads_not_showing_after_update_in_play_store/)
+- [Weekly Who&#39;s Hiring Thread - July 18, 2022](https://www.reddit.com/r/androiddev/comments/w1yrqj/weekly_whos_hiring_thread_july_18_2022/)
+- [So many new things to learn, gotta trim it down or go nuts](https://www.reddit.com/r/androiddev/comments/w1ycnv/so_many_new_things_to_learn_gotta_trim_it_down_or/)
+- [Coroutines on AppWidgetProvider&lpar;&rpar; class](https://www.reddit.com/r/androiddev/comments/w1xzlw/coroutines_on_appwidgetprovider_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
