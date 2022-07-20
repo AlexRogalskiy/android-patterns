@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do yout stil use Android Timber lib?](https://www.reddit.com/r/androiddev/comments/w2ax44/do_yout_stil_use_android_timber_lib/)
-- [Support lib namespace vs. android namespace documentation](https://www.reddit.com/r/androiddev/comments/w292wa/support_lib_namespace_vs_android_namespace/)
-- [Android Studio Emulator, lock presentation while changing pose](https://www.reddit.com/r/androiddev/comments/w26dqi/android_studio_emulator_lock_presentation_while/)
-- [Error while creating Developer account](https://www.reddit.com/r/androiddev/comments/w22ouc/error_while_creating_developer_account/)
-- [Compose library for sample image crop?](https://www.reddit.com/r/androiddev/comments/w21c5z/compose_library_for_sample_image_crop/)
-- [A library - Internet availability](https://www.reddit.com/r/androiddev/comments/w20bw9/a_library_internet_availability/)
-- [Admob ads not showing after update in play store](https://www.reddit.com/r/androiddev/comments/w20abv/admob_ads_not_showing_after_update_in_play_store/)
-- [Weekly Who&#39;s Hiring Thread - July 18, 2022](https://www.reddit.com/r/androiddev/comments/w1yrqj/weekly_whos_hiring_thread_july_18_2022/)
-- [So many new things to learn, gotta trim it down or go nuts](https://www.reddit.com/r/androiddev/comments/w1ycnv/so_many_new_things_to_learn_gotta_trim_it_down_or/)
-- [Coroutines on AppWidgetProvider&lpar;&rpar; class](https://www.reddit.com/r/androiddev/comments/w1xzlw/coroutines_on_appwidgetprovider_class/)
+- [Neither rating nor reviews are showing up for my playstore game.](https://www.reddit.com/r/androiddev/comments/w36rfm/neither_rating_nor_reviews_are_showing_up_for_my/)
+- [Any good &quot;user feedback&quot; tools where it shows a popup and then the user can write feedback and I can view it on a website?](https://www.reddit.com/r/androiddev/comments/w368lw/any_good_user_feedback_tools_where_it_shows_a/)
+- [Creating an Android Auto alternative to work with head unit?](https://www.reddit.com/r/androiddev/comments/w35hb4/creating_an_android_auto_alternative_to_work_with/)
+- [Junior Android Developer 2022 cheat sheet](https://www.reddit.com/r/androiddev/comments/w355tl/junior_android_developer_2022_cheat_sheet/)
+- [Creating a colour picker in Jetpack Compose using Canvas](https://www.reddit.com/r/androiddev/comments/w2zygy/creating_a_colour_picker_in_jetpack_compose_using/)
+- [How to creat that method?](https://www.reddit.com/r/androiddev/comments/w2vvma/how_to_creat_that_method/)
+- [Could someone help me understand and set up Build Variants for a specific use case?](https://www.reddit.com/r/androiddev/comments/w2u12f/could_someone_help_me_understand_and_set_up_build/)
+- [which step should i take in order to understand the code of the app?](https://www.reddit.com/r/androiddev/comments/w2rnaq/which_step_should_i_take_in_order_to_understand/)
+- [How to get billing address from in-app purchases?](https://www.reddit.com/r/androiddev/comments/w2po5n/how_to_get_billing_address_from_inapp_purchases/)
+- [Looking for some help on Image Processing with OpenCV](https://www.reddit.com/r/androiddev/comments/w2p733/looking_for_some_help_on_image_processing_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
