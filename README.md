@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Neither rating nor reviews are showing up for my playstore game.](https://www.reddit.com/r/androiddev/comments/w36rfm/neither_rating_nor_reviews_are_showing_up_for_my/)
-- [Any good &quot;user feedback&quot; tools where it shows a popup and then the user can write feedback and I can view it on a website?](https://www.reddit.com/r/androiddev/comments/w368lw/any_good_user_feedback_tools_where_it_shows_a/)
-- [Creating an Android Auto alternative to work with head unit?](https://www.reddit.com/r/androiddev/comments/w35hb4/creating_an_android_auto_alternative_to_work_with/)
-- [Junior Android Developer 2022 cheat sheet](https://www.reddit.com/r/androiddev/comments/w355tl/junior_android_developer_2022_cheat_sheet/)
-- [Creating a colour picker in Jetpack Compose using Canvas](https://www.reddit.com/r/androiddev/comments/w2zygy/creating_a_colour_picker_in_jetpack_compose_using/)
-- [How to creat that method?](https://www.reddit.com/r/androiddev/comments/w2vvma/how_to_creat_that_method/)
-- [Could someone help me understand and set up Build Variants for a specific use case?](https://www.reddit.com/r/androiddev/comments/w2u12f/could_someone_help_me_understand_and_set_up_build/)
-- [which step should i take in order to understand the code of the app?](https://www.reddit.com/r/androiddev/comments/w2rnaq/which_step_should_i_take_in_order_to_understand/)
-- [How to get billing address from in-app purchases?](https://www.reddit.com/r/androiddev/comments/w2po5n/how_to_get_billing_address_from_inapp_purchases/)
-- [Looking for some help on Image Processing with OpenCV](https://www.reddit.com/r/androiddev/comments/w2p733/looking_for_some_help_on_image_processing_with/)
+- [Permissions for audio bombs](https://www.reddit.com/r/androiddev/comments/w41831/permissions_for_audio_bombs/)
+- [Can anyone help me identify this MCU? It&#39;s a UIS 7862 based processor identified as NOR_53. FYT-based. Thanks!](https://www.reddit.com/r/androiddev/comments/w3zza3/can_anyone_help_me_identify_this_mcu_its_a_uis/)
+- [How can i install apps in external storage](https://www.reddit.com/r/androiddev/comments/w3yrrv/how_can_i_install_apps_in_external_storage/)
+- [Need advice about switching to contracting](https://www.reddit.com/r/androiddev/comments/w3x4t6/need_advice_about_switching_to_contracting/)
+- [What eCPM rates do you get for different Admob ad types?](https://www.reddit.com/r/androiddev/comments/w3vl5f/what_ecpm_rates_do_you_get_for_different_admob_ad/)
+- [Android Canvas - Wanna learn how to make custom draws](https://www.reddit.com/r/androiddev/comments/w3v1id/android_canvas_wanna_learn_how_to_make_custom/)
+- [Custom path for generated aab/apk and mapping.txt](https://www.reddit.com/r/androiddev/comments/w3uiw5/custom_path_for_generated_aabapk_and_mappingtxt/)
+- [20x cheaper and 2.5x faster Android Emulator tests on GitHub Actions](https://www.reddit.com/r/androiddev/comments/w3qud0/20x_cheaper_and_25x_faster_android_emulator_tests/)
+- [ProcessLifecycleOwner](https://www.reddit.com/r/androiddev/comments/w3ozbh/processlifecycleowner/)
+- [Android Eclair Emulator](https://www.reddit.com/r/androiddev/comments/w3olvi/android_eclair_emulator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
