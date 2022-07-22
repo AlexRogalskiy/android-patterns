@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Permissions for audio bombs](https://www.reddit.com/r/androiddev/comments/w41831/permissions_for_audio_bombs/)
-- [Can anyone help me identify this MCU? It&#39;s a UIS 7862 based processor identified as NOR_53. FYT-based. Thanks!](https://www.reddit.com/r/androiddev/comments/w3zza3/can_anyone_help_me_identify_this_mcu_its_a_uis/)
-- [How can i install apps in external storage](https://www.reddit.com/r/androiddev/comments/w3yrrv/how_can_i_install_apps_in_external_storage/)
-- [Need advice about switching to contracting](https://www.reddit.com/r/androiddev/comments/w3x4t6/need_advice_about_switching_to_contracting/)
-- [What eCPM rates do you get for different Admob ad types?](https://www.reddit.com/r/androiddev/comments/w3vl5f/what_ecpm_rates_do_you_get_for_different_admob_ad/)
-- [Android Canvas - Wanna learn how to make custom draws](https://www.reddit.com/r/androiddev/comments/w3v1id/android_canvas_wanna_learn_how_to_make_custom/)
-- [Custom path for generated aab/apk and mapping.txt](https://www.reddit.com/r/androiddev/comments/w3uiw5/custom_path_for_generated_aabapk_and_mappingtxt/)
-- [20x cheaper and 2.5x faster Android Emulator tests on GitHub Actions](https://www.reddit.com/r/androiddev/comments/w3qud0/20x_cheaper_and_25x_faster_android_emulator_tests/)
-- [ProcessLifecycleOwner](https://www.reddit.com/r/androiddev/comments/w3ozbh/processlifecycleowner/)
-- [Android Eclair Emulator](https://www.reddit.com/r/androiddev/comments/w3olvi/android_eclair_emulator/)
+- [Using the MANAGE_EXTERNAL_STORAGE permission on Android 10 devices and below](https://www.reddit.com/r/androiddev/comments/w4zbt8/using_the_manage_external_storage_permission_on/)
+- [Is there any way to create an app in Android Studio with both Kotlin and Python?](https://www.reddit.com/r/androiddev/comments/w4z9i7/is_there_any_way_to_create_an_app_in_android/)
+- [Dagger 2.43 released with support for multiple instances of the same ViewModel using keys 🎉](https://www.reddit.com/r/androiddev/comments/w4rl4u/dagger_243_released_with_support_for_multiple/)
+- [Navigation Arch Component - Actionbar Shown/Hidden](https://www.reddit.com/r/androiddev/comments/w4p9ms/navigation_arch_component_actionbar_shownhidden/)
+- [Easy way to migrate to Gradle&#39;s version catalog](https://www.reddit.com/r/androiddev/comments/w4p5pu/easy_way_to_migrate_to_gradles_version_catalog/)
+- [What should someone know to be a successful applicant for fintech, payment sector?](https://www.reddit.com/r/androiddev/comments/w4p1wk/what_should_someone_know_to_be_a_successful/)
+- [[Question] Can I boot a custom ROM without having to flash it directly to the system? Like we do on desktop?](https://www.reddit.com/r/androiddev/comments/w4nkui/question_can_i_boot_a_custom_rom_without_having/)
+- [What would happen if I remove the PackageInstaller from android 8.1?](https://www.reddit.com/r/androiddev/comments/w4mwla/what_would_happen_if_i_remove_the/)
+- [What screen sizes are considered &quot;small&quot;, &quot;normal&quot;, &quot;large&quot;, and &quot;xlarge&quot;?](https://www.reddit.com/r/androiddev/comments/w4mrh8/what_screen_sizes_are_considered_small_normal/)
+- [Disable Android 12 location indicator permanently](https://www.reddit.com/r/androiddev/comments/w4ivbo/disable_android_12_location_indicator_permanently/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
