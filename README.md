@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using the MANAGE_EXTERNAL_STORAGE permission on Android 10 devices and below](https://www.reddit.com/r/androiddev/comments/w4zbt8/using_the_manage_external_storage_permission_on/)
-- [Is there any way to create an app in Android Studio with both Kotlin and Python?](https://www.reddit.com/r/androiddev/comments/w4z9i7/is_there_any_way_to_create_an_app_in_android/)
-- [Dagger 2.43 released with support for multiple instances of the same ViewModel using keys 🎉](https://www.reddit.com/r/androiddev/comments/w4rl4u/dagger_243_released_with_support_for_multiple/)
-- [Navigation Arch Component - Actionbar Shown/Hidden](https://www.reddit.com/r/androiddev/comments/w4p9ms/navigation_arch_component_actionbar_shownhidden/)
-- [Easy way to migrate to Gradle&#39;s version catalog](https://www.reddit.com/r/androiddev/comments/w4p5pu/easy_way_to_migrate_to_gradles_version_catalog/)
-- [What should someone know to be a successful applicant for fintech, payment sector?](https://www.reddit.com/r/androiddev/comments/w4p1wk/what_should_someone_know_to_be_a_successful/)
-- [[Question] Can I boot a custom ROM without having to flash it directly to the system? Like we do on desktop?](https://www.reddit.com/r/androiddev/comments/w4nkui/question_can_i_boot_a_custom_rom_without_having/)
-- [What would happen if I remove the PackageInstaller from android 8.1?](https://www.reddit.com/r/androiddev/comments/w4mwla/what_would_happen_if_i_remove_the/)
-- [What screen sizes are considered &quot;small&quot;, &quot;normal&quot;, &quot;large&quot;, and &quot;xlarge&quot;?](https://www.reddit.com/r/androiddev/comments/w4mrh8/what_screen_sizes_are_considered_small_normal/)
-- [Disable Android 12 location indicator permanently](https://www.reddit.com/r/androiddev/comments/w4ivbo/disable_android_12_location_indicator_permanently/)
+- [How to get a Android Development Internships.](https://www.reddit.com/r/androiddev/comments/w5kalo/how_to_get_a_android_development_internships/)
+- [Any library to get something similar to Instagram Camera Filters Horizontal RecyclerView?](https://www.reddit.com/r/androiddev/comments/w5jwxm/any_library_to_get_something_similar_to_instagram/)
+- [AdMob : Ad serving is limited For 2 months and 17 Days](https://www.reddit.com/r/androiddev/comments/w5j8sl/admob_ad_serving_is_limited_for_2_months_and_17/)
+- [At a loss with Google Play Policy Violation](https://www.reddit.com/r/androiddev/comments/w5j6z9/at_a_loss_with_google_play_policy_violation/)
+- [Android Studio Emulated Device - Change Display Color Profile](https://www.reddit.com/r/androiddev/comments/w5ggy4/android_studio_emulated_device_change_display/)
+- [App not showing in Play Store results](https://www.reddit.com/r/androiddev/comments/w5fset/app_not_showing_in_play_store_results/)
+- [Should I resubmit a build?](https://www.reddit.com/r/androiddev/comments/w5e28a/should_i_resubmit_a_build/)
+- [How to set my App as device owner in android 10?](https://www.reddit.com/r/androiddev/comments/w5d69z/how_to_set_my_app_as_device_owner_in_android_10/)
+- [Why can&#39;t Google Assistant share anything via any messaging app?](https://www.reddit.com/r/androiddev/comments/w5biej/why_cant_google_assistant_share_anything_via_any/)
+- [Best ad networks that are trusted and have higher cpm than google admob](https://www.reddit.com/r/androiddev/comments/w5bb83/best_ad_networks_that_are_trusted_and_have_higher/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
