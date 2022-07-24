@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to get a Android Development Internships.](https://www.reddit.com/r/androiddev/comments/w5kalo/how_to_get_a_android_development_internships/)
-- [Any library to get something similar to Instagram Camera Filters Horizontal RecyclerView?](https://www.reddit.com/r/androiddev/comments/w5jwxm/any_library_to_get_something_similar_to_instagram/)
-- [AdMob : Ad serving is limited For 2 months and 17 Days](https://www.reddit.com/r/androiddev/comments/w5j8sl/admob_ad_serving_is_limited_for_2_months_and_17/)
-- [At a loss with Google Play Policy Violation](https://www.reddit.com/r/androiddev/comments/w5j6z9/at_a_loss_with_google_play_policy_violation/)
-- [Android Studio Emulated Device - Change Display Color Profile](https://www.reddit.com/r/androiddev/comments/w5ggy4/android_studio_emulated_device_change_display/)
-- [App not showing in Play Store results](https://www.reddit.com/r/androiddev/comments/w5fset/app_not_showing_in_play_store_results/)
-- [Should I resubmit a build?](https://www.reddit.com/r/androiddev/comments/w5e28a/should_i_resubmit_a_build/)
-- [How to set my App as device owner in android 10?](https://www.reddit.com/r/androiddev/comments/w5d69z/how_to_set_my_app_as_device_owner_in_android_10/)
-- [Why can&#39;t Google Assistant share anything via any messaging app?](https://www.reddit.com/r/androiddev/comments/w5biej/why_cant_google_assistant_share_anything_via_any/)
-- [Best ad networks that are trusted and have higher cpm than google admob](https://www.reddit.com/r/androiddev/comments/w5bb83/best_ad_networks_that_are_trusted_and_have_higher/)
+- [Spoof time without changing device settings. I need a way to change the automatic time of a android device trough a hotspot, I was thinking maybe something like a vpn or mitm but I can&#39;t find any information about this topic. I know this isn&#39;t the right place to ask but it&#39;s the closest I could find](https://www.reddit.com/r/androiddev/comments/w6ix8c/spoof_time_without_changing_device_settings_i/)
+- [Android box](https://www.reddit.com/r/androiddev/comments/w6ge1c/android_box/)
+- [The CLOSE &lpar;X&rpar; button doesn&#39;t work on some ads](https://www.reddit.com/r/androiddev/comments/w6cg5k/the_close_x_button_doesnt_work_on_some_ads/)
+- [How to distinguish between single-finger tap and double-finger tap.](https://www.reddit.com/r/androiddev/comments/w6awsm/how_to_distinguish_between_singlefinger_tap_and/)
+- [i am facing problem while adding CropImageActivity into your AndroidManifest.xml](https://www.reddit.com/r/androiddev/comments/w6a48b/i_am_facing_problem_while_adding/)
+- [Flutter ain&#39;t all that... or is it?](https://www.reddit.com/r/androiddev/comments/w68yb3/flutter_aint_all_that_or_is_it/)
+- [What is the difference between proguard-android-optimize.txt and proguard-rules.pro and why does one file exist and the other doesn&#39;t?](https://www.reddit.com/r/androiddev/comments/w68ljw/what_is_the_difference_between/)
+- [I have an android box X88 Pro 10 with Android 11 software. I try to pair my PS4 controller with it. My Android box find it but it stuck to pairing. Can anyone help me?](https://www.reddit.com/r/androiddev/comments/w66peu/i_have_an_android_box_x88_pro_10_with_android_11/)
+- [How to load user settings at app startup with Datastore Preferences?](https://www.reddit.com/r/androiddev/comments/w657ay/how_to_load_user_settings_at_app_startup_with/)
+- [UPI Integration Problem](https://www.reddit.com/r/androiddev/comments/w64rce/upi_integration_problem/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
