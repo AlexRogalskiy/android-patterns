@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Spoof time without changing device settings. I need a way to change the automatic time of a android device trough a hotspot, I was thinking maybe something like a vpn or mitm but I can&#39;t find any information about this topic. I know this isn&#39;t the right place to ask but it&#39;s the closest I could find](https://www.reddit.com/r/androiddev/comments/w6ix8c/spoof_time_without_changing_device_settings_i/)
-- [Android box](https://www.reddit.com/r/androiddev/comments/w6ge1c/android_box/)
-- [The CLOSE &lpar;X&rpar; button doesn&#39;t work on some ads](https://www.reddit.com/r/androiddev/comments/w6cg5k/the_close_x_button_doesnt_work_on_some_ads/)
-- [How to distinguish between single-finger tap and double-finger tap.](https://www.reddit.com/r/androiddev/comments/w6awsm/how_to_distinguish_between_singlefinger_tap_and/)
-- [i am facing problem while adding CropImageActivity into your AndroidManifest.xml](https://www.reddit.com/r/androiddev/comments/w6a48b/i_am_facing_problem_while_adding/)
-- [Flutter ain&#39;t all that... or is it?](https://www.reddit.com/r/androiddev/comments/w68yb3/flutter_aint_all_that_or_is_it/)
-- [What is the difference between proguard-android-optimize.txt and proguard-rules.pro and why does one file exist and the other doesn&#39;t?](https://www.reddit.com/r/androiddev/comments/w68ljw/what_is_the_difference_between/)
-- [I have an android box X88 Pro 10 with Android 11 software. I try to pair my PS4 controller with it. My Android box find it but it stuck to pairing. Can anyone help me?](https://www.reddit.com/r/androiddev/comments/w66peu/i_have_an_android_box_x88_pro_10_with_android_11/)
-- [How to load user settings at app startup with Datastore Preferences?](https://www.reddit.com/r/androiddev/comments/w657ay/how_to_load_user_settings_at_app_startup_with/)
-- [UPI Integration Problem](https://www.reddit.com/r/androiddev/comments/w64rce/upi_integration_problem/)
+- [Is it possible to connect a user&#39;s metamask wallet to an Android app?](https://www.reddit.com/r/androiddev/comments/w75mwm/is_it_possible_to_connect_a_users_metamask_wallet/)
+- [What is the best chip type should I use to make something like tags?](https://www.reddit.com/r/androiddev/comments/w735zv/what_is_the_best_chip_type_should_i_use_to_make/)
+- [how can i create my own notification panel in android studio](https://www.reddit.com/r/androiddev/comments/w712a9/how_can_i_create_my_own_notification_panel_in/)
+- [KMMT : Kotlin Multiplatform Mobile Template - Updated to multi module structure and new features](https://www.reddit.com/r/androiddev/comments/w70tw7/kmmt_kotlin_multiplatform_mobile_template_updated/)
+- [Where to hire android dev for app i want to build? Also I have a few more questions](https://www.reddit.com/r/androiddev/comments/w6wvn8/where_to_hire_android_dev_for_app_i_want_to_build/)
+- [Google App Navigation Principles Challenge](https://www.reddit.com/r/androiddev/comments/w6worp/google_app_navigation_principles_challenge/)
+- [Question about custom View e Custom Layout.](https://www.reddit.com/r/androiddev/comments/w6vz6c/question_about_custom_view_e_custom_layout/)
+- [Media App to show media metadata](https://www.reddit.com/r/androiddev/comments/w6vym6/media_app_to_show_media_metadata/)
+- [Buying a new laptop, considering a Mac for the first time](https://www.reddit.com/r/androiddev/comments/w6vs9x/buying_a_new_laptop_considering_a_mac_for_the/)
+- [How can I understand MVVM](https://www.reddit.com/r/androiddev/comments/w6v66h/how_can_i_understand_mvvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
