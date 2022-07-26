@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible to connect a user&#39;s metamask wallet to an Android app?](https://www.reddit.com/r/androiddev/comments/w75mwm/is_it_possible_to_connect_a_users_metamask_wallet/)
-- [What is the best chip type should I use to make something like tags?](https://www.reddit.com/r/androiddev/comments/w735zv/what_is_the_best_chip_type_should_i_use_to_make/)
-- [how can i create my own notification panel in android studio](https://www.reddit.com/r/androiddev/comments/w712a9/how_can_i_create_my_own_notification_panel_in/)
-- [KMMT : Kotlin Multiplatform Mobile Template - Updated to multi module structure and new features](https://www.reddit.com/r/androiddev/comments/w70tw7/kmmt_kotlin_multiplatform_mobile_template_updated/)
-- [Where to hire android dev for app i want to build? Also I have a few more questions](https://www.reddit.com/r/androiddev/comments/w6wvn8/where_to_hire_android_dev_for_app_i_want_to_build/)
-- [Google App Navigation Principles Challenge](https://www.reddit.com/r/androiddev/comments/w6worp/google_app_navigation_principles_challenge/)
-- [Question about custom View e Custom Layout.](https://www.reddit.com/r/androiddev/comments/w6vz6c/question_about_custom_view_e_custom_layout/)
-- [Media App to show media metadata](https://www.reddit.com/r/androiddev/comments/w6vym6/media_app_to_show_media_metadata/)
-- [Buying a new laptop, considering a Mac for the first time](https://www.reddit.com/r/androiddev/comments/w6vs9x/buying_a_new_laptop_considering_a_mac_for_the/)
-- [How can I understand MVVM](https://www.reddit.com/r/androiddev/comments/w6v66h/how_can_i_understand_mvvm/)
+- [Android Build failure.](https://www.reddit.com/r/androiddev/comments/w87nze/android_build_failure/)
+- [Android app changed to free, but still being offered for purchase?!](https://www.reddit.com/r/androiddev/comments/w82agx/android_app_changed_to_free_but_still_being/)
+- [What&#39;s wrong with my resume?](https://www.reddit.com/r/androiddev/comments/w80bsf/whats_wrong_with_my_resume/)
+- [How to add a recommendation engine to my android application](https://www.reddit.com/r/androiddev/comments/w80239/how_to_add_a_recommendation_engine_to_my_android/)
+- [What does the @MustBeDocumented do?](https://www.reddit.com/r/androiddev/comments/w7yqky/what_does_the_mustbedocumented_do/)
+- [How to change the color of a ProgressBar in a widget via RemoteViews? &lpar;API &gt;= 28&rpar;](https://www.reddit.com/r/androiddev/comments/w7yf85/how_to_change_the_color_of_a_progressbar_in_a/)
+- [Using rememberSaveable with mutableStateListOf&lt;Map&lt;String,String&gt;&gt;&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/w7ybll/using_remembersaveable_with/)
+- [Google rolled out Android 13 Beta 4.1 for Pixel devices](https://www.reddit.com/r/androiddev/comments/w7x9q1/google_rolled_out_android_13_beta_41_for_pixel/)
+- [Do the components in Material Design 3 support large screens?](https://www.reddit.com/r/androiddev/comments/w7wu5k/do_the_components_in_material_design_3_support/)
+- [Which ad network to use for beginners?](https://www.reddit.com/r/androiddev/comments/w7w0ly/which_ad_network_to_use_for_beginners/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
