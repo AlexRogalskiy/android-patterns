@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Build failure.](https://www.reddit.com/r/androiddev/comments/w87nze/android_build_failure/)
-- [Android app changed to free, but still being offered for purchase?!](https://www.reddit.com/r/androiddev/comments/w82agx/android_app_changed_to_free_but_still_being/)
-- [What&#39;s wrong with my resume?](https://www.reddit.com/r/androiddev/comments/w80bsf/whats_wrong_with_my_resume/)
-- [How to add a recommendation engine to my android application](https://www.reddit.com/r/androiddev/comments/w80239/how_to_add_a_recommendation_engine_to_my_android/)
-- [What does the @MustBeDocumented do?](https://www.reddit.com/r/androiddev/comments/w7yqky/what_does_the_mustbedocumented_do/)
-- [How to change the color of a ProgressBar in a widget via RemoteViews? &lpar;API &gt;= 28&rpar;](https://www.reddit.com/r/androiddev/comments/w7yf85/how_to_change_the_color_of_a_progressbar_in_a/)
-- [Using rememberSaveable with mutableStateListOf&lt;Map&lt;String,String&gt;&gt;&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/w7ybll/using_remembersaveable_with/)
-- [Google rolled out Android 13 Beta 4.1 for Pixel devices](https://www.reddit.com/r/androiddev/comments/w7x9q1/google_rolled_out_android_13_beta_41_for_pixel/)
-- [Do the components in Material Design 3 support large screens?](https://www.reddit.com/r/androiddev/comments/w7wu5k/do_the_components_in_material_design_3_support/)
-- [Which ad network to use for beginners?](https://www.reddit.com/r/androiddev/comments/w7w0ly/which_ad_network_to_use_for_beginners/)
+- [So there was this old lady down the street from where i used to live and she gave me her old phone. And i factory rested it but it’s not letting me sign in to my email. What do i do?](https://www.reddit.com/r/androiddev/comments/w92xeb/so_there_was_this_old_lady_down_the_street_from/)
+- [Most ridiculous &quot;Android&quot; job posting I&#39;ve ever seen...](https://www.reddit.com/r/androiddev/comments/w8wmab/most_ridiculous_android_job_posting_ive_ever_seen/)
+- [Huge installs drop. How developer name affects on your apps visibility in Google Play?](https://www.reddit.com/r/androiddev/comments/w8vqms/huge_installs_drop_how_developer_name_affects_on/)
+- [Best charting/graphing frameworks that are actively maintained?](https://www.reddit.com/r/androiddev/comments/w8tiip/best_chartinggraphing_frameworks_that_are/)
+- [foreground service stops whenever i open another app &lpar;Facebook instagtam chrome....&rpar;](https://www.reddit.com/r/androiddev/comments/w8swvj/foreground_service_stops_whenever_i_open_another/)
+- [Google says I use the AD_ID permission. I don&#39;t.](https://www.reddit.com/r/androiddev/comments/w8no0v/google_says_i_use_the_ad_id_permission_i_dont/)
+- [How to sign-in with Google using Firebase Auth in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/w8m0xz/how_to_signin_with_google_using_firebase_auth_in/)
+- [[Anti-rant] Jetpack Compose is actually really good](https://www.reddit.com/r/androiddev/comments/w8lei1/antirant_jetpack_compose_is_actually_really_good/)
+- [Top 10 Amazing Tips and Tricks for Flutter App Development](https://www.reddit.com/r/androiddev/comments/w8kpqh/top_10_amazing_tips_and_tricks_for_flutter_app/)
+- [Material You-based Android App with Local Scraping Implementation](https://www.reddit.com/r/androiddev/comments/w8kfk2/material_youbased_android_app_with_local_scraping/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
