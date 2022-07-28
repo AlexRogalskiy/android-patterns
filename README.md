@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [So there was this old lady down the street from where i used to live and she gave me her old phone. And i factory rested it but it’s not letting me sign in to my email. What do i do?](https://www.reddit.com/r/androiddev/comments/w92xeb/so_there_was_this_old_lady_down_the_street_from/)
-- [Most ridiculous &quot;Android&quot; job posting I&#39;ve ever seen...](https://www.reddit.com/r/androiddev/comments/w8wmab/most_ridiculous_android_job_posting_ive_ever_seen/)
-- [Huge installs drop. How developer name affects on your apps visibility in Google Play?](https://www.reddit.com/r/androiddev/comments/w8vqms/huge_installs_drop_how_developer_name_affects_on/)
-- [Best charting/graphing frameworks that are actively maintained?](https://www.reddit.com/r/androiddev/comments/w8tiip/best_chartinggraphing_frameworks_that_are/)
-- [foreground service stops whenever i open another app &lpar;Facebook instagtam chrome....&rpar;](https://www.reddit.com/r/androiddev/comments/w8swvj/foreground_service_stops_whenever_i_open_another/)
-- [Google says I use the AD_ID permission. I don&#39;t.](https://www.reddit.com/r/androiddev/comments/w8no0v/google_says_i_use_the_ad_id_permission_i_dont/)
-- [How to sign-in with Google using Firebase Auth in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/w8m0xz/how_to_signin_with_google_using_firebase_auth_in/)
-- [[Anti-rant] Jetpack Compose is actually really good](https://www.reddit.com/r/androiddev/comments/w8lei1/antirant_jetpack_compose_is_actually_really_good/)
-- [Top 10 Amazing Tips and Tricks for Flutter App Development](https://www.reddit.com/r/androiddev/comments/w8kpqh/top_10_amazing_tips_and_tricks_for_flutter_app/)
-- [Material You-based Android App with Local Scraping Implementation](https://www.reddit.com/r/androiddev/comments/w8kfk2/material_youbased_android_app_with_local_scraping/)
+- [How much to charge for a Cross-Platform app?](https://www.reddit.com/r/androiddev/comments/w9vq4i/how_much_to_charge_for_a_crossplatform_app/)
+- [Anyone want a fully developed app for free?](https://www.reddit.com/r/androiddev/comments/w9toye/anyone_want_a_fully_developed_app_for_free/)
+- [Is there a way to validate the order of the children in a Compose lazyColumn in a functional test?](https://www.reddit.com/r/androiddev/comments/w9qsk6/is_there_a_way_to_validate_the_order_of_the/)
+- [Is it possible to show a logo full screen when the app pauses or goes to background?](https://www.reddit.com/r/androiddev/comments/w9qqhi/is_it_possible_to_show_a_logo_full_screen_when/)
+- [What is the best way to change a specific icon color in the navigation drawer without affecting the all icons?](https://www.reddit.com/r/androiddev/comments/w9q63u/what_is_the_best_way_to_change_a_specific_icon/)
+- [Compose for Wear OS is now 1.0: time to build wearable apps with Compose!](https://www.reddit.com/r/androiddev/comments/w9pm9b/compose_for_wear_os_is_now_10_time_to_build/)
+- [Which language are users use on their devices?](https://www.reddit.com/r/androiddev/comments/w9mz1q/which_language_are_users_use_on_their_devices/)
+- [How to make a height and weight field with a button](https://www.reddit.com/r/androiddev/comments/w9lt7s/how_to_make_a_height_and_weight_field_with_a/)
+- [Jetpack Compose 1.2 is now stable!](https://www.reddit.com/r/androiddev/comments/w9lj5f/jetpack_compose_12_is_now_stable/)
+- [Kotlin Snapshot Testing Library](https://www.reddit.com/r/androiddev/comments/w9ipbp/kotlin_snapshot_testing_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
