@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How much to charge for a Cross-Platform app?](https://www.reddit.com/r/androiddev/comments/w9vq4i/how_much_to_charge_for_a_crossplatform_app/)
-- [Anyone want a fully developed app for free?](https://www.reddit.com/r/androiddev/comments/w9toye/anyone_want_a_fully_developed_app_for_free/)
-- [Is there a way to validate the order of the children in a Compose lazyColumn in a functional test?](https://www.reddit.com/r/androiddev/comments/w9qsk6/is_there_a_way_to_validate_the_order_of_the/)
-- [Is it possible to show a logo full screen when the app pauses or goes to background?](https://www.reddit.com/r/androiddev/comments/w9qqhi/is_it_possible_to_show_a_logo_full_screen_when/)
-- [What is the best way to change a specific icon color in the navigation drawer without affecting the all icons?](https://www.reddit.com/r/androiddev/comments/w9q63u/what_is_the_best_way_to_change_a_specific_icon/)
-- [Compose for Wear OS is now 1.0: time to build wearable apps with Compose!](https://www.reddit.com/r/androiddev/comments/w9pm9b/compose_for_wear_os_is_now_10_time_to_build/)
-- [Which language are users use on their devices?](https://www.reddit.com/r/androiddev/comments/w9mz1q/which_language_are_users_use_on_their_devices/)
-- [How to make a height and weight field with a button](https://www.reddit.com/r/androiddev/comments/w9lt7s/how_to_make_a_height_and_weight_field_with_a/)
-- [Jetpack Compose 1.2 is now stable!](https://www.reddit.com/r/androiddev/comments/w9lj5f/jetpack_compose_12_is_now_stable/)
-- [Kotlin Snapshot Testing Library](https://www.reddit.com/r/androiddev/comments/w9ipbp/kotlin_snapshot_testing_library/)
+- [Do android dev&#39;s work on the backend or frontend more often?](https://www.reddit.com/r/androiddev/comments/wanzq8/do_android_devs_work_on_the_backend_or_frontend/)
+- [Android 13 deep dive: Every change up to Beta 4, thoroughly documented](https://www.reddit.com/r/androiddev/comments/wakql0/android_13_deep_dive_every_change_up_to_beta_4/)
+- [Knowledge Transfer for new onboarding members](https://www.reddit.com/r/androiddev/comments/waiiwf/knowledge_transfer_for_new_onboarding_members/)
+- [I made a simple and beautiful open source calculator for Android](https://www.reddit.com/r/androiddev/comments/waib1m/i_made_a_simple_and_beautiful_open_source/)
+- [ANIMATIONS WITH COMPOSE! We have Doris Liu answering all your questions!](https://www.reddit.com/r/androiddev/comments/wai84s/animations_with_compose_we_have_doris_liu/)
+- [Narada, an open source MQTT Broker that can runs on Android](https://www.reddit.com/r/androiddev/comments/wahix2/narada_an_open_source_mqtt_broker_that_can_runs/)
+- [I wrote a book that maps all common use cases from Views to composables to use as a reference](https://www.reddit.com/r/androiddev/comments/wacblt/i_wrote_a_book_that_maps_all_common_use_cases/)
+- [For the people who asked and missed - My course for free #2](https://www.reddit.com/r/androiddev/comments/waaqce/for_the_people_who_asked_and_missed_my_course_for/)
+- [Is there any easy way to test in-app purchases for an arbitrary country?](https://www.reddit.com/r/androiddev/comments/wa9lud/is_there_any_easy_way_to_test_inapp_purchases_for/)
+- [Some idea about make a Diagrams App](https://www.reddit.com/r/androiddev/comments/wa9hg9/some_idea_about_make_a_diagrams_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
