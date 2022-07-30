@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do android dev&#39;s work on the backend or frontend more often?](https://www.reddit.com/r/androiddev/comments/wanzq8/do_android_devs_work_on_the_backend_or_frontend/)
-- [Android 13 deep dive: Every change up to Beta 4, thoroughly documented](https://www.reddit.com/r/androiddev/comments/wakql0/android_13_deep_dive_every_change_up_to_beta_4/)
-- [Knowledge Transfer for new onboarding members](https://www.reddit.com/r/androiddev/comments/waiiwf/knowledge_transfer_for_new_onboarding_members/)
-- [I made a simple and beautiful open source calculator for Android](https://www.reddit.com/r/androiddev/comments/waib1m/i_made_a_simple_and_beautiful_open_source/)
-- [ANIMATIONS WITH COMPOSE! We have Doris Liu answering all your questions!](https://www.reddit.com/r/androiddev/comments/wai84s/animations_with_compose_we_have_doris_liu/)
-- [Narada, an open source MQTT Broker that can runs on Android](https://www.reddit.com/r/androiddev/comments/wahix2/narada_an_open_source_mqtt_broker_that_can_runs/)
-- [I wrote a book that maps all common use cases from Views to composables to use as a reference](https://www.reddit.com/r/androiddev/comments/wacblt/i_wrote_a_book_that_maps_all_common_use_cases/)
-- [For the people who asked and missed - My course for free #2](https://www.reddit.com/r/androiddev/comments/waaqce/for_the_people_who_asked_and_missed_my_course_for/)
-- [Is there any easy way to test in-app purchases for an arbitrary country?](https://www.reddit.com/r/androiddev/comments/wa9lud/is_there_any_easy_way_to_test_inapp_purchases_for/)
-- [Some idea about make a Diagrams App](https://www.reddit.com/r/androiddev/comments/wa9hg9/some_idea_about_make_a_diagrams_app/)
+- [Building kotlin first web service for database](https://www.reddit.com/r/androiddev/comments/wblaky/building_kotlin_first_web_service_for_database/)
+- [Saving and restoring UI state in Android during configuration changes.](https://www.reddit.com/r/androiddev/comments/wbl9d5/saving_and_restoring_ui_state_in_android_during/)
+- [Do you write unit/end-to-tend tests at your organization?](https://www.reddit.com/r/androiddev/comments/wbidoe/do_you_write_unitendtotend_tests_at_your/)
+- [Custom App Skin to Prevent Burn in](https://www.reddit.com/r/androiddev/comments/wbgddr/custom_app_skin_to_prevent_burn_in/)
+- [How to correct use AndroidViewModel and Hilt?](https://www.reddit.com/r/androiddev/comments/wbg8s0/how_to_correct_use_androidviewmodel_and_hilt/)
+- [do you still using Views in XML on your android projects?](https://www.reddit.com/r/androiddev/comments/wbf584/do_you_still_using_views_in_xml_on_your_android/)
+- [I&#39;m new to software development, currently taking an android studio course and a Java course. Would love to hear some advice for newbies and also what languages in addition to Java I should learn!](https://www.reddit.com/r/androiddev/comments/wbe4o6/im_new_to_software_development_currently_taking/)
+- [Github project to Pipeline to APK to [Insert your idea] for testing.](https://www.reddit.com/r/androiddev/comments/wbca9e/github_project_to_pipeline_to_apk_to_insert_your/)
+- [What protocol do the &quot;Wireless Emergency Alerts&quot; use?](https://www.reddit.com/r/androiddev/comments/wbc07h/what_protocol_do_the_wireless_emergency_alerts_use/)
+- [what do you think of the ui](https://www.reddit.com/r/androiddev/comments/wb9xt0/what_do_you_think_of_the_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
