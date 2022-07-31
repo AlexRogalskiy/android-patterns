@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building kotlin first web service for database](https://www.reddit.com/r/androiddev/comments/wblaky/building_kotlin_first_web_service_for_database/)
-- [Saving and restoring UI state in Android during configuration changes.](https://www.reddit.com/r/androiddev/comments/wbl9d5/saving_and_restoring_ui_state_in_android_during/)
-- [Do you write unit/end-to-tend tests at your organization?](https://www.reddit.com/r/androiddev/comments/wbidoe/do_you_write_unitendtotend_tests_at_your/)
-- [Custom App Skin to Prevent Burn in](https://www.reddit.com/r/androiddev/comments/wbgddr/custom_app_skin_to_prevent_burn_in/)
-- [How to correct use AndroidViewModel and Hilt?](https://www.reddit.com/r/androiddev/comments/wbg8s0/how_to_correct_use_androidviewmodel_and_hilt/)
-- [do you still using Views in XML on your android projects?](https://www.reddit.com/r/androiddev/comments/wbf584/do_you_still_using_views_in_xml_on_your_android/)
-- [I&#39;m new to software development, currently taking an android studio course and a Java course. Would love to hear some advice for newbies and also what languages in addition to Java I should learn!](https://www.reddit.com/r/androiddev/comments/wbe4o6/im_new_to_software_development_currently_taking/)
-- [Github project to Pipeline to APK to [Insert your idea] for testing.](https://www.reddit.com/r/androiddev/comments/wbca9e/github_project_to_pipeline_to_apk_to_insert_your/)
-- [What protocol do the &quot;Wireless Emergency Alerts&quot; use?](https://www.reddit.com/r/androiddev/comments/wbc07h/what_protocol_do_the_wireless_emergency_alerts_use/)
-- [what do you think of the ui](https://www.reddit.com/r/androiddev/comments/wb9xt0/what_do_you_think_of_the_ui/)
+- [Wordle in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wce13o/wordle_in_jetpack_compose/)
+- [Can I update the existing app on google play by creating a new project if I have a previous app signing key?](https://www.reddit.com/r/androiddev/comments/wcbp0a/can_i_update_the_existing_app_on_google_play_by/)
+- [Is it legal to fetch IG reels and TikTok videos and show them inside my mobile app](https://www.reddit.com/r/androiddev/comments/wc95yi/is_it_legal_to_fetch_ig_reels_and_tiktok_videos/)
+- [Is it possible to make a fake uninstall?](https://www.reddit.com/r/androiddev/comments/wc944h/is_it_possible_to_make_a_fake_uninstall/)
+- [How to improve UI design?](https://www.reddit.com/r/androiddev/comments/wc8t7u/how_to_improve_ui_design/)
+- [Getting CPU and memory averages for Android app](https://www.reddit.com/r/androiddev/comments/wc6d69/getting_cpu_and_memory_averages_for_android_app/)
+- [Can someone explain what type of pattern this is in Android development?](https://www.reddit.com/r/androiddev/comments/wc67zu/can_someone_explain_what_type_of_pattern_this_is/)
+- [Better Ads Experiences- interstitial ads](https://www.reddit.com/r/androiddev/comments/wc50of/better_ads_experiences_interstitial_ads/)
+- [If you get a lifetime ban, can you simply &quot;make a new account&quot; as I&#39;ve just been told?](https://www.reddit.com/r/androiddev/comments/wc4ady/if_you_get_a_lifetime_ban_can_you_simply_make_a/)
+- [why don&#39;t companies get together or by themselves create a procreate rival and give a kiss of life to android tablets?](https://www.reddit.com/r/androiddev/comments/wc3ks2/why_dont_companies_get_together_or_by_themselves/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
