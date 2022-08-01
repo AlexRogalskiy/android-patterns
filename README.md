@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Wordle in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wce13o/wordle_in_jetpack_compose/)
-- [Can I update the existing app on google play by creating a new project if I have a previous app signing key?](https://www.reddit.com/r/androiddev/comments/wcbp0a/can_i_update_the_existing_app_on_google_play_by/)
-- [Is it legal to fetch IG reels and TikTok videos and show them inside my mobile app](https://www.reddit.com/r/androiddev/comments/wc95yi/is_it_legal_to_fetch_ig_reels_and_tiktok_videos/)
-- [Is it possible to make a fake uninstall?](https://www.reddit.com/r/androiddev/comments/wc944h/is_it_possible_to_make_a_fake_uninstall/)
-- [How to improve UI design?](https://www.reddit.com/r/androiddev/comments/wc8t7u/how_to_improve_ui_design/)
-- [Getting CPU and memory averages for Android app](https://www.reddit.com/r/androiddev/comments/wc6d69/getting_cpu_and_memory_averages_for_android_app/)
-- [Can someone explain what type of pattern this is in Android development?](https://www.reddit.com/r/androiddev/comments/wc67zu/can_someone_explain_what_type_of_pattern_this_is/)
-- [Better Ads Experiences- interstitial ads](https://www.reddit.com/r/androiddev/comments/wc50of/better_ads_experiences_interstitial_ads/)
-- [If you get a lifetime ban, can you simply &quot;make a new account&quot; as I&#39;ve just been told?](https://www.reddit.com/r/androiddev/comments/wc4ady/if_you_get_a_lifetime_ban_can_you_simply_make_a/)
-- [why don&#39;t companies get together or by themselves create a procreate rival and give a kiss of life to android tablets?](https://www.reddit.com/r/androiddev/comments/wc3ks2/why_dont_companies_get_together_or_by_themselves/)
+- [Why did Google rush to discontinue Kotlin Synthetic, while Jetpack Compose is maturing?](https://www.reddit.com/r/androiddev/comments/wd69q0/why_did_google_rush_to_discontinue_kotlin/)
+- [freelancer.com or Upwork for doing freelancer android development?](https://www.reddit.com/r/androiddev/comments/wcyfyc/freelancercom_or_upwork_for_doing_freelancer/)
+- [Why not store data in statics?](https://www.reddit.com/r/androiddev/comments/wcxf7z/why_not_store_data_in_statics/)
+- [Google play console daily install not showing after July 26](https://www.reddit.com/r/androiddev/comments/wcwt4r/google_play_console_daily_install_not_showing/)
+- [Why does isFinishing&lpar;&rpar; behaves differently in entry point Activity &lpar;with android.intent.action.MAIN&rpar; and non entry point Activity](https://www.reddit.com/r/androiddev/comments/wcqbsm/why_does_isfinishing_behaves_differently_in_entry/)
+- [Are there new rules for redeeming a promotion code?](https://www.reddit.com/r/androiddev/comments/wcpmai/are_there_new_rules_for_redeeming_a_promotion_code/)
+- [I don&#39;t know why Google is not updating the Play Console app.](https://www.reddit.com/r/androiddev/comments/wcp8qk/i_dont_know_why_google_is_not_updating_the_play/)
+- [Is it me or everyone has a problem with Google Play Analytics](https://www.reddit.com/r/androiddev/comments/wconex/is_it_me_or_everyone_has_a_problem_with_google/)
+- [Predictive back gestures on Android 13, Help needed in implementing onBackPressedDispatcher](https://www.reddit.com/r/androiddev/comments/wcojor/predictive_back_gestures_on_android_13_help/)
+- [Understand why sometimes we need to set ViewBinding to Null to avoid overdoing it](https://www.reddit.com/r/androiddev/comments/wcn2x0/understand_why_sometimes_we_need_to_set/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
