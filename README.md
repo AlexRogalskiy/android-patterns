@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why did Google rush to discontinue Kotlin Synthetic, while Jetpack Compose is maturing?](https://www.reddit.com/r/androiddev/comments/wd69q0/why_did_google_rush_to_discontinue_kotlin/)
-- [freelancer.com or Upwork for doing freelancer android development?](https://www.reddit.com/r/androiddev/comments/wcyfyc/freelancercom_or_upwork_for_doing_freelancer/)
-- [Why not store data in statics?](https://www.reddit.com/r/androiddev/comments/wcxf7z/why_not_store_data_in_statics/)
-- [Google play console daily install not showing after July 26](https://www.reddit.com/r/androiddev/comments/wcwt4r/google_play_console_daily_install_not_showing/)
-- [Why does isFinishing&lpar;&rpar; behaves differently in entry point Activity &lpar;with android.intent.action.MAIN&rpar; and non entry point Activity](https://www.reddit.com/r/androiddev/comments/wcqbsm/why_does_isfinishing_behaves_differently_in_entry/)
-- [Are there new rules for redeeming a promotion code?](https://www.reddit.com/r/androiddev/comments/wcpmai/are_there_new_rules_for_redeeming_a_promotion_code/)
-- [I don&#39;t know why Google is not updating the Play Console app.](https://www.reddit.com/r/androiddev/comments/wcp8qk/i_dont_know_why_google_is_not_updating_the_play/)
-- [Is it me or everyone has a problem with Google Play Analytics](https://www.reddit.com/r/androiddev/comments/wconex/is_it_me_or_everyone_has_a_problem_with_google/)
-- [Predictive back gestures on Android 13, Help needed in implementing onBackPressedDispatcher](https://www.reddit.com/r/androiddev/comments/wcojor/predictive_back_gestures_on_android_13_help/)
-- [Understand why sometimes we need to set ViewBinding to Null to avoid overdoing it](https://www.reddit.com/r/androiddev/comments/wcn2x0/understand_why_sometimes_we_need_to_set/)
+- [Can an overlay app access the view of another app?](https://www.reddit.com/r/androiddev/comments/wdyhou/can_an_overlay_app_access_the_view_of_another_app/)
+- [Why did my eCPM suddenly plummet in June for no reason despite record impressions? Am I the only one?](https://www.reddit.com/r/androiddev/comments/wdw98j/why_did_my_ecpm_suddenly_plummet_in_june_for_no/)
+- [Is it normal to have most earnings from IAPs, and only a small fraction from ads?](https://www.reddit.com/r/androiddev/comments/wdnb1i/is_it_normal_to_have_most_earnings_from_iaps_and/)
+- [Which books will take my dev knowledge/skills to the next level?](https://www.reddit.com/r/androiddev/comments/wdn942/which_books_will_take_my_dev_knowledgeskills_to/)
+- [Anyone currently working in mobile app development and have a few minutes?](https://www.reddit.com/r/androiddev/comments/wdn3qs/anyone_currently_working_in_mobile_app/)
+- [I made 20+ short screencasts that go through Jetpack Compose concepts to make it simpler to learn](https://www.reddit.com/r/androiddev/comments/wdlxcx/i_made_20_short_screencasts_that_go_through/)
+- [mutekt: Simplify mutating &quot;immutable&quot; state models](https://www.reddit.com/r/androiddev/comments/wdi94p/mutekt_simplify_mutating_immutable_state_models/)
+- [Putting an &quot;roadmap/upcoming features&quot; section inside app?](https://www.reddit.com/r/androiddev/comments/wdh4qo/putting_an_roadmapupcoming_features_section/)
+- [Weekly Who&#39;s Hiring Thread - August 01, 2022](https://www.reddit.com/r/androiddev/comments/wdgw8p/weekly_whos_hiring_thread_august_01_2022/)
+- [Android developer future, Salary, competition!!](https://www.reddit.com/r/androiddev/comments/wdgjfj/android_developer_future_salary_competition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
