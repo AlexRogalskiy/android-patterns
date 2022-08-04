@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does anyone actually use DataStore?](https://www.reddit.com/r/androiddev/comments/weuvl4/does_anyone_actually_use_datastore/)
-- [Overlaying text over image](https://www.reddit.com/r/androiddev/comments/weu9dr/overlaying_text_over_image/)
-- [Porting a rom/recovery [seeking advice]](https://www.reddit.com/r/androiddev/comments/wespvt/porting_a_romrecovery_seeking_advice/)
-- [Getting errors on getting my variables set for the emulator fails](https://www.reddit.com/r/androiddev/comments/wesocl/getting_errors_on_getting_my_variables_set_for/)
-- [Best phone case I&#39;ve seen! By Calveit woodwork &amp; Engraving!!! Sleek quality design beyond belief. Comment about your favorite](https://www.reddit.com/r/androiddev/comments/wes7ei/best_phone_case_ive_seen_by_calveit_woodwork/)
-- [How hard is it to be a maintainer of an Android fork?](https://www.reddit.com/r/androiddev/comments/wenjud/how_hard_is_it_to_be_a_maintainer_of_an_android/)
-- [Streaming song with Spotify SDK. It&#39;s possible?](https://www.reddit.com/r/androiddev/comments/wemq3c/streaming_song_with_spotify_sdk_its_possible/)
-- [Why hasn&#39;t android implemented Squircle in its API natively?](https://www.reddit.com/r/androiddev/comments/weltwi/why_hasnt_android_implemented_squircle_in_its_api/)
-- [How to use a flow as data source and allow to edit it &lpar;maybe reemission of new data will be slower than the edits&rpar;](https://www.reddit.com/r/androiddev/comments/weloso/how_to_use_a_flow_as_data_source_and_allow_to/)
-- [I have my first Android Developer interview tomorrow, How should I study for the technical? I can like make apps, but when it comes to answering programming questions I&#39;m pretty shit, I want to get better, I want to improve. skilled people, who are already working in their field help?](https://www.reddit.com/r/androiddev/comments/welg06/i_have_my_first_android_developer_interview/)
+- [For all my projects I am using Firebase as a backend. I am hoping to buid my own backend service. Please suggest me a good language /framework to learn . Basically I am hoping to have authentication, storage and databases . TIA](https://www.reddit.com/r/androiddev/comments/wfpudw/for_all_my_projects_i_am_using_firebase_as_a/)
+- [Android TV UI launcher development resources](https://www.reddit.com/r/androiddev/comments/wfp10k/android_tv_ui_launcher_development_resources/)
+- [How do you guys run all tests inside Android Studio? My Android Studio &lpar;and sometimes even my computer&rpar; crashes when I try to run all tests](https://www.reddit.com/r/androiddev/comments/wfosbx/how_do_you_guys_run_all_tests_inside_android/)
+- [How do I make a GET request to an api running in a vm from an Android emulator WebView?](https://www.reddit.com/r/androiddev/comments/wfophv/how_do_i_make_a_get_request_to_an_api_running_in/)
+- [Roadmap for supporting Rust in Android apps](https://www.reddit.com/r/androiddev/comments/wfmci2/roadmap_for_supporting_rust_in_android_apps/)
+- [Does Google support Payoneer as a method of payment for IAP or Selling apps?](https://www.reddit.com/r/androiddev/comments/wflrd4/does_google_support_payoneer_as_a_method_of/)
+- [Cordova/phonegap hiking app](https://www.reddit.com/r/androiddev/comments/wfh6hy/cordovaphonegap_hiking_app/)
+- [how can i start a coroutine in a foreground service within on creat method then cancel it on destroy method?](https://www.reddit.com/r/androiddev/comments/wfggez/how_can_i_start_a_coroutine_in_a_foreground/)
+- [Android Studio Chipmunk | 2021.2.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/wfgdqr/android_studio_chipmunk_202121_patch_2_now/)
+- [Android Studio Electric Eel Canary 9 now available](https://www.reddit.com/r/androiddev/comments/wfevj8/android_studio_electric_eel_canary_9_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
