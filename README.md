@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [For all my projects I am using Firebase as a backend. I am hoping to buid my own backend service. Please suggest me a good language /framework to learn . Basically I am hoping to have authentication, storage and databases . TIA](https://www.reddit.com/r/androiddev/comments/wfpudw/for_all_my_projects_i_am_using_firebase_as_a/)
-- [Android TV UI launcher development resources](https://www.reddit.com/r/androiddev/comments/wfp10k/android_tv_ui_launcher_development_resources/)
-- [How do you guys run all tests inside Android Studio? My Android Studio &lpar;and sometimes even my computer&rpar; crashes when I try to run all tests](https://www.reddit.com/r/androiddev/comments/wfosbx/how_do_you_guys_run_all_tests_inside_android/)
-- [How do I make a GET request to an api running in a vm from an Android emulator WebView?](https://www.reddit.com/r/androiddev/comments/wfophv/how_do_i_make_a_get_request_to_an_api_running_in/)
-- [Roadmap for supporting Rust in Android apps](https://www.reddit.com/r/androiddev/comments/wfmci2/roadmap_for_supporting_rust_in_android_apps/)
-- [Does Google support Payoneer as a method of payment for IAP or Selling apps?](https://www.reddit.com/r/androiddev/comments/wflrd4/does_google_support_payoneer_as_a_method_of/)
-- [Cordova/phonegap hiking app](https://www.reddit.com/r/androiddev/comments/wfh6hy/cordovaphonegap_hiking_app/)
-- [how can i start a coroutine in a foreground service within on creat method then cancel it on destroy method?](https://www.reddit.com/r/androiddev/comments/wfggez/how_can_i_start_a_coroutine_in_a_foreground/)
-- [Android Studio Chipmunk | 2021.2.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/wfgdqr/android_studio_chipmunk_202121_patch_2_now/)
-- [Android Studio Electric Eel Canary 9 now available](https://www.reddit.com/r/androiddev/comments/wfevj8/android_studio_electric_eel_canary_9_now_available/)
+- [Android Studio Issues - AVD and SDK Manager](https://www.reddit.com/r/androiddev/comments/wghfu7/android_studio_issues_avd_and_sdk_manager/)
+- [Push Notification-- Direct Reply Buttons](https://www.reddit.com/r/androiddev/comments/wgh4nk/push_notification_direct_reply_buttons/)
+- [Released a new version of my hobby app called Gamedge completely rewritten in Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/wgcqnc/released_a_new_version_of_my_hobby_app_called/)
+- [device_config Setting Reverting - Workarounds?](https://www.reddit.com/r/androiddev/comments/wgai01/device_config_setting_reverting_workarounds/)
+- [Difference between $300 Samsung &amp; $1000 Samsung](https://www.reddit.com/r/androiddev/comments/wg8kib/difference_between_300_samsung_1000_samsung/)
+- [Google ads are ugly, wouldn&#39;t it be better to have custom UI for ads? There isn&#39;t too many google ads alternative, but blog-like referrals could work much better for developer and advertiser](https://www.reddit.com/r/androiddev/comments/wg7cq5/google_ads_are_ugly_wouldnt_it_be_better_to_have/)
+- [Anyone know how to install a custom ROM on Iqoo z3?](https://www.reddit.com/r/androiddev/comments/wg674l/anyone_know_how_to_install_a_custom_rom_on_iqoo_z3/)
+- [View/Layout preview broken in Android Studio?](https://www.reddit.com/r/androiddev/comments/wg5xre/viewlayout_preview_broken_in_android_studio/)
+- [Where can I find Resources on doing a firmware update over BLE using android app.](https://www.reddit.com/r/androiddev/comments/wg5dxf/where_can_i_find_resources_on_doing_a_firmware/)
+- [Process captured image before it is stored using CameraX API.](https://www.reddit.com/r/androiddev/comments/wg426e/process_captured_image_before_it_is_stored_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
