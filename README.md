@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Issues - AVD and SDK Manager](https://www.reddit.com/r/androiddev/comments/wghfu7/android_studio_issues_avd_and_sdk_manager/)
-- [Push Notification-- Direct Reply Buttons](https://www.reddit.com/r/androiddev/comments/wgh4nk/push_notification_direct_reply_buttons/)
-- [Released a new version of my hobby app called Gamedge completely rewritten in Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/wgcqnc/released_a_new_version_of_my_hobby_app_called/)
-- [device_config Setting Reverting - Workarounds?](https://www.reddit.com/r/androiddev/comments/wgai01/device_config_setting_reverting_workarounds/)
-- [Difference between $300 Samsung &amp; $1000 Samsung](https://www.reddit.com/r/androiddev/comments/wg8kib/difference_between_300_samsung_1000_samsung/)
-- [Google ads are ugly, wouldn&#39;t it be better to have custom UI for ads? There isn&#39;t too many google ads alternative, but blog-like referrals could work much better for developer and advertiser](https://www.reddit.com/r/androiddev/comments/wg7cq5/google_ads_are_ugly_wouldnt_it_be_better_to_have/)
-- [Anyone know how to install a custom ROM on Iqoo z3?](https://www.reddit.com/r/androiddev/comments/wg674l/anyone_know_how_to_install_a_custom_rom_on_iqoo_z3/)
-- [View/Layout preview broken in Android Studio?](https://www.reddit.com/r/androiddev/comments/wg5xre/viewlayout_preview_broken_in_android_studio/)
-- [Where can I find Resources on doing a firmware update over BLE using android app.](https://www.reddit.com/r/androiddev/comments/wg5dxf/where_can_i_find_resources_on_doing_a_firmware/)
-- [Process captured image before it is stored using CameraX API.](https://www.reddit.com/r/androiddev/comments/wg426e/process_captured_image_before_it_is_stored_using/)
+- [Solopreneur ideas for native Android dev skills?](https://www.reddit.com/r/androiddev/comments/whd227/solopreneur_ideas_for_native_android_dev_skills/)
+- [I had my first android dev interview today](https://www.reddit.com/r/androiddev/comments/whcpgx/i_had_my_first_android_dev_interview_today/)
+- [Does Google Maps or Waze, have a simplified directions API Hook?](https://www.reddit.com/r/androiddev/comments/wh9ziu/does_google_maps_or_waze_have_a_simplified/)
+- [Anyone looking for design support for mobile app development?](https://www.reddit.com/r/androiddev/comments/wh6ghc/anyone_looking_for_design_support_for_mobile_app/)
+- [Will switching from Epoxy to Jetpack Compose make scrolling smoother?](https://www.reddit.com/r/androiddev/comments/wh58yy/will_switching_from_epoxy_to_jetpack_compose_make/)
+- [Bot user logins](https://www.reddit.com/r/androiddev/comments/wh1mmy/bot_user_logins/)
+- [Is it possible to make an application display something like the Messenger chat bubble, using Unity?](https://www.reddit.com/r/androiddev/comments/wh1i7q/is_it_possible_to_make_an_application_display/)
+- [Does Google allow us developers to put a Patreon Link on our Google Play Store listing?](https://www.reddit.com/r/androiddev/comments/wh0l4b/does_google_allow_us_developers_to_put_a_patreon/)
+- [Brightness on Pixel phones broken past android 9](https://www.reddit.com/r/androiddev/comments/wgyxf5/brightness_on_pixel_phones_broken_past_android_9/)
+- [Compose Painter as Stable type](https://www.reddit.com/r/androiddev/comments/wgwqob/compose_painter_as_stable_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
