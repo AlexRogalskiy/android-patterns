@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Solopreneur ideas for native Android dev skills?](https://www.reddit.com/r/androiddev/comments/whd227/solopreneur_ideas_for_native_android_dev_skills/)
-- [I had my first android dev interview today](https://www.reddit.com/r/androiddev/comments/whcpgx/i_had_my_first_android_dev_interview_today/)
-- [Does Google Maps or Waze, have a simplified directions API Hook?](https://www.reddit.com/r/androiddev/comments/wh9ziu/does_google_maps_or_waze_have_a_simplified/)
-- [Anyone looking for design support for mobile app development?](https://www.reddit.com/r/androiddev/comments/wh6ghc/anyone_looking_for_design_support_for_mobile_app/)
-- [Will switching from Epoxy to Jetpack Compose make scrolling smoother?](https://www.reddit.com/r/androiddev/comments/wh58yy/will_switching_from_epoxy_to_jetpack_compose_make/)
-- [Bot user logins](https://www.reddit.com/r/androiddev/comments/wh1mmy/bot_user_logins/)
-- [Is it possible to make an application display something like the Messenger chat bubble, using Unity?](https://www.reddit.com/r/androiddev/comments/wh1i7q/is_it_possible_to_make_an_application_display/)
-- [Does Google allow us developers to put a Patreon Link on our Google Play Store listing?](https://www.reddit.com/r/androiddev/comments/wh0l4b/does_google_allow_us_developers_to_put_a_patreon/)
-- [Brightness on Pixel phones broken past android 9](https://www.reddit.com/r/androiddev/comments/wgyxf5/brightness_on_pixel_phones_broken_past_android_9/)
-- [Compose Painter as Stable type](https://www.reddit.com/r/androiddev/comments/wgwqob/compose_painter_as_stable_type/)
+- [When will the Google Associate Android Developer Certification exam be available](https://www.reddit.com/r/androiddev/comments/wi4v5g/when_will_the_google_associate_android_developer/)
+- [let&#39;s say i can control people mind and make them play my game and download how to make money from that without getting ban](https://www.reddit.com/r/androiddev/comments/wi3k4l/lets_say_i_can_control_people_mind_and_make_them/)
+- [How to reply to reviews like this without sounding like I&#39;m begging or aggressive?](https://www.reddit.com/r/androiddev/comments/wi2oju/how_to_reply_to_reviews_like_this_without/)
+- [Is Jetpack Compose really stable?](https://www.reddit.com/r/androiddev/comments/wi1g98/is_jetpack_compose_really_stable/)
+- [nestedscrollview steals focus when scrolling recyclview horizontally](https://www.reddit.com/r/androiddev/comments/wi187e/nestedscrollview_steals_focus_when_scrolling/)
+- [Is using Android Emulator more cpu or ram intensive?](https://www.reddit.com/r/androiddev/comments/wi0kzm/is_using_android_emulator_more_cpu_or_ram/)
+- [I&#39;m loading a LazyVerticalGrid in compose using a flow and only some of the cards items load. Can anyone help me figure out why?](https://www.reddit.com/r/androiddev/comments/whx3kn/im_loading_a_lazyverticalgrid_in_compose_using_a/)
+- [How can I implement a fully functional pedometer service? in Android](https://www.reddit.com/r/androiddev/comments/whv2wx/how_can_i_implement_a_fully_functional_pedometer/)
+- [Set Color Programmatically in DatePickerDialog](https://www.reddit.com/r/androiddev/comments/whuto7/set_color_programmatically_in_datepickerdialog/)
+- [Android technical interview](https://www.reddit.com/r/androiddev/comments/whp1hp/android_technical_interview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
