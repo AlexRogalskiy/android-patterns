@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When will the Google Associate Android Developer Certification exam be available](https://www.reddit.com/r/androiddev/comments/wi4v5g/when_will_the_google_associate_android_developer/)
-- [let&#39;s say i can control people mind and make them play my game and download how to make money from that without getting ban](https://www.reddit.com/r/androiddev/comments/wi3k4l/lets_say_i_can_control_people_mind_and_make_them/)
-- [How to reply to reviews like this without sounding like I&#39;m begging or aggressive?](https://www.reddit.com/r/androiddev/comments/wi2oju/how_to_reply_to_reviews_like_this_without/)
-- [Is Jetpack Compose really stable?](https://www.reddit.com/r/androiddev/comments/wi1g98/is_jetpack_compose_really_stable/)
-- [nestedscrollview steals focus when scrolling recyclview horizontally](https://www.reddit.com/r/androiddev/comments/wi187e/nestedscrollview_steals_focus_when_scrolling/)
-- [Is using Android Emulator more cpu or ram intensive?](https://www.reddit.com/r/androiddev/comments/wi0kzm/is_using_android_emulator_more_cpu_or_ram/)
-- [I&#39;m loading a LazyVerticalGrid in compose using a flow and only some of the cards items load. Can anyone help me figure out why?](https://www.reddit.com/r/androiddev/comments/whx3kn/im_loading_a_lazyverticalgrid_in_compose_using_a/)
-- [How can I implement a fully functional pedometer service? in Android](https://www.reddit.com/r/androiddev/comments/whv2wx/how_can_i_implement_a_fully_functional_pedometer/)
-- [Set Color Programmatically in DatePickerDialog](https://www.reddit.com/r/androiddev/comments/whuto7/set_color_programmatically_in_datepickerdialog/)
-- [Android technical interview](https://www.reddit.com/r/androiddev/comments/whp1hp/android_technical_interview/)
+- [Please, I need some help with creating my new Google Play Merchant Account.](https://www.reddit.com/r/androiddev/comments/wiqfm4/please_i_need_some_help_with_creating_my_new/)
+- [What and when was the last x86 Android device?](https://www.reddit.com/r/androiddev/comments/wioz6q/what_and_when_was_the_last_x86_android_device/)
+- [Why are official Compose samples still using non-stable List&lt;T&gt; in state?](https://www.reddit.com/r/androiddev/comments/wioalr/why_are_official_compose_samples_still_using/)
+- [create android apps](https://www.reddit.com/r/androiddev/comments/wifwr2/create_android_apps/)
+- [OpenSSL in Android](https://www.reddit.com/r/androiddev/comments/wifjrb/openssl_in_android/)
+- [I added Jetpack Navigation Component to my app and now I can push buttons &lpar;or other things that detects touch events&rpar; under the visible fragments. How to prevent that?](https://www.reddit.com/r/androiddev/comments/wieykd/i_added_jetpack_navigation_component_to_my_app/)
+- [Mobile App Refactoring Initiative by Slack](https://www.reddit.com/r/androiddev/comments/wiek5o/mobile_app_refactoring_initiative_by_slack/)
+- [When trying to use TextView, it just doesn&#39;t work and I don&#39;t know what to do](https://www.reddit.com/r/androiddev/comments/wie95x/when_trying_to_use_textview_it_just_doesnt_work/)
+- [Trying to understand per app language preferences in Android 13](https://www.reddit.com/r/androiddev/comments/widlhe/trying_to_understand_per_app_language_preferences/)
+- [How to build an app like Netflix UI on Android TV?](https://www.reddit.com/r/androiddev/comments/wi7nmc/how_to_build_an_app_like_netflix_ui_on_android_tv/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
