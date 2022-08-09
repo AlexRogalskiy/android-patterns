@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Please, I need some help with creating my new Google Play Merchant Account.](https://www.reddit.com/r/androiddev/comments/wiqfm4/please_i_need_some_help_with_creating_my_new/)
-- [What and when was the last x86 Android device?](https://www.reddit.com/r/androiddev/comments/wioz6q/what_and_when_was_the_last_x86_android_device/)
-- [Why are official Compose samples still using non-stable List&lt;T&gt; in state?](https://www.reddit.com/r/androiddev/comments/wioalr/why_are_official_compose_samples_still_using/)
-- [create android apps](https://www.reddit.com/r/androiddev/comments/wifwr2/create_android_apps/)
-- [OpenSSL in Android](https://www.reddit.com/r/androiddev/comments/wifjrb/openssl_in_android/)
-- [I added Jetpack Navigation Component to my app and now I can push buttons &lpar;or other things that detects touch events&rpar; under the visible fragments. How to prevent that?](https://www.reddit.com/r/androiddev/comments/wieykd/i_added_jetpack_navigation_component_to_my_app/)
-- [Mobile App Refactoring Initiative by Slack](https://www.reddit.com/r/androiddev/comments/wiek5o/mobile_app_refactoring_initiative_by_slack/)
-- [When trying to use TextView, it just doesn&#39;t work and I don&#39;t know what to do](https://www.reddit.com/r/androiddev/comments/wie95x/when_trying_to_use_textview_it_just_doesnt_work/)
-- [Trying to understand per app language preferences in Android 13](https://www.reddit.com/r/androiddev/comments/widlhe/trying_to_understand_per_app_language_preferences/)
-- [How to build an app like Netflix UI on Android TV?](https://www.reddit.com/r/androiddev/comments/wi7nmc/how_to_build_an_app_like_netflix_ui_on_android_tv/)
+- [Portable IoT devices that run android os.](https://www.reddit.com/r/androiddev/comments/wjmcv9/portable_iot_devices_that_run_android_os/)
+- [strange bug in onViewCreated?](https://www.reddit.com/r/androiddev/comments/wjkdmy/strange_bug_in_onviewcreated/)
+- [Where should I post my question?](https://www.reddit.com/r/androiddev/comments/wjjnrv/where_should_i_post_my_question/)
+- [How is Google Maps able to display the Map in Lock Screen?](https://www.reddit.com/r/androiddev/comments/wjizqi/how_is_google_maps_able_to_display_the_map_in/)
+- [Init an ADB shell connection from USB Host](https://www.reddit.com/r/androiddev/comments/wji8id/init_an_adb_shell_connection_from_usb_host/)
+- [Unable to make back to fragment actions work properly with Navigation component](https://www.reddit.com/r/androiddev/comments/wjh4wc/unable_to_make_back_to_fragment_actions_work/)
+- [Kotlin Flow implementation of SingleLiveEvent](https://www.reddit.com/r/androiddev/comments/wjgpza/kotlin_flow_implementation_of_singleliveevent/)
+- [Slow UI tests on pipeline](https://www.reddit.com/r/androiddev/comments/wjgfjm/slow_ui_tests_on_pipeline/)
+- [Long Play Store Review Times](https://www.reddit.com/r/androiddev/comments/wjfhf9/long_play_store_review_times/)
+- [How can I have multiple categories for my app on the Play store?](https://www.reddit.com/r/androiddev/comments/wjfg51/how_can_i_have_multiple_categories_for_my_app_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
