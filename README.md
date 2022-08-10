@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Portable IoT devices that run android os.](https://www.reddit.com/r/androiddev/comments/wjmcv9/portable_iot_devices_that_run_android_os/)
-- [strange bug in onViewCreated?](https://www.reddit.com/r/androiddev/comments/wjkdmy/strange_bug_in_onviewcreated/)
-- [Where should I post my question?](https://www.reddit.com/r/androiddev/comments/wjjnrv/where_should_i_post_my_question/)
-- [How is Google Maps able to display the Map in Lock Screen?](https://www.reddit.com/r/androiddev/comments/wjizqi/how_is_google_maps_able_to_display_the_map_in/)
-- [Init an ADB shell connection from USB Host](https://www.reddit.com/r/androiddev/comments/wji8id/init_an_adb_shell_connection_from_usb_host/)
-- [Unable to make back to fragment actions work properly with Navigation component](https://www.reddit.com/r/androiddev/comments/wjh4wc/unable_to_make_back_to_fragment_actions_work/)
-- [Kotlin Flow implementation of SingleLiveEvent](https://www.reddit.com/r/androiddev/comments/wjgpza/kotlin_flow_implementation_of_singleliveevent/)
-- [Slow UI tests on pipeline](https://www.reddit.com/r/androiddev/comments/wjgfjm/slow_ui_tests_on_pipeline/)
-- [Long Play Store Review Times](https://www.reddit.com/r/androiddev/comments/wjfhf9/long_play_store_review_times/)
-- [How can I have multiple categories for my app on the Play store?](https://www.reddit.com/r/androiddev/comments/wjfg51/how_can_i_have_multiple_categories_for_my_app_on/)
+- [a not uninstallable app](https://www.reddit.com/r/androiddev/comments/wkk7n5/a_not_uninstallable_app/)
+- [Realtime progressive notification system](https://www.reddit.com/r/androiddev/comments/wkjgxx/realtime_progressive_notification_system/)
+- [Node backend builtin within an app](https://www.reddit.com/r/androiddev/comments/wkj9i3/node_backend_builtin_within_an_app/)
+- [Table for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wkhr4q/table_for_jetpack_compose/)
+- [What is the ideal way to handle functions that i use globally?](https://www.reddit.com/r/androiddev/comments/wkf8xf/what_is_the_ideal_way_to_handle_functions_that_i/)
+- [[Improvement] How to resize/inSampleSize bitmap to scan QR code from Image ?](https://www.reddit.com/r/androiddev/comments/wkf7gv/improvement_how_to_resizeinsamplesize_bitmap_to/)
+- [Would anyone be interested in trying out an Android Studio plugin for completing Google data safety forms?](https://www.reddit.com/r/androiddev/comments/wkeqt6/would_anyone_be_interested_in_trying_out_an/)
+- [Is there a way to get multiple views using ViewBinding](https://www.reddit.com/r/androiddev/comments/wkea9u/is_there_a_way_to_get_multiple_views_using/)
+- [Android fragments best practice](https://www.reddit.com/r/androiddev/comments/wkd86v/android_fragments_best_practice/)
+- [Understanding where local server files are located](https://www.reddit.com/r/androiddev/comments/wkcoan/understanding_where_local_server_files_are_located/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
