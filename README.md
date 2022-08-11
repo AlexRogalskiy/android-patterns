@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [a not uninstallable app](https://www.reddit.com/r/androiddev/comments/wkk7n5/a_not_uninstallable_app/)
-- [Realtime progressive notification system](https://www.reddit.com/r/androiddev/comments/wkjgxx/realtime_progressive_notification_system/)
-- [Node backend builtin within an app](https://www.reddit.com/r/androiddev/comments/wkj9i3/node_backend_builtin_within_an_app/)
-- [Table for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wkhr4q/table_for_jetpack_compose/)
-- [What is the ideal way to handle functions that i use globally?](https://www.reddit.com/r/androiddev/comments/wkf8xf/what_is_the_ideal_way_to_handle_functions_that_i/)
-- [[Improvement] How to resize/inSampleSize bitmap to scan QR code from Image ?](https://www.reddit.com/r/androiddev/comments/wkf7gv/improvement_how_to_resizeinsamplesize_bitmap_to/)
-- [Would anyone be interested in trying out an Android Studio plugin for completing Google data safety forms?](https://www.reddit.com/r/androiddev/comments/wkeqt6/would_anyone_be_interested_in_trying_out_an/)
-- [Is there a way to get multiple views using ViewBinding](https://www.reddit.com/r/androiddev/comments/wkea9u/is_there_a_way_to_get_multiple_views_using/)
-- [Android fragments best practice](https://www.reddit.com/r/androiddev/comments/wkd86v/android_fragments_best_practice/)
-- [Understanding where local server files are located](https://www.reddit.com/r/androiddev/comments/wkcoan/understanding_where_local_server_files_are_located/)
+- [Complete amateur to Android dev - want to get a sense of how hard something would be](https://www.reddit.com/r/androiddev/comments/wlf78z/complete_amateur_to_android_dev_want_to_get_a/)
+- [Long update review times](https://www.reddit.com/r/androiddev/comments/wlboxo/long_update_review_times/)
+- [Firebase push notification only when the app is not in the foreground](https://www.reddit.com/r/androiddev/comments/wlagca/firebase_push_notification_only_when_the_app_is/)
+- [Is it possible to control your android phone on your PC without having to download an app for your phone?](https://www.reddit.com/r/androiddev/comments/wl97p9/is_it_possible_to_control_your_android_phone_on/)
+- [How to handle Webview vulnerability from Third party SDKs?](https://www.reddit.com/r/androiddev/comments/wl5j2y/how_to_handle_webview_vulnerability_from_third/)
+- [Recommendations for beginner BLE development.](https://www.reddit.com/r/androiddev/comments/wl5ar4/recommendations_for_beginner_ble_development/)
+- [How can i learn clean arch? i took some courses but they are confusing as hell.](https://www.reddit.com/r/androiddev/comments/wl3cgk/how_can_i_learn_clean_arch_i_took_some_courses/)
+- [Can i automate my android like Selenium?](https://www.reddit.com/r/androiddev/comments/wl3aap/can_i_automate_my_android_like_selenium/)
+- [What is this popup dialog?](https://www.reddit.com/r/androiddev/comments/wl2jnf/what_is_this_popup_dialog/)
+- [How can I move two viewpager2 synchronously?](https://www.reddit.com/r/androiddev/comments/wl0ltd/how_can_i_move_two_viewpager2_synchronously/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
