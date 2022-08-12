@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Complete amateur to Android dev - want to get a sense of how hard something would be](https://www.reddit.com/r/androiddev/comments/wlf78z/complete_amateur_to_android_dev_want_to_get_a/)
-- [Long update review times](https://www.reddit.com/r/androiddev/comments/wlboxo/long_update_review_times/)
-- [Firebase push notification only when the app is not in the foreground](https://www.reddit.com/r/androiddev/comments/wlagca/firebase_push_notification_only_when_the_app_is/)
-- [Is it possible to control your android phone on your PC without having to download an app for your phone?](https://www.reddit.com/r/androiddev/comments/wl97p9/is_it_possible_to_control_your_android_phone_on/)
-- [How to handle Webview vulnerability from Third party SDKs?](https://www.reddit.com/r/androiddev/comments/wl5j2y/how_to_handle_webview_vulnerability_from_third/)
-- [Recommendations for beginner BLE development.](https://www.reddit.com/r/androiddev/comments/wl5ar4/recommendations_for_beginner_ble_development/)
-- [How can i learn clean arch? i took some courses but they are confusing as hell.](https://www.reddit.com/r/androiddev/comments/wl3cgk/how_can_i_learn_clean_arch_i_took_some_courses/)
-- [Can i automate my android like Selenium?](https://www.reddit.com/r/androiddev/comments/wl3aap/can_i_automate_my_android_like_selenium/)
-- [What is this popup dialog?](https://www.reddit.com/r/androiddev/comments/wl2jnf/what_is_this_popup_dialog/)
-- [How can I move two viewpager2 synchronously?](https://www.reddit.com/r/androiddev/comments/wl0ltd/how_can_i_move_two_viewpager2_synchronously/)
+- [&lpar;Firebase Dynamic links&rpar; App Links only work when pressed in message / notepad?](https://www.reddit.com/r/androiddev/comments/wm6219/firebase_dynamic_links_app_links_only_work_when/)
+- [Most up to date and easy way of passing a StateFlow to a Composable?](https://www.reddit.com/r/androiddev/comments/wm5s7u/most_up_to_date_and_easy_way_of_passing_a/)
+- [I just open sourced my app, S2 Music Player](https://www.reddit.com/r/androiddev/comments/wm3h1y/i_just_open_sourced_my_app_s2_music_player/)
+- [Android WebRTC Guide: Building Android Streaming App with WebRTC SDK](https://www.reddit.com/r/androiddev/comments/wm129n/android_webrtc_guide_building_android_streaming/)
+- [Is it only me that mocking server API is sooo hard?](https://www.reddit.com/r/androiddev/comments/wlx9e6/is_it_only_me_that_mocking_server_api_is_sooo_hard/)
+- [How do you deal with releasing an app on Android and iOS, but not simultaneously?](https://www.reddit.com/r/androiddev/comments/wlwobl/how_do_you_deal_with_releasing_an_app_on_android/)
+- [emulator and phone given different colour values..](https://www.reddit.com/r/androiddev/comments/wlwczd/emulator_and_phone_given_different_colour_values/)
+- [Jetpack Compose vs Flutter learning curve and complexity.](https://www.reddit.com/r/androiddev/comments/wlvxw1/jetpack_compose_vs_flutter_learning_curve_and/)
+- [Coderbyte test for a Android Engineer role?](https://www.reddit.com/r/androiddev/comments/wlu8af/coderbyte_test_for_a_android_engineer_role/)
+- [Application development services](https://www.reddit.com/r/androiddev/comments/wlqfmn/application_development_services/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
