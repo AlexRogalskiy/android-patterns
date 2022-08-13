@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&lpar;Firebase Dynamic links&rpar; App Links only work when pressed in message / notepad?](https://www.reddit.com/r/androiddev/comments/wm6219/firebase_dynamic_links_app_links_only_work_when/)
-- [Most up to date and easy way of passing a StateFlow to a Composable?](https://www.reddit.com/r/androiddev/comments/wm5s7u/most_up_to_date_and_easy_way_of_passing_a/)
-- [I just open sourced my app, S2 Music Player](https://www.reddit.com/r/androiddev/comments/wm3h1y/i_just_open_sourced_my_app_s2_music_player/)
-- [Android WebRTC Guide: Building Android Streaming App with WebRTC SDK](https://www.reddit.com/r/androiddev/comments/wm129n/android_webrtc_guide_building_android_streaming/)
-- [Is it only me that mocking server API is sooo hard?](https://www.reddit.com/r/androiddev/comments/wlx9e6/is_it_only_me_that_mocking_server_api_is_sooo_hard/)
-- [How do you deal with releasing an app on Android and iOS, but not simultaneously?](https://www.reddit.com/r/androiddev/comments/wlwobl/how_do_you_deal_with_releasing_an_app_on_android/)
-- [emulator and phone given different colour values..](https://www.reddit.com/r/androiddev/comments/wlwczd/emulator_and_phone_given_different_colour_values/)
-- [Jetpack Compose vs Flutter learning curve and complexity.](https://www.reddit.com/r/androiddev/comments/wlvxw1/jetpack_compose_vs_flutter_learning_curve_and/)
-- [Coderbyte test for a Android Engineer role?](https://www.reddit.com/r/androiddev/comments/wlu8af/coderbyte_test_for_a_android_engineer_role/)
-- [Application development services](https://www.reddit.com/r/androiddev/comments/wlqfmn/application_development_services/)
+- [Any idea of how I can scale TextureView to give the appearance of centercrop](https://www.reddit.com/r/androiddev/comments/wmzhll/any_idea_of_how_i_can_scale_textureview_to_give/)
+- [How to respond if an interviewer ask me a programming code challenge I have no clue about?](https://www.reddit.com/r/androiddev/comments/wmz2mx/how_to_respond_if_an_interviewer_ask_me_a/)
+- [Common mistakes in building a WebRTC Android App](https://www.reddit.com/r/androiddev/comments/wmwjd1/common_mistakes_in_building_a_webrtc_android_app/)
+- [Anyone working in mobile development right now?](https://www.reddit.com/r/androiddev/comments/wmumyn/anyone_working_in_mobile_development_right_now/)
+- [How many android developers in India?](https://www.reddit.com/r/androiddev/comments/wmr9do/how_many_android_developers_in_india/)
+- [Skills that compliment Kotlin?](https://www.reddit.com/r/androiddev/comments/wmr8fl/skills_that_compliment_kotlin/)
+- [Clipboard access on android &gt; 10](https://www.reddit.com/r/androiddev/comments/wmr59w/clipboard_access_on_android_10/)
+- [Play store app update rejected for a strange reason - &quot;Artifact image&quot;](https://www.reddit.com/r/androiddev/comments/wmqbxd/play_store_app_update_rejected_for_a_strange/)
+- [Need help with an android game I am trying to develop](https://www.reddit.com/r/androiddev/comments/wmpfpo/need_help_with_an_android_game_i_am_trying_to/)
+- [Is there any video compressor libraries for kotlin?](https://www.reddit.com/r/androiddev/comments/wmnheb/is_there_any_video_compressor_libraries_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
