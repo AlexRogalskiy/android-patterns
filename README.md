@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any idea of how I can scale TextureView to give the appearance of centercrop](https://www.reddit.com/r/androiddev/comments/wmzhll/any_idea_of_how_i_can_scale_textureview_to_give/)
-- [How to respond if an interviewer ask me a programming code challenge I have no clue about?](https://www.reddit.com/r/androiddev/comments/wmz2mx/how_to_respond_if_an_interviewer_ask_me_a/)
-- [Common mistakes in building a WebRTC Android App](https://www.reddit.com/r/androiddev/comments/wmwjd1/common_mistakes_in_building_a_webrtc_android_app/)
-- [Anyone working in mobile development right now?](https://www.reddit.com/r/androiddev/comments/wmumyn/anyone_working_in_mobile_development_right_now/)
-- [How many android developers in India?](https://www.reddit.com/r/androiddev/comments/wmr9do/how_many_android_developers_in_india/)
-- [Skills that compliment Kotlin?](https://www.reddit.com/r/androiddev/comments/wmr8fl/skills_that_compliment_kotlin/)
-- [Clipboard access on android &gt; 10](https://www.reddit.com/r/androiddev/comments/wmr59w/clipboard_access_on_android_10/)
-- [Play store app update rejected for a strange reason - &quot;Artifact image&quot;](https://www.reddit.com/r/androiddev/comments/wmqbxd/play_store_app_update_rejected_for_a_strange/)
-- [Need help with an android game I am trying to develop](https://www.reddit.com/r/androiddev/comments/wmpfpo/need_help_with_an_android_game_i_am_trying_to/)
-- [Is there any video compressor libraries for kotlin?](https://www.reddit.com/r/androiddev/comments/wmnheb/is_there_any_video_compressor_libraries_for_kotlin/)
+- [How do I get better at preparing for programming interviews, I started learning how to solve common interview questions such as how to reverse a string, etc.. what&#39;s the goal here? memorization](https://www.reddit.com/r/androiddev/comments/wnudgp/how_do_i_get_better_at_preparing_for_programming/)
+- [How can i wait for workmanager to finish in Android?](https://www.reddit.com/r/androiddev/comments/wnspsr/how_can_i_wait_for_workmanager_to_finish_in/)
+- [Is a Spinner comparable to a ListPreference, or does something else exist?](https://www.reddit.com/r/androiddev/comments/wnryxy/is_a_spinner_comparable_to_a_listpreference_or/)
+- [Google Play review process: 5 days and still waiting](https://www.reddit.com/r/androiddev/comments/wnosjl/google_play_review_process_5_days_and_still/)
+- [Kotlin Intern requirements.](https://www.reddit.com/r/androiddev/comments/wnopf9/kotlin_intern_requirements/)
+- [Is there a way to bind AsynchronousSocketChannel to Network](https://www.reddit.com/r/androiddev/comments/wno89e/is_there_a_way_to_bind_asynchronoussocketchannel/)
+- [help me guys please I don&#39;t know what is problem](https://www.reddit.com/r/androiddev/comments/wnm0fr/help_me_guys_please_i_dont_know_what_is_problem/)
+- [Getting data from a private constructor class in to main activity &lpar;in app purchases&rpar;.](https://www.reddit.com/r/androiddev/comments/wnlwj8/getting_data_from_a_private_constructor_class_in/)
+- [Is BottomSheetDialogFragment any different from a regular BottomSheetDialog?](https://www.reddit.com/r/androiddev/comments/wnibmu/is_bottomsheetdialogfragment_any_different_from_a/)
+- [I havent run any ads for my game but i see some numbers for Third-party referrals, where does it come from?](https://www.reddit.com/r/androiddev/comments/wnh6lo/i_havent_run_any_ads_for_my_game_but_i_see_some/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
