@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I get better at preparing for programming interviews, I started learning how to solve common interview questions such as how to reverse a string, etc.. what&#39;s the goal here? memorization](https://www.reddit.com/r/androiddev/comments/wnudgp/how_do_i_get_better_at_preparing_for_programming/)
-- [How can i wait for workmanager to finish in Android?](https://www.reddit.com/r/androiddev/comments/wnspsr/how_can_i_wait_for_workmanager_to_finish_in/)
-- [Is a Spinner comparable to a ListPreference, or does something else exist?](https://www.reddit.com/r/androiddev/comments/wnryxy/is_a_spinner_comparable_to_a_listpreference_or/)
-- [Google Play review process: 5 days and still waiting](https://www.reddit.com/r/androiddev/comments/wnosjl/google_play_review_process_5_days_and_still/)
-- [Kotlin Intern requirements.](https://www.reddit.com/r/androiddev/comments/wnopf9/kotlin_intern_requirements/)
-- [Is there a way to bind AsynchronousSocketChannel to Network](https://www.reddit.com/r/androiddev/comments/wno89e/is_there_a_way_to_bind_asynchronoussocketchannel/)
-- [help me guys please I don&#39;t know what is problem](https://www.reddit.com/r/androiddev/comments/wnm0fr/help_me_guys_please_i_dont_know_what_is_problem/)
-- [Getting data from a private constructor class in to main activity &lpar;in app purchases&rpar;.](https://www.reddit.com/r/androiddev/comments/wnlwj8/getting_data_from_a_private_constructor_class_in/)
-- [Is BottomSheetDialogFragment any different from a regular BottomSheetDialog?](https://www.reddit.com/r/androiddev/comments/wnibmu/is_bottomsheetdialogfragment_any_different_from_a/)
-- [I havent run any ads for my game but i see some numbers for Third-party referrals, where does it come from?](https://www.reddit.com/r/androiddev/comments/wnh6lo/i_havent_run_any_ads_for_my_game_but_i_see_some/)
+- [where exactly do i put android studio in the skills section of my resume?](https://www.reddit.com/r/androiddev/comments/woodrn/where_exactly_do_i_put_android_studio_in_the/)
+- [How quickly can you throw together a recyclerview full of data?](https://www.reddit.com/r/androiddev/comments/wom2d0/how_quickly_can_you_throw_together_a_recyclerview/)
+- [Android supports bluetooth keyboard and mice, so how much longer until Android restores all the desktop/workstation features that all other Linux distro on Earth except Android have always had from the beginning &lpar;DECADES NOW&rpar;? Can I help? Nothing has improved since Android came out...](https://www.reddit.com/r/androiddev/comments/woi5ji/android_supports_bluetooth_keyboard_and_mice_so/)
+- [correct implementation of rewarded ads with admob](https://www.reddit.com/r/androiddev/comments/wohxmn/correct_implementation_of_rewarded_ads_with_admob/)
+- [Admob july revenue report](https://www.reddit.com/r/androiddev/comments/wofhjd/admob_july_revenue_report/)
+- [Which App Monetization Platforms are you using other than Google Admob?](https://www.reddit.com/r/androiddev/comments/wof7h7/which_app_monetization_platforms_are_you_using/)
+- [Anyone else worried about new ads policy?](https://www.reddit.com/r/androiddev/comments/wobsuv/anyone_else_worried_about_new_ads_policy/)
+- [I tried to stick to React Native, just to make me realize how shitty cross-platform frameworks are...](https://www.reddit.com/r/androiddev/comments/wo7u7e/i_tried_to_stick_to_react_native_just_to_make_me/)
+- [Comedian app concept](https://www.reddit.com/r/androiddev/comments/wo7lix/comedian_app_concept/)
+- [How to make Andorid App that enters data in MS ACCESS Database ?](https://www.reddit.com/r/androiddev/comments/wo6q0f/how_to_make_andorid_app_that_enters_data_in_ms/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
