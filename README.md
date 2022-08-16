@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [where exactly do i put android studio in the skills section of my resume?](https://www.reddit.com/r/androiddev/comments/woodrn/where_exactly_do_i_put_android_studio_in_the/)
-- [How quickly can you throw together a recyclerview full of data?](https://www.reddit.com/r/androiddev/comments/wom2d0/how_quickly_can_you_throw_together_a_recyclerview/)
-- [Android supports bluetooth keyboard and mice, so how much longer until Android restores all the desktop/workstation features that all other Linux distro on Earth except Android have always had from the beginning &lpar;DECADES NOW&rpar;? Can I help? Nothing has improved since Android came out...](https://www.reddit.com/r/androiddev/comments/woi5ji/android_supports_bluetooth_keyboard_and_mice_so/)
-- [correct implementation of rewarded ads with admob](https://www.reddit.com/r/androiddev/comments/wohxmn/correct_implementation_of_rewarded_ads_with_admob/)
-- [Admob july revenue report](https://www.reddit.com/r/androiddev/comments/wofhjd/admob_july_revenue_report/)
-- [Which App Monetization Platforms are you using other than Google Admob?](https://www.reddit.com/r/androiddev/comments/wof7h7/which_app_monetization_platforms_are_you_using/)
-- [Anyone else worried about new ads policy?](https://www.reddit.com/r/androiddev/comments/wobsuv/anyone_else_worried_about_new_ads_policy/)
-- [I tried to stick to React Native, just to make me realize how shitty cross-platform frameworks are...](https://www.reddit.com/r/androiddev/comments/wo7u7e/i_tried_to_stick_to_react_native_just_to_make_me/)
-- [Comedian app concept](https://www.reddit.com/r/androiddev/comments/wo7lix/comedian_app_concept/)
-- [How to make Andorid App that enters data in MS ACCESS Database ?](https://www.reddit.com/r/androiddev/comments/wo6q0f/how_to_make_andorid_app_that_enters_data_in_ms/)
+- [Sparking Jetpack Compose at Tinder](https://www.reddit.com/r/androiddev/comments/wph3tk/sparking_jetpack_compose_at_tinder/)
+- [How should multiple api calls be structured?](https://www.reddit.com/r/androiddev/comments/wpgcl2/how_should_multiple_api_calls_be_structured/)
+- [How to Setup an Auto-Scaling Streaming Server with Kubernetes for Streaming Apps](https://www.reddit.com/r/androiddev/comments/wpb44f/how_to_setup_an_autoscaling_streaming_server_with/)
+- [Anyone else banned by applovin?](https://www.reddit.com/r/androiddev/comments/wpaul2/anyone_else_banned_by_applovin/)
+- [How can I implement this mask animation on Android?](https://www.reddit.com/r/androiddev/comments/wpaf5g/how_can_i_implement_this_mask_animation_on_android/)
+- [Android 13 source code released to AOSP](https://www.reddit.com/r/androiddev/comments/wp9f2k/android_13_source_code_released_to_aosp/)
+- [What are some high paying companies/firms in native Android development.](https://www.reddit.com/r/androiddev/comments/wp87ms/what_are_some_high_paying_companiesfirms_in/)
+- [Any suggestions about the icon that will express for LinearLayoutManager horizontal orientation?](https://www.reddit.com/r/androiddev/comments/wp6ysl/any_suggestions_about_the_icon_that_will_express/)
+- [Stable Android 13 Released](https://www.reddit.com/r/androiddev/comments/wp6mrm/stable_android_13_released/)
+- [Android 13 is in AOSP!](https://www.reddit.com/r/androiddev/comments/wp5211/android_13_is_in_aosp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
