@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sparking Jetpack Compose at Tinder](https://www.reddit.com/r/androiddev/comments/wph3tk/sparking_jetpack_compose_at_tinder/)
-- [How should multiple api calls be structured?](https://www.reddit.com/r/androiddev/comments/wpgcl2/how_should_multiple_api_calls_be_structured/)
-- [How to Setup an Auto-Scaling Streaming Server with Kubernetes for Streaming Apps](https://www.reddit.com/r/androiddev/comments/wpb44f/how_to_setup_an_autoscaling_streaming_server_with/)
-- [Anyone else banned by applovin?](https://www.reddit.com/r/androiddev/comments/wpaul2/anyone_else_banned_by_applovin/)
-- [How can I implement this mask animation on Android?](https://www.reddit.com/r/androiddev/comments/wpaf5g/how_can_i_implement_this_mask_animation_on_android/)
-- [Android 13 source code released to AOSP](https://www.reddit.com/r/androiddev/comments/wp9f2k/android_13_source_code_released_to_aosp/)
-- [What are some high paying companies/firms in native Android development.](https://www.reddit.com/r/androiddev/comments/wp87ms/what_are_some_high_paying_companiesfirms_in/)
-- [Any suggestions about the icon that will express for LinearLayoutManager horizontal orientation?](https://www.reddit.com/r/androiddev/comments/wp6ysl/any_suggestions_about_the_icon_that_will_express/)
-- [Stable Android 13 Released](https://www.reddit.com/r/androiddev/comments/wp6mrm/stable_android_13_released/)
-- [Android 13 is in AOSP!](https://www.reddit.com/r/androiddev/comments/wp5211/android_13_is_in_aosp/)
+- [minimum specs to work as a freelance mobile dev](https://www.reddit.com/r/androiddev/comments/wq9zlw/minimum_specs_to_work_as_a_freelance_mobile_dev/)
+- [What is an example of a good app that pushes the boundaries of what&#39;s possible on a mobile device?](https://www.reddit.com/r/androiddev/comments/wq96yy/what_is_an_example_of_a_good_app_that_pushes_the/)
+- [which language should i pick for android dev...](https://www.reddit.com/r/androiddev/comments/wq32zf/which_language_should_i_pick_for_android_dev/)
+- [Android Studio Dolphin RC1 now available](https://www.reddit.com/r/androiddev/comments/wq0ykg/android_studio_dolphin_rc1_now_available/)
+- [KMM&lpar;Android &amp; iOS&rpar; Payments Apps w/ Stripe](https://www.reddit.com/r/androiddev/comments/wq0ucj/kmmandroid_ios_payments_apps_w_stripe/)
+- [What&#39;s the proper way to shit down the emulator?](https://www.reddit.com/r/androiddev/comments/wq0rn0/whats_the_proper_way_to_shit_down_the_emulator/)
+- [SuspendApp: A New Arrow Library from 47 Degrees](https://www.reddit.com/r/androiddev/comments/wq0a5u/suspendapp_a_new_arrow_library_from_47_degrees/)
+- [Kotlin - Cannot inherit from final error - Android Studio](https://www.reddit.com/r/androiddev/comments/wq00f9/kotlin_cannot_inherit_from_final_error_android/)
+- [Is it possible to set different prices based upon country?](https://www.reddit.com/r/androiddev/comments/wpyvc0/is_it_possible_to_set_different_prices_based_upon/)
+- [Interstial ad not showing up with a button counter](https://www.reddit.com/r/androiddev/comments/wpy24j/interstial_ad_not_showing_up_with_a_button_counter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
