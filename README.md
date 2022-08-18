@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [minimum specs to work as a freelance mobile dev](https://www.reddit.com/r/androiddev/comments/wq9zlw/minimum_specs_to_work_as_a_freelance_mobile_dev/)
-- [What is an example of a good app that pushes the boundaries of what&#39;s possible on a mobile device?](https://www.reddit.com/r/androiddev/comments/wq96yy/what_is_an_example_of_a_good_app_that_pushes_the/)
-- [which language should i pick for android dev...](https://www.reddit.com/r/androiddev/comments/wq32zf/which_language_should_i_pick_for_android_dev/)
-- [Android Studio Dolphin RC1 now available](https://www.reddit.com/r/androiddev/comments/wq0ykg/android_studio_dolphin_rc1_now_available/)
-- [KMM&lpar;Android &amp; iOS&rpar; Payments Apps w/ Stripe](https://www.reddit.com/r/androiddev/comments/wq0ucj/kmmandroid_ios_payments_apps_w_stripe/)
-- [What&#39;s the proper way to shit down the emulator?](https://www.reddit.com/r/androiddev/comments/wq0rn0/whats_the_proper_way_to_shit_down_the_emulator/)
-- [SuspendApp: A New Arrow Library from 47 Degrees](https://www.reddit.com/r/androiddev/comments/wq0a5u/suspendapp_a_new_arrow_library_from_47_degrees/)
-- [Kotlin - Cannot inherit from final error - Android Studio](https://www.reddit.com/r/androiddev/comments/wq00f9/kotlin_cannot_inherit_from_final_error_android/)
-- [Is it possible to set different prices based upon country?](https://www.reddit.com/r/androiddev/comments/wpyvc0/is_it_possible_to_set_different_prices_based_upon/)
-- [Interstial ad not showing up with a button counter](https://www.reddit.com/r/androiddev/comments/wpy24j/interstial_ad_not_showing_up_with_a_button_counter/)
+- [&quot;App not installed as package appears to be invalid.&quot; when install new version of the same android app.](https://www.reddit.com/r/androiddev/comments/wr652q/app_not_installed_as_package_appears_to_be/)
+- [How to Implement Custom Radio Button Android Studio](https://www.reddit.com/r/androiddev/comments/wr2jv0/how_to_implement_custom_radio_button_android/)
+- [Is anybody else having issues with the app not launching after being built and installed on the device since android 13 update?](https://www.reddit.com/r/androiddev/comments/wqyz6l/is_anybody_else_having_issues_with_the_app_not/)
+- [Material &amp; Custom theming using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wqx010/material_custom_theming_using_jetpack_compose/)
+- [Android app integration with Microsoft Intune](https://www.reddit.com/r/androiddev/comments/wqwu7h/android_app_integration_with_microsoft_intune/)
+- [Just curious, why do mobile devs get paid more than web developers?](https://www.reddit.com/r/androiddev/comments/wqvvr1/just_curious_why_do_mobile_devs_get_paid_more/)
+- [Android Gesture Nav Conflict](https://www.reddit.com/r/androiddev/comments/wqvlaq/android_gesture_nav_conflict/)
+- [Celebrating 5 years of Kotlin on Android](https://www.reddit.com/r/androiddev/comments/wqur1l/celebrating_5_years_of_kotlin_on_android/)
+- [Does this mean ... I am HACKED??](https://www.reddit.com/r/androiddev/comments/wqug5c/does_this_mean_i_am_hacked/)
+- [When I try and Java create a class it has no fields for me to edit, would you be able to help me. As in image 1, image 2 is the normal setting I’m trying to achieve](https://www.reddit.com/r/androiddev/comments/wqtrqa/when_i_try_and_java_create_a_class_it_has_no/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
