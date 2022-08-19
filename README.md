@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&quot;App not installed as package appears to be invalid.&quot; when install new version of the same android app.](https://www.reddit.com/r/androiddev/comments/wr652q/app_not_installed_as_package_appears_to_be/)
-- [How to Implement Custom Radio Button Android Studio](https://www.reddit.com/r/androiddev/comments/wr2jv0/how_to_implement_custom_radio_button_android/)
-- [Is anybody else having issues with the app not launching after being built and installed on the device since android 13 update?](https://www.reddit.com/r/androiddev/comments/wqyz6l/is_anybody_else_having_issues_with_the_app_not/)
-- [Material &amp; Custom theming using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wqx010/material_custom_theming_using_jetpack_compose/)
-- [Android app integration with Microsoft Intune](https://www.reddit.com/r/androiddev/comments/wqwu7h/android_app_integration_with_microsoft_intune/)
-- [Just curious, why do mobile devs get paid more than web developers?](https://www.reddit.com/r/androiddev/comments/wqvvr1/just_curious_why_do_mobile_devs_get_paid_more/)
-- [Android Gesture Nav Conflict](https://www.reddit.com/r/androiddev/comments/wqvlaq/android_gesture_nav_conflict/)
-- [Celebrating 5 years of Kotlin on Android](https://www.reddit.com/r/androiddev/comments/wqur1l/celebrating_5_years_of_kotlin_on_android/)
-- [Does this mean ... I am HACKED??](https://www.reddit.com/r/androiddev/comments/wqug5c/does_this_mean_i_am_hacked/)
-- [When I try and Java create a class it has no fields for me to edit, would you be able to help me. As in image 1, image 2 is the normal setting I’m trying to achieve](https://www.reddit.com/r/androiddev/comments/wqtrqa/when_i_try_and_java_create_a_class_it_has_no/)
+- [Why do games not utilize both vertical and horizontal screen orientations ?](https://www.reddit.com/r/androiddev/comments/ws0uz9/why_do_games_not_utilize_both_vertical_and/)
+- [apkrev: android app reverse engineering pipeline](https://www.reddit.com/r/androiddev/comments/wryyhp/apkrev_android_app_reverse_engineering_pipeline/)
+- [How AppLovin ate an Indie developer&#39;s earnings?](https://www.reddit.com/r/androiddev/comments/wrxu62/how_applovin_ate_an_indie_developers_earnings/)
+- [Has anyone here dabbled in Application Security?](https://www.reddit.com/r/androiddev/comments/wrx0bq/has_anyone_here_dabbled_in_application_security/)
+- [Compose Navigation with multiple graphs](https://www.reddit.com/r/androiddev/comments/wrwmr0/compose_navigation_with_multiple_graphs/)
+- [Droidcon London](https://www.reddit.com/r/androiddev/comments/wrwd6l/droidcon_london/)
+- [Get integer from another activity](https://www.reddit.com/r/androiddev/comments/wrtfq8/get_integer_from_another_activity/)
+- [I have my first android code challenge interview in one week, what should I practice?](https://www.reddit.com/r/androiddev/comments/wrrdk4/i_have_my_first_android_code_challenge_interview/)
+- [TWRP Recovery removed after installation!](https://www.reddit.com/r/androiddev/comments/wro9ub/twrp_recovery_removed_after_installation/)
+- [Legacy app ported to Kotlin. Project comparison.](https://www.reddit.com/r/androiddev/comments/wrmnma/legacy_app_ported_to_kotlin_project_comparison/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
