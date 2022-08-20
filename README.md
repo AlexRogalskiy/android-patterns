@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why do games not utilize both vertical and horizontal screen orientations ?](https://www.reddit.com/r/androiddev/comments/ws0uz9/why_do_games_not_utilize_both_vertical_and/)
-- [apkrev: android app reverse engineering pipeline](https://www.reddit.com/r/androiddev/comments/wryyhp/apkrev_android_app_reverse_engineering_pipeline/)
-- [How AppLovin ate an Indie developer&#39;s earnings?](https://www.reddit.com/r/androiddev/comments/wrxu62/how_applovin_ate_an_indie_developers_earnings/)
-- [Has anyone here dabbled in Application Security?](https://www.reddit.com/r/androiddev/comments/wrx0bq/has_anyone_here_dabbled_in_application_security/)
-- [Compose Navigation with multiple graphs](https://www.reddit.com/r/androiddev/comments/wrwmr0/compose_navigation_with_multiple_graphs/)
-- [Droidcon London](https://www.reddit.com/r/androiddev/comments/wrwd6l/droidcon_london/)
-- [Get integer from another activity](https://www.reddit.com/r/androiddev/comments/wrtfq8/get_integer_from_another_activity/)
-- [I have my first android code challenge interview in one week, what should I practice?](https://www.reddit.com/r/androiddev/comments/wrrdk4/i_have_my_first_android_code_challenge_interview/)
-- [TWRP Recovery removed after installation!](https://www.reddit.com/r/androiddev/comments/wro9ub/twrp_recovery_removed_after_installation/)
-- [Legacy app ported to Kotlin. Project comparison.](https://www.reddit.com/r/androiddev/comments/wrmnma/legacy_app_ported_to_kotlin_project_comparison/)
+- [Deleting my Google Play Console](https://www.reddit.com/r/androiddev/comments/wsv6uf/deleting_my_google_play_console/)
+- [I need examples for customers reporting issues using our contact us functionality](https://www.reddit.com/r/androiddev/comments/wsu4q7/i_need_examples_for_customers_reporting_issues/)
+- [Is storing your API key using NDK or CMake safe?](https://www.reddit.com/r/androiddev/comments/wst3ae/is_storing_your_api_key_using_ndk_or_cmake_safe/)
+- [How to handle in-app card payments?](https://www.reddit.com/r/androiddev/comments/wsqrb4/how_to_handle_inapp_card_payments/)
+- [Emulator routes loading taking forever](https://www.reddit.com/r/androiddev/comments/wsp6kc/emulator_routes_loading_taking_forever/)
+- [Any Android devs based in Hyderabad: like to meet if possible](https://www.reddit.com/r/androiddev/comments/wsne2z/any_android_devs_based_in_hyderabad_like_to_meet/)
+- [Google terminated our Developer Account without prior notice and based on false grounds](https://www.reddit.com/r/androiddev/comments/wsm90n/google_terminated_our_developer_account_without/)
+- [The Kotlin Multiplatform @droidconNYC app will be using Compose UI on iOS!](https://www.reddit.com/r/androiddev/comments/wsl11t/the_kotlin_multiplatform_droidconnyc_app_will_be/)
+- [Can app developers continue using the deprecated FingerprintManager API indefinitely?](https://www.reddit.com/r/androiddev/comments/wskeb7/can_app_developers_continue_using_the_deprecated/)
+- [Android custom codes docs](https://www.reddit.com/r/androiddev/comments/wsjqq9/android_custom_codes_docs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
