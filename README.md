@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Deleting my Google Play Console](https://www.reddit.com/r/androiddev/comments/wsv6uf/deleting_my_google_play_console/)
-- [I need examples for customers reporting issues using our contact us functionality](https://www.reddit.com/r/androiddev/comments/wsu4q7/i_need_examples_for_customers_reporting_issues/)
-- [Is storing your API key using NDK or CMake safe?](https://www.reddit.com/r/androiddev/comments/wst3ae/is_storing_your_api_key_using_ndk_or_cmake_safe/)
-- [How to handle in-app card payments?](https://www.reddit.com/r/androiddev/comments/wsqrb4/how_to_handle_inapp_card_payments/)
-- [Emulator routes loading taking forever](https://www.reddit.com/r/androiddev/comments/wsp6kc/emulator_routes_loading_taking_forever/)
-- [Any Android devs based in Hyderabad: like to meet if possible](https://www.reddit.com/r/androiddev/comments/wsne2z/any_android_devs_based_in_hyderabad_like_to_meet/)
-- [Google terminated our Developer Account without prior notice and based on false grounds](https://www.reddit.com/r/androiddev/comments/wsm90n/google_terminated_our_developer_account_without/)
-- [The Kotlin Multiplatform @droidconNYC app will be using Compose UI on iOS!](https://www.reddit.com/r/androiddev/comments/wsl11t/the_kotlin_multiplatform_droidconnyc_app_will_be/)
-- [Can app developers continue using the deprecated FingerprintManager API indefinitely?](https://www.reddit.com/r/androiddev/comments/wskeb7/can_app_developers_continue_using_the_deprecated/)
-- [Android custom codes docs](https://www.reddit.com/r/androiddev/comments/wsjqq9/android_custom_codes_docs/)
+- [Where did the Android Studio Stable/Beta/Dev channel selector go?](https://www.reddit.com/r/androiddev/comments/wtl946/where_did_the_android_studio_stablebetadev/)
+- [How can I disable Help improve Android Studio startup dialog?](https://www.reddit.com/r/androiddev/comments/wtk3ui/how_can_i_disable_help_improve_android_studio/)
+- [kotlin app won&#39;t run correctly on Galaxy S10, works fine on pixel 4 and 6. How to debug?](https://www.reddit.com/r/androiddev/comments/wtfohm/kotlin_app_wont_run_correctly_on_galaxy_s10_works/)
+- [SSOT with remote mediator room DB model from different screens](https://www.reddit.com/r/androiddev/comments/wtef52/ssot_with_remote_mediator_room_db_model_from/)
+- [App Review Over A Week?](https://www.reddit.com/r/androiddev/comments/wtc0pg/app_review_over_a_week/)
+- [Unable to locate ADB server in Android Studio chipmonk](https://www.reddit.com/r/androiddev/comments/wtbhzb/unable_to_locate_adb_server_in_android_studio/)
+- [How to move View with Keyboard in Android using Kotlin | John Codeos](https://www.reddit.com/r/androiddev/comments/wtao23/how_to_move_view_with_keyboard_in_android_using/)
+- [Pair Device using QR Code not working](https://www.reddit.com/r/androiddev/comments/wt9rpf/pair_device_using_qr_code_not_working/)
+- [Proving the existence of a tree with a smart phone](https://www.reddit.com/r/androiddev/comments/wt8vkt/proving_the_existence_of_a_tree_with_a_smart_phone/)
+- [How to uniquely identify a Call object](https://www.reddit.com/r/androiddev/comments/wt794g/how_to_uniquely_identify_a_call_object/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
