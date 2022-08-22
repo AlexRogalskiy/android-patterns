@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where did the Android Studio Stable/Beta/Dev channel selector go?](https://www.reddit.com/r/androiddev/comments/wtl946/where_did_the_android_studio_stablebetadev/)
-- [How can I disable Help improve Android Studio startup dialog?](https://www.reddit.com/r/androiddev/comments/wtk3ui/how_can_i_disable_help_improve_android_studio/)
-- [kotlin app won&#39;t run correctly on Galaxy S10, works fine on pixel 4 and 6. How to debug?](https://www.reddit.com/r/androiddev/comments/wtfohm/kotlin_app_wont_run_correctly_on_galaxy_s10_works/)
-- [SSOT with remote mediator room DB model from different screens](https://www.reddit.com/r/androiddev/comments/wtef52/ssot_with_remote_mediator_room_db_model_from/)
-- [App Review Over A Week?](https://www.reddit.com/r/androiddev/comments/wtc0pg/app_review_over_a_week/)
-- [Unable to locate ADB server in Android Studio chipmonk](https://www.reddit.com/r/androiddev/comments/wtbhzb/unable_to_locate_adb_server_in_android_studio/)
-- [How to move View with Keyboard in Android using Kotlin | John Codeos](https://www.reddit.com/r/androiddev/comments/wtao23/how_to_move_view_with_keyboard_in_android_using/)
-- [Pair Device using QR Code not working](https://www.reddit.com/r/androiddev/comments/wt9rpf/pair_device_using_qr_code_not_working/)
-- [Proving the existence of a tree with a smart phone](https://www.reddit.com/r/androiddev/comments/wt8vkt/proving_the_existence_of_a_tree_with_a_smart_phone/)
-- [How to uniquely identify a Call object](https://www.reddit.com/r/androiddev/comments/wt794g/how_to_uniquely_identify_a_call_object/)
+- [Do you think the Android developer experience is bad compared to RN and Flutter? I have found Ui development extremely slow.](https://www.reddit.com/r/androiddev/comments/wufiwr/do_you_think_the_android_developer_experience_is/)
+- [I need your opinion](https://www.reddit.com/r/androiddev/comments/wuf6fe/i_need_your_opinion/)
+- [Conversion Rate](https://www.reddit.com/r/androiddev/comments/wudldb/conversion_rate/)
+- [Creating smartphone duplicate.](https://www.reddit.com/r/androiddev/comments/wucko0/creating_smartphone_duplicate/)
+- [GPT-3 Android Studio Project](https://www.reddit.com/r/androiddev/comments/wubjf2/gpt3_android_studio_project/)
+- [How to turn a list into a list of DropdownMenuItems in a DropdownMenu in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wub1pj/how_to_turn_a_list_into_a_list_of/)
+- [Are there any collection of Working and Efficient Examples of Mediacodec?](https://www.reddit.com/r/androiddev/comments/wu487q/are_there_any_collection_of_working_and_efficient/)
+- [Made a Jetpack Compose Modifier that enables Tinder-like card swipe gestures to any composable](https://www.reddit.com/r/androiddev/comments/wu2vin/made_a_jetpack_compose_modifier_that_enables/)
+- [How can I make the sum of 3 number picker 100?](https://www.reddit.com/r/androiddev/comments/wu0htv/how_can_i_make_the_sum_of_3_number_picker_100/)
+- [Is creating a virtual audio device possible on Android?](https://www.reddit.com/r/androiddev/comments/wtykep/is_creating_a_virtual_audio_device_possible_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
