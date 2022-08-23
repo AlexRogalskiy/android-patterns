@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do you think the Android developer experience is bad compared to RN and Flutter? I have found Ui development extremely slow.](https://www.reddit.com/r/androiddev/comments/wufiwr/do_you_think_the_android_developer_experience_is/)
-- [I need your opinion](https://www.reddit.com/r/androiddev/comments/wuf6fe/i_need_your_opinion/)
-- [Conversion Rate](https://www.reddit.com/r/androiddev/comments/wudldb/conversion_rate/)
-- [Creating smartphone duplicate.](https://www.reddit.com/r/androiddev/comments/wucko0/creating_smartphone_duplicate/)
-- [GPT-3 Android Studio Project](https://www.reddit.com/r/androiddev/comments/wubjf2/gpt3_android_studio_project/)
-- [How to turn a list into a list of DropdownMenuItems in a DropdownMenu in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wub1pj/how_to_turn_a_list_into_a_list_of/)
-- [Are there any collection of Working and Efficient Examples of Mediacodec?](https://www.reddit.com/r/androiddev/comments/wu487q/are_there_any_collection_of_working_and_efficient/)
-- [Made a Jetpack Compose Modifier that enables Tinder-like card swipe gestures to any composable](https://www.reddit.com/r/androiddev/comments/wu2vin/made_a_jetpack_compose_modifier_that_enables/)
-- [How can I make the sum of 3 number picker 100?](https://www.reddit.com/r/androiddev/comments/wu0htv/how_can_i_make_the_sum_of_3_number_picker_100/)
-- [Is creating a virtual audio device possible on Android?](https://www.reddit.com/r/androiddev/comments/wtykep/is_creating_a_virtual_audio_device_possible_on/)
+- [Shared Preference instance runs in an independent thread](https://www.reddit.com/r/androiddev/comments/wvcd3g/shared_preference_instance_runs_in_an_independent/)
+- [Android app event logging](https://www.reddit.com/r/androiddev/comments/wva3wi/android_app_event_logging/)
+- [What to do with an old spare smartphone?](https://www.reddit.com/r/androiddev/comments/wv8guj/what_to_do_with_an_old_spare_smartphone/)
+- [NPM ERROR USING GITBASH](https://www.reddit.com/r/androiddev/comments/wv830l/npm_error_using_gitbash/)
+- [Is it allowed to publish an app to google play &lpar;as open test version&rpar; which has a link to my kickstarter?](https://www.reddit.com/r/androiddev/comments/wv6kni/is_it_allowed_to_publish_an_app_to_google_play_as/)
+- [How to create toml file?](https://www.reddit.com/r/androiddev/comments/wv5pdn/how_to_create_toml_file/)
+- [Sup...can anyone perhaps assist me quickly and explain/help me with this? So under my activity controls my partners phone &lpar;iphone12&rpar; is listed as George and I can&#39;t remove his device. Other devices I can remove as you can see resembled in picture 1 and 2 via the blue ticks.](https://www.reddit.com/r/androiddev/comments/wv5ojx/supcan_anyone_perhaps_assist_me_quickly_and/)
+- [Implementing Video Playback on Android Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wv4egp/implementing_video_playback_on_android_jetpack/)
+- [How do you check your app for security issues?](https://www.reddit.com/r/androiddev/comments/wv43s7/how_do_you_check_your_app_for_security_issues/)
+- [How to remove my app in specific countries?](https://www.reddit.com/r/androiddev/comments/wv3lcn/how_to_remove_my_app_in_specific_countries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
