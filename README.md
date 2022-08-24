@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Shared Preference instance runs in an independent thread](https://www.reddit.com/r/androiddev/comments/wvcd3g/shared_preference_instance_runs_in_an_independent/)
-- [Android app event logging](https://www.reddit.com/r/androiddev/comments/wva3wi/android_app_event_logging/)
-- [What to do with an old spare smartphone?](https://www.reddit.com/r/androiddev/comments/wv8guj/what_to_do_with_an_old_spare_smartphone/)
-- [NPM ERROR USING GITBASH](https://www.reddit.com/r/androiddev/comments/wv830l/npm_error_using_gitbash/)
-- [Is it allowed to publish an app to google play &lpar;as open test version&rpar; which has a link to my kickstarter?](https://www.reddit.com/r/androiddev/comments/wv6kni/is_it_allowed_to_publish_an_app_to_google_play_as/)
-- [How to create toml file?](https://www.reddit.com/r/androiddev/comments/wv5pdn/how_to_create_toml_file/)
-- [Sup...can anyone perhaps assist me quickly and explain/help me with this? So under my activity controls my partners phone &lpar;iphone12&rpar; is listed as George and I can&#39;t remove his device. Other devices I can remove as you can see resembled in picture 1 and 2 via the blue ticks.](https://www.reddit.com/r/androiddev/comments/wv5ojx/supcan_anyone_perhaps_assist_me_quickly_and/)
-- [Implementing Video Playback on Android Jetpack Compose](https://www.reddit.com/r/androiddev/comments/wv4egp/implementing_video_playback_on_android_jetpack/)
-- [How do you check your app for security issues?](https://www.reddit.com/r/androiddev/comments/wv43s7/how_do_you_check_your_app_for_security_issues/)
-- [How to remove my app in specific countries?](https://www.reddit.com/r/androiddev/comments/wv3lcn/how_to_remove_my_app_in_specific_countries/)
+- [How do I create a wrapper composable?](https://www.reddit.com/r/androiddev/comments/ww69bd/how_do_i_create_a_wrapper_composable/)
+- [Just open sourced my Reddit Post scheduler](https://www.reddit.com/r/androiddev/comments/ww0usq/just_open_sourced_my_reddit_post_scheduler/)
+- [Am I a Google Developer Expert now or what does this mean?](https://www.reddit.com/r/androiddev/comments/wvylal/am_i_a_google_developer_expert_now_or_what_does/)
+- [How to add material you buttons](https://www.reddit.com/r/androiddev/comments/wvx4ep/how_to_add_material_you_buttons/)
+- [Google Play Support- app with Yandex SDK is not compliant](https://www.reddit.com/r/androiddev/comments/wvsdze/google_play_support_app_with_yandex_sdk_is_not/)
+- [6 Jetpack Compose Guidelines to Optimize Your App Performance](https://www.reddit.com/r/androiddev/comments/wvoq82/6_jetpack_compose_guidelines_to_optimize_your_app/)
+- [is that true that Google Play is blocked or partially blocked on Russia ?](https://www.reddit.com/r/androiddev/comments/wvontq/is_that_true_that_google_play_is_blocked_or/)
+- [Text-to-speech with Japanese voice](https://www.reddit.com/r/androiddev/comments/wvoiwl/texttospeech_with_japanese_voice/)
+- [On what device / SDK version should CI run UI Tests?](https://www.reddit.com/r/androiddev/comments/wvo3vm/on_what_device_sdk_version_should_ci_run_ui_tests/)
+- [Kotlin Illustrated Guide - Scopes &amp; Scope Functions](https://www.reddit.com/r/androiddev/comments/wvnv08/kotlin_illustrated_guide_scopes_scope_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
