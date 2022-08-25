@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I create a wrapper composable?](https://www.reddit.com/r/androiddev/comments/ww69bd/how_do_i_create_a_wrapper_composable/)
-- [Just open sourced my Reddit Post scheduler](https://www.reddit.com/r/androiddev/comments/ww0usq/just_open_sourced_my_reddit_post_scheduler/)
-- [Am I a Google Developer Expert now or what does this mean?](https://www.reddit.com/r/androiddev/comments/wvylal/am_i_a_google_developer_expert_now_or_what_does/)
-- [How to add material you buttons](https://www.reddit.com/r/androiddev/comments/wvx4ep/how_to_add_material_you_buttons/)
-- [Google Play Support- app with Yandex SDK is not compliant](https://www.reddit.com/r/androiddev/comments/wvsdze/google_play_support_app_with_yandex_sdk_is_not/)
-- [6 Jetpack Compose Guidelines to Optimize Your App Performance](https://www.reddit.com/r/androiddev/comments/wvoq82/6_jetpack_compose_guidelines_to_optimize_your_app/)
-- [is that true that Google Play is blocked or partially blocked on Russia ?](https://www.reddit.com/r/androiddev/comments/wvontq/is_that_true_that_google_play_is_blocked_or/)
-- [Text-to-speech with Japanese voice](https://www.reddit.com/r/androiddev/comments/wvoiwl/texttospeech_with_japanese_voice/)
-- [On what device / SDK version should CI run UI Tests?](https://www.reddit.com/r/androiddev/comments/wvo3vm/on_what_device_sdk_version_should_ci_run_ui_tests/)
-- [Kotlin Illustrated Guide - Scopes &amp; Scope Functions](https://www.reddit.com/r/androiddev/comments/wvnv08/kotlin_illustrated_guide_scopes_scope_functions/)
+- [Starting a BLE service from a push notification](https://www.reddit.com/r/androiddev/comments/wx19mz/starting_a_ble_service_from_a_push_notification/)
+- [As a new grad, is it possible to leverage strong projects to land an Android job asking for 2+ years of exp?](https://www.reddit.com/r/androiddev/comments/wwzcxl/as_a_new_grad_is_it_possible_to_leverage_strong/)
+- [How should I make a leadboard system with Firebase&lpar;Kotlin&rpar; ?](https://www.reddit.com/r/androiddev/comments/wwt75c/how_should_i_make_a_leadboard_system_with/)
+- [How to track down google maps api key owner](https://www.reddit.com/r/androiddev/comments/wws2ts/how_to_track_down_google_maps_api_key_owner/)
+- [how to install android build tools manually](https://www.reddit.com/r/androiddev/comments/wwmpgi/how_to_install_android_build_tools_manually/)
+- [CameraX 1.2 is now in Beta](https://www.reddit.com/r/androiddev/comments/wwm5uh/camerax_12_is_now_in_beta/)
+- [Text Master OCR for Android powered by Machine Learning](https://www.reddit.com/r/androiddev/comments/wwm1nk/text_master_ocr_for_android_powered_by_machine/)
+- [Kotlin KSP for Code-generation](https://www.reddit.com/r/androiddev/comments/wwlsnj/kotlin_ksp_for_codegeneration/)
+- [Google asks me for a verification PDF document to provide in order to approve my app update](https://www.reddit.com/r/androiddev/comments/wwl05l/google_asks_me_for_a_verification_pdf_document_to/)
+- [android studio custom autocomplete?](https://www.reddit.com/r/androiddev/comments/wwjab9/android_studio_custom_autocomplete/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
