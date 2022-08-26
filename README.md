@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Starting a BLE service from a push notification](https://www.reddit.com/r/androiddev/comments/wx19mz/starting_a_ble_service_from_a_push_notification/)
-- [As a new grad, is it possible to leverage strong projects to land an Android job asking for 2+ years of exp?](https://www.reddit.com/r/androiddev/comments/wwzcxl/as_a_new_grad_is_it_possible_to_leverage_strong/)
-- [How should I make a leadboard system with Firebase&lpar;Kotlin&rpar; ?](https://www.reddit.com/r/androiddev/comments/wwt75c/how_should_i_make_a_leadboard_system_with/)
-- [How to track down google maps api key owner](https://www.reddit.com/r/androiddev/comments/wws2ts/how_to_track_down_google_maps_api_key_owner/)
-- [how to install android build tools manually](https://www.reddit.com/r/androiddev/comments/wwmpgi/how_to_install_android_build_tools_manually/)
-- [CameraX 1.2 is now in Beta](https://www.reddit.com/r/androiddev/comments/wwm5uh/camerax_12_is_now_in_beta/)
-- [Text Master OCR for Android powered by Machine Learning](https://www.reddit.com/r/androiddev/comments/wwm1nk/text_master_ocr_for_android_powered_by_machine/)
-- [Kotlin KSP for Code-generation](https://www.reddit.com/r/androiddev/comments/wwlsnj/kotlin_ksp_for_codegeneration/)
-- [Google asks me for a verification PDF document to provide in order to approve my app update](https://www.reddit.com/r/androiddev/comments/wwl05l/google_asks_me_for_a_verification_pdf_document_to/)
-- [android studio custom autocomplete?](https://www.reddit.com/r/androiddev/comments/wwjab9/android_studio_custom_autocomplete/)
+- [Custom macro apps?](https://www.reddit.com/r/androiddev/comments/wxxam7/custom_macro_apps/)
+- [I Built a Fish Identifying App - Photo Fish](https://www.reddit.com/r/androiddev/comments/wxur78/i_built_a_fish_identifying_app_photo_fish/)
+- [Compose in CashApp with Jake Wharton and Saket Narayan | Talking Kotlin](https://www.reddit.com/r/androiddev/comments/wxpy17/compose_in_cashapp_with_jake_wharton_and_saket/)
+- [Mvvm approach to handling menu onItemSelected?](https://www.reddit.com/r/androiddev/comments/wxmqf8/mvvm_approach_to_handling_menu_onitemselected/)
+- [New features to DashCoin crypto currency tracker with jetpack compose](https://www.reddit.com/r/androiddev/comments/wxj0dk/new_features_to_dashcoin_crypto_currency_tracker/)
+- [Done a bit of designing on my music player app, the looping music logo looks good too.Many functionalities are left to be implemented for instance, next and previous song buttons, notification player, etc](https://www.reddit.com/r/androiddev/comments/wxhw3u/done_a_bit_of_designing_on_my_music_player_app/)
+- [How are you all so smart and learnt all these shit I&#39;m getting rekt out here, I wanna get better and have been studying, I have the will to do it, but it feels like nothing Is sticking](https://www.reddit.com/r/androiddev/comments/wxhnx6/how_are_you_all_so_smart_and_learnt_all_these/)
+- [Galaxy S8 owners, could you test my app?](https://www.reddit.com/r/androiddev/comments/wxg9um/galaxy_s8_owners_could_you_test_my_app/)
+- [Android Beta Testing](https://www.reddit.com/r/androiddev/comments/wxf7mv/android_beta_testing/)
+- [How to retrieve only selected files from firebase in app](https://www.reddit.com/r/androiddev/comments/wxf02a/how_to_retrieve_only_selected_files_from_firebase/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
