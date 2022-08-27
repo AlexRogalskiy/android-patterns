@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Custom macro apps?](https://www.reddit.com/r/androiddev/comments/wxxam7/custom_macro_apps/)
-- [I Built a Fish Identifying App - Photo Fish](https://www.reddit.com/r/androiddev/comments/wxur78/i_built_a_fish_identifying_app_photo_fish/)
-- [Compose in CashApp with Jake Wharton and Saket Narayan | Talking Kotlin](https://www.reddit.com/r/androiddev/comments/wxpy17/compose_in_cashapp_with_jake_wharton_and_saket/)
-- [Mvvm approach to handling menu onItemSelected?](https://www.reddit.com/r/androiddev/comments/wxmqf8/mvvm_approach_to_handling_menu_onitemselected/)
-- [New features to DashCoin crypto currency tracker with jetpack compose](https://www.reddit.com/r/androiddev/comments/wxj0dk/new_features_to_dashcoin_crypto_currency_tracker/)
-- [Done a bit of designing on my music player app, the looping music logo looks good too.Many functionalities are left to be implemented for instance, next and previous song buttons, notification player, etc](https://www.reddit.com/r/androiddev/comments/wxhw3u/done_a_bit_of_designing_on_my_music_player_app/)
-- [How are you all so smart and learnt all these shit I&#39;m getting rekt out here, I wanna get better and have been studying, I have the will to do it, but it feels like nothing Is sticking](https://www.reddit.com/r/androiddev/comments/wxhnx6/how_are_you_all_so_smart_and_learnt_all_these/)
-- [Galaxy S8 owners, could you test my app?](https://www.reddit.com/r/androiddev/comments/wxg9um/galaxy_s8_owners_could_you_test_my_app/)
-- [Android Beta Testing](https://www.reddit.com/r/androiddev/comments/wxf7mv/android_beta_testing/)
-- [How to retrieve only selected files from firebase in app](https://www.reddit.com/r/androiddev/comments/wxf02a/how_to_retrieve_only_selected_files_from_firebase/)
+- [Storing a string as securely as possible even when app is disassembled](https://www.reddit.com/r/androiddev/comments/wyrq98/storing_a_string_as_securely_as_possible_even/)
+- [When did you know you are ready to get Mobile App Developer job?](https://www.reddit.com/r/androiddev/comments/wyqrt3/when_did_you_know_you_are_ready_to_get_mobile_app/)
+- [This is my 9th year of watching Google I/O and still excites me.](https://www.reddit.com/r/androiddev/comments/wyqcqm/this_is_my_9th_year_of_watching_google_io_and/)
+- [What questions the interviewer will ask after the Android take-home challenge submission?](https://www.reddit.com/r/androiddev/comments/wyogke/what_questions_the_interviewer_will_ask_after_the/)
+- [Nested navigation in jetpack compose with a bottom navigation](https://www.reddit.com/r/androiddev/comments/wyinmh/nested_navigation_in_jetpack_compose_with_a/)
+- [[Game Guardian - Golf Battle] Trying to fix a script for a game, any help?](https://www.reddit.com/r/androiddev/comments/wyhzvd/game_guardian_golf_battle_trying_to_fix_a_script/)
+- [New developer here. I have a US bank account but no US I.D., so how do I get paid into my US bank account?](https://www.reddit.com/r/androiddev/comments/wyhm1e/new_developer_here_i_have_a_us_bank_account_but/)
+- [photos and videos Android permission](https://www.reddit.com/r/androiddev/comments/wygoqe/photos_and_videos_android_permission/)
+- [Android Studio Electric Eel Canary 10 now available](https://www.reddit.com/r/androiddev/comments/wyfsmk/android_studio_electric_eel_canary_10_now/)
+- [Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](https://www.reddit.com/r/androiddev/comments/wydfkk/announcing_cross_device_sdk_developer_preview_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
