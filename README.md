@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Storing a string as securely as possible even when app is disassembled](https://www.reddit.com/r/androiddev/comments/wyrq98/storing_a_string_as_securely_as_possible_even/)
-- [When did you know you are ready to get Mobile App Developer job?](https://www.reddit.com/r/androiddev/comments/wyqrt3/when_did_you_know_you_are_ready_to_get_mobile_app/)
-- [This is my 9th year of watching Google I/O and still excites me.](https://www.reddit.com/r/androiddev/comments/wyqcqm/this_is_my_9th_year_of_watching_google_io_and/)
-- [What questions the interviewer will ask after the Android take-home challenge submission?](https://www.reddit.com/r/androiddev/comments/wyogke/what_questions_the_interviewer_will_ask_after_the/)
-- [Nested navigation in jetpack compose with a bottom navigation](https://www.reddit.com/r/androiddev/comments/wyinmh/nested_navigation_in_jetpack_compose_with_a/)
-- [[Game Guardian - Golf Battle] Trying to fix a script for a game, any help?](https://www.reddit.com/r/androiddev/comments/wyhzvd/game_guardian_golf_battle_trying_to_fix_a_script/)
-- [New developer here. I have a US bank account but no US I.D., so how do I get paid into my US bank account?](https://www.reddit.com/r/androiddev/comments/wyhm1e/new_developer_here_i_have_a_us_bank_account_but/)
-- [photos and videos Android permission](https://www.reddit.com/r/androiddev/comments/wygoqe/photos_and_videos_android_permission/)
-- [Android Studio Electric Eel Canary 10 now available](https://www.reddit.com/r/androiddev/comments/wyfsmk/android_studio_electric_eel_canary_10_now/)
-- [Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](https://www.reddit.com/r/androiddev/comments/wydfkk/announcing_cross_device_sdk_developer_preview_for/)
+- [Android emulator with not standard paths on Linux](https://www.reddit.com/r/androiddev/comments/wzedtq/android_emulator_with_not_standard_paths_on_linux/)
+- [How could I know am qualified or not](https://www.reddit.com/r/androiddev/comments/wzbrx1/how_could_i_know_am_qualified_or_not/)
+- [Is it allowed to publish an app to google play &lpar;as open test version&rpar; which has a link to my website which has a link to my kickstarter?](https://www.reddit.com/r/androiddev/comments/wzbr67/is_it_allowed_to_publish_an_app_to_google_play_as/)
+- [Low Conversion Rate in Japan](https://www.reddit.com/r/androiddev/comments/wzas8j/low_conversion_rate_in_japan/)
+- [who is using ObjectBox is it fastest DB for large datas?](https://www.reddit.com/r/androiddev/comments/wzabvs/who_is_using_objectbox_is_it_fastest_db_for_large/)
+- [DivKit: an opensource framework for Server Driven UI](https://www.reddit.com/r/androiddev/comments/wz9umx/divkit_an_opensource_framework_for_server_driven/)
+- [These smartphones got Android 13 update till now](https://www.reddit.com/r/androiddev/comments/wz896k/these_smartphones_got_android_13_update_till_now/)
+- [how to insert list of data faster to Room](https://www.reddit.com/r/androiddev/comments/wz87dn/how_to_insert_list_of_data_faster_to_room/)
+- [Can I create an App just mirroring a website?](https://www.reddit.com/r/androiddev/comments/wz6h9b/can_i_create_an_app_just_mirroring_a_website/)
+- [Does anyone else think Android should allow C++ natively and not just through NDK and JNI?](https://www.reddit.com/r/androiddev/comments/wz6932/does_anyone_else_think_android_should_allow_c/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
