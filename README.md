@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android emulator with not standard paths on Linux](https://www.reddit.com/r/androiddev/comments/wzedtq/android_emulator_with_not_standard_paths_on_linux/)
-- [How could I know am qualified or not](https://www.reddit.com/r/androiddev/comments/wzbrx1/how_could_i_know_am_qualified_or_not/)
-- [Is it allowed to publish an app to google play &lpar;as open test version&rpar; which has a link to my website which has a link to my kickstarter?](https://www.reddit.com/r/androiddev/comments/wzbr67/is_it_allowed_to_publish_an_app_to_google_play_as/)
-- [Low Conversion Rate in Japan](https://www.reddit.com/r/androiddev/comments/wzas8j/low_conversion_rate_in_japan/)
-- [who is using ObjectBox is it fastest DB for large datas?](https://www.reddit.com/r/androiddev/comments/wzabvs/who_is_using_objectbox_is_it_fastest_db_for_large/)
-- [DivKit: an opensource framework for Server Driven UI](https://www.reddit.com/r/androiddev/comments/wz9umx/divkit_an_opensource_framework_for_server_driven/)
-- [These smartphones got Android 13 update till now](https://www.reddit.com/r/androiddev/comments/wz896k/these_smartphones_got_android_13_update_till_now/)
-- [how to insert list of data faster to Room](https://www.reddit.com/r/androiddev/comments/wz87dn/how_to_insert_list_of_data_faster_to_room/)
-- [Can I create an App just mirroring a website?](https://www.reddit.com/r/androiddev/comments/wz6h9b/can_i_create_an_app_just_mirroring_a_website/)
-- [Does anyone else think Android should allow C++ natively and not just through NDK and JNI?](https://www.reddit.com/r/androiddev/comments/wz6932/does_anyone_else_think_android_should_allow_c/)
+- [Getting too many payment declined from the United States](https://www.reddit.com/r/androiddev/comments/x0e7ha/getting_too_many_payment_declined_from_the_united/)
+- [What are the consequences if my app gets denied instead of published because I indirectly linked my app&#39;s crowdfunding campaign?](https://www.reddit.com/r/androiddev/comments/x0a348/what_are_the_consequences_if_my_app_gets_denied/)
+- [Whats the way for a simple CRUD app. Learn dart &lpar;Flutter&rpar; or stick with javascript &lpar;capacitor&rpar;](https://www.reddit.com/r/androiddev/comments/x08lnh/whats_the_way_for_a_simple_crud_app_learn_dart/)
+- [Getting Demoted at a job](https://www.reddit.com/r/androiddev/comments/x070bm/getting_demoted_at_a_job/)
+- [Blocked Users DB](https://www.reddit.com/r/androiddev/comments/x05vwb/blocked_users_db/)
+- [Clean Android WebView caching](https://www.reddit.com/r/androiddev/comments/x04h5z/clean_android_webview_caching/)
+- [How should I start Android Development?](https://www.reddit.com/r/androiddev/comments/x03zzh/how_should_i_start_android_development/)
+- [Tracking Service starts for debugging purposes](https://www.reddit.com/r/androiddev/comments/x01x17/tracking_service_starts_for_debugging_purposes/)
+- [Where is the logo stored inside an apk file?](https://www.reddit.com/r/androiddev/comments/x014qp/where_is_the_logo_stored_inside_an_apk_file/)
+- [Tags for my game is not showing up in search.](https://www.reddit.com/r/androiddev/comments/x00vjy/tags_for_my_game_is_not_showing_up_in_search/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
