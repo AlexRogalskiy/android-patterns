@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Getting too many payment declined from the United States](https://www.reddit.com/r/androiddev/comments/x0e7ha/getting_too_many_payment_declined_from_the_united/)
-- [What are the consequences if my app gets denied instead of published because I indirectly linked my app&#39;s crowdfunding campaign?](https://www.reddit.com/r/androiddev/comments/x0a348/what_are_the_consequences_if_my_app_gets_denied/)
-- [Whats the way for a simple CRUD app. Learn dart &lpar;Flutter&rpar; or stick with javascript &lpar;capacitor&rpar;](https://www.reddit.com/r/androiddev/comments/x08lnh/whats_the_way_for_a_simple_crud_app_learn_dart/)
-- [Getting Demoted at a job](https://www.reddit.com/r/androiddev/comments/x070bm/getting_demoted_at_a_job/)
-- [Blocked Users DB](https://www.reddit.com/r/androiddev/comments/x05vwb/blocked_users_db/)
-- [Clean Android WebView caching](https://www.reddit.com/r/androiddev/comments/x04h5z/clean_android_webview_caching/)
-- [How should I start Android Development?](https://www.reddit.com/r/androiddev/comments/x03zzh/how_should_i_start_android_development/)
-- [Tracking Service starts for debugging purposes](https://www.reddit.com/r/androiddev/comments/x01x17/tracking_service_starts_for_debugging_purposes/)
-- [Where is the logo stored inside an apk file?](https://www.reddit.com/r/androiddev/comments/x014qp/where_is_the_logo_stored_inside_an_apk_file/)
-- [Tags for my game is not showing up in search.](https://www.reddit.com/r/androiddev/comments/x00vjy/tags_for_my_game_is_not_showing_up_in_search/)
+- [Errors in Android Studio](https://www.reddit.com/r/androiddev/comments/x18cim/errors_in_android_studio/)
+- [Google One Time Promotion Code.](https://www.reddit.com/r/androiddev/comments/x185zp/google_one_time_promotion_code/)
+- [New to Xamarin -VS](https://www.reddit.com/r/androiddev/comments/x185j3/new_to_xamarin_vs/)
+- [How to write to system in-app](https://www.reddit.com/r/androiddev/comments/x15v1c/how_to_write_to_system_inapp/)
+- [Is it possible to have a kotlin frontend and a Node.js backend?](https://www.reddit.com/r/androiddev/comments/x12ou1/is_it_possible_to_have_a_kotlin_frontend_and_a/)
+- [In this video I&#39;m talking about common problems I see in production apps and what we can do to fix that.](https://www.reddit.com/r/androiddev/comments/x121ey/in_this_video_im_talking_about_common_problems_i/)
+- [Is there an easy way to install our private app on ~200 Android tablets and update them without submitting the app to Google Play?](https://www.reddit.com/r/androiddev/comments/x11yo5/is_there_an_easy_way_to_install_our_private_app/)
+- [Anyone from UK with experience in dev both android and ios native apps ?](https://www.reddit.com/r/androiddev/comments/x11t0g/anyone_from_uk_with_experience_in_dev_both/)
+- [Transitioning to Android Development](https://www.reddit.com/r/androiddev/comments/x0xyje/transitioning_to_android_development/)
+- [Java Champion James Ward on the State of Java and JVM Languages &lpar;including Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/x0xm4k/java_champion_james_ward_on_the_state_of_java_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
