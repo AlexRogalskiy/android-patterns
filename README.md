@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Errors in Android Studio](https://www.reddit.com/r/androiddev/comments/x18cim/errors_in_android_studio/)
-- [Google One Time Promotion Code.](https://www.reddit.com/r/androiddev/comments/x185zp/google_one_time_promotion_code/)
-- [New to Xamarin -VS](https://www.reddit.com/r/androiddev/comments/x185j3/new_to_xamarin_vs/)
-- [How to write to system in-app](https://www.reddit.com/r/androiddev/comments/x15v1c/how_to_write_to_system_inapp/)
-- [Is it possible to have a kotlin frontend and a Node.js backend?](https://www.reddit.com/r/androiddev/comments/x12ou1/is_it_possible_to_have_a_kotlin_frontend_and_a/)
-- [In this video I&#39;m talking about common problems I see in production apps and what we can do to fix that.](https://www.reddit.com/r/androiddev/comments/x121ey/in_this_video_im_talking_about_common_problems_i/)
-- [Is there an easy way to install our private app on ~200 Android tablets and update them without submitting the app to Google Play?](https://www.reddit.com/r/androiddev/comments/x11yo5/is_there_an_easy_way_to_install_our_private_app/)
-- [Anyone from UK with experience in dev both android and ios native apps ?](https://www.reddit.com/r/androiddev/comments/x11t0g/anyone_from_uk_with_experience_in_dev_both/)
-- [Transitioning to Android Development](https://www.reddit.com/r/androiddev/comments/x0xyje/transitioning_to_android_development/)
-- [Java Champion James Ward on the State of Java and JVM Languages &lpar;including Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/x0xm4k/java_champion_james_ward_on_the_state_of_java_and/)
+- [UI Testing + Coroutines + Hilt](https://www.reddit.com/r/androiddev/comments/x22u9n/ui_testing_coroutines_hilt/)
+- [Sent out 100+ applications for entry android dev position, 3 weeks after 0 interviews so far](https://www.reddit.com/r/androiddev/comments/x1zn0q/sent_out_100_applications_for_entry_android_dev/)
+- [Security App Ideas?](https://www.reddit.com/r/androiddev/comments/x1z9js/security_app_ideas/)
+- [Anvil, generating factories without kapt, and module structure.](https://www.reddit.com/r/androiddev/comments/x1xgtx/anvil_generating_factories_without_kapt_and/)
+- [Any recommendations for a pdf viewer library to use with Compose?](https://www.reddit.com/r/androiddev/comments/x1u3qv/any_recommendations_for_a_pdf_viewer_library_to/)
+- [Why the AdMob test ads are not showing](https://www.reddit.com/r/androiddev/comments/x1ty9u/why_the_admob_test_ads_are_not_showing/)
+- [Do you have an idea where I can upload my prototype app, so that the supporters from kickstarter can download it for free? APKMirror didn&#39;t work. GooglePlay doesn&#39;t allow direct links to a crowdfunding campaign. I don&#39;t know about Amazon AppStore...?](https://www.reddit.com/r/androiddev/comments/x1toh3/do_you_have_an_idea_where_i_can_upload_my/)
+- [Are people on your app team learning to code?](https://www.reddit.com/r/androiddev/comments/x1sai0/are_people_on_your_app_team_learning_to_code/)
+- [From where to start?](https://www.reddit.com/r/androiddev/comments/x1rres/from_where_to_start/)
+- [Cheap laptop for jetpack compose development](https://www.reddit.com/r/androiddev/comments/x1qtau/cheap_laptop_for_jetpack_compose_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
