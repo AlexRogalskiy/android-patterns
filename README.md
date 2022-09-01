@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [UI Testing + Coroutines + Hilt](https://www.reddit.com/r/androiddev/comments/x22u9n/ui_testing_coroutines_hilt/)
-- [Sent out 100+ applications for entry android dev position, 3 weeks after 0 interviews so far](https://www.reddit.com/r/androiddev/comments/x1zn0q/sent_out_100_applications_for_entry_android_dev/)
-- [Security App Ideas?](https://www.reddit.com/r/androiddev/comments/x1z9js/security_app_ideas/)
-- [Anvil, generating factories without kapt, and module structure.](https://www.reddit.com/r/androiddev/comments/x1xgtx/anvil_generating_factories_without_kapt_and/)
-- [Any recommendations for a pdf viewer library to use with Compose?](https://www.reddit.com/r/androiddev/comments/x1u3qv/any_recommendations_for_a_pdf_viewer_library_to/)
-- [Why the AdMob test ads are not showing](https://www.reddit.com/r/androiddev/comments/x1ty9u/why_the_admob_test_ads_are_not_showing/)
-- [Do you have an idea where I can upload my prototype app, so that the supporters from kickstarter can download it for free? APKMirror didn&#39;t work. GooglePlay doesn&#39;t allow direct links to a crowdfunding campaign. I don&#39;t know about Amazon AppStore...?](https://www.reddit.com/r/androiddev/comments/x1toh3/do_you_have_an_idea_where_i_can_upload_my/)
-- [Are people on your app team learning to code?](https://www.reddit.com/r/androiddev/comments/x1sai0/are_people_on_your_app_team_learning_to_code/)
-- [From where to start?](https://www.reddit.com/r/androiddev/comments/x1rres/from_where_to_start/)
-- [Cheap laptop for jetpack compose development](https://www.reddit.com/r/androiddev/comments/x1qtau/cheap_laptop_for_jetpack_compose_development/)
+- [Billing Library version error on Play Store submission](https://www.reddit.com/r/androiddev/comments/x2wyhw/billing_library_version_error_on_play_store/)
+- [Any link to companies that are looking for entry Level Android role?](https://www.reddit.com/r/androiddev/comments/x2uje5/any_link_to_companies_that_are_looking_for_entry/)
+- [Asking for advise on milestone plan](https://www.reddit.com/r/androiddev/comments/x2tj4y/asking_for_advise_on_milestone_plan/)
+- [Making a new developer account and transferring apps](https://www.reddit.com/r/androiddev/comments/x2s38d/making_a_new_developer_account_and_transferring/)
+- [can somone help i am trying to center this image in my app using jetpack compose but is shows this error](https://www.reddit.com/r/androiddev/comments/x2rutm/can_somone_help_i_am_trying_to_center_this_image/)
+- [Is video editing all built on ffmpeg commands or is there a better option?](https://www.reddit.com/r/androiddev/comments/x2pbx3/is_video_editing_all_built_on_ffmpeg_commands_or/)
+- [Can the Optiflex feature from Asus fones be added to Stock Android/ OneUI, etc?](https://www.reddit.com/r/androiddev/comments/x2n9kj/can_the_optiflex_feature_from_asus_fones_be_added/)
+- [How to configure priority and staleness with Play In App Updates](https://www.reddit.com/r/androiddev/comments/x2m9x9/how_to_configure_priority_and_staleness_with_play/)
+- [IronSource with Meta Audience Network Bidding Issues In US](https://www.reddit.com/r/androiddev/comments/x2keqv/ironsource_with_meta_audience_network_bidding/)
+- [Maestro - Painless Mobile UI Automation](https://www.reddit.com/r/androiddev/comments/x2hgjq/maestro_painless_mobile_ui_automation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
