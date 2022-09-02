@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Billing Library version error on Play Store submission](https://www.reddit.com/r/androiddev/comments/x2wyhw/billing_library_version_error_on_play_store/)
-- [Any link to companies that are looking for entry Level Android role?](https://www.reddit.com/r/androiddev/comments/x2uje5/any_link_to_companies_that_are_looking_for_entry/)
-- [Asking for advise on milestone plan](https://www.reddit.com/r/androiddev/comments/x2tj4y/asking_for_advise_on_milestone_plan/)
-- [Making a new developer account and transferring apps](https://www.reddit.com/r/androiddev/comments/x2s38d/making_a_new_developer_account_and_transferring/)
-- [can somone help i am trying to center this image in my app using jetpack compose but is shows this error](https://www.reddit.com/r/androiddev/comments/x2rutm/can_somone_help_i_am_trying_to_center_this_image/)
-- [Is video editing all built on ffmpeg commands or is there a better option?](https://www.reddit.com/r/androiddev/comments/x2pbx3/is_video_editing_all_built_on_ffmpeg_commands_or/)
-- [Can the Optiflex feature from Asus fones be added to Stock Android/ OneUI, etc?](https://www.reddit.com/r/androiddev/comments/x2n9kj/can_the_optiflex_feature_from_asus_fones_be_added/)
-- [How to configure priority and staleness with Play In App Updates](https://www.reddit.com/r/androiddev/comments/x2m9x9/how_to_configure_priority_and_staleness_with_play/)
-- [IronSource with Meta Audience Network Bidding Issues In US](https://www.reddit.com/r/androiddev/comments/x2keqv/ironsource_with_meta_audience_network_bidding/)
-- [Maestro - Painless Mobile UI Automation](https://www.reddit.com/r/androiddev/comments/x2hgjq/maestro_painless_mobile_ui_automation/)
+- [Prospects for “lead” with 9 years of Android?](https://www.reddit.com/r/androiddev/comments/x3ot1z/prospects_for_lead_with_9_years_of_android/)
+- [Do you migrate your billing library 3 to 4 or 5?](https://www.reddit.com/r/androiddev/comments/x3o8dv/do_you_migrate_your_billing_library_3_to_4_or_5/)
+- [&lpar;How&rpar; is it possible to create a find my phone app with no internet?](https://www.reddit.com/r/androiddev/comments/x3k5v4/how_is_it_possible_to_create_a_find_my_phone_app/)
+- [How can I detect and prevent my application sandbox from compromisation?](https://www.reddit.com/r/androiddev/comments/x3fs9i/how_can_i_detect_and_prevent_my_application/)
+- [Recommended pattern for compose ?](https://www.reddit.com/r/androiddev/comments/x3e8a3/recommended_pattern_for_compose/)
+- [[QUESTION] Android Studio on Ryzen 5 5500u](https://www.reddit.com/r/androiddev/comments/x3d5sl/question_android_studio_on_ryzen_5_5500u/)
+- [Gradle build scans on a large project to track improvements to refactoring the Gradle dependency graph.](https://www.reddit.com/r/androiddev/comments/x3cgr0/gradle_build_scans_on_a_large_project_to_track/)
+- [Material design is not enough?](https://www.reddit.com/r/androiddev/comments/x3aio8/material_design_is_not_enough/)
+- [Should I create a landing app for my company just as a project](https://www.reddit.com/r/androiddev/comments/x39umy/should_i_create_a_landing_app_for_my_company_just/)
+- [WorkManager or Background service](https://www.reddit.com/r/androiddev/comments/x37hz9/workmanager_or_background_service/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
