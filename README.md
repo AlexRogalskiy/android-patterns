@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Prospects for “lead” with 9 years of Android?](https://www.reddit.com/r/androiddev/comments/x3ot1z/prospects_for_lead_with_9_years_of_android/)
-- [Do you migrate your billing library 3 to 4 or 5?](https://www.reddit.com/r/androiddev/comments/x3o8dv/do_you_migrate_your_billing_library_3_to_4_or_5/)
-- [&lpar;How&rpar; is it possible to create a find my phone app with no internet?](https://www.reddit.com/r/androiddev/comments/x3k5v4/how_is_it_possible_to_create_a_find_my_phone_app/)
-- [How can I detect and prevent my application sandbox from compromisation?](https://www.reddit.com/r/androiddev/comments/x3fs9i/how_can_i_detect_and_prevent_my_application/)
-- [Recommended pattern for compose ?](https://www.reddit.com/r/androiddev/comments/x3e8a3/recommended_pattern_for_compose/)
-- [[QUESTION] Android Studio on Ryzen 5 5500u](https://www.reddit.com/r/androiddev/comments/x3d5sl/question_android_studio_on_ryzen_5_5500u/)
-- [Gradle build scans on a large project to track improvements to refactoring the Gradle dependency graph.](https://www.reddit.com/r/androiddev/comments/x3cgr0/gradle_build_scans_on_a_large_project_to_track/)
-- [Material design is not enough?](https://www.reddit.com/r/androiddev/comments/x3aio8/material_design_is_not_enough/)
-- [Should I create a landing app for my company just as a project](https://www.reddit.com/r/androiddev/comments/x39umy/should_i_create_a_landing_app_for_my_company_just/)
-- [WorkManager or Background service](https://www.reddit.com/r/androiddev/comments/x37hz9/workmanager_or_background_service/)
+- [Implementing per app languages in Android 13](https://www.reddit.com/r/androiddev/comments/x4g8n1/implementing_per_app_languages_in_android_13/)
+- [Developing Android Apps using Mac Book](https://www.reddit.com/r/androiddev/comments/x4eg92/developing_android_apps_using_mac_book/)
+- [Do they do update reviews during weekend?](https://www.reddit.com/r/androiddev/comments/x4ctwt/do_they_do_update_reviews_during_weekend/)
+- [Alternative to Hilt for KMM but not Koin](https://www.reddit.com/r/androiddev/comments/x4awmx/alternative_to_hilt_for_kmm_but_not_koin/)
+- [Jetpack Compose - Build a Calculator UI](https://www.reddit.com/r/androiddev/comments/x48lrr/jetpack_compose_build_a_calculator_ui/)
+- [Android 13 QPR Beta program, Pixel Phones attentively Participate](https://www.reddit.com/r/androiddev/comments/x47tvj/android_13_qpr_beta_program_pixel_phones/)
+- [Android Kotlin Photopicker Question](https://www.reddit.com/r/androiddev/comments/x47fcc/android_kotlin_photopicker_question/)
+- [App localization](https://www.reddit.com/r/androiddev/comments/x44tcy/app_localization/)
+- [I wonder if they will ever allow Android to be a real-time system.](https://www.reddit.com/r/androiddev/comments/x43kr2/i_wonder_if_they_will_ever_allow_android_to_be_a/)
+- [What advance concept to learn in Kotlin](https://www.reddit.com/r/androiddev/comments/x43ga3/what_advance_concept_to_learn_in_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
