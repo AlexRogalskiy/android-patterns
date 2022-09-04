@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Implementing per app languages in Android 13](https://www.reddit.com/r/androiddev/comments/x4g8n1/implementing_per_app_languages_in_android_13/)
-- [Developing Android Apps using Mac Book](https://www.reddit.com/r/androiddev/comments/x4eg92/developing_android_apps_using_mac_book/)
-- [Do they do update reviews during weekend?](https://www.reddit.com/r/androiddev/comments/x4ctwt/do_they_do_update_reviews_during_weekend/)
-- [Alternative to Hilt for KMM but not Koin](https://www.reddit.com/r/androiddev/comments/x4awmx/alternative_to_hilt_for_kmm_but_not_koin/)
-- [Jetpack Compose - Build a Calculator UI](https://www.reddit.com/r/androiddev/comments/x48lrr/jetpack_compose_build_a_calculator_ui/)
-- [Android 13 QPR Beta program, Pixel Phones attentively Participate](https://www.reddit.com/r/androiddev/comments/x47tvj/android_13_qpr_beta_program_pixel_phones/)
-- [Android Kotlin Photopicker Question](https://www.reddit.com/r/androiddev/comments/x47fcc/android_kotlin_photopicker_question/)
-- [App localization](https://www.reddit.com/r/androiddev/comments/x44tcy/app_localization/)
-- [I wonder if they will ever allow Android to be a real-time system.](https://www.reddit.com/r/androiddev/comments/x43kr2/i_wonder_if_they_will_ever_allow_android_to_be_a/)
-- [What advance concept to learn in Kotlin](https://www.reddit.com/r/androiddev/comments/x43ga3/what_advance_concept_to_learn_in_kotlin/)
+- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/androiddev/comments/x55qmr/step_by_step_guide_of_setting_up_ssltls_for_a/)
+- [why lot of devs create 1 google play account for 1 app?](https://www.reddit.com/r/androiddev/comments/x55mrh/why_lot_of_devs_create_1_google_play_account_for/)
+- [How to access camera directly to capture and submit from webview?](https://www.reddit.com/r/androiddev/comments/x54e6n/how_to_access_camera_directly_to_capture_and/)
+- [Can you run Android on the snapdragon 8cx processors?](https://www.reddit.com/r/androiddev/comments/x545wr/can_you_run_android_on_the_snapdragon_8cx/)
+- [dotlin: Kotlin to Dart compiler](https://www.reddit.com/r/androiddev/comments/x522qu/dotlin_kotlin_to_dart_compiler/)
+- [InApp Puchase availability per country](https://www.reddit.com/r/androiddev/comments/x4xsx6/inapp_puchase_availability_per_country/)
+- [Biometric auth with specific usecase](https://www.reddit.com/r/androiddev/comments/x4xngf/biometric_auth_with_specific_usecase/)
+- [Hello fellow Android devs, help out a newbie](https://www.reddit.com/r/androiddev/comments/x4wuvp/hello_fellow_android_devs_help_out_a_newbie/)
+- [Jetpack compose testing lazy column items](https://www.reddit.com/r/androiddev/comments/x4wp1d/jetpack_compose_testing_lazy_column_items/)
+- [How to Use WebRTC Data Channels in Android](https://www.reddit.com/r/androiddev/comments/x4whig/how_to_use_webrtc_data_channels_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
