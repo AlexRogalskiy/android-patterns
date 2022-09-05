@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/androiddev/comments/x55qmr/step_by_step_guide_of_setting_up_ssltls_for_a/)
-- [why lot of devs create 1 google play account for 1 app?](https://www.reddit.com/r/androiddev/comments/x55mrh/why_lot_of_devs_create_1_google_play_account_for/)
-- [How to access camera directly to capture and submit from webview?](https://www.reddit.com/r/androiddev/comments/x54e6n/how_to_access_camera_directly_to_capture_and/)
-- [Can you run Android on the snapdragon 8cx processors?](https://www.reddit.com/r/androiddev/comments/x545wr/can_you_run_android_on_the_snapdragon_8cx/)
-- [dotlin: Kotlin to Dart compiler](https://www.reddit.com/r/androiddev/comments/x522qu/dotlin_kotlin_to_dart_compiler/)
-- [InApp Puchase availability per country](https://www.reddit.com/r/androiddev/comments/x4xsx6/inapp_puchase_availability_per_country/)
-- [Biometric auth with specific usecase](https://www.reddit.com/r/androiddev/comments/x4xngf/biometric_auth_with_specific_usecase/)
-- [Hello fellow Android devs, help out a newbie](https://www.reddit.com/r/androiddev/comments/x4wuvp/hello_fellow_android_devs_help_out_a_newbie/)
-- [Jetpack compose testing lazy column items](https://www.reddit.com/r/androiddev/comments/x4wp1d/jetpack_compose_testing_lazy_column_items/)
-- [How to Use WebRTC Data Channels in Android](https://www.reddit.com/r/androiddev/comments/x4whig/how_to_use_webrtc_data_channels_in_android/)
+- [I am a Senior Android developer, and I really do not understand the benefits of Hilt/Dagger/Koin. What am I missing?](https://www.reddit.com/r/androiddev/comments/x63eel/i_am_a_senior_android_developer_and_i_really_do/)
+- [Developing Apps for ChromeOS](https://www.reddit.com/r/androiddev/comments/x60fe1/developing_apps_for_chromeos/)
+- [Longer Review Time?](https://www.reddit.com/r/androiddev/comments/x5zxms/longer_review_time/)
+- [librootkotlinx: Run rooted Kotlin JVM code made super easy with coroutines and parcelize!](https://www.reddit.com/r/androiddev/comments/x5zf1h/librootkotlinx_run_rooted_kotlin_jvm_code_made/)
+- [Android Developer code tutorial theme for android studio.](https://www.reddit.com/r/androiddev/comments/x5yxf2/android_developer_code_tutorial_theme_for_android/)
+- [First Project using Compose](https://www.reddit.com/r/androiddev/comments/x5wk9x/first_project_using_compose/)
+- [Simplest way to detect when the user last interacted with their phone?](https://www.reddit.com/r/androiddev/comments/x5whhq/simplest_way_to_detect_when_the_user_last/)
+- [Best Laptop for Android Dev?](https://www.reddit.com/r/androiddev/comments/x5vma2/best_laptop_for_android_dev/)
+- [Using alarm sound instead of default notification sound in Android](https://www.reddit.com/r/androiddev/comments/x5tqw8/using_alarm_sound_instead_of_default_notification/)
+- [Passing data from the Model through Service - Activity - Fragment?](https://www.reddit.com/r/androiddev/comments/x5rsqa/passing_data_from_the_model_through_service/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
