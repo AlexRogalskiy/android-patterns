@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I am a Senior Android developer, and I really do not understand the benefits of Hilt/Dagger/Koin. What am I missing?](https://www.reddit.com/r/androiddev/comments/x63eel/i_am_a_senior_android_developer_and_i_really_do/)
-- [Developing Apps for ChromeOS](https://www.reddit.com/r/androiddev/comments/x60fe1/developing_apps_for_chromeos/)
-- [Longer Review Time?](https://www.reddit.com/r/androiddev/comments/x5zxms/longer_review_time/)
-- [librootkotlinx: Run rooted Kotlin JVM code made super easy with coroutines and parcelize!](https://www.reddit.com/r/androiddev/comments/x5zf1h/librootkotlinx_run_rooted_kotlin_jvm_code_made/)
-- [Android Developer code tutorial theme for android studio.](https://www.reddit.com/r/androiddev/comments/x5yxf2/android_developer_code_tutorial_theme_for_android/)
-- [First Project using Compose](https://www.reddit.com/r/androiddev/comments/x5wk9x/first_project_using_compose/)
-- [Simplest way to detect when the user last interacted with their phone?](https://www.reddit.com/r/androiddev/comments/x5whhq/simplest_way_to_detect_when_the_user_last/)
-- [Best Laptop for Android Dev?](https://www.reddit.com/r/androiddev/comments/x5vma2/best_laptop_for_android_dev/)
-- [Using alarm sound instead of default notification sound in Android](https://www.reddit.com/r/androiddev/comments/x5tqw8/using_alarm_sound_instead_of_default_notification/)
-- [Passing data from the Model through Service - Activity - Fragment?](https://www.reddit.com/r/androiddev/comments/x5rsqa/passing_data_from_the_model_through_service/)
+- [🔥 home screens. lets see em](https://www.reddit.com/r/androiddev/comments/x6zamo/home_screens_lets_see_em/)
+- [VR video player](https://www.reddit.com/r/androiddev/comments/x6kytd/vr_video_player/)
+- [Droidcon NYC Recorded Talks](https://www.reddit.com/r/androiddev/comments/x6kpf7/droidcon_nyc_recorded_talks/)
+- [Anyone could help me to solve this?](https://www.reddit.com/r/androiddev/comments/x6ifwa/anyone_could_help_me_to_solve_this/)
+- [Should we get data from firebase firestore using flow?](https://www.reddit.com/r/androiddev/comments/x6i6vw/should_we_get_data_from_firebase_firestore_using/)
+- [Weekly Who&#39;s Hiring Thread - September 05, 2022](https://www.reddit.com/r/androiddev/comments/x6fmln/weekly_whos_hiring_thread_september_05_2022/)
+- [Weekly discussion, code review, and feedback thread - September 05, 2022](https://www.reddit.com/r/androiddev/comments/x6efwn/weekly_discussion_code_review_and_feedback_thread/)
+- [Got this email about one of my apps, is this a common thing? has anyone tried something like this?](https://www.reddit.com/r/androiddev/comments/x6efna/got_this_email_about_one_of_my_apps_is_this_a/)
+- [Q: What aspects of React Native make it more productive than Android native?](https://www.reddit.com/r/androiddev/comments/x6dlq5/q_what_aspects_of_react_native_make_it_more/)
+- [&lpar;Compose, kind of&rpar; Why MutableState changes need to happen on the UI Thread ?](https://www.reddit.com/r/androiddev/comments/x6chzg/compose_kind_of_why_mutablestate_changes_need_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
