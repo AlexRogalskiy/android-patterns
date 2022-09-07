@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [🔥 home screens. lets see em](https://www.reddit.com/r/androiddev/comments/x6zamo/home_screens_lets_see_em/)
-- [VR video player](https://www.reddit.com/r/androiddev/comments/x6kytd/vr_video_player/)
-- [Droidcon NYC Recorded Talks](https://www.reddit.com/r/androiddev/comments/x6kpf7/droidcon_nyc_recorded_talks/)
-- [Anyone could help me to solve this?](https://www.reddit.com/r/androiddev/comments/x6ifwa/anyone_could_help_me_to_solve_this/)
-- [Should we get data from firebase firestore using flow?](https://www.reddit.com/r/androiddev/comments/x6i6vw/should_we_get_data_from_firebase_firestore_using/)
-- [Weekly Who&#39;s Hiring Thread - September 05, 2022](https://www.reddit.com/r/androiddev/comments/x6fmln/weekly_whos_hiring_thread_september_05_2022/)
-- [Weekly discussion, code review, and feedback thread - September 05, 2022](https://www.reddit.com/r/androiddev/comments/x6efwn/weekly_discussion_code_review_and_feedback_thread/)
-- [Got this email about one of my apps, is this a common thing? has anyone tried something like this?](https://www.reddit.com/r/androiddev/comments/x6efna/got_this_email_about_one_of_my_apps_is_this_a/)
-- [Q: What aspects of React Native make it more productive than Android native?](https://www.reddit.com/r/androiddev/comments/x6dlq5/q_what_aspects_of_react_native_make_it_more/)
-- [&lpar;Compose, kind of&rpar; Why MutableState changes need to happen on the UI Thread ?](https://www.reddit.com/r/androiddev/comments/x6chzg/compose_kind_of_why_mutablestate_changes_need_to/)
+- [Is there an emulator that shows what processes/files are running or being accessed?](https://www.reddit.com/r/androiddev/comments/x7s11y/is_there_an_emulator_that_shows_what/)
+- [App version upgrades and in-app communication](https://www.reddit.com/r/androiddev/comments/x7pp4i/app_version_upgrades_and_inapp_communication/)
+- [Has anyone worked in AppSec? How did you transition to it from an AndroidDev?](https://www.reddit.com/r/androiddev/comments/x7op5c/has_anyone_worked_in_appsec_how_did_you/)
+- [Do I need a viewmodel?](https://www.reddit.com/r/androiddev/comments/x7mqgx/do_i_need_a_viewmodel/)
+- [Google Payment Profile Verification: UK Sole Trader](https://www.reddit.com/r/androiddev/comments/x7lwes/google_payment_profile_verification_uk_sole_trader/)
+- [Firebase Auth calls not working anymore on the emulator](https://www.reddit.com/r/androiddev/comments/x7jn45/firebase_auth_calls_not_working_anymore_on_the/)
+- [hello is there any app like google recorder for android](https://www.reddit.com/r/androiddev/comments/x7iiyg/hello_is_there_any_app_like_google_recorder_for/)
+- [Privacy with Progressive Web Apps &lpar;WPA&rpar;](https://www.reddit.com/r/androiddev/comments/x7h9bf/privacy_with_progressive_web_apps_wpa/)
+- [Announcing the new guide to Android app modularization](https://www.reddit.com/r/androiddev/comments/x7giqz/announcing_the_new_guide_to_android_app/)
+- [App stuck in review](https://www.reddit.com/r/androiddev/comments/x7ggo6/app_stuck_in_review/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
