@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there an emulator that shows what processes/files are running or being accessed?](https://www.reddit.com/r/androiddev/comments/x7s11y/is_there_an_emulator_that_shows_what/)
-- [App version upgrades and in-app communication](https://www.reddit.com/r/androiddev/comments/x7pp4i/app_version_upgrades_and_inapp_communication/)
-- [Has anyone worked in AppSec? How did you transition to it from an AndroidDev?](https://www.reddit.com/r/androiddev/comments/x7op5c/has_anyone_worked_in_appsec_how_did_you/)
-- [Do I need a viewmodel?](https://www.reddit.com/r/androiddev/comments/x7mqgx/do_i_need_a_viewmodel/)
-- [Google Payment Profile Verification: UK Sole Trader](https://www.reddit.com/r/androiddev/comments/x7lwes/google_payment_profile_verification_uk_sole_trader/)
-- [Firebase Auth calls not working anymore on the emulator](https://www.reddit.com/r/androiddev/comments/x7jn45/firebase_auth_calls_not_working_anymore_on_the/)
-- [hello is there any app like google recorder for android](https://www.reddit.com/r/androiddev/comments/x7iiyg/hello_is_there_any_app_like_google_recorder_for/)
-- [Privacy with Progressive Web Apps &lpar;WPA&rpar;](https://www.reddit.com/r/androiddev/comments/x7h9bf/privacy_with_progressive_web_apps_wpa/)
-- [Announcing the new guide to Android app modularization](https://www.reddit.com/r/androiddev/comments/x7giqz/announcing_the_new_guide_to_android_app/)
-- [App stuck in review](https://www.reddit.com/r/androiddev/comments/x7ggo6/app_stuck_in_review/)
+- [Is an android mediastore uri permanent?](https://www.reddit.com/r/androiddev/comments/x8oiq8/is_an_android_mediastore_uri_permanent/)
+- [Codereview in an app that I made to learn new concepts](https://www.reddit.com/r/androiddev/comments/x8mmjh/codereview_in_an_app_that_i_made_to_learn_new/)
+- [Is there any good reason to have a view model scoped beyond a fragment&#39;s lifecycle?](https://www.reddit.com/r/androiddev/comments/x8k6yn/is_there_any_good_reason_to_have_a_view_model/)
+- [Game progress after permanent country switch](https://www.reddit.com/r/androiddev/comments/x8jpli/game_progress_after_permanent_country_switch/)
+- [bypass mock location app detection](https://www.reddit.com/r/androiddev/comments/x8hmra/bypass_mock_location_app_detection/)
+- [Clarity on LazyList contentType](https://www.reddit.com/r/androiddev/comments/x8h52v/clarity_on_lazylist_contenttype/)
+- [Review times question](https://www.reddit.com/r/androiddev/comments/x8gs2x/review_times_question/)
+- [Could someone walk me through on how to build this app?](https://www.reddit.com/r/androiddev/comments/x8gjwq/could_someone_walk_me_through_on_how_to_build/)
+- [Molecule: Build a StateFlow stream using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/x8fec3/molecule_build_a_stateflow_stream_using_jetpack/)
+- [App suspended, can I just create a new developer account?](https://www.reddit.com/r/androiddev/comments/x8fd4t/app_suspended_can_i_just_create_a_new_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
