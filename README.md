@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is an android mediastore uri permanent?](https://www.reddit.com/r/androiddev/comments/x8oiq8/is_an_android_mediastore_uri_permanent/)
-- [Codereview in an app that I made to learn new concepts](https://www.reddit.com/r/androiddev/comments/x8mmjh/codereview_in_an_app_that_i_made_to_learn_new/)
-- [Is there any good reason to have a view model scoped beyond a fragment&#39;s lifecycle?](https://www.reddit.com/r/androiddev/comments/x8k6yn/is_there_any_good_reason_to_have_a_view_model/)
-- [Game progress after permanent country switch](https://www.reddit.com/r/androiddev/comments/x8jpli/game_progress_after_permanent_country_switch/)
-- [bypass mock location app detection](https://www.reddit.com/r/androiddev/comments/x8hmra/bypass_mock_location_app_detection/)
-- [Clarity on LazyList contentType](https://www.reddit.com/r/androiddev/comments/x8h52v/clarity_on_lazylist_contenttype/)
-- [Review times question](https://www.reddit.com/r/androiddev/comments/x8gs2x/review_times_question/)
-- [Could someone walk me through on how to build this app?](https://www.reddit.com/r/androiddev/comments/x8gjwq/could_someone_walk_me_through_on_how_to_build/)
-- [Molecule: Build a StateFlow stream using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/x8fec3/molecule_build_a_stateflow_stream_using_jetpack/)
-- [App suspended, can I just create a new developer account?](https://www.reddit.com/r/androiddev/comments/x8fd4t/app_suspended_can_i_just_create_a_new_developer/)
+- [Is there any place that has FOSS XML templates for Android UI?](https://www.reddit.com/r/androiddev/comments/x9dpj1/is_there_any_place_that_has_foss_xml_templates/)
+- [The true depth of intern&#39;s knowledge on hiring topics](https://www.reddit.com/r/androiddev/comments/x9deh0/the_true_depth_of_interns_knowledge_on_hiring/)
+- [Android Google Developer Expert Event TONIGHT](https://www.reddit.com/r/androiddev/comments/x9b6qg/android_google_developer_expert_event_tonight/)
+- [Can you port an Android app to IOS without rewriting it from scratch?](https://www.reddit.com/r/androiddev/comments/x99tij/can_you_port_an_android_app_to_ios_without/)
+- [How to get a targeted feedback in app?](https://www.reddit.com/r/androiddev/comments/x98nxo/how_to_get_a_targeted_feedback_in_app/)
+- [BottomNav: how to save states when switching between menu items?](https://www.reddit.com/r/androiddev/comments/x98gv4/bottomnav_how_to_save_states_when_switching/)
+- [Rejected app from google play console and Sexual Content and Profanity policy!](https://www.reddit.com/r/androiddev/comments/x97heq/rejected_app_from_google_play_console_and_sexual/)
+- [Android&#39;s libc++ vs LLVM libc++](https://www.reddit.com/r/androiddev/comments/x94bpz/androids_libc_vs_llvm_libc/)
+- [Switch to App on Idle](https://www.reddit.com/r/androiddev/comments/x943du/switch_to_app_on_idle/)
+- [Best platform to publish your APK beside GooglePlaystore?](https://www.reddit.com/r/androiddev/comments/x93tn2/best_platform_to_publish_your_apk_beside/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
