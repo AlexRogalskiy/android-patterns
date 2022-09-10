@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there any place that has FOSS XML templates for Android UI?](https://www.reddit.com/r/androiddev/comments/x9dpj1/is_there_any_place_that_has_foss_xml_templates/)
-- [The true depth of intern&#39;s knowledge on hiring topics](https://www.reddit.com/r/androiddev/comments/x9deh0/the_true_depth_of_interns_knowledge_on_hiring/)
-- [Android Google Developer Expert Event TONIGHT](https://www.reddit.com/r/androiddev/comments/x9b6qg/android_google_developer_expert_event_tonight/)
-- [Can you port an Android app to IOS without rewriting it from scratch?](https://www.reddit.com/r/androiddev/comments/x99tij/can_you_port_an_android_app_to_ios_without/)
-- [How to get a targeted feedback in app?](https://www.reddit.com/r/androiddev/comments/x98nxo/how_to_get_a_targeted_feedback_in_app/)
-- [BottomNav: how to save states when switching between menu items?](https://www.reddit.com/r/androiddev/comments/x98gv4/bottomnav_how_to_save_states_when_switching/)
-- [Rejected app from google play console and Sexual Content and Profanity policy!](https://www.reddit.com/r/androiddev/comments/x97heq/rejected_app_from_google_play_console_and_sexual/)
-- [Android&#39;s libc++ vs LLVM libc++](https://www.reddit.com/r/androiddev/comments/x94bpz/androids_libc_vs_llvm_libc/)
-- [Switch to App on Idle](https://www.reddit.com/r/androiddev/comments/x943du/switch_to_app_on_idle/)
-- [Best platform to publish your APK beside GooglePlaystore?](https://www.reddit.com/r/androiddev/comments/x93tn2/best_platform_to_publish_your_apk_beside/)
+- [Skipped frames and UI blocking when loading list to Recyclerview](https://www.reddit.com/r/androiddev/comments/xades8/skipped_frames_and_ui_blocking_when_loading_list/)
+- [Do these Overclocking apps on playstore work?](https://www.reddit.com/r/androiddev/comments/xaa22o/do_these_overclocking_apps_on_playstore_work/)
+- [I was making around 3,000$ and now only 150$ from my app, any advice?](https://www.reddit.com/r/androiddev/comments/xa8tk9/i_was_making_around_3000_and_now_only_150_from_my/)
+- [Looking for some direction](https://www.reddit.com/r/androiddev/comments/xa8omf/looking_for_some_direction/)
+- [Easiest native language/framework to use coming from a React Native background?](https://www.reddit.com/r/androiddev/comments/xa4cm5/easiest_native_languageframework_to_use_coming/)
+- [hello how to make gridview item size compatible with different screens sizes?](https://www.reddit.com/r/androiddev/comments/xa384t/hello_how_to_make_gridview_item_size_compatible/)
+- [If I search for some specific locality on google maps it shows me a boundary or fenced area on the map, If I want to access this locality with a specific border in my android app so when a person enters this locality &amp; opens the app,locality changes to the current locality according to the boundary.](https://www.reddit.com/r/androiddev/comments/xa2anb/if_i_search_for_some_specific_locality_on_google/)
+- [How often do you people use profilers for monitoring app performance?](https://www.reddit.com/r/androiddev/comments/xa1aku/how_often_do_you_people_use_profilers_for/)
+- [I got my Android 12 Update, Finally!!](https://www.reddit.com/r/androiddev/comments/x9wnqo/i_got_my_android_12_update_finally/)
+- [Current State of CI/CD and Beta Testing](https://www.reddit.com/r/androiddev/comments/x9vuil/current_state_of_cicd_and_beta_testing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
