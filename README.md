@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Skipped frames and UI blocking when loading list to Recyclerview](https://www.reddit.com/r/androiddev/comments/xades8/skipped_frames_and_ui_blocking_when_loading_list/)
-- [Do these Overclocking apps on playstore work?](https://www.reddit.com/r/androiddev/comments/xaa22o/do_these_overclocking_apps_on_playstore_work/)
-- [I was making around 3,000$ and now only 150$ from my app, any advice?](https://www.reddit.com/r/androiddev/comments/xa8tk9/i_was_making_around_3000_and_now_only_150_from_my/)
-- [Looking for some direction](https://www.reddit.com/r/androiddev/comments/xa8omf/looking_for_some_direction/)
-- [Easiest native language/framework to use coming from a React Native background?](https://www.reddit.com/r/androiddev/comments/xa4cm5/easiest_native_languageframework_to_use_coming/)
-- [hello how to make gridview item size compatible with different screens sizes?](https://www.reddit.com/r/androiddev/comments/xa384t/hello_how_to_make_gridview_item_size_compatible/)
-- [If I search for some specific locality on google maps it shows me a boundary or fenced area on the map, If I want to access this locality with a specific border in my android app so when a person enters this locality &amp; opens the app,locality changes to the current locality according to the boundary.](https://www.reddit.com/r/androiddev/comments/xa2anb/if_i_search_for_some_specific_locality_on_google/)
-- [How often do you people use profilers for monitoring app performance?](https://www.reddit.com/r/androiddev/comments/xa1aku/how_often_do_you_people_use_profilers_for/)
-- [I got my Android 12 Update, Finally!!](https://www.reddit.com/r/androiddev/comments/x9wnqo/i_got_my_android_12_update_finally/)
-- [Current State of CI/CD and Beta Testing](https://www.reddit.com/r/androiddev/comments/x9vuil/current_state_of_cicd_and_beta_testing/)
+- [First job dev android](https://www.reddit.com/r/androiddev/comments/xb7ih6/first_job_dev_android/)
+- [How to remove the below part when bottom sheet height changes?](https://www.reddit.com/r/androiddev/comments/xb54he/how_to_remove_the_below_part_when_bottom_sheet/)
+- [What android apps have the best UI/UX?](https://www.reddit.com/r/androiddev/comments/xb36v8/what_android_apps_have_the_best_uiux/)
+- [Reason to have minimum username length?](https://www.reddit.com/r/androiddev/comments/xb1v1e/reason_to_have_minimum_username_length/)
+- [Best Practices in Android Application Development](https://www.reddit.com/r/androiddev/comments/xb0wyf/best_practices_in_android_application_development/)
+- [As someone literally living under a rock... why was &quot;fill_parent&quot; deprecated??](https://www.reddit.com/r/androiddev/comments/xb0pos/as_someone_literally_living_under_a_rock_why_was/)
+- [Question about Embedding objects in Room, SQL Joins, and FLows. Please help.](https://www.reddit.com/r/androiddev/comments/xaycll/question_about_embedding_objects_in_room_sql/)
+- [LOL](https://www.reddit.com/r/androiddev/comments/xawovx/lol/)
+- [scroll to position in recyclerview](https://www.reddit.com/r/androiddev/comments/xawh6r/scroll_to_position_in_recyclerview/)
+- [Alwan: An Android Jetpack Compose color picker library.](https://www.reddit.com/r/androiddev/comments/xaw866/alwan_an_android_jetpack_compose_color_picker/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
