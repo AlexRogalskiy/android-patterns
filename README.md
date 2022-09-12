@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [First job dev android](https://www.reddit.com/r/androiddev/comments/xb7ih6/first_job_dev_android/)
-- [How to remove the below part when bottom sheet height changes?](https://www.reddit.com/r/androiddev/comments/xb54he/how_to_remove_the_below_part_when_bottom_sheet/)
-- [What android apps have the best UI/UX?](https://www.reddit.com/r/androiddev/comments/xb36v8/what_android_apps_have_the_best_uiux/)
-- [Reason to have minimum username length?](https://www.reddit.com/r/androiddev/comments/xb1v1e/reason_to_have_minimum_username_length/)
-- [Best Practices in Android Application Development](https://www.reddit.com/r/androiddev/comments/xb0wyf/best_practices_in_android_application_development/)
-- [As someone literally living under a rock... why was &quot;fill_parent&quot; deprecated??](https://www.reddit.com/r/androiddev/comments/xb0pos/as_someone_literally_living_under_a_rock_why_was/)
-- [Question about Embedding objects in Room, SQL Joins, and FLows. Please help.](https://www.reddit.com/r/androiddev/comments/xaycll/question_about_embedding_objects_in_room_sql/)
-- [LOL](https://www.reddit.com/r/androiddev/comments/xawovx/lol/)
-- [scroll to position in recyclerview](https://www.reddit.com/r/androiddev/comments/xawh6r/scroll_to_position_in_recyclerview/)
-- [Alwan: An Android Jetpack Compose color picker library.](https://www.reddit.com/r/androiddev/comments/xaw866/alwan_an_android_jetpack_compose_color_picker/)
+- [Installation order on a Macbook Pro M1](https://www.reddit.com/r/androiddev/comments/xbzs1x/installation_order_on_a_macbook_pro_m1/)
+- [Library for Selecting Icons from Icon Packs](https://www.reddit.com/r/androiddev/comments/xbv6l2/library_for_selecting_icons_from_icon_packs/)
+- [Dpi does it matter side loading?](https://www.reddit.com/r/androiddev/comments/xbuql8/dpi_does_it_matter_side_loading/)
+- [Firebase app SHA fingerprint?](https://www.reddit.com/r/androiddev/comments/xbuaqh/firebase_app_sha_fingerprint/)
+- [Why some apps still able to create directory/ files in Environment.getExternalStorageDirectory/ Environment.getExternalStoragePublicDirectory?](https://www.reddit.com/r/androiddev/comments/xbrr4l/why_some_apps_still_able_to_create_directory/)
+- [A good approach to unit test flow observer](https://www.reddit.com/r/androiddev/comments/xbqt3j/a_good_approach_to_unit_test_flow_observer/)
+- [Android NDK and reading/writing .wav files, best practices?](https://www.reddit.com/r/androiddev/comments/xbqo7r/android_ndk_and_readingwriting_wav_files_best/)
+- [Graphics programming on jetpack compose.](https://www.reddit.com/r/androiddev/comments/xbpe7w/graphics_programming_on_jetpack_compose/)
+- [Jetpack Compose, Disable Keyboard for Text](https://www.reddit.com/r/androiddev/comments/xbg31r/jetpack_compose_disable_keyboard_for_text/)
+- [A beautiful App made with Compose](https://www.reddit.com/r/androiddev/comments/xbfeij/a_beautiful_app_made_with_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
