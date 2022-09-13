@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Installation order on a Macbook Pro M1](https://www.reddit.com/r/androiddev/comments/xbzs1x/installation_order_on_a_macbook_pro_m1/)
-- [Library for Selecting Icons from Icon Packs](https://www.reddit.com/r/androiddev/comments/xbv6l2/library_for_selecting_icons_from_icon_packs/)
-- [Dpi does it matter side loading?](https://www.reddit.com/r/androiddev/comments/xbuql8/dpi_does_it_matter_side_loading/)
-- [Firebase app SHA fingerprint?](https://www.reddit.com/r/androiddev/comments/xbuaqh/firebase_app_sha_fingerprint/)
-- [Why some apps still able to create directory/ files in Environment.getExternalStorageDirectory/ Environment.getExternalStoragePublicDirectory?](https://www.reddit.com/r/androiddev/comments/xbrr4l/why_some_apps_still_able_to_create_directory/)
-- [A good approach to unit test flow observer](https://www.reddit.com/r/androiddev/comments/xbqt3j/a_good_approach_to_unit_test_flow_observer/)
-- [Android NDK and reading/writing .wav files, best practices?](https://www.reddit.com/r/androiddev/comments/xbqo7r/android_ndk_and_readingwriting_wav_files_best/)
-- [Graphics programming on jetpack compose.](https://www.reddit.com/r/androiddev/comments/xbpe7w/graphics_programming_on_jetpack_compose/)
-- [Jetpack Compose, Disable Keyboard for Text](https://www.reddit.com/r/androiddev/comments/xbg31r/jetpack_compose_disable_keyboard_for_text/)
-- [A beautiful App made with Compose](https://www.reddit.com/r/androiddev/comments/xbfeij/a_beautiful_app_made_with_compose/)
+- [White navigation flashes](https://www.reddit.com/r/androiddev/comments/xcrd3p/white_navigation_flashes/)
+- [what is problem??](https://www.reddit.com/r/androiddev/comments/xcp7y3/what_is_problem/)
+- [10 new Android Libraries And Projects To Inspire You In 2022](https://www.reddit.com/r/androiddev/comments/xco88z/10_new_android_libraries_and_projects_to_inspire/)
+- [Twitter&#39;s Jetpack Compose Rules](https://www.reddit.com/r/androiddev/comments/xcm1c1/twitters_jetpack_compose_rules/)
+- [simple projects for the office](https://www.reddit.com/r/androiddev/comments/xckhqk/simple_projects_for_the_office/)
+- [EGL/OpenGLES with multiple views?](https://www.reddit.com/r/androiddev/comments/xck0ir/eglopengles_with_multiple_views/)
+- [Documentation for sys.usb.configfs and other properties?](https://www.reddit.com/r/androiddev/comments/xcj0zq/documentation_for_sysusbconfigfs_and_other/)
+- [What is the best way to make MaterialAlertDialog, BottomNavigationView, DrawerLayout, etc... responsive with the large screens?](https://www.reddit.com/r/androiddev/comments/xchn0e/what_is_the_best_way_to_make_materialalertdialog/)
+- [How can an app perform actions outside of a while loop in a function launched using GlobalScope.launch?](https://www.reddit.com/r/androiddev/comments/xcgqcb/how_can_an_app_perform_actions_outside_of_a_while/)
+- [Grant automatically the overlay permission without any user interaction](https://www.reddit.com/r/androiddev/comments/xcfdhi/grant_automatically_the_overlay_permission/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
