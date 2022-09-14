@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [White navigation flashes](https://www.reddit.com/r/androiddev/comments/xcrd3p/white_navigation_flashes/)
-- [what is problem??](https://www.reddit.com/r/androiddev/comments/xcp7y3/what_is_problem/)
-- [10 new Android Libraries And Projects To Inspire You In 2022](https://www.reddit.com/r/androiddev/comments/xco88z/10_new_android_libraries_and_projects_to_inspire/)
-- [Twitter&#39;s Jetpack Compose Rules](https://www.reddit.com/r/androiddev/comments/xcm1c1/twitters_jetpack_compose_rules/)
-- [simple projects for the office](https://www.reddit.com/r/androiddev/comments/xckhqk/simple_projects_for_the_office/)
-- [EGL/OpenGLES with multiple views?](https://www.reddit.com/r/androiddev/comments/xck0ir/eglopengles_with_multiple_views/)
-- [Documentation for sys.usb.configfs and other properties?](https://www.reddit.com/r/androiddev/comments/xcj0zq/documentation_for_sysusbconfigfs_and_other/)
-- [What is the best way to make MaterialAlertDialog, BottomNavigationView, DrawerLayout, etc... responsive with the large screens?](https://www.reddit.com/r/androiddev/comments/xchn0e/what_is_the_best_way_to_make_materialalertdialog/)
-- [How can an app perform actions outside of a while loop in a function launched using GlobalScope.launch?](https://www.reddit.com/r/androiddev/comments/xcgqcb/how_can_an_app_perform_actions_outside_of_a_while/)
-- [Grant automatically the overlay permission without any user interaction](https://www.reddit.com/r/androiddev/comments/xcfdhi/grant_automatically_the_overlay_permission/)
+- [Programmatically determining when an android MediaController views become visible.](https://www.reddit.com/r/androiddev/comments/xdqnaq/programmatically_determining_when_an_android/)
+- [Hello! I&#39;m new to the community. And I am working on something big!](https://www.reddit.com/r/androiddev/comments/xdqjkd/hello_im_new_to_the_community_and_i_am_working_on/)
+- [Why authenticate users in a simple app with subscriptions?](https://www.reddit.com/r/androiddev/comments/xdqc12/why_authenticate_users_in_a_simple_app_with/)
+- [Compose or xml for side project?](https://www.reddit.com/r/androiddev/comments/xdmzqk/compose_or_xml_for_side_project/)
+- [Is there a list of composables and functions anywhere?](https://www.reddit.com/r/androiddev/comments/xdmqvg/is_there_a_list_of_composables_and_functions/)
+- [I made my first ever app called SCREAM &lpar;it’s kinda dumb tho&rpar;](https://www.reddit.com/r/androiddev/comments/xdmatc/i_made_my_first_ever_app_called_scream_its_kinda/)
+- [What is your tech stack?](https://www.reddit.com/r/androiddev/comments/xdlawh/what_is_your_tech_stack/)
+- [From where I can learn android development ?](https://www.reddit.com/r/androiddev/comments/xdke57/from_where_i_can_learn_android_development/)
+- [I made an application called Clok](https://www.reddit.com/r/androiddev/comments/xdipxq/i_made_an_application_called_clok/)
+- [Suggest some good resource about reactive programming](https://www.reddit.com/r/androiddev/comments/xdidwb/suggest_some_good_resource_about_reactive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
