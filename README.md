@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Programmatically determining when an android MediaController views become visible.](https://www.reddit.com/r/androiddev/comments/xdqnaq/programmatically_determining_when_an_android/)
-- [Hello! I&#39;m new to the community. And I am working on something big!](https://www.reddit.com/r/androiddev/comments/xdqjkd/hello_im_new_to_the_community_and_i_am_working_on/)
-- [Why authenticate users in a simple app with subscriptions?](https://www.reddit.com/r/androiddev/comments/xdqc12/why_authenticate_users_in_a_simple_app_with/)
-- [Compose or xml for side project?](https://www.reddit.com/r/androiddev/comments/xdmzqk/compose_or_xml_for_side_project/)
-- [Is there a list of composables and functions anywhere?](https://www.reddit.com/r/androiddev/comments/xdmqvg/is_there_a_list_of_composables_and_functions/)
-- [I made my first ever app called SCREAM &lpar;it’s kinda dumb tho&rpar;](https://www.reddit.com/r/androiddev/comments/xdmatc/i_made_my_first_ever_app_called_scream_its_kinda/)
-- [What is your tech stack?](https://www.reddit.com/r/androiddev/comments/xdlawh/what_is_your_tech_stack/)
-- [From where I can learn android development ?](https://www.reddit.com/r/androiddev/comments/xdke57/from_where_i_can_learn_android_development/)
-- [I made an application called Clok](https://www.reddit.com/r/androiddev/comments/xdipxq/i_made_an_application_called_clok/)
-- [Suggest some good resource about reactive programming](https://www.reddit.com/r/androiddev/comments/xdidwb/suggest_some_good_resource_about_reactive/)
+- [how do you guys grow your user base in the US and Europe?](https://www.reddit.com/r/androiddev/comments/xekq2f/how_do_you_guys_grow_your_user_base_in_the_us_and/)
+- [Junior Android Dev Knowledge](https://www.reddit.com/r/androiddev/comments/xeaezs/junior_android_dev_knowledge/)
+- [Did you have a mentor at any point in your career?](https://www.reddit.com/r/androiddev/comments/xe919g/did_you_have_a_mentor_at_any_point_in_your_career/)
+- [Can a fresher in Android development get a remote job from any country?](https://www.reddit.com/r/androiddev/comments/xe8ncd/can_a_fresher_in_android_development_get_a_remote/)
+- [Getting error 503 from Picasso Image lib](https://www.reddit.com/r/androiddev/comments/xe8dhb/getting_error_503_from_picasso_image_lib/)
+- [How does one go about selling their app? The rights and source code that is.](https://www.reddit.com/r/androiddev/comments/xe7v4s/how_does_one_go_about_selling_their_app_the/)
+- [Any tips to have your app approved faster?](https://www.reddit.com/r/androiddev/comments/xe5yzy/any_tips_to_have_your_app_approved_faster/)
+- [Ways to detect if a user is in debugging mode](https://www.reddit.com/r/androiddev/comments/xe5izs/ways_to_detect_if_a_user_is_in_debugging_mode/)
+- [Android/iOS Devs interested in OE?](https://www.reddit.com/r/androiddev/comments/xe4n3q/androidios_devs_interested_in_oe/)
+- [What is the need for Flow? It looks complicated](https://www.reddit.com/r/androiddev/comments/xe40o5/what_is_the_need_for_flow_it_looks_complicated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
