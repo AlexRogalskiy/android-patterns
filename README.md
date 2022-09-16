@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [how do you guys grow your user base in the US and Europe?](https://www.reddit.com/r/androiddev/comments/xekq2f/how_do_you_guys_grow_your_user_base_in_the_us_and/)
-- [Junior Android Dev Knowledge](https://www.reddit.com/r/androiddev/comments/xeaezs/junior_android_dev_knowledge/)
-- [Did you have a mentor at any point in your career?](https://www.reddit.com/r/androiddev/comments/xe919g/did_you_have_a_mentor_at_any_point_in_your_career/)
-- [Can a fresher in Android development get a remote job from any country?](https://www.reddit.com/r/androiddev/comments/xe8ncd/can_a_fresher_in_android_development_get_a_remote/)
-- [Getting error 503 from Picasso Image lib](https://www.reddit.com/r/androiddev/comments/xe8dhb/getting_error_503_from_picasso_image_lib/)
-- [How does one go about selling their app? The rights and source code that is.](https://www.reddit.com/r/androiddev/comments/xe7v4s/how_does_one_go_about_selling_their_app_the/)
-- [Any tips to have your app approved faster?](https://www.reddit.com/r/androiddev/comments/xe5yzy/any_tips_to_have_your_app_approved_faster/)
-- [Ways to detect if a user is in debugging mode](https://www.reddit.com/r/androiddev/comments/xe5izs/ways_to_detect_if_a_user_is_in_debugging_mode/)
-- [Android/iOS Devs interested in OE?](https://www.reddit.com/r/androiddev/comments/xe4n3q/androidios_devs_interested_in_oe/)
-- [What is the need for Flow? It looks complicated](https://www.reddit.com/r/androiddev/comments/xe40o5/what_is_the_need_for_flow_it_looks_complicated/)
+- [I have terrible imposter syndrome](https://www.reddit.com/r/androiddev/comments/xfep2g/i_have_terrible_imposter_syndrome/)
+- [Stable Dolphin 🐬 is live!](https://www.reddit.com/r/androiddev/comments/xfeeln/stable_dolphin_is_live/)
+- [Is there a way to catch/freeze an Expresso exception?](https://www.reddit.com/r/androiddev/comments/xfdxe5/is_there_a_way_to_catchfreeze_an_expresso/)
+- [Store from Mobile Native Foundation](https://www.reddit.com/r/androiddev/comments/xfbdef/store_from_mobile_native_foundation/)
+- [Google Fit with Bluetooth](https://www.reddit.com/r/androiddev/comments/xf9xzd/google_fit_with_bluetooth/)
+- [Overwhelmed with kotlin flows](https://www.reddit.com/r/androiddev/comments/xf8v0v/overwhelmed_with_kotlin_flows/)
+- [Small targetSdk&gt;30 notifications](https://www.reddit.com/r/androiddev/comments/xf7hq6/small_targetsdk30_notifications/)
+- [Loop Clicker — An New Auto Clicker app on Google Play](https://www.reddit.com/r/androiddev/comments/xf70i7/loop_clicker_an_new_auto_clicker_app_on_google/)
+- [Proper rich &lpar;spanned&rpar; text in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/xf6mtr/proper_rich_spanned_text_in_jetpack_compose/)
+- [NavHost without start destination?](https://www.reddit.com/r/androiddev/comments/xf6dtj/navhost_without_start_destination/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
