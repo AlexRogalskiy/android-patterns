@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Play Services weird behaviour on Android 11.](https://www.reddit.com/r/androiddev/comments/xg94tb/play_services_weird_behaviour_on_android_11/)
-- [Is It Possible?](https://www.reddit.com/r/androiddev/comments/xg6vkk/is_it_possible/)
-- [Keeping new app fully free for limited time](https://www.reddit.com/r/androiddev/comments/xg5vpk/keeping_new_app_fully_free_for_limited_time/)
-- [Improving App Cold Start Times](https://www.reddit.com/r/androiddev/comments/xg55p7/improving_app_cold_start_times/)
-- [Hiring Managers - Why didn&#39;t you pick that Junior for the role?](https://www.reddit.com/r/androiddev/comments/xg4ry9/hiring_managers_why_didnt_you_pick_that_junior/)
-- [how to get LinearLayout childs where child view type is TextView?](https://www.reddit.com/r/androiddev/comments/xg37n2/how_to_get_linearlayout_childs_where_child_view/)
-- [Camera quality in social media apps](https://www.reddit.com/r/androiddev/comments/xg28i7/camera_quality_in_social_media_apps/)
-- [How to add a value to an Integer in SharedPreferences?](https://www.reddit.com/r/androiddev/comments/xg1mm3/how_to_add_a_value_to_an_integer_in/)
-- [I find myself getting obsessive about design during app development.](https://www.reddit.com/r/androiddev/comments/xg0rb4/i_find_myself_getting_obsessive_about_design/)
-- [React component renders &lpar;as expected&rpar; in iOS, but not android](https://www.reddit.com/r/androiddev/comments/xg0bnn/react_component_renders_as_expected_in_ios_but/)
+- [Sharp Edges On Shared Flows And Hidden Coroutines](https://www.reddit.com/r/androiddev/comments/xh5l3m/sharp_edges_on_shared_flows_and_hidden_coroutines/)
+- [Music library &lpar;tik tok like&rpar;](https://www.reddit.com/r/androiddev/comments/xh3ene/music_library_tik_tok_like/)
+- [App marketing resources in Git?](https://www.reddit.com/r/androiddev/comments/xh2sru/app_marketing_resources_in_git/)
+- [I have to publish a simple app by next week so I can put it on my resume.](https://www.reddit.com/r/androiddev/comments/xgzvwt/i_have_to_publish_a_simple_app_by_next_week_so_i/)
+- [SharedPreferences values not directly updating, have to go on another activity and come back to see result.](https://www.reddit.com/r/androiddev/comments/xgzeel/sharedpreferences_values_not_directly_updating/)
+- [Why still UI rendering at 60 fps?](https://www.reddit.com/r/androiddev/comments/xgz3cl/why_still_ui_rendering_at_60_fps/)
+- [Platform for pushing short news to users. Proposals?](https://www.reddit.com/r/androiddev/comments/xgvt9r/platform_for_pushing_short_news_to_users_proposals/)
+- [Do we also need to think about rendering things correctly or is this the job of the OS to handle it?](https://www.reddit.com/r/androiddev/comments/xgvo7l/do_we_also_need_to_think_about_rendering_things/)
+- [what is the path ?](https://www.reddit.com/r/androiddev/comments/xgtufl/what_is_the_path/)
+- [Any crash that cannot be fixed?](https://www.reddit.com/r/androiddev/comments/xgqryt/any_crash_that_cannot_be_fixed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
