@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sharp Edges On Shared Flows And Hidden Coroutines](https://www.reddit.com/r/androiddev/comments/xh5l3m/sharp_edges_on_shared_flows_and_hidden_coroutines/)
-- [Music library &lpar;tik tok like&rpar;](https://www.reddit.com/r/androiddev/comments/xh3ene/music_library_tik_tok_like/)
-- [App marketing resources in Git?](https://www.reddit.com/r/androiddev/comments/xh2sru/app_marketing_resources_in_git/)
-- [I have to publish a simple app by next week so I can put it on my resume.](https://www.reddit.com/r/androiddev/comments/xgzvwt/i_have_to_publish_a_simple_app_by_next_week_so_i/)
-- [SharedPreferences values not directly updating, have to go on another activity and come back to see result.](https://www.reddit.com/r/androiddev/comments/xgzeel/sharedpreferences_values_not_directly_updating/)
-- [Why still UI rendering at 60 fps?](https://www.reddit.com/r/androiddev/comments/xgz3cl/why_still_ui_rendering_at_60_fps/)
-- [Platform for pushing short news to users. Proposals?](https://www.reddit.com/r/androiddev/comments/xgvt9r/platform_for_pushing_short_news_to_users_proposals/)
-- [Do we also need to think about rendering things correctly or is this the job of the OS to handle it?](https://www.reddit.com/r/androiddev/comments/xgvo7l/do_we_also_need_to_think_about_rendering_things/)
-- [what is the path ?](https://www.reddit.com/r/androiddev/comments/xgtufl/what_is_the_path/)
-- [Any crash that cannot be fixed?](https://www.reddit.com/r/androiddev/comments/xgqryt/any_crash_that_cannot_be_fixed/)
+- [Basic authentication to use Rest api](https://www.reddit.com/r/androiddev/comments/xhzxu3/basic_authentication_to_use_rest_api/)
+- [Is there a third-party toolkit that will allow me to retrieve relevant content using a remote API based on search strings?](https://www.reddit.com/r/androiddev/comments/xhwo4u/is_there_a_thirdparty_toolkit_that_will_allow_me/)
+- [Profitability of ads vs in app purchases?](https://www.reddit.com/r/androiddev/comments/xhszd3/profitability_of_ads_vs_in_app_purchases/)
+- [Ad Mediation - Applovin Max vs Admob](https://www.reddit.com/r/androiddev/comments/xhspy3/ad_mediation_applovin_max_vs_admob/)
+- [Lemon - NFT marketplace mock App, built on compose, source in comments](https://www.reddit.com/r/androiddev/comments/xhoozb/lemon_nft_marketplace_mock_app_built_on_compose/)
+- [Anyone use any code generation or cli tool for Android?](https://www.reddit.com/r/androiddev/comments/xho805/anyone_use_any_code_generation_or_cli_tool_for/)
+- [Are there any apps that are completely offline and still make a good income](https://www.reddit.com/r/androiddev/comments/xhmtit/are_there_any_apps_that_are_completely_offline/)
+- [Multi scroll table on Compose](https://www.reddit.com/r/androiddev/comments/xhm2vd/multi_scroll_table_on_compose/)
+- [How to intercept the screen coordinates of a View to synchronize rendering with a GLSurfaceView?](https://www.reddit.com/r/androiddev/comments/xhkya9/how_to_intercept_the_screen_coordinates_of_a_view/)
+- [Bottom Navigation not found in Compose](https://www.reddit.com/r/androiddev/comments/xhjtwn/bottom_navigation_not_found_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
