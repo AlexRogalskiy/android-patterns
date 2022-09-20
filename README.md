@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Basic authentication to use Rest api](https://www.reddit.com/r/androiddev/comments/xhzxu3/basic_authentication_to_use_rest_api/)
-- [Is there a third-party toolkit that will allow me to retrieve relevant content using a remote API based on search strings?](https://www.reddit.com/r/androiddev/comments/xhwo4u/is_there_a_thirdparty_toolkit_that_will_allow_me/)
-- [Profitability of ads vs in app purchases?](https://www.reddit.com/r/androiddev/comments/xhszd3/profitability_of_ads_vs_in_app_purchases/)
-- [Ad Mediation - Applovin Max vs Admob](https://www.reddit.com/r/androiddev/comments/xhspy3/ad_mediation_applovin_max_vs_admob/)
-- [Lemon - NFT marketplace mock App, built on compose, source in comments](https://www.reddit.com/r/androiddev/comments/xhoozb/lemon_nft_marketplace_mock_app_built_on_compose/)
-- [Anyone use any code generation or cli tool for Android?](https://www.reddit.com/r/androiddev/comments/xho805/anyone_use_any_code_generation_or_cli_tool_for/)
-- [Are there any apps that are completely offline and still make a good income](https://www.reddit.com/r/androiddev/comments/xhmtit/are_there_any_apps_that_are_completely_offline/)
-- [Multi scroll table on Compose](https://www.reddit.com/r/androiddev/comments/xhm2vd/multi_scroll_table_on_compose/)
-- [How to intercept the screen coordinates of a View to synchronize rendering with a GLSurfaceView?](https://www.reddit.com/r/androiddev/comments/xhkya9/how_to_intercept_the_screen_coordinates_of_a_view/)
-- [Bottom Navigation not found in Compose](https://www.reddit.com/r/androiddev/comments/xhjtwn/bottom_navigation_not_found_in_compose/)
+- [Economical modern device for testing.](https://www.reddit.com/r/androiddev/comments/xiupwt/economical_modern_device_for_testing/)
+- [First Android project for a client and it went super well](https://www.reddit.com/r/androiddev/comments/xitkol/first_android_project_for_a_client_and_it_went/)
+- [Is there any lazy way of getting all readable directory names as fast as possible?](https://www.reddit.com/r/androiddev/comments/xis3aa/is_there_any_lazy_way_of_getting_all_readable/)
+- [how do you debug app crash on device that you don&#39;t have?](https://www.reddit.com/r/androiddev/comments/xip06p/how_do_you_debug_app_crash_on_device_that_you/)
+- [why so much time to play console put in production app? is there something we can do about? put a app to deploy 13-09-2022...and status still pending](https://www.reddit.com/r/androiddev/comments/xinj23/why_so_much_time_to_play_console_put_in/)
+- [Question regarding Android Auto Backup rule - How to include multiple directories](https://www.reddit.com/r/androiddev/comments/xin75r/question_regarding_android_auto_backup_rule_how/)
+- [Is anyone willing to give Lottie animation premium account to use, please?](https://www.reddit.com/r/androiddev/comments/ximrem/is_anyone_willing_to_give_lottie_animation/)
+- [Cell phones and Quantum Random Number Generation](https://www.reddit.com/r/androiddev/comments/xim6vs/cell_phones_and_quantum_random_number_generation/)
+- [Learning Jetpack Compose](https://www.reddit.com/r/androiddev/comments/xil47c/learning_jetpack_compose/)
+- [What&#39;s the point behind predictive back gesture?](https://www.reddit.com/r/androiddev/comments/xikhn1/whats_the_point_behind_predictive_back_gesture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
