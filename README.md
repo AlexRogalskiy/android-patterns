@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Economical modern device for testing.](https://www.reddit.com/r/androiddev/comments/xiupwt/economical_modern_device_for_testing/)
-- [First Android project for a client and it went super well](https://www.reddit.com/r/androiddev/comments/xitkol/first_android_project_for_a_client_and_it_went/)
-- [Is there any lazy way of getting all readable directory names as fast as possible?](https://www.reddit.com/r/androiddev/comments/xis3aa/is_there_any_lazy_way_of_getting_all_readable/)
-- [how do you debug app crash on device that you don&#39;t have?](https://www.reddit.com/r/androiddev/comments/xip06p/how_do_you_debug_app_crash_on_device_that_you/)
-- [why so much time to play console put in production app? is there something we can do about? put a app to deploy 13-09-2022...and status still pending](https://www.reddit.com/r/androiddev/comments/xinj23/why_so_much_time_to_play_console_put_in/)
-- [Question regarding Android Auto Backup rule - How to include multiple directories](https://www.reddit.com/r/androiddev/comments/xin75r/question_regarding_android_auto_backup_rule_how/)
-- [Is anyone willing to give Lottie animation premium account to use, please?](https://www.reddit.com/r/androiddev/comments/ximrem/is_anyone_willing_to_give_lottie_animation/)
-- [Cell phones and Quantum Random Number Generation](https://www.reddit.com/r/androiddev/comments/xim6vs/cell_phones_and_quantum_random_number_generation/)
-- [Learning Jetpack Compose](https://www.reddit.com/r/androiddev/comments/xil47c/learning_jetpack_compose/)
-- [What&#39;s the point behind predictive back gesture?](https://www.reddit.com/r/androiddev/comments/xikhn1/whats_the_point_behind_predictive_back_gesture/)
+- [The least computationally intensive way to show recent unread activity in a list](https://www.reddit.com/r/androiddev/comments/xjs49p/the_least_computationally_intensive_way_to_show/)
+- [Kotlin Multiplatform Mobile worth the time for a solo developer?](https://www.reddit.com/r/androiddev/comments/xjq0sb/kotlin_multiplatform_mobile_worth_the_time_for_a/)
+- [Moxee Android 11 how to root](https://www.reddit.com/r/androiddev/comments/xjprv7/moxee_android_11_how_to_root/)
+- [Jetpack Compose Composition Tracing](https://www.reddit.com/r/androiddev/comments/xjounz/jetpack_compose_composition_tracing/)
+- [Google app in review for over a day though it has been rolled out to two regions](https://www.reddit.com/r/androiddev/comments/xjl0x4/google_app_in_review_for_over_a_day_though_it_has/)
+- [Android Studio Dolphin Resolution Adjustment and Docking Stations](https://www.reddit.com/r/androiddev/comments/xjkok2/android_studio_dolphin_resolution_adjustment_and/)
+- [Automotive OS](https://www.reddit.com/r/androiddev/comments/xjka1l/automotive_os/)
+- [Java 19 Released, Delivers Features for Projects Loom, Panama and Amber](https://www.reddit.com/r/androiddev/comments/xjgjfd/java_19_released_delivers_features_for_projects/)
+- [Dumb question don&#39;t judge me 💀](https://www.reddit.com/r/androiddev/comments/xjfqs6/dumb_question_dont_judge_me/)
+- [What type of bottom sheet dialog that google map use?](https://www.reddit.com/r/androiddev/comments/xjfjx4/what_type_of_bottom_sheet_dialog_that_google_map/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
