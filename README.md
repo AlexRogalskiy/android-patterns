@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The least computationally intensive way to show recent unread activity in a list](https://www.reddit.com/r/androiddev/comments/xjs49p/the_least_computationally_intensive_way_to_show/)
-- [Kotlin Multiplatform Mobile worth the time for a solo developer?](https://www.reddit.com/r/androiddev/comments/xjq0sb/kotlin_multiplatform_mobile_worth_the_time_for_a/)
-- [Moxee Android 11 how to root](https://www.reddit.com/r/androiddev/comments/xjprv7/moxee_android_11_how_to_root/)
-- [Jetpack Compose Composition Tracing](https://www.reddit.com/r/androiddev/comments/xjounz/jetpack_compose_composition_tracing/)
-- [Google app in review for over a day though it has been rolled out to two regions](https://www.reddit.com/r/androiddev/comments/xjl0x4/google_app_in_review_for_over_a_day_though_it_has/)
-- [Android Studio Dolphin Resolution Adjustment and Docking Stations](https://www.reddit.com/r/androiddev/comments/xjkok2/android_studio_dolphin_resolution_adjustment_and/)
-- [Automotive OS](https://www.reddit.com/r/androiddev/comments/xjka1l/automotive_os/)
-- [Java 19 Released, Delivers Features for Projects Loom, Panama and Amber](https://www.reddit.com/r/androiddev/comments/xjgjfd/java_19_released_delivers_features_for_projects/)
-- [Dumb question don&#39;t judge me 💀](https://www.reddit.com/r/androiddev/comments/xjfqs6/dumb_question_dont_judge_me/)
-- [What type of bottom sheet dialog that google map use?](https://www.reddit.com/r/androiddev/comments/xjfjx4/what_type_of_bottom_sheet_dialog_that_google_map/)
+- [Windows/Android Cross Platform UI Example](https://www.reddit.com/r/androiddev/comments/xkpivh/windowsandroid_cross_platform_ui_example/)
+- [How to disable phone from vibrating when using the side button to open the camera in Android 11?](https://www.reddit.com/r/androiddev/comments/xkmkop/how_to_disable_phone_from_vibrating_when_using/)
+- [large smali string arrays?](https://www.reddit.com/r/androiddev/comments/xkjbtb/large_smali_string_arrays/)
+- [I needed advice for my first job.](https://www.reddit.com/r/androiddev/comments/xkhfgq/i_needed_advice_for_my_first_job/)
+- [What are some tips for understanding these complicated documents?](https://www.reddit.com/r/androiddev/comments/xkh6hc/what_are_some_tips_for_understanding_these/)
+- [Ways to detect developer mode](https://www.reddit.com/r/androiddev/comments/xkbchq/ways_to_detect_developer_mode/)
+- [Android Studio post OSX update](https://www.reddit.com/r/androiddev/comments/xk9gvv/android_studio_post_osx_update/)
+- [Improving App Cold Start Times &lpar;With This One Simple Trick—No Really&rpar; Follow-Up](https://www.reddit.com/r/androiddev/comments/xk7kq8/improving_app_cold_start_times_with_this_one/)
+- [Which cloud service for app auth and data sync](https://www.reddit.com/r/androiddev/comments/xk7eoo/which_cloud_service_for_app_auth_and_data_sync/)
+- [Is this a scam?](https://www.reddit.com/r/androiddev/comments/xk760j/is_this_a_scam/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
