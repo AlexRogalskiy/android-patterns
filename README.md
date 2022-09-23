@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Windows/Android Cross Platform UI Example](https://www.reddit.com/r/androiddev/comments/xkpivh/windowsandroid_cross_platform_ui_example/)
-- [How to disable phone from vibrating when using the side button to open the camera in Android 11?](https://www.reddit.com/r/androiddev/comments/xkmkop/how_to_disable_phone_from_vibrating_when_using/)
-- [large smali string arrays?](https://www.reddit.com/r/androiddev/comments/xkjbtb/large_smali_string_arrays/)
-- [I needed advice for my first job.](https://www.reddit.com/r/androiddev/comments/xkhfgq/i_needed_advice_for_my_first_job/)
-- [What are some tips for understanding these complicated documents?](https://www.reddit.com/r/androiddev/comments/xkh6hc/what_are_some_tips_for_understanding_these/)
-- [Ways to detect developer mode](https://www.reddit.com/r/androiddev/comments/xkbchq/ways_to_detect_developer_mode/)
-- [Android Studio post OSX update](https://www.reddit.com/r/androiddev/comments/xk9gvv/android_studio_post_osx_update/)
-- [Improving App Cold Start Times &lpar;With This One Simple Trick—No Really&rpar; Follow-Up](https://www.reddit.com/r/androiddev/comments/xk7kq8/improving_app_cold_start_times_with_this_one/)
-- [Which cloud service for app auth and data sync](https://www.reddit.com/r/androiddev/comments/xk7eoo/which_cloud_service_for_app_auth_and_data_sync/)
-- [Is this a scam?](https://www.reddit.com/r/androiddev/comments/xk760j/is_this_a_scam/)
+- [Applovin Max mediation - One problem](https://www.reddit.com/r/androiddev/comments/xlj2g1/applovin_max_mediation_one_problem/)
+- [Is there any ad network for Android that allows you to use the money from app’s revenue to fund new user acquisition ?](https://www.reddit.com/r/androiddev/comments/xlirnk/is_there_any_ad_network_for_android_that_allows/)
+- [Android Studio Flamingo Canary 1 available now](https://www.reddit.com/r/androiddev/comments/xlbk9y/android_studio_flamingo_canary_1_available_now/)
+- [Android Studio Electric Eel Beta 1 now available](https://www.reddit.com/r/androiddev/comments/xlbk91/android_studio_electric_eel_beta_1_now_available/)
+- [Image Cropper with Jetpack Compose with dynamic, static overlay, crop with shapes, animations and customization options](https://www.reddit.com/r/androiddev/comments/xlass5/image_cropper_with_jetpack_compose_with_dynamic/)
+- [What is the proper way of handling multi-field objects from Composable changes?](https://www.reddit.com/r/androiddev/comments/xla8ci/what_is_the_proper_way_of_handling_multifield/)
+- [can I change or add emojis to Gboard?](https://www.reddit.com/r/androiddev/comments/xl7nja/can_i_change_or_add_emojis_to_gboard/)
+- [Door: Room for Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/xl6jpo/door_room_for_kotlin_multiplatform/)
+- [What is the proper way, for us to migrate an open source project from jcenter to jitpack github?](https://www.reddit.com/r/androiddev/comments/xl6gg7/what_is_the_proper_way_for_us_to_migrate_an_open/)
+- [How is your experience for AdMob only vs AdMob Mediation + FAN ?](https://www.reddit.com/r/androiddev/comments/xl66q4/how_is_your_experience_for_admob_only_vs_admob/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
