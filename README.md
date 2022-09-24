@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Applovin Max mediation - One problem](https://www.reddit.com/r/androiddev/comments/xlj2g1/applovin_max_mediation_one_problem/)
-- [Is there any ad network for Android that allows you to use the money from app’s revenue to fund new user acquisition ?](https://www.reddit.com/r/androiddev/comments/xlirnk/is_there_any_ad_network_for_android_that_allows/)
-- [Android Studio Flamingo Canary 1 available now](https://www.reddit.com/r/androiddev/comments/xlbk9y/android_studio_flamingo_canary_1_available_now/)
-- [Android Studio Electric Eel Beta 1 now available](https://www.reddit.com/r/androiddev/comments/xlbk91/android_studio_electric_eel_beta_1_now_available/)
-- [Image Cropper with Jetpack Compose with dynamic, static overlay, crop with shapes, animations and customization options](https://www.reddit.com/r/androiddev/comments/xlass5/image_cropper_with_jetpack_compose_with_dynamic/)
-- [What is the proper way of handling multi-field objects from Composable changes?](https://www.reddit.com/r/androiddev/comments/xla8ci/what_is_the_proper_way_of_handling_multifield/)
-- [can I change or add emojis to Gboard?](https://www.reddit.com/r/androiddev/comments/xl7nja/can_i_change_or_add_emojis_to_gboard/)
-- [Door: Room for Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/xl6jpo/door_room_for_kotlin_multiplatform/)
-- [What is the proper way, for us to migrate an open source project from jcenter to jitpack github?](https://www.reddit.com/r/androiddev/comments/xl6gg7/what_is_the_proper_way_for_us_to_migrate_an_open/)
-- [How is your experience for AdMob only vs AdMob Mediation + FAN ?](https://www.reddit.com/r/androiddev/comments/xl66q4/how_is_your_experience_for_admob_only_vs_admob/)
+- [Subscription cancellation refund clarification. &lpar;RevenueCat&rpar;](https://www.reddit.com/r/androiddev/comments/xmgza4/subscription_cancellation_refund_clarification/)
+- [Google Street View Inaccuracies](https://www.reddit.com/r/androiddev/comments/xmgbti/google_street_view_inaccuracies/)
+- [Little help finding a post.](https://www.reddit.com/r/androiddev/comments/xmdszm/little_help_finding_a_post/)
+- [Tomorrow I&#39;m having my first interview as a junior android dev](https://www.reddit.com/r/androiddev/comments/xma4ir/tomorrow_im_having_my_first_interview_as_a_junior/)
+- [How to clear back stacks from all bottom nav back stacks using NavController?](https://www.reddit.com/r/androiddev/comments/xm9lbc/how_to_clear_back_stacks_from_all_bottom_nav_back/)
+- [Does savedStateHandle in VM with @HiltViewModel work without using Nav Component?](https://www.reddit.com/r/androiddev/comments/xm90ed/does_savedstatehandle_in_vm_with_hiltviewmodel/)
+- [How hard would it be to make a WebKit based Android browser?](https://www.reddit.com/r/androiddev/comments/xm6vck/how_hard_would_it_be_to_make_a_webkit_based/)
+- [Extreme beginner UI help](https://www.reddit.com/r/androiddev/comments/xm3o1d/extreme_beginner_ui_help/)
+- [Should I call API inside same viewmodelscope or different one?](https://www.reddit.com/r/androiddev/comments/xm3i0p/should_i_call_api_inside_same_viewmodelscope_or/)
+- [How to create a WebView App from your PWA and Build APK / AAB for Google Play Store](https://www.reddit.com/r/androiddev/comments/xm257r/how_to_create_a_webview_app_from_your_pwa_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
