@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Subscription cancellation refund clarification. &lpar;RevenueCat&rpar;](https://www.reddit.com/r/androiddev/comments/xmgza4/subscription_cancellation_refund_clarification/)
-- [Google Street View Inaccuracies](https://www.reddit.com/r/androiddev/comments/xmgbti/google_street_view_inaccuracies/)
-- [Little help finding a post.](https://www.reddit.com/r/androiddev/comments/xmdszm/little_help_finding_a_post/)
-- [Tomorrow I&#39;m having my first interview as a junior android dev](https://www.reddit.com/r/androiddev/comments/xma4ir/tomorrow_im_having_my_first_interview_as_a_junior/)
-- [How to clear back stacks from all bottom nav back stacks using NavController?](https://www.reddit.com/r/androiddev/comments/xm9lbc/how_to_clear_back_stacks_from_all_bottom_nav_back/)
-- [Does savedStateHandle in VM with @HiltViewModel work without using Nav Component?](https://www.reddit.com/r/androiddev/comments/xm90ed/does_savedstatehandle_in_vm_with_hiltviewmodel/)
-- [How hard would it be to make a WebKit based Android browser?](https://www.reddit.com/r/androiddev/comments/xm6vck/how_hard_would_it_be_to_make_a_webkit_based/)
-- [Extreme beginner UI help](https://www.reddit.com/r/androiddev/comments/xm3o1d/extreme_beginner_ui_help/)
-- [Should I call API inside same viewmodelscope or different one?](https://www.reddit.com/r/androiddev/comments/xm3i0p/should_i_call_api_inside_same_viewmodelscope_or/)
-- [How to create a WebView App from your PWA and Build APK / AAB for Google Play Store](https://www.reddit.com/r/androiddev/comments/xm257r/how_to_create_a_webview_app_from_your_pwa_and/)
+- [How fast did your app take off?](https://www.reddit.com/r/androiddev/comments/xn9m62/how_fast_did_your_app_take_off/)
+- [first app - release strategy](https://www.reddit.com/r/androiddev/comments/xn92f0/first_app_release_strategy/)
+- [Can i have a list of another class inside my entity class in room?](https://www.reddit.com/r/androiddev/comments/xn8f87/can_i_have_a_list_of_another_class_inside_my/)
+- [How can you avoiding subscribing multiple times to an Observable via click handlers?](https://www.reddit.com/r/androiddev/comments/xn703d/how_can_you_avoiding_subscribing_multiple_times/)
+- [Is there a way to have a toolbar without using appcompat stuff?](https://www.reddit.com/r/androiddev/comments/xn5qkb/is_there_a_way_to_have_a_toolbar_without_using/)
+- [Email from a dev asking me to post their app... Scam?](https://www.reddit.com/r/androiddev/comments/xn3280/email_from_a_dev_asking_me_to_post_their_app_scam/)
+- [Can stats be scrubbed from Google Play app dashboard?](https://www.reddit.com/r/androiddev/comments/xn2sab/can_stats_be_scrubbed_from_google_play_app/)
+- [Networking within SDK](https://www.reddit.com/r/androiddev/comments/xn1ejy/networking_within_sdk/)
+- [where is the dex and javac compiler on the android&#39;s stack](https://www.reddit.com/r/androiddev/comments/xn17w5/where_is_the_dex_and_javac_compiler_on_the/)
+- [Google maps question](https://www.reddit.com/r/androiddev/comments/xmyemw/google_maps_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
