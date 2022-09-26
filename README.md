@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How fast did your app take off?](https://www.reddit.com/r/androiddev/comments/xn9m62/how_fast_did_your_app_take_off/)
-- [first app - release strategy](https://www.reddit.com/r/androiddev/comments/xn92f0/first_app_release_strategy/)
-- [Can i have a list of another class inside my entity class in room?](https://www.reddit.com/r/androiddev/comments/xn8f87/can_i_have_a_list_of_another_class_inside_my/)
-- [How can you avoiding subscribing multiple times to an Observable via click handlers?](https://www.reddit.com/r/androiddev/comments/xn703d/how_can_you_avoiding_subscribing_multiple_times/)
-- [Is there a way to have a toolbar without using appcompat stuff?](https://www.reddit.com/r/androiddev/comments/xn5qkb/is_there_a_way_to_have_a_toolbar_without_using/)
-- [Email from a dev asking me to post their app... Scam?](https://www.reddit.com/r/androiddev/comments/xn3280/email_from_a_dev_asking_me_to_post_their_app_scam/)
-- [Can stats be scrubbed from Google Play app dashboard?](https://www.reddit.com/r/androiddev/comments/xn2sab/can_stats_be_scrubbed_from_google_play_app/)
-- [Networking within SDK](https://www.reddit.com/r/androiddev/comments/xn1ejy/networking_within_sdk/)
-- [where is the dex and javac compiler on the android&#39;s stack](https://www.reddit.com/r/androiddev/comments/xn17w5/where_is_the_dex_and_javac_compiler_on_the/)
-- [Google maps question](https://www.reddit.com/r/androiddev/comments/xmyemw/google_maps_question/)
+- [[Android 13] How to handle user rejecting notification permissions](https://www.reddit.com/r/androiddev/comments/xo7hn7/android_13_how_to_handle_user_rejecting/)
+- [App update status still in review](https://www.reddit.com/r/androiddev/comments/xo4oso/app_update_status_still_in_review/)
+- [viewModels observer problem](https://www.reddit.com/r/androiddev/comments/xo12ig/viewmodels_observer_problem/)
+- [Xamarin.Android development possible on Linux in 2022?](https://www.reddit.com/r/androiddev/comments/xo0bey/xamarinandroid_development_possible_on_linux_in/)
+- [How do you usually resolve case when your app not able to recognize user previous purchase?](https://www.reddit.com/r/androiddev/comments/xnyljy/how_do_you_usually_resolve_case_when_your_app_not/)
+- [Made a Travel Booking app with jetpack compose, with navigation and modern design elements, do checkout on github](https://www.reddit.com/r/androiddev/comments/xnvbce/made_a_travel_booking_app_with_jetpack_compose/)
+- [my gridview items has different size on different screen resolutions, what should I do? thanks](https://www.reddit.com/r/androiddev/comments/xnsnj6/my_gridview_items_has_different_size_on_different/)
+- [Help with deeplinks with schemes/url](https://www.reddit.com/r/androiddev/comments/xnrwjf/help_with_deeplinks_with_schemesurl/)
+- [Is Android a good thing to teach to beginner programmers?](https://www.reddit.com/r/androiddev/comments/xnrnll/is_android_a_good_thing_to_teach_to_beginner/)
+- [Bluetooth HCI Snoop Log](https://www.reddit.com/r/androiddev/comments/xnmir6/bluetooth_hci_snoop_log/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
