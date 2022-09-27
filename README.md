@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Android 13] How to handle user rejecting notification permissions](https://www.reddit.com/r/androiddev/comments/xo7hn7/android_13_how_to_handle_user_rejecting/)
-- [App update status still in review](https://www.reddit.com/r/androiddev/comments/xo4oso/app_update_status_still_in_review/)
-- [viewModels observer problem](https://www.reddit.com/r/androiddev/comments/xo12ig/viewmodels_observer_problem/)
-- [Xamarin.Android development possible on Linux in 2022?](https://www.reddit.com/r/androiddev/comments/xo0bey/xamarinandroid_development_possible_on_linux_in/)
-- [How do you usually resolve case when your app not able to recognize user previous purchase?](https://www.reddit.com/r/androiddev/comments/xnyljy/how_do_you_usually_resolve_case_when_your_app_not/)
-- [Made a Travel Booking app with jetpack compose, with navigation and modern design elements, do checkout on github](https://www.reddit.com/r/androiddev/comments/xnvbce/made_a_travel_booking_app_with_jetpack_compose/)
-- [my gridview items has different size on different screen resolutions, what should I do? thanks](https://www.reddit.com/r/androiddev/comments/xnsnj6/my_gridview_items_has_different_size_on_different/)
-- [Help with deeplinks with schemes/url](https://www.reddit.com/r/androiddev/comments/xnrwjf/help_with_deeplinks_with_schemesurl/)
-- [Is Android a good thing to teach to beginner programmers?](https://www.reddit.com/r/androiddev/comments/xnrnll/is_android_a_good_thing_to_teach_to_beginner/)
-- [Bluetooth HCI Snoop Log](https://www.reddit.com/r/androiddev/comments/xnmir6/bluetooth_hci_snoop_log/)
+- [If i have two tables in room how to specify which table to insert or does room know by parameters ?](https://www.reddit.com/r/androiddev/comments/xp4hr5/if_i_have_two_tables_in_room_how_to_specify_which/)
+- [Jetpack Compose: Horrifically slow in text input?](https://www.reddit.com/r/androiddev/comments/xp4dr0/jetpack_compose_horrifically_slow_in_text_input/)
+- [Is there any website to see your &quot;search&quot; placement/ranking in playstore, or any form of other analysis?](https://www.reddit.com/r/androiddev/comments/xp1dkl/is_there_any_website_to_see_your_search/)
+- [How to pick up on a code base you didn&#39;t write.](https://www.reddit.com/r/androiddev/comments/xp0cu6/how_to_pick_up_on_a_code_base_you_didnt_write/)
+- [Document scanning library?](https://www.reddit.com/r/androiddev/comments/xowxan/document_scanning_library/)
+- [Minimum API requirement for new apps -- Is it unavoidable?](https://www.reddit.com/r/androiddev/comments/xovl15/minimum_api_requirement_for_new_apps_is_it/)
+- [Good Android course](https://www.reddit.com/r/androiddev/comments/xouuy9/good_android_course/)
+- [Multiple viewmodel instances](https://www.reddit.com/r/androiddev/comments/xou21m/multiple_viewmodel_instances/)
+- [Are you compiling for / targeting version 33 yet?](https://www.reddit.com/r/androiddev/comments/xosblp/are_you_compiling_for_targeting_version_33_yet/)
+- [Anyone using Android Studio and 12th Gen Intel Laptop](https://www.reddit.com/r/androiddev/comments/xooxi1/anyone_using_android_studio_and_12th_gen_intel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
