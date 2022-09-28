@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [If i have two tables in room how to specify which table to insert or does room know by parameters ?](https://www.reddit.com/r/androiddev/comments/xp4hr5/if_i_have_two_tables_in_room_how_to_specify_which/)
-- [Jetpack Compose: Horrifically slow in text input?](https://www.reddit.com/r/androiddev/comments/xp4dr0/jetpack_compose_horrifically_slow_in_text_input/)
-- [Is there any website to see your &quot;search&quot; placement/ranking in playstore, or any form of other analysis?](https://www.reddit.com/r/androiddev/comments/xp1dkl/is_there_any_website_to_see_your_search/)
-- [How to pick up on a code base you didn&#39;t write.](https://www.reddit.com/r/androiddev/comments/xp0cu6/how_to_pick_up_on_a_code_base_you_didnt_write/)
-- [Document scanning library?](https://www.reddit.com/r/androiddev/comments/xowxan/document_scanning_library/)
-- [Minimum API requirement for new apps -- Is it unavoidable?](https://www.reddit.com/r/androiddev/comments/xovl15/minimum_api_requirement_for_new_apps_is_it/)
-- [Good Android course](https://www.reddit.com/r/androiddev/comments/xouuy9/good_android_course/)
-- [Multiple viewmodel instances](https://www.reddit.com/r/androiddev/comments/xou21m/multiple_viewmodel_instances/)
-- [Are you compiling for / targeting version 33 yet?](https://www.reddit.com/r/androiddev/comments/xosblp/are_you_compiling_for_targeting_version_33_yet/)
-- [Anyone using Android Studio and 12th Gen Intel Laptop](https://www.reddit.com/r/androiddev/comments/xooxi1/anyone_using_android_studio_and_12th_gen_intel/)
+- [Backup jobs if you cant get hired](https://www.reddit.com/r/androiddev/comments/xpzzcr/backup_jobs_if_you_cant_get_hired/)
+- [How to make video call in app chat?](https://www.reddit.com/r/androiddev/comments/xpzogy/how_to_make_video_call_in_app_chat/)
+- [Does any company/user care for themed app icons in android 13?](https://www.reddit.com/r/androiddev/comments/xpzfva/does_any_companyuser_care_for_themed_app_icons_in/)
+- [From idea to revenue - a formula and a case study](https://www.reddit.com/r/androiddev/comments/xpy5ca/from_idea_to_revenue_a_formula_and_a_case_study/)
+- [Arguments against &lpar;or for&rpar; web style reactive system in Android](https://www.reddit.com/r/androiddev/comments/xpwbje/arguments_against_or_for_web_style_reactive/)
+- [Experiencing longer time for getting reviewed on the PlayStore.](https://www.reddit.com/r/androiddev/comments/xpvmym/experiencing_longer_time_for_getting_reviewed_on/)
+- [Is there a way to run Linux phone apps on Android 10?](https://www.reddit.com/r/androiddev/comments/xpuoom/is_there_a_way_to_run_linux_phone_apps_on_android/)
+- [how do I start making an app that has users make posts](https://www.reddit.com/r/androiddev/comments/xptimh/how_do_i_start_making_an_app_that_has_users_make/)
+- [Android Studio Flamingo Canary 2 available now](https://www.reddit.com/r/androiddev/comments/xpshcl/android_studio_flamingo_canary_2_available_now/)
+- [How do I set the time my lock screen is shown, befire the screen goes black?](https://www.reddit.com/r/androiddev/comments/xpre9e/how_do_i_set_the_time_my_lock_screen_is_shown/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
