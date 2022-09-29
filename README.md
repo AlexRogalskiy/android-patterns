@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Backup jobs if you cant get hired](https://www.reddit.com/r/androiddev/comments/xpzzcr/backup_jobs_if_you_cant_get_hired/)
-- [How to make video call in app chat?](https://www.reddit.com/r/androiddev/comments/xpzogy/how_to_make_video_call_in_app_chat/)
-- [Does any company/user care for themed app icons in android 13?](https://www.reddit.com/r/androiddev/comments/xpzfva/does_any_companyuser_care_for_themed_app_icons_in/)
-- [From idea to revenue - a formula and a case study](https://www.reddit.com/r/androiddev/comments/xpy5ca/from_idea_to_revenue_a_formula_and_a_case_study/)
-- [Arguments against &lpar;or for&rpar; web style reactive system in Android](https://www.reddit.com/r/androiddev/comments/xpwbje/arguments_against_or_for_web_style_reactive/)
-- [Experiencing longer time for getting reviewed on the PlayStore.](https://www.reddit.com/r/androiddev/comments/xpvmym/experiencing_longer_time_for_getting_reviewed_on/)
-- [Is there a way to run Linux phone apps on Android 10?](https://www.reddit.com/r/androiddev/comments/xpuoom/is_there_a_way_to_run_linux_phone_apps_on_android/)
-- [how do I start making an app that has users make posts](https://www.reddit.com/r/androiddev/comments/xptimh/how_do_i_start_making_an_app_that_has_users_make/)
-- [Android Studio Flamingo Canary 2 available now](https://www.reddit.com/r/androiddev/comments/xpshcl/android_studio_flamingo_canary_2_available_now/)
-- [How do I set the time my lock screen is shown, befire the screen goes black?](https://www.reddit.com/r/androiddev/comments/xpre9e/how_do_i_set_the_time_my_lock_screen_is_shown/)
+- [Send MultipartBody.Part to service](https://www.reddit.com/r/androiddev/comments/xqtoaj/send_multipartbodypart_to_service/)
+- [Should API logic be in a fragment of the parent activity?](https://www.reddit.com/r/androiddev/comments/xqq20x/should_api_logic_be_in_a_fragment_of_the_parent/)
+- [Is background high accuracy GPS coordinates possible?](https://www.reddit.com/r/androiddev/comments/xqpcxh/is_background_high_accuracy_gps_coordinates/)
+- [How do I reset the state while reselecting item in bottom navigation view?](https://www.reddit.com/r/androiddev/comments/xqp183/how_do_i_reset_the_state_while_reselecting_item/)
+- [Got a survey request while looking at docs &lpar;official&rpar;, did I miss google changing sweet treat names?](https://www.reddit.com/r/androiddev/comments/xqop0u/got_a_survey_request_while_looking_at_docs/)
+- [Certificate Transparency using DexProtector in Android](https://www.reddit.com/r/androiddev/comments/xqn446/certificate_transparency_using_dexprotector_in/)
+- [Listen to our major Text to Speech upgrades for 64 bit devices.](https://www.reddit.com/r/androiddev/comments/xqmwev/listen_to_our_major_text_to_speech_upgrades_for/)
+- [Google Play reviews removed](https://www.reddit.com/r/androiddev/comments/xqmrcz/google_play_reviews_removed/)
+- [Compose misaligns uppercase text.](https://www.reddit.com/r/androiddev/comments/xqm3um/compose_misaligns_uppercase_text/)
+- [Creating a new project to show my skills in the right way](https://www.reddit.com/r/androiddev/comments/xqir00/creating_a_new_project_to_show_my_skills_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
