@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Send MultipartBody.Part to service](https://www.reddit.com/r/androiddev/comments/xqtoaj/send_multipartbodypart_to_service/)
-- [Should API logic be in a fragment of the parent activity?](https://www.reddit.com/r/androiddev/comments/xqq20x/should_api_logic_be_in_a_fragment_of_the_parent/)
-- [Is background high accuracy GPS coordinates possible?](https://www.reddit.com/r/androiddev/comments/xqpcxh/is_background_high_accuracy_gps_coordinates/)
-- [How do I reset the state while reselecting item in bottom navigation view?](https://www.reddit.com/r/androiddev/comments/xqp183/how_do_i_reset_the_state_while_reselecting_item/)
-- [Got a survey request while looking at docs &lpar;official&rpar;, did I miss google changing sweet treat names?](https://www.reddit.com/r/androiddev/comments/xqop0u/got_a_survey_request_while_looking_at_docs/)
-- [Certificate Transparency using DexProtector in Android](https://www.reddit.com/r/androiddev/comments/xqn446/certificate_transparency_using_dexprotector_in/)
-- [Listen to our major Text to Speech upgrades for 64 bit devices.](https://www.reddit.com/r/androiddev/comments/xqmwev/listen_to_our_major_text_to_speech_upgrades_for/)
-- [Google Play reviews removed](https://www.reddit.com/r/androiddev/comments/xqmrcz/google_play_reviews_removed/)
-- [Compose misaligns uppercase text.](https://www.reddit.com/r/androiddev/comments/xqm3um/compose_misaligns_uppercase_text/)
-- [Creating a new project to show my skills in the right way](https://www.reddit.com/r/androiddev/comments/xqir00/creating_a_new_project_to_show_my_skills_in_the/)
+- [Firebase test lab alternative](https://www.reddit.com/r/androiddev/comments/xrop2w/firebase_test_lab_alternative/)
+- [Debugging MMS issues](https://www.reddit.com/r/androiddev/comments/xrol19/debugging_mms_issues/)
+- [what is this!?](https://www.reddit.com/r/androiddev/comments/xrnwoe/what_is_this/)
+- [AVD w/ ABI x86_64 could not run on PopOS](https://www.reddit.com/r/androiddev/comments/xrnwib/avd_w_abi_x86_64_could_not_run_on_popos/)
+- [SetPrimaryFragment on FragmentStateAdapter](https://www.reddit.com/r/androiddev/comments/xrmchv/setprimaryfragment_on_fragmentstateadapter/)
+- [Do you Really Make Money off of Ads?](https://www.reddit.com/r/androiddev/comments/xrl8jc/do_you_really_make_money_off_of_ads/)
+- [Grandfathering Price Changes with Google Play Billing Library 5](https://www.reddit.com/r/androiddev/comments/xrjygh/grandfathering_price_changes_with_google_play/)
+- [It&#39;s possible to have a full XML layout as a live wallpaper?](https://www.reddit.com/r/androiddev/comments/xri8se/its_possible_to_have_a_full_xml_layout_as_a_live/)
+- [Why can&#39;t we create IndoorBuilding objects on Google Maps?](https://www.reddit.com/r/androiddev/comments/xrgq5u/why_cant_we_create_indoorbuilding_objects_on/)
+- [watch face or watch face dev tutorials](https://www.reddit.com/r/androiddev/comments/xrf945/watch_face_or_watch_face_dev_tutorials/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
