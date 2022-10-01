@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Firebase test lab alternative](https://www.reddit.com/r/androiddev/comments/xrop2w/firebase_test_lab_alternative/)
-- [Debugging MMS issues](https://www.reddit.com/r/androiddev/comments/xrol19/debugging_mms_issues/)
-- [what is this!?](https://www.reddit.com/r/androiddev/comments/xrnwoe/what_is_this/)
-- [AVD w/ ABI x86_64 could not run on PopOS](https://www.reddit.com/r/androiddev/comments/xrnwib/avd_w_abi_x86_64_could_not_run_on_popos/)
-- [SetPrimaryFragment on FragmentStateAdapter](https://www.reddit.com/r/androiddev/comments/xrmchv/setprimaryfragment_on_fragmentstateadapter/)
-- [Do you Really Make Money off of Ads?](https://www.reddit.com/r/androiddev/comments/xrl8jc/do_you_really_make_money_off_of_ads/)
-- [Grandfathering Price Changes with Google Play Billing Library 5](https://www.reddit.com/r/androiddev/comments/xrjygh/grandfathering_price_changes_with_google_play/)
-- [It&#39;s possible to have a full XML layout as a live wallpaper?](https://www.reddit.com/r/androiddev/comments/xri8se/its_possible_to_have_a_full_xml_layout_as_a_live/)
-- [Why can&#39;t we create IndoorBuilding objects on Google Maps?](https://www.reddit.com/r/androiddev/comments/xrgq5u/why_cant_we_create_indoorbuilding_objects_on/)
-- [watch face or watch face dev tutorials](https://www.reddit.com/r/androiddev/comments/xrf945/watch_face_or_watch_face_dev_tutorials/)
+- [Free LetsEncrypt certificates and old Android devices - do they work now?](https://www.reddit.com/r/androiddev/comments/xskqfx/free_letsencrypt_certificates_and_old_android/)
+- [Wrist Recorder - Open source recording app for WearOS built with Compose](https://www.reddit.com/r/androiddev/comments/xsegtt/wrist_recorder_open_source_recording_app_for/)
+- [switch emulator android oficial on play store](https://www.reddit.com/r/androiddev/comments/xsdgdc/switch_emulator_android_oficial_on_play_store/)
+- [Any costume rom in a VM?](https://www.reddit.com/r/androiddev/comments/xscmi6/any_costume_rom_in_a_vm/)
+- [Would you suggest Mockito for running notification test cases?](https://www.reddit.com/r/androiddev/comments/xsaap3/would_you_suggest_mockito_for_running/)
+- [Android apps with financial $ tips? See embedded Google Play Console language.](https://www.reddit.com/r/androiddev/comments/xs9pi1/android_apps_with_financial_tips_see_embedded/)
+- [why is my Motorola one fusion Plus widevine L3? it supported L1, it used to play 1080p on prime now it&#39;s only playing on 480p](https://www.reddit.com/r/androiddev/comments/xs8m8s/why_is_my_motorola_one_fusion_plus_widevine_l3_it/)
+- [Android app from a very big csv files](https://www.reddit.com/r/androiddev/comments/xs5qiu/android_app_from_a_very_big_csv_files/)
+- [Android keystroke mapping](https://www.reddit.com/r/androiddev/comments/xs34pw/android_keystroke_mapping/)
+- [title bar refuses to disappear](https://www.reddit.com/r/androiddev/comments/xs2wn2/title_bar_refuses_to_disappear/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
