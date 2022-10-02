@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Free LetsEncrypt certificates and old Android devices - do they work now?](https://www.reddit.com/r/androiddev/comments/xskqfx/free_letsencrypt_certificates_and_old_android/)
-- [Wrist Recorder - Open source recording app for WearOS built with Compose](https://www.reddit.com/r/androiddev/comments/xsegtt/wrist_recorder_open_source_recording_app_for/)
-- [switch emulator android oficial on play store](https://www.reddit.com/r/androiddev/comments/xsdgdc/switch_emulator_android_oficial_on_play_store/)
-- [Any costume rom in a VM?](https://www.reddit.com/r/androiddev/comments/xscmi6/any_costume_rom_in_a_vm/)
-- [Would you suggest Mockito for running notification test cases?](https://www.reddit.com/r/androiddev/comments/xsaap3/would_you_suggest_mockito_for_running/)
-- [Android apps with financial $ tips? See embedded Google Play Console language.](https://www.reddit.com/r/androiddev/comments/xs9pi1/android_apps_with_financial_tips_see_embedded/)
-- [why is my Motorola one fusion Plus widevine L3? it supported L1, it used to play 1080p on prime now it&#39;s only playing on 480p](https://www.reddit.com/r/androiddev/comments/xs8m8s/why_is_my_motorola_one_fusion_plus_widevine_l3_it/)
-- [Android app from a very big csv files](https://www.reddit.com/r/androiddev/comments/xs5qiu/android_app_from_a_very_big_csv_files/)
-- [Android keystroke mapping](https://www.reddit.com/r/androiddev/comments/xs34pw/android_keystroke_mapping/)
-- [title bar refuses to disappear](https://www.reddit.com/r/androiddev/comments/xs2wn2/title_bar_refuses_to_disappear/)
+- [Started making my first android app. Making videos about the progress.](https://www.reddit.com/r/androiddev/comments/xtbtcw/started_making_my_first_android_app_making_videos/)
+- [Are company employed Android Developers commonly using Firebase?](https://www.reddit.com/r/androiddev/comments/xt8xy0/are_company_employed_android_developers_commonly/)
+- [Starting from zero, how long would it take to become a Jr Android dev, ballpark?](https://www.reddit.com/r/androiddev/comments/xt81t6/starting_from_zero_how_long_would_it_take_to/)
+- [Google play app integrity api](https://www.reddit.com/r/androiddev/comments/xt7se8/google_play_app_integrity_api/)
+- [BLE paired device behavior changes between Android 9P and Android 12S](https://www.reddit.com/r/androiddev/comments/xt6zuw/ble_paired_device_behavior_changes_between/)
+- [InvalidationTracker.Observer missing call after @Transaction, what should I do, how much should I wait??](https://www.reddit.com/r/androiddev/comments/xt5okh/invalidationtrackerobserver_missing_call_after/)
+- [UI components libraries](https://www.reddit.com/r/androiddev/comments/xt5fzm/ui_components_libraries/)
+- [Google Play App Review](https://www.reddit.com/r/androiddev/comments/xt4oog/google_play_app_review/)
+- [what are the ways to find out weather an app is displaying an activity or using a fragment at a place ?](https://www.reddit.com/r/androiddev/comments/xt2fa8/what_are_the_ways_to_find_out_weather_an_app_is/)
+- [Self hosted server](https://www.reddit.com/r/androiddev/comments/xt2bck/self_hosted_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
