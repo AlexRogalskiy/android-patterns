@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Started making my first android app. Making videos about the progress.](https://www.reddit.com/r/androiddev/comments/xtbtcw/started_making_my_first_android_app_making_videos/)
-- [Are company employed Android Developers commonly using Firebase?](https://www.reddit.com/r/androiddev/comments/xt8xy0/are_company_employed_android_developers_commonly/)
-- [Starting from zero, how long would it take to become a Jr Android dev, ballpark?](https://www.reddit.com/r/androiddev/comments/xt81t6/starting_from_zero_how_long_would_it_take_to/)
-- [Google play app integrity api](https://www.reddit.com/r/androiddev/comments/xt7se8/google_play_app_integrity_api/)
-- [BLE paired device behavior changes between Android 9P and Android 12S](https://www.reddit.com/r/androiddev/comments/xt6zuw/ble_paired_device_behavior_changes_between/)
-- [InvalidationTracker.Observer missing call after @Transaction, what should I do, how much should I wait??](https://www.reddit.com/r/androiddev/comments/xt5okh/invalidationtrackerobserver_missing_call_after/)
-- [UI components libraries](https://www.reddit.com/r/androiddev/comments/xt5fzm/ui_components_libraries/)
-- [Google Play App Review](https://www.reddit.com/r/androiddev/comments/xt4oog/google_play_app_review/)
-- [what are the ways to find out weather an app is displaying an activity or using a fragment at a place ?](https://www.reddit.com/r/androiddev/comments/xt2fa8/what_are_the_ways_to_find_out_weather_an_app_is/)
-- [Self hosted server](https://www.reddit.com/r/androiddev/comments/xt2bck/self_hosted_server/)
+- [Thinking about making a smart mirror. Can I use my Chromecast?](https://www.reddit.com/r/androiddev/comments/xu6cms/thinking_about_making_a_smart_mirror_can_i_use_my/)
+- [API for medical dictionary](https://www.reddit.com/r/androiddev/comments/xu4p4v/api_for_medical_dictionary/)
+- [I have been unable to find some good and upto date android projects on using api, retrofit and mvvm architecture on youtube. Was hoping you guys can suggest some good playlists to learn these and other important topics.](https://www.reddit.com/r/androiddev/comments/xu2yh1/i_have_been_unable_to_find_some_good_and_upto/)
+- [recently bought an Android for the first time and since setup it has given me this &quot;my account&quot; noti for my sim card service/internet. it doesn&#39;t go away ever it says &quot;this notification cannot be modified&quot; any guidance would be greatly appreciated](https://www.reddit.com/r/androiddev/comments/xu1ac7/recently_bought_an_android_for_the_first_time_and/)
+- [Throughout your experience, is Purchase.getPurchaseTime returned information accurate?](https://www.reddit.com/r/androiddev/comments/xtqlsq/throughout_your_experience_is/)
+- [Kotlin Flow](https://www.reddit.com/r/androiddev/comments/xtqi26/kotlin_flow/)
+- [Getting back into android development any learning resources recommendations?](https://www.reddit.com/r/androiddev/comments/xtq87r/getting_back_into_android_development_any/)
+- [Does someone have any idea if we can sue google for this?](https://www.reddit.com/r/androiddev/comments/xtozlt/does_someone_have_any_idea_if_we_can_sue_google/)
+- [React native/nodejs vs kotlin?](https://www.reddit.com/r/androiddev/comments/xtnd0m/react_nativenodejs_vs_kotlin/)
+- [I signed my app with this keystore and I removed it but I need it to get the internal data of my app installed on my device. Where can I find it and where did I got it from? I tht it was the debug key.](https://www.reddit.com/r/androiddev/comments/xtm6cw/i_signed_my_app_with_this_keystore_and_i_removed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
