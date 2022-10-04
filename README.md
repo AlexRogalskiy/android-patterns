@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Thinking about making a smart mirror. Can I use my Chromecast?](https://www.reddit.com/r/androiddev/comments/xu6cms/thinking_about_making_a_smart_mirror_can_i_use_my/)
-- [API for medical dictionary](https://www.reddit.com/r/androiddev/comments/xu4p4v/api_for_medical_dictionary/)
-- [I have been unable to find some good and upto date android projects on using api, retrofit and mvvm architecture on youtube. Was hoping you guys can suggest some good playlists to learn these and other important topics.](https://www.reddit.com/r/androiddev/comments/xu2yh1/i_have_been_unable_to_find_some_good_and_upto/)
-- [recently bought an Android for the first time and since setup it has given me this &quot;my account&quot; noti for my sim card service/internet. it doesn&#39;t go away ever it says &quot;this notification cannot be modified&quot; any guidance would be greatly appreciated](https://www.reddit.com/r/androiddev/comments/xu1ac7/recently_bought_an_android_for_the_first_time_and/)
-- [Throughout your experience, is Purchase.getPurchaseTime returned information accurate?](https://www.reddit.com/r/androiddev/comments/xtqlsq/throughout_your_experience_is/)
-- [Kotlin Flow](https://www.reddit.com/r/androiddev/comments/xtqi26/kotlin_flow/)
-- [Getting back into android development any learning resources recommendations?](https://www.reddit.com/r/androiddev/comments/xtq87r/getting_back_into_android_development_any/)
-- [Does someone have any idea if we can sue google for this?](https://www.reddit.com/r/androiddev/comments/xtozlt/does_someone_have_any_idea_if_we_can_sue_google/)
-- [React native/nodejs vs kotlin?](https://www.reddit.com/r/androiddev/comments/xtnd0m/react_nativenodejs_vs_kotlin/)
-- [I signed my app with this keystore and I removed it but I need it to get the internal data of my app installed on my device. Where can I find it and where did I got it from? I tht it was the debug key.](https://www.reddit.com/r/androiddev/comments/xtm6cw/i_signed_my_app_with_this_keystore_and_i_removed/)
+- [[Library] java-aes-crypto](https://www.reddit.com/r/androiddev/comments/xv219d/library_javaaescrypto/)
+- [Photo Calculator ???](https://www.reddit.com/r/androiddev/comments/xuw0dl/photo_calculator/)
+- [Need a Android dev mentor for the mobile development study club at my university](https://www.reddit.com/r/androiddev/comments/xuvp71/need_a_android_dev_mentor_for_the_mobile/)
+- [HUGE waiting times for review and still not done! Is that normal?](https://www.reddit.com/r/androiddev/comments/xuvkif/huge_waiting_times_for_review_and_still_not_done/)
+- [Android Studio Electric Eel Beta 2 now available](https://www.reddit.com/r/androiddev/comments/xus490/android_studio_electric_eel_beta_2_now_available/)
+- [An in-depth guide about Android’s splash screen](https://www.reddit.com/r/androiddev/comments/xuqk3m/an_indepth_guide_about_androids_splash_screen/)
+- [How can I make my portfolio look good to someone hiring &lpar;job/internship&rpar;?](https://www.reddit.com/r/androiddev/comments/xuqceg/how_can_i_make_my_portfolio_look_good_to_someone/)
+- [Performance in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/xuotxt/performance_in_jetpack_compose/)
+- [Can&#39;t decide MacBook Pro 14 &lpar;M1 Pro&rpar; or MacBook Air &lpar;M2&rpar;](https://www.reddit.com/r/androiddev/comments/xuo0n0/cant_decide_macbook_pro_14_m1_pro_or_macbook_air/)
+- [The date time APIs are still hard to use, it seems. The official Samsung Calendar has the week number off by one](https://www.reddit.com/r/androiddev/comments/xumwkt/the_date_time_apis_are_still_hard_to_use_it_seems/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
