@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Library] java-aes-crypto](https://www.reddit.com/r/androiddev/comments/xv219d/library_javaaescrypto/)
-- [Photo Calculator ???](https://www.reddit.com/r/androiddev/comments/xuw0dl/photo_calculator/)
-- [Need a Android dev mentor for the mobile development study club at my university](https://www.reddit.com/r/androiddev/comments/xuvp71/need_a_android_dev_mentor_for_the_mobile/)
-- [HUGE waiting times for review and still not done! Is that normal?](https://www.reddit.com/r/androiddev/comments/xuvkif/huge_waiting_times_for_review_and_still_not_done/)
-- [Android Studio Electric Eel Beta 2 now available](https://www.reddit.com/r/androiddev/comments/xus490/android_studio_electric_eel_beta_2_now_available/)
-- [An in-depth guide about Android’s splash screen](https://www.reddit.com/r/androiddev/comments/xuqk3m/an_indepth_guide_about_androids_splash_screen/)
-- [How can I make my portfolio look good to someone hiring &lpar;job/internship&rpar;?](https://www.reddit.com/r/androiddev/comments/xuqceg/how_can_i_make_my_portfolio_look_good_to_someone/)
-- [Performance in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/xuotxt/performance_in_jetpack_compose/)
-- [Can&#39;t decide MacBook Pro 14 &lpar;M1 Pro&rpar; or MacBook Air &lpar;M2&rpar;](https://www.reddit.com/r/androiddev/comments/xuo0n0/cant_decide_macbook_pro_14_m1_pro_or_macbook_air/)
-- [The date time APIs are still hard to use, it seems. The official Samsung Calendar has the week number off by one](https://www.reddit.com/r/androiddev/comments/xumwkt/the_date_time_apis_are_still_hard_to_use_it_seems/)
+- [Alarm Manager Confusion](https://www.reddit.com/r/androiddev/comments/xvr544/alarm_manager_confusion/)
+- [Are Flutter apps compatible with porting to Galaxy/Amazon/Windows App Stores?](https://www.reddit.com/r/androiddev/comments/xvqjfo/are_flutter_apps_compatible_with_porting_to/)
+- [Play Console asking for organizational documents for a personal account - and incorrectly listing my country?](https://www.reddit.com/r/androiddev/comments/xvpb0j/play_console_asking_for_organizational_documents/)
+- [OTIMO VIDEO PRA QUEM POSSUI OU PENSA EM ADQUIRIR ESTE BELISSIMO SMART WATCH DE BAIXO CUSTO 😱🇧🇷](https://www.reddit.com/r/androiddev/comments/xvoxm8/otimo_video_pra_quem_possui_ou_pensa_em_adquirir/)
+- [How to turn off the screen?](https://www.reddit.com/r/androiddev/comments/xvomhc/how_to_turn_off_the_screen/)
+- [User can create pseudonymous user name in my app. I read in the guideline about that but not able to find the relevant question related with that term. This is the second time my app got rejected with this issue. What happens if i answer no to the question of&quot;is this data processed ephemerally&quot;?](https://www.reddit.com/r/androiddev/comments/xvm0fi/user_can_create_pseudonymous_user_name_in_my_app/)
+- [where do i get my `media_root_id` from following this doc https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice and cant find it](https://www.reddit.com/r/androiddev/comments/xvlh2u/where_do_i_get_my_media_root_id_from_following/)
+- [Can someone explain API levels?](https://www.reddit.com/r/androiddev/comments/xvl8dy/can_someone_explain_api_levels/)
+- [Introducing Compose Snippets - snippets for the most common Jetpack Compose problems](https://www.reddit.com/r/androiddev/comments/xvjmfq/introducing_compose_snippets_snippets_for_the/)
+- [Play store recent Ads policy, anyone facing some issues?](https://www.reddit.com/r/androiddev/comments/xvizkd/play_store_recent_ads_policy_anyone_facing_some/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
