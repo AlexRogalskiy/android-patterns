@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Alarm Manager Confusion](https://www.reddit.com/r/androiddev/comments/xvr544/alarm_manager_confusion/)
-- [Are Flutter apps compatible with porting to Galaxy/Amazon/Windows App Stores?](https://www.reddit.com/r/androiddev/comments/xvqjfo/are_flutter_apps_compatible_with_porting_to/)
-- [Play Console asking for organizational documents for a personal account - and incorrectly listing my country?](https://www.reddit.com/r/androiddev/comments/xvpb0j/play_console_asking_for_organizational_documents/)
-- [OTIMO VIDEO PRA QUEM POSSUI OU PENSA EM ADQUIRIR ESTE BELISSIMO SMART WATCH DE BAIXO CUSTO 😱🇧🇷](https://www.reddit.com/r/androiddev/comments/xvoxm8/otimo_video_pra_quem_possui_ou_pensa_em_adquirir/)
-- [How to turn off the screen?](https://www.reddit.com/r/androiddev/comments/xvomhc/how_to_turn_off_the_screen/)
-- [User can create pseudonymous user name in my app. I read in the guideline about that but not able to find the relevant question related with that term. This is the second time my app got rejected with this issue. What happens if i answer no to the question of&quot;is this data processed ephemerally&quot;?](https://www.reddit.com/r/androiddev/comments/xvm0fi/user_can_create_pseudonymous_user_name_in_my_app/)
-- [where do i get my `media_root_id` from following this doc https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice and cant find it](https://www.reddit.com/r/androiddev/comments/xvlh2u/where_do_i_get_my_media_root_id_from_following/)
-- [Can someone explain API levels?](https://www.reddit.com/r/androiddev/comments/xvl8dy/can_someone_explain_api_levels/)
-- [Introducing Compose Snippets - snippets for the most common Jetpack Compose problems](https://www.reddit.com/r/androiddev/comments/xvjmfq/introducing_compose_snippets_snippets_for_the/)
-- [Play store recent Ads policy, anyone facing some issues?](https://www.reddit.com/r/androiddev/comments/xvizkd/play_store_recent_ads_policy_anyone_facing_some/)
+- [Android Dev Summit ‘22: Coming to you, online and around the world!](https://www.reddit.com/r/androiddev/comments/xwrlu3/android_dev_summit_22_coming_to_you_online_and/)
+- [Updating my tech stack: Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/xwr6j5/updating_my_tech_stack_jetpack_compose/)
+- [I am completely stuck on why my card won&#39;t swipe right in this test.](https://www.reddit.com/r/androiddev/comments/xwku6j/i_am_completely_stuck_on_why_my_card_wont_swipe/)
+- [Test data generation](https://www.reddit.com/r/androiddev/comments/xwhp9q/test_data_generation/)
+- [Image Cropping has shaped up and evolved to next level with Jetpack Compose. Image cropper crops with shapes, paths and other images as mask and with many customization options and features coming next like freehand crop and crop by erasing](https://www.reddit.com/r/androiddev/comments/xwfyfq/image_cropping_has_shaped_up_and_evolved_to_next/)
+- [Does using databinding make exoplayer slower?](https://www.reddit.com/r/androiddev/comments/xwf3ho/does_using_databinding_make_exoplayer_slower/)
+- [Google rejected my ID with no reason given, now I&#39;m stuck](https://www.reddit.com/r/androiddev/comments/xwep6k/google_rejected_my_id_with_no_reason_given_now_im/)
+- [How hard is it to make pocket money from play store?](https://www.reddit.com/r/androiddev/comments/xwau5i/how_hard_is_it_to_make_pocket_money_from_play/)
+- [A new revamp project is asked to read and follow existing app&#39;s code without any docs](https://www.reddit.com/r/androiddev/comments/xw9x0j/a_new_revamp_project_is_asked_to_read_and_follow/)
+- [Tell android studio to ignore INSTALL_FAILED_CONFLICTING_PROVIDER](https://www.reddit.com/r/androiddev/comments/xw8htz/tell_android_studio_to_ignore_install_failed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
