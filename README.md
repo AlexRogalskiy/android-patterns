@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Dev Summit ‘22: Coming to you, online and around the world!](https://www.reddit.com/r/androiddev/comments/xwrlu3/android_dev_summit_22_coming_to_you_online_and/)
-- [Updating my tech stack: Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/xwr6j5/updating_my_tech_stack_jetpack_compose/)
-- [I am completely stuck on why my card won&#39;t swipe right in this test.](https://www.reddit.com/r/androiddev/comments/xwku6j/i_am_completely_stuck_on_why_my_card_wont_swipe/)
-- [Test data generation](https://www.reddit.com/r/androiddev/comments/xwhp9q/test_data_generation/)
-- [Image Cropping has shaped up and evolved to next level with Jetpack Compose. Image cropper crops with shapes, paths and other images as mask and with many customization options and features coming next like freehand crop and crop by erasing](https://www.reddit.com/r/androiddev/comments/xwfyfq/image_cropping_has_shaped_up_and_evolved_to_next/)
-- [Does using databinding make exoplayer slower?](https://www.reddit.com/r/androiddev/comments/xwf3ho/does_using_databinding_make_exoplayer_slower/)
-- [Google rejected my ID with no reason given, now I&#39;m stuck](https://www.reddit.com/r/androiddev/comments/xwep6k/google_rejected_my_id_with_no_reason_given_now_im/)
-- [How hard is it to make pocket money from play store?](https://www.reddit.com/r/androiddev/comments/xwau5i/how_hard_is_it_to_make_pocket_money_from_play/)
-- [A new revamp project is asked to read and follow existing app&#39;s code without any docs](https://www.reddit.com/r/androiddev/comments/xw9x0j/a_new_revamp_project_is_asked_to_read_and_follow/)
-- [Tell android studio to ignore INSTALL_FAILED_CONFLICTING_PROVIDER](https://www.reddit.com/r/androiddev/comments/xw8htz/tell_android_studio_to_ignore_install_failed/)
+- [update rejected message](https://www.reddit.com/r/androiddev/comments/xxmrq9/update_rejected_message/)
+- [[DEV] XChaCha20/AES-256-GCM/Argon2/PBKDF2 encryption library](https://www.reddit.com/r/androiddev/comments/xxj15u/dev_xchacha20aes256gcmargon2pbkdf2_encryption/)
+- [Prepare your Android Project for Android Gradle plugin 8.0 API changes](https://www.reddit.com/r/androiddev/comments/xxge1g/prepare_your_android_project_for_android_gradle/)
+- [Editing the hosts file in an Android device to view local sites and apps](https://www.reddit.com/r/androiddev/comments/xxfwh6/editing_the_hosts_file_in_an_android_device_to/)
+- [please help😶 need help with update... cant find anywhere if i can update this android car tablet](https://www.reddit.com/r/androiddev/comments/xxfq2j/please_help_need_help_with_update_cant_find/)
+- [TimeZone issue in dealing between the app and server](https://www.reddit.com/r/androiddev/comments/xxdvrr/timezone_issue_in_dealing_between_the_app_and/)
+- [Android&#39;s Unlikely Success - CoRecursive Podcast](https://www.reddit.com/r/androiddev/comments/xxbo4u/androids_unlikely_success_corecursive_podcast/)
+- [Does anybody know any good materials on learning about testing jetpack compose animations?](https://www.reddit.com/r/androiddev/comments/xx7nuw/does_anybody_know_any_good_materials_on_learning/)
+- [Mature hobbyist devs seeking to build passion project](https://www.reddit.com/r/androiddev/comments/xx63e2/mature_hobbyist_devs_seeking_to_build_passion/)
+- [Graduated from College with 2018 with comp sci, been doing non dev work since and i want to transition to dev, what experience do i go for?](https://www.reddit.com/r/androiddev/comments/xx5z53/graduated_from_college_with_2018_with_comp_sci/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
