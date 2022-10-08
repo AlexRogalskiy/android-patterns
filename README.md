@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [update rejected message](https://www.reddit.com/r/androiddev/comments/xxmrq9/update_rejected_message/)
-- [[DEV] XChaCha20/AES-256-GCM/Argon2/PBKDF2 encryption library](https://www.reddit.com/r/androiddev/comments/xxj15u/dev_xchacha20aes256gcmargon2pbkdf2_encryption/)
-- [Prepare your Android Project for Android Gradle plugin 8.0 API changes](https://www.reddit.com/r/androiddev/comments/xxge1g/prepare_your_android_project_for_android_gradle/)
-- [Editing the hosts file in an Android device to view local sites and apps](https://www.reddit.com/r/androiddev/comments/xxfwh6/editing_the_hosts_file_in_an_android_device_to/)
-- [please help😶 need help with update... cant find anywhere if i can update this android car tablet](https://www.reddit.com/r/androiddev/comments/xxfq2j/please_help_need_help_with_update_cant_find/)
-- [TimeZone issue in dealing between the app and server](https://www.reddit.com/r/androiddev/comments/xxdvrr/timezone_issue_in_dealing_between_the_app_and/)
-- [Android&#39;s Unlikely Success - CoRecursive Podcast](https://www.reddit.com/r/androiddev/comments/xxbo4u/androids_unlikely_success_corecursive_podcast/)
-- [Does anybody know any good materials on learning about testing jetpack compose animations?](https://www.reddit.com/r/androiddev/comments/xx7nuw/does_anybody_know_any_good_materials_on_learning/)
-- [Mature hobbyist devs seeking to build passion project](https://www.reddit.com/r/androiddev/comments/xx63e2/mature_hobbyist_devs_seeking_to_build_passion/)
-- [Graduated from College with 2018 with comp sci, been doing non dev work since and i want to transition to dev, what experience do i go for?](https://www.reddit.com/r/androiddev/comments/xx5z53/graduated_from_college_with_2018_with_comp_sci/)
+- [my app has been gaining attention out of nowhere!!!](https://www.reddit.com/r/androiddev/comments/xyd21b/my_app_has_been_gaining_attention_out_of_nowhere/)
+- [Anyone tried cash raven for additional income?](https://www.reddit.com/r/androiddev/comments/xybh2f/anyone_tried_cash_raven_for_additional_income/)
+- [Question about permissions Android 12](https://www.reddit.com/r/androiddev/comments/xya6tp/question_about_permissions_android_12/)
+- [how to find the ip address of the device which is connected to my mobile hotspot?](https://www.reddit.com/r/androiddev/comments/xy8329/how_to_find_the_ip_address_of_the_device_which_is/)
+- [Flutter or Kotlin?](https://www.reddit.com/r/androiddev/comments/xy6uhq/flutter_or_kotlin/)
+- [Google Play Console: Store listing](https://www.reddit.com/r/androiddev/comments/xy6ach/google_play_console_store_listing/)
+- [Dev booster](https://www.reddit.com/r/androiddev/comments/xy69gd/dev_booster/)
+- [How to solve this issue? I have changed my app targeting audience to 18+ and still got this rejection what should I do now and what is young characters ?](https://www.reddit.com/r/androiddev/comments/xy5sdc/how_to_solve_this_issue_i_have_changed_my_app/)
+- [Is it possible to create multiple subscription pricing in play store with the same product_id?](https://www.reddit.com/r/androiddev/comments/xy55dg/is_it_possible_to_create_multiple_subscription/)
+- [What is considered a senior android developer? Please be specific.](https://www.reddit.com/r/androiddev/comments/xy4crf/what_is_considered_a_senior_android_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
