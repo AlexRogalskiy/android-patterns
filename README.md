@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [my app has been gaining attention out of nowhere!!!](https://www.reddit.com/r/androiddev/comments/xyd21b/my_app_has_been_gaining_attention_out_of_nowhere/)
-- [Anyone tried cash raven for additional income?](https://www.reddit.com/r/androiddev/comments/xybh2f/anyone_tried_cash_raven_for_additional_income/)
-- [Question about permissions Android 12](https://www.reddit.com/r/androiddev/comments/xya6tp/question_about_permissions_android_12/)
-- [how to find the ip address of the device which is connected to my mobile hotspot?](https://www.reddit.com/r/androiddev/comments/xy8329/how_to_find_the_ip_address_of_the_device_which_is/)
-- [Flutter or Kotlin?](https://www.reddit.com/r/androiddev/comments/xy6uhq/flutter_or_kotlin/)
-- [Google Play Console: Store listing](https://www.reddit.com/r/androiddev/comments/xy6ach/google_play_console_store_listing/)
-- [Dev booster](https://www.reddit.com/r/androiddev/comments/xy69gd/dev_booster/)
-- [How to solve this issue? I have changed my app targeting audience to 18+ and still got this rejection what should I do now and what is young characters ?](https://www.reddit.com/r/androiddev/comments/xy5sdc/how_to_solve_this_issue_i_have_changed_my_app/)
-- [Is it possible to create multiple subscription pricing in play store with the same product_id?](https://www.reddit.com/r/androiddev/comments/xy55dg/is_it_possible_to_create_multiple_subscription/)
-- [What is considered a senior android developer? Please be specific.](https://www.reddit.com/r/androiddev/comments/xy4crf/what_is_considered_a_senior_android_developer/)
+- [what am I being sent?](https://www.reddit.com/r/androiddev/comments/xz9x5s/what_am_i_being_sent/)
+- [How to tell people what I do for a living to sound more interesting?](https://www.reddit.com/r/androiddev/comments/xz9e51/how_to_tell_people_what_i_do_for_a_living_to/)
+- [How to categorize skills as front-end or back-end in Android?](https://www.reddit.com/r/androiddev/comments/xz8mnl/how_to_categorize_skills_as_frontend_or_backend/)
+- [How To Build A Texting &lpar;Burner Number&rpar; App?](https://www.reddit.com/r/androiddev/comments/xz8kgk/how_to_build_a_texting_burner_number_app/)
+- [Where can I get to know other developers like myself to collaborate on projects ?](https://www.reddit.com/r/androiddev/comments/xz4l91/where_can_i_get_to_know_other_developers_like/)
+- [Play Console?](https://www.reddit.com/r/androiddev/comments/xz0k6i/play_console/)
+- [How to make Closed Testing App visible on Google Play?](https://www.reddit.com/r/androiddev/comments/xyztv4/how_to_make_closed_testing_app_visible_on_google/)
+- [where to put licenses?](https://www.reddit.com/r/androiddev/comments/xyy8wq/where_to_put_licenses/)
+- [Is it possible to output a custom video signal with phones that have DisplayPort Alt Mode?](https://www.reddit.com/r/androiddev/comments/xywnmf/is_it_possible_to_output_a_custom_video_signal/)
+- [how much do you make from buymeacoffee?](https://www.reddit.com/r/androiddev/comments/xyuci6/how_much_do_you_make_from_buymeacoffee/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
