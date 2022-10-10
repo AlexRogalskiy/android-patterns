@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [what am I being sent?](https://www.reddit.com/r/androiddev/comments/xz9x5s/what_am_i_being_sent/)
-- [How to tell people what I do for a living to sound more interesting?](https://www.reddit.com/r/androiddev/comments/xz9e51/how_to_tell_people_what_i_do_for_a_living_to/)
-- [How to categorize skills as front-end or back-end in Android?](https://www.reddit.com/r/androiddev/comments/xz8mnl/how_to_categorize_skills_as_frontend_or_backend/)
-- [How To Build A Texting &lpar;Burner Number&rpar; App?](https://www.reddit.com/r/androiddev/comments/xz8kgk/how_to_build_a_texting_burner_number_app/)
-- [Where can I get to know other developers like myself to collaborate on projects ?](https://www.reddit.com/r/androiddev/comments/xz4l91/where_can_i_get_to_know_other_developers_like/)
-- [Play Console?](https://www.reddit.com/r/androiddev/comments/xz0k6i/play_console/)
-- [How to make Closed Testing App visible on Google Play?](https://www.reddit.com/r/androiddev/comments/xyztv4/how_to_make_closed_testing_app_visible_on_google/)
-- [where to put licenses?](https://www.reddit.com/r/androiddev/comments/xyy8wq/where_to_put_licenses/)
-- [Is it possible to output a custom video signal with phones that have DisplayPort Alt Mode?](https://www.reddit.com/r/androiddev/comments/xywnmf/is_it_possible_to_output_a_custom_video_signal/)
-- [how much do you make from buymeacoffee?](https://www.reddit.com/r/androiddev/comments/xyuci6/how_much_do_you_make_from_buymeacoffee/)
+- [TCL 10 Pro &lpar;Unlock Bootloader + DSU Update&rpar;](https://www.reddit.com/r/androiddev/comments/y044a7/tcl_10_pro_unlock_bootloader_dsu_update/)
+- [After going through the basics and completing mini-quizzes etc..](https://www.reddit.com/r/androiddev/comments/xzw9ts/after_going_through_the_basics_and_completing/)
+- [Hello everyone , here is my first blog on retrofit](https://www.reddit.com/r/androiddev/comments/xzutj2/hello_everyone_here_is_my_first_blog_on_retrofit/)
+- [Perhaps a silly question - where do I change minSdkVersion in a de-compiled app?](https://www.reddit.com/r/androiddev/comments/xztzde/perhaps_a_silly_question_where_do_i_change/)
+- [Play Install Referral Library](https://www.reddit.com/r/androiddev/comments/xzsfxa/play_install_referral_library/)
+- [Can I professionally develop android applications if I have a weak computer?](https://www.reddit.com/r/androiddev/comments/xzroip/can_i_professionally_develop_android_applications/)
+- [Can you recommend any CI .yml scripts for testing build and run times before merging into master?](https://www.reddit.com/r/androiddev/comments/xzppzj/can_you_recommend_any_ci_yml_scripts_for_testing/)
+- [Exploring Unconventional Compose’s Remember and Recomposition](https://www.reddit.com/r/androiddev/comments/xzloze/exploring_unconventional_composes_remember_and/)
+- [Preserve app data across app reinstalls and clear storage.](https://www.reddit.com/r/androiddev/comments/xziz6u/preserve_app_data_across_app_reinstalls_and_clear/)
+- [Exoplayer show thumbnail while loading](https://www.reddit.com/r/androiddev/comments/xziygs/exoplayer_show_thumbnail_while_loading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
