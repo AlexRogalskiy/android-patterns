@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TCL 10 Pro &lpar;Unlock Bootloader + DSU Update&rpar;](https://www.reddit.com/r/androiddev/comments/y044a7/tcl_10_pro_unlock_bootloader_dsu_update/)
-- [After going through the basics and completing mini-quizzes etc..](https://www.reddit.com/r/androiddev/comments/xzw9ts/after_going_through_the_basics_and_completing/)
-- [Hello everyone , here is my first blog on retrofit](https://www.reddit.com/r/androiddev/comments/xzutj2/hello_everyone_here_is_my_first_blog_on_retrofit/)
-- [Perhaps a silly question - where do I change minSdkVersion in a de-compiled app?](https://www.reddit.com/r/androiddev/comments/xztzde/perhaps_a_silly_question_where_do_i_change/)
-- [Play Install Referral Library](https://www.reddit.com/r/androiddev/comments/xzsfxa/play_install_referral_library/)
-- [Can I professionally develop android applications if I have a weak computer?](https://www.reddit.com/r/androiddev/comments/xzroip/can_i_professionally_develop_android_applications/)
-- [Can you recommend any CI .yml scripts for testing build and run times before merging into master?](https://www.reddit.com/r/androiddev/comments/xzppzj/can_you_recommend_any_ci_yml_scripts_for_testing/)
-- [Exploring Unconventional Compose’s Remember and Recomposition](https://www.reddit.com/r/androiddev/comments/xzloze/exploring_unconventional_composes_remember_and/)
-- [Preserve app data across app reinstalls and clear storage.](https://www.reddit.com/r/androiddev/comments/xziz6u/preserve_app_data_across_app_reinstalls_and_clear/)
-- [Exoplayer show thumbnail while loading](https://www.reddit.com/r/androiddev/comments/xziygs/exoplayer_show_thumbnail_while_loading/)
+- [Do I need to be Data Structure and Algorithm expert in order to get hired at a good company?](https://www.reddit.com/r/androiddev/comments/y0ww1g/do_i_need_to_be_data_structure_and_algorithm/)
+- [create charts with data from a database in android studio](https://www.reddit.com/r/androiddev/comments/y0p06w/create_charts_with_data_from_a_database_in/)
+- [Websockets in foreground service. How to maintain connectivity.](https://www.reddit.com/r/androiddev/comments/y0onje/websockets_in_foreground_service_how_to_maintain/)
+- [Looking for an app to make a ux review about. More details inside...](https://www.reddit.com/r/androiddev/comments/y0lqq0/looking_for_an_app_to_make_a_ux_review_about_more/)
+- [What happens to source code obfuscation when Android App Bundle &lpar;AAB&rpar; files is used.](https://www.reddit.com/r/androiddev/comments/y0kbg9/what_happens_to_source_code_obfuscation_when/)
+- [Android and autonomous flying robots](https://www.reddit.com/r/androiddev/comments/y0k22a/android_and_autonomous_flying_robots/)
+- [Are Play Store reviewers required to try credentials more than once? They keep failing review for credentials 50% of the time when the login is fine and never changed](https://www.reddit.com/r/androiddev/comments/y0in3y/are_play_store_reviewers_required_to_try/)
+- [How To Detect &amp; Modify Faces In Custom Camera?](https://www.reddit.com/r/androiddev/comments/y0i3to/how_to_detect_modify_faces_in_custom_camera/)
+- [Kotlin Multiplatform Mobile Is in Beta](https://www.reddit.com/r/androiddev/comments/y0hxyj/kotlin_multiplatform_mobile_is_in_beta/)
+- [Announcing an Experimental Preview of Jetpack Multiplatform Libraries](https://www.reddit.com/r/androiddev/comments/y0hxav/announcing_an_experimental_preview_of_jetpack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
