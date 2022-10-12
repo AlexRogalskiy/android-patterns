@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do I need to be Data Structure and Algorithm expert in order to get hired at a good company?](https://www.reddit.com/r/androiddev/comments/y0ww1g/do_i_need_to_be_data_structure_and_algorithm/)
-- [create charts with data from a database in android studio](https://www.reddit.com/r/androiddev/comments/y0p06w/create_charts_with_data_from_a_database_in/)
-- [Websockets in foreground service. How to maintain connectivity.](https://www.reddit.com/r/androiddev/comments/y0onje/websockets_in_foreground_service_how_to_maintain/)
-- [Looking for an app to make a ux review about. More details inside...](https://www.reddit.com/r/androiddev/comments/y0lqq0/looking_for_an_app_to_make_a_ux_review_about_more/)
-- [What happens to source code obfuscation when Android App Bundle &lpar;AAB&rpar; files is used.](https://www.reddit.com/r/androiddev/comments/y0kbg9/what_happens_to_source_code_obfuscation_when/)
-- [Android and autonomous flying robots](https://www.reddit.com/r/androiddev/comments/y0k22a/android_and_autonomous_flying_robots/)
-- [Are Play Store reviewers required to try credentials more than once? They keep failing review for credentials 50% of the time when the login is fine and never changed](https://www.reddit.com/r/androiddev/comments/y0in3y/are_play_store_reviewers_required_to_try/)
-- [How To Detect &amp; Modify Faces In Custom Camera?](https://www.reddit.com/r/androiddev/comments/y0i3to/how_to_detect_modify_faces_in_custom_camera/)
-- [Kotlin Multiplatform Mobile Is in Beta](https://www.reddit.com/r/androiddev/comments/y0hxyj/kotlin_multiplatform_mobile_is_in_beta/)
-- [Announcing an Experimental Preview of Jetpack Multiplatform Libraries](https://www.reddit.com/r/androiddev/comments/y0hxav/announcing_an_experimental_preview_of_jetpack/)
+- [Best way to debug jetpack navigation code?](https://www.reddit.com/r/androiddev/comments/y1omss/best_way_to_debug_jetpack_navigation_code/)
+- [Is it safe to use this application?](https://www.reddit.com/r/androiddev/comments/y1khjo/is_it_safe_to_use_this_application/)
+- [How long does it take for someone to learn Java and then developn an app from a beginner?](https://www.reddit.com/r/androiddev/comments/y1jans/how_long_does_it_take_for_someone_to_learn_java/)
+- [Application-as-a-Function Thinking](https://www.reddit.com/r/androiddev/comments/y1hpwa/applicationasafunction_thinking/)
+- [How to set a collaboration job ?](https://www.reddit.com/r/androiddev/comments/y1hgo2/how_to_set_a_collaboration_job/)
+- [Android Things Setup Utility](https://www.reddit.com/r/androiddev/comments/y1gs4g/android_things_setup_utility/)
+- [Please list must have skills for android dev to learn and get great job? &lpar;kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/y1ad0p/please_list_must_have_skills_for_android_dev_to/)
+- [Hardware required for connecting to weighing scale over Bluetooth?](https://www.reddit.com/r/androiddev/comments/y1a2z0/hardware_required_for_connecting_to_weighing/)
+- [What an MVVM app architecture should look like when we have a ViewPager in an Activity?](https://www.reddit.com/r/androiddev/comments/y19leg/what_an_mvvm_app_architecture_should_look_like/)
+- [LocationRequest class](https://www.reddit.com/r/androiddev/comments/y18uuq/locationrequest_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
