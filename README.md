@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best way to debug jetpack navigation code?](https://www.reddit.com/r/androiddev/comments/y1omss/best_way_to_debug_jetpack_navigation_code/)
-- [Is it safe to use this application?](https://www.reddit.com/r/androiddev/comments/y1khjo/is_it_safe_to_use_this_application/)
-- [How long does it take for someone to learn Java and then developn an app from a beginner?](https://www.reddit.com/r/androiddev/comments/y1jans/how_long_does_it_take_for_someone_to_learn_java/)
-- [Application-as-a-Function Thinking](https://www.reddit.com/r/androiddev/comments/y1hpwa/applicationasafunction_thinking/)
-- [How to set a collaboration job ?](https://www.reddit.com/r/androiddev/comments/y1hgo2/how_to_set_a_collaboration_job/)
-- [Android Things Setup Utility](https://www.reddit.com/r/androiddev/comments/y1gs4g/android_things_setup_utility/)
-- [Please list must have skills for android dev to learn and get great job? &lpar;kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/y1ad0p/please_list_must_have_skills_for_android_dev_to/)
-- [Hardware required for connecting to weighing scale over Bluetooth?](https://www.reddit.com/r/androiddev/comments/y1a2z0/hardware_required_for_connecting_to_weighing/)
-- [What an MVVM app architecture should look like when we have a ViewPager in an Activity?](https://www.reddit.com/r/androiddev/comments/y19leg/what_an_mvvm_app_architecture_should_look_like/)
-- [LocationRequest class](https://www.reddit.com/r/androiddev/comments/y18uuq/locationrequest_class/)
+- [Do play console promo codes work on games before the official release?](https://www.reddit.com/r/androiddev/comments/y2nokp/do_play_console_promo_codes_work_on_games_before/)
+- [Doing android dev on windows 7?](https://www.reddit.com/r/androiddev/comments/y2nl12/doing_android_dev_on_windows_7/)
+- [Is it possible for an app to execute a script](https://www.reddit.com/r/androiddev/comments/y2nk3z/is_it_possible_for_an_app_to_execute_a_script/)
+- [Amazon AWS](https://www.reddit.com/r/androiddev/comments/y2k392/amazon_aws/)
+- [Conditional Navigation with Navigation Compose](https://www.reddit.com/r/androiddev/comments/y2hdt2/conditional_navigation_with_navigation_compose/)
+- [Let&#39;s investigate a Gradle IntelliJ memory leak!](https://www.reddit.com/r/androiddev/comments/y2hcq0/lets_investigate_a_gradle_intellij_memory_leak/)
+- [Best emulator virtual camera option?](https://www.reddit.com/r/androiddev/comments/y2g9yo/best_emulator_virtual_camera_option/)
+- [Best Ways to Debug Your Android App?](https://www.reddit.com/r/androiddev/comments/y2g9xv/best_ways_to_debug_your_android_app/)
+- [Help modifying app](https://www.reddit.com/r/androiddev/comments/y2dkx8/help_modifying_app/)
+- [How to Add Flutter to an Existing iOS and Android App](https://www.reddit.com/r/androiddev/comments/y2dbpk/how_to_add_flutter_to_an_existing_ios_and_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
