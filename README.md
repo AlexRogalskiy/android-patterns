@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do play console promo codes work on games before the official release?](https://www.reddit.com/r/androiddev/comments/y2nokp/do_play_console_promo_codes_work_on_games_before/)
-- [Doing android dev on windows 7?](https://www.reddit.com/r/androiddev/comments/y2nl12/doing_android_dev_on_windows_7/)
-- [Is it possible for an app to execute a script](https://www.reddit.com/r/androiddev/comments/y2nk3z/is_it_possible_for_an_app_to_execute_a_script/)
-- [Amazon AWS](https://www.reddit.com/r/androiddev/comments/y2k392/amazon_aws/)
-- [Conditional Navigation with Navigation Compose](https://www.reddit.com/r/androiddev/comments/y2hdt2/conditional_navigation_with_navigation_compose/)
-- [Let&#39;s investigate a Gradle IntelliJ memory leak!](https://www.reddit.com/r/androiddev/comments/y2hcq0/lets_investigate_a_gradle_intellij_memory_leak/)
-- [Best emulator virtual camera option?](https://www.reddit.com/r/androiddev/comments/y2g9yo/best_emulator_virtual_camera_option/)
-- [Best Ways to Debug Your Android App?](https://www.reddit.com/r/androiddev/comments/y2g9xv/best_ways_to_debug_your_android_app/)
-- [Help modifying app](https://www.reddit.com/r/androiddev/comments/y2dkx8/help_modifying_app/)
-- [How to Add Flutter to an Existing iOS and Android App](https://www.reddit.com/r/androiddev/comments/y2dbpk/how_to_add_flutter_to_an_existing_ios_and_android/)
+- [Cybersecurity analysis reveals API Key vulnerability leads to credential leakage hack](https://www.reddit.com/r/androiddev/comments/y3h7tx/cybersecurity_analysis_reveals_api_key/)
+- [Nullity Inference in Intelij](https://www.reddit.com/r/androiddev/comments/y3ffog/nullity_inference_in_intelij/)
+- [app mid devlpt help](https://www.reddit.com/r/androiddev/comments/y3f99y/app_mid_devlpt_help/)
+- [Weird xml bugs in Android Studio Dolphin](https://www.reddit.com/r/androiddev/comments/y3bly5/weird_xml_bugs_in_android_studio_dolphin/)
+- [Adding an app as a system app](https://www.reddit.com/r/androiddev/comments/y3b0f4/adding_an_app_as_a_system_app/)
+- [anyone know how to dissable show more like this button on Google?](https://www.reddit.com/r/androiddev/comments/y3aees/anyone_know_how_to_dissable_show_more_like_this/)
+- [Can I delete gradle cache?](https://www.reddit.com/r/androiddev/comments/y39oku/can_i_delete_gradle_cache/)
+- [Simple personal project app - trying to envision the infrastructure for network- client data](https://www.reddit.com/r/androiddev/comments/y38i1g/simple_personal_project_app_trying_to_envision/)
+- [Does anyone know how to use the MpAndroidCharts library?](https://www.reddit.com/r/androiddev/comments/y376ma/does_anyone_know_how_to_use_the_mpandroidcharts/)
+- [My app was stolen and published on Google Play about 50 times](https://www.reddit.com/r/androiddev/comments/y36poh/my_app_was_stolen_and_published_on_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
