@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cybersecurity analysis reveals API Key vulnerability leads to credential leakage hack](https://www.reddit.com/r/androiddev/comments/y3h7tx/cybersecurity_analysis_reveals_api_key/)
-- [Nullity Inference in Intelij](https://www.reddit.com/r/androiddev/comments/y3ffog/nullity_inference_in_intelij/)
-- [app mid devlpt help](https://www.reddit.com/r/androiddev/comments/y3f99y/app_mid_devlpt_help/)
-- [Weird xml bugs in Android Studio Dolphin](https://www.reddit.com/r/androiddev/comments/y3bly5/weird_xml_bugs_in_android_studio_dolphin/)
-- [Adding an app as a system app](https://www.reddit.com/r/androiddev/comments/y3b0f4/adding_an_app_as_a_system_app/)
-- [anyone know how to dissable show more like this button on Google?](https://www.reddit.com/r/androiddev/comments/y3aees/anyone_know_how_to_dissable_show_more_like_this/)
-- [Can I delete gradle cache?](https://www.reddit.com/r/androiddev/comments/y39oku/can_i_delete_gradle_cache/)
-- [Simple personal project app - trying to envision the infrastructure for network- client data](https://www.reddit.com/r/androiddev/comments/y38i1g/simple_personal_project_app_trying_to_envision/)
-- [Does anyone know how to use the MpAndroidCharts library?](https://www.reddit.com/r/androiddev/comments/y376ma/does_anyone_know_how_to_use_the_mpandroidcharts/)
-- [My app was stolen and published on Google Play about 50 times](https://www.reddit.com/r/androiddev/comments/y36poh/my_app_was_stolen_and_published_on_google_play/)
+- [how do I call one activity from another activity in Android studio?](https://www.reddit.com/r/androiddev/comments/y4aznn/how_do_i_call_one_activity_from_another_activity/)
+- [Please, has anyone transfered apps these days?](https://www.reddit.com/r/androiddev/comments/y4admr/please_has_anyone_transfered_apps_these_days/)
+- [made 30 bucks with ad mob one click with very low impressions etc. in one day??](https://www.reddit.com/r/androiddev/comments/y4a6m2/made_30_bucks_with_ad_mob_one_click_with_very_low/)
+- [How can I get MLKit to recognize text faster ?](https://www.reddit.com/r/androiddev/comments/y49b7g/how_can_i_get_mlkit_to_recognize_text_faster/)
+- [Anyone done any online kotlin courses, be great to know how they found them](https://www.reddit.com/r/androiddev/comments/y4900j/anyone_done_any_online_kotlin_courses_be_great_to/)
+- [Problem with adapter on cursor RecyclerVew](https://www.reddit.com/r/androiddev/comments/y47q76/problem_with_adapter_on_cursor_recyclervew/)
+- [Keyboard Widget Implementation](https://www.reddit.com/r/androiddev/comments/y477rt/keyboard_widget_implementation/)
+- [Does anyone have suggestions for CI/CD Jenkins Pipeline for Android development?](https://www.reddit.com/r/androiddev/comments/y463r1/does_anyone_have_suggestions_for_cicd_jenkins/)
+- [Easy migration to view binding?](https://www.reddit.com/r/androiddev/comments/y441tm/easy_migration_to_view_binding/)
+- [Fields Encapsulation Refactoring in Intelij](https://www.reddit.com/r/androiddev/comments/y43pf7/fields_encapsulation_refactoring_in_intelij/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
