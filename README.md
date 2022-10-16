@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [how do I call one activity from another activity in Android studio?](https://www.reddit.com/r/androiddev/comments/y4aznn/how_do_i_call_one_activity_from_another_activity/)
-- [Please, has anyone transfered apps these days?](https://www.reddit.com/r/androiddev/comments/y4admr/please_has_anyone_transfered_apps_these_days/)
-- [made 30 bucks with ad mob one click with very low impressions etc. in one day??](https://www.reddit.com/r/androiddev/comments/y4a6m2/made_30_bucks_with_ad_mob_one_click_with_very_low/)
-- [How can I get MLKit to recognize text faster ?](https://www.reddit.com/r/androiddev/comments/y49b7g/how_can_i_get_mlkit_to_recognize_text_faster/)
-- [Anyone done any online kotlin courses, be great to know how they found them](https://www.reddit.com/r/androiddev/comments/y4900j/anyone_done_any_online_kotlin_courses_be_great_to/)
-- [Problem with adapter on cursor RecyclerVew](https://www.reddit.com/r/androiddev/comments/y47q76/problem_with_adapter_on_cursor_recyclervew/)
-- [Keyboard Widget Implementation](https://www.reddit.com/r/androiddev/comments/y477rt/keyboard_widget_implementation/)
-- [Does anyone have suggestions for CI/CD Jenkins Pipeline for Android development?](https://www.reddit.com/r/androiddev/comments/y463r1/does_anyone_have_suggestions_for_cicd_jenkins/)
-- [Easy migration to view binding?](https://www.reddit.com/r/androiddev/comments/y441tm/easy_migration_to_view_binding/)
-- [Fields Encapsulation Refactoring in Intelij](https://www.reddit.com/r/androiddev/comments/y43pf7/fields_encapsulation_refactoring_in_intelij/)
+- [What’s the best way to learn android app development? Google Codelabs using Kotlin?](https://www.reddit.com/r/androiddev/comments/y55fdm/whats_the_best_way_to_learn_android_app/)
+- [Native map UI controls &lpar;besides google&#39;s&rpar;](https://www.reddit.com/r/androiddev/comments/y54ywz/native_map_ui_controls_besides_googles/)
+- [Material UI designer app](https://www.reddit.com/r/androiddev/comments/y52ivs/material_ui_designer_app/)
+- [Bounce Animation Lib Jetpack Compose](https://www.reddit.com/r/androiddev/comments/y504lc/bounce_animation_lib_jetpack_compose/)
+- [problems with logcat in android studio](https://www.reddit.com/r/androiddev/comments/y503uu/problems_with_logcat_in_android_studio/)
+- [Let&#39;s have some fun](https://www.reddit.com/r/androiddev/comments/y4ywdg/lets_have_some_fun/)
+- [Fuchsia OS](https://www.reddit.com/r/androiddev/comments/y4sxmi/fuchsia_os/)
+- [UI framework used in Google apps.](https://www.reddit.com/r/androiddev/comments/y4se3v/ui_framework_used_in_google_apps/)
+- [Android Studio Flamingo Canary 4 now available](https://www.reddit.com/r/androiddev/comments/y4pnef/android_studio_flamingo_canary_4_now_available/)
+- [Anyone done any online Android courses, be great to know how they found them](https://www.reddit.com/r/androiddev/comments/y4on3k/anyone_done_any_online_android_courses_be_great/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
