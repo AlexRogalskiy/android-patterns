@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Jetpack Compose learning curve vs Swift UI](https://www.reddit.com/r/androiddev/comments/y6vkoc/jetpack_compose_learning_curve_vs_swift_ui/)
-- [How do I use Github or Git or whatever the thing I&#39;ve been storing my code into Via Android Studio](https://www.reddit.com/r/androiddev/comments/y6rqgq/how_do_i_use_github_or_git_or_whatever_the_thing/)
-- [jetpack compose showing different screens based on app state](https://www.reddit.com/r/androiddev/comments/y6p9qk/jetpack_compose_showing_different_screens_based/)
-- [Issue Trackers and the &quot;Can&#39;t Deliver Broadcast&quot; Bug](https://www.reddit.com/r/androiddev/comments/y6osm0/issue_trackers_and_the_cant_deliver_broadcast_bug/)
-- [Pixel 7/Google G2 voice recognition API?](https://www.reddit.com/r/androiddev/comments/y6oin3/pixel_7google_g2_voice_recognition_api/)
-- [Been struggling as a contractor for this app dev agency. Need your input...](https://www.reddit.com/r/androiddev/comments/y6lx1s/been_struggling_as_a_contractor_for_this_app_dev/)
-- [Google Sign In with Firebase takes a very long time](https://www.reddit.com/r/androiddev/comments/y6k7zo/google_sign_in_with_firebase_takes_a_very_long/)
-- [with&lpar;cursor&rpar;](https://www.reddit.com/r/androiddev/comments/y6jd5x/withcursor/)
-- [Testing in Android - Basics](https://www.reddit.com/r/androiddev/comments/y6ipoq/testing_in_android_basics/)
-- [Feedback on method of handling state in compose](https://www.reddit.com/r/androiddev/comments/y6ib31/feedback_on_method_of_handling_state_in_compose/)
+- [Guia de tudo | Facebook](https://www.reddit.com/r/androiddev/comments/y7pzra/guia_de_tudo_facebook/)
+- [don&#39;t know where else to put this](https://www.reddit.com/r/androiddev/comments/y7lcxu/dont_know_where_else_to_put_this/)
+- [Jetpack compose animation listener?](https://www.reddit.com/r/androiddev/comments/y7l6r6/jetpack_compose_animation_listener/)
+- [Building a Budget Tracker with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/y7kx88/building_a_budget_tracker_with_jetpack_compose/)
+- [how to delete sms messages](https://www.reddit.com/r/androiddev/comments/y7kfsk/how_to_delete_sms_messages/)
+- [Android Studio Flamingo Canary 5 now available](https://www.reddit.com/r/androiddev/comments/y7isp0/android_studio_flamingo_canary_5_now_available/)
+- [Should I add unrelated work experience on my resume applying for an entry level Android job?](https://www.reddit.com/r/androiddev/comments/y7hid8/should_i_add_unrelated_work_experience_on_my/)
+- [How to build reddit&#39;s comment thread?](https://www.reddit.com/r/androiddev/comments/y7gywb/how_to_build_reddits_comment_thread/)
+- [An app that blocks spam text messages](https://www.reddit.com/r/androiddev/comments/y7fnrl/an_app_that_blocks_spam_text_messages/)
+- [Is there a way to see results for specifically my in-app review prompt?](https://www.reddit.com/r/androiddev/comments/y7dcii/is_there_a_way_to_see_results_for_specifically_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
