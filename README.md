@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Guia de tudo | Facebook](https://www.reddit.com/r/androiddev/comments/y7pzra/guia_de_tudo_facebook/)
-- [don&#39;t know where else to put this](https://www.reddit.com/r/androiddev/comments/y7lcxu/dont_know_where_else_to_put_this/)
-- [Jetpack compose animation listener?](https://www.reddit.com/r/androiddev/comments/y7l6r6/jetpack_compose_animation_listener/)
-- [Building a Budget Tracker with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/y7kx88/building_a_budget_tracker_with_jetpack_compose/)
-- [how to delete sms messages](https://www.reddit.com/r/androiddev/comments/y7kfsk/how_to_delete_sms_messages/)
-- [Android Studio Flamingo Canary 5 now available](https://www.reddit.com/r/androiddev/comments/y7isp0/android_studio_flamingo_canary_5_now_available/)
-- [Should I add unrelated work experience on my resume applying for an entry level Android job?](https://www.reddit.com/r/androiddev/comments/y7hid8/should_i_add_unrelated_work_experience_on_my/)
-- [How to build reddit&#39;s comment thread?](https://www.reddit.com/r/androiddev/comments/y7gywb/how_to_build_reddits_comment_thread/)
-- [An app that blocks spam text messages](https://www.reddit.com/r/androiddev/comments/y7fnrl/an_app_that_blocks_spam_text_messages/)
-- [Is there a way to see results for specifically my in-app review prompt?](https://www.reddit.com/r/androiddev/comments/y7dcii/is_there_a_way_to_see_results_for_specifically_my/)
+- [Is there any sign of any social media app implementing Camerax?](https://www.reddit.com/r/androiddev/comments/y8mxyr/is_there_any_sign_of_any_social_media_app/)
+- [How to build an app which shows notification for every 2 hours with data get from local database ?](https://www.reddit.com/r/androiddev/comments/y8limy/how_to_build_an_app_which_shows_notification_for/)
+- [In what programming languages do apps get developed? javascript?](https://www.reddit.com/r/androiddev/comments/y8kntm/in_what_programming_languages_do_apps_get/)
+- [What has your experience been with Fiverr for play store icon &amp; screenshots? Is it worth it?](https://www.reddit.com/r/androiddev/comments/y8hl2w/what_has_your_experience_been_with_fiverr_for/)
+- [Is a Mac Mini 2018 i5 16GB good for Kollin Multiplatform mobile development](https://www.reddit.com/r/androiddev/comments/y8d795/is_a_mac_mini_2018_i5_16gb_good_for_kollin/)
+- [Whats people&#39;s current feeling about SQLDelight vs Room](https://www.reddit.com/r/androiddev/comments/y8ch5z/whats_peoples_current_feeling_about_sqldelight_vs/)
+- [Pocket Casts Mobile Apps Are Now Open Source](https://www.reddit.com/r/androiddev/comments/y8cb0n/pocket_casts_mobile_apps_are_now_open_source/)
+- [How to Start!?](https://www.reddit.com/r/androiddev/comments/y879u1/how_to_start/)
+- [Android Keyboard Widget](https://www.reddit.com/r/androiddev/comments/y87343/android_keyboard_widget/)
+- [Should I create a new Play Console Account for new Apps?](https://www.reddit.com/r/androiddev/comments/y86ok5/should_i_create_a_new_play_console_account_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
