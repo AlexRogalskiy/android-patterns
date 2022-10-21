@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there any sign of any social media app implementing Camerax?](https://www.reddit.com/r/androiddev/comments/y8mxyr/is_there_any_sign_of_any_social_media_app/)
-- [How to build an app which shows notification for every 2 hours with data get from local database ?](https://www.reddit.com/r/androiddev/comments/y8limy/how_to_build_an_app_which_shows_notification_for/)
-- [In what programming languages do apps get developed? javascript?](https://www.reddit.com/r/androiddev/comments/y8kntm/in_what_programming_languages_do_apps_get/)
-- [What has your experience been with Fiverr for play store icon &amp; screenshots? Is it worth it?](https://www.reddit.com/r/androiddev/comments/y8hl2w/what_has_your_experience_been_with_fiverr_for/)
-- [Is a Mac Mini 2018 i5 16GB good for Kollin Multiplatform mobile development](https://www.reddit.com/r/androiddev/comments/y8d795/is_a_mac_mini_2018_i5_16gb_good_for_kollin/)
-- [Whats people&#39;s current feeling about SQLDelight vs Room](https://www.reddit.com/r/androiddev/comments/y8ch5z/whats_peoples_current_feeling_about_sqldelight_vs/)
-- [Pocket Casts Mobile Apps Are Now Open Source](https://www.reddit.com/r/androiddev/comments/y8cb0n/pocket_casts_mobile_apps_are_now_open_source/)
-- [How to Start!?](https://www.reddit.com/r/androiddev/comments/y879u1/how_to_start/)
-- [Android Keyboard Widget](https://www.reddit.com/r/androiddev/comments/y87343/android_keyboard_widget/)
-- [Should I create a new Play Console Account for new Apps?](https://www.reddit.com/r/androiddev/comments/y86ok5/should_i_create_a_new_play_console_account_for/)
+- [Adding the sum of values from DB on fragment](https://www.reddit.com/r/androiddev/comments/y9e91e/adding_the_sum_of_values_from_db_on_fragment/)
+- [removing &#39;com.google.android.material:material&#39; library from Compose only projects](https://www.reddit.com/r/androiddev/comments/y9d9v7/removing_comgoogleandroidmaterialmaterial_library/)
+- [New App - Control date of publish?](https://www.reddit.com/r/androiddev/comments/y9bkef/new_app_control_date_of_publish/)
+- [SQLite for climb-logging app](https://www.reddit.com/r/androiddev/comments/y9alv9/sqlite_for_climblogging_app/)
+- [Android Studio: Boolean method is always inverted](https://www.reddit.com/r/androiddev/comments/y9a5zj/android_studio_boolean_method_is_always_inverted/)
+- [Target API Level 6-month Extension](https://www.reddit.com/r/androiddev/comments/y99bpj/target_api_level_6month_extension/)
+- [Play Store Search and Reviews](https://www.reddit.com/r/androiddev/comments/y96h9s/play_store_search_and_reviews/)
+- [Does anyone has any suggestion how can I implement such a memory efficient/ scroll-able time-series graph](https://www.reddit.com/r/androiddev/comments/y92jol/does_anyone_has_any_suggestion_how_can_i/)
+- [How to transfer ownership of mobile apps?](https://www.reddit.com/r/androiddev/comments/y925tt/how_to_transfer_ownership_of_mobile_apps/)
+- [Is there something like AIDE for pc?](https://www.reddit.com/r/androiddev/comments/y9090y/is_there_something_like_aide_for_pc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
