@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Adding the sum of values from DB on fragment](https://www.reddit.com/r/androiddev/comments/y9e91e/adding_the_sum_of_values_from_db_on_fragment/)
-- [removing &#39;com.google.android.material:material&#39; library from Compose only projects](https://www.reddit.com/r/androiddev/comments/y9d9v7/removing_comgoogleandroidmaterialmaterial_library/)
-- [New App - Control date of publish?](https://www.reddit.com/r/androiddev/comments/y9bkef/new_app_control_date_of_publish/)
-- [SQLite for climb-logging app](https://www.reddit.com/r/androiddev/comments/y9alv9/sqlite_for_climblogging_app/)
-- [Android Studio: Boolean method is always inverted](https://www.reddit.com/r/androiddev/comments/y9a5zj/android_studio_boolean_method_is_always_inverted/)
-- [Target API Level 6-month Extension](https://www.reddit.com/r/androiddev/comments/y99bpj/target_api_level_6month_extension/)
-- [Play Store Search and Reviews](https://www.reddit.com/r/androiddev/comments/y96h9s/play_store_search_and_reviews/)
-- [Does anyone has any suggestion how can I implement such a memory efficient/ scroll-able time-series graph](https://www.reddit.com/r/androiddev/comments/y92jol/does_anyone_has_any_suggestion_how_can_i/)
-- [How to transfer ownership of mobile apps?](https://www.reddit.com/r/androiddev/comments/y925tt/how_to_transfer_ownership_of_mobile_apps/)
-- [Is there something like AIDE for pc?](https://www.reddit.com/r/androiddev/comments/y9090y/is_there_something_like_aide_for_pc/)
+- [How to set the icon of app when displayed in Overview/Recents &lpar;Android square button&rpar;?](https://www.reddit.com/r/androiddev/comments/ya6ipq/how_to_set_the_icon_of_app_when_displayed_in/)
+- [How to use AlarmManager + BroadcastReceiver to set a reminder in App in 2022?](https://www.reddit.com/r/androiddev/comments/ya5iid/how_to_use_alarmmanager_broadcastreceiver_to_set/)
+- [Looking to get a laptop for android development, is a macbook really the best choice?](https://www.reddit.com/r/androiddev/comments/ya4md5/looking_to_get_a_laptop_for_android_development/)
+- [is cell service required for app development?](https://www.reddit.com/r/androiddev/comments/ya4egu/is_cell_service_required_for_app_development/)
+- [How to Pair Item in String Array?](https://www.reddit.com/r/androiddev/comments/ya4ck9/how_to_pair_item_in_string_array/)
+- [Google Play Console App not compatible with Pixel 7 - How ironic](https://www.reddit.com/r/androiddev/comments/ya3to3/google_play_console_app_not_compatible_with_pixel/)
+- [Why Learning Android or Finding Good Content is Hard](https://www.reddit.com/r/androiddev/comments/ya36ln/why_learning_android_or_finding_good_content_is/)
+- [What is the best way to take your android dev skills to the next level? As in become an absolute master.](https://www.reddit.com/r/androiddev/comments/y9yx0q/what_is_the_best_way_to_take_your_android_dev/)
+- [What is the proper way of implementing a neutral age screen?](https://www.reddit.com/r/androiddev/comments/y9vuhq/what_is_the_proper_way_of_implementing_a_neutral/)
+- [Android Studio Dolphin | 2021.3.1 IDE does not work. &quot;Run App&quot; not available, Gradle not syncing.](https://www.reddit.com/r/androiddev/comments/y9vt16/android_studio_dolphin_202131_ide_does_not_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
