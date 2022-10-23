@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to set the icon of app when displayed in Overview/Recents &lpar;Android square button&rpar;?](https://www.reddit.com/r/androiddev/comments/ya6ipq/how_to_set_the_icon_of_app_when_displayed_in/)
-- [How to use AlarmManager + BroadcastReceiver to set a reminder in App in 2022?](https://www.reddit.com/r/androiddev/comments/ya5iid/how_to_use_alarmmanager_broadcastreceiver_to_set/)
-- [Looking to get a laptop for android development, is a macbook really the best choice?](https://www.reddit.com/r/androiddev/comments/ya4md5/looking_to_get_a_laptop_for_android_development/)
-- [is cell service required for app development?](https://www.reddit.com/r/androiddev/comments/ya4egu/is_cell_service_required_for_app_development/)
-- [How to Pair Item in String Array?](https://www.reddit.com/r/androiddev/comments/ya4ck9/how_to_pair_item_in_string_array/)
-- [Google Play Console App not compatible with Pixel 7 - How ironic](https://www.reddit.com/r/androiddev/comments/ya3to3/google_play_console_app_not_compatible_with_pixel/)
-- [Why Learning Android or Finding Good Content is Hard](https://www.reddit.com/r/androiddev/comments/ya36ln/why_learning_android_or_finding_good_content_is/)
-- [What is the best way to take your android dev skills to the next level? As in become an absolute master.](https://www.reddit.com/r/androiddev/comments/y9yx0q/what_is_the_best_way_to_take_your_android_dev/)
-- [What is the proper way of implementing a neutral age screen?](https://www.reddit.com/r/androiddev/comments/y9vuhq/what_is_the_proper_way_of_implementing_a_neutral/)
-- [Android Studio Dolphin | 2021.3.1 IDE does not work. &quot;Run App&quot; not available, Gradle not syncing.](https://www.reddit.com/r/androiddev/comments/y9vt16/android_studio_dolphin_202131_ide_does_not_work/)
+- [Jetpack Compose Catalog](https://www.reddit.com/r/androiddev/comments/yb55zz/jetpack_compose_catalog/)
+- [[Android Studio] Ideas on why my Toasts are not working?](https://www.reddit.com/r/androiddev/comments/yb4b1k/android_studio_ideas_on_why_my_toasts_are_not/)
+- [Why am I getting this error? Is it because it is a protected package?](https://www.reddit.com/r/androiddev/comments/yb0w03/why_am_i_getting_this_error_is_it_because_it_is_a/)
+- [Java is still ok..?](https://www.reddit.com/r/androiddev/comments/yazklh/java_is_still_ok/)
+- [Question about clean architecture.](https://www.reddit.com/r/androiddev/comments/yawwvu/question_about_clean_architecture/)
+- [Hey all, what do you think about Macbook Air for Android Development? Is it works fine with Android studio?](https://www.reddit.com/r/androiddev/comments/yaw0cn/hey_all_what_do_you_think_about_macbook_air_for/)
+- [Filling knowledge gaps using job adverts.](https://www.reddit.com/r/androiddev/comments/yavudh/filling_knowledge_gaps_using_job_adverts/)
+- [How do you handle crashes/ANRs without code reference of your application?](https://www.reddit.com/r/androiddev/comments/yar3gb/how_do_you_handle_crashesanrs_without_code/)
+- [How to level up from entry level to midle or higher](https://www.reddit.com/r/androiddev/comments/yar10i/how_to_level_up_from_entry_level_to_midle_or/)
+- [Building an App which will play different sound or recorded when battery get plugged in.](https://www.reddit.com/r/androiddev/comments/yambt6/building_an_app_which_will_play_different_sound/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
