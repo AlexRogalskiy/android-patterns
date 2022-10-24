@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Jetpack Compose Catalog](https://www.reddit.com/r/androiddev/comments/yb55zz/jetpack_compose_catalog/)
-- [[Android Studio] Ideas on why my Toasts are not working?](https://www.reddit.com/r/androiddev/comments/yb4b1k/android_studio_ideas_on_why_my_toasts_are_not/)
-- [Why am I getting this error? Is it because it is a protected package?](https://www.reddit.com/r/androiddev/comments/yb0w03/why_am_i_getting_this_error_is_it_because_it_is_a/)
-- [Java is still ok..?](https://www.reddit.com/r/androiddev/comments/yazklh/java_is_still_ok/)
-- [Question about clean architecture.](https://www.reddit.com/r/androiddev/comments/yawwvu/question_about_clean_architecture/)
-- [Hey all, what do you think about Macbook Air for Android Development? Is it works fine with Android studio?](https://www.reddit.com/r/androiddev/comments/yaw0cn/hey_all_what_do_you_think_about_macbook_air_for/)
-- [Filling knowledge gaps using job adverts.](https://www.reddit.com/r/androiddev/comments/yavudh/filling_knowledge_gaps_using_job_adverts/)
-- [How do you handle crashes/ANRs without code reference of your application?](https://www.reddit.com/r/androiddev/comments/yar3gb/how_do_you_handle_crashesanrs_without_code/)
-- [How to level up from entry level to midle or higher](https://www.reddit.com/r/androiddev/comments/yar10i/how_to_level_up_from_entry_level_to_midle_or/)
-- [Building an App which will play different sound or recorded when battery get plugged in.](https://www.reddit.com/r/androiddev/comments/yambt6/building_an_app_which_will_play_different_sound/)
+- [Decided to Stop Commenting and Make an Actual Post About This](https://www.reddit.com/r/androiddev/comments/ybty1o/decided_to_stop_commenting_and_make_an_actual/)
+- [How to convert an APK file to AAB?](https://www.reddit.com/r/androiddev/comments/ybr46w/how_to_convert_an_apk_file_to_aab/)
+- [Jetpack Compose- Get Started](https://www.reddit.com/r/androiddev/comments/ybo9af/jetpack_compose_get_started/)
+- [Looking for recommendations for user bug reporting a la Instabug](https://www.reddit.com/r/androiddev/comments/ybn7z4/looking_for_recommendations_for_user_bug/)
+- [Is there a clear guideline on when should we use android:exported=&quot;true&quot; and when should we use android:exported=&quot;false&quot;?](https://www.reddit.com/r/androiddev/comments/yblxvl/is_there_a_clear_guideline_on_when_should_we_use/)
+- [What do i have to put in my Manifest?](https://www.reddit.com/r/androiddev/comments/ybkqf6/what_do_i_have_to_put_in_my_manifest/)
+- [Downtime developing in android](https://www.reddit.com/r/androiddev/comments/ybkd8a/downtime_developing_in_android/)
+- [Migrating to navigation with jetpack compose](https://www.reddit.com/r/androiddev/comments/ybk38f/migrating_to_navigation_with_jetpack_compose/)
+- [MacBook Pro M2 2022 vs Macbook Air M2 2022](https://www.reddit.com/r/androiddev/comments/ybjuxe/macbook_pro_m2_2022_vs_macbook_air_m2_2022/)
+- [Two use cases in one viewmodel and using them in fragment then](https://www.reddit.com/r/androiddev/comments/ybi3h8/two_use_cases_in_one_viewmodel_and_using_them_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
