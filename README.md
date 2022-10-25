@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Decided to Stop Commenting and Make an Actual Post About This](https://www.reddit.com/r/androiddev/comments/ybty1o/decided_to_stop_commenting_and_make_an_actual/)
-- [How to convert an APK file to AAB?](https://www.reddit.com/r/androiddev/comments/ybr46w/how_to_convert_an_apk_file_to_aab/)
-- [Jetpack Compose- Get Started](https://www.reddit.com/r/androiddev/comments/ybo9af/jetpack_compose_get_started/)
-- [Looking for recommendations for user bug reporting a la Instabug](https://www.reddit.com/r/androiddev/comments/ybn7z4/looking_for_recommendations_for_user_bug/)
-- [Is there a clear guideline on when should we use android:exported=&quot;true&quot; and when should we use android:exported=&quot;false&quot;?](https://www.reddit.com/r/androiddev/comments/yblxvl/is_there_a_clear_guideline_on_when_should_we_use/)
-- [What do i have to put in my Manifest?](https://www.reddit.com/r/androiddev/comments/ybkqf6/what_do_i_have_to_put_in_my_manifest/)
-- [Downtime developing in android](https://www.reddit.com/r/androiddev/comments/ybkd8a/downtime_developing_in_android/)
-- [Migrating to navigation with jetpack compose](https://www.reddit.com/r/androiddev/comments/ybk38f/migrating_to_navigation_with_jetpack_compose/)
-- [MacBook Pro M2 2022 vs Macbook Air M2 2022](https://www.reddit.com/r/androiddev/comments/ybjuxe/macbook_pro_m2_2022_vs_macbook_air_m2_2022/)
-- [Two use cases in one viewmodel and using them in fragment then](https://www.reddit.com/r/androiddev/comments/ybi3h8/two_use_cases_in_one_viewmodel_and_using_them_in/)
+- [Backend API developers need to understand Android &amp; iOS is not same](https://www.reddit.com/r/androiddev/comments/yctc9w/backend_api_developers_need_to_understand_android/)
+- [Hi! How to solve the problem of not showing the eID in the phone status?](https://www.reddit.com/r/androiddev/comments/ycsv8r/hi_how_to_solve_the_problem_of_not_showing_the/)
+- [PLEASE HELP](https://www.reddit.com/r/androiddev/comments/ycqpxk/please_help/)
+- [Intune Company portal disables screen lock pattern, swipe and none options](https://www.reddit.com/r/androiddev/comments/ycqo7x/intune_company_portal_disables_screen_lock/)
+- [video call blur](https://www.reddit.com/r/androiddev/comments/ycqdvy/video_call_blur/)
+- [Créditos - Pie de Página](https://www.reddit.com/r/androiddev/comments/ycox0w/créditos_pie_de_página/)
+- [Reimagining designer-developer handoff: Introducing Relay](https://www.reddit.com/r/androiddev/comments/ycopep/reimagining_designerdeveloper_handoff_introducing/)
+- [macOS Ventura Android Studio / Android Development stability](https://www.reddit.com/r/androiddev/comments/yckoan/macos_ventura_android_studio_android_development/)
+- [Compose version of sheets is now public! Offers dialogs &amp; views for various use cases!](https://www.reddit.com/r/androiddev/comments/yck3fl/compose_version_of_sheets_is_now_public_offers/)
+- [What is the salary for an Android developer job in Australia ?](https://www.reddit.com/r/androiddev/comments/ycj6a7/what_is_the_salary_for_an_android_developer_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
