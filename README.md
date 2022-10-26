@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Backend API developers need to understand Android &amp; iOS is not same](https://www.reddit.com/r/androiddev/comments/yctc9w/backend_api_developers_need_to_understand_android/)
-- [Hi! How to solve the problem of not showing the eID in the phone status?](https://www.reddit.com/r/androiddev/comments/ycsv8r/hi_how_to_solve_the_problem_of_not_showing_the/)
-- [PLEASE HELP](https://www.reddit.com/r/androiddev/comments/ycqpxk/please_help/)
-- [Intune Company portal disables screen lock pattern, swipe and none options](https://www.reddit.com/r/androiddev/comments/ycqo7x/intune_company_portal_disables_screen_lock/)
-- [video call blur](https://www.reddit.com/r/androiddev/comments/ycqdvy/video_call_blur/)
-- [Créditos - Pie de Página](https://www.reddit.com/r/androiddev/comments/ycox0w/créditos_pie_de_página/)
-- [Reimagining designer-developer handoff: Introducing Relay](https://www.reddit.com/r/androiddev/comments/ycopep/reimagining_designerdeveloper_handoff_introducing/)
-- [macOS Ventura Android Studio / Android Development stability](https://www.reddit.com/r/androiddev/comments/yckoan/macos_ventura_android_studio_android_development/)
-- [Compose version of sheets is now public! Offers dialogs &amp; views for various use cases!](https://www.reddit.com/r/androiddev/comments/yck3fl/compose_version_of_sheets_is_now_public_offers/)
-- [What is the salary for an Android developer job in Australia ?](https://www.reddit.com/r/androiddev/comments/ycj6a7/what_is_the_salary_for_an_android_developer_job/)
+- [use manycam on android to fake the camera of my phone without a pc?](https://www.reddit.com/r/androiddev/comments/ydmm9m/use_manycam_on_android_to_fake_the_camera_of_my/)
+- [In Android, with latest os, 90% of Broadcasts receiver, Clipboard Manager stopped, to utilize them I have to downgrade my OS. Is there any way or custom OS, I can utilize those banned features and use latest Android OS?](https://www.reddit.com/r/androiddev/comments/ydmdmm/in_android_with_latest_os_90_of_broadcasts/)
+- [Replacement for advancedrecyclerview?](https://www.reddit.com/r/androiddev/comments/ydlc44/replacement_for_advancedrecyclerview/)
+- [Visualize screen touches and swipes over a period of time as an image](https://www.reddit.com/r/androiddev/comments/ydhebu/visualize_screen_touches_and_swipes_over_a_period/)
+- [Handle Deep links For In-App Content In A Single Activity Compose Architecture](https://www.reddit.com/r/androiddev/comments/ydftna/handle_deep_links_for_inapp_content_in_a_single/)
+- [Looking for a native Android app to do a review about...](https://www.reddit.com/r/androiddev/comments/ydfc3c/looking_for_a_native_android_app_to_do_a_review/)
+- [Where to learn coming from Xamarin Forms.](https://www.reddit.com/r/androiddev/comments/yde580/where_to_learn_coming_from_xamarin_forms/)
+- [Retrofit QueryMap Problem!](https://www.reddit.com/r/androiddev/comments/yde2fo/retrofit_querymap_problem/)
+- [What&#39;s the best example of Clean, MVVM, Compose, and Material 3?](https://www.reddit.com/r/androiddev/comments/yddz2s/whats_the_best_example_of_clean_mvvm_compose_and/)
+- [One hell of a project - and close to no experience](https://www.reddit.com/r/androiddev/comments/ydd1a0/one_hell_of_a_project_and_close_to_no_experience/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
