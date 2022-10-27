@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [use manycam on android to fake the camera of my phone without a pc?](https://www.reddit.com/r/androiddev/comments/ydmm9m/use_manycam_on_android_to_fake_the_camera_of_my/)
-- [In Android, with latest os, 90% of Broadcasts receiver, Clipboard Manager stopped, to utilize them I have to downgrade my OS. Is there any way or custom OS, I can utilize those banned features and use latest Android OS?](https://www.reddit.com/r/androiddev/comments/ydmdmm/in_android_with_latest_os_90_of_broadcasts/)
-- [Replacement for advancedrecyclerview?](https://www.reddit.com/r/androiddev/comments/ydlc44/replacement_for_advancedrecyclerview/)
-- [Visualize screen touches and swipes over a period of time as an image](https://www.reddit.com/r/androiddev/comments/ydhebu/visualize_screen_touches_and_swipes_over_a_period/)
-- [Handle Deep links For In-App Content In A Single Activity Compose Architecture](https://www.reddit.com/r/androiddev/comments/ydftna/handle_deep_links_for_inapp_content_in_a_single/)
-- [Looking for a native Android app to do a review about...](https://www.reddit.com/r/androiddev/comments/ydfc3c/looking_for_a_native_android_app_to_do_a_review/)
-- [Where to learn coming from Xamarin Forms.](https://www.reddit.com/r/androiddev/comments/yde580/where_to_learn_coming_from_xamarin_forms/)
-- [Retrofit QueryMap Problem!](https://www.reddit.com/r/androiddev/comments/yde2fo/retrofit_querymap_problem/)
-- [What&#39;s the best example of Clean, MVVM, Compose, and Material 3?](https://www.reddit.com/r/androiddev/comments/yddz2s/whats_the_best_example_of_clean_mvvm_compose_and/)
-- [One hell of a project - and close to no experience](https://www.reddit.com/r/androiddev/comments/ydd1a0/one_hell_of_a_project_and_close_to_no_experience/)
+- [Is there any reason why I should deploy Jetpack Compose to Production?](https://www.reddit.com/r/androiddev/comments/yedapn/is_there_any_reason_why_i_should_deploy_jetpack/)
+- [Trying to put Ice Cream Sandwich on a cheap Hot Pepper ghost phone](https://www.reddit.com/r/androiddev/comments/yectbz/trying_to_put_ice_cream_sandwich_on_a_cheap_hot/)
+- [Should we get the data from Retrofit by Flow&lt;Response&lt;News&gt;&gt; or Response&lt;News&gt; and than use a flow in repo to emit the Response.](https://www.reddit.com/r/androiddev/comments/ye6xdf/should_we_get_the_data_from_retrofit_by/)
+- [Material 3 design stable for compose](https://www.reddit.com/r/androiddev/comments/ye2ik9/material_3_design_stable_for_compose/)
+- [How/where do I read about building android for old devices that are no longer supported like cm and lineage?](https://www.reddit.com/r/androiddev/comments/ye234k/howwhere_do_i_read_about_building_android_for_old/)
+- [Post notification permission on Android 13](https://www.reddit.com/r/androiddev/comments/ye1ty1/post_notification_permission_on_android_13/)
+- [Unreal Export for Android Tablet Struggle](https://www.reddit.com/r/androiddev/comments/ye1kte/unreal_export_for_android_tablet_struggle/)
+- [LiveData and get, ime curious](https://www.reddit.com/r/androiddev/comments/ye1ddh/livedata_and_get_ime_curious/)
+- [let&#39;s say I have 200 json items being populated into a recycle, I know it&#39;s bad practice to load all these items into 1 recycle view on run time, so what is the proper way of doing this?](https://www.reddit.com/r/androiddev/comments/ye18y4/lets_say_i_have_200_json_items_being_populated/)
+- [Modern Android Development @ Android Developer Summit](https://www.reddit.com/r/androiddev/comments/ye0f8j/modern_android_development_android_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
