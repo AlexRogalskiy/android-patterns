@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there any reason why I should deploy Jetpack Compose to Production?](https://www.reddit.com/r/androiddev/comments/yedapn/is_there_any_reason_why_i_should_deploy_jetpack/)
-- [Trying to put Ice Cream Sandwich on a cheap Hot Pepper ghost phone](https://www.reddit.com/r/androiddev/comments/yectbz/trying_to_put_ice_cream_sandwich_on_a_cheap_hot/)
-- [Should we get the data from Retrofit by Flow&lt;Response&lt;News&gt;&gt; or Response&lt;News&gt; and than use a flow in repo to emit the Response.](https://www.reddit.com/r/androiddev/comments/ye6xdf/should_we_get_the_data_from_retrofit_by/)
-- [Material 3 design stable for compose](https://www.reddit.com/r/androiddev/comments/ye2ik9/material_3_design_stable_for_compose/)
-- [How/where do I read about building android for old devices that are no longer supported like cm and lineage?](https://www.reddit.com/r/androiddev/comments/ye234k/howwhere_do_i_read_about_building_android_for_old/)
-- [Post notification permission on Android 13](https://www.reddit.com/r/androiddev/comments/ye1ty1/post_notification_permission_on_android_13/)
-- [Unreal Export for Android Tablet Struggle](https://www.reddit.com/r/androiddev/comments/ye1kte/unreal_export_for_android_tablet_struggle/)
-- [LiveData and get, ime curious](https://www.reddit.com/r/androiddev/comments/ye1ddh/livedata_and_get_ime_curious/)
-- [let&#39;s say I have 200 json items being populated into a recycle, I know it&#39;s bad practice to load all these items into 1 recycle view on run time, so what is the proper way of doing this?](https://www.reddit.com/r/androiddev/comments/ye18y4/lets_say_i_have_200_json_items_being_populated/)
-- [Modern Android Development @ Android Developer Summit](https://www.reddit.com/r/androiddev/comments/ye0f8j/modern_android_development_android_developer/)
+- [Emulate mic](https://www.reddit.com/r/androiddev/comments/yfbx8j/emulate_mic/)
+- [How to set a file as a ringtone for Android 10 or higher?](https://www.reddit.com/r/androiddev/comments/yf8eka/how_to_set_a_file_as_a_ringtone_for_android_10_or/)
+- [Extension Function for resource &lpar;get an item from strings.xml&rpar;](https://www.reddit.com/r/androiddev/comments/yf6f39/extension_function_for_resource_get_an_item_from/)
+- [Duplicate android app icon issue](https://www.reddit.com/r/androiddev/comments/yf4es8/duplicate_android_app_icon_issue/)
+- [How do you deal with inexperienced interviewers?](https://www.reddit.com/r/androiddev/comments/yf38vl/how_do_you_deal_with_inexperienced_interviewers/)
+- [How long does it take for your app update to get reviewed ?](https://www.reddit.com/r/androiddev/comments/yf31ei/how_long_does_it_take_for_your_app_update_to_get/)
+- [walkie talkie in android using local Wi-Fi](https://www.reddit.com/r/androiddev/comments/yf24z0/walkie_talkie_in_android_using_local_wifi/)
+- [which is the best realtime database available for android?](https://www.reddit.com/r/androiddev/comments/yf21ig/which_is_the_best_realtime_database_available_for/)
+- [Google Play Console: Developer pages](https://www.reddit.com/r/androiddev/comments/yf09hc/google_play_console_developer_pages/)
+- [Having Tech or Coding Interview? Check 29 Advanced Android Interview Questions &lpar;ANSWERED&rpar; For Senior App Developers 👉](https://www.reddit.com/r/androiddev/comments/yez9k9/having_tech_or_coding_interview_check_29_advanced/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
