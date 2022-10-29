@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Emulate mic](https://www.reddit.com/r/androiddev/comments/yfbx8j/emulate_mic/)
-- [How to set a file as a ringtone for Android 10 or higher?](https://www.reddit.com/r/androiddev/comments/yf8eka/how_to_set_a_file_as_a_ringtone_for_android_10_or/)
-- [Extension Function for resource &lpar;get an item from strings.xml&rpar;](https://www.reddit.com/r/androiddev/comments/yf6f39/extension_function_for_resource_get_an_item_from/)
-- [Duplicate android app icon issue](https://www.reddit.com/r/androiddev/comments/yf4es8/duplicate_android_app_icon_issue/)
-- [How do you deal with inexperienced interviewers?](https://www.reddit.com/r/androiddev/comments/yf38vl/how_do_you_deal_with_inexperienced_interviewers/)
-- [How long does it take for your app update to get reviewed ?](https://www.reddit.com/r/androiddev/comments/yf31ei/how_long_does_it_take_for_your_app_update_to_get/)
-- [walkie talkie in android using local Wi-Fi](https://www.reddit.com/r/androiddev/comments/yf24z0/walkie_talkie_in_android_using_local_wifi/)
-- [which is the best realtime database available for android?](https://www.reddit.com/r/androiddev/comments/yf21ig/which_is_the_best_realtime_database_available_for/)
-- [Google Play Console: Developer pages](https://www.reddit.com/r/androiddev/comments/yf09hc/google_play_console_developer_pages/)
-- [Having Tech or Coding Interview? Check 29 Advanced Android Interview Questions &lpar;ANSWERED&rpar; For Senior App Developers 👉](https://www.reddit.com/r/androiddev/comments/yez9k9/having_tech_or_coding_interview_check_29_advanced/)
+- [Designing App](https://www.reddit.com/r/androiddev/comments/yg1us2/designing_app/)
+- [What resources would you recommend to learn how to develop applications with Java?](https://www.reddit.com/r/androiddev/comments/yfytrn/what_resources_would_you_recommend_to_learn_how/)
+- [Has someone recently updated their RAM to fast DDR5 or PCIe 4.0 SSD? What is the performance gain for Android Studio, Gradle, and/or NDK builds?](https://www.reddit.com/r/androiddev/comments/yfy6bp/has_someone_recently_updated_their_ram_to_fast/)
+- [How to add Google sign in!](https://www.reddit.com/r/androiddev/comments/yfxhky/how_to_add_google_sign_in/)
+- [Lightweight dependency Injection](https://www.reddit.com/r/androiddev/comments/yfww3z/lightweight_dependency_injection/)
+- [XML or Compose?](https://www.reddit.com/r/androiddev/comments/yfslv2/xml_or_compose/)
+- [/r/Signal is now banning users who post about Signal removing SMS support](https://www.reddit.com/r/androiddev/comments/yfqxov/rsignal_is_now_banning_users_who_post_about/)
+- [CodeView 1.3.6 is released now with new features and performance improvements](https://www.reddit.com/r/androiddev/comments/yfpah6/codeview_136_is_released_now_with_new_features/)
+- [Is it possible to create a new contact from a website using a button?](https://www.reddit.com/r/androiddev/comments/yfp2pn/is_it_possible_to_create_a_new_contact_from_a/)
+- [I&#39;m newbie to Android app development and I&#39;m confused RN!](https://www.reddit.com/r/androiddev/comments/yfn97x/im_newbie_to_android_app_development_and_im/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
