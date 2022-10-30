@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Designing App](https://www.reddit.com/r/androiddev/comments/yg1us2/designing_app/)
-- [What resources would you recommend to learn how to develop applications with Java?](https://www.reddit.com/r/androiddev/comments/yfytrn/what_resources_would_you_recommend_to_learn_how/)
-- [Has someone recently updated their RAM to fast DDR5 or PCIe 4.0 SSD? What is the performance gain for Android Studio, Gradle, and/or NDK builds?](https://www.reddit.com/r/androiddev/comments/yfy6bp/has_someone_recently_updated_their_ram_to_fast/)
-- [How to add Google sign in!](https://www.reddit.com/r/androiddev/comments/yfxhky/how_to_add_google_sign_in/)
-- [Lightweight dependency Injection](https://www.reddit.com/r/androiddev/comments/yfww3z/lightweight_dependency_injection/)
-- [XML or Compose?](https://www.reddit.com/r/androiddev/comments/yfslv2/xml_or_compose/)
-- [/r/Signal is now banning users who post about Signal removing SMS support](https://www.reddit.com/r/androiddev/comments/yfqxov/rsignal_is_now_banning_users_who_post_about/)
-- [CodeView 1.3.6 is released now with new features and performance improvements](https://www.reddit.com/r/androiddev/comments/yfpah6/codeview_136_is_released_now_with_new_features/)
-- [Is it possible to create a new contact from a website using a button?](https://www.reddit.com/r/androiddev/comments/yfp2pn/is_it_possible_to_create_a_new_contact_from_a/)
-- [I&#39;m newbie to Android app development and I&#39;m confused RN!](https://www.reddit.com/r/androiddev/comments/yfn97x/im_newbie_to_android_app_development_and_im/)
+- [Is it possible to turn a callback function into string format into text-to-speech?](https://www.reddit.com/r/androiddev/comments/ygxmi7/is_it_possible_to_turn_a_callback_function_into/)
+- [Android 12 icons](https://www.reddit.com/r/androiddev/comments/ygxe2b/android_12_icons/)
+- [People don&#39;t understand my app I don&#39;t know why The app:](https://www.reddit.com/r/androiddev/comments/ygwyit/people_dont_understand_my_app_i_dont_know_why_the/)
+- [How I can run an Android emulator on WSL2 with hardware acceleration?](https://www.reddit.com/r/androiddev/comments/ygw437/how_i_can_run_an_android_emulator_on_wsl2_with/)
+- [Long Review Times](https://www.reddit.com/r/androiddev/comments/ygocux/long_review_times/)
+- [How to develop a sidescrolling 2D platformer game](https://www.reddit.com/r/androiddev/comments/ygnh43/how_to_develop_a_sidescrolling_2d_platformer_game/)
+- [Applovin native ads - Options view not showing.](https://www.reddit.com/r/androiddev/comments/ygn1hx/applovin_native_ads_options_view_not_showing/)
+- [Chromebook for Android Studio](https://www.reddit.com/r/androiddev/comments/ygj8lj/chromebook_for_android_studio/)
+- [I created a video tutorial about the process I used to make screenshots of my app for the Google Play store. I hope it can be useful to someone else :&rpar;](https://www.reddit.com/r/androiddev/comments/ygiyu6/i_created_a_video_tutorial_about_the_process_i/)
+- [How Android Development Evolves Over The Years](https://www.reddit.com/r/androiddev/comments/yggcjl/how_android_development_evolves_over_the_years/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
