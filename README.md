@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible to turn a callback function into string format into text-to-speech?](https://www.reddit.com/r/androiddev/comments/ygxmi7/is_it_possible_to_turn_a_callback_function_into/)
-- [Android 12 icons](https://www.reddit.com/r/androiddev/comments/ygxe2b/android_12_icons/)
-- [People don&#39;t understand my app I don&#39;t know why The app:](https://www.reddit.com/r/androiddev/comments/ygwyit/people_dont_understand_my_app_i_dont_know_why_the/)
-- [How I can run an Android emulator on WSL2 with hardware acceleration?](https://www.reddit.com/r/androiddev/comments/ygw437/how_i_can_run_an_android_emulator_on_wsl2_with/)
-- [Long Review Times](https://www.reddit.com/r/androiddev/comments/ygocux/long_review_times/)
-- [How to develop a sidescrolling 2D platformer game](https://www.reddit.com/r/androiddev/comments/ygnh43/how_to_develop_a_sidescrolling_2d_platformer_game/)
-- [Applovin native ads - Options view not showing.](https://www.reddit.com/r/androiddev/comments/ygn1hx/applovin_native_ads_options_view_not_showing/)
-- [Chromebook for Android Studio](https://www.reddit.com/r/androiddev/comments/ygj8lj/chromebook_for_android_studio/)
-- [I created a video tutorial about the process I used to make screenshots of my app for the Google Play store. I hope it can be useful to someone else :&rpar;](https://www.reddit.com/r/androiddev/comments/ygiyu6/i_created_a_video_tutorial_about_the_process_i/)
-- [How Android Development Evolves Over The Years](https://www.reddit.com/r/androiddev/comments/yggcjl/how_android_development_evolves_over_the_years/)
+- [hello, I am wanting a help. I am using Admob mediation in my app and ads coming from different network. I have a question in here. Who will pay me? Each ads network pay me several or the total payment I will received by Admob?](https://www.reddit.com/r/androiddev/comments/yhxqxu/hello_i_am_wanting_a_help_i_am_using_admob/)
+- [How to install &quot;Google APIs Intel x86 Atom_64 System Image&quot; offline?](https://www.reddit.com/r/androiddev/comments/yhuycn/how_to_install_google_apis_intel_x86_atom_64/)
+- [Windows 10 machine not recognizing Samsung android phone](https://www.reddit.com/r/androiddev/comments/yhrfoy/windows_10_machine_not_recognizing_samsung/)
+- [Hi, I use Admob to monetize my app and I have 3 ads that I show open app, interstitial and banner. Today, I have received mail from Google that my app is removed because of disruptive ads? What should I do if anyone has solved this error please let me know](https://www.reddit.com/r/androiddev/comments/yhmr2a/hi_i_use_admob_to_monetize_my_app_and_i_have_3/)
+- [Where to get users for my app?](https://www.reddit.com/r/androiddev/comments/yhm6j6/where_to_get_users_for_my_app/)
+- [Need ideas to organize android dev related fun events.](https://www.reddit.com/r/androiddev/comments/yhm5fa/need_ideas_to_organize_android_dev_related_fun/)
+- [Anybody tried setting up an App agency before?](https://www.reddit.com/r/androiddev/comments/yhkpsk/anybody_tried_setting_up_an_app_agency_before/)
+- [isn&#39;t here anyone who makes a decent income from there apps ?](https://www.reddit.com/r/androiddev/comments/yhirgs/isnt_here_anyone_who_makes_a_decent_income_from/)
+- [Countdown Kotlin](https://www.reddit.com/r/androiddev/comments/yhgld3/countdown_kotlin/)
+- [Log root access to /system/bin/sh](https://www.reddit.com/r/androiddev/comments/yhe8xz/log_root_access_to_systembinsh/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
