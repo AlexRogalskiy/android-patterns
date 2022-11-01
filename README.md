@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [hello, I am wanting a help. I am using Admob mediation in my app and ads coming from different network. I have a question in here. Who will pay me? Each ads network pay me several or the total payment I will received by Admob?](https://www.reddit.com/r/androiddev/comments/yhxqxu/hello_i_am_wanting_a_help_i_am_using_admob/)
-- [How to install &quot;Google APIs Intel x86 Atom_64 System Image&quot; offline?](https://www.reddit.com/r/androiddev/comments/yhuycn/how_to_install_google_apis_intel_x86_atom_64/)
-- [Windows 10 machine not recognizing Samsung android phone](https://www.reddit.com/r/androiddev/comments/yhrfoy/windows_10_machine_not_recognizing_samsung/)
-- [Hi, I use Admob to monetize my app and I have 3 ads that I show open app, interstitial and banner. Today, I have received mail from Google that my app is removed because of disruptive ads? What should I do if anyone has solved this error please let me know](https://www.reddit.com/r/androiddev/comments/yhmr2a/hi_i_use_admob_to_monetize_my_app_and_i_have_3/)
-- [Where to get users for my app?](https://www.reddit.com/r/androiddev/comments/yhm6j6/where_to_get_users_for_my_app/)
-- [Need ideas to organize android dev related fun events.](https://www.reddit.com/r/androiddev/comments/yhm5fa/need_ideas_to_organize_android_dev_related_fun/)
-- [Anybody tried setting up an App agency before?](https://www.reddit.com/r/androiddev/comments/yhkpsk/anybody_tried_setting_up_an_app_agency_before/)
-- [isn&#39;t here anyone who makes a decent income from there apps ?](https://www.reddit.com/r/androiddev/comments/yhirgs/isnt_here_anyone_who_makes_a_decent_income_from/)
-- [Countdown Kotlin](https://www.reddit.com/r/androiddev/comments/yhgld3/countdown_kotlin/)
-- [Log root access to /system/bin/sh](https://www.reddit.com/r/androiddev/comments/yhe8xz/log_root_access_to_systembinsh/)
+- [iPhone picture location sent to android](https://www.reddit.com/r/androiddev/comments/yiw1mp/iphone_picture_location_sent_to_android/)
+- [Is the Play Store App Review team kidnapped?](https://www.reddit.com/r/androiddev/comments/yivov5/is_the_play_store_app_review_team_kidnapped/)
+- [Where is the Terminate Application Icon in the new Logcat?](https://www.reddit.com/r/androiddev/comments/yisqoc/where_is_the_terminate_application_icon_in_the/)
+- [Shortcut to Don’t Keep Activity Simulation](https://www.reddit.com/r/androiddev/comments/yiskvn/shortcut_to_dont_keep_activity_simulation/)
+- [Instant Apps](https://www.reddit.com/r/androiddev/comments/yips7k/instant_apps/)
+- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing. Post yours as well if you also have one!](https://www.reddit.com/r/androiddev/comments/yipq8g/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [how to prepare for Android dev interview? Topics etc.](https://www.reddit.com/r/androiddev/comments/yioz12/how_to_prepare_for_android_dev_interview_topics/)
+- [Is there anyway I can capture TextureView](https://www.reddit.com/r/androiddev/comments/yiov6l/is_there_anyway_i_can_capture_textureview/)
+- [Alarm Manager &amp; Wifi/Internet Access](https://www.reddit.com/r/androiddev/comments/yiokz4/alarm_manager_wifiinternet_access/)
+- [Need Website Programmer/Developer: Need Help Recreating Online Version of Alphabet Wall Joyce Used To Talk With Will In The Upside Down To Talk With My Friend](https://www.reddit.com/r/androiddev/comments/yin4nd/need_website_programmerdeveloper_need_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
