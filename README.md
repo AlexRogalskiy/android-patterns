@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [iPhone picture location sent to android](https://www.reddit.com/r/androiddev/comments/yiw1mp/iphone_picture_location_sent_to_android/)
-- [Is the Play Store App Review team kidnapped?](https://www.reddit.com/r/androiddev/comments/yivov5/is_the_play_store_app_review_team_kidnapped/)
-- [Where is the Terminate Application Icon in the new Logcat?](https://www.reddit.com/r/androiddev/comments/yisqoc/where_is_the_terminate_application_icon_in_the/)
-- [Shortcut to Don’t Keep Activity Simulation](https://www.reddit.com/r/androiddev/comments/yiskvn/shortcut_to_dont_keep_activity_simulation/)
-- [Instant Apps](https://www.reddit.com/r/androiddev/comments/yips7k/instant_apps/)
-- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing. Post yours as well if you also have one!](https://www.reddit.com/r/androiddev/comments/yipq8g/heres_a_playlist_of_7_hours_of_music_i_use_to/)
-- [how to prepare for Android dev interview? Topics etc.](https://www.reddit.com/r/androiddev/comments/yioz12/how_to_prepare_for_android_dev_interview_topics/)
-- [Is there anyway I can capture TextureView](https://www.reddit.com/r/androiddev/comments/yiov6l/is_there_anyway_i_can_capture_textureview/)
-- [Alarm Manager &amp; Wifi/Internet Access](https://www.reddit.com/r/androiddev/comments/yiokz4/alarm_manager_wifiinternet_access/)
-- [Need Website Programmer/Developer: Need Help Recreating Online Version of Alphabet Wall Joyce Used To Talk With Will In The Upside Down To Talk With My Friend](https://www.reddit.com/r/androiddev/comments/yin4nd/need_website_programmerdeveloper_need_help/)
+- [Where to find an Android Engineer Mentor. I would like to become an Android Engineer](https://www.reddit.com/r/androiddev/comments/yjtye3/where_to_find_an_android_engineer_mentor_i_would/)
+- [What&#39;s the best ad network for monetizing tier 3 traffic other than admob or FAN ?](https://www.reddit.com/r/androiddev/comments/yjppt4/whats_the_best_ad_network_for_monetizing_tier_3/)
+- [How to check if user session has accessiblity settings on](https://www.reddit.com/r/androiddev/comments/yjlaf7/how_to_check_if_user_session_has_accessiblity/)
+- [Does anybody know any good testing APIs to use for automating widget placement on Homescreen?](https://www.reddit.com/r/androiddev/comments/yjkkuh/does_anybody_know_any_good_testing_apis_to_use/)
+- [Going from GcmJobScheduler to JobScheduler =&gt; Crashes IllegalStateException &quot;Apps may not schedule more than 100/150 distinct jobs](https://www.reddit.com/r/androiddev/comments/yjkd5w/going_from_gcmjobscheduler_to_jobscheduler/)
+- [I thought I knew good Dialog to Fragment communication practices... It&#39;s still giving me memory leaks.](https://www.reddit.com/r/androiddev/comments/yjjujt/i_thought_i_knew_good_dialog_to_fragment/)
+- [I have two apps that had an issue and were suspended but now I have new compliant APKs. However, it seems there is an issue with Play Console and now I&#39;m stuck with apps suspended and can&#39;t upload the new compliant versions to. I opened a case with Google Play Support 5 days ago. Suggestions pls!](https://www.reddit.com/r/androiddev/comments/yjhapl/i_have_two_apps_that_had_an_issue_and_were/)
+- [What&#39;s wrong with my resume?](https://www.reddit.com/r/androiddev/comments/yjh07u/whats_wrong_with_my_resume/)
+- [how to have two recycler view one for horizontal another vertical for tv?](https://www.reddit.com/r/androiddev/comments/yjef91/how_to_have_two_recycler_view_one_for_horizontal/)
+- [Android-showcase sample app &lpar;Kotlin, Coroutines, Jetpack, Clean Architecture, Tests, Feature Modules, MVVM, Static Analysis...&rpar;](https://www.reddit.com/r/androiddev/comments/yjcmtx/androidshowcase_sample_app_kotlin_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
