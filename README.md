@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where to find an Android Engineer Mentor. I would like to become an Android Engineer](https://www.reddit.com/r/androiddev/comments/yjtye3/where_to_find_an_android_engineer_mentor_i_would/)
-- [What&#39;s the best ad network for monetizing tier 3 traffic other than admob or FAN ?](https://www.reddit.com/r/androiddev/comments/yjppt4/whats_the_best_ad_network_for_monetizing_tier_3/)
-- [How to check if user session has accessiblity settings on](https://www.reddit.com/r/androiddev/comments/yjlaf7/how_to_check_if_user_session_has_accessiblity/)
-- [Does anybody know any good testing APIs to use for automating widget placement on Homescreen?](https://www.reddit.com/r/androiddev/comments/yjkkuh/does_anybody_know_any_good_testing_apis_to_use/)
-- [Going from GcmJobScheduler to JobScheduler =&gt; Crashes IllegalStateException &quot;Apps may not schedule more than 100/150 distinct jobs](https://www.reddit.com/r/androiddev/comments/yjkd5w/going_from_gcmjobscheduler_to_jobscheduler/)
-- [I thought I knew good Dialog to Fragment communication practices... It&#39;s still giving me memory leaks.](https://www.reddit.com/r/androiddev/comments/yjjujt/i_thought_i_knew_good_dialog_to_fragment/)
-- [I have two apps that had an issue and were suspended but now I have new compliant APKs. However, it seems there is an issue with Play Console and now I&#39;m stuck with apps suspended and can&#39;t upload the new compliant versions to. I opened a case with Google Play Support 5 days ago. Suggestions pls!](https://www.reddit.com/r/androiddev/comments/yjhapl/i_have_two_apps_that_had_an_issue_and_were/)
-- [What&#39;s wrong with my resume?](https://www.reddit.com/r/androiddev/comments/yjh07u/whats_wrong_with_my_resume/)
-- [how to have two recycler view one for horizontal another vertical for tv?](https://www.reddit.com/r/androiddev/comments/yjef91/how_to_have_two_recycler_view_one_for_horizontal/)
-- [Android-showcase sample app &lpar;Kotlin, Coroutines, Jetpack, Clean Architecture, Tests, Feature Modules, MVVM, Static Analysis...&rpar;](https://www.reddit.com/r/androiddev/comments/yjcmtx/androidshowcase_sample_app_kotlin_coroutines/)
+- [I made this video for class appreciate anyone who wants to check it out!](https://www.reddit.com/r/androiddev/comments/ykozzx/i_made_this_video_for_class_appreciate_anyone_who/)
+- [Android Studio Flamingo Canary 7 now available](https://www.reddit.com/r/androiddev/comments/ykkrrw/android_studio_flamingo_canary_7_now_available/)
+- [How can I implement a table/grid layout like this with a stickied first column and horizontal scrolling?](https://www.reddit.com/r/androiddev/comments/ykke2b/how_can_i_implement_a_tablegrid_layout_like_this/)
+- [Should I master Data structure in order to be an entry level or Junior Android Engineer?](https://www.reddit.com/r/androiddev/comments/ykka2d/should_i_master_data_structure_in_order_to_be_an/)
+- [My title gets truncated when I add an ampersand to it. What’s a good solution?](https://www.reddit.com/r/androiddev/comments/ykhh1f/my_title_gets_truncated_when_i_add_an_ampersand/)
+- [Which do you like better? Left or right?](https://www.reddit.com/r/androiddev/comments/ykffh5/which_do_you_like_better_left_or_right/)
+- [Approach to Intra-App communication without APIs or Intents?](https://www.reddit.com/r/androiddev/comments/ykdd4c/approach_to_intraapp_communication_without_apis/)
+- [Raising the bar on technical quality on Google Play](https://www.reddit.com/r/androiddev/comments/ykbn5e/raising_the_bar_on_technical_quality_on_google/)
+- [Play Console payout explanation](https://www.reddit.com/r/androiddev/comments/ykaz9o/play_console_payout_explanation/)
+- [Reluct: An app I&#39;ve been working on for some time](https://www.reddit.com/r/androiddev/comments/ykaw85/reluct_an_app_ive_been_working_on_for_some_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
