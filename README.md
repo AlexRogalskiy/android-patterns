@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [can anyone help me I have a s20 ultra with android 11 and haven&#39;t received an update for Android 12 or 13](https://www.reddit.com/r/androiddev/comments/ylmnn6/can_anyone_help_me_i_have_a_s20_ultra_with/)
-- [can anyone help me I have a s20 ultra with android 11 and haven&#39;t received an update for Android 12 or 13](https://www.reddit.com/r/androiddev/comments/ylmnf7/can_anyone_help_me_i_have_a_s20_ultra_with/)
-- [Unable to create UnitTest folders in Multi Module Legacy Android project](https://www.reddit.com/r/androiddev/comments/ylmc0d/unable_to_create_unittest_folders_in_multi_module/)
-- [What&#39;s your conversion rate for subscription app?](https://www.reddit.com/r/androiddev/comments/ylkvqa/whats_your_conversion_rate_for_subscription_app/)
-- [A way to distinguish between viewDestroy&lpar;to backstack&rpar; and viewDestroy&lpar;configChange with fragment.setRetainInstance&lpar;true&rpar;.](https://www.reddit.com/r/androiddev/comments/yle6ae/a_way_to_distinguish_between_viewdestroyto/)
-- [how yo track focus changes for a view group childs?](https://www.reddit.com/r/androiddev/comments/yl6zjn/how_yo_track_focus_changes_for_a_view_group_childs/)
-- [Finding a job as a self taught dev](https://www.reddit.com/r/androiddev/comments/yl51wi/finding_a_job_as_a_self_taught_dev/)
-- [Dynamic link posted to browser wont open app, everything else f.e gmail, note, messanger works](https://www.reddit.com/r/androiddev/comments/yl3xw0/dynamic_link_posted_to_browser_wont_open_app/)
-- [Resources to learn Android ROM development ?](https://www.reddit.com/r/androiddev/comments/yl1uh4/resources_to_learn_android_rom_development/)
-- [The proper way to permanently persist UI data from ViewModel? SavedInstance seems to be useless, it does not work as I would expect](https://www.reddit.com/r/androiddev/comments/ykzdm2/the_proper_way_to_permanently_persist_ui_data/)
+- [1 Million downloads application with almost no revenue :/](https://www.reddit.com/r/androiddev/comments/ymfr57/1_million_downloads_application_with_almost_no/)
+- [how to acess /data/data on android 13 without root?](https://www.reddit.com/r/androiddev/comments/ymd0eb/how_to_acess_datadata_on_android_13_without_root/)
+- [Play Console App notification](https://www.reddit.com/r/androiddev/comments/ymc5zs/play_console_app_notification/)
+- [My first talk ever on Jetpack Compose behind the scenes](https://www.reddit.com/r/androiddev/comments/ymanqw/my_first_talk_ever_on_jetpack_compose_behind_the/)
+- [Startup: Should we switch to Flutter or hire an iOS Developer?](https://www.reddit.com/r/androiddev/comments/ym9qne/startup_should_we_switch_to_flutter_or_hire_an/)
+- [Scripts that help me during development](https://www.reddit.com/r/androiddev/comments/ym97nm/scripts_that_help_me_during_development/)
+- [What to do about an app with serious bugs that has already been submitted for release via managed publishing via Google Play console?](https://www.reddit.com/r/androiddev/comments/ym6xlk/what_to_do_about_an_app_with_serious_bugs_that/)
+- [retrofit -parse data with 2 types](https://www.reddit.com/r/androiddev/comments/ym6g98/retrofit_parse_data_with_2_types/)
+- [[UI] How do I make users click this button that launches a screen which showcases my other apps and their links?](https://www.reddit.com/r/androiddev/comments/ym5sxr/ui_how_do_i_make_users_click_this_button_that/)
+- [1 Million downloads app: How to get the max revenue out of it?](https://www.reddit.com/r/androiddev/comments/ym5axj/1_million_downloads_app_how_to_get_the_max/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
