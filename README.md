@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [1 Million downloads application with almost no revenue :/](https://www.reddit.com/r/androiddev/comments/ymfr57/1_million_downloads_application_with_almost_no/)
-- [how to acess /data/data on android 13 without root?](https://www.reddit.com/r/androiddev/comments/ymd0eb/how_to_acess_datadata_on_android_13_without_root/)
-- [Play Console App notification](https://www.reddit.com/r/androiddev/comments/ymc5zs/play_console_app_notification/)
-- [My first talk ever on Jetpack Compose behind the scenes](https://www.reddit.com/r/androiddev/comments/ymanqw/my_first_talk_ever_on_jetpack_compose_behind_the/)
-- [Startup: Should we switch to Flutter or hire an iOS Developer?](https://www.reddit.com/r/androiddev/comments/ym9qne/startup_should_we_switch_to_flutter_or_hire_an/)
-- [Scripts that help me during development](https://www.reddit.com/r/androiddev/comments/ym97nm/scripts_that_help_me_during_development/)
-- [What to do about an app with serious bugs that has already been submitted for release via managed publishing via Google Play console?](https://www.reddit.com/r/androiddev/comments/ym6xlk/what_to_do_about_an_app_with_serious_bugs_that/)
-- [retrofit -parse data with 2 types](https://www.reddit.com/r/androiddev/comments/ym6g98/retrofit_parse_data_with_2_types/)
-- [[UI] How do I make users click this button that launches a screen which showcases my other apps and their links?](https://www.reddit.com/r/androiddev/comments/ym5sxr/ui_how_do_i_make_users_click_this_button_that/)
-- [1 Million downloads app: How to get the max revenue out of it?](https://www.reddit.com/r/androiddev/comments/ym5axj/1_million_downloads_app_how_to_get_the_max/)
+- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing. Post yours as well if you also have one!](https://www.reddit.com/r/androiddev/comments/yne6d7/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [android xcover pro reflash?](https://www.reddit.com/r/androiddev/comments/ynduqh/android_xcover_pro_reflash/)
+- [A Python Tool For Demoing Common Android App Vulnerabilities &amp; Security Issues - By Spinning Up &#39;Random&#39; Vulnerable Apps](https://www.reddit.com/r/androiddev/comments/ync1ae/a_python_tool_for_demoing_common_android_app/)
+- [Android File Transfer not working on macOS Ventura](https://www.reddit.com/r/androiddev/comments/yn9gfu/android_file_transfer_not_working_on_macos_ventura/)
+- [Is the xml for an app consistant across similar devices?](https://www.reddit.com/r/androiddev/comments/yn8ze8/is_the_xml_for_an_app_consistant_across_similar/)
+- [Playstore copyright doubt](https://www.reddit.com/r/androiddev/comments/yn77hk/playstore_copyright_doubt/)
+- [how to implement speech to text in an Android App](https://www.reddit.com/r/androiddev/comments/yn3h2d/how_to_implement_speech_to_text_in_an_android_app/)
+- [Is there a way to integrate GSM800L/SIM800L in Android Studio?](https://www.reddit.com/r/androiddev/comments/ymvt17/is_there_a_way_to_integrate_gsm800lsim800l_in/)
+- [searched a lot but didn&#39;t found any tips to smoothly animate layout width change](https://www.reddit.com/r/androiddev/comments/ymu5dz/searched_a_lot_but_didnt_found_any_tips_to/)
+- [Runtime permission + clean arch.](https://www.reddit.com/r/androiddev/comments/ymt7e1/runtime_permission_clean_arch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
