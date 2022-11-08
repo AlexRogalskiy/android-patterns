@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does my android app need the ACCESS_BACKGROUND_LOCATION for this use?](https://www.reddit.com/r/androiddev/comments/yoaphj/does_my_android_app_need_the_access_background/)
-- [Enable WHPX on AMD with Hyper-V](https://www.reddit.com/r/androiddev/comments/yo4a3n/enable_whpx_on_amd_with_hyperv/)
-- [Android - Are singletons destroyed when no object uses them?](https://www.reddit.com/r/androiddev/comments/ynywwc/android_are_singletons_destroyed_when_no_object/)
-- [I released an open source alternative to Google Calculator](https://www.reddit.com/r/androiddev/comments/ynyguh/i_released_an_open_source_alternative_to_google/)
-- [Thoughts on Compose](https://www.reddit.com/r/androiddev/comments/ynwdmk/thoughts_on_compose/)
-- [Android&#39;s new system Photo Picker arrives even on Android 4.4 KitKat](https://www.reddit.com/r/androiddev/comments/ynv8ly/androids_new_system_photo_picker_arrives_even_on/)
-- [My first open-source project](https://www.reddit.com/r/androiddev/comments/yntwmw/my_first_opensource_project/)
-- [Is there a way to filter-out auto generated files from search in Android Studio?](https://www.reddit.com/r/androiddev/comments/yntoqk/is_there_a_way_to_filterout_auto_generated_files/)
-- [Proto DataStore and conditional defaults](https://www.reddit.com/r/androiddev/comments/ynqsqy/proto_datastore_and_conditional_defaults/)
-- [Is it possible to hide or remove the app from production back to open testing&lpar;beta&rpar;?](https://www.reddit.com/r/androiddev/comments/ynqr0b/is_it_possible_to_hide_or_remove_the_app_from/)
+- [Simplest Dependency Injection with Fun Interfaces + Sealed Classes](https://www.reddit.com/r/androiddev/comments/yp7shp/simplest_dependency_injection_with_fun_interfaces/)
+- [how can I get these? I have the other ones &lpar;ColorOS 13&rpar;](https://www.reddit.com/r/androiddev/comments/yp61ia/how_can_i_get_these_i_have_the_other_ones_coloros/)
+- [Android recovery](https://www.reddit.com/r/androiddev/comments/yp4rdh/android_recovery/)
+- [Notify when a text on screen changes?](https://www.reddit.com/r/androiddev/comments/yp2lmb/notify_when_a_text_on_screen_changes/)
+- [Android Studio Electric Eel Beta 5 now available](https://www.reddit.com/r/androiddev/comments/yoyeam/android_studio_electric_eel_beta_5_now_available/)
+- [Android Studio Flamingo Canary 8 now available](https://www.reddit.com/r/androiddev/comments/yoyea8/android_studio_flamingo_canary_8_now_available/)
+- [Data is displaying after navigating back](https://www.reddit.com/r/androiddev/comments/yowyyg/data_is_displaying_after_navigating_back/)
+- [Why can&#39;t I find a factory way of reading audio data on Android?](https://www.reddit.com/r/androiddev/comments/yow9s7/why_cant_i_find_a_factory_way_of_reading_audio/)
+- [How do you listen to incoming SMS messages?](https://www.reddit.com/r/androiddev/comments/youo9h/how_do_you_listen_to_incoming_sms_messages/)
+- [Searching for a Java/Kotlin COBS library](https://www.reddit.com/r/androiddev/comments/yotwjf/searching_for_a_javakotlin_cobs_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
