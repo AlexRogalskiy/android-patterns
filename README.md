@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Simplest Dependency Injection with Fun Interfaces + Sealed Classes](https://www.reddit.com/r/androiddev/comments/yp7shp/simplest_dependency_injection_with_fun_interfaces/)
-- [how can I get these? I have the other ones &lpar;ColorOS 13&rpar;](https://www.reddit.com/r/androiddev/comments/yp61ia/how_can_i_get_these_i_have_the_other_ones_coloros/)
-- [Android recovery](https://www.reddit.com/r/androiddev/comments/yp4rdh/android_recovery/)
-- [Notify when a text on screen changes?](https://www.reddit.com/r/androiddev/comments/yp2lmb/notify_when_a_text_on_screen_changes/)
-- [Android Studio Electric Eel Beta 5 now available](https://www.reddit.com/r/androiddev/comments/yoyeam/android_studio_electric_eel_beta_5_now_available/)
-- [Android Studio Flamingo Canary 8 now available](https://www.reddit.com/r/androiddev/comments/yoyea8/android_studio_flamingo_canary_8_now_available/)
-- [Data is displaying after navigating back](https://www.reddit.com/r/androiddev/comments/yowyyg/data_is_displaying_after_navigating_back/)
-- [Why can&#39;t I find a factory way of reading audio data on Android?](https://www.reddit.com/r/androiddev/comments/yow9s7/why_cant_i_find_a_factory_way_of_reading_audio/)
-- [How do you listen to incoming SMS messages?](https://www.reddit.com/r/androiddev/comments/youo9h/how_do_you_listen_to_incoming_sms_messages/)
-- [Searching for a Java/Kotlin COBS library](https://www.reddit.com/r/androiddev/comments/yotwjf/searching_for_a_javakotlin_cobs_library/)
+- [Requiring the ACCESS_BACKGROUND_LOCATION permission targeting android 11 or higher.](https://www.reddit.com/r/androiddev/comments/yq6nju/requiring_the_access_background_location/)
+- [usbManager is behaving abnormally for targeting S+ &lpar;android api level 31 and above&rpar;](https://www.reddit.com/r/androiddev/comments/ypz8c0/usbmanager_is_behaving_abnormally_for_targeting_s/)
+- [Since I messed around with android studio I cant install the android sdk anymore](https://www.reddit.com/r/androiddev/comments/ypxapl/since_i_messed_around_with_android_studio_i_cant/)
+- [The Mobile Native Foundation&#39;s Mobile Developer Ecosystem Survey is closing soon, and we would love the r/androiddev community to participate!](https://www.reddit.com/r/androiddev/comments/ypvs0e/the_mobile_native_foundations_mobile_developer/)
+- [Detect that the check-mark on the bottom right of the Android keyboard has been pressed](https://www.reddit.com/r/androiddev/comments/ypsaks/detect_that_the_checkmark_on_the_bottom_right_of/)
+- [AV1 Decoding on Android 10+](https://www.reddit.com/r/androiddev/comments/ypr6py/av1_decoding_on_android_10/)
+- [Would you want to use an app that goes against the current norms?](https://www.reddit.com/r/androiddev/comments/ypqxmq/would_you_want_to_use_an_app_that_goes_against/)
+- [Easy SharedPreferences with Delegated Properties in Kotlin](https://www.reddit.com/r/androiddev/comments/ypp8u3/easy_sharedpreferences_with_delegated_properties/)
+- [Background restrictions Samsung with Android 13](https://www.reddit.com/r/androiddev/comments/ypn1gc/background_restrictions_samsung_with_android_13/)
+- [Opinions for an occasional Android dev](https://www.reddit.com/r/androiddev/comments/ypm6gx/opinions_for_an_occasional_android_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
