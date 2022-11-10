@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Requiring the ACCESS_BACKGROUND_LOCATION permission targeting android 11 or higher.](https://www.reddit.com/r/androiddev/comments/yq6nju/requiring_the_access_background_location/)
-- [usbManager is behaving abnormally for targeting S+ &lpar;android api level 31 and above&rpar;](https://www.reddit.com/r/androiddev/comments/ypz8c0/usbmanager_is_behaving_abnormally_for_targeting_s/)
-- [Since I messed around with android studio I cant install the android sdk anymore](https://www.reddit.com/r/androiddev/comments/ypxapl/since_i_messed_around_with_android_studio_i_cant/)
-- [The Mobile Native Foundation&#39;s Mobile Developer Ecosystem Survey is closing soon, and we would love the r/androiddev community to participate!](https://www.reddit.com/r/androiddev/comments/ypvs0e/the_mobile_native_foundations_mobile_developer/)
-- [Detect that the check-mark on the bottom right of the Android keyboard has been pressed](https://www.reddit.com/r/androiddev/comments/ypsaks/detect_that_the_checkmark_on_the_bottom_right_of/)
-- [AV1 Decoding on Android 10+](https://www.reddit.com/r/androiddev/comments/ypr6py/av1_decoding_on_android_10/)
-- [Would you want to use an app that goes against the current norms?](https://www.reddit.com/r/androiddev/comments/ypqxmq/would_you_want_to_use_an_app_that_goes_against/)
-- [Easy SharedPreferences with Delegated Properties in Kotlin](https://www.reddit.com/r/androiddev/comments/ypp8u3/easy_sharedpreferences_with_delegated_properties/)
-- [Background restrictions Samsung with Android 13](https://www.reddit.com/r/androiddev/comments/ypn1gc/background_restrictions_samsung_with_android_13/)
-- [Opinions for an occasional Android dev](https://www.reddit.com/r/androiddev/comments/ypm6gx/opinions_for_an_occasional_android_dev/)
+- [Question on first steps creating an app to read SMS data and check Outlook](https://www.reddit.com/r/androiddev/comments/yr2hax/question_on_first_steps_creating_an_app_to_read/)
+- [How to send Push Notifications after app is closed for a duration?](https://www.reddit.com/r/androiddev/comments/yqyyfk/how_to_send_push_notifications_after_app_is/)
+- [How to create a VPN app for college proxy?](https://www.reddit.com/r/androiddev/comments/yqywzi/how_to_create_a_vpn_app_for_college_proxy/)
+- [One off TopAppBar](https://www.reddit.com/r/androiddev/comments/yqwbki/one_off_topappbar/)
+- [Can services start without broadcast,activity calling its startService&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/yqw5au/can_services_start_without_broadcastactivity/)
+- [Is there any better way to do tracking delivery status like uber eats?](https://www.reddit.com/r/androiddev/comments/yqvqvm/is_there_any_better_way_to_do_tracking_delivery/)
+- [How to make a game using Canvas in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/yqvclt/how_to_make_a_game_using_canvas_in_jetpack_compose/)
+- [Moving from XML to Jetpack Compose from a senior engineer POV](https://www.reddit.com/r/androiddev/comments/yquz1t/moving_from_xml_to_jetpack_compose_from_a_senior/)
+- [Flutter Classroom: A discord channel](https://www.reddit.com/r/androiddev/comments/yquai1/flutter_classroom_a_discord_channel/)
+- [Android app that reads your wifi strength](https://www.reddit.com/r/androiddev/comments/yqswj0/android_app_that_reads_your_wifi_strength/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
