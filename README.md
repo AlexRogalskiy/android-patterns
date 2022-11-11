@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question on first steps creating an app to read SMS data and check Outlook](https://www.reddit.com/r/androiddev/comments/yr2hax/question_on_first_steps_creating_an_app_to_read/)
-- [How to send Push Notifications after app is closed for a duration?](https://www.reddit.com/r/androiddev/comments/yqyyfk/how_to_send_push_notifications_after_app_is/)
-- [How to create a VPN app for college proxy?](https://www.reddit.com/r/androiddev/comments/yqywzi/how_to_create_a_vpn_app_for_college_proxy/)
-- [One off TopAppBar](https://www.reddit.com/r/androiddev/comments/yqwbki/one_off_topappbar/)
-- [Can services start without broadcast,activity calling its startService&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/yqw5au/can_services_start_without_broadcastactivity/)
-- [Is there any better way to do tracking delivery status like uber eats?](https://www.reddit.com/r/androiddev/comments/yqvqvm/is_there_any_better_way_to_do_tracking_delivery/)
-- [How to make a game using Canvas in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/yqvclt/how_to_make_a_game_using_canvas_in_jetpack_compose/)
-- [Moving from XML to Jetpack Compose from a senior engineer POV](https://www.reddit.com/r/androiddev/comments/yquz1t/moving_from_xml_to_jetpack_compose_from_a_senior/)
-- [Flutter Classroom: A discord channel](https://www.reddit.com/r/androiddev/comments/yquai1/flutter_classroom_a_discord_channel/)
-- [Android app that reads your wifi strength](https://www.reddit.com/r/androiddev/comments/yqswj0/android_app_that_reads_your_wifi_strength/)
+- [No notification if app is closed.](https://www.reddit.com/r/androiddev/comments/yrycwv/no_notification_if_app_is_closed/)
+- [Running into issues where the design tab is blank when using custom views?](https://www.reddit.com/r/androiddev/comments/yrwt6t/running_into_issues_where_the_design_tab_is_blank/)
+- [Textview becomes unclickable randomly](https://www.reddit.com/r/androiddev/comments/yrtd4v/textview_becomes_unclickable_randomly/)
+- [Would be cool if Google Apps functionality was more easily accessed from our own apps](https://www.reddit.com/r/androiddev/comments/yrt0hm/would_be_cool_if_google_apps_functionality_was/)
+- [What&#39;s new in Jetpack Security Crypto Version 1.1.0-alpha04](https://www.reddit.com/r/androiddev/comments/yrru87/whats_new_in_jetpack_security_crypto_version/)
+- [Issue in starting design tab](https://www.reddit.com/r/androiddev/comments/yrmzy3/issue_in_starting_design_tab/)
+- [Is it likely that iOS and Android will get rid of Xbox and PS5 controller support in the future? Will future Xbox and Playstation controllers get rid of and not have Bluetooth support?](https://www.reddit.com/r/androiddev/comments/yrldia/is_it_likely_that_ios_and_android_will_get_rid_of/)
+- [How to handle configuration changes while working with Jetpack compose and Kotlin flows](https://www.reddit.com/r/androiddev/comments/yrktlp/how_to_handle_configuration_changes_while_working/)
+- [Advice Please - Career in Android](https://www.reddit.com/r/androiddev/comments/yrgaqg/advice_please_career_in_android/)
+- [Limit the frequency of showing interstitial ads.](https://www.reddit.com/r/androiddev/comments/yrfzwy/limit_the_frequency_of_showing_interstitial_ads/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
