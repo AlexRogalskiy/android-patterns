@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [No notification if app is closed.](https://www.reddit.com/r/androiddev/comments/yrycwv/no_notification_if_app_is_closed/)
-- [Running into issues where the design tab is blank when using custom views?](https://www.reddit.com/r/androiddev/comments/yrwt6t/running_into_issues_where_the_design_tab_is_blank/)
-- [Textview becomes unclickable randomly](https://www.reddit.com/r/androiddev/comments/yrtd4v/textview_becomes_unclickable_randomly/)
-- [Would be cool if Google Apps functionality was more easily accessed from our own apps](https://www.reddit.com/r/androiddev/comments/yrt0hm/would_be_cool_if_google_apps_functionality_was/)
-- [What&#39;s new in Jetpack Security Crypto Version 1.1.0-alpha04](https://www.reddit.com/r/androiddev/comments/yrru87/whats_new_in_jetpack_security_crypto_version/)
-- [Issue in starting design tab](https://www.reddit.com/r/androiddev/comments/yrmzy3/issue_in_starting_design_tab/)
-- [Is it likely that iOS and Android will get rid of Xbox and PS5 controller support in the future? Will future Xbox and Playstation controllers get rid of and not have Bluetooth support?](https://www.reddit.com/r/androiddev/comments/yrldia/is_it_likely_that_ios_and_android_will_get_rid_of/)
-- [How to handle configuration changes while working with Jetpack compose and Kotlin flows](https://www.reddit.com/r/androiddev/comments/yrktlp/how_to_handle_configuration_changes_while_working/)
-- [Advice Please - Career in Android](https://www.reddit.com/r/androiddev/comments/yrgaqg/advice_please_career_in_android/)
-- [Limit the frequency of showing interstitial ads.](https://www.reddit.com/r/androiddev/comments/yrfzwy/limit_the_frequency_of_showing_interstitial_ads/)
+- [Does anyone heard about a service called &quot;Catapult&quot; and a android store called &quot;Aptoid&quot;? It&#39;s good for games made for one person?](https://www.reddit.com/r/androiddev/comments/ysre0c/does_anyone_heard_about_a_service_called_catapult/)
+- [Android Studio via Jetbrains Gateway?](https://www.reddit.com/r/androiddev/comments/yspeoq/android_studio_via_jetbrains_gateway/)
+- [Installs on Google play not updated](https://www.reddit.com/r/androiddev/comments/ysp2w5/installs_on_google_play_not_updated/)
+- [Why new games face with not distinguishable ad button rejection while many other games have them while having pegi3?](https://www.reddit.com/r/androiddev/comments/ysol66/why_new_games_face_with_not_distinguishable_ad/)
+- [How do I remove an app from the Play Store console?](https://www.reddit.com/r/androiddev/comments/yso1pl/how_do_i_remove_an_app_from_the_play_store_console/)
+- [Firebase Course](https://www.reddit.com/r/androiddev/comments/ysj6yk/firebase_course/)
+- [How do you go about sourcing art for your apps? icons, backgrounds etc.](https://www.reddit.com/r/androiddev/comments/yshj1m/how_do_you_go_about_sourcing_art_for_your_apps/)
+- [Images, internal vs external storage.](https://www.reddit.com/r/androiddev/comments/yshh9p/images_internal_vs_external_storage/)
+- [Need an advanced developer&#39;s recomendation on what begginer should focus on](https://www.reddit.com/r/androiddev/comments/ysd2ld/need_an_advanced_developers_recomendation_on_what/)
+- [Should I judt switch to flutter?](https://www.reddit.com/r/androiddev/comments/ysc7nm/should_i_judt_switch_to_flutter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
