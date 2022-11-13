@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does anyone heard about a service called &quot;Catapult&quot; and a android store called &quot;Aptoid&quot;? It&#39;s good for games made for one person?](https://www.reddit.com/r/androiddev/comments/ysre0c/does_anyone_heard_about_a_service_called_catapult/)
-- [Android Studio via Jetbrains Gateway?](https://www.reddit.com/r/androiddev/comments/yspeoq/android_studio_via_jetbrains_gateway/)
-- [Installs on Google play not updated](https://www.reddit.com/r/androiddev/comments/ysp2w5/installs_on_google_play_not_updated/)
-- [Why new games face with not distinguishable ad button rejection while many other games have them while having pegi3?](https://www.reddit.com/r/androiddev/comments/ysol66/why_new_games_face_with_not_distinguishable_ad/)
-- [How do I remove an app from the Play Store console?](https://www.reddit.com/r/androiddev/comments/yso1pl/how_do_i_remove_an_app_from_the_play_store_console/)
-- [Firebase Course](https://www.reddit.com/r/androiddev/comments/ysj6yk/firebase_course/)
-- [How do you go about sourcing art for your apps? icons, backgrounds etc.](https://www.reddit.com/r/androiddev/comments/yshj1m/how_do_you_go_about_sourcing_art_for_your_apps/)
-- [Images, internal vs external storage.](https://www.reddit.com/r/androiddev/comments/yshh9p/images_internal_vs_external_storage/)
-- [Need an advanced developer&#39;s recomendation on what begginer should focus on](https://www.reddit.com/r/androiddev/comments/ysd2ld/need_an_advanced_developers_recomendation_on_what/)
-- [Should I judt switch to flutter?](https://www.reddit.com/r/androiddev/comments/ysc7nm/should_i_judt_switch_to_flutter/)
+- [How do we report Android Apps CameraX broken on ChromeOS ?](https://www.reddit.com/r/androiddev/comments/ytn3nv/how_do_we_report_android_apps_camerax_broken_on/)
+- [I dont understand how to optimize Play Store Keywords AND screenshots at the same time](https://www.reddit.com/r/androiddev/comments/ytly2x/i_dont_understand_how_to_optimize_play_store/)
+- [Tielapse Audio Recording Android App.](https://www.reddit.com/r/androiddev/comments/ytl396/tielapse_audio_recording_android_app/)
+- [Fairer pricing for developing countries - I made a free pricing scheme generator which imports directly into the Play Store based on Purchasing Power Parity](https://www.reddit.com/r/androiddev/comments/ytipky/fairer_pricing_for_developing_countries_i_made_a/)
+- [My Issue In My Project](https://www.reddit.com/r/androiddev/comments/ytikre/my_issue_in_my_project/)
+- [When you download an Android app and then it has annoying advertising that you have to pay to get rid of what software is it that puts the advertising in the app, is it Adsense?](https://www.reddit.com/r/androiddev/comments/ytgbvp/when_you_download_an_android_app_and_then_it_has/)
+- [Android Weekly has fixed their rss feed 🎉](https://www.reddit.com/r/androiddev/comments/yta2eg/android_weekly_has_fixed_their_rss_feed/)
+- [Indicators like on ios, circle indicators, gooey indicators, scaled and dot indicators written with Jetpack Compose for Android.](https://www.reddit.com/r/androiddev/comments/yt9d7e/indicators_like_on_ios_circle_indicators_gooey/)
+- [TikTok clone: Which cloud storage and CDN should we use?](https://www.reddit.com/r/androiddev/comments/yt8yzr/tiktok_clone_which_cloud_storage_and_cdn_should/)
+- [Good place for hosting apks on a static site?](https://www.reddit.com/r/androiddev/comments/yt6x1l/good_place_for_hosting_apks_on_a_static_site/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
