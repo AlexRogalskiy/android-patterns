@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do we report Android Apps CameraX broken on ChromeOS ?](https://www.reddit.com/r/androiddev/comments/ytn3nv/how_do_we_report_android_apps_camerax_broken_on/)
-- [I dont understand how to optimize Play Store Keywords AND screenshots at the same time](https://www.reddit.com/r/androiddev/comments/ytly2x/i_dont_understand_how_to_optimize_play_store/)
-- [Tielapse Audio Recording Android App.](https://www.reddit.com/r/androiddev/comments/ytl396/tielapse_audio_recording_android_app/)
-- [Fairer pricing for developing countries - I made a free pricing scheme generator which imports directly into the Play Store based on Purchasing Power Parity](https://www.reddit.com/r/androiddev/comments/ytipky/fairer_pricing_for_developing_countries_i_made_a/)
-- [My Issue In My Project](https://www.reddit.com/r/androiddev/comments/ytikre/my_issue_in_my_project/)
-- [When you download an Android app and then it has annoying advertising that you have to pay to get rid of what software is it that puts the advertising in the app, is it Adsense?](https://www.reddit.com/r/androiddev/comments/ytgbvp/when_you_download_an_android_app_and_then_it_has/)
-- [Android Weekly has fixed their rss feed 🎉](https://www.reddit.com/r/androiddev/comments/yta2eg/android_weekly_has_fixed_their_rss_feed/)
-- [Indicators like on ios, circle indicators, gooey indicators, scaled and dot indicators written with Jetpack Compose for Android.](https://www.reddit.com/r/androiddev/comments/yt9d7e/indicators_like_on_ios_circle_indicators_gooey/)
-- [TikTok clone: Which cloud storage and CDN should we use?](https://www.reddit.com/r/androiddev/comments/yt8yzr/tiktok_clone_which_cloud_storage_and_cdn_should/)
-- [Good place for hosting apks on a static site?](https://www.reddit.com/r/androiddev/comments/yt6x1l/good_place_for_hosting_apks_on_a_static_site/)
+- [What is the BLE Eddystone Beacon?](https://www.reddit.com/r/androiddev/comments/yughk7/what_is_the_ble_eddystone_beacon/)
+- [How Do I Make Another Electronic Device Communicate With My App?](https://www.reddit.com/r/androiddev/comments/yug631/how_do_i_make_another_electronic_device/)
+- [How To Connect An Existing Website With My App?](https://www.reddit.com/r/androiddev/comments/yufmgp/how_to_connect_an_existing_website_with_my_app/)
+- [Test Driven Data Structures in Kotlin - Linked List](https://www.reddit.com/r/androiddev/comments/yube34/test_driven_data_structures_in_kotlin_linked_list/)
+- [how to record non mhl phone with capture card and obs](https://www.reddit.com/r/androiddev/comments/yuayha/how_to_record_non_mhl_phone_with_capture_card_and/)
+- [Monetization, only monthly subscription or have yearly &amp; OTP along with it?](https://www.reddit.com/r/androiddev/comments/yuae1e/monetization_only_monthly_subscription_or_have/)
+- [Very low number of received fcm data messages since 8 November. Am I the only one?](https://www.reddit.com/r/androiddev/comments/yu8taz/very_low_number_of_received_fcm_data_messages/)
+- [Extremely slow review process &lpar;10+ days for every update&rpar;, is it the target age range?](https://www.reddit.com/r/androiddev/comments/yu62dv/extremely_slow_review_process_10_days_for_every/)
+- [Is there any product category API that you can suggest?](https://www.reddit.com/r/androiddev/comments/yu59q2/is_there_any_product_category_api_that_you_can/)
+- [How Are Android Studio Plug-ins Made?](https://www.reddit.com/r/androiddev/comments/yu569e/how_are_android_studio_plugins_made/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
