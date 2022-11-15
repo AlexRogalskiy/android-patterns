@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the BLE Eddystone Beacon?](https://www.reddit.com/r/androiddev/comments/yughk7/what_is_the_ble_eddystone_beacon/)
-- [How Do I Make Another Electronic Device Communicate With My App?](https://www.reddit.com/r/androiddev/comments/yug631/how_do_i_make_another_electronic_device/)
-- [How To Connect An Existing Website With My App?](https://www.reddit.com/r/androiddev/comments/yufmgp/how_to_connect_an_existing_website_with_my_app/)
-- [Test Driven Data Structures in Kotlin - Linked List](https://www.reddit.com/r/androiddev/comments/yube34/test_driven_data_structures_in_kotlin_linked_list/)
-- [how to record non mhl phone with capture card and obs](https://www.reddit.com/r/androiddev/comments/yuayha/how_to_record_non_mhl_phone_with_capture_card_and/)
-- [Monetization, only monthly subscription or have yearly &amp; OTP along with it?](https://www.reddit.com/r/androiddev/comments/yuae1e/monetization_only_monthly_subscription_or_have/)
-- [Very low number of received fcm data messages since 8 November. Am I the only one?](https://www.reddit.com/r/androiddev/comments/yu8taz/very_low_number_of_received_fcm_data_messages/)
-- [Extremely slow review process &lpar;10+ days for every update&rpar;, is it the target age range?](https://www.reddit.com/r/androiddev/comments/yu62dv/extremely_slow_review_process_10_days_for_every/)
-- [Is there any product category API that you can suggest?](https://www.reddit.com/r/androiddev/comments/yu59q2/is_there_any_product_category_api_that_you_can/)
-- [How Are Android Studio Plug-ins Made?](https://www.reddit.com/r/androiddev/comments/yu569e/how_are_android_studio_plugins_made/)
+- [Cannot get Android TV Emulator to start](https://www.reddit.com/r/androiddev/comments/yvka34/cannot_get_android_tv_emulator_to_start/)
+- [VITA Mod Apk Download 234.4.1[Pro] [No Watermark]](https://www.reddit.com/r/androiddev/comments/yvjzfl/vita_mod_apk_download_23441pro_no_watermark/)
+- [Game test from internal branch has default icon even though it is assigned in Main Store Listing](https://www.reddit.com/r/androiddev/comments/yvjlcq/game_test_from_internal_branch_has_default_icon/)
+- [Blurring the Lines](https://www.reddit.com/r/androiddev/comments/yvj53v/blurring_the_lines/)
+- [Need help understanding some terms](https://www.reddit.com/r/androiddev/comments/yvidra/need_help_understanding_some_terms/)
+- [Marquee with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/yvh9kr/marquee_with_jetpack_compose/)
+- [What next after the developer.android.com courses?](https://www.reddit.com/r/androiddev/comments/yvg3ka/what_next_after_the_developerandroidcom_courses/)
+- [What got you started into android dev and where did you learn and get your resources from?](https://www.reddit.com/r/androiddev/comments/yvfs69/what_got_you_started_into_android_dev_and_where/)
+- [Google Play Services On Cuttlefish](https://www.reddit.com/r/androiddev/comments/yve3rl/google_play_services_on_cuttlefish/)
+- [Idk why Google Cloud it&#39;s so buggy when I need to use it 🤷‍♂](https://www.reddit.com/r/androiddev/comments/yvd5nz/idk_why_google_cloud_its_so_buggy_when_i_need_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
