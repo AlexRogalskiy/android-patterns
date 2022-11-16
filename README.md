@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cannot get Android TV Emulator to start](https://www.reddit.com/r/androiddev/comments/yvka34/cannot_get_android_tv_emulator_to_start/)
-- [VITA Mod Apk Download 234.4.1[Pro] [No Watermark]](https://www.reddit.com/r/androiddev/comments/yvjzfl/vita_mod_apk_download_23441pro_no_watermark/)
-- [Game test from internal branch has default icon even though it is assigned in Main Store Listing](https://www.reddit.com/r/androiddev/comments/yvjlcq/game_test_from_internal_branch_has_default_icon/)
-- [Blurring the Lines](https://www.reddit.com/r/androiddev/comments/yvj53v/blurring_the_lines/)
-- [Need help understanding some terms](https://www.reddit.com/r/androiddev/comments/yvidra/need_help_understanding_some_terms/)
-- [Marquee with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/yvh9kr/marquee_with_jetpack_compose/)
-- [What next after the developer.android.com courses?](https://www.reddit.com/r/androiddev/comments/yvg3ka/what_next_after_the_developerandroidcom_courses/)
-- [What got you started into android dev and where did you learn and get your resources from?](https://www.reddit.com/r/androiddev/comments/yvfs69/what_got_you_started_into_android_dev_and_where/)
-- [Google Play Services On Cuttlefish](https://www.reddit.com/r/androiddev/comments/yve3rl/google_play_services_on_cuttlefish/)
-- [Idk why Google Cloud it&#39;s so buggy when I need to use it 🤷‍♂](https://www.reddit.com/r/androiddev/comments/yvd5nz/idk_why_google_cloud_its_so_buggy_when_i_need_to/)
+- [Should I start a developement project knowing that it has basically mo use case, but for sure, I&#39;ll learn a lot of things on the project?](https://www.reddit.com/r/androiddev/comments/ywhg4e/should_i_start_a_developement_project_knowing/)
+- [Wat requirements is Google Play looking for to badge an app GO Optimized?](https://www.reddit.com/r/androiddev/comments/ywf5cb/wat_requirements_is_google_play_looking_for_to/)
+- [Are developers allowed to ban by IP and/or Device ID? ty](https://www.reddit.com/r/androiddev/comments/ywddb7/are_developers_allowed_to_ban_by_ip_andor_device/)
+- [As an inexperienced developer, I really don&#39;t understand the need for unit testing.](https://www.reddit.com/r/androiddev/comments/ywd0to/as_an_inexperienced_developer_i_really_dont/)
+- [Floating window on top of activities](https://www.reddit.com/r/androiddev/comments/ywazxt/floating_window_on_top_of_activities/)
+- [How is Pixel so good on Instagram?](https://www.reddit.com/r/androiddev/comments/yw9wwd/how_is_pixel_so_good_on_instagram/)
+- [How Often Do Freelancers Work In Groups?](https://www.reddit.com/r/androiddev/comments/yw9qdw/how_often_do_freelancers_work_in_groups/)
+- [What is your opinion on Flutter vs Jetpack Compose ?](https://www.reddit.com/r/androiddev/comments/yw8bde/what_is_your_opinion_on_flutter_vs_jetpack_compose/)
+- [Who cares about performance?](https://www.reddit.com/r/androiddev/comments/yw7454/who_cares_about_performance/)
+- [Is it normal during development for crashes after everything was working fine a few minutes ago?](https://www.reddit.com/r/androiddev/comments/yw6sn2/is_it_normal_during_development_for_crashes_after/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
