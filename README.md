@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kiosk App with App Launcher/Dock/Ribbon/Sidebar?](https://www.reddit.com/r/androiddev/comments/yxdnuo/kiosk_app_with_app_launcherdockribbonsidebar/)
-- [Flutter vs Jetpack Compose: The Battle of the Decade](https://www.reddit.com/r/androiddev/comments/yxcpih/flutter_vs_jetpack_compose_the_battle_of_the/)
-- [Does anyone know when the Motorola G Power 2022 gets Android 12 update](https://www.reddit.com/r/androiddev/comments/yxb4pg/does_anyone_know_when_the_motorola_g_power_2022/)
-- [I&#39;m a UI Designer. Just wanna ask if constant UI iterations can be hard in the dev part?](https://www.reddit.com/r/androiddev/comments/yxaca5/im_a_ui_designer_just_wanna_ask_if_constant_ui/)
-- [Ideas for sharing code between Android and Linux devices](https://www.reddit.com/r/androiddev/comments/yx8roh/ideas_for_sharing_code_between_android_and_linux/)
-- [Send data between two classes](https://www.reddit.com/r/androiddev/comments/yx6n53/send_data_between_two_classes/)
-- [do any one know how to get this effect? I couldn&#39;t find it .](https://www.reddit.com/r/androiddev/comments/yx64ja/do_any_one_know_how_to_get_this_effect_i_couldnt/)
-- [Permanent Gps tracking in background possible?](https://www.reddit.com/r/androiddev/comments/yx556g/permanent_gps_tracking_in_background_possible/)
-- [How to handle state if you have TextFields in LazyColumn?](https://www.reddit.com/r/androiddev/comments/yx28m4/how_to_handle_state_if_you_have_textfields_in/)
-- [how do I get a registered passkey prompt to show instead of the standard thumbprint prompt?](https://www.reddit.com/r/androiddev/comments/yx1ivn/how_do_i_get_a_registered_passkey_prompt_to_show/)
+- [Publishing to the Microsoft Store?](https://www.reddit.com/r/androiddev/comments/yy5vhp/publishing_to_the_microsoft_store/)
+- [Samsung Android 13 beta program - What is the point of restricting country?](https://www.reddit.com/r/androiddev/comments/yy3nu8/samsung_android_13_beta_program_what_is_the_point/)
+- [In App purchase policy](https://www.reddit.com/r/androiddev/comments/yy3jwv/in_app_purchase_policy/)
+- [What resources are out there for learning advanced Android UI design?](https://www.reddit.com/r/androiddev/comments/yy19ip/what_resources_are_out_there_for_learning/)
+- [Is it possible to run x86 Android images on Apple Silicon?](https://www.reddit.com/r/androiddev/comments/yy0ivi/is_it_possible_to_run_x86_android_images_on_apple/)
+- [Is Flippa sellers reliable?](https://www.reddit.com/r/androiddev/comments/yy0iao/is_flippa_sellers_reliable/)
+- [Experienced Android Devs - Have you been able to comfortably work for yourself? Through freelance, consulting or entrepreneurship?](https://www.reddit.com/r/androiddev/comments/yxzfsh/experienced_android_devs_have_you_been_able_to/)
+- [Does your product team really get what your app is doing?](https://www.reddit.com/r/androiddev/comments/yxwxc3/does_your_product_team_really_get_what_your_app/)
+- [How can i change status bar icons color to any color?](https://www.reddit.com/r/androiddev/comments/yxwvho/how_can_i_change_status_bar_icons_color_to_any/)
+- [UI/UX designer](https://www.reddit.com/r/androiddev/comments/yxwuax/uiux_designer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
