@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Publishing to the Microsoft Store?](https://www.reddit.com/r/androiddev/comments/yy5vhp/publishing_to_the_microsoft_store/)
-- [Samsung Android 13 beta program - What is the point of restricting country?](https://www.reddit.com/r/androiddev/comments/yy3nu8/samsung_android_13_beta_program_what_is_the_point/)
-- [In App purchase policy](https://www.reddit.com/r/androiddev/comments/yy3jwv/in_app_purchase_policy/)
-- [What resources are out there for learning advanced Android UI design?](https://www.reddit.com/r/androiddev/comments/yy19ip/what_resources_are_out_there_for_learning/)
-- [Is it possible to run x86 Android images on Apple Silicon?](https://www.reddit.com/r/androiddev/comments/yy0ivi/is_it_possible_to_run_x86_android_images_on_apple/)
-- [Is Flippa sellers reliable?](https://www.reddit.com/r/androiddev/comments/yy0iao/is_flippa_sellers_reliable/)
-- [Experienced Android Devs - Have you been able to comfortably work for yourself? Through freelance, consulting or entrepreneurship?](https://www.reddit.com/r/androiddev/comments/yxzfsh/experienced_android_devs_have_you_been_able_to/)
-- [Does your product team really get what your app is doing?](https://www.reddit.com/r/androiddev/comments/yxwxc3/does_your_product_team_really_get_what_your_app/)
-- [How can i change status bar icons color to any color?](https://www.reddit.com/r/androiddev/comments/yxwvho/how_can_i_change_status_bar_icons_color_to_any/)
-- [UI/UX designer](https://www.reddit.com/r/androiddev/comments/yxwuax/uiux_designer/)
+- [Dependency injection. What to choose ? Custom made, dagger2, hilt, koin ?](https://www.reddit.com/r/androiddev/comments/yyzvn1/dependency_injection_what_to_choose_custom_made/)
+- [I am interested in get data from sensors in an Android phone uploaded to a server/ sql/ nettside. Must it be an APP doing so, or is there other possibilities?](https://www.reddit.com/r/androiddev/comments/yyul7a/i_am_interested_in_get_data_from_sensors_in_an/)
+- [22k daily/260k monthly active users. Emerging markets. How much money could this app make?](https://www.reddit.com/r/androiddev/comments/yyu1uo/22k_daily260k_monthly_active_users_emerging/)
+- [Good code quality android projects on github you’d recommend for learning purposes?](https://www.reddit.com/r/androiddev/comments/yyt91s/good_code_quality_android_projects_on_github_youd/)
+- [IT student wants to learn android](https://www.reddit.com/r/androiddev/comments/yyt860/it_student_wants_to_learn_android/)
+- [Is it true that Android Studio is faster on Linux than on Windows?](https://www.reddit.com/r/androiddev/comments/yysg2w/is_it_true_that_android_studio_is_faster_on_linux/)
+- [How do I get more uninterrupted dev time?](https://www.reddit.com/r/androiddev/comments/yyqq0s/how_do_i_get_more_uninterrupted_dev_time/)
+- [Kotlin Lambda &lpar;High order functions&rpar; memory leaks?](https://www.reddit.com/r/androiddev/comments/yyny41/kotlin_lambda_high_order_functions_memory_leaks/)
+- [Dynamic Ui](https://www.reddit.com/r/androiddev/comments/yynvcb/dynamic_ui/)
+- [Accessing the user’s current location and location history without their permission on &lpar;older versions of&rpar; Android](https://www.reddit.com/r/androiddev/comments/yyla2d/accessing_the_users_current_location_and_location/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
