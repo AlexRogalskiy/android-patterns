@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dependency injection. What to choose ? Custom made, dagger2, hilt, koin ?](https://www.reddit.com/r/androiddev/comments/yyzvn1/dependency_injection_what_to_choose_custom_made/)
-- [I am interested in get data from sensors in an Android phone uploaded to a server/ sql/ nettside. Must it be an APP doing so, or is there other possibilities?](https://www.reddit.com/r/androiddev/comments/yyul7a/i_am_interested_in_get_data_from_sensors_in_an/)
-- [22k daily/260k monthly active users. Emerging markets. How much money could this app make?](https://www.reddit.com/r/androiddev/comments/yyu1uo/22k_daily260k_monthly_active_users_emerging/)
-- [Good code quality android projects on github you’d recommend for learning purposes?](https://www.reddit.com/r/androiddev/comments/yyt91s/good_code_quality_android_projects_on_github_youd/)
-- [IT student wants to learn android](https://www.reddit.com/r/androiddev/comments/yyt860/it_student_wants_to_learn_android/)
-- [Is it true that Android Studio is faster on Linux than on Windows?](https://www.reddit.com/r/androiddev/comments/yysg2w/is_it_true_that_android_studio_is_faster_on_linux/)
-- [How do I get more uninterrupted dev time?](https://www.reddit.com/r/androiddev/comments/yyqq0s/how_do_i_get_more_uninterrupted_dev_time/)
-- [Kotlin Lambda &lpar;High order functions&rpar; memory leaks?](https://www.reddit.com/r/androiddev/comments/yyny41/kotlin_lambda_high_order_functions_memory_leaks/)
-- [Dynamic Ui](https://www.reddit.com/r/androiddev/comments/yynvcb/dynamic_ui/)
-- [Accessing the user’s current location and location history without their permission on &lpar;older versions of&rpar; Android](https://www.reddit.com/r/androiddev/comments/yyla2d/accessing_the_users_current_location_and_location/)
+- [Advice for beginner](https://www.reddit.com/r/androiddev/comments/yzr29y/advice_for_beginner/)
+- [I feel like I have done the biggest mistake as an Android dev](https://www.reddit.com/r/androiddev/comments/yzqiyd/i_feel_like_i_have_done_the_biggest_mistake_as_an/)
+- [How to make sure that the app does not crash when it is interrupted?](https://www.reddit.com/r/androiddev/comments/yzoa11/how_to_make_sure_that_the_app_does_not_crash_when/)
+- [How Long did it take you](https://www.reddit.com/r/androiddev/comments/yzna7t/how_long_did_it_take_you/)
+- [Tips for gaining installs?](https://www.reddit.com/r/androiddev/comments/yzm01x/tips_for_gaining_installs/)
+- [Whats the difference between Google Fit and Health Connect?](https://www.reddit.com/r/androiddev/comments/yzko16/whats_the_difference_between_google_fit_and/)
+- [Injecting something via hilt into app: Application&lpar;&rpar; is bad practice or not?](https://www.reddit.com/r/androiddev/comments/yzk6s8/injecting_something_via_hilt_into_app_application/)
+- [Major AdMob NullPointerException crash surfacing](https://www.reddit.com/r/androiddev/comments/yzh6j2/major_admob_nullpointerexception_crash_surfacing/)
+- [What percentage should i ask for a developing a project?](https://www.reddit.com/r/androiddev/comments/yzgmko/what_percentage_should_i_ask_for_a_developing_a/)
+- [How often do you not know the implementation of a given feature when assigned a project/task?](https://www.reddit.com/r/androiddev/comments/yzdr72/how_often_do_you_not_know_the_implementation_of_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
