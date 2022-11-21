@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Advice for beginner](https://www.reddit.com/r/androiddev/comments/yzr29y/advice_for_beginner/)
-- [I feel like I have done the biggest mistake as an Android dev](https://www.reddit.com/r/androiddev/comments/yzqiyd/i_feel_like_i_have_done_the_biggest_mistake_as_an/)
-- [How to make sure that the app does not crash when it is interrupted?](https://www.reddit.com/r/androiddev/comments/yzoa11/how_to_make_sure_that_the_app_does_not_crash_when/)
-- [How Long did it take you](https://www.reddit.com/r/androiddev/comments/yzna7t/how_long_did_it_take_you/)
-- [Tips for gaining installs?](https://www.reddit.com/r/androiddev/comments/yzm01x/tips_for_gaining_installs/)
-- [Whats the difference between Google Fit and Health Connect?](https://www.reddit.com/r/androiddev/comments/yzko16/whats_the_difference_between_google_fit_and/)
-- [Injecting something via hilt into app: Application&lpar;&rpar; is bad practice or not?](https://www.reddit.com/r/androiddev/comments/yzk6s8/injecting_something_via_hilt_into_app_application/)
-- [Major AdMob NullPointerException crash surfacing](https://www.reddit.com/r/androiddev/comments/yzh6j2/major_admob_nullpointerexception_crash_surfacing/)
-- [What percentage should i ask for a developing a project?](https://www.reddit.com/r/androiddev/comments/yzgmko/what_percentage_should_i_ask_for_a_developing_a/)
-- [How often do you not know the implementation of a given feature when assigned a project/task?](https://www.reddit.com/r/androiddev/comments/yzdr72/how_often_do_you_not_know_the_implementation_of_a/)
+- [Best Kotlin Books for Beginners and Developers Must know 2022 -](https://www.reddit.com/r/androiddev/comments/z0mffd/best_kotlin_books_for_beginners_and_developers/)
+- [Google play ratings not changing?](https://www.reddit.com/r/androiddev/comments/z0l03z/google_play_ratings_not_changing/)
+- [Deep link behind proxy fails verification due to CA certificate not being trusted](https://www.reddit.com/r/androiddev/comments/z0imx3/deep_link_behind_proxy_fails_verification_due_to/)
+- [Android Jetpack Country Code Picker](https://www.reddit.com/r/androiddev/comments/z0hom0/android_jetpack_country_code_picker/)
+- [I have completed my Android Sound Synthesizer App Tutorial! Learn modern Android development &lpar;Kotlin, Jetpack Compose, ViewModels&rpar; and sound control &lpar;C++, the Oboe library, CMake, JNI, and Kotlin external functions&rpar; -&gt; 100% step-by-step project for beginners in 6 parts :&rpar; &lpar;source code included&rpar;](https://www.reddit.com/r/androiddev/comments/z0d0s6/i_have_completed_my_android_sound_synthesizer_app/)
+- [Should I Learn React?](https://www.reddit.com/r/androiddev/comments/z0co38/should_i_learn_react/)
+- [Do threads get auto paused?](https://www.reddit.com/r/androiddev/comments/z067xg/do_threads_get_auto_paused/)
+- [should i check internet connectivity in viewModel or repository?](https://www.reddit.com/r/androiddev/comments/z03c9u/should_i_check_internet_connectivity_in_viewmodel/)
+- [So, where do we ask for help with coding questions? Asking a question on Stackoverflow gets you nowhere and you sometimes get a warning for asking a &quot;bad&quot; question. Admins of this subreddit also don&#39;t allow asking Android coding questions.](https://www.reddit.com/r/androiddev/comments/yzz8da/so_where_do_we_ask_for_help_with_coding_questions/)
+- [test the Microsoft Intune’s encrypt mobile on a virtual andriod](https://www.reddit.com/r/androiddev/comments/yzz3ae/test_the_microsoft_intunes_encrypt_mobile_on_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
