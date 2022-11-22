@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best Kotlin Books for Beginners and Developers Must know 2022 -](https://www.reddit.com/r/androiddev/comments/z0mffd/best_kotlin_books_for_beginners_and_developers/)
-- [Google play ratings not changing?](https://www.reddit.com/r/androiddev/comments/z0l03z/google_play_ratings_not_changing/)
-- [Deep link behind proxy fails verification due to CA certificate not being trusted](https://www.reddit.com/r/androiddev/comments/z0imx3/deep_link_behind_proxy_fails_verification_due_to/)
-- [Android Jetpack Country Code Picker](https://www.reddit.com/r/androiddev/comments/z0hom0/android_jetpack_country_code_picker/)
-- [I have completed my Android Sound Synthesizer App Tutorial! Learn modern Android development &lpar;Kotlin, Jetpack Compose, ViewModels&rpar; and sound control &lpar;C++, the Oboe library, CMake, JNI, and Kotlin external functions&rpar; -&gt; 100% step-by-step project for beginners in 6 parts :&rpar; &lpar;source code included&rpar;](https://www.reddit.com/r/androiddev/comments/z0d0s6/i_have_completed_my_android_sound_synthesizer_app/)
-- [Should I Learn React?](https://www.reddit.com/r/androiddev/comments/z0co38/should_i_learn_react/)
-- [Do threads get auto paused?](https://www.reddit.com/r/androiddev/comments/z067xg/do_threads_get_auto_paused/)
-- [should i check internet connectivity in viewModel or repository?](https://www.reddit.com/r/androiddev/comments/z03c9u/should_i_check_internet_connectivity_in_viewmodel/)
-- [So, where do we ask for help with coding questions? Asking a question on Stackoverflow gets you nowhere and you sometimes get a warning for asking a &quot;bad&quot; question. Admins of this subreddit also don&#39;t allow asking Android coding questions.](https://www.reddit.com/r/androiddev/comments/yzz8da/so_where_do_we_ask_for_help_with_coding_questions/)
-- [test the Microsoft Intune’s encrypt mobile on a virtual andriod](https://www.reddit.com/r/androiddev/comments/yzz3ae/test_the_microsoft_intunes_encrypt_mobile_on_a/)
+- [Does anyone know how to implement what&#39;s shown in this video using nav graphs xml instead of jetpack compose?](https://www.reddit.com/r/androiddev/comments/z1hu44/does_anyone_know_how_to_implement_whats_shown_in/)
+- [Way to use Pixel Camera Services or Samsung optimization for 3rd party apps for any android](https://www.reddit.com/r/androiddev/comments/z1e2m0/way_to_use_pixel_camera_services_or_samsung/)
+- [Submitting to Internal testing](https://www.reddit.com/r/androiddev/comments/z1dahf/submitting_to_internal_testing/)
+- [hey what does this button do?](https://www.reddit.com/r/androiddev/comments/z1c6yy/hey_what_does_this_button_do/)
+- [Freelancing as an android developer](https://www.reddit.com/r/androiddev/comments/z1bekm/freelancing_as_an_android_developer/)
+- [Is Flutter stable enough to run a social media app on android?](https://www.reddit.com/r/androiddev/comments/z18faj/is_flutter_stable_enough_to_run_a_social_media/)
+- [If you freelance, did picking up devops skills make you more marketable?](https://www.reddit.com/r/androiddev/comments/z17k5n/if_you_freelance_did_picking_up_devops_skills/)
+- [Google Location Provider Build Error In Custom MicroG ROM](https://www.reddit.com/r/androiddev/comments/z15ueq/google_location_provider_build_error_in_custom/)
+- [A modern color picker for &quot;Jetpack Compose&quot; with multiple types of styles](https://www.reddit.com/r/androiddev/comments/z15dv1/a_modern_color_picker_for_jetpack_compose_with/)
+- [Urgent help needed](https://www.reddit.com/r/androiddev/comments/z14rbr/urgent_help_needed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
