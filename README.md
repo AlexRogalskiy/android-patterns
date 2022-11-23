@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does anyone know how to implement what&#39;s shown in this video using nav graphs xml instead of jetpack compose?](https://www.reddit.com/r/androiddev/comments/z1hu44/does_anyone_know_how_to_implement_whats_shown_in/)
-- [Way to use Pixel Camera Services or Samsung optimization for 3rd party apps for any android](https://www.reddit.com/r/androiddev/comments/z1e2m0/way_to_use_pixel_camera_services_or_samsung/)
-- [Submitting to Internal testing](https://www.reddit.com/r/androiddev/comments/z1dahf/submitting_to_internal_testing/)
-- [hey what does this button do?](https://www.reddit.com/r/androiddev/comments/z1c6yy/hey_what_does_this_button_do/)
-- [Freelancing as an android developer](https://www.reddit.com/r/androiddev/comments/z1bekm/freelancing_as_an_android_developer/)
-- [Is Flutter stable enough to run a social media app on android?](https://www.reddit.com/r/androiddev/comments/z18faj/is_flutter_stable_enough_to_run_a_social_media/)
-- [If you freelance, did picking up devops skills make you more marketable?](https://www.reddit.com/r/androiddev/comments/z17k5n/if_you_freelance_did_picking_up_devops_skills/)
-- [Google Location Provider Build Error In Custom MicroG ROM](https://www.reddit.com/r/androiddev/comments/z15ueq/google_location_provider_build_error_in_custom/)
-- [A modern color picker for &quot;Jetpack Compose&quot; with multiple types of styles](https://www.reddit.com/r/androiddev/comments/z15dv1/a_modern_color_picker_for_jetpack_compose_with/)
-- [Urgent help needed](https://www.reddit.com/r/androiddev/comments/z14rbr/urgent_help_needed/)
+- [How to create same on click listener for multiple buttons using kotlin.](https://www.reddit.com/r/androiddev/comments/z2bm7t/how_to_create_same_on_click_listener_for_multiple/)
+- [A full-featured navigation framework that supports Activity、Fragment and Compose](https://www.reddit.com/r/androiddev/comments/z2b93a/a_fullfeatured_navigation_framework_that_supports/)
+- [Retrofitting null-safety onto Java at Meta](https://www.reddit.com/r/androiddev/comments/z29d6z/retrofitting_nullsafety_onto_java_at_meta/)
+- [If you freelance in the states, how often do recruiters come to you with jobs?](https://www.reddit.com/r/androiddev/comments/z25xf2/if_you_freelance_in_the_states_how_often_do/)
+- [I play around with Compose and post my findings on Twitter. Gists often included for everyone to check out.](https://www.reddit.com/r/androiddev/comments/z25bq6/i_play_around_with_compose_and_post_my_findings/)
+- [Download android studio in another drive other than default C: drive?](https://www.reddit.com/r/androiddev/comments/z256k0/download_android_studio_in_another_drive_other/)
+- [Survey on cross-platform mobile development frameworks](https://www.reddit.com/r/androiddev/comments/z21dns/survey_on_crossplatform_mobile_development/)
+- [Do most companies use Web View to render User interfaces at big companies or do they rely on building static layouts and rendering it with content?](https://www.reddit.com/r/androiddev/comments/z214gl/do_most_companies_use_web_view_to_render_user/)
+- [What is the best approach to update data in real time from repository &lpar; network &rpar; in Jetpack compose ?](https://www.reddit.com/r/androiddev/comments/z1xvnd/what_is_the_best_approach_to_update_data_in_real/)
+- [Test Driven Data Structures in Kotlin, Linked Lists pt. 2!](https://www.reddit.com/r/androiddev/comments/z1xp79/test_driven_data_structures_in_kotlin_linked/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
