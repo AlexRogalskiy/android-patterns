@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to create same on click listener for multiple buttons using kotlin.](https://www.reddit.com/r/androiddev/comments/z2bm7t/how_to_create_same_on_click_listener_for_multiple/)
-- [A full-featured navigation framework that supports Activity、Fragment and Compose](https://www.reddit.com/r/androiddev/comments/z2b93a/a_fullfeatured_navigation_framework_that_supports/)
-- [Retrofitting null-safety onto Java at Meta](https://www.reddit.com/r/androiddev/comments/z29d6z/retrofitting_nullsafety_onto_java_at_meta/)
-- [If you freelance in the states, how often do recruiters come to you with jobs?](https://www.reddit.com/r/androiddev/comments/z25xf2/if_you_freelance_in_the_states_how_often_do/)
-- [I play around with Compose and post my findings on Twitter. Gists often included for everyone to check out.](https://www.reddit.com/r/androiddev/comments/z25bq6/i_play_around_with_compose_and_post_my_findings/)
-- [Download android studio in another drive other than default C: drive?](https://www.reddit.com/r/androiddev/comments/z256k0/download_android_studio_in_another_drive_other/)
-- [Survey on cross-platform mobile development frameworks](https://www.reddit.com/r/androiddev/comments/z21dns/survey_on_crossplatform_mobile_development/)
-- [Do most companies use Web View to render User interfaces at big companies or do they rely on building static layouts and rendering it with content?](https://www.reddit.com/r/androiddev/comments/z214gl/do_most_companies_use_web_view_to_render_user/)
-- [What is the best approach to update data in real time from repository &lpar; network &rpar; in Jetpack compose ?](https://www.reddit.com/r/androiddev/comments/z1xvnd/what_is_the_best_approach_to_update_data_in_real/)
-- [Test Driven Data Structures in Kotlin, Linked Lists pt. 2!](https://www.reddit.com/r/androiddev/comments/z1xp79/test_driven_data_structures_in_kotlin_linked/)
+- [What screenshot test library do you use?](https://www.reddit.com/r/androiddev/comments/z3594a/what_screenshot_test_library_do_you_use/)
+- [Building A Custom ROM for Android Cuttlefish?](https://www.reddit.com/r/androiddev/comments/z34cns/building_a_custom_rom_for_android_cuttlefish/)
+- [Where does android assign the duplicate file a &lt;number&gt; aka foo &lpar;2&rpar;.png](https://www.reddit.com/r/androiddev/comments/z33qhi/where_does_android_assign_the_duplicate_file_a/)
+- [Android Studio on Apple M1: location spoof and app login problems](https://www.reddit.com/r/androiddev/comments/z3371g/android_studio_on_apple_m1_location_spoof_and_app/)
+- [How hard is it to switch from Java in Android Studio to Kotlin?](https://www.reddit.com/r/androiddev/comments/z330y7/how_hard_is_it_to_switch_from_java_in_android/)
+- [Google Console Account Termination!](https://www.reddit.com/r/androiddev/comments/z304cx/google_console_account_termination/)
+- [Is one activity per layout the correct aproach?](https://www.reddit.com/r/androiddev/comments/z2yisz/is_one_activity_per_layout_the_correct_aproach/)
+- [Best way to move from Web app to Mobile app](https://www.reddit.com/r/androiddev/comments/z2y3ia/best_way_to_move_from_web_app_to_mobile_app/)
+- [Confusion about MVVM with list data](https://www.reddit.com/r/androiddev/comments/z2xsna/confusion_about_mvvm_with_list_data/)
+- [How To Build/Run Custom OS on Cuttlefish Virtual Device](https://www.reddit.com/r/androiddev/comments/z2wme5/how_to_buildrun_custom_os_on_cuttlefish_virtual/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
