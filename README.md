@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What screenshot test library do you use?](https://www.reddit.com/r/androiddev/comments/z3594a/what_screenshot_test_library_do_you_use/)
-- [Building A Custom ROM for Android Cuttlefish?](https://www.reddit.com/r/androiddev/comments/z34cns/building_a_custom_rom_for_android_cuttlefish/)
-- [Where does android assign the duplicate file a &lt;number&gt; aka foo &lpar;2&rpar;.png](https://www.reddit.com/r/androiddev/comments/z33qhi/where_does_android_assign_the_duplicate_file_a/)
-- [Android Studio on Apple M1: location spoof and app login problems](https://www.reddit.com/r/androiddev/comments/z3371g/android_studio_on_apple_m1_location_spoof_and_app/)
-- [How hard is it to switch from Java in Android Studio to Kotlin?](https://www.reddit.com/r/androiddev/comments/z330y7/how_hard_is_it_to_switch_from_java_in_android/)
-- [Google Console Account Termination!](https://www.reddit.com/r/androiddev/comments/z304cx/google_console_account_termination/)
-- [Is one activity per layout the correct aproach?](https://www.reddit.com/r/androiddev/comments/z2yisz/is_one_activity_per_layout_the_correct_aproach/)
-- [Best way to move from Web app to Mobile app](https://www.reddit.com/r/androiddev/comments/z2y3ia/best_way_to_move_from_web_app_to_mobile_app/)
-- [Confusion about MVVM with list data](https://www.reddit.com/r/androiddev/comments/z2xsna/confusion_about_mvvm_with_list_data/)
-- [How To Build/Run Custom OS on Cuttlefish Virtual Device](https://www.reddit.com/r/androiddev/comments/z2wme5/how_to_buildrun_custom_os_on_cuttlefish_virtual/)
+- [Anyone know what app this is ?](https://www.reddit.com/r/androiddev/comments/z40wqj/anyone_know_what_app_this_is/)
+- [What software do you used to recover your deleted Android Studio projects](https://www.reddit.com/r/androiddev/comments/z3zl2p/what_software_do_you_used_to_recover_your_deleted/)
+- [android pls, pls fix this bug /&lpar;feature?&rpar; ! 😵😵😵](https://www.reddit.com/r/androiddev/comments/z3wf73/android_pls_pls_fix_this_bug_feature/)
+- [How deep can the Real Time .updateChildren&lpar;&rpar; go?](https://www.reddit.com/r/androiddev/comments/z3uqmp/how_deep_can_the_real_time_updatechildren_go/)
+- [Failed to resolve: io.fotoapparat:fotoapparat:2.7.0](https://www.reddit.com/r/androiddev/comments/z3ufn5/failed_to_resolve_iofotoapparatfotoapparat270/)
+- [What is your favorite Android Studio plugin?](https://www.reddit.com/r/androiddev/comments/z3tyln/what_is_your_favorite_android_studio_plugin/)
+- [implantation of vpn protocols](https://www.reddit.com/r/androiddev/comments/z3ts42/implantation_of_vpn_protocols/)
+- [Baseline profiles makes app slower on some devices?](https://www.reddit.com/r/androiddev/comments/z3tcfa/baseline_profiles_makes_app_slower_on_some_devices/)
+- [Paparazzi Android Studio plugin to record, verify and view the snapshots within the IDE.](https://www.reddit.com/r/androiddev/comments/z3taq6/paparazzi_android_studio_plugin_to_record_verify/)
+- [How do apps like WhatsApp send Stylised high priority push notifications?](https://www.reddit.com/r/androiddev/comments/z3rse5/how_do_apps_like_whatsapp_send_stylised_high/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
