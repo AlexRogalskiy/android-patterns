@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone know what app this is ?](https://www.reddit.com/r/androiddev/comments/z40wqj/anyone_know_what_app_this_is/)
-- [What software do you used to recover your deleted Android Studio projects](https://www.reddit.com/r/androiddev/comments/z3zl2p/what_software_do_you_used_to_recover_your_deleted/)
-- [android pls, pls fix this bug /&lpar;feature?&rpar; ! 😵😵😵](https://www.reddit.com/r/androiddev/comments/z3wf73/android_pls_pls_fix_this_bug_feature/)
-- [How deep can the Real Time .updateChildren&lpar;&rpar; go?](https://www.reddit.com/r/androiddev/comments/z3uqmp/how_deep_can_the_real_time_updatechildren_go/)
-- [Failed to resolve: io.fotoapparat:fotoapparat:2.7.0](https://www.reddit.com/r/androiddev/comments/z3ufn5/failed_to_resolve_iofotoapparatfotoapparat270/)
-- [What is your favorite Android Studio plugin?](https://www.reddit.com/r/androiddev/comments/z3tyln/what_is_your_favorite_android_studio_plugin/)
-- [implantation of vpn protocols](https://www.reddit.com/r/androiddev/comments/z3ts42/implantation_of_vpn_protocols/)
-- [Baseline profiles makes app slower on some devices?](https://www.reddit.com/r/androiddev/comments/z3tcfa/baseline_profiles_makes_app_slower_on_some_devices/)
-- [Paparazzi Android Studio plugin to record, verify and view the snapshots within the IDE.](https://www.reddit.com/r/androiddev/comments/z3taq6/paparazzi_android_studio_plugin_to_record_verify/)
-- [How do apps like WhatsApp send Stylised high priority push notifications?](https://www.reddit.com/r/androiddev/comments/z3rse5/how_do_apps_like_whatsapp_send_stylised_high/)
+- [Bluetooth pairing &quot;An app is needed for this device&quot;](https://www.reddit.com/r/androiddev/comments/z4q0lv/bluetooth_pairing_an_app_is_needed_for_this_device/)
+- [Can we call MobileAds.initialize in user thread?](https://www.reddit.com/r/androiddev/comments/z4mw5h/can_we_call_mobileadsinitialize_in_user_thread/)
+- [Everything you need to know about Google Play Billing Library 5](https://www.reddit.com/r/androiddev/comments/z4lq2w/everything_you_need_to_know_about_google_play/)
+- [Android Studio returns colors as long decimal](https://www.reddit.com/r/androiddev/comments/z4li8i/android_studio_returns_colors_as_long_decimal/)
+- [Analytics and KPI tools](https://www.reddit.com/r/androiddev/comments/z4ldzd/analytics_and_kpi_tools/)
+- [Gradle 7.6 Released](https://www.reddit.com/r/androiddev/comments/z4l3d1/gradle_76_released/)
+- [Does anyone know what the expected lifecycle of a NotificationListener service is.](https://www.reddit.com/r/androiddev/comments/z4l2sz/does_anyone_know_what_the_expected_lifecycle_of_a/)
+- [How does an app know your location when you&#39;re using a VPN?](https://www.reddit.com/r/androiddev/comments/z4hnmu/how_does_an_app_know_your_location_when_youre/)
+- [MVVM pattern with external Library requires view](https://www.reddit.com/r/androiddev/comments/z4f57u/mvvm_pattern_with_external_library_requires_view/)
+- [Is there any android api for passive&lpar;background&rpar; video recording both front and back cameras as well as screen recording](https://www.reddit.com/r/androiddev/comments/z4erfy/is_there_any_android_api_for_passivebackground/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
