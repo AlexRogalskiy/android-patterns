@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bluetooth pairing &quot;An app is needed for this device&quot;](https://www.reddit.com/r/androiddev/comments/z4q0lv/bluetooth_pairing_an_app_is_needed_for_this_device/)
-- [Can we call MobileAds.initialize in user thread?](https://www.reddit.com/r/androiddev/comments/z4mw5h/can_we_call_mobileadsinitialize_in_user_thread/)
-- [Everything you need to know about Google Play Billing Library 5](https://www.reddit.com/r/androiddev/comments/z4lq2w/everything_you_need_to_know_about_google_play/)
-- [Android Studio returns colors as long decimal](https://www.reddit.com/r/androiddev/comments/z4li8i/android_studio_returns_colors_as_long_decimal/)
-- [Analytics and KPI tools](https://www.reddit.com/r/androiddev/comments/z4ldzd/analytics_and_kpi_tools/)
-- [Gradle 7.6 Released](https://www.reddit.com/r/androiddev/comments/z4l3d1/gradle_76_released/)
-- [Does anyone know what the expected lifecycle of a NotificationListener service is.](https://www.reddit.com/r/androiddev/comments/z4l2sz/does_anyone_know_what_the_expected_lifecycle_of_a/)
-- [How does an app know your location when you&#39;re using a VPN?](https://www.reddit.com/r/androiddev/comments/z4hnmu/how_does_an_app_know_your_location_when_youre/)
-- [MVVM pattern with external Library requires view](https://www.reddit.com/r/androiddev/comments/z4f57u/mvvm_pattern_with_external_library_requires_view/)
-- [Is there any android api for passive&lpar;background&rpar; video recording both front and back cameras as well as screen recording](https://www.reddit.com/r/androiddev/comments/z4erfy/is_there_any_android_api_for_passivebackground/)
+- [Has creating a website for your app improve on ASO?](https://www.reddit.com/r/androiddev/comments/z5om3v/has_creating_a_website_for_your_app_improve_on_aso/)
+- [still XML in use, should I learn it before jumping into Jetpack compose?](https://www.reddit.com/r/androiddev/comments/z5o6px/still_xml_in_use_should_i_learn_it_before_jumping/)
+- [Is there a way to make an app start at power up and make sure it stays up?](https://www.reddit.com/r/androiddev/comments/z5lbe4/is_there_a_way_to_make_an_app_start_at_power_up/)
+- [Will Android ever release its own game engine/game making kit?](https://www.reddit.com/r/androiddev/comments/z5jduh/will_android_ever_release_its_own_game_enginegame/)
+- [Any non-software way to limit device volume in Android?](https://www.reddit.com/r/androiddev/comments/z5iorp/any_nonsoftware_way_to_limit_device_volume_in/)
+- [Send notifications only if app is in background](https://www.reddit.com/r/androiddev/comments/z5cp17/send_notifications_only_if_app_is_in_background/)
+- [Non compliant SDK warning on an older APK](https://www.reddit.com/r/androiddev/comments/z5c9qn/non_compliant_sdk_warning_on_an_older_apk/)
+- [How to test viewModel in which flow from RemoteMediator has been collected?](https://www.reddit.com/r/androiddev/comments/z5c6cm/how_to_test_viewmodel_in_which_flow_from/)
+- [What do you do before coding your app?](https://www.reddit.com/r/androiddev/comments/z5baoj/what_do_you_do_before_coding_your_app/)
+- [Create custom layouts with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/z57d4l/create_custom_layouts_with_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
