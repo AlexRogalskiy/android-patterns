@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hello guys I am devloper and I have a one idea for Saas .Can we make one website like the any one come and use widgets and screens make one ui for his app . that ui convert into any language code . and yes I know everyone Don&#39;t no how to design thay can also use the prebuild temples so that can easy](https://www.reddit.com/r/androiddev/comments/z7gezx/hello_guys_i_am_devloper_and_i_have_a_one_idea/)
-- [What are media file types on Android?](https://www.reddit.com/r/androiddev/comments/z7fc23/what_are_media_file_types_on_android/)
-- [Is there no way to keep apps&#39; login information when changing phones](https://www.reddit.com/r/androiddev/comments/z7bbcs/is_there_no_way_to_keep_apps_login_information/)
-- [Looking for a non senior position](https://www.reddit.com/r/androiddev/comments/z7b961/looking_for_a_non_senior_position/)
-- [Any good resources for HAL interface development?](https://www.reddit.com/r/androiddev/comments/z79gzp/any_good_resources_for_hal_interface_development/)
-- [Does WorkManager run even app is not open for service ?](https://www.reddit.com/r/androiddev/comments/z70o9e/does_workmanager_run_even_app_is_not_open_for/)
-- [Can someone please share road map to master unit testing in android?](https://www.reddit.com/r/androiddev/comments/z6zcky/can_someone_please_share_road_map_to_master_unit/)
-- [Looking for advice from an Android Dev perspective](https://www.reddit.com/r/androiddev/comments/z6z7bk/looking_for_advice_from_an_android_dev_perspective/)
-- [Weekly Who&#39;s Hiring Thread - November 28, 2022](https://www.reddit.com/r/androiddev/comments/z6xbl6/weekly_whos_hiring_thread_november_28_2022/)
-- [Internet radio help needed](https://www.reddit.com/r/androiddev/comments/z6wrrk/internet_radio_help_needed/)
+- [Is Jetpack Compose ready for use?](https://www.reddit.com/r/androiddev/comments/z8d9vp/is_jetpack_compose_ready_for_use/)
+- [in this case,is 1 ⭐ better or 5? 🤷🏾](https://www.reddit.com/r/androiddev/comments/z87qa0/in_this_caseis_1_better_or_5/)
+- [what minimum SDK is recommended these days?](https://www.reddit.com/r/androiddev/comments/z83vkv/what_minimum_sdk_is_recommended_these_days/)
+- [Changing locale works in debug version of app, but only updates to English or Spanish in release version, no other locales work](https://www.reddit.com/r/androiddev/comments/z837pw/changing_locale_works_in_debug_version_of_app_but/)
+- [New framework from Slack - Circuit](https://www.reddit.com/r/androiddev/comments/z82mw6/new_framework_from_slack_circuit/)
+- [Shared viewModel with parent fragment as viewModelStoreOwner](https://www.reddit.com/r/androiddev/comments/z80v8l/shared_viewmodel_with_parent_fragment_as/)
+- [Best dev tool for chat app](https://www.reddit.com/r/androiddev/comments/z7yqub/best_dev_tool_for_chat_app/)
+- [What does this download symbol mean?](https://www.reddit.com/r/androiddev/comments/z7yox8/what_does_this_download_symbol_mean/)
+- [Notification permissions in Pixel 6](https://www.reddit.com/r/androiddev/comments/z7vjs3/notification_permissions_in_pixel_6/)
+- [Can&#39;t publish an update to app, stuck in Sensitive Permissions and APIs loop on multiple tracks](https://www.reddit.com/r/androiddev/comments/z7vcf3/cant_publish_an_update_to_app_stuck_in_sensitive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
