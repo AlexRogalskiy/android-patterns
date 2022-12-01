@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is Jetpack Compose ready for use?](https://www.reddit.com/r/androiddev/comments/z8d9vp/is_jetpack_compose_ready_for_use/)
-- [in this case,is 1 ⭐ better or 5? 🤷🏾](https://www.reddit.com/r/androiddev/comments/z87qa0/in_this_caseis_1_better_or_5/)
-- [what minimum SDK is recommended these days?](https://www.reddit.com/r/androiddev/comments/z83vkv/what_minimum_sdk_is_recommended_these_days/)
-- [Changing locale works in debug version of app, but only updates to English or Spanish in release version, no other locales work](https://www.reddit.com/r/androiddev/comments/z837pw/changing_locale_works_in_debug_version_of_app_but/)
-- [New framework from Slack - Circuit](https://www.reddit.com/r/androiddev/comments/z82mw6/new_framework_from_slack_circuit/)
-- [Shared viewModel with parent fragment as viewModelStoreOwner](https://www.reddit.com/r/androiddev/comments/z80v8l/shared_viewmodel_with_parent_fragment_as/)
-- [Best dev tool for chat app](https://www.reddit.com/r/androiddev/comments/z7yqub/best_dev_tool_for_chat_app/)
-- [What does this download symbol mean?](https://www.reddit.com/r/androiddev/comments/z7yox8/what_does_this_download_symbol_mean/)
-- [Notification permissions in Pixel 6](https://www.reddit.com/r/androiddev/comments/z7vjs3/notification_permissions_in_pixel_6/)
-- [Can&#39;t publish an update to app, stuck in Sensitive Permissions and APIs loop on multiple tracks](https://www.reddit.com/r/androiddev/comments/z7vcf3/cant_publish_an_update_to_app_stuck_in_sensitive/)
+- [Does anyone have Android 12 for Motorola G Power 2022 because i don&#39;t have it.](https://www.reddit.com/r/androiddev/comments/z9a5mi/does_anyone_have_android_12_for_motorola_g_power/)
+- [Implicit PendingIntent vulnerability -- Google&#39;s suggested remediation isn&#39;t working](https://www.reddit.com/r/androiddev/comments/z921md/implicit_pendingintent_vulnerability_googles/)
+- [Android Studio Flamingo Canary 9 now available](https://www.reddit.com/r/androiddev/comments/z9217q/android_studio_flamingo_canary_9_now_available/)
+- [ML solution for analyze arrays](https://www.reddit.com/r/androiddev/comments/z91b8b/ml_solution_for_analyze_arrays/)
+- [Urgent help with privacy policy](https://www.reddit.com/r/androiddev/comments/z90dow/urgent_help_with_privacy_policy/)
+- [Android Studio Electric Eel RC1 now availabe](https://www.reddit.com/r/androiddev/comments/z8yo43/android_studio_electric_eel_rc1_now_availabe/)
+- [soft keyboard/layout issue](https://www.reddit.com/r/androiddev/comments/z8xqpq/soft_keyboardlayout_issue/)
+- [Key store question..](https://www.reddit.com/r/androiddev/comments/z8x6zj/key_store_question/)
+- [A year ago I created simple and small app for reading PDFs just to learn something new. Recently Google started asked for Privacy Policy even though I have no ads and I am not gathering any data. Can I simply write that in PP in few words or I could get sued for some reason?](https://www.reddit.com/r/androiddev/comments/z8whk7/a_year_ago_i_created_simple_and_small_app_for/)
+- [What is best way to make backend for apps, NodeJS or Ktor ? or something else ?](https://www.reddit.com/r/androiddev/comments/z8wcow/what_is_best_way_to_make_backend_for_apps_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
