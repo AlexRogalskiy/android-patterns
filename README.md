@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [For those who made an iOS app first, how did you make the android version?](https://www.reddit.com/r/androiddev/comments/zaxx1z/for_those_who_made_an_ios_app_first_how_did_you/)
-- [MacBook Pro M2 - recommended RAM](https://www.reddit.com/r/androiddev/comments/zaxtz8/macbook_pro_m2_recommended_ram/)
-- [[Question] Factory Reset &amp; new Trial of app](https://www.reddit.com/r/androiddev/comments/zav7eh/question_factory_reset_new_trial_of_app/)
-- [Is possible to dual bot 2 roms in a single android?](https://www.reddit.com/r/androiddev/comments/zauuvu/is_possible_to_dual_bot_2_roms_in_a_single_android/)
-- [Transient dependencies and Play Store violations](https://www.reddit.com/r/androiddev/comments/zaudu6/transient_dependencies_and_play_store_violations/)
-- [Android UI state managment](https://www.reddit.com/r/androiddev/comments/zau375/android_ui_state_managment/)
-- [How to do screenshot tests on android](https://www.reddit.com/r/androiddev/comments/zaspaq/how_to_do_screenshot_tests_on_android/)
-- [Using TurboJpeg with NDK](https://www.reddit.com/r/androiddev/comments/zasol3/using_turbojpeg_with_ndk/)
-- [What are your best practice for handling state between ViewModel and Activity with compose?](https://www.reddit.com/r/androiddev/comments/zaqhtb/what_are_your_best_practice_for_handling_state/)
-- [What is best for multi plataform?](https://www.reddit.com/r/androiddev/comments/zankq1/what_is_best_for_multi_plataform/)
+- [Compose Markdown](https://www.reddit.com/r/androiddev/comments/zbwyp0/compose_markdown/)
+- [Android 13 - android.os.BadParcelableException: Parcelable encountered ClassNotFoundException reading a Serializable object](https://www.reddit.com/r/androiddev/comments/zbvimp/android_13_androidosbadparcelableexception/)
+- [Play Integrity verdict: unevaluated](https://www.reddit.com/r/androiddev/comments/zbqy40/play_integrity_verdict_unevaluated/)
+- [What is your favorite library/plugin?](https://www.reddit.com/r/androiddev/comments/zbpnwm/what_is_your_favorite_libraryplugin/)
+- [Is there any library for wheel of fortune view like this](https://www.reddit.com/r/androiddev/comments/zbp2n6/is_there_any_library_for_wheel_of_fortune_view/)
+- [Where to start Open Source?](https://www.reddit.com/r/androiddev/comments/zbmq8i/where_to_start_open_source/)
+- [Is it possible to inspect element in a specific app?](https://www.reddit.com/r/androiddev/comments/zbjq10/is_it_possible_to_inspect_element_in_a_specific/)
+- [Sharing advertising numbers/data.](https://www.reddit.com/r/androiddev/comments/zbhw0v/sharing_advertising_numbersdata/)
+- [Are you guys aware of any library that can allow me to make a similar performance indicator?](https://www.reddit.com/r/androiddev/comments/zbhh3q/are_you_guys_aware_of_any_library_that_can_allow/)
+- [Read real-time Heart rate data from watch to mobile app](https://www.reddit.com/r/androiddev/comments/zbcd8j/read_realtime_heart_rate_data_from_watch_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
