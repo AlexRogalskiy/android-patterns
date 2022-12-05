@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compose Markdown](https://www.reddit.com/r/androiddev/comments/zbwyp0/compose_markdown/)
-- [Android 13 - android.os.BadParcelableException: Parcelable encountered ClassNotFoundException reading a Serializable object](https://www.reddit.com/r/androiddev/comments/zbvimp/android_13_androidosbadparcelableexception/)
-- [Play Integrity verdict: unevaluated](https://www.reddit.com/r/androiddev/comments/zbqy40/play_integrity_verdict_unevaluated/)
-- [What is your favorite library/plugin?](https://www.reddit.com/r/androiddev/comments/zbpnwm/what_is_your_favorite_libraryplugin/)
-- [Is there any library for wheel of fortune view like this](https://www.reddit.com/r/androiddev/comments/zbp2n6/is_there_any_library_for_wheel_of_fortune_view/)
-- [Where to start Open Source?](https://www.reddit.com/r/androiddev/comments/zbmq8i/where_to_start_open_source/)
-- [Is it possible to inspect element in a specific app?](https://www.reddit.com/r/androiddev/comments/zbjq10/is_it_possible_to_inspect_element_in_a_specific/)
-- [Sharing advertising numbers/data.](https://www.reddit.com/r/androiddev/comments/zbhw0v/sharing_advertising_numbersdata/)
-- [Are you guys aware of any library that can allow me to make a similar performance indicator?](https://www.reddit.com/r/androiddev/comments/zbhh3q/are_you_guys_aware_of_any_library_that_can_allow/)
-- [Read real-time Heart rate data from watch to mobile app](https://www.reddit.com/r/androiddev/comments/zbcd8j/read_realtime_heart_rate_data_from_watch_to/)
+- [AOSP Question.](https://www.reddit.com/r/androiddev/comments/zcsgzj/aosp_question/)
+- [ConcatAdapter and Filter Searchview](https://www.reddit.com/r/androiddev/comments/zcott0/concatadapter_and_filter_searchview/)
+- [Unit Tests. Cant print arrays](https://www.reddit.com/r/androiddev/comments/zckt31/unit_tests_cant_print_arrays/)
+- [Anybody managed to have emulator&#39;s skins working on Apple Silicon M1 Pro ?](https://www.reddit.com/r/androiddev/comments/zck8ym/anybody_managed_to_have_emulators_skins_working/)
+- [How would you implement adding an image inside EditText?](https://www.reddit.com/r/androiddev/comments/zcij24/how_would_you_implement_adding_an_image_inside/)
+- [sam a50 fix?](https://www.reddit.com/r/androiddev/comments/zciey9/sam_a50_fix/)
+- [Unit testing the UI in a fragment with a dependency on a ViewModel](https://www.reddit.com/r/androiddev/comments/zci0sy/unit_testing_the_ui_in_a_fragment_with_a/)
+- [What is the correct way to offer free trial for user, in new V4 billing library?](https://www.reddit.com/r/androiddev/comments/zcgov2/what_is_the_correct_way_to_offer_free_trial_for/)
+- [14&quot; M1 MBP stays warm when closed, when emulator is on – any fix?](https://www.reddit.com/r/androiddev/comments/zcfudy/14_m1_mbp_stays_warm_when_closed_when_emulator_is/)
+- [What&#39;s the fastest/best way to develop an app for a college assignment?](https://www.reddit.com/r/androiddev/comments/zce24m/whats_the_fastestbest_way_to_develop_an_app_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
