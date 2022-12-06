@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AOSP Question.](https://www.reddit.com/r/androiddev/comments/zcsgzj/aosp_question/)
-- [ConcatAdapter and Filter Searchview](https://www.reddit.com/r/androiddev/comments/zcott0/concatadapter_and_filter_searchview/)
-- [Unit Tests. Cant print arrays](https://www.reddit.com/r/androiddev/comments/zckt31/unit_tests_cant_print_arrays/)
-- [Anybody managed to have emulator&#39;s skins working on Apple Silicon M1 Pro ?](https://www.reddit.com/r/androiddev/comments/zck8ym/anybody_managed_to_have_emulators_skins_working/)
-- [How would you implement adding an image inside EditText?](https://www.reddit.com/r/androiddev/comments/zcij24/how_would_you_implement_adding_an_image_inside/)
-- [sam a50 fix?](https://www.reddit.com/r/androiddev/comments/zciey9/sam_a50_fix/)
-- [Unit testing the UI in a fragment with a dependency on a ViewModel](https://www.reddit.com/r/androiddev/comments/zci0sy/unit_testing_the_ui_in_a_fragment_with_a/)
-- [What is the correct way to offer free trial for user, in new V4 billing library?](https://www.reddit.com/r/androiddev/comments/zcgov2/what_is_the_correct_way_to_offer_free_trial_for/)
-- [14&quot; M1 MBP stays warm when closed, when emulator is on – any fix?](https://www.reddit.com/r/androiddev/comments/zcfudy/14_m1_mbp_stays_warm_when_closed_when_emulator_is/)
-- [What&#39;s the fastest/best way to develop an app for a college assignment?](https://www.reddit.com/r/androiddev/comments/zce24m/whats_the_fastestbest_way_to_develop_an_app_for_a/)
+- [Jetpack compose pagination](https://www.reddit.com/r/androiddev/comments/zdqm6e/jetpack_compose_pagination/)
+- [Here’s a playlist of 7 hours of music with NO VOCALS I use to focus when I’m coding /learning . Post yours as well if you also have one!](https://www.reddit.com/r/androiddev/comments/zdqbx1/heres_a_playlist_of_7_hours_of_music_with_no/)
+- [Given our small team what should our priorities be? · Discussion #775 · androidx/constraintlayout](https://www.reddit.com/r/androiddev/comments/zdpe1m/given_our_small_team_what_should_our_priorities/)
+- [Check out the opening of my Jesus Christ Dating Sim &quot;For The Love of God!!&quot;](https://www.reddit.com/r/androiddev/comments/zdp5fb/check_out_the_opening_of_my_jesus_christ_dating/)
+- [Implementing Clips on iOS and Android](https://www.reddit.com/r/androiddev/comments/zdlonp/implementing_clips_on_ios_and_android/)
+- [Android 13 for TV is now available](https://www.reddit.com/r/androiddev/comments/zdl9di/android_13_for_tv_is_now_available/)
+- [Which laptop shall I pick for Android development? Macbook Pro vs Zenbook Pro](https://www.reddit.com/r/androiddev/comments/zddz6t/which_laptop_shall_i_pick_for_android_development/)
+- [WhatsApp audio not clear when speaker on. No problem with other apps like messenger and viber. Any advice](https://www.reddit.com/r/androiddev/comments/zddw0f/whatsapp_audio_not_clear_when_speaker_on_no/)
+- [Jetpack compose tutorial for beginners.](https://www.reddit.com/r/androiddev/comments/zddf7i/jetpack_compose_tutorial_for_beginners/)
+- [Introducing the Architecture Templates](https://www.reddit.com/r/androiddev/comments/zdcwr4/introducing_the_architecture_templates/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
