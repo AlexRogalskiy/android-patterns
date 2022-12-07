@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Jetpack compose pagination](https://www.reddit.com/r/androiddev/comments/zdqm6e/jetpack_compose_pagination/)
-- [Here’s a playlist of 7 hours of music with NO VOCALS I use to focus when I’m coding /learning . Post yours as well if you also have one!](https://www.reddit.com/r/androiddev/comments/zdqbx1/heres_a_playlist_of_7_hours_of_music_with_no/)
-- [Given our small team what should our priorities be? · Discussion #775 · androidx/constraintlayout](https://www.reddit.com/r/androiddev/comments/zdpe1m/given_our_small_team_what_should_our_priorities/)
-- [Check out the opening of my Jesus Christ Dating Sim &quot;For The Love of God!!&quot;](https://www.reddit.com/r/androiddev/comments/zdp5fb/check_out_the_opening_of_my_jesus_christ_dating/)
-- [Implementing Clips on iOS and Android](https://www.reddit.com/r/androiddev/comments/zdlonp/implementing_clips_on_ios_and_android/)
-- [Android 13 for TV is now available](https://www.reddit.com/r/androiddev/comments/zdl9di/android_13_for_tv_is_now_available/)
-- [Which laptop shall I pick for Android development? Macbook Pro vs Zenbook Pro](https://www.reddit.com/r/androiddev/comments/zddz6t/which_laptop_shall_i_pick_for_android_development/)
-- [WhatsApp audio not clear when speaker on. No problem with other apps like messenger and viber. Any advice](https://www.reddit.com/r/androiddev/comments/zddw0f/whatsapp_audio_not_clear_when_speaker_on_no/)
-- [Jetpack compose tutorial for beginners.](https://www.reddit.com/r/androiddev/comments/zddf7i/jetpack_compose_tutorial_for_beginners/)
-- [Introducing the Architecture Templates](https://www.reddit.com/r/androiddev/comments/zdcwr4/introducing_the_architecture_templates/)
+- [Which laptop is better for Android development](https://www.reddit.com/r/androiddev/comments/zenvdh/which_laptop_is_better_for_android_development/)
+- [Android Open Source Code Review like how context API is implemented, Fragment API implementation, and more.](https://www.reddit.com/r/androiddev/comments/zems13/android_open_source_code_review_like_how_context/)
+- [How to port APK&#39;s to Android 2.0?](https://www.reddit.com/r/androiddev/comments/zekypo/how_to_port_apks_to_android_20/)
+- [battery usage page. how can I report this bug with this video?](https://www.reddit.com/r/androiddev/comments/zehr5p/battery_usage_page_how_can_i_report_this_bug_with/)
+- [Bottom Sheet in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zebnjg/bottom_sheet_in_jetpack_compose/)
+- [Custom snackbar library for compose](https://www.reddit.com/r/androiddev/comments/zebl34/custom_snackbar_library_for_compose/)
+- [So, I am half-way building my project, but I am a bit confused after reading LiveData, Databinding, ViewModel, Dependency Inj, and observable.](https://www.reddit.com/r/androiddev/comments/zeb2oo/so_i_am_halfway_building_my_project_but_i_am_a/)
+- [The android admob native templates and video ads](https://www.reddit.com/r/androiddev/comments/ze6x5j/the_android_admob_native_templates_and_video_ads/)
+- [7 Android Resources To Level Up As a Developer](https://www.reddit.com/r/androiddev/comments/ze4hxs/7_android_resources_to_level_up_as_a_developer/)
+- [Android Oauth Authentication](https://www.reddit.com/r/androiddev/comments/ze48fn/android_oauth_authentication/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
