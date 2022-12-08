@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Which laptop is better for Android development](https://www.reddit.com/r/androiddev/comments/zenvdh/which_laptop_is_better_for_android_development/)
-- [Android Open Source Code Review like how context API is implemented, Fragment API implementation, and more.](https://www.reddit.com/r/androiddev/comments/zems13/android_open_source_code_review_like_how_context/)
-- [How to port APK&#39;s to Android 2.0?](https://www.reddit.com/r/androiddev/comments/zekypo/how_to_port_apks_to_android_20/)
-- [battery usage page. how can I report this bug with this video?](https://www.reddit.com/r/androiddev/comments/zehr5p/battery_usage_page_how_can_i_report_this_bug_with/)
-- [Bottom Sheet in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zebnjg/bottom_sheet_in_jetpack_compose/)
-- [Custom snackbar library for compose](https://www.reddit.com/r/androiddev/comments/zebl34/custom_snackbar_library_for_compose/)
-- [So, I am half-way building my project, but I am a bit confused after reading LiveData, Databinding, ViewModel, Dependency Inj, and observable.](https://www.reddit.com/r/androiddev/comments/zeb2oo/so_i_am_halfway_building_my_project_but_i_am_a/)
-- [The android admob native templates and video ads](https://www.reddit.com/r/androiddev/comments/ze6x5j/the_android_admob_native_templates_and_video_ads/)
-- [7 Android Resources To Level Up As a Developer](https://www.reddit.com/r/androiddev/comments/ze4hxs/7_android_resources_to_level_up_as_a_developer/)
-- [Android Oauth Authentication](https://www.reddit.com/r/androiddev/comments/ze48fn/android_oauth_authentication/)
+- [Android uses a different Regex format than the entire JRE?](https://www.reddit.com/r/androiddev/comments/zfhezq/android_uses_a_different_regex_format_than_the/)
+- [Where can I see market share data by device model?](https://www.reddit.com/r/androiddev/comments/zff9yh/where_can_i_see_market_share_data_by_device_model/)
+- [Dark Mode not working](https://www.reddit.com/r/androiddev/comments/zfdfp2/dark_mode_not_working/)
+- [Fake app violation email from google@ads-console.com?](https://www.reddit.com/r/androiddev/comments/zfcl5z/fake_app_violation_email_from_googleadsconsolecom/)
+- [Any line chart or charts in general android library?](https://www.reddit.com/r/androiddev/comments/zfb1gc/any_line_chart_or_charts_in_general_android/)
+- [So, I made an entire app in Visual Studio Code...](https://www.reddit.com/r/androiddev/comments/zf7ybo/so_i_made_an_entire_app_in_visual_studio_code/)
+- [Dark Theme in Jetpack Compose with Material 3](https://www.reddit.com/r/androiddev/comments/zf327t/dark_theme_in_jetpack_compose_with_material_3/)
+- [Kotlin Flow terminal operators collect&lpar;&rpar;, first&lpar;&rpar;, last&lpar;&rpar;, single&lpar;&rpar;, toSet&lpar;&rpar;, toList&lpar;&rpar;, fold&lpar;&rpar;, reduce&lpar;&rpar; - Everything you need to know | Kotlin Flow for Android Development](https://www.reddit.com/r/androiddev/comments/zf1a0f/kotlin_flow_terminal_operators_collect_first_last/)
+- [How would I play one voicemail and disable the other one from inside the same adapter?](https://www.reddit.com/r/androiddev/comments/zf09f7/how_would_i_play_one_voicemail_and_disable_the/)
+- [Starting up a app developer company. Need marketing advice.](https://www.reddit.com/r/androiddev/comments/zf03e1/starting_up_a_app_developer_company_need/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
