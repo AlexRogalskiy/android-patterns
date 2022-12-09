@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android uses a different Regex format than the entire JRE?](https://www.reddit.com/r/androiddev/comments/zfhezq/android_uses_a_different_regex_format_than_the/)
-- [Where can I see market share data by device model?](https://www.reddit.com/r/androiddev/comments/zff9yh/where_can_i_see_market_share_data_by_device_model/)
-- [Dark Mode not working](https://www.reddit.com/r/androiddev/comments/zfdfp2/dark_mode_not_working/)
-- [Fake app violation email from google@ads-console.com?](https://www.reddit.com/r/androiddev/comments/zfcl5z/fake_app_violation_email_from_googleadsconsolecom/)
-- [Any line chart or charts in general android library?](https://www.reddit.com/r/androiddev/comments/zfb1gc/any_line_chart_or_charts_in_general_android/)
-- [So, I made an entire app in Visual Studio Code...](https://www.reddit.com/r/androiddev/comments/zf7ybo/so_i_made_an_entire_app_in_visual_studio_code/)
-- [Dark Theme in Jetpack Compose with Material 3](https://www.reddit.com/r/androiddev/comments/zf327t/dark_theme_in_jetpack_compose_with_material_3/)
-- [Kotlin Flow terminal operators collect&lpar;&rpar;, first&lpar;&rpar;, last&lpar;&rpar;, single&lpar;&rpar;, toSet&lpar;&rpar;, toList&lpar;&rpar;, fold&lpar;&rpar;, reduce&lpar;&rpar; - Everything you need to know | Kotlin Flow for Android Development](https://www.reddit.com/r/androiddev/comments/zf1a0f/kotlin_flow_terminal_operators_collect_first_last/)
-- [How would I play one voicemail and disable the other one from inside the same adapter?](https://www.reddit.com/r/androiddev/comments/zf09f7/how_would_i_play_one_voicemail_and_disable_the/)
-- [Starting up a app developer company. Need marketing advice.](https://www.reddit.com/r/androiddev/comments/zf03e1/starting_up_a_app_developer_company_need/)
+- [Building android APKs with autotools ... I&#39;ve made a start](https://www.reddit.com/r/androiddev/comments/zghnb4/building_android_apks_with_autotools_ive_made_a/)
+- [Can Apple/Google see the content of all push notifications?](https://www.reddit.com/r/androiddev/comments/zgdvki/can_applegoogle_see_the_content_of_all_push/)
+- [An anxious dilemma regarding Kotlin Multi-platform Mobile for Android and iOS app development .......without a MacBook.](https://www.reddit.com/r/androiddev/comments/zgdtez/an_anxious_dilemma_regarding_kotlin_multiplatform/)
+- [How to use Firestore and Room together in MVVM?](https://www.reddit.com/r/androiddev/comments/zgdhln/how_to_use_firestore_and_room_together_in_mvvm/)
+- [How do you like to document your states/events/screens &lpar;compose&rpar;?](https://www.reddit.com/r/androiddev/comments/zgd18n/how_do_you_like_to_document_your/)
+- [App Bar and Navigation Drawer in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zg8kci/app_bar_and_navigation_drawer_in_jetpack_compose/)
+- [Installing/configuring an archive version of Android Studio](https://www.reddit.com/r/androiddev/comments/zg7s5u/installingconfiguring_an_archive_version_of/)
+- [Is there a point-and-click UI to add dependencies in Android Studio instead of having to make various entries in the gradle files?](https://www.reddit.com/r/androiddev/comments/zg6sev/is_there_a_pointandclick_ui_to_add_dependencies/)
+- [Which version of Android Studio has the most stable emulator?](https://www.reddit.com/r/androiddev/comments/zg6dou/which_version_of_android_studio_has_the_most/)
+- [what is debugImplementation?](https://www.reddit.com/r/androiddev/comments/zg3chu/what_is_debugimplementation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
