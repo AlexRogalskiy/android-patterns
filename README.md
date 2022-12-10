@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building android APKs with autotools ... I&#39;ve made a start](https://www.reddit.com/r/androiddev/comments/zghnb4/building_android_apks_with_autotools_ive_made_a/)
-- [Can Apple/Google see the content of all push notifications?](https://www.reddit.com/r/androiddev/comments/zgdvki/can_applegoogle_see_the_content_of_all_push/)
-- [An anxious dilemma regarding Kotlin Multi-platform Mobile for Android and iOS app development .......without a MacBook.](https://www.reddit.com/r/androiddev/comments/zgdtez/an_anxious_dilemma_regarding_kotlin_multiplatform/)
-- [How to use Firestore and Room together in MVVM?](https://www.reddit.com/r/androiddev/comments/zgdhln/how_to_use_firestore_and_room_together_in_mvvm/)
-- [How do you like to document your states/events/screens &lpar;compose&rpar;?](https://www.reddit.com/r/androiddev/comments/zgd18n/how_do_you_like_to_document_your/)
-- [App Bar and Navigation Drawer in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zg8kci/app_bar_and_navigation_drawer_in_jetpack_compose/)
-- [Installing/configuring an archive version of Android Studio](https://www.reddit.com/r/androiddev/comments/zg7s5u/installingconfiguring_an_archive_version_of/)
-- [Is there a point-and-click UI to add dependencies in Android Studio instead of having to make various entries in the gradle files?](https://www.reddit.com/r/androiddev/comments/zg6sev/is_there_a_pointandclick_ui_to_add_dependencies/)
-- [Which version of Android Studio has the most stable emulator?](https://www.reddit.com/r/androiddev/comments/zg6dou/which_version_of_android_studio_has_the_most/)
-- [what is debugImplementation?](https://www.reddit.com/r/androiddev/comments/zg3chu/what_is_debugimplementation/)
+- [Service disruption status in the app](https://www.reddit.com/r/androiddev/comments/zhcnbu/service_disruption_status_in_the_app/)
+- [React Flutter or Ionic](https://www.reddit.com/r/androiddev/comments/zhcfa5/react_flutter_or_ionic/)
+- [I don&#39;t understand how the code work.](https://www.reddit.com/r/androiddev/comments/zh77mw/i_dont_understand_how_the_code_work/)
+- [What&#39;s the Android job market like for 2023?](https://www.reddit.com/r/androiddev/comments/zh6jro/whats_the_android_job_market_like_for_2023/)
+- [Mapping magic keyboard to use it in Android Studio like you would on Macbook](https://www.reddit.com/r/androiddev/comments/zh5rvc/mapping_magic_keyboard_to_use_it_in_android/)
+- [Firebase Cloud Messages vs sleeping apps](https://www.reddit.com/r/androiddev/comments/zh4w11/firebase_cloud_messages_vs_sleeping_apps/)
+- [How to make a scrollview ?](https://www.reddit.com/r/androiddev/comments/zh24ot/how_to_make_a_scrollview/)
+- [Google Play Console &lpar;GPC&rpar; Dashboard KPIs](https://www.reddit.com/r/androiddev/comments/zh1hkc/google_play_console_gpc_dashboard_kpis/)
+- [Does Play Store distribute AAB&#39;s just like Firebase App Distribution?](https://www.reddit.com/r/androiddev/comments/zh0ngn/does_play_store_distribute_aabs_just_like/)
+- [How do I remove an APK from the Play Store?](https://www.reddit.com/r/androiddev/comments/zh0k7w/how_do_i_remove_an_apk_from_the_play_store/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
