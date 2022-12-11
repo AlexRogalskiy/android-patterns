@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Service disruption status in the app](https://www.reddit.com/r/androiddev/comments/zhcnbu/service_disruption_status_in_the_app/)
-- [React Flutter or Ionic](https://www.reddit.com/r/androiddev/comments/zhcfa5/react_flutter_or_ionic/)
-- [I don&#39;t understand how the code work.](https://www.reddit.com/r/androiddev/comments/zh77mw/i_dont_understand_how_the_code_work/)
-- [What&#39;s the Android job market like for 2023?](https://www.reddit.com/r/androiddev/comments/zh6jro/whats_the_android_job_market_like_for_2023/)
-- [Mapping magic keyboard to use it in Android Studio like you would on Macbook](https://www.reddit.com/r/androiddev/comments/zh5rvc/mapping_magic_keyboard_to_use_it_in_android/)
-- [Firebase Cloud Messages vs sleeping apps](https://www.reddit.com/r/androiddev/comments/zh4w11/firebase_cloud_messages_vs_sleeping_apps/)
-- [How to make a scrollview ?](https://www.reddit.com/r/androiddev/comments/zh24ot/how_to_make_a_scrollview/)
-- [Google Play Console &lpar;GPC&rpar; Dashboard KPIs](https://www.reddit.com/r/androiddev/comments/zh1hkc/google_play_console_gpc_dashboard_kpis/)
-- [Does Play Store distribute AAB&#39;s just like Firebase App Distribution?](https://www.reddit.com/r/androiddev/comments/zh0ngn/does_play_store_distribute_aabs_just_like/)
-- [How do I remove an APK from the Play Store?](https://www.reddit.com/r/androiddev/comments/zh0k7w/how_do_i_remove_an_apk_from_the_play_store/)
+- [User got scammed on an adsense ad in my app - what should I do?](https://www.reddit.com/r/androiddev/comments/zi9vza/user_got_scammed_on_an_adsense_ad_in_my_app_what/)
+- [Where do I start with a Delivery request / accept app](https://www.reddit.com/r/androiddev/comments/zi74tc/where_do_i_start_with_a_delivery_request_accept/)
+- [Android Cuttlefish Fails to Boot - Kernel Error](https://www.reddit.com/r/androiddev/comments/zi5ixo/android_cuttlefish_fails_to_boot_kernel_error/)
+- [Is letting a widget be configurable to be fully transparent a bad idea ?](https://www.reddit.com/r/androiddev/comments/zi4k8y/is_letting_a_widget_be_configurable_to_be_fully/)
+- [Publishing a Web App with In-App-Subscription: What&#39;s the matter with fees?](https://www.reddit.com/r/androiddev/comments/zi0kp7/publishing_a_web_app_with_inappsubscription_whats/)
+- [Best practices for drop shadows of SVG](https://www.reddit.com/r/androiddev/comments/zhzboi/best_practices_for_drop_shadows_of_svg/)
+- [There&#39;s no way to test Toast messages in androidSdk 30 and above?](https://www.reddit.com/r/androiddev/comments/zhwzpp/theres_no_way_to_test_toast_messages_in/)
+- [Policy violation email scam?](https://www.reddit.com/r/androiddev/comments/zhw0ca/policy_violation_email_scam/)
+- [How to avoid app store tax for PWA](https://www.reddit.com/r/androiddev/comments/zhtro4/how_to_avoid_app_store_tax_for_pwa/)
+- [do you know any apps like this?](https://www.reddit.com/r/androiddev/comments/zhtp8a/do_you_know_any_apps_like_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
