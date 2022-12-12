@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [User got scammed on an adsense ad in my app - what should I do?](https://www.reddit.com/r/androiddev/comments/zi9vza/user_got_scammed_on_an_adsense_ad_in_my_app_what/)
-- [Where do I start with a Delivery request / accept app](https://www.reddit.com/r/androiddev/comments/zi74tc/where_do_i_start_with_a_delivery_request_accept/)
-- [Android Cuttlefish Fails to Boot - Kernel Error](https://www.reddit.com/r/androiddev/comments/zi5ixo/android_cuttlefish_fails_to_boot_kernel_error/)
-- [Is letting a widget be configurable to be fully transparent a bad idea ?](https://www.reddit.com/r/androiddev/comments/zi4k8y/is_letting_a_widget_be_configurable_to_be_fully/)
-- [Publishing a Web App with In-App-Subscription: What&#39;s the matter with fees?](https://www.reddit.com/r/androiddev/comments/zi0kp7/publishing_a_web_app_with_inappsubscription_whats/)
-- [Best practices for drop shadows of SVG](https://www.reddit.com/r/androiddev/comments/zhzboi/best_practices_for_drop_shadows_of_svg/)
-- [There&#39;s no way to test Toast messages in androidSdk 30 and above?](https://www.reddit.com/r/androiddev/comments/zhwzpp/theres_no_way_to_test_toast_messages_in/)
-- [Policy violation email scam?](https://www.reddit.com/r/androiddev/comments/zhw0ca/policy_violation_email_scam/)
-- [How to avoid app store tax for PWA](https://www.reddit.com/r/androiddev/comments/zhtro4/how_to_avoid_app_store_tax_for_pwa/)
-- [do you know any apps like this?](https://www.reddit.com/r/androiddev/comments/zhtp8a/do_you_know_any_apps_like_this/)
+- [MOBILE GAME PUBLISHER](https://www.reddit.com/r/androiddev/comments/zjg5fe/mobile_game_publisher/)
+- [Looking for a &lpar;relatively&rpar; easy option to setup a prototype app](https://www.reddit.com/r/androiddev/comments/zjde7h/looking_for_a_relatively_easy_option_to_setup_a/)
+- [Kotlin or Java?](https://www.reddit.com/r/androiddev/comments/zjamtf/kotlin_or_java/)
+- [What is the purpose of Samples Packaging Data in Google repositories ?](https://www.reddit.com/r/androiddev/comments/zj7xrg/what_is_the_purpose_of_samples_packaging_data_in/)
+- [I just started software university, I will make iOS and Android applications, I want to work with Swift for iOS, but can you give suggestions for Android?](https://www.reddit.com/r/androiddev/comments/zj79lm/i_just_started_software_university_i_will_make/)
+- [Pro App or In App Purchase](https://www.reddit.com/r/androiddev/comments/zj3npl/pro_app_or_in_app_purchase/)
+- [How to save response from Volley post request](https://www.reddit.com/r/androiddev/comments/zizhht/how_to_save_response_from_volley_post_request/)
+- [I get all possible errors in the Google play console](https://www.reddit.com/r/androiddev/comments/ziyc0g/i_get_all_possible_errors_in_the_google_play/)
+- [With maestro, do you guys see any point in writing instrumented UI tests using Espresso?](https://www.reddit.com/r/androiddev/comments/ziv11c/with_maestro_do_you_guys_see_any_point_in_writing/)
+- [How can I get Added/Deleted code numbers from the GitHub API?](https://www.reddit.com/r/androiddev/comments/ziuncv/how_can_i_get_addeddeleted_code_numbers_from_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
