@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [MOBILE GAME PUBLISHER](https://www.reddit.com/r/androiddev/comments/zjg5fe/mobile_game_publisher/)
-- [Looking for a &lpar;relatively&rpar; easy option to setup a prototype app](https://www.reddit.com/r/androiddev/comments/zjde7h/looking_for_a_relatively_easy_option_to_setup_a/)
-- [Kotlin or Java?](https://www.reddit.com/r/androiddev/comments/zjamtf/kotlin_or_java/)
-- [What is the purpose of Samples Packaging Data in Google repositories ?](https://www.reddit.com/r/androiddev/comments/zj7xrg/what_is_the_purpose_of_samples_packaging_data_in/)
-- [I just started software university, I will make iOS and Android applications, I want to work with Swift for iOS, but can you give suggestions for Android?](https://www.reddit.com/r/androiddev/comments/zj79lm/i_just_started_software_university_i_will_make/)
-- [Pro App or In App Purchase](https://www.reddit.com/r/androiddev/comments/zj3npl/pro_app_or_in_app_purchase/)
-- [How to save response from Volley post request](https://www.reddit.com/r/androiddev/comments/zizhht/how_to_save_response_from_volley_post_request/)
-- [I get all possible errors in the Google play console](https://www.reddit.com/r/androiddev/comments/ziyc0g/i_get_all_possible_errors_in_the_google_play/)
-- [With maestro, do you guys see any point in writing instrumented UI tests using Espresso?](https://www.reddit.com/r/androiddev/comments/ziv11c/with_maestro_do_you_guys_see_any_point_in_writing/)
-- [How can I get Added/Deleted code numbers from the GitHub API?](https://www.reddit.com/r/androiddev/comments/ziuncv/how_can_i_get_addeddeleted_code_numbers_from_the/)
+- [This isn&#39;t strictly a development question, but I&#39;m hoping it&#39;ll be allowed since I think the people here are best equipped to answer it over the general Android sub, and I think the answers can apply more generally](https://www.reddit.com/r/androiddev/comments/zkj42v/this_isnt_strictly_a_development_question_but_im/)
+- [How to handle APK files that are getting to big for Google Play?](https://www.reddit.com/r/androiddev/comments/zkcoz7/how_to_handle_apk_files_that_are_getting_to_big/)
+- [Emulate multiple apps??](https://www.reddit.com/r/androiddev/comments/zk9yza/emulate_multiple_apps/)
+- [How to pass bundle object between fragments using safeArgs?](https://www.reddit.com/r/androiddev/comments/zk8qh8/how_to_pass_bundle_object_between_fragments_using/)
+- [How much it cost to make an app like BookMyShow?](https://www.reddit.com/r/androiddev/comments/zk5u9d/how_much_it_cost_to_make_an_app_like_bookmyshow/)
+- [Anyone with a media app dreading this?](https://www.reddit.com/r/androiddev/comments/zk1hxt/anyone_with_a_media_app_dreading_this/)
+- [Weekly Who&#39;s Hiring Thread - December 12, 2022](https://www.reddit.com/r/androiddev/comments/zjzvcs/weekly_whos_hiring_thread_december_12_2022/)
+- [Google Play Developer Account terminated because it is &quot;associated&quot;](https://www.reddit.com/r/androiddev/comments/zjyqxv/google_play_developer_account_terminated_because/)
+- [Weekly discussion, code review, and feedback thread - December 12, 2022](https://www.reddit.com/r/androiddev/comments/zjyez9/weekly_discussion_code_review_and_feedback_thread/)
+- [Backend for mobile apps](https://www.reddit.com/r/androiddev/comments/zjycsg/backend_for_mobile_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
