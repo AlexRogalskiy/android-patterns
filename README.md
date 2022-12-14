@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [This isn&#39;t strictly a development question, but I&#39;m hoping it&#39;ll be allowed since I think the people here are best equipped to answer it over the general Android sub, and I think the answers can apply more generally](https://www.reddit.com/r/androiddev/comments/zkj42v/this_isnt_strictly_a_development_question_but_im/)
-- [How to handle APK files that are getting to big for Google Play?](https://www.reddit.com/r/androiddev/comments/zkcoz7/how_to_handle_apk_files_that_are_getting_to_big/)
-- [Emulate multiple apps??](https://www.reddit.com/r/androiddev/comments/zk9yza/emulate_multiple_apps/)
-- [How to pass bundle object between fragments using safeArgs?](https://www.reddit.com/r/androiddev/comments/zk8qh8/how_to_pass_bundle_object_between_fragments_using/)
-- [How much it cost to make an app like BookMyShow?](https://www.reddit.com/r/androiddev/comments/zk5u9d/how_much_it_cost_to_make_an_app_like_bookmyshow/)
-- [Anyone with a media app dreading this?](https://www.reddit.com/r/androiddev/comments/zk1hxt/anyone_with_a_media_app_dreading_this/)
-- [Weekly Who&#39;s Hiring Thread - December 12, 2022](https://www.reddit.com/r/androiddev/comments/zjzvcs/weekly_whos_hiring_thread_december_12_2022/)
-- [Google Play Developer Account terminated because it is &quot;associated&quot;](https://www.reddit.com/r/androiddev/comments/zjyqxv/google_play_developer_account_terminated_because/)
-- [Weekly discussion, code review, and feedback thread - December 12, 2022](https://www.reddit.com/r/androiddev/comments/zjyez9/weekly_discussion_code_review_and_feedback_thread/)
-- [Backend for mobile apps](https://www.reddit.com/r/androiddev/comments/zjycsg/backend_for_mobile_apps/)
+- [I have a proto file and I would like to implement it inside android studo and generate the code](https://www.reddit.com/r/androiddev/comments/zlbgd4/i_have_a_proto_file_and_i_would_like_to_implement/)
+- [Be carful of this kind of scam &lpar;android devs &rpar;, by email.](https://www.reddit.com/r/androiddev/comments/zlbb0t/be_carful_of_this_kind_of_scam_android_devs_by/)
+- [Creating a Collapsing TopAppBar with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zl84p0/creating_a_collapsing_topappbar_with_jetpack/)
+- [What is your prefered Solution to saving Data from Android Games in a Cloud Database?](https://www.reddit.com/r/androiddev/comments/zl5oz6/what_is_your_prefered_solution_to_saving_data/)
+- [Android is replacing iptables with ebpf.](https://www.reddit.com/r/androiddev/comments/zl4wx7/android_is_replacing_iptables_with_ebpf/)
+- [Jetpack Compose Course](https://www.reddit.com/r/androiddev/comments/zl4klo/jetpack_compose_course/)
+- [Jetpack compose textfield not scrolling to cursor position when it&#39;s resized](https://www.reddit.com/r/androiddev/comments/zl3z3o/jetpack_compose_textfield_not_scrolling_to_cursor/)
+- [How to toggle blocking of incoming SMS and Calls in Android &lpar;Java or Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/zl3suk/how_to_toggle_blocking_of_incoming_sms_and_calls/)
+- [HOW TF do you inject into a fragment with Dagger 2??](https://www.reddit.com/r/androiddev/comments/zl3n7j/how_tf_do_you_inject_into_a_fragment_with_dagger_2/)
+- [App rejected: Issue found: Invalid Data safety form](https://www.reddit.com/r/androiddev/comments/zl31i2/app_rejected_issue_found_invalid_data_safety_form/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
