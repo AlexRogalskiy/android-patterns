@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I have a proto file and I would like to implement it inside android studo and generate the code](https://www.reddit.com/r/androiddev/comments/zlbgd4/i_have_a_proto_file_and_i_would_like_to_implement/)
-- [Be carful of this kind of scam &lpar;android devs &rpar;, by email.](https://www.reddit.com/r/androiddev/comments/zlbb0t/be_carful_of_this_kind_of_scam_android_devs_by/)
-- [Creating a Collapsing TopAppBar with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zl84p0/creating_a_collapsing_topappbar_with_jetpack/)
-- [What is your prefered Solution to saving Data from Android Games in a Cloud Database?](https://www.reddit.com/r/androiddev/comments/zl5oz6/what_is_your_prefered_solution_to_saving_data/)
-- [Android is replacing iptables with ebpf.](https://www.reddit.com/r/androiddev/comments/zl4wx7/android_is_replacing_iptables_with_ebpf/)
-- [Jetpack Compose Course](https://www.reddit.com/r/androiddev/comments/zl4klo/jetpack_compose_course/)
-- [Jetpack compose textfield not scrolling to cursor position when it&#39;s resized](https://www.reddit.com/r/androiddev/comments/zl3z3o/jetpack_compose_textfield_not_scrolling_to_cursor/)
-- [How to toggle blocking of incoming SMS and Calls in Android &lpar;Java or Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/zl3suk/how_to_toggle_blocking_of_incoming_sms_and_calls/)
-- [HOW TF do you inject into a fragment with Dagger 2??](https://www.reddit.com/r/androiddev/comments/zl3n7j/how_tf_do_you_inject_into_a_fragment_with_dagger_2/)
-- [App rejected: Issue found: Invalid Data safety form](https://www.reddit.com/r/androiddev/comments/zl31i2/app_rejected_issue_found_invalid_data_safety_form/)
+- [Z Flip 3 stuck in recovery mode PLEASE HELP](https://www.reddit.com/r/androiddev/comments/zm8k54/z_flip_3_stuck_in_recovery_mode_please_help/)
+- [Maestro Studio](https://www.reddit.com/r/androiddev/comments/zm6hbq/maestro_studio/)
+- [The enforcement of Google Play&#39;s app discoverability policy has been delayed to January 31, 2023](https://www.reddit.com/r/androiddev/comments/zm5j7j/the_enforcement_of_google_plays_app/)
+- [apply permission to i2c ports](https://www.reddit.com/r/androiddev/comments/zm4ew2/apply_permission_to_i2c_ports/)
+- [Change height of EditText right border [help with understanding XML]](https://www.reddit.com/r/androiddev/comments/zm418b/change_height_of_edittext_right_border_help_with/)
+- [The irony that the yt channel for android dev has a glitch, being that both android and yt are owned and developed by google](https://www.reddit.com/r/androiddev/comments/zm3uzq/the_irony_that_the_yt_channel_for_android_dev_has/)
+- [How do Android apps handle updates?](https://www.reddit.com/r/androiddev/comments/zm3dux/how_do_android_apps_handle_updates/)
+- [Open source reddit media viewer - Swipit](https://www.reddit.com/r/androiddev/comments/zm28j6/open_source_reddit_media_viewer_swipit/)
+- [Crashes from App Not Installed From Google Play](https://www.reddit.com/r/androiddev/comments/zm21xq/crashes_from_app_not_installed_from_google_play/)
+- [Asynchronous / non main thread initialization in Hilt?](https://www.reddit.com/r/androiddev/comments/zm03ip/asynchronous_non_main_thread_initialization_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
