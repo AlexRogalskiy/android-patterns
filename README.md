@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Z Flip 3 stuck in recovery mode PLEASE HELP](https://www.reddit.com/r/androiddev/comments/zm8k54/z_flip_3_stuck_in_recovery_mode_please_help/)
-- [Maestro Studio](https://www.reddit.com/r/androiddev/comments/zm6hbq/maestro_studio/)
-- [The enforcement of Google Play&#39;s app discoverability policy has been delayed to January 31, 2023](https://www.reddit.com/r/androiddev/comments/zm5j7j/the_enforcement_of_google_plays_app/)
-- [apply permission to i2c ports](https://www.reddit.com/r/androiddev/comments/zm4ew2/apply_permission_to_i2c_ports/)
-- [Change height of EditText right border [help with understanding XML]](https://www.reddit.com/r/androiddev/comments/zm418b/change_height_of_edittext_right_border_help_with/)
-- [The irony that the yt channel for android dev has a glitch, being that both android and yt are owned and developed by google](https://www.reddit.com/r/androiddev/comments/zm3uzq/the_irony_that_the_yt_channel_for_android_dev_has/)
-- [How do Android apps handle updates?](https://www.reddit.com/r/androiddev/comments/zm3dux/how_do_android_apps_handle_updates/)
-- [Open source reddit media viewer - Swipit](https://www.reddit.com/r/androiddev/comments/zm28j6/open_source_reddit_media_viewer_swipit/)
-- [Crashes from App Not Installed From Google Play](https://www.reddit.com/r/androiddev/comments/zm21xq/crashes_from_app_not_installed_from_google_play/)
-- [Asynchronous / non main thread initialization in Hilt?](https://www.reddit.com/r/androiddev/comments/zm03ip/asynchronous_non_main_thread_initialization_in/)
+- [Web Scraping Approaches](https://www.reddit.com/r/androiddev/comments/zn1r3j/web_scraping_approaches/)
+- [My android studio virtual device is not working it keeps saying abd connection not available, or was terminated. How do you fix this?](https://www.reddit.com/r/androiddev/comments/zn1k2z/my_android_studio_virtual_device_is_not_working/)
+- [I asked code to chatgpt](https://www.reddit.com/r/androiddev/comments/zn0efw/i_asked_code_to_chatgpt/)
+- [For the first time in two years, my app was reviewed in under 10 minutes](https://www.reddit.com/r/androiddev/comments/zmz1a4/for_the_first_time_in_two_years_my_app_was/)
+- [My company&#39;s codebase has almost 30 modules. Is this normal?](https://www.reddit.com/r/androiddev/comments/zmvd20/my_companys_codebase_has_almost_30_modules_is/)
+- [Firebase RealTime, caching and pricing.](https://www.reddit.com/r/androiddev/comments/zmuk8j/firebase_realtime_caching_and_pricing/)
+- [NumOfCameras Issues](https://www.reddit.com/r/androiddev/comments/zmuhwf/numofcameras_issues/)
+- [Catch 22 on Image Orientation](https://www.reddit.com/r/androiddev/comments/zmtuwq/catch_22_on_image_orientation/)
+- [can anyone help me](https://www.reddit.com/r/androiddev/comments/zmt6ep/can_anyone_help_me/)
+- [Best way to test the library code locally without going through publishing](https://www.reddit.com/r/androiddev/comments/zmrk0u/best_way_to_test_the_library_code_locally_without/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
