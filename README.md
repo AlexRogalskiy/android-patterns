@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Web Scraping Approaches](https://www.reddit.com/r/androiddev/comments/zn1r3j/web_scraping_approaches/)
-- [My android studio virtual device is not working it keeps saying abd connection not available, or was terminated. How do you fix this?](https://www.reddit.com/r/androiddev/comments/zn1k2z/my_android_studio_virtual_device_is_not_working/)
-- [I asked code to chatgpt](https://www.reddit.com/r/androiddev/comments/zn0efw/i_asked_code_to_chatgpt/)
-- [For the first time in two years, my app was reviewed in under 10 minutes](https://www.reddit.com/r/androiddev/comments/zmz1a4/for_the_first_time_in_two_years_my_app_was/)
-- [My company&#39;s codebase has almost 30 modules. Is this normal?](https://www.reddit.com/r/androiddev/comments/zmvd20/my_companys_codebase_has_almost_30_modules_is/)
-- [Firebase RealTime, caching and pricing.](https://www.reddit.com/r/androiddev/comments/zmuk8j/firebase_realtime_caching_and_pricing/)
-- [NumOfCameras Issues](https://www.reddit.com/r/androiddev/comments/zmuhwf/numofcameras_issues/)
-- [Catch 22 on Image Orientation](https://www.reddit.com/r/androiddev/comments/zmtuwq/catch_22_on_image_orientation/)
-- [can anyone help me](https://www.reddit.com/r/androiddev/comments/zmt6ep/can_anyone_help_me/)
-- [Best way to test the library code locally without going through publishing](https://www.reddit.com/r/androiddev/comments/zmrk0u/best_way_to_test_the_library_code_locally_without/)
+- [What is the shortcut &lpar;Windows&rpar; for opening this dialog on Android Studio ?](https://www.reddit.com/r/androiddev/comments/zntxui/what_is_the_shortcut_windows_for_opening_this/)
+- [how long does it take to review my app first time on google play ?](https://www.reddit.com/r/androiddev/comments/znt045/how_long_does_it_take_to_review_my_app_first_time/)
+- [Issue found: Invalid Data safety form / I did as I was told but kept getting rejection emails?](https://www.reddit.com/r/androiddev/comments/zns20s/issue_found_invalid_data_safety_form_i_did_as_i/)
+- [is the DeX-like capability of continuing to run an app on an external display while a device is locked possible?](https://www.reddit.com/r/androiddev/comments/znq5j5/is_the_dexlike_capability_of_continuing_to_run_an/)
+- [changing textviews dynamically as the data I get from the server changes](https://www.reddit.com/r/androiddev/comments/znn2k2/changing_textviews_dynamically_as_the_data_i_get/)
+- [Google Billing - user defined prices](https://www.reddit.com/r/androiddev/comments/znlssr/google_billing_user_defined_prices/)
+- [The attribute of android:windowLightStatusBar did not change the text color as expected, why?](https://www.reddit.com/r/androiddev/comments/znlm8q/the_attribute_of_androidwindowlightstatusbar_did/)
+- [I built a tool to create a network of remotely accessible android devices](https://www.reddit.com/r/androiddev/comments/znke2d/i_built_a_tool_to_create_a_network_of_remotely/)
+- [Does using Compose mean I am _not_ using the WYSIWYG Android Studio Layout Editor?](https://www.reddit.com/r/androiddev/comments/znj92e/does_using_compose_mean_i_am_not_using_the/)
+- [Is there a way to request Only precise location?](https://www.reddit.com/r/androiddev/comments/znigyw/is_there_a_way_to_request_only_precise_location/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
