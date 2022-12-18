@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the shortcut &lpar;Windows&rpar; for opening this dialog on Android Studio ?](https://www.reddit.com/r/androiddev/comments/zntxui/what_is_the_shortcut_windows_for_opening_this/)
-- [how long does it take to review my app first time on google play ?](https://www.reddit.com/r/androiddev/comments/znt045/how_long_does_it_take_to_review_my_app_first_time/)
-- [Issue found: Invalid Data safety form / I did as I was told but kept getting rejection emails?](https://www.reddit.com/r/androiddev/comments/zns20s/issue_found_invalid_data_safety_form_i_did_as_i/)
-- [is the DeX-like capability of continuing to run an app on an external display while a device is locked possible?](https://www.reddit.com/r/androiddev/comments/znq5j5/is_the_dexlike_capability_of_continuing_to_run_an/)
-- [changing textviews dynamically as the data I get from the server changes](https://www.reddit.com/r/androiddev/comments/znn2k2/changing_textviews_dynamically_as_the_data_i_get/)
-- [Google Billing - user defined prices](https://www.reddit.com/r/androiddev/comments/znlssr/google_billing_user_defined_prices/)
-- [The attribute of android:windowLightStatusBar did not change the text color as expected, why?](https://www.reddit.com/r/androiddev/comments/znlm8q/the_attribute_of_androidwindowlightstatusbar_did/)
-- [I built a tool to create a network of remotely accessible android devices](https://www.reddit.com/r/androiddev/comments/znke2d/i_built_a_tool_to_create_a_network_of_remotely/)
-- [Does using Compose mean I am _not_ using the WYSIWYG Android Studio Layout Editor?](https://www.reddit.com/r/androiddev/comments/znj92e/does_using_compose_mean_i_am_not_using_the/)
-- [Is there a way to request Only precise location?](https://www.reddit.com/r/androiddev/comments/znigyw/is_there_a_way_to_request_only_precise_location/)
+- [Accessing Config.xml variables when Android is running?](https://www.reddit.com/r/androiddev/comments/zomhr1/accessing_configxml_variables_when_android_is/)
+- [How fast did your app take off?](https://www.reddit.com/r/androiddev/comments/zojzjp/how_fast_did_your_app_take_off/)
+- [Why is like this](https://www.reddit.com/r/androiddev/comments/zojwji/why_is_like_this/)
+- [[Oreo] Looking for Status Bar Pull down menu settings value](https://www.reddit.com/r/androiddev/comments/zojaw7/oreo_looking_for_status_bar_pull_down_menu/)
+- [PreferenceScreen is difficult to customise,any better suggestion?](https://www.reddit.com/r/androiddev/comments/zoi74k/preferencescreen_is_difficult_to_customiseany/)
+- [Solved a long pending problem at work about recycler views and wrote a blog about it. Maybe this could help someone else.](https://www.reddit.com/r/androiddev/comments/zoeb8v/solved_a_long_pending_problem_at_work_about/)
+- [Should we use DiffUtils over notifyDataSetChanged all the time, or there is case where notifyDataSetChanged perform better? What is your practical experience on this?](https://www.reddit.com/r/androiddev/comments/zobj4y/should_we_use_diffutils_over_notifydatasetchanged/)
+- [launchIn&lpar;&rpar; VS collect&lpar;&rpar; | Kotlin Flow for Android Development](https://www.reddit.com/r/androiddev/comments/zo98j8/launchin_vs_collect_kotlin_flow_for_android/)
+- [Text around an image Android Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zo7wl1/text_around_an_image_android_jetpack_compose/)
+- [Android 13 - is it really possible to stop auto killing of phantom proccesses ?](https://www.reddit.com/r/androiddev/comments/zo7lqe/android_13_is_it_really_possible_to_stop_auto/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
