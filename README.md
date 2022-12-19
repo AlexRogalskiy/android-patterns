@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Accessing Config.xml variables when Android is running?](https://www.reddit.com/r/androiddev/comments/zomhr1/accessing_configxml_variables_when_android_is/)
-- [How fast did your app take off?](https://www.reddit.com/r/androiddev/comments/zojzjp/how_fast_did_your_app_take_off/)
-- [Why is like this](https://www.reddit.com/r/androiddev/comments/zojwji/why_is_like_this/)
-- [[Oreo] Looking for Status Bar Pull down menu settings value](https://www.reddit.com/r/androiddev/comments/zojaw7/oreo_looking_for_status_bar_pull_down_menu/)
-- [PreferenceScreen is difficult to customise,any better suggestion?](https://www.reddit.com/r/androiddev/comments/zoi74k/preferencescreen_is_difficult_to_customiseany/)
-- [Solved a long pending problem at work about recycler views and wrote a blog about it. Maybe this could help someone else.](https://www.reddit.com/r/androiddev/comments/zoeb8v/solved_a_long_pending_problem_at_work_about/)
-- [Should we use DiffUtils over notifyDataSetChanged all the time, or there is case where notifyDataSetChanged perform better? What is your practical experience on this?](https://www.reddit.com/r/androiddev/comments/zobj4y/should_we_use_diffutils_over_notifydatasetchanged/)
-- [launchIn&lpar;&rpar; VS collect&lpar;&rpar; | Kotlin Flow for Android Development](https://www.reddit.com/r/androiddev/comments/zo98j8/launchin_vs_collect_kotlin_flow_for_android/)
-- [Text around an image Android Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zo7wl1/text_around_an_image_android_jetpack_compose/)
-- [Android 13 - is it really possible to stop auto killing of phantom proccesses ?](https://www.reddit.com/r/androiddev/comments/zo7lqe/android_13_is_it_really_possible_to_stop_auto/)
+- [Best courses to learn Flutter or Kotlin for app development](https://www.reddit.com/r/androiddev/comments/zpbtcy/best_courses_to_learn_flutter_or_kotlin_for_app/)
+- [What is the best networking method/framework to create a very simple &quot;multiplayer ui&quot; app?](https://www.reddit.com/r/androiddev/comments/zp7kpe/what_is_the_best_networking_methodframework_to/)
+- [Notebook for Android development: Lenovo options](https://www.reddit.com/r/androiddev/comments/zp74d0/notebook_for_android_development_lenovo_options/)
+- [Steps](https://www.reddit.com/r/androiddev/comments/zp6xv0/steps/)
+- [Question about In-app Purchases &amp; Web Purchases](https://www.reddit.com/r/androiddev/comments/zp5w0m/question_about_inapp_purchases_web_purchases/)
+- [Where can I learn Android App Development with Kotlin](https://www.reddit.com/r/androiddev/comments/zp26tk/where_can_i_learn_android_app_development_with/)
+- [which onboarding library are you using](https://www.reddit.com/r/androiddev/comments/zoz4zf/which_onboarding_library_are_you_using/)
+- [Pagination in Jetpack Compose with and without Paging 3](https://www.reddit.com/r/androiddev/comments/zoyhwi/pagination_in_jetpack_compose_with_and_without/)
+- [Quick question on android app license](https://www.reddit.com/r/androiddev/comments/zox5rm/quick_question_on_android_app_license/)
+- [As a junior C# dev, should I learn kotlin+swift, flutter, RN, or Blazor Maui, if I want to solo build an iOS/Android app and publish within a few months?](https://www.reddit.com/r/androiddev/comments/zovty6/as_a_junior_c_dev_should_i_learn_kotlinswift/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
