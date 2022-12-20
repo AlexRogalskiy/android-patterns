@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best courses to learn Flutter or Kotlin for app development](https://www.reddit.com/r/androiddev/comments/zpbtcy/best_courses_to_learn_flutter_or_kotlin_for_app/)
-- [What is the best networking method/framework to create a very simple &quot;multiplayer ui&quot; app?](https://www.reddit.com/r/androiddev/comments/zp7kpe/what_is_the_best_networking_methodframework_to/)
-- [Notebook for Android development: Lenovo options](https://www.reddit.com/r/androiddev/comments/zp74d0/notebook_for_android_development_lenovo_options/)
-- [Steps](https://www.reddit.com/r/androiddev/comments/zp6xv0/steps/)
-- [Question about In-app Purchases &amp; Web Purchases](https://www.reddit.com/r/androiddev/comments/zp5w0m/question_about_inapp_purchases_web_purchases/)
-- [Where can I learn Android App Development with Kotlin](https://www.reddit.com/r/androiddev/comments/zp26tk/where_can_i_learn_android_app_development_with/)
-- [which onboarding library are you using](https://www.reddit.com/r/androiddev/comments/zoz4zf/which_onboarding_library_are_you_using/)
-- [Pagination in Jetpack Compose with and without Paging 3](https://www.reddit.com/r/androiddev/comments/zoyhwi/pagination_in_jetpack_compose_with_and_without/)
-- [Quick question on android app license](https://www.reddit.com/r/androiddev/comments/zox5rm/quick_question_on_android_app_license/)
-- [As a junior C# dev, should I learn kotlin+swift, flutter, RN, or Blazor Maui, if I want to solo build an iOS/Android app and publish within a few months?](https://www.reddit.com/r/androiddev/comments/zovty6/as_a_junior_c_dev_should_i_learn_kotlinswift/)
+- [Stratus C5 &lpar;Cloud Mobile&rpar; stuck in re/boot &lpar;loop/menu&rpar;](https://www.reddit.com/r/androiddev/comments/zq7knh/stratus_c5_cloud_mobile_stuck_in_reboot_loopmenu/)
+- [Compose search with a recent search view](https://www.reddit.com/r/androiddev/comments/zq3w7r/compose_search_with_a_recent_search_view/)
+- [Looking for a Junior Android Developer who can speak English fluently.](https://www.reddit.com/r/androiddev/comments/zq2d6r/looking_for_a_junior_android_developer_who_can/)
+- [AI-Powered Project Requirements Generator: Thoughts and Ideas?](https://www.reddit.com/r/androiddev/comments/zpxyp3/aipowered_project_requirements_generator_thoughts/)
+- [PriceTagScanner - using Kotlin, Jetpack Compose, MLKit and OpenCV. This is a project that I worked on in my spare time. I hope Someone find it useful to learn new stuff.](https://www.reddit.com/r/androiddev/comments/zptt48/pricetagscanner_using_kotlin_jetpack_compose/)
+- [Detailed explanation how I made custom OTP input field in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zptqgp/detailed_explanation_how_i_made_custom_otp_input/)
+- [Weekly Who&#39;s Hiring Thread - December 19, 2022](https://www.reddit.com/r/androiddev/comments/zpsc2m/weekly_whos_hiring_thread_december_19_2022/)
+- [Android Studio global search not working](https://www.reddit.com/r/androiddev/comments/zpr1dv/android_studio_global_search_not_working/)
+- [Weekly discussion, code review, and feedback thread - December 19, 2022](https://www.reddit.com/r/androiddev/comments/zpqxp5/weekly_discussion_code_review_and_feedback_thread/)
+- [ViewModel: for UI business, not UI operations 😮](https://www.reddit.com/r/androiddev/comments/zpqla2/viewmodel_for_ui_business_not_ui_operations/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
