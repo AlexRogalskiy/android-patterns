@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Stratus C5 &lpar;Cloud Mobile&rpar; stuck in re/boot &lpar;loop/menu&rpar;](https://www.reddit.com/r/androiddev/comments/zq7knh/stratus_c5_cloud_mobile_stuck_in_reboot_loopmenu/)
-- [Compose search with a recent search view](https://www.reddit.com/r/androiddev/comments/zq3w7r/compose_search_with_a_recent_search_view/)
-- [Looking for a Junior Android Developer who can speak English fluently.](https://www.reddit.com/r/androiddev/comments/zq2d6r/looking_for_a_junior_android_developer_who_can/)
-- [AI-Powered Project Requirements Generator: Thoughts and Ideas?](https://www.reddit.com/r/androiddev/comments/zpxyp3/aipowered_project_requirements_generator_thoughts/)
-- [PriceTagScanner - using Kotlin, Jetpack Compose, MLKit and OpenCV. This is a project that I worked on in my spare time. I hope Someone find it useful to learn new stuff.](https://www.reddit.com/r/androiddev/comments/zptt48/pricetagscanner_using_kotlin_jetpack_compose/)
-- [Detailed explanation how I made custom OTP input field in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zptqgp/detailed_explanation_how_i_made_custom_otp_input/)
-- [Weekly Who&#39;s Hiring Thread - December 19, 2022](https://www.reddit.com/r/androiddev/comments/zpsc2m/weekly_whos_hiring_thread_december_19_2022/)
-- [Android Studio global search not working](https://www.reddit.com/r/androiddev/comments/zpr1dv/android_studio_global_search_not_working/)
-- [Weekly discussion, code review, and feedback thread - December 19, 2022](https://www.reddit.com/r/androiddev/comments/zpqxp5/weekly_discussion_code_review_and_feedback_thread/)
-- [ViewModel: for UI business, not UI operations 😮](https://www.reddit.com/r/androiddev/comments/zpqla2/viewmodel_for_ui_business_not_ui_operations/)
+- [Predictive Back Gesture not working](https://www.reddit.com/r/androiddev/comments/zr2xkt/predictive_back_gesture_not_working/)
+- [add unopened fragment to the backstack?](https://www.reddit.com/r/androiddev/comments/zr2sjf/add_unopened_fragment_to_the_backstack/)
+- [NestedScrollView &lpar;or scrollview&rpar; - how can i show fullscreen viewpager inside fragment &lpar;recyclerview&rpar;](https://www.reddit.com/r/androiddev/comments/zr22pj/nestedscrollview_or_scrollview_how_can_i_show/)
+- [Looking for a way to bypass lock screen after restart On a Huawei P10 Lite WITHOUT loosing the data](https://www.reddit.com/r/androiddev/comments/zr1ezo/looking_for_a_way_to_bypass_lock_screen_after/)
+- [Need advice on making a career change to become and Android Developer](https://www.reddit.com/r/androiddev/comments/zr0oyu/need_advice_on_making_a_career_change_to_become/)
+- [Compose - How is everyone structuring their packages?](https://www.reddit.com/r/androiddev/comments/zqza44/compose_how_is_everyone_structuring_their_packages/)
+- [Is Technical Debt evil?](https://www.reddit.com/r/androiddev/comments/zqz9mt/is_technical_debt_evil/)
+- [Kotlin Multiplatform Mobile](https://www.reddit.com/r/androiddev/comments/zqyud8/kotlin_multiplatform_mobile/)
+- [What language should I use for non-professional applications?](https://www.reddit.com/r/androiddev/comments/zqycxw/what_language_should_i_use_for_nonprofessional/)
+- [How do I automate android apps?](https://www.reddit.com/r/androiddev/comments/zqs503/how_do_i_automate_android_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
