@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Predictive Back Gesture not working](https://www.reddit.com/r/androiddev/comments/zr2xkt/predictive_back_gesture_not_working/)
-- [add unopened fragment to the backstack?](https://www.reddit.com/r/androiddev/comments/zr2sjf/add_unopened_fragment_to_the_backstack/)
-- [NestedScrollView &lpar;or scrollview&rpar; - how can i show fullscreen viewpager inside fragment &lpar;recyclerview&rpar;](https://www.reddit.com/r/androiddev/comments/zr22pj/nestedscrollview_or_scrollview_how_can_i_show/)
-- [Looking for a way to bypass lock screen after restart On a Huawei P10 Lite WITHOUT loosing the data](https://www.reddit.com/r/androiddev/comments/zr1ezo/looking_for_a_way_to_bypass_lock_screen_after/)
-- [Need advice on making a career change to become and Android Developer](https://www.reddit.com/r/androiddev/comments/zr0oyu/need_advice_on_making_a_career_change_to_become/)
-- [Compose - How is everyone structuring their packages?](https://www.reddit.com/r/androiddev/comments/zqza44/compose_how_is_everyone_structuring_their_packages/)
-- [Is Technical Debt evil?](https://www.reddit.com/r/androiddev/comments/zqz9mt/is_technical_debt_evil/)
-- [Kotlin Multiplatform Mobile](https://www.reddit.com/r/androiddev/comments/zqyud8/kotlin_multiplatform_mobile/)
-- [What language should I use for non-professional applications?](https://www.reddit.com/r/androiddev/comments/zqycxw/what_language_should_i_use_for_nonprofessional/)
-- [How do I automate android apps?](https://www.reddit.com/r/androiddev/comments/zqs503/how_do_i_automate_android_apps/)
+- [Wrote a article about how to configure the new logcat in Android Studio](https://www.reddit.com/r/androiddev/comments/zs4z56/wrote_a_article_about_how_to_configure_the_new/)
+- [Android Studio Flamingo Canary 10 now available](https://www.reddit.com/r/androiddev/comments/zs4cdu/android_studio_flamingo_canary_10_now_available/)
+- [Android Studio Electric Eel RC2 now available](https://www.reddit.com/r/androiddev/comments/zs4ccv/android_studio_electric_eel_rc2_now_available/)
+- [Subscription Credentials Issue in Google Play Certification Is Driving Me Crazy](https://www.reddit.com/r/androiddev/comments/zs0czz/subscription_credentials_issue_in_google_play/)
+- [How can I override adapter activity result?](https://www.reddit.com/r/androiddev/comments/zrzpjg/how_can_i_override_adapter_activity_result/)
+- [Is it worth getting an Android tablet for development? Are they popular for apps?](https://www.reddit.com/r/androiddev/comments/zrwo86/is_it_worth_getting_an_android_tablet_for/)
+- [A reminder to all you devs out there adding features to your app asking for reviews: Your users are not powerless against your pestering.](https://www.reddit.com/r/androiddev/comments/zrwdd2/a_reminder_to_all_you_devs_out_there_adding/)
+- [Using MVVM in production](https://www.reddit.com/r/androiddev/comments/zrv6b0/using_mvvm_in_production/)
+- [Welcome to Comprehensive Rust - Android team internal Rust training](https://www.reddit.com/r/androiddev/comments/zruyvy/welcome_to_comprehensive_rust_android_team/)
+- [I have a task for my job interview to build a debug APK and add it to repo on Github. Why should I do that and should I add it when I finish with my project or when I create it?](https://www.reddit.com/r/androiddev/comments/zrutgm/i_have_a_task_for_my_job_interview_to_build_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
