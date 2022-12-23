@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Wrote a article about how to configure the new logcat in Android Studio](https://www.reddit.com/r/androiddev/comments/zs4z56/wrote_a_article_about_how_to_configure_the_new/)
-- [Android Studio Flamingo Canary 10 now available](https://www.reddit.com/r/androiddev/comments/zs4cdu/android_studio_flamingo_canary_10_now_available/)
-- [Android Studio Electric Eel RC2 now available](https://www.reddit.com/r/androiddev/comments/zs4ccv/android_studio_electric_eel_rc2_now_available/)
-- [Subscription Credentials Issue in Google Play Certification Is Driving Me Crazy](https://www.reddit.com/r/androiddev/comments/zs0czz/subscription_credentials_issue_in_google_play/)
-- [How can I override adapter activity result?](https://www.reddit.com/r/androiddev/comments/zrzpjg/how_can_i_override_adapter_activity_result/)
-- [Is it worth getting an Android tablet for development? Are they popular for apps?](https://www.reddit.com/r/androiddev/comments/zrwo86/is_it_worth_getting_an_android_tablet_for/)
-- [A reminder to all you devs out there adding features to your app asking for reviews: Your users are not powerless against your pestering.](https://www.reddit.com/r/androiddev/comments/zrwdd2/a_reminder_to_all_you_devs_out_there_adding/)
-- [Using MVVM in production](https://www.reddit.com/r/androiddev/comments/zrv6b0/using_mvvm_in_production/)
-- [Welcome to Comprehensive Rust - Android team internal Rust training](https://www.reddit.com/r/androiddev/comments/zruyvy/welcome_to_comprehensive_rust_android_team/)
-- [I have a task for my job interview to build a debug APK and add it to repo on Github. Why should I do that and should I add it when I finish with my project or when I create it?](https://www.reddit.com/r/androiddev/comments/zrutgm/i_have_a_task_for_my_job_interview_to_build_a/)
+- [Old android phones...](https://www.reddit.com/r/androiddev/comments/zt3owk/old_android_phones/)
+- [How do you get informed if REST API changes?](https://www.reddit.com/r/androiddev/comments/zsxypo/how_do_you_get_informed_if_rest_api_changes/)
+- [How achieve this😍 Navigation drawer? What different points to note, background,Png?](https://www.reddit.com/r/androiddev/comments/zsxf4p/how_achieve_this_navigation_drawer_what_different/)
+- [Sorry if this is the wrong group to ask this, but I&#39;ve been experiencing a problem. Amazon app showing blacked out thumbnails. Does anybody know how to resolve this?](https://www.reddit.com/r/androiddev/comments/zsto72/sorry_if_this_is_the_wrong_group_to_ask_this_but/)
+- [What are some good services for customer service management? &lpar;LiveChat inside my app&rpar;](https://www.reddit.com/r/androiddev/comments/zssv2c/what_are_some_good_services_for_customer_service/)
+- [Quick Question](https://www.reddit.com/r/androiddev/comments/zss417/quick_question/)
+- [UnifiedPush: a decentralized, open-source push notification protocol for Android](https://www.reddit.com/r/androiddev/comments/zsr6ka/unifiedpush_a_decentralized_opensource_push/)
+- [Modern ways to expose Retrofit network progress and errors to a ViewModel?](https://www.reddit.com/r/androiddev/comments/zsr41n/modern_ways_to_expose_retrofit_network_progress/)
+- [Which direction should I go with my Android app?](https://www.reddit.com/r/androiddev/comments/zsqmd7/which_direction_should_i_go_with_my_android_app/)
+- [What do you call this view?](https://www.reddit.com/r/androiddev/comments/zspv2i/what_do_you_call_this_view/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
