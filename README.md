@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Old android phones...](https://www.reddit.com/r/androiddev/comments/zt3owk/old_android_phones/)
-- [How do you get informed if REST API changes?](https://www.reddit.com/r/androiddev/comments/zsxypo/how_do_you_get_informed_if_rest_api_changes/)
-- [How achieve this😍 Navigation drawer? What different points to note, background,Png?](https://www.reddit.com/r/androiddev/comments/zsxf4p/how_achieve_this_navigation_drawer_what_different/)
-- [Sorry if this is the wrong group to ask this, but I&#39;ve been experiencing a problem. Amazon app showing blacked out thumbnails. Does anybody know how to resolve this?](https://www.reddit.com/r/androiddev/comments/zsto72/sorry_if_this_is_the_wrong_group_to_ask_this_but/)
-- [What are some good services for customer service management? &lpar;LiveChat inside my app&rpar;](https://www.reddit.com/r/androiddev/comments/zssv2c/what_are_some_good_services_for_customer_service/)
-- [Quick Question](https://www.reddit.com/r/androiddev/comments/zss417/quick_question/)
-- [UnifiedPush: a decentralized, open-source push notification protocol for Android](https://www.reddit.com/r/androiddev/comments/zsr6ka/unifiedpush_a_decentralized_opensource_push/)
-- [Modern ways to expose Retrofit network progress and errors to a ViewModel?](https://www.reddit.com/r/androiddev/comments/zsr41n/modern_ways_to_expose_retrofit_network_progress/)
-- [Which direction should I go with my Android app?](https://www.reddit.com/r/androiddev/comments/zsqmd7/which_direction_should_i_go_with_my_android_app/)
-- [What do you call this view?](https://www.reddit.com/r/androiddev/comments/zspv2i/what_do_you_call_this_view/)
+- [Camera photo doesn&#39;t save in webview project input field, can anyone help me with a script that does this?](https://www.reddit.com/r/androiddev/comments/ztuhlo/camera_photo_doesnt_save_in_webview_project_input/)
+- [Is there anything wrong with my designs? I really like MD2 aesthetic and think that something could be improved but have no idea what](https://www.reddit.com/r/androiddev/comments/zttoli/is_there_anything_wrong_with_my_designs_i_really/)
+- [Are IAP analytics working for you for the past 24 hours?](https://www.reddit.com/r/androiddev/comments/zttjkk/are_iap_analytics_working_for_you_for_the_past_24/)
+- [I have an app. I need to create a second app that uses 90% of the first app codebase, and I want those 90% to be synced. What&#39;s the best solution to deal with that ?](https://www.reddit.com/r/androiddev/comments/ztsvnn/i_have_an_app_i_need_to_create_a_second_app_that/)
+- [Turn off wireless debugging always allowed in this network?](https://www.reddit.com/r/androiddev/comments/ztrx27/turn_off_wireless_debugging_always_allowed_in/)
+- [What does it mean when Hilt documentation says it is an opinionated framework?](https://www.reddit.com/r/androiddev/comments/ztr4i0/what_does_it_mean_when_hilt_documentation_says_it/)
+- [Learn Pixel Experience custom ROM AOSP](https://www.reddit.com/r/androiddev/comments/ztjbas/learn_pixel_experience_custom_rom_aosp/)
+- [Update app through itself?](https://www.reddit.com/r/androiddev/comments/ztics4/update_app_through_itself/)
+- [Is there any logs we can get from the ADB server ?](https://www.reddit.com/r/androiddev/comments/ztgrw6/is_there_any_logs_we_can_get_from_the_adb_server/)
+- [Best Way to Call API on a Scheduled Cadence?](https://www.reddit.com/r/androiddev/comments/ztgp9r/best_way_to_call_api_on_a_scheduled_cadence/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
