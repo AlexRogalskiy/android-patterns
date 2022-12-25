@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Camera photo doesn&#39;t save in webview project input field, can anyone help me with a script that does this?](https://www.reddit.com/r/androiddev/comments/ztuhlo/camera_photo_doesnt_save_in_webview_project_input/)
-- [Is there anything wrong with my designs? I really like MD2 aesthetic and think that something could be improved but have no idea what](https://www.reddit.com/r/androiddev/comments/zttoli/is_there_anything_wrong_with_my_designs_i_really/)
-- [Are IAP analytics working for you for the past 24 hours?](https://www.reddit.com/r/androiddev/comments/zttjkk/are_iap_analytics_working_for_you_for_the_past_24/)
-- [I have an app. I need to create a second app that uses 90% of the first app codebase, and I want those 90% to be synced. What&#39;s the best solution to deal with that ?](https://www.reddit.com/r/androiddev/comments/ztsvnn/i_have_an_app_i_need_to_create_a_second_app_that/)
-- [Turn off wireless debugging always allowed in this network?](https://www.reddit.com/r/androiddev/comments/ztrx27/turn_off_wireless_debugging_always_allowed_in/)
-- [What does it mean when Hilt documentation says it is an opinionated framework?](https://www.reddit.com/r/androiddev/comments/ztr4i0/what_does_it_mean_when_hilt_documentation_says_it/)
-- [Learn Pixel Experience custom ROM AOSP](https://www.reddit.com/r/androiddev/comments/ztjbas/learn_pixel_experience_custom_rom_aosp/)
-- [Update app through itself?](https://www.reddit.com/r/androiddev/comments/ztics4/update_app_through_itself/)
-- [Is there any logs we can get from the ADB server ?](https://www.reddit.com/r/androiddev/comments/ztgrw6/is_there_any_logs_we_can_get_from_the_adb_server/)
-- [Best Way to Call API on a Scheduled Cadence?](https://www.reddit.com/r/androiddev/comments/ztgp9r/best_way_to_call_api_on_a_scheduled_cadence/)
+- [Guide a Dummy to the right Laptop](https://www.reddit.com/r/androiddev/comments/zunv9h/guide_a_dummy_to_the_right_laptop/)
+- [REPL-based Android app development w/ full access to SDK](https://www.reddit.com/r/androiddev/comments/zulg08/replbased_android_app_development_w_full_access/)
+- [Passing an Object and then changing it in JAVA](https://www.reddit.com/r/androiddev/comments/zuke1y/passing_an_object_and_then_changing_it_in_java/)
+- [Joys of Android development](https://www.reddit.com/r/androiddev/comments/zuj67v/joys_of_android_development/)
+- [Sizing and positioning in Coordinatorlayout](https://www.reddit.com/r/androiddev/comments/zuj1ph/sizing_and_positioning_in_coordinatorlayout/)
+- [financial app](https://www.reddit.com/r/androiddev/comments/zueoaj/financial_app/)
+- [Any benefit to being Android GDE? Does it give a significant boost when applying to other jobs?](https://www.reddit.com/r/androiddev/comments/zudyjx/any_benefit_to_being_android_gde_does_it_give_a/)
+- [What are some great ways to monetize an android app? any API available to watch videos an earn?](https://www.reddit.com/r/androiddev/comments/zudmqr/what_are_some_great_ways_to_monetize_an_android/)
+- [Caching and Pagination with Paging 3 in Android &amp; Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zubsfa/caching_and_pagination_with_paging_3_in_android/)
+- [DropBox Like Application with Flutter](https://www.reddit.com/r/androiddev/comments/zu8cxh/dropbox_like_application_with_flutter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
