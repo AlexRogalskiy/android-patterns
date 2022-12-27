@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Guide a Dummy to the right Laptop](https://www.reddit.com/r/androiddev/comments/zunv9h/guide_a_dummy_to_the_right_laptop/)
-- [REPL-based Android app development w/ full access to SDK](https://www.reddit.com/r/androiddev/comments/zulg08/replbased_android_app_development_w_full_access/)
-- [Passing an Object and then changing it in JAVA](https://www.reddit.com/r/androiddev/comments/zuke1y/passing_an_object_and_then_changing_it_in_java/)
-- [Joys of Android development](https://www.reddit.com/r/androiddev/comments/zuj67v/joys_of_android_development/)
-- [Sizing and positioning in Coordinatorlayout](https://www.reddit.com/r/androiddev/comments/zuj1ph/sizing_and_positioning_in_coordinatorlayout/)
-- [financial app](https://www.reddit.com/r/androiddev/comments/zueoaj/financial_app/)
-- [Any benefit to being Android GDE? Does it give a significant boost when applying to other jobs?](https://www.reddit.com/r/androiddev/comments/zudyjx/any_benefit_to_being_android_gde_does_it_give_a/)
-- [What are some great ways to monetize an android app? any API available to watch videos an earn?](https://www.reddit.com/r/androiddev/comments/zudmqr/what_are_some_great_ways_to_monetize_an_android/)
-- [Caching and Pagination with Paging 3 in Android &amp; Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zubsfa/caching_and_pagination_with_paging_3_in_android/)
-- [DropBox Like Application with Flutter](https://www.reddit.com/r/androiddev/comments/zu8cxh/dropbox_like_application_with_flutter/)
+- [How to create retrofit POST MultiPart Request in Kotlin? I keep getting Http 400 Bad Request](https://www.reddit.com/r/androiddev/comments/zw0z57/how_to_create_retrofit_post_multipart_request_in/)
+- [Is a Pokedex app infringing Nintendo Copyrights?](https://www.reddit.com/r/androiddev/comments/zvxxju/is_a_pokedex_app_infringing_nintendo_copyrights/)
+- [How are different languages used to code apps that run natively on Android?](https://www.reddit.com/r/androiddev/comments/zvxug2/how_are_different_languages_used_to_code_apps/)
+- [How did he get an iOS device on Nearby share? I thought this was impossible](https://www.reddit.com/r/androiddev/comments/zvwji4/how_did_he_get_an_ios_device_on_nearby_share_i/)
+- [[Paid Release] Maya Icons &lpar;iOS inspired&rpar; ✓](https://www.reddit.com/r/androiddev/comments/zvvsai/paid_release_maya_icons_ios_inspired/)
+- [I&#39;m OSINT researcher and I need to use emulator for investigations. Can someone explain me a few things about Virtual Device Manager please? Description inside.](https://www.reddit.com/r/androiddev/comments/zvrxee/im_osint_researcher_and_i_need_to_use_emulator/)
+- [Advice on hosting the API that serves my game](https://www.reddit.com/r/androiddev/comments/zvrsvf/advice_on_hosting_the_api_that_serves_my_game/)
+- [Cheap device to test react-native apps on?](https://www.reddit.com/r/androiddev/comments/zvrbmn/cheap_device_to_test_reactnative_apps_on/)
+- [Getting into JetPack Compose - things that went well and not so great](https://www.reddit.com/r/androiddev/comments/zvqi14/getting_into_jetpack_compose_things_that_went/)
+- [new to app development, some questions?](https://www.reddit.com/r/androiddev/comments/zvp4un/new_to_app_development_some_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
