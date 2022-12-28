@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to create retrofit POST MultiPart Request in Kotlin? I keep getting Http 400 Bad Request](https://www.reddit.com/r/androiddev/comments/zw0z57/how_to_create_retrofit_post_multipart_request_in/)
-- [Is a Pokedex app infringing Nintendo Copyrights?](https://www.reddit.com/r/androiddev/comments/zvxxju/is_a_pokedex_app_infringing_nintendo_copyrights/)
-- [How are different languages used to code apps that run natively on Android?](https://www.reddit.com/r/androiddev/comments/zvxug2/how_are_different_languages_used_to_code_apps/)
-- [How did he get an iOS device on Nearby share? I thought this was impossible](https://www.reddit.com/r/androiddev/comments/zvwji4/how_did_he_get_an_ios_device_on_nearby_share_i/)
-- [[Paid Release] Maya Icons &lpar;iOS inspired&rpar; ✓](https://www.reddit.com/r/androiddev/comments/zvvsai/paid_release_maya_icons_ios_inspired/)
-- [I&#39;m OSINT researcher and I need to use emulator for investigations. Can someone explain me a few things about Virtual Device Manager please? Description inside.](https://www.reddit.com/r/androiddev/comments/zvrxee/im_osint_researcher_and_i_need_to_use_emulator/)
-- [Advice on hosting the API that serves my game](https://www.reddit.com/r/androiddev/comments/zvrsvf/advice_on_hosting_the_api_that_serves_my_game/)
-- [Cheap device to test react-native apps on?](https://www.reddit.com/r/androiddev/comments/zvrbmn/cheap_device_to_test_reactnative_apps_on/)
-- [Getting into JetPack Compose - things that went well and not so great](https://www.reddit.com/r/androiddev/comments/zvqi14/getting_into_jetpack_compose_things_that_went/)
-- [new to app development, some questions?](https://www.reddit.com/r/androiddev/comments/zvp4un/new_to_app_development_some_questions/)
+- [Creating android app from Python Code](https://www.reddit.com/r/androiddev/comments/zwsouh/creating_android_app_from_python_code/)
+- [Should I move this logic to an API?](https://www.reddit.com/r/androiddev/comments/zwmrsc/should_i_move_this_logic_to_an_api/)
+- [Android Studio Electric Eel RC3 now available](https://www.reddit.com/r/androiddev/comments/zwln0b/android_studio_electric_eel_rc3_now_available/)
+- [Design mobile app](https://www.reddit.com/r/androiddev/comments/zwli6i/design_mobile_app/)
+- [Sealed classes vs Enums!](https://www.reddit.com/r/androiddev/comments/zwjx2t/sealed_classes_vs_enums/)
+- [Get CompositionLocal from current theme](https://www.reddit.com/r/androiddev/comments/zwj702/get_compositionlocal_from_current_theme/)
+- [Google sign-in that redrects to system browser](https://www.reddit.com/r/androiddev/comments/zwhs8p/google_signin_that_redrects_to_system_browser/)
+- [What do devs when the just release a new app to show it off?](https://www.reddit.com/r/androiddev/comments/zwgmau/what_do_devs_when_the_just_release_a_new_app_to/)
+- [I got assignment for a job interview to make an app within one week - or as much of it as I can. How many parts of an app would you expect junior dev &lpar;less than a year of experience&rpar; to finish in one week?](https://www.reddit.com/r/androiddev/comments/zwgkm5/i_got_assignment_for_a_job_interview_to_make_an/)
+- [How to quit an associated GooglePlay account on your own?](https://www.reddit.com/r/androiddev/comments/zwfoy8/how_to_quit_an_associated_googleplay_account_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
