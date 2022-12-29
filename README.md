@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Creating android app from Python Code](https://www.reddit.com/r/androiddev/comments/zwsouh/creating_android_app_from_python_code/)
-- [Should I move this logic to an API?](https://www.reddit.com/r/androiddev/comments/zwmrsc/should_i_move_this_logic_to_an_api/)
-- [Android Studio Electric Eel RC3 now available](https://www.reddit.com/r/androiddev/comments/zwln0b/android_studio_electric_eel_rc3_now_available/)
-- [Design mobile app](https://www.reddit.com/r/androiddev/comments/zwli6i/design_mobile_app/)
-- [Sealed classes vs Enums!](https://www.reddit.com/r/androiddev/comments/zwjx2t/sealed_classes_vs_enums/)
-- [Get CompositionLocal from current theme](https://www.reddit.com/r/androiddev/comments/zwj702/get_compositionlocal_from_current_theme/)
-- [Google sign-in that redrects to system browser](https://www.reddit.com/r/androiddev/comments/zwhs8p/google_signin_that_redrects_to_system_browser/)
-- [What do devs when the just release a new app to show it off?](https://www.reddit.com/r/androiddev/comments/zwgmau/what_do_devs_when_the_just_release_a_new_app_to/)
-- [I got assignment for a job interview to make an app within one week - or as much of it as I can. How many parts of an app would you expect junior dev &lpar;less than a year of experience&rpar; to finish in one week?](https://www.reddit.com/r/androiddev/comments/zwgkm5/i_got_assignment_for_a_job_interview_to_make_an/)
-- [How to quit an associated GooglePlay account on your own?](https://www.reddit.com/r/androiddev/comments/zwfoy8/how_to_quit_an_associated_googleplay_account_on/)
+- [What type of roles should I apply &lpar;transition to android&rpar;?](https://www.reddit.com/r/androiddev/comments/zxlt8k/what_type_of_roles_should_i_apply_transition_to/)
+- [Is there anyway to make a widget with a preset text that gets copied everything I would click it?](https://www.reddit.com/r/androiddev/comments/zxlit4/is_there_anyway_to_make_a_widget_with_a_preset/)
+- [StateFlow and SharedFlow in ViewModels](https://www.reddit.com/r/androiddev/comments/zxj2gp/stateflow_and_sharedflow_in_viewmodels/)
+- [Rich text with Spans](https://www.reddit.com/r/androiddev/comments/zxhm9z/rich_text_with_spans/)
+- [How to achieve this effect with transparent blurry background?](https://www.reddit.com/r/androiddev/comments/zxgnhk/how_to_achieve_this_effect_with_transparent/)
+- [How is Android Studios support on Apple Silicon right now? &lpar;Dec 2022&rpar;](https://www.reddit.com/r/androiddev/comments/zxejhz/how_is_android_studios_support_on_apple_silicon/)
+- [Samsung/Android 13 issue - Split Screen](https://www.reddit.com/r/androiddev/comments/zxddx0/samsungandroid_13_issue_split_screen/)
+- [JWT Authentication and Refresh Token in Android with Retrofit Interceptor &amp; Authenticator](https://www.reddit.com/r/androiddev/comments/zxbkc8/jwt_authentication_and_refresh_token_in_android/)
+- [Integration tests help needed!](https://www.reddit.com/r/androiddev/comments/zxbj0g/integration_tests_help_needed/)
+- [Android car os and compilation](https://www.reddit.com/r/androiddev/comments/zx9gnl/android_car_os_and_compilation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
