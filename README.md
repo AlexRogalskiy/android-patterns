@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What type of roles should I apply &lpar;transition to android&rpar;?](https://www.reddit.com/r/androiddev/comments/zxlt8k/what_type_of_roles_should_i_apply_transition_to/)
-- [Is there anyway to make a widget with a preset text that gets copied everything I would click it?](https://www.reddit.com/r/androiddev/comments/zxlit4/is_there_anyway_to_make_a_widget_with_a_preset/)
-- [StateFlow and SharedFlow in ViewModels](https://www.reddit.com/r/androiddev/comments/zxj2gp/stateflow_and_sharedflow_in_viewmodels/)
-- [Rich text with Spans](https://www.reddit.com/r/androiddev/comments/zxhm9z/rich_text_with_spans/)
-- [How to achieve this effect with transparent blurry background?](https://www.reddit.com/r/androiddev/comments/zxgnhk/how_to_achieve_this_effect_with_transparent/)
-- [How is Android Studios support on Apple Silicon right now? &lpar;Dec 2022&rpar;](https://www.reddit.com/r/androiddev/comments/zxejhz/how_is_android_studios_support_on_apple_silicon/)
-- [Samsung/Android 13 issue - Split Screen](https://www.reddit.com/r/androiddev/comments/zxddx0/samsungandroid_13_issue_split_screen/)
-- [JWT Authentication and Refresh Token in Android with Retrofit Interceptor &amp; Authenticator](https://www.reddit.com/r/androiddev/comments/zxbkc8/jwt_authentication_and_refresh_token_in_android/)
-- [Integration tests help needed!](https://www.reddit.com/r/androiddev/comments/zxbj0g/integration_tests_help_needed/)
-- [Android car os and compilation](https://www.reddit.com/r/androiddev/comments/zx9gnl/android_car_os_and_compilation/)
+- [active discord](https://www.reddit.com/r/androiddev/comments/zyncpm/active_discord/)
+- [Google Play Developer Account terminated because of &quot;Association&quot;](https://www.reddit.com/r/androiddev/comments/zydgjt/google_play_developer_account_terminated_because/)
+- [What&#39;s new in Kotlin 1.8.0](https://www.reddit.com/r/androiddev/comments/zyask8/whats_new_in_kotlin_180/)
+- [The real difference between android presentation patterns](https://www.reddit.com/r/androiddev/comments/zy9q9k/the_real_difference_between_android_presentation/)
+- [Gradle 8.0-rc-1 released](https://www.reddit.com/r/androiddev/comments/zy8wqe/gradle_80rc1_released/)
+- [Best Linux to use Android studio?](https://www.reddit.com/r/androiddev/comments/zy87oh/best_linux_to_use_android_studio/)
+- [How can I make asynchronous coroutines synchronous?](https://www.reddit.com/r/androiddev/comments/zy7p9k/how_can_i_make_asynchronous_coroutines_synchronous/)
+- [Something like cache server](https://www.reddit.com/r/androiddev/comments/zy7ihe/something_like_cache_server/)
+- [how to remove the in-game screen timeout button?](https://www.reddit.com/r/androiddev/comments/zy7hwm/how_to_remove_the_ingame_screen_timeout_button/)
+- [Hi everyone, in this video I have discussed about lamdas and custom higher order function.](https://www.reddit.com/r/androiddev/comments/zy3coj/hi_everyone_in_this_video_i_have_discussed_about/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
