@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [active discord](https://www.reddit.com/r/androiddev/comments/zyncpm/active_discord/)
-- [Google Play Developer Account terminated because of &quot;Association&quot;](https://www.reddit.com/r/androiddev/comments/zydgjt/google_play_developer_account_terminated_because/)
-- [What&#39;s new in Kotlin 1.8.0](https://www.reddit.com/r/androiddev/comments/zyask8/whats_new_in_kotlin_180/)
-- [The real difference between android presentation patterns](https://www.reddit.com/r/androiddev/comments/zy9q9k/the_real_difference_between_android_presentation/)
-- [Gradle 8.0-rc-1 released](https://www.reddit.com/r/androiddev/comments/zy8wqe/gradle_80rc1_released/)
-- [Best Linux to use Android studio?](https://www.reddit.com/r/androiddev/comments/zy87oh/best_linux_to_use_android_studio/)
-- [How can I make asynchronous coroutines synchronous?](https://www.reddit.com/r/androiddev/comments/zy7p9k/how_can_i_make_asynchronous_coroutines_synchronous/)
-- [Something like cache server](https://www.reddit.com/r/androiddev/comments/zy7ihe/something_like_cache_server/)
-- [how to remove the in-game screen timeout button?](https://www.reddit.com/r/androiddev/comments/zy7hwm/how_to_remove_the_ingame_screen_timeout_button/)
-- [Hi everyone, in this video I have discussed about lamdas and custom higher order function.](https://www.reddit.com/r/androiddev/comments/zy3coj/hi_everyone_in_this_video_i_have_discussed_about/)
+- [Installing closed beta frictionless signup](https://www.reddit.com/r/androiddev/comments/zzd5p6/installing_closed_beta_frictionless_signup/)
+- [I can&#39;t find where I put my earphones please read](https://www.reddit.com/r/androiddev/comments/zzc4xs/i_cant_find_where_i_put_my_earphones_please_read/)
+- [What free database services that are fit for low earning hobby projects](https://www.reddit.com/r/androiddev/comments/zzbj9t/what_free_database_services_that_are_fit_for_low/)
+- [Milestone | Published an application via GitHub Workflows | Baby Steps🐣](https://www.reddit.com/r/androiddev/comments/zzbhgf/milestone_published_an_application_via_github/)
+- [Is it possible to do a callback after dialing a phone number from an app?](https://www.reddit.com/r/androiddev/comments/zzaux8/is_it_possible_to_do_a_callback_after_dialing_a/)
+- [Question](https://www.reddit.com/r/androiddev/comments/zz9zso/question/)
+- [what is the preferred way of writing junit for api objects/response these days?](https://www.reddit.com/r/androiddev/comments/zz5mef/what_is_the_preferred_way_of_writing_junit_for/)
+- [where apps store their data i cant find them in android/data/[the app folder] folder](https://www.reddit.com/r/androiddev/comments/zz4v96/where_apps_store_their_data_i_cant_find_them_in/)
+- [Linux on Android: Accessing Camera, Sensors, and USB](https://www.reddit.com/r/androiddev/comments/zz3uoa/linux_on_android_accessing_camera_sensors_and_usb/)
+- [GUI TEST ESPRESSO](https://www.reddit.com/r/androiddev/comments/zz3r7y/gui_test_espresso/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
