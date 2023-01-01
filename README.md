@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Installing closed beta frictionless signup](https://www.reddit.com/r/androiddev/comments/zzd5p6/installing_closed_beta_frictionless_signup/)
-- [I can&#39;t find where I put my earphones please read](https://www.reddit.com/r/androiddev/comments/zzc4xs/i_cant_find_where_i_put_my_earphones_please_read/)
-- [What free database services that are fit for low earning hobby projects](https://www.reddit.com/r/androiddev/comments/zzbj9t/what_free_database_services_that_are_fit_for_low/)
-- [Milestone | Published an application via GitHub Workflows | Baby Steps🐣](https://www.reddit.com/r/androiddev/comments/zzbhgf/milestone_published_an_application_via_github/)
-- [Is it possible to do a callback after dialing a phone number from an app?](https://www.reddit.com/r/androiddev/comments/zzaux8/is_it_possible_to_do_a_callback_after_dialing_a/)
-- [Question](https://www.reddit.com/r/androiddev/comments/zz9zso/question/)
-- [what is the preferred way of writing junit for api objects/response these days?](https://www.reddit.com/r/androiddev/comments/zz5mef/what_is_the_preferred_way_of_writing_junit_for/)
-- [where apps store their data i cant find them in android/data/[the app folder] folder](https://www.reddit.com/r/androiddev/comments/zz4v96/where_apps_store_their_data_i_cant_find_them_in/)
-- [Linux on Android: Accessing Camera, Sensors, and USB](https://www.reddit.com/r/androiddev/comments/zz3uoa/linux_on_android_accessing_camera_sensors_and_usb/)
-- [GUI TEST ESPRESSO](https://www.reddit.com/r/androiddev/comments/zz3r7y/gui_test_espresso/)
+- [Looking for samples of Single Activity Multi Module Android projects with testing &lpar;XML&rpar;](https://www.reddit.com/r/androiddev/comments/1006ht8/looking_for_samples_of_single_activity_multi/)
+- [How can I create a bitmap using modified RGB values?](https://www.reddit.com/r/androiddev/comments/1004oxu/how_can_i_create_a_bitmap_using_modified_rgb/)
+- [Integration Of Software With Solar Systems](https://www.reddit.com/r/androiddev/comments/1003nha/integration_of_software_with_solar_systems/)
+- [Am I on the right path?](https://www.reddit.com/r/androiddev/comments/1000p4l/am_i_on_the_right_path/)
+- [Good resources to start learning how to build a basic &quot;I&#39;ve been there&quot; list app?](https://www.reddit.com/r/androiddev/comments/zzztf1/good_resources_to_start_learning_how_to_build_a/)
+- [Offline documentation not part of SDK anymore?](https://www.reddit.com/r/androiddev/comments/zzzkz9/offline_documentation_not_part_of_sdk_anymore/)
+- [How can i get equal spacing between every card ? Curently i am using recycler view with staggered grid layout and the cards in it has margin of 16dp on all sides but this is what i get &lpar;uneven spacing&rpar;](https://www.reddit.com/r/androiddev/comments/zzx06h/how_can_i_get_equal_spacing_between_every_card/)
+- [App was rejected for being affiliated with government and not sure how to resolve this](https://www.reddit.com/r/androiddev/comments/zztvy4/app_was_rejected_for_being_affiliated_with/)
+- [Bottom Navigation With Docked FAB in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zzteu2/bottom_navigation_with_docked_fab_in_jetpack/)
+- [Guys, Coffeee.io is conducting a small survey to understand &quot;Developers&#39; Job Preferences in 2023&quot; Please spare a min to take this.](https://www.reddit.com/r/androiddev/comments/zzstmh/guys_coffeeeio_is_conducting_a_small_survey_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
