@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for samples of Single Activity Multi Module Android projects with testing &lpar;XML&rpar;](https://www.reddit.com/r/androiddev/comments/1006ht8/looking_for_samples_of_single_activity_multi/)
-- [How can I create a bitmap using modified RGB values?](https://www.reddit.com/r/androiddev/comments/1004oxu/how_can_i_create_a_bitmap_using_modified_rgb/)
-- [Integration Of Software With Solar Systems](https://www.reddit.com/r/androiddev/comments/1003nha/integration_of_software_with_solar_systems/)
-- [Am I on the right path?](https://www.reddit.com/r/androiddev/comments/1000p4l/am_i_on_the_right_path/)
-- [Good resources to start learning how to build a basic &quot;I&#39;ve been there&quot; list app?](https://www.reddit.com/r/androiddev/comments/zzztf1/good_resources_to_start_learning_how_to_build_a/)
-- [Offline documentation not part of SDK anymore?](https://www.reddit.com/r/androiddev/comments/zzzkz9/offline_documentation_not_part_of_sdk_anymore/)
-- [How can i get equal spacing between every card ? Curently i am using recycler view with staggered grid layout and the cards in it has margin of 16dp on all sides but this is what i get &lpar;uneven spacing&rpar;](https://www.reddit.com/r/androiddev/comments/zzx06h/how_can_i_get_equal_spacing_between_every_card/)
-- [App was rejected for being affiliated with government and not sure how to resolve this](https://www.reddit.com/r/androiddev/comments/zztvy4/app_was_rejected_for_being_affiliated_with/)
-- [Bottom Navigation With Docked FAB in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zzteu2/bottom_navigation_with_docked_fab_in_jetpack/)
-- [Guys, Coffeee.io is conducting a small survey to understand &quot;Developers&#39; Job Preferences in 2023&quot; Please spare a min to take this.](https://www.reddit.com/r/androiddev/comments/zzstmh/guys_coffeeeio_is_conducting_a_small_survey_to/)
+- [Es normal este tipo de consumo de batería? Es un xiaomi 11t pro](https://www.reddit.com/r/androiddev/comments/100wsms/es_normal_este_tipo_de_consumo_de_batería_es_un/)
+- [Laptop for programming, android studio, machine learning](https://www.reddit.com/r/androiddev/comments/100w7as/laptop_for_programming_android_studio_machine/)
+- [Jetpack Compose Migration: Best Practices and Strategies](https://www.reddit.com/r/androiddev/comments/100rrxj/jetpack_compose_migration_best_practices_and/)
+- [Don&#39;t know how else to say this. Android 13 RAM management is f*cked](https://www.reddit.com/r/androiddev/comments/100r7dj/dont_know_how_else_to_say_this_android_13_ram/)
+- [LiveData placed in Service](https://www.reddit.com/r/androiddev/comments/100qpl3/livedata_placed_in_service/)
+- [Admob transaction](https://www.reddit.com/r/androiddev/comments/100qkgj/admob_transaction/)
+- [Noob question - Can android apps be authorized listen to calls &amp; do text to speech &lpar;real time&rpar;?](https://www.reddit.com/r/androiddev/comments/100phpa/noob_question_can_android_apps_be_authorized/)
+- [They took away all my revenue](https://www.reddit.com/r/androiddev/comments/100pe9l/they_took_away_all_my_revenue/)
+- [How good is the &quot;Associate Android Developer Certification&quot; by Google?](https://www.reddit.com/r/androiddev/comments/100ns3f/how_good_is_the_associate_android_developer/)
+- [where do I even start in android development?](https://www.reddit.com/r/androiddev/comments/100ln4z/where_do_i_even_start_in_android_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
