@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Es normal este tipo de consumo de batería? Es un xiaomi 11t pro](https://www.reddit.com/r/androiddev/comments/100wsms/es_normal_este_tipo_de_consumo_de_batería_es_un/)
-- [Laptop for programming, android studio, machine learning](https://www.reddit.com/r/androiddev/comments/100w7as/laptop_for_programming_android_studio_machine/)
-- [Jetpack Compose Migration: Best Practices and Strategies](https://www.reddit.com/r/androiddev/comments/100rrxj/jetpack_compose_migration_best_practices_and/)
-- [Don&#39;t know how else to say this. Android 13 RAM management is f*cked](https://www.reddit.com/r/androiddev/comments/100r7dj/dont_know_how_else_to_say_this_android_13_ram/)
-- [LiveData placed in Service](https://www.reddit.com/r/androiddev/comments/100qpl3/livedata_placed_in_service/)
-- [Admob transaction](https://www.reddit.com/r/androiddev/comments/100qkgj/admob_transaction/)
-- [Noob question - Can android apps be authorized listen to calls &amp; do text to speech &lpar;real time&rpar;?](https://www.reddit.com/r/androiddev/comments/100phpa/noob_question_can_android_apps_be_authorized/)
-- [They took away all my revenue](https://www.reddit.com/r/androiddev/comments/100pe9l/they_took_away_all_my_revenue/)
-- [How good is the &quot;Associate Android Developer Certification&quot; by Google?](https://www.reddit.com/r/androiddev/comments/100ns3f/how_good_is_the_associate_android_developer/)
-- [where do I even start in android development?](https://www.reddit.com/r/androiddev/comments/100ln4z/where_do_i_even_start_in_android_development/)
+- [Interesting discussion on the compose multiplatform future, android developer might want to read it](https://www.reddit.com/r/androiddev/comments/101t6nv/interesting_discussion_on_the_compose/)
+- [🏰 Exploring the Disneyland app internal API](https://www.reddit.com/r/androiddev/comments/101n0j8/exploring_the_disneyland_app_internal_api/)
+- [How to use a value from another activity](https://www.reddit.com/r/androiddev/comments/101jo21/how_to_use_a_value_from_another_activity/)
+- [how to launch apps in wear os](https://www.reddit.com/r/androiddev/comments/101hx90/how_to_launch_apps_in_wear_os/)
+- [Can i use companies logo in my app ?](https://www.reddit.com/r/androiddev/comments/101gdr8/can_i_use_companies_logo_in_my_app/)
+- [Sudden increase in revenue.](https://www.reddit.com/r/androiddev/comments/101eyyx/sudden_increase_in_revenue/)
+- [Best way to display images with a RecyclerView](https://www.reddit.com/r/androiddev/comments/101ers6/best_way_to_display_images_with_a_recyclerview/)
+- [Weekly Who&#39;s Hiring Thread - January 02, 2023](https://www.reddit.com/r/androiddev/comments/101d9b9/weekly_whos_hiring_thread_january_02_2023/)
+- [Weekly discussion, code review, and feedback thread - January 02, 2023](https://www.reddit.com/r/androiddev/comments/101c22m/weekly_discussion_code_review_and_feedback_thread/)
+- [Which navigation library for compose do you suggest?](https://www.reddit.com/r/androiddev/comments/101bbvu/which_navigation_library_for_compose_do_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
