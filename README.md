@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Interesting discussion on the compose multiplatform future, android developer might want to read it](https://www.reddit.com/r/androiddev/comments/101t6nv/interesting_discussion_on_the_compose/)
-- [🏰 Exploring the Disneyland app internal API](https://www.reddit.com/r/androiddev/comments/101n0j8/exploring_the_disneyland_app_internal_api/)
-- [How to use a value from another activity](https://www.reddit.com/r/androiddev/comments/101jo21/how_to_use_a_value_from_another_activity/)
-- [how to launch apps in wear os](https://www.reddit.com/r/androiddev/comments/101hx90/how_to_launch_apps_in_wear_os/)
-- [Can i use companies logo in my app ?](https://www.reddit.com/r/androiddev/comments/101gdr8/can_i_use_companies_logo_in_my_app/)
-- [Sudden increase in revenue.](https://www.reddit.com/r/androiddev/comments/101eyyx/sudden_increase_in_revenue/)
-- [Best way to display images with a RecyclerView](https://www.reddit.com/r/androiddev/comments/101ers6/best_way_to_display_images_with_a_recyclerview/)
-- [Weekly Who&#39;s Hiring Thread - January 02, 2023](https://www.reddit.com/r/androiddev/comments/101d9b9/weekly_whos_hiring_thread_january_02_2023/)
-- [Weekly discussion, code review, and feedback thread - January 02, 2023](https://www.reddit.com/r/androiddev/comments/101c22m/weekly_discussion_code_review_and_feedback_thread/)
-- [Which navigation library for compose do you suggest?](https://www.reddit.com/r/androiddev/comments/101bbvu/which_navigation_library_for_compose_do_you/)
+- [iCloud but for Andriod?](https://www.reddit.com/r/androiddev/comments/102m4fr/icloud_but_for_andriod/)
+- [It&#39;s 2023. Where&#39;s My Advanced User Interface?](https://www.reddit.com/r/androiddev/comments/102l1mk/its_2023_wheres_my_advanced_user_interface/)
+- [Where are the test packages for Android TV?](https://www.reddit.com/r/androiddev/comments/102l1l6/where_are_the_test_packages_for_android_tv/)
+- [Can split-screen be toggled programmatically using the Android Shell?](https://www.reddit.com/r/androiddev/comments/102kdci/can_splitscreen_be_toggled_programmatically_using/)
+- [I need external transfer help](https://www.reddit.com/r/androiddev/comments/102kbqj/i_need_external_transfer_help/)
+- [Do you frequently use Compose Constraint Layout while development?](https://www.reddit.com/r/androiddev/comments/102if92/do_you_frequently_use_compose_constraint_layout/)
+- [Where can I see the versions of libraries?](https://www.reddit.com/r/androiddev/comments/102fz0l/where_can_i_see_the_versions_of_libraries/)
+- [Can you create a circular layout with compose?](https://www.reddit.com/r/androiddev/comments/102eur9/can_you_create_a_circular_layout_with_compose/)
+- [In Android should we use retrofit or AWS Lambda sdk for calling AWS lambda function](https://www.reddit.com/r/androiddev/comments/102eub5/in_android_should_we_use_retrofit_or_aws_lambda/)
+- [Android Feature Request: Permission API For Allowing Certain Apps to continue running on an external display while the device is locked](https://www.reddit.com/r/androiddev/comments/102e3ue/android_feature_request_permission_api_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
