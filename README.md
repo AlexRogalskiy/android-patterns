@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [iCloud but for Andriod?](https://www.reddit.com/r/androiddev/comments/102m4fr/icloud_but_for_andriod/)
-- [It&#39;s 2023. Where&#39;s My Advanced User Interface?](https://www.reddit.com/r/androiddev/comments/102l1mk/its_2023_wheres_my_advanced_user_interface/)
-- [Where are the test packages for Android TV?](https://www.reddit.com/r/androiddev/comments/102l1l6/where_are_the_test_packages_for_android_tv/)
-- [Can split-screen be toggled programmatically using the Android Shell?](https://www.reddit.com/r/androiddev/comments/102kdci/can_splitscreen_be_toggled_programmatically_using/)
-- [I need external transfer help](https://www.reddit.com/r/androiddev/comments/102kbqj/i_need_external_transfer_help/)
-- [Do you frequently use Compose Constraint Layout while development?](https://www.reddit.com/r/androiddev/comments/102if92/do_you_frequently_use_compose_constraint_layout/)
-- [Where can I see the versions of libraries?](https://www.reddit.com/r/androiddev/comments/102fz0l/where_can_i_see_the_versions_of_libraries/)
-- [Can you create a circular layout with compose?](https://www.reddit.com/r/androiddev/comments/102eur9/can_you_create_a_circular_layout_with_compose/)
-- [In Android should we use retrofit or AWS Lambda sdk for calling AWS lambda function](https://www.reddit.com/r/androiddev/comments/102eub5/in_android_should_we_use_retrofit_or_aws_lambda/)
-- [Android Feature Request: Permission API For Allowing Certain Apps to continue running on an external display while the device is locked](https://www.reddit.com/r/androiddev/comments/102e3ue/android_feature_request_permission_api_for/)
+- [Collecting Android Telemetry](https://www.reddit.com/r/androiddev/comments/103m8fq/collecting_android_telemetry/)
+- [Are there any Android emulators that can simulate the camera with a video or image file that I specify?](https://www.reddit.com/r/androiddev/comments/103lmyp/are_there_any_android_emulators_that_can_simulate/)
+- [Adding to a compose CurvedLayout](https://www.reddit.com/r/androiddev/comments/103i1p2/adding_to_a_compose_curvedlayout/)
+- [viewPager2 previous page still listening touch events, i didn&#39;t get why🤔](https://www.reddit.com/r/androiddev/comments/103gjgn/viewpager2_previous_page_still_listening_touch/)
+- [View visibility changes to GONE after migrating to Kotlin](https://www.reddit.com/r/androiddev/comments/103dzgi/view_visibility_changes_to_gone_after_migrating/)
+- [I am looking for your opinion on your learning process and your goals](https://www.reddit.com/r/androiddev/comments/103bn02/i_am_looking_for_your_opinion_on_your_learning/)
+- [Anyone ever see this?](https://www.reddit.com/r/androiddev/comments/103avf5/anyone_ever_see_this/)
+- [Android Studio Flamingo Canary 11 now available](https://www.reddit.com/r/androiddev/comments/103a5bd/android_studio_flamingo_canary_11_now_available/)
+- [Hey guys need help, moms phone frozen on Home Screen.](https://www.reddit.com/r/androiddev/comments/1038d73/hey_guys_need_help_moms_phone_frozen_on_home/)
+- [Do you have any IDE that is lighter than android studio. my pc has 4 ram :/](https://www.reddit.com/r/androiddev/comments/1037olh/do_you_have_any_ide_that_is_lighter_than_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
