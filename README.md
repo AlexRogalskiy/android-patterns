@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Collecting Android Telemetry](https://www.reddit.com/r/androiddev/comments/103m8fq/collecting_android_telemetry/)
-- [Are there any Android emulators that can simulate the camera with a video or image file that I specify?](https://www.reddit.com/r/androiddev/comments/103lmyp/are_there_any_android_emulators_that_can_simulate/)
-- [Adding to a compose CurvedLayout](https://www.reddit.com/r/androiddev/comments/103i1p2/adding_to_a_compose_curvedlayout/)
-- [viewPager2 previous page still listening touch events, i didn&#39;t get why🤔](https://www.reddit.com/r/androiddev/comments/103gjgn/viewpager2_previous_page_still_listening_touch/)
-- [View visibility changes to GONE after migrating to Kotlin](https://www.reddit.com/r/androiddev/comments/103dzgi/view_visibility_changes_to_gone_after_migrating/)
-- [I am looking for your opinion on your learning process and your goals](https://www.reddit.com/r/androiddev/comments/103bn02/i_am_looking_for_your_opinion_on_your_learning/)
-- [Anyone ever see this?](https://www.reddit.com/r/androiddev/comments/103avf5/anyone_ever_see_this/)
-- [Android Studio Flamingo Canary 11 now available](https://www.reddit.com/r/androiddev/comments/103a5bd/android_studio_flamingo_canary_11_now_available/)
-- [Hey guys need help, moms phone frozen on Home Screen.](https://www.reddit.com/r/androiddev/comments/1038d73/hey_guys_need_help_moms_phone_frozen_on_home/)
-- [Do you have any IDE that is lighter than android studio. my pc has 4 ram :/](https://www.reddit.com/r/androiddev/comments/1037olh/do_you_have_any_ide_that_is_lighter_than_android/)
+- [How to develop an app that has a single function?](https://www.reddit.com/r/androiddev/comments/104hprx/how_to_develop_an_app_that_has_a_single_function/)
+- [Setup A Self Modifiable List Of Data In Jetpack Compose](https://www.reddit.com/r/androiddev/comments/104fwqv/setup_a_self_modifiable_list_of_data_in_jetpack/)
+- [Unable to add a second app in API access within Play console](https://www.reddit.com/r/androiddev/comments/104edb4/unable_to_add_a_second_app_in_api_access_within/)
+- [Google payments verification - failed but no way to resolve, please help!](https://www.reddit.com/r/androiddev/comments/104bru0/google_payments_verification_failed_but_no_way_to/)
+- [any way to make simple things simple?](https://www.reddit.com/r/androiddev/comments/104ao15/any_way_to_make_simple_things_simple/)
+- [what are those? in just 10 days using more data than all apps combined.](https://www.reddit.com/r/androiddev/comments/1049p6y/what_are_those_in_just_10_days_using_more_data/)
+- [Need help about buying app](https://www.reddit.com/r/androiddev/comments/10481e1/need_help_about_buying_app/)
+- [What is Uber using for UI?](https://www.reddit.com/r/androiddev/comments/1046xel/what_is_uber_using_for_ui/)
+- [can&#39;t use isChecked](https://www.reddit.com/r/androiddev/comments/1045y11/cant_use_ischecked/)
+- [display drawable in compose](https://www.reddit.com/r/androiddev/comments/1043u9q/display_drawable_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
