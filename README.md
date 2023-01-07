@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to develop an app that has a single function?](https://www.reddit.com/r/androiddev/comments/104hprx/how_to_develop_an_app_that_has_a_single_function/)
-- [Setup A Self Modifiable List Of Data In Jetpack Compose](https://www.reddit.com/r/androiddev/comments/104fwqv/setup_a_self_modifiable_list_of_data_in_jetpack/)
-- [Unable to add a second app in API access within Play console](https://www.reddit.com/r/androiddev/comments/104edb4/unable_to_add_a_second_app_in_api_access_within/)
-- [Google payments verification - failed but no way to resolve, please help!](https://www.reddit.com/r/androiddev/comments/104bru0/google_payments_verification_failed_but_no_way_to/)
-- [any way to make simple things simple?](https://www.reddit.com/r/androiddev/comments/104ao15/any_way_to_make_simple_things_simple/)
-- [what are those? in just 10 days using more data than all apps combined.](https://www.reddit.com/r/androiddev/comments/1049p6y/what_are_those_in_just_10_days_using_more_data/)
-- [Need help about buying app](https://www.reddit.com/r/androiddev/comments/10481e1/need_help_about_buying_app/)
-- [What is Uber using for UI?](https://www.reddit.com/r/androiddev/comments/1046xel/what_is_uber_using_for_ui/)
-- [can&#39;t use isChecked](https://www.reddit.com/r/androiddev/comments/1045y11/cant_use_ischecked/)
-- [display drawable in compose](https://www.reddit.com/r/androiddev/comments/1043u9q/display_drawable_in_compose/)
+- [Anyone using ChatGPT?](https://www.reddit.com/r/androiddev/comments/1057s1e/anyone_using_chatgpt/)
+- [Android Emulator Tips &amp; Tricks | The Upside-Down Trees](https://www.reddit.com/r/androiddev/comments/1056ydf/android_emulator_tips_tricks_the_upsidedown_trees/)
+- [State in Compose! remember and mutableStateOf](https://www.reddit.com/r/androiddev/comments/10560tt/state_in_compose_remember_and_mutablestateof/)
+- [App updates without public Play Store](https://www.reddit.com/r/androiddev/comments/1050927/app_updates_without_public_play_store/)
+- [If I made a screen of a different shape &lpar;for example, a heart shape&rpar; what would I need to change/do to make android fill and cut off the screen in the correct way. I’m more familiar with iOS so I don’t know too much, but anything helps.](https://www.reddit.com/r/androiddev/comments/104yq7c/if_i_made_a_screen_of_a_different_shape_for/)
+- [What’s happening to Intel HAXM](https://www.reddit.com/r/androiddev/comments/104yaql/whats_happening_to_intel_haxm/)
+- [Issue: Violation of Trademark Infringement policy](https://www.reddit.com/r/androiddev/comments/104xni0/issue_violation_of_trademark_infringement_policy/)
+- [I added the SHA1 &amp; SHA-256 to Firebase and still getting this error, please help!](https://www.reddit.com/r/androiddev/comments/104uv3m/i_added_the_sha1_sha256_to_firebase_and_still/)
+- [Single Activity Apps: Fragments vs Views in 2022](https://www.reddit.com/r/androiddev/comments/104u0im/single_activity_apps_fragments_vs_views_in_2022/)
+- [Moving from iOS development and I have a question about finding dependencies](https://www.reddit.com/r/androiddev/comments/104ta9a/moving_from_ios_development_and_i_have_a_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
