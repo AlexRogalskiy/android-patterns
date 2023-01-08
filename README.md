@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone using ChatGPT?](https://www.reddit.com/r/androiddev/comments/1057s1e/anyone_using_chatgpt/)
-- [Android Emulator Tips &amp; Tricks | The Upside-Down Trees](https://www.reddit.com/r/androiddev/comments/1056ydf/android_emulator_tips_tricks_the_upsidedown_trees/)
-- [State in Compose! remember and mutableStateOf](https://www.reddit.com/r/androiddev/comments/10560tt/state_in_compose_remember_and_mutablestateof/)
-- [App updates without public Play Store](https://www.reddit.com/r/androiddev/comments/1050927/app_updates_without_public_play_store/)
-- [If I made a screen of a different shape &lpar;for example, a heart shape&rpar; what would I need to change/do to make android fill and cut off the screen in the correct way. I’m more familiar with iOS so I don’t know too much, but anything helps.](https://www.reddit.com/r/androiddev/comments/104yq7c/if_i_made_a_screen_of_a_different_shape_for/)
-- [What’s happening to Intel HAXM](https://www.reddit.com/r/androiddev/comments/104yaql/whats_happening_to_intel_haxm/)
-- [Issue: Violation of Trademark Infringement policy](https://www.reddit.com/r/androiddev/comments/104xni0/issue_violation_of_trademark_infringement_policy/)
-- [I added the SHA1 &amp; SHA-256 to Firebase and still getting this error, please help!](https://www.reddit.com/r/androiddev/comments/104uv3m/i_added_the_sha1_sha256_to_firebase_and_still/)
-- [Single Activity Apps: Fragments vs Views in 2022](https://www.reddit.com/r/androiddev/comments/104u0im/single_activity_apps_fragments_vs_views_in_2022/)
-- [Moving from iOS development and I have a question about finding dependencies](https://www.reddit.com/r/androiddev/comments/104ta9a/moving_from_ios_development_and_i_have_a_question/)
+- [Appwrite Database issue](https://www.reddit.com/r/androiddev/comments/1065i4f/appwrite_database_issue/)
+- [Is it possible to lock android go one app with only some background services](https://www.reddit.com/r/androiddev/comments/1064oej/is_it_possible_to_lock_android_go_one_app_with/)
+- [estou com dificuldade de encontrar a solução para esse erro no Android Studio, alguém poderia me dar uma luz?](https://www.reddit.com/r/androiddev/comments/1061coi/estou_com_dificuldade_de_encontrar_a_solução_para/)
+- [Google Developer console registration issues - Deduction of billing account on each failed transaction without refund from google.](https://www.reddit.com/r/androiddev/comments/10618e1/google_developer_console_registration_issues/)
+- [Custom Calendar from RecyclerView with Events from DB - How to apply all of them on multiple dates?](https://www.reddit.com/r/androiddev/comments/1060k7l/custom_calendar_from_recyclerview_with_events/)
+- [Day Night Map is now open source](https://www.reddit.com/r/androiddev/comments/10603iy/day_night_map_is_now_open_source/)
+- [can we make tv UI by xml and mobile UI by compose?](https://www.reddit.com/r/androiddev/comments/105y7xm/can_we_make_tv_ui_by_xml_and_mobile_ui_by_compose/)
+- [Pass data from fragment to view model](https://www.reddit.com/r/androiddev/comments/105y4rf/pass_data_from_fragment_to_view_model/)
+- [What could be approach to handle large amount of data in mobile app while in offline?](https://www.reddit.com/r/androiddev/comments/105wyxy/what_could_be_approach_to_handle_large_amount_of/)
+- [Hello](https://www.reddit.com/r/androiddev/comments/105wjdl/hello/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
