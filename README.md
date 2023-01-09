@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Appwrite Database issue](https://www.reddit.com/r/androiddev/comments/1065i4f/appwrite_database_issue/)
-- [Is it possible to lock android go one app with only some background services](https://www.reddit.com/r/androiddev/comments/1064oej/is_it_possible_to_lock_android_go_one_app_with/)
-- [estou com dificuldade de encontrar a solução para esse erro no Android Studio, alguém poderia me dar uma luz?](https://www.reddit.com/r/androiddev/comments/1061coi/estou_com_dificuldade_de_encontrar_a_solução_para/)
-- [Google Developer console registration issues - Deduction of billing account on each failed transaction without refund from google.](https://www.reddit.com/r/androiddev/comments/10618e1/google_developer_console_registration_issues/)
-- [Custom Calendar from RecyclerView with Events from DB - How to apply all of them on multiple dates?](https://www.reddit.com/r/androiddev/comments/1060k7l/custom_calendar_from_recyclerview_with_events/)
-- [Day Night Map is now open source](https://www.reddit.com/r/androiddev/comments/10603iy/day_night_map_is_now_open_source/)
-- [can we make tv UI by xml and mobile UI by compose?](https://www.reddit.com/r/androiddev/comments/105y7xm/can_we_make_tv_ui_by_xml_and_mobile_ui_by_compose/)
-- [Pass data from fragment to view model](https://www.reddit.com/r/androiddev/comments/105y4rf/pass_data_from_fragment_to_view_model/)
-- [What could be approach to handle large amount of data in mobile app while in offline?](https://www.reddit.com/r/androiddev/comments/105wyxy/what_could_be_approach_to_handle_large_amount_of/)
-- [Hello](https://www.reddit.com/r/androiddev/comments/105wjdl/hello/)
+- [What is this Android app?](https://www.reddit.com/r/androiddev/comments/1071044/what_is_this_android_app/)
+- [Signing Up Google Play Console as a business account](https://www.reddit.com/r/androiddev/comments/1070fcu/signing_up_google_play_console_as_a_business/)
+- [Is it possible to transfer the pictures from my old phone to a new phone without transferring possible viruses?](https://www.reddit.com/r/androiddev/comments/106zwhb/is_it_possible_to_transfer_the_pictures_from_my/)
+- [I have found a bug in Android, take a look if you are interested.](https://www.reddit.com/r/androiddev/comments/106tgio/i_have_found_a_bug_in_android_take_a_look_if_you/)
+- [I made a Jetpack Compose library for theming that adds Dynamic Colors to old devices &lpar;Android 8.1 and higher&rpar;.](https://www.reddit.com/r/androiddev/comments/106t4pg/i_made_a_jetpack_compose_library_for_theming_that/)
+- [Intel Discontinues Development Of Open-Source HAXM Software](https://www.reddit.com/r/androiddev/comments/106selg/intel_discontinues_development_of_opensource_haxm/)
+- [I want to build a android SDK that wraps an API. Will coding it in Kotlin works for both the apps written in Java and Kotlin or do I need to build two SDK one for Java and other for Kotlin.](https://www.reddit.com/r/androiddev/comments/106qkwd/i_want_to_build_a_android_sdk_that_wraps_an_api/)
+- [Any free alternative to MIT App Inventor?](https://www.reddit.com/r/androiddev/comments/106lgkl/any_free_alternative_to_mit_app_inventor/)
+- [Sending strings and other data inputs to an ESP32 over WiFi using Android App &lpar;project guidance&rpar;](https://www.reddit.com/r/androiddev/comments/106i6pp/sending_strings_and_other_data_inputs_to_an_esp32/)
+- [Tired of poor anti-theft, would like to make a custom rom for that - Where to begin ?](https://www.reddit.com/r/androiddev/comments/106hwjq/tired_of_poor_antitheft_would_like_to_make_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
