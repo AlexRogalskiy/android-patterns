@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is this Android app?](https://www.reddit.com/r/androiddev/comments/1071044/what_is_this_android_app/)
-- [Signing Up Google Play Console as a business account](https://www.reddit.com/r/androiddev/comments/1070fcu/signing_up_google_play_console_as_a_business/)
-- [Is it possible to transfer the pictures from my old phone to a new phone without transferring possible viruses?](https://www.reddit.com/r/androiddev/comments/106zwhb/is_it_possible_to_transfer_the_pictures_from_my/)
-- [I have found a bug in Android, take a look if you are interested.](https://www.reddit.com/r/androiddev/comments/106tgio/i_have_found_a_bug_in_android_take_a_look_if_you/)
-- [I made a Jetpack Compose library for theming that adds Dynamic Colors to old devices &lpar;Android 8.1 and higher&rpar;.](https://www.reddit.com/r/androiddev/comments/106t4pg/i_made_a_jetpack_compose_library_for_theming_that/)
-- [Intel Discontinues Development Of Open-Source HAXM Software](https://www.reddit.com/r/androiddev/comments/106selg/intel_discontinues_development_of_opensource_haxm/)
-- [I want to build a android SDK that wraps an API. Will coding it in Kotlin works for both the apps written in Java and Kotlin or do I need to build two SDK one for Java and other for Kotlin.](https://www.reddit.com/r/androiddev/comments/106qkwd/i_want_to_build_a_android_sdk_that_wraps_an_api/)
-- [Any free alternative to MIT App Inventor?](https://www.reddit.com/r/androiddev/comments/106lgkl/any_free_alternative_to_mit_app_inventor/)
-- [Sending strings and other data inputs to an ESP32 over WiFi using Android App &lpar;project guidance&rpar;](https://www.reddit.com/r/androiddev/comments/106i6pp/sending_strings_and_other_data_inputs_to_an_esp32/)
-- [Tired of poor anti-theft, would like to make a custom rom for that - Where to begin ?](https://www.reddit.com/r/androiddev/comments/106hwjq/tired_of_poor_antitheft_would_like_to_make_a/)
+- [How secure is Android apps fingerprint authentication in 2023?](https://www.reddit.com/r/androiddev/comments/107udu6/how_secure_is_android_apps_fingerprint/)
+- [Does Android Studio works fine in Mac M1?](https://www.reddit.com/r/androiddev/comments/107u84w/does_android_studio_works_fine_in_mac_m1/)
+- [Android learning pathway advice](https://www.reddit.com/r/androiddev/comments/107t0l7/android_learning_pathway_advice/)
+- [Does anybody have an example of a multi module project with one module being a broadcast receiver?](https://www.reddit.com/r/androiddev/comments/107p8zk/does_anybody_have_an_example_of_a_multi_module/)
+- [Social Media UI in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/107ocfb/social_media_ui_in_jetpack_compose/)
+- [Extending the Android SDK - Google releases first public version of the &quot;Extension SDK&quot;.](https://www.reddit.com/r/androiddev/comments/107ns5w/extending_the_android_sdk_google_releases_first/)
+- [Does uploading a new app vs updating an old one help with download?](https://www.reddit.com/r/androiddev/comments/107mn5i/does_uploading_a_new_app_vs_updating_an_old_one/)
+- [How to disable receiving Notifications via Firebase Cloud Messaging?](https://www.reddit.com/r/androiddev/comments/107k409/how_to_disable_receiving_notifications_via/)
+- [kindly help a bro out](https://www.reddit.com/r/androiddev/comments/107jvs9/kindly_help_a_bro_out/)
+- [Best Android Development Book&#39;s](https://www.reddit.com/r/androiddev/comments/107jutx/best_android_development_books/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
