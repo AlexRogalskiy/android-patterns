@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How secure is Android apps fingerprint authentication in 2023?](https://www.reddit.com/r/androiddev/comments/107udu6/how_secure_is_android_apps_fingerprint/)
-- [Does Android Studio works fine in Mac M1?](https://www.reddit.com/r/androiddev/comments/107u84w/does_android_studio_works_fine_in_mac_m1/)
-- [Android learning pathway advice](https://www.reddit.com/r/androiddev/comments/107t0l7/android_learning_pathway_advice/)
-- [Does anybody have an example of a multi module project with one module being a broadcast receiver?](https://www.reddit.com/r/androiddev/comments/107p8zk/does_anybody_have_an_example_of_a_multi_module/)
-- [Social Media UI in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/107ocfb/social_media_ui_in_jetpack_compose/)
-- [Extending the Android SDK - Google releases first public version of the &quot;Extension SDK&quot;.](https://www.reddit.com/r/androiddev/comments/107ns5w/extending_the_android_sdk_google_releases_first/)
-- [Does uploading a new app vs updating an old one help with download?](https://www.reddit.com/r/androiddev/comments/107mn5i/does_uploading_a_new_app_vs_updating_an_old_one/)
-- [How to disable receiving Notifications via Firebase Cloud Messaging?](https://www.reddit.com/r/androiddev/comments/107k409/how_to_disable_receiving_notifications_via/)
-- [kindly help a bro out](https://www.reddit.com/r/androiddev/comments/107jvs9/kindly_help_a_bro_out/)
-- [Best Android Development Book&#39;s](https://www.reddit.com/r/androiddev/comments/107jutx/best_android_development_books/)
+- [Don&#39;t understand this aspect of compose](https://www.reddit.com/r/androiddev/comments/108rh9m/dont_understand_this_aspect_of_compose/)
+- [Some highlights from Google Dev Library](https://www.reddit.com/r/androiddev/comments/108qobe/some_highlights_from_google_dev_library/)
+- [How does your CI/CD look like?](https://www.reddit.com/r/androiddev/comments/108qjcs/how_does_your_cicd_look_like/)
+- [Is it possible to use Pandoc in a Android project?](https://www.reddit.com/r/androiddev/comments/108q74y/is_it_possible_to_use_pandoc_in_a_android_project/)
+- [Fixing OutOfMemoryErrors](https://www.reddit.com/r/androiddev/comments/108pu1a/fixing_outofmemoryerrors/)
+- [Unable to access subscriptions google play console](https://www.reddit.com/r/androiddev/comments/108pg5s/unable_to_access_subscriptions_google_play_console/)
+- [Weird behaviour when using window.setDecorFitsSystemWindows&lpar;false&rpar; and BottomAppBar](https://www.reddit.com/r/androiddev/comments/108mfaj/weird_behaviour_when_using/)
+- [Jetpack Compose for days](https://www.reddit.com/r/androiddev/comments/108l429/jetpack_compose_for_days/)
+- [Is there any way I could toggle airplane mode programmatically](https://www.reddit.com/r/androiddev/comments/108jimo/is_there_any_way_i_could_toggle_airplane_mode/)
+- [&lpar;ASO&rpar; Google Play Store absolutely deranked my app from search results](https://www.reddit.com/r/androiddev/comments/108grxj/aso_google_play_store_absolutely_deranked_my_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
