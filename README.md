@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Don&#39;t understand this aspect of compose](https://www.reddit.com/r/androiddev/comments/108rh9m/dont_understand_this_aspect_of_compose/)
-- [Some highlights from Google Dev Library](https://www.reddit.com/r/androiddev/comments/108qobe/some_highlights_from_google_dev_library/)
-- [How does your CI/CD look like?](https://www.reddit.com/r/androiddev/comments/108qjcs/how_does_your_cicd_look_like/)
-- [Is it possible to use Pandoc in a Android project?](https://www.reddit.com/r/androiddev/comments/108q74y/is_it_possible_to_use_pandoc_in_a_android_project/)
-- [Fixing OutOfMemoryErrors](https://www.reddit.com/r/androiddev/comments/108pu1a/fixing_outofmemoryerrors/)
-- [Unable to access subscriptions google play console](https://www.reddit.com/r/androiddev/comments/108pg5s/unable_to_access_subscriptions_google_play_console/)
-- [Weird behaviour when using window.setDecorFitsSystemWindows&lpar;false&rpar; and BottomAppBar](https://www.reddit.com/r/androiddev/comments/108mfaj/weird_behaviour_when_using/)
-- [Jetpack Compose for days](https://www.reddit.com/r/androiddev/comments/108l429/jetpack_compose_for_days/)
-- [Is there any way I could toggle airplane mode programmatically](https://www.reddit.com/r/androiddev/comments/108jimo/is_there_any_way_i_could_toggle_airplane_mode/)
-- [&lpar;ASO&rpar; Google Play Store absolutely deranked my app from search results](https://www.reddit.com/r/androiddev/comments/108grxj/aso_google_play_store_absolutely_deranked_my_app/)
+- [Can&#39;t find SHA-1 number](https://www.reddit.com/r/androiddev/comments/109mc8q/cant_find_sha1_number/)
+- [What is the best practice for keeping file data you have read from the device?](https://www.reddit.com/r/androiddev/comments/109jie0/what_is_the_best_practice_for_keeping_file_data/)
+- [[XSD] create XSD pattern](https://www.reddit.com/r/androiddev/comments/109ix1b/xsd_create_xsd_pattern/)
+- [Is it possible to change the value of a TextView from another fragment that uses a different layout than what contains said TextView?](https://www.reddit.com/r/androiddev/comments/109ivrr/is_it_possible_to_change_the_value_of_a_textview/)
+- [A severe blocker bug in Jetpack Compose, being unable to put TextField in a LazyColumn while keeping keyboard open, was finally fixed in 1.4.0-alpha4](https://www.reddit.com/r/androiddev/comments/109inrw/a_severe_blocker_bug_in_jetpack_compose_being/)
+- [Searching for app maker tool](https://www.reddit.com/r/androiddev/comments/109gw4v/searching_for_app_maker_tool/)
+- [Costs of Real time developer notifications](https://www.reddit.com/r/androiddev/comments/109en9b/costs_of_real_time_developer_notifications/)
+- [How do you test your app?](https://www.reddit.com/r/androiddev/comments/109d7xw/how_do_you_test_your_app/)
+- [Is it okay if my activity is fully filled by XML code?](https://www.reddit.com/r/androiddev/comments/109adnf/is_it_okay_if_my_activity_is_fully_filled_by_xml/)
+- [KmmScanner: a Kotlin multiplatform library for Bluetooth Beacons Scanning](https://www.reddit.com/r/androiddev/comments/1098xcx/kmmscanner_a_kotlin_multiplatform_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
