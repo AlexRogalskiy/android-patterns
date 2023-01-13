@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can&#39;t find SHA-1 number](https://www.reddit.com/r/androiddev/comments/109mc8q/cant_find_sha1_number/)
-- [What is the best practice for keeping file data you have read from the device?](https://www.reddit.com/r/androiddev/comments/109jie0/what_is_the_best_practice_for_keeping_file_data/)
-- [[XSD] create XSD pattern](https://www.reddit.com/r/androiddev/comments/109ix1b/xsd_create_xsd_pattern/)
-- [Is it possible to change the value of a TextView from another fragment that uses a different layout than what contains said TextView?](https://www.reddit.com/r/androiddev/comments/109ivrr/is_it_possible_to_change_the_value_of_a_textview/)
-- [A severe blocker bug in Jetpack Compose, being unable to put TextField in a LazyColumn while keeping keyboard open, was finally fixed in 1.4.0-alpha4](https://www.reddit.com/r/androiddev/comments/109inrw/a_severe_blocker_bug_in_jetpack_compose_being/)
-- [Searching for app maker tool](https://www.reddit.com/r/androiddev/comments/109gw4v/searching_for_app_maker_tool/)
-- [Costs of Real time developer notifications](https://www.reddit.com/r/androiddev/comments/109en9b/costs_of_real_time_developer_notifications/)
-- [How do you test your app?](https://www.reddit.com/r/androiddev/comments/109d7xw/how_do_you_test_your_app/)
-- [Is it okay if my activity is fully filled by XML code?](https://www.reddit.com/r/androiddev/comments/109adnf/is_it_okay_if_my_activity_is_fully_filled_by_xml/)
-- [KmmScanner: a Kotlin multiplatform library for Bluetooth Beacons Scanning](https://www.reddit.com/r/androiddev/comments/1098xcx/kmmscanner_a_kotlin_multiplatform_library_for/)
+- [Android Studio Electric Eel available in the Stable channel](https://www.reddit.com/r/androiddev/comments/10af3wh/android_studio_electric_eel_available_in_the/)
+- [What&#39;s new in Android Studio - Electric Eel](https://www.reddit.com/r/androiddev/comments/10ad1lc/whats_new_in_android_studio_electric_eel/)
+- [Android Studio Electric Eel](https://www.reddit.com/r/androiddev/comments/10acf2w/android_studio_electric_eel/)
+- [is it possible to pass audio from 3.5mm jack to bluetooth headset?](https://www.reddit.com/r/androiddev/comments/10abs0y/is_it_possible_to_pass_audio_from_35mm_jack_to/)
+- [Emergency Info APIs](https://www.reddit.com/r/androiddev/comments/10aax4j/emergency_info_apis/)
+- [Any good way to arrange elements in Box layout?](https://www.reddit.com/r/androiddev/comments/10aahzx/any_good_way_to_arrange_elements_in_box_layout/)
+- [Android Studio font flickering and high CPU usage.](https://www.reddit.com/r/androiddev/comments/10a9iyc/android_studio_font_flickering_and_high_cpu_usage/)
+- [Is this a rendering bug during translationY animation?](https://www.reddit.com/r/androiddev/comments/10a8b6x/is_this_a_rendering_bug_during_translationy/)
+- [Edit/Modify TLS Fingerprint on HTTP Calls](https://www.reddit.com/r/androiddev/comments/10a7nde/editmodify_tls_fingerprint_on_http_calls/)
+- [Best Android Studio Plugins](https://www.reddit.com/r/androiddev/comments/10a7hxn/best_android_studio_plugins/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
