@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Electric Eel available in the Stable channel](https://www.reddit.com/r/androiddev/comments/10af3wh/android_studio_electric_eel_available_in_the/)
-- [What&#39;s new in Android Studio - Electric Eel](https://www.reddit.com/r/androiddev/comments/10ad1lc/whats_new_in_android_studio_electric_eel/)
-- [Android Studio Electric Eel](https://www.reddit.com/r/androiddev/comments/10acf2w/android_studio_electric_eel/)
-- [is it possible to pass audio from 3.5mm jack to bluetooth headset?](https://www.reddit.com/r/androiddev/comments/10abs0y/is_it_possible_to_pass_audio_from_35mm_jack_to/)
-- [Emergency Info APIs](https://www.reddit.com/r/androiddev/comments/10aax4j/emergency_info_apis/)
-- [Any good way to arrange elements in Box layout?](https://www.reddit.com/r/androiddev/comments/10aahzx/any_good_way_to_arrange_elements_in_box_layout/)
-- [Android Studio font flickering and high CPU usage.](https://www.reddit.com/r/androiddev/comments/10a9iyc/android_studio_font_flickering_and_high_cpu_usage/)
-- [Is this a rendering bug during translationY animation?](https://www.reddit.com/r/androiddev/comments/10a8b6x/is_this_a_rendering_bug_during_translationy/)
-- [Edit/Modify TLS Fingerprint on HTTP Calls](https://www.reddit.com/r/androiddev/comments/10a7nde/editmodify_tls_fingerprint_on_http_calls/)
-- [Best Android Studio Plugins](https://www.reddit.com/r/androiddev/comments/10a7hxn/best_android_studio_plugins/)
+- [Considering the state of the job market, is it a good idea to switch from web dev to Android for better job security?](https://www.reddit.com/r/androiddev/comments/10b91vi/considering_the_state_of_the_job_market_is_it_a/)
+- [Spotify Android SDK](https://www.reddit.com/r/androiddev/comments/10b8r0h/spotify_android_sdk/)
+- [I&#39;m looking for advice for job hunting during this recession.](https://www.reddit.com/r/androiddev/comments/10b6wk3/im_looking_for_advice_for_job_hunting_during_this/)
+- [What are some good articles or resources on intermediate to advanced usage of Hilt.](https://www.reddit.com/r/androiddev/comments/10b5ya4/what_are_some_good_articles_or_resources_on/)
+- [Practice Java with 500+ Free Challenges](https://www.reddit.com/r/androiddev/comments/10b4ygm/practice_java_with_500_free_challenges/)
+- [How can I get serial number for Honeywell device?](https://www.reddit.com/r/androiddev/comments/10b3hyn/how_can_i_get_serial_number_for_honeywell_device/)
+- [Possible to exclude child composable from parent composable&#39;s alpha change?](https://www.reddit.com/r/androiddev/comments/10b2qqb/possible_to_exclude_child_composable_from_parent/)
+- [Recommended TopAppBar Migration for Tablet &amp; Phone](https://www.reddit.com/r/androiddev/comments/10b0rn5/recommended_topappbar_migration_for_tablet_phone/)
+- [SVG versions of the Google Play badges are now available](https://www.reddit.com/r/androiddev/comments/10azx32/svg_versions_of_the_google_play_badges_are_now/)
+- [What Busybox for non-root Android 12+, and where to run one&#39;s compiled CLI apps?](https://www.reddit.com/r/androiddev/comments/10ayngc/what_busybox_for_nonroot_android_12_and_where_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
