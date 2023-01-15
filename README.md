@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Considering the state of the job market, is it a good idea to switch from web dev to Android for better job security?](https://www.reddit.com/r/androiddev/comments/10b91vi/considering_the_state_of_the_job_market_is_it_a/)
-- [Spotify Android SDK](https://www.reddit.com/r/androiddev/comments/10b8r0h/spotify_android_sdk/)
-- [I&#39;m looking for advice for job hunting during this recession.](https://www.reddit.com/r/androiddev/comments/10b6wk3/im_looking_for_advice_for_job_hunting_during_this/)
-- [What are some good articles or resources on intermediate to advanced usage of Hilt.](https://www.reddit.com/r/androiddev/comments/10b5ya4/what_are_some_good_articles_or_resources_on/)
-- [Practice Java with 500+ Free Challenges](https://www.reddit.com/r/androiddev/comments/10b4ygm/practice_java_with_500_free_challenges/)
-- [How can I get serial number for Honeywell device?](https://www.reddit.com/r/androiddev/comments/10b3hyn/how_can_i_get_serial_number_for_honeywell_device/)
-- [Possible to exclude child composable from parent composable&#39;s alpha change?](https://www.reddit.com/r/androiddev/comments/10b2qqb/possible_to_exclude_child_composable_from_parent/)
-- [Recommended TopAppBar Migration for Tablet &amp; Phone](https://www.reddit.com/r/androiddev/comments/10b0rn5/recommended_topappbar_migration_for_tablet_phone/)
-- [SVG versions of the Google Play badges are now available](https://www.reddit.com/r/androiddev/comments/10azx32/svg_versions_of_the_google_play_badges_are_now/)
-- [What Busybox for non-root Android 12+, and where to run one&#39;s compiled CLI apps?](https://www.reddit.com/r/androiddev/comments/10ayngc/what_busybox_for_nonroot_android_12_and_where_to/)
+- [Android SDK Download Problems.](https://www.reddit.com/r/androiddev/comments/10c7fka/android_sdk_download_problems/)
+- [i need guidance](https://www.reddit.com/r/androiddev/comments/10c15kb/i_need_guidance/)
+- [Android emulator rendering looks awful on Linux compared to Windows. These screenshots were taken on the same monitor. Does anyone know how to fix it? I&#39;m running Nouveau 137 with an nVidia Quadro P1000 Mobile on the Linux box and nVidia GTX 1050 on the Windows box](https://www.reddit.com/r/androiddev/comments/10bzfzb/android_emulator_rendering_looks_awful_on_linux/)
+- [how to use paging for ListRows independently?](https://www.reddit.com/r/androiddev/comments/10bz9jx/how_to_use_paging_for_listrows_independently/)
+- [Backend Technologies to Learn](https://www.reddit.com/r/androiddev/comments/10bycbc/backend_technologies_to_learn/)
+- [IDE stuck on &quot;performing code analysis&quot; loop. &lpar;Dolphin and Electric Eel&rpar;](https://www.reddit.com/r/androiddev/comments/10bxthj/ide_stuck_on_performing_code_analysis_loop/)
+- [How to retrieve and display data Using relational DB many to many relationship.](https://www.reddit.com/r/androiddev/comments/10bv4nf/how_to_retrieve_and_display_data_using_relational/)
+- [How long to reap the benefits of lowering your ANR rate on Google Play?](https://www.reddit.com/r/androiddev/comments/10buotl/how_long_to_reap_the_benefits_of_lowering_your/)
+- [Where can i find this theme or similar for android studio?](https://www.reddit.com/r/androiddev/comments/10bts8k/where_can_i_find_this_theme_or_similar_for/)
+- [My Android app wont automatically run from Android Studio](https://www.reddit.com/r/androiddev/comments/10bs3jl/my_android_app_wont_automatically_run_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
