@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android SDK Download Problems.](https://www.reddit.com/r/androiddev/comments/10c7fka/android_sdk_download_problems/)
-- [i need guidance](https://www.reddit.com/r/androiddev/comments/10c15kb/i_need_guidance/)
-- [Android emulator rendering looks awful on Linux compared to Windows. These screenshots were taken on the same monitor. Does anyone know how to fix it? I&#39;m running Nouveau 137 with an nVidia Quadro P1000 Mobile on the Linux box and nVidia GTX 1050 on the Windows box](https://www.reddit.com/r/androiddev/comments/10bzfzb/android_emulator_rendering_looks_awful_on_linux/)
-- [how to use paging for ListRows independently?](https://www.reddit.com/r/androiddev/comments/10bz9jx/how_to_use_paging_for_listrows_independently/)
-- [Backend Technologies to Learn](https://www.reddit.com/r/androiddev/comments/10bycbc/backend_technologies_to_learn/)
-- [IDE stuck on &quot;performing code analysis&quot; loop. &lpar;Dolphin and Electric Eel&rpar;](https://www.reddit.com/r/androiddev/comments/10bxthj/ide_stuck_on_performing_code_analysis_loop/)
-- [How to retrieve and display data Using relational DB many to many relationship.](https://www.reddit.com/r/androiddev/comments/10bv4nf/how_to_retrieve_and_display_data_using_relational/)
-- [How long to reap the benefits of lowering your ANR rate on Google Play?](https://www.reddit.com/r/androiddev/comments/10buotl/how_long_to_reap_the_benefits_of_lowering_your/)
-- [Where can i find this theme or similar for android studio?](https://www.reddit.com/r/androiddev/comments/10bts8k/where_can_i_find_this_theme_or_similar_for/)
-- [My Android app wont automatically run from Android Studio](https://www.reddit.com/r/androiddev/comments/10bs3jl/my_android_app_wont_automatically_run_from/)
+- [What level of skill does Philip Lackner cover in his channel? Is it mostly Junior - Mid? Just Junior?](https://www.reddit.com/r/androiddev/comments/10d140a/what_level_of_skill_does_philip_lackner_cover_in/)
+- [Code stuck when trying to make a request](https://www.reddit.com/r/androiddev/comments/10cy2b6/code_stuck_when_trying_to_make_a_request/)
+- [Google Play Console, How to deactivate a release that is in review?](https://www.reddit.com/r/androiddev/comments/10ctdft/google_play_console_how_to_deactivate_a_release/)
+- [should i switch to compose?](https://www.reddit.com/r/androiddev/comments/10csga1/should_i_switch_to_compose/)
+- [Emulator is trying to fit in a window and the device frame is getting in the way of battery status. How can I fix this?](https://www.reddit.com/r/androiddev/comments/10cqb4h/emulator_is_trying_to_fit_in_a_window_and_the/)
+- [Modelling UI State in compose](https://www.reddit.com/r/androiddev/comments/10cq0at/modelling_ui_state_in_compose/)
+- [UI/UX , MATERIAL DESING BOOK FOR NATIVE ANDROID](https://www.reddit.com/r/androiddev/comments/10coofc/uiux_material_desing_book_for_native_android/)
+- [rendering HTML/CSS on a surfaceview](https://www.reddit.com/r/androiddev/comments/10cokgy/rendering_htmlcss_on_a_surfaceview/)
+- [Can I use Android studio offline to stop these long cradle builds](https://www.reddit.com/r/androiddev/comments/10cnibj/can_i_use_android_studio_offline_to_stop_these/)
+- [Hi, does anyone know the name of the font being used in Android 13 OS? As shown below](https://www.reddit.com/r/androiddev/comments/10cjonr/hi_does_anyone_know_the_name_of_the_font_being/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
