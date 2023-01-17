@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What level of skill does Philip Lackner cover in his channel? Is it mostly Junior - Mid? Just Junior?](https://www.reddit.com/r/androiddev/comments/10d140a/what_level_of_skill_does_philip_lackner_cover_in/)
-- [Code stuck when trying to make a request](https://www.reddit.com/r/androiddev/comments/10cy2b6/code_stuck_when_trying_to_make_a_request/)
-- [Google Play Console, How to deactivate a release that is in review?](https://www.reddit.com/r/androiddev/comments/10ctdft/google_play_console_how_to_deactivate_a_release/)
-- [should i switch to compose?](https://www.reddit.com/r/androiddev/comments/10csga1/should_i_switch_to_compose/)
-- [Emulator is trying to fit in a window and the device frame is getting in the way of battery status. How can I fix this?](https://www.reddit.com/r/androiddev/comments/10cqb4h/emulator_is_trying_to_fit_in_a_window_and_the/)
-- [Modelling UI State in compose](https://www.reddit.com/r/androiddev/comments/10cq0at/modelling_ui_state_in_compose/)
-- [UI/UX , MATERIAL DESING BOOK FOR NATIVE ANDROID](https://www.reddit.com/r/androiddev/comments/10coofc/uiux_material_desing_book_for_native_android/)
-- [rendering HTML/CSS on a surfaceview](https://www.reddit.com/r/androiddev/comments/10cokgy/rendering_htmlcss_on_a_surfaceview/)
-- [Can I use Android studio offline to stop these long cradle builds](https://www.reddit.com/r/androiddev/comments/10cnibj/can_i_use_android_studio_offline_to_stop_these/)
-- [Hi, does anyone know the name of the font being used in Android 13 OS? As shown below](https://www.reddit.com/r/androiddev/comments/10cjonr/hi_does_anyone_know_the_name_of_the_font_being/)
+- [how often do you encounter leetcode in interviews?](https://www.reddit.com/r/androiddev/comments/10dzteo/how_often_do_you_encounter_leetcode_in_interviews/)
+- [Android Studio Shortcuts Every Android Engineer Should Learn](https://www.reddit.com/r/androiddev/comments/10dtj6n/android_studio_shortcuts_every_android_engineer/)
+- [Which Backend as a service for my Android Project ?](https://www.reddit.com/r/androiddev/comments/10dt8kp/which_backend_as_a_service_for_my_android_project/)
+- [Learning: Framework suggestions, boilerplates, where to start?](https://www.reddit.com/r/androiddev/comments/10ds0vq/learning_framework_suggestions_boilerplates_where/)
+- [What calendar toolkit do you use?](https://www.reddit.com/r/androiddev/comments/10dpw7r/what_calendar_toolkit_do_you_use/)
+- [Building a Language Learning App with Compose – Part 1](https://www.reddit.com/r/androiddev/comments/10dncdt/building_a_language_learning_app_with_compose/)
+- [Run a Gradle Task From a Shortcut](https://www.reddit.com/r/androiddev/comments/10dn8ap/run_a_gradle_task_from_a_shortcut/)
+- [Our Developer Account was terminated due to &#39;Assosiation&#39;](https://www.reddit.com/r/androiddev/comments/10dlnsj/our_developer_account_was_terminated_due_to/)
+- [Set the status of the sellers.json file to &quot;Visible&quot; to provide advertisers with appropriate information about your inventory](https://www.reddit.com/r/androiddev/comments/10djg24/set_the_status_of_the_sellersjson_file_to_visible/)
+- [Should i use android&#39;s local databse or Firebase realtime database](https://www.reddit.com/r/androiddev/comments/10djexz/should_i_use_androids_local_databse_or_firebase/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
