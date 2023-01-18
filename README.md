@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [how often do you encounter leetcode in interviews?](https://www.reddit.com/r/androiddev/comments/10dzteo/how_often_do_you_encounter_leetcode_in_interviews/)
-- [Android Studio Shortcuts Every Android Engineer Should Learn](https://www.reddit.com/r/androiddev/comments/10dtj6n/android_studio_shortcuts_every_android_engineer/)
-- [Which Backend as a service for my Android Project ?](https://www.reddit.com/r/androiddev/comments/10dt8kp/which_backend_as_a_service_for_my_android_project/)
-- [Learning: Framework suggestions, boilerplates, where to start?](https://www.reddit.com/r/androiddev/comments/10ds0vq/learning_framework_suggestions_boilerplates_where/)
-- [What calendar toolkit do you use?](https://www.reddit.com/r/androiddev/comments/10dpw7r/what_calendar_toolkit_do_you_use/)
-- [Building a Language Learning App with Compose – Part 1](https://www.reddit.com/r/androiddev/comments/10dncdt/building_a_language_learning_app_with_compose/)
-- [Run a Gradle Task From a Shortcut](https://www.reddit.com/r/androiddev/comments/10dn8ap/run_a_gradle_task_from_a_shortcut/)
-- [Our Developer Account was terminated due to &#39;Assosiation&#39;](https://www.reddit.com/r/androiddev/comments/10dlnsj/our_developer_account_was_terminated_due_to/)
-- [Set the status of the sellers.json file to &quot;Visible&quot; to provide advertisers with appropriate information about your inventory](https://www.reddit.com/r/androiddev/comments/10djg24/set_the_status_of_the_sellersjson_file_to_visible/)
-- [Should i use android&#39;s local databse or Firebase realtime database](https://www.reddit.com/r/androiddev/comments/10djexz/should_i_use_androids_local_databse_or_firebase/)
+- [Help with strange pop ups](https://www.reddit.com/r/androiddev/comments/10etb77/help_with_strange_pop_ups/)
+- [Hiring Managers - What are cases portfolio projects / PlayStore apps screwed a candidate over?](https://www.reddit.com/r/androiddev/comments/10epr8l/hiring_managers_what_are_cases_portfolio_projects/)
+- [app development: make or buy](https://www.reddit.com/r/androiddev/comments/10ep9gs/app_development_make_or_buy/)
+- [the State of Subscription Apps 2023 &lpar;by RevenueCat&rpar;](https://www.reddit.com/r/androiddev/comments/10eona5/the_state_of_subscription_apps_2023_by_revenuecat/)
+- [Can this be done?](https://www.reddit.com/r/androiddev/comments/10emxg7/can_this_be_done/)
+- [Is retention the OVERWHELMING KPI for browsing discovery on Google Play?](https://www.reddit.com/r/androiddev/comments/10elp14/is_retention_the_overwhelming_kpi_for_browsing/)
+- [Free maps API instead of Google Maps API](https://www.reddit.com/r/androiddev/comments/10elk5h/free_maps_api_instead_of_google_maps_api/)
+- [TV:avoid any button to automatically gain focus on app start](https://www.reddit.com/r/androiddev/comments/10ektvj/tvavoid_any_button_to_automatically_gain_focus_on/)
+- [Android Studio Giraffe Canary 1 now available](https://www.reddit.com/r/androiddev/comments/10ek7v6/android_studio_giraffe_canary_1_now_available/)
+- [Android Studio Flamingo Beta 1 now available](https://www.reddit.com/r/androiddev/comments/10ek7uo/android_studio_flamingo_beta_1_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
