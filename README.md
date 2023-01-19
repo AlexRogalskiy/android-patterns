@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help with strange pop ups](https://www.reddit.com/r/androiddev/comments/10etb77/help_with_strange_pop_ups/)
-- [Hiring Managers - What are cases portfolio projects / PlayStore apps screwed a candidate over?](https://www.reddit.com/r/androiddev/comments/10epr8l/hiring_managers_what_are_cases_portfolio_projects/)
-- [app development: make or buy](https://www.reddit.com/r/androiddev/comments/10ep9gs/app_development_make_or_buy/)
-- [the State of Subscription Apps 2023 &lpar;by RevenueCat&rpar;](https://www.reddit.com/r/androiddev/comments/10eona5/the_state_of_subscription_apps_2023_by_revenuecat/)
-- [Can this be done?](https://www.reddit.com/r/androiddev/comments/10emxg7/can_this_be_done/)
-- [Is retention the OVERWHELMING KPI for browsing discovery on Google Play?](https://www.reddit.com/r/androiddev/comments/10elp14/is_retention_the_overwhelming_kpi_for_browsing/)
-- [Free maps API instead of Google Maps API](https://www.reddit.com/r/androiddev/comments/10elk5h/free_maps_api_instead_of_google_maps_api/)
-- [TV:avoid any button to automatically gain focus on app start](https://www.reddit.com/r/androiddev/comments/10ektvj/tvavoid_any_button_to_automatically_gain_focus_on/)
-- [Android Studio Giraffe Canary 1 now available](https://www.reddit.com/r/androiddev/comments/10ek7v6/android_studio_giraffe_canary_1_now_available/)
-- [Android Studio Flamingo Beta 1 now available](https://www.reddit.com/r/androiddev/comments/10ek7uo/android_studio_flamingo_beta_1_now_available/)
+- [App Rejected - Prominent Disclosures](https://www.reddit.com/r/androiddev/comments/10fpkqh/app_rejected_prominent_disclosures/)
+- [Did &quot;Google Play explore&quot; switch to &quot;Third party referrals&quot;??](https://www.reddit.com/r/androiddev/comments/10fl4pi/did_google_play_explore_switch_to_third_party/)
+- [Is it preferable to write an android app in Java over Python?](https://www.reddit.com/r/androiddev/comments/10fk056/is_it_preferable_to_write_an_android_app_in_java/)
+- [Java to Kotlin Code](https://www.reddit.com/r/androiddev/comments/10fh8ua/java_to_kotlin_code/)
+- [Help needed : Rich Text Editors for android](https://www.reddit.com/r/androiddev/comments/10fgoij/help_needed_rich_text_editors_for_android/)
+- [Delete Leftover Android Studio Storage Directories](https://www.reddit.com/r/androiddev/comments/10fg8dd/delete_leftover_android_studio_storage_directories/)
+- [The by keyword in 3 minutes!](https://www.reddit.com/r/androiddev/comments/10ff9i0/the_by_keyword_in_3_minutes/)
+- [I want to create a app for android, but I have a few questions&lpar;complete newbie&rpar;](https://www.reddit.com/r/androiddev/comments/10fetti/i_want_to_create_a_app_for_android_but_i_have_a/)
+- [How does Google decide which accounts are associated with a developer account?](https://www.reddit.com/r/androiddev/comments/10fd33w/how_does_google_decide_which_accounts_are/)
+- [What&#39;s the best way to avoid losing information about the UI, like download information in this case, see full post:](https://www.reddit.com/r/androiddev/comments/10fcy9n/whats_the_best_way_to_avoid_losing_information/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
