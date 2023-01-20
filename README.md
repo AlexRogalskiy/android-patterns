@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App Rejected - Prominent Disclosures](https://www.reddit.com/r/androiddev/comments/10fpkqh/app_rejected_prominent_disclosures/)
-- [Did &quot;Google Play explore&quot; switch to &quot;Third party referrals&quot;??](https://www.reddit.com/r/androiddev/comments/10fl4pi/did_google_play_explore_switch_to_third_party/)
-- [Is it preferable to write an android app in Java over Python?](https://www.reddit.com/r/androiddev/comments/10fk056/is_it_preferable_to_write_an_android_app_in_java/)
-- [Java to Kotlin Code](https://www.reddit.com/r/androiddev/comments/10fh8ua/java_to_kotlin_code/)
-- [Help needed : Rich Text Editors for android](https://www.reddit.com/r/androiddev/comments/10fgoij/help_needed_rich_text_editors_for_android/)
-- [Delete Leftover Android Studio Storage Directories](https://www.reddit.com/r/androiddev/comments/10fg8dd/delete_leftover_android_studio_storage_directories/)
-- [The by keyword in 3 minutes!](https://www.reddit.com/r/androiddev/comments/10ff9i0/the_by_keyword_in_3_minutes/)
-- [I want to create a app for android, but I have a few questions&lpar;complete newbie&rpar;](https://www.reddit.com/r/androiddev/comments/10fetti/i_want_to_create_a_app_for_android_but_i_have_a/)
-- [How does Google decide which accounts are associated with a developer account?](https://www.reddit.com/r/androiddev/comments/10fd33w/how_does_google_decide_which_accounts_are/)
-- [What&#39;s the best way to avoid losing information about the UI, like download information in this case, see full post:](https://www.reddit.com/r/androiddev/comments/10fcy9n/whats_the_best_way_to_avoid_losing_information/)
+- [Viability of developing a mobile app](https://www.reddit.com/r/androiddev/comments/10gkf98/viability_of_developing_a_mobile_app/)
+- [If most ML is done in Python, then what are some ways in which these ML implementations are ported over to mobile apps?](https://www.reddit.com/r/androiddev/comments/10gkev1/if_most_ml_is_done_in_python_then_what_are_some/)
+- [How to complete an Android app in 7 days](https://www.reddit.com/r/androiddev/comments/10gj7d6/how_to_complete_an_android_app_in_7_days/)
+- [Is Android development less competitive than web development?](https://www.reddit.com/r/androiddev/comments/10ghz86/is_android_development_less_competitive_than_web/)
+- [Giving someone access to Google Ads account - any risk getting banned?](https://www.reddit.com/r/androiddev/comments/10gg867/giving_someone_access_to_google_ads_account_any/)
+- [Android Development on RISC-V](https://www.reddit.com/r/androiddev/comments/10gffpw/android_development_on_riscv/)
+- [[Jetpack Compose] Textfield that changes readOnly value](https://www.reddit.com/r/androiddev/comments/10ge09d/jetpack_compose_textfield_that_changes_readonly/)
+- [Wireless debugging keeps in authenticating despite disabling adb timeout in settings](https://www.reddit.com/r/androiddev/comments/10gdy2d/wireless_debugging_keeps_in_authenticating/)
+- [Writing proper technical articles - Stavro Xhardha](https://www.reddit.com/r/androiddev/comments/10gcjhx/writing_proper_technical_articles_stavro_xhardha/)
+- [Is there any library which can create graph similar to the one in photo? I tried AAChart but It&#39;s graph gives stock market feel. I am looking for a minimalist graph which looks cool](https://www.reddit.com/r/androiddev/comments/10gcgmw/is_there_any_library_which_can_create_graph/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
