@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How much Java...](https://www.reddit.com/r/androiddev/comments/10hf0lk/how_much_java/)
-- [Should android lint catch deprecations?](https://www.reddit.com/r/androiddev/comments/10h9q3h/should_android_lint_catch_deprecations/)
-- [Lock Wifi and other features on the device I&#39;m deploying my app on](https://www.reddit.com/r/androiddev/comments/10h8h37/lock_wifi_and_other_features_on_the_device_im/)
-- [GET_ACCOUNTS permission and its scope](https://www.reddit.com/r/androiddev/comments/10h8bac/get_accounts_permission_and_its_scope/)
-- [Recent layoffs at Google and Android](https://www.reddit.com/r/androiddev/comments/10h8b7y/recent_layoffs_at_google_and_android/)
-- [In what aspects will a native app &lpar;kotlin&rpar; be better than one developed with Flutter?](https://www.reddit.com/r/androiddev/comments/10h71oo/in_what_aspects_will_a_native_app_kotlin_be/)
-- [Android phone or Emulator?](https://www.reddit.com/r/androiddev/comments/10h565o/android_phone_or_emulator/)
-- [Without having User Accounts integrated in my app, what methods of recovering data would be best suited?](https://www.reddit.com/r/androiddev/comments/10h4o85/without_having_user_accounts_integrated_in_my_app/)
-- [Any ideas on how to force the input audio source for a given app or all apps?](https://www.reddit.com/r/androiddev/comments/10h2rp8/any_ideas_on_how_to_force_the_input_audio_source/)
-- [How do apps like NotifyBuddy work?](https://www.reddit.com/r/androiddev/comments/10h28uv/how_do_apps_like_notifybuddy_work/)
+- [Please Help Me](https://www.reddit.com/r/androiddev/comments/10i62n9/please_help_me/)
+- [How to use nav graph in a multi-module project?](https://www.reddit.com/r/androiddev/comments/10i4n56/how_to_use_nav_graph_in_a_multimodule_project/)
+- [Slow down hotspot speed](https://www.reddit.com/r/androiddev/comments/10i1ope/slow_down_hotspot_speed/)
+- [Ad-blocker question](https://www.reddit.com/r/androiddev/comments/10i049y/adblocker_question/)
+- [Learning Android’s Room Database Made Easy](https://www.reddit.com/r/androiddev/comments/10hxy5b/learning_androids_room_database_made_easy/)
+- [How does one verify if a List/SingletonList is null or empty?](https://www.reddit.com/r/androiddev/comments/10hxb7n/how_does_one_verify_if_a_listsingletonlist_is/)
+- [Alternate approach to storing complex data types in room database](https://www.reddit.com/r/androiddev/comments/10hp0r9/alternate_approach_to_storing_complex_data_types/)
+- [Should I put my repositories in setting.gradle instead of the root build &lpar;build.gradle &lpar;project.name&rpar;&rpar;](https://www.reddit.com/r/androiddev/comments/10hovcg/should_i_put_my_repositories_in_settinggradle/)
+- [Tips for Working With Strings in Kotlin &lpar;removeSurrounding, ignoreCase, joinToString and more&rpar;](https://www.reddit.com/r/androiddev/comments/10hnt59/tips_for_working_with_strings_in_kotlin/)
+- [WebSockets in Android with OkHttp and ViewModel](https://www.reddit.com/r/androiddev/comments/10hngwl/websockets_in_android_with_okhttp_and_viewmodel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
