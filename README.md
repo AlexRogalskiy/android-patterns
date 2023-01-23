@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Please Help Me](https://www.reddit.com/r/androiddev/comments/10i62n9/please_help_me/)
-- [How to use nav graph in a multi-module project?](https://www.reddit.com/r/androiddev/comments/10i4n56/how_to_use_nav_graph_in_a_multimodule_project/)
-- [Slow down hotspot speed](https://www.reddit.com/r/androiddev/comments/10i1ope/slow_down_hotspot_speed/)
-- [Ad-blocker question](https://www.reddit.com/r/androiddev/comments/10i049y/adblocker_question/)
-- [Learning Android’s Room Database Made Easy](https://www.reddit.com/r/androiddev/comments/10hxy5b/learning_androids_room_database_made_easy/)
-- [How does one verify if a List/SingletonList is null or empty?](https://www.reddit.com/r/androiddev/comments/10hxb7n/how_does_one_verify_if_a_listsingletonlist_is/)
-- [Alternate approach to storing complex data types in room database](https://www.reddit.com/r/androiddev/comments/10hp0r9/alternate_approach_to_storing_complex_data_types/)
-- [Should I put my repositories in setting.gradle instead of the root build &lpar;build.gradle &lpar;project.name&rpar;&rpar;](https://www.reddit.com/r/androiddev/comments/10hovcg/should_i_put_my_repositories_in_settinggradle/)
-- [Tips for Working With Strings in Kotlin &lpar;removeSurrounding, ignoreCase, joinToString and more&rpar;](https://www.reddit.com/r/androiddev/comments/10hnt59/tips_for_working_with_strings_in_kotlin/)
-- [WebSockets in Android with OkHttp and ViewModel](https://www.reddit.com/r/androiddev/comments/10hngwl/websockets_in_android_with_okhttp_and_viewmodel/)
+- [Android BottomNavigationView Example with Kotlin Tutorial](https://www.reddit.com/r/androiddev/comments/10j048l/android_bottomnavigationview_example_with_kotlin/)
+- [App ranking of an app that was deactivated for 1 year and now re-activated](https://www.reddit.com/r/androiddev/comments/10izf9g/app_ranking_of_an_app_that_was_deactivated_for_1/)
+- [How are AOSP ROMs built?](https://www.reddit.com/r/androiddev/comments/10iwb8s/how_are_aosp_roms_built/)
+- [I wasted my 2 hours trying to fix startup time of Compose app, and then realised the problem was debug mode vs release mode](https://www.reddit.com/r/androiddev/comments/10itb1g/i_wasted_my_2_hours_trying_to_fix_startup_time_of/)
+- [Button triggered Poping-up Card. What is the normal implementation?](https://www.reddit.com/r/androiddev/comments/10isehm/button_triggered_popingup_card_what_is_the_normal/)
+- [Having a Certificate issue I still haven&#39;t been able to solve](https://www.reddit.com/r/androiddev/comments/10iruv8/having_a_certificate_issue_i_still_havent_been/)
+- [Can a self developed open source app be published on play store with freemium features? What is the required licence that needs to be put up?](https://www.reddit.com/r/androiddev/comments/10iruif/can_a_self_developed_open_source_app_be_published/)
+- [All you people asking about iOS vs Android. You know this is a pro-Android dev sub right?](https://www.reddit.com/r/androiddev/comments/10ipl87/all_you_people_asking_about_ios_vs_android_you/)
+- [Question about using singleton](https://www.reddit.com/r/androiddev/comments/10iow8u/question_about_using_singleton/)
+- [Is there any migrations for app database?](https://www.reddit.com/r/androiddev/comments/10iohmh/is_there_any_migrations_for_app_database/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
