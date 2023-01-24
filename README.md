@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android BottomNavigationView Example with Kotlin Tutorial](https://www.reddit.com/r/androiddev/comments/10j048l/android_bottomnavigationview_example_with_kotlin/)
-- [App ranking of an app that was deactivated for 1 year and now re-activated](https://www.reddit.com/r/androiddev/comments/10izf9g/app_ranking_of_an_app_that_was_deactivated_for_1/)
-- [How are AOSP ROMs built?](https://www.reddit.com/r/androiddev/comments/10iwb8s/how_are_aosp_roms_built/)
-- [I wasted my 2 hours trying to fix startup time of Compose app, and then realised the problem was debug mode vs release mode](https://www.reddit.com/r/androiddev/comments/10itb1g/i_wasted_my_2_hours_trying_to_fix_startup_time_of/)
-- [Button triggered Poping-up Card. What is the normal implementation?](https://www.reddit.com/r/androiddev/comments/10isehm/button_triggered_popingup_card_what_is_the_normal/)
-- [Having a Certificate issue I still haven&#39;t been able to solve](https://www.reddit.com/r/androiddev/comments/10iruv8/having_a_certificate_issue_i_still_havent_been/)
-- [Can a self developed open source app be published on play store with freemium features? What is the required licence that needs to be put up?](https://www.reddit.com/r/androiddev/comments/10iruif/can_a_self_developed_open_source_app_be_published/)
-- [All you people asking about iOS vs Android. You know this is a pro-Android dev sub right?](https://www.reddit.com/r/androiddev/comments/10ipl87/all_you_people_asking_about_ios_vs_android_you/)
-- [Question about using singleton](https://www.reddit.com/r/androiddev/comments/10iow8u/question_about_using_singleton/)
-- [Is there any migrations for app database?](https://www.reddit.com/r/androiddev/comments/10iohmh/is_there_any_migrations_for_app_database/)
+- [Prob gonna get downvoted but, should we be worried about ChatGPT?](https://www.reddit.com/r/androiddev/comments/10jnb3v/prob_gonna_get_downvoted_but_should_we_be_worried/)
+- [Can someone explain the code?](https://www.reddit.com/r/androiddev/comments/10jitmm/can_someone_explain_the_code/)
+- [Discord link in an app](https://www.reddit.com/r/androiddev/comments/10jiojz/discord_link_in_an_app/)
+- [Can we increase Meta Audience Network fill rate using mediation?](https://www.reddit.com/r/androiddev/comments/10jfze8/can_we_increase_meta_audience_network_fill_rate/)
+- [Jetpack Compose Tutorial: Replicating Dribbble Audio App Part 2](https://www.reddit.com/r/androiddev/comments/10jfxqd/jetpack_compose_tutorial_replicating_dribbble/)
+- [Rich Text Editor &amp; Markdown](https://www.reddit.com/r/androiddev/comments/10jfs7u/rich_text_editor_markdown/)
+- [Weekly Who&#39;s Hiring Thread - January 23, 2023](https://www.reddit.com/r/androiddev/comments/10jd4k3/weekly_whos_hiring_thread_january_23_2023/)
+- [Flutter vs React Native vs Java vs Kotlin?](https://www.reddit.com/r/androiddev/comments/10jcqww/flutter_vs_react_native_vs_java_vs_kotlin/)
+- [Weekly discussion, code review, and feedback thread - January 23, 2023](https://www.reddit.com/r/androiddev/comments/10jbwwp/weekly_discussion_code_review_and_feedback_thread/)
+- [Is it possible to force users to only upload images captured with my apps camera &lpar;No upload from other soruces&rpar; and prevent them from capturing and forging the POST request?](https://www.reddit.com/r/androiddev/comments/10jbd1j/is_it_possible_to_force_users_to_only_upload/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
