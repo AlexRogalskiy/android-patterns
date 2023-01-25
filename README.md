@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Prob gonna get downvoted but, should we be worried about ChatGPT?](https://www.reddit.com/r/androiddev/comments/10jnb3v/prob_gonna_get_downvoted_but_should_we_be_worried/)
-- [Can someone explain the code?](https://www.reddit.com/r/androiddev/comments/10jitmm/can_someone_explain_the_code/)
-- [Discord link in an app](https://www.reddit.com/r/androiddev/comments/10jiojz/discord_link_in_an_app/)
-- [Can we increase Meta Audience Network fill rate using mediation?](https://www.reddit.com/r/androiddev/comments/10jfze8/can_we_increase_meta_audience_network_fill_rate/)
-- [Jetpack Compose Tutorial: Replicating Dribbble Audio App Part 2](https://www.reddit.com/r/androiddev/comments/10jfxqd/jetpack_compose_tutorial_replicating_dribbble/)
-- [Rich Text Editor &amp; Markdown](https://www.reddit.com/r/androiddev/comments/10jfs7u/rich_text_editor_markdown/)
-- [Weekly Who&#39;s Hiring Thread - January 23, 2023](https://www.reddit.com/r/androiddev/comments/10jd4k3/weekly_whos_hiring_thread_january_23_2023/)
-- [Flutter vs React Native vs Java vs Kotlin?](https://www.reddit.com/r/androiddev/comments/10jcqww/flutter_vs_react_native_vs_java_vs_kotlin/)
-- [Weekly discussion, code review, and feedback thread - January 23, 2023](https://www.reddit.com/r/androiddev/comments/10jbwwp/weekly_discussion_code_review_and_feedback_thread/)
-- [Is it possible to force users to only upload images captured with my apps camera &lpar;No upload from other soruces&rpar; and prevent them from capturing and forging the POST request?](https://www.reddit.com/r/androiddev/comments/10jbd1j/is_it_possible_to_force_users_to_only_upload/)
+- [My senior project is making a habit tracking app. I&#39;ve never made an app before. Am I screwed?](https://www.reddit.com/r/androiddev/comments/10kn0ky/my_senior_project_is_making_a_habit_tracking_app/)
+- [Where is the setting so I can go back when I swipe left from the center right ?](https://www.reddit.com/r/androiddev/comments/10km7d9/where_is_the_setting_so_i_can_go_back_when_i/)
+- [It&#39;s ok have more than one NavController in compose navigation?](https://www.reddit.com/r/androiddev/comments/10kdr8o/its_ok_have_more_than_one_navcontroller_in/)
+- [How do I invert/mirror flip the palyback of a video taken by the front camera if I am using mediarecorder?](https://www.reddit.com/r/androiddev/comments/10kcnz7/how_do_i_invertmirror_flip_the_palyback_of_a/)
+- [How do I fight with these early challenges while learning Android as a complete beginner?](https://www.reddit.com/r/androiddev/comments/10kbsh4/how_do_i_fight_with_these_early_challenges_while/)
+- [Looking for interesting multi-callback crashes for static analysis research.](https://www.reddit.com/r/androiddev/comments/10kbhxx/looking_for_interesting_multicallback_crashes_for/)
+- [Non-Simple Example of XML App Search Bar Migration to Jetpack Scaffold?](https://www.reddit.com/r/androiddev/comments/10kath9/nonsimple_example_of_xml_app_search_bar_migration/)
+- [Where do you store the mappings text file?](https://www.reddit.com/r/androiddev/comments/10kak7g/where_do_you_store_the_mappings_text_file/)
+- [How do you make your grid recyclerview items fit with different screen sizes?](https://www.reddit.com/r/androiddev/comments/10k9dw5/how_do_you_make_your_grid_recyclerview_items_fit/)
+- [Error while waiting for device: Illegal char &lt;*&gt; at index 0: *.lock - anyone knows how to fix this?](https://www.reddit.com/r/androiddev/comments/10k973r/error_while_waiting_for_device_illegal_char_at/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
