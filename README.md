@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My senior project is making a habit tracking app. I&#39;ve never made an app before. Am I screwed?](https://www.reddit.com/r/androiddev/comments/10kn0ky/my_senior_project_is_making_a_habit_tracking_app/)
-- [Where is the setting so I can go back when I swipe left from the center right ?](https://www.reddit.com/r/androiddev/comments/10km7d9/where_is_the_setting_so_i_can_go_back_when_i/)
-- [It&#39;s ok have more than one NavController in compose navigation?](https://www.reddit.com/r/androiddev/comments/10kdr8o/its_ok_have_more_than_one_navcontroller_in/)
-- [How do I invert/mirror flip the palyback of a video taken by the front camera if I am using mediarecorder?](https://www.reddit.com/r/androiddev/comments/10kcnz7/how_do_i_invertmirror_flip_the_palyback_of_a/)
-- [How do I fight with these early challenges while learning Android as a complete beginner?](https://www.reddit.com/r/androiddev/comments/10kbsh4/how_do_i_fight_with_these_early_challenges_while/)
-- [Looking for interesting multi-callback crashes for static analysis research.](https://www.reddit.com/r/androiddev/comments/10kbhxx/looking_for_interesting_multicallback_crashes_for/)
-- [Non-Simple Example of XML App Search Bar Migration to Jetpack Scaffold?](https://www.reddit.com/r/androiddev/comments/10kath9/nonsimple_example_of_xml_app_search_bar_migration/)
-- [Where do you store the mappings text file?](https://www.reddit.com/r/androiddev/comments/10kak7g/where_do_you_store_the_mappings_text_file/)
-- [How do you make your grid recyclerview items fit with different screen sizes?](https://www.reddit.com/r/androiddev/comments/10k9dw5/how_do_you_make_your_grid_recyclerview_items_fit/)
-- [Error while waiting for device: Illegal char &lt;*&gt; at index 0: *.lock - anyone knows how to fix this?](https://www.reddit.com/r/androiddev/comments/10k973r/error_while_waiting_for_device_illegal_char_at/)
+- [Help building a Complication for Wear OS](https://www.reddit.com/r/androiddev/comments/10lesef/help_building_a_complication_for_wear_os/)
+- [Gradle, Manifests etc.](https://www.reddit.com/r/androiddev/comments/10lelii/gradle_manifests_etc/)
+- [What is different about android compared to windows/linux/mac that means python &lpar;or any language&rpar; can&#39;t be downloaded and used?](https://www.reddit.com/r/androiddev/comments/10le6yq/what_is_different_about_android_compared_to/)
+- [can someone please recommend me resources that deal with file loading from internal storage?](https://www.reddit.com/r/androiddev/comments/10lcndw/can_someone_please_recommend_me_resources_that/)
+- [🌮 Exploring the DoorDash app internal API](https://www.reddit.com/r/androiddev/comments/10lacrm/exploring_the_doordash_app_internal_api/)
+- [Android TV Splash Screen that works with LeanBack?](https://www.reddit.com/r/androiddev/comments/10l9x9j/android_tv_splash_screen_that_works_with_leanback/)
+- [Where can I practice app development as a volunteer?](https://www.reddit.com/r/androiddev/comments/10l8xfx/where_can_i_practice_app_development_as_a/)
+- [Android Debugger stuck at &quot;Collecting data...&quot;](https://www.reddit.com/r/androiddev/comments/10l61gk/android_debugger_stuck_at_collecting_data/)
+- [Is there any problem if give someone a permission on google play console](https://www.reddit.com/r/androiddev/comments/10l50ti/is_there_any_problem_if_give_someone_a_permission/)
+- [Base m2 Mac mini?](https://www.reddit.com/r/androiddev/comments/10l4oo5/base_m2_mac_mini/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
