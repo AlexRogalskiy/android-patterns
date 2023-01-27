@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help building a Complication for Wear OS](https://www.reddit.com/r/androiddev/comments/10lesef/help_building_a_complication_for_wear_os/)
-- [Gradle, Manifests etc.](https://www.reddit.com/r/androiddev/comments/10lelii/gradle_manifests_etc/)
-- [What is different about android compared to windows/linux/mac that means python &lpar;or any language&rpar; can&#39;t be downloaded and used?](https://www.reddit.com/r/androiddev/comments/10le6yq/what_is_different_about_android_compared_to/)
-- [can someone please recommend me resources that deal with file loading from internal storage?](https://www.reddit.com/r/androiddev/comments/10lcndw/can_someone_please_recommend_me_resources_that/)
-- [🌮 Exploring the DoorDash app internal API](https://www.reddit.com/r/androiddev/comments/10lacrm/exploring_the_doordash_app_internal_api/)
-- [Android TV Splash Screen that works with LeanBack?](https://www.reddit.com/r/androiddev/comments/10l9x9j/android_tv_splash_screen_that_works_with_leanback/)
-- [Where can I practice app development as a volunteer?](https://www.reddit.com/r/androiddev/comments/10l8xfx/where_can_i_practice_app_development_as_a/)
-- [Android Debugger stuck at &quot;Collecting data...&quot;](https://www.reddit.com/r/androiddev/comments/10l61gk/android_debugger_stuck_at_collecting_data/)
-- [Is there any problem if give someone a permission on google play console](https://www.reddit.com/r/androiddev/comments/10l50ti/is_there_any_problem_if_give_someone_a_permission/)
-- [Base m2 Mac mini?](https://www.reddit.com/r/androiddev/comments/10l4oo5/base_m2_mac_mini/)
+- [How to many getAll and nukeData as default in Android Room?](https://www.reddit.com/r/androiddev/comments/10m8gy1/how_to_many_getall_and_nukedata_as_default_in/)
+- [Is this laptop good enough for running Android Studio?](https://www.reddit.com/r/androiddev/comments/10m3sli/is_this_laptop_good_enough_for_running_android/)
+- [Resources to improve your knowledge of Kotlin Coroutines](https://www.reddit.com/r/androiddev/comments/10m2cue/resources_to_improve_your_knowledge_of_kotlin/)
+- [Any available library to draw segmented image indicator like Tinder does?](https://www.reddit.com/r/androiddev/comments/10m24rt/any_available_library_to_draw_segmented_image/)
+- [App won&#39;t die!](https://www.reddit.com/r/androiddev/comments/10m1owz/app_wont_die/)
+- [Linkify alternatives?](https://www.reddit.com/r/androiddev/comments/10m13u1/linkify_alternatives/)
+- [Android Studio Giraffe Canary 2 now available](https://www.reddit.com/r/androiddev/comments/10ly0co/android_studio_giraffe_canary_2_now_available/)
+- [Kotlin Data Objects &lpar;New in Kotlin 1.9&rpar;](https://www.reddit.com/r/androiddev/comments/10ly0bu/kotlin_data_objects_new_in_kotlin_19/)
+- [Room documentation update to fix cacheability](https://www.reddit.com/r/androiddev/comments/10lwuiv/room_documentation_update_to_fix_cacheability/)
+- [Should I learn native and then move on to Flutter? Or Flutter directly?](https://www.reddit.com/r/androiddev/comments/10lunqg/should_i_learn_native_and_then_move_on_to_flutter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
