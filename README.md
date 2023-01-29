@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android developement, but on low level.](https://www.reddit.com/r/androiddev/comments/10n2xgj/android_developement_but_on_low_level/)
-- [How to fix &quot;Could not find compile target android-32 for modules :app&quot; error in Android Studio?](https://www.reddit.com/r/androiddev/comments/10n1oto/how_to_fix_could_not_find_compile_target/)
-- [Seeking Tips and Advice on Writing a User Agreement or Terms of Service Policy](https://www.reddit.com/r/androiddev/comments/10n09a3/seeking_tips_and_advice_on_writing_a_user/)
-- [AnimationDrawable not Working](https://www.reddit.com/r/androiddev/comments/10mzhpr/animationdrawable_not_working/)
-- [Does PlayStore allow new uploads of apps which are around saving Whatsapp statuses? And, for a person having CS background which dev framework would you recommend? Native or Flutter or something else?](https://www.reddit.com/r/androiddev/comments/10mzc3o/does_playstore_allow_new_uploads_of_apps_which/)
-- [So, what’s your minSdkVersion?](https://www.reddit.com/r/androiddev/comments/10my30o/so_whats_your_minsdkversion/)
-- [How do I upload watch faces to my developers account?](https://www.reddit.com/r/androiddev/comments/10mxk0k/how_do_i_upload_watch_faces_to_my_developers/)
-- [is KMM Ktor worth it for large projects?](https://www.reddit.com/r/androiddev/comments/10mxd5y/is_kmm_ktor_worth_it_for_large_projects/)
-- [Is there an app that acts like inspect elements but for other apps?](https://www.reddit.com/r/androiddev/comments/10mws3j/is_there_an_app_that_acts_like_inspect_elements/)
-- [Is Appwrite a real good alternative for Firebase for android apps?](https://www.reddit.com/r/androiddev/comments/10mw85j/is_appwrite_a_real_good_alternative_for_firebase/)
+- [How do I share my app privately?](https://www.reddit.com/r/androiddev/comments/10ns49y/how_do_i_share_my_app_privately/)
+- [_ variables in viewmodel](https://www.reddit.com/r/androiddev/comments/10nr5o7/variables_in_viewmodel/)
+- [Is there still a reason to use Java instead of Kotlin for Android development in 2023?](https://www.reddit.com/r/androiddev/comments/10nq5wf/is_there_still_a_reason_to_use_java_instead_of/)
+- [Capture phone screen and play android game bot](https://www.reddit.com/r/androiddev/comments/10nmtrl/capture_phone_screen_and_play_android_game_bot/)
+- [Self Taught devs, has going back to learn formal cs topics &lpar;specifically computer architecture&rpar; helped you?](https://www.reddit.com/r/androiddev/comments/10nmq90/self_taught_devs_has_going_back_to_learn_formal/)
+- [India&#39;s Competition Commission last year found Google guilty of abusing its dominant position in the Android Mobile device ecosystem and its operation of the Play Store. Is india asking a bit too much from google?](https://www.reddit.com/r/androiddev/comments/10nm7yc/indias_competition_commission_last_year_found/)
+- [guys help me i cant close this on the screen for 1 minute](https://www.reddit.com/r/androiddev/comments/10nm2iv/guys_help_me_i_cant_close_this_on_the_screen_for/)
+- [I am making a game all about cute creatures and I would love to know which shape you think is cutest!](https://www.reddit.com/r/androiddev/comments/10nljeq/i_am_making_a_game_all_about_cute_creatures_and_i/)
+- [how can i create something like this?](https://www.reddit.com/r/androiddev/comments/10nl417/how_can_i_create_something_like_this/)
+- [Is there any network debugger tool for inspecting backend network request and their payload &lpar;similar to what we have in Web {Chrome &gt; inspect element &gt; network tab } &rpar;](https://www.reddit.com/r/androiddev/comments/10nkcyk/is_there_any_network_debugger_tool_for_inspecting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
