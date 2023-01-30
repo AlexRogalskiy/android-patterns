@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I share my app privately?](https://www.reddit.com/r/androiddev/comments/10ns49y/how_do_i_share_my_app_privately/)
-- [_ variables in viewmodel](https://www.reddit.com/r/androiddev/comments/10nr5o7/variables_in_viewmodel/)
-- [Is there still a reason to use Java instead of Kotlin for Android development in 2023?](https://www.reddit.com/r/androiddev/comments/10nq5wf/is_there_still_a_reason_to_use_java_instead_of/)
-- [Capture phone screen and play android game bot](https://www.reddit.com/r/androiddev/comments/10nmtrl/capture_phone_screen_and_play_android_game_bot/)
-- [Self Taught devs, has going back to learn formal cs topics &lpar;specifically computer architecture&rpar; helped you?](https://www.reddit.com/r/androiddev/comments/10nmq90/self_taught_devs_has_going_back_to_learn_formal/)
-- [India&#39;s Competition Commission last year found Google guilty of abusing its dominant position in the Android Mobile device ecosystem and its operation of the Play Store. Is india asking a bit too much from google?](https://www.reddit.com/r/androiddev/comments/10nm7yc/indias_competition_commission_last_year_found/)
-- [guys help me i cant close this on the screen for 1 minute](https://www.reddit.com/r/androiddev/comments/10nm2iv/guys_help_me_i_cant_close_this_on_the_screen_for/)
-- [I am making a game all about cute creatures and I would love to know which shape you think is cutest!](https://www.reddit.com/r/androiddev/comments/10nljeq/i_am_making_a_game_all_about_cute_creatures_and_i/)
-- [how can i create something like this?](https://www.reddit.com/r/androiddev/comments/10nl417/how_can_i_create_something_like_this/)
-- [Is there any network debugger tool for inspecting backend network request and their payload &lpar;similar to what we have in Web {Chrome &gt; inspect element &gt; network tab } &rpar;](https://www.reddit.com/r/androiddev/comments/10nkcyk/is_there_any_network_debugger_tool_for_inspecting/)
+- [Maestro just released a new version of maestro studio, I was shocked how it just... worked. I&#39;m kinda mad at myself for not finding it sooner.](https://www.reddit.com/r/androiddev/comments/10ooi2f/maestro_just_released_a_new_version_of_maestro/)
+- [2 Billion push notification simultaneously](https://www.reddit.com/r/androiddev/comments/10oirth/2_billion_push_notification_simultaneously/)
+- [Best approach for simple chat app](https://www.reddit.com/r/androiddev/comments/10oiqvg/best_approach_for_simple_chat_app/)
+- [Couple of questions about State in Compose](https://www.reddit.com/r/androiddev/comments/10ohqeu/couple_of_questions_about_state_in_compose/)
+- [I didn&#39;t get why this happening to my Leanback verticalGridview sometimes after scrolling, NOTE: I use the PAGING library with it](https://www.reddit.com/r/androiddev/comments/10o9kci/i_didnt_get_why_this_happening_to_my_leanback/)
+- [I didn&#39;t get why this happening to my Leanback verticalGridview sometimes after scrolling, NOTE: I use the PAGING library with it](https://www.reddit.com/r/androiddev/comments/10o9jss/i_didnt_get_why_this_happening_to_my_leanback/)
+- [Android multimodule dependency graph generator](https://www.reddit.com/r/androiddev/comments/10o8mrk/android_multimodule_dependency_graph_generator/)
+- [What kind of attribution is allowed on Google Play?](https://www.reddit.com/r/androiddev/comments/10o7lqg/what_kind_of_attribution_is_allowed_on_google_play/)
+- [Where do you store your WorkManager files in a Multi-Module app?](https://www.reddit.com/r/androiddev/comments/10o7ktw/where_do_you_store_your_workmanager_files_in_a/)
+- [Open new window in a Custom Chrome Tab from WebView](https://www.reddit.com/r/androiddev/comments/10o5iml/open_new_window_in_a_custom_chrome_tab_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
