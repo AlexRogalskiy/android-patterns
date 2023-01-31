@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Maestro just released a new version of maestro studio, I was shocked how it just... worked. I&#39;m kinda mad at myself for not finding it sooner.](https://www.reddit.com/r/androiddev/comments/10ooi2f/maestro_just_released_a_new_version_of_maestro/)
-- [2 Billion push notification simultaneously](https://www.reddit.com/r/androiddev/comments/10oirth/2_billion_push_notification_simultaneously/)
-- [Best approach for simple chat app](https://www.reddit.com/r/androiddev/comments/10oiqvg/best_approach_for_simple_chat_app/)
-- [Couple of questions about State in Compose](https://www.reddit.com/r/androiddev/comments/10ohqeu/couple_of_questions_about_state_in_compose/)
-- [I didn&#39;t get why this happening to my Leanback verticalGridview sometimes after scrolling, NOTE: I use the PAGING library with it](https://www.reddit.com/r/androiddev/comments/10o9kci/i_didnt_get_why_this_happening_to_my_leanback/)
-- [I didn&#39;t get why this happening to my Leanback verticalGridview sometimes after scrolling, NOTE: I use the PAGING library with it](https://www.reddit.com/r/androiddev/comments/10o9jss/i_didnt_get_why_this_happening_to_my_leanback/)
-- [Android multimodule dependency graph generator](https://www.reddit.com/r/androiddev/comments/10o8mrk/android_multimodule_dependency_graph_generator/)
-- [What kind of attribution is allowed on Google Play?](https://www.reddit.com/r/androiddev/comments/10o7lqg/what_kind_of_attribution_is_allowed_on_google_play/)
-- [Where do you store your WorkManager files in a Multi-Module app?](https://www.reddit.com/r/androiddev/comments/10o7ktw/where_do_you_store_your_workmanager_files_in_a/)
-- [Open new window in a Custom Chrome Tab from WebView](https://www.reddit.com/r/androiddev/comments/10o5iml/open_new_window_in_a_custom_chrome_tab_from/)
+- [android app update without source code?](https://www.reddit.com/r/androiddev/comments/10pjyos/android_app_update_without_source_code/)
+- [Google Play Developer Antitrust Litigation](https://www.reddit.com/r/androiddev/comments/10ph4xo/google_play_developer_antitrust_litigation/)
+- [What&#39;s the most malicious application possible?](https://www.reddit.com/r/androiddev/comments/10pgeg4/whats_the_most_malicious_application_possible/)
+- [KMP: A Use Case For Common UI Behavior – Touchlab | Kotlin Multiplatform Mobile Experts](https://www.reddit.com/r/androiddev/comments/10pcz8u/kmp_a_use_case_for_common_ui_behavior_touchlab/)
+- [In-App Purchase in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/10pcfgg/inapp_purchase_in_jetpack_compose/)
+- [Google Play Developer Brazilian verification](https://www.reddit.com/r/androiddev/comments/10p836g/google_play_developer_brazilian_verification/)
+- [Read and Show List of PDF files on downloads folder?](https://www.reddit.com/r/androiddev/comments/10p6fe1/read_and_show_list_of_pdf_files_on_downloads/)
+- [GitHub Actions - Build Android App v1.3.0](https://www.reddit.com/r/androiddev/comments/10p3j2h/github_actions_build_android_app_v130/)
+- [Weekly Who&#39;s Hiring Thread - January 30, 2023](https://www.reddit.com/r/androiddev/comments/10p32pr/weekly_whos_hiring_thread_january_30_2023/)
+- [Leveraging the Snapshot Mutation Policies of Jetpack Compose](https://www.reddit.com/r/androiddev/comments/10p2f3o/leveraging_the_snapshot_mutation_policies_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
