@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [android app update without source code?](https://www.reddit.com/r/androiddev/comments/10pjyos/android_app_update_without_source_code/)
-- [Google Play Developer Antitrust Litigation](https://www.reddit.com/r/androiddev/comments/10ph4xo/google_play_developer_antitrust_litigation/)
-- [What&#39;s the most malicious application possible?](https://www.reddit.com/r/androiddev/comments/10pgeg4/whats_the_most_malicious_application_possible/)
-- [KMP: A Use Case For Common UI Behavior – Touchlab | Kotlin Multiplatform Mobile Experts](https://www.reddit.com/r/androiddev/comments/10pcz8u/kmp_a_use_case_for_common_ui_behavior_touchlab/)
-- [In-App Purchase in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/10pcfgg/inapp_purchase_in_jetpack_compose/)
-- [Google Play Developer Brazilian verification](https://www.reddit.com/r/androiddev/comments/10p836g/google_play_developer_brazilian_verification/)
-- [Read and Show List of PDF files on downloads folder?](https://www.reddit.com/r/androiddev/comments/10p6fe1/read_and_show_list_of_pdf_files_on_downloads/)
-- [GitHub Actions - Build Android App v1.3.0](https://www.reddit.com/r/androiddev/comments/10p3j2h/github_actions_build_android_app_v130/)
-- [Weekly Who&#39;s Hiring Thread - January 30, 2023](https://www.reddit.com/r/androiddev/comments/10p32pr/weekly_whos_hiring_thread_january_30_2023/)
-- [Leveraging the Snapshot Mutation Policies of Jetpack Compose](https://www.reddit.com/r/androiddev/comments/10p2f3o/leveraging_the_snapshot_mutation_policies_of/)
+- [Stampeding Elephants](https://www.reddit.com/r/androiddev/comments/10qhkra/stampeding_elephants/)
+- [Jetpack compose textfield question](https://www.reddit.com/r/androiddev/comments/10qfimi/jetpack_compose_textfield_question/)
+- [How to become a better Android developer?](https://www.reddit.com/r/androiddev/comments/10qembq/how_to_become_a_better_android_developer/)
+- [Officially, Databinding is in maintenance mode, and recommended to use Jetpack Compose instead of it.](https://www.reddit.com/r/androiddev/comments/10qe9x2/officially_databinding_is_in_maintenance_mode_and/)
+- [ABI and APP compatibility in Android](https://www.reddit.com/r/androiddev/comments/10qdep8/abi_and_app_compatibility_in_android/)
+- [I can&#39;t make my way in programming, even I want it so bad.](https://www.reddit.com/r/androiddev/comments/10qbc3a/i_cant_make_my_way_in_programming_even_i_want_it/)
+- [Writing heavily nested object returned from api to a Room database](https://www.reddit.com/r/androiddev/comments/10qah1g/writing_heavily_nested_object_returned_from_api/)
+- [Complex state management in JetPack Compose: If I have multiple state variables in a JetPack Compose @ Composable, &lpar;let&#39;s say 5 for example&rpar; is there a way to handle them in a single object instead of 5 different variables?](https://www.reddit.com/r/androiddev/comments/10qagw7/complex_state_management_in_jetpack_compose_if_i/)
+- [Room DB size](https://www.reddit.com/r/androiddev/comments/10q8y1h/room_db_size/)
+- [How to implement Settings that adds items](https://www.reddit.com/r/androiddev/comments/10q8gn0/how_to_implement_settings_that_adds_items/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
