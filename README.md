@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Newbie Android Developer: Java or Kotlin?](https://www.reddit.com/r/androiddev/comments/10rdjek/newbie_android_developer_java_or_kotlin/)
-- [IntelCube](https://www.reddit.com/r/androiddev/comments/10r9oyb/intelcube/)
-- [What are some App stores that don&#39;t have any fee to post apps?](https://www.reddit.com/r/androiddev/comments/10r6x92/what_are_some_app_stores_that_dont_have_any_fee/)
-- [I need icon pack!](https://www.reddit.com/r/androiddev/comments/10r6ny2/i_need_icon_pack/)
-- [Open source projects](https://www.reddit.com/r/androiddev/comments/10r6bj4/open_source_projects/)
-- [android developer interview](https://www.reddit.com/r/androiddev/comments/10r5sny/android_developer_interview/)
-- [Number plate recognition with MLKit?](https://www.reddit.com/r/androiddev/comments/10r45ue/number_plate_recognition_with_mlkit/)
-- [What is the best/most secure way to store sensitive information &lpar;such as tokens&rpar; that needs to be accessed constantly inside the app?](https://www.reddit.com/r/androiddev/comments/10r2m2x/what_is_the_bestmost_secure_way_to_store/)
-- [Android Studio Electric Eel | 2022.2.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/10r18w5/android_studio_electric_eel_202221_patch_1_now/)
-- [Is it possible to turn off a section of an OLED display ?](https://www.reddit.com/r/androiddev/comments/10r0eu9/is_it_possible_to_turn_off_a_section_of_an_oled/)
+- [Android library compatibility and Public API management](https://www.reddit.com/r/androiddev/comments/10s7nsi/android_library_compatibility_and_public_api/)
+- [Affiliate Management Solution for Ecommerce Mobile App](https://www.reddit.com/r/androiddev/comments/10s3v29/affiliate_management_solution_for_ecommerce/)
+- [how can I open the default file manager app of the phone?](https://www.reddit.com/r/androiddev/comments/10s2gjt/how_can_i_open_the_default_file_manager_app_of/)
+- [Native Android is easier than React Native?](https://www.reddit.com/r/androiddev/comments/10s0nxf/native_android_is_easier_than_react_native/)
+- [Translucent/blur background](https://www.reddit.com/r/androiddev/comments/10rz7r9/translucentblur_background/)
+- [Building a Language Learning App with Compose – Part 2](https://www.reddit.com/r/androiddev/comments/10ryngw/building_a_language_learning_app_with_compose/)
+- [I made an Android App where you can get all custom ROMS and Recoveries!! &lpar;Custom-RR&rpar;](https://www.reddit.com/r/androiddev/comments/10rykyz/i_made_an_android_app_where_you_can_get_all/)
+- [How to get the focal length of the camera using native code &lpar;kotlin&rpar;?](https://www.reddit.com/r/androiddev/comments/10ry9h0/how_to_get_the_focal_length_of_the_camera_using/)
+- [Question about play store app licensing](https://www.reddit.com/r/androiddev/comments/10rxdlr/question_about_play_store_app_licensing/)
+- [Is it possible to run android without a GUI](https://www.reddit.com/r/androiddev/comments/10rv2fx/is_it_possible_to_run_android_without_a_gui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
