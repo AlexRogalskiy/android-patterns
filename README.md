@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android library compatibility and Public API management](https://www.reddit.com/r/androiddev/comments/10s7nsi/android_library_compatibility_and_public_api/)
-- [Affiliate Management Solution for Ecommerce Mobile App](https://www.reddit.com/r/androiddev/comments/10s3v29/affiliate_management_solution_for_ecommerce/)
-- [how can I open the default file manager app of the phone?](https://www.reddit.com/r/androiddev/comments/10s2gjt/how_can_i_open_the_default_file_manager_app_of/)
-- [Native Android is easier than React Native?](https://www.reddit.com/r/androiddev/comments/10s0nxf/native_android_is_easier_than_react_native/)
-- [Translucent/blur background](https://www.reddit.com/r/androiddev/comments/10rz7r9/translucentblur_background/)
-- [Building a Language Learning App with Compose – Part 2](https://www.reddit.com/r/androiddev/comments/10ryngw/building_a_language_learning_app_with_compose/)
-- [I made an Android App where you can get all custom ROMS and Recoveries!! &lpar;Custom-RR&rpar;](https://www.reddit.com/r/androiddev/comments/10rykyz/i_made_an_android_app_where_you_can_get_all/)
-- [How to get the focal length of the camera using native code &lpar;kotlin&rpar;?](https://www.reddit.com/r/androiddev/comments/10ry9h0/how_to_get_the_focal_length_of_the_camera_using/)
-- [Question about play store app licensing](https://www.reddit.com/r/androiddev/comments/10rxdlr/question_about_play_store_app_licensing/)
-- [Is it possible to run android without a GUI](https://www.reddit.com/r/androiddev/comments/10rv2fx/is_it_possible_to_run_android_without_a_gui/)
+- [I am Trying to Sell my App](https://www.reddit.com/r/androiddev/comments/10t0bmq/i_am_trying_to_sell_my_app/)
+- [Repository pattern. class or interface?](https://www.reddit.com/r/androiddev/comments/10szscx/repository_pattern_class_or_interface/)
+- [If I make a new release for INTERNAL testing does it affect the review time for production of the older release? &lpar;I&#39;m not going to edit the production release, just the internal testing release&rpar;.](https://www.reddit.com/r/androiddev/comments/10szocg/if_i_make_a_new_release_for_internal_testing_does/)
+- [Large companies dev policies](https://www.reddit.com/r/androiddev/comments/10syi5v/large_companies_dev_policies/)
+- [External Storage access issues - AndroidTV 11 and above - APK = Tivimate 4.6.1](https://www.reddit.com/r/androiddev/comments/10svbgv/external_storage_access_issues_androidtv_11_and/)
+- [Those who make side money with their own mobile apps, what are your best tips to come up with a great app idea?](https://www.reddit.com/r/androiddev/comments/10sst24/those_who_make_side_money_with_their_own_mobile/)
+- [Edittext cursor position subscription](https://www.reddit.com/r/androiddev/comments/10sslop/edittext_cursor_position_subscription/)
+- [Common data structures that pop up in leetcode style interviews?](https://www.reddit.com/r/androiddev/comments/10sqlww/common_data_structures_that_pop_up_in_leetcode/)
+- [Why are the sidebar items highlighted &amp; how can I remove the highlight?](https://www.reddit.com/r/androiddev/comments/10soxdj/why_are_the_sidebar_items_highlighted_how_can_i/)
+- [Starting February 9, twitter will no longer support free access to the Twitter API, both v2 and v1.1. A paid basic tier will be available instead.](https://www.reddit.com/r/androiddev/comments/10snovo/starting_february_9_twitter_will_no_longer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
