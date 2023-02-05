@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I am Trying to Sell my App](https://www.reddit.com/r/androiddev/comments/10t0bmq/i_am_trying_to_sell_my_app/)
-- [Repository pattern. class or interface?](https://www.reddit.com/r/androiddev/comments/10szscx/repository_pattern_class_or_interface/)
-- [If I make a new release for INTERNAL testing does it affect the review time for production of the older release? &lpar;I&#39;m not going to edit the production release, just the internal testing release&rpar;.](https://www.reddit.com/r/androiddev/comments/10szocg/if_i_make_a_new_release_for_internal_testing_does/)
-- [Large companies dev policies](https://www.reddit.com/r/androiddev/comments/10syi5v/large_companies_dev_policies/)
-- [External Storage access issues - AndroidTV 11 and above - APK = Tivimate 4.6.1](https://www.reddit.com/r/androiddev/comments/10svbgv/external_storage_access_issues_androidtv_11_and/)
-- [Those who make side money with their own mobile apps, what are your best tips to come up with a great app idea?](https://www.reddit.com/r/androiddev/comments/10sst24/those_who_make_side_money_with_their_own_mobile/)
-- [Edittext cursor position subscription](https://www.reddit.com/r/androiddev/comments/10sslop/edittext_cursor_position_subscription/)
-- [Common data structures that pop up in leetcode style interviews?](https://www.reddit.com/r/androiddev/comments/10sqlww/common_data_structures_that_pop_up_in_leetcode/)
-- [Why are the sidebar items highlighted &amp; how can I remove the highlight?](https://www.reddit.com/r/androiddev/comments/10soxdj/why_are_the_sidebar_items_highlighted_how_can_i/)
-- [Starting February 9, twitter will no longer support free access to the Twitter API, both v2 and v1.1. A paid basic tier will be available instead.](https://www.reddit.com/r/androiddev/comments/10snovo/starting_february_9_twitter_will_no_longer/)
+- [My app updates keep getting rejected from the Play Store for &quot;deceptive ads&quot;...](https://www.reddit.com/r/androiddev/comments/10txbyo/my_app_updates_keep_getting_rejected_from_the/)
+- [Back to stock….](https://www.reddit.com/r/androiddev/comments/10twdfr/back_to_stock/)
+- [Will updates on Android ever get quicker and as quick as it is on iOS? Is it something Google could fix?](https://www.reddit.com/r/androiddev/comments/10tv4nx/will_updates_on_android_ever_get_quicker_and_as/)
+- [A guide to improve app performance for Android developers](https://www.reddit.com/r/androiddev/comments/10tpve5/a_guide_to_improve_app_performance_for_android/)
+- [Are android developers trainings enough to land a jr. role?](https://www.reddit.com/r/androiddev/comments/10tnbj9/are_android_developers_trainings_enough_to_land_a/)
+- [How do I ensure that my pre-launch test credentials are submitted? &lpar;React-Native + Auth0 universal login&rpar;](https://www.reddit.com/r/androiddev/comments/10tn3ip/how_do_i_ensure_that_my_prelaunch_test/)
+- [Android Studio ARM build](https://www.reddit.com/r/androiddev/comments/10tku2j/android_studio_arm_build/)
+- [Global State Management for Compose?](https://www.reddit.com/r/androiddev/comments/10tkpi5/global_state_management_for_compose/)
+- [How do you drive downloads to your app from external sources &lpar;e.g. landing page or printouts&rpar;](https://www.reddit.com/r/androiddev/comments/10thj18/how_do_you_drive_downloads_to_your_app_from/)
+- [UMP with Mobile Ads SDK needs publishing?](https://www.reddit.com/r/androiddev/comments/10th4aw/ump_with_mobile_ads_sdk_needs_publishing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
