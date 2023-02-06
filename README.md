@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My app updates keep getting rejected from the Play Store for &quot;deceptive ads&quot;...](https://www.reddit.com/r/androiddev/comments/10txbyo/my_app_updates_keep_getting_rejected_from_the/)
-- [Back to stock….](https://www.reddit.com/r/androiddev/comments/10twdfr/back_to_stock/)
-- [Will updates on Android ever get quicker and as quick as it is on iOS? Is it something Google could fix?](https://www.reddit.com/r/androiddev/comments/10tv4nx/will_updates_on_android_ever_get_quicker_and_as/)
-- [A guide to improve app performance for Android developers](https://www.reddit.com/r/androiddev/comments/10tpve5/a_guide_to_improve_app_performance_for_android/)
-- [Are android developers trainings enough to land a jr. role?](https://www.reddit.com/r/androiddev/comments/10tnbj9/are_android_developers_trainings_enough_to_land_a/)
-- [How do I ensure that my pre-launch test credentials are submitted? &lpar;React-Native + Auth0 universal login&rpar;](https://www.reddit.com/r/androiddev/comments/10tn3ip/how_do_i_ensure_that_my_prelaunch_test/)
-- [Android Studio ARM build](https://www.reddit.com/r/androiddev/comments/10tku2j/android_studio_arm_build/)
-- [Global State Management for Compose?](https://www.reddit.com/r/androiddev/comments/10tkpi5/global_state_management_for_compose/)
-- [How do you drive downloads to your app from external sources &lpar;e.g. landing page or printouts&rpar;](https://www.reddit.com/r/androiddev/comments/10thj18/how_do_you_drive_downloads_to_your_app_from/)
-- [UMP with Mobile Ads SDK needs publishing?](https://www.reddit.com/r/androiddev/comments/10th4aw/ump_with_mobile_ads_sdk_needs_publishing/)
+- [framework choice](https://www.reddit.com/r/androiddev/comments/10upoum/framework_choice/)
+- [How to simplify documentation process in android](https://www.reddit.com/r/androiddev/comments/10ujhxq/how_to_simplify_documentation_process_in_android/)
+- [How do I start coding to personalize my OS ?](https://www.reddit.com/r/androiddev/comments/10uin38/how_do_i_start_coding_to_personalize_my_os/)
+- [Compose geometry playground using canvas](https://www.reddit.com/r/androiddev/comments/10ugwz2/compose_geometry_playground_using_canvas/)
+- [Android Developer Interview Question: Difference between REST and GraphQL API&#39;s](https://www.reddit.com/r/androiddev/comments/10ugi9d/android_developer_interview_question_difference/)
+- [Claim Administrator Angeion Group Announces Proposed Settlement in Google Play Store Antitrust Litigation Involving U.S. Android OS Application Developers](https://www.reddit.com/r/androiddev/comments/10udbzy/claim_administrator_angeion_group_announces/)
+- [New to android development and wondering what common techstacks are](https://www.reddit.com/r/androiddev/comments/10uclew/new_to_android_development_and_wondering_what/)
+- [Samsung Galaxy Edge panels](https://www.reddit.com/r/androiddev/comments/10ub0mn/samsung_galaxy_edge_panels/)
+- [&quot;Licenses and Libraries&quot; with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/10u9bqq/licenses_and_libraries_with_jetpack_compose/)
+- [Android is getting old &lpar;15y&rpar;. For how much long do you think it will be a sustainable career path for developers?](https://www.reddit.com/r/androiddev/comments/10u8gjn/android_is_getting_old_15y_for_how_much_long_do/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
