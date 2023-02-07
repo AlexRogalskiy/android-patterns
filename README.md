@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [framework choice](https://www.reddit.com/r/androiddev/comments/10upoum/framework_choice/)
-- [How to simplify documentation process in android](https://www.reddit.com/r/androiddev/comments/10ujhxq/how_to_simplify_documentation_process_in_android/)
-- [How do I start coding to personalize my OS ?](https://www.reddit.com/r/androiddev/comments/10uin38/how_do_i_start_coding_to_personalize_my_os/)
-- [Compose geometry playground using canvas](https://www.reddit.com/r/androiddev/comments/10ugwz2/compose_geometry_playground_using_canvas/)
-- [Android Developer Interview Question: Difference between REST and GraphQL API&#39;s](https://www.reddit.com/r/androiddev/comments/10ugi9d/android_developer_interview_question_difference/)
-- [Claim Administrator Angeion Group Announces Proposed Settlement in Google Play Store Antitrust Litigation Involving U.S. Android OS Application Developers](https://www.reddit.com/r/androiddev/comments/10udbzy/claim_administrator_angeion_group_announces/)
-- [New to android development and wondering what common techstacks are](https://www.reddit.com/r/androiddev/comments/10uclew/new_to_android_development_and_wondering_what/)
-- [Samsung Galaxy Edge panels](https://www.reddit.com/r/androiddev/comments/10ub0mn/samsung_galaxy_edge_panels/)
-- [&quot;Licenses and Libraries&quot; with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/10u9bqq/licenses_and_libraries_with_jetpack_compose/)
-- [Android is getting old &lpar;15y&rpar;. For how much long do you think it will be a sustainable career path for developers?](https://www.reddit.com/r/androiddev/comments/10u8gjn/android_is_getting_old_15y_for_how_much_long_do/)
+- [Fastboot Help](https://www.reddit.com/r/androiddev/comments/10vntz8/fastboot_help/)
+- [Google Play Developer Settlement](https://www.reddit.com/r/androiddev/comments/10vls7o/google_play_developer_settlement/)
+- [Dto Mapper in Domain or Data Layer?](https://www.reddit.com/r/androiddev/comments/10vk93c/dto_mapper_in_domain_or_data_layer/)
+- [best practice , downloading](https://www.reddit.com/r/androiddev/comments/10vieqw/best_practice_downloading/)
+- [Material 3 Colors do not change or work they keep returning purple for some reason](https://www.reddit.com/r/androiddev/comments/10vi29q/material_3_colors_do_not_change_or_work_they_keep/)
+- [How to approach dialogs with dynamic views?](https://www.reddit.com/r/androiddev/comments/10vhdt2/how_to_approach_dialogs_with_dynamic_views/)
+- [Kotlin Illustrated Guide - Intro to Delegation](https://www.reddit.com/r/androiddev/comments/10vg4j9/kotlin_illustrated_guide_intro_to_delegation/)
+- [How is Google Assistant permanently listening for the wake word if the microphone indicator is never on?](https://www.reddit.com/r/androiddev/comments/10vg2ml/how_is_google_assistant_permanently_listening_for/)
+- [Self-Taught Programmer Seeking Career Advice: What to Learn Next and Open-Source Project Ideas](https://www.reddit.com/r/androiddev/comments/10ve904/selftaught_programmer_seeking_career_advice_what/)
+- [Google released Android 13 February 2023 patch update](https://www.reddit.com/r/androiddev/comments/10ve8e4/google_released_android_13_february_2023_patch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
