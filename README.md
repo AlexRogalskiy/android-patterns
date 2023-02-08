@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fastboot Help](https://www.reddit.com/r/androiddev/comments/10vntz8/fastboot_help/)
-- [Google Play Developer Settlement](https://www.reddit.com/r/androiddev/comments/10vls7o/google_play_developer_settlement/)
-- [Dto Mapper in Domain or Data Layer?](https://www.reddit.com/r/androiddev/comments/10vk93c/dto_mapper_in_domain_or_data_layer/)
-- [best practice , downloading](https://www.reddit.com/r/androiddev/comments/10vieqw/best_practice_downloading/)
-- [Material 3 Colors do not change or work they keep returning purple for some reason](https://www.reddit.com/r/androiddev/comments/10vi29q/material_3_colors_do_not_change_or_work_they_keep/)
-- [How to approach dialogs with dynamic views?](https://www.reddit.com/r/androiddev/comments/10vhdt2/how_to_approach_dialogs_with_dynamic_views/)
-- [Kotlin Illustrated Guide - Intro to Delegation](https://www.reddit.com/r/androiddev/comments/10vg4j9/kotlin_illustrated_guide_intro_to_delegation/)
-- [How is Google Assistant permanently listening for the wake word if the microphone indicator is never on?](https://www.reddit.com/r/androiddev/comments/10vg2ml/how_is_google_assistant_permanently_listening_for/)
-- [Self-Taught Programmer Seeking Career Advice: What to Learn Next and Open-Source Project Ideas](https://www.reddit.com/r/androiddev/comments/10ve904/selftaught_programmer_seeking_career_advice_what/)
-- [Google released Android 13 February 2023 patch update](https://www.reddit.com/r/androiddev/comments/10ve8e4/google_released_android_13_february_2023_patch/)
+- [Android Studio Flamingo Beta 2 now available](https://www.reddit.com/r/androiddev/comments/10wiy1l/android_studio_flamingo_beta_2_now_available/)
+- [Android Studio Giraffe Canary 3 now available](https://www.reddit.com/r/androiddev/comments/10wiy16/android_studio_giraffe_canary_3_now_available/)
+- [Which Android Studio theme is this?](https://www.reddit.com/r/androiddev/comments/10wgpgi/which_android_studio_theme_is_this/)
+- [any ideas on how to find internships?](https://www.reddit.com/r/androiddev/comments/10wgk0m/any_ideas_on_how_to_find_internships/)
+- [Develop an app as SDK &lpar;suggestions&rpar;](https://www.reddit.com/r/androiddev/comments/10wg7vz/develop_an_app_as_sdk_suggestions/)
+- [Is there a more simpler way for using the back button to return to the previous activity?](https://www.reddit.com/r/androiddev/comments/10wfkoj/is_there_a_more_simpler_way_for_using_the_back/)
+- [Alternative app install ad networks in other currencies?](https://www.reddit.com/r/androiddev/comments/10wfhm9/alternative_app_install_ad_networks_in_other/)
+- [Android Emulator extremely laggy, dead pixels appearing.](https://www.reddit.com/r/androiddev/comments/10weqfl/android_emulator_extremely_laggy_dead_pixels/)
+- [What do you think of the admob performance of my app?](https://www.reddit.com/r/androiddev/comments/10wb1lw/what_do_you_think_of_the_admob_performance_of_my/)
+- [Migration from apps to games, where to start?](https://www.reddit.com/r/androiddev/comments/10wad12/migration_from_apps_to_games_where_to_start/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
