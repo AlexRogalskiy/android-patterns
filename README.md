@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Flamingo Beta 2 now available](https://www.reddit.com/r/androiddev/comments/10wiy1l/android_studio_flamingo_beta_2_now_available/)
-- [Android Studio Giraffe Canary 3 now available](https://www.reddit.com/r/androiddev/comments/10wiy16/android_studio_giraffe_canary_3_now_available/)
-- [Which Android Studio theme is this?](https://www.reddit.com/r/androiddev/comments/10wgpgi/which_android_studio_theme_is_this/)
-- [any ideas on how to find internships?](https://www.reddit.com/r/androiddev/comments/10wgk0m/any_ideas_on_how_to_find_internships/)
-- [Develop an app as SDK &lpar;suggestions&rpar;](https://www.reddit.com/r/androiddev/comments/10wg7vz/develop_an_app_as_sdk_suggestions/)
-- [Is there a more simpler way for using the back button to return to the previous activity?](https://www.reddit.com/r/androiddev/comments/10wfkoj/is_there_a_more_simpler_way_for_using_the_back/)
-- [Alternative app install ad networks in other currencies?](https://www.reddit.com/r/androiddev/comments/10wfhm9/alternative_app_install_ad_networks_in_other/)
-- [Android Emulator extremely laggy, dead pixels appearing.](https://www.reddit.com/r/androiddev/comments/10weqfl/android_emulator_extremely_laggy_dead_pixels/)
-- [What do you think of the admob performance of my app?](https://www.reddit.com/r/androiddev/comments/10wb1lw/what_do_you_think_of_the_admob_performance_of_my/)
-- [Migration from apps to games, where to start?](https://www.reddit.com/r/androiddev/comments/10wad12/migration_from_apps_to_games_where_to_start/)
+- [Non-Compliant SDK in previous release, but I can&#39;t disable it. Help Please!](https://www.reddit.com/r/androiddev/comments/10xg8pn/noncompliant_sdk_in_previous_release_but_i_cant/)
+- [Have you tried chatgpt for assisting dev?](https://www.reddit.com/r/androiddev/comments/10xcp6c/have_you_tried_chatgpt_for_assisting_dev/)
+- [Accessing UI elements/text of one application from another](https://www.reddit.com/r/androiddev/comments/10xcb98/accessing_ui_elementstext_of_one_application_from/)
+- [Read if you publish stuff on the internet](https://www.reddit.com/r/androiddev/comments/10xc5q2/read_if_you_publish_stuff_on_the_internet/)
+- [Android Slack communities](https://www.reddit.com/r/androiddev/comments/10xadlc/android_slack_communities/)
+- [Are there any remote-specific contracting companies you recommend?](https://www.reddit.com/r/androiddev/comments/10x8yam/are_there_any_remotespecific_contracting/)
+- [Backend guy doing front end stuff](https://www.reddit.com/r/androiddev/comments/10x8dqo/backend_guy_doing_front_end_stuff/)
+- [Android 14 Developer Preview released](https://www.reddit.com/r/androiddev/comments/10x6gmh/android_14_developer_preview_released/)
+- [React Native](https://www.reddit.com/r/androiddev/comments/10x5evs/react_native/)
+- [Man shout out to couroutines](https://www.reddit.com/r/androiddev/comments/10x4a0x/man_shout_out_to_couroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
