@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Non-Compliant SDK in previous release, but I can&#39;t disable it. Help Please!](https://www.reddit.com/r/androiddev/comments/10xg8pn/noncompliant_sdk_in_previous_release_but_i_cant/)
-- [Have you tried chatgpt for assisting dev?](https://www.reddit.com/r/androiddev/comments/10xcp6c/have_you_tried_chatgpt_for_assisting_dev/)
-- [Accessing UI elements/text of one application from another](https://www.reddit.com/r/androiddev/comments/10xcb98/accessing_ui_elementstext_of_one_application_from/)
-- [Read if you publish stuff on the internet](https://www.reddit.com/r/androiddev/comments/10xc5q2/read_if_you_publish_stuff_on_the_internet/)
-- [Android Slack communities](https://www.reddit.com/r/androiddev/comments/10xadlc/android_slack_communities/)
-- [Are there any remote-specific contracting companies you recommend?](https://www.reddit.com/r/androiddev/comments/10x8yam/are_there_any_remotespecific_contracting/)
-- [Backend guy doing front end stuff](https://www.reddit.com/r/androiddev/comments/10x8dqo/backend_guy_doing_front_end_stuff/)
-- [Android 14 Developer Preview released](https://www.reddit.com/r/androiddev/comments/10x6gmh/android_14_developer_preview_released/)
-- [React Native](https://www.reddit.com/r/androiddev/comments/10x5evs/react_native/)
-- [Man shout out to couroutines](https://www.reddit.com/r/androiddev/comments/10x4a0x/man_shout_out_to_couroutines/)
+- [What&#39;s wrong with my resume. Need Help, Getting no call backs or Interviews for Android Developer roles, Been trying for 3 months [USA]](https://www.reddit.com/r/androiddev/comments/10ycdbj/whats_wrong_with_my_resume_need_help_getting_no/)
+- [Are these numbers right? &lpar;Admob&rpar;](https://www.reddit.com/r/androiddev/comments/10ybrvs/are_these_numbers_right_admob/)
+- [Soooo how&#39;s everyone&#39;s job hunting?](https://www.reddit.com/r/androiddev/comments/10yapwo/soooo_hows_everyones_job_hunting/)
+- [Android Studio Giraffe Canary 4 now available](https://www.reddit.com/r/androiddev/comments/10yaj83/android_studio_giraffe_canary_4_now_available/)
+- [Cross device SDK. What&#39;s the real chances of this being multiplatform?](https://www.reddit.com/r/androiddev/comments/10y9rlw/cross_device_sdk_whats_the_real_chances_of_this/)
+- [Leanback vertical gridview infinity touch scrolling problem](https://www.reddit.com/r/androiddev/comments/10y8vju/leanback_vertical_gridview_infinity_touch/)
+- [Does View Model works with Compose?](https://www.reddit.com/r/androiddev/comments/10y8f8a/does_view_model_works_with_compose/)
+- [How to get the smoothness of a cubic Bezier curve in Apache Commons math3.](https://www.reddit.com/r/androiddev/comments/10y7y05/how_to_get_the_smoothness_of_a_cubic_bezier_curve/)
+- [12 hours to get started?](https://www.reddit.com/r/androiddev/comments/10y7lop/12_hours_to_get_started/)
+- [Are crowdfunding apps subject to the Google service fee?](https://www.reddit.com/r/androiddev/comments/10y63n0/are_crowdfunding_apps_subject_to_the_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
