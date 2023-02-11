@@ -286,6 +286,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Android 14 preview for developers arrives](https://www.infoworld.com/article/3687731/android-14-preview-for-developers-arrives.html#tk.rss_android)
 - [What is Kotlin? The Java alternative explained](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html#tk.rss_android)
 - [Android 13 brings themed app icons, security tweaks](https://www.infoworld.com/article/3669860/android-13-brings-themed-app-icons-security-tweaks.html#tk.rss_android)
 - [Jetpack Compose 1.2 packs text improvements](https://www.infoworld.com/article/3660772/jetpack-compose-12-packs-text-improvements.html#tk.rss_android)
@@ -295,7 +296,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google Flutter 2.5 UI kit is now stable](https://www.infoworld.com/article/3632887/google-flutter-25-ui-kit-is-now-stable.html#tk.rss_android)
 - [Jetpack Compose for Android turns GA](https://www.infoworld.com/article/3627298/jetpack-compose-for-android-turns-ga.html#tk.rss_android)
 - [Microsoft sunsets Xamarin toolkit](https://www.infoworld.com/article/3626453/microsoft-sunsets-xamarin-toolkit.html#tk.rss_android)
-- [Gradle 7.0 improves incremental builds, backs Java 16](https://www.infoworld.com/article/3614703/gradle-70-improves-incremental-builds-backs-java-16.html#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
