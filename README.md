@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s wrong with my resume. Need Help, Getting no call backs or Interviews for Android Developer roles, Been trying for 3 months [USA]](https://www.reddit.com/r/androiddev/comments/10ycdbj/whats_wrong_with_my_resume_need_help_getting_no/)
-- [Are these numbers right? &lpar;Admob&rpar;](https://www.reddit.com/r/androiddev/comments/10ybrvs/are_these_numbers_right_admob/)
-- [Soooo how&#39;s everyone&#39;s job hunting?](https://www.reddit.com/r/androiddev/comments/10yapwo/soooo_hows_everyones_job_hunting/)
-- [Android Studio Giraffe Canary 4 now available](https://www.reddit.com/r/androiddev/comments/10yaj83/android_studio_giraffe_canary_4_now_available/)
-- [Cross device SDK. What&#39;s the real chances of this being multiplatform?](https://www.reddit.com/r/androiddev/comments/10y9rlw/cross_device_sdk_whats_the_real_chances_of_this/)
-- [Leanback vertical gridview infinity touch scrolling problem](https://www.reddit.com/r/androiddev/comments/10y8vju/leanback_vertical_gridview_infinity_touch/)
-- [Does View Model works with Compose?](https://www.reddit.com/r/androiddev/comments/10y8f8a/does_view_model_works_with_compose/)
-- [How to get the smoothness of a cubic Bezier curve in Apache Commons math3.](https://www.reddit.com/r/androiddev/comments/10y7y05/how_to_get_the_smoothness_of_a_cubic_bezier_curve/)
-- [12 hours to get started?](https://www.reddit.com/r/androiddev/comments/10y7lop/12_hours_to_get_started/)
-- [Are crowdfunding apps subject to the Google service fee?](https://www.reddit.com/r/androiddev/comments/10y63n0/are_crowdfunding_apps_subject_to_the_google/)
+- [Prepping For Android Intern Interview](https://www.reddit.com/r/androiddev/comments/10z8fy6/prepping_for_android_intern_interview/)
+- [Is it possible to make a memory dump of an app on a rooted phone without connecting to a computer?](https://www.reddit.com/r/androiddev/comments/10z75cj/is_it_possible_to_make_a_memory_dump_of_an_app_on/)
+- [University Project Advice/ Design](https://www.reddit.com/r/androiddev/comments/10yzavc/university_project_advice_design/)
+- [FAKE CAMERA HELP](https://www.reddit.com/r/androiddev/comments/10yz7r4/fake_camera_help/)
+- [Multiple Google Play Console Accounts](https://www.reddit.com/r/androiddev/comments/10yxpfi/multiple_google_play_console_accounts/)
+- [Are there any open source apps that show how to use health connect?](https://www.reddit.com/r/androiddev/comments/10yw8t6/are_there_any_open_source_apps_that_show_how_to/)
+- [My open source Android Project about Learning Lithuanian vocabulary](https://www.reddit.com/r/androiddev/comments/10yt3t9/my_open_source_android_project_about_learning/)
+- [Edittext current cursor position](https://www.reddit.com/r/androiddev/comments/10yruv9/edittext_current_cursor_position/)
+- [mix Kotlin &amp; Java](https://www.reddit.com/r/androiddev/comments/10yrmhs/mix_kotlin_java/)
+- [About Designing Is More Difficult Than Coding](https://www.reddit.com/r/androiddev/comments/10ypzcr/about_designing_is_more_difficult_than_coding/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
