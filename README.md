@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Prepping For Android Intern Interview](https://www.reddit.com/r/androiddev/comments/10z8fy6/prepping_for_android_intern_interview/)
-- [Is it possible to make a memory dump of an app on a rooted phone without connecting to a computer?](https://www.reddit.com/r/androiddev/comments/10z75cj/is_it_possible_to_make_a_memory_dump_of_an_app_on/)
-- [University Project Advice/ Design](https://www.reddit.com/r/androiddev/comments/10yzavc/university_project_advice_design/)
-- [FAKE CAMERA HELP](https://www.reddit.com/r/androiddev/comments/10yz7r4/fake_camera_help/)
-- [Multiple Google Play Console Accounts](https://www.reddit.com/r/androiddev/comments/10yxpfi/multiple_google_play_console_accounts/)
-- [Are there any open source apps that show how to use health connect?](https://www.reddit.com/r/androiddev/comments/10yw8t6/are_there_any_open_source_apps_that_show_how_to/)
-- [My open source Android Project about Learning Lithuanian vocabulary](https://www.reddit.com/r/androiddev/comments/10yt3t9/my_open_source_android_project_about_learning/)
-- [Edittext current cursor position](https://www.reddit.com/r/androiddev/comments/10yruv9/edittext_current_cursor_position/)
-- [mix Kotlin &amp; Java](https://www.reddit.com/r/androiddev/comments/10yrmhs/mix_kotlin_java/)
-- [About Designing Is More Difficult Than Coding](https://www.reddit.com/r/androiddev/comments/10ypzcr/about_designing_is_more_difficult_than_coding/)
+- [Permission problems when using NotificationManager.notify&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1102y9y/permission_problems_when_using/)
+- [Box vs Canvas performance?](https://www.reddit.com/r/androiddev/comments/1100uy3/box_vs_canvas_performance/)
+- [Fake URL for the Android Studio IDE Installer with free virus for your PC :D](https://www.reddit.com/r/androiddev/comments/1100goe/fake_url_for_the_android_studio_ide_installer/)
+- [idea for App that block phone addiction 🚫](https://www.reddit.com/r/androiddev/comments/10zz9jy/idea_for_app_that_block_phone_addiction/)
+- [How to fill up Data Safety section correctly?](https://www.reddit.com/r/androiddev/comments/10zvifq/how_to_fill_up_data_safety_section_correctly/)
+- [Do I need to include &quot;Restore IAP&quot; in Multiplayer Game?](https://www.reddit.com/r/androiddev/comments/10zuor6/do_i_need_to_include_restore_iap_in_multiplayer/)
+- [Estimating work in a sprint](https://www.reddit.com/r/androiddev/comments/10zt7t4/estimating_work_in_a_sprint/)
+- [Android App development cost](https://www.reddit.com/r/androiddev/comments/10zslw3/android_app_development_cost/)
+- [Anyone with a media app dreading this ;](https://www.reddit.com/r/androiddev/comments/10zr7ke/anyone_with_a_media_app_dreading_this/)
+- [Android app performance with Perfetto](https://www.reddit.com/r/androiddev/comments/10zqqwx/android_app_performance_with_perfetto/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
