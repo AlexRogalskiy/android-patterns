@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Permission problems when using NotificationManager.notify&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1102y9y/permission_problems_when_using/)
-- [Box vs Canvas performance?](https://www.reddit.com/r/androiddev/comments/1100uy3/box_vs_canvas_performance/)
-- [Fake URL for the Android Studio IDE Installer with free virus for your PC :D](https://www.reddit.com/r/androiddev/comments/1100goe/fake_url_for_the_android_studio_ide_installer/)
-- [idea for App that block phone addiction 🚫](https://www.reddit.com/r/androiddev/comments/10zz9jy/idea_for_app_that_block_phone_addiction/)
-- [How to fill up Data Safety section correctly?](https://www.reddit.com/r/androiddev/comments/10zvifq/how_to_fill_up_data_safety_section_correctly/)
-- [Do I need to include &quot;Restore IAP&quot; in Multiplayer Game?](https://www.reddit.com/r/androiddev/comments/10zuor6/do_i_need_to_include_restore_iap_in_multiplayer/)
-- [Estimating work in a sprint](https://www.reddit.com/r/androiddev/comments/10zt7t4/estimating_work_in_a_sprint/)
-- [Android App development cost](https://www.reddit.com/r/androiddev/comments/10zslw3/android_app_development_cost/)
-- [Anyone with a media app dreading this ;](https://www.reddit.com/r/androiddev/comments/10zr7ke/anyone_with_a_media_app_dreading_this/)
-- [Android app performance with Perfetto](https://www.reddit.com/r/androiddev/comments/10zqqwx/android_app_performance_with_perfetto/)
+- [Do-It-Yourself Compose Multiplatform Navigation with Decompose](https://www.reddit.com/r/androiddev/comments/110vohj/doityourself_compose_multiplatform_navigation/)
+- [IntelliJ vs Android Studio in 2023?](https://www.reddit.com/r/androiddev/comments/110u8k3/intellij_vs_android_studio_in_2023/)
+- [Does Anyone Know What IDE To Use To Build Watch Faces For Galaxy Watch 4 &amp; 5?](https://www.reddit.com/r/androiddev/comments/110smwk/does_anyone_know_what_ide_to_use_to_build_watch/)
+- [Should you have to Bash as an android developer?](https://www.reddit.com/r/androiddev/comments/110qzex/should_you_have_to_bash_as_an_android_developer/)
+- [do you need tablet screenshots](https://www.reddit.com/r/androiddev/comments/110qb9p/do_you_need_tablet_screenshots/)
+- [AS Flamingo Beta 2 has crashed on my multiple times - Beta 1 never did](https://www.reddit.com/r/androiddev/comments/110ppc4/as_flamingo_beta_2_has_crashed_on_my_multiple/)
+- [How to check whether you&#39;re on prod build or stage build in the build gradle in order to do a certain action?](https://www.reddit.com/r/androiddev/comments/110pf7a/how_to_check_whether_youre_on_prod_build_or_stage/)
+- [Why Does My Emulator Show Up In Android Studio Now? How Do I Make It Its Own Application Again?](https://www.reddit.com/r/androiddev/comments/110l21n/why_does_my_emulator_show_up_in_android_studio/)
+- [Pure Compose Navigation](https://www.reddit.com/r/androiddev/comments/110k61g/pure_compose_navigation/)
+- [Support for different screen widths&lpar;Not dpi&rpar;](https://www.reddit.com/r/androiddev/comments/110i9us/support_for_different_screen_widthsnot_dpi/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
