@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do-It-Yourself Compose Multiplatform Navigation with Decompose](https://www.reddit.com/r/androiddev/comments/110vohj/doityourself_compose_multiplatform_navigation/)
-- [IntelliJ vs Android Studio in 2023?](https://www.reddit.com/r/androiddev/comments/110u8k3/intellij_vs_android_studio_in_2023/)
-- [Does Anyone Know What IDE To Use To Build Watch Faces For Galaxy Watch 4 &amp; 5?](https://www.reddit.com/r/androiddev/comments/110smwk/does_anyone_know_what_ide_to_use_to_build_watch/)
-- [Should you have to Bash as an android developer?](https://www.reddit.com/r/androiddev/comments/110qzex/should_you_have_to_bash_as_an_android_developer/)
-- [do you need tablet screenshots](https://www.reddit.com/r/androiddev/comments/110qb9p/do_you_need_tablet_screenshots/)
-- [AS Flamingo Beta 2 has crashed on my multiple times - Beta 1 never did](https://www.reddit.com/r/androiddev/comments/110ppc4/as_flamingo_beta_2_has_crashed_on_my_multiple/)
-- [How to check whether you&#39;re on prod build or stage build in the build gradle in order to do a certain action?](https://www.reddit.com/r/androiddev/comments/110pf7a/how_to_check_whether_youre_on_prod_build_or_stage/)
-- [Why Does My Emulator Show Up In Android Studio Now? How Do I Make It Its Own Application Again?](https://www.reddit.com/r/androiddev/comments/110l21n/why_does_my_emulator_show_up_in_android_studio/)
-- [Pure Compose Navigation](https://www.reddit.com/r/androiddev/comments/110k61g/pure_compose_navigation/)
-- [Support for different screen widths&lpar;Not dpi&rpar;](https://www.reddit.com/r/androiddev/comments/110i9us/support_for_different_screen_widthsnot_dpi/)
+- [custom rom redmi note 7](https://www.reddit.com/r/androiddev/comments/111oxt5/custom_rom_redmi_note_7/)
+- [Do you NEED a PC to create android apps?](https://www.reddit.com/r/androiddev/comments/111o0mo/do_you_need_a_pc_to_create_android_apps/)
+- [Developing app for WiFi connected device. Reverse engineer?](https://www.reddit.com/r/androiddev/comments/111jnxa/developing_app_for_wifi_connected_device_reverse/)
+- [Do people actually pay for review services?](https://www.reddit.com/r/androiddev/comments/111ixl9/do_people_actually_pay_for_review_services/)
+- [Tracking media consumed on the phone](https://www.reddit.com/r/androiddev/comments/111hr3g/tracking_media_consumed_on_the_phone/)
+- [What was the learning curve for you like going from LiveData + XML -&gt; Compose + Flows?](https://www.reddit.com/r/androiddev/comments/111grfj/what_was_the_learning_curve_for_you_like_going/)
+- [Compose potentially being moved out of androidx monorepo for faster adoption of new Kotlin versions!](https://www.reddit.com/r/androiddev/comments/111g5fp/compose_potentially_being_moved_out_of_androidx/)
+- [Where do I find the set of links for android development best practices on the official website?](https://www.reddit.com/r/androiddev/comments/111fque/where_do_i_find_the_set_of_links_for_android/)
+- [I just published an article about Android 14 per-app language preferences dynamic updates - share your thoughts](https://www.reddit.com/r/androiddev/comments/111em8b/i_just_published_an_article_about_android_14/)
+- [Pre-Registers not showing up on Play Console?](https://www.reddit.com/r/androiddev/comments/111ef55/preregisters_not_showing_up_on_play_console/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
