@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [custom rom redmi note 7](https://www.reddit.com/r/androiddev/comments/111oxt5/custom_rom_redmi_note_7/)
-- [Do you NEED a PC to create android apps?](https://www.reddit.com/r/androiddev/comments/111o0mo/do_you_need_a_pc_to_create_android_apps/)
-- [Developing app for WiFi connected device. Reverse engineer?](https://www.reddit.com/r/androiddev/comments/111jnxa/developing_app_for_wifi_connected_device_reverse/)
-- [Do people actually pay for review services?](https://www.reddit.com/r/androiddev/comments/111ixl9/do_people_actually_pay_for_review_services/)
-- [Tracking media consumed on the phone](https://www.reddit.com/r/androiddev/comments/111hr3g/tracking_media_consumed_on_the_phone/)
-- [What was the learning curve for you like going from LiveData + XML -&gt; Compose + Flows?](https://www.reddit.com/r/androiddev/comments/111grfj/what_was_the_learning_curve_for_you_like_going/)
-- [Compose potentially being moved out of androidx monorepo for faster adoption of new Kotlin versions!](https://www.reddit.com/r/androiddev/comments/111g5fp/compose_potentially_being_moved_out_of_androidx/)
-- [Where do I find the set of links for android development best practices on the official website?](https://www.reddit.com/r/androiddev/comments/111fque/where_do_i_find_the_set_of_links_for_android/)
-- [I just published an article about Android 14 per-app language preferences dynamic updates - share your thoughts](https://www.reddit.com/r/androiddev/comments/111em8b/i_just_published_an_article_about_android_14/)
-- [Pre-Registers not showing up on Play Console?](https://www.reddit.com/r/androiddev/comments/111ef55/preregisters_not_showing_up_on_play_console/)
+- [A way to download reviews for another app?](https://www.reddit.com/r/androiddev/comments/112kq8j/a_way_to_download_reviews_for_another_app/)
+- [RecyclerView Question - I&#39;m using .notifyDataSetChanged&lpar;&rpar; once before the api call and after the api call. Is there a better way to do this?](https://www.reddit.com/r/androiddev/comments/112jwpg/recyclerview_question_im_using/)
+- [Unfair Google Play &quot;Associated&quot; Developer Account Termination and AdMob Account Consequences](https://www.reddit.com/r/androiddev/comments/112iqg1/unfair_google_play_associated_developer_account/)
+- [How to use LeanbackTabLayout with Leanback theme?](https://www.reddit.com/r/androiddev/comments/112g7hh/how_to_use_leanbacktablayout_with_leanback_theme/)
+- [how can i change my buttons like these cats in the picture? Is it a theme or is it a diifrent app?](https://www.reddit.com/r/androiddev/comments/112ews9/how_can_i_change_my_buttons_like_these_cats_in/)
+- [Do most Android apps use Firebase as a back end?](https://www.reddit.com/r/androiddev/comments/112dbil/do_most_android_apps_use_firebase_as_a_back_end/)
+- [Firebase Identity Platform Authentication Problem in Release Build](https://www.reddit.com/r/androiddev/comments/112c6d8/firebase_identity_platform_authentication_problem/)
+- [From absolute noob to accessing low-level Android features: a roadmap](https://www.reddit.com/r/androiddev/comments/1129v87/from_absolute_noob_to_accessing_lowlevel_android/)
+- [Firebase auth doesn&#39;t work on release store build but works on emulator on Android.](https://www.reddit.com/r/androiddev/comments/1129moh/firebase_auth_doesnt_work_on_release_store_build/)
+- [what is the life cycle of viewModel? please explain in as easy words as possible.](https://www.reddit.com/r/androiddev/comments/1124pvl/what_is_the_life_cycle_of_viewmodel_please/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
