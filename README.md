@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A way to download reviews for another app?](https://www.reddit.com/r/androiddev/comments/112kq8j/a_way_to_download_reviews_for_another_app/)
-- [RecyclerView Question - I&#39;m using .notifyDataSetChanged&lpar;&rpar; once before the api call and after the api call. Is there a better way to do this?](https://www.reddit.com/r/androiddev/comments/112jwpg/recyclerview_question_im_using/)
-- [Unfair Google Play &quot;Associated&quot; Developer Account Termination and AdMob Account Consequences](https://www.reddit.com/r/androiddev/comments/112iqg1/unfair_google_play_associated_developer_account/)
-- [How to use LeanbackTabLayout with Leanback theme?](https://www.reddit.com/r/androiddev/comments/112g7hh/how_to_use_leanbacktablayout_with_leanback_theme/)
-- [how can i change my buttons like these cats in the picture? Is it a theme or is it a diifrent app?](https://www.reddit.com/r/androiddev/comments/112ews9/how_can_i_change_my_buttons_like_these_cats_in/)
-- [Do most Android apps use Firebase as a back end?](https://www.reddit.com/r/androiddev/comments/112dbil/do_most_android_apps_use_firebase_as_a_back_end/)
-- [Firebase Identity Platform Authentication Problem in Release Build](https://www.reddit.com/r/androiddev/comments/112c6d8/firebase_identity_platform_authentication_problem/)
-- [From absolute noob to accessing low-level Android features: a roadmap](https://www.reddit.com/r/androiddev/comments/1129v87/from_absolute_noob_to_accessing_lowlevel_android/)
-- [Firebase auth doesn&#39;t work on release store build but works on emulator on Android.](https://www.reddit.com/r/androiddev/comments/1129moh/firebase_auth_doesnt_work_on_release_store_build/)
-- [what is the life cycle of viewModel? please explain in as easy words as possible.](https://www.reddit.com/r/androiddev/comments/1124pvl/what_is_the_life_cycle_of_viewmodel_please/)
+- [Android App Development in 10 Hours Bootcamp | Android 13](https://www.reddit.com/r/androiddev/comments/113bvap/android_app_development_in_10_hours_bootcamp/)
+- [Concat Adapter and Search Filter](https://www.reddit.com/r/androiddev/comments/113b7p2/concat_adapter_and_search_filter/)
+- [request for a port](https://www.reddit.com/r/androiddev/comments/113b7kv/request_for_a_port/)
+- [Handling state and multiple fields](https://www.reddit.com/r/androiddev/comments/1138f0l/handling_state_and_multiple_fields/)
+- [Any way to force a permission to be allowed? My new Xiaomi device doesn&#39;t let my favorite app draw over the screen..](https://www.reddit.com/r/androiddev/comments/1137x8u/any_way_to_force_a_permission_to_be_allowed_my/)
+- [Is USB video-out accessible to all applications?](https://www.reddit.com/r/androiddev/comments/1137uvj/is_usb_videoout_accessible_to_all_applications/)
+- [How to use UI-based SDK in another project](https://www.reddit.com/r/androiddev/comments/11314sh/how_to_use_uibased_sdk_in_another_project/)
+- [Android Studio bugs out when you delete an XML file related to a qualifier.](https://www.reddit.com/r/androiddev/comments/112zbzp/android_studio_bugs_out_when_you_delete_an_xml/)
+- [Pre launch bug](https://www.reddit.com/r/androiddev/comments/112ybwb/pre_launch_bug/)
+- [H1-H6 font size](https://www.reddit.com/r/androiddev/comments/112xxbb/h1h6_font_size/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
