@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android App Development in 10 Hours Bootcamp | Android 13](https://www.reddit.com/r/androiddev/comments/113bvap/android_app_development_in_10_hours_bootcamp/)
-- [Concat Adapter and Search Filter](https://www.reddit.com/r/androiddev/comments/113b7p2/concat_adapter_and_search_filter/)
-- [request for a port](https://www.reddit.com/r/androiddev/comments/113b7kv/request_for_a_port/)
-- [Handling state and multiple fields](https://www.reddit.com/r/androiddev/comments/1138f0l/handling_state_and_multiple_fields/)
-- [Any way to force a permission to be allowed? My new Xiaomi device doesn&#39;t let my favorite app draw over the screen..](https://www.reddit.com/r/androiddev/comments/1137x8u/any_way_to_force_a_permission_to_be_allowed_my/)
-- [Is USB video-out accessible to all applications?](https://www.reddit.com/r/androiddev/comments/1137uvj/is_usb_videoout_accessible_to_all_applications/)
-- [How to use UI-based SDK in another project](https://www.reddit.com/r/androiddev/comments/11314sh/how_to_use_uibased_sdk_in_another_project/)
-- [Android Studio bugs out when you delete an XML file related to a qualifier.](https://www.reddit.com/r/androiddev/comments/112zbzp/android_studio_bugs_out_when_you_delete_an_xml/)
-- [Pre launch bug](https://www.reddit.com/r/androiddev/comments/112ybwb/pre_launch_bug/)
-- [H1-H6 font size](https://www.reddit.com/r/androiddev/comments/112xxbb/h1h6_font_size/)
+- [How to find customer facing updates for each major Chromium release](https://www.reddit.com/r/androiddev/comments/1145tou/how_to_find_customer_facing_updates_for_each/)
+- [How to get rid of stripe payment gateway from an android mobile app](https://www.reddit.com/r/androiddev/comments/11459ez/how_to_get_rid_of_stripe_payment_gateway_from_an/)
+- [Android Studio Flamingo Beta 3 is now available](https://www.reddit.com/r/androiddev/comments/11455t1/android_studio_flamingo_beta_3_is_now_available/)
+- [Android Studio Giraffe Canary 5 is now available](https://www.reddit.com/r/androiddev/comments/11455se/android_studio_giraffe_canary_5_is_now_available/)
+- [Production apps seem debuggable when installed on an emulator in Android Studio. Why?](https://www.reddit.com/r/androiddev/comments/1142doy/production_apps_seem_debuggable_when_installed_on/)
+- [Is there any open source app market？](https://www.reddit.com/r/androiddev/comments/114258f/is_there_any_open_source_app_market/)
+- [Review process with subscription](https://www.reddit.com/r/androiddev/comments/113yvpo/review_process_with_subscription/)
+- [Common leetcode interview patterns in android interviews?](https://www.reddit.com/r/androiddev/comments/113ycd6/common_leetcode_interview_patterns_in_android/)
+- [Does anyone face high ANR rate for Android 13?](https://www.reddit.com/r/androiddev/comments/113wsyy/does_anyone_face_high_anr_rate_for_android_13/)
+- [AdMob 21.5.0 breaks BOOT_COMPLETED Broadcast](https://www.reddit.com/r/androiddev/comments/113w9f4/admob_2150_breaks_boot_completed_broadcast/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
