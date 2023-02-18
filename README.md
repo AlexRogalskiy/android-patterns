@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to find customer facing updates for each major Chromium release](https://www.reddit.com/r/androiddev/comments/1145tou/how_to_find_customer_facing_updates_for_each/)
-- [How to get rid of stripe payment gateway from an android mobile app](https://www.reddit.com/r/androiddev/comments/11459ez/how_to_get_rid_of_stripe_payment_gateway_from_an/)
-- [Android Studio Flamingo Beta 3 is now available](https://www.reddit.com/r/androiddev/comments/11455t1/android_studio_flamingo_beta_3_is_now_available/)
-- [Android Studio Giraffe Canary 5 is now available](https://www.reddit.com/r/androiddev/comments/11455se/android_studio_giraffe_canary_5_is_now_available/)
-- [Production apps seem debuggable when installed on an emulator in Android Studio. Why?](https://www.reddit.com/r/androiddev/comments/1142doy/production_apps_seem_debuggable_when_installed_on/)
-- [Is there any open source app market？](https://www.reddit.com/r/androiddev/comments/114258f/is_there_any_open_source_app_market/)
-- [Review process with subscription](https://www.reddit.com/r/androiddev/comments/113yvpo/review_process_with_subscription/)
-- [Common leetcode interview patterns in android interviews?](https://www.reddit.com/r/androiddev/comments/113ycd6/common_leetcode_interview_patterns_in_android/)
-- [Does anyone face high ANR rate for Android 13?](https://www.reddit.com/r/androiddev/comments/113wsyy/does_anyone_face_high_anr_rate_for_android_13/)
-- [AdMob 21.5.0 breaks BOOT_COMPLETED Broadcast](https://www.reddit.com/r/androiddev/comments/113w9f4/admob_2150_breaks_boot_completed_broadcast/)
+- [Native-Activity Application missing VS2022 community, instead basic application creates a Java project not C++](https://www.reddit.com/r/androiddev/comments/1151maz/nativeactivity_application_missing_vs2022/)
+- [What makes a android developer hireable?](https://www.reddit.com/r/androiddev/comments/114uhzo/what_makes_a_android_developer_hireable/)
+- [API desugaring supporting Android 13 and java.nio](https://www.reddit.com/r/androiddev/comments/114irvg/api_desugaring_supporting_android_13_and_javanio/)
+- [Is it possible to enable personalized ads on an app that targets all ages?](https://www.reddit.com/r/androiddev/comments/114iej2/is_it_possible_to_enable_personalized_ads_on_an/)
+- [Kotlin Multiplatform —Simple Guide to Key-Value Storage](https://www.reddit.com/r/androiddev/comments/114i95v/kotlin_multiplatform_simple_guide_to_keyvalue/)
+- [Hyperpay integration. Lets talk.](https://www.reddit.com/r/androiddev/comments/114i6s7/hyperpay_integration_lets_talk/)
+- [Android Studio Flamingo network inspector](https://www.reddit.com/r/androiddev/comments/114eqc3/android_studio_flamingo_network_inspector/)
+- [Help With String Arrays In Kotlin](https://www.reddit.com/r/androiddev/comments/114eo3a/help_with_string_arrays_in_kotlin/)
+- [What is the easiest pay gateway to implement for uber-like-services without a backend](https://www.reddit.com/r/androiddev/comments/114e2o1/what_is_the_easiest_pay_gateway_to_implement_for/)
+- [Debug pane keeps disappearing in Android Studio](https://www.reddit.com/r/androiddev/comments/114cny7/debug_pane_keeps_disappearing_in_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
