@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What does &#39;apply false&#39; in the plugins block do?](https://www.reddit.com/r/androiddev/comments/115y22a/what_does_apply_false_in_the_plugins_block_do/)
-- [Adjustable menu](https://www.reddit.com/r/androiddev/comments/115uikp/adjustable_menu/)
-- [Revisiting Android Java after years with Flutter and..](https://www.reddit.com/r/androiddev/comments/115u837/revisiting_android_java_after_years_with_flutter/)
-- [in app purchase, &quot;Payment pending&quot; after free trial](https://www.reddit.com/r/androiddev/comments/115qjf0/in_app_purchase_payment_pending_after_free_trial/)
-- [App automation](https://www.reddit.com/r/androiddev/comments/115nwrr/app_automation/)
-- [New and first job as android app developer](https://www.reddit.com/r/androiddev/comments/115n5vk/new_and_first_job_as_android_app_developer/)
-- [android 10 - how do I get my network IP in a hotspot mode?](https://www.reddit.com/r/androiddev/comments/115k0o7/android_10_how_do_i_get_my_network_ip_in_a/)
-- [What Should i do](https://www.reddit.com/r/androiddev/comments/115iqrm/what_should_i_do/)
-- [Jet Compose: Docking button to Navigation bar? Not necessarily a FAB](https://www.reddit.com/r/androiddev/comments/115hyj3/jet_compose_docking_button_to_navigation_bar_not/)
-- [Screenshots for Play Store listing](https://www.reddit.com/r/androiddev/comments/115gnb2/screenshots_for_play_store_listing/)
+- [Refactoring our Dependency Injection using Anvil by Drew Heavner](https://www.reddit.com/r/androiddev/comments/116trkv/refactoring_our_dependency_injection_using_anvil/)
+- [Communication between handheld and wearable devices with Google&#39;s Data Layer API](https://www.reddit.com/r/androiddev/comments/116rsxr/communication_between_handheld_and_wearable/)
+- [Interview Question](https://www.reddit.com/r/androiddev/comments/116qpxp/interview_question/)
+- [Upgrade your develompent skills with SkillShare](https://www.reddit.com/r/androiddev/comments/116ptpk/upgrade_your_develompent_skills_with_skillshare/)
+- [Help](https://www.reddit.com/r/androiddev/comments/116p9ua/help/)
+- [Is it possible to create an app for NFC based payments? Basically a Google Pay alternative](https://www.reddit.com/r/androiddev/comments/116ks5l/is_it_possible_to_create_an_app_for_nfc_based/)
+- [Still confused in project planning](https://www.reddit.com/r/androiddev/comments/116fuj4/still_confused_in_project_planning/)
+- [Introducing Flasho - An open source tool for developers to set up transactional notifications in minutes with little to no code.](https://www.reddit.com/r/androiddev/comments/116ba9b/introducing_flasho_an_open_source_tool_for/)
+- [General Android Dev Question. Looking to take my android skills to the next level. I recently completed the Android Kotlin Developer Nanodegree program. I&#39;ve been taking courses and improving my skills. Do any developers out there have any recommendations for freelance work? Sites etc...](https://www.reddit.com/r/androiddev/comments/116ax5i/general_android_dev_question_looking_to_take_my/)
+- [Custom graphics and animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/11670ph/custom_graphics_and_animations_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
