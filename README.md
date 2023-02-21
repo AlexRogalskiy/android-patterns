@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Refactoring our Dependency Injection using Anvil by Drew Heavner](https://www.reddit.com/r/androiddev/comments/116trkv/refactoring_our_dependency_injection_using_anvil/)
-- [Communication between handheld and wearable devices with Google&#39;s Data Layer API](https://www.reddit.com/r/androiddev/comments/116rsxr/communication_between_handheld_and_wearable/)
-- [Interview Question](https://www.reddit.com/r/androiddev/comments/116qpxp/interview_question/)
-- [Upgrade your develompent skills with SkillShare](https://www.reddit.com/r/androiddev/comments/116ptpk/upgrade_your_develompent_skills_with_skillshare/)
-- [Help](https://www.reddit.com/r/androiddev/comments/116p9ua/help/)
-- [Is it possible to create an app for NFC based payments? Basically a Google Pay alternative](https://www.reddit.com/r/androiddev/comments/116ks5l/is_it_possible_to_create_an_app_for_nfc_based/)
-- [Still confused in project planning](https://www.reddit.com/r/androiddev/comments/116fuj4/still_confused_in_project_planning/)
-- [Introducing Flasho - An open source tool for developers to set up transactional notifications in minutes with little to no code.](https://www.reddit.com/r/androiddev/comments/116ba9b/introducing_flasho_an_open_source_tool_for/)
-- [General Android Dev Question. Looking to take my android skills to the next level. I recently completed the Android Kotlin Developer Nanodegree program. I&#39;ve been taking courses and improving my skills. Do any developers out there have any recommendations for freelance work? Sites etc...](https://www.reddit.com/r/androiddev/comments/116ax5i/general_android_dev_question_looking_to_take_my/)
-- [Custom graphics and animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/11670ph/custom_graphics_and_animations_in_jetpack_compose/)
+- [Design view disappearing in Android Studios](https://www.reddit.com/r/androiddev/comments/117rifi/design_view_disappearing_in_android_studios/)
+- [A CLUELESS ANDROID ENTHUSIAST CONFUSED ON WHAT TO CHOOSE AND HOW TO START](https://www.reddit.com/r/androiddev/comments/117j6yz/a_clueless_android_enthusiast_confused_on_what_to/)
+- [Implementing wifi direct](https://www.reddit.com/r/androiddev/comments/117azsk/implementing_wifi_direct/)
+- [Qt is now staying up-to-date with new Android NDK versions](https://www.reddit.com/r/androiddev/comments/1178to3/qt_is_now_staying_uptodate_with_new_android_ndk/)
+- [Having issues upgrading to API 33](https://www.reddit.com/r/androiddev/comments/1177qog/having_issues_upgrading_to_api_33/)
+- [Weekly Who&#39;s Hiring Thread - February 20, 2023](https://www.reddit.com/r/androiddev/comments/1177dhr/weekly_whos_hiring_thread_february_20_2023/)
+- [Internal review for open beta, how long does that take?](https://www.reddit.com/r/androiddev/comments/1176yks/internal_review_for_open_beta_how_long_does_that/)
+- [How to side load apps on android for Peloton Tread](https://www.reddit.com/r/androiddev/comments/1176rcf/how_to_side_load_apps_on_android_for_peloton_tread/)
+- [Weekly discussion, code review, and feedback thread - February 20, 2023](https://www.reddit.com/r/androiddev/comments/11761p8/weekly_discussion_code_review_and_feedback_thread/)
+- [Can I remove advertiser id permission if I&#39;m going to use Admob?](https://www.reddit.com/r/androiddev/comments/117582w/can_i_remove_advertiser_id_permission_if_im_going/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
