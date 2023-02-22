@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Design view disappearing in Android Studios](https://www.reddit.com/r/androiddev/comments/117rifi/design_view_disappearing_in_android_studios/)
-- [A CLUELESS ANDROID ENTHUSIAST CONFUSED ON WHAT TO CHOOSE AND HOW TO START](https://www.reddit.com/r/androiddev/comments/117j6yz/a_clueless_android_enthusiast_confused_on_what_to/)
-- [Implementing wifi direct](https://www.reddit.com/r/androiddev/comments/117azsk/implementing_wifi_direct/)
-- [Qt is now staying up-to-date with new Android NDK versions](https://www.reddit.com/r/androiddev/comments/1178to3/qt_is_now_staying_uptodate_with_new_android_ndk/)
-- [Having issues upgrading to API 33](https://www.reddit.com/r/androiddev/comments/1177qog/having_issues_upgrading_to_api_33/)
-- [Weekly Who&#39;s Hiring Thread - February 20, 2023](https://www.reddit.com/r/androiddev/comments/1177dhr/weekly_whos_hiring_thread_february_20_2023/)
-- [Internal review for open beta, how long does that take?](https://www.reddit.com/r/androiddev/comments/1176yks/internal_review_for_open_beta_how_long_does_that/)
-- [How to side load apps on android for Peloton Tread](https://www.reddit.com/r/androiddev/comments/1176rcf/how_to_side_load_apps_on_android_for_peloton_tread/)
-- [Weekly discussion, code review, and feedback thread - February 20, 2023](https://www.reddit.com/r/androiddev/comments/11761p8/weekly_discussion_code_review_and_feedback_thread/)
-- [Can I remove advertiser id permission if I&#39;m going to use Admob?](https://www.reddit.com/r/androiddev/comments/117582w/can_i_remove_advertiser_id_permission_if_im_going/)
+- [Can I view how many impressions my page has had?](https://www.reddit.com/r/androiddev/comments/118erxg/can_i_view_how_many_impressions_my_page_has_had/)
+- [Android Studio Giraffe Canary 6 now available](https://www.reddit.com/r/androiddev/comments/118bmaz/android_studio_giraffe_canary_6_now_available/)
+- [Is working on multiple projects normal?](https://www.reddit.com/r/androiddev/comments/118bet0/is_working_on_multiple_projects_normal/)
+- [&quot;added variable does not support initialization&quot;, but I am initializing &quot;vemsTur&quot;?](https://www.reddit.com/r/androiddev/comments/118a88d/added_variable_does_not_support_initialization/)
+- [Which one is better for basic async calls: Coroutines or RxAndroid?](https://www.reddit.com/r/androiddev/comments/1189vk8/which_one_is_better_for_basic_async_calls/)
+- [How long is your android app release cycle?](https://www.reddit.com/r/androiddev/comments/1183z52/how_long_is_your_android_app_release_cycle/)
+- [How to use Gradle Managed Devices with your own devices](https://www.reddit.com/r/androiddev/comments/1180v9n/how_to_use_gradle_managed_devices_with_your_own/)
+- [Jetpack Compose and WindowSize Classes](https://www.reddit.com/r/androiddev/comments/117zlxp/jetpack_compose_and_windowsize_classes/)
+- [accessing sqlite db](https://www.reddit.com/r/androiddev/comments/117stmr/accessing_sqlite_db/)
+- [Create subscription button on Google Play Console navigates me to the Closed Testing page. Is this supposed to happen? Is there something I must do on this page first?](https://www.reddit.com/r/androiddev/comments/117s15t/create_subscription_button_on_google_play_console/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
