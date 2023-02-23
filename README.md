@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can I view how many impressions my page has had?](https://www.reddit.com/r/androiddev/comments/118erxg/can_i_view_how_many_impressions_my_page_has_had/)
-- [Android Studio Giraffe Canary 6 now available](https://www.reddit.com/r/androiddev/comments/118bmaz/android_studio_giraffe_canary_6_now_available/)
-- [Is working on multiple projects normal?](https://www.reddit.com/r/androiddev/comments/118bet0/is_working_on_multiple_projects_normal/)
-- [&quot;added variable does not support initialization&quot;, but I am initializing &quot;vemsTur&quot;?](https://www.reddit.com/r/androiddev/comments/118a88d/added_variable_does_not_support_initialization/)
-- [Which one is better for basic async calls: Coroutines or RxAndroid?](https://www.reddit.com/r/androiddev/comments/1189vk8/which_one_is_better_for_basic_async_calls/)
-- [How long is your android app release cycle?](https://www.reddit.com/r/androiddev/comments/1183z52/how_long_is_your_android_app_release_cycle/)
-- [How to use Gradle Managed Devices with your own devices](https://www.reddit.com/r/androiddev/comments/1180v9n/how_to_use_gradle_managed_devices_with_your_own/)
-- [Jetpack Compose and WindowSize Classes](https://www.reddit.com/r/androiddev/comments/117zlxp/jetpack_compose_and_windowsize_classes/)
-- [accessing sqlite db](https://www.reddit.com/r/androiddev/comments/117stmr/accessing_sqlite_db/)
-- [Create subscription button on Google Play Console navigates me to the Closed Testing page. Is this supposed to happen? Is there something I must do on this page first?](https://www.reddit.com/r/androiddev/comments/117s15t/create_subscription_button_on_google_play_console/)
+- [Cannot Expand imported OpenCV module in Android Studio](https://www.reddit.com/r/androiddev/comments/119l9n2/cannot_expand_imported_opencv_module_in_android/)
+- [Android Native Development Shared Library Loading Class Path](https://www.reddit.com/r/androiddev/comments/119gzjv/android_native_development_shared_library_loading/)
+- [Will native android apps continue to be in demand?](https://www.reddit.com/r/androiddev/comments/119gpck/will_native_android_apps_continue_to_be_in_demand/)
+- [What&#39;s the best way of providing content translation ?](https://www.reddit.com/r/androiddev/comments/11984qr/whats_the_best_way_of_providing_content/)
+- [Trying to understand flow, and corountines](https://www.reddit.com/r/androiddev/comments/1196vy6/trying_to_understand_flow_and_corountines/)
+- [Can QR codes be used to automatically connect to Wi-Fi?](https://www.reddit.com/r/androiddev/comments/1195mdt/can_qr_codes_be_used_to_automatically_connect_to/)
+- [Hi, it&#39;s me again, what do you think about my slider element design? Would it be a good idea to post this compostable as gist?](https://www.reddit.com/r/androiddev/comments/1195k65/hi_its_me_again_what_do_you_think_about_my_slider/)
+- [Building Phone Apps Vs. Tablet Apps - App Development 101](https://www.reddit.com/r/androiddev/comments/11943ek/building_phone_apps_vs_tablet_apps_app/)
+- [Databinding package showing](https://www.reddit.com/r/androiddev/comments/119313v/databinding_package_showing/)
+- [How to make sense of Gradle&#39;s alien syntax, methods, etc?](https://www.reddit.com/r/androiddev/comments/1191ra2/how_to_make_sense_of_gradles_alien_syntax_methods/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
