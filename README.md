@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cannot Expand imported OpenCV module in Android Studio](https://www.reddit.com/r/androiddev/comments/119l9n2/cannot_expand_imported_opencv_module_in_android/)
-- [Android Native Development Shared Library Loading Class Path](https://www.reddit.com/r/androiddev/comments/119gzjv/android_native_development_shared_library_loading/)
-- [Will native android apps continue to be in demand?](https://www.reddit.com/r/androiddev/comments/119gpck/will_native_android_apps_continue_to_be_in_demand/)
-- [What&#39;s the best way of providing content translation ?](https://www.reddit.com/r/androiddev/comments/11984qr/whats_the_best_way_of_providing_content/)
-- [Trying to understand flow, and corountines](https://www.reddit.com/r/androiddev/comments/1196vy6/trying_to_understand_flow_and_corountines/)
-- [Can QR codes be used to automatically connect to Wi-Fi?](https://www.reddit.com/r/androiddev/comments/1195mdt/can_qr_codes_be_used_to_automatically_connect_to/)
-- [Hi, it&#39;s me again, what do you think about my slider element design? Would it be a good idea to post this compostable as gist?](https://www.reddit.com/r/androiddev/comments/1195k65/hi_its_me_again_what_do_you_think_about_my_slider/)
-- [Building Phone Apps Vs. Tablet Apps - App Development 101](https://www.reddit.com/r/androiddev/comments/11943ek/building_phone_apps_vs_tablet_apps_app/)
-- [Databinding package showing](https://www.reddit.com/r/androiddev/comments/119313v/databinding_package_showing/)
-- [How to make sense of Gradle&#39;s alien syntax, methods, etc?](https://www.reddit.com/r/androiddev/comments/1191ra2/how_to_make_sense_of_gradles_alien_syntax_methods/)
+- [Can someone please help figure out how to stop this thing from downloading. I tried searching for this app, but nothing comes up. and neither the galaxy store nor Google app store is downloading this.](https://www.reddit.com/r/androiddev/comments/11aehbr/can_someone_please_help_figure_out_how_to_stop/)
+- [Finally Launched my android app after 4 years of developing it as a college student](https://www.reddit.com/r/androiddev/comments/11ab6qd/finally_launched_my_android_app_after_4_years_of/)
+- [Retrofit handle error](https://www.reddit.com/r/androiddev/comments/11aa7rk/retrofit_handle_error/)
+- [400 Bad Request error when sending a base64 string](https://www.reddit.com/r/androiddev/comments/11a6qdg/400_bad_request_error_when_sending_a_base64_string/)
+- [🕹apk.sh v.1.0.4 is OUT! Makes reverse engineering Android apps easier!](https://www.reddit.com/r/androiddev/comments/11a4dm1/apksh_v104_is_out_makes_reverse_engineering/)
+- [Difference between AndroidViewModel and ViewModel](https://www.reddit.com/r/androiddev/comments/11a0txf/difference_between_androidviewmodel_and_viewmodel/)
+- [Advice for jobseeker stuck as sole developer](https://www.reddit.com/r/androiddev/comments/119z22r/advice_for_jobseeker_stuck_as_sole_developer/)
+- [setClassname&lpar;&rpar; method is giving &quot;/&quot; instead of &quot;.&quot; on some phones. If you have an alternate method do tell.](https://www.reddit.com/r/androiddev/comments/119vmfx/setclassname_method_is_giving_instead_of_on_some/)
+- [How to Localise your Android app using ChatGPT? Only for Indie Developers](https://www.reddit.com/r/androiddev/comments/119omb7/how_to_localise_your_android_app_using_chatgpt/)
+- [do big publishers get ad serving limit?](https://www.reddit.com/r/androiddev/comments/119oi2d/do_big_publishers_get_ad_serving_limit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
