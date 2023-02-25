@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can someone please help figure out how to stop this thing from downloading. I tried searching for this app, but nothing comes up. and neither the galaxy store nor Google app store is downloading this.](https://www.reddit.com/r/androiddev/comments/11aehbr/can_someone_please_help_figure_out_how_to_stop/)
-- [Finally Launched my android app after 4 years of developing it as a college student](https://www.reddit.com/r/androiddev/comments/11ab6qd/finally_launched_my_android_app_after_4_years_of/)
-- [Retrofit handle error](https://www.reddit.com/r/androiddev/comments/11aa7rk/retrofit_handle_error/)
-- [400 Bad Request error when sending a base64 string](https://www.reddit.com/r/androiddev/comments/11a6qdg/400_bad_request_error_when_sending_a_base64_string/)
-- [🕹apk.sh v.1.0.4 is OUT! Makes reverse engineering Android apps easier!](https://www.reddit.com/r/androiddev/comments/11a4dm1/apksh_v104_is_out_makes_reverse_engineering/)
-- [Difference between AndroidViewModel and ViewModel](https://www.reddit.com/r/androiddev/comments/11a0txf/difference_between_androidviewmodel_and_viewmodel/)
-- [Advice for jobseeker stuck as sole developer](https://www.reddit.com/r/androiddev/comments/119z22r/advice_for_jobseeker_stuck_as_sole_developer/)
-- [setClassname&lpar;&rpar; method is giving &quot;/&quot; instead of &quot;.&quot; on some phones. If you have an alternate method do tell.](https://www.reddit.com/r/androiddev/comments/119vmfx/setclassname_method_is_giving_instead_of_on_some/)
-- [How to Localise your Android app using ChatGPT? Only for Indie Developers](https://www.reddit.com/r/androiddev/comments/119omb7/how_to_localise_your_android_app_using_chatgpt/)
-- [do big publishers get ad serving limit?](https://www.reddit.com/r/androiddev/comments/119oi2d/do_big_publishers_get_ad_serving_limit/)
+- [Are there Binary Debugger´s for Android?](https://www.reddit.com/r/androiddev/comments/11b93sf/are_there_binary_debuggers_for_android/)
+- [Best Practice: How to handle &quot;Purchase No-Ads&quot;?](https://www.reddit.com/r/androiddev/comments/11b5sbs/best_practice_how_to_handle_purchase_noads/)
+- [Should I use the mvvm pattern here ?](https://www.reddit.com/r/androiddev/comments/11b2y3y/should_i_use_the_mvvm_pattern_here/)
+- [What are the best resource&lpar;s&rpar; to learn developing Android apps with Kotlin?](https://www.reddit.com/r/androiddev/comments/11b0fjt/what_are_the_best_resources_to_learn_developing/)
+- [Be honest, has the minimum to be a Jr changed?](https://www.reddit.com/r/androiddev/comments/11aybjl/be_honest_has_the_minimum_to_be_a_jr_changed/)
+- [Anyone else get this, is this email legit?](https://www.reddit.com/r/androiddev/comments/11aw3ac/anyone_else_get_this_is_this_email_legit/)
+- [Help Needed: Ratings and Reviews Not Showing on Google Play Store](https://www.reddit.com/r/androiddev/comments/11aulh8/help_needed_ratings_and_reviews_not_showing_on/)
+- [CameraX vs Camera2 &lpar;library development&rpar;](https://www.reddit.com/r/androiddev/comments/11asboh/camerax_vs_camera2_library_development/)
+- [New app: xml or compose?](https://www.reddit.com/r/androiddev/comments/11aq7q1/new_app_xml_or_compose/)
+- [Good config for mobile development](https://www.reddit.com/r/androiddev/comments/11aq69p/good_config_for_mobile_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
