@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are there Binary Debugger´s for Android?](https://www.reddit.com/r/androiddev/comments/11b93sf/are_there_binary_debuggers_for_android/)
-- [Best Practice: How to handle &quot;Purchase No-Ads&quot;?](https://www.reddit.com/r/androiddev/comments/11b5sbs/best_practice_how_to_handle_purchase_noads/)
-- [Should I use the mvvm pattern here ?](https://www.reddit.com/r/androiddev/comments/11b2y3y/should_i_use_the_mvvm_pattern_here/)
-- [What are the best resource&lpar;s&rpar; to learn developing Android apps with Kotlin?](https://www.reddit.com/r/androiddev/comments/11b0fjt/what_are_the_best_resources_to_learn_developing/)
-- [Be honest, has the minimum to be a Jr changed?](https://www.reddit.com/r/androiddev/comments/11aybjl/be_honest_has_the_minimum_to_be_a_jr_changed/)
-- [Anyone else get this, is this email legit?](https://www.reddit.com/r/androiddev/comments/11aw3ac/anyone_else_get_this_is_this_email_legit/)
-- [Help Needed: Ratings and Reviews Not Showing on Google Play Store](https://www.reddit.com/r/androiddev/comments/11aulh8/help_needed_ratings_and_reviews_not_showing_on/)
-- [CameraX vs Camera2 &lpar;library development&rpar;](https://www.reddit.com/r/androiddev/comments/11asboh/camerax_vs_camera2_library_development/)
-- [New app: xml or compose?](https://www.reddit.com/r/androiddev/comments/11aq7q1/new_app_xml_or_compose/)
-- [Good config for mobile development](https://www.reddit.com/r/androiddev/comments/11aq69p/good_config_for_mobile_development/)
+- [Freemium VS &quot;hard&quot; paywall for a game](https://www.reddit.com/r/androiddev/comments/11c158f/freemium_vs_hard_paywall_for_a_game/)
+- [Forcing calls to go through A2DP in Android, while using the phone&#39;s built-in microphone.](https://www.reddit.com/r/androiddev/comments/11bv1dd/forcing_calls_to_go_through_a2dp_in_android_while/)
+- [How to Fix Android Emulator Infinite Spinning](https://www.reddit.com/r/androiddev/comments/11btmrt/how_to_fix_android_emulator_infinite_spinning/)
+- [Open testing influences visibility](https://www.reddit.com/r/androiddev/comments/11brgcf/open_testing_influences_visibility/)
+- [What should I do?](https://www.reddit.com/r/androiddev/comments/11bqeci/what_should_i_do/)
+- [Why can&#39;t Android runtime be updated similar to the way we update Java on PCs?](https://www.reddit.com/r/androiddev/comments/11bpitw/why_cant_android_runtime_be_updated_similar_to/)
+- [Do you need Playstore approval to beta test an app without releasing it to the store?](https://www.reddit.com/r/androiddev/comments/11bp09a/do_you_need_playstore_approval_to_beta_test_an/)
+- [Is it allowed to upload pre-rendered images on the Play Store?](https://www.reddit.com/r/androiddev/comments/11bgf4a/is_it_allowed_to_upload_prerendered_images_on_the/)
+- [Do you have to have different TensorFlow Lite models for Android and iOS?](https://www.reddit.com/r/androiddev/comments/11be3w3/do_you_have_to_have_different_tensorflow_lite/)
+- [Fastest way to learn enterprise level Android development](https://www.reddit.com/r/androiddev/comments/11bd6u2/fastest_way_to_learn_enterprise_level_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
