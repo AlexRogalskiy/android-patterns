@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Flows, StateFlows in android.](https://www.reddit.com/r/androiddev/comments/11cubf5/flows_stateflows_in_android/)
-- [Is there a way to avoid uploading a photo ID when registering on Google Play developer account?](https://www.reddit.com/r/androiddev/comments/11ctys1/is_there_a_way_to_avoid_uploading_a_photo_id_when/)
-- [Feedback Requested: Developing a Simple App for a Casino as a Junior Software Engineer](https://www.reddit.com/r/androiddev/comments/11ctkzs/feedback_requested_developing_a_simple_app_for_a/)
-- [best practice to test for empty/null values.](https://www.reddit.com/r/androiddev/comments/11ctkqd/best_practice_to_test_for_emptynull_values/)
-- [Android development vs Back-end.](https://www.reddit.com/r/androiddev/comments/11csutf/android_development_vs_backend/)
-- [Ionic native advanced Admob functionality](https://www.reddit.com/r/androiddev/comments/11crj2e/ionic_native_advanced_admob_functionality/)
-- [does anyone know what app this notification belongs to?](https://www.reddit.com/r/androiddev/comments/11crelr/does_anyone_know_what_app_this_notification/)
-- [CI/CD pipeline for React Native project in Jenkins from Bitbucket](https://www.reddit.com/r/androiddev/comments/11cpm2y/cicd_pipeline_for_react_native_project_in_jenkins/)
-- [Publish Multi-module Private Android Library to jFrog](https://www.reddit.com/r/androiddev/comments/11cpkw2/publish_multimodule_private_android_library_to/)
-- [What is the best resource to learn Firebase for Android Development &lpar;Jetpack Compose&rpar;?](https://www.reddit.com/r/androiddev/comments/11cmf67/what_is_the_best_resource_to_learn_firebase_for/)
+- [Did the &#39;AndroidX Test&#39; reference documentation move? I have been getting a 404 for the last week.](https://www.reddit.com/r/androiddev/comments/11dt2kd/did_the_androidx_test_reference_documentation/)
+- [Identifying where systemui pulls wifi ssid in APK res/layout](https://www.reddit.com/r/androiddev/comments/11dq9n3/identifying_where_systemui_pulls_wifi_ssid_in_apk/)
+- [GitHub Action to Auto translate strings.xml on Android](https://www.reddit.com/r/androiddev/comments/11dp2y4/github_action_to_auto_translate_stringsxml_on/)
+- [Seamless Integration of SPL Tokens into Your Mobile Apps with Our Android SDK!](https://www.reddit.com/r/androiddev/comments/11dnwv2/seamless_integration_of_spl_tokens_into_your/)
+- [Has content creation, or a tech blog helped in getting you interviews?](https://www.reddit.com/r/androiddev/comments/11dkro5/has_content_creation_or_a_tech_blog_helped_in/)
+- [Data structure with conditions for achievement system](https://www.reddit.com/r/androiddev/comments/11dkp5w/data_structure_with_conditions_for_achievement/)
+- [First time applying to contract roles - what should I expect for the interview process?](https://www.reddit.com/r/androiddev/comments/11dki3v/first_time_applying_to_contract_roles_what_should/)
+- [Thesis ideas that can improve my knowledge for programming Android apps in Java](https://www.reddit.com/r/androiddev/comments/11djkct/thesis_ideas_that_can_improve_my_knowledge_for/)
+- [Android Studio Giraffe Canary 7 now available](https://www.reddit.com/r/androiddev/comments/11di5xc/android_studio_giraffe_canary_7_now_available/)
+- [Android Studio Electric Eel | 2022.1.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/11di5ww/android_studio_electric_eel_202211_patch_2_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
