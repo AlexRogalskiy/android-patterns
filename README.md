@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Did the &#39;AndroidX Test&#39; reference documentation move? I have been getting a 404 for the last week.](https://www.reddit.com/r/androiddev/comments/11dt2kd/did_the_androidx_test_reference_documentation/)
-- [Identifying where systemui pulls wifi ssid in APK res/layout](https://www.reddit.com/r/androiddev/comments/11dq9n3/identifying_where_systemui_pulls_wifi_ssid_in_apk/)
-- [GitHub Action to Auto translate strings.xml on Android](https://www.reddit.com/r/androiddev/comments/11dp2y4/github_action_to_auto_translate_stringsxml_on/)
-- [Seamless Integration of SPL Tokens into Your Mobile Apps with Our Android SDK!](https://www.reddit.com/r/androiddev/comments/11dnwv2/seamless_integration_of_spl_tokens_into_your/)
-- [Has content creation, or a tech blog helped in getting you interviews?](https://www.reddit.com/r/androiddev/comments/11dkro5/has_content_creation_or_a_tech_blog_helped_in/)
-- [Data structure with conditions for achievement system](https://www.reddit.com/r/androiddev/comments/11dkp5w/data_structure_with_conditions_for_achievement/)
-- [First time applying to contract roles - what should I expect for the interview process?](https://www.reddit.com/r/androiddev/comments/11dki3v/first_time_applying_to_contract_roles_what_should/)
-- [Thesis ideas that can improve my knowledge for programming Android apps in Java](https://www.reddit.com/r/androiddev/comments/11djkct/thesis_ideas_that_can_improve_my_knowledge_for/)
-- [Android Studio Giraffe Canary 7 now available](https://www.reddit.com/r/androiddev/comments/11di5xc/android_studio_giraffe_canary_7_now_available/)
-- [Android Studio Electric Eel | 2022.1.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/11di5ww/android_studio_electric_eel_202211_patch_2_now/)
+- [Passio - MindsEye: Real-Time Zero-Shot Image Classification Demo. Adding AI to your app has never been so easy](https://www.reddit.com/r/androiddev/comments/11em8fr/passio_mindseye_realtime_zeroshot_image/)
+- [If not mobile development, what would you be doing instead?](https://www.reddit.com/r/androiddev/comments/11elxc8/if_not_mobile_development_what_would_you_be_doing/)
+- [Is this an easy project for a total beginner?](https://www.reddit.com/r/androiddev/comments/11ei5wz/is_this_an_easy_project_for_a_total_beginner/)
+- [Is it worth it?](https://www.reddit.com/r/androiddev/comments/11eh0l2/is_it_worth_it/)
+- [Android developer jobs on Upwork](https://www.reddit.com/r/androiddev/comments/11ef7iz/android_developer_jobs_on_upwork/)
+- [Understanding backend. I want to have an application update a firebase database periodically. How do I do this??](https://www.reddit.com/r/androiddev/comments/11ef69j/understanding_backend_i_want_to_have_an/)
+- [Google Play Console Report Review](https://www.reddit.com/r/androiddev/comments/11eewje/google_play_console_report_review/)
+- [How to set up a React Native Monorepo for Android using TypeScript](https://www.reddit.com/r/androiddev/comments/11ebngm/how_to_set_up_a_react_native_monorepo_for_android/)
+- [How does the future of Android look?](https://www.reddit.com/r/androiddev/comments/11e93ma/how_does_the_future_of_android_look/)
+- [I was wondering if it is possible to develop an android app via visual scripting of sorts like seen in game engines. Are there any platforms using which I can achieve this?](https://www.reddit.com/r/androiddev/comments/11e747o/i_was_wondering_if_it_is_possible_to_develop_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
