@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Passio - MindsEye: Real-Time Zero-Shot Image Classification Demo. Adding AI to your app has never been so easy](https://www.reddit.com/r/androiddev/comments/11em8fr/passio_mindseye_realtime_zeroshot_image/)
-- [If not mobile development, what would you be doing instead?](https://www.reddit.com/r/androiddev/comments/11elxc8/if_not_mobile_development_what_would_you_be_doing/)
-- [Is this an easy project for a total beginner?](https://www.reddit.com/r/androiddev/comments/11ei5wz/is_this_an_easy_project_for_a_total_beginner/)
-- [Is it worth it?](https://www.reddit.com/r/androiddev/comments/11eh0l2/is_it_worth_it/)
-- [Android developer jobs on Upwork](https://www.reddit.com/r/androiddev/comments/11ef7iz/android_developer_jobs_on_upwork/)
-- [Understanding backend. I want to have an application update a firebase database periodically. How do I do this??](https://www.reddit.com/r/androiddev/comments/11ef69j/understanding_backend_i_want_to_have_an/)
-- [Google Play Console Report Review](https://www.reddit.com/r/androiddev/comments/11eewje/google_play_console_report_review/)
-- [How to set up a React Native Monorepo for Android using TypeScript](https://www.reddit.com/r/androiddev/comments/11ebngm/how_to_set_up_a_react_native_monorepo_for_android/)
-- [How does the future of Android look?](https://www.reddit.com/r/androiddev/comments/11e93ma/how_does_the_future_of_android_look/)
-- [I was wondering if it is possible to develop an android app via visual scripting of sorts like seen in game engines. Are there any platforms using which I can achieve this?](https://www.reddit.com/r/androiddev/comments/11e747o/i_was_wondering_if_it_is_possible_to_develop_an/)
+- [Using data class field as LaunchedEffect key?¿](https://www.reddit.com/r/androiddev/comments/11fm0nh/using_data_class_field_as_launchedeffect_key/)
+- [Apple HomeKit for Android and what does Golang have to do with it](https://www.reddit.com/r/androiddev/comments/11fhqe6/apple_homekit_for_android_and_what_does_golang/)
+- [Creating Android Developer Account with Enterprise Google Login](https://www.reddit.com/r/androiddev/comments/11fh1ps/creating_android_developer_account_with/)
+- [Where do you find freelancer jobs?](https://www.reddit.com/r/androiddev/comments/11ffdaz/where_do_you_find_freelancer_jobs/)
+- [Is case insensitive compare &quot;samsung&quot; with android.os.Build.MANUFACTURER a reliable way to check whether a device is Samsung?](https://www.reddit.com/r/androiddev/comments/11fdo17/is_case_insensitive_compare_samsung_with/)
+- [What Certificates Would Boost My CV as an Android Dev?](https://www.reddit.com/r/androiddev/comments/11fbya5/what_certificates_would_boost_my_cv_as_an_android/)
+- [Self Learning Android Development](https://www.reddit.com/r/androiddev/comments/11faggw/self_learning_android_development/)
+- [Automating Play Store Updates For 50+ Versions of our App](https://www.reddit.com/r/androiddev/comments/11faeaq/automating_play_store_updates_for_50_versions_of/)
+- [What is the best charting library available &lpar;Kotlin&rpar;?](https://www.reddit.com/r/androiddev/comments/11f8pur/what_is_the_best_charting_library_available_kotlin/)
+- [Admob - 60 dollars removed from invalid traffic](https://www.reddit.com/r/androiddev/comments/11f859t/admob_60_dollars_removed_from_invalid_traffic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
