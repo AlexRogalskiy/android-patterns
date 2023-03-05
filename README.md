@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [android enterprise app](https://www.reddit.com/r/androiddev/comments/11hkzd9/android_enterprise_app/)
-- [Best bang for buck in marketing](https://www.reddit.com/r/androiddev/comments/11hh93c/best_bang_for_buck_in_marketing/)
-- [Are companies which email you offering marketing and services legit? Or should I stay away?](https://www.reddit.com/r/androiddev/comments/11hgr1l/are_companies_which_email_you_offering_marketing/)
-- [Getting Started with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/11hf6m0/getting_started_with_jetpack_compose/)
-- [App Pinned Shortcuts](https://www.reddit.com/r/androiddev/comments/11hblh0/app_pinned_shortcuts/)
-- [How does flipping the camera lens while recording in camera apps work?](https://www.reddit.com/r/androiddev/comments/11h6kdy/how_does_flipping_the_camera_lens_while_recording/)
-- [dart&lpar;flutter&rpar; to java , is it a good choice](https://www.reddit.com/r/androiddev/comments/11h43v1/dartflutter_to_java_is_it_a_good_choice/)
-- [What is worth learning in 2023 if you are an Android Developer?](https://www.reddit.com/r/androiddev/comments/11h42hg/what_is_worth_learning_in_2023_if_you_are_an/)
-- [The build tools default is now 3 &lpar;nearly 4&rpar; MAJOR versions behind?!](https://www.reddit.com/r/androiddev/comments/11h3jdn/the_build_tools_default_is_now_3_nearly_4_major/)
-- [Best comprehensive Android Dev pdf handbooks/guides to download?](https://www.reddit.com/r/androiddev/comments/11h3f37/best_comprehensive_android_dev_pdf/)
+- [How do I solve this problem on Pixel 7 pro?](https://www.reddit.com/r/androiddev/comments/11ikvln/how_do_i_solve_this_problem_on_pixel_7_pro/)
+- [i want to thank this community for helping me regarding my scammed app](https://www.reddit.com/r/androiddev/comments/11ig1ke/i_want_to_thank_this_community_for_helping_me/)
+- [Is it possible to write an app that automatically turns Hue&#39;s routines back on every time they are turned off?](https://www.reddit.com/r/androiddev/comments/11ifajg/is_it_possible_to_write_an_app_that_automatically/)
+- [bough an app source code from code canyon. It has api version 27 and Google Play does not allow it. While upgrading to 33 getting lots of error. Any suggestions ??](https://www.reddit.com/r/androiddev/comments/11ids7a/bough_an_app_source_code_from_code_canyon_it_has/)
+- [Deep learning in android app](https://www.reddit.com/r/androiddev/comments/11id0cf/deep_learning_in_android_app/)
+- [Overcoming Challenges in Programming: My Struggle and Quest for Success](https://www.reddit.com/r/androiddev/comments/11ibzuf/overcoming_challenges_in_programming_my_struggle/)
+- [Google Play Console Crash stack traces missing](https://www.reddit.com/r/androiddev/comments/11ibx6n/google_play_console_crash_stack_traces_missing/)
+- [Need step by step instructions how to add files to the APK in Android Studio](https://www.reddit.com/r/androiddev/comments/11i7yl8/need_step_by_step_instructions_how_to_add_files/)
+- [Am I the only one who feels that Google&#39;s &quot;new stuff&quot; approach is badly hurting productivity?](https://www.reddit.com/r/androiddev/comments/11i7oj5/am_i_the_only_one_who_feels_that_googles_new/)
+- [App Whitelist](https://www.reddit.com/r/androiddev/comments/11i51cg/app_whitelist/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
