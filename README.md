@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I solve this problem on Pixel 7 pro?](https://www.reddit.com/r/androiddev/comments/11ikvln/how_do_i_solve_this_problem_on_pixel_7_pro/)
-- [i want to thank this community for helping me regarding my scammed app](https://www.reddit.com/r/androiddev/comments/11ig1ke/i_want_to_thank_this_community_for_helping_me/)
-- [Is it possible to write an app that automatically turns Hue&#39;s routines back on every time they are turned off?](https://www.reddit.com/r/androiddev/comments/11ifajg/is_it_possible_to_write_an_app_that_automatically/)
-- [bough an app source code from code canyon. It has api version 27 and Google Play does not allow it. While upgrading to 33 getting lots of error. Any suggestions ??](https://www.reddit.com/r/androiddev/comments/11ids7a/bough_an_app_source_code_from_code_canyon_it_has/)
-- [Deep learning in android app](https://www.reddit.com/r/androiddev/comments/11id0cf/deep_learning_in_android_app/)
-- [Overcoming Challenges in Programming: My Struggle and Quest for Success](https://www.reddit.com/r/androiddev/comments/11ibzuf/overcoming_challenges_in_programming_my_struggle/)
-- [Google Play Console Crash stack traces missing](https://www.reddit.com/r/androiddev/comments/11ibx6n/google_play_console_crash_stack_traces_missing/)
-- [Need step by step instructions how to add files to the APK in Android Studio](https://www.reddit.com/r/androiddev/comments/11i7yl8/need_step_by_step_instructions_how_to_add_files/)
-- [Am I the only one who feels that Google&#39;s &quot;new stuff&quot; approach is badly hurting productivity?](https://www.reddit.com/r/androiddev/comments/11i7oj5/am_i_the_only_one_who_feels_that_googles_new/)
-- [App Whitelist](https://www.reddit.com/r/androiddev/comments/11i51cg/app_whitelist/)
+- [Folder structure issue](https://www.reddit.com/r/androiddev/comments/11jk2wx/folder_structure_issue/)
+- [What is your preferred way to share complex data between fragments?](https://www.reddit.com/r/androiddev/comments/11jjprf/what_is_your_preferred_way_to_share_complex_data/)
+- [Hey everyone! I’ll soon start working on the Android SDK, How are you currently doing version management for your apps!?](https://www.reddit.com/r/androiddev/comments/11jhuok/hey_everyone_ill_soon_start_working_on_the/)
+- [a great video for android architecture](https://www.reddit.com/r/androiddev/comments/11jgj0n/a_great_video_for_android_architecture/)
+- [PSA: Make sure that your Android emulators are using HW acceleration on macOS](https://www.reddit.com/r/androiddev/comments/11jff28/psa_make_sure_that_your_android_emulators_are/)
+- [Best practice for conditional navigation?](https://www.reddit.com/r/androiddev/comments/11jdgu8/best_practice_for_conditional_navigation/)
+- [As a long term Android lover, but also an iOS developer, Android is absolutely miserable to develop for.](https://www.reddit.com/r/androiddev/comments/11jctnf/as_a_long_term_android_lover_but_also_an_ios/)
+- [Building first APK.&lpar; Text input and search function&rpar;](https://www.reddit.com/r/androiddev/comments/11j6a20/building_first_apk_text_input_and_search_function/)
+- [What are the things to do to make a &quot;Learn Programming&quot; app?](https://www.reddit.com/r/androiddev/comments/11j480y/what_are_the_things_to_do_to_make_a_learn/)
+- [Best way to authenticate application with application server persistently?](https://www.reddit.com/r/androiddev/comments/11j359l/best_way_to_authenticate_application_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
