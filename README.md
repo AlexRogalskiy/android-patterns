@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Folder structure issue](https://www.reddit.com/r/androiddev/comments/11jk2wx/folder_structure_issue/)
-- [What is your preferred way to share complex data between fragments?](https://www.reddit.com/r/androiddev/comments/11jjprf/what_is_your_preferred_way_to_share_complex_data/)
-- [Hey everyone! I’ll soon start working on the Android SDK, How are you currently doing version management for your apps!?](https://www.reddit.com/r/androiddev/comments/11jhuok/hey_everyone_ill_soon_start_working_on_the/)
-- [a great video for android architecture](https://www.reddit.com/r/androiddev/comments/11jgj0n/a_great_video_for_android_architecture/)
-- [PSA: Make sure that your Android emulators are using HW acceleration on macOS](https://www.reddit.com/r/androiddev/comments/11jff28/psa_make_sure_that_your_android_emulators_are/)
-- [Best practice for conditional navigation?](https://www.reddit.com/r/androiddev/comments/11jdgu8/best_practice_for_conditional_navigation/)
-- [As a long term Android lover, but also an iOS developer, Android is absolutely miserable to develop for.](https://www.reddit.com/r/androiddev/comments/11jctnf/as_a_long_term_android_lover_but_also_an_ios/)
-- [Building first APK.&lpar; Text input and search function&rpar;](https://www.reddit.com/r/androiddev/comments/11j6a20/building_first_apk_text_input_and_search_function/)
-- [What are the things to do to make a &quot;Learn Programming&quot; app?](https://www.reddit.com/r/androiddev/comments/11j480y/what_are_the_things_to_do_to_make_a_learn/)
-- [Best way to authenticate application with application server persistently?](https://www.reddit.com/r/androiddev/comments/11j359l/best_way_to_authenticate_application_with/)
+- [Wrote a small article about accessibility and Measure units](https://www.reddit.com/r/androiddev/comments/11km1nt/wrote_a_small_article_about_accessibility_and/)
+- [Feedback on Takehome-Projects](https://www.reddit.com/r/androiddev/comments/11kl7pz/feedback_on_takehomeprojects/)
+- [question about cheap tablet for testing.](https://www.reddit.com/r/androiddev/comments/11kgwza/question_about_cheap_tablet_for_testing/)
+- [Is anyone else dealing with EXTREMELY slow app update approvals?](https://www.reddit.com/r/androiddev/comments/11kfquk/is_anyone_else_dealing_with_extremely_slow_app/)
+- [Android Studio Giraffe Canary 8 now available](https://www.reddit.com/r/androiddev/comments/11kfha6/android_studio_giraffe_canary_8_now_available/)
+- [Declarative vs Imperative UI in Android](https://www.reddit.com/r/androiddev/comments/11kew5d/declarative_vs_imperative_ui_in_android/)
+- [way to bypass &quot;this app isn&#39;t available in your region&quot;](https://www.reddit.com/r/androiddev/comments/11keiai/way_to_bypass_this_app_isnt_available_in_your/)
+- [Excepted One Tap Sign In Behavior](https://www.reddit.com/r/androiddev/comments/11ke6m4/excepted_one_tap_sign_in_behavior/)
+- [developer account issue](https://www.reddit.com/r/androiddev/comments/11kchog/developer_account_issue/)
+- [Are there people motivated to create an open source alternative to Duolingo with me?](https://www.reddit.com/r/androiddev/comments/11kccw4/are_there_people_motivated_to_create_an_open/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
