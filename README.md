@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Wrote a small article about accessibility and Measure units](https://www.reddit.com/r/androiddev/comments/11km1nt/wrote_a_small_article_about_accessibility_and/)
-- [Feedback on Takehome-Projects](https://www.reddit.com/r/androiddev/comments/11kl7pz/feedback_on_takehomeprojects/)
-- [question about cheap tablet for testing.](https://www.reddit.com/r/androiddev/comments/11kgwza/question_about_cheap_tablet_for_testing/)
-- [Is anyone else dealing with EXTREMELY slow app update approvals?](https://www.reddit.com/r/androiddev/comments/11kfquk/is_anyone_else_dealing_with_extremely_slow_app/)
-- [Android Studio Giraffe Canary 8 now available](https://www.reddit.com/r/androiddev/comments/11kfha6/android_studio_giraffe_canary_8_now_available/)
-- [Declarative vs Imperative UI in Android](https://www.reddit.com/r/androiddev/comments/11kew5d/declarative_vs_imperative_ui_in_android/)
-- [way to bypass &quot;this app isn&#39;t available in your region&quot;](https://www.reddit.com/r/androiddev/comments/11keiai/way_to_bypass_this_app_isnt_available_in_your/)
-- [Excepted One Tap Sign In Behavior](https://www.reddit.com/r/androiddev/comments/11ke6m4/excepted_one_tap_sign_in_behavior/)
-- [developer account issue](https://www.reddit.com/r/androiddev/comments/11kchog/developer_account_issue/)
-- [Are there people motivated to create an open source alternative to Duolingo with me?](https://www.reddit.com/r/androiddev/comments/11kccw4/are_there_people_motivated_to_create_an_open/)
+- [Compose: how to make a responsive composable?](https://www.reddit.com/r/androiddev/comments/11lgygc/compose_how_to_make_a_responsive_composable/)
+- [Let’s go. It’s Google I/O 2023](https://www.reddit.com/r/androiddev/comments/11lfzng/lets_go_its_google_io_2023/)
+- [Google Play Cut on a Service-Based App](https://www.reddit.com/r/androiddev/comments/11lb62a/google_play_cut_on_a_servicebased_app/)
+- [How do you deal with complex nested navigation in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/11lb26e/how_do_you_deal_with_complex_nested_navigation_in/)
+- [Are there any good learning source for scaling a app ?](https://www.reddit.com/r/androiddev/comments/11laayt/are_there_any_good_learning_source_for_scaling_a/)
+- [End-to-End Encryption: A Modern Implementation Approach Using Shared Keys](https://www.reddit.com/r/androiddev/comments/11l8xru/endtoend_encryption_a_modern_implementation/)
+- [TextViews vs Strings](https://www.reddit.com/r/androiddev/comments/11l76kg/textviews_vs_strings/)
+- [Leanback - Is it possible to make a ListRow view not selectable and without animation?](https://www.reddit.com/r/androiddev/comments/11l68cg/leanback_is_it_possible_to_make_a_listrow_view/)
+- [appium for Android, not able to find elements](https://www.reddit.com/r/androiddev/comments/11l5rck/appium_for_android_not_able_to_find_elements/)
+- [10 ideas to reduce your APK size [Part I]](https://www.reddit.com/r/androiddev/comments/11l3vct/10_ideas_to_reduce_your_apk_size_part_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
