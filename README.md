@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compose: how to make a responsive composable?](https://www.reddit.com/r/androiddev/comments/11lgygc/compose_how_to_make_a_responsive_composable/)
-- [Let’s go. It’s Google I/O 2023](https://www.reddit.com/r/androiddev/comments/11lfzng/lets_go_its_google_io_2023/)
-- [Google Play Cut on a Service-Based App](https://www.reddit.com/r/androiddev/comments/11lb62a/google_play_cut_on_a_servicebased_app/)
-- [How do you deal with complex nested navigation in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/11lb26e/how_do_you_deal_with_complex_nested_navigation_in/)
-- [Are there any good learning source for scaling a app ?](https://www.reddit.com/r/androiddev/comments/11laayt/are_there_any_good_learning_source_for_scaling_a/)
-- [End-to-End Encryption: A Modern Implementation Approach Using Shared Keys](https://www.reddit.com/r/androiddev/comments/11l8xru/endtoend_encryption_a_modern_implementation/)
-- [TextViews vs Strings](https://www.reddit.com/r/androiddev/comments/11l76kg/textviews_vs_strings/)
-- [Leanback - Is it possible to make a ListRow view not selectable and without animation?](https://www.reddit.com/r/androiddev/comments/11l68cg/leanback_is_it_possible_to_make_a_listrow_view/)
-- [appium for Android, not able to find elements](https://www.reddit.com/r/androiddev/comments/11l5rck/appium_for_android_not_able_to_find_elements/)
-- [10 ideas to reduce your APK size [Part I]](https://www.reddit.com/r/androiddev/comments/11l3vct/10_ideas_to_reduce_your_apk_size_part_i/)
+- [Unfair Google Play &quot;Associated&quot; Developer Account Termination and AdMob Account Consequences](https://www.reddit.com/r/androiddev/comments/11mdv4d/unfair_google_play_associated_developer_account/)
+- [Starting with learning Android Development with XML or Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/11m8m5f/starting_with_learning_android_development_with/)
+- [Admob ads suddenly not showing!](https://www.reddit.com/r/androiddev/comments/11m8lgx/admob_ads_suddenly_not_showing/)
+- [[Noob Question] What exactly is a Mobile UI/Custom OS &lpar;MIUI, One UI, Realme UI, Funtouch, etc.&rpar; on Android?](https://www.reddit.com/r/androiddev/comments/11m8iyn/noob_question_what_exactly_is_a_mobile_uicustom/)
+- [Viewmodel and composable screen getting initialized asynchronously](https://www.reddit.com/r/androiddev/comments/11m7925/viewmodel_and_composable_screen_getting/)
+- [Compose ScrollBehavior does trigger recomposition of entire app](https://www.reddit.com/r/androiddev/comments/11m6i1d/compose_scrollbehavior_does_trigger_recomposition/)
+- [Junior Android Developer expectations](https://www.reddit.com/r/androiddev/comments/11m65k0/junior_android_developer_expectations/)
+- [What sort of processes/libraries/workflows have been put in place to improve your developer experience?](https://www.reddit.com/r/androiddev/comments/11m4yqa/what_sort_of_processeslibrariesworkflows_have/)
+- [[QUESTION] Creating an applink without the app supporting it](https://www.reddit.com/r/androiddev/comments/11m3vtu/question_creating_an_applink_without_the_app/)
+- [Where should I publish my Android Library? jcenter or jitpack or maven central?](https://www.reddit.com/r/androiddev/comments/11m1j5q/where_should_i_publish_my_android_library_jcenter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
