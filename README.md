@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Unfair Google Play &quot;Associated&quot; Developer Account Termination and AdMob Account Consequences](https://www.reddit.com/r/androiddev/comments/11mdv4d/unfair_google_play_associated_developer_account/)
-- [Starting with learning Android Development with XML or Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/11m8m5f/starting_with_learning_android_development_with/)
-- [Admob ads suddenly not showing!](https://www.reddit.com/r/androiddev/comments/11m8lgx/admob_ads_suddenly_not_showing/)
-- [[Noob Question] What exactly is a Mobile UI/Custom OS &lpar;MIUI, One UI, Realme UI, Funtouch, etc.&rpar; on Android?](https://www.reddit.com/r/androiddev/comments/11m8iyn/noob_question_what_exactly_is_a_mobile_uicustom/)
-- [Viewmodel and composable screen getting initialized asynchronously](https://www.reddit.com/r/androiddev/comments/11m7925/viewmodel_and_composable_screen_getting/)
-- [Compose ScrollBehavior does trigger recomposition of entire app](https://www.reddit.com/r/androiddev/comments/11m6i1d/compose_scrollbehavior_does_trigger_recomposition/)
-- [Junior Android Developer expectations](https://www.reddit.com/r/androiddev/comments/11m65k0/junior_android_developer_expectations/)
-- [What sort of processes/libraries/workflows have been put in place to improve your developer experience?](https://www.reddit.com/r/androiddev/comments/11m4yqa/what_sort_of_processeslibrariesworkflows_have/)
-- [[QUESTION] Creating an applink without the app supporting it](https://www.reddit.com/r/androiddev/comments/11m3vtu/question_creating_an_applink_without_the_app/)
-- [Where should I publish my Android Library? jcenter or jitpack or maven central?](https://www.reddit.com/r/androiddev/comments/11m1j5q/where_should_i_publish_my_android_library_jcenter/)
+- [Android - Drag and Drop with Kotlin Example](https://www.reddit.com/r/androiddev/comments/11n9r5w/android_drag_and_drop_with_kotlin_example/)
+- [10 ideas to reduce your APK size [Part II]](https://www.reddit.com/r/androiddev/comments/11n90wr/10_ideas_to_reduce_your_apk_size_part_ii/)
+- [Is Flutter less efficient than Kotlin?](https://www.reddit.com/r/androiddev/comments/11n5t7t/is_flutter_less_efficient_than_kotlin/)
+- [Alarms in queue: next in line&lpar;&#39;manager.nextAlarmClock&#39;&rpar; appears null once the first in queue fires the broadcast. Where is the alarm?](https://www.reddit.com/r/androiddev/comments/11n4e4w/alarms_in_queue_next_in_linemanagernextalarmclock/)
+- [is there any companies or websites that provide &lpar;android dev &rpar;training programs and hire after that](https://www.reddit.com/r/androiddev/comments/11n47k2/is_there_any_companies_or_websites_that_provide/)
+- [Native Android app &lpar;Kotlin XML&rpar; inside an NX monorepo](https://www.reddit.com/r/androiddev/comments/11n249p/native_android_app_kotlin_xml_inside_an_nx/)
+- [Android Studio Flamingo Beta 5 now available](https://www.reddit.com/r/androiddev/comments/11n0ggz/android_studio_flamingo_beta_5_now_available/)
+- [Samsung galaxy store policy on IAP gateways](https://www.reddit.com/r/androiddev/comments/11mz83v/samsung_galaxy_store_policy_on_iap_gateways/)
+- [Why Compose?](https://www.reddit.com/r/androiddev/comments/11mz6wr/why_compose/)
+- [Compose only apps question](https://www.reddit.com/r/androiddev/comments/11mv2id/compose_only_apps_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
