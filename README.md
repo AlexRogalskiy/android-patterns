@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android - Drag and Drop with Kotlin Example](https://www.reddit.com/r/androiddev/comments/11n9r5w/android_drag_and_drop_with_kotlin_example/)
-- [10 ideas to reduce your APK size [Part II]](https://www.reddit.com/r/androiddev/comments/11n90wr/10_ideas_to_reduce_your_apk_size_part_ii/)
-- [Is Flutter less efficient than Kotlin?](https://www.reddit.com/r/androiddev/comments/11n5t7t/is_flutter_less_efficient_than_kotlin/)
-- [Alarms in queue: next in line&lpar;&#39;manager.nextAlarmClock&#39;&rpar; appears null once the first in queue fires the broadcast. Where is the alarm?](https://www.reddit.com/r/androiddev/comments/11n4e4w/alarms_in_queue_next_in_linemanagernextalarmclock/)
-- [is there any companies or websites that provide &lpar;android dev &rpar;training programs and hire after that](https://www.reddit.com/r/androiddev/comments/11n47k2/is_there_any_companies_or_websites_that_provide/)
-- [Native Android app &lpar;Kotlin XML&rpar; inside an NX monorepo](https://www.reddit.com/r/androiddev/comments/11n249p/native_android_app_kotlin_xml_inside_an_nx/)
-- [Android Studio Flamingo Beta 5 now available](https://www.reddit.com/r/androiddev/comments/11n0ggz/android_studio_flamingo_beta_5_now_available/)
-- [Samsung galaxy store policy on IAP gateways](https://www.reddit.com/r/androiddev/comments/11mz83v/samsung_galaxy_store_policy_on_iap_gateways/)
-- [Why Compose?](https://www.reddit.com/r/androiddev/comments/11mz6wr/why_compose/)
-- [Compose only apps question](https://www.reddit.com/r/androiddev/comments/11mv2id/compose_only_apps_question/)
+- [Can i recover this account without the phone and number?](https://www.reddit.com/r/androiddev/comments/11o7d7c/can_i_recover_this_account_without_the_phone_and/)
+- [What in God&#39;s name is &quot;Coolstory&quot;?](https://www.reddit.com/r/androiddev/comments/11o75ae/what_in_gods_name_is_coolstory/)
+- [Pet project, Compose or Flutter?](https://www.reddit.com/r/androiddev/comments/11o5aki/pet_project_compose_or_flutter/)
+- [Best java library for pitch detection](https://www.reddit.com/r/androiddev/comments/11o5a4t/best_java_library_for_pitch_detection/)
+- [Touchlab Open Source Updates – Kermit, KMMBridge, CrashKiOS, Stately](https://www.reddit.com/r/androiddev/comments/11nz90z/touchlab_open_source_updates_kermit_kmmbridge/)
+- [Kotlin: Function Memoization [For Android Developers]](https://www.reddit.com/r/androiddev/comments/11nyf14/kotlin_function_memoization_for_android_developers/)
+- [Help with providing free in-app subscriptions to specific users](https://www.reddit.com/r/androiddev/comments/11nycve/help_with_providing_free_inapp_subscriptions_to/)
+- [Communication between android device and iPhone without the internet](https://www.reddit.com/r/androiddev/comments/11nxqb8/communication_between_android_device_and_iphone/)
+- [anyone have an easy way to root samsung galaxy s5?](https://www.reddit.com/r/androiddev/comments/11nw1r2/anyone_have_an_easy_way_to_root_samsung_galaxy_s5/)
+- [Text to speech APP using my own voice](https://www.reddit.com/r/androiddev/comments/11nvrmw/text_to_speech_app_using_my_own_voice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
