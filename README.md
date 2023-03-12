@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can i recover this account without the phone and number?](https://www.reddit.com/r/androiddev/comments/11o7d7c/can_i_recover_this_account_without_the_phone_and/)
-- [What in God&#39;s name is &quot;Coolstory&quot;?](https://www.reddit.com/r/androiddev/comments/11o75ae/what_in_gods_name_is_coolstory/)
-- [Pet project, Compose or Flutter?](https://www.reddit.com/r/androiddev/comments/11o5aki/pet_project_compose_or_flutter/)
-- [Best java library for pitch detection](https://www.reddit.com/r/androiddev/comments/11o5a4t/best_java_library_for_pitch_detection/)
-- [Touchlab Open Source Updates – Kermit, KMMBridge, CrashKiOS, Stately](https://www.reddit.com/r/androiddev/comments/11nz90z/touchlab_open_source_updates_kermit_kmmbridge/)
-- [Kotlin: Function Memoization [For Android Developers]](https://www.reddit.com/r/androiddev/comments/11nyf14/kotlin_function_memoization_for_android_developers/)
-- [Help with providing free in-app subscriptions to specific users](https://www.reddit.com/r/androiddev/comments/11nycve/help_with_providing_free_inapp_subscriptions_to/)
-- [Communication between android device and iPhone without the internet](https://www.reddit.com/r/androiddev/comments/11nxqb8/communication_between_android_device_and_iphone/)
-- [anyone have an easy way to root samsung galaxy s5?](https://www.reddit.com/r/androiddev/comments/11nw1r2/anyone_have_an_easy_way_to_root_samsung_galaxy_s5/)
-- [Text to speech APP using my own voice](https://www.reddit.com/r/androiddev/comments/11nvrmw/text_to_speech_app_using_my_own_voice/)
+- [Having an issue decrypting a file](https://www.reddit.com/r/androiddev/comments/11p0ey7/having_an_issue_decrypting_a_file/)
+- [Not long ago a friend helped me test out a clicker game I’m making with a “back massager”. A true QA engineer in the making.](https://www.reddit.com/r/androiddev/comments/11ousz1/not_long_ago_a_friend_helped_me_test_out_a/)
+- [App Icon Resources &amp; Help](https://www.reddit.com/r/androiddev/comments/11otc51/app_icon_resources_help/)
+- [Have you experienced seizures or headaches while using the Android Studio emulator?](https://www.reddit.com/r/androiddev/comments/11ot1mn/have_you_experienced_seizures_or_headaches_while/)
+- [Using ChatGPT for app description](https://www.reddit.com/r/androiddev/comments/11oqqtx/using_chatgpt_for_app_description/)
+- [Communication between android and pc TCP vs UDP?](https://www.reddit.com/r/androiddev/comments/11oqeii/communication_between_android_and_pc_tcp_vs_udp/)
+- [what salary should i ask for as Android Developer in Canada?!](https://www.reddit.com/r/androiddev/comments/11ooywa/what_salary_should_i_ask_for_as_android_developer/)
+- [What Reverse Engineering Foretells | The Upside-Down Trees](https://www.reddit.com/r/androiddev/comments/11olwpr/what_reverse_engineering_foretells_the_upsidedown/)
+- [How to manage my personal library on a Nas with version number ?](https://www.reddit.com/r/androiddev/comments/11ojou0/how_to_manage_my_personal_library_on_a_nas_with/)
+- [Should I go with firebase and meta ads?](https://www.reddit.com/r/androiddev/comments/11ojk0c/should_i_go_with_firebase_and_meta_ads/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
