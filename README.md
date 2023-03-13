@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Having an issue decrypting a file](https://www.reddit.com/r/androiddev/comments/11p0ey7/having_an_issue_decrypting_a_file/)
-- [Not long ago a friend helped me test out a clicker game I’m making with a “back massager”. A true QA engineer in the making.](https://www.reddit.com/r/androiddev/comments/11ousz1/not_long_ago_a_friend_helped_me_test_out_a/)
-- [App Icon Resources &amp; Help](https://www.reddit.com/r/androiddev/comments/11otc51/app_icon_resources_help/)
-- [Have you experienced seizures or headaches while using the Android Studio emulator?](https://www.reddit.com/r/androiddev/comments/11ot1mn/have_you_experienced_seizures_or_headaches_while/)
-- [Using ChatGPT for app description](https://www.reddit.com/r/androiddev/comments/11oqqtx/using_chatgpt_for_app_description/)
-- [Communication between android and pc TCP vs UDP?](https://www.reddit.com/r/androiddev/comments/11oqeii/communication_between_android_and_pc_tcp_vs_udp/)
-- [what salary should i ask for as Android Developer in Canada?!](https://www.reddit.com/r/androiddev/comments/11ooywa/what_salary_should_i_ask_for_as_android_developer/)
-- [What Reverse Engineering Foretells | The Upside-Down Trees](https://www.reddit.com/r/androiddev/comments/11olwpr/what_reverse_engineering_foretells_the_upsidedown/)
-- [How to manage my personal library on a Nas with version number ?](https://www.reddit.com/r/androiddev/comments/11ojou0/how_to_manage_my_personal_library_on_a_nas_with/)
-- [Should I go with firebase and meta ads?](https://www.reddit.com/r/androiddev/comments/11ojk0c/should_i_go_with_firebase_and_meta_ads/)
+- [How does rememberSaveable work?](https://www.reddit.com/r/androiddev/comments/11pr2aa/how_does_remembersaveable_work/)
+- [Ryan M. Kay - How To Build A Rideshare App Like Uber | Modern Development Android Tutorial](https://www.reddit.com/r/androiddev/comments/11pkymh/ryan_m_kay_how_to_build_a_rideshare_app_like_uber/)
+- [Kotlin multiplatform app with shared for Android, IOS and Desktop &lpar;Web Soon!&rpar;](https://www.reddit.com/r/androiddev/comments/11pk9lw/kotlin_multiplatform_app_with_shared_for_android/)
+- [is it posssible to add an a python AI tensorflow script inside kotlin for android?](https://www.reddit.com/r/androiddev/comments/11pjs75/is_it_posssible_to_add_an_a_python_ai_tensorflow/)
+- [How to include a webcam?](https://www.reddit.com/r/androiddev/comments/11pfgke/how_to_include_a_webcam/)
+- [Android UI Design Mobile dashboard UI Tutorial | android projects with source code](https://www.reddit.com/r/androiddev/comments/11pdcsj/android_ui_design_mobile_dashboard_ui_tutorial/)
+- [Scrcpy 2.0 released, with audio support](https://www.reddit.com/r/androiddev/comments/11p9e2t/scrcpy_20_released_with_audio_support/)
+- [Play Console - Orders: orders keep &quot;Chargeable&quot; status for long time.](https://www.reddit.com/r/androiddev/comments/11p893b/play_console_orders_orders_keep_chargeable_status/)
+- [Testing a app, how do I make a VM that’s geneuinley like a real phone &lpar;real device I’d sn imei etc&rpar; or get a physical phone and flash new everything to it as if it’s a brand new phone](https://www.reddit.com/r/androiddev/comments/11p34td/testing_a_app_how_do_i_make_a_vm_thats_geneuinley/)
+- [App development study partners?](https://www.reddit.com/r/androiddev/comments/11p2mdu/app_development_study_partners/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
