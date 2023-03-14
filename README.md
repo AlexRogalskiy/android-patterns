@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How does rememberSaveable work?](https://www.reddit.com/r/androiddev/comments/11pr2aa/how_does_remembersaveable_work/)
-- [Ryan M. Kay - How To Build A Rideshare App Like Uber | Modern Development Android Tutorial](https://www.reddit.com/r/androiddev/comments/11pkymh/ryan_m_kay_how_to_build_a_rideshare_app_like_uber/)
-- [Kotlin multiplatform app with shared for Android, IOS and Desktop &lpar;Web Soon!&rpar;](https://www.reddit.com/r/androiddev/comments/11pk9lw/kotlin_multiplatform_app_with_shared_for_android/)
-- [is it posssible to add an a python AI tensorflow script inside kotlin for android?](https://www.reddit.com/r/androiddev/comments/11pjs75/is_it_posssible_to_add_an_a_python_ai_tensorflow/)
-- [How to include a webcam?](https://www.reddit.com/r/androiddev/comments/11pfgke/how_to_include_a_webcam/)
-- [Android UI Design Mobile dashboard UI Tutorial | android projects with source code](https://www.reddit.com/r/androiddev/comments/11pdcsj/android_ui_design_mobile_dashboard_ui_tutorial/)
-- [Scrcpy 2.0 released, with audio support](https://www.reddit.com/r/androiddev/comments/11p9e2t/scrcpy_20_released_with_audio_support/)
-- [Play Console - Orders: orders keep &quot;Chargeable&quot; status for long time.](https://www.reddit.com/r/androiddev/comments/11p893b/play_console_orders_orders_keep_chargeable_status/)
-- [Testing a app, how do I make a VM that’s geneuinley like a real phone &lpar;real device I’d sn imei etc&rpar; or get a physical phone and flash new everything to it as if it’s a brand new phone](https://www.reddit.com/r/androiddev/comments/11p34td/testing_a_app_how_do_i_make_a_vm_thats_geneuinley/)
-- [App development study partners?](https://www.reddit.com/r/androiddev/comments/11p2mdu/app_development_study_partners/)
+- [Feedback on side project and advice on reviews](https://www.reddit.com/r/androiddev/comments/11qt9pb/feedback_on_side_project_and_advice_on_reviews/)
+- [Per-App Language Preferences Compat is inconsistent](https://www.reddit.com/r/androiddev/comments/11qr8uh/perapp_language_preferences_compat_is_inconsistent/)
+- [How can I make an app like Shimeji?](https://www.reddit.com/r/androiddev/comments/11qq2jj/how_can_i_make_an_app_like_shimeji/)
+- [Need a mock interview for senior android dev position](https://www.reddit.com/r/androiddev/comments/11qm7bd/need_a_mock_interview_for_senior_android_dev/)
+- [Learning Process of App Dev using Kotlin.](https://www.reddit.com/r/androiddev/comments/11qkrp7/learning_process_of_app_dev_using_kotlin/)
+- [flutter vs kotlin](https://www.reddit.com/r/androiddev/comments/11qfywz/flutter_vs_kotlin/)
+- [Your App Bundle contains the following configurations where the initial install would exceed the maximum size of 150 MB - Unreal Engine](https://www.reddit.com/r/androiddev/comments/11qfugr/your_app_bundle_contains_the_following/)
+- [Infinite scrolling in Jetpack compose](https://www.reddit.com/r/androiddev/comments/11qffuk/infinite_scrolling_in_jetpack_compose/)
+- [Help with Android App that stops working after about 3 days](https://www.reddit.com/r/androiddev/comments/11qezmg/help_with_android_app_that_stops_working_after/)
+- [Why doesn&#39;t my Android 9 app open automatically on a TV screen after restart, while it works on the emulator?](https://www.reddit.com/r/androiddev/comments/11qcme7/why_doesnt_my_android_9_app_open_automatically_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
