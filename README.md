@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Feedback on side project and advice on reviews](https://www.reddit.com/r/androiddev/comments/11qt9pb/feedback_on_side_project_and_advice_on_reviews/)
-- [Per-App Language Preferences Compat is inconsistent](https://www.reddit.com/r/androiddev/comments/11qr8uh/perapp_language_preferences_compat_is_inconsistent/)
-- [How can I make an app like Shimeji?](https://www.reddit.com/r/androiddev/comments/11qq2jj/how_can_i_make_an_app_like_shimeji/)
-- [Need a mock interview for senior android dev position](https://www.reddit.com/r/androiddev/comments/11qm7bd/need_a_mock_interview_for_senior_android_dev/)
-- [Learning Process of App Dev using Kotlin.](https://www.reddit.com/r/androiddev/comments/11qkrp7/learning_process_of_app_dev_using_kotlin/)
-- [flutter vs kotlin](https://www.reddit.com/r/androiddev/comments/11qfywz/flutter_vs_kotlin/)
-- [Your App Bundle contains the following configurations where the initial install would exceed the maximum size of 150 MB - Unreal Engine](https://www.reddit.com/r/androiddev/comments/11qfugr/your_app_bundle_contains_the_following/)
-- [Infinite scrolling in Jetpack compose](https://www.reddit.com/r/androiddev/comments/11qffuk/infinite_scrolling_in_jetpack_compose/)
-- [Help with Android App that stops working after about 3 days](https://www.reddit.com/r/androiddev/comments/11qezmg/help_with_android_app_that_stops_working_after/)
-- [Why doesn&#39;t my Android 9 app open automatically on a TV screen after restart, while it works on the emulator?](https://www.reddit.com/r/androiddev/comments/11qcme7/why_doesnt_my_android_9_app_open_automatically_on/)
+- [Legality of image search feature in an Android app](https://www.reddit.com/r/androiddev/comments/11rhwwa/legality_of_image_search_feature_in_an_android_app/)
+- [Beyond games and front-ends for very famous websites, what kind of apps software developers COMMERCIALLY create?](https://www.reddit.com/r/androiddev/comments/11rfgqt/beyond_games_and_frontends_for_very_famous/)
+- [Which makes more sense? For a web developer to learn native or cross platform?](https://www.reddit.com/r/androiddev/comments/11rf84j/which_makes_more_sense_for_a_web_developer_to/)
+- [Installing 3rd Party Dependencies &lpar;Loomo Android Algodev&rpar;](https://www.reddit.com/r/androiddev/comments/11re3az/installing_3rd_party_dependencies_loomo_android/)
+- [Request permission even when is denied](https://www.reddit.com/r/androiddev/comments/11rc2nn/request_permission_even_when_is_denied/)
+- [Android Studio Giraffe Canary 9 now available](https://www.reddit.com/r/androiddev/comments/11rbok0/android_studio_giraffe_canary_9_now_available/)
+- [Android dev conundrum : jobs](https://www.reddit.com/r/androiddev/comments/11rajf1/android_dev_conundrum_jobs/)
+- [Compose Canvas vs Image](https://www.reddit.com/r/androiddev/comments/11r9or8/compose_canvas_vs_image/)
+- [Whenever I release a watch face, It&#39;s listed as not compatible for the first few days on Google&#39;s Play store](https://www.reddit.com/r/androiddev/comments/11r8tx4/whenever_i_release_a_watch_face_its_listed_as_not/)
+- [What does this script do?](https://www.reddit.com/r/androiddev/comments/11r79nl/what_does_this_script_do/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
