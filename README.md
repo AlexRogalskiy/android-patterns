@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Legality of image search feature in an Android app](https://www.reddit.com/r/androiddev/comments/11rhwwa/legality_of_image_search_feature_in_an_android_app/)
-- [Beyond games and front-ends for very famous websites, what kind of apps software developers COMMERCIALLY create?](https://www.reddit.com/r/androiddev/comments/11rfgqt/beyond_games_and_frontends_for_very_famous/)
-- [Which makes more sense? For a web developer to learn native or cross platform?](https://www.reddit.com/r/androiddev/comments/11rf84j/which_makes_more_sense_for_a_web_developer_to/)
-- [Installing 3rd Party Dependencies &lpar;Loomo Android Algodev&rpar;](https://www.reddit.com/r/androiddev/comments/11re3az/installing_3rd_party_dependencies_loomo_android/)
-- [Request permission even when is denied](https://www.reddit.com/r/androiddev/comments/11rc2nn/request_permission_even_when_is_denied/)
-- [Android Studio Giraffe Canary 9 now available](https://www.reddit.com/r/androiddev/comments/11rbok0/android_studio_giraffe_canary_9_now_available/)
-- [Android dev conundrum : jobs](https://www.reddit.com/r/androiddev/comments/11rajf1/android_dev_conundrum_jobs/)
-- [Compose Canvas vs Image](https://www.reddit.com/r/androiddev/comments/11r9or8/compose_canvas_vs_image/)
-- [Whenever I release a watch face, It&#39;s listed as not compatible for the first few days on Google&#39;s Play store](https://www.reddit.com/r/androiddev/comments/11r8tx4/whenever_i_release_a_watch_face_its_listed_as_not/)
-- [What does this script do?](https://www.reddit.com/r/androiddev/comments/11r79nl/what_does_this_script_do/)
+- [You&#39;re currently unable to receive payments because there&#39;s a hold on your payments account.](https://www.reddit.com/r/androiddev/comments/11sh8yi/youre_currently_unable_to_receive_payments/)
+- [Have you used the concept of Micro-frontends to scale your app development?](https://www.reddit.com/r/androiddev/comments/11sfye4/have_you_used_the_concept_of_microfrontends_to/)
+- [Java or Kotlin for android?](https://www.reddit.com/r/androiddev/comments/11sf53x/java_or_kotlin_for_android/)
+- [Optimized Github Actions for Flutter - Android + iOs + Web apps](https://www.reddit.com/r/androiddev/comments/11sei6g/optimized_github_actions_for_flutter_android_ios/)
+- [Android Learning routine poll](https://www.reddit.com/r/androiddev/comments/11sc1u5/android_learning_routine_poll/)
+- [Has anyone had an extended review on their app before?](https://www.reddit.com/r/androiddev/comments/11s8oww/has_anyone_had_an_extended_review_on_their_app/)
+- [Android interview types?](https://www.reddit.com/r/androiddev/comments/11s6c2i/android_interview_types/)
+- [How do I deal with AppSweep: Native code does not replace memory unsafe functions with safe ones?](https://www.reddit.com/r/androiddev/comments/11s0k7f/how_do_i_deal_with_appsweep_native_code_does_not/)
+- [Feedback on my notes app database design for learning project](https://www.reddit.com/r/androiddev/comments/11rz58u/feedback_on_my_notes_app_database_design_for/)
+- [There is an issue with your payments profile](https://www.reddit.com/r/androiddev/comments/11rv0oz/there_is_an_issue_with_your_payments_profile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
