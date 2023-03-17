@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [You&#39;re currently unable to receive payments because there&#39;s a hold on your payments account.](https://www.reddit.com/r/androiddev/comments/11sh8yi/youre_currently_unable_to_receive_payments/)
-- [Have you used the concept of Micro-frontends to scale your app development?](https://www.reddit.com/r/androiddev/comments/11sfye4/have_you_used_the_concept_of_microfrontends_to/)
-- [Java or Kotlin for android?](https://www.reddit.com/r/androiddev/comments/11sf53x/java_or_kotlin_for_android/)
-- [Optimized Github Actions for Flutter - Android + iOs + Web apps](https://www.reddit.com/r/androiddev/comments/11sei6g/optimized_github_actions_for_flutter_android_ios/)
-- [Android Learning routine poll](https://www.reddit.com/r/androiddev/comments/11sc1u5/android_learning_routine_poll/)
-- [Has anyone had an extended review on their app before?](https://www.reddit.com/r/androiddev/comments/11s8oww/has_anyone_had_an_extended_review_on_their_app/)
-- [Android interview types?](https://www.reddit.com/r/androiddev/comments/11s6c2i/android_interview_types/)
-- [How do I deal with AppSweep: Native code does not replace memory unsafe functions with safe ones?](https://www.reddit.com/r/androiddev/comments/11s0k7f/how_do_i_deal_with_appsweep_native_code_does_not/)
-- [Feedback on my notes app database design for learning project](https://www.reddit.com/r/androiddev/comments/11rz58u/feedback_on_my_notes_app_database_design_for/)
-- [There is an issue with your payments profile](https://www.reddit.com/r/androiddev/comments/11rv0oz/there_is_an_issue_with_your_payments_profile/)
+- [What are all the ways to collect from flows in Compose views?](https://www.reddit.com/r/androiddev/comments/11tdqdk/what_are_all_the_ways_to_collect_from_flows_in/)
+- [Is it normal for US based companies to lowball remote EU senior dev hires that much?](https://www.reddit.com/r/androiddev/comments/11tbjvs/is_it_normal_for_us_based_companies_to_lowball/)
+- [Question about google play payment policy](https://www.reddit.com/r/androiddev/comments/11t82aa/question_about_google_play_payment_policy/)
+- [Contribute to the future of Google Play](https://www.reddit.com/r/androiddev/comments/11t5mww/contribute_to_the_future_of_google_play/)
+- [Building a notepad app local storage only](https://www.reddit.com/r/androiddev/comments/11t48gy/building_a_notepad_app_local_storage_only/)
+- [Good website for hosting promo codes?](https://www.reddit.com/r/androiddev/comments/11t2xkc/good_website_for_hosting_promo_codes/)
+- [Reviews used to be done in a matter of hours - now taking 5-7 days each time. This is severely impacting our speed - do you know if Google take longer with certain apps e.g. if they have too many crashes or some other red flag?](https://www.reddit.com/r/androiddev/comments/11ssxtd/reviews_used_to_be_done_in_a_matter_of_hours_now/)
+- [GitHub - mjovanc/awesome-ktor: A curated list of awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡](https://www.reddit.com/r/androiddev/comments/11ssukn/github_mjovancawesomektor_a_curated_list_of/)
+- [How to give my Play Store paid game to press/influencers before release?](https://www.reddit.com/r/androiddev/comments/11ss24y/how_to_give_my_play_store_paid_game_to/)
+- [Android API level 33 to set randomized mac to disabled](https://www.reddit.com/r/androiddev/comments/11sqvnz/android_api_level_33_to_set_randomized_mac_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
