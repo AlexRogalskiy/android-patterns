@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are all the ways to collect from flows in Compose views?](https://www.reddit.com/r/androiddev/comments/11tdqdk/what_are_all_the_ways_to_collect_from_flows_in/)
-- [Is it normal for US based companies to lowball remote EU senior dev hires that much?](https://www.reddit.com/r/androiddev/comments/11tbjvs/is_it_normal_for_us_based_companies_to_lowball/)
-- [Question about google play payment policy](https://www.reddit.com/r/androiddev/comments/11t82aa/question_about_google_play_payment_policy/)
-- [Contribute to the future of Google Play](https://www.reddit.com/r/androiddev/comments/11t5mww/contribute_to_the_future_of_google_play/)
-- [Building a notepad app local storage only](https://www.reddit.com/r/androiddev/comments/11t48gy/building_a_notepad_app_local_storage_only/)
-- [Good website for hosting promo codes?](https://www.reddit.com/r/androiddev/comments/11t2xkc/good_website_for_hosting_promo_codes/)
-- [Reviews used to be done in a matter of hours - now taking 5-7 days each time. This is severely impacting our speed - do you know if Google take longer with certain apps e.g. if they have too many crashes or some other red flag?](https://www.reddit.com/r/androiddev/comments/11ssxtd/reviews_used_to_be_done_in_a_matter_of_hours_now/)
-- [GitHub - mjovanc/awesome-ktor: A curated list of awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡](https://www.reddit.com/r/androiddev/comments/11ssukn/github_mjovancawesomektor_a_curated_list_of/)
-- [How to give my Play Store paid game to press/influencers before release?](https://www.reddit.com/r/androiddev/comments/11ss24y/how_to_give_my_play_store_paid_game_to/)
-- [Android API level 33 to set randomized mac to disabled](https://www.reddit.com/r/androiddev/comments/11sqvnz/android_api_level_33_to_set_randomized_mac_to/)
+- [Question about locations](https://www.reddit.com/r/androiddev/comments/11u9m22/question_about_locations/)
+- [Is there a difference in processes between publishing an app to F Droid vs. the Play Store?](https://www.reddit.com/r/androiddev/comments/11u6ckf/is_there_a_difference_in_processes_between/)
+- [Facebook Audience Network failing and blocking apps without proper reason.](https://www.reddit.com/r/androiddev/comments/11u2wii/facebook_audience_network_failing_and_blocking/)
+- [What should I learn?](https://www.reddit.com/r/androiddev/comments/11tz59u/what_should_i_learn/)
+- [What&#39;s the best way to save a draft message? 🤔](https://www.reddit.com/r/androiddev/comments/11tyato/whats_the_best_way_to_save_a_draft_message/)
+- [View GPS location without internet](https://www.reddit.com/r/androiddev/comments/11twd0a/view_gps_location_without_internet/)
+- [App that ships with SQL-Lite database and custom images: What are the best practices to update?](https://www.reddit.com/r/androiddev/comments/11twbwq/app_that_ships_with_sqllite_database_and_custom/)
+- [Question about freelancing](https://www.reddit.com/r/androiddev/comments/11tw9fo/question_about_freelancing/)
+- [Android How to Notifications Permission](https://www.reddit.com/r/androiddev/comments/11tu3fc/android_how_to_notifications_permission/)
+- [Looking for lightbox/gallery library for jetpack compose](https://www.reddit.com/r/androiddev/comments/11trwg2/looking_for_lightboxgallery_library_for_jetpack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
