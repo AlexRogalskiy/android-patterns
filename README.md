@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question about locations](https://www.reddit.com/r/androiddev/comments/11u9m22/question_about_locations/)
-- [Is there a difference in processes between publishing an app to F Droid vs. the Play Store?](https://www.reddit.com/r/androiddev/comments/11u6ckf/is_there_a_difference_in_processes_between/)
-- [Facebook Audience Network failing and blocking apps without proper reason.](https://www.reddit.com/r/androiddev/comments/11u2wii/facebook_audience_network_failing_and_blocking/)
-- [What should I learn?](https://www.reddit.com/r/androiddev/comments/11tz59u/what_should_i_learn/)
-- [What&#39;s the best way to save a draft message? 🤔](https://www.reddit.com/r/androiddev/comments/11tyato/whats_the_best_way_to_save_a_draft_message/)
-- [View GPS location without internet](https://www.reddit.com/r/androiddev/comments/11twd0a/view_gps_location_without_internet/)
-- [App that ships with SQL-Lite database and custom images: What are the best practices to update?](https://www.reddit.com/r/androiddev/comments/11twbwq/app_that_ships_with_sqllite_database_and_custom/)
-- [Question about freelancing](https://www.reddit.com/r/androiddev/comments/11tw9fo/question_about_freelancing/)
-- [Android How to Notifications Permission](https://www.reddit.com/r/androiddev/comments/11tu3fc/android_how_to_notifications_permission/)
-- [Looking for lightbox/gallery library for jetpack compose](https://www.reddit.com/r/androiddev/comments/11trwg2/looking_for_lightboxgallery_library_for_jetpack/)
+- [How difficult would it be to create an UBER Rider app that only requires a single click?](https://www.reddit.com/r/androiddev/comments/11v821p/how_difficult_would_it_be_to_create_an_uber_rider/)
+- [Any advice to make dots transition animation looks nice?](https://www.reddit.com/r/androiddev/comments/11v23oj/any_advice_to_make_dots_transition_animation/)
+- [Best way to run data heavy calculations on large datasets in Android on the fly?](https://www.reddit.com/r/androiddev/comments/11uvamm/best_way_to_run_data_heavy_calculations_on_large/)
+- [Notification Action, how to reuse BroadcasterRecevier instance.](https://www.reddit.com/r/androiddev/comments/11uu8w8/notification_action_how_to_reuse/)
+- [I want to create this in my app so that a rectangle view does not change in size but changes irs aspect ratio according to 2 textboxes for height and width realtime How may i achieve this effect](https://www.reddit.com/r/androiddev/comments/11utlas/i_want_to_create_this_in_my_app_so_that_a/)
+- [newbie here, developers who prefer windows over linux i have some questions for you](https://www.reddit.com/r/androiddev/comments/11usl0n/newbie_here_developers_who_prefer_windows_over/)
+- [How to Handle a Threat of Lawsuit due to an Android App Exceeding Firebase Limits?](https://www.reddit.com/r/androiddev/comments/11uscxf/how_to_handle_a_threat_of_lawsuit_due_to_an/)
+- [Open Source ChatGPT app with Ktor server](https://www.reddit.com/r/androiddev/comments/11ur5tw/open_source_chatgpt_app_with_ktor_server/)
+- [I just finished building my first &quot;full&quot; android app!!](https://www.reddit.com/r/androiddev/comments/11uqg12/i_just_finished_building_my_first_full_android_app/)
+- [My first application!](https://www.reddit.com/r/androiddev/comments/11upu1i/my_first_application/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
