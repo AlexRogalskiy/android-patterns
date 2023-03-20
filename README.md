@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How difficult would it be to create an UBER Rider app that only requires a single click?](https://www.reddit.com/r/androiddev/comments/11v821p/how_difficult_would_it_be_to_create_an_uber_rider/)
-- [Any advice to make dots transition animation looks nice?](https://www.reddit.com/r/androiddev/comments/11v23oj/any_advice_to_make_dots_transition_animation/)
-- [Best way to run data heavy calculations on large datasets in Android on the fly?](https://www.reddit.com/r/androiddev/comments/11uvamm/best_way_to_run_data_heavy_calculations_on_large/)
-- [Notification Action, how to reuse BroadcasterRecevier instance.](https://www.reddit.com/r/androiddev/comments/11uu8w8/notification_action_how_to_reuse/)
-- [I want to create this in my app so that a rectangle view does not change in size but changes irs aspect ratio according to 2 textboxes for height and width realtime How may i achieve this effect](https://www.reddit.com/r/androiddev/comments/11utlas/i_want_to_create_this_in_my_app_so_that_a/)
-- [newbie here, developers who prefer windows over linux i have some questions for you](https://www.reddit.com/r/androiddev/comments/11usl0n/newbie_here_developers_who_prefer_windows_over/)
-- [How to Handle a Threat of Lawsuit due to an Android App Exceeding Firebase Limits?](https://www.reddit.com/r/androiddev/comments/11uscxf/how_to_handle_a_threat_of_lawsuit_due_to_an/)
-- [Open Source ChatGPT app with Ktor server](https://www.reddit.com/r/androiddev/comments/11ur5tw/open_source_chatgpt_app_with_ktor_server/)
-- [I just finished building my first &quot;full&quot; android app!!](https://www.reddit.com/r/androiddev/comments/11uqg12/i_just_finished_building_my_first_full_android_app/)
-- [My first application!](https://www.reddit.com/r/androiddev/comments/11upu1i/my_first_application/)
+- [Typing on a Tiny Screen - How to implement user input for Android Wear OS](https://www.reddit.com/r/androiddev/comments/11w481n/typing_on_a_tiny_screen_how_to_implement_user/)
+- [Finally got a SQLite database to work properly!](https://www.reddit.com/r/androiddev/comments/11w212v/finally_got_a_sqlite_database_to_work_properly/)
+- [I&#39;ve worked for over a month on this app and can&#39;t get past this problem com.android.tools.build:gradle:8.0.1 not found](https://www.reddit.com/r/androiddev/comments/11vz6bx/ive_worked_for_over_a_month_on_this_app_and_cant/)
+- [Can anyone evaluate my idea? Potential issues and viability](https://www.reddit.com/r/androiddev/comments/11vvd72/can_anyone_evaluate_my_idea_potential_issues_and/)
+- [More Visibility and Downloads](https://www.reddit.com/r/androiddev/comments/11vrx1h/more_visibility_and_downloads/)
+- [What is the best way to synchronize data between devices?](https://www.reddit.com/r/androiddev/comments/11vrk3y/what_is_the_best_way_to_synchronize_data_between/)
+- [UI Chronicles - Reducing the number of dialogs in Notally](https://www.reddit.com/r/androiddev/comments/11von84/ui_chronicles_reducing_the_number_of_dialogs_in/)
+- [MVVM compose architecture advise](https://www.reddit.com/r/androiddev/comments/11vo29v/mvvm_compose_architecture_advise/)
+- [How to know about all important policy changes for Play Console.](https://www.reddit.com/r/androiddev/comments/11vnsai/how_to_know_about_all_important_policy_changes/)
+- [How To Remove Android Old Database Migration Code](https://www.reddit.com/r/androiddev/comments/11vkz5g/how_to_remove_android_old_database_migration_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
