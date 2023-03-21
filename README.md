@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Typing on a Tiny Screen - How to implement user input for Android Wear OS](https://www.reddit.com/r/androiddev/comments/11w481n/typing_on_a_tiny_screen_how_to_implement_user/)
-- [Finally got a SQLite database to work properly!](https://www.reddit.com/r/androiddev/comments/11w212v/finally_got_a_sqlite_database_to_work_properly/)
-- [I&#39;ve worked for over a month on this app and can&#39;t get past this problem com.android.tools.build:gradle:8.0.1 not found](https://www.reddit.com/r/androiddev/comments/11vz6bx/ive_worked_for_over_a_month_on_this_app_and_cant/)
-- [Can anyone evaluate my idea? Potential issues and viability](https://www.reddit.com/r/androiddev/comments/11vvd72/can_anyone_evaluate_my_idea_potential_issues_and/)
-- [More Visibility and Downloads](https://www.reddit.com/r/androiddev/comments/11vrx1h/more_visibility_and_downloads/)
-- [What is the best way to synchronize data between devices?](https://www.reddit.com/r/androiddev/comments/11vrk3y/what_is_the_best_way_to_synchronize_data_between/)
-- [UI Chronicles - Reducing the number of dialogs in Notally](https://www.reddit.com/r/androiddev/comments/11von84/ui_chronicles_reducing_the_number_of_dialogs_in/)
-- [MVVM compose architecture advise](https://www.reddit.com/r/androiddev/comments/11vo29v/mvvm_compose_architecture_advise/)
-- [How to know about all important policy changes for Play Console.](https://www.reddit.com/r/androiddev/comments/11vnsai/how_to_know_about_all_important_policy_changes/)
-- [How To Remove Android Old Database Migration Code](https://www.reddit.com/r/androiddev/comments/11vkz5g/how_to_remove_android_old_database_migration_code/)
+- [Instagram Link sticker not redirect to app](https://www.reddit.com/r/androiddev/comments/11x30n3/instagram_link_sticker_not_redirect_to_app/)
+- [Question for Android Devs working in Australia/NZ - What’s it like working in Europe?](https://www.reddit.com/r/androiddev/comments/11x1lmm/question_for_android_devs_working_in_australianz/)
+- [How do you Implement Google Photos Recycle Bin](https://www.reddit.com/r/androiddev/comments/11x0ekt/how_do_you_implement_google_photos_recycle_bin/)
+- [Doing forensics from back end data I pulled -- how do I convert android device ID back to 64 character hex string?](https://www.reddit.com/r/androiddev/comments/11x036s/doing_forensics_from_back_end_data_i_pulled_how/)
+- [Manage state on the app level](https://www.reddit.com/r/androiddev/comments/11wzral/manage_state_on_the_app_level/)
+- [Where do you search for Remote jobs?](https://www.reddit.com/r/androiddev/comments/11wyeij/where_do_you_search_for_remote_jobs/)
+- [TikTok Scrolling Type](https://www.reddit.com/r/androiddev/comments/11wv3nr/tiktok_scrolling_type/)
+- [MBPRO 2019,64gb ram vs MBPRO M2pro 2023?](https://www.reddit.com/r/androiddev/comments/11wtzse/mbpro_201964gb_ram_vs_mbpro_m2pro_2023/)
+- [Is it enough to learn compose only?](https://www.reddit.com/r/androiddev/comments/11wt49c/is_it_enough_to_learn_compose_only/)
+- [Google Play Developer Console Revenue Data not updated since 14 March?!](https://www.reddit.com/r/androiddev/comments/11wskau/google_play_developer_console_revenue_data_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
