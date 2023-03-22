@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Instagram Link sticker not redirect to app](https://www.reddit.com/r/androiddev/comments/11x30n3/instagram_link_sticker_not_redirect_to_app/)
-- [Question for Android Devs working in Australia/NZ - What’s it like working in Europe?](https://www.reddit.com/r/androiddev/comments/11x1lmm/question_for_android_devs_working_in_australianz/)
-- [How do you Implement Google Photos Recycle Bin](https://www.reddit.com/r/androiddev/comments/11x0ekt/how_do_you_implement_google_photos_recycle_bin/)
-- [Doing forensics from back end data I pulled -- how do I convert android device ID back to 64 character hex string?](https://www.reddit.com/r/androiddev/comments/11x036s/doing_forensics_from_back_end_data_i_pulled_how/)
-- [Manage state on the app level](https://www.reddit.com/r/androiddev/comments/11wzral/manage_state_on_the_app_level/)
-- [Where do you search for Remote jobs?](https://www.reddit.com/r/androiddev/comments/11wyeij/where_do_you_search_for_remote_jobs/)
-- [TikTok Scrolling Type](https://www.reddit.com/r/androiddev/comments/11wv3nr/tiktok_scrolling_type/)
-- [MBPRO 2019,64gb ram vs MBPRO M2pro 2023?](https://www.reddit.com/r/androiddev/comments/11wtzse/mbpro_201964gb_ram_vs_mbpro_m2pro_2023/)
-- [Is it enough to learn compose only?](https://www.reddit.com/r/androiddev/comments/11wt49c/is_it_enough_to_learn_compose_only/)
-- [Google Play Developer Console Revenue Data not updated since 14 March?!](https://www.reddit.com/r/androiddev/comments/11wskau/google_play_developer_console_revenue_data_not/)
+- [ChatGPT for Android](https://www.reddit.com/r/androiddev/comments/11xzr01/chatgpt_for_android/)
+- [The 500 don&#39;ts about Android Development](https://www.reddit.com/r/androiddev/comments/11xzpkw/the_500_donts_about_android_development/)
+- [What are the most common or annoying Android development mistakes you see?](https://www.reddit.com/r/androiddev/comments/11xxn6v/what_are_the_most_common_or_annoying_android/)
+- [How would you promote this SaaS if you were our CMO?](https://www.reddit.com/r/androiddev/comments/11xxhxe/how_would_you_promote_this_saas_if_you_were_our/)
+- [is it worth it to change Admob for IronSource?](https://www.reddit.com/r/androiddev/comments/11xur6u/is_it_worth_it_to_change_admob_for_ironsource/)
+- [Why I can&#39;t eject my Galaxy S8 form my window PC while nothing is working on background I have installed adb but I don&#39;t run it in background](https://www.reddit.com/r/androiddev/comments/11xtocf/why_i_cant_eject_my_galaxy_s8_form_my_window_pc/)
+- [What is this notification? &lpar;Its not tinder&rpar;](https://www.reddit.com/r/androiddev/comments/11xt6a7/what_is_this_notification_its_not_tinder/)
+- [What would you do in this situation?](https://www.reddit.com/r/androiddev/comments/11xr49x/what_would_you_do_in_this_situation/)
+- [Best way to use Android Phone with USB Hub[3.0 w/power] and HDD](https://www.reddit.com/r/androiddev/comments/11xouhp/best_way_to_use_android_phone_with_usb_hub30/)
+- [I need help](https://www.reddit.com/r/androiddev/comments/11xokvx/i_need_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
