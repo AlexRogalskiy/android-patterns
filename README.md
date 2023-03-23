@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ChatGPT for Android](https://www.reddit.com/r/androiddev/comments/11xzr01/chatgpt_for_android/)
-- [The 500 don&#39;ts about Android Development](https://www.reddit.com/r/androiddev/comments/11xzpkw/the_500_donts_about_android_development/)
-- [What are the most common or annoying Android development mistakes you see?](https://www.reddit.com/r/androiddev/comments/11xxn6v/what_are_the_most_common_or_annoying_android/)
-- [How would you promote this SaaS if you were our CMO?](https://www.reddit.com/r/androiddev/comments/11xxhxe/how_would_you_promote_this_saas_if_you_were_our/)
-- [is it worth it to change Admob for IronSource?](https://www.reddit.com/r/androiddev/comments/11xur6u/is_it_worth_it_to_change_admob_for_ironsource/)
-- [Why I can&#39;t eject my Galaxy S8 form my window PC while nothing is working on background I have installed adb but I don&#39;t run it in background](https://www.reddit.com/r/androiddev/comments/11xtocf/why_i_cant_eject_my_galaxy_s8_form_my_window_pc/)
-- [What is this notification? &lpar;Its not tinder&rpar;](https://www.reddit.com/r/androiddev/comments/11xt6a7/what_is_this_notification_its_not_tinder/)
-- [What would you do in this situation?](https://www.reddit.com/r/androiddev/comments/11xr49x/what_would_you_do_in_this_situation/)
-- [Best way to use Android Phone with USB Hub[3.0 w/power] and HDD](https://www.reddit.com/r/androiddev/comments/11xouhp/best_way_to_use_android_phone_with_usb_hub30/)
-- [I need help](https://www.reddit.com/r/androiddev/comments/11xokvx/i_need_help/)
+- [Discord android kotlin support group](https://www.reddit.com/r/androiddev/comments/11z2a6d/discord_android_kotlin_support_group/)
+- [A collection of quirks around releasing apps to Play Store &lpar;and App Store&rpar;](https://www.reddit.com/r/androiddev/comments/11ytm4i/a_collection_of_quirks_around_releasing_apps_to/)
+- [Android Developers Blog: What’s new in the Jetpack Compose March ’23 release](https://www.reddit.com/r/androiddev/comments/11ytjey/android_developers_blog_whats_new_in_the_jetpack/)
+- [I need to retrieve RCS messages on Samsung Galaxy phone](https://www.reddit.com/r/androiddev/comments/11yt87c/i_need_to_retrieve_rcs_messages_on_samsung_galaxy/)
+- [Permission Handling architecture in compose](https://www.reddit.com/r/androiddev/comments/11yowgq/permission_handling_architecture_in_compose/)
+- [Can anyone recommend a good cheap samsung phone which I can use for development &amp; testing?](https://www.reddit.com/r/androiddev/comments/11yo7ca/can_anyone_recommend_a_good_cheap_samsung_phone/)
+- [Should I get a whole new device + account for Android development? Are there guides on how to keep your personal account separate from business? Is it even necessary?](https://www.reddit.com/r/androiddev/comments/11ymn4r/should_i_get_a_whole_new_device_account_for/)
+- [GitHub - slackhq/circuit: ⚡️ A Compose-driven architecture for Kotlin and Android applications.](https://www.reddit.com/r/androiddev/comments/11ymlox/github_slackhqcircuit_a_composedriven/)
+- [Is it even possible to modify / patch system level code with Magisk?](https://www.reddit.com/r/androiddev/comments/11ymgy6/is_it_even_possible_to_modify_patch_system_level/)
+- [Can I make my current public app private and will it mess up what I already have deployed?](https://www.reddit.com/r/androiddev/comments/11yl66f/can_i_make_my_current_public_app_private_and_will/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
