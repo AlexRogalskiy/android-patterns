@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Discord android kotlin support group](https://www.reddit.com/r/androiddev/comments/11z2a6d/discord_android_kotlin_support_group/)
-- [A collection of quirks around releasing apps to Play Store &lpar;and App Store&rpar;](https://www.reddit.com/r/androiddev/comments/11ytm4i/a_collection_of_quirks_around_releasing_apps_to/)
-- [Android Developers Blog: What’s new in the Jetpack Compose March ’23 release](https://www.reddit.com/r/androiddev/comments/11ytjey/android_developers_blog_whats_new_in_the_jetpack/)
-- [I need to retrieve RCS messages on Samsung Galaxy phone](https://www.reddit.com/r/androiddev/comments/11yt87c/i_need_to_retrieve_rcs_messages_on_samsung_galaxy/)
-- [Permission Handling architecture in compose](https://www.reddit.com/r/androiddev/comments/11yowgq/permission_handling_architecture_in_compose/)
-- [Can anyone recommend a good cheap samsung phone which I can use for development &amp; testing?](https://www.reddit.com/r/androiddev/comments/11yo7ca/can_anyone_recommend_a_good_cheap_samsung_phone/)
-- [Should I get a whole new device + account for Android development? Are there guides on how to keep your personal account separate from business? Is it even necessary?](https://www.reddit.com/r/androiddev/comments/11ymn4r/should_i_get_a_whole_new_device_account_for/)
-- [GitHub - slackhq/circuit: ⚡️ A Compose-driven architecture for Kotlin and Android applications.](https://www.reddit.com/r/androiddev/comments/11ymlox/github_slackhqcircuit_a_composedriven/)
-- [Is it even possible to modify / patch system level code with Magisk?](https://www.reddit.com/r/androiddev/comments/11ymgy6/is_it_even_possible_to_modify_patch_system_level/)
-- [Can I make my current public app private and will it mess up what I already have deployed?](https://www.reddit.com/r/androiddev/comments/11yl66f/can_i_make_my_current_public_app_private_and_will/)
+- [Logical thinking in android development](https://www.reddit.com/r/androiddev/comments/1203qdm/logical_thinking_in_android_development/)
+- [about the precision of device location on android. how to do better?](https://www.reddit.com/r/androiddev/comments/11zzvko/about_the_precision_of_device_location_on_android/)
+- [Android Dev Newsletter - Issue #26](https://www.reddit.com/r/androiddev/comments/11zz6kh/android_dev_newsletter_issue_26/)
+- [What feature would you prefer to automate with AI in your daily work?](https://www.reddit.com/r/androiddev/comments/11zyv9u/what_feature_would_you_prefer_to_automate_with_ai/)
+- [Best way to build a Fat AAR?](https://www.reddit.com/r/androiddev/comments/11zw9y7/best_way_to_build_a_fat_aar/)
+- [Code with the Italians - Jetpack Compose Text Hyphenation and more](https://www.reddit.com/r/androiddev/comments/11zvr1h/code_with_the_italians_jetpack_compose_text/)
+- [Problem with qualifiers in layout](https://www.reddit.com/r/androiddev/comments/11zttod/problem_with_qualifiers_in_layout/)
+- [How to build a time picker with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/11ztsp0/how_to_build_a_time_picker_with_jetpack_compose/)
+- [Anyone else stuck waiting on the account transfer process to go through?](https://www.reddit.com/r/androiddev/comments/11zqf64/anyone_else_stuck_waiting_on_the_account_transfer/)
+- [The right place for `MediaCodec` in `MVVM`](https://www.reddit.com/r/androiddev/comments/11zpqpb/the_right_place_for_mediacodec_in_mvvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
