@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Logical thinking in android development](https://www.reddit.com/r/androiddev/comments/1203qdm/logical_thinking_in_android_development/)
-- [about the precision of device location on android. how to do better?](https://www.reddit.com/r/androiddev/comments/11zzvko/about_the_precision_of_device_location_on_android/)
-- [Android Dev Newsletter - Issue #26](https://www.reddit.com/r/androiddev/comments/11zz6kh/android_dev_newsletter_issue_26/)
-- [What feature would you prefer to automate with AI in your daily work?](https://www.reddit.com/r/androiddev/comments/11zyv9u/what_feature_would_you_prefer_to_automate_with_ai/)
-- [Best way to build a Fat AAR?](https://www.reddit.com/r/androiddev/comments/11zw9y7/best_way_to_build_a_fat_aar/)
-- [Code with the Italians - Jetpack Compose Text Hyphenation and more](https://www.reddit.com/r/androiddev/comments/11zvr1h/code_with_the_italians_jetpack_compose_text/)
-- [Problem with qualifiers in layout](https://www.reddit.com/r/androiddev/comments/11zttod/problem_with_qualifiers_in_layout/)
-- [How to build a time picker with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/11ztsp0/how_to_build_a_time_picker_with_jetpack_compose/)
-- [Anyone else stuck waiting on the account transfer process to go through?](https://www.reddit.com/r/androiddev/comments/11zqf64/anyone_else_stuck_waiting_on_the_account_transfer/)
-- [The right place for `MediaCodec` in `MVVM`](https://www.reddit.com/r/androiddev/comments/11zpqpb/the_right_place_for_mediacodec_in_mvvm/)
+- [What app is the b associated with?](https://www.reddit.com/r/androiddev/comments/1213roq/what_app_is_the_b_associated_with/)
+- [Google Play doesn&#39;t support in-app sales discounts?!](https://www.reddit.com/r/androiddev/comments/1211vnh/google_play_doesnt_support_inapp_sales_discounts/)
+- [Is it possible to develop an app which displays a live stream feed and how do you do it?](https://www.reddit.com/r/androiddev/comments/1211o4b/is_it_possible_to_develop_an_app_which_displays_a/)
+- [Take multiple pictures with camera?](https://www.reddit.com/r/androiddev/comments/1211j1c/take_multiple_pictures_with_camera/)
+- [Is it worth doing Leetcode to prepare for future Android interviews?](https://www.reddit.com/r/androiddev/comments/120zv5g/is_it_worth_doing_leetcode_to_prepare_for_future/)
+- [Are companies spoiled for choice right now?](https://www.reddit.com/r/androiddev/comments/120ukmw/are_companies_spoiled_for_choice_right_now/)
+- [How to install android 6 on android 5.5.1 device?](https://www.reddit.com/r/androiddev/comments/120udav/how_to_install_android_6_on_android_551_device/)
+- [Carguessr / The Higher Lower Game](https://www.reddit.com/r/androiddev/comments/120ttzz/carguessr_the_higher_lower_game/)
+- [Android CI/CD part 2: Building and pushing to Play Store in GitHub Actions](https://www.reddit.com/r/androiddev/comments/120nuk4/android_cicd_part_2_building_and_pushing_to_play/)
+- [IP of the client through USB tethering](https://www.reddit.com/r/androiddev/comments/120n5u3/ip_of_the_client_through_usb_tethering/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
