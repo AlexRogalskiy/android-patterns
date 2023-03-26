@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What app is the b associated with?](https://www.reddit.com/r/androiddev/comments/1213roq/what_app_is_the_b_associated_with/)
+- [Why is it that a lot of apps don&#39;t want to use the system media picker?](https://www.reddit.com/r/androiddev/comments/1220w3e/why_is_it_that_a_lot_of_apps_dont_want_to_use_the/)
+- [Flutter has disadvantages while Scaling it ??](https://www.reddit.com/r/androiddev/comments/121vu05/flutter_has_disadvantages_while_scaling_it/)
+- [From Dagger &amp; Hilt into the multiplatform world with kotlin-inject](https://www.reddit.com/r/androiddev/comments/121ut9v/from_dagger_hilt_into_the_multiplatform_world/)
+- [What is PokerStars using for their animations and UI?](https://www.reddit.com/r/androiddev/comments/121qv8j/what_is_pokerstars_using_for_their_animations_and/)
+- [CSV with country name, currency symbol and code](https://www.reddit.com/r/androiddev/comments/121lpy3/csv_with_country_name_currency_symbol_and_code/)
+- [Is it possible to get downloads in play store without marketing the app ?](https://www.reddit.com/r/androiddev/comments/121lfai/is_it_possible_to_get_downloads_in_play_store/)
+- [Is Jetpack Compose/Flutter way of building UI really better than xml](https://www.reddit.com/r/androiddev/comments/121g90o/is_jetpack_composeflutter_way_of_building_ui/)
+- [Continuous Policy Violations on Meta Audience Network](https://www.reddit.com/r/androiddev/comments/121ezwj/continuous_policy_violations_on_meta_audience/)
 - [Google Play doesn&#39;t support in-app sales discounts?!](https://www.reddit.com/r/androiddev/comments/1211vnh/google_play_doesnt_support_inapp_sales_discounts/)
 - [Is it possible to develop an app which displays a live stream feed and how do you do it?](https://www.reddit.com/r/androiddev/comments/1211o4b/is_it_possible_to_develop_an_app_which_displays_a/)
-- [Take multiple pictures with camera?](https://www.reddit.com/r/androiddev/comments/1211j1c/take_multiple_pictures_with_camera/)
-- [Is it worth doing Leetcode to prepare for future Android interviews?](https://www.reddit.com/r/androiddev/comments/120zv5g/is_it_worth_doing_leetcode_to_prepare_for_future/)
-- [Are companies spoiled for choice right now?](https://www.reddit.com/r/androiddev/comments/120ukmw/are_companies_spoiled_for_choice_right_now/)
-- [How to install android 6 on android 5.5.1 device?](https://www.reddit.com/r/androiddev/comments/120udav/how_to_install_android_6_on_android_551_device/)
-- [Carguessr / The Higher Lower Game](https://www.reddit.com/r/androiddev/comments/120ttzz/carguessr_the_higher_lower_game/)
-- [Android CI/CD part 2: Building and pushing to Play Store in GitHub Actions](https://www.reddit.com/r/androiddev/comments/120nuk4/android_cicd_part_2_building_and_pushing_to_play/)
-- [IP of the client through USB tethering](https://www.reddit.com/r/androiddev/comments/120n5u3/ip_of_the_client_through_usb_tethering/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
