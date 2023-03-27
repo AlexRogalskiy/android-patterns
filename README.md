@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why is it that a lot of apps don&#39;t want to use the system media picker?](https://www.reddit.com/r/androiddev/comments/1220w3e/why_is_it_that_a_lot_of_apps_dont_want_to_use_the/)
-- [Flutter has disadvantages while Scaling it ??](https://www.reddit.com/r/androiddev/comments/121vu05/flutter_has_disadvantages_while_scaling_it/)
-- [From Dagger &amp; Hilt into the multiplatform world with kotlin-inject](https://www.reddit.com/r/androiddev/comments/121ut9v/from_dagger_hilt_into_the_multiplatform_world/)
-- [What is PokerStars using for their animations and UI?](https://www.reddit.com/r/androiddev/comments/121qv8j/what_is_pokerstars_using_for_their_animations_and/)
-- [CSV with country name, currency symbol and code](https://www.reddit.com/r/androiddev/comments/121lpy3/csv_with_country_name_currency_symbol_and_code/)
-- [Is it possible to get downloads in play store without marketing the app ?](https://www.reddit.com/r/androiddev/comments/121lfai/is_it_possible_to_get_downloads_in_play_store/)
-- [Is Jetpack Compose/Flutter way of building UI really better than xml](https://www.reddit.com/r/androiddev/comments/121g90o/is_jetpack_composeflutter_way_of_building_ui/)
-- [Continuous Policy Violations on Meta Audience Network](https://www.reddit.com/r/androiddev/comments/121ezwj/continuous_policy_violations_on_meta_audience/)
-- [Google Play doesn&#39;t support in-app sales discounts?!](https://www.reddit.com/r/androiddev/comments/1211vnh/google_play_doesnt_support_inapp_sales_discounts/)
-- [Is it possible to develop an app which displays a live stream feed and how do you do it?](https://www.reddit.com/r/androiddev/comments/1211o4b/is_it_possible_to_develop_an_app_which_displays_a/)
+- [qst about dev an app that calculate GPA](https://www.reddit.com/r/androiddev/comments/12339hc/qst_about_dev_an_app_that_calculate_gpa/)
+- [HELP ME START AN ACTIVITY OF AN APP WHICH MAY CURRENTLY NOT BE RUNNING VIA SHAKING THE PHONE.](https://www.reddit.com/r/androiddev/comments/1232ao2/help_me_start_an_activity_of_an_app_which_may/)
+- [Manifest file doesn&#39;t include AD_ID permission Play Console](https://www.reddit.com/r/androiddev/comments/122wa4y/manifest_file_doesnt_include_ad_id_permission/)
+- [Multilayered nested Databases. Noobie Question.](https://www.reddit.com/r/androiddev/comments/122w89r/multilayered_nested_databases_noobie_question/)
+- [Are you a full-stack Kotlin dev?](https://www.reddit.com/r/androiddev/comments/122w4wq/are_you_a_fullstack_kotlin_dev/)
+- [What&#39;s the concept behind this animation?](https://www.reddit.com/r/androiddev/comments/122vn1a/whats_the_concept_behind_this_animation/)
+- [Background wifi login app](https://www.reddit.com/r/androiddev/comments/122vkl0/background_wifi_login_app/)
+- [How to optimise loading gallery data efficiently?](https://www.reddit.com/r/androiddev/comments/122r3yb/how_to_optimise_loading_gallery_data_efficiently/)
+- [XML String referencing, differences between internal and external DTD entities and XXE attack vulnerabilities.](https://www.reddit.com/r/androiddev/comments/122pxjy/xml_string_referencing_differences_between/)
+- [Why do bluetooth devices need Phone Calls enabled in order to show battery percentage?](https://www.reddit.com/r/androiddev/comments/122px6p/why_do_bluetooth_devices_need_phone_calls_enabled/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
