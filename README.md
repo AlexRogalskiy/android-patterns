@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [qst about dev an app that calculate GPA](https://www.reddit.com/r/androiddev/comments/12339hc/qst_about_dev_an_app_that_calculate_gpa/)
-- [HELP ME START AN ACTIVITY OF AN APP WHICH MAY CURRENTLY NOT BE RUNNING VIA SHAKING THE PHONE.](https://www.reddit.com/r/androiddev/comments/1232ao2/help_me_start_an_activity_of_an_app_which_may/)
-- [Manifest file doesn&#39;t include AD_ID permission Play Console](https://www.reddit.com/r/androiddev/comments/122wa4y/manifest_file_doesnt_include_ad_id_permission/)
-- [Multilayered nested Databases. Noobie Question.](https://www.reddit.com/r/androiddev/comments/122w89r/multilayered_nested_databases_noobie_question/)
-- [Are you a full-stack Kotlin dev?](https://www.reddit.com/r/androiddev/comments/122w4wq/are_you_a_fullstack_kotlin_dev/)
-- [What&#39;s the concept behind this animation?](https://www.reddit.com/r/androiddev/comments/122vn1a/whats_the_concept_behind_this_animation/)
-- [Background wifi login app](https://www.reddit.com/r/androiddev/comments/122vkl0/background_wifi_login_app/)
-- [How to optimise loading gallery data efficiently?](https://www.reddit.com/r/androiddev/comments/122r3yb/how_to_optimise_loading_gallery_data_efficiently/)
-- [XML String referencing, differences between internal and external DTD entities and XXE attack vulnerabilities.](https://www.reddit.com/r/androiddev/comments/122pxjy/xml_string_referencing_differences_between/)
-- [Why do bluetooth devices need Phone Calls enabled in order to show battery percentage?](https://www.reddit.com/r/androiddev/comments/122px6p/why_do_bluetooth_devices_need_phone_calls_enabled/)
+- [Github lib](https://www.reddit.com/r/androiddev/comments/1245ls6/github_lib/)
+- [Android apps prelaunch testing and wear OS](https://www.reddit.com/r/androiddev/comments/12448tr/android_apps_prelaunch_testing_and_wear_os/)
+- [How can i create a room database for nested classes?](https://www.reddit.com/r/androiddev/comments/12420b5/how_can_i_create_a_room_database_for_nested/)
+- [Android Studio Flamingo RC 1 now available](https://www.reddit.com/r/androiddev/comments/12406qn/android_studio_flamingo_rc_1_now_available/)
+- [Why set up android as a nightmare?](https://www.reddit.com/r/androiddev/comments/123y62i/why_set_up_android_as_a_nightmare/)
+- [Does anyone know what is the correct usage of the new setFragmentResultListener?](https://www.reddit.com/r/androiddev/comments/123wxkz/does_anyone_know_what_is_the_correct_usage_of_the/)
+- [Hey everyone!](https://www.reddit.com/r/androiddev/comments/123w6oj/hey_everyone/)
+- [Integrating storybook into Jetpack Compose App](https://www.reddit.com/r/androiddev/comments/123v969/integrating_storybook_into_jetpack_compose_app/)
+- [Does new app features affect the app category you assigned to the app?](https://www.reddit.com/r/androiddev/comments/123usre/does_new_app_features_affect_the_app_category_you/)
+- [Programmatically sound a horn from my app](https://www.reddit.com/r/androiddev/comments/123s05z/programmatically_sound_a_horn_from_my_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
