@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Github lib](https://www.reddit.com/r/androiddev/comments/1245ls6/github_lib/)
-- [Android apps prelaunch testing and wear OS](https://www.reddit.com/r/androiddev/comments/12448tr/android_apps_prelaunch_testing_and_wear_os/)
-- [How can i create a room database for nested classes?](https://www.reddit.com/r/androiddev/comments/12420b5/how_can_i_create_a_room_database_for_nested/)
-- [Android Studio Flamingo RC 1 now available](https://www.reddit.com/r/androiddev/comments/12406qn/android_studio_flamingo_rc_1_now_available/)
-- [Why set up android as a nightmare?](https://www.reddit.com/r/androiddev/comments/123y62i/why_set_up_android_as_a_nightmare/)
-- [Does anyone know what is the correct usage of the new setFragmentResultListener?](https://www.reddit.com/r/androiddev/comments/123wxkz/does_anyone_know_what_is_the_correct_usage_of_the/)
-- [Hey everyone!](https://www.reddit.com/r/androiddev/comments/123w6oj/hey_everyone/)
-- [Integrating storybook into Jetpack Compose App](https://www.reddit.com/r/androiddev/comments/123v969/integrating_storybook_into_jetpack_compose_app/)
-- [Does new app features affect the app category you assigned to the app?](https://www.reddit.com/r/androiddev/comments/123usre/does_new_app_features_affect_the_app_category_you/)
-- [Programmatically sound a horn from my app](https://www.reddit.com/r/androiddev/comments/123s05z/programmatically_sound_a_horn_from_my_app/)
+- [Need urgent help with Data recovery](https://www.reddit.com/r/androiddev/comments/1258c5q/need_urgent_help_with_data_recovery/)
+- [Minesweepers using Compose Multiplatform for Android, iOS and Desktop](https://www.reddit.com/r/androiddev/comments/12551aw/minesweepers_using_compose_multiplatform_for/)
+- [How to implement car distance tracking and boundary checking in my app without costly libraries?](https://www.reddit.com/r/androiddev/comments/1254mf6/how_to_implement_car_distance_tracking_and/)
+- [In Android 13 OS, how to disable missed phone calls notifications in the locked-screen and also in the pull-down panel section while the phone is in DoNotDisturb mode?](https://www.reddit.com/r/androiddev/comments/1254egi/in_android_13_os_how_to_disable_missed_phone/)
+- [Where can I find the .icns file for the Emulator in my files?](https://www.reddit.com/r/androiddev/comments/1252qce/where_can_i_find_the_icns_file_for_the_emulator/)
+- [KMM + Jetpack compose](https://www.reddit.com/r/androiddev/comments/124zgdg/kmm_jetpack_compose/)
+- [Newbie - Locked App Tablet w/ ARM CPU](https://www.reddit.com/r/androiddev/comments/124xiui/newbie_locked_app_tablet_w_arm_cpu/)
+- [30 ideas to reduce your Android App Startup times](https://www.reddit.com/r/androiddev/comments/124wjg3/30_ideas_to_reduce_your_android_app_startup_times/)
+- [on EMULATOR its working fine. but on actual device after selecting an image in storage using photo picker its working fine but when i open again the activity it is not displaying and i think the path is not the problem because i already tested it &lpar;2nd image&rpar;](https://www.reddit.com/r/androiddev/comments/124w7i7/on_emulator_its_working_fine_but_on_actual_device/)
+- [Published my first ever Android library!](https://www.reddit.com/r/androiddev/comments/124up8p/published_my_first_ever_android_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
