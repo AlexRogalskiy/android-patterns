@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need urgent help with Data recovery](https://www.reddit.com/r/androiddev/comments/1258c5q/need_urgent_help_with_data_recovery/)
-- [Minesweepers using Compose Multiplatform for Android, iOS and Desktop](https://www.reddit.com/r/androiddev/comments/12551aw/minesweepers_using_compose_multiplatform_for/)
-- [How to implement car distance tracking and boundary checking in my app without costly libraries?](https://www.reddit.com/r/androiddev/comments/1254mf6/how_to_implement_car_distance_tracking_and/)
-- [In Android 13 OS, how to disable missed phone calls notifications in the locked-screen and also in the pull-down panel section while the phone is in DoNotDisturb mode?](https://www.reddit.com/r/androiddev/comments/1254egi/in_android_13_os_how_to_disable_missed_phone/)
-- [Where can I find the .icns file for the Emulator in my files?](https://www.reddit.com/r/androiddev/comments/1252qce/where_can_i_find_the_icns_file_for_the_emulator/)
-- [KMM + Jetpack compose](https://www.reddit.com/r/androiddev/comments/124zgdg/kmm_jetpack_compose/)
-- [Newbie - Locked App Tablet w/ ARM CPU](https://www.reddit.com/r/androiddev/comments/124xiui/newbie_locked_app_tablet_w_arm_cpu/)
-- [30 ideas to reduce your Android App Startup times](https://www.reddit.com/r/androiddev/comments/124wjg3/30_ideas_to_reduce_your_android_app_startup_times/)
-- [on EMULATOR its working fine. but on actual device after selecting an image in storage using photo picker its working fine but when i open again the activity it is not displaying and i think the path is not the problem because i already tested it &lpar;2nd image&rpar;](https://www.reddit.com/r/androiddev/comments/124w7i7/on_emulator_its_working_fine_but_on_actual_device/)
-- [Published my first ever Android library!](https://www.reddit.com/r/androiddev/comments/124up8p/published_my_first_ever_android_library/)
+- [when can upgrade to Android 14 beta?](https://www.reddit.com/r/androiddev/comments/1266ii4/when_can_upgrade_to_android_14_beta/)
+- [Gltf resizing](https://www.reddit.com/r/androiddev/comments/1264znq/gltf_resizing/)
+- [Best way of testing on exotic&lpar;ish&rpar; OSs?](https://www.reddit.com/r/androiddev/comments/1261tvh/best_way_of_testing_on_exoticish_oss/)
+- [Collage layouts](https://www.reddit.com/r/androiddev/comments/125za1j/collage_layouts/)
+- [How can I see what % of my project is written in Kotlin vs Java?](https://www.reddit.com/r/androiddev/comments/125vq9w/how_can_i_see_what_of_my_project_is_written_in/)
+- [My first Jetpack Compose project. I&#39;m still learning and eager for feedback on my architecture. if you have any tips or suggestions on how to structure my code better, please let me know.](https://www.reddit.com/r/androiddev/comments/125ur3u/my_first_jetpack_compose_project_im_still/)
+- [IntelliJ IDEA 2023.1 Is Out!](https://www.reddit.com/r/androiddev/comments/125uef0/intellij_idea_20231_is_out/)
+- [Screen recorders don&#39;t need any specific permissions to work?](https://www.reddit.com/r/androiddev/comments/125tipt/screen_recorders_dont_need_any_specific/)
+- [Is sharing one ViewModel between fragments is considered as a good practice?](https://www.reddit.com/r/androiddev/comments/125t12n/is_sharing_one_viewmodel_between_fragments_is/)
+- [Compose Semantics Strange interactions](https://www.reddit.com/r/androiddev/comments/125rvbo/compose_semantics_strange_interactions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
