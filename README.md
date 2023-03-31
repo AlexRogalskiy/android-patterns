@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [when can upgrade to Android 14 beta?](https://www.reddit.com/r/androiddev/comments/1266ii4/when_can_upgrade_to_android_14_beta/)
-- [Gltf resizing](https://www.reddit.com/r/androiddev/comments/1264znq/gltf_resizing/)
-- [Best way of testing on exotic&lpar;ish&rpar; OSs?](https://www.reddit.com/r/androiddev/comments/1261tvh/best_way_of_testing_on_exoticish_oss/)
-- [Collage layouts](https://www.reddit.com/r/androiddev/comments/125za1j/collage_layouts/)
-- [How can I see what % of my project is written in Kotlin vs Java?](https://www.reddit.com/r/androiddev/comments/125vq9w/how_can_i_see_what_of_my_project_is_written_in/)
-- [My first Jetpack Compose project. I&#39;m still learning and eager for feedback on my architecture. if you have any tips or suggestions on how to structure my code better, please let me know.](https://www.reddit.com/r/androiddev/comments/125ur3u/my_first_jetpack_compose_project_im_still/)
-- [IntelliJ IDEA 2023.1 Is Out!](https://www.reddit.com/r/androiddev/comments/125uef0/intellij_idea_20231_is_out/)
-- [Screen recorders don&#39;t need any specific permissions to work?](https://www.reddit.com/r/androiddev/comments/125tipt/screen_recorders_dont_need_any_specific/)
-- [Is sharing one ViewModel between fragments is considered as a good practice?](https://www.reddit.com/r/androiddev/comments/125t12n/is_sharing_one_viewmodel_between_fragments_is/)
-- [Compose Semantics Strange interactions](https://www.reddit.com/r/androiddev/comments/125rvbo/compose_semantics_strange_interactions/)
+- [Which tasks would you prefer to automate with AI in the mobile development and DevOps process?](https://www.reddit.com/r/androiddev/comments/1273xql/which_tasks_would_you_prefer_to_automate_with_ai/)
+- [Server for Externally hosted private apps](https://www.reddit.com/r/androiddev/comments/1273g36/server_for_externally_hosted_private_apps/)
+- [CWTI - Mind-Blowing 3D Magic with Romain Guy: Filament Deep Dive &amp; Android Integration](https://www.reddit.com/r/androiddev/comments/126zmun/cwti_mindblowing_3d_magic_with_romain_guy/)
+- [Underground Map Application](https://www.reddit.com/r/androiddev/comments/126yl7a/underground_map_application/)
+- [Looking for medium-large sized, open source projects like Pocket Castsand Firefox with communication channels.](https://www.reddit.com/r/androiddev/comments/126v19p/looking_for_mediumlarge_sized_open_source/)
+- [Security question - Oneplus 9 CH edition](https://www.reddit.com/r/androiddev/comments/126sus1/security_question_oneplus_9_ch_edition/)
+- [Android Studio Giraffe Canary 11 now available](https://www.reddit.com/r/androiddev/comments/126st1x/android_studio_giraffe_canary_11_now_available/)
+- [Afraid of publishing apps on Play Store](https://www.reddit.com/r/androiddev/comments/126sjiu/afraid_of_publishing_apps_on_play_store/)
+- [ChromeOS Espresso Testing - Notifications](https://www.reddit.com/r/androiddev/comments/126q2nx/chromeos_espresso_testing_notifications/)
+- [Bluetooth turned off automatically](https://www.reddit.com/r/androiddev/comments/126not8/bluetooth_turned_off_automatically/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
