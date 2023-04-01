@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Which tasks would you prefer to automate with AI in the mobile development and DevOps process?](https://www.reddit.com/r/androiddev/comments/1273xql/which_tasks_would_you_prefer_to_automate_with_ai/)
-- [Server for Externally hosted private apps](https://www.reddit.com/r/androiddev/comments/1273g36/server_for_externally_hosted_private_apps/)
-- [CWTI - Mind-Blowing 3D Magic with Romain Guy: Filament Deep Dive &amp; Android Integration](https://www.reddit.com/r/androiddev/comments/126zmun/cwti_mindblowing_3d_magic_with_romain_guy/)
-- [Underground Map Application](https://www.reddit.com/r/androiddev/comments/126yl7a/underground_map_application/)
-- [Looking for medium-large sized, open source projects like Pocket Castsand Firefox with communication channels.](https://www.reddit.com/r/androiddev/comments/126v19p/looking_for_mediumlarge_sized_open_source/)
-- [Security question - Oneplus 9 CH edition](https://www.reddit.com/r/androiddev/comments/126sus1/security_question_oneplus_9_ch_edition/)
-- [Android Studio Giraffe Canary 11 now available](https://www.reddit.com/r/androiddev/comments/126st1x/android_studio_giraffe_canary_11_now_available/)
-- [Afraid of publishing apps on Play Store](https://www.reddit.com/r/androiddev/comments/126sjiu/afraid_of_publishing_apps_on_play_store/)
-- [ChromeOS Espresso Testing - Notifications](https://www.reddit.com/r/androiddev/comments/126q2nx/chromeos_espresso_testing_notifications/)
-- [Bluetooth turned off automatically](https://www.reddit.com/r/androiddev/comments/126not8/bluetooth_turned_off_automatically/)
+- [Contacts in app](https://www.reddit.com/r/androiddev/comments/127uekm/contacts_in_app/)
+- [How to set &quot;Battery optimization&quot; to unrestricted using ADB](https://www.reddit.com/r/androiddev/comments/127tfx6/how_to_set_battery_optimization_to_unrestricted/)
+- [Which online database works best with Room DB?](https://www.reddit.com/r/androiddev/comments/127sq42/which_online_database_works_best_with_room_db/)
+- [How to fix keyboard issues introduced in the latest Jetpack Compose &lpar;1.4.0&rpar;](https://www.reddit.com/r/androiddev/comments/127rxu9/how_to_fix_keyboard_issues_introduced_in_the/)
+- [Upwork has to do something about these &quot;Upload to/ Host on Play Store&quot; listings.](https://www.reddit.com/r/androiddev/comments/127pgg8/upwork_has_to_do_something_about_these_upload_to/)
+- [Easy tool to generate neural networks for tflite Android?](https://www.reddit.com/r/androiddev/comments/127lydi/easy_tool_to_generate_neural_networks_for_tflite/)
+- [How to avoid passing Scaffold&#39;s viewModel to other composables?](https://www.reddit.com/r/androiddev/comments/127ll4i/how_to_avoid_passing_scaffolds_viewmodel_to_other/)
+- [Make Word game](https://www.reddit.com/r/androiddev/comments/127f7li/make_word_game/)
+- [Concrete Implementation vs Interface naming conventions](https://www.reddit.com/r/androiddev/comments/127excb/concrete_implementation_vs_interface_naming/)
+- [ValoGuide App](https://www.reddit.com/r/androiddev/comments/127elhf/valoguide_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
