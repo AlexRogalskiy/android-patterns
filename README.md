@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Contacts in app](https://www.reddit.com/r/androiddev/comments/127uekm/contacts_in_app/)
-- [How to set &quot;Battery optimization&quot; to unrestricted using ADB](https://www.reddit.com/r/androiddev/comments/127tfx6/how_to_set_battery_optimization_to_unrestricted/)
-- [Which online database works best with Room DB?](https://www.reddit.com/r/androiddev/comments/127sq42/which_online_database_works_best_with_room_db/)
-- [How to fix keyboard issues introduced in the latest Jetpack Compose &lpar;1.4.0&rpar;](https://www.reddit.com/r/androiddev/comments/127rxu9/how_to_fix_keyboard_issues_introduced_in_the/)
-- [Upwork has to do something about these &quot;Upload to/ Host on Play Store&quot; listings.](https://www.reddit.com/r/androiddev/comments/127pgg8/upwork_has_to_do_something_about_these_upload_to/)
-- [Easy tool to generate neural networks for tflite Android?](https://www.reddit.com/r/androiddev/comments/127lydi/easy_tool_to_generate_neural_networks_for_tflite/)
-- [How to avoid passing Scaffold&#39;s viewModel to other composables?](https://www.reddit.com/r/androiddev/comments/127ll4i/how_to_avoid_passing_scaffolds_viewmodel_to_other/)
-- [Make Word game](https://www.reddit.com/r/androiddev/comments/127f7li/make_word_game/)
-- [Concrete Implementation vs Interface naming conventions](https://www.reddit.com/r/androiddev/comments/127excb/concrete_implementation_vs_interface_naming/)
-- [ValoGuide App](https://www.reddit.com/r/androiddev/comments/127elhf/valoguide_app/)
+- [Is IntelliJ a good IDE for Android Development using Java?](https://www.reddit.com/r/androiddev/comments/1295rc1/is_intellij_a_good_ide_for_android_development/)
+- [Share your interview experience](https://www.reddit.com/r/androiddev/comments/1293y4u/share_your_interview_experience/)
+- [Can’t flash unlock_code.bin](https://www.reddit.com/r/androiddev/comments/12924zv/cant_flash_unlock_codebin/)
+- [Is there a way for me to clone a repository in Android Studio and then push it on my own account in a different repo?](https://www.reddit.com/r/androiddev/comments/1291u4o/is_there_a_way_for_me_to_clone_a_repository_in/)
+- [Adding apps to our services?](https://www.reddit.com/r/androiddev/comments/1290dkm/adding_apps_to_our_services/)
+- [HAXM failed to be installed due to unsupported VMX](https://www.reddit.com/r/androiddev/comments/128zrxu/haxm_failed_to_be_installed_due_to_unsupported_vmx/)
+- [How to fill out &quot;Data safety&quot; section for a React Native App](https://www.reddit.com/r/androiddev/comments/128y8mx/how_to_fill_out_data_safety_section_for_a_react/)
+- [Looking for component](https://www.reddit.com/r/androiddev/comments/128x058/looking_for_component/)
+- [How do I access a json file in a USB pendrive?](https://www.reddit.com/r/androiddev/comments/128t41g/how_do_i_access_a_json_file_in_a_usb_pendrive/)
+- [React Native or Flutter for Final project](https://www.reddit.com/r/androiddev/comments/128ockv/react_native_or_flutter_for_final_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
