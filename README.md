@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is IntelliJ a good IDE for Android Development using Java?](https://www.reddit.com/r/androiddev/comments/1295rc1/is_intellij_a_good_ide_for_android_development/)
-- [Share your interview experience](https://www.reddit.com/r/androiddev/comments/1293y4u/share_your_interview_experience/)
-- [Can’t flash unlock_code.bin](https://www.reddit.com/r/androiddev/comments/12924zv/cant_flash_unlock_codebin/)
-- [Is there a way for me to clone a repository in Android Studio and then push it on my own account in a different repo?](https://www.reddit.com/r/androiddev/comments/1291u4o/is_there_a_way_for_me_to_clone_a_repository_in/)
-- [Adding apps to our services?](https://www.reddit.com/r/androiddev/comments/1290dkm/adding_apps_to_our_services/)
-- [HAXM failed to be installed due to unsupported VMX](https://www.reddit.com/r/androiddev/comments/128zrxu/haxm_failed_to_be_installed_due_to_unsupported_vmx/)
-- [How to fill out &quot;Data safety&quot; section for a React Native App](https://www.reddit.com/r/androiddev/comments/128y8mx/how_to_fill_out_data_safety_section_for_a_react/)
-- [Looking for component](https://www.reddit.com/r/androiddev/comments/128x058/looking_for_component/)
-- [How do I access a json file in a USB pendrive?](https://www.reddit.com/r/androiddev/comments/128t41g/how_do_i_access_a_json_file_in_a_usb_pendrive/)
-- [React Native or Flutter for Final project](https://www.reddit.com/r/androiddev/comments/128ockv/react_native_or_flutter_for_final_project/)
+- [In what ways can one construct a timeline view as below?](https://www.reddit.com/r/androiddev/comments/12a3ujh/in_what_ways_can_one_construct_a_timeline_view_as/)
+- [Can you help me find an app or site that I could use with my Android phone for app development?](https://www.reddit.com/r/androiddev/comments/129xk5e/can_you_help_me_find_an_app_or_site_that_i_could/)
+- [Announcing open sign-ups for Tramline: release coordination platform, just for mobile app teams](https://www.reddit.com/r/androiddev/comments/129xaub/announcing_open_signups_for_tramline_release/)
+- [Mobile games and advice on my Master thesis in this area &lpar;text mining and ML stuff&rpar;](https://www.reddit.com/r/androiddev/comments/129wkb7/mobile_games_and_advice_on_my_master_thesis_in/)
+- [If you have written a lot of code in Python, and need to make an Android app, can you export your Python code to make the .apk for the Android app?](https://www.reddit.com/r/androiddev/comments/129w6j6/if_you_have_written_a_lot_of_code_in_python_and/)
+- [ListAdapter rendering issue](https://www.reddit.com/r/androiddev/comments/129soav/listadapter_rendering_issue/)
+- [Is it possible to collect other apps&#39; intents from within ours?](https://www.reddit.com/r/androiddev/comments/129raxw/is_it_possible_to_collect_other_apps_intents_from/)
+- [As a Flutter dev - is Kotlin worth learning?](https://www.reddit.com/r/androiddev/comments/129r3fc/as_a_flutter_dev_is_kotlin_worth_learning/)
+- [Can an M1 Mac virtualize Android 4.0.3 &lpar;ICS&rpar;? Developing against specific hardware that can only run this Android version.](https://www.reddit.com/r/androiddev/comments/129oh4u/can_an_m1_mac_virtualize_android_403_ics/)
+- [Tips for a new dev to never get an app suspended](https://www.reddit.com/r/androiddev/comments/129ijsb/tips_for_a_new_dev_to_never_get_an_app_suspended/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
