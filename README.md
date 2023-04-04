@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [In what ways can one construct a timeline view as below?](https://www.reddit.com/r/androiddev/comments/12a3ujh/in_what_ways_can_one_construct_a_timeline_view_as/)
-- [Can you help me find an app or site that I could use with my Android phone for app development?](https://www.reddit.com/r/androiddev/comments/129xk5e/can_you_help_me_find_an_app_or_site_that_i_could/)
-- [Announcing open sign-ups for Tramline: release coordination platform, just for mobile app teams](https://www.reddit.com/r/androiddev/comments/129xaub/announcing_open_signups_for_tramline_release/)
-- [Mobile games and advice on my Master thesis in this area &lpar;text mining and ML stuff&rpar;](https://www.reddit.com/r/androiddev/comments/129wkb7/mobile_games_and_advice_on_my_master_thesis_in/)
-- [If you have written a lot of code in Python, and need to make an Android app, can you export your Python code to make the .apk for the Android app?](https://www.reddit.com/r/androiddev/comments/129w6j6/if_you_have_written_a_lot_of_code_in_python_and/)
-- [ListAdapter rendering issue](https://www.reddit.com/r/androiddev/comments/129soav/listadapter_rendering_issue/)
-- [Is it possible to collect other apps&#39; intents from within ours?](https://www.reddit.com/r/androiddev/comments/129raxw/is_it_possible_to_collect_other_apps_intents_from/)
-- [As a Flutter dev - is Kotlin worth learning?](https://www.reddit.com/r/androiddev/comments/129r3fc/as_a_flutter_dev_is_kotlin_worth_learning/)
-- [Can an M1 Mac virtualize Android 4.0.3 &lpar;ICS&rpar;? Developing against specific hardware that can only run this Android version.](https://www.reddit.com/r/androiddev/comments/129oh4u/can_an_m1_mac_virtualize_android_403_ics/)
-- [Tips for a new dev to never get an app suspended](https://www.reddit.com/r/androiddev/comments/129ijsb/tips_for_a_new_dev_to_never_get_an_app_suspended/)
+- [Learn .NET MAUI while Creating a Contacts App in .NET 7](https://www.reddit.com/r/androiddev/comments/12b5f1z/learn_net_maui_while_creating_a_contacts_app_in/)
+- [Unexpected behavior while scrolling recyclerview](https://www.reddit.com/r/androiddev/comments/12b5e66/unexpected_behavior_while_scrolling_recyclerview/)
+- [Is there some static utility function to dynamically set @style resId to a view??](https://www.reddit.com/r/androiddev/comments/12b3w4c/is_there_some_static_utility_function_to/)
+- [Android Studio Giraffe Canary 11 no sound on Mac Studio M1](https://www.reddit.com/r/androiddev/comments/12b1qdk/android_studio_giraffe_canary_11_no_sound_on_mac/)
+- [I&#39;ve had two apk rejections recently due to the answers for the data safety form, I&#39;m wondering if others here have had similar?](https://www.reddit.com/r/androiddev/comments/12awsbb/ive_had_two_apk_rejections_recently_due_to_the/)
+- [Pre-Launch report: Your app took 6,613ms to launch for the first time, after being installed on this device model](https://www.reddit.com/r/androiddev/comments/12autzg/prelaunch_report_your_app_took_6613ms_to_launch/)
+- [Which android app dev course should I do? Android basics with Kotlin or android basics with compose?](https://www.reddit.com/r/androiddev/comments/12atem6/which_android_app_dev_course_should_i_do_android/)
+- [Android developer intern](https://www.reddit.com/r/androiddev/comments/12as6bk/android_developer_intern/)
+- [Have to learn both android and flutter, how can i balance between them?](https://www.reddit.com/r/androiddev/comments/12as1sl/have_to_learn_both_android_and_flutter_how_can_i/)
+- [Image Composable recomposes Unnecessarily](https://www.reddit.com/r/androiddev/comments/12aryle/image_composable_recomposes_unnecessarily/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
