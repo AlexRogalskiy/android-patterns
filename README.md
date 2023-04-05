@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Learn .NET MAUI while Creating a Contacts App in .NET 7](https://www.reddit.com/r/androiddev/comments/12b5f1z/learn_net_maui_while_creating_a_contacts_app_in/)
-- [Unexpected behavior while scrolling recyclerview](https://www.reddit.com/r/androiddev/comments/12b5e66/unexpected_behavior_while_scrolling_recyclerview/)
-- [Is there some static utility function to dynamically set @style resId to a view??](https://www.reddit.com/r/androiddev/comments/12b3w4c/is_there_some_static_utility_function_to/)
-- [Android Studio Giraffe Canary 11 no sound on Mac Studio M1](https://www.reddit.com/r/androiddev/comments/12b1qdk/android_studio_giraffe_canary_11_no_sound_on_mac/)
-- [I&#39;ve had two apk rejections recently due to the answers for the data safety form, I&#39;m wondering if others here have had similar?](https://www.reddit.com/r/androiddev/comments/12awsbb/ive_had_two_apk_rejections_recently_due_to_the/)
-- [Pre-Launch report: Your app took 6,613ms to launch for the first time, after being installed on this device model](https://www.reddit.com/r/androiddev/comments/12autzg/prelaunch_report_your_app_took_6613ms_to_launch/)
-- [Which android app dev course should I do? Android basics with Kotlin or android basics with compose?](https://www.reddit.com/r/androiddev/comments/12atem6/which_android_app_dev_course_should_i_do_android/)
-- [Android developer intern](https://www.reddit.com/r/androiddev/comments/12as6bk/android_developer_intern/)
-- [Have to learn both android and flutter, how can i balance between them?](https://www.reddit.com/r/androiddev/comments/12as1sl/have_to_learn_both_android_and_flutter_how_can_i/)
-- [Image Composable recomposes Unnecessarily](https://www.reddit.com/r/androiddev/comments/12aryle/image_composable_recomposes_unnecessarily/)
+- [How to load images from drawable folder based on the image name?](https://www.reddit.com/r/androiddev/comments/12bvgo3/how_to_load_images_from_drawable_folder_based_on/)
+- [Haversine formula accuracy issues in location-tracking app](https://www.reddit.com/r/androiddev/comments/12bu90y/haversine_formula_accuracy_issues_in/)
+- [Special test version of app?](https://www.reddit.com/r/androiddev/comments/12brumq/special_test_version_of_app/)
+- [Documenting Android codebase](https://www.reddit.com/r/androiddev/comments/12bqver/documenting_android_codebase/)
+- [[How-To] Install an Android Emulator via Android Studio Article](https://www.reddit.com/r/androiddev/comments/12bqlrg/howto_install_an_android_emulator_via_android/)
+- [SdkControllerSensor app alternative ?](https://www.reddit.com/r/androiddev/comments/12bq667/sdkcontrollersensor_app_alternative/)
+- [Question about design artboard width for Android](https://www.reddit.com/r/androiddev/comments/12bm6ru/question_about_design_artboard_width_for_android/)
+- [How to offer freebies to those who get others to download your app](https://www.reddit.com/r/androiddev/comments/12bkhm4/how_to_offer_freebies_to_those_who_get_others_to/)
+- [Can we upload a new app &lpar;new app id&rpar; to internal tester track only without involving reviewing process?](https://www.reddit.com/r/androiddev/comments/12bjzi7/can_we_upload_a_new_app_new_app_id_to_internal/)
+- [Receiving GET requests](https://www.reddit.com/r/androiddev/comments/12bj7b0/receiving_get_requests/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
