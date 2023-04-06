@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to load images from drawable folder based on the image name?](https://www.reddit.com/r/androiddev/comments/12bvgo3/how_to_load_images_from_drawable_folder_based_on/)
-- [Haversine formula accuracy issues in location-tracking app](https://www.reddit.com/r/androiddev/comments/12bu90y/haversine_formula_accuracy_issues_in/)
-- [Special test version of app?](https://www.reddit.com/r/androiddev/comments/12brumq/special_test_version_of_app/)
-- [Documenting Android codebase](https://www.reddit.com/r/androiddev/comments/12bqver/documenting_android_codebase/)
-- [[How-To] Install an Android Emulator via Android Studio Article](https://www.reddit.com/r/androiddev/comments/12bqlrg/howto_install_an_android_emulator_via_android/)
-- [SdkControllerSensor app alternative ?](https://www.reddit.com/r/androiddev/comments/12bq667/sdkcontrollersensor_app_alternative/)
-- [Question about design artboard width for Android](https://www.reddit.com/r/androiddev/comments/12bm6ru/question_about_design_artboard_width_for_android/)
-- [How to offer freebies to those who get others to download your app](https://www.reddit.com/r/androiddev/comments/12bkhm4/how_to_offer_freebies_to_those_who_get_others_to/)
-- [Can we upload a new app &lpar;new app id&rpar; to internal tester track only without involving reviewing process?](https://www.reddit.com/r/androiddev/comments/12bjzi7/can_we_upload_a_new_app_new_app_id_to_internal/)
-- [Receiving GET requests](https://www.reddit.com/r/androiddev/comments/12bj7b0/receiving_get_requests/)
+- [Google is trying to make sure apps let you delete your account](https://www.reddit.com/r/androiddev/comments/12d3em4/google_is_trying_to_make_sure_apps_let_you_delete/)
+- [How can I build my career as an android developer?](https://www.reddit.com/r/androiddev/comments/12cxulg/how_can_i_build_my_career_as_an_android_developer/)
+- [Question about today’s Google Play policy update](https://www.reddit.com/r/androiddev/comments/12cxlsz/question_about_todays_google_play_policy_update/)
+- [Sharing my first Android App: BotForge](https://www.reddit.com/r/androiddev/comments/12cvn8k/sharing_my_first_android_app_botforge/)
+- [MarkdownTwain: A New Markdown Editor Library for Jetpack Compose on Android](https://www.reddit.com/r/androiddev/comments/12cvfpi/markdowntwain_a_new_markdown_editor_library_for/)
+- [Using Facebook Audience Network in Unity Ironsrouce Levelplay mediation, however, it says &quot;no fill&quot;](https://www.reddit.com/r/androiddev/comments/12cv0fq/using_facebook_audience_network_in_unity/)
+- [how long will it take for me to switch to kotlin if I learnt android dev in Java ?](https://www.reddit.com/r/androiddev/comments/12ctp1x/how_long_will_it_take_for_me_to_switch_to_kotlin/)
+- [Have fun implementing some of these Policy announcement: April 5, 2023](https://www.reddit.com/r/androiddev/comments/12ct6pw/have_fun_implementing_some_of_these_policy/)
+- [Physical book word translation/definition app idea](https://www.reddit.com/r/androiddev/comments/12co3yc/physical_book_word_translationdefinition_app_idea/)
+- [A series of articles on Dependency Injection in Android. From the very fundamentals of DI to Advanced usage of Dagger, Hilt and Koin.](https://www.reddit.com/r/androiddev/comments/12cnyhx/a_series_of_articles_on_dependency_injection_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
