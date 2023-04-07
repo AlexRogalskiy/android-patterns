@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google is trying to make sure apps let you delete your account](https://www.reddit.com/r/androiddev/comments/12d3em4/google_is_trying_to_make_sure_apps_let_you_delete/)
-- [How can I build my career as an android developer?](https://www.reddit.com/r/androiddev/comments/12cxulg/how_can_i_build_my_career_as_an_android_developer/)
-- [Question about today’s Google Play policy update](https://www.reddit.com/r/androiddev/comments/12cxlsz/question_about_todays_google_play_policy_update/)
-- [Sharing my first Android App: BotForge](https://www.reddit.com/r/androiddev/comments/12cvn8k/sharing_my_first_android_app_botforge/)
-- [MarkdownTwain: A New Markdown Editor Library for Jetpack Compose on Android](https://www.reddit.com/r/androiddev/comments/12cvfpi/markdowntwain_a_new_markdown_editor_library_for/)
-- [Using Facebook Audience Network in Unity Ironsrouce Levelplay mediation, however, it says &quot;no fill&quot;](https://www.reddit.com/r/androiddev/comments/12cv0fq/using_facebook_audience_network_in_unity/)
-- [how long will it take for me to switch to kotlin if I learnt android dev in Java ?](https://www.reddit.com/r/androiddev/comments/12ctp1x/how_long_will_it_take_for_me_to_switch_to_kotlin/)
-- [Have fun implementing some of these Policy announcement: April 5, 2023](https://www.reddit.com/r/androiddev/comments/12ct6pw/have_fun_implementing_some_of_these_policy/)
-- [Physical book word translation/definition app idea](https://www.reddit.com/r/androiddev/comments/12co3yc/physical_book_word_translationdefinition_app_idea/)
-- [A series of articles on Dependency Injection in Android. From the very fundamentals of DI to Advanced usage of Dagger, Hilt and Koin.](https://www.reddit.com/r/androiddev/comments/12cnyhx/a_series_of_articles_on_dependency_injection_in/)
+- [Updated keyboard library](https://www.reddit.com/r/androiddev/comments/12e2fun/updated_keyboard_library/)
+- [How much of your work comes from cold applying vs. your network?](https://www.reddit.com/r/androiddev/comments/12e1bvt/how_much_of_your_work_comes_from_cold_applying_vs/)
+- [Best Educational open source java Android App in Github](https://www.reddit.com/r/androiddev/comments/12e15yd/best_educational_open_source_java_android_app_in/)
+- [Jetpack Compose Underhood](https://www.reddit.com/r/androiddev/comments/12e0hal/jetpack_compose_underhood/)
+- [Best way to create EPG for Android TV app?](https://www.reddit.com/r/androiddev/comments/12dzk8j/best_way_to_create_epg_for_android_tv_app/)
+- [How to install crt with key on Android](https://www.reddit.com/r/androiddev/comments/12dzhz4/how_to_install_crt_with_key_on_android/)
+- [Qt C++ vs Java vs Kotlin](https://www.reddit.com/r/androiddev/comments/12dzfw9/qt_c_vs_java_vs_kotlin/)
+- [Question about Android Studio/Emulator usage on Mac OS](https://www.reddit.com/r/androiddev/comments/12dz4u9/question_about_android_studioemulator_usage_on/)
+- [How did you learn jetpack compose?](https://www.reddit.com/r/androiddev/comments/12dxfil/how_did_you_learn_jetpack_compose/)
+- [What view to use for animated splash screen?](https://www.reddit.com/r/androiddev/comments/12dwe89/what_view_to_use_for_animated_splash_screen/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
