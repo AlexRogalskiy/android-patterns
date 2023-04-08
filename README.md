@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Updated keyboard library](https://www.reddit.com/r/androiddev/comments/12e2fun/updated_keyboard_library/)
-- [How much of your work comes from cold applying vs. your network?](https://www.reddit.com/r/androiddev/comments/12e1bvt/how_much_of_your_work_comes_from_cold_applying_vs/)
-- [Best Educational open source java Android App in Github](https://www.reddit.com/r/androiddev/comments/12e15yd/best_educational_open_source_java_android_app_in/)
-- [Jetpack Compose Underhood](https://www.reddit.com/r/androiddev/comments/12e0hal/jetpack_compose_underhood/)
-- [Best way to create EPG for Android TV app?](https://www.reddit.com/r/androiddev/comments/12dzk8j/best_way_to_create_epg_for_android_tv_app/)
-- [How to install crt with key on Android](https://www.reddit.com/r/androiddev/comments/12dzhz4/how_to_install_crt_with_key_on_android/)
-- [Qt C++ vs Java vs Kotlin](https://www.reddit.com/r/androiddev/comments/12dzfw9/qt_c_vs_java_vs_kotlin/)
-- [Question about Android Studio/Emulator usage on Mac OS](https://www.reddit.com/r/androiddev/comments/12dz4u9/question_about_android_studioemulator_usage_on/)
-- [How did you learn jetpack compose?](https://www.reddit.com/r/androiddev/comments/12dxfil/how_did_you_learn_jetpack_compose/)
-- [What view to use for animated splash screen?](https://www.reddit.com/r/androiddev/comments/12dwe89/what_view_to_use_for_animated_splash_screen/)
+- [Screen recording force device to reboot!](https://www.reddit.com/r/androiddev/comments/12f2cl1/screen_recording_force_device_to_reboot/)
+- [Screen recording force device to reboot!](https://www.reddit.com/r/androiddev/comments/12f23rl/screen_recording_force_device_to_reboot/)
+- [Screen recording force device to reboot!](https://www.reddit.com/r/androiddev/comments/12f21lh/screen_recording_force_device_to_reboot/)
+- [Questions about Android settings and apps](https://www.reddit.com/r/androiddev/comments/12f1u6t/questions_about_android_settings_and_apps/)
+- [a new useful tool for android devs](https://www.reddit.com/r/androiddev/comments/12eyoc3/a_new_useful_tool_for_android_devs/)
+- [Anyway to prevent this paste suggestion from appearing in Compose?](https://www.reddit.com/r/androiddev/comments/12eyi27/anyway_to_prevent_this_paste_suggestion_from/)
+- [Google Play Developer account terminated - danger for other Google services?](https://www.reddit.com/r/androiddev/comments/12eyb6i/google_play_developer_account_terminated_danger/)
+- [How to avoid the text being cut off in mpandroid line chart?](https://www.reddit.com/r/androiddev/comments/12esyha/how_to_avoid_the_text_being_cut_off_in_mpandroid/)
+- [How to make your own image loading library?](https://www.reddit.com/r/androiddev/comments/12eqszn/how_to_make_your_own_image_loading_library/)
+- [any one using flutter in a professional setting for both iOS and Android apps?](https://www.reddit.com/r/androiddev/comments/12epmvs/any_one_using_flutter_in_a_professional_setting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
