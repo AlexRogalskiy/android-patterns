@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Screen recording force device to reboot!](https://www.reddit.com/r/androiddev/comments/12f2cl1/screen_recording_force_device_to_reboot/)
-- [Screen recording force device to reboot!](https://www.reddit.com/r/androiddev/comments/12f23rl/screen_recording_force_device_to_reboot/)
-- [Screen recording force device to reboot!](https://www.reddit.com/r/androiddev/comments/12f21lh/screen_recording_force_device_to_reboot/)
-- [Questions about Android settings and apps](https://www.reddit.com/r/androiddev/comments/12f1u6t/questions_about_android_settings_and_apps/)
-- [a new useful tool for android devs](https://www.reddit.com/r/androiddev/comments/12eyoc3/a_new_useful_tool_for_android_devs/)
-- [Anyway to prevent this paste suggestion from appearing in Compose?](https://www.reddit.com/r/androiddev/comments/12eyi27/anyway_to_prevent_this_paste_suggestion_from/)
-- [Google Play Developer account terminated - danger for other Google services?](https://www.reddit.com/r/androiddev/comments/12eyb6i/google_play_developer_account_terminated_danger/)
-- [How to avoid the text being cut off in mpandroid line chart?](https://www.reddit.com/r/androiddev/comments/12esyha/how_to_avoid_the_text_being_cut_off_in_mpandroid/)
-- [How to make your own image loading library?](https://www.reddit.com/r/androiddev/comments/12eqszn/how_to_make_your_own_image_loading_library/)
-- [any one using flutter in a professional setting for both iOS and Android apps?](https://www.reddit.com/r/androiddev/comments/12epmvs/any_one_using_flutter_in_a_professional_setting/)
+- [Unit test Coroutines](https://www.reddit.com/r/androiddev/comments/12g4ygn/unit_test_coroutines/)
+- [Any UI design tools for compose?](https://www.reddit.com/r/androiddev/comments/12g4mpq/any_ui_design_tools_for_compose/)
+- [Setting new Intent as a class whose name is stored in a database](https://www.reddit.com/r/androiddev/comments/12g3xip/setting_new_intent_as_a_class_whose_name_is/)
+- [Android split screen](https://www.reddit.com/r/androiddev/comments/12g1wta/android_split_screen/)
+- [Can I make a app where you can donate by watching ads?](https://www.reddit.com/r/androiddev/comments/12g1rnz/can_i_make_a_app_where_you_can_donate_by_watching/)
+- [Why can&#39;t I install HAXM once I installed Android Studio? I&#39;m using Windows 11](https://www.reddit.com/r/androiddev/comments/12fzwbw/why_cant_i_install_haxm_once_i_installed_android/)
+- [Multi-Module-Nextflix-Composable](https://www.reddit.com/r/androiddev/comments/12fy09f/multimodulenextflixcomposable/)
+- [Firebase notification when the app is in foreground, recieve and show](https://www.reddit.com/r/androiddev/comments/12fw2qq/firebase_notification_when_the_app_is_in/)
+- [For those who did it: is this course a good one?](https://www.reddit.com/r/androiddev/comments/12frwce/for_those_who_did_it_is_this_course_a_good_one/)
+- [Can running video ads offset my costs for running the app?](https://www.reddit.com/r/androiddev/comments/12frks8/can_running_video_ads_offset_my_costs_for_running/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
