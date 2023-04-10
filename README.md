@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Unit test Coroutines](https://www.reddit.com/r/androiddev/comments/12g4ygn/unit_test_coroutines/)
-- [Any UI design tools for compose?](https://www.reddit.com/r/androiddev/comments/12g4mpq/any_ui_design_tools_for_compose/)
-- [Setting new Intent as a class whose name is stored in a database](https://www.reddit.com/r/androiddev/comments/12g3xip/setting_new_intent_as_a_class_whose_name_is/)
-- [Android split screen](https://www.reddit.com/r/androiddev/comments/12g1wta/android_split_screen/)
-- [Can I make a app where you can donate by watching ads?](https://www.reddit.com/r/androiddev/comments/12g1rnz/can_i_make_a_app_where_you_can_donate_by_watching/)
-- [Why can&#39;t I install HAXM once I installed Android Studio? I&#39;m using Windows 11](https://www.reddit.com/r/androiddev/comments/12fzwbw/why_cant_i_install_haxm_once_i_installed_android/)
-- [Multi-Module-Nextflix-Composable](https://www.reddit.com/r/androiddev/comments/12fy09f/multimodulenextflixcomposable/)
-- [Firebase notification when the app is in foreground, recieve and show](https://www.reddit.com/r/androiddev/comments/12fw2qq/firebase_notification_when_the_app_is_in/)
-- [For those who did it: is this course a good one?](https://www.reddit.com/r/androiddev/comments/12frwce/for_those_who_did_it_is_this_course_a_good_one/)
-- [Can running video ads offset my costs for running the app?](https://www.reddit.com/r/androiddev/comments/12frks8/can_running_video_ads_offset_my_costs_for_running/)
+- [Problems with TopAppBar in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/12h2gjp/problems_with_topappbar_in_jetpack_compose/)
+- [Good ressource to leaen how to implement offline caching with room db repository and dto &lpar; network result &rpar;](https://www.reddit.com/r/androiddev/comments/12h15x2/good_ressource_to_leaen_how_to_implement_offline/)
+- [Scrollbar TextView inside a BottomBarFragment](https://www.reddit.com/r/androiddev/comments/12gzmlu/scrollbar_textview_inside_a_bottombarfragment/)
+- [Android swipe gestures hack](https://www.reddit.com/r/androiddev/comments/12gwdga/android_swipe_gestures_hack/)
+- [LF: Andoird video player, that can becontrolled remotely with Wi-Fi](https://www.reddit.com/r/androiddev/comments/12gu9c5/lf_andoird_video_player_that_can_becontrolled/)
+- [Flutter vs Kotlin for internship in India](https://www.reddit.com/r/androiddev/comments/12gq4b4/flutter_vs_kotlin_for_internship_in_india/)
+- [Mouseless Android Studio Usage](https://www.reddit.com/r/androiddev/comments/12gmbs7/mouseless_android_studio_usage/)
+- [I am a newbie who wants to make his first Android app to keep track of my e-mails, would learn Kotlin help?](https://www.reddit.com/r/androiddev/comments/12gm3x6/i_am_a_newbie_who_wants_to_make_his_first_android/)
+- [Someone know reason for this error I got ?](https://www.reddit.com/r/androiddev/comments/12gjqdb/someone_know_reason_for_this_error_i_got/)
+- [How to change my Play store Android app payment from &quot;One time&quot; to yearly subscription](https://www.reddit.com/r/androiddev/comments/12gi1fx/how_to_change_my_play_store_android_app_payment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
