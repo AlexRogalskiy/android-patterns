@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Problems with TopAppBar in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/12h2gjp/problems_with_topappbar_in_jetpack_compose/)
-- [Good ressource to leaen how to implement offline caching with room db repository and dto &lpar; network result &rpar;](https://www.reddit.com/r/androiddev/comments/12h15x2/good_ressource_to_leaen_how_to_implement_offline/)
-- [Scrollbar TextView inside a BottomBarFragment](https://www.reddit.com/r/androiddev/comments/12gzmlu/scrollbar_textview_inside_a_bottombarfragment/)
-- [Android swipe gestures hack](https://www.reddit.com/r/androiddev/comments/12gwdga/android_swipe_gestures_hack/)
-- [LF: Andoird video player, that can becontrolled remotely with Wi-Fi](https://www.reddit.com/r/androiddev/comments/12gu9c5/lf_andoird_video_player_that_can_becontrolled/)
-- [Flutter vs Kotlin for internship in India](https://www.reddit.com/r/androiddev/comments/12gq4b4/flutter_vs_kotlin_for_internship_in_india/)
-- [Mouseless Android Studio Usage](https://www.reddit.com/r/androiddev/comments/12gmbs7/mouseless_android_studio_usage/)
-- [I am a newbie who wants to make his first Android app to keep track of my e-mails, would learn Kotlin help?](https://www.reddit.com/r/androiddev/comments/12gm3x6/i_am_a_newbie_who_wants_to_make_his_first_android/)
-- [Someone know reason for this error I got ?](https://www.reddit.com/r/androiddev/comments/12gjqdb/someone_know_reason_for_this_error_i_got/)
-- [How to change my Play store Android app payment from &quot;One time&quot; to yearly subscription](https://www.reddit.com/r/androiddev/comments/12gi1fx/how_to_change_my_play_store_android_app_payment/)
+- [What&#39;s modern approach to handling Preferences &lpar;UI &amp; Storage&rpar; in Compose?](https://www.reddit.com/r/androiddev/comments/12i0al0/whats_modern_approach_to_handling_preferences_ui/)
+- [Custom keyboard extension](https://www.reddit.com/r/androiddev/comments/12hyitp/custom_keyboard_extension/)
+- [[BEGINNER] How do I develop the server side or the more &quot;permanent&quot; data storage. How do I do push notification?](https://www.reddit.com/r/androiddev/comments/12hwlcr/beginner_how_do_i_develop_the_server_side_or_the/)
+- [Android Text Letter Spacing](https://www.reddit.com/r/androiddev/comments/12hwfyo/android_text_letter_spacing/)
+- [Who are the owners of this company?](https://www.reddit.com/r/androiddev/comments/12hqlf0/who_are_the_owners_of_this_company/)
+- [EditText inputType not working for hard keyboard](https://www.reddit.com/r/androiddev/comments/12hkv8r/edittext_inputtype_not_working_for_hard_keyboard/)
+- [Fake / dummy MAC address of bluetooth in android head unit.](https://www.reddit.com/r/androiddev/comments/12hkc38/fake_dummy_mac_address_of_bluetooth_in_android/)
+- [Introducing Y-Chat: A Kotlin Multiplatform Library for ChatGPT and Open AI APIs](https://www.reddit.com/r/androiddev/comments/12hk6it/introducing_ychat_a_kotlin_multiplatform_library/)
+- [What&#39;s this effect called](https://www.reddit.com/r/androiddev/comments/12hifzs/whats_this_effect_called/)
+- [Weekly Who&#39;s Hiring Thread - April 10, 2023](https://www.reddit.com/r/androiddev/comments/12hi419/weekly_whos_hiring_thread_april_10_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
