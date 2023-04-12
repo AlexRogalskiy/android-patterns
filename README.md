@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s modern approach to handling Preferences &lpar;UI &amp; Storage&rpar; in Compose?](https://www.reddit.com/r/androiddev/comments/12i0al0/whats_modern_approach_to_handling_preferences_ui/)
-- [Custom keyboard extension](https://www.reddit.com/r/androiddev/comments/12hyitp/custom_keyboard_extension/)
-- [[BEGINNER] How do I develop the server side or the more &quot;permanent&quot; data storage. How do I do push notification?](https://www.reddit.com/r/androiddev/comments/12hwlcr/beginner_how_do_i_develop_the_server_side_or_the/)
-- [Android Text Letter Spacing](https://www.reddit.com/r/androiddev/comments/12hwfyo/android_text_letter_spacing/)
-- [Who are the owners of this company?](https://www.reddit.com/r/androiddev/comments/12hqlf0/who_are_the_owners_of_this_company/)
-- [EditText inputType not working for hard keyboard](https://www.reddit.com/r/androiddev/comments/12hkv8r/edittext_inputtype_not_working_for_hard_keyboard/)
-- [Fake / dummy MAC address of bluetooth in android head unit.](https://www.reddit.com/r/androiddev/comments/12hkc38/fake_dummy_mac_address_of_bluetooth_in_android/)
-- [Introducing Y-Chat: A Kotlin Multiplatform Library for ChatGPT and Open AI APIs](https://www.reddit.com/r/androiddev/comments/12hk6it/introducing_ychat_a_kotlin_multiplatform_library/)
-- [What&#39;s this effect called](https://www.reddit.com/r/androiddev/comments/12hifzs/whats_this_effect_called/)
-- [Weekly Who&#39;s Hiring Thread - April 10, 2023](https://www.reddit.com/r/androiddev/comments/12hi419/weekly_whos_hiring_thread_april_10_2023/)
+- [App creation](https://www.reddit.com/r/androiddev/comments/12j3iy8/app_creation/)
+- [I can’t find my app by searching](https://www.reddit.com/r/androiddev/comments/12iwtne/i_cant_find_my_app_by_searching/)
+- [What do you use for compose navigation?](https://www.reddit.com/r/androiddev/comments/12iwl1g/what_do_you_use_for_compose_navigation/)
+- [Should the .db file be updated when using room migrations?](https://www.reddit.com/r/androiddev/comments/12ivs5x/should_the_db_file_be_updated_when_using_room/)
+- [All orders refunded in Google Play Store](https://www.reddit.com/r/androiddev/comments/12ivnsq/all_orders_refunded_in_google_play_store/)
+- [Important question for me to start freelancing](https://www.reddit.com/r/androiddev/comments/12iunkr/important_question_for_me_to_start_freelancing/)
+- [Android 9 Easter egg on Android 13!](https://www.reddit.com/r/androiddev/comments/12itemd/android_9_easter_egg_on_android_13/)
+- [Open source Android apps that pay for contribution?](https://www.reddit.com/r/androiddev/comments/12inofi/open_source_android_apps_that_pay_for_contribution/)
+- [Best Android Developer Options Worth Tweaking](https://www.reddit.com/r/androiddev/comments/12ii8sn/best_android_developer_options_worth_tweaking/)
+- [Retain AppBarLayout background gradient drawable and Lottie file.](https://www.reddit.com/r/androiddev/comments/12ihcar/retain_appbarlayout_background_gradient_drawable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
