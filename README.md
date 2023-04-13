@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App creation](https://www.reddit.com/r/androiddev/comments/12j3iy8/app_creation/)
-- [I can’t find my app by searching](https://www.reddit.com/r/androiddev/comments/12iwtne/i_cant_find_my_app_by_searching/)
-- [What do you use for compose navigation?](https://www.reddit.com/r/androiddev/comments/12iwl1g/what_do_you_use_for_compose_navigation/)
-- [Should the .db file be updated when using room migrations?](https://www.reddit.com/r/androiddev/comments/12ivs5x/should_the_db_file_be_updated_when_using_room/)
-- [All orders refunded in Google Play Store](https://www.reddit.com/r/androiddev/comments/12ivnsq/all_orders_refunded_in_google_play_store/)
-- [Important question for me to start freelancing](https://www.reddit.com/r/androiddev/comments/12iunkr/important_question_for_me_to_start_freelancing/)
-- [Android 9 Easter egg on Android 13!](https://www.reddit.com/r/androiddev/comments/12itemd/android_9_easter_egg_on_android_13/)
-- [Open source Android apps that pay for contribution?](https://www.reddit.com/r/androiddev/comments/12inofi/open_source_android_apps_that_pay_for_contribution/)
-- [Best Android Developer Options Worth Tweaking](https://www.reddit.com/r/androiddev/comments/12ii8sn/best_android_developer_options_worth_tweaking/)
-- [Retain AppBarLayout background gradient drawable and Lottie file.](https://www.reddit.com/r/androiddev/comments/12ihcar/retain_appbarlayout_background_gradient_drawable/)
+- [U can&#39;t change imagen of an app in Android studio](https://www.reddit.com/r/androiddev/comments/12k2eqo/u_cant_change_imagen_of_an_app_in_android_studio/)
+- [Lightweight library for debouncing lambdas](https://www.reddit.com/r/androiddev/comments/12k1lzo/lightweight_library_for_debouncing_lambdas/)
+- [Cross platform vs native Android?](https://www.reddit.com/r/androiddev/comments/12jzu8s/cross_platform_vs_native_android/)
+- [How can I accurately measure real-time distance in my app without breaking the bank?](https://www.reddit.com/r/androiddev/comments/12jzmqj/how_can_i_accurately_measure_realtime_distance_in/)
+- [Transfer image list for post](https://www.reddit.com/r/androiddev/comments/12jxtr1/transfer_image_list_for_post/)
+- [Third party referrals and play store search ranking](https://www.reddit.com/r/androiddev/comments/12jxrff/third_party_referrals_and_play_store_search/)
+- [Getting invalid package&quot; error when manually installing APK on Android device](https://www.reddit.com/r/androiddev/comments/12jx0yv/getting_invalid_package_error_when_manually/)
+- [What&#39;s the best way to gain Industry Experience in Android?](https://www.reddit.com/r/androiddev/comments/12jve94/whats_the_best_way_to_gain_industry_experience_in/)
+- [Which tool to use to showcase android components](https://www.reddit.com/r/androiddev/comments/12jvdyb/which_tool_to_use_to_showcase_android_components/)
+- [Play Console: Internal Testing Bug Fixes?](https://www.reddit.com/r/androiddev/comments/12jtzar/play_console_internal_testing_bug_fixes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
