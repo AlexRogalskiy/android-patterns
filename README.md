@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [U can&#39;t change imagen of an app in Android studio](https://www.reddit.com/r/androiddev/comments/12k2eqo/u_cant_change_imagen_of_an_app_in_android_studio/)
-- [Lightweight library for debouncing lambdas](https://www.reddit.com/r/androiddev/comments/12k1lzo/lightweight_library_for_debouncing_lambdas/)
-- [Cross platform vs native Android?](https://www.reddit.com/r/androiddev/comments/12jzu8s/cross_platform_vs_native_android/)
-- [How can I accurately measure real-time distance in my app without breaking the bank?](https://www.reddit.com/r/androiddev/comments/12jzmqj/how_can_i_accurately_measure_realtime_distance_in/)
-- [Transfer image list for post](https://www.reddit.com/r/androiddev/comments/12jxtr1/transfer_image_list_for_post/)
-- [Third party referrals and play store search ranking](https://www.reddit.com/r/androiddev/comments/12jxrff/third_party_referrals_and_play_store_search/)
-- [Getting invalid package&quot; error when manually installing APK on Android device](https://www.reddit.com/r/androiddev/comments/12jx0yv/getting_invalid_package_error_when_manually/)
-- [What&#39;s the best way to gain Industry Experience in Android?](https://www.reddit.com/r/androiddev/comments/12jve94/whats_the_best_way_to_gain_industry_experience_in/)
-- [Which tool to use to showcase android components](https://www.reddit.com/r/androiddev/comments/12jvdyb/which_tool_to_use_to_showcase_android_components/)
-- [Play Console: Internal Testing Bug Fixes?](https://www.reddit.com/r/androiddev/comments/12jtzar/play_console_internal_testing_bug_fixes/)
+- [Is mobile development closer to web front or back?](https://www.reddit.com/r/androiddev/comments/12ldc29/is_mobile_development_closer_to_web_front_or_back/)
+- [Anyone here work at a big US automaker as an Android infotainment developer? How is it compared to traditional Android dev?](https://www.reddit.com/r/androiddev/comments/12lcb1p/anyone_here_work_at_a_big_us_automaker_as_an/)
+- [Android Studio Flamingo is stable](https://www.reddit.com/r/androiddev/comments/12l30le/android_studio_flamingo_is_stable/)
+- [Is this the standard way to set up a backend for stock market mobile app?](https://www.reddit.com/r/androiddev/comments/12l1lpl/is_this_the_standard_way_to_set_up_a_backend_for/)
+- [Android Developers Blog: Kotlin DSL is Now the Default for New Gradle Builds](https://www.reddit.com/r/androiddev/comments/12kq7zr/android_developers_blog_kotlin_dsl_is_now_the/)
+- [Java or kotlin](https://www.reddit.com/r/androiddev/comments/12kpijg/java_or_kotlin/)
+- [The universe is backwards. My IOS app got approved in one day, and now I am still waiting on my Google App to get approved.](https://www.reddit.com/r/androiddev/comments/12kolx1/the_universe_is_backwards_my_ios_app_got_approved/)
+- [How to play/export .JSON animation with assets](https://www.reddit.com/r/androiddev/comments/12kocn8/how_to_playexport_json_animation_with_assets/)
+- [Swap animation in jetpack compose](https://www.reddit.com/r/androiddev/comments/12kmrwp/swap_animation_in_jetpack_compose/)
+- [Google’s account switcher with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/12kkk2b/googles_account_switcher_with_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
