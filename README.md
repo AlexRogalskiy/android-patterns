@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is mobile development closer to web front or back?](https://www.reddit.com/r/androiddev/comments/12ldc29/is_mobile_development_closer_to_web_front_or_back/)
-- [Anyone here work at a big US automaker as an Android infotainment developer? How is it compared to traditional Android dev?](https://www.reddit.com/r/androiddev/comments/12lcb1p/anyone_here_work_at_a_big_us_automaker_as_an/)
-- [Android Studio Flamingo is stable](https://www.reddit.com/r/androiddev/comments/12l30le/android_studio_flamingo_is_stable/)
-- [Is this the standard way to set up a backend for stock market mobile app?](https://www.reddit.com/r/androiddev/comments/12l1lpl/is_this_the_standard_way_to_set_up_a_backend_for/)
-- [Android Developers Blog: Kotlin DSL is Now the Default for New Gradle Builds](https://www.reddit.com/r/androiddev/comments/12kq7zr/android_developers_blog_kotlin_dsl_is_now_the/)
-- [Java or kotlin](https://www.reddit.com/r/androiddev/comments/12kpijg/java_or_kotlin/)
-- [The universe is backwards. My IOS app got approved in one day, and now I am still waiting on my Google App to get approved.](https://www.reddit.com/r/androiddev/comments/12kolx1/the_universe_is_backwards_my_ios_app_got_approved/)
-- [How to play/export .JSON animation with assets](https://www.reddit.com/r/androiddev/comments/12kocn8/how_to_playexport_json_animation_with_assets/)
-- [Swap animation in jetpack compose](https://www.reddit.com/r/androiddev/comments/12kmrwp/swap_animation_in_jetpack_compose/)
-- [Google’s account switcher with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/12kkk2b/googles_account_switcher_with_jetpack_compose/)
+- [Background Location, and Permissions - seeking urgent help](https://www.reddit.com/r/androiddev/comments/12mkxdk/background_location_and_permissions_seeking/)
+- [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/androiddev/comments/12mjf7d/github_kryptokronakryptokronakotlinsdk/)
+- [How to implement hold and drag functionality on scrollview?](https://www.reddit.com/r/androiddev/comments/12mj5lu/how_to_implement_hold_and_drag_functionality_on/)
+- [RoboDroid: Manage &lpar;and soon deploy&rpar; Android devices with pre-defined behaviors for Cyber Range environments](https://www.reddit.com/r/androiddev/comments/12mi1bw/robodroid_manage_and_soon_deploy_android_devices/)
+- [Does Material3 has Dark Toolbar style?](https://www.reddit.com/r/androiddev/comments/12med3o/does_material3_has_dark_toolbar_style/)
+- [How to hack android tv over the internet with shodan](https://www.reddit.com/r/androiddev/comments/12mcvhw/how_to_hack_android_tv_over_the_internet_with/)
+- [Is it necessary to have a sticky service to make Geofences work?](https://www.reddit.com/r/androiddev/comments/12mbllr/is_it_necessary_to_have_a_sticky_service_to_make/)
+- [App is not compliant with family policy requirments.Google Play](https://www.reddit.com/r/androiddev/comments/12m9dz7/app_is_not_compliant_with_family_policy/)
+- [JADXecute, Enhancing JADX Reverse Engineering /W Dynamic Code Execution](https://www.reddit.com/r/androiddev/comments/12m4sg7/jadxecute_enhancing_jadx_reverse_engineering_w/)
+- [Anyone else get annoyed when certain versions of androidx artifacts require compiling against Preview or Beta Android SDKs?](https://www.reddit.com/r/androiddev/comments/12m3h66/anyone_else_get_annoyed_when_certain_versions_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
