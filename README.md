@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Background Location, and Permissions - seeking urgent help](https://www.reddit.com/r/androiddev/comments/12mkxdk/background_location_and_permissions_seeking/)
-- [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.](https://www.reddit.com/r/androiddev/comments/12mjf7d/github_kryptokronakryptokronakotlinsdk/)
-- [How to implement hold and drag functionality on scrollview?](https://www.reddit.com/r/androiddev/comments/12mj5lu/how_to_implement_hold_and_drag_functionality_on/)
-- [RoboDroid: Manage &lpar;and soon deploy&rpar; Android devices with pre-defined behaviors for Cyber Range environments](https://www.reddit.com/r/androiddev/comments/12mi1bw/robodroid_manage_and_soon_deploy_android_devices/)
-- [Does Material3 has Dark Toolbar style?](https://www.reddit.com/r/androiddev/comments/12med3o/does_material3_has_dark_toolbar_style/)
-- [How to hack android tv over the internet with shodan](https://www.reddit.com/r/androiddev/comments/12mcvhw/how_to_hack_android_tv_over_the_internet_with/)
-- [Is it necessary to have a sticky service to make Geofences work?](https://www.reddit.com/r/androiddev/comments/12mbllr/is_it_necessary_to_have_a_sticky_service_to_make/)
-- [App is not compliant with family policy requirments.Google Play](https://www.reddit.com/r/androiddev/comments/12m9dz7/app_is_not_compliant_with_family_policy/)
-- [JADXecute, Enhancing JADX Reverse Engineering /W Dynamic Code Execution](https://www.reddit.com/r/androiddev/comments/12m4sg7/jadxecute_enhancing_jadx_reverse_engineering_w/)
-- [Anyone else get annoyed when certain versions of androidx artifacts require compiling against Preview or Beta Android SDKs?](https://www.reddit.com/r/androiddev/comments/12m3h66/anyone_else_get_annoyed_when_certain_versions_of/)
+- [GPS accuracy issues when screen is off in Android](https://www.reddit.com/r/androiddev/comments/12nlv3u/gps_accuracy_issues_when_screen_is_off_in_android/)
+- [Interest in a web3 app marketplace where you can sell your apks as encrypted nfts and basically keep all the revenue?](https://www.reddit.com/r/androiddev/comments/12nf6wc/interest_in_a_web3_app_marketplace_where_you_can/)
+- [Icon turns to default android icon once installed from playstore.](https://www.reddit.com/r/androiddev/comments/12ne8dx/icon_turns_to_default_android_icon_once_installed/)
+- [Project idea for engineering final year for team of 3 people](https://www.reddit.com/r/androiddev/comments/12navvr/project_idea_for_engineering_final_year_for_team/)
+- [My app when typed in play store use to show the overview of app of the app alongside an install button before even clicking it. My app name is called Iguhallee &lpar;demonstrated in the second image&rpar;. I want to appear like the first picture when the app is typed in the play store search&lpar;like first pic&rpar;](https://www.reddit.com/r/androiddev/comments/12n6qcl/my_app_when_typed_in_play_store_use_to_show_the/)
+- [How is the job market nowadays where you live?](https://www.reddit.com/r/androiddev/comments/12n2y7d/how_is_the_job_market_nowadays_where_you_live/)
+- [Is it ok to have global scopes when the coroutine I&#39;m starting has *nothing* to do with showing UI, nor do I care about its result?](https://www.reddit.com/r/androiddev/comments/12mzyk3/is_it_ok_to_have_global_scopes_when_the_coroutine/)
+- [Problem with Wireless Debugging in Android Studio](https://www.reddit.com/r/androiddev/comments/12mzccg/problem_with_wireless_debugging_in_android_studio/)
+- [Kotlin bug?](https://www.reddit.com/r/androiddev/comments/12mxypn/kotlin_bug/)
+- [How to make navigation drawer over status bar?](https://www.reddit.com/r/androiddev/comments/12mxmns/how_to_make_navigation_drawer_over_status_bar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
