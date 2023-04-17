@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GPS accuracy issues when screen is off in Android](https://www.reddit.com/r/androiddev/comments/12nlv3u/gps_accuracy_issues_when_screen_is_off_in_android/)
-- [Interest in a web3 app marketplace where you can sell your apks as encrypted nfts and basically keep all the revenue?](https://www.reddit.com/r/androiddev/comments/12nf6wc/interest_in_a_web3_app_marketplace_where_you_can/)
-- [Icon turns to default android icon once installed from playstore.](https://www.reddit.com/r/androiddev/comments/12ne8dx/icon_turns_to_default_android_icon_once_installed/)
-- [Project idea for engineering final year for team of 3 people](https://www.reddit.com/r/androiddev/comments/12navvr/project_idea_for_engineering_final_year_for_team/)
-- [My app when typed in play store use to show the overview of app of the app alongside an install button before even clicking it. My app name is called Iguhallee &lpar;demonstrated in the second image&rpar;. I want to appear like the first picture when the app is typed in the play store search&lpar;like first pic&rpar;](https://www.reddit.com/r/androiddev/comments/12n6qcl/my_app_when_typed_in_play_store_use_to_show_the/)
-- [How is the job market nowadays where you live?](https://www.reddit.com/r/androiddev/comments/12n2y7d/how_is_the_job_market_nowadays_where_you_live/)
-- [Is it ok to have global scopes when the coroutine I&#39;m starting has *nothing* to do with showing UI, nor do I care about its result?](https://www.reddit.com/r/androiddev/comments/12mzyk3/is_it_ok_to_have_global_scopes_when_the_coroutine/)
-- [Problem with Wireless Debugging in Android Studio](https://www.reddit.com/r/androiddev/comments/12mzccg/problem_with_wireless_debugging_in_android_studio/)
-- [Kotlin bug?](https://www.reddit.com/r/androiddev/comments/12mxypn/kotlin_bug/)
-- [How to make navigation drawer over status bar?](https://www.reddit.com/r/androiddev/comments/12mxmns/how_to_make_navigation_drawer_over_status_bar/)
+- [Authenticity of custom Rom](https://www.reddit.com/r/androiddev/comments/12oss0a/authenticity_of_custom_rom/)
+- [keystore file does not exist error-android studio](https://www.reddit.com/r/androiddev/comments/12ortwu/keystore_file_does_not_exist_errorandroid_studio/)
+- [Android app for chatgpt](https://www.reddit.com/r/androiddev/comments/12oly6g/android_app_for_chatgpt/)
+- [If intents, bundle, and SharedPreference are all used to store/pass data between activities, what are the differences between them?](https://www.reddit.com/r/androiddev/comments/12ohn71/if_intents_bundle_and_sharedpreference_are_all/)
+- [An endeavor to prove it’s Google’s bug and get them to fix it](https://www.reddit.com/r/androiddev/comments/12oaomj/an_endeavor_to_prove_its_googles_bug_and_get_them/)
+- [2048 car game app inventor](https://www.reddit.com/r/androiddev/comments/12o9mf0/2048_car_game_app_inventor/)
+- [Single activity or multiple activaty for TV apps?](https://www.reddit.com/r/androiddev/comments/12o9kb1/single_activity_or_multiple_activaty_for_tv_apps/)
+- [Write logs to filesystem manually or is there a framework?](https://www.reddit.com/r/androiddev/comments/12o5ppg/write_logs_to_filesystem_manually_or_is_there_a/)
+- [Does the Glide library support retrying to load images when a failed signal is received?](https://www.reddit.com/r/androiddev/comments/12o53y2/does_the_glide_library_support_retrying_to_load/)
+- [What is the right way to create a video editor timeline view](https://www.reddit.com/r/androiddev/comments/12nza4l/what_is_the_right_way_to_create_a_video_editor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
