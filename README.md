@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Authenticity of custom Rom](https://www.reddit.com/r/androiddev/comments/12oss0a/authenticity_of_custom_rom/)
-- [keystore file does not exist error-android studio](https://www.reddit.com/r/androiddev/comments/12ortwu/keystore_file_does_not_exist_errorandroid_studio/)
-- [Android app for chatgpt](https://www.reddit.com/r/androiddev/comments/12oly6g/android_app_for_chatgpt/)
-- [If intents, bundle, and SharedPreference are all used to store/pass data between activities, what are the differences between them?](https://www.reddit.com/r/androiddev/comments/12ohn71/if_intents_bundle_and_sharedpreference_are_all/)
-- [An endeavor to prove it’s Google’s bug and get them to fix it](https://www.reddit.com/r/androiddev/comments/12oaomj/an_endeavor_to_prove_its_googles_bug_and_get_them/)
-- [2048 car game app inventor](https://www.reddit.com/r/androiddev/comments/12o9mf0/2048_car_game_app_inventor/)
-- [Single activity or multiple activaty for TV apps?](https://www.reddit.com/r/androiddev/comments/12o9kb1/single_activity_or_multiple_activaty_for_tv_apps/)
-- [Write logs to filesystem manually or is there a framework?](https://www.reddit.com/r/androiddev/comments/12o5ppg/write_logs_to_filesystem_manually_or_is_there_a/)
-- [Does the Glide library support retrying to load images when a failed signal is received?](https://www.reddit.com/r/androiddev/comments/12o53y2/does_the_glide_library_support_retrying_to_load/)
-- [What is the right way to create a video editor timeline view](https://www.reddit.com/r/androiddev/comments/12nza4l/what_is_the_right_way_to_create_a_video_editor/)
+- [Jetpack Compose + Paging 3 + Remote Mediator + Room project example but with mutable list items](https://www.reddit.com/r/androiddev/comments/12q5huy/jetpack_compose_paging_3_remote_mediator_room/)
+- [Google deletes my account for no apparent reason](https://www.reddit.com/r/androiddev/comments/12q09fj/google_deletes_my_account_for_no_apparent_reason/)
+- [Improvements and Changes to Compose’s Pointer Input](https://www.reddit.com/r/androiddev/comments/12pvt3x/improvements_and_changes_to_composes_pointer_input/)
+- [How do you prevent your apps published on PlayStore to be jail-breaked/modded and ending up scattered on every other site?](https://www.reddit.com/r/androiddev/comments/12puvyf/how_do_you_prevent_your_apps_published_on/)
+- [As someone hoping to break into the industry in 2024, should I focus on XML or jet pack compose?](https://www.reddit.com/r/androiddev/comments/12pra5b/as_someone_hoping_to_break_into_the_industry_in/)
+- [How twitter keep session even though I clear all data?](https://www.reddit.com/r/androiddev/comments/12pqoxt/how_twitter_keep_session_even_though_i_clear_all/)
+- [What&#39;s new in Android dev in the last 3-5 years?](https://www.reddit.com/r/androiddev/comments/12pqikc/whats_new_in_android_dev_in_the_last_35_years/)
+- [Is there an issue with generating APKs lately](https://www.reddit.com/r/androiddev/comments/12pq3ih/is_there_an_issue_with_generating_apks_lately/)
+- [can anyone help with Exception java.lang.RuntimeException Error App Crashing On Google Play](https://www.reddit.com/r/androiddev/comments/12pnuyy/can_anyone_help_with_exception/)
+- [Finally got my app through Google review.](https://www.reddit.com/r/androiddev/comments/12pn3mm/finally_got_my_app_through_google_review/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
