@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Jetpack Compose + Paging 3 + Remote Mediator + Room project example but with mutable list items](https://www.reddit.com/r/androiddev/comments/12q5huy/jetpack_compose_paging_3_remote_mediator_room/)
-- [Google deletes my account for no apparent reason](https://www.reddit.com/r/androiddev/comments/12q09fj/google_deletes_my_account_for_no_apparent_reason/)
-- [Improvements and Changes to Compose’s Pointer Input](https://www.reddit.com/r/androiddev/comments/12pvt3x/improvements_and_changes_to_composes_pointer_input/)
-- [How do you prevent your apps published on PlayStore to be jail-breaked/modded and ending up scattered on every other site?](https://www.reddit.com/r/androiddev/comments/12puvyf/how_do_you_prevent_your_apps_published_on/)
-- [As someone hoping to break into the industry in 2024, should I focus on XML or jet pack compose?](https://www.reddit.com/r/androiddev/comments/12pra5b/as_someone_hoping_to_break_into_the_industry_in/)
-- [How twitter keep session even though I clear all data?](https://www.reddit.com/r/androiddev/comments/12pqoxt/how_twitter_keep_session_even_though_i_clear_all/)
-- [What&#39;s new in Android dev in the last 3-5 years?](https://www.reddit.com/r/androiddev/comments/12pqikc/whats_new_in_android_dev_in_the_last_35_years/)
-- [Is there an issue with generating APKs lately](https://www.reddit.com/r/androiddev/comments/12pq3ih/is_there_an_issue_with_generating_apks_lately/)
-- [can anyone help with Exception java.lang.RuntimeException Error App Crashing On Google Play](https://www.reddit.com/r/androiddev/comments/12pnuyy/can_anyone_help_with_exception/)
-- [Finally got my app through Google review.](https://www.reddit.com/r/androiddev/comments/12pn3mm/finally_got_my_app_through_google_review/)
+- [Google banned my developer account and they are saying dont come back](https://www.reddit.com/r/androiddev/comments/12rck36/google_banned_my_developer_account_and_they_are/)
+- [Why some apps use copyrighted names but others get suspended because of it?](https://www.reddit.com/r/androiddev/comments/12r7q69/why_some_apps_use_copyrighted_names_but_others/)
+- [Need Help Implementing Ads With Admob and Android Studio](https://www.reddit.com/r/androiddev/comments/12r5spl/need_help_implementing_ads_with_admob_and_android/)
+- [🚨 Seeking Assistance - Google Play Console Developer Account Termination 🚨](https://www.reddit.com/r/androiddev/comments/12r5gj4/seeking_assistance_google_play_console_developer/)
+- [Participate in a Carnegie Mellon University research study [STUDY2023_00000084]](https://www.reddit.com/r/androiddev/comments/12r4bcd/participate_in_a_carnegie_mellon_university/)
+- [Why do so many places hire &quot;Android Developers&quot; but use React and JS?](https://www.reddit.com/r/androiddev/comments/12r0j5r/why_do_so_many_places_hire_android_developers_but/)
+- [Does anyone has experience in using measurement SDK to track TikTok ads install?](https://www.reddit.com/r/androiddev/comments/12qz4v0/does_anyone_has_experience_in_using_measurement/)
+- [Should I give up the dream of Android? I&#39;ve been at this for 1.5 years now.](https://www.reddit.com/r/androiddev/comments/12qy521/should_i_give_up_the_dream_of_android_ive_been_at/)
+- [Android Studio Flamingo now available in the stable channel](https://www.reddit.com/r/androiddev/comments/12qw7xs/android_studio_flamingo_now_available_in_the/)
+- [Reusing fragments with ViewModels](https://www.reddit.com/r/androiddev/comments/12quby0/reusing_fragments_with_viewmodels/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
