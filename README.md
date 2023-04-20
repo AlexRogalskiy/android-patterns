@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google banned my developer account and they are saying dont come back](https://www.reddit.com/r/androiddev/comments/12rck36/google_banned_my_developer_account_and_they_are/)
-- [Why some apps use copyrighted names but others get suspended because of it?](https://www.reddit.com/r/androiddev/comments/12r7q69/why_some_apps_use_copyrighted_names_but_others/)
-- [Need Help Implementing Ads With Admob and Android Studio](https://www.reddit.com/r/androiddev/comments/12r5spl/need_help_implementing_ads_with_admob_and_android/)
-- [🚨 Seeking Assistance - Google Play Console Developer Account Termination 🚨](https://www.reddit.com/r/androiddev/comments/12r5gj4/seeking_assistance_google_play_console_developer/)
-- [Participate in a Carnegie Mellon University research study [STUDY2023_00000084]](https://www.reddit.com/r/androiddev/comments/12r4bcd/participate_in_a_carnegie_mellon_university/)
-- [Why do so many places hire &quot;Android Developers&quot; but use React and JS?](https://www.reddit.com/r/androiddev/comments/12r0j5r/why_do_so_many_places_hire_android_developers_but/)
-- [Does anyone has experience in using measurement SDK to track TikTok ads install?](https://www.reddit.com/r/androiddev/comments/12qz4v0/does_anyone_has_experience_in_using_measurement/)
-- [Should I give up the dream of Android? I&#39;ve been at this for 1.5 years now.](https://www.reddit.com/r/androiddev/comments/12qy521/should_i_give_up_the_dream_of_android_ive_been_at/)
-- [Android Studio Flamingo now available in the stable channel](https://www.reddit.com/r/androiddev/comments/12qw7xs/android_studio_flamingo_now_available_in_the/)
-- [Reusing fragments with ViewModels](https://www.reddit.com/r/androiddev/comments/12quby0/reusing_fragments_with_viewmodels/)
+- [How to know when I first release the App in the PlayStore?](https://www.reddit.com/r/androiddev/comments/12shmyb/how_to_know_when_i_first_release_the_app_in_the/)
+- [Workaround for mavenCentral&lpar;&rpar; being down currently](https://www.reddit.com/r/androiddev/comments/12shc9d/workaround_for_mavencentral_being_down_currently/)
+- [New Android project with empty activity uses 65MB in profiler. Is this normal?](https://www.reddit.com/r/androiddev/comments/12sf8ni/new_android_project_with_empty_activity_uses_65mb/)
+- [FOr those looking to disable the rotate button on the navigation bar of Android phones an the normal method doesn&#39;t work](https://www.reddit.com/r/androiddev/comments/12sd437/for_those_looking_to_disable_the_rotate_button_on/)
+- [Is learning cloud/devops skills of any benefit for android developers?](https://www.reddit.com/r/androiddev/comments/12sceny/is_learning_clouddevops_skills_of_any_benefit_for/)
+- [I&#39;m looking for a way to do something similar as Samsung&#39;s Call management from another device](https://www.reddit.com/r/androiddev/comments/12s9jsr/im_looking_for_a_way_to_do_something_similar_as/)
+- [Which is the least SDK where FragmentManager.isStateSaved&lpar;&rpar; returns true before onResumed?](https://www.reddit.com/r/androiddev/comments/12s7llf/which_is_the_least_sdk_where/)
+- [Virtual machines on android phones](https://www.reddit.com/r/androiddev/comments/12s55jj/virtual_machines_on_android_phones/)
+- [Recommendation on how to start](https://www.reddit.com/r/androiddev/comments/12s4h9m/recommendation_on_how_to_start/)
+- [Merge App Store Connect and Play Console data? Any tips?](https://www.reddit.com/r/androiddev/comments/12s3wbp/merge_app_store_connect_and_play_console_data_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
