@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to know when I first release the App in the PlayStore?](https://www.reddit.com/r/androiddev/comments/12shmyb/how_to_know_when_i_first_release_the_app_in_the/)
-- [Workaround for mavenCentral&lpar;&rpar; being down currently](https://www.reddit.com/r/androiddev/comments/12shc9d/workaround_for_mavencentral_being_down_currently/)
-- [New Android project with empty activity uses 65MB in profiler. Is this normal?](https://www.reddit.com/r/androiddev/comments/12sf8ni/new_android_project_with_empty_activity_uses_65mb/)
-- [FOr those looking to disable the rotate button on the navigation bar of Android phones an the normal method doesn&#39;t work](https://www.reddit.com/r/androiddev/comments/12sd437/for_those_looking_to_disable_the_rotate_button_on/)
-- [Is learning cloud/devops skills of any benefit for android developers?](https://www.reddit.com/r/androiddev/comments/12sceny/is_learning_clouddevops_skills_of_any_benefit_for/)
-- [I&#39;m looking for a way to do something similar as Samsung&#39;s Call management from another device](https://www.reddit.com/r/androiddev/comments/12s9jsr/im_looking_for_a_way_to_do_something_similar_as/)
-- [Which is the least SDK where FragmentManager.isStateSaved&lpar;&rpar; returns true before onResumed?](https://www.reddit.com/r/androiddev/comments/12s7llf/which_is_the_least_sdk_where/)
-- [Virtual machines on android phones](https://www.reddit.com/r/androiddev/comments/12s55jj/virtual_machines_on_android_phones/)
-- [Recommendation on how to start](https://www.reddit.com/r/androiddev/comments/12s4h9m/recommendation_on_how_to_start/)
-- [Merge App Store Connect and Play Console data? Any tips?](https://www.reddit.com/r/androiddev/comments/12s3wbp/merge_app_store_connect_and_play_console_data_any/)
+- [Can someone please give me an overview of how the tools to build android applications fit together WITHOUT Android Studio?](https://www.reddit.com/r/androiddev/comments/12tkx6w/can_someone_please_give_me_an_overview_of_how_the/)
+- [Anyone tried the new &#39;com.android.settings&#39; plugin? Can&#39;t seem to make it work.](https://www.reddit.com/r/androiddev/comments/12thx5y/anyone_tried_the_new_comandroidsettings_plugin/)
+- [Do you know of a page, blog, or group that allows developers to test and promote an indie app for free?](https://www.reddit.com/r/androiddev/comments/12tel7l/do_you_know_of_a_page_blog_or_group_that_allows/)
+- [Gradle Kotlin DSL to be default in Android Giraffe despite subpar performance v. Groovy DSL](https://www.reddit.com/r/androiddev/comments/12td31f/gradle_kotlin_dsl_to_be_default_in_android/)
+- [Thoughts on the tech industry situation!](https://www.reddit.com/r/androiddev/comments/12tcw4u/thoughts_on_the_tech_industry_situation/)
+- [Help with Ad Implementation using Admob](https://www.reddit.com/r/androiddev/comments/12tbbfr/help_with_ad_implementation_using_admob/)
+- [Broadcast Receiver and record_audio permissions](https://www.reddit.com/r/androiddev/comments/12taim5/broadcast_receiver_and_record_audio_permissions/)
+- [Android Studio Giraffe Beta 1 now available](https://www.reddit.com/r/androiddev/comments/12taekx/android_studio_giraffe_beta_1_now_available/)
+- [A few questions about mobile development career](https://www.reddit.com/r/androiddev/comments/12tae6v/a_few_questions_about_mobile_development_career/)
+- [Observe the progress of the workmanager while it is in the running state](https://www.reddit.com/r/androiddev/comments/12t1oyf/observe_the_progress_of_the_workmanager_while_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
