@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can someone please give me an overview of how the tools to build android applications fit together WITHOUT Android Studio?](https://www.reddit.com/r/androiddev/comments/12tkx6w/can_someone_please_give_me_an_overview_of_how_the/)
-- [Anyone tried the new &#39;com.android.settings&#39; plugin? Can&#39;t seem to make it work.](https://www.reddit.com/r/androiddev/comments/12thx5y/anyone_tried_the_new_comandroidsettings_plugin/)
-- [Do you know of a page, blog, or group that allows developers to test and promote an indie app for free?](https://www.reddit.com/r/androiddev/comments/12tel7l/do_you_know_of_a_page_blog_or_group_that_allows/)
-- [Gradle Kotlin DSL to be default in Android Giraffe despite subpar performance v. Groovy DSL](https://www.reddit.com/r/androiddev/comments/12td31f/gradle_kotlin_dsl_to_be_default_in_android/)
-- [Thoughts on the tech industry situation!](https://www.reddit.com/r/androiddev/comments/12tcw4u/thoughts_on_the_tech_industry_situation/)
-- [Help with Ad Implementation using Admob](https://www.reddit.com/r/androiddev/comments/12tbbfr/help_with_ad_implementation_using_admob/)
-- [Broadcast Receiver and record_audio permissions](https://www.reddit.com/r/androiddev/comments/12taim5/broadcast_receiver_and_record_audio_permissions/)
-- [Android Studio Giraffe Beta 1 now available](https://www.reddit.com/r/androiddev/comments/12taekx/android_studio_giraffe_beta_1_now_available/)
-- [A few questions about mobile development career](https://www.reddit.com/r/androiddev/comments/12tae6v/a_few_questions_about_mobile_development_career/)
-- [Observe the progress of the workmanager while it is in the running state](https://www.reddit.com/r/androiddev/comments/12t1oyf/observe_the_progress_of_the_workmanager_while_it/)
+- [Different from the usual &quot;failed to load&quot; message](https://www.reddit.com/r/androiddev/comments/12uqd6v/different_from_the_usual_failed_to_load_message/)
+- [AutoGPT and Medical Cybercrimes: AI War?](https://www.reddit.com/r/androiddev/comments/12upo2g/autogpt_and_medical_cybercrimes_ai_war/)
+- [I just published my first library for Android! It&#39;s a progress dialog called &#39;PleaseWait&#39;](https://www.reddit.com/r/androiddev/comments/12up1my/i_just_published_my_first_library_for_android_its/)
+- [🟣 Simple advice needed - Building a bloatware list](https://www.reddit.com/r/androiddev/comments/12un9c1/simple_advice_needed_building_a_bloatware_list/)
+- [Manage Complex Single State in View based Application](https://www.reddit.com/r/androiddev/comments/12uldl6/manage_complex_single_state_in_view_based/)
+- [fatal: manifest &#39;default.xml&#39; not available; fatal: manifest default.xml not found](https://www.reddit.com/r/androiddev/comments/12uixdx/fatal_manifest_defaultxml_not_available_fatal/)
+- [Participate in a Carnegie Mellon University research study [STUDY2023_00000084]](https://www.reddit.com/r/androiddev/comments/12uhij5/participate_in_a_carnegie_mellon_university/)
+- [Developer contact shows my physical address in Google Play. Is it possible to hide it somehow?](https://www.reddit.com/r/androiddev/comments/12ug8ge/developer_contact_shows_my_physical_address_in/)
+- [How to have process communication in a mobile application](https://www.reddit.com/r/androiddev/comments/12uezae/how_to_have_process_communication_in_a_mobile/)
+- [Request access to android/data folder](https://www.reddit.com/r/androiddev/comments/12ua7hr/request_access_to_androiddata_folder/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
