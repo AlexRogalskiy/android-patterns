@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Existing app suggestions](https://www.reddit.com/r/androiddev/comments/12wwa7y/existing_app_suggestions/)
+- [With the changes that the last couple of Java iterations had, do you think Kotlin is still better for new projects?](https://www.reddit.com/r/androiddev/comments/12wpj92/with_the_changes_that_the_last_couple_of_java/)
+- [Panic! in the Tech Industry](https://www.reddit.com/r/androiddev/comments/12wnzpz/panic_in_the_tech_industry/)
+- [Does the draft being synched with production mean it&#39;s accessible to everyone?](https://www.reddit.com/r/androiddev/comments/12wky8i/does_the_draft_being_synched_with_production_mean/)
+- [Are Fragments in Android going to be deprecated in favor of Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/12w9v77/are_fragments_in_android_going_to_be_deprecated/)
+- [Understand Drawing Arc of A Path In Jetpack Compose Canvas](https://www.reddit.com/r/androiddev/comments/12w7jnx/understand_drawing_arc_of_a_path_in_jetpack/)
+- [Google play app signing issue.](https://www.reddit.com/r/androiddev/comments/12w4vy2/google_play_app_signing_issue/)
+- [How would you measure performance of mobile team?](https://www.reddit.com/r/androiddev/comments/12vykpf/how_would_you_measure_performance_of_mobile_team/)
+- [What to do when support won&#39;t reply?](https://www.reddit.com/r/androiddev/comments/12vxauc/what_to_do_when_support_wont_reply/)
 - [Play Store has been flooded with &quot;Ai&quot; &quot;ChatGPT&quot; apps with millions of downloads! Apparently green seems to be the color of choice for Ai apps.](https://www.reddit.com/r/androiddev/comments/12visrp/play_store_has_been_flooded_with_ai_chatgpt_apps/)
-- [Release process](https://www.reddit.com/r/androiddev/comments/12vinvk/release_process/)
-- [Hey guys, I&#39;m having trouble with my tabLayout text appearing on multiple lines. Any tips on how to make it appear in a single line? Thanks in advance!](https://www.reddit.com/r/androiddev/comments/12vezjv/hey_guys_im_having_trouble_with_my_tablayout_text/)
-- [SD Cards](https://www.reddit.com/r/androiddev/comments/12v7igz/sd_cards/)
-- [How to achieve this animation?](https://www.reddit.com/r/androiddev/comments/12v1ki4/how_to_achieve_this_animation/)
-- [Managing the ideas in an app](https://www.reddit.com/r/androiddev/comments/12v0pgq/managing_the_ideas_in_an_app/)
-- [Open source App Feedback , Moneygram - Track Expenses](https://www.reddit.com/r/androiddev/comments/12uy5z2/open_source_app_feedback_moneygram_track_expenses/)
-- [Help me understand Google Play Install data](https://www.reddit.com/r/androiddev/comments/12uwznt/help_me_understand_google_play_install_data/)
-- [Why does kotlin have very less tutorials and stack overflow questions when compared to java?](https://www.reddit.com/r/androiddev/comments/12uw3gr/why_does_kotlin_have_very_less_tutorials_and/)
-- [Different from the usual &quot;failed to load&quot; message](https://www.reddit.com/r/androiddev/comments/12uqd6v/different_from_the_usual_failed_to_load_message/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
