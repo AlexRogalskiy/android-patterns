@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Existing app suggestions](https://www.reddit.com/r/androiddev/comments/12wwa7y/existing_app_suggestions/)
-- [With the changes that the last couple of Java iterations had, do you think Kotlin is still better for new projects?](https://www.reddit.com/r/androiddev/comments/12wpj92/with_the_changes_that_the_last_couple_of_java/)
-- [Panic! in the Tech Industry](https://www.reddit.com/r/androiddev/comments/12wnzpz/panic_in_the_tech_industry/)
-- [Does the draft being synched with production mean it&#39;s accessible to everyone?](https://www.reddit.com/r/androiddev/comments/12wky8i/does_the_draft_being_synched_with_production_mean/)
-- [Are Fragments in Android going to be deprecated in favor of Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/12w9v77/are_fragments_in_android_going_to_be_deprecated/)
-- [Understand Drawing Arc of A Path In Jetpack Compose Canvas](https://www.reddit.com/r/androiddev/comments/12w7jnx/understand_drawing_arc_of_a_path_in_jetpack/)
-- [Google play app signing issue.](https://www.reddit.com/r/androiddev/comments/12w4vy2/google_play_app_signing_issue/)
-- [How would you measure performance of mobile team?](https://www.reddit.com/r/androiddev/comments/12vykpf/how_would_you_measure_performance_of_mobile_team/)
-- [What to do when support won&#39;t reply?](https://www.reddit.com/r/androiddev/comments/12vxauc/what_to_do_when_support_wont_reply/)
-- [Play Store has been flooded with &quot;Ai&quot; &quot;ChatGPT&quot; apps with millions of downloads! Apparently green seems to be the color of choice for Ai apps.](https://www.reddit.com/r/androiddev/comments/12visrp/play_store_has_been_flooded_with_ai_chatgpt_apps/)
+- [Android Studio Emulator 33.1.5 Canary now available](https://www.reddit.com/r/androiddev/comments/12xzrg7/android_studio_emulator_3315_canary_now_available/)
+- [How hard is it to stand out in a crowded app market?](https://www.reddit.com/r/androiddev/comments/12xwxcp/how_hard_is_it_to_stand_out_in_a_crowded_app/)
+- [Photo Picker Everywhere](https://www.reddit.com/r/androiddev/comments/12xwpsw/photo_picker_everywhere/)
+- [My Galaxy S10 finally died, looking for a replacement](https://www.reddit.com/r/androiddev/comments/12xwpfv/my_galaxy_s10_finally_died_looking_for_a/)
+- [Guide to Install Google apps on Huawei Smartphones using GBox](https://www.reddit.com/r/androiddev/comments/12xsw1z/guide_to_install_google_apps_on_huawei/)
+- [OEM UNLOCK not showing in developer options](https://www.reddit.com/r/androiddev/comments/12xp103/oem_unlock_not_showing_in_developer_options/)
+- [Making Graph Plotting Function in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/12xmtwi/making_graph_plotting_function_in_jetpack_compose/)
+- [Older app runs on emulator but not phone.](https://www.reddit.com/r/androiddev/comments/12xhftx/older_app_runs_on_emulator_but_not_phone/)
+- [How much time does Google take to review build in alpha release track?](https://www.reddit.com/r/androiddev/comments/12xgtz7/how_much_time_does_google_take_to_review_build_in/)
+- [Eternal &quot;Apache Cordova Device Is Ready&quot; screen error.](https://www.reddit.com/r/androiddev/comments/12xgb6v/eternal_apache_cordova_device_is_ready_screen/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
