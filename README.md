@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Emulator 33.1.5 Canary now available](https://www.reddit.com/r/androiddev/comments/12xzrg7/android_studio_emulator_3315_canary_now_available/)
-- [How hard is it to stand out in a crowded app market?](https://www.reddit.com/r/androiddev/comments/12xwxcp/how_hard_is_it_to_stand_out_in_a_crowded_app/)
-- [Photo Picker Everywhere](https://www.reddit.com/r/androiddev/comments/12xwpsw/photo_picker_everywhere/)
-- [My Galaxy S10 finally died, looking for a replacement](https://www.reddit.com/r/androiddev/comments/12xwpfv/my_galaxy_s10_finally_died_looking_for_a/)
-- [Guide to Install Google apps on Huawei Smartphones using GBox](https://www.reddit.com/r/androiddev/comments/12xsw1z/guide_to_install_google_apps_on_huawei/)
-- [OEM UNLOCK not showing in developer options](https://www.reddit.com/r/androiddev/comments/12xp103/oem_unlock_not_showing_in_developer_options/)
-- [Making Graph Plotting Function in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/12xmtwi/making_graph_plotting_function_in_jetpack_compose/)
-- [Older app runs on emulator but not phone.](https://www.reddit.com/r/androiddev/comments/12xhftx/older_app_runs_on_emulator_but_not_phone/)
-- [How much time does Google take to review build in alpha release track?](https://www.reddit.com/r/androiddev/comments/12xgtz7/how_much_time_does_google_take_to_review_build_in/)
-- [Eternal &quot;Apache Cordova Device Is Ready&quot; screen error.](https://www.reddit.com/r/androiddev/comments/12xgb6v/eternal_apache_cordova_device_is_ready_screen/)
+- [Is it possible to ad app to Google Play with only for home wigdet](https://www.reddit.com/r/androiddev/comments/12z1tsv/is_it_possible_to_ad_app_to_google_play_with_only/)
+- [How long to be an employable Android developer?](https://www.reddit.com/r/androiddev/comments/12z1iyx/how_long_to_be_an_employable_android_developer/)
+- [Android Studio Hedgehog Canary 1 now available](https://www.reddit.com/r/androiddev/comments/12yzlf9/android_studio_hedgehog_canary_1_now_available/)
+- [Would using JSON files from Github for my application cause any issues?](https://www.reddit.com/r/androiddev/comments/12yz7wo/would_using_json_files_from_github_for_my/)
+- [Did anyone try newly released Buck2 build system on an Android project?](https://www.reddit.com/r/androiddev/comments/12yxghx/did_anyone_try_newly_released_buck2_build_system/)
+- [Question about localization](https://www.reddit.com/r/androiddev/comments/12yxewa/question_about_localization/)
+- [I am having a hard time adding shadows in Android &lpar;in general&rpar;](https://www.reddit.com/r/androiddev/comments/12yuvtt/i_am_having_a_hard_time_adding_shadows_in_android/)
+- [How to create this view?](https://www.reddit.com/r/androiddev/comments/12yrc1h/how_to_create_this_view/)
+- [How to create a Custom Dialog that slide up from the bottom of the screen](https://www.reddit.com/r/androiddev/comments/12yqie3/how_to_create_a_custom_dialog_that_slide_up_from/)
+- [Chemist Looking for Coding Buddies](https://www.reddit.com/r/androiddev/comments/12ypp59/chemist_looking_for_coding_buddies/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
