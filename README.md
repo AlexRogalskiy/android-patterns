@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible to ad app to Google Play with only for home wigdet](https://www.reddit.com/r/androiddev/comments/12z1tsv/is_it_possible_to_ad_app_to_google_play_with_only/)
-- [How long to be an employable Android developer?](https://www.reddit.com/r/androiddev/comments/12z1iyx/how_long_to_be_an_employable_android_developer/)
-- [Android Studio Hedgehog Canary 1 now available](https://www.reddit.com/r/androiddev/comments/12yzlf9/android_studio_hedgehog_canary_1_now_available/)
-- [Would using JSON files from Github for my application cause any issues?](https://www.reddit.com/r/androiddev/comments/12yz7wo/would_using_json_files_from_github_for_my/)
-- [Did anyone try newly released Buck2 build system on an Android project?](https://www.reddit.com/r/androiddev/comments/12yxghx/did_anyone_try_newly_released_buck2_build_system/)
-- [Question about localization](https://www.reddit.com/r/androiddev/comments/12yxewa/question_about_localization/)
-- [I am having a hard time adding shadows in Android &lpar;in general&rpar;](https://www.reddit.com/r/androiddev/comments/12yuvtt/i_am_having_a_hard_time_adding_shadows_in_android/)
-- [How to create this view?](https://www.reddit.com/r/androiddev/comments/12yrc1h/how_to_create_this_view/)
-- [How to create a Custom Dialog that slide up from the bottom of the screen](https://www.reddit.com/r/androiddev/comments/12yqie3/how_to_create_a_custom_dialog_that_slide_up_from/)
-- [Chemist Looking for Coding Buddies](https://www.reddit.com/r/androiddev/comments/12ypp59/chemist_looking_for_coding_buddies/)
+- [Where is the &quot;Select in Project View&quot; shortcut in new Android Studio?](https://www.reddit.com/r/androiddev/comments/1305vyj/where_is_the_select_in_project_view_shortcut_in/)
+- [App version input](https://www.reddit.com/r/androiddev/comments/1304wpz/app_version_input/)
+- [manager.setAlarmClock while in the process of alarm rescheduling, not updating the notification info.](https://www.reddit.com/r/androiddev/comments/1304ukg/managersetalarmclock_while_in_the_process_of/)
+- [Get Clear System Bars](https://www.reddit.com/r/androiddev/comments/1304ikw/get_clear_system_bars/)
+- [XML or Compose? RxJava or Coroutines?](https://www.reddit.com/r/androiddev/comments/1302zgk/xml_or_compose_rxjava_or_coroutines/)
+- [Share Android app prototypes in a no-installation web-based emulator?](https://www.reddit.com/r/androiddev/comments/1301akd/share_android_app_prototypes_in_a_noinstallation/)
+- [How do you implement drag/drop reordering work in &quot;Room DB&quot;?](https://www.reddit.com/r/androiddev/comments/1300k1m/how_do_you_implement_dragdrop_reordering_work_in/)
+- [What are common problems in a pair-programming interview?](https://www.reddit.com/r/androiddev/comments/12zyx9y/what_are_common_problems_in_a_pairprogramming/)
+- [remove item from room when removed from Retrofit response?](https://www.reddit.com/r/androiddev/comments/12zyo56/remove_item_from_room_when_removed_from_retrofit/)
+- [Event driven architecture with legacy C++ core](https://www.reddit.com/r/androiddev/comments/12zy2oh/event_driven_architecture_with_legacy_c_core/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
