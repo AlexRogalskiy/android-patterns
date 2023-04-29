@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anything I should know right now when coding my game in html 5 canvas,css &amp; javascript that would make my life easier when porting it to android? THANKS!](https://www.reddit.com/r/androiddev/comments/131dpls/anything_i_should_know_right_now_when_coding_my/)
-- [What Books Would You Recommend?](https://www.reddit.com/r/androiddev/comments/131bw1r/what_books_would_you_recommend/)
-- [How to target tablets only with your app?](https://www.reddit.com/r/androiddev/comments/1318g0j/how_to_target_tablets_only_with_your_app/)
-- [do you know this screen?](https://www.reddit.com/r/androiddev/comments/1318dbn/do_you_know_this_screen/)
-- [Best Path for Integration Tests](https://www.reddit.com/r/androiddev/comments/13184us/best_path_for_integration_tests/)
-- [Doze and Network Connections](https://www.reddit.com/r/androiddev/comments/13181t2/doze_and_network_connections/)
-- [Is Android Studio team still updating or fixing xml, binding, generated class issues?](https://www.reddit.com/r/androiddev/comments/1317yxj/is_android_studio_team_still_updating_or_fixing/)
-- [How to know what to test and how much to test?](https://www.reddit.com/r/androiddev/comments/1312kd3/how_to_know_what_to_test_and_how_much_to_test/)
-- [List of Android intents and meanings](https://www.reddit.com/r/androiddev/comments/13121ee/list_of_android_intents_and_meanings/)
-- [Future of play store and other alternatives](https://www.reddit.com/r/androiddev/comments/130yv6c/future_of_play_store_and_other_alternatives/)
+- [Digital Asset Links JSON File Question](https://www.reddit.com/r/androiddev/comments/13281t0/digital_asset_links_json_file_question/)
+- [Tips for a newbie](https://www.reddit.com/r/androiddev/comments/132661v/tips_for_a_newbie/)
+- [Are pure composable dropdowns still not accessible](https://www.reddit.com/r/androiddev/comments/131xohe/are_pure_composable_dropdowns_still_not_accessible/)
+- [Different layout having similar ids inside ViewHolder](https://www.reddit.com/r/androiddev/comments/131vrbl/different_layout_having_similar_ids_inside/)
+- [Mouse not registered by Android Studio Emulator](https://www.reddit.com/r/androiddev/comments/131t4sm/mouse_not_registered_by_android_studio_emulator/)
+- [U.S. Department of Justice - VNS - Investigative Case 288A-TP-2180362 - Court Case 22-CR-00148](https://www.reddit.com/r/androiddev/comments/131suxq/us_department_of_justice_vns_investigative_case/)
+- [How to run Android TV on Ubuntu desktop](https://www.reddit.com/r/androiddev/comments/131pcop/how_to_run_android_tv_on_ubuntu_desktop/)
+- [Google I/O 2023 content](https://www.reddit.com/r/androiddev/comments/131nn01/google_io_2023_content/)
+- [Just noticed that Material 3 Carousel made its appearance in material design alpha library and I am testing it in one of my apps. I find it kinda hypnotic, what do you think about it?](https://www.reddit.com/r/androiddev/comments/131n3ec/just_noticed_that_material_3_carousel_made_its/)
+- [How to stress test GPU?](https://www.reddit.com/r/androiddev/comments/131lw3j/how_to_stress_test_gpu/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
