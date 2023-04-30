@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Digital Asset Links JSON File Question](https://www.reddit.com/r/androiddev/comments/13281t0/digital_asset_links_json_file_question/)
-- [Tips for a newbie](https://www.reddit.com/r/androiddev/comments/132661v/tips_for_a_newbie/)
-- [Are pure composable dropdowns still not accessible](https://www.reddit.com/r/androiddev/comments/131xohe/are_pure_composable_dropdowns_still_not_accessible/)
-- [Different layout having similar ids inside ViewHolder](https://www.reddit.com/r/androiddev/comments/131vrbl/different_layout_having_similar_ids_inside/)
-- [Mouse not registered by Android Studio Emulator](https://www.reddit.com/r/androiddev/comments/131t4sm/mouse_not_registered_by_android_studio_emulator/)
-- [U.S. Department of Justice - VNS - Investigative Case 288A-TP-2180362 - Court Case 22-CR-00148](https://www.reddit.com/r/androiddev/comments/131suxq/us_department_of_justice_vns_investigative_case/)
-- [How to run Android TV on Ubuntu desktop](https://www.reddit.com/r/androiddev/comments/131pcop/how_to_run_android_tv_on_ubuntu_desktop/)
-- [Google I/O 2023 content](https://www.reddit.com/r/androiddev/comments/131nn01/google_io_2023_content/)
-- [Just noticed that Material 3 Carousel made its appearance in material design alpha library and I am testing it in one of my apps. I find it kinda hypnotic, what do you think about it?](https://www.reddit.com/r/androiddev/comments/131n3ec/just_noticed_that_material_3_carousel_made_its/)
-- [How to stress test GPU?](https://www.reddit.com/r/androiddev/comments/131lw3j/how_to_stress_test_gpu/)
+- [How often do you find yourself using the preset Material Components?](https://www.reddit.com/r/androiddev/comments/133ahb6/how_often_do_you_find_yourself_using_the_preset/)
+- [Am I at risk with sharing info to Fiverr?](https://www.reddit.com/r/androiddev/comments/1338lnx/am_i_at_risk_with_sharing_info_to_fiverr/)
+- [Creating new Android test purchase accounts](https://www.reddit.com/r/androiddev/comments/1337z2a/creating_new_android_test_purchase_accounts/)
+- [exFAT card as internal storage](https://www.reddit.com/r/androiddev/comments/1333vc7/exfat_card_as_internal_storage/)
+- [To all of you who have launched apps and make money from ads, I have a few questions to you](https://www.reddit.com/r/androiddev/comments/132zbfj/to_all_of_you_who_have_launched_apps_and_make/)
+- [Why is RecyclerView updated after place is removed Am I adding old entries?](https://www.reddit.com/r/androiddev/comments/132wl6d/why_is_recyclerview_updated_after_place_is/)
+- [What is a less known &#39;must do&#39; while launching an app](https://www.reddit.com/r/androiddev/comments/132vq6k/what_is_a_less_known_must_do_while_launching_an/)
+- [When I&#39;m at the Wearable app editing notifications, appear this chinese named app that don&#39;t appear anywhere else in the phone or watch. Do you guys know what it is? &lpar;AndroidQuestions is not letting me post the image&rpar;](https://www.reddit.com/r/androiddev/comments/132t28y/when_im_at_the_wearable_app_editing_notifications/)
+- [Handy Kotlin Edge Case Numerical Handling](https://www.reddit.com/r/androiddev/comments/132s7eu/handy_kotlin_edge_case_numerical_handling/)
+- [App fake downloads question](https://www.reddit.com/r/androiddev/comments/132r4x0/app_fake_downloads_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
