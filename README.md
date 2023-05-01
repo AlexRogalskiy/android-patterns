@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How often do you find yourself using the preset Material Components?](https://www.reddit.com/r/androiddev/comments/133ahb6/how_often_do_you_find_yourself_using_the_preset/)
-- [Am I at risk with sharing info to Fiverr?](https://www.reddit.com/r/androiddev/comments/1338lnx/am_i_at_risk_with_sharing_info_to_fiverr/)
-- [Creating new Android test purchase accounts](https://www.reddit.com/r/androiddev/comments/1337z2a/creating_new_android_test_purchase_accounts/)
-- [exFAT card as internal storage](https://www.reddit.com/r/androiddev/comments/1333vc7/exfat_card_as_internal_storage/)
-- [To all of you who have launched apps and make money from ads, I have a few questions to you](https://www.reddit.com/r/androiddev/comments/132zbfj/to_all_of_you_who_have_launched_apps_and_make/)
-- [Why is RecyclerView updated after place is removed Am I adding old entries?](https://www.reddit.com/r/androiddev/comments/132wl6d/why_is_recyclerview_updated_after_place_is/)
-- [What is a less known &#39;must do&#39; while launching an app](https://www.reddit.com/r/androiddev/comments/132vq6k/what_is_a_less_known_must_do_while_launching_an/)
-- [When I&#39;m at the Wearable app editing notifications, appear this chinese named app that don&#39;t appear anywhere else in the phone or watch. Do you guys know what it is? &lpar;AndroidQuestions is not letting me post the image&rpar;](https://www.reddit.com/r/androiddev/comments/132t28y/when_im_at_the_wearable_app_editing_notifications/)
-- [Handy Kotlin Edge Case Numerical Handling](https://www.reddit.com/r/androiddev/comments/132s7eu/handy_kotlin_edge_case_numerical_handling/)
-- [App fake downloads question](https://www.reddit.com/r/androiddev/comments/132r4x0/app_fake_downloads_question/)
+- [Python or Kotlin for LeetCode?](https://www.reddit.com/r/androiddev/comments/1344t7q/python_or_kotlin_for_leetcode/)
+- [Please help me](https://www.reddit.com/r/androiddev/comments/13449f1/please_help_me/)
+- [Qual usar](https://www.reddit.com/r/androiddev/comments/13439nu/qual_usar/)
+- [ANy really good intensive courses for a beginner?](https://www.reddit.com/r/androiddev/comments/1341xdl/any_really_good_intensive_courses_for_a_beginner/)
+- [I&#39;ve created an app for exchanging copy books on campus, any policies I should be worried about?](https://www.reddit.com/r/androiddev/comments/133ye5b/ive_created_an_app_for_exchanging_copy_books_on/)
+- [Someone is keep cancelling payments right after the buying an in app purchase - what can I do?](https://www.reddit.com/r/androiddev/comments/133wntb/someone_is_keep_cancelling_payments_right_after/)
+- [PSA: The importance of review encouragement](https://www.reddit.com/r/androiddev/comments/133wd2r/psa_the_importance_of_review_encouragement/)
+- [Real time object detection and images classification on the edge device mobile](https://www.reddit.com/r/androiddev/comments/133vhl4/real_time_object_detection_and_images/)
+- [Modifying emulator to pass basic attestation](https://www.reddit.com/r/androiddev/comments/133ug2h/modifying_emulator_to_pass_basic_attestation/)
+- [Inconsistent backend. Will switching company work?](https://www.reddit.com/r/androiddev/comments/133p9uc/inconsistent_backend_will_switching_company_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
