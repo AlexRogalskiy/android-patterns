@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Python or Kotlin for LeetCode?](https://www.reddit.com/r/androiddev/comments/1344t7q/python_or_kotlin_for_leetcode/)
-- [Please help me](https://www.reddit.com/r/androiddev/comments/13449f1/please_help_me/)
-- [Qual usar](https://www.reddit.com/r/androiddev/comments/13439nu/qual_usar/)
-- [ANy really good intensive courses for a beginner?](https://www.reddit.com/r/androiddev/comments/1341xdl/any_really_good_intensive_courses_for_a_beginner/)
-- [I&#39;ve created an app for exchanging copy books on campus, any policies I should be worried about?](https://www.reddit.com/r/androiddev/comments/133ye5b/ive_created_an_app_for_exchanging_copy_books_on/)
-- [Someone is keep cancelling payments right after the buying an in app purchase - what can I do?](https://www.reddit.com/r/androiddev/comments/133wntb/someone_is_keep_cancelling_payments_right_after/)
-- [PSA: The importance of review encouragement](https://www.reddit.com/r/androiddev/comments/133wd2r/psa_the_importance_of_review_encouragement/)
-- [Real time object detection and images classification on the edge device mobile](https://www.reddit.com/r/androiddev/comments/133vhl4/real_time_object_detection_and_images/)
-- [Modifying emulator to pass basic attestation](https://www.reddit.com/r/androiddev/comments/133ug2h/modifying_emulator_to_pass_basic_attestation/)
-- [Inconsistent backend. Will switching company work?](https://www.reddit.com/r/androiddev/comments/133p9uc/inconsistent_backend_will_switching_company_work/)
+- [How many strikes allowed for Play developer before account Terminated ?](https://www.reddit.com/r/androiddev/comments/1355smt/how_many_strikes_allowed_for_play_developer/)
+- [The tech industry situation](https://www.reddit.com/r/androiddev/comments/1351mwy/the_tech_industry_situation/)
+- [Any examples of workflow systems built with RxJava ...and a great UX ?](https://www.reddit.com/r/androiddev/comments/1350gbg/any_examples_of_workflow_systems_built_with/)
+- [Suggestion for a backend using ktor to retrieve geo bounding box](https://www.reddit.com/r/androiddev/comments/134yxxm/suggestion_for_a_backend_using_ktor_to_retrieve/)
+- [Hi everyone, I am working on ExoPlayer. Trying to implement CMCD on ExoPlayer. Has anyone had any experience related to CMCD?](https://www.reddit.com/r/androiddev/comments/134wk7a/hi_everyone_i_am_working_on_exoplayer_trying_to/)
+- [Architecture Help](https://www.reddit.com/r/androiddev/comments/134wk1w/architecture_help/)
+- [Your recommendations for backend?](https://www.reddit.com/r/androiddev/comments/134tb4n/your_recommendations_for_backend/)
+- [Android Studio Flamingo | 2022.2.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/134sn8q/android_studio_flamingo_202221_patch_1_now/)
+- [SDK developers 👋. Guide me in getting my SDK in - Google Play SDK index](https://www.reddit.com/r/androiddev/comments/134qfir/sdk_developers_guide_me_in_getting_my_sdk_in/)
+- [What would be a fair amount to charge somebody to make this app?](https://www.reddit.com/r/androiddev/comments/134o7sh/what_would_be_a_fair_amount_to_charge_somebody_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
