@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How many strikes allowed for Play developer before account Terminated ?](https://www.reddit.com/r/androiddev/comments/1355smt/how_many_strikes_allowed_for_play_developer/)
-- [The tech industry situation](https://www.reddit.com/r/androiddev/comments/1351mwy/the_tech_industry_situation/)
-- [Any examples of workflow systems built with RxJava ...and a great UX ?](https://www.reddit.com/r/androiddev/comments/1350gbg/any_examples_of_workflow_systems_built_with/)
-- [Suggestion for a backend using ktor to retrieve geo bounding box](https://www.reddit.com/r/androiddev/comments/134yxxm/suggestion_for_a_backend_using_ktor_to_retrieve/)
-- [Hi everyone, I am working on ExoPlayer. Trying to implement CMCD on ExoPlayer. Has anyone had any experience related to CMCD?](https://www.reddit.com/r/androiddev/comments/134wk7a/hi_everyone_i_am_working_on_exoplayer_trying_to/)
-- [Architecture Help](https://www.reddit.com/r/androiddev/comments/134wk1w/architecture_help/)
-- [Your recommendations for backend?](https://www.reddit.com/r/androiddev/comments/134tb4n/your_recommendations_for_backend/)
-- [Android Studio Flamingo | 2022.2.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/134sn8q/android_studio_flamingo_202221_patch_1_now/)
-- [SDK developers 👋. Guide me in getting my SDK in - Google Play SDK index](https://www.reddit.com/r/androiddev/comments/134qfir/sdk_developers_guide_me_in_getting_my_sdk_in/)
-- [What would be a fair amount to charge somebody to make this app?](https://www.reddit.com/r/androiddev/comments/134o7sh/what_would_be_a_fair_amount_to_charge_somebody_to/)
+- [is it possible to make an app to distort the voice during a phone call?](https://www.reddit.com/r/androiddev/comments/1365eme/is_it_possible_to_make_an_app_to_distort_the/)
+- [Would you switch to flutter?](https://www.reddit.com/r/androiddev/comments/1364rxl/would_you_switch_to_flutter/)
+- [Android Studio Hedgehog Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1363ubn/android_studio_hedgehog_canary_2_now_available/)
+- [Android front end development](https://www.reddit.com/r/androiddev/comments/1363t3z/android_front_end_development/)
+- [Learning Android Development using Java rather than Kotlin?](https://www.reddit.com/r/androiddev/comments/135xj45/learning_android_development_using_java_rather/)
+- [6Mb APK size increase](https://www.reddit.com/r/androiddev/comments/135wxwq/6mb_apk_size_increase/)
+- [What is the best plugin to convert from figma to jetpack compose?](https://www.reddit.com/r/androiddev/comments/135vhmv/what_is_the_best_plugin_to_convert_from_figma_to/)
+- [How do I add a device frame around my emulator?](https://www.reddit.com/r/androiddev/comments/135vemh/how_do_i_add_a_device_frame_around_my_emulator/)
+- [Why is so difficult to get my WearOS app on the Playstore?](https://www.reddit.com/r/androiddev/comments/135v6bz/why_is_so_difficult_to_get_my_wearos_app_on_the/)
+- [Best technology/framework for Android app with OpenCV image processing.... Java/Kotlin?](https://www.reddit.com/r/androiddev/comments/135un9w/best_technologyframework_for_android_app_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
