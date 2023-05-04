@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [is it possible to make an app to distort the voice during a phone call?](https://www.reddit.com/r/androiddev/comments/1365eme/is_it_possible_to_make_an_app_to_distort_the/)
-- [Would you switch to flutter?](https://www.reddit.com/r/androiddev/comments/1364rxl/would_you_switch_to_flutter/)
-- [Android Studio Hedgehog Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1363ubn/android_studio_hedgehog_canary_2_now_available/)
-- [Android front end development](https://www.reddit.com/r/androiddev/comments/1363t3z/android_front_end_development/)
-- [Learning Android Development using Java rather than Kotlin?](https://www.reddit.com/r/androiddev/comments/135xj45/learning_android_development_using_java_rather/)
-- [6Mb APK size increase](https://www.reddit.com/r/androiddev/comments/135wxwq/6mb_apk_size_increase/)
-- [What is the best plugin to convert from figma to jetpack compose?](https://www.reddit.com/r/androiddev/comments/135vhmv/what_is_the_best_plugin_to_convert_from_figma_to/)
-- [How do I add a device frame around my emulator?](https://www.reddit.com/r/androiddev/comments/135vemh/how_do_i_add_a_device_frame_around_my_emulator/)
-- [Why is so difficult to get my WearOS app on the Playstore?](https://www.reddit.com/r/androiddev/comments/135v6bz/why_is_so_difficult_to_get_my_wearos_app_on_the/)
-- [Best technology/framework for Android app with OpenCV image processing.... Java/Kotlin?](https://www.reddit.com/r/androiddev/comments/135un9w/best_technologyframework_for_android_app_with/)
+- [Should I use fragments with Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1372hgn/should_i_use_fragments_with_jetpack_compose/)
+- [Migrating from kotlin synthetics to jetpack viewbinding](https://www.reddit.com/r/androiddev/comments/136xpip/migrating_from_kotlin_synthetics_to_jetpack/)
+- [BroadcastReceiver with WakeLock in Clean Architecture](https://www.reddit.com/r/androiddev/comments/136w3i8/broadcastreceiver_with_wakelock_in_clean/)
+- [Screenshot not working after messing with ADB](https://www.reddit.com/r/androiddev/comments/136uuoi/screenshot_not_working_after_messing_with_adb/)
+- [Android Studio Hedgehog Canary 2 now available](https://www.reddit.com/r/androiddev/comments/136sz0z/android_studio_hedgehog_canary_2_now_available/)
+- [Should we obfuscate external library?](https://www.reddit.com/r/androiddev/comments/136scjk/should_we_obfuscate_external_library/)
+- [Control Raspberry Pi via Android Phone](https://www.reddit.com/r/androiddev/comments/136p80z/control_raspberry_pi_via_android_phone/)
+- [Exploring the different Color Objects in the Fleksy Keyboard SDK for Custom Themes](https://www.reddit.com/r/androiddev/comments/136l7f9/exploring_the_different_color_objects_in_the/)
+- [OpenGLES 2.0 Refusing to go full screen](https://www.reddit.com/r/androiddev/comments/136l04p/opengles_20_refusing_to_go_full_screen/)
+- [Architecture Advise](https://www.reddit.com/r/androiddev/comments/136jyqp/architecture_advise/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
