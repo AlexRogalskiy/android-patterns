@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Should I use fragments with Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1372hgn/should_i_use_fragments_with_jetpack_compose/)
-- [Migrating from kotlin synthetics to jetpack viewbinding](https://www.reddit.com/r/androiddev/comments/136xpip/migrating_from_kotlin_synthetics_to_jetpack/)
-- [BroadcastReceiver with WakeLock in Clean Architecture](https://www.reddit.com/r/androiddev/comments/136w3i8/broadcastreceiver_with_wakelock_in_clean/)
-- [Screenshot not working after messing with ADB](https://www.reddit.com/r/androiddev/comments/136uuoi/screenshot_not_working_after_messing_with_adb/)
-- [Android Studio Hedgehog Canary 2 now available](https://www.reddit.com/r/androiddev/comments/136sz0z/android_studio_hedgehog_canary_2_now_available/)
-- [Should we obfuscate external library?](https://www.reddit.com/r/androiddev/comments/136scjk/should_we_obfuscate_external_library/)
-- [Control Raspberry Pi via Android Phone](https://www.reddit.com/r/androiddev/comments/136p80z/control_raspberry_pi_via_android_phone/)
-- [Exploring the different Color Objects in the Fleksy Keyboard SDK for Custom Themes](https://www.reddit.com/r/androiddev/comments/136l7f9/exploring_the_different_color_objects_in_the/)
-- [OpenGLES 2.0 Refusing to go full screen](https://www.reddit.com/r/androiddev/comments/136l04p/opengles_20_refusing_to_go_full_screen/)
-- [Architecture Advise](https://www.reddit.com/r/androiddev/comments/136jyqp/architecture_advise/)
+- [Need help with Android infotainment](https://www.reddit.com/r/androiddev/comments/1386n4l/need_help_with_android_infotainment/)
+- [If someone is interested in joining me in developing an app and We will split the revenue DM me.](https://www.reddit.com/r/androiddev/comments/1380usy/if_someone_is_interested_in_joining_me_in/)
+- [Having Hard Time in Learning Android Development](https://www.reddit.com/r/androiddev/comments/137zseg/having_hard_time_in_learning_android_development/)
+- [Push notifications iOS &amp; Android](https://www.reddit.com/r/androiddev/comments/137yy2b/push_notifications_ios_android/)
+- [Putting screen to sleep](https://www.reddit.com/r/androiddev/comments/137wuti/putting_screen_to_sleep/)
+- [Slightly confused as to how OnClick and OnSwipeDismiss work differently from each other.](https://www.reddit.com/r/androiddev/comments/137wuic/slightly_confused_as_to_how_onclick_and/)
+- [Upgraded to Android Studio Flamingo, can&#39;t run projects without changing classpath gradle version](https://www.reddit.com/r/androiddev/comments/137wnnf/upgraded_to_android_studio_flamingo_cant_run/)
+- [Is using bottom navigation + center bottom floating action button the latest design trend?](https://www.reddit.com/r/androiddev/comments/137wcez/is_using_bottom_navigation_center_bottom_floating/)
+- [Designing for free!](https://www.reddit.com/r/androiddev/comments/137vm8w/designing_for_free/)
+- [Working with Android Studio and Subversion](https://www.reddit.com/r/androiddev/comments/137vdu5/working_with_android_studio_and_subversion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
