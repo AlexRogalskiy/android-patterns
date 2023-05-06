@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need help with Android infotainment](https://www.reddit.com/r/androiddev/comments/1386n4l/need_help_with_android_infotainment/)
-- [If someone is interested in joining me in developing an app and We will split the revenue DM me.](https://www.reddit.com/r/androiddev/comments/1380usy/if_someone_is_interested_in_joining_me_in/)
-- [Having Hard Time in Learning Android Development](https://www.reddit.com/r/androiddev/comments/137zseg/having_hard_time_in_learning_android_development/)
-- [Push notifications iOS &amp; Android](https://www.reddit.com/r/androiddev/comments/137yy2b/push_notifications_ios_android/)
-- [Putting screen to sleep](https://www.reddit.com/r/androiddev/comments/137wuti/putting_screen_to_sleep/)
-- [Slightly confused as to how OnClick and OnSwipeDismiss work differently from each other.](https://www.reddit.com/r/androiddev/comments/137wuic/slightly_confused_as_to_how_onclick_and/)
-- [Upgraded to Android Studio Flamingo, can&#39;t run projects without changing classpath gradle version](https://www.reddit.com/r/androiddev/comments/137wnnf/upgraded_to_android_studio_flamingo_cant_run/)
-- [Is using bottom navigation + center bottom floating action button the latest design trend?](https://www.reddit.com/r/androiddev/comments/137wcez/is_using_bottom_navigation_center_bottom_floating/)
-- [Designing for free!](https://www.reddit.com/r/androiddev/comments/137vm8w/designing_for_free/)
-- [Working with Android Studio and Subversion](https://www.reddit.com/r/androiddev/comments/137vdu5/working_with_android_studio_and_subversion/)
+- [What&#39;s the best way to add selected area image/OCR transaltion into android app?](https://www.reddit.com/r/androiddev/comments/1395fxf/whats_the_best_way_to_add_selected_area_imageocr/)
+- [What&#39;s the restrictions on type when embed an custom type into an entity using Room.](https://www.reddit.com/r/androiddev/comments/13953sx/whats_the_restrictions_on_type_when_embed_an/)
+- [Full-screen mode presentation with lock option](https://www.reddit.com/r/androiddev/comments/1392wh7/fullscreen_mode_presentation_with_lock_option/)
+- [What kind of articles would be useful for issues y&#39;all facing now?](https://www.reddit.com/r/androiddev/comments/1390htd/what_kind_of_articles_would_be_useful_for_issues/)
+- [Android Studio APK size doubled and dump_syms folder is the reason?](https://www.reddit.com/r/androiddev/comments/138xasz/android_studio_apk_size_doubled_and_dump_syms/)
+- [Files corrupt when saved to storage.](https://www.reddit.com/r/androiddev/comments/138segb/files_corrupt_when_saved_to_storage/)
+- [Firebase Pagination in single line Java](https://www.reddit.com/r/androiddev/comments/138pp52/firebase_pagination_in_single_line_java/)
+- [🔥Create an EPIC Android Studio Plugin 🤌🍕](https://www.reddit.com/r/androiddev/comments/138kmr1/create_an_epic_android_studio_plugin/)
+- [What is the proper way to getExternalStorageDirectory in ViewModel](https://www.reddit.com/r/androiddev/comments/138jceu/what_is_the_proper_way_to/)
+- [Going alone to Droidcon Berlin](https://www.reddit.com/r/androiddev/comments/138ijws/going_alone_to_droidcon_berlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
