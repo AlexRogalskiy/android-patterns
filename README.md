@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s the best way to add selected area image/OCR transaltion into android app?](https://www.reddit.com/r/androiddev/comments/1395fxf/whats_the_best_way_to_add_selected_area_imageocr/)
-- [What&#39;s the restrictions on type when embed an custom type into an entity using Room.](https://www.reddit.com/r/androiddev/comments/13953sx/whats_the_restrictions_on_type_when_embed_an/)
-- [Full-screen mode presentation with lock option](https://www.reddit.com/r/androiddev/comments/1392wh7/fullscreen_mode_presentation_with_lock_option/)
-- [What kind of articles would be useful for issues y&#39;all facing now?](https://www.reddit.com/r/androiddev/comments/1390htd/what_kind_of_articles_would_be_useful_for_issues/)
-- [Android Studio APK size doubled and dump_syms folder is the reason?](https://www.reddit.com/r/androiddev/comments/138xasz/android_studio_apk_size_doubled_and_dump_syms/)
-- [Files corrupt when saved to storage.](https://www.reddit.com/r/androiddev/comments/138segb/files_corrupt_when_saved_to_storage/)
-- [Firebase Pagination in single line Java](https://www.reddit.com/r/androiddev/comments/138pp52/firebase_pagination_in_single_line_java/)
-- [🔥Create an EPIC Android Studio Plugin 🤌🍕](https://www.reddit.com/r/androiddev/comments/138kmr1/create_an_epic_android_studio_plugin/)
-- [What is the proper way to getExternalStorageDirectory in ViewModel](https://www.reddit.com/r/androiddev/comments/138jceu/what_is_the_proper_way_to/)
-- [Going alone to Droidcon Berlin](https://www.reddit.com/r/androiddev/comments/138ijws/going_alone_to_droidcon_berlin/)
+- [How to speed up your Android app native calls up to 24x](https://www.reddit.com/r/androiddev/comments/13a8soq/how_to_speed_up_your_android_app_native_calls_up/)
+- [Looking for feedback related to new free positive psychology app](https://www.reddit.com/r/androiddev/comments/13a7j92/looking_for_feedback_related_to_new_free_positive/)
+- [Alternatives to Firebase Push Notifucations](https://www.reddit.com/r/androiddev/comments/13a6y1d/alternatives_to_firebase_push_notifucations/)
+- [I am facing problem in oppo Reno 6 . Can anyone help?](https://www.reddit.com/r/androiddev/comments/13a5t30/i_am_facing_problem_in_oppo_reno_6_can_anyone_help/)
+- [How to optimise text size on lower dpi devices](https://www.reddit.com/r/androiddev/comments/13a3p1c/how_to_optimise_text_size_on_lower_dpi_devices/)
+- [Dependency Injection](https://www.reddit.com/r/androiddev/comments/13a3fy5/dependency_injection/)
+- [Apps Icon?](https://www.reddit.com/r/androiddev/comments/13a0wd5/apps_icon/)
+- [Any interest in teaming up for some Android Studio projects?](https://www.reddit.com/r/androiddev/comments/13a0i3r/any_interest_in_teaming_up_for_some_android/)
+- [Going to publish an app related to loans. Should I mark them as in app purchases?](https://www.reddit.com/r/androiddev/comments/139zbdr/going_to_publish_an_app_related_to_loans_should_i/)
+- [So did Google silently kill their &quot;Associate Android Developer Certification&quot; exam?](https://www.reddit.com/r/androiddev/comments/139ynuy/so_did_google_silently_kill_their_associate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
