@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to speed up your Android app native calls up to 24x](https://www.reddit.com/r/androiddev/comments/13a8soq/how_to_speed_up_your_android_app_native_calls_up/)
-- [Looking for feedback related to new free positive psychology app](https://www.reddit.com/r/androiddev/comments/13a7j92/looking_for_feedback_related_to_new_free_positive/)
-- [Alternatives to Firebase Push Notifucations](https://www.reddit.com/r/androiddev/comments/13a6y1d/alternatives_to_firebase_push_notifucations/)
-- [I am facing problem in oppo Reno 6 . Can anyone help?](https://www.reddit.com/r/androiddev/comments/13a5t30/i_am_facing_problem_in_oppo_reno_6_can_anyone_help/)
-- [How to optimise text size on lower dpi devices](https://www.reddit.com/r/androiddev/comments/13a3p1c/how_to_optimise_text_size_on_lower_dpi_devices/)
-- [Dependency Injection](https://www.reddit.com/r/androiddev/comments/13a3fy5/dependency_injection/)
-- [Apps Icon?](https://www.reddit.com/r/androiddev/comments/13a0wd5/apps_icon/)
-- [Any interest in teaming up for some Android Studio projects?](https://www.reddit.com/r/androiddev/comments/13a0i3r/any_interest_in_teaming_up_for_some_android/)
-- [Going to publish an app related to loans. Should I mark them as in app purchases?](https://www.reddit.com/r/androiddev/comments/139zbdr/going_to_publish_an_app_related_to_loans_should_i/)
-- [So did Google silently kill their &quot;Associate Android Developer Certification&quot; exam?](https://www.reddit.com/r/androiddev/comments/139ynuy/so_did_google_silently_kill_their_associate/)
+- [Need your opinions on my dilemma](https://www.reddit.com/r/androiddev/comments/13b9372/need_your_opinions_on_my_dilemma/)
+- [Extract location from exif problem.](https://www.reddit.com/r/androiddev/comments/13b7wjx/extract_location_from_exif_problem/)
+- [Best practices to change app Name in Play Store](https://www.reddit.com/r/androiddev/comments/13azsh5/best_practices_to_change_app_name_in_play_store/)
+- [How long does it take to create a sophisticated custom Android rom for one device?](https://www.reddit.com/r/androiddev/comments/13azrzl/how_long_does_it_take_to_create_a_sophisticated/)
+- [Experiences with Google App Campaigns](https://www.reddit.com/r/androiddev/comments/13axzkc/experiences_with_google_app_campaigns/)
+- [Exoplayer Playback Notification](https://www.reddit.com/r/androiddev/comments/13ax4v6/exoplayer_playback_notification/)
+- [Is accessing the viwholder of a recycleview outside the class a good practice?](https://www.reddit.com/r/androiddev/comments/13aws1a/is_accessing_the_viwholder_of_a_recycleview/)
+- [API to add a button to the Navigation Bar?](https://www.reddit.com/r/androiddev/comments/13aw5db/api_to_add_a_button_to_the_navigation_bar/)
+- [How to create a layout with a map &lpar;like in a game &rpar; ?](https://www.reddit.com/r/androiddev/comments/13aqvdy/how_to_create_a_layout_with_a_map_like_in_a_game/)
+- [AdMob and UMP failures](https://www.reddit.com/r/androiddev/comments/13ankqi/admob_and_ump_failures/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
