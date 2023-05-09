@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need your opinions on my dilemma](https://www.reddit.com/r/androiddev/comments/13b9372/need_your_opinions_on_my_dilemma/)
-- [Extract location from exif problem.](https://www.reddit.com/r/androiddev/comments/13b7wjx/extract_location_from_exif_problem/)
-- [Best practices to change app Name in Play Store](https://www.reddit.com/r/androiddev/comments/13azsh5/best_practices_to_change_app_name_in_play_store/)
-- [How long does it take to create a sophisticated custom Android rom for one device?](https://www.reddit.com/r/androiddev/comments/13azrzl/how_long_does_it_take_to_create_a_sophisticated/)
-- [Experiences with Google App Campaigns](https://www.reddit.com/r/androiddev/comments/13axzkc/experiences_with_google_app_campaigns/)
-- [Exoplayer Playback Notification](https://www.reddit.com/r/androiddev/comments/13ax4v6/exoplayer_playback_notification/)
-- [Is accessing the viwholder of a recycleview outside the class a good practice?](https://www.reddit.com/r/androiddev/comments/13aws1a/is_accessing_the_viwholder_of_a_recycleview/)
-- [API to add a button to the Navigation Bar?](https://www.reddit.com/r/androiddev/comments/13aw5db/api_to_add_a_button_to_the_navigation_bar/)
-- [How to create a layout with a map &lpar;like in a game &rpar; ?](https://www.reddit.com/r/androiddev/comments/13aqvdy/how_to_create_a_layout_with_a_map_like_in_a_game/)
-- [AdMob and UMP failures](https://www.reddit.com/r/androiddev/comments/13ankqi/admob_and_ump_failures/)
+- [In what cases are you ever going to use more than one Activity?](https://www.reddit.com/r/androiddev/comments/13c8kio/in_what_cases_are_you_ever_going_to_use_more_than/)
+- [What is the minimum knowledge needed to work in freelance &lpar;Upwork&rpar;](https://www.reddit.com/r/androiddev/comments/13c6s8e/what_is_the_minimum_knowledge_needed_to_work_in/)
+- [Android Studio Help](https://www.reddit.com/r/androiddev/comments/13c6k44/android_studio_help/)
+- [How to get a scroll view&#39;s child percentage of screen covered](https://www.reddit.com/r/androiddev/comments/13c57lb/how_to_get_a_scroll_views_child_percentage_of/)
+- [Where is your preferred place on app flow to check user session?](https://www.reddit.com/r/androiddev/comments/13c06mk/where_is_your_preferred_place_on_app_flow_to/)
+- [Android Studio Giraffe Beta 2 now available](https://www.reddit.com/r/androiddev/comments/13bzhuh/android_studio_giraffe_beta_2_now_available/)
+- [Recently wrote an article on using Material&#39;s BackdropScaffold in jetpack compose. Let me know what you think](https://www.reddit.com/r/androiddev/comments/13bzf3i/recently_wrote_an_article_on_using_materials/)
+- [Maintaining previous version when multiple developers work on a project](https://www.reddit.com/r/androiddev/comments/13by2j6/maintaining_previous_version_when_multiple/)
+- [Is there any library to make video player minimizeable like youtube](https://www.reddit.com/r/androiddev/comments/13bw48z/is_there_any_library_to_make_video_player/)
+- [Activity/Fragment recreated when coming back from camera intent](https://www.reddit.com/r/androiddev/comments/13buz3y/activityfragment_recreated_when_coming_back_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
