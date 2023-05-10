@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [In what cases are you ever going to use more than one Activity?](https://www.reddit.com/r/androiddev/comments/13c8kio/in_what_cases_are_you_ever_going_to_use_more_than/)
-- [What is the minimum knowledge needed to work in freelance &lpar;Upwork&rpar;](https://www.reddit.com/r/androiddev/comments/13c6s8e/what_is_the_minimum_knowledge_needed_to_work_in/)
-- [Android Studio Help](https://www.reddit.com/r/androiddev/comments/13c6k44/android_studio_help/)
-- [How to get a scroll view&#39;s child percentage of screen covered](https://www.reddit.com/r/androiddev/comments/13c57lb/how_to_get_a_scroll_views_child_percentage_of/)
-- [Where is your preferred place on app flow to check user session?](https://www.reddit.com/r/androiddev/comments/13c06mk/where_is_your_preferred_place_on_app_flow_to/)
-- [Android Studio Giraffe Beta 2 now available](https://www.reddit.com/r/androiddev/comments/13bzhuh/android_studio_giraffe_beta_2_now_available/)
-- [Recently wrote an article on using Material&#39;s BackdropScaffold in jetpack compose. Let me know what you think](https://www.reddit.com/r/androiddev/comments/13bzf3i/recently_wrote_an_article_on_using_materials/)
-- [Maintaining previous version when multiple developers work on a project](https://www.reddit.com/r/androiddev/comments/13by2j6/maintaining_previous_version_when_multiple/)
-- [Is there any library to make video player minimizeable like youtube](https://www.reddit.com/r/androiddev/comments/13bw48z/is_there_any_library_to_make_video_player/)
-- [Activity/Fragment recreated when coming back from camera intent](https://www.reddit.com/r/androiddev/comments/13buz3y/activityfragment_recreated_when_coming_back_from/)
+- [Which android id to choose to store data](https://www.reddit.com/r/androiddev/comments/13d8im4/which_android_id_to_choose_to_store_data/)
+- [Are Android Jobs Still In Demand In The USA?](https://www.reddit.com/r/androiddev/comments/13d5kw4/are_android_jobs_still_in_demand_in_the_usa/)
+- [Is it bad to use Android Studio canary builds for a production app?](https://www.reddit.com/r/androiddev/comments/13d293z/is_it_bad_to_use_android_studio_canary_builds_for/)
+- [Does material 3 work with android views or only jetpack compose?](https://www.reddit.com/r/androiddev/comments/13cv5rf/does_material_3_work_with_android_views_or_only/)
+- [I am looking to make new projects for my portfolio](https://www.reddit.com/r/androiddev/comments/13cv3cw/i_am_looking_to_make_new_projects_for_my_portfolio/)
+- [Custom faces for a generic Chinese smartwatch?](https://www.reddit.com/r/androiddev/comments/13cpwzb/custom_faces_for_a_generic_chinese_smartwatch/)
+- [another newbie here](https://www.reddit.com/r/androiddev/comments/13clow4/another_newbie_here/)
+- [First Kotlin library - Easy analytics library](https://www.reddit.com/r/androiddev/comments/13cl3oe/first_kotlin_library_easy_analytics_library/)
+- [Are custom splash screens dead?](https://www.reddit.com/r/androiddev/comments/13cjfku/are_custom_splash_screens_dead/)
+- [You have reached your destination: Google elegantly says goodbye to Waze | CTech](https://www.reddit.com/r/androiddev/comments/13cf2ov/you_have_reached_your_destination_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
