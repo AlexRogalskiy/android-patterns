@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Which android id to choose to store data](https://www.reddit.com/r/androiddev/comments/13d8im4/which_android_id_to_choose_to_store_data/)
-- [Are Android Jobs Still In Demand In The USA?](https://www.reddit.com/r/androiddev/comments/13d5kw4/are_android_jobs_still_in_demand_in_the_usa/)
-- [Is it bad to use Android Studio canary builds for a production app?](https://www.reddit.com/r/androiddev/comments/13d293z/is_it_bad_to_use_android_studio_canary_builds_for/)
-- [Does material 3 work with android views or only jetpack compose?](https://www.reddit.com/r/androiddev/comments/13cv5rf/does_material_3_work_with_android_views_or_only/)
-- [I am looking to make new projects for my portfolio](https://www.reddit.com/r/androiddev/comments/13cv3cw/i_am_looking_to_make_new_projects_for_my_portfolio/)
-- [Custom faces for a generic Chinese smartwatch?](https://www.reddit.com/r/androiddev/comments/13cpwzb/custom_faces_for_a_generic_chinese_smartwatch/)
-- [another newbie here](https://www.reddit.com/r/androiddev/comments/13clow4/another_newbie_here/)
-- [First Kotlin library - Easy analytics library](https://www.reddit.com/r/androiddev/comments/13cl3oe/first_kotlin_library_easy_analytics_library/)
-- [Are custom splash screens dead?](https://www.reddit.com/r/androiddev/comments/13cjfku/are_custom_splash_screens_dead/)
-- [You have reached your destination: Google elegantly says goodbye to Waze | CTech](https://www.reddit.com/r/androiddev/comments/13cf2ov/you_have_reached_your_destination_google/)
+- [What’s new in Android Performance — Google I/O 2023 edition](https://www.reddit.com/r/androiddev/comments/13e85nk/whats_new_in_android_performance_google_io_2023/)
+- [Make Android recognize a specific device?](https://www.reddit.com/r/androiddev/comments/13e5uus/make_android_recognize_a_specific_device/)
+- [Help w/ locating an error appearing in my pre-launch report](https://www.reddit.com/r/androiddev/comments/13e5d61/help_w_locating_an_error_appearing_in_my/)
+- [Hii Guys, i am starting to learn Android studio, but my laptop is to old and slow for it. Can you suggest me some good laptops options for smooth development?](https://www.reddit.com/r/androiddev/comments/13e4om3/hii_guys_i_am_starting_to_learn_android_studio/)
+- [I&#39;m 16 years old, Is there any issue if I want to publish an app in the store?](https://www.reddit.com/r/androiddev/comments/13e2psm/im_16_years_old_is_there_any_issue_if_i_want_to/)
+- [Studio Bot as your AI Android studio assistant](https://www.reddit.com/r/androiddev/comments/13e2h8k/studio_bot_as_your_ai_android_studio_assistant/)
+- [Android 14 Beta2 Release Notes](https://www.reddit.com/r/androiddev/comments/13e26sx/android_14_beta2_release_notes/)
+- [Google introduced Studio Bot &lpar;Still available at US only&rpar;](https://www.reddit.com/r/androiddev/comments/13e1p18/google_introduced_studio_bot_still_available_at/)
+- [Android Studio Hedgehog Canary 3 is now available](https://www.reddit.com/r/androiddev/comments/13e1ggi/android_studio_hedgehog_canary_3_is_now_available/)
+- [Android Device Streaming from Android Studio | Android Developers](https://www.reddit.com/r/androiddev/comments/13e16sx/android_device_streaming_from_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
