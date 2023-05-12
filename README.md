@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What’s new in Android Performance — Google I/O 2023 edition](https://www.reddit.com/r/androiddev/comments/13e85nk/whats_new_in_android_performance_google_io_2023/)
-- [Make Android recognize a specific device?](https://www.reddit.com/r/androiddev/comments/13e5uus/make_android_recognize_a_specific_device/)
-- [Help w/ locating an error appearing in my pre-launch report](https://www.reddit.com/r/androiddev/comments/13e5d61/help_w_locating_an_error_appearing_in_my/)
-- [Hii Guys, i am starting to learn Android studio, but my laptop is to old and slow for it. Can you suggest me some good laptops options for smooth development?](https://www.reddit.com/r/androiddev/comments/13e4om3/hii_guys_i_am_starting_to_learn_android_studio/)
-- [I&#39;m 16 years old, Is there any issue if I want to publish an app in the store?](https://www.reddit.com/r/androiddev/comments/13e2psm/im_16_years_old_is_there_any_issue_if_i_want_to/)
-- [Studio Bot as your AI Android studio assistant](https://www.reddit.com/r/androiddev/comments/13e2h8k/studio_bot_as_your_ai_android_studio_assistant/)
-- [Android 14 Beta2 Release Notes](https://www.reddit.com/r/androiddev/comments/13e26sx/android_14_beta2_release_notes/)
-- [Google introduced Studio Bot &lpar;Still available at US only&rpar;](https://www.reddit.com/r/androiddev/comments/13e1p18/google_introduced_studio_bot_still_available_at/)
-- [Android Studio Hedgehog Canary 3 is now available](https://www.reddit.com/r/androiddev/comments/13e1ggi/android_studio_hedgehog_canary_3_is_now_available/)
-- [Android Device Streaming from Android Studio | Android Developers](https://www.reddit.com/r/androiddev/comments/13e16sx/android_device_streaming_from_android_studio/)
+- [What technologies/framework should I use on my web development internship so that it helps me with my android developer CV/resume?](https://www.reddit.com/r/androiddev/comments/13f5zax/what_technologiesframework_should_i_use_on_my_web/)
+- [AI will create app descriptions on the Play Store](https://www.reddit.com/r/androiddev/comments/13f4rsp/ai_will_create_app_descriptions_on_the_play_store/)
+- [Swipeable lazyrow jetpack compose](https://www.reddit.com/r/androiddev/comments/13eyy0e/swipeable_lazyrow_jetpack_compose/)
+- [how to enable developer mode when phone is company owned?](https://www.reddit.com/r/androiddev/comments/13eykmo/how_to_enable_developer_mode_when_phone_is/)
+- [Use existing AI Voice cloning in an app](https://www.reddit.com/r/androiddev/comments/13exqqw/use_existing_ai_voice_cloning_in_an_app/)
+- [Would it be better to code using Python or learning Kotlin](https://www.reddit.com/r/androiddev/comments/13ex8uk/would_it_be_better_to_code_using_python_or/)
+- [Pimax doing a 100k USD fund for indie developers](https://www.reddit.com/r/androiddev/comments/13evdce/pimax_doing_a_100k_usd_fund_for_indie_developers/)
+- [Advanced local notification system design/architecture guides](https://www.reddit.com/r/androiddev/comments/13et0h7/advanced_local_notification_system/)
+- [Layout preview not working in Android Studio](https://www.reddit.com/r/androiddev/comments/13eqxzr/layout_preview_not_working_in_android_studio/)
+- [LPA managing application](https://www.reddit.com/r/androiddev/comments/13eqxpd/lpa_managing_application/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
