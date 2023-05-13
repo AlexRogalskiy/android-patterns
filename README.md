@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What technologies/framework should I use on my web development internship so that it helps me with my android developer CV/resume?](https://www.reddit.com/r/androiddev/comments/13f5zax/what_technologiesframework_should_i_use_on_my_web/)
-- [AI will create app descriptions on the Play Store](https://www.reddit.com/r/androiddev/comments/13f4rsp/ai_will_create_app_descriptions_on_the_play_store/)
-- [Swipeable lazyrow jetpack compose](https://www.reddit.com/r/androiddev/comments/13eyy0e/swipeable_lazyrow_jetpack_compose/)
-- [how to enable developer mode when phone is company owned?](https://www.reddit.com/r/androiddev/comments/13eykmo/how_to_enable_developer_mode_when_phone_is/)
-- [Use existing AI Voice cloning in an app](https://www.reddit.com/r/androiddev/comments/13exqqw/use_existing_ai_voice_cloning_in_an_app/)
-- [Would it be better to code using Python or learning Kotlin](https://www.reddit.com/r/androiddev/comments/13ex8uk/would_it_be_better_to_code_using_python_or/)
-- [Pimax doing a 100k USD fund for indie developers](https://www.reddit.com/r/androiddev/comments/13evdce/pimax_doing_a_100k_usd_fund_for_indie_developers/)
-- [Advanced local notification system design/architecture guides](https://www.reddit.com/r/androiddev/comments/13et0h7/advanced_local_notification_system/)
-- [Layout preview not working in Android Studio](https://www.reddit.com/r/androiddev/comments/13eqxzr/layout_preview_not_working_in_android_studio/)
-- [LPA managing application](https://www.reddit.com/r/androiddev/comments/13eqxpd/lpa_managing_application/)
+- [What means the &quot;cf&quot; compilation tag on aosp_cf_arm64_phone-userdebug artifact](https://www.reddit.com/r/androiddev/comments/13g0jj0/what_means_the_cf_compilation_tag_on_aosp_cf/)
+- [Unable to Disable SwipeToDismiss for Composables](https://www.reddit.com/r/androiddev/comments/13fz2i2/unable_to_disable_swipetodismiss_for_composables/)
+- [What is the purpose of ON-DEVICE SPEECH RECOGNITION when I can&#39;t make Assistant open an app without turning on my cellular data?!](https://www.reddit.com/r/androiddev/comments/13fz1cj/what_is_the_purpose_of_ondevice_speech/)
+- [Recreating YouTube like Bottom Sheet behaviour with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/13fryff/recreating_youtube_like_bottom_sheet_behaviour/)
+- [Ensuring API availability with ModuleInstallClient](https://www.reddit.com/r/androiddev/comments/13fqok7/ensuring_api_availability_with_moduleinstallclient/)
+- [Opinion on the new Play Console beta update?](https://www.reddit.com/r/androiddev/comments/13fps94/opinion_on_the_new_play_console_beta_update/)
+- [What android icon is this?](https://www.reddit.com/r/androiddev/comments/13fmk09/what_android_icon_is_this/)
+- [Android Studio Bot Is Bad Right Now! Stick to GPT-4](https://www.reddit.com/r/androiddev/comments/13fl8g8/android_studio_bot_is_bad_right_now_stick_to_gpt4/)
+- [Android Dev Newsletter - Issue #30](https://www.reddit.com/r/androiddev/comments/13fg5t6/android_dev_newsletter_issue_30/)
+- [How can I only query for the contacts that have been updated/edited? android](https://www.reddit.com/r/androiddev/comments/13fcl1m/how_can_i_only_query_for_the_contacts_that_have/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
