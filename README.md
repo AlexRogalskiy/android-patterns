@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What means the &quot;cf&quot; compilation tag on aosp_cf_arm64_phone-userdebug artifact](https://www.reddit.com/r/androiddev/comments/13g0jj0/what_means_the_cf_compilation_tag_on_aosp_cf/)
-- [Unable to Disable SwipeToDismiss for Composables](https://www.reddit.com/r/androiddev/comments/13fz2i2/unable_to_disable_swipetodismiss_for_composables/)
-- [What is the purpose of ON-DEVICE SPEECH RECOGNITION when I can&#39;t make Assistant open an app without turning on my cellular data?!](https://www.reddit.com/r/androiddev/comments/13fz1cj/what_is_the_purpose_of_ondevice_speech/)
-- [Recreating YouTube like Bottom Sheet behaviour with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/13fryff/recreating_youtube_like_bottom_sheet_behaviour/)
-- [Ensuring API availability with ModuleInstallClient](https://www.reddit.com/r/androiddev/comments/13fqok7/ensuring_api_availability_with_moduleinstallclient/)
-- [Opinion on the new Play Console beta update?](https://www.reddit.com/r/androiddev/comments/13fps94/opinion_on_the_new_play_console_beta_update/)
-- [What android icon is this?](https://www.reddit.com/r/androiddev/comments/13fmk09/what_android_icon_is_this/)
-- [Android Studio Bot Is Bad Right Now! Stick to GPT-4](https://www.reddit.com/r/androiddev/comments/13fl8g8/android_studio_bot_is_bad_right_now_stick_to_gpt4/)
-- [Android Dev Newsletter - Issue #30](https://www.reddit.com/r/androiddev/comments/13fg5t6/android_dev_newsletter_issue_30/)
-- [How can I only query for the contacts that have been updated/edited? android](https://www.reddit.com/r/androiddev/comments/13fcl1m/how_can_i_only_query_for_the_contacts_that_have/)
+- [Did they remove parameters from the Scaffold Composable or am I tripping?](https://www.reddit.com/r/androiddev/comments/13gzchs/did_they_remove_parameters_from_the_scaffold/)
+- [Complaining about your app installation counter not showing the right number? Google app with 9000 reviews has 1+ downloads &lpar;Personal Safety&rpar;](https://www.reddit.com/r/androiddev/comments/13gyaty/complaining_about_your_app_installation_counter/)
+- [Please Review My App](https://www.reddit.com/r/androiddev/comments/13gu7dx/please_review_my_app/)
+- [I need critiques for my app](https://www.reddit.com/r/androiddev/comments/13gtmuc/i_need_critiques_for_my_app/)
+- [how to create controls for zoom ui?](https://www.reddit.com/r/androiddev/comments/13gtcu7/how_to_create_controls_for_zoom_ui/)
+- [Why](https://www.reddit.com/r/androiddev/comments/13gsq4a/why/)
+- [App showing blank screen](https://www.reddit.com/r/androiddev/comments/13gs783/app_showing_blank_screen/)
+- [Improve mouse wheel scrolling on MacOS](https://www.reddit.com/r/androiddev/comments/13gq89n/improve_mouse_wheel_scrolling_on_macos/)
+- [Can anyone tell me good resources to start learning android developer?](https://www.reddit.com/r/androiddev/comments/13gpnwx/can_anyone_tell_me_good_resources_to_start/)
+- [React Native Stack Navigator component UI not updating while inside Java FrameLayout](https://www.reddit.com/r/androiddev/comments/13gpgcq/react_native_stack_navigator_component_ui_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
