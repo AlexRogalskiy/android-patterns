@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Did they remove parameters from the Scaffold Composable or am I tripping?](https://www.reddit.com/r/androiddev/comments/13gzchs/did_they_remove_parameters_from_the_scaffold/)
-- [Complaining about your app installation counter not showing the right number? Google app with 9000 reviews has 1+ downloads &lpar;Personal Safety&rpar;](https://www.reddit.com/r/androiddev/comments/13gyaty/complaining_about_your_app_installation_counter/)
-- [Please Review My App](https://www.reddit.com/r/androiddev/comments/13gu7dx/please_review_my_app/)
-- [I need critiques for my app](https://www.reddit.com/r/androiddev/comments/13gtmuc/i_need_critiques_for_my_app/)
-- [how to create controls for zoom ui?](https://www.reddit.com/r/androiddev/comments/13gtcu7/how_to_create_controls_for_zoom_ui/)
-- [Why](https://www.reddit.com/r/androiddev/comments/13gsq4a/why/)
-- [App showing blank screen](https://www.reddit.com/r/androiddev/comments/13gs783/app_showing_blank_screen/)
-- [Improve mouse wheel scrolling on MacOS](https://www.reddit.com/r/androiddev/comments/13gq89n/improve_mouse_wheel_scrolling_on_macos/)
-- [Can anyone tell me good resources to start learning android developer?](https://www.reddit.com/r/androiddev/comments/13gpnwx/can_anyone_tell_me_good_resources_to_start/)
-- [React Native Stack Navigator component UI not updating while inside Java FrameLayout](https://www.reddit.com/r/androiddev/comments/13gpgcq/react_native_stack_navigator_component_ui_not/)
+- [Logcat CLI viewer released &lpar;open-sourced?&rpar; by Google](https://www.reddit.com/r/androiddev/comments/13hq6f4/logcat_cli_viewer_released_opensourced_by_google/)
+- [Trouble with Firebase RecyclerView](https://www.reddit.com/r/androiddev/comments/13hpfpu/trouble_with_firebase_recyclerview/)
+- [Get tax invoice from the income from Google play in EU &lpar;for tax purposes&rpar;](https://www.reddit.com/r/androiddev/comments/13hnw6w/get_tax_invoice_from_the_income_from_google_play/)
+- [How to gain experience to land a job ?](https://www.reddit.com/r/androiddev/comments/13hkccm/how_to_gain_experience_to_land_a_job/)
+- [Do you finish all work assigned to you in a sprint on time?](https://www.reddit.com/r/androiddev/comments/13hi18q/do_you_finish_all_work_assigned_to_you_in_a/)
+- [All unit tests are failing.](https://www.reddit.com/r/androiddev/comments/13hha9m/all_unit_tests_are_failing/)
+- [How to obtain the outgoing call phone number on Android 10 without creating a custom dialer interface?](https://www.reddit.com/r/androiddev/comments/13hexda/how_to_obtain_the_outgoing_call_phone_number_on/)
+- [MDM Private project](https://www.reddit.com/r/androiddev/comments/13hed64/mdm_private_project/)
+- [Android Studio &lpar;Flamingo&rpar; Layout Editor memory leak? or was the update is just too heavy?](https://www.reddit.com/r/androiddev/comments/13he427/android_studio_flamingo_layout_editor_memory_leak/)
+- [Junior android developer](https://www.reddit.com/r/androiddev/comments/13hcbt8/junior_android_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
