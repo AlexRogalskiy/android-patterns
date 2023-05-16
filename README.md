@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Logcat CLI viewer released &lpar;open-sourced?&rpar; by Google](https://www.reddit.com/r/androiddev/comments/13hq6f4/logcat_cli_viewer_released_opensourced_by_google/)
-- [Trouble with Firebase RecyclerView](https://www.reddit.com/r/androiddev/comments/13hpfpu/trouble_with_firebase_recyclerview/)
-- [Get tax invoice from the income from Google play in EU &lpar;for tax purposes&rpar;](https://www.reddit.com/r/androiddev/comments/13hnw6w/get_tax_invoice_from_the_income_from_google_play/)
-- [How to gain experience to land a job ?](https://www.reddit.com/r/androiddev/comments/13hkccm/how_to_gain_experience_to_land_a_job/)
-- [Do you finish all work assigned to you in a sprint on time?](https://www.reddit.com/r/androiddev/comments/13hi18q/do_you_finish_all_work_assigned_to_you_in_a/)
-- [All unit tests are failing.](https://www.reddit.com/r/androiddev/comments/13hha9m/all_unit_tests_are_failing/)
-- [How to obtain the outgoing call phone number on Android 10 without creating a custom dialer interface?](https://www.reddit.com/r/androiddev/comments/13hexda/how_to_obtain_the_outgoing_call_phone_number_on/)
-- [MDM Private project](https://www.reddit.com/r/androiddev/comments/13hed64/mdm_private_project/)
-- [Android Studio &lpar;Flamingo&rpar; Layout Editor memory leak? or was the update is just too heavy?](https://www.reddit.com/r/androiddev/comments/13he427/android_studio_flamingo_layout_editor_memory_leak/)
-- [Junior android developer](https://www.reddit.com/r/androiddev/comments/13hcbt8/junior_android_developer/)
+- [How to unlock Samsung galaxy j7 prime without pattern](https://www.reddit.com/r/androiddev/comments/13irgwd/how_to_unlock_samsung_galaxy_j7_prime_without/)
+- [Share your completed projects that didn&#39;t make it to the app store.](https://www.reddit.com/r/androiddev/comments/13ipgtu/share_your_completed_projects_that_didnt_make_it/)
+- [Is there a way to get some accessibility analytics when users use our app?](https://www.reddit.com/r/androiddev/comments/13ioyca/is_there_a_way_to_get_some_accessibility/)
+- [WorkManager setRequiredNetworkType Wi-Fi vs Cellular](https://www.reddit.com/r/androiddev/comments/13ik4en/workmanager_setrequirednetworktype_wifi_vs/)
+- [[📍India] At this time, New Admob account mandatory PAN Card for Payment?](https://www.reddit.com/r/androiddev/comments/13ihvvt/india_at_this_time_new_admob_account_mandatory/)
+- [Why](https://www.reddit.com/r/androiddev/comments/13iflh2/why/)
+- [Implementation of an onboarding screen, followed by a paywall screen, and then asking for a rating](https://www.reddit.com/r/androiddev/comments/13ifhif/implementation_of_an_onboarding_screen_followed/)
+- [Are there cons of switching to flutter?](https://www.reddit.com/r/androiddev/comments/13ifc9d/are_there_cons_of_switching_to_flutter/)
+- [30 ideas to reduce your Gradle Build times](https://www.reddit.com/r/androiddev/comments/13idtjx/30_ideas_to_reduce_your_gradle_build_times/)
+- [layout design for a app](https://www.reddit.com/r/androiddev/comments/13iahqm/layout_design_for_a_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
