@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to unlock Samsung galaxy j7 prime without pattern](https://www.reddit.com/r/androiddev/comments/13irgwd/how_to_unlock_samsung_galaxy_j7_prime_without/)
-- [Share your completed projects that didn&#39;t make it to the app store.](https://www.reddit.com/r/androiddev/comments/13ipgtu/share_your_completed_projects_that_didnt_make_it/)
-- [Is there a way to get some accessibility analytics when users use our app?](https://www.reddit.com/r/androiddev/comments/13ioyca/is_there_a_way_to_get_some_accessibility/)
-- [WorkManager setRequiredNetworkType Wi-Fi vs Cellular](https://www.reddit.com/r/androiddev/comments/13ik4en/workmanager_setrequirednetworktype_wifi_vs/)
-- [[📍India] At this time, New Admob account mandatory PAN Card for Payment?](https://www.reddit.com/r/androiddev/comments/13ihvvt/india_at_this_time_new_admob_account_mandatory/)
-- [Why](https://www.reddit.com/r/androiddev/comments/13iflh2/why/)
-- [Implementation of an onboarding screen, followed by a paywall screen, and then asking for a rating](https://www.reddit.com/r/androiddev/comments/13ifhif/implementation_of_an_onboarding_screen_followed/)
-- [Are there cons of switching to flutter?](https://www.reddit.com/r/androiddev/comments/13ifc9d/are_there_cons_of_switching_to_flutter/)
-- [30 ideas to reduce your Gradle Build times](https://www.reddit.com/r/androiddev/comments/13idtjx/30_ideas_to_reduce_your_gradle_build_times/)
-- [layout design for a app](https://www.reddit.com/r/androiddev/comments/13iahqm/layout_design_for_a_app/)
+- [Update Map Markers without freezing/lagging UI](https://www.reddit.com/r/androiddev/comments/13jo1sb/update_map_markers_without_freezinglagging_ui/)
+- [Is it possible to import Java source library, then use it in Kotlin project?](https://www.reddit.com/r/androiddev/comments/13jn7f8/is_it_possible_to_import_java_source_library_then/)
+- [Any Auth0 mobile expertise?](https://www.reddit.com/r/androiddev/comments/13ji9qw/any_auth0_mobile_expertise/)
+- [Android Studio Hedgehog Canary 4 now available](https://www.reddit.com/r/androiddev/comments/13jh1b6/android_studio_hedgehog_canary_4_now_available/)
+- [ExoPlayer segment download](https://www.reddit.com/r/androiddev/comments/13jgmxm/exoplayer_segment_download/)
+- [Unlisted testing through Play Store &lpar;TestFlight-like&rpar;](https://www.reddit.com/r/androiddev/comments/13jg6j5/unlisted_testing_through_play_store_testflightlike/)
+- [When will Studio Bot be globally available?](https://www.reddit.com/r/androiddev/comments/13jfnrw/when_will_studio_bot_be_globally_available/)
+- [Anyway to find a linked Google Developer Account?](https://www.reddit.com/r/androiddev/comments/13jdcpg/anyway_to_find_a_linked_google_developer_account/)
+- [Android development workflow](https://www.reddit.com/r/androiddev/comments/13jc5ne/android_development_workflow/)
+- [Is there a place where we can get the splash screen image for each AS versions?](https://www.reddit.com/r/androiddev/comments/13jbxwk/is_there_a_place_where_we_can_get_the_splash/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
