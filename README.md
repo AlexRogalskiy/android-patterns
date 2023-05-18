@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Update Map Markers without freezing/lagging UI](https://www.reddit.com/r/androiddev/comments/13jo1sb/update_map_markers_without_freezinglagging_ui/)
-- [Is it possible to import Java source library, then use it in Kotlin project?](https://www.reddit.com/r/androiddev/comments/13jn7f8/is_it_possible_to_import_java_source_library_then/)
-- [Any Auth0 mobile expertise?](https://www.reddit.com/r/androiddev/comments/13ji9qw/any_auth0_mobile_expertise/)
-- [Android Studio Hedgehog Canary 4 now available](https://www.reddit.com/r/androiddev/comments/13jh1b6/android_studio_hedgehog_canary_4_now_available/)
-- [ExoPlayer segment download](https://www.reddit.com/r/androiddev/comments/13jgmxm/exoplayer_segment_download/)
-- [Unlisted testing through Play Store &lpar;TestFlight-like&rpar;](https://www.reddit.com/r/androiddev/comments/13jg6j5/unlisted_testing_through_play_store_testflightlike/)
-- [When will Studio Bot be globally available?](https://www.reddit.com/r/androiddev/comments/13jfnrw/when_will_studio_bot_be_globally_available/)
-- [Anyway to find a linked Google Developer Account?](https://www.reddit.com/r/androiddev/comments/13jdcpg/anyway_to_find_a_linked_google_developer_account/)
-- [Android development workflow](https://www.reddit.com/r/androiddev/comments/13jc5ne/android_development_workflow/)
-- [Is there a place where we can get the splash screen image for each AS versions?](https://www.reddit.com/r/androiddev/comments/13jbxwk/is_there_a_place_where_we_can_get_the_splash/)
+- [Is Android Development A Good Career Path in 2023?](https://www.reddit.com/r/androiddev/comments/13kkmvg/is_android_development_a_good_career_path_in_2023/)
+- [The navigation compose library is the most confusing thing I&#39;ve tried to learn in a while.](https://www.reddit.com/r/androiddev/comments/13kk9y3/the_navigation_compose_library_is_the_most/)
+- [Not able to download any type of amazon affiliated app from appstore or even Any Apks](https://www.reddit.com/r/androiddev/comments/13kk5fr/not_able_to_download_any_type_of_amazon/)
+- [Anyone else feel like development of Jetpack compose has been very slow?](https://www.reddit.com/r/androiddev/comments/13kh3w5/anyone_else_feel_like_development_of_jetpack/)
+- [Google I/O Connect](https://www.reddit.com/r/androiddev/comments/13kdr7e/google_io_connect/)
+- [Android Emulator on Remote Machine](https://www.reddit.com/r/androiddev/comments/13kdma9/android_emulator_on_remote_machine/)
+- [xperia s recovery mode ?](https://www.reddit.com/r/androiddev/comments/13kcbut/xperia_s_recovery_mode/)
+- [Kotlin VS Java – What&#39;s the Difference?](https://www.reddit.com/r/androiddev/comments/13ka16w/kotlin_vs_java_whats_the_difference/)
+- [How do you usually implement paywall page in your app?](https://www.reddit.com/r/androiddev/comments/13k9kj1/how_do_you_usually_implement_paywall_page_in_your/)
+- [Missing SDK](https://www.reddit.com/r/androiddev/comments/13k98el/missing_sdk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
