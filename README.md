@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is Android Development A Good Career Path in 2023?](https://www.reddit.com/r/androiddev/comments/13kkmvg/is_android_development_a_good_career_path_in_2023/)
-- [The navigation compose library is the most confusing thing I&#39;ve tried to learn in a while.](https://www.reddit.com/r/androiddev/comments/13kk9y3/the_navigation_compose_library_is_the_most/)
-- [Not able to download any type of amazon affiliated app from appstore or even Any Apks](https://www.reddit.com/r/androiddev/comments/13kk5fr/not_able_to_download_any_type_of_amazon/)
-- [Anyone else feel like development of Jetpack compose has been very slow?](https://www.reddit.com/r/androiddev/comments/13kh3w5/anyone_else_feel_like_development_of_jetpack/)
-- [Google I/O Connect](https://www.reddit.com/r/androiddev/comments/13kdr7e/google_io_connect/)
-- [Android Emulator on Remote Machine](https://www.reddit.com/r/androiddev/comments/13kdma9/android_emulator_on_remote_machine/)
-- [xperia s recovery mode ?](https://www.reddit.com/r/androiddev/comments/13kcbut/xperia_s_recovery_mode/)
-- [Kotlin VS Java – What&#39;s the Difference?](https://www.reddit.com/r/androiddev/comments/13ka16w/kotlin_vs_java_whats_the_difference/)
-- [How do you usually implement paywall page in your app?](https://www.reddit.com/r/androiddev/comments/13k9kj1/how_do_you_usually_implement_paywall_page_in_your/)
-- [Missing SDK](https://www.reddit.com/r/androiddev/comments/13k98el/missing_sdk/)
+- [How Can I Deal With Splash Screen API And Dialog Fragment At The Same Time](https://www.reddit.com/r/androiddev/comments/13lh6w7/how_can_i_deal_with_splash_screen_api_and_dialog/)
+- [How](https://www.reddit.com/r/androiddev/comments/13lfsyj/how/)
+- [Open Sourcing All My Apps - Quitting Android Dev After Almost 10 Years](https://www.reddit.com/r/androiddev/comments/13lf6jb/open_sourcing_all_my_apps_quitting_android_dev/)
+- [How do ADB &quot;trusted devices&quot; work?](https://www.reddit.com/r/androiddev/comments/13ldl2j/how_do_adb_trusted_devices_work/)
+- [&quot;Google App Backend change causing overheating&quot;](https://www.reddit.com/r/androiddev/comments/13ldkf4/google_app_backend_change_causing_overheating/)
+- [Android app To run code natively and control robots](https://www.reddit.com/r/androiddev/comments/13la9wh/android_app_to_run_code_natively_and_control/)
+- [What are some advanced topics in android?](https://www.reddit.com/r/androiddev/comments/13la4iz/what_are_some_advanced_topics_in_android/)
+- [Balancing Career Growth: Machine Learning, Android Development, and Computer Engineering - Seeking Advice](https://www.reddit.com/r/androiddev/comments/13l9ido/balancing_career_growth_machine_learning_android/)
+- [what are your system specs?](https://www.reddit.com/r/androiddev/comments/13l81x4/what_are_your_system_specs/)
+- [Do you think such a Paywall design is gonna to convert well?](https://www.reddit.com/r/androiddev/comments/13l7el7/do_you_think_such_a_paywall_design_is_gonna_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
