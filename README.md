@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How Can I Deal With Splash Screen API And Dialog Fragment At The Same Time](https://www.reddit.com/r/androiddev/comments/13lh6w7/how_can_i_deal_with_splash_screen_api_and_dialog/)
-- [How](https://www.reddit.com/r/androiddev/comments/13lfsyj/how/)
-- [Open Sourcing All My Apps - Quitting Android Dev After Almost 10 Years](https://www.reddit.com/r/androiddev/comments/13lf6jb/open_sourcing_all_my_apps_quitting_android_dev/)
-- [How do ADB &quot;trusted devices&quot; work?](https://www.reddit.com/r/androiddev/comments/13ldl2j/how_do_adb_trusted_devices_work/)
-- [&quot;Google App Backend change causing overheating&quot;](https://www.reddit.com/r/androiddev/comments/13ldkf4/google_app_backend_change_causing_overheating/)
-- [Android app To run code natively and control robots](https://www.reddit.com/r/androiddev/comments/13la9wh/android_app_to_run_code_natively_and_control/)
-- [What are some advanced topics in android?](https://www.reddit.com/r/androiddev/comments/13la4iz/what_are_some_advanced_topics_in_android/)
-- [Balancing Career Growth: Machine Learning, Android Development, and Computer Engineering - Seeking Advice](https://www.reddit.com/r/androiddev/comments/13l9ido/balancing_career_growth_machine_learning_android/)
-- [what are your system specs?](https://www.reddit.com/r/androiddev/comments/13l81x4/what_are_your_system_specs/)
-- [Do you think such a Paywall design is gonna to convert well?](https://www.reddit.com/r/androiddev/comments/13l7el7/do_you_think_such_a_paywall_design_is_gonna_to/)
+- [How to start fresh most effectively?](https://www.reddit.com/r/androiddev/comments/13mea0u/how_to_start_fresh_most_effectively/)
+- [Termux, an app running on the Android operating system, as the foundation for working with files formatted with the Linux ext4 file system.](https://www.reddit.com/r/androiddev/comments/13mceip/termux_an_app_running_on_the_android_operating/)
+- [Store5 is in beta!](https://www.reddit.com/r/androiddev/comments/13mb2sz/store5_is_in_beta/)
+- [Telling Google which app listing to show?](https://www.reddit.com/r/androiddev/comments/13mb1s4/telling_google_which_app_listing_to_show/)
+- [Using ComposeView in a fragment with Navigation Component](https://www.reddit.com/r/androiddev/comments/13m4tfr/using_composeview_in_a_fragment_with_navigation/)
+- [Modify OpenCamera to allow a higher shutter speed + iso &lpar;camea2api&rpar; + plus compile from source ?](https://www.reddit.com/r/androiddev/comments/13m1hij/modify_opencamera_to_allow_a_higher_shutter_speed/)
+- [I&#39;m an independent mobile apps developer operating under a US-Based LLC. Why am I being inquired for Taiwan tax information?](https://www.reddit.com/r/androiddev/comments/13m0zhn/im_an_independent_mobile_apps_developer_operating/)
+- [Google I/O Connect Miami Registration Without Invitation](https://www.reddit.com/r/androiddev/comments/13m03bn/google_io_connect_miami_registration_without/)
+- [Can ML Kit Face Detection, detect customer&#39;s skin color?](https://www.reddit.com/r/androiddev/comments/13lxb30/can_ml_kit_face_detection_detect_customers_skin/)
+- [I need a repo with a modern and advanced architecture for an Android project. Can you help me?](https://www.reddit.com/r/androiddev/comments/13lxash/i_need_a_repo_with_a_modern_and_advanced/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
