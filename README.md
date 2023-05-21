@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to start fresh most effectively?](https://www.reddit.com/r/androiddev/comments/13mea0u/how_to_start_fresh_most_effectively/)
-- [Termux, an app running on the Android operating system, as the foundation for working with files formatted with the Linux ext4 file system.](https://www.reddit.com/r/androiddev/comments/13mceip/termux_an_app_running_on_the_android_operating/)
-- [Store5 is in beta!](https://www.reddit.com/r/androiddev/comments/13mb2sz/store5_is_in_beta/)
-- [Telling Google which app listing to show?](https://www.reddit.com/r/androiddev/comments/13mb1s4/telling_google_which_app_listing_to_show/)
-- [Using ComposeView in a fragment with Navigation Component](https://www.reddit.com/r/androiddev/comments/13m4tfr/using_composeview_in_a_fragment_with_navigation/)
-- [Modify OpenCamera to allow a higher shutter speed + iso &lpar;camea2api&rpar; + plus compile from source ?](https://www.reddit.com/r/androiddev/comments/13m1hij/modify_opencamera_to_allow_a_higher_shutter_speed/)
-- [I&#39;m an independent mobile apps developer operating under a US-Based LLC. Why am I being inquired for Taiwan tax information?](https://www.reddit.com/r/androiddev/comments/13m0zhn/im_an_independent_mobile_apps_developer_operating/)
-- [Google I/O Connect Miami Registration Without Invitation](https://www.reddit.com/r/androiddev/comments/13m03bn/google_io_connect_miami_registration_without/)
-- [Can ML Kit Face Detection, detect customer&#39;s skin color?](https://www.reddit.com/r/androiddev/comments/13lxb30/can_ml_kit_face_detection_detect_customers_skin/)
-- [I need a repo with a modern and advanced architecture for an Android project. Can you help me?](https://www.reddit.com/r/androiddev/comments/13lxash/i_need_a_repo_with_a_modern_and_advanced/)
+- [How to fix ID verification taking forever](https://www.reddit.com/r/androiddev/comments/13nd20c/how_to_fix_id_verification_taking_forever/)
+- [What do the two check marks mean?](https://www.reddit.com/r/androiddev/comments/13nce1r/what_do_the_two_check_marks_mean/)
+- [Is this remotely considered pagination? My custom paginating solution.](https://www.reddit.com/r/androiddev/comments/13nc0lt/is_this_remotely_considered_pagination_my_custom/)
+- [Separation of concerns in MVVM and cleaning up my code.](https://www.reddit.com/r/androiddev/comments/13naact/separation_of_concerns_in_mvvm_and_cleaning_up_my/)
+- [Material Design](https://www.reddit.com/r/androiddev/comments/13n3f9h/material_design/)
+- [MMS address frustration](https://www.reddit.com/r/androiddev/comments/13n246z/mms_address_frustration/)
+- [So what Detekt plugins do you use?](https://www.reddit.com/r/androiddev/comments/13n04z2/so_what_detekt_plugins_do_you_use/)
+- [Android app that has pre/after request Scripting like postman?](https://www.reddit.com/r/androiddev/comments/13mwxsn/android_app_that_has_preafter_request_scripting/)
+- [SHIFT - Android app to replace Facebook, Telegram and legacy currencies](https://www.reddit.com/r/androiddev/comments/13mwdto/shift_android_app_to_replace_facebook_telegram/)
+- [New Jetpack Compose BasicTextField2](https://www.reddit.com/r/androiddev/comments/13mq0q9/new_jetpack_compose_basictextfield2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
