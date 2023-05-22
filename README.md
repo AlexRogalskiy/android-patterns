@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to fix ID verification taking forever](https://www.reddit.com/r/androiddev/comments/13nd20c/how_to_fix_id_verification_taking_forever/)
-- [What do the two check marks mean?](https://www.reddit.com/r/androiddev/comments/13nce1r/what_do_the_two_check_marks_mean/)
-- [Is this remotely considered pagination? My custom paginating solution.](https://www.reddit.com/r/androiddev/comments/13nc0lt/is_this_remotely_considered_pagination_my_custom/)
-- [Separation of concerns in MVVM and cleaning up my code.](https://www.reddit.com/r/androiddev/comments/13naact/separation_of_concerns_in_mvvm_and_cleaning_up_my/)
-- [Material Design](https://www.reddit.com/r/androiddev/comments/13n3f9h/material_design/)
-- [MMS address frustration](https://www.reddit.com/r/androiddev/comments/13n246z/mms_address_frustration/)
-- [So what Detekt plugins do you use?](https://www.reddit.com/r/androiddev/comments/13n04z2/so_what_detekt_plugins_do_you_use/)
-- [Android app that has pre/after request Scripting like postman?](https://www.reddit.com/r/androiddev/comments/13mwxsn/android_app_that_has_preafter_request_scripting/)
-- [SHIFT - Android app to replace Facebook, Telegram and legacy currencies](https://www.reddit.com/r/androiddev/comments/13mwdto/shift_android_app_to_replace_facebook_telegram/)
-- [New Jetpack Compose BasicTextField2](https://www.reddit.com/r/androiddev/comments/13mq0q9/new_jetpack_compose_basictextfield2/)
+- [30 ideas to reduce your APK size](https://www.reddit.com/r/androiddev/comments/13obvso/30_ideas_to_reduce_your_apk_size/)
+- [Suspended for &quot;Device and network abuse&quot;](https://www.reddit.com/r/androiddev/comments/13o91rc/suspended_for_device_and_network_abuse/)
+- [Play store testing seems to have started using Espresso recently](https://www.reddit.com/r/androiddev/comments/13o5vi6/play_store_testing_seems_to_have_started_using/)
+- [From where do you get your artwork?](https://www.reddit.com/r/androiddev/comments/13o5khj/from_where_do_you_get_your_artwork/)
+- [Voice actions](https://www.reddit.com/r/androiddev/comments/13o2buk/voice_actions/)
+- [My actions window suddenly became tiny. Any idea how to make it bigger? &lpar;AS Flamingo&rpar;](https://www.reddit.com/r/androiddev/comments/13o0mtr/my_actions_window_suddenly_became_tiny_any_idea/)
+- [How to create Android developer account without connecting it to my personal Gmail account](https://www.reddit.com/r/androiddev/comments/13o06fz/how_to_create_android_developer_account_without/)
+- [Is it possible to create an android library with trained models in it?](https://www.reddit.com/r/androiddev/comments/13nyn8n/is_it_possible_to_create_an_android_library_with/)
+- [Anyone else getting a lot of ANR errors lately because of AdMob?](https://www.reddit.com/r/androiddev/comments/13nwdk2/anyone_else_getting_a_lot_of_anr_errors_lately/)
+- [Is Android dev underrated or being underlooked? Or it&#39;s just BAD](https://www.reddit.com/r/androiddev/comments/13nutbr/is_android_dev_underrated_or_being_underlooked_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
