@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [30 ideas to reduce your APK size](https://www.reddit.com/r/androiddev/comments/13obvso/30_ideas_to_reduce_your_apk_size/)
-- [Suspended for &quot;Device and network abuse&quot;](https://www.reddit.com/r/androiddev/comments/13o91rc/suspended_for_device_and_network_abuse/)
-- [Play store testing seems to have started using Espresso recently](https://www.reddit.com/r/androiddev/comments/13o5vi6/play_store_testing_seems_to_have_started_using/)
-- [From where do you get your artwork?](https://www.reddit.com/r/androiddev/comments/13o5khj/from_where_do_you_get_your_artwork/)
-- [Voice actions](https://www.reddit.com/r/androiddev/comments/13o2buk/voice_actions/)
-- [My actions window suddenly became tiny. Any idea how to make it bigger? &lpar;AS Flamingo&rpar;](https://www.reddit.com/r/androiddev/comments/13o0mtr/my_actions_window_suddenly_became_tiny_any_idea/)
-- [How to create Android developer account without connecting it to my personal Gmail account](https://www.reddit.com/r/androiddev/comments/13o06fz/how_to_create_android_developer_account_without/)
-- [Is it possible to create an android library with trained models in it?](https://www.reddit.com/r/androiddev/comments/13nyn8n/is_it_possible_to_create_an_android_library_with/)
-- [Anyone else getting a lot of ANR errors lately because of AdMob?](https://www.reddit.com/r/androiddev/comments/13nwdk2/anyone_else_getting_a_lot_of_anr_errors_lately/)
-- [Is Android dev underrated or being underlooked? Or it&#39;s just BAD](https://www.reddit.com/r/androiddev/comments/13nutbr/is_android_dev_underrated_or_being_underlooked_or/)
+- [Want to make Paid-User Only App. Does this violate the Payments Policy?](https://www.reddit.com/r/androiddev/comments/13pajbp/want_to_make_paiduser_only_app_does_this_violate/)
+- [New App structure/template to follow?](https://www.reddit.com/r/androiddev/comments/13p3xmt/new_app_structuretemplate_to_follow/)
+- [Do any of you guys use DuckDuckGo for Android dev searches vs Google?](https://www.reddit.com/r/androiddev/comments/13p306g/do_any_of_you_guys_use_duckduckgo_for_android_dev/)
+- [WiFi Direct with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/13oyxop/wifi_direct_with_jetpack_compose/)
+- [Compose previews are still awful](https://www.reddit.com/r/androiddev/comments/13owcpv/compose_previews_are_still_awful/)
+- [Play Market alternatives](https://www.reddit.com/r/androiddev/comments/13ouill/play_market_alternatives/)
+- [Setting max volume for each app in android.](https://www.reddit.com/r/androiddev/comments/13os9qw/setting_max_volume_for_each_app_in_android/)
+- [Best way to create a react native module inside an android app?](https://www.reddit.com/r/androiddev/comments/13oqifq/best_way_to_create_a_react_native_module_inside/)
+- [Weekly Who&#39;s Hiring Thread - May 22, 2023](https://www.reddit.com/r/androiddev/comments/13oq9av/weekly_whos_hiring_thread_may_22_2023/)
+- [The Batman Calculator](https://www.reddit.com/r/androiddev/comments/13oposa/the_batman_calculator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
