@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Want to make Paid-User Only App. Does this violate the Payments Policy?](https://www.reddit.com/r/androiddev/comments/13pajbp/want_to_make_paiduser_only_app_does_this_violate/)
-- [New App structure/template to follow?](https://www.reddit.com/r/androiddev/comments/13p3xmt/new_app_structuretemplate_to_follow/)
-- [Do any of you guys use DuckDuckGo for Android dev searches vs Google?](https://www.reddit.com/r/androiddev/comments/13p306g/do_any_of_you_guys_use_duckduckgo_for_android_dev/)
-- [WiFi Direct with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/13oyxop/wifi_direct_with_jetpack_compose/)
-- [Compose previews are still awful](https://www.reddit.com/r/androiddev/comments/13owcpv/compose_previews_are_still_awful/)
-- [Play Market alternatives](https://www.reddit.com/r/androiddev/comments/13ouill/play_market_alternatives/)
-- [Setting max volume for each app in android.](https://www.reddit.com/r/androiddev/comments/13os9qw/setting_max_volume_for_each_app_in_android/)
-- [Best way to create a react native module inside an android app?](https://www.reddit.com/r/androiddev/comments/13oqifq/best_way_to_create_a_react_native_module_inside/)
-- [Weekly Who&#39;s Hiring Thread - May 22, 2023](https://www.reddit.com/r/androiddev/comments/13oq9av/weekly_whos_hiring_thread_may_22_2023/)
-- [The Batman Calculator](https://www.reddit.com/r/androiddev/comments/13oposa/the_batman_calculator/)
+- [Android Dev course for someone who already knows Java](https://www.reddit.com/r/androiddev/comments/13q6jew/android_dev_course_for_someone_who_already_knows/)
+- [What are best practices for a compose screen with input fields?](https://www.reddit.com/r/androiddev/comments/13q4fpg/what_are_best_practices_for_a_compose_screen_with/)
+- [Android Live Wallpaper API](https://www.reddit.com/r/androiddev/comments/13q3knv/android_live_wallpaper_api/)
+- [liveData observer not calling?](https://www.reddit.com/r/androiddev/comments/13q2qnz/livedata_observer_not_calling/)
+- [greetings to everyone. I have a horizontal Recyclerview and it rotates about 10 items. I want to leave a small space at the beginning of this Recyclerview, but when I do it with padding or margin, it doesn&#39;t work as I show in the video. How can I make it like Spotify&#39;s original Recyclerview](https://www.reddit.com/r/androiddev/comments/13q1y62/greetings_to_everyone_i_have_a_horizontal/)
+- [Is it possible to make apps for android 6&lpar;Api level 23&rpar;](https://www.reddit.com/r/androiddev/comments/13q0us1/is_it_possible_to_make_apps_for_android_6api/)
+- [WorkManager Praise](https://www.reddit.com/r/androiddev/comments/13pyzgm/workmanager_praise/)
+- [Google bans Downloader app after TV firms complain it can load a pirate website](https://www.reddit.com/r/androiddev/comments/13pyxqd/google_bans_downloader_app_after_tv_firms/)
+- [Niche Android Dev positions?](https://www.reddit.com/r/androiddev/comments/13pygrw/niche_android_dev_positions/)
+- [What is your job title?](https://www.reddit.com/r/androiddev/comments/13pvxgt/what_is_your_job_title/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
