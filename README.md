@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Dev course for someone who already knows Java](https://www.reddit.com/r/androiddev/comments/13q6jew/android_dev_course_for_someone_who_already_knows/)
-- [What are best practices for a compose screen with input fields?](https://www.reddit.com/r/androiddev/comments/13q4fpg/what_are_best_practices_for_a_compose_screen_with/)
-- [Android Live Wallpaper API](https://www.reddit.com/r/androiddev/comments/13q3knv/android_live_wallpaper_api/)
-- [liveData observer not calling?](https://www.reddit.com/r/androiddev/comments/13q2qnz/livedata_observer_not_calling/)
-- [greetings to everyone. I have a horizontal Recyclerview and it rotates about 10 items. I want to leave a small space at the beginning of this Recyclerview, but when I do it with padding or margin, it doesn&#39;t work as I show in the video. How can I make it like Spotify&#39;s original Recyclerview](https://www.reddit.com/r/androiddev/comments/13q1y62/greetings_to_everyone_i_have_a_horizontal/)
-- [Is it possible to make apps for android 6&lpar;Api level 23&rpar;](https://www.reddit.com/r/androiddev/comments/13q0us1/is_it_possible_to_make_apps_for_android_6api/)
-- [WorkManager Praise](https://www.reddit.com/r/androiddev/comments/13pyzgm/workmanager_praise/)
-- [Google bans Downloader app after TV firms complain it can load a pirate website](https://www.reddit.com/r/androiddev/comments/13pyxqd/google_bans_downloader_app_after_tv_firms/)
-- [Niche Android Dev positions?](https://www.reddit.com/r/androiddev/comments/13pygrw/niche_android_dev_positions/)
-- [What is your job title?](https://www.reddit.com/r/androiddev/comments/13pvxgt/what_is_your_job_title/)
+- [For the people working in UI&#39;s how do you manage ViewHolder querying logic?](https://www.reddit.com/r/androiddev/comments/13r1j3d/for_the_people_working_in_uis_how_do_you_manage/)
+- [Need some general advice and guidelines for dealing with dependencies and Gradle.](https://www.reddit.com/r/androiddev/comments/13r170j/need_some_general_advice_and_guidelines_for/)
+- [Android Studio Flamingo Patch 2 now available](https://www.reddit.com/r/androiddev/comments/13qvxdd/android_studio_flamingo_patch_2_now_available/)
+- [The Verizon network seems to have blocked only my number for only SMS. No one in the entire enterprise seems to have any knowledge of how or why. Does anyone else have experience with a problem like this?](https://www.reddit.com/r/androiddev/comments/13qvvth/the_verizon_network_seems_to_have_blocked_only_my/)
+- [Android Studio gives me the same five tips.](https://www.reddit.com/r/androiddev/comments/13quv83/android_studio_gives_me_the_same_five_tips/)
+- [Stop writing Boilerplate adapters for simple Recycler Views](https://www.reddit.com/r/androiddev/comments/13qtmqz/stop_writing_boilerplate_adapters_for_simple/)
+- [Max MSP Android Music Apps](https://www.reddit.com/r/androiddev/comments/13qt0ka/max_msp_android_music_apps/)
+- [Overlapping UI](https://www.reddit.com/r/androiddev/comments/13qs38x/overlapping_ui/)
+- [This app was built for an older version of Android](https://www.reddit.com/r/androiddev/comments/13qrl4c/this_app_was_built_for_an_older_version_of_android/)
+- [Creating automotive android apps help.](https://www.reddit.com/r/androiddev/comments/13qqmv7/creating_automotive_android_apps_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
