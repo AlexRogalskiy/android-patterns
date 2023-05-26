@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [For the people working in UI&#39;s how do you manage ViewHolder querying logic?](https://www.reddit.com/r/androiddev/comments/13r1j3d/for_the_people_working_in_uis_how_do_you_manage/)
-- [Need some general advice and guidelines for dealing with dependencies and Gradle.](https://www.reddit.com/r/androiddev/comments/13r170j/need_some_general_advice_and_guidelines_for/)
-- [Android Studio Flamingo Patch 2 now available](https://www.reddit.com/r/androiddev/comments/13qvxdd/android_studio_flamingo_patch_2_now_available/)
-- [The Verizon network seems to have blocked only my number for only SMS. No one in the entire enterprise seems to have any knowledge of how or why. Does anyone else have experience with a problem like this?](https://www.reddit.com/r/androiddev/comments/13qvvth/the_verizon_network_seems_to_have_blocked_only_my/)
-- [Android Studio gives me the same five tips.](https://www.reddit.com/r/androiddev/comments/13quv83/android_studio_gives_me_the_same_five_tips/)
-- [Stop writing Boilerplate adapters for simple Recycler Views](https://www.reddit.com/r/androiddev/comments/13qtmqz/stop_writing_boilerplate_adapters_for_simple/)
-- [Max MSP Android Music Apps](https://www.reddit.com/r/androiddev/comments/13qt0ka/max_msp_android_music_apps/)
-- [Overlapping UI](https://www.reddit.com/r/androiddev/comments/13qs38x/overlapping_ui/)
-- [This app was built for an older version of Android](https://www.reddit.com/r/androiddev/comments/13qrl4c/this_app_was_built_for_an_older_version_of_android/)
-- [Creating automotive android apps help.](https://www.reddit.com/r/androiddev/comments/13qqmv7/creating_automotive_android_apps_help/)
+- [Help with android emulation](https://www.reddit.com/r/androiddev/comments/13rxqbt/help_with_android_emulation/)
+- [CWTI - Create a game with libGDX](https://www.reddit.com/r/androiddev/comments/13rwdrh/cwti_create_a_game_with_libgdx/)
+- [Android Studio Hedgehog Canary 5 now available](https://www.reddit.com/r/androiddev/comments/13rw6lj/android_studio_hedgehog_canary_5_now_available/)
+- [Is there a way to view past logs on Android?](https://www.reddit.com/r/androiddev/comments/13rqmsj/is_there_a_way_to_view_past_logs_on_android/)
+- [Refunds and entitlements](https://www.reddit.com/r/androiddev/comments/13rpgg0/refunds_and_entitlements/)
+- [Learning TDD](https://www.reddit.com/r/androiddev/comments/13roulj/learning_tdd/)
+- [&#39;ProfileInstalled&#39; file in my apps private storage](https://www.reddit.com/r/androiddev/comments/13rooxw/profileinstalled_file_in_my_apps_private_storage/)
+- [My First Personal Project: Tic Tac Toe App! 🎉](https://www.reddit.com/r/androiddev/comments/13rlrig/my_first_personal_project_tic_tac_toe_app/)
+- [is kotlin lazy a singleton?](https://www.reddit.com/r/androiddev/comments/13rlju1/is_kotlin_lazy_a_singleton/)
+- [Need advice for storing and saving images. What are your best practices?](https://www.reddit.com/r/androiddev/comments/13rkpq8/need_advice_for_storing_and_saving_images_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
