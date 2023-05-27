@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help with android emulation](https://www.reddit.com/r/androiddev/comments/13rxqbt/help_with_android_emulation/)
-- [CWTI - Create a game with libGDX](https://www.reddit.com/r/androiddev/comments/13rwdrh/cwti_create_a_game_with_libgdx/)
-- [Android Studio Hedgehog Canary 5 now available](https://www.reddit.com/r/androiddev/comments/13rw6lj/android_studio_hedgehog_canary_5_now_available/)
-- [Is there a way to view past logs on Android?](https://www.reddit.com/r/androiddev/comments/13rqmsj/is_there_a_way_to_view_past_logs_on_android/)
-- [Refunds and entitlements](https://www.reddit.com/r/androiddev/comments/13rpgg0/refunds_and_entitlements/)
-- [Learning TDD](https://www.reddit.com/r/androiddev/comments/13roulj/learning_tdd/)
-- [&#39;ProfileInstalled&#39; file in my apps private storage](https://www.reddit.com/r/androiddev/comments/13rooxw/profileinstalled_file_in_my_apps_private_storage/)
-- [My First Personal Project: Tic Tac Toe App! 🎉](https://www.reddit.com/r/androiddev/comments/13rlrig/my_first_personal_project_tic_tac_toe_app/)
-- [is kotlin lazy a singleton?](https://www.reddit.com/r/androiddev/comments/13rlju1/is_kotlin_lazy_a_singleton/)
-- [Need advice for storing and saving images. What are your best practices?](https://www.reddit.com/r/androiddev/comments/13rkpq8/need_advice_for_storing_and_saving_images_what/)
+- [[Firebase - RTD] What does it mean when a class object written default to elements like &quot;a,b,c,d&quot; etc?](https://www.reddit.com/r/androiddev/comments/13sslhx/firebase_rtd_what_does_it_mean_when_a_class/)
+- [How do I get Github Copilot to work in Android Studio?](https://www.reddit.com/r/androiddev/comments/13srkk6/how_do_i_get_github_copilot_to_work_in_android/)
+- [How do you market your apps?](https://www.reddit.com/r/androiddev/comments/13sqc77/how_do_you_market_your_apps/)
+- [Breaking Barriers: droidcon San Francisco Paves the Way for Women in Tech](https://www.reddit.com/r/androiddev/comments/13snkzw/breaking_barriers_droidcon_san_francisco_paves/)
+- [A shot in the dark hopefully someone can help!](https://www.reddit.com/r/androiddev/comments/13sm9j1/a_shot_in_the_dark_hopefully_someone_can_help/)
+- [Can I develop this as an app or widget?](https://www.reddit.com/r/androiddev/comments/13sk2ut/can_i_develop_this_as_an_app_or_widget/)
+- [Handling core app logic irrespective of its UI](https://www.reddit.com/r/androiddev/comments/13sj8ok/handling_core_app_logic_irrespective_of_its_ui/)
+- [Latest version of the One Signal SDK was breaking WorkManager jobs for my app](https://www.reddit.com/r/androiddev/comments/13sj0qe/latest_version_of_the_one_signal_sdk_was_breaking/)
+- [Duplicate Class Error while using android.lifecycle version 2.6.1](https://www.reddit.com/r/androiddev/comments/13sikck/duplicate_class_error_while_using/)
+- [Finally Achieved 0% Crash Rate](https://www.reddit.com/r/androiddev/comments/13shh84/finally_achieved_0_crash_rate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
