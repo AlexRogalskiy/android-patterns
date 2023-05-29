@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [flamingo for twitter resurrecting project](https://www.reddit.com/r/androiddev/comments/13titiu/flamingo_for_twitter_resurrecting_project/)
-- [How to implement IOS like animations in Android?](https://www.reddit.com/r/androiddev/comments/13tils6/how_to_implement_ios_like_animations_in_android/)
-- [Android YouTube app glitch, anyone else have this problem?](https://www.reddit.com/r/androiddev/comments/13telqe/android_youtube_app_glitch_anyone_else_have_this/)
-- [[Question]: Google Map Object as a Container](https://www.reddit.com/r/androiddev/comments/13tbv4e/question_google_map_object_as_a_container/)
-- [Free Open-source messaging solution](https://www.reddit.com/r/androiddev/comments/13t6c92/free_opensource_messaging_solution/)
-- [Dragging a composable out of the parent in jetpack compose.](https://www.reddit.com/r/androiddev/comments/13t18bm/dragging_a_composable_out_of_the_parent_in/)
-- [Sites for app development](https://www.reddit.com/r/androiddev/comments/13t0d6w/sites_for_app_development/)
-- [[Firebase - RTD] What does it mean when a class object written default to elements like &quot;a,b,c,d&quot; etc?](https://www.reddit.com/r/androiddev/comments/13sslhx/firebase_rtd_what_does_it_mean_when_a_class/)
-- [How do I get Github Copilot to work in Android Studio?](https://www.reddit.com/r/androiddev/comments/13srkk6/how_do_i_get_github_copilot_to_work_in_android/)
-- [How do you market your apps?](https://www.reddit.com/r/androiddev/comments/13sqc77/how_do_you_market_your_apps/)
+- [Limitations with apps using Google Drive for backups](https://www.reddit.com/r/androiddev/comments/13uhsrf/limitations_with_apps_using_google_drive_for/)
+- [Play Store restrictions on disabling battery optimizations for continuous location tracking](https://www.reddit.com/r/androiddev/comments/13ufhci/play_store_restrictions_on_disabling_battery/)
+- [Firebase notification only visible in statusbar](https://www.reddit.com/r/androiddev/comments/13udxo8/firebase_notification_only_visible_in_statusbar/)
+- [How to stop app restarting after keeping it background for a long time?](https://www.reddit.com/r/androiddev/comments/13u8nt5/how_to_stop_app_restarting_after_keeping_it/)
+- [Any app to show deleted Instagram messages?](https://www.reddit.com/r/androiddev/comments/13u8ifd/any_app_to_show_deleted_instagram_messages/)
+- [[Question] GDPR compliance for mobile apps](https://www.reddit.com/r/androiddev/comments/13u89w3/question_gdpr_compliance_for_mobile_apps/)
+- [Having trouble verifying signature when building with github action](https://www.reddit.com/r/androiddev/comments/13u45za/having_trouble_verifying_signature_when_building/)
+- [Try IOS app](https://www.reddit.com/r/androiddev/comments/13u328a/try_ios_app/)
+- [Does android-youtubeExtractor still work?](https://www.reddit.com/r/androiddev/comments/13u2mcw/does_androidyoutubeextractor_still_work/)
+- [Webview not loading fresh content of the website, how do we resolve this?](https://www.reddit.com/r/androiddev/comments/13u2f5u/webview_not_loading_fresh_content_of_the_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
