@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Limitations with apps using Google Drive for backups](https://www.reddit.com/r/androiddev/comments/13uhsrf/limitations_with_apps_using_google_drive_for/)
-- [Play Store restrictions on disabling battery optimizations for continuous location tracking](https://www.reddit.com/r/androiddev/comments/13ufhci/play_store_restrictions_on_disabling_battery/)
-- [Firebase notification only visible in statusbar](https://www.reddit.com/r/androiddev/comments/13udxo8/firebase_notification_only_visible_in_statusbar/)
-- [How to stop app restarting after keeping it background for a long time?](https://www.reddit.com/r/androiddev/comments/13u8nt5/how_to_stop_app_restarting_after_keeping_it/)
-- [Any app to show deleted Instagram messages?](https://www.reddit.com/r/androiddev/comments/13u8ifd/any_app_to_show_deleted_instagram_messages/)
-- [[Question] GDPR compliance for mobile apps](https://www.reddit.com/r/androiddev/comments/13u89w3/question_gdpr_compliance_for_mobile_apps/)
-- [Having trouble verifying signature when building with github action](https://www.reddit.com/r/androiddev/comments/13u45za/having_trouble_verifying_signature_when_building/)
-- [Try IOS app](https://www.reddit.com/r/androiddev/comments/13u328a/try_ios_app/)
-- [Does android-youtubeExtractor still work?](https://www.reddit.com/r/androiddev/comments/13u2mcw/does_androidyoutubeextractor_still_work/)
-- [Webview not loading fresh content of the website, how do we resolve this?](https://www.reddit.com/r/androiddev/comments/13u2f5u/webview_not_loading_fresh_content_of_the_website/)
+- [Google account suspended three days after creation](https://www.reddit.com/r/androiddev/comments/13v9rd2/google_account_suspended_three_days_after_creation/)
+- [Why does this happen to my LazyColumn when deleting records?](https://www.reddit.com/r/androiddev/comments/13v9685/why_does_this_happen_to_my_lazycolumn_when/)
+- [i have a composable function that takes a remember function ..remember | Composable |Instance](https://www.reddit.com/r/androiddev/comments/13v2uqo/i_have_a_composable_function_that_takes_a/)
+- [Fragment navigation in MVVM architecture](https://www.reddit.com/r/androiddev/comments/13uzk8b/fragment_navigation_in_mvvm_architecture/)
+- [Is it reasonable for an android developer to be on-call for backend services?](https://www.reddit.com/r/androiddev/comments/13ux82n/is_it_reasonable_for_an_android_developer_to_be/)
+- [ADB &amp; Wifi debugging is inconsistent &amp; logcat is slow to initialize](https://www.reddit.com/r/androiddev/comments/13ux5n2/adb_wifi_debugging_is_inconsistent_logcat_is_slow/)
+- [Can I publish an app which requires root, on Play Store?](https://www.reddit.com/r/androiddev/comments/13uwpk2/can_i_publish_an_app_which_requires_root_on_play/)
+- [App got suspended. Am I missing something or are suspensions getting worse?](https://www.reddit.com/r/androiddev/comments/13uvkwk/app_got_suspended_am_i_missing_something_or_are/)
+- [An app doing $500/month in revenue, $375 of it is pure profit, would you sell it for $6k?](https://www.reddit.com/r/androiddev/comments/13uv9ds/an_app_doing_500month_in_revenue_375_of_it_is/)
+- [Debugging](https://www.reddit.com/r/androiddev/comments/13uuauy/debugging/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
