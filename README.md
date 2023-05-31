@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google account suspended three days after creation](https://www.reddit.com/r/androiddev/comments/13v9rd2/google_account_suspended_three_days_after_creation/)
-- [Why does this happen to my LazyColumn when deleting records?](https://www.reddit.com/r/androiddev/comments/13v9685/why_does_this_happen_to_my_lazycolumn_when/)
-- [i have a composable function that takes a remember function ..remember | Composable |Instance](https://www.reddit.com/r/androiddev/comments/13v2uqo/i_have_a_composable_function_that_takes_a/)
-- [Fragment navigation in MVVM architecture](https://www.reddit.com/r/androiddev/comments/13uzk8b/fragment_navigation_in_mvvm_architecture/)
-- [Is it reasonable for an android developer to be on-call for backend services?](https://www.reddit.com/r/androiddev/comments/13ux82n/is_it_reasonable_for_an_android_developer_to_be/)
-- [ADB &amp; Wifi debugging is inconsistent &amp; logcat is slow to initialize](https://www.reddit.com/r/androiddev/comments/13ux5n2/adb_wifi_debugging_is_inconsistent_logcat_is_slow/)
-- [Can I publish an app which requires root, on Play Store?](https://www.reddit.com/r/androiddev/comments/13uwpk2/can_i_publish_an_app_which_requires_root_on_play/)
-- [App got suspended. Am I missing something or are suspensions getting worse?](https://www.reddit.com/r/androiddev/comments/13uvkwk/app_got_suspended_am_i_missing_something_or_are/)
-- [An app doing $500/month in revenue, $375 of it is pure profit, would you sell it for $6k?](https://www.reddit.com/r/androiddev/comments/13uv9ds/an_app_doing_500month_in_revenue_375_of_it_is/)
-- [Debugging](https://www.reddit.com/r/androiddev/comments/13uuauy/debugging/)
+- [How to return an Int type with DataStore](https://www.reddit.com/r/androiddev/comments/13w98ig/how_to_return_an_int_type_with_datastore/)
+- [suggest a library or resources for android and arduino communication](https://www.reddit.com/r/androiddev/comments/13w4hub/suggest_a_library_or_resources_for_android_and/)
+- [Do I still need caching for my offline gallery app.](https://www.reddit.com/r/androiddev/comments/13w250g/do_i_still_need_caching_for_my_offline_gallery_app/)
+- [Android Studio Hedgehog Canary 6 now available](https://www.reddit.com/r/androiddev/comments/13w1wu7/android_studio_hedgehog_canary_6_now_available/)
+- [Cannot make sense on where to initially to launch coroutines.](https://www.reddit.com/r/androiddev/comments/13w0le7/cannot_make_sense_on_where_to_initially_to_launch/)
+- [I need to build an android app to graduate from college &lpar;advices?&rpar;](https://www.reddit.com/r/androiddev/comments/13w0blt/i_need_to_build_an_android_app_to_graduate_from/)
+- [Customizable calendar for Jetpack Compose with option to add app specific dates etc.](https://www.reddit.com/r/androiddev/comments/13w0039/customizable_calendar_for_jetpack_compose_with/)
+- [Studio Bot slash commands vs. hotkeys](https://www.reddit.com/r/androiddev/comments/13vzjvk/studio_bot_slash_commands_vs_hotkeys/)
+- [Dynamic Links Deprecated, feasible Opensource alternatives?](https://www.reddit.com/r/androiddev/comments/13vyza8/dynamic_links_deprecated_feasible_opensource/)
+- [How to connect directly to the ADB daemon via an Android](https://www.reddit.com/r/androiddev/comments/13vytx8/how_to_connect_directly_to_the_adb_daemon_via_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
