@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to return an Int type with DataStore](https://www.reddit.com/r/androiddev/comments/13w98ig/how_to_return_an_int_type_with_datastore/)
-- [suggest a library or resources for android and arduino communication](https://www.reddit.com/r/androiddev/comments/13w4hub/suggest_a_library_or_resources_for_android_and/)
-- [Do I still need caching for my offline gallery app.](https://www.reddit.com/r/androiddev/comments/13w250g/do_i_still_need_caching_for_my_offline_gallery_app/)
-- [Android Studio Hedgehog Canary 6 now available](https://www.reddit.com/r/androiddev/comments/13w1wu7/android_studio_hedgehog_canary_6_now_available/)
-- [Cannot make sense on where to initially to launch coroutines.](https://www.reddit.com/r/androiddev/comments/13w0le7/cannot_make_sense_on_where_to_initially_to_launch/)
-- [I need to build an android app to graduate from college &lpar;advices?&rpar;](https://www.reddit.com/r/androiddev/comments/13w0blt/i_need_to_build_an_android_app_to_graduate_from/)
-- [Customizable calendar for Jetpack Compose with option to add app specific dates etc.](https://www.reddit.com/r/androiddev/comments/13w0039/customizable_calendar_for_jetpack_compose_with/)
-- [Studio Bot slash commands vs. hotkeys](https://www.reddit.com/r/androiddev/comments/13vzjvk/studio_bot_slash_commands_vs_hotkeys/)
-- [Dynamic Links Deprecated, feasible Opensource alternatives?](https://www.reddit.com/r/androiddev/comments/13vyza8/dynamic_links_deprecated_feasible_opensource/)
-- [How to connect directly to the ADB daemon via an Android](https://www.reddit.com/r/androiddev/comments/13vytx8/how_to_connect_directly_to_the_adb_daemon_via_an/)
+- [Android Collapsible Navigation Drawer](https://www.reddit.com/r/androiddev/comments/13x5w0y/android_collapsible_navigation_drawer/)
+- [How to enable device owner without ADB &quot;set-active-admin&quot;?](https://www.reddit.com/r/androiddev/comments/13x39z8/how_to_enable_device_owner_without_adb/)
+- [Which mediation platforms do you use and any comparison in term of Rev, eCPM, ANR/Crash%?](https://www.reddit.com/r/androiddev/comments/13x2r20/which_mediation_platforms_do_you_use_and_any/)
+- [Contractor rates, difference eastern vs western europe?](https://www.reddit.com/r/androiddev/comments/13wyeop/contractor_rates_difference_eastern_vs_western/)
+- [How to put images retrieved from Firebase on a map in Android](https://www.reddit.com/r/androiddev/comments/13wy45n/how_to_put_images_retrieved_from_firebase_on_a/)
+- [Macrodroid can&#39;t stop services that run under the app &lpar;without UI Interaction&rpar;?](https://www.reddit.com/r/androiddev/comments/13wx6sh/macrodroid_cant_stop_services_that_run_under_the/)
+- [Can you flash Android to a Zebra MC5 Scanner?](https://www.reddit.com/r/androiddev/comments/13wvkb5/can_you_flash_android_to_a_zebra_mc5_scanner/)
+- [Would you recommend the DroidCon Berlin to professional Android developers who haven&#39;t gone to any Android meetup before?](https://www.reddit.com/r/androiddev/comments/13wvg68/would_you_recommend_the_droidcon_berlin_to/)
+- [How to stop application when using handler and runnable loop too fast? the application is not stopping.](https://www.reddit.com/r/androiddev/comments/13wvbrr/how_to_stop_application_when_using_handler_and/)
+- [paparazzi 1.3.0 released](https://www.reddit.com/r/androiddev/comments/13wu7tv/paparazzi_130_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
