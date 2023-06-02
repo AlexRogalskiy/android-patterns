@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Collapsible Navigation Drawer](https://www.reddit.com/r/androiddev/comments/13x5w0y/android_collapsible_navigation_drawer/)
-- [How to enable device owner without ADB &quot;set-active-admin&quot;?](https://www.reddit.com/r/androiddev/comments/13x39z8/how_to_enable_device_owner_without_adb/)
-- [Which mediation platforms do you use and any comparison in term of Rev, eCPM, ANR/Crash%?](https://www.reddit.com/r/androiddev/comments/13x2r20/which_mediation_platforms_do_you_use_and_any/)
-- [Contractor rates, difference eastern vs western europe?](https://www.reddit.com/r/androiddev/comments/13wyeop/contractor_rates_difference_eastern_vs_western/)
-- [How to put images retrieved from Firebase on a map in Android](https://www.reddit.com/r/androiddev/comments/13wy45n/how_to_put_images_retrieved_from_firebase_on_a/)
-- [Macrodroid can&#39;t stop services that run under the app &lpar;without UI Interaction&rpar;?](https://www.reddit.com/r/androiddev/comments/13wx6sh/macrodroid_cant_stop_services_that_run_under_the/)
-- [Can you flash Android to a Zebra MC5 Scanner?](https://www.reddit.com/r/androiddev/comments/13wvkb5/can_you_flash_android_to_a_zebra_mc5_scanner/)
-- [Would you recommend the DroidCon Berlin to professional Android developers who haven&#39;t gone to any Android meetup before?](https://www.reddit.com/r/androiddev/comments/13wvg68/would_you_recommend_the_droidcon_berlin_to/)
-- [How to stop application when using handler and runnable loop too fast? the application is not stopping.](https://www.reddit.com/r/androiddev/comments/13wvbrr/how_to_stop_application_when_using_handler_and/)
-- [paparazzi 1.3.0 released](https://www.reddit.com/r/androiddev/comments/13wu7tv/paparazzi_130_released/)
+- [ADB is totally damaged](https://www.reddit.com/r/androiddev/comments/13xznbf/adb_is_totally_damaged/)
+- [Very confused with jetpack compose](https://www.reddit.com/r/androiddev/comments/13xzbus/very_confused_with_jetpack_compose/)
+- [How to avoid onClick callback being triggered multiple times Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/13xyei9/how_to_avoid_onclick_callback_being_triggered/)
+- [A possible loophole for Reddit&#39;s upcoming API changes](https://www.reddit.com/r/androiddev/comments/13xw9gt/a_possible_loophole_for_reddits_upcoming_api/)
+- [Generate really cool captions for your photos in seconds using this GPT powered app](https://www.reddit.com/r/androiddev/comments/13xvisn/generate_really_cool_captions_for_your_photos_in/)
+- [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems on Android or backend services.](https://www.reddit.com/r/androiddev/comments/13xuoh4/github_kryptokronakryptokronakotlinsdk/)
+- [KMM with Compose and SwiftUI](https://www.reddit.com/r/androiddev/comments/13xrski/kmm_with_compose_and_swiftui/)
+- [Expand notification](https://www.reddit.com/r/androiddev/comments/13xr201/expand_notification/)
+- [About to release new app that i&#39;ve worked on for 2.5 years. Scaried of developer account termination.](https://www.reddit.com/r/androiddev/comments/13xq5f9/about_to_release_new_app_that_ive_worked_on_for/)
+- [Any clever way to obfuscate a TextView?](https://www.reddit.com/r/androiddev/comments/13xoolr/any_clever_way_to_obfuscate_a_textview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
