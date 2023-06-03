@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ADB is totally damaged](https://www.reddit.com/r/androiddev/comments/13xznbf/adb_is_totally_damaged/)
-- [Very confused with jetpack compose](https://www.reddit.com/r/androiddev/comments/13xzbus/very_confused_with_jetpack_compose/)
-- [How to avoid onClick callback being triggered multiple times Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/13xyei9/how_to_avoid_onclick_callback_being_triggered/)
-- [A possible loophole for Reddit&#39;s upcoming API changes](https://www.reddit.com/r/androiddev/comments/13xw9gt/a_possible_loophole_for_reddits_upcoming_api/)
-- [Generate really cool captions for your photos in seconds using this GPT powered app](https://www.reddit.com/r/androiddev/comments/13xvisn/generate_really_cool_captions_for_your_photos_in/)
-- [GitHub - kryptokrona/kryptokrona-kotlin-sdk: Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems on Android or backend services.](https://www.reddit.com/r/androiddev/comments/13xuoh4/github_kryptokronakryptokronakotlinsdk/)
-- [KMM with Compose and SwiftUI](https://www.reddit.com/r/androiddev/comments/13xrski/kmm_with_compose_and_swiftui/)
-- [Expand notification](https://www.reddit.com/r/androiddev/comments/13xr201/expand_notification/)
-- [About to release new app that i&#39;ve worked on for 2.5 years. Scaried of developer account termination.](https://www.reddit.com/r/androiddev/comments/13xq5f9/about_to_release_new_app_that_ive_worked_on_for/)
-- [Any clever way to obfuscate a TextView?](https://www.reddit.com/r/androiddev/comments/13xoolr/any_clever_way_to_obfuscate_a_textview/)
+- [How can I safely reset a work computer &lpar;Dell Latitude&rpar; in order to use as my personal computer. I want to duel boot Linux, mostly to use adb with my pixels](https://www.reddit.com/r/androiddev/comments/13ywle7/how_can_i_safely_reset_a_work_computer_dell/)
+- [Senior Android Dev interview coming up; what would be the check list to practice?](https://www.reddit.com/r/androiddev/comments/13yv1tt/senior_android_dev_interview_coming_up_what_would/)
+- [Why does my HTML string resource only work with &amp;lt;](https://www.reddit.com/r/androiddev/comments/13ytx31/why_does_my_html_string_resource_only_work_with_lt/)
+- [Apps auto downloading.](https://www.reddit.com/r/androiddev/comments/13yt7pe/apps_auto_downloading/)
+- [API cost for a traffic app?](https://www.reddit.com/r/androiddev/comments/13ysj9e/api_cost_for_a_traffic_app/)
+- [Kotlin or Python: Which is Ideal for LeetCode Practice Given an Android Development Role?](https://www.reddit.com/r/androiddev/comments/13yqwqj/kotlin_or_python_which_is_ideal_for_leetcode/)
+- [Wakelock](https://www.reddit.com/r/androiddev/comments/13yo1hc/wakelock/)
+- [Battery Guru suspended from Playstore for something that not existing](https://www.reddit.com/r/androiddev/comments/13ynmvn/battery_guru_suspended_from_playstore_for/)
+- [How can I take a photo of a specific area on the camera screen in Android using CameraX?](https://www.reddit.com/r/androiddev/comments/13ynjgt/how_can_i_take_a_photo_of_a_specific_area_on_the/)
+- [Possibility to send a local notification while app is in foreground](https://www.reddit.com/r/androiddev/comments/13ymrvm/possibility_to_send_a_local_notification_while/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
