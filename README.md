@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How can I safely reset a work computer &lpar;Dell Latitude&rpar; in order to use as my personal computer. I want to duel boot Linux, mostly to use adb with my pixels](https://www.reddit.com/r/androiddev/comments/13ywle7/how_can_i_safely_reset_a_work_computer_dell/)
-- [Senior Android Dev interview coming up; what would be the check list to practice?](https://www.reddit.com/r/androiddev/comments/13yv1tt/senior_android_dev_interview_coming_up_what_would/)
-- [Why does my HTML string resource only work with &amp;lt;](https://www.reddit.com/r/androiddev/comments/13ytx31/why_does_my_html_string_resource_only_work_with_lt/)
-- [Apps auto downloading.](https://www.reddit.com/r/androiddev/comments/13yt7pe/apps_auto_downloading/)
-- [API cost for a traffic app?](https://www.reddit.com/r/androiddev/comments/13ysj9e/api_cost_for_a_traffic_app/)
-- [Kotlin or Python: Which is Ideal for LeetCode Practice Given an Android Development Role?](https://www.reddit.com/r/androiddev/comments/13yqwqj/kotlin_or_python_which_is_ideal_for_leetcode/)
-- [Wakelock](https://www.reddit.com/r/androiddev/comments/13yo1hc/wakelock/)
-- [Battery Guru suspended from Playstore for something that not existing](https://www.reddit.com/r/androiddev/comments/13ynmvn/battery_guru_suspended_from_playstore_for/)
-- [How can I take a photo of a specific area on the camera screen in Android using CameraX?](https://www.reddit.com/r/androiddev/comments/13ynjgt/how_can_i_take_a_photo_of_a_specific_area_on_the/)
-- [Possibility to send a local notification while app is in foreground](https://www.reddit.com/r/androiddev/comments/13ymrvm/possibility_to_send_a_local_notification_while/)
+- [I&#39;m looking for someone to change knowlege and growth together](https://www.reddit.com/r/androiddev/comments/13zy6dv/im_looking_for_someone_to_change_knowlege_and/)
+- [Released my flutter app on PlayStore just now!!!! Happiness is crossing the limits of sky!](https://www.reddit.com/r/androiddev/comments/13zxgxs/released_my_flutter_app_on_playstore_just_now/)
+- [adb from iSH app can&#39;t find my device - How can I update the system variable $ADB_VENDOR_KEYS or adb_usb.ini with my vendor id to help it find it?](https://www.reddit.com/r/androiddev/comments/13zx17w/adb_from_ish_app_cant_find_my_device_how_can_i/)
+- [Text messages that automatically download](https://www.reddit.com/r/androiddev/comments/13zwbn3/text_messages_that_automatically_download/)
+- [Don&#39;t Let Reddit Kill 3rd Party Apps!](https://www.reddit.com/r/androiddev/comments/13zuz9q/dont_let_reddit_kill_3rd_party_apps/)
+- [How to hook into Live Wallpaper for Android Settings?](https://www.reddit.com/r/androiddev/comments/13zuywc/how_to_hook_into_live_wallpaper_for_android/)
+- [is it worth to advertise an free app?](https://www.reddit.com/r/androiddev/comments/13zo3tc/is_it_worth_to_advertise_an_free_app/)
+- [Anti Lucky Patcher](https://www.reddit.com/r/androiddev/comments/13zm5l3/anti_lucky_patcher/)
+- [Is it better to use a single Scaffold or multiple Scaffolds on each screen?](https://www.reddit.com/r/androiddev/comments/13zkrhh/is_it_better_to_use_a_single_scaffold_or_multiple/)
+- [Seeking insights from developers - stop business owners learning app development the hard way](https://www.reddit.com/r/androiddev/comments/13zkbp5/seeking_insights_from_developers_stop_business/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
