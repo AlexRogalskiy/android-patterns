@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Am i safe by sticking with Java and XML for years ahead ?](https://www.reddit.com/r/androiddev/comments/140ou2z/am_i_safe_by_sticking_with_java_and_xml_for_years/)
-- [What failures can I avoid?](https://www.reddit.com/r/androiddev/comments/140n4gt/what_failures_can_i_avoid/)
-- [Where are saved GPS locations saved on my Mac? &lpar;Android Studio&rpar;](https://www.reddit.com/r/androiddev/comments/140kccb/where_are_saved_gps_locations_saved_on_my_mac/)
-- [Java vs Kotlin 2023?](https://www.reddit.com/r/androiddev/comments/140incl/java_vs_kotlin_2023/)
-- [cannot create a dev account, help?](https://www.reddit.com/r/androiddev/comments/140evpc/cannot_create_a_dev_account_help/)
-- [How can I implement this function in the viewModel so that I can display it in a text composable.](https://www.reddit.com/r/androiddev/comments/140eqk1/how_can_i_implement_this_function_in_the/)
-- [how to change language from kotlin to java in updated new android studio ?](https://www.reddit.com/r/androiddev/comments/140dsyq/how_to_change_language_from_kotlin_to_java_in/)
-- [Looking for an Android framework for dynamic form creation based on JSON schema](https://www.reddit.com/r/androiddev/comments/1409b5y/looking_for_an_android_framework_for_dynamic_form/)
-- [Delete photos from WhatsApp backup](https://www.reddit.com/r/androiddev/comments/1406zxz/delete_photos_from_whatsapp_backup/)
-- [Old Android Binaries](https://www.reddit.com/r/androiddev/comments/1406tek/old_android_binaries/)
+- [How to secure an app that only wants to communicate with the original version of itself?](https://www.reddit.com/r/androiddev/comments/141zslv/how_to_secure_an_app_that_only_wants_to/)
+- [In Jetpack Compose, which is better practice, saving the state in the viewModel or creating a remember class?](https://www.reddit.com/r/androiddev/comments/141ujjm/in_jetpack_compose_which_is_better_practice/)
+- [Can user opt out sending crash reports to google?](https://www.reddit.com/r/androiddev/comments/141s6ee/can_user_opt_out_sending_crash_reports_to_google/)
+- [Any active android development related discord servers that are helpful in learning and interacting with other devs?](https://www.reddit.com/r/androiddev/comments/141qgpe/any_active_android_development_related_discord/)
+- [Monetizing an app](https://www.reddit.com/r/androiddev/comments/141o2hv/monetizing_an_app/)
+- [I don&#39;t know which way to go Jetpack Compose or View? I started learning views made a few basic apps but now I hear that companies still prefer views and I&#39;m confused which way to go](https://www.reddit.com/r/androiddev/comments/141nvjz/i_dont_know_which_way_to_go_jetpack_compose_or/)
+- [How to convert figma to android application without using android studio?](https://www.reddit.com/r/androiddev/comments/141nd9q/how_to_convert_figma_to_android_application/)
+- [Google play services EAT Battery?!](https://www.reddit.com/r/androiddev/comments/141lf6o/google_play_services_eat_battery/)
+- [Kotlin Delegation MutableState](https://www.reddit.com/r/androiddev/comments/141ih0l/kotlin_delegation_mutablestate/)
+- [I don&#39;t understand one thing about the state in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/141i5gk/i_dont_understand_one_thing_about_the_state_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
