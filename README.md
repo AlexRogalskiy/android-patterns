@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to secure an app that only wants to communicate with the original version of itself?](https://www.reddit.com/r/androiddev/comments/141zslv/how_to_secure_an_app_that_only_wants_to/)
-- [In Jetpack Compose, which is better practice, saving the state in the viewModel or creating a remember class?](https://www.reddit.com/r/androiddev/comments/141ujjm/in_jetpack_compose_which_is_better_practice/)
-- [Can user opt out sending crash reports to google?](https://www.reddit.com/r/androiddev/comments/141s6ee/can_user_opt_out_sending_crash_reports_to_google/)
-- [Any active android development related discord servers that are helpful in learning and interacting with other devs?](https://www.reddit.com/r/androiddev/comments/141qgpe/any_active_android_development_related_discord/)
-- [Monetizing an app](https://www.reddit.com/r/androiddev/comments/141o2hv/monetizing_an_app/)
-- [I don&#39;t know which way to go Jetpack Compose or View? I started learning views made a few basic apps but now I hear that companies still prefer views and I&#39;m confused which way to go](https://www.reddit.com/r/androiddev/comments/141nvjz/i_dont_know_which_way_to_go_jetpack_compose_or/)
-- [How to convert figma to android application without using android studio?](https://www.reddit.com/r/androiddev/comments/141nd9q/how_to_convert_figma_to_android_application/)
-- [Google play services EAT Battery?!](https://www.reddit.com/r/androiddev/comments/141lf6o/google_play_services_eat_battery/)
-- [Kotlin Delegation MutableState](https://www.reddit.com/r/androiddev/comments/141ih0l/kotlin_delegation_mutablestate/)
-- [I don&#39;t understand one thing about the state in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/141i5gk/i_dont_understand_one_thing_about_the_state_in/)
+- [I think my Galaxy S22 Ultra has been compromised...](https://www.reddit.com/r/androiddev/comments/142z3ma/i_think_my_galaxy_s22_ultra_has_been_compromised/)
+- [Help with applying to Android Jobs: Tips for CV, Cover Letter and Motivation Questions](https://www.reddit.com/r/androiddev/comments/142sg0o/help_with_applying_to_android_jobs_tips_for_cv/)
+- [Any cloud ide with android emulator feature?](https://www.reddit.com/r/androiddev/comments/142px2i/any_cloud_ide_with_android_emulator_feature/)
+- [Do you use OkHttp with custom maxRequestsPerHost or maxIdleConnections?](https://www.reddit.com/r/androiddev/comments/142plzq/do_you_use_okhttp_with_custom_maxrequestsperhost/)
+- [Are there places I can have my code reviewed?](https://www.reddit.com/r/androiddev/comments/142phq6/are_there_places_i_can_have_my_code_reviewed/)
+- [How to deal with BS-detector interviewers despite misinterpretations ?](https://www.reddit.com/r/androiddev/comments/142mzqq/how_to_deal_with_bsdetector_interviewers_despite/)
+- [Can i modify apk on my phone](https://www.reddit.com/r/androiddev/comments/142ie3d/can_i_modify_apk_on_my_phone/)
+- [What can be the maximum amount for IAP can be set](https://www.reddit.com/r/androiddev/comments/142eu02/what_can_be_the_maximum_amount_for_iap_can_be_set/)
+- [Convert Your Existing Android or iOS App to Flutter?](https://www.reddit.com/r/androiddev/comments/142ecci/convert_your_existing_android_or_ios_app_to/)
+- [Paid App Policy Compliance Check Service](https://www.reddit.com/r/androiddev/comments/142dz5z/paid_app_policy_compliance_check_service/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
