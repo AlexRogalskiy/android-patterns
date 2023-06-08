@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I think my Galaxy S22 Ultra has been compromised...](https://www.reddit.com/r/androiddev/comments/142z3ma/i_think_my_galaxy_s22_ultra_has_been_compromised/)
-- [Help with applying to Android Jobs: Tips for CV, Cover Letter and Motivation Questions](https://www.reddit.com/r/androiddev/comments/142sg0o/help_with_applying_to_android_jobs_tips_for_cv/)
-- [Any cloud ide with android emulator feature?](https://www.reddit.com/r/androiddev/comments/142px2i/any_cloud_ide_with_android_emulator_feature/)
-- [Do you use OkHttp with custom maxRequestsPerHost or maxIdleConnections?](https://www.reddit.com/r/androiddev/comments/142plzq/do_you_use_okhttp_with_custom_maxrequestsperhost/)
-- [Are there places I can have my code reviewed?](https://www.reddit.com/r/androiddev/comments/142phq6/are_there_places_i_can_have_my_code_reviewed/)
-- [How to deal with BS-detector interviewers despite misinterpretations ?](https://www.reddit.com/r/androiddev/comments/142mzqq/how_to_deal_with_bsdetector_interviewers_despite/)
-- [Can i modify apk on my phone](https://www.reddit.com/r/androiddev/comments/142ie3d/can_i_modify_apk_on_my_phone/)
-- [What can be the maximum amount for IAP can be set](https://www.reddit.com/r/androiddev/comments/142eu02/what_can_be_the_maximum_amount_for_iap_can_be_set/)
-- [Convert Your Existing Android or iOS App to Flutter?](https://www.reddit.com/r/androiddev/comments/142ecci/convert_your_existing_android_or_ios_app_to/)
-- [Paid App Policy Compliance Check Service](https://www.reddit.com/r/androiddev/comments/142dz5z/paid_app_policy_compliance_check_service/)
+- [How can I make a speech bubble with xml?](https://www.reddit.com/r/androiddev/comments/143t208/how_can_i_make_a_speech_bubble_with_xml/)
+- [Once again.](https://www.reddit.com/r/androiddev/comments/143sh20/once_again/)
+- [No screenshot with biometric prompt up?](https://www.reddit.com/r/androiddev/comments/143qqjg/no_screenshot_with_biometric_prompt_up/)
+- [Multiple choice ListView, how to store the item ids?](https://www.reddit.com/r/androiddev/comments/143niqa/multiple_choice_listview_how_to_store_the_item_ids/)
+- [Need Advice - Career transition 2023](https://www.reddit.com/r/androiddev/comments/143hki9/need_advice_career_transition_2023/)
+- [On the near version of Android that we have a beta for &lpar;U - 14&rpar; , no app will be able to get the current wallpaper, no matter which permission is granted](https://www.reddit.com/r/androiddev/comments/143fvee/on_the_near_version_of_android_that_we_have_a/)
+- [Can&#39;t figure out how WhatsApp loads placeholder Views in RecylcerView and then edit them. How do you think is it done?](https://www.reddit.com/r/androiddev/comments/143fs4s/cant_figure_out_how_whatsapp_loads_placeholder/)
+- [Jetpack compose increse apk size by 5.5 Mb](https://www.reddit.com/r/androiddev/comments/143dvfh/jetpack_compose_increse_apk_size_by_55_mb/)
+- [Google retaliating against developers for class action lawsuit??](https://www.reddit.com/r/androiddev/comments/143dfev/google_retaliating_against_developers_for_class/)
+- [Different Nav Drawer for different activites](https://www.reddit.com/r/androiddev/comments/143cgxo/different_nav_drawer_for_different_activites/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
