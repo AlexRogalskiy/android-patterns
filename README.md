@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How can I make a speech bubble with xml?](https://www.reddit.com/r/androiddev/comments/143t208/how_can_i_make_a_speech_bubble_with_xml/)
-- [Once again.](https://www.reddit.com/r/androiddev/comments/143sh20/once_again/)
-- [No screenshot with biometric prompt up?](https://www.reddit.com/r/androiddev/comments/143qqjg/no_screenshot_with_biometric_prompt_up/)
-- [Multiple choice ListView, how to store the item ids?](https://www.reddit.com/r/androiddev/comments/143niqa/multiple_choice_listview_how_to_store_the_item_ids/)
-- [Need Advice - Career transition 2023](https://www.reddit.com/r/androiddev/comments/143hki9/need_advice_career_transition_2023/)
-- [On the near version of Android that we have a beta for &lpar;U - 14&rpar; , no app will be able to get the current wallpaper, no matter which permission is granted](https://www.reddit.com/r/androiddev/comments/143fvee/on_the_near_version_of_android_that_we_have_a/)
-- [Can&#39;t figure out how WhatsApp loads placeholder Views in RecylcerView and then edit them. How do you think is it done?](https://www.reddit.com/r/androiddev/comments/143fs4s/cant_figure_out_how_whatsapp_loads_placeholder/)
-- [Jetpack compose increse apk size by 5.5 Mb](https://www.reddit.com/r/androiddev/comments/143dvfh/jetpack_compose_increse_apk_size_by_55_mb/)
-- [Google retaliating against developers for class action lawsuit??](https://www.reddit.com/r/androiddev/comments/143dfev/google_retaliating_against_developers_for_class/)
-- [Different Nav Drawer for different activites](https://www.reddit.com/r/androiddev/comments/143cgxo/different_nav_drawer_for_different_activites/)
+- [Where to find logs for random shutdowns?](https://www.reddit.com/r/androiddev/comments/144qld2/where_to_find_logs_for_random_shutdowns/)
+- [I&#39;ve publish two new Applications today in google play-store and it didn&#39;t publish, apps went for google play Review,even tho my app are new?](https://www.reddit.com/r/androiddev/comments/144qha8/ive_publish_two_new_applications_today_in_google/)
+- [I&#39;m no developer but i figured it out.](https://www.reddit.com/r/androiddev/comments/144pnd3/im_no_developer_but_i_figured_it_out/)
+- [Kotlin Coroutine-Dispatcher](https://www.reddit.com/r/androiddev/comments/144p617/kotlin_coroutinedispatcher/)
+- [Android Studio Giraffe Beta 5 now available](https://www.reddit.com/r/androiddev/comments/144o0ys/android_studio_giraffe_beta_5_now_available/)
+- [Android developer intern](https://www.reddit.com/r/androiddev/comments/144n4zq/android_developer_intern/)
+- [White box when using new line inside CollapsingToolbarLayout.](https://www.reddit.com/r/androiddev/comments/144iwjw/white_box_when_using_new_line_inside/)
+- [Testing Android UNFOLDABLES and TABLETS with Roberto Orgiu](https://www.reddit.com/r/androiddev/comments/144hx6v/testing_android_unfoldables_and_tablets_with/)
+- [Is Android Development in Java still relevant &lpar;future scope&rpar; or should I switch to Kotlin or latest technologies?](https://www.reddit.com/r/androiddev/comments/144h5d4/is_android_development_in_java_still_relevant/)
+- [Reasons to migrate from Java/XML to Jetpack Compose](https://www.reddit.com/r/androiddev/comments/144fmob/reasons_to_migrate_from_javaxml_to_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
