@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where to find logs for random shutdowns?](https://www.reddit.com/r/androiddev/comments/144qld2/where_to_find_logs_for_random_shutdowns/)
-- [I&#39;ve publish two new Applications today in google play-store and it didn&#39;t publish, apps went for google play Review,even tho my app are new?](https://www.reddit.com/r/androiddev/comments/144qha8/ive_publish_two_new_applications_today_in_google/)
-- [I&#39;m no developer but i figured it out.](https://www.reddit.com/r/androiddev/comments/144pnd3/im_no_developer_but_i_figured_it_out/)
-- [Kotlin Coroutine-Dispatcher](https://www.reddit.com/r/androiddev/comments/144p617/kotlin_coroutinedispatcher/)
-- [Android Studio Giraffe Beta 5 now available](https://www.reddit.com/r/androiddev/comments/144o0ys/android_studio_giraffe_beta_5_now_available/)
-- [Android developer intern](https://www.reddit.com/r/androiddev/comments/144n4zq/android_developer_intern/)
-- [White box when using new line inside CollapsingToolbarLayout.](https://www.reddit.com/r/androiddev/comments/144iwjw/white_box_when_using_new_line_inside/)
-- [Testing Android UNFOLDABLES and TABLETS with Roberto Orgiu](https://www.reddit.com/r/androiddev/comments/144hx6v/testing_android_unfoldables_and_tablets_with/)
-- [Is Android Development in Java still relevant &lpar;future scope&rpar; or should I switch to Kotlin or latest technologies?](https://www.reddit.com/r/androiddev/comments/144h5d4/is_android_development_in_java_still_relevant/)
-- [Reasons to migrate from Java/XML to Jetpack Compose](https://www.reddit.com/r/androiddev/comments/144fmob/reasons_to_migrate_from_javaxml_to_jetpack_compose/)
+- [Sim card detected but no signals when flashed android 13 ROM](https://www.reddit.com/r/androiddev/comments/145kf6u/sim_card_detected_but_no_signals_when_flashed/)
+- [Im getting an error in Apk Crash stability from samsung SM-G98 testing in Google console in pending review of my apk?](https://www.reddit.com/r/androiddev/comments/145ipmr/im_getting_an_error_in_apk_crash_stability_from/)
+- [What&#39;s the best option for an app using data from a website?](https://www.reddit.com/r/androiddev/comments/145he3d/whats_the_best_option_for_an_app_using_data_from/)
+- [Recommended usage of ram](https://www.reddit.com/r/androiddev/comments/145br2a/recommended_usage_of_ram/)
+- [System App Update](https://www.reddit.com/r/androiddev/comments/145axcw/system_app_update/)
+- [What app permissions to add in the play store for a simple app?](https://www.reddit.com/r/androiddev/comments/145alkc/what_app_permissions_to_add_in_the_play_store_for/)
+- [Android Accessibility Servicec](https://www.reddit.com/r/androiddev/comments/145ab3o/android_accessibility_servicec/)
+- [Does anyone have any idea, on how we can implement GDPR using User Messaging Platform SDK, without severely impact income from Europe?](https://www.reddit.com/r/androiddev/comments/1459tep/does_anyone_have_any_idea_on_how_we_can_implement/)
+- [Why is room not calling RoomDatabase.Callback&lpar;&rpar;?](https://www.reddit.com/r/androiddev/comments/14592u7/why_is_room_not_calling_roomdatabasecallback/)
+- [Am I the only one who finds Jetpack Compose&#39;s Material library to be very inflexible?](https://www.reddit.com/r/androiddev/comments/1455so5/am_i_the_only_one_who_finds_jetpack_composes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
