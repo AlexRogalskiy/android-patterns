@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sim card detected but no signals when flashed android 13 ROM](https://www.reddit.com/r/androiddev/comments/145kf6u/sim_card_detected_but_no_signals_when_flashed/)
-- [Im getting an error in Apk Crash stability from samsung SM-G98 testing in Google console in pending review of my apk?](https://www.reddit.com/r/androiddev/comments/145ipmr/im_getting_an_error_in_apk_crash_stability_from/)
-- [What&#39;s the best option for an app using data from a website?](https://www.reddit.com/r/androiddev/comments/145he3d/whats_the_best_option_for_an_app_using_data_from/)
-- [Recommended usage of ram](https://www.reddit.com/r/androiddev/comments/145br2a/recommended_usage_of_ram/)
-- [System App Update](https://www.reddit.com/r/androiddev/comments/145axcw/system_app_update/)
-- [What app permissions to add in the play store for a simple app?](https://www.reddit.com/r/androiddev/comments/145alkc/what_app_permissions_to_add_in_the_play_store_for/)
-- [Android Accessibility Servicec](https://www.reddit.com/r/androiddev/comments/145ab3o/android_accessibility_servicec/)
-- [Does anyone have any idea, on how we can implement GDPR using User Messaging Platform SDK, without severely impact income from Europe?](https://www.reddit.com/r/androiddev/comments/1459tep/does_anyone_have_any_idea_on_how_we_can_implement/)
-- [Why is room not calling RoomDatabase.Callback&lpar;&rpar;?](https://www.reddit.com/r/androiddev/comments/14592u7/why_is_room_not_calling_roomdatabasecallback/)
-- [Am I the only one who finds Jetpack Compose&#39;s Material library to be very inflexible?](https://www.reddit.com/r/androiddev/comments/1455so5/am_i_the_only_one_who_finds_jetpack_composes/)
+- [Questions for individuals that conduct interviews](https://www.reddit.com/r/androiddev/comments/146hkuw/questions_for_individuals_that_conduct_interviews/)
+- [How to center a Text object in the middle of anothet Text Object](https://www.reddit.com/r/androiddev/comments/146gke6/how_to_center_a_text_object_in_the_middle_of/)
+- [All of a sudden my app doesn&#39;t pop up when deployed to my phone](https://www.reddit.com/r/androiddev/comments/146cd1y/all_of_a_sudden_my_app_doesnt_pop_up_when/)
+- [JUnit and MockK for unit testing?](https://www.reddit.com/r/androiddev/comments/146bapg/junit_and_mockk_for_unit_testing/)
+- [Faster builds on Windows 11 with Dev Drives. Has anyone tried this?](https://www.reddit.com/r/androiddev/comments/1468z8h/faster_builds_on_windows_11_with_dev_drives_has/)
+- [Best data validation practice for forms?](https://www.reddit.com/r/androiddev/comments/1467yhq/best_data_validation_practice_for_forms/)
+- [The best Android game / Albion Online / Mmorpg](https://www.reddit.com/r/androiddev/comments/145zugs/the_best_android_game_albion_online_mmorpg/)
+- [Column not taking all available space in Box &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/145xk3h/column_not_taking_all_available_space_in_box/)
+- [Google Play&#39;s moderator constantly uses wrong tests data](https://www.reddit.com/r/androiddev/comments/145vu7p/google_plays_moderator_constantly_uses_wrong/)
+- [Compose multiplatform](https://www.reddit.com/r/androiddev/comments/145v450/compose_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
