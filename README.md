@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Questions for individuals that conduct interviews](https://www.reddit.com/r/androiddev/comments/146hkuw/questions_for_individuals_that_conduct_interviews/)
-- [How to center a Text object in the middle of anothet Text Object](https://www.reddit.com/r/androiddev/comments/146gke6/how_to_center_a_text_object_in_the_middle_of/)
-- [All of a sudden my app doesn&#39;t pop up when deployed to my phone](https://www.reddit.com/r/androiddev/comments/146cd1y/all_of_a_sudden_my_app_doesnt_pop_up_when/)
-- [JUnit and MockK for unit testing?](https://www.reddit.com/r/androiddev/comments/146bapg/junit_and_mockk_for_unit_testing/)
-- [Faster builds on Windows 11 with Dev Drives. Has anyone tried this?](https://www.reddit.com/r/androiddev/comments/1468z8h/faster_builds_on_windows_11_with_dev_drives_has/)
-- [Best data validation practice for forms?](https://www.reddit.com/r/androiddev/comments/1467yhq/best_data_validation_practice_for_forms/)
-- [The best Android game / Albion Online / Mmorpg](https://www.reddit.com/r/androiddev/comments/145zugs/the_best_android_game_albion_online_mmorpg/)
-- [Column not taking all available space in Box &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/145xk3h/column_not_taking_all_available_space_in_box/)
-- [Google Play&#39;s moderator constantly uses wrong tests data](https://www.reddit.com/r/androiddev/comments/145vu7p/google_plays_moderator_constantly_uses_wrong/)
-- [Compose multiplatform](https://www.reddit.com/r/androiddev/comments/145v450/compose_multiplatform/)
+- [Does jetpack compose navigation replaces concept of fregments?](https://www.reddit.com/r/androiddev/comments/147c0mt/does_jetpack_compose_navigation_replaces_concept/)
+- [Bye Reddit! Remember to delete your posts before deleting your account!](https://www.reddit.com/r/androiddev/comments/147a1h4/bye_reddit_remember_to_delete_your_posts_before/)
+- [Why does the Play Store require 16:9 screenshots to be eligible for promotion?](https://www.reddit.com/r/androiddev/comments/1476ogk/why_does_the_play_store_require_169_screenshots/)
+- [What is simplest way to create macro apps for Android?](https://www.reddit.com/r/androiddev/comments/14741sp/what_is_simplest_way_to_create_macro_apps_for/)
+- [I hate UI development on Android](https://www.reddit.com/r/androiddev/comments/1472bzl/i_hate_ui_development_on_android/)
+- [Can alternative reddit apps use the original app API in seamless way?](https://www.reddit.com/r/androiddev/comments/146tdvf/can_alternative_reddit_apps_use_the_original_app/)
+- [To send changes for review, complete steps? I navigate to dashboard and I don’t have any steps to fill up, I’ve done all, and still i can’t be able to send my new paid-app for review?](https://www.reddit.com/r/androiddev/comments/146qamr/to_send_changes_for_review_complete_steps_i/)
+- [Notification set sound not working at all](https://www.reddit.com/r/androiddev/comments/146mtg9/notification_set_sound_not_working_at_all/)
+- [PlayBadges - Now in card form - readme badge service for Play store apps](https://www.reddit.com/r/androiddev/comments/146mqay/playbadges_now_in_card_form_readme_badge_service/)
+- [Suggestions for refining my project idea](https://www.reddit.com/r/androiddev/comments/146kmba/suggestions_for_refining_my_project_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
