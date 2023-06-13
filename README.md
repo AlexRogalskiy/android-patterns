@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does jetpack compose navigation replaces concept of fregments?](https://www.reddit.com/r/androiddev/comments/147c0mt/does_jetpack_compose_navigation_replaces_concept/)
-- [Bye Reddit! Remember to delete your posts before deleting your account!](https://www.reddit.com/r/androiddev/comments/147a1h4/bye_reddit_remember_to_delete_your_posts_before/)
-- [Why does the Play Store require 16:9 screenshots to be eligible for promotion?](https://www.reddit.com/r/androiddev/comments/1476ogk/why_does_the_play_store_require_169_screenshots/)
-- [What is simplest way to create macro apps for Android?](https://www.reddit.com/r/androiddev/comments/14741sp/what_is_simplest_way_to_create_macro_apps_for/)
-- [I hate UI development on Android](https://www.reddit.com/r/androiddev/comments/1472bzl/i_hate_ui_development_on_android/)
-- [Can alternative reddit apps use the original app API in seamless way?](https://www.reddit.com/r/androiddev/comments/146tdvf/can_alternative_reddit_apps_use_the_original_app/)
-- [To send changes for review, complete steps? I navigate to dashboard and I don’t have any steps to fill up, I’ve done all, and still i can’t be able to send my new paid-app for review?](https://www.reddit.com/r/androiddev/comments/146qamr/to_send_changes_for_review_complete_steps_i/)
-- [Notification set sound not working at all](https://www.reddit.com/r/androiddev/comments/146mtg9/notification_set_sound_not_working_at_all/)
-- [PlayBadges - Now in card form - readme badge service for Play store apps](https://www.reddit.com/r/androiddev/comments/146mqay/playbadges_now_in_card_form_readme_badge_service/)
-- [Suggestions for refining my project idea](https://www.reddit.com/r/androiddev/comments/146kmba/suggestions_for_refining_my_project_idea/)
+- [What do I research to do automation like this, opening apps, scrolling, clicking, etc etc? Does it require rooted phone?](https://www.reddit.com/r/androiddev/comments/1482qsc/what_do_i_research_to_do_automation_like_this/)
+- [When to update Baseline Profile](https://www.reddit.com/r/androiddev/comments/1481jhl/when_to_update_baseline_profile/)
+- [How to Overcome FOMO as a Software Developer?](https://www.reddit.com/r/androiddev/comments/14805b2/how_to_overcome_fomo_as_a_software_developer/)
+- [I just got this message from Google Play console &lpar;“ Your recent app updates have been published Users should see these changes immediately, but this can occasionally take longer “&rpar; and is not in review anymore ? what does it mean ?](https://www.reddit.com/r/androiddev/comments/147zvec/i_just_got_this_message_from_google_play_console/)
+- [What is &quot;FIPS BoringSSL v1.4, FIPS SKC v2.1, and FIPS SCrypto v2.5&quot; on samsung phones?](https://www.reddit.com/r/androiddev/comments/147zuzi/what_is_fips_boringssl_v14_fips_skc_v21_and_fips/)
+- [Is it worth becoming an Android developer in 2023?](https://www.reddit.com/r/androiddev/comments/147y0lk/is_it_worth_becoming_an_android_developer_in_2023/)
+- [Where can I learn Android Development?](https://www.reddit.com/r/androiddev/comments/147w1lx/where_can_i_learn_android_development/)
+- [What application you use for monitoring in/outgoing data on device?](https://www.reddit.com/r/androiddev/comments/147vlug/what_application_you_use_for_monitoring/)
+- [Applying Kotlin Structured concurrency: Part IV — Coroutines Cancellation](https://www.reddit.com/r/androiddev/comments/147to0k/applying_kotlin_structured_concurrency_part_iv/)
+- [Can I use apksigner to sign .aab ?](https://www.reddit.com/r/androiddev/comments/147sjdl/can_i_use_apksigner_to_sign_aab/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
