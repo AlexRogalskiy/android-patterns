@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What do I research to do automation like this, opening apps, scrolling, clicking, etc etc? Does it require rooted phone?](https://www.reddit.com/r/androiddev/comments/1482qsc/what_do_i_research_to_do_automation_like_this/)
-- [When to update Baseline Profile](https://www.reddit.com/r/androiddev/comments/1481jhl/when_to_update_baseline_profile/)
-- [How to Overcome FOMO as a Software Developer?](https://www.reddit.com/r/androiddev/comments/14805b2/how_to_overcome_fomo_as_a_software_developer/)
-- [I just got this message from Google Play console &lpar;“ Your recent app updates have been published Users should see these changes immediately, but this can occasionally take longer “&rpar; and is not in review anymore ? what does it mean ?](https://www.reddit.com/r/androiddev/comments/147zvec/i_just_got_this_message_from_google_play_console/)
-- [What is &quot;FIPS BoringSSL v1.4, FIPS SKC v2.1, and FIPS SCrypto v2.5&quot; on samsung phones?](https://www.reddit.com/r/androiddev/comments/147zuzi/what_is_fips_boringssl_v14_fips_skc_v21_and_fips/)
-- [Is it worth becoming an Android developer in 2023?](https://www.reddit.com/r/androiddev/comments/147y0lk/is_it_worth_becoming_an_android_developer_in_2023/)
-- [Where can I learn Android Development?](https://www.reddit.com/r/androiddev/comments/147w1lx/where_can_i_learn_android_development/)
-- [What application you use for monitoring in/outgoing data on device?](https://www.reddit.com/r/androiddev/comments/147vlug/what_application_you_use_for_monitoring/)
-- [Applying Kotlin Structured concurrency: Part IV — Coroutines Cancellation](https://www.reddit.com/r/androiddev/comments/147to0k/applying_kotlin_structured_concurrency_part_iv/)
-- [Can I use apksigner to sign .aab ?](https://www.reddit.com/r/androiddev/comments/147sjdl/can_i_use_apksigner_to_sign_aab/)
+- [masterwork tools pathfinder open reference app](https://www.reddit.com/r/androiddev/comments/148r6v9/masterwork_tools_pathfinder_open_reference_app/)
+- [missed call notifications](https://www.reddit.com/r/androiddev/comments/148qeny/missed_call_notifications/)
+- [How to handle scalability, security and performance of a mobile app? What are the best practices?](https://www.reddit.com/r/androiddev/comments/148ofcq/how_to_handle_scalability_security_and/)
+- [Card Game Animation In Compose](https://www.reddit.com/r/androiddev/comments/148nn4q/card_game_animation_in_compose/)
+- [Top 5 Reasons to Learn Android Development](https://www.reddit.com/r/androiddev/comments/148mxn8/top_5_reasons_to_learn_android_development/)
+- [How to turn phone on black and white](https://www.reddit.com/r/androiddev/comments/148meh2/how_to_turn_phone_on_black_and_white/)
+- [Fragment in Viewpager2 in Fragment.](https://www.reddit.com/r/androiddev/comments/148m7fs/fragment_in_viewpager2_in_fragment/)
+- [Convert Notifications to Text and Send Them to Remote Syslog Server](https://www.reddit.com/r/androiddev/comments/148lvlh/convert_notifications_to_text_and_send_them_to/)
+- [Creating a music visualizer in Jetpack Compose using the Visualizer class. Looking for ways to improve this.](https://www.reddit.com/r/androiddev/comments/148la52/creating_a_music_visualizer_in_jetpack_compose/)
+- [Multiple instance of an App](https://www.reddit.com/r/androiddev/comments/148l7z7/multiple_instance_of_an_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
