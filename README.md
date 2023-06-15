@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [masterwork tools pathfinder open reference app](https://www.reddit.com/r/androiddev/comments/148r6v9/masterwork_tools_pathfinder_open_reference_app/)
-- [missed call notifications](https://www.reddit.com/r/androiddev/comments/148qeny/missed_call_notifications/)
-- [How to handle scalability, security and performance of a mobile app? What are the best practices?](https://www.reddit.com/r/androiddev/comments/148ofcq/how_to_handle_scalability_security_and/)
-- [Card Game Animation In Compose](https://www.reddit.com/r/androiddev/comments/148nn4q/card_game_animation_in_compose/)
-- [Top 5 Reasons to Learn Android Development](https://www.reddit.com/r/androiddev/comments/148mxn8/top_5_reasons_to_learn_android_development/)
-- [How to turn phone on black and white](https://www.reddit.com/r/androiddev/comments/148meh2/how_to_turn_phone_on_black_and_white/)
-- [Fragment in Viewpager2 in Fragment.](https://www.reddit.com/r/androiddev/comments/148m7fs/fragment_in_viewpager2_in_fragment/)
-- [Convert Notifications to Text and Send Them to Remote Syslog Server](https://www.reddit.com/r/androiddev/comments/148lvlh/convert_notifications_to_text_and_send_them_to/)
-- [Creating a music visualizer in Jetpack Compose using the Visualizer class. Looking for ways to improve this.](https://www.reddit.com/r/androiddev/comments/148la52/creating_a_music_visualizer_in_jetpack_compose/)
-- [Multiple instance of an App](https://www.reddit.com/r/androiddev/comments/148l7z7/multiple_instance_of_an_app/)
+- [Help me Move Play Button to right Position](https://www.reddit.com/r/androiddev/comments/149o1u3/help_me_move_play_button_to_right_position/)
+- [Wear OS PrimaryLayout won&#39;t show](https://www.reddit.com/r/androiddev/comments/149nk3l/wear_os_primarylayout_wont_show/)
+- [How to use the Bluetooth le api](https://www.reddit.com/r/androiddev/comments/149mzgi/how_to_use_the_bluetooth_le_api/)
+- [How necessary is SQL in Android apps, really?](https://www.reddit.com/r/androiddev/comments/149lh5b/how_necessary_is_sql_in_android_apps_really/)
+- [Ideal tech stack &amp; approach for a social media app](https://www.reddit.com/r/androiddev/comments/149lb0z/ideal_tech_stack_approach_for_a_social_media_app/)
+- [What is the best way to scope a dependency to a compose screen?](https://www.reddit.com/r/androiddev/comments/149jgey/what_is_the_best_way_to_scope_a_dependency_to_a/)
+- [bluestack root help](https://www.reddit.com/r/androiddev/comments/149exvr/bluestack_root_help/)
+- [Settings access permissions](https://www.reddit.com/r/androiddev/comments/149ephl/settings_access_permissions/)
+- [How do you create templates in Android Studio &lpar;Hedge Hog&rpar;](https://www.reddit.com/r/androiddev/comments/149co2h/how_do_you_create_templates_in_android_studio/)
+- [Hi guys, is there any way to disable drag progress change on a Material Slider when drag origin is not in its &quot;thumb&quot;. I already solved the touch part. When I touch outside the thumb and within its track only, the thumb position doesnt change. Drag is my problem](https://www.reddit.com/r/androiddev/comments/149bnpy/hi_guys_is_there_any_way_to_disable_drag_progress/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
