@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help me Move Play Button to right Position](https://www.reddit.com/r/androiddev/comments/149o1u3/help_me_move_play_button_to_right_position/)
-- [Wear OS PrimaryLayout won&#39;t show](https://www.reddit.com/r/androiddev/comments/149nk3l/wear_os_primarylayout_wont_show/)
-- [How to use the Bluetooth le api](https://www.reddit.com/r/androiddev/comments/149mzgi/how_to_use_the_bluetooth_le_api/)
-- [How necessary is SQL in Android apps, really?](https://www.reddit.com/r/androiddev/comments/149lh5b/how_necessary_is_sql_in_android_apps_really/)
-- [Ideal tech stack &amp; approach for a social media app](https://www.reddit.com/r/androiddev/comments/149lb0z/ideal_tech_stack_approach_for_a_social_media_app/)
-- [What is the best way to scope a dependency to a compose screen?](https://www.reddit.com/r/androiddev/comments/149jgey/what_is_the_best_way_to_scope_a_dependency_to_a/)
-- [bluestack root help](https://www.reddit.com/r/androiddev/comments/149exvr/bluestack_root_help/)
-- [Settings access permissions](https://www.reddit.com/r/androiddev/comments/149ephl/settings_access_permissions/)
-- [How do you create templates in Android Studio &lpar;Hedge Hog&rpar;](https://www.reddit.com/r/androiddev/comments/149co2h/how_do_you_create_templates_in_android_studio/)
-- [Hi guys, is there any way to disable drag progress change on a Material Slider when drag origin is not in its &quot;thumb&quot;. I already solved the touch part. When I touch outside the thumb and within its track only, the thumb position doesnt change. Drag is my problem](https://www.reddit.com/r/androiddev/comments/149bnpy/hi_guys_is_there_any_way_to_disable_drag_progress/)
+- [I’m creating 2 simple practice apps that have a shared code base &lpar;mostly&rpar;. A simple hit an api and crate a list. Would the recyclerview be in the shared folder or one in each app folder? Is there a good example I can look at?](https://www.reddit.com/r/androiddev/comments/14ai6r7/im_creating_2_simple_practice_apps_that_have_a/)
+- [Is this the best way to store the view state in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/14aex1j/is_this_the_best_way_to_store_the_view_state_in/)
+- [How to unlock Samsung without factory reset?](https://www.reddit.com/r/androiddev/comments/14acphu/how_to_unlock_samsung_without_factory_reset/)
+- [How to debug a ffi backtrace with Flutter on Android](https://www.reddit.com/r/androiddev/comments/14aahte/how_to_debug_a_ffi_backtrace_with_flutter_on/)
+- [Where to learn flutter?](https://www.reddit.com/r/androiddev/comments/14a8d0m/where_to_learn_flutter/)
+- [Alarm manager](https://www.reddit.com/r/androiddev/comments/14a7utg/alarm_manager/)
+- [Builder Design Pattern In Kotlin](https://www.reddit.com/r/androiddev/comments/14a709g/builder_design_pattern_in_kotlin/)
+- [Accessibility&amp;Testing in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/14a6ukg/accessibilitytesting_in_jetpack_compose/)
+- [Creating app that uses text files](https://www.reddit.com/r/androiddev/comments/14a30or/creating_app_that_uses_text_files/)
+- [Android: How to stop &quot;catch up&quot; messages after reconnecting to WIFI](https://www.reddit.com/r/androiddev/comments/14a1xgo/android_how_to_stop_catch_up_messages_after/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
