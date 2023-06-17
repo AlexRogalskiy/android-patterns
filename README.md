@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I’m creating 2 simple practice apps that have a shared code base &lpar;mostly&rpar;. A simple hit an api and crate a list. Would the recyclerview be in the shared folder or one in each app folder? Is there a good example I can look at?](https://www.reddit.com/r/androiddev/comments/14ai6r7/im_creating_2_simple_practice_apps_that_have_a/)
-- [Is this the best way to store the view state in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/14aex1j/is_this_the_best_way_to_store_the_view_state_in/)
-- [How to unlock Samsung without factory reset?](https://www.reddit.com/r/androiddev/comments/14acphu/how_to_unlock_samsung_without_factory_reset/)
-- [How to debug a ffi backtrace with Flutter on Android](https://www.reddit.com/r/androiddev/comments/14aahte/how_to_debug_a_ffi_backtrace_with_flutter_on/)
-- [Where to learn flutter?](https://www.reddit.com/r/androiddev/comments/14a8d0m/where_to_learn_flutter/)
-- [Alarm manager](https://www.reddit.com/r/androiddev/comments/14a7utg/alarm_manager/)
-- [Builder Design Pattern In Kotlin](https://www.reddit.com/r/androiddev/comments/14a709g/builder_design_pattern_in_kotlin/)
-- [Accessibility&amp;Testing in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/14a6ukg/accessibilitytesting_in_jetpack_compose/)
-- [Creating app that uses text files](https://www.reddit.com/r/androiddev/comments/14a30or/creating_app_that_uses_text_files/)
-- [Android: How to stop &quot;catch up&quot; messages after reconnecting to WIFI](https://www.reddit.com/r/androiddev/comments/14a1xgo/android_how_to_stop_catch_up_messages_after/)
+- [Trying to flash Open GApps for free](https://www.reddit.com/r/androiddev/comments/14b9m4s/trying_to_flash_open_gapps_for_free/)
+- [update new UI my app masrofy budget tracker](https://www.reddit.com/r/androiddev/comments/14b8s3f/update_new_ui_my_app_masrofy_budget_tracker/)
+- [Maintaining Dagger and Hilt in the same codebase](https://www.reddit.com/r/androiddev/comments/14b781j/maintaining_dagger_and_hilt_in_the_same_codebase/)
+- [Android WaveView](https://www.reddit.com/r/androiddev/comments/14b441b/android_waveview/)
+- [File size limit on Android](https://www.reddit.com/r/androiddev/comments/14b3ywi/file_size_limit_on_android/)
+- [AdMob to send me a physical PIN for address verification?](https://www.reddit.com/r/androiddev/comments/14b2mx2/admob_to_send_me_a_physical_pin_for_address/)
+- [When will this monstrosity finally be fixed?? It&#39;s been years I swear](https://www.reddit.com/r/androiddev/comments/14az4hh/when_will_this_monstrosity_finally_be_fixed_its/)
+- [app suddenly showing nothing](https://www.reddit.com/r/androiddev/comments/14axkwt/app_suddenly_showing_nothing/)
+- [From Zero to the basics? &lpar;previously a java dev&rpar;](https://www.reddit.com/r/androiddev/comments/14ax5er/from_zero_to_the_basics_previously_a_java_dev/)
+- [Probelm with Kinemaster video editor](https://www.reddit.com/r/androiddev/comments/14avcz7/probelm_with_kinemaster_video_editor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
