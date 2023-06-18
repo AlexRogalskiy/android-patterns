@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trying to flash Open GApps for free](https://www.reddit.com/r/androiddev/comments/14b9m4s/trying_to_flash_open_gapps_for_free/)
-- [update new UI my app masrofy budget tracker](https://www.reddit.com/r/androiddev/comments/14b8s3f/update_new_ui_my_app_masrofy_budget_tracker/)
-- [Maintaining Dagger and Hilt in the same codebase](https://www.reddit.com/r/androiddev/comments/14b781j/maintaining_dagger_and_hilt_in_the_same_codebase/)
-- [Android WaveView](https://www.reddit.com/r/androiddev/comments/14b441b/android_waveview/)
-- [File size limit on Android](https://www.reddit.com/r/androiddev/comments/14b3ywi/file_size_limit_on_android/)
-- [AdMob to send me a physical PIN for address verification?](https://www.reddit.com/r/androiddev/comments/14b2mx2/admob_to_send_me_a_physical_pin_for_address/)
-- [When will this monstrosity finally be fixed?? It&#39;s been years I swear](https://www.reddit.com/r/androiddev/comments/14az4hh/when_will_this_monstrosity_finally_be_fixed_its/)
-- [app suddenly showing nothing](https://www.reddit.com/r/androiddev/comments/14axkwt/app_suddenly_showing_nothing/)
-- [From Zero to the basics? &lpar;previously a java dev&rpar;](https://www.reddit.com/r/androiddev/comments/14ax5er/from_zero_to_the_basics_previously_a_java_dev/)
-- [Probelm with Kinemaster video editor](https://www.reddit.com/r/androiddev/comments/14avcz7/probelm_with_kinemaster_video_editor/)
+- [Question about a mobile browser](https://www.reddit.com/r/androiddev/comments/14c5bzj/question_about_a_mobile_browser/)
+- [Can&#39;t install my app on the Google Play Store](https://www.reddit.com/r/androiddev/comments/14c4uaw/cant_install_my_app_on_the_google_play_store/)
+- [Why isn&#39;t my status updated?](https://www.reddit.com/r/androiddev/comments/14c3vcd/why_isnt_my_status_updated/)
+- [Should I just delete dead app and start all over again?](https://www.reddit.com/r/androiddev/comments/14c0ns7/should_i_just_delete_dead_app_and_start_all_over/)
+- [Android WebView stops JavaScript execution after 5 minutes when app in the background](https://www.reddit.com/r/androiddev/comments/14bzvt3/android_webview_stops_javascript_execution_after/)
+- [hypervision sdk HAXM vs Android Emulator hypervision driver](https://www.reddit.com/r/androiddev/comments/14bye5j/hypervision_sdk_haxm_vs_android_emulator/)
+- [Scopes with lambda function](https://www.reddit.com/r/androiddev/comments/14bx7dh/scopes_with_lambda_function/)
+- [Anyone noticed a huge store listing acquisitions drop?](https://www.reddit.com/r/androiddev/comments/14bwupd/anyone_noticed_a_huge_store_listing_acquisitions/)
+- [The pain...](https://www.reddit.com/r/androiddev/comments/14bwt8u/the_pain/)
+- [bootable thumb drive with android.](https://www.reddit.com/r/androiddev/comments/14bt1tm/bootable_thumb_drive_with_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
