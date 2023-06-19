@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question about a mobile browser](https://www.reddit.com/r/androiddev/comments/14c5bzj/question_about_a_mobile_browser/)
-- [Can&#39;t install my app on the Google Play Store](https://www.reddit.com/r/androiddev/comments/14c4uaw/cant_install_my_app_on_the_google_play_store/)
-- [Why isn&#39;t my status updated?](https://www.reddit.com/r/androiddev/comments/14c3vcd/why_isnt_my_status_updated/)
-- [Should I just delete dead app and start all over again?](https://www.reddit.com/r/androiddev/comments/14c0ns7/should_i_just_delete_dead_app_and_start_all_over/)
-- [Android WebView stops JavaScript execution after 5 minutes when app in the background](https://www.reddit.com/r/androiddev/comments/14bzvt3/android_webview_stops_javascript_execution_after/)
-- [hypervision sdk HAXM vs Android Emulator hypervision driver](https://www.reddit.com/r/androiddev/comments/14bye5j/hypervision_sdk_haxm_vs_android_emulator/)
-- [Scopes with lambda function](https://www.reddit.com/r/androiddev/comments/14bx7dh/scopes_with_lambda_function/)
-- [Anyone noticed a huge store listing acquisitions drop?](https://www.reddit.com/r/androiddev/comments/14bwupd/anyone_noticed_a_huge_store_listing_acquisitions/)
-- [The pain...](https://www.reddit.com/r/androiddev/comments/14bwt8u/the_pain/)
-- [bootable thumb drive with android.](https://www.reddit.com/r/androiddev/comments/14bt1tm/bootable_thumb_drive_with_android/)
+- [Petition to show Apple people care about RCS](https://www.reddit.com/r/androiddev/comments/14d0x90/petition_to_show_apple_people_care_about_rcs/)
+- [Porting twrp?](https://www.reddit.com/r/androiddev/comments/14d0l1u/porting_twrp/)
+- [I don&#39;t understand why it doesn&#39;t work this way](https://www.reddit.com/r/androiddev/comments/14cw2dm/i_dont_understand_why_it_doesnt_work_this_way/)
+- [Looking for a really good 3 in 1 wireless charger for samsung](https://www.reddit.com/r/androiddev/comments/14cu8di/looking_for_a_really_good_3_in_1_wireless_charger/)
+- [Android 11 multiple displays](https://www.reddit.com/r/androiddev/comments/14ctcqu/android_11_multiple_displays/)
+- [Starting my App development career in 2023](https://www.reddit.com/r/androiddev/comments/14ct7gr/starting_my_app_development_career_in_2023/)
+- [How do you guys debug network issues?](https://www.reddit.com/r/androiddev/comments/14cswg8/how_do_you_guys_debug_network_issues/)
+- [Twitter and web navigation vs app links](https://www.reddit.com/r/androiddev/comments/14crw2z/twitter_and_web_navigation_vs_app_links/)
+- [Any references to understand how Google rightly designed this new navigation dialog UI?](https://www.reddit.com/r/androiddev/comments/14cru3c/any_references_to_understand_how_google_rightly/)
+- [UI/UX Designer](https://www.reddit.com/r/androiddev/comments/14cqftl/uiux_designer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
