@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Petition to show Apple people care about RCS](https://www.reddit.com/r/androiddev/comments/14d0x90/petition_to_show_apple_people_care_about_rcs/)
-- [Porting twrp?](https://www.reddit.com/r/androiddev/comments/14d0l1u/porting_twrp/)
-- [I don&#39;t understand why it doesn&#39;t work this way](https://www.reddit.com/r/androiddev/comments/14cw2dm/i_dont_understand_why_it_doesnt_work_this_way/)
-- [Looking for a really good 3 in 1 wireless charger for samsung](https://www.reddit.com/r/androiddev/comments/14cu8di/looking_for_a_really_good_3_in_1_wireless_charger/)
-- [Android 11 multiple displays](https://www.reddit.com/r/androiddev/comments/14ctcqu/android_11_multiple_displays/)
-- [Starting my App development career in 2023](https://www.reddit.com/r/androiddev/comments/14ct7gr/starting_my_app_development_career_in_2023/)
-- [How do you guys debug network issues?](https://www.reddit.com/r/androiddev/comments/14cswg8/how_do_you_guys_debug_network_issues/)
-- [Twitter and web navigation vs app links](https://www.reddit.com/r/androiddev/comments/14crw2z/twitter_and_web_navigation_vs_app_links/)
-- [Any references to understand how Google rightly designed this new navigation dialog UI?](https://www.reddit.com/r/androiddev/comments/14cru3c/any_references_to_understand_how_google_rightly/)
-- [UI/UX Designer](https://www.reddit.com/r/androiddev/comments/14cqftl/uiux_designer/)
+- [Adding Firebase to Android Project](https://www.reddit.com/r/androiddev/comments/14dseft/adding_firebase_to_android_project/)
+- [I have &quot;Pop on screen&quot; disabled but messages appear at the top regardless. How can I stop the content of messages showing?](https://www.reddit.com/r/androiddev/comments/14dqcxk/i_have_pop_on_screen_disabled_but_messages_appear/)
+- [How to trace/profile/document an Android Java App?](https://www.reddit.com/r/androiddev/comments/14dpxmw/how_to_traceprofiledocument_an_android_java_app/)
+- [Countdown app with only seconds](https://www.reddit.com/r/androiddev/comments/14dputn/countdown_app_with_only_seconds/)
+- [ADB : No more &quot;more than one device/emulator&quot; error](https://www.reddit.com/r/androiddev/comments/14dpoba/adb_no_more_more_than_one_deviceemulator_error/)
+- [Automated functional testing &lpar;an overview for mobile app developers&rpar;](https://www.reddit.com/r/androiddev/comments/14dmurc/automated_functional_testing_an_overview_for/)
+- [Logs on Android/PlayStore to evidence when I installed and/or accessed an app](https://www.reddit.com/r/androiddev/comments/14dlkse/logs_on_androidplaystore_to_evidence_when_i/)
+- [I developed an opensource sms gateway - TextBee](https://www.reddit.com/r/androiddev/comments/14dkzo6/i_developed_an_opensource_sms_gateway_textbee/)
+- [Google android course](https://www.reddit.com/r/androiddev/comments/14dkqxf/google_android_course/)
+- [Camera quality is sm-532f](https://www.reddit.com/r/androiddev/comments/14dk6it/camera_quality_is_sm532f/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
