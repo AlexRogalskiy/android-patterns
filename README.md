@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I cannot for the life of me figure out how to import a library from GitHub into my Android Studio project](https://www.reddit.com/r/androiddev/comments/14esn8h/i_cannot_for_the_life_of_me_figure_out_how_to/)
-- [Android Studio Hedgehog Canary 9 now available](https://www.reddit.com/r/androiddev/comments/14ermw6/android_studio_hedgehog_canary_9_now_available/)
-- [Can anyone test this app from the playstore?](https://www.reddit.com/r/androiddev/comments/14erau5/can_anyone_test_this_app_from_the_playstore/)
-- [Need to persist logs from app and sdk, what would be the best approach?](https://www.reddit.com/r/androiddev/comments/14eqayp/need_to_persist_logs_from_app_and_sdk_what_would/)
-- [How do music apps like Spotify integrate with cars and other devices?](https://www.reddit.com/r/androiddev/comments/14eq19q/how_do_music_apps_like_spotify_integrate_with/)
-- [Policy team rejects app update: &quot;Invalid Data safety form&quot;](https://www.reddit.com/r/androiddev/comments/14eokhh/policy_team_rejects_app_update_invalid_data/)
-- [Android Studio Hedgehog Canary 8 now available](https://www.reddit.com/r/androiddev/comments/14ejqrv/android_studio_hedgehog_canary_8_now_available/)
-- [Generating new proof-of-rotation](https://www.reddit.com/r/androiddev/comments/14ejbm0/generating_new_proofofrotation/)
-- [Best practices to monitor internet connectivity](https://www.reddit.com/r/androiddev/comments/14eg8tc/best_practices_to_monitor_internet_connectivity/)
-- [Researching navigation paradigms](https://www.reddit.com/r/androiddev/comments/14effmg/researching_navigation_paradigms/)
+- [Jetpack Compose Custom Layout Made Easy](https://www.reddit.com/r/androiddev/comments/14fo106/jetpack_compose_custom_layout_made_easy/)
+- [Do you use these Android Studio features?](https://www.reddit.com/r/androiddev/comments/14fkrqn/do_you_use_these_android_studio_features/)
+- [I DESPISE Android Studio. I can&#39;t be the only one. Am I crazy? Are there alternatives?](https://www.reddit.com/r/androiddev/comments/14fdybz/i_despise_android_studio_i_cant_be_the_only_one/)
+- [ShareFlow Depends on a value in a state data class. so any updates to that variable in the state is useless. So where to go from here?](https://www.reddit.com/r/androiddev/comments/14fdgtv/shareflow_depends_on_a_value_in_a_state_data/)
+- [Compose UI logic](https://www.reddit.com/r/androiddev/comments/14fdgf5/compose_ui_logic/)
+- [I made a website with 2992 Material Symbols ready to be used as Icons in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/14fasco/i_made_a_website_with_2992_material_symbols_ready/)
+- [Slow app review this week](https://www.reddit.com/r/androiddev/comments/14f9s8h/slow_app_review_this_week/)
+- [Introducing ChatBot Builder: A Kotlin Multiplatform Library that enables customizable Chat UI and defined bot behavior instructions using OpenAI API&#39;s](https://www.reddit.com/r/androiddev/comments/14f9pl5/introducing_chatbot_builder_a_kotlin/)
+- [AI Box adapter Android 12 - Smart Lock Missing](https://www.reddit.com/r/androiddev/comments/14f9ce2/ai_box_adapter_android_12_smart_lock_missing/)
+- [Negative Padding For Jetpack Compose Made Possible](https://www.reddit.com/r/androiddev/comments/14f7fax/negative_padding_for_jetpack_compose_made_possible/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
