@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Jetpack Compose Custom Layout Made Easy](https://www.reddit.com/r/androiddev/comments/14fo106/jetpack_compose_custom_layout_made_easy/)
-- [Do you use these Android Studio features?](https://www.reddit.com/r/androiddev/comments/14fkrqn/do_you_use_these_android_studio_features/)
-- [I DESPISE Android Studio. I can&#39;t be the only one. Am I crazy? Are there alternatives?](https://www.reddit.com/r/androiddev/comments/14fdybz/i_despise_android_studio_i_cant_be_the_only_one/)
-- [ShareFlow Depends on a value in a state data class. so any updates to that variable in the state is useless. So where to go from here?](https://www.reddit.com/r/androiddev/comments/14fdgtv/shareflow_depends_on_a_value_in_a_state_data/)
-- [Compose UI logic](https://www.reddit.com/r/androiddev/comments/14fdgf5/compose_ui_logic/)
-- [I made a website with 2992 Material Symbols ready to be used as Icons in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/14fasco/i_made_a_website_with_2992_material_symbols_ready/)
-- [Slow app review this week](https://www.reddit.com/r/androiddev/comments/14f9s8h/slow_app_review_this_week/)
-- [Introducing ChatBot Builder: A Kotlin Multiplatform Library that enables customizable Chat UI and defined bot behavior instructions using OpenAI API&#39;s](https://www.reddit.com/r/androiddev/comments/14f9pl5/introducing_chatbot_builder_a_kotlin/)
-- [AI Box adapter Android 12 - Smart Lock Missing](https://www.reddit.com/r/androiddev/comments/14f9ce2/ai_box_adapter_android_12_smart_lock_missing/)
-- [Negative Padding For Jetpack Compose Made Possible](https://www.reddit.com/r/androiddev/comments/14f7fax/negative_padding_for_jetpack_compose_made_possible/)
+- [A guide to integrate GraphQL in Kotlin using Hasura + Apollo](https://www.reddit.com/r/androiddev/comments/14gm4fu/a_guide_to_integrate_graphql_in_kotlin_using/)
+- [Rust on Android](https://www.reddit.com/r/androiddev/comments/14gka8j/rust_on_android/)
+- [Flow testing with Turbine](https://www.reddit.com/r/androiddev/comments/14gj8td/flow_testing_with_turbine/)
+- [Android Studio Giraffe RC1 now available](https://www.reddit.com/r/androiddev/comments/14ghu2w/android_studio_giraffe_rc1_now_available/)
+- [Room inside repository](https://www.reddit.com/r/androiddev/comments/14gfxla/room_inside_repository/)
+- [How to block app from changing phone settings](https://www.reddit.com/r/androiddev/comments/14gfsl5/how_to_block_app_from_changing_phone_settings/)
+- [Navigate from integrated RN screen to Android screen](https://www.reddit.com/r/androiddev/comments/14ge1vq/navigate_from_integrated_rn_screen_to_android/)
+- [Call a Protected API Endpoint from an Expo Mobile App](https://www.reddit.com/r/androiddev/comments/14gcnn2/call_a_protected_api_endpoint_from_an_expo_mobile/)
+- [Anyone know if there&#39;s an API for an app to provide a deep link for the current page via this link? &lpar;more context in comments&rpar;](https://www.reddit.com/r/androiddev/comments/14gard0/anyone_know_if_theres_an_api_for_an_app_to/)
+- [New to professional Android development. Are there any commonly used templates or resources I might be missing?](https://www.reddit.com/r/androiddev/comments/14ga6h2/new_to_professional_android_development_are_there/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
