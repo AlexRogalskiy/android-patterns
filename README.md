@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A guide to integrate GraphQL in Kotlin using Hasura + Apollo](https://www.reddit.com/r/androiddev/comments/14gm4fu/a_guide_to_integrate_graphql_in_kotlin_using/)
-- [Rust on Android](https://www.reddit.com/r/androiddev/comments/14gka8j/rust_on_android/)
-- [Flow testing with Turbine](https://www.reddit.com/r/androiddev/comments/14gj8td/flow_testing_with_turbine/)
-- [Android Studio Giraffe RC1 now available](https://www.reddit.com/r/androiddev/comments/14ghu2w/android_studio_giraffe_rc1_now_available/)
-- [Room inside repository](https://www.reddit.com/r/androiddev/comments/14gfxla/room_inside_repository/)
-- [How to block app from changing phone settings](https://www.reddit.com/r/androiddev/comments/14gfsl5/how_to_block_app_from_changing_phone_settings/)
-- [Navigate from integrated RN screen to Android screen](https://www.reddit.com/r/androiddev/comments/14ge1vq/navigate_from_integrated_rn_screen_to_android/)
-- [Call a Protected API Endpoint from an Expo Mobile App](https://www.reddit.com/r/androiddev/comments/14gcnn2/call_a_protected_api_endpoint_from_an_expo_mobile/)
-- [Anyone know if there&#39;s an API for an app to provide a deep link for the current page via this link? &lpar;more context in comments&rpar;](https://www.reddit.com/r/androiddev/comments/14gard0/anyone_know_if_theres_an_api_for_an_app_to/)
-- [New to professional Android development. Are there any commonly used templates or resources I might be missing?](https://www.reddit.com/r/androiddev/comments/14ga6h2/new_to_professional_android_development_are_there/)
+- [Recommend me an app](https://www.reddit.com/r/androiddev/comments/14hfo1y/recommend_me_an_app/)
+- [Meta and TikTok ADs](https://www.reddit.com/r/androiddev/comments/14heq45/meta_and_tiktok_ads/)
+- [Help Recover my Audio files](https://www.reddit.com/r/androiddev/comments/14hel9g/help_recover_my_audio_files/)
+- [Android native app webview not working correctly](https://www.reddit.com/r/androiddev/comments/14hdndf/android_native_app_webview_not_working_correctly/)
+- [Android Paging 3 for nested recyclerview](https://www.reddit.com/r/androiddev/comments/14hdhfh/android_paging_3_for_nested_recyclerview/)
+- [Learning Kotlin from code academy.](https://www.reddit.com/r/androiddev/comments/14hd3az/learning_kotlin_from_code_academy/)
+- [do mobile indie devs still exist?](https://www.reddit.com/r/androiddev/comments/14hb0h4/do_mobile_indie_devs_still_exist/)
+- [Android phone promting for passkey [I never set up]](https://www.reddit.com/r/androiddev/comments/14hap6c/android_phone_promting_for_passkey_i_never_set_up/)
+- [Introducing VertexAI-KT: Simplifying Integration with Google Cloud&#39;s Vertex AI PaLM API](https://www.reddit.com/r/androiddev/comments/14h9hac/introducing_vertexaikt_simplifying_integration/)
+- [Fastboot command](https://www.reddit.com/r/androiddev/comments/14h7ix2/fastboot_command/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
