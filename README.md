@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Recommend me an app](https://www.reddit.com/r/androiddev/comments/14hfo1y/recommend_me_an_app/)
-- [Meta and TikTok ADs](https://www.reddit.com/r/androiddev/comments/14heq45/meta_and_tiktok_ads/)
-- [Help Recover my Audio files](https://www.reddit.com/r/androiddev/comments/14hel9g/help_recover_my_audio_files/)
-- [Android native app webview not working correctly](https://www.reddit.com/r/androiddev/comments/14hdndf/android_native_app_webview_not_working_correctly/)
-- [Android Paging 3 for nested recyclerview](https://www.reddit.com/r/androiddev/comments/14hdhfh/android_paging_3_for_nested_recyclerview/)
-- [Learning Kotlin from code academy.](https://www.reddit.com/r/androiddev/comments/14hd3az/learning_kotlin_from_code_academy/)
-- [do mobile indie devs still exist?](https://www.reddit.com/r/androiddev/comments/14hb0h4/do_mobile_indie_devs_still_exist/)
-- [Android phone promting for passkey [I never set up]](https://www.reddit.com/r/androiddev/comments/14hap6c/android_phone_promting_for_passkey_i_never_set_up/)
-- [Introducing VertexAI-KT: Simplifying Integration with Google Cloud&#39;s Vertex AI PaLM API](https://www.reddit.com/r/androiddev/comments/14h9hac/introducing_vertexaikt_simplifying_integration/)
-- [Fastboot command](https://www.reddit.com/r/androiddev/comments/14h7ix2/fastboot_command/)
+- [Why I get Unresolved reference: AddEditNoteScreen in the first file but didn&#39;t get it in the another file?](https://www.reddit.com/r/androiddev/comments/14i9dun/why_i_get_unresolved_reference_addeditnotescreen/)
+- [Multiplayer requirements for release on Android](https://www.reddit.com/r/androiddev/comments/14i1d5b/multiplayer_requirements_for_release_on_android/)
+- [Chat app firebase](https://www.reddit.com/r/androiddev/comments/14i19dn/chat_app_firebase/)
+- [Strange back behavior when targeting API level 33 &lpar;Android 13&rpar;](https://www.reddit.com/r/androiddev/comments/14i126i/strange_back_behavior_when_targeting_api_level_33/)
+- [Introducing Quizella 🧠](https://www.reddit.com/r/androiddev/comments/14hxva1/introducing_quizella/)
+- [What is wrong with my resume help!](https://www.reddit.com/r/androiddev/comments/14hvul9/what_is_wrong_with_my_resume_help/)
+- [What is the best option to build high quality bubble shooter game, Android Studio or Unity?](https://www.reddit.com/r/androiddev/comments/14hv85k/what_is_the_best_option_to_build_high_quality/)
+- [Best / current solution for passing values between multiple fragments](https://www.reddit.com/r/androiddev/comments/14hu0hp/best_current_solution_for_passing_values_between/)
+- [Advice to Read Existing Project](https://www.reddit.com/r/androiddev/comments/14hse4p/advice_to_read_existing_project/)
+- [Does anyone have this issue with expandableListView?](https://www.reddit.com/r/androiddev/comments/14hrigm/does_anyone_have_this_issue_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
