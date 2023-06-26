@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why I get Unresolved reference: AddEditNoteScreen in the first file but didn&#39;t get it in the another file?](https://www.reddit.com/r/androiddev/comments/14i9dun/why_i_get_unresolved_reference_addeditnotescreen/)
-- [Multiplayer requirements for release on Android](https://www.reddit.com/r/androiddev/comments/14i1d5b/multiplayer_requirements_for_release_on_android/)
-- [Chat app firebase](https://www.reddit.com/r/androiddev/comments/14i19dn/chat_app_firebase/)
-- [Strange back behavior when targeting API level 33 &lpar;Android 13&rpar;](https://www.reddit.com/r/androiddev/comments/14i126i/strange_back_behavior_when_targeting_api_level_33/)
-- [Introducing Quizella 🧠](https://www.reddit.com/r/androiddev/comments/14hxva1/introducing_quizella/)
-- [What is wrong with my resume help!](https://www.reddit.com/r/androiddev/comments/14hvul9/what_is_wrong_with_my_resume_help/)
-- [What is the best option to build high quality bubble shooter game, Android Studio or Unity?](https://www.reddit.com/r/androiddev/comments/14hv85k/what_is_the_best_option_to_build_high_quality/)
-- [Best / current solution for passing values between multiple fragments](https://www.reddit.com/r/androiddev/comments/14hu0hp/best_current_solution_for_passing_values_between/)
-- [Advice to Read Existing Project](https://www.reddit.com/r/androiddev/comments/14hse4p/advice_to_read_existing_project/)
-- [Does anyone have this issue with expandableListView?](https://www.reddit.com/r/androiddev/comments/14hrigm/does_anyone_have_this_issue_with/)
+- [doOnError not being called in unit tests](https://www.reddit.com/r/androiddev/comments/14j3t47/doonerror_not_being_called_in_unit_tests/)
+- [I want to make an Android phone, but I need resources.](https://www.reddit.com/r/androiddev/comments/14ivseq/i_want_to_make_an_android_phone_but_i_need/)
+- [Looking for tips on handling multiple displays](https://www.reddit.com/r/androiddev/comments/14ivcth/looking_for_tips_on_handling_multiple_displays/)
+- [Where to look for a remote position for a Russian that lives in Turkey](https://www.reddit.com/r/androiddev/comments/14iurk6/where_to_look_for_a_remote_position_for_a_russian/)
+- [how can I figure out what kind of developers I need to help develop my own private app?](https://www.reddit.com/r/androiddev/comments/14iszst/how_can_i_figure_out_what_kind_of_developers_i/)
+- [Is there a way to give free IAP in Google play?](https://www.reddit.com/r/androiddev/comments/14irlpi/is_there_a_way_to_give_free_iap_in_google_play/)
+- [How to prevent keyboard from shifting the whole fragment view upwards?](https://www.reddit.com/r/androiddev/comments/14ir1e1/how_to_prevent_keyboard_from_shifting_the_whole/)
+- [OOM still a disaster zone](https://www.reddit.com/r/androiddev/comments/14inly0/oom_still_a_disaster_zone/)
+- [What library do you know for streaming camera feed to server with RTMP?](https://www.reddit.com/r/androiddev/comments/14iljyh/what_library_do_you_know_for_streaming_camera/)
+- [Why teased Android 13 Desktop Mode is still unfinished despite promises?](https://www.reddit.com/r/androiddev/comments/14iks1q/why_teased_android_13_desktop_mode_is_still/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
