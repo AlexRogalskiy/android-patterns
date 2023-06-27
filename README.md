@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [doOnError not being called in unit tests](https://www.reddit.com/r/androiddev/comments/14j3t47/doonerror_not_being_called_in_unit_tests/)
-- [I want to make an Android phone, but I need resources.](https://www.reddit.com/r/androiddev/comments/14ivseq/i_want_to_make_an_android_phone_but_i_need/)
-- [Looking for tips on handling multiple displays](https://www.reddit.com/r/androiddev/comments/14ivcth/looking_for_tips_on_handling_multiple_displays/)
-- [Where to look for a remote position for a Russian that lives in Turkey](https://www.reddit.com/r/androiddev/comments/14iurk6/where_to_look_for_a_remote_position_for_a_russian/)
-- [how can I figure out what kind of developers I need to help develop my own private app?](https://www.reddit.com/r/androiddev/comments/14iszst/how_can_i_figure_out_what_kind_of_developers_i/)
-- [Is there a way to give free IAP in Google play?](https://www.reddit.com/r/androiddev/comments/14irlpi/is_there_a_way_to_give_free_iap_in_google_play/)
-- [How to prevent keyboard from shifting the whole fragment view upwards?](https://www.reddit.com/r/androiddev/comments/14ir1e1/how_to_prevent_keyboard_from_shifting_the_whole/)
-- [OOM still a disaster zone](https://www.reddit.com/r/androiddev/comments/14inly0/oom_still_a_disaster_zone/)
-- [What library do you know for streaming camera feed to server with RTMP?](https://www.reddit.com/r/androiddev/comments/14iljyh/what_library_do_you_know_for_streaming_camera/)
-- [Why teased Android 13 Desktop Mode is still unfinished despite promises?](https://www.reddit.com/r/androiddev/comments/14iks1q/why_teased_android_13_desktop_mode_is_still/)
+- [Are there people who actually enjoy debugging?](https://www.reddit.com/r/androiddev/comments/14jyxhk/are_there_people_who_actually_enjoy_debugging/)
+- [Need help installing TWRP on my Infinix HOT 30i &lpar;X699C&rpar;](https://www.reddit.com/r/androiddev/comments/14jx28p/need_help_installing_twrp_on_my_infinix_hot_30i/)
+- [As a Junior Android Developer, How much DSA should I know?](https://www.reddit.com/r/androiddev/comments/14jviie/as_a_junior_android_developer_how_much_dsa_should/)
+- [Wear OS &lpar;Horologist&rpar;: How to get started? Can barely find any documentation](https://www.reddit.com/r/androiddev/comments/14jrmc9/wear_os_horologist_how_to_get_started_can_barely/)
+- [AdMob User Consent for Non-Personalized Ads](https://www.reddit.com/r/androiddev/comments/14jr642/admob_user_consent_for_nonpersonalized_ads/)
+- [Android OS](https://www.reddit.com/r/androiddev/comments/14jqr4d/android_os/)
+- [This is how I create before and after screenshots for PRs with just a single call to &#39;pulls&#39;](https://www.reddit.com/r/androiddev/comments/14jpyck/this_is_how_i_create_before_and_after_screenshots/)
+- [Post app package replace, does the executor service running threads remain as is or all the running threads get killed?](https://www.reddit.com/r/androiddev/comments/14jpnwz/post_app_package_replace_does_the_executor/)
+- [Android-Arsenal Alternatives?](https://www.reddit.com/r/androiddev/comments/14jpff4/androidarsenal_alternatives/)
+- [Advice on building an app like WeWard](https://www.reddit.com/r/androiddev/comments/14jnywg/advice_on_building_an_app_like_weward/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
