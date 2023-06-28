@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are there people who actually enjoy debugging?](https://www.reddit.com/r/androiddev/comments/14jyxhk/are_there_people_who_actually_enjoy_debugging/)
-- [Need help installing TWRP on my Infinix HOT 30i &lpar;X699C&rpar;](https://www.reddit.com/r/androiddev/comments/14jx28p/need_help_installing_twrp_on_my_infinix_hot_30i/)
-- [As a Junior Android Developer, How much DSA should I know?](https://www.reddit.com/r/androiddev/comments/14jviie/as_a_junior_android_developer_how_much_dsa_should/)
-- [Wear OS &lpar;Horologist&rpar;: How to get started? Can barely find any documentation](https://www.reddit.com/r/androiddev/comments/14jrmc9/wear_os_horologist_how_to_get_started_can_barely/)
-- [AdMob User Consent for Non-Personalized Ads](https://www.reddit.com/r/androiddev/comments/14jr642/admob_user_consent_for_nonpersonalized_ads/)
-- [Android OS](https://www.reddit.com/r/androiddev/comments/14jqr4d/android_os/)
-- [This is how I create before and after screenshots for PRs with just a single call to &#39;pulls&#39;](https://www.reddit.com/r/androiddev/comments/14jpyck/this_is_how_i_create_before_and_after_screenshots/)
-- [Post app package replace, does the executor service running threads remain as is or all the running threads get killed?](https://www.reddit.com/r/androiddev/comments/14jpnwz/post_app_package_replace_does_the_executor/)
-- [Android-Arsenal Alternatives?](https://www.reddit.com/r/androiddev/comments/14jpff4/androidarsenal_alternatives/)
-- [Advice on building an app like WeWard](https://www.reddit.com/r/androiddev/comments/14jnywg/advice_on_building_an_app_like_weward/)
+- [How to use Android as USB storage with write access?](https://www.reddit.com/r/androiddev/comments/14kv1aw/how_to_use_android_as_usb_storage_with_write/)
+- [I would like to change my Operational System. Can someone please give me a light?](https://www.reddit.com/r/androiddev/comments/14ktu8r/i_would_like_to_change_my_operational_system_can/)
+- [Question for individuals that conduct interviews](https://www.reddit.com/r/androiddev/comments/14kta8f/question_for_individuals_that_conduct_interviews/)
+- [Android issues on Huawei. Hard Format help](https://www.reddit.com/r/androiddev/comments/14kt7nm/android_issues_on_huawei_hard_format_help/)
+- [Take home assignment followup interview questions](https://www.reddit.com/r/androiddev/comments/14krcu8/take_home_assignment_followup_interview_questions/)
+- [Paraphrase: Type-Safe String Resource Formatting for Android](https://www.reddit.com/r/androiddev/comments/14kqwop/paraphrase_typesafe_string_resource_formatting/)
+- [Best language/ide for android?](https://www.reddit.com/r/androiddev/comments/14kp9au/best_languageide_for_android/)
+- [Low/no code solution for simple project](https://www.reddit.com/r/androiddev/comments/14korky/lowno_code_solution_for_simple_project/)
+- [Android Studio Hedgehog Canary 10 now available](https://www.reddit.com/r/androiddev/comments/14knphn/android_studio_hedgehog_canary_10_now_available/)
+- [VPN Application project!!!](https://www.reddit.com/r/androiddev/comments/14kmpbj/vpn_application_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
