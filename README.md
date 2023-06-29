@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to use Android as USB storage with write access?](https://www.reddit.com/r/androiddev/comments/14kv1aw/how_to_use_android_as_usb_storage_with_write/)
-- [I would like to change my Operational System. Can someone please give me a light?](https://www.reddit.com/r/androiddev/comments/14ktu8r/i_would_like_to_change_my_operational_system_can/)
-- [Question for individuals that conduct interviews](https://www.reddit.com/r/androiddev/comments/14kta8f/question_for_individuals_that_conduct_interviews/)
-- [Android issues on Huawei. Hard Format help](https://www.reddit.com/r/androiddev/comments/14kt7nm/android_issues_on_huawei_hard_format_help/)
-- [Take home assignment followup interview questions](https://www.reddit.com/r/androiddev/comments/14krcu8/take_home_assignment_followup_interview_questions/)
-- [Paraphrase: Type-Safe String Resource Formatting for Android](https://www.reddit.com/r/androiddev/comments/14kqwop/paraphrase_typesafe_string_resource_formatting/)
-- [Best language/ide for android?](https://www.reddit.com/r/androiddev/comments/14kp9au/best_languageide_for_android/)
-- [Low/no code solution for simple project](https://www.reddit.com/r/androiddev/comments/14korky/lowno_code_solution_for_simple_project/)
-- [Android Studio Hedgehog Canary 10 now available](https://www.reddit.com/r/androiddev/comments/14knphn/android_studio_hedgehog_canary_10_now_available/)
-- [VPN Application project!!!](https://www.reddit.com/r/androiddev/comments/14kmpbj/vpn_application_project/)
+- [Avoid Java double brace initialization](https://www.reddit.com/r/androiddev/comments/14lpzwj/avoid_java_double_brace_initialization/)
+- [Interactive Application Security Testing for Your Mobile App](https://www.reddit.com/r/androiddev/comments/14llyed/interactive_application_security_testing_for_your/)
+- [How to limit CPU usage while compilation?](https://www.reddit.com/r/androiddev/comments/14ljnjn/how_to_limit_cpu_usage_while_compilation/)
+- [What are these files?! Are they malicious?](https://www.reddit.com/r/androiddev/comments/14livd4/what_are_these_files_are_they_malicious/)
+- [Emulator randomly crashes on macOS](https://www.reddit.com/r/androiddev/comments/14lhb47/emulator_randomly_crashes_on_macos/)
+- [Any simple ways to implement monthly subscriptions with free trial period for my Android app in Java?](https://www.reddit.com/r/androiddev/comments/14lg6vd/any_simple_ways_to_implement_monthly/)
+- [Is it possible to get contextual information when sharing stuff.](https://www.reddit.com/r/androiddev/comments/14ld6tz/is_it_possible_to_get_contextual_information_when/)
+- [Is it necessary to have a valid access token to fetch a new access token from the refresh endpoint?](https://www.reddit.com/r/androiddev/comments/14lcj6t/is_it_necessary_to_have_a_valid_access_token_to/)
+- [Role of internship in career ?](https://www.reddit.com/r/androiddev/comments/14lchny/role_of_internship_in_career/)
+- [GitHub - cashapp/paraphrase: A Gradle plugin that generates type-safe formatters for Android string resources in the ICU message format.](https://www.reddit.com/r/androiddev/comments/14l9pzc/github_cashappparaphrase_a_gradle_plugin_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
