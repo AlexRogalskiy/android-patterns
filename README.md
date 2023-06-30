@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Avoid Java double brace initialization](https://www.reddit.com/r/androiddev/comments/14lpzwj/avoid_java_double_brace_initialization/)
-- [Interactive Application Security Testing for Your Mobile App](https://www.reddit.com/r/androiddev/comments/14llyed/interactive_application_security_testing_for_your/)
-- [How to limit CPU usage while compilation?](https://www.reddit.com/r/androiddev/comments/14ljnjn/how_to_limit_cpu_usage_while_compilation/)
-- [What are these files?! Are they malicious?](https://www.reddit.com/r/androiddev/comments/14livd4/what_are_these_files_are_they_malicious/)
-- [Emulator randomly crashes on macOS](https://www.reddit.com/r/androiddev/comments/14lhb47/emulator_randomly_crashes_on_macos/)
-- [Any simple ways to implement monthly subscriptions with free trial period for my Android app in Java?](https://www.reddit.com/r/androiddev/comments/14lg6vd/any_simple_ways_to_implement_monthly/)
-- [Is it possible to get contextual information when sharing stuff.](https://www.reddit.com/r/androiddev/comments/14ld6tz/is_it_possible_to_get_contextual_information_when/)
-- [Is it necessary to have a valid access token to fetch a new access token from the refresh endpoint?](https://www.reddit.com/r/androiddev/comments/14lcj6t/is_it_necessary_to_have_a_valid_access_token_to/)
-- [Role of internship in career ?](https://www.reddit.com/r/androiddev/comments/14lchny/role_of_internship_in_career/)
-- [GitHub - cashapp/paraphrase: A Gradle plugin that generates type-safe formatters for Android string resources in the ICU message format.](https://www.reddit.com/r/androiddev/comments/14l9pzc/github_cashappparaphrase_a_gradle_plugin_that/)
+- [Can App Developers Really See if You Have a Pirated Version of an App?](https://www.reddit.com/r/androiddev/comments/14mnmo8/can_app_developers_really_see_if_you_have_a/)
+- [Android Emulator refuses to work &lpar;Windows 10&rpar;](https://www.reddit.com/r/androiddev/comments/14mix5k/android_emulator_refuses_to_work_windows_10/)
+- [Can Macrodroid/or another app could call multiple numbers &lpar;group call&rpar; at the same time?](https://www.reddit.com/r/androiddev/comments/14mi3nw/can_macrodroidor_another_app_could_call_multiple/)
+- [Find supported version of JDK and android tools to build an android project](https://www.reddit.com/r/androiddev/comments/14mcxs1/find_supported_version_of_jdk_and_android_tools/)
+- [Anyone know Gradle build ?](https://www.reddit.com/r/androiddev/comments/14mbo8w/anyone_know_gradle_build/)
+- [Why doesn&#39;t this SwitchMaterial do what it&#39;s supposed to?](https://www.reddit.com/r/androiddev/comments/14mantd/why_doesnt_this_switchmaterial_do_what_its/)
+- [Admob account showing this message. how to remove this?](https://www.reddit.com/r/androiddev/comments/14maj4x/admob_account_showing_this_message_how_to_remove/)
+- [Breaking the Monolith Step by Step](https://www.reddit.com/r/androiddev/comments/14m9ynu/breaking_the_monolith_step_by_step/)
+- [Switching Lanes from Web to Mobile Dev: Thoughts?](https://www.reddit.com/r/androiddev/comments/14m6g86/switching_lanes_from_web_to_mobile_dev_thoughts/)
+- [Displaying personalized ads in apps with a content rating of PEGI 3](https://www.reddit.com/r/androiddev/comments/14m6ars/displaying_personalized_ads_in_apps_with_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
