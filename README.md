@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can App Developers Really See if You Have a Pirated Version of an App?](https://www.reddit.com/r/androiddev/comments/14mnmo8/can_app_developers_really_see_if_you_have_a/)
-- [Android Emulator refuses to work &lpar;Windows 10&rpar;](https://www.reddit.com/r/androiddev/comments/14mix5k/android_emulator_refuses_to_work_windows_10/)
-- [Can Macrodroid/or another app could call multiple numbers &lpar;group call&rpar; at the same time?](https://www.reddit.com/r/androiddev/comments/14mi3nw/can_macrodroidor_another_app_could_call_multiple/)
-- [Find supported version of JDK and android tools to build an android project](https://www.reddit.com/r/androiddev/comments/14mcxs1/find_supported_version_of_jdk_and_android_tools/)
-- [Anyone know Gradle build ?](https://www.reddit.com/r/androiddev/comments/14mbo8w/anyone_know_gradle_build/)
-- [Why doesn&#39;t this SwitchMaterial do what it&#39;s supposed to?](https://www.reddit.com/r/androiddev/comments/14mantd/why_doesnt_this_switchmaterial_do_what_its/)
-- [Admob account showing this message. how to remove this?](https://www.reddit.com/r/androiddev/comments/14maj4x/admob_account_showing_this_message_how_to_remove/)
-- [Breaking the Monolith Step by Step](https://www.reddit.com/r/androiddev/comments/14m9ynu/breaking_the_monolith_step_by_step/)
-- [Switching Lanes from Web to Mobile Dev: Thoughts?](https://www.reddit.com/r/androiddev/comments/14m6g86/switching_lanes_from_web_to_mobile_dev_thoughts/)
-- [Displaying personalized ads in apps with a content rating of PEGI 3](https://www.reddit.com/r/androiddev/comments/14m6ars/displaying_personalized_ads_in_apps_with_a/)
+- [Android Jetpack compose - Budget app](https://www.reddit.com/r/androiddev/comments/14ned9a/android_jetpack_compose_budget_app/)
+- [Possible employment.](https://www.reddit.com/r/androiddev/comments/14ne23u/possible_employment/)
+- [What does “your app’s illustrated artwork doesn’t occupy entire icon” mean and how do I fix it?](https://www.reddit.com/r/androiddev/comments/14nctkf/what_does_your_apps_illustrated_artwork_doesnt/)
+- [Can I do Android development in my laptop? i3 11th gen, 8 GB Ram ,512 GB SSD?](https://www.reddit.com/r/androiddev/comments/14nbvcm/can_i_do_android_development_in_my_laptop_i3_11th/)
+- [Disabling vibrations in app?](https://www.reddit.com/r/androiddev/comments/14nams0/disabling_vibrations_in_app/)
+- [Seeking Advice on the Lifecycle for Structuring an Application](https://www.reddit.com/r/androiddev/comments/14na2wq/seeking_advice_on_the_lifecycle_for_structuring/)
+- [Extract a part of an apk and use it](https://www.reddit.com/r/androiddev/comments/14n9kb3/extract_a_part_of_an_apk_and_use_it/)
+- [cant find any img for &quot;imo q&quot; phone](https://www.reddit.com/r/androiddev/comments/14n76mb/cant_find_any_img_for_imo_q_phone/)
+- [Why is it not a statement?](https://www.reddit.com/r/androiddev/comments/14n6ao2/why_is_it_not_a_statement/)
+- [What tools do you guys use to localize apps quickly?](https://www.reddit.com/r/androiddev/comments/14n5q7a/what_tools_do_you_guys_use_to_localize_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
