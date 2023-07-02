@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Jetpack compose - Budget app](https://www.reddit.com/r/androiddev/comments/14ned9a/android_jetpack_compose_budget_app/)
-- [Possible employment.](https://www.reddit.com/r/androiddev/comments/14ne23u/possible_employment/)
-- [What does “your app’s illustrated artwork doesn’t occupy entire icon” mean and how do I fix it?](https://www.reddit.com/r/androiddev/comments/14nctkf/what_does_your_apps_illustrated_artwork_doesnt/)
-- [Can I do Android development in my laptop? i3 11th gen, 8 GB Ram ,512 GB SSD?](https://www.reddit.com/r/androiddev/comments/14nbvcm/can_i_do_android_development_in_my_laptop_i3_11th/)
-- [Disabling vibrations in app?](https://www.reddit.com/r/androiddev/comments/14nams0/disabling_vibrations_in_app/)
-- [Seeking Advice on the Lifecycle for Structuring an Application](https://www.reddit.com/r/androiddev/comments/14na2wq/seeking_advice_on_the_lifecycle_for_structuring/)
-- [Extract a part of an apk and use it](https://www.reddit.com/r/androiddev/comments/14n9kb3/extract_a_part_of_an_apk_and_use_it/)
-- [cant find any img for &quot;imo q&quot; phone](https://www.reddit.com/r/androiddev/comments/14n76mb/cant_find_any_img_for_imo_q_phone/)
-- [Why is it not a statement?](https://www.reddit.com/r/androiddev/comments/14n6ao2/why_is_it_not_a_statement/)
-- [What tools do you guys use to localize apps quickly?](https://www.reddit.com/r/androiddev/comments/14n5q7a/what_tools_do_you_guys_use_to_localize_apps/)
+- [People who give such reviews never answer](https://www.reddit.com/r/androiddev/comments/14obm2n/people_who_give_such_reviews_never_answer/)
+- [Modern mobile app development for Android](https://www.reddit.com/r/androiddev/comments/14oaf0s/modern_mobile_app_development_for_android/)
+- [Is there anything similar to Yarn or NPM but for Gradle?](https://www.reddit.com/r/androiddev/comments/14oa29z/is_there_anything_similar_to_yarn_or_npm_but_for/)
+- [Carving the Path to Modularity: A Lobzik Tool Case Study on the ProtonMail Android App](https://www.reddit.com/r/androiddev/comments/14o8wdm/carving_the_path_to_modularity_a_lobzik_tool_case/)
+- [What replaced BottomNavigationItem?](https://www.reddit.com/r/androiddev/comments/14o2tws/what_replaced_bottomnavigationitem/)
+- [Get ready for an adrenaline-fueled, laughter-inducing adventure like never before in this thrilling car game! It&#39;s called TaliVan and it&#39;s up on Play Store, link in the comments!](https://www.reddit.com/r/androiddev/comments/14o2mb4/get_ready_for_an_adrenalinefueled/)
+- [SpringAnimation not work as expected](https://www.reddit.com/r/androiddev/comments/14o2aph/springanimation_not_work_as_expected/)
+- [FancyShowCaseView &lpar;Spotlight&rpar; no longer works?](https://www.reddit.com/r/androiddev/comments/14o258f/fancyshowcaseview_spotlight_no_longer_works/)
+- [About 50% of my payments are in THB, IDR, MYR, payment pending. Anybody knows why? My game isn&#39;t even that popular in these countries.](https://www.reddit.com/r/androiddev/comments/14nxbdh/about_50_of_my_payments_are_in_thb_idr_myr/)
+- [Is it possible to get resolution of a frame while decoding it by MediaCodec?](https://www.reddit.com/r/androiddev/comments/14nvlp4/is_it_possible_to_get_resolution_of_a_frame_while/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
