@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Streaming audio from PC to phone as Microphone](https://www.reddit.com/r/androiddev/comments/14p60w7/streaming_audio_from_pc_to_phone_as_microphone/)
-- [My app is ready to be published. How do I make an icon?](https://www.reddit.com/r/androiddev/comments/14p5pfa/my_app_is_ready_to_be_published_how_do_i_make_an/)
-- [NavController.popEntryFromBackStack - Not the top of the back stack.](https://www.reddit.com/r/androiddev/comments/14p595d/navcontrollerpopentryfrombackstack_not_the_top_of/)
-- [How hard is it to make a mobile game with unity as an Android developer?](https://www.reddit.com/r/androiddev/comments/14oz9qc/how_hard_is_it_to_make_a_mobile_game_with_unity/)
-- [Android studio constantly freezing.](https://www.reddit.com/r/androiddev/comments/14ow4id/android_studio_constantly_freezing/)
-- [Complying to AdMob policies for apps targeted at everyone &lpar;including children&rpar;](https://www.reddit.com/r/androiddev/comments/14ovu07/complying_to_admob_policies_for_apps_targeted_at/)
-- [Where To Go For Mentorship?](https://www.reddit.com/r/androiddev/comments/14oulek/where_to_go_for_mentorship/)
-- [Is this a good Android course in 2023?](https://www.reddit.com/r/androiddev/comments/14ou2iq/is_this_a_good_android_course_in_2023/)
-- [I received approval for my app’s ads in AdMob, and the ads were displaying nicely in test mode. However, after removing the test device, the live ads have not been showing for over 24 hours.](https://www.reddit.com/r/androiddev/comments/14oo4np/i_received_approval_for_my_apps_ads_in_admob_and/)
-- [Pixel 7 media player on home screen](https://www.reddit.com/r/androiddev/comments/14onx0j/pixel_7_media_player_on_home_screen/)
+- [Edit an app](https://www.reddit.com/r/androiddev/comments/14pwo1a/edit_an_app/)
+- [No Mocks Allowed | Marcello Galhardo](https://www.reddit.com/r/androiddev/comments/14pwlgk/no_mocks_allowed_marcello_galhardo/)
+- [Does appealing on Playstore takes a longer time than 3 days?](https://www.reddit.com/r/androiddev/comments/14pqsgc/does_appealing_on_playstore_takes_a_longer_time/)
+- [I want to sell my android apps as i need funds for myself and for sister&#39;s education. But i don&#39;t know what is the right price of those apps?](https://www.reddit.com/r/androiddev/comments/14ppvqa/i_want_to_sell_my_android_apps_as_i_need_funds/)
+- [Jetpack Compose App shows text in Dark color in Dark Mode.](https://www.reddit.com/r/androiddev/comments/14pnqsg/jetpack_compose_app_shows_text_in_dark_color_in/)
+- [Removing trackers and while using fcm](https://www.reddit.com/r/androiddev/comments/14pm0mc/removing_trackers_and_while_using_fcm/)
+- [New permissions added to my flutter app update while I have not made much changes](https://www.reddit.com/r/androiddev/comments/14plscw/new_permissions_added_to_my_flutter_app_update/)
+- [7 Key Challenges of Enterprise Mobile App Development and How to Overcome Them](https://www.reddit.com/r/androiddev/comments/14pklo1/7_key_challenges_of_enterprise_mobile_app/)
+- [Database operations in Android app](https://www.reddit.com/r/androiddev/comments/14pk8wz/database_operations_in_android_app/)
+- [Some questions regarding android peripheral development](https://www.reddit.com/r/androiddev/comments/14pjhgu/some_questions_regarding_android_peripheral/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
