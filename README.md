@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Edit an app](https://www.reddit.com/r/androiddev/comments/14pwo1a/edit_an_app/)
-- [No Mocks Allowed | Marcello Galhardo](https://www.reddit.com/r/androiddev/comments/14pwlgk/no_mocks_allowed_marcello_galhardo/)
-- [Does appealing on Playstore takes a longer time than 3 days?](https://www.reddit.com/r/androiddev/comments/14pqsgc/does_appealing_on_playstore_takes_a_longer_time/)
-- [I want to sell my android apps as i need funds for myself and for sister&#39;s education. But i don&#39;t know what is the right price of those apps?](https://www.reddit.com/r/androiddev/comments/14ppvqa/i_want_to_sell_my_android_apps_as_i_need_funds/)
-- [Jetpack Compose App shows text in Dark color in Dark Mode.](https://www.reddit.com/r/androiddev/comments/14pnqsg/jetpack_compose_app_shows_text_in_dark_color_in/)
-- [Removing trackers and while using fcm](https://www.reddit.com/r/androiddev/comments/14pm0mc/removing_trackers_and_while_using_fcm/)
-- [New permissions added to my flutter app update while I have not made much changes](https://www.reddit.com/r/androiddev/comments/14plscw/new_permissions_added_to_my_flutter_app_update/)
-- [7 Key Challenges of Enterprise Mobile App Development and How to Overcome Them](https://www.reddit.com/r/androiddev/comments/14pklo1/7_key_challenges_of_enterprise_mobile_app/)
-- [Database operations in Android app](https://www.reddit.com/r/androiddev/comments/14pk8wz/database_operations_in_android_app/)
-- [Some questions regarding android peripheral development](https://www.reddit.com/r/androiddev/comments/14pjhgu/some_questions_regarding_android_peripheral/)
+- [Android testing question](https://www.reddit.com/r/androiddev/comments/14qx9jf/android_testing_question/)
+- [Most efficient way to animate height based on scroll position](https://www.reddit.com/r/androiddev/comments/14qwj9f/most_efficient_way_to_animate_height_based_on/)
+- [How much does an app with a million downloads make?](https://www.reddit.com/r/androiddev/comments/14qwb0a/how_much_does_an_app_with_a_million_downloads_make/)
+- [WebView playing audio in background](https://www.reddit.com/r/androiddev/comments/14qu67k/webview_playing_audio_in_background/)
+- [Android studio freezing](https://www.reddit.com/r/androiddev/comments/14qsres/android_studio_freezing/)
+- [Looking for jobs in the europe as android developer with sponsorship](https://www.reddit.com/r/androiddev/comments/14qsf81/looking_for_jobs_in_the_europe_as_android/)
+- [Android Studio Won&#39;t let me learn git and github](https://www.reddit.com/r/androiddev/comments/14qrql9/android_studio_wont_let_me_learn_git_and_github/)
+- [Android 13 per app language is broken imo](https://www.reddit.com/r/androiddev/comments/14qqc5y/android_13_per_app_language_is_broken_imo/)
+- [Can I run apps for android 7.0+ on Android 6.0?](https://www.reddit.com/r/androiddev/comments/14qoz5g/can_i_run_apps_for_android_70_on_android_60/)
+- [Sync gradle files in android studio](https://www.reddit.com/r/androiddev/comments/14qneb8/sync_gradle_files_in_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
