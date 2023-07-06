@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android testing question](https://www.reddit.com/r/androiddev/comments/14qx9jf/android_testing_question/)
-- [Most efficient way to animate height based on scroll position](https://www.reddit.com/r/androiddev/comments/14qwj9f/most_efficient_way_to_animate_height_based_on/)
-- [How much does an app with a million downloads make?](https://www.reddit.com/r/androiddev/comments/14qwb0a/how_much_does_an_app_with_a_million_downloads_make/)
-- [WebView playing audio in background](https://www.reddit.com/r/androiddev/comments/14qu67k/webview_playing_audio_in_background/)
-- [Android studio freezing](https://www.reddit.com/r/androiddev/comments/14qsres/android_studio_freezing/)
-- [Looking for jobs in the europe as android developer with sponsorship](https://www.reddit.com/r/androiddev/comments/14qsf81/looking_for_jobs_in_the_europe_as_android/)
-- [Android Studio Won&#39;t let me learn git and github](https://www.reddit.com/r/androiddev/comments/14qrql9/android_studio_wont_let_me_learn_git_and_github/)
-- [Android 13 per app language is broken imo](https://www.reddit.com/r/androiddev/comments/14qqc5y/android_13_per_app_language_is_broken_imo/)
-- [Can I run apps for android 7.0+ on Android 6.0?](https://www.reddit.com/r/androiddev/comments/14qoz5g/can_i_run_apps_for_android_70_on_android_60/)
-- [Sync gradle files in android studio](https://www.reddit.com/r/androiddev/comments/14qneb8/sync_gradle_files_in_android_studio/)
+- [LazyColumn performance issues. Is it the RecyclerView replacement?](https://www.reddit.com/r/androiddev/comments/14ruue3/lazycolumn_performance_issues_is_it_the/)
+- [Any available libraries that has the same capabilities of Windows Paint?](https://www.reddit.com/r/androiddev/comments/14ruu78/any_available_libraries_that_has_the_same/)
+- [How can I change this currency to my home currency&lpar;not USD&rpar;. Eversince the new play console my revenue is always shown 0 use on my homepage, recently I transferred an app to another play console there the revenue is shown correctly in my home currency, so how can I change the reporting currency.](https://www.reddit.com/r/androiddev/comments/14rsk6j/how_can_i_change_this_currency_to_my_home/)
+- [[Self-Learning] Join Weekly Compose Challenge](https://www.reddit.com/r/androiddev/comments/14rsfvm/selflearning_join_weekly_compose_challenge/)
+- [SDK Monetization](https://www.reddit.com/r/androiddev/comments/14rq0gk/sdk_monetization/)
+- [Native UI and multiplatform Compose with Redwood](https://www.reddit.com/r/androiddev/comments/14rpezy/native_ui_and_multiplatform_compose_with_redwood/)
+- [Users &quot;got a billing issue&quot; and &quot;Subscription cancelled due to a billing error&quot; on RevenueCat](https://www.reddit.com/r/androiddev/comments/14rny7k/users_got_a_billing_issue_and_subscription/)
+- [How would you implement this ?](https://www.reddit.com/r/androiddev/comments/14rntjv/how_would_you_implement_this/)
+- [Solfeggio Music Player](https://www.reddit.com/r/androiddev/comments/14rnq7l/solfeggio_music_player/)
+- [My Google Play Developer Account terminated because of Association with terminated Developer Accounts and i don&#39;t even have an another Developer Account.](https://www.reddit.com/r/androiddev/comments/14rn9rx/my_google_play_developer_account_terminated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
