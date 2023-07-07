@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [LazyColumn performance issues. Is it the RecyclerView replacement?](https://www.reddit.com/r/androiddev/comments/14ruue3/lazycolumn_performance_issues_is_it_the/)
-- [Any available libraries that has the same capabilities of Windows Paint?](https://www.reddit.com/r/androiddev/comments/14ruu78/any_available_libraries_that_has_the_same/)
-- [How can I change this currency to my home currency&lpar;not USD&rpar;. Eversince the new play console my revenue is always shown 0 use on my homepage, recently I transferred an app to another play console there the revenue is shown correctly in my home currency, so how can I change the reporting currency.](https://www.reddit.com/r/androiddev/comments/14rsk6j/how_can_i_change_this_currency_to_my_home/)
-- [[Self-Learning] Join Weekly Compose Challenge](https://www.reddit.com/r/androiddev/comments/14rsfvm/selflearning_join_weekly_compose_challenge/)
-- [SDK Monetization](https://www.reddit.com/r/androiddev/comments/14rq0gk/sdk_monetization/)
-- [Native UI and multiplatform Compose with Redwood](https://www.reddit.com/r/androiddev/comments/14rpezy/native_ui_and_multiplatform_compose_with_redwood/)
-- [Users &quot;got a billing issue&quot; and &quot;Subscription cancelled due to a billing error&quot; on RevenueCat](https://www.reddit.com/r/androiddev/comments/14rny7k/users_got_a_billing_issue_and_subscription/)
-- [How would you implement this ?](https://www.reddit.com/r/androiddev/comments/14rntjv/how_would_you_implement_this/)
-- [Solfeggio Music Player](https://www.reddit.com/r/androiddev/comments/14rnq7l/solfeggio_music_player/)
-- [My Google Play Developer Account terminated because of Association with terminated Developer Accounts and i don&#39;t even have an another Developer Account.](https://www.reddit.com/r/androiddev/comments/14rn9rx/my_google_play_developer_account_terminated/)
+- [Xml or compose for fast app dev?](https://www.reddit.com/r/androiddev/comments/14st9jf/xml_or_compose_for_fast_app_dev/)
+- [Can developer reply on the store reviewe private?](https://www.reddit.com/r/androiddev/comments/14spa96/can_developer_reply_on_the_store_reviewe_private/)
+- [Threads is written almost completely in Jetpack Compose 🔥](https://www.reddit.com/r/androiddev/comments/14skdld/threads_is_written_almost_completely_in_jetpack/)
+- [Need feedback on my app development plan](https://www.reddit.com/r/androiddev/comments/14sk4lk/need_feedback_on_my_app_development_plan/)
+- [A Guide to Filament for Android](https://www.reddit.com/r/androiddev/comments/14sg7zp/a_guide_to_filament_for_android/)
+- [mooi - translating and managing product copies using GPT](https://www.reddit.com/r/androiddev/comments/14sg5cz/mooi_translating_and_managing_product_copies/)
+- [How do apps set ownership and permissions?](https://www.reddit.com/r/androiddev/comments/14sfg06/how_do_apps_set_ownership_and_permissions/)
+- [Someone ease explain this paragraph](https://www.reddit.com/r/androiddev/comments/14se28b/someone_ease_explain_this_paragraph/)
+- [Kotlin 1.9.0 Released](https://www.reddit.com/r/androiddev/comments/14scipq/kotlin_190_released/)
+- [Are you targeting/compiling against SDK version 34 yet?](https://www.reddit.com/r/androiddev/comments/14sbre6/are_you_targetingcompiling_against_sdk_version_34/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
