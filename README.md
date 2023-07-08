@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Xml or compose for fast app dev?](https://www.reddit.com/r/androiddev/comments/14st9jf/xml_or_compose_for_fast_app_dev/)
-- [Can developer reply on the store reviewe private?](https://www.reddit.com/r/androiddev/comments/14spa96/can_developer_reply_on_the_store_reviewe_private/)
-- [Threads is written almost completely in Jetpack Compose 🔥](https://www.reddit.com/r/androiddev/comments/14skdld/threads_is_written_almost_completely_in_jetpack/)
-- [Need feedback on my app development plan](https://www.reddit.com/r/androiddev/comments/14sk4lk/need_feedback_on_my_app_development_plan/)
-- [A Guide to Filament for Android](https://www.reddit.com/r/androiddev/comments/14sg7zp/a_guide_to_filament_for_android/)
-- [mooi - translating and managing product copies using GPT](https://www.reddit.com/r/androiddev/comments/14sg5cz/mooi_translating_and_managing_product_copies/)
-- [How do apps set ownership and permissions?](https://www.reddit.com/r/androiddev/comments/14sfg06/how_do_apps_set_ownership_and_permissions/)
-- [Someone ease explain this paragraph](https://www.reddit.com/r/androiddev/comments/14se28b/someone_ease_explain_this_paragraph/)
-- [Kotlin 1.9.0 Released](https://www.reddit.com/r/androiddev/comments/14scipq/kotlin_190_released/)
-- [Are you targeting/compiling against SDK version 34 yet?](https://www.reddit.com/r/androiddev/comments/14sbre6/are_you_targetingcompiling_against_sdk_version_34/)
+- [Accelerometer application](https://www.reddit.com/r/androiddev/comments/14tk7ot/accelerometer_application/)
+- [Play console account requires address?](https://www.reddit.com/r/androiddev/comments/14tjxz5/play_console_account_requires_address/)
+- [Analysis of the Threads APK](https://www.reddit.com/r/androiddev/comments/14tjmct/analysis_of_the_threads_apk/)
+- [Cofounder copied the app and data](https://www.reddit.com/r/androiddev/comments/14tj9b8/cofounder_copied_the_app_and_data/)
+- [Add Line chart using Vico lib](https://www.reddit.com/r/androiddev/comments/14tgba6/add_line_chart_using_vico_lib/)
+- [Android Studio Hedgehog Canary 11 now available](https://www.reddit.com/r/androiddev/comments/14tcu8m/android_studio_hedgehog_canary_11_now_available/)
+- [A weird appstore called Rootpk.](https://www.reddit.com/r/androiddev/comments/14tc8im/a_weird_appstore_called_rootpk/)
+- [Is there any way to control remotely my android box from my windows 10 PC when the devices are in different network each?](https://www.reddit.com/r/androiddev/comments/14tbx3o/is_there_any_way_to_control_remotely_my_android/)
+- [Is there a website to learn Smali ?](https://www.reddit.com/r/androiddev/comments/14tbttq/is_there_a_website_to_learn_smali/)
+- [c++ and andoid development](https://www.reddit.com/r/androiddev/comments/14t9nog/c_and_andoid_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
