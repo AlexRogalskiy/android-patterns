@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Accelerometer application](https://www.reddit.com/r/androiddev/comments/14tk7ot/accelerometer_application/)
-- [Play console account requires address?](https://www.reddit.com/r/androiddev/comments/14tjxz5/play_console_account_requires_address/)
-- [Analysis of the Threads APK](https://www.reddit.com/r/androiddev/comments/14tjmct/analysis_of_the_threads_apk/)
-- [Cofounder copied the app and data](https://www.reddit.com/r/androiddev/comments/14tj9b8/cofounder_copied_the_app_and_data/)
-- [Add Line chart using Vico lib](https://www.reddit.com/r/androiddev/comments/14tgba6/add_line_chart_using_vico_lib/)
-- [Android Studio Hedgehog Canary 11 now available](https://www.reddit.com/r/androiddev/comments/14tcu8m/android_studio_hedgehog_canary_11_now_available/)
-- [A weird appstore called Rootpk.](https://www.reddit.com/r/androiddev/comments/14tc8im/a_weird_appstore_called_rootpk/)
-- [Is there any way to control remotely my android box from my windows 10 PC when the devices are in different network each?](https://www.reddit.com/r/androiddev/comments/14tbx3o/is_there_any_way_to_control_remotely_my_android/)
-- [Is there a website to learn Smali ?](https://www.reddit.com/r/androiddev/comments/14tbttq/is_there_a_website_to_learn_smali/)
-- [c++ and andoid development](https://www.reddit.com/r/androiddev/comments/14t9nog/c_and_andoid_development/)
+- [Threads uses Compose!](https://www.reddit.com/r/androiddev/comments/14ukofj/threads_uses_compose/)
+- [Translation for your game or app.](https://www.reddit.com/r/androiddev/comments/14uddug/translation_for_your_game_or_app/)
+- [How does Jetpack Compose avoid double-measurement problems that were present in View layouts?](https://www.reddit.com/r/androiddev/comments/14ucele/how_does_jetpack_compose_avoid_doublemeasurement/)
+- [Is creating ULM class diagram for android apps is a good practice ?](https://www.reddit.com/r/androiddev/comments/14u8ica/is_creating_ulm_class_diagram_for_android_apps_is/)
+- [How can i get json format from the Threads URL , Does anyone figured it out ?](https://www.reddit.com/r/androiddev/comments/14u7j5j/how_can_i_get_json_format_from_the_threads_url/)
+- [Is it possible in Android Dev to land a job by contributing in open source ?](https://www.reddit.com/r/androiddev/comments/14u7bur/is_it_possible_in_android_dev_to_land_a_job_by/)
+- [Compose Multiplatform: Launching an Android App on iOS](https://www.reddit.com/r/androiddev/comments/14u7bkn/compose_multiplatform_launching_an_android_app_on/)
+- [Handling multiple user types using multi module - possible/advisable?](https://www.reddit.com/r/androiddev/comments/14u4umw/handling_multiple_user_types_using_multi_module/)
+- [Can I control the animation of already installed app?](https://www.reddit.com/r/androiddev/comments/14u4n5e/can_i_control_the_animation_of_already_installed/)
+- [Google Accounts](https://www.reddit.com/r/androiddev/comments/14u492k/google_accounts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
