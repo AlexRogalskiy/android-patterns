@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Threads uses Compose!](https://www.reddit.com/r/androiddev/comments/14ukofj/threads_uses_compose/)
-- [Translation for your game or app.](https://www.reddit.com/r/androiddev/comments/14uddug/translation_for_your_game_or_app/)
-- [How does Jetpack Compose avoid double-measurement problems that were present in View layouts?](https://www.reddit.com/r/androiddev/comments/14ucele/how_does_jetpack_compose_avoid_doublemeasurement/)
-- [Is creating ULM class diagram for android apps is a good practice ?](https://www.reddit.com/r/androiddev/comments/14u8ica/is_creating_ulm_class_diagram_for_android_apps_is/)
-- [How can i get json format from the Threads URL , Does anyone figured it out ?](https://www.reddit.com/r/androiddev/comments/14u7j5j/how_can_i_get_json_format_from_the_threads_url/)
-- [Is it possible in Android Dev to land a job by contributing in open source ?](https://www.reddit.com/r/androiddev/comments/14u7bur/is_it_possible_in_android_dev_to_land_a_job_by/)
-- [Compose Multiplatform: Launching an Android App on iOS](https://www.reddit.com/r/androiddev/comments/14u7bkn/compose_multiplatform_launching_an_android_app_on/)
-- [Handling multiple user types using multi module - possible/advisable?](https://www.reddit.com/r/androiddev/comments/14u4umw/handling_multiple_user_types_using_multi_module/)
-- [Can I control the animation of already installed app?](https://www.reddit.com/r/androiddev/comments/14u4n5e/can_i_control_the_animation_of_already_installed/)
-- [Google Accounts](https://www.reddit.com/r/androiddev/comments/14u492k/google_accounts/)
+- [How does Android differentiates between fling and drag?](https://www.reddit.com/r/androiddev/comments/14vgrka/how_does_android_differentiates_between_fling_and/)
+- [What is the jetpack compose DX when it comes build times these days?](https://www.reddit.com/r/androiddev/comments/14vf9sv/what_is_the_jetpack_compose_dx_when_it_comes/)
+- [Pocketcode](https://www.reddit.com/r/androiddev/comments/14vcz7u/pocketcode/)
+- [Finally list days of week](https://www.reddit.com/r/androiddev/comments/14v8hhi/finally_list_days_of_week/)
+- [Is it possible to debug Android apps like what we can do from developer tools in web browser by adding breakpoints?](https://www.reddit.com/r/androiddev/comments/14v67gv/is_it_possible_to_debug_android_apps_like_what_we/)
+- [My Google Play Developer Account terminated because of Association with terminated Developer Accounts but I do not own another Developer Account.](https://www.reddit.com/r/androiddev/comments/14v650p/my_google_play_developer_account_terminated/)
+- [Scanner library](https://www.reddit.com/r/androiddev/comments/14v4257/scanner_library/)
+- [Help with minor edit to APK](https://www.reddit.com/r/androiddev/comments/14v1kol/help_with_minor_edit_to_apk/)
+- [Offsets and Custom Gestures in compose](https://www.reddit.com/r/androiddev/comments/14v0f96/offsets_and_custom_gestures_in_compose/)
+- [Is possibile to hide annotations outside the folders?](https://www.reddit.com/r/androiddev/comments/14v09tp/is_possibile_to_hide_annotations_outside_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
