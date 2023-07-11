@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How does Android differentiates between fling and drag?](https://www.reddit.com/r/androiddev/comments/14vgrka/how_does_android_differentiates_between_fling_and/)
-- [What is the jetpack compose DX when it comes build times these days?](https://www.reddit.com/r/androiddev/comments/14vf9sv/what_is_the_jetpack_compose_dx_when_it_comes/)
-- [Pocketcode](https://www.reddit.com/r/androiddev/comments/14vcz7u/pocketcode/)
-- [Finally list days of week](https://www.reddit.com/r/androiddev/comments/14v8hhi/finally_list_days_of_week/)
-- [Is it possible to debug Android apps like what we can do from developer tools in web browser by adding breakpoints?](https://www.reddit.com/r/androiddev/comments/14v67gv/is_it_possible_to_debug_android_apps_like_what_we/)
-- [My Google Play Developer Account terminated because of Association with terminated Developer Accounts but I do not own another Developer Account.](https://www.reddit.com/r/androiddev/comments/14v650p/my_google_play_developer_account_terminated/)
-- [Scanner library](https://www.reddit.com/r/androiddev/comments/14v4257/scanner_library/)
-- [Help with minor edit to APK](https://www.reddit.com/r/androiddev/comments/14v1kol/help_with_minor_edit_to_apk/)
-- [Offsets and Custom Gestures in compose](https://www.reddit.com/r/androiddev/comments/14v0f96/offsets_and_custom_gestures_in_compose/)
-- [Is possibile to hide annotations outside the folders?](https://www.reddit.com/r/androiddev/comments/14v09tp/is_possibile_to_hide_annotations_outside_the/)
+- [Have you encountered projects that were beyond saving?](https://www.reddit.com/r/androiddev/comments/14wajyl/have_you_encountered_projects_that_were_beyond/)
+- [Shared notes app made with nocode](https://www.reddit.com/r/androiddev/comments/14w98nw/shared_notes_app_made_with_nocode/)
+- [How do I remove this error after uploading my game to google play console?](https://www.reddit.com/r/androiddev/comments/14w8q93/how_do_i_remove_this_error_after_uploading_my/)
+- [Why so many people are quitting Android development](https://www.reddit.com/r/androiddev/comments/14w6sdj/why_so_many_people_are_quitting_android/)
+- [Made a complete Downloading Service for Android in a week](https://www.reddit.com/r/androiddev/comments/14w4ni6/made_a_complete_downloading_service_for_android/)
+- [What TechStack used to make Bitmoji/Avatars????](https://www.reddit.com/r/androiddev/comments/14w42lz/what_techstack_used_to_make_bitmojiavatars/)
+- [Debug recomposition](https://www.reddit.com/r/androiddev/comments/14w3cfg/debug_recomposition/)
+- [If you are a developer, here is the Android sperm...](https://www.reddit.com/r/androiddev/comments/14w28m6/if_you_are_a_developer_here_is_the_android_sperm/)
+- [Can you please share your opinion on app I made with barcode scanning kit and OpenFoodFacts API](https://www.reddit.com/r/androiddev/comments/14w0sme/can_you_please_share_your_opinion_on_app_i_made/)
+- [Capturing analytics Instrumentation events - doubt](https://www.reddit.com/r/androiddev/comments/14w0n2i/capturing_analytics_instrumentation_events_doubt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
