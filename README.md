@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Have you encountered projects that were beyond saving?](https://www.reddit.com/r/androiddev/comments/14wajyl/have_you_encountered_projects_that_were_beyond/)
-- [Shared notes app made with nocode](https://www.reddit.com/r/androiddev/comments/14w98nw/shared_notes_app_made_with_nocode/)
-- [How do I remove this error after uploading my game to google play console?](https://www.reddit.com/r/androiddev/comments/14w8q93/how_do_i_remove_this_error_after_uploading_my/)
-- [Why so many people are quitting Android development](https://www.reddit.com/r/androiddev/comments/14w6sdj/why_so_many_people_are_quitting_android/)
-- [Made a complete Downloading Service for Android in a week](https://www.reddit.com/r/androiddev/comments/14w4ni6/made_a_complete_downloading_service_for_android/)
-- [What TechStack used to make Bitmoji/Avatars????](https://www.reddit.com/r/androiddev/comments/14w42lz/what_techstack_used_to_make_bitmojiavatars/)
-- [Debug recomposition](https://www.reddit.com/r/androiddev/comments/14w3cfg/debug_recomposition/)
-- [If you are a developer, here is the Android sperm...](https://www.reddit.com/r/androiddev/comments/14w28m6/if_you_are_a_developer_here_is_the_android_sperm/)
-- [Can you please share your opinion on app I made with barcode scanning kit and OpenFoodFacts API](https://www.reddit.com/r/androiddev/comments/14w0sme/can_you_please_share_your_opinion_on_app_i_made/)
-- [Capturing analytics Instrumentation events - doubt](https://www.reddit.com/r/androiddev/comments/14w0n2i/capturing_analytics_instrumentation_events_doubt/)
+- [Way or viewing network requests?](https://www.reddit.com/r/androiddev/comments/14x8eed/way_or_viewing_network_requests/)
+- [Android Studio Hedgehog Canary 12 now available](https://www.reddit.com/r/androiddev/comments/14x6fxi/android_studio_hedgehog_canary_12_now_available/)
+- [Is there a way to integrate Unity games into Android app?](https://www.reddit.com/r/androiddev/comments/14x41pk/is_there_a_way_to_integrate_unity_games_into/)
+- [Testing on a mobile that uses a suspended console account gmail](https://www.reddit.com/r/androiddev/comments/14x2qav/testing_on_a_mobile_that_uses_a_suspended_console/)
+- [Data log nfc or app](https://www.reddit.com/r/androiddev/comments/14x1znn/data_log_nfc_or_app/)
+- [PendingIntent issue: android.support.wearable.complications.ComplicationHelperActivity.requestUpdateAll](https://www.reddit.com/r/androiddev/comments/14x1xl1/pendingintent_issue/)
+- [Dilemma: Want to test a singlton object call inside a viewmodelTest](https://www.reddit.com/r/androiddev/comments/14x1ww5/dilemma_want_to_test_a_singlton_object_call/)
+- [Podcast: Kotlin Multiplatform in Production: Insights with Ritesh Gupta](https://www.reddit.com/r/androiddev/comments/14x105i/podcast_kotlin_multiplatform_in_production/)
+- [User-Centric Mobile Performance](https://www.reddit.com/r/androiddev/comments/14x0sbf/usercentric_mobile_performance/)
+- [Hey guys please what&#39;s the best way to get started learning jetpack compose, and what are the Kotlin stuff I need to know to get started, I understand you can&#39;t learn a whole language at once, I&#39;m coming from Flutter and Dart btw. Thanks 👍](https://www.reddit.com/r/androiddev/comments/14wzs51/hey_guys_please_whats_the_best_way_to_get_started/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
