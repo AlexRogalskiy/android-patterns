@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Way or viewing network requests?](https://www.reddit.com/r/androiddev/comments/14x8eed/way_or_viewing_network_requests/)
-- [Android Studio Hedgehog Canary 12 now available](https://www.reddit.com/r/androiddev/comments/14x6fxi/android_studio_hedgehog_canary_12_now_available/)
-- [Is there a way to integrate Unity games into Android app?](https://www.reddit.com/r/androiddev/comments/14x41pk/is_there_a_way_to_integrate_unity_games_into/)
-- [Testing on a mobile that uses a suspended console account gmail](https://www.reddit.com/r/androiddev/comments/14x2qav/testing_on_a_mobile_that_uses_a_suspended_console/)
-- [Data log nfc or app](https://www.reddit.com/r/androiddev/comments/14x1znn/data_log_nfc_or_app/)
-- [PendingIntent issue: android.support.wearable.complications.ComplicationHelperActivity.requestUpdateAll](https://www.reddit.com/r/androiddev/comments/14x1xl1/pendingintent_issue/)
-- [Dilemma: Want to test a singlton object call inside a viewmodelTest](https://www.reddit.com/r/androiddev/comments/14x1ww5/dilemma_want_to_test_a_singlton_object_call/)
-- [Podcast: Kotlin Multiplatform in Production: Insights with Ritesh Gupta](https://www.reddit.com/r/androiddev/comments/14x105i/podcast_kotlin_multiplatform_in_production/)
-- [User-Centric Mobile Performance](https://www.reddit.com/r/androiddev/comments/14x0sbf/usercentric_mobile_performance/)
-- [Hey guys please what&#39;s the best way to get started learning jetpack compose, and what are the Kotlin stuff I need to know to get started, I understand you can&#39;t learn a whole language at once, I&#39;m coming from Flutter and Dart btw. Thanks 👍](https://www.reddit.com/r/androiddev/comments/14wzs51/hey_guys_please_whats_the_best_way_to_get_started/)
+- [WearOS: Watch to Phone MediaBrowserService without DataLayer API?](https://www.reddit.com/r/androiddev/comments/14y54to/wearos_watch_to_phone_mediabrowserservice_without/)
+- [[Need a solution] I want to emulate an android app installed on my phone by cloning into another phone or Android Stdio emulator](https://www.reddit.com/r/androiddev/comments/14y4glb/need_a_solution_i_want_to_emulate_an_android_app/)
+- [My first app published!!](https://www.reddit.com/r/androiddev/comments/14y1132/my_first_app_published/)
+- [React Native momentum scrolling vs Native Android](https://www.reddit.com/r/androiddev/comments/14y0kqb/react_native_momentum_scrolling_vs_native_android/)
+- [How to manage users on an android app](https://www.reddit.com/r/androiddev/comments/14y0csz/how_to_manage_users_on_an_android_app/)
+- [How to initialize a Room SQL Database without a ViewModel?](https://www.reddit.com/r/androiddev/comments/14y04fv/how_to_initialize_a_room_sql_database_without_a/)
+- [How does LocationManager.NETWORK_PROVIDER internally work?](https://www.reddit.com/r/androiddev/comments/14xz5l2/how_does_locationmanagernetwork_provider/)
+- [How to change viewText text with kotlin](https://www.reddit.com/r/androiddev/comments/14xyd85/how_to_change_viewtext_text_with_kotlin/)
+- [which andriod pc emulator supports andriod 12 ?](https://www.reddit.com/r/androiddev/comments/14xx06j/which_andriod_pc_emulator_supports_andriod_12/)
+- [How to retain images when switching fragnents?](https://www.reddit.com/r/androiddev/comments/14xwmva/how_to_retain_images_when_switching_fragnents/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
