@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [WearOS: Watch to Phone MediaBrowserService without DataLayer API?](https://www.reddit.com/r/androiddev/comments/14y54to/wearos_watch_to_phone_mediabrowserservice_without/)
-- [[Need a solution] I want to emulate an android app installed on my phone by cloning into another phone or Android Stdio emulator](https://www.reddit.com/r/androiddev/comments/14y4glb/need_a_solution_i_want_to_emulate_an_android_app/)
-- [My first app published!!](https://www.reddit.com/r/androiddev/comments/14y1132/my_first_app_published/)
-- [React Native momentum scrolling vs Native Android](https://www.reddit.com/r/androiddev/comments/14y0kqb/react_native_momentum_scrolling_vs_native_android/)
-- [How to manage users on an android app](https://www.reddit.com/r/androiddev/comments/14y0csz/how_to_manage_users_on_an_android_app/)
-- [How to initialize a Room SQL Database without a ViewModel?](https://www.reddit.com/r/androiddev/comments/14y04fv/how_to_initialize_a_room_sql_database_without_a/)
-- [How does LocationManager.NETWORK_PROVIDER internally work?](https://www.reddit.com/r/androiddev/comments/14xz5l2/how_does_locationmanagernetwork_provider/)
-- [How to change viewText text with kotlin](https://www.reddit.com/r/androiddev/comments/14xyd85/how_to_change_viewtext_text_with_kotlin/)
-- [which andriod pc emulator supports andriod 12 ?](https://www.reddit.com/r/androiddev/comments/14xx06j/which_andriod_pc_emulator_supports_andriod_12/)
-- [How to retain images when switching fragnents?](https://www.reddit.com/r/androiddev/comments/14xwmva/how_to_retain_images_when_switching_fragnents/)
+- [Is it worth to get m2 mac mini for android development ? or just go with m1 chip](https://www.reddit.com/r/androiddev/comments/14z340s/is_it_worth_to_get_m2_mac_mini_for_android/)
+- [Im a big Noob.](https://www.reddit.com/r/androiddev/comments/14z04c0/im_a_big_noob/)
+- [Multiplatform image loading: Coil 3.0](https://www.reddit.com/r/androiddev/comments/14yzy5v/multiplatform_image_loading_coil_30/)
+- [Hello, im from Mexico City and i want some advice...](https://www.reddit.com/r/androiddev/comments/14yyj6t/hello_im_from_mexico_city_and_i_want_some_advice/)
+- [Question on earning money through ads in our app](https://www.reddit.com/r/androiddev/comments/14yxb9y/question_on_earning_money_through_ads_in_our_app/)
+- [Loaderskit](https://www.reddit.com/r/androiddev/comments/14yx6n5/loaderskit/)
+- [Public commercial projects](https://www.reddit.com/r/androiddev/comments/14yuysw/public_commercial_projects/)
+- [How do you manage versioning?](https://www.reddit.com/r/androiddev/comments/14yu3tf/how_do_you_manage_versioning/)
+- [Gradle build error while running Android application](https://www.reddit.com/r/androiddev/comments/14yq1xx/gradle_build_error_while_running_android/)
+- [Can I publish self signed apk using playstore?](https://www.reddit.com/r/androiddev/comments/14yolg8/can_i_publish_self_signed_apk_using_playstore/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
