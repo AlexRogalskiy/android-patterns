@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it worth to get m2 mac mini for android development ? or just go with m1 chip](https://www.reddit.com/r/androiddev/comments/14z340s/is_it_worth_to_get_m2_mac_mini_for_android/)
-- [Im a big Noob.](https://www.reddit.com/r/androiddev/comments/14z04c0/im_a_big_noob/)
-- [Multiplatform image loading: Coil 3.0](https://www.reddit.com/r/androiddev/comments/14yzy5v/multiplatform_image_loading_coil_30/)
-- [Hello, im from Mexico City and i want some advice...](https://www.reddit.com/r/androiddev/comments/14yyj6t/hello_im_from_mexico_city_and_i_want_some_advice/)
-- [Question on earning money through ads in our app](https://www.reddit.com/r/androiddev/comments/14yxb9y/question_on_earning_money_through_ads_in_our_app/)
-- [Loaderskit](https://www.reddit.com/r/androiddev/comments/14yx6n5/loaderskit/)
-- [Public commercial projects](https://www.reddit.com/r/androiddev/comments/14yuysw/public_commercial_projects/)
-- [How do you manage versioning?](https://www.reddit.com/r/androiddev/comments/14yu3tf/how_do_you_manage_versioning/)
-- [Gradle build error while running Android application](https://www.reddit.com/r/androiddev/comments/14yq1xx/gradle_build_error_while_running_android/)
-- [Can I publish self signed apk using playstore?](https://www.reddit.com/r/androiddev/comments/14yolg8/can_i_publish_self_signed_apk_using_playstore/)
+- [I often hear the builder pattern unnecessary in Kotlin, do you find that to be true?](https://www.reddit.com/r/androiddev/comments/14zyrdq/i_often_hear_the_builder_pattern_unnecessary_in/)
+- [How do i install root on my old SM-T377A tablet without getting a &quot; recovery.img&quot; error?](https://www.reddit.com/r/androiddev/comments/14zxcg7/how_do_i_install_root_on_my_old_smt377a_tablet/)
+- [Navigating Component - screen orientation](https://www.reddit.com/r/androiddev/comments/14zpeyo/navigating_component_screen_orientation/)
+- [Line chart](https://www.reddit.com/r/androiddev/comments/14zofve/line_chart/)
+- [Line chart impl](https://www.reddit.com/r/androiddev/comments/14zobfa/line_chart_impl/)
+- [Good practices when working with LiveData without ViewModels?](https://www.reddit.com/r/androiddev/comments/14zndem/good_practices_when_working_with_livedata_without/)
+- [Any worthwhile certifications/ courses to complete? &lpar;mid -&gt; senior dev&rpar;](https://www.reddit.com/r/androiddev/comments/14zmg11/any_worthwhile_certifications_courses_to_complete/)
+- [Do you feel well paid as a dev?](https://www.reddit.com/r/androiddev/comments/14zkxnt/do_you_feel_well_paid_as_a_dev/)
+- [Android chart library for &#39;unconventional&#39; figure](https://www.reddit.com/r/androiddev/comments/14zkqnd/android_chart_library_for_unconventional_figure/)
+- [Do you feel well paid as a dev?](https://www.reddit.com/r/androiddev/comments/14zkof1/do_you_feel_well_paid_as_a_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
