@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I often hear the builder pattern unnecessary in Kotlin, do you find that to be true?](https://www.reddit.com/r/androiddev/comments/14zyrdq/i_often_hear_the_builder_pattern_unnecessary_in/)
-- [How do i install root on my old SM-T377A tablet without getting a &quot; recovery.img&quot; error?](https://www.reddit.com/r/androiddev/comments/14zxcg7/how_do_i_install_root_on_my_old_smt377a_tablet/)
-- [Navigating Component - screen orientation](https://www.reddit.com/r/androiddev/comments/14zpeyo/navigating_component_screen_orientation/)
-- [Line chart](https://www.reddit.com/r/androiddev/comments/14zofve/line_chart/)
-- [Line chart impl](https://www.reddit.com/r/androiddev/comments/14zobfa/line_chart_impl/)
-- [Good practices when working with LiveData without ViewModels?](https://www.reddit.com/r/androiddev/comments/14zndem/good_practices_when_working_with_livedata_without/)
-- [Any worthwhile certifications/ courses to complete? &lpar;mid -&gt; senior dev&rpar;](https://www.reddit.com/r/androiddev/comments/14zmg11/any_worthwhile_certifications_courses_to_complete/)
-- [Do you feel well paid as a dev?](https://www.reddit.com/r/androiddev/comments/14zkxnt/do_you_feel_well_paid_as_a_dev/)
-- [Android chart library for &#39;unconventional&#39; figure](https://www.reddit.com/r/androiddev/comments/14zkqnd/android_chart_library_for_unconventional_figure/)
-- [Do you feel well paid as a dev?](https://www.reddit.com/r/androiddev/comments/14zkof1/do_you_feel_well_paid_as_a_dev/)
+- [Manga reader bug](https://www.reddit.com/r/androiddev/comments/150u3m4/manga_reader_bug/)
+- [Navigation fragment onCreateView&lpar;&rpar; not called on startup](https://www.reddit.com/r/androiddev/comments/150u16w/navigation_fragment_oncreateview_not_called_on/)
+- [Google terminated my developer console account just for renaming it.](https://www.reddit.com/r/androiddev/comments/150naym/google_terminated_my_developer_console_account/)
+- [Looking into moving to the UK, anyone know any company offering sponsorship for a senior/lead android dev?](https://www.reddit.com/r/androiddev/comments/150jvt4/looking_into_moving_to_the_uk_anyone_know_any/)
+- [Need help analysing this code](https://www.reddit.com/r/androiddev/comments/150jfqv/need_help_analysing_this_code/)
+- [Buying new laptop for android development](https://www.reddit.com/r/androiddev/comments/150j89f/buying_new_laptop_for_android_development/)
+- [Need help in developing a password manager](https://www.reddit.com/r/androiddev/comments/150ig01/need_help_in_developing_a_password_manager/)
+- [What’s Freelancing Like?](https://www.reddit.com/r/androiddev/comments/150go16/whats_freelancing_like/)
+- [How do you handle user authentication in your Android applications?](https://www.reddit.com/r/androiddev/comments/150g8og/how_do_you_handle_user_authentication_in_your/)
+- [Looking for the best video course about Kotlin Android Development](https://www.reddit.com/r/androiddev/comments/150f6ao/looking_for_the_best_video_course_about_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
