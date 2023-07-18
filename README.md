@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Oof – look, that&#39;s a legacy codebase!](https://www.reddit.com/r/androiddev/comments/151jnv2/oof_look_thats_a_legacy_codebase/)
-- [Looking to create a comprehensive list of things to consider in an interview/take-home task. Would love your suggestions](https://www.reddit.com/r/androiddev/comments/151hx83/looking_to_create_a_comprehensive_list_of_things/)
-- [Converting CSS animations to Android Java gives different results on different device screens](https://www.reddit.com/r/androiddev/comments/151hqh3/converting_css_animations_to_android_java_gives/)
-- [Displaying the correct AdMob GDPR message](https://www.reddit.com/r/androiddev/comments/151g18r/displaying_the_correct_admob_gdpr_message/)
-- [Lottie Android 6.1 - Lottie goes multithreaded](https://www.reddit.com/r/androiddev/comments/151fcbc/lottie_android_61_lottie_goes_multithreaded/)
-- [In Compose, how are we supposed to handle navigational events from nested composables such as pagers?](https://www.reddit.com/r/androiddev/comments/151du4h/in_compose_how_are_we_supposed_to_handle/)
-- [I converted a react js app using ionic/capacitor and when launching on device, it keeps trying to load assets from server?? Please help](https://www.reddit.com/r/androiddev/comments/151cr3v/i_converted_a_react_js_app_using_ioniccapacitor/)
-- [Phantom references are not enqueued as I would expect](https://www.reddit.com/r/androiddev/comments/151ckty/phantom_references_are_not_enqueued_as_i_would/)
-- [How long do you think we&#39;ll have to wait for our Google Play Developer Settlement checks?](https://www.reddit.com/r/androiddev/comments/151bt2s/how_long_do_you_think_well_have_to_wait_for_our/)
-- [How to get the sales receipts of customers from play console?](https://www.reddit.com/r/androiddev/comments/151b8l9/how_to_get_the_sales_receipts_of_customers_from/)
+- [How do android dev salaries compare to other IT fields?](https://www.reddit.com/r/androiddev/comments/152jdhz/how_do_android_dev_salaries_compare_to_other_it/)
+- [How to get a professional experience in Android without publishing an app](https://www.reddit.com/r/androiddev/comments/152iu9j/how_to_get_a_professional_experience_in_android/)
+- [What&#39;s Hilt?](https://www.reddit.com/r/androiddev/comments/152daqz/whats_hilt/)
+- [Looking for android development volunteering opportunity](https://www.reddit.com/r/androiddev/comments/152c42e/looking_for_android_development_volunteering/)
+- [A super short survey in internet privacy for college project](https://www.reddit.com/r/androiddev/comments/152bucf/a_super_short_survey_in_internet_privacy_for/)
+- [Fitbit Integration in an mobile application](https://www.reddit.com/r/androiddev/comments/152amhr/fitbit_integration_in_an_mobile_application/)
+- [Radio access](https://www.reddit.com/r/androiddev/comments/152a8gg/radio_access/)
+- [Google Play: App Termination Without Explanation](https://www.reddit.com/r/androiddev/comments/1529mu3/google_play_app_termination_without_explanation/)
+- [Android, Gradle, Kotlin-dsl, multi-module, seeking help](https://www.reddit.com/r/androiddev/comments/1529g14/android_gradle_kotlindsl_multimodule_seeking_help/)
+- [looking for noob friendly guide](https://www.reddit.com/r/androiddev/comments/15291zx/looking_for_noob_friendly_guide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
