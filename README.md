@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do android dev salaries compare to other IT fields?](https://www.reddit.com/r/androiddev/comments/152jdhz/how_do_android_dev_salaries_compare_to_other_it/)
-- [How to get a professional experience in Android without publishing an app](https://www.reddit.com/r/androiddev/comments/152iu9j/how_to_get_a_professional_experience_in_android/)
-- [What&#39;s Hilt?](https://www.reddit.com/r/androiddev/comments/152daqz/whats_hilt/)
-- [Looking for android development volunteering opportunity](https://www.reddit.com/r/androiddev/comments/152c42e/looking_for_android_development_volunteering/)
-- [A super short survey in internet privacy for college project](https://www.reddit.com/r/androiddev/comments/152bucf/a_super_short_survey_in_internet_privacy_for/)
-- [Fitbit Integration in an mobile application](https://www.reddit.com/r/androiddev/comments/152amhr/fitbit_integration_in_an_mobile_application/)
-- [Radio access](https://www.reddit.com/r/androiddev/comments/152a8gg/radio_access/)
-- [Google Play: App Termination Without Explanation](https://www.reddit.com/r/androiddev/comments/1529mu3/google_play_app_termination_without_explanation/)
-- [Android, Gradle, Kotlin-dsl, multi-module, seeking help](https://www.reddit.com/r/androiddev/comments/1529g14/android_gradle_kotlindsl_multimodule_seeking_help/)
-- [looking for noob friendly guide](https://www.reddit.com/r/androiddev/comments/15291zx/looking_for_noob_friendly_guide/)
+- [What are the best APIs to get an accurate location readings ?](https://www.reddit.com/r/androiddev/comments/153felx/what_are_the_best_apis_to_get_an_accurate/)
+- [Best way to programmatically add a grid of buttons to a layout &lpar;Java&rpar;](https://www.reddit.com/r/androiddev/comments/153f04l/best_way_to_programmatically_add_a_grid_of/)
+- [Android Studio Hedgehog Canary 13 now available](https://www.reddit.com/r/androiddev/comments/153bqwh/android_studio_hedgehog_canary_13_now_available/)
+- [Tracking Android App Launch in production](https://www.reddit.com/r/androiddev/comments/153ajy6/tracking_android_app_launch_in_production/)
+- [Can someone explain repeatOnLifecycle&#39;s documentation for my dumb ass?](https://www.reddit.com/r/androiddev/comments/1538ai4/can_someone_explain_repeatonlifecycles/)
+- [Is the base64-encoded RSA public key in ~/.android/adbkey.pub the same hex-encoded RSA public key that you get prompted with on an Android device when it connects to a computer?](https://www.reddit.com/r/androiddev/comments/1537i65/is_the_base64encoded_rsa_public_key_in/)
+- [Compose performance - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1536v9q/compose_performance_android_developers_backstage/)
+- [PointerSource in PointerEvents](https://www.reddit.com/r/androiddev/comments/1535ekh/pointersource_in_pointerevents/)
+- [Would it be good to take Senior Android Developer job in Europe and leave the one in india?](https://www.reddit.com/r/androiddev/comments/1533amm/would_it_be_good_to_take_senior_android_developer/)
+- [Why Adaptive Rate Limiting is a Game-Changer](https://www.reddit.com/r/androiddev/comments/1533a7z/why_adaptive_rate_limiting_is_a_gamechanger/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
