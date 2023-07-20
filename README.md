@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are the best APIs to get an accurate location readings ?](https://www.reddit.com/r/androiddev/comments/153felx/what_are_the_best_apis_to_get_an_accurate/)
-- [Best way to programmatically add a grid of buttons to a layout &lpar;Java&rpar;](https://www.reddit.com/r/androiddev/comments/153f04l/best_way_to_programmatically_add_a_grid_of/)
-- [Android Studio Hedgehog Canary 13 now available](https://www.reddit.com/r/androiddev/comments/153bqwh/android_studio_hedgehog_canary_13_now_available/)
-- [Tracking Android App Launch in production](https://www.reddit.com/r/androiddev/comments/153ajy6/tracking_android_app_launch_in_production/)
-- [Can someone explain repeatOnLifecycle&#39;s documentation for my dumb ass?](https://www.reddit.com/r/androiddev/comments/1538ai4/can_someone_explain_repeatonlifecycles/)
-- [Is the base64-encoded RSA public key in ~/.android/adbkey.pub the same hex-encoded RSA public key that you get prompted with on an Android device when it connects to a computer?](https://www.reddit.com/r/androiddev/comments/1537i65/is_the_base64encoded_rsa_public_key_in/)
-- [Compose performance - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1536v9q/compose_performance_android_developers_backstage/)
-- [PointerSource in PointerEvents](https://www.reddit.com/r/androiddev/comments/1535ekh/pointersource_in_pointerevents/)
-- [Would it be good to take Senior Android Developer job in Europe and leave the one in india?](https://www.reddit.com/r/androiddev/comments/1533amm/would_it_be_good_to_take_senior_android_developer/)
-- [Why Adaptive Rate Limiting is a Game-Changer](https://www.reddit.com/r/androiddev/comments/1533a7z/why_adaptive_rate_limiting_is_a_gamechanger/)
+- [Change Languages](https://www.reddit.com/r/androiddev/comments/154cfp0/change_languages/)
+- [Building android apps without gradle](https://www.reddit.com/r/androiddev/comments/154ayve/building_android_apps_without_gradle/)
+- [Fallbacks of removing Google Play Services from Android Device?](https://www.reddit.com/r/androiddev/comments/154a3ka/fallbacks_of_removing_google_play_services_from/)
+- [Is there a library for streaming bitmap images directly into a video stored on the device?](https://www.reddit.com/r/androiddev/comments/1547nc8/is_there_a_library_for_streaming_bitmap_images/)
+- [How does Android make an integer ID from the string ID in the XML and is it possible to access that method from code &lpar;Java/Kotlin&rpar;?](https://www.reddit.com/r/androiddev/comments/154561p/how_does_android_make_an_integer_id_from_the/)
+- [Will Android View ever get updated in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/15454jz/will_android_view_ever_get_updated_in_jetpack/)
+- [How to combine multiple projects on android studio?](https://www.reddit.com/r/androiddev/comments/1543zo1/how_to_combine_multiple_projects_on_android_studio/)
+- [Indy android app for tracking emotions based on short vents](https://www.reddit.com/r/androiddev/comments/1543sur/indy_android_app_for_tracking_emotions_based_on/)
+- [Wear App development](https://www.reddit.com/r/androiddev/comments/1541lvc/wear_app_development/)
+- [Best Text Messaging Apps for Android and iOS | Times Square Reporter](https://www.reddit.com/r/androiddev/comments/1541h03/best_text_messaging_apps_for_android_and_ios/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
