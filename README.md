@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Change Languages](https://www.reddit.com/r/androiddev/comments/154cfp0/change_languages/)
-- [Building android apps without gradle](https://www.reddit.com/r/androiddev/comments/154ayve/building_android_apps_without_gradle/)
-- [Fallbacks of removing Google Play Services from Android Device?](https://www.reddit.com/r/androiddev/comments/154a3ka/fallbacks_of_removing_google_play_services_from/)
-- [Is there a library for streaming bitmap images directly into a video stored on the device?](https://www.reddit.com/r/androiddev/comments/1547nc8/is_there_a_library_for_streaming_bitmap_images/)
-- [How does Android make an integer ID from the string ID in the XML and is it possible to access that method from code &lpar;Java/Kotlin&rpar;?](https://www.reddit.com/r/androiddev/comments/154561p/how_does_android_make_an_integer_id_from_the/)
-- [Will Android View ever get updated in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/15454jz/will_android_view_ever_get_updated_in_jetpack/)
-- [How to combine multiple projects on android studio?](https://www.reddit.com/r/androiddev/comments/1543zo1/how_to_combine_multiple_projects_on_android_studio/)
-- [Indy android app for tracking emotions based on short vents](https://www.reddit.com/r/androiddev/comments/1543sur/indy_android_app_for_tracking_emotions_based_on/)
-- [Wear App development](https://www.reddit.com/r/androiddev/comments/1541lvc/wear_app_development/)
-- [Best Text Messaging Apps for Android and iOS | Times Square Reporter](https://www.reddit.com/r/androiddev/comments/1541h03/best_text_messaging_apps_for_android_and_ios/)
+- [Is there a web scraper library for Android similar to BeautifulSoup for Python?](https://www.reddit.com/r/androiddev/comments/1558r5g/is_there_a_web_scraper_library_for_android/)
+- [Sharing data to pc without hotspot data](https://www.reddit.com/r/androiddev/comments/1558j3z/sharing_data_to_pc_without_hotspot_data/)
+- [Instant code reload in Android JNI](https://www.reddit.com/r/androiddev/comments/1557wy9/instant_code_reload_in_android_jni/)
+- [¿Liskov Substitution Principle and Interface segregation principle are almost the same?](https://www.reddit.com/r/androiddev/comments/1555fam/liskov_substitution_principle_and_interface/)
+- [Jetpack Compose LazyColumn is laggy when scrolling](https://www.reddit.com/r/androiddev/comments/1553jl2/jetpack_compose_lazycolumn_is_laggy_when_scrolling/)
+- [loving the device mirroring feature](https://www.reddit.com/r/androiddev/comments/1553ey9/loving_the_device_mirroring_feature/)
+- [Common dimensions of android?](https://www.reddit.com/r/androiddev/comments/1550xew/common_dimensions_of_android/)
+- [Looking for a developer to help with scaling issues. WILL PAY](https://www.reddit.com/r/androiddev/comments/154ytrn/looking_for_a_developer_to_help_with_scaling/)
+- [Sending emails to users at regular intervals from firebase](https://www.reddit.com/r/androiddev/comments/154x9v3/sending_emails_to_users_at_regular_intervals_from/)
+- [Reality of an Android Dev](https://www.reddit.com/r/androiddev/comments/154wngw/reality_of_an_android_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
