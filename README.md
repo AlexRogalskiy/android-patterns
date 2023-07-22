@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a web scraper library for Android similar to BeautifulSoup for Python?](https://www.reddit.com/r/androiddev/comments/1558r5g/is_there_a_web_scraper_library_for_android/)
-- [Sharing data to pc without hotspot data](https://www.reddit.com/r/androiddev/comments/1558j3z/sharing_data_to_pc_without_hotspot_data/)
-- [Instant code reload in Android JNI](https://www.reddit.com/r/androiddev/comments/1557wy9/instant_code_reload_in_android_jni/)
-- [¿Liskov Substitution Principle and Interface segregation principle are almost the same?](https://www.reddit.com/r/androiddev/comments/1555fam/liskov_substitution_principle_and_interface/)
-- [Jetpack Compose LazyColumn is laggy when scrolling](https://www.reddit.com/r/androiddev/comments/1553jl2/jetpack_compose_lazycolumn_is_laggy_when_scrolling/)
-- [loving the device mirroring feature](https://www.reddit.com/r/androiddev/comments/1553ey9/loving_the_device_mirroring_feature/)
-- [Common dimensions of android?](https://www.reddit.com/r/androiddev/comments/1550xew/common_dimensions_of_android/)
-- [Looking for a developer to help with scaling issues. WILL PAY](https://www.reddit.com/r/androiddev/comments/154ytrn/looking_for_a_developer_to_help_with_scaling/)
-- [Sending emails to users at regular intervals from firebase](https://www.reddit.com/r/androiddev/comments/154x9v3/sending_emails_to_users_at_regular_intervals_from/)
-- [Reality of an Android Dev](https://www.reddit.com/r/androiddev/comments/154wngw/reality_of_an_android_dev/)
+- [Where to find app designer software](https://www.reddit.com/r/androiddev/comments/1566mt9/where_to_find_app_designer_software/)
+- [Weird performance changes in a built application](https://www.reddit.com/r/androiddev/comments/1563w6k/weird_performance_changes_in_a_built_application/)
+- [My firts social media app with memes &lpar;Social Meme&rpar;](https://www.reddit.com/r/androiddev/comments/1563vkx/my_firts_social_media_app_with_memes_social_meme/)
+- [What should an android developer with 1.5-2 YOE know](https://www.reddit.com/r/androiddev/comments/1563bho/what_should_an_android_developer_with_152_yoe_know/)
+- [Missing templates in Android Studio Flamingo?](https://www.reddit.com/r/androiddev/comments/1562pkc/missing_templates_in_android_studio_flamingo/)
+- [Jetpack Compose Bandage Reveal Effect &lpar;source in comments&rpar;](https://www.reddit.com/r/androiddev/comments/1561bwf/jetpack_compose_bandage_reveal_effect_source_in/)
+- [Native or Flutter](https://www.reddit.com/r/androiddev/comments/1560l7h/native_or_flutter/)
+- [Will IAP work if you sideload an app or game?](https://www.reddit.com/r/androiddev/comments/155y9hf/will_iap_work_if_you_sideload_an_app_or_game/)
+- [Is it possible to strictly comply with Liskov&#39;s principle with interfaces?](https://www.reddit.com/r/androiddev/comments/155uoz8/is_it_possible_to_strictly_comply_with_liskovs/)
+- [How can I successfully sync gradle when checking out a pre-Compose commit on a codebase?](https://www.reddit.com/r/androiddev/comments/155tdwl/how_can_i_successfully_sync_gradle_when_checking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
