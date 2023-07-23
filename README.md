@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where to find app designer software](https://www.reddit.com/r/androiddev/comments/1566mt9/where_to_find_app_designer_software/)
-- [Weird performance changes in a built application](https://www.reddit.com/r/androiddev/comments/1563w6k/weird_performance_changes_in_a_built_application/)
-- [My firts social media app with memes &lpar;Social Meme&rpar;](https://www.reddit.com/r/androiddev/comments/1563vkx/my_firts_social_media_app_with_memes_social_meme/)
-- [What should an android developer with 1.5-2 YOE know](https://www.reddit.com/r/androiddev/comments/1563bho/what_should_an_android_developer_with_152_yoe_know/)
-- [Missing templates in Android Studio Flamingo?](https://www.reddit.com/r/androiddev/comments/1562pkc/missing_templates_in_android_studio_flamingo/)
-- [Jetpack Compose Bandage Reveal Effect &lpar;source in comments&rpar;](https://www.reddit.com/r/androiddev/comments/1561bwf/jetpack_compose_bandage_reveal_effect_source_in/)
-- [Native or Flutter](https://www.reddit.com/r/androiddev/comments/1560l7h/native_or_flutter/)
-- [Will IAP work if you sideload an app or game?](https://www.reddit.com/r/androiddev/comments/155y9hf/will_iap_work_if_you_sideload_an_app_or_game/)
-- [Is it possible to strictly comply with Liskov&#39;s principle with interfaces?](https://www.reddit.com/r/androiddev/comments/155uoz8/is_it_possible_to_strictly_comply_with_liskovs/)
-- [How can I successfully sync gradle when checking out a pre-Compose commit on a codebase?](https://www.reddit.com/r/androiddev/comments/155tdwl/how_can_i_successfully_sync_gradle_when_checking/)
+- [Unexplained Recomposition](https://www.reddit.com/r/androiddev/comments/1571is4/unexplained_recomposition/)
+- [How to display widget promotion dialog?](https://www.reddit.com/r/androiddev/comments/156we3h/how_to_display_widget_promotion_dialog/)
+- [Any way to continue receiving exercise client updates in the background on WearOS 3?](https://www.reddit.com/r/androiddev/comments/156ttrp/any_way_to_continue_receiving_exercise_client/)
+- [Can&#39;t download android SDK platform tools](https://www.reddit.com/r/androiddev/comments/156tp4e/cant_download_android_sdk_platform_tools/)
+- [Have you ever tried using Influencer for promoting your App/Games ?](https://www.reddit.com/r/androiddev/comments/156r4jw/have_you_ever_tried_using_influencer_for/)
+- [Can a device manufacturer remove ADB from a device?](https://www.reddit.com/r/androiddev/comments/156pprr/can_a_device_manufacturer_remove_adb_from_a_device/)
+- [Can you publish an app without advertising it?](https://www.reddit.com/r/androiddev/comments/156p5hg/can_you_publish_an_app_without_advertising_it/)
+- [Cinema tickets reservation with jetpack compose &lpar;source in comments&rpar;](https://www.reddit.com/r/androiddev/comments/156o3cq/cinema_tickets_reservation_with_jetpack_compose/)
+- [Why google ratings and reviews are not showing to my game?](https://www.reddit.com/r/androiddev/comments/156nlp6/why_google_ratings_and_reviews_are_not_showing_to/)
+- [Pizza toppings animation with jetpack compose &lpar;source in comment&rpar;](https://www.reddit.com/r/androiddev/comments/156mwb0/pizza_toppings_animation_with_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
