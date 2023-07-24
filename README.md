@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Unexplained Recomposition](https://www.reddit.com/r/androiddev/comments/1571is4/unexplained_recomposition/)
-- [How to display widget promotion dialog?](https://www.reddit.com/r/androiddev/comments/156we3h/how_to_display_widget_promotion_dialog/)
-- [Any way to continue receiving exercise client updates in the background on WearOS 3?](https://www.reddit.com/r/androiddev/comments/156ttrp/any_way_to_continue_receiving_exercise_client/)
-- [Can&#39;t download android SDK platform tools](https://www.reddit.com/r/androiddev/comments/156tp4e/cant_download_android_sdk_platform_tools/)
-- [Have you ever tried using Influencer for promoting your App/Games ?](https://www.reddit.com/r/androiddev/comments/156r4jw/have_you_ever_tried_using_influencer_for/)
-- [Can a device manufacturer remove ADB from a device?](https://www.reddit.com/r/androiddev/comments/156pprr/can_a_device_manufacturer_remove_adb_from_a_device/)
-- [Can you publish an app without advertising it?](https://www.reddit.com/r/androiddev/comments/156p5hg/can_you_publish_an_app_without_advertising_it/)
-- [Cinema tickets reservation with jetpack compose &lpar;source in comments&rpar;](https://www.reddit.com/r/androiddev/comments/156o3cq/cinema_tickets_reservation_with_jetpack_compose/)
-- [Why google ratings and reviews are not showing to my game?](https://www.reddit.com/r/androiddev/comments/156nlp6/why_google_ratings_and_reviews_are_not_showing_to/)
-- [Pizza toppings animation with jetpack compose &lpar;source in comment&rpar;](https://www.reddit.com/r/androiddev/comments/156mwb0/pizza_toppings_animation_with_jetpack_compose/)
+- [&quot;App not installed as package appears to be invalid&quot; FIX](https://www.reddit.com/r/androiddev/comments/157vr5i/app_not_installed_as_package_appears_to_be/)
+- [Platform for android development internship](https://www.reddit.com/r/androiddev/comments/157iwd0/platform_for_android_development_internship/)
+- [Visualizing Native Code Execution in Android Apps](https://www.reddit.com/r/androiddev/comments/157gdct/visualizing_native_code_execution_in_android_apps/)
+- [Android Security: Securing your Gradle builds from baddies](https://www.reddit.com/r/androiddev/comments/157fjjq/android_security_securing_your_gradle_builds_from/)
+- [Colors change not reflecting in the app](https://www.reddit.com/r/androiddev/comments/157dic1/colors_change_not_reflecting_in_the_app/)
+- [What do you guys feel about Material 3 website? It feels pretty oversized for me.](https://www.reddit.com/r/androiddev/comments/157972o/what_do_you_guys_feel_about_material_3_website_it/)
+- [Apply custom settings within Android](https://www.reddit.com/r/androiddev/comments/1578t6f/apply_custom_settings_within_android/)
+- [Improving productivity with shortcuts in Android Studio?](https://www.reddit.com/r/androiddev/comments/1577qsa/improving_productivity_with_shortcuts_in_android/)
+- [Will AI take over Android development](https://www.reddit.com/r/androiddev/comments/1576au5/will_ai_take_over_android_development/)
+- [[Self-Learning] Join Weekly Compose Challenge](https://www.reddit.com/r/androiddev/comments/1575agl/selflearning_join_weekly_compose_challenge/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
