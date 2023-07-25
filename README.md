@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&quot;App not installed as package appears to be invalid&quot; FIX](https://www.reddit.com/r/androiddev/comments/157vr5i/app_not_installed_as_package_appears_to_be/)
-- [Platform for android development internship](https://www.reddit.com/r/androiddev/comments/157iwd0/platform_for_android_development_internship/)
-- [Visualizing Native Code Execution in Android Apps](https://www.reddit.com/r/androiddev/comments/157gdct/visualizing_native_code_execution_in_android_apps/)
-- [Android Security: Securing your Gradle builds from baddies](https://www.reddit.com/r/androiddev/comments/157fjjq/android_security_securing_your_gradle_builds_from/)
-- [Colors change not reflecting in the app](https://www.reddit.com/r/androiddev/comments/157dic1/colors_change_not_reflecting_in_the_app/)
-- [What do you guys feel about Material 3 website? It feels pretty oversized for me.](https://www.reddit.com/r/androiddev/comments/157972o/what_do_you_guys_feel_about_material_3_website_it/)
-- [Apply custom settings within Android](https://www.reddit.com/r/androiddev/comments/1578t6f/apply_custom_settings_within_android/)
-- [Improving productivity with shortcuts in Android Studio?](https://www.reddit.com/r/androiddev/comments/1577qsa/improving_productivity_with_shortcuts_in_android/)
-- [Will AI take over Android development](https://www.reddit.com/r/androiddev/comments/1576au5/will_ai_take_over_android_development/)
-- [[Self-Learning] Join Weekly Compose Challenge](https://www.reddit.com/r/androiddev/comments/1575agl/selflearning_join_weekly_compose_challenge/)
+- [App compatibility](https://www.reddit.com/r/androiddev/comments/158uor2/app_compatibility/)
+- [I made this circular scribble pager indicator in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/158s8lf/i_made_this_circular_scribble_pager_indicator_in/)
+- [Car racing game in compose](https://www.reddit.com/r/androiddev/comments/158qbhw/car_racing_game_in_compose/)
+- [Simple question: Native vs Cross platform which one has higher demand ?](https://www.reddit.com/r/androiddev/comments/158prfa/simple_question_native_vs_cross_platform_which/)
+- [Calling super.onPostResume from an activity](https://www.reddit.com/r/androiddev/comments/158k1n6/calling_superonpostresume_from_an_activity/)
+- [Luxand SDK Android](https://www.reddit.com/r/androiddev/comments/158emv3/luxand_sdk_android/)
+- [Uploading purchase metadata before purchase flow](https://www.reddit.com/r/androiddev/comments/158eau0/uploading_purchase_metadata_before_purchase_flow/)
+- [Download Service System Design](https://www.reddit.com/r/androiddev/comments/158df0e/download_service_system_design/)
+- [Free udemy course on Selenium](https://www.reddit.com/r/androiddev/comments/158cwx2/free_udemy_course_on_selenium/)
+- [Hi. I am writing article about kotlin on medium. You can translate any language.](https://www.reddit.com/r/androiddev/comments/158ai59/hi_i_am_writing_article_about_kotlin_on_medium/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
