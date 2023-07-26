@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App compatibility](https://www.reddit.com/r/androiddev/comments/158uor2/app_compatibility/)
-- [I made this circular scribble pager indicator in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/158s8lf/i_made_this_circular_scribble_pager_indicator_in/)
-- [Car racing game in compose](https://www.reddit.com/r/androiddev/comments/158qbhw/car_racing_game_in_compose/)
-- [Simple question: Native vs Cross platform which one has higher demand ?](https://www.reddit.com/r/androiddev/comments/158prfa/simple_question_native_vs_cross_platform_which/)
-- [Calling super.onPostResume from an activity](https://www.reddit.com/r/androiddev/comments/158k1n6/calling_superonpostresume_from_an_activity/)
-- [Luxand SDK Android](https://www.reddit.com/r/androiddev/comments/158emv3/luxand_sdk_android/)
-- [Uploading purchase metadata before purchase flow](https://www.reddit.com/r/androiddev/comments/158eau0/uploading_purchase_metadata_before_purchase_flow/)
-- [Download Service System Design](https://www.reddit.com/r/androiddev/comments/158df0e/download_service_system_design/)
-- [Free udemy course on Selenium](https://www.reddit.com/r/androiddev/comments/158cwx2/free_udemy_course_on_selenium/)
-- [Hi. I am writing article about kotlin on medium. You can translate any language.](https://www.reddit.com/r/androiddev/comments/158ai59/hi_i_am_writing_article_about_kotlin_on_medium/)
+- [Which language for mobile app development?](https://www.reddit.com/r/androiddev/comments/159rrvc/which_language_for_mobile_app_development/)
+- [native vs flutter](https://www.reddit.com/r/androiddev/comments/159qbsn/native_vs_flutter/)
+- [Thought id seen it all](https://www.reddit.com/r/androiddev/comments/159ku65/thought_id_seen_it_all/)
+- [Suggestions for implementing pinch-to-zoom with drawing on a canvas?](https://www.reddit.com/r/androiddev/comments/159kid9/suggestions_for_implementing_pinchtozoom_with/)
+- [How to handle refresh token logic properly?](https://www.reddit.com/r/androiddev/comments/159jghh/how_to_handle_refresh_token_logic_properly/)
+- [Most accurate OCR API for Android application?](https://www.reddit.com/r/androiddev/comments/159ig8m/most_accurate_ocr_api_for_android_application/)
+- [Android Studio Giraffe now available in the stable channel](https://www.reddit.com/r/androiddev/comments/159hhe6/android_studio_giraffe_now_available_in_the/)
+- [[Android] Rule of 3 Calculator &lpar;With &quot;Invert&quot; option&rpar;.](https://www.reddit.com/r/androiddev/comments/159exw3/android_rule_of_3_calculator_with_invert_option/)
+- [What is that view that opens through the widget from the home screen?](https://www.reddit.com/r/androiddev/comments/159cz1k/what_is_that_view_that_opens_through_the_widget/)
+- [500kb MMORPG using PWABuilder&#39;s Android Wrapper](https://www.reddit.com/r/androiddev/comments/159cbpo/500kb_mmorpg_using_pwabuilders_android_wrapper/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
