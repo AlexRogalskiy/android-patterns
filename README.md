@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Which language for mobile app development?](https://www.reddit.com/r/androiddev/comments/159rrvc/which_language_for_mobile_app_development/)
-- [native vs flutter](https://www.reddit.com/r/androiddev/comments/159qbsn/native_vs_flutter/)
-- [Thought id seen it all](https://www.reddit.com/r/androiddev/comments/159ku65/thought_id_seen_it_all/)
-- [Suggestions for implementing pinch-to-zoom with drawing on a canvas?](https://www.reddit.com/r/androiddev/comments/159kid9/suggestions_for_implementing_pinchtozoom_with/)
-- [How to handle refresh token logic properly?](https://www.reddit.com/r/androiddev/comments/159jghh/how_to_handle_refresh_token_logic_properly/)
-- [Most accurate OCR API for Android application?](https://www.reddit.com/r/androiddev/comments/159ig8m/most_accurate_ocr_api_for_android_application/)
-- [Android Studio Giraffe now available in the stable channel](https://www.reddit.com/r/androiddev/comments/159hhe6/android_studio_giraffe_now_available_in_the/)
-- [[Android] Rule of 3 Calculator &lpar;With &quot;Invert&quot; option&rpar;.](https://www.reddit.com/r/androiddev/comments/159exw3/android_rule_of_3_calculator_with_invert_option/)
-- [What is that view that opens through the widget from the home screen?](https://www.reddit.com/r/androiddev/comments/159cz1k/what_is_that_view_that_opens_through_the_widget/)
-- [500kb MMORPG using PWABuilder&#39;s Android Wrapper](https://www.reddit.com/r/androiddev/comments/159cbpo/500kb_mmorpg_using_pwabuilders_android_wrapper/)
+- [Account manager visibility](https://www.reddit.com/r/androiddev/comments/15aolch/account_manager_visibility/)
+- [Legacy code horror stories?](https://www.reddit.com/r/androiddev/comments/15aluod/legacy_code_horror_stories/)
+- [Android Studio alternative for potato PC](https://www.reddit.com/r/androiddev/comments/15akk8p/android_studio_alternative_for_potato_pc/)
+- [I&#39;ve made new open-source library FilledSliderCopose](https://www.reddit.com/r/androiddev/comments/15ajpiq/ive_made_new_opensource_library_filledslidercopose/)
+- [Is React Native sensible choice for enterprise level &lpar;large scale&rpar; document management app?](https://www.reddit.com/r/androiddev/comments/15aip66/is_react_native_sensible_choice_for_enterprise/)
+- [Handling negative reviews on Google Play](https://www.reddit.com/r/androiddev/comments/15aif7h/handling_negative_reviews_on_google_play/)
+- [Google says it will start downranking non-tablet apps in the Play Store](https://www.reddit.com/r/androiddev/comments/15aibb2/google_says_it_will_start_downranking_nontablet/)
+- [Good possibility you may only access Google Play from Chrome, or browser implementing WEI](https://www.reddit.com/r/androiddev/comments/15ai6y2/good_possibility_you_may_only_access_google_play/)
+- [How are they gaming the rankings?](https://www.reddit.com/r/androiddev/comments/15aeyvy/how_are_they_gaming_the_rankings/)
+- [Latency playing audio with AudioTrack from hash map after clicking button](https://www.reddit.com/r/androiddev/comments/15aeru7/latency_playing_audio_with_audiotrack_from_hash/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
