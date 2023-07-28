@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Account manager visibility](https://www.reddit.com/r/androiddev/comments/15aolch/account_manager_visibility/)
-- [Legacy code horror stories?](https://www.reddit.com/r/androiddev/comments/15aluod/legacy_code_horror_stories/)
-- [Android Studio alternative for potato PC](https://www.reddit.com/r/androiddev/comments/15akk8p/android_studio_alternative_for_potato_pc/)
-- [I&#39;ve made new open-source library FilledSliderCopose](https://www.reddit.com/r/androiddev/comments/15ajpiq/ive_made_new_opensource_library_filledslidercopose/)
-- [Is React Native sensible choice for enterprise level &lpar;large scale&rpar; document management app?](https://www.reddit.com/r/androiddev/comments/15aip66/is_react_native_sensible_choice_for_enterprise/)
-- [Handling negative reviews on Google Play](https://www.reddit.com/r/androiddev/comments/15aif7h/handling_negative_reviews_on_google_play/)
-- [Google says it will start downranking non-tablet apps in the Play Store](https://www.reddit.com/r/androiddev/comments/15aibb2/google_says_it_will_start_downranking_nontablet/)
-- [Good possibility you may only access Google Play from Chrome, or browser implementing WEI](https://www.reddit.com/r/androiddev/comments/15ai6y2/good_possibility_you_may_only_access_google_play/)
-- [How are they gaming the rankings?](https://www.reddit.com/r/androiddev/comments/15aeyvy/how_are_they_gaming_the_rankings/)
-- [Latency playing audio with AudioTrack from hash map after clicking button](https://www.reddit.com/r/androiddev/comments/15aeru7/latency_playing_audio_with_audiotrack_from_hash/)
+- [How do I programmatically interact with an android app](https://www.reddit.com/r/androiddev/comments/15bjdj0/how_do_i_programmatically_interact_with_an/)
+- [Is it me, or is the Android Documentation really vague?](https://www.reddit.com/r/androiddev/comments/15bitb0/is_it_me_or_is_the_android_documentation_really/)
+- [Memorizing code and algorithms still needed or should just Look it up on internet when needed?....](https://www.reddit.com/r/androiddev/comments/15bitak/memorizing_code_and_algorithms_still_needed_or/)
+- [A beneficial article that tells about the types of Gradle cache, how to increase the frequency of cache hits, and how to use Gradle daemons effectively.](https://www.reddit.com/r/androiddev/comments/15bg849/a_beneficial_article_that_tells_about_the_types/)
+- [Android Multimedia backup camera](https://www.reddit.com/r/androiddev/comments/15bbmz5/android_multimedia_backup_camera/)
+- [Remote development tricks](https://www.reddit.com/r/androiddev/comments/15b71cq/remote_development_tricks/)
+- [Is it possible to develop an app in a foreign country and launch it in the US and keep improving the app in the foreign country with the US?](https://www.reddit.com/r/androiddev/comments/15b63xf/is_it_possible_to_develop_an_app_in_a_foreign/)
+- [Google Play: Account Termination Without explanation or warning.](https://www.reddit.com/r/androiddev/comments/15b5aa3/google_play_account_termination_without/)
+- [No Log.d in Android Studio using Shield Pro](https://www.reddit.com/r/androiddev/comments/15b39yt/no_logd_in_android_studio_using_shield_pro/)
+- [Any one can share AppAuth android with Jetack compose code?](https://www.reddit.com/r/androiddev/comments/15b0d3s/any_one_can_share_appauth_android_with_jetack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
