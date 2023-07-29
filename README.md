@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I programmatically interact with an android app](https://www.reddit.com/r/androiddev/comments/15bjdj0/how_do_i_programmatically_interact_with_an/)
-- [Is it me, or is the Android Documentation really vague?](https://www.reddit.com/r/androiddev/comments/15bitb0/is_it_me_or_is_the_android_documentation_really/)
-- [Memorizing code and algorithms still needed or should just Look it up on internet when needed?....](https://www.reddit.com/r/androiddev/comments/15bitak/memorizing_code_and_algorithms_still_needed_or/)
-- [A beneficial article that tells about the types of Gradle cache, how to increase the frequency of cache hits, and how to use Gradle daemons effectively.](https://www.reddit.com/r/androiddev/comments/15bg849/a_beneficial_article_that_tells_about_the_types/)
-- [Android Multimedia backup camera](https://www.reddit.com/r/androiddev/comments/15bbmz5/android_multimedia_backup_camera/)
-- [Remote development tricks](https://www.reddit.com/r/androiddev/comments/15b71cq/remote_development_tricks/)
-- [Is it possible to develop an app in a foreign country and launch it in the US and keep improving the app in the foreign country with the US?](https://www.reddit.com/r/androiddev/comments/15b63xf/is_it_possible_to_develop_an_app_in_a_foreign/)
-- [Google Play: Account Termination Without explanation or warning.](https://www.reddit.com/r/androiddev/comments/15b5aa3/google_play_account_termination_without/)
-- [No Log.d in Android Studio using Shield Pro](https://www.reddit.com/r/androiddev/comments/15b39yt/no_logd_in_android_studio_using_shield_pro/)
-- [Any one can share AppAuth android with Jetack compose code?](https://www.reddit.com/r/androiddev/comments/15b0d3s/any_one_can_share_appauth_android_with_jetack/)
+- [Supercharging Continuous Integration with Gradle](https://www.reddit.com/r/androiddev/comments/15cdtf5/supercharging_continuous_integration_with_gradle/)
+- [Will phone assistants ever become really intelligent, mainly in this AI era?](https://www.reddit.com/r/androiddev/comments/15cboa5/will_phone_assistants_ever_become_really/)
+- [What are the prospects for android development for the next 5 years?](https://www.reddit.com/r/androiddev/comments/15c9vgi/what_are_the_prospects_for_android_development/)
+- [Is it worth it to become an android developer?](https://www.reddit.com/r/androiddev/comments/15c9a88/is_it_worth_it_to_become_an_android_developer/)
+- [How much is a MAU user worth ?](https://www.reddit.com/r/androiddev/comments/15c7451/how_much_is_a_mau_user_worth/)
+- [Code formatting checks in CI workflow](https://www.reddit.com/r/androiddev/comments/15c71pu/code_formatting_checks_in_ci_workflow/)
+- [Problem with using Hilt inside an activity with NavigationBar and fragments which have child fragments inside them](https://www.reddit.com/r/androiddev/comments/15c2eoq/problem_with_using_hilt_inside_an_activity_with/)
+- [Seeking Help from Developers: Building an App for Visually Impaired Users &lpar;9th Grade Indian Student&rpar;](https://www.reddit.com/r/androiddev/comments/15bz9zz/seeking_help_from_developers_building_an_app_for/)
+- [Is Codepath for Android still relevant?](https://www.reddit.com/r/androiddev/comments/15bz6w5/is_codepath_for_android_still_relevant/)
+- [Substitution for Google&#39;s Associate Android Developer cert?](https://www.reddit.com/r/androiddev/comments/15bypzv/substitution_for_googles_associate_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
