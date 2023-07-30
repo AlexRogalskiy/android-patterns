@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Supercharging Continuous Integration with Gradle](https://www.reddit.com/r/androiddev/comments/15cdtf5/supercharging_continuous_integration_with_gradle/)
-- [Will phone assistants ever become really intelligent, mainly in this AI era?](https://www.reddit.com/r/androiddev/comments/15cboa5/will_phone_assistants_ever_become_really/)
-- [What are the prospects for android development for the next 5 years?](https://www.reddit.com/r/androiddev/comments/15c9vgi/what_are_the_prospects_for_android_development/)
-- [Is it worth it to become an android developer?](https://www.reddit.com/r/androiddev/comments/15c9a88/is_it_worth_it_to_become_an_android_developer/)
-- [How much is a MAU user worth ?](https://www.reddit.com/r/androiddev/comments/15c7451/how_much_is_a_mau_user_worth/)
-- [Code formatting checks in CI workflow](https://www.reddit.com/r/androiddev/comments/15c71pu/code_formatting_checks_in_ci_workflow/)
-- [Problem with using Hilt inside an activity with NavigationBar and fragments which have child fragments inside them](https://www.reddit.com/r/androiddev/comments/15c2eoq/problem_with_using_hilt_inside_an_activity_with/)
-- [Seeking Help from Developers: Building an App for Visually Impaired Users &lpar;9th Grade Indian Student&rpar;](https://www.reddit.com/r/androiddev/comments/15bz9zz/seeking_help_from_developers_building_an_app_for/)
-- [Is Codepath for Android still relevant?](https://www.reddit.com/r/androiddev/comments/15bz6w5/is_codepath_for_android_still_relevant/)
-- [Substitution for Google&#39;s Associate Android Developer cert?](https://www.reddit.com/r/androiddev/comments/15bypzv/substitution_for_googles_associate_android/)
+- [How to make the short description appear on the playstore search result? My app appears the same as the one with red &quot;x&quot; how to make it loke the others?](https://www.reddit.com/r/androiddev/comments/15d7uua/how_to_make_the_short_description_appear_on_the/)
+- [Where to put privacy policy link in the app?](https://www.reddit.com/r/androiddev/comments/15d72fl/where_to_put_privacy_policy_link_in_the_app/)
+- [Feeling lost while learning android.](https://www.reddit.com/r/androiddev/comments/15d5udw/feeling_lost_while_learning_android/)
+- [Fall in love ❤️ with Android Studio all over again](https://www.reddit.com/r/androiddev/comments/15d5pu0/fall_in_love_with_android_studio_all_over_again/)
+- [Just interesting what will be if I&#39;ll answer like this? :&rpar;](https://www.reddit.com/r/androiddev/comments/15d4vfk/just_interesting_what_will_be_if_ill_answer_like/)
+- [How can I tell if my app is in review?](https://www.reddit.com/r/androiddev/comments/15d4cqe/how_can_i_tell_if_my_app_is_in_review/)
+- [I can&#39;t get my app to work!](https://www.reddit.com/r/androiddev/comments/15d35wm/i_cant_get_my_app_to_work/)
+- [Anyone familiar with Coppernic SDK?](https://www.reddit.com/r/androiddev/comments/15d26ir/anyone_familiar_with_coppernic_sdk/)
+- [3D progress of our upcoming mobile game. Customise your characters to gain new skills and looks by discovering new body parts. Comment and share your thoughts!](https://www.reddit.com/r/androiddev/comments/15d1jbx/3d_progress_of_our_upcoming_mobile_game_customise/)
+- [uploaded a build to play-store without uploading mapping files.](https://www.reddit.com/r/androiddev/comments/15d06or/uploaded_a_build_to_playstore_without_uploading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
