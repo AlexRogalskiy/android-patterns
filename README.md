@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to make the short description appear on the playstore search result? My app appears the same as the one with red &quot;x&quot; how to make it loke the others?](https://www.reddit.com/r/androiddev/comments/15d7uua/how_to_make_the_short_description_appear_on_the/)
-- [Where to put privacy policy link in the app?](https://www.reddit.com/r/androiddev/comments/15d72fl/where_to_put_privacy_policy_link_in_the_app/)
-- [Feeling lost while learning android.](https://www.reddit.com/r/androiddev/comments/15d5udw/feeling_lost_while_learning_android/)
-- [Fall in love ❤️ with Android Studio all over again](https://www.reddit.com/r/androiddev/comments/15d5pu0/fall_in_love_with_android_studio_all_over_again/)
-- [Just interesting what will be if I&#39;ll answer like this? :&rpar;](https://www.reddit.com/r/androiddev/comments/15d4vfk/just_interesting_what_will_be_if_ill_answer_like/)
-- [How can I tell if my app is in review?](https://www.reddit.com/r/androiddev/comments/15d4cqe/how_can_i_tell_if_my_app_is_in_review/)
-- [I can&#39;t get my app to work!](https://www.reddit.com/r/androiddev/comments/15d35wm/i_cant_get_my_app_to_work/)
-- [Anyone familiar with Coppernic SDK?](https://www.reddit.com/r/androiddev/comments/15d26ir/anyone_familiar_with_coppernic_sdk/)
-- [3D progress of our upcoming mobile game. Customise your characters to gain new skills and looks by discovering new body parts. Comment and share your thoughts!](https://www.reddit.com/r/androiddev/comments/15d1jbx/3d_progress_of_our_upcoming_mobile_game_customise/)
-- [uploaded a build to play-store without uploading mapping files.](https://www.reddit.com/r/androiddev/comments/15d06or/uploaded_a_build_to_playstore_without_uploading/)
+- [Just Released MLKit with Jetpack Compose! Seeking Feedback 🚀 💫](https://www.reddit.com/r/androiddev/comments/15dwcly/just_released_mlkit_with_jetpack_compose_seeking/)
+- [when i open the EditText the recycler view glitches and the other Edit Text Disappears, idk why this is happening?](https://www.reddit.com/r/androiddev/comments/15dw6sc/when_i_open_the_edittext_the_recycler_view/)
+- [Why doesn&#39;t Android Picture in Picture have playback buttons?](https://www.reddit.com/r/androiddev/comments/15dw2uc/why_doesnt_android_picture_in_picture_have/)
+- [Use animated webp image with compose?](https://www.reddit.com/r/androiddev/comments/15dviya/use_animated_webp_image_with_compose/)
+- [Why do Google&#39;s YouTube content creators get to post their Patreon, but Google&#39;s Android Developers are strictly forbidden from posting there Patreon?](https://www.reddit.com/r/androiddev/comments/15dqd53/why_do_googles_youtube_content_creators_get_to/)
+- [Best practise to make helper class compatible with jetpack compose](https://www.reddit.com/r/androiddev/comments/15dq78d/best_practise_to_make_helper_class_compatible/)
+- [Style &amp; Recomposition Performance](https://www.reddit.com/r/androiddev/comments/15dos69/style_recomposition_performance/)
+- [Can we switch to other development fields from android?](https://www.reddit.com/r/androiddev/comments/15dk2np/can_we_switch_to_other_development_fields_from/)
+- [Files Access Without Permission Listed](https://www.reddit.com/r/androiddev/comments/15dk2ho/files_access_without_permission_listed/)
+- [Hello, I uploaded my game to Google Play and got an email back with this content. I&#39;m using IronSource, and as far as I know you can&#39;t skip rewarded ads in it. what can I do in this situation?](https://www.reddit.com/r/androiddev/comments/15dh6ib/hello_i_uploaded_my_game_to_google_play_and_got/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
