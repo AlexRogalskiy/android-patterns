@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just Released MLKit with Jetpack Compose! Seeking Feedback 🚀 💫](https://www.reddit.com/r/androiddev/comments/15dwcly/just_released_mlkit_with_jetpack_compose_seeking/)
-- [when i open the EditText the recycler view glitches and the other Edit Text Disappears, idk why this is happening?](https://www.reddit.com/r/androiddev/comments/15dw6sc/when_i_open_the_edittext_the_recycler_view/)
-- [Why doesn&#39;t Android Picture in Picture have playback buttons?](https://www.reddit.com/r/androiddev/comments/15dw2uc/why_doesnt_android_picture_in_picture_have/)
-- [Use animated webp image with compose?](https://www.reddit.com/r/androiddev/comments/15dviya/use_animated_webp_image_with_compose/)
-- [Why do Google&#39;s YouTube content creators get to post their Patreon, but Google&#39;s Android Developers are strictly forbidden from posting there Patreon?](https://www.reddit.com/r/androiddev/comments/15dqd53/why_do_googles_youtube_content_creators_get_to/)
-- [Best practise to make helper class compatible with jetpack compose](https://www.reddit.com/r/androiddev/comments/15dq78d/best_practise_to_make_helper_class_compatible/)
-- [Style &amp; Recomposition Performance](https://www.reddit.com/r/androiddev/comments/15dos69/style_recomposition_performance/)
-- [Can we switch to other development fields from android?](https://www.reddit.com/r/androiddev/comments/15dk2np/can_we_switch_to_other_development_fields_from/)
-- [Files Access Without Permission Listed](https://www.reddit.com/r/androiddev/comments/15dk2ho/files_access_without_permission_listed/)
-- [Hello, I uploaded my game to Google Play and got an email back with this content. I&#39;m using IronSource, and as far as I know you can&#39;t skip rewarded ads in it. what can I do in this situation?](https://www.reddit.com/r/androiddev/comments/15dh6ib/hello_i_uploaded_my_game_to_google_play_and_got/)
+- [Mod APKs](https://www.reddit.com/r/androiddev/comments/15exzbv/mod_apks/)
+- [Failed to resolve android-adapters 3.1.0](https://www.reddit.com/r/androiddev/comments/15ewpms/failed_to_resolve_androidadapters_310/)
+- [I&#39;ve created a declarative permission management library](https://www.reddit.com/r/androiddev/comments/15etl34/ive_created_a_declarative_permission_management/)
+- [Should Android Developer be good with alghoritms/data strucutes?](https://www.reddit.com/r/androiddev/comments/15eshs6/should_android_developer_be_good_with/)
+- [how can we add Section Header to &quot;Leanback&quot; VerticalGridview?](https://www.reddit.com/r/androiddev/comments/15epwwt/how_can_we_add_section_header_to_leanback/)
+- [Porting Android NDK to arm64 host - cloud vm](https://www.reddit.com/r/androiddev/comments/15epb58/porting_android_ndk_to_arm64_host_cloud_vm/)
+- [Android Developers Blog: Try the K2 compiler in your Android projects](https://www.reddit.com/r/androiddev/comments/15eobwm/android_developers_blog_try_the_k2_compiler_in/)
+- [Open source RSS gaming news feed reader &amp; game recommendation app.](https://www.reddit.com/r/androiddev/comments/15enbqr/open_source_rss_gaming_news_feed_reader_game/)
+- [Audio feature extraction](https://www.reddit.com/r/androiddev/comments/15en8os/audio_feature_extraction/)
+- [Connecting to car radio via USB](https://www.reddit.com/r/androiddev/comments/15em8h9/connecting_to_car_radio_via_usb/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
