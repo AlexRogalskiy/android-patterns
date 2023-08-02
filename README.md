@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mod APKs](https://www.reddit.com/r/androiddev/comments/15exzbv/mod_apks/)
-- [Failed to resolve android-adapters 3.1.0](https://www.reddit.com/r/androiddev/comments/15ewpms/failed_to_resolve_androidadapters_310/)
-- [I&#39;ve created a declarative permission management library](https://www.reddit.com/r/androiddev/comments/15etl34/ive_created_a_declarative_permission_management/)
-- [Should Android Developer be good with alghoritms/data strucutes?](https://www.reddit.com/r/androiddev/comments/15eshs6/should_android_developer_be_good_with/)
-- [how can we add Section Header to &quot;Leanback&quot; VerticalGridview?](https://www.reddit.com/r/androiddev/comments/15epwwt/how_can_we_add_section_header_to_leanback/)
-- [Porting Android NDK to arm64 host - cloud vm](https://www.reddit.com/r/androiddev/comments/15epb58/porting_android_ndk_to_arm64_host_cloud_vm/)
-- [Android Developers Blog: Try the K2 compiler in your Android projects](https://www.reddit.com/r/androiddev/comments/15eobwm/android_developers_blog_try_the_k2_compiler_in/)
-- [Open source RSS gaming news feed reader &amp; game recommendation app.](https://www.reddit.com/r/androiddev/comments/15enbqr/open_source_rss_gaming_news_feed_reader_game/)
-- [Audio feature extraction](https://www.reddit.com/r/androiddev/comments/15en8os/audio_feature_extraction/)
-- [Connecting to car radio via USB](https://www.reddit.com/r/androiddev/comments/15em8h9/connecting_to_car_radio_via_usb/)
+- [Can&#39;t install sdk platform tools](https://www.reddit.com/r/androiddev/comments/15ft2fj/cant_install_sdk_platform_tools/)
+- [How to code an aquarium with animated fish](https://www.reddit.com/r/androiddev/comments/15fs5p0/how_to_code_an_aquarium_with_animated_fish/)
+- [Event click no funciona cuando sobre textview en holder de RecyclerView](https://www.reddit.com/r/androiddev/comments/15fr9nc/event_click_no_funciona_cuando_sobre_textview_en/)
+- [Default RecyclerView animations might be hurting your UX.](https://www.reddit.com/r/androiddev/comments/15fr5rg/default_recyclerview_animations_might_be_hurting/)
+- [Android devs: Is this a Firmware issue?](https://www.reddit.com/r/androiddev/comments/15fr2eq/android_devs_is_this_a_firmware_issue/)
+- [Trying not to rant - Did google engineering really through through Play Integrity and it’s logistics](https://www.reddit.com/r/androiddev/comments/15fpmz4/trying_not_to_rant_did_google_engineering_really/)
+- [How to only inject one parameter in a constructor](https://www.reddit.com/r/androiddev/comments/15fpc28/how_to_only_inject_one_parameter_in_a_constructor/)
+- [android:windowSoftInputMode=&quot;adjustResize&quot; not working with WindowCompat.setDecorFitsSystemWindows&lpar;window, false&rpar;](https://www.reddit.com/r/androiddev/comments/15fmvr2/androidwindowsoftinputmodeadjustresize_not/)
+- [Been playing around with Compose and some new stuff](https://www.reddit.com/r/androiddev/comments/15flrb0/been_playing_around_with_compose_and_some_new/)
+- [any updated course guide for jetpack compose](https://www.reddit.com/r/androiddev/comments/15fhsgc/any_updated_course_guide_for_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
