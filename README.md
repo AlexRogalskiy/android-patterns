@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can&#39;t install sdk platform tools](https://www.reddit.com/r/androiddev/comments/15ft2fj/cant_install_sdk_platform_tools/)
-- [How to code an aquarium with animated fish](https://www.reddit.com/r/androiddev/comments/15fs5p0/how_to_code_an_aquarium_with_animated_fish/)
-- [Event click no funciona cuando sobre textview en holder de RecyclerView](https://www.reddit.com/r/androiddev/comments/15fr9nc/event_click_no_funciona_cuando_sobre_textview_en/)
-- [Default RecyclerView animations might be hurting your UX.](https://www.reddit.com/r/androiddev/comments/15fr5rg/default_recyclerview_animations_might_be_hurting/)
-- [Android devs: Is this a Firmware issue?](https://www.reddit.com/r/androiddev/comments/15fr2eq/android_devs_is_this_a_firmware_issue/)
-- [Trying not to rant - Did google engineering really through through Play Integrity and it’s logistics](https://www.reddit.com/r/androiddev/comments/15fpmz4/trying_not_to_rant_did_google_engineering_really/)
-- [How to only inject one parameter in a constructor](https://www.reddit.com/r/androiddev/comments/15fpc28/how_to_only_inject_one_parameter_in_a_constructor/)
-- [android:windowSoftInputMode=&quot;adjustResize&quot; not working with WindowCompat.setDecorFitsSystemWindows&lpar;window, false&rpar;](https://www.reddit.com/r/androiddev/comments/15fmvr2/androidwindowsoftinputmodeadjustresize_not/)
-- [Been playing around with Compose and some new stuff](https://www.reddit.com/r/androiddev/comments/15flrb0/been_playing_around_with_compose_and_some_new/)
-- [any updated course guide for jetpack compose](https://www.reddit.com/r/androiddev/comments/15fhsgc/any_updated_course_guide_for_jetpack_compose/)
+- [Limits of TDD in Android](https://www.reddit.com/r/androiddev/comments/15gpt77/limits_of_tdd_in_android/)
+- [Files Dissapeared After Extension Change](https://www.reddit.com/r/androiddev/comments/15gpfea/files_dissapeared_after_extension_change/)
+- [Phone number Auth in firebase using Mvvm](https://www.reddit.com/r/androiddev/comments/15gp2or/phone_number_auth_in_firebase_using_mvvm/)
+- [How do I change focus traversal between multiple composable functions?](https://www.reddit.com/r/androiddev/comments/15go4t0/how_do_i_change_focus_traversal_between_multiple/)
+- [Is it possible to run a curl command in an androidTest](https://www.reddit.com/r/androiddev/comments/15gn6er/is_it_possible_to_run_a_curl_command_in_an/)
+- [App done, website done, subscription plans done, what now?](https://www.reddit.com/r/androiddev/comments/15glmyb/app_done_website_done_subscription_plans_done/)
+- [Is MacBook Air &lpar;2020&rpar;, M1, 8G RAM, 256 SSD, good enough?](https://www.reddit.com/r/androiddev/comments/15gj5tf/is_macbook_air_2020_m1_8g_ram_256_ssd_good_enough/)
+- [Solo devs, what methodology do you use to choose the apps you develop?](https://www.reddit.com/r/androiddev/comments/15gi6qr/solo_devs_what_methodology_do_you_use_to_choose/)
+- [How to change the API level from level 27 to level 31?](https://www.reddit.com/r/androiddev/comments/15gcl0e/how_to_change_the_api_level_from_level_27_to/)
+- [Android .apk within another .apk?](https://www.reddit.com/r/androiddev/comments/15g8sk4/android_apk_within_another_apk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
