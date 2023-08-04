@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Limits of TDD in Android](https://www.reddit.com/r/androiddev/comments/15gpt77/limits_of_tdd_in_android/)
-- [Files Dissapeared After Extension Change](https://www.reddit.com/r/androiddev/comments/15gpfea/files_dissapeared_after_extension_change/)
-- [Phone number Auth in firebase using Mvvm](https://www.reddit.com/r/androiddev/comments/15gp2or/phone_number_auth_in_firebase_using_mvvm/)
-- [How do I change focus traversal between multiple composable functions?](https://www.reddit.com/r/androiddev/comments/15go4t0/how_do_i_change_focus_traversal_between_multiple/)
-- [Is it possible to run a curl command in an androidTest](https://www.reddit.com/r/androiddev/comments/15gn6er/is_it_possible_to_run_a_curl_command_in_an/)
-- [App done, website done, subscription plans done, what now?](https://www.reddit.com/r/androiddev/comments/15glmyb/app_done_website_done_subscription_plans_done/)
-- [Is MacBook Air &lpar;2020&rpar;, M1, 8G RAM, 256 SSD, good enough?](https://www.reddit.com/r/androiddev/comments/15gj5tf/is_macbook_air_2020_m1_8g_ram_256_ssd_good_enough/)
-- [Solo devs, what methodology do you use to choose the apps you develop?](https://www.reddit.com/r/androiddev/comments/15gi6qr/solo_devs_what_methodology_do_you_use_to_choose/)
-- [How to change the API level from level 27 to level 31?](https://www.reddit.com/r/androiddev/comments/15gcl0e/how_to_change_the_api_level_from_level_27_to/)
-- [Android .apk within another .apk?](https://www.reddit.com/r/androiddev/comments/15g8sk4/android_apk_within_another_apk/)
+- [Help](https://www.reddit.com/r/androiddev/comments/15hl4g8/help/)
+- [Organic downloads drop after changing developer name](https://www.reddit.com/r/androiddev/comments/15hgjqe/organic_downloads_drop_after_changing_developer/)
+- [Backend SDET to mobile SDET](https://www.reddit.com/r/androiddev/comments/15hgff7/backend_sdet_to_mobile_sdet/)
+- [Offline navigation apps - how to inject maps in an offline way?](https://www.reddit.com/r/androiddev/comments/15hds2l/offline_navigation_apps_how_to_inject_maps_in_an/)
+- [Books for beginners in android game development](https://www.reddit.com/r/androiddev/comments/15hdice/books_for_beginners_in_android_game_development/)
+- [ionic react android app](https://www.reddit.com/r/androiddev/comments/15hda32/ionic_react_android_app/)
+- [A bit worried about mobile job market](https://www.reddit.com/r/androiddev/comments/15hcyg9/a_bit_worried_about_mobile_job_market/)
+- [We have an update for our app that hasn&#39;t been updated since 2019, devs says we can’t update and we have to make another one.](https://www.reddit.com/r/androiddev/comments/15h9a1j/we_have_an_update_for_our_app_that_hasnt_been/)
+- [How to manage strings in multi-module app?](https://www.reddit.com/r/androiddev/comments/15h8v9q/how_to_manage_strings_in_multimodule_app/)
+- [Trying to understand why Compose side-effects have to be this difficult](https://www.reddit.com/r/androiddev/comments/15h6ju7/trying_to_understand_why_compose_sideeffects_have/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
