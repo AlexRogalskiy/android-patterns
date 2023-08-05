@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help](https://www.reddit.com/r/androiddev/comments/15hl4g8/help/)
-- [Organic downloads drop after changing developer name](https://www.reddit.com/r/androiddev/comments/15hgjqe/organic_downloads_drop_after_changing_developer/)
-- [Backend SDET to mobile SDET](https://www.reddit.com/r/androiddev/comments/15hgff7/backend_sdet_to_mobile_sdet/)
-- [Offline navigation apps - how to inject maps in an offline way?](https://www.reddit.com/r/androiddev/comments/15hds2l/offline_navigation_apps_how_to_inject_maps_in_an/)
-- [Books for beginners in android game development](https://www.reddit.com/r/androiddev/comments/15hdice/books_for_beginners_in_android_game_development/)
-- [ionic react android app](https://www.reddit.com/r/androiddev/comments/15hda32/ionic_react_android_app/)
-- [A bit worried about mobile job market](https://www.reddit.com/r/androiddev/comments/15hcyg9/a_bit_worried_about_mobile_job_market/)
-- [We have an update for our app that hasn&#39;t been updated since 2019, devs says we can’t update and we have to make another one.](https://www.reddit.com/r/androiddev/comments/15h9a1j/we_have_an_update_for_our_app_that_hasnt_been/)
-- [How to manage strings in multi-module app?](https://www.reddit.com/r/androiddev/comments/15h8v9q/how_to_manage_strings_in_multimodule_app/)
-- [Trying to understand why Compose side-effects have to be this difficult](https://www.reddit.com/r/androiddev/comments/15h6ju7/trying_to_understand_why_compose_sideeffects_have/)
+- [How to get Kotlin 1.9?](https://www.reddit.com/r/androiddev/comments/15iif38/how_to_get_kotlin_19/)
+- [RecyclerView doesn&#39;t go up when the soft keyboard opens tried everything I found online](https://www.reddit.com/r/androiddev/comments/15ib9be/recyclerview_doesnt_go_up_when_the_soft_keyboard/)
+- [Why is the splash screen API so complex? Took me hours to figure out how to make it work on all devices without using another activity](https://www.reddit.com/r/androiddev/comments/15i87yc/why_is_the_splash_screen_api_so_complex_took_me/)
+- [App Testing with 3 Emulators](https://www.reddit.com/r/androiddev/comments/15i5l84/app_testing_with_3_emulators/)
+- [[Self-Learning] Join Weekly Compose Challenge - Welcome back](https://www.reddit.com/r/androiddev/comments/15i4w0z/selflearning_join_weekly_compose_challenge/)
+- [AS Giraffe does not keep APK on device after espresso test finishes](https://www.reddit.com/r/androiddev/comments/15i12qo/as_giraffe_does_not_keep_apk_on_device_after/)
+- [Flutter passkeys package for Android](https://www.reddit.com/r/androiddev/comments/15hzw18/flutter_passkeys_package_for_android/)
+- [Android studio hacks to create your first Android app](https://www.reddit.com/r/androiddev/comments/15hzfcj/android_studio_hacks_to_create_your_first_android/)
+- [E2E Encryption - How important is it for Android applications](https://www.reddit.com/r/androiddev/comments/15hyw7v/e2e_encryption_how_important_is_it_for_android/)
+- [💥🙀 Supercharge Android App Indexing in 2023: Unveiling the Fastest and Most Effortless Route with CPI Campaigns](https://www.reddit.com/r/androiddev/comments/15hvy3j/supercharge_android_app_indexing_in_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
