@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to get Kotlin 1.9?](https://www.reddit.com/r/androiddev/comments/15iif38/how_to_get_kotlin_19/)
-- [RecyclerView doesn&#39;t go up when the soft keyboard opens tried everything I found online](https://www.reddit.com/r/androiddev/comments/15ib9be/recyclerview_doesnt_go_up_when_the_soft_keyboard/)
-- [Why is the splash screen API so complex? Took me hours to figure out how to make it work on all devices without using another activity](https://www.reddit.com/r/androiddev/comments/15i87yc/why_is_the_splash_screen_api_so_complex_took_me/)
-- [App Testing with 3 Emulators](https://www.reddit.com/r/androiddev/comments/15i5l84/app_testing_with_3_emulators/)
-- [[Self-Learning] Join Weekly Compose Challenge - Welcome back](https://www.reddit.com/r/androiddev/comments/15i4w0z/selflearning_join_weekly_compose_challenge/)
-- [AS Giraffe does not keep APK on device after espresso test finishes](https://www.reddit.com/r/androiddev/comments/15i12qo/as_giraffe_does_not_keep_apk_on_device_after/)
-- [Flutter passkeys package for Android](https://www.reddit.com/r/androiddev/comments/15hzw18/flutter_passkeys_package_for_android/)
-- [Android studio hacks to create your first Android app](https://www.reddit.com/r/androiddev/comments/15hzfcj/android_studio_hacks_to_create_your_first_android/)
-- [E2E Encryption - How important is it for Android applications](https://www.reddit.com/r/androiddev/comments/15hyw7v/e2e_encryption_how_important_is_it_for_android/)
-- [💥🙀 Supercharge Android App Indexing in 2023: Unveiling the Fastest and Most Effortless Route with CPI Campaigns](https://www.reddit.com/r/androiddev/comments/15hvy3j/supercharge_android_app_indexing_in_2023/)
+- [Alternative options for Firebase Phone Authentication?](https://www.reddit.com/r/androiddev/comments/15jbptt/alternative_options_for_firebase_phone/)
+- [app for stuff sharing over the LAN &lpar;does it exist&rpar;](https://www.reddit.com/r/androiddev/comments/15jan0l/app_for_stuff_sharing_over_the_lan_does_it_exist/)
+- [Is there any way to make Android Studio notify you about any missing IDs?](https://www.reddit.com/r/androiddev/comments/15ja7qm/is_there_any_way_to_make_android_studio_notify/)
+- [Guide - Creating an Android Quiz Application with OpenAI API](https://www.reddit.com/r/androiddev/comments/15j4pem/guide_creating_an_android_quiz_application_with/)
+- [Custom progress animation in Android](https://www.reddit.com/r/androiddev/comments/15izyis/custom_progress_animation_in_android/)
+- [Unit Testing SharedFlow inside a ViewModel](https://www.reddit.com/r/androiddev/comments/15iz5nj/unit_testing_sharedflow_inside_a_viewmodel/)
+- [How such UIs are made?](https://www.reddit.com/r/androiddev/comments/15iyh6h/how_such_uis_are_made/)
+- [Required information to create a Play Console developer account &lpar;effective August 31, 2023&rpar;](https://www.reddit.com/r/androiddev/comments/15iy74x/required_information_to_create_a_play_console/)
+- [Is there any way I can get this refund sooner??](https://www.reddit.com/r/androiddev/comments/15ixi0t/is_there_any_way_i_can_get_this_refund_sooner/)
+- [My developer account is remove by Google because of fraudulent payment activity](https://www.reddit.com/r/androiddev/comments/15ixcr4/my_developer_account_is_remove_by_google_because/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
