@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Alternative options for Firebase Phone Authentication?](https://www.reddit.com/r/androiddev/comments/15jbptt/alternative_options_for_firebase_phone/)
-- [app for stuff sharing over the LAN &lpar;does it exist&rpar;](https://www.reddit.com/r/androiddev/comments/15jan0l/app_for_stuff_sharing_over_the_lan_does_it_exist/)
-- [Is there any way to make Android Studio notify you about any missing IDs?](https://www.reddit.com/r/androiddev/comments/15ja7qm/is_there_any_way_to_make_android_studio_notify/)
-- [Guide - Creating an Android Quiz Application with OpenAI API](https://www.reddit.com/r/androiddev/comments/15j4pem/guide_creating_an_android_quiz_application_with/)
-- [Custom progress animation in Android](https://www.reddit.com/r/androiddev/comments/15izyis/custom_progress_animation_in_android/)
-- [Unit Testing SharedFlow inside a ViewModel](https://www.reddit.com/r/androiddev/comments/15iz5nj/unit_testing_sharedflow_inside_a_viewmodel/)
-- [How such UIs are made?](https://www.reddit.com/r/androiddev/comments/15iyh6h/how_such_uis_are_made/)
-- [Required information to create a Play Console developer account &lpar;effective August 31, 2023&rpar;](https://www.reddit.com/r/androiddev/comments/15iy74x/required_information_to_create_a_play_console/)
-- [Is there any way I can get this refund sooner??](https://www.reddit.com/r/androiddev/comments/15ixi0t/is_there_any_way_i_can_get_this_refund_sooner/)
-- [My developer account is remove by Google because of fraudulent payment activity](https://www.reddit.com/r/androiddev/comments/15ixcr4/my_developer_account_is_remove_by_google_because/)
+- [Breaking Free from Android Studio: Harnessing the Full Potential of Gradle for Building and Running…](https://www.reddit.com/r/androiddev/comments/15k6e4f/breaking_free_from_android_studio_harnessing_the/)
+- [How to &quot;degrade&quot; a good app like youtube?](https://www.reddit.com/r/androiddev/comments/15jyxxd/how_to_degrade_a_good_app_like_youtube/)
+- [Quickest/cheap way to turn a material design theme &lpar;shrine&rpar; into a web with domain for prototyping testing?](https://www.reddit.com/r/androiddev/comments/15jxpkz/quickestcheap_way_to_turn_a_material_design_theme/)
+- [Calling onResume in onPause?](https://www.reddit.com/r/androiddev/comments/15jxdgr/calling_onresume_in_onpause/)
+- [How do I make the pdfView swipe from right to left on my app?](https://www.reddit.com/r/androiddev/comments/15jws4u/how_do_i_make_the_pdfview_swipe_from_right_to/)
+- [How to get started with building a File Transfer App for Android?](https://www.reddit.com/r/androiddev/comments/15jvh7t/how_to_get_started_with_building_a_file_transfer/)
+- [Android Dev on the low end](https://www.reddit.com/r/androiddev/comments/15jux6g/android_dev_on_the_low_end/)
+- [Why does my widget color change depending on location?](https://www.reddit.com/r/androiddev/comments/15ju8s2/why_does_my_widget_color_change_depending_on/)
+- [Seeking Guidance in Android Development](https://www.reddit.com/r/androiddev/comments/15jszki/seeking_guidance_in_android_development/)
+- [How should I handle such reviews?](https://www.reddit.com/r/androiddev/comments/15jr2kl/how_should_i_handle_such_reviews/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
