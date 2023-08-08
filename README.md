@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Breaking Free from Android Studio: Harnessing the Full Potential of Gradle for Building and Running…](https://www.reddit.com/r/androiddev/comments/15k6e4f/breaking_free_from_android_studio_harnessing_the/)
-- [How to &quot;degrade&quot; a good app like youtube?](https://www.reddit.com/r/androiddev/comments/15jyxxd/how_to_degrade_a_good_app_like_youtube/)
-- [Quickest/cheap way to turn a material design theme &lpar;shrine&rpar; into a web with domain for prototyping testing?](https://www.reddit.com/r/androiddev/comments/15jxpkz/quickestcheap_way_to_turn_a_material_design_theme/)
-- [Calling onResume in onPause?](https://www.reddit.com/r/androiddev/comments/15jxdgr/calling_onresume_in_onpause/)
-- [How do I make the pdfView swipe from right to left on my app?](https://www.reddit.com/r/androiddev/comments/15jws4u/how_do_i_make_the_pdfview_swipe_from_right_to/)
-- [How to get started with building a File Transfer App for Android?](https://www.reddit.com/r/androiddev/comments/15jvh7t/how_to_get_started_with_building_a_file_transfer/)
-- [Android Dev on the low end](https://www.reddit.com/r/androiddev/comments/15jux6g/android_dev_on_the_low_end/)
-- [Why does my widget color change depending on location?](https://www.reddit.com/r/androiddev/comments/15ju8s2/why_does_my_widget_color_change_depending_on/)
-- [Seeking Guidance in Android Development](https://www.reddit.com/r/androiddev/comments/15jszki/seeking_guidance_in_android_development/)
-- [How should I handle such reviews?](https://www.reddit.com/r/androiddev/comments/15jr2kl/how_should_i_handle_such_reviews/)
+- [What is Maven?](https://www.reddit.com/r/androiddev/comments/15l1r95/what_is_maven/)
+- [Building c++ apps for android without android studio or java](https://www.reddit.com/r/androiddev/comments/15l01m8/building_c_apps_for_android_without_android/)
+- [How to avoid asking for Android Context in Kotlin Multiplatform libraries API](https://www.reddit.com/r/androiddev/comments/15kziqn/how_to_avoid_asking_for_android_context_in_kotlin/)
+- [Were you a solo developers/entrepreneur before? How did you manage to get a job?](https://www.reddit.com/r/androiddev/comments/15kzg9l/were_you_a_solo_developersentrepreneur_before_how/)
+- [Editing Generic.kl file goes wrong with Android 13](https://www.reddit.com/r/androiddev/comments/15kvt9z/editing_generickl_file_goes_wrong_with_android_13/)
+- [What kind of view should I use for a Tetris board?](https://www.reddit.com/r/androiddev/comments/15kub9f/what_kind_of_view_should_i_use_for_a_tetris_board/)
+- [What certification or courses Should I take as n native Android developer?](https://www.reddit.com/r/androiddev/comments/15kszgz/what_certification_or_courses_should_i_take_as_n/)
+- [What are your experiences with InAppMuxer in Media3 transformation library?](https://www.reddit.com/r/androiddev/comments/15kspw3/what_are_your_experiences_with_inappmuxer_in/)
+- [Implementing Drag-to-Reorder functionality for RecyclerView Items | Kotlin Guide](https://www.reddit.com/r/androiddev/comments/15krbzd/implementing_dragtoreorder_functionality_for/)
+- [Google suspended my account so I open-sourced my App](https://www.reddit.com/r/androiddev/comments/15kqpoz/google_suspended_my_account_so_i_opensourced_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
