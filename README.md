@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is Maven?](https://www.reddit.com/r/androiddev/comments/15l1r95/what_is_maven/)
-- [Building c++ apps for android without android studio or java](https://www.reddit.com/r/androiddev/comments/15l01m8/building_c_apps_for_android_without_android/)
-- [How to avoid asking for Android Context in Kotlin Multiplatform libraries API](https://www.reddit.com/r/androiddev/comments/15kziqn/how_to_avoid_asking_for_android_context_in_kotlin/)
-- [Were you a solo developers/entrepreneur before? How did you manage to get a job?](https://www.reddit.com/r/androiddev/comments/15kzg9l/were_you_a_solo_developersentrepreneur_before_how/)
-- [Editing Generic.kl file goes wrong with Android 13](https://www.reddit.com/r/androiddev/comments/15kvt9z/editing_generickl_file_goes_wrong_with_android_13/)
-- [What kind of view should I use for a Tetris board?](https://www.reddit.com/r/androiddev/comments/15kub9f/what_kind_of_view_should_i_use_for_a_tetris_board/)
-- [What certification or courses Should I take as n native Android developer?](https://www.reddit.com/r/androiddev/comments/15kszgz/what_certification_or_courses_should_i_take_as_n/)
-- [What are your experiences with InAppMuxer in Media3 transformation library?](https://www.reddit.com/r/androiddev/comments/15kspw3/what_are_your_experiences_with_inappmuxer_in/)
-- [Implementing Drag-to-Reorder functionality for RecyclerView Items | Kotlin Guide](https://www.reddit.com/r/androiddev/comments/15krbzd/implementing_dragtoreorder_functionality_for/)
-- [Google suspended my account so I open-sourced my App](https://www.reddit.com/r/androiddev/comments/15kqpoz/google_suspended_my_account_so_i_opensourced_my/)
+- [Need refresher on protecting yourself from play store upload scams...](https://www.reddit.com/r/androiddev/comments/15m04so/need_refresher_on_protecting_yourself_from_play/)
+- [Is it possible to download music from apps?](https://www.reddit.com/r/androiddev/comments/15lvab1/is_it_possible_to_download_music_from_apps/)
+- [Help me with Google play organization dev account verification](https://www.reddit.com/r/androiddev/comments/15lu5aa/help_me_with_google_play_organization_dev_account/)
+- [Android Emulator on Debian](https://www.reddit.com/r/androiddev/comments/15lskey/android_emulator_on_debian/)
+- [NOOB Trying To Understand Why My Splash Image Isn&#39;t Of High Quality [resolution]](https://www.reddit.com/r/androiddev/comments/15lrj7i/noob_trying_to_understand_why_my_splash_image/)
+- [How to make my app the default phone&#39;s app?](https://www.reddit.com/r/androiddev/comments/15lqj7p/how_to_make_my_app_the_default_phones_app/)
+- [Room database structure for an album-&gt;image type?](https://www.reddit.com/r/androiddev/comments/15lp603/room_database_structure_for_an_albumimage_type/)
+- [KDataStore: my enhanced datastore](https://www.reddit.com/r/androiddev/comments/15lczsc/kdatastore_my_enhanced_datastore/)
+- [Developing system app](https://www.reddit.com/r/androiddev/comments/15l9ww4/developing_system_app/)
+- [What&#39;s the easiest way to implement this offcial showcase in android.](https://www.reddit.com/r/androiddev/comments/15l6mft/whats_the_easiest_way_to_implement_this_offcial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
