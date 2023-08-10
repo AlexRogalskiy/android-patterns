@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need refresher on protecting yourself from play store upload scams...](https://www.reddit.com/r/androiddev/comments/15m04so/need_refresher_on_protecting_yourself_from_play/)
-- [Is it possible to download music from apps?](https://www.reddit.com/r/androiddev/comments/15lvab1/is_it_possible_to_download_music_from_apps/)
-- [Help me with Google play organization dev account verification](https://www.reddit.com/r/androiddev/comments/15lu5aa/help_me_with_google_play_organization_dev_account/)
-- [Android Emulator on Debian](https://www.reddit.com/r/androiddev/comments/15lskey/android_emulator_on_debian/)
-- [NOOB Trying To Understand Why My Splash Image Isn&#39;t Of High Quality [resolution]](https://www.reddit.com/r/androiddev/comments/15lrj7i/noob_trying_to_understand_why_my_splash_image/)
-- [How to make my app the default phone&#39;s app?](https://www.reddit.com/r/androiddev/comments/15lqj7p/how_to_make_my_app_the_default_phones_app/)
-- [Room database structure for an album-&gt;image type?](https://www.reddit.com/r/androiddev/comments/15lp603/room_database_structure_for_an_albumimage_type/)
-- [KDataStore: my enhanced datastore](https://www.reddit.com/r/androiddev/comments/15lczsc/kdatastore_my_enhanced_datastore/)
-- [Developing system app](https://www.reddit.com/r/androiddev/comments/15l9ww4/developing_system_app/)
-- [What&#39;s the easiest way to implement this offcial showcase in android.](https://www.reddit.com/r/androiddev/comments/15l6mft/whats_the_easiest_way_to_implement_this_offcial/)
+- [Upload an apk to Play Store](https://www.reddit.com/r/androiddev/comments/15mv74t/upload_an_apk_to_play_store/)
+- [Can anyone explain how wake word detection works on Android devices, such as a Google Pixel 7?](https://www.reddit.com/r/androiddev/comments/15msw7b/can_anyone_explain_how_wake_word_detection_works/)
+- [How long for app to publish?](https://www.reddit.com/r/androiddev/comments/15mr0fn/how_long_for_app_to_publish/)
+- [Did I make the wrong choice when choosing Kotlin over Java for Android app development?](https://www.reddit.com/r/androiddev/comments/15mq2df/did_i_make_the_wrong_choice_when_choosing_kotlin/)
+- [How is Android dev compared to web dev?](https://www.reddit.com/r/androiddev/comments/15mporo/how_is_android_dev_compared_to_web_dev/)
+- [What if your button nodded for the correct password?](https://www.reddit.com/r/androiddev/comments/15mpn0m/what_if_your_button_nodded_for_the_correct/)
+- [React developer looking to try Android dev, questions!](https://www.reddit.com/r/androiddev/comments/15mp7sj/react_developer_looking_to_try_android_dev/)
+- [Any way to build an Android app on pc without an emulator or on a physical device connected through usb? I tried using expo but it keeps crashing, plus unable to make react-native-googlesignin work with Firebase. Can I develop on web with phone view and later switch I get a pc with working usb port](https://www.reddit.com/r/androiddev/comments/15mmlgx/any_way_to_build_an_android_app_on_pc_without_an/)
+- [Is it possible to forcefully use deprecated methods in Android Studio](https://www.reddit.com/r/androiddev/comments/15mmkfr/is_it_possible_to_forcefully_use_deprecated/)
+- [Do i have to fill all &quot;app content&quot; forms for unpublished apps on play console?](https://www.reddit.com/r/androiddev/comments/15mk1uy/do_i_have_to_fill_all_app_content_forms_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
