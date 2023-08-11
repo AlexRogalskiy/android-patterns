@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Upload an apk to Play Store](https://www.reddit.com/r/androiddev/comments/15mv74t/upload_an_apk_to_play_store/)
-- [Can anyone explain how wake word detection works on Android devices, such as a Google Pixel 7?](https://www.reddit.com/r/androiddev/comments/15msw7b/can_anyone_explain_how_wake_word_detection_works/)
-- [How long for app to publish?](https://www.reddit.com/r/androiddev/comments/15mr0fn/how_long_for_app_to_publish/)
-- [Did I make the wrong choice when choosing Kotlin over Java for Android app development?](https://www.reddit.com/r/androiddev/comments/15mq2df/did_i_make_the_wrong_choice_when_choosing_kotlin/)
-- [How is Android dev compared to web dev?](https://www.reddit.com/r/androiddev/comments/15mporo/how_is_android_dev_compared_to_web_dev/)
-- [What if your button nodded for the correct password?](https://www.reddit.com/r/androiddev/comments/15mpn0m/what_if_your_button_nodded_for_the_correct/)
-- [React developer looking to try Android dev, questions!](https://www.reddit.com/r/androiddev/comments/15mp7sj/react_developer_looking_to_try_android_dev/)
-- [Any way to build an Android app on pc without an emulator or on a physical device connected through usb? I tried using expo but it keeps crashing, plus unable to make react-native-googlesignin work with Firebase. Can I develop on web with phone view and later switch I get a pc with working usb port](https://www.reddit.com/r/androiddev/comments/15mmlgx/any_way_to_build_an_android_app_on_pc_without_an/)
-- [Is it possible to forcefully use deprecated methods in Android Studio](https://www.reddit.com/r/androiddev/comments/15mmkfr/is_it_possible_to_forcefully_use_deprecated/)
-- [Do i have to fill all &quot;app content&quot; forms for unpublished apps on play console?](https://www.reddit.com/r/androiddev/comments/15mk1uy/do_i_have_to_fill_all_app_content_forms_for/)
+- [What the heck is going on with the Google Android cert?](https://www.reddit.com/r/androiddev/comments/15nuvet/what_the_heck_is_going_on_with_the_google_android/)
+- [Play Store Estimated Sales report - refreshed frequency](https://www.reddit.com/r/androiddev/comments/15ntgo4/play_store_estimated_sales_report_refreshed/)
+- [Remove the root and keep the QCN file intact](https://www.reddit.com/r/androiddev/comments/15nranb/remove_the_root_and_keep_the_qcn_file_intact/)
+- [APK not installing](https://www.reddit.com/r/androiddev/comments/15nqrm4/apk_not_installing/)
+- [Oreo_notification](https://www.reddit.com/r/androiddev/comments/15npfl5/oreo_notification/)
+- [How to do filling loading verticaly in jetpack compose?](https://www.reddit.com/r/androiddev/comments/15npdnu/how_to_do_filling_loading_verticaly_in_jetpack/)
+- [I wanted automatic bindings in Dagger so I made a library for it](https://www.reddit.com/r/androiddev/comments/15nndxq/i_wanted_automatic_bindings_in_dagger_so_i_made_a/)
+- [How do you handle ForegroundServiceStartNotAllowedException for a foreground service that tried to restart due to low memory?](https://www.reddit.com/r/androiddev/comments/15nkg4h/how_do_you_handle/)
+- [How difficult would making this be?](https://www.reddit.com/r/androiddev/comments/15nk10r/how_difficult_would_making_this_be/)
+- [Classes with mutable variables in jetpack compose](https://www.reddit.com/r/androiddev/comments/15nhs8f/classes_with_mutable_variables_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
