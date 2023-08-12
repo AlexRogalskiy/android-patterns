@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What the heck is going on with the Google Android cert?](https://www.reddit.com/r/androiddev/comments/15nuvet/what_the_heck_is_going_on_with_the_google_android/)
-- [Play Store Estimated Sales report - refreshed frequency](https://www.reddit.com/r/androiddev/comments/15ntgo4/play_store_estimated_sales_report_refreshed/)
-- [Remove the root and keep the QCN file intact](https://www.reddit.com/r/androiddev/comments/15nranb/remove_the_root_and_keep_the_qcn_file_intact/)
-- [APK not installing](https://www.reddit.com/r/androiddev/comments/15nqrm4/apk_not_installing/)
-- [Oreo_notification](https://www.reddit.com/r/androiddev/comments/15npfl5/oreo_notification/)
-- [How to do filling loading verticaly in jetpack compose?](https://www.reddit.com/r/androiddev/comments/15npdnu/how_to_do_filling_loading_verticaly_in_jetpack/)
-- [I wanted automatic bindings in Dagger so I made a library for it](https://www.reddit.com/r/androiddev/comments/15nndxq/i_wanted_automatic_bindings_in_dagger_so_i_made_a/)
-- [How do you handle ForegroundServiceStartNotAllowedException for a foreground service that tried to restart due to low memory?](https://www.reddit.com/r/androiddev/comments/15nkg4h/how_do_you_handle/)
-- [How difficult would making this be?](https://www.reddit.com/r/androiddev/comments/15nk10r/how_difficult_would_making_this_be/)
-- [Classes with mutable variables in jetpack compose](https://www.reddit.com/r/androiddev/comments/15nhs8f/classes_with_mutable_variables_in_jetpack_compose/)
+- [4 Year Project Now Publishing For Sale](https://www.reddit.com/r/androiddev/comments/15oqtt1/4_year_project_now_publishing_for_sale/)
+- [Code Libraries of Popular Apps?](https://www.reddit.com/r/androiddev/comments/15oq990/code_libraries_of_popular_apps/)
+- [Project for Developers! &lpar;Front and Backend&rpar;](https://www.reddit.com/r/androiddev/comments/15oojz1/project_for_developers_front_and_backend/)
+- [Introducing android job2email on Google Play Store: Your Quick Path to Swift Job Applications!](https://www.reddit.com/r/androiddev/comments/15on88d/introducing_android_job2email_on_google_play/)
+- [Introducing Android Studio Nightly - Android Studio Iguana](https://www.reddit.com/r/androiddev/comments/15olzl1/introducing_android_studio_nightly_android_studio/)
+- [Best way to create a customizable bottom navigation &lpar;Compose&rpar;](https://www.reddit.com/r/androiddev/comments/15ol07p/best_way_to_create_a_customizable_bottom/)
+- [Will i lose my apps ranking if i transfer them from one account to another?](https://www.reddit.com/r/androiddev/comments/15ojw4l/will_i_lose_my_apps_ranking_if_i_transfer_them/)
+- [My first game which I created at the age of 14 on my 2 cell phone with blog programming.](https://www.reddit.com/r/androiddev/comments/15ojpx1/my_first_game_which_i_created_at_the_age_of_14_on/)
+- [Android 8 app limitations?](https://www.reddit.com/r/androiddev/comments/15oigza/android_8_app_limitations/)
+- [Is there something wrong with the Google Play review process, or is it just me?](https://www.reddit.com/r/androiddev/comments/15ogng2/is_there_something_wrong_with_the_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
