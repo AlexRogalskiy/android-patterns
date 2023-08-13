@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [4 Year Project Now Publishing For Sale](https://www.reddit.com/r/androiddev/comments/15oqtt1/4_year_project_now_publishing_for_sale/)
-- [Code Libraries of Popular Apps?](https://www.reddit.com/r/androiddev/comments/15oq990/code_libraries_of_popular_apps/)
-- [Project for Developers! &lpar;Front and Backend&rpar;](https://www.reddit.com/r/androiddev/comments/15oojz1/project_for_developers_front_and_backend/)
-- [Introducing android job2email on Google Play Store: Your Quick Path to Swift Job Applications!](https://www.reddit.com/r/androiddev/comments/15on88d/introducing_android_job2email_on_google_play/)
-- [Introducing Android Studio Nightly - Android Studio Iguana](https://www.reddit.com/r/androiddev/comments/15olzl1/introducing_android_studio_nightly_android_studio/)
-- [Best way to create a customizable bottom navigation &lpar;Compose&rpar;](https://www.reddit.com/r/androiddev/comments/15ol07p/best_way_to_create_a_customizable_bottom/)
-- [Will i lose my apps ranking if i transfer them from one account to another?](https://www.reddit.com/r/androiddev/comments/15ojw4l/will_i_lose_my_apps_ranking_if_i_transfer_them/)
-- [My first game which I created at the age of 14 on my 2 cell phone with blog programming.](https://www.reddit.com/r/androiddev/comments/15ojpx1/my_first_game_which_i_created_at_the_age_of_14_on/)
-- [Android 8 app limitations?](https://www.reddit.com/r/androiddev/comments/15oigza/android_8_app_limitations/)
-- [Is there something wrong with the Google Play review process, or is it just me?](https://www.reddit.com/r/androiddev/comments/15ogng2/is_there_something_wrong_with_the_google_play/)
+- [Debate: Momentum vs custom icons: What is a better UX experience for users?](https://www.reddit.com/r/androiddev/comments/15plqiu/debate_momentum_vs_custom_icons_what_is_a_better/)
+- [How do you download apps published for certain countries?](https://www.reddit.com/r/androiddev/comments/15pknu6/how_do_you_download_apps_published_for_certain/)
+- [In which tech was that app built?](https://www.reddit.com/r/androiddev/comments/15pjzk5/in_which_tech_was_that_app_built/)
+- [Development of an application that will simplify working with YouTrack](https://www.reddit.com/r/androiddev/comments/15pfvp6/development_of_an_application_that_will_simplify/)
+- [Review request for my repository](https://www.reddit.com/r/androiddev/comments/15pepey/review_request_for_my_repository/)
+- [How do I get started with Android mobile app development?](https://www.reddit.com/r/androiddev/comments/15pb599/how_do_i_get_started_with_android_mobile_app/)
+- [Is it possible to pack bugs/malware in obb file?](https://www.reddit.com/r/androiddev/comments/15pal0r/is_it_possible_to_pack_bugsmalware_in_obb_file/)
+- [Idea for a phone addiction That I don&#39;t think has been thought of before.](https://www.reddit.com/r/androiddev/comments/15pai1r/idea_for_a_phone_addiction_that_i_dont_think_has/)
+- [Proposal: Android could support Activity/Fragment constructors with parameters.](https://www.reddit.com/r/androiddev/comments/15pa5qf/proposal_android_could_support_activityfragment/)
+- [Chrome on android lagging more and more over time on particular site, data leak? can it be fixed?](https://www.reddit.com/r/androiddev/comments/15p81g4/chrome_on_android_lagging_more_and_more_over_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
