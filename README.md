@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Serving data to app](https://www.reddit.com/r/androiddev/comments/15qejtk/serving_data_to_app/)
+- [Android Testing Tricks](https://www.reddit.com/r/androiddev/comments/15q8wah/android_testing_tricks/)
+- [How to connect my phone as an emulator on my pc to run any apps and still share pc configurations?](https://www.reddit.com/r/androiddev/comments/15q3fi6/how_to_connect_my_phone_as_an_emulator_on_my_pc/)
+- [Architecture samples/boilerplate for a new project](https://www.reddit.com/r/androiddev/comments/15q2ubk/architecture_samplesboilerplate_for_a_new_project/)
+- [Google play privacy policy](https://www.reddit.com/r/androiddev/comments/15pw5de/google_play_privacy_policy/)
+- [Unknown curve name: X448](https://www.reddit.com/r/androiddev/comments/15pv9dl/unknown_curve_name_x448/)
+- [will google make camera api a module now that most components are decoupled?](https://www.reddit.com/r/androiddev/comments/15ptlmh/will_google_make_camera_api_a_module_now_that/)
+- [Shortcut to switch between 4g and 5g networks.](https://www.reddit.com/r/androiddev/comments/15pp3hm/shortcut_to_switch_between_4g_and_5g_networks/)
+- [Regarding compose](https://www.reddit.com/r/androiddev/comments/15pmmyx/regarding_compose/)
 - [Debate: Momentum vs custom icons: What is a better UX experience for users?](https://www.reddit.com/r/androiddev/comments/15plqiu/debate_momentum_vs_custom_icons_what_is_a_better/)
-- [How do you download apps published for certain countries?](https://www.reddit.com/r/androiddev/comments/15pknu6/how_do_you_download_apps_published_for_certain/)
-- [In which tech was that app built?](https://www.reddit.com/r/androiddev/comments/15pjzk5/in_which_tech_was_that_app_built/)
-- [Development of an application that will simplify working with YouTrack](https://www.reddit.com/r/androiddev/comments/15pfvp6/development_of_an_application_that_will_simplify/)
-- [Review request for my repository](https://www.reddit.com/r/androiddev/comments/15pepey/review_request_for_my_repository/)
-- [How do I get started with Android mobile app development?](https://www.reddit.com/r/androiddev/comments/15pb599/how_do_i_get_started_with_android_mobile_app/)
-- [Is it possible to pack bugs/malware in obb file?](https://www.reddit.com/r/androiddev/comments/15pal0r/is_it_possible_to_pack_bugsmalware_in_obb_file/)
-- [Idea for a phone addiction That I don&#39;t think has been thought of before.](https://www.reddit.com/r/androiddev/comments/15pai1r/idea_for_a_phone_addiction_that_i_dont_think_has/)
-- [Proposal: Android could support Activity/Fragment constructors with parameters.](https://www.reddit.com/r/androiddev/comments/15pa5qf/proposal_android_could_support_activityfragment/)
-- [Chrome on android lagging more and more over time on particular site, data leak? can it be fixed?](https://www.reddit.com/r/androiddev/comments/15p81g4/chrome_on_android_lagging_more_and_more_over_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
