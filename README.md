@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Serving data to app](https://www.reddit.com/r/androiddev/comments/15qejtk/serving_data_to_app/)
-- [Android Testing Tricks](https://www.reddit.com/r/androiddev/comments/15q8wah/android_testing_tricks/)
-- [How to connect my phone as an emulator on my pc to run any apps and still share pc configurations?](https://www.reddit.com/r/androiddev/comments/15q3fi6/how_to_connect_my_phone_as_an_emulator_on_my_pc/)
-- [Architecture samples/boilerplate for a new project](https://www.reddit.com/r/androiddev/comments/15q2ubk/architecture_samplesboilerplate_for_a_new_project/)
-- [Google play privacy policy](https://www.reddit.com/r/androiddev/comments/15pw5de/google_play_privacy_policy/)
-- [Unknown curve name: X448](https://www.reddit.com/r/androiddev/comments/15pv9dl/unknown_curve_name_x448/)
-- [will google make camera api a module now that most components are decoupled?](https://www.reddit.com/r/androiddev/comments/15ptlmh/will_google_make_camera_api_a_module_now_that/)
-- [Shortcut to switch between 4g and 5g networks.](https://www.reddit.com/r/androiddev/comments/15pp3hm/shortcut_to_switch_between_4g_and_5g_networks/)
-- [Regarding compose](https://www.reddit.com/r/androiddev/comments/15pmmyx/regarding_compose/)
-- [Debate: Momentum vs custom icons: What is a better UX experience for users?](https://www.reddit.com/r/androiddev/comments/15plqiu/debate_momentum_vs_custom_icons_what_is_a_better/)
+- [Developing a voice-interactive app?](https://www.reddit.com/r/androiddev/comments/15ra80r/developing_a_voiceinteractive_app/)
+- [Unlocking bootloader and tripping knox](https://www.reddit.com/r/androiddev/comments/15r91nt/unlocking_bootloader_and_tripping_knox/)
+- [Can someone help me with this idk why my phone is doing this it’s a Nokia 2.4 2021 and it’s got a new screen and it’s showing this](https://www.reddit.com/r/androiddev/comments/15r8o86/can_someone_help_me_with_this_idk_why_my_phone_is/)
+- [Jetpack Compose memory leak when using remember ?](https://www.reddit.com/r/androiddev/comments/15r7k61/jetpack_compose_memory_leak_when_using_remember/)
+- [How do you update a composable based off of the value of a getter variable?](https://www.reddit.com/r/androiddev/comments/15r5hgs/how_do_you_update_a_composable_based_off_of_the/)
+- [FB Flipper - Accidentally uninstalled default plugin and can&#39;t get it back](https://www.reddit.com/r/androiddev/comments/15r4vu9/fb_flipper_accidentally_uninstalled_default/)
+- [TagLostException in NfcA.transceive&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/15qxx1k/taglostexception_in_nfcatransceive/)
+- [Is it possible to detect user clicks in the background?](https://www.reddit.com/r/androiddev/comments/15qxjqp/is_it_possible_to_detect_user_clicks_in_the/)
+- [How to Build a Collaborative and Efficient CI/CD Pipeline for Mobile App Project](https://www.reddit.com/r/androiddev/comments/15qv4gj/how_to_build_a_collaborative_and_efficient_cicd/)
+- [Weekly Who&#39;s Hiring Thread - August 14, 2023](https://www.reddit.com/r/androiddev/comments/15qu2ho/weekly_whos_hiring_thread_august_14_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
