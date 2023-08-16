@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Developing a voice-interactive app?](https://www.reddit.com/r/androiddev/comments/15ra80r/developing_a_voiceinteractive_app/)
-- [Unlocking bootloader and tripping knox](https://www.reddit.com/r/androiddev/comments/15r91nt/unlocking_bootloader_and_tripping_knox/)
-- [Can someone help me with this idk why my phone is doing this it’s a Nokia 2.4 2021 and it’s got a new screen and it’s showing this](https://www.reddit.com/r/androiddev/comments/15r8o86/can_someone_help_me_with_this_idk_why_my_phone_is/)
-- [Jetpack Compose memory leak when using remember ?](https://www.reddit.com/r/androiddev/comments/15r7k61/jetpack_compose_memory_leak_when_using_remember/)
-- [How do you update a composable based off of the value of a getter variable?](https://www.reddit.com/r/androiddev/comments/15r5hgs/how_do_you_update_a_composable_based_off_of_the/)
-- [FB Flipper - Accidentally uninstalled default plugin and can&#39;t get it back](https://www.reddit.com/r/androiddev/comments/15r4vu9/fb_flipper_accidentally_uninstalled_default/)
-- [TagLostException in NfcA.transceive&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/15qxx1k/taglostexception_in_nfcatransceive/)
-- [Is it possible to detect user clicks in the background?](https://www.reddit.com/r/androiddev/comments/15qxjqp/is_it_possible_to_detect_user_clicks_in_the/)
-- [How to Build a Collaborative and Efficient CI/CD Pipeline for Mobile App Project](https://www.reddit.com/r/androiddev/comments/15qv4gj/how_to_build_a_collaborative_and_efficient_cicd/)
-- [Weekly Who&#39;s Hiring Thread - August 14, 2023](https://www.reddit.com/r/androiddev/comments/15qu2ho/weekly_whos_hiring_thread_august_14_2023/)
+- [WebGPU - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/15s56qq/webgpu_android_developers_backstage/)
+- [Unable to launch camera through my Android app](https://www.reddit.com/r/androiddev/comments/15s3qsx/unable_to_launch_camera_through_my_android_app/)
+- [Passing ViewModel to Base Fragment class](https://www.reddit.com/r/androiddev/comments/15s0ybx/passing_viewmodel_to_base_fragment_class/)
+- [Android Studio Giraffe 2022.3.1, anyone has Debugger issues at all ?](https://www.reddit.com/r/androiddev/comments/15rzztv/android_studio_giraffe_202231_anyone_has_debugger/)
+- [Does Retrofit support TCP and UDP?](https://www.reddit.com/r/androiddev/comments/15rz36p/does_retrofit_support_tcp_and_udp/)
+- [Bottom Bar Navigation and backstack question](https://www.reddit.com/r/androiddev/comments/15rywrv/bottom_bar_navigation_and_backstack_question/)
+- [60% off top courses this month&lpar;August 2023&rpar; on UDACITY](https://www.reddit.com/r/androiddev/comments/15ryuzf/60_off_top_courses_this_monthaugust_2023_on/)
+- [Live edit not working](https://www.reddit.com/r/androiddev/comments/15ryjmj/live_edit_not_working/)
+- [Do focus requesters need to be tied to some event &lpar;for example click&rpar; or can I add them to LaunchEffect? &lpar;jetpack compose&rpar;](https://www.reddit.com/r/androiddev/comments/15ryf9y/do_focus_requesters_need_to_be_tied_to_some_event/)
+- [7 Week Android Dev class making me feel dumb](https://www.reddit.com/r/androiddev/comments/15rxtdz/7_week_android_dev_class_making_me_feel_dumb/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
