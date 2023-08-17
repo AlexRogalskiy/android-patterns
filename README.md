@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [WebGPU - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/15s56qq/webgpu_android_developers_backstage/)
-- [Unable to launch camera through my Android app](https://www.reddit.com/r/androiddev/comments/15s3qsx/unable_to_launch_camera_through_my_android_app/)
-- [Passing ViewModel to Base Fragment class](https://www.reddit.com/r/androiddev/comments/15s0ybx/passing_viewmodel_to_base_fragment_class/)
-- [Android Studio Giraffe 2022.3.1, anyone has Debugger issues at all ?](https://www.reddit.com/r/androiddev/comments/15rzztv/android_studio_giraffe_202231_anyone_has_debugger/)
-- [Does Retrofit support TCP and UDP?](https://www.reddit.com/r/androiddev/comments/15rz36p/does_retrofit_support_tcp_and_udp/)
-- [Bottom Bar Navigation and backstack question](https://www.reddit.com/r/androiddev/comments/15rywrv/bottom_bar_navigation_and_backstack_question/)
-- [60% off top courses this month&lpar;August 2023&rpar; on UDACITY](https://www.reddit.com/r/androiddev/comments/15ryuzf/60_off_top_courses_this_monthaugust_2023_on/)
-- [Live edit not working](https://www.reddit.com/r/androiddev/comments/15ryjmj/live_edit_not_working/)
-- [Do focus requesters need to be tied to some event &lpar;for example click&rpar; or can I add them to LaunchEffect? &lpar;jetpack compose&rpar;](https://www.reddit.com/r/androiddev/comments/15ryf9y/do_focus_requesters_need_to_be_tied_to_some_event/)
-- [7 Week Android Dev class making me feel dumb](https://www.reddit.com/r/androiddev/comments/15rxtdz/7_week_android_dev_class_making_me_feel_dumb/)
+- [Worst performance in both Fedora/Kubuntu than w11](https://www.reddit.com/r/androiddev/comments/15t4kp8/worst_performance_in_both_fedorakubuntu_than_w11/)
+- [opening a second google play developer account for a company. while i having the first one which has one suspension.](https://www.reddit.com/r/androiddev/comments/15t44yw/opening_a_second_google_play_developer_account/)
+- [Are there still native android development jobs on Up work?](https://www.reddit.com/r/androiddev/comments/15t2qcr/are_there_still_native_android_development_jobs/)
+- [What do you think about the state of advertising in mobile apps as a developer?](https://www.reddit.com/r/androiddev/comments/15t1i5a/what_do_you_think_about_the_state_of_advertising/)
+- [Starting with Android development to dive into AI/ML on edge devices?](https://www.reddit.com/r/androiddev/comments/15t0uzx/starting_with_android_development_to_dive_into/)
+- [I should have started learning with native and then learn flutter. I need advice.](https://www.reddit.com/r/androiddev/comments/15t0run/i_should_have_started_learning_with_native_and/)
+- [Apex Legends Mobile](https://www.reddit.com/r/androiddev/comments/15szyq1/apex_legends_mobile/)
+- [Google Play Console Automatization?](https://www.reddit.com/r/androiddev/comments/15sxrqi/google_play_console_automatization/)
+- [Play Console - Big Confusion](https://www.reddit.com/r/androiddev/comments/15sxlc3/play_console_big_confusion/)
+- [I have an issue where the Meta Audience Network SDK triggers a virus warning on APKs and I&#39;m scared to update my app on the Play Store because of that.](https://www.reddit.com/r/androiddev/comments/15sxifj/i_have_an_issue_where_the_meta_audience_network/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
