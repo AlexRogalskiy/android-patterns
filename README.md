@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Worst performance in both Fedora/Kubuntu than w11](https://www.reddit.com/r/androiddev/comments/15t4kp8/worst_performance_in_both_fedorakubuntu_than_w11/)
-- [opening a second google play developer account for a company. while i having the first one which has one suspension.](https://www.reddit.com/r/androiddev/comments/15t44yw/opening_a_second_google_play_developer_account/)
-- [Are there still native android development jobs on Up work?](https://www.reddit.com/r/androiddev/comments/15t2qcr/are_there_still_native_android_development_jobs/)
-- [What do you think about the state of advertising in mobile apps as a developer?](https://www.reddit.com/r/androiddev/comments/15t1i5a/what_do_you_think_about_the_state_of_advertising/)
-- [Starting with Android development to dive into AI/ML on edge devices?](https://www.reddit.com/r/androiddev/comments/15t0uzx/starting_with_android_development_to_dive_into/)
-- [I should have started learning with native and then learn flutter. I need advice.](https://www.reddit.com/r/androiddev/comments/15t0run/i_should_have_started_learning_with_native_and/)
-- [Apex Legends Mobile](https://www.reddit.com/r/androiddev/comments/15szyq1/apex_legends_mobile/)
-- [Google Play Console Automatization?](https://www.reddit.com/r/androiddev/comments/15sxrqi/google_play_console_automatization/)
-- [Play Console - Big Confusion](https://www.reddit.com/r/androiddev/comments/15sxlc3/play_console_big_confusion/)
-- [I have an issue where the Meta Audience Network SDK triggers a virus warning on APKs and I&#39;m scared to update my app on the Play Store because of that.](https://www.reddit.com/r/androiddev/comments/15sxifj/i_have_an_issue_where_the_meta_audience_network/)
+- [Doubt about personalized ads with GDPR](https://www.reddit.com/r/androiddev/comments/15u3nj6/doubt_about_personalized_ads_with_gdpr/)
+- [How do I know which android versions are able to use the developed app](https://www.reddit.com/r/androiddev/comments/15u1tou/how_do_i_know_which_android_versions_are_able_to/)
+- [Just published FlowMVI 2.0 - KMP MVI Architecture on steroids](https://www.reddit.com/r/androiddev/comments/15txr9o/just_published_flowmvi_20_kmp_mvi_architecture_on/)
+- [This is getting annoying.](https://www.reddit.com/r/androiddev/comments/15txett/this_is_getting_annoying/)
+- [Rendering pretty JSON in Compose! With syntax highlighting and expand/collapse](https://www.reddit.com/r/androiddev/comments/15trvr6/rendering_pretty_json_in_compose_with_syntax/)
+- [What to expect in an Android Technical Interview](https://www.reddit.com/r/androiddev/comments/15trk7x/what_to_expect_in_an_android_technical_interview/)
+- [Gradle 8.1 Error when adding a task](https://www.reddit.com/r/androiddev/comments/15tqb26/gradle_81_error_when_adding_a_task/)
+- [Voice activated assistant listener](https://www.reddit.com/r/androiddev/comments/15tp4eg/voice_activated_assistant_listener/)
+- [Created an app to keep up with the latest technology trends and published it on the PlayStore](https://www.reddit.com/r/androiddev/comments/15tp4ef/created_an_app_to_keep_up_with_the_latest/)
+- [When should use collectAsStateWithLifecycle&lpar;&rpar; and collectAsState&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/15tiy1p/when_should_use_collectasstatewithlifecycle_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
