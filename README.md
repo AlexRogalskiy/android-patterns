@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Doubt about personalized ads with GDPR](https://www.reddit.com/r/androiddev/comments/15u3nj6/doubt_about_personalized_ads_with_gdpr/)
-- [How do I know which android versions are able to use the developed app](https://www.reddit.com/r/androiddev/comments/15u1tou/how_do_i_know_which_android_versions_are_able_to/)
-- [Just published FlowMVI 2.0 - KMP MVI Architecture on steroids](https://www.reddit.com/r/androiddev/comments/15txr9o/just_published_flowmvi_20_kmp_mvi_architecture_on/)
-- [This is getting annoying.](https://www.reddit.com/r/androiddev/comments/15txett/this_is_getting_annoying/)
-- [Rendering pretty JSON in Compose! With syntax highlighting and expand/collapse](https://www.reddit.com/r/androiddev/comments/15trvr6/rendering_pretty_json_in_compose_with_syntax/)
-- [What to expect in an Android Technical Interview](https://www.reddit.com/r/androiddev/comments/15trk7x/what_to_expect_in_an_android_technical_interview/)
-- [Gradle 8.1 Error when adding a task](https://www.reddit.com/r/androiddev/comments/15tqb26/gradle_81_error_when_adding_a_task/)
-- [Voice activated assistant listener](https://www.reddit.com/r/androiddev/comments/15tp4eg/voice_activated_assistant_listener/)
-- [Created an app to keep up with the latest technology trends and published it on the PlayStore](https://www.reddit.com/r/androiddev/comments/15tp4ef/created_an_app_to_keep_up_with_the_latest/)
-- [When should use collectAsStateWithLifecycle&lpar;&rpar; and collectAsState&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/15tiy1p/when_should_use_collectasstatewithlifecycle_and/)
+- [New Grad Android Dev Market?](https://www.reddit.com/r/androiddev/comments/15v0djp/new_grad_android_dev_market/)
+- [Can I somehow inject the activity into my class?](https://www.reddit.com/r/androiddev/comments/15uzqhv/can_i_somehow_inject_the_activity_into_my_class/)
+- [Package appears to be invalid](https://www.reddit.com/r/androiddev/comments/15uyu8c/package_appears_to_be_invalid/)
+- [Noob here, can you explain what makes an app slow and how can I prevent it? For example , if I were to remake YouTube or Netflix app, how would I make videos load fast like it does there?](https://www.reddit.com/r/androiddev/comments/15uwvn8/noob_here_can_you_explain_what_makes_an_app_slow/)
+- [Unresolved reference: implementation](https://www.reddit.com/r/androiddev/comments/15uwtks/unresolved_reference_implementation/)
+- [One-tap sign in vs credential manager](https://www.reddit.com/r/androiddev/comments/15uuyev/onetap_sign_in_vs_credential_manager/)
+- [In App-Payment integration options](https://www.reddit.com/r/androiddev/comments/15utmoy/in_apppayment_integration_options/)
+- [Getting open vpn to work](https://www.reddit.com/r/androiddev/comments/15ut9qm/getting_open_vpn_to_work/)
+- [developing apps on android?](https://www.reddit.com/r/androiddev/comments/15usxwd/developing_apps_on_android/)
+- [More Accessible Graphs with Compose: Differentiating without Color](https://www.reddit.com/r/androiddev/comments/15usq2n/more_accessible_graphs_with_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
