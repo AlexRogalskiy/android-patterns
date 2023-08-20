@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New Grad Android Dev Market?](https://www.reddit.com/r/androiddev/comments/15v0djp/new_grad_android_dev_market/)
-- [Can I somehow inject the activity into my class?](https://www.reddit.com/r/androiddev/comments/15uzqhv/can_i_somehow_inject_the_activity_into_my_class/)
-- [Package appears to be invalid](https://www.reddit.com/r/androiddev/comments/15uyu8c/package_appears_to_be_invalid/)
-- [Noob here, can you explain what makes an app slow and how can I prevent it? For example , if I were to remake YouTube or Netflix app, how would I make videos load fast like it does there?](https://www.reddit.com/r/androiddev/comments/15uwvn8/noob_here_can_you_explain_what_makes_an_app_slow/)
-- [Unresolved reference: implementation](https://www.reddit.com/r/androiddev/comments/15uwtks/unresolved_reference_implementation/)
-- [One-tap sign in vs credential manager](https://www.reddit.com/r/androiddev/comments/15uuyev/onetap_sign_in_vs_credential_manager/)
-- [In App-Payment integration options](https://www.reddit.com/r/androiddev/comments/15utmoy/in_apppayment_integration_options/)
-- [Getting open vpn to work](https://www.reddit.com/r/androiddev/comments/15ut9qm/getting_open_vpn_to_work/)
-- [developing apps on android?](https://www.reddit.com/r/androiddev/comments/15usxwd/developing_apps_on_android/)
-- [More Accessible Graphs with Compose: Differentiating without Color](https://www.reddit.com/r/androiddev/comments/15usq2n/more_accessible_graphs_with_compose/)
+- [Looking for resume feedback. Applying for remote jobs in Europe and North America](https://www.reddit.com/r/androiddev/comments/15vw4tj/looking_for_resume_feedback_applying_for_remote/)
+- [Is there an app that will show what commands or packets a Bluetooth mouse is sending to my phone?](https://www.reddit.com/r/androiddev/comments/15vui59/is_there_an_app_that_will_show_what_commands_or/)
+- [Hi, How make my MainActivity reload? I&#39;m making weather app and after entering city name when click Search button &lpar;defined in SearchActivity&rpar;. I am get backs to MainActivity but it does reload MainActivity, I have to close and open the app to load data of newly inserted city. Is there any solution?](https://www.reddit.com/r/androiddev/comments/15vsl1y/hi_how_make_my_mainactivity_reload_im_making/)
+- [Anyone considering creating a buildSrc directory should watch this guy&#39;s brilliant explanation of Gradle&#39;s functionality](https://www.reddit.com/r/androiddev/comments/15vqr1d/anyone_considering_creating_a_buildsrc_directory/)
+- [How does &quot;Snapchat IMEI ban&quot; work if reading IMEI requires READ_PRIVILEGED_PHONE_STATE?](https://www.reddit.com/r/androiddev/comments/15vq375/how_does_snapchat_imei_ban_work_if_reading_imei/)
+- [Google Play API Requirements on Closed Testing?](https://www.reddit.com/r/androiddev/comments/15vpb1d/google_play_api_requirements_on_closed_testing/)
+- [Android device started to shut down immediately right after starting USB debugging after months of flawless development](https://www.reddit.com/r/androiddev/comments/15voyhw/android_device_started_to_shut_down_immediately/)
+- [Need help with choosing a course](https://www.reddit.com/r/androiddev/comments/15vo8uh/need_help_with_choosing_a_course/)
+- [Useful Library for WordSearch Game ?](https://www.reddit.com/r/androiddev/comments/15vn2zu/useful_library_for_wordsearch_game/)
+- [AdMob Affiliate App Links?](https://www.reddit.com/r/androiddev/comments/15vmbjh/admob_affiliate_app_links/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
