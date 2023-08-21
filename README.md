@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for resume feedback. Applying for remote jobs in Europe and North America](https://www.reddit.com/r/androiddev/comments/15vw4tj/looking_for_resume_feedback_applying_for_remote/)
-- [Is there an app that will show what commands or packets a Bluetooth mouse is sending to my phone?](https://www.reddit.com/r/androiddev/comments/15vui59/is_there_an_app_that_will_show_what_commands_or/)
-- [Hi, How make my MainActivity reload? I&#39;m making weather app and after entering city name when click Search button &lpar;defined in SearchActivity&rpar;. I am get backs to MainActivity but it does reload MainActivity, I have to close and open the app to load data of newly inserted city. Is there any solution?](https://www.reddit.com/r/androiddev/comments/15vsl1y/hi_how_make_my_mainactivity_reload_im_making/)
-- [Anyone considering creating a buildSrc directory should watch this guy&#39;s brilliant explanation of Gradle&#39;s functionality](https://www.reddit.com/r/androiddev/comments/15vqr1d/anyone_considering_creating_a_buildsrc_directory/)
-- [How does &quot;Snapchat IMEI ban&quot; work if reading IMEI requires READ_PRIVILEGED_PHONE_STATE?](https://www.reddit.com/r/androiddev/comments/15vq375/how_does_snapchat_imei_ban_work_if_reading_imei/)
-- [Google Play API Requirements on Closed Testing?](https://www.reddit.com/r/androiddev/comments/15vpb1d/google_play_api_requirements_on_closed_testing/)
-- [Android device started to shut down immediately right after starting USB debugging after months of flawless development](https://www.reddit.com/r/androiddev/comments/15voyhw/android_device_started_to_shut_down_immediately/)
-- [Need help with choosing a course](https://www.reddit.com/r/androiddev/comments/15vo8uh/need_help_with_choosing_a_course/)
-- [Useful Library for WordSearch Game ?](https://www.reddit.com/r/androiddev/comments/15vn2zu/useful_library_for_wordsearch_game/)
-- [AdMob Affiliate App Links?](https://www.reddit.com/r/androiddev/comments/15vmbjh/admob_affiliate_app_links/)
+- [Google api target level requirement](https://www.reddit.com/r/androiddev/comments/15wqwe1/google_api_target_level_requirement/)
+- [Firewall Requiments for Location](https://www.reddit.com/r/androiddev/comments/15wp3ea/firewall_requiments_for_location/)
+- [A 40 lines app needs 40 files](https://www.reddit.com/r/androiddev/comments/15wnkng/a_40_lines_app_needs_40_files/)
+- [Otp login doesn&#39;t work as soon as in run the APK](https://www.reddit.com/r/androiddev/comments/15wmat3/otp_login_doesnt_work_as_soon_as_in_run_the_apk/)
+- [Question about the Google Play account deletion requirements](https://www.reddit.com/r/androiddev/comments/15wkmmj/question_about_the_google_play_account_deletion/)
+- [A cheat sheet for Kotlin](https://www.reddit.com/r/androiddev/comments/15wjkij/a_cheat_sheet_for_kotlin/)
+- [Graph store like neo4j for android?](https://www.reddit.com/r/androiddev/comments/15wj06p/graph_store_like_neo4j_for_android/)
+- [Looking for some guidance on how to get started with a project involving android auto and head units.](https://www.reddit.com/r/androiddev/comments/15wgxmo/looking_for_some_guidance_on_how_to_get_started/)
+- [Merchant disbursement verification &amp; payouts on hold](https://www.reddit.com/r/androiddev/comments/15wg9ls/merchant_disbursement_verification_payouts_on_hold/)
+- [My terminated app is still getting downloads.](https://www.reddit.com/r/androiddev/comments/15wf8xx/my_terminated_app_is_still_getting_downloads/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
