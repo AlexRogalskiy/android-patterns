@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google api target level requirement](https://www.reddit.com/r/androiddev/comments/15wqwe1/google_api_target_level_requirement/)
-- [Firewall Requiments for Location](https://www.reddit.com/r/androiddev/comments/15wp3ea/firewall_requiments_for_location/)
-- [A 40 lines app needs 40 files](https://www.reddit.com/r/androiddev/comments/15wnkng/a_40_lines_app_needs_40_files/)
-- [Otp login doesn&#39;t work as soon as in run the APK](https://www.reddit.com/r/androiddev/comments/15wmat3/otp_login_doesnt_work_as_soon_as_in_run_the_apk/)
-- [Question about the Google Play account deletion requirements](https://www.reddit.com/r/androiddev/comments/15wkmmj/question_about_the_google_play_account_deletion/)
-- [A cheat sheet for Kotlin](https://www.reddit.com/r/androiddev/comments/15wjkij/a_cheat_sheet_for_kotlin/)
-- [Graph store like neo4j for android?](https://www.reddit.com/r/androiddev/comments/15wj06p/graph_store_like_neo4j_for_android/)
-- [Looking for some guidance on how to get started with a project involving android auto and head units.](https://www.reddit.com/r/androiddev/comments/15wgxmo/looking_for_some_guidance_on_how_to_get_started/)
-- [Merchant disbursement verification &amp; payouts on hold](https://www.reddit.com/r/androiddev/comments/15wg9ls/merchant_disbursement_verification_payouts_on_hold/)
-- [My terminated app is still getting downloads.](https://www.reddit.com/r/androiddev/comments/15wf8xx/my_terminated_app_is_still_getting_downloads/)
+- [I made a platform to connect to the Health Connect API remotely via a REST API!](https://www.reddit.com/r/androiddev/comments/15xq0ab/i_made_a_platform_to_connect_to_the_health/)
+- [Latest ARTwork on hundreds of millions of devices](https://www.reddit.com/r/androiddev/comments/15xl7tk/latest_artwork_on_hundreds_of_millions_of_devices/)
+- [Watch Face app update rejection: About Failed Review of Wear OS App and Check of Premium Feature Option](https://www.reddit.com/r/androiddev/comments/15xjgiq/watch_face_app_update_rejection_about_failed/)
+- [Make your Android widget display on the Cover Screen of the Samsung Galaxy Z Flip5](https://www.reddit.com/r/androiddev/comments/15xjcjx/make_your_android_widget_display_on_the_cover/)
+- [Anime AI Art Coloring Game](https://www.reddit.com/r/androiddev/comments/15xjc73/anime_ai_art_coloring_game/)
+- [[HELP] OBS Studio &lpar;virtual camera&rpar; to real phone device conected by USB?](https://www.reddit.com/r/androiddev/comments/15xj2fy/help_obs_studio_virtual_camera_to_real_phone/)
+- [Dev account terminated after 12 years for violating &quot;Stalkerware policy&quot;?](https://www.reddit.com/r/androiddev/comments/15xj0ow/dev_account_terminated_after_12_years_for/)
+- [App suspension: Confused Policy](https://www.reddit.com/r/androiddev/comments/15xi4iw/app_suspension_confused_policy/)
+- [How to proceed with this?](https://www.reddit.com/r/androiddev/comments/15xhpw4/how_to_proceed_with_this/)
+- [Understanding ACCEPT_HANDOVER permission/capability](https://www.reddit.com/r/androiddev/comments/15xhhfm/understanding_accept_handover_permissioncapability/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
