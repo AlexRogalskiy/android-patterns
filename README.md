@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a platform to connect to the Health Connect API remotely via a REST API!](https://www.reddit.com/r/androiddev/comments/15xq0ab/i_made_a_platform_to_connect_to_the_health/)
-- [Latest ARTwork on hundreds of millions of devices](https://www.reddit.com/r/androiddev/comments/15xl7tk/latest_artwork_on_hundreds_of_millions_of_devices/)
-- [Watch Face app update rejection: About Failed Review of Wear OS App and Check of Premium Feature Option](https://www.reddit.com/r/androiddev/comments/15xjgiq/watch_face_app_update_rejection_about_failed/)
-- [Make your Android widget display on the Cover Screen of the Samsung Galaxy Z Flip5](https://www.reddit.com/r/androiddev/comments/15xjcjx/make_your_android_widget_display_on_the_cover/)
-- [Anime AI Art Coloring Game](https://www.reddit.com/r/androiddev/comments/15xjc73/anime_ai_art_coloring_game/)
-- [[HELP] OBS Studio &lpar;virtual camera&rpar; to real phone device conected by USB?](https://www.reddit.com/r/androiddev/comments/15xj2fy/help_obs_studio_virtual_camera_to_real_phone/)
-- [Dev account terminated after 12 years for violating &quot;Stalkerware policy&quot;?](https://www.reddit.com/r/androiddev/comments/15xj0ow/dev_account_terminated_after_12_years_for/)
-- [App suspension: Confused Policy](https://www.reddit.com/r/androiddev/comments/15xi4iw/app_suspension_confused_policy/)
-- [How to proceed with this?](https://www.reddit.com/r/androiddev/comments/15xhpw4/how_to_proceed_with_this/)
-- [Understanding ACCEPT_HANDOVER permission/capability](https://www.reddit.com/r/androiddev/comments/15xhhfm/understanding_accept_handover_permissioncapability/)
+- [Do new app get a visibility boost on the play store?](https://www.reddit.com/r/androiddev/comments/15yiufx/do_new_app_get_a_visibility_boost_on_the_play/)
+- [Can I use the lineageOS device tree for my phone to port/build a Kali nethunter kernel? &lpar;The source code from OnePlus is incomplete&rpar;](https://www.reddit.com/r/androiddev/comments/15yisv4/can_i_use_the_lineageos_device_tree_for_my_phone/)
+- [Should I learn rn as a web dev or should I learn android and rn for more opportunities?](https://www.reddit.com/r/androiddev/comments/15yh5sd/should_i_learn_rn_as_a_web_dev_or_should_i_learn/)
+- [Android Studio Giraffe Patch 1 now available](https://www.reddit.com/r/androiddev/comments/15yf1nh/android_studio_giraffe_patch_1_now_available/)
+- [Android Dev Experience is AWFULLY awful](https://www.reddit.com/r/androiddev/comments/15ycufa/android_dev_experience_is_awfully_awful/)
+- [What&#39;s new in Android Studio Hedgehog Canary 13..](https://www.reddit.com/r/androiddev/comments/15ybszc/whats_new_in_android_studio_hedgehog_canary_13/)
+- [Google is going to remove NetGuard from the Play Store for a nonsensical reason](https://www.reddit.com/r/androiddev/comments/15yazqw/google_is_going_to_remove_netguard_from_the_play/)
+- [Feeling Depression as an Android Dev: Let&#39;s Share &amp; Support](https://www.reddit.com/r/androiddev/comments/15yabwy/feeling_depression_as_an_android_dev_lets_share/)
+- [Common ADB shell commands](https://www.reddit.com/r/androiddev/comments/15y9w52/common_adb_shell_commands/)
+- [How to handle api integration for app targeting a huge audience.](https://www.reddit.com/r/androiddev/comments/15y73gh/how_to_handle_api_integration_for_app_targeting_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
