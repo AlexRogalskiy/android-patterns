@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do new app get a visibility boost on the play store?](https://www.reddit.com/r/androiddev/comments/15yiufx/do_new_app_get_a_visibility_boost_on_the_play/)
-- [Can I use the lineageOS device tree for my phone to port/build a Kali nethunter kernel? &lpar;The source code from OnePlus is incomplete&rpar;](https://www.reddit.com/r/androiddev/comments/15yisv4/can_i_use_the_lineageos_device_tree_for_my_phone/)
-- [Should I learn rn as a web dev or should I learn android and rn for more opportunities?](https://www.reddit.com/r/androiddev/comments/15yh5sd/should_i_learn_rn_as_a_web_dev_or_should_i_learn/)
-- [Android Studio Giraffe Patch 1 now available](https://www.reddit.com/r/androiddev/comments/15yf1nh/android_studio_giraffe_patch_1_now_available/)
-- [Android Dev Experience is AWFULLY awful](https://www.reddit.com/r/androiddev/comments/15ycufa/android_dev_experience_is_awfully_awful/)
-- [What&#39;s new in Android Studio Hedgehog Canary 13..](https://www.reddit.com/r/androiddev/comments/15ybszc/whats_new_in_android_studio_hedgehog_canary_13/)
-- [Google is going to remove NetGuard from the Play Store for a nonsensical reason](https://www.reddit.com/r/androiddev/comments/15yazqw/google_is_going_to_remove_netguard_from_the_play/)
-- [Feeling Depression as an Android Dev: Let&#39;s Share &amp; Support](https://www.reddit.com/r/androiddev/comments/15yabwy/feeling_depression_as_an_android_dev_lets_share/)
-- [Common ADB shell commands](https://www.reddit.com/r/androiddev/comments/15y9w52/common_adb_shell_commands/)
-- [How to handle api integration for app targeting a huge audience.](https://www.reddit.com/r/androiddev/comments/15y73gh/how_to_handle_api_integration_for_app_targeting_a/)
+- [Is it possible to use a DI framework such as Hilt or Dagger2 in your library even though my library might be used by people who are not using Hilt or Dagger2 at all?](https://www.reddit.com/r/androiddev/comments/15zmr5i/is_it_possible_to_use_a_di_framework_such_as_hilt/)
+- [ADB shell not always working](https://www.reddit.com/r/androiddev/comments/15zlxuv/adb_shell_not_always_working/)
+- [Auto install widget](https://www.reddit.com/r/androiddev/comments/15zjt0j/auto_install_widget/)
+- [AOSP A/B ota factory reset](https://www.reddit.com/r/androiddev/comments/15zjm9x/aosp_ab_ota_factory_reset/)
+- [Backend developer with two years of experience and a couple hobby android apps from 3 years ago, should I pursue Android Development in this market or is it better to stay in backend and learn more advanced concepts.](https://www.reddit.com/r/androiddev/comments/15ziqrs/backend_developer_with_two_years_of_experience/)
+- [Using abstract class Task](https://www.reddit.com/r/androiddev/comments/15zflai/using_abstract_class_task/)
+- [Creating a Game is that Easy!](https://www.reddit.com/r/androiddev/comments/15zf7pj/creating_a_game_is_that_easy/)
+- [Has anyone been through this situation?](https://www.reddit.com/r/androiddev/comments/15zeehw/has_anyone_been_through_this_situation/)
+- [How to approach this project as a beginner?](https://www.reddit.com/r/androiddev/comments/15zcfo4/how_to_approach_this_project_as_a_beginner/)
+- [vs code creating a duplicate PowerShell every time i run a java code instated of running it at the bottom of the already opened terminal, also opening debugging and displaying this error, also takes days for it to open](https://www.reddit.com/r/androiddev/comments/15zccjt/vs_code_creating_a_duplicate_powershell_every/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
