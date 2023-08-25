@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible to use a DI framework such as Hilt or Dagger2 in your library even though my library might be used by people who are not using Hilt or Dagger2 at all?](https://www.reddit.com/r/androiddev/comments/15zmr5i/is_it_possible_to_use_a_di_framework_such_as_hilt/)
-- [ADB shell not always working](https://www.reddit.com/r/androiddev/comments/15zlxuv/adb_shell_not_always_working/)
-- [Auto install widget](https://www.reddit.com/r/androiddev/comments/15zjt0j/auto_install_widget/)
-- [AOSP A/B ota factory reset](https://www.reddit.com/r/androiddev/comments/15zjm9x/aosp_ab_ota_factory_reset/)
-- [Backend developer with two years of experience and a couple hobby android apps from 3 years ago, should I pursue Android Development in this market or is it better to stay in backend and learn more advanced concepts.](https://www.reddit.com/r/androiddev/comments/15ziqrs/backend_developer_with_two_years_of_experience/)
-- [Using abstract class Task](https://www.reddit.com/r/androiddev/comments/15zflai/using_abstract_class_task/)
-- [Creating a Game is that Easy!](https://www.reddit.com/r/androiddev/comments/15zf7pj/creating_a_game_is_that_easy/)
-- [Has anyone been through this situation?](https://www.reddit.com/r/androiddev/comments/15zeehw/has_anyone_been_through_this_situation/)
-- [How to approach this project as a beginner?](https://www.reddit.com/r/androiddev/comments/15zcfo4/how_to_approach_this_project_as_a_beginner/)
-- [vs code creating a duplicate PowerShell every time i run a java code instated of running it at the bottom of the already opened terminal, also opening debugging and displaying this error, also takes days for it to open](https://www.reddit.com/r/androiddev/comments/15zccjt/vs_code_creating_a_duplicate_powershell_every/)
+- [Job market in Asian countries](https://www.reddit.com/r/androiddev/comments/160id8s/job_market_in_asian_countries/)
+- [How do you manage previews in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/160fpwt/how_do_you_manage_previews_in_jetpack_compose/)
+- [I made an app with jetpack compose for TV and mobile and on TV it&#39;s really slow. I want to understand why is it behaving that way. Any good articles or tutorials on app profiling?](https://www.reddit.com/r/androiddev/comments/160fl0l/i_made_an_app_with_jetpack_compose_for_tv_and/)
+- [Best way to add dynamic color to an image?](https://www.reddit.com/r/androiddev/comments/160d50p/best_way_to_add_dynamic_color_to_an_image/)
+- [Best way to add dynamic color to an image?](https://www.reddit.com/r/androiddev/comments/160d4yk/best_way_to_add_dynamic_color_to_an_image/)
+- [Dependency Injection &lpar;Dagger-Hilt&rpar; Tutorial](https://www.reddit.com/r/androiddev/comments/160c564/dependency_injection_daggerhilt_tutorial/)
+- [Is there any prospect for Android development in the US?](https://www.reddit.com/r/androiddev/comments/160aybw/is_there_any_prospect_for_android_development_in/)
+- [Applovin SDK causing WebView crashes](https://www.reddit.com/r/androiddev/comments/16084hz/applovin_sdk_causing_webview_crashes/)
+- [Problem tracking memory leak? Check this out It&#39;s free.](https://www.reddit.com/r/androiddev/comments/16082tb/problem_tracking_memory_leak_check_this_out_its/)
+- [What is the correct way of determining whether a dependency is actually unused or not?](https://www.reddit.com/r/androiddev/comments/1606jtu/what_is_the_correct_way_of_determining_whether_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
