@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Job market in Asian countries](https://www.reddit.com/r/androiddev/comments/160id8s/job_market_in_asian_countries/)
-- [How do you manage previews in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/160fpwt/how_do_you_manage_previews_in_jetpack_compose/)
-- [I made an app with jetpack compose for TV and mobile and on TV it&#39;s really slow. I want to understand why is it behaving that way. Any good articles or tutorials on app profiling?](https://www.reddit.com/r/androiddev/comments/160fl0l/i_made_an_app_with_jetpack_compose_for_tv_and/)
-- [Best way to add dynamic color to an image?](https://www.reddit.com/r/androiddev/comments/160d50p/best_way_to_add_dynamic_color_to_an_image/)
-- [Best way to add dynamic color to an image?](https://www.reddit.com/r/androiddev/comments/160d4yk/best_way_to_add_dynamic_color_to_an_image/)
-- [Dependency Injection &lpar;Dagger-Hilt&rpar; Tutorial](https://www.reddit.com/r/androiddev/comments/160c564/dependency_injection_daggerhilt_tutorial/)
-- [Is there any prospect for Android development in the US?](https://www.reddit.com/r/androiddev/comments/160aybw/is_there_any_prospect_for_android_development_in/)
-- [Applovin SDK causing WebView crashes](https://www.reddit.com/r/androiddev/comments/16084hz/applovin_sdk_causing_webview_crashes/)
-- [Problem tracking memory leak? Check this out It&#39;s free.](https://www.reddit.com/r/androiddev/comments/16082tb/problem_tracking_memory_leak_check_this_out_its/)
-- [What is the correct way of determining whether a dependency is actually unused or not?](https://www.reddit.com/r/androiddev/comments/1606jtu/what_is_the_correct_way_of_determining_whether_a/)
+- [Handling scrollable child views in a custom view extending Viewgroup class](https://www.reddit.com/r/androiddev/comments/161gshs/handling_scrollable_child_views_in_a_custom_view/)
+- [Notification of Google play about the upcoming call](https://www.reddit.com/r/androiddev/comments/161ehmh/notification_of_google_play_about_the_upcoming/)
+- [What age group considered as &quot;Teens&quot; in Google Play Console, im going to use &quot;AdMobs&quot; Teen setting.](https://www.reddit.com/r/androiddev/comments/161dozw/what_age_group_considered_as_teens_in_google_play/)
+- [Achieve Your Goals with Passion, Hard Work, and Dedication](https://www.reddit.com/r/androiddev/comments/1619rb4/achieve_your_goals_with_passion_hard_work_and/)
+- [What is the correct way to query purchases in Google Play Billing Library 5 and why is this not working?](https://www.reddit.com/r/androiddev/comments/1618w9t/what_is_the_correct_way_to_query_purchases_in/)
+- [If I sell developer account is that another company use that?](https://www.reddit.com/r/androiddev/comments/1618pwl/if_i_sell_developer_account_is_that_another/)
+- [writing soft for digital minimalism. is there are way to turn smartphone to dumbphone?](https://www.reddit.com/r/androiddev/comments/1618keo/writing_soft_for_digital_minimalism_is_there_are/)
+- [Suggesting two purchase options simultaneously via Google Play billing UI?](https://www.reddit.com/r/androiddev/comments/1617kc0/suggesting_two_purchase_options_simultaneously/)
+- [Why whatsapp has only now integrated the ability to edit messages](https://www.reddit.com/r/androiddev/comments/1615ztm/why_whatsapp_has_only_now_integrated_the_ability/)
+- [Survey on Android App Testing Practices](https://www.reddit.com/r/androiddev/comments/1614qpm/survey_on_android_app_testing_practices/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
