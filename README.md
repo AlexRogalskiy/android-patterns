@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Handling scrollable child views in a custom view extending Viewgroup class](https://www.reddit.com/r/androiddev/comments/161gshs/handling_scrollable_child_views_in_a_custom_view/)
-- [Notification of Google play about the upcoming call](https://www.reddit.com/r/androiddev/comments/161ehmh/notification_of_google_play_about_the_upcoming/)
-- [What age group considered as &quot;Teens&quot; in Google Play Console, im going to use &quot;AdMobs&quot; Teen setting.](https://www.reddit.com/r/androiddev/comments/161dozw/what_age_group_considered_as_teens_in_google_play/)
-- [Achieve Your Goals with Passion, Hard Work, and Dedication](https://www.reddit.com/r/androiddev/comments/1619rb4/achieve_your_goals_with_passion_hard_work_and/)
-- [What is the correct way to query purchases in Google Play Billing Library 5 and why is this not working?](https://www.reddit.com/r/androiddev/comments/1618w9t/what_is_the_correct_way_to_query_purchases_in/)
-- [If I sell developer account is that another company use that?](https://www.reddit.com/r/androiddev/comments/1618pwl/if_i_sell_developer_account_is_that_another/)
-- [writing soft for digital minimalism. is there are way to turn smartphone to dumbphone?](https://www.reddit.com/r/androiddev/comments/1618keo/writing_soft_for_digital_minimalism_is_there_are/)
-- [Suggesting two purchase options simultaneously via Google Play billing UI?](https://www.reddit.com/r/androiddev/comments/1617kc0/suggesting_two_purchase_options_simultaneously/)
-- [Why whatsapp has only now integrated the ability to edit messages](https://www.reddit.com/r/androiddev/comments/1615ztm/why_whatsapp_has_only_now_integrated_the_ability/)
-- [Survey on Android App Testing Practices](https://www.reddit.com/r/androiddev/comments/1614qpm/survey_on_android_app_testing_practices/)
+- [How do I keep API keys safe?](https://www.reddit.com/r/androiddev/comments/162cnly/how_do_i_keep_api_keys_safe/)
+- [My app has two bundles with different targetSdkVersions. What will happen at the deadline?](https://www.reddit.com/r/androiddev/comments/162c4rt/my_app_has_two_bundles_with_different/)
+- [Is an AWS certificate worth it?](https://www.reddit.com/r/androiddev/comments/1629zxs/is_an_aws_certificate_worth_it/)
+- [What security practices do Banking apps use?](https://www.reddit.com/r/androiddev/comments/16258kv/what_security_practices_do_banking_apps_use/)
+- [the google play console paradox](https://www.reddit.com/r/androiddev/comments/1623fp7/the_google_play_console_paradox/)
+- [Creating an app to replace the media page on launchers](https://www.reddit.com/r/androiddev/comments/1623bzs/creating_an_app_to_replace_the_media_page_on/)
+- [Error Android Studio When click on Developer Account &lpar;image with the error&rpar;](https://www.reddit.com/r/androiddev/comments/1622hu6/error_android_studio_when_click_on_developer/)
+- [Report account associated with Banned account](https://www.reddit.com/r/androiddev/comments/1621bvo/report_account_associated_with_banned_account/)
+- [YouTube / Reddit / Instagram like fragment management](https://www.reddit.com/r/androiddev/comments/1621bj0/youtube_reddit_instagram_like_fragment_management/)
+- [Any tips on syncing Google Play Store&#39;s Console Earning Reports with Google Sheets?](https://www.reddit.com/r/androiddev/comments/161zawt/any_tips_on_syncing_google_play_stores_console/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
