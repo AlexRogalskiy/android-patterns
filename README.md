@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I keep API keys safe?](https://www.reddit.com/r/androiddev/comments/162cnly/how_do_i_keep_api_keys_safe/)
+- [My ID verification to become a Google dev failed -- I need help](https://www.reddit.com/r/androiddev/comments/1633zj0/my_id_verification_to_become_a_google_dev_failed/)
+- [Have you guys added your apps on Huawei App Gallery ? What were the results? Is it worth It?](https://www.reddit.com/r/androiddev/comments/162w992/have_you_guys_added_your_apps_on_huawei_app/)
+- [Is it okay to publish the ad free version of my apps in my second account](https://www.reddit.com/r/androiddev/comments/162n19f/is_it_okay_to_publish_the_ad_free_version_of_my/)
+- [My app can only accessible with link and wont show in play store, what is the reason ?](https://www.reddit.com/r/androiddev/comments/162mxa4/my_app_can_only_accessible_with_link_and_wont/)
+- [Is deobfuscation file essential for publishing?](https://www.reddit.com/r/androiddev/comments/162mvym/is_deobfuscation_file_essential_for_publishing/)
+- [Play Store tags - good or bad?](https://www.reddit.com/r/androiddev/comments/162kjcq/play_store_tags_good_or_bad/)
 - [My app has two bundles with different targetSdkVersions. What will happen at the deadline?](https://www.reddit.com/r/androiddev/comments/162c4rt/my_app_has_two_bundles_with_different/)
 - [Is an AWS certificate worth it?](https://www.reddit.com/r/androiddev/comments/1629zxs/is_an_aws_certificate_worth_it/)
 - [What security practices do Banking apps use?](https://www.reddit.com/r/androiddev/comments/16258kv/what_security_practices_do_banking_apps_use/)
 - [the google play console paradox](https://www.reddit.com/r/androiddev/comments/1623fp7/the_google_play_console_paradox/)
-- [Creating an app to replace the media page on launchers](https://www.reddit.com/r/androiddev/comments/1623bzs/creating_an_app_to_replace_the_media_page_on/)
-- [Error Android Studio When click on Developer Account &lpar;image with the error&rpar;](https://www.reddit.com/r/androiddev/comments/1622hu6/error_android_studio_when_click_on_developer/)
-- [Report account associated with Banned account](https://www.reddit.com/r/androiddev/comments/1621bvo/report_account_associated_with_banned_account/)
-- [YouTube / Reddit / Instagram like fragment management](https://www.reddit.com/r/androiddev/comments/1621bj0/youtube_reddit_instagram_like_fragment_management/)
-- [Any tips on syncing Google Play Store&#39;s Console Earning Reports with Google Sheets?](https://www.reddit.com/r/androiddev/comments/161zawt/any_tips_on_syncing_google_play_stores_console/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
