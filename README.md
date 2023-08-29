@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My ID verification to become a Google dev failed -- I need help](https://www.reddit.com/r/androiddev/comments/1633zj0/my_id_verification_to_become_a_google_dev_failed/)
-- [Have you guys added your apps on Huawei App Gallery ? What were the results? Is it worth It?](https://www.reddit.com/r/androiddev/comments/162w992/have_you_guys_added_your_apps_on_huawei_app/)
-- [Is it okay to publish the ad free version of my apps in my second account](https://www.reddit.com/r/androiddev/comments/162n19f/is_it_okay_to_publish_the_ad_free_version_of_my/)
-- [My app can only accessible with link and wont show in play store, what is the reason ?](https://www.reddit.com/r/androiddev/comments/162mxa4/my_app_can_only_accessible_with_link_and_wont/)
-- [Is deobfuscation file essential for publishing?](https://www.reddit.com/r/androiddev/comments/162mvym/is_deobfuscation_file_essential_for_publishing/)
-- [Play Store tags - good or bad?](https://www.reddit.com/r/androiddev/comments/162kjcq/play_store_tags_good_or_bad/)
-- [My app has two bundles with different targetSdkVersions. What will happen at the deadline?](https://www.reddit.com/r/androiddev/comments/162c4rt/my_app_has_two_bundles_with_different/)
-- [Is an AWS certificate worth it?](https://www.reddit.com/r/androiddev/comments/1629zxs/is_an_aws_certificate_worth_it/)
-- [What security practices do Banking apps use?](https://www.reddit.com/r/androiddev/comments/16258kv/what_security_practices_do_banking_apps_use/)
-- [the google play console paradox](https://www.reddit.com/r/androiddev/comments/1623fp7/the_google_play_console_paradox/)
+- [Generative A.I in Lottie Animations](https://www.reddit.com/r/androiddev/comments/1642tck/generative_ai_in_lottie_animations/)
+- [Android Studio Iguana Canary 1 now available](https://www.reddit.com/r/androiddev/comments/163zgap/android_studio_iguana_canary_1_now_available/)
+- [Interview question: What&#39;s the difference between data class and sealed class?](https://www.reddit.com/r/androiddev/comments/163uceg/interview_question_whats_the_difference_between/)
+- [Is Compose the future? An objective discussion](https://www.reddit.com/r/androiddev/comments/163tt27/is_compose_the_future_an_objective_discussion/)
+- [shoutout to crawford14 for helping me](https://www.reddit.com/r/androiddev/comments/163t8jg/shoutout_to_crawford14_for_helping_me/)
+- [Survey on Android App Testing Practices](https://www.reddit.com/r/androiddev/comments/163t0s9/survey_on_android_app_testing_practices/)
+- [my app got rejected for using accessibility api](https://www.reddit.com/r/androiddev/comments/163s09l/my_app_got_rejected_for_using_accessibility_api/)
+- [🚀 New Library: ApiResult - A Monad for Declarative and Functional Error Handling](https://www.reddit.com/r/androiddev/comments/163rui2/new_library_apiresult_a_monad_for_declarative_and/)
+- [Can I get my new app removed if I reskin my own game?](https://www.reddit.com/r/androiddev/comments/163r2rd/can_i_get_my_new_app_removed_if_i_reskin_my_own/)
+- [How profitable is your in-app subscription based app](https://www.reddit.com/r/androiddev/comments/163p1so/how_profitable_is_your_inapp_subscription_based/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
