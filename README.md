@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Generative A.I in Lottie Animations](https://www.reddit.com/r/androiddev/comments/1642tck/generative_ai_in_lottie_animations/)
-- [Android Studio Iguana Canary 1 now available](https://www.reddit.com/r/androiddev/comments/163zgap/android_studio_iguana_canary_1_now_available/)
-- [Interview question: What&#39;s the difference between data class and sealed class?](https://www.reddit.com/r/androiddev/comments/163uceg/interview_question_whats_the_difference_between/)
-- [Is Compose the future? An objective discussion](https://www.reddit.com/r/androiddev/comments/163tt27/is_compose_the_future_an_objective_discussion/)
-- [shoutout to crawford14 for helping me](https://www.reddit.com/r/androiddev/comments/163t8jg/shoutout_to_crawford14_for_helping_me/)
-- [Survey on Android App Testing Practices](https://www.reddit.com/r/androiddev/comments/163t0s9/survey_on_android_app_testing_practices/)
-- [my app got rejected for using accessibility api](https://www.reddit.com/r/androiddev/comments/163s09l/my_app_got_rejected_for_using_accessibility_api/)
-- [🚀 New Library: ApiResult - A Monad for Declarative and Functional Error Handling](https://www.reddit.com/r/androiddev/comments/163rui2/new_library_apiresult_a_monad_for_declarative_and/)
-- [Can I get my new app removed if I reskin my own game?](https://www.reddit.com/r/androiddev/comments/163r2rd/can_i_get_my_new_app_removed_if_i_reskin_my_own/)
-- [How profitable is your in-app subscription based app](https://www.reddit.com/r/androiddev/comments/163p1so/how_profitable_is_your_inapp_subscription_based/)
+- [About Record Screen in Android studio](https://www.reddit.com/r/androiddev/comments/164y298/about_record_screen_in_android_studio/)
+- [Clean revenue on Google Play](https://www.reddit.com/r/androiddev/comments/164ux5d/clean_revenue_on_google_play/)
+- [sudden drop in users/downloads](https://www.reddit.com/r/androiddev/comments/164ub5n/sudden_drop_in_usersdownloads/)
+- [I just made this repository about clean architecture using compose. Can y&#39;all check it and tell me what do u think ? are there any better solutions or changes I need to make ?](https://www.reddit.com/r/androiddev/comments/164rhp0/i_just_made_this_repository_about_clean/)
+- [Tapado Alerter in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/164rc1p/tapado_alerter_in_jetpack_compose/)
+- [How does YouCam makeup app works?](https://www.reddit.com/r/androiddev/comments/164qufk/how_does_youcam_makeup_app_works/)
+- [Beyond Java: Obfuscating Android Apps with Purely Native Code](https://www.reddit.com/r/androiddev/comments/164qc4z/beyond_java_obfuscating_android_apps_with_purely/)
+- [Is there no way to see how many total unique users have downloaded your app since you released it?](https://www.reddit.com/r/androiddev/comments/164q4da/is_there_no_way_to_see_how_many_total_unique/)
+- [Play Console Support chat has been closed for over 3 weeks. What&#39;s going on?](https://www.reddit.com/r/androiddev/comments/164q1zu/play_console_support_chat_has_been_closed_for/)
+- [Compose-destinations library in multi-modular project](https://www.reddit.com/r/androiddev/comments/164puqc/composedestinations_library_in_multimodular/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
