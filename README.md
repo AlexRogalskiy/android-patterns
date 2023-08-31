@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [About Record Screen in Android studio](https://www.reddit.com/r/androiddev/comments/164y298/about_record_screen_in_android_studio/)
-- [Clean revenue on Google Play](https://www.reddit.com/r/androiddev/comments/164ux5d/clean_revenue_on_google_play/)
-- [sudden drop in users/downloads](https://www.reddit.com/r/androiddev/comments/164ub5n/sudden_drop_in_usersdownloads/)
-- [I just made this repository about clean architecture using compose. Can y&#39;all check it and tell me what do u think ? are there any better solutions or changes I need to make ?](https://www.reddit.com/r/androiddev/comments/164rhp0/i_just_made_this_repository_about_clean/)
-- [Tapado Alerter in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/164rc1p/tapado_alerter_in_jetpack_compose/)
-- [How does YouCam makeup app works?](https://www.reddit.com/r/androiddev/comments/164qufk/how_does_youcam_makeup_app_works/)
-- [Beyond Java: Obfuscating Android Apps with Purely Native Code](https://www.reddit.com/r/androiddev/comments/164qc4z/beyond_java_obfuscating_android_apps_with_purely/)
-- [Is there no way to see how many total unique users have downloaded your app since you released it?](https://www.reddit.com/r/androiddev/comments/164q4da/is_there_no_way_to_see_how_many_total_unique/)
-- [Play Console Support chat has been closed for over 3 weeks. What&#39;s going on?](https://www.reddit.com/r/androiddev/comments/164q1zu/play_console_support_chat_has_been_closed_for/)
-- [Compose-destinations library in multi-modular project](https://www.reddit.com/r/androiddev/comments/164puqc/composedestinations_library_in_multimodular/)
+- [ASO Practices in a different language?](https://www.reddit.com/r/androiddev/comments/165wlg7/aso_practices_in_a_different_language/)
+- [keytool issue &lpar;for firebase&rpar;](https://www.reddit.com/r/androiddev/comments/165u5w3/keytool_issue_for_firebase/)
+- [apparently my denied app got approved by using less dialog for accessibility api usage](https://www.reddit.com/r/androiddev/comments/165u037/apparently_my_denied_app_got_approved_by_using/)
+- [I created a community about DangoPlayer Uni](https://www.reddit.com/r/androiddev/comments/165ppas/i_created_a_community_about_dangoplayer_uni/)
+- [Why Does Beach Buggy Racing 2 ask for access to Controller?](https://www.reddit.com/r/androiddev/comments/165ob9e/why_does_beach_buggy_racing_2_ask_for_access_to/)
+- [Survey on Android App Testing Practices](https://www.reddit.com/r/androiddev/comments/165nwqu/survey_on_android_app_testing_practices/)
+- [Don’t look up: Google’s meteor of incompetence will kill thousands of apps in four months](https://www.reddit.com/r/androiddev/comments/165mjm1/dont_look_up_googles_meteor_of_incompetence_will/)
+- [How do I print an image to an escpos printer over BLE connection](https://www.reddit.com/r/androiddev/comments/165mfel/how_do_i_print_an_image_to_an_escpos_printer_over/)
+- [About Logic Auth for User](https://www.reddit.com/r/androiddev/comments/165m61g/about_logic_auth_for_user/)
+- [Looking for +1s on an issue: &quot;Create an easy to use way to export a portion of a Composable to a Bitmap without needing to render as part of the hierarchy&quot;](https://www.reddit.com/r/androiddev/comments/165k32v/looking_for_1s_on_an_issue_create_an_easy_to_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
