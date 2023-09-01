@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ASO Practices in a different language?](https://www.reddit.com/r/androiddev/comments/165wlg7/aso_practices_in_a_different_language/)
-- [keytool issue &lpar;for firebase&rpar;](https://www.reddit.com/r/androiddev/comments/165u5w3/keytool_issue_for_firebase/)
-- [apparently my denied app got approved by using less dialog for accessibility api usage](https://www.reddit.com/r/androiddev/comments/165u037/apparently_my_denied_app_got_approved_by_using/)
-- [I created a community about DangoPlayer Uni](https://www.reddit.com/r/androiddev/comments/165ppas/i_created_a_community_about_dangoplayer_uni/)
-- [Why Does Beach Buggy Racing 2 ask for access to Controller?](https://www.reddit.com/r/androiddev/comments/165ob9e/why_does_beach_buggy_racing_2_ask_for_access_to/)
-- [Survey on Android App Testing Practices](https://www.reddit.com/r/androiddev/comments/165nwqu/survey_on_android_app_testing_practices/)
-- [Don’t look up: Google’s meteor of incompetence will kill thousands of apps in four months](https://www.reddit.com/r/androiddev/comments/165mjm1/dont_look_up_googles_meteor_of_incompetence_will/)
-- [How do I print an image to an escpos printer over BLE connection](https://www.reddit.com/r/androiddev/comments/165mfel/how_do_i_print_an_image_to_an_escpos_printer_over/)
-- [About Logic Auth for User](https://www.reddit.com/r/androiddev/comments/165m61g/about_logic_auth_for_user/)
-- [Looking for +1s on an issue: &quot;Create an easy to use way to export a portion of a Composable to a Bitmap without needing to render as part of the hierarchy&quot;](https://www.reddit.com/r/androiddev/comments/165k32v/looking_for_1s_on_an_issue_create_an_easy_to_use/)
+- [How to share ViewModel between Activities?](https://www.reddit.com/r/androiddev/comments/166q7ps/how_to_share_viewmodel_between_activities/)
+- [What should I know before going into a job?](https://www.reddit.com/r/androiddev/comments/166ocl6/what_should_i_know_before_going_into_a_job/)
+- [Restrict App Access in Android](https://www.reddit.com/r/androiddev/comments/166mh9i/restrict_app_access_in_android/)
+- [Steady stream of unexplained users signing in to an internal/closed-test app?](https://www.reddit.com/r/androiddev/comments/166lx6x/steady_stream_of_unexplained_users_signing_in_to/)
+- [ViewPager is better then ViewPager2](https://www.reddit.com/r/androiddev/comments/166lcyv/viewpager_is_better_then_viewpager2/)
+- [iOS developer wanting to learn Android development. Is their any good Udemy classes you recommend?](https://www.reddit.com/r/androiddev/comments/166l906/ios_developer_wanting_to_learn_android/)
+- [Weird Syntax in Kotlin](https://www.reddit.com/r/androiddev/comments/166kg66/weird_syntax_in_kotlin/)
+- [Android Emulator acceleration, WHPX vs AEHD](https://www.reddit.com/r/androiddev/comments/166jz0m/android_emulator_acceleration_whpx_vs_aehd/)
+- [I&#39;m trying to do this Codelab for MLKit, but I&#39;m getting multiple errors when using Google&#39;s starter code. What are the issues?](https://www.reddit.com/r/androiddev/comments/166jf1p/im_trying_to_do_this_codelab_for_mlkit_but_im/)
+- [Alot has changed in 2 years … what are you looking for when interviewing for developers?](https://www.reddit.com/r/androiddev/comments/166j5th/alot_has_changed_in_2_years_what_are_you_looking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
