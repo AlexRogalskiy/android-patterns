@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to share ViewModel between Activities?](https://www.reddit.com/r/androiddev/comments/166q7ps/how_to_share_viewmodel_between_activities/)
-- [What should I know before going into a job?](https://www.reddit.com/r/androiddev/comments/166ocl6/what_should_i_know_before_going_into_a_job/)
-- [Restrict App Access in Android](https://www.reddit.com/r/androiddev/comments/166mh9i/restrict_app_access_in_android/)
-- [Steady stream of unexplained users signing in to an internal/closed-test app?](https://www.reddit.com/r/androiddev/comments/166lx6x/steady_stream_of_unexplained_users_signing_in_to/)
-- [ViewPager is better then ViewPager2](https://www.reddit.com/r/androiddev/comments/166lcyv/viewpager_is_better_then_viewpager2/)
-- [iOS developer wanting to learn Android development. Is their any good Udemy classes you recommend?](https://www.reddit.com/r/androiddev/comments/166l906/ios_developer_wanting_to_learn_android/)
-- [Weird Syntax in Kotlin](https://www.reddit.com/r/androiddev/comments/166kg66/weird_syntax_in_kotlin/)
-- [Android Emulator acceleration, WHPX vs AEHD](https://www.reddit.com/r/androiddev/comments/166jz0m/android_emulator_acceleration_whpx_vs_aehd/)
-- [I&#39;m trying to do this Codelab for MLKit, but I&#39;m getting multiple errors when using Google&#39;s starter code. What are the issues?](https://www.reddit.com/r/androiddev/comments/166jf1p/im_trying_to_do_this_codelab_for_mlkit_but_im/)
-- [Alot has changed in 2 years … what are you looking for when interviewing for developers?](https://www.reddit.com/r/androiddev/comments/166j5th/alot_has_changed_in_2_years_what_are_you_looking/)
+- [What do you use for localization, and are you happy with it?](https://www.reddit.com/r/androiddev/comments/167oum8/what_do_you_use_for_localization_and_are_you/)
+- [Show Toasts on the background thread!](https://www.reddit.com/r/androiddev/comments/167ggnb/show_toasts_on_the_background_thread/)
+- [If play store apps ratings are based on regions, does default rating still matter?](https://www.reddit.com/r/androiddev/comments/167g2d6/if_play_store_apps_ratings_are_based_on_regions/)
+- [Jetpack Compose vs Flutter for AndroidTV and WearOS](https://www.reddit.com/r/androiddev/comments/167fbgx/jetpack_compose_vs_flutter_for_androidtv_and/)
+- [Convert your website into an App IOS + Android &lpar;Built using Flutter&rpar;](https://www.reddit.com/r/androiddev/comments/167ehnb/convert_your_website_into_an_app_ios_android/)
+- [Recording unprocessed audio &amp; microphone gain](https://www.reddit.com/r/androiddev/comments/167e33q/recording_unprocessed_audio_microphone_gain/)
+- [This is what you can do with Canvas. This is a personal project I made in 2018, never published it. I just wanted to show the power of Canvas apis](https://www.reddit.com/r/androiddev/comments/167dxtx/this_is_what_you_can_do_with_canvas_this_is_a/)
+- [Custom tunneling protocol with vpn service](https://www.reddit.com/r/androiddev/comments/167d6nt/custom_tunneling_protocol_with_vpn_service/)
+- [What open source library would you like to see developer for Android?](https://www.reddit.com/r/androiddev/comments/167bjyn/what_open_source_library_would_you_like_to_see/)
+- [how do i call a main class in a fragment class in android studio? i used chatgpt and it said to use intent. but it only runs when i use it for only one fragment. what do i need to put in the frgament class?](https://www.reddit.com/r/androiddev/comments/167a13q/how_do_i_call_a_main_class_in_a_fragment_class_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
