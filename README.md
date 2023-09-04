@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [onBackPressed Is Now Deprecated in Android 13 - Migrate to Predictive Back Soon Before It’s Too Late](https://www.reddit.com/r/androiddev/comments/169dnk9/onbackpressed_is_now_deprecated_in_android_13/)
+- [Release phased approach](https://www.reddit.com/r/androiddev/comments/1696yfb/release_phased_approach/)
+- [Unfair Google Play Developer Ban Ruined My Student Journey](https://www.reddit.com/r/androiddev/comments/1696mp8/unfair_google_play_developer_ban_ruined_my/)
+- [is Playstore no longer showing 50K Download Milestone ?](https://www.reddit.com/r/androiddev/comments/168yulo/is_playstore_no_longer_showing_50k_download/)
+- [Migrate to Android 13 Predictive Back Soon Before It’s Too Late](https://www.reddit.com/r/androiddev/comments/168yj0k/migrate_to_android_13_predictive_back_soon_before/)
+- [glove-android: An Android library providing access to GloVe Word Embeddings used for NLP tasks](https://www.reddit.com/r/androiddev/comments/168u3h7/gloveandroid_an_android_library_providing_access/)
+- [How are you handling Admob UMP if a user disables all ads in the app starting 2024?](https://www.reddit.com/r/androiddev/comments/168tcni/how_are_you_handling_admob_ump_if_a_user_disables/)
+- [Does it make sense to wite the entire app UI in C++ and OpenGL?](https://www.reddit.com/r/androiddev/comments/168p5d1/does_it_make_sense_to_wite_the_entire_app_ui_in_c/)
 - [What do you think about KMM?](https://www.reddit.com/r/androiddev/comments/1688pi4/what_do_you_think_about_kmm/)
 - [KCrypt : A KMM library providing a unified api for obtaining an encryption key](https://www.reddit.com/r/androiddev/comments/16820mh/kcrypt_a_kmm_library_providing_a_unified_api_for/)
-- [Updated Google Play Developer Distribution Agreement](https://www.reddit.com/r/androiddev/comments/167yhpm/updated_google_play_developer_distribution/)
-- [Type safe Bundle in Android development](https://www.reddit.com/r/androiddev/comments/167x2h9/type_safe_bundle_in_android_development/)
-- [Sample android interview coding questions people have gotten/given recently?](https://www.reddit.com/r/androiddev/comments/167tvap/sample_android_interview_coding_questions_people/)
-- [If play store apps ratings are based on regions, does default rating still matter?](https://www.reddit.com/r/androiddev/comments/167g2d6/if_play_store_apps_ratings_are_based_on_regions/)
-- [This is what you can do with Canvas. This is a personal project I made in 2018, never published it. I just wanted to show the power of Canvas apis](https://www.reddit.com/r/androiddev/comments/167dxtx/this_is_what_you_can_do_with_canvas_this_is_a/)
-- [What open source library would you like to see developer for Android?](https://www.reddit.com/r/androiddev/comments/167bjyn/what_open_source_library_would_you_like_to_see/)
-- [How to secure an important file within the app?](https://www.reddit.com/r/androiddev/comments/16796zt/how_to_secure_an_important_file_within_the_app/)
-- [Meeting Room Compose: A real-time meeting room app built with Jetpack Compose to demonstrate video communications.](https://www.reddit.com/r/androiddev/comments/16796f1/meeting_room_compose_a_realtime_meeting_room_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
