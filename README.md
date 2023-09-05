@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [onBackPressed Is Now Deprecated in Android 13 - Migrate to Predictive Back Soon Before It’s Too Late](https://www.reddit.com/r/androiddev/comments/169dnk9/onbackpressed_is_now_deprecated_in_android_13/)
+- [How good is regex support in Android Room?](https://www.reddit.com/r/androiddev/comments/16a6kmf/how_good_is_regex_support_in_android_room/)
+- [Declarative User Interface Considered Harmful](https://www.reddit.com/r/androiddev/comments/169vq3p/declarative_user_interface_considered_harmful/)
+- [2 week laters: 12 year old dev account still MIA, actual malicious actors have taken stage](https://www.reddit.com/r/androiddev/comments/169u3g6/2_week_laters_12_year_old_dev_account_still_mia/)
+- [Weekly Who&#39;s Hiring Thread - September 04, 2023](https://www.reddit.com/r/androiddev/comments/169rdhl/weekly_whos_hiring_thread_september_04_2023/)
+- [Weekly discussion, code review, and feedback thread - September 04, 2023](https://www.reddit.com/r/androiddev/comments/169q4os/weekly_discussion_code_review_and_feedback_thread/)
+- [Understand Android 13 &quot;Predictive Back&quot; behavior differs from traditional onBackPressed&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/169nm0z/understand_android_13_predictive_back_behavior/)
+- [Using Threads and Coroutines](https://www.reddit.com/r/androiddev/comments/169ndos/using_threads_and_coroutines/)
+- [Refactoring Multi-Module Kotlin Project With Konsist](https://www.reddit.com/r/androiddev/comments/169n453/refactoring_multimodule_kotlin_project_with/)
+- [KMPUtils: A Kotlin Multiplatform library with everything that is missing from Kotlin STL.](https://www.reddit.com/r/androiddev/comments/169kz33/kmputils_a_kotlin_multiplatform_library_with/)
 - [Release phased approach](https://www.reddit.com/r/androiddev/comments/1696yfb/release_phased_approach/)
-- [Unfair Google Play Developer Ban Ruined My Student Journey](https://www.reddit.com/r/androiddev/comments/1696mp8/unfair_google_play_developer_ban_ruined_my/)
-- [is Playstore no longer showing 50K Download Milestone ?](https://www.reddit.com/r/androiddev/comments/168yulo/is_playstore_no_longer_showing_50k_download/)
-- [Migrate to Android 13 Predictive Back Soon Before It’s Too Late](https://www.reddit.com/r/androiddev/comments/168yj0k/migrate_to_android_13_predictive_back_soon_before/)
-- [glove-android: An Android library providing access to GloVe Word Embeddings used for NLP tasks](https://www.reddit.com/r/androiddev/comments/168u3h7/gloveandroid_an_android_library_providing_access/)
-- [How are you handling Admob UMP if a user disables all ads in the app starting 2024?](https://www.reddit.com/r/androiddev/comments/168tcni/how_are_you_handling_admob_ump_if_a_user_disables/)
-- [Does it make sense to wite the entire app UI in C++ and OpenGL?](https://www.reddit.com/r/androiddev/comments/168p5d1/does_it_make_sense_to_wite_the_entire_app_ui_in_c/)
-- [What do you think about KMM?](https://www.reddit.com/r/androiddev/comments/1688pi4/what_do_you_think_about_kmm/)
-- [KCrypt : A KMM library providing a unified api for obtaining an encryption key](https://www.reddit.com/r/androiddev/comments/16820mh/kcrypt_a_kmm_library_providing_a_unified_api_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
