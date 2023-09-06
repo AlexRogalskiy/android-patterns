@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How good is regex support in Android Room?](https://www.reddit.com/r/androiddev/comments/16a6kmf/how_good_is_regex_support_in_android_room/)
-- [Declarative User Interface Considered Harmful](https://www.reddit.com/r/androiddev/comments/169vq3p/declarative_user_interface_considered_harmful/)
-- [2 week laters: 12 year old dev account still MIA, actual malicious actors have taken stage](https://www.reddit.com/r/androiddev/comments/169u3g6/2_week_laters_12_year_old_dev_account_still_mia/)
-- [Weekly Who&#39;s Hiring Thread - September 04, 2023](https://www.reddit.com/r/androiddev/comments/169rdhl/weekly_whos_hiring_thread_september_04_2023/)
-- [Weekly discussion, code review, and feedback thread - September 04, 2023](https://www.reddit.com/r/androiddev/comments/169q4os/weekly_discussion_code_review_and_feedback_thread/)
-- [Understand Android 13 &quot;Predictive Back&quot; behavior differs from traditional onBackPressed&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/169nm0z/understand_android_13_predictive_back_behavior/)
-- [Using Threads and Coroutines](https://www.reddit.com/r/androiddev/comments/169ndos/using_threads_and_coroutines/)
-- [Refactoring Multi-Module Kotlin Project With Konsist](https://www.reddit.com/r/androiddev/comments/169n453/refactoring_multimodule_kotlin_project_with/)
-- [KMPUtils: A Kotlin Multiplatform library with everything that is missing from Kotlin STL.](https://www.reddit.com/r/androiddev/comments/169kz33/kmputils_a_kotlin_multiplatform_library_with/)
-- [Release phased approach](https://www.reddit.com/r/androiddev/comments/1696yfb/release_phased_approach/)
+- [My app Inure App Manager got permanently suspended from Play Store](https://www.reddit.com/r/androiddev/comments/16b6yte/my_app_inure_app_manager_got_permanently/)
+- [I cant use Genymotion &lpar;The virtual device got no IP address&rpar;](https://www.reddit.com/r/androiddev/comments/16b6tm6/i_cant_use_genymotion_the_virtual_device_got_no/)
+- [SKIE &lpar;Swift Kotlin Interface Enhancer&rpar; has been released as open source!](https://www.reddit.com/r/androiddev/comments/16b1l7k/skie_swift_kotlin_interface_enhancer_has_been/)
+- [Android Studio Hedgehog Beta 2 now available](https://www.reddit.com/r/androiddev/comments/16awqyc/android_studio_hedgehog_beta_2_now_available/)
+- [Android Studio Iguana Canary 2 now available](https://www.reddit.com/r/androiddev/comments/16awqxy/android_studio_iguana_canary_2_now_available/)
+- [Distributing Android library](https://www.reddit.com/r/androiddev/comments/16avkjf/distributing_android_library/)
+- [Offering a live FREE Expert UI/UX Insights for your mobile app today at 4-5pm PST !](https://www.reddit.com/r/androiddev/comments/16avibm/offering_a_live_free_expert_uiux_insights_for/)
+- [Java being deprecated?](https://www.reddit.com/r/androiddev/comments/16au6lg/java_being_deprecated/)
+- [Secure Personal Database Android App. Organize your notes into categories easily and securely. User-Friendly.](https://www.reddit.com/r/androiddev/comments/16atlou/secure_personal_database_android_app_organize/)
+- [Any other major Android development changes other than the ones below?](https://www.reddit.com/r/androiddev/comments/16alk3w/any_other_major_android_development_changes_other/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
