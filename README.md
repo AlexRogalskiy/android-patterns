@@ -271,8 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My app Inure App Manager got permanently suspended from Play Store](https://www.reddit.com/r/androiddev/comments/16b6yte/my_app_inure_app_manager_got_permanently/)
-- [I cant use Genymotion &lpar;The virtual device got no IP address&rpar;](https://www.reddit.com/r/androiddev/comments/16b6tm6/i_cant_use_genymotion_the_virtual_device_got_no/)
+- [Aside from ro.netflix &lpar;red-highlighted in pic&rpar;, does anything else in this Recovery Log look/seem sketchy? Samsung A53 5G on T-Mobile](https://www.reddit.com/r/androiddev/comments/16c2r7s/aside_from_ronetflix_redhighlighted_in_pic_does/)
+- [Firebase Auth non EU compliant](https://www.reddit.com/r/androiddev/comments/16bj7qm/firebase_auth_non_eu_compliant/)
+- [Question about PlayStore % staged rollout mechanism](https://www.reddit.com/r/androiddev/comments/16bdyr8/question_about_playstore_staged_rollout_mechanism/)
 - [SKIE &lpar;Swift Kotlin Interface Enhancer&rpar; has been released as open source!](https://www.reddit.com/r/androiddev/comments/16b1l7k/skie_swift_kotlin_interface_enhancer_has_been/)
 - [Android Studio Hedgehog Beta 2 now available](https://www.reddit.com/r/androiddev/comments/16awqyc/android_studio_hedgehog_beta_2_now_available/)
 - [Android Studio Iguana Canary 2 now available](https://www.reddit.com/r/androiddev/comments/16awqxy/android_studio_iguana_canary_2_now_available/)
@@ -280,7 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Offering a live FREE Expert UI/UX Insights for your mobile app today at 4-5pm PST !](https://www.reddit.com/r/androiddev/comments/16avibm/offering_a_live_free_expert_uiux_insights_for/)
 - [Java being deprecated?](https://www.reddit.com/r/androiddev/comments/16au6lg/java_being_deprecated/)
 - [Secure Personal Database Android App. Organize your notes into categories easily and securely. User-Friendly.](https://www.reddit.com/r/androiddev/comments/16atlou/secure_personal_database_android_app_organize/)
-- [Any other major Android development changes other than the ones below?](https://www.reddit.com/r/androiddev/comments/16alk3w/any_other_major_android_development_changes_other/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
