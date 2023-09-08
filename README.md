@@ -271,7 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Aside from ro.netflix &lpar;red-highlighted in pic&rpar;, does anything else in this Recovery Log look/seem sketchy? Samsung A53 5G on T-Mobile](https://www.reddit.com/r/androiddev/comments/16c2r7s/aside_from_ronetflix_redhighlighted_in_pic_does/)
+- [Learn from my mistakes! The DOs and DONTs of Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/16ckosi/learn_from_my_mistakes_the_dos_and_donts_of/)
+- [Verify Clean Architecture layers with Konsist - extremely helpful when multiple layers are defined](https://www.reddit.com/r/androiddev/comments/16cbgxh/verify_clean_architecture_layers_with_konsist/)
+- [Question about Jetpack Compose parameter naming](https://www.reddit.com/r/androiddev/comments/16c8it8/question_about_jetpack_compose_parameter_naming/)
 - [Firebase Auth non EU compliant](https://www.reddit.com/r/androiddev/comments/16bj7qm/firebase_auth_non_eu_compliant/)
 - [Question about PlayStore % staged rollout mechanism](https://www.reddit.com/r/androiddev/comments/16bdyr8/question_about_playstore_staged_rollout_mechanism/)
 - [SKIE &lpar;Swift Kotlin Interface Enhancer&rpar; has been released as open source!](https://www.reddit.com/r/androiddev/comments/16b1l7k/skie_swift_kotlin_interface_enhancer_has_been/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Android Studio Iguana Canary 2 now available](https://www.reddit.com/r/androiddev/comments/16awqxy/android_studio_iguana_canary_2_now_available/)
 - [Distributing Android library](https://www.reddit.com/r/androiddev/comments/16avkjf/distributing_android_library/)
 - [Offering a live FREE Expert UI/UX Insights for your mobile app today at 4-5pm PST !](https://www.reddit.com/r/androiddev/comments/16avibm/offering_a_live_free_expert_uiux_insights_for/)
-- [Java being deprecated?](https://www.reddit.com/r/androiddev/comments/16au6lg/java_being_deprecated/)
-- [Secure Personal Database Android App. Organize your notes into categories easily and securely. User-Friendly.](https://www.reddit.com/r/androiddev/comments/16atlou/secure_personal_database_android_app_organize/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
