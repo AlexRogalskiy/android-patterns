@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Iguana Canary 3 now available](https://www.reddit.com/r/androiddev/comments/16dm0i3/android_studio_iguana_canary_3_now_available/)
+- [Do you have a static code analysis tool integrated into your pipeline? If so, which one?](https://www.reddit.com/r/androiddev/comments/16didlm/do_you_have_a_static_code_analysis_tool/)
+- [Ranking the Top 7 Push Notification APIs for Developers in 2023](https://www.reddit.com/r/androiddev/comments/16dh0hw/ranking_the_top_7_push_notification_apis_for/)
+- [Clean architecture and functional programming](https://www.reddit.com/r/androiddev/comments/16d2nq1/clean_architecture_and_functional_programming/)
+- [has anyone shared classes between spring boot and android ? Or embed spring boot in android?](https://www.reddit.com/r/androiddev/comments/16d2j0x/has_anyone_shared_classes_between_spring_boot_and/)
+- [AfterPay/CashApp by Block aka Square seems to be using React Native](https://www.reddit.com/r/androiddev/comments/16d01vv/afterpaycashapp_by_block_aka_square_seems_to_be/)
+- [SDK Games for android apps](https://www.reddit.com/r/androiddev/comments/16cy4dr/sdk_games_for_android_apps/)
 - [Learn from my mistakes! The DOs and DONTs of Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/16ckosi/learn_from_my_mistakes_the_dos_and_donts_of/)
 - [Verify Clean Architecture layers with Konsist - extremely helpful when multiple layers are defined](https://www.reddit.com/r/androiddev/comments/16cbgxh/verify_clean_architecture_layers_with_konsist/)
 - [Question about Jetpack Compose parameter naming](https://www.reddit.com/r/androiddev/comments/16c8it8/question_about_jetpack_compose_parameter_naming/)
-- [Firebase Auth non EU compliant](https://www.reddit.com/r/androiddev/comments/16bj7qm/firebase_auth_non_eu_compliant/)
-- [Question about PlayStore % staged rollout mechanism](https://www.reddit.com/r/androiddev/comments/16bdyr8/question_about_playstore_staged_rollout_mechanism/)
-- [SKIE &lpar;Swift Kotlin Interface Enhancer&rpar; has been released as open source!](https://www.reddit.com/r/androiddev/comments/16b1l7k/skie_swift_kotlin_interface_enhancer_has_been/)
-- [Android Studio Hedgehog Beta 2 now available](https://www.reddit.com/r/androiddev/comments/16awqyc/android_studio_hedgehog_beta_2_now_available/)
-- [Android Studio Iguana Canary 2 now available](https://www.reddit.com/r/androiddev/comments/16awqxy/android_studio_iguana_canary_2_now_available/)
-- [Distributing Android library](https://www.reddit.com/r/androiddev/comments/16avkjf/distributing_android_library/)
-- [Offering a live FREE Expert UI/UX Insights for your mobile app today at 4-5pm PST !](https://www.reddit.com/r/androiddev/comments/16avibm/offering_a_live_free_expert_uiux_insights_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
