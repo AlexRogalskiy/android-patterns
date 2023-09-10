@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing Flaker: a flaky network simulator library for mobile app development](https://www.reddit.com/r/androiddev/comments/16el2q8/introducing_flaker_a_flaky_network_simulator/)
+- [Compose samples in GitHub](https://www.reddit.com/r/androiddev/comments/16eh5ef/compose_samples_in_github/)
+- [And on the 19th day, Google Play spoke and resurrected my 12 year old dev account](https://www.reddit.com/r/androiddev/comments/16e7gf4/and_on_the_19th_day_google_play_spoke_and/)
+- [MVVM or MVI](https://www.reddit.com/r/androiddev/comments/16e5t7o/mvvm_or_mvi/)
+- [Has anyone tried implementing in-app review api from google into their app on an early access track? Did it work? Or its only for published production apps?](https://www.reddit.com/r/androiddev/comments/16dvbr9/has_anyone_tried_implementing_inapp_review_api/)
 - [Android Studio Iguana Canary 3 now available](https://www.reddit.com/r/androiddev/comments/16dm0i3/android_studio_iguana_canary_3_now_available/)
 - [Do you have a static code analysis tool integrated into your pipeline? If so, which one?](https://www.reddit.com/r/androiddev/comments/16didlm/do_you_have_a_static_code_analysis_tool/)
 - [Ranking the Top 7 Push Notification APIs for Developers in 2023](https://www.reddit.com/r/androiddev/comments/16dh0hw/ranking_the_top_7_push_notification_apis_for/)
 - [Clean architecture and functional programming](https://www.reddit.com/r/androiddev/comments/16d2nq1/clean_architecture_and_functional_programming/)
 - [has anyone shared classes between spring boot and android ? Or embed spring boot in android?](https://www.reddit.com/r/androiddev/comments/16d2j0x/has_anyone_shared_classes_between_spring_boot_and/)
-- [AfterPay/CashApp by Block aka Square seems to be using React Native](https://www.reddit.com/r/androiddev/comments/16d01vv/afterpaycashapp_by_block_aka_square_seems_to_be/)
-- [SDK Games for android apps](https://www.reddit.com/r/androiddev/comments/16cy4dr/sdk_games_for_android_apps/)
-- [Learn from my mistakes! The DOs and DONTs of Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/16ckosi/learn_from_my_mistakes_the_dos_and_donts_of/)
-- [Verify Clean Architecture layers with Konsist - extremely helpful when multiple layers are defined](https://www.reddit.com/r/androiddev/comments/16cbgxh/verify_clean_architecture_layers_with_konsist/)
-- [Question about Jetpack Compose parameter naming](https://www.reddit.com/r/androiddev/comments/16c8it8/question_about_jetpack_compose_parameter_naming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
