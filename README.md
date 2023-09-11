@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AAY - Compose Multiplatform chart library &lpar;link in comment&rpar;](https://www.reddit.com/r/androiddev/comments/16fbpe9/aay_compose_multiplatform_chart_library_link_in/)
+- [How does compose works internally?](https://www.reddit.com/r/androiddev/comments/16f3n1h/how_does_compose_works_internally/)
+- [A note for anybody who will teach Dependency injection](https://www.reddit.com/r/androiddev/comments/16euln5/a_note_for_anybody_who_will_teach_dependency/)
 - [Introducing Flaker: a flaky network simulator library for mobile app development](https://www.reddit.com/r/androiddev/comments/16el2q8/introducing_flaker_a_flaky_network_simulator/)
 - [Compose samples in GitHub](https://www.reddit.com/r/androiddev/comments/16eh5ef/compose_samples_in_github/)
 - [And on the 19th day, Google Play spoke and resurrected my 12 year old dev account](https://www.reddit.com/r/androiddev/comments/16e7gf4/and_on_the_19th_day_google_play_spoke_and/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Has anyone tried implementing in-app review api from google into their app on an early access track? Did it work? Or its only for published production apps?](https://www.reddit.com/r/androiddev/comments/16dvbr9/has_anyone_tried_implementing_inapp_review_api/)
 - [Android Studio Iguana Canary 3 now available](https://www.reddit.com/r/androiddev/comments/16dm0i3/android_studio_iguana_canary_3_now_available/)
 - [Do you have a static code analysis tool integrated into your pipeline? If so, which one?](https://www.reddit.com/r/androiddev/comments/16didlm/do_you_have_a_static_code_analysis_tool/)
-- [Ranking the Top 7 Push Notification APIs for Developers in 2023](https://www.reddit.com/r/androiddev/comments/16dh0hw/ranking_the_top_7_push_notification_apis_for/)
-- [Clean architecture and functional programming](https://www.reddit.com/r/androiddev/comments/16d2nq1/clean_architecture_and_functional_programming/)
-- [has anyone shared classes between spring boot and android ? Or embed spring boot in android?](https://www.reddit.com/r/androiddev/comments/16d2j0x/has_anyone_shared_classes_between_spring_boot_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
