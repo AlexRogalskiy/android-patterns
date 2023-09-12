@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google has released a new version of the Android Studio IDE called Android Studio for Platform &lpar;ASfP&rpar;](https://www.reddit.com/r/androiddev/comments/16g1vhu/google_has_released_a_new_version_of_the_android/)
+- [How do you guys handle the complicated designs?](https://www.reddit.com/r/androiddev/comments/16g0y4h/how_do_you_guys_handle_the_complicated_designs/)
+- [How do you all review MRs? Do you try to run the branch every time?](https://www.reddit.com/r/androiddev/comments/16g0p5d/how_do_you_all_review_mrs_do_you_try_to_run_the/)
+- [Weekly Who&#39;s Hiring Thread - September 11, 2023](https://www.reddit.com/r/androiddev/comments/16fuoax/weekly_whos_hiring_thread_september_11_2023/)
+- [[Library] Introducing Compose Cartographer 🗺️ - Simplifying Jetpack Compose Navigation](https://www.reddit.com/r/androiddev/comments/16fu2wj/library_introducing_compose_cartographer/)
+- [Weekly discussion, code review, and feedback thread - September 11, 2023](https://www.reddit.com/r/androiddev/comments/16ftfyl/weekly_discussion_code_review_and_feedback_thread/)
+- [How to open logcat tab instead of run tab in AS after app gets installed on Emulator](https://www.reddit.com/r/androiddev/comments/16fpqxu/how_to_open_logcat_tab_instead_of_run_tab_in_as/)
 - [AAY - Compose Multiplatform chart library &lpar;link in comment&rpar;](https://www.reddit.com/r/androiddev/comments/16fbpe9/aay_compose_multiplatform_chart_library_link_in/)
 - [How does compose works internally?](https://www.reddit.com/r/androiddev/comments/16f3n1h/how_does_compose_works_internally/)
 - [A note for anybody who will teach Dependency injection](https://www.reddit.com/r/androiddev/comments/16euln5/a_note_for_anybody_who_will_teach_dependency/)
-- [Introducing Flaker: a flaky network simulator library for mobile app development](https://www.reddit.com/r/androiddev/comments/16el2q8/introducing_flaker_a_flaky_network_simulator/)
-- [Compose samples in GitHub](https://www.reddit.com/r/androiddev/comments/16eh5ef/compose_samples_in_github/)
-- [And on the 19th day, Google Play spoke and resurrected my 12 year old dev account](https://www.reddit.com/r/androiddev/comments/16e7gf4/and_on_the_19th_day_google_play_spoke_and/)
-- [MVVM or MVI](https://www.reddit.com/r/androiddev/comments/16e5t7o/mvvm_or_mvi/)
-- [Has anyone tried implementing in-app review api from google into their app on an early access track? Did it work? Or its only for published production apps?](https://www.reddit.com/r/androiddev/comments/16dvbr9/has_anyone_tried_implementing_inapp_review_api/)
-- [Android Studio Iguana Canary 3 now available](https://www.reddit.com/r/androiddev/comments/16dm0i3/android_studio_iguana_canary_3_now_available/)
-- [Do you have a static code analysis tool integrated into your pipeline? If so, which one?](https://www.reddit.com/r/androiddev/comments/16didlm/do_you_have_a_static_code_analysis_tool/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
