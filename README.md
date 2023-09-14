@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How FlowMVI has changed the fate of our project](https://www.reddit.com/r/androiddev/comments/16hkyeb/how_flowmvi_has_changed_the_fate_of_our_project/)
+- [Room database: auto generate HTTP endpoint and offline-first client repository](https://www.reddit.com/r/androiddev/comments/16hhokz/room_database_auto_generate_http_endpoint_and/)
+- [Why publishing an app to Android TV store is so hard?](https://www.reddit.com/r/androiddev/comments/16hexl9/why_publishing_an_app_to_android_tv_store_is_so/)
 - [Parallax effect in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16gv10y/parallax_effect_in_jetpack_compose/)
 - [Has anyone here tried adding translation to different languages for their store listing? How did it affect the organic traffic? Did it increase?](https://www.reddit.com/r/androiddev/comments/16gr7px/has_anyone_here_tried_adding_translation_to/)
 - [New Wear OS policy](https://www.reddit.com/r/androiddev/comments/16gr6vm/new_wear_os_policy/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Google has released a new version of the Android Studio IDE called Android Studio for Platform &lpar;ASfP&rpar;](https://www.reddit.com/r/androiddev/comments/16g1vhu/google_has_released_a_new_version_of_the_android/)
 - [How do you guys handle the complicated designs?](https://www.reddit.com/r/androiddev/comments/16g0y4h/how_do_you_guys_handle_the_complicated_designs/)
 - [How do you all review MRs? Do you try to run the branch every time?](https://www.reddit.com/r/androiddev/comments/16g0p5d/how_do_you_all_review_mrs_do_you_try_to_run_the/)
-- [Weekly Who&#39;s Hiring Thread - September 11, 2023](https://www.reddit.com/r/androiddev/comments/16fuoax/weekly_whos_hiring_thread_september_11_2023/)
-- [[Library] Introducing Compose Cartographer 🗺️ - Simplifying Jetpack Compose Navigation](https://www.reddit.com/r/androiddev/comments/16fu2wj/library_introducing_compose_cartographer/)
-- [Weekly discussion, code review, and feedback thread - September 11, 2023](https://www.reddit.com/r/androiddev/comments/16ftfyl/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
