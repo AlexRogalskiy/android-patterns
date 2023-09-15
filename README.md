@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Debugging Android Devices](https://www.reddit.com/r/androiddev/comments/16irstu/debugging_android_devices/)
+- [Do you prefer navigation to be in VM, in Fragment or in View?](https://www.reddit.com/r/androiddev/comments/16ipdsv/do_you_prefer_navigation_to_be_in_vm_in_fragment/)
+- [Explore my latest Android apps: a clock designed with Jetpack Compose, a versatile calculator, and a handy weather tool. Check out the video to see them in action! Link in the description.](https://www.reddit.com/r/androiddev/comments/16io2x0/explore_my_latest_android_apps_a_clock_designed/)
+- [*Update - Scammers from Indian &quot;agency&quot; blackmailing developers - google does nothing](https://www.reddit.com/r/androiddev/comments/16iiuin/update_scammers_from_indian_agency_blackmailing/)
+- [Diffetto: A tool to differentiate between two Perfetto traces](https://www.reddit.com/r/androiddev/comments/16ih5gw/diffetto_a_tool_to_differentiate_between_two/)
+- [Misleading Information Approval Issue](https://www.reddit.com/r/androiddev/comments/16ih0a3/misleading_information_approval_issue/)
 - [How FlowMVI has changed the fate of our project](https://www.reddit.com/r/androiddev/comments/16hkyeb/how_flowmvi_has_changed_the_fate_of_our_project/)
 - [Room database: auto generate HTTP endpoint and offline-first client repository](https://www.reddit.com/r/androiddev/comments/16hhokz/room_database_auto_generate_http_endpoint_and/)
 - [Why publishing an app to Android TV store is so hard?](https://www.reddit.com/r/androiddev/comments/16hexl9/why_publishing_an_app_to_android_tv_store_is_so/)
 - [Parallax effect in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16gv10y/parallax_effect_in_jetpack_compose/)
-- [Has anyone here tried adding translation to different languages for their store listing? How did it affect the organic traffic? Did it increase?](https://www.reddit.com/r/androiddev/comments/16gr7px/has_anyone_here_tried_adding_translation_to/)
-- [New Wear OS policy](https://www.reddit.com/r/androiddev/comments/16gr6vm/new_wear_os_policy/)
-- [Why is Jetpack Compose&#39;s previews so bad?](https://www.reddit.com/r/androiddev/comments/16gjr0i/why_is_jetpack_composes_previews_so_bad/)
-- [Google has released a new version of the Android Studio IDE called Android Studio for Platform &lpar;ASfP&rpar;](https://www.reddit.com/r/androiddev/comments/16g1vhu/google_has_released_a_new_version_of_the_android/)
-- [How do you guys handle the complicated designs?](https://www.reddit.com/r/androiddev/comments/16g0y4h/how_do_you_guys_handle_the_complicated_designs/)
-- [How do you all review MRs? Do you try to run the branch every time?](https://www.reddit.com/r/androiddev/comments/16g0p5d/how_do_you_all_review_mrs_do_you_try_to_run_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
