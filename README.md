@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it possible to easily earn 300$ monthly by creating an app with quick app ninja? Am I getting scammed?](https://www.reddit.com/r/androiddev/comments/16jnke7/is_it_possible_to_easily_earn_300_monthly_by/)
+- [How difficult is it to animate a Pie-chart in Jetpack Compose | Learn in easy steps](https://www.reddit.com/r/androiddev/comments/16jlyfd/how_difficult_is_it_to_animate_a_piechart_in/)
+- [Unpacking Android Security: Part 4 — Insecure Authentication](https://www.reddit.com/r/androiddev/comments/16ji2za/unpacking_android_security_part_4_insecure/)
+- [Why google jetpack samples expose compose using a function and overload the same function for actual code?](https://www.reddit.com/r/androiddev/comments/16jh4os/why_google_jetpack_samples_expose_compose_using_a/)
+- [Why Kotlin Multiplatform could change everything in the mobile dev world](https://www.reddit.com/r/androiddev/comments/16jfuxt/why_kotlin_multiplatform_could_change_everything/)
+- [My app was instantly suspended from the Google Play Store due to..? SpinOK / OKSpin](https://www.reddit.com/r/androiddev/comments/16j7v92/my_app_was_instantly_suspended_from_the_google/)
+- [Single module project](https://www.reddit.com/r/androiddev/comments/16j7l9r/single_module_project/)
+- [My 2 year developer account got terminated due to &lpar;fraudulent payment activity within your apps&rpar;](https://www.reddit.com/r/androiddev/comments/16j5gi5/my_2_year_developer_account_got_terminated_due_to/)
 - [Debugging Android Devices](https://www.reddit.com/r/androiddev/comments/16irstu/debugging_android_devices/)
 - [Do you prefer navigation to be in VM, in Fragment or in View?](https://www.reddit.com/r/androiddev/comments/16ipdsv/do_you_prefer_navigation_to_be_in_vm_in_fragment/)
-- [Explore my latest Android apps: a clock designed with Jetpack Compose, a versatile calculator, and a handy weather tool. Check out the video to see them in action! Link in the description.](https://www.reddit.com/r/androiddev/comments/16io2x0/explore_my_latest_android_apps_a_clock_designed/)
-- [*Update - Scammers from Indian &quot;agency&quot; blackmailing developers - google does nothing](https://www.reddit.com/r/androiddev/comments/16iiuin/update_scammers_from_indian_agency_blackmailing/)
-- [Diffetto: A tool to differentiate between two Perfetto traces](https://www.reddit.com/r/androiddev/comments/16ih5gw/diffetto_a_tool_to_differentiate_between_two/)
-- [Misleading Information Approval Issue](https://www.reddit.com/r/androiddev/comments/16ih0a3/misleading_information_approval_issue/)
-- [How FlowMVI has changed the fate of our project](https://www.reddit.com/r/androiddev/comments/16hkyeb/how_flowmvi_has_changed_the_fate_of_our_project/)
-- [Room database: auto generate HTTP endpoint and offline-first client repository](https://www.reddit.com/r/androiddev/comments/16hhokz/room_database_auto_generate_http_endpoint_and/)
-- [Why publishing an app to Android TV store is so hard?](https://www.reddit.com/r/androiddev/comments/16hexl9/why_publishing_an_app_to_android_tv_store_is_so/)
-- [Parallax effect in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16gv10y/parallax_effect_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
