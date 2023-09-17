@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Seeking Contributors for Lentil Translate: An Open-Source Android Translator App](https://www.reddit.com/r/androiddev/comments/16k9trh/seeking_contributors_for_lentil_translate_an/)
+- [Has anyone tried this trategy on their apps? To only start showing ads one day after the first use. So on the first day you will lose ad revenue. Did it increase the retention long term? Was the lost of revenue worth it?](https://www.reddit.com/r/androiddev/comments/16k6fmd/has_anyone_tried_this_trategy_on_their_apps_to/)
+- [Flutter weather app based on apple&#39;s design!](https://www.reddit.com/r/androiddev/comments/16k5u01/flutter_weather_app_based_on_apples_design/)
+- [Checkout my mobile app built using Kotlin! Check out the source code too!](https://www.reddit.com/r/androiddev/comments/16k519w/checkout_my_mobile_app_built_using_kotlin_check/)
+- [Making Android Shine on Large Screens with Roberto Orgiu from Google](https://www.reddit.com/r/androiddev/comments/16k3ix2/making_android_shine_on_large_screens_with/)
+- [Had to remove a certain country from my target regions due to bad reviews](https://www.reddit.com/r/androiddev/comments/16k24t3/had_to_remove_a_certain_country_from_my_target/)
 - [Is it possible to easily earn 300$ monthly by creating an app with quick app ninja? Am I getting scammed?](https://www.reddit.com/r/androiddev/comments/16jnke7/is_it_possible_to_easily_earn_300_monthly_by/)
 - [How difficult is it to animate a Pie-chart in Jetpack Compose | Learn in easy steps](https://www.reddit.com/r/androiddev/comments/16jlyfd/how_difficult_is_it_to_animate_a_piechart_in/)
 - [Unpacking Android Security: Part 4 — Insecure Authentication](https://www.reddit.com/r/androiddev/comments/16ji2za/unpacking_android_security_part_4_insecure/)
 - [Why google jetpack samples expose compose using a function and overload the same function for actual code?](https://www.reddit.com/r/androiddev/comments/16jh4os/why_google_jetpack_samples_expose_compose_using_a/)
-- [Why Kotlin Multiplatform could change everything in the mobile dev world](https://www.reddit.com/r/androiddev/comments/16jfuxt/why_kotlin_multiplatform_could_change_everything/)
-- [My app was instantly suspended from the Google Play Store due to..? SpinOK / OKSpin](https://www.reddit.com/r/androiddev/comments/16j7v92/my_app_was_instantly_suspended_from_the_google/)
-- [Single module project](https://www.reddit.com/r/androiddev/comments/16j7l9r/single_module_project/)
-- [My 2 year developer account got terminated due to &lpar;fraudulent payment activity within your apps&rpar;](https://www.reddit.com/r/androiddev/comments/16j5gi5/my_2_year_developer_account_got_terminated_due_to/)
-- [Debugging Android Devices](https://www.reddit.com/r/androiddev/comments/16irstu/debugging_android_devices/)
-- [Do you prefer navigation to be in VM, in Fragment or in View?](https://www.reddit.com/r/androiddev/comments/16ipdsv/do_you_prefer_navigation_to_be_in_vm_in_fragment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
