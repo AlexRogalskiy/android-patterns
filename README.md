@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Did you face any issue, when converting PNG to WebP in production app?](https://www.reddit.com/r/androiddev/comments/16lhqjo/did_you_face_any_issue_when_converting_png_to/)
+- [Just released another Compose Multiplatform library, this time a port of androidx.palette! Now you can generate a color palette, or calculate a dominant color from an image.](https://www.reddit.com/r/androiddev/comments/16l8w5s/just_released_another_compose_multiplatform/)
+- [Jetpack compose Flow to State - state management](https://www.reddit.com/r/androiddev/comments/16l7s0n/jetpack_compose_flow_to_state_state_management/)
+- [Hello everyone This is my first jetpack compose library I ever work on and publish I would appreciate if you take a look at it, let me know what you think and kindly star it I don&#39;t mind if you take a look at other repositories as well](https://www.reddit.com/r/androiddev/comments/16l55z5/hello_everyone_this_is_my_first_jetpack_compose/)
+- [Seeking Contributors for Notify: An Open-Source Android Notes App](https://www.reddit.com/r/androiddev/comments/16l4q58/seeking_contributors_for_notify_an_opensource/)
 - [Seeking Contributors for Lentil Translate: An Open-Source Android Translator App](https://www.reddit.com/r/androiddev/comments/16k9trh/seeking_contributors_for_lentil_translate_an/)
 - [Has anyone tried this trategy on their apps? To only start showing ads one day after the first use. So on the first day you will lose ad revenue. Did it increase the retention long term? Was the lost of revenue worth it?](https://www.reddit.com/r/androiddev/comments/16k6fmd/has_anyone_tried_this_trategy_on_their_apps_to/)
 - [Flutter weather app based on apple&#39;s design!](https://www.reddit.com/r/androiddev/comments/16k5u01/flutter_weather_app_based_on_apples_design/)
 - [Checkout my mobile app built using Kotlin! Check out the source code too!](https://www.reddit.com/r/androiddev/comments/16k519w/checkout_my_mobile_app_built_using_kotlin_check/)
 - [Making Android Shine on Large Screens with Roberto Orgiu from Google](https://www.reddit.com/r/androiddev/comments/16k3ix2/making_android_shine_on_large_screens_with/)
-- [Had to remove a certain country from my target regions due to bad reviews](https://www.reddit.com/r/androiddev/comments/16k24t3/had_to_remove_a_certain_country_from_my_target/)
-- [Is it possible to easily earn 300$ monthly by creating an app with quick app ninja? Am I getting scammed?](https://www.reddit.com/r/androiddev/comments/16jnke7/is_it_possible_to_easily_earn_300_monthly_by/)
-- [How difficult is it to animate a Pie-chart in Jetpack Compose | Learn in easy steps](https://www.reddit.com/r/androiddev/comments/16jlyfd/how_difficult_is_it_to_animate_a_piechart_in/)
-- [Unpacking Android Security: Part 4 — Insecure Authentication](https://www.reddit.com/r/androiddev/comments/16ji2za/unpacking_android_security_part_4_insecure/)
-- [Why google jetpack samples expose compose using a function and overload the same function for actual code?](https://www.reddit.com/r/androiddev/comments/16jh4os/why_google_jetpack_samples_expose_compose_using_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
