@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Did you face any issue, when converting PNG to WebP in production app?](https://www.reddit.com/r/androiddev/comments/16lhqjo/did_you_face_any_issue_when_converting_png_to/)
-- [Just released another Compose Multiplatform library, this time a port of androidx.palette! Now you can generate a color palette, or calculate a dominant color from an image.](https://www.reddit.com/r/androiddev/comments/16l8w5s/just_released_another_compose_multiplatform/)
-- [Jetpack compose Flow to State - state management](https://www.reddit.com/r/androiddev/comments/16l7s0n/jetpack_compose_flow_to_state_state_management/)
-- [Hello everyone This is my first jetpack compose library I ever work on and publish I would appreciate if you take a look at it, let me know what you think and kindly star it I don&#39;t mind if you take a look at other repositories as well](https://www.reddit.com/r/androiddev/comments/16l55z5/hello_everyone_this_is_my_first_jetpack_compose/)
-- [Seeking Contributors for Notify: An Open-Source Android Notes App](https://www.reddit.com/r/androiddev/comments/16l4q58/seeking_contributors_for_notify_an_opensource/)
-- [Seeking Contributors for Lentil Translate: An Open-Source Android Translator App](https://www.reddit.com/r/androiddev/comments/16k9trh/seeking_contributors_for_lentil_translate_an/)
-- [Has anyone tried this trategy on their apps? To only start showing ads one day after the first use. So on the first day you will lose ad revenue. Did it increase the retention long term? Was the lost of revenue worth it?](https://www.reddit.com/r/androiddev/comments/16k6fmd/has_anyone_tried_this_trategy_on_their_apps_to/)
-- [Flutter weather app based on apple&#39;s design!](https://www.reddit.com/r/androiddev/comments/16k5u01/flutter_weather_app_based_on_apples_design/)
-- [Checkout my mobile app built using Kotlin! Check out the source code too!](https://www.reddit.com/r/androiddev/comments/16k519w/checkout_my_mobile_app_built_using_kotlin_check/)
-- [Making Android Shine on Large Screens with Roberto Orgiu from Google](https://www.reddit.com/r/androiddev/comments/16k3ix2/making_android_shine_on_large_screens_with/)
+- [TikTok clone made with React Native and Firebase](https://www.reddit.com/r/androiddev/comments/16m3i18/tiktok_clone_made_with_react_native_and_firebase/)
+- [Google Play Auto-Renewable Subscription Design Advice Requested.](https://www.reddit.com/r/androiddev/comments/16m2b4b/google_play_autorenewable_subscription_design/)
+- [ANR internals: touch dispatching through the view hierarchy](https://www.reddit.com/r/androiddev/comments/16lzsms/anr_internals_touch_dispatching_through_the_view/)
+- [A script to compare two Macrobenchmarks runs](https://www.reddit.com/r/androiddev/comments/16lzqua/a_script_to_compare_two_macrobenchmarks_runs/)
+- [Weekly Who&#39;s Hiring Thread - September 18, 2023](https://www.reddit.com/r/androiddev/comments/16luwuf/weekly_whos_hiring_thread_september_18_2023/)
+- [Survey for people with Kotlin/Java programming experience](https://www.reddit.com/r/androiddev/comments/16luunz/survey_for_people_with_kotlinjava_programming/)
+- [Why has my background Worker stopped? Exploring Android WorkManger’s StopReason](https://www.reddit.com/r/androiddev/comments/16lun47/why_has_my_background_worker_stopped_exploring/)
+- [Adult Filter / Parental Guidance Best Practice](https://www.reddit.com/r/androiddev/comments/16luc3z/adult_filter_parental_guidance_best_practice/)
+- [Weekly discussion, code review, and feedback thread - September 18, 2023](https://www.reddit.com/r/androiddev/comments/16ltlnc/weekly_discussion_code_review_and_feedback_thread/)
+- [Reddit Adopts Server-Driven UI for Its New Feed Architecture Across Mobile Apps](https://www.reddit.com/r/androiddev/comments/16lqme3/reddit_adopts_serverdriven_ui_for_its_new_feed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
