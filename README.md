@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Donate link / Confusing Policy](https://www.reddit.com/r/androiddev/comments/16n768d/donate_link_confusing_policy/)
+- [Anyone using VI-based editors for AOSP development?](https://www.reddit.com/r/androiddev/comments/16n5lmq/anyone_using_vibased_editors_for_aosp_development/)
+- [Created my first library i.e. a Stepper View library in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16n0bdn/created_my_first_library_ie_a_stepper_view/)
+- [A Pragmatic Introduction To Dagger on Android Part 1: Why use Dagger?](https://www.reddit.com/r/androiddev/comments/16my2qp/a_pragmatic_introduction_to_dagger_on_android/)
+- [[Q&amp;A] Google&#39;s Android Device Streaming is going Alpha, and we&#39;ll be here to answer all your questions!](https://www.reddit.com/r/androiddev/comments/16mvlsz/qa_googles_android_device_streaming_is_going/)
+- [High quality Android open-source Android projects?](https://www.reddit.com/r/androiddev/comments/16ml81a/high_quality_android_opensource_android_projects/)
+- [Created my first library i.e. a Payment View library in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16mjlqg/created_my_first_library_ie_a_payment_view/)
+- [Announcement: a Google Q&amp;A is coming, a new Mod in the team and a call for help](https://www.reddit.com/r/androiddev/comments/16mikwk/announcement_a_google_qa_is_coming_a_new_mod_in/)
 - [TikTok clone made with React Native and Firebase](https://www.reddit.com/r/androiddev/comments/16m3i18/tiktok_clone_made_with_react_native_and_firebase/)
 - [Google Play Auto-Renewable Subscription Design Advice Requested.](https://www.reddit.com/r/androiddev/comments/16m2b4b/google_play_autorenewable_subscription_design/)
-- [ANR internals: touch dispatching through the view hierarchy](https://www.reddit.com/r/androiddev/comments/16lzsms/anr_internals_touch_dispatching_through_the_view/)
-- [A script to compare two Macrobenchmarks runs](https://www.reddit.com/r/androiddev/comments/16lzqua/a_script_to_compare_two_macrobenchmarks_runs/)
-- [Weekly Who&#39;s Hiring Thread - September 18, 2023](https://www.reddit.com/r/androiddev/comments/16luwuf/weekly_whos_hiring_thread_september_18_2023/)
-- [Survey for people with Kotlin/Java programming experience](https://www.reddit.com/r/androiddev/comments/16luunz/survey_for_people_with_kotlinjava_programming/)
-- [Why has my background Worker stopped? Exploring Android WorkManger’s StopReason](https://www.reddit.com/r/androiddev/comments/16lun47/why_has_my_background_worker_stopped_exploring/)
-- [Adult Filter / Parental Guidance Best Practice](https://www.reddit.com/r/androiddev/comments/16luc3z/adult_filter_parental_guidance_best_practice/)
-- [Weekly discussion, code review, and feedback thread - September 18, 2023](https://www.reddit.com/r/androiddev/comments/16ltlnc/weekly_discussion_code_review_and_feedback_thread/)
-- [Reddit Adopts Server-Driven UI for Its New Feed Architecture Across Mobile Apps](https://www.reddit.com/r/androiddev/comments/16lqme3/reddit_adopts_serverdriven_ui_for_its_new_feed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
