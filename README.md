@@ -271,8 +271,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Donate link / Confusing Policy](https://www.reddit.com/r/androiddev/comments/16n768d/donate_link_confusing_policy/)
-- [Anyone using VI-based editors for AOSP development?](https://www.reddit.com/r/androiddev/comments/16n5lmq/anyone_using_vibased_editors_for_aosp_development/)
+- [First Alpha release of Androidx Bluetooth!](https://www.reddit.com/r/androiddev/comments/16nuqnd/first_alpha_release_of_androidx_bluetooth/)
 - [Created my first library i.e. a Stepper View library in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16n0bdn/created_my_first_library_ie_a_stepper_view/)
 - [A Pragmatic Introduction To Dagger on Android Part 1: Why use Dagger?](https://www.reddit.com/r/androiddev/comments/16my2qp/a_pragmatic_introduction_to_dagger_on_android/)
 - [[Q&amp;A] Google&#39;s Android Device Streaming is going Alpha, and we&#39;ll be here to answer all your questions!](https://www.reddit.com/r/androiddev/comments/16mvlsz/qa_googles_android_device_streaming_is_going/)
@@ -281,6 +280,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Announcement: a Google Q&amp;A is coming, a new Mod in the team and a call for help](https://www.reddit.com/r/androiddev/comments/16mikwk/announcement_a_google_qa_is_coming_a_new_mod_in/)
 - [TikTok clone made with React Native and Firebase](https://www.reddit.com/r/androiddev/comments/16m3i18/tiktok_clone_made_with_react_native_and_firebase/)
 - [Google Play Auto-Renewable Subscription Design Advice Requested.](https://www.reddit.com/r/androiddev/comments/16m2b4b/google_play_autorenewable_subscription_design/)
+- [ANR internals: touch dispatching through the view hierarchy](https://www.reddit.com/r/androiddev/comments/16lzsms/anr_internals_touch_dispatching_through_the_view/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
