@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mapping Experiences with Google Maps and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16ow61m/mapping_experiences_with_google_maps_and_jetpack/)
+- [Android Developers Blog: Studio Bot expands to 170+ international markets](https://www.reddit.com/r/androiddev/comments/16or9q5/android_developers_blog_studio_bot_expands_to_170/)
+- [Light-weight Media Gallery app for Android made with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16onmsd/lightweight_media_gallery_app_for_android_made/)
+- [Android Studio Hedgehog Beta 5 now available](https://www.reddit.com/r/androiddev/comments/16ol2e7/android_studio_hedgehog_beta_5_now_available/)
+- [📢 Excited to introduce &quot;Dogiz&quot; - a Modern Android Development Showcase! 🐾🐶✨, &quot;Dogiz&quot; dives 🔍 Clean Architecture 📚 Kotlin, Jetpack Compose, and Kotlin Flow 🌐 Ktor for 💾 Room ... and so much more!](https://www.reddit.com/r/androiddev/comments/16of646/excited_to_introduce_dogiz_a_modern_android/)
 - [First Alpha release of Androidx Bluetooth!](https://www.reddit.com/r/androiddev/comments/16nuqnd/first_alpha_release_of_androidx_bluetooth/)
 - [Created my first library i.e. a Stepper View library in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16n0bdn/created_my_first_library_ie_a_stepper_view/)
 - [A Pragmatic Introduction To Dagger on Android Part 1: Why use Dagger?](https://www.reddit.com/r/androiddev/comments/16my2qp/a_pragmatic_introduction_to_dagger_on_android/)
 - [[Q&amp;A] Google&#39;s Android Device Streaming is going Alpha, and we&#39;ll be here to answer all your questions!](https://www.reddit.com/r/androiddev/comments/16mvlsz/qa_googles_android_device_streaming_is_going/)
 - [High quality Android open-source Android projects?](https://www.reddit.com/r/androiddev/comments/16ml81a/high_quality_android_opensource_android_projects/)
-- [Created my first library i.e. a Payment View library in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16mjlqg/created_my_first_library_ie_a_payment_view/)
-- [Announcement: a Google Q&amp;A is coming, a new Mod in the team and a call for help](https://www.reddit.com/r/androiddev/comments/16mikwk/announcement_a_google_qa_is_coming_a_new_mod_in/)
-- [TikTok clone made with React Native and Firebase](https://www.reddit.com/r/androiddev/comments/16m3i18/tiktok_clone_made_with_react_native_and_firebase/)
-- [Google Play Auto-Renewable Subscription Design Advice Requested.](https://www.reddit.com/r/androiddev/comments/16m2b4b/google_play_autorenewable_subscription_design/)
-- [ANR internals: touch dispatching through the view hierarchy](https://www.reddit.com/r/androiddev/comments/16lzsms/anr_internals_touch_dispatching_through_the_view/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
