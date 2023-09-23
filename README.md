@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can an Activity access a repository directly through a ViewModel?](https://www.reddit.com/r/androiddev/comments/16plwg3/can_an_activity_access_a_repository_directly/)
+- [I am a full time software developer and I made an android app that creates a safe space on your phone to store sensitive files.](https://www.reddit.com/r/androiddev/comments/16piz89/i_am_a_full_time_software_developer_and_i_made_an/)
+- [Why you should almost never hardcode an external storage file path](https://www.reddit.com/r/androiddev/comments/16pe66n/why_you_should_almost_never_hardcode_an_external/)
+- [What&#39;s the best Emulator to use that isn&#39;t a Pixel &lpar;Giraffe | 2022.3.1&rpar;?](https://www.reddit.com/r/androiddev/comments/16pcrrn/whats_the_best_emulator_to_use_that_isnt_a_pixel/)
+- [Composing AnnotatedString — Poetry, Music, Code, Blogs, Expandables and Beyond](https://www.reddit.com/r/androiddev/comments/16pbrvs/composing_annotatedstring_poetry_music_code_blogs/)
+- [The unreachable Google APIs Data Safety Team/Google Trust and Safety Team](https://www.reddit.com/r/androiddev/comments/16pagx2/the_unreachable_google_apis_data_safety/)
 - [Mapping Experiences with Google Maps and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16ow61m/mapping_experiences_with_google_maps_and_jetpack/)
 - [Android Developers Blog: Studio Bot expands to 170+ international markets](https://www.reddit.com/r/androiddev/comments/16or9q5/android_developers_blog_studio_bot_expands_to_170/)
 - [Light-weight Media Gallery app for Android made with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16onmsd/lightweight_media_gallery_app_for_android_made/)
 - [Android Studio Hedgehog Beta 5 now available](https://www.reddit.com/r/androiddev/comments/16ol2e7/android_studio_hedgehog_beta_5_now_available/)
-- [📢 Excited to introduce &quot;Dogiz&quot; - a Modern Android Development Showcase! 🐾🐶✨, &quot;Dogiz&quot; dives 🔍 Clean Architecture 📚 Kotlin, Jetpack Compose, and Kotlin Flow 🌐 Ktor for 💾 Room ... and so much more!](https://www.reddit.com/r/androiddev/comments/16of646/excited_to_introduce_dogiz_a_modern_android/)
-- [First Alpha release of Androidx Bluetooth!](https://www.reddit.com/r/androiddev/comments/16nuqnd/first_alpha_release_of_androidx_bluetooth/)
-- [Created my first library i.e. a Stepper View library in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16n0bdn/created_my_first_library_ie_a_stepper_view/)
-- [A Pragmatic Introduction To Dagger on Android Part 1: Why use Dagger?](https://www.reddit.com/r/androiddev/comments/16my2qp/a_pragmatic_introduction_to_dagger_on_android/)
-- [[Q&amp;A] Google&#39;s Android Device Streaming is going Alpha, and we&#39;ll be here to answer all your questions!](https://www.reddit.com/r/androiddev/comments/16mvlsz/qa_googles_android_device_streaming_is_going/)
-- [High quality Android open-source Android projects?](https://www.reddit.com/r/androiddev/comments/16ml81a/high_quality_android_opensource_android_projects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
