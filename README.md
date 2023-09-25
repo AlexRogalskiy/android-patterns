@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Webview slower than chrome ?](https://www.reddit.com/r/androiddev/comments/16qcwet/webview_slower_than_chrome/)
-- [Create a Wear OS watchface — with Daniele Bonaldo](https://www.reddit.com/r/androiddev/comments/16q7zws/create_a_wear_os_watchface_with_daniele_bonaldo/)
-- [New architecture MVB based on View without ViewModel. And a UI mode proposal better than Compose and Flutter.](https://www.reddit.com/r/androiddev/comments/16q4g5z/new_architecture_mvb_based_on_view_without/)
-- [What other roles can an android developers transition to?](https://www.reddit.com/r/androiddev/comments/16pu8tt/what_other_roles_can_an_android_developers/)
-- [I am a full time software developer and I made an android app that creates a safe space on your phone to store sensitive files.](https://www.reddit.com/r/androiddev/comments/16piz89/i_am_a_full_time_software_developer_and_i_made_an/)
-- [Why you should almost never hardcode an external storage file path](https://www.reddit.com/r/androiddev/comments/16pe66n/why_you_should_almost_never_hardcode_an_external/)
-- [What&#39;s the best Emulator to use that isn&#39;t a Pixel &lpar;Giraffe | 2022.3.1&rpar;?](https://www.reddit.com/r/androiddev/comments/16pcrrn/whats_the_best_emulator_to_use_that_isnt_a_pixel/)
-- [Composing AnnotatedString — Poetry, Music, Code, Blogs, Expandables and Beyond](https://www.reddit.com/r/androiddev/comments/16pbrvs/composing_annotatedstring_poetry_music_code_blogs/)
-- [The unreachable Google APIs Data Safety Team/Google Trust and Safety Team](https://www.reddit.com/r/androiddev/comments/16pagx2/the_unreachable_google_apis_data_safety/)
-- [Mapping Experiences with Google Maps and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/16ow61m/mapping_experiences_with_google_maps_and_jetpack/)
+- [ID of framework used](https://www.reddit.com/r/androiddev/comments/16rej96/id_of_framework_used/)
+- [Tip: upgrading gradle to 8.x? Maybe add this before you get crashes...](https://www.reddit.com/r/androiddev/comments/16rd5o9/tip_upgrading_gradle_to_8x_maybe_add_this_before/)
+- [Working as an android developer after google play account termination.](https://www.reddit.com/r/androiddev/comments/16r7yvc/working_as_an_android_developer_after_google_play/)
+- [Stateless and Stateful ? What does it stands for in state management in Compose?](https://www.reddit.com/r/androiddev/comments/16r2mvs/stateless_and_stateful_what_does_it_stands_for_in/)
+- [Open-sourcing Play Deals: Paid Apps Deals &lpar;a KMP Project&rpar;](https://www.reddit.com/r/androiddev/comments/16r21br/opensourcing_play_deals_paid_apps_deals_a_kmp/)
+- [Painless building of an Android package installer app](https://www.reddit.com/r/androiddev/comments/16r1q0h/painless_building_of_an_android_package_installer/)
+- [Happy 15 Years Anniversary Android!!](https://www.reddit.com/r/androiddev/comments/16qtf31/happy_15_years_anniversary_android/)
+- [Consider using Makefile for Android](https://www.reddit.com/r/androiddev/comments/16qt54z/consider_using_makefile_for_android/)
+- [Which IDE for Android GAME development?](https://www.reddit.com/r/androiddev/comments/16qqamy/which_ide_for_android_game_development/)
+- [The New Play Console App &lpar;In Beta&rpar; is a huge downgrade](https://www.reddit.com/r/androiddev/comments/16qpdi1/the_new_play_console_app_in_beta_is_a_huge/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
