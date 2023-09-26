@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ID of framework used](https://www.reddit.com/r/androiddev/comments/16rej96/id_of_framework_used/)
+- [This Week: Connect and Share your Favorite Android Dev communities &lpar;September 25, 2023&rpar;](https://www.reddit.com/r/androiddev/comments/16s3laf/this_week_connect_and_share_your_favorite_android/)
+- [Looking to network with other Android Developers in the industry](https://www.reddit.com/r/androiddev/comments/16rtekq/looking_to_network_with_other_android_developers/)
+- [Did you know that Painter is not stable and cuases unnecessary recompositions when used with Images &amp; Icons in Jetpack compose?](https://www.reddit.com/r/androiddev/comments/16rsmj5/did_you_know_that_painter_is_not_stable_and/)
+- [Weekly Who&#39;s Hiring Thread - September 25, 2023](https://www.reddit.com/r/androiddev/comments/16rreb1/weekly_whos_hiring_thread_september_25_2023/)
+- [Weekly discussion, code review, and feedback thread - September 25, 2023](https://www.reddit.com/r/androiddev/comments/16rq2jm/weekly_discussion_code_review_and_feedback_thread/)
+- [Android low latency / high performance audio in 2023](https://www.reddit.com/r/androiddev/comments/16rpp9z/android_low_latency_high_performance_audio_in_2023/)
 - [Tip: upgrading gradle to 8.x? Maybe add this before you get crashes...](https://www.reddit.com/r/androiddev/comments/16rd5o9/tip_upgrading_gradle_to_8x_maybe_add_this_before/)
 - [Working as an android developer after google play account termination.](https://www.reddit.com/r/androiddev/comments/16r7yvc/working_as_an_android_developer_after_google_play/)
 - [Stateless and Stateful ? What does it stands for in state management in Compose?](https://www.reddit.com/r/androiddev/comments/16r2mvs/stateless_and_stateful_what_does_it_stands_for_in/)
 - [Open-sourcing Play Deals: Paid Apps Deals &lpar;a KMP Project&rpar;](https://www.reddit.com/r/androiddev/comments/16r21br/opensourcing_play_deals_paid_apps_deals_a_kmp/)
-- [Painless building of an Android package installer app](https://www.reddit.com/r/androiddev/comments/16r1q0h/painless_building_of_an_android_package_installer/)
-- [Happy 15 Years Anniversary Android!!](https://www.reddit.com/r/androiddev/comments/16qtf31/happy_15_years_anniversary_android/)
-- [Consider using Makefile for Android](https://www.reddit.com/r/androiddev/comments/16qt54z/consider_using_makefile_for_android/)
-- [Which IDE for Android GAME development?](https://www.reddit.com/r/androiddev/comments/16qqamy/which_ide_for_android_game_development/)
-- [The New Play Console App &lpar;In Beta&rpar; is a huge downgrade](https://www.reddit.com/r/androiddev/comments/16qpdi1/the_new_play_console_app_in_beta_is_a_huge/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
