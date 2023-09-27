@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do You Guys Use Flow with LiveData in MVVM?](https://www.reddit.com/r/androiddev/comments/16swdlu/do_you_guys_use_flow_with_livedata_in_mvvm/)
+- [Sharing data between multiple devices for the same user; is Google App Engine the right tool or do you know &quot;better&quot;?](https://www.reddit.com/r/androiddev/comments/16sqftl/sharing_data_between_multiple_devices_for_the/)
+- [Why doesn&#39;t Android have a centralized repository similar to Flutter&#39;s &#39;flutter pub&#39; where we can access all libraries?](https://www.reddit.com/r/androiddev/comments/16smekl/why_doesnt_android_have_a_centralized_repository/)
 - [This Week: Connect and Share your Favorite Android Dev communities &lpar;September 25, 2023&rpar;](https://www.reddit.com/r/androiddev/comments/16s3laf/this_week_connect_and_share_your_favorite_android/)
 - [Looking to network with other Android Developers in the industry](https://www.reddit.com/r/androiddev/comments/16rtekq/looking_to_network_with_other_android_developers/)
 - [Did you know that Painter is not stable and cuases unnecessary recompositions when used with Images &amp; Icons in Jetpack compose?](https://www.reddit.com/r/androiddev/comments/16rsmj5/did_you_know_that_painter_is_not_stable_and/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Weekly discussion, code review, and feedback thread - September 25, 2023](https://www.reddit.com/r/androiddev/comments/16rq2jm/weekly_discussion_code_review_and_feedback_thread/)
 - [Android low latency / high performance audio in 2023](https://www.reddit.com/r/androiddev/comments/16rpp9z/android_low_latency_high_performance_audio_in_2023/)
 - [Tip: upgrading gradle to 8.x? Maybe add this before you get crashes...](https://www.reddit.com/r/androiddev/comments/16rd5o9/tip_upgrading_gradle_to_8x_maybe_add_this_before/)
-- [Working as an android developer after google play account termination.](https://www.reddit.com/r/androiddev/comments/16r7yvc/working_as_an_android_developer_after_google_play/)
-- [Stateless and Stateful ? What does it stands for in state management in Compose?](https://www.reddit.com/r/androiddev/comments/16r2mvs/stateless_and_stateful_what_does_it_stands_for_in/)
-- [Open-sourcing Play Deals: Paid Apps Deals &lpar;a KMP Project&rpar;](https://www.reddit.com/r/androiddev/comments/16r21br/opensourcing_play_deals_paid_apps_deals_a_kmp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
