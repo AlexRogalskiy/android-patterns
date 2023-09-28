@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Pragmatic Introduction To Dagger on Android Part 2: Setup with Retrofit](https://www.reddit.com/r/androiddev/comments/16u0929/a_pragmatic_introduction_to_dagger_on_android/)
+- [Open Source Port Forwarding App I made in Compose](https://www.reddit.com/r/androiddev/comments/16tzv1r/open_source_port_forwarding_app_i_made_in_compose/)
+- [Android Studio Iguana Canary 5 now available](https://www.reddit.com/r/androiddev/comments/16tsr3j/android_studio_iguana_canary_5_now_available/)
+- [Uploading Instant app to Internal Testing track](https://www.reddit.com/r/androiddev/comments/16tllje/uploading_instant_app_to_internal_testing_track/)
+- [Google reclassifies Zero-Day Libwebp Vulnerability as Critical - CVE-2023-5129](https://www.reddit.com/r/androiddev/comments/16ti2vy/google_reclassifies_zeroday_libwebp_vulnerability/)
+- [What is the biggest knowledge gap in the Android developer community?](https://www.reddit.com/r/androiddev/comments/16tfsyz/what_is_the_biggest_knowledge_gap_in_the_android/)
+- [Can app reviewers make test purchases?](https://www.reddit.com/r/androiddev/comments/16tb1i0/can_app_reviewers_make_test_purchases/)
 - [Do You Guys Use Flow with LiveData in MVVM?](https://www.reddit.com/r/androiddev/comments/16swdlu/do_you_guys_use_flow_with_livedata_in_mvvm/)
 - [Sharing data between multiple devices for the same user; is Google App Engine the right tool or do you know &quot;better&quot;?](https://www.reddit.com/r/androiddev/comments/16sqftl/sharing_data_between_multiple_devices_for_the/)
 - [Why doesn&#39;t Android have a centralized repository similar to Flutter&#39;s &#39;flutter pub&#39; where we can access all libraries?](https://www.reddit.com/r/androiddev/comments/16smekl/why_doesnt_android_have_a_centralized_repository/)
-- [This Week: Connect and Share your Favorite Android Dev communities &lpar;September 25, 2023&rpar;](https://www.reddit.com/r/androiddev/comments/16s3laf/this_week_connect_and_share_your_favorite_android/)
-- [Looking to network with other Android Developers in the industry](https://www.reddit.com/r/androiddev/comments/16rtekq/looking_to_network_with_other_android_developers/)
-- [Did you know that Painter is not stable and cuases unnecessary recompositions when used with Images &amp; Icons in Jetpack compose?](https://www.reddit.com/r/androiddev/comments/16rsmj5/did_you_know_that_painter_is_not_stable_and/)
-- [Weekly Who&#39;s Hiring Thread - September 25, 2023](https://www.reddit.com/r/androiddev/comments/16rreb1/weekly_whos_hiring_thread_september_25_2023/)
-- [Weekly discussion, code review, and feedback thread - September 25, 2023](https://www.reddit.com/r/androiddev/comments/16rq2jm/weekly_discussion_code_review_and_feedback_thread/)
-- [Android low latency / high performance audio in 2023](https://www.reddit.com/r/androiddev/comments/16rpp9z/android_low_latency_high_performance_audio_in_2023/)
-- [Tip: upgrading gradle to 8.x? Maybe add this before you get crashes...](https://www.reddit.com/r/androiddev/comments/16rd5o9/tip_upgrading_gradle_to_8x_maybe_add_this_before/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
