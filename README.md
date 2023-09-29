@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Iguana | 2023.2.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/16ut1jf/android_studio_iguana_202321_canary_6_now/)
+- [Android Studio Giraffe Patch 2 is now available](https://www.reddit.com/r/androiddev/comments/16umsle/android_studio_giraffe_patch_2_is_now_available/)
+- [🚀 Check Out JetPDFVue: Simplifying PDF Handling in Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/16uly0o/check_out_jetpdfvue_simplifying_pdf_handling_in/)
+- [Learn to create Animated Donut Chart &lpar;Pie Chart with gaps&rpar;](https://www.reddit.com/r/androiddev/comments/16ubt9n/learn_to_create_animated_donut_chart_pie_chart/)
+- [Why did Google choose Skia over system views for Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/16u9jrb/why_did_google_choose_skia_over_system_views_for/)
+- [Changing from Premium app to free IAP App](https://www.reddit.com/r/androiddev/comments/16u9219/changing_from_premium_app_to_free_iap_app/)
+- [[Sudoku] casual game](https://www.reddit.com/r/androiddev/comments/16u79wm/sudoku_casual_game/)
 - [A Pragmatic Introduction To Dagger on Android Part 2: Setup with Retrofit](https://www.reddit.com/r/androiddev/comments/16u0929/a_pragmatic_introduction_to_dagger_on_android/)
 - [Open Source Port Forwarding App I made in Compose](https://www.reddit.com/r/androiddev/comments/16tzv1r/open_source_port_forwarding_app_i_made_in_compose/)
 - [Android Studio Iguana Canary 5 now available](https://www.reddit.com/r/androiddev/comments/16tsr3j/android_studio_iguana_canary_5_now_available/)
-- [Uploading Instant app to Internal Testing track](https://www.reddit.com/r/androiddev/comments/16tllje/uploading_instant_app_to_internal_testing_track/)
-- [Google reclassifies Zero-Day Libwebp Vulnerability as Critical - CVE-2023-5129](https://www.reddit.com/r/androiddev/comments/16ti2vy/google_reclassifies_zeroday_libwebp_vulnerability/)
-- [What is the biggest knowledge gap in the Android developer community?](https://www.reddit.com/r/androiddev/comments/16tfsyz/what_is_the_biggest_knowledge_gap_in_the_android/)
-- [Can app reviewers make test purchases?](https://www.reddit.com/r/androiddev/comments/16tb1i0/can_app_reviewers_make_test_purchases/)
-- [Do You Guys Use Flow with LiveData in MVVM?](https://www.reddit.com/r/androiddev/comments/16swdlu/do_you_guys_use_flow_with_livedata_in_mvvm/)
-- [Sharing data between multiple devices for the same user; is Google App Engine the right tool or do you know &quot;better&quot;?](https://www.reddit.com/r/androiddev/comments/16sqftl/sharing_data_between_multiple_devices_for_the/)
-- [Why doesn&#39;t Android have a centralized repository similar to Flutter&#39;s &#39;flutter pub&#39; where we can access all libraries?](https://www.reddit.com/r/androiddev/comments/16smekl/why_doesnt_android_have_a_centralized_repository/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
