@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is my app free](https://www.reddit.com/r/androiddev/comments/16xjgiv/why_is_my_app_free/)
+- [Looking for a reward app script.](https://www.reddit.com/r/androiddev/comments/16xj9r0/looking_for_a_reward_app_script/)
+- [I created a small template for your Compose MP projects. I hope it&#39;s useful to anyone here!](https://www.reddit.com/r/androiddev/comments/16wvxv5/i_created_a_small_template_for_your_compose_mp/)
+- [Have you guys noticed. It seems google removes user ratings/reviews if theyre made too early by the user&lpar; ex. &lt;1 hour usage after install&rpar; i can tell cause out of 500 user that clicked the &quot;rate app&quot; button almost 0 is recorded in console. Also tested with google In-App review api same result.](https://www.reddit.com/r/androiddev/comments/16wuime/have_you_guys_noticed_it_seems_google_removes/)
+- [Wrote a Firebase test lab alternative with a device farm](https://www.reddit.com/r/androiddev/comments/16wr1aa/wrote_a_firebase_test_lab_alternative_with_a/)
 - [App publisher jobs-are they legit?](https://www.reddit.com/r/androiddev/comments/16wmr35/app_publisher_jobsare_they_legit/)
 - [What title would I have?](https://www.reddit.com/r/androiddev/comments/16wglkr/what_title_would_i_have/)
 - [Does anyone know where to find app testers](https://www.reddit.com/r/androiddev/comments/16w719o/does_anyone_know_where_to_find_app_testers/)
 - [Flutter and rcNative are dead?](https://www.reddit.com/r/androiddev/comments/16w2qsd/flutter_and_rcnative_are_dead/)
 - [A Note For Android Tutors&lpar;Udemy $ YouTube&rpar;](https://www.reddit.com/r/androiddev/comments/16w0u6u/a_note_for_android_tutorsudemy_youtube/)
-- [Android Studio Iguana | 2023.2.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/16ut1jf/android_studio_iguana_202321_canary_6_now/)
-- [Android Studio Giraffe Patch 2 is now available](https://www.reddit.com/r/androiddev/comments/16umsle/android_studio_giraffe_patch_2_is_now_available/)
-- [🚀 Check Out JetPDFVue: Simplifying PDF Handling in Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/16uly0o/check_out_jetpdfvue_simplifying_pdf_handling_in/)
-- [Why did Google choose Skia over system views for Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/16u9jrb/why_did_google_choose_skia_over_system_views_for/)
-- [Changing from Premium app to free IAP App](https://www.reddit.com/r/androiddev/comments/16u9219/changing_from_premium_app_to_free_iap_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
