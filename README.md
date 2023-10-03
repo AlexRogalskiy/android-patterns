@@ -286,7 +286,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Build beyond Windows: WSL and WSA in 2023](https://www.infoworld.com/article/3707729/build-beyond-windows-wsl-and-wsa-in-2023.html#tk.rss_android)
+- [Building for Linux and Android on Windows](https://www.infoworld.com/article/3707729/building-for-linux-and-android-on-windows.html#tk.rss_android)
 - [Flutter 3.13 speeds rendering on iOS](https://www.infoworld.com/article/3705031/flutter-313-speeds-rendering-on-ios.html#tk.rss_android)
 - [Kotlin 1.9.0 features beta of advanced K2 compiler](https://www.infoworld.com/article/3701893/kotlin-1-9-0-features-beta-of-advanced-k2-compiler.html#tk.rss_android)
 - [Build better Jetpack Compose apps with Sentry](https://www.infoworld.com/article/3693018/build-better-jetpack-compose-apps-with-sentry.html#tk.rss_android)
