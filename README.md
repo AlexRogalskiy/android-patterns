@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Touchscreen for Mobile Developer](https://www.reddit.com/r/androiddev/comments/16z4gps/touchscreen_for_mobile_developer/)
+- [Don&#39;t ruin your future as a developer like I did.](https://www.reddit.com/r/androiddev/comments/16yvu9z/dont_ruin_your_future_as_a_developer_like_i_did/)
+- [Watchlistfy: Watchlist Tracker &amp; AI Suggestions - Open Source](https://www.reddit.com/r/androiddev/comments/16ymz7n/watchlistfy_watchlist_tracker_ai_suggestions_open/)
+- [Reviving the awesome library Groupie &lpar;makes RecyclerView a breeze to manage&rpar;; forking it to GroupieX](https://www.reddit.com/r/androiddev/comments/16yfz5p/reviving_the_awesome_library_groupie_makes/)
 - [Android Developer jobs are currently in the worst place](https://www.reddit.com/r/androiddev/comments/16y5eqe/android_developer_jobs_are_currently_in_the_worst/)
 - [Publishing to F-Droid with Fastlane and Flavors](https://www.reddit.com/r/androiddev/comments/16xypx7/publishing_to_fdroid_with_fastlane_and_flavors/)
 - [Weekly Who&#39;s Hiring Thread - October 02, 2023](https://www.reddit.com/r/androiddev/comments/16xw1e7/weekly_whos_hiring_thread_october_02_2023/)
 - [Weekly discussion, code review, and feedback thread - October 02, 2023](https://www.reddit.com/r/androiddev/comments/16xusge/weekly_discussion_code_review_and_feedback_thread/)
 - [Low overhead profiling makes my application run way faster](https://www.reddit.com/r/androiddev/comments/16xtw96/low_overhead_profiling_makes_my_application_run/)
 - [Review of Amazon&#39;s Driver Assistance Android Application](https://www.reddit.com/r/androiddev/comments/16xposi/review_of_amazons_driver_assistance_android/)
-- [Created my latest library i.e. a Scratch Card Effect library in Jetpack Compose &amp; Canvas](https://www.reddit.com/r/androiddev/comments/16xol65/created_my_latest_library_ie_a_scratch_card/)
-- [Is Java fast than CPP on Android?](https://www.reddit.com/r/androiddev/comments/16xk8e9/is_java_fast_than_cpp_on_android/)
-- [I created a small template for your Compose MP projects. I hope it&#39;s useful to anyone here!](https://www.reddit.com/r/androiddev/comments/16wvxv5/i_created_a_small_template_for_your_compose_mp/)
-- [Have you guys noticed. It seems google removes user ratings/reviews if theyre made too early by the user&lpar; ex. &lt;1 hour usage after install&rpar; i can tell cause out of 500 user that clicked the &quot;rate app&quot; button almost 0 is recorded in console. Also tested with google In-App review api same result.](https://www.reddit.com/r/androiddev/comments/16wuime/have_you_guys_noticed_it_seems_google_removes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
