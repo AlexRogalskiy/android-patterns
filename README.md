@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A different way to architect an Android app](https://www.reddit.com/r/androiddev/comments/1703e4l/a_different_way_to_architect_an_android_app/)
+- [What’s new in Android 14 for developers](https://www.reddit.com/r/androiddev/comments/16zulzo/whats_new_in_android_14_for_developers/)
+- [Apparently, the latest version of Patreon is written in Compose](https://www.reddit.com/r/androiddev/comments/16zu5xx/apparently_the_latest_version_of_patreon_is/)
+- [Android 14 is live in AOSP](https://www.reddit.com/r/androiddev/comments/16ztp24/android_14_is_live_in_aosp/)
+- [Some Extension function deep dive! &lpar;Polymorphism/Overriding?&rpar;](https://www.reddit.com/r/androiddev/comments/16zrmqp/some_extension_function_deep_dive/)
 - [Touchscreen for Mobile Developer](https://www.reddit.com/r/androiddev/comments/16z4gps/touchscreen_for_mobile_developer/)
-- [Don&#39;t ruin your future as a developer like I did.](https://www.reddit.com/r/androiddev/comments/16yvu9z/dont_ruin_your_future_as_a_developer_like_i_did/)
 - [Watchlistfy: Watchlist Tracker &amp; AI Suggestions - Open Source](https://www.reddit.com/r/androiddev/comments/16ymz7n/watchlistfy_watchlist_tracker_ai_suggestions_open/)
 - [Reviving the awesome library Groupie &lpar;makes RecyclerView a breeze to manage&rpar;; forking it to GroupieX](https://www.reddit.com/r/androiddev/comments/16yfz5p/reviving_the_awesome_library_groupie_makes/)
 - [Android Developer jobs are currently in the worst place](https://www.reddit.com/r/androiddev/comments/16y5eqe/android_developer_jobs_are_currently_in_the_worst/)
 - [Publishing to F-Droid with Fastlane and Flavors](https://www.reddit.com/r/androiddev/comments/16xypx7/publishing_to_fdroid_with_fastlane_and_flavors/)
-- [Weekly Who&#39;s Hiring Thread - October 02, 2023](https://www.reddit.com/r/androiddev/comments/16xw1e7/weekly_whos_hiring_thread_october_02_2023/)
-- [Weekly discussion, code review, and feedback thread - October 02, 2023](https://www.reddit.com/r/androiddev/comments/16xusge/weekly_discussion_code_review_and_feedback_thread/)
-- [Low overhead profiling makes my application run way faster](https://www.reddit.com/r/androiddev/comments/16xtw96/low_overhead_profiling_makes_my_application_run/)
-- [Review of Amazon&#39;s Driver Assistance Android Application](https://www.reddit.com/r/androiddev/comments/16xposi/review_of_amazons_driver_assistance_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
