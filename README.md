@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Iguana | 2023.2.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/170uv3f/android_studio_iguana_202321_canary_7_now/)
+- [Looking for a few Android devs that are interested in getting their apps localized &lpar;supporting multiple languages&rpar;.](https://www.reddit.com/r/androiddev/comments/170sm77/looking_for_a_few_android_devs_that_are/)
+- [Play Integrity API vs Firebase AppCheck](https://www.reddit.com/r/androiddev/comments/170mzeq/play_integrity_api_vs_firebase_appcheck/)
+- [How to share AVD system images for others to use for Android 13](https://www.reddit.com/r/androiddev/comments/170gs3x/how_to_share_avd_system_images_for_others_to_use/)
+- [One Activity Vs Multi-Activities](https://www.reddit.com/r/androiddev/comments/170djs3/one_activity_vs_multiactivities/)
+- [Hidden Mobile App Security Risks in Android Libraries](https://www.reddit.com/r/androiddev/comments/170ddyi/hidden_mobile_app_security_risks_in_android/)
+- [Google finally updated Play Console Android app](https://www.reddit.com/r/androiddev/comments/1709bz0/google_finally_updated_play_console_android_app/)
 - [A different way to architect an Android app](https://www.reddit.com/r/androiddev/comments/1703e4l/a_different_way_to_architect_an_android_app/)
 - [What’s new in Android 14 for developers](https://www.reddit.com/r/androiddev/comments/16zulzo/whats_new_in_android_14_for_developers/)
 - [Apparently, the latest version of Patreon is written in Compose](https://www.reddit.com/r/androiddev/comments/16zu5xx/apparently_the_latest_version_of_patreon_is/)
-- [Android 14 is live in AOSP](https://www.reddit.com/r/androiddev/comments/16ztp24/android_14_is_live_in_aosp/)
-- [Some Extension function deep dive! &lpar;Polymorphism/Overriding?&rpar;](https://www.reddit.com/r/androiddev/comments/16zrmqp/some_extension_function_deep_dive/)
-- [Touchscreen for Mobile Developer](https://www.reddit.com/r/androiddev/comments/16z4gps/touchscreen_for_mobile_developer/)
-- [Watchlistfy: Watchlist Tracker &amp; AI Suggestions - Open Source](https://www.reddit.com/r/androiddev/comments/16ymz7n/watchlistfy_watchlist_tracker_ai_suggestions_open/)
-- [Reviving the awesome library Groupie &lpar;makes RecyclerView a breeze to manage&rpar;; forking it to GroupieX](https://www.reddit.com/r/androiddev/comments/16yfz5p/reviving_the_awesome_library_groupie_makes/)
-- [Android Developer jobs are currently in the worst place](https://www.reddit.com/r/androiddev/comments/16y5eqe/android_developer_jobs_are_currently_in_the_worst/)
-- [Publishing to F-Droid with Fastlane and Flavors](https://www.reddit.com/r/androiddev/comments/16xypx7/publishing_to_fdroid_with_fastlane_and_flavors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
