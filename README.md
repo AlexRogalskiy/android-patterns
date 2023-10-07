@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone else have issues with corrupt videos in Compose docs &lpar;Firefox, Safari, macOS&rpar;?](https://www.reddit.com/r/androiddev/comments/171pjwp/anyone_else_have_issues_with_corrupt_videos_in/)
+- [Kotlin or Android Native](https://www.reddit.com/r/androiddev/comments/1712my6/kotlin_or_android_native/)
+- [How can I use an arm64 emulator on Android studio on a Windows PC to run Snapchat APK?](https://www.reddit.com/r/androiddev/comments/171242y/how_can_i_use_an_arm64_emulator_on_android_studio/)
 - [Android Studio Iguana | 2023.2.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/170uv3f/android_studio_iguana_202321_canary_7_now/)
 - [Looking for a few Android devs that are interested in getting their apps localized &lpar;supporting multiple languages&rpar;.](https://www.reddit.com/r/androiddev/comments/170sm77/looking_for_a_few_android_devs_that_are/)
 - [Play Integrity API vs Firebase AppCheck](https://www.reddit.com/r/androiddev/comments/170mzeq/play_integrity_api_vs_firebase_appcheck/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [One Activity Vs Multi-Activities](https://www.reddit.com/r/androiddev/comments/170djs3/one_activity_vs_multiactivities/)
 - [Hidden Mobile App Security Risks in Android Libraries](https://www.reddit.com/r/androiddev/comments/170ddyi/hidden_mobile_app_security_risks_in_android/)
 - [Google finally updated Play Console Android app](https://www.reddit.com/r/androiddev/comments/1709bz0/google_finally_updated_play_console_android_app/)
-- [A different way to architect an Android app](https://www.reddit.com/r/androiddev/comments/1703e4l/a_different_way_to_architect_an_android_app/)
-- [What’s new in Android 14 for developers](https://www.reddit.com/r/androiddev/comments/16zulzo/whats_new_in_android_14_for_developers/)
-- [Apparently, the latest version of Patreon is written in Compose](https://www.reddit.com/r/androiddev/comments/16zu5xx/apparently_the_latest_version_of_patreon_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
