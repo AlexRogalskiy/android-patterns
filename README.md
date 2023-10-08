@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Square size in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1728fua/square_size_in_jetpack_compose/)
+- [Intoducing Namida: A New Music Experience](https://www.reddit.com/r/androiddev/comments/17270dp/intoducing_namida_a_new_music_experience/)
+- [Do you have false positive crashes on the Google Play Developer console?](https://www.reddit.com/r/androiddev/comments/1722twp/do_you_have_false_positive_crashes_on_the_google/)
+- [I still find it wild that one of the &quot;best practices&quot; in Android Dev is to have every usecase to only has 1 public method. Am I the only one?](https://www.reddit.com/r/androiddev/comments/171uzlt/i_still_find_it_wild_that_one_of_the_best/)
+- [Hacking LazyList in Android Jetpack Compose](https://www.reddit.com/r/androiddev/comments/171uwfg/hacking_lazylist_in_android_jetpack_compose/)
 - [Anyone else have issues with corrupt videos in Compose docs &lpar;Firefox, Safari, macOS&rpar;?](https://www.reddit.com/r/androiddev/comments/171pjwp/anyone_else_have_issues_with_corrupt_videos_in/)
-- [Kotlin or Android Native](https://www.reddit.com/r/androiddev/comments/1712my6/kotlin_or_android_native/)
-- [How can I use an arm64 emulator on Android studio on a Windows PC to run Snapchat APK?](https://www.reddit.com/r/androiddev/comments/171242y/how_can_i_use_an_arm64_emulator_on_android_studio/)
 - [Android Studio Iguana | 2023.2.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/170uv3f/android_studio_iguana_202321_canary_7_now/)
 - [Looking for a few Android devs that are interested in getting their apps localized &lpar;supporting multiple languages&rpar;.](https://www.reddit.com/r/androiddev/comments/170sm77/looking_for_a_few_android_devs_that_are/)
 - [Play Integrity API vs Firebase AppCheck](https://www.reddit.com/r/androiddev/comments/170mzeq/play_integrity_api_vs_firebase_appcheck/)
 - [How to share AVD system images for others to use for Android 13](https://www.reddit.com/r/androiddev/comments/170gs3x/how_to_share_avd_system_images_for_others_to_use/)
-- [One Activity Vs Multi-Activities](https://www.reddit.com/r/androiddev/comments/170djs3/one_activity_vs_multiactivities/)
-- [Hidden Mobile App Security Risks in Android Libraries](https://www.reddit.com/r/androiddev/comments/170ddyi/hidden_mobile_app_security_risks_in_android/)
-- [Google finally updated Play Console Android app](https://www.reddit.com/r/androiddev/comments/1709bz0/google_finally_updated_play_console_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
