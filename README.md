@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone else notice Universal App Campaigns is spending most of your budget on TVs instead of phones/tablets?](https://www.reddit.com/r/androiddev/comments/173e3wt/anyone_else_notice_universal_app_campaigns_is/)
+- [The way Ratings And Reviews are displayed on google play store is unfair for small time developers. If you havent noticed yet you need minimum 5 reviews per country for the any rating to be shown on you app store page.](https://www.reddit.com/r/androiddev/comments/1731rmk/the_way_ratings_and_reviews_are_displayed_on/)
+- [What are some open-source projects to contribute for an Android developer with mid-level experience but no prior open-source contribution experience?](https://www.reddit.com/r/androiddev/comments/172zspr/what_are_some_opensource_projects_to_contribute/)
+- [An App&#39;s Transformation Journey with Chris Sinco!](https://www.reddit.com/r/androiddev/comments/172xyd9/an_apps_transformation_journey_with_chris_sinco/)
+- [Emulator &quot;graphics acceleration&quot; without discrete GPU?](https://www.reddit.com/r/androiddev/comments/172tp90/emulator_graphics_acceleration_without_discrete/)
 - [Square size in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1728fua/square_size_in_jetpack_compose/)
 - [Intoducing Namida: A New Music Experience](https://www.reddit.com/r/androiddev/comments/17270dp/intoducing_namida_a_new_music_experience/)
 - [Do you have false positive crashes on the Google Play Developer console?](https://www.reddit.com/r/androiddev/comments/1722twp/do_you_have_false_positive_crashes_on_the_google/)
 - [I still find it wild that one of the &quot;best practices&quot; in Android Dev is to have every usecase to only has 1 public method. Am I the only one?](https://www.reddit.com/r/androiddev/comments/171uzlt/i_still_find_it_wild_that_one_of_the_best/)
 - [Hacking LazyList in Android Jetpack Compose](https://www.reddit.com/r/androiddev/comments/171uwfg/hacking_lazylist_in_android_jetpack_compose/)
-- [Anyone else have issues with corrupt videos in Compose docs &lpar;Firefox, Safari, macOS&rpar;?](https://www.reddit.com/r/androiddev/comments/171pjwp/anyone_else_have_issues_with_corrupt_videos_in/)
-- [Android Studio Iguana | 2023.2.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/170uv3f/android_studio_iguana_202321_canary_7_now/)
-- [Looking for a few Android devs that are interested in getting their apps localized &lpar;supporting multiple languages&rpar;.](https://www.reddit.com/r/androiddev/comments/170sm77/looking_for_a_few_android_devs_that_are/)
-- [Play Integrity API vs Firebase AppCheck](https://www.reddit.com/r/androiddev/comments/170mzeq/play_integrity_api_vs_firebase_appcheck/)
-- [How to share AVD system images for others to use for Android 13](https://www.reddit.com/r/androiddev/comments/170gs3x/how_to_share_avd_system_images_for_others_to_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
