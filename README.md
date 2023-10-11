@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you look for in a working relationship with a UX/UI Designer?](https://www.reddit.com/r/androiddev/comments/174xsfa/what_do_you_look_for_in_a_working_relationship/)
+- [Konsist and Conquer: Embracing the World of Dynamic Testing](https://www.reddit.com/r/androiddev/comments/174slzf/konsist_and_conquer_embracing_the_world_of/)
+- [Kotlin Illustrated - Data Classes and Destructuring](https://www.reddit.com/r/androiddev/comments/174piyb/kotlin_illustrated_data_classes_and_destructuring/)
+- [We are changing the rules of /r/AndroidDev](https://www.reddit.com/r/androiddev/comments/174p6da/we_are_changing_the_rules_of_randroiddev/)
+- [For those who have apps that have rating for everyone&lpar;age 3+&rpar; and also uses google UMP consent dialogue. How did you fix it gettjng rejecting on google play due to &quot;ads displayed to children that invlove interest based marketing is not allowed&quot; policy](https://www.reddit.com/r/androiddev/comments/174kzyx/for_those_who_have_apps_that_have_rating_for/)
+- [Quick questions to App Owners with Ads?](https://www.reddit.com/r/androiddev/comments/174di6q/quick_questions_to_app_owners_with_ads/)
 - [Strategies for automatically refreshing data on Android using Kotlin Flow](https://www.reddit.com/r/androiddev/comments/1747hvg/strategies_for_automatically_refreshing_data_on/)
 - [Finally cracked the full lifecycle of a Composable!😃🎉And wrote a library for it](https://www.reddit.com/r/androiddev/comments/173xy27/finally_cracked_the_full_lifecycle_of_a/)
 - [Mastering Jetpack Compose Performance With Examples: Part 1](https://www.reddit.com/r/androiddev/comments/173t9xv/mastering_jetpack_compose_performance_with/)
 - [Weekly Who&#39;s Hiring Thread - October 09, 2023](https://www.reddit.com/r/androiddev/comments/173r7cj/weekly_whos_hiring_thread_october_09_2023/)
-- [Weekly discussion, code review, and feedback thread - October 09, 2023](https://www.reddit.com/r/androiddev/comments/173pzvp/weekly_discussion_code_review_and_feedback_thread/)
-- [Who will be attending this year&#39;s Droidcon in London? 26-27 October](https://www.reddit.com/r/androiddev/comments/173plot/who_will_be_attending_this_years_droidcon_in/)
-- [Android Passkeys: WebView vs. Chrome Custom Tab vs. Native Implementation](https://www.reddit.com/r/androiddev/comments/173p2k4/android_passkeys_webview_vs_chrome_custom_tab_vs/)
-- [The requirement to display Third-Party Library License Notices, including Android SDK Platforms?](https://www.reddit.com/r/androiddev/comments/173ldkb/the_requirement_to_display_thirdparty_library/)
-- [Anyone else notice Universal App Campaigns is spending most of your budget on TVs instead of phones/tablets?](https://www.reddit.com/r/androiddev/comments/173e3wt/anyone_else_notice_universal_app_campaigns_is/)
-- [The way Ratings And Reviews are displayed on google play store is unfair for small time developers. If you havent noticed yet you need minimum 5 reviews per country for the any rating to be shown on you app store page.](https://www.reddit.com/r/androiddev/comments/1731rmk/the_way_ratings_and_reviews_are_displayed_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
