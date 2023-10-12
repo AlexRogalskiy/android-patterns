@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GridLayout for Jetpack Compose: A simple grid layout library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/175f5or/gridlayout_for_jetpack_compose_a_simple_grid/)
+- [Automatic Integrity Protection, is there any downside ops into it?](https://www.reddit.com/r/androiddev/comments/175dhn4/automatic_integrity_protection_is_there_any/)
+- [Mentoring a fresh graduate](https://www.reddit.com/r/androiddev/comments/175aicl/mentoring_a_fresh_graduate/)
 - [What do you look for in a working relationship with a UX/UI Designer?](https://www.reddit.com/r/androiddev/comments/174xsfa/what_do_you_look_for_in_a_working_relationship/)
 - [Konsist and Conquer: Embracing the World of Dynamic Testing](https://www.reddit.com/r/androiddev/comments/174slzf/konsist_and_conquer_embracing_the_world_of/)
 - [Kotlin Illustrated - Data Classes and Destructuring](https://www.reddit.com/r/androiddev/comments/174piyb/kotlin_illustrated_data_classes_and_destructuring/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [For those who have apps that have rating for everyone&lpar;age 3+&rpar; and also uses google UMP consent dialogue. How did you fix it gettjng rejecting on google play due to &quot;ads displayed to children that invlove interest based marketing is not allowed&quot; policy](https://www.reddit.com/r/androiddev/comments/174kzyx/for_those_who_have_apps_that_have_rating_for/)
 - [Quick questions to App Owners with Ads?](https://www.reddit.com/r/androiddev/comments/174di6q/quick_questions_to_app_owners_with_ads/)
 - [Strategies for automatically refreshing data on Android using Kotlin Flow](https://www.reddit.com/r/androiddev/comments/1747hvg/strategies_for_automatically_refreshing_data_on/)
-- [Finally cracked the full lifecycle of a Composable!😃🎉And wrote a library for it](https://www.reddit.com/r/androiddev/comments/173xy27/finally_cracked_the_full_lifecycle_of_a/)
-- [Mastering Jetpack Compose Performance With Examples: Part 1](https://www.reddit.com/r/androiddev/comments/173t9xv/mastering_jetpack_compose_performance_with/)
-- [Weekly Who&#39;s Hiring Thread - October 09, 2023](https://www.reddit.com/r/androiddev/comments/173r7cj/weekly_whos_hiring_thread_october_09_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
