@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Doubt About Jetpack Compose State Management](https://www.reddit.com/r/androiddev/comments/176gsm9/doubt_about_jetpack_compose_state_management/)
+- [LMP_CONN_TIMEOUT &lpar; status code 34&lpar;0x22&rpar;&rpar;](https://www.reddit.com/r/androiddev/comments/176a983/lmp_conn_timeout_status_code_340x22/)
+- [Is there anything like &quot;certifed by Google to publish on 3rd party store&quot; in Android ecosystem?](https://www.reddit.com/r/androiddev/comments/1764wrg/is_there_anything_like_certifed_by_google_to/)
+- [Which SDK should I target? My dependencies seem to only work with version 34 Android APIs or later but that is compatible with less than 1% of devices?](https://www.reddit.com/r/androiddev/comments/1764agx/which_sdk_should_i_target_my_dependencies_seem_to/)
 - [GridLayout for Jetpack Compose: A simple grid layout library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/175f5or/gridlayout_for_jetpack_compose_a_simple_grid/)
 - [Automatic Integrity Protection, is there any downside ops into it?](https://www.reddit.com/r/androiddev/comments/175dhn4/automatic_integrity_protection_is_there_any/)
 - [Mentoring a fresh graduate](https://www.reddit.com/r/androiddev/comments/175aicl/mentoring_a_fresh_graduate/)
 - [What do you look for in a working relationship with a UX/UI Designer?](https://www.reddit.com/r/androiddev/comments/174xsfa/what_do_you_look_for_in_a_working_relationship/)
 - [Konsist and Conquer: Embracing the World of Dynamic Testing](https://www.reddit.com/r/androiddev/comments/174slzf/konsist_and_conquer_embracing_the_world_of/)
 - [Kotlin Illustrated - Data Classes and Destructuring](https://www.reddit.com/r/androiddev/comments/174piyb/kotlin_illustrated_data_classes_and_destructuring/)
-- [We are changing the rules of /r/AndroidDev](https://www.reddit.com/r/androiddev/comments/174p6da/we_are_changing_the_rules_of_randroiddev/)
-- [For those who have apps that have rating for everyone&lpar;age 3+&rpar; and also uses google UMP consent dialogue. How did you fix it gettjng rejecting on google play due to &quot;ads displayed to children that invlove interest based marketing is not allowed&quot; policy](https://www.reddit.com/r/androiddev/comments/174kzyx/for_those_who_have_apps_that_have_rating_for/)
-- [Quick questions to App Owners with Ads?](https://www.reddit.com/r/androiddev/comments/174di6q/quick_questions_to_app_owners_with_ads/)
-- [Strategies for automatically refreshing data on Android using Kotlin Flow](https://www.reddit.com/r/androiddev/comments/1747hvg/strategies_for_automatically_refreshing_data_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
