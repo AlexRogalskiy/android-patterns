@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why does my app page on playstore doesn&#39;t look like other apps](https://www.reddit.com/r/androiddev/comments/177e5yo/why_does_my_app_page_on_playstore_doesnt_look/)
+- [Community Discord Server for JetpackCompose](https://www.reddit.com/r/androiddev/comments/1775y9s/community_discord_server_for_jetpackcompose/)
+- [Where Can I Collaborate on Open Source Android Projects as a Beginner?](https://www.reddit.com/r/androiddev/comments/1774z83/where_can_i_collaborate_on_open_source_android/)
+- [What are some android apps i should make to make my resume stand out ?](https://www.reddit.com/r/androiddev/comments/176yx1s/what_are_some_android_apps_i_should_make_to_make/)
+- [Anyone using Firebase? How do you guys handle apps on a global scale](https://www.reddit.com/r/androiddev/comments/176y4c8/anyone_using_firebase_how_do_you_guys_handle_apps/)
+- [How does Chalo&#39;s tap to pay work?](https://www.reddit.com/r/androiddev/comments/176ud96/how_does_chalos_tap_to_pay_work/)
+- [An app to customise this notification panel.](https://www.reddit.com/r/androiddev/comments/176tb9z/an_app_to_customise_this_notification_panel/)
+- [Trying to figure out how to toggle mic/camera access via ADB/shell](https://www.reddit.com/r/androiddev/comments/176qi8y/trying_to_figure_out_how_to_toggle_miccamera/)
 - [Doubt About Jetpack Compose State Management](https://www.reddit.com/r/androiddev/comments/176gsm9/doubt_about_jetpack_compose_state_management/)
 - [LMP_CONN_TIMEOUT &lpar; status code 34&lpar;0x22&rpar;&rpar;](https://www.reddit.com/r/androiddev/comments/176a983/lmp_conn_timeout_status_code_340x22/)
-- [Is there anything like &quot;certifed by Google to publish on 3rd party store&quot; in Android ecosystem?](https://www.reddit.com/r/androiddev/comments/1764wrg/is_there_anything_like_certifed_by_google_to/)
-- [Which SDK should I target? My dependencies seem to only work with version 34 Android APIs or later but that is compatible with less than 1% of devices?](https://www.reddit.com/r/androiddev/comments/1764agx/which_sdk_should_i_target_my_dependencies_seem_to/)
-- [GridLayout for Jetpack Compose: A simple grid layout library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/175f5or/gridlayout_for_jetpack_compose_a_simple_grid/)
-- [Automatic Integrity Protection, is there any downside ops into it?](https://www.reddit.com/r/androiddev/comments/175dhn4/automatic_integrity_protection_is_there_any/)
-- [Mentoring a fresh graduate](https://www.reddit.com/r/androiddev/comments/175aicl/mentoring_a_fresh_graduate/)
-- [What do you look for in a working relationship with a UX/UI Designer?](https://www.reddit.com/r/androiddev/comments/174xsfa/what_do_you_look_for_in_a_working_relationship/)
-- [Konsist and Conquer: Embracing the World of Dynamic Testing](https://www.reddit.com/r/androiddev/comments/174slzf/konsist_and_conquer_embracing_the_world_of/)
-- [Kotlin Illustrated - Data Classes and Destructuring](https://www.reddit.com/r/androiddev/comments/174piyb/kotlin_illustrated_data_classes_and_destructuring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
