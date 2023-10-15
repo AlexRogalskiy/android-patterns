@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why does my app page on playstore doesn&#39;t look like other apps](https://www.reddit.com/r/androiddev/comments/177e5yo/why_does_my_app_page_on_playstore_doesnt_look/)
+- [Linear acceleration and Gyroscope values behaving strangely.](https://www.reddit.com/r/androiddev/comments/177uxej/linear_acceleration_and_gyroscope_values_behaving/)
+- [BTLE workings](https://www.reddit.com/r/androiddev/comments/177o55q/btle_workings/)
+- [Clarifying Google&#39;s 15% Service Fee: Seeking Guidance for Multiple Developer Accounts](https://www.reddit.com/r/androiddev/comments/177l7hl/clarifying_googles_15_service_fee_seeking/)
+- [Problems faced during iOS integration with KMM module.](https://www.reddit.com/r/androiddev/comments/177l49y/problems_faced_during_ios_integration_with_kmm/)
+- [Android Bootcamps](https://www.reddit.com/r/androiddev/comments/177gw9d/android_bootcamps/)
 - [Community Discord Server for JetpackCompose](https://www.reddit.com/r/androiddev/comments/1775y9s/community_discord_server_for_jetpackcompose/)
 - [Where Can I Collaborate on Open Source Android Projects as a Beginner?](https://www.reddit.com/r/androiddev/comments/1774z83/where_can_i_collaborate_on_open_source_android/)
 - [What are some android apps i should make to make my resume stand out ?](https://www.reddit.com/r/androiddev/comments/176yx1s/what_are_some_android_apps_i_should_make_to_make/)
 - [Anyone using Firebase? How do you guys handle apps on a global scale](https://www.reddit.com/r/androiddev/comments/176y4c8/anyone_using_firebase_how_do_you_guys_handle_apps/)
 - [How does Chalo&#39;s tap to pay work?](https://www.reddit.com/r/androiddev/comments/176ud96/how_does_chalos_tap_to_pay_work/)
-- [An app to customise this notification panel.](https://www.reddit.com/r/androiddev/comments/176tb9z/an_app_to_customise_this_notification_panel/)
-- [Trying to figure out how to toggle mic/camera access via ADB/shell](https://www.reddit.com/r/androiddev/comments/176qi8y/trying_to_figure_out_how_to_toggle_miccamera/)
-- [Doubt About Jetpack Compose State Management](https://www.reddit.com/r/androiddev/comments/176gsm9/doubt_about_jetpack_compose_state_management/)
-- [LMP_CONN_TIMEOUT &lpar; status code 34&lpar;0x22&rpar;&rpar;](https://www.reddit.com/r/androiddev/comments/176a983/lmp_conn_timeout_status_code_340x22/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
