@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Codegen script for parsing API into Retrofit classes](https://www.reddit.com/r/androiddev/comments/178smza/codegen_script_for_parsing_api_into_retrofit/)
+- [Do you think this will increase the adoption of Koin?](https://www.reddit.com/r/androiddev/comments/178jyde/do_you_think_this_will_increase_the_adoption_of/)
+- [New data safety form &lpar;7 december&rpar;](https://www.reddit.com/r/androiddev/comments/178fmtu/new_data_safety_form_7_december/)
 - [Linear acceleration and Gyroscope values behaving strangely.](https://www.reddit.com/r/androiddev/comments/177uxej/linear_acceleration_and_gyroscope_values_behaving/)
 - [BTLE workings](https://www.reddit.com/r/androiddev/comments/177o55q/btle_workings/)
 - [Clarifying Google&#39;s 15% Service Fee: Seeking Guidance for Multiple Developer Accounts](https://www.reddit.com/r/androiddev/comments/177l7hl/clarifying_googles_15_service_fee_seeking/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Android Bootcamps](https://www.reddit.com/r/androiddev/comments/177gw9d/android_bootcamps/)
 - [Community Discord Server for JetpackCompose](https://www.reddit.com/r/androiddev/comments/1775y9s/community_discord_server_for_jetpackcompose/)
 - [Where Can I Collaborate on Open Source Android Projects as a Beginner?](https://www.reddit.com/r/androiddev/comments/1774z83/where_can_i_collaborate_on_open_source_android/)
-- [What are some android apps i should make to make my resume stand out ?](https://www.reddit.com/r/androiddev/comments/176yx1s/what_are_some_android_apps_i_should_make_to_make/)
-- [Anyone using Firebase? How do you guys handle apps on a global scale](https://www.reddit.com/r/androiddev/comments/176y4c8/anyone_using_firebase_how_do_you_guys_handle_apps/)
-- [How does Chalo&#39;s tap to pay work?](https://www.reddit.com/r/androiddev/comments/176ud96/how_does_chalos_tap_to_pay_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
