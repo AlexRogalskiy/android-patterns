@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Codegen script for parsing API into Retrofit classes](https://www.reddit.com/r/androiddev/comments/178smza/codegen_script_for_parsing_api_into_retrofit/)
-- [Do you think this will increase the adoption of Koin?](https://www.reddit.com/r/androiddev/comments/178jyde/do_you_think_this_will_increase_the_adoption_of/)
-- [New data safety form &lpar;7 december&rpar;](https://www.reddit.com/r/androiddev/comments/178fmtu/new_data_safety_form_7_december/)
-- [Linear acceleration and Gyroscope values behaving strangely.](https://www.reddit.com/r/androiddev/comments/177uxej/linear_acceleration_and_gyroscope_values_behaving/)
-- [BTLE workings](https://www.reddit.com/r/androiddev/comments/177o55q/btle_workings/)
-- [Clarifying Google&#39;s 15% Service Fee: Seeking Guidance for Multiple Developer Accounts](https://www.reddit.com/r/androiddev/comments/177l7hl/clarifying_googles_15_service_fee_seeking/)
-- [Problems faced during iOS integration with KMM module.](https://www.reddit.com/r/androiddev/comments/177l49y/problems_faced_during_ios_integration_with_kmm/)
-- [Android Bootcamps](https://www.reddit.com/r/androiddev/comments/177gw9d/android_bootcamps/)
-- [Community Discord Server for JetpackCompose](https://www.reddit.com/r/androiddev/comments/1775y9s/community_discord_server_for_jetpackcompose/)
-- [Where Can I Collaborate on Open Source Android Projects as a Beginner?](https://www.reddit.com/r/androiddev/comments/1774z83/where_can_i_collaborate_on_open_source_android/)
+- [So Who Are You Stalker](https://www.reddit.com/r/androiddev/comments/179jdzq/so_who_are_you_stalker/)
+- [Hello friends, I am the guy who asked you for advice a couple of months ago, now I want to present this app that I made and I would like to explain the details of how I did it in a next post. Ask me whatever you want! Greetings From Mexico City!](https://www.reddit.com/r/androiddev/comments/179iss5/hello_friends_i_am_the_guy_who_asked_you_for/)
+- [Is there a good base project that follows MVVM and clean architecture?](https://www.reddit.com/r/androiddev/comments/179htqu/is_there_a_good_base_project_that_follows_mvvm/)
+- [Android Studio settings for offline work at computer labs](https://www.reddit.com/r/androiddev/comments/179gs2x/android_studio_settings_for_offline_work_at/)
+- [Is a vendor&#39;s custom OS like OneUI or OxygenOS basically just an overlay on top of the AOSP?](https://www.reddit.com/r/androiddev/comments/179fo2o/is_a_vendors_custom_os_like_oneui_or_oxygenos/)
+- [Demo: Android 14 Clipboard Manager Data Leak Security Issue](https://www.reddit.com/r/androiddev/comments/179f3vb/demo_android_14_clipboard_manager_data_leak/)
+- [AndroidX moving to minSdkVersion 19](https://www.reddit.com/r/androiddev/comments/179eiv5/androidx_moving_to_minsdkversion_19/)
+- [Just wondering, has anyone of you received the Google Play Developer Settlement Payment yet ?](https://www.reddit.com/r/androiddev/comments/179ayoh/just_wondering_has_anyone_of_you_received_the/)
+- [Pixel 4 XL Manual Change FPS](https://www.reddit.com/r/androiddev/comments/1797wjk/pixel_4_xl_manual_change_fps/)
+- [Weekly Who&#39;s Hiring Thread - October 16, 2023](https://www.reddit.com/r/androiddev/comments/1795fai/weekly_whos_hiring_thread_october_16_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
