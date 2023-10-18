@@ -271,7 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [So Who Are You Stalker](https://www.reddit.com/r/androiddev/comments/179jdzq/so_who_are_you_stalker/)
+- [Android Studio Hedgehog | 2023.1.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/17abcz5/android_studio_hedgehog_202311_rc_1_now_available/)
+- [Lamps lights in Android Studio with Kotlin A Step by Step Tutorial](https://www.reddit.com/r/androiddev/comments/17a7n1j/lamps_lights_in_android_studio_with_kotlin_a_step/)
+- [I find this Kotlin code quite unreadable](https://www.reddit.com/r/androiddev/comments/179ym61/i_find_this_kotlin_code_quite_unreadable/)
 - [Hello friends, I am the guy who asked you for advice a couple of months ago, now I want to present this app that I made and I would like to explain the details of how I did it in a next post. Ask me whatever you want! Greetings From Mexico City!](https://www.reddit.com/r/androiddev/comments/179iss5/hello_friends_i_am_the_guy_who_asked_you_for/)
 - [Is there a good base project that follows MVVM and clean architecture?](https://www.reddit.com/r/androiddev/comments/179htqu/is_there_a_good_base_project_that_follows_mvvm/)
 - [Android Studio settings for offline work at computer labs](https://www.reddit.com/r/androiddev/comments/179gs2x/android_studio_settings_for_offline_work_at/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Demo: Android 14 Clipboard Manager Data Leak Security Issue](https://www.reddit.com/r/androiddev/comments/179f3vb/demo_android_14_clipboard_manager_data_leak/)
 - [AndroidX moving to minSdkVersion 19](https://www.reddit.com/r/androiddev/comments/179eiv5/androidx_moving_to_minsdkversion_19/)
 - [Just wondering, has anyone of you received the Google Play Developer Settlement Payment yet ?](https://www.reddit.com/r/androiddev/comments/179ayoh/just_wondering_has_anyone_of_you_received_the/)
-- [Pixel 4 XL Manual Change FPS](https://www.reddit.com/r/androiddev/comments/1797wjk/pixel_4_xl_manual_change_fps/)
-- [Weekly Who&#39;s Hiring Thread - October 16, 2023](https://www.reddit.com/r/androiddev/comments/1795fai/weekly_whos_hiring_thread_october_16_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
