@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is a single-activity app more problematic for the Binder transaction buffer?](https://www.reddit.com/r/androiddev/comments/17b4eb8/why_is_a_singleactivity_app_more_problematic_for/)
+- [How does your team handle bug tracking and resolution?](https://www.reddit.com/r/androiddev/comments/17ayqch/how_does_your_team_handle_bug_tracking_and/)
+- [Linking Tips and Insights for Android Native Libraries](https://www.reddit.com/r/androiddev/comments/17awvft/linking_tips_and_insights_for_android_native/)
+- [Finally, private project released](https://www.reddit.com/r/androiddev/comments/17arazq/finally_private_project_released/)
+- [Question: What&#39;s your preferred means of distributing test builds?](https://www.reddit.com/r/androiddev/comments/17amd2g/question_whats_your_preferred_means_of/)
+- [Are there actually any guidelines on how to pass data between ViewModels?](https://www.reddit.com/r/androiddev/comments/17alr8x/are_there_actually_any_guidelines_on_how_to_pass/)
 - [Android Studio Hedgehog | 2023.1.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/17abcz5/android_studio_hedgehog_202311_rc_1_now_available/)
-- [Lamps lights in Android Studio with Kotlin A Step by Step Tutorial](https://www.reddit.com/r/androiddev/comments/17a7n1j/lamps_lights_in_android_studio_with_kotlin_a_step/)
 - [I find this Kotlin code quite unreadable](https://www.reddit.com/r/androiddev/comments/179ym61/i_find_this_kotlin_code_quite_unreadable/)
 - [Hello friends, I am the guy who asked you for advice a couple of months ago, now I want to present this app that I made and I would like to explain the details of how I did it in a next post. Ask me whatever you want! Greetings From Mexico City!](https://www.reddit.com/r/androiddev/comments/179iss5/hello_friends_i_am_the_guy_who_asked_you_for/)
 - [Is there a good base project that follows MVVM and clean architecture?](https://www.reddit.com/r/androiddev/comments/179htqu/is_there_a_good_base_project_that_follows_mvvm/)
-- [Android Studio settings for offline work at computer labs](https://www.reddit.com/r/androiddev/comments/179gs2x/android_studio_settings_for_offline_work_at/)
-- [Is a vendor&#39;s custom OS like OneUI or OxygenOS basically just an overlay on top of the AOSP?](https://www.reddit.com/r/androiddev/comments/179fo2o/is_a_vendors_custom_os_like_oneui_or_oxygenos/)
-- [Demo: Android 14 Clipboard Manager Data Leak Security Issue](https://www.reddit.com/r/androiddev/comments/179f3vb/demo_android_14_clipboard_manager_data_leak/)
-- [AndroidX moving to minSdkVersion 19](https://www.reddit.com/r/androiddev/comments/179eiv5/androidx_moving_to_minsdkversion_19/)
-- [Just wondering, has anyone of you received the Google Play Developer Settlement Payment yet ?](https://www.reddit.com/r/androiddev/comments/179ayoh/just_wondering_has_anyone_of_you_received_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
