@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Iguana | 2023.2.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/17byrpu/android_studio_iguana_202321_canary_9_now/)
+- [Discard Release from &quot;Publishing overview&quot;](https://www.reddit.com/r/androiddev/comments/17bs8j3/discard_release_from_publishing_overview/)
+- [Android Studio Iguana | 2023.2.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/17bp93q/android_studio_iguana_202321_canary_8_now/)
+- [I&#39;m interested to see how many developers are still using the Java language for Android apps](https://www.reddit.com/r/androiddev/comments/17bnz34/im_interested_to_see_how_many_developers_are/)
+- [What’s new in Jetpack Benchmark 1.2.0](https://www.reddit.com/r/androiddev/comments/17bnr77/whats_new_in_jetpack_benchmark_120/)
+- [Google Play Licensing test accounts not working October 2023](https://www.reddit.com/r/androiddev/comments/17bg7on/google_play_licensing_test_accounts_not_working/)
+- [📦 Sealed Classes: An Alternative Approach To The Visitor Pattern In Kotlin And Java 21](https://www.reddit.com/r/androiddev/comments/17bfsfe/sealed_classes_an_alternative_approach_to_the/)
+- [What is your debugging process, in solving &quot;Excessive frozen frames&quot;](https://www.reddit.com/r/androiddev/comments/17b8nj6/what_is_your_debugging_process_in_solving/)
 - [Why is a single-activity app more problematic for the Binder transaction buffer?](https://www.reddit.com/r/androiddev/comments/17b4eb8/why_is_a_singleactivity_app_more_problematic_for/)
 - [How does your team handle bug tracking and resolution?](https://www.reddit.com/r/androiddev/comments/17ayqch/how_does_your_team_handle_bug_tracking_and/)
-- [Linking Tips and Insights for Android Native Libraries](https://www.reddit.com/r/androiddev/comments/17awvft/linking_tips_and_insights_for_android_native/)
-- [Finally, private project released](https://www.reddit.com/r/androiddev/comments/17arazq/finally_private_project_released/)
-- [Question: What&#39;s your preferred means of distributing test builds?](https://www.reddit.com/r/androiddev/comments/17amd2g/question_whats_your_preferred_means_of/)
-- [Are there actually any guidelines on how to pass data between ViewModels?](https://www.reddit.com/r/androiddev/comments/17alr8x/are_there_actually_any_guidelines_on_how_to_pass/)
-- [Android Studio Hedgehog | 2023.1.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/17abcz5/android_studio_hedgehog_202311_rc_1_now_available/)
-- [I find this Kotlin code quite unreadable](https://www.reddit.com/r/androiddev/comments/179ym61/i_find_this_kotlin_code_quite_unreadable/)
-- [Hello friends, I am the guy who asked you for advice a couple of months ago, now I want to present this app that I made and I would like to explain the details of how I did it in a next post. Ask me whatever you want! Greetings From Mexico City!](https://www.reddit.com/r/androiddev/comments/179iss5/hello_friends_i_am_the_guy_who_asked_you_for/)
-- [Is there a good base project that follows MVVM and clean architecture?](https://www.reddit.com/r/androiddev/comments/179htqu/is_there_a_good_base_project_that_follows_mvvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
