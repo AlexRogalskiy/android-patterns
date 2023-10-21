@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Roman Elizarov &lpar;Kotlin lead&rpar; is leaving JetBrains](https://www.reddit.com/r/androiddev/comments/17ci8ka/roman_elizarov_kotlin_lead_is_leaving_jetbrains/)
+- [Interaction Latency: Square&#39;s User-Centric Mobile Performance Metric](https://www.reddit.com/r/androiddev/comments/17c1854/interaction_latency_squares_usercentric_mobile/)
+- [Method for altering voice packets transmitted during a telephone conversation to the receiving end.](https://www.reddit.com/r/androiddev/comments/17bzogg/method_for_altering_voice_packets_transmitted/)
 - [Android Studio Iguana | 2023.2.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/17byrpu/android_studio_iguana_202321_canary_9_now/)
 - [Discard Release from &quot;Publishing overview&quot;](https://www.reddit.com/r/androiddev/comments/17bs8j3/discard_release_from_publishing_overview/)
 - [Android Studio Iguana | 2023.2.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/17bp93q/android_studio_iguana_202321_canary_8_now/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [What’s new in Jetpack Benchmark 1.2.0](https://www.reddit.com/r/androiddev/comments/17bnr77/whats_new_in_jetpack_benchmark_120/)
 - [Google Play Licensing test accounts not working October 2023](https://www.reddit.com/r/androiddev/comments/17bg7on/google_play_licensing_test_accounts_not_working/)
 - [📦 Sealed Classes: An Alternative Approach To The Visitor Pattern In Kotlin And Java 21](https://www.reddit.com/r/androiddev/comments/17bfsfe/sealed_classes_an_alternative_approach_to_the/)
-- [What is your debugging process, in solving &quot;Excessive frozen frames&quot;](https://www.reddit.com/r/androiddev/comments/17b8nj6/what_is_your_debugging_process_in_solving/)
-- [Why is a single-activity app more problematic for the Binder transaction buffer?](https://www.reddit.com/r/androiddev/comments/17b4eb8/why_is_a_singleactivity_app_more_problematic_for/)
-- [How does your team handle bug tracking and resolution?](https://www.reddit.com/r/androiddev/comments/17ayqch/how_does_your_team_handle_bug_tracking_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
