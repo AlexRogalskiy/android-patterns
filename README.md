@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Manual Testing still there](https://www.reddit.com/r/androiddev/comments/17dd9i8/manual_testing_still_there/)
+- [Lagging problem in API 34](https://www.reddit.com/r/androiddev/comments/17d057n/lagging_problem_in_api_34/)
 - [Roman Elizarov &lpar;Kotlin lead&rpar; is leaving JetBrains](https://www.reddit.com/r/androiddev/comments/17ci8ka/roman_elizarov_kotlin_lead_is_leaving_jetbrains/)
 - [Interaction Latency: Square&#39;s User-Centric Mobile Performance Metric](https://www.reddit.com/r/androiddev/comments/17c1854/interaction_latency_squares_usercentric_mobile/)
 - [Method for altering voice packets transmitted during a telephone conversation to the receiving end.](https://www.reddit.com/r/androiddev/comments/17bzogg/method_for_altering_voice_packets_transmitted/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Android Studio Iguana | 2023.2.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/17bp93q/android_studio_iguana_202321_canary_8_now/)
 - [I&#39;m interested to see how many developers are still using the Java language for Android apps](https://www.reddit.com/r/androiddev/comments/17bnz34/im_interested_to_see_how_many_developers_are/)
 - [What’s new in Jetpack Benchmark 1.2.0](https://www.reddit.com/r/androiddev/comments/17bnr77/whats_new_in_jetpack_benchmark_120/)
-- [Google Play Licensing test accounts not working October 2023](https://www.reddit.com/r/androiddev/comments/17bg7on/google_play_licensing_test_accounts_not_working/)
-- [📦 Sealed Classes: An Alternative Approach To The Visitor Pattern In Kotlin And Java 21](https://www.reddit.com/r/androiddev/comments/17bfsfe/sealed_classes_an_alternative_approach_to_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
