@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The painless way to handle release notes](https://www.reddit.com/r/androiddev/comments/17e2mjj/the_painless_way_to_handle_release_notes/)
+- [Gradle could have been easier](https://www.reddit.com/r/androiddev/comments/17doc1b/gradle_could_have_been_easier/)
+- [A crucial function in ViewGroup for customizing, can also be a trap if ignored.](https://www.reddit.com/r/androiddev/comments/17dnacp/a_crucial_function_in_viewgroup_for_customizing/)
 - [Manual Testing still there](https://www.reddit.com/r/androiddev/comments/17dd9i8/manual_testing_still_there/)
 - [Lagging problem in API 34](https://www.reddit.com/r/androiddev/comments/17d057n/lagging_problem_in_api_34/)
 - [Roman Elizarov &lpar;Kotlin lead&rpar; is leaving JetBrains](https://www.reddit.com/r/androiddev/comments/17ci8ka/roman_elizarov_kotlin_lead_is_leaving_jetbrains/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Method for altering voice packets transmitted during a telephone conversation to the receiving end.](https://www.reddit.com/r/androiddev/comments/17bzogg/method_for_altering_voice_packets_transmitted/)
 - [Android Studio Iguana | 2023.2.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/17byrpu/android_studio_iguana_202321_canary_9_now/)
 - [Discard Release from &quot;Publishing overview&quot;](https://www.reddit.com/r/androiddev/comments/17bs8j3/discard_release_from_publishing_overview/)
-- [Android Studio Iguana | 2023.2.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/17bp93q/android_studio_iguana_202321_canary_8_now/)
-- [I&#39;m interested to see how many developers are still using the Java language for Android apps](https://www.reddit.com/r/androiddev/comments/17bnz34/im_interested_to_see_how_many_developers_are/)
-- [What’s new in Jetpack Benchmark 1.2.0](https://www.reddit.com/r/androiddev/comments/17bnr77/whats_new_in_jetpack_benchmark_120/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
