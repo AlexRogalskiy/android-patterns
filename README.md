@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Iguana | 2023.2.1 Canary 10 now available](https://www.reddit.com/r/androiddev/comments/17euxic/android_studio_iguana_202321_canary_10_now/)
+- [Monetising apps, and international tax? Difficult on Google Play?](https://www.reddit.com/r/androiddev/comments/17emhw7/monetising_apps_and_international_tax_difficult/)
+- [Weekly Who&#39;s Hiring Thread - October 23, 2023](https://www.reddit.com/r/androiddev/comments/17ejtj9/weekly_whos_hiring_thread_october_23_2023/)
+- [Weekly discussion, code review, and feedback thread - October 23, 2023](https://www.reddit.com/r/androiddev/comments/17einon/weekly_discussion_code_review_and_feedback_thread/)
+- [Record the audio playback of a specific App](https://www.reddit.com/r/androiddev/comments/17egwn6/record_the_audio_playback_of_a_specific_app/)
+- [Google Ads change on 31 October](https://www.reddit.com/r/androiddev/comments/17efbzp/google_ads_change_on_31_october/)
+- [Android Fragmentation state. What Google did to fix it](https://www.reddit.com/r/androiddev/comments/17ee3k4/android_fragmentation_state_what_google_did_to/)
+- [Unique identifiers for Android devices](https://www.reddit.com/r/androiddev/comments/17edxok/unique_identifiers_for_android_devices/)
 - [The painless way to handle release notes](https://www.reddit.com/r/androiddev/comments/17e2mjj/the_painless_way_to_handle_release_notes/)
 - [Gradle could have been easier](https://www.reddit.com/r/androiddev/comments/17doc1b/gradle_could_have_been_easier/)
-- [A crucial function in ViewGroup for customizing, can also be a trap if ignored.](https://www.reddit.com/r/androiddev/comments/17dnacp/a_crucial_function_in_viewgroup_for_customizing/)
-- [Manual Testing still there](https://www.reddit.com/r/androiddev/comments/17dd9i8/manual_testing_still_there/)
-- [Lagging problem in API 34](https://www.reddit.com/r/androiddev/comments/17d057n/lagging_problem_in_api_34/)
-- [Roman Elizarov &lpar;Kotlin lead&rpar; is leaving JetBrains](https://www.reddit.com/r/androiddev/comments/17ci8ka/roman_elizarov_kotlin_lead_is_leaving_jetbrains/)
-- [Interaction Latency: Square&#39;s User-Centric Mobile Performance Metric](https://www.reddit.com/r/androiddev/comments/17c1854/interaction_latency_squares_usercentric_mobile/)
-- [Method for altering voice packets transmitted during a telephone conversation to the receiving end.](https://www.reddit.com/r/androiddev/comments/17bzogg/method_for_altering_voice_packets_transmitted/)
-- [Android Studio Iguana | 2023.2.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/17byrpu/android_studio_iguana_202321_canary_9_now/)
-- [Discard Release from &quot;Publishing overview&quot;](https://www.reddit.com/r/androiddev/comments/17bs8j3/discard_release_from_publishing_overview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
