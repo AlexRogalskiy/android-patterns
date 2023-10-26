@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Considering Dropping Appodeal: Has Anyone Else Experienced These Issues?](https://www.reddit.com/r/androiddev/comments/17flc7l/considering_dropping_appodeal_has_anyone_else/)
-- [Android Studio with Xbox Controller?](https://www.reddit.com/r/androiddev/comments/17figpl/android_studio_with_xbox_controller/)
-- [My app is rejected because of violation in subscription policy](https://www.reddit.com/r/androiddev/comments/17fhplj/my_app_is_rejected_because_of_violation_in/)
-- [Hilt and Dagger classes shown as not found](https://www.reddit.com/r/androiddev/comments/17fhih1/hilt_and_dagger_classes_shown_as_not_found/)
-- [Google verifies my personal proof of identity even though It&#39;s an organization account](https://www.reddit.com/r/androiddev/comments/17fg4la/google_verifies_my_personal_proof_of_identity/)
-- [Want to release my personal project on play store - to monetize or not?](https://www.reddit.com/r/androiddev/comments/17femqd/want_to_release_my_personal_project_on_play_store/)
+- [Watching gradle build gives me depression.](https://www.reddit.com/r/androiddev/comments/17gkrg8/watching_gradle_build_gives_me_depression/)
+- [MVI vs MVVM for large project.](https://www.reddit.com/r/androiddev/comments/17gcr9q/mvi_vs_mvvm_for_large_project/)
+- [New policy and form for READ_MEDIA_IMAGES and READ_MEDIA_VIDEO](https://www.reddit.com/r/androiddev/comments/17gad8p/new_policy_and_form_for_read_media_images_and/)
+- [Kotlin Coroutines vs Threads Performance Benchmark](https://www.reddit.com/r/androiddev/comments/17g9n6x/kotlin_coroutines_vs_threads_performance_benchmark/)
 - [Android 14 Storage Bug Solution](https://www.reddit.com/r/androiddev/comments/17fbfu4/android_14_storage_bug_solution/)
 - [GMS &lpar;Google&rpar; and HMS &lpar;Huawei&rpar; in the same binary?](https://www.reddit.com/r/androiddev/comments/17fau16/gms_google_and_hms_huawei_in_the_same_binary/)
 - [Which Android Studio plugins do you use?](https://www.reddit.com/r/androiddev/comments/17f8awv/which_android_studio_plugins_do_you_use/)
 - [Not a &quot;help me&quot; post - Steps to Interview an app designer.](https://www.reddit.com/r/androiddev/comments/17f2j6b/not_a_help_me_post_steps_to_interview_an_app/)
+- [Problem with Camera2 preview and capture being different sizes &lpar;user selectable&rpar;](https://www.reddit.com/r/androiddev/comments/17f2ejt/problem_with_camera2_preview_and_capture_being/)
+- [Android Studio Iguana | 2023.2.1 Canary 10 now available](https://www.reddit.com/r/androiddev/comments/17euxic/android_studio_iguana_202321_canary_10_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
