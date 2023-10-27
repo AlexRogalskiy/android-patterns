@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Watching gradle build gives me depression.](https://www.reddit.com/r/androiddev/comments/17gkrg8/watching_gradle_build_gives_me_depression/)
-- [MVI vs MVVM for large project.](https://www.reddit.com/r/androiddev/comments/17gcr9q/mvi_vs_mvvm_for_large_project/)
-- [New policy and form for READ_MEDIA_IMAGES and READ_MEDIA_VIDEO](https://www.reddit.com/r/androiddev/comments/17gad8p/new_policy_and_form_for_read_media_images_and/)
-- [Kotlin Coroutines vs Threads Performance Benchmark](https://www.reddit.com/r/androiddev/comments/17g9n6x/kotlin_coroutines_vs_threads_performance_benchmark/)
-- [Android 14 Storage Bug Solution](https://www.reddit.com/r/androiddev/comments/17fbfu4/android_14_storage_bug_solution/)
-- [GMS &lpar;Google&rpar; and HMS &lpar;Huawei&rpar; in the same binary?](https://www.reddit.com/r/androiddev/comments/17fau16/gms_google_and_hms_huawei_in_the_same_binary/)
-- [Which Android Studio plugins do you use?](https://www.reddit.com/r/androiddev/comments/17f8awv/which_android_studio_plugins_do_you_use/)
-- [Not a &quot;help me&quot; post - Steps to Interview an app designer.](https://www.reddit.com/r/androiddev/comments/17f2j6b/not_a_help_me_post_steps_to_interview_an_app/)
-- [Problem with Camera2 preview and capture being different sizes &lpar;user selectable&rpar;](https://www.reddit.com/r/androiddev/comments/17f2ejt/problem_with_camera2_preview_and_capture_being/)
-- [Android Studio Iguana | 2023.2.1 Canary 10 now available](https://www.reddit.com/r/androiddev/comments/17euxic/android_studio_iguana_202321_canary_10_now/)
+- [Android Studio Iguana | 2023.2.1 Canary 11 now available](https://www.reddit.com/r/androiddev/comments/17h7w7x/android_studio_iguana_202321_canary_11_now/)
+- [Compose OutlinedTextField and TalkBack](https://www.reddit.com/r/androiddev/comments/17h7ag0/compose_outlinedtextfield_and_talkback/)
+- [Should I provide licensing information on google libs for Android?](https://www.reddit.com/r/androiddev/comments/17h4x8q/should_i_provide_licensing_information_on_google/)
+- [Simulate Wi-Fi in android emulator](https://www.reddit.com/r/androiddev/comments/17h4scg/simulate_wifi_in_android_emulator/)
+- [Espresso 3.5.x instability?](https://www.reddit.com/r/androiddev/comments/17h2xi9/espresso_35x_instability/)
+- [Is there an ultra-light webserver for android that can run as a service on a non-rooted tablet?](https://www.reddit.com/r/androiddev/comments/17h14a6/is_there_an_ultralight_webserver_for_android_that/)
+- [Has there been a current resolution to the &#39;Screen Overlay Detected&#39; issue?](https://www.reddit.com/r/androiddev/comments/17gzn31/has_there_been_a_current_resolution_to_the_screen/)
+- [Automatically Mirroring Images for RTL Layouts](https://www.reddit.com/r/androiddev/comments/17gtrd2/automatically_mirroring_images_for_rtl_layouts/)
+- [Sign in with phone number - why can we not just read the phone number of the device?](https://www.reddit.com/r/androiddev/comments/17gtc0c/sign_in_with_phone_number_why_can_we_not_just/)
+- [Play Store and our company dumb delivery way?](https://www.reddit.com/r/androiddev/comments/17grep3/play_store_and_our_company_dumb_delivery_way/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
