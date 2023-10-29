@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing Scaler, my own custom Gradle Plugin that applies my most-used tools in my personal Android projects](https://www.reddit.com/r/androiddev/comments/17iodxk/introducing_scaler_my_own_custom_gradle_plugin/)
+- [I started studying mobile development 2 years ago. I want to share my results. Several applications for Android and iOS.](https://www.reddit.com/r/androiddev/comments/17idvnn/i_started_studying_mobile_development_2_years_ago/)
+- [Which method Spotify done this behavior ?](https://www.reddit.com/r/androiddev/comments/17idsfz/which_method_spotify_done_this_behavior/)
+- [iOS Dev wants to try Android dev](https://www.reddit.com/r/androiddev/comments/17ibim4/ios_dev_wants_to_try_android_dev/)
 - [Default dark text color in dark mode on the action bar](https://www.reddit.com/r/androiddev/comments/17hjz7r/default_dark_text_color_in_dark_mode_on_the/)
 - [Forms for Foreground service permissions are already available.](https://www.reddit.com/r/androiddev/comments/17hj2d2/forms_for_foreground_service_permissions_are/)
 - [How to create list sections with animated shapes](https://www.reddit.com/r/androiddev/comments/17hh269/how_to_create_list_sections_with_animated_shapes/)
 - [Android Studio Iguana | 2023.2.1 Canary 11 now available](https://www.reddit.com/r/androiddev/comments/17h7w7x/android_studio_iguana_202321_canary_11_now/)
 - [Should I provide licensing information on google libs for Android?](https://www.reddit.com/r/androiddev/comments/17h4x8q/should_i_provide_licensing_information_on_google/)
 - [Simulate Wi-Fi in android emulator](https://www.reddit.com/r/androiddev/comments/17h4scg/simulate_wifi_in_android_emulator/)
-- [Is there an ultra-light webserver for android that can run as a service on a non-rooted tablet?](https://www.reddit.com/r/androiddev/comments/17h14a6/is_there_an_ultralight_webserver_for_android_that/)
-- [Has there been a current resolution to the &#39;Screen Overlay Detected&#39; issue?](https://www.reddit.com/r/androiddev/comments/17gzn31/has_there_been_a_current_resolution_to_the_screen/)
-- [Automatically Mirroring Images for RTL Layouts](https://www.reddit.com/r/androiddev/comments/17gtrd2/automatically_mirroring_images_for_rtl_layouts/)
-- [Sign in with phone number - why can we not just read the phone number of the device?](https://www.reddit.com/r/androiddev/comments/17gtc0c/sign_in_with_phone_number_why_can_we_not_just/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
