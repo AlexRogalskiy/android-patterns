@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android and RISC-V: What you need to know to be ready](https://www.reddit.com/r/androiddev/comments/17jz4i4/android_and_riscv_what_you_need_to_know_to_be/)
+- [Introducing 💠 Haze, a glass-like blur modifier for Compose &lpar;Jetpack &amp; Multiplatform&rpar;](https://www.reddit.com/r/androiddev/comments/17jxx31/introducing_haze_a_glasslike_blur_modifier_for/)
+- [Weekly Who&#39;s Hiring Thread - October 30, 2023](https://www.reddit.com/r/androiddev/comments/17ju23s/weekly_whos_hiring_thread_october_30_2023/)
+- [Weekly discussion, code review, and feedback thread - October 30, 2023](https://www.reddit.com/r/androiddev/comments/17jsuc8/weekly_discussion_code_review_and_feedback_thread/)
 - [API 33 requirement](https://www.reddit.com/r/androiddev/comments/17jc1ui/api_33_requirement/)
 - [Google Play Games defaults user privacy settings to hidden when creating a new account thus &quot;shadow banning&quot; them from leaderboards](https://www.reddit.com/r/androiddev/comments/17j00ci/google_play_games_defaults_user_privacy_settings/)
 - [How can you replicate a bug seen when installing an app via App Bundle from the Google Play store?](https://www.reddit.com/r/androiddev/comments/17iz9iy/how_can_you_replicate_a_bug_seen_when_installing/)
 - [Introducing Scaler, my own custom Gradle Plugin that applies my most-used tools in my personal Android projects](https://www.reddit.com/r/androiddev/comments/17iodxk/introducing_scaler_my_own_custom_gradle_plugin/)
-- [Which method Spotify done this behavior ?](https://www.reddit.com/r/androiddev/comments/17idsfz/which_method_spotify_done_this_behavior/)
-- [iOS Dev wants to try Android dev](https://www.reddit.com/r/androiddev/comments/17ibim4/ios_dev_wants_to_try_android_dev/)
 - [Default dark text color in dark mode on the action bar](https://www.reddit.com/r/androiddev/comments/17hjz7r/default_dark_text_color_in_dark_mode_on_the/)
 - [Forms for Foreground service permissions are already available.](https://www.reddit.com/r/androiddev/comments/17hj2d2/forms_for_foreground_service_permissions_are/)
-- [How to create list sections with animated shapes](https://www.reddit.com/r/androiddev/comments/17hh269/how_to_create_list_sections_with_animated_shapes/)
-- [Android Studio Iguana | 2023.2.1 Canary 11 now available](https://www.reddit.com/r/androiddev/comments/17h7w7x/android_studio_iguana_202321_canary_11_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
