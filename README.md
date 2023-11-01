@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What happens if the Android app is submitted for review today and may not be approved by tomorrow. Is it still a violation and that app can&#39;t be updated in the future?](https://www.reddit.com/r/androiddev/comments/17knbgt/what_happens_if_the_android_app_is_submitted_for/)
+- [So finally we can contact Google via phone call in case of account termination?](https://www.reddit.com/r/androiddev/comments/17kmy6o/so_finally_we_can_contact_google_via_phone_call/)
+- [Does RX Java an old technology in android world?](https://www.reddit.com/r/androiddev/comments/17kkp5i/does_rx_java_an_old_technology_in_android_world/)
+- [A wrapper library over NewPipeExtractor](https://www.reddit.com/r/androiddev/comments/17kihwk/a_wrapper_library_over_newpipeextractor/)
+- [Kotlin Coroutines vs Threads Memory Benchmark](https://www.reddit.com/r/androiddev/comments/17kg96t/kotlin_coroutines_vs_threads_memory_benchmark/)
+- [Solution to Manual Testing](https://www.reddit.com/r/androiddev/comments/17keym1/solution_to_manual_testing/)
 - [Android and RISC-V: What you need to know to be ready](https://www.reddit.com/r/androiddev/comments/17jz4i4/android_and_riscv_what_you_need_to_know_to_be/)
 - [Introducing 💠 Haze, a glass-like blur modifier for Compose &lpar;Jetpack &amp; Multiplatform&rpar;](https://www.reddit.com/r/androiddev/comments/17jxx31/introducing_haze_a_glasslike_blur_modifier_for/)
 - [Weekly Who&#39;s Hiring Thread - October 30, 2023](https://www.reddit.com/r/androiddev/comments/17ju23s/weekly_whos_hiring_thread_october_30_2023/)
 - [Weekly discussion, code review, and feedback thread - October 30, 2023](https://www.reddit.com/r/androiddev/comments/17jsuc8/weekly_discussion_code_review_and_feedback_thread/)
-- [API 33 requirement](https://www.reddit.com/r/androiddev/comments/17jc1ui/api_33_requirement/)
-- [Google Play Games defaults user privacy settings to hidden when creating a new account thus &quot;shadow banning&quot; them from leaderboards](https://www.reddit.com/r/androiddev/comments/17j00ci/google_play_games_defaults_user_privacy_settings/)
-- [How can you replicate a bug seen when installing an app via App Bundle from the Google Play store?](https://www.reddit.com/r/androiddev/comments/17iz9iy/how_can_you_replicate_a_bug_seen_when_installing/)
-- [Introducing Scaler, my own custom Gradle Plugin that applies my most-used tools in my personal Android projects](https://www.reddit.com/r/androiddev/comments/17iodxk/introducing_scaler_my_own_custom_gradle_plugin/)
-- [Default dark text color in dark mode on the action bar](https://www.reddit.com/r/androiddev/comments/17hjz7r/default_dark_text_color_in_dark_mode_on_the/)
-- [Forms for Foreground service permissions are already available.](https://www.reddit.com/r/androiddev/comments/17hj2d2/forms_for_foreground_service_permissions_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
