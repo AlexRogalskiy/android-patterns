@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hilt 1.1.0 released, KSP support](https://www.reddit.com/r/androiddev/comments/17lkpvg/hilt_110_released_ksp_support/)
+- [What&#39;s new in Kotlin 1.9.20](https://www.reddit.com/r/androiddev/comments/17lkjq6/whats_new_in_kotlin_1920/)
+- [how to fix the laggy compose animations &lpar;even after the release apk&rpar;?](https://www.reddit.com/r/androiddev/comments/17lfai5/how_to_fix_the_laggy_compose_animations_even/)
+- [Survey: Survey: Ethical Considerations in Software Development](https://www.reddit.com/r/androiddev/comments/17lah8m/survey_survey_ethical_considerations_in_software/)
+- [How to Use Render Effects in Jetpack Compose for Stunning Visuals](https://www.reddit.com/r/androiddev/comments/17l97a6/how_to_use_render_effects_in_jetpack_compose_for/)
+- [Policy team is making me remove one of the most important features of my app](https://www.reddit.com/r/androiddev/comments/17l7ep1/policy_team_is_making_me_remove_one_of_the_most/)
+- [Android Studio Hedgehog | 2023.1.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/17l4oyd/android_studio_hedgehog_202311_rc_2_now_available/)
+- [When will the support for cordova end?](https://www.reddit.com/r/androiddev/comments/17l477q/when_will_the_support_for_cordova_end/)
 - [What happens if the Android app is submitted for review today and may not be approved by tomorrow. Is it still a violation and that app can&#39;t be updated in the future?](https://www.reddit.com/r/androiddev/comments/17knbgt/what_happens_if_the_android_app_is_submitted_for/)
 - [So finally we can contact Google via phone call in case of account termination?](https://www.reddit.com/r/androiddev/comments/17kmy6o/so_finally_we_can_contact_google_via_phone_call/)
-- [Does RX Java an old technology in android world?](https://www.reddit.com/r/androiddev/comments/17kkp5i/does_rx_java_an_old_technology_in_android_world/)
-- [A wrapper library over NewPipeExtractor](https://www.reddit.com/r/androiddev/comments/17kihwk/a_wrapper_library_over_newpipeextractor/)
-- [Kotlin Coroutines vs Threads Memory Benchmark](https://www.reddit.com/r/androiddev/comments/17kg96t/kotlin_coroutines_vs_threads_memory_benchmark/)
-- [Solution to Manual Testing](https://www.reddit.com/r/androiddev/comments/17keym1/solution_to_manual_testing/)
-- [Android and RISC-V: What you need to know to be ready](https://www.reddit.com/r/androiddev/comments/17jz4i4/android_and_riscv_what_you_need_to_know_to_be/)
-- [Introducing 💠 Haze, a glass-like blur modifier for Compose &lpar;Jetpack &amp; Multiplatform&rpar;](https://www.reddit.com/r/androiddev/comments/17jxx31/introducing_haze_a_glasslike_blur_modifier_for/)
-- [Weekly Who&#39;s Hiring Thread - October 30, 2023](https://www.reddit.com/r/androiddev/comments/17ju23s/weekly_whos_hiring_thread_october_30_2023/)
-- [Weekly discussion, code review, and feedback thread - October 30, 2023](https://www.reddit.com/r/androiddev/comments/17jsuc8/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
