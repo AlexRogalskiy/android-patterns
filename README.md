@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hilt 1.1.0 released, KSP support](https://www.reddit.com/r/androiddev/comments/17lkpvg/hilt_110_released_ksp_support/)
-- [What&#39;s new in Kotlin 1.9.20](https://www.reddit.com/r/androiddev/comments/17lkjq6/whats_new_in_kotlin_1920/)
-- [how to fix the laggy compose animations &lpar;even after the release apk&rpar;?](https://www.reddit.com/r/androiddev/comments/17lfai5/how_to_fix_the_laggy_compose_animations_even/)
-- [Survey: Survey: Ethical Considerations in Software Development](https://www.reddit.com/r/androiddev/comments/17lah8m/survey_survey_ethical_considerations_in_software/)
-- [How to Use Render Effects in Jetpack Compose for Stunning Visuals](https://www.reddit.com/r/androiddev/comments/17l97a6/how_to_use_render_effects_in_jetpack_compose_for/)
-- [Policy team is making me remove one of the most important features of my app](https://www.reddit.com/r/androiddev/comments/17l7ep1/policy_team_is_making_me_remove_one_of_the_most/)
-- [Android Studio Hedgehog | 2023.1.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/17l4oyd/android_studio_hedgehog_202311_rc_2_now_available/)
-- [When will the support for cordova end?](https://www.reddit.com/r/androiddev/comments/17l477q/when_will_the_support_for_cordova_end/)
-- [What happens if the Android app is submitted for review today and may not be approved by tomorrow. Is it still a violation and that app can&#39;t be updated in the future?](https://www.reddit.com/r/androiddev/comments/17knbgt/what_happens_if_the_android_app_is_submitted_for/)
-- [So finally we can contact Google via phone call in case of account termination?](https://www.reddit.com/r/androiddev/comments/17kmy6o/so_finally_we_can_contact_google_via_phone_call/)
+- [Anyone actually doing serious work on iOS native as well as Android Native?](https://www.reddit.com/r/androiddev/comments/17mgwef/anyone_actually_doing_serious_work_on_ios_native/)
+- [Do you publish your apps to Huawei AppGallery / Samsung Galaxy Store?](https://www.reddit.com/r/androiddev/comments/17mfdfy/do_you_publish_your_apps_to_huawei_appgallery/)
+- [Analyzing APK contents](https://www.reddit.com/r/androiddev/comments/17mf1dv/analyzing_apk_contents/)
+- [Android Studio Iguana | 2023.2.1 Canary 12 now available](https://www.reddit.com/r/androiddev/comments/17mf1b9/android_studio_iguana_202321_canary_12_now/)
+- [Turning My Mobile into a Public Server with Ktor: Need Advice](https://www.reddit.com/r/androiddev/comments/17mblsh/turning_my_mobile_into_a_public_server_with_ktor/)
+- [Unit testing a VM function that calls a work manager.](https://www.reddit.com/r/androiddev/comments/17m3seo/unit_testing_a_vm_function_that_calls_a_work/)
+- [Is rebuilding an android app I made with Java in 2017 with Kotlin and latest practices a good way to relearn modern Android?](https://www.reddit.com/r/androiddev/comments/17m3mp2/is_rebuilding_an_android_app_i_made_with_java_in/)
+- [Peer to Peer communication over the Internet](https://www.reddit.com/r/androiddev/comments/17m2vo8/peer_to_peer_communication_over_the_internet/)
+- [Gauge Composable: a fusion of classic and modern Gauges with some customization options](https://www.reddit.com/r/androiddev/comments/17m0037/gauge_composable_a_fusion_of_classic_and_modern/)
+- [Why can&#39;t I just create MutableState outside a composable?](https://www.reddit.com/r/androiddev/comments/17lvusq/why_cant_i_just_create_mutablestate_outside_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
