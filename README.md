@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AndroidX, Gradle and Metalava - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/17mvwtm/androidx_gradle_and_metalava_android_developers/)
+- [Gestures in Jetpack compose — All you need to know — Part 1](https://www.reddit.com/r/androiddev/comments/17mrkg5/gestures_in_jetpack_compose_all_you_need_to_know/)
+- [BulletSpan don&#39;t work in tablet](https://www.reddit.com/r/androiddev/comments/17mr57u/bulletspan_dont_work_in_tablet/)
+- [Has anyone managed to use Android Studio using only keyboard?](https://www.reddit.com/r/androiddev/comments/17mr0m5/has_anyone_managed_to_use_android_studio_using/)
+- [Android Developers Blog: Increasing trust for embedded media](https://www.reddit.com/r/androiddev/comments/17mor3y/android_developers_blog_increasing_trust_for/)
 - [Anyone actually doing serious work on iOS native as well as Android Native?](https://www.reddit.com/r/androiddev/comments/17mgwef/anyone_actually_doing_serious_work_on_ios_native/)
 - [Do you publish your apps to Huawei AppGallery / Samsung Galaxy Store?](https://www.reddit.com/r/androiddev/comments/17mfdfy/do_you_publish_your_apps_to_huawei_appgallery/)
 - [Analyzing APK contents](https://www.reddit.com/r/androiddev/comments/17mf1dv/analyzing_apk_contents/)
 - [Android Studio Iguana | 2023.2.1 Canary 12 now available](https://www.reddit.com/r/androiddev/comments/17mf1b9/android_studio_iguana_202321_canary_12_now/)
-- [Turning My Mobile into a Public Server with Ktor: Need Advice](https://www.reddit.com/r/androiddev/comments/17mblsh/turning_my_mobile_into_a_public_server_with_ktor/)
-- [Unit testing a VM function that calls a work manager.](https://www.reddit.com/r/androiddev/comments/17m3seo/unit_testing_a_vm_function_that_calls_a_work/)
-- [Is rebuilding an android app I made with Java in 2017 with Kotlin and latest practices a good way to relearn modern Android?](https://www.reddit.com/r/androiddev/comments/17m3mp2/is_rebuilding_an_android_app_i_made_with_java_in/)
-- [Peer to Peer communication over the Internet](https://www.reddit.com/r/androiddev/comments/17m2vo8/peer_to_peer_communication_over_the_internet/)
-- [Gauge Composable: a fusion of classic and modern Gauges with some customization options](https://www.reddit.com/r/androiddev/comments/17m0037/gauge_composable_a_fusion_of_classic_and_modern/)
-- [Why can&#39;t I just create MutableState outside a composable?](https://www.reddit.com/r/androiddev/comments/17lvusq/why_cant_i_just_create_mutablestate_outside_a/)
+- [How to use NFC in an Android app](https://www.reddit.com/r/androiddev/comments/17mb4c1/how_to_use_nfc_in_an_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
