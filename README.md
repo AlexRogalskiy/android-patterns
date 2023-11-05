@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Htc pin problem](https://www.reddit.com/r/androiddev/comments/17nxebp/htc_pin_problem/)
+- [Noticeable Shifts in the Android Ecosystem: Detrimental to Developers and Consumers Alike](https://www.reddit.com/r/androiddev/comments/17nsgo0/noticeable_shifts_in_the_android_ecosystem/)
+- [Tips for someone who has only worked in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/17nq8bx/tips_for_someone_who_has_only_worked_in_jetpack/)
+- [Easiest Way to Inspect Network Traffic Coming From Android Emulator?](https://www.reddit.com/r/androiddev/comments/17nfwyn/easiest_way_to_inspect_network_traffic_coming/)
+- [For people who had an Android app recently suspended from the Google Play Store, how long did your appeal process take?](https://www.reddit.com/r/androiddev/comments/17nfpco/for_people_who_had_an_android_app_recently/)
+- [Can I add a developer option settings to my quick access panel?](https://www.reddit.com/r/androiddev/comments/17ndniz/can_i_add_a_developer_option_settings_to_my_quick/)
 - [AndroidX, Gradle and Metalava - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/17mvwtm/androidx_gradle_and_metalava_android_developers/)
 - [Gestures in Jetpack compose — All you need to know — Part 1](https://www.reddit.com/r/androiddev/comments/17mrkg5/gestures_in_jetpack_compose_all_you_need_to_know/)
 - [BulletSpan don&#39;t work in tablet](https://www.reddit.com/r/androiddev/comments/17mr57u/bulletspan_dont_work_in_tablet/)
 - [Has anyone managed to use Android Studio using only keyboard?](https://www.reddit.com/r/androiddev/comments/17mr0m5/has_anyone_managed_to_use_android_studio_using/)
-- [Android Developers Blog: Increasing trust for embedded media](https://www.reddit.com/r/androiddev/comments/17mor3y/android_developers_blog_increasing_trust_for/)
-- [Anyone actually doing serious work on iOS native as well as Android Native?](https://www.reddit.com/r/androiddev/comments/17mgwef/anyone_actually_doing_serious_work_on_ios_native/)
-- [Do you publish your apps to Huawei AppGallery / Samsung Galaxy Store?](https://www.reddit.com/r/androiddev/comments/17mfdfy/do_you_publish_your_apps_to_huawei_appgallery/)
-- [Analyzing APK contents](https://www.reddit.com/r/androiddev/comments/17mf1dv/analyzing_apk_contents/)
-- [Android Studio Iguana | 2023.2.1 Canary 12 now available](https://www.reddit.com/r/androiddev/comments/17mf1b9/android_studio_iguana_202321_canary_12_now/)
-- [How to use NFC in an Android app](https://www.reddit.com/r/androiddev/comments/17mb4c1/how_to_use_nfc_in_an_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
