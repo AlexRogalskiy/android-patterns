@@ -271,7 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Htc pin problem](https://www.reddit.com/r/androiddev/comments/17nxebp/htc_pin_problem/)
+- [Invoke operator with Cleaner Use cases](https://www.reddit.com/r/androiddev/comments/17omos0/invoke_operator_with_cleaner_use_cases/)
+- [ChatGPT for WearOS &lpar;WristAssist&rpar;](https://www.reddit.com/r/androiddev/comments/17oe5p8/chatgpt_for_wearos_wristassist/)
+- [Struggling with Android App: Saving Wi-Fi Networks in API 29 and Beyond](https://www.reddit.com/r/androiddev/comments/17o7ar3/struggling_with_android_app_saving_wifi_networks/)
 - [Noticeable Shifts in the Android Ecosystem: Detrimental to Developers and Consumers Alike](https://www.reddit.com/r/androiddev/comments/17nsgo0/noticeable_shifts_in_the_android_ecosystem/)
 - [Tips for someone who has only worked in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/17nq8bx/tips_for_someone_who_has_only_worked_in_jetpack/)
 - [Easiest Way to Inspect Network Traffic Coming From Android Emulator?](https://www.reddit.com/r/androiddev/comments/17nfwyn/easiest_way_to_inspect_network_traffic_coming/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Can I add a developer option settings to my quick access panel?](https://www.reddit.com/r/androiddev/comments/17ndniz/can_i_add_a_developer_option_settings_to_my_quick/)
 - [AndroidX, Gradle and Metalava - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/17mvwtm/androidx_gradle_and_metalava_android_developers/)
 - [Gestures in Jetpack compose — All you need to know — Part 1](https://www.reddit.com/r/androiddev/comments/17mrkg5/gestures_in_jetpack_compose_all_you_need_to_know/)
-- [BulletSpan don&#39;t work in tablet](https://www.reddit.com/r/androiddev/comments/17mr57u/bulletspan_dont_work_in_tablet/)
-- [Has anyone managed to use Android Studio using only keyboard?](https://www.reddit.com/r/androiddev/comments/17mr0m5/has_anyone_managed_to_use_android_studio_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
