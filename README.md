@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s your favorite part about android development? What part do you not like or find lacking compared with other types of development you&#39;ve experimented with?](https://www.reddit.com/r/androiddev/comments/17phyon/whats_your_favorite_part_about_android/)
+- [Text recognition app help](https://www.reddit.com/r/androiddev/comments/17pf7iu/text_recognition_app_help/)
+- [What tasks are you automating?](https://www.reddit.com/r/androiddev/comments/17pdep7/what_tasks_are_you_automating/)
+- [Android Room Tutorial Part 2 - The Architecture](https://www.reddit.com/r/androiddev/comments/17pakx3/android_room_tutorial_part_2_the_architecture/)
+- [How to compile a Java Android app without Android Studio](https://www.reddit.com/r/androiddev/comments/17p9ky9/how_to_compile_a_java_android_app_without_android/)
+- [Dave Leeds and Igor Wojda - A Tour Through Konsist](https://www.reddit.com/r/androiddev/comments/17p3ct2/dave_leeds_and_igor_wojda_a_tour_through_konsist/)
+- [Weekly Who&#39;s Hiring Thread - November 06, 2023](https://www.reddit.com/r/androiddev/comments/17p3cp2/weekly_whos_hiring_thread_november_06_2023/)
+- [Weekly discussion, code review, and feedback thread - November 06, 2023](https://www.reddit.com/r/androiddev/comments/17p26km/weekly_discussion_code_review_and_feedback_thread/)
+- [The problem with Coroutines stateIn operator for UI state management](https://www.reddit.com/r/androiddev/comments/17p0ply/the_problem_with_coroutines_statein_operator_for/)
 - [Invoke operator with Cleaner Use cases](https://www.reddit.com/r/androiddev/comments/17omos0/invoke_operator_with_cleaner_use_cases/)
-- [ChatGPT for WearOS &lpar;WristAssist&rpar;](https://www.reddit.com/r/androiddev/comments/17oe5p8/chatgpt_for_wearos_wristassist/)
-- [Struggling with Android App: Saving Wi-Fi Networks in API 29 and Beyond](https://www.reddit.com/r/androiddev/comments/17o7ar3/struggling_with_android_app_saving_wifi_networks/)
-- [Noticeable Shifts in the Android Ecosystem: Detrimental to Developers and Consumers Alike](https://www.reddit.com/r/androiddev/comments/17nsgo0/noticeable_shifts_in_the_android_ecosystem/)
-- [Tips for someone who has only worked in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/17nq8bx/tips_for_someone_who_has_only_worked_in_jetpack/)
-- [Easiest Way to Inspect Network Traffic Coming From Android Emulator?](https://www.reddit.com/r/androiddev/comments/17nfwyn/easiest_way_to_inspect_network_traffic_coming/)
-- [For people who had an Android app recently suspended from the Google Play Store, how long did your appeal process take?](https://www.reddit.com/r/androiddev/comments/17nfpco/for_people_who_had_an_android_app_recently/)
-- [Can I add a developer option settings to my quick access panel?](https://www.reddit.com/r/androiddev/comments/17ndniz/can_i_add_a_developer_option_settings_to_my_quick/)
-- [AndroidX, Gradle and Metalava - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/17mvwtm/androidx_gradle_and_metalava_android_developers/)
-- [Gestures in Jetpack compose — All you need to know — Part 1](https://www.reddit.com/r/androiddev/comments/17mrkg5/gestures_in_jetpack_compose_all_you_need_to_know/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
