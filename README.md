@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Custom gradle plugin, starting point setting.gradle.kts](https://www.reddit.com/r/androiddev/comments/17q3gfj/custom_gradle_plugin_starting_point/)
+- [Why does the area above the top bar look like this in the emulator?](https://www.reddit.com/r/androiddev/comments/17q2uw5/why_does_the_area_above_the_top_bar_look_like/)
+- [Android Studio Giraffe | 2022.3.1 Patch 3 now available](https://www.reddit.com/r/androiddev/comments/17q1kho/android_studio_giraffe_202231_patch_3_now/)
+- [Refactoring Android app architecture &lpar;aka &quot;Google architecture&quot;&rpar; to a cleaner approach. Am I alone?](https://www.reddit.com/r/androiddev/comments/17pxlej/refactoring_android_app_architecture_aka_google/)
+- [Why are making android games that anyone actually wants to play so much harder than we think?](https://www.reddit.com/r/androiddev/comments/17pvaqw/why_are_making_android_games_that_anyone_actually/)
+- [D-U-N-S number for developer Account](https://www.reddit.com/r/androiddev/comments/17pstet/duns_number_for_developer_account/)
+- [Repetitive Content Policy - is it applicable if I have my app published in separate countries for different languages?](https://www.reddit.com/r/androiddev/comments/17prrxw/repetitive_content_policy_is_it_applicable_if_i/)
+- [Why Kotlin Multiplatform Won’t Succeed](https://www.reddit.com/r/androiddev/comments/17pkzmr/why_kotlin_multiplatform_wont_succeed/)
 - [What&#39;s your favorite part about android development? What part do you not like or find lacking compared with other types of development you&#39;ve experimented with?](https://www.reddit.com/r/androiddev/comments/17phyon/whats_your_favorite_part_about_android/)
-- [Text recognition app help](https://www.reddit.com/r/androiddev/comments/17pf7iu/text_recognition_app_help/)
 - [What tasks are you automating?](https://www.reddit.com/r/androiddev/comments/17pdep7/what_tasks_are_you_automating/)
-- [Android Room Tutorial Part 2 - The Architecture](https://www.reddit.com/r/androiddev/comments/17pakx3/android_room_tutorial_part_2_the_architecture/)
-- [How to compile a Java Android app without Android Studio](https://www.reddit.com/r/androiddev/comments/17p9ky9/how_to_compile_a_java_android_app_without_android/)
-- [Dave Leeds and Igor Wojda - A Tour Through Konsist](https://www.reddit.com/r/androiddev/comments/17p3ct2/dave_leeds_and_igor_wojda_a_tour_through_konsist/)
-- [Weekly Who&#39;s Hiring Thread - November 06, 2023](https://www.reddit.com/r/androiddev/comments/17p3cp2/weekly_whos_hiring_thread_november_06_2023/)
-- [Weekly discussion, code review, and feedback thread - November 06, 2023](https://www.reddit.com/r/androiddev/comments/17p26km/weekly_discussion_code_review_and_feedback_thread/)
-- [The problem with Coroutines stateIn operator for UI state management](https://www.reddit.com/r/androiddev/comments/17p0ply/the_problem_with_coroutines_statein_operator_for/)
-- [Invoke operator with Cleaner Use cases](https://www.reddit.com/r/androiddev/comments/17omos0/invoke_operator_with_cleaner_use_cases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
