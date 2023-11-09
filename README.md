@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Udemy Course vs Github repos for System Design](https://www.reddit.com/r/androiddev/comments/17qzlvo/udemy_course_vs_github_repos_for_system_design/)
+- [How far to go when securing user content?](https://www.reddit.com/r/androiddev/comments/17qtvk5/how_far_to_go_when_securing_user_content/)
+- [Email intent with rich html content still not possible via gmail?](https://www.reddit.com/r/androiddev/comments/17qrlis/email_intent_with_rich_html_content_still_not/)
+- [Does a geo location mock also mock a different device?](https://www.reddit.com/r/androiddev/comments/17qm5fe/does_a_geo_location_mock_also_mock_a_different/)
+- [Article on how the Dagger works under the hood](https://www.reddit.com/r/androiddev/comments/17qjcei/article_on_how_the_dagger_works_under_the_hood/)
+- [Extremely slow Room DB Search with 110k+ Records on low performance device](https://www.reddit.com/r/androiddev/comments/17qb9mf/extremely_slow_room_db_search_with_110k_records/)
 - [Custom gradle plugin, starting point setting.gradle.kts](https://www.reddit.com/r/androiddev/comments/17q3gfj/custom_gradle_plugin_starting_point/)
 - [Why does the area above the top bar look like this in the emulator?](https://www.reddit.com/r/androiddev/comments/17q2uw5/why_does_the_area_above_the_top_bar_look_like/)
 - [Android Studio Giraffe | 2022.3.1 Patch 3 now available](https://www.reddit.com/r/androiddev/comments/17q1kho/android_studio_giraffe_202231_patch_3_now/)
 - [Refactoring Android app architecture &lpar;aka &quot;Google architecture&quot;&rpar; to a cleaner approach. Am I alone?](https://www.reddit.com/r/androiddev/comments/17pxlej/refactoring_android_app_architecture_aka_google/)
-- [Why are making android games that anyone actually wants to play so much harder than we think?](https://www.reddit.com/r/androiddev/comments/17pvaqw/why_are_making_android_games_that_anyone_actually/)
-- [D-U-N-S number for developer Account](https://www.reddit.com/r/androiddev/comments/17pstet/duns_number_for_developer_account/)
-- [Repetitive Content Policy - is it applicable if I have my app published in separate countries for different languages?](https://www.reddit.com/r/androiddev/comments/17prrxw/repetitive_content_policy_is_it_applicable_if_i/)
-- [Why Kotlin Multiplatform Won’t Succeed](https://www.reddit.com/r/androiddev/comments/17pkzmr/why_kotlin_multiplatform_wont_succeed/)
-- [What&#39;s your favorite part about android development? What part do you not like or find lacking compared with other types of development you&#39;ve experimented with?](https://www.reddit.com/r/androiddev/comments/17phyon/whats_your_favorite_part_about_android/)
-- [What tasks are you automating?](https://www.reddit.com/r/androiddev/comments/17pdep7/what_tasks_are_you_automating/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
