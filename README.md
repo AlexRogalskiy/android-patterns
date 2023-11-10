@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Udemy Course vs Github repos for System Design](https://www.reddit.com/r/androiddev/comments/17qzlvo/udemy_course_vs_github_repos_for_system_design/)
-- [How far to go when securing user content?](https://www.reddit.com/r/androiddev/comments/17qtvk5/how_far_to_go_when_securing_user_content/)
-- [Email intent with rich html content still not possible via gmail?](https://www.reddit.com/r/androiddev/comments/17qrlis/email_intent_with_rich_html_content_still_not/)
-- [Does a geo location mock also mock a different device?](https://www.reddit.com/r/androiddev/comments/17qm5fe/does_a_geo_location_mock_also_mock_a_different/)
-- [Article on how the Dagger works under the hood](https://www.reddit.com/r/androiddev/comments/17qjcei/article_on_how_the_dagger_works_under_the_hood/)
-- [Extremely slow Room DB Search with 110k+ Records on low performance device](https://www.reddit.com/r/androiddev/comments/17qb9mf/extremely_slow_room_db_search_with_110k_records/)
-- [Custom gradle plugin, starting point setting.gradle.kts](https://www.reddit.com/r/androiddev/comments/17q3gfj/custom_gradle_plugin_starting_point/)
-- [Why does the area above the top bar look like this in the emulator?](https://www.reddit.com/r/androiddev/comments/17q2uw5/why_does_the_area_above_the_top_bar_look_like/)
-- [Android Studio Giraffe | 2022.3.1 Patch 3 now available](https://www.reddit.com/r/androiddev/comments/17q1kho/android_studio_giraffe_202231_patch_3_now/)
-- [Refactoring Android app architecture &lpar;aka &quot;Google architecture&quot;&rpar; to a cleaner approach. Am I alone?](https://www.reddit.com/r/androiddev/comments/17pxlej/refactoring_android_app_architecture_aka_google/)
+- [Create your first Android App with the help of this GPT](https://www.reddit.com/r/androiddev/comments/17rswlt/create_your_first_android_app_with_the_help_of/)
+- [Android Studio Iguana | 2023.2.1 Canary 13 now available](https://www.reddit.com/r/androiddev/comments/17rpkt6/android_studio_iguana_202321_canary_13_now/)
+- [Google play account verification new deadline policy](https://www.reddit.com/r/androiddev/comments/17rnwto/google_play_account_verification_new_deadline/)
+- [Implicit remembering of local variables in Composable functions](https://www.reddit.com/r/androiddev/comments/17rn05f/implicit_remembering_of_local_variables_in/)
+- [Android Studio Hedgehog | 2023.1.1 RC 3 now available](https://www.reddit.com/r/androiddev/comments/17rmvby/android_studio_hedgehog_202311_rc_3_now_available/)
+- [Android Layout Database?](https://www.reddit.com/r/androiddev/comments/17rmhf8/android_layout_database/)
+- [Make your app faster with Baseline Profiles Perfetto and more - Rahul Ravikumar](https://www.reddit.com/r/androiddev/comments/17rlznb/make_your_app_faster_with_baseline_profiles/)
+- [Ensuring high-quality apps on Google Play](https://www.reddit.com/r/androiddev/comments/17rjgqh/ensuring_highquality_apps_on_google_play/)
+- [Enable MSAA through code and get if MSAA is enabled also through code](https://www.reddit.com/r/androiddev/comments/17rgyu9/enable_msaa_through_code_and_get_if_msaa_is/)
+- [Clean architecture multiple approaches](https://www.reddit.com/r/androiddev/comments/17rexp9/clean_architecture_multiple_approaches/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
