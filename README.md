@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Create your first Android App with the help of this GPT](https://www.reddit.com/r/androiddev/comments/17rswlt/create_your_first_android_app_with_the_help_of/)
+- [Is Jetpack Compose still imperfect when it comes to accessibility?](https://www.reddit.com/r/androiddev/comments/17si039/is_jetpack_compose_still_imperfect_when_it_comes/)
+- [Is any good playstore alternative with not so many restrictions?](https://www.reddit.com/r/androiddev/comments/17se74z/is_any_good_playstore_alternative_with_not_so/)
+- [Recently published new app: WikiFilms - Asking for feedback!](https://www.reddit.com/r/androiddev/comments/17scbd8/recently_published_new_app_wikifilms_asking_for/)
+- [Native ADs eCPM](https://www.reddit.com/r/androiddev/comments/17sbl5p/native_ads_ecpm/)
+- [This new &quot;choose your developer verification deadline&quot; on google play doesnt make any sense at sll. What&#39;s the downside to pushing it out as far as possible? Everyone will probably just pick the furthest option.](https://www.reddit.com/r/androiddev/comments/17s93tx/this_new_choose_your_developer_verification/)
+- [I have created a GPT to help you create jetpack components.](https://www.reddit.com/r/androiddev/comments/17s8h3w/i_have_created_a_gpt_to_help_you_create_jetpack/)
+- [Shared element transition on LazyColumn with Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/17s7qpm/shared_element_transition_on_lazycolumn_with/)
+- [Do you immaculately follow Interface Segregation](https://www.reddit.com/r/androiddev/comments/17s7ekk/do_you_immaculately_follow_interface_segregation/)
 - [Android Studio Iguana | 2023.2.1 Canary 13 now available](https://www.reddit.com/r/androiddev/comments/17rpkt6/android_studio_iguana_202321_canary_13_now/)
 - [Google play account verification new deadline policy](https://www.reddit.com/r/androiddev/comments/17rnwto/google_play_account_verification_new_deadline/)
-- [Implicit remembering of local variables in Composable functions](https://www.reddit.com/r/androiddev/comments/17rn05f/implicit_remembering_of_local_variables_in/)
-- [Android Studio Hedgehog | 2023.1.1 RC 3 now available](https://www.reddit.com/r/androiddev/comments/17rmvby/android_studio_hedgehog_202311_rc_3_now_available/)
-- [Android Layout Database?](https://www.reddit.com/r/androiddev/comments/17rmhf8/android_layout_database/)
-- [Make your app faster with Baseline Profiles Perfetto and more - Rahul Ravikumar](https://www.reddit.com/r/androiddev/comments/17rlznb/make_your_app_faster_with_baseline_profiles/)
-- [Ensuring high-quality apps on Google Play](https://www.reddit.com/r/androiddev/comments/17rjgqh/ensuring_highquality_apps_on_google_play/)
-- [Enable MSAA through code and get if MSAA is enabled also through code](https://www.reddit.com/r/androiddev/comments/17rgyu9/enable_msaa_through_code_and_get_if_msaa_is/)
-- [Clean architecture multiple approaches](https://www.reddit.com/r/androiddev/comments/17rexp9/clean_architecture_multiple_approaches/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
