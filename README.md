@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are there any platforms or means to have in-app ads without a consistent app package?](https://www.reddit.com/r/androiddev/comments/17t94eg/are_there_any_platforms_or_means_to_have_inapp/)
+- [Android Game Development](https://www.reddit.com/r/androiddev/comments/17t3sox/android_game_development/)
+- [Lint Report offers to use &quot;@TargetApi&lpar; &rpar;&quot; in front of a class as an option, but then I get THIS when doing so. What am I not understanding here?](https://www.reddit.com/r/androiddev/comments/17t35rz/lint_report_offers_to_use_targetapi_in_front_of_a/)
+- [Firebase Remote Config uploads users Installer Application to google?](https://www.reddit.com/r/androiddev/comments/17t2z6o/firebase_remote_config_uploads_users_installer/)
+- [Compose libraries useful for nearly every &quot;normal app&quot; - Custom Themes / Changelog / Preferences / Dialogs / Debug Drawer](https://www.reddit.com/r/androiddev/comments/17t2dgu/compose_libraries_useful_for_nearly_every_normal/)
+- [Creating an individual Payments Profile for in-app purchases. Risky?](https://www.reddit.com/r/androiddev/comments/17sq8sr/creating_an_individual_payments_profile_for_inapp/)
 - [Is Jetpack Compose still imperfect when it comes to accessibility?](https://www.reddit.com/r/androiddev/comments/17si039/is_jetpack_compose_still_imperfect_when_it_comes/)
 - [Is any good playstore alternative with not so many restrictions?](https://www.reddit.com/r/androiddev/comments/17se74z/is_any_good_playstore_alternative_with_not_so/)
 - [Recently published new app: WikiFilms - Asking for feedback!](https://www.reddit.com/r/androiddev/comments/17scbd8/recently_published_new_app_wikifilms_asking_for/)
-- [Native ADs eCPM](https://www.reddit.com/r/androiddev/comments/17sbl5p/native_ads_ecpm/)
 - [This new &quot;choose your developer verification deadline&quot; on google play doesnt make any sense at sll. What&#39;s the downside to pushing it out as far as possible? Everyone will probably just pick the furthest option.](https://www.reddit.com/r/androiddev/comments/17s93tx/this_new_choose_your_developer_verification/)
-- [I have created a GPT to help you create jetpack components.](https://www.reddit.com/r/androiddev/comments/17s8h3w/i_have_created_a_gpt_to_help_you_create_jetpack/)
-- [Shared element transition on LazyColumn with Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/17s7qpm/shared_element_transition_on_lazycolumn_with/)
-- [Do you immaculately follow Interface Segregation](https://www.reddit.com/r/androiddev/comments/17s7ekk/do_you_immaculately_follow_interface_segregation/)
-- [Android Studio Iguana | 2023.2.1 Canary 13 now available](https://www.reddit.com/r/androiddev/comments/17rpkt6/android_studio_iguana_202321_canary_13_now/)
-- [Google play account verification new deadline policy](https://www.reddit.com/r/androiddev/comments/17rnwto/google_play_account_verification_new_deadline/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
