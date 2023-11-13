@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are there any platforms or means to have in-app ads without a consistent app package?](https://www.reddit.com/r/androiddev/comments/17t94eg/are_there_any_platforms_or_means_to_have_inapp/)
+- [I accidentally uninstalled an app that had files &lpar;specifically, media&rpar; in its Android/data folder.](https://www.reddit.com/r/androiddev/comments/17tzewa/i_accidentally_uninstalled_an_app_that_had_files/)
+- [Losing users over a malicious pishing ad](https://www.reddit.com/r/androiddev/comments/17ttzp4/losing_users_over_a_malicious_pishing_ad/)
+- [Integrating DJI SDK v5 into Your Drone App](https://www.reddit.com/r/androiddev/comments/17tpm57/integrating_dji_sdk_v5_into_your_drone_app/)
+- [If I have time should I learn java before kotlin?](https://www.reddit.com/r/androiddev/comments/17tn7o9/if_i_have_time_should_i_learn_java_before_kotlin/)
+- [Question about Google Play policies for app widget displaying Google Scholar citations](https://www.reddit.com/r/androiddev/comments/17tmwzv/question_about_google_play_policies_for_app/)
+- [What do you guys think of the new google play updates?](https://www.reddit.com/r/androiddev/comments/17tmfkc/what_do_you_guys_think_of_the_new_google_play/)
+- [Sending email via Gmail app directly &lpar;no chooser intent&rpar;](https://www.reddit.com/r/androiddev/comments/17th89o/sending_email_via_gmail_app_directly_no_chooser/)
+- [Google keeps removing legitimate positive review of my app](https://www.reddit.com/r/androiddev/comments/17tgrb8/google_keeps_removing_legitimate_positive_review/)
 - [Android Game Development](https://www.reddit.com/r/androiddev/comments/17t3sox/android_game_development/)
 - [Lint Report offers to use &quot;@TargetApi&lpar; &rpar;&quot; in front of a class as an option, but then I get THIS when doing so. What am I not understanding here?](https://www.reddit.com/r/androiddev/comments/17t35rz/lint_report_offers_to_use_targetapi_in_front_of_a/)
-- [Firebase Remote Config uploads users Installer Application to google?](https://www.reddit.com/r/androiddev/comments/17t2z6o/firebase_remote_config_uploads_users_installer/)
-- [Compose libraries useful for nearly every &quot;normal app&quot; - Custom Themes / Changelog / Preferences / Dialogs / Debug Drawer](https://www.reddit.com/r/androiddev/comments/17t2dgu/compose_libraries_useful_for_nearly_every_normal/)
-- [Creating an individual Payments Profile for in-app purchases. Risky?](https://www.reddit.com/r/androiddev/comments/17sq8sr/creating_an_individual_payments_profile_for_inapp/)
-- [Is Jetpack Compose still imperfect when it comes to accessibility?](https://www.reddit.com/r/androiddev/comments/17si039/is_jetpack_compose_still_imperfect_when_it_comes/)
-- [Is any good playstore alternative with not so many restrictions?](https://www.reddit.com/r/androiddev/comments/17se74z/is_any_good_playstore_alternative_with_not_so/)
-- [Recently published new app: WikiFilms - Asking for feedback!](https://www.reddit.com/r/androiddev/comments/17scbd8/recently_published_new_app_wikifilms_asking_for/)
-- [This new &quot;choose your developer verification deadline&quot; on google play doesnt make any sense at sll. What&#39;s the downside to pushing it out as far as possible? Everyone will probably just pick the furthest option.](https://www.reddit.com/r/androiddev/comments/17s93tx/this_new_choose_your_developer_verification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
