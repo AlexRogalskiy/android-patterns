@@ -286,6 +286,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Kotlin keeps climbing the Tiobe popularity index](https://www.infoworld.com/article/3710290/kotlin-keeps-climbing-the-tiobe-popularity-index.html#tk.rss_android)
 - [Building for Linux and Android on Windows](https://www.infoworld.com/article/3707729/building-for-linux-and-android-on-windows.html#tk.rss_android)
 - [Flutter 3.13 speeds rendering on iOS](https://www.infoworld.com/article/3705031/flutter-313-speeds-rendering-on-ios.html#tk.rss_android)
 - [Kotlin 1.9.0 features beta of advanced K2 compiler](https://www.infoworld.com/article/3701893/kotlin-1-9-0-features-beta-of-advanced-k2-compiler.html#tk.rss_android)
@@ -295,7 +296,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [What is Kotlin? The Java alternative explained](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html#tk.rss_android)
 - [Android 13 brings themed app icons, security tweaks](https://www.infoworld.com/article/3669860/android-13-brings-themed-app-icons-security-tweaks.html#tk.rss_android)
 - [Jetpack Compose 1.2 packs text improvements](https://www.infoworld.com/article/3660772/jetpack-compose-12-packs-text-improvements.html#tk.rss_android)
-- [JetBrains launches cross-platform UI framework for Kotlin](https://www.infoworld.com/article/3643392/jetbrains-launches-cross-platform-ui-framework-for-kotlin.html#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
