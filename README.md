@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I accidentally uninstalled an app that had files &lpar;specifically, media&rpar; in its Android/data folder.](https://www.reddit.com/r/androiddev/comments/17tzewa/i_accidentally_uninstalled_an_app_that_had_files/)
-- [Losing users over a malicious pishing ad](https://www.reddit.com/r/androiddev/comments/17ttzp4/losing_users_over_a_malicious_pishing_ad/)
-- [Integrating DJI SDK v5 into Your Drone App](https://www.reddit.com/r/androiddev/comments/17tpm57/integrating_dji_sdk_v5_into_your_drone_app/)
-- [If I have time should I learn java before kotlin?](https://www.reddit.com/r/androiddev/comments/17tn7o9/if_i_have_time_should_i_learn_java_before_kotlin/)
-- [Question about Google Play policies for app widget displaying Google Scholar citations](https://www.reddit.com/r/androiddev/comments/17tmwzv/question_about_google_play_policies_for_app/)
-- [What do you guys think of the new google play updates?](https://www.reddit.com/r/androiddev/comments/17tmfkc/what_do_you_guys_think_of_the_new_google_play/)
-- [Sending email via Gmail app directly &lpar;no chooser intent&rpar;](https://www.reddit.com/r/androiddev/comments/17th89o/sending_email_via_gmail_app_directly_no_chooser/)
-- [Google keeps removing legitimate positive review of my app](https://www.reddit.com/r/androiddev/comments/17tgrb8/google_keeps_removing_legitimate_positive_review/)
-- [Android Game Development](https://www.reddit.com/r/androiddev/comments/17t3sox/android_game_development/)
-- [Lint Report offers to use &quot;@TargetApi&lpar; &rpar;&quot; in front of a class as an option, but then I get THIS when doing so. What am I not understanding here?](https://www.reddit.com/r/androiddev/comments/17t35rz/lint_report_offers_to_use_targetapi_in_front_of_a/)
+- [The secret to Android&#39;s improved memory on 1B+ Devices: The latest Android Runtime update](https://www.reddit.com/r/androiddev/comments/17upbqq/the_secret_to_androids_improved_memory_on_1b/)
+- [If someone with multiple Google Play accounts closes one of them, does the other one remain safe?](https://www.reddit.com/r/androiddev/comments/17un0xc/if_someone_with_multiple_google_play_accounts/)
+- [How are you even supposed to add maps SDK to an app?](https://www.reddit.com/r/androiddev/comments/17uhv69/how_are_you_even_supposed_to_add_maps_sdk_to_an/)
+- [Due to recent changes about needing 20 testers before publishing an app, do we need to care who we invite?](https://www.reddit.com/r/androiddev/comments/17ugw0c/due_to_recent_changes_about_needing_20_testers/)
+- [Finally took the risk and posted my first game](https://www.reddit.com/r/androiddev/comments/17ug8kf/finally_took_the_risk_and_posted_my_first_game/)
+- [Is it ok to abandon empty account.](https://www.reddit.com/r/androiddev/comments/17udo55/is_it_ok_to_abandon_empty_account/)
+- [Supabase: the open source Firebase alternative](https://www.reddit.com/r/androiddev/comments/17ucz68/supabase_the_open_source_firebase_alternative/)
+- [Weekly Who&#39;s Hiring Thread - November 13, 2023](https://www.reddit.com/r/androiddev/comments/17ub8m1/weekly_whos_hiring_thread_november_13_2023/)
+- [Weekly discussion, code review, and feedback thread - November 13, 2023](https://www.reddit.com/r/androiddev/comments/17ua3wr/weekly_discussion_code_review_and_feedback_thread/)
+- [Enable NFC programmatically on a button click, why not?](https://www.reddit.com/r/androiddev/comments/17u97u5/enable_nfc_programmatically_on_a_button_click_why/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
