@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Adhering to the European Accessibility Act](https://www.reddit.com/r/androiddev/comments/17vfta3/adhering_to_the_european_accessibility_act/)
+- [Privacy-focused user attribution?](https://www.reddit.com/r/androiddev/comments/17vbst4/privacyfocused_user_attribution/)
+- [What is the use case of APK build logs](https://www.reddit.com/r/androiddev/comments/17v78s4/what_is_the_use_case_of_apk_build_logs/)
+- [Compose vs constraintlayout/linearlayout paradigm](https://www.reddit.com/r/androiddev/comments/17v6aft/compose_vs_constraintlayoutlinearlayout_paradigm/)
+- [Are Automotive Design for Compose and Relay for Figma the same thing?](https://www.reddit.com/r/androiddev/comments/17v5m2l/are_automotive_design_for_compose_and_relay_for/)
+- [How necessary is making an app available in all orientations?](https://www.reddit.com/r/androiddev/comments/17v58rn/how_necessary_is_making_an_app_available_in_all/)
+- [Which theme do you use on Android Studio Editor?](https://www.reddit.com/r/androiddev/comments/17uydkm/which_theme_do_you_use_on_android_studio_editor/)
 - [The secret to Android&#39;s improved memory on 1B+ Devices: The latest Android Runtime update](https://www.reddit.com/r/androiddev/comments/17upbqq/the_secret_to_androids_improved_memory_on_1b/)
 - [If someone with multiple Google Play accounts closes one of them, does the other one remain safe?](https://www.reddit.com/r/androiddev/comments/17un0xc/if_someone_with_multiple_google_play_accounts/)
 - [How are you even supposed to add maps SDK to an app?](https://www.reddit.com/r/androiddev/comments/17uhv69/how_are_you_even_supposed_to_add_maps_sdk_to_an/)
-- [Due to recent changes about needing 20 testers before publishing an app, do we need to care who we invite?](https://www.reddit.com/r/androiddev/comments/17ugw0c/due_to_recent_changes_about_needing_20_testers/)
-- [Finally took the risk and posted my first game](https://www.reddit.com/r/androiddev/comments/17ug8kf/finally_took_the_risk_and_posted_my_first_game/)
-- [Is it ok to abandon empty account.](https://www.reddit.com/r/androiddev/comments/17udo55/is_it_ok_to_abandon_empty_account/)
-- [Supabase: the open source Firebase alternative](https://www.reddit.com/r/androiddev/comments/17ucz68/supabase_the_open_source_firebase_alternative/)
-- [Weekly Who&#39;s Hiring Thread - November 13, 2023](https://www.reddit.com/r/androiddev/comments/17ub8m1/weekly_whos_hiring_thread_november_13_2023/)
-- [Weekly discussion, code review, and feedback thread - November 13, 2023](https://www.reddit.com/r/androiddev/comments/17ua3wr/weekly_discussion_code_review_and_feedback_thread/)
-- [Enable NFC programmatically on a button click, why not?](https://www.reddit.com/r/androiddev/comments/17u97u5/enable_nfc_programmatically_on_a_button_click_why/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
