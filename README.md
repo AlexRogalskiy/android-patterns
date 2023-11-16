@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Adhering to the European Accessibility Act](https://www.reddit.com/r/androiddev/comments/17vfta3/adhering_to_the_european_accessibility_act/)
-- [Privacy-focused user attribution?](https://www.reddit.com/r/androiddev/comments/17vbst4/privacyfocused_user_attribution/)
-- [What is the use case of APK build logs](https://www.reddit.com/r/androiddev/comments/17v78s4/what_is_the_use_case_of_apk_build_logs/)
-- [Compose vs constraintlayout/linearlayout paradigm](https://www.reddit.com/r/androiddev/comments/17v6aft/compose_vs_constraintlayoutlinearlayout_paradigm/)
-- [Are Automotive Design for Compose and Relay for Figma the same thing?](https://www.reddit.com/r/androiddev/comments/17v5m2l/are_automotive_design_for_compose_and_relay_for/)
-- [How necessary is making an app available in all orientations?](https://www.reddit.com/r/androiddev/comments/17v58rn/how_necessary_is_making_an_app_available_in_all/)
-- [Which theme do you use on Android Studio Editor?](https://www.reddit.com/r/androiddev/comments/17uydkm/which_theme_do_you_use_on_android_studio_editor/)
-- [The secret to Android&#39;s improved memory on 1B+ Devices: The latest Android Runtime update](https://www.reddit.com/r/androiddev/comments/17upbqq/the_secret_to_androids_improved_memory_on_1b/)
-- [If someone with multiple Google Play accounts closes one of them, does the other one remain safe?](https://www.reddit.com/r/androiddev/comments/17un0xc/if_someone_with_multiple_google_play_accounts/)
-- [How are you even supposed to add maps SDK to an app?](https://www.reddit.com/r/androiddev/comments/17uhv69/how_are_you_even_supposed_to_add_maps_sdk_to_an/)
+- [Is anything wrong with google play app reviewing process](https://www.reddit.com/r/androiddev/comments/17w56tz/is_anything_wrong_with_google_play_app_reviewing/)
+- [Is there a way to limit fps in AVD?](https://www.reddit.com/r/androiddev/comments/17w4a9m/is_there_a_way_to_limit_fps_in_avd/)
+- [The latest updates to power your growth on Google Play](https://www.reddit.com/r/androiddev/comments/17w06mh/the_latest_updates_to_power_your_growth_on_google/)
+- [Bringing New Input Support to Desktop AVD](https://www.reddit.com/r/androiddev/comments/17w064c/bringing_new_input_support_to_desktop_avd/)
+- [Is Google Playtime worth it?](https://www.reddit.com/r/androiddev/comments/17vywtd/is_google_playtime_worth_it/)
+- [This seems like the worst time to get into android development?](https://www.reddit.com/r/androiddev/comments/17vy1q8/this_seems_like_the_worst_time_to_get_into/)
+- [Google Play developer account for single member LLC - personal or organization?](https://www.reddit.com/r/androiddev/comments/17vxzs1/google_play_developer_account_for_single_member/)
+- [ChatGPT for WearOS &lpar;WristAssist&rpar;](https://www.reddit.com/r/androiddev/comments/17vwn32/chatgpt_for_wearos_wristassist/)
+- [Droidcon SF vs Berlin](https://www.reddit.com/r/androiddev/comments/17vutay/droidcon_sf_vs_berlin/)
+- [Android custom View themes without XML and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/17vqv04/android_custom_view_themes_without_xml_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
