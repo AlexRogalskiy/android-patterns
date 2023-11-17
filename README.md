@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is anything wrong with google play app reviewing process](https://www.reddit.com/r/androiddev/comments/17w56tz/is_anything_wrong_with_google_play_app_reviewing/)
+- [Android Studio Iguana | 2023.2.1 Canary 14 now available](https://www.reddit.com/r/androiddev/comments/17x1i45/android_studio_iguana_202321_canary_14_now/)
+- [State of On-Device Machine Learning in Android](https://www.reddit.com/r/androiddev/comments/17x0gis/state_of_ondevice_machine_learning_in_android/)
+- [🚀 Introducing ksoup: A Pure Kotlin 🌟 Alternative to jsoup for Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/17wzb33/introducing_ksoup_a_pure_kotlin_alternative_to/)
+- [Android Studio Giraffe | 2022.3.1 Patch 4 now available](https://www.reddit.com/r/androiddev/comments/17wvwze/android_studio_giraffe_202231_patch_4_now/)
+- [Component-based Approach. Fighting Complexity in Android Applications](https://www.reddit.com/r/androiddev/comments/17wnn9m/componentbased_approach_fighting_complexity_in/)
+- [Understanding Google Play Console and Admob KPI&#39;s](https://www.reddit.com/r/androiddev/comments/17wl0s4/understanding_google_play_console_and_admob_kpis/)
+- [Understanding Google Play Console and Admob KPI&#39;s](https://www.reddit.com/r/androiddev/comments/17wl0pd/understanding_google_play_console_and_admob_kpis/)
+- [Collecting flow from DataStore - wait or use default initial value](https://www.reddit.com/r/androiddev/comments/17wf7ju/collecting_flow_from_datastore_wait_or_use/)
+- [How to handle negative reviews and no response?](https://www.reddit.com/r/androiddev/comments/17wdglk/how_to_handle_negative_reviews_and_no_response/)
 - [Is there a way to limit fps in AVD?](https://www.reddit.com/r/androiddev/comments/17w4a9m/is_there_a_way_to_limit_fps_in_avd/)
-- [The latest updates to power your growth on Google Play](https://www.reddit.com/r/androiddev/comments/17w06mh/the_latest_updates_to_power_your_growth_on_google/)
-- [Bringing New Input Support to Desktop AVD](https://www.reddit.com/r/androiddev/comments/17w064c/bringing_new_input_support_to_desktop_avd/)
-- [Is Google Playtime worth it?](https://www.reddit.com/r/androiddev/comments/17vywtd/is_google_playtime_worth_it/)
-- [This seems like the worst time to get into android development?](https://www.reddit.com/r/androiddev/comments/17vy1q8/this_seems_like_the_worst_time_to_get_into/)
-- [Google Play developer account for single member LLC - personal or organization?](https://www.reddit.com/r/androiddev/comments/17vxzs1/google_play_developer_account_for_single_member/)
-- [ChatGPT for WearOS &lpar;WristAssist&rpar;](https://www.reddit.com/r/androiddev/comments/17vwn32/chatgpt_for_wearos_wristassist/)
-- [Droidcon SF vs Berlin](https://www.reddit.com/r/androiddev/comments/17vutay/droidcon_sf_vs_berlin/)
-- [Android custom View themes without XML and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/17vqv04/android_custom_view_themes_without_xml_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
