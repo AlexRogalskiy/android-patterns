@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google terminated my account 3 years ago, a positive journey](https://www.reddit.com/r/androiddev/comments/17xm651/google_terminated_my_account_3_years_ago_a/)
+- [Evolution of Android Development: a short summary](https://www.reddit.com/r/androiddev/comments/17xkq4h/evolution_of_android_development_a_short_summary/)
+- [Tutorial: How to use Segment events to trigger push notifications to Android devices](https://www.reddit.com/r/androiddev/comments/17xjmah/tutorial_how_to_use_segment_events_to_trigger/)
+- [Circuit - Android App Architecture Masterclass with Zac and Josh from Slack](https://www.reddit.com/r/androiddev/comments/17xhjii/circuit_android_app_architecture_masterclass_with/)
+- [Android Sweets Newsletter](https://www.reddit.com/r/androiddev/comments/17xfu3m/android_sweets_newsletter/)
+- [What is everything I need to know about testing as an Android developer?](https://www.reddit.com/r/androiddev/comments/17xeqcz/what_is_everything_i_need_to_know_about_testing/)
+- [Twitch Clone Compose: 🎮 Twitch clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat/Video SDK for Compose.](https://www.reddit.com/r/androiddev/comments/17xci9g/twitch_clone_compose_twitch_clone_project/)
+- [git-repo: trying to control subcomponents&#39; versions using manifest - how to proceed?](https://www.reddit.com/r/androiddev/comments/17xa85b/gitrepo_trying_to_control_subcomponents_versions/)
 - [Android Studio Iguana | 2023.2.1 Canary 14 now available](https://www.reddit.com/r/androiddev/comments/17x1i45/android_studio_iguana_202321_canary_14_now/)
 - [State of On-Device Machine Learning in Android](https://www.reddit.com/r/androiddev/comments/17x0gis/state_of_ondevice_machine_learning_in_android/)
-- [🚀 Introducing ksoup: A Pure Kotlin 🌟 Alternative to jsoup for Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/17wzb33/introducing_ksoup_a_pure_kotlin_alternative_to/)
-- [Android Studio Giraffe | 2022.3.1 Patch 4 now available](https://www.reddit.com/r/androiddev/comments/17wvwze/android_studio_giraffe_202231_patch_4_now/)
-- [Component-based Approach. Fighting Complexity in Android Applications](https://www.reddit.com/r/androiddev/comments/17wnn9m/componentbased_approach_fighting_complexity_in/)
-- [Understanding Google Play Console and Admob KPI&#39;s](https://www.reddit.com/r/androiddev/comments/17wl0s4/understanding_google_play_console_and_admob_kpis/)
-- [Understanding Google Play Console and Admob KPI&#39;s](https://www.reddit.com/r/androiddev/comments/17wl0pd/understanding_google_play_console_and_admob_kpis/)
-- [Collecting flow from DataStore - wait or use default initial value](https://www.reddit.com/r/androiddev/comments/17wf7ju/collecting_flow_from_datastore_wait_or_use/)
-- [How to handle negative reviews and no response?](https://www.reddit.com/r/androiddev/comments/17wdglk/how_to_handle_negative_reviews_and_no_response/)
-- [Is there a way to limit fps in AVD?](https://www.reddit.com/r/androiddev/comments/17w4a9m/is_there_a_way_to_limit_fps_in_avd/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
