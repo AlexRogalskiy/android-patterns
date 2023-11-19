@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google terminated my account 3 years ago, a positive journey](https://www.reddit.com/r/androiddev/comments/17xm651/google_terminated_my_account_3_years_ago_a/)
-- [Evolution of Android Development: a short summary](https://www.reddit.com/r/androiddev/comments/17xkq4h/evolution_of_android_development_a_short_summary/)
-- [Tutorial: How to use Segment events to trigger push notifications to Android devices](https://www.reddit.com/r/androiddev/comments/17xjmah/tutorial_how_to_use_segment_events_to_trigger/)
-- [Circuit - Android App Architecture Masterclass with Zac and Josh from Slack](https://www.reddit.com/r/androiddev/comments/17xhjii/circuit_android_app_architecture_masterclass_with/)
-- [Android Sweets Newsletter](https://www.reddit.com/r/androiddev/comments/17xfu3m/android_sweets_newsletter/)
-- [What is everything I need to know about testing as an Android developer?](https://www.reddit.com/r/androiddev/comments/17xeqcz/what_is_everything_i_need_to_know_about_testing/)
-- [Twitch Clone Compose: 🎮 Twitch clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat/Video SDK for Compose.](https://www.reddit.com/r/androiddev/comments/17xci9g/twitch_clone_compose_twitch_clone_project/)
-- [git-repo: trying to control subcomponents&#39; versions using manifest - how to proceed?](https://www.reddit.com/r/androiddev/comments/17xa85b/gitrepo_trying_to_control_subcomponents_versions/)
-- [Android Studio Iguana | 2023.2.1 Canary 14 now available](https://www.reddit.com/r/androiddev/comments/17x1i45/android_studio_iguana_202321_canary_14_now/)
-- [State of On-Device Machine Learning in Android](https://www.reddit.com/r/androiddev/comments/17x0gis/state_of_ondevice_machine_learning_in_android/)
+- [Totally parallel with coding, wanting to learn but from where ? &lpar;complete beginner - java/koltin?&rpar;](https://www.reddit.com/r/androiddev/comments/17yia7y/totally_parallel_with_coding_wanting_to_learn_but/)
+- [WearOS app suddenly started getting rejected for splash icon despite nothing changed](https://www.reddit.com/r/androiddev/comments/17ygx3b/wearos_app_suddenly_started_getting_rejected_for/)
+- [How would implement payments and transaction?](https://www.reddit.com/r/androiddev/comments/17ygjab/how_would_implement_payments_and_transaction/)
+- [First Compose App Published 🚀](https://www.reddit.com/r/androiddev/comments/17yfl10/first_compose_app_published/)
+- [Do you write test cases?](https://www.reddit.com/r/androiddev/comments/17ycyxb/do_you_write_test_cases/)
+- [NullPointerException for EditText component](https://www.reddit.com/r/androiddev/comments/17yc0sq/nullpointerexception_for_edittext_component/)
+- [App devs, what monetization model has worked better for your app&lpar;s&rpar;?](https://www.reddit.com/r/androiddev/comments/17y8qnd/app_devs_what_monetization_model_has_worked/)
+- [Is it possible to have an app outside playstore but with Google play billing features?](https://www.reddit.com/r/androiddev/comments/17y89go/is_it_possible_to_have_an_app_outside_playstore/)
+- [Hello. What is the issue with my memes app ? It has site navigation behaviour policy violation.](https://www.reddit.com/r/androiddev/comments/17y7f6m/hello_what_is_the_issue_with_my_memes_app_it_has/)
+- [Started working on jetpack compose and now can&#39;t go back to the XML way which has most of the jobs.](https://www.reddit.com/r/androiddev/comments/17y4rit/started_working_on_jetpack_compose_and_now_cant/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
