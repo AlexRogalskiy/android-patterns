@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Totally parallel with coding, wanting to learn but from where ? &lpar;complete beginner - java/koltin?&rpar;](https://www.reddit.com/r/androiddev/comments/17yia7y/totally_parallel_with_coding_wanting_to_learn_but/)
+- [How to check total operating time on Android?](https://www.reddit.com/r/androiddev/comments/17zabr9/how_to_check_total_operating_time_on_android/)
+- [Problem with TabLayout and Navigation](https://www.reddit.com/r/androiddev/comments/17z31nx/problem_with_tablayout_and_navigation/)
+- [I made a Seekbar library a while ago and looking for suggestions for more features.](https://www.reddit.com/r/androiddev/comments/17z2wyl/i_made_a_seekbar_library_a_while_ago_and_looking/)
+- [App devs, what monetization model has worked better for your app&lpar;s&rpar;?](https://www.reddit.com/r/androiddev/comments/17yo1x0/app_devs_what_monetization_model_has_worked/)
 - [WearOS app suddenly started getting rejected for splash icon despite nothing changed](https://www.reddit.com/r/androiddev/comments/17ygx3b/wearos_app_suddenly_started_getting_rejected_for/)
-- [How would implement payments and transaction?](https://www.reddit.com/r/androiddev/comments/17ygjab/how_would_implement_payments_and_transaction/)
-- [First Compose App Published 🚀](https://www.reddit.com/r/androiddev/comments/17yfl10/first_compose_app_published/)
 - [Do you write test cases?](https://www.reddit.com/r/androiddev/comments/17ycyxb/do_you_write_test_cases/)
-- [NullPointerException for EditText component](https://www.reddit.com/r/androiddev/comments/17yc0sq/nullpointerexception_for_edittext_component/)
-- [App devs, what monetization model has worked better for your app&lpar;s&rpar;?](https://www.reddit.com/r/androiddev/comments/17y8qnd/app_devs_what_monetization_model_has_worked/)
 - [Is it possible to have an app outside playstore but with Google play billing features?](https://www.reddit.com/r/androiddev/comments/17y89go/is_it_possible_to_have_an_app_outside_playstore/)
-- [Hello. What is the issue with my memes app ? It has site navigation behaviour policy violation.](https://www.reddit.com/r/androiddev/comments/17y7f6m/hello_what_is_the_issue_with_my_memes_app_it_has/)
 - [Started working on jetpack compose and now can&#39;t go back to the XML way which has most of the jobs.](https://www.reddit.com/r/androiddev/comments/17y4rit/started_working_on_jetpack_compose_and_now_cant/)
+- [How do you draw ideas for your apps](https://www.reddit.com/r/androiddev/comments/17y2r87/how_do_you_draw_ideas_for_your_apps/)
+- [Google terminated my account 3 years ago, a positive journey](https://www.reddit.com/r/androiddev/comments/17xm651/google_terminated_my_account_3_years_ago_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
