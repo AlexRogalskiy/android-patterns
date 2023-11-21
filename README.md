@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to check total operating time on Android?](https://www.reddit.com/r/androiddev/comments/17zabr9/how_to_check_total_operating_time_on_android/)
-- [Problem with TabLayout and Navigation](https://www.reddit.com/r/androiddev/comments/17z31nx/problem_with_tablayout_and_navigation/)
-- [I made a Seekbar library a while ago and looking for suggestions for more features.](https://www.reddit.com/r/androiddev/comments/17z2wyl/i_made_a_seekbar_library_a_while_ago_and_looking/)
-- [App devs, what monetization model has worked better for your app&lpar;s&rpar;?](https://www.reddit.com/r/androiddev/comments/17yo1x0/app_devs_what_monetization_model_has_worked/)
-- [WearOS app suddenly started getting rejected for splash icon despite nothing changed](https://www.reddit.com/r/androiddev/comments/17ygx3b/wearos_app_suddenly_started_getting_rejected_for/)
-- [Do you write test cases?](https://www.reddit.com/r/androiddev/comments/17ycyxb/do_you_write_test_cases/)
-- [Is it possible to have an app outside playstore but with Google play billing features?](https://www.reddit.com/r/androiddev/comments/17y89go/is_it_possible_to_have_an_app_outside_playstore/)
-- [Started working on jetpack compose and now can&#39;t go back to the XML way which has most of the jobs.](https://www.reddit.com/r/androiddev/comments/17y4rit/started_working_on_jetpack_compose_and_now_cant/)
-- [How do you draw ideas for your apps](https://www.reddit.com/r/androiddev/comments/17y2r87/how_do_you_draw_ideas_for_your_apps/)
-- [Google terminated my account 3 years ago, a positive journey](https://www.reddit.com/r/androiddev/comments/17xm651/google_terminated_my_account_3_years_ago_a/)
+- [Expanding Ads inside lists &lpar;popping up&rpar; - allowed?](https://www.reddit.com/r/androiddev/comments/17zz5bi/expanding_ads_inside_lists_popping_up_allowed/)
+- [Xiaomi GetApps Email](https://www.reddit.com/r/androiddev/comments/17zz35h/xiaomi_getapps_email/)
+- [Events as state are an antipattern](https://www.reddit.com/r/androiddev/comments/17zu7kr/events_as_state_are_an_antipattern/)
+- [Does this look like an app that&#39;s been in development for 3 years with a budget of $500,000?](https://www.reddit.com/r/androiddev/comments/17zrn03/does_this_look_like_an_app_thats_been_in/)
+- [Exercises in futility: One-time events in Android](https://www.reddit.com/r/androiddev/comments/17zq2ce/exercises_in_futility_onetime_events_in_android/)
+- [Weekly Who&#39;s Hiring Thread - November 20, 2023](https://www.reddit.com/r/androiddev/comments/17zp5mk/weekly_whos_hiring_thread_november_20_2023/)
+- [I Cant zoom out/ stuck on my android studio page](https://www.reddit.com/r/androiddev/comments/17zodci/i_cant_zoom_out_stuck_on_my_android_studio_page/)
+- [Weekly discussion, code review, and feedback thread - November 20, 2023](https://www.reddit.com/r/androiddev/comments/17znzot/weekly_discussion_code_review_and_feedback_thread/)
+- [20 Google Play App Testers as a Service?](https://www.reddit.com/r/androiddev/comments/17zm7kh/20_google_play_app_testers_as_a_service/)
+- [Device Benchmarking In My App](https://www.reddit.com/r/androiddev/comments/17zdc8p/device_benchmarking_in_my_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
