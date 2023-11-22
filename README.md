@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SpeechRecognizer API single words?](https://www.reddit.com/r/androiddev/comments/180j6l7/speechrecognizer_api_single_words/)
+- [Can i upload app under my name at first for beta testers, and later under company name?](https://www.reddit.com/r/androiddev/comments/180hilp/can_i_upload_app_under_my_name_at_first_for_beta/)
+- [Experimenting with my latest architectural design on the Sunflower clone project.](https://www.reddit.com/r/androiddev/comments/180e6e7/experimenting_with_my_latest_architectural_design/)
+- [Video in hidden folder](https://www.reddit.com/r/androiddev/comments/180db99/video_in_hidden_folder/)
+- [Transferring app to new Google Play account - what about subscriptions?](https://www.reddit.com/r/androiddev/comments/180cvh3/transferring_app_to_new_google_play_account_what/)
 - [Expanding Ads inside lists &lpar;popping up&rpar; - allowed?](https://www.reddit.com/r/androiddev/comments/17zz5bi/expanding_ads_inside_lists_popping_up_allowed/)
 - [Xiaomi GetApps Email](https://www.reddit.com/r/androiddev/comments/17zz35h/xiaomi_getapps_email/)
 - [Events as state are an antipattern](https://www.reddit.com/r/androiddev/comments/17zu7kr/events_as_state_are_an_antipattern/)
 - [Does this look like an app that&#39;s been in development for 3 years with a budget of $500,000?](https://www.reddit.com/r/androiddev/comments/17zrn03/does_this_look_like_an_app_thats_been_in/)
 - [Exercises in futility: One-time events in Android](https://www.reddit.com/r/androiddev/comments/17zq2ce/exercises_in_futility_onetime_events_in_android/)
-- [Weekly Who&#39;s Hiring Thread - November 20, 2023](https://www.reddit.com/r/androiddev/comments/17zp5mk/weekly_whos_hiring_thread_november_20_2023/)
-- [I Cant zoom out/ stuck on my android studio page](https://www.reddit.com/r/androiddev/comments/17zodci/i_cant_zoom_out_stuck_on_my_android_studio_page/)
-- [Weekly discussion, code review, and feedback thread - November 20, 2023](https://www.reddit.com/r/androiddev/comments/17znzot/weekly_discussion_code_review_and_feedback_thread/)
-- [20 Google Play App Testers as a Service?](https://www.reddit.com/r/androiddev/comments/17zm7kh/20_google_play_app_testers_as_a_service/)
-- [Device Benchmarking In My App](https://www.reddit.com/r/androiddev/comments/17zdc8p/device_benchmarking_in_my_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
