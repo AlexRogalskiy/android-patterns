@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Made a Jetpack Compose library for reordering items in a LazyColumn with drag and drop](https://www.reddit.com/r/androiddev/comments/181hemp/made_a_jetpack_compose_library_for_reordering/)
+- [If I delete my developer account...](https://www.reddit.com/r/androiddev/comments/181cn5m/if_i_delete_my_developer_account/)
+- [If I delete my developer account...](https://www.reddit.com/r/androiddev/comments/181cmvy/if_i_delete_my_developer_account/)
+- [What are inline value classes in Kotlin and when you should use them](https://www.reddit.com/r/androiddev/comments/1818c50/what_are_inline_value_classes_in_kotlin_and_when/)
+- [Airbnb clone with Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/180yo2k/airbnb_clone_with_kotlin_multiplatform/)
 - [SpeechRecognizer API single words?](https://www.reddit.com/r/androiddev/comments/180j6l7/speechrecognizer_api_single_words/)
 - [Can i upload app under my name at first for beta testers, and later under company name?](https://www.reddit.com/r/androiddev/comments/180hilp/can_i_upload_app_under_my_name_at_first_for_beta/)
 - [Experimenting with my latest architectural design on the Sunflower clone project.](https://www.reddit.com/r/androiddev/comments/180e6e7/experimenting_with_my_latest_architectural_design/)
 - [Video in hidden folder](https://www.reddit.com/r/androiddev/comments/180db99/video_in_hidden_folder/)
 - [Transferring app to new Google Play account - what about subscriptions?](https://www.reddit.com/r/androiddev/comments/180cvh3/transferring_app_to_new_google_play_account_what/)
-- [Expanding Ads inside lists &lpar;popping up&rpar; - allowed?](https://www.reddit.com/r/androiddev/comments/17zz5bi/expanding_ads_inside_lists_popping_up_allowed/)
-- [Xiaomi GetApps Email](https://www.reddit.com/r/androiddev/comments/17zz35h/xiaomi_getapps_email/)
-- [Events as state are an antipattern](https://www.reddit.com/r/androiddev/comments/17zu7kr/events_as_state_are_an_antipattern/)
-- [Does this look like an app that&#39;s been in development for 3 years with a budget of $500,000?](https://www.reddit.com/r/androiddev/comments/17zrn03/does_this_look_like_an_app_thats_been_in/)
-- [Exercises in futility: One-time events in Android](https://www.reddit.com/r/androiddev/comments/17zq2ce/exercises_in_futility_onetime_events_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
