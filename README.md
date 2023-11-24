@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🎉 Introducing ksoup 0.0.5: A Game-Changer for Android Developers!](https://www.reddit.com/r/androiddev/comments/182ee0w/introducing_ksoup_005_a_gamechanger_for_android/)
+- [Optimistic updates when using Room](https://www.reddit.com/r/androiddev/comments/182ecyc/optimistic_updates_when_using_room/)
+- [Gestures in Jetpack compose — All you need to know — Part 2](https://www.reddit.com/r/androiddev/comments/1821i7m/gestures_in_jetpack_compose_all_you_need_to_know/)
+- [How to update stateflow value in my viewmodel based on broadcast receiver&#39;s onReceive?](https://www.reddit.com/r/androiddev/comments/181yjsn/how_to_update_stateflow_value_in_my_viewmodel/)
+- [Build Video Calling for Your Android WhatsApp Clone With Jetpack Compose](https://www.reddit.com/r/androiddev/comments/181x6jq/build_video_calling_for_your_android_whatsapp/)
+- [Zap: A library for building multi-device applications](https://www.reddit.com/r/androiddev/comments/181u247/zap_a_library_for_building_multidevice/)
 - [Made a Jetpack Compose library for reordering items in a LazyColumn with drag and drop](https://www.reddit.com/r/androiddev/comments/181hemp/made_a_jetpack_compose_library_for_reordering/)
 - [If I delete my developer account...](https://www.reddit.com/r/androiddev/comments/181cn5m/if_i_delete_my_developer_account/)
 - [If I delete my developer account...](https://www.reddit.com/r/androiddev/comments/181cmvy/if_i_delete_my_developer_account/)
 - [What are inline value classes in Kotlin and when you should use them](https://www.reddit.com/r/androiddev/comments/1818c50/what_are_inline_value_classes_in_kotlin_and_when/)
-- [Airbnb clone with Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/180yo2k/airbnb_clone_with_kotlin_multiplatform/)
-- [SpeechRecognizer API single words?](https://www.reddit.com/r/androiddev/comments/180j6l7/speechrecognizer_api_single_words/)
-- [Can i upload app under my name at first for beta testers, and later under company name?](https://www.reddit.com/r/androiddev/comments/180hilp/can_i_upload_app_under_my_name_at_first_for_beta/)
-- [Experimenting with my latest architectural design on the Sunflower clone project.](https://www.reddit.com/r/androiddev/comments/180e6e7/experimenting_with_my_latest_architectural_design/)
-- [Video in hidden folder](https://www.reddit.com/r/androiddev/comments/180db99/video_in_hidden_folder/)
-- [Transferring app to new Google Play account - what about subscriptions?](https://www.reddit.com/r/androiddev/comments/180cvh3/transferring_app_to_new_google_play_account_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
