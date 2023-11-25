@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Play Store rules - White Labelling - Do I need separate accounts?](https://www.reddit.com/r/androiddev/comments/1834yvy/play_store_rules_white_labelling_do_i_need/)
+- [Good cheap device for developing own ROM?](https://www.reddit.com/r/androiddev/comments/18346dv/good_cheap_device_for_developing_own_rom/)
+- [What will happen to my app when I die?](https://www.reddit.com/r/androiddev/comments/1830og1/what_will_happen_to_my_app_when_i_die/)
+- [Wireless Debugging connected device keeps dropping in and out](https://www.reddit.com/r/androiddev/comments/182wqmc/wireless_debugging_connected_device_keeps/)
+- [help please. imei showing as 0 but have phone signal and mobile data working.](https://www.reddit.com/r/androiddev/comments/182w2i0/help_please_imei_showing_as_0_but_have_phone/)
+- [AMA Announcement: Join Mobile App Security Experts Dennis Titze and Ryan Lloyd from Guardsquare on December 5th for a Q&amp;A Session!](https://www.reddit.com/r/androiddev/comments/182vs6z/ama_announcement_join_mobile_app_security_experts/)
+- [What does Android struggle with v iOS?](https://www.reddit.com/r/androiddev/comments/182ss5g/what_does_android_struggle_with_v_ios/)
+- [my app is getting rejected for Disruptive Ads but i don&#39;t know what&#39;s rong or what to change](https://www.reddit.com/r/androiddev/comments/182rudk/my_app_is_getting_rejected_for_disruptive_ads_but/)
+- [How many modules do you have in your project?](https://www.reddit.com/r/androiddev/comments/182paxy/how_many_modules_do_you_have_in_your_project/)
 - [🎉 Introducing ksoup 0.0.5: A Game-Changer for Android Developers!](https://www.reddit.com/r/androiddev/comments/182ee0w/introducing_ksoup_005_a_gamechanger_for_android/)
-- [Optimistic updates when using Room](https://www.reddit.com/r/androiddev/comments/182ecyc/optimistic_updates_when_using_room/)
-- [Gestures in Jetpack compose — All you need to know — Part 2](https://www.reddit.com/r/androiddev/comments/1821i7m/gestures_in_jetpack_compose_all_you_need_to_know/)
-- [How to update stateflow value in my viewmodel based on broadcast receiver&#39;s onReceive?](https://www.reddit.com/r/androiddev/comments/181yjsn/how_to_update_stateflow_value_in_my_viewmodel/)
-- [Build Video Calling for Your Android WhatsApp Clone With Jetpack Compose](https://www.reddit.com/r/androiddev/comments/181x6jq/build_video_calling_for_your_android_whatsapp/)
-- [Zap: A library for building multi-device applications](https://www.reddit.com/r/androiddev/comments/181u247/zap_a_library_for_building_multidevice/)
-- [Made a Jetpack Compose library for reordering items in a LazyColumn with drag and drop](https://www.reddit.com/r/androiddev/comments/181hemp/made_a_jetpack_compose_library_for_reordering/)
-- [If I delete my developer account...](https://www.reddit.com/r/androiddev/comments/181cn5m/if_i_delete_my_developer_account/)
-- [If I delete my developer account...](https://www.reddit.com/r/androiddev/comments/181cmvy/if_i_delete_my_developer_account/)
-- [What are inline value classes in Kotlin and when you should use them](https://www.reddit.com/r/androiddev/comments/1818c50/what_are_inline_value_classes_in_kotlin_and_when/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
