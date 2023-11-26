@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Merchant account from unsupported country](https://www.reddit.com/r/androiddev/comments/183esyf/merchant_account_from_unsupported_country/)
 - [Play Store rules - White Labelling - Do I need separate accounts?](https://www.reddit.com/r/androiddev/comments/1834yvy/play_store_rules_white_labelling_do_i_need/)
 - [Good cheap device for developing own ROM?](https://www.reddit.com/r/androiddev/comments/18346dv/good_cheap_device_for_developing_own_rom/)
 - [What will happen to my app when I die?](https://www.reddit.com/r/androiddev/comments/1830og1/what_will_happen_to_my_app_when_i_die/)
 - [Wireless Debugging connected device keeps dropping in and out](https://www.reddit.com/r/androiddev/comments/182wqmc/wireless_debugging_connected_device_keeps/)
-- [help please. imei showing as 0 but have phone signal and mobile data working.](https://www.reddit.com/r/androiddev/comments/182w2i0/help_please_imei_showing_as_0_but_have_phone/)
 - [AMA Announcement: Join Mobile App Security Experts Dennis Titze and Ryan Lloyd from Guardsquare on December 5th for a Q&amp;A Session!](https://www.reddit.com/r/androiddev/comments/182vs6z/ama_announcement_join_mobile_app_security_experts/)
 - [What does Android struggle with v iOS?](https://www.reddit.com/r/androiddev/comments/182ss5g/what_does_android_struggle_with_v_ios/)
 - [my app is getting rejected for Disruptive Ads but i don&#39;t know what&#39;s rong or what to change](https://www.reddit.com/r/androiddev/comments/182rudk/my_app_is_getting_rejected_for_disruptive_ads_but/)
 - [How many modules do you have in your project?](https://www.reddit.com/r/androiddev/comments/182paxy/how_many_modules_do_you_have_in_your_project/)
-- [🎉 Introducing ksoup 0.0.5: A Game-Changer for Android Developers!](https://www.reddit.com/r/androiddev/comments/182ee0w/introducing_ksoup_005_a_gamechanger_for_android/)
+- [Optimistic updates when using Room](https://www.reddit.com/r/androiddev/comments/182ecyc/optimistic_updates_when_using_room/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
