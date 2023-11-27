@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [layout preview stops working when I use app:layout_behavior=&quot;@string/appbar_scrolling_view_behavior&quot;](https://www.reddit.com/r/androiddev/comments/184o2d4/layout_preview_stops_working_when_i_use_applayout/)
+- [Android Studio Emulator - Initiate a Factory Reset for Testing](https://www.reddit.com/r/androiddev/comments/184jdtj/android_studio_emulator_initiate_a_factory_reset/)
+- [Medium Membership and Accessing Android Dev Articles on Medium](https://www.reddit.com/r/androiddev/comments/184du3z/medium_membership_and_accessing_android_dev/)
+- [Google&#39;s GDPR Consent Form has a memory leak](https://www.reddit.com/r/androiddev/comments/1844ogy/googles_gdpr_consent_form_has_a_memory_leak/)
+- [Trailing lambda syntax - Readability](https://www.reddit.com/r/androiddev/comments/1842zik/trailing_lambda_syntax_readability/)
 - [Merchant account from unsupported country](https://www.reddit.com/r/androiddev/comments/183esyf/merchant_account_from_unsupported_country/)
 - [Play Store rules - White Labelling - Do I need separate accounts?](https://www.reddit.com/r/androiddev/comments/1834yvy/play_store_rules_white_labelling_do_i_need/)
 - [Good cheap device for developing own ROM?](https://www.reddit.com/r/androiddev/comments/18346dv/good_cheap_device_for_developing_own_rom/)
 - [What will happen to my app when I die?](https://www.reddit.com/r/androiddev/comments/1830og1/what_will_happen_to_my_app_when_i_die/)
 - [Wireless Debugging connected device keeps dropping in and out](https://www.reddit.com/r/androiddev/comments/182wqmc/wireless_debugging_connected_device_keeps/)
-- [AMA Announcement: Join Mobile App Security Experts Dennis Titze and Ryan Lloyd from Guardsquare on December 5th for a Q&amp;A Session!](https://www.reddit.com/r/androiddev/comments/182vs6z/ama_announcement_join_mobile_app_security_experts/)
-- [What does Android struggle with v iOS?](https://www.reddit.com/r/androiddev/comments/182ss5g/what_does_android_struggle_with_v_ios/)
-- [my app is getting rejected for Disruptive Ads but i don&#39;t know what&#39;s rong or what to change](https://www.reddit.com/r/androiddev/comments/182rudk/my_app_is_getting_rejected_for_disruptive_ads_but/)
-- [How many modules do you have in your project?](https://www.reddit.com/r/androiddev/comments/182paxy/how_many_modules_do_you_have_in_your_project/)
-- [Optimistic updates when using Room](https://www.reddit.com/r/androiddev/comments/182ecyc/optimistic_updates_when_using_room/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
