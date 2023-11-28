@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [layout preview stops working when I use app:layout_behavior=&quot;@string/appbar_scrolling_view_behavior&quot;](https://www.reddit.com/r/androiddev/comments/184o2d4/layout_preview_stops_working_when_i_use_applayout/)
+- [Google Play Console Question](https://www.reddit.com/r/androiddev/comments/185jyj7/google_play_console_question/)
+- [Safety data](https://www.reddit.com/r/androiddev/comments/1858kye/safety_data/)
+- [Component-based Approach. Implementing Screens with the Decompose Library](https://www.reddit.com/r/androiddev/comments/185696a/componentbased_approach_implementing_screens_with/)
+- [Weekly Who&#39;s Hiring Thread - November 27, 2023](https://www.reddit.com/r/androiddev/comments/1853l5z/weekly_whos_hiring_thread_november_27_2023/)
+- [Weekly discussion, code review, and feedback thread - November 27, 2023](https://www.reddit.com/r/androiddev/comments/1852f1d/weekly_discussion_code_review_and_feedback_thread/)
+- [Exploring Molecule and Beyond with Jake Wharton](https://www.reddit.com/r/androiddev/comments/184z188/exploring_molecule_and_beyond_with_jake_wharton/)
+- [Become a Koin Community Lead](https://www.reddit.com/r/androiddev/comments/184yehw/become_a_koin_community_lead/)
 - [Android Studio Emulator - Initiate a Factory Reset for Testing](https://www.reddit.com/r/androiddev/comments/184jdtj/android_studio_emulator_initiate_a_factory_reset/)
 - [Medium Membership and Accessing Android Dev Articles on Medium](https://www.reddit.com/r/androiddev/comments/184du3z/medium_membership_and_accessing_android_dev/)
 - [Google&#39;s GDPR Consent Form has a memory leak](https://www.reddit.com/r/androiddev/comments/1844ogy/googles_gdpr_consent_form_has_a_memory_leak/)
-- [Trailing lambda syntax - Readability](https://www.reddit.com/r/androiddev/comments/1842zik/trailing_lambda_syntax_readability/)
-- [Merchant account from unsupported country](https://www.reddit.com/r/androiddev/comments/183esyf/merchant_account_from_unsupported_country/)
-- [Play Store rules - White Labelling - Do I need separate accounts?](https://www.reddit.com/r/androiddev/comments/1834yvy/play_store_rules_white_labelling_do_i_need/)
-- [Good cheap device for developing own ROM?](https://www.reddit.com/r/androiddev/comments/18346dv/good_cheap_device_for_developing_own_rom/)
-- [What will happen to my app when I die?](https://www.reddit.com/r/androiddev/comments/1830og1/what_will_happen_to_my_app_when_i_die/)
-- [Wireless Debugging connected device keeps dropping in and out](https://www.reddit.com/r/androiddev/comments/182wqmc/wireless_debugging_connected_device_keeps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
