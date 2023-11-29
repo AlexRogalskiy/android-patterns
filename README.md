@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [@Composable memory leak crash: my journey of researching a tricky bug](https://www.reddit.com/r/androiddev/comments/186anvh/composable_memory_leak_crash_my_journey_of/)
+- [Your thoughts and experiences on Room performances](https://www.reddit.com/r/androiddev/comments/186afzc/your_thoughts_and_experiences_on_room_performances/)
+- [Android Studio Iguana | 2023.2.1 Canary 15 now available](https://www.reddit.com/r/androiddev/comments/18628oq/android_studio_iguana_202321_canary_15_now/)
+- [Google&#39;s consent message in combination with Analytics and Crashlytics](https://www.reddit.com/r/androiddev/comments/1861fyu/googles_consent_message_in_combination_with/)
+- [How is your QC team structure?](https://www.reddit.com/r/androiddev/comments/185p0ds/how_is_your_qc_team_structure/)
+- [Thoughts on Compose Navigation?](https://www.reddit.com/r/androiddev/comments/185kin1/thoughts_on_compose_navigation/)
 - [Google Play Console Question](https://www.reddit.com/r/androiddev/comments/185jyj7/google_play_console_question/)
 - [Safety data](https://www.reddit.com/r/androiddev/comments/1858kye/safety_data/)
 - [Component-based Approach. Implementing Screens with the Decompose Library](https://www.reddit.com/r/androiddev/comments/185696a/componentbased_approach_implementing_screens_with/)
 - [Weekly Who&#39;s Hiring Thread - November 27, 2023](https://www.reddit.com/r/androiddev/comments/1853l5z/weekly_whos_hiring_thread_november_27_2023/)
-- [Weekly discussion, code review, and feedback thread - November 27, 2023](https://www.reddit.com/r/androiddev/comments/1852f1d/weekly_discussion_code_review_and_feedback_thread/)
-- [Exploring Molecule and Beyond with Jake Wharton](https://www.reddit.com/r/androiddev/comments/184z188/exploring_molecule_and_beyond_with_jake_wharton/)
-- [Become a Koin Community Lead](https://www.reddit.com/r/androiddev/comments/184yehw/become_a_koin_community_lead/)
-- [Android Studio Emulator - Initiate a Factory Reset for Testing](https://www.reddit.com/r/androiddev/comments/184jdtj/android_studio_emulator_initiate_a_factory_reset/)
-- [Medium Membership and Accessing Android Dev Articles on Medium](https://www.reddit.com/r/androiddev/comments/184du3z/medium_membership_and_accessing_android_dev/)
-- [Google&#39;s GDPR Consent Form has a memory leak](https://www.reddit.com/r/androiddev/comments/1844ogy/googles_gdpr_consent_form_has_a_memory_leak/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
