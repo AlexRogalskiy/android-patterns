@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why register on the call-site is different from the implementation-site?](https://www.reddit.com/r/androiddev/comments/186zshg/why_register_on_the_callsite_is_different_from/)
+- [freeDictionary is a simple android application for freeDictionaryAPI](https://www.reddit.com/r/androiddev/comments/186yyww/freedictionary_is_a_simple_android_application/)
+- [What is important for a well working Android development team?](https://www.reddit.com/r/androiddev/comments/186xoyf/what_is_important_for_a_well_working_android/)
+- [FlexibleBottomSheet - Advanced Jetpack Compose bottom sheet for segmented sizing and non-modal type, similar to Google Maps.](https://www.reddit.com/r/androiddev/comments/186nlgp/flexiblebottomsheet_advanced_jetpack_compose/)
+- [Play developer registration suddenly not possible from Andorra](https://www.reddit.com/r/androiddev/comments/186lmas/play_developer_registration_suddenly_not_possible/)
+- [Country Code Picker Lib](https://www.reddit.com/r/androiddev/comments/186k4tl/country_code_picker_lib/)
 - [@Composable memory leak crash: my journey of researching a tricky bug](https://www.reddit.com/r/androiddev/comments/186anvh/composable_memory_leak_crash_my_journey_of/)
 - [Your thoughts and experiences on Room performances](https://www.reddit.com/r/androiddev/comments/186afzc/your_thoughts_and_experiences_on_room_performances/)
 - [Android Studio Iguana | 2023.2.1 Canary 15 now available](https://www.reddit.com/r/androiddev/comments/18628oq/android_studio_iguana_202321_canary_15_now/)
 - [Google&#39;s consent message in combination with Analytics and Crashlytics](https://www.reddit.com/r/androiddev/comments/1861fyu/googles_consent_message_in_combination_with/)
-- [How is your QC team structure?](https://www.reddit.com/r/androiddev/comments/185p0ds/how_is_your_qc_team_structure/)
-- [Thoughts on Compose Navigation?](https://www.reddit.com/r/androiddev/comments/185kin1/thoughts_on_compose_navigation/)
-- [Google Play Console Question](https://www.reddit.com/r/androiddev/comments/185jyj7/google_play_console_question/)
-- [Safety data](https://www.reddit.com/r/androiddev/comments/1858kye/safety_data/)
-- [Component-based Approach. Implementing Screens with the Decompose Library](https://www.reddit.com/r/androiddev/comments/185696a/componentbased_approach_implementing_screens_with/)
-- [Weekly Who&#39;s Hiring Thread - November 27, 2023](https://www.reddit.com/r/androiddev/comments/1853l5z/weekly_whos_hiring_thread_november_27_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
