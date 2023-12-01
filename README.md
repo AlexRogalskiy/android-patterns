@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why register on the call-site is different from the implementation-site?](https://www.reddit.com/r/androiddev/comments/186zshg/why_register_on_the_callsite_is_different_from/)
-- [freeDictionary is a simple android application for freeDictionaryAPI](https://www.reddit.com/r/androiddev/comments/186yyww/freedictionary_is_a_simple_android_application/)
-- [What is important for a well working Android development team?](https://www.reddit.com/r/androiddev/comments/186xoyf/what_is_important_for_a_well_working_android/)
-- [FlexibleBottomSheet - Advanced Jetpack Compose bottom sheet for segmented sizing and non-modal type, similar to Google Maps.](https://www.reddit.com/r/androiddev/comments/186nlgp/flexiblebottomsheet_advanced_jetpack_compose/)
-- [Play developer registration suddenly not possible from Andorra](https://www.reddit.com/r/androiddev/comments/186lmas/play_developer_registration_suddenly_not_possible/)
-- [Country Code Picker Lib](https://www.reddit.com/r/androiddev/comments/186k4tl/country_code_picker_lib/)
-- [@Composable memory leak crash: my journey of researching a tricky bug](https://www.reddit.com/r/androiddev/comments/186anvh/composable_memory_leak_crash_my_journey_of/)
-- [Your thoughts and experiences on Room performances](https://www.reddit.com/r/androiddev/comments/186afzc/your_thoughts_and_experiences_on_room_performances/)
-- [Android Studio Iguana | 2023.2.1 Canary 15 now available](https://www.reddit.com/r/androiddev/comments/18628oq/android_studio_iguana_202321_canary_15_now/)
-- [Google&#39;s consent message in combination with Analytics and Crashlytics](https://www.reddit.com/r/androiddev/comments/1861fyu/googles_consent_message_in_combination_with/)
+- [Anyway to take a screenshot of just the activity window without having to write a bunch of code? I want a pic of my UI with a transparent background so can try out some designs in Photoshop but adb always takes a pic of the whole screen](https://www.reddit.com/r/androiddev/comments/187wqgy/anyway_to_take_a_screenshot_of_just_the_activity/)
+- [Android Studio Iguana | 2023.2.1 Canary 16 now available](https://www.reddit.com/r/androiddev/comments/187vwd4/android_studio_iguana_202321_canary_16_now/)
+- [What&#39;s the best way to make an app proxy system HTTP traffic for specific domains in Android?](https://www.reddit.com/r/androiddev/comments/187vfn2/whats_the_best_way_to_make_an_app_proxy_system/)
+- [How were android apps developed between before 2012?](https://www.reddit.com/r/androiddev/comments/187u4fp/how_were_android_apps_developed_between_before/)
+- [Data Safety section missing?](https://www.reddit.com/r/androiddev/comments/187rpy7/data_safety_section_missing/)
+- [Android Studio Hedgehog | 2023.1.1 now available](https://www.reddit.com/r/androiddev/comments/187q3qm/android_studio_hedgehog_202311_now_available/)
+- [Espresso cant find a previously clicked card...](https://www.reddit.com/r/androiddev/comments/187owc5/espresso_cant_find_a_previously_clicked_card/)
+- [So is it fair to assume there will be no more annual Android Dev Summits?](https://www.reddit.com/r/androiddev/comments/187kmpd/so_is_it_fair_to_assume_there_will_be_no_more/)
+- [Helpful discord community for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/187i9s5/helpful_discord_community_for_jetpack_compose/)
+- [I got notification for New review on my android app and it did disappear](https://www.reddit.com/r/androiddev/comments/187gf49/i_got_notification_for_new_review_on_my_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
