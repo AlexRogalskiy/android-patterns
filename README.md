@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it save to let AdMob create my GDPR consent message?](https://www.reddit.com/r/androiddev/comments/189db7d/is_it_save_to_let_admob_create_my_gdpr_consent/)
+- [Google requires me to add account deletion page for apps without accounts](https://www.reddit.com/r/androiddev/comments/1894xst/google_requires_me_to_add_account_deletion_page/)
+- [Google In-app Rating Review Quota](https://www.reddit.com/r/androiddev/comments/1892yc1/google_inapp_rating_review_quota/)
+- [how to provide account deletion if you don&#39;t offer creation of accounts? gdpr](https://www.reddit.com/r/androiddev/comments/1892fh4/how_to_provide_account_deletion_if_you_dont_offer/)
+- [Jetpack Navigation, ViewModel and UDF](https://www.reddit.com/r/androiddev/comments/188zte4/jetpack_navigation_viewmodel_and_udf/)
+- [Yet Another ChatGPT Client Clone for Android with Kotlin and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/188zlzy/yet_another_chatgpt_client_clone_for_android_with/)
 - [Play Store app organic search activity experiences as indie dev](https://www.reddit.com/r/androiddev/comments/188j4qa/play_store_app_organic_search_activity/)
 - [First look at AndroidX Bluetooth - cautiously surprised but lot of areas for improvement!](https://www.reddit.com/r/androiddev/comments/188dtu5/first_look_at_androidx_bluetooth_cautiously/)
 - [Is the Ability to Maintain Subscription Benefits After Switching Google Play Accounts an Exploit or Intentional Feature?](https://www.reddit.com/r/androiddev/comments/1888hf9/is_the_ability_to_maintain_subscription_benefits/)
 - [Flavor specific native files](https://www.reddit.com/r/androiddev/comments/188264z/flavor_specific_native_files/)
-- [Android Studio Iguana | 2023.2.1 Canary 16 now available](https://www.reddit.com/r/androiddev/comments/187vwd4/android_studio_iguana_202321_canary_16_now/)
-- [How were android apps developed between before 2012?](https://www.reddit.com/r/androiddev/comments/187u4fp/how_were_android_apps_developed_between_before/)
-- [Data Safety section missing?](https://www.reddit.com/r/androiddev/comments/187rpy7/data_safety_section_missing/)
-- [Android Studio Hedgehog | 2023.1.1 now available](https://www.reddit.com/r/androiddev/comments/187q3qm/android_studio_hedgehog_202311_now_available/)
-- [Espresso cant find a previously clicked card...](https://www.reddit.com/r/androiddev/comments/187owc5/espresso_cant_find_a_previously_clicked_card/)
-- [So is it fair to assume there will be no more annual Android Dev Summits?](https://www.reddit.com/r/androiddev/comments/187kmpd/so_is_it_fair_to_assume_there_will_be_no_more/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
