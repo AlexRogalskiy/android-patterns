@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Keyword spotting](https://www.reddit.com/r/androiddev/comments/189wi3j/keyword_spotting/)
-- [How to scroll through side bar tool windows &lpar;android studio&rpar;?](https://www.reddit.com/r/androiddev/comments/189sbyr/how_to_scroll_through_side_bar_tool_windows/)
-- [HILT - ViewModel - Activity -&gt; Navigation -&gt; Composable element](https://www.reddit.com/r/androiddev/comments/189nhiw/hilt_viewmodel_activity_navigation_composable/)
-- [As of now, What is the best performed Android Charting Library?](https://www.reddit.com/r/androiddev/comments/189mlv8/as_of_now_what_is_the_best_performed_android/)
-- [Is it save to let AdMob create my GDPR consent message?](https://www.reddit.com/r/androiddev/comments/189db7d/is_it_save_to_let_admob_create_my_gdpr_consent/)
-- [Google requires me to add account deletion page for apps without accounts](https://www.reddit.com/r/androiddev/comments/1894xst/google_requires_me_to_add_account_deletion_page/)
-- [Google In-app Rating Review Quota](https://www.reddit.com/r/androiddev/comments/1892yc1/google_inapp_rating_review_quota/)
-- [how to provide account deletion if you don&#39;t offer creation of accounts? gdpr](https://www.reddit.com/r/androiddev/comments/1892fh4/how_to_provide_account_deletion_if_you_dont_offer/)
-- [Jetpack Navigation, ViewModel and UDF](https://www.reddit.com/r/androiddev/comments/188zte4/jetpack_navigation_viewmodel_and_udf/)
-- [Yet Another ChatGPT Client Clone for Android with Kotlin and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/188zlzy/yet_another_chatgpt_client_clone_for_android_with/)
+- [Sub or community for indie developers?](https://www.reddit.com/r/androiddev/comments/18axrl2/sub_or_community_for_indie_developers/)
+- [Webview in compose](https://www.reddit.com/r/androiddev/comments/18at4q7/webview_in_compose/)
+- [AMA: Ask Us Anything about Mobile App Security!](https://www.reddit.com/r/androiddev/comments/18arazr/ama_ask_us_anything_about_mobile_app_security/)
+- [Data Safety Form - Account Deletion Update](https://www.reddit.com/r/androiddev/comments/18ap8oa/data_safety_form_account_deletion_update/)
+- [How to detect if task bar is shown?](https://www.reddit.com/r/androiddev/comments/18alcao/how_to_detect_if_task_bar_is_shown/)
+- [Weekly Who&#39;s Hiring Thread - December 04, 2023](https://www.reddit.com/r/androiddev/comments/18aksfh/weekly_whos_hiring_thread_december_04_2023/)
+- [Auto-formater for Android &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/18ak4c8/autoformater_for_android_kotlin/)
+- [Weekly discussion, code review, and feedback thread - December 04, 2023](https://www.reddit.com/r/androiddev/comments/18ajoze/weekly_discussion_code_review_and_feedback_thread/)
+- [Is there any reason why there&#39;s no firs-class support for JUnit v5 in Android?](https://www.reddit.com/r/androiddev/comments/18agyrg/is_there_any_reason_why_theres_no_firsclass/)
+- [LeakCanary Masterclass with Pierre-Yves Ricau - Unraveling Android Memory Leaks](https://www.reddit.com/r/androiddev/comments/18agfxx/leakcanary_masterclass_with_pierreyves_ricau/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
