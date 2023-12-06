@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CardView inside RecyclerView - the stretch overscroll seems to make the card shadows darker](https://www.reddit.com/r/androiddev/comments/18bk9ol/cardview_inside_recyclerview_the_stretch/)
+- [Dagger 2.49 &lpar;KSP, @AssistedInject with @HiltViewModel, more&rpar;](https://www.reddit.com/r/androiddev/comments/18b8e76/dagger_249_ksp_assistedinject_with_hiltviewmodel/)
 - [Sub or community for indie developers?](https://www.reddit.com/r/androiddev/comments/18axrl2/sub_or_community_for_indie_developers/)
 - [Webview in compose](https://www.reddit.com/r/androiddev/comments/18at4q7/webview_in_compose/)
 - [AMA: Ask Us Anything about Mobile App Security!](https://www.reddit.com/r/androiddev/comments/18arazr/ama_ask_us_anything_about_mobile_app_security/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Weekly Who&#39;s Hiring Thread - December 04, 2023](https://www.reddit.com/r/androiddev/comments/18aksfh/weekly_whos_hiring_thread_december_04_2023/)
 - [Auto-formater for Android &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/18ak4c8/autoformater_for_android_kotlin/)
 - [Weekly discussion, code review, and feedback thread - December 04, 2023](https://www.reddit.com/r/androiddev/comments/18ajoze/weekly_discussion_code_review_and_feedback_thread/)
-- [Is there any reason why there&#39;s no firs-class support for JUnit v5 in Android?](https://www.reddit.com/r/androiddev/comments/18agyrg/is_there_any_reason_why_theres_no_firsclass/)
-- [LeakCanary Masterclass with Pierre-Yves Ricau - Unraveling Android Memory Leaks](https://www.reddit.com/r/androiddev/comments/18agfxx/leakcanary_masterclass_with_pierreyves_ricau/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
