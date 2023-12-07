@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [CardView inside RecyclerView - the stretch overscroll seems to make the card shadows darker](https://www.reddit.com/r/androiddev/comments/18bk9ol/cardview_inside_recyclerview_the_stretch/)
-- [Dagger 2.49 &lpar;KSP, @AssistedInject with @HiltViewModel, more&rpar;](https://www.reddit.com/r/androiddev/comments/18b8e76/dagger_249_ksp_assistedinject_with_hiltviewmodel/)
-- [Sub or community for indie developers?](https://www.reddit.com/r/androiddev/comments/18axrl2/sub_or_community_for_indie_developers/)
-- [Webview in compose](https://www.reddit.com/r/androiddev/comments/18at4q7/webview_in_compose/)
-- [AMA: Ask Us Anything about Mobile App Security!](https://www.reddit.com/r/androiddev/comments/18arazr/ama_ask_us_anything_about_mobile_app_security/)
-- [Data Safety Form - Account Deletion Update](https://www.reddit.com/r/androiddev/comments/18ap8oa/data_safety_form_account_deletion_update/)
-- [How to detect if task bar is shown?](https://www.reddit.com/r/androiddev/comments/18alcao/how_to_detect_if_task_bar_is_shown/)
-- [Weekly Who&#39;s Hiring Thread - December 04, 2023](https://www.reddit.com/r/androiddev/comments/18aksfh/weekly_whos_hiring_thread_december_04_2023/)
-- [Auto-formater for Android &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/18ak4c8/autoformater_for_android_kotlin/)
-- [Weekly discussion, code review, and feedback thread - December 04, 2023](https://www.reddit.com/r/androiddev/comments/18ajoze/weekly_discussion_code_review_and_feedback_thread/)
+- [الليث](https://www.reddit.com/r/androiddev/comments/18cegyl/الليث/)
+- [Google Play Store reviewers keep messing with production data - how to get them to stop?](https://www.reddit.com/r/androiddev/comments/18ce6nq/google_play_store_reviewers_keep_messing_with/)
+- [I&#39;m regards to the Account Deletion requirements](https://www.reddit.com/r/androiddev/comments/18ce695/im_regards_to_the_account_deletion_requirements/)
+- [Flutter Instagram Clone with Firebase - Part 6: Home Screen](https://www.reddit.com/r/androiddev/comments/18cciom/flutter_instagram_clone_with_firebase_part_6_home/)
+- [Webinar Recap: iOS Development with Kotlin Multiplatform - Tips, Tricks, and Team Triumphs!](https://www.reddit.com/r/androiddev/comments/18ccgtv/webinar_recap_ios_development_with_kotlin/)
+- [Changing storage location on pixel 8pro](https://www.reddit.com/r/androiddev/comments/18cb9el/changing_storage_location_on_pixel_8pro/)
+- [Recommended Consultancy Companys for Achieving App Growth](https://www.reddit.com/r/androiddev/comments/18cb229/recommended_consultancy_companys_for_achieving/)
+- [Android OS is getting its own built-in AI model](https://www.reddit.com/r/androiddev/comments/18c9kam/android_os_is_getting_its_own_builtin_ai_model/)
+- [Question about linking two developer accounts](https://www.reddit.com/r/androiddev/comments/18c8b9w/question_about_linking_two_developer_accounts/)
+- [A New Foundation for AI on Android](https://www.reddit.com/r/androiddev/comments/18c8av6/a_new_foundation_for_ai_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
