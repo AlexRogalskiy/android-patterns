@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [الليث](https://www.reddit.com/r/androiddev/comments/18cegyl/الليث/)
-- [Google Play Store reviewers keep messing with production data - how to get them to stop?](https://www.reddit.com/r/androiddev/comments/18ce6nq/google_play_store_reviewers_keep_messing_with/)
-- [I&#39;m regards to the Account Deletion requirements](https://www.reddit.com/r/androiddev/comments/18ce695/im_regards_to_the_account_deletion_requirements/)
-- [Flutter Instagram Clone with Firebase - Part 6: Home Screen](https://www.reddit.com/r/androiddev/comments/18cciom/flutter_instagram_clone_with_firebase_part_6_home/)
-- [Webinar Recap: iOS Development with Kotlin Multiplatform - Tips, Tricks, and Team Triumphs!](https://www.reddit.com/r/androiddev/comments/18ccgtv/webinar_recap_ios_development_with_kotlin/)
-- [Changing storage location on pixel 8pro](https://www.reddit.com/r/androiddev/comments/18cb9el/changing_storage_location_on_pixel_8pro/)
-- [Recommended Consultancy Companys for Achieving App Growth](https://www.reddit.com/r/androiddev/comments/18cb229/recommended_consultancy_companys_for_achieving/)
-- [Android OS is getting its own built-in AI model](https://www.reddit.com/r/androiddev/comments/18c9kam/android_os_is_getting_its_own_builtin_ai_model/)
-- [Question about linking two developer accounts](https://www.reddit.com/r/androiddev/comments/18c8b9w/question_about_linking_two_developer_accounts/)
-- [A New Foundation for AI on Android](https://www.reddit.com/r/androiddev/comments/18c8av6/a_new_foundation_for_ai_on_android/)
+- [Reddit Recap: State of Mobile Platforms Edition &lpar;2023 Edition&rpar;](https://www.reddit.com/r/androiddev/comments/18dbgnz/reddit_recap_state_of_mobile_platforms_edition/)
+- [Android car head unit flavor of android](https://www.reddit.com/r/androiddev/comments/18d9lk3/android_car_head_unit_flavor_of_android/)
+- [Android Studio Iguana | 2023.2.1 Canary 17 now available](https://www.reddit.com/r/androiddev/comments/18d9fo9/android_studio_iguana_202321_canary_17_now/)
+- [Authentication - Is It Scaring Away Potential Users?](https://www.reddit.com/r/androiddev/comments/18d5x03/authentication_is_it_scaring_away_potential_users/)
+- [How good is https://www.virustotal.com/ to scan an apk?](https://www.reddit.com/r/androiddev/comments/18d4tds/how_good_is_httpswwwvirustotalcom_to_scan_an_apk/)
+- [Audio and Video programming in Android with JNI](https://www.reddit.com/r/androiddev/comments/18d3owq/audio_and_video_programming_in_android_with_jni/)
+- [Tax Residency Certificate cannot be uploaded due to Expiration date as a mandatory field](https://www.reddit.com/r/androiddev/comments/18d367v/tax_residency_certificate_cannot_be_uploaded_due/)
+- [KSP2 Preview: Kotlin K2 and Standalone Source Generator](https://www.reddit.com/r/androiddev/comments/18d31gc/ksp2_preview_kotlin_k2_and_standalone_source/)
+- [Right way to manage background network task with notifications](https://www.reddit.com/r/androiddev/comments/18d1cav/right_way_to_manage_background_network_task_with/)
+- [Google delete my account and app for no reason](https://www.reddit.com/r/androiddev/comments/18d0tge/google_delete_my_account_and_app_for_no_reason/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
