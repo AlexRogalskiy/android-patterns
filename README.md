@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about Google Play Strike Removal program](https://www.reddit.com/r/androiddev/comments/18du3rp/question_about_google_play_strike_removal_program/)
+- [What are the real use cases that led you to use Kotlin extension functions or properties in your projects?](https://www.reddit.com/r/androiddev/comments/18drwq8/what_are_the_real_use_cases_that_led_you_to_use/)
+- [Flutter Responsive UI : Crafting Dynamic Layouts for Every Device](https://www.reddit.com/r/androiddev/comments/18dm7hh/flutter_responsive_ui_crafting_dynamic_layouts/)
+- [Difference in app quality between Android and iOS](https://www.reddit.com/r/androiddev/comments/18dlz6b/difference_in_app_quality_between_android_and_ios/)
+- [For those DAO, Services, how about using static objects with mockk for test](https://www.reddit.com/r/androiddev/comments/18dk3p9/for_those_dao_services_how_about_using_static/)
+- [Wave Loading View for compose](https://www.reddit.com/r/androiddev/comments/18dg60t/wave_loading_view_for_compose/)
+- [Android Studio Hedgehog: How to keep the last active build variant?](https://www.reddit.com/r/androiddev/comments/18dce5g/android_studio_hedgehog_how_to_keep_the_last/)
 - [Reddit Recap: State of Mobile Platforms Edition &lpar;2023 Edition&rpar;](https://www.reddit.com/r/androiddev/comments/18dbgnz/reddit_recap_state_of_mobile_platforms_edition/)
-- [Android car head unit flavor of android](https://www.reddit.com/r/androiddev/comments/18d9lk3/android_car_head_unit_flavor_of_android/)
 - [Android Studio Iguana | 2023.2.1 Canary 17 now available](https://www.reddit.com/r/androiddev/comments/18d9fo9/android_studio_iguana_202321_canary_17_now/)
 - [Authentication - Is It Scaring Away Potential Users?](https://www.reddit.com/r/androiddev/comments/18d5x03/authentication_is_it_scaring_away_potential_users/)
-- [How good is https://www.virustotal.com/ to scan an apk?](https://www.reddit.com/r/androiddev/comments/18d4tds/how_good_is_httpswwwvirustotalcom_to_scan_an_apk/)
-- [Audio and Video programming in Android with JNI](https://www.reddit.com/r/androiddev/comments/18d3owq/audio_and_video_programming_in_android_with_jni/)
-- [Tax Residency Certificate cannot be uploaded due to Expiration date as a mandatory field](https://www.reddit.com/r/androiddev/comments/18d367v/tax_residency_certificate_cannot_be_uploaded_due/)
-- [KSP2 Preview: Kotlin K2 and Standalone Source Generator](https://www.reddit.com/r/androiddev/comments/18d31gc/ksp2_preview_kotlin_k2_and_standalone_source/)
-- [Right way to manage background network task with notifications](https://www.reddit.com/r/androiddev/comments/18d1cav/right_way_to_manage_background_network_task_with/)
-- [Google delete my account and app for no reason](https://www.reddit.com/r/androiddev/comments/18d0tge/google_delete_my_account_and_app_for_no_reason/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
