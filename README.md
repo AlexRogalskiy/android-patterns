@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do you guys make notes while learning android ?](https://www.reddit.com/r/androiddev/comments/18f7gzg/do_you_guys_make_notes_while_learning_android/)
+- [What data do I need to retreive to get the unique identifier of each android device?](https://www.reddit.com/r/androiddev/comments/18f60qi/what_data_do_i_need_to_retreive_to_get_the_unique/)
 - [How to deal with a LazyColumn that contains items with varying heights?](https://www.reddit.com/r/androiddev/comments/18eldbo/how_to_deal_with_a_lazycolumn_that_contains_items/)
 - [Zooming out Twilio Migration](https://www.reddit.com/r/androiddev/comments/18ealkq/zooming_out_twilio_migration/)
 - [What are the real use cases that led you to use Kotlin extension functions or properties in your projects?](https://www.reddit.com/r/androiddev/comments/18drwq8/what_are_the_real_use_cases_that_led_you_to_use/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [For those DAO, Services, how about using static objects with mockk for test](https://www.reddit.com/r/androiddev/comments/18dk3p9/for_those_dao_services_how_about_using_static/)
 - [Wave Loading View for compose](https://www.reddit.com/r/androiddev/comments/18dg60t/wave_loading_view_for_compose/)
 - [Android Studio Hedgehog: How to keep the last active build variant?](https://www.reddit.com/r/androiddev/comments/18dce5g/android_studio_hedgehog_how_to_keep_the_last/)
-- [Reddit Recap: State of Mobile Platforms Edition &lpar;2023 Edition&rpar;](https://www.reddit.com/r/androiddev/comments/18dbgnz/reddit_recap_state_of_mobile_platforms_edition/)
-- [Android Studio Iguana | 2023.2.1 Canary 17 now available](https://www.reddit.com/r/androiddev/comments/18d9fo9/android_studio_iguana_202321_canary_17_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
