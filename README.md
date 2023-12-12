@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone have news on the Google Play Antitrust Lawsuit Payouts?](https://www.reddit.com/r/androiddev/comments/18g9sk3/anyone_have_news_on_the_google_play_antitrust/)
+- [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.reddit.com/r/androiddev/comments/18g95pi/epic_win_jury_decides_google_has_illegal_monopoly/)
+- [Direct messaging to Instagram/Twitter via &quot;Intents&quot; &lpar;Java&rpar;](https://www.reddit.com/r/androiddev/comments/18g7lt4/direct_messaging_to_instagramtwitter_via_intents/)
+- [Hiw can I find D1, D7, D14 etc retention and other cohort data in Google Play Consile?](https://www.reddit.com/r/androiddev/comments/18g36ot/hiw_can_i_find_d1_d7_d14_etc_retention_and_other/)
+- [Flutter DropdownButton Widget for Beginners: Step-by-Step Guide](https://www.reddit.com/r/androiddev/comments/18fw01x/flutter_dropdownbutton_widget_for_beginners/)
+- [Issues with google play store submissions](https://www.reddit.com/r/androiddev/comments/18fvod2/issues_with_google_play_store_submissions/)
+- [Weekly Who&#39;s Hiring Thread - December 11, 2023](https://www.reddit.com/r/androiddev/comments/18fv6c1/weekly_whos_hiring_thread_december_11_2023/)
+- [Weekly discussion, code review, and feedback thread - December 11, 2023](https://www.reddit.com/r/androiddev/comments/18fu0c1/weekly_discussion_code_review_and_feedback_thread/)
+- [How can I remove a underline of Text on Android Wear Notification?](https://www.reddit.com/r/androiddev/comments/18fmhzk/how_can_i_remove_a_underline_of_text_on_android/)
 - [Do you guys make notes while learning android ?](https://www.reddit.com/r/androiddev/comments/18f7gzg/do_you_guys_make_notes_while_learning_android/)
-- [What data do I need to retreive to get the unique identifier of each android device?](https://www.reddit.com/r/androiddev/comments/18f60qi/what_data_do_i_need_to_retreive_to_get_the_unique/)
-- [How to deal with a LazyColumn that contains items with varying heights?](https://www.reddit.com/r/androiddev/comments/18eldbo/how_to_deal_with_a_lazycolumn_that_contains_items/)
-- [Zooming out Twilio Migration](https://www.reddit.com/r/androiddev/comments/18ealkq/zooming_out_twilio_migration/)
-- [What are the real use cases that led you to use Kotlin extension functions or properties in your projects?](https://www.reddit.com/r/androiddev/comments/18drwq8/what_are_the_real_use_cases_that_led_you_to_use/)
-- [Flutter Responsive UI : Crafting Dynamic Layouts for Every Device](https://www.reddit.com/r/androiddev/comments/18dm7hh/flutter_responsive_ui_crafting_dynamic_layouts/)
-- [Difference in app quality between Android and iOS](https://www.reddit.com/r/androiddev/comments/18dlz6b/difference_in_app_quality_between_android_and_ios/)
-- [For those DAO, Services, how about using static objects with mockk for test](https://www.reddit.com/r/androiddev/comments/18dk3p9/for_those_dao_services_how_about_using_static/)
-- [Wave Loading View for compose](https://www.reddit.com/r/androiddev/comments/18dg60t/wave_loading_view_for_compose/)
-- [Android Studio Hedgehog: How to keep the last active build variant?](https://www.reddit.com/r/androiddev/comments/18dce5g/android_studio_hedgehog_how_to_keep_the_last/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
