@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone have news on the Google Play Antitrust Lawsuit Payouts?](https://www.reddit.com/r/androiddev/comments/18g9sk3/anyone_have_news_on_the_google_play_antitrust/)
-- [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.reddit.com/r/androiddev/comments/18g95pi/epic_win_jury_decides_google_has_illegal_monopoly/)
-- [Direct messaging to Instagram/Twitter via &quot;Intents&quot; &lpar;Java&rpar;](https://www.reddit.com/r/androiddev/comments/18g7lt4/direct_messaging_to_instagramtwitter_via_intents/)
-- [Hiw can I find D1, D7, D14 etc retention and other cohort data in Google Play Consile?](https://www.reddit.com/r/androiddev/comments/18g36ot/hiw_can_i_find_d1_d7_d14_etc_retention_and_other/)
-- [Flutter DropdownButton Widget for Beginners: Step-by-Step Guide](https://www.reddit.com/r/androiddev/comments/18fw01x/flutter_dropdownbutton_widget_for_beginners/)
-- [Issues with google play store submissions](https://www.reddit.com/r/androiddev/comments/18fvod2/issues_with_google_play_store_submissions/)
-- [Weekly Who&#39;s Hiring Thread - December 11, 2023](https://www.reddit.com/r/androiddev/comments/18fv6c1/weekly_whos_hiring_thread_december_11_2023/)
-- [Weekly discussion, code review, and feedback thread - December 11, 2023](https://www.reddit.com/r/androiddev/comments/18fu0c1/weekly_discussion_code_review_and_feedback_thread/)
-- [How can I remove a underline of Text on Android Wear Notification?](https://www.reddit.com/r/androiddev/comments/18fmhzk/how_can_i_remove_a_underline_of_text_on_android/)
-- [Do you guys make notes while learning android ?](https://www.reddit.com/r/androiddev/comments/18f7gzg/do_you_guys_make_notes_while_learning_android/)
+- [Legit or Virus, GitHub Repo Commits and Releases discrepancy](https://www.reddit.com/r/androiddev/comments/18o06db/legit_or_virus_github_repo_commits_and_releases/)
+- [Multiple instances of a class with registerReceiver are receiving each other&#39;s messages.](https://www.reddit.com/r/androiddev/comments/18nzr7l/multiple_instances_of_a_class_with/)
+- [How to integrate TCP server implemented in C socket to Android?](https://www.reddit.com/r/androiddev/comments/18nxdcs/how_to_integrate_tcp_server_implemented_in_c/)
+- [Question about publishing game on Google play](https://www.reddit.com/r/androiddev/comments/18nw9ot/question_about_publishing_game_on_google_play/)
+- [Exploring the Value of RevenueCat for Indie Developers: Beyond Basic SDK Functionality](https://www.reddit.com/r/androiddev/comments/18nm0ai/exploring_the_value_of_revenuecat_for_indie/)
+- [About Admob UMP, can anyone please share statistics of what users choose?](https://www.reddit.com/r/androiddev/comments/18n4gfn/about_admob_ump_can_anyone_please_share/)
+- [Migrate to Kotlin for my app still in development](https://www.reddit.com/r/androiddev/comments/18n10j8/migrate_to_kotlin_for_my_app_still_in_development/)
+- [Dealing with SSL certificates on older APIs](https://www.reddit.com/r/androiddev/comments/18mzro5/dealing_with_ssl_certificates_on_older_apis/)
+- [About Admob UMP, what are the rules/laws of what&#39;s allowed on the app based on user consent status ?](https://www.reddit.com/r/androiddev/comments/18my9ht/about_admob_ump_what_are_the_ruleslaws_of_whats/)
+- [Android&#39;s backward compatibility wondering](https://www.reddit.com/r/androiddev/comments/18mwt8u/androids_backward_compatibility_wondering/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
