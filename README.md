@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Legit or Virus, GitHub Repo Commits and Releases discrepancy](https://www.reddit.com/r/androiddev/comments/18o06db/legit_or_virus_github_repo_commits_and_releases/)
+- [How much is a sensible price for the development of a cross platform mobile app?](https://www.reddit.com/r/androiddev/comments/18oppv7/how_much_is_a_sensible_price_for_the_development/)
+- [Is there any new OpenGL ES tutorials using NDK out there ?](https://www.reddit.com/r/androiddev/comments/18ogc7h/is_there_any_new_opengl_es_tutorials_using_ndk/)
+- [Spam policy violation for free + paid app?](https://www.reddit.com/r/androiddev/comments/18oa1am/spam_policy_violation_for_free_paid_app/)
+- [Why is it so difficult to just have a separate state for when permission is permanently denied?](https://www.reddit.com/r/androiddev/comments/18o7qqd/why_is_it_so_difficult_to_just_have_a_separate/)
+- [Investigating the Rise in Frozen Frames Since March 2022: A Call for Peer Insights](https://www.reddit.com/r/androiddev/comments/18o75mv/investigating_the_rise_in_frozen_frames_since/)
+- [Naming @Composable function representing a data class](https://www.reddit.com/r/androiddev/comments/18o4n5j/naming_composable_function_representing_a_data/)
 - [Multiple instances of a class with registerReceiver are receiving each other&#39;s messages.](https://www.reddit.com/r/androiddev/comments/18nzr7l/multiple_instances_of_a_class_with/)
-- [How to integrate TCP server implemented in C socket to Android?](https://www.reddit.com/r/androiddev/comments/18nxdcs/how_to_integrate_tcp_server_implemented_in_c/)
 - [Question about publishing game on Google play](https://www.reddit.com/r/androiddev/comments/18nw9ot/question_about_publishing_game_on_google_play/)
 - [Exploring the Value of RevenueCat for Indie Developers: Beyond Basic SDK Functionality](https://www.reddit.com/r/androiddev/comments/18nm0ai/exploring_the_value_of_revenuecat_for_indie/)
 - [About Admob UMP, can anyone please share statistics of what users choose?](https://www.reddit.com/r/androiddev/comments/18n4gfn/about_admob_ump_can_anyone_please_share/)
-- [Migrate to Kotlin for my app still in development](https://www.reddit.com/r/androiddev/comments/18n10j8/migrate_to_kotlin_for_my_app_still_in_development/)
-- [Dealing with SSL certificates on older APIs](https://www.reddit.com/r/androiddev/comments/18mzro5/dealing_with_ssl_certificates_on_older_apis/)
-- [About Admob UMP, what are the rules/laws of what&#39;s allowed on the app based on user consent status ?](https://www.reddit.com/r/androiddev/comments/18my9ht/about_admob_ump_what_are_the_ruleslaws_of_whats/)
-- [Android&#39;s backward compatibility wondering](https://www.reddit.com/r/androiddev/comments/18mwt8u/androids_backward_compatibility_wondering/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
