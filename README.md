@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Linux on Android] Introducing NOMone Desktop - Linux and VR!](https://www.reddit.com/r/androiddev/comments/18psg3p/linux_on_android_introducing_nomone_desktop_linux/)
+- [Cat app: Application that fetches a random cat and dog pictures](https://www.reddit.com/r/androiddev/comments/18prgtu/cat_app_application_that_fetches_a_random_cat_and/)
+- [Random app appeared in my Admob account](https://www.reddit.com/r/androiddev/comments/18plr5p/random_app_appeared_in_my_admob_account/)
 - [What am I not understanding about internal/closed testing?](https://www.reddit.com/r/androiddev/comments/18p5o04/what_am_i_not_understanding_about_internalclosed/)
 - [I&#39;m not able to understand what Google allows as a payment gateway &lpar;what&#39;s allowed and what&#39;s not&rpar;](https://www.reddit.com/r/androiddev/comments/18p17aa/im_not_able_to_understand_what_google_allows_as_a/)
 - [Is there a way to replace system level screenshot control with a custom app?](https://www.reddit.com/r/androiddev/comments/18oxwsq/is_there_a_way_to_replace_system_level_screenshot/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [How much is a sensible price for the development of a cross platform mobile app?](https://www.reddit.com/r/androiddev/comments/18oppv7/how_much_is_a_sensible_price_for_the_development/)
 - [Is there any new OpenGL ES tutorials using NDK out there ?](https://www.reddit.com/r/androiddev/comments/18ogc7h/is_there_any_new_opengl_es_tutorials_using_ndk/)
 - [Spam policy violation for free + paid app?](https://www.reddit.com/r/androiddev/comments/18oa1am/spam_policy_violation_for_free_paid_app/)
-- [Why is it so difficult to just have a separate state for when permission is permanently denied?](https://www.reddit.com/r/androiddev/comments/18o7qqd/why_is_it_so_difficult_to_just_have_a_separate/)
-- [Investigating the Rise in Frozen Frames Since March 2022: A Call for Peer Insights](https://www.reddit.com/r/androiddev/comments/18o75mv/investigating_the_rise_in_frozen_frames_since/)
-- [Naming @Composable function representing a data class](https://www.reddit.com/r/androiddev/comments/18o4n5j/naming_composable_function_representing_a_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
