@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mixture of IAB Play Store and Stripe](https://www.reddit.com/r/androiddev/comments/18qtj9z/mixture_of_iab_play_store_and_stripe/)
+- [Unreported Form Factor?](https://www.reddit.com/r/androiddev/comments/18qngsm/unreported_form_factor/)
+- [Weekly Who&#39;s Hiring Thread - December 25, 2023](https://www.reddit.com/r/androiddev/comments/18qj7i8/weekly_whos_hiring_thread_december_25_2023/)
+- [Weekly discussion, code review, and feedback thread - December 25, 2023](https://www.reddit.com/r/androiddev/comments/18qi80i/weekly_discussion_code_review_and_feedback_thread/)
+- [Rejection of Data safety for unpublished app](https://www.reddit.com/r/androiddev/comments/18qg3j2/rejection_of_data_safety_for_unpublished_app/)
 - [[Linux on Android] Introducing NOMone Desktop - Linux and VR!](https://www.reddit.com/r/androiddev/comments/18psg3p/linux_on_android_introducing_nomone_desktop_linux/)
 - [Cat app: Application that fetches a random cat and dog pictures](https://www.reddit.com/r/androiddev/comments/18prgtu/cat_app_application_that_fetches_a_random_cat_and/)
 - [Random app appeared in my Admob account](https://www.reddit.com/r/androiddev/comments/18plr5p/random_app_appeared_in_my_admob_account/)
 - [What am I not understanding about internal/closed testing?](https://www.reddit.com/r/androiddev/comments/18p5o04/what_am_i_not_understanding_about_internalclosed/)
 - [I&#39;m not able to understand what Google allows as a payment gateway &lpar;what&#39;s allowed and what&#39;s not&rpar;](https://www.reddit.com/r/androiddev/comments/18p17aa/im_not_able_to_understand_what_google_allows_as_a/)
-- [Is there a way to replace system level screenshot control with a custom app?](https://www.reddit.com/r/androiddev/comments/18oxwsq/is_there_a_way_to_replace_system_level_screenshot/)
-- [Enabling Cmd Shortcuts in Android Emulator on macOS](https://www.reddit.com/r/androiddev/comments/18oxlm8/enabling_cmd_shortcuts_in_android_emulator_on/)
-- [How much is a sensible price for the development of a cross platform mobile app?](https://www.reddit.com/r/androiddev/comments/18oppv7/how_much_is_a_sensible_price_for_the_development/)
-- [Is there any new OpenGL ES tutorials using NDK out there ?](https://www.reddit.com/r/androiddev/comments/18ogc7h/is_there_any_new_opengl_es_tutorials_using_ndk/)
-- [Spam policy violation for free + paid app?](https://www.reddit.com/r/androiddev/comments/18oa1am/spam_policy_violation_for_free_paid_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
