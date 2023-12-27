@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [uninstalling Android Studio side effects](https://www.reddit.com/r/androiddev/comments/18rivc3/uninstalling_android_studio_side_effects/)
+- [Japan to crack down on Apple and Google app store monopolies](https://www.reddit.com/r/androiddev/comments/18rhad9/japan_to_crack_down_on_apple_and_google_app_store/)
+- [How to make a good decent mobile /android version of your game? Anyone has good tricks and tips?](https://www.reddit.com/r/androiddev/comments/18rfkx6/how_to_make_a_good_decent_mobile_android_version/)
+- [Android Studio Iguana | 2023.2.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/18rfc3a/android_studio_iguana_202321_beta_1_now_available/)
+- [Looking for an open souce APP](https://www.reddit.com/r/androiddev/comments/18r5m8d/looking_for_an_open_souce_app/)
 - [Mixture of IAB Play Store and Stripe](https://www.reddit.com/r/androiddev/comments/18qtj9z/mixture_of_iab_play_store_and_stripe/)
 - [Unreported Form Factor?](https://www.reddit.com/r/androiddev/comments/18qngsm/unreported_form_factor/)
 - [Weekly Who&#39;s Hiring Thread - December 25, 2023](https://www.reddit.com/r/androiddev/comments/18qj7i8/weekly_whos_hiring_thread_december_25_2023/)
 - [Weekly discussion, code review, and feedback thread - December 25, 2023](https://www.reddit.com/r/androiddev/comments/18qi80i/weekly_discussion_code_review_and_feedback_thread/)
 - [Rejection of Data safety for unpublished app](https://www.reddit.com/r/androiddev/comments/18qg3j2/rejection_of_data_safety_for_unpublished_app/)
-- [[Linux on Android] Introducing NOMone Desktop - Linux and VR!](https://www.reddit.com/r/androiddev/comments/18psg3p/linux_on_android_introducing_nomone_desktop_linux/)
-- [Cat app: Application that fetches a random cat and dog pictures](https://www.reddit.com/r/androiddev/comments/18prgtu/cat_app_application_that_fetches_a_random_cat_and/)
-- [Random app appeared in my Admob account](https://www.reddit.com/r/androiddev/comments/18plr5p/random_app_appeared_in_my_admob_account/)
-- [What am I not understanding about internal/closed testing?](https://www.reddit.com/r/androiddev/comments/18p5o04/what_am_i_not_understanding_about_internalclosed/)
-- [I&#39;m not able to understand what Google allows as a payment gateway &lpar;what&#39;s allowed and what&#39;s not&rpar;](https://www.reddit.com/r/androiddev/comments/18p17aa/im_not_able_to_understand_what_google_allows_as_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
