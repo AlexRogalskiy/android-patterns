@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [uninstalling Android Studio side effects](https://www.reddit.com/r/androiddev/comments/18rivc3/uninstalling_android_studio_side_effects/)
-- [Japan to crack down on Apple and Google app store monopolies](https://www.reddit.com/r/androiddev/comments/18rhad9/japan_to_crack_down_on_apple_and_google_app_store/)
-- [How to make a good decent mobile /android version of your game? Anyone has good tricks and tips?](https://www.reddit.com/r/androiddev/comments/18rfkx6/how_to_make_a_good_decent_mobile_android_version/)
-- [Android Studio Iguana | 2023.2.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/18rfc3a/android_studio_iguana_202321_beta_1_now_available/)
-- [Looking for an open souce APP](https://www.reddit.com/r/androiddev/comments/18r5m8d/looking_for_an_open_souce_app/)
-- [Mixture of IAB Play Store and Stripe](https://www.reddit.com/r/androiddev/comments/18qtj9z/mixture_of_iab_play_store_and_stripe/)
-- [Unreported Form Factor?](https://www.reddit.com/r/androiddev/comments/18qngsm/unreported_form_factor/)
-- [Weekly Who&#39;s Hiring Thread - December 25, 2023](https://www.reddit.com/r/androiddev/comments/18qj7i8/weekly_whos_hiring_thread_december_25_2023/)
-- [Weekly discussion, code review, and feedback thread - December 25, 2023](https://www.reddit.com/r/androiddev/comments/18qi80i/weekly_discussion_code_review_and_feedback_thread/)
-- [Rejection of Data safety for unpublished app](https://www.reddit.com/r/androiddev/comments/18qg3j2/rejection_of_data_safety_for_unpublished_app/)
+- [AAB Resource Obfuscation Tool for Android](https://www.reddit.com/r/androiddev/comments/18sf7yy/aab_resource_obfuscation_tool_for_android/)
+- [Will selling my old test phones get me banned?](https://www.reddit.com/r/androiddev/comments/18sbyqj/will_selling_my_old_test_phones_get_me_banned/)
+- [Unexpected Views in Jetpack Compose + Appium Test - Any Insights?](https://www.reddit.com/r/androiddev/comments/18sa262/unexpected_views_in_jetpack_compose_appium_test/)
+- [How to prove that I am the owner of my apps on Google Play?](https://www.reddit.com/r/androiddev/comments/18s1mw4/how_to_prove_that_i_am_the_owner_of_my_apps_on/)
+- [Compose Multiplatform and Gemini REST API](https://www.reddit.com/r/androiddev/comments/18s0s9j/compose_multiplatform_and_gemini_rest_api/)
+- [I want to share another personal project with you all. I hope somebody finds it interesting!](https://www.reddit.com/r/androiddev/comments/18rzoc6/i_want_to_share_another_personal_project_with_you/)
+- [Wrong region ratings shown in Google search results.](https://www.reddit.com/r/androiddev/comments/18rxn4s/wrong_region_ratings_shown_in_google_search/)
+- [AnyPass v0.1.0](https://www.reddit.com/r/androiddev/comments/18rwb3h/anypass_v010/)
+- [How can I make a CompletableDeferred incomplete again after completing it?](https://www.reddit.com/r/androiddev/comments/18rvy22/how_can_i_make_a_completabledeferred_incomplete/)
+- [Permission READ_MEDIA_VISUAL_USER_SELECTED](https://www.reddit.com/r/androiddev/comments/18ruo4g/permission_read_media_visual_user_selected/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
