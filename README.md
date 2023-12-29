@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Jellyfish | 2023.3.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/18t1jo0/android_studio_jellyfish_202331_canary_1_now/)
+- [Whats your average build time?](https://www.reddit.com/r/androiddev/comments/18szhsa/whats_your_average_build_time/)
+- [Compose &lpar;Jetpack &amp; Multiplatform&rpar; Drag And Drop Library](https://www.reddit.com/r/androiddev/comments/18sw8uw/compose_jetpack_multiplatform_drag_and_drop/)
+- [[Self-promotion] I started making videos on YouTube](https://www.reddit.com/r/androiddev/comments/18sv5gk/selfpromotion_i_started_making_videos_on_youtube/)
+- [Same View model, different composable = same instance?](https://www.reddit.com/r/androiddev/comments/18soa4x/same_view_model_different_composable_same_instance/)
+- [Built a small library to get platform-specific app data/cache directories for kotlin multiplatform.](https://www.reddit.com/r/androiddev/comments/18sm2s5/built_a_small_library_to_get_platformspecific_app/)
 - [AAB Resource Obfuscation Tool for Android](https://www.reddit.com/r/androiddev/comments/18sf7yy/aab_resource_obfuscation_tool_for_android/)
 - [Will selling my old test phones get me banned?](https://www.reddit.com/r/androiddev/comments/18sbyqj/will_selling_my_old_test_phones_get_me_banned/)
 - [Unexpected Views in Jetpack Compose + Appium Test - Any Insights?](https://www.reddit.com/r/androiddev/comments/18sa262/unexpected_views_in_jetpack_compose_appium_test/)
 - [How to prove that I am the owner of my apps on Google Play?](https://www.reddit.com/r/androiddev/comments/18s1mw4/how_to_prove_that_i_am_the_owner_of_my_apps_on/)
-- [Compose Multiplatform and Gemini REST API](https://www.reddit.com/r/androiddev/comments/18s0s9j/compose_multiplatform_and_gemini_rest_api/)
-- [I want to share another personal project with you all. I hope somebody finds it interesting!](https://www.reddit.com/r/androiddev/comments/18rzoc6/i_want_to_share_another_personal_project_with_you/)
-- [Wrong region ratings shown in Google search results.](https://www.reddit.com/r/androiddev/comments/18rxn4s/wrong_region_ratings_shown_in_google_search/)
-- [AnyPass v0.1.0](https://www.reddit.com/r/androiddev/comments/18rwb3h/anypass_v010/)
-- [How can I make a CompletableDeferred incomplete again after completing it?](https://www.reddit.com/r/androiddev/comments/18rvy22/how_can_i_make_a_completabledeferred_incomplete/)
-- [Permission READ_MEDIA_VISUAL_USER_SELECTED](https://www.reddit.com/r/androiddev/comments/18ruo4g/permission_read_media_visual_user_selected/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
