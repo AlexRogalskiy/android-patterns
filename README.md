@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can my wife receive payment instead of me?](https://www.reddit.com/r/androiddev/comments/18uox5e/can_my_wife_receive_payment_instead_of_me/)
+- [Help please - my app not visible in searches after 2 months and 1200+ downloads](https://www.reddit.com/r/androiddev/comments/18ui6qp/help_please_my_app_not_visible_in_searches_after/)
+- [App suddenly much slower after a system update](https://www.reddit.com/r/androiddev/comments/18uhfqg/app_suddenly_much_slower_after_a_system_update/)
+- [Module dependency graph for big project](https://www.reddit.com/r/androiddev/comments/18ufesp/module_dependency_graph_for_big_project/)
+- [New Android TV Launcher [Alpha]](https://www.reddit.com/r/androiddev/comments/18uee2l/new_android_tv_launcher_alpha/)
+- [What&#39;s something you&#39;d like to see a video tutorial about in Android Development?](https://www.reddit.com/r/androiddev/comments/18ua5el/whats_something_youd_like_to_see_a_video_tutorial/)
 - [App developer perspective: Apple and Google&#39;s anti-tracking practices actually force the use of privacy-invasive tech](https://www.reddit.com/r/androiddev/comments/18txz8x/app_developer_perspective_apple_and_googles/)
-- [Android appcompat library hasn&#39;t updated in ages right?](https://www.reddit.com/r/androiddev/comments/18tmdf8/android_appcompat_library_hasnt_updated_in_ages/)
+- [App seems to be downloaded many times from Russia](https://www.reddit.com/r/androiddev/comments/18txoa5/app_seems_to_be_downloaded_many_times_from_russia/)
 - [Background Location Limits](https://www.reddit.com/r/androiddev/comments/18tkrmd/background_location_limits/)
 - [Have any of you in Wayland Fedora 39 had issues with Android Studio simulator crashing?](https://www.reddit.com/r/androiddev/comments/18tjtq4/have_any_of_you_in_wayland_fedora_39_had_issues/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/18t1jo0/android_studio_jellyfish_202331_canary_1_now/)
-- [Whats your average build time?](https://www.reddit.com/r/androiddev/comments/18szhsa/whats_your_average_build_time/)
-- [Compose &lpar;Jetpack &amp; Multiplatform&rpar; Drag And Drop Library](https://www.reddit.com/r/androiddev/comments/18sw8uw/compose_jetpack_multiplatform_drag_and_drop/)
-- [[Self-promotion] I started making videos on YouTube](https://www.reddit.com/r/androiddev/comments/18sv5gk/selfpromotion_i_started_making_videos_on_youtube/)
-- [Same View model, different composable = same instance?](https://www.reddit.com/r/androiddev/comments/18soa4x/same_view_model_different_composable_same_instance/)
-- [Built a small library to get platform-specific app data/cache directories for kotlin multiplatform.](https://www.reddit.com/r/androiddev/comments/18sm2s5/built_a_small_library_to_get_platformspecific_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
