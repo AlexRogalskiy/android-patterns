@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Background Noise Removal in realtime](https://www.reddit.com/r/androiddev/comments/18vj8pu/background_noise_removal_in_realtime/)
+- [Why is the Compose Compiler so far behind?](https://www.reddit.com/r/androiddev/comments/18wapjd/why_is_the_compose_compiler_so_far_behind/)
+- [Modular Architecture for Apps](https://www.reddit.com/r/androiddev/comments/18w86e7/modular_architecture_for_apps/)
+- [Weekly Who&#39;s Hiring Thread - January 01, 2024](https://www.reddit.com/r/androiddev/comments/18vxauo/weekly_whos_hiring_thread_january_01_2024/)
+- [Weekly discussion, code review, and feedback thread - January 01, 2024](https://www.reddit.com/r/androiddev/comments/18vwa3n/weekly_discussion_code_review_and_feedback_thread/)
 - [What are the exact criteria for choosing between ViewModel and plain class for a state holder?](https://www.reddit.com/r/androiddev/comments/18vikf0/what_are_the_exact_criteria_for_choosing_between/)
-- [The golden age of Kotlin and its uncertain future](https://www.reddit.com/r/androiddev/comments/18vif6e/the_golden_age_of_kotlin_and_its_uncertain_future/)
 - [Creating a service without any interface to the user](https://www.reddit.com/r/androiddev/comments/18vg97r/creating_a_service_without_any_interface_to_the/)
 - [Android Emulator with Bluetooth Support? 12/2023](https://www.reddit.com/r/androiddev/comments/18vffrj/android_emulator_with_bluetooth_support_122023/)
 - [Are there any downsides of Network Inspector in Android Studio?](https://www.reddit.com/r/androiddev/comments/18v9lmk/are_there_any_downsides_of_network_inspector_in/)
 - [Can my wife receive payment instead of me?](https://www.reddit.com/r/androiddev/comments/18uox5e/can_my_wife_receive_payment_instead_of_me/)
 - [Help please - my app not visible in searches after 2 months and 1200+ downloads](https://www.reddit.com/r/androiddev/comments/18ui6qp/help_please_my_app_not_visible_in_searches_after/)
-- [App suddenly much slower after a system update](https://www.reddit.com/r/androiddev/comments/18uhfqg/app_suddenly_much_slower_after_a_system_update/)
-- [Module dependency graph for big project](https://www.reddit.com/r/androiddev/comments/18ufesp/module_dependency_graph_for_big_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
