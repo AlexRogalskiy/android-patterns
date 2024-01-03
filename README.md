@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Changing package name with intention to run two identical apps on one phone doesn&#39;t work &lpar;conflicting package error&rpar; &lpar;advice from StackOverflow&rpar;. The app is a system app, so the other app can&#39;t be uninstalled.](https://www.reddit.com/r/androiddev/comments/18x46v1/changing_package_name_with_intention_to_run_two/)
+- [Android 14 startForeground on BOOT_COMPLETED SecurityException](https://www.reddit.com/r/androiddev/comments/18wyyor/android_14_startforeground_on_boot_completed/)
+- [Studio Bot is not available at Iguana Beta1 and it&#39;s only available in Canary versions of Android Studio.](https://www.reddit.com/r/androiddev/comments/18wxnzs/studio_bot_is_not_available_at_iguana_beta1_and/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/18wx4n9/android_studio_jellyfish_202331_canary_2_now/)
+- [Conditional navigation in jetpack compose](https://www.reddit.com/r/androiddev/comments/18wwex8/conditional_navigation_in_jetpack_compose/)
+- [Why is there so much doom and gloom on reddit surrounding android development?](https://www.reddit.com/r/androiddev/comments/18wrs4i/why_is_there_so_much_doom_and_gloom_on_reddit/)
+- [Opinions: Android development without local admin privileges &lpar;no sudo access&rpar;](https://www.reddit.com/r/androiddev/comments/18wrk9r/opinions_android_development_without_local_admin/)
 - [Why is the Compose Compiler so far behind?](https://www.reddit.com/r/androiddev/comments/18wapjd/why_is_the_compose_compiler_so_far_behind/)
 - [Modular Architecture for Apps](https://www.reddit.com/r/androiddev/comments/18w86e7/modular_architecture_for_apps/)
 - [Weekly Who&#39;s Hiring Thread - January 01, 2024](https://www.reddit.com/r/androiddev/comments/18vxauo/weekly_whos_hiring_thread_january_01_2024/)
-- [Weekly discussion, code review, and feedback thread - January 01, 2024](https://www.reddit.com/r/androiddev/comments/18vwa3n/weekly_discussion_code_review_and_feedback_thread/)
-- [What are the exact criteria for choosing between ViewModel and plain class for a state holder?](https://www.reddit.com/r/androiddev/comments/18vikf0/what_are_the_exact_criteria_for_choosing_between/)
-- [Creating a service without any interface to the user](https://www.reddit.com/r/androiddev/comments/18vg97r/creating_a_service_without_any_interface_to_the/)
-- [Android Emulator with Bluetooth Support? 12/2023](https://www.reddit.com/r/androiddev/comments/18vffrj/android_emulator_with_bluetooth_support_122023/)
-- [Are there any downsides of Network Inspector in Android Studio?](https://www.reddit.com/r/androiddev/comments/18v9lmk/are_there_any_downsides_of_network_inspector_in/)
-- [Can my wife receive payment instead of me?](https://www.reddit.com/r/androiddev/comments/18uox5e/can_my_wife_receive_payment_instead_of_me/)
-- [Help please - my app not visible in searches after 2 months and 1200+ downloads](https://www.reddit.com/r/androiddev/comments/18ui6qp/help_please_my_app_not_visible_in_searches_after/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
