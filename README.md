@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Changing package name with intention to run two identical apps on one phone doesn&#39;t work &lpar;conflicting package error&rpar; &lpar;advice from StackOverflow&rpar;. The app is a system app, so the other app can&#39;t be uninstalled.](https://www.reddit.com/r/androiddev/comments/18x46v1/changing_package_name_with_intention_to_run_two/)
-- [Android 14 startForeground on BOOT_COMPLETED SecurityException](https://www.reddit.com/r/androiddev/comments/18wyyor/android_14_startforeground_on_boot_completed/)
-- [Studio Bot is not available at Iguana Beta1 and it&#39;s only available in Canary versions of Android Studio.](https://www.reddit.com/r/androiddev/comments/18wxnzs/studio_bot_is_not_available_at_iguana_beta1_and/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/18wx4n9/android_studio_jellyfish_202331_canary_2_now/)
-- [Conditional navigation in jetpack compose](https://www.reddit.com/r/androiddev/comments/18wwex8/conditional_navigation_in_jetpack_compose/)
-- [Why is there so much doom and gloom on reddit surrounding android development?](https://www.reddit.com/r/androiddev/comments/18wrs4i/why_is_there_so_much_doom_and_gloom_on_reddit/)
-- [Opinions: Android development without local admin privileges &lpar;no sudo access&rpar;](https://www.reddit.com/r/androiddev/comments/18wrk9r/opinions_android_development_without_local_admin/)
-- [Why is the Compose Compiler so far behind?](https://www.reddit.com/r/androiddev/comments/18wapjd/why_is_the_compose_compiler_so_far_behind/)
-- [Modular Architecture for Apps](https://www.reddit.com/r/androiddev/comments/18w86e7/modular_architecture_for_apps/)
-- [Weekly Who&#39;s Hiring Thread - January 01, 2024](https://www.reddit.com/r/androiddev/comments/18vxauo/weekly_whos_hiring_thread_january_01_2024/)
+- [if you wanted to restart your learning journey in 2024, how would you start and what will be the resources?](https://www.reddit.com/r/androiddev/comments/18y0jhu/if_you_wanted_to_restart_your_learning_journey_in/)
+- [App shows app as installed on watch when it is not](https://www.reddit.com/r/androiddev/comments/18xy6qi/app_shows_app_as_installed_on_watch_when_it_is_not/)
+- [Are you using Material design or custom composable components?](https://www.reddit.com/r/androiddev/comments/18xwi4f/are_you_using_material_design_or_custom/)
+- [Android Studio Hedgehog | 2023.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/18xqw5r/android_studio_hedgehog_202311_patch_1_now/)
+- [Did Android 14 change how Camera-Cutouts / Menu-Bars got handled?](https://www.reddit.com/r/androiddev/comments/18xo8oe/did_android_14_change_how_cameracutouts_menubars/)
+- [Why does Android not seem to focus on WebSockets or even HTTP servers anymore? Is gRPC their solution to this?](https://www.reddit.com/r/androiddev/comments/18xl9en/why_does_android_not_seem_to_focus_on_websockets/)
+- [Private App: Policy Violation for Missing Login Credentials](https://www.reddit.com/r/androiddev/comments/18xkkup/private_app_policy_violation_for_missing_login/)
+- [Please note that attempting to buy or sell Google Play Accounts will result in a ban.](https://www.reddit.com/r/androiddev/comments/18xgvdx/please_note_that_attempting_to_buy_or_sell_google/)
+- [How to handle collect of flow inside of setOnClickListener method?](https://www.reddit.com/r/androiddev/comments/18xcuwo/how_to_handle_collect_of_flow_inside_of/)
+- [Question regarding right usage of Dispatchers](https://www.reddit.com/r/androiddev/comments/18x8zmo/question_regarding_right_usage_of_dispatchers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
