@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [if you wanted to restart your learning journey in 2024, how would you start and what will be the resources?](https://www.reddit.com/r/androiddev/comments/18y0jhu/if_you_wanted_to_restart_your_learning_journey_in/)
+- [Why is the android documentation so poor?](https://www.reddit.com/r/androiddev/comments/18ysf26/why_is_the_android_documentation_so_poor/)
+- [Accessing data from outside apps](https://www.reddit.com/r/androiddev/comments/18yr2ld/accessing_data_from_outside_apps/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/18yp728/android_studio_jellyfish_202331_canary_3_now/)
+- [Seeking Google Professionals and Community Members Experienced with Kotlin for Documentary Project](https://www.reddit.com/r/androiddev/comments/18ygrfi/seeking_google_professionals_and_community/)
+- [Google Play silent sign-in and children privacy laws &lpar;COPPA, GDPR&rpar;](https://www.reddit.com/r/androiddev/comments/18ye23d/google_play_silent_signin_and_children_privacy/)
+- [Why there&#39;s no androidx bom?](https://www.reddit.com/r/androiddev/comments/18ya4o8/why_theres_no_androidx_bom/)
+- [Android Studio uses too much Ram](https://www.reddit.com/r/androiddev/comments/18y2bgh/android_studio_uses_too_much_ram/)
 - [App shows app as installed on watch when it is not](https://www.reddit.com/r/androiddev/comments/18xy6qi/app_shows_app_as_installed_on_watch_when_it_is_not/)
 - [Are you using Material design or custom composable components?](https://www.reddit.com/r/androiddev/comments/18xwi4f/are_you_using_material_design_or_custom/)
 - [Android Studio Hedgehog | 2023.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/18xqw5r/android_studio_hedgehog_202311_patch_1_now/)
-- [Did Android 14 change how Camera-Cutouts / Menu-Bars got handled?](https://www.reddit.com/r/androiddev/comments/18xo8oe/did_android_14_change_how_cameracutouts_menubars/)
-- [Why does Android not seem to focus on WebSockets or even HTTP servers anymore? Is gRPC their solution to this?](https://www.reddit.com/r/androiddev/comments/18xl9en/why_does_android_not_seem_to_focus_on_websockets/)
-- [Private App: Policy Violation for Missing Login Credentials](https://www.reddit.com/r/androiddev/comments/18xkkup/private_app_policy_violation_for_missing_login/)
-- [Please note that attempting to buy or sell Google Play Accounts will result in a ban.](https://www.reddit.com/r/androiddev/comments/18xgvdx/please_note_that_attempting_to_buy_or_sell_google/)
-- [How to handle collect of flow inside of setOnClickListener method?](https://www.reddit.com/r/androiddev/comments/18xcuwo/how_to_handle_collect_of_flow_inside_of/)
-- [Question regarding right usage of Dispatchers](https://www.reddit.com/r/androiddev/comments/18x8zmo/question_regarding_right_usage_of_dispatchers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
