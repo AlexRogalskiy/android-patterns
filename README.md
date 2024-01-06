@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How many of you 10+ yoe Architect-level people have this skill ?](https://www.reddit.com/r/androiddev/comments/18zjeyw/how_many_of_you_10_yoe_architectlevel_people_have/)
+- [Building a functional Google Meet Clone In Jetpack Compose](https://www.reddit.com/r/androiddev/comments/18zf0je/building_a_functional_google_meet_clone_in/)
+- [Android Studio updates driving me crazy](https://www.reddit.com/r/androiddev/comments/18zd427/android_studio_updates_driving_me_crazy/)
+- [Simply Scalable Android App Architecture](https://www.reddit.com/r/androiddev/comments/18zanhn/simply_scalable_android_app_architecture/)
+- [Fraud-Proofing an Android App: Choosing the Best Device ID for Promo Abuse Prevention](https://www.reddit.com/r/androiddev/comments/18z8vbe/fraudproofing_an_android_app_choosing_the_best/)
+- [How important is clean architecture and unit testing for intermediate android developers](https://www.reddit.com/r/androiddev/comments/18z6lxf/how_important_is_clean_architecture_and_unit/)
+- [Disable android studio analytics](https://www.reddit.com/r/androiddev/comments/18yxf0q/disable_android_studio_analytics/)
 - [Why is the android documentation so poor?](https://www.reddit.com/r/androiddev/comments/18ysf26/why_is_the_android_documentation_so_poor/)
 - [Accessing data from outside apps](https://www.reddit.com/r/androiddev/comments/18yr2ld/accessing_data_from_outside_apps/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/18yp728/android_studio_jellyfish_202331_canary_3_now/)
-- [Seeking Google Professionals and Community Members Experienced with Kotlin for Documentary Project](https://www.reddit.com/r/androiddev/comments/18ygrfi/seeking_google_professionals_and_community/)
-- [Google Play silent sign-in and children privacy laws &lpar;COPPA, GDPR&rpar;](https://www.reddit.com/r/androiddev/comments/18ye23d/google_play_silent_signin_and_children_privacy/)
-- [Why there&#39;s no androidx bom?](https://www.reddit.com/r/androiddev/comments/18ya4o8/why_theres_no_androidx_bom/)
-- [Android Studio uses too much Ram](https://www.reddit.com/r/androiddev/comments/18y2bgh/android_studio_uses_too_much_ram/)
-- [App shows app as installed on watch when it is not](https://www.reddit.com/r/androiddev/comments/18xy6qi/app_shows_app_as_installed_on_watch_when_it_is_not/)
-- [Are you using Material design or custom composable components?](https://www.reddit.com/r/androiddev/comments/18xwi4f/are_you_using_material_design_or_custom/)
-- [Android Studio Hedgehog | 2023.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/18xqw5r/android_studio_hedgehog_202311_patch_1_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
