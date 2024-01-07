@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Search Play Store does not retrieve my app anymore](https://www.reddit.com/r/androiddev/comments/190gdjb/search_play_store_does_not_retrieve_my_app_anymore/)
+- [How to improve every app that uses colors, fonts, or images/wallpapers](https://www.reddit.com/r/androiddev/comments/190enmn/how_to_improve_every_app_that_uses_colors_fonts/)
+- [GDPR Consent Message - impact on non European users of my app?](https://www.reddit.com/r/androiddev/comments/190el2e/gdpr_consent_message_impact_on_non_european_users/)
+- [can someone help me understand the &quot;correct&quot; way of using coroutines?](https://www.reddit.com/r/androiddev/comments/1906he1/can_someone_help_me_understand_the_correct_way_of/)
+- [Is using WeakReference a good practice? If yes, can someone give examples of when and where to use them?](https://www.reddit.com/r/androiddev/comments/1902bpa/is_using_weakreference_a_good_practice_if_yes_can/)
+- [How to remove &quot;About The Developer&quot; section on the play store?](https://www.reddit.com/r/androiddev/comments/1900kbk/how_to_remove_about_the_developer_section_on_the/)
+- [Do you regret learning Android due to things which you weren&#39;t aware of when starting to learn?](https://www.reddit.com/r/androiddev/comments/18ztw13/do_you_regret_learning_android_due_to_things/)
 - [How many of you 10+ yoe Architect-level people have this skill ?](https://www.reddit.com/r/androiddev/comments/18zjeyw/how_many_of_you_10_yoe_architectlevel_people_have/)
 - [Building a functional Google Meet Clone In Jetpack Compose](https://www.reddit.com/r/androiddev/comments/18zf0je/building_a_functional_google_meet_clone_in/)
 - [Android Studio updates driving me crazy](https://www.reddit.com/r/androiddev/comments/18zd427/android_studio_updates_driving_me_crazy/)
-- [Simply Scalable Android App Architecture](https://www.reddit.com/r/androiddev/comments/18zanhn/simply_scalable_android_app_architecture/)
-- [Fraud-Proofing an Android App: Choosing the Best Device ID for Promo Abuse Prevention](https://www.reddit.com/r/androiddev/comments/18z8vbe/fraudproofing_an_android_app_choosing_the_best/)
-- [How important is clean architecture and unit testing for intermediate android developers](https://www.reddit.com/r/androiddev/comments/18z6lxf/how_important_is_clean_architecture_and_unit/)
-- [Disable android studio analytics](https://www.reddit.com/r/androiddev/comments/18yxf0q/disable_android_studio_analytics/)
-- [Why is the android documentation so poor?](https://www.reddit.com/r/androiddev/comments/18ysf26/why_is_the_android_documentation_so_poor/)
-- [Accessing data from outside apps](https://www.reddit.com/r/androiddev/comments/18yr2ld/accessing_data_from_outside_apps/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/18yp728/android_studio_jellyfish_202331_canary_3_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
