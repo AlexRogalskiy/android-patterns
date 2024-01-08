@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Search Play Store does not retrieve my app anymore](https://www.reddit.com/r/androiddev/comments/190gdjb/search_play_store_does_not_retrieve_my_app_anymore/)
+- [Concerns About App Security and Code Exposure in Flutter Development](https://www.reddit.com/r/androiddev/comments/19163mt/concerns_about_app_security_and_code_exposure_in/)
+- [I&#39;ve watched many videos at this point which essentially have a message of &quot;OOP is needlessly abstract and complicated&quot;. It seems like it could be correct in some circumstances, do you think this applies to Android?](https://www.reddit.com/r/androiddev/comments/190xtuf/ive_watched_many_videos_at_this_point_which/)
+- [Do u ever feel guilty for adding too much ads and too many IAP ?](https://www.reddit.com/r/androiddev/comments/190q6w5/do_u_ever_feel_guilty_for_adding_too_much_ads_and/)
+- [Android Log View Tool](https://www.reddit.com/r/androiddev/comments/190poj6/android_log_view_tool/)
+- [Does anyone else have problems with the tax residence certificate?](https://www.reddit.com/r/androiddev/comments/190oewx/does_anyone_else_have_problems_with_the_tax/)
 - [How to improve every app that uses colors, fonts, or images/wallpapers](https://www.reddit.com/r/androiddev/comments/190enmn/how_to_improve_every_app_that_uses_colors_fonts/)
-- [GDPR Consent Message - impact on non European users of my app?](https://www.reddit.com/r/androiddev/comments/190el2e/gdpr_consent_message_impact_on_non_european_users/)
 - [can someone help me understand the &quot;correct&quot; way of using coroutines?](https://www.reddit.com/r/androiddev/comments/1906he1/can_someone_help_me_understand_the_correct_way_of/)
 - [Is using WeakReference a good practice? If yes, can someone give examples of when and where to use them?](https://www.reddit.com/r/androiddev/comments/1902bpa/is_using_weakreference_a_good_practice_if_yes_can/)
 - [How to remove &quot;About The Developer&quot; section on the play store?](https://www.reddit.com/r/androiddev/comments/1900kbk/how_to_remove_about_the_developer_section_on_the/)
 - [Do you regret learning Android due to things which you weren&#39;t aware of when starting to learn?](https://www.reddit.com/r/androiddev/comments/18ztw13/do_you_regret_learning_android_due_to_things/)
-- [How many of you 10+ yoe Architect-level people have this skill ?](https://www.reddit.com/r/androiddev/comments/18zjeyw/how_many_of_you_10_yoe_architectlevel_people_have/)
-- [Building a functional Google Meet Clone In Jetpack Compose](https://www.reddit.com/r/androiddev/comments/18zf0je/building_a_functional_google_meet_clone_in/)
-- [Android Studio updates driving me crazy](https://www.reddit.com/r/androiddev/comments/18zd427/android_studio_updates_driving_me_crazy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
