@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Concerns About App Security and Code Exposure in Flutter Development](https://www.reddit.com/r/androiddev/comments/19163mt/concerns_about_app_security_and_code_exposure_in/)
-- [I&#39;ve watched many videos at this point which essentially have a message of &quot;OOP is needlessly abstract and complicated&quot;. It seems like it could be correct in some circumstances, do you think this applies to Android?](https://www.reddit.com/r/androiddev/comments/190xtuf/ive_watched_many_videos_at_this_point_which/)
-- [Do u ever feel guilty for adding too much ads and too many IAP ?](https://www.reddit.com/r/androiddev/comments/190q6w5/do_u_ever_feel_guilty_for_adding_too_much_ads_and/)
-- [Android Log View Tool](https://www.reddit.com/r/androiddev/comments/190poj6/android_log_view_tool/)
-- [Does anyone else have problems with the tax residence certificate?](https://www.reddit.com/r/androiddev/comments/190oewx/does_anyone_else_have_problems_with_the_tax/)
-- [How to improve every app that uses colors, fonts, or images/wallpapers](https://www.reddit.com/r/androiddev/comments/190enmn/how_to_improve_every_app_that_uses_colors_fonts/)
-- [can someone help me understand the &quot;correct&quot; way of using coroutines?](https://www.reddit.com/r/androiddev/comments/1906he1/can_someone_help_me_understand_the_correct_way_of/)
-- [Is using WeakReference a good practice? If yes, can someone give examples of when and where to use them?](https://www.reddit.com/r/androiddev/comments/1902bpa/is_using_weakreference_a_good_practice_if_yes_can/)
-- [How to remove &quot;About The Developer&quot; section on the play store?](https://www.reddit.com/r/androiddev/comments/1900kbk/how_to_remove_about_the_developer_section_on_the/)
-- [Do you regret learning Android due to things which you weren&#39;t aware of when starting to learn?](https://www.reddit.com/r/androiddev/comments/18ztw13/do_you_regret_learning_android_due_to_things/)
+- [Google Login is bad troublemaker](https://www.reddit.com/r/androiddev/comments/191wcrn/google_login_is_bad_troublemaker/)
+- [Discord community for Jetpack Compose centric development.](https://www.reddit.com/r/androiddev/comments/191vyed/discord_community_for_jetpack_compose_centric/)
+- [How much faster is Compose 1.5 compared to 1.4 in overall performance?](https://www.reddit.com/r/androiddev/comments/191ut86/how_much_faster_is_compose_15_compared_to_14_in/)
+- [Open a Business or just publish my app?](https://www.reddit.com/r/androiddev/comments/191tsud/open_a_business_or_just_publish_my_app/)
+- [Can I create a account as a organization to overcome 20 testers problem?](https://www.reddit.com/r/androiddev/comments/191suij/can_i_create_a_account_as_a_organization_to/)
+- [Buyer vs Seller](https://www.reddit.com/r/androiddev/comments/191qzq0/buyer_vs_seller/)
+- [Open Source - Translate Screen and Comics](https://www.reddit.com/r/androiddev/comments/191n2l4/open_source_translate_screen_and_comics/)
+- [How to make a Clean Architecture App with Kotlin and Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/191mhj7/how_to_make_a_clean_architecture_app_with_kotlin/)
+- [Weekly Who&#39;s Hiring Thread - January 08, 2024](https://www.reddit.com/r/androiddev/comments/191luav/weekly_whos_hiring_thread_january_08_2024/)
+- [Can I use Paypal merchant account with Google Pay SDK to process payment?](https://www.reddit.com/r/androiddev/comments/191ll48/can_i_use_paypal_merchant_account_with_google_pay/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
