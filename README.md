@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Login is bad troublemaker](https://www.reddit.com/r/androiddev/comments/191wcrn/google_login_is_bad_troublemaker/)
+- [Completed video series for on-device machine learning with MediaPipe and Android](https://www.reddit.com/r/androiddev/comments/192ip5x/completed_video_series_for_ondevice_machine/)
+- [[Blog] Using C/C++ in Android: A Comprehensive Guide For Beginners](https://www.reddit.com/r/androiddev/comments/192h4vx/blog_using_cc_in_android_a_comprehensive_guide/)
+- [Hey guys I have created a sub&lpar;/r/AndroidInterviewQ&rpar; specifically for Android Interview Questions but not the straightforward ones. Please check it out and provide your questions and answers and help the Android Questions/Answer resource grow.](https://www.reddit.com/r/androiddev/comments/192cuat/hey_guys_i_have_created_a_subrandroidinterviewq/)
 - [Discord community for Jetpack Compose centric development.](https://www.reddit.com/r/androiddev/comments/191vyed/discord_community_for_jetpack_compose_centric/)
 - [How much faster is Compose 1.5 compared to 1.4 in overall performance?](https://www.reddit.com/r/androiddev/comments/191ut86/how_much_faster_is_compose_15_compared_to_14_in/)
-- [Open a Business or just publish my app?](https://www.reddit.com/r/androiddev/comments/191tsud/open_a_business_or_just_publish_my_app/)
-- [Can I create a account as a organization to overcome 20 testers problem?](https://www.reddit.com/r/androiddev/comments/191suij/can_i_create_a_account_as_a_organization_to/)
-- [Buyer vs Seller](https://www.reddit.com/r/androiddev/comments/191qzq0/buyer_vs_seller/)
 - [Open Source - Translate Screen and Comics](https://www.reddit.com/r/androiddev/comments/191n2l4/open_source_translate_screen_and_comics/)
 - [How to make a Clean Architecture App with Kotlin and Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/191mhj7/how_to_make_a_clean_architecture_app_with_kotlin/)
 - [Weekly Who&#39;s Hiring Thread - January 08, 2024](https://www.reddit.com/r/androiddev/comments/191luav/weekly_whos_hiring_thread_january_08_2024/)
 - [Can I use Paypal merchant account with Google Pay SDK to process payment?](https://www.reddit.com/r/androiddev/comments/191ll48/can_i_use_paypal_merchant_account_with_google_pay/)
+- [Weekly discussion, code review, and feedback thread - January 08, 2024](https://www.reddit.com/r/androiddev/comments/191kofa/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
