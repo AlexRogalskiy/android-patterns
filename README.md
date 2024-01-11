@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Template app](https://www.reddit.com/r/androiddev/comments/193izfe/template_app/)
+- [Executing Compiled C Binary in Mobile App Without Root Access](https://www.reddit.com/r/androiddev/comments/193imrb/executing_compiled_c_binary_in_mobile_app_without/)
+- [Android Studio Iguana | 2023.2.1 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/193g0di/android_studio_iguana_202321_beta_2_now_available/)
+- [Is Android 12 the worst version of Android?](https://www.reddit.com/r/androiddev/comments/19373ox/is_android_12_the_worst_version_of_android/)
+- [Is it possible to do a long-term device based app ban?](https://www.reddit.com/r/androiddev/comments/1933i7l/is_it_possible_to_do_a_longterm_device_based_app/)
+- [Is it possible to get an Android bug resolved without a development team member?](https://www.reddit.com/r/androiddev/comments/192ywrt/is_it_possible_to_get_an_android_bug_resolved/)
 - [Completed video series for on-device machine learning with MediaPipe and Android](https://www.reddit.com/r/androiddev/comments/192ip5x/completed_video_series_for_ondevice_machine/)
 - [[Blog] Using C/C++ in Android: A Comprehensive Guide For Beginners](https://www.reddit.com/r/androiddev/comments/192h4vx/blog_using_cc_in_android_a_comprehensive_guide/)
 - [Hey guys I have created a sub&lpar;/r/AndroidInterviewQ&rpar; specifically for Android Interview Questions but not the straightforward ones. Please check it out and provide your questions and answers and help the Android Questions/Answer resource grow.](https://www.reddit.com/r/androiddev/comments/192cuat/hey_guys_i_have_created_a_subrandroidinterviewq/)
 - [Discord community for Jetpack Compose centric development.](https://www.reddit.com/r/androiddev/comments/191vyed/discord_community_for_jetpack_compose_centric/)
-- [How much faster is Compose 1.5 compared to 1.4 in overall performance?](https://www.reddit.com/r/androiddev/comments/191ut86/how_much_faster_is_compose_15_compared_to_14_in/)
-- [Open Source - Translate Screen and Comics](https://www.reddit.com/r/androiddev/comments/191n2l4/open_source_translate_screen_and_comics/)
-- [How to make a Clean Architecture App with Kotlin and Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/191mhj7/how_to_make_a_clean_architecture_app_with_kotlin/)
-- [Weekly Who&#39;s Hiring Thread - January 08, 2024](https://www.reddit.com/r/androiddev/comments/191luav/weekly_whos_hiring_thread_january_08_2024/)
-- [Can I use Paypal merchant account with Google Pay SDK to process payment?](https://www.reddit.com/r/androiddev/comments/191ll48/can_i_use_paypal_merchant_account_with_google_pay/)
-- [Weekly discussion, code review, and feedback thread - January 08, 2024](https://www.reddit.com/r/androiddev/comments/191kofa/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
