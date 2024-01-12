@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android system design preparation resources](https://www.reddit.com/r/androiddev/comments/194g5qm/android_system_design_preparation_resources/)
+- [Folks who don&#39;t use Material Compose components, do you also build Scaffold and Navigation Bar components by yourself?](https://www.reddit.com/r/androiddev/comments/194de30/folks_who_dont_use_material_compose_components_do/)
+- [Can you track the &quot;Did you find this helpful?&quot; count/metrics for Google Play reviews&gt;](https://www.reddit.com/r/androiddev/comments/194aowt/can_you_track_the_did_you_find_this_helpful/)
+- [Is reassigning the object to itself the cleanest way to update inner properties in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/194ablw/is_reassigning_the_object_to_itself_the_cleanest/)
+- [Faster builds on Windows 11 with Dev Drives](https://www.reddit.com/r/androiddev/comments/19422tz/faster_builds_on_windows_11_with_dev_drives/)
+- [I have 7 days to fix an issue or the app will be removed](https://www.reddit.com/r/androiddev/comments/193xu6f/i_have_7_days_to_fix_an_issue_or_the_app_will_be/)
+- [Material Design in Android. Consistency from design to code](https://www.reddit.com/r/androiddev/comments/193vhkb/material_design_in_android_consistency_from/)
+- [Using beta version is a risk?](https://www.reddit.com/r/androiddev/comments/193uwi0/using_beta_version_is_a_risk/)
+- [KMP Developers out there, what are you using for your local database?](https://www.reddit.com/r/androiddev/comments/193s92p/kmp_developers_out_there_what_are_you_using_for/)
 - [Template app](https://www.reddit.com/r/androiddev/comments/193izfe/template_app/)
-- [Executing Compiled C Binary in Mobile App Without Root Access](https://www.reddit.com/r/androiddev/comments/193imrb/executing_compiled_c_binary_in_mobile_app_without/)
-- [Android Studio Iguana | 2023.2.1 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/193g0di/android_studio_iguana_202321_beta_2_now_available/)
-- [Is Android 12 the worst version of Android?](https://www.reddit.com/r/androiddev/comments/19373ox/is_android_12_the_worst_version_of_android/)
-- [Is it possible to do a long-term device based app ban?](https://www.reddit.com/r/androiddev/comments/1933i7l/is_it_possible_to_do_a_longterm_device_based_app/)
-- [Is it possible to get an Android bug resolved without a development team member?](https://www.reddit.com/r/androiddev/comments/192ywrt/is_it_possible_to_get_an_android_bug_resolved/)
-- [Completed video series for on-device machine learning with MediaPipe and Android](https://www.reddit.com/r/androiddev/comments/192ip5x/completed_video_series_for_ondevice_machine/)
-- [[Blog] Using C/C++ in Android: A Comprehensive Guide For Beginners](https://www.reddit.com/r/androiddev/comments/192h4vx/blog_using_cc_in_android_a_comprehensive_guide/)
-- [Hey guys I have created a sub&lpar;/r/AndroidInterviewQ&rpar; specifically for Android Interview Questions but not the straightforward ones. Please check it out and provide your questions and answers and help the Android Questions/Answer resource grow.](https://www.reddit.com/r/androiddev/comments/192cuat/hey_guys_i_have_created_a_subrandroidinterviewq/)
-- [Discord community for Jetpack Compose centric development.](https://www.reddit.com/r/androiddev/comments/191vyed/discord_community_for_jetpack_compose_centric/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
