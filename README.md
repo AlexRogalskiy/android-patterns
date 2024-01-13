@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android system design preparation resources](https://www.reddit.com/r/androiddev/comments/194g5qm/android_system_design_preparation_resources/)
-- [Folks who don&#39;t use Material Compose components, do you also build Scaffold and Navigation Bar components by yourself?](https://www.reddit.com/r/androiddev/comments/194de30/folks_who_dont_use_material_compose_components_do/)
-- [Can you track the &quot;Did you find this helpful?&quot; count/metrics for Google Play reviews&gt;](https://www.reddit.com/r/androiddev/comments/194aowt/can_you_track_the_did_you_find_this_helpful/)
-- [Is reassigning the object to itself the cleanest way to update inner properties in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/194ablw/is_reassigning_the_object_to_itself_the_cleanest/)
-- [Faster builds on Windows 11 with Dev Drives](https://www.reddit.com/r/androiddev/comments/19422tz/faster_builds_on_windows_11_with_dev_drives/)
-- [I have 7 days to fix an issue or the app will be removed](https://www.reddit.com/r/androiddev/comments/193xu6f/i_have_7_days_to_fix_an_issue_or_the_app_will_be/)
-- [Material Design in Android. Consistency from design to code](https://www.reddit.com/r/androiddev/comments/193vhkb/material_design_in_android_consistency_from/)
-- [Using beta version is a risk?](https://www.reddit.com/r/androiddev/comments/193uwi0/using_beta_version_is_a_risk/)
-- [KMP Developers out there, what are you using for your local database?](https://www.reddit.com/r/androiddev/comments/193s92p/kmp_developers_out_there_what_are_you_using_for/)
-- [Template app](https://www.reddit.com/r/androiddev/comments/193izfe/template_app/)
+- [Looking for closed testers - reciprocal testing arrangement](https://www.reddit.com/r/androiddev/comments/19580j8/looking_for_closed_testers_reciprocal_testing/)
+- [saveInstanceState vs ViewModel](https://www.reddit.com/r/androiddev/comments/1955zca/saveinstancestate_vs_viewmodel/)
+- [What’s my level?](https://www.reddit.com/r/androiddev/comments/1953imv/whats_my_level/)
+- [Google Play Developer Account Suddenly Terminated Due to an Old Unreleased Game Version](https://www.reddit.com/r/androiddev/comments/1951s3v/google_play_developer_account_suddenly_terminated/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1951b92/android_studio_jellyfish_202331_canary_4_now/)
+- [Is there any way to make use of an existing non-compose fragment inside of a compose activity?](https://www.reddit.com/r/androiddev/comments/194ykrh/is_there_any_way_to_make_use_of_an_existing/)
+- [Trying to make ADB simpler](https://www.reddit.com/r/androiddev/comments/194xeco/trying_to_make_adb_simpler/)
+- [Help me as SDK Developers to Minimize SDK Issues for Users](https://www.reddit.com/r/androiddev/comments/194uenq/help_me_as_sdk_developers_to_minimize_sdk_issues/)
+- [How do you as an android dev collaborate with product designers during development?](https://www.reddit.com/r/androiddev/comments/194r75l/how_do_you_as_an_android_dev_collaborate_with/)
+- [Google just removed their Android basics with kotlin course. Is there any way to access it](https://www.reddit.com/r/androiddev/comments/194r5xm/google_just_removed_their_android_basics_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
