@@ -271,9 +271,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for closed testers - reciprocal testing arrangement](https://www.reddit.com/r/androiddev/comments/19580j8/looking_for_closed_testers_reciprocal_testing/)
 - [saveInstanceState vs ViewModel](https://www.reddit.com/r/androiddev/comments/1955zca/saveinstancestate_vs_viewmodel/)
-- [What’s my level?](https://www.reddit.com/r/androiddev/comments/1953imv/whats_my_level/)
 - [Google Play Developer Account Suddenly Terminated Due to an Old Unreleased Game Version](https://www.reddit.com/r/androiddev/comments/1951s3v/google_play_developer_account_suddenly_terminated/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1951b92/android_studio_jellyfish_202331_canary_4_now/)
 - [Is there any way to make use of an existing non-compose fragment inside of a compose activity?](https://www.reddit.com/r/androiddev/comments/194ykrh/is_there_any_way_to_make_use_of_an_existing/)
@@ -281,6 +279,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Help me as SDK Developers to Minimize SDK Issues for Users](https://www.reddit.com/r/androiddev/comments/194uenq/help_me_as_sdk_developers_to_minimize_sdk_issues/)
 - [How do you as an android dev collaborate with product designers during development?](https://www.reddit.com/r/androiddev/comments/194r75l/how_do_you_as_an_android_dev_collaborate_with/)
 - [Google just removed their Android basics with kotlin course. Is there any way to access it](https://www.reddit.com/r/androiddev/comments/194r5xm/google_just_removed_their_android_basics_with/)
+- [What are your approaches to representing formatted text content?](https://www.reddit.com/r/androiddev/comments/194r2sg/what_are_your_approaches_to_representing/)
+- [Android system design preparation resources](https://www.reddit.com/r/androiddev/comments/194g5qm/android_system_design_preparation_resources/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
