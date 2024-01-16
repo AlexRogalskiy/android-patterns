@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Weekly Who&#39;s Hiring Thread - January 15, 2024](https://www.reddit.com/r/androiddev/comments/1979da9/weekly_whos_hiring_thread_january_15_2024/)
+- [Weekly discussion, code review, and feedback thread - January 15, 2024](https://www.reddit.com/r/androiddev/comments/19785wx/weekly_discussion_code_review_and_feedback_thread/)
+- [Android WYSIWYG Rich editor for Jetpack compose.](https://www.reddit.com/r/androiddev/comments/1977u3w/android_wysiwyg_rich_editor_for_jetpack_compose/)
+- [From Lollipop to Android 13: Mastering Background Blur in Compose](https://www.reddit.com/r/androiddev/comments/1971m4o/from_lollipop_to_android_13_mastering_background/)
 - [saveInstanceState vs ViewModel](https://www.reddit.com/r/androiddev/comments/1955zca/saveinstancestate_vs_viewmodel/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1951b92/android_studio_jellyfish_202331_canary_4_now/)
 - [Is there any way to make use of an existing non-compose fragment inside of a compose activity?](https://www.reddit.com/r/androiddev/comments/194ykrh/is_there_any_way_to_make_use_of_an_existing/)
 - [Trying to make ADB simpler](https://www.reddit.com/r/androiddev/comments/194xeco/trying_to_make_adb_simpler/)
 - [Help me as SDK Developers to Minimize SDK Issues for Users](https://www.reddit.com/r/androiddev/comments/194uenq/help_me_as_sdk_developers_to_minimize_sdk_issues/)
 - [How do you as an android dev collaborate with product designers during development?](https://www.reddit.com/r/androiddev/comments/194r75l/how_do_you_as_an_android_dev_collaborate_with/)
-- [Google just removed their Android basics with kotlin course. Is there any way to access it](https://www.reddit.com/r/androiddev/comments/194r5xm/google_just_removed_their_android_basics_with/)
-- [What are your approaches to representing formatted text content?](https://www.reddit.com/r/androiddev/comments/194r2sg/what_are_your_approaches_to_representing/)
-- [Android system design preparation resources](https://www.reddit.com/r/androiddev/comments/194g5qm/android_system_design_preparation_resources/)
-- [Can you track the &quot;Did you find this helpful?&quot; count/metrics for Google Play reviews&gt;](https://www.reddit.com/r/androiddev/comments/194aowt/can_you_track_the_did_you_find_this_helpful/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
