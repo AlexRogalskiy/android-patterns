@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [App Automatic Integrity Protection, why is it not mandatory?](https://www.reddit.com/r/androiddev/comments/198i5i9/app_automatic_integrity_protection_why_is_it_not/)
+- [Recommendations of Android OS courses](https://www.reddit.com/r/androiddev/comments/198hixb/recommendations_of_android_os_courses/)
+- [A pop-up notifying users if they want to sign up for an email newsletter, violates terms and conditions?](https://www.reddit.com/r/androiddev/comments/198ge4z/a_popup_notifying_users_if_they_want_to_sign_up/)
+- [Pixel Watch folders inaccessible via wireless debugging](https://www.reddit.com/r/androiddev/comments/1989xxr/pixel_watch_folders_inaccessible_via_wireless/)
+- [Using DRM to provide a unique id](https://www.reddit.com/r/androiddev/comments/19895zn/using_drm_to_provide_a_unique_id/)
 - [Weekly Who&#39;s Hiring Thread - January 15, 2024](https://www.reddit.com/r/androiddev/comments/1979da9/weekly_whos_hiring_thread_january_15_2024/)
 - [Weekly discussion, code review, and feedback thread - January 15, 2024](https://www.reddit.com/r/androiddev/comments/19785wx/weekly_discussion_code_review_and_feedback_thread/)
 - [Android WYSIWYG Rich editor for Jetpack compose.](https://www.reddit.com/r/androiddev/comments/1977u3w/android_wysiwyg_rich_editor_for_jetpack_compose/)
 - [From Lollipop to Android 13: Mastering Background Blur in Compose](https://www.reddit.com/r/androiddev/comments/1971m4o/from_lollipop_to_android_13_mastering_background/)
 - [saveInstanceState vs ViewModel](https://www.reddit.com/r/androiddev/comments/1955zca/saveinstancestate_vs_viewmodel/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1951b92/android_studio_jellyfish_202331_canary_4_now/)
-- [Is there any way to make use of an existing non-compose fragment inside of a compose activity?](https://www.reddit.com/r/androiddev/comments/194ykrh/is_there_any_way_to_make_use_of_an_existing/)
-- [Trying to make ADB simpler](https://www.reddit.com/r/androiddev/comments/194xeco/trying_to_make_adb_simpler/)
-- [Help me as SDK Developers to Minimize SDK Issues for Users](https://www.reddit.com/r/androiddev/comments/194uenq/help_me_as_sdk_developers_to_minimize_sdk_issues/)
-- [How do you as an android dev collaborate with product designers during development?](https://www.reddit.com/r/androiddev/comments/194r75l/how_do_you_as_an_android_dev_collaborate_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
