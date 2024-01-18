@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin Illustrated Guide - Sealed Types](https://www.reddit.com/r/androiddev/comments/198yl1m/kotlin_illustrated_guide_sealed_types/)
+- [Jetpack Compose: The Android Developer Roadmap — Part 5](https://www.reddit.com/r/androiddev/comments/198vkfx/jetpack_compose_the_android_developer_roadmap/)
+- [Spotify-KMP: A Kotlin Multiplatform&lpar;KMP&rpar; sample that mirrors the architecture of a production-level app! 🚀](https://www.reddit.com/r/androiddev/comments/198tl3o/spotifykmp_a_kotlin_multiplatformkmp_sample_that/)
+- [GPUPixel: Cross-Platform Real-Time Beauty Filter Library - Achieving Commercial-Grade Beauty Effects](https://www.reddit.com/r/androiddev/comments/198kwwz/gpupixel_crossplatform_realtime_beauty_filter/)
 - [App Automatic Integrity Protection, why is it not mandatory?](https://www.reddit.com/r/androiddev/comments/198i5i9/app_automatic_integrity_protection_why_is_it_not/)
-- [Recommendations of Android OS courses](https://www.reddit.com/r/androiddev/comments/198hixb/recommendations_of_android_os_courses/)
 - [A pop-up notifying users if they want to sign up for an email newsletter, violates terms and conditions?](https://www.reddit.com/r/androiddev/comments/198ge4z/a_popup_notifying_users_if_they_want_to_sign_up/)
 - [Pixel Watch folders inaccessible via wireless debugging](https://www.reddit.com/r/androiddev/comments/1989xxr/pixel_watch_folders_inaccessible_via_wireless/)
 - [Using DRM to provide a unique id](https://www.reddit.com/r/androiddev/comments/19895zn/using_drm_to_provide_a_unique_id/)
 - [Weekly Who&#39;s Hiring Thread - January 15, 2024](https://www.reddit.com/r/androiddev/comments/1979da9/weekly_whos_hiring_thread_january_15_2024/)
 - [Weekly discussion, code review, and feedback thread - January 15, 2024](https://www.reddit.com/r/androiddev/comments/19785wx/weekly_discussion_code_review_and_feedback_thread/)
-- [Android WYSIWYG Rich editor for Jetpack compose.](https://www.reddit.com/r/androiddev/comments/1977u3w/android_wysiwyg_rich_editor_for_jetpack_compose/)
-- [From Lollipop to Android 13: Mastering Background Blur in Compose](https://www.reddit.com/r/androiddev/comments/1971m4o/from_lollipop_to_android_13_mastering_background/)
-- [saveInstanceState vs ViewModel](https://www.reddit.com/r/androiddev/comments/1955zca/saveinstancestate_vs_viewmodel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
