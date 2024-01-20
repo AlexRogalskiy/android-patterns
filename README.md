@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [OH NIO! What is this system property?](https://www.reddit.com/r/androiddev/comments/19a5nw4/oh_nio_what_is_this_system_property/)
-- [DIY: your own Dependency Injection library!](https://www.reddit.com/r/androiddev/comments/19a5kk0/diy_your_own_dependency_injection_library/)
-- [App reviews on Google Play have threshold and are location locked?](https://www.reddit.com/r/androiddev/comments/199rww3/app_reviews_on_google_play_have_threshold_and_are/)
-- [Google play console+](https://www.reddit.com/r/androiddev/comments/199n80p/google_play_console/)
-- [Kotlin Illustrated Guide - Sealed Types](https://www.reddit.com/r/androiddev/comments/198yl1m/kotlin_illustrated_guide_sealed_types/)
-- [Jetpack Compose: The Android Developer Roadmap — Part 5](https://www.reddit.com/r/androiddev/comments/198vkfx/jetpack_compose_the_android_developer_roadmap/)
-- [Spotify-KMP: A Kotlin Multiplatform&lpar;KMP&rpar; sample that mirrors the architecture of a production-level app! 🚀](https://www.reddit.com/r/androiddev/comments/198tl3o/spotifykmp_a_kotlin_multiplatformkmp_sample_that/)
-- [GPUPixel: Cross-Platform Real-Time Beauty Filter Library - Achieving Commercial-Grade Beauty Effects](https://www.reddit.com/r/androiddev/comments/198kwwz/gpupixel_crossplatform_realtime_beauty_filter/)
-- [App Automatic Integrity Protection, why is it not mandatory?](https://www.reddit.com/r/androiddev/comments/198i5i9/app_automatic_integrity_protection_why_is_it_not/)
-- [A pop-up notifying users if they want to sign up for an email newsletter, violates terms and conditions?](https://www.reddit.com/r/androiddev/comments/198ge4z/a_popup_notifying_users_if_they_want_to_sign_up/)
+- [How is our App start-up time? [DAU ~300K]](https://www.reddit.com/r/androiddev/comments/19aw0ox/how_is_our_app_startup_time_dau_300k/)
+- [Mobile is actually pretty hard.](https://www.reddit.com/r/androiddev/comments/19atxf9/mobile_is_actually_pretty_hard/)
+- [Orii Ring accessibility issues](https://www.reddit.com/r/androiddev/comments/19atcf2/orii_ring_accessibility_issues/)
+- [Bug on ChapGpt3.5 on making compose code](https://www.reddit.com/r/androiddev/comments/19asoay/bug_on_chapgpt35_on_making_compose_code/)
+- [Looking for advice, my apk was stolen and google wont remove offender](https://www.reddit.com/r/androiddev/comments/19arhza/looking_for_advice_my_apk_was_stolen_and_google/)
+- [androidIDE](https://www.reddit.com/r/androiddev/comments/19ajbqk/androidide/)
+- [Running compiled-for x86-64 Android CLI programs on bare Linux?](https://www.reddit.com/r/androiddev/comments/19afx8t/running_compiledfor_x8664_android_cli_programs_on/)
+- [How can I revamp the old app to maintain the downloads without keeping anything same?](https://www.reddit.com/r/androiddev/comments/19aegem/how_can_i_revamp_the_old_app_to_maintain_the/)
+- [Digital Accessibility in Mobile Apps](https://www.reddit.com/r/androiddev/comments/19adnb8/digital_accessibility_in_mobile_apps/)
+- [How we made our app start time 40% faster](https://www.reddit.com/r/androiddev/comments/19acnjy/how_we_made_our_app_start_time_40_faster/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
