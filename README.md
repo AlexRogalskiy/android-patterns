@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Continuous Shared Element Transitions from RecyclerView to ViewPager2 using navigation component](https://www.reddit.com/r/androiddev/comments/19cct2v/continuous_shared_element_transitions_from/)
+- [Help - Need open source repositories demonstrating TDD or Unit testing and UI testing in Android](https://www.reddit.com/r/androiddev/comments/19c2mab/help_need_open_source_repositories_demonstrating/)
+- [Show files accessed](https://www.reddit.com/r/androiddev/comments/19c2c49/show_files_accessed/)
+- [My very first Android native app, &quot;BoardIt&quot; a simple note taking app.](https://www.reddit.com/r/androiddev/comments/19c0udb/my_very_first_android_native_app_boardit_a_simple/)
+- [Discussion: Researching a quick browser-based prototyping tool for Android development &lpar;like CodeSandbox or Stackblitz for web-dev&rpar;](https://www.reddit.com/r/androiddev/comments/19bzvqp/discussion_researching_a_quick_browserbased/)
+- [Admob and GDPR](https://www.reddit.com/r/androiddev/comments/19bzc3y/admob_and_gdpr/)
+- [future_of_harmony_os](https://www.reddit.com/r/androiddev/comments/19by8br/future_of_harmony_os/)
+- [Is the new material 3 linear progress indicator confusing for users?](https://www.reddit.com/r/androiddev/comments/19bwskv/is_the_new_material_3_linear_progress_indicator/)
 - [A Better Hash Map](https://www.reddit.com/r/androiddev/comments/19bqj1x/a_better_hash_map/)
 - [kotlinCompilerExtensionVersion in android library](https://www.reddit.com/r/androiddev/comments/19bc80l/kotlincompilerextensionversion_in_android_library/)
-- [Limit app functionality if a user from the EU/UK does not consent to ads/tracking?](https://www.reddit.com/r/androiddev/comments/19b9dw0/limit_app_functionality_if_a_user_from_the_euuk/)
-- [How is our App start-up time? [DAU ~300K]](https://www.reddit.com/r/androiddev/comments/19aw0ox/how_is_our_app_startup_time_dau_300k/)
-- [Mobile is actually pretty hard.](https://www.reddit.com/r/androiddev/comments/19atxf9/mobile_is_actually_pretty_hard/)
-- [Bug on ChapGpt3.5 on making compose code](https://www.reddit.com/r/androiddev/comments/19asoay/bug_on_chapgpt35_on_making_compose_code/)
-- [Looking for advice, my apk was stolen and google wont remove offender](https://www.reddit.com/r/androiddev/comments/19arhza/looking_for_advice_my_apk_was_stolen_and_google/)
-- [androidIDE](https://www.reddit.com/r/androiddev/comments/19ajbqk/androidide/)
-- [Running compiled-for x86-64 Android CLI programs on bare Linux?](https://www.reddit.com/r/androiddev/comments/19afx8t/running_compiledfor_x8664_android_cli_programs_on/)
-- [How can I revamp the old app to maintain the downloads without keeping anything same?](https://www.reddit.com/r/androiddev/comments/19aegem/how_can_i_revamp_the_old_app_to_maintain_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
