@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Continuous Shared Element Transitions from RecyclerView to ViewPager2 using navigation component](https://www.reddit.com/r/androiddev/comments/19cct2v/continuous_shared_element_transitions_from/)
-- [Help - Need open source repositories demonstrating TDD or Unit testing and UI testing in Android](https://www.reddit.com/r/androiddev/comments/19c2mab/help_need_open_source_repositories_demonstrating/)
-- [Show files accessed](https://www.reddit.com/r/androiddev/comments/19c2c49/show_files_accessed/)
-- [My very first Android native app, &quot;BoardIt&quot; a simple note taking app.](https://www.reddit.com/r/androiddev/comments/19c0udb/my_very_first_android_native_app_boardit_a_simple/)
-- [Discussion: Researching a quick browser-based prototyping tool for Android development &lpar;like CodeSandbox or Stackblitz for web-dev&rpar;](https://www.reddit.com/r/androiddev/comments/19bzvqp/discussion_researching_a_quick_browserbased/)
-- [Admob and GDPR](https://www.reddit.com/r/androiddev/comments/19bzc3y/admob_and_gdpr/)
-- [future_of_harmony_os](https://www.reddit.com/r/androiddev/comments/19by8br/future_of_harmony_os/)
-- [Is the new material 3 linear progress indicator confusing for users?](https://www.reddit.com/r/androiddev/comments/19bwskv/is_the_new_material_3_linear_progress_indicator/)
-- [A Better Hash Map](https://www.reddit.com/r/androiddev/comments/19bqj1x/a_better_hash_map/)
-- [kotlinCompilerExtensionVersion in android library](https://www.reddit.com/r/androiddev/comments/19bc80l/kotlincompilerextensionversion_in_android_library/)
+- [Epoxy or Jetpack Compose. What should I use?](https://www.reddit.com/r/androiddev/comments/19dct0z/epoxy_or_jetpack_compose_what_should_i_use/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/19d39i1/android_studio_jellyfish_202331_canary_5_now/)
+- [Share my first Jetpack Compose repo](https://www.reddit.com/r/androiddev/comments/19d0su9/share_my_first_jetpack_compose_repo/)
+- [Very hung up on fine details before release &lpar;Particularly, ensuring the app looks/performs on a variety of devices&rpar;. Advice needed.](https://www.reddit.com/r/androiddev/comments/19d0fer/very_hung_up_on_fine_details_before_release/)
+- [Please advise: Afraid of Publishing my Multiplayer, where players could meet and send send Bitcoin&#39;s to each other](https://www.reddit.com/r/androiddev/comments/19cxu2m/please_advise_afraid_of_publishing_my_multiplayer/)
+- [APK/AAB build distribution](https://www.reddit.com/r/androiddev/comments/19cxqrb/apkaab_build_distribution/)
+- [Need Your Input for a New Indie App Showcase Idea](https://www.reddit.com/r/androiddev/comments/19cxo8j/need_your_input_for_a_new_indie_app_showcase_idea/)
+- [Weekly Who&#39;s Hiring Thread - January 22, 2024](https://www.reddit.com/r/androiddev/comments/19cw9c0/weekly_whos_hiring_thread_january_22_2024/)
+- [Weekly discussion, code review, and feedback thread - January 22, 2024](https://www.reddit.com/r/androiddev/comments/19cv3m3/weekly_discussion_code_review_and_feedback_thread/)
+- [RTK GNSS Receiver](https://www.reddit.com/r/androiddev/comments/19ct154/rtk_gnss_receiver/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
