@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Epoxy or Jetpack Compose. What should I use?](https://www.reddit.com/r/androiddev/comments/19dct0z/epoxy_or_jetpack_compose_what_should_i_use/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/19d39i1/android_studio_jellyfish_202331_canary_5_now/)
-- [Share my first Jetpack Compose repo](https://www.reddit.com/r/androiddev/comments/19d0su9/share_my_first_jetpack_compose_repo/)
-- [Very hung up on fine details before release &lpar;Particularly, ensuring the app looks/performs on a variety of devices&rpar;. Advice needed.](https://www.reddit.com/r/androiddev/comments/19d0fer/very_hung_up_on_fine_details_before_release/)
-- [Please advise: Afraid of Publishing my Multiplayer, where players could meet and send send Bitcoin&#39;s to each other](https://www.reddit.com/r/androiddev/comments/19cxu2m/please_advise_afraid_of_publishing_my_multiplayer/)
-- [APK/AAB build distribution](https://www.reddit.com/r/androiddev/comments/19cxqrb/apkaab_build_distribution/)
-- [Need Your Input for a New Indie App Showcase Idea](https://www.reddit.com/r/androiddev/comments/19cxo8j/need_your_input_for_a_new_indie_app_showcase_idea/)
-- [Weekly Who&#39;s Hiring Thread - January 22, 2024](https://www.reddit.com/r/androiddev/comments/19cw9c0/weekly_whos_hiring_thread_january_22_2024/)
-- [Weekly discussion, code review, and feedback thread - January 22, 2024](https://www.reddit.com/r/androiddev/comments/19cv3m3/weekly_discussion_code_review_and_feedback_thread/)
-- [RTK GNSS Receiver](https://www.reddit.com/r/androiddev/comments/19ct154/rtk_gnss_receiver/)
+- [Worried that my personal accounts gets terminated too.](https://www.reddit.com/r/androiddev/comments/19e0jn7/worried_that_my_personal_accounts_gets_terminated/)
+- [Does anyone use MVC anymore?](https://www.reddit.com/r/androiddev/comments/19e0538/does_anyone_use_mvc_anymore/)
+- [Android Studio Hedgehog | 2023.1.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/19dvwc7/android_studio_hedgehog_202311_patch_2_now/)
+- [&quot;Can&#39;t load content at the moment&quot; error preventing users from selecting folder when using intent with ACTION_OPEN_DOCUMENT_TREE](https://www.reddit.com/r/androiddev/comments/19dvfox/cant_load_content_at_the_moment_error_preventing/)
+- [Mixing ViewModel and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/19dtx4x/mixing_viewmodel_and_jetpack_compose/)
+- [I have open sourced a project to explore latest Android libraries and techniques. Please take a look and provide feedbacks](https://www.reddit.com/r/androiddev/comments/19dtj2q/i_have_open_sourced_a_project_to_explore_latest/)
+- [Date&lpar;&rpar; vs LocalDate&lpar;&rpar;. I&#39;m trying to convince my team the java.util.Date is root cause of all evil](https://www.reddit.com/r/androiddev/comments/19dsvcd/date_vs_localdate_im_trying_to_convince_my_team/)
+- [✨ Gemini Android demonstrates Google&#39;s Generative AI on Android with Stream Chat SDK for Compose](https://www.reddit.com/r/androiddev/comments/19doy70/gemini_android_demonstrates_googles_generative_ai/)
+- [Considerations about server-side verification of in-app purchases when no internet available &lpar;Billing Library&rpar;](https://www.reddit.com/r/androiddev/comments/19diuiv/considerations_about_serverside_verification_of/)
+- [Are there any alternatives for the Associate Android Developer Certification Exam](https://www.reddit.com/r/androiddev/comments/19de1gx/are_there_any_alternatives_for_the_associate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
