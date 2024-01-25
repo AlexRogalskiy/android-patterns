@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Worried that my personal accounts gets terminated too.](https://www.reddit.com/r/androiddev/comments/19e0jn7/worried_that_my_personal_accounts_gets_terminated/)
-- [Does anyone use MVC anymore?](https://www.reddit.com/r/androiddev/comments/19e0538/does_anyone_use_mvc_anymore/)
-- [Android Studio Hedgehog | 2023.1.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/19dvwc7/android_studio_hedgehog_202311_patch_2_now/)
-- [&quot;Can&#39;t load content at the moment&quot; error preventing users from selecting folder when using intent with ACTION_OPEN_DOCUMENT_TREE](https://www.reddit.com/r/androiddev/comments/19dvfox/cant_load_content_at_the_moment_error_preventing/)
-- [Mixing ViewModel and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/19dtx4x/mixing_viewmodel_and_jetpack_compose/)
-- [I have open sourced a project to explore latest Android libraries and techniques. Please take a look and provide feedbacks](https://www.reddit.com/r/androiddev/comments/19dtj2q/i_have_open_sourced_a_project_to_explore_latest/)
-- [Date&lpar;&rpar; vs LocalDate&lpar;&rpar;. I&#39;m trying to convince my team the java.util.Date is root cause of all evil](https://www.reddit.com/r/androiddev/comments/19dsvcd/date_vs_localdate_im_trying_to_convince_my_team/)
-- [✨ Gemini Android demonstrates Google&#39;s Generative AI on Android with Stream Chat SDK for Compose](https://www.reddit.com/r/androiddev/comments/19doy70/gemini_android_demonstrates_googles_generative_ai/)
-- [Considerations about server-side verification of in-app purchases when no internet available &lpar;Billing Library&rpar;](https://www.reddit.com/r/androiddev/comments/19diuiv/considerations_about_serverside_verification_of/)
-- [Are there any alternatives for the Associate Android Developer Certification Exam](https://www.reddit.com/r/androiddev/comments/19de1gx/are_there_any_alternatives_for_the_associate/)
+- [Being reminded to verify an account tied to an inactive email.](https://www.reddit.com/r/androiddev/comments/19ewusg/being_reminded_to_verify_an_account_tied_to_an/)
+- [How do you handle uncaught exceptions in Compose?](https://www.reddit.com/r/androiddev/comments/19evp8n/how_do_you_handle_uncaught_exceptions_in_compose/)
+- [I made a side to create mobile apps super fast 🏃‍♂️💨](https://www.reddit.com/r/androiddev/comments/19eu1us/i_made_a_side_to_create_mobile_apps_super_fast/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/19eu10y/android_studio_jellyfish_202331_canary_6_now/)
+- [Android Developers Blog: What’s new in the Jetpack Compose January ’24 release](https://www.reddit.com/r/androiddev/comments/19etiti/android_developers_blog_whats_new_in_the_jetpack/)
+- [Mecool KM7](https://www.reddit.com/r/androiddev/comments/19ethy0/mecool_km7/)
+- [delete android developer account](https://www.reddit.com/r/androiddev/comments/19eqc63/delete_android_developer_account/)
+- [Multiplatform Magic: One Codebase, Three Platforms](https://www.reddit.com/r/androiddev/comments/19em0d3/multiplatform_magic_one_codebase_three_platforms/)
+- [Google Play stats not showing since January 17th](https://www.reddit.com/r/androiddev/comments/19el788/google_play_stats_not_showing_since_january_17th/)
+- [Country specific App distribution](https://www.reddit.com/r/androiddev/comments/19ek36x/country_specific_app_distribution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
