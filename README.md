@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Being reminded to verify an account tied to an inactive email.](https://www.reddit.com/r/androiddev/comments/19ewusg/being_reminded_to_verify_an_account_tied_to_an/)
-- [How do you handle uncaught exceptions in Compose?](https://www.reddit.com/r/androiddev/comments/19evp8n/how_do_you_handle_uncaught_exceptions_in_compose/)
-- [I made a side to create mobile apps super fast 🏃‍♂️💨](https://www.reddit.com/r/androiddev/comments/19eu1us/i_made_a_side_to_create_mobile_apps_super_fast/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/19eu10y/android_studio_jellyfish_202331_canary_6_now/)
-- [Android Developers Blog: What’s new in the Jetpack Compose January ’24 release](https://www.reddit.com/r/androiddev/comments/19etiti/android_developers_blog_whats_new_in_the_jetpack/)
-- [Mecool KM7](https://www.reddit.com/r/androiddev/comments/19ethy0/mecool_km7/)
-- [delete android developer account](https://www.reddit.com/r/androiddev/comments/19eqc63/delete_android_developer_account/)
-- [Multiplatform Magic: One Codebase, Three Platforms](https://www.reddit.com/r/androiddev/comments/19em0d3/multiplatform_magic_one_codebase_three_platforms/)
-- [Google Play stats not showing since January 17th](https://www.reddit.com/r/androiddev/comments/19el788/google_play_stats_not_showing_since_january_17th/)
-- [Country specific App distribution](https://www.reddit.com/r/androiddev/comments/19ek36x/country_specific_app_distribution/)
+- [Releasing an English-only app internationally](https://www.reddit.com/r/androiddev/comments/1ab6eam/releasing_an_englishonly_app_internationally/)
+- [Changing Google Play Developer Account from Individual to Organization After Linking Payment Profile](https://www.reddit.com/r/androiddev/comments/19fe55x/changing_google_play_developer_account_from/)
+- [Getting started - breaking the blocker how to respond to click events in Jetpack Compose composables](https://www.reddit.com/r/androiddev/comments/19f860y/getting_started_breaking_the_blocker_how_to/)
+- [Compose User Interface and Navigation Modules](https://www.reddit.com/r/androiddev/comments/19f8275/compose_user_interface_and_navigation_modules/)
+- [What’s new in the Jetpack Compose January ’24 release](https://www.reddit.com/r/androiddev/comments/19f7yli/whats_new_in_the_jetpack_compose_january_24/)
+- [EU merchant identity verification deadline reminder](https://www.reddit.com/r/androiddev/comments/19f7l3u/eu_merchant_identity_verification_deadline/)
+- [Share your experience with mobile UI testing approaches and tools](https://www.reddit.com/r/androiddev/comments/19f6ook/share_your_experience_with_mobile_ui_testing/)
+- [Is Android not using its own Face Detector?](https://www.reddit.com/r/androiddev/comments/19f6gf6/is_android_not_using_its_own_face_detector/)
+- [Share My Compose Calendar :&rpar;](https://www.reddit.com/r/androiddev/comments/19f5rls/share_my_compose_calendar/)
+- [Receiving emails even though my account was terminated](https://www.reddit.com/r/androiddev/comments/19f419d/receiving_emails_even_though_my_account_was/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
