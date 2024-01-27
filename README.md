@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Releasing an English-only app internationally](https://www.reddit.com/r/androiddev/comments/1ab6eam/releasing_an_englishonly_app_internationally/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1abpxen/android_studio_jellyfish_202331_canary_7_now/)
+- [Kotlin multiplatform: Android and iOS Icons](https://www.reddit.com/r/androiddev/comments/1abgbks/kotlin_multiplatform_android_and_ios_icons/)
+- [Rust on Android](https://www.reddit.com/r/androiddev/comments/1abg7wy/rust_on_android/)
+- [DataStore vs. SharedPreferences: Real-World Performance Insights](https://www.reddit.com/r/androiddev/comments/1abf1kr/datastore_vs_sharedpreferences_realworld/)
+- [What are the best OpenGL learning resources?](https://www.reddit.com/r/androiddev/comments/1abb884/what_are_the_best_opengl_learning_resources/)
+- [Compile C++ to android with Gradle only&lpar;No AS&rpar;](https://www.reddit.com/r/androiddev/comments/1ab7xo6/compile_c_to_android_with_gradle_onlyno_as/)
 - [Changing Google Play Developer Account from Individual to Organization After Linking Payment Profile](https://www.reddit.com/r/androiddev/comments/19fe55x/changing_google_play_developer_account_from/)
 - [Getting started - breaking the blocker how to respond to click events in Jetpack Compose composables](https://www.reddit.com/r/androiddev/comments/19f860y/getting_started_breaking_the_blocker_how_to/)
 - [Compose User Interface and Navigation Modules](https://www.reddit.com/r/androiddev/comments/19f8275/compose_user_interface_and_navigation_modules/)
-- [What’s new in the Jetpack Compose January ’24 release](https://www.reddit.com/r/androiddev/comments/19f7yli/whats_new_in_the_jetpack_compose_january_24/)
 - [EU merchant identity verification deadline reminder](https://www.reddit.com/r/androiddev/comments/19f7l3u/eu_merchant_identity_verification_deadline/)
-- [Share your experience with mobile UI testing approaches and tools](https://www.reddit.com/r/androiddev/comments/19f6ook/share_your_experience_with_mobile_ui_testing/)
-- [Is Android not using its own Face Detector?](https://www.reddit.com/r/androiddev/comments/19f6gf6/is_android_not_using_its_own_face_detector/)
-- [Share My Compose Calendar :&rpar;](https://www.reddit.com/r/androiddev/comments/19f5rls/share_my_compose_calendar/)
-- [Receiving emails even though my account was terminated](https://www.reddit.com/r/androiddev/comments/19f419d/receiving_emails_even_though_my_account_was/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
