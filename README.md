@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How much time do you spend integrating design assets?](https://www.reddit.com/r/androiddev/comments/1acqjdt/how_much_time_do_you_spend_integrating_design/)
+- [Are there Android developer jobs that hire generalists based on algorithm/data structure skills rather than specific android knowledge?](https://www.reddit.com/r/androiddev/comments/1aco5of/are_there_android_developer_jobs_that_hire/)
+- [I hate cheaters in my own game and I figured out easiest way to drop them from my life](https://www.reddit.com/r/androiddev/comments/1achcqy/i_hate_cheaters_in_my_own_game_and_i_figured_out/)
+- [Competitor removes app using fake impersonation reports](https://www.reddit.com/r/androiddev/comments/1accs9y/competitor_removes_app_using_fake_impersonation/)
+- [How to add and retirves values to hilt viewmodel from different composable without creating a new viewmodel instance](https://www.reddit.com/r/androiddev/comments/1acbpks/how_to_add_and_retirves_values_to_hilt_viewmodel/)
+- [Typesafe-Datastore: Simpler alternative to Proto-DataStore](https://www.reddit.com/r/androiddev/comments/1ac5yfy/typesafedatastore_simpler_alternative_to/)
+- [What is the most stable old version of Android Studio before hedgehog?](https://www.reddit.com/r/androiddev/comments/1ac479c/what_is_the_most_stable_old_version_of_android/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1abpxen/android_studio_jellyfish_202331_canary_7_now/)
 - [Kotlin multiplatform: Android and iOS Icons](https://www.reddit.com/r/androiddev/comments/1abgbks/kotlin_multiplatform_android_and_ios_icons/)
 - [Rust on Android](https://www.reddit.com/r/androiddev/comments/1abg7wy/rust_on_android/)
-- [DataStore vs. SharedPreferences: Real-World Performance Insights](https://www.reddit.com/r/androiddev/comments/1abf1kr/datastore_vs_sharedpreferences_realworld/)
-- [What are the best OpenGL learning resources?](https://www.reddit.com/r/androiddev/comments/1abb884/what_are_the_best_opengl_learning_resources/)
-- [Compile C++ to android with Gradle only&lpar;No AS&rpar;](https://www.reddit.com/r/androiddev/comments/1ab7xo6/compile_c_to_android_with_gradle_onlyno_as/)
-- [Changing Google Play Developer Account from Individual to Organization After Linking Payment Profile](https://www.reddit.com/r/androiddev/comments/19fe55x/changing_google_play_developer_account_from/)
-- [Getting started - breaking the blocker how to respond to click events in Jetpack Compose composables](https://www.reddit.com/r/androiddev/comments/19f860y/getting_started_breaking_the_blocker_how_to/)
-- [Compose User Interface and Navigation Modules](https://www.reddit.com/r/androiddev/comments/19f8275/compose_user_interface_and_navigation_modules/)
-- [EU merchant identity verification deadline reminder](https://www.reddit.com/r/androiddev/comments/19f7l3u/eu_merchant_identity_verification_deadline/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
