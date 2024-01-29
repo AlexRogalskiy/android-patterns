@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building industry level app calorie tracker](https://www.reddit.com/r/androiddev/comments/1adhxtt/building_industry_level_app_calorie_tracker/)
+- [Why does Jetpack Compose not use Box Model ?](https://www.reddit.com/r/androiddev/comments/1ad60n0/why_does_jetpack_compose_not_use_box_model/)
+- [Application architecture incompatible with x86_64](https://www.reddit.com/r/androiddev/comments/1ad0lh7/application_architecture_incompatible_with_x86_64/)
 - [How much time do you spend integrating design assets?](https://www.reddit.com/r/androiddev/comments/1acqjdt/how_much_time_do_you_spend_integrating_design/)
 - [Are there Android developer jobs that hire generalists based on algorithm/data structure skills rather than specific android knowledge?](https://www.reddit.com/r/androiddev/comments/1aco5of/are_there_android_developer_jobs_that_hire/)
 - [I hate cheaters in my own game and I figured out easiest way to drop them from my life](https://www.reddit.com/r/androiddev/comments/1achcqy/i_hate_cheaters_in_my_own_game_and_i_figured_out/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [How to add and retirves values to hilt viewmodel from different composable without creating a new viewmodel instance](https://www.reddit.com/r/androiddev/comments/1acbpks/how_to_add_and_retirves_values_to_hilt_viewmodel/)
 - [Typesafe-Datastore: Simpler alternative to Proto-DataStore](https://www.reddit.com/r/androiddev/comments/1ac5yfy/typesafedatastore_simpler_alternative_to/)
 - [What is the most stable old version of Android Studio before hedgehog?](https://www.reddit.com/r/androiddev/comments/1ac479c/what_is_the_most_stable_old_version_of_android/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1abpxen/android_studio_jellyfish_202331_canary_7_now/)
-- [Kotlin multiplatform: Android and iOS Icons](https://www.reddit.com/r/androiddev/comments/1abgbks/kotlin_multiplatform_android_and_ios_icons/)
-- [Rust on Android](https://www.reddit.com/r/androiddev/comments/1abg7wy/rust_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
