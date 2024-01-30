@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building industry level app calorie tracker](https://www.reddit.com/r/androiddev/comments/1adhxtt/building_industry_level_app_calorie_tracker/)
-- [Why does Jetpack Compose not use Box Model ?](https://www.reddit.com/r/androiddev/comments/1ad60n0/why_does_jetpack_compose_not_use_box_model/)
-- [Application architecture incompatible with x86_64](https://www.reddit.com/r/androiddev/comments/1ad0lh7/application_architecture_incompatible_with_x86_64/)
-- [How much time do you spend integrating design assets?](https://www.reddit.com/r/androiddev/comments/1acqjdt/how_much_time_do_you_spend_integrating_design/)
-- [Are there Android developer jobs that hire generalists based on algorithm/data structure skills rather than specific android knowledge?](https://www.reddit.com/r/androiddev/comments/1aco5of/are_there_android_developer_jobs_that_hire/)
-- [I hate cheaters in my own game and I figured out easiest way to drop them from my life](https://www.reddit.com/r/androiddev/comments/1achcqy/i_hate_cheaters_in_my_own_game_and_i_figured_out/)
-- [Competitor removes app using fake impersonation reports](https://www.reddit.com/r/androiddev/comments/1accs9y/competitor_removes_app_using_fake_impersonation/)
-- [How to add and retirves values to hilt viewmodel from different composable without creating a new viewmodel instance](https://www.reddit.com/r/androiddev/comments/1acbpks/how_to_add_and_retirves_values_to_hilt_viewmodel/)
-- [Typesafe-Datastore: Simpler alternative to Proto-DataStore](https://www.reddit.com/r/androiddev/comments/1ac5yfy/typesafedatastore_simpler_alternative_to/)
-- [What is the most stable old version of Android Studio before hedgehog?](https://www.reddit.com/r/androiddev/comments/1ac479c/what_is_the_most_stable_old_version_of_android/)
+- [How can I have two different versions of an app at the same time](https://www.reddit.com/r/androiddev/comments/1aec6bv/how_can_i_have_two_different_versions_of_an_app/)
+- [Android - Access files from external library in Gradle](https://www.reddit.com/r/androiddev/comments/1aebt66/android_access_files_from_external_library_in/)
+- [Using Dynamic Features in Multiple Apps](https://www.reddit.com/r/androiddev/comments/1ae8pau/using_dynamic_features_in_multiple_apps/)
+- [What has been your biggest setback when converting free trials to in-app subscriptions?](https://www.reddit.com/r/androiddev/comments/1ae2gas/what_has_been_your_biggest_setback_when/)
+- [I&#39;ve got an Appodeal Stack Accelerator program offer](https://www.reddit.com/r/androiddev/comments/1adyl1v/ive_got_an_appodeal_stack_accelerator_program/)
+- [Weekly Who&#39;s Hiring Thread - January 29, 2024](https://www.reddit.com/r/androiddev/comments/1advynd/weekly_whos_hiring_thread_january_29_2024/)
+- [Clarification in sourceCompatibilty java version](https://www.reddit.com/r/androiddev/comments/1adutvl/clarification_in_sourcecompatibilty_java_version/)
+- [Weekly discussion, code review, and feedback thread - January 29, 2024](https://www.reddit.com/r/androiddev/comments/1aduqsy/weekly_discussion_code_review_and_feedback_thread/)
+- [In Textfield, how to put text cursor at where I clicked?](https://www.reddit.com/r/androiddev/comments/1adrbbk/in_textfield_how_to_put_text_cursor_at_where_i/)
+- [How to disable app for certain phone brands on play store?](https://www.reddit.com/r/androiddev/comments/1adloka/how_to_disable_app_for_certain_phone_brands_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
