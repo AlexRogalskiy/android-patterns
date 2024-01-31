@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How can I have two different versions of an app at the same time](https://www.reddit.com/r/androiddev/comments/1aec6bv/how_can_i_have_two_different_versions_of_an_app/)
-- [Android - Access files from external library in Gradle](https://www.reddit.com/r/androiddev/comments/1aebt66/android_access_files_from_external_library_in/)
+- [Android Developers Blog: Prompt users to update to your latest app version](https://www.reddit.com/r/androiddev/comments/1af0rf4/android_developers_blog_prompt_users_to_update_to/)
+- [Help testing Bouncier on Google Play](https://www.reddit.com/r/androiddev/comments/1aeyko2/help_testing_bouncier_on_google_play/)
+- [Android Auto testing](https://www.reddit.com/r/androiddev/comments/1aes57k/android_auto_testing/)
+- [Android - Using Gradle to access files from external library](https://www.reddit.com/r/androiddev/comments/1aeqf7z/android_using_gradle_to_access_files_from/)
+- [Android SDK 1.0](https://www.reddit.com/r/androiddev/comments/1aeorhr/android_sdk_10/)
+- [Why doesn&#39;t Android Room support Dates?](https://www.reddit.com/r/androiddev/comments/1aemtks/why_doesnt_android_room_support_dates/)
+- [RevenueCat vs Adapty vs alternatives?](https://www.reddit.com/r/androiddev/comments/1aemm1b/revenuecat_vs_adapty_vs_alternatives/)
+- [Interview: Google&#39;s new Play Store boss is focused on developers, not lawsuits](https://www.reddit.com/r/androiddev/comments/1aeixbb/interview_googles_new_play_store_boss_is_focused/)
+- [NDK, clang and lld issues](https://www.reddit.com/r/androiddev/comments/1aedyhn/ndk_clang_and_lld_issues/)
 - [Using Dynamic Features in Multiple Apps](https://www.reddit.com/r/androiddev/comments/1ae8pau/using_dynamic_features_in_multiple_apps/)
-- [What has been your biggest setback when converting free trials to in-app subscriptions?](https://www.reddit.com/r/androiddev/comments/1ae2gas/what_has_been_your_biggest_setback_when/)
-- [I&#39;ve got an Appodeal Stack Accelerator program offer](https://www.reddit.com/r/androiddev/comments/1adyl1v/ive_got_an_appodeal_stack_accelerator_program/)
-- [Weekly Who&#39;s Hiring Thread - January 29, 2024](https://www.reddit.com/r/androiddev/comments/1advynd/weekly_whos_hiring_thread_january_29_2024/)
-- [Clarification in sourceCompatibilty java version](https://www.reddit.com/r/androiddev/comments/1adutvl/clarification_in_sourcecompatibilty_java_version/)
-- [Weekly discussion, code review, and feedback thread - January 29, 2024](https://www.reddit.com/r/androiddev/comments/1aduqsy/weekly_discussion_code_review_and_feedback_thread/)
-- [In Textfield, how to put text cursor at where I clicked?](https://www.reddit.com/r/androiddev/comments/1adrbbk/in_textfield_how_to_put_text_cursor_at_where_i/)
-- [How to disable app for certain phone brands on play store?](https://www.reddit.com/r/androiddev/comments/1adloka/how_to_disable_app_for_certain_phone_brands_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
