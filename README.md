@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Dev help](https://www.reddit.com/r/androiddev/comments/1afybd7/dev_help/)
+- [Do you still work on personal projects even as an established Android Developer?](https://www.reddit.com/r/androiddev/comments/1afx3vh/do_you_still_work_on_personal_projects_even_as_an/)
+- [Making a new audio driver?](https://www.reddit.com/r/androiddev/comments/1afri13/making_a_new_audio_driver/)
+- [Can I create a gradle file with Kotlin to have all my dependencies?](https://www.reddit.com/r/androiddev/comments/1afpxa6/can_i_create_a_gradle_file_with_kotlin_to_have/)
+- [What&#39;s your earliest memories as an android developer?](https://www.reddit.com/r/androiddev/comments/1afikhn/whats_your_earliest_memories_as_an_android/)
+- [Sharing My Compose Chart Library](https://www.reddit.com/r/androiddev/comments/1afi9hu/sharing_my_compose_chart_library/)
+- [Simple MVI implementation with delegates](https://www.reddit.com/r/androiddev/comments/1afgm3l/simple_mvi_implementation_with_delegates/)
+- [How do you deal with caching in your apps?](https://www.reddit.com/r/androiddev/comments/1af82ut/how_do_you_deal_with_caching_in_your_apps/)
 - [Android Developers Blog: Prompt users to update to your latest app version](https://www.reddit.com/r/androiddev/comments/1af0rf4/android_developers_blog_prompt_users_to_update_to/)
-- [Help testing Bouncier on Google Play](https://www.reddit.com/r/androiddev/comments/1aeyko2/help_testing_bouncier_on_google_play/)
 - [Android Auto testing](https://www.reddit.com/r/androiddev/comments/1aes57k/android_auto_testing/)
-- [Android - Using Gradle to access files from external library](https://www.reddit.com/r/androiddev/comments/1aeqf7z/android_using_gradle_to_access_files_from/)
-- [Android SDK 1.0](https://www.reddit.com/r/androiddev/comments/1aeorhr/android_sdk_10/)
-- [Why doesn&#39;t Android Room support Dates?](https://www.reddit.com/r/androiddev/comments/1aemtks/why_doesnt_android_room_support_dates/)
-- [RevenueCat vs Adapty vs alternatives?](https://www.reddit.com/r/androiddev/comments/1aemm1b/revenuecat_vs_adapty_vs_alternatives/)
-- [Interview: Google&#39;s new Play Store boss is focused on developers, not lawsuits](https://www.reddit.com/r/androiddev/comments/1aeixbb/interview_googles_new_play_store_boss_is_focused/)
-- [NDK, clang and lld issues](https://www.reddit.com/r/androiddev/comments/1aedyhn/ndk_clang_and_lld_issues/)
-- [Using Dynamic Features in Multiple Apps](https://www.reddit.com/r/androiddev/comments/1ae8pau/using_dynamic_features_in_multiple_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
