@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What security features would you like to see in freeRASP for Android?](https://www.reddit.com/r/androiddev/comments/1agamat/what_security_features_would_you_like_to_see_in/)
+- [Debugging and Observability Tooling](https://www.reddit.com/r/androiddev/comments/1ag9xd1/debugging_and_observability_tooling/)
+- [What are the benefits of Compose &lpar;in reality, not on paper&rpar;?](https://www.reddit.com/r/androiddev/comments/1ag6u8i/what_are_the_benefits_of_compose_in_reality_not/)
+- [MavenGate: a supply chain attack method for Android applications](https://www.reddit.com/r/androiddev/comments/1ag6pk9/mavengate_a_supply_chain_attack_method_for/)
+- [DroidSense - Android Device Manager](https://www.reddit.com/r/androiddev/comments/1ag6frp/droidsense_android_device_manager/)
+- [Realizing client-side scraping method with webview](https://www.reddit.com/r/androiddev/comments/1ag50g3/realizing_clientside_scraping_method_with_webview/)
+- [Seeking Feedback on a Mobile App Development Tool - Your Input Needed!](https://www.reddit.com/r/androiddev/comments/1ag0slg/seeking_feedback_on_a_mobile_app_development_tool/)
 - [Dev help](https://www.reddit.com/r/androiddev/comments/1afybd7/dev_help/)
 - [Do you still work on personal projects even as an established Android Developer?](https://www.reddit.com/r/androiddev/comments/1afx3vh/do_you_still_work_on_personal_projects_even_as_an/)
-- [Making a new audio driver?](https://www.reddit.com/r/androiddev/comments/1afri13/making_a_new_audio_driver/)
 - [Can I create a gradle file with Kotlin to have all my dependencies?](https://www.reddit.com/r/androiddev/comments/1afpxa6/can_i_create_a_gradle_file_with_kotlin_to_have/)
-- [What&#39;s your earliest memories as an android developer?](https://www.reddit.com/r/androiddev/comments/1afikhn/whats_your_earliest_memories_as_an_android/)
-- [Sharing My Compose Chart Library](https://www.reddit.com/r/androiddev/comments/1afi9hu/sharing_my_compose_chart_library/)
-- [Simple MVI implementation with delegates](https://www.reddit.com/r/androiddev/comments/1afgm3l/simple_mvi_implementation_with_delegates/)
-- [How do you deal with caching in your apps?](https://www.reddit.com/r/androiddev/comments/1af82ut/how_do_you_deal_with_caching_in_your_apps/)
-- [Android Developers Blog: Prompt users to update to your latest app version](https://www.reddit.com/r/androiddev/comments/1af0rf4/android_developers_blog_prompt_users_to_update_to/)
-- [Android Auto testing](https://www.reddit.com/r/androiddev/comments/1aes57k/android_auto_testing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
