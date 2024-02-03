@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Modularization has me confused](https://www.reddit.com/r/androiddev/comments/1ahfzsj/modularization_has_me_confused/)
+- [[Reddit Engineering][r/RedditEng] Improving video playback with ExoPlayer](https://www.reddit.com/r/androiddev/comments/1ahfghi/reddit_engineeringrredditeng_improving_video/)
+- [libplacebo support in Android media player?](https://www.reddit.com/r/androiddev/comments/1ahe2fl/libplacebo_support_in_android_media_player/)
+- [Check Out My Android App Remover Project with Accessibility Service - Open Source](https://www.reddit.com/r/androiddev/comments/1ahdy0q/check_out_my_android_app_remover_project_with/)
+- [Publishing overview.](https://www.reddit.com/r/androiddev/comments/1ahcxqq/publishing_overview/)
+- [Jetpack Compose ExperimentalMaterialApi](https://www.reddit.com/r/androiddev/comments/1ahakap/jetpack_compose_experimentalmaterialapi/)
+- [What are your go-to tools and dependencies?](https://www.reddit.com/r/androiddev/comments/1ah9a0q/what_are_your_goto_tools_and_dependencies/)
+- [How do you cache Google Maps tiles &lpar;if at all&rpar;?](https://www.reddit.com/r/androiddev/comments/1agzzjo/how_do_you_cache_google_maps_tiles_if_at_all/)
+- [Closed Test loop requirements](https://www.reddit.com/r/androiddev/comments/1agzi3l/closed_test_loop_requirements/)
 - [What security features would you like to see in freeRASP for Android?](https://www.reddit.com/r/androiddev/comments/1agamat/what_security_features_would_you_like_to_see_in/)
-- [Debugging and Observability Tooling](https://www.reddit.com/r/androiddev/comments/1ag9xd1/debugging_and_observability_tooling/)
-- [What are the benefits of Compose &lpar;in reality, not on paper&rpar;?](https://www.reddit.com/r/androiddev/comments/1ag6u8i/what_are_the_benefits_of_compose_in_reality_not/)
-- [MavenGate: a supply chain attack method for Android applications](https://www.reddit.com/r/androiddev/comments/1ag6pk9/mavengate_a_supply_chain_attack_method_for/)
-- [DroidSense - Android Device Manager](https://www.reddit.com/r/androiddev/comments/1ag6frp/droidsense_android_device_manager/)
-- [Realizing client-side scraping method with webview](https://www.reddit.com/r/androiddev/comments/1ag50g3/realizing_clientside_scraping_method_with_webview/)
-- [Seeking Feedback on a Mobile App Development Tool - Your Input Needed!](https://www.reddit.com/r/androiddev/comments/1ag0slg/seeking_feedback_on_a_mobile_app_development_tool/)
-- [Dev help](https://www.reddit.com/r/androiddev/comments/1afybd7/dev_help/)
-- [Do you still work on personal projects even as an established Android Developer?](https://www.reddit.com/r/androiddev/comments/1afx3vh/do_you_still_work_on_personal_projects_even_as_an/)
-- [Can I create a gradle file with Kotlin to have all my dependencies?](https://www.reddit.com/r/androiddev/comments/1afpxa6/can_i_create_a_gradle_file_with_kotlin_to_have/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
