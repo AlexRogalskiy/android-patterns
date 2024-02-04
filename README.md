@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Modularization had me confused &lpar;Still has but less, updated thoughts&rpar;](https://www.reddit.com/r/androiddev/comments/1ai0081/modularization_had_me_confused_still_has_but_less/)
+- [How to fix a Repetitive Content violation for multiple Apps created before such Policy was introduced?](https://www.reddit.com/r/androiddev/comments/1ahxqqb/how_to_fix_a_repetitive_content_violation_for/)
+- [Android 13 has changed bluetooth commands](https://www.reddit.com/r/androiddev/comments/1ahsgl5/android_13_has_changed_bluetooth_commands/)
 - [Modularization has me confused](https://www.reddit.com/r/androiddev/comments/1ahfzsj/modularization_has_me_confused/)
 - [[Reddit Engineering][r/RedditEng] Improving video playback with ExoPlayer](https://www.reddit.com/r/androiddev/comments/1ahfghi/reddit_engineeringrredditeng_improving_video/)
 - [libplacebo support in Android media player?](https://www.reddit.com/r/androiddev/comments/1ahe2fl/libplacebo_support_in_android_media_player/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Publishing overview.](https://www.reddit.com/r/androiddev/comments/1ahcxqq/publishing_overview/)
 - [Jetpack Compose ExperimentalMaterialApi](https://www.reddit.com/r/androiddev/comments/1ahakap/jetpack_compose_experimentalmaterialapi/)
 - [What are your go-to tools and dependencies?](https://www.reddit.com/r/androiddev/comments/1ah9a0q/what_are_your_goto_tools_and_dependencies/)
-- [How do you cache Google Maps tiles &lpar;if at all&rpar;?](https://www.reddit.com/r/androiddev/comments/1agzzjo/how_do_you_cache_google_maps_tiles_if_at_all/)
-- [Closed Test loop requirements](https://www.reddit.com/r/androiddev/comments/1agzi3l/closed_test_loop_requirements/)
-- [What security features would you like to see in freeRASP for Android?](https://www.reddit.com/r/androiddev/comments/1agamat/what_security_features_would_you_like_to_see_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
