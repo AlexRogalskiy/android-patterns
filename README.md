@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CallStyle to notifications non-dismissable in Android 14](https://www.reddit.com/r/androiddev/comments/1aj22n8/callstyle_to_notifications_nondismissable_in/)
+- [Good code scrubber for pasting into AI tools?](https://www.reddit.com/r/androiddev/comments/1aiypbo/good_code_scrubber_for_pasting_into_ai_tools/)
+- [Is Android Studio Hedgehog buggy for you too?](https://www.reddit.com/r/androiddev/comments/1aixz67/is_android_studio_hedgehog_buggy_for_you_too/)
+- [How to price Lifetime IAP when you have monthly costs](https://www.reddit.com/r/androiddev/comments/1aip8jh/how_to_price_lifetime_iap_when_you_have_monthly/)
+- [Why is the android 14 image much smaller than the android 13 image in the sdk?](https://www.reddit.com/r/androiddev/comments/1ainzmq/why_is_the_android_14_image_much_smaller_than_the/)
+- [🚀 New Charts 1.1.0 release is live!](https://www.reddit.com/r/androiddev/comments/1aimuu4/new_charts_110_release_is_live/)
+- [Is Conductor still relevant?](https://www.reddit.com/r/androiddev/comments/1aijkmy/is_conductor_still_relevant/)
+- [Introducing Stone: Dependency Injection based on weak references](https://www.reddit.com/r/androiddev/comments/1aii8z8/introducing_stone_dependency_injection_based_on/)
 - [Modularization had me confused &lpar;Still has but less, updated thoughts&rpar;](https://www.reddit.com/r/androiddev/comments/1ai0081/modularization_had_me_confused_still_has_but_less/)
 - [How to fix a Repetitive Content violation for multiple Apps created before such Policy was introduced?](https://www.reddit.com/r/androiddev/comments/1ahxqqb/how_to_fix_a_repetitive_content_violation_for/)
-- [Android 13 has changed bluetooth commands](https://www.reddit.com/r/androiddev/comments/1ahsgl5/android_13_has_changed_bluetooth_commands/)
-- [Modularization has me confused](https://www.reddit.com/r/androiddev/comments/1ahfzsj/modularization_has_me_confused/)
-- [[Reddit Engineering][r/RedditEng] Improving video playback with ExoPlayer](https://www.reddit.com/r/androiddev/comments/1ahfghi/reddit_engineeringrredditeng_improving_video/)
-- [libplacebo support in Android media player?](https://www.reddit.com/r/androiddev/comments/1ahe2fl/libplacebo_support_in_android_media_player/)
-- [Check Out My Android App Remover Project with Accessibility Service - Open Source](https://www.reddit.com/r/androiddev/comments/1ahdy0q/check_out_my_android_app_remover_project_with/)
-- [Publishing overview.](https://www.reddit.com/r/androiddev/comments/1ahcxqq/publishing_overview/)
-- [Jetpack Compose ExperimentalMaterialApi](https://www.reddit.com/r/androiddev/comments/1ahakap/jetpack_compose_experimentalmaterialapi/)
-- [What are your go-to tools and dependencies?](https://www.reddit.com/r/androiddev/comments/1ah9a0q/what_are_your_goto_tools_and_dependencies/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
