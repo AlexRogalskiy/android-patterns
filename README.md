@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [CallStyle to notifications non-dismissable in Android 14](https://www.reddit.com/r/androiddev/comments/1aj22n8/callstyle_to_notifications_nondismissable_in/)
-- [Good code scrubber for pasting into AI tools?](https://www.reddit.com/r/androiddev/comments/1aiypbo/good_code_scrubber_for_pasting_into_ai_tools/)
-- [Is Android Studio Hedgehog buggy for you too?](https://www.reddit.com/r/androiddev/comments/1aixz67/is_android_studio_hedgehog_buggy_for_you_too/)
-- [How to price Lifetime IAP when you have monthly costs](https://www.reddit.com/r/androiddev/comments/1aip8jh/how_to_price_lifetime_iap_when_you_have_monthly/)
-- [Why is the android 14 image much smaller than the android 13 image in the sdk?](https://www.reddit.com/r/androiddev/comments/1ainzmq/why_is_the_android_14_image_much_smaller_than_the/)
-- [🚀 New Charts 1.1.0 release is live!](https://www.reddit.com/r/androiddev/comments/1aimuu4/new_charts_110_release_is_live/)
-- [Is Conductor still relevant?](https://www.reddit.com/r/androiddev/comments/1aijkmy/is_conductor_still_relevant/)
-- [Introducing Stone: Dependency Injection based on weak references](https://www.reddit.com/r/androiddev/comments/1aii8z8/introducing_stone_dependency_injection_based_on/)
-- [Modularization had me confused &lpar;Still has but less, updated thoughts&rpar;](https://www.reddit.com/r/androiddev/comments/1ai0081/modularization_had_me_confused_still_has_but_less/)
-- [How to fix a Repetitive Content violation for multiple Apps created before such Policy was introduced?](https://www.reddit.com/r/androiddev/comments/1ahxqqb/how_to_fix_a_repetitive_content_violation_for/)
+- [Seeking Participants for Study on Mobile Developers](https://www.reddit.com/r/androiddev/comments/1ajvk8f/seeking_participants_for_study_on_mobile/)
+- [Which version of android studio has jetpack compose](https://www.reddit.com/r/androiddev/comments/1ajve2r/which_version_of_android_studio_has_jetpack/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1ajubic/android_studio_jellyfish_202331_canary_8_now/)
+- [Android Studio Iguana | 2023.2.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1ajodu4/android_studio_iguana_202321_rc_1_now_available/)
+- [Does eSIMs work on Android Emulators yet?](https://www.reddit.com/r/androiddev/comments/1ajiz7j/does_esims_work_on_android_emulators_yet/)
+- [Weekly Who&#39;s Hiring Thread - February 05, 2024](https://www.reddit.com/r/androiddev/comments/1ajh6cj/weekly_whos_hiring_thread_february_05_2024/)
+- [Weekly discussion, code review, and feedback thread - February 05, 2024](https://www.reddit.com/r/androiddev/comments/1ajfxcy/weekly_discussion_code_review_and_feedback_thread/)
+- [Android 14 Adaptation Guide: Practical Solutions for Upgrading targetSdkVersion to 34](https://www.reddit.com/r/androiddev/comments/1ajcrig/android_14_adaptation_guide_practical_solutions/)
+- [Watch How Alex Vanyo Transforms Android UI with TwoPane Composable! Drag, Split, &amp; RTL Magic!](https://www.reddit.com/r/androiddev/comments/1ajcl1p/watch_how_alex_vanyo_transforms_android_ui_with/)
+- [Is using &lt;receiver&gt; and com.android.vending.INSTALL_REFERRER a security vulnerability for ad fraud?](https://www.reddit.com/r/androiddev/comments/1ajaljl/is_using_receiver_and_comandroidvendinginstall/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
