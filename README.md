@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Seeking Participants for Study on Mobile Developers](https://www.reddit.com/r/androiddev/comments/1ajvk8f/seeking_participants_for_study_on_mobile/)
-- [Which version of android studio has jetpack compose](https://www.reddit.com/r/androiddev/comments/1ajve2r/which_version_of_android_studio_has_jetpack/)
+- [Adding Root CA certs on Android 11](https://www.reddit.com/r/androiddev/comments/1aknghm/adding_root_ca_certs_on_android_11/)
+- [Developer account verification deadline](https://www.reddit.com/r/androiddev/comments/1akm828/developer_account_verification_deadline/)
+- [apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.](https://www.reddit.com/r/androiddev/comments/1aklf5w/apksh_makes_reverse_engineering_android_apps/)
+- [AdMob for Android has a critical bug with music/audio from interstitial ads playing as soon as the ad is loaded, which has been ignored by Google for years](https://www.reddit.com/r/androiddev/comments/1akiy8a/admob_for_android_has_a_critical_bug_with/)
+- [Minimalistic podcast listening app using Jetpack Media 3](https://www.reddit.com/r/androiddev/comments/1akftt5/minimalistic_podcast_listening_app_using_jetpack/)
+- [RAM settings meaning](https://www.reddit.com/r/androiddev/comments/1akf9ph/ram_settings_meaning/)
+- [Is round.com a scam?](https://www.reddit.com/r/androiddev/comments/1akcceo/is_roundcom_a_scam/)
+- [Explain splash screen implementation like I&#39;m 5?](https://www.reddit.com/r/androiddev/comments/1ak3c0b/explain_splash_screen_implementation_like_im_5/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1ajubic/android_studio_jellyfish_202331_canary_8_now/)
 - [Android Studio Iguana | 2023.2.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1ajodu4/android_studio_iguana_202321_rc_1_now_available/)
-- [Does eSIMs work on Android Emulators yet?](https://www.reddit.com/r/androiddev/comments/1ajiz7j/does_esims_work_on_android_emulators_yet/)
-- [Weekly Who&#39;s Hiring Thread - February 05, 2024](https://www.reddit.com/r/androiddev/comments/1ajh6cj/weekly_whos_hiring_thread_february_05_2024/)
-- [Weekly discussion, code review, and feedback thread - February 05, 2024](https://www.reddit.com/r/androiddev/comments/1ajfxcy/weekly_discussion_code_review_and_feedback_thread/)
-- [Android 14 Adaptation Guide: Practical Solutions for Upgrading targetSdkVersion to 34](https://www.reddit.com/r/androiddev/comments/1ajcrig/android_14_adaptation_guide_practical_solutions/)
-- [Watch How Alex Vanyo Transforms Android UI with TwoPane Composable! Drag, Split, &amp; RTL Magic!](https://www.reddit.com/r/androiddev/comments/1ajcl1p/watch_how_alex_vanyo_transforms_android_ui_with/)
-- [Is using &lt;receiver&gt; and com.android.vending.INSTALL_REFERRER a security vulnerability for ad fraud?](https://www.reddit.com/r/androiddev/comments/1ajaljl/is_using_receiver_and_comandroidvendinginstall/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
