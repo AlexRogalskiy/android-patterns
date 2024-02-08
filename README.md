@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Adding Root CA certs on Android 11](https://www.reddit.com/r/androiddev/comments/1aknghm/adding_root_ca_certs_on_android_11/)
-- [Developer account verification deadline](https://www.reddit.com/r/androiddev/comments/1akm828/developer_account_verification_deadline/)
-- [apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.](https://www.reddit.com/r/androiddev/comments/1aklf5w/apksh_makes_reverse_engineering_android_apps/)
-- [AdMob for Android has a critical bug with music/audio from interstitial ads playing as soon as the ad is loaded, which has been ignored by Google for years](https://www.reddit.com/r/androiddev/comments/1akiy8a/admob_for_android_has_a_critical_bug_with/)
-- [Minimalistic podcast listening app using Jetpack Media 3](https://www.reddit.com/r/androiddev/comments/1akftt5/minimalistic_podcast_listening_app_using_jetpack/)
-- [RAM settings meaning](https://www.reddit.com/r/androiddev/comments/1akf9ph/ram_settings_meaning/)
-- [Is round.com a scam?](https://www.reddit.com/r/androiddev/comments/1akcceo/is_roundcom_a_scam/)
-- [Explain splash screen implementation like I&#39;m 5?](https://www.reddit.com/r/androiddev/comments/1ak3c0b/explain_splash_screen_implementation_like_im_5/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1ajubic/android_studio_jellyfish_202331_canary_8_now/)
-- [Android Studio Iguana | 2023.2.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1ajodu4/android_studio_iguana_202321_rc_1_now_available/)
+- [Compiler Explorer is an interactive online compiler. Visualize the compilation output of D8 and dex2oat in real time.](https://www.reddit.com/r/androiddev/comments/1aljdg5/compiler_explorer_is_an_interactive_online/)
+- [Built a Bug reporting Tool specifically for android - Now providing solutions on the spot.](https://www.reddit.com/r/androiddev/comments/1alfe1y/built_a_bug_reporting_tool_specifically_for/)
+- [One-Time Events, StateFlow VS. Channels!](https://www.reddit.com/r/androiddev/comments/1al837u/onetime_events_stateflow_vs_channels/)
+- [Would be preferable to use WorkManager instead of Service for these case scenarios?](https://www.reddit.com/r/androiddev/comments/1al5chb/would_be_preferable_to_use_workmanager_instead_of/)
+- [Intersection Types in Kotlin](https://www.reddit.com/r/androiddev/comments/1al4ox0/intersection_types_in_kotlin/)
+- [Should Design Elements Adjust Based on Screen Size?](https://www.reddit.com/r/androiddev/comments/1al3u0j/should_design_elements_adjust_based_on_screen_size/)
+- [Build an AI Chat Android App With Google’s Generative AI](https://www.reddit.com/r/androiddev/comments/1al1php/build_an_ai_chat_android_app_with_googles/)
+- [Since it&#39;s not possible to edit the Android Manifest programmatically, then it&#39;s not possible to create and use classes of &#39;Service&#39; programatically?](https://www.reddit.com/r/androiddev/comments/1al17i2/since_its_not_possible_to_edit_the_android/)
+- [Emulator forgets my signed-in google account after closing, so I constantly have to resign](https://www.reddit.com/r/androiddev/comments/1akz0ha/emulator_forgets_my_signedin_google_account_after/)
+- [Best practice for styling localised/internationalised text in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1aksg6h/best_practice_for_styling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
