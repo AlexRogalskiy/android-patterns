@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [US Job Market prospects](https://www.reddit.com/r/androiddev/comments/1am6eru/us_job_market_prospects/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1am62s4/android_studio_jellyfish_202331_canary_9_now/)
+- [HiltViewModel Assisted Injection with Compose](https://www.reddit.com/r/androiddev/comments/1am3gqp/hiltviewmodel_assisted_injection_with_compose/)
+- [Average compose app memory consumption](https://www.reddit.com/r/androiddev/comments/1aly10l/average_compose_app_memory_consumption/)
+- [Does Google do audits?](https://www.reddit.com/r/androiddev/comments/1alwsgi/does_google_do_audits/)
+- [Quitting Android dev](https://www.reddit.com/r/androiddev/comments/1alsctk/quitting_android_dev/)
+- [Do you create GP accounts for clients?](https://www.reddit.com/r/androiddev/comments/1als0l8/do_you_create_gp_accounts_for_clients/)
+- [I made a job board dedicated to Android Developers](https://www.reddit.com/r/androiddev/comments/1alp4oa/i_made_a_job_board_dedicated_to_android_developers/)
+- [How should the Memory Usage graph in Firebase Test lab be interpreted?](https://www.reddit.com/r/androiddev/comments/1alkqsr/how_should_the_memory_usage_graph_in_firebase/)
 - [Compiler Explorer is an interactive online compiler. Visualize the compilation output of D8 and dex2oat in real time.](https://www.reddit.com/r/androiddev/comments/1aljdg5/compiler_explorer_is_an_interactive_online/)
-- [Built a Bug reporting Tool specifically for android - Now providing solutions on the spot.](https://www.reddit.com/r/androiddev/comments/1alfe1y/built_a_bug_reporting_tool_specifically_for/)
-- [One-Time Events, StateFlow VS. Channels!](https://www.reddit.com/r/androiddev/comments/1al837u/onetime_events_stateflow_vs_channels/)
-- [Would be preferable to use WorkManager instead of Service for these case scenarios?](https://www.reddit.com/r/androiddev/comments/1al5chb/would_be_preferable_to_use_workmanager_instead_of/)
-- [Intersection Types in Kotlin](https://www.reddit.com/r/androiddev/comments/1al4ox0/intersection_types_in_kotlin/)
-- [Should Design Elements Adjust Based on Screen Size?](https://www.reddit.com/r/androiddev/comments/1al3u0j/should_design_elements_adjust_based_on_screen_size/)
-- [Build an AI Chat Android App With Google’s Generative AI](https://www.reddit.com/r/androiddev/comments/1al1php/build_an_ai_chat_android_app_with_googles/)
-- [Since it&#39;s not possible to edit the Android Manifest programmatically, then it&#39;s not possible to create and use classes of &#39;Service&#39; programatically?](https://www.reddit.com/r/androiddev/comments/1al17i2/since_its_not_possible_to_edit_the_android/)
-- [Emulator forgets my signed-in google account after closing, so I constantly have to resign](https://www.reddit.com/r/androiddev/comments/1akz0ha/emulator_forgets_my_signedin_google_account_after/)
-- [Best practice for styling localised/internationalised text in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1aksg6h/best_practice_for_styling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
