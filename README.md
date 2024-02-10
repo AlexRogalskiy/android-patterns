@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [US Job Market prospects](https://www.reddit.com/r/androiddev/comments/1am6eru/us_job_market_prospects/)
+- [Opinionated architecture](https://www.reddit.com/r/androiddev/comments/1an4m9l/opinionated_architecture/)
+- [Any quick way for me to add a single comment on the first line of all the java files in my android studio project?](https://www.reddit.com/r/androiddev/comments/1an0vjk/any_quick_way_for_me_to_add_a_single_comment_on/)
+- [Optimizing MediaMetadataRetriever](https://www.reddit.com/r/androiddev/comments/1an0k8h/optimizing_mediametadataretriever/)
+- [App takedown - Prominent disclosure is not adequate](https://www.reddit.com/r/androiddev/comments/1amvb4x/app_takedown_prominent_disclosure_is_not_adequate/)
+- [hiding developer options from an app](https://www.reddit.com/r/androiddev/comments/1amv7b0/hiding_developer_options_from_an_app/)
+- [Can we bring back Legacy Layout Inspector?](https://www.reddit.com/r/androiddev/comments/1amsnab/can_we_bring_back_legacy_layout_inspector/)
+- [Kotlin repository github](https://www.reddit.com/r/androiddev/comments/1amm6ow/kotlin_repository_github/)
+- [On February 15th I will be speaking at the committee of petitions of the European Parliament to discuss software attestation on devices running Android through Google Play Protect and SafetyNet and how it affects competitors, here&#39;s the link if you want to follow it live.](https://www.reddit.com/r/androiddev/comments/1amlygm/on_february_15th_i_will_be_speaking_at_the/)
+- [Can Android Studio do everything IntelliJ can do?](https://www.reddit.com/r/androiddev/comments/1amenu7/can_android_studio_do_everything_intellij_can_do/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1am62s4/android_studio_jellyfish_202331_canary_9_now/)
-- [HiltViewModel Assisted Injection with Compose](https://www.reddit.com/r/androiddev/comments/1am3gqp/hiltviewmodel_assisted_injection_with_compose/)
-- [Average compose app memory consumption](https://www.reddit.com/r/androiddev/comments/1aly10l/average_compose_app_memory_consumption/)
-- [Does Google do audits?](https://www.reddit.com/r/androiddev/comments/1alwsgi/does_google_do_audits/)
-- [Quitting Android dev](https://www.reddit.com/r/androiddev/comments/1alsctk/quitting_android_dev/)
-- [Do you create GP accounts for clients?](https://www.reddit.com/r/androiddev/comments/1als0l8/do_you_create_gp_accounts_for_clients/)
-- [I made a job board dedicated to Android Developers](https://www.reddit.com/r/androiddev/comments/1alp4oa/i_made_a_job_board_dedicated_to_android_developers/)
-- [How should the Memory Usage graph in Firebase Test lab be interpreted?](https://www.reddit.com/r/androiddev/comments/1alkqsr/how_should_the_memory_usage_graph_in_firebase/)
-- [Compiler Explorer is an interactive online compiler. Visualize the compilation output of D8 and dex2oat in real time.](https://www.reddit.com/r/androiddev/comments/1aljdg5/compiler_explorer_is_an_interactive_online/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
