@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building &quot;Mobile App Onboarding SDK&quot; for apps/developers](https://www.reddit.com/r/androiddev/comments/1anoo8d/building_mobile_app_onboarding_sdk_for/)
+- [Flavors Paid &amp; Free](https://www.reddit.com/r/androiddev/comments/1anog6j/flavors_paid_free/)
+- [Chromebook screenshots on Google Play](https://www.reddit.com/r/androiddev/comments/1annuhi/chromebook_screenshots_on_google_play/)
+- [How accurate are Google Play &quot;installed apps&quot; numbers?](https://www.reddit.com/r/androiddev/comments/1anjpkc/how_accurate_are_google_play_installed_apps/)
+- [Why this much modularisation and complexity](https://www.reddit.com/r/androiddev/comments/1an8wyb/why_this_much_modularisation_and_complexity/)
+- [Compose unstable lambda parameters](https://www.reddit.com/r/androiddev/comments/1an5emm/compose_unstable_lambda_parameters/)
 - [Opinionated architecture](https://www.reddit.com/r/androiddev/comments/1an4m9l/opinionated_architecture/)
 - [Any quick way for me to add a single comment on the first line of all the java files in my android studio project?](https://www.reddit.com/r/androiddev/comments/1an0vjk/any_quick_way_for_me_to_add_a_single_comment_on/)
 - [Optimizing MediaMetadataRetriever](https://www.reddit.com/r/androiddev/comments/1an0k8h/optimizing_mediametadataretriever/)
 - [App takedown - Prominent disclosure is not adequate](https://www.reddit.com/r/androiddev/comments/1amvb4x/app_takedown_prominent_disclosure_is_not_adequate/)
-- [hiding developer options from an app](https://www.reddit.com/r/androiddev/comments/1amv7b0/hiding_developer_options_from_an_app/)
-- [Can we bring back Legacy Layout Inspector?](https://www.reddit.com/r/androiddev/comments/1amsnab/can_we_bring_back_legacy_layout_inspector/)
-- [Kotlin repository github](https://www.reddit.com/r/androiddev/comments/1amm6ow/kotlin_repository_github/)
-- [On February 15th I will be speaking at the committee of petitions of the European Parliament to discuss software attestation on devices running Android through Google Play Protect and SafetyNet and how it affects competitors, here&#39;s the link if you want to follow it live.](https://www.reddit.com/r/androiddev/comments/1amlygm/on_february_15th_i_will_be_speaking_at_the/)
-- [Can Android Studio do everything IntelliJ can do?](https://www.reddit.com/r/androiddev/comments/1amenu7/can_android_studio_do_everything_intellij_can_do/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1am62s4/android_studio_jellyfish_202331_canary_9_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
