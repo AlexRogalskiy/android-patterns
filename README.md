@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best practice for communicating from a nested Composable to its parent Composable?](https://www.reddit.com/r/androiddev/comments/1aoigoi/best_practice_for_communicating_from_a_nested/)
+- [Repo with copies of the templates used by Android Studio when creating a new project.](https://www.reddit.com/r/androiddev/comments/1aobq9o/repo_with_copies_of_the_templates_used_by_android/)
+- [An article about the inner workings of the Room Database library](https://www.reddit.com/r/androiddev/comments/1ao7q79/an_article_about_the_inner_workings_of_the_room/)
+- [Any good public examples of clean architecture Kotlin Compose projects?](https://www.reddit.com/r/androiddev/comments/1ao786p/any_good_public_examples_of_clean_architecture/)
+- [Crafting Android bytecode analysis tooling using a secret ingredient &lpar;Part 1&rpar;Crafting Android bytecode analysis tooling using a secret ingredient &lpar;Part 1&rpar;](https://www.reddit.com/r/androiddev/comments/1ao5zy1/crafting_android_bytecode_analysis_tooling_using/)
+- [What&#39;s the easiest and most convenient way to distribute your apps &lpar;watch, tv, phone&rpar; amongst family and friends?](https://www.reddit.com/r/androiddev/comments/1ao4vul/whats_the_easiest_and_most_convenient_way_to/)
+- [Is it true that ViewModel can replace most of the work in Service?](https://www.reddit.com/r/androiddev/comments/1any5rd/is_it_true_that_viewmodel_can_replace_most_of_the/)
 - [Building &quot;Mobile App Onboarding SDK&quot; for apps/developers](https://www.reddit.com/r/androiddev/comments/1anoo8d/building_mobile_app_onboarding_sdk_for/)
 - [Flavors Paid &amp; Free](https://www.reddit.com/r/androiddev/comments/1anog6j/flavors_paid_free/)
 - [Chromebook screenshots on Google Play](https://www.reddit.com/r/androiddev/comments/1annuhi/chromebook_screenshots_on_google_play/)
-- [How accurate are Google Play &quot;installed apps&quot; numbers?](https://www.reddit.com/r/androiddev/comments/1anjpkc/how_accurate_are_google_play_installed_apps/)
-- [Why this much modularisation and complexity](https://www.reddit.com/r/androiddev/comments/1an8wyb/why_this_much_modularisation_and_complexity/)
-- [Compose unstable lambda parameters](https://www.reddit.com/r/androiddev/comments/1an5emm/compose_unstable_lambda_parameters/)
-- [Opinionated architecture](https://www.reddit.com/r/androiddev/comments/1an4m9l/opinionated_architecture/)
-- [Any quick way for me to add a single comment on the first line of all the java files in my android studio project?](https://www.reddit.com/r/androiddev/comments/1an0vjk/any_quick_way_for_me_to_add_a_single_comment_on/)
-- [Optimizing MediaMetadataRetriever](https://www.reddit.com/r/androiddev/comments/1an0k8h/optimizing_mediametadataretriever/)
-- [App takedown - Prominent disclosure is not adequate](https://www.reddit.com/r/androiddev/comments/1amvb4x/app_takedown_prominent_disclosure_is_not_adequate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
