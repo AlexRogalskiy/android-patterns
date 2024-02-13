@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best practice for communicating from a nested Composable to its parent Composable?](https://www.reddit.com/r/androiddev/comments/1aoigoi/best_practice_for_communicating_from_a_nested/)
-- [Repo with copies of the templates used by Android Studio when creating a new project.](https://www.reddit.com/r/androiddev/comments/1aobq9o/repo_with_copies_of_the_templates_used_by_android/)
-- [An article about the inner workings of the Room Database library](https://www.reddit.com/r/androiddev/comments/1ao7q79/an_article_about_the_inner_workings_of_the_room/)
-- [Any good public examples of clean architecture Kotlin Compose projects?](https://www.reddit.com/r/androiddev/comments/1ao786p/any_good_public_examples_of_clean_architecture/)
-- [Crafting Android bytecode analysis tooling using a secret ingredient &lpar;Part 1&rpar;Crafting Android bytecode analysis tooling using a secret ingredient &lpar;Part 1&rpar;](https://www.reddit.com/r/androiddev/comments/1ao5zy1/crafting_android_bytecode_analysis_tooling_using/)
-- [What&#39;s the easiest and most convenient way to distribute your apps &lpar;watch, tv, phone&rpar; amongst family and friends?](https://www.reddit.com/r/androiddev/comments/1ao4vul/whats_the_easiest_and_most_convenient_way_to/)
-- [Is it true that ViewModel can replace most of the work in Service?](https://www.reddit.com/r/androiddev/comments/1any5rd/is_it_true_that_viewmodel_can_replace_most_of_the/)
-- [Building &quot;Mobile App Onboarding SDK&quot; for apps/developers](https://www.reddit.com/r/androiddev/comments/1anoo8d/building_mobile_app_onboarding_sdk_for/)
-- [Flavors Paid &amp; Free](https://www.reddit.com/r/androiddev/comments/1anog6j/flavors_paid_free/)
-- [Chromebook screenshots on Google Play](https://www.reddit.com/r/androiddev/comments/1annuhi/chromebook_screenshots_on_google_play/)
+- [How to use Google sign-in using Credential Manager with Supabase Auth.](https://www.reddit.com/r/androiddev/comments/1apgdd7/how_to_use_google_signin_using_credential_manager/)
+- [Material Design 3 for Compose 1.2](https://www.reddit.com/r/androiddev/comments/1apeff8/material_design_3_for_compose_12/)
+- [Passing viewmodel to composables instead of State](https://www.reddit.com/r/androiddev/comments/1apab0n/passing_viewmodel_to_composables_instead_of_state/)
+- [Thinking of uploading an app in the play store for the first time but not sure if it could be taken down for copyright.](https://www.reddit.com/r/androiddev/comments/1ap7s5r/thinking_of_uploading_an_app_in_the_play_store/)
+- [What are the ethical way ofmonitizing an app?](https://www.reddit.com/r/androiddev/comments/1ap6wmy/what_are_the_ethical_way_ofmonitizing_an_app/)
+- [Weekly Who&#39;s Hiring Thread - February 12, 2024](https://www.reddit.com/r/androiddev/comments/1ap0n8b/weekly_whos_hiring_thread_february_12_2024/)
+- [Weekly discussion, code review, and feedback thread - February 12, 2024](https://www.reddit.com/r/androiddev/comments/1aozgtt/weekly_discussion_code_review_and_feedback_thread/)
+- [Architecture: do you use a different services for each task or a single service that handles the different tasks depending on user selection?](https://www.reddit.com/r/androiddev/comments/1aow8yu/architecture_do_you_use_a_different_services_for/)
+- [Account Deletion Requirement: Invalid account / data deletion link on your Data safety form](https://www.reddit.com/r/androiddev/comments/1aouhj0/account_deletion_requirement_invalid_account_data/)
+- [Jetpack compose modularisation question](https://www.reddit.com/r/androiddev/comments/1aouh1m/jetpack_compose_modularisation_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
