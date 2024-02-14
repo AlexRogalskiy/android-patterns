@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Need Advice] Alternative Google contact methods to get an account verified.](https://www.reddit.com/r/androiddev/comments/1aq3vna/need_advice_alternative_google_contact_methods_to/)
+- [Android Studio Iguana | 2023.2.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1aq2vp2/android_studio_iguana_202321_rc_2_now_available/)
+- [Recyclerview data](https://www.reddit.com/r/androiddev/comments/1aq1pvp/recyclerview_data/)
+- [How to controll lazycolumn animations?](https://www.reddit.com/r/androiddev/comments/1aq0ajn/how_to_controll_lazycolumn_animations/)
+- [What is the best way for composables to access the navController without state hoisting so much?](https://www.reddit.com/r/androiddev/comments/1apx9ju/what_is_the_best_way_for_composables_to_access/)
+- [Open source Playstore Review Responder with AI](https://www.reddit.com/r/androiddev/comments/1apsx15/open_source_playstore_review_responder_with_ai/)
+- [What are your views on Compose official sample apps](https://www.reddit.com/r/androiddev/comments/1apm7gd/what_are_your_views_on_compose_official_sample/)
 - [How to use Google sign-in using Credential Manager with Supabase Auth.](https://www.reddit.com/r/androiddev/comments/1apgdd7/how_to_use_google_signin_using_credential_manager/)
 - [Material Design 3 for Compose 1.2](https://www.reddit.com/r/androiddev/comments/1apeff8/material_design_3_for_compose_12/)
 - [Passing viewmodel to composables instead of State](https://www.reddit.com/r/androiddev/comments/1apab0n/passing_viewmodel_to_composables_instead_of_state/)
-- [Thinking of uploading an app in the play store for the first time but not sure if it could be taken down for copyright.](https://www.reddit.com/r/androiddev/comments/1ap7s5r/thinking_of_uploading_an_app_in_the_play_store/)
-- [What are the ethical way ofmonitizing an app?](https://www.reddit.com/r/androiddev/comments/1ap6wmy/what_are_the_ethical_way_ofmonitizing_an_app/)
-- [Weekly Who&#39;s Hiring Thread - February 12, 2024](https://www.reddit.com/r/androiddev/comments/1ap0n8b/weekly_whos_hiring_thread_february_12_2024/)
-- [Weekly discussion, code review, and feedback thread - February 12, 2024](https://www.reddit.com/r/androiddev/comments/1aozgtt/weekly_discussion_code_review_and_feedback_thread/)
-- [Architecture: do you use a different services for each task or a single service that handles the different tasks depending on user selection?](https://www.reddit.com/r/androiddev/comments/1aow8yu/architecture_do_you_use_a_different_services_for/)
-- [Account Deletion Requirement: Invalid account / data deletion link on your Data safety form](https://www.reddit.com/r/androiddev/comments/1aouhj0/account_deletion_requirement_invalid_account_data/)
-- [Jetpack compose modularisation question](https://www.reddit.com/r/androiddev/comments/1aouh1m/jetpack_compose_modularisation_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
