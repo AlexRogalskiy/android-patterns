@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Openmw android launcher](https://www.reddit.com/r/androiddev/comments/1aruj9x/openmw_android_launcher/)
+- [How to take a good path, with trying to get a job? And how I can tell, when I truly know basics about specific framework, library in android development?](https://www.reddit.com/r/androiddev/comments/1arq6bu/how_to_take_a_good_path_with_trying_to_get_a_job/)
+- [Associating app link to an Android library](https://www.reddit.com/r/androiddev/comments/1arp80a/associating_app_link_to_an_android_library/)
+- [Invalid Data deletion link on Play-store](https://www.reddit.com/r/androiddev/comments/1arfxcp/invalid_data_deletion_link_on_playstore/)
+- [🌇 PhotoView is an ImageView component for Android that enables zoom functionality through diverse touch gestures](https://www.reddit.com/r/androiddev/comments/1arf068/photoview_is_an_imageview_component_for_android/)
+- [People who have the Events feature available on Google Play, how do you create one?](https://www.reddit.com/r/androiddev/comments/1ardoii/people_who_have_the_events_feature_available_on/)
+- [Deletion of unused Google Play Developer Account not possible?](https://www.reddit.com/r/androiddev/comments/1arbfk6/deletion_of_unused_google_play_developer_account/)
+- [KMM vs Native](https://www.reddit.com/r/androiddev/comments/1ar7y42/kmm_vs_native/)
 - [Guide how I cut my Composables in the shape of an image](https://www.reddit.com/r/androiddev/comments/1aqsh9m/guide_how_i_cut_my_composables_in_the_shape_of_an/)
 - [Better performance for a Service by setting the Thread with a higher priority?](https://www.reddit.com/r/androiddev/comments/1aqqaf6/better_performance_for_a_service_by_setting_the/)
-- [Share Your Thoughts: Feedback Welcome on My Debut App, Minimum!](https://www.reddit.com/r/androiddev/comments/1aqnayv/share_your_thoughts_feedback_welcome_on_my_debut/)
-- [[Need Advice] Alternative Google contact methods to get an account verified.](https://www.reddit.com/r/androiddev/comments/1aq3vna/need_advice_alternative_google_contact_methods_to/)
-- [Android Studio Iguana | 2023.2.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1aq2vp2/android_studio_iguana_202321_rc_2_now_available/)
-- [Recyclerview data](https://www.reddit.com/r/androiddev/comments/1aq1pvp/recyclerview_data/)
-- [How to controll lazycolumn animations?](https://www.reddit.com/r/androiddev/comments/1aq0ajn/how_to_controll_lazycolumn_animations/)
-- [What is the best way for composables to access the navController without state hoisting so much?](https://www.reddit.com/r/androiddev/comments/1apx9ju/what_is_the_best_way_for_composables_to_access/)
-- [Open source Playstore Review Responder with AI](https://www.reddit.com/r/androiddev/comments/1apsx15/open_source_playstore_review_responder_with_ai/)
-- [What are your views on Compose official sample apps](https://www.reddit.com/r/androiddev/comments/1apm7gd/what_are_your_views_on_compose_official_sample/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
