@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android 15 Developer Preview released](https://www.reddit.com/r/androiddev/comments/1asi7wv/android_15_developer_preview_released/)
+- [The first Dev Preview of Android 15 is here!](https://www.reddit.com/r/androiddev/comments/1asgmum/the_first_dev_preview_of_android_15_is_here/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 10 now available](https://www.reddit.com/r/androiddev/comments/1asgif1/android_studio_jellyfish_202331_canary_10_now/)
+- [What have your interviews been like recently? Android has changed alot in 2-3 years . What are some questions asked in recent interviews?](https://www.reddit.com/r/androiddev/comments/1as9sls/what_have_your_interviews_been_like_recently/)
+- [ChatGPT and DALL-E for WearOS &lpar;WristAssist v3&rpar;](https://www.reddit.com/r/androiddev/comments/1as9lzx/chatgpt_and_dalle_for_wearos_wristassist_v3/)
+- [Different ways to change the color of Status bar and Navigation bar in Android Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1as8yeg/different_ways_to_change_the_color_of_status_bar/)
 - [Openmw android launcher](https://www.reddit.com/r/androiddev/comments/1aruj9x/openmw_android_launcher/)
-- [How to take a good path, with trying to get a job? And how I can tell, when I truly know basics about specific framework, library in android development?](https://www.reddit.com/r/androiddev/comments/1arq6bu/how_to_take_a_good_path_with_trying_to_get_a_job/)
-- [Associating app link to an Android library](https://www.reddit.com/r/androiddev/comments/1arp80a/associating_app_link_to_an_android_library/)
 - [Invalid Data deletion link on Play-store](https://www.reddit.com/r/androiddev/comments/1arfxcp/invalid_data_deletion_link_on_playstore/)
 - [🌇 PhotoView is an ImageView component for Android that enables zoom functionality through diverse touch gestures](https://www.reddit.com/r/androiddev/comments/1arf068/photoview_is_an_imageview_component_for_android/)
 - [People who have the Events feature available on Google Play, how do you create one?](https://www.reddit.com/r/androiddev/comments/1ardoii/people_who_have_the_events_feature_available_on/)
-- [Deletion of unused Google Play Developer Account not possible?](https://www.reddit.com/r/androiddev/comments/1arbfk6/deletion_of_unused_google_play_developer_account/)
-- [KMM vs Native](https://www.reddit.com/r/androiddev/comments/1ar7y42/kmm_vs_native/)
-- [Guide how I cut my Composables in the shape of an image](https://www.reddit.com/r/androiddev/comments/1aqsh9m/guide_how_i_cut_my_composables_in_the_shape_of_an/)
-- [Better performance for a Service by setting the Thread with a higher priority?](https://www.reddit.com/r/androiddev/comments/1aqqaf6/better_performance_for_a_service_by_setting_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
