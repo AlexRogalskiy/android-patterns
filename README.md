@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android 15 Developer Preview released](https://www.reddit.com/r/androiddev/comments/1asi7wv/android_15_developer_preview_released/)
+- [Logging Interceptors](https://www.reddit.com/r/androiddev/comments/1atgdji/logging_interceptors/)
+- [So Long, and Thanks for All the Bytes](https://www.reddit.com/r/androiddev/comments/1atet10/so_long_and_thanks_for_all_the_bytes/)
+- [Where is the Energy Profiler on Android Studio](https://www.reddit.com/r/androiddev/comments/1atcg9g/where_is_the_energy_profiler_on_android_studio/)
+- [I&#39;m Surprised](https://www.reddit.com/r/androiddev/comments/1at7kcu/im_surprised/)
+- [Tiny App, BIG Results! Open Any URL Faster with 12ft.io on Android with Intent Filters!](https://www.reddit.com/r/androiddev/comments/1at6l47/tiny_app_big_results_open_any_url_faster_with/)
+- [GitHub - CharlesMoreira1/lingshot: Android application following best practices: Kotlin, Coroutines, JetPack Compose, Clean Architecture, Feature Modules, MVVM, DI, Static Analysis...](https://www.reddit.com/r/androiddev/comments/1at0b74/github_charlesmoreira1lingshot_android/)
+- [Is a dependency injection framework really needed for Kotlin?](https://www.reddit.com/r/androiddev/comments/1asvydo/is_a_dependency_injection_framework_really_needed/)
 - [The first Dev Preview of Android 15 is here!](https://www.reddit.com/r/androiddev/comments/1asgmum/the_first_dev_preview_of_android_15_is_here/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 10 now available](https://www.reddit.com/r/androiddev/comments/1asgif1/android_studio_jellyfish_202331_canary_10_now/)
 - [What have your interviews been like recently? Android has changed alot in 2-3 years . What are some questions asked in recent interviews?](https://www.reddit.com/r/androiddev/comments/1as9sls/what_have_your_interviews_been_like_recently/)
-- [ChatGPT and DALL-E for WearOS &lpar;WristAssist v3&rpar;](https://www.reddit.com/r/androiddev/comments/1as9lzx/chatgpt_and_dalle_for_wearos_wristassist_v3/)
-- [Different ways to change the color of Status bar and Navigation bar in Android Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1as8yeg/different_ways_to_change_the_color_of_status_bar/)
-- [Openmw android launcher](https://www.reddit.com/r/androiddev/comments/1aruj9x/openmw_android_launcher/)
-- [Invalid Data deletion link on Play-store](https://www.reddit.com/r/androiddev/comments/1arfxcp/invalid_data_deletion_link_on_playstore/)
-- [🌇 PhotoView is an ImageView component for Android that enables zoom functionality through diverse touch gestures](https://www.reddit.com/r/androiddev/comments/1arf068/photoview_is_an_imageview_component_for_android/)
-- [People who have the Events feature available on Google Play, how do you create one?](https://www.reddit.com/r/androiddev/comments/1ardoii/people_who_have_the_events_feature_available_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
