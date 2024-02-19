@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone offloading Android emulators to Raspberry Pis or other cheap hardware?](https://www.reddit.com/r/androiddev/comments/1au4o6r/anyone_offloading_android_emulators_to_raspberry/)
+- [Where to learn full use of the IDE?](https://www.reddit.com/r/androiddev/comments/1atwufg/where_to_learn_full_use_of_the_ide/)
+- [Is media3 migration worth it?](https://www.reddit.com/r/androiddev/comments/1atqkjs/is_media3_migration_worth_it/)
+- [SharedFlow is not getting collected in previous fragment when another fragment is added on top](https://www.reddit.com/r/androiddev/comments/1atppll/sharedflow_is_not_getting_collected_in_previous/)
 - [Logging Interceptors](https://www.reddit.com/r/androiddev/comments/1atgdji/logging_interceptors/)
 - [So Long, and Thanks for All the Bytes](https://www.reddit.com/r/androiddev/comments/1atet10/so_long_and_thanks_for_all_the_bytes/)
 - [Where is the Energy Profiler on Android Studio](https://www.reddit.com/r/androiddev/comments/1atcg9g/where_is_the_energy_profiler_on_android_studio/)
 - [I&#39;m Surprised](https://www.reddit.com/r/androiddev/comments/1at7kcu/im_surprised/)
 - [Tiny App, BIG Results! Open Any URL Faster with 12ft.io on Android with Intent Filters!](https://www.reddit.com/r/androiddev/comments/1at6l47/tiny_app_big_results_open_any_url_faster_with/)
 - [GitHub - CharlesMoreira1/lingshot: Android application following best practices: Kotlin, Coroutines, JetPack Compose, Clean Architecture, Feature Modules, MVVM, DI, Static Analysis...](https://www.reddit.com/r/androiddev/comments/1at0b74/github_charlesmoreira1lingshot_android/)
-- [Is a dependency injection framework really needed for Kotlin?](https://www.reddit.com/r/androiddev/comments/1asvydo/is_a_dependency_injection_framework_really_needed/)
-- [The first Dev Preview of Android 15 is here!](https://www.reddit.com/r/androiddev/comments/1asgmum/the_first_dev_preview_of_android_15_is_here/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 10 now available](https://www.reddit.com/r/androiddev/comments/1asgif1/android_studio_jellyfish_202331_canary_10_now/)
-- [What have your interviews been like recently? Android has changed alot in 2-3 years . What are some questions asked in recent interviews?](https://www.reddit.com/r/androiddev/comments/1as9sls/what_have_your_interviews_been_like_recently/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
