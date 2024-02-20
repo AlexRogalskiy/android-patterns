@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone offloading Android emulators to Raspberry Pis or other cheap hardware?](https://www.reddit.com/r/androiddev/comments/1au4o6r/anyone_offloading_android_emulators_to_raspberry/)
-- [Where to learn full use of the IDE?](https://www.reddit.com/r/androiddev/comments/1atwufg/where_to_learn_full_use_of_the_ide/)
-- [Is media3 migration worth it?](https://www.reddit.com/r/androiddev/comments/1atqkjs/is_media3_migration_worth_it/)
-- [SharedFlow is not getting collected in previous fragment when another fragment is added on top](https://www.reddit.com/r/androiddev/comments/1atppll/sharedflow_is_not_getting_collected_in_previous/)
-- [Logging Interceptors](https://www.reddit.com/r/androiddev/comments/1atgdji/logging_interceptors/)
-- [So Long, and Thanks for All the Bytes](https://www.reddit.com/r/androiddev/comments/1atet10/so_long_and_thanks_for_all_the_bytes/)
-- [Where is the Energy Profiler on Android Studio](https://www.reddit.com/r/androiddev/comments/1atcg9g/where_is_the_energy_profiler_on_android_studio/)
-- [I&#39;m Surprised](https://www.reddit.com/r/androiddev/comments/1at7kcu/im_surprised/)
-- [Tiny App, BIG Results! Open Any URL Faster with 12ft.io on Android with Intent Filters!](https://www.reddit.com/r/androiddev/comments/1at6l47/tiny_app_big_results_open_any_url_faster_with/)
-- [GitHub - CharlesMoreira1/lingshot: Android application following best practices: Kotlin, Coroutines, JetPack Compose, Clean Architecture, Feature Modules, MVVM, DI, Static Analysis...](https://www.reddit.com/r/androiddev/comments/1at0b74/github_charlesmoreira1lingshot_android/)
+- [Merchant account in Georgia &lpar;country&rpar;](https://www.reddit.com/r/androiddev/comments/1av3qmf/merchant_account_in_georgia_country/)
+- [What is the smallest reasonable screen size I should account for in my responsive app?](https://www.reddit.com/r/androiddev/comments/1av3l6g/what_is_the_smallest_reasonable_screen_size_i/)
+- [Benchmarks for apps](https://www.reddit.com/r/androiddev/comments/1av3l09/benchmarks_for_apps/)
+- [Google play rejected app on &quot;- Policy Declaration - Data Safety Section&quot; more specifically on user account/deletion link.](https://www.reddit.com/r/androiddev/comments/1auzgdl/google_play_rejected_app_on_policy_declaration/)
+- [Is it possible to see in Play Console what % of downloads found your app via direct search?&lpar;not cat or tag&rpar;.](https://www.reddit.com/r/androiddev/comments/1auvwgj/is_it_possible_to_see_in_play_console_what_of/)
+- [Guys my play console account got terminated today can i create a new account on same pc with same debit card.](https://www.reddit.com/r/androiddev/comments/1auvlkz/guys_my_play_console_account_got_terminated_today/)
+- [Type Stability in Compose](https://www.reddit.com/r/androiddev/comments/1aupt2c/type_stability_in_compose/)
+- [[Code Review] Delog: SecureScuttlebut Blob Management, Part 1: &quot;User Interface&quot;](https://www.reddit.com/r/androiddev/comments/1aupd3a/code_review_delog_securescuttlebut_blob/)
+- [Open-source Messenger App for Android](https://www.reddit.com/r/androiddev/comments/1aunyxp/opensource_messenger_app_for_android/)
+- [Weekly Who&#39;s Hiring Thread - February 19, 2024](https://www.reddit.com/r/androiddev/comments/1auny64/weekly_whos_hiring_thread_february_19_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
