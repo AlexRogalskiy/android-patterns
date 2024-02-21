@@ -271,15 +271,15 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Merchant account in Georgia &lpar;country&rpar;](https://www.reddit.com/r/androiddev/comments/1av3qmf/merchant_account_in_georgia_country/)
-- [What is the smallest reasonable screen size I should account for in my responsive app?](https://www.reddit.com/r/androiddev/comments/1av3l6g/what_is_the_smallest_reasonable_screen_size_i/)
-- [Benchmarks for apps](https://www.reddit.com/r/androiddev/comments/1av3l09/benchmarks_for_apps/)
+- [Why capturing the screen with two different methods but with same compression and quality gives different OCR results?](https://www.reddit.com/r/androiddev/comments/1avo0l7/why_capturing_the_screen_with_two_different/)
+- [Learnt side-effects in jetpack practically by mistake,](https://www.reddit.com/r/androiddev/comments/1avl15v/learnt_sideeffects_in_jetpack_practically_by/)
+- [Implementation example of Messenger App for Android](https://www.reddit.com/r/androiddev/comments/1aveob2/implementation_example_of_messenger_app_for/)
+- [Is there any way to auto add/force developers to add migration for room database.](https://www.reddit.com/r/androiddev/comments/1avd1jq/is_there_any_way_to_auto_addforce_developers_to/)
 - [Google play rejected app on &quot;- Policy Declaration - Data Safety Section&quot; more specifically on user account/deletion link.](https://www.reddit.com/r/androiddev/comments/1auzgdl/google_play_rejected_app_on_policy_declaration/)
 - [Is it possible to see in Play Console what % of downloads found your app via direct search?&lpar;not cat or tag&rpar;.](https://www.reddit.com/r/androiddev/comments/1auvwgj/is_it_possible_to_see_in_play_console_what_of/)
 - [Guys my play console account got terminated today can i create a new account on same pc with same debit card.](https://www.reddit.com/r/androiddev/comments/1auvlkz/guys_my_play_console_account_got_terminated_today/)
 - [Type Stability in Compose](https://www.reddit.com/r/androiddev/comments/1aupt2c/type_stability_in_compose/)
 - [[Code Review] Delog: SecureScuttlebut Blob Management, Part 1: &quot;User Interface&quot;](https://www.reddit.com/r/androiddev/comments/1aupd3a/code_review_delog_securescuttlebut_blob/)
-- [Open-source Messenger App for Android](https://www.reddit.com/r/androiddev/comments/1aunyxp/opensource_messenger_app_for_android/)
 - [Weekly Who&#39;s Hiring Thread - February 19, 2024](https://www.reddit.com/r/androiddev/comments/1auny64/weekly_whos_hiring_thread_february_19_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
