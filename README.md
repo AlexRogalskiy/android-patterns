@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Backup app, will I get rejected?](https://www.reddit.com/r/androiddev/comments/1awt39h/backup_app_will_i_get_rejected/)
+- [SplashScreen hypocrisy/inconsistency](https://www.reddit.com/r/androiddev/comments/1awnl32/splashscreen_hypocrisyinconsistency/)
+- [Why some dev makes their code open-source ?](https://www.reddit.com/r/androiddev/comments/1awk1uw/why_some_dev_makes_their_code_opensource/)
+- [🥳 New Charts 1.2.0 release is live! 📊📈📉](https://www.reddit.com/r/androiddev/comments/1awjdf8/new_charts_120_release_is_live/)
+- [Kotlin 1.9 HexFormat](https://www.reddit.com/r/androiddev/comments/1awfzyk/kotlin_19_hexformat/)
+- [Refining Compose API for design systems](https://www.reddit.com/r/androiddev/comments/1awa6er/refining_compose_api_for_design_systems/)
+- [Android Biometric Authentication With BiometricManager](https://www.reddit.com/r/androiddev/comments/1aw5hi3/android_biometric_authentication_with/)
+- [Guys, Beware of This New Scam!](https://www.reddit.com/r/androiddev/comments/1avztb5/guys_beware_of_this_new_scam/)
+- [How to create a virtual physical keyboard or any other HID&lpar;mouse, gamepad, etc&rpar; in Android[no root]](https://www.reddit.com/r/androiddev/comments/1avziu4/how_to_create_a_virtual_physical_keyboard_or_any/)
 - [Why capturing the screen with two different methods but with same compression and quality gives different OCR results?](https://www.reddit.com/r/androiddev/comments/1avo0l7/why_capturing_the_screen_with_two_different/)
-- [Learnt side-effects in jetpack practically by mistake,](https://www.reddit.com/r/androiddev/comments/1avl15v/learnt_sideeffects_in_jetpack_practically_by/)
-- [Implementation example of Messenger App for Android](https://www.reddit.com/r/androiddev/comments/1aveob2/implementation_example_of_messenger_app_for/)
-- [Is there any way to auto add/force developers to add migration for room database.](https://www.reddit.com/r/androiddev/comments/1avd1jq/is_there_any_way_to_auto_addforce_developers_to/)
-- [Google play rejected app on &quot;- Policy Declaration - Data Safety Section&quot; more specifically on user account/deletion link.](https://www.reddit.com/r/androiddev/comments/1auzgdl/google_play_rejected_app_on_policy_declaration/)
-- [Is it possible to see in Play Console what % of downloads found your app via direct search?&lpar;not cat or tag&rpar;.](https://www.reddit.com/r/androiddev/comments/1auvwgj/is_it_possible_to_see_in_play_console_what_of/)
-- [Guys my play console account got terminated today can i create a new account on same pc with same debit card.](https://www.reddit.com/r/androiddev/comments/1auvlkz/guys_my_play_console_account_got_terminated_today/)
-- [Type Stability in Compose](https://www.reddit.com/r/androiddev/comments/1aupt2c/type_stability_in_compose/)
-- [[Code Review] Delog: SecureScuttlebut Blob Management, Part 1: &quot;User Interface&quot;](https://www.reddit.com/r/androiddev/comments/1aupd3a/code_review_delog_securescuttlebut_blob/)
-- [Weekly Who&#39;s Hiring Thread - February 19, 2024](https://www.reddit.com/r/androiddev/comments/1auny64/weekly_whos_hiring_thread_february_19_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
