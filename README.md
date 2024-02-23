@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Backup app, will I get rejected?](https://www.reddit.com/r/androiddev/comments/1awt39h/backup_app_will_i_get_rejected/)
-- [SplashScreen hypocrisy/inconsistency](https://www.reddit.com/r/androiddev/comments/1awnl32/splashscreen_hypocrisyinconsistency/)
-- [Why some dev makes their code open-source ?](https://www.reddit.com/r/androiddev/comments/1awk1uw/why_some_dev_makes_their_code_opensource/)
-- [🥳 New Charts 1.2.0 release is live! 📊📈📉](https://www.reddit.com/r/androiddev/comments/1awjdf8/new_charts_120_release_is_live/)
-- [Kotlin 1.9 HexFormat](https://www.reddit.com/r/androiddev/comments/1awfzyk/kotlin_19_hexformat/)
-- [Refining Compose API for design systems](https://www.reddit.com/r/androiddev/comments/1awa6er/refining_compose_api_for_design_systems/)
-- [Android Biometric Authentication With BiometricManager](https://www.reddit.com/r/androiddev/comments/1aw5hi3/android_biometric_authentication_with/)
-- [Guys, Beware of This New Scam!](https://www.reddit.com/r/androiddev/comments/1avztb5/guys_beware_of_this_new_scam/)
-- [How to create a virtual physical keyboard or any other HID&lpar;mouse, gamepad, etc&rpar; in Android[no root]](https://www.reddit.com/r/androiddev/comments/1avziu4/how_to_create_a_virtual_physical_keyboard_or_any/)
-- [Why capturing the screen with two different methods but with same compression and quality gives different OCR results?](https://www.reddit.com/r/androiddev/comments/1avo0l7/why_capturing_the_screen_with_two_different/)
+- [Organization Account &amp; GCP](https://www.reddit.com/r/androiddev/comments/1axmw4z/organization_account_gcp/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 11 now available](https://www.reddit.com/r/androiddev/comments/1axkjvs/android_studio_jellyfish_202331_canary_11_now/)
+- [Android Developers Blog: Easily add document scanning capability to your app with ML Kit Document Scanner API](https://www.reddit.com/r/androiddev/comments/1axjil7/android_developers_blog_easily_add_document/)
+- [Behavioral malware detection](https://www.reddit.com/r/androiddev/comments/1axgyeq/behavioral_malware_detection/)
+- [androidx.hilt 1.2.0 released with AssistedInject in hiltViewModel&lpar;&rpar; and hiltNavGraphViewModels&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1axg7vb/androidxhilt_120_released_with_assistedinject_in/)
+- [Do you like the new logcat?](https://www.reddit.com/r/androiddev/comments/1axdmd4/do_you_like_the_new_logcat/)
+- [KStateMachine v0.27.0 Release](https://www.reddit.com/r/androiddev/comments/1ax97yc/kstatemachine_v0270_release/)
+- [Dependency management in multi-repo android app](https://www.reddit.com/r/androiddev/comments/1ax7qo5/dependency_management_in_multirepo_android_app/)
+- [Remember to check your Gradle &lpar;Cache&rpar; folder!](https://www.reddit.com/r/androiddev/comments/1ax7bxh/remember_to_check_your_gradle_cache_folder/)
+- [Real device cloud service or physical devices for QA?](https://www.reddit.com/r/androiddev/comments/1awwyss/real_device_cloud_service_or_physical_devices_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
