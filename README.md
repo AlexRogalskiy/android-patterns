@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Launching Appviewer.io: Better UI reviews for Android teams](https://www.reddit.com/r/androiddev/comments/1ay8kel/launching_appviewerio_better_ui_reviews_for/)
+- [Why do people want to buy my Play console account for more than 1000 USD?](https://www.reddit.com/r/androiddev/comments/1ay82id/why_do_people_want_to_buy_my_play_console_account/)
+- [Looking for Unit and Integration Testing Courses](https://www.reddit.com/r/androiddev/comments/1ay5yj1/looking_for_unit_and_integration_testing_courses/)
+- [Kotlin vs. Swift](https://www.reddit.com/r/androiddev/comments/1axuok1/kotlin_vs_swift/)
+- [Compose - defer reads: lambda vs direct state forwarding](https://www.reddit.com/r/androiddev/comments/1axue3j/compose_defer_reads_lambda_vs_direct_state/)
+- [What is the IKM Android Application Programming test?](https://www.reddit.com/r/androiddev/comments/1axttj7/what_is_the_ikm_android_application_programming/)
 - [Organization Account &amp; GCP](https://www.reddit.com/r/androiddev/comments/1axmw4z/organization_account_gcp/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 11 now available](https://www.reddit.com/r/androiddev/comments/1axkjvs/android_studio_jellyfish_202331_canary_11_now/)
 - [Android Developers Blog: Easily add document scanning capability to your app with ML Kit Document Scanner API](https://www.reddit.com/r/androiddev/comments/1axjil7/android_developers_blog_easily_add_document/)
 - [Behavioral malware detection](https://www.reddit.com/r/androiddev/comments/1axgyeq/behavioral_malware_detection/)
-- [androidx.hilt 1.2.0 released with AssistedInject in hiltViewModel&lpar;&rpar; and hiltNavGraphViewModels&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1axg7vb/androidxhilt_120_released_with_assistedinject_in/)
-- [Do you like the new logcat?](https://www.reddit.com/r/androiddev/comments/1axdmd4/do_you_like_the_new_logcat/)
-- [KStateMachine v0.27.0 Release](https://www.reddit.com/r/androiddev/comments/1ax97yc/kstatemachine_v0270_release/)
-- [Dependency management in multi-repo android app](https://www.reddit.com/r/androiddev/comments/1ax7qo5/dependency_management_in_multirepo_android_app/)
-- [Remember to check your Gradle &lpar;Cache&rpar; folder!](https://www.reddit.com/r/androiddev/comments/1ax7bxh/remember_to_check_your_gradle_cache_folder/)
-- [Real device cloud service or physical devices for QA?](https://www.reddit.com/r/androiddev/comments/1awwyss/real_device_cloud_service_or_physical_devices_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
