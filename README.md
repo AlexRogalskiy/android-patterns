@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Getting an error when trying to connect to API: com.squareup.moshi.JsonDataException](https://www.reddit.com/r/androiddev/comments/1azbrhy/getting_an_error_when_trying_to_connect_to_api/)
+- [♥️💞 New Toolkit 2.0.2-rc01 featuring CollapsableTopAppBar is live.](https://www.reddit.com/r/androiddev/comments/1az9xtz/new_toolkit_202rc01_featuring/)
+- [AndroidStudio-free devs, share your custom CLI tools](https://www.reddit.com/r/androiddev/comments/1az8iza/androidstudiofree_devs_share_your_custom_cli_tools/)
+- [Can you guys suggest some good resources for configuring JACOCO Code Coverage tool for android with Gradle KTS?](https://www.reddit.com/r/androiddev/comments/1aysp1f/can_you_guys_suggest_some_good_resources_for/)
+- [Setting manual white-balance on Google Pixel devices using Camera2 API](https://www.reddit.com/r/androiddev/comments/1ayq290/setting_manual_whitebalance_on_google_pixel/)
+- [Face Recognition AndroidSDK with 3D passive liveness](https://www.reddit.com/r/androiddev/comments/1ayinhj/face_recognition_androidsdk_with_3d_passive/)
 - [Launching Appviewer.io: Better UI reviews for Android teams](https://www.reddit.com/r/androiddev/comments/1ay8kel/launching_appviewerio_better_ui_reviews_for/)
 - [Why do people want to buy my Play console account for more than 1000 USD?](https://www.reddit.com/r/androiddev/comments/1ay82id/why_do_people_want_to_buy_my_play_console_account/)
 - [Looking for Unit and Integration Testing Courses](https://www.reddit.com/r/androiddev/comments/1ay5yj1/looking_for_unit_and_integration_testing_courses/)
 - [Kotlin vs. Swift](https://www.reddit.com/r/androiddev/comments/1axuok1/kotlin_vs_swift/)
-- [Compose - defer reads: lambda vs direct state forwarding](https://www.reddit.com/r/androiddev/comments/1axue3j/compose_defer_reads_lambda_vs_direct_state/)
-- [What is the IKM Android Application Programming test?](https://www.reddit.com/r/androiddev/comments/1axttj7/what_is_the_ikm_android_application_programming/)
-- [Organization Account &amp; GCP](https://www.reddit.com/r/androiddev/comments/1axmw4z/organization_account_gcp/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 11 now available](https://www.reddit.com/r/androiddev/comments/1axkjvs/android_studio_jellyfish_202331_canary_11_now/)
-- [Android Developers Blog: Easily add document scanning capability to your app with ML Kit Document Scanner API](https://www.reddit.com/r/androiddev/comments/1axjil7/android_developers_blog_easily_add_document/)
-- [Behavioral malware detection](https://www.reddit.com/r/androiddev/comments/1axgyeq/behavioral_malware_detection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
