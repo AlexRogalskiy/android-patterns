@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Getting an error when trying to connect to API: com.squareup.moshi.JsonDataException](https://www.reddit.com/r/androiddev/comments/1azbrhy/getting_an_error_when_trying_to_connect_to_api/)
+- [Is it possible to make payments from an individual Google Play Developer Console account to your company account?](https://www.reddit.com/r/androiddev/comments/1azytmm/is_it_possible_to_make_payments_from_an/)
+- [Unable to open any virtual device/Emulator on Android Studio Hedgehog](https://www.reddit.com/r/androiddev/comments/1azysh1/unable_to_open_any_virtual_deviceemulator_on/)
+- [Can i optimize my app modular architecture more ?](https://www.reddit.com/r/androiddev/comments/1aztcke/can_i_optimize_my_app_modular_architecture_more/)
+- [AndroidStudio-free workflow with Linux, Sway, Neovim &lpar;Kotlin LSP &amp; Github Copilot&rpar;, and Bash/Python scripts.](https://www.reddit.com/r/androiddev/comments/1azord3/androidstudiofree_workflow_with_linux_sway_neovim/)
 - [♥️💞 New Toolkit 2.0.2-rc01 featuring CollapsableTopAppBar is live.](https://www.reddit.com/r/androiddev/comments/1az9xtz/new_toolkit_202rc01_featuring/)
 - [AndroidStudio-free devs, share your custom CLI tools](https://www.reddit.com/r/androiddev/comments/1az8iza/androidstudiofree_devs_share_your_custom_cli_tools/)
 - [Can you guys suggest some good resources for configuring JACOCO Code Coverage tool for android with Gradle KTS?](https://www.reddit.com/r/androiddev/comments/1aysp1f/can_you_guys_suggest_some_good_resources_for/)
 - [Setting manual white-balance on Google Pixel devices using Camera2 API](https://www.reddit.com/r/androiddev/comments/1ayq290/setting_manual_whitebalance_on_google_pixel/)
 - [Face Recognition AndroidSDK with 3D passive liveness](https://www.reddit.com/r/androiddev/comments/1ayinhj/face_recognition_androidsdk_with_3d_passive/)
 - [Launching Appviewer.io: Better UI reviews for Android teams](https://www.reddit.com/r/androiddev/comments/1ay8kel/launching_appviewerio_better_ui_reviews_for/)
-- [Why do people want to buy my Play console account for more than 1000 USD?](https://www.reddit.com/r/androiddev/comments/1ay82id/why_do_people_want_to_buy_my_play_console_account/)
-- [Looking for Unit and Integration Testing Courses](https://www.reddit.com/r/androiddev/comments/1ay5yj1/looking_for_unit_and_integration_testing_courses/)
-- [Kotlin vs. Swift](https://www.reddit.com/r/androiddev/comments/1axuok1/kotlin_vs_swift/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
