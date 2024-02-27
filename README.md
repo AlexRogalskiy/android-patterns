@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What companies have good android/mobile focused engineering blogs?](https://www.reddit.com/r/androiddev/comments/1b0s4ng/what_companies_have_good_androidmobile_focused/)
+- [Run AI models on real devices with Qualcomm AI Hub](https://www.reddit.com/r/androiddev/comments/1b0p17i/run_ai_models_on_real_devices_with_qualcomm_ai_hub/)
+- [Android Developers Blog: Wear OS hybrid interface: Boosting power and performance](https://www.reddit.com/r/androiddev/comments/1b0jtdw/android_developers_blog_wear_os_hybrid_interface/)
+- [What&#39;s the deal with libraries being marked as &quot;alpha&quot;?](https://www.reddit.com/r/androiddev/comments/1b0ivko/whats_the_deal_with_libraries_being_marked_as/)
+- [Weekly Who&#39;s Hiring Thread - February 26, 2024](https://www.reddit.com/r/androiddev/comments/1b0i6pq/weekly_whos_hiring_thread_february_26_2024/)
+- [Weekly discussion, code review, and feedback thread - February 26, 2024](https://www.reddit.com/r/androiddev/comments/1b0gx7r/weekly_discussion_code_review_and_feedback_thread/)
+- [Dynamic feature module install-time delivery](https://www.reddit.com/r/androiddev/comments/1b0aaza/dynamic_feature_module_installtime_delivery/)
 - [Is it possible to make payments from an individual Google Play Developer Console account to your company account?](https://www.reddit.com/r/androiddev/comments/1azytmm/is_it_possible_to_make_payments_from_an/)
-- [Unable to open any virtual device/Emulator on Android Studio Hedgehog](https://www.reddit.com/r/androiddev/comments/1azysh1/unable_to_open_any_virtual_deviceemulator_on/)
 - [Can i optimize my app modular architecture more ?](https://www.reddit.com/r/androiddev/comments/1aztcke/can_i_optimize_my_app_modular_architecture_more/)
 - [AndroidStudio-free workflow with Linux, Sway, Neovim &lpar;Kotlin LSP &amp; Github Copilot&rpar;, and Bash/Python scripts.](https://www.reddit.com/r/androiddev/comments/1azord3/androidstudiofree_workflow_with_linux_sway_neovim/)
-- [♥️💞 New Toolkit 2.0.2-rc01 featuring CollapsableTopAppBar is live.](https://www.reddit.com/r/androiddev/comments/1az9xtz/new_toolkit_202rc01_featuring/)
-- [AndroidStudio-free devs, share your custom CLI tools](https://www.reddit.com/r/androiddev/comments/1az8iza/androidstudiofree_devs_share_your_custom_cli_tools/)
-- [Can you guys suggest some good resources for configuring JACOCO Code Coverage tool for android with Gradle KTS?](https://www.reddit.com/r/androiddev/comments/1aysp1f/can_you_guys_suggest_some_good_resources_for/)
-- [Setting manual white-balance on Google Pixel devices using Camera2 API](https://www.reddit.com/r/androiddev/comments/1ayq290/setting_manual_whitebalance_on_google_pixel/)
-- [Face Recognition AndroidSDK with 3D passive liveness](https://www.reddit.com/r/androiddev/comments/1ayinhj/face_recognition_androidsdk_with_3d_passive/)
-- [Launching Appviewer.io: Better UI reviews for Android teams](https://www.reddit.com/r/androiddev/comments/1ay8kel/launching_appviewerio_better_ui_reviews_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
