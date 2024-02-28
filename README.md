@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What’s the buzz about the 2024 OWASP Mobile Top 10 changes?](https://www.reddit.com/r/androiddev/comments/1b1rbl0/whats_the_buzz_about_the_2024_owasp_mobile_top_10/)
+- [How do you guys do this?](https://www.reddit.com/r/androiddev/comments/1b1jcrz/how_do_you_guys_do_this/)
+- [Transferring apps from one developer account to another](https://www.reddit.com/r/androiddev/comments/1b17snv/transferring_apps_from_one_developer_account_to/)
 - [What companies have good android/mobile focused engineering blogs?](https://www.reddit.com/r/androiddev/comments/1b0s4ng/what_companies_have_good_androidmobile_focused/)
 - [Run AI models on real devices with Qualcomm AI Hub](https://www.reddit.com/r/androiddev/comments/1b0p17i/run_ai_models_on_real_devices_with_qualcomm_ai_hub/)
 - [Android Developers Blog: Wear OS hybrid interface: Boosting power and performance](https://www.reddit.com/r/androiddev/comments/1b0jtdw/android_developers_blog_wear_os_hybrid_interface/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Weekly Who&#39;s Hiring Thread - February 26, 2024](https://www.reddit.com/r/androiddev/comments/1b0i6pq/weekly_whos_hiring_thread_february_26_2024/)
 - [Weekly discussion, code review, and feedback thread - February 26, 2024](https://www.reddit.com/r/androiddev/comments/1b0gx7r/weekly_discussion_code_review_and_feedback_thread/)
 - [Dynamic feature module install-time delivery](https://www.reddit.com/r/androiddev/comments/1b0aaza/dynamic_feature_module_installtime_delivery/)
-- [Is it possible to make payments from an individual Google Play Developer Console account to your company account?](https://www.reddit.com/r/androiddev/comments/1azytmm/is_it_possible_to_make_payments_from_an/)
-- [Can i optimize my app modular architecture more ?](https://www.reddit.com/r/androiddev/comments/1aztcke/can_i_optimize_my_app_modular_architecture_more/)
-- [AndroidStudio-free workflow with Linux, Sway, Neovim &lpar;Kotlin LSP &amp; Github Copilot&rpar;, and Bash/Python scripts.](https://www.reddit.com/r/androiddev/comments/1azord3/androidstudiofree_workflow_with_linux_sway_neovim/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
