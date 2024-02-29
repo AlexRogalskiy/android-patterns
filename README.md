@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android SDK-Face Recognition](https://www.reddit.com/r/androiddev/comments/1b22rz5/android_sdkface_recognition/)
+- [Jetpack Compose: Strong Skipping Mode Explained](https://www.reddit.com/r/androiddev/comments/1b22k1i/jetpack_compose_strong_skipping_mode_explained/)
+- [Kotlin inline value classes explained](https://www.reddit.com/r/androiddev/comments/1b20167/kotlin_inline_value_classes_explained/)
+- [Accessing old developer codelabs](https://www.reddit.com/r/androiddev/comments/1b1wo0s/accessing_old_developer_codelabs/)
+- [Kotlin Illustrated - Chapter 17 - Handling Runtime Exceptions](https://www.reddit.com/r/androiddev/comments/1b1w3if/kotlin_illustrated_chapter_17_handling_runtime/)
 - [What’s the buzz about the 2024 OWASP Mobile Top 10 changes?](https://www.reddit.com/r/androiddev/comments/1b1rbl0/whats_the_buzz_about_the_2024_owasp_mobile_top_10/)
 - [How do you guys do this?](https://www.reddit.com/r/androiddev/comments/1b1jcrz/how_do_you_guys_do_this/)
 - [Transferring apps from one developer account to another](https://www.reddit.com/r/androiddev/comments/1b17snv/transferring_apps_from_one_developer_account_to/)
 - [What companies have good android/mobile focused engineering blogs?](https://www.reddit.com/r/androiddev/comments/1b0s4ng/what_companies_have_good_androidmobile_focused/)
 - [Run AI models on real devices with Qualcomm AI Hub](https://www.reddit.com/r/androiddev/comments/1b0p17i/run_ai_models_on_real_devices_with_qualcomm_ai_hub/)
-- [Android Developers Blog: Wear OS hybrid interface: Boosting power and performance](https://www.reddit.com/r/androiddev/comments/1b0jtdw/android_developers_blog_wear_os_hybrid_interface/)
-- [What&#39;s the deal with libraries being marked as &quot;alpha&quot;?](https://www.reddit.com/r/androiddev/comments/1b0ivko/whats_the_deal_with_libraries_being_marked_as/)
-- [Weekly Who&#39;s Hiring Thread - February 26, 2024](https://www.reddit.com/r/androiddev/comments/1b0i6pq/weekly_whos_hiring_thread_february_26_2024/)
-- [Weekly discussion, code review, and feedback thread - February 26, 2024](https://www.reddit.com/r/androiddev/comments/1b0gx7r/weekly_discussion_code_review_and_feedback_thread/)
-- [Dynamic feature module install-time delivery](https://www.reddit.com/r/androiddev/comments/1b0aaza/dynamic_feature_module_installtime_delivery/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
