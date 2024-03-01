@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android SDK-Face Recognition](https://www.reddit.com/r/androiddev/comments/1b22rz5/android_sdkface_recognition/)
-- [Jetpack Compose: Strong Skipping Mode Explained](https://www.reddit.com/r/androiddev/comments/1b22k1i/jetpack_compose_strong_skipping_mode_explained/)
-- [Kotlin inline value classes explained](https://www.reddit.com/r/androiddev/comments/1b20167/kotlin_inline_value_classes_explained/)
-- [Accessing old developer codelabs](https://www.reddit.com/r/androiddev/comments/1b1wo0s/accessing_old_developer_codelabs/)
-- [Kotlin Illustrated - Chapter 17 - Handling Runtime Exceptions](https://www.reddit.com/r/androiddev/comments/1b1w3if/kotlin_illustrated_chapter_17_handling_runtime/)
-- [What’s the buzz about the 2024 OWASP Mobile Top 10 changes?](https://www.reddit.com/r/androiddev/comments/1b1rbl0/whats_the_buzz_about_the_2024_owasp_mobile_top_10/)
-- [How do you guys do this?](https://www.reddit.com/r/androiddev/comments/1b1jcrz/how_do_you_guys_do_this/)
-- [Transferring apps from one developer account to another](https://www.reddit.com/r/androiddev/comments/1b17snv/transferring_apps_from_one_developer_account_to/)
-- [What companies have good android/mobile focused engineering blogs?](https://www.reddit.com/r/androiddev/comments/1b0s4ng/what_companies_have_good_androidmobile_focused/)
-- [Run AI models on real devices with Qualcomm AI Hub](https://www.reddit.com/r/androiddev/comments/1b0p17i/run_ai_models_on_real_devices_with_qualcomm_ai_hub/)
+- [Android Studio Jellyfish | 2023.3.1 Canary 12 now available](https://www.reddit.com/r/androiddev/comments/1b3e8cd/android_studio_jellyfish_202331_canary_12_now/)
+- [Best resources for learning Android using java](https://www.reddit.com/r/androiddev/comments/1b3dpmi/best_resources_for_learning_android_using_java/)
+- [Allowing Unauthorized Connections to Headless Emulators](https://www.reddit.com/r/androiddev/comments/1b3dbaj/allowing_unauthorized_connections_to_headless/)
+- [Update on Developer Play Store Settlement](https://www.reddit.com/r/androiddev/comments/1b3b3hz/update_on_developer_play_store_settlement/)
+- [Compose vs XML?](https://www.reddit.com/r/androiddev/comments/1b38ofi/compose_vs_xml/)
+- [Android Studio Iguana | 2023.2.1 now available](https://www.reddit.com/r/androiddev/comments/1b386dy/android_studio_iguana_202321_now_available/)
+- [Start app development with Java](https://www.reddit.com/r/androiddev/comments/1b36u1v/start_app_development_with_java/)
+- [How do I find/distribute to testers?](https://www.reddit.com/r/androiddev/comments/1b36id1/how_do_i_finddistribute_to_testers/)
+- [Android Studio : autocomplete syntax.](https://www.reddit.com/r/androiddev/comments/1b34e69/android_studio_autocomplete_syntax/)
+- [Tiamat - simple Compose Multiplatform navigation library](https://www.reddit.com/r/androiddev/comments/1b2zxrf/tiamat_simple_compose_multiplatform_navigation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
