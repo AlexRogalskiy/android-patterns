@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [End of Google Drive integration?](https://www.reddit.com/r/androiddev/comments/1b483a6/end_of_google_drive_integration/)
+- [Gradle AAR omits classes by default?](https://www.reddit.com/r/androiddev/comments/1b4825a/gradle_aar_omits_classes_by_default/)
+- [Location - Speed 24/7 ? Is that possible ?](https://www.reddit.com/r/androiddev/comments/1b3zeyn/location_speed_247_is_that_possible/)
+- [Rich media input from the keyboard in Compose](https://www.reddit.com/r/androiddev/comments/1b3ukd3/rich_media_input_from_the_keyboard_in_compose/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 12 now available](https://www.reddit.com/r/androiddev/comments/1b3e8cd/android_studio_jellyfish_202331_canary_12_now/)
-- [Best resources for learning Android using java](https://www.reddit.com/r/androiddev/comments/1b3dpmi/best_resources_for_learning_android_using_java/)
 - [Allowing Unauthorized Connections to Headless Emulators](https://www.reddit.com/r/androiddev/comments/1b3dbaj/allowing_unauthorized_connections_to_headless/)
 - [Update on Developer Play Store Settlement](https://www.reddit.com/r/androiddev/comments/1b3b3hz/update_on_developer_play_store_settlement/)
-- [Compose vs XML?](https://www.reddit.com/r/androiddev/comments/1b38ofi/compose_vs_xml/)
 - [Android Studio Iguana | 2023.2.1 now available](https://www.reddit.com/r/androiddev/comments/1b386dy/android_studio_iguana_202321_now_available/)
 - [Start app development with Java](https://www.reddit.com/r/androiddev/comments/1b36u1v/start_app_development_with_java/)
-- [How do I find/distribute to testers?](https://www.reddit.com/r/androiddev/comments/1b36id1/how_do_i_finddistribute_to_testers/)
 - [Android Studio : autocomplete syntax.](https://www.reddit.com/r/androiddev/comments/1b34e69/android_studio_autocomplete_syntax/)
-- [Tiamat - simple Compose Multiplatform navigation library](https://www.reddit.com/r/androiddev/comments/1b2zxrf/tiamat_simple_compose_multiplatform_navigation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
