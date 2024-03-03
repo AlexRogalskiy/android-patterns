@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does something like a &quot;Snapdragon assembler language&quot; exist?](https://www.reddit.com/r/androiddev/comments/1b54s9g/does_something_like_a_snapdragon_assembler/)
+- [Did Android/Google mess up with the new notification permissions?](https://www.reddit.com/r/androiddev/comments/1b535no/did_androidgoogle_mess_up_with_the_new/)
+- [How to implement an interactive cartoonic map in an application?](https://www.reddit.com/r/androiddev/comments/1b50evl/how_to_implement_an_interactive_cartoonic_map_in/)
+- [How to efficiently control multiple android devices in parallel with python?](https://www.reddit.com/r/androiddev/comments/1b4w6pz/how_to_efficiently_control_multiple_android/)
+- [Google removes many popular Indian apps for not paying the 11-26% service fees,but...?](https://www.reddit.com/r/androiddev/comments/1b4erqs/google_removes_many_popular_indian_apps_for_not/)
 - [End of Google Drive integration?](https://www.reddit.com/r/androiddev/comments/1b483a6/end_of_google_drive_integration/)
 - [Gradle AAR omits classes by default?](https://www.reddit.com/r/androiddev/comments/1b4825a/gradle_aar_omits_classes_by_default/)
 - [Location - Speed 24/7 ? Is that possible ?](https://www.reddit.com/r/androiddev/comments/1b3zeyn/location_speed_247_is_that_possible/)
 - [Rich media input from the keyboard in Compose](https://www.reddit.com/r/androiddev/comments/1b3ukd3/rich_media_input_from_the_keyboard_in_compose/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 12 now available](https://www.reddit.com/r/androiddev/comments/1b3e8cd/android_studio_jellyfish_202331_canary_12_now/)
-- [Allowing Unauthorized Connections to Headless Emulators](https://www.reddit.com/r/androiddev/comments/1b3dbaj/allowing_unauthorized_connections_to_headless/)
-- [Update on Developer Play Store Settlement](https://www.reddit.com/r/androiddev/comments/1b3b3hz/update_on_developer_play_store_settlement/)
-- [Android Studio Iguana | 2023.2.1 now available](https://www.reddit.com/r/androiddev/comments/1b386dy/android_studio_iguana_202321_now_available/)
-- [Start app development with Java](https://www.reddit.com/r/androiddev/comments/1b36u1v/start_app_development_with_java/)
-- [Android Studio : autocomplete syntax.](https://www.reddit.com/r/androiddev/comments/1b34e69/android_studio_autocomplete_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
