@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does something like a &quot;Snapdragon assembler language&quot; exist?](https://www.reddit.com/r/androiddev/comments/1b54s9g/does_something_like_a_snapdragon_assembler/)
+- [Is Google abandoning Android App Actions Widgets?](https://www.reddit.com/r/androiddev/comments/1b5wlvg/is_google_abandoning_android_app_actions_widgets/)
+- [Difference between pricing template and launchflow amount?](https://www.reddit.com/r/androiddev/comments/1b5f8sb/difference_between_pricing_template_and/)
 - [Did Android/Google mess up with the new notification permissions?](https://www.reddit.com/r/androiddev/comments/1b535no/did_androidgoogle_mess_up_with_the_new/)
-- [How to implement an interactive cartoonic map in an application?](https://www.reddit.com/r/androiddev/comments/1b50evl/how_to_implement_an_interactive_cartoonic_map_in/)
-- [How to efficiently control multiple android devices in parallel with python?](https://www.reddit.com/r/androiddev/comments/1b4w6pz/how_to_efficiently_control_multiple_android/)
 - [Google removes many popular Indian apps for not paying the 11-26% service fees,but...?](https://www.reddit.com/r/androiddev/comments/1b4erqs/google_removes_many_popular_indian_apps_for_not/)
 - [End of Google Drive integration?](https://www.reddit.com/r/androiddev/comments/1b483a6/end_of_google_drive_integration/)
 - [Gradle AAR omits classes by default?](https://www.reddit.com/r/androiddev/comments/1b4825a/gradle_aar_omits_classes_by_default/)
 - [Location - Speed 24/7 ? Is that possible ?](https://www.reddit.com/r/androiddev/comments/1b3zeyn/location_speed_247_is_that_possible/)
 - [Rich media input from the keyboard in Compose](https://www.reddit.com/r/androiddev/comments/1b3ukd3/rich_media_input_from_the_keyboard_in_compose/)
 - [Android Studio Jellyfish | 2023.3.1 Canary 12 now available](https://www.reddit.com/r/androiddev/comments/1b3e8cd/android_studio_jellyfish_202331_canary_12_now/)
+- [Allowing Unauthorized Connections to Headless Emulators](https://www.reddit.com/r/androiddev/comments/1b3dbaj/allowing_unauthorized_connections_to_headless/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
