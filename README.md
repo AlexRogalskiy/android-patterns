@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is Google abandoning Android App Actions Widgets?](https://www.reddit.com/r/androiddev/comments/1b5wlvg/is_google_abandoning_android_app_actions_widgets/)
-- [Difference between pricing template and launchflow amount?](https://www.reddit.com/r/androiddev/comments/1b5f8sb/difference_between_pricing_template_and/)
-- [Did Android/Google mess up with the new notification permissions?](https://www.reddit.com/r/androiddev/comments/1b535no/did_androidgoogle_mess_up_with_the_new/)
-- [Google removes many popular Indian apps for not paying the 11-26% service fees,but...?](https://www.reddit.com/r/androiddev/comments/1b4erqs/google_removes_many_popular_indian_apps_for_not/)
-- [End of Google Drive integration?](https://www.reddit.com/r/androiddev/comments/1b483a6/end_of_google_drive_integration/)
-- [Gradle AAR omits classes by default?](https://www.reddit.com/r/androiddev/comments/1b4825a/gradle_aar_omits_classes_by_default/)
-- [Location - Speed 24/7 ? Is that possible ?](https://www.reddit.com/r/androiddev/comments/1b3zeyn/location_speed_247_is_that_possible/)
-- [Rich media input from the keyboard in Compose](https://www.reddit.com/r/androiddev/comments/1b3ukd3/rich_media_input_from_the_keyboard_in_compose/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 12 now available](https://www.reddit.com/r/androiddev/comments/1b3e8cd/android_studio_jellyfish_202331_canary_12_now/)
-- [Allowing Unauthorized Connections to Headless Emulators](https://www.reddit.com/r/androiddev/comments/1b3dbaj/allowing_unauthorized_connections_to_headless/)
+- [Does my first app need to be reviewed before starting a closed testing?](https://www.reddit.com/r/androiddev/comments/1b6nopc/does_my_first_app_need_to_be_reviewed_before/)
+- [Adb forget specific Bluetooth device](https://www.reddit.com/r/androiddev/comments/1b6mogi/adb_forget_specific_bluetooth_device/)
+- [What do you guys think about Databinding ?](https://www.reddit.com/r/androiddev/comments/1b6izs2/what_do_you_guys_think_about_databinding/)
+- [Is modularization an important topic for your app?](https://www.reddit.com/r/androiddev/comments/1b6h68o/is_modularization_an_important_topic_for_your_app/)
+- [Stick to XML or Switch to Compose](https://www.reddit.com/r/androiddev/comments/1b6g40b/stick_to_xml_or_switch_to_compose/)
+- [Weekly Who&#39;s Hiring Thread - March 04, 2024](https://www.reddit.com/r/androiddev/comments/1b6bk6z/weekly_whos_hiring_thread_march_04_2024/)
+- [Weekly discussion, code review, and feedback thread - March 04, 2024](https://www.reddit.com/r/androiddev/comments/1b6abos/weekly_discussion_code_review_and_feedback_thread/)
+- [Account verification deadline already reserved.](https://www.reddit.com/r/androiddev/comments/1b696sd/account_verification_deadline_already_reserved/)
+- [What is your min SDK?](https://www.reddit.com/r/androiddev/comments/1b653v7/what_is_your_min_sdk/)
+- [What is the quickest way to prevent Googe Play Console account from being closed due to inactivity?](https://www.reddit.com/r/androiddev/comments/1b64hpu/what_is_the_quickest_way_to_prevent_googe_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
