@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does my first app need to be reviewed before starting a closed testing?](https://www.reddit.com/r/androiddev/comments/1b6nopc/does_my_first_app_need_to_be_reviewed_before/)
+- [Have you ever built an app for your job but only for your personal use?](https://www.reddit.com/r/androiddev/comments/1b7hp6o/have_you_ever_built_an_app_for_your_job_but_only/)
+- [Windows 11 to Drop Android App Support in March 2025](https://www.reddit.com/r/androiddev/comments/1b7eb7v/windows_11_to_drop_android_app_support_in_march/)
+- [Repeated refund requests](https://www.reddit.com/r/androiddev/comments/1b7drr2/repeated_refund_requests/)
+- [Multiplication Math Games - My first mobile app developed as a solo programmer](https://www.reddit.com/r/androiddev/comments/1b753wh/multiplication_math_games_my_first_mobile_app/)
+- [Kotlin DSL for RecyclerView Adapters](https://www.reddit.com/r/androiddev/comments/1b727pb/kotlin_dsl_for_recyclerview_adapters/)
+- [Can you receive Bitcoin donations through an Android app?](https://www.reddit.com/r/androiddev/comments/1b6u7l9/can_you_receive_bitcoin_donations_through_an/)
 - [Adb forget specific Bluetooth device](https://www.reddit.com/r/androiddev/comments/1b6mogi/adb_forget_specific_bluetooth_device/)
 - [What do you guys think about Databinding ?](https://www.reddit.com/r/androiddev/comments/1b6izs2/what_do_you_guys_think_about_databinding/)
 - [Is modularization an important topic for your app?](https://www.reddit.com/r/androiddev/comments/1b6h68o/is_modularization_an_important_topic_for_your_app/)
 - [Stick to XML or Switch to Compose](https://www.reddit.com/r/androiddev/comments/1b6g40b/stick_to_xml_or_switch_to_compose/)
-- [Weekly Who&#39;s Hiring Thread - March 04, 2024](https://www.reddit.com/r/androiddev/comments/1b6bk6z/weekly_whos_hiring_thread_march_04_2024/)
-- [Weekly discussion, code review, and feedback thread - March 04, 2024](https://www.reddit.com/r/androiddev/comments/1b6abos/weekly_discussion_code_review_and_feedback_thread/)
-- [Account verification deadline already reserved.](https://www.reddit.com/r/androiddev/comments/1b696sd/account_verification_deadline_already_reserved/)
-- [What is your min SDK?](https://www.reddit.com/r/androiddev/comments/1b653v7/what_is_your_min_sdk/)
-- [What is the quickest way to prevent Googe Play Console account from being closed due to inactivity?](https://www.reddit.com/r/androiddev/comments/1b64hpu/what_is_the_quickest_way_to_prevent_googe_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
