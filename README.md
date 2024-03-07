@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Account Deletion Protocol for Users in Contract](https://www.reddit.com/r/androiddev/comments/1b8h979/account_deletion_protocol_for_users_in_contract/)
+- [Introducing Composed - A collection of compose utilities](https://www.reddit.com/r/androiddev/comments/1b8e244/introducing_composed_a_collection_of_compose/)
+- [Android Developers Blog: Introducing a new Text-To-Speech engine on Wear OS](https://www.reddit.com/r/androiddev/comments/1b8b6qd/android_developers_blog_introducing_a_new/)
+- [Enrolling in the external offers program](https://www.reddit.com/r/androiddev/comments/1b861cr/enrolling_in_the_external_offers_program/)
+- [Kotlin Variance... without Generics!](https://www.reddit.com/r/androiddev/comments/1b84p2u/kotlin_variance_without_generics/)
+- [Closed testing app doesnt allow users to update app. They have to uninstall then install to update.](https://www.reddit.com/r/androiddev/comments/1b830up/closed_testing_app_doesnt_allow_users_to_update/)
+- [App for Android Auto, how to make it safe?](https://www.reddit.com/r/androiddev/comments/1b7wbdl/app_for_android_auto_how_to_make_it_safe/)
+- [Android malware attack techniques overview](https://www.reddit.com/r/androiddev/comments/1b7vwe3/android_malware_attack_techniques_overview/)
+- [Why Your AI Coding Hero Needs a Security Sidekick](https://www.reddit.com/r/androiddev/comments/1b7vhai/why_your_ai_coding_hero_needs_a_security_sidekick/)
 - [Have you ever built an app for your job but only for your personal use?](https://www.reddit.com/r/androiddev/comments/1b7hp6o/have_you_ever_built_an_app_for_your_job_but_only/)
-- [Windows 11 to Drop Android App Support in March 2025](https://www.reddit.com/r/androiddev/comments/1b7eb7v/windows_11_to_drop_android_app_support_in_march/)
-- [Repeated refund requests](https://www.reddit.com/r/androiddev/comments/1b7drr2/repeated_refund_requests/)
-- [Multiplication Math Games - My first mobile app developed as a solo programmer](https://www.reddit.com/r/androiddev/comments/1b753wh/multiplication_math_games_my_first_mobile_app/)
-- [Kotlin DSL for RecyclerView Adapters](https://www.reddit.com/r/androiddev/comments/1b727pb/kotlin_dsl_for_recyclerview_adapters/)
-- [Can you receive Bitcoin donations through an Android app?](https://www.reddit.com/r/androiddev/comments/1b6u7l9/can_you_receive_bitcoin_donations_through_an/)
-- [Adb forget specific Bluetooth device](https://www.reddit.com/r/androiddev/comments/1b6mogi/adb_forget_specific_bluetooth_device/)
-- [What do you guys think about Databinding ?](https://www.reddit.com/r/androiddev/comments/1b6izs2/what_do_you_guys_think_about_databinding/)
-- [Is modularization an important topic for your app?](https://www.reddit.com/r/androiddev/comments/1b6h68o/is_modularization_an_important_topic_for_your_app/)
-- [Stick to XML or Switch to Compose](https://www.reddit.com/r/androiddev/comments/1b6g40b/stick_to_xml_or_switch_to_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
