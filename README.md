@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Jellyfish | 2023.3.1 Canary 13 now available](https://www.reddit.com/r/androiddev/comments/1b93of5/android_studio_jellyfish_202331_canary_13_now/)
+- [Made a Compose library for making links in text clickable](https://www.reddit.com/r/androiddev/comments/1b92o8k/made_a_compose_library_for_making_links_in_text/)
+- [Understand your bugs before you crush them - A few tips for solving bugs explained through an example](https://www.reddit.com/r/androiddev/comments/1b8vuy0/understand_your_bugs_before_you_crush_them_a_few/)
+- [What you guys use for code benchmark?](https://www.reddit.com/r/androiddev/comments/1b8s5xe/what_you_guys_use_for_code_benchmark/)
+- [create a UI without XML or Compose](https://www.reddit.com/r/androiddev/comments/1b8p12n/create_a_ui_without_xml_or_compose/)
 - [Account Deletion Protocol for Users in Contract](https://www.reddit.com/r/androiddev/comments/1b8h979/account_deletion_protocol_for_users_in_contract/)
 - [Introducing Composed - A collection of compose utilities](https://www.reddit.com/r/androiddev/comments/1b8e244/introducing_composed_a_collection_of_compose/)
 - [Android Developers Blog: Introducing a new Text-To-Speech engine on Wear OS](https://www.reddit.com/r/androiddev/comments/1b8b6qd/android_developers_blog_introducing_a_new/)
 - [Enrolling in the external offers program](https://www.reddit.com/r/androiddev/comments/1b861cr/enrolling_in_the_external_offers_program/)
 - [Kotlin Variance... without Generics!](https://www.reddit.com/r/androiddev/comments/1b84p2u/kotlin_variance_without_generics/)
-- [Closed testing app doesnt allow users to update app. They have to uninstall then install to update.](https://www.reddit.com/r/androiddev/comments/1b830up/closed_testing_app_doesnt_allow_users_to_update/)
-- [App for Android Auto, how to make it safe?](https://www.reddit.com/r/androiddev/comments/1b7wbdl/app_for_android_auto_how_to_make_it_safe/)
-- [Android malware attack techniques overview](https://www.reddit.com/r/androiddev/comments/1b7vwe3/android_malware_attack_techniques_overview/)
-- [Why Your AI Coding Hero Needs a Security Sidekick](https://www.reddit.com/r/androiddev/comments/1b7vhai/why_your_ai_coding_hero_needs_a_security_sidekick/)
-- [Have you ever built an app for your job but only for your personal use?](https://www.reddit.com/r/androiddev/comments/1b7hp6o/have_you_ever_built_an_app_for_your_job_but_only/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
