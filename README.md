@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to remove a release from review?](https://www.reddit.com/r/androiddev/comments/1ba5ieg/how_to_remove_a_release_from_review/)
+- [Media3 stream HLS with custom headers using MediaSessionService background play](https://www.reddit.com/r/androiddev/comments/1bau9uj/media3_stream_hls_with_custom_headers_using/)
+- [How much more complicated is Native Android Development as compared to using a framework like expo and react native?](https://www.reddit.com/r/androiddev/comments/1bamkms/how_much_more_complicated_is_native_android/)
+- [Deep dive into kotlin map: more readable approach of using kotlin map data structure](https://www.reddit.com/r/androiddev/comments/1bak05u/deep_dive_into_kotlin_map_more_readable_approach/)
+- [How does Android Development work in big companies?](https://www.reddit.com/r/androiddev/comments/1bahijy/how_does_android_development_work_in_big_companies/)
+- [Error handling in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ba9qiq/error_handling_in_jetpack_compose/)
 - [Is it okay to inject 💉 viewmodels into composables?](https://www.reddit.com/r/androiddev/comments/1b9trqh/is_it_okay_to_inject_viewmodels_into_composables/)
 - [Android Developers Blog: Introducing the Fused Orientation Provider API: Consistent device orientation for all](https://www.reddit.com/r/androiddev/comments/1b9tgu9/android_developers_blog_introducing_the_fused/)
 - [Better, faster, stronger time zone updates on Android](https://www.reddit.com/r/androiddev/comments/1b9nzhz/better_faster_stronger_time_zone_updates_on/)
 - [Tolgee open-source localization platform now supports Android XML files](https://www.reddit.com/r/androiddev/comments/1b9klk3/tolgee_opensource_localization_platform_now/)
 - [How to Drag and Drop using Modifier.dragAndDropSource/Target - Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1b9k444/how_to_drag_and_drop_using/)
-- [Android Studio Jellyfish | 2023.3.1 Canary 13 now available](https://www.reddit.com/r/androiddev/comments/1b93of5/android_studio_jellyfish_202331_canary_13_now/)
-- [Made a Compose library for making links in text clickable](https://www.reddit.com/r/androiddev/comments/1b92o8k/made_a_compose_library_for_making_links_in_text/)
-- [Understand your bugs before you crush them - A few tips for solving bugs explained through an example](https://www.reddit.com/r/androiddev/comments/1b8vuy0/understand_your_bugs_before_you_crush_them_a_few/)
-- [What you guys use for code benchmark?](https://www.reddit.com/r/androiddev/comments/1b8s5xe/what_you_guys_use_for_code_benchmark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
