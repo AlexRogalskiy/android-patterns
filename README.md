@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you avoid duplication of common UI state/behavior between screens?](https://www.reddit.com/r/androiddev/comments/1bckq8k/how_do_you_avoid_duplication_of_common_ui/)
+- [Development time - iOS vs. Android](https://www.reddit.com/r/androiddev/comments/1bcbciw/development_time_ios_vs_android/)
+- [How practical are unit tests in Android Development actually?](https://www.reddit.com/r/androiddev/comments/1bc99ve/how_practical_are_unit_tests_in_android/)
+- [Android Studio Foldable Emulator. View Both Screens At The Same Time.](https://www.reddit.com/r/androiddev/comments/1bc4i03/android_studio_foldable_emulator_view_both/)
+- [Weekly Who&#39;s Hiring Thread - March 11, 2024](https://www.reddit.com/r/androiddev/comments/1bc3v1h/weekly_whos_hiring_thread_march_11_2024/)
+- [I spent a week writing a robust internet monitor class which handles all cases &lpar;including when the user is using a VPN&rpar;. Would love some feedback, and if you find the class useful please star my repo](https://www.reddit.com/r/androiddev/comments/1bc3e2b/i_spent_a_week_writing_a_robust_internet_monitor/)
+- [Weekly discussion, code review, and feedback thread - March 11, 2024](https://www.reddit.com/r/androiddev/comments/1bc2lt4/weekly_discussion_code_review_and_feedback_thread/)
+- [Kotlin Design Patterns: Abstract Factory Explained](https://www.reddit.com/r/androiddev/comments/1bbww3v/kotlin_design_patterns_abstract_factory_explained/)
 - [Google Play app access for reviewers - my app requires user to provide their own API key](https://www.reddit.com/r/androiddev/comments/1bbkvwa/google_play_app_access_for_reviewers_my_app/)
-- [What do you think about the way I call a suspend function inside lazyColumn?](https://www.reddit.com/r/androiddev/comments/1bbk8au/what_do_you_think_about_the_way_i_call_a_suspend/)
 - [Play Console Review Time in 2024](https://www.reddit.com/r/androiddev/comments/1bbi8ax/play_console_review_time_in_2024/)
-- [Is it only me or the compose&#39;s performance is better after 1.5.8?](https://www.reddit.com/r/androiddev/comments/1bbhlcp/is_it_only_me_or_the_composes_performance_is/)
-- [Why are people against XML now?](https://www.reddit.com/r/androiddev/comments/1bbbsop/why_are_people_against_xml_now/)
-- [Google Developer Account Terminated – However I’m at Fault](https://www.reddit.com/r/androiddev/comments/1bb79km/google_developer_account_terminated_however_im_at/)
-- [Intel arc a770 compatibility with android studio emulator](https://www.reddit.com/r/androiddev/comments/1bb4414/intel_arc_a770_compatibility_with_android_studio/)
-- [Paginating when the backend is not paginated](https://www.reddit.com/r/androiddev/comments/1bb2qdl/paginating_when_the_backend_is_not_paginated/)
-- [Media3 stream HLS with custom headers using MediaSessionService background play](https://www.reddit.com/r/androiddev/comments/1bau9uj/media3_stream_hls_with_custom_headers_using/)
-- [How much more complicated is Native Android Development as compared to using a framework like expo and react native?](https://www.reddit.com/r/androiddev/comments/1bamkms/how_much_more_complicated_is_native_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
