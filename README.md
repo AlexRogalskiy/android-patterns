@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you avoid duplication of common UI state/behavior between screens?](https://www.reddit.com/r/androiddev/comments/1bckq8k/how_do_you_avoid_duplication_of_common_ui/)
-- [Development time - iOS vs. Android](https://www.reddit.com/r/androiddev/comments/1bcbciw/development_time_ios_vs_android/)
-- [How practical are unit tests in Android Development actually?](https://www.reddit.com/r/androiddev/comments/1bc99ve/how_practical_are_unit_tests_in_android/)
-- [Android Studio Foldable Emulator. View Both Screens At The Same Time.](https://www.reddit.com/r/androiddev/comments/1bc4i03/android_studio_foldable_emulator_view_both/)
-- [Weekly Who&#39;s Hiring Thread - March 11, 2024](https://www.reddit.com/r/androiddev/comments/1bc3v1h/weekly_whos_hiring_thread_march_11_2024/)
-- [I spent a week writing a robust internet monitor class which handles all cases &lpar;including when the user is using a VPN&rpar;. Would love some feedback, and if you find the class useful please star my repo](https://www.reddit.com/r/androiddev/comments/1bc3e2b/i_spent_a_week_writing_a_robust_internet_monitor/)
-- [Weekly discussion, code review, and feedback thread - March 11, 2024](https://www.reddit.com/r/androiddev/comments/1bc2lt4/weekly_discussion_code_review_and_feedback_thread/)
-- [Kotlin Design Patterns: Abstract Factory Explained](https://www.reddit.com/r/androiddev/comments/1bbww3v/kotlin_design_patterns_abstract_factory_explained/)
-- [Google Play app access for reviewers - my app requires user to provide their own API key](https://www.reddit.com/r/androiddev/comments/1bbkvwa/google_play_app_access_for_reviewers_my_app/)
-- [Play Console Review Time in 2024](https://www.reddit.com/r/androiddev/comments/1bbi8ax/play_console_review_time_in_2024/)
+- [How I increased my GDPR consent rate by 30% with a small UI tweak](https://www.reddit.com/r/androiddev/comments/1bdbulp/how_i_increased_my_gdpr_consent_rate_by_30_with_a/)
+- [Stop Debating in Code Reviews. Start Enforcing with Lint Rules](https://www.reddit.com/r/androiddev/comments/1bdb5hd/stop_debating_in_code_reviews_start_enforcing/)
+- [How do I make a stylus pen](https://www.reddit.com/r/androiddev/comments/1bd9h7f/how_do_i_make_a_stylus_pen/)
+- [What&#39;s a good alternative to Google Admob?](https://www.reddit.com/r/androiddev/comments/1bd921h/whats_a_good_alternative_to_google_admob/)
+- [Do I need to use Google Pay?](https://www.reddit.com/r/androiddev/comments/1bd8m3l/do_i_need_to_use_google_pay/)
+- [One Ui look of app](https://www.reddit.com/r/androiddev/comments/1bd7kv5/one_ui_look_of_app/)
+- [App open behind other apps &lpar;Chromecast&rpar;](https://www.reddit.com/r/androiddev/comments/1bd6n2g/app_open_behind_other_apps_chromecast/)
+- [An organic Google Play download generates more revenue 14/60 days in than an App Store on in Japan &amp; South Korea](https://www.reddit.com/r/androiddev/comments/1bd56ro/an_organic_google_play_download_generates_more/)
+- [Android aaos understanding suspend to ram](https://www.reddit.com/r/androiddev/comments/1bd56c4/android_aaos_understanding_suspend_to_ram/)
+- [Understanding suspend to ram in android AAOS](https://www.reddit.com/r/androiddev/comments/1bd50bb/understanding_suspend_to_ram_in_android_aaos/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
