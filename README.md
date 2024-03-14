@@ -271,13 +271,13 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How I increased my GDPR consent rate by 30% with a small UI tweak](https://www.reddit.com/r/androiddev/comments/1bdbulp/how_i_increased_my_gdpr_consent_rate_by_30_with_a/)
-- [Stop Debating in Code Reviews. Start Enforcing with Lint Rules](https://www.reddit.com/r/androiddev/comments/1bdb5hd/stop_debating_in_code_reviews_start_enforcing/)
-- [How do I make a stylus pen](https://www.reddit.com/r/androiddev/comments/1bd9h7f/how_do_i_make_a_stylus_pen/)
-- [What&#39;s a good alternative to Google Admob?](https://www.reddit.com/r/androiddev/comments/1bd921h/whats_a_good_alternative_to_google_admob/)
+- [Weekly Feedback Thread Link + Regarding the 20 Testers Publishing Policy](https://www.reddit.com/r/androiddev/comments/1bdz4i1/weekly_feedback_thread_link_regarding_the_20/)
+- [Android Dev Phone 1 &lpar;HTC Dream / TM G1&rpar;, the OG Nexus](https://www.reddit.com/r/androiddev/comments/1bdstkm/android_dev_phone_1_htc_dream_tm_g1_the_og_nexus/)
+- [Going edge-to-edge with Compose without losing it](https://www.reddit.com/r/androiddev/comments/1bdozlr/going_edgetoedge_with_compose_without_losing_it/)
+- [ListView vs RecyclerView](https://www.reddit.com/r/androiddev/comments/1bdnm8v/listview_vs_recyclerview/)
+- [Created my first Wear OS app](https://www.reddit.com/r/androiddev/comments/1bdkexj/created_my_first_wear_os_app/)
 - [Do I need to use Google Pay?](https://www.reddit.com/r/androiddev/comments/1bd8m3l/do_i_need_to_use_google_pay/)
 - [One Ui look of app](https://www.reddit.com/r/androiddev/comments/1bd7kv5/one_ui_look_of_app/)
-- [App open behind other apps &lpar;Chromecast&rpar;](https://www.reddit.com/r/androiddev/comments/1bd6n2g/app_open_behind_other_apps_chromecast/)
 - [An organic Google Play download generates more revenue 14/60 days in than an App Store on in Japan &amp; South Korea](https://www.reddit.com/r/androiddev/comments/1bd56ro/an_organic_google_play_download_generates_more/)
 - [Android aaos understanding suspend to ram](https://www.reddit.com/r/androiddev/comments/1bd56c4/android_aaos_understanding_suspend_to_ram/)
 - [Understanding suspend to ram in android AAOS](https://www.reddit.com/r/androiddev/comments/1bd50bb/understanding_suspend_to_ram_in_android_aaos/)
