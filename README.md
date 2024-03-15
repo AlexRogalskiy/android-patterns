@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Advice for when to use OpenGL versus Canvas API](https://www.reddit.com/r/androiddev/comments/1bf1vab/advice_for_when_to_use_opengl_versus_canvas_api/)
+- [Visual Studio App Center is retiring. So long and thanks for all the fish!](https://www.reddit.com/r/androiddev/comments/1bezyui/visual_studio_app_center_is_retiring_so_long_and/)
+- [Root detection](https://www.reddit.com/r/androiddev/comments/1bewdrd/root_detection/)
+- [Question about JVM versions on Android devices](https://www.reddit.com/r/androiddev/comments/1berxjn/question_about_jvm_versions_on_android_devices/)
+- [@Composable Modifier and composed{} factory in Jetpack Compose? 🤔](https://www.reddit.com/r/androiddev/comments/1beir8r/composable_modifier_and_composed_factory_in/)
+- [Workflow advice for freelancers](https://www.reddit.com/r/androiddev/comments/1befn2h/workflow_advice_for_freelancers/)
+- [Anyone has experience with the Teacher Approved program? Is it worth it?](https://www.reddit.com/r/androiddev/comments/1beeoyn/anyone_has_experience_with_the_teacher_approved/)
 - [Weekly Feedback Thread Link + Regarding the 20 Testers Publishing Policy](https://www.reddit.com/r/androiddev/comments/1bdz4i1/weekly_feedback_thread_link_regarding_the_20/)
 - [Android Dev Phone 1 &lpar;HTC Dream / TM G1&rpar;, the OG Nexus](https://www.reddit.com/r/androiddev/comments/1bdstkm/android_dev_phone_1_htc_dream_tm_g1_the_og_nexus/)
 - [Going edge-to-edge with Compose without losing it](https://www.reddit.com/r/androiddev/comments/1bdozlr/going_edgetoedge_with_compose_without_losing_it/)
-- [ListView vs RecyclerView](https://www.reddit.com/r/androiddev/comments/1bdnm8v/listview_vs_recyclerview/)
-- [Created my first Wear OS app](https://www.reddit.com/r/androiddev/comments/1bdkexj/created_my_first_wear_os_app/)
-- [Do I need to use Google Pay?](https://www.reddit.com/r/androiddev/comments/1bd8m3l/do_i_need_to_use_google_pay/)
-- [One Ui look of app](https://www.reddit.com/r/androiddev/comments/1bd7kv5/one_ui_look_of_app/)
-- [An organic Google Play download generates more revenue 14/60 days in than an App Store on in Japan &amp; South Korea](https://www.reddit.com/r/androiddev/comments/1bd56ro/an_organic_google_play_download_generates_more/)
-- [Android aaos understanding suspend to ram](https://www.reddit.com/r/androiddev/comments/1bd56c4/android_aaos_understanding_suspend_to_ram/)
-- [Understanding suspend to ram in android AAOS](https://www.reddit.com/r/androiddev/comments/1bd50bb/understanding_suspend_to_ram_in_android_aaos/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
