@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Advice for when to use OpenGL versus Canvas API](https://www.reddit.com/r/androiddev/comments/1bf1vab/advice_for_when_to_use_opengl_versus_canvas_api/)
+- [Compose: prevent touch event propagation to parents while forwarding to child](https://www.reddit.com/r/androiddev/comments/1bfr48n/compose_prevent_touch_event_propagation_to/)
+- [Testing app by stressing on Garbage Collector](https://www.reddit.com/r/androiddev/comments/1bfl7jb/testing_app_by_stressing_on_garbage_collector/)
+- [First Android app, looking for comments](https://www.reddit.com/r/androiddev/comments/1bffcdv/first_android_app_looking_for_comments/)
+- [Optimize App Performance By Mastering Stability in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1bfceir/optimize_app_performance_by_mastering_stability/)
+- [Developer ID Verification: Photo required, while not recommended by government](https://www.reddit.com/r/androiddev/comments/1bfalyx/developer_id_verification_photo_required_while/)
 - [Visual Studio App Center is retiring. So long and thanks for all the fish!](https://www.reddit.com/r/androiddev/comments/1bezyui/visual_studio_app_center_is_retiring_so_long_and/)
 - [Root detection](https://www.reddit.com/r/androiddev/comments/1bewdrd/root_detection/)
 - [Question about JVM versions on Android devices](https://www.reddit.com/r/androiddev/comments/1berxjn/question_about_jvm_versions_on_android_devices/)
 - [@Composable Modifier and composed{} factory in Jetpack Compose? 🤔](https://www.reddit.com/r/androiddev/comments/1beir8r/composable_modifier_and_composed_factory_in/)
 - [Workflow advice for freelancers](https://www.reddit.com/r/androiddev/comments/1befn2h/workflow_advice_for_freelancers/)
-- [Anyone has experience with the Teacher Approved program? Is it worth it?](https://www.reddit.com/r/androiddev/comments/1beeoyn/anyone_has_experience_with_the_teacher_approved/)
-- [Weekly Feedback Thread Link + Regarding the 20 Testers Publishing Policy](https://www.reddit.com/r/androiddev/comments/1bdz4i1/weekly_feedback_thread_link_regarding_the_20/)
-- [Android Dev Phone 1 &lpar;HTC Dream / TM G1&rpar;, the OG Nexus](https://www.reddit.com/r/androiddev/comments/1bdstkm/android_dev_phone_1_htc_dream_tm_g1_the_og_nexus/)
-- [Going edge-to-edge with Compose without losing it](https://www.reddit.com/r/androiddev/comments/1bdozlr/going_edgetoedge_with_compose_without_losing_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
