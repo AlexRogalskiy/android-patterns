@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://www.reddit.com/r/androiddev/comments/1bgdbwo/java_users_on_macos_14_running_on_apple_silicon/)
+- [App made unavailable in few countries. What happens if I pushed an update?](https://www.reddit.com/r/androiddev/comments/1bgbqqy/app_made_unavailable_in_few_countries_what/)
 - [Compose: prevent touch event propagation to parents while forwarding to child](https://www.reddit.com/r/androiddev/comments/1bfr48n/compose_prevent_touch_event_propagation_to/)
 - [Testing app by stressing on Garbage Collector](https://www.reddit.com/r/androiddev/comments/1bfl7jb/testing_app_by_stressing_on_garbage_collector/)
 - [First Android app, looking for comments](https://www.reddit.com/r/androiddev/comments/1bffcdv/first_android_app_looking_for_comments/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Visual Studio App Center is retiring. So long and thanks for all the fish!](https://www.reddit.com/r/androiddev/comments/1bezyui/visual_studio_app_center_is_retiring_so_long_and/)
 - [Root detection](https://www.reddit.com/r/androiddev/comments/1bewdrd/root_detection/)
 - [Question about JVM versions on Android devices](https://www.reddit.com/r/androiddev/comments/1berxjn/question_about_jvm_versions_on_android_devices/)
-- [@Composable Modifier and composed{} factory in Jetpack Compose? 🤔](https://www.reddit.com/r/androiddev/comments/1beir8r/composable_modifier_and_composed_factory_in/)
-- [Workflow advice for freelancers](https://www.reddit.com/r/androiddev/comments/1befn2h/workflow_advice_for_freelancers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
