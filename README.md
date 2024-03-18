@@ -271,6 +271,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How does Android identify Instant Apps?](https://www.reddit.com/r/androiddev/comments/1bgnkke/how_does_android_identify_instant_apps/)
 - [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://www.reddit.com/r/androiddev/comments/1bgdbwo/java_users_on_macos_14_running_on_apple_silicon/)
 - [App made unavailable in few countries. What happens if I pushed an update?](https://www.reddit.com/r/androiddev/comments/1bgbqqy/app_made_unavailable_in_few_countries_what/)
 - [Compose: prevent touch event propagation to parents while forwarding to child](https://www.reddit.com/r/androiddev/comments/1bfr48n/compose_prevent_touch_event_propagation_to/)
@@ -280,7 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Developer ID Verification: Photo required, while not recommended by government](https://www.reddit.com/r/androiddev/comments/1bfalyx/developer_id_verification_photo_required_while/)
 - [Visual Studio App Center is retiring. So long and thanks for all the fish!](https://www.reddit.com/r/androiddev/comments/1bezyui/visual_studio_app_center_is_retiring_so_long_and/)
 - [Root detection](https://www.reddit.com/r/androiddev/comments/1bewdrd/root_detection/)
-- [Question about JVM versions on Android devices](https://www.reddit.com/r/androiddev/comments/1berxjn/question_about_jvm_versions_on_android_devices/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
