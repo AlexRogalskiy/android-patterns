@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do my users have to reinstall the app if I switch from cross platform to android ?](https://www.reddit.com/r/androiddev/comments/1biypf9/do_my_users_have_to_reinstall_the_app_if_i_switch/)
+- [Android Studio Jellyfish | 2023.3.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1bis5jb/android_studio_jellyfish_202332_canary_1_now/)
+- [Composition over Inheritance: My refactoring recipe](https://www.reddit.com/r/androiddev/comments/1binm4s/composition_over_inheritance_my_refactoring_recipe/)
+- [Must-Know Android Kotlin Interview Questions](https://www.reddit.com/r/androiddev/comments/1bin1vw/mustknow_android_kotlin_interview_questions/)
+- [Detecting Banker Malware Installed on Android Devices by Legitimate Sensitive Apps](https://www.reddit.com/r/androiddev/comments/1bih7s3/detecting_banker_malware_installed_on_android/)
+- [System Design resources for Lead Android Engineer](https://www.reddit.com/r/androiddev/comments/1biftof/system_design_resources_for_lead_android_engineer/)
+- [Simple Payment Ui with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1bicy57/simple_payment_ui_with_jetpack_compose/)
 - [What do you think about this opinion?](https://www.reddit.com/r/androiddev/comments/1bi4y46/what_do_you_think_about_this_opinion/)
 - [Android Studio Iguana | 2023.2.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1bhx6gx/android_studio_iguana_202321_patch_1_now_available/)
 - [Running Google&#39;s Gemma LLM on Android with MediaPipe](https://www.reddit.com/r/androiddev/comments/1bhw0h9/running_googles_gemma_llm_on_android_with/)
-- [Best practise with encryption](https://www.reddit.com/r/androiddev/comments/1bhud7g/best_practise_with_encryption/)
-- [Weekly Who&#39;s Hiring Thread - March 18, 2024](https://www.reddit.com/r/androiddev/comments/1bhrf33/weekly_whos_hiring_thread_march_18_2024/)
-- [Weekly discussion, code review, and feedback thread - March 18, 2024](https://www.reddit.com/r/androiddev/comments/1bhq4z2/weekly_discussion_code_review_and_feedback_thread/)
-- [Android/Kotlin/Jetpack Compose: Customize Clickables and Ripples](https://www.reddit.com/r/androiddev/comments/1bhoa2v/androidkotlinjetpack_compose_customize_clickables/)
-- [How does Android identify Instant Apps?](https://www.reddit.com/r/androiddev/comments/1bgnkke/how_does_android_identify_instant_apps/)
-- [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://www.reddit.com/r/androiddev/comments/1bgdbwo/java_users_on_macos_14_running_on_apple_silicon/)
-- [App made unavailable in few countries. What happens if I pushed an update?](https://www.reddit.com/r/androiddev/comments/1bgbqqy/app_made_unavailable_in_few_countries_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
