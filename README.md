@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How google calculates VAT](https://www.reddit.com/r/androiddev/comments/1bjkuxk/how_google_calculates_vat/)
+- [Type Projections - and Why They Work](https://www.reddit.com/r/androiddev/comments/1bjepoj/type_projections_and_why_they_work/)
+- [Build Wear OS application using Jetpack Compose [Part 1 — Design System for WearOS]](https://www.reddit.com/r/androiddev/comments/1bj5h3b/build_wear_os_application_using_jetpack_compose/)
 - [Do my users have to reinstall the app if I switch from cross platform to android ?](https://www.reddit.com/r/androiddev/comments/1biypf9/do_my_users_have_to_reinstall_the_app_if_i_switch/)
 - [Android Studio Jellyfish | 2023.3.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1bis5jb/android_studio_jellyfish_202332_canary_1_now/)
 - [Composition over Inheritance: My refactoring recipe](https://www.reddit.com/r/androiddev/comments/1binm4s/composition_over_inheritance_my_refactoring_recipe/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Detecting Banker Malware Installed on Android Devices by Legitimate Sensitive Apps](https://www.reddit.com/r/androiddev/comments/1bih7s3/detecting_banker_malware_installed_on_android/)
 - [System Design resources for Lead Android Engineer](https://www.reddit.com/r/androiddev/comments/1biftof/system_design_resources_for_lead_android_engineer/)
 - [Simple Payment Ui with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1bicy57/simple_payment_ui_with_jetpack_compose/)
-- [What do you think about this opinion?](https://www.reddit.com/r/androiddev/comments/1bi4y46/what_do_you_think_about_this_opinion/)
-- [Android Studio Iguana | 2023.2.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1bhx6gx/android_studio_iguana_202321_patch_1_now_available/)
-- [Running Google&#39;s Gemma LLM on Android with MediaPipe](https://www.reddit.com/r/androiddev/comments/1bhw0h9/running_googles_gemma_llm_on_android_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
