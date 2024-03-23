@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Has anyone tried Sqlite3 Synchronization with LiteSync](https://www.reddit.com/r/androiddev/comments/1blbgf6/has_anyone_tried_sqlite3_synchronization_with/)
+- [JNI Marshalling Performance: Single Round Trip](https://www.reddit.com/r/androiddev/comments/1bl9lel/jni_marshalling_performance_single_round_trip/)
+- [Gradle toolchains are rarely a good idea](https://www.reddit.com/r/androiddev/comments/1bl496m/gradle_toolchains_are_rarely_a_good_idea/)
+- [Android Studio Koala | 2023.3.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1bl45a3/android_studio_koala_202332_canary_2_now_available/)
+- [Reflecting on Rule 2 and Opportunities for Growth](https://www.reddit.com/r/androiddev/comments/1bkufzp/reflecting_on_rule_2_and_opportunities_for_growth/)
+- [Retaining beyond ViewModels](https://www.reddit.com/r/androiddev/comments/1bkucvz/retaining_beyond_viewmodels/)
 - [Android 15 Preview: Timeline, milestones, and updates | Android Developers](https://www.reddit.com/r/androiddev/comments/1bkhjc1/android_15_preview_timeline_milestones_and/)
 - [Behavior changes: Apps targeting Android 15 or higher | Android Developers](https://www.reddit.com/r/androiddev/comments/1bkg0r7/behavior_changes_apps_targeting_android_15_or/)
-- [How to create an android app for personal use by a beginner](https://www.reddit.com/r/androiddev/comments/1bkflta/how_to_create_an_android_app_for_personal_use_by/)
 - [Android Studio Jellyfish | 2023.3.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1bkbe7v/android_studio_jellyfish_202331_beta_1_now/)
-- [This is insane right? I can&#39;t comprehend the realistic value of this](https://www.reddit.com/r/androiddev/comments/1bk7her/this_is_insane_right_i_cant_comprehend_the/)
-- [Animating ContentScale during image shared element transitions](https://www.reddit.com/r/androiddev/comments/1bk747t/animating_contentscale_during_image_shared/)
-- [How to change Google Play Store country on Android Emulator &lpar;AVD&rpar;?](https://www.reddit.com/r/androiddev/comments/1bjyav7/how_to_change_google_play_store_country_on/)
-- [How google calculates VAT](https://www.reddit.com/r/androiddev/comments/1bjkuxk/how_google_calculates_vat/)
-- [Type Projections - and Why They Work](https://www.reddit.com/r/androiddev/comments/1bjepoj/type_projections_and_why_they_work/)
-- [Build Wear OS application using Jetpack Compose [Part 1 — Design System for WearOS]](https://www.reddit.com/r/androiddev/comments/1bj5h3b/build_wear_os_application_using_jetpack_compose/)
+- [App rejections because of a Favorites tab](https://www.reddit.com/r/androiddev/comments/1bk9z16/app_rejections_because_of_a_favorites_tab/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
