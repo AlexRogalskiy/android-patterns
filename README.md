@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How difficult is it to switch from Flutter to native Android development?](https://www.reddit.com/r/androiddev/comments/1bm6pto/how_difficult_is_it_to_switch_from_flutter_to/)
+- [Extending Device Farmer with Lariat to scale and manage physical Android device Testing](https://www.reddit.com/r/androiddev/comments/1bluphr/extending_device_farmer_with_lariat_to_scale_and/)
+- [Is there any value to retaining an OLD EU dev account?](https://www.reddit.com/r/androiddev/comments/1blp7zd/is_there_any_value_to_retaining_an_old_eu_dev/)
 - [Has anyone tried Sqlite3 Synchronization with LiteSync](https://www.reddit.com/r/androiddev/comments/1blbgf6/has_anyone_tried_sqlite3_synchronization_with/)
 - [JNI Marshalling Performance: Single Round Trip](https://www.reddit.com/r/androiddev/comments/1bl9lel/jni_marshalling_performance_single_round_trip/)
 - [Gradle toolchains are rarely a good idea](https://www.reddit.com/r/androiddev/comments/1bl496m/gradle_toolchains_are_rarely_a_good_idea/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Reflecting on Rule 2 and Opportunities for Growth](https://www.reddit.com/r/androiddev/comments/1bkufzp/reflecting_on_rule_2_and_opportunities_for_growth/)
 - [Retaining beyond ViewModels](https://www.reddit.com/r/androiddev/comments/1bkucvz/retaining_beyond_viewmodels/)
 - [Android 15 Preview: Timeline, milestones, and updates | Android Developers](https://www.reddit.com/r/androiddev/comments/1bkhjc1/android_15_preview_timeline_milestones_and/)
-- [Behavior changes: Apps targeting Android 15 or higher | Android Developers](https://www.reddit.com/r/androiddev/comments/1bkg0r7/behavior_changes_apps_targeting_android_15_or/)
-- [Android Studio Jellyfish | 2023.3.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1bkbe7v/android_studio_jellyfish_202331_beta_1_now/)
-- [App rejections because of a Favorites tab](https://www.reddit.com/r/androiddev/comments/1bk9z16/app_rejections_because_of_a_favorites_tab/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
