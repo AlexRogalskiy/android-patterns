@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s your process for sharing a build to different stakeholders](https://www.reddit.com/r/androiddev/comments/1bomxqz/whats_your_process_for_sharing_a_build_to/)
+- [NewPass: a secure Android password manager](https://www.reddit.com/r/androiddev/comments/1bo6j8z/newpass_a_secure_android_password_manager/)
+- [Open sourced my app - Better Open With](https://www.reddit.com/r/androiddev/comments/1bo5jhz/open_sourced_my_app_better_open_with/)
+- [how do you get erp games onto the market?](https://www.reddit.com/r/androiddev/comments/1bo0ecv/how_do_you_get_erp_games_onto_the_market/)
 - [Weekly Who&#39;s Hiring Thread - March 25, 2024](https://www.reddit.com/r/androiddev/comments/1bnednf/weekly_whos_hiring_thread_march_25_2024/)
 - [Weekly discussion, code review, and feedback thread - March 25, 2024](https://www.reddit.com/r/androiddev/comments/1bnd1tb/weekly_discussion_code_review_and_feedback_thread/)
 - [Androidstudio feels like its getting slower with each update](https://www.reddit.com/r/androiddev/comments/1bn9pjp/androidstudio_feels_like_its_getting_slower_with/)
 - [Screen Shot Testing](https://www.reddit.com/r/androiddev/comments/1bn0d5e/screen_shot_testing/)
 - [Interview question suggestions for Senior position](https://www.reddit.com/r/androiddev/comments/1bmvgx8/interview_question_suggestions_for_senior_position/)
 - [How difficult is it to switch from Flutter to native Android development?](https://www.reddit.com/r/androiddev/comments/1bm6pto/how_difficult_is_it_to_switch_from_flutter_to/)
-- [Extending Device Farmer with Lariat to scale and manage physical Android device Testing](https://www.reddit.com/r/androiddev/comments/1bluphr/extending_device_farmer_with_lariat_to_scale_and/)
-- [Is there any value to retaining an OLD EU dev account?](https://www.reddit.com/r/androiddev/comments/1blp7zd/is_there_any_value_to_retaining_an_old_eu_dev/)
-- [Has anyone tried Sqlite3 Synchronization with LiteSync](https://www.reddit.com/r/androiddev/comments/1blbgf6/has_anyone_tried_sqlite3_synchronization_with/)
-- [JNI Marshalling Performance: Single Round Trip](https://www.reddit.com/r/androiddev/comments/1bl9lel/jni_marshalling_performance_single_round_trip/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
