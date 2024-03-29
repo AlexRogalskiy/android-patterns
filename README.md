@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I haven&#39;t seen articles about skeleton implementaion patterns, what would be your approach ?](https://www.reddit.com/r/androiddev/comments/1bq999o/i_havent_seen_articles_about_skeleton/)
+- [downloaded latest android studio canary but no studio bot ?? :&lpar;](https://www.reddit.com/r/androiddev/comments/1bq8hm6/downloaded_latest_android_studio_canary_but_no/)
+- [💥 Introducing Anytype - open code, encrypted &amp; local first app for Note-taking &amp; Knowledge Sharing - native on android](https://www.reddit.com/r/androiddev/comments/1bq3awy/introducing_anytype_open_code_encrypted_local/)
+- [Why is the project structure so cluttered?](https://www.reddit.com/r/androiddev/comments/1bps9z5/why_is_the_project_structure_so_cluttered/)
 - [Clean architecture and complex UI state management](https://www.reddit.com/r/androiddev/comments/1bpiyo8/clean_architecture_and_complex_ui_state_management/)
 - [Reading, Storing, and Processing Time Series data on Android](https://www.reddit.com/r/androiddev/comments/1bpfjot/reading_storing_and_processing_time_series_data/)
 - [Android Studio Jellyfish | 2023.3.1 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/1bpebk5/android_studio_jellyfish_202331_beta_2_now/)
 - [Kotlin Illustrated Guide Ch. 18 - Generics](https://www.reddit.com/r/androiddev/comments/1bp30nh/kotlin_illustrated_guide_ch_18_generics/)
 - [A preview of Animating LazyList items in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1bp297v/a_preview_of_animating_lazylist_items_in_jetpack/)
 - [Flutter vs native](https://www.reddit.com/r/androiddev/comments/1bp03nk/flutter_vs_native/)
-- [Do we need to provide advance notice to the review team?](https://www.reddit.com/r/androiddev/comments/1boyaxt/do_we_need_to_provide_advance_notice_to_the/)
-- [Why boolean arguments should be avoided - Robert C. Martin &lpar;Uncle Bob&rpar;](https://www.reddit.com/r/androiddev/comments/1botiz6/why_boolean_arguments_should_be_avoided_robert_c/)
-- [Clarification Needed: Google Play Store Billing System for EdTech Apps](https://www.reddit.com/r/androiddev/comments/1boqf78/clarification_needed_google_play_store_billing/)
-- [What&#39;s your process for sharing a build to different stakeholders](https://www.reddit.com/r/androiddev/comments/1bomxqz/whats_your_process_for_sharing_a_build_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
