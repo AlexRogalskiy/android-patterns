@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trying to get my first app out of closed testing in Play console, been &quot;in review&quot; for 30 days. Is this normal or did I miss something?](https://www.reddit.com/r/androiddev/comments/1br5qeq/trying_to_get_my_first_app_out_of_closed_testing/)
+- [Can&#39;t use Fastboot](https://www.reddit.com/r/androiddev/comments/1br2zex/cant_use_fastboot/)
+- [Material you theming working in Emulator but not on real phone](https://www.reddit.com/r/androiddev/comments/1bqudji/material_you_theming_working_in_emulator_but_not/)
+- [Running an emulator on a second display](https://www.reddit.com/r/androiddev/comments/1bqsb5z/running_an_emulator_on_a_second_display/)
+- [Render HTML or Markdown strings in your Compose UI!](https://www.reddit.com/r/androiddev/comments/1bqjqp9/render_html_or_markdown_strings_in_your_compose_ui/)
+- [OAuth Consent Screen](https://www.reddit.com/r/androiddev/comments/1bqjcwm/oauth_consent_screen/)
+- [How to Integrate Chat Feature in Android&lpar;Java&rpar; Video Call App?](https://www.reddit.com/r/androiddev/comments/1bqiy42/how_to_integrate_chat_feature_in_androidjava/)
+- [The #1 source of coupling in software and how to handle it - Sandi Metz](https://www.reddit.com/r/androiddev/comments/1bqhiwd/the_1_source_of_coupling_in_software_and_how_to/)
 - [I haven&#39;t seen articles about skeleton implementaion patterns, what would be your approach ?](https://www.reddit.com/r/androiddev/comments/1bq999o/i_havent_seen_articles_about_skeleton/)
-- [downloaded latest android studio canary but no studio bot ?? :&lpar;](https://www.reddit.com/r/androiddev/comments/1bq8hm6/downloaded_latest_android_studio_canary_but_no/)
 - [💥 Introducing Anytype - open code, encrypted &amp; local first app for Note-taking &amp; Knowledge Sharing - native on android](https://www.reddit.com/r/androiddev/comments/1bq3awy/introducing_anytype_open_code_encrypted_local/)
-- [Why is the project structure so cluttered?](https://www.reddit.com/r/androiddev/comments/1bps9z5/why_is_the_project_structure_so_cluttered/)
-- [Clean architecture and complex UI state management](https://www.reddit.com/r/androiddev/comments/1bpiyo8/clean_architecture_and_complex_ui_state_management/)
-- [Reading, Storing, and Processing Time Series data on Android](https://www.reddit.com/r/androiddev/comments/1bpfjot/reading_storing_and_processing_time_series_data/)
-- [Android Studio Jellyfish | 2023.3.1 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/1bpebk5/android_studio_jellyfish_202331_beta_2_now/)
-- [Kotlin Illustrated Guide Ch. 18 - Generics](https://www.reddit.com/r/androiddev/comments/1bp30nh/kotlin_illustrated_guide_ch_18_generics/)
-- [A preview of Animating LazyList items in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1bp297v/a_preview_of_animating_lazylist_items_in_jetpack/)
-- [Flutter vs native](https://www.reddit.com/r/androiddev/comments/1bp03nk/flutter_vs_native/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
