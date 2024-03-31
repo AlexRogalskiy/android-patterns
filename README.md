@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trying to get my first app out of closed testing in Play console, been &quot;in review&quot; for 30 days. Is this normal or did I miss something?](https://www.reddit.com/r/androiddev/comments/1br5qeq/trying_to_get_my_first_app_out_of_closed_testing/)
-- [Can&#39;t use Fastboot](https://www.reddit.com/r/androiddev/comments/1br2zex/cant_use_fastboot/)
+- [The Struggle of Learning Android Dev](https://www.reddit.com/r/androiddev/comments/1brszan/the_struggle_of_learning_android_dev/)
+- [Does google play allow referring to another app by name in description?](https://www.reddit.com/r/androiddev/comments/1brdjpb/does_google_play_allow_referring_to_another_app/)
+- [I spent about a week rewriting a bunch of stuff and improving the UI/UX of my open-source app.](https://www.reddit.com/r/androiddev/comments/1brctrq/i_spent_about_a_week_rewriting_a_bunch_of_stuff/)
+- [App access instructions requirement for in-app-purchases](https://www.reddit.com/r/androiddev/comments/1br9u03/app_access_instructions_requirement_for/)
+- [An Android Studio plugin for integration ChatGPT](https://www.reddit.com/r/androiddev/comments/1br6sfa/an_android_studio_plugin_for_integration_chatgpt/)
 - [Material you theming working in Emulator but not on real phone](https://www.reddit.com/r/androiddev/comments/1bqudji/material_you_theming_working_in_emulator_but_not/)
 - [Running an emulator on a second display](https://www.reddit.com/r/androiddev/comments/1bqsb5z/running_an_emulator_on_a_second_display/)
 - [Render HTML or Markdown strings in your Compose UI!](https://www.reddit.com/r/androiddev/comments/1bqjqp9/render_html_or_markdown_strings_in_your_compose_ui/)
 - [OAuth Consent Screen](https://www.reddit.com/r/androiddev/comments/1bqjcwm/oauth_consent_screen/)
-- [How to Integrate Chat Feature in Android&lpar;Java&rpar; Video Call App?](https://www.reddit.com/r/androiddev/comments/1bqiy42/how_to_integrate_chat_feature_in_androidjava/)
 - [The #1 source of coupling in software and how to handle it - Sandi Metz](https://www.reddit.com/r/androiddev/comments/1bqhiwd/the_1_source_of_coupling_in_software_and_how_to/)
-- [I haven&#39;t seen articles about skeleton implementaion patterns, what would be your approach ?](https://www.reddit.com/r/androiddev/comments/1bq999o/i_havent_seen_articles_about_skeleton/)
-- [💥 Introducing Anytype - open code, encrypted &amp; local first app for Note-taking &amp; Knowledge Sharing - native on android](https://www.reddit.com/r/androiddev/comments/1bq3awy/introducing_anytype_open_code_encrypted_local/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
