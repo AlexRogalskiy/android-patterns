@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to Compose &lpar;and Android in general&rpar; and had a question about view models and making data persist](https://www.reddit.com/r/androiddev/comments/1bs6np0/new_to_compose_and_android_in_general_and_had_a/)
+- [How to safely update state in your Kotlin apps &lpar;and why your state updates are not safe&rpar;](https://www.reddit.com/r/androiddev/comments/1bs53a1/how_to_safely_update_state_in_your_kotlin_apps/)
+- [Quick Question about Retrofit/GSON with data classes &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1brzdh0/quick_question_about_retrofitgson_with_data/)
 - [The Struggle of Learning Android Dev](https://www.reddit.com/r/androiddev/comments/1brszan/the_struggle_of_learning_android_dev/)
 - [Does google play allow referring to another app by name in description?](https://www.reddit.com/r/androiddev/comments/1brdjpb/does_google_play_allow_referring_to_another_app/)
 - [I spent about a week rewriting a bunch of stuff and improving the UI/UX of my open-source app.](https://www.reddit.com/r/androiddev/comments/1brctrq/i_spent_about_a_week_rewriting_a_bunch_of_stuff/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [An Android Studio plugin for integration ChatGPT](https://www.reddit.com/r/androiddev/comments/1br6sfa/an_android_studio_plugin_for_integration_chatgpt/)
 - [Material you theming working in Emulator but not on real phone](https://www.reddit.com/r/androiddev/comments/1bqudji/material_you_theming_working_in_emulator_but_not/)
 - [Running an emulator on a second display](https://www.reddit.com/r/androiddev/comments/1bqsb5z/running_an_emulator_on_a_second_display/)
-- [Render HTML or Markdown strings in your Compose UI!](https://www.reddit.com/r/androiddev/comments/1bqjqp9/render_html_or_markdown_strings_in_your_compose_ui/)
-- [OAuth Consent Screen](https://www.reddit.com/r/androiddev/comments/1bqjcwm/oauth_consent_screen/)
-- [The #1 source of coupling in software and how to handle it - Sandi Metz](https://www.reddit.com/r/androiddev/comments/1bqhiwd/the_1_source_of_coupling_in_software_and_how_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
