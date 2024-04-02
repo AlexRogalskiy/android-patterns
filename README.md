@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Warning - Google Play billing library bug causing bogus policy violation problems](https://www.reddit.com/r/androiddev/comments/1bt7glc/warning_google_play_billing_library_bug_causing/)
+- [Weekly Who&#39;s Hiring Thread - April 01, 2024](https://www.reddit.com/r/androiddev/comments/1bt344g/weekly_whos_hiring_thread_april_01_2024/)
+- [Weekly discussion, code review, and feedback thread - April 01, 2024](https://www.reddit.com/r/androiddev/comments/1bt1u6o/weekly_discussion_code_review_and_feedback_thread/)
+- [Android Development best practices](https://www.reddit.com/r/androiddev/comments/1bt14oc/android_development_best_practices/)
+- [Adoption of kotlin and jetpack compose in the industry?](https://www.reddit.com/r/androiddev/comments/1bsxw1v/adoption_of_kotlin_and_jetpack_compose_in_the/)
+- [Compose Rich Editor Update with new features and improvements!](https://www.reddit.com/r/androiddev/comments/1bswfql/compose_rich_editor_update_with_new_features_and/)
 - [New to Compose &lpar;and Android in general&rpar; and had a question about view models and making data persist](https://www.reddit.com/r/androiddev/comments/1bs6np0/new_to_compose_and_android_in_general_and_had_a/)
 - [How to safely update state in your Kotlin apps &lpar;and why your state updates are not safe&rpar;](https://www.reddit.com/r/androiddev/comments/1bs53a1/how_to_safely_update_state_in_your_kotlin_apps/)
 - [Quick Question about Retrofit/GSON with data classes &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1brzdh0/quick_question_about_retrofitgson_with_data/)
 - [The Struggle of Learning Android Dev](https://www.reddit.com/r/androiddev/comments/1brszan/the_struggle_of_learning_android_dev/)
-- [Does google play allow referring to another app by name in description?](https://www.reddit.com/r/androiddev/comments/1brdjpb/does_google_play_allow_referring_to_another_app/)
-- [I spent about a week rewriting a bunch of stuff and improving the UI/UX of my open-source app.](https://www.reddit.com/r/androiddev/comments/1brctrq/i_spent_about_a_week_rewriting_a_bunch_of_stuff/)
-- [App access instructions requirement for in-app-purchases](https://www.reddit.com/r/androiddev/comments/1br9u03/app_access_instructions_requirement_for/)
-- [An Android Studio plugin for integration ChatGPT](https://www.reddit.com/r/androiddev/comments/1br6sfa/an_android_studio_plugin_for_integration_chatgpt/)
-- [Material you theming working in Emulator but not on real phone](https://www.reddit.com/r/androiddev/comments/1bqudji/material_you_theming_working_in_emulator_but_not/)
-- [Running an emulator on a second display](https://www.reddit.com/r/androiddev/comments/1bqsb5z/running_an_emulator_on_a_second_display/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
