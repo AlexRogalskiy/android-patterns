@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you deal with google play making api 33 a required target?](https://www.reddit.com/r/androiddev/comments/1buc3b9/how_do_you_deal_with_google_play_making_api_33_a/)
+- [I want to ask about the Meta Android Developer Professional Certificate.](https://www.reddit.com/r/androiddev/comments/1buby2g/i_want_to_ask_about_the_meta_android_developer/)
+- [Is there any way to use another language in Android Studio Hedgehog?](https://www.reddit.com/r/androiddev/comments/1bubalk/is_there_any_way_to_use_another_language_in/)
+- [Alright -- what are we building in?](https://www.reddit.com/r/androiddev/comments/1buayh5/alright_what_are_we_building_in/)
+- [AppSprint](https://www.reddit.com/r/androiddev/comments/1buau59/appsprint/)
+- [Android Studio Koala | 2024.1.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1btzezd/android_studio_koala_202411_canary_3_now_available/)
+- [10 Years of Hacker News &quot;Ask HN: Who is hiring&quot;: The decline of mobile visualized](https://www.reddit.com/r/androiddev/comments/1btyg6u/10_years_of_hacker_news_ask_hn_who_is_hiring_the/)
+- [&quot;Information needed regarding your app submission&quot; email after submitting an app to the Playstore](https://www.reddit.com/r/androiddev/comments/1btustu/information_needed_regarding_your_app_submission/)
 - [Warning - Google Play billing library bug causing bogus policy violation problems](https://www.reddit.com/r/androiddev/comments/1bt7glc/warning_google_play_billing_library_bug_causing/)
 - [Weekly Who&#39;s Hiring Thread - April 01, 2024](https://www.reddit.com/r/androiddev/comments/1bt344g/weekly_whos_hiring_thread_april_01_2024/)
-- [Weekly discussion, code review, and feedback thread - April 01, 2024](https://www.reddit.com/r/androiddev/comments/1bt1u6o/weekly_discussion_code_review_and_feedback_thread/)
-- [Android Development best practices](https://www.reddit.com/r/androiddev/comments/1bt14oc/android_development_best_practices/)
-- [Adoption of kotlin and jetpack compose in the industry?](https://www.reddit.com/r/androiddev/comments/1bsxw1v/adoption_of_kotlin_and_jetpack_compose_in_the/)
-- [Compose Rich Editor Update with new features and improvements!](https://www.reddit.com/r/androiddev/comments/1bswfql/compose_rich_editor_update_with_new_features_and/)
-- [New to Compose &lpar;and Android in general&rpar; and had a question about view models and making data persist](https://www.reddit.com/r/androiddev/comments/1bs6np0/new_to_compose_and_android_in_general_and_had_a/)
-- [How to safely update state in your Kotlin apps &lpar;and why your state updates are not safe&rpar;](https://www.reddit.com/r/androiddev/comments/1bs53a1/how_to_safely_update_state_in_your_kotlin_apps/)
-- [Quick Question about Retrofit/GSON with data classes &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1brzdh0/quick_question_about_retrofitgson_with_data/)
-- [The Struggle of Learning Android Dev](https://www.reddit.com/r/androiddev/comments/1brszan/the_struggle_of_learning_android_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
