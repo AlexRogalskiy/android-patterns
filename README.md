@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Enable users to share your app&#39;s deep links using navigation-recents-url-sharing &lpar;with androidx.navigation&rpar;](https://www.reddit.com/r/androiddev/comments/1bv81mq/enable_users_to_share_your_apps_deep_links_using/)
+- [Experimental Support for Safe Args in Navigation Compose using approach based on Kotlin Serialization](https://www.reddit.com/r/androiddev/comments/1bv5pvr/experimental_support_for_safe_args_in_navigation/)
+- [Google Play PolicyBytes - April 2024 policy updates - YouTube](https://www.reddit.com/r/androiddev/comments/1buzcxj/google_play_policybytes_april_2024_policy_updates/)
+- [Confusion about google play testing tracks. &lpar;Open+Closed&rpar;](https://www.reddit.com/r/androiddev/comments/1buuwn5/confusion_about_google_play_testing_tracks/)
+- [Video: Every Kind of Class in Kotlin](https://www.reddit.com/r/androiddev/comments/1buurm9/video_every_kind_of_class_in_kotlin/)
+- [Build finished sound on Ubuntu 20 and Android Studio Iguana](https://www.reddit.com/r/androiddev/comments/1bunxfd/build_finished_sound_on_ubuntu_20_and_android/)
+- [Suggestions needed on how to answer in an interview for my problem.](https://www.reddit.com/r/androiddev/comments/1buls0k/suggestions_needed_on_how_to_answer_in_an/)
 - [How do you deal with google play making api 33 a required target?](https://www.reddit.com/r/androiddev/comments/1buc3b9/how_do_you_deal_with_google_play_making_api_33_a/)
-- [I want to ask about the Meta Android Developer Professional Certificate.](https://www.reddit.com/r/androiddev/comments/1buby2g/i_want_to_ask_about_the_meta_android_developer/)
-- [Is there any way to use another language in Android Studio Hedgehog?](https://www.reddit.com/r/androiddev/comments/1bubalk/is_there_any_way_to_use_another_language_in/)
-- [Alright -- what are we building in?](https://www.reddit.com/r/androiddev/comments/1buayh5/alright_what_are_we_building_in/)
-- [AppSprint](https://www.reddit.com/r/androiddev/comments/1buau59/appsprint/)
 - [Android Studio Koala | 2024.1.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1btzezd/android_studio_koala_202411_canary_3_now_available/)
 - [10 Years of Hacker News &quot;Ask HN: Who is hiring&quot;: The decline of mobile visualized](https://www.reddit.com/r/androiddev/comments/1btyg6u/10_years_of_hacker_news_ask_hn_who_is_hiring_the/)
-- [&quot;Information needed regarding your app submission&quot; email after submitting an app to the Playstore](https://www.reddit.com/r/androiddev/comments/1btustu/information_needed_regarding_your_app_submission/)
-- [Warning - Google Play billing library bug causing bogus policy violation problems](https://www.reddit.com/r/androiddev/comments/1bt7glc/warning_google_play_billing_library_bug_causing/)
-- [Weekly Who&#39;s Hiring Thread - April 01, 2024](https://www.reddit.com/r/androiddev/comments/1bt344g/weekly_whos_hiring_thread_april_01_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
