@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tips on @Composable in classes — or avoid?](https://www.reddit.com/r/androiddev/comments/1bw0arp/tips_on_composable_in_classes_or_avoid/)
+- [Android Studio Jellyfish | 2023.3.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1bw0ad7/android_studio_jellyfish_202331_rc_1_now_available/)
+- [Playstore changed search result to include similar apps after renaming app with obscure keyword.](https://www.reddit.com/r/androiddev/comments/1bvhlae/playstore_changed_search_result_to_include/)
 - [Enable users to share your app&#39;s deep links using navigation-recents-url-sharing &lpar;with androidx.navigation&rpar;](https://www.reddit.com/r/androiddev/comments/1bv81mq/enable_users_to_share_your_apps_deep_links_using/)
 - [Experimental Support for Safe Args in Navigation Compose using approach based on Kotlin Serialization](https://www.reddit.com/r/androiddev/comments/1bv5pvr/experimental_support_for_safe_args_in_navigation/)
 - [Google Play PolicyBytes - April 2024 policy updates - YouTube](https://www.reddit.com/r/androiddev/comments/1buzcxj/google_play_policybytes_april_2024_policy_updates/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Video: Every Kind of Class in Kotlin](https://www.reddit.com/r/androiddev/comments/1buurm9/video_every_kind_of_class_in_kotlin/)
 - [Build finished sound on Ubuntu 20 and Android Studio Iguana](https://www.reddit.com/r/androiddev/comments/1bunxfd/build_finished_sound_on_ubuntu_20_and_android/)
 - [Suggestions needed on how to answer in an interview for my problem.](https://www.reddit.com/r/androiddev/comments/1buls0k/suggestions_needed_on_how_to_answer_in_an/)
-- [How do you deal with google play making api 33 a required target?](https://www.reddit.com/r/androiddev/comments/1buc3b9/how_do_you_deal_with_google_play_making_api_33_a/)
-- [Android Studio Koala | 2024.1.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1btzezd/android_studio_koala_202411_canary_3_now_available/)
-- [10 Years of Hacker News &quot;Ask HN: Who is hiring&quot;: The decline of mobile visualized](https://www.reddit.com/r/androiddev/comments/1btyg6u/10_years_of_hacker_news_ask_hn_who_is_hiring_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
