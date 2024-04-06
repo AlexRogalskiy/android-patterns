@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [what happened with app CASA reviews by PWC?](https://www.reddit.com/r/androiddev/comments/1bwsmnr/what_happened_with_app_casa_reviews_by_pwc/)
+- [Dumping thread state to outputs and pining for the fjords.](https://www.reddit.com/r/androiddev/comments/1bwrm8o/dumping_thread_state_to_outputs_and_pining_for/)
+- [TIL about the Power Save Mode in Androidstudio](https://www.reddit.com/r/androiddev/comments/1bwpxnd/til_about_the_power_save_mode_in_androidstudio/)
+- [Offline Password Manager Android App - Open Source &amp; Free ❤️](https://www.reddit.com/r/androiddev/comments/1bwkoxq/offline_password_manager_android_app_open_source/)
+- [The shared element transition APIs in the upcoming Compose version](https://www.reddit.com/r/androiddev/comments/1bwi5i7/the_shared_element_transition_apis_in_the/)
+- [How to Implement Biometric Authentication with Jetpack Compose and AES Encryption](https://www.reddit.com/r/androiddev/comments/1bwe53l/how_to_implement_biometric_authentication_with/)
+- [Has anyone run into the problem of not being able to preview Markdown with the latest update of AndroidStudio?](https://www.reddit.com/r/androiddev/comments/1bwc9b5/has_anyone_run_into_the_problem_of_not_being_able/)
+- [Walk-through of my another OpenSource project built with Jetpack Compose - More in Comments](https://www.reddit.com/r/androiddev/comments/1bwa5rq/walkthrough_of_my_another_opensource_project/)
 - [Tips on @Composable in classes — or avoid?](https://www.reddit.com/r/androiddev/comments/1bw0arp/tips_on_composable_in_classes_or_avoid/)
 - [Android Studio Jellyfish | 2023.3.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1bw0ad7/android_studio_jellyfish_202331_rc_1_now_available/)
-- [Playstore changed search result to include similar apps after renaming app with obscure keyword.](https://www.reddit.com/r/androiddev/comments/1bvhlae/playstore_changed_search_result_to_include/)
-- [Enable users to share your app&#39;s deep links using navigation-recents-url-sharing &lpar;with androidx.navigation&rpar;](https://www.reddit.com/r/androiddev/comments/1bv81mq/enable_users_to_share_your_apps_deep_links_using/)
-- [Experimental Support for Safe Args in Navigation Compose using approach based on Kotlin Serialization](https://www.reddit.com/r/androiddev/comments/1bv5pvr/experimental_support_for_safe_args_in_navigation/)
-- [Google Play PolicyBytes - April 2024 policy updates - YouTube](https://www.reddit.com/r/androiddev/comments/1buzcxj/google_play_policybytes_april_2024_policy_updates/)
-- [Confusion about google play testing tracks. &lpar;Open+Closed&rpar;](https://www.reddit.com/r/androiddev/comments/1buuwn5/confusion_about_google_play_testing_tracks/)
-- [Video: Every Kind of Class in Kotlin](https://www.reddit.com/r/androiddev/comments/1buurm9/video_every_kind_of_class_in_kotlin/)
-- [Build finished sound on Ubuntu 20 and Android Studio Iguana](https://www.reddit.com/r/androiddev/comments/1bunxfd/build_finished_sound_on_ubuntu_20_and_android/)
-- [Suggestions needed on how to answer in an interview for my problem.](https://www.reddit.com/r/androiddev/comments/1buls0k/suggestions_needed_on_how_to_answer_in_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
