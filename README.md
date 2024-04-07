@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Managing multiple compose libraries &lpar;and compatibility&rpar;](https://www.reddit.com/r/androiddev/comments/1bxm0ti/managing_multiple_compose_libraries_and/)
+- [tap-target-compose: a compose implementation of material design tap targets](https://www.reddit.com/r/androiddev/comments/1bxdh8g/taptargetcompose_a_compose_implementation_of/)
+- [Exploring Adapter Solutions for Managing Multiple View Types in RecyclerView](https://www.reddit.com/r/androiddev/comments/1bx1k9n/exploring_adapter_solutions_for_managing_multiple/)
 - [what happened with app CASA reviews by PWC?](https://www.reddit.com/r/androiddev/comments/1bwsmnr/what_happened_with_app_casa_reviews_by_pwc/)
 - [Dumping thread state to outputs and pining for the fjords.](https://www.reddit.com/r/androiddev/comments/1bwrm8o/dumping_thread_state_to_outputs_and_pining_for/)
 - [TIL about the Power Save Mode in Androidstudio](https://www.reddit.com/r/androiddev/comments/1bwpxnd/til_about_the_power_save_mode_in_androidstudio/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [The shared element transition APIs in the upcoming Compose version](https://www.reddit.com/r/androiddev/comments/1bwi5i7/the_shared_element_transition_apis_in_the/)
 - [How to Implement Biometric Authentication with Jetpack Compose and AES Encryption](https://www.reddit.com/r/androiddev/comments/1bwe53l/how_to_implement_biometric_authentication_with/)
 - [Has anyone run into the problem of not being able to preview Markdown with the latest update of AndroidStudio?](https://www.reddit.com/r/androiddev/comments/1bwc9b5/has_anyone_run_into_the_problem_of_not_being_able/)
-- [Walk-through of my another OpenSource project built with Jetpack Compose - More in Comments](https://www.reddit.com/r/androiddev/comments/1bwa5rq/walkthrough_of_my_another_opensource_project/)
-- [Tips on @Composable in classes — or avoid?](https://www.reddit.com/r/androiddev/comments/1bw0arp/tips_on_composable_in_classes_or_avoid/)
-- [Android Studio Jellyfish | 2023.3.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1bw0ad7/android_studio_jellyfish_202331_rc_1_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
