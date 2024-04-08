@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I chargebacked my Google Play Dev account onetime fee](https://www.reddit.com/r/androiddev/comments/1by093v/i_chargebacked_my_google_play_dev_account_onetime/)
+- [Should I Switch](https://www.reddit.com/r/androiddev/comments/1bxzxcj/should_i_switch/)
+- [Consideration before using a library for our Android App](https://www.reddit.com/r/androiddev/comments/1bxwx8d/consideration_before_using_a_library_for_our/)
 - [Managing multiple compose libraries &lpar;and compatibility&rpar;](https://www.reddit.com/r/androiddev/comments/1bxm0ti/managing_multiple_compose_libraries_and/)
 - [tap-target-compose: a compose implementation of material design tap targets](https://www.reddit.com/r/androiddev/comments/1bxdh8g/taptargetcompose_a_compose_implementation_of/)
 - [Exploring Adapter Solutions for Managing Multiple View Types in RecyclerView](https://www.reddit.com/r/androiddev/comments/1bx1k9n/exploring_adapter_solutions_for_managing_multiple/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Dumping thread state to outputs and pining for the fjords.](https://www.reddit.com/r/androiddev/comments/1bwrm8o/dumping_thread_state_to_outputs_and_pining_for/)
 - [TIL about the Power Save Mode in Androidstudio](https://www.reddit.com/r/androiddev/comments/1bwpxnd/til_about_the_power_save_mode_in_androidstudio/)
 - [Offline Password Manager Android App - Open Source &amp; Free ❤️](https://www.reddit.com/r/androiddev/comments/1bwkoxq/offline_password_manager_android_app_open_source/)
-- [The shared element transition APIs in the upcoming Compose version](https://www.reddit.com/r/androiddev/comments/1bwi5i7/the_shared_element_transition_apis_in_the/)
-- [How to Implement Biometric Authentication with Jetpack Compose and AES Encryption](https://www.reddit.com/r/androiddev/comments/1bwe53l/how_to_implement_biometric_authentication_with/)
-- [Has anyone run into the problem of not being able to preview Markdown with the latest update of AndroidStudio?](https://www.reddit.com/r/androiddev/comments/1bwc9b5/has_anyone_run_into_the_problem_of_not_being_able/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
