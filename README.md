@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Has Anyone Else Noticed Changes in Google&#39;s App Review Process Lately?](https://www.reddit.com/r/androiddev/comments/1bzdosw/has_anyone_else_noticed_changes_in_googles_app/)
+- [Android Studio uses Gemini Pro to make Android development faster and easier](https://www.reddit.com/r/androiddev/comments/1bzck1l/android_studio_uses_gemini_pro_to_make_android/)
+- [StuditBot is now Gemini in Android Studio](https://www.reddit.com/r/androiddev/comments/1bzbcdj/studitbot_is_now_gemini_in_android_studio/)
+- [Android Studio Koala | 2024.1.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1bz4ll7/android_studio_koala_202411_canary_4_now_available/)
+- [Android Studio Jellyfish | 2023.3.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1bz4lkm/android_studio_jellyfish_202331_rc_2_now_available/)
+- [Weekly discussion, code review, and feedback thread - April 08, 2024](https://www.reddit.com/r/androiddev/comments/1byw2bn/weekly_discussion_code_review_and_feedback_thread/)
+- [Evaluating Mavericks State Management Lib for Android](https://www.reddit.com/r/androiddev/comments/1byr83o/evaluating_mavericks_state_management_lib_for/)
 - [I chargebacked my Google Play Dev account onetime fee](https://www.reddit.com/r/androiddev/comments/1by093v/i_chargebacked_my_google_play_dev_account_onetime/)
 - [Should I Switch](https://www.reddit.com/r/androiddev/comments/1bxzxcj/should_i_switch/)
 - [Consideration before using a library for our Android App](https://www.reddit.com/r/androiddev/comments/1bxwx8d/consideration_before_using_a_library_for_our/)
-- [Managing multiple compose libraries &lpar;and compatibility&rpar;](https://www.reddit.com/r/androiddev/comments/1bxm0ti/managing_multiple_compose_libraries_and/)
-- [tap-target-compose: a compose implementation of material design tap targets](https://www.reddit.com/r/androiddev/comments/1bxdh8g/taptargetcompose_a_compose_implementation_of/)
-- [Exploring Adapter Solutions for Managing Multiple View Types in RecyclerView](https://www.reddit.com/r/androiddev/comments/1bx1k9n/exploring_adapter_solutions_for_managing_multiple/)
-- [what happened with app CASA reviews by PWC?](https://www.reddit.com/r/androiddev/comments/1bwsmnr/what_happened_with_app_casa_reviews_by_pwc/)
-- [Dumping thread state to outputs and pining for the fjords.](https://www.reddit.com/r/androiddev/comments/1bwrm8o/dumping_thread_state_to_outputs_and_pining_for/)
-- [TIL about the Power Save Mode in Androidstudio](https://www.reddit.com/r/androiddev/comments/1bwpxnd/til_about_the_power_save_mode_in_androidstudio/)
-- [Offline Password Manager Android App - Open Source &amp; Free ❤️](https://www.reddit.com/r/androiddev/comments/1bwkoxq/offline_password_manager_android_app_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
