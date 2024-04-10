@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Iguana | 2023.2.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1c04jws/android_studio_iguana_202321_patch_2_now_available/)
+- [What&#39;s new in Kotlin 2.0.0-RC1](https://www.reddit.com/r/androiddev/comments/1c036ll/whats_new_in_kotlin_200rc1/)
+- [Can we publish from private repository?](https://www.reddit.com/r/androiddev/comments/1bzpnib/can_we_publish_from_private_repository/)
+- [Industry standards for more rigorous testing?](https://www.reddit.com/r/androiddev/comments/1bzm9dh/industry_standards_for_more_rigorous_testing/)
 - [Has Anyone Else Noticed Changes in Google&#39;s App Review Process Lately?](https://www.reddit.com/r/androiddev/comments/1bzdosw/has_anyone_else_noticed_changes_in_googles_app/)
 - [Android Studio uses Gemini Pro to make Android development faster and easier](https://www.reddit.com/r/androiddev/comments/1bzck1l/android_studio_uses_gemini_pro_to_make_android/)
 - [StuditBot is now Gemini in Android Studio](https://www.reddit.com/r/androiddev/comments/1bzbcdj/studitbot_is_now_gemini_in_android_studio/)
 - [Android Studio Koala | 2024.1.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1bz4ll7/android_studio_koala_202411_canary_4_now_available/)
 - [Android Studio Jellyfish | 2023.3.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1bz4lkm/android_studio_jellyfish_202331_rc_2_now_available/)
 - [Weekly discussion, code review, and feedback thread - April 08, 2024](https://www.reddit.com/r/androiddev/comments/1byw2bn/weekly_discussion_code_review_and_feedback_thread/)
-- [Evaluating Mavericks State Management Lib for Android](https://www.reddit.com/r/androiddev/comments/1byr83o/evaluating_mavericks_state_management_lib_for/)
-- [I chargebacked my Google Play Dev account onetime fee](https://www.reddit.com/r/androiddev/comments/1by093v/i_chargebacked_my_google_play_dev_account_onetime/)
-- [Should I Switch](https://www.reddit.com/r/androiddev/comments/1bxzxcj/should_i_switch/)
-- [Consideration before using a library for our Android App](https://www.reddit.com/r/androiddev/comments/1bxwx8d/consideration_before_using_a_library_for_our/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
