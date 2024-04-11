@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google Play publisher account terminated wrongfully and going around in circles with Google](https://www.reddit.com/r/androiddev/comments/1c0woaq/google_play_publisher_account_terminated/)
+- [Will Google charge/allow for any prepaid apps?](https://www.reddit.com/r/androiddev/comments/1c0vttn/will_google_chargeallow_for_any_prepaid_apps/)
+- [Implications of &quot;good standing&quot;](https://www.reddit.com/r/androiddev/comments/1c0l6j8/implications_of_good_standing/)
+- [Modern video codec guidelines for Android](https://www.reddit.com/r/androiddev/comments/1c0hu44/modern_video_codec_guidelines_for_android/)
+- [How to fix the dreaded &#39;package appears to be invalid&#39; error when installing APKs](https://www.reddit.com/r/androiddev/comments/1c0hnyc/how_to_fix_the_dreaded_package_appears_to_be/)
+- [Is connecting to a MySQL Datebase via a REST API faster or slower than connecting directly to the DB?](https://www.reddit.com/r/androiddev/comments/1c0dri5/is_connecting_to_a_mysql_datebase_via_a_rest_api/)
 - [Android Studio Iguana | 2023.2.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1c04jws/android_studio_iguana_202321_patch_2_now_available/)
 - [What&#39;s new in Kotlin 2.0.0-RC1](https://www.reddit.com/r/androiddev/comments/1c036ll/whats_new_in_kotlin_200rc1/)
 - [Can we publish from private repository?](https://www.reddit.com/r/androiddev/comments/1bzpnib/can_we_publish_from_private_repository/)
 - [Industry standards for more rigorous testing?](https://www.reddit.com/r/androiddev/comments/1bzm9dh/industry_standards_for_more_rigorous_testing/)
-- [Has Anyone Else Noticed Changes in Google&#39;s App Review Process Lately?](https://www.reddit.com/r/androiddev/comments/1bzdosw/has_anyone_else_noticed_changes_in_googles_app/)
-- [Android Studio uses Gemini Pro to make Android development faster and easier](https://www.reddit.com/r/androiddev/comments/1bzck1l/android_studio_uses_gemini_pro_to_make_android/)
-- [StuditBot is now Gemini in Android Studio](https://www.reddit.com/r/androiddev/comments/1bzbcdj/studitbot_is_now_gemini_in_android_studio/)
-- [Android Studio Koala | 2024.1.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1bz4ll7/android_studio_koala_202411_canary_4_now_available/)
-- [Android Studio Jellyfish | 2023.3.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1bz4lkm/android_studio_jellyfish_202331_rc_2_now_available/)
-- [Weekly discussion, code review, and feedback thread - April 08, 2024](https://www.reddit.com/r/androiddev/comments/1byw2bn/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
