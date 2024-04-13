@@ -271,8 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jetpack Compose to Compose Multiplatform: Transition Guide](https://www.reddit.com/r/androiddev/comments/1c2b5uh/jetpack_compose_to_compose_multiplatform/)
+- [V4 of my open source guitar effects pedal app: now records video too! Oboe &lpar;NDK&rpar; audio with Camera2 &lpar;Java&rpar; and MediaMuxer](https://www.reddit.com/r/androiddev/comments/1c243b4/v4_of_my_open_source_guitar_effects_pedal_app_now/)
 - [Apps targeting Android 15 will be forced into edge-to-edge mode](https://www.reddit.com/r/androiddev/comments/1c1rs1t/apps_targeting_android_15_will_be_forced_into/)
-- [Help in xml](https://www.reddit.com/r/androiddev/comments/1c1qrsh/help_in_xml/)
 - [Android Studio Koala | 2024.1.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1c1lkyy/android_studio_koala_202411_canary_5_now_available/)
 - [Will Google charge/allow for any prepaid apps?](https://www.reddit.com/r/androiddev/comments/1c0vttn/will_google_chargeallow_for_any_prepaid_apps/)
 - [Implications of &quot;good standing&quot;](https://www.reddit.com/r/androiddev/comments/1c0l6j8/implications_of_good_standing/)
@@ -280,7 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [How to fix the dreaded &#39;package appears to be invalid&#39; error when installing APKs](https://www.reddit.com/r/androiddev/comments/1c0hnyc/how_to_fix_the_dreaded_package_appears_to_be/)
 - [Is connecting to a MySQL Datebase via a REST API faster or slower than connecting directly to the DB?](https://www.reddit.com/r/androiddev/comments/1c0dri5/is_connecting_to_a_mysql_datebase_via_a_rest_api/)
 - [Android Studio Iguana | 2023.2.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1c04jws/android_studio_iguana_202321_patch_2_now_available/)
-- [What&#39;s new in Kotlin 2.0.0-RC1](https://www.reddit.com/r/androiddev/comments/1c036ll/whats_new_in_kotlin_200rc1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
