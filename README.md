@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need help with learning Android](https://www.reddit.com/r/androiddev/comments/1c3gah1/need_help_with_learning_android/)
-- [SharedPreferences Debugging Made Easy: My Solution](https://www.reddit.com/r/androiddev/comments/1c3clb9/sharedpreferences_debugging_made_easy_my_solution/)
-- [🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack &lpar;Room, ViewModel&rpar;, and Material Design based on MVVM architecture.](https://www.reddit.com/r/androiddev/comments/1c33nxi/pokedex_compose_demonstrates_modern_android/)
-- [Is directly using threads still needed and to be learned in industry or is it replaced completely by coroutines ?](https://www.reddit.com/r/androiddev/comments/1c2xtoc/is_directly_using_threads_still_needed_and_to_be/)
-- [Jetpack Compose to Compose Multiplatform: Transition Guide](https://www.reddit.com/r/androiddev/comments/1c2b5uh/jetpack_compose_to_compose_multiplatform/)
-- [V4 of my open source guitar effects pedal app: now records video too! Oboe &lpar;NDK&rpar; audio with Camera2 &lpar;Java&rpar; and MediaMuxer](https://www.reddit.com/r/androiddev/comments/1c243b4/v4_of_my_open_source_guitar_effects_pedal_app_now/)
-- [Apps targeting Android 15 will be forced into edge-to-edge mode](https://www.reddit.com/r/androiddev/comments/1c1rs1t/apps_targeting_android_15_will_be_forced_into/)
-- [Android Studio Koala | 2024.1.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1c1lkyy/android_studio_koala_202411_canary_5_now_available/)
-- [Will Google charge/allow for any prepaid apps?](https://www.reddit.com/r/androiddev/comments/1c0vttn/will_google_chargeallow_for_any_prepaid_apps/)
-- [Implications of &quot;good standing&quot;](https://www.reddit.com/r/androiddev/comments/1c0l6j8/implications_of_good_standing/)
+- [Getting 400 with retrofit but working fine with postman on post request.](https://www.reddit.com/r/androiddev/comments/1c4bq1f/getting_400_with_retrofit_but_working_fine_with/)
+- [Missing “Invite New Users” Button in Google Play Console](https://www.reddit.com/r/androiddev/comments/1c4819r/missing_invite_new_users_button_in_google_play/)
+- [The project to migrate AOSP to Bazel is cancelled](https://www.reddit.com/r/androiddev/comments/1c47vas/the_project_to_migrate_aosp_to_bazel_is_cancelled/)
+- [A tool that analyzes your method trace file and generates the analysis in a spreadsheet 🙌](https://www.reddit.com/r/androiddev/comments/1c45tr1/a_tool_that_analyzes_your_method_trace_file_and/)
+- [Weird Text Field Behavior with Retrofit API Request](https://www.reddit.com/r/androiddev/comments/1c43eve/weird_text_field_behavior_with_retrofit_api/)
+- [In case you missed it, retrofit started getting new updates.](https://www.reddit.com/r/androiddev/comments/1c40z14/in_case_you_missed_it_retrofit_started_getting/)
+- [Keeping state when switching fragments](https://www.reddit.com/r/androiddev/comments/1c3ue63/keeping_state_when_switching_fragments/)
+- [Is There a Good Way to Start a Project Using a Template?](https://www.reddit.com/r/androiddev/comments/1c3txyz/is_there_a_good_way_to_start_a_project_using_a/)
+- [Kmp deeplink library](https://www.reddit.com/r/androiddev/comments/1c3tg08/kmp_deeplink_library/)
+- [Kotlin or Flutter](https://www.reddit.com/r/androiddev/comments/1c3sq4o/kotlin_or_flutter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
