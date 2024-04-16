@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Getting 400 with retrofit but working fine with postman on post request.](https://www.reddit.com/r/androiddev/comments/1c4bq1f/getting_400_with_retrofit_but_working_fine_with/)
-- [Missing “Invite New Users” Button in Google Play Console](https://www.reddit.com/r/androiddev/comments/1c4819r/missing_invite_new_users_button_in_google_play/)
-- [The project to migrate AOSP to Bazel is cancelled](https://www.reddit.com/r/androiddev/comments/1c47vas/the_project_to_migrate_aosp_to_bazel_is_cancelled/)
-- [A tool that analyzes your method trace file and generates the analysis in a spreadsheet 🙌](https://www.reddit.com/r/androiddev/comments/1c45tr1/a_tool_that_analyzes_your_method_trace_file_and/)
-- [Weird Text Field Behavior with Retrofit API Request](https://www.reddit.com/r/androiddev/comments/1c43eve/weird_text_field_behavior_with_retrofit_api/)
-- [In case you missed it, retrofit started getting new updates.](https://www.reddit.com/r/androiddev/comments/1c40z14/in_case_you_missed_it_retrofit_started_getting/)
-- [Keeping state when switching fragments](https://www.reddit.com/r/androiddev/comments/1c3ue63/keeping_state_when_switching_fragments/)
-- [Is There a Good Way to Start a Project Using a Template?](https://www.reddit.com/r/androiddev/comments/1c3txyz/is_there_a_good_way_to_start_a_project_using_a/)
-- [Kmp deeplink library](https://www.reddit.com/r/androiddev/comments/1c3tg08/kmp_deeplink_library/)
-- [Kotlin or Flutter](https://www.reddit.com/r/androiddev/comments/1c3sq4o/kotlin_or_flutter/)
+- [Account deletation requirements](https://www.reddit.com/r/androiddev/comments/1c51nuc/account_deletation_requirements/)
+- [Understanding mobile app developer behaviors - 1 minute survey](https://www.reddit.com/r/androiddev/comments/1c4z6m6/understanding_mobile_app_developer_behaviors_1/)
+- [Android test coverage reports](https://www.reddit.com/r/androiddev/comments/1c4z4tk/android_test_coverage_reports/)
+- [Kotlin multiplatform unit tests](https://www.reddit.com/r/androiddev/comments/1c4z284/kotlin_multiplatform_unit_tests/)
+- [Annoyed by Android Studio automatically switching from Project view to Android view?](https://www.reddit.com/r/androiddev/comments/1c4y34k/annoyed_by_android_studio_automatically_switching/)
+- [Custom slider implementation using anchroedDraggable in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1c4uhj4/custom_slider_implementation_using/)
+- [Downgrading Gradle from Canary Release &lpar;8.6&rpar; to Stable &lpar;8.3-4&rpar;](https://www.reddit.com/r/androiddev/comments/1c4rpmi/downgrading_gradle_from_canary_release_86_to/)
+- [Really state model inside viewModel make sense?](https://www.reddit.com/r/androiddev/comments/1c4qgib/really_state_model_inside_viewmodel_make_sense/)
+- [Beginner Android Course in 2024 with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1c4p826/beginner_android_course_in_2024_with_jetpack/)
+- [Weekly discussion, code review, and feedback thread - April 15, 2024](https://www.reddit.com/r/androiddev/comments/1c4keks/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
