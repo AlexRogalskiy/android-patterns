@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [As a side project, I&#39;m currently building a service that creates websites to promote mobile apps.](https://www.reddit.com/r/androiddev/comments/1c5vkxn/as_a_side_project_im_currently_building_a_service/)
+- [I see your enterprise-grade Jetpack Compose 11MB pokedex app, and I raise you Poke.dex, my bare-minimum 600KB pokedex app](https://www.reddit.com/r/androiddev/comments/1c5vjhi/i_see_your_enterprisegrade_jetpack_compose_11mb/)
+- [What use cases have you found for Gemini Nano?](https://www.reddit.com/r/androiddev/comments/1c5iebi/what_use_cases_have_you_found_for_gemini_nano/)
+- [Identity Verification in Google Play Console for Non-English Speaking Countries](https://www.reddit.com/r/androiddev/comments/1c5a8lv/identity_verification_in_google_play_console_for/)
+- [Is Native development dying?](https://www.reddit.com/r/androiddev/comments/1c558hj/is_native_development_dying/)
 - [Account deletation requirements](https://www.reddit.com/r/androiddev/comments/1c51nuc/account_deletation_requirements/)
 - [Understanding mobile app developer behaviors - 1 minute survey](https://www.reddit.com/r/androiddev/comments/1c4z6m6/understanding_mobile_app_developer_behaviors_1/)
 - [Android test coverage reports](https://www.reddit.com/r/androiddev/comments/1c4z4tk/android_test_coverage_reports/)
 - [Kotlin multiplatform unit tests](https://www.reddit.com/r/androiddev/comments/1c4z284/kotlin_multiplatform_unit_tests/)
 - [Annoyed by Android Studio automatically switching from Project view to Android view?](https://www.reddit.com/r/androiddev/comments/1c4y34k/annoyed_by_android_studio_automatically_switching/)
-- [Custom slider implementation using anchroedDraggable in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1c4uhj4/custom_slider_implementation_using/)
-- [Downgrading Gradle from Canary Release &lpar;8.6&rpar; to Stable &lpar;8.3-4&rpar;](https://www.reddit.com/r/androiddev/comments/1c4rpmi/downgrading_gradle_from_canary_release_86_to/)
-- [Really state model inside viewModel make sense?](https://www.reddit.com/r/androiddev/comments/1c4qgib/really_state_model_inside_viewmodel_make_sense/)
-- [Beginner Android Course in 2024 with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1c4p826/beginner_android_course_in_2024_with_jetpack/)
-- [Weekly discussion, code review, and feedback thread - April 15, 2024](https://www.reddit.com/r/androiddev/comments/1c4keks/weekly_discussion_code_review_and_feedback_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
