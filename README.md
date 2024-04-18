@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I just noticed this on upgrading to Iguana](https://www.reddit.com/r/androiddev/comments/1c6d6uo/i_just_noticed_this_on_upgrading_to_iguana/)
+- [Video: Inline, Crossinline, Noinline](https://www.reddit.com/r/androiddev/comments/1c6c14m/video_inline_crossinline_noinline/)
+- [What kind of data is better stored in Preferences Datastore and what kind is better stored in Room](https://www.reddit.com/r/androiddev/comments/1c6bbq7/what_kind_of_data_is_better_stored_in_preferences/)
+- [Playstore screenshots quality](https://www.reddit.com/r/androiddev/comments/1c6arzw/playstore_screenshots_quality/)
+- [Modularising an on-going project](https://www.reddit.com/r/androiddev/comments/1c65hxz/modularising_an_ongoing_project/)
+- [Application performance with client-server calls](https://www.reddit.com/r/androiddev/comments/1c64p5r/application_performance_with_clientserver_calls/)
+- [Thoughts on ads free SDKs](https://www.reddit.com/r/androiddev/comments/1c63zfd/thoughts_on_ads_free_sdks/)
+- [Shell commands from inside app?](https://www.reddit.com/r/androiddev/comments/1c634gc/shell_commands_from_inside_app/)
+- [Is it worth it to convert a legacy java codebase to kotlin?](https://www.reddit.com/r/androiddev/comments/1c623au/is_it_worth_it_to_convert_a_legacy_java_codebase/)
 - [As a side project, I&#39;m currently building a service that creates websites to promote mobile apps.](https://www.reddit.com/r/androiddev/comments/1c5vkxn/as_a_side_project_im_currently_building_a_service/)
-- [I see your enterprise-grade Jetpack Compose 11MB pokedex app, and I raise you Poke.dex, my bare-minimum 600KB pokedex app](https://www.reddit.com/r/androiddev/comments/1c5vjhi/i_see_your_enterprisegrade_jetpack_compose_11mb/)
-- [What use cases have you found for Gemini Nano?](https://www.reddit.com/r/androiddev/comments/1c5iebi/what_use_cases_have_you_found_for_gemini_nano/)
-- [Identity Verification in Google Play Console for Non-English Speaking Countries](https://www.reddit.com/r/androiddev/comments/1c5a8lv/identity_verification_in_google_play_console_for/)
-- [Is Native development dying?](https://www.reddit.com/r/androiddev/comments/1c558hj/is_native_development_dying/)
-- [Account deletation requirements](https://www.reddit.com/r/androiddev/comments/1c51nuc/account_deletation_requirements/)
-- [Understanding mobile app developer behaviors - 1 minute survey](https://www.reddit.com/r/androiddev/comments/1c4z6m6/understanding_mobile_app_developer_behaviors_1/)
-- [Android test coverage reports](https://www.reddit.com/r/androiddev/comments/1c4z4tk/android_test_coverage_reports/)
-- [Kotlin multiplatform unit tests](https://www.reddit.com/r/androiddev/comments/1c4z284/kotlin_multiplatform_unit_tests/)
-- [Annoyed by Android Studio automatically switching from Project view to Android view?](https://www.reddit.com/r/androiddev/comments/1c4y34k/annoyed_by_android_studio_automatically_switching/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
