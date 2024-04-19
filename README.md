@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AVD keeps terminating whenever I use hardware as the graphics option](https://www.reddit.com/r/androiddev/comments/1c7ivl7/avd_keeps_terminating_whenever_i_use_hardware_as/)
+- [Android Studio Koala | 2024.1.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1c7fxej/android_studio_koala_202411_canary_6_now_available/)
+- [What will happen if one of my testers related to a banned developer account?](https://www.reddit.com/r/androiddev/comments/1c73pta/what_will_happen_if_one_of_my_testers_related_to/)
+- [SMS Call/Log permission reject for device automation app](https://www.reddit.com/r/androiddev/comments/1c6wyqb/sms_calllog_permission_reject_for_device/)
+- [Modularising an on-going project](https://www.reddit.com/r/androiddev/comments/1c6wble/modularising_an_ongoing_project/)
+- [Does having removed app cause of deprecated API gives my account negative credits?](https://www.reddit.com/r/androiddev/comments/1c6vthd/does_having_removed_app_cause_of_deprecated_api/)
+- [Seeking Efficient Multi-Platform Synchronization Solutions for Existing Room + SQLite Setup](https://www.reddit.com/r/androiddev/comments/1c6u5ds/seeking_efficient_multiplatform_synchronization/)
+- [Something like the classic windows media player visualisation for android](https://www.reddit.com/r/androiddev/comments/1c6surk/something_like_the_classic_windows_media_player/)
 - [I just noticed this on upgrading to Iguana](https://www.reddit.com/r/androiddev/comments/1c6d6uo/i_just_noticed_this_on_upgrading_to_iguana/)
 - [Video: Inline, Crossinline, Noinline](https://www.reddit.com/r/androiddev/comments/1c6c14m/video_inline_crossinline_noinline/)
-- [What kind of data is better stored in Preferences Datastore and what kind is better stored in Room](https://www.reddit.com/r/androiddev/comments/1c6bbq7/what_kind_of_data_is_better_stored_in_preferences/)
-- [Playstore screenshots quality](https://www.reddit.com/r/androiddev/comments/1c6arzw/playstore_screenshots_quality/)
-- [Modularising an on-going project](https://www.reddit.com/r/androiddev/comments/1c65hxz/modularising_an_ongoing_project/)
-- [Application performance with client-server calls](https://www.reddit.com/r/androiddev/comments/1c64p5r/application_performance_with_clientserver_calls/)
-- [Thoughts on ads free SDKs](https://www.reddit.com/r/androiddev/comments/1c63zfd/thoughts_on_ads_free_sdks/)
-- [Shell commands from inside app?](https://www.reddit.com/r/androiddev/comments/1c634gc/shell_commands_from_inside_app/)
-- [Is it worth it to convert a legacy java codebase to kotlin?](https://www.reddit.com/r/androiddev/comments/1c623au/is_it_worth_it_to_convert_a_legacy_java_codebase/)
-- [As a side project, I&#39;m currently building a service that creates websites to promote mobile apps.](https://www.reddit.com/r/androiddev/comments/1c5vkxn/as_a_side_project_im_currently_building_a_service/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
