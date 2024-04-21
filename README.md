@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I got banned after a week with no explanation. Does anyone know a phone number they actually pick up on? I want to talk to a person at Google.](https://www.reddit.com/r/androiddev/comments/1c8ab6f/i_got_banned_after_a_week_with_no_explanation/)
+- [Is writing code in a repository and then writing the same code in a viewmodel the most blatant example of boilerplate code?](https://www.reddit.com/r/androiddev/comments/1c92ykk/is_writing_code_in_a_repository_and_then_writing/)
+- [Android Navigation: Up vs Back](https://www.reddit.com/r/androiddev/comments/1c90gft/android_navigation_up_vs_back/)
+- [Slow gradle build on Surface Pro 9](https://www.reddit.com/r/androiddev/comments/1c8saol/slow_gradle_build_on_surface_pro_9/)
+- [Annotated PDFs still doesn&#39;t work in Android 15?](https://www.reddit.com/r/androiddev/comments/1c8rp0r/annotated_pdfs_still_doesnt_work_in_android_15/)
+- [Questions of Jetpack Paging 3](https://www.reddit.com/r/androiddev/comments/1c8qj7l/questions_of_jetpack_paging_3/)
+- [New Secured Background activity Launches?](https://www.reddit.com/r/androiddev/comments/1c8qfjh/new_secured_background_activity_launches/)
+- [Google Maps poor performance in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1c8jo9k/google_maps_poor_performance_in_jetpack_compose/)
+- [How do I pass the value and onValueChange parameters of a Textfield as parameters in the constructor of a Composable?](https://www.reddit.com/r/androiddev/comments/1c8gbjc/how_do_i_pass_the_value_and_onvaluechange/)
 - [How big of a disadvantage is using windows Instead of MacOS](https://www.reddit.com/r/androiddev/comments/1c81s6h/how_big_of_a_disadvantage_is_using_windows/)
 - [Does Realm&#39;s frozen architecture let you view live data from the background thread?](https://www.reddit.com/r/androiddev/comments/1c80ul6/does_realms_frozen_architecture_let_you_view_live/)
-- [Guide to app architecture - What is the domain layer?](https://www.reddit.com/r/androiddev/comments/1c804jm/guide_to_app_architecture_what_is_the_domain_layer/)
-- [SQLite &amp; Room Synchronization Library](https://www.reddit.com/r/androiddev/comments/1c7y8x4/sqlite_room_synchronization_library/)
-- [AVD keeps terminating whenever I use hardware as the graphics option](https://www.reddit.com/r/androiddev/comments/1c7ivl7/avd_keeps_terminating_whenever_i_use_hardware_as/)
-- [Android Studio Koala | 2024.1.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1c7fxej/android_studio_koala_202411_canary_6_now_available/)
-- [What will happen if one of my testers related to a banned developer account?](https://www.reddit.com/r/androiddev/comments/1c73pta/what_will_happen_if_one_of_my_testers_related_to/)
-- [SMS Call/Log permission reject for device automation app](https://www.reddit.com/r/androiddev/comments/1c6wyqb/sms_calllog_permission_reject_for_device/)
-- [Modularising an on-going project](https://www.reddit.com/r/androiddev/comments/1c6wble/modularising_an_ongoing_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
