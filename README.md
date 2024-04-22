@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can I Learn android programming with LOW END PC ?](https://www.reddit.com/r/androiddev/comments/1c9vu2g/can_i_learn_android_programming_with_low_end_pc/)
+- [Getting wifi info from network?](https://www.reddit.com/r/androiddev/comments/1c9luag/getting_wifi_info_from_network/)
+- [Synchronizing a countdown timer in multiplayer game between clients?](https://www.reddit.com/r/androiddev/comments/1c9c9gv/synchronizing_a_countdown_timer_in_multiplayer/)
+- [A note regarding progress and innovation in SWE](https://www.reddit.com/r/androiddev/comments/1c9bz02/a_note_regarding_progress_and_innovation_in_swe/)
 - [Is writing code in a repository and then writing the same code in a viewmodel the most blatant example of boilerplate code?](https://www.reddit.com/r/androiddev/comments/1c92ykk/is_writing_code_in_a_repository_and_then_writing/)
 - [Android Navigation: Up vs Back](https://www.reddit.com/r/androiddev/comments/1c90gft/android_navigation_up_vs_back/)
 - [Slow gradle build on Surface Pro 9](https://www.reddit.com/r/androiddev/comments/1c8saol/slow_gradle_build_on_surface_pro_9/)
 - [Annotated PDFs still doesn&#39;t work in Android 15?](https://www.reddit.com/r/androiddev/comments/1c8rp0r/annotated_pdfs_still_doesnt_work_in_android_15/)
 - [Questions of Jetpack Paging 3](https://www.reddit.com/r/androiddev/comments/1c8qj7l/questions_of_jetpack_paging_3/)
 - [New Secured Background activity Launches?](https://www.reddit.com/r/androiddev/comments/1c8qfjh/new_secured_background_activity_launches/)
-- [Google Maps poor performance in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1c8jo9k/google_maps_poor_performance_in_jetpack_compose/)
-- [How do I pass the value and onValueChange parameters of a Textfield as parameters in the constructor of a Composable?](https://www.reddit.com/r/androiddev/comments/1c8gbjc/how_do_i_pass_the_value_and_onvaluechange/)
-- [How big of a disadvantage is using windows Instead of MacOS](https://www.reddit.com/r/androiddev/comments/1c81s6h/how_big_of_a_disadvantage_is_using_windows/)
-- [Does Realm&#39;s frozen architecture let you view live data from the background thread?](https://www.reddit.com/r/androiddev/comments/1c80ul6/does_realms_frozen_architecture_let_you_view_live/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
