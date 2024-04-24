@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the name of this theme?](https://www.reddit.com/r/androiddev/comments/1cbdhqh/whats_the_name_of_this_theme/)
+- [Articles - How to detect Process Death Issues](https://www.reddit.com/r/androiddev/comments/1caz083/articles_how_to_detect_process_death_issues/)
+- [Anyway to reduce app size.](https://www.reddit.com/r/androiddev/comments/1caxbf6/anyway_to_reduce_app_size/)
+- [Book Recommendations](https://www.reddit.com/r/androiddev/comments/1catnl8/book_recommendations/)
 - [Weekly discussion, code review, and feedback thread - April 22, 2024](https://www.reddit.com/r/androiddev/comments/1ca8v9x/weekly_discussion_code_review_and_feedback_thread/)
 - [How often are app releases at your current organisation?](https://www.reddit.com/r/androiddev/comments/1ca8rok/how_often_are_app_releases_at_your_current/)
 - [AOSP 13/14 have the same RAM requirements of their full Google Android counterparts?](https://www.reddit.com/r/androiddev/comments/1ca6o7k/aosp_1314_have_the_same_ram_requirements_of_their/)
 - [What are some good data visualization solutions and why? &lpar;Jetpack compose for ui&rpar;](https://www.reddit.com/r/androiddev/comments/1ca2g26/what_are_some_good_data_visualization_solutions/)
 - [Can I Learn android programming with LOW END PC ?](https://www.reddit.com/r/androiddev/comments/1c9vu2g/can_i_learn_android_programming_with_low_end_pc/)
 - [Need help with protobuf generation](https://www.reddit.com/r/androiddev/comments/1c9pxh2/need_help_with_protobuf_generation/)
-- [Getting wifi info from network?](https://www.reddit.com/r/androiddev/comments/1c9luag/getting_wifi_info_from_network/)
-- [Synchronizing a countdown timer in multiplayer game between clients?](https://www.reddit.com/r/androiddev/comments/1c9c9gv/synchronizing_a_countdown_timer_in_multiplayer/)
-- [A note regarding progress and innovation in SWE](https://www.reddit.com/r/androiddev/comments/1c9bz02/a_note_regarding_progress_and_innovation_in_swe/)
-- [Is writing code in a repository and then writing the same code in a viewmodel the most blatant example of boilerplate code?](https://www.reddit.com/r/androiddev/comments/1c92ykk/is_writing_code_in_a_repository_and_then_writing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
