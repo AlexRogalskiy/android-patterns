@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android iguana gradle issue](https://www.reddit.com/r/androiddev/comments/1cc97ki/android_iguana_gradle_issue/)
+- [The Road Less Starred: Lessons Learned from My Markdown Twain Library](https://www.reddit.com/r/androiddev/comments/1cc4qjd/the_road_less_starred_lessons_learned_from_my/)
+- [Kotlin Illustrated Ch 19 - Generic Variance](https://www.reddit.com/r/androiddev/comments/1cc04ag/kotlin_illustrated_ch_19_generic_variance/)
+- [How can I add blur to Composables for Android versions &lt;12?](https://www.reddit.com/r/androiddev/comments/1cbw4j2/how_can_i_add_blur_to_composables_for_android/)
+- [How does the order in which you place modifiers affect a composable?](https://www.reddit.com/r/androiddev/comments/1cbtys2/how_does_the_order_in_which_you_place_modifiers/)
 - [What&#39;s the name of this theme?](https://www.reddit.com/r/androiddev/comments/1cbdhqh/whats_the_name_of_this_theme/)
 - [Articles - How to detect Process Death Issues](https://www.reddit.com/r/androiddev/comments/1caz083/articles_how_to_detect_process_death_issues/)
 - [Anyway to reduce app size.](https://www.reddit.com/r/androiddev/comments/1caxbf6/anyway_to_reduce_app_size/)
 - [Book Recommendations](https://www.reddit.com/r/androiddev/comments/1catnl8/book_recommendations/)
 - [Weekly discussion, code review, and feedback thread - April 22, 2024](https://www.reddit.com/r/androiddev/comments/1ca8v9x/weekly_discussion_code_review_and_feedback_thread/)
-- [How often are app releases at your current organisation?](https://www.reddit.com/r/androiddev/comments/1ca8rok/how_often_are_app_releases_at_your_current/)
-- [AOSP 13/14 have the same RAM requirements of their full Google Android counterparts?](https://www.reddit.com/r/androiddev/comments/1ca6o7k/aosp_1314_have_the_same_ram_requirements_of_their/)
-- [What are some good data visualization solutions and why? &lpar;Jetpack compose for ui&rpar;](https://www.reddit.com/r/androiddev/comments/1ca2g26/what_are_some_good_data_visualization_solutions/)
-- [Can I Learn android programming with LOW END PC ?](https://www.reddit.com/r/androiddev/comments/1c9vu2g/can_i_learn_android_programming_with_low_end_pc/)
-- [Need help with protobuf generation](https://www.reddit.com/r/androiddev/comments/1c9pxh2/need_help_with_protobuf_generation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
