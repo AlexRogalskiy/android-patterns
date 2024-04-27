@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Detect remote access](https://www.reddit.com/r/androiddev/comments/1cd47hk/detect_remote_access/)
-- [Animating the Netflix Logo in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1cd1s29/animating_the_netflix_logo_in_jetpack_compose/)
-- [Can you pass CASA Tier 2 by acknowledging Low Severity vulnerabilities without remediation?](https://www.reddit.com/r/androiddev/comments/1cd0yxn/can_you_pass_casa_tier_2_by_acknowledging_low/)
-- [K2 Compiler Performance Benchmarks and How to Measure Them on Your Projects](https://www.reddit.com/r/androiddev/comments/1ccy1xx/k2_compiler_performance_benchmarks_and_how_to/)
-- [Do you usually give the user both options &lpar;perform work with a service or serviceless&rpar;?](https://www.reddit.com/r/androiddev/comments/1ccllfs/do_you_usually_give_the_user_both_options_perform/)
-- [The Road Less Starred: Lessons Learned from My Markdown Twain Library](https://www.reddit.com/r/androiddev/comments/1cc4qjd/the_road_less_starred_lessons_learned_from_my/)
-- [Kotlin Illustrated Ch 19 - Generic Variance](https://www.reddit.com/r/androiddev/comments/1cc04ag/kotlin_illustrated_ch_19_generic_variance/)
-- [How can I add blur to Composables for Android versions &lt;12?](https://www.reddit.com/r/androiddev/comments/1cbw4j2/how_can_i_add_blur_to_composables_for_android/)
-- [How does the order in which you place modifiers affect a composable?](https://www.reddit.com/r/androiddev/comments/1cbtys2/how_does_the_order_in_which_you_place_modifiers/)
-- [What&#39;s the name of this theme?](https://www.reddit.com/r/androiddev/comments/1cbdhqh/whats_the_name_of_this_theme/)
+- [Where to store app settings?](https://www.reddit.com/r/androiddev/comments/1cdxh6w/where_to_store_app_settings/)
+- [How To Have Gradient Stroke Colors MaterialCard](https://www.reddit.com/r/androiddev/comments/1cdvmdh/how_to_have_gradient_stroke_colors_materialcard/)
+- [an unfinished space game](https://www.reddit.com/r/androiddev/comments/1cdunlc/an_unfinished_space_game/)
+- [Question about Room library &lpar;framework?&rpar; and threading](https://www.reddit.com/r/androiddev/comments/1cdotvz/question_about_room_library_framework_and/)
+- [New /r/AndroidDev Rules Spring 2024](https://www.reddit.com/r/androiddev/comments/1cdol70/new_randroiddev_rules_spring_2024/)
+- [How to Build Your Own Pre-Built WebRTC Library For Android](https://www.reddit.com/r/androiddev/comments/1cdog5u/how_to_build_your_own_prebuilt_webrtc_library_for/)
+- [AI generated images.](https://www.reddit.com/r/androiddev/comments/1cdnjc1/ai_generated_images/)
+- [Call webassembly from Android app ?](https://www.reddit.com/r/androiddev/comments/1cdmjx5/call_webassembly_from_android_app/)
+- [Volunteering as a QA tester?](https://www.reddit.com/r/androiddev/comments/1cdkl6p/volunteering_as_a_qa_tester/)
+- [Theme-Aware Edge-To-Edge In Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1cdhmrr/themeaware_edgetoedge_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
