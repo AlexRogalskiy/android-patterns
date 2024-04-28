@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Always use the SDK provided tool if possible](https://www.reddit.com/r/androiddev/comments/1cerpe1/always_use_the_sdk_provided_tool_if_possible/)
+- [Android Emulator on AMD](https://www.reddit.com/r/androiddev/comments/1ceqls4/android_emulator_on_amd/)
+- [Modifier-based tooltips in Compose](https://www.reddit.com/r/androiddev/comments/1cejbk4/modifierbased_tooltips_in_compose/)
+- [Compose compiler is moving to Kotlin repository](https://www.reddit.com/r/androiddev/comments/1ceh6wb/compose_compiler_is_moving_to_kotlin_repository/)
+- [YouTube shows in-app purchase email according to the account used to log into the YouTube app. How?](https://www.reddit.com/r/androiddev/comments/1ce9g73/youtube_shows_inapp_purchase_email_according_to/)
+- [Just found out that i can drag expressions into watches list in Android Studio .. very handy!](https://www.reddit.com/r/androiddev/comments/1ce71fm/just_found_out_that_i_can_drag_expressions_into/)
+- [PixaPencil - The perfect app for creating pixel art on the go](https://www.reddit.com/r/androiddev/comments/1ce6ecf/pixapencil_the_perfect_app_for_creating_pixel_art/)
 - [Where to store app settings?](https://www.reddit.com/r/androiddev/comments/1cdxh6w/where_to_store_app_settings/)
 - [How To Have Gradient Stroke Colors MaterialCard](https://www.reddit.com/r/androiddev/comments/1cdvmdh/how_to_have_gradient_stroke_colors_materialcard/)
 - [an unfinished space game](https://www.reddit.com/r/androiddev/comments/1cdunlc/an_unfinished_space_game/)
-- [Question about Room library &lpar;framework?&rpar; and threading](https://www.reddit.com/r/androiddev/comments/1cdotvz/question_about_room_library_framework_and/)
-- [New /r/AndroidDev Rules Spring 2024](https://www.reddit.com/r/androiddev/comments/1cdol70/new_randroiddev_rules_spring_2024/)
-- [How to Build Your Own Pre-Built WebRTC Library For Android](https://www.reddit.com/r/androiddev/comments/1cdog5u/how_to_build_your_own_prebuilt_webrtc_library_for/)
-- [AI generated images.](https://www.reddit.com/r/androiddev/comments/1cdnjc1/ai_generated_images/)
-- [Call webassembly from Android app ?](https://www.reddit.com/r/androiddev/comments/1cdmjx5/call_webassembly_from_android_app/)
-- [Volunteering as a QA tester?](https://www.reddit.com/r/androiddev/comments/1cdkl6p/volunteering_as_a_qa_tester/)
-- [Theme-Aware Edge-To-Edge In Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1cdhmrr/themeaware_edgetoedge_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
