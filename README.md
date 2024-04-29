@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What feature allows registration of context menu items in *other* apps?](https://www.reddit.com/r/androiddev/comments/1cfmggl/what_feature_allows_registration_of_context_menu/)
+- [How to check allocatable bytes or available storage on the documents/files shared external storage according to the official documentation?](https://www.reddit.com/r/androiddev/comments/1cfjnnf/how_to_check_allocatable_bytes_or_available/)
+- [Getting verbose logs from NotificationManagerService](https://www.reddit.com/r/androiddev/comments/1cfh3uo/getting_verbose_logs_from/)
+- [Closed Test Join Links Are Not Working](https://www.reddit.com/r/androiddev/comments/1cfgilr/closed_test_join_links_are_not_working/)
+- [How to launch an app in Spain and Germany?](https://www.reddit.com/r/androiddev/comments/1cf9pk5/how_to_launch_an_app_in_spain_and_germany/)
+- [Need a little help with Flows - running an action on each item](https://www.reddit.com/r/androiddev/comments/1cf6kcr/need_a_little_help_with_flows_running_an_action/)
+- [How can I Fetch Recent 5-Star Reviews from Google Play Store Programmatically?](https://www.reddit.com/r/androiddev/comments/1cf5vtv/how_can_i_fetch_recent_5star_reviews_from_google/)
+- [Google Play rollout strategy](https://www.reddit.com/r/androiddev/comments/1cexzwl/google_play_rollout_strategy/)
+- [Should there be any legitimate hardcoded URL in the Android codebase?](https://www.reddit.com/r/androiddev/comments/1ceween/should_there_be_any_legitimate_hardcoded_url_in/)
 - [Always use the SDK provided tool if possible](https://www.reddit.com/r/androiddev/comments/1cerpe1/always_use_the_sdk_provided_tool_if_possible/)
-- [Android Emulator on AMD](https://www.reddit.com/r/androiddev/comments/1ceqls4/android_emulator_on_amd/)
-- [Modifier-based tooltips in Compose](https://www.reddit.com/r/androiddev/comments/1cejbk4/modifierbased_tooltips_in_compose/)
-- [Compose compiler is moving to Kotlin repository](https://www.reddit.com/r/androiddev/comments/1ceh6wb/compose_compiler_is_moving_to_kotlin_repository/)
-- [YouTube shows in-app purchase email according to the account used to log into the YouTube app. How?](https://www.reddit.com/r/androiddev/comments/1ce9g73/youtube_shows_inapp_purchase_email_according_to/)
-- [Just found out that i can drag expressions into watches list in Android Studio .. very handy!](https://www.reddit.com/r/androiddev/comments/1ce71fm/just_found_out_that_i_can_drag_expressions_into/)
-- [PixaPencil - The perfect app for creating pixel art on the go](https://www.reddit.com/r/androiddev/comments/1ce6ecf/pixapencil_the_perfect_app_for_creating_pixel_art/)
-- [Where to store app settings?](https://www.reddit.com/r/androiddev/comments/1cdxh6w/where_to_store_app_settings/)
-- [How To Have Gradient Stroke Colors MaterialCard](https://www.reddit.com/r/androiddev/comments/1cdvmdh/how_to_have_gradient_stroke_colors_materialcard/)
-- [an unfinished space game](https://www.reddit.com/r/androiddev/comments/1cdunlc/an_unfinished_space_game/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
