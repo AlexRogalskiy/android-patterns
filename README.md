@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What feature allows registration of context menu items in *other* apps?](https://www.reddit.com/r/androiddev/comments/1cfmggl/what_feature_allows_registration_of_context_menu/)
-- [How to check allocatable bytes or available storage on the documents/files shared external storage according to the official documentation?](https://www.reddit.com/r/androiddev/comments/1cfjnnf/how_to_check_allocatable_bytes_or_available/)
-- [Getting verbose logs from NotificationManagerService](https://www.reddit.com/r/androiddev/comments/1cfh3uo/getting_verbose_logs_from/)
-- [Closed Test Join Links Are Not Working](https://www.reddit.com/r/androiddev/comments/1cfgilr/closed_test_join_links_are_not_working/)
-- [How to launch an app in Spain and Germany?](https://www.reddit.com/r/androiddev/comments/1cf9pk5/how_to_launch_an_app_in_spain_and_germany/)
-- [Need a little help with Flows - running an action on each item](https://www.reddit.com/r/androiddev/comments/1cf6kcr/need_a_little_help_with_flows_running_an_action/)
-- [How can I Fetch Recent 5-Star Reviews from Google Play Store Programmatically?](https://www.reddit.com/r/androiddev/comments/1cf5vtv/how_can_i_fetch_recent_5star_reviews_from_google/)
-- [Google Play rollout strategy](https://www.reddit.com/r/androiddev/comments/1cexzwl/google_play_rollout_strategy/)
-- [Should there be any legitimate hardcoded URL in the Android codebase?](https://www.reddit.com/r/androiddev/comments/1ceween/should_there_be_any_legitimate_hardcoded_url_in/)
-- [Always use the SDK provided tool if possible](https://www.reddit.com/r/androiddev/comments/1cerpe1/always_use_the_sdk_provided_tool_if_possible/)
+- [How does the recyclerview decide when a view needs to be disposed / discarded?](https://www.reddit.com/r/androiddev/comments/1cgaa6y/how_does_the_recyclerview_decide_when_a_view/)
+- [Want to become a freelance Android Dev, would a degree in marketing help?](https://www.reddit.com/r/androiddev/comments/1cga9vc/want_to_become_a_freelance_android_dev_would_a/)
+- [Android Studio Koala | 2024.1.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1cga9m4/android_studio_koala_202411_canary_7_now_available/)
+- [Question about releasing app on google play](https://www.reddit.com/r/androiddev/comments/1cg87bh/question_about_releasing_app_on_google_play/)
+- [Jetpack Compose compiler moving to the Kotlin repository](https://www.reddit.com/r/androiddev/comments/1cg49dp/jetpack_compose_compiler_moving_to_the_kotlin/)
+- [theres a 50 dollar bug bounty in quillpad for implementing a save to markdown feature](https://www.reddit.com/r/androiddev/comments/1cg1ylw/theres_a_50_dollar_bug_bounty_in_quillpad_for/)
+- [Trying to understand my performance problems with Compose](https://www.reddit.com/r/androiddev/comments/1cg0ah9/trying_to_understand_my_performance_problems_with/)
+- [Animating the Netflix Logo - Part 2 - Improving the Shadow](https://www.reddit.com/r/androiddev/comments/1cfzpjj/animating_the_netflix_logo_part_2_improving_the/)
+- [Encrypt all keys in C++ code for Android App](https://www.reddit.com/r/androiddev/comments/1cfxym6/encrypt_all_keys_in_c_code_for_android_app/)
+- [Is there a way to add elevation or shadow on one side of Card composable?](https://www.reddit.com/r/androiddev/comments/1cfvfs8/is_there_a_way_to_add_elevation_or_shadow_on_one/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
