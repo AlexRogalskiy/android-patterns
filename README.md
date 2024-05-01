@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How does the recyclerview decide when a view needs to be disposed / discarded?](https://www.reddit.com/r/androiddev/comments/1cgaa6y/how_does_the_recyclerview_decide_when_a_view/)
-- [Want to become a freelance Android Dev, would a degree in marketing help?](https://www.reddit.com/r/androiddev/comments/1cga9vc/want_to_become_a_freelance_android_dev_would_a/)
-- [Android Studio Koala | 2024.1.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1cga9m4/android_studio_koala_202411_canary_7_now_available/)
-- [Question about releasing app on google play](https://www.reddit.com/r/androiddev/comments/1cg87bh/question_about_releasing_app_on_google_play/)
-- [Jetpack Compose compiler moving to the Kotlin repository](https://www.reddit.com/r/androiddev/comments/1cg49dp/jetpack_compose_compiler_moving_to_the_kotlin/)
-- [theres a 50 dollar bug bounty in quillpad for implementing a save to markdown feature](https://www.reddit.com/r/androiddev/comments/1cg1ylw/theres_a_50_dollar_bug_bounty_in_quillpad_for/)
-- [Trying to understand my performance problems with Compose](https://www.reddit.com/r/androiddev/comments/1cg0ah9/trying_to_understand_my_performance_problems_with/)
-- [Animating the Netflix Logo - Part 2 - Improving the Shadow](https://www.reddit.com/r/androiddev/comments/1cfzpjj/animating_the_netflix_logo_part_2_improving_the/)
-- [Encrypt all keys in C++ code for Android App](https://www.reddit.com/r/androiddev/comments/1cfxym6/encrypt_all_keys_in_c_code_for_android_app/)
-- [Is there a way to add elevation or shadow on one side of Card composable?](https://www.reddit.com/r/androiddev/comments/1cfvfs8/is_there_a_way_to_add_elevation_or_shadow_on_one/)
+- [Android Studio Jellyfish | 2023.3.1 now available](https://www.reddit.com/r/androiddev/comments/1cgz8ai/android_studio_jellyfish_202331_now_available/)
+- [Gemini in Android Studio and more: Android Studio Jellyfish is Stable!](https://www.reddit.com/r/androiddev/comments/1cgyqft/gemini_in_android_studio_and_more_android_studio/)
+- [Best practices regarding google-services json file while uploading a project to a public repository](https://www.reddit.com/r/androiddev/comments/1cgwesq/best_practices_regarding_googleservices_json_file/)
+- [Not able to see the changes in Font Family in my Android Device but its working flawlessly in the Android Studio Preview](https://www.reddit.com/r/androiddev/comments/1cgw2zk/not_able_to_see_the_changes_in_font_family_in_my/)
+- [Shared Element Transition In Jetpack Compose: Enriching Android User Experiences](https://www.reddit.com/r/androiddev/comments/1cgunm0/shared_element_transition_in_jetpack_compose/)
+- [Any resources to learn mockito, especially with viewmodels and State?](https://www.reddit.com/r/androiddev/comments/1cgs43x/any_resources_to_learn_mockito_especially_with/)
+- [Verification Deadline](https://www.reddit.com/r/androiddev/comments/1cgr0xp/verification_deadline/)
+- [Parallel SQLite DB Write Problem](https://www.reddit.com/r/androiddev/comments/1cgqlof/parallel_sqlite_db_write_problem/)
+- [anyone used android-target-instructions and added a skip button to skip remaining steps](https://www.reddit.com/r/androiddev/comments/1cgq9ll/anyone_used_androidtargetinstructions_and_added_a/)
+- [Support Fleksy SDK - devtool for all your input method needs !](https://www.reddit.com/r/androiddev/comments/1cgohv6/support_fleksy_sdk_devtool_for_all_your_input/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
