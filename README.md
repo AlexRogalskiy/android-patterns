@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need some UI performance tips for jetpack compose which can improve UI scrolling performance, smooth Navigation through the app. Tips that you are actually benefited from.](https://www.reddit.com/r/androiddev/comments/1ci1cg0/i_need_some_ui_performance_tips_for_jetpack/)
+- [Navigation Compose meet Type Safety](https://www.reddit.com/r/androiddev/comments/1ci0y8f/navigation_compose_meet_type_safety/)
+- [Ambiguous response from google policy team due an approved but flagged version](https://www.reddit.com/r/androiddev/comments/1chzo6g/ambiguous_response_from_google_policy_team_due_an/)
+- [Problem submitting app on F-Droid](https://www.reddit.com/r/androiddev/comments/1chzdw5/problem_submitting_app_on_fdroid/)
+- [Sharing my Tinder clone repository](https://www.reddit.com/r/androiddev/comments/1chytat/sharing_my_tinder_clone_repository/)
+- [Room/KMP is officially here!](https://www.reddit.com/r/androiddev/comments/1chsezm/roomkmp_is_officially_here/)
+- [Video: Three Simple Rules for Subtypes in Kotlin](https://www.reddit.com/r/androiddev/comments/1chobt5/video_three_simple_rules_for_subtypes_in_kotlin/)
+- [3 Easy Steps To Add C++ To Your Android Project](https://www.reddit.com/r/androiddev/comments/1chh618/3_easy_steps_to_add_c_to_your_android_project/)
+- [How many of you build apps considering the talkback accessibility feature?](https://www.reddit.com/r/androiddev/comments/1ch70ku/how_many_of_you_build_apps_considering_the/)
 - [Android Studio Jellyfish | 2023.3.1 now available](https://www.reddit.com/r/androiddev/comments/1cgz8ai/android_studio_jellyfish_202331_now_available/)
-- [Gemini in Android Studio and more: Android Studio Jellyfish is Stable!](https://www.reddit.com/r/androiddev/comments/1cgyqft/gemini_in_android_studio_and_more_android_studio/)
-- [Best practices regarding google-services json file while uploading a project to a public repository](https://www.reddit.com/r/androiddev/comments/1cgwesq/best_practices_regarding_googleservices_json_file/)
-- [Not able to see the changes in Font Family in my Android Device but its working flawlessly in the Android Studio Preview](https://www.reddit.com/r/androiddev/comments/1cgw2zk/not_able_to_see_the_changes_in_font_family_in_my/)
-- [Shared Element Transition In Jetpack Compose: Enriching Android User Experiences](https://www.reddit.com/r/androiddev/comments/1cgunm0/shared_element_transition_in_jetpack_compose/)
-- [Any resources to learn mockito, especially with viewmodels and State?](https://www.reddit.com/r/androiddev/comments/1cgs43x/any_resources_to_learn_mockito_especially_with/)
-- [Verification Deadline](https://www.reddit.com/r/androiddev/comments/1cgr0xp/verification_deadline/)
-- [Parallel SQLite DB Write Problem](https://www.reddit.com/r/androiddev/comments/1cgqlof/parallel_sqlite_db_write_problem/)
-- [anyone used android-target-instructions and added a skip button to skip remaining steps](https://www.reddit.com/r/androiddev/comments/1cgq9ll/anyone_used_androidtargetinstructions_and_added_a/)
-- [Support Fleksy SDK - devtool for all your input method needs !](https://www.reddit.com/r/androiddev/comments/1cgohv6/support_fleksy_sdk_devtool_for_all_your_input/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
