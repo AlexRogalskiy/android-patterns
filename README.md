@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [An analysis of the rabbit R1 APK - Rabbit R1 Deep Dive](https://www.reddit.com/r/androiddev/comments/1ciwgy8/an_analysis_of_the_rabbit_r1_apk_rabbit_r1_deep/)
+- [HELP! FragmentContainerView without fixed fragment in jetpack Compose](https://www.reddit.com/r/androiddev/comments/1cih0ly/help_fragmentcontainerview_without_fixed_fragment/)
+- [ML Kit text recognition date](https://www.reddit.com/r/androiddev/comments/1cieezt/ml_kit_text_recognition_date/)
+- [How the hell do Automate and MacroDroid manage to enable airplane mode without root, when I tried everything and nothing works?](https://www.reddit.com/r/androiddev/comments/1ci4myg/how_the_hell_do_automate_and_macrodroid_manage_to/)
 - [I need some UI performance tips for jetpack compose which can improve UI scrolling performance, smooth Navigation through the app. Tips that you are actually benefited from.](https://www.reddit.com/r/androiddev/comments/1ci1cg0/i_need_some_ui_performance_tips_for_jetpack/)
 - [Navigation Compose meet Type Safety](https://www.reddit.com/r/androiddev/comments/1ci0y8f/navigation_compose_meet_type_safety/)
 - [Ambiguous response from google policy team due an approved but flagged version](https://www.reddit.com/r/androiddev/comments/1chzo6g/ambiguous_response_from_google_policy_team_due_an/)
 - [Problem submitting app on F-Droid](https://www.reddit.com/r/androiddev/comments/1chzdw5/problem_submitting_app_on_fdroid/)
 - [Sharing my Tinder clone repository](https://www.reddit.com/r/androiddev/comments/1chytat/sharing_my_tinder_clone_repository/)
 - [Room/KMP is officially here!](https://www.reddit.com/r/androiddev/comments/1chsezm/roomkmp_is_officially_here/)
-- [Video: Three Simple Rules for Subtypes in Kotlin](https://www.reddit.com/r/androiddev/comments/1chobt5/video_three_simple_rules_for_subtypes_in_kotlin/)
-- [3 Easy Steps To Add C++ To Your Android Project](https://www.reddit.com/r/androiddev/comments/1chh618/3_easy_steps_to_add_c_to_your_android_project/)
-- [How many of you build apps considering the talkback accessibility feature?](https://www.reddit.com/r/androiddev/comments/1ch70ku/how_many_of_you_build_apps_considering_the/)
-- [Android Studio Jellyfish | 2023.3.1 now available](https://www.reddit.com/r/androiddev/comments/1cgz8ai/android_studio_jellyfish_202331_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
