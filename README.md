@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [An analysis of the rabbit R1 APK - Rabbit R1 Deep Dive](https://www.reddit.com/r/androiddev/comments/1ciwgy8/an_analysis_of_the_rabbit_r1_apk_rabbit_r1_deep/)
-- [HELP! FragmentContainerView without fixed fragment in jetpack Compose](https://www.reddit.com/r/androiddev/comments/1cih0ly/help_fragmentcontainerview_without_fixed_fragment/)
-- [ML Kit text recognition date](https://www.reddit.com/r/androiddev/comments/1cieezt/ml_kit_text_recognition_date/)
-- [How the hell do Automate and MacroDroid manage to enable airplane mode without root, when I tried everything and nothing works?](https://www.reddit.com/r/androiddev/comments/1ci4myg/how_the_hell_do_automate_and_macrodroid_manage_to/)
-- [I need some UI performance tips for jetpack compose which can improve UI scrolling performance, smooth Navigation through the app. Tips that you are actually benefited from.](https://www.reddit.com/r/androiddev/comments/1ci1cg0/i_need_some_ui_performance_tips_for_jetpack/)
-- [Navigation Compose meet Type Safety](https://www.reddit.com/r/androiddev/comments/1ci0y8f/navigation_compose_meet_type_safety/)
-- [Ambiguous response from google policy team due an approved but flagged version](https://www.reddit.com/r/androiddev/comments/1chzo6g/ambiguous_response_from_google_policy_team_due_an/)
-- [Problem submitting app on F-Droid](https://www.reddit.com/r/androiddev/comments/1chzdw5/problem_submitting_app_on_fdroid/)
-- [Sharing my Tinder clone repository](https://www.reddit.com/r/androiddev/comments/1chytat/sharing_my_tinder_clone_repository/)
-- [Room/KMP is officially here!](https://www.reddit.com/r/androiddev/comments/1chsezm/roomkmp_is_officially_here/)
+- [Review is taking forever](https://www.reddit.com/r/androiddev/comments/1cjirnd/review_is_taking_forever/)
+- [Android Studio Koala | 2024.1.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1cjdmon/android_studio_koala_202411_canary_8_now_available/)
+- [Why is my app receiving little to no visibility, you have to type the EXACT name to find it.](https://www.reddit.com/r/androiddev/comments/1cjdih1/why_is_my_app_receiving_little_to_no_visibility/)
+- [Anyone has done a Weekly Calendar?](https://www.reddit.com/r/androiddev/comments/1cjbxz4/anyone_has_done_a_weekly_calendar/)
+- [Any ways to get imei or mac address in Android 10 and above ?](https://www.reddit.com/r/androiddev/comments/1cjb4b4/any_ways_to_get_imei_or_mac_address_in_android_10/)
+- [How to preview a complex Composable Screen when using DI?](https://www.reddit.com/r/androiddev/comments/1cjar3p/how_to_preview_a_complex_composable_screen_when/)
+- [Increasing Target SDK from 33 to 34 reduced number of supported devices from 15995 to 1215](https://www.reddit.com/r/androiddev/comments/1cj9juc/increasing_target_sdk_from_33_to_34_reduced/)
+- [Bottom Bar Navigation in Android with Compose Navigation](https://www.reddit.com/r/androiddev/comments/1cj5z4a/bottom_bar_navigation_in_android_with_compose/)
+- [True Devtools - A free All-in-one Toolkit for Developers](https://www.reddit.com/r/androiddev/comments/1cj5gbu/true_devtools_a_free_allinone_toolkit_for/)
+- [Best way to implement a ViewPager with 100+ children?](https://www.reddit.com/r/androiddev/comments/1cj4n46/best_way_to_implement_a_viewpager_with_100/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
