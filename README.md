@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Solo Devs: How long start to finish does it take you to create an app ready for publishing?](https://www.reddit.com/r/androiddev/comments/1ckctom/solo_devs_how_long_start_to_finish_does_it_take/)
+- [Fellow Android devs, how did you get your first gig/job.](https://www.reddit.com/r/androiddev/comments/1ckbbb2/fellow_android_devs_how_did_you_get_your_first/)
+- [Do you think this can be labeled as hate speech?](https://www.reddit.com/r/androiddev/comments/1ck6dce/do_you_think_this_can_be_labeled_as_hate_speech/)
+- [My app was rejected twice and then suspended. Here you can see the 2 rejections, the suspension, and the response from my appeal. What are your thoughts?](https://www.reddit.com/r/androiddev/comments/1ck536m/my_app_was_rejected_twice_and_then_suspended_here/)
+- [Emuhub](https://www.reddit.com/r/androiddev/comments/1ck26h2/emuhub/)
+- [Did Google Play recently started to suspend after multiple rejection?](https://www.reddit.com/r/androiddev/comments/1ck1wyp/did_google_play_recently_started_to_suspend_after/)
+- [Who the hell is in charge documenting the Jetpack Compose Documentation? Guide me to read your docs. What were you thinking when writing this such beautiful poetry?](https://www.reddit.com/r/androiddev/comments/1cjxrgy/who_the_hell_is_in_charge_documenting_the_jetpack/)
+- [Compose Menu: An unstyled Menu &lpar;Dropdown&rpar; Compose Multiplatform component with keyboard navigation and animation support.](https://www.reddit.com/r/androiddev/comments/1cjxkuk/compose_menu_an_unstyled_menu_dropdown_compose/)
+- [Is it better to draw on a canvas or use the drawBehind modifier on a widget?](https://www.reddit.com/r/androiddev/comments/1cjpj95/is_it_better_to_draw_on_a_canvas_or_use_the/)
 - [Review is taking forever](https://www.reddit.com/r/androiddev/comments/1cjirnd/review_is_taking_forever/)
-- [Android Studio Koala | 2024.1.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1cjdmon/android_studio_koala_202411_canary_8_now_available/)
-- [Why is my app receiving little to no visibility, you have to type the EXACT name to find it.](https://www.reddit.com/r/androiddev/comments/1cjdih1/why_is_my_app_receiving_little_to_no_visibility/)
-- [Anyone has done a Weekly Calendar?](https://www.reddit.com/r/androiddev/comments/1cjbxz4/anyone_has_done_a_weekly_calendar/)
-- [Any ways to get imei or mac address in Android 10 and above ?](https://www.reddit.com/r/androiddev/comments/1cjb4b4/any_ways_to_get_imei_or_mac_address_in_android_10/)
-- [How to preview a complex Composable Screen when using DI?](https://www.reddit.com/r/androiddev/comments/1cjar3p/how_to_preview_a_complex_composable_screen_when/)
-- [Increasing Target SDK from 33 to 34 reduced number of supported devices from 15995 to 1215](https://www.reddit.com/r/androiddev/comments/1cj9juc/increasing_target_sdk_from_33_to_34_reduced/)
-- [Bottom Bar Navigation in Android with Compose Navigation](https://www.reddit.com/r/androiddev/comments/1cj5z4a/bottom_bar_navigation_in_android_with_compose/)
-- [True Devtools - A free All-in-one Toolkit for Developers](https://www.reddit.com/r/androiddev/comments/1cj5gbu/true_devtools_a_free_allinone_toolkit_for/)
-- [Best way to implement a ViewPager with 100+ children?](https://www.reddit.com/r/androiddev/comments/1cj4n46/best_way_to_implement_a_viewpager_with_100/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
