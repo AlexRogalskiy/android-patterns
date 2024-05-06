@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Solo Devs: How long start to finish does it take you to create an app ready for publishing?](https://www.reddit.com/r/androiddev/comments/1ckctom/solo_devs_how_long_start_to_finish_does_it_take/)
-- [Fellow Android devs, how did you get your first gig/job.](https://www.reddit.com/r/androiddev/comments/1ckbbb2/fellow_android_devs_how_did_you_get_your_first/)
-- [Do you think this can be labeled as hate speech?](https://www.reddit.com/r/androiddev/comments/1ck6dce/do_you_think_this_can_be_labeled_as_hate_speech/)
-- [My app was rejected twice and then suspended. Here you can see the 2 rejections, the suspension, and the response from my appeal. What are your thoughts?](https://www.reddit.com/r/androiddev/comments/1ck536m/my_app_was_rejected_twice_and_then_suspended_here/)
-- [Emuhub](https://www.reddit.com/r/androiddev/comments/1ck26h2/emuhub/)
-- [Did Google Play recently started to suspend after multiple rejection?](https://www.reddit.com/r/androiddev/comments/1ck1wyp/did_google_play_recently_started_to_suspend_after/)
-- [Who the hell is in charge documenting the Jetpack Compose Documentation? Guide me to read your docs. What were you thinking when writing this such beautiful poetry?](https://www.reddit.com/r/androiddev/comments/1cjxrgy/who_the_hell_is_in_charge_documenting_the_jetpack/)
-- [Compose Menu: An unstyled Menu &lpar;Dropdown&rpar; Compose Multiplatform component with keyboard navigation and animation support.](https://www.reddit.com/r/androiddev/comments/1cjxkuk/compose_menu_an_unstyled_menu_dropdown_compose/)
-- [Is it better to draw on a canvas or use the drawBehind modifier on a widget?](https://www.reddit.com/r/androiddev/comments/1cjpj95/is_it_better_to_draw_on_a_canvas_or_use_the/)
-- [Review is taking forever](https://www.reddit.com/r/androiddev/comments/1cjirnd/review_is_taking_forever/)
+- [Tackling the Headaches of OTA Updates and Pairing Connectivity in Cross-Platform Hardware](https://www.reddit.com/r/androiddev/comments/1cl6vxk/tackling_the_headaches_of_ota_updates_and_pairing/)
+- [Android Studio Jellyfish; No logcat icon](https://www.reddit.com/r/androiddev/comments/1cl6r96/android_studio_jellyfish_no_logcat_icon/)
+- [Internal testing track - Google play](https://www.reddit.com/r/androiddev/comments/1cky3zl/internal_testing_track_google_play/)
+- [Capture home button event in a launcher app](https://www.reddit.com/r/androiddev/comments/1cktgtk/capture_home_button_event_in_a_launcher_app/)
+- [App &quot;in review&quot; for over two months](https://www.reddit.com/r/androiddev/comments/1cknah6/app_in_review_for_over_two_months/)
+- [What would be considered &quot;Monetization&quot; by Google](https://www.reddit.com/r/androiddev/comments/1ckmuxf/what_would_be_considered_monetization_by_google/)
+- [Open overflow menu on navigationButton](https://www.reddit.com/r/androiddev/comments/1ckmmt3/open_overflow_menu_on_navigationbutton/)
+- [Tuto animated sticky header with scrollable body](https://www.reddit.com/r/androiddev/comments/1cklvgo/tuto_animated_sticky_header_with_scrollable_body/)
+- [Is there some kind of coordinates chart for creating custom shapes with customizable sizes?](https://www.reddit.com/r/androiddev/comments/1ckkkww/is_there_some_kind_of_coordinates_chart_for/)
+- [[Suggestion/Discussion] Bring back the weekly &quot;Who is hiring&quot; thread and introduce new weekly &quot;Hire me&quot; thread](https://www.reddit.com/r/androiddev/comments/1ckhlrm/suggestiondiscussion_bring_back_the_weekly_who_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
