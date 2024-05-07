@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Tackling the Headaches of OTA Updates and Pairing Connectivity in Cross-Platform Hardware](https://www.reddit.com/r/androiddev/comments/1cl6vxk/tackling_the_headaches_of_ota_updates_and_pairing/)
-- [Android Studio Jellyfish; No logcat icon](https://www.reddit.com/r/androiddev/comments/1cl6r96/android_studio_jellyfish_no_logcat_icon/)
-- [Internal testing track - Google play](https://www.reddit.com/r/androiddev/comments/1cky3zl/internal_testing_track_google_play/)
-- [Capture home button event in a launcher app](https://www.reddit.com/r/androiddev/comments/1cktgtk/capture_home_button_event_in_a_launcher_app/)
-- [App &quot;in review&quot; for over two months](https://www.reddit.com/r/androiddev/comments/1cknah6/app_in_review_for_over_two_months/)
-- [What would be considered &quot;Monetization&quot; by Google](https://www.reddit.com/r/androiddev/comments/1ckmuxf/what_would_be_considered_monetization_by_google/)
-- [Open overflow menu on navigationButton](https://www.reddit.com/r/androiddev/comments/1ckmmt3/open_overflow_menu_on_navigationbutton/)
-- [Tuto animated sticky header with scrollable body](https://www.reddit.com/r/androiddev/comments/1cklvgo/tuto_animated_sticky_header_with_scrollable_body/)
-- [Is there some kind of coordinates chart for creating custom shapes with customizable sizes?](https://www.reddit.com/r/androiddev/comments/1ckkkww/is_there_some_kind_of_coordinates_chart_for/)
-- [[Suggestion/Discussion] Bring back the weekly &quot;Who is hiring&quot; thread and introduce new weekly &quot;Hire me&quot; thread](https://www.reddit.com/r/androiddev/comments/1ckhlrm/suggestiondiscussion_bring_back_the_weekly_who_is/)
+- [External xls file download](https://www.reddit.com/r/androiddev/comments/1clyrsv/external_xls_file_download/)
+- [If I use stripe does Google still take a 15-30% cut of all in app purchases?](https://www.reddit.com/r/androiddev/comments/1clr89r/if_i_use_stripe_does_google_still_take_a_1530_cut/)
+- [Preparing for K2](https://www.reddit.com/r/androiddev/comments/1clqp57/preparing_for_k2/)
+- [[Bluetooth LE] create Characteristic with predifine value before advertising Service in a peripheral device&lpar;Android app&rpar;](https://www.reddit.com/r/androiddev/comments/1clon3n/bluetooth_le_create_characteristic_with_predifine/)
+- [How do you protect your developer name from impersonation?](https://www.reddit.com/r/androiddev/comments/1cln9wp/how_do_you_protect_your_developer_name_from/)
+- [I can&#39;t figure out the reason for the rejection](https://www.reddit.com/r/androiddev/comments/1cllwr5/i_cant_figure_out_the_reason_for_the_rejection/)
+- [how to start a specific activity using am?](https://www.reddit.com/r/androiddev/comments/1clk5mi/how_to_start_a_specific_activity_using_am/)
+- [End of free CASA Tier 2 certification for Google Drive](https://www.reddit.com/r/androiddev/comments/1clk1ng/end_of_free_casa_tier_2_certification_for_google/)
+- [Is firebase auth banned in EU? What i should implement custom auth?](https://www.reddit.com/r/androiddev/comments/1clftzs/is_firebase_auth_banned_in_eu_what_i_should/)
+- [How much XML should I learn?](https://www.reddit.com/r/androiddev/comments/1clfgj7/how_much_xml_should_i_learn/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
