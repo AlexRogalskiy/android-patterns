@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [External xls file download](https://www.reddit.com/r/androiddev/comments/1clyrsv/external_xls_file_download/)
-- [If I use stripe does Google still take a 15-30% cut of all in app purchases?](https://www.reddit.com/r/androiddev/comments/1clr89r/if_i_use_stripe_does_google_still_take_a_1530_cut/)
-- [Preparing for K2](https://www.reddit.com/r/androiddev/comments/1clqp57/preparing_for_k2/)
-- [[Bluetooth LE] create Characteristic with predifine value before advertising Service in a peripheral device&lpar;Android app&rpar;](https://www.reddit.com/r/androiddev/comments/1clon3n/bluetooth_le_create_characteristic_with_predifine/)
-- [How do you protect your developer name from impersonation?](https://www.reddit.com/r/androiddev/comments/1cln9wp/how_do_you_protect_your_developer_name_from/)
-- [I can&#39;t figure out the reason for the rejection](https://www.reddit.com/r/androiddev/comments/1cllwr5/i_cant_figure_out_the_reason_for_the_rejection/)
-- [how to start a specific activity using am?](https://www.reddit.com/r/androiddev/comments/1clk5mi/how_to_start_a_specific_activity_using_am/)
-- [End of free CASA Tier 2 certification for Google Drive](https://www.reddit.com/r/androiddev/comments/1clk1ng/end_of_free_casa_tier_2_certification_for_google/)
-- [Is firebase auth banned in EU? What i should implement custom auth?](https://www.reddit.com/r/androiddev/comments/1clftzs/is_firebase_auth_banned_in_eu_what_i_should/)
-- [How much XML should I learn?](https://www.reddit.com/r/androiddev/comments/1clfgj7/how_much_xml_should_i_learn/)
+- [Developing a new app](https://www.reddit.com/r/androiddev/comments/1cmqteu/developing_a_new_app/)
+- [Having Trouble adding Room Database libraries. Can Someone help?](https://www.reddit.com/r/androiddev/comments/1cmqmi9/having_trouble_adding_room_database_libraries_can/)
+- [Collections in Official Docs](https://www.reddit.com/r/androiddev/comments/1cmphvs/collections_in_official_docs/)
+- [More frequent, focused updates for Android Studio](https://www.reddit.com/r/androiddev/comments/1cmorbg/more_frequent_focused_updates_for_android_studio/)
+- [Will my app status be affected if I don&#39;t fix Google billing by Jun 12?](https://www.reddit.com/r/androiddev/comments/1cmgpxl/will_my_app_status_be_affected_if_i_dont_fix/)
+- [Cross-platform vs Native app development](https://www.reddit.com/r/androiddev/comments/1cmg2tn/crossplatform_vs_native_app_development/)
+- [Now we can use Fragments in Compose-based apps!](https://www.reddit.com/r/androiddev/comments/1cme55u/now_we_can_use_fragments_in_composebased_apps/)
+- [Google I/O 2024, what sessions are you looking forward to?](https://www.reddit.com/r/androiddev/comments/1cmdvnq/google_io_2024_what_sessions_are_you_looking/)
+- [How can roles be effectively managed in an Android application?](https://www.reddit.com/r/androiddev/comments/1cmc02t/how_can_roles_be_effectively_managed_in_an/)
+- [How to validate security of the open source library if I add the dependency in gradle ?](https://www.reddit.com/r/androiddev/comments/1cmb8al/how_to_validate_security_of_the_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
