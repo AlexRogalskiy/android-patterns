@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Developing a new app](https://www.reddit.com/r/androiddev/comments/1cmqteu/developing_a_new_app/)
-- [Having Trouble adding Room Database libraries. Can Someone help?](https://www.reddit.com/r/androiddev/comments/1cmqmi9/having_trouble_adding_room_database_libraries_can/)
-- [Collections in Official Docs](https://www.reddit.com/r/androiddev/comments/1cmphvs/collections_in_official_docs/)
-- [More frequent, focused updates for Android Studio](https://www.reddit.com/r/androiddev/comments/1cmorbg/more_frequent_focused_updates_for_android_studio/)
-- [Will my app status be affected if I don&#39;t fix Google billing by Jun 12?](https://www.reddit.com/r/androiddev/comments/1cmgpxl/will_my_app_status_be_affected_if_i_dont_fix/)
-- [Cross-platform vs Native app development](https://www.reddit.com/r/androiddev/comments/1cmg2tn/crossplatform_vs_native_app_development/)
-- [Now we can use Fragments in Compose-based apps!](https://www.reddit.com/r/androiddev/comments/1cme55u/now_we_can_use_fragments_in_composebased_apps/)
-- [Google I/O 2024, what sessions are you looking forward to?](https://www.reddit.com/r/androiddev/comments/1cmdvnq/google_io_2024_what_sessions_are_you_looking/)
-- [How can roles be effectively managed in an Android application?](https://www.reddit.com/r/androiddev/comments/1cmc02t/how_can_roles_be_effectively_managed_in_an/)
-- [How to validate security of the open source library if I add the dependency in gradle ?](https://www.reddit.com/r/androiddev/comments/1cmb8al/how_to_validate_security_of_the_open_source/)
+- [Gallery app directly connected to Google Photos](https://www.reddit.com/r/androiddev/comments/1cnkmj2/gallery_app_directly_connected_to_google_photos/)
+- [Paperize - Wallpaper Changer](https://www.reddit.com/r/androiddev/comments/1cnjqsq/paperize_wallpaper_changer/)
+- [Hilt and single activity apps don&#39;t make sense together](https://www.reddit.com/r/androiddev/comments/1cn9uyb/hilt_and_single_activity_apps_dont_make_sense/)
+- [How to change address from play store page from your personal address to virtual address](https://www.reddit.com/r/androiddev/comments/1cn8pyg/how_to_change_address_from_play_store_page_from/)
+- [Horizontal swipe on Jetpack Glance widgets?](https://www.reddit.com/r/androiddev/comments/1cn4bp9/horizontal_swipe_on_jetpack_glance_widgets/)
+- [JSON vs ROOM](https://www.reddit.com/r/androiddev/comments/1cn3kun/json_vs_room/)
+- [How to make a beta free? Google play console.](https://www.reddit.com/r/androiddev/comments/1cn3dsz/how_to_make_a_beta_free_google_play_console/)
+- [Use OpenGL for Android Auto](https://www.reddit.com/r/androiddev/comments/1cn18n1/use_opengl_for_android_auto/)
+- [Conditionnal compose modifier](https://www.reddit.com/r/androiddev/comments/1cn05hp/conditionnal_compose_modifier/)
+- [Is there any possible workaround for this issue Google hasn&#39;t fixed for 5 months?](https://www.reddit.com/r/androiddev/comments/1cmzoyv/is_there_any_possible_workaround_for_this_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
