@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gallery app directly connected to Google Photos](https://www.reddit.com/r/androiddev/comments/1cnkmj2/gallery_app_directly_connected_to_google_photos/)
-- [Paperize - Wallpaper Changer](https://www.reddit.com/r/androiddev/comments/1cnjqsq/paperize_wallpaper_changer/)
-- [Hilt and single activity apps don&#39;t make sense together](https://www.reddit.com/r/androiddev/comments/1cn9uyb/hilt_and_single_activity_apps_dont_make_sense/)
-- [How to change address from play store page from your personal address to virtual address](https://www.reddit.com/r/androiddev/comments/1cn8pyg/how_to_change_address_from_play_store_page_from/)
-- [Horizontal swipe on Jetpack Glance widgets?](https://www.reddit.com/r/androiddev/comments/1cn4bp9/horizontal_swipe_on_jetpack_glance_widgets/)
-- [JSON vs ROOM](https://www.reddit.com/r/androiddev/comments/1cn3kun/json_vs_room/)
-- [How to make a beta free? Google play console.](https://www.reddit.com/r/androiddev/comments/1cn3dsz/how_to_make_a_beta_free_google_play_console/)
-- [Use OpenGL for Android Auto](https://www.reddit.com/r/androiddev/comments/1cn18n1/use_opengl_for_android_auto/)
-- [Conditionnal compose modifier](https://www.reddit.com/r/androiddev/comments/1cn05hp/conditionnal_compose_modifier/)
-- [Is there any possible workaround for this issue Google hasn&#39;t fixed for 5 months?](https://www.reddit.com/r/androiddev/comments/1cmzoyv/is_there_any_possible_workaround_for_this_issue/)
+- [Update: Google was apparently withholding the real reason for my app rejections/suspension](https://www.reddit.com/r/androiddev/comments/1cob6al/update_google_was_apparently_withholding_the_real/)
+- [Suggestions to a beginner android developer?](https://www.reddit.com/r/androiddev/comments/1co98u4/suggestions_to_a_beginner_android_developer/)
+- [My first Kotlin Android App](https://www.reddit.com/r/androiddev/comments/1co938q/my_first_kotlin_android_app/)
+- [Hilt repo that is injected into an IMEService stops working when the application is closed.](https://www.reddit.com/r/androiddev/comments/1co6ep0/hilt_repo_that_is_injected_into_an_imeservice/)
+- [How to implement dynamic progress bar using XML views for a “story” fragment?!](https://www.reddit.com/r/androiddev/comments/1co4va8/how_to_implement_dynamic_progress_bar_using_xml/)
+- [Is transitioning to Mobile App Development a good idea for me](https://www.reddit.com/r/androiddev/comments/1co4gi6/is_transitioning_to_mobile_app_development_a_good/)
+- [Cannot assign requested address: bind - Jellyfish](https://www.reddit.com/r/androiddev/comments/1co2ooq/cannot_assign_requested_address_bind_jellyfish/)
+- [Question about google review](https://www.reddit.com/r/androiddev/comments/1co09tq/question_about_google_review/)
+- [Issue found: Violation of Subscriptions policy - any ideas why?](https://www.reddit.com/r/androiddev/comments/1cnyvcl/issue_found_violation_of_subscriptions_policy_any/)
+- [Paging3 and infinite scroll both direction &lpar;up/down&rpar;](https://www.reddit.com/r/androiddev/comments/1cnyuld/paging3_and_infinite_scroll_both_direction_updown/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
