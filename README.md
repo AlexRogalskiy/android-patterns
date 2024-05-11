@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Koala | 2024.1.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1covs47/android_studio_koala_202411_beta_1_now_available/)
+- [Questions about ROOM](https://www.reddit.com/r/androiddev/comments/1coutw3/questions_about_room/)
+- [Is there a project that needs help?](https://www.reddit.com/r/androiddev/comments/1comzf0/is_there_a_project_that_needs_help/)
+- [We&#39;ve detected that one or more of the app bundles included in this release are using the following Play Billing Library versions](https://www.reddit.com/r/androiddev/comments/1commej/weve_detected_that_one_or_more_of_the_app_bundles/)
+- [Deploying app to playstore](https://www.reddit.com/r/androiddev/comments/1colpuf/deploying_app_to_playstore/)
 - [Update: Google was apparently withholding the real reason for my app rejections/suspension](https://www.reddit.com/r/androiddev/comments/1cob6al/update_google_was_apparently_withholding_the_real/)
 - [Suggestions to a beginner android developer?](https://www.reddit.com/r/androiddev/comments/1co98u4/suggestions_to_a_beginner_android_developer/)
 - [My first Kotlin Android App](https://www.reddit.com/r/androiddev/comments/1co938q/my_first_kotlin_android_app/)
-- [Hilt repo that is injected into an IMEService stops working when the application is closed.](https://www.reddit.com/r/androiddev/comments/1co6ep0/hilt_repo_that_is_injected_into_an_imeservice/)
 - [How to implement dynamic progress bar using XML views for a “story” fragment?!](https://www.reddit.com/r/androiddev/comments/1co4va8/how_to_implement_dynamic_progress_bar_using_xml/)
 - [Is transitioning to Mobile App Development a good idea for me](https://www.reddit.com/r/androiddev/comments/1co4gi6/is_transitioning_to_mobile_app_development_a_good/)
-- [Cannot assign requested address: bind - Jellyfish](https://www.reddit.com/r/androiddev/comments/1co2ooq/cannot_assign_requested_address_bind_jellyfish/)
-- [Question about google review](https://www.reddit.com/r/androiddev/comments/1co09tq/question_about_google_review/)
-- [Issue found: Violation of Subscriptions policy - any ideas why?](https://www.reddit.com/r/androiddev/comments/1cnyvcl/issue_found_violation_of_subscriptions_policy_any/)
-- [Paging3 and infinite scroll both direction &lpar;up/down&rpar;](https://www.reddit.com/r/androiddev/comments/1cnyuld/paging3_and_infinite_scroll_both_direction_updown/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
