@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AdbXpert - Plugin to save some dev time](https://www.reddit.com/r/androiddev/comments/1cpqpxb/adbxpert_plugin_to_save_some_dev_time/)
+- [How to add a free trial to an already published paid app with customer base ?](https://www.reddit.com/r/androiddev/comments/1cppzqp/how_to_add_a_free_trial_to_an_already_published/)
+- [How do Android Developers Showcase Their Apps?](https://www.reddit.com/r/androiddev/comments/1cpmdt3/how_do_android_developers_showcase_their_apps/)
+- [Have experienced heating problems when using Android Studio?](https://www.reddit.com/r/androiddev/comments/1cplrp6/have_experienced_heating_problems_when_using/)
+- [How can i store and retrieve an AnnoatedString with formatting&lpar;SpanStyle&rpar; from Firebase Firestore?](https://www.reddit.com/r/androiddev/comments/1cpl4oa/how_can_i_store_and_retrieve_an_annoatedstring/)
+- [Please answer me this important question](https://www.reddit.com/r/androiddev/comments/1cpi38a/please_answer_me_this_important_question/)
+- [Is Flutter Facing its End](https://www.reddit.com/r/androiddev/comments/1cpgx6n/is_flutter_facing_its_end/)
+- [AICore API Access?](https://www.reddit.com/r/androiddev/comments/1cpgw6p/aicore_api_access/)
 - [Android Studio Koala | 2024.1.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1covs47/android_studio_koala_202411_beta_1_now_available/)
 - [Questions about ROOM](https://www.reddit.com/r/androiddev/comments/1coutw3/questions_about_room/)
-- [Is there a project that needs help?](https://www.reddit.com/r/androiddev/comments/1comzf0/is_there_a_project_that_needs_help/)
-- [We&#39;ve detected that one or more of the app bundles included in this release are using the following Play Billing Library versions](https://www.reddit.com/r/androiddev/comments/1commej/weve_detected_that_one_or_more_of_the_app_bundles/)
-- [Deploying app to playstore](https://www.reddit.com/r/androiddev/comments/1colpuf/deploying_app_to_playstore/)
-- [Update: Google was apparently withholding the real reason for my app rejections/suspension](https://www.reddit.com/r/androiddev/comments/1cob6al/update_google_was_apparently_withholding_the_real/)
-- [Suggestions to a beginner android developer?](https://www.reddit.com/r/androiddev/comments/1co98u4/suggestions_to_a_beginner_android_developer/)
-- [My first Kotlin Android App](https://www.reddit.com/r/androiddev/comments/1co938q/my_first_kotlin_android_app/)
-- [How to implement dynamic progress bar using XML views for a “story” fragment?!](https://www.reddit.com/r/androiddev/comments/1co4va8/how_to_implement_dynamic_progress_bar_using_xml/)
-- [Is transitioning to Mobile App Development a good idea for me](https://www.reddit.com/r/androiddev/comments/1co4gi6/is_transitioning_to_mobile_app_development_a_good/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
