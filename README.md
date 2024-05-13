@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Build Wear OS application using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1cqidqw/build_wear_os_application_using_jetpack_compose/)
+- [Scoping instance of class to ViewModel of the screen](https://www.reddit.com/r/androiddev/comments/1cqeqay/scoping_instance_of_class_to_viewmodel_of_the/)
+- [Is there any name / predefined component for this behaviour, when appbar changes color when scrolling down?](https://www.reddit.com/r/androiddev/comments/1cq37mc/is_there_any_name_predefined_component_for_this/)
+- [Anybody else receive the &quot;Please justify your app&quot; email?](https://www.reddit.com/r/androiddev/comments/1cq2egt/anybody_else_receive_the_please_justify_your_app/)
 - [AdbXpert - Plugin to save some dev time](https://www.reddit.com/r/androiddev/comments/1cpqpxb/adbxpert_plugin_to_save_some_dev_time/)
 - [How to add a free trial to an already published paid app with customer base ?](https://www.reddit.com/r/androiddev/comments/1cppzqp/how_to_add_a_free_trial_to_an_already_published/)
 - [How do Android Developers Showcase Their Apps?](https://www.reddit.com/r/androiddev/comments/1cpmdt3/how_do_android_developers_showcase_their_apps/)
 - [Have experienced heating problems when using Android Studio?](https://www.reddit.com/r/androiddev/comments/1cplrp6/have_experienced_heating_problems_when_using/)
 - [How can i store and retrieve an AnnoatedString with formatting&lpar;SpanStyle&rpar; from Firebase Firestore?](https://www.reddit.com/r/androiddev/comments/1cpl4oa/how_can_i_store_and_retrieve_an_annoatedstring/)
 - [Please answer me this important question](https://www.reddit.com/r/androiddev/comments/1cpi38a/please_answer_me_this_important_question/)
-- [Is Flutter Facing its End](https://www.reddit.com/r/androiddev/comments/1cpgx6n/is_flutter_facing_its_end/)
-- [AICore API Access?](https://www.reddit.com/r/androiddev/comments/1cpgw6p/aicore_api_access/)
-- [Android Studio Koala | 2024.1.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1covs47/android_studio_koala_202411_beta_1_now_available/)
-- [Questions about ROOM](https://www.reddit.com/r/androiddev/comments/1coutw3/questions_about_room/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
