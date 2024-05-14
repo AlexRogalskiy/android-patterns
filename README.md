@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Build Wear OS application using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1cqidqw/build_wear_os_application_using_jetpack_compose/)
-- [Scoping instance of class to ViewModel of the screen](https://www.reddit.com/r/androiddev/comments/1cqeqay/scoping_instance_of_class_to_viewmodel_of_the/)
-- [Is there any name / predefined component for this behaviour, when appbar changes color when scrolling down?](https://www.reddit.com/r/androiddev/comments/1cq37mc/is_there_any_name_predefined_component_for_this/)
-- [Anybody else receive the &quot;Please justify your app&quot; email?](https://www.reddit.com/r/androiddev/comments/1cq2egt/anybody_else_receive_the_please_justify_your_app/)
-- [AdbXpert - Plugin to save some dev time](https://www.reddit.com/r/androiddev/comments/1cpqpxb/adbxpert_plugin_to_save_some_dev_time/)
-- [How to add a free trial to an already published paid app with customer base ?](https://www.reddit.com/r/androiddev/comments/1cppzqp/how_to_add_a_free_trial_to_an_already_published/)
-- [How do Android Developers Showcase Their Apps?](https://www.reddit.com/r/androiddev/comments/1cpmdt3/how_do_android_developers_showcase_their_apps/)
-- [Have experienced heating problems when using Android Studio?](https://www.reddit.com/r/androiddev/comments/1cplrp6/have_experienced_heating_problems_when_using/)
-- [How can i store and retrieve an AnnoatedString with formatting&lpar;SpanStyle&rpar; from Firebase Firestore?](https://www.reddit.com/r/androiddev/comments/1cpl4oa/how_can_i_store_and_retrieve_an_annoatedstring/)
-- [Please answer me this important question](https://www.reddit.com/r/androiddev/comments/1cpi38a/please_answer_me_this_important_question/)
+- [Overlay not showing in AccessibilityService event](https://www.reddit.com/r/androiddev/comments/1crdyi3/overlay_not_showing_in_accessibilityservice_event/)
+- [Call status notification when calling someone](https://www.reddit.com/r/androiddev/comments/1craods/call_status_notification_when_calling_someone/)
+- [Architecture](https://www.reddit.com/r/androiddev/comments/1cr9fdd/architecture/)
+- [Is there any non-complicated way of fetching current location in Android](https://www.reddit.com/r/androiddev/comments/1cr3iwj/is_there_any_noncomplicated_way_of_fetching/)
+- [Rocky Start](https://www.reddit.com/r/androiddev/comments/1cqz6sa/rocky_start/)
+- [Google Maps and Points](https://www.reddit.com/r/androiddev/comments/1cqxkcs/google_maps_and_points/)
+- [First app](https://www.reddit.com/r/androiddev/comments/1cqxbvz/first_app/)
+- [Q42 is looking for android engineers](https://www.reddit.com/r/androiddev/comments/1cqvnk4/q42_is_looking_for_android_engineers/)
+- [Intermittent issue SocketTimeoutException: failed to connect to host](https://www.reddit.com/r/androiddev/comments/1cqvi1t/intermittent_issue_sockettimeoutexception_failed/)
+- [how can i use wide angle camera](https://www.reddit.com/r/androiddev/comments/1cqu7vu/how_can_i_use_wide_angle_camera/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
