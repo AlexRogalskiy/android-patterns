@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Overlay not showing in AccessibilityService event](https://www.reddit.com/r/androiddev/comments/1crdyi3/overlay_not_showing_in_accessibilityservice_event/)
-- [Call status notification when calling someone](https://www.reddit.com/r/androiddev/comments/1craods/call_status_notification_when_calling_someone/)
-- [Architecture](https://www.reddit.com/r/androiddev/comments/1cr9fdd/architecture/)
-- [Is there any non-complicated way of fetching current location in Android](https://www.reddit.com/r/androiddev/comments/1cr3iwj/is_there_any_noncomplicated_way_of_fetching/)
-- [Rocky Start](https://www.reddit.com/r/androiddev/comments/1cqz6sa/rocky_start/)
-- [Google Maps and Points](https://www.reddit.com/r/androiddev/comments/1cqxkcs/google_maps_and_points/)
-- [First app](https://www.reddit.com/r/androiddev/comments/1cqxbvz/first_app/)
-- [Q42 is looking for android engineers](https://www.reddit.com/r/androiddev/comments/1cqvnk4/q42_is_looking_for_android_engineers/)
-- [Intermittent issue SocketTimeoutException: failed to connect to host](https://www.reddit.com/r/androiddev/comments/1cqvi1t/intermittent_issue_sockettimeoutexception_failed/)
-- [how can i use wide angle camera](https://www.reddit.com/r/androiddev/comments/1cqu7vu/how_can_i_use_wide_angle_camera/)
+- [How to launch/switch applications from code inside a library/aar?](https://www.reddit.com/r/androiddev/comments/1cs7fxu/how_to_launchswitch_applications_from_code_inside/)
+- [Google Officially Supports Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1cs3qka/google_officially_supports_kotlin_multiplatform/)
+- [Launch an app as free won&#39;t let me implement a credit/debit payment?](https://www.reddit.com/r/androiddev/comments/1cs1123/launch_an_app_as_free_wont_let_me_implement_a/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1cs02zq/android_studio_koala_feature_drop_202412_canary_1/)
+- [Can someone guide me on best practices for large SDKs?](https://www.reddit.com/r/androiddev/comments/1cry3su/can_someone_guide_me_on_best_practices_for_large/)
+- [FCM notification not showing icon set in AndroidManifest](https://www.reddit.com/r/androiddev/comments/1crw2hm/fcm_notification_not_showing_icon_set_in/)
+- [It&#39;s more faster to get GPS coordinates from SharedPreferences or from the LocationManager &lpar;system service&rpar;?](https://www.reddit.com/r/androiddev/comments/1crvrdv/its_more_faster_to_get_gps_coordinates_from/)
+- [Android Predictive Back Gesture API Flaws](https://www.reddit.com/r/androiddev/comments/1crtaw1/android_predictive_back_gesture_api_flaws/)
+- [Struggling on improving the knowledge as an Android dev](https://www.reddit.com/r/androiddev/comments/1crre9c/struggling_on_improving_the_knowledge_as_an/)
+- [Would like to get a feedback about my app&#39;s architecture written in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1crr6w5/would_like_to_get_a_feedback_about_my_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
