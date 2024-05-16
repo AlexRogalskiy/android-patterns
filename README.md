@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to launch/switch applications from code inside a library/aar?](https://www.reddit.com/r/androiddev/comments/1cs7fxu/how_to_launchswitch_applications_from_code_inside/)
-- [Google Officially Supports Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1cs3qka/google_officially_supports_kotlin_multiplatform/)
-- [Launch an app as free won&#39;t let me implement a credit/debit payment?](https://www.reddit.com/r/androiddev/comments/1cs1123/launch_an_app_as_free_wont_let_me_implement_a/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1cs02zq/android_studio_koala_feature_drop_202412_canary_1/)
-- [Can someone guide me on best practices for large SDKs?](https://www.reddit.com/r/androiddev/comments/1cry3su/can_someone_guide_me_on_best_practices_for_large/)
-- [FCM notification not showing icon set in AndroidManifest](https://www.reddit.com/r/androiddev/comments/1crw2hm/fcm_notification_not_showing_icon_set_in/)
-- [It&#39;s more faster to get GPS coordinates from SharedPreferences or from the LocationManager &lpar;system service&rpar;?](https://www.reddit.com/r/androiddev/comments/1crvrdv/its_more_faster_to_get_gps_coordinates_from/)
-- [Android Predictive Back Gesture API Flaws](https://www.reddit.com/r/androiddev/comments/1crtaw1/android_predictive_back_gesture_api_flaws/)
-- [Struggling on improving the knowledge as an Android dev](https://www.reddit.com/r/androiddev/comments/1crre9c/struggling_on_improving_the_knowledge_as_an/)
-- [Would like to get a feedback about my app&#39;s architecture written in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1crr6w5/would_like_to_get_a_feedback_about_my_apps/)
+- [AndroidStudio](https://www.reddit.com/r/androiddev/comments/1ct1ojs/androidstudio/)
+- [Is it worth it to build a Android app?](https://www.reddit.com/r/androiddev/comments/1csziii/is_it_worth_it_to_build_a_android_app/)
+- [Google Play Android App Update Approval Delays](https://www.reddit.com/r/androiddev/comments/1csyeap/google_play_android_app_update_approval_delays/)
+- [Android 15 beta 2 new changes](https://www.reddit.com/r/androiddev/comments/1csvfe7/android_15_beta_2_new_changes/)
+- [Am I crazy or is there a problem with the implementation of collectAsStateWithLifecycle?](https://www.reddit.com/r/androiddev/comments/1csucac/am_i_crazy_or_is_there_a_problem_with_the/)
+- [Unveiling SharedFlow: Exploring its Inner Workings!](https://www.reddit.com/r/androiddev/comments/1cstef9/unveiling_sharedflow_exploring_its_inner_workings/)
+- [Android Studio Koala | 2024.1.1 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/1csob48/android_studio_koala_202411_beta_2_now_available/)
+- [Which activity launch mode prevents the calling of onNewIntent&lpar;&rpar; if onCreate&lpar;&rpar; was called?](https://www.reddit.com/r/androiddev/comments/1csnzif/which_activity_launch_mode_prevents_the_calling/)
+- [Video: Looking Forward to Kotlin 2.0](https://www.reddit.com/r/androiddev/comments/1csmvgs/video_looking_forward_to_kotlin_20/)
+- [Injecting Composables with Dagger without losing it](https://www.reddit.com/r/androiddev/comments/1csmpli/injecting_composables_with_dagger_without_losing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
