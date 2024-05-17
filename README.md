@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AndroidStudio](https://www.reddit.com/r/androiddev/comments/1ct1ojs/androidstudio/)
-- [Is it worth it to build a Android app?](https://www.reddit.com/r/androiddev/comments/1csziii/is_it_worth_it_to_build_a_android_app/)
-- [Google Play Android App Update Approval Delays](https://www.reddit.com/r/androiddev/comments/1csyeap/google_play_android_app_update_approval_delays/)
-- [Android 15 beta 2 new changes](https://www.reddit.com/r/androiddev/comments/1csvfe7/android_15_beta_2_new_changes/)
-- [Am I crazy or is there a problem with the implementation of collectAsStateWithLifecycle?](https://www.reddit.com/r/androiddev/comments/1csucac/am_i_crazy_or_is_there_a_problem_with_the/)
-- [Unveiling SharedFlow: Exploring its Inner Workings!](https://www.reddit.com/r/androiddev/comments/1cstef9/unveiling_sharedflow_exploring_its_inner_workings/)
-- [Android Studio Koala | 2024.1.1 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/1csob48/android_studio_koala_202411_beta_2_now_available/)
-- [Which activity launch mode prevents the calling of onNewIntent&lpar;&rpar; if onCreate&lpar;&rpar; was called?](https://www.reddit.com/r/androiddev/comments/1csnzif/which_activity_launch_mode_prevents_the_calling/)
-- [Video: Looking Forward to Kotlin 2.0](https://www.reddit.com/r/androiddev/comments/1csmvgs/video_looking_forward_to_kotlin_20/)
-- [Injecting Composables with Dagger without losing it](https://www.reddit.com/r/androiddev/comments/1csmpli/injecting_composables_with_dagger_without_losing/)
+- [Should a viewmodel be used for splitting UI and business logic or only for sharing data?](https://www.reddit.com/r/androiddev/comments/1cttfy9/should_a_viewmodel_be_used_for_splitting_ui_and/)
+- [Republish an App removed from Playstore for a year and Losing all keywords including its own name in search?](https://www.reddit.com/r/androiddev/comments/1cts9q2/republish_an_app_removed_from_playstore_for_a/)
+- [Does anyone happen to know of a library that can identify a webcam connected via USB?](https://www.reddit.com/r/androiddev/comments/1ctrvxn/does_anyone_happen_to_know_of_a_library_that_can/)
+- [Who is going to droidcon SF this year?](https://www.reddit.com/r/androiddev/comments/1ctro9g/who_is_going_to_droidcon_sf_this_year/)
+- [Navigation Bar Swipe Gestures](https://www.reddit.com/r/androiddev/comments/1ctqun5/navigation_bar_swipe_gestures/)
+- [Passkeys will show up in Gboard on Android 15 and come to Wear OS 5](https://www.reddit.com/r/androiddev/comments/1ctp13y/passkeys_will_show_up_in_gboard_on_android_15_and/)
+- [Seeking Feedback: Offline Password Manager for Android with Nearby Connections Sync](https://www.reddit.com/r/androiddev/comments/1ctnc0k/seeking_feedback_offline_password_manager_for/)
+- [Deleting an app and starting over on the Google Play Store, is it possible?](https://www.reddit.com/r/androiddev/comments/1ctmr6z/deleting_an_app_and_starting_over_on_the_google/)
+- [How can I ensure that my app is able to receive SMS at all times? I need guidance.](https://www.reddit.com/r/androiddev/comments/1ctjutj/how_can_i_ensure_that_my_app_is_able_to_receive/)
+- [Google IO announced &quot;private space&quot;](https://www.reddit.com/r/androiddev/comments/1cti2f4/google_io_announced_private_space/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
