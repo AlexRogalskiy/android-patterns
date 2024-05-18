@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Should a viewmodel be used for splitting UI and business logic or only for sharing data?](https://www.reddit.com/r/androiddev/comments/1cttfy9/should_a_viewmodel_be_used_for_splitting_ui_and/)
-- [Republish an App removed from Playstore for a year and Losing all keywords including its own name in search?](https://www.reddit.com/r/androiddev/comments/1cts9q2/republish_an_app_removed_from_playstore_for_a/)
-- [Does anyone happen to know of a library that can identify a webcam connected via USB?](https://www.reddit.com/r/androiddev/comments/1ctrvxn/does_anyone_happen_to_know_of_a_library_that_can/)
-- [Who is going to droidcon SF this year?](https://www.reddit.com/r/androiddev/comments/1ctro9g/who_is_going_to_droidcon_sf_this_year/)
-- [Navigation Bar Swipe Gestures](https://www.reddit.com/r/androiddev/comments/1ctqun5/navigation_bar_swipe_gestures/)
-- [Passkeys will show up in Gboard on Android 15 and come to Wear OS 5](https://www.reddit.com/r/androiddev/comments/1ctp13y/passkeys_will_show_up_in_gboard_on_android_15_and/)
-- [Seeking Feedback: Offline Password Manager for Android with Nearby Connections Sync](https://www.reddit.com/r/androiddev/comments/1ctnc0k/seeking_feedback_offline_password_manager_for/)
-- [Deleting an app and starting over on the Google Play Store, is it possible?](https://www.reddit.com/r/androiddev/comments/1ctmr6z/deleting_an_app_and_starting_over_on_the_google/)
-- [How can I ensure that my app is able to receive SMS at all times? I need guidance.](https://www.reddit.com/r/androiddev/comments/1ctjutj/how_can_i_ensure_that_my_app_is_able_to_receive/)
-- [Google IO announced &quot;private space&quot;](https://www.reddit.com/r/androiddev/comments/1cti2f4/google_io_announced_private_space/)
+- [Google Wants 14 More Days For Production Testing](https://www.reddit.com/r/androiddev/comments/1cufd2z/google_wants_14_more_days_for_production_testing/)
+- [QUESTION: Can One Company Create Multiple Developer Accounts?](https://www.reddit.com/r/androiddev/comments/1cuesbk/question_can_one_company_create_multiple/)
+- [Do I need Terms of Service in order to publish my app on PlayStore?](https://www.reddit.com/r/androiddev/comments/1cuchmh/do_i_need_terms_of_service_in_order_to_publish_my/)
+- [Any Kotlin course recommendations for non-beginner with WearOS dev as a goal?](https://www.reddit.com/r/androiddev/comments/1cuauhr/any_kotlin_course_recommendations_for_nonbeginner/)
+- [How can i set gradient background on annotatedString in jetpack compose on android?](https://www.reddit.com/r/androiddev/comments/1cuamb9/how_can_i_set_gradient_background_on/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1cuac7b/android_studio_koala_feature_drop_202412_canary_2/)
+- [Issue with Long Press Gesture on Samsung Ultra 24 Devices](https://www.reddit.com/r/androiddev/comments/1cu2hse/issue_with_long_press_gesture_on_samsung_ultra_24/)
+- [Get notification data from all notifications of bundle/group clicked](https://www.reddit.com/r/androiddev/comments/1cu14xr/get_notification_data_from_all_notifications_of/)
+- [Gemini Nano: On-device AI solution](https://www.reddit.com/r/androiddev/comments/1ctz5je/gemini_nano_ondevice_ai_solution/)
+- [Android TV form factor review times](https://www.reddit.com/r/androiddev/comments/1ctyyvq/android_tv_form_factor_review_times/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
