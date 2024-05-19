@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Wants 14 More Days For Production Testing](https://www.reddit.com/r/androiddev/comments/1cufd2z/google_wants_14_more_days_for_production_testing/)
-- [QUESTION: Can One Company Create Multiple Developer Accounts?](https://www.reddit.com/r/androiddev/comments/1cuesbk/question_can_one_company_create_multiple/)
-- [Do I need Terms of Service in order to publish my app on PlayStore?](https://www.reddit.com/r/androiddev/comments/1cuchmh/do_i_need_terms_of_service_in_order_to_publish_my/)
-- [Any Kotlin course recommendations for non-beginner with WearOS dev as a goal?](https://www.reddit.com/r/androiddev/comments/1cuauhr/any_kotlin_course_recommendations_for_nonbeginner/)
-- [How can i set gradient background on annotatedString in jetpack compose on android?](https://www.reddit.com/r/androiddev/comments/1cuamb9/how_can_i_set_gradient_background_on/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1cuac7b/android_studio_koala_feature_drop_202412_canary_2/)
-- [Issue with Long Press Gesture on Samsung Ultra 24 Devices](https://www.reddit.com/r/androiddev/comments/1cu2hse/issue_with_long_press_gesture_on_samsung_ultra_24/)
-- [Get notification data from all notifications of bundle/group clicked](https://www.reddit.com/r/androiddev/comments/1cu14xr/get_notification_data_from_all_notifications_of/)
-- [Gemini Nano: On-device AI solution](https://www.reddit.com/r/androiddev/comments/1ctz5je/gemini_nano_ondevice_ai_solution/)
-- [Android TV form factor review times](https://www.reddit.com/r/androiddev/comments/1ctyyvq/android_tv_form_factor_review_times/)
+- [Looking for an Android Developer for a Fintech Startup!](https://www.reddit.com/r/androiddev/comments/1cv9nxe/looking_for_an_android_developer_for_a_fintech/)
+- [Creativity session](https://www.reddit.com/r/androiddev/comments/1cv867q/creativity_session/)
+- [AdMob on one account, Google dev account on other](https://www.reddit.com/r/androiddev/comments/1cv7nkc/admob_on_one_account_google_dev_account_on_other/)
+- [AdMob on one account, Google dev account on other](https://www.reddit.com/r/androiddev/comments/1cv7mej/admob_on_one_account_google_dev_account_on_other/)
+- [Database choice for project](https://www.reddit.com/r/androiddev/comments/1cv6vrn/database_choice_for_project/)
+- [Subreddit to hire an Android dev to make some modifications to an opensource app?](https://www.reddit.com/r/androiddev/comments/1cv3kz3/subreddit_to_hire_an_android_dev_to_make_some/)
+- [Simplify compliance with Google | Checks](https://www.reddit.com/r/androiddev/comments/1cuxjhs/simplify_compliance_with_google_checks/)
+- [How to move accessibiklity focus and announce a message in Compose ?](https://www.reddit.com/r/androiddev/comments/1cux52h/how_to_move_accessibiklity_focus_and_announce_a/)
+- [Data Class vs Class - Internal Working](https://www.reddit.com/r/androiddev/comments/1cuwsc4/data_class_vs_class_internal_working/)
+- [Can i keep IAP subscriptions while submitting the build](https://www.reddit.com/r/androiddev/comments/1cuwqko/can_i_keep_iap_subscriptions_while_submitting_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
