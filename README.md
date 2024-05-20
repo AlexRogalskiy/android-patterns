@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for an Android Developer for a Fintech Startup!](https://www.reddit.com/r/androiddev/comments/1cv9nxe/looking_for_an_android_developer_for_a_fintech/)
-- [Creativity session](https://www.reddit.com/r/androiddev/comments/1cv867q/creativity_session/)
-- [AdMob on one account, Google dev account on other](https://www.reddit.com/r/androiddev/comments/1cv7nkc/admob_on_one_account_google_dev_account_on_other/)
-- [AdMob on one account, Google dev account on other](https://www.reddit.com/r/androiddev/comments/1cv7mej/admob_on_one_account_google_dev_account_on_other/)
-- [Database choice for project](https://www.reddit.com/r/androiddev/comments/1cv6vrn/database_choice_for_project/)
-- [Subreddit to hire an Android dev to make some modifications to an opensource app?](https://www.reddit.com/r/androiddev/comments/1cv3kz3/subreddit_to_hire_an_android_dev_to_make_some/)
-- [Simplify compliance with Google | Checks](https://www.reddit.com/r/androiddev/comments/1cuxjhs/simplify_compliance_with_google_checks/)
-- [How to move accessibiklity focus and announce a message in Compose ?](https://www.reddit.com/r/androiddev/comments/1cux52h/how_to_move_accessibiklity_focus_and_announce_a/)
-- [Data Class vs Class - Internal Working](https://www.reddit.com/r/androiddev/comments/1cuwsc4/data_class_vs_class_internal_working/)
-- [Can i keep IAP subscriptions while submitting the build](https://www.reddit.com/r/androiddev/comments/1cuwqko/can_i_keep_iap_subscriptions_while_submitting_the/)
+- [Refresh Fragment when text is changed in Activity &lpar;Working with Firebase&rpar;](https://www.reddit.com/r/androiddev/comments/1cvw3rs/refresh_fragment_when_text_is_changed_in_activity/)
+- [Looking for a cheap device to use instead of AS emulators. Which cheap devices do you suggest?](https://www.reddit.com/r/androiddev/comments/1cvuet3/looking_for_a_cheap_device_to_use_instead_of_as/)
+- [How do I dynamically choose a field&#39;s value in my factory class based on user input?](https://www.reddit.com/r/androiddev/comments/1cvsbpl/how_do_i_dynamically_choose_a_fields_value_in_my/)
+- [&lpar;Fitness&rpar; Recording API: is this out yet, and if not, are there any better alternatives to foreground service?](https://www.reddit.com/r/androiddev/comments/1cvpamv/fitness_recording_api_is_this_out_yet_and_if_not/)
+- [Coroutines under the hood.](https://www.reddit.com/r/androiddev/comments/1cvoqq5/coroutines_under_the_hood/)
+- [Build keeps failing not sure why](https://www.reddit.com/r/androiddev/comments/1cvogal/build_keeps_failing_not_sure_why/)
+- [What are the tax implications of paid android apps?](https://www.reddit.com/r/androiddev/comments/1cvo9rp/what_are_the_tax_implications_of_paid_android_apps/)
+- [Hey , can anyone suggest me a course / resources regarding the development of widgets in android !](https://www.reddit.com/r/androiddev/comments/1cvn4b2/hey_can_anyone_suggest_me_a_course_resources/)
+- [Animation not playing when clicking on notification while app is in foreground](https://www.reddit.com/r/androiddev/comments/1cvk745/animation_not_playing_when_clicking_on/)
+- [I am desperate and need help for Offline Syncronization for Android app &lpar;MySql - SqlLite&rpar;Ktor-retrofit](https://www.reddit.com/r/androiddev/comments/1cvdsbo/i_am_desperate_and_need_help_for_offline/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
