@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it normal that it takes Google over a month to verify my identity?](https://www.reddit.com/r/androiddev/comments/1cwspep/is_it_normal_that_it_takes_google_over_a_month_to/)
-- [📐 Blueprint — Visualize the Dimensions of Your Composables on a Blueprint!](https://www.reddit.com/r/androiddev/comments/1cwprto/blueprint_visualize_the_dimensions_of_your/)
-- [Question about data safety, what counts as &quot;sharing&quot; and what is &quot;reasonable expectation&quot;](https://www.reddit.com/r/androiddev/comments/1cwpf96/question_about_data_safety_what_counts_as_sharing/)
-- [Enhance Your Design System Workflow with Kelp Plugin for Android Studio](https://www.reddit.com/r/androiddev/comments/1cwpck9/enhance_your_design_system_workflow_with_kelp/)
-- [App vs Website Subscriptions: Payment Advice for Meal Ordering App](https://www.reddit.com/r/androiddev/comments/1cwnsmd/app_vs_website_subscriptions_payment_advice_for/)
-- [Can I use IAP &lpar; in app purchase and stripe for different services in the same app &rpar;](https://www.reddit.com/r/androiddev/comments/1cwm6v5/can_i_use_iap_in_app_purchase_and_stripe_for/)
-- [Is it possible to inflate menu xml file into jet pack compose top bar?](https://www.reddit.com/r/androiddev/comments/1cwm2tj/is_it_possible_to_inflate_menu_xml_file_into_jet/)
-- [Android Studio Jellyfish | 2023.3.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1cwlvqx/android_studio_jellyfish_202331_patch_1_now/)
-- [Telemedicine App with a Heart Rate Device integrated - First Ever Mobile App Project for a Student -](https://www.reddit.com/r/androiddev/comments/1cwkrrv/telemedicine_app_with_a_heart_rate_device/)
-- [Check Out My New Android App: Bing Maps KML Viewer!](https://www.reddit.com/r/androiddev/comments/1cwiquo/check_out_my_new_android_app_bing_maps_kml_viewer/)
+- [AdMob IDs before Google Play release?](https://www.reddit.com/r/androiddev/comments/1cxnnrd/admob_ids_before_google_play_release/)
+- [Is it realistic to expect getting US$ 50 monthly in Amazon App Store?](https://www.reddit.com/r/androiddev/comments/1cxmod4/is_it_realistic_to_expect_getting_us_50_monthly/)
+- [Kotlin 2.0 released: What&#39;s new](https://www.reddit.com/r/androiddev/comments/1cxlbr5/kotlin_20_released_whats_new/)
+- [Is Jetpack Compose a good start to begin android development?](https://www.reddit.com/r/androiddev/comments/1cxiymj/is_jetpack_compose_a_good_start_to_begin_android/)
+- [How to avoid app freeze after while adding points to google maps](https://www.reddit.com/r/androiddev/comments/1cxg5d3/how_to_avoid_app_freeze_after_while_adding_points/)
+- [How to get screen captures from android at a lower latency?](https://www.reddit.com/r/androiddev/comments/1cxfelv/how_to_get_screen_captures_from_android_at_a/)
+- [How Much Does It Cost To Create A Healthcare Application](https://www.reddit.com/r/androiddev/comments/1cxfcgc/how_much_does_it_cost_to_create_a_healthcare/)
+- [Best way to do cross platform app development in current times](https://www.reddit.com/r/androiddev/comments/1cxet88/best_way_to_do_cross_platform_app_development_in/)
+- [I love how this subreddit is going](https://www.reddit.com/r/androiddev/comments/1cxe5xn/i_love_how_this_subreddit_is_going/)
+- [Less Gemini](https://www.reddit.com/r/androiddev/comments/1cxdij3/less_gemini/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
