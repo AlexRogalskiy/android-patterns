@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AdMob IDs before Google Play release?](https://www.reddit.com/r/androiddev/comments/1cxnnrd/admob_ids_before_google_play_release/)
-- [Is it realistic to expect getting US$ 50 monthly in Amazon App Store?](https://www.reddit.com/r/androiddev/comments/1cxmod4/is_it_realistic_to_expect_getting_us_50_monthly/)
-- [Kotlin 2.0 released: What&#39;s new](https://www.reddit.com/r/androiddev/comments/1cxlbr5/kotlin_20_released_whats_new/)
-- [Is Jetpack Compose a good start to begin android development?](https://www.reddit.com/r/androiddev/comments/1cxiymj/is_jetpack_compose_a_good_start_to_begin_android/)
-- [How to avoid app freeze after while adding points to google maps](https://www.reddit.com/r/androiddev/comments/1cxg5d3/how_to_avoid_app_freeze_after_while_adding_points/)
-- [How to get screen captures from android at a lower latency?](https://www.reddit.com/r/androiddev/comments/1cxfelv/how_to_get_screen_captures_from_android_at_a/)
-- [How Much Does It Cost To Create A Healthcare Application](https://www.reddit.com/r/androiddev/comments/1cxfcgc/how_much_does_it_cost_to_create_a_healthcare/)
-- [Best way to do cross platform app development in current times](https://www.reddit.com/r/androiddev/comments/1cxet88/best_way_to_do_cross_platform_app_development_in/)
-- [I love how this subreddit is going](https://www.reddit.com/r/androiddev/comments/1cxe5xn/i_love_how_this_subreddit_is_going/)
-- [Less Gemini](https://www.reddit.com/r/androiddev/comments/1cxdij3/less_gemini/)
+- [Been Searching for a Solution for Nearly a Month!](https://www.reddit.com/r/androiddev/comments/1cyau00/been_searching_for_a_solution_for_nearly_a_month/)
+- [How to change the font size of the green documentation above functions in a library in Android Studio?](https://www.reddit.com/r/androiddev/comments/1cy9t03/how_to_change_the_font_size_of_the_green/)
+- [Looking for advice - mid level dev for a role being the only Android developer](https://www.reddit.com/r/androiddev/comments/1cy9ay5/looking_for_advice_mid_level_dev_for_a_role_being/)
+- [Alias not ID for plugins in gradle?](https://www.reddit.com/r/androiddev/comments/1cy8fho/alias_not_id_for_plugins_in_gradle/)
+- [Safe Args Navigation in CMP](https://www.reddit.com/r/androiddev/comments/1cy7mcv/safe_args_navigation_in_cmp/)
+- [Caching Strategies in Android](https://www.reddit.com/r/androiddev/comments/1cy5r7g/caching_strategies_in_android/)
+- [Why PWAs have not taken over and they ever will?](https://www.reddit.com/r/androiddev/comments/1cy5g53/why_pwas_have_not_taken_over_and_they_ever_will/)
+- [How to profile HWUI &lpar;GPU&rpar; using ADB shell?](https://www.reddit.com/r/androiddev/comments/1cy4sya/how_to_profile_hwui_gpu_using_adb_shell/)
+- [Screen rotation detection](https://www.reddit.com/r/androiddev/comments/1cy41cd/screen_rotation_detection/)
+- [Mastering Jetpack Compose Performance: Part 2](https://www.reddit.com/r/androiddev/comments/1cy0xp6/mastering_jetpack_compose_performance_part_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
