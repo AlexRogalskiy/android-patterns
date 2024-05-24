@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Been Searching for a Solution for Nearly a Month!](https://www.reddit.com/r/androiddev/comments/1cyau00/been_searching_for_a_solution_for_nearly_a_month/)
-- [How to change the font size of the green documentation above functions in a library in Android Studio?](https://www.reddit.com/r/androiddev/comments/1cy9t03/how_to_change_the_font_size_of_the_green/)
-- [Looking for advice - mid level dev for a role being the only Android developer](https://www.reddit.com/r/androiddev/comments/1cy9ay5/looking_for_advice_mid_level_dev_for_a_role_being/)
-- [Alias not ID for plugins in gradle?](https://www.reddit.com/r/androiddev/comments/1cy8fho/alias_not_id_for_plugins_in_gradle/)
-- [Safe Args Navigation in CMP](https://www.reddit.com/r/androiddev/comments/1cy7mcv/safe_args_navigation_in_cmp/)
-- [Caching Strategies in Android](https://www.reddit.com/r/androiddev/comments/1cy5r7g/caching_strategies_in_android/)
-- [Why PWAs have not taken over and they ever will?](https://www.reddit.com/r/androiddev/comments/1cy5g53/why_pwas_have_not_taken_over_and_they_ever_will/)
-- [How to profile HWUI &lpar;GPU&rpar; using ADB shell?](https://www.reddit.com/r/androiddev/comments/1cy4sya/how_to_profile_hwui_gpu_using_adb_shell/)
-- [Screen rotation detection](https://www.reddit.com/r/androiddev/comments/1cy41cd/screen_rotation_detection/)
-- [Mastering Jetpack Compose Performance: Part 2](https://www.reddit.com/r/androiddev/comments/1cy0xp6/mastering_jetpack_compose_performance_part_2/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1cz7hvv/android_studio_koala_feature_drop_202412_canary_3/)
+- [Model-Viewer 3D webview Config , Model loaded is pixelated and blurry , Support](https://www.reddit.com/r/androiddev/comments/1cyzk27/modelviewer_3d_webview_config_model_loaded_is/)
+- [MediaPlayer HTTP stream stops after a few seconds](https://www.reddit.com/r/androiddev/comments/1cyww71/mediaplayer_http_stream_stops_after_a_few_seconds/)
+- [Running Python Scripts with apps](https://www.reddit.com/r/androiddev/comments/1cyvmzf/running_python_scripts_with_apps/)
+- [Error in handling content uri](https://www.reddit.com/r/androiddev/comments/1cyvf32/error_in_handling_content_uri/)
+- [Google Play alternative billing solutions?](https://www.reddit.com/r/androiddev/comments/1cytfaq/google_play_alternative_billing_solutions/)
+- [Is there an app monitoring tool that helps figuring out the root cause of issues](https://www.reddit.com/r/androiddev/comments/1cysllz/is_there_an_app_monitoring_tool_that_helps/)
+- [Help with Google Maps Android SDK v18.2.0](https://www.reddit.com/r/androiddev/comments/1cyrghx/help_with_google_maps_android_sdk_v1820/)
+- [App removed due to price displayed has currency differences.](https://www.reddit.com/r/androiddev/comments/1cyqu8e/app_removed_due_to_price_displayed_has_currency/)
+- [Foreground service without notification?](https://www.reddit.com/r/androiddev/comments/1cyobll/foreground_service_without_notification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
