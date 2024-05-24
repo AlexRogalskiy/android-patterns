@@ -286,6 +286,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JetBrains debuts Kotlin 2.0.0 with K2 compiler performance boost](https://www.infoworld.com/article/3715312/jetbrains-debuts-kotlin-200-with-k2-compiler-performance-boost.html#tk.rss_android)
 - [Android 15 reaches beta](https://www.infoworld.com/article/3715401/android-15-reaches-beta.html#tk.rss_android)
 - [Kotlin keeps climbing the Tiobe popularity index](https://www.infoworld.com/article/3710290/kotlin-keeps-climbing-the-tiobe-popularity-index.html#tk.rss_android)
 - [Building for Linux and Android on Windows](https://www.infoworld.com/article/3707729/building-for-linux-and-android-on-windows.html#tk.rss_android)
@@ -295,7 +296,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Android Studio Flamingo upgrades UI tooling](https://www.infoworld.com/article/3693588/android-studio-flamingo-ide-enhances-ui-building.html#tk.rss_android)
 - [Android 14 preview for developers arrives](https://www.infoworld.com/article/3687731/android-14-preview-for-developers-arrives.html#tk.rss_android)
 - [What is Kotlin? The Java alternative explained](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html#tk.rss_android)
-- [Android 13 brings themed app icons, security tweaks](https://www.infoworld.com/article/3669860/android-13-brings-themed-app-icons-security-tweaks.html#tk.rss_android)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
