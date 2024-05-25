@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Koala Feature Drop | 2024.1.2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1cz7hvv/android_studio_koala_feature_drop_202412_canary_3/)
-- [Model-Viewer 3D webview Config , Model loaded is pixelated and blurry , Support](https://www.reddit.com/r/androiddev/comments/1cyzk27/modelviewer_3d_webview_config_model_loaded_is/)
-- [MediaPlayer HTTP stream stops after a few seconds](https://www.reddit.com/r/androiddev/comments/1cyww71/mediaplayer_http_stream_stops_after_a_few_seconds/)
-- [Running Python Scripts with apps](https://www.reddit.com/r/androiddev/comments/1cyvmzf/running_python_scripts_with_apps/)
-- [Error in handling content uri](https://www.reddit.com/r/androiddev/comments/1cyvf32/error_in_handling_content_uri/)
-- [Google Play alternative billing solutions?](https://www.reddit.com/r/androiddev/comments/1cytfaq/google_play_alternative_billing_solutions/)
-- [Is there an app monitoring tool that helps figuring out the root cause of issues](https://www.reddit.com/r/androiddev/comments/1cysllz/is_there_an_app_monitoring_tool_that_helps/)
-- [Help with Google Maps Android SDK v18.2.0](https://www.reddit.com/r/androiddev/comments/1cyrghx/help_with_google_maps_android_sdk_v1820/)
-- [App removed due to price displayed has currency differences.](https://www.reddit.com/r/androiddev/comments/1cyqu8e/app_removed_due_to_price_displayed_has_currency/)
-- [Foreground service without notification?](https://www.reddit.com/r/androiddev/comments/1cyobll/foreground_service_without_notification/)
+- [New Android App - WhatsApp Notification Reader &lpar;Upload Messages to Firebase&rpar;](https://www.reddit.com/r/androiddev/comments/1czrke3/new_android_app_whatsapp_notification_reader/)
+- [Activity stack not working properly](https://www.reddit.com/r/androiddev/comments/1czoohu/activity_stack_not_working_properly/)
+- [RobotQA Android Studio Plugin for Remote Debugging](https://www.reddit.com/r/androiddev/comments/1czm7cl/robotqa_android_studio_plugin_for_remote_debugging/)
+- [Data on Bluetooth Devices that are near Bluetooth Devices that are near me](https://www.reddit.com/r/androiddev/comments/1czlr53/data_on_bluetooth_devices_that_are_near_bluetooth/)
+- [How to : Migrate to K2, Kotlin DSL &lpar;Groovy build.gradle -&gt; build.gradle.kts&rpar; without killing yourself ?](https://www.reddit.com/r/androiddev/comments/1czkp0k/how_to_migrate_to_k2_kotlin_dsl_groovy/)
+- [How to correctly integrate Kotlin 2 in Android via build-logic module](https://www.reddit.com/r/androiddev/comments/1czk7ox/how_to_correctly_integrate_kotlin_2_in_android/)
+- [Ryzen 3 4300g, ASROCK A520m hdv, ripjaws 16gb X 2 &lpar;3200mhz&rpar;, 500gb nvme2 ssd](https://www.reddit.com/r/androiddev/comments/1czjlt0/ryzen_3_4300g_asrock_a520m_hdv_ripjaws_16gb_x_2/)
+- [OpenCV memory leaks](https://www.reddit.com/r/androiddev/comments/1czioxy/opencv_memory_leaks/)
+- [Exploring Shared Element Transition with Navigation in Compose](https://www.reddit.com/r/androiddev/comments/1czhjsu/exploring_shared_element_transition_with/)
+- [Question about google advertising for an android app](https://www.reddit.com/r/androiddev/comments/1czfn95/question_about_google_advertising_for_an_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
