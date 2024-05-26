@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Snake Game with Compose Multiplatform 🐍🕹️](https://www.reddit.com/r/androiddev/comments/1d0n62d/snake_game_with_compose_multiplatform/)
+- [Thoughts on leaving Android development](https://www.reddit.com/r/androiddev/comments/1d0k9kj/thoughts_on_leaving_android_development/)
+- [Developing a Money Transfer App](https://www.reddit.com/r/androiddev/comments/1d0j1oe/developing_a_money_transfer_app/)
+- [How the hell do you detect keyboard closing in Compose](https://www.reddit.com/r/androiddev/comments/1d0f9wc/how_the_hell_do_you_detect_keyboard_closing_in/)
+- [Publishing Android app from own website and keeping app updated &lpar;and safe&rpar;?](https://www.reddit.com/r/androiddev/comments/1d0952w/publishing_android_app_from_own_website_and/)
+- [People pro in Android Development, share the most valuable lessons that you learnt on how to be pro at it](https://www.reddit.com/r/androiddev/comments/1d0945k/people_pro_in_android_development_share_the_most/)
+- [Is it possible to find out in the app which play experiment was the app installed from?](https://www.reddit.com/r/androiddev/comments/1d0810n/is_it_possible_to_find_out_in_the_app_which_play/)
 - [New Android App - WhatsApp Notification Reader &lpar;Upload Messages to Firebase&rpar;](https://www.reddit.com/r/androiddev/comments/1czrke3/new_android_app_whatsapp_notification_reader/)
 - [Activity stack not working properly](https://www.reddit.com/r/androiddev/comments/1czoohu/activity_stack_not_working_properly/)
 - [RobotQA Android Studio Plugin for Remote Debugging](https://www.reddit.com/r/androiddev/comments/1czm7cl/robotqa_android_studio_plugin_for_remote_debugging/)
-- [Data on Bluetooth Devices that are near Bluetooth Devices that are near me](https://www.reddit.com/r/androiddev/comments/1czlr53/data_on_bluetooth_devices_that_are_near_bluetooth/)
-- [How to : Migrate to K2, Kotlin DSL &lpar;Groovy build.gradle -&gt; build.gradle.kts&rpar; without killing yourself ?](https://www.reddit.com/r/androiddev/comments/1czkp0k/how_to_migrate_to_k2_kotlin_dsl_groovy/)
-- [How to correctly integrate Kotlin 2 in Android via build-logic module](https://www.reddit.com/r/androiddev/comments/1czk7ox/how_to_correctly_integrate_kotlin_2_in_android/)
-- [Ryzen 3 4300g, ASROCK A520m hdv, ripjaws 16gb X 2 &lpar;3200mhz&rpar;, 500gb nvme2 ssd](https://www.reddit.com/r/androiddev/comments/1czjlt0/ryzen_3_4300g_asrock_a520m_hdv_ripjaws_16gb_x_2/)
-- [OpenCV memory leaks](https://www.reddit.com/r/androiddev/comments/1czioxy/opencv_memory_leaks/)
-- [Exploring Shared Element Transition with Navigation in Compose](https://www.reddit.com/r/androiddev/comments/1czhjsu/exploring_shared_element_transition_with/)
-- [Question about google advertising for an android app](https://www.reddit.com/r/androiddev/comments/1czfn95/question_about_google_advertising_for_an_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
