@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Native library file not found at runtime](https://www.reddit.com/r/androiddev/comments/1d1dvbu/android_native_library_file_not_found_at_runtime/)
+- [Need help flashing custom ROM on Tecno MOBILE BF6 &lpar;With Windows 10 PC, and/or TWRP Recovery / any other custom bootloader&rpar;.](https://www.reddit.com/r/androiddev/comments/1d18zk8/need_help_flashing_custom_rom_on_tecno_mobile_bf6/)
+- [Dispatch Issue #2: 🍨 Inside scoop from Google I/O, interesting conversations and updates from the event &amp; a tip to using Gemini in Android Studio without compromising sensitive IP](https://www.reddit.com/r/androiddev/comments/1d15j73/dispatch_issue_2_inside_scoop_from_google_io/)
+- [gRPC in Android](https://www.reddit.com/r/androiddev/comments/1d14sfg/grpc_in_android/)
+- [Exploring the Compose Preview Screenshot Testing tool](https://www.reddit.com/r/androiddev/comments/1d1281m/exploring_the_compose_preview_screenshot_testing/)
+- [Can&#39;t seem to understand how to implement firebase auth as Microsoft login. Help!](https://www.reddit.com/r/androiddev/comments/1d0xdr7/cant_seem_to_understand_how_to_implement_firebase/)
+- [Service, when started from another app, won&#39;t stop from notification bar](https://www.reddit.com/r/androiddev/comments/1d0vo0y/service_when_started_from_another_app_wont_stop/)
+- [Introducing Yamvil: MVI Infrastructure for Composables](https://www.reddit.com/r/androiddev/comments/1d0ut19/introducing_yamvil_mvi_infrastructure_for/)
+- [What Mobile Measurement Partners allow to receive post-install in-app information about ad campaign, ad set and ad creative related to the given install?](https://www.reddit.com/r/androiddev/comments/1d0rmqp/what_mobile_measurement_partners_allow_to_receive/)
 - [Snake Game with Compose Multiplatform 🐍🕹️](https://www.reddit.com/r/androiddev/comments/1d0n62d/snake_game_with_compose_multiplatform/)
-- [Thoughts on leaving Android development](https://www.reddit.com/r/androiddev/comments/1d0k9kj/thoughts_on_leaving_android_development/)
-- [Developing a Money Transfer App](https://www.reddit.com/r/androiddev/comments/1d0j1oe/developing_a_money_transfer_app/)
-- [How the hell do you detect keyboard closing in Compose](https://www.reddit.com/r/androiddev/comments/1d0f9wc/how_the_hell_do_you_detect_keyboard_closing_in/)
-- [Publishing Android app from own website and keeping app updated &lpar;and safe&rpar;?](https://www.reddit.com/r/androiddev/comments/1d0952w/publishing_android_app_from_own_website_and/)
-- [People pro in Android Development, share the most valuable lessons that you learnt on how to be pro at it](https://www.reddit.com/r/androiddev/comments/1d0945k/people_pro_in_android_development_share_the_most/)
-- [Is it possible to find out in the app which play experiment was the app installed from?](https://www.reddit.com/r/androiddev/comments/1d0810n/is_it_possible_to_find_out_in_the_app_which_play/)
-- [New Android App - WhatsApp Notification Reader &lpar;Upload Messages to Firebase&rpar;](https://www.reddit.com/r/androiddev/comments/1czrke3/new_android_app_whatsapp_notification_reader/)
-- [Activity stack not working properly](https://www.reddit.com/r/androiddev/comments/1czoohu/activity_stack_not_working_properly/)
-- [RobotQA Android Studio Plugin for Remote Debugging](https://www.reddit.com/r/androiddev/comments/1czm7cl/robotqa_android_studio_plugin_for_remote_debugging/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
