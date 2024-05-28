@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Native library file not found at runtime](https://www.reddit.com/r/androiddev/comments/1d1dvbu/android_native_library_file_not_found_at_runtime/)
-- [Need help flashing custom ROM on Tecno MOBILE BF6 &lpar;With Windows 10 PC, and/or TWRP Recovery / any other custom bootloader&rpar;.](https://www.reddit.com/r/androiddev/comments/1d18zk8/need_help_flashing_custom_rom_on_tecno_mobile_bf6/)
-- [Dispatch Issue #2: 🍨 Inside scoop from Google I/O, interesting conversations and updates from the event &amp; a tip to using Gemini in Android Studio without compromising sensitive IP](https://www.reddit.com/r/androiddev/comments/1d15j73/dispatch_issue_2_inside_scoop_from_google_io/)
-- [gRPC in Android](https://www.reddit.com/r/androiddev/comments/1d14sfg/grpc_in_android/)
-- [Exploring the Compose Preview Screenshot Testing tool](https://www.reddit.com/r/androiddev/comments/1d1281m/exploring_the_compose_preview_screenshot_testing/)
-- [Can&#39;t seem to understand how to implement firebase auth as Microsoft login. Help!](https://www.reddit.com/r/androiddev/comments/1d0xdr7/cant_seem_to_understand_how_to_implement_firebase/)
-- [Service, when started from another app, won&#39;t stop from notification bar](https://www.reddit.com/r/androiddev/comments/1d0vo0y/service_when_started_from_another_app_wont_stop/)
-- [Introducing Yamvil: MVI Infrastructure for Composables](https://www.reddit.com/r/androiddev/comments/1d0ut19/introducing_yamvil_mvi_infrastructure_for/)
-- [What Mobile Measurement Partners allow to receive post-install in-app information about ad campaign, ad set and ad creative related to the given install?](https://www.reddit.com/r/androiddev/comments/1d0rmqp/what_mobile_measurement_partners_allow_to_receive/)
-- [Snake Game with Compose Multiplatform 🐍🕹️](https://www.reddit.com/r/androiddev/comments/1d0n62d/snake_game_with_compose_multiplatform/)
+- [Beginner&#39;s question: Is the empty project supposed to work without any change?](https://www.reddit.com/r/androiddev/comments/1d256ct/beginners_question_is_the_empty_project_supposed/)
+- [What is actually required of testers in closed testing](https://www.reddit.com/r/androiddev/comments/1d24i1a/what_is_actually_required_of_testers_in_closed/)
+- [Jetpack Compose for Game Development?](https://www.reddit.com/r/androiddev/comments/1d21tno/jetpack_compose_for_game_development/)
+- [KMP Project - Formula 1](https://www.reddit.com/r/androiddev/comments/1d21ke5/kmp_project_formula_1/)
+- [Clarifying Screen Density Categories in Google Play Statistics](https://www.reddit.com/r/androiddev/comments/1d21f70/clarifying_screen_density_categories_in_google/)
+- [ViewPager](https://www.reddit.com/r/androiddev/comments/1d1y61n/viewpager/)
+- [When app was opened with click on notification, clicking on further notifications only opens the app, not changing activity / calling onCreate&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1d1o4ff/when_app_was_opened_with_click_on_notification/)
+- [How to architect callback flow inside original callback](https://www.reddit.com/r/androiddev/comments/1d1ltls/how_to_architect_callback_flow_inside_original/)
+- [Will Google&#39;s Checks Essential stay free, or just a](https://www.reddit.com/r/androiddev/comments/1d1lrfp/will_googles_checks_essential_stay_free_or_just_a/)
+- [Do I really need a viewmodel if I can just create variables outside of composables and they can be used anywhere?](https://www.reddit.com/r/androiddev/comments/1d1844o/do_i_really_need_a_viewmodel_if_i_can_just_create/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
