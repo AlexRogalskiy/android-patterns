@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Showcasing android app on IOS](https://www.reddit.com/r/androiddev/comments/1d2seuw/showcasing_android_app_on_ios/)
+- [Hide Ink/Ripple Effect](https://www.reddit.com/r/androiddev/comments/1d2lu6n/hide_inkripple_effect/)
+- [Kotlin mobile monorepo migration](https://www.reddit.com/r/androiddev/comments/1d2iow2/kotlin_mobile_monorepo_migration/)
+- [How to get video playback capacity of specific device](https://www.reddit.com/r/androiddev/comments/1d2fqma/how_to_get_video_playback_capacity_of_specific/)
+- [Seeking Alternatives to AdMob SDK Banner Ads Due to Performance Issues](https://www.reddit.com/r/androiddev/comments/1d2fmkz/seeking_alternatives_to_admob_sdk_banner_ads_due/)
+- [Understanding flatMapConcat, flatMapMerge, and flatMapLatest in Kotlin Flow](https://www.reddit.com/r/androiddev/comments/1d2a0se/understanding_flatmapconcat_flatmapmerge_and/)
+- [Why is it so difficult for Android Studio to recognize my device?](https://www.reddit.com/r/androiddev/comments/1d28p04/why_is_it_so_difficult_for_android_studio_to/)
 - [Beginner&#39;s question: Is the empty project supposed to work without any change?](https://www.reddit.com/r/androiddev/comments/1d256ct/beginners_question_is_the_empty_project_supposed/)
 - [What is actually required of testers in closed testing](https://www.reddit.com/r/androiddev/comments/1d24i1a/what_is_actually_required_of_testers_in_closed/)
 - [Jetpack Compose for Game Development?](https://www.reddit.com/r/androiddev/comments/1d21tno/jetpack_compose_for_game_development/)
-- [KMP Project - Formula 1](https://www.reddit.com/r/androiddev/comments/1d21ke5/kmp_project_formula_1/)
-- [Clarifying Screen Density Categories in Google Play Statistics](https://www.reddit.com/r/androiddev/comments/1d21f70/clarifying_screen_density_categories_in_google/)
-- [ViewPager](https://www.reddit.com/r/androiddev/comments/1d1y61n/viewpager/)
-- [When app was opened with click on notification, clicking on further notifications only opens the app, not changing activity / calling onCreate&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1d1o4ff/when_app_was_opened_with_click_on_notification/)
-- [How to architect callback flow inside original callback](https://www.reddit.com/r/androiddev/comments/1d1ltls/how_to_architect_callback_flow_inside_original/)
-- [Will Google&#39;s Checks Essential stay free, or just a](https://www.reddit.com/r/androiddev/comments/1d1lrfp/will_googles_checks_essential_stay_free_or_just_a/)
-- [Do I really need a viewmodel if I can just create variables outside of composables and they can be used anywhere?](https://www.reddit.com/r/androiddev/comments/1d1844o/do_i_really_need_a_viewmodel_if_i_can_just_create/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
