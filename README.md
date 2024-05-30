@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Showcasing android app on IOS](https://www.reddit.com/r/androiddev/comments/1d2seuw/showcasing_android_app_on_ios/)
-- [Hide Ink/Ripple Effect](https://www.reddit.com/r/androiddev/comments/1d2lu6n/hide_inkripple_effect/)
-- [Kotlin mobile monorepo migration](https://www.reddit.com/r/androiddev/comments/1d2iow2/kotlin_mobile_monorepo_migration/)
-- [How to get video playback capacity of specific device](https://www.reddit.com/r/androiddev/comments/1d2fqma/how_to_get_video_playback_capacity_of_specific/)
-- [Seeking Alternatives to AdMob SDK Banner Ads Due to Performance Issues](https://www.reddit.com/r/androiddev/comments/1d2fmkz/seeking_alternatives_to_admob_sdk_banner_ads_due/)
-- [Understanding flatMapConcat, flatMapMerge, and flatMapLatest in Kotlin Flow](https://www.reddit.com/r/androiddev/comments/1d2a0se/understanding_flatmapconcat_flatmapmerge_and/)
-- [Why is it so difficult for Android Studio to recognize my device?](https://www.reddit.com/r/androiddev/comments/1d28p04/why_is_it_so_difficult_for_android_studio_to/)
-- [Beginner&#39;s question: Is the empty project supposed to work without any change?](https://www.reddit.com/r/androiddev/comments/1d256ct/beginners_question_is_the_empty_project_supposed/)
-- [What is actually required of testers in closed testing](https://www.reddit.com/r/androiddev/comments/1d24i1a/what_is_actually_required_of_testers_in_closed/)
-- [Jetpack Compose for Game Development?](https://www.reddit.com/r/androiddev/comments/1d21tno/jetpack_compose_for_game_development/)
+- [What&#39;s the best framework for harnessing GPU compute on Android?](https://www.reddit.com/r/androiddev/comments/1d3pfcf/whats_the_best_framework_for_harnessing_gpu/)
+- [Making the volume progress bar swipeable? like a slider but this is a glance widget.](https://www.reddit.com/r/androiddev/comments/1d3kgaw/making_the_volume_progress_bar_swipeable_like_a/)
+- [[HIRING] Developer Needed for Open Source VR Face Tracking App &lpar;Fixed Price&rpar;](https://www.reddit.com/r/androiddev/comments/1d3j5d9/hiring_developer_needed_for_open_source_vr_face/)
+- [What is the proper way to interface with the Android Java libraries from C/C++ code?](https://www.reddit.com/r/androiddev/comments/1d3hfw6/what_is_the_proper_way_to_interface_with_the/)
+- [Can I get a list of all the intent-filters from all the apps installed?](https://www.reddit.com/r/androiddev/comments/1d3ghod/can_i_get_a_list_of_all_the_intentfilters_from/)
+- [BasicTextField can really be a pain the ass](https://www.reddit.com/r/androiddev/comments/1d3g2fw/basictextfield_can_really_be_a_pain_the_ass/)
+- [BUG? Can&#39;t click on Event in Firebase Console](https://www.reddit.com/r/androiddev/comments/1d3f8p8/bug_cant_click_on_event_in_firebase_console/)
+- [Which compose navigation to use?](https://www.reddit.com/r/androiddev/comments/1d3eqqj/which_compose_navigation_to_use/)
+- [Video: The Essence of Coroutines](https://www.reddit.com/r/androiddev/comments/1d3eb9a/video_the_essence_of_coroutines/)
+- [Google Play Rejected our app now 3 times for Login Compliance Issues](https://www.reddit.com/r/androiddev/comments/1d3c9ec/google_play_rejected_our_app_now_3_times_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
