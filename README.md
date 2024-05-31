@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s the best framework for harnessing GPU compute on Android?](https://www.reddit.com/r/androiddev/comments/1d3pfcf/whats_the_best_framework_for_harnessing_gpu/)
-- [Making the volume progress bar swipeable? like a slider but this is a glance widget.](https://www.reddit.com/r/androiddev/comments/1d3kgaw/making_the_volume_progress_bar_swipeable_like_a/)
-- [[HIRING] Developer Needed for Open Source VR Face Tracking App &lpar;Fixed Price&rpar;](https://www.reddit.com/r/androiddev/comments/1d3j5d9/hiring_developer_needed_for_open_source_vr_face/)
-- [What is the proper way to interface with the Android Java libraries from C/C++ code?](https://www.reddit.com/r/androiddev/comments/1d3hfw6/what_is_the_proper_way_to_interface_with_the/)
-- [Can I get a list of all the intent-filters from all the apps installed?](https://www.reddit.com/r/androiddev/comments/1d3ghod/can_i_get_a_list_of_all_the_intentfilters_from/)
-- [BasicTextField can really be a pain the ass](https://www.reddit.com/r/androiddev/comments/1d3g2fw/basictextfield_can_really_be_a_pain_the_ass/)
-- [BUG? Can&#39;t click on Event in Firebase Console](https://www.reddit.com/r/androiddev/comments/1d3f8p8/bug_cant_click_on_event_in_firebase_console/)
-- [Which compose navigation to use?](https://www.reddit.com/r/androiddev/comments/1d3eqqj/which_compose_navigation_to_use/)
-- [Video: The Essence of Coroutines](https://www.reddit.com/r/androiddev/comments/1d3eb9a/video_the_essence_of_coroutines/)
-- [Google Play Rejected our app now 3 times for Login Compliance Issues](https://www.reddit.com/r/androiddev/comments/1d3c9ec/google_play_rejected_our_app_now_3_times_for/)
+- [Embedding Gemini API Key In Android Application](https://www.reddit.com/r/androiddev/comments/1d4hljg/embedding_gemini_api_key_in_android_application/)
+- [Samsung Galaxy Store?](https://www.reddit.com/r/androiddev/comments/1d4h16a/samsung_galaxy_store/)
+- [Can Anyone with a Google Pixel Watch 2 Help Test Some Code?](https://www.reddit.com/r/androiddev/comments/1d4fg0r/can_anyone_with_a_google_pixel_watch_2_help_test/)
+- [Dagger tree doesn’t get removed after app removed from recent apps, how to recreate singletons when app opened again?](https://www.reddit.com/r/androiddev/comments/1d4ecvn/dagger_tree_doesnt_get_removed_after_app_removed/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1d4cxif/android_studio_koala_feature_drop_202412_canary_4/)
+- [Android Studio Koala | 2024.1.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1d4cxis/android_studio_koala_202411_rc_1_now_available/)
+- [Basic boilerplate project recommendations?](https://www.reddit.com/r/androiddev/comments/1d47sy2/basic_boilerplate_project_recommendations/)
+- [How to create multiple instance of ViewModel using the old Dagger 2 approach?](https://www.reddit.com/r/androiddev/comments/1d45m02/how_to_create_multiple_instance_of_viewmodel/)
+- [How to Protect My Freelance Work and Clients&#39; Play Developer Accounts from Termination Risks](https://www.reddit.com/r/androiddev/comments/1d3zfyw/how_to_protect_my_freelance_work_and_clients_play/)
+- [Has anyone used Google Play Game Services in Android Studio?](https://www.reddit.com/r/androiddev/comments/1d3yc4k/has_anyone_used_google_play_game_services_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
