@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Suspended app can you submit a new app with the same name](https://www.reddit.com/r/androiddev/comments/1d58txw/suspended_app_can_you_submit_a_new_app_with_the/)
+- [Unleash the Power of Combining Flows in Kotlin Coroutines](https://www.reddit.com/r/androiddev/comments/1d54bh9/unleash_the_power_of_combining_flows_in_kotlin/)
+- [Data safety section may be removed](https://www.reddit.com/r/androiddev/comments/1d4vg9v/data_safety_section_may_be_removed/)
+- [Fake Account Termination email - watch out](https://www.reddit.com/r/androiddev/comments/1d4rugy/fake_account_termination_email_watch_out/)
+- [No Google Play store target API requirement ratchet for 2024?](https://www.reddit.com/r/androiddev/comments/1d4rqqw/no_google_play_store_target_api_requirement/)
+- [Advanced Modularization: API/IMPL vs API/DI](https://www.reddit.com/r/androiddev/comments/1d4riyv/advanced_modularization_apiimpl_vs_apidi/)
 - [Embedding Gemini API Key In Android Application](https://www.reddit.com/r/androiddev/comments/1d4hljg/embedding_gemini_api_key_in_android_application/)
 - [Samsung Galaxy Store?](https://www.reddit.com/r/androiddev/comments/1d4h16a/samsung_galaxy_store/)
-- [Can Anyone with a Google Pixel Watch 2 Help Test Some Code?](https://www.reddit.com/r/androiddev/comments/1d4fg0r/can_anyone_with_a_google_pixel_watch_2_help_test/)
 - [Dagger tree doesn’t get removed after app removed from recent apps, how to recreate singletons when app opened again?](https://www.reddit.com/r/androiddev/comments/1d4ecvn/dagger_tree_doesnt_get_removed_after_app_removed/)
 - [Android Studio Koala Feature Drop | 2024.1.2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1d4cxif/android_studio_koala_feature_drop_202412_canary_4/)
-- [Android Studio Koala | 2024.1.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1d4cxis/android_studio_koala_202411_rc_1_now_available/)
-- [Basic boilerplate project recommendations?](https://www.reddit.com/r/androiddev/comments/1d47sy2/basic_boilerplate_project_recommendations/)
-- [How to create multiple instance of ViewModel using the old Dagger 2 approach?](https://www.reddit.com/r/androiddev/comments/1d45m02/how_to_create_multiple_instance_of_viewmodel/)
-- [How to Protect My Freelance Work and Clients&#39; Play Developer Accounts from Termination Risks](https://www.reddit.com/r/androiddev/comments/1d3zfyw/how_to_protect_my_freelance_work_and_clients_play/)
-- [Has anyone used Google Play Game Services in Android Studio?](https://www.reddit.com/r/androiddev/comments/1d3yc4k/has_anyone_used_google_play_game_services_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
