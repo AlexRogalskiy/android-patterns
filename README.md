@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Suspended app can you submit a new app with the same name](https://www.reddit.com/r/androiddev/comments/1d58txw/suspended_app_can_you_submit_a_new_app_with_the/)
-- [Unleash the Power of Combining Flows in Kotlin Coroutines](https://www.reddit.com/r/androiddev/comments/1d54bh9/unleash_the_power_of_combining_flows_in_kotlin/)
-- [Data safety section may be removed](https://www.reddit.com/r/androiddev/comments/1d4vg9v/data_safety_section_may_be_removed/)
-- [Fake Account Termination email - watch out](https://www.reddit.com/r/androiddev/comments/1d4rugy/fake_account_termination_email_watch_out/)
-- [No Google Play store target API requirement ratchet for 2024?](https://www.reddit.com/r/androiddev/comments/1d4rqqw/no_google_play_store_target_api_requirement/)
-- [Advanced Modularization: API/IMPL vs API/DI](https://www.reddit.com/r/androiddev/comments/1d4riyv/advanced_modularization_apiimpl_vs_apidi/)
-- [Embedding Gemini API Key In Android Application](https://www.reddit.com/r/androiddev/comments/1d4hljg/embedding_gemini_api_key_in_android_application/)
-- [Samsung Galaxy Store?](https://www.reddit.com/r/androiddev/comments/1d4h16a/samsung_galaxy_store/)
-- [Dagger tree doesn’t get removed after app removed from recent apps, how to recreate singletons when app opened again?](https://www.reddit.com/r/androiddev/comments/1d4ecvn/dagger_tree_doesnt_get_removed_after_app_removed/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1d4cxif/android_studio_koala_feature_drop_202412_canary_4/)
+- [K2 compose previews](https://www.reddit.com/r/androiddev/comments/1d5ztdh/k2_compose_previews/)
+- [Feasibility of a project for a complete noob.](https://www.reddit.com/r/androiddev/comments/1d5y8og/feasibility_of_a_project_for_a_complete_noob/)
+- [Transitioning from React Native to Android Development: How Long Before I Can Apply for Jobs?](https://www.reddit.com/r/androiddev/comments/1d5w4k0/transitioning_from_react_native_to_android/)
+- [Java](https://www.reddit.com/r/androiddev/comments/1d5vrj2/java/)
+- [How to stop Google Play from automatically progressing and counting closed testing days?](https://www.reddit.com/r/androiddev/comments/1d5ugq6/how_to_stop_google_play_from_automatically/)
+- [Recomposition triggered many times](https://www.reddit.com/r/androiddev/comments/1d5u43l/recomposition_triggered_many_times/)
+- [How to recompose a single item in a LazyColumn when the user taps on it?](https://www.reddit.com/r/androiddev/comments/1d5tk0e/how_to_recompose_a_single_item_in_a_lazycolumn/)
+- [Floating Button shifts from position when text is added](https://www.reddit.com/r/androiddev/comments/1d5smsu/floating_button_shifts_from_position_when_text_is/)
+- [Ex-Android Dev Needing Advice Going Back In](https://www.reddit.com/r/androiddev/comments/1d5setz/exandroid_dev_needing_advice_going_back_in/)
+- [Initialize Room DB in Service?](https://www.reddit.com/r/androiddev/comments/1d5sa6t/initialize_room_db_in_service/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
