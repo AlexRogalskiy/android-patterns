@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [K2 compose previews](https://www.reddit.com/r/androiddev/comments/1d5ztdh/k2_compose_previews/)
-- [Feasibility of a project for a complete noob.](https://www.reddit.com/r/androiddev/comments/1d5y8og/feasibility_of_a_project_for_a_complete_noob/)
-- [Transitioning from React Native to Android Development: How Long Before I Can Apply for Jobs?](https://www.reddit.com/r/androiddev/comments/1d5w4k0/transitioning_from_react_native_to_android/)
-- [Java](https://www.reddit.com/r/androiddev/comments/1d5vrj2/java/)
-- [How to stop Google Play from automatically progressing and counting closed testing days?](https://www.reddit.com/r/androiddev/comments/1d5ugq6/how_to_stop_google_play_from_automatically/)
-- [Recomposition triggered many times](https://www.reddit.com/r/androiddev/comments/1d5u43l/recomposition_triggered_many_times/)
-- [How to recompose a single item in a LazyColumn when the user taps on it?](https://www.reddit.com/r/androiddev/comments/1d5tk0e/how_to_recompose_a_single_item_in_a_lazycolumn/)
-- [Floating Button shifts from position when text is added](https://www.reddit.com/r/androiddev/comments/1d5smsu/floating_button_shifts_from_position_when_text_is/)
-- [Ex-Android Dev Needing Advice Going Back In](https://www.reddit.com/r/androiddev/comments/1d5setz/exandroid_dev_needing_advice_going_back_in/)
-- [Initialize Room DB in Service?](https://www.reddit.com/r/androiddev/comments/1d5sa6t/initialize_room_db_in_service/)
+- [Android tablet for project](https://www.reddit.com/r/androiddev/comments/1d6scfd/android_tablet_for_project/)
+- [Compose HorizontalPager with a composables array](https://www.reddit.com/r/androiddev/comments/1d6n9ab/compose_horizontalpager_with_a_composables_array/)
+- [Using room outside the android environment.](https://www.reddit.com/r/androiddev/comments/1d6lt37/using_room_outside_the_android_environment/)
+- [Starting my career as Java backend engineer but built my resume to start as an Android Developer](https://www.reddit.com/r/androiddev/comments/1d6jxqn/starting_my_career_as_java_backend_engineer_but/)
+- [Is hosting user generated content in your app a bad idea?](https://www.reddit.com/r/androiddev/comments/1d6iwd5/is_hosting_user_generated_content_in_your_app_a/)
+- [Any guide to create app for android using android studio and jetpack compose for begginers with down-to-the-smallest-particle instructions?](https://www.reddit.com/r/androiddev/comments/1d6ibud/any_guide_to_create_app_for_android_using_android/)
+- [Othello game in Compose](https://www.reddit.com/r/androiddev/comments/1d6dwhy/othello_game_in_compose/)
+- [When release of 1.7.0 Compose Multiplatform?](https://www.reddit.com/r/androiddev/comments/1d6dn16/when_release_of_170_compose_multiplatform/)
+- [What are these icons called? How can we code them for a custom functionality in Kotlin or Java? &lpar;Please provide references/sources 🙏🏻&rpar;](https://www.reddit.com/r/androiddev/comments/1d691f1/what_are_these_icons_called_how_can_we_code_them/)
+- [I am trying to publish my first game on the Play Store, but it is showing me the message &#39;Add Play Games services to your game.&#39; Can anyone help me?](https://www.reddit.com/r/androiddev/comments/1d67i0d/i_am_trying_to_publish_my_first_game_on_the_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
