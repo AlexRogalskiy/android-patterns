@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android tablet for project](https://www.reddit.com/r/androiddev/comments/1d6scfd/android_tablet_for_project/)
-- [Compose HorizontalPager with a composables array](https://www.reddit.com/r/androiddev/comments/1d6n9ab/compose_horizontalpager_with_a_composables_array/)
-- [Using room outside the android environment.](https://www.reddit.com/r/androiddev/comments/1d6lt37/using_room_outside_the_android_environment/)
-- [Starting my career as Java backend engineer but built my resume to start as an Android Developer](https://www.reddit.com/r/androiddev/comments/1d6jxqn/starting_my_career_as_java_backend_engineer_but/)
-- [Is hosting user generated content in your app a bad idea?](https://www.reddit.com/r/androiddev/comments/1d6iwd5/is_hosting_user_generated_content_in_your_app_a/)
-- [Any guide to create app for android using android studio and jetpack compose for begginers with down-to-the-smallest-particle instructions?](https://www.reddit.com/r/androiddev/comments/1d6ibud/any_guide_to_create_app_for_android_using_android/)
-- [Othello game in Compose](https://www.reddit.com/r/androiddev/comments/1d6dwhy/othello_game_in_compose/)
-- [When release of 1.7.0 Compose Multiplatform?](https://www.reddit.com/r/androiddev/comments/1d6dn16/when_release_of_170_compose_multiplatform/)
-- [What are these icons called? How can we code them for a custom functionality in Kotlin or Java? &lpar;Please provide references/sources 🙏🏻&rpar;](https://www.reddit.com/r/androiddev/comments/1d691f1/what_are_these_icons_called_how_can_we_code_them/)
-- [I am trying to publish my first game on the Play Store, but it is showing me the message &#39;Add Play Games services to your game.&#39; Can anyone help me?](https://www.reddit.com/r/androiddev/comments/1d67i0d/i_am_trying_to_publish_my_first_game_on_the_play/)
+- [How quickly is Jetpack Composer overriding XML Layouts and MVC architecture?](https://www.reddit.com/r/androiddev/comments/1d7hq2m/how_quickly_is_jetpack_composer_overriding_xml/)
+- [Gradle 8.8 Released](https://www.reddit.com/r/androiddev/comments/1d7g92w/gradle_88_released/)
+- [Should I use Handler for recurring startService calls?](https://www.reddit.com/r/androiddev/comments/1d7d65z/should_i_use_handler_for_recurring_startservice/)
+- [Balancing a Managerial Role with My Passion for Coding - Need Advice](https://www.reddit.com/r/androiddev/comments/1d7cu8u/balancing_a_managerial_role_with_my_passion_for/)
+- [How can I closely synchronize timing between an application that runs on multiple android phones?](https://www.reddit.com/r/androiddev/comments/1d7b3wc/how_can_i_closely_synchronize_timing_between_an/)
+- [Solo Android Dev Needs Tips for Refactoring Discussion](https://www.reddit.com/r/androiddev/comments/1d7azaw/solo_android_dev_needs_tips_for_refactoring/)
+- [Can&#39;t internally test my app](https://www.reddit.com/r/androiddev/comments/1d74iv4/cant_internally_test_my_app/)
+- [Advance notice - what elements does this document need to have, and is it too late since the app is already in production?](https://www.reddit.com/r/androiddev/comments/1d74fkp/advance_notice_what_elements_does_this_document/)
+- [autoVerify=&quot;true&quot; doesn&#39;t set app link to be &#39;always open in app&#39; on android 9 and 10](https://www.reddit.com/r/androiddev/comments/1d72v09/autoverifytrue_doesnt_set_app_link_to_be_always/)
+- [how to progress as a android developer](https://www.reddit.com/r/androiddev/comments/1d70cjh/how_to_progress_as_a_android_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
