@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How quickly is Jetpack Composer overriding XML Layouts and MVC architecture?](https://www.reddit.com/r/androiddev/comments/1d7hq2m/how_quickly_is_jetpack_composer_overriding_xml/)
-- [Gradle 8.8 Released](https://www.reddit.com/r/androiddev/comments/1d7g92w/gradle_88_released/)
-- [Should I use Handler for recurring startService calls?](https://www.reddit.com/r/androiddev/comments/1d7d65z/should_i_use_handler_for_recurring_startservice/)
-- [Balancing a Managerial Role with My Passion for Coding - Need Advice](https://www.reddit.com/r/androiddev/comments/1d7cu8u/balancing_a_managerial_role_with_my_passion_for/)
-- [How can I closely synchronize timing between an application that runs on multiple android phones?](https://www.reddit.com/r/androiddev/comments/1d7b3wc/how_can_i_closely_synchronize_timing_between_an/)
-- [Solo Android Dev Needs Tips for Refactoring Discussion](https://www.reddit.com/r/androiddev/comments/1d7azaw/solo_android_dev_needs_tips_for_refactoring/)
-- [Can&#39;t internally test my app](https://www.reddit.com/r/androiddev/comments/1d74iv4/cant_internally_test_my_app/)
-- [Advance notice - what elements does this document need to have, and is it too late since the app is already in production?](https://www.reddit.com/r/androiddev/comments/1d74fkp/advance_notice_what_elements_does_this_document/)
-- [autoVerify=&quot;true&quot; doesn&#39;t set app link to be &#39;always open in app&#39; on android 9 and 10](https://www.reddit.com/r/androiddev/comments/1d72v09/autoverifytrue_doesnt_set_app_link_to_be_always/)
-- [how to progress as a android developer](https://www.reddit.com/r/androiddev/comments/1d70cjh/how_to_progress_as_a_android_developer/)
+- [I need help with WhatsApp.](https://www.reddit.com/r/androiddev/comments/1d8e1ve/i_need_help_with_whatsapp/)
+- [Why Play Console minor updates takes a time to get approved?](https://www.reddit.com/r/androiddev/comments/1d8bgl4/why_play_console_minor_updates_takes_a_time_to/)
+- [Can&#39;t unlock bootloader on my phone?](https://www.reddit.com/r/androiddev/comments/1d8aqem/cant_unlock_bootloader_on_my_phone/)
+- [Problem generating unique chat IDs](https://www.reddit.com/r/androiddev/comments/1d8931e/problem_generating_unique_chat_ids/)
+- [My thoughts while exploring retrofit internals](https://www.reddit.com/r/androiddev/comments/1d86fhn/my_thoughts_while_exploring_retrofit_internals/)
+- [How can I avoid sharing my address on the Google Play Store?](https://www.reddit.com/r/androiddev/comments/1d85ezz/how_can_i_avoid_sharing_my_address_on_the_google/)
+- [I need to make a simple, step-by-step user guide &lpar;like the link, below&rpar;. The app is done, but there&#39;s no budget for what should be a short tutorial. I&#39;m looking at the Android&#39;s screen record feature and AZ record, but I&#39;ve never done it before. Any guidance would be appreciated.](https://www.reddit.com/r/androiddev/comments/1d84meb/i_need_to_make_a_simple_stepbystep_user_guide/)
+- [Any tips on becoming an Android Developer self taught?](https://www.reddit.com/r/androiddev/comments/1d84gd4/any_tips_on_becoming_an_android_developer_self/)
+- [How I Finally Memorized Modifier Ordering in Compose](https://www.reddit.com/r/androiddev/comments/1d80k2a/how_i_finally_memorized_modifier_ordering_in/)
+- [what do i need to know about android dev as a beginner in 4rth sem year btech cs](https://www.reddit.com/r/androiddev/comments/1d80hqy/what_do_i_need_to_know_about_android_dev_as_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
