@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I need help with WhatsApp.](https://www.reddit.com/r/androiddev/comments/1d8e1ve/i_need_help_with_whatsapp/)
-- [Why Play Console minor updates takes a time to get approved?](https://www.reddit.com/r/androiddev/comments/1d8bgl4/why_play_console_minor_updates_takes_a_time_to/)
-- [Can&#39;t unlock bootloader on my phone?](https://www.reddit.com/r/androiddev/comments/1d8aqem/cant_unlock_bootloader_on_my_phone/)
-- [Problem generating unique chat IDs](https://www.reddit.com/r/androiddev/comments/1d8931e/problem_generating_unique_chat_ids/)
-- [My thoughts while exploring retrofit internals](https://www.reddit.com/r/androiddev/comments/1d86fhn/my_thoughts_while_exploring_retrofit_internals/)
-- [How can I avoid sharing my address on the Google Play Store?](https://www.reddit.com/r/androiddev/comments/1d85ezz/how_can_i_avoid_sharing_my_address_on_the_google/)
-- [I need to make a simple, step-by-step user guide &lpar;like the link, below&rpar;. The app is done, but there&#39;s no budget for what should be a short tutorial. I&#39;m looking at the Android&#39;s screen record feature and AZ record, but I&#39;ve never done it before. Any guidance would be appreciated.](https://www.reddit.com/r/androiddev/comments/1d84meb/i_need_to_make_a_simple_stepbystep_user_guide/)
-- [Any tips on becoming an Android Developer self taught?](https://www.reddit.com/r/androiddev/comments/1d84gd4/any_tips_on_becoming_an_android_developer_self/)
-- [How I Finally Memorized Modifier Ordering in Compose](https://www.reddit.com/r/androiddev/comments/1d80k2a/how_i_finally_memorized_modifier_ordering_in/)
-- [what do i need to know about android dev as a beginner in 4rth sem year btech cs](https://www.reddit.com/r/androiddev/comments/1d80hqy/what_do_i_need_to_know_about_android_dev_as_a/)
+- [What are things that have to be taken into account when publishing an app?](https://www.reddit.com/r/androiddev/comments/1d94og5/what_are_things_that_have_to_be_taken_into/)
+- [Make it faster - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1d8wk1w/make_it_faster_android_developers_backstage/)
+- [FAB hides content](https://www.reddit.com/r/androiddev/comments/1d8vnkf/fab_hides_content/)
+- [Are severe delays in phone-2-phone TCP traffic normal for android?](https://www.reddit.com/r/androiddev/comments/1d8srfv/are_severe_delays_in_phone2phone_tcp_traffic/)
+- [Setting device date and time programmatically possible at all?](https://www.reddit.com/r/androiddev/comments/1d8qsuj/setting_device_date_and_time_programmatically/)
+- [bytemask: Android Gradle Plugin that masks secret strings for the app in the source code making it difficult to extract from reverse engineering.](https://www.reddit.com/r/androiddev/comments/1d8q7ku/bytemask_android_gradle_plugin_that_masks_secret/)
+- [I want to start learning android development with no prior experience of programming. I found this course called &quot;Android Basics with Compose&quot; offered by Google which they say is for beginners. Can anyone who has done this course tell me if it&#39;s good? Or is there anything better on Udemy?](https://www.reddit.com/r/androiddev/comments/1d8na9d/i_want_to_start_learning_android_development_with/)
+- [Avoid 20 user closed test moving app from an old account](https://www.reddit.com/r/androiddev/comments/1d8m5ud/avoid_20_user_closed_test_moving_app_from_an_old/)
+- [Popups Outside the App](https://www.reddit.com/r/androiddev/comments/1d8k98d/popups_outside_the_app/)
+- [App to retrieve data from Bluetooth Low Energy Scale](https://www.reddit.com/r/androiddev/comments/1d8k0hh/app_to_retrieve_data_from_bluetooth_low_energy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
