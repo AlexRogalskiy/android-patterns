@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are things that have to be taken into account when publishing an app?](https://www.reddit.com/r/androiddev/comments/1d94og5/what_are_things_that_have_to_be_taken_into/)
-- [Make it faster - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1d8wk1w/make_it_faster_android_developers_backstage/)
-- [FAB hides content](https://www.reddit.com/r/androiddev/comments/1d8vnkf/fab_hides_content/)
-- [Are severe delays in phone-2-phone TCP traffic normal for android?](https://www.reddit.com/r/androiddev/comments/1d8srfv/are_severe_delays_in_phone2phone_tcp_traffic/)
-- [Setting device date and time programmatically possible at all?](https://www.reddit.com/r/androiddev/comments/1d8qsuj/setting_device_date_and_time_programmatically/)
-- [bytemask: Android Gradle Plugin that masks secret strings for the app in the source code making it difficult to extract from reverse engineering.](https://www.reddit.com/r/androiddev/comments/1d8q7ku/bytemask_android_gradle_plugin_that_masks_secret/)
-- [I want to start learning android development with no prior experience of programming. I found this course called &quot;Android Basics with Compose&quot; offered by Google which they say is for beginners. Can anyone who has done this course tell me if it&#39;s good? Or is there anything better on Udemy?](https://www.reddit.com/r/androiddev/comments/1d8na9d/i_want_to_start_learning_android_development_with/)
-- [Avoid 20 user closed test moving app from an old account](https://www.reddit.com/r/androiddev/comments/1d8m5ud/avoid_20_user_closed_test_moving_app_from_an_old/)
-- [Popups Outside the App](https://www.reddit.com/r/androiddev/comments/1d8k98d/popups_outside_the_app/)
-- [App to retrieve data from Bluetooth Low Energy Scale](https://www.reddit.com/r/androiddev/comments/1d8k0hh/app_to_retrieve_data_from_bluetooth_low_energy/)
+- [onKeyDown/onKeyUp misbehaving on Android 14 device](https://www.reddit.com/r/androiddev/comments/1d9shc6/onkeydownonkeyup_misbehaving_on_android_14_device/)
+- [aab file testing](https://www.reddit.com/r/androiddev/comments/1d9ox1g/aab_file_testing/)
+- [Communication between activity and objects](https://www.reddit.com/r/androiddev/comments/1d9oot7/communication_between_activity_and_objects/)
+- [Google Play login credentials via Google Account](https://www.reddit.com/r/androiddev/comments/1d9mhgc/google_play_login_credentials_via_google_account/)
+- [Detecting low light conditions?](https://www.reddit.com/r/androiddev/comments/1d9kqig/detecting_low_light_conditions/)
+- [Column with .grid Modifier or LazyGrid?](https://www.reddit.com/r/androiddev/comments/1d9je9l/column_with_grid_modifier_or_lazygrid/)
+- [Android Job Pursuit Findings](https://www.reddit.com/r/androiddev/comments/1d9jc9f/android_job_pursuit_findings/)
+- [Best recent book for beginner](https://www.reddit.com/r/androiddev/comments/1d9ij6r/best_recent_book_for_beginner/)
+- [Low Latency Sensors Measures](https://www.reddit.com/r/androiddev/comments/1d9ia47/low_latency_sensors_measures/)
+- [Maps application for generating static images of navigation view](https://www.reddit.com/r/androiddev/comments/1d9i9pt/maps_application_for_generating_static_images_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
