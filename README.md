@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [onKeyDown/onKeyUp misbehaving on Android 14 device](https://www.reddit.com/r/androiddev/comments/1d9shc6/onkeydownonkeyup_misbehaving_on_android_14_device/)
-- [aab file testing](https://www.reddit.com/r/androiddev/comments/1d9ox1g/aab_file_testing/)
-- [Communication between activity and objects](https://www.reddit.com/r/androiddev/comments/1d9oot7/communication_between_activity_and_objects/)
-- [Google Play login credentials via Google Account](https://www.reddit.com/r/androiddev/comments/1d9mhgc/google_play_login_credentials_via_google_account/)
-- [Detecting low light conditions?](https://www.reddit.com/r/androiddev/comments/1d9kqig/detecting_low_light_conditions/)
-- [Column with .grid Modifier or LazyGrid?](https://www.reddit.com/r/androiddev/comments/1d9je9l/column_with_grid_modifier_or_lazygrid/)
-- [Android Job Pursuit Findings](https://www.reddit.com/r/androiddev/comments/1d9jc9f/android_job_pursuit_findings/)
-- [Best recent book for beginner](https://www.reddit.com/r/androiddev/comments/1d9ij6r/best_recent_book_for_beginner/)
-- [Low Latency Sensors Measures](https://www.reddit.com/r/androiddev/comments/1d9ia47/low_latency_sensors_measures/)
-- [Maps application for generating static images of navigation view](https://www.reddit.com/r/androiddev/comments/1d9i9pt/maps_application_for_generating_static_images_of/)
+- [Payments tentatively scheduled for Google Play Store Settlement](https://www.reddit.com/r/androiddev/comments/1dapsow/payments_tentatively_scheduled_for_google_play/)
+- [How to get started?](https://www.reddit.com/r/androiddev/comments/1dap1p6/how_to_get_started/)
+- [Getting Google Play Store visits of my app through API](https://www.reddit.com/r/androiddev/comments/1dajxzd/getting_google_play_store_visits_of_my_app/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1dah7wa/android_studio_koala_feature_drop_202412_canary_5/)
+- [For repetitive tasks at intervals should we always use AlarmManager?](https://www.reddit.com/r/androiddev/comments/1dag8yv/for_repetitive_tasks_at_intervals_should_we/)
+- [Any recommendations for UI test reporting in Android Studio?](https://www.reddit.com/r/androiddev/comments/1dafqn8/any_recommendations_for_ui_test_reporting_in/)
+- [When should we use WorkManager or Service?](https://www.reddit.com/r/androiddev/comments/1dafor3/when_should_we_use_workmanager_or_service/)
+- [Better Developer Name](https://www.reddit.com/r/androiddev/comments/1daffar/better_developer_name/)
+- [Started learning Android recently](https://www.reddit.com/r/androiddev/comments/1da8olo/started_learning_android_recently/)
+- [How to learn android development? And land a job/paid work](https://www.reddit.com/r/androiddev/comments/1da8db4/how_to_learn_android_development_and_land_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
