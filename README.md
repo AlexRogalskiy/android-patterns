@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Payments tentatively scheduled for Google Play Store Settlement](https://www.reddit.com/r/androiddev/comments/1dapsow/payments_tentatively_scheduled_for_google_play/)
-- [How to get started?](https://www.reddit.com/r/androiddev/comments/1dap1p6/how_to_get_started/)
-- [Getting Google Play Store visits of my app through API](https://www.reddit.com/r/androiddev/comments/1dajxzd/getting_google_play_store_visits_of_my_app/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1dah7wa/android_studio_koala_feature_drop_202412_canary_5/)
-- [For repetitive tasks at intervals should we always use AlarmManager?](https://www.reddit.com/r/androiddev/comments/1dag8yv/for_repetitive_tasks_at_intervals_should_we/)
-- [Any recommendations for UI test reporting in Android Studio?](https://www.reddit.com/r/androiddev/comments/1dafqn8/any_recommendations_for_ui_test_reporting_in/)
-- [When should we use WorkManager or Service?](https://www.reddit.com/r/androiddev/comments/1dafor3/when_should_we_use_workmanager_or_service/)
-- [Better Developer Name](https://www.reddit.com/r/androiddev/comments/1daffar/better_developer_name/)
-- [Started learning Android recently](https://www.reddit.com/r/androiddev/comments/1da8olo/started_learning_android_recently/)
-- [How to learn android development? And land a job/paid work](https://www.reddit.com/r/androiddev/comments/1da8db4/how_to_learn_android_development_and_land_a/)
+- [Overcoming the Stress of App Performance Issues](https://www.reddit.com/r/androiddev/comments/1dbhny5/overcoming_the_stress_of_app_performance_issues/)
+- [Do we need to change android studio JDK for each project ?](https://www.reddit.com/r/androiddev/comments/1dbe8e3/do_we_need_to_change_android_studio_jdk_for_each/)
+- [help on repairing my app arc lighting](https://www.reddit.com/r/androiddev/comments/1dbd4gl/help_on_repairing_my_app_arc_lighting/)
+- [Google play store alternative](https://www.reddit.com/r/androiddev/comments/1db64rj/google_play_store_alternative/)
+- [Unclear how to determine startTime and duration of GestureDescription.StrokeDescription](https://www.reddit.com/r/androiddev/comments/1db5y7r/unclear_how_to_determine_starttime_and_duration/)
+- [Google Credential Manager free to use?](https://www.reddit.com/r/androiddev/comments/1db3y5g/google_credential_manager_free_to_use/)
+- [This laptop is good for android developer](https://www.reddit.com/r/androiddev/comments/1db3ac7/this_laptop_is_good_for_android_developer/)
+- [Roborazzi plugin for Android Studio and IntelliJ](https://www.reddit.com/r/androiddev/comments/1db3736/roborazzi_plugin_for_android_studio_and_intellij/)
+- [google is forcing me to update my app yet again is it simple to Migrate to Google Play Billing Library 7](https://www.reddit.com/r/androiddev/comments/1db2s13/google_is_forcing_me_to_update_my_app_yet_again/)
+- [Does removing unrelated to production review speed up Google Play review process?](https://www.reddit.com/r/androiddev/comments/1db2ga3/does_removing_unrelated_to_production_review/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
