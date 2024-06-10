@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Overcoming the Stress of App Performance Issues](https://www.reddit.com/r/androiddev/comments/1dbhny5/overcoming_the_stress_of_app_performance_issues/)
-- [Do we need to change android studio JDK for each project ?](https://www.reddit.com/r/androiddev/comments/1dbe8e3/do_we_need_to_change_android_studio_jdk_for_each/)
-- [help on repairing my app arc lighting](https://www.reddit.com/r/androiddev/comments/1dbd4gl/help_on_repairing_my_app_arc_lighting/)
-- [Google play store alternative](https://www.reddit.com/r/androiddev/comments/1db64rj/google_play_store_alternative/)
-- [Unclear how to determine startTime and duration of GestureDescription.StrokeDescription](https://www.reddit.com/r/androiddev/comments/1db5y7r/unclear_how_to_determine_starttime_and_duration/)
-- [Google Credential Manager free to use?](https://www.reddit.com/r/androiddev/comments/1db3y5g/google_credential_manager_free_to_use/)
-- [This laptop is good for android developer](https://www.reddit.com/r/androiddev/comments/1db3ac7/this_laptop_is_good_for_android_developer/)
-- [Roborazzi plugin for Android Studio and IntelliJ](https://www.reddit.com/r/androiddev/comments/1db3736/roborazzi_plugin_for_android_studio_and_intellij/)
-- [google is forcing me to update my app yet again is it simple to Migrate to Google Play Billing Library 7](https://www.reddit.com/r/androiddev/comments/1db2s13/google_is_forcing_me_to_update_my_app_yet_again/)
-- [Does removing unrelated to production review speed up Google Play review process?](https://www.reddit.com/r/androiddev/comments/1db2ga3/does_removing_unrelated_to_production_review/)
+- [Closed testing requirements](https://www.reddit.com/r/androiddev/comments/1dc9fj4/closed_testing_requirements/)
+- [Why does upsert return -1 after updating an entry in Room?](https://www.reddit.com/r/androiddev/comments/1dc63pa/why_does_upsert_return_1_after_updating_an_entry/)
+- [Android Studio performance](https://www.reddit.com/r/androiddev/comments/1dc5tap/android_studio_performance/)
+- [Is it normal to feel overwhelmed while learning android development?](https://www.reddit.com/r/androiddev/comments/1dc0ahz/is_it_normal_to_feel_overwhelmed_while_learning/)
+- [BreakPoints and Debugging.](https://www.reddit.com/r/androiddev/comments/1dc056i/breakpoints_and_debugging/)
+- [Can someone explain why FIrebase is not getting instantiated in my code?](https://www.reddit.com/r/androiddev/comments/1dbx7ew/can_someone_explain_why_firebase_is_not_getting/)
+- [Android 12 - app fires notifications and they immediately leave the tray. Works fine on android 13. What could cause it?](https://www.reddit.com/r/androiddev/comments/1dbrq19/android_12_app_fires_notifications_and_they/)
+- [KMM or Flutter](https://www.reddit.com/r/androiddev/comments/1dbqvn1/kmm_or_flutter/)
+- [How to develop 2d android games for low end devices ? &lpar; not using the big engines &rpar;](https://www.reddit.com/r/androiddev/comments/1dbq8uf/how_to_develop_2d_android_games_for_low_end/)
+- [How do I fix this error from android studio?](https://www.reddit.com/r/androiddev/comments/1dbq8l0/how_do_i_fix_this_error_from_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
