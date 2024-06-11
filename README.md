@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Closed testing requirements](https://www.reddit.com/r/androiddev/comments/1dc9fj4/closed_testing_requirements/)
-- [Why does upsert return -1 after updating an entry in Room?](https://www.reddit.com/r/androiddev/comments/1dc63pa/why_does_upsert_return_1_after_updating_an_entry/)
-- [Android Studio performance](https://www.reddit.com/r/androiddev/comments/1dc5tap/android_studio_performance/)
-- [Is it normal to feel overwhelmed while learning android development?](https://www.reddit.com/r/androiddev/comments/1dc0ahz/is_it_normal_to_feel_overwhelmed_while_learning/)
-- [BreakPoints and Debugging.](https://www.reddit.com/r/androiddev/comments/1dc056i/breakpoints_and_debugging/)
-- [Can someone explain why FIrebase is not getting instantiated in my code?](https://www.reddit.com/r/androiddev/comments/1dbx7ew/can_someone_explain_why_firebase_is_not_getting/)
-- [Android 12 - app fires notifications and they immediately leave the tray. Works fine on android 13. What could cause it?](https://www.reddit.com/r/androiddev/comments/1dbrq19/android_12_app_fires_notifications_and_they/)
-- [KMM or Flutter](https://www.reddit.com/r/androiddev/comments/1dbqvn1/kmm_or_flutter/)
-- [How to develop 2d android games for low end devices ? &lpar; not using the big engines &rpar;](https://www.reddit.com/r/androiddev/comments/1dbq8uf/how_to_develop_2d_android_games_for_low_end/)
-- [How do I fix this error from android studio?](https://www.reddit.com/r/androiddev/comments/1dbq8l0/how_do_i_fix_this_error_from_android_studio/)
+- [Question regarding google play app review process](https://www.reddit.com/r/androiddev/comments/1dd0hhh/question_regarding_google_play_app_review_process/)
+- [Migrating our Android apps to Kotlin: Sharing the journey! ️](https://www.reddit.com/r/androiddev/comments/1dcx8iu/migrating_our_android_apps_to_kotlin_sharing_the/)
+- [Really slow App Review times, going on 35 days](https://www.reddit.com/r/androiddev/comments/1dcw043/really_slow_app_review_times_going_on_35_days/)
+- [KMM CYOA Game App Development Experiment Journal #3](https://www.reddit.com/r/androiddev/comments/1dcvj1x/kmm_cyoa_game_app_development_experiment_journal_3/)
+- [Jetpack compose for intermediates](https://www.reddit.com/r/androiddev/comments/1dcuw3m/jetpack_compose_for_intermediates/)
+- [Android Studio Jellyfish | 2023.3.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1dcqgfn/android_studio_jellyfish_202331_patch_2_now/)
+- [Android Studio Koala | 2024.1.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1dcqgfz/android_studio_koala_202411_rc_2_now_available/)
+- [Basic code understanding question](https://www.reddit.com/r/androiddev/comments/1dcpibc/basic_code_understanding_question/)
+- [Android Studio Jellyfish | 2023.3.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1dcp053/android_studio_jellyfish_202331_patch_2_now/)
+- [Beginner unsure of the quality of the software I am building](https://www.reddit.com/r/androiddev/comments/1dcnzvp/beginner_unsure_of_the_quality_of_the_software_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
