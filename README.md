@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question regarding google play app review process](https://www.reddit.com/r/androiddev/comments/1dd0hhh/question_regarding_google_play_app_review_process/)
-- [Migrating our Android apps to Kotlin: Sharing the journey! ️](https://www.reddit.com/r/androiddev/comments/1dcx8iu/migrating_our_android_apps_to_kotlin_sharing_the/)
-- [Really slow App Review times, going on 35 days](https://www.reddit.com/r/androiddev/comments/1dcw043/really_slow_app_review_times_going_on_35_days/)
-- [KMM CYOA Game App Development Experiment Journal #3](https://www.reddit.com/r/androiddev/comments/1dcvj1x/kmm_cyoa_game_app_development_experiment_journal_3/)
-- [Jetpack compose for intermediates](https://www.reddit.com/r/androiddev/comments/1dcuw3m/jetpack_compose_for_intermediates/)
-- [Android Studio Jellyfish | 2023.3.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1dcqgfn/android_studio_jellyfish_202331_patch_2_now/)
-- [Android Studio Koala | 2024.1.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1dcqgfz/android_studio_koala_202411_rc_2_now_available/)
-- [Basic code understanding question](https://www.reddit.com/r/androiddev/comments/1dcpibc/basic_code_understanding_question/)
-- [Android Studio Jellyfish | 2023.3.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1dcp053/android_studio_jellyfish_202331_patch_2_now/)
-- [Beginner unsure of the quality of the software I am building](https://www.reddit.com/r/androiddev/comments/1dcnzvp/beginner_unsure_of_the_quality_of_the_software_i/)
+- [Can help understand this problem?](https://www.reddit.com/r/androiddev/comments/1ddv8tq/can_help_understand_this_problem/)
+- [Why doesn&#39;t a scheduled notification appear at the fixed time, and instead of that, the application goes back to the main activity in Android Java?](https://www.reddit.com/r/androiddev/comments/1ddu5cw/why_doesnt_a_scheduled_notification_appear_at_the/)
+- [Choosing between WorkManager and BroadcastReceiver](https://www.reddit.com/r/androiddev/comments/1ddjlvl/choosing_between_workmanager_and_broadcastreceiver/)
+- [How can I add a loading state before signing in ?](https://www.reddit.com/r/androiddev/comments/1ddiiuj/how_can_i_add_a_loading_state_before_signing_in/)
+- [How to Access Clipboard in Android App for Saving Links?](https://www.reddit.com/r/androiddev/comments/1ddheer/how_to_access_clipboard_in_android_app_for_saving/)
+- [Help Needed: Aligning UI Dimensions with Figma Design on Android](https://www.reddit.com/r/androiddev/comments/1ddg2et/help_needed_aligning_ui_dimensions_with_figma/)
+- [Does releasing a small update to an existing Android app update actually boost downloads?](https://www.reddit.com/r/androiddev/comments/1ddftz0/does_releasing_a_small_update_to_an_existing/)
+- [Flutter VS Kotlin](https://www.reddit.com/r/androiddev/comments/1dde5aw/flutter_vs_kotlin/)
+- [How to pre-load destination with Navigation-Compose?](https://www.reddit.com/r/androiddev/comments/1dd8kci/how_to_preload_destination_with_navigationcompose/)
+- [What&#39;s your go-to approach for designing responsive layouts in Android that adapt to various screen sizes?](https://www.reddit.com/r/androiddev/comments/1dd85e6/whats_your_goto_approach_for_designing_responsive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
