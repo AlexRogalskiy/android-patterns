@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can help understand this problem?](https://www.reddit.com/r/androiddev/comments/1ddv8tq/can_help_understand_this_problem/)
-- [Why doesn&#39;t a scheduled notification appear at the fixed time, and instead of that, the application goes back to the main activity in Android Java?](https://www.reddit.com/r/androiddev/comments/1ddu5cw/why_doesnt_a_scheduled_notification_appear_at_the/)
-- [Choosing between WorkManager and BroadcastReceiver](https://www.reddit.com/r/androiddev/comments/1ddjlvl/choosing_between_workmanager_and_broadcastreceiver/)
-- [How can I add a loading state before signing in ?](https://www.reddit.com/r/androiddev/comments/1ddiiuj/how_can_i_add_a_loading_state_before_signing_in/)
-- [How to Access Clipboard in Android App for Saving Links?](https://www.reddit.com/r/androiddev/comments/1ddheer/how_to_access_clipboard_in_android_app_for_saving/)
-- [Help Needed: Aligning UI Dimensions with Figma Design on Android](https://www.reddit.com/r/androiddev/comments/1ddg2et/help_needed_aligning_ui_dimensions_with_figma/)
-- [Does releasing a small update to an existing Android app update actually boost downloads?](https://www.reddit.com/r/androiddev/comments/1ddftz0/does_releasing_a_small_update_to_an_existing/)
-- [Flutter VS Kotlin](https://www.reddit.com/r/androiddev/comments/1dde5aw/flutter_vs_kotlin/)
-- [How to pre-load destination with Navigation-Compose?](https://www.reddit.com/r/androiddev/comments/1dd8kci/how_to_preload_destination_with_navigationcompose/)
-- [What&#39;s your go-to approach for designing responsive layouts in Android that adapt to various screen sizes?](https://www.reddit.com/r/androiddev/comments/1dd85e6/whats_your_goto_approach_for_designing_responsive/)
+- [Mapbox](https://www.reddit.com/r/androiddev/comments/1dejeg9/mapbox/)
+- [Created my latest KMP project named Coinify](https://www.reddit.com/r/androiddev/comments/1defxxm/created_my_latest_kmp_project_named_coinify/)
+- [It really happened after all these years!](https://www.reddit.com/r/androiddev/comments/1defdpt/it_really_happened_after_all_these_years/)
+- [Google Play Development Settlement](https://www.reddit.com/r/androiddev/comments/1defauy/google_play_development_settlement/)
+- [How to force Rotation / Orientation on apps with WSA and ADB?](https://www.reddit.com/r/androiddev/comments/1decmr6/how_to_force_rotation_orientation_on_apps_with/)
+- [Do you still have QA at your company?](https://www.reddit.com/r/androiddev/comments/1deciel/do_you_still_have_qa_at_your_company/)
+- [Google Play lawsuit payout?](https://www.reddit.com/r/androiddev/comments/1deajtm/google_play_lawsuit_payout/)
+- [Architecture training](https://www.reddit.com/r/androiddev/comments/1de9v8x/architecture_training/)
+- [Video: Kotlin&#39;s Reified Type Parameters](https://www.reddit.com/r/androiddev/comments/1de9j1k/video_kotlins_reified_type_parameters/)
+- [Best Ad Network that&#39;s Not Admob](https://www.reddit.com/r/androiddev/comments/1de83j3/best_ad_network_thats_not_admob/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
