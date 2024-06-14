@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mapbox](https://www.reddit.com/r/androiddev/comments/1dejeg9/mapbox/)
-- [Created my latest KMP project named Coinify](https://www.reddit.com/r/androiddev/comments/1defxxm/created_my_latest_kmp_project_named_coinify/)
-- [It really happened after all these years!](https://www.reddit.com/r/androiddev/comments/1defdpt/it_really_happened_after_all_these_years/)
-- [Google Play Development Settlement](https://www.reddit.com/r/androiddev/comments/1defauy/google_play_development_settlement/)
-- [How to force Rotation / Orientation on apps with WSA and ADB?](https://www.reddit.com/r/androiddev/comments/1decmr6/how_to_force_rotation_orientation_on_apps_with/)
-- [Do you still have QA at your company?](https://www.reddit.com/r/androiddev/comments/1deciel/do_you_still_have_qa_at_your_company/)
-- [Google Play lawsuit payout?](https://www.reddit.com/r/androiddev/comments/1deajtm/google_play_lawsuit_payout/)
-- [Architecture training](https://www.reddit.com/r/androiddev/comments/1de9v8x/architecture_training/)
-- [Video: Kotlin&#39;s Reified Type Parameters](https://www.reddit.com/r/androiddev/comments/1de9j1k/video_kotlins_reified_type_parameters/)
-- [Best Ad Network that&#39;s Not Admob](https://www.reddit.com/r/androiddev/comments/1de83j3/best_ad_network_thats_not_admob/)
+- [Tech Test Trauma: am I just old, or is this unreasonable?](https://www.reddit.com/r/androiddev/comments/1dfa5m6/tech_test_trauma_am_i_just_old_or_is_this/)
+- [How can I schedule reminders/notifications using Jetpack compose in my Android app?](https://www.reddit.com/r/androiddev/comments/1df7f6c/how_can_i_schedule_remindersnotifications_using/)
+- [Title: How to Add Users to Mesibo App &lpar;Looking for Help!&rpar;](https://www.reddit.com/r/androiddev/comments/1df6hzd/title_how_to_add_users_to_mesibo_app_looking_for/)
+- [Will Using ProtonVPN Allow Me to Redeem US Google Play Store Credits?](https://www.reddit.com/r/androiddev/comments/1df5muc/will_using_protonvpn_allow_me_to_redeem_us_google/)
+- [Android Studio Koala | 2024.1.1 now available](https://www.reddit.com/r/androiddev/comments/1df5a6r/android_studio_koala_202411_now_available/)
+- [How do I get an app through review that requires an on-prem server?](https://www.reddit.com/r/androiddev/comments/1df3hq1/how_do_i_get_an_app_through_review_that_requires/)
+- [Google Play Console Verification Mess](https://www.reddit.com/r/androiddev/comments/1df17gb/google_play_console_verification_mess/)
+- [How do you hold TextField parameters, value and onValueChanged, in a data class.](https://www.reddit.com/r/androiddev/comments/1dewhre/how_do_you_hold_textfield_parameters_value_and/)
+- [For now, I&#39;m not afraid that AI will take my job 👍🏻😄](https://www.reddit.com/r/androiddev/comments/1desnd0/for_now_im_not_afraid_that_ai_will_take_my_job/)
+- [Still not transparent?](https://www.reddit.com/r/androiddev/comments/1derub1/still_not_transparent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
