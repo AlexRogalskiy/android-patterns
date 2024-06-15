@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Tech Test Trauma: am I just old, or is this unreasonable?](https://www.reddit.com/r/androiddev/comments/1dfa5m6/tech_test_trauma_am_i_just_old_or_is_this/)
-- [How can I schedule reminders/notifications using Jetpack compose in my Android app?](https://www.reddit.com/r/androiddev/comments/1df7f6c/how_can_i_schedule_remindersnotifications_using/)
-- [Title: How to Add Users to Mesibo App &lpar;Looking for Help!&rpar;](https://www.reddit.com/r/androiddev/comments/1df6hzd/title_how_to_add_users_to_mesibo_app_looking_for/)
-- [Will Using ProtonVPN Allow Me to Redeem US Google Play Store Credits?](https://www.reddit.com/r/androiddev/comments/1df5muc/will_using_protonvpn_allow_me_to_redeem_us_google/)
-- [Android Studio Koala | 2024.1.1 now available](https://www.reddit.com/r/androiddev/comments/1df5a6r/android_studio_koala_202411_now_available/)
-- [How do I get an app through review that requires an on-prem server?](https://www.reddit.com/r/androiddev/comments/1df3hq1/how_do_i_get_an_app_through_review_that_requires/)
-- [Google Play Console Verification Mess](https://www.reddit.com/r/androiddev/comments/1df17gb/google_play_console_verification_mess/)
-- [How do you hold TextField parameters, value and onValueChanged, in a data class.](https://www.reddit.com/r/androiddev/comments/1dewhre/how_do_you_hold_textfield_parameters_value_and/)
-- [For now, I&#39;m not afraid that AI will take my job 👍🏻😄](https://www.reddit.com/r/androiddev/comments/1desnd0/for_now_im_not_afraid_that_ai_will_take_my_job/)
-- [Still not transparent?](https://www.reddit.com/r/androiddev/comments/1derub1/still_not_transparent/)
+- [Android studio: Nothing to show](https://www.reddit.com/r/androiddev/comments/1dg6aft/android_studio_nothing_to_show/)
+- [Musical scale/key checker idea - no idea where to start... Long explanation.. 🙏](https://www.reddit.com/r/androiddev/comments/1dg5wif/musical_scalekey_checker_idea_no_idea_where_to/)
+- [Google Lifetime Terminations Have Created a Thriving Black Market for Google Play Accounts](https://www.reddit.com/r/androiddev/comments/1dg2lch/google_lifetime_terminations_have_created_a/)
+- [New to Android Development from the Web](https://www.reddit.com/r/androiddev/comments/1dg27im/new_to_android_development_from_the_web/)
+- [What permission must be in my xml to upload images?](https://www.reddit.com/r/androiddev/comments/1dg1ss9/what_permission_must_be_in_my_xml_to_upload_images/)
+- [Blend mode in Compose doesn&#39;t work](https://www.reddit.com/r/androiddev/comments/1dfy5c9/blend_mode_in_compose_doesnt_work/)
+- [What is HAL anyways?](https://www.reddit.com/r/androiddev/comments/1dfxotr/what_is_hal_anyways/)
+- [Can’t hackers just remove the Play Integrity API?](https://www.reddit.com/r/androiddev/comments/1dftzo1/cant_hackers_just_remove_the_play_integrity_api/)
+- [What is the right technique to automate Android builds from command line with gradlew command?](https://www.reddit.com/r/androiddev/comments/1dftyul/what_is_the_right_technique_to_automate_android/)
+- [Recommended Android for development purposes](https://www.reddit.com/r/androiddev/comments/1dfs87x/recommended_android_for_development_purposes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
