@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android studio: Nothing to show](https://www.reddit.com/r/androiddev/comments/1dg6aft/android_studio_nothing_to_show/)
-- [Musical scale/key checker idea - no idea where to start... Long explanation.. 🙏](https://www.reddit.com/r/androiddev/comments/1dg5wif/musical_scalekey_checker_idea_no_idea_where_to/)
-- [Google Lifetime Terminations Have Created a Thriving Black Market for Google Play Accounts](https://www.reddit.com/r/androiddev/comments/1dg2lch/google_lifetime_terminations_have_created_a/)
-- [New to Android Development from the Web](https://www.reddit.com/r/androiddev/comments/1dg27im/new_to_android_development_from_the_web/)
-- [What permission must be in my xml to upload images?](https://www.reddit.com/r/androiddev/comments/1dg1ss9/what_permission_must_be_in_my_xml_to_upload_images/)
-- [Blend mode in Compose doesn&#39;t work](https://www.reddit.com/r/androiddev/comments/1dfy5c9/blend_mode_in_compose_doesnt_work/)
-- [What is HAL anyways?](https://www.reddit.com/r/androiddev/comments/1dfxotr/what_is_hal_anyways/)
-- [Can’t hackers just remove the Play Integrity API?](https://www.reddit.com/r/androiddev/comments/1dftzo1/cant_hackers_just_remove_the_play_integrity_api/)
-- [What is the right technique to automate Android builds from command line with gradlew command?](https://www.reddit.com/r/androiddev/comments/1dftyul/what_is_the_right_technique_to_automate_android/)
-- [Recommended Android for development purposes](https://www.reddit.com/r/androiddev/comments/1dfs87x/recommended_android_for_development_purposes/)
+- [How do I enable Google review the premium features of my subscription app?](https://www.reddit.com/r/androiddev/comments/1dgpjc6/how_do_i_enable_google_review_the_premium/)
+- [Share your thoughts and feedback: Movie Shelf App](https://www.reddit.com/r/androiddev/comments/1dgiypv/share_your_thoughts_and_feedback_movie_shelf_app/)
+- [When clicking on composable in code, Preview is not telling me where is that specific composable](https://www.reddit.com/r/androiddev/comments/1dginwf/when_clicking_on_composable_in_code_preview_is/)
+- [Recommendations for freelance portfolio](https://www.reddit.com/r/androiddev/comments/1dgfa7n/recommendations_for_freelance_portfolio/)
+- [What makes you better than other mobile developers?](https://www.reddit.com/r/androiddev/comments/1dgesoa/what_makes_you_better_than_other_mobile_developers/)
+- [Does android webview can do isolation？](https://www.reddit.com/r/androiddev/comments/1dgecl1/does_android_webview_can_do_isolation/)
+- [Introduction to KGPs Gradle Model](https://www.reddit.com/r/androiddev/comments/1dgcv36/introduction_to_kgps_gradle_model/)
+- [I made an open-source Android transcription keyboard using Whisper AI. You can dictate with auto punctuation and translation to many languages. :&rpar;](https://www.reddit.com/r/androiddev/comments/1dgcqki/i_made_an_opensource_android_transcription/)
+- [jetpack compose code push](https://www.reddit.com/r/androiddev/comments/1dga1kf/jetpack_compose_code_push/)
+- [HELP need apps idea for beginner &lpar;got accepted in internship&rpar;](https://www.reddit.com/r/androiddev/comments/1dg7opz/help_need_apps_idea_for_beginner_got_accepted_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
