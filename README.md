@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I enable Google review the premium features of my subscription app?](https://www.reddit.com/r/androiddev/comments/1dgpjc6/how_do_i_enable_google_review_the_premium/)
-- [Share your thoughts and feedback: Movie Shelf App](https://www.reddit.com/r/androiddev/comments/1dgiypv/share_your_thoughts_and_feedback_movie_shelf_app/)
-- [When clicking on composable in code, Preview is not telling me where is that specific composable](https://www.reddit.com/r/androiddev/comments/1dginwf/when_clicking_on_composable_in_code_preview_is/)
-- [Recommendations for freelance portfolio](https://www.reddit.com/r/androiddev/comments/1dgfa7n/recommendations_for_freelance_portfolio/)
-- [What makes you better than other mobile developers?](https://www.reddit.com/r/androiddev/comments/1dgesoa/what_makes_you_better_than_other_mobile_developers/)
-- [Does android webview can do isolation？](https://www.reddit.com/r/androiddev/comments/1dgecl1/does_android_webview_can_do_isolation/)
-- [Introduction to KGPs Gradle Model](https://www.reddit.com/r/androiddev/comments/1dgcv36/introduction_to_kgps_gradle_model/)
-- [I made an open-source Android transcription keyboard using Whisper AI. You can dictate with auto punctuation and translation to many languages. :&rpar;](https://www.reddit.com/r/androiddev/comments/1dgcqki/i_made_an_opensource_android_transcription/)
-- [jetpack compose code push](https://www.reddit.com/r/androiddev/comments/1dga1kf/jetpack_compose_code_push/)
-- [HELP need apps idea for beginner &lpar;got accepted in internship&rpar;](https://www.reddit.com/r/androiddev/comments/1dg7opz/help_need_apps_idea_for_beginner_got_accepted_in/)
+- [Strange Observation: API Calls During Internal Testing](https://www.reddit.com/r/androiddev/comments/1dhevpf/strange_observation_api_calls_during_internal/)
+- [Is it possible to get a 100k+ userbase without any advertisement? If so, how much would it take to reach userbase landmarks, like 1k, 10k, and 100k?](https://www.reddit.com/r/androiddev/comments/1dhel4y/is_it_possible_to_get_a_100k_userbase_without_any/)
+- [Can my game be published if it contains woke-criticism?](https://www.reddit.com/r/androiddev/comments/1dhb88m/can_my_game_be_published_if_it_contains/)
+- [How to effectively sell my app &lpar;Android/iOS&rpar;?](https://www.reddit.com/r/androiddev/comments/1dhatua/how_to_effectively_sell_my_app_androidios/)
+- [Push notifications without Firebase Cloud Messaging?](https://www.reddit.com/r/androiddev/comments/1dh94o7/push_notifications_without_firebase_cloud/)
+- [I recently received an email said that my AdSense will be deactivated in 30 days, even though I only use AdMob for my Android apps.](https://www.reddit.com/r/androiddev/comments/1dh82kq/i_recently_received_an_email_said_that_my_adsense/)
+- [Can I publish an app, in which the main feature will be paywalled?](https://www.reddit.com/r/androiddev/comments/1dh6qq9/can_i_publish_an_app_in_which_the_main_feature/)
+- [Android apps shouldn&#39;t have back buttons](https://www.reddit.com/r/androiddev/comments/1dh4mxv/android_apps_shouldnt_have_back_buttons/)
+- [Is Material you Useful?](https://www.reddit.com/r/androiddev/comments/1dh2ck2/is_material_you_useful/)
+- [Play console org account](https://www.reddit.com/r/androiddev/comments/1dgy95q/play_console_org_account/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
