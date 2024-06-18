@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin CLI compiler options - crossposting for a wider audience](https://www.reddit.com/r/androiddev/comments/1di96xq/kotlin_cli_compiler_options_crossposting_for_a/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1di7d2n/android_studio_koala_feature_drop_202412_canary_6/)
+- [RxJava to Kotlin coroutines?](https://www.reddit.com/r/androiddev/comments/1dhxuni/rxjava_to_kotlin_coroutines/)
+- [ASO?](https://www.reddit.com/r/androiddev/comments/1dhugwl/aso/)
+- [How can some apps run background tasks as often as they want?](https://www.reddit.com/r/androiddev/comments/1dhu2ks/how_can_some_apps_run_background_tasks_as_often/)
+- [What time does payout commence](https://www.reddit.com/r/androiddev/comments/1dhtand/what_time_does_payout_commence/)
+- [Android books](https://www.reddit.com/r/androiddev/comments/1dhsgoi/android_books/)
+- [web component library that support android 7.0](https://www.reddit.com/r/androiddev/comments/1dhsdh8/web_component_library_that_support_android_70/)
 - [Strange Observation: API Calls During Internal Testing](https://www.reddit.com/r/androiddev/comments/1dhevpf/strange_observation_api_calls_during_internal/)
-- [Is it possible to get a 100k+ userbase without any advertisement? If so, how much would it take to reach userbase landmarks, like 1k, 10k, and 100k?](https://www.reddit.com/r/androiddev/comments/1dhel4y/is_it_possible_to_get_a_100k_userbase_without_any/)
 - [Can my game be published if it contains woke-criticism?](https://www.reddit.com/r/androiddev/comments/1dhb88m/can_my_game_be_published_if_it_contains/)
-- [How to effectively sell my app &lpar;Android/iOS&rpar;?](https://www.reddit.com/r/androiddev/comments/1dhatua/how_to_effectively_sell_my_app_androidios/)
-- [Push notifications without Firebase Cloud Messaging?](https://www.reddit.com/r/androiddev/comments/1dh94o7/push_notifications_without_firebase_cloud/)
-- [I recently received an email said that my AdSense will be deactivated in 30 days, even though I only use AdMob for my Android apps.](https://www.reddit.com/r/androiddev/comments/1dh82kq/i_recently_received_an_email_said_that_my_adsense/)
-- [Can I publish an app, in which the main feature will be paywalled?](https://www.reddit.com/r/androiddev/comments/1dh6qq9/can_i_publish_an_app_in_which_the_main_feature/)
-- [Android apps shouldn&#39;t have back buttons](https://www.reddit.com/r/androiddev/comments/1dh4mxv/android_apps_shouldnt_have_back_buttons/)
-- [Is Material you Useful?](https://www.reddit.com/r/androiddev/comments/1dh2ck2/is_material_you_useful/)
-- [Play console org account](https://www.reddit.com/r/androiddev/comments/1dgy95q/play_console_org_account/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
