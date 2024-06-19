@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need to make an APK fast](https://www.reddit.com/r/androiddev/comments/1dioxka/i_need_to_make_an_apk_fast/)
+- [Should you just use the AnimatedContent composable to change pages instead of the navigation library?](https://www.reddit.com/r/androiddev/comments/1diovu8/should_you_just_use_the_animatedcontent/)
+- [European Accessibility Act: One year to go. Are you ready?](https://www.reddit.com/r/androiddev/comments/1dio8cx/european_accessibility_act_one_year_to_go_are_you/)
+- [why my preview windows doesnt match my emulator, i design my whole ui in preview but when i open the emulator all values are off. can someone help me out to set same size for preview and emulator](https://www.reddit.com/r/androiddev/comments/1dinbrl/why_my_preview_windows_doesnt_match_my_emulator_i/)
+- [Verify my bank account](https://www.reddit.com/r/androiddev/comments/1diiihn/verify_my_bank_account/)
+- [What is the most stable JavaVersion?](https://www.reddit.com/r/androiddev/comments/1dihc21/what_is_the_most_stable_javaversion/)
 - [Kotlin CLI compiler options - crossposting for a wider audience](https://www.reddit.com/r/androiddev/comments/1di96xq/kotlin_cli_compiler_options_crossposting_for_a/)
 - [Android Studio Koala Feature Drop | 2024.1.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1di7d2n/android_studio_koala_feature_drop_202412_canary_6/)
 - [RxJava to Kotlin coroutines?](https://www.reddit.com/r/androiddev/comments/1dhxuni/rxjava_to_kotlin_coroutines/)
 - [ASO?](https://www.reddit.com/r/androiddev/comments/1dhugwl/aso/)
-- [How can some apps run background tasks as often as they want?](https://www.reddit.com/r/androiddev/comments/1dhu2ks/how_can_some_apps_run_background_tasks_as_often/)
-- [What time does payout commence](https://www.reddit.com/r/androiddev/comments/1dhtand/what_time_does_payout_commence/)
-- [Android books](https://www.reddit.com/r/androiddev/comments/1dhsgoi/android_books/)
-- [web component library that support android 7.0](https://www.reddit.com/r/androiddev/comments/1dhsdh8/web_component_library_that_support_android_70/)
-- [Strange Observation: API Calls During Internal Testing](https://www.reddit.com/r/androiddev/comments/1dhevpf/strange_observation_api_calls_during_internal/)
-- [Can my game be published if it contains woke-criticism?](https://www.reddit.com/r/androiddev/comments/1dhb88m/can_my_game_be_published_if_it_contains/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
