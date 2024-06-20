@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I need to make an APK fast](https://www.reddit.com/r/androiddev/comments/1dioxka/i_need_to_make_an_apk_fast/)
-- [Should you just use the AnimatedContent composable to change pages instead of the navigation library?](https://www.reddit.com/r/androiddev/comments/1diovu8/should_you_just_use_the_animatedcontent/)
-- [European Accessibility Act: One year to go. Are you ready?](https://www.reddit.com/r/androiddev/comments/1dio8cx/european_accessibility_act_one_year_to_go_are_you/)
-- [why my preview windows doesnt match my emulator, i design my whole ui in preview but when i open the emulator all values are off. can someone help me out to set same size for preview and emulator](https://www.reddit.com/r/androiddev/comments/1dinbrl/why_my_preview_windows_doesnt_match_my_emulator_i/)
-- [Verify my bank account](https://www.reddit.com/r/androiddev/comments/1diiihn/verify_my_bank_account/)
-- [What is the most stable JavaVersion?](https://www.reddit.com/r/androiddev/comments/1dihc21/what_is_the_most_stable_javaversion/)
-- [Kotlin CLI compiler options - crossposting for a wider audience](https://www.reddit.com/r/androiddev/comments/1di96xq/kotlin_cli_compiler_options_crossposting_for_a/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1di7d2n/android_studio_koala_feature_drop_202412_canary_6/)
-- [RxJava to Kotlin coroutines?](https://www.reddit.com/r/androiddev/comments/1dhxuni/rxjava_to_kotlin_coroutines/)
-- [ASO?](https://www.reddit.com/r/androiddev/comments/1dhugwl/aso/)
+- [How Do You Prioritize Apps Optimization?](https://www.reddit.com/r/androiddev/comments/1djwikd/how_do_you_prioritize_apps_optimization/)
+- [Real-time Music Removal in Mobile App &lpar; in shorts etc .. &rpar; : Possible or Pipe Dream?](https://www.reddit.com/r/androiddev/comments/1djsmu9/realtime_music_removal_in_mobile_app_in_shorts/)
+- [can an application detect network requests from outside its application without rooting?](https://www.reddit.com/r/androiddev/comments/1djryzx/can_an_application_detect_network_requests_from/)
+- [Why won&#39;t Android Studio release sources earlier?](https://www.reddit.com/r/androiddev/comments/1djpxso/why_wont_android_studio_release_sources_earlier/)
+- [Android AVD Issue - Not starting](https://www.reddit.com/r/androiddev/comments/1djlae3/android_avd_issue_not_starting/)
+- [Converting my whole project from Java to Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1djjxkr/converting_my_whole_project_from_java_to_jetpack/)
+- [Do I really have to learn trigonometry to implement rotational drag gestures?](https://www.reddit.com/r/androiddev/comments/1djjwdc/do_i_really_have_to_learn_trigonometry_to/)
+- [Disabling Keyboard but Allow Text Pasting in TextField - Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1djj9lf/disabling_keyboard_but_allow_text_pasting_in/)
+- [How to delete everything from &quot;Changes in Review&quot;?](https://www.reddit.com/r/androiddev/comments/1djihpt/how_to_delete_everything_from_changes_in_review/)
+- [More or less updated Android Dev with Java ?](https://www.reddit.com/r/androiddev/comments/1djfk6m/more_or_less_updated_android_dev_with_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
