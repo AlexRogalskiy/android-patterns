@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How Do You Prioritize Apps Optimization?](https://www.reddit.com/r/androiddev/comments/1djwikd/how_do_you_prioritize_apps_optimization/)
-- [Real-time Music Removal in Mobile App &lpar; in shorts etc .. &rpar; : Possible or Pipe Dream?](https://www.reddit.com/r/androiddev/comments/1djsmu9/realtime_music_removal_in_mobile_app_in_shorts/)
-- [can an application detect network requests from outside its application without rooting?](https://www.reddit.com/r/androiddev/comments/1djryzx/can_an_application_detect_network_requests_from/)
-- [Why won&#39;t Android Studio release sources earlier?](https://www.reddit.com/r/androiddev/comments/1djpxso/why_wont_android_studio_release_sources_earlier/)
-- [Android AVD Issue - Not starting](https://www.reddit.com/r/androiddev/comments/1djlae3/android_avd_issue_not_starting/)
-- [Converting my whole project from Java to Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1djjxkr/converting_my_whole_project_from_java_to_jetpack/)
-- [Do I really have to learn trigonometry to implement rotational drag gestures?](https://www.reddit.com/r/androiddev/comments/1djjwdc/do_i_really_have_to_learn_trigonometry_to/)
-- [Disabling Keyboard but Allow Text Pasting in TextField - Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1djj9lf/disabling_keyboard_but_allow_text_pasting_in/)
-- [How to delete everything from &quot;Changes in Review&quot;?](https://www.reddit.com/r/androiddev/comments/1djihpt/how_to_delete_everything_from_changes_in_review/)
-- [More or less updated Android Dev with Java ?](https://www.reddit.com/r/androiddev/comments/1djfk6m/more_or_less_updated_android_dev_with_java/)
+- [How do you structure your UI state class?](https://www.reddit.com/r/androiddev/comments/1dkq3wy/how_do_you_structure_your_ui_state_class/)
+- [AI development assistance - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1dkpevu/ai_development_assistance_android_developers/)
+- [Why is Android Development so difficult and complex? &lpar;compared to Web and Desktop&rpar;](https://www.reddit.com/r/androiddev/comments/1dkjvgr/why_is_android_development_so_difficult_and/)
+- [FFmpeg in Android and LGPL](https://www.reddit.com/r/androiddev/comments/1dkijux/ffmpeg_in_android_and_lgpl/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1dki1tw/android_studio_koala_feature_drop_202412_canary_7/)
+- [How to initiate notification in a foreground service?](https://www.reddit.com/r/androiddev/comments/1dkfh4j/how_to_initiate_notification_in_a_foreground/)
+- [SMS Receiving](https://www.reddit.com/r/androiddev/comments/1dkeii2/sms_receiving/)
+- [Regarding the question about the Layout Inspector in Android Studio](https://www.reddit.com/r/androiddev/comments/1dkbuhv/regarding_the_question_about_the_layout_inspector/)
+- [Android foreground service stops immediately when is started after selecting an image](https://www.reddit.com/r/androiddev/comments/1dk9gt1/android_foreground_service_stops_immediately_when/)
+- [What is your thought process when creating an app using MVVM?](https://www.reddit.com/r/androiddev/comments/1dk7bzq/what_is_your_thought_process_when_creating_an_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
