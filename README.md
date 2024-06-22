@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you structure your UI state class?](https://www.reddit.com/r/androiddev/comments/1dkq3wy/how_do_you_structure_your_ui_state_class/)
-- [AI development assistance - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1dkpevu/ai_development_assistance_android_developers/)
-- [Why is Android Development so difficult and complex? &lpar;compared to Web and Desktop&rpar;](https://www.reddit.com/r/androiddev/comments/1dkjvgr/why_is_android_development_so_difficult_and/)
-- [FFmpeg in Android and LGPL](https://www.reddit.com/r/androiddev/comments/1dkijux/ffmpeg_in_android_and_lgpl/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1dki1tw/android_studio_koala_feature_drop_202412_canary_7/)
-- [How to initiate notification in a foreground service?](https://www.reddit.com/r/androiddev/comments/1dkfh4j/how_to_initiate_notification_in_a_foreground/)
-- [SMS Receiving](https://www.reddit.com/r/androiddev/comments/1dkeii2/sms_receiving/)
-- [Regarding the question about the Layout Inspector in Android Studio](https://www.reddit.com/r/androiddev/comments/1dkbuhv/regarding_the_question_about_the_layout_inspector/)
-- [Android foreground service stops immediately when is started after selecting an image](https://www.reddit.com/r/androiddev/comments/1dk9gt1/android_foreground_service_stops_immediately_when/)
-- [What is your thought process when creating an app using MVVM?](https://www.reddit.com/r/androiddev/comments/1dk7bzq/what_is_your_thought_process_when_creating_an_app/)
+- [What&#39;s the general consensus about version catalogs?](https://www.reddit.com/r/androiddev/comments/1dljlqv/whats_the_general_consensus_about_version_catalogs/)
+- [I made multi stop delivery route planner app&lpar;BaesongFriends&rpar; with Compose inspired by UPS Orion. Delivery route can be made just dragging the marker!](https://www.reddit.com/r/androiddev/comments/1dli0n9/i_made_multi_stop_delivery_route_planner/)
+- [Is there any problem using Reflection in application or libraries?](https://www.reddit.com/r/androiddev/comments/1dlgkna/is_there_any_problem_using_reflection_in/)
+- [We&#39;re looking to partner with an ad-supported app with 10k-100k users](https://www.reddit.com/r/androiddev/comments/1dlg4wo/were_looking_to_partner_with_an_adsupported_app/)
+- [Clearing app data deletes applied changes](https://www.reddit.com/r/androiddev/comments/1dlfno1/clearing_app_data_deletes_applied_changes/)
+- [How to send text input to a Composable within an IME Service app instead of sending text to the active input?](https://www.reddit.com/r/androiddev/comments/1dlebzy/how_to_send_text_input_to_a_composable_within_an/)
+- [Is it possible to build an app that floats on top of other apps and copies text to clip board?](https://www.reddit.com/r/androiddev/comments/1dlea4p/is_it_possible_to_build_an_app_that_floats_on_top/)
+- [Booking application cost?](https://www.reddit.com/r/androiddev/comments/1dld2wk/booking_application_cost/)
+- [What does the &quot;new *&quot; symbol mean?](https://www.reddit.com/r/androiddev/comments/1dld202/what_does_the_new_symbol_mean/)
+- [How to use compose type safe navigation with an object?](https://www.reddit.com/r/androiddev/comments/1dlaov7/how_to_use_compose_type_safe_navigation_with_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
