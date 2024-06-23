@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s the general consensus about version catalogs?](https://www.reddit.com/r/androiddev/comments/1dljlqv/whats_the_general_consensus_about_version_catalogs/)
-- [I made multi stop delivery route planner app&lpar;BaesongFriends&rpar; with Compose inspired by UPS Orion. Delivery route can be made just dragging the marker!](https://www.reddit.com/r/androiddev/comments/1dli0n9/i_made_multi_stop_delivery_route_planner/)
-- [Is there any problem using Reflection in application or libraries?](https://www.reddit.com/r/androiddev/comments/1dlgkna/is_there_any_problem_using_reflection_in/)
-- [We&#39;re looking to partner with an ad-supported app with 10k-100k users](https://www.reddit.com/r/androiddev/comments/1dlg4wo/were_looking_to_partner_with_an_adsupported_app/)
-- [Clearing app data deletes applied changes](https://www.reddit.com/r/androiddev/comments/1dlfno1/clearing_app_data_deletes_applied_changes/)
-- [How to send text input to a Composable within an IME Service app instead of sending text to the active input?](https://www.reddit.com/r/androiddev/comments/1dlebzy/how_to_send_text_input_to_a_composable_within_an/)
-- [Is it possible to build an app that floats on top of other apps and copies text to clip board?](https://www.reddit.com/r/androiddev/comments/1dlea4p/is_it_possible_to_build_an_app_that_floats_on_top/)
-- [Booking application cost?](https://www.reddit.com/r/androiddev/comments/1dld2wk/booking_application_cost/)
-- [What does the &quot;new *&quot; symbol mean?](https://www.reddit.com/r/androiddev/comments/1dld202/what_does_the_new_symbol_mean/)
-- [How to use compose type safe navigation with an object?](https://www.reddit.com/r/androiddev/comments/1dlaov7/how_to_use_compose_type_safe_navigation_with_an/)
+- [What is the next step??](https://www.reddit.com/r/androiddev/comments/1dm8ic8/what_is_the_next_step/)
+- [What i missed in these 7 months?](https://www.reddit.com/r/androiddev/comments/1dm6m64/what_i_missed_in_these_7_months/)
+- [How does Lawnchair use signature permissions without being signed with the platform key?](https://www.reddit.com/r/androiddev/comments/1dm4fw5/how_does_lawnchair_use_signature_permissions/)
+- [Verifying someone has a google developer account?](https://www.reddit.com/r/androiddev/comments/1dm1uyz/verifying_someone_has_a_google_developer_account/)
+- [Google play closed beta - how to optimize it ?](https://www.reddit.com/r/androiddev/comments/1dluklm/google_play_closed_beta_how_to_optimize_it/)
+- [Need help - why is my menu bar xml design file different from emulator?](https://www.reddit.com/r/androiddev/comments/1dlty3i/need_help_why_is_my_menu_bar_xml_design_file/)
+- [Google Play Access to Contacts Policy](https://www.reddit.com/r/androiddev/comments/1dltkjd/google_play_access_to_contacts_policy/)
+- [Turning Paid App with LVL &lpar;licensing library&rpar; into a free app with subscriptions/IAPs, will the LVL still function if the app becomes free? I want to unlock all features to the original users who paid.](https://www.reddit.com/r/androiddev/comments/1dlr8o3/turning_paid_app_with_lvl_licensing_library_into/)
+- [Had to use home address in latest Google verification for our business. What addresses were others able to use?](https://www.reddit.com/r/androiddev/comments/1dlmw47/had_to_use_home_address_in_latest_google/)
+- [Are ORG dev accounts with DUNS number less likely to get banned ?](https://www.reddit.com/r/androiddev/comments/1dlmt7m/are_org_dev_accounts_with_duns_number_less_likely/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
