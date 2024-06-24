@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the next step??](https://www.reddit.com/r/androiddev/comments/1dm8ic8/what_is_the_next_step/)
-- [What i missed in these 7 months?](https://www.reddit.com/r/androiddev/comments/1dm6m64/what_i_missed_in_these_7_months/)
+- [Google Ad Apps Certification Training Resource](https://www.reddit.com/r/androiddev/comments/1dmxp8r/google_ad_apps_certification_training_resource/)
+- [Why is my state not being collected?](https://www.reddit.com/r/androiddev/comments/1dmx17a/why_is_my_state_not_being_collected/)
+- [Facing problem with dagger.hilt plugin in my kotlin project](https://www.reddit.com/r/androiddev/comments/1dmlu3x/facing_problem_with_daggerhilt_plugin_in_my/)
+- [Show Taps app &lpar;Show customized taps upon touches, based on Shizuku&rpar; is already open source, and there are some compatibility issues that I cannot solve](https://www.reddit.com/r/androiddev/comments/1dmik8k/show_taps_app_show_customized_taps_upon_touches/)
+- [Bad emulator performance on windows &lpar;AndroidStudio&rpar;](https://www.reddit.com/r/androiddev/comments/1dmg5m9/bad_emulator_performance_on_windows_androidstudio/)
+- [Negative balance](https://www.reddit.com/r/androiddev/comments/1dmejzc/negative_balance/)
 - [How does Lawnchair use signature permissions without being signed with the platform key?](https://www.reddit.com/r/androiddev/comments/1dm4fw5/how_does_lawnchair_use_signature_permissions/)
 - [Verifying someone has a google developer account?](https://www.reddit.com/r/androiddev/comments/1dm1uyz/verifying_someone_has_a_google_developer_account/)
 - [Google play closed beta - how to optimize it ?](https://www.reddit.com/r/androiddev/comments/1dluklm/google_play_closed_beta_how_to_optimize_it/)
 - [Need help - why is my menu bar xml design file different from emulator?](https://www.reddit.com/r/androiddev/comments/1dlty3i/need_help_why_is_my_menu_bar_xml_design_file/)
-- [Google Play Access to Contacts Policy](https://www.reddit.com/r/androiddev/comments/1dltkjd/google_play_access_to_contacts_policy/)
-- [Turning Paid App with LVL &lpar;licensing library&rpar; into a free app with subscriptions/IAPs, will the LVL still function if the app becomes free? I want to unlock all features to the original users who paid.](https://www.reddit.com/r/androiddev/comments/1dlr8o3/turning_paid_app_with_lvl_licensing_library_into/)
-- [Had to use home address in latest Google verification for our business. What addresses were others able to use?](https://www.reddit.com/r/androiddev/comments/1dlmw47/had_to_use_home_address_in_latest_google/)
-- [Are ORG dev accounts with DUNS number less likely to get banned ?](https://www.reddit.com/r/androiddev/comments/1dlmt7m/are_org_dev_accounts_with_duns_number_less_likely/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
