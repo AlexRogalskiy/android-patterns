@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do you offer Widgets and co?](https://www.reddit.com/r/androiddev/comments/1dnu4e8/do_you_offer_widgets_and_co/)
+- [Parsing Movie Script PDF](https://www.reddit.com/r/androiddev/comments/1dnr0pc/parsing_movie_script_pdf/)
+- [Photo picker help](https://www.reddit.com/r/androiddev/comments/1dnn46l/photo_picker_help/)
+- [What do you think are the biggest pains in Android development?](https://www.reddit.com/r/androiddev/comments/1dnmdxj/what_do_you_think_are_the_biggest_pains_in/)
+- [Google Play developer verification - recommendations for phone/voicemail service?](https://www.reddit.com/r/androiddev/comments/1dnazs0/google_play_developer_verification/)
+- [FastScroller Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1dn6ky1/fastscroller_compose_multiplatform/)
+- [Seeking Feedback for a New App Designed for Programmers! 🚀](https://www.reddit.com/r/androiddev/comments/1dn6kbk/seeking_feedback_for_a_new_app_designed_for/)
+- [Did Google Play billing add &quot;Subscription rationale&quot; dialog?](https://www.reddit.com/r/androiddev/comments/1dn5wiw/did_google_play_billing_add_subscription/)
 - [Google Ad Apps Certification Training Resource](https://www.reddit.com/r/androiddev/comments/1dmxp8r/google_ad_apps_certification_training_resource/)
 - [Why is my state not being collected?](https://www.reddit.com/r/androiddev/comments/1dmx17a/why_is_my_state_not_being_collected/)
-- [Facing problem with dagger.hilt plugin in my kotlin project](https://www.reddit.com/r/androiddev/comments/1dmlu3x/facing_problem_with_daggerhilt_plugin_in_my/)
-- [Show Taps app &lpar;Show customized taps upon touches, based on Shizuku&rpar; is already open source, and there are some compatibility issues that I cannot solve](https://www.reddit.com/r/androiddev/comments/1dmik8k/show_taps_app_show_customized_taps_upon_touches/)
-- [Bad emulator performance on windows &lpar;AndroidStudio&rpar;](https://www.reddit.com/r/androiddev/comments/1dmg5m9/bad_emulator_performance_on_windows_androidstudio/)
-- [Negative balance](https://www.reddit.com/r/androiddev/comments/1dmejzc/negative_balance/)
-- [How does Lawnchair use signature permissions without being signed with the platform key?](https://www.reddit.com/r/androiddev/comments/1dm4fw5/how_does_lawnchair_use_signature_permissions/)
-- [Verifying someone has a google developer account?](https://www.reddit.com/r/androiddev/comments/1dm1uyz/verifying_someone_has_a_google_developer_account/)
-- [Google play closed beta - how to optimize it ?](https://www.reddit.com/r/androiddev/comments/1dluklm/google_play_closed_beta_how_to_optimize_it/)
-- [Need help - why is my menu bar xml design file different from emulator?](https://www.reddit.com/r/androiddev/comments/1dlty3i/need_help_why_is_my_menu_bar_xml_design_file/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
