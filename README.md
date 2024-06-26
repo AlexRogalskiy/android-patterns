@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do you offer Widgets and co?](https://www.reddit.com/r/androiddev/comments/1dnu4e8/do_you_offer_widgets_and_co/)
-- [Parsing Movie Script PDF](https://www.reddit.com/r/androiddev/comments/1dnr0pc/parsing_movie_script_pdf/)
-- [Photo picker help](https://www.reddit.com/r/androiddev/comments/1dnn46l/photo_picker_help/)
-- [What do you think are the biggest pains in Android development?](https://www.reddit.com/r/androiddev/comments/1dnmdxj/what_do_you_think_are_the_biggest_pains_in/)
-- [Google Play developer verification - recommendations for phone/voicemail service?](https://www.reddit.com/r/androiddev/comments/1dnazs0/google_play_developer_verification/)
-- [FastScroller Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1dn6ky1/fastscroller_compose_multiplatform/)
-- [Seeking Feedback for a New App Designed for Programmers! 🚀](https://www.reddit.com/r/androiddev/comments/1dn6kbk/seeking_feedback_for_a_new_app_designed_for/)
-- [Did Google Play billing add &quot;Subscription rationale&quot; dialog?](https://www.reddit.com/r/androiddev/comments/1dn5wiw/did_google_play_billing_add_subscription/)
-- [Google Ad Apps Certification Training Resource](https://www.reddit.com/r/androiddev/comments/1dmxp8r/google_ad_apps_certification_training_resource/)
-- [Why is my state not being collected?](https://www.reddit.com/r/androiddev/comments/1dmx17a/why_is_my_state_not_being_collected/)
+- [ProdataKey Implementation &lpar;Security Question&rpar;](https://www.reddit.com/r/androiddev/comments/1don2p8/prodatakey_implementation_security_question/)
+- [Type Safe Navigation with TabRow](https://www.reddit.com/r/androiddev/comments/1dolqnm/type_safe_navigation_with_tabrow/)
+- [What are some life-saving graphic and UI resources Android devs should know?](https://www.reddit.com/r/androiddev/comments/1doknuz/what_are_some_lifesaving_graphic_and_ui_resources/)
+- [Sudden drop in app ranking](https://www.reddit.com/r/androiddev/comments/1dog2q0/sudden_drop_in_app_ranking/)
+- [My Play Store developer account is expiring - do I have to fully publish an app &lpar;20 testers and all&rpar; to keep it alive?](https://www.reddit.com/r/androiddev/comments/1dodb80/my_play_store_developer_account_is_expiring_do_i/)
+- [Android emulator can&#39;t hear me / Mic doesn&#39;t work](https://www.reddit.com/r/androiddev/comments/1do7b1s/android_emulator_cant_hear_me_mic_doesnt_work/)
+- [Device with UVC support](https://www.reddit.com/r/androiddev/comments/1do6wnc/device_with_uvc_support/)
+- [I made a chat app that supports chatting with multiple LLMs at once.](https://www.reddit.com/r/androiddev/comments/1do6sep/i_made_a_chat_app_that_supports_chatting_with/)
+- [Android app is terminated after several days](https://www.reddit.com/r/androiddev/comments/1do5c5j/android_app_is_terminated_after_several_days/)
+- [Has anyone managed to get a DUNS number in the Netherlands for a sole proprietorship company?](https://www.reddit.com/r/androiddev/comments/1do3sj6/has_anyone_managed_to_get_a_duns_number_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
