@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ProdataKey Implementation &lpar;Security Question&rpar;](https://www.reddit.com/r/androiddev/comments/1don2p8/prodatakey_implementation_security_question/)
-- [Type Safe Navigation with TabRow](https://www.reddit.com/r/androiddev/comments/1dolqnm/type_safe_navigation_with_tabrow/)
-- [What are some life-saving graphic and UI resources Android devs should know?](https://www.reddit.com/r/androiddev/comments/1doknuz/what_are_some_lifesaving_graphic_and_ui_resources/)
-- [Sudden drop in app ranking](https://www.reddit.com/r/androiddev/comments/1dog2q0/sudden_drop_in_app_ranking/)
-- [My Play Store developer account is expiring - do I have to fully publish an app &lpar;20 testers and all&rpar; to keep it alive?](https://www.reddit.com/r/androiddev/comments/1dodb80/my_play_store_developer_account_is_expiring_do_i/)
-- [Android emulator can&#39;t hear me / Mic doesn&#39;t work](https://www.reddit.com/r/androiddev/comments/1do7b1s/android_emulator_cant_hear_me_mic_doesnt_work/)
-- [Device with UVC support](https://www.reddit.com/r/androiddev/comments/1do6wnc/device_with_uvc_support/)
-- [I made a chat app that supports chatting with multiple LLMs at once.](https://www.reddit.com/r/androiddev/comments/1do6sep/i_made_a_chat_app_that_supports_chatting_with/)
-- [Android app is terminated after several days](https://www.reddit.com/r/androiddev/comments/1do5c5j/android_app_is_terminated_after_several_days/)
-- [Has anyone managed to get a DUNS number in the Netherlands for a sole proprietorship company?](https://www.reddit.com/r/androiddev/comments/1do3sj6/has_anyone_managed_to_get_a_duns_number_in_the/)
+- [confused on writing tests](https://www.reddit.com/r/androiddev/comments/1dp0ug1/confused_on_writing_tests/)
+- [Video: 7 Kotlin Stdlib Features You Might Have Overlooked](https://www.reddit.com/r/androiddev/comments/1dp0pk7/video_7_kotlin_stdlib_features_you_might_have/)
+- [A bit confused while doing the &#39;Android Basics with Compose&#39; course where I have to create a simple greeting app using the &#39;empty activity&#39; template. Course content has this function called &#39;Surface&#39;, whereas in my Android Studio&lpar;Koala&rpar; it shows &#39;Scaffold&#39; instead. Anyone know the reason?](https://www.reddit.com/r/androiddev/comments/1dozs1j/a_bit_confused_while_doing_the_android_basics/)
+- [How to write terms and conditions?](https://www.reddit.com/r/androiddev/comments/1dowu16/how_to_write_terms_and_conditions/)
+- [How to publish your app on Playstore - Here are the Full Guide](https://www.reddit.com/r/androiddev/comments/1dowhzb/how_to_publish_your_app_on_playstore_here_are_the/)
+- [Google SignIn Release SHA1 for Android Client Id](https://www.reddit.com/r/androiddev/comments/1dovv1b/google_signin_release_sha1_for_android_client_id/)
+- [How do you deal with this?](https://www.reddit.com/r/androiddev/comments/1dov4du/how_do_you_deal_with_this/)
+- [Compose, SharedViewModel in ViewModel](https://www.reddit.com/r/androiddev/comments/1dov28n/compose_sharedviewmodel_in_viewmodel/)
+- [How can i find libraries, documentations and and what&#39;s the equivalent of NPM in android development](https://www.reddit.com/r/androiddev/comments/1dou1kl/how_can_i_find_libraries_documentations_and_and/)
+- [Exploring On-Device AI: Seeking Business and Industry Use Cases](https://www.reddit.com/r/androiddev/comments/1dotci4/exploring_ondevice_ai_seeking_business_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
