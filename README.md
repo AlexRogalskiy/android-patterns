@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Change in performance app checking tools](https://www.reddit.com/r/androiddev/comments/1dq4bl2/change_in_performance_app_checking_tools/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1dq1zlk/android_studio_koala_feature_drop_202412_canary_8/)
+- [OPINION: Callback directly inside state](https://www.reddit.com/r/androiddev/comments/1dpxs6c/opinion_callback_directly_inside_state/)
+- [Sentence-Embeddings-Android: An Android library to use access all-MiniLM-L6-V2 sentence embeddings &lpar;HF sentence-transformers&rpar;](https://www.reddit.com/r/androiddev/comments/1dpunde/sentenceembeddingsandroid_an_android_library_to/)
+- [Hi! Been a year as a full time android developer. Need advice for what’s in store for the future..](https://www.reddit.com/r/androiddev/comments/1dpr6b2/hi_been_a_year_as_a_full_time_android_developer/)
+- [Removal of Weak Signature Algorithms from APK certificate.](https://www.reddit.com/r/androiddev/comments/1dpoipw/removal_of_weak_signature_algorithms_from_apk/)
+- [&quot;Action Required&quot; Red Message for Migrating to the Latest Google Play Billing Library Upgrade](https://www.reddit.com/r/androiddev/comments/1dpmfsr/action_required_red_message_for_migrating_to_the/)
+- [FIRC from google play subscription revenue India?](https://www.reddit.com/r/androiddev/comments/1dpgtik/firc_from_google_play_subscription_revenue_india/)
 - [confused on writing tests](https://www.reddit.com/r/androiddev/comments/1dp0ug1/confused_on_writing_tests/)
 - [Video: 7 Kotlin Stdlib Features You Might Have Overlooked](https://www.reddit.com/r/androiddev/comments/1dp0pk7/video_7_kotlin_stdlib_features_you_might_have/)
-- [A bit confused while doing the &#39;Android Basics with Compose&#39; course where I have to create a simple greeting app using the &#39;empty activity&#39; template. Course content has this function called &#39;Surface&#39;, whereas in my Android Studio&lpar;Koala&rpar; it shows &#39;Scaffold&#39; instead. Anyone know the reason?](https://www.reddit.com/r/androiddev/comments/1dozs1j/a_bit_confused_while_doing_the_android_basics/)
-- [How to write terms and conditions?](https://www.reddit.com/r/androiddev/comments/1dowu16/how_to_write_terms_and_conditions/)
-- [How to publish your app on Playstore - Here are the Full Guide](https://www.reddit.com/r/androiddev/comments/1dowhzb/how_to_publish_your_app_on_playstore_here_are_the/)
-- [Google SignIn Release SHA1 for Android Client Id](https://www.reddit.com/r/androiddev/comments/1dovv1b/google_signin_release_sha1_for_android_client_id/)
-- [How do you deal with this?](https://www.reddit.com/r/androiddev/comments/1dov4du/how_do_you_deal_with_this/)
-- [Compose, SharedViewModel in ViewModel](https://www.reddit.com/r/androiddev/comments/1dov28n/compose_sharedviewmodel_in_viewmodel/)
-- [How can i find libraries, documentations and and what&#39;s the equivalent of NPM in android development](https://www.reddit.com/r/androiddev/comments/1dou1kl/how_can_i_find_libraries_documentations_and_and/)
-- [Exploring On-Device AI: Seeking Business and Industry Use Cases](https://www.reddit.com/r/androiddev/comments/1dotci4/exploring_ondevice_ai_seeking_business_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
