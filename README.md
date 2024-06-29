@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Practical interview questions](https://www.reddit.com/r/androiddev/comments/1dqz02m/practical_interview_questions/)
+- [How Coroutines Know When to Resume or Suspend: A Deep Dive with Examples](https://www.reddit.com/r/androiddev/comments/1dqty41/how_coroutines_know_when_to_resume_or_suspend_a/)
+- [Help with production &amp; closed testing](https://www.reddit.com/r/androiddev/comments/1dqoe33/help_with_production_closed_testing/)
+- [Implementing a Screen Capture library for Jetpack Compose Views](https://www.reddit.com/r/androiddev/comments/1dqkwiv/implementing_a_screen_capture_library_for_jetpack/)
+- [Why aren&#39;t my games aren&#39;t taking the full screen](https://www.reddit.com/r/androiddev/comments/1dqk9qa/why_arent_my_games_arent_taking_the_full_screen/)
+- [Google Play Billing Library 7: queryPurchaseHistory to be deprecated](https://www.reddit.com/r/androiddev/comments/1dqfqni/google_play_billing_library_7/)
+- [Transfer ownership of organization to another email](https://www.reddit.com/r/androiddev/comments/1dqd5ze/transfer_ownership_of_organization_to_another/)
+- [Android Logging Performance Improvements in Production](https://www.reddit.com/r/androiddev/comments/1dqaevm/android_logging_performance_improvements_in/)
 - [Change in performance app checking tools](https://www.reddit.com/r/androiddev/comments/1dq4bl2/change_in_performance_app_checking_tools/)
 - [Android Studio Koala Feature Drop | 2024.1.2 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1dq1zlk/android_studio_koala_feature_drop_202412_canary_8/)
-- [OPINION: Callback directly inside state](https://www.reddit.com/r/androiddev/comments/1dpxs6c/opinion_callback_directly_inside_state/)
-- [Sentence-Embeddings-Android: An Android library to use access all-MiniLM-L6-V2 sentence embeddings &lpar;HF sentence-transformers&rpar;](https://www.reddit.com/r/androiddev/comments/1dpunde/sentenceembeddingsandroid_an_android_library_to/)
-- [Hi! Been a year as a full time android developer. Need advice for what’s in store for the future..](https://www.reddit.com/r/androiddev/comments/1dpr6b2/hi_been_a_year_as_a_full_time_android_developer/)
-- [Removal of Weak Signature Algorithms from APK certificate.](https://www.reddit.com/r/androiddev/comments/1dpoipw/removal_of_weak_signature_algorithms_from_apk/)
-- [&quot;Action Required&quot; Red Message for Migrating to the Latest Google Play Billing Library Upgrade](https://www.reddit.com/r/androiddev/comments/1dpmfsr/action_required_red_message_for_migrating_to_the/)
-- [FIRC from google play subscription revenue India?](https://www.reddit.com/r/androiddev/comments/1dpgtik/firc_from_google_play_subscription_revenue_india/)
-- [confused on writing tests](https://www.reddit.com/r/androiddev/comments/1dp0ug1/confused_on_writing_tests/)
-- [Video: 7 Kotlin Stdlib Features You Might Have Overlooked](https://www.reddit.com/r/androiddev/comments/1dp0pk7/video_7_kotlin_stdlib_features_you_might_have/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
