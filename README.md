@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google Play Android App Update Approval Delays](https://www.reddit.com/r/androiddev/comments/1drpzw0/google_play_android_app_update_approval_delays/)
+- [How do you solve mutual exclusion between the UI, background work and notifications?](https://www.reddit.com/r/androiddev/comments/1drmums/how_do_you_solve_mutual_exclusion_between_the_ui/)
+- [Question for Libraries developers](https://www.reddit.com/r/androiddev/comments/1drm6d6/question_for_libraries_developers/)
+- [Are there templates you use when starting to build an app from scratch?](https://www.reddit.com/r/androiddev/comments/1drkq81/are_there_templates_you_use_when_starting_to/)
+- [Quiet deprecation of IM contact fields](https://www.reddit.com/r/androiddev/comments/1drfku0/quiet_deprecation_of_im_contact_fields/)
+- [Confused how local device data structures are handled across app versions, could do with some help because it seems like it&#39;s an unmaintainable nightmare](https://www.reddit.com/r/androiddev/comments/1drdcyl/confused_how_local_device_data_structures_are/)
+- [Help Needed: Google Play Console Identity Verification Rejections](https://www.reddit.com/r/androiddev/comments/1drc9oi/help_needed_google_play_console_identity/)
+- [IOS or Android for Indie Development?](https://www.reddit.com/r/androiddev/comments/1dr9c8d/ios_or_android_for_indie_development/)
+- [Anyone preparing for native Android interviews currently? I&#39;m looking for fellow devs to prepare for interviews with/mock interviews](https://www.reddit.com/r/androiddev/comments/1dr6v5f/anyone_preparing_for_native_android_interviews/)
 - [Practical interview questions](https://www.reddit.com/r/androiddev/comments/1dqz02m/practical_interview_questions/)
-- [How Coroutines Know When to Resume or Suspend: A Deep Dive with Examples](https://www.reddit.com/r/androiddev/comments/1dqty41/how_coroutines_know_when_to_resume_or_suspend_a/)
-- [Help with production &amp; closed testing](https://www.reddit.com/r/androiddev/comments/1dqoe33/help_with_production_closed_testing/)
-- [Implementing a Screen Capture library for Jetpack Compose Views](https://www.reddit.com/r/androiddev/comments/1dqkwiv/implementing_a_screen_capture_library_for_jetpack/)
-- [Why aren&#39;t my games aren&#39;t taking the full screen](https://www.reddit.com/r/androiddev/comments/1dqk9qa/why_arent_my_games_arent_taking_the_full_screen/)
-- [Google Play Billing Library 7: queryPurchaseHistory to be deprecated](https://www.reddit.com/r/androiddev/comments/1dqfqni/google_play_billing_library_7/)
-- [Transfer ownership of organization to another email](https://www.reddit.com/r/androiddev/comments/1dqd5ze/transfer_ownership_of_organization_to_another/)
-- [Android Logging Performance Improvements in Production](https://www.reddit.com/r/androiddev/comments/1dqaevm/android_logging_performance_improvements_in/)
-- [Change in performance app checking tools](https://www.reddit.com/r/androiddev/comments/1dq4bl2/change_in_performance_app_checking_tools/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1dq1zlk/android_studio_koala_feature_drop_202412_canary_8/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
