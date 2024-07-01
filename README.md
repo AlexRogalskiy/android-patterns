@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play Android App Update Approval Delays](https://www.reddit.com/r/androiddev/comments/1drpzw0/google_play_android_app_update_approval_delays/)
+- [Google Pay for premium subscriptions?](https://www.reddit.com/r/androiddev/comments/1dsdswb/google_pay_for_premium_subscriptions/)
+- [Why creating a MaterialTheme if colors have to be set manually anyways?](https://www.reddit.com/r/androiddev/comments/1ds5m14/why_creating_a_materialtheme_if_colors_have_to_be/)
+- [How do you update your applications?](https://www.reddit.com/r/androiddev/comments/1ds00ny/how_do_you_update_your_applications/)
+- [Before release an app](https://www.reddit.com/r/androiddev/comments/1dryxzm/before_release_an_app/)
+- [Issues handling Compose RenderEffect lifecycle with shaders](https://www.reddit.com/r/androiddev/comments/1dryjxr/issues_handling_compose_rendereffect_lifecycle/)
+- [ComposeCards is a beautifully designed payment view library for Credit and Debit Card.](https://www.reddit.com/r/androiddev/comments/1drw4fi/composecards_is_a_beautifully_designed_payment/)
 - [How do you solve mutual exclusion between the UI, background work and notifications?](https://www.reddit.com/r/androiddev/comments/1drmums/how_do_you_solve_mutual_exclusion_between_the_ui/)
 - [Question for Libraries developers](https://www.reddit.com/r/androiddev/comments/1drm6d6/question_for_libraries_developers/)
 - [Are there templates you use when starting to build an app from scratch?](https://www.reddit.com/r/androiddev/comments/1drkq81/are_there_templates_you_use_when_starting_to/)
 - [Quiet deprecation of IM contact fields](https://www.reddit.com/r/androiddev/comments/1drfku0/quiet_deprecation_of_im_contact_fields/)
-- [Confused how local device data structures are handled across app versions, could do with some help because it seems like it&#39;s an unmaintainable nightmare](https://www.reddit.com/r/androiddev/comments/1drdcyl/confused_how_local_device_data_structures_are/)
-- [Help Needed: Google Play Console Identity Verification Rejections](https://www.reddit.com/r/androiddev/comments/1drc9oi/help_needed_google_play_console_identity/)
-- [IOS or Android for Indie Development?](https://www.reddit.com/r/androiddev/comments/1dr9c8d/ios_or_android_for_indie_development/)
-- [Anyone preparing for native Android interviews currently? I&#39;m looking for fellow devs to prepare for interviews with/mock interviews](https://www.reddit.com/r/androiddev/comments/1dr6v5f/anyone_preparing_for_native_android_interviews/)
-- [Practical interview questions](https://www.reddit.com/r/androiddev/comments/1dqz02m/practical_interview_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
