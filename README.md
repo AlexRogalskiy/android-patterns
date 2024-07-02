@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Pay for premium subscriptions?](https://www.reddit.com/r/androiddev/comments/1dsdswb/google_pay_for_premium_subscriptions/)
-- [Why creating a MaterialTheme if colors have to be set manually anyways?](https://www.reddit.com/r/androiddev/comments/1ds5m14/why_creating_a_materialtheme_if_colors_have_to_be/)
-- [How do you update your applications?](https://www.reddit.com/r/androiddev/comments/1ds00ny/how_do_you_update_your_applications/)
-- [Before release an app](https://www.reddit.com/r/androiddev/comments/1dryxzm/before_release_an_app/)
-- [Issues handling Compose RenderEffect lifecycle with shaders](https://www.reddit.com/r/androiddev/comments/1dryjxr/issues_handling_compose_rendereffect_lifecycle/)
-- [ComposeCards is a beautifully designed payment view library for Credit and Debit Card.](https://www.reddit.com/r/androiddev/comments/1drw4fi/composecards_is_a_beautifully_designed_payment/)
-- [How do you solve mutual exclusion between the UI, background work and notifications?](https://www.reddit.com/r/androiddev/comments/1drmums/how_do_you_solve_mutual_exclusion_between_the_ui/)
-- [Question for Libraries developers](https://www.reddit.com/r/androiddev/comments/1drm6d6/question_for_libraries_developers/)
-- [Are there templates you use when starting to build an app from scratch?](https://www.reddit.com/r/androiddev/comments/1drkq81/are_there_templates_you_use_when_starting_to/)
-- [Quiet deprecation of IM contact fields](https://www.reddit.com/r/androiddev/comments/1drfku0/quiet_deprecation_of_im_contact_fields/)
+- [Development and health issues](https://www.reddit.com/r/androiddev/comments/1dt765i/development_and_health_issues/)
+- [Probably a stupid question, but can signing apps doxx me?](https://www.reddit.com/r/androiddev/comments/1dt5hsa/probably_a_stupid_question_but_can_signing_apps/)
+- [Question About Using Offer Tokens in Billing Library 7](https://www.reddit.com/r/androiddev/comments/1dt2evw/question_about_using_offer_tokens_in_billing/)
+- [Primary Dex modified during Google Play Signing](https://www.reddit.com/r/androiddev/comments/1dsxpc5/primary_dex_modified_during_google_play_signing/)
+- [Google play - App bundles &lpar;Not the file format&rpar;](https://www.reddit.com/r/androiddev/comments/1dsx2ev/google_play_app_bundles_not_the_file_format/)
+- [Coroutine Essentials - Kotlin Illustrated Guide, Chapter 20](https://www.reddit.com/r/androiddev/comments/1dstyc4/coroutine_essentials_kotlin_illustrated_guide/)
+- [Cant run Arm64 Emulator on MacOS m2 host - help 🙏](https://www.reddit.com/r/androiddev/comments/1dstj1w/cant_run_arm64_emulator_on_macos_m2_host_help/)
+- [Cant find equivalent of &lt;select&gt; in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1dsoel8/cant_find_equivalent_of_select_in_jetpack_compose/)
+- [Would using MutableState in ViewModel break Clean Architecture](https://www.reddit.com/r/androiddev/comments/1dsma42/would_using_mutablestate_in_viewmodel_break_clean/)
+- [How long does it take to review your updates?](https://www.reddit.com/r/androiddev/comments/1dslpni/how_long_does_it_take_to_review_your_updates/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
