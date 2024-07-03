@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Development and health issues](https://www.reddit.com/r/androiddev/comments/1dt765i/development_and_health_issues/)
-- [Probably a stupid question, but can signing apps doxx me?](https://www.reddit.com/r/androiddev/comments/1dt5hsa/probably_a_stupid_question_but_can_signing_apps/)
-- [Question About Using Offer Tokens in Billing Library 7](https://www.reddit.com/r/androiddev/comments/1dt2evw/question_about_using_offer_tokens_in_billing/)
-- [Primary Dex modified during Google Play Signing](https://www.reddit.com/r/androiddev/comments/1dsxpc5/primary_dex_modified_during_google_play_signing/)
-- [Google play - App bundles &lpar;Not the file format&rpar;](https://www.reddit.com/r/androiddev/comments/1dsx2ev/google_play_app_bundles_not_the_file_format/)
-- [Coroutine Essentials - Kotlin Illustrated Guide, Chapter 20](https://www.reddit.com/r/androiddev/comments/1dstyc4/coroutine_essentials_kotlin_illustrated_guide/)
-- [Cant run Arm64 Emulator on MacOS m2 host - help 🙏](https://www.reddit.com/r/androiddev/comments/1dstj1w/cant_run_arm64_emulator_on_macos_m2_host_help/)
-- [Cant find equivalent of &lt;select&gt; in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1dsoel8/cant_find_equivalent_of_select_in_jetpack_compose/)
-- [Would using MutableState in ViewModel break Clean Architecture](https://www.reddit.com/r/androiddev/comments/1dsma42/would_using_mutablestate_in_viewmodel_break_clean/)
-- [How long does it take to review your updates?](https://www.reddit.com/r/androiddev/comments/1dslpni/how_long_does_it_take_to_review_your_updates/)
+- [App is receiving delayed response when using https](https://www.reddit.com/r/androiddev/comments/1du2pmh/app_is_receiving_delayed_response_when_using_https/)
+- [How do I add padding within my card so that my ImageView does not stick to the sides](https://www.reddit.com/r/androiddev/comments/1dtzhp2/how_do_i_add_padding_within_my_card_so_that_my/)
+- [What device does google use to review apps for approval?](https://www.reddit.com/r/androiddev/comments/1dttwb1/what_device_does_google_use_to_review_apps_for/)
+- [Unresolved reference: photo_title](https://www.reddit.com/r/androiddev/comments/1dtr9qm/unresolved_reference_photo_title/)
+- [Reldex: a way to measure app release processes](https://www.reddit.com/r/androiddev/comments/1dtokz6/reldex_a_way_to_measure_app_release_processes/)
+- [Disabling Autoformatting on selecting an Autocomplete Suggestion in Android Studio](https://www.reddit.com/r/androiddev/comments/1dtm5hk/disabling_autoformatting_on_selecting_an/)
+- [Using Loom in Pull Requests](https://www.reddit.com/r/androiddev/comments/1dtm3mk/using_loom_in_pull_requests/)
+- [Why does Android use JIT and AOT?](https://www.reddit.com/r/androiddev/comments/1dtlym9/why_does_android_use_jit_and_aot/)
+- [Android Emulation on Arm Host](https://www.reddit.com/r/androiddev/comments/1dtilej/android_emulation_on_arm_host/)
+- [OCR App doesn&#39;t work well](https://www.reddit.com/r/androiddev/comments/1dti509/ocr_app_doesnt_work_well/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
