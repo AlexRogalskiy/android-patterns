@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio: debugging is a kind of hell for years and years](https://www.reddit.com/r/androiddev/comments/1dupiwh/android_studio_debugging_is_a_kind_of_hell_for/)
+- [Android Studio - Debugger crashes before the application even atarts](https://www.reddit.com/r/androiddev/comments/1dup263/android_studio_debugger_crashes_before_the/)
+- [Good open source dealing with network calls and clean mvvm.](https://www.reddit.com/r/androiddev/comments/1dujh48/good_open_source_dealing_with_network_calls_and/)
+- [Android Crypto Samples - bunch of crypto samples for crypto-curious Android developers](https://www.reddit.com/r/androiddev/comments/1dufiaq/android_crypto_samples_bunch_of_crypto_samples/)
+- [Compiling arm-v8a to armeabi-v7a.](https://www.reddit.com/r/androiddev/comments/1dudlgs/compiling_armv8a_to_armeabiv7a/)
 - [App is receiving delayed response when using https](https://www.reddit.com/r/androiddev/comments/1du2pmh/app_is_receiving_delayed_response_when_using_https/)
 - [How do I add padding within my card so that my ImageView does not stick to the sides](https://www.reddit.com/r/androiddev/comments/1dtzhp2/how_do_i_add_padding_within_my_card_so_that_my/)
 - [What device does google use to review apps for approval?](https://www.reddit.com/r/androiddev/comments/1dttwb1/what_device_does_google_use_to_review_apps_for/)
 - [Unresolved reference: photo_title](https://www.reddit.com/r/androiddev/comments/1dtr9qm/unresolved_reference_photo_title/)
 - [Reldex: a way to measure app release processes](https://www.reddit.com/r/androiddev/comments/1dtokz6/reldex_a_way_to_measure_app_release_processes/)
-- [Disabling Autoformatting on selecting an Autocomplete Suggestion in Android Studio](https://www.reddit.com/r/androiddev/comments/1dtm5hk/disabling_autoformatting_on_selecting_an/)
-- [Using Loom in Pull Requests](https://www.reddit.com/r/androiddev/comments/1dtm3mk/using_loom_in_pull_requests/)
-- [Why does Android use JIT and AOT?](https://www.reddit.com/r/androiddev/comments/1dtlym9/why_does_android_use_jit_and_aot/)
-- [Android Emulation on Arm Host](https://www.reddit.com/r/androiddev/comments/1dtilej/android_emulation_on_arm_host/)
-- [OCR App doesn&#39;t work well](https://www.reddit.com/r/androiddev/comments/1dti509/ocr_app_doesnt_work_well/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
