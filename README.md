@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio: debugging is a kind of hell for years and years](https://www.reddit.com/r/androiddev/comments/1dupiwh/android_studio_debugging_is_a_kind_of_hell_for/)
-- [Android Studio - Debugger crashes before the application even atarts](https://www.reddit.com/r/androiddev/comments/1dup263/android_studio_debugger_crashes_before_the/)
-- [Good open source dealing with network calls and clean mvvm.](https://www.reddit.com/r/androiddev/comments/1dujh48/good_open_source_dealing_with_network_calls_and/)
-- [Android Crypto Samples - bunch of crypto samples for crypto-curious Android developers](https://www.reddit.com/r/androiddev/comments/1dufiaq/android_crypto_samples_bunch_of_crypto_samples/)
-- [Compiling arm-v8a to armeabi-v7a.](https://www.reddit.com/r/androiddev/comments/1dudlgs/compiling_armv8a_to_armeabiv7a/)
-- [App is receiving delayed response when using https](https://www.reddit.com/r/androiddev/comments/1du2pmh/app_is_receiving_delayed_response_when_using_https/)
-- [How do I add padding within my card so that my ImageView does not stick to the sides](https://www.reddit.com/r/androiddev/comments/1dtzhp2/how_do_i_add_padding_within_my_card_so_that_my/)
-- [What device does google use to review apps for approval?](https://www.reddit.com/r/androiddev/comments/1dttwb1/what_device_does_google_use_to_review_apps_for/)
-- [Unresolved reference: photo_title](https://www.reddit.com/r/androiddev/comments/1dtr9qm/unresolved_reference_photo_title/)
-- [Reldex: a way to measure app release processes](https://www.reddit.com/r/androiddev/comments/1dtokz6/reldex_a_way_to_measure_app_release_processes/)
+- [Struggling with Android Development: Seeking Advice and Resources](https://www.reddit.com/r/androiddev/comments/1dvgwk5/struggling_with_android_development_seeking/)
+- [Android SDK upgrade assistant](https://www.reddit.com/r/androiddev/comments/1dvfltt/android_sdk_upgrade_assistant/)
+- [FCM notifications](https://www.reddit.com/r/androiddev/comments/1dveulu/fcm_notifications/)
+- [How Room DB with Flow works?](https://www.reddit.com/r/androiddev/comments/1dvd0sf/how_room_db_with_flow_works/)
+- [So on making emulator, the emualtor seems to flash and then is nowhere to be seen and the window shows this](https://www.reddit.com/r/androiddev/comments/1dvcesv/so_on_making_emulator_the_emualtor_seems_to_flash/)
+- [Issue with selection screen](https://www.reddit.com/r/androiddev/comments/1dvc2m8/issue_with_selection_screen/)
+- [Monorepos in Android Projects](https://www.reddit.com/r/androiddev/comments/1dvbb3q/monorepos_in_android_projects/)
+- [App crashes on Android Studio, but works on physical device](https://www.reddit.com/r/androiddev/comments/1dvak0z/app_crashes_on_android_studio_but_works_on/)
+- [Application Fails Closed Testing, Additional 14 Days Required](https://www.reddit.com/r/androiddev/comments/1dv9q0d/application_fails_closed_testing_additional_14/)
+- [Unable to establish a simple socket connection between publisher and subscriber over Wifi-Aware](https://www.reddit.com/r/androiddev/comments/1dv7k7l/unable_to_establish_a_simple_socket_connection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
