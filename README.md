@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Struggling with Android Development: Seeking Advice and Resources](https://www.reddit.com/r/androiddev/comments/1dvgwk5/struggling_with_android_development_seeking/)
-- [Android SDK upgrade assistant](https://www.reddit.com/r/androiddev/comments/1dvfltt/android_sdk_upgrade_assistant/)
-- [FCM notifications](https://www.reddit.com/r/androiddev/comments/1dveulu/fcm_notifications/)
-- [How Room DB with Flow works?](https://www.reddit.com/r/androiddev/comments/1dvd0sf/how_room_db_with_flow_works/)
-- [So on making emulator, the emualtor seems to flash and then is nowhere to be seen and the window shows this](https://www.reddit.com/r/androiddev/comments/1dvcesv/so_on_making_emulator_the_emualtor_seems_to_flash/)
-- [Issue with selection screen](https://www.reddit.com/r/androiddev/comments/1dvc2m8/issue_with_selection_screen/)
-- [Monorepos in Android Projects](https://www.reddit.com/r/androiddev/comments/1dvbb3q/monorepos_in_android_projects/)
-- [App crashes on Android Studio, but works on physical device](https://www.reddit.com/r/androiddev/comments/1dvak0z/app_crashes_on_android_studio_but_works_on/)
-- [Application Fails Closed Testing, Additional 14 Days Required](https://www.reddit.com/r/androiddev/comments/1dv9q0d/application_fails_closed_testing_additional_14/)
-- [Unable to establish a simple socket connection between publisher and subscriber over Wifi-Aware](https://www.reddit.com/r/androiddev/comments/1dv7k7l/unable_to_establish_a_simple_socket_connection/)
+- [Need feedback: are these red flags? am I too critical?](https://www.reddit.com/r/androiddev/comments/1dw8hx0/need_feedback_are_these_red_flags_am_i_too/)
+- [scammed on this sub just a heads up](https://www.reddit.com/r/androiddev/comments/1dw71i9/scammed_on_this_sub_just_a_heads_up/)
+- [Target API level requirements have been updated: August 31, 2024, deadline to target API level 34](https://www.reddit.com/r/androiddev/comments/1dw2cj4/target_api_level_requirements_have_been_updated/)
+- [Kmm after Android in Compose](https://www.reddit.com/r/androiddev/comments/1dw1bwp/kmm_after_android_in_compose/)
+- [Those of you who have given Android interviews recently&lpar;in the last 6 months or ongoing&rpar;, what gets asked now?](https://www.reddit.com/r/androiddev/comments/1dw19ub/those_of_you_who_have_given_android_interviews/)
+- [Android Studio bricks up my pc](https://www.reddit.com/r/androiddev/comments/1dw16e0/android_studio_bricks_up_my_pc/)
+- [Can build APK, but not install with Android studio.](https://www.reddit.com/r/androiddev/comments/1dw10te/can_build_apk_but_not_install_with_android_studio/)
+- [How Can I Improve My Android Coding Skills? Seeking Tips from Experienced Developers](https://www.reddit.com/r/androiddev/comments/1dw0wr0/how_can_i_improve_my_android_coding_skills/)
+- [Weird Logcat Error](https://www.reddit.com/r/androiddev/comments/1dvxcvw/weird_logcat_error/)
+- [Navigation in Compose](https://www.reddit.com/r/androiddev/comments/1dvvy4e/navigation_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
