@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why can’t I install the android usb drivers?](https://www.reddit.com/r/androiddev/comments/1dx32sl/why_cant_i_install_the_android_usb_drivers/)
+- [Android Enterprise MDM Profile Editor?](https://www.reddit.com/r/androiddev/comments/1dwxtye/android_enterprise_mdm_profile_editor/)
+- [Architecture related decisions in Android](https://www.reddit.com/r/androiddev/comments/1dwojbg/architecture_related_decisions_in_android/)
+- [Google Play verification. Verify as Organization, even though presently its an individual?](https://www.reddit.com/r/androiddev/comments/1dwo41y/google_play_verification_verify_as_organization/)
+- [HOW TO FIX Blurred Pixel Art in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1dwlw3q/how_to_fix_blurred_pixel_art_in_jetpack_compose/)
+- [Burnout in playstore development](https://www.reddit.com/r/androiddev/comments/1dwj2v2/burnout_in_playstore_development/)
 - [Need feedback: are these red flags? am I too critical?](https://www.reddit.com/r/androiddev/comments/1dw8hx0/need_feedback_are_these_red_flags_am_i_too/)
 - [scammed on this sub just a heads up](https://www.reddit.com/r/androiddev/comments/1dw71i9/scammed_on_this_sub_just_a_heads_up/)
 - [Target API level requirements have been updated: August 31, 2024, deadline to target API level 34](https://www.reddit.com/r/androiddev/comments/1dw2cj4/target_api_level_requirements_have_been_updated/)
 - [Kmm after Android in Compose](https://www.reddit.com/r/androiddev/comments/1dw1bwp/kmm_after_android_in_compose/)
-- [Those of you who have given Android interviews recently&lpar;in the last 6 months or ongoing&rpar;, what gets asked now?](https://www.reddit.com/r/androiddev/comments/1dw19ub/those_of_you_who_have_given_android_interviews/)
-- [Android Studio bricks up my pc](https://www.reddit.com/r/androiddev/comments/1dw16e0/android_studio_bricks_up_my_pc/)
-- [Can build APK, but not install with Android studio.](https://www.reddit.com/r/androiddev/comments/1dw10te/can_build_apk_but_not_install_with_android_studio/)
-- [How Can I Improve My Android Coding Skills? Seeking Tips from Experienced Developers](https://www.reddit.com/r/androiddev/comments/1dw0wr0/how_can_i_improve_my_android_coding_skills/)
-- [Weird Logcat Error](https://www.reddit.com/r/androiddev/comments/1dvxcvw/weird_logcat_error/)
-- [Navigation in Compose](https://www.reddit.com/r/androiddev/comments/1dvvy4e/navigation_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
