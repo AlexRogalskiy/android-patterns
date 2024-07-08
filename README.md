@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why can’t I install the android usb drivers?](https://www.reddit.com/r/androiddev/comments/1dx32sl/why_cant_i_install_the_android_usb_drivers/)
-- [Android Enterprise MDM Profile Editor?](https://www.reddit.com/r/androiddev/comments/1dwxtye/android_enterprise_mdm_profile_editor/)
+- [RxJava to Kotlin Coroutines: The Ultimate Migration Guide](https://www.reddit.com/r/androiddev/comments/1dxocrv/rxjava_to_kotlin_coroutines_the_ultimate/)
+- [Proper Permission for Foreground Service?](https://www.reddit.com/r/androiddev/comments/1dxjiwc/proper_permission_for_foreground_service/)
+- [What causes the NavHost&lpar;&rpar; to recompose every time I switch between screens or single item in the navigation bar is clicked more times? Is it something nature?](https://www.reddit.com/r/androiddev/comments/1dxc3ke/what_causes_the_navhost_to_recompose_every_time_i/)
+- [A Composable using both ViewModel and plain state holder](https://www.reddit.com/r/androiddev/comments/1dxam4m/a_composable_using_both_viewmodel_and_plain_state/)
 - [Architecture related decisions in Android](https://www.reddit.com/r/androiddev/comments/1dwojbg/architecture_related_decisions_in_android/)
 - [Google Play verification. Verify as Organization, even though presently its an individual?](https://www.reddit.com/r/androiddev/comments/1dwo41y/google_play_verification_verify_as_organization/)
 - [HOW TO FIX Blurred Pixel Art in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1dwlw3q/how_to_fix_blurred_pixel_art_in_jetpack_compose/)
 - [Burnout in playstore development](https://www.reddit.com/r/androiddev/comments/1dwj2v2/burnout_in_playstore_development/)
 - [Need feedback: are these red flags? am I too critical?](https://www.reddit.com/r/androiddev/comments/1dw8hx0/need_feedback_are_these_red_flags_am_i_too/)
 - [scammed on this sub just a heads up](https://www.reddit.com/r/androiddev/comments/1dw71i9/scammed_on_this_sub_just_a_heads_up/)
-- [Target API level requirements have been updated: August 31, 2024, deadline to target API level 34](https://www.reddit.com/r/androiddev/comments/1dw2cj4/target_api_level_requirements_have_been_updated/)
-- [Kmm after Android in Compose](https://www.reddit.com/r/androiddev/comments/1dw1bwp/kmm_after_android_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
