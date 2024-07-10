@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can I have an Adapter Package and ViewModel Package in the same project?](https://www.reddit.com/r/androiddev/comments/1dyny4i/can_i_have_an_adapter_package_and_viewmodel/)
-- [Android MVVM Architecture for A Production Ready App](https://www.reddit.com/r/androiddev/comments/1dyh9dx/android_mvvm_architecture_for_a_production_ready/)
-- [What does Hilt means when they do not support feature module?](https://www.reddit.com/r/androiddev/comments/1dy884t/what_does_hilt_means_when_they_do_not_support/)
-- [Scroll after taping Navigation Bar Item?](https://www.reddit.com/r/androiddev/comments/1dy18eo/scroll_after_taping_navigation_bar_item/)
-- [RxJava to Kotlin Coroutines: The Ultimate Migration Guide](https://www.reddit.com/r/androiddev/comments/1dxocrv/rxjava_to_kotlin_coroutines_the_ultimate/)
-- [Proper Permission for Foreground Service?](https://www.reddit.com/r/androiddev/comments/1dxjiwc/proper_permission_for_foreground_service/)
-- [What causes the NavHost&lpar;&rpar; to recompose every time I switch between screens or single item in the navigation bar is clicked more times? Is it something nature?](https://www.reddit.com/r/androiddev/comments/1dxc3ke/what_causes_the_navhost_to_recompose_every_time_i/)
-- [A Composable using both ViewModel and plain state holder](https://www.reddit.com/r/androiddev/comments/1dxam4m/a_composable_using_both_viewmodel_and_plain_state/)
-- [Architecture related decisions in Android](https://www.reddit.com/r/androiddev/comments/1dwojbg/architecture_related_decisions_in_android/)
-- [Google Play verification. Verify as Organization, even though presently its an individual?](https://www.reddit.com/r/androiddev/comments/1dwo41y/google_play_verification_verify_as_organization/)
+- [In-App-Payment required?](https://www.reddit.com/r/androiddev/comments/1dzhlre/inapppayment_required/)
+- [Do developers still use the Android File API to save and load data?](https://www.reddit.com/r/androiddev/comments/1dzeuzi/do_developers_still_use_the_android_file_api_to/)
+- [New ways of optimizing stability in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1dzcylp/new_ways_of_optimizing_stability_in_jetpack/)
+- [Clipping images inside glance widgets?](https://www.reddit.com/r/androiddev/comments/1dz9uuw/clipping_images_inside_glance_widgets/)
+- [My coding task for an android dev position experience](https://www.reddit.com/r/androiddev/comments/1dz92z8/my_coding_task_for_an_android_dev_position/)
+- [When to use Flow and Mutable State?](https://www.reddit.com/r/androiddev/comments/1dz7z45/when_to_use_flow_and_mutable_state/)
+- [Could we use Firebase Distribution for testing before app review on Play Store?](https://www.reddit.com/r/androiddev/comments/1dz64ia/could_we_use_firebase_distribution_for_testing/)
+- [Conflicting review status](https://www.reddit.com/r/androiddev/comments/1dz40ej/conflicting_review_status/)
+- [Google Play Console - Internal Testing Requirements *Clarification*](https://www.reddit.com/r/androiddev/comments/1dz0xbs/google_play_console_internal_testing_requirements/)
+- [Android System Design - difficulty creating High Level Design](https://www.reddit.com/r/androiddev/comments/1dyzwpl/android_system_design_difficulty_creating_high/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
