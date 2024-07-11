@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [In-App-Payment required?](https://www.reddit.com/r/androiddev/comments/1dzhlre/inapppayment_required/)
-- [Do developers still use the Android File API to save and load data?](https://www.reddit.com/r/androiddev/comments/1dzeuzi/do_developers_still_use_the_android_file_api_to/)
-- [New ways of optimizing stability in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1dzcylp/new_ways_of_optimizing_stability_in_jetpack/)
-- [Clipping images inside glance widgets?](https://www.reddit.com/r/androiddev/comments/1dz9uuw/clipping_images_inside_glance_widgets/)
-- [My coding task for an android dev position experience](https://www.reddit.com/r/androiddev/comments/1dz92z8/my_coding_task_for_an_android_dev_position/)
-- [When to use Flow and Mutable State?](https://www.reddit.com/r/androiddev/comments/1dz7z45/when_to_use_flow_and_mutable_state/)
-- [Could we use Firebase Distribution for testing before app review on Play Store?](https://www.reddit.com/r/androiddev/comments/1dz64ia/could_we_use_firebase_distribution_for_testing/)
-- [Conflicting review status](https://www.reddit.com/r/androiddev/comments/1dz40ej/conflicting_review_status/)
-- [Google Play Console - Internal Testing Requirements *Clarification*](https://www.reddit.com/r/androiddev/comments/1dz0xbs/google_play_console_internal_testing_requirements/)
-- [Android System Design - difficulty creating High Level Design](https://www.reddit.com/r/androiddev/comments/1dyzwpl/android_system_design_difficulty_creating_high/)
+- [Code examples and current best practice to display data table in Kotlin w/ Jetpack Compose &lpar;building a collection database&rpar;?](https://www.reddit.com/r/androiddev/comments/1e056tq/code_examples_and_current_best_practice_to/)
+- [Problem implementing navigation after Granting Permissions with MutableStateFlow](https://www.reddit.com/r/androiddev/comments/1e04o05/problem_implementing_navigation_after_granting/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1e00ule/android_studio_koala_feature_drop_202412_beta_1/)
+- [Video: Kotlin Code Reuse - Composing like you&#39;re Inheriting](https://www.reddit.com/r/androiddev/comments/1dzxz5t/video_kotlin_code_reuse_composing_like_youre/)
+- [My company is asking its employees to review its own Android App](https://www.reddit.com/r/androiddev/comments/1dzwvi9/my_company_is_asking_its_employees_to_review_its/)
+- [How to make bottom navigation small](https://www.reddit.com/r/androiddev/comments/1dzw31u/how_to_make_bottom_navigation_small/)
+- [How to take screenshot natively in Android Studio](https://www.reddit.com/r/androiddev/comments/1dzw0wi/how_to_take_screenshot_natively_in_android_studio/)
+- [How to catch an error when a site is down using java?](https://www.reddit.com/r/androiddev/comments/1dzs9sb/how_to_catch_an_error_when_a_site_is_down_using/)
+- [Fastlane building error](https://www.reddit.com/r/androiddev/comments/1dzrs5d/fastlane_building_error/)
+- [Any way to get device model and brand through wifi or bluetooth?](https://www.reddit.com/r/androiddev/comments/1dzr7pg/any_way_to_get_device_model_and_brand_through/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
