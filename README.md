@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Code examples and current best practice to display data table in Kotlin w/ Jetpack Compose &lpar;building a collection database&rpar;?](https://www.reddit.com/r/androiddev/comments/1e056tq/code_examples_and_current_best_practice_to/)
-- [Problem implementing navigation after Granting Permissions with MutableStateFlow](https://www.reddit.com/r/androiddev/comments/1e04o05/problem_implementing_navigation_after_granting/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1e00ule/android_studio_koala_feature_drop_202412_beta_1/)
-- [Video: Kotlin Code Reuse - Composing like you&#39;re Inheriting](https://www.reddit.com/r/androiddev/comments/1dzxz5t/video_kotlin_code_reuse_composing_like_youre/)
-- [My company is asking its employees to review its own Android App](https://www.reddit.com/r/androiddev/comments/1dzwvi9/my_company_is_asking_its_employees_to_review_its/)
-- [How to make bottom navigation small](https://www.reddit.com/r/androiddev/comments/1dzw31u/how_to_make_bottom_navigation_small/)
-- [How to take screenshot natively in Android Studio](https://www.reddit.com/r/androiddev/comments/1dzw0wi/how_to_take_screenshot_natively_in_android_studio/)
-- [How to catch an error when a site is down using java?](https://www.reddit.com/r/androiddev/comments/1dzs9sb/how_to_catch_an_error_when_a_site_is_down_using/)
-- [Fastlane building error](https://www.reddit.com/r/androiddev/comments/1dzrs5d/fastlane_building_error/)
-- [Any way to get device model and brand through wifi or bluetooth?](https://www.reddit.com/r/androiddev/comments/1dzr7pg/any_way_to_get_device_model_and_brand_through/)
+- [Tips for a beginner like me!](https://www.reddit.com/r/androiddev/comments/1e1513d/tips_for_a_beginner_like_me/)
+- [Why do apps have access to permissions I explicitly did not give?](https://www.reddit.com/r/androiddev/comments/1e14c95/why_do_apps_have_access_to_permissions_i/)
+- [After Gradle update: INSTALL_BASELINE_PROFILE_FAILED when debuggable=false](https://www.reddit.com/r/androiddev/comments/1e13blk/after_gradle_update_install_baseline_profile/)
+- [Do I really need to upgrade the android API to 34?](https://www.reddit.com/r/androiddev/comments/1e11klm/do_i_really_need_to_upgrade_the_android_api_to_34/)
+- [Android Studio Koala | 2024.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1e10x0c/android_studio_koala_202411_patch_1_now_available/)
+- [Cannot inject dependencies in HiltWorker](https://www.reddit.com/r/androiddev/comments/1e105xa/cannot_inject_dependencies_in_hiltworker/)
+- [Android TV Launcher &amp; The home button](https://www.reddit.com/r/androiddev/comments/1e0xl1q/android_tv_launcher_the_home_button/)
+- [Seeking Opinions: Teach Views and Compose in an intro course?](https://www.reddit.com/r/androiddev/comments/1e0wsqu/seeking_opinions_teach_views_and_compose_in_an/)
+- [Any solution to apply rounded corners to rows and columns in Jetpack Glance](https://www.reddit.com/r/androiddev/comments/1e0ujcx/any_solution_to_apply_rounded_corners_to_rows_and/)
+- [SMS Auth will be disabled without linking to Google cloud billing account](https://www.reddit.com/r/androiddev/comments/1e0tvrz/sms_auth_will_be_disabled_without_linking_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
