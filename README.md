@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Tips for a beginner like me!](https://www.reddit.com/r/androiddev/comments/1e1513d/tips_for_a_beginner_like_me/)
-- [Why do apps have access to permissions I explicitly did not give?](https://www.reddit.com/r/androiddev/comments/1e14c95/why_do_apps_have_access_to_permissions_i/)
+- [Realm Database Dependency Issue](https://www.reddit.com/r/androiddev/comments/1e1x0wo/realm_database_dependency_issue/)
+- [Can screenshot testing compare system screens like print preview screen?](https://www.reddit.com/r/androiddev/comments/1e1hiw8/can_screenshot_testing_compare_system_screens/)
+- [Is there a way to set text overlay bounds so text would not go out of video and also split into multiple lines automatically &lpar;Compose&rpar;?](https://www.reddit.com/r/androiddev/comments/1e1h0wq/is_there_a_way_to_set_text_overlay_bounds_so_text/)
+- [Need help on Clean Architecture with Service/Manager](https://www.reddit.com/r/androiddev/comments/1e1dvgp/need_help_on_clean_architecture_with/)
+- [Got an email from &quot;Google Play New Business Partnerships Team&quot; saying &quot;We&#39;d love to connect and share knowledge and resources to help you take [app name] even further&quot; with a number of ways they can help. Has anyone got this and is it worth agreeing to?](https://www.reddit.com/r/androiddev/comments/1e1crur/got_an_email_from_google_play_new_business/)
+- [Type Safe Deeplinking &lpar;Compose Navigation&rpar;](https://www.reddit.com/r/androiddev/comments/1e1co3h/type_safe_deeplinking_compose_navigation/)
+- [Valkyrie - SVG/XML to ImageVector](https://www.reddit.com/r/androiddev/comments/1e1bgh2/valkyrie_svgxml_to_imagevector/)
+- [Conventional Practices in Android](https://www.reddit.com/r/androiddev/comments/1e196mq/conventional_practices_in_android/)
 - [After Gradle update: INSTALL_BASELINE_PROFILE_FAILED when debuggable=false](https://www.reddit.com/r/androiddev/comments/1e13blk/after_gradle_update_install_baseline_profile/)
-- [Do I really need to upgrade the android API to 34?](https://www.reddit.com/r/androiddev/comments/1e11klm/do_i_really_need_to_upgrade_the_android_api_to_34/)
 - [Android Studio Koala | 2024.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1e10x0c/android_studio_koala_202411_patch_1_now_available/)
-- [Cannot inject dependencies in HiltWorker](https://www.reddit.com/r/androiddev/comments/1e105xa/cannot_inject_dependencies_in_hiltworker/)
-- [Android TV Launcher &amp; The home button](https://www.reddit.com/r/androiddev/comments/1e0xl1q/android_tv_launcher_the_home_button/)
-- [Seeking Opinions: Teach Views and Compose in an intro course?](https://www.reddit.com/r/androiddev/comments/1e0wsqu/seeking_opinions_teach_views_and_compose_in_an/)
-- [Any solution to apply rounded corners to rows and columns in Jetpack Glance](https://www.reddit.com/r/androiddev/comments/1e0ujcx/any_solution_to_apply_rounded_corners_to_rows_and/)
-- [SMS Auth will be disabled without linking to Google cloud billing account](https://www.reddit.com/r/androiddev/comments/1e0tvrz/sms_auth_will_be_disabled_without_linking_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
