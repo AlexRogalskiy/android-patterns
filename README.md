@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Realm Database Dependency Issue](https://www.reddit.com/r/androiddev/comments/1e1x0wo/realm_database_dependency_issue/)
-- [Can screenshot testing compare system screens like print preview screen?](https://www.reddit.com/r/androiddev/comments/1e1hiw8/can_screenshot_testing_compare_system_screens/)
-- [Is there a way to set text overlay bounds so text would not go out of video and also split into multiple lines automatically &lpar;Compose&rpar;?](https://www.reddit.com/r/androiddev/comments/1e1h0wq/is_there_a_way_to_set_text_overlay_bounds_so_text/)
-- [Need help on Clean Architecture with Service/Manager](https://www.reddit.com/r/androiddev/comments/1e1dvgp/need_help_on_clean_architecture_with/)
-- [Got an email from &quot;Google Play New Business Partnerships Team&quot; saying &quot;We&#39;d love to connect and share knowledge and resources to help you take [app name] even further&quot; with a number of ways they can help. Has anyone got this and is it worth agreeing to?](https://www.reddit.com/r/androiddev/comments/1e1crur/got_an_email_from_google_play_new_business/)
-- [Type Safe Deeplinking &lpar;Compose Navigation&rpar;](https://www.reddit.com/r/androiddev/comments/1e1co3h/type_safe_deeplinking_compose_navigation/)
-- [Valkyrie - SVG/XML to ImageVector](https://www.reddit.com/r/androiddev/comments/1e1bgh2/valkyrie_svgxml_to_imagevector/)
-- [Conventional Practices in Android](https://www.reddit.com/r/androiddev/comments/1e196mq/conventional_practices_in_android/)
-- [After Gradle update: INSTALL_BASELINE_PROFILE_FAILED when debuggable=false](https://www.reddit.com/r/androiddev/comments/1e13blk/after_gradle_update_install_baseline_profile/)
-- [Android Studio Koala | 2024.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1e10x0c/android_studio_koala_202411_patch_1_now_available/)
+- [My First Android App &lpar;AKA Cat Doorbell v4&rpar;](https://www.reddit.com/r/androiddev/comments/1e2nx8t/my_first_android_app_aka_cat_doorbell_v4/)
+- [Can I grant android permissions to a C++ only NDK compiled application?](https://www.reddit.com/r/androiddev/comments/1e2exet/can_i_grant_android_permissions_to_a_c_only_ndk/)
+- [Jetpack Compose: Pointer input was reset exception](https://www.reddit.com/r/androiddev/comments/1e2dxz5/jetpack_compose_pointer_input_was_reset_exception/)
+- [Introducing BugBear, a privacy-friendly, minimalist, modern, extensible, wire-format compatible alternative to ACRA](https://www.reddit.com/r/androiddev/comments/1e2c7r7/introducing_bugbear_a_privacyfriendly_minimalist/)
+- [Question about In-App Purchases and Subscriptions](https://www.reddit.com/r/androiddev/comments/1e2bfnt/question_about_inapp_purchases_and_subscriptions/)
+- [Emulating pinch gesture in end to end testing](https://www.reddit.com/r/androiddev/comments/1e294wh/emulating_pinch_gesture_in_end_to_end_testing/)
+- [Debugging a ViewModel being destroyed](https://www.reddit.com/r/androiddev/comments/1e27nvx/debugging_a_viewmodel_being_destroyed/)
+- [You can now run both Android Studio and your Android project on the same device, your phone! Ready to take your mobile development to the next level?](https://www.reddit.com/r/androiddev/comments/1e25tfv/you_can_now_run_both_android_studio_and_your/)
+- [Just found out that i can drag expressions into watches list in Android Studio .. very handy!](https://www.reddit.com/r/androiddev/comments/1e231hi/just_found_out_that_i_can_drag_expressions_into/)
+- [Is it possible to let Gemini check out your whole code so you dont have to paste all the code blocks all the time?](https://www.reddit.com/r/androiddev/comments/1e22dxi/is_it_possible_to_let_gemini_check_out_your_whole/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
