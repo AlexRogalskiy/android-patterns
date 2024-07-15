@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android emulator on Windows becomes laggy over time](https://www.reddit.com/r/androiddev/comments/1e3ft3p/android_emulator_on_windows_becomes_laggy_over/)
+- [Question: what special sources of income do you have for your apps, other than ads and IAP?](https://www.reddit.com/r/androiddev/comments/1e3d9ro/question_what_special_sources_of_income_do_you/)
+- [Why is OutlinedTextField so laggy?](https://www.reddit.com/r/androiddev/comments/1e38el7/why_is_outlinedtextfield_so_laggy/)
+- [Help me fix my Prelaunch || First time launching on playstore](https://www.reddit.com/r/androiddev/comments/1e378is/help_me_fix_my_prelaunch_first_time_launching_on/)
+- [Displaying the price of IAP&#39;s in USD only?](https://www.reddit.com/r/androiddev/comments/1e36ch0/displaying_the_price_of_iaps_in_usd_only/)
+- [Google Play Store policies regarding in-app purchase payments via third parties in locations where Play Store does not permit them](https://www.reddit.com/r/androiddev/comments/1e2x6je/google_play_store_policies_regarding_inapp/)
 - [My First Android App &lpar;AKA Cat Doorbell v4&rpar;](https://www.reddit.com/r/androiddev/comments/1e2nx8t/my_first_android_app_aka_cat_doorbell_v4/)
 - [Can I grant android permissions to a C++ only NDK compiled application?](https://www.reddit.com/r/androiddev/comments/1e2exet/can_i_grant_android_permissions_to_a_c_only_ndk/)
 - [Jetpack Compose: Pointer input was reset exception](https://www.reddit.com/r/androiddev/comments/1e2dxz5/jetpack_compose_pointer_input_was_reset_exception/)
 - [Introducing BugBear, a privacy-friendly, minimalist, modern, extensible, wire-format compatible alternative to ACRA](https://www.reddit.com/r/androiddev/comments/1e2c7r7/introducing_bugbear_a_privacyfriendly_minimalist/)
-- [Question about In-App Purchases and Subscriptions](https://www.reddit.com/r/androiddev/comments/1e2bfnt/question_about_inapp_purchases_and_subscriptions/)
-- [Emulating pinch gesture in end to end testing](https://www.reddit.com/r/androiddev/comments/1e294wh/emulating_pinch_gesture_in_end_to_end_testing/)
-- [Debugging a ViewModel being destroyed](https://www.reddit.com/r/androiddev/comments/1e27nvx/debugging_a_viewmodel_being_destroyed/)
-- [You can now run both Android Studio and your Android project on the same device, your phone! Ready to take your mobile development to the next level?](https://www.reddit.com/r/androiddev/comments/1e25tfv/you_can_now_run_both_android_studio_and_your/)
-- [Just found out that i can drag expressions into watches list in Android Studio .. very handy!](https://www.reddit.com/r/androiddev/comments/1e231hi/just_found_out_that_i_can_drag_expressions_into/)
-- [Is it possible to let Gemini check out your whole code so you dont have to paste all the code blocks all the time?](https://www.reddit.com/r/androiddev/comments/1e22dxi/is_it_possible_to_let_gemini_check_out_your_whole/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
