@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android emulator on Windows becomes laggy over time](https://www.reddit.com/r/androiddev/comments/1e3ft3p/android_emulator_on_windows_becomes_laggy_over/)
-- [Question: what special sources of income do you have for your apps, other than ads and IAP?](https://www.reddit.com/r/androiddev/comments/1e3d9ro/question_what_special_sources_of_income_do_you/)
-- [Why is OutlinedTextField so laggy?](https://www.reddit.com/r/androiddev/comments/1e38el7/why_is_outlinedtextfield_so_laggy/)
-- [Help me fix my Prelaunch || First time launching on playstore](https://www.reddit.com/r/androiddev/comments/1e378is/help_me_fix_my_prelaunch_first_time_launching_on/)
-- [Displaying the price of IAP&#39;s in USD only?](https://www.reddit.com/r/androiddev/comments/1e36ch0/displaying_the_price_of_iaps_in_usd_only/)
-- [Google Play Store policies regarding in-app purchase payments via third parties in locations where Play Store does not permit them](https://www.reddit.com/r/androiddev/comments/1e2x6je/google_play_store_policies_regarding_inapp/)
-- [My First Android App &lpar;AKA Cat Doorbell v4&rpar;](https://www.reddit.com/r/androiddev/comments/1e2nx8t/my_first_android_app_aka_cat_doorbell_v4/)
-- [Can I grant android permissions to a C++ only NDK compiled application?](https://www.reddit.com/r/androiddev/comments/1e2exet/can_i_grant_android_permissions_to_a_c_only_ndk/)
-- [Jetpack Compose: Pointer input was reset exception](https://www.reddit.com/r/androiddev/comments/1e2dxz5/jetpack_compose_pointer_input_was_reset_exception/)
-- [Introducing BugBear, a privacy-friendly, minimalist, modern, extensible, wire-format compatible alternative to ACRA](https://www.reddit.com/r/androiddev/comments/1e2c7r7/introducing_bugbear_a_privacyfriendly_minimalist/)
+- [AS Stuck on downloading components](https://www.reddit.com/r/androiddev/comments/1e4bnvk/as_stuck_on_downloading_components/)
+- [What is the suitable way for handling throwables in MVVM/MVI](https://www.reddit.com/r/androiddev/comments/1e45xxk/what_is_the_suitable_way_for_handling_throwables/)
+- [Can’t change country availability](https://www.reddit.com/r/androiddev/comments/1e45nxw/cant_change_country_availability/)
+- [Android Studio Ladybug | 2024.1.3 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1e44i8k/android_studio_ladybug_202413_canary_1_now/)
+- [My Android Studio Emulator device always does a Cold Boot despite setting it to Quick Boot.](https://www.reddit.com/r/androiddev/comments/1e3w8g4/my_android_studio_emulator_device_always_does_a/)
+- [can adding a logopack to my game get me in trouble?](https://www.reddit.com/r/androiddev/comments/1e3vu5j/can_adding_a_logopack_to_my_game_get_me_in_trouble/)
+- [Unnecessary NavHost Recompositions, when controller.navigate&lpar;&rpar; is called once.](https://www.reddit.com/r/androiddev/comments/1e3sn1m/unnecessary_navhost_recompositions_when/)
+- [App terms of use](https://www.reddit.com/r/androiddev/comments/1e3q8qt/app_terms_of_use/)
+- [Is there currently a way to uniquely identify a http request coming from a mobile app](https://www.reddit.com/r/androiddev/comments/1e3pywo/is_there_currently_a_way_to_uniquely_identify_a/)
+- [Play Store multiple app categories?](https://www.reddit.com/r/androiddev/comments/1e3olb5/play_store_multiple_app_categories/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
