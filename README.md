@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AS Stuck on downloading components](https://www.reddit.com/r/androiddev/comments/1e4bnvk/as_stuck_on_downloading_components/)
-- [What is the suitable way for handling throwables in MVVM/MVI](https://www.reddit.com/r/androiddev/comments/1e45xxk/what_is_the_suitable_way_for_handling_throwables/)
-- [Can’t change country availability](https://www.reddit.com/r/androiddev/comments/1e45nxw/cant_change_country_availability/)
-- [Android Studio Ladybug | 2024.1.3 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1e44i8k/android_studio_ladybug_202413_canary_1_now/)
-- [My Android Studio Emulator device always does a Cold Boot despite setting it to Quick Boot.](https://www.reddit.com/r/androiddev/comments/1e3w8g4/my_android_studio_emulator_device_always_does_a/)
-- [can adding a logopack to my game get me in trouble?](https://www.reddit.com/r/androiddev/comments/1e3vu5j/can_adding_a_logopack_to_my_game_get_me_in_trouble/)
-- [Unnecessary NavHost Recompositions, when controller.navigate&lpar;&rpar; is called once.](https://www.reddit.com/r/androiddev/comments/1e3sn1m/unnecessary_navhost_recompositions_when/)
-- [App terms of use](https://www.reddit.com/r/androiddev/comments/1e3q8qt/app_terms_of_use/)
-- [Is there currently a way to uniquely identify a http request coming from a mobile app](https://www.reddit.com/r/androiddev/comments/1e3pywo/is_there_currently_a_way_to_uniquely_identify_a/)
-- [Play Store multiple app categories?](https://www.reddit.com/r/androiddev/comments/1e3olb5/play_store_multiple_app_categories/)
+- [How to Model UI State with Streams](https://www.reddit.com/r/androiddev/comments/1e4qpa5/how_to_model_ui_state_with_streams/)
+- [I built a macOS app to make our designers happy – looking for feedback and community support!](https://www.reddit.com/r/androiddev/comments/1e4o4xx/i_built_a_macos_app_to_make_our_designers_happy/)
+- [Runtime Permission Handling Issue](https://www.reddit.com/r/androiddev/comments/1e4nbm7/runtime_permission_handling_issue/)
+- [Seeking Emulator Solutions for Android 4.4 User Support Amid API 34 Transition](https://www.reddit.com/r/androiddev/comments/1e4mxz3/seeking_emulator_solutions_for_android_44_user/)
+- [WorkManager throwing ForegroundServiceStartNotAllowedException?](https://www.reddit.com/r/androiddev/comments/1e4mqt4/workmanager_throwing/)
+- [Android Tensorflow Lite on-device training of LLM LoRA weights](https://www.reddit.com/r/androiddev/comments/1e4lwg0/android_tensorflow_lite_ondevice_training_of_llm/)
+- [Permutive are hiring](https://www.reddit.com/r/androiddev/comments/1e4lmcw/permutive_are_hiring/)
+- [Getting context in unit test?](https://www.reddit.com/r/androiddev/comments/1e4kwcr/getting_context_in_unit_test/)
+- [Play billing and in app products question](https://www.reddit.com/r/androiddev/comments/1e4in6q/play_billing_and_in_app_products_question/)
+- [Experiencing instant app without installation](https://www.reddit.com/r/androiddev/comments/1e4i082/experiencing_instant_app_without_installation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
