@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Personal Email or New Account for Console Play Internal Testing](https://www.reddit.com/r/androiddev/comments/1e5xznp/personal_email_or_new_account_for_console_play/)
-- [How to make exoplayer go fullscreen no matter where it is in your UI?](https://www.reddit.com/r/androiddev/comments/1e5ud07/how_to_make_exoplayer_go_fullscreen_no_matter/)
-- [Make http request to retrieve value for field in AutofillService](https://www.reddit.com/r/androiddev/comments/1e5re4x/make_http_request_to_retrieve_value_for_field_in/)
-- [Is it bad to size an icon dynamically using LocalConfiguration ?](https://www.reddit.com/r/androiddev/comments/1e5k0ex/is_it_bad_to_size_an_icon_dynamically_using/)
-- [Welcome to Android!! Gradle sucks](https://www.reddit.com/r/androiddev/comments/1e5g6xy/welcome_to_android_gradle_sucks/)
-- [Barcode Scanner with Intent and Callback &lpar;ZXing Replacement&rpar;](https://www.reddit.com/r/androiddev/comments/1e5bxl2/barcode_scanner_with_intent_and_callback_zxing/)
-- [The Google Console for our App Khatapana already shows more than 100K downloads but playstore still shows 50K!](https://www.reddit.com/r/androiddev/comments/1e5b9lu/the_google_console_for_our_app_khatapana_already/)
-- [How to Model UI State with Streams](https://www.reddit.com/r/androiddev/comments/1e4qpa5/how_to_model_ui_state_with_streams/)
-- [I built a macOS app to make our designers happy – looking for feedback and community support!](https://www.reddit.com/r/androiddev/comments/1e4o4xx/i_built_a_macos_app_to_make_our_designers_happy/)
-- [Runtime Permission Handling Issue](https://www.reddit.com/r/androiddev/comments/1e4nbm7/runtime_permission_handling_issue/)
+- [App rejected - why Google dont say clearly what was the reason?](https://www.reddit.com/r/androiddev/comments/1e6sayg/app_rejected_why_google_dont_say_clearly_what_was/)
+- [Micro optimizations - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1e6qveq/micro_optimizations_android_developers_backstage/)
+- [Follow up to the Compose discussion: This is the simplest Spinner in Compose vs the Simplest spinner in XML](https://www.reddit.com/r/androiddev/comments/1e6oiej/follow_up_to_the_compose_discussion_this_is_the/)
+- [Is drag and drop and/or tap and slide to select really that hard to implement?](https://www.reddit.com/r/androiddev/comments/1e6m0jb/is_drag_and_drop_andor_tap_and_slide_to_select/)
+- [Medium complexity apps to create for practice](https://www.reddit.com/r/androiddev/comments/1e6fur3/medium_complexity_apps_to_create_for_practice/)
+- [Google Play store and Android version](https://www.reddit.com/r/androiddev/comments/1e6f9yt/google_play_store_and_android_version/)
+- [Google Play Developer Program Policy Update - 2024-07-18](https://www.reddit.com/r/androiddev/comments/1e6av0t/google_play_developer_program_policy_update/)
+- [Need Advice: DUNS Number for App Store - Genuine or Scam?](https://www.reddit.com/r/androiddev/comments/1e6a3bp/need_advice_duns_number_for_app_store_genuine_or/)
+- [What AI tools do you use to localize Android app strings and app descriptions?](https://www.reddit.com/r/androiddev/comments/1e69crf/what_ai_tools_do_you_use_to_localize_android_app/)
+- [How did our 4 years of work disappear &lpar;because of google play account&rpar;](https://www.reddit.com/r/androiddev/comments/1e69a1v/how_did_our_4_years_of_work_disappear_because_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
