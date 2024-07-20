@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App rejected - why Google dont say clearly what was the reason?](https://www.reddit.com/r/androiddev/comments/1e6sayg/app_rejected_why_google_dont_say_clearly_what_was/)
-- [Micro optimizations - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1e6qveq/micro_optimizations_android_developers_backstage/)
-- [Follow up to the Compose discussion: This is the simplest Spinner in Compose vs the Simplest spinner in XML](https://www.reddit.com/r/androiddev/comments/1e6oiej/follow_up_to_the_compose_discussion_this_is_the/)
-- [Is drag and drop and/or tap and slide to select really that hard to implement?](https://www.reddit.com/r/androiddev/comments/1e6m0jb/is_drag_and_drop_andor_tap_and_slide_to_select/)
-- [Medium complexity apps to create for practice](https://www.reddit.com/r/androiddev/comments/1e6fur3/medium_complexity_apps_to_create_for_practice/)
-- [Google Play store and Android version](https://www.reddit.com/r/androiddev/comments/1e6f9yt/google_play_store_and_android_version/)
-- [Google Play Developer Program Policy Update - 2024-07-18](https://www.reddit.com/r/androiddev/comments/1e6av0t/google_play_developer_program_policy_update/)
-- [Need Advice: DUNS Number for App Store - Genuine or Scam?](https://www.reddit.com/r/androiddev/comments/1e6a3bp/need_advice_duns_number_for_app_store_genuine_or/)
-- [What AI tools do you use to localize Android app strings and app descriptions?](https://www.reddit.com/r/androiddev/comments/1e69crf/what_ai_tools_do_you_use_to_localize_android_app/)
-- [How did our 4 years of work disappear &lpar;because of google play account&rpar;](https://www.reddit.com/r/androiddev/comments/1e69a1v/how_did_our_4_years_of_work_disappear_because_of/)
+- [Is there a maximum recommended QR code size](https://www.reddit.com/r/androiddev/comments/1e7erp8/is_there_a_maximum_recommended_qr_code_size/)
+- [What are people using to detect Tablet vs. Phone?](https://www.reddit.com/r/androiddev/comments/1e774kb/what_are_people_using_to_detect_tablet_vs_phone/)
+- [I got tired of not being able to debug In-App-Purchases on Android so I&#39;m launching iap.dev](https://www.reddit.com/r/androiddev/comments/1e75epa/i_got_tired_of_not_being_able_to_debug/)
+- [Google&#39;s Play Store Cleanup: How It Affects App Developers](https://www.reddit.com/r/androiddev/comments/1e73i7u/googles_play_store_cleanup_how_it_affects_app/)
+- [How can I play a custom tone using a downloaded audio file?](https://www.reddit.com/r/androiddev/comments/1e71tt8/how_can_i_play_a_custom_tone_using_a_downloaded/)
+- [Android Studio in IDX](https://www.reddit.com/r/androiddev/comments/1e6ym8c/android_studio_in_idx/)
+- [Privacy policy explicitly referenced in apps](https://www.reddit.com/r/androiddev/comments/1e6y51p/privacy_policy_explicitly_referenced_in_apps/)
+- [Does the instant app&lpar;Google play instant&rpar; in android support speechRecognition ? ie. Speech to Text](https://www.reddit.com/r/androiddev/comments/1e6xcp9/does_the_instant_appgoogle_play_instant_in/)
+- [Block system bars for kiosk app?](https://www.reddit.com/r/androiddev/comments/1e6xc7w/block_system_bars_for_kiosk_app/)
+- [Release Version vs debug Version](https://www.reddit.com/r/androiddev/comments/1e6x8ct/release_version_vs_debug_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
