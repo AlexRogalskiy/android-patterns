@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a maximum recommended QR code size](https://www.reddit.com/r/androiddev/comments/1e7erp8/is_there_a_maximum_recommended_qr_code_size/)
+- [Why it is like this? i installed it for the first time](https://www.reddit.com/r/androiddev/comments/1e8ang0/why_it_is_like_this_i_installed_it_for_the_first/)
+- [How do you recompose notification content text without recomposing the entire notification?](https://www.reddit.com/r/androiddev/comments/1e891o2/how_do_you_recompose_notification_content_text/)
+- [Need help with Closed testing on Google Play console.](https://www.reddit.com/r/androiddev/comments/1e84bs5/need_help_with_closed_testing_on_google_play/)
+- [onKeyDown broken on Samsung devices? Cannot detect when key is held down.](https://www.reddit.com/r/androiddev/comments/1e83g1z/onkeydown_broken_on_samsung_devices_cannot_detect/)
+- [Starting a foreground service only in notification bar](https://www.reddit.com/r/androiddev/comments/1e7z3eh/starting_a_foreground_service_only_in/)
+- [The Play Console app now has a link to the Pay Store](https://www.reddit.com/r/androiddev/comments/1e7x2ax/the_play_console_app_now_has_a_link_to_the_pay/)
+- [How would you react to a bad review complaining that your app isn&#39;t available on iOS?](https://www.reddit.com/r/androiddev/comments/1e7wkva/how_would_you_react_to_a_bad_review_complaining/)
+- [Incoming and Outgoing Call recording Application using kotlin](https://www.reddit.com/r/androiddev/comments/1e7onj3/incoming_and_outgoing_call_recording_application/)
+- [Question regarding a specific open source license.](https://www.reddit.com/r/androiddev/comments/1e7lhg9/question_regarding_a_specific_open_source_license/)
 - [What are people using to detect Tablet vs. Phone?](https://www.reddit.com/r/androiddev/comments/1e774kb/what_are_people_using_to_detect_tablet_vs_phone/)
-- [I got tired of not being able to debug In-App-Purchases on Android so I&#39;m launching iap.dev](https://www.reddit.com/r/androiddev/comments/1e75epa/i_got_tired_of_not_being_able_to_debug/)
-- [Google&#39;s Play Store Cleanup: How It Affects App Developers](https://www.reddit.com/r/androiddev/comments/1e73i7u/googles_play_store_cleanup_how_it_affects_app/)
-- [How can I play a custom tone using a downloaded audio file?](https://www.reddit.com/r/androiddev/comments/1e71tt8/how_can_i_play_a_custom_tone_using_a_downloaded/)
-- [Android Studio in IDX](https://www.reddit.com/r/androiddev/comments/1e6ym8c/android_studio_in_idx/)
-- [Privacy policy explicitly referenced in apps](https://www.reddit.com/r/androiddev/comments/1e6y51p/privacy_policy_explicitly_referenced_in_apps/)
-- [Does the instant app&lpar;Google play instant&rpar; in android support speechRecognition ? ie. Speech to Text](https://www.reddit.com/r/androiddev/comments/1e6xcp9/does_the_instant_appgoogle_play_instant_in/)
-- [Block system bars for kiosk app?](https://www.reddit.com/r/androiddev/comments/1e6xc7w/block_system_bars_for_kiosk_app/)
-- [Release Version vs debug Version](https://www.reddit.com/r/androiddev/comments/1e6x8ct/release_version_vs_debug_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
