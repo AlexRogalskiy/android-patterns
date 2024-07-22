@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why it is like this? i installed it for the first time](https://www.reddit.com/r/androiddev/comments/1e8ang0/why_it_is_like_this_i_installed_it_for_the_first/)
+- [Jetpack Compose accessibility code samples](https://www.reddit.com/r/androiddev/comments/1e8xsbl/jetpack_compose_accessibility_code_samples/)
+- [Empty /data/app/.../lib/arm64 directory](https://www.reddit.com/r/androiddev/comments/1e8mbpg/empty_dataapplibarm64_directory/)
+- [On Device Face Recognition in Android with Mediapipe, FaceNet &lpar;TFLite&rpar; and ObjectBox](https://www.reddit.com/r/androiddev/comments/1e8ljbj/on_device_face_recognition_in_android_with/)
+- [AGP 8.4+ and Hilt &lpar;Android Library Modules in Multi-module architecture, R8&rpar;](https://www.reddit.com/r/androiddev/comments/1e8ke67/agp_84_and_hilt_android_library_modules_in/)
+- [New Tool to Visualise Benchmark results](https://www.reddit.com/r/androiddev/comments/1e8ghrf/new_tool_to_visualise_benchmark_results/)
 - [How do you recompose notification content text without recomposing the entire notification?](https://www.reddit.com/r/androiddev/comments/1e891o2/how_do_you_recompose_notification_content_text/)
 - [Need help with Closed testing on Google Play console.](https://www.reddit.com/r/androiddev/comments/1e84bs5/need_help_with_closed_testing_on_google_play/)
 - [onKeyDown broken on Samsung devices? Cannot detect when key is held down.](https://www.reddit.com/r/androiddev/comments/1e83g1z/onkeydown_broken_on_samsung_devices_cannot_detect/)
 - [Starting a foreground service only in notification bar](https://www.reddit.com/r/androiddev/comments/1e7z3eh/starting_a_foreground_service_only_in/)
 - [The Play Console app now has a link to the Pay Store](https://www.reddit.com/r/androiddev/comments/1e7x2ax/the_play_console_app_now_has_a_link_to_the_pay/)
-- [How would you react to a bad review complaining that your app isn&#39;t available on iOS?](https://www.reddit.com/r/androiddev/comments/1e7wkva/how_would_you_react_to_a_bad_review_complaining/)
-- [Incoming and Outgoing Call recording Application using kotlin](https://www.reddit.com/r/androiddev/comments/1e7onj3/incoming_and_outgoing_call_recording_application/)
-- [Question regarding a specific open source license.](https://www.reddit.com/r/androiddev/comments/1e7lhg9/question_regarding_a_specific_open_source_license/)
-- [What are people using to detect Tablet vs. Phone?](https://www.reddit.com/r/androiddev/comments/1e774kb/what_are_people_using_to_detect_tablet_vs_phone/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
