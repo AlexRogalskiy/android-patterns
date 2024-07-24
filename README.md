@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you animate the scale of a Box&lpar;&rpar; composable?](https://www.reddit.com/r/androiddev/comments/1e9veyn/how_do_you_animate_the_scale_of_a_box_composable/)
-- [Looking for some guidance](https://www.reddit.com/r/androiddev/comments/1e9rf85/looking_for_some_guidance/)
-- [Stratify: Optimize Your KSP Plugin Development - Beta Testers Request!](https://www.reddit.com/r/androiddev/comments/1e9qt3o/stratify_optimize_your_ksp_plugin_development/)
-- [What is the best website to get certified in Android Development?](https://www.reddit.com/r/androiddev/comments/1e9q8ya/what_is_the_best_website_to_get_certified_in/)
-- [Am I contacted by google or scammers ?](https://www.reddit.com/r/androiddev/comments/1e9pv4d/am_i_contacted_by_google_or_scammers/)
-- [Play Install Referrer API vs Campaign Link?](https://www.reddit.com/r/androiddev/comments/1e9l5sz/play_install_referrer_api_vs_campaign_link/)
-- [Looking for Feedback on KotStep, My Stepper Library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1e9k5zh/looking_for_feedback_on_kotstep_my_stepper/)
-- [Will wallpaper apps die on Google Play?](https://www.reddit.com/r/androiddev/comments/1e9jlmb/will_wallpaper_apps_die_on_google_play/)
-- [Android Studio Ladybug | 2024.1.3 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1e9jaj2/android_studio_ladybug_202413_canary_2_now/)
-- [Play Console Earnings not updating in payments Profile](https://www.reddit.com/r/androiddev/comments/1e9igxe/play_console_earnings_not_updating_in_payments/)
+- [How to define different dimens files for 2 screen sizes?](https://www.reddit.com/r/androiddev/comments/1eahtsj/how_to_define_different_dimens_files_for_2_screen/)
+- [Built a tool for mobile development, useful?](https://www.reddit.com/r/androiddev/comments/1eahq79/built_a_tool_for_mobile_development_useful/)
+- [RemoteServiceException - ForegroundServiceDidNotStartInTimeException](https://www.reddit.com/r/androiddev/comments/1eafmor/remoteserviceexception/)
+- [Android App Quality Assurance Practices](https://www.reddit.com/r/androiddev/comments/1eaaraq/android_app_quality_assurance_practices/)
+- [Why aren’t all Material 3 components implemented in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1ea8wfa/why_arent_all_material_3_components_implemented/)
+- [What is this ?? Root Cause ???](https://www.reddit.com/r/androiddev/comments/1ea8iyu/what_is_this_root_cause/)
+- [How do you test app bundles internally?](https://www.reddit.com/r/androiddev/comments/1ea73pj/how_do_you_test_app_bundles_internally/)
+- [What am I doing wrong with webView?](https://www.reddit.com/r/androiddev/comments/1ea64xj/what_am_i_doing_wrong_with_webview/)
+- [jetpack room run @query without creating entity class &lpar;table with data already exists in predefined sqlite&rpar;](https://www.reddit.com/r/androiddev/comments/1ea4ehl/jetpack_room_run_query_without_creating_entity/)
+- [What is libMEOW ? I see it alot in LogCat output and can&#39;t find anything online.](https://www.reddit.com/r/androiddev/comments/1ea2rly/what_is_libmeow_i_see_it_alot_in_logcat_output/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
