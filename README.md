@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to define different dimens files for 2 screen sizes?](https://www.reddit.com/r/androiddev/comments/1eahtsj/how_to_define_different_dimens_files_for_2_screen/)
-- [Built a tool for mobile development, useful?](https://www.reddit.com/r/androiddev/comments/1eahq79/built_a_tool_for_mobile_development_useful/)
-- [RemoteServiceException - ForegroundServiceDidNotStartInTimeException](https://www.reddit.com/r/androiddev/comments/1eafmor/remoteserviceexception/)
-- [Android App Quality Assurance Practices](https://www.reddit.com/r/androiddev/comments/1eaaraq/android_app_quality_assurance_practices/)
-- [Why aren’t all Material 3 components implemented in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1ea8wfa/why_arent_all_material_3_components_implemented/)
-- [What is this ?? Root Cause ???](https://www.reddit.com/r/androiddev/comments/1ea8iyu/what_is_this_root_cause/)
-- [How do you test app bundles internally?](https://www.reddit.com/r/androiddev/comments/1ea73pj/how_do_you_test_app_bundles_internally/)
-- [What am I doing wrong with webView?](https://www.reddit.com/r/androiddev/comments/1ea64xj/what_am_i_doing_wrong_with_webview/)
-- [jetpack room run @query without creating entity class &lpar;table with data already exists in predefined sqlite&rpar;](https://www.reddit.com/r/androiddev/comments/1ea4ehl/jetpack_room_run_query_without_creating_entity/)
-- [What is libMEOW ? I see it alot in LogCat output and can&#39;t find anything online.](https://www.reddit.com/r/androiddev/comments/1ea2rly/what_is_libmeow_i_see_it_alot_in_logcat_output/)
+- [Problem customizing exoplayer in compose](https://www.reddit.com/r/androiddev/comments/1ebi606/problem_customizing_exoplayer_in_compose/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/1ebcfmc/android_studio_koala_feature_drop_202412_beta_2/)
+- [Internet connectivity inside Cuttlefish virtual device](https://www.reddit.com/r/androiddev/comments/1ebankc/internet_connectivity_inside_cuttlefish_virtual/)
+- [Data Collection Play Store](https://www.reddit.com/r/androiddev/comments/1eb9ysm/data_collection_play_store/)
+- [Does transferring an Android App change the App ID](https://www.reddit.com/r/androiddev/comments/1eb9ubh/does_transferring_an_android_app_change_the_app_id/)
+- [Problems building a project from GitLab](https://www.reddit.com/r/androiddev/comments/1eb97y6/problems_building_a_project_from_gitlab/)
+- [Choosing complimentary background color for user provided images with transparency](https://www.reddit.com/r/androiddev/comments/1eb6d76/choosing_complimentary_background_color_for_user/)
+- [The BottomSheet callback we deserve](https://www.reddit.com/r/androiddev/comments/1eb4ped/the_bottomsheet_callback_we_deserve/)
+- [Using Google&#39;s UMP to collect consent for Firebase Analytics &amp; Crashlytics](https://www.reddit.com/r/androiddev/comments/1eb4ofg/using_googles_ump_to_collect_consent_for_firebase/)
+- [App is currently releasing via APK and we are moving to app bundles, can we release an APK after onboarding our app to app bundles?](https://www.reddit.com/r/androiddev/comments/1eb3sef/app_is_currently_releasing_via_apk_and_we_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
