@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are you guys using as an alternative to Google Play for publishing?](https://www.reddit.com/r/androiddev/comments/1ec7o6u/what_are_you_guys_using_as_an_alternative_to/)
+- [Running tv app on real device is much slower then on emulator](https://www.reddit.com/r/androiddev/comments/1ec590z/running_tv_app_on_real_device_is_much_slower_then/)
+- [GATT connection works the second time not first](https://www.reddit.com/r/androiddev/comments/1ec2ofa/gatt_connection_works_the_second_time_not_first/)
+- [Architecture Related Decisions in Android - Mapping](https://www.reddit.com/r/androiddev/comments/1ec0xx2/architecture_related_decisions_in_android_mapping/)
+- [Is testing Composable along with ViewModel considered as UI test or integration test?](https://www.reddit.com/r/androiddev/comments/1ec0955/is_testing_composable_along_with_viewmodel/)
+- [Promo Code Limits and In-App Products](https://www.reddit.com/r/androiddev/comments/1ebz22g/promo_code_limits_and_inapp_products/)
+- [Rewarded ads and GDPR dialog](https://www.reddit.com/r/androiddev/comments/1ebtl60/rewarded_ads_and_gdpr_dialog/)
+- [Should i do unit test the DAO](https://www.reddit.com/r/androiddev/comments/1ebs6ms/should_i_do_unit_test_the_dao/)
+- [In-app purchase not registering when app is woken up from memory](https://www.reddit.com/r/androiddev/comments/1ebkmaf/inapp_purchase_not_registering_when_app_is_woken/)
 - [Problem customizing exoplayer in compose](https://www.reddit.com/r/androiddev/comments/1ebi606/problem_customizing_exoplayer_in_compose/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/1ebcfmc/android_studio_koala_feature_drop_202412_beta_2/)
-- [Internet connectivity inside Cuttlefish virtual device](https://www.reddit.com/r/androiddev/comments/1ebankc/internet_connectivity_inside_cuttlefish_virtual/)
-- [Data Collection Play Store](https://www.reddit.com/r/androiddev/comments/1eb9ysm/data_collection_play_store/)
-- [Does transferring an Android App change the App ID](https://www.reddit.com/r/androiddev/comments/1eb9ubh/does_transferring_an_android_app_change_the_app_id/)
-- [Problems building a project from GitLab](https://www.reddit.com/r/androiddev/comments/1eb97y6/problems_building_a_project_from_gitlab/)
-- [Choosing complimentary background color for user provided images with transparency](https://www.reddit.com/r/androiddev/comments/1eb6d76/choosing_complimentary_background_color_for_user/)
-- [The BottomSheet callback we deserve](https://www.reddit.com/r/androiddev/comments/1eb4ped/the_bottomsheet_callback_we_deserve/)
-- [Using Google&#39;s UMP to collect consent for Firebase Analytics &amp; Crashlytics](https://www.reddit.com/r/androiddev/comments/1eb4ofg/using_googles_ump_to_collect_consent_for_firebase/)
-- [App is currently releasing via APK and we are moving to app bundles, can we release an APK after onboarding our app to app bundles?](https://www.reddit.com/r/androiddev/comments/1eb3sef/app_is_currently_releasing_via_apk_and_we_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
