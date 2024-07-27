@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are you guys using as an alternative to Google Play for publishing?](https://www.reddit.com/r/androiddev/comments/1ec7o6u/what_are_you_guys_using_as_an_alternative_to/)
-- [Running tv app on real device is much slower then on emulator](https://www.reddit.com/r/androiddev/comments/1ec590z/running_tv_app_on_real_device_is_much_slower_then/)
-- [GATT connection works the second time not first](https://www.reddit.com/r/androiddev/comments/1ec2ofa/gatt_connection_works_the_second_time_not_first/)
-- [Architecture Related Decisions in Android - Mapping](https://www.reddit.com/r/androiddev/comments/1ec0xx2/architecture_related_decisions_in_android_mapping/)
-- [Is testing Composable along with ViewModel considered as UI test or integration test?](https://www.reddit.com/r/androiddev/comments/1ec0955/is_testing_composable_along_with_viewmodel/)
-- [Promo Code Limits and In-App Products](https://www.reddit.com/r/androiddev/comments/1ebz22g/promo_code_limits_and_inapp_products/)
-- [Rewarded ads and GDPR dialog](https://www.reddit.com/r/androiddev/comments/1ebtl60/rewarded_ads_and_gdpr_dialog/)
-- [Should i do unit test the DAO](https://www.reddit.com/r/androiddev/comments/1ebs6ms/should_i_do_unit_test_the_dao/)
-- [In-app purchase not registering when app is woken up from memory](https://www.reddit.com/r/androiddev/comments/1ebkmaf/inapp_purchase_not_registering_when_app_is_woken/)
-- [Problem customizing exoplayer in compose](https://www.reddit.com/r/androiddev/comments/1ebi606/problem_customizing_exoplayer_in_compose/)
+- [9 months later I now have work - hang in there !!](https://www.reddit.com/r/androiddev/comments/1ed2p40/9_months_later_i_now_have_work_hang_in_there/)
+- [Closed beta - 20 testers thing](https://www.reddit.com/r/androiddev/comments/1ed2m6r/closed_beta_20_testers_thing/)
+- [Ble Android Not getting broadcast in some devices when already bonded and coming from out of range.](https://www.reddit.com/r/androiddev/comments/1ed2c2e/ble_android_not_getting_broadcast_in_some_devices/)
+- [Images with Coil in Wear Os with Compose not loading.](https://www.reddit.com/r/androiddev/comments/1ed1n59/images_with_coil_in_wear_os_with_compose_not/)
+- [Caused by android.app.ForegroundServiceStartNotAllowedException for Android 14](https://www.reddit.com/r/androiddev/comments/1ecziig/caused_by/)
+- [Where to get into and learn more about low level Android dev &lpar; audio specifically, but everything too!&rpar;?](https://www.reddit.com/r/androiddev/comments/1ecy2hx/where_to_get_into_and_learn_more_about_low_level/)
+- [does this app fall in to the medical category](https://www.reddit.com/r/androiddev/comments/1ecx6fz/does_this_app_fall_in_to_the_medical_category/)
+- [Problem updating the slider of a video](https://www.reddit.com/r/androiddev/comments/1ecwph0/problem_updating_the_slider_of_a_video/)
+- [Geocoding API key not working with restrictions in my Android App !](https://www.reddit.com/r/androiddev/comments/1ecv2mf/geocoding_api_key_not_working_with_restrictions/)
+- [Transfer App from old accounts to new google play dev account](https://www.reddit.com/r/androiddev/comments/1ecr4ua/transfer_app_from_old_accounts_to_new_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
