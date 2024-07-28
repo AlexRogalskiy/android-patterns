@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [9 months later I now have work - hang in there !!](https://www.reddit.com/r/androiddev/comments/1ed2p40/9_months_later_i_now_have_work_hang_in_there/)
-- [Closed beta - 20 testers thing](https://www.reddit.com/r/androiddev/comments/1ed2m6r/closed_beta_20_testers_thing/)
-- [Ble Android Not getting broadcast in some devices when already bonded and coming from out of range.](https://www.reddit.com/r/androiddev/comments/1ed2c2e/ble_android_not_getting_broadcast_in_some_devices/)
-- [Images with Coil in Wear Os with Compose not loading.](https://www.reddit.com/r/androiddev/comments/1ed1n59/images_with_coil_in_wear_os_with_compose_not/)
-- [Caused by android.app.ForegroundServiceStartNotAllowedException for Android 14](https://www.reddit.com/r/androiddev/comments/1ecziig/caused_by/)
-- [Where to get into and learn more about low level Android dev &lpar; audio specifically, but everything too!&rpar;?](https://www.reddit.com/r/androiddev/comments/1ecy2hx/where_to_get_into_and_learn_more_about_low_level/)
-- [does this app fall in to the medical category](https://www.reddit.com/r/androiddev/comments/1ecx6fz/does_this_app_fall_in_to_the_medical_category/)
-- [Problem updating the slider of a video](https://www.reddit.com/r/androiddev/comments/1ecwph0/problem_updating_the_slider_of_a_video/)
-- [Geocoding API key not working with restrictions in my Android App !](https://www.reddit.com/r/androiddev/comments/1ecv2mf/geocoding_api_key_not_working_with_restrictions/)
-- [Transfer App from old accounts to new google play dev account](https://www.reddit.com/r/androiddev/comments/1ecr4ua/transfer_app_from_old_accounts_to_new_google_play/)
+- [Issues SDL2, Android.mk](https://www.reddit.com/r/androiddev/comments/1edwmc4/issues_sdl2_androidmk/)
+- [Android BDD with Cucumber/Gherkin and Espresso](https://www.reddit.com/r/androiddev/comments/1edumjq/android_bdd_with_cucumbergherkin_and_espresso/)
+- [[ MacOS ]Why is my emulator not shown, unless I extend my screen to my iPad?](https://www.reddit.com/r/androiddev/comments/1edu4ox/macos_why_is_my_emulator_not_shown_unless_i/)
+- [windowsSoftInput:AdjustResize misbehaving when edgetoedge is enabled in compose app](https://www.reddit.com/r/androiddev/comments/1edqzey/windowssoftinputadjustresize_misbehaving_when/)
+- [How to add dialog to the backstack in Compose navigation?](https://www.reddit.com/r/androiddev/comments/1edqn5o/how_to_add_dialog_to_the_backstack_in_compose/)
+- [Why is my app icon displaying atrociously on Google Pixel?](https://www.reddit.com/r/androiddev/comments/1edn9q8/why_is_my_app_icon_displaying_atrociously_on/)
+- [High resolution widget previews?](https://www.reddit.com/r/androiddev/comments/1edivzg/high_resolution_widget_previews/)
+- [Android/data Access Denied](https://www.reddit.com/r/androiddev/comments/1edi1kz/androiddata_access_denied/)
+- [If your androidstudio lags, try turning of LINT checks](https://www.reddit.com/r/androiddev/comments/1edfssf/if_your_androidstudio_lags_try_turning_of_lint/)
+- [Selected text popup menu](https://www.reddit.com/r/androiddev/comments/1eddi7a/selected_text_popup_menu/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
