@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Issues SDL2, Android.mk](https://www.reddit.com/r/androiddev/comments/1edwmc4/issues_sdl2_androidmk/)
+- [Can you replace a test module in an instrumented with Hilt?](https://www.reddit.com/r/androiddev/comments/1eenhiu/can_you_replace_a_test_module_in_an_instrumented/)
+- [My app crashes when I try and request focus.](https://www.reddit.com/r/androiddev/comments/1eeky7h/my_app_crashes_when_i_try_and_request_focus/)
+- [NavController as composition local](https://www.reddit.com/r/androiddev/comments/1eeiac1/navcontroller_as_composition_local/)
+- [Best Android certification for experienced professionals](https://www.reddit.com/r/androiddev/comments/1ee95rq/best_android_certification_for_experienced/)
+- [How to get the first frame of a video with coil in compose?](https://www.reddit.com/r/androiddev/comments/1ee6q5f/how_to_get_the_first_frame_of_a_video_with_coil/)
+- [How&#39;s the Job Market of Android Dev Globally and What&#39;s the future in 2024?](https://www.reddit.com/r/androiddev/comments/1ee3b28/hows_the_job_market_of_android_dev_globally_and/)
 - [Android BDD with Cucumber/Gherkin and Espresso](https://www.reddit.com/r/androiddev/comments/1edumjq/android_bdd_with_cucumbergherkin_and_espresso/)
 - [[ MacOS ]Why is my emulator not shown, unless I extend my screen to my iPad?](https://www.reddit.com/r/androiddev/comments/1edu4ox/macos_why_is_my_emulator_not_shown_unless_i/)
 - [windowsSoftInput:AdjustResize misbehaving when edgetoedge is enabled in compose app](https://www.reddit.com/r/androiddev/comments/1edqzey/windowssoftinputadjustresize_misbehaving_when/)
 - [How to add dialog to the backstack in Compose navigation?](https://www.reddit.com/r/androiddev/comments/1edqn5o/how_to_add_dialog_to_the_backstack_in_compose/)
-- [Why is my app icon displaying atrociously on Google Pixel?](https://www.reddit.com/r/androiddev/comments/1edn9q8/why_is_my_app_icon_displaying_atrociously_on/)
-- [High resolution widget previews?](https://www.reddit.com/r/androiddev/comments/1edivzg/high_resolution_widget_previews/)
-- [Android/data Access Denied](https://www.reddit.com/r/androiddev/comments/1edi1kz/androiddata_access_denied/)
-- [If your androidstudio lags, try turning of LINT checks](https://www.reddit.com/r/androiddev/comments/1edfssf/if_your_androidstudio_lags_try_turning_of_lint/)
-- [Selected text popup menu](https://www.reddit.com/r/androiddev/comments/1eddi7a/selected_text_popup_menu/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
