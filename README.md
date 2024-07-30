@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can you replace a test module in an instrumented with Hilt?](https://www.reddit.com/r/androiddev/comments/1eenhiu/can_you_replace_a_test_module_in_an_instrumented/)
-- [My app crashes when I try and request focus.](https://www.reddit.com/r/androiddev/comments/1eeky7h/my_app_crashes_when_i_try_and_request_focus/)
-- [NavController as composition local](https://www.reddit.com/r/androiddev/comments/1eeiac1/navcontroller_as_composition_local/)
-- [Best Android certification for experienced professionals](https://www.reddit.com/r/androiddev/comments/1ee95rq/best_android_certification_for_experienced/)
-- [How to get the first frame of a video with coil in compose?](https://www.reddit.com/r/androiddev/comments/1ee6q5f/how_to_get_the_first_frame_of_a_video_with_coil/)
-- [How&#39;s the Job Market of Android Dev Globally and What&#39;s the future in 2024?](https://www.reddit.com/r/androiddev/comments/1ee3b28/hows_the_job_market_of_android_dev_globally_and/)
-- [Android BDD with Cucumber/Gherkin and Espresso](https://www.reddit.com/r/androiddev/comments/1edumjq/android_bdd_with_cucumbergherkin_and_espresso/)
-- [[ MacOS ]Why is my emulator not shown, unless I extend my screen to my iPad?](https://www.reddit.com/r/androiddev/comments/1edu4ox/macos_why_is_my_emulator_not_shown_unless_i/)
-- [windowsSoftInput:AdjustResize misbehaving when edgetoedge is enabled in compose app](https://www.reddit.com/r/androiddev/comments/1edqzey/windowssoftinputadjustresize_misbehaving_when/)
-- [How to add dialog to the backstack in Compose navigation?](https://www.reddit.com/r/androiddev/comments/1edqn5o/how_to_add_dialog_to_the_backstack_in_compose/)
+- [Jetpack Compose and Viewmodel/MVVM](https://www.reddit.com/r/androiddev/comments/1efe30k/jetpack_compose_and_viewmodelmvvm/)
+- [How to get the icon for an Android permission?](https://www.reddit.com/r/androiddev/comments/1efbj04/how_to_get_the_icon_for_an_android_permission/)
+- [Complete n00b](https://www.reddit.com/r/androiddev/comments/1efaye3/complete_n00b/)
+- [App for Android Enterprise with corporate licenses](https://www.reddit.com/r/androiddev/comments/1efahi5/app_for_android_enterprise_with_corporate_licenses/)
+- [Why is it 30% deduction?](https://www.reddit.com/r/androiddev/comments/1ef9s2y/why_is_it_30_deduction/)
+- [The Best Books](https://www.reddit.com/r/androiddev/comments/1ef60xa/the_best_books/)
+- [Firebase analytics? Can&#39;t seem to verify that my first analytic event is logging correctly.](https://www.reddit.com/r/androiddev/comments/1ef50ob/firebase_analytics_cant_seem_to_verify_that_my/)
+- [RecyclerView: EditText Loses Focus When Scrolled Off-View](https://www.reddit.com/r/androiddev/comments/1ef3yfk/recyclerview_edittext_loses_focus_when_scrolled/)
+- [How did you / will you verify your Play Developer account?](https://www.reddit.com/r/androiddev/comments/1ef1csi/how_did_you_will_you_verify_your_play_developer/)
+- [I built a fully customizable Bottom Sheet for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1eezsp3/i_built_a_fully_customizable_bottom_sheet_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
