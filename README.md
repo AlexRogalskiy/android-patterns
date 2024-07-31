@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Jetpack Compose and Viewmodel/MVVM](https://www.reddit.com/r/androiddev/comments/1efe30k/jetpack_compose_and_viewmodelmvvm/)
-- [How to get the icon for an Android permission?](https://www.reddit.com/r/androiddev/comments/1efbj04/how_to_get_the_icon_for_an_android_permission/)
-- [Complete n00b](https://www.reddit.com/r/androiddev/comments/1efaye3/complete_n00b/)
-- [App for Android Enterprise with corporate licenses](https://www.reddit.com/r/androiddev/comments/1efahi5/app_for_android_enterprise_with_corporate_licenses/)
-- [Why is it 30% deduction?](https://www.reddit.com/r/androiddev/comments/1ef9s2y/why_is_it_30_deduction/)
-- [The Best Books](https://www.reddit.com/r/androiddev/comments/1ef60xa/the_best_books/)
-- [Firebase analytics? Can&#39;t seem to verify that my first analytic event is logging correctly.](https://www.reddit.com/r/androiddev/comments/1ef50ob/firebase_analytics_cant_seem_to_verify_that_my/)
-- [RecyclerView: EditText Loses Focus When Scrolled Off-View](https://www.reddit.com/r/androiddev/comments/1ef3yfk/recyclerview_edittext_loses_focus_when_scrolled/)
-- [How did you / will you verify your Play Developer account?](https://www.reddit.com/r/androiddev/comments/1ef1csi/how_did_you_will_you_verify_your_play_developer/)
-- [I built a fully customizable Bottom Sheet for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1eezsp3/i_built_a_fully_customizable_bottom_sheet_for/)
+- [App published to play store within 4 hours](https://www.reddit.com/r/androiddev/comments/1eg5u84/app_published_to_play_store_within_4_hours/)
+- [[Hirign] Looking for an Android Developer for a time management assistant app](https://www.reddit.com/r/androiddev/comments/1efy0b9/hirign_looking_for_an_android_developer_for_a/)
+- [New App Publish Time](https://www.reddit.com/r/androiddev/comments/1efwb73/new_app_publish_time/)
+- [Getting app developed by contractor, launch is over a year overdue. Can a dev that&#39;s not a scammer tell me about the actual process?](https://www.reddit.com/r/androiddev/comments/1efufyz/getting_app_developed_by_contractor_launch_is/)
+- [What are the most important skills required to get a job as an android developer &lpar;Please mention sources&rpar;](https://www.reddit.com/r/androiddev/comments/1eft4re/what_are_the_most_important_skills_required_to/)
+- [Do apps auto update when promoting releases?](https://www.reddit.com/r/androiddev/comments/1efrz34/do_apps_auto_update_when_promoting_releases/)
+- [CameraX: Only analyze snapshots - is it possible?](https://www.reddit.com/r/androiddev/comments/1efrocj/camerax_only_analyze_snapshots_is_it_possible/)
+- [Help Needed: Capturing the Video ID of the Currently Playing YouTube Video on Android](https://www.reddit.com/r/androiddev/comments/1efpddo/help_needed_capturing_the_video_id_of_the/)
+- [Does Google Play Books expose a public API to access your own book library data?](https://www.reddit.com/r/androiddev/comments/1efpbbb/does_google_play_books_expose_a_public_api_to/)
+- [35.0 missing from releases in developer.android.com](https://www.reddit.com/r/androiddev/comments/1efnt0d/350_missing_from_releases_in_developerandroidcom/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
