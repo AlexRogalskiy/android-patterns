@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App published to play store within 4 hours](https://www.reddit.com/r/androiddev/comments/1eg5u84/app_published_to_play_store_within_4_hours/)
-- [[Hirign] Looking for an Android Developer for a time management assistant app](https://www.reddit.com/r/androiddev/comments/1efy0b9/hirign_looking_for_an_android_developer_for_a/)
-- [New App Publish Time](https://www.reddit.com/r/androiddev/comments/1efwb73/new_app_publish_time/)
-- [Getting app developed by contractor, launch is over a year overdue. Can a dev that&#39;s not a scammer tell me about the actual process?](https://www.reddit.com/r/androiddev/comments/1efufyz/getting_app_developed_by_contractor_launch_is/)
-- [What are the most important skills required to get a job as an android developer &lpar;Please mention sources&rpar;](https://www.reddit.com/r/androiddev/comments/1eft4re/what_are_the_most_important_skills_required_to/)
-- [Do apps auto update when promoting releases?](https://www.reddit.com/r/androiddev/comments/1efrz34/do_apps_auto_update_when_promoting_releases/)
-- [CameraX: Only analyze snapshots - is it possible?](https://www.reddit.com/r/androiddev/comments/1efrocj/camerax_only_analyze_snapshots_is_it_possible/)
-- [Help Needed: Capturing the Video ID of the Currently Playing YouTube Video on Android](https://www.reddit.com/r/androiddev/comments/1efpddo/help_needed_capturing_the_video_id_of_the/)
-- [Does Google Play Books expose a public API to access your own book library data?](https://www.reddit.com/r/androiddev/comments/1efpbbb/does_google_play_books_expose_a_public_api_to/)
-- [35.0 missing from releases in developer.android.com](https://www.reddit.com/r/androiddev/comments/1efnt0d/350_missing_from_releases_in_developerandroidcom/)
+- [Advice for starting to learn Android Dev](https://www.reddit.com/r/androiddev/comments/1eh50m0/advice_for_starting_to_learn_android_dev/)
+- [Inactive Account](https://www.reddit.com/r/androiddev/comments/1eh0nnj/inactive_account/)
+- [How does the recomposition &lpar;on state change&rpar; works?](https://www.reddit.com/r/androiddev/comments/1eh038b/how_does_the_recomposition_on_state_change_works/)
+- [Adapters can replace Fragmentos?](https://www.reddit.com/r/androiddev/comments/1egw9gp/adapters_can_replace_fragmentos/)
+- [How to open the app from shortened links like Bitly?](https://www.reddit.com/r/androiddev/comments/1egvfzd/how_to_open_the_app_from_shortened_links_like/)
+- [Help with adding library as local module to project](https://www.reddit.com/r/androiddev/comments/1egsf1k/help_with_adding_library_as_local_module_to/)
+- [Feedback on K2](https://www.reddit.com/r/androiddev/comments/1egrmgm/feedback_on_k2/)
+- [Coroutines: Concurrency in Kotlin](https://www.reddit.com/r/androiddev/comments/1egprxc/coroutines_concurrency_in_kotlin/)
+- [Architecture related decisions in Android - Response classes](https://www.reddit.com/r/androiddev/comments/1ego7mx/architecture_related_decisions_in_android/)
+- [Toolbar in Scaffold vs Toolbar in Column](https://www.reddit.com/r/androiddev/comments/1egnyxh/toolbar_in_scaffold_vs_toolbar_in_column/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
