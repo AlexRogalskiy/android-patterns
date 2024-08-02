@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Advice for starting to learn Android Dev](https://www.reddit.com/r/androiddev/comments/1eh50m0/advice_for_starting_to_learn_android_dev/)
+- [What is your experience with freelancing platforms?](https://www.reddit.com/r/androiddev/comments/1ehs0ya/what_is_your_experience_with_freelancing_platforms/)
+- [WearOS-only app on Play Store, how to get rid of &quot;Phones, Tablets, ChromeOS&quot; form factor?](https://www.reddit.com/r/androiddev/comments/1ehrzrc/wearosonly_app_on_play_store_how_to_get_rid_of/)
+- [ContentProvider using WorkManager for background synchronization](https://www.reddit.com/r/androiddev/comments/1ehqepx/contentprovider_using_workmanager_for_background/)
+- [Clean gradle for a multi-module project - groovy vs kotlin-dsl ?](https://www.reddit.com/r/androiddev/comments/1ehmbtn/clean_gradle_for_a_multimodule_project_groovy_vs/)
+- [Password protected crypto key pair](https://www.reddit.com/r/androiddev/comments/1ehku98/password_protected_crypto_key_pair/)
+- [Is the migration assistant accurate?](https://www.reddit.com/r/androiddev/comments/1ehjbze/is_the_migration_assistant_accurate/)
+- [TabTemplate in Android Auto](https://www.reddit.com/r/androiddev/comments/1ehic3g/tabtemplate_in_android_auto/)
+- [Updating app on the playstore with “MANAGE_EXTERNAL_STORAGE” permission is a pain](https://www.reddit.com/r/androiddev/comments/1ehebiq/updating_app_on_the_playstore_with_manage/)
+- [targetSdk/minSdk vs targetSdkVersion/minSdkVersion](https://www.reddit.com/r/androiddev/comments/1ehcvl7/targetsdkminsdk_vs_targetsdkversionminsdkversion/)
 - [Inactive Account](https://www.reddit.com/r/androiddev/comments/1eh0nnj/inactive_account/)
-- [How does the recomposition &lpar;on state change&rpar; works?](https://www.reddit.com/r/androiddev/comments/1eh038b/how_does_the_recomposition_on_state_change_works/)
-- [Adapters can replace Fragmentos?](https://www.reddit.com/r/androiddev/comments/1egw9gp/adapters_can_replace_fragmentos/)
-- [How to open the app from shortened links like Bitly?](https://www.reddit.com/r/androiddev/comments/1egvfzd/how_to_open_the_app_from_shortened_links_like/)
-- [Help with adding library as local module to project](https://www.reddit.com/r/androiddev/comments/1egsf1k/help_with_adding_library_as_local_module_to/)
-- [Feedback on K2](https://www.reddit.com/r/androiddev/comments/1egrmgm/feedback_on_k2/)
-- [Coroutines: Concurrency in Kotlin](https://www.reddit.com/r/androiddev/comments/1egprxc/coroutines_concurrency_in_kotlin/)
-- [Architecture related decisions in Android - Response classes](https://www.reddit.com/r/androiddev/comments/1ego7mx/architecture_related_decisions_in_android/)
-- [Toolbar in Scaffold vs Toolbar in Column](https://www.reddit.com/r/androiddev/comments/1egnyxh/toolbar_in_scaffold_vs_toolbar_in_column/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
