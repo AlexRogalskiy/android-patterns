@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Would you guys use this?](https://www.reddit.com/r/androiddev/comments/1einhp3/would_you_guys_use_this/)
+- [Things to do to be good enough](https://www.reddit.com/r/androiddev/comments/1eijnji/things_to_do_to_be_good_enough/)
+- [Best way to handle orientation when displaying multiple bottom sheet fragments](https://www.reddit.com/r/androiddev/comments/1ei7nqv/best_way_to_handle_orientation_when_displaying/)
+- [Has anyone integrated ads in Exoplayer?](https://www.reddit.com/r/androiddev/comments/1ei7ay7/has_anyone_integrated_ads_in_exoplayer/)
+- [why is the programmatic scrolling/swiping moves the screen different amounts each time?](https://www.reddit.com/r/androiddev/comments/1ei2r9e/why_is_the_programmatic_scrollingswiping_moves/)
 - [What is your experience with freelancing platforms?](https://www.reddit.com/r/androiddev/comments/1ehs0ya/what_is_your_experience_with_freelancing_platforms/)
 - [WearOS-only app on Play Store, how to get rid of &quot;Phones, Tablets, ChromeOS&quot; form factor?](https://www.reddit.com/r/androiddev/comments/1ehrzrc/wearosonly_app_on_play_store_how_to_get_rid_of/)
 - [ContentProvider using WorkManager for background synchronization](https://www.reddit.com/r/androiddev/comments/1ehqepx/contentprovider_using_workmanager_for_background/)
 - [Clean gradle for a multi-module project - groovy vs kotlin-dsl ?](https://www.reddit.com/r/androiddev/comments/1ehmbtn/clean_gradle_for_a_multimodule_project_groovy_vs/)
 - [Password protected crypto key pair](https://www.reddit.com/r/androiddev/comments/1ehku98/password_protected_crypto_key_pair/)
-- [Is the migration assistant accurate?](https://www.reddit.com/r/androiddev/comments/1ehjbze/is_the_migration_assistant_accurate/)
-- [TabTemplate in Android Auto](https://www.reddit.com/r/androiddev/comments/1ehic3g/tabtemplate_in_android_auto/)
-- [Updating app on the playstore with “MANAGE_EXTERNAL_STORAGE” permission is a pain](https://www.reddit.com/r/androiddev/comments/1ehebiq/updating_app_on_the_playstore_with_manage/)
-- [targetSdk/minSdk vs targetSdkVersion/minSdkVersion](https://www.reddit.com/r/androiddev/comments/1ehcvl7/targetsdkminsdk_vs_targetsdkversionminsdkversion/)
-- [Inactive Account](https://www.reddit.com/r/androiddev/comments/1eh0nnj/inactive_account/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
