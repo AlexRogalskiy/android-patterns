@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Would you guys use this?](https://www.reddit.com/r/androiddev/comments/1einhp3/would_you_guys_use_this/)
-- [Things to do to be good enough](https://www.reddit.com/r/androiddev/comments/1eijnji/things_to_do_to_be_good_enough/)
-- [Best way to handle orientation when displaying multiple bottom sheet fragments](https://www.reddit.com/r/androiddev/comments/1ei7nqv/best_way_to_handle_orientation_when_displaying/)
-- [Has anyone integrated ads in Exoplayer?](https://www.reddit.com/r/androiddev/comments/1ei7ay7/has_anyone_integrated_ads_in_exoplayer/)
-- [why is the programmatic scrolling/swiping moves the screen different amounts each time?](https://www.reddit.com/r/androiddev/comments/1ei2r9e/why_is_the_programmatic_scrollingswiping_moves/)
-- [What is your experience with freelancing platforms?](https://www.reddit.com/r/androiddev/comments/1ehs0ya/what_is_your_experience_with_freelancing_platforms/)
-- [WearOS-only app on Play Store, how to get rid of &quot;Phones, Tablets, ChromeOS&quot; form factor?](https://www.reddit.com/r/androiddev/comments/1ehrzrc/wearosonly_app_on_play_store_how_to_get_rid_of/)
-- [ContentProvider using WorkManager for background synchronization](https://www.reddit.com/r/androiddev/comments/1ehqepx/contentprovider_using_workmanager_for_background/)
-- [Clean gradle for a multi-module project - groovy vs kotlin-dsl ?](https://www.reddit.com/r/androiddev/comments/1ehmbtn/clean_gradle_for_a_multimodule_project_groovy_vs/)
-- [Password protected crypto key pair](https://www.reddit.com/r/androiddev/comments/1ehku98/password_protected_crypto_key_pair/)
+- [Database programming](https://www.reddit.com/r/androiddev/comments/1ejjaoa/database_programming/)
+- [Single Activity Single Fragment](https://www.reddit.com/r/androiddev/comments/1ejgprm/single_activity_single_fragment/)
+- [Update: Is this worthwhile?](https://www.reddit.com/r/androiddev/comments/1ejgkxz/update_is_this_worthwhile/)
+- [Has anybody gotten this non-specific error message when trying to verify access to an Android Mobile Device via emulator for Google Play Console? Trying to setup a new Google Play Dev account and am running into this hangup.](https://www.reddit.com/r/androiddev/comments/1ejddq6/has_anybody_gotten_this_nonspecific_error_message/)
+- [Favour](https://www.reddit.com/r/androiddev/comments/1ejcw57/favour/)
+- [I&#39;m making client for my mobile game, but Google play protect marks it as a virus](https://www.reddit.com/r/androiddev/comments/1ej881z/im_making_client_for_my_mobile_game_but_google/)
+- [Button onClick instruction nowhere to be found, why?](https://www.reddit.com/r/androiddev/comments/1eivrqd/button_onclick_instruction_nowhere_to_be_found_why/)
+- [Can I develop an app that streams calls to a web server?](https://www.reddit.com/r/androiddev/comments/1eiubcy/can_i_develop_an_app_that_streams_calls_to_a_web/)
+- [Made an Android library!](https://www.reddit.com/r/androiddev/comments/1eiu18x/made_an_android_library/)
+- [Writing to external storage?](https://www.reddit.com/r/androiddev/comments/1eitxwv/writing_to_external_storage/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
