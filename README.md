@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Database programming](https://www.reddit.com/r/androiddev/comments/1ejjaoa/database_programming/)
+- [How to protect the purchase status of the application from being cracked?](https://www.reddit.com/r/androiddev/comments/1ek94uw/how_to_protect_the_purchase_status_of_the/)
+- [I have published a pagination library for Compose Multiplatform!](https://www.reddit.com/r/androiddev/comments/1ek3fs1/i_have_published_a_pagination_library_for_compose/)
+- [What are some good coding practices to avoid state-management and spaghetti code issues as the codebase grows in size?](https://www.reddit.com/r/androiddev/comments/1ek0uq3/what_are_some_good_coding_practices_to_avoid/)
+- [WhatsApp iOS-inspired message interaction UI built with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ejzw75/whatsapp_iosinspired_message_interaction_ui_built/)
+- [How to convert package name to app name?](https://www.reddit.com/r/androiddev/comments/1ejx2cm/how_to_convert_package_name_to_app_name/)
+- [MVI ViewModel unit testing naming](https://www.reddit.com/r/androiddev/comments/1ejx27k/mvi_viewmodel_unit_testing_naming/)
+- [Server Driven UI - is this really worth it?](https://www.reddit.com/r/androiddev/comments/1ejngo9/server_driven_ui_is_this_really_worth_it/)
 - [Single Activity Single Fragment](https://www.reddit.com/r/androiddev/comments/1ejgprm/single_activity_single_fragment/)
 - [Update: Is this worthwhile?](https://www.reddit.com/r/androiddev/comments/1ejgkxz/update_is_this_worthwhile/)
 - [Has anybody gotten this non-specific error message when trying to verify access to an Android Mobile Device via emulator for Google Play Console? Trying to setup a new Google Play Dev account and am running into this hangup.](https://www.reddit.com/r/androiddev/comments/1ejddq6/has_anybody_gotten_this_nonspecific_error_message/)
-- [Favour](https://www.reddit.com/r/androiddev/comments/1ejcw57/favour/)
-- [I&#39;m making client for my mobile game, but Google play protect marks it as a virus](https://www.reddit.com/r/androiddev/comments/1ej881z/im_making_client_for_my_mobile_game_but_google/)
-- [Button onClick instruction nowhere to be found, why?](https://www.reddit.com/r/androiddev/comments/1eivrqd/button_onclick_instruction_nowhere_to_be_found_why/)
-- [Can I develop an app that streams calls to a web server?](https://www.reddit.com/r/androiddev/comments/1eiubcy/can_i_develop_an_app_that_streams_calls_to_a_web/)
-- [Made an Android library!](https://www.reddit.com/r/androiddev/comments/1eiu18x/made_an_android_library/)
-- [Writing to external storage?](https://www.reddit.com/r/androiddev/comments/1eitxwv/writing_to_external_storage/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
