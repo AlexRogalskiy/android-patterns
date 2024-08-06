@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to protect the purchase status of the application from being cracked?](https://www.reddit.com/r/androiddev/comments/1ek94uw/how_to_protect_the_purchase_status_of_the/)
-- [I have published a pagination library for Compose Multiplatform!](https://www.reddit.com/r/androiddev/comments/1ek3fs1/i_have_published_a_pagination_library_for_compose/)
-- [What are some good coding practices to avoid state-management and spaghetti code issues as the codebase grows in size?](https://www.reddit.com/r/androiddev/comments/1ek0uq3/what_are_some_good_coding_practices_to_avoid/)
-- [WhatsApp iOS-inspired message interaction UI built with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ejzw75/whatsapp_iosinspired_message_interaction_ui_built/)
-- [How to convert package name to app name?](https://www.reddit.com/r/androiddev/comments/1ejx2cm/how_to_convert_package_name_to_app_name/)
-- [MVI ViewModel unit testing naming](https://www.reddit.com/r/androiddev/comments/1ejx27k/mvi_viewmodel_unit_testing_naming/)
-- [Server Driven UI - is this really worth it?](https://www.reddit.com/r/androiddev/comments/1ejngo9/server_driven_ui_is_this_really_worth_it/)
-- [Single Activity Single Fragment](https://www.reddit.com/r/androiddev/comments/1ejgprm/single_activity_single_fragment/)
-- [Update: Is this worthwhile?](https://www.reddit.com/r/androiddev/comments/1ejgkxz/update_is_this_worthwhile/)
-- [Has anybody gotten this non-specific error message when trying to verify access to an Android Mobile Device via emulator for Google Play Console? Trying to setup a new Google Play Dev account and am running into this hangup.](https://www.reddit.com/r/androiddev/comments/1ejddq6/has_anybody_gotten_this_nonspecific_error_message/)
+- [Looking for a devkit for XR dev](https://www.reddit.com/r/androiddev/comments/1el3vo0/looking_for_a_devkit_for_xr_dev/)
+- [Can a foreground service still make requests if the device is in doze mode?](https://www.reddit.com/r/androiddev/comments/1el34x0/can_a_foreground_service_still_make_requests_if/)
+- [Where to start?](https://www.reddit.com/r/androiddev/comments/1ekyjgw/where_to_start/)
+- [Documentation of Digital Reporting System Development from Android side](https://www.reddit.com/r/androiddev/comments/1ekr7xf/documentation_of_digital_reporting_system/)
+- [Error overlapping the elements of a list when opening the keyboard in compose](https://www.reddit.com/r/androiddev/comments/1ekpwzy/error_overlapping_the_elements_of_a_list_when/)
+- [Looking for a library](https://www.reddit.com/r/androiddev/comments/1eknes1/looking_for_a_library/)
+- [Publishing minSdk=34 APK to Open Testing shows APK running on Android 11](https://www.reddit.com/r/androiddev/comments/1ekm71l/publishing_minsdk34_apk_to_open_testing_shows_apk/)
+- [Android studio typing becomes extremely laggy with open emulator after Koala update](https://www.reddit.com/r/androiddev/comments/1eklitx/android_studio_typing_becomes_extremely_laggy/)
+- [Android System UI Visibility Callback](https://www.reddit.com/r/androiddev/comments/1ekl95v/android_system_ui_visibility_callback/)
+- [use apkanalyzer in CI/CD to track resource sizes](https://www.reddit.com/r/androiddev/comments/1ekk5u9/use_apkanalyzer_in_cicd_to_track_resource_sizes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
