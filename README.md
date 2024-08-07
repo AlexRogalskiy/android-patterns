@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Koala Feature Drop | 2024.1.2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1elvxvn/android_studio_koala_feature_drop_202412_rc_1_now/)
+- [Android Studio Ladybug | 2024.2.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1elvxv8/android_studio_ladybug_202421_canary_4_now/)
+- [Understanding Android IPC Mechanisms](https://www.reddit.com/r/androiddev/comments/1elq6op/understanding_android_ipc_mechanisms/)
+- [Central Ohio Developers](https://www.reddit.com/r/androiddev/comments/1elgf6i/central_ohio_developers/)
+- [AI Autocomplete in Android Studio Obnoxious? Or just me?](https://www.reddit.com/r/androiddev/comments/1elfkd6/ai_autocomplete_in_android_studio_obnoxious_or/)
+- [Open-source alternative for OneSignal](https://www.reddit.com/r/androiddev/comments/1elehik/opensource_alternative_for_onesignal/)
+- [Best UI framework for complex nested drag and drop?](https://www.reddit.com/r/androiddev/comments/1elatg3/best_ui_framework_for_complex_nested_drag_and_drop/)
+- [SharedVM for Login and Sign Up](https://www.reddit.com/r/androiddev/comments/1ela8au/sharedvm_for_login_and_sign_up/)
 - [Looking for a devkit for XR dev](https://www.reddit.com/r/androiddev/comments/1el3vo0/looking_for_a_devkit_for_xr_dev/)
 - [Can a foreground service still make requests if the device is in doze mode?](https://www.reddit.com/r/androiddev/comments/1el34x0/can_a_foreground_service_still_make_requests_if/)
-- [Where to start?](https://www.reddit.com/r/androiddev/comments/1ekyjgw/where_to_start/)
-- [Documentation of Digital Reporting System Development from Android side](https://www.reddit.com/r/androiddev/comments/1ekr7xf/documentation_of_digital_reporting_system/)
-- [Error overlapping the elements of a list when opening the keyboard in compose](https://www.reddit.com/r/androiddev/comments/1ekpwzy/error_overlapping_the_elements_of_a_list_when/)
-- [Looking for a library](https://www.reddit.com/r/androiddev/comments/1eknes1/looking_for_a_library/)
-- [Publishing minSdk=34 APK to Open Testing shows APK running on Android 11](https://www.reddit.com/r/androiddev/comments/1ekm71l/publishing_minsdk34_apk_to_open_testing_shows_apk/)
-- [Android studio typing becomes extremely laggy with open emulator after Koala update](https://www.reddit.com/r/androiddev/comments/1eklitx/android_studio_typing_becomes_extremely_laggy/)
-- [Android System UI Visibility Callback](https://www.reddit.com/r/androiddev/comments/1ekl95v/android_system_ui_visibility_callback/)
-- [use apkanalyzer in CI/CD to track resource sizes](https://www.reddit.com/r/androiddev/comments/1ekk5u9/use_apkanalyzer_in_cicd_to_track_resource_sizes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
