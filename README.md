@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to keep the Debug-Token the same over multiple builds &lpar;Firebase App Check&rpar;](https://www.reddit.com/r/androiddev/comments/1emsvgf/how_to_keep_the_debugtoken_the_same_over_multiple/)
-- [JetpackCompose.app Dispatch Issue #6: Decline of mobile dev, Storybook like tool from JetBrains, better way to measure “seniority” in software engineering, the badass developer of SQLite and meeting Annyce Davis](https://www.reddit.com/r/androiddev/comments/1emmw07/jetpackcomposeapp_dispatch_issue_6_decline_of/)
-- [Applying the Strategy Pattern in Kotlin](https://www.reddit.com/r/androiddev/comments/1eme1mx/applying_the_strategy_pattern_in_kotlin/)
-- [Android Subscriptions &lpar;for Dummies&rpar;](https://www.reddit.com/r/androiddev/comments/1emd3ts/android_subscriptions_for_dummies/)
-- [Applying fonts globally?](https://www.reddit.com/r/androiddev/comments/1embu0r/applying_fonts_globally/)
-- [Useful information about GP account verification](https://www.reddit.com/r/androiddev/comments/1emalfy/useful_information_about_gp_account_verification/)
-- [White-label apps on Google Play with organization accounts](https://www.reddit.com/r/androiddev/comments/1em9kzj/whitelabel_apps_on_google_play_with_organization/)
-- [Start an Activity from Background](https://www.reddit.com/r/androiddev/comments/1em5xhn/start_an_activity_from_background/)
-- [How does Firebase prevent hacked applications from obtaining JWT](https://www.reddit.com/r/androiddev/comments/1em4a4g/how_does_firebase_prevent_hacked_applications/)
-- [Android Studio Koala Feature Drop | 2024.1.2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1elvxvn/android_studio_koala_feature_drop_202412_rc_1_now/)
+- [Android Studio Koala | 2024.1.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1ennt7n/android_studio_koala_202411_patch_2_now_available/)
+- [Android Studio Ladybug | 2024.2.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1enjzq3/android_studio_ladybug_202421_canary_5_now/)
+- [Foreground services Google Play changes](https://www.reddit.com/r/androiddev/comments/1enfpwv/foreground_services_google_play_changes/)
+- [Device never recognized in ADB](https://www.reddit.com/r/androiddev/comments/1enfdvr/device_never_recognized_in_adb/)
+- [Why we can&#39;t discuss here on Google Play issues?](https://www.reddit.com/r/androiddev/comments/1encm88/why_we_cant_discuss_here_on_google_play_issues/)
+- [Questions after 6 years self learning](https://www.reddit.com/r/androiddev/comments/1en7j94/questions_after_6_years_self_learning/)
+- [What&#39;s your approach when you have to share state between screens?](https://www.reddit.com/r/androiddev/comments/1en5k6n/whats_your_approach_when_you_have_to_share_state/)
+- [Type-safe navigation passing large list crash](https://www.reddit.com/r/androiddev/comments/1en0ihc/typesafe_navigation_passing_large_list_crash/)
+- [Why does windowIsTranslucent fix the orientation of the child activity?](https://www.reddit.com/r/androiddev/comments/1en0fqy/why_does_windowistranslucent_fix_the_orientation/)
+- [Building an effective abstraction layer for UI resources on Android](https://www.reddit.com/r/androiddev/comments/1emyo3e/building_an_effective_abstraction_layer_for_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
