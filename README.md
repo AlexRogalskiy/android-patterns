@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This was more fun than I expected!](https://www.reddit.com/r/androiddev/comments/1eo8rbu/this_was_more_fun_than_i_expected/)
+- [Compose: Handling complex Hierarchy](https://www.reddit.com/r/androiddev/comments/1eo7lw9/compose_handling_complex_hierarchy/)
+- [Anyone else get this weird visual bug in Android Studio&#39;s Gemini UI?](https://www.reddit.com/r/androiddev/comments/1eo4y50/anyone_else_get_this_weird_visual_bug_in_android/)
+- [how to remove margins from top and bottom](https://www.reddit.com/r/androiddev/comments/1eo4twi/how_to_remove_margins_from_top_and_bottom/)
+- [Doubt about in-memory cache thread safeness](https://www.reddit.com/r/androiddev/comments/1eo0u8y/doubt_about_inmemory_cache_thread_safeness/)
+- [X/Y coordinates of a complication tap?](https://www.reddit.com/r/androiddev/comments/1eo006p/xy_coordinates_of_a_complication_tap/)
+- [Any Way to Access Audio or Lyrics via Media Players?](https://www.reddit.com/r/androiddev/comments/1env0dn/any_way_to_access_audio_or_lyrics_via_media/)
 - [Android Studio Koala | 2024.1.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1ennt7n/android_studio_koala_202411_patch_2_now_available/)
 - [Android Studio Ladybug | 2024.2.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1enjzq3/android_studio_ladybug_202421_canary_5_now/)
 - [Foreground services Google Play changes](https://www.reddit.com/r/androiddev/comments/1enfpwv/foreground_services_google_play_changes/)
-- [Device never recognized in ADB](https://www.reddit.com/r/androiddev/comments/1enfdvr/device_never_recognized_in_adb/)
-- [Why we can&#39;t discuss here on Google Play issues?](https://www.reddit.com/r/androiddev/comments/1encm88/why_we_cant_discuss_here_on_google_play_issues/)
-- [Questions after 6 years self learning](https://www.reddit.com/r/androiddev/comments/1en7j94/questions_after_6_years_self_learning/)
-- [What&#39;s your approach when you have to share state between screens?](https://www.reddit.com/r/androiddev/comments/1en5k6n/whats_your_approach_when_you_have_to_share_state/)
-- [Type-safe navigation passing large list crash](https://www.reddit.com/r/androiddev/comments/1en0ihc/typesafe_navigation_passing_large_list_crash/)
-- [Why does windowIsTranslucent fix the orientation of the child activity?](https://www.reddit.com/r/androiddev/comments/1en0fqy/why_does_windowistranslucent_fix_the_orientation/)
-- [Building an effective abstraction layer for UI resources on Android](https://www.reddit.com/r/androiddev/comments/1emyo3e/building_an_effective_abstraction_layer_for_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
