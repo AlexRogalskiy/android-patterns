@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Promote on a Minimal Budget?](https://www.reddit.com/r/androiddev/comments/1ep9dg1/how_to_promote_on_a_minimal_budget/)
+- [ContentScale Fill by Height Algorithm](https://www.reddit.com/r/androiddev/comments/1ep25wy/contentscale_fill_by_height_algorithm/)
+- [Android Wave Recorder V2.0.0 is OUT 📛](https://www.reddit.com/r/androiddev/comments/1ep1s28/android_wave_recorder_v200_is_out/)
+- [Launching intent &lpar;launching another app&rpar; from a Thread](https://www.reddit.com/r/androiddev/comments/1eopzrg/launching_intent_launching_another_app_from_a/)
+- [Dimensions with compose](https://www.reddit.com/r/androiddev/comments/1eomnqu/dimensions_with_compose/)
 - [This was more fun than I expected!](https://www.reddit.com/r/androiddev/comments/1eo8rbu/this_was_more_fun_than_i_expected/)
 - [Compose: Handling complex Hierarchy](https://www.reddit.com/r/androiddev/comments/1eo7lw9/compose_handling_complex_hierarchy/)
 - [Anyone else get this weird visual bug in Android Studio&#39;s Gemini UI?](https://www.reddit.com/r/androiddev/comments/1eo4y50/anyone_else_get_this_weird_visual_bug_in_android/)
 - [how to remove margins from top and bottom](https://www.reddit.com/r/androiddev/comments/1eo4twi/how_to_remove_margins_from_top_and_bottom/)
 - [Doubt about in-memory cache thread safeness](https://www.reddit.com/r/androiddev/comments/1eo0u8y/doubt_about_inmemory_cache_thread_safeness/)
-- [X/Y coordinates of a complication tap?](https://www.reddit.com/r/androiddev/comments/1eo006p/xy_coordinates_of_a_complication_tap/)
-- [Any Way to Access Audio or Lyrics via Media Players?](https://www.reddit.com/r/androiddev/comments/1env0dn/any_way_to_access_audio_or_lyrics_via_media/)
-- [Android Studio Koala | 2024.1.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1ennt7n/android_studio_koala_202411_patch_2_now_available/)
-- [Android Studio Ladybug | 2024.2.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1enjzq3/android_studio_ladybug_202421_canary_5_now/)
-- [Foreground services Google Play changes](https://www.reddit.com/r/androiddev/comments/1enfpwv/foreground_services_google_play_changes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
