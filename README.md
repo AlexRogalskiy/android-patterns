@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to Promote on a Minimal Budget?](https://www.reddit.com/r/androiddev/comments/1ep9dg1/how_to_promote_on_a_minimal_budget/)
+- [Using Clean Architecture on Android, is it an overkill?](https://www.reddit.com/r/androiddev/comments/1eppoaf/using_clean_architecture_on_android_is_it_an/)
+- [MediaProjection issues in landscape on device with auto-rotate disabled](https://www.reddit.com/r/androiddev/comments/1epfups/mediaprojection_issues_in_landscape_on_device/)
+- [Adding a border to the top of a BottomSheetScaffold in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1epflp3/adding_a_border_to_the_top_of_a/)
+- [Equivalent of Flow Layout &lpar;Jetpack Compose&rpar; in XML?](https://www.reddit.com/r/androiddev/comments/1epc3h2/equivalent_of_flow_layout_jetpack_compose_in_xml/)
 - [ContentScale Fill by Height Algorithm](https://www.reddit.com/r/androiddev/comments/1ep25wy/contentscale_fill_by_height_algorithm/)
 - [Android Wave Recorder V2.0.0 is OUT 📛](https://www.reddit.com/r/androiddev/comments/1ep1s28/android_wave_recorder_v200_is_out/)
 - [Launching intent &lpar;launching another app&rpar; from a Thread](https://www.reddit.com/r/androiddev/comments/1eopzrg/launching_intent_launching_another_app_from_a/)
 - [Dimensions with compose](https://www.reddit.com/r/androiddev/comments/1eomnqu/dimensions_with_compose/)
 - [This was more fun than I expected!](https://www.reddit.com/r/androiddev/comments/1eo8rbu/this_was_more_fun_than_i_expected/)
 - [Compose: Handling complex Hierarchy](https://www.reddit.com/r/androiddev/comments/1eo7lw9/compose_handling_complex_hierarchy/)
-- [Anyone else get this weird visual bug in Android Studio&#39;s Gemini UI?](https://www.reddit.com/r/androiddev/comments/1eo4y50/anyone_else_get_this_weird_visual_bug_in_android/)
-- [how to remove margins from top and bottom](https://www.reddit.com/r/androiddev/comments/1eo4twi/how_to_remove_margins_from_top_and_bottom/)
-- [Doubt about in-memory cache thread safeness](https://www.reddit.com/r/androiddev/comments/1eo0u8y/doubt_about_inmemory_cache_thread_safeness/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
