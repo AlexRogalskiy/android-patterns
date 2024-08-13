@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using Clean Architecture on Android, is it an overkill?](https://www.reddit.com/r/androiddev/comments/1eppoaf/using_clean_architecture_on_android_is_it_an/)
-- [MediaProjection issues in landscape on device with auto-rotate disabled](https://www.reddit.com/r/androiddev/comments/1epfups/mediaprojection_issues_in_landscape_on_device/)
-- [Adding a border to the top of a BottomSheetScaffold in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1epflp3/adding_a_border_to_the_top_of_a/)
-- [Equivalent of Flow Layout &lpar;Jetpack Compose&rpar; in XML?](https://www.reddit.com/r/androiddev/comments/1epc3h2/equivalent_of_flow_layout_jetpack_compose_in_xml/)
-- [ContentScale Fill by Height Algorithm](https://www.reddit.com/r/androiddev/comments/1ep25wy/contentscale_fill_by_height_algorithm/)
-- [Android Wave Recorder V2.0.0 is OUT 📛](https://www.reddit.com/r/androiddev/comments/1ep1s28/android_wave_recorder_v200_is_out/)
-- [Launching intent &lpar;launching another app&rpar; from a Thread](https://www.reddit.com/r/androiddev/comments/1eopzrg/launching_intent_launching_another_app_from_a/)
-- [Dimensions with compose](https://www.reddit.com/r/androiddev/comments/1eomnqu/dimensions_with_compose/)
-- [This was more fun than I expected!](https://www.reddit.com/r/androiddev/comments/1eo8rbu/this_was_more_fun_than_i_expected/)
-- [Compose: Handling complex Hierarchy](https://www.reddit.com/r/androiddev/comments/1eo7lw9/compose_handling_complex_hierarchy/)
+- [I am trying to make all the elements on the android screen to the right centered for an app I am making. I&#39;ve watched youtube videos and reading articles and have found nothing that works to fix the verticalArrangement code that is in red. Please help. Thank you in advance.](https://www.reddit.com/r/androiddev/comments/1eqrrwy/i_am_trying_to_make_all_the_elements_on_the/)
+- [Understanding Android&#39;s High Contrast Text Mode: Which text gets an outline and which text gets turns to black/white](https://www.reddit.com/r/androiddev/comments/1eqqjkx/understanding_androids_high_contrast_text_mode/)
+- [Need Advice: Should I Release a New Version or Wait? Open Testing Issues](https://www.reddit.com/r/androiddev/comments/1eqle9i/need_advice_should_i_release_a_new_version_or/)
+- [Deeplink behavior in different android devices](https://www.reddit.com/r/androiddev/comments/1eqj3wf/deeplink_behavior_in_different_android_devices/)
+- [Why not distribute your app outside of the Play store?](https://www.reddit.com/r/androiddev/comments/1eqhzu0/why_not_distribute_your_app_outside_of_the_play/)
+- [tab takes extra space inside nestedscrollview in android](https://www.reddit.com/r/androiddev/comments/1eqhq9j/tab_takes_extra_space_inside_nestedscrollview_in/)
+- [Change Package Name on Google Play](https://www.reddit.com/r/androiddev/comments/1eqhbth/change_package_name_on_google_play/)
+- [Wanted: Android Developer to Fight Censorship](https://www.reddit.com/r/androiddev/comments/1eqdexm/wanted_android_developer_to_fight_censorship/)
+- [Android TV App - Long press back button listener for view](https://www.reddit.com/r/androiddev/comments/1eqczhn/android_tv_app_long_press_back_button_listener/)
+- [Unresolved reference: ksp &lpar;KSP is not working&rpar;](https://www.reddit.com/r/androiddev/comments/1eqbc8g/unresolved_reference_ksp_ksp_is_not_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
