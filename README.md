@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I am trying to make all the elements on the android screen to the right centered for an app I am making. I&#39;ve watched youtube videos and reading articles and have found nothing that works to fix the verticalArrangement code that is in red. Please help. Thank you in advance.](https://www.reddit.com/r/androiddev/comments/1eqrrwy/i_am_trying_to_make_all_the_elements_on_the/)
-- [Understanding Android&#39;s High Contrast Text Mode: Which text gets an outline and which text gets turns to black/white](https://www.reddit.com/r/androiddev/comments/1eqqjkx/understanding_androids_high_contrast_text_mode/)
-- [Need Advice: Should I Release a New Version or Wait? Open Testing Issues](https://www.reddit.com/r/androiddev/comments/1eqle9i/need_advice_should_i_release_a_new_version_or/)
-- [Deeplink behavior in different android devices](https://www.reddit.com/r/androiddev/comments/1eqj3wf/deeplink_behavior_in_different_android_devices/)
-- [Why not distribute your app outside of the Play store?](https://www.reddit.com/r/androiddev/comments/1eqhzu0/why_not_distribute_your_app_outside_of_the_play/)
-- [tab takes extra space inside nestedscrollview in android](https://www.reddit.com/r/androiddev/comments/1eqhq9j/tab_takes_extra_space_inside_nestedscrollview_in/)
-- [Change Package Name on Google Play](https://www.reddit.com/r/androiddev/comments/1eqhbth/change_package_name_on_google_play/)
-- [Wanted: Android Developer to Fight Censorship](https://www.reddit.com/r/androiddev/comments/1eqdexm/wanted_android_developer_to_fight_censorship/)
-- [Android TV App - Long press back button listener for view](https://www.reddit.com/r/androiddev/comments/1eqczhn/android_tv_app_long_press_back_button_listener/)
-- [Unresolved reference: ksp &lpar;KSP is not working&rpar;](https://www.reddit.com/r/androiddev/comments/1eqbc8g/unresolved_reference_ksp_ksp_is_not_working/)
+- [Is there any ui test lib which has methods to test if the layout is in center gravity etc directly?](https://www.reddit.com/r/androiddev/comments/1ericaw/is_there_any_ui_test_lib_which_has_methods_to/)
+- [Genymotion](https://www.reddit.com/r/androiddev/comments/1erg6ie/genymotion/)
+- [Android Studio Ladybug | 2024.2.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1erekpr/android_studio_ladybug_202421_canary_6_now/)
+- [Use fixed height &amp; width for box](https://www.reddit.com/r/androiddev/comments/1era215/use_fixed_height_width_for_box/)
+- [How can I test the Galaxy Z Flip 6 on Android Studio](https://www.reddit.com/r/androiddev/comments/1er8rac/how_can_i_test_the_galaxy_z_flip_6_on_android/)
+- [Gemini API In Android](https://www.reddit.com/r/androiddev/comments/1er7q85/gemini_api_in_android/)
+- [Bluetooth scans suspended](https://www.reddit.com/r/androiddev/comments/1er7oh5/bluetooth_scans_suspended/)
+- [Do people abuse the refund policy?](https://www.reddit.com/r/androiddev/comments/1er6vrv/do_people_abuse_the_refund_policy/)
+- [Google Play Console question](https://www.reddit.com/r/androiddev/comments/1er5t56/google_play_console_question/)
+- [Your app currently uses Play Billing Library version AIDL and must update to at least version 5.2.1 to make use of the latest monetization features on Google Play.](https://www.reddit.com/r/androiddev/comments/1er567y/your_app_currently_uses_play_billing_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
