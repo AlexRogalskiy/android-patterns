@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there any ui test lib which has methods to test if the layout is in center gravity etc directly?](https://www.reddit.com/r/androiddev/comments/1ericaw/is_there_any_ui_test_lib_which_has_methods_to/)
-- [Genymotion](https://www.reddit.com/r/androiddev/comments/1erg6ie/genymotion/)
-- [Android Studio Ladybug | 2024.2.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1erekpr/android_studio_ladybug_202421_canary_6_now/)
-- [Use fixed height &amp; width for box](https://www.reddit.com/r/androiddev/comments/1era215/use_fixed_height_width_for_box/)
-- [How can I test the Galaxy Z Flip 6 on Android Studio](https://www.reddit.com/r/androiddev/comments/1er8rac/how_can_i_test_the_galaxy_z_flip_6_on_android/)
-- [Gemini API In Android](https://www.reddit.com/r/androiddev/comments/1er7q85/gemini_api_in_android/)
-- [Bluetooth scans suspended](https://www.reddit.com/r/androiddev/comments/1er7oh5/bluetooth_scans_suspended/)
-- [Do people abuse the refund policy?](https://www.reddit.com/r/androiddev/comments/1er6vrv/do_people_abuse_the_refund_policy/)
-- [Google Play Console question](https://www.reddit.com/r/androiddev/comments/1er5t56/google_play_console_question/)
-- [Your app currently uses Play Billing Library version AIDL and must update to at least version 5.2.1 to make use of the latest monetization features on Google Play.](https://www.reddit.com/r/androiddev/comments/1er567y/your_app_currently_uses_play_billing_library/)
+- [Urgent: Unexpected delay in app update review - Need advice](https://www.reddit.com/r/androiddev/comments/1esg5vy/urgent_unexpected_delay_in_app_update_review_need/)
+- [API level 34 or higher required at end of month - What about all the Android 10 and 11 TV&#39;s??](https://www.reddit.com/r/androiddev/comments/1esfiij/api_level_34_or_higher_required_at_end_of_month/)
+- [Singular: yet another reactive tool.](https://www.reddit.com/r/androiddev/comments/1esf76z/singular_yet_another_reactive_tool/)
+- [[Kernel] Disable the proximity sensor or alter it in the kernel level](https://www.reddit.com/r/androiddev/comments/1esbyby/kernel_disable_the_proximity_sensor_or_alter_it/)
+- [What are the alternatives to App Center Distribution for Android devices without Google accounts?](https://www.reddit.com/r/androiddev/comments/1es57i5/what_are_the_alternatives_to_app_center/)
+- [How long will it take for Google Play to update my total installs?](https://www.reddit.com/r/androiddev/comments/1es2zes/how_long_will_it_take_for_google_play_to_update/)
+- [Enabling/Disabling device frame in the Emulator can cause a black bar at the top of the app.](https://www.reddit.com/r/androiddev/comments/1es1ev1/enablingdisabling_device_frame_in_the_emulator/)
+- [Not getting good resources](https://www.reddit.com/r/androiddev/comments/1es0fta/not_getting_good_resources/)
+- [Verification: Mismatch between developer account and payment profile](https://www.reddit.com/r/androiddev/comments/1erz5zr/verification_mismatch_between_developer_account/)
+- [How did you get Play Console without DUNS number](https://www.reddit.com/r/androiddev/comments/1erydew/how_did_you_get_play_console_without_duns_number/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
