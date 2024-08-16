@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Urgent: Unexpected delay in app update review - Need advice](https://www.reddit.com/r/androiddev/comments/1esg5vy/urgent_unexpected_delay_in_app_update_review_need/)
-- [API level 34 or higher required at end of month - What about all the Android 10 and 11 TV&#39;s??](https://www.reddit.com/r/androiddev/comments/1esfiij/api_level_34_or_higher_required_at_end_of_month/)
-- [Singular: yet another reactive tool.](https://www.reddit.com/r/androiddev/comments/1esf76z/singular_yet_another_reactive_tool/)
-- [[Kernel] Disable the proximity sensor or alter it in the kernel level](https://www.reddit.com/r/androiddev/comments/1esbyby/kernel_disable_the_proximity_sensor_or_alter_it/)
-- [What are the alternatives to App Center Distribution for Android devices without Google accounts?](https://www.reddit.com/r/androiddev/comments/1es57i5/what_are_the_alternatives_to_app_center/)
-- [How long will it take for Google Play to update my total installs?](https://www.reddit.com/r/androiddev/comments/1es2zes/how_long_will_it_take_for_google_play_to_update/)
-- [Enabling/Disabling device frame in the Emulator can cause a black bar at the top of the app.](https://www.reddit.com/r/androiddev/comments/1es1ev1/enablingdisabling_device_frame_in_the_emulator/)
-- [Not getting good resources](https://www.reddit.com/r/androiddev/comments/1es0fta/not_getting_good_resources/)
-- [Verification: Mismatch between developer account and payment profile](https://www.reddit.com/r/androiddev/comments/1erz5zr/verification_mismatch_between_developer_account/)
-- [How did you get Play Console without DUNS number](https://www.reddit.com/r/androiddev/comments/1erydew/how_did_you_get_play_console_without_duns_number/)
+- [Data Transfer Between Fragment and BottomSheetDialogFragment Using Dagger and Navigation Component](https://www.reddit.com/r/androiddev/comments/1eta5vb/data_transfer_between_fragment_and/)
+- [Android Studio Ladybug | 2024.2.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1et95hc/android_studio_ladybug_202421_canary_7_now/)
+- [Data Structures : That Power Your Database Part - 1](https://www.reddit.com/r/androiddev/comments/1et6duu/data_structures_that_power_your_database_part_1/)
+- [Faster Gradle builds and Android Studio syncs by unloading modules, making Android Studio much more responsive.](https://www.reddit.com/r/androiddev/comments/1et4g58/faster_gradle_builds_and_android_studio_syncs_by/)
+- [Judge tells Google to brace for shakeup of Android app store as punishment for running a monopoly](https://www.reddit.com/r/androiddev/comments/1et3oyp/judge_tells_google_to_brace_for_shakeup_of/)
+- [Hacking Android on runtime using Frida tool](https://www.reddit.com/r/androiddev/comments/1et2jcm/hacking_android_on_runtime_using_frida_tool/)
+- [Composition over Inheritance in Kotlin](https://www.reddit.com/r/androiddev/comments/1esy1qr/composition_over_inheritance_in_kotlin/)
+- [Would you use this pagination library?](https://www.reddit.com/r/androiddev/comments/1esuf66/would_you_use_this_pagination_library/)
+- [Experienced devs, what was your experience with ADT and Ant?](https://www.reddit.com/r/androiddev/comments/1esqrwg/experienced_devs_what_was_your_experience_with/)
+- [How to use asymmetric encryption with Android Keystore?](https://www.reddit.com/r/androiddev/comments/1espqcd/how_to_use_asymmetric_encryption_with_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
