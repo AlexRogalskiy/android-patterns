@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Data Transfer Between Fragment and BottomSheetDialogFragment Using Dagger and Navigation Component](https://www.reddit.com/r/androiddev/comments/1eta5vb/data_transfer_between_fragment_and/)
-- [Android Studio Ladybug | 2024.2.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1et95hc/android_studio_ladybug_202421_canary_7_now/)
-- [Data Structures : That Power Your Database Part - 1](https://www.reddit.com/r/androiddev/comments/1et6duu/data_structures_that_power_your_database_part_1/)
-- [Faster Gradle builds and Android Studio syncs by unloading modules, making Android Studio much more responsive.](https://www.reddit.com/r/androiddev/comments/1et4g58/faster_gradle_builds_and_android_studio_syncs_by/)
-- [Judge tells Google to brace for shakeup of Android app store as punishment for running a monopoly](https://www.reddit.com/r/androiddev/comments/1et3oyp/judge_tells_google_to_brace_for_shakeup_of/)
-- [Hacking Android on runtime using Frida tool](https://www.reddit.com/r/androiddev/comments/1et2jcm/hacking_android_on_runtime_using_frida_tool/)
-- [Composition over Inheritance in Kotlin](https://www.reddit.com/r/androiddev/comments/1esy1qr/composition_over_inheritance_in_kotlin/)
-- [Would you use this pagination library?](https://www.reddit.com/r/androiddev/comments/1esuf66/would_you_use_this_pagination_library/)
-- [Experienced devs, what was your experience with ADT and Ant?](https://www.reddit.com/r/androiddev/comments/1esqrwg/experienced_devs_what_was_your_experience_with/)
-- [How to use asymmetric encryption with Android Keystore?](https://www.reddit.com/r/androiddev/comments/1espqcd/how_to_use_asymmetric_encryption_with_android/)
+- [What and How to learn Android Development?](https://www.reddit.com/r/androiddev/comments/1eu16v7/what_and_how_to_learn_android_development/)
+- [Am I only one who hates their job?](https://www.reddit.com/r/androiddev/comments/1etxibe/am_i_only_one_who_hates_their_job/)
+- [Message notifications with Cloud Functions](https://www.reddit.com/r/androiddev/comments/1etwprn/message_notifications_with_cloud_functions/)
+- [I am trying to apply clean arch](https://www.reddit.com/r/androiddev/comments/1etwmna/i_am_trying_to_apply_clean_arch/)
+- [Where to list open source licenses?](https://www.reddit.com/r/androiddev/comments/1etw3fj/where_to_list_open_source_licenses/)
+- [Pet Project Ideas for Android Devs](https://www.reddit.com/r/androiddev/comments/1etvcz4/pet_project_ideas_for_android_devs/)
+- [Troubles with google play developer account verification](https://www.reddit.com/r/androiddev/comments/1etut8w/troubles_with_google_play_developer_account/)
+- [Why Did Samsung Take Control of My Banking App? Inside Android’s ‘Clobbering’ Dilemma](https://www.reddit.com/r/androiddev/comments/1ettxsr/why_did_samsung_take_control_of_my_banking_app/)
+- [User Data - Account Deletion Rejection](https://www.reddit.com/r/androiddev/comments/1etrkuh/user_data_account_deletion_rejection/)
+- [Graphine vs lineage vs something else, why and how to contribute](https://www.reddit.com/r/androiddev/comments/1etr74d/graphine_vs_lineage_vs_something_else_why_and_how/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
