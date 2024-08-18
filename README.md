@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What and How to learn Android Development?](https://www.reddit.com/r/androiddev/comments/1eu16v7/what_and_how_to_learn_android_development/)
-- [Am I only one who hates their job?](https://www.reddit.com/r/androiddev/comments/1etxibe/am_i_only_one_who_hates_their_job/)
-- [Message notifications with Cloud Functions](https://www.reddit.com/r/androiddev/comments/1etwprn/message_notifications_with_cloud_functions/)
-- [I am trying to apply clean arch](https://www.reddit.com/r/androiddev/comments/1etwmna/i_am_trying_to_apply_clean_arch/)
-- [Where to list open source licenses?](https://www.reddit.com/r/androiddev/comments/1etw3fj/where_to_list_open_source_licenses/)
-- [Pet Project Ideas for Android Devs](https://www.reddit.com/r/androiddev/comments/1etvcz4/pet_project_ideas_for_android_devs/)
-- [Troubles with google play developer account verification](https://www.reddit.com/r/androiddev/comments/1etut8w/troubles_with_google_play_developer_account/)
-- [Why Did Samsung Take Control of My Banking App? Inside Android’s ‘Clobbering’ Dilemma](https://www.reddit.com/r/androiddev/comments/1ettxsr/why_did_samsung_take_control_of_my_banking_app/)
-- [User Data - Account Deletion Rejection](https://www.reddit.com/r/androiddev/comments/1etrkuh/user_data_account_deletion_rejection/)
-- [Graphine vs lineage vs something else, why and how to contribute](https://www.reddit.com/r/androiddev/comments/1etr74d/graphine_vs_lineage_vs_something_else_why_and_how/)
+- [Taking a technical test on HackerRank](https://www.reddit.com/r/androiddev/comments/1euuf9j/taking_a_technical_test_on_hackerrank/)
+- [Composable in Navigation graph](https://www.reddit.com/r/androiddev/comments/1eurm59/composable_in_navigation_graph/)
+- [DevsUnite: The App for the developers by the developers](https://www.reddit.com/r/androiddev/comments/1eunvwj/devsunite_the_app_for_the_developers_by_the/)
+- [Improve Kotlin Code Review Part -1](https://www.reddit.com/r/androiddev/comments/1eumt99/improve_kotlin_code_review_part_1/)
+- [how do i get my closed beta ratings to be public ?](https://www.reddit.com/r/androiddev/comments/1eumooi/how_do_i_get_my_closed_beta_ratings_to_be_public/)
+- [Share Android system images and emulators folders across Windows and Linux &lpar;dual boot&rpar;](https://www.reddit.com/r/androiddev/comments/1eum74l/share_android_system_images_and_emulators_folders/)
+- [watch face pictures on the google store and r/GalaxyWatchFace](https://www.reddit.com/r/androiddev/comments/1eulokg/watch_face_pictures_on_the_google_store_and/)
+- [Should this transaction incident with Google Playstore be of any concern?](https://www.reddit.com/r/androiddev/comments/1eulkzh/should_this_transaction_incident_with_google/)
+- [Should a simple TextField store its own state?](https://www.reddit.com/r/androiddev/comments/1eukqs5/should_a_simple_textfield_store_its_own_state/)
+- [Is JetPack Compose really better than XML?](https://www.reddit.com/r/androiddev/comments/1euhlpz/is_jetpack_compose_really_better_than_xml/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
