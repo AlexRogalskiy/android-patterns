@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Taking a technical test on HackerRank](https://www.reddit.com/r/androiddev/comments/1euuf9j/taking_a_technical_test_on_hackerrank/)
+- [Windows 11 Windows Hypervisor Platform &lpar;WHPX&rpar; Validate is running?](https://www.reddit.com/r/androiddev/comments/1evh125/windows_11_windows_hypervisor_platform_whpx/)
+- [Segment-Anything Inference in Android with ONNX](https://www.reddit.com/r/androiddev/comments/1evcd5b/segmentanything_inference_in_android_with_onnx/)
+- [How do you guys handle long-running CoroutineScope&lpar;s&rpar;?](https://www.reddit.com/r/androiddev/comments/1ev8nu0/how_do_you_guys_handle_longrunning_coroutinescopes/)
+- [Creating side project which requires saving data remotely. What should I use?](https://www.reddit.com/r/androiddev/comments/1ev8heu/creating_side_project_which_requires_saving_data/)
+- [[Question] Silent Auth to Backend with Google Credential manager / Google identity service](https://www.reddit.com/r/androiddev/comments/1ev28lq/question_silent_auth_to_backend_with_google/)
 - [Composable in Navigation graph](https://www.reddit.com/r/androiddev/comments/1eurm59/composable_in_navigation_graph/)
 - [DevsUnite: The App for the developers by the developers](https://www.reddit.com/r/androiddev/comments/1eunvwj/devsunite_the_app_for_the_developers_by_the/)
 - [Improve Kotlin Code Review Part -1](https://www.reddit.com/r/androiddev/comments/1eumt99/improve_kotlin_code_review_part_1/)
 - [how do i get my closed beta ratings to be public ?](https://www.reddit.com/r/androiddev/comments/1eumooi/how_do_i_get_my_closed_beta_ratings_to_be_public/)
 - [Share Android system images and emulators folders across Windows and Linux &lpar;dual boot&rpar;](https://www.reddit.com/r/androiddev/comments/1eum74l/share_android_system_images_and_emulators_folders/)
-- [watch face pictures on the google store and r/GalaxyWatchFace](https://www.reddit.com/r/androiddev/comments/1eulokg/watch_face_pictures_on_the_google_store_and/)
-- [Should this transaction incident with Google Playstore be of any concern?](https://www.reddit.com/r/androiddev/comments/1eulkzh/should_this_transaction_incident_with_google/)
-- [Should a simple TextField store its own state?](https://www.reddit.com/r/androiddev/comments/1eukqs5/should_a_simple_textfield_store_its_own_state/)
-- [Is JetPack Compose really better than XML?](https://www.reddit.com/r/androiddev/comments/1euhlpz/is_jetpack_compose_really_better_than_xml/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
