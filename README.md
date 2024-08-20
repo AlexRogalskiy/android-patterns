@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Windows 11 Windows Hypervisor Platform &lpar;WHPX&rpar; Validate is running?](https://www.reddit.com/r/androiddev/comments/1evh125/windows_11_windows_hypervisor_platform_whpx/)
-- [Segment-Anything Inference in Android with ONNX](https://www.reddit.com/r/androiddev/comments/1evcd5b/segmentanything_inference_in_android_with_onnx/)
-- [How do you guys handle long-running CoroutineScope&lpar;s&rpar;?](https://www.reddit.com/r/androiddev/comments/1ev8nu0/how_do_you_guys_handle_longrunning_coroutinescopes/)
-- [Creating side project which requires saving data remotely. What should I use?](https://www.reddit.com/r/androiddev/comments/1ev8heu/creating_side_project_which_requires_saving_data/)
-- [[Question] Silent Auth to Backend with Google Credential manager / Google identity service](https://www.reddit.com/r/androiddev/comments/1ev28lq/question_silent_auth_to_backend_with_google/)
-- [Composable in Navigation graph](https://www.reddit.com/r/androiddev/comments/1eurm59/composable_in_navigation_graph/)
-- [DevsUnite: The App for the developers by the developers](https://www.reddit.com/r/androiddev/comments/1eunvwj/devsunite_the_app_for_the_developers_by_the/)
-- [Improve Kotlin Code Review Part -1](https://www.reddit.com/r/androiddev/comments/1eumt99/improve_kotlin_code_review_part_1/)
-- [how do i get my closed beta ratings to be public ?](https://www.reddit.com/r/androiddev/comments/1eumooi/how_do_i_get_my_closed_beta_ratings_to_be_public/)
-- [Share Android system images and emulators folders across Windows and Linux &lpar;dual boot&rpar;](https://www.reddit.com/r/androiddev/comments/1eum74l/share_android_system_images_and_emulators_folders/)
+- [How to Retrieve Full Device Information &lpar;Serial Number, IMEI, etc.&rpar; from Knox Manage](https://www.reddit.com/r/androiddev/comments/1ewjbhb/how_to_retrieve_full_device_information_serial/)
+- [I made Bulifier - The new Android AI Open Source IDE, that challenge the way we code](https://www.reddit.com/r/androiddev/comments/1ewdpzg/i_made_bulifier_the_new_android_ai_open_source/)
+- [Do I really have to make a dev an &quot;admin&quot; &lpar;in google play console and App Connect&rpar; in order for them to be able to work on in-app purchases?](https://www.reddit.com/r/androiddev/comments/1ewcq8x/do_i_really_have_to_make_a_dev_an_admin_in_google/)
+- [I made a site with a collection of over 7,000+ Jetpack Compose icons to add to your project with a copy-paste](https://www.reddit.com/r/androiddev/comments/1ew63qc/i_made_a_site_with_a_collection_of_over_7000/)
+- [WebAdb not working](https://www.reddit.com/r/androiddev/comments/1ew5kla/webadb_not_working/)
+- [Using skydoves/balloons-compose library produces freezes and lags in my application](https://www.reddit.com/r/androiddev/comments/1ew3b9a/using_skydovesballoonscompose_library_produces/)
+- [Securely store API Keys](https://www.reddit.com/r/androiddev/comments/1ew1fng/securely_store_api_keys/)
+- [When I start a trip in the CityMapper app, a widget is placed in the top status bar, and it keeps running even if I close the app. What is this called?](https://www.reddit.com/r/androiddev/comments/1ew19rj/when_i_start_a_trip_in_the_citymapper_app_a/)
+- [Application Of Singleton and Delegated Properties](https://www.reddit.com/r/androiddev/comments/1ew0rx0/application_of_singleton_and_delegated_properties/)
+- [Designing Effective Compose UIs For Enhancing Previews](https://www.reddit.com/r/androiddev/comments/1ew0pds/designing_effective_compose_uis_for_enhancing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
