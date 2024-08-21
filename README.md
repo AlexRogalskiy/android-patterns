@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to Retrieve Full Device Information &lpar;Serial Number, IMEI, etc.&rpar; from Knox Manage](https://www.reddit.com/r/androiddev/comments/1ewjbhb/how_to_retrieve_full_device_information_serial/)
-- [I made Bulifier - The new Android AI Open Source IDE, that challenge the way we code](https://www.reddit.com/r/androiddev/comments/1ewdpzg/i_made_bulifier_the_new_android_ai_open_source/)
-- [Do I really have to make a dev an &quot;admin&quot; &lpar;in google play console and App Connect&rpar; in order for them to be able to work on in-app purchases?](https://www.reddit.com/r/androiddev/comments/1ewcq8x/do_i_really_have_to_make_a_dev_an_admin_in_google/)
-- [I made a site with a collection of over 7,000+ Jetpack Compose icons to add to your project with a copy-paste](https://www.reddit.com/r/androiddev/comments/1ew63qc/i_made_a_site_with_a_collection_of_over_7000/)
-- [WebAdb not working](https://www.reddit.com/r/androiddev/comments/1ew5kla/webadb_not_working/)
-- [Using skydoves/balloons-compose library produces freezes and lags in my application](https://www.reddit.com/r/androiddev/comments/1ew3b9a/using_skydovesballoonscompose_library_produces/)
-- [Securely store API Keys](https://www.reddit.com/r/androiddev/comments/1ew1fng/securely_store_api_keys/)
-- [When I start a trip in the CityMapper app, a widget is placed in the top status bar, and it keeps running even if I close the app. What is this called?](https://www.reddit.com/r/androiddev/comments/1ew19rj/when_i_start_a_trip_in_the_citymapper_app_a/)
-- [Application Of Singleton and Delegated Properties](https://www.reddit.com/r/androiddev/comments/1ew0rx0/application_of_singleton_and_delegated_properties/)
-- [Designing Effective Compose UIs For Enhancing Previews](https://www.reddit.com/r/androiddev/comments/1ew0pds/designing_effective_compose_uis_for_enhancing/)
+- [Anyone been able to verify a corporate number on Google Play?](https://www.reddit.com/r/androiddev/comments/1excprw/anyone_been_able_to_verify_a_corporate_number_on/)
+- [Received a Copyright Infringement Email for Using a Generic Word—Anyone Else?](https://www.reddit.com/r/androiddev/comments/1ex5q31/received_a_copyright_infringement_email_for_using/)
+- [How does a sole trader verify their account on google play?](https://www.reddit.com/r/androiddev/comments/1ex3lcg/how_does_a_sole_trader_verify_their_account_on/)
+- [What&#39;s your take on integrating Ads in modern app design?](https://www.reddit.com/r/androiddev/comments/1ex1gmn/whats_your_take_on_integrating_ads_in_modern_app/)
+- [LiveShopping Android - A demo app showcasing real-time livestreaming and messaging capabilities built with Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/1ewv7k3/liveshopping_android_a_demo_app_showcasing/)
+- [How do you take into account different languages on your app?](https://www.reddit.com/r/androiddev/comments/1ewuchn/how_do_you_take_into_account_different_languages/)
+- [Issues with Bluetooth Data Transfer](https://www.reddit.com/r/androiddev/comments/1ewrf3q/issues_with_bluetooth_data_transfer/)
+- [Jetpack Compose Canvas - drawForPersistence invoked on a null object reference](https://www.reddit.com/r/androiddev/comments/1ewqrsj/jetpack_compose_canvas_drawforpersistence_invoked/)
+- [How to crack Android interviews as a fresher?](https://www.reddit.com/r/androiddev/comments/1ewm0di/how_to_crack_android_interviews_as_a_fresher/)
+- [Any way to force an app update in the process, outside of the play store, like React Native?](https://www.reddit.com/r/androiddev/comments/1ewdbl3/any_way_to_force_an_app_update_in_the_process/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
