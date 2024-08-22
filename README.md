@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone been able to verify a corporate number on Google Play?](https://www.reddit.com/r/androiddev/comments/1excprw/anyone_been_able_to_verify_a_corporate_number_on/)
-- [Received a Copyright Infringement Email for Using a Generic Word—Anyone Else?](https://www.reddit.com/r/androiddev/comments/1ex5q31/received_a_copyright_infringement_email_for_using/)
-- [How does a sole trader verify their account on google play?](https://www.reddit.com/r/androiddev/comments/1ex3lcg/how_does_a_sole_trader_verify_their_account_on/)
-- [What&#39;s your take on integrating Ads in modern app design?](https://www.reddit.com/r/androiddev/comments/1ex1gmn/whats_your_take_on_integrating_ads_in_modern_app/)
-- [LiveShopping Android - A demo app showcasing real-time livestreaming and messaging capabilities built with Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/1ewv7k3/liveshopping_android_a_demo_app_showcasing/)
-- [How do you take into account different languages on your app?](https://www.reddit.com/r/androiddev/comments/1ewuchn/how_do_you_take_into_account_different_languages/)
-- [Issues with Bluetooth Data Transfer](https://www.reddit.com/r/androiddev/comments/1ewrf3q/issues_with_bluetooth_data_transfer/)
-- [Jetpack Compose Canvas - drawForPersistence invoked on a null object reference](https://www.reddit.com/r/androiddev/comments/1ewqrsj/jetpack_compose_canvas_drawforpersistence_invoked/)
-- [How to crack Android interviews as a fresher?](https://www.reddit.com/r/androiddev/comments/1ewm0di/how_to_crack_android_interviews_as_a_fresher/)
-- [Any way to force an app update in the process, outside of the play store, like React Native?](https://www.reddit.com/r/androiddev/comments/1ewdbl3/any_way_to_force_an_app_update_in_the_process/)
+- [What is wrong with this Full Screen Intent notification? API 35](https://www.reddit.com/r/androiddev/comments/1ey5dav/what_is_wrong_with_this_full_screen_intent/)
+- [Flutter or native first?](https://www.reddit.com/r/androiddev/comments/1ey11xe/flutter_or_native_first/)
+- [What developers do with invoices and payments from Google in EU &lpar;Greece even better&rpar; ?](https://www.reddit.com/r/androiddev/comments/1exx0kc/what_developers_do_with_invoices_and_payments/)
+- [When to pick Android KeyStore or Keychain?](https://www.reddit.com/r/androiddev/comments/1exuccn/when_to_pick_android_keystore_or_keychain/)
+- [Applying the Decorator Pattern in Kotlin](https://www.reddit.com/r/androiddev/comments/1exrv01/applying_the_decorator_pattern_in_kotlin/)
+- [Single Activity vs Multiple Activity](https://www.reddit.com/r/androiddev/comments/1expahv/single_activity_vs_multiple_activity/)
+- [AsyncImage - duplicate or no disk cache](https://www.reddit.com/r/androiddev/comments/1exp83k/asyncimage_duplicate_or_no_disk_cache/)
+- [Is there any way to get to this page in the settings programmatically?](https://www.reddit.com/r/androiddev/comments/1exm068/is_there_any_way_to_get_to_this_page_in_the/)
+- [Handle permissions in Compose Multiplatform projects using Calf](https://www.reddit.com/r/androiddev/comments/1exlqyv/handle_permissions_in_compose_multiplatform/)
+- [Can I use almost same code base for multiple apps?](https://www.reddit.com/r/androiddev/comments/1exe5ri/can_i_use_almost_same_code_base_for_multiple_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
