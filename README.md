@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is wrong with this Full Screen Intent notification? API 35](https://www.reddit.com/r/androiddev/comments/1ey5dav/what_is_wrong_with_this_full_screen_intent/)
-- [Flutter or native first?](https://www.reddit.com/r/androiddev/comments/1ey11xe/flutter_or_native_first/)
-- [What developers do with invoices and payments from Google in EU &lpar;Greece even better&rpar; ?](https://www.reddit.com/r/androiddev/comments/1exx0kc/what_developers_do_with_invoices_and_payments/)
-- [When to pick Android KeyStore or Keychain?](https://www.reddit.com/r/androiddev/comments/1exuccn/when_to_pick_android_keystore_or_keychain/)
-- [Applying the Decorator Pattern in Kotlin](https://www.reddit.com/r/androiddev/comments/1exrv01/applying_the_decorator_pattern_in_kotlin/)
-- [Single Activity vs Multiple Activity](https://www.reddit.com/r/androiddev/comments/1expahv/single_activity_vs_multiple_activity/)
-- [AsyncImage - duplicate or no disk cache](https://www.reddit.com/r/androiddev/comments/1exp83k/asyncimage_duplicate_or_no_disk_cache/)
-- [Is there any way to get to this page in the settings programmatically?](https://www.reddit.com/r/androiddev/comments/1exm068/is_there_any_way_to_get_to_this_page_in_the/)
-- [Handle permissions in Compose Multiplatform projects using Calf](https://www.reddit.com/r/androiddev/comments/1exlqyv/handle_permissions_in_compose_multiplatform/)
-- [Can I use almost same code base for multiple apps?](https://www.reddit.com/r/androiddev/comments/1exe5ri/can_i_use_almost_same_code_base_for_multiple_apps/)
+- [Trouble with Google Play app rejection due to policy issues.](https://www.reddit.com/r/androiddev/comments/1ez0rnv/trouble_with_google_play_app_rejection_due_to/)
+- [List of Google Material Symbols](https://www.reddit.com/r/androiddev/comments/1eyvdcc/list_of_google_material_symbols/)
+- [Need to get Google app store data for a market research before launch, any ideas?](https://www.reddit.com/r/androiddev/comments/1eylxmq/need_to_get_google_app_store_data_for_a_market/)
+- [How to open an activity for selecting multiple media files WITH support for other apps?](https://www.reddit.com/r/androiddev/comments/1eylubr/how_to_open_an_activity_for_selecting_multiple/)
+- [How to expand the UI content behind the status bar when using XMl to create UI](https://www.reddit.com/r/androiddev/comments/1eyk7ei/how_to_expand_the_ui_content_behind_the_status/)
+- [Where does android stores my c++ shared libraries &lpar;.so&rpar; after installing my apk?](https://www.reddit.com/r/androiddev/comments/1eyk615/where_does_android_stores_my_c_shared_libraries/)
+- [Improve Kotlin Code Review — Part II](https://www.reddit.com/r/androiddev/comments/1eyf4co/improve_kotlin_code_review_part_ii/)
+- [Android Context and SOLID principles](https://www.reddit.com/r/androiddev/comments/1eyez38/android_context_and_solid_principles/)
+- [How to manage Daily Reset Time](https://www.reddit.com/r/androiddev/comments/1eyect4/how_to_manage_daily_reset_time/)
+- [I need help in Android studio java, xml &lpar;groovy&rpar;](https://www.reddit.com/r/androiddev/comments/1eybhak/i_need_help_in_android_studio_java_xml_groovy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
