@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trouble with Google Play app rejection due to policy issues.](https://www.reddit.com/r/androiddev/comments/1ez0rnv/trouble_with_google_play_app_rejection_due_to/)
-- [List of Google Material Symbols](https://www.reddit.com/r/androiddev/comments/1eyvdcc/list_of_google_material_symbols/)
-- [Need to get Google app store data for a market research before launch, any ideas?](https://www.reddit.com/r/androiddev/comments/1eylxmq/need_to_get_google_app_store_data_for_a_market/)
-- [How to open an activity for selecting multiple media files WITH support for other apps?](https://www.reddit.com/r/androiddev/comments/1eylubr/how_to_open_an_activity_for_selecting_multiple/)
-- [How to expand the UI content behind the status bar when using XMl to create UI](https://www.reddit.com/r/androiddev/comments/1eyk7ei/how_to_expand_the_ui_content_behind_the_status/)
-- [Where does android stores my c++ shared libraries &lpar;.so&rpar; after installing my apk?](https://www.reddit.com/r/androiddev/comments/1eyk615/where_does_android_stores_my_c_shared_libraries/)
-- [Improve Kotlin Code Review — Part II](https://www.reddit.com/r/androiddev/comments/1eyf4co/improve_kotlin_code_review_part_ii/)
-- [Android Context and SOLID principles](https://www.reddit.com/r/androiddev/comments/1eyez38/android_context_and_solid_principles/)
-- [How to manage Daily Reset Time](https://www.reddit.com/r/androiddev/comments/1eyect4/how_to_manage_daily_reset_time/)
-- [I need help in Android studio java, xml &lpar;groovy&rpar;](https://www.reddit.com/r/androiddev/comments/1eybhak/i_need_help_in_android_studio_java_xml_groovy/)
+- [Anyone Experience a Sudden Drop in Active Users &amp; Active Devices on Play Console Statistics?](https://www.reddit.com/r/androiddev/comments/1ezpihq/anyone_experience_a_sudden_drop_in_active_users/)
+- [Play store auto updates my app on incompatible devices](https://www.reddit.com/r/androiddev/comments/1ezol8o/play_store_auto_updates_my_app_on_incompatible/)
+- [Any of you been able to get the new Recording API that&#39;s replacing Google Fit to work?](https://www.reddit.com/r/androiddev/comments/1ezoji2/any_of_you_been_able_to_get_the_new_recording_api/)
+- [🎉 Ksoup 0.1.5 Released: Improved Performance and New Variants! 🚀](https://www.reddit.com/r/androiddev/comments/1ezocxh/ksoup_015_released_improved_performance_and_new/)
+- [Transfer app from one Dev account to another or Delete app and load to new developer account](https://www.reddit.com/r/androiddev/comments/1ezndgi/transfer_app_from_one_dev_account_to_another_or/)
+- [How to download and save an image in local storage ?](https://www.reddit.com/r/androiddev/comments/1ezk1rf/how_to_download_and_save_an_image_in_local_storage/)
+- [Android Developers Blog: Adding 16 KB Page Size to Android](https://www.reddit.com/r/androiddev/comments/1ezh4iv/android_developers_blog_adding_16_kb_page_size_to/)
+- [Is there an advantage of running Android Studio on WSL?](https://www.reddit.com/r/androiddev/comments/1eze1ns/is_there_an_advantage_of_running_android_studio/)
+- [Survery for Master Thesis : Need your 5 minutes](https://www.reddit.com/r/androiddev/comments/1ezdy4m/survery_for_master_thesis_need_your_5_minutes/)
+- [How do you do fixes / build things to work in every manufacture mobile?](https://www.reddit.com/r/androiddev/comments/1ezd3mt/how_do_you_do_fixes_build_things_to_work_in_every/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
