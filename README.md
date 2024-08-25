@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CompilationMode.BaselineProfile slower than CompilationMode.None. Why?](https://www.reddit.com/r/androiddev/comments/1f0hm96/compilationmodebaselineprofile_slower_than/)
+- [How do you use the command line to start an emulator on linux?](https://www.reddit.com/r/androiddev/comments/1f0do32/how_do_you_use_the_command_line_to_start_an/)
+- [Location permission disappeared and no idea why](https://www.reddit.com/r/androiddev/comments/1f0bwox/location_permission_disappeared_and_no_idea_why/)
+- [What Feedback &amp; Feature Request Tools Are You Using?](https://www.reddit.com/r/androiddev/comments/1f05hnp/what_feedback_feature_request_tools_are_you_using/)
+- [Animate Keyboard in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1f02fok/animate_keyboard_in_jetpack_compose/)
+- [Purpose of testing, and couple of questions](https://www.reddit.com/r/androiddev/comments/1f01kjb/purpose_of_testing_and_couple_of_questions/)
+- [Where does CardView&#39;s cardCornerRadius come from?](https://www.reddit.com/r/androiddev/comments/1f003hk/where_does_cardviews_cardcornerradius_come_from/)
+- [Is Cross-Platform Development Going to Replace Native Android Development?](https://www.reddit.com/r/androiddev/comments/1ezupy4/is_crossplatform_development_going_to_replace/)
 - [Anyone Experience a Sudden Drop in Active Users &amp; Active Devices on Play Console Statistics?](https://www.reddit.com/r/androiddev/comments/1ezpihq/anyone_experience_a_sudden_drop_in_active_users/)
 - [Play store auto updates my app on incompatible devices](https://www.reddit.com/r/androiddev/comments/1ezol8o/play_store_auto_updates_my_app_on_incompatible/)
-- [Any of you been able to get the new Recording API that&#39;s replacing Google Fit to work?](https://www.reddit.com/r/androiddev/comments/1ezoji2/any_of_you_been_able_to_get_the_new_recording_api/)
-- [🎉 Ksoup 0.1.5 Released: Improved Performance and New Variants! 🚀](https://www.reddit.com/r/androiddev/comments/1ezocxh/ksoup_015_released_improved_performance_and_new/)
-- [Transfer app from one Dev account to another or Delete app and load to new developer account](https://www.reddit.com/r/androiddev/comments/1ezndgi/transfer_app_from_one_dev_account_to_another_or/)
-- [How to download and save an image in local storage ?](https://www.reddit.com/r/androiddev/comments/1ezk1rf/how_to_download_and_save_an_image_in_local_storage/)
-- [Android Developers Blog: Adding 16 KB Page Size to Android](https://www.reddit.com/r/androiddev/comments/1ezh4iv/android_developers_blog_adding_16_kb_page_size_to/)
-- [Is there an advantage of running Android Studio on WSL?](https://www.reddit.com/r/androiddev/comments/1eze1ns/is_there_an_advantage_of_running_android_studio/)
-- [Survery for Master Thesis : Need your 5 minutes](https://www.reddit.com/r/androiddev/comments/1ezdy4m/survery_for_master_thesis_need_your_5_minutes/)
-- [How do you do fixes / build things to work in every manufacture mobile?](https://www.reddit.com/r/androiddev/comments/1ezd3mt/how_do_you_do_fixes_build_things_to_work_in_every/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
