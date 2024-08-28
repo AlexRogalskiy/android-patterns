@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Multi-platform Multi-module Normalized SQLlite Relational DB design for mobile platforms ?](https://www.reddit.com/r/androiddev/comments/1f24max/multiplatform_multimodule_normalized_sqllite/)
-- [Jetpack Compose Chat UI Components?](https://www.reddit.com/r/androiddev/comments/1f21zc9/jetpack_compose_chat_ui_components/)
-- [Learning Android App Development, changing lock screen wallpaper on tap](https://www.reddit.com/r/androiddev/comments/1f1q00h/learning_android_app_development_changing_lock/)
-- [So is Amazon&#39;s Android appstore dead or what ?](https://www.reddit.com/r/androiddev/comments/1f1kv0x/so_is_amazons_android_appstore_dead_or_what/)
-- [Change Minimum Height of TextField](https://www.reddit.com/r/androiddev/comments/1f1cmlf/change_minimum_height_of_textfield/)
-- [Can someone explain to me what Markdown Editor is for and how to use it?](https://www.reddit.com/r/androiddev/comments/1f12rwf/can_someone_explain_to_me_what_markdown_editor_is/)
-- [crashes on the Google Play Developer console](https://www.reddit.com/r/androiddev/comments/1f0zoo9/crashes_on_the_google_play_developer_console/)
-- [How to handle 3rd party APK uploads/rips of your apps](https://www.reddit.com/r/androiddev/comments/1f0xjer/how_to_handle_3rd_party_apk_uploadsrips_of_your/)
-- [How to verify a non-home address in personal accounts](https://www.reddit.com/r/androiddev/comments/1f0ss1i/how_to_verify_a_nonhome_address_in_personal/)
-- [Are there libraries or tools with built-in page transition animations?](https://www.reddit.com/r/androiddev/comments/1f0rrbb/are_there_libraries_or_tools_with_builtin_page/)
+- [An effective testing strategy for Android &lpar;Part 2&rpar; – Unit Testing](https://www.reddit.com/r/androiddev/comments/1f2smcd/an_effective_testing_strategy_for_android_part_2/)
+- [iOS and android](https://www.reddit.com/r/androiddev/comments/1f2ng0o/ios_and_android/)
+- [How important is installed base information when devloping an app?](https://www.reddit.com/r/androiddev/comments/1f2lwbq/how_important_is_installed_base_information_when/)
+- [How is localization done?](https://www.reddit.com/r/androiddev/comments/1f2kb1b/how_is_localization_done/)
+- [Approaches for Multi-Module Feature Architecture on Android](https://www.reddit.com/r/androiddev/comments/1f2j21f/approaches_for_multimodule_feature_architecture/)
+- [Editor tabs close randomly or whenever I run the project](https://www.reddit.com/r/androiddev/comments/1f2h5ba/editor_tabs_close_randomly_or_whenever_i_run_the/)
+- [Effort for Samsung Galaxy Store](https://www.reddit.com/r/androiddev/comments/1f2ego4/effort_for_samsung_galaxy_store/)
+- [Is there any alternative to Google&#39;s WebRTC for Android?](https://www.reddit.com/r/androiddev/comments/1f2bxgs/is_there_any_alternative_to_googles_webrtc_for/)
+- [Tried Jetpack Compose for the first time and created iOS clock style stopwatch timer](https://www.reddit.com/r/androiddev/comments/1f2atap/tried_jetpack_compose_for_the_first_time_and/)
+- [Navigation in Bottom Nav Bar is very choppy](https://www.reddit.com/r/androiddev/comments/1f2a3mm/navigation_in_bottom_nav_bar_is_very_choppy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
