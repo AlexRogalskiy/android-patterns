@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [An effective testing strategy for Android &lpar;Part 2&rpar; – Unit Testing](https://www.reddit.com/r/androiddev/comments/1f2smcd/an_effective_testing_strategy_for_android_part_2/)
-- [iOS and android](https://www.reddit.com/r/androiddev/comments/1f2ng0o/ios_and_android/)
-- [How important is installed base information when devloping an app?](https://www.reddit.com/r/androiddev/comments/1f2lwbq/how_important_is_installed_base_information_when/)
-- [How is localization done?](https://www.reddit.com/r/androiddev/comments/1f2kb1b/how_is_localization_done/)
-- [Approaches for Multi-Module Feature Architecture on Android](https://www.reddit.com/r/androiddev/comments/1f2j21f/approaches_for_multimodule_feature_architecture/)
-- [Editor tabs close randomly or whenever I run the project](https://www.reddit.com/r/androiddev/comments/1f2h5ba/editor_tabs_close_randomly_or_whenever_i_run_the/)
-- [Effort for Samsung Galaxy Store](https://www.reddit.com/r/androiddev/comments/1f2ego4/effort_for_samsung_galaxy_store/)
-- [Is there any alternative to Google&#39;s WebRTC for Android?](https://www.reddit.com/r/androiddev/comments/1f2bxgs/is_there_any_alternative_to_googles_webrtc_for/)
-- [Tried Jetpack Compose for the first time and created iOS clock style stopwatch timer](https://www.reddit.com/r/androiddev/comments/1f2atap/tried_jetpack_compose_for_the_first_time_and/)
-- [Navigation in Bottom Nav Bar is very choppy](https://www.reddit.com/r/androiddev/comments/1f2a3mm/navigation_in_bottom_nav_bar_is_very_choppy/)
+- [Why using Channels is considered anti-pattern?](https://www.reddit.com/r/androiddev/comments/1f3k72f/why_using_channels_is_considered_antipattern/)
+- [Precise Recomposition using View model State](https://www.reddit.com/r/androiddev/comments/1f3jj8g/precise_recomposition_using_view_model_state/)
+- [Android Studio Ladybug | 2024.2.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1f3gtx3/android_studio_ladybug_202421_canary_8_now/)
+- [Does API routes need SSL certificate](https://www.reddit.com/r/androiddev/comments/1f3frxe/does_api_routes_need_ssl_certificate/)
+- [Why can&#39;t I see my Google Cloud credentials in the Google Play Console](https://www.reddit.com/r/androiddev/comments/1f3ddnf/why_cant_i_see_my_google_cloud_credentials_in_the/)
+- [Performance Issues with Jetpack Compose on Samsung Galaxy M13](https://www.reddit.com/r/androiddev/comments/1f377a3/performance_issues_with_jetpack_compose_on/)
+- [Confused about destructuring assignment](https://www.reddit.com/r/androiddev/comments/1f36mb2/confused_about_destructuring_assignment/)
+- [I need helped I&#39;m beginner, do I need to use string resources in compose ui like view ui?](https://www.reddit.com/r/androiddev/comments/1f35pdx/i_need_helped_im_beginner_do_i_need_to_use_string/)
+- [Object Detection in Android &lpar;Jetpack Compose &amp; Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1f3438z/object_detection_in_android_jetpack_compose_kotlin/)
+- [JCenter dependencies removed over the past ~4 weeks](https://www.reddit.com/r/androiddev/comments/1f340hn/jcenter_dependencies_removed_over_the_past_4_weeks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
