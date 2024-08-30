@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How ANRs Sparked Conversations with hundred plus mobile devs](https://www.reddit.com/r/androiddev/comments/1f4i1m1/how_anrs_sparked_conversations_with_hundred_plus/)
+- [How to make sure token always fresh in google Credential manager](https://www.reddit.com/r/androiddev/comments/1f4dugp/how_to_make_sure_token_always_fresh_in_google/)
+- [Android Studio Koala Feature Drop | 2024.1.2 now available](https://www.reddit.com/r/androiddev/comments/1f490ih/android_studio_koala_feature_drop_202412_now/)
+- [Open Source Android app for tracking free games](https://www.reddit.com/r/androiddev/comments/1f416gx/open_source_android_app_for_tracking_free_games/)
+- [How often do you update android studio?](https://www.reddit.com/r/androiddev/comments/1f3zuzj/how_often_do_you_update_android_studio/)
+- [No way to reverse app bundle versions on Google Play?](https://www.reddit.com/r/androiddev/comments/1f3wipx/no_way_to_reverse_app_bundle_versions_on_google/)
+- [Using jetpack compose to draw on a bitmap without attaching to a window](https://www.reddit.com/r/androiddev/comments/1f3v3lg/using_jetpack_compose_to_draw_on_a_bitmap_without/)
+- [Are there any drawbacks from holding state of the screen in one big data class?](https://www.reddit.com/r/androiddev/comments/1f3kekb/are_there_any_drawbacks_from_holding_state_of_the/)
 - [Why using Channels is considered anti-pattern?](https://www.reddit.com/r/androiddev/comments/1f3k72f/why_using_channels_is_considered_antipattern/)
 - [Precise Recomposition using View model State](https://www.reddit.com/r/androiddev/comments/1f3jj8g/precise_recomposition_using_view_model_state/)
-- [Android Studio Ladybug | 2024.2.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1f3gtx3/android_studio_ladybug_202421_canary_8_now/)
-- [Does API routes need SSL certificate](https://www.reddit.com/r/androiddev/comments/1f3frxe/does_api_routes_need_ssl_certificate/)
-- [Why can&#39;t I see my Google Cloud credentials in the Google Play Console](https://www.reddit.com/r/androiddev/comments/1f3ddnf/why_cant_i_see_my_google_cloud_credentials_in_the/)
-- [Performance Issues with Jetpack Compose on Samsung Galaxy M13](https://www.reddit.com/r/androiddev/comments/1f377a3/performance_issues_with_jetpack_compose_on/)
-- [Confused about destructuring assignment](https://www.reddit.com/r/androiddev/comments/1f36mb2/confused_about_destructuring_assignment/)
-- [I need helped I&#39;m beginner, do I need to use string resources in compose ui like view ui?](https://www.reddit.com/r/androiddev/comments/1f35pdx/i_need_helped_im_beginner_do_i_need_to_use_string/)
-- [Object Detection in Android &lpar;Jetpack Compose &amp; Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1f3438z/object_detection_in_android_jetpack_compose_kotlin/)
-- [JCenter dependencies removed over the past ~4 weeks](https://www.reddit.com/r/androiddev/comments/1f340hn/jcenter_dependencies_removed_over_the_past_4_weeks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
