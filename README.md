@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How ANRs Sparked Conversations with hundred plus mobile devs](https://www.reddit.com/r/androiddev/comments/1f4i1m1/how_anrs_sparked_conversations_with_hundred_plus/)
+- [Firebase High Priority messages not consistently being received while app is in the background](https://www.reddit.com/r/androiddev/comments/1f53549/firebase_high_priority_messages_not_consistently/)
+- [Android Studio Ladybug | 2024.2.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1f4xd6v/android_studio_ladybug_202421_canary_9_now/)
+- [Story of My Recent Google Developer Account Termination Without Clear Reasons or Prior Notice](https://www.reddit.com/r/androiddev/comments/1f4scki/story_of_my_recent_google_developer_account/)
+- [Unable to take and upload a picture using Camera inside web view](https://www.reddit.com/r/androiddev/comments/1f4s9ko/unable_to_take_and_upload_a_picture_using_camera/)
+- [Popular database options other than room / sqlite / firebase for android?](https://www.reddit.com/r/androiddev/comments/1f4rcro/popular_database_options_other_than_room_sqlite/)
+- [Anyone use Redux?](https://www.reddit.com/r/androiddev/comments/1f4qcgt/anyone_use_redux/)
+- [Emulating NFC Forum Type 4 Tag](https://www.reddit.com/r/androiddev/comments/1f4oq0n/emulating_nfc_forum_type_4_tag/)
+- [What is this kind of scam ? what do they do ?](https://www.reddit.com/r/androiddev/comments/1f4oka9/what_is_this_kind_of_scam_what_do_they_do/)
+- [GPS location keeps resetting to mountainview California](https://www.reddit.com/r/androiddev/comments/1f4mhdm/gps_location_keeps_resetting_to_mountainview/)
 - [How to make sure token always fresh in google Credential manager](https://www.reddit.com/r/androiddev/comments/1f4dugp/how_to_make_sure_token_always_fresh_in_google/)
-- [Android Studio Koala Feature Drop | 2024.1.2 now available](https://www.reddit.com/r/androiddev/comments/1f490ih/android_studio_koala_feature_drop_202412_now/)
-- [Open Source Android app for tracking free games](https://www.reddit.com/r/androiddev/comments/1f416gx/open_source_android_app_for_tracking_free_games/)
-- [How often do you update android studio?](https://www.reddit.com/r/androiddev/comments/1f3zuzj/how_often_do_you_update_android_studio/)
-- [No way to reverse app bundle versions on Google Play?](https://www.reddit.com/r/androiddev/comments/1f3wipx/no_way_to_reverse_app_bundle_versions_on_google/)
-- [Using jetpack compose to draw on a bitmap without attaching to a window](https://www.reddit.com/r/androiddev/comments/1f3v3lg/using_jetpack_compose_to_draw_on_a_bitmap_without/)
-- [Are there any drawbacks from holding state of the screen in one big data class?](https://www.reddit.com/r/androiddev/comments/1f3kekb/are_there_any_drawbacks_from_holding_state_of_the/)
-- [Why using Channels is considered anti-pattern?](https://www.reddit.com/r/androiddev/comments/1f3k72f/why_using_channels_is_considered_antipattern/)
-- [Precise Recomposition using View model State](https://www.reddit.com/r/androiddev/comments/1f3jj8g/precise_recomposition_using_view_model_state/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
