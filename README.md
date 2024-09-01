@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to bring variables from one activity to another: Returning to MainActivity using activityResultLauncher](https://www.reddit.com/r/androiddev/comments/1f60rse/how_to_bring_variables_from_one_activity_to/)
+- [Coroutine testing - Part 2 - background scope and never ending tests](https://www.reddit.com/r/androiddev/comments/1f5u7uu/coroutine_testing_part_2_background_scope_and/)
+- [StateFlow doesn&#39;t work correctly](https://www.reddit.com/r/androiddev/comments/1f5pyfd/stateflow_doesnt_work_correctly/)
+- [Why do Google Play Games Services return different Player IDs on client and backend? Sometimes from Google+ era](https://www.reddit.com/r/androiddev/comments/1f5jfkj/why_do_google_play_games_services_return/)
+- [How to defer foreign keys in room?](https://www.reddit.com/r/androiddev/comments/1f5hj16/how_to_defer_foreign_keys_in_room/)
 - [Firebase High Priority messages not consistently being received while app is in the background](https://www.reddit.com/r/androiddev/comments/1f53549/firebase_high_priority_messages_not_consistently/)
 - [Android Studio Ladybug | 2024.2.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1f4xd6v/android_studio_ladybug_202421_canary_9_now/)
 - [Story of My Recent Google Developer Account Termination Without Clear Reasons or Prior Notice](https://www.reddit.com/r/androiddev/comments/1f4scki/story_of_my_recent_google_developer_account/)
 - [Unable to take and upload a picture using Camera inside web view](https://www.reddit.com/r/androiddev/comments/1f4s9ko/unable_to_take_and_upload_a_picture_using_camera/)
 - [Popular database options other than room / sqlite / firebase for android?](https://www.reddit.com/r/androiddev/comments/1f4rcro/popular_database_options_other_than_room_sqlite/)
-- [Anyone use Redux?](https://www.reddit.com/r/androiddev/comments/1f4qcgt/anyone_use_redux/)
-- [Emulating NFC Forum Type 4 Tag](https://www.reddit.com/r/androiddev/comments/1f4oq0n/emulating_nfc_forum_type_4_tag/)
-- [What is this kind of scam ? what do they do ?](https://www.reddit.com/r/androiddev/comments/1f4oka9/what_is_this_kind_of_scam_what_do_they_do/)
-- [GPS location keeps resetting to mountainview California](https://www.reddit.com/r/androiddev/comments/1f4mhdm/gps_location_keeps_resetting_to_mountainview/)
-- [How to make sure token always fresh in google Credential manager](https://www.reddit.com/r/androiddev/comments/1f4dugp/how_to_make_sure_token_always_fresh_in_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
