@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where is the new Health Connect approval process](https://www.reddit.com/r/androiddev/comments/1f6fyjn/where_is_the_new_health_connect_approval_process/)
+- [Using Stripe along with Google Play&#39;s billing library in an app having a web fronted](https://www.reddit.com/r/androiddev/comments/1f6aze4/using_stripe_along_with_google_plays_billing/)
+- [Implemented custom modifier to add dragging gesture with some customisation to any compose component](https://www.reddit.com/r/androiddev/comments/1f69lub/implemented_custom_modifier_to_add_dragging/)
+- [Make my app appear in list of selectable sms apps?](https://www.reddit.com/r/androiddev/comments/1f670x3/make_my_app_appear_in_list_of_selectable_sms_apps/)
 - [How to bring variables from one activity to another: Returning to MainActivity using activityResultLauncher](https://www.reddit.com/r/androiddev/comments/1f60rse/how_to_bring_variables_from_one_activity_to/)
 - [Coroutine testing - Part 2 - background scope and never ending tests](https://www.reddit.com/r/androiddev/comments/1f5u7uu/coroutine_testing_part_2_background_scope_and/)
 - [StateFlow doesn&#39;t work correctly](https://www.reddit.com/r/androiddev/comments/1f5pyfd/stateflow_doesnt_work_correctly/)
 - [Why do Google Play Games Services return different Player IDs on client and backend? Sometimes from Google+ era](https://www.reddit.com/r/androiddev/comments/1f5jfkj/why_do_google_play_games_services_return/)
 - [How to defer foreign keys in room?](https://www.reddit.com/r/androiddev/comments/1f5hj16/how_to_defer_foreign_keys_in_room/)
 - [Firebase High Priority messages not consistently being received while app is in the background](https://www.reddit.com/r/androiddev/comments/1f53549/firebase_high_priority_messages_not_consistently/)
-- [Android Studio Ladybug | 2024.2.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1f4xd6v/android_studio_ladybug_202421_canary_9_now/)
-- [Story of My Recent Google Developer Account Termination Without Clear Reasons or Prior Notice](https://www.reddit.com/r/androiddev/comments/1f4scki/story_of_my_recent_google_developer_account/)
-- [Unable to take and upload a picture using Camera inside web view](https://www.reddit.com/r/androiddev/comments/1f4s9ko/unable_to_take_and_upload_a_picture_using_camera/)
-- [Popular database options other than room / sqlite / firebase for android?](https://www.reddit.com/r/androiddev/comments/1f4rcro/popular_database_options_other_than_room_sqlite/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
