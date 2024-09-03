@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where is the new Health Connect approval process](https://www.reddit.com/r/androiddev/comments/1f6fyjn/where_is_the_new_health_connect_approval_process/)
-- [Using Stripe along with Google Play&#39;s billing library in an app having a web fronted](https://www.reddit.com/r/androiddev/comments/1f6aze4/using_stripe_along_with_google_plays_billing/)
-- [Implemented custom modifier to add dragging gesture with some customisation to any compose component](https://www.reddit.com/r/androiddev/comments/1f69lub/implemented_custom_modifier_to_add_dragging/)
-- [Make my app appear in list of selectable sms apps?](https://www.reddit.com/r/androiddev/comments/1f670x3/make_my_app_appear_in_list_of_selectable_sms_apps/)
-- [How to bring variables from one activity to another: Returning to MainActivity using activityResultLauncher](https://www.reddit.com/r/androiddev/comments/1f60rse/how_to_bring_variables_from_one_activity_to/)
-- [Coroutine testing - Part 2 - background scope and never ending tests](https://www.reddit.com/r/androiddev/comments/1f5u7uu/coroutine_testing_part_2_background_scope_and/)
-- [StateFlow doesn&#39;t work correctly](https://www.reddit.com/r/androiddev/comments/1f5pyfd/stateflow_doesnt_work_correctly/)
-- [Why do Google Play Games Services return different Player IDs on client and backend? Sometimes from Google+ era](https://www.reddit.com/r/androiddev/comments/1f5jfkj/why_do_google_play_games_services_return/)
-- [How to defer foreign keys in room?](https://www.reddit.com/r/androiddev/comments/1f5hj16/how_to_defer_foreign_keys_in_room/)
-- [Firebase High Priority messages not consistently being received while app is in the background](https://www.reddit.com/r/androiddev/comments/1f53549/firebase_high_priority_messages_not_consistently/)
+- [Hey everyone! I&#39;m recruiting participants for a user research project titled &quot;What&#39;s New in Android Mobile Development&quot; starting this week. All interview participants will receive a $60 USD Amazon gift card.](https://www.reddit.com/r/androiddev/comments/1f7in1b/hey_everyone_im_recruiting_participants_for_a/)
+- [Material3 documentation/versions and SearchBar](https://www.reddit.com/r/androiddev/comments/1f7ic3k/material3_documentationversions_and_searchbar/)
+- [Loading Initial Data in LaunchedEffect vs. ViewModel](https://www.reddit.com/r/androiddev/comments/1f7awzf/loading_initial_data_in_launchedeffect_vs/)
+- [Getting started with Android Studio](https://www.reddit.com/r/androiddev/comments/1f79pln/getting_started_with_android_studio/)
+- [Do I need the MANAGE_EXTERNAL_STORAGE permission?](https://www.reddit.com/r/androiddev/comments/1f7616e/do_i_need_the_manage_external_storage_permission/)
+- [Is it overkill to use RxJava and Arrow for a room database query return?](https://www.reddit.com/r/androiddev/comments/1f75uth/is_it_overkill_to_use_rxjava_and_arrow_for_a_room/)
+- [How to retrieve Open Source Licences](https://www.reddit.com/r/androiddev/comments/1f74enh/how_to_retrieve_open_source_licences/)
+- [Connect to Wi-Fi programmatically on Android 13](https://www.reddit.com/r/androiddev/comments/1f73vf0/connect_to_wifi_programmatically_on_android_13/)
+- [How do I figured out the correct display dimensions for my device &lpar;S9+&rpar; in Adroid Studio?](https://www.reddit.com/r/androiddev/comments/1f6xcnr/how_do_i_figured_out_the_correct_display/)
+- [How to push items in lazycolumn when keyboard appears in jetpack compose with windowSoftInputMode=&quot;AdjustResize&quot;?](https://www.reddit.com/r/androiddev/comments/1f6xby0/how_to_push_items_in_lazycolumn_when_keyboard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
