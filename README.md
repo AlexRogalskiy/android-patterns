@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hey everyone! I&#39;m recruiting participants for a user research project titled &quot;What&#39;s New in Android Mobile Development&quot; starting this week. All interview participants will receive a $60 USD Amazon gift card.](https://www.reddit.com/r/androiddev/comments/1f7in1b/hey_everyone_im_recruiting_participants_for_a/)
-- [Material3 documentation/versions and SearchBar](https://www.reddit.com/r/androiddev/comments/1f7ic3k/material3_documentationversions_and_searchbar/)
-- [Loading Initial Data in LaunchedEffect vs. ViewModel](https://www.reddit.com/r/androiddev/comments/1f7awzf/loading_initial_data_in_launchedeffect_vs/)
-- [Getting started with Android Studio](https://www.reddit.com/r/androiddev/comments/1f79pln/getting_started_with_android_studio/)
-- [Do I need the MANAGE_EXTERNAL_STORAGE permission?](https://www.reddit.com/r/androiddev/comments/1f7616e/do_i_need_the_manage_external_storage_permission/)
-- [Is it overkill to use RxJava and Arrow for a room database query return?](https://www.reddit.com/r/androiddev/comments/1f75uth/is_it_overkill_to_use_rxjava_and_arrow_for_a_room/)
-- [How to retrieve Open Source Licences](https://www.reddit.com/r/androiddev/comments/1f74enh/how_to_retrieve_open_source_licences/)
-- [Connect to Wi-Fi programmatically on Android 13](https://www.reddit.com/r/androiddev/comments/1f73vf0/connect_to_wifi_programmatically_on_android_13/)
-- [How do I figured out the correct display dimensions for my device &lpar;S9+&rpar; in Adroid Studio?](https://www.reddit.com/r/androiddev/comments/1f6xcnr/how_do_i_figured_out_the_correct_display/)
-- [How to push items in lazycolumn when keyboard appears in jetpack compose with windowSoftInputMode=&quot;AdjustResize&quot;?](https://www.reddit.com/r/androiddev/comments/1f6xby0/how_to_push_items_in_lazycolumn_when_keyboard/)
+- [AI powered improvements to code - Android SDK usage, and Kotlin best practices ?](https://www.reddit.com/r/androiddev/comments/1f8hj8t/ai_powered_improvements_to_code_android_sdk_usage/)
+- [How long do solo devs take to publish their apps on Play Store](https://www.reddit.com/r/androiddev/comments/1f8h9f8/how_long_do_solo_devs_take_to_publish_their_apps/)
+- [Prevent requestLayout&lpar;&rpar; improperly called warning](https://www.reddit.com/r/androiddev/comments/1f8gt01/prevent_requestlayout_improperly_called_warning/)
+- [Multiple branded app](https://www.reddit.com/r/androiddev/comments/1f8d4v0/multiple_branded_app/)
+- [My app is detected as malicious software](https://www.reddit.com/r/androiddev/comments/1f8cpx2/my_app_is_detected_as_malicious_software/)
+- [What is the correct way to share ViewModel classes within a common ViewModel?](https://www.reddit.com/r/androiddev/comments/1f8ckfp/what_is_the_correct_way_to_share_viewmodel/)
+- [Any good resources to learn automated testing in Android from scratch?](https://www.reddit.com/r/androiddev/comments/1f8bjde/any_good_resources_to_learn_automated_testing_in/)
+- [Has anyone had success with the Strike Removal pilot program for Android app devs?](https://www.reddit.com/r/androiddev/comments/1f8bivu/has_anyone_had_success_with_the_strike_removal/)
+- [Data Store access from service and viewModel](https://www.reddit.com/r/androiddev/comments/1f7zwma/data_store_access_from_service_and_viewmodel/)
+- [firebase-android-ktx: Kotlin &amp; Compose-friendly Firebase extensions designed to help you focus on your business logic.](https://www.reddit.com/r/androiddev/comments/1f7vjmg/firebaseandroidktx_kotlin_composefriendly/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
