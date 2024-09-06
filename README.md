@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Am I missing something or is Android dev very overengineered and difficult to get into?](https://www.reddit.com/r/androiddev/comments/1f97qtp/am_i_missing_something_or_is_android_dev_very/)
-- [Easy to use tool for Kotlin code review?](https://www.reddit.com/r/androiddev/comments/1f97nbl/easy_to_use_tool_for_kotlin_code_review/)
-- [What to Do with Old Libraries That Do Not Support targetSdkVersion 34?](https://www.reddit.com/r/androiddev/comments/1f95n1f/what_to_do_with_old_libraries_that_do_not_support/)
-- [Easy way to use EdgeToEdge for changing NavBar and StatusBar.](https://www.reddit.com/r/androiddev/comments/1f92vkt/easy_way_to_use_edgetoedge_for_changing_navbar/)
-- [Text getting cut off in menu built with Compose – any solutions?](https://www.reddit.com/r/androiddev/comments/1f8xm94/text_getting_cut_off_in_menu_built_with_compose/)
-- [How to use Datastore&lt;Preference&gt; with CompositionLocal](https://www.reddit.com/r/androiddev/comments/1f8xlh1/how_to_use_datastorepreference_with/)
-- [Applying the State Pattern in Kotlin](https://www.reddit.com/r/androiddev/comments/1f8vjb6/applying_the_state_pattern_in_kotlin/)
-- [In-app purchases implementation](https://www.reddit.com/r/androiddev/comments/1f8v4v3/inapp_purchases_implementation/)
-- [Right way to show incoming call like notification](https://www.reddit.com/r/androiddev/comments/1f8uozp/right_way_to_show_incoming_call_like_notification/)
-- [Coroutine testing - Part 3 - Controlling time](https://www.reddit.com/r/androiddev/comments/1f8u7mc/coroutine_testing_part_3_controlling_time/)
+- [Production-Release without shrinking, obfuscation and optimization ?](https://www.reddit.com/r/androiddev/comments/1f9y722/productionrelease_without_shrinking_obfuscation/)
+- [How can I make PullToRefreshBox to pull from bottom](https://www.reddit.com/r/androiddev/comments/1f9x6b1/how_can_i_make_pulltorefreshbox_to_pull_from/)
+- [Jetpack Compose w/ Kotlin + Room - Loading and Composables](https://www.reddit.com/r/androiddev/comments/1f9whk3/jetpack_compose_w_kotlin_room_loading_and/)
+- [Android Studio Ladybug | 2024.2.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1f9vtqi/android_studio_ladybug_202421_beta_1_now_available/)
+- [Just got a new Android Senior Developer Job and here is what I discovered](https://www.reddit.com/r/androiddev/comments/1f9vm61/just_got_a_new_android_senior_developer_job_and/)
+- [How do I make push notifications icon work?](https://www.reddit.com/r/androiddev/comments/1f9tmqt/how_do_i_make_push_notifications_icon_work/)
+- [Android App Links &amp; assetlinks.json](https://www.reddit.com/r/androiddev/comments/1f9swvm/android_app_links_assetlinksjson/)
+- [I need help: Android Studio Emulator error is driving me crazy](https://www.reddit.com/r/androiddev/comments/1f9sk3s/i_need_help_android_studio_emulator_error_is/)
+- [Fragment deprecated in Android Version Koala](https://www.reddit.com/r/androiddev/comments/1f9ospt/fragment_deprecated_in_android_version_koala/)
+- [Type safe navigation for Compose](https://www.reddit.com/r/androiddev/comments/1f9nruz/type_safe_navigation_for_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
