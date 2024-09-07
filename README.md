@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Glance Appwidgets](https://www.reddit.com/r/androiddev/comments/1faubud/glance_appwidgets/)
+- [How to Use Kotlin Notebook for Free](https://www.reddit.com/r/androiddev/comments/1fair7s/how_to_use_kotlin_notebook_for_free/)
+- [Trying to reload ExoPlayer with new video after button click](https://www.reddit.com/r/androiddev/comments/1facoia/trying_to_reload_exoplayer_with_new_video_after/)
+- [How to get into Google Play Games on PC Developer Program?](https://www.reddit.com/r/androiddev/comments/1faa7nt/how_to_get_into_google_play_games_on_pc_developer/)
+- [Implementing right architecture for your app in android](https://www.reddit.com/r/androiddev/comments/1fa9aza/implementing_right_architecture_for_your_app_in/)
+- [Tensorflow resource for noobs](https://www.reddit.com/r/androiddev/comments/1fa4qn8/tensorflow_resource_for_noobs/)
 - [Production-Release without shrinking, obfuscation and optimization ?](https://www.reddit.com/r/androiddev/comments/1f9y722/productionrelease_without_shrinking_obfuscation/)
-- [How can I make PullToRefreshBox to pull from bottom](https://www.reddit.com/r/androiddev/comments/1f9x6b1/how_can_i_make_pulltorefreshbox_to_pull_from/)
 - [Jetpack Compose w/ Kotlin + Room - Loading and Composables](https://www.reddit.com/r/androiddev/comments/1f9whk3/jetpack_compose_w_kotlin_room_loading_and/)
 - [Android Studio Ladybug | 2024.2.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1f9vtqi/android_studio_ladybug_202421_beta_1_now_available/)
 - [Just got a new Android Senior Developer Job and here is what I discovered](https://www.reddit.com/r/androiddev/comments/1f9vm61/just_got_a_new_android_senior_developer_job_and/)
-- [How do I make push notifications icon work?](https://www.reddit.com/r/androiddev/comments/1f9tmqt/how_do_i_make_push_notifications_icon_work/)
-- [Android App Links &amp; assetlinks.json](https://www.reddit.com/r/androiddev/comments/1f9swvm/android_app_links_assetlinksjson/)
-- [I need help: Android Studio Emulator error is driving me crazy](https://www.reddit.com/r/androiddev/comments/1f9sk3s/i_need_help_android_studio_emulator_error_is/)
-- [Fragment deprecated in Android Version Koala](https://www.reddit.com/r/androiddev/comments/1f9ospt/fragment_deprecated_in_android_version_koala/)
-- [Type safe navigation for Compose](https://www.reddit.com/r/androiddev/comments/1f9nruz/type_safe_navigation_for_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
