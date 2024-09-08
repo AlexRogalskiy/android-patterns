@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Glance Appwidgets](https://www.reddit.com/r/androiddev/comments/1faubud/glance_appwidgets/)
-- [How to Use Kotlin Notebook for Free](https://www.reddit.com/r/androiddev/comments/1fair7s/how_to_use_kotlin_notebook_for_free/)
-- [Trying to reload ExoPlayer with new video after button click](https://www.reddit.com/r/androiddev/comments/1facoia/trying_to_reload_exoplayer_with_new_video_after/)
-- [How to get into Google Play Games on PC Developer Program?](https://www.reddit.com/r/androiddev/comments/1faa7nt/how_to_get_into_google_play_games_on_pc_developer/)
-- [Implementing right architecture for your app in android](https://www.reddit.com/r/androiddev/comments/1fa9aza/implementing_right_architecture_for_your_app_in/)
-- [Tensorflow resource for noobs](https://www.reddit.com/r/androiddev/comments/1fa4qn8/tensorflow_resource_for_noobs/)
-- [Production-Release without shrinking, obfuscation and optimization ?](https://www.reddit.com/r/androiddev/comments/1f9y722/productionrelease_without_shrinking_obfuscation/)
-- [Jetpack Compose w/ Kotlin + Room - Loading and Composables](https://www.reddit.com/r/androiddev/comments/1f9whk3/jetpack_compose_w_kotlin_room_loading_and/)
-- [Android Studio Ladybug | 2024.2.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1f9vtqi/android_studio_ladybug_202421_beta_1_now_available/)
-- [Just got a new Android Senior Developer Job and here is what I discovered](https://www.reddit.com/r/androiddev/comments/1f9vm61/just_got_a_new_android_senior_developer_job_and/)
+- [Play Console app is now available on iOS App Store](https://www.reddit.com/r/androiddev/comments/1fbmba6/play_console_app_is_now_available_on_ios_app_store/)
+- [Automatic cloud save on google play?](https://www.reddit.com/r/androiddev/comments/1fbe9rl/automatic_cloud_save_on_google_play/)
+- [What&#39;s the proper way of showing data in recyclerView when needing a GET request per item?](https://www.reddit.com/r/androiddev/comments/1fbcywx/whats_the_proper_way_of_showing_data_in/)
+- [What is the intent format for a search query for the Google app?](https://www.reddit.com/r/androiddev/comments/1fb8k12/what_is_the_intent_format_for_a_search_query_for/)
+- [Could you confirm on native android camera this QR code is not giving the correct result?](https://www.reddit.com/r/androiddev/comments/1fb7p7e/could_you_confirm_on_native_android_camera_this/)
+- [Noob. - trying to get an app ro dial a fixed number](https://www.reddit.com/r/androiddev/comments/1fb5ieu/noob_trying_to_get_an_app_ro_dial_a_fixed_number/)
+- [What are some good Blogs or Websites about creating beautiful Android UIs?](https://www.reddit.com/r/androiddev/comments/1fb4zyd/what_are_some_good_blogs_or_websites_about/)
+- [Looking for remote test device](https://www.reddit.com/r/androiddev/comments/1fb32mv/looking_for_remote_test_device/)
+- [Suggest me some ways to reduce app size that are not mentioned on internet](https://www.reddit.com/r/androiddev/comments/1fb2hp4/suggest_me_some_ways_to_reduce_app_size_that_are/)
+- [Open testing vs Production track](https://www.reddit.com/r/androiddev/comments/1fb1nte/open_testing_vs_production_track/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
