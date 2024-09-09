@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose 1.7.0 now stable &lpar;shared element transitions, lazy list animations, more&rpar;](https://www.reddit.com/r/androiddev/comments/1fc7dmf/compose_170_now_stable_shared_element_transitions/)
+- [Interacting with android app when phone is closed](https://www.reddit.com/r/androiddev/comments/1fc3oa2/interacting_with_android_app_when_phone_is_closed/)
+- [About Focus/Unfocus on TextField with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fc1rgt/about_focusunfocus_on_textfield_with_jetpack/)
+- [Crashlytics or Sentry for native projects?](https://www.reddit.com/r/androiddev/comments/1fc1bnw/crashlytics_or_sentry_for_native_projects/)
+- [Jetpack Compose - Android TV](https://www.reddit.com/r/androiddev/comments/1fbxtok/jetpack_compose_android_tv/)
+- [TF is up with Baseline profiles? &lpar;Rant&rpar;](https://www.reddit.com/r/androiddev/comments/1fbwwv4/tf_is_up_with_baseline_profiles_rant/)
+- [Currently popped out composable receiving clicks ?](https://www.reddit.com/r/androiddev/comments/1fbwnuy/currently_popped_out_composable_receiving_clicks/)
+- [Made an app with English flashcards and TTS](https://www.reddit.com/r/androiddev/comments/1fbvsqj/made_an_app_with_english_flashcards_and_tts/)
 - [Play Console app is now available on iOS App Store](https://www.reddit.com/r/androiddev/comments/1fbmba6/play_console_app_is_now_available_on_ios_app_store/)
 - [Automatic cloud save on google play?](https://www.reddit.com/r/androiddev/comments/1fbe9rl/automatic_cloud_save_on_google_play/)
-- [What&#39;s the proper way of showing data in recyclerView when needing a GET request per item?](https://www.reddit.com/r/androiddev/comments/1fbcywx/whats_the_proper_way_of_showing_data_in/)
-- [What is the intent format for a search query for the Google app?](https://www.reddit.com/r/androiddev/comments/1fb8k12/what_is_the_intent_format_for_a_search_query_for/)
-- [Could you confirm on native android camera this QR code is not giving the correct result?](https://www.reddit.com/r/androiddev/comments/1fb7p7e/could_you_confirm_on_native_android_camera_this/)
-- [Noob. - trying to get an app ro dial a fixed number](https://www.reddit.com/r/androiddev/comments/1fb5ieu/noob_trying_to_get_an_app_ro_dial_a_fixed_number/)
-- [What are some good Blogs or Websites about creating beautiful Android UIs?](https://www.reddit.com/r/androiddev/comments/1fb4zyd/what_are_some_good_blogs_or_websites_about/)
-- [Looking for remote test device](https://www.reddit.com/r/androiddev/comments/1fb32mv/looking_for_remote_test_device/)
-- [Suggest me some ways to reduce app size that are not mentioned on internet](https://www.reddit.com/r/androiddev/comments/1fb2hp4/suggest_me_some_ways_to_reduce_app_size_that_are/)
-- [Open testing vs Production track](https://www.reddit.com/r/androiddev/comments/1fb1nte/open_testing_vs_production_track/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
