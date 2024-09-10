@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compose 1.7.0 now stable &lpar;shared element transitions, lazy list animations, more&rpar;](https://www.reddit.com/r/androiddev/comments/1fc7dmf/compose_170_now_stable_shared_element_transitions/)
-- [Interacting with android app when phone is closed](https://www.reddit.com/r/androiddev/comments/1fc3oa2/interacting_with_android_app_when_phone_is_closed/)
-- [About Focus/Unfocus on TextField with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fc1rgt/about_focusunfocus_on_textfield_with_jetpack/)
-- [Crashlytics or Sentry for native projects?](https://www.reddit.com/r/androiddev/comments/1fc1bnw/crashlytics_or_sentry_for_native_projects/)
-- [Jetpack Compose - Android TV](https://www.reddit.com/r/androiddev/comments/1fbxtok/jetpack_compose_android_tv/)
-- [TF is up with Baseline profiles? &lpar;Rant&rpar;](https://www.reddit.com/r/androiddev/comments/1fbwwv4/tf_is_up_with_baseline_profiles_rant/)
-- [Currently popped out composable receiving clicks ?](https://www.reddit.com/r/androiddev/comments/1fbwnuy/currently_popped_out_composable_receiving_clicks/)
-- [Made an app with English flashcards and TTS](https://www.reddit.com/r/androiddev/comments/1fbvsqj/made_an_app_with_english_flashcards_and_tts/)
-- [Play Console app is now available on iOS App Store](https://www.reddit.com/r/androiddev/comments/1fbmba6/play_console_app_is_now_available_on_ios_app_store/)
-- [Automatic cloud save on google play?](https://www.reddit.com/r/androiddev/comments/1fbe9rl/automatic_cloud_save_on_google_play/)
+- [Realtime Developer Notifications](https://www.reddit.com/r/androiddev/comments/1fd489q/realtime_developer_notifications/)
+- [A lightweight app that ensures specific apps stay active by regularly monitoring their status and automatically restarting them if they become inactive.](https://www.reddit.com/r/androiddev/comments/1fd3ad2/a_lightweight_app_that_ensures_specific_apps_stay/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1fd33u9/android_studio_ladybug_feature_drop_202422_canary/)
+- [Dispatchers.IO vs Dispatchers.Main? When to use which one?](https://www.reddit.com/r/androiddev/comments/1fd1l9e/dispatchersio_vs_dispatchersmain_when_to_use/)
+- [Book recommendation to learn Jetpack Compose basics](https://www.reddit.com/r/androiddev/comments/1fd1ahs/book_recommendation_to_learn_jetpack_compose/)
+- [Content Label Warning](https://www.reddit.com/r/androiddev/comments/1fd14pw/content_label_warning/)
+- [Google Play Console - Is it possible to see who has opted in?](https://www.reddit.com/r/androiddev/comments/1fczwfn/google_play_console_is_it_possible_to_see_who_has/)
+- [OnePlus apis](https://www.reddit.com/r/androiddev/comments/1fcziey/oneplus_apis/)
+- [Testing Firebase services](https://www.reddit.com/r/androiddev/comments/1fcyudl/testing_firebase_services/)
+- [Is there a way to access and modify the content of the clipboard? I saw a way to access it with onWindowFocusChanged. What about modifying the content?](https://www.reddit.com/r/androiddev/comments/1fcylgx/is_there_a_way_to_access_and_modify_the_content/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
