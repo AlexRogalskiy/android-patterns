@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Have You Successfully Built a Dynamic App with Figma-to-Android Composable Plugins?](https://www.reddit.com/r/androiddev/comments/1fdt8tr/have_you_successfully_built_a_dynamic_app_with/)
+- [Good mid-range to budget phone for Development](https://www.reddit.com/r/androiddev/comments/1fdqpdy/good_midrange_to_budget_phone_for_development/)
+- [Can I control other streaming apps with any events as a OS?](https://www.reddit.com/r/androiddev/comments/1fdergj/can_i_control_other_streaming_apps_with_any/)
+- [Since when Jetpack libraries started to have minSdk = 21?](https://www.reddit.com/r/androiddev/comments/1fdb1iq/since_when_jetpack_libraries_started_to_have/)
+- [Android Studio Button body is not aligned with the drag box](https://www.reddit.com/r/androiddev/comments/1fd91ji/android_studio_button_body_is_not_aligned_with/)
 - [Realtime Developer Notifications](https://www.reddit.com/r/androiddev/comments/1fd489q/realtime_developer_notifications/)
 - [A lightweight app that ensures specific apps stay active by regularly monitoring their status and automatically restarting them if they become inactive.](https://www.reddit.com/r/androiddev/comments/1fd3ad2/a_lightweight_app_that_ensures_specific_apps_stay/)
 - [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1fd33u9/android_studio_ladybug_feature_drop_202422_canary/)
-- [Dispatchers.IO vs Dispatchers.Main? When to use which one?](https://www.reddit.com/r/androiddev/comments/1fd1l9e/dispatchersio_vs_dispatchersmain_when_to_use/)
 - [Book recommendation to learn Jetpack Compose basics](https://www.reddit.com/r/androiddev/comments/1fd1ahs/book_recommendation_to_learn_jetpack_compose/)
 - [Content Label Warning](https://www.reddit.com/r/androiddev/comments/1fd14pw/content_label_warning/)
-- [Google Play Console - Is it possible to see who has opted in?](https://www.reddit.com/r/androiddev/comments/1fczwfn/google_play_console_is_it_possible_to_see_who_has/)
-- [OnePlus apis](https://www.reddit.com/r/androiddev/comments/1fcziey/oneplus_apis/)
-- [Testing Firebase services](https://www.reddit.com/r/androiddev/comments/1fcyudl/testing_firebase_services/)
-- [Is there a way to access and modify the content of the clipboard? I saw a way to access it with onWindowFocusChanged. What about modifying the content?](https://www.reddit.com/r/androiddev/comments/1fcylgx/is_there_a_way_to_access_and_modify_the_content/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
