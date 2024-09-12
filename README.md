@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Have You Successfully Built a Dynamic App with Figma-to-Android Composable Plugins?](https://www.reddit.com/r/androiddev/comments/1fdt8tr/have_you_successfully_built_a_dynamic_app_with/)
-- [Good mid-range to budget phone for Development](https://www.reddit.com/r/androiddev/comments/1fdqpdy/good_midrange_to_budget_phone_for_development/)
-- [Can I control other streaming apps with any events as a OS?](https://www.reddit.com/r/androiddev/comments/1fdergj/can_i_control_other_streaming_apps_with_any/)
-- [Since when Jetpack libraries started to have minSdk = 21?](https://www.reddit.com/r/androiddev/comments/1fdb1iq/since_when_jetpack_libraries_started_to_have/)
-- [Android Studio Button body is not aligned with the drag box](https://www.reddit.com/r/androiddev/comments/1fd91ji/android_studio_button_body_is_not_aligned_with/)
-- [Realtime Developer Notifications](https://www.reddit.com/r/androiddev/comments/1fd489q/realtime_developer_notifications/)
-- [A lightweight app that ensures specific apps stay active by regularly monitoring their status and automatically restarting them if they become inactive.](https://www.reddit.com/r/androiddev/comments/1fd3ad2/a_lightweight_app_that_ensures_specific_apps_stay/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1fd33u9/android_studio_ladybug_feature_drop_202422_canary/)
-- [Book recommendation to learn Jetpack Compose basics](https://www.reddit.com/r/androiddev/comments/1fd1ahs/book_recommendation_to_learn_jetpack_compose/)
-- [Content Label Warning](https://www.reddit.com/r/androiddev/comments/1fd14pw/content_label_warning/)
+- [Android Studio Kolala how to add custom theme?](https://www.reddit.com/r/androiddev/comments/1fel6en/android_studio_kolala_how_to_add_custom_theme/)
+- [UsbManager returns empty device list in emulator](https://www.reddit.com/r/androiddev/comments/1fejg0q/usbmanager_returns_empty_device_list_in_emulator/)
+- [ViewModel shouldn&#39;t persist data but it does. Hilt can be the culprit?](https://www.reddit.com/r/androiddev/comments/1fejefo/viewmodel_shouldnt_persist_data_but_it_does_hilt/)
+- [How to block app for certain region?](https://www.reddit.com/r/androiddev/comments/1fej0ju/how_to_block_app_for_certain_region/)
+- [Video Overflows from Bottom Sheet When Scrolling](https://www.reddit.com/r/androiddev/comments/1feesb2/video_overflows_from_bottom_sheet_when_scrolling/)
+- [Take pictures with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1feenlj/take_pictures_with_jetpack_compose/)
+- [The significance of privacy policy](https://www.reddit.com/r/androiddev/comments/1fe69ej/the_significance_of_privacy_policy/)
+- [I have a problem running the foreground service on Huawei devices](https://www.reddit.com/r/androiddev/comments/1fe5ko9/i_have_a_problem_running_the_foreground_service/)
+- [Crash reports with ForegroundServiceDidNotStartInTimeException on Android 14.](https://www.reddit.com/r/androiddev/comments/1fe2mk8/crash_reports_with/)
+- [Who else don&#39;t like Android Studio new ui?](https://www.reddit.com/r/androiddev/comments/1fe1v0x/who_else_dont_like_android_studio_new_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
