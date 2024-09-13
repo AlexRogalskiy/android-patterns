@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Kolala how to add custom theme?](https://www.reddit.com/r/androiddev/comments/1fel6en/android_studio_kolala_how_to_add_custom_theme/)
-- [UsbManager returns empty device list in emulator](https://www.reddit.com/r/androiddev/comments/1fejg0q/usbmanager_returns_empty_device_list_in_emulator/)
-- [ViewModel shouldn&#39;t persist data but it does. Hilt can be the culprit?](https://www.reddit.com/r/androiddev/comments/1fejefo/viewmodel_shouldnt_persist_data_but_it_does_hilt/)
-- [How to block app for certain region?](https://www.reddit.com/r/androiddev/comments/1fej0ju/how_to_block_app_for_certain_region/)
-- [Video Overflows from Bottom Sheet When Scrolling](https://www.reddit.com/r/androiddev/comments/1feesb2/video_overflows_from_bottom_sheet_when_scrolling/)
-- [Take pictures with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1feenlj/take_pictures_with_jetpack_compose/)
-- [The significance of privacy policy](https://www.reddit.com/r/androiddev/comments/1fe69ej/the_significance_of_privacy_policy/)
-- [I have a problem running the foreground service on Huawei devices](https://www.reddit.com/r/androiddev/comments/1fe5ko9/i_have_a_problem_running_the_foreground_service/)
-- [Crash reports with ForegroundServiceDidNotStartInTimeException on Android 14.](https://www.reddit.com/r/androiddev/comments/1fe2mk8/crash_reports_with/)
-- [Who else don&#39;t like Android Studio new ui?](https://www.reddit.com/r/androiddev/comments/1fe1v0x/who_else_dont_like_android_studio_new_ui/)
+- [Change color of checkbox &lpar;when I do this, the checkmark is invisible because it is also white&rpar;](https://www.reddit.com/r/androiddev/comments/1ffixgr/change_color_of_checkbox_when_i_do_this_the/)
+- [Switch to Media2 for ExoPlayer despite deprecation?](https://www.reddit.com/r/androiddev/comments/1ffh4fx/switch_to_media2_for_exoplayer_despite_deprecation/)
+- [Need help with interview assignment result](https://www.reddit.com/r/androiddev/comments/1ffcahy/need_help_with_interview_assignment_result/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1ffbu2y/android_studio_ladybug_feature_drop_202422_canary/)
+- [Android Studio Ladybug | 2024.2.1 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/1ffbu2k/android_studio_ladybug_202421_beta_2_now_available/)
+- [Difference between: Old PlayConsole vs New Play Console? Rules &amp; Strictness](https://www.reddit.com/r/androiddev/comments/1ffbhfn/difference_between_old_playconsole_vs_new_play/)
+- [Accessing the background location in android for geofencing](https://www.reddit.com/r/androiddev/comments/1ff6yl0/accessing_the_background_location_in_android_for/)
+- [On Console Accounts, Reddit Algorithms, Non-Developers, Hardware, Search Engines, Testers, and Customer Support](https://www.reddit.com/r/androiddev/comments/1ff69tg/on_console_accounts_reddit_algorithms/)
+- [Overriding composables in product flavors?](https://www.reddit.com/r/androiddev/comments/1ff4jfz/overriding_composables_in_product_flavors/)
+- [Seeking tips and advice](https://www.reddit.com/r/androiddev/comments/1ff3jrg/seeking_tips_and_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
