@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [RenderNodes that use compositing layers render child shadows incorrectly after translation.](https://www.reddit.com/r/androiddev/comments/1fgaj7h/rendernodes_that_use_compositing_layers_render/)
+- [Trying to implement Edge to Edge support &lpar;Please help&rpar;](https://www.reddit.com/r/androiddev/comments/1fgaa4k/trying_to_implement_edge_to_edge_support_please/)
+- [What was your experience with Realm Kotlin SDK?](https://www.reddit.com/r/androiddev/comments/1fg13ov/what_was_your_experience_with_realm_kotlin_sdk/)
+- [Beyond The Success Of Kotlin / The Documentary](https://www.reddit.com/r/androiddev/comments/1fg00cq/beyond_the_success_of_kotlin_the_documentary/)
+- [Is something wrong with &quot;perceived ANR rate&quot; in Console?](https://www.reddit.com/r/androiddev/comments/1fftm6u/is_something_wrong_with_perceived_anr_rate_in/)
+- [Launching mobile app from wear app](https://www.reddit.com/r/androiddev/comments/1ffqjin/launching_mobile_app_from_wear_app/)
+- [How to manage ads for kids on Google Play Console](https://www.reddit.com/r/androiddev/comments/1ffp01o/how_to_manage_ads_for_kids_on_google_play_console/)
 - [Change color of checkbox &lpar;when I do this, the checkmark is invisible because it is also white&rpar;](https://www.reddit.com/r/androiddev/comments/1ffixgr/change_color_of_checkbox_when_i_do_this_the/)
 - [Switch to Media2 for ExoPlayer despite deprecation?](https://www.reddit.com/r/androiddev/comments/1ffh4fx/switch_to_media2_for_exoplayer_despite_deprecation/)
 - [Need help with interview assignment result](https://www.reddit.com/r/androiddev/comments/1ffcahy/need_help_with_interview_assignment_result/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1ffbu2y/android_studio_ladybug_feature_drop_202422_canary/)
-- [Android Studio Ladybug | 2024.2.1 Beta 2 now available](https://www.reddit.com/r/androiddev/comments/1ffbu2k/android_studio_ladybug_202421_beta_2_now_available/)
-- [Difference between: Old PlayConsole vs New Play Console? Rules &amp; Strictness](https://www.reddit.com/r/androiddev/comments/1ffbhfn/difference_between_old_playconsole_vs_new_play/)
-- [Accessing the background location in android for geofencing](https://www.reddit.com/r/androiddev/comments/1ff6yl0/accessing_the_background_location_in_android_for/)
-- [On Console Accounts, Reddit Algorithms, Non-Developers, Hardware, Search Engines, Testers, and Customer Support](https://www.reddit.com/r/androiddev/comments/1ff69tg/on_console_accounts_reddit_algorithms/)
-- [Overriding composables in product flavors?](https://www.reddit.com/r/androiddev/comments/1ff4jfz/overriding_composables_in_product_flavors/)
-- [Seeking tips and advice](https://www.reddit.com/r/androiddev/comments/1ff3jrg/seeking_tips_and_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
