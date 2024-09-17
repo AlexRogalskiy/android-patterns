@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Passknight: Multi-vault, self hosted password manager](https://www.reddit.com/r/androiddev/comments/1fh97zk/passknight_multivault_self_hosted_password_manager/)
-- [How to recreate this Ui using jetpack compose?](https://www.reddit.com/r/androiddev/comments/1fh7cw5/how_to_recreate_this_ui_using_jetpack_compose/)
-- [Should I Address Warnings Before Releasing My App to Production on the Play Store?](https://www.reddit.com/r/androiddev/comments/1fh7bcc/should_i_address_warnings_before_releasing_my_app/)
-- [Speech recognition broken since last Speech Recognition &amp; Synthesis update](https://www.reddit.com/r/androiddev/comments/1fh6wpg/speech_recognition_broken_since_last_speech/)
-- [How can I change the XML editor background color in Android Studio?](https://www.reddit.com/r/androiddev/comments/1fh03st/how_can_i_change_the_xml_editor_background_color/)
-- [Canceling a Coroutine Simplified](https://www.reddit.com/r/androiddev/comments/1fgz6fn/canceling_a_coroutine_simplified/)
-- [Android app not available on some mobile brands](https://www.reddit.com/r/androiddev/comments/1fgw0kd/android_app_not_available_on_some_mobile_brands/)
-- [Best Way to Manage Baseline Profiles for Mobile &amp; TV in a Single APK?](https://www.reddit.com/r/androiddev/comments/1fgk1yt/best_way_to_manage_baseline_profiles_for_mobile/)
-- [Is it possible to integrate contactless payment in an app like Google Wallet does, or at least &quot;ride&quot; their feature?](https://www.reddit.com/r/androiddev/comments/1fgjawv/is_it_possible_to_integrate_contactless_payment/)
-- [Questions about flows that I&#39;m still unsure of](https://www.reddit.com/r/androiddev/comments/1fgcuvr/questions_about_flows_that_im_still_unsure_of/)
+- [&quot;Submit&quot; button grayed out in Gemini](https://www.reddit.com/r/androiddev/comments/1fihh2p/submit_button_grayed_out_in_gemini/)
+- [Android: Catching NDK crashes](https://www.reddit.com/r/androiddev/comments/1figwlr/android_catching_ndk_crashes/)
+- [Built my second app!](https://www.reddit.com/r/androiddev/comments/1ficmmo/built_my_second_app/)
+- [Exploring Lifecycle-Aware Service and FirebaseMessagingService on Android](https://www.reddit.com/r/androiddev/comments/1fi7tit/exploring_lifecycleaware_service_and/)
+- [How to change the default value of elevation in Snackbar componenet in M3](https://www.reddit.com/r/androiddev/comments/1fi5iki/how_to_change_the_default_value_of_elevation_in/)
+- [Review my code?](https://www.reddit.com/r/androiddev/comments/1fi18s6/review_my_code/)
+- [How to add &quot;Configurate in [app name]&quot; button to my app?](https://www.reddit.com/r/androiddev/comments/1fi0tum/how_to_add_configurate_in_app_name_button_to_my/)
+- [Do you like ProGuard?](https://www.reddit.com/r/androiddev/comments/1fi0tql/do_you_like_proguard/)
+- [Few surprises with Pre-registration on Play Store](https://www.reddit.com/r/androiddev/comments/1fi0sji/few_surprises_with_preregistration_on_play_store/)
+- [Fill Colors in Drawn Paths on Canvas](https://www.reddit.com/r/androiddev/comments/1fhyyv2/fill_colors_in_drawn_paths_on_canvas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
