@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Use Android Studio tools without opening full editor?](https://www.reddit.com/r/androiddev/comments/1fjgcc1/use_android_studio_tools_without_opening_full/)
+- [Android Studio Koala Feature Drop | 2024.1.2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1fjc73n/android_studio_koala_feature_drop_202412_patch_1/)
+- [Android Productivity Tool](https://www.reddit.com/r/androiddev/comments/1fj9ni6/android_productivity_tool/)
+- [Does creating an app that have same UI like whatsapp violate google play policies ?](https://www.reddit.com/r/androiddev/comments/1fj7dvm/does_creating_an_app_that_have_same_ui_like/)
+- [View State Management &amp; Coordination with Compose on Android](https://www.reddit.com/r/androiddev/comments/1fj2sq7/view_state_management_coordination_with_compose/)
+- [My school is Teaching Java with XML instead of Kotlin](https://www.reddit.com/r/androiddev/comments/1fj17ur/my_school_is_teaching_java_with_xml_instead_of/)
+- [How to change parent Composable in AGSL shader?](https://www.reddit.com/r/androiddev/comments/1fj0bgu/how_to_change_parent_composable_in_agsl_shader/)
+- [How to build fully custom Jetpack Compose Bottom Sheets without using Material Compose](https://www.reddit.com/r/androiddev/comments/1fix75l/how_to_build_fully_custom_jetpack_compose_bottom/)
+- [How to implement glassmorphism in compose without third party libraries?](https://www.reddit.com/r/androiddev/comments/1fiwlfv/how_to_implement_glassmorphism_in_compose_without/)
 - [&quot;Submit&quot; button grayed out in Gemini](https://www.reddit.com/r/androiddev/comments/1fihh2p/submit_button_grayed_out_in_gemini/)
-- [Android: Catching NDK crashes](https://www.reddit.com/r/androiddev/comments/1figwlr/android_catching_ndk_crashes/)
-- [Built my second app!](https://www.reddit.com/r/androiddev/comments/1ficmmo/built_my_second_app/)
-- [Exploring Lifecycle-Aware Service and FirebaseMessagingService on Android](https://www.reddit.com/r/androiddev/comments/1fi7tit/exploring_lifecycleaware_service_and/)
-- [How to change the default value of elevation in Snackbar componenet in M3](https://www.reddit.com/r/androiddev/comments/1fi5iki/how_to_change_the_default_value_of_elevation_in/)
-- [Review my code?](https://www.reddit.com/r/androiddev/comments/1fi18s6/review_my_code/)
-- [How to add &quot;Configurate in [app name]&quot; button to my app?](https://www.reddit.com/r/androiddev/comments/1fi0tum/how_to_add_configurate_in_app_name_button_to_my/)
-- [Do you like ProGuard?](https://www.reddit.com/r/androiddev/comments/1fi0tql/do_you_like_proguard/)
-- [Few surprises with Pre-registration on Play Store](https://www.reddit.com/r/androiddev/comments/1fi0sji/few_surprises_with_preregistration_on_play_store/)
-- [Fill Colors in Drawn Paths on Canvas](https://www.reddit.com/r/androiddev/comments/1fhyyv2/fill_colors_in_drawn_paths_on_canvas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
