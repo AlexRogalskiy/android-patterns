@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Use Android Studio tools without opening full editor?](https://www.reddit.com/r/androiddev/comments/1fjgcc1/use_android_studio_tools_without_opening_full/)
-- [Android Studio Koala Feature Drop | 2024.1.2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1fjc73n/android_studio_koala_feature_drop_202412_patch_1/)
-- [Android Productivity Tool](https://www.reddit.com/r/androiddev/comments/1fj9ni6/android_productivity_tool/)
-- [Does creating an app that have same UI like whatsapp violate google play policies ?](https://www.reddit.com/r/androiddev/comments/1fj7dvm/does_creating_an_app_that_have_same_ui_like/)
-- [View State Management &amp; Coordination with Compose on Android](https://www.reddit.com/r/androiddev/comments/1fj2sq7/view_state_management_coordination_with_compose/)
-- [My school is Teaching Java with XML instead of Kotlin](https://www.reddit.com/r/androiddev/comments/1fj17ur/my_school_is_teaching_java_with_xml_instead_of/)
-- [How to change parent Composable in AGSL shader?](https://www.reddit.com/r/androiddev/comments/1fj0bgu/how_to_change_parent_composable_in_agsl_shader/)
-- [How to build fully custom Jetpack Compose Bottom Sheets without using Material Compose](https://www.reddit.com/r/androiddev/comments/1fix75l/how_to_build_fully_custom_jetpack_compose_bottom/)
-- [How to implement glassmorphism in compose without third party libraries?](https://www.reddit.com/r/androiddev/comments/1fiwlfv/how_to_implement_glassmorphism_in_compose_without/)
-- [&quot;Submit&quot; button grayed out in Gemini](https://www.reddit.com/r/androiddev/comments/1fihh2p/submit_button_grayed_out_in_gemini/)
+- [How do we customize long press actions on push notification](https://www.reddit.com/r/androiddev/comments/1fk68j3/how_do_we_customize_long_press_actions_on_push/)
+- [To guys working on medium to large scale Android codebase...](https://www.reddit.com/r/androiddev/comments/1fk3m3y/to_guys_working_on_medium_to_large_scale_android/)
+- [Building an Android Game Using Web3 &lpar;But You Won’t Know It’s There&rpar;](https://www.reddit.com/r/androiddev/comments/1fk1beu/building_an_android_game_using_web3_but_you_wont/)
+- [The emulator process for AVD has terminated](https://www.reddit.com/r/androiddev/comments/1fjznbs/the_emulator_process_for_avd_has_terminated/)
+- [Do you ecodesign your apps?](https://www.reddit.com/r/androiddev/comments/1fjyj79/do_you_ecodesign_your_apps/)
+- [TypeAlias Show Livestream: Kotlin Roadmap, Multi-Cursors, and More](https://www.reddit.com/r/androiddev/comments/1fjvtoe/typealias_show_livestream_kotlin_roadmap/)
+- [Releasing an &quot;early&quot; version](https://www.reddit.com/r/androiddev/comments/1fjuj1g/releasing_an_early_version/)
+- [How to test NFC cards on android without having the physical Cards?](https://www.reddit.com/r/androiddev/comments/1fjs2hf/how_to_test_nfc_cards_on_android_without_having/)
+- [RxJava to Kotlin Coroutines: The Ultimate Migration Guide](https://www.reddit.com/r/androiddev/comments/1fjpouo/rxjava_to_kotlin_coroutines_the_ultimate/)
+- [Should you write unit tests for your CRUD repo methods?](https://www.reddit.com/r/androiddev/comments/1fjnkj2/should_you_write_unit_tests_for_your_crud_repo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
