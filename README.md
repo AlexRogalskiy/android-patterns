@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hear Me Out — Kdux: a better Redux for modern Kotlin](https://www.reddit.com/r/androiddev/comments/1fkyir1/hear_me_out_kdux_a_better_redux_for_modern_kotlin/)
+- [Got contacted by rounds.com to sell my App](https://www.reddit.com/r/androiddev/comments/1fkoqvz/got_contacted_by_roundscom_to_sell_my_app/)
+- [Cellular network affects socket read_buffer_size of WiFi connections](https://www.reddit.com/r/androiddev/comments/1fknl99/cellular_network_affects_socket_read_buffer_size/)
+- [Design Server-Driven UI with Jetpack Compose and Firebase](https://www.reddit.com/r/androiddev/comments/1fkl7d4/design_serverdriven_ui_with_jetpack_compose_and/)
+- [Handle new line &lpar;\n&rpar; in SpannableString or Html.fromHtml !](https://www.reddit.com/r/androiddev/comments/1fkj91v/handle_new_line_n_in_spannablestring_or/)
+- [Introducing CLIP-Android: Run Inference on OpenAI&#39;s CLIP, fully on-device &lpar;using clip.cpp&rpar;](https://www.reddit.com/r/androiddev/comments/1fkic0u/introducing_clipandroid_run_inference_on_openais/)
+- [Lesson learned from submitting 4 apps to Play &amp; App Store: 3 Published 1 Suspended](https://www.reddit.com/r/androiddev/comments/1fkf40i/lesson_learned_from_submitting_4_apps_to_play_app/)
 - [How do we customize long press actions on push notification](https://www.reddit.com/r/androiddev/comments/1fk68j3/how_do_we_customize_long_press_actions_on_push/)
 - [To guys working on medium to large scale Android codebase...](https://www.reddit.com/r/androiddev/comments/1fk3m3y/to_guys_working_on_medium_to_large_scale_android/)
-- [Building an Android Game Using Web3 &lpar;But You Won’t Know It’s There&rpar;](https://www.reddit.com/r/androiddev/comments/1fk1beu/building_an_android_game_using_web3_but_you_wont/)
 - [The emulator process for AVD has terminated](https://www.reddit.com/r/androiddev/comments/1fjznbs/the_emulator_process_for_avd_has_terminated/)
-- [Do you ecodesign your apps?](https://www.reddit.com/r/androiddev/comments/1fjyj79/do_you_ecodesign_your_apps/)
-- [TypeAlias Show Livestream: Kotlin Roadmap, Multi-Cursors, and More](https://www.reddit.com/r/androiddev/comments/1fjvtoe/typealias_show_livestream_kotlin_roadmap/)
-- [Releasing an &quot;early&quot; version](https://www.reddit.com/r/androiddev/comments/1fjuj1g/releasing_an_early_version/)
-- [How to test NFC cards on android without having the physical Cards?](https://www.reddit.com/r/androiddev/comments/1fjs2hf/how_to_test_nfc_cards_on_android_without_having/)
-- [RxJava to Kotlin Coroutines: The Ultimate Migration Guide](https://www.reddit.com/r/androiddev/comments/1fjpouo/rxjava_to_kotlin_coroutines_the_ultimate/)
-- [Should you write unit tests for your CRUD repo methods?](https://www.reddit.com/r/androiddev/comments/1fjnkj2/should_you_write_unit_tests_for_your_crud_repo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
