@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hear Me Out — Kdux: a better Redux for modern Kotlin](https://www.reddit.com/r/androiddev/comments/1fkyir1/hear_me_out_kdux_a_better_redux_for_modern_kotlin/)
-- [Got contacted by rounds.com to sell my App](https://www.reddit.com/r/androiddev/comments/1fkoqvz/got_contacted_by_roundscom_to_sell_my_app/)
-- [Cellular network affects socket read_buffer_size of WiFi connections](https://www.reddit.com/r/androiddev/comments/1fknl99/cellular_network_affects_socket_read_buffer_size/)
-- [Design Server-Driven UI with Jetpack Compose and Firebase](https://www.reddit.com/r/androiddev/comments/1fkl7d4/design_serverdriven_ui_with_jetpack_compose_and/)
-- [Handle new line &lpar;\n&rpar; in SpannableString or Html.fromHtml !](https://www.reddit.com/r/androiddev/comments/1fkj91v/handle_new_line_n_in_spannablestring_or/)
-- [Introducing CLIP-Android: Run Inference on OpenAI&#39;s CLIP, fully on-device &lpar;using clip.cpp&rpar;](https://www.reddit.com/r/androiddev/comments/1fkic0u/introducing_clipandroid_run_inference_on_openais/)
-- [Lesson learned from submitting 4 apps to Play &amp; App Store: 3 Published 1 Suspended](https://www.reddit.com/r/androiddev/comments/1fkf40i/lesson_learned_from_submitting_4_apps_to_play_app/)
-- [How do we customize long press actions on push notification](https://www.reddit.com/r/androiddev/comments/1fk68j3/how_do_we_customize_long_press_actions_on_push/)
-- [To guys working on medium to large scale Android codebase...](https://www.reddit.com/r/androiddev/comments/1fk3m3y/to_guys_working_on_medium_to_large_scale_android/)
-- [The emulator process for AVD has terminated](https://www.reddit.com/r/androiddev/comments/1fjznbs/the_emulator_process_for_avd_has_terminated/)
+- [Gradle Build Error](https://www.reddit.com/r/androiddev/comments/1flpd93/gradle_build_error/)
+- [Beware &quot;rounds.com&quot;! This is a sham company that will ruin your reputation and likely any associated accounts.](https://www.reddit.com/r/androiddev/comments/1flhzjc/beware_roundscom_this_is_a_sham_company_that_will/)
+- [Is Android broken or am I out of touch?](https://www.reddit.com/r/androiddev/comments/1flhweh/is_android_broken_or_am_i_out_of_touch/)
+- [My experince migrating my open source App to Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1fldey3/my_experince_migrating_my_open_source_app_to/)
+- [Loading Initial Data on Android Part 2: Clear All Your Doubts](https://www.reddit.com/r/androiddev/comments/1flcpo6/loading_initial_data_on_android_part_2_clear_all/)
+- [Sharing verification tip](https://www.reddit.com/r/androiddev/comments/1fl96qk/sharing_verification_tip/)
+- [New Android Studio UI doesn&#39;t show a tool tip](https://www.reddit.com/r/androiddev/comments/1fl7fee/new_android_studio_ui_doesnt_show_a_tool_tip/)
+- [Account suspended due to Identity Verification](https://www.reddit.com/r/androiddev/comments/1fl7bka/account_suspended_due_to_identity_verification/)
+- [Is it common to use visible/invisible instead of using fragment?](https://www.reddit.com/r/androiddev/comments/1fl5ssn/is_it_common_to_use_visibleinvisible_instead_of/)
+- [Expand and collapse LazyColumn items with animation in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fl4dh0/expand_and_collapse_lazycolumn_items_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
