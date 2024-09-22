@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you do viewmodels with compose and navigation?](https://www.reddit.com/r/androiddev/comments/1fmhfbc/how_do_you_do_viewmodels_with_compose_and/)
+- [Showing video on home screen of the app without any buffer](https://www.reddit.com/r/androiddev/comments/1fmgotk/showing_video_on_home_screen_of_the_app_without/)
+- [Android How to Listen to SMS Received Event](https://www.reddit.com/r/androiddev/comments/1fmbxpv/android_how_to_listen_to_sms_received_event/)
+- [Jetpack navigation destroying fragment view while navigating](https://www.reddit.com/r/androiddev/comments/1fm2tu0/jetpack_navigation_destroying_fragment_view_while/)
+- [Is storing data in a file instead of using Preferences Datastore a really bad idea?](https://www.reddit.com/r/androiddev/comments/1flyj4o/is_storing_data_in_a_file_instead_of_using/)
+- [How to print pdf directly from API without user interaction](https://www.reddit.com/r/androiddev/comments/1flvbss/how_to_print_pdf_directly_from_api_without_user/)
+- [Why r8 preferred BMW over Audi? &lpar;4 mins read&rpar;](https://www.reddit.com/r/androiddev/comments/1fluodm/why_r8_preferred_bmw_over_audi_4_mins_read/)
+- [Third party libs](https://www.reddit.com/r/androiddev/comments/1flt7s3/third_party_libs/)
+- [Subscription Payments for Mobile App and Web App](https://www.reddit.com/r/androiddev/comments/1flt612/subscription_payments_for_mobile_app_and_web_app/)
 - [Gradle Build Error](https://www.reddit.com/r/androiddev/comments/1flpd93/gradle_build_error/)
-- [Beware &quot;rounds.com&quot;! This is a sham company that will ruin your reputation and likely any associated accounts.](https://www.reddit.com/r/androiddev/comments/1flhzjc/beware_roundscom_this_is_a_sham_company_that_will/)
-- [Is Android broken or am I out of touch?](https://www.reddit.com/r/androiddev/comments/1flhweh/is_android_broken_or_am_i_out_of_touch/)
-- [My experince migrating my open source App to Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1fldey3/my_experince_migrating_my_open_source_app_to/)
-- [Loading Initial Data on Android Part 2: Clear All Your Doubts](https://www.reddit.com/r/androiddev/comments/1flcpo6/loading_initial_data_on_android_part_2_clear_all/)
-- [Sharing verification tip](https://www.reddit.com/r/androiddev/comments/1fl96qk/sharing_verification_tip/)
-- [New Android Studio UI doesn&#39;t show a tool tip](https://www.reddit.com/r/androiddev/comments/1fl7fee/new_android_studio_ui_doesnt_show_a_tool_tip/)
-- [Account suspended due to Identity Verification](https://www.reddit.com/r/androiddev/comments/1fl7bka/account_suspended_due_to_identity_verification/)
-- [Is it common to use visible/invisible instead of using fragment?](https://www.reddit.com/r/androiddev/comments/1fl5ssn/is_it_common_to_use_visibleinvisible_instead_of/)
-- [Expand and collapse LazyColumn items with animation in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fl4dh0/expand_and_collapse_lazycolumn_items_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
