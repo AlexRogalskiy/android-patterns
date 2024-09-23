@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you do viewmodels with compose and navigation?](https://www.reddit.com/r/androiddev/comments/1fmhfbc/how_do_you_do_viewmodels_with_compose_and/)
-- [Showing video on home screen of the app without any buffer](https://www.reddit.com/r/androiddev/comments/1fmgotk/showing_video_on_home_screen_of_the_app_without/)
-- [Android How to Listen to SMS Received Event](https://www.reddit.com/r/androiddev/comments/1fmbxpv/android_how_to_listen_to_sms_received_event/)
-- [Jetpack navigation destroying fragment view while navigating](https://www.reddit.com/r/androiddev/comments/1fm2tu0/jetpack_navigation_destroying_fragment_view_while/)
-- [Is storing data in a file instead of using Preferences Datastore a really bad idea?](https://www.reddit.com/r/androiddev/comments/1flyj4o/is_storing_data_in_a_file_instead_of_using/)
-- [How to print pdf directly from API without user interaction](https://www.reddit.com/r/androiddev/comments/1flvbss/how_to_print_pdf_directly_from_api_without_user/)
-- [Why r8 preferred BMW over Audi? &lpar;4 mins read&rpar;](https://www.reddit.com/r/androiddev/comments/1fluodm/why_r8_preferred_bmw_over_audi_4_mins_read/)
-- [Third party libs](https://www.reddit.com/r/androiddev/comments/1flt7s3/third_party_libs/)
-- [Subscription Payments for Mobile App and Web App](https://www.reddit.com/r/androiddev/comments/1flt612/subscription_payments_for_mobile_app_and_web_app/)
-- [Gradle Build Error](https://www.reddit.com/r/androiddev/comments/1flpd93/gradle_build_error/)
+- [Seeking Feedback on My First App - A Tip Calculator with Currency Conversion](https://www.reddit.com/r/androiddev/comments/1fn7636/seeking_feedback_on_my_first_app_a_tip_calculator/)
+- [[Java Question] How to add a string to a spinner&#39;s list of options without going into the xml?](https://www.reddit.com/r/androiddev/comments/1fn6f39/java_question_how_to_add_a_string_to_a_spinners/)
+- [Understanding the complexities of MVVM with jetpack](https://www.reddit.com/r/androiddev/comments/1fn5ilr/understanding_the_complexities_of_mvvm_with/)
+- [Animation and Masking in Jetpack Compose with the grahpicsLayer&lpar;&rpar; and Drawing Modifiers](https://www.reddit.com/r/androiddev/comments/1fn41sb/animation_and_masking_in_jetpack_compose_with_the/)
+- [Updates to the Google Photos API: Read-Only Scopes Deprecated](https://www.reddit.com/r/androiddev/comments/1fn2x07/updates_to_the_google_photos_api_readonly_scopes/)
+- [[Question] How to retrieve String from EditText and add it to an array in another activity?](https://www.reddit.com/r/androiddev/comments/1fn09n7/question_how_to_retrieve_string_from_edittext_and/)
+- [Share TopAppBar Across Screens with Dynamic Content and Actions — Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fmu10l/share_topappbar_across_screens_with_dynamic/)
+- [Frustrated with 1 star reviews complaining about app&#39;s freemium model?](https://www.reddit.com/r/androiddev/comments/1fmtzts/frustrated_with_1_star_reviews_complaining_about/)
+- [Where to find animated backgrounds for app](https://www.reddit.com/r/androiddev/comments/1fmr79k/where_to_find_animated_backgrounds_for_app/)
+- [Need help in restoring screen from where I left off](https://www.reddit.com/r/androiddev/comments/1fmqzir/need_help_in_restoring_screen_from_where_i_left/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
