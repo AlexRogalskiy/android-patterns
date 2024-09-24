@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Seeking Feedback on My First App - A Tip Calculator with Currency Conversion](https://www.reddit.com/r/androiddev/comments/1fn7636/seeking_feedback_on_my_first_app_a_tip_calculator/)
-- [[Java Question] How to add a string to a spinner&#39;s list of options without going into the xml?](https://www.reddit.com/r/androiddev/comments/1fn6f39/java_question_how_to_add_a_string_to_a_spinners/)
-- [Understanding the complexities of MVVM with jetpack](https://www.reddit.com/r/androiddev/comments/1fn5ilr/understanding_the_complexities_of_mvvm_with/)
-- [Animation and Masking in Jetpack Compose with the grahpicsLayer&lpar;&rpar; and Drawing Modifiers](https://www.reddit.com/r/androiddev/comments/1fn41sb/animation_and_masking_in_jetpack_compose_with_the/)
-- [Updates to the Google Photos API: Read-Only Scopes Deprecated](https://www.reddit.com/r/androiddev/comments/1fn2x07/updates_to_the_google_photos_api_readonly_scopes/)
-- [[Question] How to retrieve String from EditText and add it to an array in another activity?](https://www.reddit.com/r/androiddev/comments/1fn09n7/question_how_to_retrieve_string_from_edittext_and/)
-- [Share TopAppBar Across Screens with Dynamic Content and Actions — Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fmu10l/share_topappbar_across_screens_with_dynamic/)
-- [Frustrated with 1 star reviews complaining about app&#39;s freemium model?](https://www.reddit.com/r/androiddev/comments/1fmtzts/frustrated_with_1_star_reviews_complaining_about/)
-- [Where to find animated backgrounds for app](https://www.reddit.com/r/androiddev/comments/1fmr79k/where_to_find_animated_backgrounds_for_app/)
-- [Need help in restoring screen from where I left off](https://www.reddit.com/r/androiddev/comments/1fmqzir/need_help_in_restoring_screen_from_where_i_left/)
+- [Android Emulator network issues on linux.](https://www.reddit.com/r/androiddev/comments/1fnznef/android_emulator_network_issues_on_linux/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1fnv8u6/android_studio_ladybug_feature_drop_202422_canary/)
+- [Missing Playstore in Android Virtual Machine in Android Studio](https://www.reddit.com/r/androiddev/comments/1fnq2a4/missing_playstore_in_android_virtual_machine_in/)
+- [Android Studio Ladybug | 2024.2.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1fnpea0/android_studio_ladybug_202421_rc_1_now_available/)
+- [Github Packages repository annotation processor not generating files at compile time/runtime](https://www.reddit.com/r/androiddev/comments/1fnolna/github_packages_repository_annotation_processor/)
+- [How to call android services from native code C++](https://www.reddit.com/r/androiddev/comments/1fnnk9r/how_to_call_android_services_from_native_code_c/)
+- [Valfi - Spotify Album Tracker](https://www.reddit.com/r/androiddev/comments/1fnhja4/valfi_spotify_album_tracker/)
+- [🚀 MEET INSPEKTIFY: KMP network inspection library 🚀](https://www.reddit.com/r/androiddev/comments/1fngyhy/meet_inspektify_kmp_network_inspection_library/)
+- [Upgrading from SDK from 33 to 34 do I need to do Libraries as well ?](https://www.reddit.com/r/androiddev/comments/1fne9of/upgrading_from_sdk_from_33_to_34_do_i_need_to_do/)
+- [Photo and video permission form is up](https://www.reddit.com/r/androiddev/comments/1fndhor/photo_and_video_permission_form_is_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
