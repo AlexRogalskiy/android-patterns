@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What simple function took you the longest to build?](https://www.reddit.com/r/androiddev/comments/1fop6w7/what_simple_function_took_you_the_longest_to_build/)
+- [Kotlin JVM args: Inheritance &amp; Defaults](https://www.reddit.com/r/androiddev/comments/1foivm8/kotlin_jvm_args_inheritance_defaults/)
+- [How to Allocate More Than 8GB RAM for Android Studio?](https://www.reddit.com/r/androiddev/comments/1foidk2/how_to_allocate_more_than_8gb_ram_for_android/)
+- [Play Store Account Permissions - Concern](https://www.reddit.com/r/androiddev/comments/1fohb8f/play_store_account_permissions_concern/)
+- [Illustrating How Android Development Evolves Over The Years](https://www.reddit.com/r/androiddev/comments/1fog4ys/illustrating_how_android_development_evolves_over/)
+- [AR object or GLB model is completely black](https://www.reddit.com/r/androiddev/comments/1fob5bx/ar_object_or_glb_model_is_completely_black/)
+- [Metaspace in JVM Builds](https://www.reddit.com/r/androiddev/comments/1foa1fv/metaspace_in_jvm_builds/)
+- [Can&#39;t determine type for tag](https://www.reddit.com/r/androiddev/comments/1fo94sw/cant_determine_type_for_tag/)
+- [Why fullMode hates Gson so much? &lpar;with example&rpar;](https://www.reddit.com/r/androiddev/comments/1fo2e30/why_fullmode_hates_gson_so_much_with_example/)
 - [Android Emulator network issues on linux.](https://www.reddit.com/r/androiddev/comments/1fnznef/android_emulator_network_issues_on_linux/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1fnv8u6/android_studio_ladybug_feature_drop_202422_canary/)
-- [Missing Playstore in Android Virtual Machine in Android Studio](https://www.reddit.com/r/androiddev/comments/1fnq2a4/missing_playstore_in_android_virtual_machine_in/)
-- [Android Studio Ladybug | 2024.2.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1fnpea0/android_studio_ladybug_202421_rc_1_now_available/)
-- [Github Packages repository annotation processor not generating files at compile time/runtime](https://www.reddit.com/r/androiddev/comments/1fnolna/github_packages_repository_annotation_processor/)
-- [How to call android services from native code C++](https://www.reddit.com/r/androiddev/comments/1fnnk9r/how_to_call_android_services_from_native_code_c/)
-- [Valfi - Spotify Album Tracker](https://www.reddit.com/r/androiddev/comments/1fnhja4/valfi_spotify_album_tracker/)
-- [🚀 MEET INSPEKTIFY: KMP network inspection library 🚀](https://www.reddit.com/r/androiddev/comments/1fngyhy/meet_inspektify_kmp_network_inspection_library/)
-- [Upgrading from SDK from 33 to 34 do I need to do Libraries as well ?](https://www.reddit.com/r/androiddev/comments/1fne9of/upgrading_from_sdk_from_33_to_34_do_i_need_to_do/)
-- [Photo and video permission form is up](https://www.reddit.com/r/androiddev/comments/1fndhor/photo_and_video_permission_form_is_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
