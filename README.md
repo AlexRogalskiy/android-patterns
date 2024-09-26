@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where should I host my Wallpaper App?](https://www.reddit.com/r/androiddev/comments/1fpilrn/where_should_i_host_my_wallpaper_app/)
+- [Which comes first...](https://www.reddit.com/r/androiddev/comments/1fpi5jw/which_comes_first/)
+- [disabling the USB mouse hover click event](https://www.reddit.com/r/androiddev/comments/1fphu1j/disabling_the_usb_mouse_hover_click_event/)
+- [minifyEnabled duplicate class for Dynamic feature module](https://www.reddit.com/r/androiddev/comments/1fpfa2n/minifyenabled_duplicate_class_for_dynamic_feature/)
+- [Koin 4.0 Release Note](https://www.reddit.com/r/androiddev/comments/1fpdguu/koin_40_release_note/)
+- [How to redirect outgoing incoming calls via mmi codes](https://www.reddit.com/r/androiddev/comments/1fp6s33/how_to_redirect_outgoing_incoming_calls_via_mmi/)
+- [Rendering the Java heap as a Treemap](https://www.reddit.com/r/androiddev/comments/1fp0e5j/rendering_the_java_heap_as_a_treemap/)
+- [How to change the color of TimePicker&#39;s colon?](https://www.reddit.com/r/androiddev/comments/1foz36x/how_to_change_the_color_of_timepickers_colon/)
 - [What simple function took you the longest to build?](https://www.reddit.com/r/androiddev/comments/1fop6w7/what_simple_function_took_you_the_longest_to_build/)
 - [Kotlin JVM args: Inheritance &amp; Defaults](https://www.reddit.com/r/androiddev/comments/1foivm8/kotlin_jvm_args_inheritance_defaults/)
-- [How to Allocate More Than 8GB RAM for Android Studio?](https://www.reddit.com/r/androiddev/comments/1foidk2/how_to_allocate_more_than_8gb_ram_for_android/)
-- [Play Store Account Permissions - Concern](https://www.reddit.com/r/androiddev/comments/1fohb8f/play_store_account_permissions_concern/)
-- [Illustrating How Android Development Evolves Over The Years](https://www.reddit.com/r/androiddev/comments/1fog4ys/illustrating_how_android_development_evolves_over/)
-- [AR object or GLB model is completely black](https://www.reddit.com/r/androiddev/comments/1fob5bx/ar_object_or_glb_model_is_completely_black/)
-- [Metaspace in JVM Builds](https://www.reddit.com/r/androiddev/comments/1foa1fv/metaspace_in_jvm_builds/)
-- [Can&#39;t determine type for tag](https://www.reddit.com/r/androiddev/comments/1fo94sw/cant_determine_type_for_tag/)
-- [Why fullMode hates Gson so much? &lpar;with example&rpar;](https://www.reddit.com/r/androiddev/comments/1fo2e30/why_fullmode_hates_gson_so_much_with_example/)
-- [Android Emulator network issues on linux.](https://www.reddit.com/r/androiddev/comments/1fnznef/android_emulator_network_issues_on_linux/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
