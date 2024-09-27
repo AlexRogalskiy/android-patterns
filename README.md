@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where should I host my Wallpaper App?](https://www.reddit.com/r/androiddev/comments/1fpilrn/where_should_i_host_my_wallpaper_app/)
-- [Which comes first...](https://www.reddit.com/r/androiddev/comments/1fpi5jw/which_comes_first/)
-- [disabling the USB mouse hover click event](https://www.reddit.com/r/androiddev/comments/1fphu1j/disabling_the_usb_mouse_hover_click_event/)
-- [minifyEnabled duplicate class for Dynamic feature module](https://www.reddit.com/r/androiddev/comments/1fpfa2n/minifyenabled_duplicate_class_for_dynamic_feature/)
-- [Koin 4.0 Release Note](https://www.reddit.com/r/androiddev/comments/1fpdguu/koin_40_release_note/)
-- [How to redirect outgoing incoming calls via mmi codes](https://www.reddit.com/r/androiddev/comments/1fp6s33/how_to_redirect_outgoing_incoming_calls_via_mmi/)
-- [Rendering the Java heap as a Treemap](https://www.reddit.com/r/androiddev/comments/1fp0e5j/rendering_the_java_heap_as_a_treemap/)
-- [How to change the color of TimePicker&#39;s colon?](https://www.reddit.com/r/androiddev/comments/1foz36x/how_to_change_the_color_of_timepickers_colon/)
-- [What simple function took you the longest to build?](https://www.reddit.com/r/androiddev/comments/1fop6w7/what_simple_function_took_you_the_longest_to_build/)
-- [Kotlin JVM args: Inheritance &amp; Defaults](https://www.reddit.com/r/androiddev/comments/1foivm8/kotlin_jvm_args_inheritance_defaults/)
+- [Music apps are some of the most interesting to develop](https://www.reddit.com/r/androiddev/comments/1fqbwsm/music_apps_are_some_of_the_most_interesting_to/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1fqbv9l/android_studio_ladybug_feature_drop_202422_canary/)
+- [Our Android App is Frozen in Carbonite](https://www.reddit.com/r/androiddev/comments/1fqabna/our_android_app_is_frozen_in_carbonite/)
+- [Looking for an Experienced Android Developer for a Movie/Anime/Book Tracker Startup!](https://www.reddit.com/r/androiddev/comments/1fq0r6r/looking_for_an_experienced_android_developer_for/)
+- [Connecting to Azure mssql Database in Android Studio](https://www.reddit.com/r/androiddev/comments/1fpz0z2/connecting_to_azure_mssql_database_in_android/)
+- [Mobile dev teams are second class citizens, but not on purpose](https://www.reddit.com/r/androiddev/comments/1fpy4y7/mobile_dev_teams_are_second_class_citizens_but/)
+- [R8 marking layout files are marked as unreachable](https://www.reddit.com/r/androiddev/comments/1fpxmfs/r8_marking_layout_files_are_marked_as_unreachable/)
+- [Wear os emulator synthetic data](https://www.reddit.com/r/androiddev/comments/1fpv6qi/wear_os_emulator_synthetic_data/)
+- [How to detect mock location app configured in Developer Mode?](https://www.reddit.com/r/androiddev/comments/1fpu2ez/how_to_detect_mock_location_app_configured_in/)
+- [Problem with ACTION_VIDEO_CAPTURE and EXTRA_DURATION_LIMIT](https://www.reddit.com/r/androiddev/comments/1fpsont/problem_with_action_video_capture_and_extra/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
