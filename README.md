@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;m trying to develop android apps with permissions implemented but nothing is showing.](https://www.reddit.com/r/androiddev/comments/1fr24is/im_trying_to_develop_android_apps_with/)
+- [Looking for a feature/plugin in AS that will show variable values without me having to go to source](https://www.reddit.com/r/androiddev/comments/1fqvu3u/looking_for_a_featureplugin_in_as_that_will_show/)
+- [Is swipe the app up from recent is a form of User Initiated process death?](https://www.reddit.com/r/androiddev/comments/1fqs3k9/is_swipe_the_app_up_from_recent_is_a_form_of_user/)
+- [Getting this weird render problem while trying to complete the Android Studio Course](https://www.reddit.com/r/androiddev/comments/1fqo30a/getting_this_weird_render_problem_while_trying_to/)
+- [Update: Google tested a pre-alpha, pre-release version of Audio Forge and then banned it - Here&#39;s what happened](https://www.reddit.com/r/androiddev/comments/1fqnyx9/update_google_tested_a_prealpha_prerelease/)
+- [Any wrapper library that adds abstraction layer for in-app purchases in Google Play, AppGallery &amp; Getapps?](https://www.reddit.com/r/androiddev/comments/1fqiirz/any_wrapper_library_that_adds_abstraction_layer/)
+- [I Build Phone Link / Link to Windows Alternative without all the brand preference and microsoft axed it](https://www.reddit.com/r/androiddev/comments/1fqg1af/i_build_phone_link_link_to_windows_alternative/)
+- [Is Material Design Making All Android Apps Look the Same?](https://www.reddit.com/r/androiddev/comments/1fqfe60/is_material_design_making_all_android_apps_look/)
 - [Music apps are some of the most interesting to develop](https://www.reddit.com/r/androiddev/comments/1fqbwsm/music_apps_are_some_of_the_most_interesting_to/)
 - [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1fqbv9l/android_studio_ladybug_feature_drop_202422_canary/)
-- [Our Android App is Frozen in Carbonite](https://www.reddit.com/r/androiddev/comments/1fqabna/our_android_app_is_frozen_in_carbonite/)
-- [Looking for an Experienced Android Developer for a Movie/Anime/Book Tracker Startup!](https://www.reddit.com/r/androiddev/comments/1fq0r6r/looking_for_an_experienced_android_developer_for/)
-- [Connecting to Azure mssql Database in Android Studio](https://www.reddit.com/r/androiddev/comments/1fpz0z2/connecting_to_azure_mssql_database_in_android/)
-- [Mobile dev teams are second class citizens, but not on purpose](https://www.reddit.com/r/androiddev/comments/1fpy4y7/mobile_dev_teams_are_second_class_citizens_but/)
-- [R8 marking layout files are marked as unreachable](https://www.reddit.com/r/androiddev/comments/1fpxmfs/r8_marking_layout_files_are_marked_as_unreachable/)
-- [Wear os emulator synthetic data](https://www.reddit.com/r/androiddev/comments/1fpv6qi/wear_os_emulator_synthetic_data/)
-- [How to detect mock location app configured in Developer Mode?](https://www.reddit.com/r/androiddev/comments/1fpu2ez/how_to_detect_mock_location_app_configured_in/)
-- [Problem with ACTION_VIDEO_CAPTURE and EXTRA_DURATION_LIMIT](https://www.reddit.com/r/androiddev/comments/1fpsont/problem_with_action_video_capture_and_extra/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
