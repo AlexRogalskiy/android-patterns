@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [java.lang.RuntimeException: Unable to instantiate activity ComponentInfo{com.example.testapp/com.example.testapp.MainActivity}: java.lang.ClassNotFoundException](https://www.reddit.com/r/androiddev/comments/1frokzx/javalangruntimeexception_unable_to_instantiate/)
-- [Understanding of Kotlin Flow and Its Key Features](https://www.reddit.com/r/androiddev/comments/1frlngr/understanding_of_kotlin_flow_and_its_key_features/)
-- [Understanding Internals of Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fre13t/understanding_internals_of_jetpack_compose/)
-- [Can I use the same email for both an organization and personal Google Play Developer account?](https://www.reddit.com/r/androiddev/comments/1frb1ef/can_i_use_the_same_email_for_both_an_organization/)
-- [Looking for a feature/plugin in AS that will show variable values without me having to go to source](https://www.reddit.com/r/androiddev/comments/1fqvu3u/looking_for_a_featureplugin_in_as_that_will_show/)
-- [Is swipe the app up from recent is a form of User Initiated process death?](https://www.reddit.com/r/androiddev/comments/1fqs3k9/is_swipe_the_app_up_from_recent_is_a_form_of_user/)
-- [Getting this weird render problem while trying to complete the Android Studio Course](https://www.reddit.com/r/androiddev/comments/1fqo30a/getting_this_weird_render_problem_while_trying_to/)
-- [Update: Google tested a pre-alpha, pre-release version of Audio Forge and then banned it - Here&#39;s what happened](https://www.reddit.com/r/androiddev/comments/1fqnyx9/update_google_tested_a_prealpha_prerelease/)
-- [Any wrapper library that adds abstraction layer for in-app purchases in Google Play, AppGallery &amp; Getapps?](https://www.reddit.com/r/androiddev/comments/1fqiirz/any_wrapper_library_that_adds_abstraction_layer/)
-- [I Build Phone Link / Link to Windows Alternative without all the brand preference and microsoft axed it](https://www.reddit.com/r/androiddev/comments/1fqg1af/i_build_phone_link_link_to_windows_alternative/)
+- [Emulator Stuck on &quot;Starting Up&quot; in Android Studio &lpar;Kotlin&rpar; – Tried Multiple Solutions, Still Not Working](https://www.reddit.com/r/androiddev/comments/1fshhfa/emulator_stuck_on_starting_up_in_android_studio/)
+- [Is it just me, or is Google’s approach to navigation events broken?](https://www.reddit.com/r/androiddev/comments/1fshctx/is_it_just_me_or_is_googles_approach_to/)
+- [Are there any recognised Android Developer Certifications these days?](https://www.reddit.com/r/androiddev/comments/1fsettz/are_there_any_recognised_android_developer/)
+- [smyrgeorge/sqlx4k: A high-performance Kotlin Native database driver for PostgreSQL, MySQL, and SQLite.](https://www.reddit.com/r/androiddev/comments/1fsct9z/smyrgeorgesqlx4k_a_highperformance_kotlin_native/)
+- [Need to know something about my app](https://www.reddit.com/r/androiddev/comments/1fsblkk/need_to_know_something_about_my_app/)
+- [Can somebody explain why normal production users are being offered to &quot;Join Beta&quot; and why I have 81 testers in Open Testing? O_o](https://www.reddit.com/r/androiddev/comments/1fsbepr/can_somebody_explain_why_normal_production_users/)
+- [Kotlin 2.0.20: Key Updates for Android Developers](https://www.reddit.com/r/androiddev/comments/1fs58qr/kotlin_2020_key_updates_for_android_developers/)
+- [Which are the most popular blogs?](https://www.reddit.com/r/androiddev/comments/1fs19vc/which_are_the_most_popular_blogs/)
+- [How to display exoplayer only when video is fully loaded and is playing?](https://www.reddit.com/r/androiddev/comments/1frzm13/how_to_display_exoplayer_only_when_video_is_fully/)
+- [State Management in Android Compose: mutableState, remember](https://www.reddit.com/r/androiddev/comments/1frz1kb/state_management_in_android_compose_mutablestate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
