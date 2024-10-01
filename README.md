@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Emulator Stuck on &quot;Starting Up&quot; in Android Studio &lpar;Kotlin&rpar; – Tried Multiple Solutions, Still Not Working](https://www.reddit.com/r/androiddev/comments/1fshhfa/emulator_stuck_on_starting_up_in_android_studio/)
-- [Is it just me, or is Google’s approach to navigation events broken?](https://www.reddit.com/r/androiddev/comments/1fshctx/is_it_just_me_or_is_googles_approach_to/)
-- [Are there any recognised Android Developer Certifications these days?](https://www.reddit.com/r/androiddev/comments/1fsettz/are_there_any_recognised_android_developer/)
-- [smyrgeorge/sqlx4k: A high-performance Kotlin Native database driver for PostgreSQL, MySQL, and SQLite.](https://www.reddit.com/r/androiddev/comments/1fsct9z/smyrgeorgesqlx4k_a_highperformance_kotlin_native/)
-- [Need to know something about my app](https://www.reddit.com/r/androiddev/comments/1fsblkk/need_to_know_something_about_my_app/)
-- [Can somebody explain why normal production users are being offered to &quot;Join Beta&quot; and why I have 81 testers in Open Testing? O_o](https://www.reddit.com/r/androiddev/comments/1fsbepr/can_somebody_explain_why_normal_production_users/)
-- [Kotlin 2.0.20: Key Updates for Android Developers](https://www.reddit.com/r/androiddev/comments/1fs58qr/kotlin_2020_key_updates_for_android_developers/)
-- [Which are the most popular blogs?](https://www.reddit.com/r/androiddev/comments/1fs19vc/which_are_the_most_popular_blogs/)
-- [How to display exoplayer only when video is fully loaded and is playing?](https://www.reddit.com/r/androiddev/comments/1frzm13/how_to_display_exoplayer_only_when_video_is_fully/)
-- [State Management in Android Compose: mutableState, remember](https://www.reddit.com/r/androiddev/comments/1frz1kb/state_management_in_android_compose_mutablestate/)
+- [Jetpack Compose tutorial that covers Canvas, animations, gestures, custom Layouts, Modifiers, material widgets and much more i have been working about 4 years](https://www.reddit.com/r/androiddev/comments/1ft48rr/jetpack_compose_tutorial_that_covers_canvas/)
+- [Fixed aspect ratio with OpenGL?](https://www.reddit.com/r/androiddev/comments/1ft3qll/fixed_aspect_ratio_with_opengl/)
+- [Composition Local provider](https://www.reddit.com/r/androiddev/comments/1ft36ol/composition_local_provider/)
+- [Bluetooth Headset in Android](https://www.reddit.com/r/androiddev/comments/1ft283h/bluetooth_headset_in_android/)
+- [evas 1.0.0 released](https://www.reddit.com/r/androiddev/comments/1fsxia4/evas_100_released/)
+- [App Architecture: Placement of Business Logic](https://www.reddit.com/r/androiddev/comments/1fsv9lg/app_architecture_placement_of_business_logic/)
+- [Has anyone had repeat issues with App Submission due to the FOREGROUND_SERVICE permission?](https://www.reddit.com/r/androiddev/comments/1fsuii4/has_anyone_had_repeat_issues_with_app_submission/)
+- [Folks on X liked it so i&#39;m sharing it here too: Scrollbars for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fsu5pf/folks_on_x_liked_it_so_im_sharing_it_here_too/)
+- [Type-Safe Navigation in Jetpack Compose with Jetpack Navigation 2.8.0](https://www.reddit.com/r/androiddev/comments/1fsq3ko/typesafe_navigation_in_jetpack_compose_with/)
+- [Looking for a solution to pass prerecorded wav sample as input of Emulator Virtual mic](https://www.reddit.com/r/androiddev/comments/1fsndrh/looking_for_a_solution_to_pass_prerecorded_wav/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
