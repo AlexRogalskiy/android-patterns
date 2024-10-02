@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Suspended app, do i need 20 testers again?](https://www.reddit.com/r/androiddev/comments/1ftv35g/suspended_app_do_i_need_20_testers_again/)
+- [Android Studio Ladybug | 2024.2.1 now available](https://www.reddit.com/r/androiddev/comments/1ftujjn/android_studio_ladybug_202421_now_available/)
+- [A good app publishing tutorial?](https://www.reddit.com/r/androiddev/comments/1ftueod/a_good_app_publishing_tutorial/)
+- [Texty: A Jetpack Compose Library for Beautiful Text display styles](https://www.reddit.com/r/androiddev/comments/1ftpoyl/texty_a_jetpack_compose_library_for_beautiful/)
+- [In case you missed this X post from the Kotlin team](https://www.reddit.com/r/androiddev/comments/1fto8a3/in_case_you_missed_this_x_post_from_the_kotlin/)
+- [Observing packets regardless of connection type &lpar;wifi/cellular&rpar;](https://www.reddit.com/r/androiddev/comments/1ftj30f/observing_packets_regardless_of_connection_type/)
+- [FCM with Android Studio, Debug Builds, and Emulators](https://www.reddit.com/r/androiddev/comments/1fthqxm/fcm_with_android_studio_debug_builds_and_emulators/)
 - [Jetpack Compose tutorial that covers Canvas, animations, gestures, custom Layouts, Modifiers, material widgets and much more i have been working about 4 years](https://www.reddit.com/r/androiddev/comments/1ft48rr/jetpack_compose_tutorial_that_covers_canvas/)
 - [Fixed aspect ratio with OpenGL?](https://www.reddit.com/r/androiddev/comments/1ft3qll/fixed_aspect_ratio_with_opengl/)
 - [Composition Local provider](https://www.reddit.com/r/androiddev/comments/1ft36ol/composition_local_provider/)
-- [Bluetooth Headset in Android](https://www.reddit.com/r/androiddev/comments/1ft283h/bluetooth_headset_in_android/)
-- [evas 1.0.0 released](https://www.reddit.com/r/androiddev/comments/1fsxia4/evas_100_released/)
-- [App Architecture: Placement of Business Logic](https://www.reddit.com/r/androiddev/comments/1fsv9lg/app_architecture_placement_of_business_logic/)
-- [Has anyone had repeat issues with App Submission due to the FOREGROUND_SERVICE permission?](https://www.reddit.com/r/androiddev/comments/1fsuii4/has_anyone_had_repeat_issues_with_app_submission/)
-- [Folks on X liked it so i&#39;m sharing it here too: Scrollbars for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fsu5pf/folks_on_x_liked_it_so_im_sharing_it_here_too/)
-- [Type-Safe Navigation in Jetpack Compose with Jetpack Navigation 2.8.0](https://www.reddit.com/r/androiddev/comments/1fsq3ko/typesafe_navigation_in_jetpack_compose_with/)
-- [Looking for a solution to pass prerecorded wav sample as input of Emulator Virtual mic](https://www.reddit.com/r/androiddev/comments/1fsndrh/looking_for_a_solution_to_pass_prerecorded_wav/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
