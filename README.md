@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Suspended app, do i need 20 testers again?](https://www.reddit.com/r/androiddev/comments/1ftv35g/suspended_app_do_i_need_20_testers_again/)
-- [Android Studio Ladybug | 2024.2.1 now available](https://www.reddit.com/r/androiddev/comments/1ftujjn/android_studio_ladybug_202421_now_available/)
-- [A good app publishing tutorial?](https://www.reddit.com/r/androiddev/comments/1ftueod/a_good_app_publishing_tutorial/)
-- [Texty: A Jetpack Compose Library for Beautiful Text display styles](https://www.reddit.com/r/androiddev/comments/1ftpoyl/texty_a_jetpack_compose_library_for_beautiful/)
-- [In case you missed this X post from the Kotlin team](https://www.reddit.com/r/androiddev/comments/1fto8a3/in_case_you_missed_this_x_post_from_the_kotlin/)
-- [Observing packets regardless of connection type &lpar;wifi/cellular&rpar;](https://www.reddit.com/r/androiddev/comments/1ftj30f/observing_packets_regardless_of_connection_type/)
-- [FCM with Android Studio, Debug Builds, and Emulators](https://www.reddit.com/r/androiddev/comments/1fthqxm/fcm_with_android_studio_debug_builds_and_emulators/)
-- [Jetpack Compose tutorial that covers Canvas, animations, gestures, custom Layouts, Modifiers, material widgets and much more i have been working about 4 years](https://www.reddit.com/r/androiddev/comments/1ft48rr/jetpack_compose_tutorial_that_covers_canvas/)
-- [Fixed aspect ratio with OpenGL?](https://www.reddit.com/r/androiddev/comments/1ft3qll/fixed_aspect_ratio_with_opengl/)
-- [Composition Local provider](https://www.reddit.com/r/androiddev/comments/1ft36ol/composition_local_provider/)
+- [A quick glance at AppWidget](https://www.reddit.com/r/androiddev/comments/1fuwh5l/a_quick_glance_at_appwidget/)
+- [How to capture a whole display?](https://www.reddit.com/r/androiddev/comments/1futhbv/how_to_capture_a_whole_display/)
+- [Where the heck did import project go?](https://www.reddit.com/r/androiddev/comments/1fuqldc/where_the_heck_did_import_project_go/)
+- [What would be the best way to animate multiple objects path &lpar;translate&rpar; in this scenario? More info in comments &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1fuqbpt/what_would_be_the_best_way_to_animate_multiple/)
+- [How important are minor &quot;accessibility issues&quot; in the pre-launch report? Do they prevent a review approval?](https://www.reddit.com/r/androiddev/comments/1fuprnz/how_important_are_minor_accessibility_issues_in/)
+- [In-app Gmail send function stopped working recently?](https://www.reddit.com/r/androiddev/comments/1fupbd0/inapp_gmail_send_function_stopped_working_recently/)
+- [How would i simulate pressing the back button ? Im using voice commands to trigger the function](https://www.reddit.com/r/androiddev/comments/1fuozgw/how_would_i_simulate_pressing_the_back_button_im/)
+- [Timezone and time change actions not being received?](https://www.reddit.com/r/androiddev/comments/1fuiq0g/timezone_and_time_change_actions_not_being/)
+- [How to deploy app: Firebase App Distribution vs Play](https://www.reddit.com/r/androiddev/comments/1fuib2x/how_to_deploy_app_firebase_app_distribution_vs/)
+- [Factory Method and Abstract Factory patterns in Kotlin](https://www.reddit.com/r/androiddev/comments/1fui992/factory_method_and_abstract_factory_patterns_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
