@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A quick glance at AppWidget](https://www.reddit.com/r/androiddev/comments/1fuwh5l/a_quick_glance_at_appwidget/)
-- [How to capture a whole display?](https://www.reddit.com/r/androiddev/comments/1futhbv/how_to_capture_a_whole_display/)
-- [Where the heck did import project go?](https://www.reddit.com/r/androiddev/comments/1fuqldc/where_the_heck_did_import_project_go/)
-- [What would be the best way to animate multiple objects path &lpar;translate&rpar; in this scenario? More info in comments &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1fuqbpt/what_would_be_the_best_way_to_animate_multiple/)
-- [How important are minor &quot;accessibility issues&quot; in the pre-launch report? Do they prevent a review approval?](https://www.reddit.com/r/androiddev/comments/1fuprnz/how_important_are_minor_accessibility_issues_in/)
-- [In-app Gmail send function stopped working recently?](https://www.reddit.com/r/androiddev/comments/1fupbd0/inapp_gmail_send_function_stopped_working_recently/)
-- [How would i simulate pressing the back button ? Im using voice commands to trigger the function](https://www.reddit.com/r/androiddev/comments/1fuozgw/how_would_i_simulate_pressing_the_back_button_im/)
-- [Timezone and time change actions not being received?](https://www.reddit.com/r/androiddev/comments/1fuiq0g/timezone_and_time_change_actions_not_being/)
-- [How to deploy app: Firebase App Distribution vs Play](https://www.reddit.com/r/androiddev/comments/1fuib2x/how_to_deploy_app_firebase_app_distribution_vs/)
-- [Factory Method and Abstract Factory patterns in Kotlin](https://www.reddit.com/r/androiddev/comments/1fui992/factory_method_and_abstract_factory_patterns_in/)
+- [Creating a developer Account in 2024](https://www.reddit.com/r/androiddev/comments/1fvo3fp/creating_a_developer_account_in_2024/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1fvgpde/android_studio_ladybug_feature_drop_202422_canary/)
+- [How to Test Google Play API for Reviews Without a Published App? Looking for Advice and Help](https://www.reddit.com/r/androiddev/comments/1fvgbu8/how_to_test_google_play_api_for_reviews_without_a/)
+- [A deeper understanding of Kotlin](https://www.reddit.com/r/androiddev/comments/1fvcumd/a_deeper_understanding_of_kotlin/)
+- [Seeking for alternative encryption tools](https://www.reddit.com/r/androiddev/comments/1fvau1t/seeking_for_alternative_encryption_tools/)
+- [Sliders in Material 3 compose library are very easy to customize to your liking](https://www.reddit.com/r/androiddev/comments/1fvafot/sliders_in_material_3_compose_library_are_very/)
+- [Installed app not appearing on homescreen, and cant launch from playstore ?](https://www.reddit.com/r/androiddev/comments/1fv5qfm/installed_app_not_appearing_on_homescreen_and/)
+- [Building an in-house mobile app monitoring tool : what it takes and key considerations](https://www.reddit.com/r/androiddev/comments/1fv3d9m/building_an_inhouse_mobile_app_monitoring_tool/)
+- [Need help regarding migration from PullToRefreshContainer+Box to PullToRefreshBox in JetpackCompose](https://www.reddit.com/r/androiddev/comments/1fv33c2/need_help_regarding_migration_from/)
+- [How can I change from ladybug to koala version](https://www.reddit.com/r/androiddev/comments/1fv260c/how_can_i_change_from_ladybug_to_koala_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
