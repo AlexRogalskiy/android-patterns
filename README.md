@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Creating a developer Account in 2024](https://www.reddit.com/r/androiddev/comments/1fvo3fp/creating_a_developer_account_in_2024/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1fvgpde/android_studio_ladybug_feature_drop_202422_canary/)
-- [How to Test Google Play API for Reviews Without a Published App? Looking for Advice and Help](https://www.reddit.com/r/androiddev/comments/1fvgbu8/how_to_test_google_play_api_for_reviews_without_a/)
-- [A deeper understanding of Kotlin](https://www.reddit.com/r/androiddev/comments/1fvcumd/a_deeper_understanding_of_kotlin/)
-- [Seeking for alternative encryption tools](https://www.reddit.com/r/androiddev/comments/1fvau1t/seeking_for_alternative_encryption_tools/)
-- [Sliders in Material 3 compose library are very easy to customize to your liking](https://www.reddit.com/r/androiddev/comments/1fvafot/sliders_in_material_3_compose_library_are_very/)
-- [Installed app not appearing on homescreen, and cant launch from playstore ?](https://www.reddit.com/r/androiddev/comments/1fv5qfm/installed_app_not_appearing_on_homescreen_and/)
-- [Building an in-house mobile app monitoring tool : what it takes and key considerations](https://www.reddit.com/r/androiddev/comments/1fv3d9m/building_an_inhouse_mobile_app_monitoring_tool/)
-- [Need help regarding migration from PullToRefreshContainer+Box to PullToRefreshBox in JetpackCompose](https://www.reddit.com/r/androiddev/comments/1fv33c2/need_help_regarding_migration_from/)
-- [How can I change from ladybug to koala version](https://www.reddit.com/r/androiddev/comments/1fv260c/how_can_i_change_from_ladybug_to_koala_version/)
+- [Any way to reduce app size?](https://www.reddit.com/r/androiddev/comments/1fwcp6j/any_way_to_reduce_app_size/)
+- [Room Utilities: A KSP Annotation Processor used to backup/restore database and import/export data](https://www.reddit.com/r/androiddev/comments/1fw5iso/room_utilities_a_ksp_annotation_processor_used_to/)
+- [Updating large monorepo to AGP8/Gradle8?](https://www.reddit.com/r/androiddev/comments/1fw5a9e/updating_large_monorepo_to_agp8gradle8/)
+- [Calculate Background usage of another app](https://www.reddit.com/r/androiddev/comments/1fw4pnz/calculate_background_usage_of_another_app/)
+- [Review Instructions for In-App Subscription](https://www.reddit.com/r/androiddev/comments/1fw4kcd/review_instructions_for_inapp_subscription/)
+- [Will subscriptions auto-renew after deactivating the base plan?](https://www.reddit.com/r/androiddev/comments/1fw0g7h/will_subscriptions_autorenew_after_deactivating/)
+- [Removing supported devices](https://www.reddit.com/r/androiddev/comments/1fvzztf/removing_supported_devices/)
+- [A question about cpu architectures.](https://www.reddit.com/r/androiddev/comments/1fvujgn/a_question_about_cpu_architectures/)
+- [Android 13 File management and Permissions](https://www.reddit.com/r/androiddev/comments/1fvuhyx/android_13_file_management_and_permissions/)
+- [XSS in Android TextView](https://www.reddit.com/r/androiddev/comments/1fvtdou/xss_in_android_textview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
