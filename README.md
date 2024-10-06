@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What was, in your opinion, the best android version ever made as far as functionality, development freedom and lack of anti-features?](https://www.reddit.com/r/androiddev/comments/1fx59s4/what_was_in_your_opinion_the_best_android_version/)
+- [Handling Refunds for Consumable Items After They&#39;ve Been Used – Seeking Advice](https://www.reddit.com/r/androiddev/comments/1fwxtv6/handling_refunds_for_consumable_items_after/)
+- [Compose Multi-line TextField and older IMEs with autocorrect and duplicated text?](https://www.reddit.com/r/androiddev/comments/1fwvw96/compose_multiline_textfield_and_older_imes_with/)
+- [Issue with Firebase Continuous Deployment](https://www.reddit.com/r/androiddev/comments/1fwsdbm/issue_with_firebase_continuous_deployment/)
+- [Repairing database on the fly for millions of users](https://www.reddit.com/r/androiddev/comments/1fwly6e/repairing_database_on_the_fly_for_millions_of/)
+- [System Tracing as replacement for Battery Historian?](https://www.reddit.com/r/androiddev/comments/1fwknl8/system_tracing_as_replacement_for_battery/)
+- [Oled burn-in protection](https://www.reddit.com/r/androiddev/comments/1fwj6u6/oled_burnin_protection/)
+- [Subscriptions are being refunded.](https://www.reddit.com/r/androiddev/comments/1fwf5ul/subscriptions_are_being_refunded/)
 - [Any way to reduce app size?](https://www.reddit.com/r/androiddev/comments/1fwcp6j/any_way_to_reduce_app_size/)
 - [Room Utilities: A KSP Annotation Processor used to backup/restore database and import/export data](https://www.reddit.com/r/androiddev/comments/1fw5iso/room_utilities_a_ksp_annotation_processor_used_to/)
-- [Updating large monorepo to AGP8/Gradle8?](https://www.reddit.com/r/androiddev/comments/1fw5a9e/updating_large_monorepo_to_agp8gradle8/)
-- [Calculate Background usage of another app](https://www.reddit.com/r/androiddev/comments/1fw4pnz/calculate_background_usage_of_another_app/)
-- [Review Instructions for In-App Subscription](https://www.reddit.com/r/androiddev/comments/1fw4kcd/review_instructions_for_inapp_subscription/)
-- [Will subscriptions auto-renew after deactivating the base plan?](https://www.reddit.com/r/androiddev/comments/1fw0g7h/will_subscriptions_autorenew_after_deactivating/)
-- [Removing supported devices](https://www.reddit.com/r/androiddev/comments/1fvzztf/removing_supported_devices/)
-- [A question about cpu architectures.](https://www.reddit.com/r/androiddev/comments/1fvujgn/a_question_about_cpu_architectures/)
-- [Android 13 File management and Permissions](https://www.reddit.com/r/androiddev/comments/1fvuhyx/android_13_file_management_and_permissions/)
-- [XSS in Android TextView](https://www.reddit.com/r/androiddev/comments/1fvtdou/xss_in_android_textview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
