@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trouble resolving duplicate classes while trying to move to Androidx](https://www.reddit.com/r/androiddev/comments/1fyp65k/trouble_resolving_duplicate_classes_while_trying/)
+- [Is It Necessary to Use Multiple Fragments or Activities in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1fylktc/is_it_necessary_to_use_multiple_fragments_or/)
+- [Google must crack open Android for third-party stores, rules Epic judge](https://www.reddit.com/r/androiddev/comments/1fyhwpg/google_must_crack_open_android_for_thirdparty/)
+- [Just launched a Material Theme builder powered by my library MaterialKolor](https://www.reddit.com/r/androiddev/comments/1fycvgg/just_launched_a_material_theme_builder_powered_by/)
+- [Aggressive &lpar; Unreasonable &rpar; Deadlines vs Incompetency ?](https://www.reddit.com/r/androiddev/comments/1fy0fjd/aggressive_unreasonable_deadlines_vs_incompetency/)
+- [Favourite libraries?](https://www.reddit.com/r/androiddev/comments/1fxy0ng/favourite_libraries/)
+- [Do I have to update my removed and test apps?](https://www.reddit.com/r/androiddev/comments/1fxrws7/do_i_have_to_update_my_removed_and_test_apps/)
 - [Does kotlin flow solve for something that is already not solved before?](https://www.reddit.com/r/androiddev/comments/1fxdf0b/does_kotlin_flow_solve_for_something_that_is/)
 - [What is the easiest way to implement a simple referral program in Android App?](https://www.reddit.com/r/androiddev/comments/1fxbzsw/what_is_the_easiest_way_to_implement_a_simple/)
 - [How to debug app from android device using internet](https://www.reddit.com/r/androiddev/comments/1fxbwe8/how_to_debug_app_from_android_device_using/)
-- [Android manually finishing the activity](https://www.reddit.com/r/androiddev/comments/1fxa1d6/android_manually_finishing_the_activity/)
-- [Maintaining a button&#39;s state in a RecyclerView](https://www.reddit.com/r/androiddev/comments/1fx8dim/maintaining_a_buttons_state_in_a_recyclerview/)
-- [What was, in your opinion, the best android version ever made as far as functionality, development freedom and lack of anti-features?](https://www.reddit.com/r/androiddev/comments/1fx59s4/what_was_in_your_opinion_the_best_android_version/)
-- [Handling Refunds for Consumable Items After They&#39;ve Been Used – Seeking Advice](https://www.reddit.com/r/androiddev/comments/1fwxtv6/handling_refunds_for_consumable_items_after/)
-- [Compose Multi-line TextField and older IMEs with autocorrect and duplicated text?](https://www.reddit.com/r/androiddev/comments/1fwvw96/compose_multiline_textfield_and_older_imes_with/)
-- [Issue with Firebase Continuous Deployment](https://www.reddit.com/r/androiddev/comments/1fwsdbm/issue_with_firebase_continuous_deployment/)
-- [Repairing database on the fly for millions of users](https://www.reddit.com/r/androiddev/comments/1fwly6e/repairing_database_on_the_fly_for_millions_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
