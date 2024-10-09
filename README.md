@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LaunchedEffect Practical example!](https://www.reddit.com/r/androiddev/comments/1fz1i5e/launchedeffect_practical_example/)
+- [How many object model classes do you actually need?](https://www.reddit.com/r/androiddev/comments/1fz15hn/how_many_object_model_classes_do_you_actually_need/)
+- [Is there a ViewGroup or other way to flexibly handle a set of view layouts?](https://www.reddit.com/r/androiddev/comments/1fyvnbs/is_there_a_viewgroup_or_other_way_to_flexibly/)
+- [Room DB: To use TypeConverter or create a One-to-Many Relationship?](https://www.reddit.com/r/androiddev/comments/1fyvfrc/room_db_to_use_typeconverter_or_create_a/)
+- [[Emulator] PC freezes completely after opening any website in Chrome](https://www.reddit.com/r/androiddev/comments/1fyv9er/emulator_pc_freezes_completely_after_opening_any/)
+- [How to get renewals notification for subscriptions in Google Play billing](https://www.reddit.com/r/androiddev/comments/1fyu9wk/how_to_get_renewals_notification_for/)
+- [Leveling - role responsibilities and required skills ?](https://www.reddit.com/r/androiddev/comments/1fyr1na/leveling_role_responsibilities_and_required_skills/)
+- [How to properly listen for notifications?](https://www.reddit.com/r/androiddev/comments/1fyq4i0/how_to_properly_listen_for_notifications/)
 - [Trouble resolving duplicate classes while trying to move to Androidx](https://www.reddit.com/r/androiddev/comments/1fyp65k/trouble_resolving_duplicate_classes_while_trying/)
 - [Is It Necessary to Use Multiple Fragments or Activities in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1fylktc/is_it_necessary_to_use_multiple_fragments_or/)
-- [Google must crack open Android for third-party stores, rules Epic judge](https://www.reddit.com/r/androiddev/comments/1fyhwpg/google_must_crack_open_android_for_thirdparty/)
-- [Just launched a Material Theme builder powered by my library MaterialKolor](https://www.reddit.com/r/androiddev/comments/1fycvgg/just_launched_a_material_theme_builder_powered_by/)
-- [Aggressive &lpar; Unreasonable &rpar; Deadlines vs Incompetency ?](https://www.reddit.com/r/androiddev/comments/1fy0fjd/aggressive_unreasonable_deadlines_vs_incompetency/)
-- [Favourite libraries?](https://www.reddit.com/r/androiddev/comments/1fxy0ng/favourite_libraries/)
-- [Do I have to update my removed and test apps?](https://www.reddit.com/r/androiddev/comments/1fxrws7/do_i_have_to_update_my_removed_and_test_apps/)
-- [Does kotlin flow solve for something that is already not solved before?](https://www.reddit.com/r/androiddev/comments/1fxdf0b/does_kotlin_flow_solve_for_something_that_is/)
-- [What is the easiest way to implement a simple referral program in Android App?](https://www.reddit.com/r/androiddev/comments/1fxbzsw/what_is_the_easiest_way_to_implement_a_simple/)
-- [How to debug app from android device using internet](https://www.reddit.com/r/androiddev/comments/1fxbwe8/how_to_debug_app_from_android_device_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
