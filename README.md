@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [LaunchedEffect Practical example!](https://www.reddit.com/r/androiddev/comments/1fz1i5e/launchedeffect_practical_example/)
-- [How many object model classes do you actually need?](https://www.reddit.com/r/androiddev/comments/1fz15hn/how_many_object_model_classes_do_you_actually_need/)
-- [Is there a ViewGroup or other way to flexibly handle a set of view layouts?](https://www.reddit.com/r/androiddev/comments/1fyvnbs/is_there_a_viewgroup_or_other_way_to_flexibly/)
-- [Room DB: To use TypeConverter or create a One-to-Many Relationship?](https://www.reddit.com/r/androiddev/comments/1fyvfrc/room_db_to_use_typeconverter_or_create_a/)
-- [[Emulator] PC freezes completely after opening any website in Chrome](https://www.reddit.com/r/androiddev/comments/1fyv9er/emulator_pc_freezes_completely_after_opening_any/)
-- [How to get renewals notification for subscriptions in Google Play billing](https://www.reddit.com/r/androiddev/comments/1fyu9wk/how_to_get_renewals_notification_for/)
-- [Leveling - role responsibilities and required skills ?](https://www.reddit.com/r/androiddev/comments/1fyr1na/leveling_role_responsibilities_and_required_skills/)
-- [How to properly listen for notifications?](https://www.reddit.com/r/androiddev/comments/1fyq4i0/how_to_properly_listen_for_notifications/)
-- [Trouble resolving duplicate classes while trying to move to Androidx](https://www.reddit.com/r/androiddev/comments/1fyp65k/trouble_resolving_duplicate_classes_while_trying/)
-- [Is It Necessary to Use Multiple Fragments or Activities in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1fylktc/is_it_necessary_to_use_multiple_fragments_or/)
+- [Navigation with Compose doubt](https://www.reddit.com/r/androiddev/comments/1g06qfb/navigation_with_compose_doubt/)
+- [ADB Screenshot Transfer Randomly Fails Mid-Transfer](https://www.reddit.com/r/androiddev/comments/1g037lp/adb_screenshot_transfer_randomly_fails_midtransfer/)
+- [How can I have this layout with efficient way](https://www.reddit.com/r/androiddev/comments/1g00bb0/how_can_i_have_this_layout_with_efficient_way/)
+- [Horizontal scaleIn animation](https://www.reddit.com/r/androiddev/comments/1fzri8m/horizontal_scalein_animation/)
+- [Shouldnt materialToolbar handle the insets automatically?](https://www.reddit.com/r/androiddev/comments/1fzoeqg/shouldnt_materialtoolbar_handle_the_insets/)
+- [Need help find the most used phones in the UK](https://www.reddit.com/r/androiddev/comments/1fzm6st/need_help_find_the_most_used_phones_in_the_uk/)
+- [Drawing Custom Alerts on Top of Bottom Sheets in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fzm09b/drawing_custom_alerts_on_top_of_bottom_sheets_in/)
+- [Remove extra space from text](https://www.reddit.com/r/androiddev/comments/1fzlvot/remove_extra_space_from_text/)
+- [Google Play Verification - Want to verify as personal account, but have organization payments profile](https://www.reddit.com/r/androiddev/comments/1fzlkym/google_play_verification_want_to_verify_as/)
+- [Adding a coding challenge to our job interview](https://www.reddit.com/r/androiddev/comments/1fzldjt/adding_a_coding_challenge_to_our_job_interview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
