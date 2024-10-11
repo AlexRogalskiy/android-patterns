@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is this an accurate overview on revenue cuts? Is the reality worse or better than that?](https://www.reddit.com/r/androiddev/comments/1g0xx2g/is_this_an_accurate_overview_on_revenue_cuts_is/)
+- [Closed Testing version is not updating](https://www.reddit.com/r/androiddev/comments/1g0vwxt/closed_testing_version_is_not_updating/)
+- [Will removing the FOREGROUND_SERVICE from the Android app manifest &lpar;but not the related code&rpar; pass Google&#39;s review?](https://www.reddit.com/r/androiddev/comments/1g0uj8x/will_removing_the_foreground_service_from_the/)
+- [Jetpack Compose: Faster UI Building, but Is It Worth Sacrificing Performance?](https://www.reddit.com/r/androiddev/comments/1g0nent/jetpack_compose_faster_ui_building_but_is_it/)
+- [What do you make of the ruling regarding alternative payment processing on the app store?](https://www.reddit.com/r/androiddev/comments/1g0lc93/what_do_you_make_of_the_ruling_regarding/)
+- [Receiving weird requests on email](https://www.reddit.com/r/androiddev/comments/1g0e4kz/receiving_weird_requests_on_email/)
+- [What is the specific meaning of Single Source of Truth &lpar;SSOT&rpar; in Android?](https://www.reddit.com/r/androiddev/comments/1g0dgqa/what_is_the_specific_meaning_of_single_source_of/)
+- [How to make the the size of a Composable a percentage of the screen height and width?](https://www.reddit.com/r/androiddev/comments/1g0ctp2/how_to_make_the_the_size_of_a_composable_a/)
 - [Navigation with Compose doubt](https://www.reddit.com/r/androiddev/comments/1g06qfb/navigation_with_compose_doubt/)
-- [ADB Screenshot Transfer Randomly Fails Mid-Transfer](https://www.reddit.com/r/androiddev/comments/1g037lp/adb_screenshot_transfer_randomly_fails_midtransfer/)
 - [How can I have this layout with efficient way](https://www.reddit.com/r/androiddev/comments/1g00bb0/how_can_i_have_this_layout_with_efficient_way/)
-- [Horizontal scaleIn animation](https://www.reddit.com/r/androiddev/comments/1fzri8m/horizontal_scalein_animation/)
-- [Shouldnt materialToolbar handle the insets automatically?](https://www.reddit.com/r/androiddev/comments/1fzoeqg/shouldnt_materialtoolbar_handle_the_insets/)
-- [Need help find the most used phones in the UK](https://www.reddit.com/r/androiddev/comments/1fzm6st/need_help_find_the_most_used_phones_in_the_uk/)
-- [Drawing Custom Alerts on Top of Bottom Sheets in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1fzm09b/drawing_custom_alerts_on_top_of_bottom_sheets_in/)
-- [Remove extra space from text](https://www.reddit.com/r/androiddev/comments/1fzlvot/remove_extra_space_from_text/)
-- [Google Play Verification - Want to verify as personal account, but have organization payments profile](https://www.reddit.com/r/androiddev/comments/1fzlkym/google_play_verification_want_to_verify_as/)
-- [Adding a coding challenge to our job interview](https://www.reddit.com/r/androiddev/comments/1fzldjt/adding_a_coding_challenge_to_our_job_interview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
