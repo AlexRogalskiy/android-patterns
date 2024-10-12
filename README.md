@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best way to deploy apk for free?](https://www.reddit.com/r/androiddev/comments/1g1nssg/best_way_to_deploy_apk_for_free/)
+- [How to ignore files for GIT using the Android Studio UI, not command line](https://www.reddit.com/r/androiddev/comments/1g1n3q5/how_to_ignore_files_for_git_using_the_android/)
+- [Screenshot testing with Paparazzi by John Rodriguez](https://www.reddit.com/r/androiddev/comments/1g1jd4j/screenshot_testing_with_paparazzi_by_john/)
+- [How you handle hotfixes and Google Review times?](https://www.reddit.com/r/androiddev/comments/1g1dhai/how_you_handle_hotfixes_and_google_review_times/)
+- [Kotlin Readability is a mess &lpar;no offence!&rpar;](https://www.reddit.com/r/androiddev/comments/1g1bxxp/kotlin_readability_is_a_mess_no_offence/)
+- [ML Kit QR code max bytes](https://www.reddit.com/r/androiddev/comments/1g1butz/ml_kit_qr_code_max_bytes/)
+- [A short survey for Android developers](https://www.reddit.com/r/androiddev/comments/1g1bisc/a_short_survey_for_android_developers/)
+- [Activities vs. Fragments](https://www.reddit.com/r/androiddev/comments/1g14cos/activities_vs_fragments/)
 - [Is this an accurate overview on revenue cuts? Is the reality worse or better than that?](https://www.reddit.com/r/androiddev/comments/1g0xx2g/is_this_an_accurate_overview_on_revenue_cuts_is/)
-- [Closed Testing version is not updating](https://www.reddit.com/r/androiddev/comments/1g0vwxt/closed_testing_version_is_not_updating/)
 - [Will removing the FOREGROUND_SERVICE from the Android app manifest &lpar;but not the related code&rpar; pass Google&#39;s review?](https://www.reddit.com/r/androiddev/comments/1g0uj8x/will_removing_the_foreground_service_from_the/)
-- [Jetpack Compose: Faster UI Building, but Is It Worth Sacrificing Performance?](https://www.reddit.com/r/androiddev/comments/1g0nent/jetpack_compose_faster_ui_building_but_is_it/)
-- [What do you make of the ruling regarding alternative payment processing on the app store?](https://www.reddit.com/r/androiddev/comments/1g0lc93/what_do_you_make_of_the_ruling_regarding/)
-- [Receiving weird requests on email](https://www.reddit.com/r/androiddev/comments/1g0e4kz/receiving_weird_requests_on_email/)
-- [What is the specific meaning of Single Source of Truth &lpar;SSOT&rpar; in Android?](https://www.reddit.com/r/androiddev/comments/1g0dgqa/what_is_the_specific_meaning_of_single_source_of/)
-- [How to make the the size of a Composable a percentage of the screen height and width?](https://www.reddit.com/r/androiddev/comments/1g0ctp2/how_to_make_the_the_size_of_a_composable_a/)
-- [Navigation with Compose doubt](https://www.reddit.com/r/androiddev/comments/1g06qfb/navigation_with_compose_doubt/)
-- [How can I have this layout with efficient way](https://www.reddit.com/r/androiddev/comments/1g00bb0/how_can_i_have_this_layout_with_efficient_way/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
