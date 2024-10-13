@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gradle Problem Urgent Help](https://www.reddit.com/r/androiddev/comments/1g2f7ns/gradle_problem_urgent_help/)
+- [Windows sometimes BSOD after opening Android Studio?](https://www.reddit.com/r/androiddev/comments/1g2eawh/windows_sometimes_bsod_after_opening_android/)
+- [Is it reasonable to create different layouts for different screen sizes? I&#39;m currently dealing with considerably large differences in layouts across different devices, even after using density-independent pixels or ConstraintLayouts](https://www.reddit.com/r/androiddev/comments/1g2dboo/is_it_reasonable_to_create_different_layouts_for/)
+- [Has anyone migrated from Flutter to Jetpack Compose ?](https://www.reddit.com/r/androiddev/comments/1g20gzw/has_anyone_migrated_from_flutter_to_jetpack/)
+- [Realm 6.0.2 where I can get it?](https://www.reddit.com/r/androiddev/comments/1g1yj1e/realm_602_where_i_can_get_it/)
+- [App builds on i7 Mac, but not on M3 Mac](https://www.reddit.com/r/androiddev/comments/1g1ybhb/app_builds_on_i7_mac_but_not_on_m3_mac/)
 - [Best way to deploy apk for free?](https://www.reddit.com/r/androiddev/comments/1g1nssg/best_way_to_deploy_apk_for_free/)
 - [How to ignore files for GIT using the Android Studio UI, not command line](https://www.reddit.com/r/androiddev/comments/1g1n3q5/how_to_ignore_files_for_git_using_the_android/)
-- [Screenshot testing with Paparazzi by John Rodriguez](https://www.reddit.com/r/androiddev/comments/1g1jd4j/screenshot_testing_with_paparazzi_by_john/)
 - [How you handle hotfixes and Google Review times?](https://www.reddit.com/r/androiddev/comments/1g1dhai/how_you_handle_hotfixes_and_google_review_times/)
 - [Kotlin Readability is a mess &lpar;no offence!&rpar;](https://www.reddit.com/r/androiddev/comments/1g1bxxp/kotlin_readability_is_a_mess_no_offence/)
-- [ML Kit QR code max bytes](https://www.reddit.com/r/androiddev/comments/1g1butz/ml_kit_qr_code_max_bytes/)
-- [A short survey for Android developers](https://www.reddit.com/r/androiddev/comments/1g1bisc/a_short_survey_for_android_developers/)
-- [Activities vs. Fragments](https://www.reddit.com/r/androiddev/comments/1g14cos/activities_vs_fragments/)
-- [Is this an accurate overview on revenue cuts? Is the reality worse or better than that?](https://www.reddit.com/r/androiddev/comments/1g0xx2g/is_this_an_accurate_overview_on_revenue_cuts_is/)
-- [Will removing the FOREGROUND_SERVICE from the Android app manifest &lpar;but not the related code&rpar; pass Google&#39;s review?](https://www.reddit.com/r/androiddev/comments/1g0uj8x/will_removing_the_foreground_service_from_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
