@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gradle Problem Urgent Help](https://www.reddit.com/r/androiddev/comments/1g2f7ns/gradle_problem_urgent_help/)
+- [One click dependencies fix](https://www.reddit.com/r/androiddev/comments/1g32bzc/one_click_dependencies_fix/)
+- [Optimising Android apps for Chromebooks](https://www.reddit.com/r/androiddev/comments/1g30xlw/optimising_android_apps_for_chromebooks/)
+- [androidX.tech Shutdown](https://www.reddit.com/r/androiddev/comments/1g2yw30/androidxtech_shutdown/)
+- [Those who prefer Views &amp; don&#39;t like or want to use Compose how is your career](https://www.reddit.com/r/androiddev/comments/1g2ttau/those_who_prefer_views_dont_like_or_want_to_use/)
+- [Best jetpack compose+MVVM or CLEAN app sample project?](https://www.reddit.com/r/androiddev/comments/1g2r49v/best_jetpack_composemvvm_or_clean_app_sample/)
+- [Custom gradle extension/DSL to configure Android Gradle Plugin? Is it even possible?](https://www.reddit.com/r/androiddev/comments/1g2nzki/custom_gradle_extensiondsl_to_configure_android/)
+- [How do you go from beta to production on google play store?](https://www.reddit.com/r/androiddev/comments/1g2mdkk/how_do_you_go_from_beta_to_production_on_google/)
+- [Jetpack Paging v3 vs clean architecture](https://www.reddit.com/r/androiddev/comments/1g2lflt/jetpack_paging_v3_vs_clean_architecture/)
+- [Round and Round: Creating a Fun Custom Dial Control in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1g2io9a/round_and_round_creating_a_fun_custom_dial/)
 - [Windows sometimes BSOD after opening Android Studio?](https://www.reddit.com/r/androiddev/comments/1g2eawh/windows_sometimes_bsod_after_opening_android/)
-- [Is it reasonable to create different layouts for different screen sizes? I&#39;m currently dealing with considerably large differences in layouts across different devices, even after using density-independent pixels or ConstraintLayouts](https://www.reddit.com/r/androiddev/comments/1g2dboo/is_it_reasonable_to_create_different_layouts_for/)
-- [Has anyone migrated from Flutter to Jetpack Compose ?](https://www.reddit.com/r/androiddev/comments/1g20gzw/has_anyone_migrated_from_flutter_to_jetpack/)
-- [Realm 6.0.2 where I can get it?](https://www.reddit.com/r/androiddev/comments/1g1yj1e/realm_602_where_i_can_get_it/)
-- [App builds on i7 Mac, but not on M3 Mac](https://www.reddit.com/r/androiddev/comments/1g1ybhb/app_builds_on_i7_mac_but_not_on_m3_mac/)
-- [Best way to deploy apk for free?](https://www.reddit.com/r/androiddev/comments/1g1nssg/best_way_to_deploy_apk_for_free/)
-- [How to ignore files for GIT using the Android Studio UI, not command line](https://www.reddit.com/r/androiddev/comments/1g1n3q5/how_to_ignore_files_for_git_using_the_android/)
-- [How you handle hotfixes and Google Review times?](https://www.reddit.com/r/androiddev/comments/1g1dhai/how_you_handle_hotfixes_and_google_review_times/)
-- [Kotlin Readability is a mess &lpar;no offence!&rpar;](https://www.reddit.com/r/androiddev/comments/1g1bxxp/kotlin_readability_is_a_mess_no_offence/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
