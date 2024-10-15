@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [One click dependencies fix](https://www.reddit.com/r/androiddev/comments/1g32bzc/one_click_dependencies_fix/)
-- [Optimising Android apps for Chromebooks](https://www.reddit.com/r/androiddev/comments/1g30xlw/optimising_android_apps_for_chromebooks/)
-- [androidX.tech Shutdown](https://www.reddit.com/r/androiddev/comments/1g2yw30/androidxtech_shutdown/)
-- [Those who prefer Views &amp; don&#39;t like or want to use Compose how is your career](https://www.reddit.com/r/androiddev/comments/1g2ttau/those_who_prefer_views_dont_like_or_want_to_use/)
-- [Best jetpack compose+MVVM or CLEAN app sample project?](https://www.reddit.com/r/androiddev/comments/1g2r49v/best_jetpack_composemvvm_or_clean_app_sample/)
-- [Custom gradle extension/DSL to configure Android Gradle Plugin? Is it even possible?](https://www.reddit.com/r/androiddev/comments/1g2nzki/custom_gradle_extensiondsl_to_configure_android/)
-- [How do you go from beta to production on google play store?](https://www.reddit.com/r/androiddev/comments/1g2mdkk/how_do_you_go_from_beta_to_production_on_google/)
-- [Jetpack Paging v3 vs clean architecture](https://www.reddit.com/r/androiddev/comments/1g2lflt/jetpack_paging_v3_vs_clean_architecture/)
-- [Round and Round: Creating a Fun Custom Dial Control in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1g2io9a/round_and_round_creating_a_fun_custom_dial/)
-- [Windows sometimes BSOD after opening Android Studio?](https://www.reddit.com/r/androiddev/comments/1g2eawh/windows_sometimes_bsod_after_opening_android/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1g3s029/android_studio_ladybug_feature_drop_202422_canary/)
+- [How would you create a Soft Light blend mode for an ImageView in Android Studio?](https://www.reddit.com/r/androiddev/comments/1g3omv1/how_would_you_create_a_soft_light_blend_mode_for/)
+- [Android Studio Ladybug | 2024.2.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1g3noj5/android_studio_ladybug_202421_patch_1_now/)
+- [Should each screen have its own ViewModel ?](https://www.reddit.com/r/androiddev/comments/1g3n91l/should_each_screen_have_its_own_viewmodel/)
+- [Rx-Preferences v2.0.1 release](https://www.reddit.com/r/androiddev/comments/1g3n6he/rxpreferences_v201_release/)
+- [When will material 3 in compose finally be &quot;stable&quot; for production?](https://www.reddit.com/r/androiddev/comments/1g3k8x5/when_will_material_3_in_compose_finally_be_stable/)
+- [AutoUpdater: An Android library to update apps automatically](https://www.reddit.com/r/androiddev/comments/1g3hkro/autoupdater_an_android_library_to_update_apps/)
+- [Retrofit: Simple way to get response body when HTTP response code is non 200/201](https://www.reddit.com/r/androiddev/comments/1g3fe93/retrofit_simple_way_to_get_response_body_when/)
+- [Compose Runtime Deep Dive](https://www.reddit.com/r/androiddev/comments/1g3f93u/compose_runtime_deep_dive/)
+- [Ktor 3.0 Is Now Available With New Features and Improved Performance](https://www.reddit.com/r/androiddev/comments/1g3ejdy/ktor_30_is_now_available_with_new_features_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
