@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1g3s029/android_studio_ladybug_feature_drop_202422_canary/)
-- [How would you create a Soft Light blend mode for an ImageView in Android Studio?](https://www.reddit.com/r/androiddev/comments/1g3omv1/how_would_you_create_a_soft_light_blend_mode_for/)
-- [Android Studio Ladybug | 2024.2.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1g3noj5/android_studio_ladybug_202421_patch_1_now/)
-- [Should each screen have its own ViewModel ?](https://www.reddit.com/r/androiddev/comments/1g3n91l/should_each_screen_have_its_own_viewmodel/)
-- [Rx-Preferences v2.0.1 release](https://www.reddit.com/r/androiddev/comments/1g3n6he/rxpreferences_v201_release/)
-- [When will material 3 in compose finally be &quot;stable&quot; for production?](https://www.reddit.com/r/androiddev/comments/1g3k8x5/when_will_material_3_in_compose_finally_be_stable/)
-- [AutoUpdater: An Android library to update apps automatically](https://www.reddit.com/r/androiddev/comments/1g3hkro/autoupdater_an_android_library_to_update_apps/)
-- [Retrofit: Simple way to get response body when HTTP response code is non 200/201](https://www.reddit.com/r/androiddev/comments/1g3fe93/retrofit_simple_way_to_get_response_body_when/)
-- [Compose Runtime Deep Dive](https://www.reddit.com/r/androiddev/comments/1g3f93u/compose_runtime_deep_dive/)
-- [Ktor 3.0 Is Now Available With New Features and Improved Performance](https://www.reddit.com/r/androiddev/comments/1g3ejdy/ktor_30_is_now_available_with_new_features_and/)
+- [Is okay to publish a watch face platform on Play Store?](https://www.reddit.com/r/androiddev/comments/1g4msgk/is_okay_to_publish_a_watch_face_platform_on_play/)
+- [Testing Coroutines — Simplified](https://www.reddit.com/r/androiddev/comments/1g4itoo/testing_coroutines_simplified/)
+- [Has Anyone Used Jetpack Compose in an Overlay Service?](https://www.reddit.com/r/androiddev/comments/1g4g0d3/has_anyone_used_jetpack_compose_in_an_overlay/)
+- [Is it fine to open 2 Google play console in 1 laptop](https://www.reddit.com/r/androiddev/comments/1g4e1qv/is_it_fine_to_open_2_google_play_console_in_1/)
+- [ImageButton set drawable src depending on app theme](https://www.reddit.com/r/androiddev/comments/1g4do45/imagebutton_set_drawable_src_depending_on_app/)
+- [I&#39;m releasing an app on the Play Store. Is there a place where I can download official bezels for popular Android devices, e.g. Pixel 9?](https://www.reddit.com/r/androiddev/comments/1g4cz5d/im_releasing_an_app_on_the_play_store_is_there_a/)
+- [Reccommended Gesture/Animation combo for &quot;Content Feed&quot; like UX](https://www.reddit.com/r/androiddev/comments/1g4c01j/reccommended_gestureanimation_combo_for_content/)
+- [Jentry - a command line tool to analyze Kotlin/Java public information inside the jar/aar files.](https://www.reddit.com/r/androiddev/comments/1g4aafy/jentry_a_command_line_tool_to_analyze_kotlinjava/)
+- [New apks no longer pass Play Protect &lpar;3rd party install&rpar;](https://www.reddit.com/r/androiddev/comments/1g47cte/new_apks_no_longer_pass_play_protect_3rd_party/)
+- [How to check for call forwarding status](https://www.reddit.com/r/androiddev/comments/1g42d3f/how_to_check_for_call_forwarding_status/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
