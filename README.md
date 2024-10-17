@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is okay to publish a watch face platform on Play Store?](https://www.reddit.com/r/androiddev/comments/1g4msgk/is_okay_to_publish_a_watch_face_platform_on_play/)
-- [Testing Coroutines — Simplified](https://www.reddit.com/r/androiddev/comments/1g4itoo/testing_coroutines_simplified/)
-- [Has Anyone Used Jetpack Compose in an Overlay Service?](https://www.reddit.com/r/androiddev/comments/1g4g0d3/has_anyone_used_jetpack_compose_in_an_overlay/)
-- [Is it fine to open 2 Google play console in 1 laptop](https://www.reddit.com/r/androiddev/comments/1g4e1qv/is_it_fine_to_open_2_google_play_console_in_1/)
-- [ImageButton set drawable src depending on app theme](https://www.reddit.com/r/androiddev/comments/1g4do45/imagebutton_set_drawable_src_depending_on_app/)
-- [I&#39;m releasing an app on the Play Store. Is there a place where I can download official bezels for popular Android devices, e.g. Pixel 9?](https://www.reddit.com/r/androiddev/comments/1g4cz5d/im_releasing_an_app_on_the_play_store_is_there_a/)
-- [Reccommended Gesture/Animation combo for &quot;Content Feed&quot; like UX](https://www.reddit.com/r/androiddev/comments/1g4c01j/reccommended_gestureanimation_combo_for_content/)
-- [Jentry - a command line tool to analyze Kotlin/Java public information inside the jar/aar files.](https://www.reddit.com/r/androiddev/comments/1g4aafy/jentry_a_command_line_tool_to_analyze_kotlinjava/)
-- [New apks no longer pass Play Protect &lpar;3rd party install&rpar;](https://www.reddit.com/r/androiddev/comments/1g47cte/new_apks_no_longer_pass_play_protect_3rd_party/)
-- [How to check for call forwarding status](https://www.reddit.com/r/androiddev/comments/1g42d3f/how_to_check_for_call_forwarding_status/)
+- [Are @Composable functions Composable elements themselves](https://www.reddit.com/r/androiddev/comments/1g595i5/are_composable_functions_composable_elements/)
+- [When you finally get your first real user review after months of hard work on your free app with no ads](https://www.reddit.com/r/androiddev/comments/1g58yxc/when_you_finally_get_your_first_real_user_review/)
+- [Store Voyager Screens for navigation](https://www.reddit.com/r/androiddev/comments/1g58585/store_voyager_screens_for_navigation/)
+- [How to secure google map api key](https://www.reddit.com/r/androiddev/comments/1g51pgc/how_to_secure_google_map_api_key/)
+- [Modernizing the Builder Pattern in Kotlin](https://www.reddit.com/r/androiddev/comments/1g51gd3/modernizing_the_builder_pattern_in_kotlin/)
+- [Pass data between screens with Jetpack Compose Navigation + Hilt](https://www.reddit.com/r/androiddev/comments/1g50309/pass_data_between_screens_with_jetpack_compose/)
+- [Android Studio drop the devices](https://www.reddit.com/r/androiddev/comments/1g4yz8t/android_studio_drop_the_devices/)
+- [How Yelp improved their Android navigation performance by ~30%](https://www.reddit.com/r/androiddev/comments/1g4xwfj/how_yelp_improved_their_android_navigation/)
+- [Running Linux C++ process in background &lpar;with foreground service&rpar;](https://www.reddit.com/r/androiddev/comments/1g4xvdf/running_linux_c_process_in_background_with/)
+- [DJI Mobile SDK V5 - Object detection](https://www.reddit.com/r/androiddev/comments/1g4w1c5/dji_mobile_sdk_v5_object_detection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
