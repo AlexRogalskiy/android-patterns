@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about UI](https://www.reddit.com/r/androiddev/comments/1g63xmo/question_about_ui/)
+- [RowKalendar: Scrollable horizontal calendar library for Compose Multiplatform 📅](https://www.reddit.com/r/androiddev/comments/1g62spn/rowkalendar_scrollable_horizontal_calendar/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1g62lgq/android_studio_ladybug_feature_drop_202422_canary/)
+- [Not sure why Proguard/R8 is removing certain code](https://www.reddit.com/r/androiddev/comments/1g6100n/not_sure_why_proguardr8_is_removing_certain_code/)
+- [The New Api Level of Google](https://www.reddit.com/r/androiddev/comments/1g5zyzp/the_new_api_level_of_google/)
+- [How do you scope dependencies to a multi-screen flow?](https://www.reddit.com/r/androiddev/comments/1g5y0e2/how_do_you_scope_dependencies_to_a_multiscreen/)
+- [Is there a way to filter Blueooth LE by class of device or appearence?](https://www.reddit.com/r/androiddev/comments/1g5vt4x/is_there_a_way_to_filter_blueooth_le_by_class_of/)
+- [Is there calendar tasks API for android? So far I can only find REST web api](https://www.reddit.com/r/androiddev/comments/1g5lfg0/is_there_calendar_tasks_api_for_android_so_far_i/)
+- [New to Android Development? Need some personal advice? This is the October newbie thread!](https://www.reddit.com/r/androiddev/comments/1g5jp2l/new_to_android_development_need_some_personal/)
 - [Are @Composable functions Composable elements themselves](https://www.reddit.com/r/androiddev/comments/1g595i5/are_composable_functions_composable_elements/)
-- [When you finally get your first real user review after months of hard work on your free app with no ads](https://www.reddit.com/r/androiddev/comments/1g58yxc/when_you_finally_get_your_first_real_user_review/)
-- [Store Voyager Screens for navigation](https://www.reddit.com/r/androiddev/comments/1g58585/store_voyager_screens_for_navigation/)
-- [How to secure google map api key](https://www.reddit.com/r/androiddev/comments/1g51pgc/how_to_secure_google_map_api_key/)
-- [Modernizing the Builder Pattern in Kotlin](https://www.reddit.com/r/androiddev/comments/1g51gd3/modernizing_the_builder_pattern_in_kotlin/)
-- [Pass data between screens with Jetpack Compose Navigation + Hilt](https://www.reddit.com/r/androiddev/comments/1g50309/pass_data_between_screens_with_jetpack_compose/)
-- [Android Studio drop the devices](https://www.reddit.com/r/androiddev/comments/1g4yz8t/android_studio_drop_the_devices/)
-- [How Yelp improved their Android navigation performance by ~30%](https://www.reddit.com/r/androiddev/comments/1g4xwfj/how_yelp_improved_their_android_navigation/)
-- [Running Linux C++ process in background &lpar;with foreground service&rpar;](https://www.reddit.com/r/androiddev/comments/1g4xvdf/running_linux_c_process_in_background_with/)
-- [DJI Mobile SDK V5 - Object detection](https://www.reddit.com/r/androiddev/comments/1g4w1c5/dji_mobile_sdk_v5_object_detection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
