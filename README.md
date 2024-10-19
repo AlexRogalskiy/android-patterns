@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What type of scam is that?](https://www.reddit.com/r/androiddev/comments/1g6wcv2/what_type_of_scam_is_that/)
+- [How to handle list + add item flow?](https://www.reddit.com/r/androiddev/comments/1g6n9ly/how_to_handle_list_add_item_flow/)
+- [Genymotion stuck at starting virtual device](https://www.reddit.com/r/androiddev/comments/1g6kdrx/genymotion_stuck_at_starting_virtual_device/)
+- [AppBar Buttons Not Working on Material 3](https://www.reddit.com/r/androiddev/comments/1g6ioa5/appbar_buttons_not_working_on_material_3/)
+- [How to Inspect Element on an Android App &lpar;Actual App, not Web&rpar;](https://www.reddit.com/r/androiddev/comments/1g6ijh8/how_to_inspect_element_on_an_android_app_actual/)
+- [What&#39;s wrong with text clipping on Compose Canvas?](https://www.reddit.com/r/androiddev/comments/1g6ih4r/whats_wrong_with_text_clipping_on_compose_canvas/)
+- [Intercepting Push when the app is backgrounded](https://www.reddit.com/r/androiddev/comments/1g6hdy8/intercepting_push_when_the_app_is_backgrounded/)
+- [No code/low code tools for faster quality release?](https://www.reddit.com/r/androiddev/comments/1g6eek2/no_codelow_code_tools_for_faster_quality_release/)
 - [Question about UI](https://www.reddit.com/r/androiddev/comments/1g63xmo/question_about_ui/)
 - [RowKalendar: Scrollable horizontal calendar library for Compose Multiplatform 📅](https://www.reddit.com/r/androiddev/comments/1g62spn/rowkalendar_scrollable_horizontal_calendar/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1g62lgq/android_studio_ladybug_feature_drop_202422_canary/)
-- [Not sure why Proguard/R8 is removing certain code](https://www.reddit.com/r/androiddev/comments/1g6100n/not_sure_why_proguardr8_is_removing_certain_code/)
-- [The New Api Level of Google](https://www.reddit.com/r/androiddev/comments/1g5zyzp/the_new_api_level_of_google/)
-- [How do you scope dependencies to a multi-screen flow?](https://www.reddit.com/r/androiddev/comments/1g5y0e2/how_do_you_scope_dependencies_to_a_multiscreen/)
-- [Is there a way to filter Blueooth LE by class of device or appearence?](https://www.reddit.com/r/androiddev/comments/1g5vt4x/is_there_a_way_to_filter_blueooth_le_by_class_of/)
-- [Is there calendar tasks API for android? So far I can only find REST web api](https://www.reddit.com/r/androiddev/comments/1g5lfg0/is_there_calendar_tasks_api_for_android_so_far_i/)
-- [New to Android Development? Need some personal advice? This is the October newbie thread!](https://www.reddit.com/r/androiddev/comments/1g5jp2l/new_to_android_development_need_some_personal/)
-- [Are @Composable functions Composable elements themselves](https://www.reddit.com/r/androiddev/comments/1g595i5/are_composable_functions_composable_elements/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
