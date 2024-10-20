@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best llm for Android dev](https://www.reddit.com/r/androiddev/comments/1g7ofs7/best_llm_for_android_dev/)
+- [Multiple view models on the same screen](https://www.reddit.com/r/androiddev/comments/1g7ma75/multiple_view_models_on_the_same_screen/)
+- [Can&#39;t install main app after Instant App](https://www.reddit.com/r/androiddev/comments/1g7kzey/cant_install_main_app_after_instant_app/)
+- [Background server call](https://www.reddit.com/r/androiddev/comments/1g75unx/background_server_call/)
+- [That Weird Jetpack Compose Crash](https://www.reddit.com/r/androiddev/comments/1g72yp2/that_weird_jetpack_compose_crash/)
 - [What type of scam is that?](https://www.reddit.com/r/androiddev/comments/1g6wcv2/what_type_of_scam_is_that/)
 - [How to handle list + add item flow?](https://www.reddit.com/r/androiddev/comments/1g6n9ly/how_to_handle_list_add_item_flow/)
 - [Genymotion stuck at starting virtual device](https://www.reddit.com/r/androiddev/comments/1g6kdrx/genymotion_stuck_at_starting_virtual_device/)
 - [AppBar Buttons Not Working on Material 3](https://www.reddit.com/r/androiddev/comments/1g6ioa5/appbar_buttons_not_working_on_material_3/)
 - [How to Inspect Element on an Android App &lpar;Actual App, not Web&rpar;](https://www.reddit.com/r/androiddev/comments/1g6ijh8/how_to_inspect_element_on_an_android_app_actual/)
-- [What&#39;s wrong with text clipping on Compose Canvas?](https://www.reddit.com/r/androiddev/comments/1g6ih4r/whats_wrong_with_text_clipping_on_compose_canvas/)
-- [Intercepting Push when the app is backgrounded](https://www.reddit.com/r/androiddev/comments/1g6hdy8/intercepting_push_when_the_app_is_backgrounded/)
-- [No code/low code tools for faster quality release?](https://www.reddit.com/r/androiddev/comments/1g6eek2/no_codelow_code_tools_for_faster_quality_release/)
-- [Question about UI](https://www.reddit.com/r/androiddev/comments/1g63xmo/question_about_ui/)
-- [RowKalendar: Scrollable horizontal calendar library for Compose Multiplatform 📅](https://www.reddit.com/r/androiddev/comments/1g62spn/rowkalendar_scrollable_horizontal_calendar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
