@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best llm for Android dev](https://www.reddit.com/r/androiddev/comments/1g7ofs7/best_llm_for_android_dev/)
+- [Circular Reveal Animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1g88jsw/circular_reveal_animations_in_jetpack_compose/)
+- [Publishing Library that depends on other Libraries? Why is this so difficult?](https://www.reddit.com/r/androiddev/comments/1g82q0q/publishing_library_that_depends_on_other/)
+- [Navigation between modules](https://www.reddit.com/r/androiddev/comments/1g7yx0w/navigation_between_modules/)
+- [White screen after splash screen when using navigation with compose.](https://www.reddit.com/r/androiddev/comments/1g7yrrh/white_screen_after_splash_screen_when_using/)
+- [Google Play Integrity API question](https://www.reddit.com/r/androiddev/comments/1g7utro/google_play_integrity_api_question/)
+- [Android 15 breaks notification listeners](https://www.reddit.com/r/androiddev/comments/1g7tdld/android_15_breaks_notification_listeners/)
+- [ADB List Devices](https://www.reddit.com/r/androiddev/comments/1g7qhc8/adb_list_devices/)
 - [Multiple view models on the same screen](https://www.reddit.com/r/androiddev/comments/1g7ma75/multiple_view_models_on_the_same_screen/)
 - [Can&#39;t install main app after Instant App](https://www.reddit.com/r/androiddev/comments/1g7kzey/cant_install_main_app_after_instant_app/)
 - [Background server call](https://www.reddit.com/r/androiddev/comments/1g75unx/background_server_call/)
-- [That Weird Jetpack Compose Crash](https://www.reddit.com/r/androiddev/comments/1g72yp2/that_weird_jetpack_compose_crash/)
-- [What type of scam is that?](https://www.reddit.com/r/androiddev/comments/1g6wcv2/what_type_of_scam_is_that/)
-- [How to handle list + add item flow?](https://www.reddit.com/r/androiddev/comments/1g6n9ly/how_to_handle_list_add_item_flow/)
-- [Genymotion stuck at starting virtual device](https://www.reddit.com/r/androiddev/comments/1g6kdrx/genymotion_stuck_at_starting_virtual_device/)
-- [AppBar Buttons Not Working on Material 3](https://www.reddit.com/r/androiddev/comments/1g6ioa5/appbar_buttons_not_working_on_material_3/)
-- [How to Inspect Element on an Android App &lpar;Actual App, not Web&rpar;](https://www.reddit.com/r/androiddev/comments/1g6ijh8/how_to_inspect_element_on_an_android_app_actual/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
