@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hiring: Senior Android Native Developer – 100% Remote, U.S. Based](https://www.reddit.com/r/androiddev/comments/1g9064l/hiring_senior_android_native_developer_100_remote/)
+- [What could make a second instance of MainActivity start?](https://www.reddit.com/r/androiddev/comments/1g8vu9i/what_could_make_a_second_instance_of_mainactivity/)
+- [Compose testTag valid?](https://www.reddit.com/r/androiddev/comments/1g8vcfj/compose_testtag_valid/)
+- [Why is the ViewModelScope main thread the main thread?](https://www.reddit.com/r/androiddev/comments/1g8ugke/why_is_the_viewmodelscope_main_thread_the_main/)
+- [Is it possible to get elevation to work as expected between sibling views?](https://www.reddit.com/r/androiddev/comments/1g8p68o/is_it_possible_to_get_elevation_to_work_as/)
+- [Why can&#39;t Firebase just seperate themselves from the platform and just serve like a regular backend](https://www.reddit.com/r/androiddev/comments/1g8of65/why_cant_firebase_just_seperate_themselves_from/)
+- [Closed testing link not working for some people on mobile](https://www.reddit.com/r/androiddev/comments/1g8gpxg/closed_testing_link_not_working_for_some_people/)
 - [Circular Reveal Animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1g88jsw/circular_reveal_animations_in_jetpack_compose/)
 - [Publishing Library that depends on other Libraries? Why is this so difficult?](https://www.reddit.com/r/androiddev/comments/1g82q0q/publishing_library_that_depends_on_other/)
 - [Navigation between modules](https://www.reddit.com/r/androiddev/comments/1g7yx0w/navigation_between_modules/)
-- [White screen after splash screen when using navigation with compose.](https://www.reddit.com/r/androiddev/comments/1g7yrrh/white_screen_after_splash_screen_when_using/)
-- [Google Play Integrity API question](https://www.reddit.com/r/androiddev/comments/1g7utro/google_play_integrity_api_question/)
-- [Android 15 breaks notification listeners](https://www.reddit.com/r/androiddev/comments/1g7tdld/android_15_breaks_notification_listeners/)
-- [ADB List Devices](https://www.reddit.com/r/androiddev/comments/1g7qhc8/adb_list_devices/)
-- [Multiple view models on the same screen](https://www.reddit.com/r/androiddev/comments/1g7ma75/multiple_view_models_on_the_same_screen/)
-- [Can&#39;t install main app after Instant App](https://www.reddit.com/r/androiddev/comments/1g7kzey/cant_install_main_app_after_instant_app/)
-- [Background server call](https://www.reddit.com/r/androiddev/comments/1g75unx/background_server_call/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
