@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hiring: Senior Android Native Developer – 100% Remote, U.S. Based](https://www.reddit.com/r/androiddev/comments/1g9064l/hiring_senior_android_native_developer_100_remote/)
-- [What could make a second instance of MainActivity start?](https://www.reddit.com/r/androiddev/comments/1g8vu9i/what_could_make_a_second_instance_of_mainactivity/)
-- [Compose testTag valid?](https://www.reddit.com/r/androiddev/comments/1g8vcfj/compose_testtag_valid/)
-- [Why is the ViewModelScope main thread the main thread?](https://www.reddit.com/r/androiddev/comments/1g8ugke/why_is_the_viewmodelscope_main_thread_the_main/)
-- [Is it possible to get elevation to work as expected between sibling views?](https://www.reddit.com/r/androiddev/comments/1g8p68o/is_it_possible_to_get_elevation_to_work_as/)
-- [Why can&#39;t Firebase just seperate themselves from the platform and just serve like a regular backend](https://www.reddit.com/r/androiddev/comments/1g8of65/why_cant_firebase_just_seperate_themselves_from/)
-- [Closed testing link not working for some people on mobile](https://www.reddit.com/r/androiddev/comments/1g8gpxg/closed_testing_link_not_working_for_some_people/)
-- [Circular Reveal Animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1g88jsw/circular_reveal_animations_in_jetpack_compose/)
-- [Publishing Library that depends on other Libraries? Why is this so difficult?](https://www.reddit.com/r/androiddev/comments/1g82q0q/publishing_library_that_depends_on_other/)
-- [Navigation between modules](https://www.reddit.com/r/androiddev/comments/1g7yx0w/navigation_between_modules/)
+- [Invalidate&lpar;&rpar; stopping after 5 seconds of refreshing](https://www.reddit.com/r/androiddev/comments/1g9x24u/invalidate_stopping_after_5_seconds_of_refreshing/)
+- [The “Real” Clean Architecture in Android: Modularization](https://www.reddit.com/r/androiddev/comments/1g9uxc8/the_real_clean_architecture_in_android/)
+- [Navigation Compose recreating ViewModel each time.](https://www.reddit.com/r/androiddev/comments/1g9tpmx/navigation_compose_recreating_viewmodel_each_time/)
+- [Some Pixels fail the &quot;device integrity&quot; check after upgrading to Android 15](https://www.reddit.com/r/androiddev/comments/1g9snwu/some_pixels_fail_the_device_integrity_check_after/)
+- [google search results load but target urls display blank white page when clicked in emulator](https://www.reddit.com/r/androiddev/comments/1g9pc2f/google_search_results_load_but_target_urls/)
+- [Theme not being applied to Fragments](https://www.reddit.com/r/androiddev/comments/1g9okp7/theme_not_being_applied_to_fragments/)
+- [TextView expanding vertically when messages are getting longer](https://www.reddit.com/r/androiddev/comments/1g9ojkf/textview_expanding_vertically_when_messages_are/)
+- [What is the proper attribution practice for external dependencies?](https://www.reddit.com/r/androiddev/comments/1g9oabg/what_is_the_proper_attribution_practice_for/)
+- [Does target/sourceCompatibility matter in a pure Kotlin Android library?](https://www.reddit.com/r/androiddev/comments/1g9npbw/does_targetsourcecompatibility_matter_in_a_pure/)
+- [Turn off availability on Chrome OS](https://www.reddit.com/r/androiddev/comments/1g9n33e/turn_off_availability_on_chrome_os/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
