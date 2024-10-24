@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Invalidate&lpar;&rpar; stopping after 5 seconds of refreshing](https://www.reddit.com/r/androiddev/comments/1g9x24u/invalidate_stopping_after_5_seconds_of_refreshing/)
-- [The “Real” Clean Architecture in Android: Modularization](https://www.reddit.com/r/androiddev/comments/1g9uxc8/the_real_clean_architecture_in_android/)
-- [Navigation Compose recreating ViewModel each time.](https://www.reddit.com/r/androiddev/comments/1g9tpmx/navigation_compose_recreating_viewmodel_each_time/)
-- [Some Pixels fail the &quot;device integrity&quot; check after upgrading to Android 15](https://www.reddit.com/r/androiddev/comments/1g9snwu/some_pixels_fail_the_device_integrity_check_after/)
-- [google search results load but target urls display blank white page when clicked in emulator](https://www.reddit.com/r/androiddev/comments/1g9pc2f/google_search_results_load_but_target_urls/)
-- [Theme not being applied to Fragments](https://www.reddit.com/r/androiddev/comments/1g9okp7/theme_not_being_applied_to_fragments/)
-- [TextView expanding vertically when messages are getting longer](https://www.reddit.com/r/androiddev/comments/1g9ojkf/textview_expanding_vertically_when_messages_are/)
-- [What is the proper attribution practice for external dependencies?](https://www.reddit.com/r/androiddev/comments/1g9oabg/what_is_the_proper_attribution_practice_for/)
-- [Does target/sourceCompatibility matter in a pure Kotlin Android library?](https://www.reddit.com/r/androiddev/comments/1g9npbw/does_targetsourcecompatibility_matter_in_a_pure/)
-- [Turn off availability on Chrome OS](https://www.reddit.com/r/androiddev/comments/1g9n33e/turn_off_availability_on_chrome_os/)
+- [Serialization support in KStateMachine library](https://www.reddit.com/r/androiddev/comments/1gal2t0/serialization_support_in_kstatemachine_library/)
+- [Google Play Closed Testing](https://www.reddit.com/r/androiddev/comments/1gal0kt/google_play_closed_testing/)
+- [I love my users, but it&#39;s time to retire my app. Thoughts on how?](https://www.reddit.com/r/androiddev/comments/1gajv20/i_love_my_users_but_its_time_to_retire_my_app/)
+- [Best practices of dynamic UI field creation and dynamic backend response mapping](https://www.reddit.com/r/androiddev/comments/1gajbkh/best_practices_of_dynamic_ui_field_creation_and/)
+- [I am looking for feedback to improve my app and the monetization strategy](https://www.reddit.com/r/androiddev/comments/1gajbae/i_am_looking_for_feedback_to_improve_my_app_and/)
+- [How did the creators of canva do this in android studio?](https://www.reddit.com/r/androiddev/comments/1gaj93f/how_did_the_creators_of_canva_do_this_in_android/)
+- [Compose collapsable LargeTopAppBar bad performance](https://www.reddit.com/r/androiddev/comments/1gahqew/compose_collapsable_largetopappbar_bad_performance/)
+- [Do you encrypt PII in your apps?](https://www.reddit.com/r/androiddev/comments/1gagu7p/do_you_encrypt_pii_in_your_apps/)
+- [How Should I Handle Creating PDFs and Composing Emails?](https://www.reddit.com/r/androiddev/comments/1gaga0s/how_should_i_handle_creating_pdfs_and_composing/)
+- [Where and how are the parts that are not the original drawing drawn in a visual editing app?](https://www.reddit.com/r/androiddev/comments/1gaftb8/where_and_how_are_the_parts_that_are_not_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
