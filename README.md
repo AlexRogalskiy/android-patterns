@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Edge to edge](https://www.reddit.com/r/androiddev/comments/1gba1si/edge_to_edge/)
+- [Vertex AI in Firebase is GA](https://www.reddit.com/r/androiddev/comments/1gb8tq8/vertex_ai_in_firebase_is_ga/)
+- [Re: Issue 127100532: Add support for JUnit 5](https://www.reddit.com/r/androiddev/comments/1gb8kfi/re_issue_127100532_add_support_for_junit_5/)
+- [QA Handling at your job](https://www.reddit.com/r/androiddev/comments/1gb37cm/qa_handling_at_your_job/)
+- [Koin is now updated to support the latest Kotlin version.](https://www.reddit.com/r/androiddev/comments/1gb1591/koin_is_now_updated_to_support_the_latest_kotlin/)
+- [Jetpack Compose - Android TV](https://www.reddit.com/r/androiddev/comments/1gb01u9/jetpack_compose_android_tv/)
+- [You don&#39;t have to use Result for everything!](https://www.reddit.com/r/androiddev/comments/1gazsju/you_dont_have_to_use_result_for_everything/)
+- [Do you show notifications when your app is in the foreground?](https://www.reddit.com/r/androiddev/comments/1gaxhd7/do_you_show_notifications_when_your_app_is_in_the/)
+- [Do you use state management packages in Android development?](https://www.reddit.com/r/androiddev/comments/1gawbn5/do_you_use_state_management_packages_in_android/)
 - [Serialization support in KStateMachine library](https://www.reddit.com/r/androiddev/comments/1gal2t0/serialization_support_in_kstatemachine_library/)
-- [Google Play Closed Testing](https://www.reddit.com/r/androiddev/comments/1gal0kt/google_play_closed_testing/)
-- [I love my users, but it&#39;s time to retire my app. Thoughts on how?](https://www.reddit.com/r/androiddev/comments/1gajv20/i_love_my_users_but_its_time_to_retire_my_app/)
-- [Best practices of dynamic UI field creation and dynamic backend response mapping](https://www.reddit.com/r/androiddev/comments/1gajbkh/best_practices_of_dynamic_ui_field_creation_and/)
-- [I am looking for feedback to improve my app and the monetization strategy](https://www.reddit.com/r/androiddev/comments/1gajbae/i_am_looking_for_feedback_to_improve_my_app_and/)
-- [How did the creators of canva do this in android studio?](https://www.reddit.com/r/androiddev/comments/1gaj93f/how_did_the_creators_of_canva_do_this_in_android/)
-- [Compose collapsable LargeTopAppBar bad performance](https://www.reddit.com/r/androiddev/comments/1gahqew/compose_collapsable_largetopappbar_bad_performance/)
-- [Do you encrypt PII in your apps?](https://www.reddit.com/r/androiddev/comments/1gagu7p/do_you_encrypt_pii_in_your_apps/)
-- [How Should I Handle Creating PDFs and Composing Emails?](https://www.reddit.com/r/androiddev/comments/1gaga0s/how_should_i_handle_creating_pdfs_and_composing/)
-- [Where and how are the parts that are not the original drawing drawn in a visual editing app?](https://www.reddit.com/r/androiddev/comments/1gaftb8/where_and_how_are_the_parts_that_are_not_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
