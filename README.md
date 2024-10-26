@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Team Leads/Managers - We just fired someone we hired on Monday. Has anyone seen anything like this before?](https://www.reddit.com/r/androiddev/comments/1gc9eyc/team_leadsmanagers_we_just_fired_someone_we_hired/)
+- [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/androiddev/comments/1gc1bjt/the_future_of_kotlin_android_and_everything/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1gc0gr1/android_studio_ladybug_feature_drop_202422_canary/)
+- [Switch to Kotlin hurt performance?](https://www.reddit.com/r/androiddev/comments/1gbyzf4/switch_to_kotlin_hurt_performance/)
+- [For a smooth migration from Dagger to Koin &lpar;if you&#39;d like to&rpar;](https://www.reddit.com/r/androiddev/comments/1gbv90p/for_a_smooth_migration_from_dagger_to_koin_if/)
+- [How To Create a Parallax Movie Pager In Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1gbsf84/how_to_create_a_parallax_movie_pager_in_jetpack/)
+- [Did anyone manage to create an alarm app for wear os with an Activity showing after alarm goes off?](https://www.reddit.com/r/androiddev/comments/1gbr74n/did_anyone_manage_to_create_an_alarm_app_for_wear/)
+- [Applying App Wide Themes](https://www.reddit.com/r/androiddev/comments/1gbr620/applying_app_wide_themes/)
+- [Mapping fields between NotificationCompat &amp; AndroidNotification &lpar;fcm&rpar;](https://www.reddit.com/r/androiddev/comments/1gbmsl1/mapping_fields_between_notificationcompat/)
 - [Edge to edge](https://www.reddit.com/r/androiddev/comments/1gba1si/edge_to_edge/)
-- [Vertex AI in Firebase is GA](https://www.reddit.com/r/androiddev/comments/1gb8tq8/vertex_ai_in_firebase_is_ga/)
-- [Re: Issue 127100532: Add support for JUnit 5](https://www.reddit.com/r/androiddev/comments/1gb8kfi/re_issue_127100532_add_support_for_junit_5/)
-- [QA Handling at your job](https://www.reddit.com/r/androiddev/comments/1gb37cm/qa_handling_at_your_job/)
-- [Koin is now updated to support the latest Kotlin version.](https://www.reddit.com/r/androiddev/comments/1gb1591/koin_is_now_updated_to_support_the_latest_kotlin/)
-- [Jetpack Compose - Android TV](https://www.reddit.com/r/androiddev/comments/1gb01u9/jetpack_compose_android_tv/)
-- [You don&#39;t have to use Result for everything!](https://www.reddit.com/r/androiddev/comments/1gazsju/you_dont_have_to_use_result_for_everything/)
-- [Do you show notifications when your app is in the foreground?](https://www.reddit.com/r/androiddev/comments/1gaxhd7/do_you_show_notifications_when_your_app_is_in_the/)
-- [Do you use state management packages in Android development?](https://www.reddit.com/r/androiddev/comments/1gawbn5/do_you_use_state_management_packages_in_android/)
-- [Serialization support in KStateMachine library](https://www.reddit.com/r/androiddev/comments/1gal2t0/serialization_support_in_kstatemachine_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
