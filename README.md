@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Understanding Kotlin Generics: A Complete Guide for Developers](https://www.reddit.com/r/androiddev/comments/1gdizfh/understanding_kotlin_generics_a_complete_guide/)
+- [Do you keep you UI/UX designers informed about the Android platform and devices properties?](https://www.reddit.com/r/androiddev/comments/1gdgc51/do_you_keep_you_uiux_designers_informed_about_the/)
+- [[Security] Alternatives to Google Play Integrity API](https://www.reddit.com/r/androiddev/comments/1gd8y29/security_alternatives_to_google_play_integrity_api/)
+- [I took a BeReal in the pixel 8 emulator development environment!](https://www.reddit.com/r/androiddev/comments/1gd15cg/i_took_a_bereal_in_the_pixel_8_emulator/)
 - [How to find performance regressions using Diffetto](https://www.reddit.com/r/androiddev/comments/1gce2m4/how_to_find_performance_regressions_using_diffetto/)
 - [Eclipse ADT app -&gt; Google Play store ?](https://www.reddit.com/r/androiddev/comments/1gcce7p/eclipse_adt_app_google_play_store/)
 - [Android Studio Ladybug changed the profiler.](https://www.reddit.com/r/androiddev/comments/1gcc3to/android_studio_ladybug_changed_the_profiler/)
 - [Should font sizes be considered a size dimension or part of the typography?](https://www.reddit.com/r/androiddev/comments/1gcbbkd/should_font_sizes_be_considered_a_size_dimension/)
 - [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/androiddev/comments/1gc1bjt/the_future_of_kotlin_android_and_everything/)
 - [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1gc0gr1/android_studio_ladybug_feature_drop_202422_canary/)
-- [Switch to Kotlin hurt performance?](https://www.reddit.com/r/androiddev/comments/1gbyzf4/switch_to_kotlin_hurt_performance/)
-- [For a smooth migration from Dagger to Koin &lpar;if you&#39;d like to&rpar;](https://www.reddit.com/r/androiddev/comments/1gbv90p/for_a_smooth_migration_from_dagger_to_koin_if/)
-- [How To Create a Parallax Movie Pager In Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1gbsf84/how_to_create_a_parallax_movie_pager_in_jetpack/)
-- [Did anyone manage to create an alarm app for wear os with an Activity showing after alarm goes off?](https://www.reddit.com/r/androiddev/comments/1gbr74n/did_anyone_manage_to_create_an_alarm_app_for_wear/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
