@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Understanding Kotlin Generics: A Complete Guide for Developers](https://www.reddit.com/r/androiddev/comments/1gdizfh/understanding_kotlin_generics_a_complete_guide/)
-- [Do you keep you UI/UX designers informed about the Android platform and devices properties?](https://www.reddit.com/r/androiddev/comments/1gdgc51/do_you_keep_you_uiux_designers_informed_about_the/)
-- [[Security] Alternatives to Google Play Integrity API](https://www.reddit.com/r/androiddev/comments/1gd8y29/security_alternatives_to_google_play_integrity_api/)
-- [I took a BeReal in the pixel 8 emulator development environment!](https://www.reddit.com/r/androiddev/comments/1gd15cg/i_took_a_bereal_in_the_pixel_8_emulator/)
-- [How to find performance regressions using Diffetto](https://www.reddit.com/r/androiddev/comments/1gce2m4/how_to_find_performance_regressions_using_diffetto/)
-- [Eclipse ADT app -&gt; Google Play store ?](https://www.reddit.com/r/androiddev/comments/1gcce7p/eclipse_adt_app_google_play_store/)
-- [Android Studio Ladybug changed the profiler.](https://www.reddit.com/r/androiddev/comments/1gcc3to/android_studio_ladybug_changed_the_profiler/)
-- [Should font sizes be considered a size dimension or part of the typography?](https://www.reddit.com/r/androiddev/comments/1gcbbkd/should_font_sizes_be_considered_a_size_dimension/)
-- [The Future of Kotlin, Android, and Everything](https://www.reddit.com/r/androiddev/comments/1gc1bjt/the_future_of_kotlin_android_and_everything/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1gc0gr1/android_studio_ladybug_feature_drop_202422_canary/)
+- [Is Android development supposed to feel like this with Kotlin and Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1gebt6w/is_android_development_supposed_to_feel_like_this/)
+- [ViewModels](https://www.reddit.com/r/androiddev/comments/1ge84be/viewmodels/)
+- [Keychain on modern Android apps](https://www.reddit.com/r/androiddev/comments/1ge75o0/keychain_on_modern_android_apps/)
+- [Lazy Column Does not display added items](https://www.reddit.com/r/androiddev/comments/1ge6w3u/lazy_column_does_not_display_added_items/)
+- [A quick note on exceptions and WorkManager](https://www.reddit.com/r/androiddev/comments/1ge2mzd/a_quick_note_on_exceptions_and_workmanager/)
+- [Implemented this slick-looking animation using the MotionLayout in Compose and wanted to share with you.](https://www.reddit.com/r/androiddev/comments/1ge02xz/implemented_this_slicklooking_animation_using_the/)
+- [Socket &amp; Plug Design Kit: A Scalable, Collaborative Model for Mobile Development](https://www.reddit.com/r/androiddev/comments/1ge01gx/socket_plug_design_kit_a_scalable_collaborative/)
+- [Playstore review - does it read your code?](https://www.reddit.com/r/androiddev/comments/1gdzx2o/playstore_review_does_it_read_your_code/)
+- [Settings&#39; predictive back animation](https://www.reddit.com/r/androiddev/comments/1gdx0zi/settings_predictive_back_animation/)
+- [Mongodb Atlas ideal for starter project?](https://www.reddit.com/r/androiddev/comments/1gds4ca/mongodb_atlas_ideal_for_starter_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
