@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android 10 not generating bluetooth hci snoop log](https://www.reddit.com/r/androiddev/comments/1gf9kz6/android_10_not_generating_bluetooth_hci_snoop_log/)
+- [Has anyone tried running Android Studio on the Steam Deck? What&#39;s the performance like with large codebases?](https://www.reddit.com/r/androiddev/comments/1gf3cus/has_anyone_tried_running_android_studio_on_the/)
+- [Android Studio CPU spikes for all actions; even just clicking around in a file](https://www.reddit.com/r/androiddev/comments/1gf2urm/android_studio_cpu_spikes_for_all_actions_even/)
+- [Are there better ways to accomplish complex nesting and normalization with room?](https://www.reddit.com/r/androiddev/comments/1gf1jng/are_there_better_ways_to_accomplish_complex/)
+- [Is Gradle modularisation really necessary?](https://www.reddit.com/r/androiddev/comments/1geto18/is_gradle_modularisation_really_necessary/)
+- [What tool do you use for collecting user data?](https://www.reddit.com/r/androiddev/comments/1gervcl/what_tool_do_you_use_for_collecting_user_data/)
+- [Why does Meta want you to write the client token to strings.xml](https://www.reddit.com/r/androiddev/comments/1geq99h/why_does_meta_want_you_to_write_the_client_token/)
+- [Any ADB shell command to increase CPU load/usage ?](https://www.reddit.com/r/androiddev/comments/1gemyc8/any_adb_shell_command_to_increase_cpu_loadusage/)
+- [Force AutoCompleteTextView Dropdown Direction](https://www.reddit.com/r/androiddev/comments/1gekd14/force_autocompletetextview_dropdown_direction/)
 - [Is Android development supposed to feel like this with Kotlin and Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1gebt6w/is_android_development_supposed_to_feel_like_this/)
-- [ViewModels](https://www.reddit.com/r/androiddev/comments/1ge84be/viewmodels/)
-- [Keychain on modern Android apps](https://www.reddit.com/r/androiddev/comments/1ge75o0/keychain_on_modern_android_apps/)
-- [Lazy Column Does not display added items](https://www.reddit.com/r/androiddev/comments/1ge6w3u/lazy_column_does_not_display_added_items/)
-- [A quick note on exceptions and WorkManager](https://www.reddit.com/r/androiddev/comments/1ge2mzd/a_quick_note_on_exceptions_and_workmanager/)
-- [Implemented this slick-looking animation using the MotionLayout in Compose and wanted to share with you.](https://www.reddit.com/r/androiddev/comments/1ge02xz/implemented_this_slicklooking_animation_using_the/)
-- [Socket &amp; Plug Design Kit: A Scalable, Collaborative Model for Mobile Development](https://www.reddit.com/r/androiddev/comments/1ge01gx/socket_plug_design_kit_a_scalable_collaborative/)
-- [Playstore review - does it read your code?](https://www.reddit.com/r/androiddev/comments/1gdzx2o/playstore_review_does_it_read_your_code/)
-- [Settings&#39; predictive back animation](https://www.reddit.com/r/androiddev/comments/1gdx0zi/settings_predictive_back_animation/)
-- [Mongodb Atlas ideal for starter project?](https://www.reddit.com/r/androiddev/comments/1gds4ca/mongodb_atlas_ideal_for_starter_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
