@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are material-components dead?](https://www.reddit.com/r/androiddev/comments/1gfu5rj/are_materialcomponents_dead/)
+- [Where can I find some decent Github Action CI/CD sample scripts?](https://www.reddit.com/r/androiddev/comments/1gft31t/where_can_i_find_some_decent_github_action_cicd/)
+- [TypeAlias Show - Immutable and Persistent Lists in Kotlin](https://www.reddit.com/r/androiddev/comments/1gfokqc/typealias_show_immutable_and_persistent_lists_in/)
+- [Performance issue with Jetpack Compose&#39;s Google Maps](https://www.reddit.com/r/androiddev/comments/1gfof3l/performance_issue_with_jetpack_composes_google/)
+- [ProtectedPermissions Status Reset After FOTA Updates for App Preloads](https://www.reddit.com/r/androiddev/comments/1gfjpd0/protectedpermissions_status_reset_after_fota/)
+- [Compose alternative to FirebaseAuthUi](https://www.reddit.com/r/androiddev/comments/1gfgh8u/compose_alternative_to_firebaseauthui/)
+- [Connecting VM Studio with guest AVD](https://www.reddit.com/r/androiddev/comments/1gfflnl/connecting_vm_studio_with_guest_avd/)
 - [Android 10 not generating bluetooth hci snoop log](https://www.reddit.com/r/androiddev/comments/1gf9kz6/android_10_not_generating_bluetooth_hci_snoop_log/)
 - [Has anyone tried running Android Studio on the Steam Deck? What&#39;s the performance like with large codebases?](https://www.reddit.com/r/androiddev/comments/1gf3cus/has_anyone_tried_running_android_studio_on_the/)
 - [Android Studio CPU spikes for all actions; even just clicking around in a file](https://www.reddit.com/r/androiddev/comments/1gf2urm/android_studio_cpu_spikes_for_all_actions_even/)
-- [Are there better ways to accomplish complex nesting and normalization with room?](https://www.reddit.com/r/androiddev/comments/1gf1jng/are_there_better_ways_to_accomplish_complex/)
-- [Is Gradle modularisation really necessary?](https://www.reddit.com/r/androiddev/comments/1geto18/is_gradle_modularisation_really_necessary/)
-- [What tool do you use for collecting user data?](https://www.reddit.com/r/androiddev/comments/1gervcl/what_tool_do_you_use_for_collecting_user_data/)
-- [Why does Meta want you to write the client token to strings.xml](https://www.reddit.com/r/androiddev/comments/1geq99h/why_does_meta_want_you_to_write_the_client_token/)
-- [Any ADB shell command to increase CPU load/usage ?](https://www.reddit.com/r/androiddev/comments/1gemyc8/any_adb_shell_command_to_increase_cpu_loadusage/)
-- [Force AutoCompleteTextView Dropdown Direction](https://www.reddit.com/r/androiddev/comments/1gekd14/force_autocompletetextview_dropdown_direction/)
-- [Is Android development supposed to feel like this with Kotlin and Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1gebt6w/is_android_development_supposed_to_feel_like_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
