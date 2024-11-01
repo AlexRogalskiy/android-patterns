@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are material-components dead?](https://www.reddit.com/r/androiddev/comments/1gfu5rj/are_materialcomponents_dead/)
-- [Where can I find some decent Github Action CI/CD sample scripts?](https://www.reddit.com/r/androiddev/comments/1gft31t/where_can_i_find_some_decent_github_action_cicd/)
-- [TypeAlias Show - Immutable and Persistent Lists in Kotlin](https://www.reddit.com/r/androiddev/comments/1gfokqc/typealias_show_immutable_and_persistent_lists_in/)
-- [Performance issue with Jetpack Compose&#39;s Google Maps](https://www.reddit.com/r/androiddev/comments/1gfof3l/performance_issue_with_jetpack_composes_google/)
-- [ProtectedPermissions Status Reset After FOTA Updates for App Preloads](https://www.reddit.com/r/androiddev/comments/1gfjpd0/protectedpermissions_status_reset_after_fota/)
-- [Compose alternative to FirebaseAuthUi](https://www.reddit.com/r/androiddev/comments/1gfgh8u/compose_alternative_to_firebaseauthui/)
-- [Connecting VM Studio with guest AVD](https://www.reddit.com/r/androiddev/comments/1gfflnl/connecting_vm_studio_with_guest_avd/)
-- [Android 10 not generating bluetooth hci snoop log](https://www.reddit.com/r/androiddev/comments/1gf9kz6/android_10_not_generating_bluetooth_hci_snoop_log/)
-- [Has anyone tried running Android Studio on the Steam Deck? What&#39;s the performance like with large codebases?](https://www.reddit.com/r/androiddev/comments/1gf3cus/has_anyone_tried_running_android_studio_on_the/)
-- [Android Studio CPU spikes for all actions; even just clicking around in a file](https://www.reddit.com/r/androiddev/comments/1gf2urm/android_studio_cpu_spikes_for_all_actions_even/)
+- [[RELEASE] Ksoup 0.2.0 – Enhanced HTML &amp; XML Parsing for Android Developers &lpar;Kotlin Multiplatform&rpar;](https://www.reddit.com/r/androiddev/comments/1ggsqgx/release_ksoup_020_enhanced_html_xml_parsing_for/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1ggrgv7/android_studio_ladybug_feature_drop_202422_canary/)
+- [Is &#39;remember&#39; in Jetpack Compose overkill?](https://www.reddit.com/r/androiddev/comments/1ggp4pm/is_remember_in_jetpack_compose_overkill/)
+- [Android Studio Ladybug | 2024.2.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1ggnjr7/android_studio_ladybug_202421_patch_2_now/)
+- [Tip for anyone frustrated with Google Payments organization address not updating properly when you&#39;re trying to do so to get it to match with your DUNS number when verifying your Google Play Developer account.](https://www.reddit.com/r/androiddev/comments/1ggmv3v/tip_for_anyone_frustrated_with_google_payments/)
+- [Android Developers Blog: More frequent Android SDK releases: faster innovation, higher quality and more polish](https://www.reddit.com/r/androiddev/comments/1ggjqa3/android_developers_blog_more_frequent_android_sdk/)
+- [Anybody been able to use a local llm in an app? Is this possible yet?](https://www.reddit.com/r/androiddev/comments/1ggis7u/anybody_been_able_to_use_a_local_llm_in_an_app_is/)
+- [Force quit ADB multiple times per day on M1 based Mac](https://www.reddit.com/r/androiddev/comments/1ggeqvp/force_quit_adb_multiple_times_per_day_on_m1_based/)
+- [What static code analyzer do you use in your CI/CD?](https://www.reddit.com/r/androiddev/comments/1ggd8hn/what_static_code_analyzer_do_you_use_in_your_cicd/)
+- [Android Bluetooth GATT &lpar;BLE&rpar;](https://www.reddit.com/r/androiddev/comments/1ggd51o/android_bluetooth_gatt_ble/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
