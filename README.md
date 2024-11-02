@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for some good firestore implementation example](https://www.reddit.com/r/androiddev/comments/1ghgblp/looking_for_some_good_firestore_implementation/)
+- [Unbreaking the changes in Compose 1.7: How to escape an update deadlock](https://www.reddit.com/r/androiddev/comments/1ghebwp/unbreaking_the_changes_in_compose_17_how_to/)
+- [Ladybug has many bugs or is this just me?](https://www.reddit.com/r/androiddev/comments/1ghchwl/ladybug_has_many_bugs_or_is_this_just_me/)
+- [Has Anyone Developed or Launched for Audi Vehicles?](https://www.reddit.com/r/androiddev/comments/1ghc2gu/has_anyone_developed_or_launched_for_audi_vehicles/)
+- [Using the Strangler Fig with Mobile Apps: A case study of gradually modernizing an established mobile application](https://www.reddit.com/r/androiddev/comments/1gh6j2j/using_the_strangler_fig_with_mobile_apps_a_case/)
+- [Storing Secret keys in firebase or keystore](https://www.reddit.com/r/androiddev/comments/1gh1681/storing_secret_keys_in_firebase_or_keystore/)
+- [About the Android Multi-Domain Module](https://www.reddit.com/r/androiddev/comments/1ggz13k/about_the_android_multidomain_module/)
+- [Self Hosting Android Library privately](https://www.reddit.com/r/androiddev/comments/1ggxo57/self_hosting_android_library_privately/)
 - [[RELEASE] Ksoup 0.2.0 – Enhanced HTML &amp; XML Parsing for Android Developers &lpar;Kotlin Multiplatform&rpar;](https://www.reddit.com/r/androiddev/comments/1ggsqgx/release_ksoup_020_enhanced_html_xml_parsing_for/)
 - [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1ggrgv7/android_studio_ladybug_feature_drop_202422_canary/)
-- [Is &#39;remember&#39; in Jetpack Compose overkill?](https://www.reddit.com/r/androiddev/comments/1ggp4pm/is_remember_in_jetpack_compose_overkill/)
-- [Android Studio Ladybug | 2024.2.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1ggnjr7/android_studio_ladybug_202421_patch_2_now/)
-- [Tip for anyone frustrated with Google Payments organization address not updating properly when you&#39;re trying to do so to get it to match with your DUNS number when verifying your Google Play Developer account.](https://www.reddit.com/r/androiddev/comments/1ggmv3v/tip_for_anyone_frustrated_with_google_payments/)
-- [Android Developers Blog: More frequent Android SDK releases: faster innovation, higher quality and more polish](https://www.reddit.com/r/androiddev/comments/1ggjqa3/android_developers_blog_more_frequent_android_sdk/)
-- [Anybody been able to use a local llm in an app? Is this possible yet?](https://www.reddit.com/r/androiddev/comments/1ggis7u/anybody_been_able_to_use_a_local_llm_in_an_app_is/)
-- [Force quit ADB multiple times per day on M1 based Mac](https://www.reddit.com/r/androiddev/comments/1ggeqvp/force_quit_adb_multiple_times_per_day_on_m1_based/)
-- [What static code analyzer do you use in your CI/CD?](https://www.reddit.com/r/androiddev/comments/1ggd8hn/what_static_code_analyzer_do_you_use_in_your_cicd/)
-- [Android Bluetooth GATT &lpar;BLE&rpar;](https://www.reddit.com/r/androiddev/comments/1ggd51o/android_bluetooth_gatt_ble/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
