@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Algebraic Data Types In Kotlin](https://www.reddit.com/r/androiddev/comments/1gia6g7/algebraic_data_types_in_kotlin/)
+- [How do I solve this error?](https://www.reddit.com/r/androiddev/comments/1gi89qq/how_do_i_solve_this_error/)
+- [allowClearTextTraffic makes app not compatible in Google Play](https://www.reddit.com/r/androiddev/comments/1ghuoep/allowcleartexttraffic_makes_app_not_compatible_in/)
 - [Looking for some good firestore implementation example](https://www.reddit.com/r/androiddev/comments/1ghgblp/looking_for_some_good_firestore_implementation/)
 - [Unbreaking the changes in Compose 1.7: How to escape an update deadlock](https://www.reddit.com/r/androiddev/comments/1ghebwp/unbreaking_the_changes_in_compose_17_how_to/)
 - [Ladybug has many bugs or is this just me?](https://www.reddit.com/r/androiddev/comments/1ghchwl/ladybug_has_many_bugs_or_is_this_just_me/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Using the Strangler Fig with Mobile Apps: A case study of gradually modernizing an established mobile application](https://www.reddit.com/r/androiddev/comments/1gh6j2j/using_the_strangler_fig_with_mobile_apps_a_case/)
 - [Storing Secret keys in firebase or keystore](https://www.reddit.com/r/androiddev/comments/1gh1681/storing_secret_keys_in_firebase_or_keystore/)
 - [About the Android Multi-Domain Module](https://www.reddit.com/r/androiddev/comments/1ggz13k/about_the_android_multidomain_module/)
-- [Self Hosting Android Library privately](https://www.reddit.com/r/androiddev/comments/1ggxo57/self_hosting_android_library_privately/)
-- [[RELEASE] Ksoup 0.2.0 – Enhanced HTML &amp; XML Parsing for Android Developers &lpar;Kotlin Multiplatform&rpar;](https://www.reddit.com/r/androiddev/comments/1ggsqgx/release_ksoup_020_enhanced_html_xml_parsing_for/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1ggrgv7/android_studio_ladybug_feature_drop_202422_canary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
