@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is the name and address from your payment profile visible to users of your app?](https://www.reddit.com/r/androiddev/comments/1gj3pcn/is_the_name_and_address_from_your_payment_profile/)
-- [Instrumented tests on CI](https://www.reddit.com/r/androiddev/comments/1giq5y8/instrumented_tests_on_ci/)
-- [Screens are functions: Reimagining Navigation on Android](https://www.reddit.com/r/androiddev/comments/1gimn0d/screens_are_functions_reimagining_navigation_on/)
-- [Algebraic Data Types In Kotlin](https://www.reddit.com/r/androiddev/comments/1gia6g7/algebraic_data_types_in_kotlin/)
-- [How do I solve this error?](https://www.reddit.com/r/androiddev/comments/1gi89qq/how_do_i_solve_this_error/)
-- [allowClearTextTraffic makes app not compatible in Google Play](https://www.reddit.com/r/androiddev/comments/1ghuoep/allowcleartexttraffic_makes_app_not_compatible_in/)
-- [Looking for some good firestore implementation example](https://www.reddit.com/r/androiddev/comments/1ghgblp/looking_for_some_good_firestore_implementation/)
-- [Unbreaking the changes in Compose 1.7: How to escape an update deadlock](https://www.reddit.com/r/androiddev/comments/1ghebwp/unbreaking_the_changes_in_compose_17_how_to/)
-- [Ladybug has many bugs or is this just me?](https://www.reddit.com/r/androiddev/comments/1ghchwl/ladybug_has_many_bugs_or_is_this_just_me/)
-- [Has Anyone Developed or Launched for Audi Vehicles?](https://www.reddit.com/r/androiddev/comments/1ghc2gu/has_anyone_developed_or_launched_for_audi_vehicles/)
+- [Two questions about auto-connecting apps](https://www.reddit.com/r/androiddev/comments/1gjvace/two_questions_about_autoconnecting_apps/)
+- [Conjoined devices](https://www.reddit.com/r/androiddev/comments/1gjsr4b/conjoined_devices/)
+- [Is Room unable to use Cross reference tables with foreignKeys named different than the primaryKeys in the parent entities?](https://www.reddit.com/r/androiddev/comments/1gjqs5p/is_room_unable_to_use_cross_reference_tables_with/)
+- [Is it possible to disable one of my three of my back cameras by just modifing some register in my android phone?](https://www.reddit.com/r/androiddev/comments/1gjqjff/is_it_possible_to_disable_one_of_my_three_of_my/)
+- [Trying to use a tokenizer in my Android app. What&#39;s the best approach of going about it?](https://www.reddit.com/r/androiddev/comments/1gjqhzm/trying_to_use_a_tokenizer_in_my_android_app_whats/)
+- [Examples of modern code and best practices of Android applications.](https://www.reddit.com/r/androiddev/comments/1gjp7d6/examples_of_modern_code_and_best_practices_of/)
+- [Teaching Android Development in regional language.](https://www.reddit.com/r/androiddev/comments/1gjotif/teaching_android_development_in_regional_language/)
+- [My app is Api 21+. Should I use AppCompat and why](https://www.reddit.com/r/androiddev/comments/1gjofpe/my_app_is_api_21_should_i_use_appcompat_and_why/)
+- [Lightweight Recipe RestAPI with admin and docker 👌](https://www.reddit.com/r/androiddev/comments/1gjne50/lightweight_recipe_restapi_with_admin_and_docker/)
+- [Has anyone purchased translation inside the google play developer console?](https://www.reddit.com/r/androiddev/comments/1gjb1y1/has_anyone_purchased_translation_inside_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
