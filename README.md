@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google Play shows &quot;not compatible with your device&quot; despite device being listed as compatible in Play Console](https://www.reddit.com/r/androiddev/comments/1gm2s2e/google_play_shows_not_compatible_with_your_device/)
+- [Android Studio plugin to automatically generate Compose @Previews](https://www.reddit.com/r/androiddev/comments/1gm23nd/android_studio_plugin_to_automatically_generate/)
+- [Auto Typer - emulate a bluetooth keyboard](https://www.reddit.com/r/androiddev/comments/1glx3fy/auto_typer_emulate_a_bluetooth_keyboard/)
+- [Haze 1.0](https://www.reddit.com/r/androiddev/comments/1glp0jt/haze_10/)
+- [Architecture testing](https://www.reddit.com/r/androiddev/comments/1glode7/architecture_testing/)
 - [What Compose Interview question have you been asked in an interview/As an Interviewer](https://www.reddit.com/r/androiddev/comments/1glbg3e/what_compose_interview_question_have_you_been/)
 - [Is it just me or is the way screen transitions work in navigation-compose extremely counter-intuitive?](https://www.reddit.com/r/androiddev/comments/1gl6aof/is_it_just_me_or_is_the_way_screen_transitions/)
 - [Incredibly slow debugger with jetpack compose](https://www.reddit.com/r/androiddev/comments/1gl3lj6/incredibly_slow_debugger_with_jetpack_compose/)
 - [Subtyping Composables](https://www.reddit.com/r/androiddev/comments/1gl1y95/subtyping_composables/)
 - [Why do so few Android apps work in landscape mode on phones, tablets and ChromeBooks?](https://www.reddit.com/r/androiddev/comments/1gl18z3/why_do_so_few_android_apps_work_in_landscape_mode/)
-- [Compose screenshot testing - pros, cons, pitfalls](https://www.reddit.com/r/androiddev/comments/1gkyk5v/compose_screenshot_testing_pros_cons_pitfalls/)
-- [Play Asset Delivery not working &lpar;on WearOS&rpar;](https://www.reddit.com/r/androiddev/comments/1gkwrjk/play_asset_delivery_not_working_on_wearos/)
-- [New to Android Development? Need some personal advice? This is the November newbie thread!](https://www.reddit.com/r/androiddev/comments/1gkjuig/new_to_android_development_need_some_personal/)
-- [log4k: A Comprehensive Logging and Tracing Solution for Kotlin Multiplatform.](https://www.reddit.com/r/androiddev/comments/1gkc0uz/log4k_a_comprehensive_logging_and_tracing/)
-- [Gradle does not recognize the AndroidManifest.xml file in the processDebugMainManifest task, despite the file existing in the specified path](https://www.reddit.com/r/androiddev/comments/1gk6mu6/gradle_does_not_recognize_the_androidmanifestxml/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
