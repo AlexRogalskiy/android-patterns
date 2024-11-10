@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is my app icon and app name not showing?](https://www.reddit.com/r/androiddev/comments/1gnow5f/why_is_my_app_icon_and_app_name_not_showing/)
+- [Do room database “free up” deleted pk for autoGenerate?](https://www.reddit.com/r/androiddev/comments/1gnfc9e/do_room_database_free_up_deleted_pk_for/)
+- [Mangnet &lpar;beta&rpar; - Mangadex client](https://www.reddit.com/r/androiddev/comments/1gncn7v/mangnet_beta_mangadex_client/)
 - [🔥 New features available in Inspektify 🔥](https://www.reddit.com/r/androiddev/comments/1gmfcw8/new_features_available_in_inspektify/)
 - [Toughest interview questions you ever got asked?](https://www.reddit.com/r/androiddev/comments/1gme8q6/toughest_interview_questions_you_ever_got_asked/)
 - [How to build subscription tiers?](https://www.reddit.com/r/androiddev/comments/1gmdgt9/how_to_build_subscription_tiers/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Catching Incoming RCS Messages](https://www.reddit.com/r/androiddev/comments/1gmb06k/catching_incoming_rcs_messages/)
 - [Personal vs organization google console account](https://www.reddit.com/r/androiddev/comments/1gmamp1/personal_vs_organization_google_console_account/)
 - [Google Play shows &quot;not compatible with your device&quot; despite device being listed as compatible in Play Console](https://www.reddit.com/r/androiddev/comments/1gm2s2e/google_play_shows_not_compatible_with_your_device/)
-- [Android Studio plugin to automatically generate Compose @Previews](https://www.reddit.com/r/androiddev/comments/1gm23nd/android_studio_plugin_to_automatically_generate/)
-- [Auto Typer - emulate a bluetooth keyboard](https://www.reddit.com/r/androiddev/comments/1glx3fy/auto_typer_emulate_a_bluetooth_keyboard/)
-- [Haze 1.0](https://www.reddit.com/r/androiddev/comments/1glp0jt/haze_10/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
