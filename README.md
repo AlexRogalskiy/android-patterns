@@ -271,6 +271,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need Guidance on Legal Requirements for Android Apps](https://www.reddit.com/r/androiddev/comments/1gnvj5x/need_guidance_on_legal_requirements_for_android/)
 - [Why is my app icon and app name not showing?](https://www.reddit.com/r/androiddev/comments/1gnow5f/why_is_my_app_icon_and_app_name_not_showing/)
 - [Do room database “free up” deleted pk for autoGenerate?](https://www.reddit.com/r/androiddev/comments/1gnfc9e/do_room_database_free_up_deleted_pk_for/)
 - [Mangnet &lpar;beta&rpar; - Mangadex client](https://www.reddit.com/r/androiddev/comments/1gncn7v/mangnet_beta_mangadex_client/)
@@ -280,7 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Dealing with Android’s peculiar bugs as an app developer](https://www.reddit.com/r/androiddev/comments/1gmcq7f/dealing_with_androids_peculiar_bugs_as_an_app/)
 - [Catching Incoming RCS Messages](https://www.reddit.com/r/androiddev/comments/1gmb06k/catching_incoming_rcs_messages/)
 - [Personal vs organization google console account](https://www.reddit.com/r/androiddev/comments/1gmamp1/personal_vs_organization_google_console_account/)
-- [Google Play shows &quot;not compatible with your device&quot; despite device being listed as compatible in Play Console](https://www.reddit.com/r/androiddev/comments/1gm2s2e/google_play_shows_not_compatible_with_your_device/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
