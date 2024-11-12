@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Skipping the invocation of intermediate composables](https://www.reddit.com/r/androiddev/comments/1gosan5/skipping_the_invocation_of_intermediate/)
+- [Enable Composable Views Sharing Across Modules Without Dependency Constraint](https://www.reddit.com/r/androiddev/comments/1gor99l/enable_composable_views_sharing_across_modules/)
 - [Need Guidance on Legal Requirements for Android Apps](https://www.reddit.com/r/androiddev/comments/1gnvj5x/need_guidance_on_legal_requirements_for_android/)
 - [Why is my app icon and app name not showing?](https://www.reddit.com/r/androiddev/comments/1gnow5f/why_is_my_app_icon_and_app_name_not_showing/)
 - [Do room database “free up” deleted pk for autoGenerate?](https://www.reddit.com/r/androiddev/comments/1gnfc9e/do_room_database_free_up_deleted_pk_for/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Toughest interview questions you ever got asked?](https://www.reddit.com/r/androiddev/comments/1gme8q6/toughest_interview_questions_you_ever_got_asked/)
 - [How to build subscription tiers?](https://www.reddit.com/r/androiddev/comments/1gmdgt9/how_to_build_subscription_tiers/)
 - [Dealing with Android’s peculiar bugs as an app developer](https://www.reddit.com/r/androiddev/comments/1gmcq7f/dealing_with_androids_peculiar_bugs_as_an_app/)
-- [Catching Incoming RCS Messages](https://www.reddit.com/r/androiddev/comments/1gmb06k/catching_incoming_rcs_messages/)
-- [Personal vs organization google console account](https://www.reddit.com/r/androiddev/comments/1gmamp1/personal_vs_organization_google_console_account/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
