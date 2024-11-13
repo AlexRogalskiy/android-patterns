@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is my OnTouchListener freezing my app?](https://www.reddit.com/r/androiddev/comments/1gpwpb6/is_my_ontouchlistener_freezing_my_app/)
+- [Android Studio Meerkat | 2024.3.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1gpsdjo/android_studio_meerkat_202431_canary_1_now/)
+- [Wrote small wavy progress view component in Jetpack Compose. Repo link in comment.](https://www.reddit.com/r/androiddev/comments/1gpqgxt/wrote_small_wavy_progress_view_component_in/)
+- [Impact of the scheduled alarm change on app for Android 13 and below](https://www.reddit.com/r/androiddev/comments/1gpq8fw/impact_of_the_scheduled_alarm_change_on_app_for/)
+- [How to force update &lpar;&amp; test!&rpar; your Android app using Google’s in-app update library](https://www.reddit.com/r/androiddev/comments/1gpjvp1/how_to_force_update_test_your_android_app_using/)
+- [Component-based Approach. Organizing Navigation with the Decompose Library](https://www.reddit.com/r/androiddev/comments/1gpgst4/componentbased_approach_organizing_navigation/)
+- [Custom resources for Compose Preview](https://www.reddit.com/r/androiddev/comments/1gpf8sy/custom_resources_for_compose_preview/)
 - [Skipping the invocation of intermediate composables](https://www.reddit.com/r/androiddev/comments/1gosan5/skipping_the_invocation_of_intermediate/)
 - [Enable Composable Views Sharing Across Modules Without Dependency Constraint](https://www.reddit.com/r/androiddev/comments/1gor99l/enable_composable_views_sharing_across_modules/)
 - [Need Guidance on Legal Requirements for Android Apps](https://www.reddit.com/r/androiddev/comments/1gnvj5x/need_guidance_on_legal_requirements_for_android/)
-- [Why is my app icon and app name not showing?](https://www.reddit.com/r/androiddev/comments/1gnow5f/why_is_my_app_icon_and_app_name_not_showing/)
-- [Do room database “free up” deleted pk for autoGenerate?](https://www.reddit.com/r/androiddev/comments/1gnfc9e/do_room_database_free_up_deleted_pk_for/)
-- [Mangnet &lpar;beta&rpar; - Mangadex client](https://www.reddit.com/r/androiddev/comments/1gncn7v/mangnet_beta_mangadex_client/)
-- [🔥 New features available in Inspektify 🔥](https://www.reddit.com/r/androiddev/comments/1gmfcw8/new_features_available_in_inspektify/)
-- [Toughest interview questions you ever got asked?](https://www.reddit.com/r/androiddev/comments/1gme8q6/toughest_interview_questions_you_ever_got_asked/)
-- [How to build subscription tiers?](https://www.reddit.com/r/androiddev/comments/1gmdgt9/how_to_build_subscription_tiers/)
-- [Dealing with Android’s peculiar bugs as an app developer](https://www.reddit.com/r/androiddev/comments/1gmcq7f/dealing_with_androids_peculiar_bugs_as_an_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
