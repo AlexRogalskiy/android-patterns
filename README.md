@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is my OnTouchListener freezing my app?](https://www.reddit.com/r/androiddev/comments/1gpwpb6/is_my_ontouchlistener_freezing_my_app/)
-- [Android Studio Meerkat | 2024.3.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1gpsdjo/android_studio_meerkat_202431_canary_1_now/)
-- [Wrote small wavy progress view component in Jetpack Compose. Repo link in comment.](https://www.reddit.com/r/androiddev/comments/1gpqgxt/wrote_small_wavy_progress_view_component_in/)
-- [Impact of the scheduled alarm change on app for Android 13 and below](https://www.reddit.com/r/androiddev/comments/1gpq8fw/impact_of_the_scheduled_alarm_change_on_app_for/)
-- [How to force update &lpar;&amp; test!&rpar; your Android app using Google’s in-app update library](https://www.reddit.com/r/androiddev/comments/1gpjvp1/how_to_force_update_test_your_android_app_using/)
-- [Component-based Approach. Organizing Navigation with the Decompose Library](https://www.reddit.com/r/androiddev/comments/1gpgst4/componentbased_approach_organizing_navigation/)
-- [Custom resources for Compose Preview](https://www.reddit.com/r/androiddev/comments/1gpf8sy/custom_resources_for_compose_preview/)
-- [Skipping the invocation of intermediate composables](https://www.reddit.com/r/androiddev/comments/1gosan5/skipping_the_invocation_of_intermediate/)
-- [Enable Composable Views Sharing Across Modules Without Dependency Constraint](https://www.reddit.com/r/androiddev/comments/1gor99l/enable_composable_views_sharing_across_modules/)
-- [Need Guidance on Legal Requirements for Android Apps](https://www.reddit.com/r/androiddev/comments/1gnvj5x/need_guidance_on_legal_requirements_for_android/)
+- [Using ContextCompat.registerReceiver with SDK 34](https://www.reddit.com/r/androiddev/comments/1gqok6v/using_contextcompatregisterreceiver_with_sdk_34/)
+- [Is classic Dagger still a thing for jobs or should I continue in the direction of Hilt and Koin?](https://www.reddit.com/r/androiddev/comments/1gqjs2i/is_classic_dagger_still_a_thing_for_jobs_or/)
+- [If ARCore&#39;s plane recognition is based on feature points, why is access to the Depth API so limited?](https://www.reddit.com/r/androiddev/comments/1gqiuav/if_arcores_plane_recognition_is_based_on_feature/)
+- [A Smoother Ride: Android Emulator Stability and Performance Updates](https://www.reddit.com/r/androiddev/comments/1gqi8wl/a_smoother_ride_android_emulator_stability_and/)
+- [Video - Fun with Function Types](https://www.reddit.com/r/androiddev/comments/1gqg6ea/video_fun_with_function_types/)
+- [251 - There&#39;s a new king in DI town](https://www.reddit.com/r/androiddev/comments/1gqf9fs/251_theres_a_new_king_in_di_town/)
+- [Android Studio removes the Clean Project and Rebuild Project buttons because they &quot;shouldn&#39;t be frequently used&quot;](https://www.reddit.com/r/androiddev/comments/1gqcne1/android_studio_removes_the_clean_project_and/)
+- [Exclude app from being listed on developer/company page on Google Play](https://www.reddit.com/r/androiddev/comments/1gqb3ma/exclude_app_from_being_listed_on_developercompany/)
+- [Room DB: How to query hierarchical data structure?](https://www.reddit.com/r/androiddev/comments/1gq8w04/room_db_how_to_query_hierarchical_data_structure/)
+- [Okay who of you is accidentally DoS-ing the Linux Kernel archive?](https://www.reddit.com/r/androiddev/comments/1gq836c/okay_who_of_you_is_accidentally_dosing_the_linux/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
