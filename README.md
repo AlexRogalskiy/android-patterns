@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using ContextCompat.registerReceiver with SDK 34](https://www.reddit.com/r/androiddev/comments/1gqok6v/using_contextcompatregisterreceiver_with_sdk_34/)
-- [Is classic Dagger still a thing for jobs or should I continue in the direction of Hilt and Koin?](https://www.reddit.com/r/androiddev/comments/1gqjs2i/is_classic_dagger_still_a_thing_for_jobs_or/)
-- [If ARCore&#39;s plane recognition is based on feature points, why is access to the Depth API so limited?](https://www.reddit.com/r/androiddev/comments/1gqiuav/if_arcores_plane_recognition_is_based_on_feature/)
-- [A Smoother Ride: Android Emulator Stability and Performance Updates](https://www.reddit.com/r/androiddev/comments/1gqi8wl/a_smoother_ride_android_emulator_stability_and/)
-- [Video - Fun with Function Types](https://www.reddit.com/r/androiddev/comments/1gqg6ea/video_fun_with_function_types/)
-- [251 - There&#39;s a new king in DI town](https://www.reddit.com/r/androiddev/comments/1gqf9fs/251_theres_a_new_king_in_di_town/)
-- [Android Studio removes the Clean Project and Rebuild Project buttons because they &quot;shouldn&#39;t be frequently used&quot;](https://www.reddit.com/r/androiddev/comments/1gqcne1/android_studio_removes_the_clean_project_and/)
-- [Exclude app from being listed on developer/company page on Google Play](https://www.reddit.com/r/androiddev/comments/1gqb3ma/exclude_app_from_being_listed_on_developercompany/)
-- [Room DB: How to query hierarchical data structure?](https://www.reddit.com/r/androiddev/comments/1gq8w04/room_db_how_to_query_hierarchical_data_structure/)
-- [Okay who of you is accidentally DoS-ing the Linux Kernel archive?](https://www.reddit.com/r/androiddev/comments/1gq836c/okay_who_of_you_is_accidentally_dosing_the_linux/)
+- [Android Studio Meerkat | 2024.3.1 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1grkc73/android_studio_meerkat_202431_canary_2_now/)
+- [How to send intent for email with pdf attachment](https://www.reddit.com/r/androiddev/comments/1grii2s/how_to_send_intent_for_email_with_pdf_attachment/)
+- [I&#39;ve recently launched app built with KMP and here&#39;s the list of parts that required 100% native code](https://www.reddit.com/r/androiddev/comments/1grh8z7/ive_recently_launched_app_built_with_kmp_and/)
+- [Do Deep Link placeholder values still work?](https://www.reddit.com/r/androiddev/comments/1grgls0/do_deep_link_placeholder_values_still_work/)
+- [Be aware of another round of fake termination emails](https://www.reddit.com/r/androiddev/comments/1grfp7v/be_aware_of_another_round_of_fake_termination/)
+- [Anyone interested in collaborating on Android support for the Mill build tool?](https://www.reddit.com/r/androiddev/comments/1greovo/anyone_interested_in_collaborating_on_android/)
+- [Virtual Device lookinf funny on Android Studio and APK not launching](https://www.reddit.com/r/androiddev/comments/1grcydp/virtual_device_lookinf_funny_on_android_studio/)
+- [Chromecast button in menu.](https://www.reddit.com/r/androiddev/comments/1grauyw/chromecast_button_in_menu/)
+- [Trying to set android build machine. Getting: &quot;Failed to transform core-1.8.0-beta01.aar. This should not happen under normal circumstances&quot;](https://www.reddit.com/r/androiddev/comments/1gr2j9b/trying_to_set_android_build_machine_getting/)
+- [PROCESS_TEXT not showing up in most apps](https://www.reddit.com/r/androiddev/comments/1gqz7h0/process_text_not_showing_up_in_most_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
