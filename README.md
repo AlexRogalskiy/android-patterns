@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need google play console account](https://www.reddit.com/r/androiddev/comments/1gsagiw/need_google_play_console_account/)
+- [A Developer’s Roadmap to Mastering Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1gryj1j/a_developers_roadmap_to_mastering_kotlin/)
+- [Android overlay preventing keyboards from coming up.](https://www.reddit.com/r/androiddev/comments/1grv2pi/android_overlay_preventing_keyboards_from_coming/)
+- [ImageVector vs painterResources — Under the hood.](https://www.reddit.com/r/androiddev/comments/1groiy8/imagevector_vs_painterresources_under_the_hood/)
+- [Is it weird that I find Android easier than backend which seems to be getting endlessly complex?](https://www.reddit.com/r/androiddev/comments/1grm7j8/is_it_weird_that_i_find_android_easier_than/)
+- [Can I delete backup_rules.xml and data_extraction_rules.xml in the xml folder and in Android Manifest?](https://www.reddit.com/r/androiddev/comments/1grlxzt/can_i_delete_backup_rulesxml_and_data_extraction/)
 - [Android Studio Meerkat | 2024.3.1 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1grkc73/android_studio_meerkat_202431_canary_2_now/)
 - [How to send intent for email with pdf attachment](https://www.reddit.com/r/androiddev/comments/1grii2s/how_to_send_intent_for_email_with_pdf_attachment/)
 - [I&#39;ve recently launched app built with KMP and here&#39;s the list of parts that required 100% native code](https://www.reddit.com/r/androiddev/comments/1grh8z7/ive_recently_launched_app_built_with_kmp_and/)
 - [Do Deep Link placeholder values still work?](https://www.reddit.com/r/androiddev/comments/1grgls0/do_deep_link_placeholder_values_still_work/)
-- [Be aware of another round of fake termination emails](https://www.reddit.com/r/androiddev/comments/1grfp7v/be_aware_of_another_round_of_fake_termination/)
-- [Anyone interested in collaborating on Android support for the Mill build tool?](https://www.reddit.com/r/androiddev/comments/1greovo/anyone_interested_in_collaborating_on_android/)
-- [Virtual Device lookinf funny on Android Studio and APK not launching](https://www.reddit.com/r/androiddev/comments/1grcydp/virtual_device_lookinf_funny_on_android_studio/)
-- [Chromecast button in menu.](https://www.reddit.com/r/androiddev/comments/1grauyw/chromecast_button_in_menu/)
-- [Trying to set android build machine. Getting: &quot;Failed to transform core-1.8.0-beta01.aar. This should not happen under normal circumstances&quot;](https://www.reddit.com/r/androiddev/comments/1gr2j9b/trying_to_set_android_build_machine_getting/)
-- [PROCESS_TEXT not showing up in most apps](https://www.reddit.com/r/androiddev/comments/1gqz7h0/process_text_not_showing_up_in_most_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
