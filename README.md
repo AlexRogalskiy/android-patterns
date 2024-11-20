@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a App Update Migration Library - Icarion](https://www.reddit.com/r/androiddev/comments/1gv8yc6/i_made_a_app_update_migration_library_icarion/)
+- [The First Developer Preview of Android 16](https://www.reddit.com/r/androiddev/comments/1gv6ck6/the_first_developer_preview_of_android_16/)
+- [Benchmark Insights: Direct State Propagation vs. Lambda-based State in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1guyo8j/benchmark_insights_direct_state_propagation_vs/)
+- [Google asking devs for survey - so tell them](https://www.reddit.com/r/androiddev/comments/1guuv5w/google_asking_devs_for_survey_so_tell_them/)
 - [Android Studio Ladybug Feature Drop | 2024.2.2 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1gujl2q/android_studio_ladybug_feature_drop_202422_beta_1/)
 - [Examining cold start application performance... should I be clearing the app data every iteration?](https://www.reddit.com/r/androiddev/comments/1guek0q/examining_cold_start_application_performance/)
 - [emulator not working on linux &lpar;solution&rpar;](https://www.reddit.com/r/androiddev/comments/1gu0wpz/emulator_not_working_on_linux_solution/)
 - [Is there a possibility to have UI tests written with Espresso that use the real injected services?](https://www.reddit.com/r/androiddev/comments/1gu0vgr/is_there_a_possibility_to_have_ui_tests_written/)
 - [Not much coming up in android 15?](https://www.reddit.com/r/androiddev/comments/1gtru7s/not_much_coming_up_in_android_15/)
 - [Dispatchers - IO and Default Under the Hood.](https://www.reddit.com/r/androiddev/comments/1gt7eee/dispatchers_io_and_default_under_the_hood/)
-- [I made my first library](https://www.reddit.com/r/androiddev/comments/1gsqe7p/i_made_my_first_library/)
-- [Don’t use Kotlin&#39;s removeFirst&lpar;&rpar; and removeLast&lpar;&rpar; when using compileSdk 35](https://www.reddit.com/r/androiddev/comments/1gspjrs/dont_use_kotlins_removefirst_and_removelast_when/)
-- [Trigger action from phones hardware button.](https://www.reddit.com/r/androiddev/comments/1gsopzg/trigger_action_from_phones_hardware_button/)
-- [I made a puzzle game solvable only with Android developer tools](https://www.reddit.com/r/androiddev/comments/1gsnhu7/i_made_a_puzzle_game_solvable_only_with_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
