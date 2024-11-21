@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Developers Blog: Introducing Restore Credentials: Effortless account restoration for Android apps](https://www.reddit.com/r/androiddev/comments/1gw0xk5/android_developers_blog_introducing_restore/)
+- [Anonymous Functions != Lambdas](https://www.reddit.com/r/androiddev/comments/1gvstld/anonymous_functions_lambdas/)
+- [Building E2EE for Our Open-Source Location Tracking App—Looking for Advice!](https://www.reddit.com/r/androiddev/comments/1gvq8ng/building_e2ee_for_our_opensource_location/)
+- [How to implement VPN split tunneling in Android&#39;s VpnService to exclude certain IPs from the VPN tunnel?](https://www.reddit.com/r/androiddev/comments/1gvpo25/how_to_implement_vpn_split_tunneling_in_androids/)
+- [DVD Screensaver with Compose Multiplatform &lpar;Pixel Fold, iPhone, Desktop&rpar;](https://www.reddit.com/r/androiddev/comments/1gvkdiq/dvd_screensaver_with_compose_multiplatform_pixel/)
+- [I made a site with searchable Compose Multiplatform libraries](https://www.reddit.com/r/androiddev/comments/1gvjmah/i_made_a_site_with_searchable_compose/)
+- [Creating Pixel-Perfect UI with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1gvje0n/creating_pixelperfect_ui_with_jetpack_compose/)
 - [I made a App Update Migration Library - Icarion](https://www.reddit.com/r/androiddev/comments/1gv8yc6/i_made_a_app_update_migration_library_icarion/)
 - [The First Developer Preview of Android 16](https://www.reddit.com/r/androiddev/comments/1gv6ck6/the_first_developer_preview_of_android_16/)
 - [Benchmark Insights: Direct State Propagation vs. Lambda-based State in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1guyo8j/benchmark_insights_direct_state_propagation_vs/)
-- [Google asking devs for survey - so tell them](https://www.reddit.com/r/androiddev/comments/1guuv5w/google_asking_devs_for_survey_so_tell_them/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1gujl2q/android_studio_ladybug_feature_drop_202422_beta_1/)
-- [Examining cold start application performance... should I be clearing the app data every iteration?](https://www.reddit.com/r/androiddev/comments/1guek0q/examining_cold_start_application_performance/)
-- [emulator not working on linux &lpar;solution&rpar;](https://www.reddit.com/r/androiddev/comments/1gu0wpz/emulator_not_working_on_linux_solution/)
-- [Is there a possibility to have UI tests written with Espresso that use the real injected services?](https://www.reddit.com/r/androiddev/comments/1gu0vgr/is_there_a_possibility_to_have_ui_tests_written/)
-- [Not much coming up in android 15?](https://www.reddit.com/r/androiddev/comments/1gtru7s/not_much_coming_up_in_android_15/)
-- [Dispatchers - IO and Default Under the Hood.](https://www.reddit.com/r/androiddev/comments/1gt7eee/dispatchers_io_and_default_under_the_hood/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
