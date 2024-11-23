@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[UI in Android Studio] How can I hide all text here? I like Classic UI but I can&#39;t fit everything I want on these ribbons because of the text](https://www.reddit.com/r/androiddev/comments/1gx84rk/ui_in_android_studio_how_can_i_hide_all_text_here/)
+- [CI/CD tool for solo indie developer in 2024](https://www.reddit.com/r/androiddev/comments/1gx5a1c/cicd_tool_for_solo_indie_developer_in_2024/)
+- [If my app is paid on the App Store, should it be paid on the Play Store too?](https://www.reddit.com/r/androiddev/comments/1gx2uu3/if_my_app_is_paid_on_the_app_store_should_it_be/)
+- [HTTP - client able to stop uploading file while getting server response](https://www.reddit.com/r/androiddev/comments/1gx0uh2/http_client_able_to_stop_uploading_file_while/)
 - [Android Studio Meerkat | 2024.3.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1gwvj00/android_studio_meerkat_202431_canary_3_now/)
 - [Offered to distribute my game to prisons for](https://www.reddit.com/r/androiddev/comments/1gwsq2e/offered_to_distribute_my_game_to_prisons_for/)
 - [Cancellation in Kotlin Coroutines - Internal working](https://www.reddit.com/r/androiddev/comments/1gwlzsh/cancellation_in_kotlin_coroutines_internal_working/)
 - [Building a Clean, Multi-Module Application with Compose Multiplatform | Introduction to the Series](https://www.reddit.com/r/androiddev/comments/1gwjkgk/building_a_clean_multimodule_application_with/)
 - [Android wifi suggestion.](https://www.reddit.com/r/androiddev/comments/1gwd4do/android_wifi_suggestion/)
 - [Android Developers Blog: Introducing Restore Credentials: Effortless account restoration for Android apps](https://www.reddit.com/r/androiddev/comments/1gw0xk5/android_developers_blog_introducing_restore/)
-- [Anonymous Functions != Lambdas](https://www.reddit.com/r/androiddev/comments/1gvstld/anonymous_functions_lambdas/)
-- [Building E2EE for Our Open-Source Location Tracking App—Looking for Advice!](https://www.reddit.com/r/androiddev/comments/1gvq8ng/building_e2ee_for_our_opensource_location/)
-- [How to implement VPN split tunneling in Android&#39;s VpnService to exclude certain IPs from the VPN tunnel?](https://www.reddit.com/r/androiddev/comments/1gvpo25/how_to_implement_vpn_split_tunneling_in_androids/)
-- [DVD Screensaver with Compose Multiplatform &lpar;Pixel Fold, iPhone, Desktop&rpar;](https://www.reddit.com/r/androiddev/comments/1gvkdiq/dvd_screensaver_with_compose_multiplatform_pixel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
