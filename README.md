@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Declaration&quot; required by Google Play on using Exact Alarms 🙄](https://www.reddit.com/r/androiddev/comments/1gy1djf/declaration_required_by_google_play_on_using/)
+- [$300 Bounty For Killing A Payment Bug In App](https://www.reddit.com/r/androiddev/comments/1gy0u8k/300_bounty_for_killing_a_payment_bug_in_app/)
 - [[UI in Android Studio] How can I hide all text here? I like Classic UI but I can&#39;t fit everything I want on these ribbons because of the text](https://www.reddit.com/r/androiddev/comments/1gx84rk/ui_in_android_studio_how_can_i_hide_all_text_here/)
 - [CI/CD tool for solo indie developer in 2024](https://www.reddit.com/r/androiddev/comments/1gx5a1c/cicd_tool_for_solo_indie_developer_in_2024/)
 - [If my app is paid on the App Store, should it be paid on the Play Store too?](https://www.reddit.com/r/androiddev/comments/1gx2uu3/if_my_app_is_paid_on_the_app_store_should_it_be/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Offered to distribute my game to prisons for](https://www.reddit.com/r/androiddev/comments/1gwsq2e/offered_to_distribute_my_game_to_prisons_for/)
 - [Cancellation in Kotlin Coroutines - Internal working](https://www.reddit.com/r/androiddev/comments/1gwlzsh/cancellation_in_kotlin_coroutines_internal_working/)
 - [Building a Clean, Multi-Module Application with Compose Multiplatform | Introduction to the Series](https://www.reddit.com/r/androiddev/comments/1gwjkgk/building_a_clean_multimodule_application_with/)
-- [Android wifi suggestion.](https://www.reddit.com/r/androiddev/comments/1gwd4do/android_wifi_suggestion/)
-- [Android Developers Blog: Introducing Restore Credentials: Effortless account restoration for Android apps](https://www.reddit.com/r/androiddev/comments/1gw0xk5/android_developers_blog_introducing_restore/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
