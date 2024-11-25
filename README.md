@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scrcpy 3.0 released with virtual display feature, OpenGL filters](https://www.reddit.com/r/androiddev/comments/1gz5xzc/scrcpy_30_released_with_virtual_display_feature/)
+- [Need help with maintaining Jetpack Compose LazyVerticalGrid scroll state](https://www.reddit.com/r/androiddev/comments/1gyurx5/need_help_with_maintaining_jetpack_compose/)
+- [AndroidStudio Profiler Java/Kotlin Allocation &quot;yellow overlay&quot; meaning?](https://www.reddit.com/r/androiddev/comments/1gysw91/androidstudio_profiler_javakotlin_allocation/)
+- [Android Faithful - Interview with Jesse Wilson from Cash.App / Block - Droidcon NYC](https://www.reddit.com/r/androiddev/comments/1gyoo2p/android_faithful_interview_with_jesse_wilson_from/)
+- [How to create such scrollable tab row in jetpack compose](https://www.reddit.com/r/androiddev/comments/1gylis2/how_to_create_such_scrollable_tab_row_in_jetpack/)
 - [&quot;Declaration&quot; required by Google Play on using Exact Alarms 🙄](https://www.reddit.com/r/androiddev/comments/1gy1djf/declaration_required_by_google_play_on_using/)
 - [$300 Bounty For Killing A Payment Bug In App](https://www.reddit.com/r/androiddev/comments/1gy0u8k/300_bounty_for_killing_a_payment_bug_in_app/)
 - [[UI in Android Studio] How can I hide all text here? I like Classic UI but I can&#39;t fit everything I want on these ribbons because of the text](https://www.reddit.com/r/androiddev/comments/1gx84rk/ui_in_android_studio_how_can_i_hide_all_text_here/)
 - [CI/CD tool for solo indie developer in 2024](https://www.reddit.com/r/androiddev/comments/1gx5a1c/cicd_tool_for_solo_indie_developer_in_2024/)
 - [If my app is paid on the App Store, should it be paid on the Play Store too?](https://www.reddit.com/r/androiddev/comments/1gx2uu3/if_my_app_is_paid_on_the_app_store_should_it_be/)
-- [HTTP - client able to stop uploading file while getting server response](https://www.reddit.com/r/androiddev/comments/1gx0uh2/http_client_able_to_stop_uploading_file_while/)
-- [Android Studio Meerkat | 2024.3.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1gwvj00/android_studio_meerkat_202431_canary_3_now/)
-- [Offered to distribute my game to prisons for](https://www.reddit.com/r/androiddev/comments/1gwsq2e/offered_to_distribute_my_game_to_prisons_for/)
-- [Cancellation in Kotlin Coroutines - Internal working](https://www.reddit.com/r/androiddev/comments/1gwlzsh/cancellation_in_kotlin_coroutines_internal_working/)
-- [Building a Clean, Multi-Module Application with Compose Multiplatform | Introduction to the Series](https://www.reddit.com/r/androiddev/comments/1gwjkgk/building_a_clean_multimodule_application_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
