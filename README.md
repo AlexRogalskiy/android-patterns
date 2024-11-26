@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How does TalkBack determine whether the new view added to the tree is a new screen or not?](https://www.reddit.com/r/androiddev/comments/1gzpn4l/how_does_talkback_determine_whether_the_new_view/)
+- [Android Studio - icon cache](https://www.reddit.com/r/androiddev/comments/1gzn91d/android_studio_icon_cache/)
+- [Is GPU computing on Android even possible?](https://www.reddit.com/r/androiddev/comments/1gzf9gq/is_gpu_computing_on_android_even_possible/)
+- [Open source tool to understand data collection in Android apps](https://www.reddit.com/r/androiddev/comments/1gzej82/open_source_tool_to_understand_data_collection_in/)
 - [Scrcpy 3.0 released with virtual display feature, OpenGL filters](https://www.reddit.com/r/androiddev/comments/1gz5xzc/scrcpy_30_released_with_virtual_display_feature/)
 - [Need help with maintaining Jetpack Compose LazyVerticalGrid scroll state](https://www.reddit.com/r/androiddev/comments/1gyurx5/need_help_with_maintaining_jetpack_compose/)
 - [AndroidStudio Profiler Java/Kotlin Allocation &quot;yellow overlay&quot; meaning?](https://www.reddit.com/r/androiddev/comments/1gysw91/androidstudio_profiler_javakotlin_allocation/)
 - [Android Faithful - Interview with Jesse Wilson from Cash.App / Block - Droidcon NYC](https://www.reddit.com/r/androiddev/comments/1gyoo2p/android_faithful_interview_with_jesse_wilson_from/)
 - [How to create such scrollable tab row in jetpack compose](https://www.reddit.com/r/androiddev/comments/1gylis2/how_to_create_such_scrollable_tab_row_in_jetpack/)
 - [&quot;Declaration&quot; required by Google Play on using Exact Alarms 🙄](https://www.reddit.com/r/androiddev/comments/1gy1djf/declaration_required_by_google_play_on_using/)
-- [$300 Bounty For Killing A Payment Bug In App](https://www.reddit.com/r/androiddev/comments/1gy0u8k/300_bounty_for_killing_a_payment_bug_in_app/)
-- [[UI in Android Studio] How can I hide all text here? I like Classic UI but I can&#39;t fit everything I want on these ribbons because of the text](https://www.reddit.com/r/androiddev/comments/1gx84rk/ui_in_android_studio_how_can_i_hide_all_text_here/)
-- [CI/CD tool for solo indie developer in 2024](https://www.reddit.com/r/androiddev/comments/1gx5a1c/cicd_tool_for_solo_indie_developer_in_2024/)
-- [If my app is paid on the App Store, should it be paid on the Play Store too?](https://www.reddit.com/r/androiddev/comments/1gx2uu3/if_my_app_is_paid_on_the_app_store_should_it_be/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
