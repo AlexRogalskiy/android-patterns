@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rules about performance tools - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1h0rgzl/rules_about_performance_tools_android_developers/)
+- [Why is there so much obsession on app size reduction?](https://www.reddit.com/r/androiddev/comments/1h0evb0/why_is_there_so_much_obsession_on_app_size/)
+- [constraints-explorer: lightweight tool to help understand and debug how Compose&#39;s layout constraints affect your composables](https://www.reddit.com/r/androiddev/comments/1h08w6s/constraintsexplorer_lightweight_tool_to_help/)
 - [How does TalkBack determine whether the new view added to the tree is a new screen or not?](https://www.reddit.com/r/androiddev/comments/1gzpn4l/how_does_talkback_determine_whether_the_new_view/)
 - [Android Studio - icon cache](https://www.reddit.com/r/androiddev/comments/1gzn91d/android_studio_icon_cache/)
 - [Is GPU computing on Android even possible?](https://www.reddit.com/r/androiddev/comments/1gzf9gq/is_gpu_computing_on_android_even_possible/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Scrcpy 3.0 released with virtual display feature, OpenGL filters](https://www.reddit.com/r/androiddev/comments/1gz5xzc/scrcpy_30_released_with_virtual_display_feature/)
 - [Need help with maintaining Jetpack Compose LazyVerticalGrid scroll state](https://www.reddit.com/r/androiddev/comments/1gyurx5/need_help_with_maintaining_jetpack_compose/)
 - [AndroidStudio Profiler Java/Kotlin Allocation &quot;yellow overlay&quot; meaning?](https://www.reddit.com/r/androiddev/comments/1gysw91/androidstudio_profiler_javakotlin_allocation/)
-- [Android Faithful - Interview with Jesse Wilson from Cash.App / Block - Droidcon NYC](https://www.reddit.com/r/androiddev/comments/1gyoo2p/android_faithful_interview_with_jesse_wilson_from/)
-- [How to create such scrollable tab row in jetpack compose](https://www.reddit.com/r/androiddev/comments/1gylis2/how_to_create_such_scrollable_tab_row_in_jetpack/)
-- [&quot;Declaration&quot; required by Google Play on using Exact Alarms 🙄](https://www.reddit.com/r/androiddev/comments/1gy1djf/declaration_required_by_google_play_on_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
