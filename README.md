@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How Are Permissions Handled After Accepting](https://www.reddit.com/r/androiddev/comments/1h1dqdy/how_are_permissions_handled_after_accepting/)
+- [The pursuit of fast feedback loops in Android development](https://www.reddit.com/r/androiddev/comments/1h1df9q/the_pursuit_of_fast_feedback_loops_in_android/)
+- [Is it ok to pass MutableState&lt;T&gt; as Parameter to a Composable? &lpar;Original posted to SO, reposting here to get more eyes on it. Thanks!&rpar;](https://www.reddit.com/r/androiddev/comments/1h1cjvh/is_it_ok_to_pass_mutablestatet_as_parameter_to_a/)
+- [Kotlin 2.1.0 Released](https://www.reddit.com/r/androiddev/comments/1h18o7w/kotlin_210_released/)
+- [Everyone needs a starter template &amp; Amper talk](https://www.reddit.com/r/androiddev/comments/1h16kvl/everyone_needs_a_starter_template_amper_talk/)
+- [App incorrectly labeled as malware -&gt; lost 30,000+ users -&gt; embassy intervened](https://www.reddit.com/r/androiddev/comments/1h14wqs/app_incorrectly_labeled_as_malware_lost_30000/)
 - [Rules about performance tools - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1h0rgzl/rules_about_performance_tools_android_developers/)
 - [Why is there so much obsession on app size reduction?](https://www.reddit.com/r/androiddev/comments/1h0evb0/why_is_there_so_much_obsession_on_app_size/)
 - [constraints-explorer: lightweight tool to help understand and debug how Compose&#39;s layout constraints affect your composables](https://www.reddit.com/r/androiddev/comments/1h08w6s/constraintsexplorer_lightweight_tool_to_help/)
 - [How does TalkBack determine whether the new view added to the tree is a new screen or not?](https://www.reddit.com/r/androiddev/comments/1gzpn4l/how_does_talkback_determine_whether_the_new_view/)
-- [Android Studio - icon cache](https://www.reddit.com/r/androiddev/comments/1gzn91d/android_studio_icon_cache/)
-- [Is GPU computing on Android even possible?](https://www.reddit.com/r/androiddev/comments/1gzf9gq/is_gpu_computing_on_android_even_possible/)
-- [Open source tool to understand data collection in Android apps](https://www.reddit.com/r/androiddev/comments/1gzej82/open_source_tool_to_understand_data_collection_in/)
-- [Scrcpy 3.0 released with virtual display feature, OpenGL filters](https://www.reddit.com/r/androiddev/comments/1gz5xzc/scrcpy_30_released_with_virtual_display_feature/)
-- [Need help with maintaining Jetpack Compose LazyVerticalGrid scroll state](https://www.reddit.com/r/androiddev/comments/1gyurx5/need_help_with_maintaining_jetpack_compose/)
-- [AndroidStudio Profiler Java/Kotlin Allocation &quot;yellow overlay&quot; meaning?](https://www.reddit.com/r/androiddev/comments/1gysw91/androidstudio_profiler_javakotlin_allocation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
