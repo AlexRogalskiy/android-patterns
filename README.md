@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made an open-source wiki App built with Compose Multiplatform! &lpar;Figma &amp; GitHub&rpar;](https://www.reddit.com/r/androiddev/comments/1h2aejc/i_made_an_opensource_wiki_app_built_with_compose/)
+- [Kotlin multiple declarations in one file](https://www.reddit.com/r/androiddev/comments/1h21m3v/kotlin_multiple_declarations_in_one_file/)
+- [Top 5 Problems Google Leaves to Third-Party Vendors for Android Developers](https://www.reddit.com/r/androiddev/comments/1h1rr9c/top_5_problems_google_leaves_to_thirdparty/)
+- [Open-Source Android Library — WYSIWYG Rich Editor for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1h1ogoj/opensource_android_library_wysiwyg_rich_editor/)
 - [How Are Permissions Handled After Accepting](https://www.reddit.com/r/androiddev/comments/1h1dqdy/how_are_permissions_handled_after_accepting/)
 - [The pursuit of fast feedback loops in Android development](https://www.reddit.com/r/androiddev/comments/1h1df9q/the_pursuit_of_fast_feedback_loops_in_android/)
 - [Is it ok to pass MutableState&lt;T&gt; as Parameter to a Composable? &lpar;Original posted to SO, reposting here to get more eyes on it. Thanks!&rpar;](https://www.reddit.com/r/androiddev/comments/1h1cjvh/is_it_ok_to_pass_mutablestatet_as_parameter_to_a/)
 - [Kotlin 2.1.0 Released](https://www.reddit.com/r/androiddev/comments/1h18o7w/kotlin_210_released/)
 - [Everyone needs a starter template &amp; Amper talk](https://www.reddit.com/r/androiddev/comments/1h16kvl/everyone_needs_a_starter_template_amper_talk/)
 - [App incorrectly labeled as malware -&gt; lost 30,000+ users -&gt; embassy intervened](https://www.reddit.com/r/androiddev/comments/1h14wqs/app_incorrectly_labeled_as_malware_lost_30000/)
-- [Rules about performance tools - Android Developers Backstage](https://www.reddit.com/r/androiddev/comments/1h0rgzl/rules_about_performance_tools_android_developers/)
-- [Why is there so much obsession on app size reduction?](https://www.reddit.com/r/androiddev/comments/1h0evb0/why_is_there_so_much_obsession_on_app_size/)
-- [constraints-explorer: lightweight tool to help understand and debug how Compose&#39;s layout constraints affect your composables](https://www.reddit.com/r/androiddev/comments/1h08w6s/constraintsexplorer_lightweight_tool_to_help/)
-- [How does TalkBack determine whether the new view added to the tree is a new screen or not?](https://www.reddit.com/r/androiddev/comments/1gzpn4l/how_does_talkback_determine_whether_the_new_view/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
