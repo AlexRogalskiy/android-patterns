@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Optimizing Bytecode: Surprising Performance Gains](https://www.reddit.com/r/androiddev/comments/1h2syys/optimizing_bytecode_surprising_performance_gains/)
+- [Understanding the file permissions in Android &lpar;and Linux&rpar;](https://www.reddit.com/r/androiddev/comments/1h2ngjy/understanding_the_file_permissions_in_android_and/)
+- [[Update] Over 200+ Jetpack Compose/Compose Multiplatform libraries submitted to ComposeLibraries.com](https://www.reddit.com/r/androiddev/comments/1h2n0lu/update_over_200_jetpack_composecompose/)
+- [I created a small Android Studio plugin that creates previews from your composable](https://www.reddit.com/r/androiddev/comments/1h2mg23/i_created_a_small_android_studio_plugin_that/)
+- [Handling secrets](https://www.reddit.com/r/androiddev/comments/1h2gzw9/handling_secrets/)
 - [I made an open-source wiki App built with Compose Multiplatform! &lpar;Figma &amp; GitHub&rpar;](https://www.reddit.com/r/androiddev/comments/1h2aejc/i_made_an_opensource_wiki_app_built_with_compose/)
 - [Kotlin multiple declarations in one file](https://www.reddit.com/r/androiddev/comments/1h21m3v/kotlin_multiple_declarations_in_one_file/)
 - [Top 5 Problems Google Leaves to Third-Party Vendors for Android Developers](https://www.reddit.com/r/androiddev/comments/1h1rr9c/top_5_problems_google_leaves_to_thirdparty/)
 - [Open-Source Android Library — WYSIWYG Rich Editor for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1h1ogoj/opensource_android_library_wysiwyg_rich_editor/)
 - [How Are Permissions Handled After Accepting](https://www.reddit.com/r/androiddev/comments/1h1dqdy/how_are_permissions_handled_after_accepting/)
-- [The pursuit of fast feedback loops in Android development](https://www.reddit.com/r/androiddev/comments/1h1df9q/the_pursuit_of_fast_feedback_loops_in_android/)
-- [Is it ok to pass MutableState&lt;T&gt; as Parameter to a Composable? &lpar;Original posted to SO, reposting here to get more eyes on it. Thanks!&rpar;](https://www.reddit.com/r/androiddev/comments/1h1cjvh/is_it_ok_to_pass_mutablestatet_as_parameter_to_a/)
-- [Kotlin 2.1.0 Released](https://www.reddit.com/r/androiddev/comments/1h18o7w/kotlin_210_released/)
-- [Everyone needs a starter template &amp; Amper talk](https://www.reddit.com/r/androiddev/comments/1h16kvl/everyone_needs_a_starter_template_amper_talk/)
-- [App incorrectly labeled as malware -&gt; lost 30,000+ users -&gt; embassy intervened](https://www.reddit.com/r/androiddev/comments/1h14wqs/app_incorrectly_labeled_as_malware_lost_30000/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
