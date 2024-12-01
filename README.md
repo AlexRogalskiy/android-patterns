@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Surface.setframerate&lpar;&rpar; doesn&#39;t work on Xiaomi phones?](https://www.reddit.com/r/androiddev/comments/1h3perv/surfacesetframerate_doesnt_work_on_xiaomi_phones/)
+- [Android Mobile App Testing: Best Practices &amp; Scenarios](https://www.reddit.com/r/androiddev/comments/1h3brgq/android_mobile_app_testing_best_practices/)
 - [Optimizing Bytecode: Surprising Performance Gains](https://www.reddit.com/r/androiddev/comments/1h2syys/optimizing_bytecode_surprising_performance_gains/)
 - [Understanding the file permissions in Android &lpar;and Linux&rpar;](https://www.reddit.com/r/androiddev/comments/1h2ngjy/understanding_the_file_permissions_in_android_and/)
 - [[Update] Over 200+ Jetpack Compose/Compose Multiplatform libraries submitted to ComposeLibraries.com](https://www.reddit.com/r/androiddev/comments/1h2n0lu/update_over_200_jetpack_composecompose/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [I made an open-source wiki App built with Compose Multiplatform! &lpar;Figma &amp; GitHub&rpar;](https://www.reddit.com/r/androiddev/comments/1h2aejc/i_made_an_opensource_wiki_app_built_with_compose/)
 - [Kotlin multiple declarations in one file](https://www.reddit.com/r/androiddev/comments/1h21m3v/kotlin_multiple_declarations_in_one_file/)
 - [Top 5 Problems Google Leaves to Third-Party Vendors for Android Developers](https://www.reddit.com/r/androiddev/comments/1h1rr9c/top_5_problems_google_leaves_to_thirdparty/)
-- [Open-Source Android Library — WYSIWYG Rich Editor for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1h1ogoj/opensource_android_library_wysiwyg_rich_editor/)
-- [How Are Permissions Handled After Accepting](https://www.reddit.com/r/androiddev/comments/1h1dqdy/how_are_permissions_handled_after_accepting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
