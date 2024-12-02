@@ -271,6 +271,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Handle Touch Events Going Out of Sync with Render Loop in GameActivity?](https://www.reddit.com/r/androiddev/comments/1h3xflc/how_to_handle_touch_events_going_out_of_sync_with/)
 - [Surface.setframerate&lpar;&rpar; doesn&#39;t work on Xiaomi phones?](https://www.reddit.com/r/androiddev/comments/1h3perv/surfacesetframerate_doesnt_work_on_xiaomi_phones/)
 - [Android Mobile App Testing: Best Practices &amp; Scenarios](https://www.reddit.com/r/androiddev/comments/1h3brgq/android_mobile_app_testing_best_practices/)
 - [Optimizing Bytecode: Surprising Performance Gains](https://www.reddit.com/r/androiddev/comments/1h2syys/optimizing_bytecode_surprising_performance_gains/)
@@ -280,7 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Handling secrets](https://www.reddit.com/r/androiddev/comments/1h2gzw9/handling_secrets/)
 - [I made an open-source wiki App built with Compose Multiplatform! &lpar;Figma &amp; GitHub&rpar;](https://www.reddit.com/r/androiddev/comments/1h2aejc/i_made_an_opensource_wiki_app_built_with_compose/)
 - [Kotlin multiple declarations in one file](https://www.reddit.com/r/androiddev/comments/1h21m3v/kotlin_multiple_declarations_in_one_file/)
-- [Top 5 Problems Google Leaves to Third-Party Vendors for Android Developers](https://www.reddit.com/r/androiddev/comments/1h1rr9c/top_5_problems_google_leaves_to_thirdparty/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
