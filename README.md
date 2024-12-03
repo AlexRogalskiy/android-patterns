@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Splitting up a ViewModel via Delegation for modularity and single responsibility principle](https://www.reddit.com/r/androiddev/comments/1h5828y/splitting_up_a_viewmodel_via_delegation_for/)
+- [Having trouble with your specific project? Subreddit updates and more: This is the December 2024 newbie and advice thread!](https://www.reddit.com/r/androiddev/comments/1h57mcr/having_trouble_with_your_specific_project/)
+- [Compose UI Testing with ExoPlayer3](https://www.reddit.com/r/androiddev/comments/1h565ud/compose_ui_testing_with_exoplayer3/)
+- [Android Studio Ladybug | 2024.2.1 Patch 3 now available](https://www.reddit.com/r/androiddev/comments/1h515c2/android_studio_ladybug_202421_patch_3_now/)
+- [Can you review my refused android app challenge?](https://www.reddit.com/r/androiddev/comments/1h4vp3k/can_you_review_my_refused_android_app_challenge/)
 - [How to Handle Touch Events Going Out of Sync with Render Loop in GameActivity?](https://www.reddit.com/r/androiddev/comments/1h3xflc/how_to_handle_touch_events_going_out_of_sync_with/)
 - [Surface.setframerate&lpar;&rpar; doesn&#39;t work on Xiaomi phones?](https://www.reddit.com/r/androiddev/comments/1h3perv/surfacesetframerate_doesnt_work_on_xiaomi_phones/)
 - [Android Mobile App Testing: Best Practices &amp; Scenarios](https://www.reddit.com/r/androiddev/comments/1h3brgq/android_mobile_app_testing_best_practices/)
 - [Optimizing Bytecode: Surprising Performance Gains](https://www.reddit.com/r/androiddev/comments/1h2syys/optimizing_bytecode_surprising_performance_gains/)
 - [Understanding the file permissions in Android &lpar;and Linux&rpar;](https://www.reddit.com/r/androiddev/comments/1h2ngjy/understanding_the_file_permissions_in_android_and/)
-- [[Update] Over 200+ Jetpack Compose/Compose Multiplatform libraries submitted to ComposeLibraries.com](https://www.reddit.com/r/androiddev/comments/1h2n0lu/update_over_200_jetpack_composecompose/)
-- [I created a small Android Studio plugin that creates previews from your composable](https://www.reddit.com/r/androiddev/comments/1h2mg23/i_created_a_small_android_studio_plugin_that/)
-- [Handling secrets](https://www.reddit.com/r/androiddev/comments/1h2gzw9/handling_secrets/)
-- [I made an open-source wiki App built with Compose Multiplatform! &lpar;Figma &amp; GitHub&rpar;](https://www.reddit.com/r/androiddev/comments/1h2aejc/i_made_an_opensource_wiki_app_built_with_compose/)
-- [Kotlin multiple declarations in one file](https://www.reddit.com/r/androiddev/comments/1h21m3v/kotlin_multiple_declarations_in_one_file/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
