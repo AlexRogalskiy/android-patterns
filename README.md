@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin&#39;s Immutable and Persistent Lists &lpar;TypeAlias Show Clip&rpar;](https://www.reddit.com/r/androiddev/comments/1h6nkre/kotlins_immutable_and_persistent_lists_typealias/)
+- [6 Tips for Starting a Modern Android Codebase From Scratch](https://www.reddit.com/r/androiddev/comments/1h6j1te/6_tips_for_starting_a_modern_android_codebase/)
+- [I finally won—I convinced my team that java.util.Date can be very dangerous.](https://www.reddit.com/r/androiddev/comments/1h6j0yd/i_finally_woni_convinced_my_team_that/)
+- [How to expose app actions in global search?](https://www.reddit.com/r/androiddev/comments/1h6haug/how_to_expose_app_actions_in_global_search/)
+- [Firebase Phone Authentication Issue with Local Builds](https://www.reddit.com/r/androiddev/comments/1h6a5j2/firebase_phone_authentication_issue_with_local/)
+- [Mastering Property Delegation in Kotlin: Scalable Techniques and Best Practices](https://www.reddit.com/r/androiddev/comments/1h65too/mastering_property_delegation_in_kotlin_scalable/)
 - [Emteria lets you run Android 15 on a Raspberry Pi 5 for debugging](https://www.reddit.com/r/androiddev/comments/1h60sgm/emteria_lets_you_run_android_15_on_a_raspberry_pi/)
 - [Haze 1.1 has been released](https://www.reddit.com/r/androiddev/comments/1h5xecr/haze_11_has_been_released/)
 - [Brilliant.org is hiring Android Engineers to help build the future of interactive learning](https://www.reddit.com/r/androiddev/comments/1h5udc2/brilliantorg_is_hiring_android_engineers_to_help/)
 - [Android Developers Blog: Making the Play Integrity API faster, more resilient, and more private](https://www.reddit.com/r/androiddev/comments/1h5twwh/android_developers_blog_making_the_play_integrity/)
-- [Highlight text in Compose](https://www.reddit.com/r/androiddev/comments/1h5r8me/highlight_text_in_compose/)
-- [Simple WebRTC SDK](https://www.reddit.com/r/androiddev/comments/1h5r352/simple_webrtc_sdk/)
-- [How We Found the Perfect Android Automotive Developer Kit Solution - Snapp Automotive](https://www.reddit.com/r/androiddev/comments/1h5r0r5/how_we_found_the_perfect_android_automotive/)
-- [Kotlin introduced awful discoverability. How do you guys keep up?](https://www.reddit.com/r/androiddev/comments/1h5lrh9/kotlin_introduced_awful_discoverability_how_do/)
-- [Introducing SmolChat: Running any GGUF SLMs/LLMs locally, on-device in Android &lpar;like an offline, miniature, open-source ChatGPT&rpar;](https://www.reddit.com/r/androiddev/comments/1h5lnsl/introducing_smolchat_running_any_gguf_slmsllms/)
-- [Android Studio Meerkat | 2024.3.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1h5hndd/android_studio_meerkat_202431_canary_4_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
