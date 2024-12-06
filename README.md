@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Ladybug Feature Drop | 2024.2.2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1h7i80k/android_studio_ladybug_feature_drop_202422_rc_1/)
+- [Android Studio gets super laggy and unresponsive after starting to edit an XML - Can anyone help?](https://www.reddit.com/r/androiddev/comments/1h7bkd6/android_studio_gets_super_laggy_and_unresponsive/)
+- [Crash display lib](https://www.reddit.com/r/androiddev/comments/1h76hrv/crash_display_lib/)
 - [Kotlin&#39;s Immutable and Persistent Lists &lpar;TypeAlias Show Clip&rpar;](https://www.reddit.com/r/androiddev/comments/1h6nkre/kotlins_immutable_and_persistent_lists_typealias/)
 - [6 Tips for Starting a Modern Android Codebase From Scratch](https://www.reddit.com/r/androiddev/comments/1h6j1te/6_tips_for_starting_a_modern_android_codebase/)
 - [I finally won—I convinced my team that java.util.Date can be very dangerous.](https://www.reddit.com/r/androiddev/comments/1h6j0yd/i_finally_woni_convinced_my_team_that/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Firebase Phone Authentication Issue with Local Builds](https://www.reddit.com/r/androiddev/comments/1h6a5j2/firebase_phone_authentication_issue_with_local/)
 - [Mastering Property Delegation in Kotlin: Scalable Techniques and Best Practices](https://www.reddit.com/r/androiddev/comments/1h65too/mastering_property_delegation_in_kotlin_scalable/)
 - [Emteria lets you run Android 15 on a Raspberry Pi 5 for debugging](https://www.reddit.com/r/androiddev/comments/1h60sgm/emteria_lets_you_run_android_15_on_a_raspberry_pi/)
-- [Haze 1.1 has been released](https://www.reddit.com/r/androiddev/comments/1h5xecr/haze_11_has_been_released/)
-- [Brilliant.org is hiring Android Engineers to help build the future of interactive learning](https://www.reddit.com/r/androiddev/comments/1h5udc2/brilliantorg_is_hiring_android_engineers_to_help/)
-- [Android Developers Blog: Making the Play Integrity API faster, more resilient, and more private](https://www.reddit.com/r/androiddev/comments/1h5twwh/android_developers_blog_making_the_play_integrity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
