@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Moddable app need help asap](https://www.reddit.com/r/androiddev/comments/1h8bib9/moddable_app_need_help_asap/)
+- [GoogleSignInClient.silentSignIn equivalent flow in Credential Manager API and Authorization API?](https://www.reddit.com/r/androiddev/comments/1h889ov/googlesigninclientsilentsignin_equivalent_flow_in/)
+- [Android Developers Blog: User-Agent Reduction on Android WebView](https://www.reddit.com/r/androiddev/comments/1h87lef/android_developers_blog_useragent_reduction_on/)
+- [Implementing Live Camera OCR with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1h8708i/implementing_live_camera_ocr_with_jetpack_compose/)
+- [Switching to Android development shocked me](https://www.reddit.com/r/androiddev/comments/1h7z463/switching_to_android_development_shocked_me/)
+- [Android Native Activity made from ASM without Java Template](https://www.reddit.com/r/androiddev/comments/1h7yyl0/android_native_activity_made_from_asm_without/)
+- [Typed Error Handling Android](https://www.reddit.com/r/androiddev/comments/1h7u1ko/typed_error_handling_android/)
+- [Saving Game with Google Play Game Services gives error saying Cannot use snapshots without enabling the &#39;Saved Game&#39; feature in the Play console](https://www.reddit.com/r/androiddev/comments/1h7ruey/saving_game_with_google_play_game_services_gives/)
 - [Android Studio Ladybug Feature Drop | 2024.2.2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1h7i80k/android_studio_ladybug_feature_drop_202422_rc_1/)
 - [Android Studio gets super laggy and unresponsive after starting to edit an XML - Can anyone help?](https://www.reddit.com/r/androiddev/comments/1h7bkd6/android_studio_gets_super_laggy_and_unresponsive/)
-- [Crash display lib](https://www.reddit.com/r/androiddev/comments/1h76hrv/crash_display_lib/)
-- [Kotlin&#39;s Immutable and Persistent Lists &lpar;TypeAlias Show Clip&rpar;](https://www.reddit.com/r/androiddev/comments/1h6nkre/kotlins_immutable_and_persistent_lists_typealias/)
-- [6 Tips for Starting a Modern Android Codebase From Scratch](https://www.reddit.com/r/androiddev/comments/1h6j1te/6_tips_for_starting_a_modern_android_codebase/)
-- [I finally won—I convinced my team that java.util.Date can be very dangerous.](https://www.reddit.com/r/androiddev/comments/1h6j0yd/i_finally_woni_convinced_my_team_that/)
-- [How to expose app actions in global search?](https://www.reddit.com/r/androiddev/comments/1h6haug/how_to_expose_app_actions_in_global_search/)
-- [Firebase Phone Authentication Issue with Local Builds](https://www.reddit.com/r/androiddev/comments/1h6a5j2/firebase_phone_authentication_issue_with_local/)
-- [Mastering Property Delegation in Kotlin: Scalable Techniques and Best Practices](https://www.reddit.com/r/androiddev/comments/1h65too/mastering_property_delegation_in_kotlin_scalable/)
-- [Emteria lets you run Android 15 on a Raspberry Pi 5 for debugging](https://www.reddit.com/r/androiddev/comments/1h60sgm/emteria_lets_you_run_android_15_on_a_raspberry_pi/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
