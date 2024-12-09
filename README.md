@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What volume of data justifies using Room and SQL queries nowadays?](https://www.reddit.com/r/androiddev/comments/1h9jaco/what_volume_of_data_justifies_using_room_and_sql/)
+- [How to read the AGP api](https://www.reddit.com/r/androiddev/comments/1h9hlzw/how_to_read_the_agp_api/)
+- [How to Dynamically Change a Specific Color in a Vector Drawable Using MaterialTheme.primary in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1h9hfut/how_to_dynamically_change_a_specific_color_in_a/)
+- [Your experience with User Generated Content](https://www.reddit.com/r/androiddev/comments/1h98yzs/your_experience_with_user_generated_content/)
 - [Boundary Check vs Try Catch - Performance Comparison](https://www.reddit.com/r/androiddev/comments/1h8uuix/boundary_check_vs_try_catch_performance_comparison/)
 - [Black screen with Exoplayer inside AndroidExternalSurface](https://www.reddit.com/r/androiddev/comments/1h8pxx8/black_screen_with_exoplayer_inside/)
 - [Is there a way to connect Exoplayer with WebRTC MediaTrack stream?](https://www.reddit.com/r/androiddev/comments/1h8ntj8/is_there_a_way_to_connect_exoplayer_with_webrtc/)
 - [GoogleSignInClient.silentSignIn equivalent flow in Credential Manager API and Authorization API?](https://www.reddit.com/r/androiddev/comments/1h889ov/googlesigninclientsilentsignin_equivalent_flow_in/)
 - [Android Developers Blog: User-Agent Reduction on Android WebView](https://www.reddit.com/r/androiddev/comments/1h87lef/android_developers_blog_useragent_reduction_on/)
 - [Implementing Live Camera OCR with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1h8708i/implementing_live_camera_ocr_with_jetpack_compose/)
-- [Switching to Android development shocked me](https://www.reddit.com/r/androiddev/comments/1h7z463/switching_to_android_development_shocked_me/)
-- [Android Native Activity made from ASM without Java Template](https://www.reddit.com/r/androiddev/comments/1h7yyl0/android_native_activity_made_from_asm_without/)
-- [Typed Error Handling Android](https://www.reddit.com/r/androiddev/comments/1h7u1ko/typed_error_handling_android/)
-- [Saving Game with Google Play Game Services gives error saying Cannot use snapshots without enabling the &#39;Saved Game&#39; feature in the Play console](https://www.reddit.com/r/androiddev/comments/1h7ruey/saving_game_with_google_play_game_services_gives/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
