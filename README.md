@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Republish native libs to the old location](https://www.reddit.com/r/androiddev/comments/1hakooa/republish_native_libs_to_the_old_location/)
+- [Android Studio Zoom in and out keyboard shortcut?](https://www.reddit.com/r/androiddev/comments/1hac37w/android_studio_zoom_in_and_out_keyboard_shortcut/)
+- [Trying to capture my Android devices Bluetooth requests.](https://www.reddit.com/r/androiddev/comments/1ha6odd/trying_to_capture_my_android_devices_bluetooth/)
 - [What volume of data justifies using Room and SQL queries nowadays?](https://www.reddit.com/r/androiddev/comments/1h9jaco/what_volume_of_data_justifies_using_room_and_sql/)
 - [How to read the AGP api](https://www.reddit.com/r/androiddev/comments/1h9hlzw/how_to_read_the_agp_api/)
 - [How to Dynamically Change a Specific Color in a Vector Drawable Using MaterialTheme.primary in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1h9hfut/how_to_dynamically_change_a_specific_color_in_a/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Boundary Check vs Try Catch - Performance Comparison](https://www.reddit.com/r/androiddev/comments/1h8uuix/boundary_check_vs_try_catch_performance_comparison/)
 - [Black screen with Exoplayer inside AndroidExternalSurface](https://www.reddit.com/r/androiddev/comments/1h8pxx8/black_screen_with_exoplayer_inside/)
 - [Is there a way to connect Exoplayer with WebRTC MediaTrack stream?](https://www.reddit.com/r/androiddev/comments/1h8ntj8/is_there_a_way_to_connect_exoplayer_with_webrtc/)
-- [GoogleSignInClient.silentSignIn equivalent flow in Credential Manager API and Authorization API?](https://www.reddit.com/r/androiddev/comments/1h889ov/googlesigninclientsilentsignin_equivalent_flow_in/)
-- [Android Developers Blog: User-Agent Reduction on Android WebView](https://www.reddit.com/r/androiddev/comments/1h87lef/android_developers_blog_useragent_reduction_on/)
-- [Implementing Live Camera OCR with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1h8708i/implementing_live_camera_ocr_with_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
