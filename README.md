@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [logcat - a new look at logging with Piwai from Square &lpar;Fragmented podcast ep #253&rpar;](https://www.reddit.com/r/androiddev/comments/1hbcn5h/logcat_a_new_look_at_logging_with_piwai_from/)
+- [Testers closed test not recognized](https://www.reddit.com/r/androiddev/comments/1hb77gv/testers_closed_test_not_recognized/)
+- [Are Content Providers, Services, and Broadcast receivers really that important?](https://www.reddit.com/r/androiddev/comments/1hb5afr/are_content_providers_services_and_broadcast/)
+- [Best Way to Modify a List Item in MVI Architecture](https://www.reddit.com/r/androiddev/comments/1hb4h52/best_way_to_modify_a_list_item_in_mvi_architecture/)
+- [Is hilt really more beneficial than manual dependency injection?](https://www.reddit.com/r/androiddev/comments/1hay1bo/is_hilt_really_more_beneficial_than_manual/)
+- [Default number of retries in One time worker&lpar;Exponential&rpar;](https://www.reddit.com/r/androiddev/comments/1haxyvt/default_number_of_retries_in_one_time/)
 - [Republish native libs to the old location](https://www.reddit.com/r/androiddev/comments/1hakooa/republish_native_libs_to_the_old_location/)
 - [Android Studio Zoom in and out keyboard shortcut?](https://www.reddit.com/r/androiddev/comments/1hac37w/android_studio_zoom_in_and_out_keyboard_shortcut/)
 - [Trying to capture my Android devices Bluetooth requests.](https://www.reddit.com/r/androiddev/comments/1ha6odd/trying_to_capture_my_android_devices_bluetooth/)
 - [What volume of data justifies using Room and SQL queries nowadays?](https://www.reddit.com/r/androiddev/comments/1h9jaco/what_volume_of_data_justifies_using_room_and_sql/)
-- [How to read the AGP api](https://www.reddit.com/r/androiddev/comments/1h9hlzw/how_to_read_the_agp_api/)
-- [How to Dynamically Change a Specific Color in a Vector Drawable Using MaterialTheme.primary in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1h9hfut/how_to_dynamically_change_a_specific_color_in_a/)
-- [Your experience with User Generated Content](https://www.reddit.com/r/androiddev/comments/1h98yzs/your_experience_with_user_generated_content/)
-- [Boundary Check vs Try Catch - Performance Comparison](https://www.reddit.com/r/androiddev/comments/1h8uuix/boundary_check_vs_try_catch_performance_comparison/)
-- [Black screen with Exoplayer inside AndroidExternalSurface](https://www.reddit.com/r/androiddev/comments/1h8pxx8/black_screen_with_exoplayer_inside/)
-- [Is there a way to connect Exoplayer with WebRTC MediaTrack stream?](https://www.reddit.com/r/androiddev/comments/1h8ntj8/is_there_a_way_to_connect_exoplayer_with_webrtc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
