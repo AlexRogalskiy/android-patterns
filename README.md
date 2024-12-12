@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose - How to cartify lazy lists? &lpar;having shadows&rpar;](https://www.reddit.com/r/androiddev/comments/1hc4nm1/compose_how_to_cartify_lazy_lists_having_shadows/)
+- [In your opinion, what are the differences between these levels of Android Developer: Junior, Mid, Senior, Staff and Principle](https://www.reddit.com/r/androiddev/comments/1hc1ubs/in_your_opinion_what_are_the_differences_between/)
+- [Google Play Policy Update: Apps only need 12 Testers now instead of 20](https://www.reddit.com/r/androiddev/comments/1hbztai/google_play_policy_update_apps_only_need_12/)
+- [Adding delay to network requests of an app](https://www.reddit.com/r/androiddev/comments/1hbu38d/adding_delay_to_network_requests_of_an_app/)
+- [I worked with security experts to document real Android security breach solutions.](https://www.reddit.com/r/androiddev/comments/1hbtogp/i_worked_with_security_experts_to_document_real/)
+- [Fragment not recreated onBackpressed after integrating Jetpack Compose in kotlin android project](https://www.reddit.com/r/androiddev/comments/1hbtm7h/fragment_not_recreated_onbackpressed_after/)
+- [Apk size is 3.8Mb, but 1.7Mb when compressed to tar.gz, is it possible to reduce the apk size?](https://www.reddit.com/r/androiddev/comments/1hbr905/apk_size_is_38mb_but_17mb_when_compressed_to/)
+- [Number of Apps in the Google Play Store: Clear dip from the more difficult app publishing process &lpar;Identity verification, 20 testers, strict app review&rpar;](https://www.reddit.com/r/androiddev/comments/1hbr0k1/number_of_apps_in_the_google_play_store_clear_dip/)
+- [Why you need remote attestation and why there can&#39;t be solution that doesn&#39;t rely on play services for device integrity if security is concerned for financial apps and DRM.](https://www.reddit.com/r/androiddev/comments/1hbojn6/why_you_need_remote_attestation_and_why_there/)
 - [logcat - a new look at logging with Piwai from Square &lpar;Fragmented podcast ep #253&rpar;](https://www.reddit.com/r/androiddev/comments/1hbcn5h/logcat_a_new_look_at_logging_with_piwai_from/)
-- [Testers closed test not recognized](https://www.reddit.com/r/androiddev/comments/1hb77gv/testers_closed_test_not_recognized/)
-- [Are Content Providers, Services, and Broadcast receivers really that important?](https://www.reddit.com/r/androiddev/comments/1hb5afr/are_content_providers_services_and_broadcast/)
-- [Best Way to Modify a List Item in MVI Architecture](https://www.reddit.com/r/androiddev/comments/1hb4h52/best_way_to_modify_a_list_item_in_mvi_architecture/)
-- [Is hilt really more beneficial than manual dependency injection?](https://www.reddit.com/r/androiddev/comments/1hay1bo/is_hilt_really_more_beneficial_than_manual/)
-- [Default number of retries in One time worker&lpar;Exponential&rpar;](https://www.reddit.com/r/androiddev/comments/1haxyvt/default_number_of_retries_in_one_time/)
-- [Republish native libs to the old location](https://www.reddit.com/r/androiddev/comments/1hakooa/republish_native_libs_to_the_old_location/)
-- [Android Studio Zoom in and out keyboard shortcut?](https://www.reddit.com/r/androiddev/comments/1hac37w/android_studio_zoom_in_and_out_keyboard_shortcut/)
-- [Trying to capture my Android devices Bluetooth requests.](https://www.reddit.com/r/androiddev/comments/1ha6odd/trying_to_capture_my_android_devices_bluetooth/)
-- [What volume of data justifies using Room and SQL queries nowadays?](https://www.reddit.com/r/androiddev/comments/1h9jaco/what_volume_of_data_justifies_using_room_and_sql/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
