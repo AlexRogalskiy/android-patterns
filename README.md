@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compose - How to cartify lazy lists? &lpar;having shadows&rpar;](https://www.reddit.com/r/androiddev/comments/1hc4nm1/compose_how_to_cartify_lazy_lists_having_shadows/)
-- [In your opinion, what are the differences between these levels of Android Developer: Junior, Mid, Senior, Staff and Principle](https://www.reddit.com/r/androiddev/comments/1hc1ubs/in_your_opinion_what_are_the_differences_between/)
-- [Google Play Policy Update: Apps only need 12 Testers now instead of 20](https://www.reddit.com/r/androiddev/comments/1hbztai/google_play_policy_update_apps_only_need_12/)
-- [Adding delay to network requests of an app](https://www.reddit.com/r/androiddev/comments/1hbu38d/adding_delay_to_network_requests_of_an_app/)
-- [I worked with security experts to document real Android security breach solutions.](https://www.reddit.com/r/androiddev/comments/1hbtogp/i_worked_with_security_experts_to_document_real/)
-- [Fragment not recreated onBackpressed after integrating Jetpack Compose in kotlin android project](https://www.reddit.com/r/androiddev/comments/1hbtm7h/fragment_not_recreated_onbackpressed_after/)
-- [Apk size is 3.8Mb, but 1.7Mb when compressed to tar.gz, is it possible to reduce the apk size?](https://www.reddit.com/r/androiddev/comments/1hbr905/apk_size_is_38mb_but_17mb_when_compressed_to/)
-- [Number of Apps in the Google Play Store: Clear dip from the more difficult app publishing process &lpar;Identity verification, 20 testers, strict app review&rpar;](https://www.reddit.com/r/androiddev/comments/1hbr0k1/number_of_apps_in_the_google_play_store_clear_dip/)
-- [Why you need remote attestation and why there can&#39;t be solution that doesn&#39;t rely on play services for device integrity if security is concerned for financial apps and DRM.](https://www.reddit.com/r/androiddev/comments/1hbojn6/why_you_need_remote_attestation_and_why_there/)
-- [logcat - a new look at logging with Piwai from Square &lpar;Fragmented podcast ep #253&rpar;](https://www.reddit.com/r/androiddev/comments/1hbcn5h/logcat_a_new_look_at_logging_with_piwai_from/)
+- [Introducing Android XR SDK Developer Preview](https://www.reddit.com/r/androiddev/comments/1hcrv34/introducing_android_xr_sdk_developer_preview/)
+- [Android Studio Meerkat | 2024.3.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1hcpkx3/android_studio_meerkat_202431_canary_5_now/)
+- [Google Play Policy change: only 12 testers needed instead of 20 for personal accounts](https://www.reddit.com/r/androiddev/comments/1hcn3lo/google_play_policy_change_only_12_testers_needed/)
+- [PDF Library for Android Kotlin](https://www.reddit.com/r/androiddev/comments/1hcllus/pdf_library_for_android_kotlin/)
+- [Compose UI testing.](https://www.reddit.com/r/androiddev/comments/1hcjdi7/compose_ui_testing/)
+- [Strange Android Notification Behavior - Need Help Understanding](https://www.reddit.com/r/androiddev/comments/1hcizwl/strange_android_notification_behavior_need_help/)
+- [[Android Studio] ImageAnalysis - Failed to bind camera](https://www.reddit.com/r/androiddev/comments/1hciv7s/android_studio_imageanalysis_failed_to_bind_camera/)
+- [Just got notified my game got listed to &quot;Google Play Games for PC&quot;. Worth the effort to make it &quot;100% compatabile&quot;?](https://www.reddit.com/r/androiddev/comments/1hchina/just_got_notified_my_game_got_listed_to_google/)
+- [Bluetooth Connection Issues with Raspberry Pi 4](https://www.reddit.com/r/androiddev/comments/1hcgfk9/bluetooth_connection_issues_with_raspberry_pi_4/)
+- [Fees for transferring money from one user to another?](https://www.reddit.com/r/androiddev/comments/1hcapad/fees_for_transferring_money_from_one_user_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
