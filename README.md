@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Introducing Android XR SDK Developer Preview](https://www.reddit.com/r/androiddev/comments/1hcrv34/introducing_android_xr_sdk_developer_preview/)
-- [Android Studio Meerkat | 2024.3.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1hcpkx3/android_studio_meerkat_202431_canary_5_now/)
-- [Google Play Policy change: only 12 testers needed instead of 20 for personal accounts](https://www.reddit.com/r/androiddev/comments/1hcn3lo/google_play_policy_change_only_12_testers_needed/)
-- [PDF Library for Android Kotlin](https://www.reddit.com/r/androiddev/comments/1hcllus/pdf_library_for_android_kotlin/)
-- [Compose UI testing.](https://www.reddit.com/r/androiddev/comments/1hcjdi7/compose_ui_testing/)
-- [Strange Android Notification Behavior - Need Help Understanding](https://www.reddit.com/r/androiddev/comments/1hcizwl/strange_android_notification_behavior_need_help/)
-- [[Android Studio] ImageAnalysis - Failed to bind camera](https://www.reddit.com/r/androiddev/comments/1hciv7s/android_studio_imageanalysis_failed_to_bind_camera/)
-- [Just got notified my game got listed to &quot;Google Play Games for PC&quot;. Worth the effort to make it &quot;100% compatabile&quot;?](https://www.reddit.com/r/androiddev/comments/1hchina/just_got_notified_my_game_got_listed_to_google/)
-- [Bluetooth Connection Issues with Raspberry Pi 4](https://www.reddit.com/r/androiddev/comments/1hcgfk9/bluetooth_connection_issues_with_raspberry_pi_4/)
-- [Fees for transferring money from one user to another?](https://www.reddit.com/r/androiddev/comments/1hcapad/fees_for_transferring_money_from_one_user_to/)
+- [Gradle issue: No model of type &#39;DummyModel&#39; is available in this build.](https://www.reddit.com/r/androiddev/comments/1hdsnmr/gradle_issue_no_model_of_type_dummymodel_is/)
+- [Looking for beta participants](https://www.reddit.com/r/androiddev/comments/1hds0lh/looking_for_beta_participants/)
+- [Sticky headers in side column &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1hdi0zf/sticky_headers_in_side_column_jetpack_compose/)
+- [Help me understand some strange issues with multiple instances of an activity being created.](https://www.reddit.com/r/androiddev/comments/1hdhk6k/help_me_understand_some_strange_issues_with/)
+- [Compose / ViewModel Data best practices](https://www.reddit.com/r/androiddev/comments/1hddjom/compose_viewmodel_data_best_practices/)
+- [How Notion Builds Their iOS and Android Apps](https://www.reddit.com/r/androiddev/comments/1hdcphv/how_notion_builds_their_ios_and_android_apps/)
+- [Creating Global Padding and Dimensions in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hda3px/creating_global_padding_and_dimensions_in_jetpack/)
+- [Anyone able to find a replacement for GoogleSignIn.getLastSignedInAccount?](https://www.reddit.com/r/androiddev/comments/1hd6lbz/anyone_able_to_find_a_replacement_for/)
+- [Reddit improved app startup speed by over 50% using Baseline Profiles and R8](https://www.reddit.com/r/androiddev/comments/1hd6coy/reddit_improved_app_startup_speed_by_over_50/)
+- [Material3 theming in Compose](https://www.reddit.com/r/androiddev/comments/1hd5tua/material3_theming_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
