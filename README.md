@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for Android Developers for interview [30min audio-only + $10 gift card]](https://www.reddit.com/r/androiddev/comments/1he95jr/looking_for_android_developers_for_interview/)
+- [Why embedded activities do not work](https://www.reddit.com/r/androiddev/comments/1he5ur1/why_embedded_activities_do_not_work/)
+- [Do you personally reply to user reviews on Google Play? Worth the effort?](https://www.reddit.com/r/androiddev/comments/1he111t/do_you_personally_reply_to_user_reviews_on_google/)
+- [Service to distribute app to friends and keep it updated?](https://www.reddit.com/r/androiddev/comments/1hdzbje/service_to_distribute_app_to_friends_and_keep_it/)
+- [Multiple Google Developer Accounts?](https://www.reddit.com/r/androiddev/comments/1hdz7s8/multiple_google_developer_accounts/)
+- [How can I programmatically open the Wear OS watch face &lpar;homescreen&rpar; instead of the app launcher when using an Intent in Wear OS?](https://www.reddit.com/r/androiddev/comments/1hdyywi/how_can_i_programmatically_open_the_wear_os_watch/)
 - [Gradle issue: No model of type &#39;DummyModel&#39; is available in this build.](https://www.reddit.com/r/androiddev/comments/1hdsnmr/gradle_issue_no_model_of_type_dummymodel_is/)
 - [Looking for beta participants](https://www.reddit.com/r/androiddev/comments/1hds0lh/looking_for_beta_participants/)
 - [Sticky headers in side column &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1hdi0zf/sticky_headers_in_side_column_jetpack_compose/)
 - [Help me understand some strange issues with multiple instances of an activity being created.](https://www.reddit.com/r/androiddev/comments/1hdhk6k/help_me_understand_some_strange_issues_with/)
-- [Compose / ViewModel Data best practices](https://www.reddit.com/r/androiddev/comments/1hddjom/compose_viewmodel_data_best_practices/)
-- [How Notion Builds Their iOS and Android Apps](https://www.reddit.com/r/androiddev/comments/1hdcphv/how_notion_builds_their_ios_and_android_apps/)
-- [Creating Global Padding and Dimensions in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hda3px/creating_global_padding_and_dimensions_in_jetpack/)
-- [Anyone able to find a replacement for GoogleSignIn.getLastSignedInAccount?](https://www.reddit.com/r/androiddev/comments/1hd6lbz/anyone_able_to_find_a_replacement_for/)
-- [Reddit improved app startup speed by over 50% using Baseline Profiles and R8](https://www.reddit.com/r/androiddev/comments/1hd6coy/reddit_improved_app_startup_speed_by_over_50/)
-- [Material3 theming in Compose](https://www.reddit.com/r/androiddev/comments/1hd5tua/material3_theming_in_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
