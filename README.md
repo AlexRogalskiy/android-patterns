@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Push notification channel: audio file from custom directory](https://www.reddit.com/r/androiddev/comments/1hfwv2w/push_notification_channel_audio_file_from_custom/)
+- [Android Studio Meerkat | 2024.3.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1hfrypf/android_studio_meerkat_202431_canary_6_now/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1hfp37j/android_studio_ladybug_feature_drop_202422_rc_2/)
+- [This will be a huge relief for developers! Was this released recently?](https://www.reddit.com/r/androiddev/comments/1hfn0zw/this_will_be_a_huge_relief_for_developers_was/)
+- [ADBR-Server: A Modern ADB Server Reimplementation in Rust](https://www.reddit.com/r/androiddev/comments/1hfgyjk/adbrserver_a_modern_adb_server_reimplementation/)
 - [The OG](https://www.reddit.com/r/androiddev/comments/1hf7d9x/the_og/)
 - [Testing on specific devices via ADB tunnel](https://www.reddit.com/r/androiddev/comments/1hf0mc1/testing_on_specific_devices_via_adb_tunnel/)
 - [Mobile Tech Talk Slides from Droidcon NY 2024](https://www.reddit.com/r/androiddev/comments/1hezl2z/mobile_tech_talk_slides_from_droidcon_ny_2024/)
 - [Help with Kotlin Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hey937/help_with_kotlin_jetpack_compose/)
 - [Best practices for Service-Activity communication in MVVM/Clean Architecture?](https://www.reddit.com/r/androiddev/comments/1hes1pe/best_practices_for_serviceactivity_communication/)
-- [Looking for Android Developers for interview [30min audio-only + $10 gift card]](https://www.reddit.com/r/androiddev/comments/1he95jr/looking_for_android_developers_for_interview/)
-- [Why embedded activities do not work](https://www.reddit.com/r/androiddev/comments/1he5ur1/why_embedded_activities_do_not_work/)
-- [Do you personally reply to user reviews on Google Play? Worth the effort?](https://www.reddit.com/r/androiddev/comments/1he111t/do_you_personally_reply_to_user_reviews_on_google/)
-- [Service to distribute app to friends and keep it updated?](https://www.reddit.com/r/androiddev/comments/1hdzbje/service_to_distribute_app_to_friends_and_keep_it/)
-- [Multiple Google Developer Accounts?](https://www.reddit.com/r/androiddev/comments/1hdz7s8/multiple_google_developer_accounts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
