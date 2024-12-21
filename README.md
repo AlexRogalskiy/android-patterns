@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to compress a 4k video in android kotlin using mediacodec without using any third-party dependencies like FFMPEG](https://www.reddit.com/r/androiddev/comments/1hhujpj/how_to_compress_a_4k_video_in_android_kotlin/)
-- [JitPack.io down?](https://www.reddit.com/r/androiddev/comments/1hhp4y7/jitpackio_down/)
-- [Compose performs bad on Android](https://www.reddit.com/r/androiddev/comments/1hho6fy/compose_performs_bad_on_android/)
-- [klibs.io – a new way to find Kotlin Multiplatform libraries](https://www.reddit.com/r/androiddev/comments/1hhm4qv/klibsio_a_new_way_to_find_kotlin_multiplatform/)
-- [Minesweeper UI with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hhgl0x/minesweeper_ui_with_jetpack_compose/)
-- [Popular Gradle mistakes &lpar;and how to avoid them&rpar;](https://www.reddit.com/r/androiddev/comments/1hhfytg/popular_gradle_mistakes_and_how_to_avoid_them/)
-- [App licensing: LVL - License Verification Library or Google Play&#39;s billing API?](https://www.reddit.com/r/androiddev/comments/1hh842j/app_licensing_lvl_license_verification_library_or/)
-- [TypeAlias Show - Direct Swift Export, Pattern Guards, and more](https://www.reddit.com/r/androiddev/comments/1hh51f4/typealias_show_direct_swift_export_pattern_guards/)
-- [Push notifications after target API 34 enforced by google](https://www.reddit.com/r/androiddev/comments/1hh03zc/push_notifications_after_target_api_34_enforced/)
-- [Stable annotation in Compose good question asked no answer on SO](https://www.reddit.com/r/androiddev/comments/1hh0056/stable_annotation_in_compose_good_question_asked/)
+- [Getting a game featured on Google Play even for a few months can be life changing](https://www.reddit.com/r/androiddev/comments/1hiyiin/getting_a_game_featured_on_google_play_even_for_a/)
+- [DroidSense: The Next Version](https://www.reddit.com/r/androiddev/comments/1hixwxw/droidsense_the_next_version/)
+- [Why does material3 always override my colors with seemingly random theme colors? i want to rip my eyes out](https://www.reddit.com/r/androiddev/comments/1hit5wb/why_does_material3_always_override_my_colors_with/)
+- [Best way to launch a background task after app is killed/destroyed &lpar;without using foreground execution&rpar;?](https://www.reddit.com/r/androiddev/comments/1hii8ah/best_way_to_launch_a_background_task_after_app_is/)
+- [Multi pose detection Android application](https://www.reddit.com/r/androiddev/comments/1hignw4/multi_pose_detection_android_application/)
+- [FirebaseUI-android still maintained?](https://www.reddit.com/r/androiddev/comments/1hifji4/firebaseuiandroid_still_maintained/)
+- [Several ways to read Android source code online](https://www.reddit.com/r/androiddev/comments/1hidw9q/several_ways_to_read_android_source_code_online/)
+- [Android Multi-Module Layer-Based Model Management](https://www.reddit.com/r/androiddev/comments/1hidrjy/android_multimodule_layerbased_model_management/)
+- [charles proxy and alternatives](https://www.reddit.com/r/androiddev/comments/1hibwrt/charles_proxy_and_alternatives/)
+- [Android Guide: An opinionated collection of learnings](https://www.reddit.com/r/androiddev/comments/1hiat20/android_guide_an_opinionated_collection_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
