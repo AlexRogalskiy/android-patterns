@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can accessibility permission cause privacy leak without visible effects?](https://www.reddit.com/r/androiddev/comments/1hkc0fj/can_accessibility_permission_cause_privacy_leak/)
+- [How I Made a Game Engine Using MVI in Kotlin](https://www.reddit.com/r/androiddev/comments/1hkai2f/how_i_made_a_game_engine_using_mvi_in_kotlin/)
+- [“KSP vs. KAPT”: Choosing the Best Annotation Processing Tool for Android.](https://www.reddit.com/r/androiddev/comments/1hk3xee/ksp_vs_kapt_choosing_the_best_annotation/)
+- [Created my own custom scratch card inspired by the Lidl mobile app in Jetpack compose!](https://www.reddit.com/r/androiddev/comments/1hk2e0u/created_my_own_custom_scratch_card_inspired_by/)
+- [[Exception] Not allowed to bind to service Intent](https://www.reddit.com/r/androiddev/comments/1hjzs5w/exception_not_allowed_to_bind_to_service_intent/)
+- [Does the android sdk have support for x axis linear vibration motors?](https://www.reddit.com/r/androiddev/comments/1hjx70v/does_the_android_sdk_have_support_for_x_axis/)
+- [GPS works in dev studio but not in connected phone?](https://www.reddit.com/r/androiddev/comments/1hjt75r/gps_works_in_dev_studio_but_not_in_connected_phone/)
 - [How to Download, Render, and Display a PDF File in Android Jetpack Compose. &lpar;No Libraries, API 21+&rpar;](https://www.reddit.com/r/androiddev/comments/1hjkdoa/how_to_download_render_and_display_a_pdf_file_in/)
 - [dumbass basic question - do you need specific data platforms for a membership based app?](https://www.reddit.com/r/androiddev/comments/1hjijbw/dumbass_basic_question_do_you_need_specific_data/)
 - [Background Task for Product Wishlist App – Potential Issues?](https://www.reddit.com/r/androiddev/comments/1hjgmr0/background_task_for_product_wishlist_app/)
-- [Google Play Games on PC Developer Emulator has no sound](https://www.reddit.com/r/androiddev/comments/1hjevjw/google_play_games_on_pc_developer_emulator_has_no/)
-- [What&#39;s the different scheduling in AlarmManager? There are two functions with different names and there are contradicting arguments for the AlarmType.](https://www.reddit.com/r/androiddev/comments/1hjcux7/whats_the_different_scheduling_in_alarmmanager/)
-- [Getting a game featured on Google Play even for a few months can be life changing](https://www.reddit.com/r/androiddev/comments/1hiyiin/getting_a_game_featured_on_google_play_even_for_a/)
-- [DroidSense: The Next Version](https://www.reddit.com/r/androiddev/comments/1hixwxw/droidsense_the_next_version/)
-- [Why does material3 always override my colors with seemingly random theme colors? i want to rip my eyes out](https://www.reddit.com/r/androiddev/comments/1hit5wb/why_does_material3_always_override_my_colors_with/)
-- [Best way to launch a background task after app is killed/destroyed &lpar;without using foreground execution&rpar;?](https://www.reddit.com/r/androiddev/comments/1hii8ah/best_way_to_launch_a_background_task_after_app_is/)
-- [Multi pose detection Android application](https://www.reddit.com/r/androiddev/comments/1hignw4/multi_pose_detection_android_application/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
