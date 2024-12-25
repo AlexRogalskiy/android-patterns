@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [8× faster 5× memory savings with Dan Rusu’s Immutable Arrays · #254 Fragmented](https://www.reddit.com/r/androiddev/comments/1hlkulw/8_faster_5_memory_savings_with_dan_rusus/)
+- [How to setup firebase in multi-module projects?](https://www.reddit.com/r/androiddev/comments/1hlforx/how_to_setup_firebase_in_multimodule_projects/)
+- [Google pushes for edge-to-edge on Android 15, but its Admob SDK isn&#39;t ready for it yet... &lpar;and there is a workaround&rpar;](https://www.reddit.com/r/androiddev/comments/1hlctq1/google_pushes_for_edgetoedge_on_android_15_but/)
+- [Which server to use for running an Android Device Emulator for automate my tests?](https://www.reddit.com/r/androiddev/comments/1hlb49h/which_server_to_use_for_running_an_android_device/)
+- [Is there new android 15 padding changes?](https://www.reddit.com/r/androiddev/comments/1hl7o6f/is_there_new_android_15_padding_changes/)
 - [Android Studio Meerkat | 2024.3.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1hkyi3x/android_studio_meerkat_202431_canary_7_now/)
 - [How does spotify keep their foreground service music player alive?](https://www.reddit.com/r/androiddev/comments/1hkoge7/how_does_spotify_keep_their_foreground_service/)
 - [Any repo with Technical interview examples ? &lpar;Senior position&rpar;](https://www.reddit.com/r/androiddev/comments/1hko4nj/any_repo_with_technical_interview_examples_senior/)
 - [🌟 KStateMachine v0.33.0 Released!](https://www.reddit.com/r/androiddev/comments/1hkljm5/kstatemachine_v0330_released/)
 - [Why is my WorkManager worker not being triggered in onDestroy?](https://www.reddit.com/r/androiddev/comments/1hkktfl/why_is_my_workmanager_worker_not_being_triggered/)
-- [Rendering Markdown with Code Syntax Highlighting in Compose/Android](https://www.reddit.com/r/androiddev/comments/1hkdrwk/rendering_markdown_with_code_syntax_highlighting/)
-- [Can accessibility permission cause privacy leak without visible effects?](https://www.reddit.com/r/androiddev/comments/1hkc0fj/can_accessibility_permission_cause_privacy_leak/)
-- [How I Made a Game Engine Using MVI in Kotlin](https://www.reddit.com/r/androiddev/comments/1hkai2f/how_i_made_a_game_engine_using_mvi_in_kotlin/)
-- [“KSP vs. KAPT”: Choosing the Best Annotation Processing Tool for Android.](https://www.reddit.com/r/androiddev/comments/1hk3xee/ksp_vs_kapt_choosing_the_best_annotation/)
-- [Created my own custom scratch card inspired by the Lidl mobile app in Jetpack compose!](https://www.reddit.com/r/androiddev/comments/1hk2e0u/created_my_own_custom_scratch_card_inspired_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
