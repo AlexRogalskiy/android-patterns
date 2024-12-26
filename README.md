@@ -271,6 +271,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [androidx.credentials.exceptions.CreateCredentialUnknownException: During save password, found password failure response from one tap](https://www.reddit.com/r/androiddev/comments/1hlu2af/androidxcredentialsexceptionscreatecredentialunkno/)
 - [8× faster 5× memory savings with Dan Rusu’s Immutable Arrays · #254 Fragmented](https://www.reddit.com/r/androiddev/comments/1hlkulw/8_faster_5_memory_savings_with_dan_rusus/)
 - [How to setup firebase in multi-module projects?](https://www.reddit.com/r/androiddev/comments/1hlforx/how_to_setup_firebase_in_multimodule_projects/)
 - [Google pushes for edge-to-edge on Android 15, but its Admob SDK isn&#39;t ready for it yet... &lpar;and there is a workaround&rpar;](https://www.reddit.com/r/androiddev/comments/1hlctq1/google_pushes_for_edgetoedge_on_android_15_but/)
@@ -280,7 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [How does spotify keep their foreground service music player alive?](https://www.reddit.com/r/androiddev/comments/1hkoge7/how_does_spotify_keep_their_foreground_service/)
 - [Any repo with Technical interview examples ? &lpar;Senior position&rpar;](https://www.reddit.com/r/androiddev/comments/1hko4nj/any_repo_with_technical_interview_examples_senior/)
 - [🌟 KStateMachine v0.33.0 Released!](https://www.reddit.com/r/androiddev/comments/1hkljm5/kstatemachine_v0330_released/)
-- [Why is my WorkManager worker not being triggered in onDestroy?](https://www.reddit.com/r/androiddev/comments/1hkktfl/why_is_my_workmanager_worker_not_being_triggered/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
