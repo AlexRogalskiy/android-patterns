@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [As a Christmas present to my dev team&lpar;?&rpar;, I finally fixed our app&#39;s rating with a In-App Review Prompt wrapper &lpar;2.2 to 4.7 in 2 weeks!&rpar;](https://www.reddit.com/r/androiddev/comments/1hmx0th/as_a_christmas_present_to_my_dev_team_i_finally/)
+- [Offline first search functionality](https://www.reddit.com/r/androiddev/comments/1hmshn1/offline_first_search_functionality/)
+- [Compose Chat UI: Multiplatform with Audio &amp; Video Support](https://www.reddit.com/r/androiddev/comments/1hml11s/compose_chat_ui_multiplatform_with_audio_video/)
+- [Unable to mock android.car.Car](https://www.reddit.com/r/androiddev/comments/1hmjy3r/unable_to_mock_androidcarcar/)
+- [Can&#39;t install my app on the Google Play Store](https://www.reddit.com/r/androiddev/comments/1hmhhs8/cant_install_my_app_on_the_google_play_store/)
 - [androidx.credentials.exceptions.CreateCredentialUnknownException: During save password, found password failure response from one tap](https://www.reddit.com/r/androiddev/comments/1hlu2af/androidxcredentialsexceptionscreatecredentialunkno/)
 - [8× faster 5× memory savings with Dan Rusu’s Immutable Arrays · #254 Fragmented](https://www.reddit.com/r/androiddev/comments/1hlkulw/8_faster_5_memory_savings_with_dan_rusus/)
 - [How to setup firebase in multi-module projects?](https://www.reddit.com/r/androiddev/comments/1hlforx/how_to_setup_firebase_in_multimodule_projects/)
 - [Google pushes for edge-to-edge on Android 15, but its Admob SDK isn&#39;t ready for it yet... &lpar;and there is a workaround&rpar;](https://www.reddit.com/r/androiddev/comments/1hlctq1/google_pushes_for_edgetoedge_on_android_15_but/)
 - [Which server to use for running an Android Device Emulator for automate my tests?](https://www.reddit.com/r/androiddev/comments/1hlb49h/which_server_to_use_for_running_an_android_device/)
-- [Is there new android 15 padding changes?](https://www.reddit.com/r/androiddev/comments/1hl7o6f/is_there_new_android_15_padding_changes/)
-- [Android Studio Meerkat | 2024.3.1 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1hkyi3x/android_studio_meerkat_202431_canary_7_now/)
-- [How does spotify keep their foreground service music player alive?](https://www.reddit.com/r/androiddev/comments/1hkoge7/how_does_spotify_keep_their_foreground_service/)
-- [Any repo with Technical interview examples ? &lpar;Senior position&rpar;](https://www.reddit.com/r/androiddev/comments/1hko4nj/any_repo_with_technical_interview_examples_senior/)
-- [🌟 KStateMachine v0.33.0 Released!](https://www.reddit.com/r/androiddev/comments/1hkljm5/kstatemachine_v0330_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
