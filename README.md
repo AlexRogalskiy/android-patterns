@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Improving the lazycolumn similar to Instagram feed in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hnqkgl/improving_the_lazycolumn_similar_to_instagram/)
+- [Run MCP Servers On Android with Gemini &amp; Chicory](https://www.reddit.com/r/androiddev/comments/1hnk495/run_mcp_servers_on_android_with_gemini_chicory/)
+- [If you&#39;re wondering why your paid app gets lots of refunds, google adds no install button anywhere, just a refund option](https://www.reddit.com/r/androiddev/comments/1hnf767/if_youre_wondering_why_your_paid_app_gets_lots_of/)
+- [Navigate Early Development | Simplify Data Storage](https://www.reddit.com/r/androiddev/comments/1hnbvkd/navigate_early_development_simplify_data_storage/)
 - [As a Christmas present to my dev team&lpar;?&rpar;, I finally fixed our app&#39;s rating with a In-App Review Prompt wrapper &lpar;2.2 to 4.7 in 2 weeks!&rpar;](https://www.reddit.com/r/androiddev/comments/1hmx0th/as_a_christmas_present_to_my_dev_team_i_finally/)
 - [Offline first search functionality](https://www.reddit.com/r/androiddev/comments/1hmshn1/offline_first_search_functionality/)
 - [Compose Chat UI: Multiplatform with Audio &amp; Video Support](https://www.reddit.com/r/androiddev/comments/1hml11s/compose_chat_ui_multiplatform_with_audio_video/)
 - [Unable to mock android.car.Car](https://www.reddit.com/r/androiddev/comments/1hmjy3r/unable_to_mock_androidcarcar/)
 - [Can&#39;t install my app on the Google Play Store](https://www.reddit.com/r/androiddev/comments/1hmhhs8/cant_install_my_app_on_the_google_play_store/)
 - [androidx.credentials.exceptions.CreateCredentialUnknownException: During save password, found password failure response from one tap](https://www.reddit.com/r/androiddev/comments/1hlu2af/androidxcredentialsexceptionscreatecredentialunkno/)
-- [8× faster 5× memory savings with Dan Rusu’s Immutable Arrays · #254 Fragmented](https://www.reddit.com/r/androiddev/comments/1hlkulw/8_faster_5_memory_savings_with_dan_rusus/)
-- [How to setup firebase in multi-module projects?](https://www.reddit.com/r/androiddev/comments/1hlforx/how_to_setup_firebase_in_multimodule_projects/)
-- [Google pushes for edge-to-edge on Android 15, but its Admob SDK isn&#39;t ready for it yet... &lpar;and there is a workaround&rpar;](https://www.reddit.com/r/androiddev/comments/1hlctq1/google_pushes_for_edgetoedge_on_android_15_but/)
-- [Which server to use for running an Android Device Emulator for automate my tests?](https://www.reddit.com/r/androiddev/comments/1hlb49h/which_server_to_use_for_running_an_android_device/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
