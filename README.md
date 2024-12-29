@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Maintaining Full Immersive Mode with Overlays in Android Kiosk Applications](https://www.reddit.com/r/androiddev/comments/1ho7qge/maintaining_full_immersive_mode_with_overlays_in/)
+- [LazyColumn off scroll and overscroll effect when all items fit in the screen. Perhaps someone has encountered this? Solved this problem?](https://www.reddit.com/r/androiddev/comments/1ho49js/lazycolumn_off_scroll_and_overscroll_effect_when/)
+- [How to avoid Circular dependencies?](https://www.reddit.com/r/androiddev/comments/1ho0ydb/how_to_avoid_circular_dependencies/)
 - [Improving the lazycolumn similar to Instagram feed in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hnqkgl/improving_the_lazycolumn_similar_to_instagram/)
 - [Run MCP Servers On Android with Gemini &amp; Chicory](https://www.reddit.com/r/androiddev/comments/1hnk495/run_mcp_servers_on_android_with_gemini_chicory/)
 - [If you&#39;re wondering why your paid app gets lots of refunds, google adds no install button anywhere, just a refund option](https://www.reddit.com/r/androiddev/comments/1hnf767/if_youre_wondering_why_your_paid_app_gets_lots_of/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [As a Christmas present to my dev team&lpar;?&rpar;, I finally fixed our app&#39;s rating with a In-App Review Prompt wrapper &lpar;2.2 to 4.7 in 2 weeks!&rpar;](https://www.reddit.com/r/androiddev/comments/1hmx0th/as_a_christmas_present_to_my_dev_team_i_finally/)
 - [Offline first search functionality](https://www.reddit.com/r/androiddev/comments/1hmshn1/offline_first_search_functionality/)
 - [Compose Chat UI: Multiplatform with Audio &amp; Video Support](https://www.reddit.com/r/androiddev/comments/1hml11s/compose_chat_ui_multiplatform_with_audio_video/)
-- [Unable to mock android.car.Car](https://www.reddit.com/r/androiddev/comments/1hmjy3r/unable_to_mock_androidcarcar/)
-- [Can&#39;t install my app on the Google Play Store](https://www.reddit.com/r/androiddev/comments/1hmhhs8/cant_install_my_app_on_the_google_play_store/)
-- [androidx.credentials.exceptions.CreateCredentialUnknownException: During save password, found password failure response from one tap](https://www.reddit.com/r/androiddev/comments/1hlu2af/androidxcredentialsexceptionscreatecredentialunkno/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
