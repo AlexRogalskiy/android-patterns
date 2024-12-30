@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Multiplication Math Games - My first mobile app developed as a solo programmer](https://www.reddit.com/r/androiddev/comments/1hp5m8h/multiplication_math_games_my_first_mobile_app/)
+- [Solution to Circular Dependency problem](https://www.reddit.com/r/androiddev/comments/1hp0vob/solution_to_circular_dependency_problem/)
+- [Integration with PlayIntegrity Api and GoogleAuth results in 403 Forbidden Error](https://www.reddit.com/r/androiddev/comments/1hotag4/integration_with_playintegrity_api_and_googleauth/)
+- [Created a repository that contains the use-cases of various design patterns in jetpack compose](https://www.reddit.com/r/androiddev/comments/1hosp5k/created_a_repository_that_contains_the_usecases/)
+- [Built AdVista: A Free Tool to Simplify AdMob Analytics for Developers – Looking for Feedback](https://www.reddit.com/r/androiddev/comments/1honva1/built_advista_a_free_tool_to_simplify_admob/)
+- [When presenting ModalBottomSheet, seeing transparent NavigationBottomBar &lpar;wrapping in scaffold helps, but when expanded it&#39;s transparent again&rpar; Anyone face this issue?](https://www.reddit.com/r/androiddev/comments/1hom5a7/when_presenting_modalbottomsheet_seeing/)
 - [Maintaining Full Immersive Mode with Overlays in Android Kiosk Applications](https://www.reddit.com/r/androiddev/comments/1ho7qge/maintaining_full_immersive_mode_with_overlays_in/)
 - [LazyColumn off scroll and overscroll effect when all items fit in the screen. Perhaps someone has encountered this? Solved this problem?](https://www.reddit.com/r/androiddev/comments/1ho49js/lazycolumn_off_scroll_and_overscroll_effect_when/)
 - [How to avoid Circular dependencies?](https://www.reddit.com/r/androiddev/comments/1ho0ydb/how_to_avoid_circular_dependencies/)
 - [Improving the lazycolumn similar to Instagram feed in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hnqkgl/improving_the_lazycolumn_similar_to_instagram/)
-- [Run MCP Servers On Android with Gemini &amp; Chicory](https://www.reddit.com/r/androiddev/comments/1hnk495/run_mcp_servers_on_android_with_gemini_chicory/)
-- [If you&#39;re wondering why your paid app gets lots of refunds, google adds no install button anywhere, just a refund option](https://www.reddit.com/r/androiddev/comments/1hnf767/if_youre_wondering_why_your_paid_app_gets_lots_of/)
-- [Navigate Early Development | Simplify Data Storage](https://www.reddit.com/r/androiddev/comments/1hnbvkd/navigate_early_development_simplify_data_storage/)
-- [As a Christmas present to my dev team&lpar;?&rpar;, I finally fixed our app&#39;s rating with a In-App Review Prompt wrapper &lpar;2.2 to 4.7 in 2 weeks!&rpar;](https://www.reddit.com/r/androiddev/comments/1hmx0th/as_a_christmas_present_to_my_dev_team_i_finally/)
-- [Offline first search functionality](https://www.reddit.com/r/androiddev/comments/1hmshn1/offline_first_search_functionality/)
-- [Compose Chat UI: Multiplatform with Audio &amp; Video Support](https://www.reddit.com/r/androiddev/comments/1hml11s/compose_chat_ui_multiplatform_with_audio_video/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
