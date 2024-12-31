@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is your experience with Android live coding interviews?](https://www.reddit.com/r/androiddev/comments/1hpuu8g/what_is_your_experience_with_android_live_coding/)
+- [Any ideas on how to override `onWindowVisibilityChanged` for a view from `onShowCustomView`?](https://www.reddit.com/r/androiddev/comments/1hpuatr/any_ideas_on_how_to_override/)
+- [GroupTrack — An open-source to Life360](https://www.reddit.com/r/androiddev/comments/1hpk5az/grouptrack_an_opensource_to_life360/)
+- [DateTimePicker KMP](https://www.reddit.com/r/androiddev/comments/1hp91vj/datetimepicker_kmp/)
 - [Multiplication Math Games - My first mobile app developed as a solo programmer](https://www.reddit.com/r/androiddev/comments/1hp5m8h/multiplication_math_games_my_first_mobile_app/)
 - [Solution to Circular Dependency problem](https://www.reddit.com/r/androiddev/comments/1hp0vob/solution_to_circular_dependency_problem/)
 - [Integration with PlayIntegrity Api and GoogleAuth results in 403 Forbidden Error](https://www.reddit.com/r/androiddev/comments/1hotag4/integration_with_playintegrity_api_and_googleauth/)
 - [Created a repository that contains the use-cases of various design patterns in jetpack compose](https://www.reddit.com/r/androiddev/comments/1hosp5k/created_a_repository_that_contains_the_usecases/)
 - [Built AdVista: A Free Tool to Simplify AdMob Analytics for Developers – Looking for Feedback](https://www.reddit.com/r/androiddev/comments/1honva1/built_advista_a_free_tool_to_simplify_admob/)
 - [When presenting ModalBottomSheet, seeing transparent NavigationBottomBar &lpar;wrapping in scaffold helps, but when expanded it&#39;s transparent again&rpar; Anyone face this issue?](https://www.reddit.com/r/androiddev/comments/1hom5a7/when_presenting_modalbottomsheet_seeing/)
-- [Maintaining Full Immersive Mode with Overlays in Android Kiosk Applications](https://www.reddit.com/r/androiddev/comments/1ho7qge/maintaining_full_immersive_mode_with_overlays_in/)
-- [LazyColumn off scroll and overscroll effect when all items fit in the screen. Perhaps someone has encountered this? Solved this problem?](https://www.reddit.com/r/androiddev/comments/1ho49js/lazycolumn_off_scroll_and_overscroll_effect_when/)
-- [How to avoid Circular dependencies?](https://www.reddit.com/r/androiddev/comments/1ho0ydb/how_to_avoid_circular_dependencies/)
-- [Improving the lazycolumn similar to Instagram feed in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hnqkgl/improving_the_lazycolumn_similar_to_instagram/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
