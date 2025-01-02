@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Turning Project To KMM](https://www.reddit.com/r/androiddev/comments/1hrfwdm/turning_project_to_kmm/)
+- [Looking to hire some help](https://www.reddit.com/r/androiddev/comments/1hreeak/looking_to_hire_some_help/)
+- [Compose Multiplatform: A ready-made Template for your next App](https://www.reddit.com/r/androiddev/comments/1hrby5a/compose_multiplatform_a_readymade_template_for/)
+- [Guards and Pattern Guards in Kotlin](https://www.reddit.com/r/androiddev/comments/1hr7ls1/guards_and_pattern_guards_in_kotlin/)
+- [Exploring ViewModel Internals](https://www.reddit.com/r/androiddev/comments/1hr1hco/exploring_viewmodel_internals/)
+- [Publishing a new release using the Play developer API](https://www.reddit.com/r/androiddev/comments/1hqztfv/publishing_a_new_release_using_the_play_developer/)
+- [What are the top repositories to study best practice applications of concepts like coroutines, architecture, state management etc?](https://www.reddit.com/r/androiddev/comments/1hqzqwc/what_are_the_top_repositories_to_study_best/)
+- [Simplifying Dependency Management Using Version Catalogs in Gradle](https://www.reddit.com/r/androiddev/comments/1hqwxfq/simplifying_dependency_management_using_version/)
 - [Possibly a glitchy behavior for using a keyboard with the AVD on Windows 11](https://www.reddit.com/r/androiddev/comments/1hql6zl/possibly_a_glitchy_behavior_for_using_a_keyboard/)
 - [Using SplashScreenAPI with non launcher activity](https://www.reddit.com/r/androiddev/comments/1hqkur4/using_splashscreenapi_with_non_launcher_activity/)
-- [Android paths in SQL](https://www.reddit.com/r/androiddev/comments/1hqd5o4/android_paths_in_sql/)
-- [What is your experience with Android live coding interviews?](https://www.reddit.com/r/androiddev/comments/1hpuu8g/what_is_your_experience_with_android_live_coding/)
-- [Any ideas on how to override `onWindowVisibilityChanged` for a view from `onShowCustomView`?](https://www.reddit.com/r/androiddev/comments/1hpuatr/any_ideas_on_how_to_override/)
-- [GroupTrack — An open-source to Life360](https://www.reddit.com/r/androiddev/comments/1hpk5az/grouptrack_an_opensource_to_life360/)
-- [DateTimePicker KMP](https://www.reddit.com/r/androiddev/comments/1hp91vj/datetimepicker_kmp/)
-- [Multiplication Math Games - My first mobile app developed as a solo programmer](https://www.reddit.com/r/androiddev/comments/1hp5m8h/multiplication_math_games_my_first_mobile_app/)
-- [Solution to Circular Dependency problem](https://www.reddit.com/r/androiddev/comments/1hp0vob/solution_to_circular_dependency_problem/)
-- [Integration with PlayIntegrity Api and GoogleAuth results in 403 Forbidden Error](https://www.reddit.com/r/androiddev/comments/1hotag4/integration_with_playintegrity_api_and_googleauth/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
