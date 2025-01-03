@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Notion has 45 second builds from clean](https://www.reddit.com/r/androiddev/comments/1hrxgzt/notion_has_45_second_builds_from_clean/)
+- [Apple let apps use Face ID icon?](https://www.reddit.com/r/androiddev/comments/1hrx839/apple_let_apps_use_face_id_icon/)
+- [Made my first app!](https://www.reddit.com/r/androiddev/comments/1hru7tn/made_my_first_app/)
+- [Is it possible to detect if a device is playing HDR content?](https://www.reddit.com/r/androiddev/comments/1hrria4/is_it_possible_to_detect_if_a_device_is_playing/)
 - [Turning Project To KMM](https://www.reddit.com/r/androiddev/comments/1hrfwdm/turning_project_to_kmm/)
 - [Looking to hire some help](https://www.reddit.com/r/androiddev/comments/1hreeak/looking_to_hire_some_help/)
 - [Compose Multiplatform: A ready-made Template for your next App](https://www.reddit.com/r/androiddev/comments/1hrby5a/compose_multiplatform_a_readymade_template_for/)
 - [Guards and Pattern Guards in Kotlin](https://www.reddit.com/r/androiddev/comments/1hr7ls1/guards_and_pattern_guards_in_kotlin/)
 - [Exploring ViewModel Internals](https://www.reddit.com/r/androiddev/comments/1hr1hco/exploring_viewmodel_internals/)
 - [Publishing a new release using the Play developer API](https://www.reddit.com/r/androiddev/comments/1hqztfv/publishing_a_new_release_using_the_play_developer/)
-- [What are the top repositories to study best practice applications of concepts like coroutines, architecture, state management etc?](https://www.reddit.com/r/androiddev/comments/1hqzqwc/what_are_the_top_repositories_to_study_best/)
-- [Simplifying Dependency Management Using Version Catalogs in Gradle](https://www.reddit.com/r/androiddev/comments/1hqwxfq/simplifying_dependency_management_using_version/)
-- [Possibly a glitchy behavior for using a keyboard with the AVD on Windows 11](https://www.reddit.com/r/androiddev/comments/1hql6zl/possibly_a_glitchy_behavior_for_using_a_keyboard/)
-- [Using SplashScreenAPI with non launcher activity](https://www.reddit.com/r/androiddev/comments/1hqkur4/using_splashscreenapi_with_non_launcher_activity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
