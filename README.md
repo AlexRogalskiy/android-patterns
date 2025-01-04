@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to test presentation layers that do not implement data layers as dependencies](https://www.reddit.com/r/androiddev/comments/1hsyw4z/how_to_test_presentation_layers_that_do_not/)
+- [Gradle modules IoC](https://www.reddit.com/r/androiddev/comments/1hsxgnl/gradle_modules_ioc/)
+- [Looking for help from a TV app Developer.](https://www.reddit.com/r/androiddev/comments/1hstvob/looking_for_help_from_a_tv_app_developer/)
+- [Can I Request a Key Upgrade/Reset for an Old App Uploaded in 2015?](https://www.reddit.com/r/androiddev/comments/1hsp4sn/can_i_request_a_key_upgradereset_for_an_old_app/)
+- [A FOSS lightweight android build tool](https://www.reddit.com/r/androiddev/comments/1hsm2xm/a_foss_lightweight_android_build_tool/)
+- [Issue with andorid studio emulator](https://www.reddit.com/r/androiddev/comments/1hslr0j/issue_with_andorid_studio_emulator/)
+- [How to unpair bluetooth devices via adb](https://www.reddit.com/r/androiddev/comments/1hsk84f/how_to_unpair_bluetooth_devices_via_adb/)
+- [Having trouble with your specific project? Updates, advice, and newbie questions for January 2025](https://www.reddit.com/r/androiddev/comments/1hselaf/having_trouble_with_your_specific_project_updates/)
+- [How to make a preferences screen like Gboard](https://www.reddit.com/r/androiddev/comments/1hsec9g/how_to_make_a_preferences_screen_like_gboard/)
 - [Notion has 45 second builds from clean](https://www.reddit.com/r/androiddev/comments/1hrxgzt/notion_has_45_second_builds_from_clean/)
-- [Apple let apps use Face ID icon?](https://www.reddit.com/r/androiddev/comments/1hrx839/apple_let_apps_use_face_id_icon/)
-- [Made my first app!](https://www.reddit.com/r/androiddev/comments/1hru7tn/made_my_first_app/)
-- [Is it possible to detect if a device is playing HDR content?](https://www.reddit.com/r/androiddev/comments/1hrria4/is_it_possible_to_detect_if_a_device_is_playing/)
-- [Turning Project To KMM](https://www.reddit.com/r/androiddev/comments/1hrfwdm/turning_project_to_kmm/)
-- [Looking to hire some help](https://www.reddit.com/r/androiddev/comments/1hreeak/looking_to_hire_some_help/)
-- [Compose Multiplatform: A ready-made Template for your next App](https://www.reddit.com/r/androiddev/comments/1hrby5a/compose_multiplatform_a_readymade_template_for/)
-- [Guards and Pattern Guards in Kotlin](https://www.reddit.com/r/androiddev/comments/1hr7ls1/guards_and_pattern_guards_in_kotlin/)
-- [Exploring ViewModel Internals](https://www.reddit.com/r/androiddev/comments/1hr1hco/exploring_viewmodel_internals/)
-- [Publishing a new release using the Play developer API](https://www.reddit.com/r/androiddev/comments/1hqztfv/publishing_a_new_release_using_the_play_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
