@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Effortlessly Shimmer Effects to Your Android Compose UI with easy-shimmer-compose](https://www.reddit.com/r/androiddev/comments/1htiuh2/effortlessly_shimmer_effects_to_your_android/)
+- [TinyTicTacToe: Open source app in C. APK &lt; 80 kB.](https://www.reddit.com/r/androiddev/comments/1htbzwl/tinytictactoe_open_source_app_in_c_apk_80_kb/)
+- [Look for contributor to make native Android Library for Gossip Networking Library](https://www.reddit.com/r/androiddev/comments/1ht5eqv/look_for_contributor_to_make_native_android/)
 - [How to test presentation layers that do not implement data layers as dependencies](https://www.reddit.com/r/androiddev/comments/1hsyw4z/how_to_test_presentation_layers_that_do_not/)
 - [Gradle modules IoC](https://www.reddit.com/r/androiddev/comments/1hsxgnl/gradle_modules_ioc/)
 - [Looking for help from a TV app Developer.](https://www.reddit.com/r/androiddev/comments/1hstvob/looking_for_help_from_a_tv_app_developer/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [A FOSS lightweight android build tool](https://www.reddit.com/r/androiddev/comments/1hsm2xm/a_foss_lightweight_android_build_tool/)
 - [Issue with andorid studio emulator](https://www.reddit.com/r/androiddev/comments/1hslr0j/issue_with_andorid_studio_emulator/)
 - [How to unpair bluetooth devices via adb](https://www.reddit.com/r/androiddev/comments/1hsk84f/how_to_unpair_bluetooth_devices_via_adb/)
-- [Having trouble with your specific project? Updates, advice, and newbie questions for January 2025](https://www.reddit.com/r/androiddev/comments/1hselaf/having_trouble_with_your_specific_project_updates/)
-- [How to make a preferences screen like Gboard](https://www.reddit.com/r/androiddev/comments/1hsec9g/how_to_make_a_preferences_screen_like_gboard/)
-- [Notion has 45 second builds from clean](https://www.reddit.com/r/androiddev/comments/1hrxgzt/notion_has_45_second_builds_from_clean/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
