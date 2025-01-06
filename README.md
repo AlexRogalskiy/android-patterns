@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any alternative to Droidscript?](https://www.reddit.com/r/androiddev/comments/1huo7kr/any_alternative_to_droidscript/)
+- [Is there a way to change or completely remove the 0000/1234 PIN code suggestion in the pairing pop up message?](https://www.reddit.com/r/androiddev/comments/1hu572t/is_there_a_way_to_change_or_completely_remove_the/)
+- [Is it still common to use jitpack to access open source project from github?](https://www.reddit.com/r/androiddev/comments/1hu4tz1/is_it_still_common_to_use_jitpack_to_access_open/)
+- [What are the consequences if you don&#39;t maintain your apps?](https://www.reddit.com/r/androiddev/comments/1htwgfu/what_are_the_consequences_if_you_dont_maintain/)
 - [Effortlessly Shimmer Effects to Your Android Compose UI with easy-shimmer-compose](https://www.reddit.com/r/androiddev/comments/1htiuh2/effortlessly_shimmer_effects_to_your_android/)
 - [TinyTicTacToe: Open source app in C. APK &lt; 80 kB.](https://www.reddit.com/r/androiddev/comments/1htbzwl/tinytictactoe_open_source_app_in_c_apk_80_kb/)
 - [Look for contributor to make native Android Library for Gossip Networking Library](https://www.reddit.com/r/androiddev/comments/1ht5eqv/look_for_contributor_to_make_native_android/)
 - [How to test presentation layers that do not implement data layers as dependencies](https://www.reddit.com/r/androiddev/comments/1hsyw4z/how_to_test_presentation_layers_that_do_not/)
 - [Gradle modules IoC](https://www.reddit.com/r/androiddev/comments/1hsxgnl/gradle_modules_ioc/)
 - [Looking for help from a TV app Developer.](https://www.reddit.com/r/androiddev/comments/1hstvob/looking_for_help_from_a_tv_app_developer/)
-- [Can I Request a Key Upgrade/Reset for an Old App Uploaded in 2015?](https://www.reddit.com/r/androiddev/comments/1hsp4sn/can_i_request_a_key_upgradereset_for_an_old_app/)
-- [A FOSS lightweight android build tool](https://www.reddit.com/r/androiddev/comments/1hsm2xm/a_foss_lightweight_android_build_tool/)
-- [Issue with andorid studio emulator](https://www.reddit.com/r/androiddev/comments/1hslr0j/issue_with_andorid_studio_emulator/)
-- [How to unpair bluetooth devices via adb](https://www.reddit.com/r/androiddev/comments/1hsk84f/how_to_unpair_bluetooth_devices_via_adb/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
