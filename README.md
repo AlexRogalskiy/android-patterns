@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Meerkat | 2024.3.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1hv57ox/android_studio_meerkat_202431_canary_8_now/)
-- [Anyone using Showkase or another library to easily show all Composables?](https://www.reddit.com/r/androiddev/comments/1huzswx/anyone_using_showkase_or_another_library_to/)
-- [Is there a way to change or completely remove the 0000/1234 PIN code suggestion in the pairing pop up message?](https://www.reddit.com/r/androiddev/comments/1hu572t/is_there_a_way_to_change_or_completely_remove_the/)
-- [Is it still common to use jitpack to access open source project from github?](https://www.reddit.com/r/androiddev/comments/1hu4tz1/is_it_still_common_to_use_jitpack_to_access_open/)
-- [What are the consequences if you don&#39;t maintain your apps?](https://www.reddit.com/r/androiddev/comments/1htwgfu/what_are_the_consequences_if_you_dont_maintain/)
-- [Effortlessly Shimmer Effects to Your Android Compose UI with easy-shimmer-compose](https://www.reddit.com/r/androiddev/comments/1htiuh2/effortlessly_shimmer_effects_to_your_android/)
-- [TinyTicTacToe: Open source app in C. APK &lt; 80 kB.](https://www.reddit.com/r/androiddev/comments/1htbzwl/tinytictactoe_open_source_app_in_c_apk_80_kb/)
-- [Look for contributor to make native Android Library for Gossip Networking Library](https://www.reddit.com/r/androiddev/comments/1ht5eqv/look_for_contributor_to_make_native_android/)
-- [How to test presentation layers that do not implement data layers as dependencies](https://www.reddit.com/r/androiddev/comments/1hsyw4z/how_to_test_presentation_layers_that_do_not/)
-- [Gradle modules IoC](https://www.reddit.com/r/androiddev/comments/1hsxgnl/gradle_modules_ioc/)
+- [Just completed a Rapid-prototyping interview -](https://www.reddit.com/r/androiddev/comments/1hw49ho/just_completed_a_rapidprototyping_interview/)
+- [Creating tests in Android Studio Ladybug Patch 3](https://www.reddit.com/r/androiddev/comments/1hw471o/creating_tests_in_android_studio_ladybug_patch_3/)
+- [How can I change my public address in Google Play Console for paid apps?](https://www.reddit.com/r/androiddev/comments/1hvybtz/how_can_i_change_my_public_address_in_google_play/)
+- [Have you considered using SAM interfaces instead of function types to improve Compose animation performance?](https://www.reddit.com/r/androiddev/comments/1hvtjdv/have_you_considered_using_sam_interfaces_instead/)
+- [Double run needed for changes to be reflected Meerkat 7 Canary issue](https://www.reddit.com/r/androiddev/comments/1hvtdvj/double_run_needed_for_changes_to_be_reflected/)
+- [Whenever I create a new Android Studio project I get the android block inside gradle red](https://www.reddit.com/r/androiddev/comments/1hvqguf/whenever_i_create_a_new_android_studio_project_i/)
+- [Android studios crashing my entire windows?](https://www.reddit.com/r/androiddev/comments/1hvoqdn/android_studios_crashing_my_entire_windows/)
+- [Get the base module size of an aab file](https://www.reddit.com/r/androiddev/comments/1hvjdc2/get_the_base_module_size_of_an_aab_file/)
+- [Should I Reinvent the Wheel with Custom Compose Components, or Just Customize What&#39;s Already There?](https://www.reddit.com/r/androiddev/comments/1hvj2jm/should_i_reinvent_the_wheel_with_custom_compose/)
+- [Thoughts on gemini in android studio?](https://www.reddit.com/r/androiddev/comments/1hvhh5r/thoughts_on_gemini_in_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
