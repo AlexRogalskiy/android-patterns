@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Curious about android apps](https://www.reddit.com/r/androiddev/comments/1hxrhjr/curious_about_android_apps/)
+- [Google Places API does not work when using a build from playstore.](https://www.reddit.com/r/androiddev/comments/1hxledd/google_places_api_does_not_work_when_using_a/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 now available](https://www.reddit.com/r/androiddev/comments/1hxk8l7/android_studio_ladybug_feature_drop_202422_now/)
+- [Repository pattern in library - problems with proper encapsulation, Hilt &lpar;DI&rpar;, and testing...](https://www.reddit.com/r/androiddev/comments/1hx4hvi/repository_pattern_in_library_problems_with/)
 - [How to convert any Composable into an image](https://www.reddit.com/r/androiddev/comments/1hwwj5e/how_to_convert_any_composable_into_an_image/)
 - [Looking for help for Hilt dependency injection](https://www.reddit.com/r/androiddev/comments/1hwszn9/looking_for_help_for_hilt_dependency_injection/)
 - [ComposeRecyclerView — A High-Performance Bridge Between RecyclerView and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hwlh8w/composerecyclerview_a_highperformance_bridge/)
 - [Can I detect private spaces being hidden?](https://www.reddit.com/r/androiddev/comments/1hwlc2u/can_i_detect_private_spaces_being_hidden/)
+- [Not Totally a Rookie However](https://www.reddit.com/r/androiddev/comments/1hwkukl/not_totally_a_rookie_however/)
 - [Just completed a Rapid-prototyping interview -](https://www.reddit.com/r/androiddev/comments/1hw49ho/just_completed_a_rapidprototyping_interview/)
-- [How can I change my public address in Google Play Console for paid apps?](https://www.reddit.com/r/androiddev/comments/1hvybtz/how_can_i_change_my_public_address_in_google_play/)
-- [Have you considered using SAM interfaces instead of function types to improve Compose animation performance?](https://www.reddit.com/r/androiddev/comments/1hvtjdv/have_you_considered_using_sam_interfaces_instead/)
-- [Double run needed for changes to be reflected Meerkat 7 Canary issue](https://www.reddit.com/r/androiddev/comments/1hvtdvj/double_run_needed_for_changes_to_be_reflected/)
-- [Whenever I create a new Android Studio project I get the android block inside gradle red](https://www.reddit.com/r/androiddev/comments/1hvqguf/whenever_i_create_a_new_android_studio_project_i/)
-- [Android studios crashing my entire windows?](https://www.reddit.com/r/androiddev/comments/1hvoqdn/android_studios_crashing_my_entire_windows/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
