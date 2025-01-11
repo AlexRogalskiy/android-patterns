@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Curious about android apps](https://www.reddit.com/r/androiddev/comments/1hxrhjr/curious_about_android_apps/)
-- [Google Places API does not work when using a build from playstore.](https://www.reddit.com/r/androiddev/comments/1hxledd/google_places_api_does_not_work_when_using_a/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 now available](https://www.reddit.com/r/androiddev/comments/1hxk8l7/android_studio_ladybug_feature_drop_202422_now/)
-- [Repository pattern in library - problems with proper encapsulation, Hilt &lpar;DI&rpar;, and testing...](https://www.reddit.com/r/androiddev/comments/1hx4hvi/repository_pattern_in_library_problems_with/)
-- [How to convert any Composable into an image](https://www.reddit.com/r/androiddev/comments/1hwwj5e/how_to_convert_any_composable_into_an_image/)
-- [Looking for help for Hilt dependency injection](https://www.reddit.com/r/androiddev/comments/1hwszn9/looking_for_help_for_hilt_dependency_injection/)
-- [ComposeRecyclerView — A High-Performance Bridge Between RecyclerView and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hwlh8w/composerecyclerview_a_highperformance_bridge/)
-- [Can I detect private spaces being hidden?](https://www.reddit.com/r/androiddev/comments/1hwlc2u/can_i_detect_private_spaces_being_hidden/)
-- [Not Totally a Rookie However](https://www.reddit.com/r/androiddev/comments/1hwkukl/not_totally_a_rookie_however/)
-- [Just completed a Rapid-prototyping interview -](https://www.reddit.com/r/androiddev/comments/1hw49ho/just_completed_a_rapidprototyping_interview/)
+- [Using social media company logos in app](https://www.reddit.com/r/androiddev/comments/1hydwdv/using_social_media_company_logos_in_app/)
+- [Android Studio Meerkat | 2024.3.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1hydcjc/android_studio_meerkat_202431_canary_9_now/)
+- [Morphing Geometric Shapes with SDF in GLSL Fragment Shaders and Visualization in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hycx5t/morphing_geometric_shapes_with_sdf_in_glsl/)
+- [How do you setup an app with chaquopi using android studio?](https://www.reddit.com/r/androiddev/comments/1hycf2c/how_do_you_setup_an_app_with_chaquopi_using/)
+- [Recomposition when using MVI Architecture](https://www.reddit.com/r/androiddev/comments/1hycdpw/recomposition_when_using_mvi_architecture/)
+- [Who have used MLKit Face Detection](https://www.reddit.com/r/androiddev/comments/1hya6ds/who_have_used_mlkit_face_detection/)
+- [How does Company Portal persist user data even after logout and app uninstall?](https://www.reddit.com/r/androiddev/comments/1hy612i/how_does_company_portal_persist_user_data_even/)
+- [Passing parameters to a composable function feels messy—what’s a better approach?](https://www.reddit.com/r/androiddev/comments/1hy4snh/passing_parameters_to_a_composable_function_feels/)
+- [Unable to Verify Phone Number While Creating Google Play Console Account](https://www.reddit.com/r/androiddev/comments/1hy178i/unable_to_verify_phone_number_while_creating/)
+- [Android XR AI Capabilities Question &lpar;Samsung Project Moohan VR&rpar;](https://www.reddit.com/r/androiddev/comments/1hy0to5/android_xr_ai_capabilities_question_samsung/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
