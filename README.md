@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using social media company logos in app](https://www.reddit.com/r/androiddev/comments/1hydwdv/using_social_media_company_logos_in_app/)
+- [How does Tasker achieve it&#39;s Accessibility Volume action!?](https://www.reddit.com/r/androiddev/comments/1hzbhd2/how_does_tasker_achieve_its_accessibility_volume/)
+- [Compose Google Map reload after navigating back](https://www.reddit.com/r/androiddev/comments/1hz713s/compose_google_map_reload_after_navigating_back/)
+- [Question on complications, slots and data sources](https://www.reddit.com/r/androiddev/comments/1hz00fp/question_on_complications_slots_and_data_sources/)
+- [Integrating Gemini with mcp.run on Android](https://www.reddit.com/r/androiddev/comments/1hysrni/integrating_gemini_with_mcprun_on_android/)
+- [How can one get the LLM model name and version using Google AI Edge SDK?](https://www.reddit.com/r/androiddev/comments/1hymqb5/how_can_one_get_the_llm_model_name_and_version/)
 - [Android Studio Meerkat | 2024.3.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1hydcjc/android_studio_meerkat_202431_canary_9_now/)
 - [Morphing Geometric Shapes with SDF in GLSL Fragment Shaders and Visualization in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hycx5t/morphing_geometric_shapes_with_sdf_in_glsl/)
-- [How do you setup an app with chaquopi using android studio?](https://www.reddit.com/r/androiddev/comments/1hycf2c/how_do_you_setup_an_app_with_chaquopi_using/)
 - [Recomposition when using MVI Architecture](https://www.reddit.com/r/androiddev/comments/1hycdpw/recomposition_when_using_mvi_architecture/)
 - [Who have used MLKit Face Detection](https://www.reddit.com/r/androiddev/comments/1hya6ds/who_have_used_mlkit_face_detection/)
 - [How does Company Portal persist user data even after logout and app uninstall?](https://www.reddit.com/r/androiddev/comments/1hy612i/how_does_company_portal_persist_user_data_even/)
-- [Passing parameters to a composable function feels messy—what’s a better approach?](https://www.reddit.com/r/androiddev/comments/1hy4snh/passing_parameters_to_a_composable_function_feels/)
-- [Unable to Verify Phone Number While Creating Google Play Console Account](https://www.reddit.com/r/androiddev/comments/1hy178i/unable_to_verify_phone_number_while_creating/)
-- [Android XR AI Capabilities Question &lpar;Samsung Project Moohan VR&rpar;](https://www.reddit.com/r/androiddev/comments/1hy0to5/android_xr_ai_capabilities_question_samsung/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
