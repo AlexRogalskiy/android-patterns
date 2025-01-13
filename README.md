@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to get Material spec transitions in compose](https://www.reddit.com/r/androiddev/comments/1hzpyde/how_to_get_material_spec_transitions_in_compose/)
+- [Code editor for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hzpt2q/code_editor_for_jetpack_compose/)
+- [Anyone here annoyed with Edge-to-Edge enforcement with targetSdk 35 ?](https://www.reddit.com/r/androiddev/comments/1hzpgez/anyone_here_annoyed_with_edgetoedge_enforcement/)
+- [How should I store my data?](https://www.reddit.com/r/androiddev/comments/1hznxuv/how_should_i_store_my_data/)
+- [I don&#39;t see the benefit of flows](https://www.reddit.com/r/androiddev/comments/1hzjsmg/i_dont_see_the_benefit_of_flows/)
+- [Why ConstraintLayout doesn&#39;t work like in XML?](https://www.reddit.com/r/androiddev/comments/1hzi7i0/why_constraintlayout_doesnt_work_like_in_xml/)
+- [Why is viewModel not updating my UI?](https://www.reddit.com/r/androiddev/comments/1hzg2xk/why_is_viewmodel_not_updating_my_ui/)
 - [How does Tasker achieve it&#39;s Accessibility Volume action!?](https://www.reddit.com/r/androiddev/comments/1hzbhd2/how_does_tasker_achieve_its_accessibility_volume/)
 - [Compose Google Map reload after navigating back](https://www.reddit.com/r/androiddev/comments/1hz713s/compose_google_map_reload_after_navigating_back/)
 - [Question on complications, slots and data sources](https://www.reddit.com/r/androiddev/comments/1hz00fp/question_on_complications_slots_and_data_sources/)
-- [Integrating Gemini with mcp.run on Android](https://www.reddit.com/r/androiddev/comments/1hysrni/integrating_gemini_with_mcprun_on_android/)
-- [How can one get the LLM model name and version using Google AI Edge SDK?](https://www.reddit.com/r/androiddev/comments/1hymqb5/how_can_one_get_the_llm_model_name_and_version/)
-- [Android Studio Meerkat | 2024.3.1 Canary 9 now available](https://www.reddit.com/r/androiddev/comments/1hydcjc/android_studio_meerkat_202431_canary_9_now/)
-- [Morphing Geometric Shapes with SDF in GLSL Fragment Shaders and Visualization in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hycx5t/morphing_geometric_shapes_with_sdf_in_glsl/)
-- [Recomposition when using MVI Architecture](https://www.reddit.com/r/androiddev/comments/1hycdpw/recomposition_when_using_mvi_architecture/)
-- [Who have used MLKit Face Detection](https://www.reddit.com/r/androiddev/comments/1hya6ds/who_have_used_mlkit_face_detection/)
-- [How does Company Portal persist user data even after logout and app uninstall?](https://www.reddit.com/r/androiddev/comments/1hy612i/how_does_company_portal_persist_user_data_even/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
