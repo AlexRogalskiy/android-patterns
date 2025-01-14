@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the best way to adapt the dimensions to all screen densities?](https://www.reddit.com/r/androiddev/comments/1i0jiyt/what_is_the_best_way_to_adapt_the_dimensions_to/)
+- [Any Website/articles for seniors in engineers to learn/slow new thing around android development every day?](https://www.reddit.com/r/androiddev/comments/1i0jh5w/any_websitearticles_for_seniors_in_engineers_to/)
+- [MPAndroidChart alternative?](https://www.reddit.com/r/androiddev/comments/1i0bglf/mpandroidchart_alternative/)
 - [How to get Material spec transitions in compose](https://www.reddit.com/r/androiddev/comments/1hzpyde/how_to_get_material_spec_transitions_in_compose/)
 - [Code editor for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hzpt2q/code_editor_for_jetpack_compose/)
 - [Anyone here annoyed with Edge-to-Edge enforcement with targetSdk 35 ?](https://www.reddit.com/r/androiddev/comments/1hzpgez/anyone_here_annoyed_with_edgetoedge_enforcement/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [I don&#39;t see the benefit of flows](https://www.reddit.com/r/androiddev/comments/1hzjsmg/i_dont_see_the_benefit_of_flows/)
 - [Why ConstraintLayout doesn&#39;t work like in XML?](https://www.reddit.com/r/androiddev/comments/1hzi7i0/why_constraintlayout_doesnt_work_like_in_xml/)
 - [Why is viewModel not updating my UI?](https://www.reddit.com/r/androiddev/comments/1hzg2xk/why_is_viewmodel_not_updating_my_ui/)
-- [How does Tasker achieve it&#39;s Accessibility Volume action!?](https://www.reddit.com/r/androiddev/comments/1hzbhd2/how_does_tasker_achieve_its_accessibility_volume/)
-- [Compose Google Map reload after navigating back](https://www.reddit.com/r/androiddev/comments/1hz713s/compose_google_map_reload_after_navigating_back/)
-- [Question on complications, slots and data sources](https://www.reddit.com/r/androiddev/comments/1hz00fp/question_on_complications_slots_and_data_sources/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
