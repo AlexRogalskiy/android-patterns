@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Integrating Google ML Kit for Barcode Scanning in Jetpack Compose Android Apps](https://www.reddit.com/r/androiddev/comments/1i1kent/integrating_google_ml_kit_for_barcode_scanning_in/)
+- [Android Translations Excel Converter &lpar;Convert strings.xml files to single Excel file and back&rpar; &lpar;+ plurals support&rpar;](https://www.reddit.com/r/androiddev/comments/1i1anf3/android_translations_excel_converter_convert/)
+- [AYA: Android ADB GUI Desktop App](https://www.reddit.com/r/androiddev/comments/1i15foc/aya_android_adb_gui_desktop_app/)
+- [Aren&#39;t we all generating POM files wrong?](https://www.reddit.com/r/androiddev/comments/1i1550b/arent_we_all_generating_pom_files_wrong/)
+- [How to compensate size after using Modifier.offset&lpar;&rpar;?](https://www.reddit.com/r/androiddev/comments/1i12n2c/how_to_compensate_size_after_using_modifieroffset/)
+- [Reducing Android Build Times on Azure by 80% using a Virtual Machine Scale Set &lpar;VMSS&rpar; · cekrem.github.io](https://www.reddit.com/r/androiddev/comments/1i11ckc/reducing_android_build_times_on_azure_by_80_using/)
+- [Is RenderScript Toolkit also getting deprecated ?](https://www.reddit.com/r/androiddev/comments/1i100m7/is_renderscript_toolkit_also_getting_deprecated/)
 - [What is the best way to adapt the dimensions to all screen densities?](https://www.reddit.com/r/androiddev/comments/1i0jiyt/what_is_the_best_way_to_adapt_the_dimensions_to/)
 - [Any Website/articles for seniors in engineers to learn/slow new thing around android development every day?](https://www.reddit.com/r/androiddev/comments/1i0jh5w/any_websitearticles_for_seniors_in_engineers_to/)
 - [MPAndroidChart alternative?](https://www.reddit.com/r/androiddev/comments/1i0bglf/mpandroidchart_alternative/)
-- [How to get Material spec transitions in compose](https://www.reddit.com/r/androiddev/comments/1hzpyde/how_to_get_material_spec_transitions_in_compose/)
-- [Code editor for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hzpt2q/code_editor_for_jetpack_compose/)
-- [Anyone here annoyed with Edge-to-Edge enforcement with targetSdk 35 ?](https://www.reddit.com/r/androiddev/comments/1hzpgez/anyone_here_annoyed_with_edgetoedge_enforcement/)
-- [How should I store my data?](https://www.reddit.com/r/androiddev/comments/1hznxuv/how_should_i_store_my_data/)
-- [I don&#39;t see the benefit of flows](https://www.reddit.com/r/androiddev/comments/1hzjsmg/i_dont_see_the_benefit_of_flows/)
-- [Why ConstraintLayout doesn&#39;t work like in XML?](https://www.reddit.com/r/androiddev/comments/1hzi7i0/why_constraintlayout_doesnt_work_like_in_xml/)
-- [Why is viewModel not updating my UI?](https://www.reddit.com/r/androiddev/comments/1hzg2xk/why_is_viewmodel_not_updating_my_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
