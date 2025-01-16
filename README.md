@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ffmpeg-kit is being retired. Are there any alternatives without building ffmpeg and bindings yourself?](https://www.reddit.com/r/androiddev/comments/1i25lzo/ffmpegkit_is_being_retired_are_there_any/)
+- [Function, KFunction, KCallable, and all those other function types in Kotlin](https://www.reddit.com/r/androiddev/comments/1i20xe2/function_kfunction_kcallable_and_all_those_other/)
+- [Dynatrace and WorkManager Behavior When App Is Killed](https://www.reddit.com/r/androiddev/comments/1i1xq4b/dynatrace_and_workmanager_behavior_when_app_is/)
 - [Integrating Google ML Kit for Barcode Scanning in Jetpack Compose Android Apps](https://www.reddit.com/r/androiddev/comments/1i1kent/integrating_google_ml_kit_for_barcode_scanning_in/)
 - [Android Translations Excel Converter &lpar;Convert strings.xml files to single Excel file and back&rpar; &lpar;+ plurals support&rpar;](https://www.reddit.com/r/androiddev/comments/1i1anf3/android_translations_excel_converter_convert/)
 - [AYA: Android ADB GUI Desktop App](https://www.reddit.com/r/androiddev/comments/1i15foc/aya_android_adb_gui_desktop_app/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [How to compensate size after using Modifier.offset&lpar;&rpar;?](https://www.reddit.com/r/androiddev/comments/1i12n2c/how_to_compensate_size_after_using_modifieroffset/)
 - [Reducing Android Build Times on Azure by 80% using a Virtual Machine Scale Set &lpar;VMSS&rpar; · cekrem.github.io](https://www.reddit.com/r/androiddev/comments/1i11ckc/reducing_android_build_times_on_azure_by_80_using/)
 - [Is RenderScript Toolkit also getting deprecated ?](https://www.reddit.com/r/androiddev/comments/1i100m7/is_renderscript_toolkit_also_getting_deprecated/)
-- [What is the best way to adapt the dimensions to all screen densities?](https://www.reddit.com/r/androiddev/comments/1i0jiyt/what_is_the_best_way_to_adapt_the_dimensions_to/)
-- [Any Website/articles for seniors in engineers to learn/slow new thing around android development every day?](https://www.reddit.com/r/androiddev/comments/1i0jh5w/any_websitearticles_for_seniors_in_engineers_to/)
-- [MPAndroidChart alternative?](https://www.reddit.com/r/androiddev/comments/1i0bglf/mpandroidchart_alternative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
