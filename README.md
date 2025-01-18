@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ndk-samples won&#39;t build](https://www.reddit.com/r/androiddev/comments/1i3qy1h/ndksamples_wont_build/)
+- [How to keep the scrolled bottom item visible when ime appears?](https://www.reddit.com/r/androiddev/comments/1i3p8u6/how_to_keep_the_scrolled_bottom_item_visible_when/)
+- [Questions about Closed testing on Google Play Console.](https://www.reddit.com/r/androiddev/comments/1i3ox1m/questions_about_closed_testing_on_google_play/)
+- [&#39;Exactly&#39; when do we call it unit test](https://www.reddit.com/r/androiddev/comments/1i3n4bn/exactly_when_do_we_call_it_unit_test/)
+- [Multiple apps in single monorepo](https://www.reddit.com/r/androiddev/comments/1i3mgaj/multiple_apps_in_single_monorepo/)
+- [DNS resolution with API 24](https://www.reddit.com/r/androiddev/comments/1i3lb3d/dns_resolution_with_api_24/)
+- [Color Picker Kotlin Multiplatform Library](https://www.reddit.com/r/androiddev/comments/1i3e4nu/color_picker_kotlin_multiplatform_library/)
+- [What is a proper way to change the color of an overlay behind a Dialog in Compose?](https://www.reddit.com/r/androiddev/comments/1i3cgmd/what_is_a_proper_way_to_change_the_color_of_an/)
+- [Is Jetpack Compose ready for production?](https://www.reddit.com/r/androiddev/comments/1i39xjg/is_jetpack_compose_ready_for_production/)
 - [ffmpeg-kit is being retired. Are there any alternatives without building ffmpeg and bindings yourself?](https://www.reddit.com/r/androiddev/comments/1i25lzo/ffmpegkit_is_being_retired_are_there_any/)
-- [Function, KFunction, KCallable, and all those other function types in Kotlin](https://www.reddit.com/r/androiddev/comments/1i20xe2/function_kfunction_kcallable_and_all_those_other/)
-- [Dynatrace and WorkManager Behavior When App Is Killed](https://www.reddit.com/r/androiddev/comments/1i1xq4b/dynatrace_and_workmanager_behavior_when_app_is/)
-- [Integrating Google ML Kit for Barcode Scanning in Jetpack Compose Android Apps](https://www.reddit.com/r/androiddev/comments/1i1kent/integrating_google_ml_kit_for_barcode_scanning_in/)
-- [Android Translations Excel Converter &lpar;Convert strings.xml files to single Excel file and back&rpar; &lpar;+ plurals support&rpar;](https://www.reddit.com/r/androiddev/comments/1i1anf3/android_translations_excel_converter_convert/)
-- [AYA: Android ADB GUI Desktop App](https://www.reddit.com/r/androiddev/comments/1i15foc/aya_android_adb_gui_desktop_app/)
-- [Aren&#39;t we all generating POM files wrong?](https://www.reddit.com/r/androiddev/comments/1i1550b/arent_we_all_generating_pom_files_wrong/)
-- [How to compensate size after using Modifier.offset&lpar;&rpar;?](https://www.reddit.com/r/androiddev/comments/1i12n2c/how_to_compensate_size_after_using_modifieroffset/)
-- [Reducing Android Build Times on Azure by 80% using a Virtual Machine Scale Set &lpar;VMSS&rpar; · cekrem.github.io](https://www.reddit.com/r/androiddev/comments/1i11ckc/reducing_android_build_times_on_azure_by_80_using/)
-- [Is RenderScript Toolkit also getting deprecated ?](https://www.reddit.com/r/androiddev/comments/1i100m7/is_renderscript_toolkit_also_getting_deprecated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
