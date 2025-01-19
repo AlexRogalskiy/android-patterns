@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bug on Material-You colors and/or UMP on Android 15: When both used, you can&#39;t use material colors on anything](https://www.reddit.com/r/androiddev/comments/1i4989i/bug_on_materialyou_colors_andor_ump_on_android_15/)
+- [Viewmodel one-off events: can we agree this is a bad article?](https://www.reddit.com/r/androiddev/comments/1i481zr/viewmodel_oneoff_events_can_we_agree_this_is_a/)
+- [Partial data loss in android room sqlite database](https://www.reddit.com/r/androiddev/comments/1i47fbk/partial_data_loss_in_android_room_sqlite_database/)
+- [Networking library recommendations?](https://www.reddit.com/r/androiddev/comments/1i42a2d/networking_library_recommendations/)
+- [Quick Guides Catalog](https://www.reddit.com/r/androiddev/comments/1i40gra/quick_guides_catalog/)
 - [ndk-samples won&#39;t build](https://www.reddit.com/r/androiddev/comments/1i3qy1h/ndksamples_wont_build/)
 - [How to keep the scrolled bottom item visible when ime appears?](https://www.reddit.com/r/androiddev/comments/1i3p8u6/how_to_keep_the_scrolled_bottom_item_visible_when/)
 - [Questions about Closed testing on Google Play Console.](https://www.reddit.com/r/androiddev/comments/1i3ox1m/questions_about_closed_testing_on_google_play/)
 - [&#39;Exactly&#39; when do we call it unit test](https://www.reddit.com/r/androiddev/comments/1i3n4bn/exactly_when_do_we_call_it_unit_test/)
 - [Multiple apps in single monorepo](https://www.reddit.com/r/androiddev/comments/1i3mgaj/multiple_apps_in_single_monorepo/)
-- [DNS resolution with API 24](https://www.reddit.com/r/androiddev/comments/1i3lb3d/dns_resolution_with_api_24/)
-- [Color Picker Kotlin Multiplatform Library](https://www.reddit.com/r/androiddev/comments/1i3e4nu/color_picker_kotlin_multiplatform_library/)
-- [What is a proper way to change the color of an overlay behind a Dialog in Compose?](https://www.reddit.com/r/androiddev/comments/1i3cgmd/what_is_a_proper_way_to_change_the_color_of_an/)
-- [Is Jetpack Compose ready for production?](https://www.reddit.com/r/androiddev/comments/1i39xjg/is_jetpack_compose_ready_for_production/)
-- [ffmpeg-kit is being retired. Are there any alternatives without building ffmpeg and bindings yourself?](https://www.reddit.com/r/androiddev/comments/1i25lzo/ffmpegkit_is_being_retired_are_there_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
