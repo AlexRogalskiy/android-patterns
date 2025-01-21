@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bug on Material-You colors and/or UMP on Android 15: When both used, you can&#39;t use material colors on anything](https://www.reddit.com/r/androiddev/comments/1i4989i/bug_on_materialyou_colors_andor_ump_on_android_15/)
-- [Viewmodel one-off events: can we agree this is a bad article?](https://www.reddit.com/r/androiddev/comments/1i481zr/viewmodel_oneoff_events_can_we_agree_this_is_a/)
-- [Partial data loss in android room sqlite database](https://www.reddit.com/r/androiddev/comments/1i47fbk/partial_data_loss_in_android_room_sqlite_database/)
-- [Networking library recommendations?](https://www.reddit.com/r/androiddev/comments/1i42a2d/networking_library_recommendations/)
-- [Quick Guides Catalog](https://www.reddit.com/r/androiddev/comments/1i40gra/quick_guides_catalog/)
-- [ndk-samples won&#39;t build](https://www.reddit.com/r/androiddev/comments/1i3qy1h/ndksamples_wont_build/)
-- [How to keep the scrolled bottom item visible when ime appears?](https://www.reddit.com/r/androiddev/comments/1i3p8u6/how_to_keep_the_scrolled_bottom_item_visible_when/)
-- [Questions about Closed testing on Google Play Console.](https://www.reddit.com/r/androiddev/comments/1i3ox1m/questions_about_closed_testing_on_google_play/)
-- [&#39;Exactly&#39; when do we call it unit test](https://www.reddit.com/r/androiddev/comments/1i3n4bn/exactly_when_do_we_call_it_unit_test/)
-- [Multiple apps in single monorepo](https://www.reddit.com/r/androiddev/comments/1i3mgaj/multiple_apps_in_single_monorepo/)
+- [Trying To Run Media3 Demos, but encountering ERROR message.](https://www.reddit.com/r/androiddev/comments/1i633av/trying_to_run_media3_demos_but_encountering_error/)
+- [Account terminated after using app-testing service](https://www.reddit.com/r/androiddev/comments/1i5ylne/account_terminated_after_using_apptesting_service/)
+- [Why AS listens my mic ??](https://www.reddit.com/r/androiddev/comments/1i5xrpd/why_as_listens_my_mic/)
+- [Please don’t dox me Google: My painful &lpar;&amp; stressful&rpar; journey of making Android money without exposing my address!](https://www.reddit.com/r/androiddev/comments/1i5w6nq/please_dont_dox_me_google_my_painful_stressful/)
+- [Help with android mirroring.](https://www.reddit.com/r/androiddev/comments/1i5vcuq/help_with_android_mirroring/)
+- [Navigation Drawer with nested navgraphs and topbar icons](https://www.reddit.com/r/androiddev/comments/1i5unkj/navigation_drawer_with_nested_navgraphs_and/)
+- [Timber in 2025, is it still worth it?](https://www.reddit.com/r/androiddev/comments/1i5umsn/timber_in_2025_is_it_still_worth_it/)
+- [IssueTracker issues not getting passed triage](https://www.reddit.com/r/androiddev/comments/1i5stb4/issuetracker_issues_not_getting_passed_triage/)
+- [How to set SwipeRefreshLayout&#39;s setColorSchemeColors via XML style/theme?](https://www.reddit.com/r/androiddev/comments/1i5qu0p/how_to_set_swiperefreshlayouts/)
+- [Build your component library in Jetpack Compose via CLI](https://www.reddit.com/r/androiddev/comments/1i5ow90/build_your_component_library_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
