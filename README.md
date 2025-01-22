@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [dualsim how identify which number is being called](https://www.reddit.com/r/androiddev/comments/1i6qojt/dualsim_how_identify_which_number_is_being_called/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1i6q6qa/android_studio_meerkat_feature_drop_202432_canary/)
+- [[Android &lt; 12] Playing HEVC &lpar;H.265&rpar; Videos with ExoPlayer - Solutions and Workarounds](https://www.reddit.com/r/androiddev/comments/1i6k3wm/android_12_playing_hevc_h265_videos_with/)
+- [Not another clean archi article](https://www.reddit.com/r/androiddev/comments/1i6f2ly/not_another_clean_archi_article/)
+- [Created my first Maven Central library &lpar;0.0.1&rpar; but when I uploaded my second version &lpar;0.0.2&rpar; of it my test app in Android studio doesn&#39;t show the squiggly line for new version available?](https://www.reddit.com/r/androiddev/comments/1i6aj29/created_my_first_maven_central_library_001_but/)
 - [Trying To Run Media3 Demos, but encountering ERROR message.](https://www.reddit.com/r/androiddev/comments/1i633av/trying_to_run_media3_demos_but_encountering_error/)
 - [Account terminated after using app-testing service](https://www.reddit.com/r/androiddev/comments/1i5ylne/account_terminated_after_using_apptesting_service/)
 - [Why AS listens my mic ??](https://www.reddit.com/r/androiddev/comments/1i5xrpd/why_as_listens_my_mic/)
 - [Please don’t dox me Google: My painful &lpar;&amp; stressful&rpar; journey of making Android money without exposing my address!](https://www.reddit.com/r/androiddev/comments/1i5w6nq/please_dont_dox_me_google_my_painful_stressful/)
 - [Help with android mirroring.](https://www.reddit.com/r/androiddev/comments/1i5vcuq/help_with_android_mirroring/)
-- [Navigation Drawer with nested navgraphs and topbar icons](https://www.reddit.com/r/androiddev/comments/1i5unkj/navigation_drawer_with_nested_navgraphs_and/)
-- [Timber in 2025, is it still worth it?](https://www.reddit.com/r/androiddev/comments/1i5umsn/timber_in_2025_is_it_still_worth_it/)
-- [IssueTracker issues not getting passed triage](https://www.reddit.com/r/androiddev/comments/1i5stb4/issuetracker_issues_not_getting_passed_triage/)
-- [How to set SwipeRefreshLayout&#39;s setColorSchemeColors via XML style/theme?](https://www.reddit.com/r/androiddev/comments/1i5qu0p/how_to_set_swiperefreshlayouts/)
-- [Build your component library in Jetpack Compose via CLI](https://www.reddit.com/r/androiddev/comments/1i5ow90/build_your_component_library_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
