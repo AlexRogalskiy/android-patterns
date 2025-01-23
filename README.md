@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best Practices to Avoid Decoder Contention in Android Video Playback Activities](https://www.reddit.com/r/androiddev/comments/1i7s7mc/best_practices_to_avoid_decoder_contention_in/)
+- [Ready to Automate Your Android App QA? Check Out This 24/7 AI Tester for Android!](https://www.reddit.com/r/androiddev/comments/1i7l1to/ready_to_automate_your_android_app_qa_check_out/)
+- [Android Studio Meerkat | 2024.3.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1i7it8j/android_studio_meerkat_202431_beta_1_now_available/)
+- [Gradient Stroke with transparent fill](https://www.reddit.com/r/androiddev/comments/1i79iuk/gradient_stroke_with_transparent_fill/)
+- [App taken down: Beware of adding a &quot;surprise&quot; free trial without updating the UI](https://www.reddit.com/r/androiddev/comments/1i77wys/app_taken_down_beware_of_adding_a_surprise_free/)
+- [How to this solve activity reference in Fragment problem](https://www.reddit.com/r/androiddev/comments/1i776tx/how_to_this_solve_activity_reference_in_fragment/)
 - [dualsim how identify which number is being called](https://www.reddit.com/r/androiddev/comments/1i6qojt/dualsim_how_identify_which_number_is_being_called/)
 - [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1i6q6qa/android_studio_meerkat_feature_drop_202432_canary/)
 - [[Android &lt; 12] Playing HEVC &lpar;H.265&rpar; Videos with ExoPlayer - Solutions and Workarounds](https://www.reddit.com/r/androiddev/comments/1i6k3wm/android_12_playing_hevc_h265_videos_with/)
 - [Not another clean archi article](https://www.reddit.com/r/androiddev/comments/1i6f2ly/not_another_clean_archi_article/)
-- [Created my first Maven Central library &lpar;0.0.1&rpar; but when I uploaded my second version &lpar;0.0.2&rpar; of it my test app in Android studio doesn&#39;t show the squiggly line for new version available?](https://www.reddit.com/r/androiddev/comments/1i6aj29/created_my_first_maven_central_library_001_but/)
-- [Trying To Run Media3 Demos, but encountering ERROR message.](https://www.reddit.com/r/androiddev/comments/1i633av/trying_to_run_media3_demos_but_encountering_error/)
-- [Account terminated after using app-testing service](https://www.reddit.com/r/androiddev/comments/1i5ylne/account_terminated_after_using_apptesting_service/)
-- [Why AS listens my mic ??](https://www.reddit.com/r/androiddev/comments/1i5xrpd/why_as_listens_my_mic/)
-- [Please don’t dox me Google: My painful &lpar;&amp; stressful&rpar; journey of making Android money without exposing my address!](https://www.reddit.com/r/androiddev/comments/1i5w6nq/please_dont_dox_me_google_my_painful_stressful/)
-- [Help with android mirroring.](https://www.reddit.com/r/androiddev/comments/1i5vcuq/help_with_android_mirroring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
