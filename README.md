@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1i8du7u/android_studio_meerkat_feature_drop_202432_canary/)
+- [Ble Scanning](https://www.reddit.com/r/androiddev/comments/1i8dq32/ble_scanning/)
+- [I&#39;m following Googles tutorial and getting an error over &quot;mutableStateOf&quot;; I don&#39;t get why.](https://www.reddit.com/r/androiddev/comments/1i8bwwa/im_following_googles_tutorial_and_getting_an/)
+- [Android Developers Blog: The future is adaptive: Changes to orientation and resizability APIs in Android 16](https://www.reddit.com/r/androiddev/comments/1i88fef/android_developers_blog_the_future_is_adaptive/)
+- [Runtime Permission Implementation in Android with [rememberLauncherForActivityResult]](https://www.reddit.com/r/androiddev/comments/1i821c2/runtime_permission_implementation_in_android_with/)
+- [Lumo UI&#39;s demo app is now available on Google Play.](https://www.reddit.com/r/androiddev/comments/1i80jod/lumo_uis_demo_app_is_now_available_on_google_play/)
+- [KMP for Android only](https://www.reddit.com/r/androiddev/comments/1i7xyt9/kmp_for_android_only/)
+- [Android Studio Emulator Camera Lag](https://www.reddit.com/r/androiddev/comments/1i7wo01/android_studio_emulator_camera_lag/)
+- [A Look Back at 2024: F-Droid&#39;s Progress and What&#39;s Coming in 2025](https://www.reddit.com/r/androiddev/comments/1i7sogf/a_look_back_at_2024_fdroids_progress_and_whats/)
 - [Best Practices to Avoid Decoder Contention in Android Video Playback Activities](https://www.reddit.com/r/androiddev/comments/1i7s7mc/best_practices_to_avoid_decoder_contention_in/)
-- [Ready to Automate Your Android App QA? Check Out This 24/7 AI Tester for Android!](https://www.reddit.com/r/androiddev/comments/1i7l1to/ready_to_automate_your_android_app_qa_check_out/)
-- [Android Studio Meerkat | 2024.3.1 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1i7it8j/android_studio_meerkat_202431_beta_1_now_available/)
-- [Gradient Stroke with transparent fill](https://www.reddit.com/r/androiddev/comments/1i79iuk/gradient_stroke_with_transparent_fill/)
-- [App taken down: Beware of adding a &quot;surprise&quot; free trial without updating the UI](https://www.reddit.com/r/androiddev/comments/1i77wys/app_taken_down_beware_of_adding_a_surprise_free/)
-- [How to this solve activity reference in Fragment problem](https://www.reddit.com/r/androiddev/comments/1i776tx/how_to_this_solve_activity_reference_in_fragment/)
-- [dualsim how identify which number is being called](https://www.reddit.com/r/androiddev/comments/1i6qojt/dualsim_how_identify_which_number_is_being_called/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1i6q6qa/android_studio_meerkat_feature_drop_202432_canary/)
-- [[Android &lt; 12] Playing HEVC &lpar;H.265&rpar; Videos with ExoPlayer - Solutions and Workarounds](https://www.reddit.com/r/androiddev/comments/1i6k3wm/android_12_playing_hevc_h265_videos_with/)
-- [Not another clean archi article](https://www.reddit.com/r/androiddev/comments/1i6f2ly/not_another_clean_archi_article/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
