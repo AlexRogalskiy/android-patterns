@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Material3 Slider Default Slider Thumb Appearance](https://www.reddit.com/r/androiddev/comments/1i9ll58/material3_slider_default_slider_thumb_appearance/)
+- [Groovy Who? Exploring Declarative Gradle](https://www.reddit.com/r/androiddev/comments/1i9kj7y/groovy_who_exploring_declarative_gradle/)
+- [Android BLE Bonding and Security Key](https://www.reddit.com/r/androiddev/comments/1i9gz97/android_ble_bonding_and_security_key/)
 - [Android Is adding a Linux terminal for developers](https://www.reddit.com/r/androiddev/comments/1i9baen/android_is_adding_a_linux_terminal_for_developers/)
 - [Android Studio’s 10 year anniversary](https://www.reddit.com/r/androiddev/comments/1i92d1q/android_studios_10_year_anniversary/)
 - [Bottom Navigation With Nested Destinations](https://www.reddit.com/r/androiddev/comments/1i8w55q/bottom_navigation_with_nested_destinations/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Does this mean you don&#39;t need to make the app responsive? Just write on one device and the API&#39;s will automatically adjust for the bigger devices?](https://www.reddit.com/r/androiddev/comments/1i8rreu/does_this_mean_you_dont_need_to_make_the_app/)
 - [Share Your Jetpack Compose Snippets with the Community](https://www.reddit.com/r/androiddev/comments/1i8olev/share_your_jetpack_compose_snippets_with_the/)
 - [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1i8du7u/android_studio_meerkat_feature_drop_202432_canary/)
-- [Ble Scanning](https://www.reddit.com/r/androiddev/comments/1i8dq32/ble_scanning/)
-- [I&#39;m following Googles tutorial and getting an error over &quot;mutableStateOf&quot;; I don&#39;t get why.](https://www.reddit.com/r/androiddev/comments/1i8bwwa/im_following_googles_tutorial_and_getting_an/)
-- [Android Developers Blog: The future is adaptive: Changes to orientation and resizability APIs in Android 16](https://www.reddit.com/r/androiddev/comments/1i88fef/android_developers_blog_the_future_is_adaptive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
