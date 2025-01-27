@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Locally Test Your Android or KMM Library Using Maven Local](https://www.reddit.com/r/androiddev/comments/1iat956/how_to_locally_test_your_android_or_kmm_library/)
+- [Opinions about mrunning the entire app in sub-modules ?](https://www.reddit.com/r/androiddev/comments/1iapppm/opinions_about_mrunning_the_entire_app_in/)
+- [rememberNavController&lpar;&rpar; returning different instances](https://www.reddit.com/r/androiddev/comments/1iaata0/remembernavcontroller_returning_different/)
+- [What operating system do you all use for developing apps?](https://www.reddit.com/r/androiddev/comments/1iaaowe/what_operating_system_do_you_all_use_for/)
+- [Free tool to calculate LTV of your App. Use it to see if your UA campaign would be profitable.](https://www.reddit.com/r/androiddev/comments/1ia6nxt/free_tool_to_calculate_ltv_of_your_app_use_it_to/)
 - [Material3 Slider Default Slider Thumb Appearance](https://www.reddit.com/r/androiddev/comments/1i9ll58/material3_slider_default_slider_thumb_appearance/)
 - [Groovy Who? Exploring Declarative Gradle](https://www.reddit.com/r/androiddev/comments/1i9kj7y/groovy_who_exploring_declarative_gradle/)
 - [Android BLE Bonding and Security Key](https://www.reddit.com/r/androiddev/comments/1i9gz97/android_ble_bonding_and_security_key/)
 - [Android Is adding a Linux terminal for developers](https://www.reddit.com/r/androiddev/comments/1i9baen/android_is_adding_a_linux_terminal_for_developers/)
 - [Android Studio’s 10 year anniversary](https://www.reddit.com/r/androiddev/comments/1i92d1q/android_studios_10_year_anniversary/)
-- [Bottom Navigation With Nested Destinations](https://www.reddit.com/r/androiddev/comments/1i8w55q/bottom_navigation_with_nested_destinations/)
-- [Understanding Coroutines Dispatchers](https://www.reddit.com/r/androiddev/comments/1i8t1aq/understanding_coroutines_dispatchers/)
-- [Does this mean you don&#39;t need to make the app responsive? Just write on one device and the API&#39;s will automatically adjust for the bigger devices?](https://www.reddit.com/r/androiddev/comments/1i8rreu/does_this_mean_you_dont_need_to_make_the_app/)
-- [Share Your Jetpack Compose Snippets with the Community](https://www.reddit.com/r/androiddev/comments/1i8olev/share_your_jetpack_compose_snippets_with_the/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1i8du7u/android_studio_meerkat_feature_drop_202432_canary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
