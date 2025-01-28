@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using an OTG mouse to control a laptop](https://www.reddit.com/r/androiddev/comments/1ibpv2c/using_an_otg_mouse_to_control_a_laptop/)
+- [video tut for developer.android.com/courses](https://www.reddit.com/r/androiddev/comments/1ibpt6v/video_tut_for_developerandroidcomcourses/)
+- [Heron: An opensource Jetpack Compose adaptive, reactive and offline-first bluesky client](https://www.reddit.com/r/androiddev/comments/1ibfxkl/heron_an_opensource_jetpack_compose_adaptive/)
+- [RowKalendar: Scrollable Horizontal Calendar for Compose Multiplatform 📅](https://www.reddit.com/r/androiddev/comments/1ibe2zk/rowkalendar_scrollable_horizontal_calendar_for/)
+- [How to debug a library dependency?](https://www.reddit.com/r/androiddev/comments/1ib9zvn/how_to_debug_a_library_dependency/)
+- [My 2 cents for the Android Studio anniversary](https://www.reddit.com/r/androiddev/comments/1ib5gei/my_2_cents_for_the_android_studio_anniversary/)
+- [Is learning Gaming Development &lpar;android&rpar; as a PlanB even possible?](https://www.reddit.com/r/androiddev/comments/1ib18gn/is_learning_gaming_development_android_as_a_planb/)
 - [How to Locally Test Your Android or KMM Library Using Maven Local](https://www.reddit.com/r/androiddev/comments/1iat956/how_to_locally_test_your_android_or_kmm_library/)
 - [Opinions about mrunning the entire app in sub-modules ?](https://www.reddit.com/r/androiddev/comments/1iapppm/opinions_about_mrunning_the_entire_app_in/)
 - [rememberNavController&lpar;&rpar; returning different instances](https://www.reddit.com/r/androiddev/comments/1iaata0/remembernavcontroller_returning_different/)
-- [What operating system do you all use for developing apps?](https://www.reddit.com/r/androiddev/comments/1iaaowe/what_operating_system_do_you_all_use_for/)
-- [Free tool to calculate LTV of your App. Use it to see if your UA campaign would be profitable.](https://www.reddit.com/r/androiddev/comments/1ia6nxt/free_tool_to_calculate_ltv_of_your_app_use_it_to/)
-- [Material3 Slider Default Slider Thumb Appearance](https://www.reddit.com/r/androiddev/comments/1i9ll58/material3_slider_default_slider_thumb_appearance/)
-- [Groovy Who? Exploring Declarative Gradle](https://www.reddit.com/r/androiddev/comments/1i9kj7y/groovy_who_exploring_declarative_gradle/)
-- [Android BLE Bonding and Security Key](https://www.reddit.com/r/androiddev/comments/1i9gz97/android_ble_bonding_and_security_key/)
-- [Android Is adding a Linux terminal for developers](https://www.reddit.com/r/androiddev/comments/1i9baen/android_is_adding_a_linux_terminal_for_developers/)
-- [Android Studio’s 10 year anniversary](https://www.reddit.com/r/androiddev/comments/1i92d1q/android_studios_10_year_anniversary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
