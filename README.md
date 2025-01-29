@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using an OTG mouse to control a laptop](https://www.reddit.com/r/androiddev/comments/1ibpv2c/using_an_otg_mouse_to_control_a_laptop/)
-- [video tut for developer.android.com/courses](https://www.reddit.com/r/androiddev/comments/1ibpt6v/video_tut_for_developerandroidcomcourses/)
+- [Catching Up with Android Development After 4-5 Years – Advice Needed](https://www.reddit.com/r/androiddev/comments/1icbyxu/catching_up_with_android_development_after_45/)
+- [Native Android AI Code: Achieving 1.2% Battery Per Hour Usage for &quot;Wake Word&quot; AI Models – Lessons Learned](https://www.reddit.com/r/androiddev/comments/1icarlj/native_android_ai_code_achieving_12_battery_per/)
+- [Why Not Compose! - Open Source Showcase of Animations, Compositions, and UIs in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1icalhk/why_not_compose_open_source_showcase_of/)
+- [How to change SearchView position in a toolbar? &lpar;View framework&rpar;](https://www.reddit.com/r/androiddev/comments/1ic5shz/how_to_change_searchview_position_in_a_toolbar/)
+- [Android maps free SDK](https://www.reddit.com/r/androiddev/comments/1ic3wrd/android_maps_free_sdk/)
+- [Drawing Arcs with Rounded Corners](https://www.reddit.com/r/androiddev/comments/1ibw7vh/drawing_arcs_with_rounded_corners/)
 - [Heron: An opensource Jetpack Compose adaptive, reactive and offline-first bluesky client](https://www.reddit.com/r/androiddev/comments/1ibfxkl/heron_an_opensource_jetpack_compose_adaptive/)
 - [RowKalendar: Scrollable Horizontal Calendar for Compose Multiplatform 📅](https://www.reddit.com/r/androiddev/comments/1ibe2zk/rowkalendar_scrollable_horizontal_calendar_for/)
 - [How to debug a library dependency?](https://www.reddit.com/r/androiddev/comments/1ib9zvn/how_to_debug_a_library_dependency/)
-- [My 2 cents for the Android Studio anniversary](https://www.reddit.com/r/androiddev/comments/1ib5gei/my_2_cents_for_the_android_studio_anniversary/)
-- [Is learning Gaming Development &lpar;android&rpar; as a PlanB even possible?](https://www.reddit.com/r/androiddev/comments/1ib18gn/is_learning_gaming_development_android_as_a_planb/)
-- [How to Locally Test Your Android or KMM Library Using Maven Local](https://www.reddit.com/r/androiddev/comments/1iat956/how_to_locally_test_your_android_or_kmm_library/)
-- [Opinions about mrunning the entire app in sub-modules ?](https://www.reddit.com/r/androiddev/comments/1iapppm/opinions_about_mrunning_the_entire_app_in/)
-- [rememberNavController&lpar;&rpar; returning different instances](https://www.reddit.com/r/androiddev/comments/1iaata0/remembernavcontroller_returning_different/)
+- [Android Kiosk App: How to Lock the OS?](https://www.reddit.com/r/androiddev/comments/1ib66ei/android_kiosk_app_how_to_lock_the_os/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
