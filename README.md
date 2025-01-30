@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Catching Up with Android Development After 4-5 Years – Advice Needed](https://www.reddit.com/r/androiddev/comments/1icbyxu/catching_up_with_android_development_after_45/)
-- [Native Android AI Code: Achieving 1.2% Battery Per Hour Usage for &quot;Wake Word&quot; AI Models – Lessons Learned](https://www.reddit.com/r/androiddev/comments/1icarlj/native_android_ai_code_achieving_12_battery_per/)
-- [Why Not Compose! - Open Source Showcase of Animations, Compositions, and UIs in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1icalhk/why_not_compose_open_source_showcase_of/)
-- [How to change SearchView position in a toolbar? &lpar;View framework&rpar;](https://www.reddit.com/r/androiddev/comments/1ic5shz/how_to_change_searchview_position_in_a_toolbar/)
-- [Android maps free SDK](https://www.reddit.com/r/androiddev/comments/1ic3wrd/android_maps_free_sdk/)
-- [Drawing Arcs with Rounded Corners](https://www.reddit.com/r/androiddev/comments/1ibw7vh/drawing_arcs_with_rounded_corners/)
-- [Heron: An opensource Jetpack Compose adaptive, reactive and offline-first bluesky client](https://www.reddit.com/r/androiddev/comments/1ibfxkl/heron_an_opensource_jetpack_compose_adaptive/)
-- [RowKalendar: Scrollable Horizontal Calendar for Compose Multiplatform 📅](https://www.reddit.com/r/androiddev/comments/1ibe2zk/rowkalendar_scrollable_horizontal_calendar_for/)
-- [How to debug a library dependency?](https://www.reddit.com/r/androiddev/comments/1ib9zvn/how_to_debug_a_library_dependency/)
-- [Android Kiosk App: How to Lock the OS?](https://www.reddit.com/r/androiddev/comments/1ib66ei/android_kiosk_app_how_to_lock_the_os/)
+- [What Security Setting in Android that can enable &quot;User Secure Browsers&quot; policy for webview?](https://www.reddit.com/r/androiddev/comments/1idb5zw/what_security_setting_in_android_that_can_enable/)
+- [Seeking help with ViewModel - SavedStateHandle unit-test, preferably Kotlin-Test, and no Turbine ?](https://www.reddit.com/r/androiddev/comments/1idavwd/seeking_help_with_viewmodel_savedstatehandle/)
+- [If you use your Pixel 4a for testing, do not accept latest firmware. Crazy battery drain, ruined charging, old images removed from archives, no way to roll back.](https://www.reddit.com/r/androiddev/comments/1id9t3u/if_you_use_your_pixel_4a_for_testing_do_not/)
+- [UI libraries other than M3](https://www.reddit.com/r/androiddev/comments/1id9p29/ui_libraries_other_than_m3/)
+- [PSA: Please maintain state if you&#39;re requiring a 2FA code](https://www.reddit.com/r/androiddev/comments/1id5pyw/psa_please_maintain_state_if_youre_requiring_a/)
+- [Unknown package calling com.google.androud.gms](https://www.reddit.com/r/androiddev/comments/1id5970/unknown_package_calling_comgoogleandroudgms/)
+- [I created a platform to get you some traffic to your Android app](https://www.reddit.com/r/androiddev/comments/1id0oqe/i_created_a_platform_to_get_you_some_traffic_to/)
+- [How to implement &quot;Backup app data to user&#39;s Google Drive&quot;](https://www.reddit.com/r/androiddev/comments/1icym1m/how_to_implement_backup_app_data_to_users_google/)
+- [Feels like Compose UI is bugging out](https://www.reddit.com/r/androiddev/comments/1icy68n/feels_like_compose_ui_is_bugging_out/)
+- [Arrow for Everyone - TypeAlias Show](https://www.reddit.com/r/androiddev/comments/1icxbfc/arrow_for_everyone_typealias_show/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
