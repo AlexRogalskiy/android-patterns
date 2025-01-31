@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What Security Setting in Android that can enable &quot;User Secure Browsers&quot; policy for webview?](https://www.reddit.com/r/androiddev/comments/1idb5zw/what_security_setting_in_android_that_can_enable/)
-- [Seeking help with ViewModel - SavedStateHandle unit-test, preferably Kotlin-Test, and no Turbine ?](https://www.reddit.com/r/androiddev/comments/1idavwd/seeking_help_with_viewmodel_savedstatehandle/)
-- [If you use your Pixel 4a for testing, do not accept latest firmware. Crazy battery drain, ruined charging, old images removed from archives, no way to roll back.](https://www.reddit.com/r/androiddev/comments/1id9t3u/if_you_use_your_pixel_4a_for_testing_do_not/)
-- [UI libraries other than M3](https://www.reddit.com/r/androiddev/comments/1id9p29/ui_libraries_other_than_m3/)
-- [PSA: Please maintain state if you&#39;re requiring a 2FA code](https://www.reddit.com/r/androiddev/comments/1id5pyw/psa_please_maintain_state_if_youre_requiring_a/)
-- [Unknown package calling com.google.androud.gms](https://www.reddit.com/r/androiddev/comments/1id5970/unknown_package_calling_comgoogleandroudgms/)
-- [I created a platform to get you some traffic to your Android app](https://www.reddit.com/r/androiddev/comments/1id0oqe/i_created_a_platform_to_get_you_some_traffic_to/)
-- [How to implement &quot;Backup app data to user&#39;s Google Drive&quot;](https://www.reddit.com/r/androiddev/comments/1icym1m/how_to_implement_backup_app_data_to_users_google/)
-- [Feels like Compose UI is bugging out](https://www.reddit.com/r/androiddev/comments/1icy68n/feels_like_compose_ui_is_bugging_out/)
-- [Arrow for Everyone - TypeAlias Show](https://www.reddit.com/r/androiddev/comments/1icxbfc/arrow_for_everyone_typealias_show/)
+- [Teaching &lpar;not learning&rpar; materials from Google past 2020?](https://www.reddit.com/r/androiddev/comments/1idww27/teaching_not_learning_materials_from_google_past/)
+- [Deepseek R1 performance for android development?](https://www.reddit.com/r/androiddev/comments/1idvde6/deepseek_r1_performance_for_android_development/)
+- [How to make android studio appearance persistence after switching projects](https://www.reddit.com/r/androiddev/comments/1idtpmw/how_to_make_android_studio_appearance_persistence/)
+- [One device for both Internal Testing and Production](https://www.reddit.com/r/androiddev/comments/1idtemk/one_device_for_both_internal_testing_and/)
+- [How We Used Psychology To Increase Positive Reviews](https://www.reddit.com/r/androiddev/comments/1idrzav/how_we_used_psychology_to_increase_positive/)
+- [A modern user-centric notes app: Advice on monetization and marketing.](https://www.reddit.com/r/androiddev/comments/1idrav5/a_modern_usercentric_notes_app_advice_on/)
+- [Protecting component access within a modular structure](https://www.reddit.com/r/androiddev/comments/1idqqqs/protecting_component_access_within_a_modular/)
+- [How Google kept the Google Play &amp; Android app ecosystems safe in 2024](https://www.reddit.com/r/androiddev/comments/1idnoba/how_google_kept_the_google_play_android_app/)
+- [Any conventions or standards for organizing folders in Kotlin projects with Gradle?](https://www.reddit.com/r/androiddev/comments/1idng0v/any_conventions_or_standards_for_organizing/)
+- [Query Calendar events via CalendarContract from not primary account](https://www.reddit.com/r/androiddev/comments/1idk5xu/query_calendar_events_via_calendarcontract_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
