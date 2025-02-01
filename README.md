@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to remove Company Portal user accounts using AccountManager programmatically?](https://www.reddit.com/r/androiddev/comments/1iecy8q/how_to_remove_company_portal_user_accounts_using/)
+- [A Use Case for `UseCase`s in Kotlin](https://www.reddit.com/r/androiddev/comments/1iebd7j/a_use_case_for_usecases_in_kotlin/)
+- [Future native android app development jobs in Europe sustainable compared to cross-platform ?](https://www.reddit.com/r/androiddev/comments/1ie9s27/future_native_android_app_development_jobs_in/)
 - [Teaching &lpar;not learning&rpar; materials from Google past 2020?](https://www.reddit.com/r/androiddev/comments/1idww27/teaching_not_learning_materials_from_google_past/)
 - [Deepseek R1 performance for android development?](https://www.reddit.com/r/androiddev/comments/1idvde6/deepseek_r1_performance_for_android_development/)
 - [How to make android studio appearance persistence after switching projects](https://www.reddit.com/r/androiddev/comments/1idtpmw/how_to_make_android_studio_appearance_persistence/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [How We Used Psychology To Increase Positive Reviews](https://www.reddit.com/r/androiddev/comments/1idrzav/how_we_used_psychology_to_increase_positive/)
 - [A modern user-centric notes app: Advice on monetization and marketing.](https://www.reddit.com/r/androiddev/comments/1idrav5/a_modern_usercentric_notes_app_advice_on/)
 - [Protecting component access within a modular structure](https://www.reddit.com/r/androiddev/comments/1idqqqs/protecting_component_access_within_a_modular/)
-- [How Google kept the Google Play &amp; Android app ecosystems safe in 2024](https://www.reddit.com/r/androiddev/comments/1idnoba/how_google_kept_the_google_play_android_app/)
-- [Any conventions or standards for organizing folders in Kotlin projects with Gradle?](https://www.reddit.com/r/androiddev/comments/1idng0v/any_conventions_or_standards_for_organizing/)
-- [Query Calendar events via CalendarContract from not primary account](https://www.reddit.com/r/androiddev/comments/1idk5xu/query_calendar_events_via_calendarcontract_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
