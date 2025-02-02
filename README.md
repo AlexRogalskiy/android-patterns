@@ -271,6 +271,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Free OWASP Mobile Top 10 Training for Android/Java](https://www.reddit.com/r/androiddev/comments/1if9800/free_owasp_mobile_top_10_training_for_androidjava/)
 - [How to remove Company Portal user accounts using AccountManager programmatically?](https://www.reddit.com/r/androiddev/comments/1iecy8q/how_to_remove_company_portal_user_accounts_using/)
 - [A Use Case for `UseCase`s in Kotlin](https://www.reddit.com/r/androiddev/comments/1iebd7j/a_use_case_for_usecases_in_kotlin/)
 - [Future native android app development jobs in Europe sustainable compared to cross-platform ?](https://www.reddit.com/r/androiddev/comments/1ie9s27/future_native_android_app_development_jobs_in/)
@@ -280,7 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [One device for both Internal Testing and Production](https://www.reddit.com/r/androiddev/comments/1idtemk/one_device_for_both_internal_testing_and/)
 - [How We Used Psychology To Increase Positive Reviews](https://www.reddit.com/r/androiddev/comments/1idrzav/how_we_used_psychology_to_increase_positive/)
 - [A modern user-centric notes app: Advice on monetization and marketing.](https://www.reddit.com/r/androiddev/comments/1idrav5/a_modern_usercentric_notes_app_advice_on/)
-- [Protecting component access within a modular structure](https://www.reddit.com/r/androiddev/comments/1idqqqs/protecting_component_access_within_a_modular/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
