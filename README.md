@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What metrics do you use to measure your app or code performance in general?](https://www.reddit.com/r/androiddev/comments/1ig78tq/what_metrics_do_you_use_to_measure_your_app_or/)
+- [[Open Source] Swipeable Cards for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ifzvho/open_source_swipeable_cards_for_jetpack_compose/)
+- [Having trouble with your specific project? Updates, advice, and newbie questions for February 2025](https://www.reddit.com/r/androiddev/comments/1ifpck5/having_trouble_with_your_specific_project_updates/)
 - [Free OWASP Mobile Top 10 Training for Android/Java](https://www.reddit.com/r/androiddev/comments/1if9800/free_owasp_mobile_top_10_training_for_androidjava/)
 - [How to remove Company Portal user accounts using AccountManager programmatically?](https://www.reddit.com/r/androiddev/comments/1iecy8q/how_to_remove_company_portal_user_accounts_using/)
 - [A Use Case for `UseCase`s in Kotlin](https://www.reddit.com/r/androiddev/comments/1iebd7j/a_use_case_for_usecases_in_kotlin/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Teaching &lpar;not learning&rpar; materials from Google past 2020?](https://www.reddit.com/r/androiddev/comments/1idww27/teaching_not_learning_materials_from_google_past/)
 - [Deepseek R1 performance for android development?](https://www.reddit.com/r/androiddev/comments/1idvde6/deepseek_r1_performance_for_android_development/)
 - [How to make android studio appearance persistence after switching projects](https://www.reddit.com/r/androiddev/comments/1idtpmw/how_to_make_android_studio_appearance_persistence/)
-- [One device for both Internal Testing and Production](https://www.reddit.com/r/androiddev/comments/1idtemk/one_device_for_both_internal_testing_and/)
-- [How We Used Psychology To Increase Positive Reviews](https://www.reddit.com/r/androiddev/comments/1idrzav/how_we_used_psychology_to_increase_positive/)
-- [A modern user-centric notes app: Advice on monetization and marketing.](https://www.reddit.com/r/androiddev/comments/1idrav5/a_modern_usercentric_notes_app_advice_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
