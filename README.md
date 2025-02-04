@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1igwtam/android_studio_meerkat_feature_drop_202432_canary/)
+- [What is this called and how to implement?](https://www.reddit.com/r/androiddev/comments/1igq7iw/what_is_this_called_and_how_to_implement/)
+- [Feature Flags in Android with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1igpnio/feature_flags_in_android_with_jetpack_compose/)
+- [Android Compose Preview Data](https://www.reddit.com/r/androiddev/comments/1igl6hb/android_compose_preview_data/)
 - [What metrics do you use to measure your app or code performance in general?](https://www.reddit.com/r/androiddev/comments/1ig78tq/what_metrics_do_you_use_to_measure_your_app_or/)
 - [[Open Source] Swipeable Cards for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ifzvho/open_source_swipeable_cards_for_jetpack_compose/)
 - [Having trouble with your specific project? Updates, advice, and newbie questions for February 2025](https://www.reddit.com/r/androiddev/comments/1ifpck5/having_trouble_with_your_specific_project_updates/)
-- [Free OWASP Mobile Top 10 Training for Android/Java](https://www.reddit.com/r/androiddev/comments/1if9800/free_owasp_mobile_top_10_training_for_androidjava/)
 - [How to remove Company Portal user accounts using AccountManager programmatically?](https://www.reddit.com/r/androiddev/comments/1iecy8q/how_to_remove_company_portal_user_accounts_using/)
 - [A Use Case for `UseCase`s in Kotlin](https://www.reddit.com/r/androiddev/comments/1iebd7j/a_use_case_for_usecases_in_kotlin/)
 - [Future native android app development jobs in Europe sustainable compared to cross-platform ?](https://www.reddit.com/r/androiddev/comments/1ie9s27/future_native_android_app_development_jobs_in/)
-- [Teaching &lpar;not learning&rpar; materials from Google past 2020?](https://www.reddit.com/r/androiddev/comments/1idww27/teaching_not_learning_materials_from_google_past/)
-- [Deepseek R1 performance for android development?](https://www.reddit.com/r/androiddev/comments/1idvde6/deepseek_r1_performance_for_android_development/)
-- [How to make android studio appearance persistence after switching projects](https://www.reddit.com/r/androiddev/comments/1idtpmw/how_to_make_android_studio_appearance_persistence/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
