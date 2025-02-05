@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [See Android network traffic](https://www.reddit.com/r/androiddev/comments/1ihpbvp/see_android_network_traffic/)
+- [How to get a system prompt for disabling bluetooth in a android 14+](https://www.reddit.com/r/androiddev/comments/1ihglg1/how_to_get_a_system_prompt_for_disabling/)
+- [GitHub - cesarferreira/rustycat: Modern android logcat viewer &lpar;built with rust&rpar;](https://www.reddit.com/r/androiddev/comments/1ihfx0r/github_cesarferreirarustycat_modern_android/)
+- [lumo-ui now supports Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1ihehth/lumoui_now_supports_compose_multiplatform/)
+- [Designing Effective UI Components in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ihdv8p/designing_effective_ui_components_in_jetpack/)
+- [🚀 We&#39;re Hiring: Android Developer at AsliPundit &lpar;Bangalore, India&rpar; 🏏](https://www.reddit.com/r/androiddev/comments/1ihcfzg/were_hiring_android_developer_at_aslipundit/)
+- [Why is on-device Automated Speech Recognition &lpar;ASR&rpar; with VAD through custom models slow &amp; not as high quality on Android?](https://www.reddit.com/r/androiddev/comments/1iha4t8/why_is_ondevice_automated_speech_recognition_asr/)
 - [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1igwtam/android_studio_meerkat_feature_drop_202432_canary/)
 - [What is this called and how to implement?](https://www.reddit.com/r/androiddev/comments/1igq7iw/what_is_this_called_and_how_to_implement/)
 - [Feature Flags in Android with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1igpnio/feature_flags_in_android_with_jetpack_compose/)
-- [Android Compose Preview Data](https://www.reddit.com/r/androiddev/comments/1igl6hb/android_compose_preview_data/)
-- [What metrics do you use to measure your app or code performance in general?](https://www.reddit.com/r/androiddev/comments/1ig78tq/what_metrics_do_you_use_to_measure_your_app_or/)
-- [[Open Source] Swipeable Cards for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ifzvho/open_source_swipeable_cards_for_jetpack_compose/)
-- [Having trouble with your specific project? Updates, advice, and newbie questions for February 2025](https://www.reddit.com/r/androiddev/comments/1ifpck5/having_trouble_with_your_specific_project_updates/)
-- [How to remove Company Portal user accounts using AccountManager programmatically?](https://www.reddit.com/r/androiddev/comments/1iecy8q/how_to_remove_company_portal_user_accounts_using/)
-- [A Use Case for `UseCase`s in Kotlin](https://www.reddit.com/r/androiddev/comments/1iebd7j/a_use_case_for_usecases_in_kotlin/)
-- [Future native android app development jobs in Europe sustainable compared to cross-platform ?](https://www.reddit.com/r/androiddev/comments/1ie9s27/future_native_android_app_development_jobs_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
