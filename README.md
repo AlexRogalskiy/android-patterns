@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Meerkat | 2024.3.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1iij7mc/android_studio_meerkat_202431_rc_1_now_available/)
+- [Need guidance](https://www.reddit.com/r/androiddev/comments/1iih7y2/need_guidance/)
+- [SensorEventListener performance question](https://www.reddit.com/r/androiddev/comments/1iick2g/sensoreventlistener_performance_question/)
+- [Ksoup v0.2.2 - Now with Android Native Support &amp; Reader Parsing](https://www.reddit.com/r/androiddev/comments/1iiazxb/ksoup_v022_now_with_android_native_support_reader/)
+- [I built a tool that lets you create, test and update mobile app onboardings remotely – what do you think? Right now it works with Android/Flutter/IOS.](https://www.reddit.com/r/androiddev/comments/1ii78wz/i_built_a_tool_that_lets_you_create_test_and/)
+- [Jetpack Compose Function Parameter Callback Hell](https://www.reddit.com/r/androiddev/comments/1ii69fk/jetpack_compose_function_parameter_callback_hell/)
+- [More edge-to-edge mysteries: Material 3 BottomAppBar &amp; scroll behaviour](https://www.reddit.com/r/androiddev/comments/1ii3qse/more_edgetoedge_mysteries_material_3_bottomappbar/)
 - [See Android network traffic](https://www.reddit.com/r/androiddev/comments/1ihpbvp/see_android_network_traffic/)
 - [How to get a system prompt for disabling bluetooth in a android 14+](https://www.reddit.com/r/androiddev/comments/1ihglg1/how_to_get_a_system_prompt_for_disabling/)
 - [GitHub - cesarferreira/rustycat: Modern android logcat viewer &lpar;built with rust&rpar;](https://www.reddit.com/r/androiddev/comments/1ihfx0r/github_cesarferreirarustycat_modern_android/)
-- [lumo-ui now supports Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1ihehth/lumoui_now_supports_compose_multiplatform/)
-- [Designing Effective UI Components in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ihdv8p/designing_effective_ui_components_in_jetpack/)
-- [🚀 We&#39;re Hiring: Android Developer at AsliPundit &lpar;Bangalore, India&rpar; 🏏](https://www.reddit.com/r/androiddev/comments/1ihcfzg/were_hiring_android_developer_at_aslipundit/)
-- [Why is on-device Automated Speech Recognition &lpar;ASR&rpar; with VAD through custom models slow &amp; not as high quality on Android?](https://www.reddit.com/r/androiddev/comments/1iha4t8/why_is_ondevice_automated_speech_recognition_asr/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1igwtam/android_studio_meerkat_feature_drop_202432_canary/)
-- [What is this called and how to implement?](https://www.reddit.com/r/androiddev/comments/1igq7iw/what_is_this_called_and_how_to_implement/)
-- [Feature Flags in Android with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1igpnio/feature_flags_in_android_with_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
