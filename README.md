@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Stifle Hungry Tasks using BuildService](https://www.reddit.com/r/androiddev/comments/1ijie4t/stifle_hungry_tasks_using_buildservice/)
-- [Discover, Organize, and Enjoy Your Music with Valfi 🎧](https://www.reddit.com/r/androiddev/comments/1ijes2u/discover_organize_and_enjoy_your_music_with_valfi/)
-- [Prof teaching mobile looking for advice re: Navigation vs Intents](https://www.reddit.com/r/androiddev/comments/1ij4bhd/prof_teaching_mobile_looking_for_advice_re/)
-- [Android Studio Meerkat | 2024.3.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1iij7mc/android_studio_meerkat_202431_rc_1_now_available/)
-- [SensorEventListener performance question](https://www.reddit.com/r/androiddev/comments/1iick2g/sensoreventlistener_performance_question/)
-- [Ksoup v0.2.2 - Now with Android Native Support &amp; Reader Parsing](https://www.reddit.com/r/androiddev/comments/1iiazxb/ksoup_v022_now_with_android_native_support_reader/)
-- [I built a tool that lets you create, test and update mobile app onboardings remotely – what do you think? Right now it works with Android/Flutter/IOS.](https://www.reddit.com/r/androiddev/comments/1ii78wz/i_built_a_tool_that_lets_you_create_test_and/)
-- [Jetpack Compose Function Parameter Callback Hell](https://www.reddit.com/r/androiddev/comments/1ii69fk/jetpack_compose_function_parameter_callback_hell/)
-- [More edge-to-edge mysteries: Material 3 BottomAppBar &amp; scroll behaviour](https://www.reddit.com/r/androiddev/comments/1ii3qse/more_edgetoedge_mysteries_material_3_bottomappbar/)
-- [See Android network traffic](https://www.reddit.com/r/androiddev/comments/1ihpbvp/see_android_network_traffic/)
+- [Shining Text Effect - Make your call to action more premium](https://www.reddit.com/r/androiddev/comments/1ik8f5k/shining_text_effect_make_your_call_to_action_more/)
+- [Sales and Marketing thread, February 2025](https://www.reddit.com/r/androiddev/comments/1ik7bgv/sales_and_marketing_thread_february_2025/)
+- [Navigating the Challenges of Scoped Storage: Lessons for Modern Android Apps](https://www.reddit.com/r/androiddev/comments/1ik1kkz/navigating_the_challenges_of_scoped_storage/)
+- [Not another clean architecture article PART2](https://www.reddit.com/r/androiddev/comments/1ijyifd/not_another_clean_architecture_article_part2/)
+- [Window insets for edge to edge with dialogs jetpack compose](https://www.reddit.com/r/androiddev/comments/1ijwt7r/window_insets_for_edge_to_edge_with_dialogs/)
+- [App Works in Emulator &amp; USB Debugging but Won’t Install on the Same Device &lpar;“App Isn’t Compatible”&rpar;](https://www.reddit.com/r/androiddev/comments/1ijwfxb/app_works_in_emulator_usb_debugging_but_wont/)
+- [Compose UI patterns- slot vs compound components with examples](https://www.reddit.com/r/androiddev/comments/1ijvupz/compose_ui_patterns_slot_vs_compound_components/)
+- [Text Recognizer App using Google ML Kit and export to PDF](https://www.reddit.com/r/androiddev/comments/1ijph2e/text_recognizer_app_using_google_ml_kit_and/)
+- [&lpar;Android XR&rpar; Spatial computing is coming!](https://www.reddit.com/r/androiddev/comments/1ijnnph/android_xr_spatial_computing_is_coming/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1ijm7p9/android_studio_meerkat_feature_drop_202432_canary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
