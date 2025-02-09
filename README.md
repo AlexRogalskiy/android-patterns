@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are you actively using LLM or Gen AI tools in your day to day work?](https://www.reddit.com/r/androiddev/comments/1il2dnk/are_you_actively_using_llm_or_gen_ai_tools_in/)
+- [How to list all apps for a developer using Google Play Developer API?](https://www.reddit.com/r/androiddev/comments/1ikzi3w/how_to_list_all_apps_for_a_developer_using_google/)
+- [I need help for an idea for a simple project](https://www.reddit.com/r/androiddev/comments/1iky547/i_need_help_for_an_idea_for_a_simple_project/)
+- [Created my own custom Flashcard component inspired by Quizlet in Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/1ikvdmr/created_my_own_custom_flashcard_component/)
+- [Downloadable fonts preview in Compose](https://www.reddit.com/r/androiddev/comments/1ikv8y6/downloadable_fonts_preview_in_compose/)
+- [Is it possible to use a conditional statement in a function parameter?](https://www.reddit.com/r/androiddev/comments/1iktiad/is_it_possible_to_use_a_conditional_statement_in/)
+- [Any other &#39;best practice&#39; that I should keep in mind while submitting an online assesment?](https://www.reddit.com/r/androiddev/comments/1ikqknu/any_other_best_practice_that_i_should_keep_in/)
+- [Do you know the size limit for uploading apps/games to the Play Store?](https://www.reddit.com/r/androiddev/comments/1ikl8wg/do_you_know_the_size_limit_for_uploading/)
+- [Add extra colors to ColorScheme?](https://www.reddit.com/r/androiddev/comments/1ikhfae/add_extra_colors_to_colorscheme/)
 - [Shining Text Effect - Make your call to action more premium](https://www.reddit.com/r/androiddev/comments/1ik8f5k/shining_text_effect_make_your_call_to_action_more/)
-- [Sales and Marketing thread, February 2025](https://www.reddit.com/r/androiddev/comments/1ik7bgv/sales_and_marketing_thread_february_2025/)
-- [Navigating the Challenges of Scoped Storage: Lessons for Modern Android Apps](https://www.reddit.com/r/androiddev/comments/1ik1kkz/navigating_the_challenges_of_scoped_storage/)
-- [Not another clean architecture article PART2](https://www.reddit.com/r/androiddev/comments/1ijyifd/not_another_clean_architecture_article_part2/)
-- [Window insets for edge to edge with dialogs jetpack compose](https://www.reddit.com/r/androiddev/comments/1ijwt7r/window_insets_for_edge_to_edge_with_dialogs/)
-- [App Works in Emulator &amp; USB Debugging but Won’t Install on the Same Device &lpar;“App Isn’t Compatible”&rpar;](https://www.reddit.com/r/androiddev/comments/1ijwfxb/app_works_in_emulator_usb_debugging_but_wont/)
-- [Compose UI patterns- slot vs compound components with examples](https://www.reddit.com/r/androiddev/comments/1ijvupz/compose_ui_patterns_slot_vs_compound_components/)
-- [Text Recognizer App using Google ML Kit and export to PDF](https://www.reddit.com/r/androiddev/comments/1ijph2e/text_recognizer_app_using_google_ml_kit_and/)
-- [&lpar;Android XR&rpar; Spatial computing is coming!](https://www.reddit.com/r/androiddev/comments/1ijnnph/android_xr_spatial_computing_is_coming/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1ijm7p9/android_studio_meerkat_feature_drop_202432_canary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
