@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This is why we can&#39;t have nice things: When POM files lie](https://www.reddit.com/r/androiddev/comments/1iliv7k/this_is_why_we_cant_have_nice_things_when_pom/)
+- [Testing for material guidelines compliance?](https://www.reddit.com/r/androiddev/comments/1ili5t8/testing_for_material_guidelines_compliance/)
+- [Inserting Textfield in Top app bar title in jetpack compose shifts the whole Top app bar down](https://www.reddit.com/r/androiddev/comments/1ildrvi/inserting_textfield_in_top_app_bar_title_in/)
+- [Android OBD2 Diagnostics App with MediaPipe &amp; LLM – Interested in Learning How to Build This ?](https://www.reddit.com/r/androiddev/comments/1il69iq/android_obd2_diagnostics_app_with_mediapipe_llm/)
 - [Are you actively using LLM or Gen AI tools in your day to day work?](https://www.reddit.com/r/androiddev/comments/1il2dnk/are_you_actively_using_llm_or_gen_ai_tools_in/)
-- [How to list all apps for a developer using Google Play Developer API?](https://www.reddit.com/r/androiddev/comments/1ikzi3w/how_to_list_all_apps_for_a_developer_using_google/)
-- [I need help for an idea for a simple project](https://www.reddit.com/r/androiddev/comments/1iky547/i_need_help_for_an_idea_for_a_simple_project/)
 - [Created my own custom Flashcard component inspired by Quizlet in Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/1ikvdmr/created_my_own_custom_flashcard_component/)
 - [Downloadable fonts preview in Compose](https://www.reddit.com/r/androiddev/comments/1ikv8y6/downloadable_fonts_preview_in_compose/)
 - [Is it possible to use a conditional statement in a function parameter?](https://www.reddit.com/r/androiddev/comments/1iktiad/is_it_possible_to_use_a_conditional_statement_in/)
 - [Any other &#39;best practice&#39; that I should keep in mind while submitting an online assesment?](https://www.reddit.com/r/androiddev/comments/1ikqknu/any_other_best_practice_that_i_should_keep_in/)
 - [Do you know the size limit for uploading apps/games to the Play Store?](https://www.reddit.com/r/androiddev/comments/1ikl8wg/do_you_know_the_size_limit_for_uploading/)
-- [Add extra colors to ColorScheme?](https://www.reddit.com/r/androiddev/comments/1ikhfae/add_extra_colors_to_colorscheme/)
-- [Shining Text Effect - Make your call to action more premium](https://www.reddit.com/r/androiddev/comments/1ik8f5k/shining_text_effect_make_your_call_to_action_more/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
