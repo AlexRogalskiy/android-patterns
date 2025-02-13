@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Zoom meeting app](https://www.reddit.com/r/androiddev/comments/1io87np/zoom_meeting_app/)
+- [I built a tool to analyze app reviews—does this solve a real problem?](https://www.reddit.com/r/androiddev/comments/1inwth5/i_built_a_tool_to_analyze_app_reviewsdoes_this/)
+- [How to use Multiple Cursors in Android Studio - in 5 minutes](https://www.reddit.com/r/androiddev/comments/1invirt/how_to_use_multiple_cursors_in_android_studio_in/)
+- [Might be dumb question...but how to get newer version to run from any CMD/Terminal line?](https://www.reddit.com/r/androiddev/comments/1inuv4i/might_be_dumb_questionbut_how_to_get_newer/)
+- [Jetpack Compose navigation](https://www.reddit.com/r/androiddev/comments/1inumde/jetpack_compose_navigation/)
+- [Where is ADB documented?](https://www.reddit.com/r/androiddev/comments/1inu7hu/where_is_adb_documented/)
+- [Crash stacktrace decorated with the class metadata.](https://www.reddit.com/r/androiddev/comments/1inkwna/crash_stacktrace_decorated_with_the_class_metadata/)
+- [Navigation in multi-module Compose project](https://www.reddit.com/r/androiddev/comments/1in5kiq/navigation_in_multimodule_compose_project/)
 - [Job Opportunity &lpar;Relocation to Sweden&rpar;](https://www.reddit.com/r/androiddev/comments/1in4e57/job_opportunity_relocation_to_sweden/)
 - [Youtube Sliding Panel Layout clone](https://www.reddit.com/r/androiddev/comments/1in0cmc/youtube_sliding_panel_layout_clone/)
-- [Implement app specific PIN and Biometric auth?](https://www.reddit.com/r/androiddev/comments/1imx5w0/implement_app_specific_pin_and_biometric_auth/)
-- [SOLID Principles Series](https://www.reddit.com/r/androiddev/comments/1imk55i/solid_principles_series/)
-- [Koin IDE Plugin for Android Studio &amp; IntelliJ - Please give us Your Feedback!](https://www.reddit.com/r/androiddev/comments/1im9zyy/koin_ide_plugin_for_android_studio_intellij/)
-- [Idle emulators are taking up 8Gb RAM](https://www.reddit.com/r/androiddev/comments/1im9dqa/idle_emulators_are_taking_up_8gb_ram/)
-- [Introducing Bulifier: An Open-Source Native Android IDE with AI-Powered Bullet-Point Coding](https://www.reddit.com/r/androiddev/comments/1im8fme/introducing_bulifier_an_opensource_native_android/)
-- [I’m sharing a two part blog series on Compose Screenshot Testing](https://www.reddit.com/r/androiddev/comments/1im6ysx/im_sharing_a_two_part_blog_series_on_compose/)
-- [How to handle multiple lists of same type in a ViewModel?](https://www.reddit.com/r/androiddev/comments/1im5r2m/how_to_handle_multiple_lists_of_same_type_in_a/)
-- [My App Not Listed for Screen Recording on Android 15](https://www.reddit.com/r/androiddev/comments/1im1r8d/my_app_not_listed_for_screen_recording_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
