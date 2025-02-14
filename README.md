@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Zoom meeting app](https://www.reddit.com/r/androiddev/comments/1io87np/zoom_meeting_app/)
+- [Android Developers Blog: TrustedTime API: Introducing a reliable approach to time keeping for your apps](https://www.reddit.com/r/androiddev/comments/1iozjho/android_developers_blog_trustedtime_api/)
+- [Understanding navigation with different screen layouts](https://www.reddit.com/r/androiddev/comments/1iovjds/understanding_navigation_with_different_screen/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1ioqjur/android_studio_meerkat_feature_drop_202432_canary/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1ioqjuk/android_studio_ladybug_feature_drop_202422_patch/)
+- [Why and what is Google&#39;s motive of this warning/banner to users?](https://www.reddit.com/r/androiddev/comments/1ioofic/why_and_what_is_googles_motive_of_this/)
+- [Android AAOS Automotive Payments](https://www.reddit.com/r/androiddev/comments/1ionigr/android_aaos_automotive_payments/)
+- [A simple app to detect nudity and explicit content](https://www.reddit.com/r/androiddev/comments/1iok2xt/a_simple_app_to_detect_nudity_and_explicit_content/)
+- [Stupid question: how to run x86 Honda Automotive Emulator on Apple Silicon?](https://www.reddit.com/r/androiddev/comments/1iobn6n/stupid_question_how_to_run_x86_honda_automotive/)
+- [Refactor your Gradle Setup with Convention Plugins](https://www.reddit.com/r/androiddev/comments/1io7o9l/refactor_your_gradle_setup_with_convention_plugins/)
 - [I built a tool to analyze app reviews—does this solve a real problem?](https://www.reddit.com/r/androiddev/comments/1inwth5/i_built_a_tool_to_analyze_app_reviewsdoes_this/)
-- [How to use Multiple Cursors in Android Studio - in 5 minutes](https://www.reddit.com/r/androiddev/comments/1invirt/how_to_use_multiple_cursors_in_android_studio_in/)
-- [Might be dumb question...but how to get newer version to run from any CMD/Terminal line?](https://www.reddit.com/r/androiddev/comments/1inuv4i/might_be_dumb_questionbut_how_to_get_newer/)
-- [Jetpack Compose navigation](https://www.reddit.com/r/androiddev/comments/1inumde/jetpack_compose_navigation/)
-- [Where is ADB documented?](https://www.reddit.com/r/androiddev/comments/1inu7hu/where_is_adb_documented/)
-- [Crash stacktrace decorated with the class metadata.](https://www.reddit.com/r/androiddev/comments/1inkwna/crash_stacktrace_decorated_with_the_class_metadata/)
-- [Navigation in multi-module Compose project](https://www.reddit.com/r/androiddev/comments/1in5kiq/navigation_in_multimodule_compose_project/)
-- [Job Opportunity &lpar;Relocation to Sweden&rpar;](https://www.reddit.com/r/androiddev/comments/1in4e57/job_opportunity_relocation_to_sweden/)
-- [Youtube Sliding Panel Layout clone](https://www.reddit.com/r/androiddev/comments/1in0cmc/youtube_sliding_panel_layout_clone/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
