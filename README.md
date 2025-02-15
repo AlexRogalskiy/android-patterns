@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Stuck for days, someone please help me out: is it actually possible target individual physical cameras using Camera2?](https://www.reddit.com/r/androiddev/comments/1iphid9/stuck_for_days_someone_please_help_me_out_is_it/)
+- [Which vector path editor to use today for creating reliably morphable paths for objectAnimator](https://www.reddit.com/r/androiddev/comments/1ip5g9r/which_vector_path_editor_to_use_today_for/)
 - [Android Developers Blog: TrustedTime API: Introducing a reliable approach to time keeping for your apps](https://www.reddit.com/r/androiddev/comments/1iozjho/android_developers_blog_trustedtime_api/)
 - [Understanding navigation with different screen layouts](https://www.reddit.com/r/androiddev/comments/1iovjds/understanding_navigation_with_different_screen/)
 - [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1ioqjur/android_studio_meerkat_feature_drop_202432_canary/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Android AAOS Automotive Payments](https://www.reddit.com/r/androiddev/comments/1ionigr/android_aaos_automotive_payments/)
 - [A simple app to detect nudity and explicit content](https://www.reddit.com/r/androiddev/comments/1iok2xt/a_simple_app_to_detect_nudity_and_explicit_content/)
 - [Stupid question: how to run x86 Honda Automotive Emulator on Apple Silicon?](https://www.reddit.com/r/androiddev/comments/1iobn6n/stupid_question_how_to_run_x86_honda_automotive/)
-- [Refactor your Gradle Setup with Convention Plugins](https://www.reddit.com/r/androiddev/comments/1io7o9l/refactor_your_gradle_setup_with_convention_plugins/)
-- [I built a tool to analyze app reviews—does this solve a real problem?](https://www.reddit.com/r/androiddev/comments/1inwth5/i_built_a_tool_to_analyze_app_reviewsdoes_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
