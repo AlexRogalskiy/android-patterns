@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google Play Console error: &quot;You need to use an SDK with a version number of 34 or lower.&quot;](https://www.reddit.com/r/androiddev/comments/1iq9xci/google_play_console_error_you_need_to_use_an_sdk/)
+- [Firebase Dynamic Links alternative](https://www.reddit.com/r/androiddev/comments/1iq2qmk/firebase_dynamic_links_alternative/)
 - [Stuck for days, someone please help me out: is it actually possible target individual physical cameras using Camera2?](https://www.reddit.com/r/androiddev/comments/1iphid9/stuck_for_days_someone_please_help_me_out_is_it/)
 - [Which vector path editor to use today for creating reliably morphable paths for objectAnimator](https://www.reddit.com/r/androiddev/comments/1ip5g9r/which_vector_path_editor_to_use_today_for/)
 - [Android Developers Blog: TrustedTime API: Introducing a reliable approach to time keeping for your apps](https://www.reddit.com/r/androiddev/comments/1iozjho/android_developers_blog_trustedtime_api/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Android Studio Ladybug Feature Drop | 2024.2.2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1ioqjuk/android_studio_ladybug_feature_drop_202422_patch/)
 - [Why and what is Google&#39;s motive of this warning/banner to users?](https://www.reddit.com/r/androiddev/comments/1ioofic/why_and_what_is_googles_motive_of_this/)
 - [Android AAOS Automotive Payments](https://www.reddit.com/r/androiddev/comments/1ionigr/android_aaos_automotive_payments/)
-- [A simple app to detect nudity and explicit content](https://www.reddit.com/r/androiddev/comments/1iok2xt/a_simple_app_to_detect_nudity_and_explicit_content/)
-- [Stupid question: how to run x86 Honda Automotive Emulator on Apple Silicon?](https://www.reddit.com/r/androiddev/comments/1iobn6n/stupid_question_how_to_run_x86_honda_automotive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
