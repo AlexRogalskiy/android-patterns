@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [PayPal Hijacks mailto Links Causing Payment Confusion](https://www.reddit.com/r/androiddev/comments/1irlcbp/paypal_hijacks_mailto_links_causing_payment/)
-- [The old Ramotion&#39;s Slider in now Multiplatform](https://www.reddit.com/r/androiddev/comments/1irg04a/the_old_ramotions_slider_in_now_multiplatform/)
-- [I can&#39;t get Layout Inspector to work 😫 - help?](https://www.reddit.com/r/androiddev/comments/1ireqda/i_cant_get_layout_inspector_to_work_help/)
-- [How to Build Apps with Spatial SDK for VR/MR?](https://www.reddit.com/r/androiddev/comments/1ir0kxx/how_to_build_apps_with_spatial_sdk_for_vrmr/)
-- [How to change or spoof the Date/Time for a specific app without changing it for the entire device](https://www.reddit.com/r/androiddev/comments/1iqv74r/how_to_change_or_spoof_the_datetime_for_a/)
-- [App to watch YT video in background](https://www.reddit.com/r/androiddev/comments/1iqsmqc/app_to_watch_yt_video_in_background/)
-- [How do you protect your apk files from reverse engineering?](https://www.reddit.com/r/androiddev/comments/1iqqu13/how_do_you_protect_your_apk_files_from_reverse/)
-- [Which framework should I choose to create an Android version for an iOS app?](https://www.reddit.com/r/androiddev/comments/1iqnxt6/which_framework_should_i_choose_to_create_an/)
-- [Thanks for this Amazing Android Documentation](https://www.reddit.com/r/androiddev/comments/1iqnx8x/thanks_for_this_amazing_android_documentation/)
-- [Google Play Console error: &quot;You need to use an SDK with a version number of 34 or lower.&quot;](https://www.reddit.com/r/androiddev/comments/1iq9xci/google_play_console_error_you_need_to_use_an_sdk/)
+- [Google Data Safety Question](https://www.reddit.com/r/androiddev/comments/1isu24p/google_data_safety_question/)
+- [Coping with Google Photos API changes &lpar;no more programmatic access to user&#39;s photos after March 31st, 2025&rpar;.](https://www.reddit.com/r/androiddev/comments/1isijab/coping_with_google_photos_api_changes_no_more/)
+- [Help with firebase cloud messaging](https://www.reddit.com/r/androiddev/comments/1isffo4/help_with_firebase_cloud_messaging/)
+- [Android Studio Meerkat | 2024.3.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1isek1b/android_studio_meerkat_202431_rc_2_now_available/)
+- [Is it okay to make dev app admin on play store console?](https://www.reddit.com/r/androiddev/comments/1isegyq/is_it_okay_to_make_dev_app_admin_on_play_store/)
+- [Open sourced most popular paleontological app in the world](https://www.reddit.com/r/androiddev/comments/1ise4u4/open_sourced_most_popular_paleontological_app_in/)
+- [Emerging bad behavior](https://www.reddit.com/r/androiddev/comments/1ise4e7/emerging_bad_behavior/)
+- [Data Oriented Programming · Fragmented #255 | #androiddev Podcast](https://www.reddit.com/r/androiddev/comments/1isc8l4/data_oriented_programming_fragmented_255/)
+- [Is there a better option than Google Firebase?](https://www.reddit.com/r/androiddev/comments/1isc6bj/is_there_a_better_option_than_google_firebase/)
+- [Android Jetpack Compose ViewModel Tutorial | Beginner Tutorial](https://www.reddit.com/r/androiddev/comments/1isbvwv/android_jetpack_compose_viewmodel_tutorial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
