@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sites to download free Lottie files?](https://www.reddit.com/r/androiddev/comments/1itgenr/sites_to_download_free_lottie_files/)
+- [New to Kotlin – Best Way to Design UI?](https://www.reddit.com/r/androiddev/comments/1it3ka0/new_to_kotlin_best_way_to_design_ui/)
+- [Open Testing vs. Straight Production Launch](https://www.reddit.com/r/androiddev/comments/1it2khz/open_testing_vs_straight_production_launch/)
+- [TikTok Controllers](https://www.reddit.com/r/androiddev/comments/1isw8iq/tiktok_controllers/)
+- [Please roast a take-home assessment](https://www.reddit.com/r/androiddev/comments/1isva1r/please_roast_a_takehome_assessment/)
 - [Google Data Safety Question](https://www.reddit.com/r/androiddev/comments/1isu24p/google_data_safety_question/)
 - [Coping with Google Photos API changes &lpar;no more programmatic access to user&#39;s photos after March 31st, 2025&rpar;.](https://www.reddit.com/r/androiddev/comments/1isijab/coping_with_google_photos_api_changes_no_more/)
-- [Help with firebase cloud messaging](https://www.reddit.com/r/androiddev/comments/1isffo4/help_with_firebase_cloud_messaging/)
 - [Android Studio Meerkat | 2024.3.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1isek1b/android_studio_meerkat_202431_rc_2_now_available/)
 - [Is it okay to make dev app admin on play store console?](https://www.reddit.com/r/androiddev/comments/1isegyq/is_it_okay_to_make_dev_app_admin_on_play_store/)
 - [Open sourced most popular paleontological app in the world](https://www.reddit.com/r/androiddev/comments/1ise4u4/open_sourced_most_popular_paleontological_app_in/)
-- [Emerging bad behavior](https://www.reddit.com/r/androiddev/comments/1ise4e7/emerging_bad_behavior/)
-- [Data Oriented Programming · Fragmented #255 | #androiddev Podcast](https://www.reddit.com/r/androiddev/comments/1isc8l4/data_oriented_programming_fragmented_255/)
-- [Is there a better option than Google Firebase?](https://www.reddit.com/r/androiddev/comments/1isc6bj/is_there_a_better_option_than_google_firebase/)
-- [Android Jetpack Compose ViewModel Tutorial | Beginner Tutorial](https://www.reddit.com/r/androiddev/comments/1isbvwv/android_jetpack_compose_viewmodel_tutorial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
