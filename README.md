@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [0 I am working on a Jetpack Compose app where users can add and remove addresses dynamically. I am using a LazyColumn with a unique key &lpar;address.id&rpar;, but the addresses are sometimes duplicated instead of replacing the empty placeholder.](https://www.reddit.com/r/androiddev/comments/1iu8h6q/0_i_am_working_on_a_jetpack_compose_app_where/)
+- [Issues with and Confusion about ViewModels](https://www.reddit.com/r/androiddev/comments/1iu82p8/issues_with_and_confusion_about_viewmodels/)
+- [Inconsistency in Google Play account reviews](https://www.reddit.com/r/androiddev/comments/1iu2j2f/inconsistency_in_google_play_account_reviews/)
+- [Who is this bouncy pixely zombie on my emulator camera?](https://www.reddit.com/r/androiddev/comments/1itxwj7/who_is_this_bouncy_pixely_zombie_on_my_emulator/)
+- [Amazon Appstore for Android devices to be discontinued](https://www.reddit.com/r/androiddev/comments/1itulkn/amazon_appstore_for_android_devices_to_be/)
+- [AGSL Shaders demo for Android 13](https://www.reddit.com/r/androiddev/comments/1ittzme/agsl_shaders_demo_for_android_13/)
 - [Sites to download free Lottie files?](https://www.reddit.com/r/androiddev/comments/1itgenr/sites_to_download_free_lottie_files/)
 - [New to Kotlin – Best Way to Design UI?](https://www.reddit.com/r/androiddev/comments/1it3ka0/new_to_kotlin_best_way_to_design_ui/)
 - [Open Testing vs. Straight Production Launch](https://www.reddit.com/r/androiddev/comments/1it2khz/open_testing_vs_straight_production_launch/)
 - [TikTok Controllers](https://www.reddit.com/r/androiddev/comments/1isw8iq/tiktok_controllers/)
-- [Please roast a take-home assessment](https://www.reddit.com/r/androiddev/comments/1isva1r/please_roast_a_takehome_assessment/)
-- [Google Data Safety Question](https://www.reddit.com/r/androiddev/comments/1isu24p/google_data_safety_question/)
-- [Coping with Google Photos API changes &lpar;no more programmatic access to user&#39;s photos after March 31st, 2025&rpar;.](https://www.reddit.com/r/androiddev/comments/1isijab/coping_with_google_photos_api_changes_no_more/)
-- [Android Studio Meerkat | 2024.3.1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1isek1b/android_studio_meerkat_202431_rc_2_now_available/)
-- [Is it okay to make dev app admin on play store console?](https://www.reddit.com/r/androiddev/comments/1isegyq/is_it_okay_to_make_dev_app_admin_on_play_store/)
-- [Open sourced most popular paleontological app in the world](https://www.reddit.com/r/androiddev/comments/1ise4u4/open_sourced_most_popular_paleontological_app_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
