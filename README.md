@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1iuyn6t/android_studio_meerkat_feature_drop_202432_canary/)
+- [Overdraw and app quality guidelines](https://www.reddit.com/r/androiddev/comments/1iuwxw2/overdraw_and_app_quality_guidelines/)
+- [Android UI development - Jetpack Compose - unhappy with it](https://www.reddit.com/r/androiddev/comments/1iuwxmo/android_ui_development_jetpack_compose_unhappy/)
+- [Play Developer research community](https://www.reddit.com/r/androiddev/comments/1iuvy4h/play_developer_research_community/)
+- [How you deal with state classes ?](https://www.reddit.com/r/androiddev/comments/1iuu7zy/how_you_deal_with_state_classes/)
+- [How to Avoid Gradle Plugin Dependency Hell](https://www.reddit.com/r/androiddev/comments/1iuor7w/how_to_avoid_gradle_plugin_dependency_hell/)
+- [Reveal animation with Android Shaders](https://www.reddit.com/r/androiddev/comments/1iunm7a/reveal_animation_with_android_shaders/)
 - [0 I am working on a Jetpack Compose app where users can add and remove addresses dynamically. I am using a LazyColumn with a unique key &lpar;address.id&rpar;, but the addresses are sometimes duplicated instead of replacing the empty placeholder.](https://www.reddit.com/r/androiddev/comments/1iu8h6q/0_i_am_working_on_a_jetpack_compose_app_where/)
 - [Issues with and Confusion about ViewModels](https://www.reddit.com/r/androiddev/comments/1iu82p8/issues_with_and_confusion_about_viewmodels/)
 - [Inconsistency in Google Play account reviews](https://www.reddit.com/r/androiddev/comments/1iu2j2f/inconsistency_in_google_play_account_reviews/)
-- [Who is this bouncy pixely zombie on my emulator camera?](https://www.reddit.com/r/androiddev/comments/1itxwj7/who_is_this_bouncy_pixely_zombie_on_my_emulator/)
-- [Amazon Appstore for Android devices to be discontinued](https://www.reddit.com/r/androiddev/comments/1itulkn/amazon_appstore_for_android_devices_to_be/)
-- [AGSL Shaders demo for Android 13](https://www.reddit.com/r/androiddev/comments/1ittzme/agsl_shaders_demo_for_android_13/)
-- [Sites to download free Lottie files?](https://www.reddit.com/r/androiddev/comments/1itgenr/sites_to_download_free_lottie_files/)
-- [New to Kotlin – Best Way to Design UI?](https://www.reddit.com/r/androiddev/comments/1it3ka0/new_to_kotlin_best_way_to_design_ui/)
-- [Open Testing vs. Straight Production Launch](https://www.reddit.com/r/androiddev/comments/1it2khz/open_testing_vs_straight_production_launch/)
-- [TikTok Controllers](https://www.reddit.com/r/androiddev/comments/1isw8iq/tiktok_controllers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
