@@ -271,6 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [is this how a production ready app looks now a days?](https://www.reddit.com/r/androiddev/comments/1ivqq6p/is_this_how_a_production_ready_app_looks_now_a/)
+- [Logcat Android Studio](https://www.reddit.com/r/androiddev/comments/1ivb1gw/logcat_android_studio/)
+- [GDPR UMP alternative due to admob ban](https://www.reddit.com/r/androiddev/comments/1iv9mlh/gdpr_ump_alternative_due_to_admob_ban/)
 - [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1iuyn6t/android_studio_meerkat_feature_drop_202432_canary/)
 - [Overdraw and app quality guidelines](https://www.reddit.com/r/androiddev/comments/1iuwxw2/overdraw_and_app_quality_guidelines/)
 - [Android UI development - Jetpack Compose - unhappy with it](https://www.reddit.com/r/androiddev/comments/1iuwxmo/android_ui_development_jetpack_compose_unhappy/)
@@ -278,9 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [How you deal with state classes ?](https://www.reddit.com/r/androiddev/comments/1iuu7zy/how_you_deal_with_state_classes/)
 - [How to Avoid Gradle Plugin Dependency Hell](https://www.reddit.com/r/androiddev/comments/1iuor7w/how_to_avoid_gradle_plugin_dependency_hell/)
 - [Reveal animation with Android Shaders](https://www.reddit.com/r/androiddev/comments/1iunm7a/reveal_animation_with_android_shaders/)
-- [0 I am working on a Jetpack Compose app where users can add and remove addresses dynamically. I am using a LazyColumn with a unique key &lpar;address.id&rpar;, but the addresses are sometimes duplicated instead of replacing the empty placeholder.](https://www.reddit.com/r/androiddev/comments/1iu8h6q/0_i_am_working_on_a_jetpack_compose_app_where/)
-- [Issues with and Confusion about ViewModels](https://www.reddit.com/r/androiddev/comments/1iu82p8/issues_with_and_confusion_about_viewmodels/)
-- [Inconsistency in Google Play account reviews](https://www.reddit.com/r/androiddev/comments/1iu2j2f/inconsistency_in_google_play_account_reviews/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
