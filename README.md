@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android sharing intent won&#39;t work with reddit](https://www.reddit.com/r/androiddev/comments/1iwk7vp/android_sharing_intent_wont_work_with_reddit/)
+- [Handle GamePad buttons in Jetpack Compose UI](https://www.reddit.com/r/androiddev/comments/1iwai1e/handle_gamepad_buttons_in_jetpack_compose_ui/)
+- [How to Prevent Scroll Jumps and UI Flickering in LazyColumn with Paging 3 on PagingSource Invalidation?](https://www.reddit.com/r/androiddev/comments/1iw8sn1/how_to_prevent_scroll_jumps_and_ui_flickering_in/)
+- [An experimental Kotlin Multiplatform, Compose Multiplatform, GameBoy Emulator.](https://www.reddit.com/r/androiddev/comments/1iw5nk6/an_experimental_kotlin_multiplatform_compose/)
 - [is this how a production ready app looks now a days?](https://www.reddit.com/r/androiddev/comments/1ivqq6p/is_this_how_a_production_ready_app_looks_now_a/)
 - [Logcat Android Studio](https://www.reddit.com/r/androiddev/comments/1ivb1gw/logcat_android_studio/)
 - [GDPR UMP alternative due to admob ban](https://www.reddit.com/r/androiddev/comments/1iv9mlh/gdpr_ump_alternative_due_to_admob_ban/)
 - [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1iuyn6t/android_studio_meerkat_feature_drop_202432_canary/)
 - [Overdraw and app quality guidelines](https://www.reddit.com/r/androiddev/comments/1iuwxw2/overdraw_and_app_quality_guidelines/)
 - [Android UI development - Jetpack Compose - unhappy with it](https://www.reddit.com/r/androiddev/comments/1iuwxmo/android_ui_development_jetpack_compose_unhappy/)
-- [Play Developer research community](https://www.reddit.com/r/androiddev/comments/1iuvy4h/play_developer_research_community/)
-- [How you deal with state classes ?](https://www.reddit.com/r/androiddev/comments/1iuu7zy/how_you_deal_with_state_classes/)
-- [How to Avoid Gradle Plugin Dependency Hell](https://www.reddit.com/r/androiddev/comments/1iuor7w/how_to_avoid_gradle_plugin_dependency_hell/)
-- [Reveal animation with Android Shaders](https://www.reddit.com/r/androiddev/comments/1iunm7a/reveal_animation_with_android_shaders/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
