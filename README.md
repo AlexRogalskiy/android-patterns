@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Profiling app for performance?](https://www.reddit.com/r/androiddev/comments/1ixjb3x/profiling_app_for_performance/)
+- [Whats going on with Jetpack bluetooth &lpar;androidx.bluetooth&rpar;?](https://www.reddit.com/r/androiddev/comments/1ixctn3/whats_going_on_with_jetpack_bluetooth/)
+- [We have plenty of options to animate in Compose, which is great, but sometimes it can be tough to choose the right one. I wrote down my thoughts about such a case.](https://www.reddit.com/r/androiddev/comments/1ix9df8/we_have_plenty_of_options_to_animate_in_compose/)
+- [Can the microphone be shared between services?](https://www.reddit.com/r/androiddev/comments/1ix7aih/can_the_microphone_be_shared_between_services/)
+- [iBeacon detection on android 15](https://www.reddit.com/r/androiddev/comments/1iwzm56/ibeacon_detection_on_android_15/)
+- [Help with Jetpack Compose Android Video Weird Animation](https://www.reddit.com/r/androiddev/comments/1iwxr50/help_with_jetpack_compose_android_video_weird/)
+- [Custom Markers on Google Maps Street View -Android](https://www.reddit.com/r/androiddev/comments/1iwvicx/custom_markers_on_google_maps_street_view_android/)
 - [Android sharing intent won&#39;t work with reddit](https://www.reddit.com/r/androiddev/comments/1iwk7vp/android_sharing_intent_wont_work_with_reddit/)
 - [Handle GamePad buttons in Jetpack Compose UI](https://www.reddit.com/r/androiddev/comments/1iwai1e/handle_gamepad_buttons_in_jetpack_compose_ui/)
 - [How to Prevent Scroll Jumps and UI Flickering in LazyColumn with Paging 3 on PagingSource Invalidation?](https://www.reddit.com/r/androiddev/comments/1iw8sn1/how_to_prevent_scroll_jumps_and_ui_flickering_in/)
-- [An experimental Kotlin Multiplatform, Compose Multiplatform, GameBoy Emulator.](https://www.reddit.com/r/androiddev/comments/1iw5nk6/an_experimental_kotlin_multiplatform_compose/)
-- [is this how a production ready app looks now a days?](https://www.reddit.com/r/androiddev/comments/1ivqq6p/is_this_how_a_production_ready_app_looks_now_a/)
-- [Logcat Android Studio](https://www.reddit.com/r/androiddev/comments/1ivb1gw/logcat_android_studio/)
-- [GDPR UMP alternative due to admob ban](https://www.reddit.com/r/androiddev/comments/1iv9mlh/gdpr_ump_alternative_due_to_admob_ban/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1iuyn6t/android_studio_meerkat_feature_drop_202432_canary/)
-- [Overdraw and app quality guidelines](https://www.reddit.com/r/androiddev/comments/1iuwxw2/overdraw_and_app_quality_guidelines/)
-- [Android UI development - Jetpack Compose - unhappy with it](https://www.reddit.com/r/androiddev/comments/1iuwxmo/android_ui_development_jetpack_compose_unhappy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
