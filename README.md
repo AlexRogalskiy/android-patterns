@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thoughts on Compose + Multiple Activities](https://www.reddit.com/r/androiddev/comments/1iyupjy/thoughts_on_compose_multiple_activities/)
+- [People act like launching an app is easy lol](https://www.reddit.com/r/androiddev/comments/1iyuou9/people_act_like_launching_an_app_is_easy_lol/)
+- [Android Studio Ladybug Feature Drop | 2024.2.2 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1iytpr8/android_studio_ladybug_feature_drop_202422_patch/)
+- [Building a Compose app with Junie - the new AI coding agent from JetBrains](https://www.reddit.com/r/androiddev/comments/1iyquy4/building_a_compose_app_with_junie_the_new_ai/)
+- [TextView animation with incremental text updates](https://www.reddit.com/r/androiddev/comments/1iypsbq/textview_animation_with_incremental_text_updates/)
+- [Best practices for storing API keys from AWS Secrets Manager in an Android MVVM project](https://www.reddit.com/r/androiddev/comments/1iymiu1/best_practices_for_storing_api_keys_from_aws/)
+- [Help build KSP kotlin and toml](https://www.reddit.com/r/androiddev/comments/1iylakz/help_build_ksp_kotlin_and_toml/)
+- [ViewModel property getting reseted on Navigation or Orientation Change](https://www.reddit.com/r/androiddev/comments/1iyky2o/viewmodel_property_getting_reseted_on_navigation/)
 - [SimpleBLE - Cross-platform Bluetooth library that just works - Now available on Android!](https://www.reddit.com/r/androiddev/comments/1iybc3b/simpleble_crossplatform_bluetooth_library_that/)
 - [Why does &#39;TextAlign.Justify&#39; work everywhere except on a device with OxygenOS 15?](https://www.reddit.com/r/androiddev/comments/1ixyqn7/why_does_textalignjustify_work_everywhere_except/)
-- [Health Connect | Recording Method Unknown for all data](https://www.reddit.com/r/androiddev/comments/1ixy9qg/health_connect_recording_method_unknown_for_all/)
-- [Deploy Android App on Play Store using Github Action](https://www.reddit.com/r/androiddev/comments/1ixwnpr/deploy_android_app_on_play_store_using_github/)
-- [Versioning your android app like a leetcode problem](https://www.reddit.com/r/androiddev/comments/1ixtmtl/versioning_your_android_app_like_a_leetcode/)
-- [Rapid prototyping with Kotlin · Fragmented #256](https://www.reddit.com/r/androiddev/comments/1ixmh94/rapid_prototyping_with_kotlin_fragmented_256/)
-- [Profiling app for performance?](https://www.reddit.com/r/androiddev/comments/1ixjb3x/profiling_app_for_performance/)
-- [Whats going on with Jetpack bluetooth &lpar;androidx.bluetooth&rpar;?](https://www.reddit.com/r/androiddev/comments/1ixctn3/whats_going_on_with_jetpack_bluetooth/)
-- [We have plenty of options to animate in Compose, which is great, but sometimes it can be tough to choose the right one. I wrote down my thoughts about such a case.](https://www.reddit.com/r/androiddev/comments/1ix9df8/we_have_plenty_of_options_to_animate_in_compose/)
-- [Can the microphone be shared between services?](https://www.reddit.com/r/androiddev/comments/1ix7aih/can_the_microphone_be_shared_between_services/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
