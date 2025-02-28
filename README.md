@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1izubyr/android_studio_meerkat_feature_drop_202432_canary/)
+- [UI test execution in parallel using Shards](https://www.reddit.com/r/androiddev/comments/1izq95j/ui_test_execution_in_parallel_using_shards/)
+- [How do you synchronize on strings ids between platforms?](https://www.reddit.com/r/androiddev/comments/1izkv22/how_do_you_synchronize_on_strings_ids_between/)
+- [Coroutine flows best practice?](https://www.reddit.com/r/androiddev/comments/1izji3m/coroutine_flows_best_practice/)
+- [Catching soft keyboard events in android 10](https://www.reddit.com/r/androiddev/comments/1izf8s7/catching_soft_keyboard_events_in_android_10/)
+- [Jetpack Compose Authentication with Supabase](https://www.reddit.com/r/androiddev/comments/1iz6lhh/jetpack_compose_authentication_with_supabase/)
 - [Thoughts on Compose + Multiple Activities](https://www.reddit.com/r/androiddev/comments/1iyupjy/thoughts_on_compose_multiple_activities/)
 - [People act like launching an app is easy lol](https://www.reddit.com/r/androiddev/comments/1iyuou9/people_act_like_launching_an_app_is_easy_lol/)
 - [Android Studio Ladybug Feature Drop | 2024.2.2 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1iytpr8/android_studio_ladybug_feature_drop_202422_patch/)
 - [Building a Compose app with Junie - the new AI coding agent from JetBrains](https://www.reddit.com/r/androiddev/comments/1iyquy4/building_a_compose_app_with_junie_the_new_ai/)
-- [TextView animation with incremental text updates](https://www.reddit.com/r/androiddev/comments/1iypsbq/textview_animation_with_incremental_text_updates/)
-- [Best practices for storing API keys from AWS Secrets Manager in an Android MVVM project](https://www.reddit.com/r/androiddev/comments/1iymiu1/best_practices_for_storing_api_keys_from_aws/)
-- [Help build KSP kotlin and toml](https://www.reddit.com/r/androiddev/comments/1iylakz/help_build_ksp_kotlin_and_toml/)
-- [ViewModel property getting reseted on Navigation or Orientation Change](https://www.reddit.com/r/androiddev/comments/1iyky2o/viewmodel_property_getting_reseted_on_navigation/)
-- [SimpleBLE - Cross-platform Bluetooth library that just works - Now available on Android!](https://www.reddit.com/r/androiddev/comments/1iybc3b/simpleble_crossplatform_bluetooth_library_that/)
-- [Why does &#39;TextAlign.Justify&#39; work everywhere except on a device with OxygenOS 15?](https://www.reddit.com/r/androiddev/comments/1ixyqn7/why_does_textalignjustify_work_everywhere_except/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
