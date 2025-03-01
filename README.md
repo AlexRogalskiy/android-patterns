@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Good resources to learn testing?](https://www.reddit.com/r/androiddev/comments/1j0ctqw/good_resources_to_learn_testing/)
+- [Best Approach for Database Structure in a Multi-Module Android App?](https://www.reddit.com/r/androiddev/comments/1izym8f/best_approach_for_database_structure_in_a/)
 - [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1izubyr/android_studio_meerkat_feature_drop_202432_canary/)
 - [UI test execution in parallel using Shards](https://www.reddit.com/r/androiddev/comments/1izq95j/ui_test_execution_in_parallel_using_shards/)
 - [How do you synchronize on strings ids between platforms?](https://www.reddit.com/r/androiddev/comments/1izkv22/how_do_you_synchronize_on_strings_ids_between/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Jetpack Compose Authentication with Supabase](https://www.reddit.com/r/androiddev/comments/1iz6lhh/jetpack_compose_authentication_with_supabase/)
 - [Thoughts on Compose + Multiple Activities](https://www.reddit.com/r/androiddev/comments/1iyupjy/thoughts_on_compose_multiple_activities/)
 - [People act like launching an app is easy lol](https://www.reddit.com/r/androiddev/comments/1iyuou9/people_act_like_launching_an_app_is_easy_lol/)
-- [Android Studio Ladybug Feature Drop | 2024.2.2 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1iytpr8/android_studio_ladybug_feature_drop_202422_patch/)
-- [Building a Compose app with Junie - the new AI coding agent from JetBrains](https://www.reddit.com/r/androiddev/comments/1iyquy4/building_a_compose_app_with_junie_the_new_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
