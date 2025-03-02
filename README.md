@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Method to implement serverless IAP?](https://www.reddit.com/r/androiddev/comments/1j1e64m/method_to_implement_serverless_iap/)
+- [Is there any need for constraint layout in Compose?](https://www.reddit.com/r/androiddev/comments/1j0xrqx/is_there_any_need_for_constraint_layout_in_compose/)
 - [Good resources to learn testing?](https://www.reddit.com/r/androiddev/comments/1j0ctqw/good_resources_to_learn_testing/)
 - [Best Approach for Database Structure in a Multi-Module Android App?](https://www.reddit.com/r/androiddev/comments/1izym8f/best_approach_for_database_structure_in_a/)
 - [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1izubyr/android_studio_meerkat_feature_drop_202432_canary/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Coroutine flows best practice?](https://www.reddit.com/r/androiddev/comments/1izji3m/coroutine_flows_best_practice/)
 - [Catching soft keyboard events in android 10](https://www.reddit.com/r/androiddev/comments/1izf8s7/catching_soft_keyboard_events_in_android_10/)
 - [Jetpack Compose Authentication with Supabase](https://www.reddit.com/r/androiddev/comments/1iz6lhh/jetpack_compose_authentication_with_supabase/)
-- [Thoughts on Compose + Multiple Activities](https://www.reddit.com/r/androiddev/comments/1iyupjy/thoughts_on_compose_multiple_activities/)
-- [People act like launching an app is easy lol](https://www.reddit.com/r/androiddev/comments/1iyuou9/people_act_like_launching_an_app_is_easy_lol/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
