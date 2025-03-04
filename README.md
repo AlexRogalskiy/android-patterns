@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [InfiniteTransitions and memory pressure](https://www.reddit.com/r/androiddev/comments/1j2pdal/infinitetransitions_and_memory_pressure/)
+- [New Open Source Library for managing Permissions in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1j2oydv/new_open_source_library_for_managing_permissions/)
+- [I made a gradle task but it has a bug](https://www.reddit.com/r/androiddev/comments/1j2jyus/i_made_a_gradle_task_but_it_has_a_bug/)
+- [How is the IP subnet for Wi-Fi hotspot chosen on Android?](https://www.reddit.com/r/androiddev/comments/1j2b0n8/how_is_the_ip_subnet_for_wifi_hotspot_chosen_on/)
 - [Android studio process uses 15 gb on Macbook M2](https://www.reddit.com/r/androiddev/comments/1j216pu/android_studio_process_uses_15_gb_on_macbook_m2/)
 - [Fleet vs Android Studio with KMP](https://www.reddit.com/r/androiddev/comments/1j202pj/fleet_vs_android_studio_with_kmp/)
 - [Method to implement serverless IAP?](https://www.reddit.com/r/androiddev/comments/1j1e64m/method_to_implement_serverless_iap/)
 - [Is there any need for constraint layout in Compose?](https://www.reddit.com/r/androiddev/comments/1j0xrqx/is_there_any_need_for_constraint_layout_in_compose/)
 - [Good resources to learn testing?](https://www.reddit.com/r/androiddev/comments/1j0ctqw/good_resources_to_learn_testing/)
 - [Best Approach for Database Structure in a Multi-Module Android App?](https://www.reddit.com/r/androiddev/comments/1izym8f/best_approach_for_database_structure_in_a/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1izubyr/android_studio_meerkat_feature_drop_202432_canary/)
-- [UI test execution in parallel using Shards](https://www.reddit.com/r/androiddev/comments/1izq95j/ui_test_execution_in_parallel_using_shards/)
-- [How do you synchronize on strings ids between platforms?](https://www.reddit.com/r/androiddev/comments/1izkv22/how_do_you_synchronize_on_strings_ids_between/)
-- [Coroutine flows best practice?](https://www.reddit.com/r/androiddev/comments/1izji3m/coroutine_flows_best_practice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
