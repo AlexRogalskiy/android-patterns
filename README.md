@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Romain Guy is leaving google](https://www.reddit.com/r/androiddev/comments/1j3qgar/romain_guy_is_leaving_google/)
+- [Which is better, empty Composable block, or null?](https://www.reddit.com/r/androiddev/comments/1j3oxeu/which_is_better_empty_composable_block_or_null/)
+- [Samsung not loading maps - Android Maps SDK](https://www.reddit.com/r/androiddev/comments/1j3oftq/samsung_not_loading_maps_android_maps_sdk/)
+- [Galaxy S25 Ultra Misreporting Refresh Rate in Android API](https://www.reddit.com/r/androiddev/comments/1j3nycn/galaxy_s25_ultra_misreporting_refresh_rate_in/)
+- [ADB Ep. 213: Compose runtime and performance](https://www.reddit.com/r/androiddev/comments/1j3mpkb/adb_ep_213_compose_runtime_and_performance/)
+- [Android Studio Meerkat | 2024.3.1 now available](https://www.reddit.com/r/androiddev/comments/1j3igyh/android_studio_meerkat_202431_now_available/)
+- [Issues using weight modifier](https://www.reddit.com/r/androiddev/comments/1j39m0p/issues_using_weight_modifier/)
+- [migrate fragments transaction to compose navigation](https://www.reddit.com/r/androiddev/comments/1j38edm/migrate_fragments_transaction_to_compose/)
+- [Future of AndroidDev with Vinay Gaba · Fragmented #257](https://www.reddit.com/r/androiddev/comments/1j34lw0/future_of_androiddev_with_vinay_gaba_fragmented/)
 - [InfiniteTransitions and memory pressure](https://www.reddit.com/r/androiddev/comments/1j2pdal/infinitetransitions_and_memory_pressure/)
-- [New Open Source Library for managing Permissions in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1j2oydv/new_open_source_library_for_managing_permissions/)
-- [I made a gradle task but it has a bug](https://www.reddit.com/r/androiddev/comments/1j2jyus/i_made_a_gradle_task_but_it_has_a_bug/)
-- [How is the IP subnet for Wi-Fi hotspot chosen on Android?](https://www.reddit.com/r/androiddev/comments/1j2b0n8/how_is_the_ip_subnet_for_wifi_hotspot_chosen_on/)
-- [Android studio process uses 15 gb on Macbook M2](https://www.reddit.com/r/androiddev/comments/1j216pu/android_studio_process_uses_15_gb_on_macbook_m2/)
-- [Fleet vs Android Studio with KMP](https://www.reddit.com/r/androiddev/comments/1j202pj/fleet_vs_android_studio_with_kmp/)
-- [Method to implement serverless IAP?](https://www.reddit.com/r/androiddev/comments/1j1e64m/method_to_implement_serverless_iap/)
-- [Is there any need for constraint layout in Compose?](https://www.reddit.com/r/androiddev/comments/1j0xrqx/is_there_any_need_for_constraint_layout_in_compose/)
-- [Good resources to learn testing?](https://www.reddit.com/r/androiddev/comments/1j0ctqw/good_resources_to_learn_testing/)
-- [Best Approach for Database Structure in a Multi-Module Android App?](https://www.reddit.com/r/androiddev/comments/1izym8f/best_approach_for_database_structure_in_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
