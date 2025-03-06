@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Smooth scroll in lazy layout](https://www.reddit.com/r/androiddev/comments/1j4dtul/smooth_scroll_in_lazy_layout/)
+- [Help finding right audio format for gapless loops](https://www.reddit.com/r/androiddev/comments/1j4d078/help_finding_right_audio_format_for_gapless_loops/)
+- [When to use Fragments vs Activities?](https://www.reddit.com/r/androiddev/comments/1j45n9g/when_to_use_fragments_vs_activities/)
+- [Testing: Instrumentation vs Integration vs Unit vs UI](https://www.reddit.com/r/androiddev/comments/1j3sirh/testing_instrumentation_vs_integration_vs_unit_vs/)
 - [Romain Guy is leaving google](https://www.reddit.com/r/androiddev/comments/1j3qgar/romain_guy_is_leaving_google/)
 - [Which is better, empty Composable block, or null?](https://www.reddit.com/r/androiddev/comments/1j3oxeu/which_is_better_empty_composable_block_or_null/)
 - [Samsung not loading maps - Android Maps SDK](https://www.reddit.com/r/androiddev/comments/1j3oftq/samsung_not_loading_maps_android_maps_sdk/)
 - [Galaxy S25 Ultra Misreporting Refresh Rate in Android API](https://www.reddit.com/r/androiddev/comments/1j3nycn/galaxy_s25_ultra_misreporting_refresh_rate_in/)
 - [ADB Ep. 213: Compose runtime and performance](https://www.reddit.com/r/androiddev/comments/1j3mpkb/adb_ep_213_compose_runtime_and_performance/)
 - [Android Studio Meerkat | 2024.3.1 now available](https://www.reddit.com/r/androiddev/comments/1j3igyh/android_studio_meerkat_202431_now_available/)
-- [Issues using weight modifier](https://www.reddit.com/r/androiddev/comments/1j39m0p/issues_using_weight_modifier/)
-- [migrate fragments transaction to compose navigation](https://www.reddit.com/r/androiddev/comments/1j38edm/migrate_fragments_transaction_to_compose/)
-- [Future of AndroidDev with Vinay Gaba · Fragmented #257](https://www.reddit.com/r/androiddev/comments/1j34lw0/future_of_androiddev_with_vinay_gaba_fragmented/)
-- [InfiniteTransitions and memory pressure](https://www.reddit.com/r/androiddev/comments/1j2pdal/infinitetransitions_and_memory_pressure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
