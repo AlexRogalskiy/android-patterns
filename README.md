@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to reduce gradle build time](https://www.reddit.com/r/androiddev/comments/1j50qfo/how_to_reduce_gradle_build_time/)
-- [Hide Soft Keyboard](https://www.reddit.com/r/androiddev/comments/1j4znzu/hide_soft_keyboard/)
-- [Will delay&lpar;&rpar; block ui thread in Main Dispatcher? What makes Coroutines &quot;different&quot;!](https://www.reddit.com/r/androiddev/comments/1j4wkht/will_delay_block_ui_thread_in_main_dispatcher/)
-- [How we implemented our Magic Eraser feature in the ProperShot android app](https://www.reddit.com/r/androiddev/comments/1j4r3r0/how_we_implemented_our_magic_eraser_feature_in/)
-- [Clock widget without exact alarm permission and without disabling battery optimization?](https://www.reddit.com/r/androiddev/comments/1j4pm2e/clock_widget_without_exact_alarm_permission_and/)
-- [Smooth scroll in lazy layout](https://www.reddit.com/r/androiddev/comments/1j4dtul/smooth_scroll_in_lazy_layout/)
-- [Help finding right audio format for gapless loops](https://www.reddit.com/r/androiddev/comments/1j4d078/help_finding_right_audio_format_for_gapless_loops/)
-- [When to use Fragments vs Activities?](https://www.reddit.com/r/androiddev/comments/1j45n9g/when_to_use_fragments_vs_activities/)
-- [Testing: Instrumentation vs Integration vs Unit vs UI](https://www.reddit.com/r/androiddev/comments/1j3sirh/testing_instrumentation_vs_integration_vs_unit_vs/)
-- [Romain Guy is leaving google](https://www.reddit.com/r/androiddev/comments/1j3qgar/romain_guy_is_leaving_google/)
+- [Why am I seeing tons of attempted IAPs coming from China?](https://www.reddit.com/r/androiddev/comments/1j63qbr/why_am_i_seeing_tons_of_attempted_iaps_coming/)
+- [Structural: A lightweight Gradle plugin for enforcing package dependency rules in Android &amp; Kotlin projects](https://www.reddit.com/r/androiddev/comments/1j626bz/structural_a_lightweight_gradle_plugin_for/)
+- [How to pass parameter in new &lpar;refied&rpar; compose navigation with nested nav graphs?](https://www.reddit.com/r/androiddev/comments/1j61trf/how_to_pass_parameter_in_new_refied_compose/)
+- [Is there an official list of current or upcoming devices supporting the 16kb page sizes?](https://www.reddit.com/r/androiddev/comments/1j60hip/is_there_an_official_list_of_current_or_upcoming/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1j5ykyr/android_studio_meerkat_feature_drop_202432_canary/)
+- [actor4k: A small actor system written in kotlin using Coroutines.](https://www.reddit.com/r/androiddev/comments/1j5t2xu/actor4k_a_small_actor_system_written_in_kotlin/)
+- [Any good repos out there that show how to do manual dependency injection?](https://www.reddit.com/r/androiddev/comments/1j5sk39/any_good_repos_out_there_that_show_how_to_do/)
+- [For any devs using Kotlin Multiplatform or Flutter - Why?](https://www.reddit.com/r/androiddev/comments/1j5q1mw/for_any_devs_using_kotlin_multiplatform_or/)
+- [android motion capture sample](https://www.reddit.com/r/androiddev/comments/1j5l0ip/android_motion_capture_sample/)
+- [Android Resource Review Plugin](https://www.reddit.com/r/androiddev/comments/1j5jry8/android_resource_review_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
