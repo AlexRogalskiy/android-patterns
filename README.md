@@ -271,6 +271,7 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lumo UI demos are now interactive on the website](https://www.reddit.com/r/androiddev/comments/1j6edrj/lumo_ui_demos_are_now_interactive_on_the_website/)
 - [Why am I seeing tons of attempted IAPs coming from China?](https://www.reddit.com/r/androiddev/comments/1j63qbr/why_am_i_seeing_tons_of_attempted_iaps_coming/)
 - [Structural: A lightweight Gradle plugin for enforcing package dependency rules in Android &amp; Kotlin projects](https://www.reddit.com/r/androiddev/comments/1j626bz/structural_a_lightweight_gradle_plugin_for/)
 - [How to pass parameter in new &lpar;refied&rpar; compose navigation with nested nav graphs?](https://www.reddit.com/r/androiddev/comments/1j61trf/how_to_pass_parameter_in_new_refied_compose/)
@@ -280,7 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Any good repos out there that show how to do manual dependency injection?](https://www.reddit.com/r/androiddev/comments/1j5sk39/any_good_repos_out_there_that_show_how_to_do/)
 - [For any devs using Kotlin Multiplatform or Flutter - Why?](https://www.reddit.com/r/androiddev/comments/1j5q1mw/for_any_devs_using_kotlin_multiplatform_or/)
 - [android motion capture sample](https://www.reddit.com/r/androiddev/comments/1j5l0ip/android_motion_capture_sample/)
-- [Android Resource Review Plugin](https://www.reddit.com/r/androiddev/comments/1j5jry8/android_resource_review_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
