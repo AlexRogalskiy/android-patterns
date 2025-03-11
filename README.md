@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building an Android Smart Gallery App to Organize Images](https://www.reddit.com/r/androiddev/comments/1j7dl8a/building_an_android_smart_gallery_app_to_organize/)
-- [Any success stories of avoiding revealing PII on play store?](https://www.reddit.com/r/androiddev/comments/1j79vko/any_success_stories_of_avoiding_revealing_pii_on/)
-- [Best Books &amp; Video Courses for Android Security &lpar;Keystore, ProGuard, SSL/TLS, TrustStore, CA Certs&rpar;?](https://www.reddit.com/r/androiddev/comments/1j71w2a/best_books_video_courses_for_android_security/)
-- [Lumo UI demos are now interactive on the website](https://www.reddit.com/r/androiddev/comments/1j6edrj/lumo_ui_demos_are_now_interactive_on_the_website/)
-- [Why am I seeing tons of attempted IAPs coming from China?](https://www.reddit.com/r/androiddev/comments/1j63qbr/why_am_i_seeing_tons_of_attempted_iaps_coming/)
-- [Structural: A lightweight Gradle plugin for enforcing package dependency rules in Android &amp; Kotlin projects](https://www.reddit.com/r/androiddev/comments/1j626bz/structural_a_lightweight_gradle_plugin_for/)
-- [How to pass parameter in new &lpar;refied&rpar; compose navigation with nested nav graphs?](https://www.reddit.com/r/androiddev/comments/1j61trf/how_to_pass_parameter_in_new_refied_compose/)
-- [Is there an official list of current or upcoming devices supporting the 16kb page sizes?](https://www.reddit.com/r/androiddev/comments/1j60hip/is_there_an_official_list_of_current_or_upcoming/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1j5ykyr/android_studio_meerkat_feature_drop_202432_canary/)
-- [actor4k: A small actor system written in kotlin using Coroutines.](https://www.reddit.com/r/androiddev/comments/1j5t2xu/actor4k_a_small_actor_system_written_in_kotlin/)
+- [Strategies for Migrating Large Legacy App: Views + ViewModels](https://www.reddit.com/r/androiddev/comments/1j8fnff/strategies_for_migrating_large_legacy_app_views/)
+- [JetBrains seems released AI Assistant for Android Studio Meerkat](https://www.reddit.com/r/androiddev/comments/1j87sod/jetbrains_seems_released_ai_assistant_for_android/)
+- [Conversion from VB/SQL running on Windows Mobile Embedded](https://www.reddit.com/r/androiddev/comments/1j87aq4/conversion_from_vbsql_running_on_windows_mobile/)
+- [Best approach to get User data with MVVM?](https://www.reddit.com/r/androiddev/comments/1j83v7g/best_approach_to_get_user_data_with_mvvm/)
+- [Complex Views in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1j7vwns/complex_views_in_jetpack_compose/)
+- [Compose Multiplatform search bar](https://www.reddit.com/r/androiddev/comments/1j7um1n/compose_multiplatform_search_bar/)
+- [Is it possible to ask user for feedback when they uninstall an app on Google Play?](https://www.reddit.com/r/androiddev/comments/1j7tujw/is_it_possible_to_ask_user_for_feedback_when_they/)
+- [How to change display size programmatically?](https://www.reddit.com/r/androiddev/comments/1j7qwpr/how_to_change_display_size_programmatically/)
+- [Accessibility Plugin for Android Studio](https://www.reddit.com/r/androiddev/comments/1j7mqwf/accessibility_plugin_for_android_studio/)
+- [Opportunity to work at xAI on Grok Android App](https://www.reddit.com/r/androiddev/comments/1j7fy21/opportunity_to_work_at_xai_on_grok_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
