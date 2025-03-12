@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I created non-recomposing size modifiers to avoid too many recompositions during animations.](https://www.reddit.com/r/androiddev/comments/1j94vzr/i_created_nonrecomposing_size_modifiers_to_avoid/)
+- [Fernando Cejas - Architecting Android…Reloaded &lpar;including: why prefer modularization by feature, not by layers&rpar;](https://www.reddit.com/r/androiddev/comments/1j8zaq0/fernando_cejas_architecting_androidreloaded/)
+- [DroidCon Video Insights: Tackling ANRs and Performance Woes](https://www.reddit.com/r/androiddev/comments/1j8qkmn/droidcon_video_insights_tackling_anrs_and/)
+- [AI Assistant Comes to Kotlin Developers in Android Studio](https://www.reddit.com/r/androiddev/comments/1j8p07z/ai_assistant_comes_to_kotlin_developers_in/)
+- [Biggest Problem with Jetpack Compose: Performance](https://www.reddit.com/r/androiddev/comments/1j8m7yl/biggest_problem_with_jetpack_compose_performance/)
 - [Strategies for Migrating Large Legacy App: Views + ViewModels](https://www.reddit.com/r/androiddev/comments/1j8fnff/strategies_for_migrating_large_legacy_app_views/)
 - [JetBrains seems released AI Assistant for Android Studio Meerkat](https://www.reddit.com/r/androiddev/comments/1j87sod/jetbrains_seems_released_ai_assistant_for_android/)
 - [Conversion from VB/SQL running on Windows Mobile Embedded](https://www.reddit.com/r/androiddev/comments/1j87aq4/conversion_from_vbsql_running_on_windows_mobile/)
 - [Best approach to get User data with MVVM?](https://www.reddit.com/r/androiddev/comments/1j83v7g/best_approach_to_get_user_data_with_mvvm/)
 - [Complex Views in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1j7vwns/complex_views_in_jetpack_compose/)
-- [Compose Multiplatform search bar](https://www.reddit.com/r/androiddev/comments/1j7um1n/compose_multiplatform_search_bar/)
-- [Is it possible to ask user for feedback when they uninstall an app on Google Play?](https://www.reddit.com/r/androiddev/comments/1j7tujw/is_it_possible_to_ask_user_for_feedback_when_they/)
-- [How to change display size programmatically?](https://www.reddit.com/r/androiddev/comments/1j7qwpr/how_to_change_display_size_programmatically/)
-- [Accessibility Plugin for Android Studio](https://www.reddit.com/r/androiddev/comments/1j7mqwf/accessibility_plugin_for_android_studio/)
-- [Opportunity to work at xAI on Grok Android App](https://www.reddit.com/r/androiddev/comments/1j7fy21/opportunity_to_work_at_xai_on_grok_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
