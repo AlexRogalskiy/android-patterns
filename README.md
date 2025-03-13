@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [First android app](https://www.reddit.com/r/androiddev/comments/1j9q3bh/first_android_app/)
+- [Bottom Nav Bar in Compose](https://www.reddit.com/r/androiddev/comments/1j9peut/bottom_nav_bar_in_compose/)
+- [How important is the 8-point grid system?](https://www.reddit.com/r/androiddev/comments/1j9hs3j/how_important_is_the_8point_grid_system/)
+- [Customize Text Selection Toolbar in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1j9gol0/customize_text_selection_toolbar_in_jetpack/)
+- [How to hide a Header when scrolling down](https://www.reddit.com/r/androiddev/comments/1j9fil3/how_to_hide_a_header_when_scrolling_down/)
+- [How to have access to full viewmodel with dagger 2 di inside test class to test compose ui elements.](https://www.reddit.com/r/androiddev/comments/1j9en30/how_to_have_access_to_full_viewmodel_with_dagger/)
+- [ANR on devices with RAM &lt;= 1024MB](https://www.reddit.com/r/androiddev/comments/1j9dtby/anr_on_devices_with_ram_1024mb/)
+- [What&#39;s the proper way to manage variations across build variants for white label apps?](https://www.reddit.com/r/androiddev/comments/1j9czck/whats_the_proper_way_to_manage_variations_across/)
 - [I created non-recomposing size modifiers to avoid too many recompositions during animations.](https://www.reddit.com/r/androiddev/comments/1j94vzr/i_created_nonrecomposing_size_modifiers_to_avoid/)
 - [Fernando Cejas - Architecting Android…Reloaded &lpar;including: why prefer modularization by feature, not by layers&rpar;](https://www.reddit.com/r/androiddev/comments/1j8zaq0/fernando_cejas_architecting_androidreloaded/)
-- [DroidCon Video Insights: Tackling ANRs and Performance Woes](https://www.reddit.com/r/androiddev/comments/1j8qkmn/droidcon_video_insights_tackling_anrs_and/)
-- [AI Assistant Comes to Kotlin Developers in Android Studio](https://www.reddit.com/r/androiddev/comments/1j8p07z/ai_assistant_comes_to_kotlin_developers_in/)
-- [Biggest Problem with Jetpack Compose: Performance](https://www.reddit.com/r/androiddev/comments/1j8m7yl/biggest_problem_with_jetpack_compose_performance/)
-- [Strategies for Migrating Large Legacy App: Views + ViewModels](https://www.reddit.com/r/androiddev/comments/1j8fnff/strategies_for_migrating_large_legacy_app_views/)
-- [JetBrains seems released AI Assistant for Android Studio Meerkat](https://www.reddit.com/r/androiddev/comments/1j87sod/jetbrains_seems_released_ai_assistant_for_android/)
-- [Conversion from VB/SQL running on Windows Mobile Embedded](https://www.reddit.com/r/androiddev/comments/1j87aq4/conversion_from_vbsql_running_on_windows_mobile/)
-- [Best approach to get User data with MVVM?](https://www.reddit.com/r/androiddev/comments/1j83v7g/best_approach_to_get_user_data_with_mvvm/)
-- [Complex Views in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1j7vwns/complex_views_in_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
