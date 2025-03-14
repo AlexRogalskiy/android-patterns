@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [First android app](https://www.reddit.com/r/androiddev/comments/1j9q3bh/first_android_app/)
-- [Bottom Nav Bar in Compose](https://www.reddit.com/r/androiddev/comments/1j9peut/bottom_nav_bar_in_compose/)
-- [How important is the 8-point grid system?](https://www.reddit.com/r/androiddev/comments/1j9hs3j/how_important_is_the_8point_grid_system/)
-- [Customize Text Selection Toolbar in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1j9gol0/customize_text_selection_toolbar_in_jetpack/)
-- [How to hide a Header when scrolling down](https://www.reddit.com/r/androiddev/comments/1j9fil3/how_to_hide_a_header_when_scrolling_down/)
-- [How to have access to full viewmodel with dagger 2 di inside test class to test compose ui elements.](https://www.reddit.com/r/androiddev/comments/1j9en30/how_to_have_access_to_full_viewmodel_with_dagger/)
-- [ANR on devices with RAM &lt;= 1024MB](https://www.reddit.com/r/androiddev/comments/1j9dtby/anr_on_devices_with_ram_1024mb/)
-- [What&#39;s the proper way to manage variations across build variants for white label apps?](https://www.reddit.com/r/androiddev/comments/1j9czck/whats_the_proper_way_to_manage_variations_across/)
-- [I created non-recomposing size modifiers to avoid too many recompositions during animations.](https://www.reddit.com/r/androiddev/comments/1j94vzr/i_created_nonrecomposing_size_modifiers_to_avoid/)
-- [Fernando Cejas - Architecting Android…Reloaded &lpar;including: why prefer modularization by feature, not by layers&rpar;](https://www.reddit.com/r/androiddev/comments/1j8zaq0/fernando_cejas_architecting_androidreloaded/)
+- [SDK Activity communication with host app](https://www.reddit.com/r/androiddev/comments/1jakrb0/sdk_activity_communication_with_host_app/)
+- [Jetpack Compose different AppBar setting for each screen](https://www.reddit.com/r/androiddev/comments/1jakk02/jetpack_compose_different_appbar_setting_for_each/)
+- [Build a Swipeable Image Carousel with Smooth Animations in Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/1jaisq3/build_a_swipeable_image_carousel_with_smooth/)
+- [Android Developers Blog: Multimodal image attachment is now available for Gemini in Android Studio](https://www.reddit.com/r/androiddev/comments/1jah2yj/android_developers_blog_multimodal_image/)
+- [Unit Testing Lifecycle and State in ViewModels](https://www.reddit.com/r/androiddev/comments/1jagtnb/unit_testing_lifecycle_and_state_in_viewmodels/)
+- [CompositionLocalProvider LocalTextInputService alternative](https://www.reddit.com/r/androiddev/comments/1jagdsv/compositionlocalprovider_localtextinputservice/)
+- [Media3 Transformer never transforms](https://www.reddit.com/r/androiddev/comments/1jag4h2/media3_transformer_never_transforms/)
+- [&quot;App startup impacts everything: every time a developer starts the app or a tester runs a test, they pay the app startup tax&quot; - Reddit app’s journey from 12.3 seconds to 3 seconds](https://www.reddit.com/r/androiddev/comments/1jad8y3/app_startup_impacts_everything_every_time_a/)
+- [Using Stripe Atlas as a non us individual to be able to add apps into the app store?](https://www.reddit.com/r/androiddev/comments/1ja903x/using_stripe_atlas_as_a_non_us_individual_to_be/)
+- [Developer option force dark mode changes app colors](https://www.reddit.com/r/androiddev/comments/1ja8tqn/developer_option_force_dark_mode_changes_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
