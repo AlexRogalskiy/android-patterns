@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compose Navigation](https://www.reddit.com/r/androiddev/comments/1jbiti1/compose_navigation/)
+- [Seeking Android Developer - Short term assistance](https://www.reddit.com/r/androiddev/comments/1jbhxjf/seeking_android_developer_short_term_assistance/)
+- [Compose preview collapses and disappears in interactive mode if it contains Scaffold](https://www.reddit.com/r/androiddev/comments/1jb97ez/compose_preview_collapses_and_disappears_in/)
+- [Vulkan is now the official graphics API for Android](https://www.reddit.com/r/androiddev/comments/1jawo7g/vulkan_is_now_the_official_graphics_api_for/)
+- [Is there anyway we can implement chart in widget using Glance?](https://www.reddit.com/r/androiddev/comments/1jau9rt/is_there_anyway_we_can_implement_chart_in_widget/)
 - [SDK Activity communication with host app](https://www.reddit.com/r/androiddev/comments/1jakrb0/sdk_activity_communication_with_host_app/)
 - [Jetpack Compose different AppBar setting for each screen](https://www.reddit.com/r/androiddev/comments/1jakk02/jetpack_compose_different_appbar_setting_for_each/)
 - [Build a Swipeable Image Carousel with Smooth Animations in Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/1jaisq3/build_a_swipeable_image_carousel_with_smooth/)
-- [Android Developers Blog: Multimodal image attachment is now available for Gemini in Android Studio](https://www.reddit.com/r/androiddev/comments/1jah2yj/android_developers_blog_multimodal_image/)
 - [Unit Testing Lifecycle and State in ViewModels](https://www.reddit.com/r/androiddev/comments/1jagtnb/unit_testing_lifecycle_and_state_in_viewmodels/)
 - [CompositionLocalProvider LocalTextInputService alternative](https://www.reddit.com/r/androiddev/comments/1jagdsv/compositionlocalprovider_localtextinputservice/)
-- [Media3 Transformer never transforms](https://www.reddit.com/r/androiddev/comments/1jag4h2/media3_transformer_never_transforms/)
-- [&quot;App startup impacts everything: every time a developer starts the app or a tester runs a test, they pay the app startup tax&quot; - Reddit app’s journey from 12.3 seconds to 3 seconds](https://www.reddit.com/r/androiddev/comments/1jad8y3/app_startup_impacts_everything_every_time_a/)
-- [Using Stripe Atlas as a non us individual to be able to add apps into the app store?](https://www.reddit.com/r/androiddev/comments/1ja903x/using_stripe_atlas_as_a_non_us_individual_to_be/)
-- [Developer option force dark mode changes app colors](https://www.reddit.com/r/androiddev/comments/1ja8tqn/developer_option_force_dark_mode_changes_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
