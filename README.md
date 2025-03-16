@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cannot test Gemini Vertex API via emulator on mobile](https://www.reddit.com/r/androiddev/comments/1jc5a2o/cannot_test_gemini_vertex_api_via_emulator_on/)
+- [A guy is writing a same review to my apps](https://www.reddit.com/r/androiddev/comments/1jc515v/a_guy_is_writing_a_same_review_to_my_apps/)
+- [Understanding ViewModel Scoping in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1jc1vk6/understanding_viewmodel_scoping_in_jetpack_compose/)
+- [Does anyone know &lpar;or know how I can find out for myself&rpar; whether or not there will be an ability to have Kotlin apps/widgets run bash scripts and get information from the new Linux containers they are rolling out?](https://www.reddit.com/r/androiddev/comments/1jbze6w/does_anyone_know_or_know_how_i_can_find_out_for/)
+- [Why do we need Composition Local Provider, when we can just declare everything inside a data class?](https://www.reddit.com/r/androiddev/comments/1jbz18l/why_do_we_need_composition_local_provider_when_we/)
+- [What RTC platforms do you use for group audio chat?](https://www.reddit.com/r/androiddev/comments/1jbv13p/what_rtc_platforms_do_you_use_for_group_audio_chat/)
+- [Layouttesting on Android](https://www.reddit.com/r/androiddev/comments/1jbtqng/layouttesting_on_android/)
+- [Senior Android Developer with a family: how do you find time for open-source projects?](https://www.reddit.com/r/androiddev/comments/1jbqn8w/senior_android_developer_with_a_family_how_do_you/)
 - [Compose Navigation](https://www.reddit.com/r/androiddev/comments/1jbiti1/compose_navigation/)
 - [Seeking Android Developer - Short term assistance](https://www.reddit.com/r/androiddev/comments/1jbhxjf/seeking_android_developer_short_term_assistance/)
-- [Compose preview collapses and disappears in interactive mode if it contains Scaffold](https://www.reddit.com/r/androiddev/comments/1jb97ez/compose_preview_collapses_and_disappears_in/)
-- [Vulkan is now the official graphics API for Android](https://www.reddit.com/r/androiddev/comments/1jawo7g/vulkan_is_now_the_official_graphics_api_for/)
-- [Is there anyway we can implement chart in widget using Glance?](https://www.reddit.com/r/androiddev/comments/1jau9rt/is_there_anyway_we_can_implement_chart_in_widget/)
-- [SDK Activity communication with host app](https://www.reddit.com/r/androiddev/comments/1jakrb0/sdk_activity_communication_with_host_app/)
-- [Jetpack Compose different AppBar setting for each screen](https://www.reddit.com/r/androiddev/comments/1jakk02/jetpack_compose_different_appbar_setting_for_each/)
-- [Build a Swipeable Image Carousel with Smooth Animations in Jetpack Compose!](https://www.reddit.com/r/androiddev/comments/1jaisq3/build_a_swipeable_image_carousel_with_smooth/)
-- [Unit Testing Lifecycle and State in ViewModels](https://www.reddit.com/r/androiddev/comments/1jagtnb/unit_testing_lifecycle_and_state_in_viewmodels/)
-- [CompositionLocalProvider LocalTextInputService alternative](https://www.reddit.com/r/androiddev/comments/1jagdsv/compositionlocalprovider_localtextinputservice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
