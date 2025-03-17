@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Streamlining Navigation in Jetpack Compose with a Handy Extension Function](https://www.reddit.com/r/androiddev/comments/1jcxlwm/streamlining_navigation_in_jetpack_compose_with_a/)
+- [Can I not have the top fixed when the keyboard comes up? I want to see the top result](https://www.reddit.com/r/androiddev/comments/1jct6hn/can_i_not_have_the_top_fixed_when_the_keyboard/)
+- [Is there a way &lpar;or tool&rpar; to measure code coverage for Composables?](https://www.reddit.com/r/androiddev/comments/1jcs214/is_there_a_way_or_tool_to_measure_code_coverage/)
+- [A beginners&#39; Guide to Understanding Notifications in Android](https://www.reddit.com/r/androiddev/comments/1jckh4x/a_beginners_guide_to_understanding_notifications/)
+- [My first open-source handwriting project: Aiming to provide advanced drawing tools!](https://www.reddit.com/r/androiddev/comments/1jcfidg/my_first_opensource_handwriting_project_aiming_to/)
 - [Cannot test Gemini Vertex API via emulator on mobile](https://www.reddit.com/r/androiddev/comments/1jc5a2o/cannot_test_gemini_vertex_api_via_emulator_on/)
-- [A guy is writing a same review to my apps](https://www.reddit.com/r/androiddev/comments/1jc515v/a_guy_is_writing_a_same_review_to_my_apps/)
 - [Understanding ViewModel Scoping in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1jc1vk6/understanding_viewmodel_scoping_in_jetpack_compose/)
 - [Does anyone know &lpar;or know how I can find out for myself&rpar; whether or not there will be an ability to have Kotlin apps/widgets run bash scripts and get information from the new Linux containers they are rolling out?](https://www.reddit.com/r/androiddev/comments/1jbze6w/does_anyone_know_or_know_how_i_can_find_out_for/)
 - [Why do we need Composition Local Provider, when we can just declare everything inside a data class?](https://www.reddit.com/r/androiddev/comments/1jbz18l/why_do_we_need_composition_local_provider_when_we/)
 - [What RTC platforms do you use for group audio chat?](https://www.reddit.com/r/androiddev/comments/1jbv13p/what_rtc_platforms_do_you_use_for_group_audio_chat/)
-- [Layouttesting on Android](https://www.reddit.com/r/androiddev/comments/1jbtqng/layouttesting_on_android/)
-- [Senior Android Developer with a family: how do you find time for open-source projects?](https://www.reddit.com/r/androiddev/comments/1jbqn8w/senior_android_developer_with_a_family_how_do_you/)
-- [Compose Navigation](https://www.reddit.com/r/androiddev/comments/1jbiti1/compose_navigation/)
-- [Seeking Android Developer - Short term assistance](https://www.reddit.com/r/androiddev/comments/1jbhxjf/seeking_android_developer_short_term_assistance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
