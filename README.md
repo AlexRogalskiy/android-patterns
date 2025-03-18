@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Transfering app to new account without getting banned](https://www.reddit.com/r/androiddev/comments/1jdo6xx/transfering_app_to_new_account_without_getting/)
+- [Options for crash monitoring?](https://www.reddit.com/r/androiddev/comments/1jdhyxl/options_for_crash_monitoring/)
+- [The new warnings added on Google Play are a very bad addition to the store](https://www.reddit.com/r/androiddev/comments/1jddo84/the_new_warnings_added_on_google_play_are_a_very/)
+- [Using google maps on android: Do we really need to have to insert the API key inside the android Manifest? Is that dangerous? How to protect yourself?](https://www.reddit.com/r/androiddev/comments/1jdbi1z/using_google_maps_on_android_do_we_really_need_to/)
+- [Why is Google tolerating apps having their own built in browser that doesn&#39;t let you open any links externally, or even copy them?](https://www.reddit.com/r/androiddev/comments/1jd8xg4/why_is_google_tolerating_apps_having_their_own/)
+- [Gradle Build Failing on Azure Pipelines Due to RAM Limitations](https://www.reddit.com/r/androiddev/comments/1jd8k41/gradle_build_failing_on_azure_pipelines_due_to/)
+- [Does stateflow resend old value when you return from backround?](https://www.reddit.com/r/androiddev/comments/1jd2e95/does_stateflow_resend_old_value_when_you_return/)
+- [My recent experience of publishing to Android Play Store, step by step guide.](https://www.reddit.com/r/androiddev/comments/1jd0w5i/my_recent_experience_of_publishing_to_android/)
 - [Streamlining Navigation in Jetpack Compose with a Handy Extension Function](https://www.reddit.com/r/androiddev/comments/1jcxlwm/streamlining_navigation_in_jetpack_compose_with_a/)
 - [Can I not have the top fixed when the keyboard comes up? I want to see the top result](https://www.reddit.com/r/androiddev/comments/1jct6hn/can_i_not_have_the_top_fixed_when_the_keyboard/)
-- [Is there a way &lpar;or tool&rpar; to measure code coverage for Composables?](https://www.reddit.com/r/androiddev/comments/1jcs214/is_there_a_way_or_tool_to_measure_code_coverage/)
-- [A beginners&#39; Guide to Understanding Notifications in Android](https://www.reddit.com/r/androiddev/comments/1jckh4x/a_beginners_guide_to_understanding_notifications/)
-- [My first open-source handwriting project: Aiming to provide advanced drawing tools!](https://www.reddit.com/r/androiddev/comments/1jcfidg/my_first_opensource_handwriting_project_aiming_to/)
-- [Cannot test Gemini Vertex API via emulator on mobile](https://www.reddit.com/r/androiddev/comments/1jc5a2o/cannot_test_gemini_vertex_api_via_emulator_on/)
-- [Understanding ViewModel Scoping in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1jc1vk6/understanding_viewmodel_scoping_in_jetpack_compose/)
-- [Does anyone know &lpar;or know how I can find out for myself&rpar; whether or not there will be an ability to have Kotlin apps/widgets run bash scripts and get information from the new Linux containers they are rolling out?](https://www.reddit.com/r/androiddev/comments/1jbze6w/does_anyone_know_or_know_how_i_can_find_out_for/)
-- [Why do we need Composition Local Provider, when we can just declare everything inside a data class?](https://www.reddit.com/r/androiddev/comments/1jbz18l/why_do_we_need_composition_local_provider_when_we/)
-- [What RTC platforms do you use for group audio chat?](https://www.reddit.com/r/androiddev/comments/1jbv13p/what_rtc_platforms_do_you_use_for_group_audio_chat/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
