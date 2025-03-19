@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [March 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1jegvig/march_2025_showcase/)
+- [Having trouble with your specific project? Updates, advice, and newbie questions for March 2025](https://www.reddit.com/r/androiddev/comments/1jegl7j/having_trouble_with_your_specific_project_updates/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1jefrch/android_studio_meerkat_feature_drop_202432_beta_1/)
+- [Tired of using Laravel as my backend. What are some services I can use as a backend to get my apps up and running quickly?](https://www.reddit.com/r/androiddev/comments/1jeavya/tired_of_using_laravel_as_my_backend_what_are/)
+- [How to handle realtime developer notifications for subscriptions on staging env?](https://www.reddit.com/r/androiddev/comments/1jeateh/how_to_handle_realtime_developer_notifications/)
+- [AGSL motion blur](https://www.reddit.com/r/androiddev/comments/1je6pf6/agsl_motion_blur/)
 - [Transfering app to new account without getting banned](https://www.reddit.com/r/androiddev/comments/1jdo6xx/transfering_app_to_new_account_without_getting/)
 - [Options for crash monitoring?](https://www.reddit.com/r/androiddev/comments/1jdhyxl/options_for_crash_monitoring/)
 - [The new warnings added on Google Play are a very bad addition to the store](https://www.reddit.com/r/androiddev/comments/1jddo84/the_new_warnings_added_on_google_play_are_a_very/)
 - [Using google maps on android: Do we really need to have to insert the API key inside the android Manifest? Is that dangerous? How to protect yourself?](https://www.reddit.com/r/androiddev/comments/1jdbi1z/using_google_maps_on_android_do_we_really_need_to/)
-- [Why is Google tolerating apps having their own built in browser that doesn&#39;t let you open any links externally, or even copy them?](https://www.reddit.com/r/androiddev/comments/1jd8xg4/why_is_google_tolerating_apps_having_their_own/)
-- [Gradle Build Failing on Azure Pipelines Due to RAM Limitations](https://www.reddit.com/r/androiddev/comments/1jd8k41/gradle_build_failing_on_azure_pipelines_due_to/)
-- [Does stateflow resend old value when you return from backround?](https://www.reddit.com/r/androiddev/comments/1jd2e95/does_stateflow_resend_old_value_when_you_return/)
-- [My recent experience of publishing to Android Play Store, step by step guide.](https://www.reddit.com/r/androiddev/comments/1jd0w5i/my_recent_experience_of_publishing_to_android/)
-- [Streamlining Navigation in Jetpack Compose with a Handy Extension Function](https://www.reddit.com/r/androiddev/comments/1jcxlwm/streamlining_navigation_in_jetpack_compose_with_a/)
-- [Can I not have the top fixed when the keyboard comes up? I want to see the top result](https://www.reddit.com/r/androiddev/comments/1jct6hn/can_i_not_have_the_top_fixed_when_the_keyboard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
