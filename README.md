@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a simple coding agent in Android Studio](https://www.reddit.com/r/androiddev/comments/1jfeibu/i_built_a_simple_coding_agent_in_android_studio/)
+- [Android Studio Narwhal | 2025.1.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1jfaeq8/android_studio_narwhal_202511_canary_1_now/)
+- [JetpackCompose.app&#39;s Dispatch Issue #11 - &#39;Future of Android&#39; special where Android experts share their views and hot takes about the future of Android and how to best prepare for it](https://www.reddit.com/r/androiddev/comments/1jf40gq/jetpackcomposeapps_dispatch_issue_11_future_of/)
+- [How do SHA keys and apps work? Do APPs save in memory their own sha? Do they have their own keytool?](https://www.reddit.com/r/androiddev/comments/1jf0io7/how_do_sha_keys_and_apps_work_do_apps_save_in/)
+- [how to get result from coroutine within a non-suspend function?](https://www.reddit.com/r/androiddev/comments/1jeusz0/how_to_get_result_from_coroutine_within_a/)
+- [Seamless Edge-to-Edge UI in Android 15](https://www.reddit.com/r/androiddev/comments/1jesi49/seamless_edgetoedge_ui_in_android_15/)
+- [Java 24 Delivers New Experimental and Many Final Features](https://www.reddit.com/r/androiddev/comments/1jeo2x8/java_24_delivers_new_experimental_and_many_final/)
 - [March 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1jegvig/march_2025_showcase/)
 - [Having trouble with your specific project? Updates, advice, and newbie questions for March 2025](https://www.reddit.com/r/androiddev/comments/1jegl7j/having_trouble_with_your_specific_project_updates/)
 - [Android Studio Meerkat Feature Drop | 2024.3.2 Beta 1 now available](https://www.reddit.com/r/androiddev/comments/1jefrch/android_studio_meerkat_feature_drop_202432_beta_1/)
-- [Tired of using Laravel as my backend. What are some services I can use as a backend to get my apps up and running quickly?](https://www.reddit.com/r/androiddev/comments/1jeavya/tired_of_using_laravel_as_my_backend_what_are/)
-- [How to handle realtime developer notifications for subscriptions on staging env?](https://www.reddit.com/r/androiddev/comments/1jeateh/how_to_handle_realtime_developer_notifications/)
-- [AGSL motion blur](https://www.reddit.com/r/androiddev/comments/1je6pf6/agsl_motion_blur/)
-- [Transfering app to new account without getting banned](https://www.reddit.com/r/androiddev/comments/1jdo6xx/transfering_app_to_new_account_without_getting/)
-- [Options for crash monitoring?](https://www.reddit.com/r/androiddev/comments/1jdhyxl/options_for_crash_monitoring/)
-- [The new warnings added on Google Play are a very bad addition to the store](https://www.reddit.com/r/androiddev/comments/1jddo84/the_new_warnings_added_on_google_play_are_a_very/)
-- [Using google maps on android: Do we really need to have to insert the API key inside the android Manifest? Is that dangerous? How to protect yourself?](https://www.reddit.com/r/androiddev/comments/1jdbi1z/using_google_maps_on_android_do_we_really_need_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
