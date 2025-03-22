@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for a android developer](https://www.reddit.com/r/androiddev/comments/1jgxpai/looking_for_a_android_developer/)
+- [Dragon Dex available! An app for the community](https://www.reddit.com/r/androiddev/comments/1jgl6d2/dragon_dex_available_an_app_for_the_community/)
+- [I am using a fully unrestricted API KEY &lpar;for developing purposes&rpar;, and still getting &quot;request denied&rpar; in my google maps sdk based app &lpar;Even billing is okay&rpar;](https://www.reddit.com/r/androiddev/comments/1jgkwic/i_am_using_a_fully_unrestricted_api_key_for/)
+- [How do I find devices to test on?](https://www.reddit.com/r/androiddev/comments/1jgdf9t/how_do_i_find_devices_to_test_on/)
+- [Android Studio Narwhal | 2025.1.1 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1jg3lfu/android_studio_narwhal_202511_canary_2_now/)
 - [Launching my first app on Google Play - my experience](https://www.reddit.com/r/androiddev/comments/1jg0p3s/launching_my_first_app_on_google_play_my/)
 - [ML Kit BarcodeScanner](https://www.reddit.com/r/androiddev/comments/1jfp6il/ml_kit_barcodescanner/)
 - [Kotlin 2.1.20 Released](https://www.reddit.com/r/androiddev/comments/1jfomug/kotlin_2120_released/)
 - [Is Android Development Harder to Learn Today? The Overload of Choices &amp; Opinions](https://www.reddit.com/r/androiddev/comments/1jfmpa0/is_android_development_harder_to_learn_today_the/)
-- [Is native android development really over for juniors looking for job?](https://www.reddit.com/r/androiddev/comments/1jflrvv/is_native_android_development_really_over_for/)
 - [Console Selling possible scam?](https://www.reddit.com/r/androiddev/comments/1jfkye1/console_selling_possible_scam/)
-- [I built a simple coding agent in Android Studio](https://www.reddit.com/r/androiddev/comments/1jfeibu/i_built_a_simple_coding_agent_in_android_studio/)
-- [Android Studio Narwhal | 2025.1.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1jfaeq8/android_studio_narwhal_202511_canary_1_now/)
-- [JetpackCompose.app&#39;s Dispatch Issue #11 - &#39;Future of Android&#39; special where Android experts share their views and hot takes about the future of Android and how to best prepare for it](https://www.reddit.com/r/androiddev/comments/1jf40gq/jetpackcomposeapps_dispatch_issue_11_future_of/)
-- [How do SHA keys and apps work? Do APPs save in memory their own sha? Do they have their own keytool?](https://www.reddit.com/r/androiddev/comments/1jf0io7/how_do_sha_keys_and_apps_work_do_apps_save_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
