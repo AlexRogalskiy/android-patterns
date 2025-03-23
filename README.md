@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LazyColumn animate first item appearance.](https://www.reddit.com/r/androiddev/comments/1jhoeca/lazycolumn_animate_first_item_appearance/)
+- [Should we stop using RealmDB in new projects?](https://www.reddit.com/r/androiddev/comments/1jhnekf/should_we_stop_using_realmdb_in_new_projects/)
+- [AnimatedSequence - Simple library to manage sequential animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1jhem2j/animatedsequence_simple_library_to_manage/)
+- [AutoPrefs: A Kotlin library for elegant SharedPreferences handling](https://www.reddit.com/r/androiddev/comments/1jhc6uw/autoprefs_a_kotlin_library_for_elegant/)
+- [Privacy concern about &quot;android.intent.action.MAIN&quot; intent in queries element](https://www.reddit.com/r/androiddev/comments/1jh5xdr/privacy_concern_about_androidintentactionmain/)
+- [Text Tools: An open source app that provides various text related functions on selected text](https://www.reddit.com/r/androiddev/comments/1jh5gte/text_tools_an_open_source_app_that_provides/)
+- [Weird behavior when opening my app on emulators and some devices: goes to the Play Store](https://www.reddit.com/r/androiddev/comments/1jh4wcg/weird_behavior_when_opening_my_app_on_emulators/)
+- [TextField data: StateFlow or Compose State](https://www.reddit.com/r/androiddev/comments/1jgzvn9/textfield_data_stateflow_or_compose_state/)
 - [Looking for a android developer](https://www.reddit.com/r/androiddev/comments/1jgxpai/looking_for_a_android_developer/)
 - [Dragon Dex available! An app for the community](https://www.reddit.com/r/androiddev/comments/1jgl6d2/dragon_dex_available_an_app_for_the_community/)
-- [I am using a fully unrestricted API KEY &lpar;for developing purposes&rpar;, and still getting &quot;request denied&rpar; in my google maps sdk based app &lpar;Even billing is okay&rpar;](https://www.reddit.com/r/androiddev/comments/1jgkwic/i_am_using_a_fully_unrestricted_api_key_for/)
-- [How do I find devices to test on?](https://www.reddit.com/r/androiddev/comments/1jgdf9t/how_do_i_find_devices_to_test_on/)
-- [Android Studio Narwhal | 2025.1.1 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1jg3lfu/android_studio_narwhal_202511_canary_2_now/)
-- [Launching my first app on Google Play - my experience](https://www.reddit.com/r/androiddev/comments/1jg0p3s/launching_my_first_app_on_google_play_my/)
-- [ML Kit BarcodeScanner](https://www.reddit.com/r/androiddev/comments/1jfp6il/ml_kit_barcodescanner/)
-- [Kotlin 2.1.20 Released](https://www.reddit.com/r/androiddev/comments/1jfomug/kotlin_2120_released/)
-- [Is Android Development Harder to Learn Today? The Overload of Choices &amp; Opinions](https://www.reddit.com/r/androiddev/comments/1jfmpa0/is_android_development_harder_to_learn_today_the/)
-- [Console Selling possible scam?](https://www.reddit.com/r/androiddev/comments/1jfkye1/console_selling_possible_scam/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
