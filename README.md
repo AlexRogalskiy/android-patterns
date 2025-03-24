@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TextFieldState for query textfield in search with pagination](https://www.reddit.com/r/androiddev/comments/1ji99xg/textfieldstate_for_query_textfield_in_search_with/)
+- [Creating formula for probability of text cut within bounds](https://www.reddit.com/r/androiddev/comments/1ji7skk/creating_formula_for_probability_of_text_cut/)
+- [A state-driven library for toasts, snackbars, and dialogs in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ji0pjg/a_statedriven_library_for_toasts_snackbars_and/)
+- [How to put watermark on image on the same relative position regardless of the device?](https://www.reddit.com/r/androiddev/comments/1ji0flz/how_to_put_watermark_on_image_on_the_same/)
 - [LazyColumn animate first item appearance.](https://www.reddit.com/r/androiddev/comments/1jhoeca/lazycolumn_animate_first_item_appearance/)
 - [Should we stop using RealmDB in new projects?](https://www.reddit.com/r/androiddev/comments/1jhnekf/should_we_stop_using_realmdb_in_new_projects/)
 - [AnimatedSequence - Simple library to manage sequential animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1jhem2j/animatedsequence_simple_library_to_manage/)
 - [AutoPrefs: A Kotlin library for elegant SharedPreferences handling](https://www.reddit.com/r/androiddev/comments/1jhc6uw/autoprefs_a_kotlin_library_for_elegant/)
 - [Privacy concern about &quot;android.intent.action.MAIN&quot; intent in queries element](https://www.reddit.com/r/androiddev/comments/1jh5xdr/privacy_concern_about_androidintentactionmain/)
 - [Text Tools: An open source app that provides various text related functions on selected text](https://www.reddit.com/r/androiddev/comments/1jh5gte/text_tools_an_open_source_app_that_provides/)
-- [Weird behavior when opening my app on emulators and some devices: goes to the Play Store](https://www.reddit.com/r/androiddev/comments/1jh4wcg/weird_behavior_when_opening_my_app_on_emulators/)
-- [TextField data: StateFlow or Compose State](https://www.reddit.com/r/androiddev/comments/1jgzvn9/textfield_data_stateflow_or_compose_state/)
-- [Looking for a android developer](https://www.reddit.com/r/androiddev/comments/1jgxpai/looking_for_a_android_developer/)
-- [Dragon Dex available! An app for the community](https://www.reddit.com/r/androiddev/comments/1jgl6d2/dragon_dex_available_an_app_for_the_community/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
