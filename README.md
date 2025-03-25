@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TextFieldState for query textfield in search with pagination](https://www.reddit.com/r/androiddev/comments/1ji99xg/textfieldstate_for_query_textfield_in_search_with/)
-- [Creating formula for probability of text cut within bounds](https://www.reddit.com/r/androiddev/comments/1ji7skk/creating_formula_for_probability_of_text_cut/)
-- [A state-driven library for toasts, snackbars, and dialogs in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ji0pjg/a_statedriven_library_for_toasts_snackbars_and/)
-- [How to put watermark on image on the same relative position regardless of the device?](https://www.reddit.com/r/androiddev/comments/1ji0flz/how_to_put_watermark_on_image_on_the_same/)
-- [LazyColumn animate first item appearance.](https://www.reddit.com/r/androiddev/comments/1jhoeca/lazycolumn_animate_first_item_appearance/)
-- [Should we stop using RealmDB in new projects?](https://www.reddit.com/r/androiddev/comments/1jhnekf/should_we_stop_using_realmdb_in_new_projects/)
-- [AnimatedSequence - Simple library to manage sequential animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1jhem2j/animatedsequence_simple_library_to_manage/)
-- [AutoPrefs: A Kotlin library for elegant SharedPreferences handling](https://www.reddit.com/r/androiddev/comments/1jhc6uw/autoprefs_a_kotlin_library_for_elegant/)
-- [Privacy concern about &quot;android.intent.action.MAIN&quot; intent in queries element](https://www.reddit.com/r/androiddev/comments/1jh5xdr/privacy_concern_about_androidintentactionmain/)
-- [Text Tools: An open source app that provides various text related functions on selected text](https://www.reddit.com/r/androiddev/comments/1jh5gte/text_tools_an_open_source_app_that_provides/)
+- [What is the proper way to delete a SQLDelight DB &lpar;KMP&rpar;](https://www.reddit.com/r/androiddev/comments/1jj4vrh/what_is_the_proper_way_to_delete_a_sqldelight_db/)
+- [App rejected due to crash but unable to reproduce or see any crash logs in Android Vitals](https://www.reddit.com/r/androiddev/comments/1jj25pp/app_rejected_due_to_crash_but_unable_to_reproduce/)
+- [Android Studio Meerkat | 2024.3.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1jix4vx/android_studio_meerkat_202431_patch_1_now/)
+- [Would you use a &#39;model-agnostic&#39; AI plugin for Android Studio that matches Gemini’s features?](https://www.reddit.com/r/androiddev/comments/1jix02e/would_you_use_a_modelagnostic_ai_plugin_for/)
+- [Is there an alternative way to use *Fractional Threshold* other that the deprecated one?](https://www.reddit.com/r/androiddev/comments/1jit7i8/is_there_an_alternative_way_to_use_fractional/)
+- [Any other mid to senior level Android devs having a tough time finding work right now?](https://www.reddit.com/r/androiddev/comments/1jit47g/any_other_mid_to_senior_level_android_devs_having/)
+- [Is there a way to implement guards/redirects for deep links in NavHost?](https://www.reddit.com/r/androiddev/comments/1jis45s/is_there_a_way_to_implement_guardsredirects_for/)
+- [is there a way I can automate this task of my job](https://www.reddit.com/r/androiddev/comments/1jipqfj/is_there_a_way_i_can_automate_this_task_of_my_job/)
+- [Jetpack Compose Syllabus for Developers](https://www.reddit.com/r/androiddev/comments/1jingrt/jetpack_compose_syllabus_for_developers/)
+- [How do you handle previews of screens with multiple view models?](https://www.reddit.com/r/androiddev/comments/1jilehz/how_do_you_handle_previews_of_screens_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
