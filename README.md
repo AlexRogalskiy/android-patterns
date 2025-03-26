@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [PDF handling in android](https://www.reddit.com/r/androiddev/comments/1jjxzkd/pdf_handling_in_android/)
+- [Debugging with External USB Device](https://www.reddit.com/r/androiddev/comments/1jjom34/debugging_with_external_usb_device/)
+- [WebRTC libraries on android](https://www.reddit.com/r/androiddev/comments/1jjl421/webrtc_libraries_on_android/)
+- [AnimatedSequence - Simple library to manage sequential animations in Jetpack Compose, now supports Compose Multiplatform!](https://www.reddit.com/r/androiddev/comments/1jjknmn/animatedsequence_simple_library_to_manage/)
+- [Webviews: The Steroid Rush of Mobile Development](https://www.reddit.com/r/androiddev/comments/1jjijlg/webviews_the_steroid_rush_of_mobile_development/)
+- [&quot;For every 6MB increase to an app’s size, the app’s installation-conversion rate decreased by 1%, and the missed opportunities are enormous&quot; - Spotify&#39;s journey on mastering app size](https://www.reddit.com/r/androiddev/comments/1jjhi4z/for_every_6mb_increase_to_an_apps_size_the_apps/)
+- [How do you distinct between alpha/beta/release version of your app?](https://www.reddit.com/r/androiddev/comments/1jjelst/how_do_you_distinct_between_alphabetarelease/)
+- [How to save an image in JPEG format with a resolution of at least 6MP, captured using the Android Camera 2 API?](https://www.reddit.com/r/androiddev/comments/1jjctzk/how_to_save_an_image_in_jpeg_format_with_a/)
 - [What is the proper way to delete a SQLDelight DB &lpar;KMP&rpar;](https://www.reddit.com/r/androiddev/comments/1jj4vrh/what_is_the_proper_way_to_delete_a_sqldelight_db/)
 - [App rejected due to crash but unable to reproduce or see any crash logs in Android Vitals](https://www.reddit.com/r/androiddev/comments/1jj25pp/app_rejected_due_to_crash_but_unable_to_reproduce/)
-- [Android Studio Meerkat | 2024.3.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1jix4vx/android_studio_meerkat_202431_patch_1_now/)
-- [Would you use a &#39;model-agnostic&#39; AI plugin for Android Studio that matches Gemini’s features?](https://www.reddit.com/r/androiddev/comments/1jix02e/would_you_use_a_modelagnostic_ai_plugin_for/)
-- [Is there an alternative way to use *Fractional Threshold* other that the deprecated one?](https://www.reddit.com/r/androiddev/comments/1jit7i8/is_there_an_alternative_way_to_use_fractional/)
-- [Any other mid to senior level Android devs having a tough time finding work right now?](https://www.reddit.com/r/androiddev/comments/1jit47g/any_other_mid_to_senior_level_android_devs_having/)
-- [Is there a way to implement guards/redirects for deep links in NavHost?](https://www.reddit.com/r/androiddev/comments/1jis45s/is_there_a_way_to_implement_guardsredirects_for/)
-- [is there a way I can automate this task of my job](https://www.reddit.com/r/androiddev/comments/1jipqfj/is_there_a_way_i_can_automate_this_task_of_my_job/)
-- [Jetpack Compose Syllabus for Developers](https://www.reddit.com/r/androiddev/comments/1jingrt/jetpack_compose_syllabus_for_developers/)
-- [How do you handle previews of screens with multiple view models?](https://www.reddit.com/r/androiddev/comments/1jilehz/how_do_you_handle_previews_of_screens_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
