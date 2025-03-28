@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Coil3 retrieve cached image only by key](https://www.reddit.com/r/androiddev/comments/1jliqrz/coil3_retrieve_cached_image_only_by_key/)
+- [Gemini Nano on developer emulator](https://www.reddit.com/r/androiddev/comments/1jlc56e/gemini_nano_on_developer_emulator/)
+- [Android Studio Narwhal | 2025.1.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1jlbmmm/android_studio_narwhal_202511_canary_3_now/)
+- [LazyColumn scrollToItem causes entire list to flash when items are modified by `.animateItem&lpar;&rpar;`](https://www.reddit.com/r/androiddev/comments/1jl9yqk/lazycolumn_scrolltoitem_causes_entire_list_to/)
+- [3 neat animations you can create with Modifier.animateBounds](https://www.reddit.com/r/androiddev/comments/1jl8hlg/3_neat_animations_you_can_create_with/)
+- [Google Support phone call form just a scam?](https://www.reddit.com/r/androiddev/comments/1jl2t3f/google_support_phone_call_form_just_a_scam/)
+- [Jetpack Compose specific hotkeys in AS](https://www.reddit.com/r/androiddev/comments/1jkz30c/jetpack_compose_specific_hotkeys_in_as/)
+- [VIBRANT theme definitions don&#39;t make sense to me](https://www.reddit.com/r/androiddev/comments/1jkxryq/vibrant_theme_definitions_dont_make_sense_to_me/)
+- [Google will develop Android OS behind closed doors starting next week](https://www.reddit.com/r/androiddev/comments/1jku650/google_will_develop_android_os_behind_closed/)
 - [Google Play Console Review Using Wrong Device Size](https://www.reddit.com/r/androiddev/comments/1jkrm0z/google_play_console_review_using_wrong_device_size/)
-- [I want to build a simple web view app](https://www.reddit.com/r/androiddev/comments/1jkozt6/i_want_to_build_a_simple_web_view_app/)
-- [Question about Android Management API](https://www.reddit.com/r/androiddev/comments/1jkobef/question_about_android_management_api/)
-- [🤖 Hiring Android Engineers @ State Farm](https://www.reddit.com/r/androiddev/comments/1jkl6ry/hiring_android_engineers_state_farm/)
-- [[Launch] SmartScan - A smart image organizer with text-based image search. Its open source and available on Github now! F-droid coming soon.](https://www.reddit.com/r/androiddev/comments/1jkjf1a/launch_smartscan_a_smart_image_organizer_with/)
-- [Compose Screenshot Testing Update question](https://www.reddit.com/r/androiddev/comments/1jkhfkt/compose_screenshot_testing_update_question/)
-- [Introduction to the SDK Runtime](https://www.reddit.com/r/androiddev/comments/1jkf8o1/introduction_to_the_sdk_runtime/)
-- [Updated data consistency](https://www.reddit.com/r/androiddev/comments/1jkd80z/updated_data_consistency/)
-- [🚀 Gocat - A Colorful and Powerful ADB Logcat Wrapper in Go](https://www.reddit.com/r/androiddev/comments/1jkbkxh/gocat_a_colorful_and_powerful_adb_logcat_wrapper/)
-- [App Privacy Policy issues out of nowhere?](https://www.reddit.com/r/androiddev/comments/1jk9un9/app_privacy_policy_issues_out_of_nowhere/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
