@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Open source tool to analyze Android logs](https://www.reddit.com/r/androiddev/comments/1jmac5h/open_source_tool_to_analyze_android_logs/)
+- [UI testing in Compose](https://www.reddit.com/r/androiddev/comments/1jm9fn6/ui_testing_in_compose/)
+- [CameraX: Replace frames with image while recording](https://www.reddit.com/r/androiddev/comments/1jm76m1/camerax_replace_frames_with_image_while_recording/)
+- [Baseline Profiles](https://www.reddit.com/r/androiddev/comments/1jlvv07/baseline_profiles/)
+- [Gemini Nano — AICore failed with INTERFERENCE_ERROR / NOT_AVAILABLE &lpar;Required LLM feature not found&rpar;](https://www.reddit.com/r/androiddev/comments/1jlu66w/gemini_nano_aicore_failed_with_interference_error/)
+- [Google Play Trafic sources](https://www.reddit.com/r/androiddev/comments/1jlpy4y/google_play_trafic_sources/)
 - [Coil3 retrieve cached image only by key](https://www.reddit.com/r/androiddev/comments/1jliqrz/coil3_retrieve_cached_image_only_by_key/)
 - [Gemini Nano on developer emulator](https://www.reddit.com/r/androiddev/comments/1jlc56e/gemini_nano_on_developer_emulator/)
 - [Android Studio Narwhal | 2025.1.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1jlbmmm/android_studio_narwhal_202511_canary_3_now/)
 - [LazyColumn scrollToItem causes entire list to flash when items are modified by `.animateItem&lpar;&rpar;`](https://www.reddit.com/r/androiddev/comments/1jl9yqk/lazycolumn_scrolltoitem_causes_entire_list_to/)
-- [3 neat animations you can create with Modifier.animateBounds](https://www.reddit.com/r/androiddev/comments/1jl8hlg/3_neat_animations_you_can_create_with/)
-- [Google Support phone call form just a scam?](https://www.reddit.com/r/androiddev/comments/1jl2t3f/google_support_phone_call_form_just_a_scam/)
-- [Jetpack Compose specific hotkeys in AS](https://www.reddit.com/r/androiddev/comments/1jkz30c/jetpack_compose_specific_hotkeys_in_as/)
-- [VIBRANT theme definitions don&#39;t make sense to me](https://www.reddit.com/r/androiddev/comments/1jkxryq/vibrant_theme_definitions_dont_make_sense_to_me/)
-- [Google will develop Android OS behind closed doors starting next week](https://www.reddit.com/r/androiddev/comments/1jku650/google_will_develop_android_os_behind_closed/)
-- [Google Play Console Review Using Wrong Device Size](https://www.reddit.com/r/androiddev/comments/1jkrm0z/google_play_console_review_using_wrong_device_size/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
