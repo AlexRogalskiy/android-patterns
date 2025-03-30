@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jetpack compose: Can I update a mutable state from any thread, or does it need to be updated from main thread.](https://www.reddit.com/r/androiddev/comments/1jmwy1r/jetpack_compose_can_i_update_a_mutable_state_from/)
+- [Ten tips to turn ideas into apps](https://www.reddit.com/r/androiddev/comments/1jmuc15/ten_tips_to_turn_ideas_into_apps/)
+- [Some questions about Android Studio](https://www.reddit.com/r/androiddev/comments/1jmt3pt/some_questions_about_android_studio/)
+- [Microphone Foreground Service](https://www.reddit.com/r/androiddev/comments/1jmmq17/microphone_foreground_service/)
+- [API fetching data issues](https://www.reddit.com/r/androiddev/comments/1jml7ou/api_fetching_data_issues/)
+- [Everyone knows what apps you use — how indian apps are spying on your installed applications](https://www.reddit.com/r/androiddev/comments/1jmed8v/everyone_knows_what_apps_you_use_how_indian_apps/)
 - [Open source tool to analyze Android logs](https://www.reddit.com/r/androiddev/comments/1jmac5h/open_source_tool_to_analyze_android_logs/)
 - [UI testing in Compose](https://www.reddit.com/r/androiddev/comments/1jm9fn6/ui_testing_in_compose/)
 - [CameraX: Replace frames with image while recording](https://www.reddit.com/r/androiddev/comments/1jm76m1/camerax_replace_frames_with_image_while_recording/)
 - [Baseline Profiles](https://www.reddit.com/r/androiddev/comments/1jlvv07/baseline_profiles/)
-- [Gemini Nano — AICore failed with INTERFERENCE_ERROR / NOT_AVAILABLE &lpar;Required LLM feature not found&rpar;](https://www.reddit.com/r/androiddev/comments/1jlu66w/gemini_nano_aicore_failed_with_interference_error/)
-- [Google Play Trafic sources](https://www.reddit.com/r/androiddev/comments/1jlpy4y/google_play_trafic_sources/)
-- [Coil3 retrieve cached image only by key](https://www.reddit.com/r/androiddev/comments/1jliqrz/coil3_retrieve_cached_image_only_by_key/)
-- [Gemini Nano on developer emulator](https://www.reddit.com/r/androiddev/comments/1jlc56e/gemini_nano_on_developer_emulator/)
-- [Android Studio Narwhal | 2025.1.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1jlbmmm/android_studio_narwhal_202511_canary_3_now/)
-- [LazyColumn scrollToItem causes entire list to flash when items are modified by `.animateItem&lpar;&rpar;`](https://www.reddit.com/r/androiddev/comments/1jl9yqk/lazycolumn_scrolltoitem_causes_entire_list_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
