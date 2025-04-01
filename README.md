@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Images with transparent backgrounds now have intrusive solid backgrounds for some reason](https://www.reddit.com/r/androiddev/comments/1jnqnsg/images_with_transparent_backgrounds_now_have/)
-- [Possible to enable Auto-Formatting on Save with ktfmt?](https://www.reddit.com/r/androiddev/comments/1jngjfi/possible_to_enable_autoformatting_on_save_with/)
-- [API key Client side vs Server side](https://www.reddit.com/r/androiddev/comments/1jn6j0k/api_key_client_side_vs_server_side/)
-- [Just released Retrosheet v3 with support for Android, iOS, JVM, and JS! 🎊](https://www.reddit.com/r/androiddev/comments/1jn3dgr/just_released_retrosheet_v3_with_support_for/)
-- [Jetpack compose: Can I update a mutable state from any thread, or does it need to be updated from main thread.](https://www.reddit.com/r/androiddev/comments/1jmwy1r/jetpack_compose_can_i_update_a_mutable_state_from/)
-- [Ten tips to turn ideas into apps](https://www.reddit.com/r/androiddev/comments/1jmuc15/ten_tips_to_turn_ideas_into_apps/)
-- [Some questions about Android Studio](https://www.reddit.com/r/androiddev/comments/1jmt3pt/some_questions_about_android_studio/)
-- [Microphone Foreground Service](https://www.reddit.com/r/androiddev/comments/1jmmq17/microphone_foreground_service/)
-- [API fetching data issues](https://www.reddit.com/r/androiddev/comments/1jml7ou/api_fetching_data_issues/)
-- [Everyone knows what apps you use — how indian apps are spying on your installed applications](https://www.reddit.com/r/androiddev/comments/1jmed8v/everyone_knows_what_apps_you_use_how_indian_apps/)
+- [Placing a red dot badge on a NavigationView MenuItem near the menu icon](https://www.reddit.com/r/androiddev/comments/1jogx8u/placing_a_red_dot_badge_on_a_navigationview/)
+- [Are Google Play Games Trophies worth adding?](https://www.reddit.com/r/androiddev/comments/1jogrtz/are_google_play_games_trophies_worth_adding/)
+- [Google deleted the sample code for Play Billing Library](https://www.reddit.com/r/androiddev/comments/1jof5m2/google_deleted_the_sample_code_for_play_billing/)
+- [Android Studio is such a pain in the apps](https://www.reddit.com/r/androiddev/comments/1joewt6/android_studio_is_such_a_pain_in_the_apps/)
+- [Desparate navigation structure with Official Navigation Library](https://www.reddit.com/r/androiddev/comments/1jod5hc/desparate_navigation_structure_with_official/)
+- [MacOS ADB won&#39;t stay connected to my phone for the life of me.](https://www.reddit.com/r/androiddev/comments/1jo9em2/macos_adb_wont_stay_connected_to_my_phone_for_the/)
+- [SDK is missing](https://www.reddit.com/r/androiddev/comments/1jo8l8r/sdk_is_missing/)
+- [Anatomy of the SDK Runtime](https://www.reddit.com/r/androiddev/comments/1jo7kam/anatomy_of_the_sdk_runtime/)
+- [How to Publish Your App on F-Droid: A Beginner’s Guide with sharing my own experience when published my one of the app](https://www.reddit.com/r/androiddev/comments/1jo6chm/how_to_publish_your_app_on_fdroid_a_beginners/)
+- [Hybrid Encryption in Android: Secure Communication Between Mobile and Backend Systems](https://www.reddit.com/r/androiddev/comments/1jo2alk/hybrid_encryption_in_android_secure_communication/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
