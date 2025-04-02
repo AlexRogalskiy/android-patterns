@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Placing a red dot badge on a NavigationView MenuItem near the menu icon](https://www.reddit.com/r/androiddev/comments/1jogx8u/placing_a_red_dot_badge_on_a_navigationview/)
-- [Are Google Play Games Trophies worth adding?](https://www.reddit.com/r/androiddev/comments/1jogrtz/are_google_play_games_trophies_worth_adding/)
-- [Google deleted the sample code for Play Billing Library](https://www.reddit.com/r/androiddev/comments/1jof5m2/google_deleted_the_sample_code_for_play_billing/)
-- [Android Studio is such a pain in the apps](https://www.reddit.com/r/androiddev/comments/1joewt6/android_studio_is_such_a_pain_in_the_apps/)
-- [Desparate navigation structure with Official Navigation Library](https://www.reddit.com/r/androiddev/comments/1jod5hc/desparate_navigation_structure_with_official/)
-- [MacOS ADB won&#39;t stay connected to my phone for the life of me.](https://www.reddit.com/r/androiddev/comments/1jo9em2/macos_adb_wont_stay_connected_to_my_phone_for_the/)
-- [SDK is missing](https://www.reddit.com/r/androiddev/comments/1jo8l8r/sdk_is_missing/)
-- [Anatomy of the SDK Runtime](https://www.reddit.com/r/androiddev/comments/1jo7kam/anatomy_of_the_sdk_runtime/)
-- [How to Publish Your App on F-Droid: A Beginner’s Guide with sharing my own experience when published my one of the app](https://www.reddit.com/r/androiddev/comments/1jo6chm/how_to_publish_your_app_on_fdroid_a_beginners/)
-- [Hybrid Encryption in Android: Secure Communication Between Mobile and Backend Systems](https://www.reddit.com/r/androiddev/comments/1jo2alk/hybrid_encryption_in_android_secure_communication/)
+- [How do apps typically handle SDK&#39;s with OneTrust or consent management?](https://www.reddit.com/r/androiddev/comments/1jpael5/how_do_apps_typically_handle_sdks_with_onetrust/)
+- [Calling ViewModel&#39;s onEvent in composable](https://www.reddit.com/r/androiddev/comments/1jp7tb1/calling_viewmodels_onevent_in_composable/)
+- [Weird Painter and .size Modifier interaction when repeating image components](https://www.reddit.com/r/androiddev/comments/1jp0bkj/weird_painter_and_size_modifier_interaction_when/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1joz5vd/android_studio_meerkat_feature_drop_202432_rc_1/)
+- [App opened and killed multiple times in background.](https://www.reddit.com/r/androiddev/comments/1jox9ul/app_opened_and_killed_multiple_times_in_background/)
+- [How do you senior developers utilize AI in Android and other development?](https://www.reddit.com/r/androiddev/comments/1jot80o/how_do_you_senior_developers_utilize_ai_in/)
+- [MBCompass: A modern featurish compose based compass app v4 released with location tracking feature](https://www.reddit.com/r/androiddev/comments/1jos5k8/mbcompass_a_modern_featurish_compose_based/)
+- [OCR&lpar;Optical character recognition&rpar; with android studio](https://www.reddit.com/r/androiddev/comments/1joqzsa/ocroptical_character_recognition_with_android/)
+- [Struggling with Device Manager](https://www.reddit.com/r/androiddev/comments/1joqnni/struggling_with_device_manager/)
+- [Concept Question: Can a Floating Widget Qualify as &quot;Foreground&quot; for Camera Access?](https://www.reddit.com/r/androiddev/comments/1joptxn/concept_question_can_a_floating_widget_qualify_as/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
