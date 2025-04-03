@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do apps typically handle SDK&#39;s with OneTrust or consent management?](https://www.reddit.com/r/androiddev/comments/1jpael5/how_do_apps_typically_handle_sdks_with_onetrust/)
-- [Calling ViewModel&#39;s onEvent in composable](https://www.reddit.com/r/androiddev/comments/1jp7tb1/calling_viewmodels_onevent_in_composable/)
-- [Weird Painter and .size Modifier interaction when repeating image components](https://www.reddit.com/r/androiddev/comments/1jp0bkj/weird_painter_and_size_modifier_interaction_when/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1joz5vd/android_studio_meerkat_feature_drop_202432_rc_1/)
-- [App opened and killed multiple times in background.](https://www.reddit.com/r/androiddev/comments/1jox9ul/app_opened_and_killed_multiple_times_in_background/)
-- [How do you senior developers utilize AI in Android and other development?](https://www.reddit.com/r/androiddev/comments/1jot80o/how_do_you_senior_developers_utilize_ai_in/)
-- [MBCompass: A modern featurish compose based compass app v4 released with location tracking feature](https://www.reddit.com/r/androiddev/comments/1jos5k8/mbcompass_a_modern_featurish_compose_based/)
-- [OCR&lpar;Optical character recognition&rpar; with android studio](https://www.reddit.com/r/androiddev/comments/1joqzsa/ocroptical_character_recognition_with_android/)
-- [Struggling with Device Manager](https://www.reddit.com/r/androiddev/comments/1joqnni/struggling_with_device_manager/)
-- [Concept Question: Can a Floating Widget Qualify as &quot;Foreground&quot; for Camera Access?](https://www.reddit.com/r/androiddev/comments/1joptxn/concept_question_can_a_floating_widget_qualify_as/)
+- [Android enterprise craziness!](https://www.reddit.com/r/androiddev/comments/1jq3r66/android_enterprise_craziness/)
+- [Recipes for reducing Gradle build times](https://www.reddit.com/r/androiddev/comments/1jq3e4n/recipes_for_reducing_gradle_build_times/)
+- [Spotify sdk with Spotify lite](https://www.reddit.com/r/androiddev/comments/1jq3b4i/spotify_sdk_with_spotify_lite/)
+- [Kubriko: create multiplatform games using a simple Compose library](https://www.reddit.com/r/androiddev/comments/1jptfv5/kubriko_create_multiplatform_games_using_a_simple/)
+- [Trouble with rows](https://www.reddit.com/r/androiddev/comments/1jpt59k/trouble_with_rows/)
+- [Understanding Dispatchers: Main and Main.immediate](https://www.reddit.com/r/androiddev/comments/1jpnxc9/understanding_dispatchers_main_and_mainimmediate/)
+- [Does Network Inspector keep breaking for anyone else?](https://www.reddit.com/r/androiddev/comments/1jpm9t5/does_network_inspector_keep_breaking_for_anyone/)
+- [Jetpack Glance Lazy Column Delay](https://www.reddit.com/r/androiddev/comments/1jpjuxt/jetpack_glance_lazy_column_delay/)
+- [My banking app seems to have two screens. How did they do it?](https://www.reddit.com/r/androiddev/comments/1jpjsxm/my_banking_app_seems_to_have_two_screens_how_did/)
+- [Any Udemy courses suggestion?](https://www.reddit.com/r/androiddev/comments/1jpjqyf/any_udemy_courses_suggestion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
