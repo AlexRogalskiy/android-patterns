@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android enterprise craziness!](https://www.reddit.com/r/androiddev/comments/1jq3r66/android_enterprise_craziness/)
+- [Write Testable Time-Dependent Coroutine Code in Kotlin: Avoid System.currentTimeMillis](https://www.reddit.com/r/androiddev/comments/1jr07xo/write_testable_timedependent_coroutine_code_in/)
+- [Android Studio Narwhal | 2025.1.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1jqwxe4/android_studio_narwhal_202511_canary_4_now/)
+- [FlowIntent.Core: Clean Android Navigation with Coroutines &amp; Runtime Deeplinks](https://www.reddit.com/r/androiddev/comments/1jqfu9x/flowintentcore_clean_android_navigation_with/)
+- [OverlayEffect doesn&#39;t accept my argument](https://www.reddit.com/r/androiddev/comments/1jqey56/overlayeffect_doesnt_accept_my_argument/)
+- [Kotlin for Developers • Marcin Moskala &amp; Nicola Corti](https://www.reddit.com/r/androiddev/comments/1jqdrmx/kotlin_for_developers_marcin_moskala_nicola_corti/)
+- [How much do y’all make from your Play Store apps?](https://www.reddit.com/r/androiddev/comments/1jqdjn4/how_much_do_yall_make_from_your_play_store_apps/)
+- [Best approach for setting up reminder notifications in a calendar widget?](https://www.reddit.com/r/androiddev/comments/1jqa6rf/best_approach_for_setting_up_reminder/)
 - [Recipes for reducing Gradle build times](https://www.reddit.com/r/androiddev/comments/1jq3e4n/recipes_for_reducing_gradle_build_times/)
-- [Spotify sdk with Spotify lite](https://www.reddit.com/r/androiddev/comments/1jq3b4i/spotify_sdk_with_spotify_lite/)
 - [Kubriko: create multiplatform games using a simple Compose library](https://www.reddit.com/r/androiddev/comments/1jptfv5/kubriko_create_multiplatform_games_using_a_simple/)
 - [Trouble with rows](https://www.reddit.com/r/androiddev/comments/1jpt59k/trouble_with_rows/)
-- [Understanding Dispatchers: Main and Main.immediate](https://www.reddit.com/r/androiddev/comments/1jpnxc9/understanding_dispatchers_main_and_mainimmediate/)
-- [Does Network Inspector keep breaking for anyone else?](https://www.reddit.com/r/androiddev/comments/1jpm9t5/does_network_inspector_keep_breaking_for_anyone/)
-- [Jetpack Glance Lazy Column Delay](https://www.reddit.com/r/androiddev/comments/1jpjuxt/jetpack_glance_lazy_column_delay/)
-- [My banking app seems to have two screens. How did they do it?](https://www.reddit.com/r/androiddev/comments/1jpjsxm/my_banking_app_seems_to_have_two_screens_how_did/)
-- [Any Udemy courses suggestion?](https://www.reddit.com/r/androiddev/comments/1jpjqyf/any_udemy_courses_suggestion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
