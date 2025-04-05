@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Write Testable Time-Dependent Coroutine Code in Kotlin: Avoid System.currentTimeMillis](https://www.reddit.com/r/androiddev/comments/1jr07xo/write_testable_timedependent_coroutine_code_in/)
-- [Android Studio Narwhal | 2025.1.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1jqwxe4/android_studio_narwhal_202511_canary_4_now/)
-- [FlowIntent.Core: Clean Android Navigation with Coroutines &amp; Runtime Deeplinks](https://www.reddit.com/r/androiddev/comments/1jqfu9x/flowintentcore_clean_android_navigation_with/)
-- [OverlayEffect doesn&#39;t accept my argument](https://www.reddit.com/r/androiddev/comments/1jqey56/overlayeffect_doesnt_accept_my_argument/)
-- [Kotlin for Developers • Marcin Moskala &amp; Nicola Corti](https://www.reddit.com/r/androiddev/comments/1jqdrmx/kotlin_for_developers_marcin_moskala_nicola_corti/)
-- [How much do y’all make from your Play Store apps?](https://www.reddit.com/r/androiddev/comments/1jqdjn4/how_much_do_yall_make_from_your_play_store_apps/)
-- [Best approach for setting up reminder notifications in a calendar widget?](https://www.reddit.com/r/androiddev/comments/1jqa6rf/best_approach_for_setting_up_reminder/)
-- [Recipes for reducing Gradle build times](https://www.reddit.com/r/androiddev/comments/1jq3e4n/recipes_for_reducing_gradle_build_times/)
-- [Kubriko: create multiplatform games using a simple Compose library](https://www.reddit.com/r/androiddev/comments/1jptfv5/kubriko_create_multiplatform_games_using_a_simple/)
-- [Trouble with rows](https://www.reddit.com/r/androiddev/comments/1jpt59k/trouble_with_rows/)
+- [Is MVVM overrated in mobile development?](https://www.reddit.com/r/androiddev/comments/1jrshan/is_mvvm_overrated_in_mobile_development/)
+- [I&#39;m Mero, and I built Interview Hammer an AI desktop and mobile assistant for Leetcode and interview questions. Here&#39;s why:](https://www.reddit.com/r/androiddev/comments/1jrqvtv/im_mero_and_i_built_interview_hammer_an_ai/)
+- [I have an idea for an app but want to check the feasibility before continuing.](https://www.reddit.com/r/androiddev/comments/1jrqchw/i_have_an_idea_for_an_app_but_want_to_check_the/)
+- [Why not Flutter?](https://www.reddit.com/r/androiddev/comments/1jro0vi/why_not_flutter/)
+- [Will my dev account get closed if I start closed testing before the deadline?](https://www.reddit.com/r/androiddev/comments/1jrnizg/will_my_dev_account_get_closed_if_i_start_closed/)
+- [Metro: new Dependency Injection framework for Android &lpar;and KMP&rpar;](https://www.reddit.com/r/androiddev/comments/1jrmyac/metro_new_dependency_injection_framework_for/)
+- [Personal liability concern around launching my first app](https://www.reddit.com/r/androiddev/comments/1jrlem9/personal_liability_concern_around_launching_my/)
+- [FIPS compliant SQLite encryption without using SQLCipher](https://www.reddit.com/r/androiddev/comments/1jrkebv/fips_compliant_sqlite_encryption_without_using/)
+- [Am I Learning Too Slowly? &lpar;Android Dev Journey&rpar;](https://www.reddit.com/r/androiddev/comments/1jrhrzj/am_i_learning_too_slowly_android_dev_journey/)
+- [How to create draggable canban table](https://www.reddit.com/r/androiddev/comments/1jrcvtf/how_to_create_draggable_canban_table/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
