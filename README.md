@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is MVVM overrated in mobile development?](https://www.reddit.com/r/androiddev/comments/1jrshan/is_mvvm_overrated_in_mobile_development/)
-- [I&#39;m Mero, and I built Interview Hammer an AI desktop and mobile assistant for Leetcode and interview questions. Here&#39;s why:](https://www.reddit.com/r/androiddev/comments/1jrqvtv/im_mero_and_i_built_interview_hammer_an_ai/)
-- [I have an idea for an app but want to check the feasibility before continuing.](https://www.reddit.com/r/androiddev/comments/1jrqchw/i_have_an_idea_for_an_app_but_want_to_check_the/)
-- [Why not Flutter?](https://www.reddit.com/r/androiddev/comments/1jro0vi/why_not_flutter/)
-- [Will my dev account get closed if I start closed testing before the deadline?](https://www.reddit.com/r/androiddev/comments/1jrnizg/will_my_dev_account_get_closed_if_i_start_closed/)
-- [Metro: new Dependency Injection framework for Android &lpar;and KMP&rpar;](https://www.reddit.com/r/androiddev/comments/1jrmyac/metro_new_dependency_injection_framework_for/)
-- [Personal liability concern around launching my first app](https://www.reddit.com/r/androiddev/comments/1jrlem9/personal_liability_concern_around_launching_my/)
-- [FIPS compliant SQLite encryption without using SQLCipher](https://www.reddit.com/r/androiddev/comments/1jrkebv/fips_compliant_sqlite_encryption_without_using/)
-- [Am I Learning Too Slowly? &lpar;Android Dev Journey&rpar;](https://www.reddit.com/r/androiddev/comments/1jrhrzj/am_i_learning_too_slowly_android_dev_journey/)
-- [How to create draggable canban table](https://www.reddit.com/r/androiddev/comments/1jrcvtf/how_to_create_draggable_canban_table/)
+- [Making Play Store to be like YouTube with developer subscriptions](https://www.reddit.com/r/androiddev/comments/1jscbpb/making_play_store_to_be_like_youtube_with/)
+- [I&#39;m confused with the &quot;review process&quot; of play console](https://www.reddit.com/r/androiddev/comments/1jsbsak/im_confused_with_the_review_process_of_play/)
+- [What services do you use for logging and debugging in Android development?](https://www.reddit.com/r/androiddev/comments/1js823e/what_services_do_you_use_for_logging_and/)
+- [Suggestion](https://www.reddit.com/r/androiddev/comments/1js801t/suggestion/)
+- [What are the best real-time network techniques for Android?](https://www.reddit.com/r/androiddev/comments/1js6oca/what_are_the_best_realtime_network_techniques_for/)
+- [Advanced Android Devs I need Help…. ADB issues](https://www.reddit.com/r/androiddev/comments/1js6o0x/advanced_android_devs_i_need_help_adb_issues/)
+- [&quot;adb devices&quot; returns &quot;unauthorized&quot;](https://www.reddit.com/r/androiddev/comments/1js46am/adb_devices_returns_unauthorized/)
+- [Is Jetpack Compose customizable or locked into Material 3?](https://www.reddit.com/r/androiddev/comments/1js18hr/is_jetpack_compose_customizable_or_locked_into/)
+- [Advice and resources for beginner](https://www.reddit.com/r/androiddev/comments/1js01va/advice_and_resources_for_beginner/)
+- [What&#39;s the point of having a title bar on the top all the time](https://www.reddit.com/r/androiddev/comments/1jrzh8o/whats_the_point_of_having_a_title_bar_on_the_top/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
