@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Making Play Store to be like YouTube with developer subscriptions](https://www.reddit.com/r/androiddev/comments/1jscbpb/making_play_store_to_be_like_youtube_with/)
-- [I&#39;m confused with the &quot;review process&quot; of play console](https://www.reddit.com/r/androiddev/comments/1jsbsak/im_confused_with_the_review_process_of_play/)
-- [What services do you use for logging and debugging in Android development?](https://www.reddit.com/r/androiddev/comments/1js823e/what_services_do_you_use_for_logging_and/)
-- [Suggestion](https://www.reddit.com/r/androiddev/comments/1js801t/suggestion/)
-- [What are the best real-time network techniques for Android?](https://www.reddit.com/r/androiddev/comments/1js6oca/what_are_the_best_realtime_network_techniques_for/)
-- [Advanced Android Devs I need Help…. ADB issues](https://www.reddit.com/r/androiddev/comments/1js6o0x/advanced_android_devs_i_need_help_adb_issues/)
-- [&quot;adb devices&quot; returns &quot;unauthorized&quot;](https://www.reddit.com/r/androiddev/comments/1js46am/adb_devices_returns_unauthorized/)
-- [Is Jetpack Compose customizable or locked into Material 3?](https://www.reddit.com/r/androiddev/comments/1js18hr/is_jetpack_compose_customizable_or_locked_into/)
-- [Advice and resources for beginner](https://www.reddit.com/r/androiddev/comments/1js01va/advice_and_resources_for_beginner/)
-- [What&#39;s the point of having a title bar on the top all the time](https://www.reddit.com/r/androiddev/comments/1jrzh8o/whats_the_point_of_having_a_title_bar_on_the_top/)
+- [Neighbors media player showing on my pixel](https://www.reddit.com/r/androiddev/comments/1jtag9l/neighbors_media_player_showing_on_my_pixel/)
+- [Can anyone help solve these two issues?](https://www.reddit.com/r/androiddev/comments/1jt65kd/can_anyone_help_solve_these_two_issues/)
+- [using stripe within an application](https://www.reddit.com/r/androiddev/comments/1jt619w/using_stripe_within_an_application/)
+- [Thoughts on this message on certain smaller apps? Seems like google is screwing smaller devs](https://www.reddit.com/r/androiddev/comments/1jt3z7f/thoughts_on_this_message_on_certain_smaller_apps/)
+- [Academic Study on Mobile App Design](https://www.reddit.com/r/androiddev/comments/1jt16sr/academic_study_on_mobile_app_design/)
+- [🚀 Mastering ConstraintLayout in Jetpack Compose – Guidelines, Barriers &amp; Chains Explained!](https://www.reddit.com/r/androiddev/comments/1jt0lz8/mastering_constraintlayout_in_jetpack_compose/)
+- [Why Kotlin uses Coroutines](https://www.reddit.com/r/androiddev/comments/1jsyq45/why_kotlin_uses_coroutines/)
+- [Sharing my small pagination library for compose](https://www.reddit.com/r/androiddev/comments/1jsypa3/sharing_my_small_pagination_library_for_compose/)
+- [Does nvme read and write speed improve build times?](https://www.reddit.com/r/androiddev/comments/1jsy52b/does_nvme_read_and_write_speed_improve_build_times/)
+- [[Hiring] Vibe Coding Job](https://www.reddit.com/r/androiddev/comments/1jsugwy/hiring_vibe_coding_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
