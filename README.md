@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Neighbors media player showing on my pixel](https://www.reddit.com/r/androiddev/comments/1jtag9l/neighbors_media_player_showing_on_my_pixel/)
-- [Can anyone help solve these two issues?](https://www.reddit.com/r/androiddev/comments/1jt65kd/can_anyone_help_solve_these_two_issues/)
-- [using stripe within an application](https://www.reddit.com/r/androiddev/comments/1jt619w/using_stripe_within_an_application/)
-- [Thoughts on this message on certain smaller apps? Seems like google is screwing smaller devs](https://www.reddit.com/r/androiddev/comments/1jt3z7f/thoughts_on_this_message_on_certain_smaller_apps/)
-- [Academic Study on Mobile App Design](https://www.reddit.com/r/androiddev/comments/1jt16sr/academic_study_on_mobile_app_design/)
-- [🚀 Mastering ConstraintLayout in Jetpack Compose – Guidelines, Barriers &amp; Chains Explained!](https://www.reddit.com/r/androiddev/comments/1jt0lz8/mastering_constraintlayout_in_jetpack_compose/)
-- [Why Kotlin uses Coroutines](https://www.reddit.com/r/androiddev/comments/1jsyq45/why_kotlin_uses_coroutines/)
-- [Sharing my small pagination library for compose](https://www.reddit.com/r/androiddev/comments/1jsypa3/sharing_my_small_pagination_library_for_compose/)
-- [Does nvme read and write speed improve build times?](https://www.reddit.com/r/androiddev/comments/1jsy52b/does_nvme_read_and_write_speed_improve_build_times/)
-- [[Hiring] Vibe Coding Job](https://www.reddit.com/r/androiddev/comments/1jsugwy/hiring_vibe_coding_job/)
+- [Free Sports Api](https://www.reddit.com/r/androiddev/comments/1ju1bwl/free_sports_api/)
+- [Review my resume](https://www.reddit.com/r/androiddev/comments/1jtwfdv/review_my_resume/)
+- [How to determine the source of an implicit intent](https://www.reddit.com/r/androiddev/comments/1jtw84m/how_to_determine_the_source_of_an_implicit_intent/)
+- [A quick article on Coroutines.](https://www.reddit.com/r/androiddev/comments/1jtt1oe/a_quick_article_on_coroutines/)
+- [Question: Which AI do you use for Android development?](https://www.reddit.com/r/androiddev/comments/1jtsrnf/question_which_ai_do_you_use_for_android/)
+- [April 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1jts0ef/april_2025_showcase/)
+- [How can i do the iOS Lockscreen Clock blur on android?](https://www.reddit.com/r/androiddev/comments/1jtre2l/how_can_i_do_the_ios_lockscreen_clock_blur_on/)
+- [Unable to launch Android virtual device on Android studio on Mac](https://www.reddit.com/r/androiddev/comments/1jtnpdw/unable_to_launch_android_virtual_device_on/)
+- [What’s your biggest pain point when monetizing your Android app with ads?](https://www.reddit.com/r/androiddev/comments/1jtngbi/whats_your_biggest_pain_point_when_monetizing/)
+- [We built a high-performance Point &amp; Figure chart engine using Compose Multiplatform — and it runs on Desktop, Web, and Mobile](https://www.reddit.com/r/androiddev/comments/1jtlh8o/we_built_a_highperformance_point_figure_chart/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
