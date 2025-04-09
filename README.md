@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Free Sports Api](https://www.reddit.com/r/androiddev/comments/1ju1bwl/free_sports_api/)
-- [Review my resume](https://www.reddit.com/r/androiddev/comments/1jtwfdv/review_my_resume/)
-- [How to determine the source of an implicit intent](https://www.reddit.com/r/androiddev/comments/1jtw84m/how_to_determine_the_source_of_an_implicit_intent/)
-- [A quick article on Coroutines.](https://www.reddit.com/r/androiddev/comments/1jtt1oe/a_quick_article_on_coroutines/)
-- [Question: Which AI do you use for Android development?](https://www.reddit.com/r/androiddev/comments/1jtsrnf/question_which_ai_do_you_use_for_android/)
-- [April 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1jts0ef/april_2025_showcase/)
-- [How can i do the iOS Lockscreen Clock blur on android?](https://www.reddit.com/r/androiddev/comments/1jtre2l/how_can_i_do_the_ios_lockscreen_clock_blur_on/)
-- [Unable to launch Android virtual device on Android studio on Mac](https://www.reddit.com/r/androiddev/comments/1jtnpdw/unable_to_launch_android_virtual_device_on/)
-- [What’s your biggest pain point when monetizing your Android app with ads?](https://www.reddit.com/r/androiddev/comments/1jtngbi/whats_your_biggest_pain_point_when_monetizing/)
-- [We built a high-performance Point &amp; Figure chart engine using Compose Multiplatform — and it runs on Desktop, Web, and Mobile](https://www.reddit.com/r/androiddev/comments/1jtlh8o/we_built_a_highperformance_point_figure_chart/)
+- [New version Changes in Review for 24 hours already](https://www.reddit.com/r/androiddev/comments/1jurnh4/new_version_changes_in_review_for_24_hours_already/)
+- [Is people copying your App a real threat?](https://www.reddit.com/r/androiddev/comments/1juqqye/is_people_copying_your_app_a_real_threat/)
+- [3 Phases of Jetpack Compose &lpar;Composition, Layout, Drawing&rpar;](https://www.reddit.com/r/androiddev/comments/1juluzj/3_phases_of_jetpack_compose_composition_layout/)
+- [best way to run Android 12 on a phone for testing?](https://www.reddit.com/r/androiddev/comments/1julk2o/best_way_to_run_android_12_on_a_phone_for_testing/)
+- [Review my Android developer resume](https://www.reddit.com/r/androiddev/comments/1juk1lm/review_my_android_developer_resume/)
+- [App lock Session](https://www.reddit.com/r/androiddev/comments/1juk0ma/app_lock_session/)
+- [Help on implementing in-app purchases in a native swipe gallery menu - annoying anti-UX bug](https://www.reddit.com/r/androiddev/comments/1juiqxu/help_on_implementing_inapp_purchases_in_a_native/)
+- [New jacoco update fixes low code coverage for compose](https://www.reddit.com/r/androiddev/comments/1juhf6k/new_jacoco_update_fixes_low_code_coverage_for/)
+- [Runtime Permission Libraries](https://www.reddit.com/r/androiddev/comments/1jueanu/runtime_permission_libraries/)
+- [runTesting catching exceptions in the test code](https://www.reddit.com/r/androiddev/comments/1jucsml/runtesting_catching_exceptions_in_the_test_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
