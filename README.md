@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New version Changes in Review for 24 hours already](https://www.reddit.com/r/androiddev/comments/1jurnh4/new_version_changes_in_review_for_24_hours_already/)
-- [Is people copying your App a real threat?](https://www.reddit.com/r/androiddev/comments/1juqqye/is_people_copying_your_app_a_real_threat/)
-- [3 Phases of Jetpack Compose &lpar;Composition, Layout, Drawing&rpar;](https://www.reddit.com/r/androiddev/comments/1juluzj/3_phases_of_jetpack_compose_composition_layout/)
-- [best way to run Android 12 on a phone for testing?](https://www.reddit.com/r/androiddev/comments/1julk2o/best_way_to_run_android_12_on_a_phone_for_testing/)
-- [Review my Android developer resume](https://www.reddit.com/r/androiddev/comments/1juk1lm/review_my_android_developer_resume/)
-- [App lock Session](https://www.reddit.com/r/androiddev/comments/1juk0ma/app_lock_session/)
-- [Help on implementing in-app purchases in a native swipe gallery menu - annoying anti-UX bug](https://www.reddit.com/r/androiddev/comments/1juiqxu/help_on_implementing_inapp_purchases_in_a_native/)
-- [New jacoco update fixes low code coverage for compose](https://www.reddit.com/r/androiddev/comments/1juhf6k/new_jacoco_update_fixes_low_code_coverage_for/)
-- [Runtime Permission Libraries](https://www.reddit.com/r/androiddev/comments/1jueanu/runtime_permission_libraries/)
-- [runTesting catching exceptions in the test code](https://www.reddit.com/r/androiddev/comments/1jucsml/runtesting_catching_exceptions_in_the_test_code/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1jvglyq/android_studio_meerkat_feature_drop_202432_rc_2/)
+- [KMP sample project for iOS and Android, showcasing runtime permission handling and tracking cryptocurrency prices from the Binance platform.](https://www.reddit.com/r/androiddev/comments/1jvf3f5/kmp_sample_project_for_ios_and_android_showcasing/)
+- [Microphone altering during call](https://www.reddit.com/r/androiddev/comments/1jvcv2k/microphone_altering_during_call/)
+- [I made a simple open-source note-taking app with Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1jvb48u/i_made_a_simple_opensource_notetaking_app_with/)
+- [How are you Dealing with ANR?](https://www.reddit.com/r/androiddev/comments/1jv9fek/how_are_you_dealing_with_anr/)
+- [Google Play Console account closed for inactivity](https://www.reddit.com/r/androiddev/comments/1jv95ky/google_play_console_account_closed_for_inactivity/)
+- [Gemini in Android Studio for businesses: Develop with confidence, powered by AI](https://www.reddit.com/r/androiddev/comments/1jv4yn6/gemini_in_android_studio_for_businesses_develop/)
+- [Gemini in Android Studio for businesses: Develop with confidence, powered by AI](https://www.reddit.com/r/androiddev/comments/1jv4htj/gemini_in_android_studio_for_businesses_develop/)
+- [Can I provide google maps with custom data?](https://www.reddit.com/r/androiddev/comments/1jv2i68/can_i_provide_google_maps_with_custom_data/)
+- [Carioca - Suite of Testing libraries for Android](https://www.reddit.com/r/androiddev/comments/1jv25ed/carioca_suite_of_testing_libraries_for_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
