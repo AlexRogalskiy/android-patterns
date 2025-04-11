@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Meerkat Feature Drop | 2024.3.2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1jvglyq/android_studio_meerkat_feature_drop_202432_rc_2/)
-- [KMP sample project for iOS and Android, showcasing runtime permission handling and tracking cryptocurrency prices from the Binance platform.](https://www.reddit.com/r/androiddev/comments/1jvf3f5/kmp_sample_project_for_ios_and_android_showcasing/)
-- [Microphone altering during call](https://www.reddit.com/r/androiddev/comments/1jvcv2k/microphone_altering_during_call/)
-- [I made a simple open-source note-taking app with Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1jvb48u/i_made_a_simple_opensource_notetaking_app_with/)
-- [How are you Dealing with ANR?](https://www.reddit.com/r/androiddev/comments/1jv9fek/how_are_you_dealing_with_anr/)
-- [Google Play Console account closed for inactivity](https://www.reddit.com/r/androiddev/comments/1jv95ky/google_play_console_account_closed_for_inactivity/)
-- [Gemini in Android Studio for businesses: Develop with confidence, powered by AI](https://www.reddit.com/r/androiddev/comments/1jv4yn6/gemini_in_android_studio_for_businesses_develop/)
-- [Gemini in Android Studio for businesses: Develop with confidence, powered by AI](https://www.reddit.com/r/androiddev/comments/1jv4htj/gemini_in_android_studio_for_businesses_develop/)
-- [Can I provide google maps with custom data?](https://www.reddit.com/r/androiddev/comments/1jv2i68/can_i_provide_google_maps_with_custom_data/)
-- [Carioca - Suite of Testing libraries for Android](https://www.reddit.com/r/androiddev/comments/1jv25ed/carioca_suite_of_testing_libraries_for_android/)
+- [Upload app into Play Store without Real Device](https://www.reddit.com/r/androiddev/comments/1jw7pvd/upload_app_into_play_store_without_real_device/)
+- [Why is UsbManager.devicesList returning empty map](https://www.reddit.com/r/androiddev/comments/1jw7lz1/why_is_usbmanagerdeviceslist_returning_empty_map/)
+- [Free Tool to Read and Analyze Android .txt Logs &lpar;Similar to Logcat&rpar;?](https://www.reddit.com/r/androiddev/comments/1jw7393/free_tool_to_read_and_analyze_android_txt_logs/)
+- [Will selecting &quot;Alarm clock&quot; as the functionality of your app for the USE_EXACT_ALARM position, does it effect how the app is discovered in the store?](https://www.reddit.com/r/androiddev/comments/1jw6su4/will_selecting_alarm_clock_as_the_functionality/)
+- [Android Studio Cloud | Android Developers](https://www.reddit.com/r/androiddev/comments/1jw6otq/android_studio_cloud_android_developers/)
+- [Android Studio Narwhal | 2025.1.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1jw4aj0/android_studio_narwhal_202511_canary_6_now/)
+- [I was planning to create a flexible tab row using subcompose layout](https://www.reddit.com/r/androiddev/comments/1jw3h7d/i_was_planning_to_create_a_flexible_tab_row_using/)
+- [Not able to use Google ml-kit for Indian languages OCR](https://www.reddit.com/r/androiddev/comments/1jw2n54/not_able_to_use_google_mlkit_for_indian_languages/)
+- [Would a native app porting tool iOS ↔ Android be valuable to you?](https://www.reddit.com/r/androiddev/comments/1jw26r8/would_a_native_app_porting_tool_ios_android_be/)
+- [Sneak peak to a UI components library for Compose that I&#39;ll be publishing soon](https://www.reddit.com/r/androiddev/comments/1jw1bxo/sneak_peak_to_a_ui_components_library_for_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
