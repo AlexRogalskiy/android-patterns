@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Upload app into Play Store without Real Device](https://www.reddit.com/r/androiddev/comments/1jw7pvd/upload_app_into_play_store_without_real_device/)
-- [Why is UsbManager.devicesList returning empty map](https://www.reddit.com/r/androiddev/comments/1jw7lz1/why_is_usbmanagerdeviceslist_returning_empty_map/)
-- [Free Tool to Read and Analyze Android .txt Logs &lpar;Similar to Logcat&rpar;?](https://www.reddit.com/r/androiddev/comments/1jw7393/free_tool_to_read_and_analyze_android_txt_logs/)
-- [Will selecting &quot;Alarm clock&quot; as the functionality of your app for the USE_EXACT_ALARM position, does it effect how the app is discovered in the store?](https://www.reddit.com/r/androiddev/comments/1jw6su4/will_selecting_alarm_clock_as_the_functionality/)
-- [Android Studio Cloud | Android Developers](https://www.reddit.com/r/androiddev/comments/1jw6otq/android_studio_cloud_android_developers/)
-- [Android Studio Narwhal | 2025.1.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1jw4aj0/android_studio_narwhal_202511_canary_6_now/)
-- [I was planning to create a flexible tab row using subcompose layout](https://www.reddit.com/r/androiddev/comments/1jw3h7d/i_was_planning_to_create_a_flexible_tab_row_using/)
-- [Not able to use Google ml-kit for Indian languages OCR](https://www.reddit.com/r/androiddev/comments/1jw2n54/not_able_to_use_google_mlkit_for_indian_languages/)
-- [Would a native app porting tool iOS ↔ Android be valuable to you?](https://www.reddit.com/r/androiddev/comments/1jw26r8/would_a_native_app_porting_tool_ios_android_be/)
-- [Sneak peak to a UI components library for Compose that I&#39;ll be publishing soon](https://www.reddit.com/r/androiddev/comments/1jw1bxo/sneak_peak_to_a_ui_components_library_for_compose/)
+- [Do you think companies shift from building native solutions&lpar;Android/ iOS&rpar; to Progressive Web Apps?](https://www.reddit.com/r/androiddev/comments/1jx23a4/do_you_think_companies_shift_from_building_native/)
+- [Search for a solution for multithreaded emulation](https://www.reddit.com/r/androiddev/comments/1jwyhst/search_for_a_solution_for_multithreaded_emulation/)
+- [My app is ready for alpha release, and I just got verified, any tips on how to have a successful launch?](https://www.reddit.com/r/androiddev/comments/1jwxjcl/my_app_is_ready_for_alpha_release_and_i_just_got/)
+- [Got an Android app development question? Ask away! April 2025 edition](https://www.reddit.com/r/androiddev/comments/1jwxabn/got_an_android_app_development_question_ask_away/)
+- [Is there a way to connect my app to the tor network ?](https://www.reddit.com/r/androiddev/comments/1jwvxmg/is_there_a_way_to_connect_my_app_to_the_tor/)
+- [Having an issue with my android studio project UI shifting when keyboard is brought up](https://www.reddit.com/r/androiddev/comments/1jwvb1l/having_an_issue_with_my_android_studio_project_ui/)
+- [Google play Question about versioning](https://www.reddit.com/r/androiddev/comments/1jwultk/google_play_question_about_versioning/)
+- [App removed from search in Google Play](https://www.reddit.com/r/androiddev/comments/1jwufs6/app_removed_from_search_in_google_play/)
+- [Edge to edge and material 3 scaffold](https://www.reddit.com/r/androiddev/comments/1jwt9v4/edge_to_edge_and_material_3_scaffold/)
+- [Guys. Is this normal?](https://www.reddit.com/r/androiddev/comments/1jws98q/guys_is_this_normal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
