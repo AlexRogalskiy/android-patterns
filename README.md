@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [onEvent for screen with many TextFields](https://www.reddit.com/r/androiddev/comments/1jxy55b/onevent_for_screen_with_many_textfields/)
+- [Test users for production needed! I have struggles to get through Google Play requirements :&lpar;](https://www.reddit.com/r/androiddev/comments/1jxtji2/test_users_for_production_needed_i_have_struggles/)
+- [Question about using adb shell commands - in terms of X/Y, my X &lpar;ultimate goal&rpar; is to delete all texts from before a certain date](https://www.reddit.com/r/androiddev/comments/1jxsjyw/question_about_using_adb_shell_commands_in_terms/)
+- [How to set ImeAction.Done on last visible TextField](https://www.reddit.com/r/androiddev/comments/1jxqw5c/how_to_set_imeactiondone_on_last_visible_textfield/)
+- [Per-second update interval in Tiles](https://www.reddit.com/r/androiddev/comments/1jxq2o0/persecond_update_interval_in_tiles/)
+- [Deep link hijacking and how to avoid them](https://www.reddit.com/r/androiddev/comments/1jxep3a/deep_link_hijacking_and_how_to_avoid_them/)
+- [Android developer job](https://www.reddit.com/r/androiddev/comments/1jxekr5/android_developer_job/)
 - [Do you think companies shift from building native solutions&lpar;Android/ iOS&rpar; to Progressive Web Apps?](https://www.reddit.com/r/androiddev/comments/1jx23a4/do_you_think_companies_shift_from_building_native/)
 - [Search for a solution for multithreaded emulation](https://www.reddit.com/r/androiddev/comments/1jwyhst/search_for_a_solution_for_multithreaded_emulation/)
 - [My app is ready for alpha release, and I just got verified, any tips on how to have a successful launch?](https://www.reddit.com/r/androiddev/comments/1jwxjcl/my_app_is_ready_for_alpha_release_and_i_just_got/)
-- [Got an Android app development question? Ask away! April 2025 edition](https://www.reddit.com/r/androiddev/comments/1jwxabn/got_an_android_app_development_question_ask_away/)
-- [Is there a way to connect my app to the tor network ?](https://www.reddit.com/r/androiddev/comments/1jwvxmg/is_there_a_way_to_connect_my_app_to_the_tor/)
-- [Having an issue with my android studio project UI shifting when keyboard is brought up](https://www.reddit.com/r/androiddev/comments/1jwvb1l/having_an_issue_with_my_android_studio_project_ui/)
-- [Google play Question about versioning](https://www.reddit.com/r/androiddev/comments/1jwultk/google_play_question_about_versioning/)
-- [App removed from search in Google Play](https://www.reddit.com/r/androiddev/comments/1jwufs6/app_removed_from_search_in_google_play/)
-- [Edge to edge and material 3 scaffold](https://www.reddit.com/r/androiddev/comments/1jwt9v4/edge_to_edge_and_material_3_scaffold/)
-- [Guys. Is this normal?](https://www.reddit.com/r/androiddev/comments/1jws98q/guys_is_this_normal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
