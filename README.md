@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [onEvent for screen with many TextFields](https://www.reddit.com/r/androiddev/comments/1jxy55b/onevent_for_screen_with_many_textfields/)
-- [Test users for production needed! I have struggles to get through Google Play requirements :&lpar;](https://www.reddit.com/r/androiddev/comments/1jxtji2/test_users_for_production_needed_i_have_struggles/)
-- [Question about using adb shell commands - in terms of X/Y, my X &lpar;ultimate goal&rpar; is to delete all texts from before a certain date](https://www.reddit.com/r/androiddev/comments/1jxsjyw/question_about_using_adb_shell_commands_in_terms/)
-- [How to set ImeAction.Done on last visible TextField](https://www.reddit.com/r/androiddev/comments/1jxqw5c/how_to_set_imeactiondone_on_last_visible_textfield/)
-- [Per-second update interval in Tiles](https://www.reddit.com/r/androiddev/comments/1jxq2o0/persecond_update_interval_in_tiles/)
-- [Deep link hijacking and how to avoid them](https://www.reddit.com/r/androiddev/comments/1jxep3a/deep_link_hijacking_and_how_to_avoid_them/)
-- [Android developer job](https://www.reddit.com/r/androiddev/comments/1jxekr5/android_developer_job/)
-- [Do you think companies shift from building native solutions&lpar;Android/ iOS&rpar; to Progressive Web Apps?](https://www.reddit.com/r/androiddev/comments/1jx23a4/do_you_think_companies_shift_from_building_native/)
-- [Search for a solution for multithreaded emulation](https://www.reddit.com/r/androiddev/comments/1jwyhst/search_for_a_solution_for_multithreaded_emulation/)
-- [My app is ready for alpha release, and I just got verified, any tips on how to have a successful launch?](https://www.reddit.com/r/androiddev/comments/1jwxjcl/my_app_is_ready_for_alpha_release_and_i_just_got/)
+- [Ads not showing to someusers](https://www.reddit.com/r/androiddev/comments/1jyn788/ads_not_showing_to_someusers/)
+- [Anyone heard of an app with this feature?](https://www.reddit.com/r/androiddev/comments/1jymemu/anyone_heard_of_an_app_with_this_feature/)
+- [I created an android app to discover new and unique developer tools.](https://www.reddit.com/r/androiddev/comments/1jyev9c/i_created_an_android_app_to_discover_new_and/)
+- [What will happen if I create a new payment profile during the verification process?](https://www.reddit.com/r/androiddev/comments/1jyedak/what_will_happen_if_i_create_a_new_payment/)
+- [I need help with something i hope is basic](https://www.reddit.com/r/androiddev/comments/1jye76y/i_need_help_with_something_i_hope_is_basic/)
+- [How can i make my app send notifications even if it&#39;s closed](https://www.reddit.com/r/androiddev/comments/1jyctax/how_can_i_make_my_app_send_notifications_even_if/)
+- [What would you do in this code review situation?](https://www.reddit.com/r/androiddev/comments/1jyc2wc/what_would_you_do_in_this_code_review_situation/)
+- [Choose app icon for my nothing todo app](https://www.reddit.com/r/androiddev/comments/1jyc1q2/choose_app_icon_for_my_nothing_todo_app/)
+- [How to start programming](https://www.reddit.com/r/androiddev/comments/1jya23r/how_to_start_programming/)
+- [Custom material3 theme](https://www.reddit.com/r/androiddev/comments/1jy9sae/custom_material3_theme/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
