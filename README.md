@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best practices to fetch state from DB, edit state, then write edits back to DB at the end?](https://www.reddit.com/r/androiddev/comments/1jzdkx1/best_practices_to_fetch_state_from_db_edit_state/)
-- [App just got banned :-&lpar;](https://www.reddit.com/r/androiddev/comments/1jzap5f/app_just_got_banned/)
-- [Android Developers Blog: From dashboards to deeper data: Improve app quality and performance with new Play Console insights](https://www.reddit.com/r/androiddev/comments/1jz6zk4/android_developers_blog_from_dashboards_to_deeper/)
-- [Y Combinator backed startup, AfterQuery is looking to license old repositories/code for the top AI research labs.](https://www.reddit.com/r/androiddev/comments/1jz6wqu/y_combinator_backed_startup_afterquery_is_looking/)
-- [Does Google Play report income on 1099 when it was paid or when sales were made?](https://www.reddit.com/r/androiddev/comments/1jz6gj3/does_google_play_report_income_on_1099_when_it/)
-- [Flutter or kotlin?Help!!!](https://www.reddit.com/r/androiddev/comments/1jz5809/flutter_or_kotlinhelp/)
-- [Android emulator extremely slow in linux but not windows?](https://www.reddit.com/r/androiddev/comments/1jz2w96/android_emulator_extremely_slow_in_linux_but_not/)
-- [The State of Native Android Development — Is There Still a Future?](https://www.reddit.com/r/androiddev/comments/1jz2r0d/the_state_of_native_android_development_is_there/)
-- [Does anyone have input on Supabase vs Firebase as a backend?](https://www.reddit.com/r/androiddev/comments/1jz1jk0/does_anyone_have_input_on_supabase_vs_firebase_as/)
-- [Exporting files with duplicate names changes extension and not the filename?](https://www.reddit.com/r/androiddev/comments/1jz1i44/exporting_files_with_duplicate_names_changes/)
+- [Android addressing ‘excessive’ battery drain with new app wake locks metric](https://www.reddit.com/r/androiddev/comments/1k09i1l/android_addressing_excessive_battery_drain_with/)
+- [How do I get this to stop running in my background?](https://www.reddit.com/r/androiddev/comments/1k08ujh/how_do_i_get_this_to_stop_running_in_my_background/)
+- [Built a Compose app for parents of babies with PDE &lpar;rare epilepsy&rpar; – local-only, no Firebase](https://www.reddit.com/r/androiddev/comments/1k0462u/built_a_compose_app_for_parents_of_babies_with/)
+- [Looking for suggestion on method to deliver notifications](https://www.reddit.com/r/androiddev/comments/1k037de/looking_for_suggestion_on_method_to_deliver/)
+- [[Android developer 6 YoE mid level 🇺🇸]](https://www.reddit.com/r/androiddev/comments/1k02k2z/android_developer_6_yoe_mid_level/)
+- [Do you have any Android/Mobile Development newsletters worth subscribing to?](https://www.reddit.com/r/androiddev/comments/1k012rq/do_you_have_any_androidmobile_development/)
+- [Continuous positiong fetching in background](https://www.reddit.com/r/androiddev/comments/1jzzveg/continuous_positiong_fetching_in_background/)
+- [Anyone received a Google Play payout via Payoneer with wrong beneficiary name?](https://www.reddit.com/r/androiddev/comments/1jzz2ai/anyone_received_a_google_play_payout_via_payoneer/)
+- [Boost app performance and battery life: New Android Vitals Metrics are here](https://www.reddit.com/r/androiddev/comments/1jzyy0f/boost_app_performance_and_battery_life_new/)
+- [Grok 3 &amp; GPT 4.1 results on the Kotlin-bench eval](https://www.reddit.com/r/androiddev/comments/1jzxj50/grok_3_gpt_41_results_on_the_kotlinbench_eval/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
