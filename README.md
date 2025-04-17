@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android addressing ‘excessive’ battery drain with new app wake locks metric](https://www.reddit.com/r/androiddev/comments/1k09i1l/android_addressing_excessive_battery_drain_with/)
-- [How do I get this to stop running in my background?](https://www.reddit.com/r/androiddev/comments/1k08ujh/how_do_i_get_this_to_stop_running_in_my_background/)
-- [Built a Compose app for parents of babies with PDE &lpar;rare epilepsy&rpar; – local-only, no Firebase](https://www.reddit.com/r/androiddev/comments/1k0462u/built_a_compose_app_for_parents_of_babies_with/)
-- [Looking for suggestion on method to deliver notifications](https://www.reddit.com/r/androiddev/comments/1k037de/looking_for_suggestion_on_method_to_deliver/)
-- [[Android developer 6 YoE mid level 🇺🇸]](https://www.reddit.com/r/androiddev/comments/1k02k2z/android_developer_6_yoe_mid_level/)
-- [Do you have any Android/Mobile Development newsletters worth subscribing to?](https://www.reddit.com/r/androiddev/comments/1k012rq/do_you_have_any_androidmobile_development/)
-- [Continuous positiong fetching in background](https://www.reddit.com/r/androiddev/comments/1jzzveg/continuous_positiong_fetching_in_background/)
-- [Anyone received a Google Play payout via Payoneer with wrong beneficiary name?](https://www.reddit.com/r/androiddev/comments/1jzz2ai/anyone_received_a_google_play_payout_via_payoneer/)
-- [Boost app performance and battery life: New Android Vitals Metrics are here](https://www.reddit.com/r/androiddev/comments/1jzyy0f/boost_app_performance_and_battery_life_new/)
-- [Grok 3 &amp; GPT 4.1 results on the Kotlin-bench eval](https://www.reddit.com/r/androiddev/comments/1jzxj50/grok_3_gpt_41_results_on_the_kotlinbench_eval/)
+- [Emulator not starting after update](https://www.reddit.com/r/androiddev/comments/1k0wx6z/emulator_not_starting_after_update/)
+- [Help with Deleting retail mode samsung stuff from my note 3](https://www.reddit.com/r/androiddev/comments/1k0w8dn/help_with_deleting_retail_mode_samsung_stuff_from/)
+- [Hey folks — anyone here who’s built an app in India but sells subscriptions to the US and UK markets? Would love to know how you handled taxes, GST, international payments, and legal stuff. What’s your process like](https://www.reddit.com/r/androiddev/comments/1k0ut4t/hey_folks_anyone_here_whos_built_an_app_in_india/)
+- [What are your thoughts on Expo?](https://www.reddit.com/r/androiddev/comments/1k0szpx/what_are_your_thoughts_on_expo/)
+- [How hard would it be to modify an existing app in the android app store?](https://www.reddit.com/r/androiddev/comments/1k0sly3/how_hard_would_it_be_to_modify_an_existing_app_in/)
+- [Do achievements count as &quot;Inaccesible feature&quot;?](https://www.reddit.com/r/androiddev/comments/1k0r5os/do_achievements_count_as_inaccesible_feature/)
+- [Sample project showing how to obfuscate string resources in an Android app and library.](https://www.reddit.com/r/androiddev/comments/1k0mun5/sample_project_showing_how_to_obfuscate_string/)
+- [My personal note app](https://www.reddit.com/r/androiddev/comments/1k0lse4/my_personal_note_app/)
+- [jobs for US &quot;expats&quot; ...](https://www.reddit.com/r/androiddev/comments/1k0kiwt/jobs_for_us_expats/)
+- [What syntatic sugar or code practices made your life easier?](https://www.reddit.com/r/androiddev/comments/1k0k2re/what_syntatic_sugar_or_code_practices_made_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
