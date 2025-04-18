@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Emulator not starting after update](https://www.reddit.com/r/androiddev/comments/1k0wx6z/emulator_not_starting_after_update/)
-- [Help with Deleting retail mode samsung stuff from my note 3](https://www.reddit.com/r/androiddev/comments/1k0w8dn/help_with_deleting_retail_mode_samsung_stuff_from/)
-- [Hey folks — anyone here who’s built an app in India but sells subscriptions to the US and UK markets? Would love to know how you handled taxes, GST, international payments, and legal stuff. What’s your process like](https://www.reddit.com/r/androiddev/comments/1k0ut4t/hey_folks_anyone_here_whos_built_an_app_in_india/)
-- [What are your thoughts on Expo?](https://www.reddit.com/r/androiddev/comments/1k0szpx/what_are_your_thoughts_on_expo/)
-- [How hard would it be to modify an existing app in the android app store?](https://www.reddit.com/r/androiddev/comments/1k0sly3/how_hard_would_it_be_to_modify_an_existing_app_in/)
-- [Do achievements count as &quot;Inaccesible feature&quot;?](https://www.reddit.com/r/androiddev/comments/1k0r5os/do_achievements_count_as_inaccesible_feature/)
-- [Sample project showing how to obfuscate string resources in an Android app and library.](https://www.reddit.com/r/androiddev/comments/1k0mun5/sample_project_showing_how_to_obfuscate_string/)
-- [My personal note app](https://www.reddit.com/r/androiddev/comments/1k0lse4/my_personal_note_app/)
-- [jobs for US &quot;expats&quot; ...](https://www.reddit.com/r/androiddev/comments/1k0kiwt/jobs_for_us_expats/)
-- [What syntatic sugar or code practices made your life easier?](https://www.reddit.com/r/androiddev/comments/1k0k2re/what_syntatic_sugar_or_code_practices_made_your/)
+- [Positive reviews show in Play Console but NEVER reach the public listing – shadow‑ban or something else?](https://www.reddit.com/r/androiddev/comments/1k1sygs/positive_reviews_show_in_play_console_but_never/)
+- [Quick Settings Bluetooth tile bug](https://www.reddit.com/r/androiddev/comments/1k1rjjj/quick_settings_bluetooth_tile_bug/)
+- [What should I know/ have achieved to be considered mid-senior Android developer?](https://www.reddit.com/r/androiddev/comments/1k1ndqz/what_should_i_know_have_achieved_to_be_considered/)
+- [WikiReader - A FOSS app for reading Wikipedia pages distraction-free](https://www.reddit.com/r/androiddev/comments/1k1jkyx/wikireader_a_foss_app_for_reading_wikipedia_pages/)
+- [TensorFlow lite](https://www.reddit.com/r/androiddev/comments/1k1jdoo/tensorflow_lite/)
+- [Random guy offered to buy my old Android app for $100 – is this a scam?](https://www.reddit.com/r/androiddev/comments/1k1ifkd/random_guy_offered_to_buy_my_old_android_app_for/)
+- [Why Compose animations have so unfriendly api design?](https://www.reddit.com/r/androiddev/comments/1k1e0jh/why_compose_animations_have_so_unfriendly_api/)
+- [Help to correct app install mistake](https://www.reddit.com/r/androiddev/comments/1k1c0t7/help_to_correct_app_install_mistake/)
+- [How do you currently reply to user reviews on google play? Do you reply manually, use some particular tool or have some other process?](https://www.reddit.com/r/androiddev/comments/1k1bkd3/how_do_you_currently_reply_to_user_reviews_on/)
+- [React Native Isn&#39;t as Popular as You Think](https://www.reddit.com/r/androiddev/comments/1k1729l/react_native_isnt_as_popular_as_you_think/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
