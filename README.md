@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Positive reviews show in Play Console but NEVER reach the public listing – shadow‑ban or something else?](https://www.reddit.com/r/androiddev/comments/1k1sygs/positive_reviews_show_in_play_console_but_never/)
-- [Quick Settings Bluetooth tile bug](https://www.reddit.com/r/androiddev/comments/1k1rjjj/quick_settings_bluetooth_tile_bug/)
-- [What should I know/ have achieved to be considered mid-senior Android developer?](https://www.reddit.com/r/androiddev/comments/1k1ndqz/what_should_i_know_have_achieved_to_be_considered/)
-- [WikiReader - A FOSS app for reading Wikipedia pages distraction-free](https://www.reddit.com/r/androiddev/comments/1k1jkyx/wikireader_a_foss_app_for_reading_wikipedia_pages/)
-- [TensorFlow lite](https://www.reddit.com/r/androiddev/comments/1k1jdoo/tensorflow_lite/)
-- [Random guy offered to buy my old Android app for $100 – is this a scam?](https://www.reddit.com/r/androiddev/comments/1k1ifkd/random_guy_offered_to_buy_my_old_android_app_for/)
-- [Why Compose animations have so unfriendly api design?](https://www.reddit.com/r/androiddev/comments/1k1e0jh/why_compose_animations_have_so_unfriendly_api/)
-- [Help to correct app install mistake](https://www.reddit.com/r/androiddev/comments/1k1c0t7/help_to_correct_app_install_mistake/)
-- [How do you currently reply to user reviews on google play? Do you reply manually, use some particular tool or have some other process?](https://www.reddit.com/r/androiddev/comments/1k1bkd3/how_do_you_currently_reply_to_user_reviews_on/)
-- [React Native Isn&#39;t as Popular as You Think](https://www.reddit.com/r/androiddev/comments/1k1729l/react_native_isnt_as_popular_as_you_think/)
+- [Why do I have to delete my build folder constantly with Android Studio?](https://www.reddit.com/r/androiddev/comments/1k2lamm/why_do_i_have_to_delete_my_build_folder/)
+- [Im looking for some tips](https://www.reddit.com/r/androiddev/comments/1k2kcsc/im_looking_for_some_tips/)
+- [Gradle and CMake &#39;cannot snapshot ... not a regular file&#39; error](https://www.reddit.com/r/androiddev/comments/1k2jnwy/gradle_and_cmake_cannot_snapshot_not_a_regular/)
+- [My ViewModel has too many states, functions and feels messy. How can I improve it?](https://www.reddit.com/r/androiddev/comments/1k2e040/my_viewmodel_has_too_many_states_functions_and/)
+- [Use Maps Embed API for Streetview](https://www.reddit.com/r/androiddev/comments/1k2dndi/use_maps_embed_api_for_streetview/)
+- [Can&#39;t change fragment view from parent using findFragmentByTag](https://www.reddit.com/r/androiddev/comments/1k2dai6/cant_change_fragment_view_from_parent_using/)
+- [Handling EncryptedSharedPreferences recent deprecation](https://www.reddit.com/r/androiddev/comments/1k2crqv/handling_encryptedsharedpreferences_recent/)
+- [Using queries in AndroidManifest to gain competitive insights &lpar;Yes, legally&rpar;](https://www.reddit.com/r/androiddev/comments/1k2c8i6/using_queries_in_androidmanifest_to_gain/)
+- [What&#39;s the most reliable setup in 2025 for dynamic Android app analysis &lpar;need to capture encrypted traffic and decrypt it&rpar;?](https://www.reddit.com/r/androiddev/comments/1k2c7jf/whats_the_most_reliable_setup_in_2025_for_dynamic/)
+- [USB Debugging keeps toggling off in Nothing Phone 2a. Any fix?](https://www.reddit.com/r/androiddev/comments/1k2c2ce/usb_debugging_keeps_toggling_off_in_nothing_phone/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
