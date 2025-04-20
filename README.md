@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why do I have to delete my build folder constantly with Android Studio?](https://www.reddit.com/r/androiddev/comments/1k2lamm/why_do_i_have_to_delete_my_build_folder/)
-- [Im looking for some tips](https://www.reddit.com/r/androiddev/comments/1k2kcsc/im_looking_for_some_tips/)
-- [Gradle and CMake &#39;cannot snapshot ... not a regular file&#39; error](https://www.reddit.com/r/androiddev/comments/1k2jnwy/gradle_and_cmake_cannot_snapshot_not_a_regular/)
-- [My ViewModel has too many states, functions and feels messy. How can I improve it?](https://www.reddit.com/r/androiddev/comments/1k2e040/my_viewmodel_has_too_many_states_functions_and/)
-- [Use Maps Embed API for Streetview](https://www.reddit.com/r/androiddev/comments/1k2dndi/use_maps_embed_api_for_streetview/)
-- [Can&#39;t change fragment view from parent using findFragmentByTag](https://www.reddit.com/r/androiddev/comments/1k2dai6/cant_change_fragment_view_from_parent_using/)
-- [Handling EncryptedSharedPreferences recent deprecation](https://www.reddit.com/r/androiddev/comments/1k2crqv/handling_encryptedsharedpreferences_recent/)
-- [Using queries in AndroidManifest to gain competitive insights &lpar;Yes, legally&rpar;](https://www.reddit.com/r/androiddev/comments/1k2c8i6/using_queries_in_androidmanifest_to_gain/)
-- [What&#39;s the most reliable setup in 2025 for dynamic Android app analysis &lpar;need to capture encrypted traffic and decrypt it&rpar;?](https://www.reddit.com/r/androiddev/comments/1k2c7jf/whats_the_most_reliable_setup_in_2025_for_dynamic/)
-- [USB Debugging keeps toggling off in Nothing Phone 2a. Any fix?](https://www.reddit.com/r/androiddev/comments/1k2c2ce/usb_debugging_keeps_toggling_off_in_nothing_phone/)
+- [Publishing on Play Console](https://www.reddit.com/r/androiddev/comments/1k3c0db/publishing_on_play_console/)
+- [Looking for a wifi direct test app](https://www.reddit.com/r/androiddev/comments/1k37t22/looking_for_a_wifi_direct_test_app/)
+- [Any project suggestion that implements complex type safe navigation and koin di?](https://www.reddit.com/r/androiddev/comments/1k370sv/any_project_suggestion_that_implements_complex/)
+- [USB Debugging not working &lpar;for debugging app&rpar;](https://www.reddit.com/r/androiddev/comments/1k341o5/usb_debugging_not_working_for_debugging_app/)
+- [Google play voucher problem &lpar;eng/ro&rpar;](https://www.reddit.com/r/androiddev/comments/1k31ykd/google_play_voucher_problem_engro/)
+- [Why most apps are made with Java](https://www.reddit.com/r/androiddev/comments/1k30fhc/why_most_apps_are_made_with_java/)
+- [My wireframe generator is not wireframing...](https://www.reddit.com/r/androiddev/comments/1k30avg/my_wireframe_generator_is_not_wireframing/)
+- [Introducing ADBuster: Your Ultimate ADB Tool for Android Management!](https://www.reddit.com/r/androiddev/comments/1k2yx7u/introducing_adbuster_your_ultimate_adb_tool_for/)
+- [Open-sourced an unstyled Slider component for Compose](https://www.reddit.com/r/androiddev/comments/1k2yp20/opensourced_an_unstyled_slider_component_for/)
+- [Trying to make mp3 player app but there is a catch, Media3](https://www.reddit.com/r/androiddev/comments/1k2xxcx/trying_to_make_mp3_player_app_but_there_is_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
