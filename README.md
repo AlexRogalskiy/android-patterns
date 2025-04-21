@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Publishing on Play Console](https://www.reddit.com/r/androiddev/comments/1k3c0db/publishing_on_play_console/)
-- [Looking for a wifi direct test app](https://www.reddit.com/r/androiddev/comments/1k37t22/looking_for_a_wifi_direct_test_app/)
-- [Any project suggestion that implements complex type safe navigation and koin di?](https://www.reddit.com/r/androiddev/comments/1k370sv/any_project_suggestion_that_implements_complex/)
-- [USB Debugging not working &lpar;for debugging app&rpar;](https://www.reddit.com/r/androiddev/comments/1k341o5/usb_debugging_not_working_for_debugging_app/)
-- [Google play voucher problem &lpar;eng/ro&rpar;](https://www.reddit.com/r/androiddev/comments/1k31ykd/google_play_voucher_problem_engro/)
-- [Why most apps are made with Java](https://www.reddit.com/r/androiddev/comments/1k30fhc/why_most_apps_are_made_with_java/)
-- [My wireframe generator is not wireframing...](https://www.reddit.com/r/androiddev/comments/1k30avg/my_wireframe_generator_is_not_wireframing/)
-- [Introducing ADBuster: Your Ultimate ADB Tool for Android Management!](https://www.reddit.com/r/androiddev/comments/1k2yx7u/introducing_adbuster_your_ultimate_adb_tool_for/)
-- [Open-sourced an unstyled Slider component for Compose](https://www.reddit.com/r/androiddev/comments/1k2yp20/opensourced_an_unstyled_slider_component_for/)
-- [Trying to make mp3 player app but there is a catch, Media3](https://www.reddit.com/r/androiddev/comments/1k2xxcx/trying_to_make_mp3_player_app_but_there_is_a/)
+- [i need help looking for a free cloud PC that has enough storage and ram to develop and test AOSP](https://www.reddit.com/r/androiddev/comments/1k3v8va/i_need_help_looking_for_a_free_cloud_pc_that_has/)
+- [Open-sourced an unstyled TabGroup component for Compose](https://www.reddit.com/r/androiddev/comments/1k3nnhz/opensourced_an_unstyled_tabgroup_component_for/)
+- [Suggest a Good free course](https://www.reddit.com/r/androiddev/comments/1k3nmwv/suggest_a_good_free_course/)
+- [Career Advice Needed: Feeling Stagnant After 12 Years in Android Multimedia Frameworks](https://www.reddit.com/r/androiddev/comments/1k3mu9d/career_advice_needed_feeling_stagnant_after_12/)
+- [Trying to prevent ui from stretching on tablets](https://www.reddit.com/r/androiddev/comments/1k3kjt0/trying_to_prevent_ui_from_stretching_on_tablets/)
+- [Trying to prevent ui from stretching on tablets](https://www.reddit.com/r/androiddev/comments/1k3ki4u/trying_to_prevent_ui_from_stretching_on_tablets/)
+- [Play Console&#39;s wants to display my Fullname and legal address](https://www.reddit.com/r/androiddev/comments/1k3jemp/play_consoles_wants_to_display_my_fullname_and/)
+- [Swip Gesture not working](https://www.reddit.com/r/androiddev/comments/1k3iuuw/swip_gesture_not_working/)
+- [Getting &quot;E No adapter attached; skipping layout&quot; on jetpack compose horizontal pager while ui testing](https://www.reddit.com/r/androiddev/comments/1k3i15p/getting_e_no_adapter_attached_skipping_layout_on/)
+- [[Showoff] How I built an Android PDF viewer that’s ~100 KB — with zooming, prefetching, caching, secure viewing](https://www.reddit.com/r/androiddev/comments/1k3er88/showoff_how_i_built_an_android_pdf_viewer_thats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
