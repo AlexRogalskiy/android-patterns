@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [i need help looking for a free cloud PC that has enough storage and ram to develop and test AOSP](https://www.reddit.com/r/androiddev/comments/1k3v8va/i_need_help_looking_for_a_free_cloud_pc_that_has/)
-- [Open-sourced an unstyled TabGroup component for Compose](https://www.reddit.com/r/androiddev/comments/1k3nnhz/opensourced_an_unstyled_tabgroup_component_for/)
-- [Suggest a Good free course](https://www.reddit.com/r/androiddev/comments/1k3nmwv/suggest_a_good_free_course/)
-- [Career Advice Needed: Feeling Stagnant After 12 Years in Android Multimedia Frameworks](https://www.reddit.com/r/androiddev/comments/1k3mu9d/career_advice_needed_feeling_stagnant_after_12/)
-- [Trying to prevent ui from stretching on tablets](https://www.reddit.com/r/androiddev/comments/1k3kjt0/trying_to_prevent_ui_from_stretching_on_tablets/)
-- [Trying to prevent ui from stretching on tablets](https://www.reddit.com/r/androiddev/comments/1k3ki4u/trying_to_prevent_ui_from_stretching_on_tablets/)
-- [Play Console&#39;s wants to display my Fullname and legal address](https://www.reddit.com/r/androiddev/comments/1k3jemp/play_consoles_wants_to_display_my_fullname_and/)
-- [Swip Gesture not working](https://www.reddit.com/r/androiddev/comments/1k3iuuw/swip_gesture_not_working/)
-- [Getting &quot;E No adapter attached; skipping layout&quot; on jetpack compose horizontal pager while ui testing](https://www.reddit.com/r/androiddev/comments/1k3i15p/getting_e_no_adapter_attached_skipping_layout_on/)
-- [[Showoff] How I built an Android PDF viewer that’s ~100 KB — with zooming, prefetching, caching, secure viewing](https://www.reddit.com/r/androiddev/comments/1k3er88/showoff_how_i_built_an_android_pdf_viewer_thats/)
+- [StateFlow not recomposing](https://www.reddit.com/r/androiddev/comments/1k4t0zj/stateflow_not_recomposing/)
+- [Outdated App Name/Logo Showing for Facebook/X Ads?](https://www.reddit.com/r/androiddev/comments/1k4s8l6/outdated_app_namelogo_showing_for_facebookx_ads/)
+- [Help with DeviceAdmin App I’m creating](https://www.reddit.com/r/androiddev/comments/1k4s8km/help_with_deviceadmin_app_im_creating/)
+- [Why is the scroll behaviour of toolbar different in compose than of xml?](https://www.reddit.com/r/androiddev/comments/1k4ow48/why_is_the_scroll_behaviour_of_toolbar_different/)
+- [Just open-sourced a new Compose component: ProgressIndicator](https://www.reddit.com/r/androiddev/comments/1k4nsn3/just_opensourced_a_new_compose_component/)
+- [Value of a specific textbox change itself when I press enter, but only if I use my computer keyboard](https://www.reddit.com/r/androiddev/comments/1k4m9i8/value_of_a_specific_textbox_change_itself_when_i/)
+- [Android Studio Meerkat | 2024.3.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1k4li4s/android_studio_meerkat_202431_patch_2_now/)
+- [Can we release an app which calls http&lpar;not https&rpar; backend endpoint](https://www.reddit.com/r/androiddev/comments/1k4kuhn/can_we_release_an_app_which_calls_httpnot_https/)
+- [Introducing KwikUI v1.0](https://www.reddit.com/r/androiddev/comments/1k4km5v/introducing_kwikui_v10/)
+- [Difficulty juggling several languages: your advice?](https://www.reddit.com/r/androiddev/comments/1k4fwxf/difficulty_juggling_several_languages_your_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
