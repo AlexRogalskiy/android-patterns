@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [StateFlow not recomposing](https://www.reddit.com/r/androiddev/comments/1k4t0zj/stateflow_not_recomposing/)
-- [Outdated App Name/Logo Showing for Facebook/X Ads?](https://www.reddit.com/r/androiddev/comments/1k4s8l6/outdated_app_namelogo_showing_for_facebookx_ads/)
-- [Help with DeviceAdmin App I’m creating](https://www.reddit.com/r/androiddev/comments/1k4s8km/help_with_deviceadmin_app_im_creating/)
-- [Why is the scroll behaviour of toolbar different in compose than of xml?](https://www.reddit.com/r/androiddev/comments/1k4ow48/why_is_the_scroll_behaviour_of_toolbar_different/)
-- [Just open-sourced a new Compose component: ProgressIndicator](https://www.reddit.com/r/androiddev/comments/1k4nsn3/just_opensourced_a_new_compose_component/)
-- [Value of a specific textbox change itself when I press enter, but only if I use my computer keyboard](https://www.reddit.com/r/androiddev/comments/1k4m9i8/value_of_a_specific_textbox_change_itself_when_i/)
-- [Android Studio Meerkat | 2024.3.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1k4li4s/android_studio_meerkat_202431_patch_2_now/)
-- [Can we release an app which calls http&lpar;not https&rpar; backend endpoint](https://www.reddit.com/r/androiddev/comments/1k4kuhn/can_we_release_an_app_which_calls_httpnot_https/)
-- [Introducing KwikUI v1.0](https://www.reddit.com/r/androiddev/comments/1k4km5v/introducing_kwikui_v10/)
-- [Difficulty juggling several languages: your advice?](https://www.reddit.com/r/androiddev/comments/1k4fwxf/difficulty_juggling_several_languages_your_advice/)
+- [&quot;Version code 10000 has already been used. Try another version code.&quot;](https://www.reddit.com/r/androiddev/comments/1k5jfk7/version_code_10000_has_already_been_used_try/)
+- [App access question.](https://www.reddit.com/r/androiddev/comments/1k5f812/app_access_question/)
+- [Just open sourced a new Compose component: Radio Group](https://www.reddit.com/r/androiddev/comments/1k5c7l0/just_open_sourced_a_new_compose_component_radio/)
+- [Is Compose MultiPlatform worth learning?](https://www.reddit.com/r/androiddev/comments/1k5bo1s/is_compose_multiplatform_worth_learning/)
+- [Idk where to post this](https://www.reddit.com/r/androiddev/comments/1k5bf8p/idk_where_to_post_this/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 RC 3 now available](https://www.reddit.com/r/androiddev/comments/1k5be3u/android_studio_meerkat_feature_drop_202432_rc_3/)
+- [Daily downloads down 50% after developer verification](https://www.reddit.com/r/androiddev/comments/1k5bclc/daily_downloads_down_50_after_developer/)
+- [Stuck, day 3 i&#39;m asking you guys](https://www.reddit.com/r/androiddev/comments/1k5axk5/stuck_day_3_im_asking_you_guys/)
+- [CyanogenMod 7.2 for the Motorola Droid A855](https://www.reddit.com/r/androiddev/comments/1k5atrf/cyanogenmod_72_for_the_motorola_droid_a855/)
+- [Looking for an unpaid remote internship](https://www.reddit.com/r/androiddev/comments/1k5asvw/looking_for_an_unpaid_remote_internship/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
