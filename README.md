@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&quot;Version code 10000 has already been used. Try another version code.&quot;](https://www.reddit.com/r/androiddev/comments/1k5jfk7/version_code_10000_has_already_been_used_try/)
-- [App access question.](https://www.reddit.com/r/androiddev/comments/1k5f812/app_access_question/)
-- [Just open sourced a new Compose component: Radio Group](https://www.reddit.com/r/androiddev/comments/1k5c7l0/just_open_sourced_a_new_compose_component_radio/)
-- [Is Compose MultiPlatform worth learning?](https://www.reddit.com/r/androiddev/comments/1k5bo1s/is_compose_multiplatform_worth_learning/)
-- [Idk where to post this](https://www.reddit.com/r/androiddev/comments/1k5bf8p/idk_where_to_post_this/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 RC 3 now available](https://www.reddit.com/r/androiddev/comments/1k5be3u/android_studio_meerkat_feature_drop_202432_rc_3/)
-- [Daily downloads down 50% after developer verification](https://www.reddit.com/r/androiddev/comments/1k5bclc/daily_downloads_down_50_after_developer/)
-- [Stuck, day 3 i&#39;m asking you guys](https://www.reddit.com/r/androiddev/comments/1k5axk5/stuck_day_3_im_asking_you_guys/)
-- [CyanogenMod 7.2 for the Motorola Droid A855](https://www.reddit.com/r/androiddev/comments/1k5atrf/cyanogenmod_72_for_the_motorola_droid_a855/)
-- [Looking for an unpaid remote internship](https://www.reddit.com/r/androiddev/comments/1k5asvw/looking_for_an_unpaid_remote_internship/)
+- [Bottom system bar placeholder doesn’t hide on screens with custom nav_bar – Jetpack Navigation + XML UI](https://www.reddit.com/r/androiddev/comments/1k6auf4/bottom_system_bar_placeholder_doesnt_hide_on/)
+- [Jetpack Compose 1.8.0 is now stable](https://www.reddit.com/r/androiddev/comments/1k69xx8/jetpack_compose_180_is_now_stable/)
+- [Google Play Guidelines &lpar;That Often Get Ignored&rpar;](https://www.reddit.com/r/androiddev/comments/1k69wx2/google_play_guidelines_that_often_get_ignored/)
+- [What are the potential risks of giving external access to Google Play Console?](https://www.reddit.com/r/androiddev/comments/1k691sw/what_are_the_potential_risks_of_giving_external/)
+- [Fighting Flow - My app that lets you create combos in fighting games to help you practice.](https://www.reddit.com/r/androiddev/comments/1k664fq/fighting_flow_my_app_that_lets_you_create_combos/)
+- [App de prod y dev a la vez](https://www.reddit.com/r/androiddev/comments/1k65xfu/app_de_prod_y_dev_a_la_vez/)
+- [Android sdk and ndk binary distribution by google not under free license?](https://www.reddit.com/r/androiddev/comments/1k644ye/android_sdk_and_ndk_binary_distribution_by_google/)
+- [Just open sourced a new Compose component: ✅ Checkbox](https://www.reddit.com/r/androiddev/comments/1k63mpc/just_open_sourced_a_new_compose_component_checkbox/)
+- [Do You Publish on Alternative App Stores Besides Google Play? Is It Worth It?](https://www.reddit.com/r/androiddev/comments/1k61vqr/do_you_publish_on_alternative_app_stores_besides/)
+- [Firebase authentication works on stable WiFi at home but not on hotspot or public WiFi](https://www.reddit.com/r/androiddev/comments/1k613xh/firebase_authentication_works_on_stable_wifi_at/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
