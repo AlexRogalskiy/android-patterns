@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bottom system bar placeholder doesn’t hide on screens with custom nav_bar – Jetpack Navigation + XML UI](https://www.reddit.com/r/androiddev/comments/1k6auf4/bottom_system_bar_placeholder_doesnt_hide_on/)
-- [Jetpack Compose 1.8.0 is now stable](https://www.reddit.com/r/androiddev/comments/1k69xx8/jetpack_compose_180_is_now_stable/)
-- [Google Play Guidelines &lpar;That Often Get Ignored&rpar;](https://www.reddit.com/r/androiddev/comments/1k69wx2/google_play_guidelines_that_often_get_ignored/)
-- [What are the potential risks of giving external access to Google Play Console?](https://www.reddit.com/r/androiddev/comments/1k691sw/what_are_the_potential_risks_of_giving_external/)
-- [Fighting Flow - My app that lets you create combos in fighting games to help you practice.](https://www.reddit.com/r/androiddev/comments/1k664fq/fighting_flow_my_app_that_lets_you_create_combos/)
-- [App de prod y dev a la vez](https://www.reddit.com/r/androiddev/comments/1k65xfu/app_de_prod_y_dev_a_la_vez/)
-- [Android sdk and ndk binary distribution by google not under free license?](https://www.reddit.com/r/androiddev/comments/1k644ye/android_sdk_and_ndk_binary_distribution_by_google/)
-- [Just open sourced a new Compose component: ✅ Checkbox](https://www.reddit.com/r/androiddev/comments/1k63mpc/just_open_sourced_a_new_compose_component_checkbox/)
-- [Do You Publish on Alternative App Stores Besides Google Play? Is It Worth It?](https://www.reddit.com/r/androiddev/comments/1k61vqr/do_you_publish_on_alternative_app_stores_besides/)
-- [Firebase authentication works on stable WiFi at home but not on hotspot or public WiFi](https://www.reddit.com/r/androiddev/comments/1k613xh/firebase_authentication_works_on_stable_wifi_at/)
+- [Google should re-think about their closed testing policy](https://www.reddit.com/r/androiddev/comments/1k7a3ct/google_should_rethink_about_their_closed_testing/)
+- [Beginners&#39; guide: Imperative vs Declarative in Android — The Real Difference](https://www.reddit.com/r/androiddev/comments/1k7554r/beginners_guide_imperative_vs_declarative_in/)
+- [Where to set app version when using Cordova?](https://www.reddit.com/r/androiddev/comments/1k74fvo/where_to_set_app_version_when_using_cordova/)
+- [i made an app to make brand videos on TikTok for mobile apps](https://www.reddit.com/r/androiddev/comments/1k72obk/i_made_an_app_to_make_brand_videos_on_tiktok_for/)
+- [Promoting app advice](https://www.reddit.com/r/androiddev/comments/1k70lfz/promoting_app_advice/)
+- [Google Play: Account Terminated due to Suspended Linkage](https://www.reddit.com/r/androiddev/comments/1k6xp58/google_play_account_terminated_due_to_suspended/)
+- [Anyone with experience using an IR blaster? I can&#39;t get my TVs to power off.](https://www.reddit.com/r/androiddev/comments/1k6xocb/anyone_with_experience_using_an_ir_blaster_i_cant/)
+- [Just open sourced a new Compose component: 🚥 ToggleSwitch](https://www.reddit.com/r/androiddev/comments/1k6ven2/just_open_sourced_a_new_compose_component/)
+- [How can I make my first app and publish?](https://www.reddit.com/r/androiddev/comments/1k6sq5a/how_can_i_make_my_first_app_and_publish/)
+- [App Performance](https://www.reddit.com/r/androiddev/comments/1k6sfn4/app_performance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
