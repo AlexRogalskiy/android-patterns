@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Search Bar in Settings is gone &lpar;Samsung S25&rpar;](https://www.reddit.com/r/androiddev/comments/1k7zcdf/search_bar_in_settings_is_gone_samsung_s25/)
+- [i am not a programer but i moved some files from older version of an apk to the newer version of it, how to solve this problem?](https://www.reddit.com/r/androiddev/comments/1k7pulb/i_am_not_a_programer_but_i_moved_some_files_from/)
+- [Need help with implementing/improving Swipe gestures to a Compose LazyColumn.](https://www.reddit.com/r/androiddev/comments/1k7pigx/need_help_with_implementingimproving_swipe/)
+- [I have app with 20k DAU, 150k DAU, still unable to make $1/day. Need Ad network suggestion other than AdMob.](https://www.reddit.com/r/androiddev/comments/1k7p7uh/i_have_app_with_20k_dau_150k_dau_still_unable_to/)
+- [Android AI agent based on object detection and LLMs](https://www.reddit.com/r/androiddev/comments/1k7o1i7/android_ai_agent_based_on_object_detection_and/)
+- [How can I increase my productivity as an Android developer with AI?](https://www.reddit.com/r/androiddev/comments/1k7mn4e/how_can_i_increase_my_productivity_as_an_android/)
+- [Looking to Hire Mobile App Developers? Here&#39;s What to Look For](https://www.reddit.com/r/androiddev/comments/1k7jr34/looking_to_hire_mobile_app_developers_heres_what/)
+- [FOREGROUND SERVICES FORM SUBMISSION](https://www.reddit.com/r/androiddev/comments/1k7e65v/foreground_services_form_submission/)
 - [Google should re-think about their closed testing policy](https://www.reddit.com/r/androiddev/comments/1k7a3ct/google_should_rethink_about_their_closed_testing/)
-- [Beginners&#39; guide: Imperative vs Declarative in Android — The Real Difference](https://www.reddit.com/r/androiddev/comments/1k7554r/beginners_guide_imperative_vs_declarative_in/)
-- [Where to set app version when using Cordova?](https://www.reddit.com/r/androiddev/comments/1k74fvo/where_to_set_app_version_when_using_cordova/)
-- [i made an app to make brand videos on TikTok for mobile apps](https://www.reddit.com/r/androiddev/comments/1k72obk/i_made_an_app_to_make_brand_videos_on_tiktok_for/)
-- [Promoting app advice](https://www.reddit.com/r/androiddev/comments/1k70lfz/promoting_app_advice/)
-- [Google Play: Account Terminated due to Suspended Linkage](https://www.reddit.com/r/androiddev/comments/1k6xp58/google_play_account_terminated_due_to_suspended/)
-- [Anyone with experience using an IR blaster? I can&#39;t get my TVs to power off.](https://www.reddit.com/r/androiddev/comments/1k6xocb/anyone_with_experience_using_an_ir_blaster_i_cant/)
-- [Just open sourced a new Compose component: 🚥 ToggleSwitch](https://www.reddit.com/r/androiddev/comments/1k6ven2/just_open_sourced_a_new_compose_component/)
-- [How can I make my first app and publish?](https://www.reddit.com/r/androiddev/comments/1k6sq5a/how_can_i_make_my_first_app_and_publish/)
-- [App Performance](https://www.reddit.com/r/androiddev/comments/1k6sfn4/app_performance/)
+- [Question about vertical text API in Android 16](https://www.reddit.com/r/androiddev/comments/1k79j52/question_about_vertical_text_api_in_android_16/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
