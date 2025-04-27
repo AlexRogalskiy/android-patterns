@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Search Bar in Settings is gone &lpar;Samsung S25&rpar;](https://www.reddit.com/r/androiddev/comments/1k7zcdf/search_bar_in_settings_is_gone_samsung_s25/)
-- [i am not a programer but i moved some files from older version of an apk to the newer version of it, how to solve this problem?](https://www.reddit.com/r/androiddev/comments/1k7pulb/i_am_not_a_programer_but_i_moved_some_files_from/)
-- [Need help with implementing/improving Swipe gestures to a Compose LazyColumn.](https://www.reddit.com/r/androiddev/comments/1k7pigx/need_help_with_implementingimproving_swipe/)
-- [I have app with 20k DAU, 150k DAU, still unable to make $1/day. Need Ad network suggestion other than AdMob.](https://www.reddit.com/r/androiddev/comments/1k7p7uh/i_have_app_with_20k_dau_150k_dau_still_unable_to/)
-- [Android AI agent based on object detection and LLMs](https://www.reddit.com/r/androiddev/comments/1k7o1i7/android_ai_agent_based_on_object_detection_and/)
-- [How can I increase my productivity as an Android developer with AI?](https://www.reddit.com/r/androiddev/comments/1k7mn4e/how_can_i_increase_my_productivity_as_an_android/)
-- [Looking to Hire Mobile App Developers? Here&#39;s What to Look For](https://www.reddit.com/r/androiddev/comments/1k7jr34/looking_to_hire_mobile_app_developers_heres_what/)
-- [FOREGROUND SERVICES FORM SUBMISSION](https://www.reddit.com/r/androiddev/comments/1k7e65v/foreground_services_form_submission/)
-- [Google should re-think about their closed testing policy](https://www.reddit.com/r/androiddev/comments/1k7a3ct/google_should_rethink_about_their_closed_testing/)
-- [Question about vertical text API in Android 16](https://www.reddit.com/r/androiddev/comments/1k79j52/question_about_vertical_text_api_in_android_16/)
+- [What types of mobile apps should I build to get hired in future?](https://www.reddit.com/r/androiddev/comments/1k8sw1t/what_types_of_mobile_apps_should_i_build_to_get/)
+- [Would you be interested in working on startup with no pay but equity?](https://www.reddit.com/r/androiddev/comments/1k8rbsn/would_you_be_interested_in_working_on_startup/)
+- [I created a Java library for Material Color Utilities &lpar;port of Google&#39;s library&rpar;](https://www.reddit.com/r/androiddev/comments/1k8m121/i_created_a_java_library_for_material_color/)
+- [How difficult is it for solo-dev to do web and mobile development?](https://www.reddit.com/r/androiddev/comments/1k8hoze/how_difficult_is_it_for_solodev_to_do_web_and/)
+- [Seriously? &quot;MMKV crashes if remote debugging is on, even on real devices&quot;???](https://www.reddit.com/r/androiddev/comments/1k8e15r/seriously_mmkv_crashes_if_remote_debugging_is_on/)
+- [Book &quot;Head First Android Development&quot;. 3rd edition from 2023. Worth it?](https://www.reddit.com/r/androiddev/comments/1k8c548/book_head_first_android_development_3rd_edition/)
+- [How difficult is the process for publishing an app to the Android Store?](https://www.reddit.com/r/androiddev/comments/1k8b9kq/how_difficult_is_the_process_for_publishing_an/)
+- [Releasing Android Apps](https://www.reddit.com/r/androiddev/comments/1k8ap4i/releasing_android_apps/)
+- [&quot;no phone&quot; in qpst tool](https://www.reddit.com/r/androiddev/comments/1k8aozh/no_phone_in_qpst_tool/)
+- [Internet radio stations API](https://www.reddit.com/r/androiddev/comments/1k89rgc/internet_radio_stations_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
