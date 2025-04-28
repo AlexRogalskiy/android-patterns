@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What types of mobile apps should I build to get hired in future?](https://www.reddit.com/r/androiddev/comments/1k8sw1t/what_types_of_mobile_apps_should_i_build_to_get/)
-- [Would you be interested in working on startup with no pay but equity?](https://www.reddit.com/r/androiddev/comments/1k8rbsn/would_you_be_interested_in_working_on_startup/)
-- [I created a Java library for Material Color Utilities &lpar;port of Google&#39;s library&rpar;](https://www.reddit.com/r/androiddev/comments/1k8m121/i_created_a_java_library_for_material_color/)
-- [How difficult is it for solo-dev to do web and mobile development?](https://www.reddit.com/r/androiddev/comments/1k8hoze/how_difficult_is_it_for_solodev_to_do_web_and/)
-- [Seriously? &quot;MMKV crashes if remote debugging is on, even on real devices&quot;???](https://www.reddit.com/r/androiddev/comments/1k8e15r/seriously_mmkv_crashes_if_remote_debugging_is_on/)
-- [Book &quot;Head First Android Development&quot;. 3rd edition from 2023. Worth it?](https://www.reddit.com/r/androiddev/comments/1k8c548/book_head_first_android_development_3rd_edition/)
-- [How difficult is the process for publishing an app to the Android Store?](https://www.reddit.com/r/androiddev/comments/1k8b9kq/how_difficult_is_the_process_for_publishing_an/)
-- [Releasing Android Apps](https://www.reddit.com/r/androiddev/comments/1k8ap4i/releasing_android_apps/)
-- [&quot;no phone&quot; in qpst tool](https://www.reddit.com/r/androiddev/comments/1k8aozh/no_phone_in_qpst_tool/)
-- [Internet radio stations API](https://www.reddit.com/r/androiddev/comments/1k89rgc/internet_radio_stations_api/)
+- [Created a Password Manager in Android Studio and its Currently Open Source on Github](https://www.reddit.com/r/androiddev/comments/1k9jc6u/created_a_password_manager_in_android_studio_and/)
+- [Unable to hide bottom nav bar in Jetpack Compost](https://www.reddit.com/r/androiddev/comments/1k9g0n0/unable_to_hide_bottom_nav_bar_in_jetpack_compost/)
+- [Wheel Time Picker - Jetpack Compose Library](https://www.reddit.com/r/androiddev/comments/1k9998u/wheel_time_picker_jetpack_compose_library/)
+- [Design decoded: The architecture design choices behind SmartScan](https://www.reddit.com/r/androiddev/comments/1k99636/design_decoded_the_architecture_design_choices/)
+- [Doowat - WeatherAPI + Places Api](https://www.reddit.com/r/androiddev/comments/1k9910z/doowat_weatherapi_places_api/)
+- [Infrequent/inconsistent updates of a BLE device without CDM](https://www.reddit.com/r/androiddev/comments/1k98oao/infrequentinconsistent_updates_of_a_ble_device/)
+- [Questions about implementing Alternative Billing for digital goods in the EEA &lpar;Android&rpar;](https://www.reddit.com/r/androiddev/comments/1k94wv2/questions_about_implementing_alternative_billing/)
+- [Need guidance on how to create an android App.](https://www.reddit.com/r/androiddev/comments/1k92d2c/need_guidance_on_how_to_create_an_android_app/)
+- [Choosing Android Development as a career in 2025](https://www.reddit.com/r/androiddev/comments/1k927sc/choosing_android_development_as_a_career_in_2025/)
+- [I&#39;ve just open-sourced the code for my Night Clock Android app!](https://www.reddit.com/r/androiddev/comments/1k91p02/ive_just_opensourced_the_code_for_my_night_clock/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
