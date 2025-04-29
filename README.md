@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Created a Password Manager in Android Studio and its Currently Open Source on Github](https://www.reddit.com/r/androiddev/comments/1k9jc6u/created_a_password_manager_in_android_studio_and/)
-- [Unable to hide bottom nav bar in Jetpack Compost](https://www.reddit.com/r/androiddev/comments/1k9g0n0/unable_to_hide_bottom_nav_bar_in_jetpack_compost/)
-- [Wheel Time Picker - Jetpack Compose Library](https://www.reddit.com/r/androiddev/comments/1k9998u/wheel_time_picker_jetpack_compose_library/)
-- [Design decoded: The architecture design choices behind SmartScan](https://www.reddit.com/r/androiddev/comments/1k99636/design_decoded_the_architecture_design_choices/)
-- [Doowat - WeatherAPI + Places Api](https://www.reddit.com/r/androiddev/comments/1k9910z/doowat_weatherapi_places_api/)
-- [Infrequent/inconsistent updates of a BLE device without CDM](https://www.reddit.com/r/androiddev/comments/1k98oao/infrequentinconsistent_updates_of_a_ble_device/)
-- [Questions about implementing Alternative Billing for digital goods in the EEA &lpar;Android&rpar;](https://www.reddit.com/r/androiddev/comments/1k94wv2/questions_about_implementing_alternative_billing/)
-- [Need guidance on how to create an android App.](https://www.reddit.com/r/androiddev/comments/1k92d2c/need_guidance_on_how_to_create_an_android_app/)
-- [Choosing Android Development as a career in 2025](https://www.reddit.com/r/androiddev/comments/1k927sc/choosing_android_development_as_a_career_in_2025/)
-- [I&#39;ve just open-sourced the code for my Night Clock Android app!](https://www.reddit.com/r/androiddev/comments/1k91p02/ive_just_opensourced_the_code_for_my_night_clock/)
+- [What should be tested with unit tests in an android app?](https://www.reddit.com/r/androiddev/comments/1kabeu1/what_should_be_tested_with_unit_tests_in_an/)
+- [DUNS Number With Agent Address?](https://www.reddit.com/r/androiddev/comments/1ka7fun/duns_number_with_agent_address/)
+- [Lipstick try-on app](https://www.reddit.com/r/androiddev/comments/1ka70fz/lipstick_tryon_app/)
+- [PC restart when I start the emulator](https://www.reddit.com/r/androiddev/comments/1ka61uc/pc_restart_when_i_start_the_emulator/)
+- [Google Play Console Question](https://www.reddit.com/r/androiddev/comments/1ka3r29/google_play_console_question/)
+- [I&#39;m the guy who posted about my AI-powered app developer account suspension.](https://www.reddit.com/r/androiddev/comments/1ka3ib7/im_the_guy_who_posted_about_my_aipowered_app/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 RC 4 now available](https://www.reddit.com/r/androiddev/comments/1ka21wy/android_studio_meerkat_feature_drop_202432_rc_4/)
+- [Android Studio Narwhal | 2025.1.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1ka0j77/android_studio_narwhal_202511_canary_8_now/)
+- [How to find where in my code memory keeps growing infinitely in an Android app?](https://www.reddit.com/r/androiddev/comments/1k9zcdc/how_to_find_where_in_my_code_memory_keeps_growing/)
+- [Best way to decrease memory usage at compile time? And improve build times?](https://www.reddit.com/r/androiddev/comments/1k9yyj3/best_way_to_decrease_memory_usage_at_compile_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
