@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What should be tested with unit tests in an android app?](https://www.reddit.com/r/androiddev/comments/1kabeu1/what_should_be_tested_with_unit_tests_in_an/)
-- [DUNS Number With Agent Address?](https://www.reddit.com/r/androiddev/comments/1ka7fun/duns_number_with_agent_address/)
-- [Lipstick try-on app](https://www.reddit.com/r/androiddev/comments/1ka70fz/lipstick_tryon_app/)
-- [PC restart when I start the emulator](https://www.reddit.com/r/androiddev/comments/1ka61uc/pc_restart_when_i_start_the_emulator/)
-- [Google Play Console Question](https://www.reddit.com/r/androiddev/comments/1ka3r29/google_play_console_question/)
-- [I&#39;m the guy who posted about my AI-powered app developer account suspension.](https://www.reddit.com/r/androiddev/comments/1ka3ib7/im_the_guy_who_posted_about_my_aipowered_app/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 RC 4 now available](https://www.reddit.com/r/androiddev/comments/1ka21wy/android_studio_meerkat_feature_drop_202432_rc_4/)
-- [Android Studio Narwhal | 2025.1.1 Canary 8 now available](https://www.reddit.com/r/androiddev/comments/1ka0j77/android_studio_narwhal_202511_canary_8_now/)
-- [How to find where in my code memory keeps growing infinitely in an Android app?](https://www.reddit.com/r/androiddev/comments/1k9zcdc/how_to_find_where_in_my_code_memory_keeps_growing/)
-- [Best way to decrease memory usage at compile time? And improve build times?](https://www.reddit.com/r/androiddev/comments/1k9yyj3/best_way_to_decrease_memory_usage_at_compile_time/)
+- [Ksoup v0.2.3 Released 🚀](https://www.reddit.com/r/androiddev/comments/1kawjsl/ksoup_v023_released/)
+- [Help: Unity app to take RAW &lpar;DNG&rpar; photo on with fixed settings](https://www.reddit.com/r/androiddev/comments/1kaw0cg/help_unity_app_to_take_raw_dng_photo_on_with/)
+- [Is your company pressuring teams to adopt AI tools?](https://www.reddit.com/r/androiddev/comments/1kavjij/is_your_company_pressuring_teams_to_adopt_ai_tools/)
+- [Host Card Emulator](https://www.reddit.com/r/androiddev/comments/1katstd/host_card_emulator/)
+- [Equalizer application](https://www.reddit.com/r/androiddev/comments/1kast3s/equalizer_application/)
+- [💡 Android Debug vs Release Builds: Best Practices and Common Pitfalls &lpar;Beginner-Friendly Guide&rpar;](https://www.reddit.com/r/androiddev/comments/1kap6c1/android_debug_vs_release_builds_best_practices/)
+- [Experience of using Linux as android developer](https://www.reddit.com/r/androiddev/comments/1kao9l5/experience_of_using_linux_as_android_developer/)
+- [Ensure public interface reliability: Tracking API compatibility for Android and Kotlin](https://www.reddit.com/r/androiddev/comments/1kao5hw/ensure_public_interface_reliability_tracking_api/)
+- [Google fast pair notification](https://www.reddit.com/r/androiddev/comments/1kao4ya/google_fast_pair_notification/)
+- [How to Trigger Timely Background Notifications Based on Local Device Activity on Android?](https://www.reddit.com/r/androiddev/comments/1kanq8k/how_to_trigger_timely_background_notifications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
