@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ksoup v0.2.3 Released 🚀](https://www.reddit.com/r/androiddev/comments/1kawjsl/ksoup_v023_released/)
-- [Help: Unity app to take RAW &lpar;DNG&rpar; photo on with fixed settings](https://www.reddit.com/r/androiddev/comments/1kaw0cg/help_unity_app_to_take_raw_dng_photo_on_with/)
-- [Is your company pressuring teams to adopt AI tools?](https://www.reddit.com/r/androiddev/comments/1kavjij/is_your_company_pressuring_teams_to_adopt_ai_tools/)
-- [Host Card Emulator](https://www.reddit.com/r/androiddev/comments/1katstd/host_card_emulator/)
-- [Equalizer application](https://www.reddit.com/r/androiddev/comments/1kast3s/equalizer_application/)
-- [💡 Android Debug vs Release Builds: Best Practices and Common Pitfalls &lpar;Beginner-Friendly Guide&rpar;](https://www.reddit.com/r/androiddev/comments/1kap6c1/android_debug_vs_release_builds_best_practices/)
-- [Experience of using Linux as android developer](https://www.reddit.com/r/androiddev/comments/1kao9l5/experience_of_using_linux_as_android_developer/)
-- [Ensure public interface reliability: Tracking API compatibility for Android and Kotlin](https://www.reddit.com/r/androiddev/comments/1kao5hw/ensure_public_interface_reliability_tracking_api/)
-- [Google fast pair notification](https://www.reddit.com/r/androiddev/comments/1kao4ya/google_fast_pair_notification/)
-- [How to Trigger Timely Background Notifications Based on Local Device Activity on Android?](https://www.reddit.com/r/androiddev/comments/1kanq8k/how_to_trigger_timely_background_notifications/)
+- [Adding a coming soon feature?](https://www.reddit.com/r/androiddev/comments/1kbv6zp/adding_a_coming_soon_feature/)
+- [Google Play AD_ID permission error despite it being declared in my application manifest and present in app bundle](https://www.reddit.com/r/androiddev/comments/1kbv3fw/google_play_ad_id_permission_error_despite_it/)
+- [App is crashing for some reason](https://www.reddit.com/r/androiddev/comments/1kbsgri/app_is_crashing_for_some_reason/)
+- [Get y&#39;alls stuff together](https://www.reddit.com/r/androiddev/comments/1kbqy2z/get_yalls_stuff_together/)
+- [Interesting Android Apps: May 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1kbng47/interesting_android_apps_may_2025_showcase/)
+- [Considering a Shift from Android Development to Full-Stack Development – Need Advice!](https://www.reddit.com/r/androiddev/comments/1kbn00k/considering_a_shift_from_android_development_to/)
+- [Has anyone passed the 12 testers requirement without getting the REAL testers?](https://www.reddit.com/r/androiddev/comments/1kbk18r/has_anyone_passed_the_12_testers_requirement/)
+- [REST API for Mobile](https://www.reddit.com/r/androiddev/comments/1kbg6u3/rest_api_for_mobile/)
+- [A copycat app on Google Play stole my brand identity, what can I do about it?](https://www.reddit.com/r/androiddev/comments/1kbeyr7/a_copycat_app_on_google_play_stole_my_brand/)
+- [Android strings.xml Translator](https://www.reddit.com/r/androiddev/comments/1kbemyl/android_stringsxml_translator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
