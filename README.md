@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Adding a coming soon feature?](https://www.reddit.com/r/androiddev/comments/1kbv6zp/adding_a_coming_soon_feature/)
-- [Google Play AD_ID permission error despite it being declared in my application manifest and present in app bundle](https://www.reddit.com/r/androiddev/comments/1kbv3fw/google_play_ad_id_permission_error_despite_it/)
-- [App is crashing for some reason](https://www.reddit.com/r/androiddev/comments/1kbsgri/app_is_crashing_for_some_reason/)
-- [Get y&#39;alls stuff together](https://www.reddit.com/r/androiddev/comments/1kbqy2z/get_yalls_stuff_together/)
-- [Interesting Android Apps: May 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1kbng47/interesting_android_apps_may_2025_showcase/)
-- [Considering a Shift from Android Development to Full-Stack Development – Need Advice!](https://www.reddit.com/r/androiddev/comments/1kbn00k/considering_a_shift_from_android_development_to/)
-- [Has anyone passed the 12 testers requirement without getting the REAL testers?](https://www.reddit.com/r/androiddev/comments/1kbk18r/has_anyone_passed_the_12_testers_requirement/)
-- [REST API for Mobile](https://www.reddit.com/r/androiddev/comments/1kbg6u3/rest_api_for_mobile/)
-- [A copycat app on Google Play stole my brand identity, what can I do about it?](https://www.reddit.com/r/androiddev/comments/1kbeyr7/a_copycat_app_on_google_play_stole_my_brand/)
-- [Android strings.xml Translator](https://www.reddit.com/r/androiddev/comments/1kbemyl/android_stringsxml_translator/)
+- [How to implement Instagram&#39;s deep linking for Android](https://www.reddit.com/r/androiddev/comments/1kcp9w7/how_to_implement_instagrams_deep_linking_for/)
+- [Need Advice on Selling My AI Content Generation Plugin on CodeCanyon](https://www.reddit.com/r/androiddev/comments/1kcp7ui/need_advice_on_selling_my_ai_content_generation/)
+- [Blogs/accounts for large company dev teams like Reddit?](https://www.reddit.com/r/androiddev/comments/1kcosym/blogsaccounts_for_large_company_dev_teams_like/)
+- [Using .svg assets in jetback](https://www.reddit.com/r/androiddev/comments/1kcng7g/using_svg_assets_in_jetback/)
+- [My app got prod access, but after rolling out, it is not available to install. What to do?](https://www.reddit.com/r/androiddev/comments/1kcia2e/my_app_got_prod_access_but_after_rolling_out_it/)
+- [android and sensor](https://www.reddit.com/r/androiddev/comments/1kcgq4j/android_and_sensor/)
+- [What data storage should I use for storing lyrics in my app?](https://www.reddit.com/r/androiddev/comments/1kcdcj1/what_data_storage_should_i_use_for_storing_lyrics/)
+- [2048 But Hexagonal](https://www.reddit.com/r/androiddev/comments/1kcd6bx/2048_but_hexagonal/)
+- [Strategies for managing analytics](https://www.reddit.com/r/androiddev/comments/1kcc81n/strategies_for_managing_analytics/)
+- [How to get Google Play to display latest app description and video?](https://www.reddit.com/r/androiddev/comments/1kc8v84/how_to_get_google_play_to_display_latest_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
