@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Very Odd Text inside APK](https://www.reddit.com/r/androiddev/comments/1kdhsbm/very_odd_text_inside_apk/)
-- [Why most devs struggle with impostor syndrome](https://www.reddit.com/r/androiddev/comments/1kdfq2v/why_most_devs_struggle_with_impostor_syndrome/)
-- [learning mvvm with hilt to register with my custom post api. How to get authViewModel respose in Compose to handle smooth api request lifecycle?](https://www.reddit.com/r/androiddev/comments/1kdbff0/learning_mvvm_with_hilt_to_register_with_my/)
-- [learning mvvm with hilt to register with my custom post api. How to get authViewModel respose in Compose to handle smooth api request lifecycle.](https://www.reddit.com/r/androiddev/comments/1kdbe3g/learning_mvvm_with_hilt_to_register_with_my/)
-- [Kotlin docs : how to read it](https://www.reddit.com/r/androiddev/comments/1kd99so/kotlin_docs_how_to_read_it/)
-- [Got an Android app development question? Ask away! May 2025 edition](https://www.reddit.com/r/androiddev/comments/1kd7skh/got_an_android_app_development_question_ask_away/)
-- [How can I break out of tutorial hell and become internship-ready in native Android development in 2 months?](https://www.reddit.com/r/androiddev/comments/1kd7b9k/how_can_i_break_out_of_tutorial_hell_and_become/)
-- [Rant: I hate gradle with the heat of a thousand suns](https://www.reddit.com/r/androiddev/comments/1kd5dsd/rant_i_hate_gradle_with_the_heat_of_a_thousand/)
-- [Can&#39;t launch my Android app – Google couldn&#39;t verify your identity](https://www.reddit.com/r/androiddev/comments/1kd596t/cant_launch_my_android_app_google_couldnt_verify/)
-- [Would You Use This? My New Practice-Tracking App &lpar;Need Brutally Honest Feedback!&rpar;](https://www.reddit.com/r/androiddev/comments/1kd3qp4/would_you_use_this_my_new_practicetracking_app/)
+- [Can I verify my google developer console account through an android emulator?](https://www.reddit.com/r/androiddev/comments/1ke6ypo/can_i_verify_my_google_developer_console_account/)
+- [Sunmi V2 Pro internal printer! Any ideas?](https://www.reddit.com/r/androiddev/comments/1ke5jvc/sunmi_v2_pro_internal_printer_any_ideas/)
+- [Prepare for interview](https://www.reddit.com/r/androiddev/comments/1ke4mrf/prepare_for_interview/)
+- [Confusion about permission disclosures](https://www.reddit.com/r/androiddev/comments/1ke48hz/confusion_about_permission_disclosures/)
+- [I built a tool that generates Google Play Data Safety labels from your APK — looking for early testers](https://www.reddit.com/r/androiddev/comments/1ke2fx6/i_built_a_tool_that_generates_google_play_data/)
+- [Ayugram own fork.](https://www.reddit.com/r/androiddev/comments/1ke1tny/ayugram_own_fork/)
+- [Animation lag on compose app](https://www.reddit.com/r/androiddev/comments/1kdyqym/animation_lag_on_compose_app/)
+- [Trouble verifying identity on Google Developer Console using e-PAN card](https://www.reddit.com/r/androiddev/comments/1kdykp1/trouble_verifying_identity_on_google_developer/)
+- [Advanced Kotlin &amp; Android learning resource](https://www.reddit.com/r/androiddev/comments/1kdx2w0/advanced_kotlin_android_learning_resource/)
+- [clarifications about app rejection](https://www.reddit.com/r/androiddev/comments/1kdulnw/clarifications_about_app_rejection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
