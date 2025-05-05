@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can I verify my google developer console account through an android emulator?](https://www.reddit.com/r/androiddev/comments/1ke6ypo/can_i_verify_my_google_developer_console_account/)
-- [Sunmi V2 Pro internal printer! Any ideas?](https://www.reddit.com/r/androiddev/comments/1ke5jvc/sunmi_v2_pro_internal_printer_any_ideas/)
-- [Prepare for interview](https://www.reddit.com/r/androiddev/comments/1ke4mrf/prepare_for_interview/)
-- [Confusion about permission disclosures](https://www.reddit.com/r/androiddev/comments/1ke48hz/confusion_about_permission_disclosures/)
-- [I built a tool that generates Google Play Data Safety labels from your APK — looking for early testers](https://www.reddit.com/r/androiddev/comments/1ke2fx6/i_built_a_tool_that_generates_google_play_data/)
-- [Ayugram own fork.](https://www.reddit.com/r/androiddev/comments/1ke1tny/ayugram_own_fork/)
-- [Animation lag on compose app](https://www.reddit.com/r/androiddev/comments/1kdyqym/animation_lag_on_compose_app/)
-- [Trouble verifying identity on Google Developer Console using e-PAN card](https://www.reddit.com/r/androiddev/comments/1kdykp1/trouble_verifying_identity_on_google_developer/)
-- [Advanced Kotlin &amp; Android learning resource](https://www.reddit.com/r/androiddev/comments/1kdx2w0/advanced_kotlin_android_learning_resource/)
-- [clarifications about app rejection](https://www.reddit.com/r/androiddev/comments/1kdulnw/clarifications_about_app_rejection/)
+- [Path to Staff Engineer in while expanding expertise beyond Android](https://www.reddit.com/r/androiddev/comments/1kf0wdv/path_to_staff_engineer_in_while_expanding/)
+- [Is allowing arbitrary URLs in WebView a bad idea?](https://www.reddit.com/r/androiddev/comments/1kezvt5/is_allowing_arbitrary_urls_in_webview_a_bad_idea/)
+- [Awesome Android Tooling](https://www.reddit.com/r/androiddev/comments/1keztdt/awesome_android_tooling/)
+- [Dumb stuff you had spent money on?](https://www.reddit.com/r/androiddev/comments/1kevui7/dumb_stuff_you_had_spent_money_on/)
+- [VCamdroid - Use your android phone as windows virtual webcam](https://www.reddit.com/r/androiddev/comments/1ketv2x/vcamdroid_use_your_android_phone_as_windows/)
+- [Is it worth becoming an Android developer in 2025?](https://www.reddit.com/r/androiddev/comments/1kesar1/is_it_worth_becoming_an_android_developer_in_2025/)
+- [Pixel Art Animation Android App](https://www.reddit.com/r/androiddev/comments/1keqzqk/pixel_art_animation_android_app/)
+- [Enable Full GPU Rendering with ANGLE Vulkan on Low-End Android &lpar;No Root, EngineerMode ADB Shell Only&rpar;](https://www.reddit.com/r/androiddev/comments/1keq5gc/enable_full_gpu_rendering_with_angle_vulkan_on/)
+- [How to Remove/Edit this contacts](https://www.reddit.com/r/androiddev/comments/1kep87x/how_to_removeedit_this_contacts/)
+- [Android device not appearing in the devices list](https://www.reddit.com/r/androiddev/comments/1keokik/android_device_not_appearing_in_the_devices_list/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
