@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Path to Staff Engineer in while expanding expertise beyond Android](https://www.reddit.com/r/androiddev/comments/1kf0wdv/path_to_staff_engineer_in_while_expanding/)
-- [Is allowing arbitrary URLs in WebView a bad idea?](https://www.reddit.com/r/androiddev/comments/1kezvt5/is_allowing_arbitrary_urls_in_webview_a_bad_idea/)
-- [Awesome Android Tooling](https://www.reddit.com/r/androiddev/comments/1keztdt/awesome_android_tooling/)
-- [Dumb stuff you had spent money on?](https://www.reddit.com/r/androiddev/comments/1kevui7/dumb_stuff_you_had_spent_money_on/)
-- [VCamdroid - Use your android phone as windows virtual webcam](https://www.reddit.com/r/androiddev/comments/1ketv2x/vcamdroid_use_your_android_phone_as_windows/)
-- [Is it worth becoming an Android developer in 2025?](https://www.reddit.com/r/androiddev/comments/1kesar1/is_it_worth_becoming_an_android_developer_in_2025/)
-- [Pixel Art Animation Android App](https://www.reddit.com/r/androiddev/comments/1keqzqk/pixel_art_animation_android_app/)
-- [Enable Full GPU Rendering with ANGLE Vulkan on Low-End Android &lpar;No Root, EngineerMode ADB Shell Only&rpar;](https://www.reddit.com/r/androiddev/comments/1keq5gc/enable_full_gpu_rendering_with_angle_vulkan_on/)
-- [How to Remove/Edit this contacts](https://www.reddit.com/r/androiddev/comments/1kep87x/how_to_removeedit_this_contacts/)
-- [Android device not appearing in the devices list](https://www.reddit.com/r/androiddev/comments/1keokik/android_device_not_appearing_in_the_devices_list/)
+- [AMA - I vibe coded an entire AI Life Coach / Journaling app](https://www.reddit.com/r/androiddev/comments/1kfm0dd/ama_i_vibe_coded_an_entire_ai_life_coach/)
+- [Opening other apps within a KIOSK app](https://www.reddit.com/r/androiddev/comments/1kfipju/opening_other_apps_within_a_kiosk_app/)
+- [State Sharing in Android](https://www.reddit.com/r/androiddev/comments/1kfic7y/state_sharing_in_android/)
+- [How to grow app installs or app ranking in the Google Play Store?](https://www.reddit.com/r/androiddev/comments/1kfg3ny/how_to_grow_app_installs_or_app_ranking_in_the/)
+- [New material 3 &lpar;expressive&rpar; is coming soon](https://www.reddit.com/r/androiddev/comments/1kffk72/new_material_3_expressive_is_coming_soon/)
+- [Made a site about learning Compose built with Compose](https://www.reddit.com/r/androiddev/comments/1kff164/made_a_site_about_learning_compose_built_with/)
+- [[AOSP] Create Android 5 Image for an Android Based AMX Control panel](https://www.reddit.com/r/androiddev/comments/1kfe1ez/aosp_create_android_5_image_for_an_android_based/)
+- [MQTT Development on AndroidStudio](https://www.reddit.com/r/androiddev/comments/1kfdut1/mqtt_development_on_androidstudio/)
+- [Carrier suggestion](https://www.reddit.com/r/androiddev/comments/1kfbrlt/carrier_suggestion/)
+- [Anyone knows when the Linux dev env will arrive on OnePlus devices?](https://www.reddit.com/r/androiddev/comments/1kfal5j/anyone_knows_when_the_linux_dev_env_will_arrive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
