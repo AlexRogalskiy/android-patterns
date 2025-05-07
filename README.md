@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AMA - I vibe coded an entire AI Life Coach / Journaling app](https://www.reddit.com/r/androiddev/comments/1kfm0dd/ama_i_vibe_coded_an_entire_ai_life_coach/)
-- [Opening other apps within a KIOSK app](https://www.reddit.com/r/androiddev/comments/1kfipju/opening_other_apps_within_a_kiosk_app/)
-- [State Sharing in Android](https://www.reddit.com/r/androiddev/comments/1kfic7y/state_sharing_in_android/)
-- [How to grow app installs or app ranking in the Google Play Store?](https://www.reddit.com/r/androiddev/comments/1kfg3ny/how_to_grow_app_installs_or_app_ranking_in_the/)
-- [New material 3 &lpar;expressive&rpar; is coming soon](https://www.reddit.com/r/androiddev/comments/1kffk72/new_material_3_expressive_is_coming_soon/)
-- [Made a site about learning Compose built with Compose](https://www.reddit.com/r/androiddev/comments/1kff164/made_a_site_about_learning_compose_built_with/)
-- [[AOSP] Create Android 5 Image for an Android Based AMX Control panel](https://www.reddit.com/r/androiddev/comments/1kfe1ez/aosp_create_android_5_image_for_an_android_based/)
-- [MQTT Development on AndroidStudio](https://www.reddit.com/r/androiddev/comments/1kfdut1/mqtt_development_on_androidstudio/)
-- [Carrier suggestion](https://www.reddit.com/r/androiddev/comments/1kfbrlt/carrier_suggestion/)
-- [Anyone knows when the Linux dev env will arrive on OnePlus devices?](https://www.reddit.com/r/androiddev/comments/1kfal5j/anyone_knows_when_the_linux_dev_env_will_arrive/)
+- [New to Android development and Google Play](https://www.reddit.com/r/androiddev/comments/1kgkehr/new_to_android_development_and_google_play/)
+- [AdMob &quot;Site Behavior: Navigation&quot; Policy Violation – But No Ads on the Flagged Pages?](https://www.reddit.com/r/androiddev/comments/1kggap9/admob_site_behavior_navigation_policy_violation/)
+- [App rejected need help!!](https://www.reddit.com/r/androiddev/comments/1kgeyly/app_rejected_need_help/)
+- [Has anybody had any success promoting their apps on Facebook Groups?](https://www.reddit.com/r/androiddev/comments/1kgd316/has_anybody_had_any_success_promoting_their_apps/)
+- [Looking for a checklist plugin](https://www.reddit.com/r/androiddev/comments/1kgc7w4/looking_for_a_checklist_plugin/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 now available](https://www.reddit.com/r/androiddev/comments/1kgb48g/android_studio_meerkat_feature_drop_202432_now/)
+- [Mobile MCP for Android automation, development and vibe coding](https://www.reddit.com/r/androiddev/comments/1kg8auh/mobile_mcp_for_android_automation_development_and/)
+- [AIDL Service and Content provider Not Working on Xiaomi](https://www.reddit.com/r/androiddev/comments/1kg7h8h/aidl_service_and_content_provider_not_working_on/)
+- [¿Contenido prohibido en juegos de Android?](https://www.reddit.com/r/androiddev/comments/1kg6yby/contenido_prohibido_en_juegos_de_android/)
+- [Are organic backlinks helpful in growing app ranking in the Google Play Store?](https://www.reddit.com/r/androiddev/comments/1kg6dqf/are_organic_backlinks_helpful_in_growing_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
