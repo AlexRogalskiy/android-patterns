@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New to Android development and Google Play](https://www.reddit.com/r/androiddev/comments/1kgkehr/new_to_android_development_and_google_play/)
-- [AdMob &quot;Site Behavior: Navigation&quot; Policy Violation – But No Ads on the Flagged Pages?](https://www.reddit.com/r/androiddev/comments/1kggap9/admob_site_behavior_navigation_policy_violation/)
-- [App rejected need help!!](https://www.reddit.com/r/androiddev/comments/1kgeyly/app_rejected_need_help/)
-- [Has anybody had any success promoting their apps on Facebook Groups?](https://www.reddit.com/r/androiddev/comments/1kgd316/has_anybody_had_any_success_promoting_their_apps/)
-- [Looking for a checklist plugin](https://www.reddit.com/r/androiddev/comments/1kgc7w4/looking_for_a_checklist_plugin/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 now available](https://www.reddit.com/r/androiddev/comments/1kgb48g/android_studio_meerkat_feature_drop_202432_now/)
-- [Mobile MCP for Android automation, development and vibe coding](https://www.reddit.com/r/androiddev/comments/1kg8auh/mobile_mcp_for_android_automation_development_and/)
-- [AIDL Service and Content provider Not Working on Xiaomi](https://www.reddit.com/r/androiddev/comments/1kg7h8h/aidl_service_and_content_provider_not_working_on/)
-- [¿Contenido prohibido en juegos de Android?](https://www.reddit.com/r/androiddev/comments/1kg6yby/contenido_prohibido_en_juegos_de_android/)
-- [Are organic backlinks helpful in growing app ranking in the Google Play Store?](https://www.reddit.com/r/androiddev/comments/1kg6dqf/are_organic_backlinks_helpful_in_growing_app/)
+- [Help](https://www.reddit.com/r/androiddev/comments/1khdm1r/help/)
+- [How hard is coding an app made for Android for IOS?](https://www.reddit.com/r/androiddev/comments/1khapwk/how_hard_is_coding_an_app_made_for_android_for_ios/)
+- [How to start Composable for result?](https://www.reddit.com/r/androiddev/comments/1kh7tao/how_to_start_composable_for_result/)
+- [Change a notification setting through intents](https://www.reddit.com/r/androiddev/comments/1kh4rs1/change_a_notification_setting_through_intents/)
+- [Noob here,Android studio code gradle sync](https://www.reddit.com/r/androiddev/comments/1kh3vx4/noob_hereandroid_studio_code_gradle_sync/)
+- [Android Developers Backstage - ​​Kotlin Multiplatform: Have your code and eat it too](https://www.reddit.com/r/androiddev/comments/1kh3jlm/android_developers_backstage_kotlin_multiplatform/)
+- [How Google destroyed my startup dream and blocks new individual developers from publishing](https://www.reddit.com/r/androiddev/comments/1kh352w/how_google_destroyed_my_startup_dream_and_blocks/)
+- [What are the best AI tools for Android Development?](https://www.reddit.com/r/androiddev/comments/1kh21ph/what_are_the_best_ai_tools_for_android_development/)
+- [AdMob Issue: High match rate but low show rate — what’s going wrong?](https://www.reddit.com/r/androiddev/comments/1kh1tr2/admob_issue_high_match_rate_but_low_show_rate/)
+- [Making Android App with Python. Need help.](https://www.reddit.com/r/androiddev/comments/1kh07zk/making_android_app_with_python_need_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
