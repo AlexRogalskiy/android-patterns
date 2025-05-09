@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help](https://www.reddit.com/r/androiddev/comments/1khdm1r/help/)
-- [How hard is coding an app made for Android for IOS?](https://www.reddit.com/r/androiddev/comments/1khapwk/how_hard_is_coding_an_app_made_for_android_for_ios/)
-- [How to start Composable for result?](https://www.reddit.com/r/androiddev/comments/1kh7tao/how_to_start_composable_for_result/)
-- [Change a notification setting through intents](https://www.reddit.com/r/androiddev/comments/1kh4rs1/change_a_notification_setting_through_intents/)
-- [Noob here,Android studio code gradle sync](https://www.reddit.com/r/androiddev/comments/1kh3vx4/noob_hereandroid_studio_code_gradle_sync/)
-- [Android Developers Backstage - ​​Kotlin Multiplatform: Have your code and eat it too](https://www.reddit.com/r/androiddev/comments/1kh3jlm/android_developers_backstage_kotlin_multiplatform/)
-- [How Google destroyed my startup dream and blocks new individual developers from publishing](https://www.reddit.com/r/androiddev/comments/1kh352w/how_google_destroyed_my_startup_dream_and_blocks/)
-- [What are the best AI tools for Android Development?](https://www.reddit.com/r/androiddev/comments/1kh21ph/what_are_the_best_ai_tools_for_android_development/)
-- [AdMob Issue: High match rate but low show rate — what’s going wrong?](https://www.reddit.com/r/androiddev/comments/1kh1tr2/admob_issue_high_match_rate_but_low_show_rate/)
-- [Making Android App with Python. Need help.](https://www.reddit.com/r/androiddev/comments/1kh07zk/making_android_app_with_python_need_help/)
+- [Use Google Maps APIas Fitbit app uses](https://www.reddit.com/r/androiddev/comments/1ki1hr5/use_google_maps_apias_fitbit_app_uses/)
+- [Android Studio Narwhal | 2025.1.1 Canary 10 now available](https://www.reddit.com/r/androiddev/comments/1khzlsc/android_studio_narwhal_202511_canary_10_now/)
+- [Is there a way to link to specific timestamps in Spotify podcasts from an external app?](https://www.reddit.com/r/androiddev/comments/1khxhni/is_there_a_way_to_link_to_specific_timestamps_in/)
+- [Android Developers Blog: Prepare your apps for Google Play’s 16 KB page size compatibility requirement](https://www.reddit.com/r/androiddev/comments/1khwk0n/android_developers_blog_prepare_your_apps_for/)
+- [can&#39;t get Api key for Google maps](https://www.reddit.com/r/androiddev/comments/1khvk6n/cant_get_api_key_for_google_maps/)
+- [What did I do wrong? What is expected in an Android Mobile System design interview?](https://www.reddit.com/r/androiddev/comments/1khsvus/what_did_i_do_wrong_what_is_expected_in_an/)
+- [Does anyone also see a lot of &quot;Payment declined&quot;, &quot;Payment pending&quot; in Order Management in their play developer console? Is this something I should fix or is it on the user&#39;s end?](https://www.reddit.com/r/androiddev/comments/1khrnwd/does_anyone_also_see_a_lot_of_payment_declined/)
+- [Block/remove called-id setting in samsung dialer](https://www.reddit.com/r/androiddev/comments/1khqc0x/blockremove_calledid_setting_in_samsung_dialer/)
+- [Getting bad reviews for being an paid app](https://www.reddit.com/r/androiddev/comments/1khp922/getting_bad_reviews_for_being_an_paid_app/)
+- [Why does my audio-video-to-text app struggle with retention despite free tier + subscription? Need feedback](https://www.reddit.com/r/androiddev/comments/1khnli4/why_does_my_audiovideototext_app_struggle_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
