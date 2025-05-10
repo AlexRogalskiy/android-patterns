@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Use Google Maps APIas Fitbit app uses](https://www.reddit.com/r/androiddev/comments/1ki1hr5/use_google_maps_apias_fitbit_app_uses/)
-- [Android Studio Narwhal | 2025.1.1 Canary 10 now available](https://www.reddit.com/r/androiddev/comments/1khzlsc/android_studio_narwhal_202511_canary_10_now/)
-- [Is there a way to link to specific timestamps in Spotify podcasts from an external app?](https://www.reddit.com/r/androiddev/comments/1khxhni/is_there_a_way_to_link_to_specific_timestamps_in/)
-- [Android Developers Blog: Prepare your apps for Google Play’s 16 KB page size compatibility requirement](https://www.reddit.com/r/androiddev/comments/1khwk0n/android_developers_blog_prepare_your_apps_for/)
-- [can&#39;t get Api key for Google maps](https://www.reddit.com/r/androiddev/comments/1khvk6n/cant_get_api_key_for_google_maps/)
-- [What did I do wrong? What is expected in an Android Mobile System design interview?](https://www.reddit.com/r/androiddev/comments/1khsvus/what_did_i_do_wrong_what_is_expected_in_an/)
-- [Does anyone also see a lot of &quot;Payment declined&quot;, &quot;Payment pending&quot; in Order Management in their play developer console? Is this something I should fix or is it on the user&#39;s end?](https://www.reddit.com/r/androiddev/comments/1khrnwd/does_anyone_also_see_a_lot_of_payment_declined/)
-- [Block/remove called-id setting in samsung dialer](https://www.reddit.com/r/androiddev/comments/1khqc0x/blockremove_calledid_setting_in_samsung_dialer/)
-- [Getting bad reviews for being an paid app](https://www.reddit.com/r/androiddev/comments/1khp922/getting_bad_reviews_for_being_an_paid_app/)
-- [Why does my audio-video-to-text app struggle with retention despite free tier + subscription? Need feedback](https://www.reddit.com/r/androiddev/comments/1khnli4/why_does_my_audiovideototext_app_struggle_with/)
+- [App development](https://www.reddit.com/r/androiddev/comments/1kiyjvg/app_development/)
+- [🟢 Looking to connect with fellow Android developers!](https://www.reddit.com/r/androiddev/comments/1kissvo/looking_to_connect_with_fellow_android_developers/)
+- [I need to read a CSV file outside of the /src/ folder. How can I accomplish this? &lpar;Java/Android Studio&rpar;](https://www.reddit.com/r/androiddev/comments/1kisf1x/i_need_to_read_a_csv_file_outside_of_the_src/)
+- [What changes in API 35 prevent my ScrollView from displaying properly? API 34 and below work as intended](https://www.reddit.com/r/androiddev/comments/1kiqmi5/what_changes_in_api_35_prevent_my_scrollview_from/)
+- [Board Buddy – open source board game companion &lpar;built solo, no ads, no paywall&rpar;](https://www.reddit.com/r/androiddev/comments/1kim5xj/board_buddy_open_source_board_game_companion/)
+- [is there any way to access data/user/0 without root?](https://www.reddit.com/r/androiddev/comments/1kikhvn/is_there_any_way_to_access_datauser0_without_root/)
+- [Indie devs using ads in free apps – what’s your biggest pain point?](https://www.reddit.com/r/androiddev/comments/1kih4in/indie_devs_using_ads_in_free_apps_whats_your/)
+- [Need help in fixing error in my app](https://www.reddit.com/r/androiddev/comments/1kigjqk/need_help_in_fixing_error_in_my_app/)
+- [Help how do I protect my app in closed testing and open testing?](https://www.reddit.com/r/androiddev/comments/1kicf39/help_how_do_i_protect_my_app_in_closed_testing/)
+- [How do i protect my paid apps from redistribution in closed testing and open testing?](https://www.reddit.com/r/androiddev/comments/1kic7lh/how_do_i_protect_my_paid_apps_from_redistribution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
