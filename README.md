@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App development](https://www.reddit.com/r/androiddev/comments/1kiyjvg/app_development/)
-- [🟢 Looking to connect with fellow Android developers!](https://www.reddit.com/r/androiddev/comments/1kissvo/looking_to_connect_with_fellow_android_developers/)
-- [I need to read a CSV file outside of the /src/ folder. How can I accomplish this? &lpar;Java/Android Studio&rpar;](https://www.reddit.com/r/androiddev/comments/1kisf1x/i_need_to_read_a_csv_file_outside_of_the_src/)
-- [What changes in API 35 prevent my ScrollView from displaying properly? API 34 and below work as intended](https://www.reddit.com/r/androiddev/comments/1kiqmi5/what_changes_in_api_35_prevent_my_scrollview_from/)
-- [Board Buddy – open source board game companion &lpar;built solo, no ads, no paywall&rpar;](https://www.reddit.com/r/androiddev/comments/1kim5xj/board_buddy_open_source_board_game_companion/)
-- [is there any way to access data/user/0 without root?](https://www.reddit.com/r/androiddev/comments/1kikhvn/is_there_any_way_to_access_datauser0_without_root/)
-- [Indie devs using ads in free apps – what’s your biggest pain point?](https://www.reddit.com/r/androiddev/comments/1kih4in/indie_devs_using_ads_in_free_apps_whats_your/)
-- [Need help in fixing error in my app](https://www.reddit.com/r/androiddev/comments/1kigjqk/need_help_in_fixing_error_in_my_app/)
-- [Help how do I protect my app in closed testing and open testing?](https://www.reddit.com/r/androiddev/comments/1kicf39/help_how_do_i_protect_my_app_in_closed_testing/)
-- [How do i protect my paid apps from redistribution in closed testing and open testing?](https://www.reddit.com/r/androiddev/comments/1kic7lh/how_do_i_protect_my_paid_apps_from_redistribution/)
+- [s25 hard brick help?](https://www.reddit.com/r/androiddev/comments/1kjqb5a/s25_hard_brick_help/)
+- [Questions that can shake confidence of an android developer](https://www.reddit.com/r/androiddev/comments/1kjkrqg/questions_that_can_shake_confidence_of_an_android/)
+- [Gallery cleaning app](https://www.reddit.com/r/androiddev/comments/1kjh69o/gallery_cleaning_app/)
+- [I am building a reading app.](https://www.reddit.com/r/androiddev/comments/1kjgsv6/i_am_building_a_reading_app/)
+- [Rumblings about multimodule apps architecture](https://www.reddit.com/r/androiddev/comments/1kjf2mx/rumblings_about_multimodule_apps_architecture/)
+- [Solid Explorer vs FV Explorer: Understanding the dev aspect](https://www.reddit.com/r/androiddev/comments/1kjd7ep/solid_explorer_vs_fv_explorer_understanding_the/)
+- [What makes someone a good Android Engineer?](https://www.reddit.com/r/androiddev/comments/1kjbnk0/what_makes_someone_a_good_android_engineer/)
+- [At what stage one should start freelance.](https://www.reddit.com/r/androiddev/comments/1kjbky5/at_what_stage_one_should_start_freelance/)
+- [Dev research - for Triathlon application creation](https://www.reddit.com/r/androiddev/comments/1kj90ku/dev_research_for_triathlon_application_creation/)
+- [Noise sound in my windows 11 headset &lpar;Android Emulator&rpar;](https://www.reddit.com/r/androiddev/comments/1kj9062/noise_sound_in_my_windows_11_headset_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
