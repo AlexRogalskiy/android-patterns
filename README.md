@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [s25 hard brick help?](https://www.reddit.com/r/androiddev/comments/1kjqb5a/s25_hard_brick_help/)
-- [Questions that can shake confidence of an android developer](https://www.reddit.com/r/androiddev/comments/1kjkrqg/questions_that_can_shake_confidence_of_an_android/)
-- [Gallery cleaning app](https://www.reddit.com/r/androiddev/comments/1kjh69o/gallery_cleaning_app/)
-- [I am building a reading app.](https://www.reddit.com/r/androiddev/comments/1kjgsv6/i_am_building_a_reading_app/)
-- [Rumblings about multimodule apps architecture](https://www.reddit.com/r/androiddev/comments/1kjf2mx/rumblings_about_multimodule_apps_architecture/)
-- [Solid Explorer vs FV Explorer: Understanding the dev aspect](https://www.reddit.com/r/androiddev/comments/1kjd7ep/solid_explorer_vs_fv_explorer_understanding_the/)
-- [What makes someone a good Android Engineer?](https://www.reddit.com/r/androiddev/comments/1kjbnk0/what_makes_someone_a_good_android_engineer/)
-- [At what stage one should start freelance.](https://www.reddit.com/r/androiddev/comments/1kjbky5/at_what_stage_one_should_start_freelance/)
-- [Dev research - for Triathlon application creation](https://www.reddit.com/r/androiddev/comments/1kj90ku/dev_research_for_triathlon_application_creation/)
-- [Noise sound in my windows 11 headset &lpar;Android Emulator&rpar;](https://www.reddit.com/r/androiddev/comments/1kj9062/noise_sound_in_my_windows_11_headset_android/)
+- [Started developing an android app. It&#39;s been essentially made via vibe coding. How can I rectify these bad practices, and actually learn android dev for real from here on out?](https://www.reddit.com/r/androiddev/comments/1kkbdz8/started_developing_an_android_app_its_been/)
+- [Any way to improve?](https://www.reddit.com/r/androiddev/comments/1kk82kk/any_way_to_improve/)
+- [Is mobile development safer from AI than web development?](https://www.reddit.com/r/androiddev/comments/1kk7zbr/is_mobile_development_safer_from_ai_than_web/)
+- [Disable Safe Mode](https://www.reddit.com/r/androiddev/comments/1kk447q/disable_safe_mode/)
+- [Android Dev in Germany Looking for Opportunity Urgently &lpar;in Hamburg or Remote&rpar;](https://www.reddit.com/r/androiddev/comments/1kk2iye/android_dev_in_germany_looking_for_opportunity/)
+- [Released my first app - Minimal launcher for android with compose and kotlin](https://www.reddit.com/r/androiddev/comments/1kk1mpw/released_my_first_app_minimal_launcher_for/)
+- [How do you handle Google Play review replies without wasting hours?](https://www.reddit.com/r/androiddev/comments/1kk140r/how_do_you_handle_google_play_review_replies/)
+- [It&#39;s been 3 months and my App is still not searchable in the Play Store!](https://www.reddit.com/r/androiddev/comments/1kjygyb/its_been_3_months_and_my_app_is_still_not/)
+- [My app got rejected because i don&#39;t have 12 fking people to test daily](https://www.reddit.com/r/androiddev/comments/1kjvmva/my_app_got_rejected_because_i_dont_have_12_fking/)
+- [Is it OK to link to my blog &lpar;with ads&rpar; from an Android app?](https://www.reddit.com/r/androiddev/comments/1kjv3ue/is_it_ok_to_link_to_my_blog_with_ads_from_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
