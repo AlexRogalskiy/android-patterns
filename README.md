@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Started developing an android app. It&#39;s been essentially made via vibe coding. How can I rectify these bad practices, and actually learn android dev for real from here on out?](https://www.reddit.com/r/androiddev/comments/1kkbdz8/started_developing_an_android_app_its_been/)
-- [Any way to improve?](https://www.reddit.com/r/androiddev/comments/1kk82kk/any_way_to_improve/)
-- [Is mobile development safer from AI than web development?](https://www.reddit.com/r/androiddev/comments/1kk7zbr/is_mobile_development_safer_from_ai_than_web/)
-- [Disable Safe Mode](https://www.reddit.com/r/androiddev/comments/1kk447q/disable_safe_mode/)
-- [Android Dev in Germany Looking for Opportunity Urgently &lpar;in Hamburg or Remote&rpar;](https://www.reddit.com/r/androiddev/comments/1kk2iye/android_dev_in_germany_looking_for_opportunity/)
-- [Released my first app - Minimal launcher for android with compose and kotlin](https://www.reddit.com/r/androiddev/comments/1kk1mpw/released_my_first_app_minimal_launcher_for/)
-- [How do you handle Google Play review replies without wasting hours?](https://www.reddit.com/r/androiddev/comments/1kk140r/how_do_you_handle_google_play_review_replies/)
-- [It&#39;s been 3 months and my App is still not searchable in the Play Store!](https://www.reddit.com/r/androiddev/comments/1kjygyb/its_been_3_months_and_my_app_is_still_not/)
-- [My app got rejected because i don&#39;t have 12 fking people to test daily](https://www.reddit.com/r/androiddev/comments/1kjvmva/my_app_got_rejected_because_i_dont_have_12_fking/)
-- [Is it OK to link to my blog &lpar;with ads&rpar; from an Android app?](https://www.reddit.com/r/androiddev/comments/1kjv3ue/is_it_ok_to_link_to_my_blog_with_ads_from_an/)
+- [Vodafone data issue.](https://www.reddit.com/r/androiddev/comments/1kl9rrs/vodafone_data_issue/)
+- [Google banned me and I don&#39;t know why](https://www.reddit.com/r/androiddev/comments/1kl6esr/google_banned_me_and_i_dont_know_why/)
+- [ViewModelFactory.kt](https://www.reddit.com/r/androiddev/comments/1kl5gmg/viewmodelfactorykt/)
+- [google maps api not work on release version](https://www.reddit.com/r/androiddev/comments/1kl4vay/google_maps_api_not_work_on_release_version/)
+- [Android 15 BLE behaviour](https://www.reddit.com/r/androiddev/comments/1kl4q7i/android_15_ble_behaviour/)
+- [Problems trying to build ffmpeg-kit with inclusion of lame](https://www.reddit.com/r/androiddev/comments/1kl3sc3/problems_trying_to_build_ffmpegkit_with_inclusion/)
+- [Haze 1.6 has been released - Blurring for all versions of Android](https://www.reddit.com/r/androiddev/comments/1kl18vi/haze_16_has_been_released_blurring_for_all/)
+- [How do I change my address in google admob without changing my name](https://www.reddit.com/r/androiddev/comments/1kl0spn/how_do_i_change_my_address_in_google_admob/)
+- [Tired of boring text overlays? Try placing your text behind objects in your photos!](https://www.reddit.com/r/androiddev/comments/1kkzhx2/tired_of_boring_text_overlays_try_placing_your/)
+- [First launch - Subscriptions Manager Application](https://www.reddit.com/r/androiddev/comments/1kkywku/first_launch_subscriptions_manager_application/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
