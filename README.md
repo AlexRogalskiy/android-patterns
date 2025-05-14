@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Vodafone data issue.](https://www.reddit.com/r/androiddev/comments/1kl9rrs/vodafone_data_issue/)
-- [Google banned me and I don&#39;t know why](https://www.reddit.com/r/androiddev/comments/1kl6esr/google_banned_me_and_i_dont_know_why/)
-- [ViewModelFactory.kt](https://www.reddit.com/r/androiddev/comments/1kl5gmg/viewmodelfactorykt/)
-- [google maps api not work on release version](https://www.reddit.com/r/androiddev/comments/1kl4vay/google_maps_api_not_work_on_release_version/)
-- [Android 15 BLE behaviour](https://www.reddit.com/r/androiddev/comments/1kl4q7i/android_15_ble_behaviour/)
-- [Problems trying to build ffmpeg-kit with inclusion of lame](https://www.reddit.com/r/androiddev/comments/1kl3sc3/problems_trying_to_build_ffmpegkit_with_inclusion/)
-- [Haze 1.6 has been released - Blurring for all versions of Android](https://www.reddit.com/r/androiddev/comments/1kl18vi/haze_16_has_been_released_blurring_for_all/)
-- [How do I change my address in google admob without changing my name](https://www.reddit.com/r/androiddev/comments/1kl0spn/how_do_i_change_my_address_in_google_admob/)
-- [Tired of boring text overlays? Try placing your text behind objects in your photos!](https://www.reddit.com/r/androiddev/comments/1kkzhx2/tired_of_boring_text_overlays_try_placing_your/)
-- [First launch - Subscriptions Manager Application](https://www.reddit.com/r/androiddev/comments/1kkywku/first_launch_subscriptions_manager_application/)
+- [Android &lt;= 9 navigation or state preservation issues](https://www.reddit.com/r/androiddev/comments/1klxcju/android_9_navigation_or_state_preservation_issues/)
+- [Is it too late to start a career as a dev/engineer in the US?](https://www.reddit.com/r/androiddev/comments/1klwkjo/is_it_too_late_to_start_a_career_as_a_devengineer/)
+- [Return to dev in Android.. but the docs sucks.. ?](https://www.reddit.com/r/androiddev/comments/1klwgcx/return_to_dev_in_android_but_the_docs_sucks/)
+- [The Android Show: I/O Edition - what Android devs need to know!](https://www.reddit.com/r/androiddev/comments/1klszvk/the_android_show_io_edition_what_android_devs/)
+- [Compose Unstyled is now CMP 1.8.0 ready with 17 components](https://www.reddit.com/r/androiddev/comments/1klstv4/compose_unstyled_is_now_cmp_180_ready_with_17/)
+- [Career choice](https://www.reddit.com/r/androiddev/comments/1klo5g8/career_choice/)
+- [How to Make My Android App Appear in Intent Chooser for WhatsApp Shared Location Links?](https://www.reddit.com/r/androiddev/comments/1kllvsr/how_to_make_my_android_app_appear_in_intent/)
+- [&lpar;Rant&rpar; Play store review process is absurd.](https://www.reddit.com/r/androiddev/comments/1kllpbt/rant_play_store_review_process_is_absurd/)
+- [Can someone please code review my first android/kotlin app](https://www.reddit.com/r/androiddev/comments/1klkni5/can_someone_please_code_review_my_first/)
+- [Too much logic in composables?](https://www.reddit.com/r/androiddev/comments/1kljzvc/too_much_logic_in_composables/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
