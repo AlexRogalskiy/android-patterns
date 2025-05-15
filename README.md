@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android &lt;= 9 navigation or state preservation issues](https://www.reddit.com/r/androiddev/comments/1klxcju/android_9_navigation_or_state_preservation_issues/)
-- [Is it too late to start a career as a dev/engineer in the US?](https://www.reddit.com/r/androiddev/comments/1klwkjo/is_it_too_late_to_start_a_career_as_a_devengineer/)
-- [Return to dev in Android.. but the docs sucks.. ?](https://www.reddit.com/r/androiddev/comments/1klwgcx/return_to_dev_in_android_but_the_docs_sucks/)
-- [The Android Show: I/O Edition - what Android devs need to know!](https://www.reddit.com/r/androiddev/comments/1klszvk/the_android_show_io_edition_what_android_devs/)
-- [Compose Unstyled is now CMP 1.8.0 ready with 17 components](https://www.reddit.com/r/androiddev/comments/1klstv4/compose_unstyled_is_now_cmp_180_ready_with_17/)
-- [Career choice](https://www.reddit.com/r/androiddev/comments/1klo5g8/career_choice/)
-- [How to Make My Android App Appear in Intent Chooser for WhatsApp Shared Location Links?](https://www.reddit.com/r/androiddev/comments/1kllvsr/how_to_make_my_android_app_appear_in_intent/)
-- [&lpar;Rant&rpar; Play store review process is absurd.](https://www.reddit.com/r/androiddev/comments/1kllpbt/rant_play_store_review_process_is_absurd/)
-- [Can someone please code review my first android/kotlin app](https://www.reddit.com/r/androiddev/comments/1klkni5/can_someone_please_code_review_my_first/)
-- [Too much logic in composables?](https://www.reddit.com/r/androiddev/comments/1kljzvc/too_much_logic_in_composables/)
+- [Developing Custom Android App for MXQ Pro 4K TV Box — Feasibility and Limitations?](https://www.reddit.com/r/androiddev/comments/1kmx1x6/developing_custom_android_app_for_mxq_pro_4k_tv/)
+- [Should I stick to native android development?](https://www.reddit.com/r/androiddev/comments/1kmww18/should_i_stick_to_native_android_development/)
+- [Stacktrace Decoroutinator 2.5.0 with improved Android support](https://www.reddit.com/r/androiddev/comments/1kmw61b/stacktrace_decoroutinator_250_with_improved/)
+- [Simple Android Ecommerce App - Beautiful UI + HomePage Rest Api Integration + Navigation + Retrofit + Hilt + Coil.](https://www.reddit.com/r/androiddev/comments/1kmw2d7/simple_android_ecommerce_app_beautiful_ui/)
+- [New Android Studio version are so buggy](https://www.reddit.com/r/androiddev/comments/1kmsujl/new_android_studio_version_are_so_buggy/)
+- [Play Console account banned for inactivity with a &quot;supposed warning sent a year ago that never arrived by email&quot;](https://www.reddit.com/r/androiddev/comments/1kmsrdw/play_console_account_banned_for_inactivity_with_a/)
+- [New to Android Development, is this idea feasible?](https://www.reddit.com/r/androiddev/comments/1kmr9i8/new_to_android_development_is_this_idea_feasible/)
+- [The navigation drawer is being deprecated in the Material 3 expressive update.](https://www.reddit.com/r/androiddev/comments/1kmqt6g/the_navigation_drawer_is_being_deprecated_in_the/)
+- [Adding keywords to app for app drawer search](https://www.reddit.com/r/androiddev/comments/1kmqlep/adding_keywords_to_app_for_app_drawer_search/)
+- [How much UI logic should be placed into View Models](https://www.reddit.com/r/androiddev/comments/1kmq1cn/how_much_ui_logic_should_be_placed_into_view/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
