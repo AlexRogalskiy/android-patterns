@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Developing Custom Android App for MXQ Pro 4K TV Box — Feasibility and Limitations?](https://www.reddit.com/r/androiddev/comments/1kmx1x6/developing_custom_android_app_for_mxq_pro_4k_tv/)
-- [Should I stick to native android development?](https://www.reddit.com/r/androiddev/comments/1kmww18/should_i_stick_to_native_android_development/)
-- [Stacktrace Decoroutinator 2.5.0 with improved Android support](https://www.reddit.com/r/androiddev/comments/1kmw61b/stacktrace_decoroutinator_250_with_improved/)
-- [Simple Android Ecommerce App - Beautiful UI + HomePage Rest Api Integration + Navigation + Retrofit + Hilt + Coil.](https://www.reddit.com/r/androiddev/comments/1kmw2d7/simple_android_ecommerce_app_beautiful_ui/)
-- [New Android Studio version are so buggy](https://www.reddit.com/r/androiddev/comments/1kmsujl/new_android_studio_version_are_so_buggy/)
-- [Play Console account banned for inactivity with a &quot;supposed warning sent a year ago that never arrived by email&quot;](https://www.reddit.com/r/androiddev/comments/1kmsrdw/play_console_account_banned_for_inactivity_with_a/)
-- [New to Android Development, is this idea feasible?](https://www.reddit.com/r/androiddev/comments/1kmr9i8/new_to_android_development_is_this_idea_feasible/)
-- [The navigation drawer is being deprecated in the Material 3 expressive update.](https://www.reddit.com/r/androiddev/comments/1kmqt6g/the_navigation_drawer_is_being_deprecated_in_the/)
-- [Adding keywords to app for app drawer search](https://www.reddit.com/r/androiddev/comments/1kmqlep/adding_keywords_to_app_for_app_drawer_search/)
-- [How much UI logic should be placed into View Models](https://www.reddit.com/r/androiddev/comments/1kmq1cn/how_much_ui_logic_should_be_placed_into_view/)
+- [Android testing](https://www.reddit.com/r/androiddev/comments/1knnqti/android_testing/)
+- [Is there a ready-made Android Studio template to create Theme Packs compatible with Good Lock and Theme Park?](https://www.reddit.com/r/androiddev/comments/1knmlm6/is_there_a_readymade_android_studio_template_to/)
+- [Unable to test custom promo code as internal tester, only test payment card shows up as payment method.](https://www.reddit.com/r/androiddev/comments/1knj9rr/unable_to_test_custom_promo_code_as_internal/)
+- [Redux architecture for Android. My implementation.](https://www.reddit.com/r/androiddev/comments/1knibfi/redux_architecture_for_android_my_implementation/)
+- [Want to Rotate an app to 45 degrees using my own app. How can I do it?](https://www.reddit.com/r/androiddev/comments/1knhd71/want_to_rotate_an_app_to_45_degrees_using_my_own/)
+- [Peek Display - gesture based AOD [Join Closed Testing]](https://www.reddit.com/r/androiddev/comments/1knfzo2/peek_display_gesture_based_aod_join_closed_testing/)
+- [Can u make from self help/productivity apps](https://www.reddit.com/r/androiddev/comments/1knf9ls/can_u_make_from_self_helpproductivity_apps/)
+- [My Android Studio has began to get stuck when creating new emulators on this &quot;Loading system images...&quot; screen](https://www.reddit.com/r/androiddev/comments/1knewiu/my_android_studio_has_began_to_get_stuck_when/)
+- [Trying to find Android and iOS developers to chitchat](https://www.reddit.com/r/androiddev/comments/1kndt3j/trying_to_find_android_and_ios_developers_to/)
+- [In view of Navigation Drawer being deprecated, what&#39;s the &quot;best practices&quot; style for a basic app.](https://www.reddit.com/r/androiddev/comments/1kndrmt/in_view_of_navigation_drawer_being_deprecated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
