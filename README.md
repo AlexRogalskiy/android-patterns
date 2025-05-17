@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android testing](https://www.reddit.com/r/androiddev/comments/1knnqti/android_testing/)
-- [Is there a ready-made Android Studio template to create Theme Packs compatible with Good Lock and Theme Park?](https://www.reddit.com/r/androiddev/comments/1knmlm6/is_there_a_readymade_android_studio_template_to/)
-- [Unable to test custom promo code as internal tester, only test payment card shows up as payment method.](https://www.reddit.com/r/androiddev/comments/1knj9rr/unable_to_test_custom_promo_code_as_internal/)
-- [Redux architecture for Android. My implementation.](https://www.reddit.com/r/androiddev/comments/1knibfi/redux_architecture_for_android_my_implementation/)
-- [Want to Rotate an app to 45 degrees using my own app. How can I do it?](https://www.reddit.com/r/androiddev/comments/1knhd71/want_to_rotate_an_app_to_45_degrees_using_my_own/)
-- [Peek Display - gesture based AOD [Join Closed Testing]](https://www.reddit.com/r/androiddev/comments/1knfzo2/peek_display_gesture_based_aod_join_closed_testing/)
-- [Can u make from self help/productivity apps](https://www.reddit.com/r/androiddev/comments/1knf9ls/can_u_make_from_self_helpproductivity_apps/)
-- [My Android Studio has began to get stuck when creating new emulators on this &quot;Loading system images...&quot; screen](https://www.reddit.com/r/androiddev/comments/1knewiu/my_android_studio_has_began_to_get_stuck_when/)
-- [Trying to find Android and iOS developers to chitchat](https://www.reddit.com/r/androiddev/comments/1kndt3j/trying_to_find_android_and_ios_developers_to/)
-- [In view of Navigation Drawer being deprecated, what&#39;s the &quot;best practices&quot; style for a basic app.](https://www.reddit.com/r/androiddev/comments/1kndrmt/in_view_of_navigation_drawer_being_deprecated/)
+- [What’s this 12 test user issue everyone is talking about?](https://www.reddit.com/r/androiddev/comments/1kogmyq/whats_this_12_test_user_issue_everyone_is_talking/)
+- [Newbie here: How to create link opener app?](https://www.reddit.com/r/androiddev/comments/1koby7z/newbie_here_how_to_create_link_opener_app/)
+- [Writing data to a characteristic](https://www.reddit.com/r/androiddev/comments/1koatru/writing_data_to_a_characteristic/)
+- [Seeking developers for a short 15-minute interview. &lpar;US, EU only&rpar;](https://www.reddit.com/r/androiddev/comments/1koa945/seeking_developers_for_a_short_15minute_interview/)
+- [3d model viewer with animation and user &lpar;rotation&rpar; input](https://www.reddit.com/r/androiddev/comments/1ko7kwg/3d_model_viewer_with_animation_and_user_rotation/)
+- [🌈 [Show-off] MoodMap – cycle-aware tips for men &lpar;Android, built w/ Expo 52, free Pro code&rpar;](https://www.reddit.com/r/androiddev/comments/1ko5qz7/showoff_moodmap_cycleaware_tips_for_men_android/)
+- [Any alternative of arthenica / ffmpeg-kit?](https://www.reddit.com/r/androiddev/comments/1ko58w6/any_alternative_of_arthenica_ffmpegkit/)
+- [ML Kit GenAI APIs | Android Developers](https://www.reddit.com/r/androiddev/comments/1ko31gj/ml_kit_genai_apis_android_developers/)
+- [New Community-Driven GitHub Repo for Mobile System Design Resources!](https://www.reddit.com/r/androiddev/comments/1ko2bfb/new_communitydriven_github_repo_for_mobile_system/)
+- [Finding a job with no commercial experience](https://www.reddit.com/r/androiddev/comments/1knzwuu/finding_a_job_with_no_commercial_experience/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
