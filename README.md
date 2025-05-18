@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What’s this 12 test user issue everyone is talking about?](https://www.reddit.com/r/androiddev/comments/1kogmyq/whats_this_12_test_user_issue_everyone_is_talking/)
-- [Newbie here: How to create link opener app?](https://www.reddit.com/r/androiddev/comments/1koby7z/newbie_here_how_to_create_link_opener_app/)
-- [Writing data to a characteristic](https://www.reddit.com/r/androiddev/comments/1koatru/writing_data_to_a_characteristic/)
-- [Seeking developers for a short 15-minute interview. &lpar;US, EU only&rpar;](https://www.reddit.com/r/androiddev/comments/1koa945/seeking_developers_for_a_short_15minute_interview/)
-- [3d model viewer with animation and user &lpar;rotation&rpar; input](https://www.reddit.com/r/androiddev/comments/1ko7kwg/3d_model_viewer_with_animation_and_user_rotation/)
-- [🌈 [Show-off] MoodMap – cycle-aware tips for men &lpar;Android, built w/ Expo 52, free Pro code&rpar;](https://www.reddit.com/r/androiddev/comments/1ko5qz7/showoff_moodmap_cycleaware_tips_for_men_android/)
-- [Any alternative of arthenica / ffmpeg-kit?](https://www.reddit.com/r/androiddev/comments/1ko58w6/any_alternative_of_arthenica_ffmpegkit/)
-- [ML Kit GenAI APIs | Android Developers](https://www.reddit.com/r/androiddev/comments/1ko31gj/ml_kit_genai_apis_android_developers/)
-- [New Community-Driven GitHub Repo for Mobile System Design Resources!](https://www.reddit.com/r/androiddev/comments/1ko2bfb/new_communitydriven_github_repo_for_mobile_system/)
-- [Finding a job with no commercial experience](https://www.reddit.com/r/androiddev/comments/1knzwuu/finding_a_job_with_no_commercial_experience/)
+- [Is there a simplevway to start a project](https://www.reddit.com/r/androiddev/comments/1kp95mc/is_there_a_simplevway_to_start_a_project/)
+- [I Built a $1000$/Month App. I Also Ruined It.](https://www.reddit.com/r/androiddev/comments/1kp7vwx/i_built_a_1000month_app_i_also_ruined_it/)
+- [Could you suggest some good books for learning Kotlin and Android development?](https://www.reddit.com/r/androiddev/comments/1kp6vma/could_you_suggest_some_good_books_for_learning/)
+- [Looking For Android Dev - Paid Project](https://www.reddit.com/r/androiddev/comments/1koz33y/looking_for_android_dev_paid_project/)
+- [Android Bubbles - notification recognized as a conversation but won&#39;t bubble.](https://www.reddit.com/r/androiddev/comments/1kowd6l/android_bubbles_notification_recognized_as_a/)
+- [Say Goodbye to Tedious strings.xml Updates: I Built a Free AI Tool to Automate Android Localization](https://www.reddit.com/r/androiddev/comments/1kow6zu/say_goodbye_to_tedious_stringsxml_updates_i_built/)
+- [Communicating with Android via UART through accessory connector](https://www.reddit.com/r/androiddev/comments/1kothil/communicating_with_android_via_uart_through/)
+- [Why do some apps &lpar;mostly banking, financial, government&rpar; require to disable developer options?](https://www.reddit.com/r/androiddev/comments/1koo4fi/why_do_some_apps_mostly_banking_financial/)
+- [Meta: we relaxed moderation a lot, seeking constructive feedback](https://www.reddit.com/r/androiddev/comments/1konc3j/meta_we_relaxed_moderation_a_lot_seeking/)
+- [PlatformException&lpar;sign_in_failed, com.google.android.gms.common.api.ApiException: 12500: , null&rpar;](https://www.reddit.com/r/androiddev/comments/1konag4/platformexceptionsign_in_failed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
