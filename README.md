@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a simplevway to start a project](https://www.reddit.com/r/androiddev/comments/1kp95mc/is_there_a_simplevway_to_start_a_project/)
-- [I Built a $1000$/Month App. I Also Ruined It.](https://www.reddit.com/r/androiddev/comments/1kp7vwx/i_built_a_1000month_app_i_also_ruined_it/)
-- [Could you suggest some good books for learning Kotlin and Android development?](https://www.reddit.com/r/androiddev/comments/1kp6vma/could_you_suggest_some_good_books_for_learning/)
-- [Looking For Android Dev - Paid Project](https://www.reddit.com/r/androiddev/comments/1koz33y/looking_for_android_dev_paid_project/)
-- [Android Bubbles - notification recognized as a conversation but won&#39;t bubble.](https://www.reddit.com/r/androiddev/comments/1kowd6l/android_bubbles_notification_recognized_as_a/)
-- [Say Goodbye to Tedious strings.xml Updates: I Built a Free AI Tool to Automate Android Localization](https://www.reddit.com/r/androiddev/comments/1kow6zu/say_goodbye_to_tedious_stringsxml_updates_i_built/)
-- [Communicating with Android via UART through accessory connector](https://www.reddit.com/r/androiddev/comments/1kothil/communicating_with_android_via_uart_through/)
-- [Why do some apps &lpar;mostly banking, financial, government&rpar; require to disable developer options?](https://www.reddit.com/r/androiddev/comments/1koo4fi/why_do_some_apps_mostly_banking_financial/)
-- [Meta: we relaxed moderation a lot, seeking constructive feedback](https://www.reddit.com/r/androiddev/comments/1konc3j/meta_we_relaxed_moderation_a_lot_seeking/)
-- [PlatformException&lpar;sign_in_failed, com.google.android.gms.common.api.ApiException: 12500: , null&rpar;](https://www.reddit.com/r/androiddev/comments/1konag4/platformexceptionsign_in_failed/)
+- [What is this line on the top? how to disable](https://www.reddit.com/r/androiddev/comments/1kq0zyv/what_is_this_line_on_the_top_how_to_disable/)
+- [Controlling my PC with an android app - Gaming, disability and practically no coding experience. Help please?](https://www.reddit.com/r/androiddev/comments/1kpy0d4/controlling_my_pc_with_an_android_app_gaming/)
+- [Android Ad Viewing Automation Scripts?](https://www.reddit.com/r/androiddev/comments/1kpwclb/android_ad_viewing_automation_scripts/)
+- [Looking for feedback on a proposed web API to be used in 3rd party Android apps](https://www.reddit.com/r/androiddev/comments/1kpwbyt/looking_for_feedback_on_a_proposed_web_api_to_be/)
+- [Ktlint setup](https://www.reddit.com/r/androiddev/comments/1kpvz2d/ktlint_setup/)
+- [Why my porn addiction quitting app worked and other didn&#39;t?](https://www.reddit.com/r/androiddev/comments/1kpvwpu/why_my_porn_addiction_quitting_app_worked_and/)
+- [KalendarKit, my first Compose Multiplatform library ✨](https://www.reddit.com/r/androiddev/comments/1kpu1xr/kalendarkit_my_first_compose_multiplatform_library/)
+- [What Android Studio theme does Philipp Lackner use?](https://www.reddit.com/r/androiddev/comments/1kpu0h5/what_android_studio_theme_does_philipp_lackner_use/)
+- [mobileffmpeg depedency.](https://www.reddit.com/r/androiddev/comments/1kprqyp/mobileffmpeg_depedency/)
+- [Android 4.3 development &lpar;yes...&rpar;](https://www.reddit.com/r/androiddev/comments/1kpqwgm/android_43_development_yes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
