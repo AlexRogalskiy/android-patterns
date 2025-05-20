@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is this line on the top? how to disable](https://www.reddit.com/r/androiddev/comments/1kq0zyv/what_is_this_line_on_the_top_how_to_disable/)
-- [Controlling my PC with an android app - Gaming, disability and practically no coding experience. Help please?](https://www.reddit.com/r/androiddev/comments/1kpy0d4/controlling_my_pc_with_an_android_app_gaming/)
-- [Android Ad Viewing Automation Scripts?](https://www.reddit.com/r/androiddev/comments/1kpwclb/android_ad_viewing_automation_scripts/)
-- [Looking for feedback on a proposed web API to be used in 3rd party Android apps](https://www.reddit.com/r/androiddev/comments/1kpwbyt/looking_for_feedback_on_a_proposed_web_api_to_be/)
-- [Ktlint setup](https://www.reddit.com/r/androiddev/comments/1kpvz2d/ktlint_setup/)
-- [Why my porn addiction quitting app worked and other didn&#39;t?](https://www.reddit.com/r/androiddev/comments/1kpvwpu/why_my_porn_addiction_quitting_app_worked_and/)
-- [KalendarKit, my first Compose Multiplatform library ✨](https://www.reddit.com/r/androiddev/comments/1kpu1xr/kalendarkit_my_first_compose_multiplatform_library/)
-- [What Android Studio theme does Philipp Lackner use?](https://www.reddit.com/r/androiddev/comments/1kpu0h5/what_android_studio_theme_does_philipp_lackner_use/)
-- [mobileffmpeg depedency.](https://www.reddit.com/r/androiddev/comments/1kprqyp/mobileffmpeg_depedency/)
-- [Android 4.3 development &lpar;yes...&rpar;](https://www.reddit.com/r/androiddev/comments/1kpqwgm/android_43_development_yes/)
+- [How to stream video to players through tdlib in android tv app?](https://www.reddit.com/r/androiddev/comments/1kqu3dr/how_to_stream_video_to_players_through_tdlib_in/)
+- [How to force an app to stay open ? &lpar;Rooted&rpar;](https://www.reddit.com/r/androiddev/comments/1kqs0t0/how_to_force_an_app_to_stay_open_rooted/)
+- [Account Terminated &lpar;Seeking Help&rpar;](https://www.reddit.com/r/androiddev/comments/1kqrts2/account_terminated_seeking_help/)
+- [Is it possible to create multiple Room DBs using hilt with the same structure dynamically?](https://www.reddit.com/r/androiddev/comments/1kqp731/is_it_possible_to_create_multiple_room_dbs_using/)
+- [Turned www.roadmap.sh/android into an app](https://www.reddit.com/r/androiddev/comments/1kqnd7w/turned_wwwroadmapshandroid_into_an_app/)
+- [How to display results on screen?](https://www.reddit.com/r/androiddev/comments/1kqlup0/how_to_display_results_on_screen/)
+- [I am curious on how other devs did user acquisition](https://www.reddit.com/r/androiddev/comments/1kqjljr/i_am_curious_on_how_other_devs_did_user/)
+- [How to create android app logo dynamic like clock](https://www.reddit.com/r/androiddev/comments/1kqelxw/how_to_create_android_app_logo_dynamic_like_clock/)
+- [PeopleOps interview](https://www.reddit.com/r/androiddev/comments/1kqei87/peopleops_interview/)
+- [Looking for advice: Keep my app paid or switch to free with optional features?](https://www.reddit.com/r/androiddev/comments/1kqegky/looking_for_advice_keep_my_app_paid_or_switch_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
