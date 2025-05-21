@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to stream video to players through tdlib in android tv app?](https://www.reddit.com/r/androiddev/comments/1kqu3dr/how_to_stream_video_to_players_through_tdlib_in/)
-- [How to force an app to stay open ? &lpar;Rooted&rpar;](https://www.reddit.com/r/androiddev/comments/1kqs0t0/how_to_force_an_app_to_stay_open_rooted/)
-- [Account Terminated &lpar;Seeking Help&rpar;](https://www.reddit.com/r/androiddev/comments/1kqrts2/account_terminated_seeking_help/)
-- [Is it possible to create multiple Room DBs using hilt with the same structure dynamically?](https://www.reddit.com/r/androiddev/comments/1kqp731/is_it_possible_to_create_multiple_room_dbs_using/)
-- [Turned www.roadmap.sh/android into an app](https://www.reddit.com/r/androiddev/comments/1kqnd7w/turned_wwwroadmapshandroid_into_an_app/)
-- [How to display results on screen?](https://www.reddit.com/r/androiddev/comments/1kqlup0/how_to_display_results_on_screen/)
-- [I am curious on how other devs did user acquisition](https://www.reddit.com/r/androiddev/comments/1kqjljr/i_am_curious_on_how_other_devs_did_user/)
-- [How to create android app logo dynamic like clock](https://www.reddit.com/r/androiddev/comments/1kqelxw/how_to_create_android_app_logo_dynamic_like_clock/)
-- [PeopleOps interview](https://www.reddit.com/r/androiddev/comments/1kqei87/peopleops_interview/)
-- [Looking for advice: Keep my app paid or switch to free with optional features?](https://www.reddit.com/r/androiddev/comments/1kqegky/looking_for_advice_keep_my_app_paid_or_switch_to/)
+- [Would you consider building a desktop app using KMP for production?](https://www.reddit.com/r/androiddev/comments/1krit9i/would_you_consider_building_a_desktop_app_using/)
+- [Android 16 QPR 1 beta](https://www.reddit.com/r/androiddev/comments/1krig0a/android_16_qpr_1_beta/)
+- [🎉 Launched on Google Play Store: Kokoro List – Your Ultimate Anime Watchlist Companion!](https://www.reddit.com/r/androiddev/comments/1krht8p/launched_on_google_play_store_kokoro_list_your/)
+- [Subscription for speeding-up App Review Process](https://www.reddit.com/r/androiddev/comments/1kreafw/subscription_for_speedingup_app_review_process/)
+- [Rejected after completing Take Home Assignment - Confused](https://www.reddit.com/r/androiddev/comments/1kre475/rejected_after_completing_take_home_assignment/)
+- [Android Developers Blog: Announcing Jetpack Navigation 3](https://www.reddit.com/r/androiddev/comments/1krc98n/android_developers_blog_announcing_jetpack/)
+- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1krbkg8/android_studio_narwhal_feature_drop_202512_canary/)
+- [What is the best and most effective way of integrating ML with android apps?](https://www.reddit.com/r/androiddev/comments/1krbhe9/what_is_the_best_and_most_effective_way_of/)
+- [Just installed Android 15/One UI 7.0 on an S24 Ultra. Animations feel much slower than the previous versions, even with transition scale on .5x.](https://www.reddit.com/r/androiddev/comments/1kraw83/just_installed_android_15one_ui_70_on_an_s24/)
+- [How to &quot;read&quot; steering wheel controls?](https://www.reddit.com/r/androiddev/comments/1kraifj/how_to_read_steering_wheel_controls/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
