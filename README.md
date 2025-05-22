@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Would you consider building a desktop app using KMP for production?](https://www.reddit.com/r/androiddev/comments/1krit9i/would_you_consider_building_a_desktop_app_using/)
-- [Android 16 QPR 1 beta](https://www.reddit.com/r/androiddev/comments/1krig0a/android_16_qpr_1_beta/)
-- [🎉 Launched on Google Play Store: Kokoro List – Your Ultimate Anime Watchlist Companion!](https://www.reddit.com/r/androiddev/comments/1krht8p/launched_on_google_play_store_kokoro_list_your/)
-- [Subscription for speeding-up App Review Process](https://www.reddit.com/r/androiddev/comments/1kreafw/subscription_for_speedingup_app_review_process/)
-- [Rejected after completing Take Home Assignment - Confused](https://www.reddit.com/r/androiddev/comments/1kre475/rejected_after_completing_take_home_assignment/)
-- [Android Developers Blog: Announcing Jetpack Navigation 3](https://www.reddit.com/r/androiddev/comments/1krc98n/android_developers_blog_announcing_jetpack/)
-- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1krbkg8/android_studio_narwhal_feature_drop_202512_canary/)
-- [What is the best and most effective way of integrating ML with android apps?](https://www.reddit.com/r/androiddev/comments/1krbhe9/what_is_the_best_and_most_effective_way_of/)
-- [Just installed Android 15/One UI 7.0 on an S24 Ultra. Animations feel much slower than the previous versions, even with transition scale on .5x.](https://www.reddit.com/r/androiddev/comments/1kraw83/just_installed_android_15one_ui_70_on_an_s24/)
-- [How to &quot;read&quot; steering wheel controls?](https://www.reddit.com/r/androiddev/comments/1kraifj/how_to_read_steering_wheel_controls/)
+- [Design ui with prompt with google stitch](https://www.reddit.com/r/androiddev/comments/1ksfkm0/design_ui_with_prompt_with_google_stitch/)
+- [App ranking dropped after developer account transfer - is this normal?](https://www.reddit.com/r/androiddev/comments/1ksep2h/app_ranking_dropped_after_developer_account/)
+- [Grid Layout for cells with flexible sizes?](https://www.reddit.com/r/androiddev/comments/1ksdlyn/grid_layout_for_cells_with_flexible_sizes/)
+- [Any ideas of what this exact font is?](https://www.reddit.com/r/androiddev/comments/1ksbrhv/any_ideas_of_what_this_exact_font_is/)
+- [Amazon paid campaign SDK](https://www.reddit.com/r/androiddev/comments/1ks6nff/amazon_paid_campaign_sdk/)
+- [Google IO: Anything I interesting?](https://www.reddit.com/r/androiddev/comments/1ks5apn/google_io_anything_i_interesting/)
+- [Calling command through ADB](https://www.reddit.com/r/androiddev/comments/1ks4fff/calling_command_through_adb/)
+- [Need advice on how to maintain dependencies updates](https://www.reddit.com/r/androiddev/comments/1ks3ymq/need_advice_on_how_to_maintain_dependencies/)
+- [Hobby Development](https://www.reddit.com/r/androiddev/comments/1ks3vzd/hobby_development/)
+- [Just launched PathPilot – my AI-powered Android app for SMART goal tracking &lpar;built with Jetpack Compose &amp; Ktor&rpar;](https://www.reddit.com/r/androiddev/comments/1ks28vx/just_launched_pathpilot_my_aipowered_android_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
