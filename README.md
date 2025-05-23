@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Design ui with prompt with google stitch](https://www.reddit.com/r/androiddev/comments/1ksfkm0/design_ui_with_prompt_with_google_stitch/)
-- [App ranking dropped after developer account transfer - is this normal?](https://www.reddit.com/r/androiddev/comments/1ksep2h/app_ranking_dropped_after_developer_account/)
-- [Grid Layout for cells with flexible sizes?](https://www.reddit.com/r/androiddev/comments/1ksdlyn/grid_layout_for_cells_with_flexible_sizes/)
-- [Any ideas of what this exact font is?](https://www.reddit.com/r/androiddev/comments/1ksbrhv/any_ideas_of_what_this_exact_font_is/)
-- [Amazon paid campaign SDK](https://www.reddit.com/r/androiddev/comments/1ks6nff/amazon_paid_campaign_sdk/)
-- [Google IO: Anything I interesting?](https://www.reddit.com/r/androiddev/comments/1ks5apn/google_io_anything_i_interesting/)
-- [Calling command through ADB](https://www.reddit.com/r/androiddev/comments/1ks4fff/calling_command_through_adb/)
-- [Need advice on how to maintain dependencies updates](https://www.reddit.com/r/androiddev/comments/1ks3ymq/need_advice_on_how_to_maintain_dependencies/)
-- [Hobby Development](https://www.reddit.com/r/androiddev/comments/1ks3vzd/hobby_development/)
-- [Just launched PathPilot – my AI-powered Android app for SMART goal tracking &lpar;built with Jetpack Compose &amp; Ktor&rpar;](https://www.reddit.com/r/androiddev/comments/1ks28vx/just_launched_pathpilot_my_aipowered_android_app/)
+- [Legal Name required](https://www.reddit.com/r/androiddev/comments/1kt5u9w/legal_name_required/)
+- [Testing Android 16 Live Updates in an emulator?](https://www.reddit.com/r/androiddev/comments/1kt1oh7/testing_android_16_live_updates_in_an_emulator/)
+- [Firebase Notifications](https://www.reddit.com/r/androiddev/comments/1kt0msx/firebase_notifications/)
+- [Jetpack Navigation 3 vs Navigation 2: What’s New and How to Migrate](https://www.reddit.com/r/androiddev/comments/1kszpmj/jetpack_navigation_3_vs_navigation_2_whats_new/)
+- [Why no BLE HRM wrapper framework?](https://www.reddit.com/r/androiddev/comments/1ksziif/why_no_ble_hrm_wrapper_framework/)
+- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1ksythg/android_studio_narwhal_feature_drop_202512_canary/)
+- [Advice /Help needed for building app](https://www.reddit.com/r/androiddev/comments/1ksxywz/advice_help_needed_for_building_app/)
+- [Some Payments are not happening](https://www.reddit.com/r/androiddev/comments/1ksxsv3/some_payments_are_not_happening/)
+- [Satyam&#39;s Academy - Helping Grads Land Jobs in Mobile Apps &lpar; Android + ios&rpar; Development](https://www.reddit.com/r/androiddev/comments/1ksx7w2/satyams_academy_helping_grads_land_jobs_in_mobile/)
+- [Internal Testing New Release - Update not available on PlayStore](https://www.reddit.com/r/androiddev/comments/1ksv8ar/internal_testing_new_release_update_not_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
