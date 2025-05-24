@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Legal Name required](https://www.reddit.com/r/androiddev/comments/1kt5u9w/legal_name_required/)
-- [Testing Android 16 Live Updates in an emulator?](https://www.reddit.com/r/androiddev/comments/1kt1oh7/testing_android_16_live_updates_in_an_emulator/)
-- [Firebase Notifications](https://www.reddit.com/r/androiddev/comments/1kt0msx/firebase_notifications/)
-- [Jetpack Navigation 3 vs Navigation 2: What’s New and How to Migrate](https://www.reddit.com/r/androiddev/comments/1kszpmj/jetpack_navigation_3_vs_navigation_2_whats_new/)
-- [Why no BLE HRM wrapper framework?](https://www.reddit.com/r/androiddev/comments/1ksziif/why_no_ble_hrm_wrapper_framework/)
-- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1ksythg/android_studio_narwhal_feature_drop_202512_canary/)
-- [Advice /Help needed for building app](https://www.reddit.com/r/androiddev/comments/1ksxywz/advice_help_needed_for_building_app/)
-- [Some Payments are not happening](https://www.reddit.com/r/androiddev/comments/1ksxsv3/some_payments_are_not_happening/)
-- [Satyam&#39;s Academy - Helping Grads Land Jobs in Mobile Apps &lpar; Android + ios&rpar; Development](https://www.reddit.com/r/androiddev/comments/1ksx7w2/satyams_academy_helping_grads_land_jobs_in_mobile/)
-- [Internal Testing New Release - Update not available on PlayStore](https://www.reddit.com/r/androiddev/comments/1ksv8ar/internal_testing_new_release_update_not_available/)
+- [Virüstotal](https://www.reddit.com/r/androiddev/comments/1ktxyq7/virüstotal/)
+- [T](https://www.reddit.com/r/androiddev/comments/1ktxyb5/t/)
+- [just ported our ios app to android! &lpar;claude helped&rpar;](https://www.reddit.com/r/androiddev/comments/1ktuaw9/just_ported_our_ios_app_to_android_claude_helped/)
+- [Claude 4 Sonnet is the best model for Android dev &lpar;per Kotlin-bench&rpar;](https://www.reddit.com/r/androiddev/comments/1kttvd4/claude_4_sonnet_is_the_best_model_for_android_dev/)
+- [What&#39;s new in Android development tools](https://www.reddit.com/r/androiddev/comments/1kttrkp/whats_new_in_android_development_tools/)
+- [Not receiving all my texts](https://www.reddit.com/r/androiddev/comments/1kts4t0/not_receiving_all_my_texts/)
+- [I wish there was an out of the box solution to preview window insets](https://www.reddit.com/r/androiddev/comments/1ktqijc/i_wish_there_was_an_out_of_the_box_solution_to/)
+- [Google Play - Vertical or Landscape trailer video?](https://www.reddit.com/r/androiddev/comments/1ktojc2/google_play_vertical_or_landscape_trailer_video/)
+- [Emergency Full Data Wipe Protocol for Android?](https://www.reddit.com/r/androiddev/comments/1ktnoz2/emergency_full_data_wipe_protocol_for_android/)
+- [Android screen transitions still feel meh—and here’s why](https://www.reddit.com/r/androiddev/comments/1ktm9jr/android_screen_transitions_still_feel_mehand/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
