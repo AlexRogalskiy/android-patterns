@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Virüstotal](https://www.reddit.com/r/androiddev/comments/1ktxyq7/virüstotal/)
-- [T](https://www.reddit.com/r/androiddev/comments/1ktxyb5/t/)
-- [just ported our ios app to android! &lpar;claude helped&rpar;](https://www.reddit.com/r/androiddev/comments/1ktuaw9/just_ported_our_ios_app_to_android_claude_helped/)
-- [Claude 4 Sonnet is the best model for Android dev &lpar;per Kotlin-bench&rpar;](https://www.reddit.com/r/androiddev/comments/1kttvd4/claude_4_sonnet_is_the_best_model_for_android_dev/)
-- [What&#39;s new in Android development tools](https://www.reddit.com/r/androiddev/comments/1kttrkp/whats_new_in_android_development_tools/)
-- [Not receiving all my texts](https://www.reddit.com/r/androiddev/comments/1kts4t0/not_receiving_all_my_texts/)
-- [I wish there was an out of the box solution to preview window insets](https://www.reddit.com/r/androiddev/comments/1ktqijc/i_wish_there_was_an_out_of_the_box_solution_to/)
-- [Google Play - Vertical or Landscape trailer video?](https://www.reddit.com/r/androiddev/comments/1ktojc2/google_play_vertical_or_landscape_trailer_video/)
-- [Emergency Full Data Wipe Protocol for Android?](https://www.reddit.com/r/androiddev/comments/1ktnoz2/emergency_full_data_wipe_protocol_for_android/)
-- [Android screen transitions still feel meh—and here’s why](https://www.reddit.com/r/androiddev/comments/1ktm9jr/android_screen_transitions_still_feel_mehand/)
+- [Guys, what are your thoughts about the new Google 16KB page size requirements that will take effect starting November?](https://www.reddit.com/r/androiddev/comments/1kulsww/guys_what_are_your_thoughts_about_the_new_google/)
+- [Should I make separate resumes for Flutter and Jetpack Compose experience?](https://www.reddit.com/r/androiddev/comments/1kuki29/should_i_make_separate_resumes_for_flutter_and/)
+- [Apk easy tool cannot compiling files](https://www.reddit.com/r/androiddev/comments/1kujjf6/apk_easy_tool_cannot_compiling_files/)
+- [Drag and drop animation and shadow effects](https://www.reddit.com/r/androiddev/comments/1kuitaq/drag_and_drop_animation_and_shadow_effects/)
+- [yt3 x90l table running android 6](https://www.reddit.com/r/androiddev/comments/1kuigen/yt3_x90l_table_running_android_6/)
+- [Build, Runtime Performance, Apk size Improvement](https://www.reddit.com/r/androiddev/comments/1kui4xn/build_runtime_performance_apk_size_improvement/)
+- [Book opinion](https://www.reddit.com/r/androiddev/comments/1kuhekc/book_opinion/)
+- [Flatpaks on Android 16&#39;s linux VM?](https://www.reddit.com/r/androiddev/comments/1kugy9t/flatpaks_on_android_16s_linux_vm/)
+- [Google&#39;s replacement to fat-aar is coming!](https://www.reddit.com/r/androiddev/comments/1kugnp8/googles_replacement_to_fataar_is_coming/)
+- [How are wallpapers in tapet wallpaper app generated?](https://www.reddit.com/r/androiddev/comments/1kuf8cv/how_are_wallpapers_in_tapet_wallpaper_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
