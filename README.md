@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Guys, what are your thoughts about the new Google 16KB page size requirements that will take effect starting November?](https://www.reddit.com/r/androiddev/comments/1kulsww/guys_what_are_your_thoughts_about_the_new_google/)
-- [Should I make separate resumes for Flutter and Jetpack Compose experience?](https://www.reddit.com/r/androiddev/comments/1kuki29/should_i_make_separate_resumes_for_flutter_and/)
-- [Apk easy tool cannot compiling files](https://www.reddit.com/r/androiddev/comments/1kujjf6/apk_easy_tool_cannot_compiling_files/)
-- [Drag and drop animation and shadow effects](https://www.reddit.com/r/androiddev/comments/1kuitaq/drag_and_drop_animation_and_shadow_effects/)
-- [yt3 x90l table running android 6](https://www.reddit.com/r/androiddev/comments/1kuigen/yt3_x90l_table_running_android_6/)
-- [Build, Runtime Performance, Apk size Improvement](https://www.reddit.com/r/androiddev/comments/1kui4xn/build_runtime_performance_apk_size_improvement/)
-- [Book opinion](https://www.reddit.com/r/androiddev/comments/1kuhekc/book_opinion/)
-- [Flatpaks on Android 16&#39;s linux VM?](https://www.reddit.com/r/androiddev/comments/1kugy9t/flatpaks_on_android_16s_linux_vm/)
-- [Google&#39;s replacement to fat-aar is coming!](https://www.reddit.com/r/androiddev/comments/1kugnp8/googles_replacement_to_fataar_is_coming/)
-- [How are wallpapers in tapet wallpaper app generated?](https://www.reddit.com/r/androiddev/comments/1kuf8cv/how_are_wallpapers_in_tapet_wallpaper_app/)
+- [Is it possible to get lollipop on onn Android tablet](https://www.reddit.com/r/androiddev/comments/1kviavf/is_it_possible_to_get_lollipop_on_onn_android/)
+- [Jail break my CASTLES SATURN 1000 POS PAYMENT SYSTEM](https://www.reddit.com/r/androiddev/comments/1kvhwt7/jail_break_my_castles_saturn_1000_pos_payment/)
+- [Why my app is private](https://www.reddit.com/r/androiddev/comments/1kveddf/why_my_app_is_private/)
+- [Help with Android Studio from&lpar;files&lpar;&quot;gradle/ libs.versions.toml&quot;&rpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1kvdsry/help_with_android_studio_fromfilesgradle/)
+- [Updates on an approved app](https://www.reddit.com/r/androiddev/comments/1kvc367/updates_on_an_approved_app/)
+- [Remember the charm of pixel art games? 🕹️ I&#39;ve brought that vibe to a weather app, and it&#39;s got an ML brain! 🧠🌦️](https://www.reddit.com/r/androiddev/comments/1kv9dip/remember_the_charm_of_pixel_art_games_ive_brought/)
+- [New app name after suspension](https://www.reddit.com/r/androiddev/comments/1kv2t54/new_app_name_after_suspension/)
+- [Chatgpt 4.0 vs Gemini 2.5 pro &lpar;preview&rpar; vs Claude Sonnet 4 for android development &lpar;java&rpar;](https://www.reddit.com/r/androiddev/comments/1kv2sqg/chatgpt_40_vs_gemini_25_pro_preview_vs_claude/)
+- [account forced delisting in 4 days](https://www.reddit.com/r/androiddev/comments/1kv24oo/account_forced_delisting_in_4_days/)
+- [Can anyone please review this road map](https://www.reddit.com/r/androiddev/comments/1kv1scy/can_anyone_please_review_this_road_map/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
