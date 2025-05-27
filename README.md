@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible to get lollipop on onn Android tablet](https://www.reddit.com/r/androiddev/comments/1kviavf/is_it_possible_to_get_lollipop_on_onn_android/)
-- [Jail break my CASTLES SATURN 1000 POS PAYMENT SYSTEM](https://www.reddit.com/r/androiddev/comments/1kvhwt7/jail_break_my_castles_saturn_1000_pos_payment/)
-- [Why my app is private](https://www.reddit.com/r/androiddev/comments/1kveddf/why_my_app_is_private/)
-- [Help with Android Studio from&lpar;files&lpar;&quot;gradle/ libs.versions.toml&quot;&rpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1kvdsry/help_with_android_studio_fromfilesgradle/)
-- [Updates on an approved app](https://www.reddit.com/r/androiddev/comments/1kvc367/updates_on_an_approved_app/)
-- [Remember the charm of pixel art games? 🕹️ I&#39;ve brought that vibe to a weather app, and it&#39;s got an ML brain! 🧠🌦️](https://www.reddit.com/r/androiddev/comments/1kv9dip/remember_the_charm_of_pixel_art_games_ive_brought/)
-- [New app name after suspension](https://www.reddit.com/r/androiddev/comments/1kv2t54/new_app_name_after_suspension/)
-- [Chatgpt 4.0 vs Gemini 2.5 pro &lpar;preview&rpar; vs Claude Sonnet 4 for android development &lpar;java&rpar;](https://www.reddit.com/r/androiddev/comments/1kv2sqg/chatgpt_40_vs_gemini_25_pro_preview_vs_claude/)
-- [account forced delisting in 4 days](https://www.reddit.com/r/androiddev/comments/1kv24oo/account_forced_delisting_in_4_days/)
-- [Can anyone please review this road map](https://www.reddit.com/r/androiddev/comments/1kv1scy/can_anyone_please_review_this_road_map/)
+- [Zen mode in Samsung](https://www.reddit.com/r/androiddev/comments/1kwazii/zen_mode_in_samsung/)
+- [Looking for App Store reviews – $10 via Venmo](https://www.reddit.com/r/androiddev/comments/1kw6v59/looking_for_app_store_reviews_10_via_venmo/)
+- [Notes app request](https://www.reddit.com/r/androiddev/comments/1kw5xz2/notes_app_request/)
+- [Surprised Coding Exam](https://www.reddit.com/r/androiddev/comments/1kw08kv/surprised_coding_exam/)
+- [[ANNOUNCEMENT] AndroLaunch - A Native macOS Menu Bar App for Seamless Android Device Management &lpar;ADB/Scrcpy&rpar;](https://www.reddit.com/r/androiddev/comments/1kvzuwy/announcement_androlaunch_a_native_macos_menu_bar/)
+- [I launched my first app on Google Play! &quot;Calcs - Hide Photos and Videos&quot;](https://www.reddit.com/r/androiddev/comments/1kvy66b/i_launched_my_first_app_on_google_play_calcs_hide/)
+- [Path animation explainer video &lpar;Video made with Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1kvxl9z/path_animation_explainer_video_video_made_with/)
+- [Where to Find Good Game Music Packs: A Guide for Developers — Ninichi](https://www.reddit.com/r/androiddev/comments/1kvx6ri/where_to_find_good_game_music_packs_a_guide_for/)
+- [Why does Google keep recommending me to use EdgeToEdge even though I&#39;m already using it?](https://www.reddit.com/r/androiddev/comments/1kvx2cs/why_does_google_keep_recommending_me_to_use/)
+- [Can Mixpanel track events in Android Firebase background message receiver?](https://www.reddit.com/r/androiddev/comments/1kvu4aa/can_mixpanel_track_events_in_android_firebase/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
