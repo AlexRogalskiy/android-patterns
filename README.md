@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Zen mode in Samsung](https://www.reddit.com/r/androiddev/comments/1kwazii/zen_mode_in_samsung/)
-- [Looking for App Store reviews – $10 via Venmo](https://www.reddit.com/r/androiddev/comments/1kw6v59/looking_for_app_store_reviews_10_via_venmo/)
-- [Notes app request](https://www.reddit.com/r/androiddev/comments/1kw5xz2/notes_app_request/)
-- [Surprised Coding Exam](https://www.reddit.com/r/androiddev/comments/1kw08kv/surprised_coding_exam/)
-- [[ANNOUNCEMENT] AndroLaunch - A Native macOS Menu Bar App for Seamless Android Device Management &lpar;ADB/Scrcpy&rpar;](https://www.reddit.com/r/androiddev/comments/1kvzuwy/announcement_androlaunch_a_native_macos_menu_bar/)
-- [I launched my first app on Google Play! &quot;Calcs - Hide Photos and Videos&quot;](https://www.reddit.com/r/androiddev/comments/1kvy66b/i_launched_my_first_app_on_google_play_calcs_hide/)
-- [Path animation explainer video &lpar;Video made with Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1kvxl9z/path_animation_explainer_video_video_made_with/)
-- [Where to Find Good Game Music Packs: A Guide for Developers — Ninichi](https://www.reddit.com/r/androiddev/comments/1kvx6ri/where_to_find_good_game_music_packs_a_guide_for/)
-- [Why does Google keep recommending me to use EdgeToEdge even though I&#39;m already using it?](https://www.reddit.com/r/androiddev/comments/1kvx2cs/why_does_google_keep_recommending_me_to_use/)
-- [Can Mixpanel track events in Android Firebase background message receiver?](https://www.reddit.com/r/androiddev/comments/1kvu4aa/can_mixpanel_track_events_in_android_firebase/)
+- [Ktjni - Gradle plugin for generating JNI headers](https://www.reddit.com/r/androiddev/comments/1kx2bnw/ktjni_gradle_plugin_for_generating_jni_headers/)
+- [Which north is being referenced in the function Location.getBearing&lpar;&rpar;?](https://www.reddit.com/r/androiddev/comments/1kwxilm/which_north_is_being_referenced_in_the_function/)
+- [Getting published on Play Store](https://www.reddit.com/r/androiddev/comments/1kwqact/getting_published_on_play_store/)
+- [Jetpack compose preview out of date](https://www.reddit.com/r/androiddev/comments/1kwnyvg/jetpack_compose_preview_out_of_date/)
+- [Has anybody ever been able to overturn a &quot;High Risk Behavior&quot; termination on Google Play?](https://www.reddit.com/r/androiddev/comments/1kwnwvx/has_anybody_ever_been_able_to_overturn_a_high/)
+- [Best Android Phone for Developers](https://www.reddit.com/r/androiddev/comments/1kwncnz/best_android_phone_for_developers/)
+- [Play Store question: when does “About this app” appear?](https://www.reddit.com/r/androiddev/comments/1kwn5th/play_store_question_when_does_about_this_app/)
+- [How do I change it?](https://www.reddit.com/r/androiddev/comments/1kwn3x6/how_do_i_change_it/)
+- [Configuring Gradle Memory Usage](https://www.reddit.com/r/androiddev/comments/1kwmr2k/configuring_gradle_memory_usage/)
+- [Are tablet screenshots required to get approval?](https://www.reddit.com/r/androiddev/comments/1kwlim0/are_tablet_screenshots_required_to_get_approval/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
