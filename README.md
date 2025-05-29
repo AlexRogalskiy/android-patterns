@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ktjni - Gradle plugin for generating JNI headers](https://www.reddit.com/r/androiddev/comments/1kx2bnw/ktjni_gradle_plugin_for_generating_jni_headers/)
-- [Which north is being referenced in the function Location.getBearing&lpar;&rpar;?](https://www.reddit.com/r/androiddev/comments/1kwxilm/which_north_is_being_referenced_in_the_function/)
-- [Getting published on Play Store](https://www.reddit.com/r/androiddev/comments/1kwqact/getting_published_on_play_store/)
-- [Jetpack compose preview out of date](https://www.reddit.com/r/androiddev/comments/1kwnyvg/jetpack_compose_preview_out_of_date/)
-- [Has anybody ever been able to overturn a &quot;High Risk Behavior&quot; termination on Google Play?](https://www.reddit.com/r/androiddev/comments/1kwnwvx/has_anybody_ever_been_able_to_overturn_a_high/)
-- [Best Android Phone for Developers](https://www.reddit.com/r/androiddev/comments/1kwncnz/best_android_phone_for_developers/)
-- [Play Store question: when does “About this app” appear?](https://www.reddit.com/r/androiddev/comments/1kwn5th/play_store_question_when_does_about_this_app/)
-- [How do I change it?](https://www.reddit.com/r/androiddev/comments/1kwn3x6/how_do_i_change_it/)
-- [Configuring Gradle Memory Usage](https://www.reddit.com/r/androiddev/comments/1kwmr2k/configuring_gradle_memory_usage/)
-- [Are tablet screenshots required to get approval?](https://www.reddit.com/r/androiddev/comments/1kwlim0/are_tablet_screenshots_required_to_get_approval/)
+- [Help getting screen sizes](https://www.reddit.com/r/androiddev/comments/1kxqqij/help_getting_screen_sizes/)
+- [Android Studio Meerkat Feature Drop | 2024.3.2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1kxpc4f/android_studio_meerkat_feature_drop_202432_patch/)
+- [any android XR developers?](https://www.reddit.com/r/androiddev/comments/1kxosr5/any_android_xr_developers/)
+- [App submission - Why do I keep getting denied?](https://www.reddit.com/r/androiddev/comments/1kxnjpf/app_submission_why_do_i_keep_getting_denied/)
+- [Asking for photo use declaration, even though I&#39;ve removed it from my latest version](https://www.reddit.com/r/androiddev/comments/1kxn24s/asking_for_photo_use_declaration_even_though_ive/)
+- [App rejected due to &quot;the item could not be found&quot;](https://www.reddit.com/r/androiddev/comments/1kxm6ch/app_rejected_due_to_the_item_could_not_be_found/)
+- [I wasted 72 hours of my life, debugging code, getting frustrated, only to find the error is due to version difference.](https://www.reddit.com/r/androiddev/comments/1kxhxr5/i_wasted_72_hours_of_my_life_debugging_code/)
+- [android studio + claude code](https://www.reddit.com/r/androiddev/comments/1kxhmhs/android_studio_claude_code/)
+- [Any alternative to Cursor prompt to ignore Kotlin linter?](https://www.reddit.com/r/androiddev/comments/1kxhm49/any_alternative_to_cursor_prompt_to_ignore_kotlin/)
+- [Families Policy Requirements: Neutral age screen](https://www.reddit.com/r/androiddev/comments/1kxglf1/families_policy_requirements_neutral_age_screen/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
