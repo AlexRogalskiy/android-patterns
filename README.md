@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help getting screen sizes](https://www.reddit.com/r/androiddev/comments/1kxqqij/help_getting_screen_sizes/)
-- [Android Studio Meerkat Feature Drop | 2024.3.2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1kxpc4f/android_studio_meerkat_feature_drop_202432_patch/)
-- [any android XR developers?](https://www.reddit.com/r/androiddev/comments/1kxosr5/any_android_xr_developers/)
-- [App submission - Why do I keep getting denied?](https://www.reddit.com/r/androiddev/comments/1kxnjpf/app_submission_why_do_i_keep_getting_denied/)
-- [Asking for photo use declaration, even though I&#39;ve removed it from my latest version](https://www.reddit.com/r/androiddev/comments/1kxn24s/asking_for_photo_use_declaration_even_though_ive/)
-- [App rejected due to &quot;the item could not be found&quot;](https://www.reddit.com/r/androiddev/comments/1kxm6ch/app_rejected_due_to_the_item_could_not_be_found/)
-- [I wasted 72 hours of my life, debugging code, getting frustrated, only to find the error is due to version difference.](https://www.reddit.com/r/androiddev/comments/1kxhxr5/i_wasted_72_hours_of_my_life_debugging_code/)
-- [android studio + claude code](https://www.reddit.com/r/androiddev/comments/1kxhmhs/android_studio_claude_code/)
-- [Any alternative to Cursor prompt to ignore Kotlin linter?](https://www.reddit.com/r/androiddev/comments/1kxhm49/any_alternative_to_cursor_prompt_to_ignore_kotlin/)
-- [Families Policy Requirements: Neutral age screen](https://www.reddit.com/r/androiddev/comments/1kxglf1/families_policy_requirements_neutral_age_screen/)
+- [[HELP ME OUT DEVS 🙏] Broke Founder, Real Hustle, Need an App in 7 Days — Will Pay + Share 💰🚀](https://www.reddit.com/r/androiddev/comments/1kym83a/help_me_out_devs_broke_founder_real_hustle_need/)
+- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1kym0qx/android_studio_narwhal_feature_drop_202512_canary/)
+- [Can I pay Google Developer Account fee with a family member&#39;s card?](https://www.reddit.com/r/androiddev/comments/1kyifeg/can_i_pay_google_developer_account_fee_with_a/)
+- [I need help packaging a mdk output to apk](https://www.reddit.com/r/androiddev/comments/1kyd97d/i_need_help_packaging_a_mdk_output_to_apk/)
+- [5 Best Screen Mirroring Apps for Android](https://www.reddit.com/r/androiddev/comments/1kycts1/5_best_screen_mirroring_apps_for_android/)
+- [My Big Kotlin Streaming App Needs Support — Looking for a Simple Monetizable Idea](https://www.reddit.com/r/androiddev/comments/1ky9mzi/my_big_kotlin_streaming_app_needs_support_looking/)
+- [Best performance Compose Chart library](https://www.reddit.com/r/androiddev/comments/1ky85q2/best_performance_compose_chart_library/)
+- [Has anyone built an app that uses TikTok, Instagram Reels, or YouTube Shorts content?](https://www.reddit.com/r/androiddev/comments/1ky7gle/has_anyone_built_an_app_that_uses_tiktok/)
+- [Texas Enforces Age Verification for App Downloads by 2026](https://www.reddit.com/r/androiddev/comments/1ky782w/texas_enforces_age_verification_for_app_downloads/)
+- [dose this option make my app private](https://www.reddit.com/r/androiddev/comments/1ky66mb/dose_this_option_make_my_app_private/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
