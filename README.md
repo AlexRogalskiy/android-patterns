@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[HELP ME OUT DEVS 🙏] Broke Founder, Real Hustle, Need an App in 7 Days — Will Pay + Share 💰🚀](https://www.reddit.com/r/androiddev/comments/1kym83a/help_me_out_devs_broke_founder_real_hustle_need/)
-- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1kym0qx/android_studio_narwhal_feature_drop_202512_canary/)
-- [Can I pay Google Developer Account fee with a family member&#39;s card?](https://www.reddit.com/r/androiddev/comments/1kyifeg/can_i_pay_google_developer_account_fee_with_a/)
-- [I need help packaging a mdk output to apk](https://www.reddit.com/r/androiddev/comments/1kyd97d/i_need_help_packaging_a_mdk_output_to_apk/)
-- [5 Best Screen Mirroring Apps for Android](https://www.reddit.com/r/androiddev/comments/1kycts1/5_best_screen_mirroring_apps_for_android/)
-- [My Big Kotlin Streaming App Needs Support — Looking for a Simple Monetizable Idea](https://www.reddit.com/r/androiddev/comments/1ky9mzi/my_big_kotlin_streaming_app_needs_support_looking/)
-- [Best performance Compose Chart library](https://www.reddit.com/r/androiddev/comments/1ky85q2/best_performance_compose_chart_library/)
-- [Has anyone built an app that uses TikTok, Instagram Reels, or YouTube Shorts content?](https://www.reddit.com/r/androiddev/comments/1ky7gle/has_anyone_built_an_app_that_uses_tiktok/)
-- [Texas Enforces Age Verification for App Downloads by 2026](https://www.reddit.com/r/androiddev/comments/1ky782w/texas_enforces_age_verification_for_app_downloads/)
-- [dose this option make my app private](https://www.reddit.com/r/androiddev/comments/1ky66mb/dose_this_option_make_my_app_private/)
+- [Built a free all in one health tracker with Jetpack Compose thoughts on simplifying multi-feature wellness apps?](https://www.reddit.com/r/androiddev/comments/1kzivu7/built_a_free_all_in_one_health_tracker_with/)
+- [AI is killing motivation to do open source projects](https://www.reddit.com/r/androiddev/comments/1kzdpxt/ai_is_killing_motivation_to_do_open_source/)
+- [Any suggestions for app listing screenshots?](https://www.reddit.com/r/androiddev/comments/1kzcx4w/any_suggestions_for_app_listing_screenshots/)
+- [How to open an app by package name without QUERY_ALL_PACKAGES or declaring it in &lt;queries&gt;](https://www.reddit.com/r/androiddev/comments/1kzc0ri/how_to_open_an_app_by_package_name_without_query/)
+- [🚀 Android Developers – Quick Help Needed!](https://www.reddit.com/r/androiddev/comments/1kz884a/android_developers_quick_help_needed/)
+- [Daily Android Quiz for fun](https://www.reddit.com/r/androiddev/comments/1kz79t7/daily_android_quiz_for_fun/)
+- [Sync between multiple devices](https://www.reddit.com/r/androiddev/comments/1kz64pk/sync_between_multiple_devices/)
+- [Android views : is there a way to make responsive implementation across different devices and match figma design with the same dp and sp from figma](https://www.reddit.com/r/androiddev/comments/1kz5hyp/android_views_is_there_a_way_to_make_responsive/)
+- [is it possible to receive in app tips from users?](https://www.reddit.com/r/androiddev/comments/1kz3z5e/is_it_possible_to_receive_in_app_tips_from_users/)
+- [Why do Android layouts &lpar;fonts &amp; spacing&rpar; look different across devices, even when using exact dp from Figma? How do you handle this mismatch?](https://www.reddit.com/r/androiddev/comments/1kyyu21/why_do_android_layouts_fonts_spacing_look/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
