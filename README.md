@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Built a free all in one health tracker with Jetpack Compose thoughts on simplifying multi-feature wellness apps?](https://www.reddit.com/r/androiddev/comments/1kzivu7/built_a_free_all_in_one_health_tracker_with/)
-- [AI is killing motivation to do open source projects](https://www.reddit.com/r/androiddev/comments/1kzdpxt/ai_is_killing_motivation_to_do_open_source/)
-- [Any suggestions for app listing screenshots?](https://www.reddit.com/r/androiddev/comments/1kzcx4w/any_suggestions_for_app_listing_screenshots/)
-- [How to open an app by package name without QUERY_ALL_PACKAGES or declaring it in &lt;queries&gt;](https://www.reddit.com/r/androiddev/comments/1kzc0ri/how_to_open_an_app_by_package_name_without_query/)
-- [🚀 Android Developers – Quick Help Needed!](https://www.reddit.com/r/androiddev/comments/1kz884a/android_developers_quick_help_needed/)
-- [Daily Android Quiz for fun](https://www.reddit.com/r/androiddev/comments/1kz79t7/daily_android_quiz_for_fun/)
-- [Sync between multiple devices](https://www.reddit.com/r/androiddev/comments/1kz64pk/sync_between_multiple_devices/)
-- [Android views : is there a way to make responsive implementation across different devices and match figma design with the same dp and sp from figma](https://www.reddit.com/r/androiddev/comments/1kz5hyp/android_views_is_there_a_way_to_make_responsive/)
-- [is it possible to receive in app tips from users?](https://www.reddit.com/r/androiddev/comments/1kz3z5e/is_it_possible_to_receive_in_app_tips_from_users/)
-- [Why do Android layouts &lpar;fonts &amp; spacing&rpar; look different across devices, even when using exact dp from Figma? How do you handle this mismatch?](https://www.reddit.com/r/androiddev/comments/1kyyu21/why_do_android_layouts_fonts_spacing_look/)
+- [📸 Photowale - A Real-time Event Photo Sharing App](https://www.reddit.com/r/androiddev/comments/1l0ajqx/photowale_a_realtime_event_photo_sharing_app/)
+- [Need Help with Modal Sheet for Android App Development](https://www.reddit.com/r/androiddev/comments/1l06uap/need_help_with_modal_sheet_for_android_app/)
+- [Your crash rate on Google Play Vitals/Crashlytics](https://www.reddit.com/r/androiddev/comments/1l05xd1/your_crash_rate_on_google_play_vitalscrashlytics/)
+- [Updted App Access Credentials, Will Review process restart again or resumes ?](https://www.reddit.com/r/androiddev/comments/1l05o2m/updted_app_access_credentials_will_review_process/)
+- [Why Full stack app developer not so common ?](https://www.reddit.com/r/androiddev/comments/1l03mr4/why_full_stack_app_developer_not_so_common/)
+- [Modern Android App Architecture with Clean Code Principles 2025 Edition](https://www.reddit.com/r/androiddev/comments/1l0184b/modern_android_app_architecture_with_clean_code/)
+- [Please Help!!! I am new in Android Dev and Android Studio](https://www.reddit.com/r/androiddev/comments/1kzzs4p/please_help_i_am_new_in_android_dev_and_android/)
+- [Help Needed: Make an Old APK &lpar;Atlantic Fleet&rpar; Compatible with Android 15 &lpar;S25+, 64-bit only&rpar;](https://www.reddit.com/r/androiddev/comments/1kzyno1/help_needed_make_an_old_apk_atlantic_fleet/)
+- [Android App Final Year Project Idea](https://www.reddit.com/r/androiddev/comments/1kzyhpd/android_app_final_year_project_idea/)
+- [Phone is stuck](https://www.reddit.com/r/androiddev/comments/1kzw3p7/phone_is_stuck/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
