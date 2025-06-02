@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [📸 Photowale - A Real-time Event Photo Sharing App](https://www.reddit.com/r/androiddev/comments/1l0ajqx/photowale_a_realtime_event_photo_sharing_app/)
-- [Need Help with Modal Sheet for Android App Development](https://www.reddit.com/r/androiddev/comments/1l06uap/need_help_with_modal_sheet_for_android_app/)
-- [Your crash rate on Google Play Vitals/Crashlytics](https://www.reddit.com/r/androiddev/comments/1l05xd1/your_crash_rate_on_google_play_vitalscrashlytics/)
-- [Updted App Access Credentials, Will Review process restart again or resumes ?](https://www.reddit.com/r/androiddev/comments/1l05o2m/updted_app_access_credentials_will_review_process/)
-- [Why Full stack app developer not so common ?](https://www.reddit.com/r/androiddev/comments/1l03mr4/why_full_stack_app_developer_not_so_common/)
-- [Modern Android App Architecture with Clean Code Principles 2025 Edition](https://www.reddit.com/r/androiddev/comments/1l0184b/modern_android_app_architecture_with_clean_code/)
-- [Please Help!!! I am new in Android Dev and Android Studio](https://www.reddit.com/r/androiddev/comments/1kzzs4p/please_help_i_am_new_in_android_dev_and_android/)
-- [Help Needed: Make an Old APK &lpar;Atlantic Fleet&rpar; Compatible with Android 15 &lpar;S25+, 64-bit only&rpar;](https://www.reddit.com/r/androiddev/comments/1kzyno1/help_needed_make_an_old_apk_atlantic_fleet/)
-- [Android App Final Year Project Idea](https://www.reddit.com/r/androiddev/comments/1kzyhpd/android_app_final_year_project_idea/)
-- [Phone is stuck](https://www.reddit.com/r/androiddev/comments/1kzw3p7/phone_is_stuck/)
+- [Interesting Android Apps: June 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1l14ev5/interesting_android_apps_june_2025_showcase/)
+- [Got an Android app development question? Ask away! June 2025 edition](https://www.reddit.com/r/androiddev/comments/1l14c43/got_an_android_app_development_question_ask_away/)
+- [Do you create a design system when building your Android app, or just go with components as needed?](https://www.reddit.com/r/androiddev/comments/1l0yam7/do_you_create_a_design_system_when_building_your/)
+- [Is Philipp Lackner&#39;s app academy worth the investment?](https://www.reddit.com/r/androiddev/comments/1l0xsnv/is_philipp_lackners_app_academy_worth_the/)
+- [Why State Hoisting is a must-know in Jetpack Compose - with practical examples](https://www.reddit.com/r/androiddev/comments/1l0xkb1/why_state_hoisting_is_a_mustknow_in_jetpack/)
+- [My Galaxy S21 stops working right after I take a screenshot. How do I fix this?](https://www.reddit.com/r/androiddev/comments/1l0v3gv/my_galaxy_s21_stops_working_right_after_i_take_a/)
+- [Strings Resources Review and Editing](https://www.reddit.com/r/androiddev/comments/1l0mgbp/strings_resources_review_and_editing/)
+- [Index problem](https://www.reddit.com/r/androiddev/comments/1l0me9z/index_problem/)
+- [RevenueCat gives premium subscription upon restore purchase during internal testing?](https://www.reddit.com/r/androiddev/comments/1l0lx9p/revenuecat_gives_premium_subscription_upon/)
+- [Minimalist Jetpack Compose Boilerplate](https://www.reddit.com/r/androiddev/comments/1l0k2ig/minimalist_jetpack_compose_boilerplate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
