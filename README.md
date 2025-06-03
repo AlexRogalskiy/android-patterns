@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Interesting Android Apps: June 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1l14ev5/interesting_android_apps_june_2025_showcase/)
-- [Got an Android app development question? Ask away! June 2025 edition](https://www.reddit.com/r/androiddev/comments/1l14c43/got_an_android_app_development_question_ask_away/)
-- [Do you create a design system when building your Android app, or just go with components as needed?](https://www.reddit.com/r/androiddev/comments/1l0yam7/do_you_create_a_design_system_when_building_your/)
-- [Is Philipp Lackner&#39;s app academy worth the investment?](https://www.reddit.com/r/androiddev/comments/1l0xsnv/is_philipp_lackners_app_academy_worth_the/)
-- [Why State Hoisting is a must-know in Jetpack Compose - with practical examples](https://www.reddit.com/r/androiddev/comments/1l0xkb1/why_state_hoisting_is_a_mustknow_in_jetpack/)
-- [My Galaxy S21 stops working right after I take a screenshot. How do I fix this?](https://www.reddit.com/r/androiddev/comments/1l0v3gv/my_galaxy_s21_stops_working_right_after_i_take_a/)
-- [Strings Resources Review and Editing](https://www.reddit.com/r/androiddev/comments/1l0mgbp/strings_resources_review_and_editing/)
-- [Index problem](https://www.reddit.com/r/androiddev/comments/1l0me9z/index_problem/)
-- [RevenueCat gives premium subscription upon restore purchase during internal testing?](https://www.reddit.com/r/androiddev/comments/1l0lx9p/revenuecat_gives_premium_subscription_upon/)
-- [Minimalist Jetpack Compose Boilerplate](https://www.reddit.com/r/androiddev/comments/1l0k2ig/minimalist_jetpack_compose_boilerplate/)
+- [Is there any app that can log &#39;everything&#39; another app does?](https://www.reddit.com/r/androiddev/comments/1l1w7vw/is_there_any_app_that_can_log_everything_another/)
+- [My developer account is still at risk of being closed even though I published an update??](https://www.reddit.com/r/androiddev/comments/1l1teld/my_developer_account_is_still_at_risk_of_being/)
+- [Offline Voice Control: Building a Hands-Free Mobile App with On-Device AI](https://www.reddit.com/r/androiddev/comments/1l1pilw/offline_voice_control_building_a_handsfree_mobile/)
+- [How do you reduce code duplication around saved state when designing state holder for custom Compose component?](https://www.reddit.com/r/androiddev/comments/1l1mtt0/how_do_you_reduce_code_duplication_around_saved/)
+- [Launching Pre-registration on playstore: possible to update build after approval?](https://www.reddit.com/r/androiddev/comments/1l1m41c/launching_preregistration_on_playstore_possible/)
+- [My app handles prepaid card data which does not leave the device. Can I publish my app under personal developer account?](https://www.reddit.com/r/androiddev/comments/1l1j17v/my_app_handles_prepaid_card_data_which_does_not/)
+- [Can you guys help me review my repo, i&#39;m preparing for an intership | GoodNotes for Android](https://www.reddit.com/r/androiddev/comments/1l1io62/can_you_guys_help_me_review_my_repo_im_preparing/)
+- [&quot;Press L for ❤️&quot; concept with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1l1ewkw/press_l_for_concept_with_jetpack_compose/)
+- [Event detection with locked phone](https://www.reddit.com/r/androiddev/comments/1l1drj5/event_detection_with_locked_phone/)
+- [Can you build an app and run it off line?](https://www.reddit.com/r/androiddev/comments/1l1dqyy/can_you_build_an_app_and_run_it_off_line/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
