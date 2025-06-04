@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there any app that can log &#39;everything&#39; another app does?](https://www.reddit.com/r/androiddev/comments/1l1w7vw/is_there_any_app_that_can_log_everything_another/)
-- [My developer account is still at risk of being closed even though I published an update??](https://www.reddit.com/r/androiddev/comments/1l1teld/my_developer_account_is_still_at_risk_of_being/)
-- [Offline Voice Control: Building a Hands-Free Mobile App with On-Device AI](https://www.reddit.com/r/androiddev/comments/1l1pilw/offline_voice_control_building_a_handsfree_mobile/)
-- [How do you reduce code duplication around saved state when designing state holder for custom Compose component?](https://www.reddit.com/r/androiddev/comments/1l1mtt0/how_do_you_reduce_code_duplication_around_saved/)
-- [Launching Pre-registration on playstore: possible to update build after approval?](https://www.reddit.com/r/androiddev/comments/1l1m41c/launching_preregistration_on_playstore_possible/)
-- [My app handles prepaid card data which does not leave the device. Can I publish my app under personal developer account?](https://www.reddit.com/r/androiddev/comments/1l1j17v/my_app_handles_prepaid_card_data_which_does_not/)
-- [Can you guys help me review my repo, i&#39;m preparing for an intership | GoodNotes for Android](https://www.reddit.com/r/androiddev/comments/1l1io62/can_you_guys_help_me_review_my_repo_im_preparing/)
-- [&quot;Press L for ❤️&quot; concept with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1l1ewkw/press_l_for_concept_with_jetpack_compose/)
-- [Event detection with locked phone](https://www.reddit.com/r/androiddev/comments/1l1drj5/event_detection_with_locked_phone/)
-- [Can you build an app and run it off line?](https://www.reddit.com/r/androiddev/comments/1l1dqyy/can_you_build_an_app_and_run_it_off_line/)
+- [Engineering role switch from Android to Full stack or Backend question](https://www.reddit.com/r/androiddev/comments/1l2sb3m/engineering_role_switch_from_android_to_full/)
+- [Google displaying full legal name and address on the Play Store page, how to change it, make it more private ?](https://www.reddit.com/r/androiddev/comments/1l2qk24/google_displaying_full_legal_name_and_address_on/)
+- [Android Studio Narwhal | 2025.1.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1l2q3py/android_studio_narwhal_202511_rc_1_now_available/)
+- [Big Ro6 parody coding decisions - making of android app to speak the parody lyrics](https://www.reddit.com/r/androiddev/comments/1l2pq6b/big_ro6_parody_coding_decisions_making_of_android/)
+- [Navigation via the viewmodel in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1l2ow7e/navigation_via_the_viewmodel_in_jetpack_compose/)
+- [Just wanted to release my first app](https://www.reddit.com/r/androiddev/comments/1l2mt73/just_wanted_to_release_my_first_app/)
+- [Anyone else got this strange Mailby &quot;App Sky Lab&quot; for a &quot;Partnership Program&quot;?](https://www.reddit.com/r/androiddev/comments/1l2ig21/anyone_else_got_this_strange_mailby_app_sky_lab/)
+- [App developer needed for gurgaon location urgent ⚡⚡⚡⚡](https://www.reddit.com/r/androiddev/comments/1l2h0mo/app_developer_needed_for_gurgaon_location_urgent/)
+- [Android 16 release date?](https://www.reddit.com/r/androiddev/comments/1l2gwyd/android_16_release_date/)
+- [Is it good laptop for Android dev?](https://www.reddit.com/r/androiddev/comments/1l2gob1/is_it_good_laptop_for_android_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
