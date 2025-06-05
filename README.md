@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Engineering role switch from Android to Full stack or Backend question](https://www.reddit.com/r/androiddev/comments/1l2sb3m/engineering_role_switch_from_android_to_full/)
-- [Google displaying full legal name and address on the Play Store page, how to change it, make it more private ?](https://www.reddit.com/r/androiddev/comments/1l2qk24/google_displaying_full_legal_name_and_address_on/)
-- [Android Studio Narwhal | 2025.1.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1l2q3py/android_studio_narwhal_202511_rc_1_now_available/)
-- [Big Ro6 parody coding decisions - making of android app to speak the parody lyrics](https://www.reddit.com/r/androiddev/comments/1l2pq6b/big_ro6_parody_coding_decisions_making_of_android/)
-- [Navigation via the viewmodel in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1l2ow7e/navigation_via_the_viewmodel_in_jetpack_compose/)
-- [Just wanted to release my first app](https://www.reddit.com/r/androiddev/comments/1l2mt73/just_wanted_to_release_my_first_app/)
-- [Anyone else got this strange Mailby &quot;App Sky Lab&quot; for a &quot;Partnership Program&quot;?](https://www.reddit.com/r/androiddev/comments/1l2ig21/anyone_else_got_this_strange_mailby_app_sky_lab/)
-- [App developer needed for gurgaon location urgent ⚡⚡⚡⚡](https://www.reddit.com/r/androiddev/comments/1l2h0mo/app_developer_needed_for_gurgaon_location_urgent/)
-- [Android 16 release date?](https://www.reddit.com/r/androiddev/comments/1l2gwyd/android_16_release_date/)
-- [Is it good laptop for Android dev?](https://www.reddit.com/r/androiddev/comments/1l2gob1/is_it_good_laptop_for_android_dev/)
+- [Side loading using ADB shell](https://www.reddit.com/r/androiddev/comments/1l3o0qm/side_loading_using_adb_shell/)
+- [Any Gif Encoder Library Recommendations? Or build.gradle help?](https://www.reddit.com/r/androiddev/comments/1l3heq5/any_gif_encoder_library_recommendations_or/)
+- [World Clock for Android TV / Google TV](https://www.reddit.com/r/androiddev/comments/1l3hahi/world_clock_for_android_tv_google_tv/)
+- [Heads Up: GIPHY&#39;s GIF API now runs Promoted ads if you&#39;re using their API.](https://www.reddit.com/r/androiddev/comments/1l3f624/heads_up_giphys_gif_api_now_runs_promoted_ads_if/)
+- [Roll back to OneUI 6.1?](https://www.reddit.com/r/androiddev/comments/1l3f48z/roll_back_to_oneui_61/)
+- [Roll back to OneUI 6.1?](https://www.reddit.com/r/androiddev/comments/1l3f44j/roll_back_to_oneui_61/)
+- [Tasks of the 12 testers](https://www.reddit.com/r/androiddev/comments/1l3d3at/tasks_of_the_12_testers/)
+- [Stuck in &#39;Under Review&#39; After Resuming Track](https://www.reddit.com/r/androiddev/comments/1l3bggn/stuck_in_under_review_after_resuming_track/)
+- [Sun Clock app - orientated to the rhythms of nature and the stars](https://www.reddit.com/r/androiddev/comments/1l3b12r/sun_clock_app_orientated_to_the_rhythms_of_nature/)
+- [This was the app that I built for PG systems where any individual can track their record of food and can choose what they would like to have.](https://www.reddit.com/r/androiddev/comments/1l3anz2/this_was_the_app_that_i_built_for_pg_systems/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
