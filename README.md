@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Side loading using ADB shell](https://www.reddit.com/r/androiddev/comments/1l3o0qm/side_loading_using_adb_shell/)
-- [Any Gif Encoder Library Recommendations? Or build.gradle help?](https://www.reddit.com/r/androiddev/comments/1l3heq5/any_gif_encoder_library_recommendations_or/)
-- [World Clock for Android TV / Google TV](https://www.reddit.com/r/androiddev/comments/1l3hahi/world_clock_for_android_tv_google_tv/)
-- [Heads Up: GIPHY&#39;s GIF API now runs Promoted ads if you&#39;re using their API.](https://www.reddit.com/r/androiddev/comments/1l3f624/heads_up_giphys_gif_api_now_runs_promoted_ads_if/)
-- [Roll back to OneUI 6.1?](https://www.reddit.com/r/androiddev/comments/1l3f48z/roll_back_to_oneui_61/)
-- [Roll back to OneUI 6.1?](https://www.reddit.com/r/androiddev/comments/1l3f44j/roll_back_to_oneui_61/)
-- [Tasks of the 12 testers](https://www.reddit.com/r/androiddev/comments/1l3d3at/tasks_of_the_12_testers/)
-- [Stuck in &#39;Under Review&#39; After Resuming Track](https://www.reddit.com/r/androiddev/comments/1l3bggn/stuck_in_under_review_after_resuming_track/)
-- [Sun Clock app - orientated to the rhythms of nature and the stars](https://www.reddit.com/r/androiddev/comments/1l3b12r/sun_clock_app_orientated_to_the_rhythms_of_nature/)
-- [This was the app that I built for PG systems where any individual can track their record of food and can choose what they would like to have.](https://www.reddit.com/r/androiddev/comments/1l3anz2/this_was_the_app_that_i_built_for_pg_systems/)
+- [If you&#39;re using GIPHY GIF API they&#39;re now showing 12+ ADS in gifs!](https://www.reddit.com/r/androiddev/comments/1l4grfo/if_youre_using_giphy_gif_api_theyre_now_showing/)
+- [code map / graph visualization pluging for kotlin](https://www.reddit.com/r/androiddev/comments/1l4asjd/code_map_graph_visualization_pluging_for_kotlin/)
+- [[Showcase] NeuroVerse – AI-powered Android assistant with plugin support &lpar;open-source&rpar;](https://www.reddit.com/r/androiddev/comments/1l4ain6/showcase_neuroverse_aipowered_android_assistant/)
+- [meet/calendar api/sdk](https://www.reddit.com/r/androiddev/comments/1l49tip/meetcalendar_apisdk/)
+- [Need help finalizing and publishing apps](https://www.reddit.com/r/androiddev/comments/1l4949o/need_help_finalizing_and_publishing_apps/)
+- [Is there actually a maximum number of persisted URIs an app can have on Android?](https://www.reddit.com/r/androiddev/comments/1l45go4/is_there_actually_a_maximum_number_of_persisted/)
+- [Webinar | Tracing execution of Telegram on Android for Time Travel Analysis](https://www.reddit.com/r/androiddev/comments/1l45abx/webinar_tracing_execution_of_telegram_on_android/)
+- [List-Detail Scenes with Jetpack Navigation 3](https://www.reddit.com/r/androiddev/comments/1l44pdd/listdetail_scenes_with_jetpack_navigation_3/)
+- [Can you run Journeys on CICD?](https://www.reddit.com/r/androiddev/comments/1l42w85/can_you_run_journeys_on_cicd/)
+- [Is there a way to implement a Bluetooth Device view similar to Google Buds?](https://www.reddit.com/r/androiddev/comments/1l417j6/is_there_a_way_to_implement_a_bluetooth_device/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
