@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [If you&#39;re using GIPHY GIF API they&#39;re now showing 12+ ADS in gifs!](https://www.reddit.com/r/androiddev/comments/1l4grfo/if_youre_using_giphy_gif_api_theyre_now_showing/)
-- [code map / graph visualization pluging for kotlin](https://www.reddit.com/r/androiddev/comments/1l4asjd/code_map_graph_visualization_pluging_for_kotlin/)
-- [[Showcase] NeuroVerse – AI-powered Android assistant with plugin support &lpar;open-source&rpar;](https://www.reddit.com/r/androiddev/comments/1l4ain6/showcase_neuroverse_aipowered_android_assistant/)
-- [meet/calendar api/sdk](https://www.reddit.com/r/androiddev/comments/1l49tip/meetcalendar_apisdk/)
-- [Need help finalizing and publishing apps](https://www.reddit.com/r/androiddev/comments/1l4949o/need_help_finalizing_and_publishing_apps/)
-- [Is there actually a maximum number of persisted URIs an app can have on Android?](https://www.reddit.com/r/androiddev/comments/1l45go4/is_there_actually_a_maximum_number_of_persisted/)
-- [Webinar | Tracing execution of Telegram on Android for Time Travel Analysis](https://www.reddit.com/r/androiddev/comments/1l45abx/webinar_tracing_execution_of_telegram_on_android/)
-- [List-Detail Scenes with Jetpack Navigation 3](https://www.reddit.com/r/androiddev/comments/1l44pdd/listdetail_scenes_with_jetpack_navigation_3/)
-- [Can you run Journeys on CICD?](https://www.reddit.com/r/androiddev/comments/1l42w85/can_you_run_journeys_on_cicd/)
-- [Is there a way to implement a Bluetooth Device view similar to Google Buds?](https://www.reddit.com/r/androiddev/comments/1l417j6/is_there_a_way_to_implement_a_bluetooth_device/)
+- [Question about Dynamic Code Loading and Play Store Policies](https://www.reddit.com/r/androiddev/comments/1l58ys1/question_about_dynamic_code_loading_and_play/)
+- [Is my brand new phone&#39;s battery fried ?](https://www.reddit.com/r/androiddev/comments/1l58dza/is_my_brand_new_phones_battery_fried/)
+- [WearOS get crown rotation](https://www.reddit.com/r/androiddev/comments/1l53e03/wearos_get_crown_rotation/)
+- [Made made with help from Rork](https://www.reddit.com/r/androiddev/comments/1l535tr/made_made_with_help_from_rork/)
+- [How To Make A Live Wallpaper App?](https://www.reddit.com/r/androiddev/comments/1l52z0i/how_to_make_a_live_wallpaper_app/)
+- [A free war thunder Wikipedia app I made!](https://www.reddit.com/r/androiddev/comments/1l4yxpe/a_free_war_thunder_wikipedia_app_i_made/)
+- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1l4xi01/android_studio_narwhal_feature_drop_202512_canary/)
+- [Struggling to find a senior Android dev role after 9 years of experience – need advice and support](https://www.reddit.com/r/androiddev/comments/1l4wi3l/struggling_to_find_a_senior_android_dev_role/)
+- [Rudi – Your Driving Companion with Real-Time Reactions Based on How You Drive!](https://www.reddit.com/r/androiddev/comments/1l4vq1f/rudi_your_driving_companion_with_realtime/)
+- [I Built My Own Video/Audio Calling SDK Because the Existing Ones Never Felt Right](https://www.reddit.com/r/androiddev/comments/1l4rtqr/i_built_my_own_videoaudio_calling_sdk_because_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
