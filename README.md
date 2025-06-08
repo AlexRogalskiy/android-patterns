@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question about Dynamic Code Loading and Play Store Policies](https://www.reddit.com/r/androiddev/comments/1l58ys1/question_about_dynamic_code_loading_and_play/)
-- [Is my brand new phone&#39;s battery fried ?](https://www.reddit.com/r/androiddev/comments/1l58dza/is_my_brand_new_phones_battery_fried/)
-- [WearOS get crown rotation](https://www.reddit.com/r/androiddev/comments/1l53e03/wearos_get_crown_rotation/)
-- [Made made with help from Rork](https://www.reddit.com/r/androiddev/comments/1l535tr/made_made_with_help_from_rork/)
-- [How To Make A Live Wallpaper App?](https://www.reddit.com/r/androiddev/comments/1l52z0i/how_to_make_a_live_wallpaper_app/)
-- [A free war thunder Wikipedia app I made!](https://www.reddit.com/r/androiddev/comments/1l4yxpe/a_free_war_thunder_wikipedia_app_i_made/)
-- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1l4xi01/android_studio_narwhal_feature_drop_202512_canary/)
-- [Struggling to find a senior Android dev role after 9 years of experience – need advice and support](https://www.reddit.com/r/androiddev/comments/1l4wi3l/struggling_to_find_a_senior_android_dev_role/)
-- [Rudi – Your Driving Companion with Real-Time Reactions Based on How You Drive!](https://www.reddit.com/r/androiddev/comments/1l4vq1f/rudi_your_driving_companion_with_realtime/)
-- [I Built My Own Video/Audio Calling SDK Because the Existing Ones Never Felt Right](https://www.reddit.com/r/androiddev/comments/1l4rtqr/i_built_my_own_videoaudio_calling_sdk_because_the/)
+- [Does &quot;android:exported&quot; attribute in launcher activity make any sense?](https://www.reddit.com/r/androiddev/comments/1l605x2/does_androidexported_attribute_in_launcher/)
+- [My first game](https://www.reddit.com/r/androiddev/comments/1l5y5fo/my_first_game/)
+- [Google Play’s 12 tester Policy Is Unfair and Anti-Competitive – Let’s send complaints to the EU Commission! I already did!](https://www.reddit.com/r/androiddev/comments/1l5wn2r/google_plays_12_tester_policy_is_unfair_and/)
+- [NeuroVerse Plugin SDK + Example Plugin &lpar;Open Source&rpar; - Extend AI Assistant on Android!](https://www.reddit.com/r/androiddev/comments/1l5sd1c/neuroverse_plugin_sdk_example_plugin_open_source/)
+- [BroadcastReceiver / AppWidgetProvider - which scope to use to launch a coroutine to fetch some data?](https://www.reddit.com/r/androiddev/comments/1l5ou3m/broadcastreceiver_appwidgetprovider_which_scope/)
+- [Need you insights](https://www.reddit.com/r/androiddev/comments/1l5nte6/need_you_insights/)
+- [Tired of dry replies? Let ChatGPT flirt, charm, or clap back — right from your keyboard. &lpar;10,000 free tokens, no BS.&rpar;](https://www.reddit.com/r/androiddev/comments/1l5n6sa/tired_of_dry_replies_let_chatgpt_flirt_charm_or/)
+- [Building a production app](https://www.reddit.com/r/androiddev/comments/1l5jmiu/building_a_production_app/)
+- [Join Our Free App Beta Testing Community! 🚀](https://www.reddit.com/r/androiddev/comments/1l5h3ri/join_our_free_app_beta_testing_community/)
+- [Mouse Right click on Android](https://www.reddit.com/r/androiddev/comments/1l5gykz/mouse_right_click_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
