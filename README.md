@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does &quot;android:exported&quot; attribute in launcher activity make any sense?](https://www.reddit.com/r/androiddev/comments/1l605x2/does_androidexported_attribute_in_launcher/)
-- [My first game](https://www.reddit.com/r/androiddev/comments/1l5y5fo/my_first_game/)
-- [Google Play’s 12 tester Policy Is Unfair and Anti-Competitive – Let’s send complaints to the EU Commission! I already did!](https://www.reddit.com/r/androiddev/comments/1l5wn2r/google_plays_12_tester_policy_is_unfair_and/)
-- [NeuroVerse Plugin SDK + Example Plugin &lpar;Open Source&rpar; - Extend AI Assistant on Android!](https://www.reddit.com/r/androiddev/comments/1l5sd1c/neuroverse_plugin_sdk_example_plugin_open_source/)
-- [BroadcastReceiver / AppWidgetProvider - which scope to use to launch a coroutine to fetch some data?](https://www.reddit.com/r/androiddev/comments/1l5ou3m/broadcastreceiver_appwidgetprovider_which_scope/)
-- [Need you insights](https://www.reddit.com/r/androiddev/comments/1l5nte6/need_you_insights/)
-- [Tired of dry replies? Let ChatGPT flirt, charm, or clap back — right from your keyboard. &lpar;10,000 free tokens, no BS.&rpar;](https://www.reddit.com/r/androiddev/comments/1l5n6sa/tired_of_dry_replies_let_chatgpt_flirt_charm_or/)
-- [Building a production app](https://www.reddit.com/r/androiddev/comments/1l5jmiu/building_a_production_app/)
-- [Join Our Free App Beta Testing Community! 🚀](https://www.reddit.com/r/androiddev/comments/1l5h3ri/join_our_free_app_beta_testing_community/)
-- [Mouse Right click on Android](https://www.reddit.com/r/androiddev/comments/1l5gykz/mouse_right_click_on_android/)
+- [help getting out of closed testing](https://www.reddit.com/r/androiddev/comments/1l6tu46/help_getting_out_of_closed_testing/)
+- [Any dedicated community or discord server for OnePlus Nord development?](https://www.reddit.com/r/androiddev/comments/1l6syap/any_dedicated_community_or_discord_server_for/)
+- [Just started android dev](https://www.reddit.com/r/androiddev/comments/1l6olnw/just_started_android_dev/)
+- [How to spoof android camera to show a pre-recorded video/photo](https://www.reddit.com/r/androiddev/comments/1l6nt10/how_to_spoof_android_camera_to_show_a_prerecorded/)
+- [Android ROOT: OEM bootloader unlock not available, how to proceed? &lpar;Android 4.4.2&rpar;](https://www.reddit.com/r/androiddev/comments/1l6mzwt/android_root_oem_bootloader_unlock_not_available/)
+- [🚀 [Open Source] AppConfig - A Better Way to Handle App Key-Value Pair in Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1l6lz4u/open_source_appconfig_a_better_way_to_handle_app/)
+- [Hey, how do I update this?](https://www.reddit.com/r/androiddev/comments/1l6jw1l/hey_how_do_i_update_this/)
+- [Using a VGA monitor as second screen](https://www.reddit.com/r/androiddev/comments/1l6geiy/using_a_vga_monitor_as_second_screen/)
+- [How do you do TDD in Android app development?](https://www.reddit.com/r/androiddev/comments/1l6fh25/how_do_you_do_tdd_in_android_app_development/)
+- [Beginner trying to build a face-swap photo app — need help figuring out how](https://www.reddit.com/r/androiddev/comments/1l6fcum/beginner_trying_to_build_a_faceswap_photo_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
