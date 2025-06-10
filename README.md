@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [help getting out of closed testing](https://www.reddit.com/r/androiddev/comments/1l6tu46/help_getting_out_of_closed_testing/)
-- [Any dedicated community or discord server for OnePlus Nord development?](https://www.reddit.com/r/androiddev/comments/1l6syap/any_dedicated_community_or_discord_server_for/)
-- [Just started android dev](https://www.reddit.com/r/androiddev/comments/1l6olnw/just_started_android_dev/)
-- [How to spoof android camera to show a pre-recorded video/photo](https://www.reddit.com/r/androiddev/comments/1l6nt10/how_to_spoof_android_camera_to_show_a_prerecorded/)
-- [Android ROOT: OEM bootloader unlock not available, how to proceed? &lpar;Android 4.4.2&rpar;](https://www.reddit.com/r/androiddev/comments/1l6mzwt/android_root_oem_bootloader_unlock_not_available/)
-- [🚀 [Open Source] AppConfig - A Better Way to Handle App Key-Value Pair in Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1l6lz4u/open_source_appconfig_a_better_way_to_handle_app/)
-- [Hey, how do I update this?](https://www.reddit.com/r/androiddev/comments/1l6jw1l/hey_how_do_i_update_this/)
-- [Using a VGA monitor as second screen](https://www.reddit.com/r/androiddev/comments/1l6geiy/using_a_vga_monitor_as_second_screen/)
-- [How do you do TDD in Android app development?](https://www.reddit.com/r/androiddev/comments/1l6fh25/how_do_you_do_tdd_in_android_app_development/)
-- [Beginner trying to build a face-swap photo app — need help figuring out how](https://www.reddit.com/r/androiddev/comments/1l6fcum/beginner_trying_to_build_a_faceswap_photo_app/)
+- [How do you know what code is not used and can be removed when it is still referenced somewhere?](https://www.reddit.com/r/androiddev/comments/1l7krzg/how_do_you_know_what_code_is_not_used_and_can_be/)
+- [Is this considered bad UX the way my app opens up?](https://www.reddit.com/r/androiddev/comments/1l7jqhb/is_this_considered_bad_ux_the_way_my_app_opens_up/)
+- [Thinking of doing something but need some help and advice](https://www.reddit.com/r/androiddev/comments/1l7h1qx/thinking_of_doing_something_but_need_some_help/)
+- [How to set the CCCD in BLE?](https://www.reddit.com/r/androiddev/comments/1l7fkbw/how_to_set_the_cccd_in_ble/)
+- [90+ presets of animations and a playground to build your own animations for Android and KMP.](https://www.reddit.com/r/androiddev/comments/1l7eudi/90_presets_of_animations_and_a_playground_to/)
+- [[Help] What to expect in Google L4 Android Domain Round?](https://www.reddit.com/r/androiddev/comments/1l7e1l3/help_what_to_expect_in_google_l4_android_domain/)
+- [Habbit of leaving projects at the middle](https://www.reddit.com/r/androiddev/comments/1l7anya/habbit_of_leaving_projects_at_the_middle/)
+- [New Progress In NeuroV Plugin System](https://www.reddit.com/r/androiddev/comments/1l79ian/new_progress_in_neurov_plugin_system/)
+- [android courses similar to essentialdeveloper &lpar;iOS&rpar;?](https://www.reddit.com/r/androiddev/comments/1l78497/android_courses_similar_to_essentialdeveloper_ios/)
+- [What Caching Architecture for Smooth Navigation with Jetpack Compose &lpar;MVI/MVVM&rpar;?](https://www.reddit.com/r/androiddev/comments/1l77qt2/what_caching_architecture_for_smooth_navigation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
