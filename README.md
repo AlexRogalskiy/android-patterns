@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you know what code is not used and can be removed when it is still referenced somewhere?](https://www.reddit.com/r/androiddev/comments/1l7krzg/how_do_you_know_what_code_is_not_used_and_can_be/)
-- [Is this considered bad UX the way my app opens up?](https://www.reddit.com/r/androiddev/comments/1l7jqhb/is_this_considered_bad_ux_the_way_my_app_opens_up/)
-- [Thinking of doing something but need some help and advice](https://www.reddit.com/r/androiddev/comments/1l7h1qx/thinking_of_doing_something_but_need_some_help/)
-- [How to set the CCCD in BLE?](https://www.reddit.com/r/androiddev/comments/1l7fkbw/how_to_set_the_cccd_in_ble/)
-- [90+ presets of animations and a playground to build your own animations for Android and KMP.](https://www.reddit.com/r/androiddev/comments/1l7eudi/90_presets_of_animations_and_a_playground_to/)
-- [[Help] What to expect in Google L4 Android Domain Round?](https://www.reddit.com/r/androiddev/comments/1l7e1l3/help_what_to_expect_in_google_l4_android_domain/)
-- [Habbit of leaving projects at the middle](https://www.reddit.com/r/androiddev/comments/1l7anya/habbit_of_leaving_projects_at_the_middle/)
-- [New Progress In NeuroV Plugin System](https://www.reddit.com/r/androiddev/comments/1l79ian/new_progress_in_neurov_plugin_system/)
-- [android courses similar to essentialdeveloper &lpar;iOS&rpar;?](https://www.reddit.com/r/androiddev/comments/1l78497/android_courses_similar_to_essentialdeveloper_ios/)
-- [What Caching Architecture for Smooth Navigation with Jetpack Compose &lpar;MVI/MVVM&rpar;?](https://www.reddit.com/r/androiddev/comments/1l77qt2/what_caching_architecture_for_smooth_navigation/)
+- [Minimum changes to avoid account removal](https://www.reddit.com/r/androiddev/comments/1l8h1h1/minimum_changes_to_avoid_account_removal/)
+- [Trying to access database files from an app in version 15 &lpar;UI7&rpar;](https://www.reddit.com/r/androiddev/comments/1l8ebif/trying_to_access_database_files_from_an_app_in/)
+- [The New AI in android studio is a complete game changer for me.](https://www.reddit.com/r/androiddev/comments/1l8cnf1/the_new_ai_in_android_studio_is_a_complete_game/)
+- [#gihub](https://www.reddit.com/r/androiddev/comments/1l8cm1l/gihub/)
+- [🤖 [Hiring] Two Android engineers @ State Farm](https://www.reddit.com/r/androiddev/comments/1l8c05c/hiring_two_android_engineers_state_farm/)
+- [🚀 [Launch] Våring NexusModus – AI-powered SIM switching and node fusion engine for Android](https://www.reddit.com/r/androiddev/comments/1l89xoy/launch_våring_nexusmodus_aipowered_sim_switching/)
+- [Developer preview: Enhanced Android desktop experiences with connected displays](https://www.reddit.com/r/androiddev/comments/1l89k3r/developer_preview_enhanced_android_desktop/)
+- [Android 16: Productivity, security and more features on Android](https://www.reddit.com/r/androiddev/comments/1l88jte/android_16_productivity_security_and_more/)
+- [Does Store Presence really mean much? Or can it reap rewards?](https://www.reddit.com/r/androiddev/comments/1l88a4m/does_store_presence_really_mean_much_or_can_it/)
+- [RSS APP](https://www.reddit.com/r/androiddev/comments/1l87mx0/rss_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
