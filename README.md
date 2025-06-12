@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Minimum changes to avoid account removal](https://www.reddit.com/r/androiddev/comments/1l8h1h1/minimum_changes_to_avoid_account_removal/)
-- [Trying to access database files from an app in version 15 &lpar;UI7&rpar;](https://www.reddit.com/r/androiddev/comments/1l8ebif/trying_to_access_database_files_from_an_app_in/)
-- [The New AI in android studio is a complete game changer for me.](https://www.reddit.com/r/androiddev/comments/1l8cnf1/the_new_ai_in_android_studio_is_a_complete_game/)
-- [#gihub](https://www.reddit.com/r/androiddev/comments/1l8cm1l/gihub/)
-- [🤖 [Hiring] Two Android engineers @ State Farm](https://www.reddit.com/r/androiddev/comments/1l8c05c/hiring_two_android_engineers_state_farm/)
-- [🚀 [Launch] Våring NexusModus – AI-powered SIM switching and node fusion engine for Android](https://www.reddit.com/r/androiddev/comments/1l89xoy/launch_våring_nexusmodus_aipowered_sim_switching/)
-- [Developer preview: Enhanced Android desktop experiences with connected displays](https://www.reddit.com/r/androiddev/comments/1l89k3r/developer_preview_enhanced_android_desktop/)
-- [Android 16: Productivity, security and more features on Android](https://www.reddit.com/r/androiddev/comments/1l88jte/android_16_productivity_security_and_more/)
-- [Does Store Presence really mean much? Or can it reap rewards?](https://www.reddit.com/r/androiddev/comments/1l88a4m/does_store_presence_really_mean_much_or_can_it/)
-- [RSS APP](https://www.reddit.com/r/androiddev/comments/1l87mx0/rss_app/)
+- [Navigation-Compose &lpar;Nav2&rpar; No support for conditional start destinations &lpar;on-boarding&rpar; when using a single-activity compose multiplatform app with bottom tabs / multiple nav graphs.](https://www.reddit.com/r/androiddev/comments/1l9a13f/navigationcompose_nav2_no_support_for_conditional/)
+- [runBlocking](https://www.reddit.com/r/androiddev/comments/1l97eb2/runblocking/)
+- [My first Mobilegame is ready – just missing a name](https://www.reddit.com/r/androiddev/comments/1l96xj1/my_first_mobilegame_is_ready_just_missing_a_name/)
+- [Having second thoughts about Android development](https://www.reddit.com/r/androiddev/comments/1l92u25/having_second_thoughts_about_android_development/)
+- [How are you finding people for closed testing of the app before publishing to Google Play?](https://www.reddit.com/r/androiddev/comments/1l91uaz/how_are_you_finding_people_for_closed_testing_of/)
+- [Android studio for window 8.1](https://www.reddit.com/r/androiddev/comments/1l913li/android_studio_for_window_81/)
+- [Looking for the best free GIF API for mobile](https://www.reddit.com/r/androiddev/comments/1l90wh8/looking_for_the_best_free_gif_api_for_mobile/)
+- [Can We Build a Smartphone That Helps Us Live, Not Get Addicted?](https://www.reddit.com/r/androiddev/comments/1l8yqc0/can_we_build_a_smartphone_that_helps_us_live_not/)
+- [Code review &lpar;kinda&rpar;](https://www.reddit.com/r/androiddev/comments/1l8yps5/code_review_kinda/)
+- [Does anyone have any experience interviewing with ResMed?](https://www.reddit.com/r/androiddev/comments/1l8y24t/does_anyone_have_any_experience_interviewing_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
