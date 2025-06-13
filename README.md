@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Navigation-Compose &lpar;Nav2&rpar; No support for conditional start destinations &lpar;on-boarding&rpar; when using a single-activity compose multiplatform app with bottom tabs / multiple nav graphs.](https://www.reddit.com/r/androiddev/comments/1l9a13f/navigationcompose_nav2_no_support_for_conditional/)
-- [runBlocking](https://www.reddit.com/r/androiddev/comments/1l97eb2/runblocking/)
-- [My first Mobilegame is ready – just missing a name](https://www.reddit.com/r/androiddev/comments/1l96xj1/my_first_mobilegame_is_ready_just_missing_a_name/)
-- [Having second thoughts about Android development](https://www.reddit.com/r/androiddev/comments/1l92u25/having_second_thoughts_about_android_development/)
-- [How are you finding people for closed testing of the app before publishing to Google Play?](https://www.reddit.com/r/androiddev/comments/1l91uaz/how_are_you_finding_people_for_closed_testing_of/)
-- [Android studio for window 8.1](https://www.reddit.com/r/androiddev/comments/1l913li/android_studio_for_window_81/)
-- [Looking for the best free GIF API for mobile](https://www.reddit.com/r/androiddev/comments/1l90wh8/looking_for_the_best_free_gif_api_for_mobile/)
-- [Can We Build a Smartphone That Helps Us Live, Not Get Addicted?](https://www.reddit.com/r/androiddev/comments/1l8yqc0/can_we_build_a_smartphone_that_helps_us_live_not/)
-- [Code review &lpar;kinda&rpar;](https://www.reddit.com/r/androiddev/comments/1l8yps5/code_review_kinda/)
-- [Does anyone have any experience interviewing with ResMed?](https://www.reddit.com/r/androiddev/comments/1l8y24t/does_anyone_have_any_experience_interviewing_with/)
+- [What&#39;s a fast/easy-to-use Android dev IDE ?](https://www.reddit.com/r/androiddev/comments/1la1eza/whats_a_fasteasytouse_android_dev_ide/)
+- [Can you lend your expertise?](https://www.reddit.com/r/androiddev/comments/1l9yzy9/can_you_lend_your_expertise/)
+- [Play console not loading](https://www.reddit.com/r/androiddev/comments/1l9v2g4/play_console_not_loading/)
+- [Appealing a rejection of a new build Google Play is a useless loop.](https://www.reddit.com/r/androiddev/comments/1l9u7wx/appealing_a_rejection_of_a_new_build_google_play/)
+- [HELP NEEDED - EPhotos - Google Photo Alternative hosted in the EU](https://www.reddit.com/r/androiddev/comments/1l9te2b/help_needed_ephotos_google_photo_alternative/)
+- [Would an on-site/hybrid job offer strike a deal to work remote instead?](https://www.reddit.com/r/androiddev/comments/1l9soeb/would_an_onsitehybrid_job_offer_strike_a_deal_to/)
+- [[Library] Lazy columns with drag and drop + swipe gestures](https://www.reddit.com/r/androiddev/comments/1l9sjin/library_lazy_columns_with_drag_and_drop_swipe/)
+- [Live Notifications and Now Bar in Samsung One UI 7: As developer](https://www.reddit.com/r/androiddev/comments/1l9shsl/live_notifications_and_now_bar_in_samsung_one_ui/)
+- [Upcoming changes to Wear OS watch faces](https://www.reddit.com/r/androiddev/comments/1l9runw/upcoming_changes_to_wear_os_watch_faces/)
+- [I need help](https://www.reddit.com/r/androiddev/comments/1l9rlc5/i_need_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
