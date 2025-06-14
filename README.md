@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s a fast/easy-to-use Android dev IDE ?](https://www.reddit.com/r/androiddev/comments/1la1eza/whats_a_fasteasytouse_android_dev_ide/)
-- [Can you lend your expertise?](https://www.reddit.com/r/androiddev/comments/1l9yzy9/can_you_lend_your_expertise/)
-- [Play console not loading](https://www.reddit.com/r/androiddev/comments/1l9v2g4/play_console_not_loading/)
-- [Appealing a rejection of a new build Google Play is a useless loop.](https://www.reddit.com/r/androiddev/comments/1l9u7wx/appealing_a_rejection_of_a_new_build_google_play/)
-- [HELP NEEDED - EPhotos - Google Photo Alternative hosted in the EU](https://www.reddit.com/r/androiddev/comments/1l9te2b/help_needed_ephotos_google_photo_alternative/)
-- [Would an on-site/hybrid job offer strike a deal to work remote instead?](https://www.reddit.com/r/androiddev/comments/1l9soeb/would_an_onsitehybrid_job_offer_strike_a_deal_to/)
-- [[Library] Lazy columns with drag and drop + swipe gestures](https://www.reddit.com/r/androiddev/comments/1l9sjin/library_lazy_columns_with_drag_and_drop_swipe/)
-- [Live Notifications and Now Bar in Samsung One UI 7: As developer](https://www.reddit.com/r/androiddev/comments/1l9shsl/live_notifications_and_now_bar_in_samsung_one_ui/)
-- [Upcoming changes to Wear OS watch faces](https://www.reddit.com/r/androiddev/comments/1l9runw/upcoming_changes_to_wear_os_watch_faces/)
-- [I need help](https://www.reddit.com/r/androiddev/comments/1l9rlc5/i_need_help/)
+- [I rewrote my 7-year-old Android app in 2 weeks with AI. Here is SDK Monitor 2.0, inspired by Material 3 Expressive.](https://www.reddit.com/r/androiddev/comments/1lawxue/i_rewrote_my_7yearold_android_app_in_2_weeks_with/)
+- [As of today, what is the most effective way to create apps with an AI agent that supports you?](https://www.reddit.com/r/androiddev/comments/1laphoy/as_of_today_what_is_the_most_effective_way_to/)
+- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1laml11/android_studio_narwhal_feature_drop_202512_canary/)
+- [Android design system component catalog](https://www.reddit.com/r/androiddev/comments/1lajsgm/android_design_system_component_catalog/)
+- [JetBrains HTTP Client plugin is now available in Android Studio](https://www.reddit.com/r/androiddev/comments/1lait6a/jetbrains_http_client_plugin_is_now_available_in/)
+- [Attempt to implement elastic swipe to remove](https://www.reddit.com/r/androiddev/comments/1lahcn0/attempt_to_implement_elastic_swipe_to_remove/)
+- [How do I stop window from drawing in curved parts of the screen?](https://www.reddit.com/r/androiddev/comments/1lahbni/how_do_i_stop_window_from_drawing_in_curved_parts/)
+- [Android 16 on Pixel - App notifications are getting delayed. Any suggestions?](https://www.reddit.com/r/androiddev/comments/1lagzik/android_16_on_pixel_app_notifications_are_getting/)
+- [How to redirect user to app when they click clear data in app&#39;s settings page](https://www.reddit.com/r/androiddev/comments/1laef0l/how_to_redirect_user_to_app_when_they_click_clear/)
+- [Is it possible to show an overlay over SAF &lpar;system file picker&rpar; without SYSTEM_ALERT_WINDOW permission?](https://www.reddit.com/r/androiddev/comments/1ladpz2/is_it_possible_to_show_an_overlay_over_saf_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
