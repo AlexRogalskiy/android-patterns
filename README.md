@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I rewrote my 7-year-old Android app in 2 weeks with AI. Here is SDK Monitor 2.0, inspired by Material 3 Expressive.](https://www.reddit.com/r/androiddev/comments/1lawxue/i_rewrote_my_7yearold_android_app_in_2_weeks_with/)
-- [As of today, what is the most effective way to create apps with an AI agent that supports you?](https://www.reddit.com/r/androiddev/comments/1laphoy/as_of_today_what_is_the_most_effective_way_to/)
-- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1laml11/android_studio_narwhal_feature_drop_202512_canary/)
-- [Android design system component catalog](https://www.reddit.com/r/androiddev/comments/1lajsgm/android_design_system_component_catalog/)
-- [JetBrains HTTP Client plugin is now available in Android Studio](https://www.reddit.com/r/androiddev/comments/1lait6a/jetbrains_http_client_plugin_is_now_available_in/)
-- [Attempt to implement elastic swipe to remove](https://www.reddit.com/r/androiddev/comments/1lahcn0/attempt_to_implement_elastic_swipe_to_remove/)
-- [How do I stop window from drawing in curved parts of the screen?](https://www.reddit.com/r/androiddev/comments/1lahbni/how_do_i_stop_window_from_drawing_in_curved_parts/)
-- [Android 16 on Pixel - App notifications are getting delayed. Any suggestions?](https://www.reddit.com/r/androiddev/comments/1lagzik/android_16_on_pixel_app_notifications_are_getting/)
-- [How to redirect user to app when they click clear data in app&#39;s settings page](https://www.reddit.com/r/androiddev/comments/1laef0l/how_to_redirect_user_to_app_when_they_click_clear/)
-- [Is it possible to show an overlay over SAF &lpar;system file picker&rpar; without SYSTEM_ALERT_WINDOW permission?](https://www.reddit.com/r/androiddev/comments/1ladpz2/is_it_possible_to_show_an_overlay_over_saf_system/)
+- [Clean Code and the Data Layer: Dealing with /res](https://www.reddit.com/r/androiddev/comments/1lbfosj/clean_code_and_the_data_layer_dealing_with_res/)
+- [How graphic designers are helpful for mobile apps visually?](https://www.reddit.com/r/androiddev/comments/1lbeujd/how_graphic_designers_are_helpful_for_mobile_apps/)
+- [Are the camera apis getting any better in 2025 from the years past?](https://www.reddit.com/r/androiddev/comments/1lbd2no/are_the_camera_apis_getting_any_better_in_2025/)
+- [New Style Bottom Nav Bar](https://www.reddit.com/r/androiddev/comments/1lbcw9l/new_style_bottom_nav_bar/)
+- [arcore with geosptial api app help](https://www.reddit.com/r/androiddev/comments/1lbbg9a/arcore_with_geosptial_api_app_help/)
+- [Launched a health-focused AI app looking for feedback on handling diverse device nutrition/photo input pipelines](https://www.reddit.com/r/androiddev/comments/1lbb7x3/launched_a_healthfocused_ai_app_looking_for/)
+- [I’ll rate &amp; review your app if you do the same for mine! Leave your feedback in your native language 🙏🌍](https://www.reddit.com/r/androiddev/comments/1lb6t33/ill_rate_review_your_app_if_you_do_the_same_for/)
+- [Do freshers wanna prove they’re better than seniors?](https://www.reddit.com/r/androiddev/comments/1lb5wd6/do_freshers_wanna_prove_theyre_better_than_seniors/)
+- [Android questions that can shake your confidence &lpar;Part 2&rpar;](https://www.reddit.com/r/androiddev/comments/1lb3ha0/android_questions_that_can_shake_your_confidence/)
+- [Should I make my App Trial based or Freemium?](https://www.reddit.com/r/androiddev/comments/1lb2dv6/should_i_make_my_app_trial_based_or_freemium/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
