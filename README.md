@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Clean Code and the Data Layer: Dealing with /res](https://www.reddit.com/r/androiddev/comments/1lbfosj/clean_code_and_the_data_layer_dealing_with_res/)
-- [How graphic designers are helpful for mobile apps visually?](https://www.reddit.com/r/androiddev/comments/1lbeujd/how_graphic_designers_are_helpful_for_mobile_apps/)
-- [Are the camera apis getting any better in 2025 from the years past?](https://www.reddit.com/r/androiddev/comments/1lbd2no/are_the_camera_apis_getting_any_better_in_2025/)
-- [New Style Bottom Nav Bar](https://www.reddit.com/r/androiddev/comments/1lbcw9l/new_style_bottom_nav_bar/)
-- [arcore with geosptial api app help](https://www.reddit.com/r/androiddev/comments/1lbbg9a/arcore_with_geosptial_api_app_help/)
-- [Launched a health-focused AI app looking for feedback on handling diverse device nutrition/photo input pipelines](https://www.reddit.com/r/androiddev/comments/1lbb7x3/launched_a_healthfocused_ai_app_looking_for/)
-- [I’ll rate &amp; review your app if you do the same for mine! Leave your feedback in your native language 🙏🌍](https://www.reddit.com/r/androiddev/comments/1lb6t33/ill_rate_review_your_app_if_you_do_the_same_for/)
-- [Do freshers wanna prove they’re better than seniors?](https://www.reddit.com/r/androiddev/comments/1lb5wd6/do_freshers_wanna_prove_theyre_better_than_seniors/)
-- [Android questions that can shake your confidence &lpar;Part 2&rpar;](https://www.reddit.com/r/androiddev/comments/1lb3ha0/android_questions_that_can_shake_your_confidence/)
-- [Should I make my App Trial based or Freemium?](https://www.reddit.com/r/androiddev/comments/1lb2dv6/should_i_make_my_app_trial_based_or_freemium/)
+- [Urgent - Stuck with SIMs interchanged](https://www.reddit.com/r/androiddev/comments/1lcgnqv/urgent_stuck_with_sims_interchanged/)
+- [[Success] After 30 days of anxiety, rejections, and revisions... my app is finally LIVE on the Play Store! 🎉🔥](https://www.reddit.com/r/androiddev/comments/1lcg9az/success_after_30_days_of_anxiety_rejections_and/)
+- [Fullstack developer wanting to start freelancing. Advice on beginning and things to watch out for?](https://www.reddit.com/r/androiddev/comments/1lce07t/fullstack_developer_wanting_to_start_freelancing/)
+- [Android Developers Blog: A product manager&#39;s guide to adapting Android apps across devices](https://www.reddit.com/r/androiddev/comments/1lcc7qp/android_developers_blog_a_product_managers_guide/)
+- [How can I deploy my first app](https://www.reddit.com/r/androiddev/comments/1lcakck/how_can_i_deploy_my_first_app/)
+- [do you remember this live wallpaper](https://www.reddit.com/r/androiddev/comments/1lc9dwh/do_you_remember_this_live_wallpaper/)
+- [My friend messed up a production build and pushed a hotfix without informing anyone](https://www.reddit.com/r/androiddev/comments/1lc7h5l/my_friend_messed_up_a_production_build_and_pushed/)
+- [Check out stos — open-source Stack Overflow client for Android &amp; Desktop!](https://www.reddit.com/r/androiddev/comments/1lc5qvr/check_out_stos_opensource_stack_overflow_client/)
+- [Stuck between career path](https://www.reddit.com/r/androiddev/comments/1lc3zsi/stuck_between_career_path/)
+- [Fraudulent subscription purchase?](https://www.reddit.com/r/androiddev/comments/1lc3ic9/fraudulent_subscription_purchase/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
