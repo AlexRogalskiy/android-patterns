@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Urgent - Stuck with SIMs interchanged](https://www.reddit.com/r/androiddev/comments/1lcgnqv/urgent_stuck_with_sims_interchanged/)
-- [[Success] After 30 days of anxiety, rejections, and revisions... my app is finally LIVE on the Play Store! 🎉🔥](https://www.reddit.com/r/androiddev/comments/1lcg9az/success_after_30_days_of_anxiety_rejections_and/)
-- [Fullstack developer wanting to start freelancing. Advice on beginning and things to watch out for?](https://www.reddit.com/r/androiddev/comments/1lce07t/fullstack_developer_wanting_to_start_freelancing/)
-- [Android Developers Blog: A product manager&#39;s guide to adapting Android apps across devices](https://www.reddit.com/r/androiddev/comments/1lcc7qp/android_developers_blog_a_product_managers_guide/)
-- [How can I deploy my first app](https://www.reddit.com/r/androiddev/comments/1lcakck/how_can_i_deploy_my_first_app/)
-- [do you remember this live wallpaper](https://www.reddit.com/r/androiddev/comments/1lc9dwh/do_you_remember_this_live_wallpaper/)
-- [My friend messed up a production build and pushed a hotfix without informing anyone](https://www.reddit.com/r/androiddev/comments/1lc7h5l/my_friend_messed_up_a_production_build_and_pushed/)
-- [Check out stos — open-source Stack Overflow client for Android &amp; Desktop!](https://www.reddit.com/r/androiddev/comments/1lc5qvr/check_out_stos_opensource_stack_overflow_client/)
-- [Stuck between career path](https://www.reddit.com/r/androiddev/comments/1lc3zsi/stuck_between_career_path/)
-- [Fraudulent subscription purchase?](https://www.reddit.com/r/androiddev/comments/1lc3ic9/fraudulent_subscription_purchase/)
+- [Sharing progress on my Kotlin Multiplatform pet project](https://www.reddit.com/r/androiddev/comments/1ldapue/sharing_progress_on_my_kotlin_multiplatform_pet/)
+- [Built an Android app that listens to doctor-patient conversations and auto-generates visit summaries &amp; plan of action — looking for feedback](https://www.reddit.com/r/androiddev/comments/1ld80xk/built_an_android_app_that_listens_to/)
+- [New Android App, simple, rejected due to Metadata, why??](https://www.reddit.com/r/androiddev/comments/1ld5q5n/new_android_app_simple_rejected_due_to_metadata/)
+- [Created a Compose &lpar;Multiplatform&rpar; Wrapper for Rive Animation Library on Android](https://www.reddit.com/r/androiddev/comments/1ld2klw/created_a_compose_multiplatform_wrapper_for_rive/)
+- [Created a Compose &lpar;Multiplatform&rpar; Wrapper for Rive Animation Library on Android](https://www.reddit.com/r/androiddev/comments/1ld2kl9/created_a_compose_multiplatform_wrapper_for_rive/)
+- [Aplicativo que espera receber um arquivo por bluetooth](https://www.reddit.com/r/androiddev/comments/1lcy2i3/aplicativo_que_espera_receber_um_arquivo_por/)
+- [Ever wondered how recyclerview actually came into android](https://www.reddit.com/r/androiddev/comments/1lcw78r/ever_wondered_how_recyclerview_actually_came_into/)
+- [Recommendations for Kotlin Android dev quick refreshers?](https://www.reddit.com/r/androiddev/comments/1lcw5th/recommendations_for_kotlin_android_dev_quick/)
+- [Need help building an app](https://www.reddit.com/r/androiddev/comments/1lcvwr5/need_help_building_an_app/)
+- [How to register for DUNS?](https://www.reddit.com/r/androiddev/comments/1lcvmyc/how_to_register_for_duns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
