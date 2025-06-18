@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sharing progress on my Kotlin Multiplatform pet project](https://www.reddit.com/r/androiddev/comments/1ldapue/sharing_progress_on_my_kotlin_multiplatform_pet/)
-- [Built an Android app that listens to doctor-patient conversations and auto-generates visit summaries &amp; plan of action — looking for feedback](https://www.reddit.com/r/androiddev/comments/1ld80xk/built_an_android_app_that_listens_to/)
-- [New Android App, simple, rejected due to Metadata, why??](https://www.reddit.com/r/androiddev/comments/1ld5q5n/new_android_app_simple_rejected_due_to_metadata/)
-- [Created a Compose &lpar;Multiplatform&rpar; Wrapper for Rive Animation Library on Android](https://www.reddit.com/r/androiddev/comments/1ld2klw/created_a_compose_multiplatform_wrapper_for_rive/)
-- [Created a Compose &lpar;Multiplatform&rpar; Wrapper for Rive Animation Library on Android](https://www.reddit.com/r/androiddev/comments/1ld2kl9/created_a_compose_multiplatform_wrapper_for_rive/)
-- [Aplicativo que espera receber um arquivo por bluetooth](https://www.reddit.com/r/androiddev/comments/1lcy2i3/aplicativo_que_espera_receber_um_arquivo_por/)
-- [Ever wondered how recyclerview actually came into android](https://www.reddit.com/r/androiddev/comments/1lcw78r/ever_wondered_how_recyclerview_actually_came_into/)
-- [Recommendations for Kotlin Android dev quick refreshers?](https://www.reddit.com/r/androiddev/comments/1lcw5th/recommendations_for_kotlin_android_dev_quick/)
-- [Need help building an app](https://www.reddit.com/r/androiddev/comments/1lcvwr5/need_help_building_an_app/)
-- [How to register for DUNS?](https://www.reddit.com/r/androiddev/comments/1lcvmyc/how_to_register_for_duns/)
+- [Google maps question](https://www.reddit.com/r/androiddev/comments/1le5gf7/google_maps_question/)
+- [Google Play is making it harder for solo devs — Apple handles this way better](https://www.reddit.com/r/androiddev/comments/1le2tye/google_play_is_making_it_harder_for_solo_devs/)
+- [Think you guys could help me out with this?](https://www.reddit.com/r/androiddev/comments/1le26sr/think_you_guys_could_help_me_out_with_this/)
+- [SQLiteNow - for KMP devs](https://www.reddit.com/r/androiddev/comments/1le0j5m/sqlitenow_for_kmp_devs/)
+- [App Install Below MinSDK](https://www.reddit.com/r/androiddev/comments/1ldxylf/app_install_below_minsdk/)
+- [Coroutines/Threads/RxJava](https://www.reddit.com/r/androiddev/comments/1ldv0vv/coroutinesthreadsrxjava/)
+- [account closed due to inactivity; reopening new account](https://www.reddit.com/r/androiddev/comments/1ldt72d/account_closed_due_to_inactivity_reopening_new/)
+- [any way to make the android music notification a widget](https://www.reddit.com/r/androiddev/comments/1ldqjzy/any_way_to_make_the_android_music_notification_a/)
+- [Do I want GSTIN for my play console?](https://www.reddit.com/r/androiddev/comments/1ldqfyf/do_i_want_gstin_for_my_play_console/)
+- [OPPO coloros foreground service](https://www.reddit.com/r/androiddev/comments/1ldparg/oppo_coloros_foreground_service/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
