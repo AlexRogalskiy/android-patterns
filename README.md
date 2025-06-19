@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google maps question](https://www.reddit.com/r/androiddev/comments/1le5gf7/google_maps_question/)
-- [Google Play is making it harder for solo devs — Apple handles this way better](https://www.reddit.com/r/androiddev/comments/1le2tye/google_play_is_making_it_harder_for_solo_devs/)
-- [Think you guys could help me out with this?](https://www.reddit.com/r/androiddev/comments/1le26sr/think_you_guys_could_help_me_out_with_this/)
-- [SQLiteNow - for KMP devs](https://www.reddit.com/r/androiddev/comments/1le0j5m/sqlitenow_for_kmp_devs/)
-- [App Install Below MinSDK](https://www.reddit.com/r/androiddev/comments/1ldxylf/app_install_below_minsdk/)
-- [Coroutines/Threads/RxJava](https://www.reddit.com/r/androiddev/comments/1ldv0vv/coroutinesthreadsrxjava/)
-- [account closed due to inactivity; reopening new account](https://www.reddit.com/r/androiddev/comments/1ldt72d/account_closed_due_to_inactivity_reopening_new/)
-- [any way to make the android music notification a widget](https://www.reddit.com/r/androiddev/comments/1ldqjzy/any_way_to_make_the_android_music_notification_a/)
-- [Do I want GSTIN for my play console?](https://www.reddit.com/r/androiddev/comments/1ldqfyf/do_i_want_gstin_for_my_play_console/)
-- [OPPO coloros foreground service](https://www.reddit.com/r/androiddev/comments/1ldparg/oppo_coloros_foreground_service/)
+- [Android system design](https://www.reddit.com/r/androiddev/comments/1lezg00/android_system_design/)
+- [Ads Match Rate is Heart breaking](https://www.reddit.com/r/androiddev/comments/1lexi25/ads_match_rate_is_heart_breaking/)
+- [Room kotlin android](https://www.reddit.com/r/androiddev/comments/1lewryj/room_kotlin_android/)
+- [Does anyone notice slow builds with the newest versions of android gradle plugin? and also many fails due to ioexception?](https://www.reddit.com/r/androiddev/comments/1lewp5n/does_anyone_notice_slow_builds_with_the_newest/)
+- [Donations](https://www.reddit.com/r/androiddev/comments/1levei2/donations/)
+- [Can a YouTube Ban Affect My Developer Account?](https://www.reddit.com/r/androiddev/comments/1lesn6u/can_a_youtube_ban_affect_my_developer_account/)
+- [Can&#39;t Pay for Google Play Developer Account – Card Errors &lpar;OR_CCR_123 / OR_MIVEM_02&rpar;](https://www.reddit.com/r/androiddev/comments/1les233/cant_pay_for_google_play_developer_account_card/)
+- [Made my own app drawer so i can open app info directly into App Manager by MuntashirAkon](https://www.reddit.com/r/androiddev/comments/1lerc6u/made_my_own_app_drawer_so_i_can_open_app_info/)
+- [Trying to change the track width on a material 3 slider, and also the default padding](https://www.reddit.com/r/androiddev/comments/1leqwct/trying_to_change_the_track_width_on_a_material_3/)
+- [[Pro-Tip] If you intend to make your app paid on the Play Store, do it right at the very start and save yourself a headache.](https://www.reddit.com/r/androiddev/comments/1leqgkf/protip_if_you_intend_to_make_your_app_paid_on_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
