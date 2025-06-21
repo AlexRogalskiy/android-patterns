@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is android 16 available globally for pixel phones? I received a update for that.](https://www.reddit.com/r/androiddev/comments/1lfm3v3/is_android_16_available_globally_for_pixel_phones/)
-- [All my testers on Closed track can&#39;t review the production release](https://www.reddit.com/r/androiddev/comments/1lflqex/all_my_testers_on_closed_track_cant_review_the/)
-- [Does AdMob have a timeout method?](https://www.reddit.com/r/androiddev/comments/1lfl51o/does_admob_have_a_timeout_method/)
-- [I was wrong, the annoying 12-user Closed Testing rigamarole has actual value.](https://www.reddit.com/r/androiddev/comments/1lfkw8o/i_was_wrong_the_annoying_12user_closed_testing/)
-- [HS](https://www.reddit.com/r/androiddev/comments/1lfkkos/hs/)
-- [trying to sync my kotlin project on meerkat android studio](https://www.reddit.com/r/androiddev/comments/1lfikzv/trying_to_sync_my_kotlin_project_on_meerkat/)
-- [Material Design 3 unclear about spacing between fext fields](https://www.reddit.com/r/androiddev/comments/1lfgzu0/material_design_3_unclear_about_spacing_between/)
-- [StackWidget issues on Android 16](https://www.reddit.com/r/androiddev/comments/1lff15l/stackwidget_issues_on_android_16/)
-- [Is i5-14600K good enough for Android development for the next 5–7 years?](https://www.reddit.com/r/androiddev/comments/1lfdsge/is_i514600k_good_enough_for_android_development/)
-- [Has anybody used / have info on - the ASR PRO2.0 Speech Recognition Module](https://www.reddit.com/r/androiddev/comments/1lfdr56/has_anybody_used_have_info_on_the_asr_pro20/)
+- [Preciso de ajuda na finalizacao](https://www.reddit.com/r/androiddev/comments/1lgkl6k/preciso_de_ajuda_na_finalizacao/)
+- [Why does Kotlin trigger downstream module recompilation on private function changes,](https://www.reddit.com/r/androiddev/comments/1lgjv4p/why_does_kotlin_trigger_downstream_module/)
+- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1lgdh2x/android_studio_narwhal_feature_drop_202512_canary/)
+- [Preparing for Senior Android Developer Interview in North America – Need Help with Questions](https://www.reddit.com/r/androiddev/comments/1lgcvvf/preparing_for_senior_android_developer_interview/)
+- [Response Parsing on Steroids](https://www.reddit.com/r/androiddev/comments/1lgcjmb/response_parsing_on_steroids/)
+- [AirTune: I built a touchless gesture app for Android. Control media, brightness, volume with just your hand!](https://www.reddit.com/r/androiddev/comments/1lgcg3q/airtune_i_built_a_touchless_gesture_app_for/)
+- [Android Adaptive Icons question](https://www.reddit.com/r/androiddev/comments/1lgc1he/android_adaptive_icons_question/)
+- [I create websites and apps for Android &amp; Windows - looking to gain more experience!](https://www.reddit.com/r/androiddev/comments/1lgb39c/i_create_websites_and_apps_for_android_windows/)
+- [Foreground Service Type for a countdown timer](https://www.reddit.com/r/androiddev/comments/1lg7yup/foreground_service_type_for_a_countdown_timer/)
+- [Voice is the Interface: How AI Is Changing the Way We Build Audio-First Applications](https://www.reddit.com/r/androiddev/comments/1lg7n3j/voice_is_the_interface_how_ai_is_changing_the_way/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
