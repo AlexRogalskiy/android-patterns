@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Preciso de ajuda na finalizacao](https://www.reddit.com/r/androiddev/comments/1lgkl6k/preciso_de_ajuda_na_finalizacao/)
-- [Why does Kotlin trigger downstream module recompilation on private function changes,](https://www.reddit.com/r/androiddev/comments/1lgjv4p/why_does_kotlin_trigger_downstream_module/)
-- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1lgdh2x/android_studio_narwhal_feature_drop_202512_canary/)
-- [Preparing for Senior Android Developer Interview in North America – Need Help with Questions](https://www.reddit.com/r/androiddev/comments/1lgcvvf/preparing_for_senior_android_developer_interview/)
-- [Response Parsing on Steroids](https://www.reddit.com/r/androiddev/comments/1lgcjmb/response_parsing_on_steroids/)
-- [AirTune: I built a touchless gesture app for Android. Control media, brightness, volume with just your hand!](https://www.reddit.com/r/androiddev/comments/1lgcg3q/airtune_i_built_a_touchless_gesture_app_for/)
-- [Android Adaptive Icons question](https://www.reddit.com/r/androiddev/comments/1lgc1he/android_adaptive_icons_question/)
-- [I create websites and apps for Android &amp; Windows - looking to gain more experience!](https://www.reddit.com/r/androiddev/comments/1lgb39c/i_create_websites_and_apps_for_android_windows/)
-- [Foreground Service Type for a countdown timer](https://www.reddit.com/r/androiddev/comments/1lg7yup/foreground_service_type_for_a_countdown_timer/)
-- [Voice is the Interface: How AI Is Changing the Way We Build Audio-First Applications](https://www.reddit.com/r/androiddev/comments/1lg7n3j/voice_is_the_interface_how_ai_is_changing_the_way/)
+- [Gemini Replaces Stack Overflow for developers?](https://www.reddit.com/r/androiddev/comments/1lhd5u8/gemini_replaces_stack_overflow_for_developers/)
+- [Hi I am selling my app](https://www.reddit.com/r/androiddev/comments/1lhbzsl/hi_i_am_selling_my_app/)
+- [2 Android AI agents running at the same time - Object Detection and LLM](https://www.reddit.com/r/androiddev/comments/1lhabt4/2_android_ai_agents_running_at_the_same_time/)
+- [[DroidKit] Android Management Tool + Registration Codes &amp; Product Keys](https://www.reddit.com/r/androiddev/comments/1lh8q4u/droidkit_android_management_tool_registration/)
+- [AIDE LGL mod menu problem](https://www.reddit.com/r/androiddev/comments/1lh6qie/aide_lgl_mod_menu_problem/)
+- [Open-sourced my Android metronome app — native audio + real-time synced visuals with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1lh3ytm/opensourced_my_android_metronome_app_native_audio/)
+- [What do these logs mean if it&#39;s even that](https://www.reddit.com/r/androiddev/comments/1lh3pkj/what_do_these_logs_mean_if_its_even_that/)
+- [CT Log List problem](https://www.reddit.com/r/androiddev/comments/1lh364a/ct_log_list_problem/)
+- [Need Help](https://www.reddit.com/r/androiddev/comments/1lh216y/need_help/)
+- [[India] How do India based Android developers handle GST on Play Store sales?](https://www.reddit.com/r/androiddev/comments/1lh152c/india_how_do_india_based_android_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
