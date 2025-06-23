@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gemini Replaces Stack Overflow for developers?](https://www.reddit.com/r/androiddev/comments/1lhd5u8/gemini_replaces_stack_overflow_for_developers/)
-- [Hi I am selling my app](https://www.reddit.com/r/androiddev/comments/1lhbzsl/hi_i_am_selling_my_app/)
-- [2 Android AI agents running at the same time - Object Detection and LLM](https://www.reddit.com/r/androiddev/comments/1lhabt4/2_android_ai_agents_running_at_the_same_time/)
-- [[DroidKit] Android Management Tool + Registration Codes &amp; Product Keys](https://www.reddit.com/r/androiddev/comments/1lh8q4u/droidkit_android_management_tool_registration/)
-- [AIDE LGL mod menu problem](https://www.reddit.com/r/androiddev/comments/1lh6qie/aide_lgl_mod_menu_problem/)
-- [Open-sourced my Android metronome app — native audio + real-time synced visuals with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1lh3ytm/opensourced_my_android_metronome_app_native_audio/)
-- [What do these logs mean if it&#39;s even that](https://www.reddit.com/r/androiddev/comments/1lh3pkj/what_do_these_logs_mean_if_its_even_that/)
-- [CT Log List problem](https://www.reddit.com/r/androiddev/comments/1lh364a/ct_log_list_problem/)
-- [Need Help](https://www.reddit.com/r/androiddev/comments/1lh216y/need_help/)
-- [[India] How do India based Android developers handle GST on Play Store sales?](https://www.reddit.com/r/androiddev/comments/1lh152c/india_how_do_india_based_android_developers/)
+- [Icon not displaying in Android 12 Splash Screen, Jetpack Compose Kotlin App](https://www.reddit.com/r/androiddev/comments/1lhxkuq/icon_not_displaying_in_android_12_splash_screen/)
+- [Which SHA-1 key to use for Firebase Google Sign-In when uploading .AAB to Play Console?](https://www.reddit.com/r/androiddev/comments/1lhwcqk/which_sha1_key_to_use_for_firebase_google_signin/)
+- [Is publishing on Aptoide free or do I need a subscription?](https://www.reddit.com/r/androiddev/comments/1lht6fe/is_publishing_on_aptoide_free_or_do_i_need_a/)
+- [MediaTek Dimensity 8450 Officially Launched with 4nm Technology](https://www.reddit.com/r/androiddev/comments/1lhmzqf/mediatek_dimensity_8450_officially_launched_with/)
+- [I’m writing the Google Play launch guide for devs.](https://www.reddit.com/r/androiddev/comments/1lhmi4n/im_writing_the_google_play_launch_guide_for_devs/)
+- [Can you create an app without verification?](https://www.reddit.com/r/androiddev/comments/1lhm2hb/can_you_create_an_app_without_verification/)
+- [Idea for waypoint app](https://www.reddit.com/r/androiddev/comments/1lhkhak/idea_for_waypoint_app/)
+- [Testers can&#39;t buy the real subscription in production app](https://www.reddit.com/r/androiddev/comments/1lhjv5n/testers_cant_buy_the_real_subscription_in/)
+- [I spent 2 days on redesigning my GitHub profile. Any suggestions to improve it further?](https://www.reddit.com/r/androiddev/comments/1lhh2nm/i_spent_2_days_on_redesigning_my_github_profile/)
+- [Preparing for Android Dev Interview – Is this Activity Lifecycle Summary Good?](https://www.reddit.com/r/androiddev/comments/1lhgywh/preparing_for_android_dev_interview_is_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
