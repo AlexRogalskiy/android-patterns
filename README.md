@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Icon not displaying in Android 12 Splash Screen, Jetpack Compose Kotlin App](https://www.reddit.com/r/androiddev/comments/1lhxkuq/icon_not_displaying_in_android_12_splash_screen/)
-- [Which SHA-1 key to use for Firebase Google Sign-In when uploading .AAB to Play Console?](https://www.reddit.com/r/androiddev/comments/1lhwcqk/which_sha1_key_to_use_for_firebase_google_signin/)
-- [Is publishing on Aptoide free or do I need a subscription?](https://www.reddit.com/r/androiddev/comments/1lht6fe/is_publishing_on_aptoide_free_or_do_i_need_a/)
-- [MediaTek Dimensity 8450 Officially Launched with 4nm Technology](https://www.reddit.com/r/androiddev/comments/1lhmzqf/mediatek_dimensity_8450_officially_launched_with/)
-- [I’m writing the Google Play launch guide for devs.](https://www.reddit.com/r/androiddev/comments/1lhmi4n/im_writing_the_google_play_launch_guide_for_devs/)
-- [Can you create an app without verification?](https://www.reddit.com/r/androiddev/comments/1lhm2hb/can_you_create_an_app_without_verification/)
-- [Idea for waypoint app](https://www.reddit.com/r/androiddev/comments/1lhkhak/idea_for_waypoint_app/)
-- [Testers can&#39;t buy the real subscription in production app](https://www.reddit.com/r/androiddev/comments/1lhjv5n/testers_cant_buy_the_real_subscription_in/)
-- [I spent 2 days on redesigning my GitHub profile. Any suggestions to improve it further?](https://www.reddit.com/r/androiddev/comments/1lhh2nm/i_spent_2_days_on_redesigning_my_github_profile/)
-- [Preparing for Android Dev Interview – Is this Activity Lifecycle Summary Good?](https://www.reddit.com/r/androiddev/comments/1lhgywh/preparing_for_android_dev_interview_is_this/)
+- [Are the average Apple user just below normal IQ? The responses on my question is absolutely baffling. Lol](https://www.reddit.com/r/androiddev/comments/1liueuq/are_the_average_apple_user_just_below_normal_iq/)
+- [Why are gesture animations still broken with third-party launchers?](https://www.reddit.com/r/androiddev/comments/1lisygm/why_are_gesture_animations_still_broken_with/)
+- [Catch 22 situation with multi-app system?](https://www.reddit.com/r/androiddev/comments/1lisgjb/catch_22_situation_with_multiapp_system/)
+- [Conpose Navigation 2 or 3?](https://www.reddit.com/r/androiddev/comments/1liqq3z/conpose_navigation_2_or_3/)
+- [Agentic AI takes Gemini in Android Studio to the next level](https://www.reddit.com/r/androiddev/comments/1lin1w5/agentic_ai_takes_gemini_in_android_studio_to_the/)
+- [Made a app to See Material colors List](https://www.reddit.com/r/androiddev/comments/1limv0e/made_a_app_to_see_material_colors_list/)
+- [PSA: Beware silly non-mobile-app things that can cost you. I threw together a quick Developer Website to satisfy Google Play requirements and just put 3 animated gifs on there to show my app. Firebase hosted. Blew through free tier in days and now have to pay for hosting for my non-profitable app.](https://www.reddit.com/r/androiddev/comments/1lilke9/psa_beware_silly_nonmobileapp_things_that_can/)
+- [Failed to uninstall Motorola system update notifications](https://www.reddit.com/r/androiddev/comments/1lil7w1/failed_to_uninstall_motorola_system_update/)
+- [Why are my app&#39;s screenshots showing up so low in the listing?](https://www.reddit.com/r/androiddev/comments/1likxdc/why_are_my_apps_screenshots_showing_up_so_low_in/)
+- [Shadcn ui for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1lijdjw/shadcn_ui_for_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
