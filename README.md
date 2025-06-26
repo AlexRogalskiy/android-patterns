@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My first ever android app](https://www.reddit.com/r/androiddev/comments/1ljsj6c/my_first_ever_android_app/)
-- [Recommendations for working with Kotlin](https://www.reddit.com/r/androiddev/comments/1ljr208/recommendations_for_working_with_kotlin/)
-- [Looking for feedback on the scope of an Android CRUD app I&#39;m developing](https://www.reddit.com/r/androiddev/comments/1ljr188/looking_for_feedback_on_the_scope_of_an_android/)
-- [we just launched a mobile 3d scanning app &lpar;but not for android… here’s why&rpar;](https://www.reddit.com/r/androiddev/comments/1ljq01s/we_just_launched_a_mobile_3d_scanning_app_but_not/)
-- [Petcam / babycam](https://www.reddit.com/r/androiddev/comments/1ljof4v/petcam_babycam/)
-- [App that calculates the commission for the exchange rate](https://www.reddit.com/r/androiddev/comments/1ljl0jo/app_that_calculates_the_commission_for_the/)
-- [Career Questions: Feeling stuck.](https://www.reddit.com/r/androiddev/comments/1ljko0t/career_questions_feeling_stuck/)
-- [Intern level requirements](https://www.reddit.com/r/androiddev/comments/1ljjm9d/intern_level_requirements/)
-- [Android Studio Narwhal | 2025.1.1 now available](https://www.reddit.com/r/androiddev/comments/1lji4i7/android_studio_narwhal_202511_now_available/)
-- [Multi-part uploads - real-time feedback](https://www.reddit.com/r/androiddev/comments/1ljg30h/multipart_uploads_realtime_feedback/)
+- [simple yt-dlp gui made by kmm](https://www.reddit.com/r/androiddev/comments/1lkm52n/simple_ytdlp_gui_made_by_kmm/)
+- [Announcing the Swift on Android Workgroup](https://www.reddit.com/r/androiddev/comments/1lkkm1f/announcing_the_swift_on_android_workgroup/)
+- [Is it possible to make RNIAP calls without sending an app to google play for review?](https://www.reddit.com/r/androiddev/comments/1lkgs15/is_it_possible_to_make_rniap_calls_without/)
+- [WebView Library for Jetpack Compose with Pull2Refresh - Kotlin DSL](https://www.reddit.com/r/androiddev/comments/1lkf3bl/webview_library_for_jetpack_compose_with/)
+- [New to Android Development from web dev would love some answers](https://www.reddit.com/r/androiddev/comments/1lkcojj/new_to_android_development_from_web_dev_would/)
+- [Google didn’t replied for 1 month so i updated it anyway :&rpar;](https://www.reddit.com/r/androiddev/comments/1lkbez7/google_didnt_replied_for_1_month_so_i_updated_it/)
+- [We built a comprehensive Android testing checklist to help QA teams](https://www.reddit.com/r/androiddev/comments/1lkay4c/we_built_a_comprehensive_android_testing/)
+- [Desktop mode - Do you think we will be able to make custom launchers ?](https://www.reddit.com/r/androiddev/comments/1lk9v4o/desktop_mode_do_you_think_we_will_be_able_to_make/)
+- [Watch Face for Wear OS](https://www.reddit.com/r/androiddev/comments/1lk6uc6/watch_face_for_wear_os/)
+- [[Showcase] Fixed Mic, Revamped UI, &amp; Added AI Image Generation to my Gemini Android Assistant &lpar;Powered by Gemini 2.5 Flash!&rpar;](https://www.reddit.com/r/androiddev/comments/1lk1mda/showcase_fixed_mic_revamped_ui_added_ai_image/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
