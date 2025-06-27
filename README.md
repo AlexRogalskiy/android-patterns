@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [simple yt-dlp gui made by kmm](https://www.reddit.com/r/androiddev/comments/1lkm52n/simple_ytdlp_gui_made_by_kmm/)
-- [Announcing the Swift on Android Workgroup](https://www.reddit.com/r/androiddev/comments/1lkkm1f/announcing_the_swift_on_android_workgroup/)
-- [Is it possible to make RNIAP calls without sending an app to google play for review?](https://www.reddit.com/r/androiddev/comments/1lkgs15/is_it_possible_to_make_rniap_calls_without/)
-- [WebView Library for Jetpack Compose with Pull2Refresh - Kotlin DSL](https://www.reddit.com/r/androiddev/comments/1lkf3bl/webview_library_for_jetpack_compose_with/)
-- [New to Android Development from web dev would love some answers](https://www.reddit.com/r/androiddev/comments/1lkcojj/new_to_android_development_from_web_dev_would/)
-- [Google didn’t replied for 1 month so i updated it anyway :&rpar;](https://www.reddit.com/r/androiddev/comments/1lkbez7/google_didnt_replied_for_1_month_so_i_updated_it/)
-- [We built a comprehensive Android testing checklist to help QA teams](https://www.reddit.com/r/androiddev/comments/1lkay4c/we_built_a_comprehensive_android_testing/)
-- [Desktop mode - Do you think we will be able to make custom launchers ?](https://www.reddit.com/r/androiddev/comments/1lk9v4o/desktop_mode_do_you_think_we_will_be_able_to_make/)
-- [Watch Face for Wear OS](https://www.reddit.com/r/androiddev/comments/1lk6uc6/watch_face_for_wear_os/)
-- [[Showcase] Fixed Mic, Revamped UI, &amp; Added AI Image Generation to my Gemini Android Assistant &lpar;Powered by Gemini 2.5 Flash!&rpar;](https://www.reddit.com/r/androiddev/comments/1lk1mda/showcase_fixed_mic_revamped_ui_added_ai_image/)
+- [Add System-Wide Global Text Selection Context Menu Option using Web-based Mobile App](https://www.reddit.com/r/androiddev/comments/1llin7b/add_systemwide_global_text_selection_context_menu/)
+- [Need help with completing app](https://www.reddit.com/r/androiddev/comments/1llfu16/need_help_with_completing_app/)
+- [Cursor IDE](https://www.reddit.com/r/androiddev/comments/1lldl78/cursor_ide/)
+- [How long it took for you to land a job? What would you do different?](https://www.reddit.com/r/androiddev/comments/1lld6fl/how_long_it_took_for_you_to_land_a_job_what_would/)
+- [Splash Screen issue](https://www.reddit.com/r/androiddev/comments/1llbgdx/splash_screen_issue/)
+- [In need of directions...](https://www.reddit.com/r/androiddev/comments/1llasxw/in_need_of_directions/)
+- [Problems from Russia](https://www.reddit.com/r/androiddev/comments/1lla9nh/problems_from_russia/)
+- [Question: ARM APK analysis](https://www.reddit.com/r/androiddev/comments/1ll757r/question_arm_apk_analysis/)
+- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1ll6yce/android_studio_narwhal_feature_drop_202512_canary/)
+- [ComposeUnstyled now lets you create fully custom Themes](https://www.reddit.com/r/androiddev/comments/1ll4vmj/composeunstyled_now_lets_you_create_fully_custom/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
