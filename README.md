@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Add System-Wide Global Text Selection Context Menu Option using Web-based Mobile App](https://www.reddit.com/r/androiddev/comments/1llin7b/add_systemwide_global_text_selection_context_menu/)
-- [Need help with completing app](https://www.reddit.com/r/androiddev/comments/1llfu16/need_help_with_completing_app/)
-- [Cursor IDE](https://www.reddit.com/r/androiddev/comments/1lldl78/cursor_ide/)
-- [How long it took for you to land a job? What would you do different?](https://www.reddit.com/r/androiddev/comments/1lld6fl/how_long_it_took_for_you_to_land_a_job_what_would/)
-- [Splash Screen issue](https://www.reddit.com/r/androiddev/comments/1llbgdx/splash_screen_issue/)
-- [In need of directions...](https://www.reddit.com/r/androiddev/comments/1llasxw/in_need_of_directions/)
-- [Problems from Russia](https://www.reddit.com/r/androiddev/comments/1lla9nh/problems_from_russia/)
-- [Question: ARM APK analysis](https://www.reddit.com/r/androiddev/comments/1ll757r/question_arm_apk_analysis/)
-- [Android Studio Narwhal Feature Drop | 2025.1.2 Canary 7 now available](https://www.reddit.com/r/androiddev/comments/1ll6yce/android_studio_narwhal_feature_drop_202512_canary/)
-- [ComposeUnstyled now lets you create fully custom Themes](https://www.reddit.com/r/androiddev/comments/1ll4vmj/composeunstyled_now_lets_you_create_fully_custom/)
+- [Handling Sync using Google Account](https://www.reddit.com/r/androiddev/comments/1lmbtph/handling_sync_using_google_account/)
+- [Developers HELP !, I have this intresting idea that I wish to turn to reality.](https://www.reddit.com/r/androiddev/comments/1lmauu5/developers_help_i_have_this_intresting_idea_that/)
+- [Did you ever get review to be removed by reporting it with flag?](https://www.reddit.com/r/androiddev/comments/1lm5ofb/did_you_ever_get_review_to_be_removed_by/)
+- [R8 kills me, help needed!](https://www.reddit.com/r/androiddev/comments/1lm3bnn/r8_kills_me_help_needed/)
+- [All file access is disabled for my app](https://www.reddit.com/r/androiddev/comments/1lm2s0p/all_file_access_is_disabled_for_my_app/)
+- [Made an app that scans for duplicate files [Compose UI]](https://www.reddit.com/r/androiddev/comments/1llv9n3/made_an_app_that_scans_for_duplicate_files/)
+- [Android emulation with bluetooth](https://www.reddit.com/r/androiddev/comments/1llswa8/android_emulation_with_bluetooth/)
+- [How is job market for Android developers right now?](https://www.reddit.com/r/androiddev/comments/1llst0n/how_is_job_market_for_android_developers_right_now/)
+- [Android Foreground service exception](https://www.reddit.com/r/androiddev/comments/1llq715/android_foreground_service_exception/)
+- [🚀 [Article] Detecting Chrome Custom Tab Closure in Android with Coroutines + Lifecycle &lpar;No Official API&rpar;](https://www.reddit.com/r/androiddev/comments/1llptwd/article_detecting_chrome_custom_tab_closure_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
