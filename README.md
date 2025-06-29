@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Handling Sync using Google Account](https://www.reddit.com/r/androiddev/comments/1lmbtph/handling_sync_using_google_account/)
-- [Developers HELP !, I have this intresting idea that I wish to turn to reality.](https://www.reddit.com/r/androiddev/comments/1lmauu5/developers_help_i_have_this_intresting_idea_that/)
-- [Did you ever get review to be removed by reporting it with flag?](https://www.reddit.com/r/androiddev/comments/1lm5ofb/did_you_ever_get_review_to_be_removed_by/)
-- [R8 kills me, help needed!](https://www.reddit.com/r/androiddev/comments/1lm3bnn/r8_kills_me_help_needed/)
-- [All file access is disabled for my app](https://www.reddit.com/r/androiddev/comments/1lm2s0p/all_file_access_is_disabled_for_my_app/)
-- [Made an app that scans for duplicate files [Compose UI]](https://www.reddit.com/r/androiddev/comments/1llv9n3/made_an_app_that_scans_for_duplicate_files/)
-- [Android emulation with bluetooth](https://www.reddit.com/r/androiddev/comments/1llswa8/android_emulation_with_bluetooth/)
-- [How is job market for Android developers right now?](https://www.reddit.com/r/androiddev/comments/1llst0n/how_is_job_market_for_android_developers_right_now/)
-- [Android Foreground service exception](https://www.reddit.com/r/androiddev/comments/1llq715/android_foreground_service_exception/)
-- [🚀 [Article] Detecting Chrome Custom Tab Closure in Android with Coroutines + Lifecycle &lpar;No Official API&rpar;](https://www.reddit.com/r/androiddev/comments/1llptwd/article_detecting_chrome_custom_tab_closure_in/)
+- [TikTok Data Inquiry](https://www.reddit.com/r/androiddev/comments/1lmzsv7/tiktok_data_inquiry/)
+- [Made a minimalist weather appMade a minimalist weather app for Android – no ads, no clutter for Android – no ads, no clutter](https://www.reddit.com/r/androiddev/comments/1lmxijw/made_a_minimalist_weather_appmade_a_minimalist/)
+- [Need help with testing my app](https://www.reddit.com/r/androiddev/comments/1lmtoin/need_help_with_testing_my_app/)
+- [Gemini CLI in Android with Termux](https://www.reddit.com/r/androiddev/comments/1lmsgzg/gemini_cli_in_android_with_termux/)
+- [Help me?!](https://www.reddit.com/r/androiddev/comments/1lmrwfl/help_me/)
+- [What are the tools that you guys use before releasing an app in play store?](https://www.reddit.com/r/androiddev/comments/1lmp785/what_are_the_tools_that_you_guys_use_before/)
+- [I can&#39;t get DUNS number💔](https://www.reddit.com/r/androiddev/comments/1lmor4i/i_cant_get_duns_number/)
+- [Just Added a Loader Component to Crossbuild UI](https://www.reddit.com/r/androiddev/comments/1lmmuo8/just_added_a_loader_component_to_crossbuild_ui/)
+- [Screen / Power controls through app](https://www.reddit.com/r/androiddev/comments/1lmlz7b/screen_power_controls_through_app/)
+- [[Help] Google Play Console rejecting trademark documents — any advice?](https://www.reddit.com/r/androiddev/comments/1lmk307/help_google_play_console_rejecting_trademark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
