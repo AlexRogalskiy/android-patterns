@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it possible to transfer files from a Z Flip 5 to HDD with a SATA to USB-C Converter?](https://www.reddit.com/r/androiddev/comments/1lnwo87/is_it_possible_to_transfer_files_from_a_z_flip_5/)
-- [How does android not have more job opportunities when its used almost everywhere??](https://www.reddit.com/r/androiddev/comments/1lnv2qt/how_does_android_not_have_more_job_opportunities/)
-- [Configure emulation device with specific &quot;safe areas&quot;.](https://www.reddit.com/r/androiddev/comments/1lnq802/configure_emulation_device_with_specific_safe/)
-- [Andriod Audio Capturing](https://www.reddit.com/r/androiddev/comments/1lnnwfs/andriod_audio_capturing/)
-- [[Day 1] Started Building My Subscription Manager App — Don’t Miss This! 🚀](https://www.reddit.com/r/androiddev/comments/1lnn6x6/day_1_started_building_my_subscription_manager/)
-- [App Status Rejected &lpar; Playstore &rpar;](https://www.reddit.com/r/androiddev/comments/1lnn1n1/app_status_rejected_playstore/)
-- [Google&#39;s quality testers cannot login into my app](https://www.reddit.com/r/androiddev/comments/1lnm7fl/googles_quality_testers_cannot_login_into_my_app/)
-- [Made a library to use mpv in compose applications](https://www.reddit.com/r/androiddev/comments/1lnlfq2/made_a_library_to_use_mpv_in_compose_applications/)
-- [Droidcon talks on YouTube](https://www.reddit.com/r/androiddev/comments/1lnklm8/droidcon_talks_on_youtube/)
-- [I&#39;m Building a Full Music Player App in 24 Hours! 😱 | Day 1 of my #AppChallenge | CodeWithPK #appdevelopment #codingchallenge #androiddev](https://www.reddit.com/r/androiddev/comments/1lnjf47/im_building_a_full_music_player_app_in_24_hours/)
+- [Personal Safety App](https://www.reddit.com/r/androiddev/comments/1loqosq/personal_safety_app/)
+- [Phone app](https://www.reddit.com/r/androiddev/comments/1lop0ln/phone_app/)
+- [Will people download your app by other means than the Play Store?](https://www.reddit.com/r/androiddev/comments/1loob30/will_people_download_your_app_by_other_means_than/)
+- [Made a Handwriting-&gt;LaTex app that also does natural language editing of equations](https://www.reddit.com/r/androiddev/comments/1loo5lm/made_a_handwritinglatex_app_that_also_does/)
+- [wont an increase in AR/VR devices increase android dev job openings?](https://www.reddit.com/r/androiddev/comments/1lojs09/wont_an_increase_in_arvr_devices_increase_android/)
+- [Phone for testing](https://www.reddit.com/r/androiddev/comments/1lojmr5/phone_for_testing/)
+- [Fixing bugs on older Android devices isn’t glamorous — but it’s necessary](https://www.reddit.com/r/androiddev/comments/1loj1wt/fixing_bugs_on_older_android_devices_isnt/)
+- [Everyday Challenges of an Android Developer — Skeleton Loaders: The Illusion of Speed](https://www.reddit.com/r/androiddev/comments/1lohn4s/everyday_challenges_of_an_android_developer/)
+- [I built Android template repository &lpar;Jetpack Compose&rpar; which helps me build quickly](https://www.reddit.com/r/androiddev/comments/1logrhi/i_built_android_template_repository_jetpack/)
+- [I don&#39;t think you do, Gloria.](https://www.reddit.com/r/androiddev/comments/1logi8x/i_dont_think_you_do_gloria/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
