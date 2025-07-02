@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Personal Safety App](https://www.reddit.com/r/androiddev/comments/1loqosq/personal_safety_app/)
-- [Phone app](https://www.reddit.com/r/androiddev/comments/1lop0ln/phone_app/)
-- [Will people download your app by other means than the Play Store?](https://www.reddit.com/r/androiddev/comments/1loob30/will_people_download_your_app_by_other_means_than/)
-- [Made a Handwriting-&gt;LaTex app that also does natural language editing of equations](https://www.reddit.com/r/androiddev/comments/1loo5lm/made_a_handwritinglatex_app_that_also_does/)
-- [wont an increase in AR/VR devices increase android dev job openings?](https://www.reddit.com/r/androiddev/comments/1lojs09/wont_an_increase_in_arvr_devices_increase_android/)
-- [Phone for testing](https://www.reddit.com/r/androiddev/comments/1lojmr5/phone_for_testing/)
-- [Fixing bugs on older Android devices isn’t glamorous — but it’s necessary](https://www.reddit.com/r/androiddev/comments/1loj1wt/fixing_bugs_on_older_android_devices_isnt/)
-- [Everyday Challenges of an Android Developer — Skeleton Loaders: The Illusion of Speed](https://www.reddit.com/r/androiddev/comments/1lohn4s/everyday_challenges_of_an_android_developer/)
-- [I built Android template repository &lpar;Jetpack Compose&rpar; which helps me build quickly](https://www.reddit.com/r/androiddev/comments/1logrhi/i_built_android_template_repository_jetpack/)
-- [I don&#39;t think you do, Gloria.](https://www.reddit.com/r/androiddev/comments/1logi8x/i_dont_think_you_do_gloria/)
+- [Sharing styled text?](https://www.reddit.com/r/androiddev/comments/1lpjc14/sharing_styled_text/)
+- [Steal an app and get away with it 🤯](https://www.reddit.com/r/androiddev/comments/1lpf2as/steal_an_app_and_get_away_with_it/)
+- [Targeting Android 15](https://www.reddit.com/r/androiddev/comments/1lpf1fr/targeting_android_15/)
+- [How to spoof new app environment or wipe persistent identity without factory reset?](https://www.reddit.com/r/androiddev/comments/1lpejb4/how_to_spoof_new_app_environment_or_wipe/)
+- [Meta joins Kotlin](https://www.reddit.com/r/androiddev/comments/1lp7j2k/meta_joins_kotlin/)
+- [Why would an app always reload when coming to the foreground?](https://www.reddit.com/r/androiddev/comments/1lp6ko8/why_would_an_app_always_reload_when_coming_to_the/)
+- [Recruiting for a Lead Android Engineer! Onsite in Santa Monica](https://www.reddit.com/r/androiddev/comments/1lp5mps/recruiting_for_a_lead_android_engineer_onsite_in/)
+- [Dynamic form for mobile. How to?](https://www.reddit.com/r/androiddev/comments/1lp2d6n/dynamic_form_for_mobile_how_to/)
+- [Not able to add subscriptions on Google Play Console](https://www.reddit.com/r/androiddev/comments/1lp1vix/not_able_to_add_subscriptions_on_google_play/)
+- [Is it wrong to reference resource IDs in a ViewModel?](https://www.reddit.com/r/androiddev/comments/1lp0uag/is_it_wrong_to_reference_resource_ids_in_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
