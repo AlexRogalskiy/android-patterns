@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sharing styled text?](https://www.reddit.com/r/androiddev/comments/1lpjc14/sharing_styled_text/)
-- [Steal an app and get away with it 🤯](https://www.reddit.com/r/androiddev/comments/1lpf2as/steal_an_app_and_get_away_with_it/)
-- [Targeting Android 15](https://www.reddit.com/r/androiddev/comments/1lpf1fr/targeting_android_15/)
-- [How to spoof new app environment or wipe persistent identity without factory reset?](https://www.reddit.com/r/androiddev/comments/1lpejb4/how_to_spoof_new_app_environment_or_wipe/)
-- [Meta joins Kotlin](https://www.reddit.com/r/androiddev/comments/1lp7j2k/meta_joins_kotlin/)
-- [Why would an app always reload when coming to the foreground?](https://www.reddit.com/r/androiddev/comments/1lp6ko8/why_would_an_app_always_reload_when_coming_to_the/)
-- [Recruiting for a Lead Android Engineer! Onsite in Santa Monica](https://www.reddit.com/r/androiddev/comments/1lp5mps/recruiting_for_a_lead_android_engineer_onsite_in/)
-- [Dynamic form for mobile. How to?](https://www.reddit.com/r/androiddev/comments/1lp2d6n/dynamic_form_for_mobile_how_to/)
-- [Not able to add subscriptions on Google Play Console](https://www.reddit.com/r/androiddev/comments/1lp1vix/not_able_to_add_subscriptions_on_google_play/)
-- [Is it wrong to reference resource IDs in a ViewModel?](https://www.reddit.com/r/androiddev/comments/1lp0uag/is_it_wrong_to_reference_resource_ids_in_a/)
+- [What is the best server/place to host our audios to stream from our app ?](https://www.reddit.com/r/androiddev/comments/1lqcxvl/what_is_the_best_serverplace_to_host_our_audios/)
+- [What are your favorite ways to start informed?](https://www.reddit.com/r/androiddev/comments/1lqcfgs/what_are_your_favorite_ways_to_start_informed/)
+- [Google is now requiring API 35 and I am not able to build with it](https://www.reddit.com/r/androiddev/comments/1lqc70i/google_is_now_requiring_api_35_and_i_am_not_able/)
+- [Particles-Android: A collection of views pertaining particles](https://www.reddit.com/r/androiddev/comments/1lq704o/particlesandroid_a_collection_of_views_pertaining/)
+- [A modern &lpar;and more useful&rpar; UiAutomatorViewer](https://www.reddit.com/r/androiddev/comments/1lq5qfo/a_modern_and_more_useful_uiautomatorviewer/)
+- [Any good logcat file viewer app?](https://www.reddit.com/r/androiddev/comments/1lq3v7d/any_good_logcat_file_viewer_app/)
+- [Best practices to track where mobile app users come from &lpar;without asking them&rpar;?](https://www.reddit.com/r/androiddev/comments/1lpzuvz/best_practices_to_track_where_mobile_app_users/)
+- [Anyone built Android apps for real-time emotion detection from camera + mic?](https://www.reddit.com/r/androiddev/comments/1lpznme/anyone_built_android_apps_for_realtime_emotion/)
+- [Learning to build apps? This helps you get an API fast](https://www.reddit.com/r/androiddev/comments/1lpxkjo/learning_to_build_apps_this_helps_you_get_an_api/)
+- [Permission/Security](https://www.reddit.com/r/androiddev/comments/1lpvjwp/permissionsecurity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
