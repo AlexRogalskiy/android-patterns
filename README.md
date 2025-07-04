@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the best server/place to host our audios to stream from our app ?](https://www.reddit.com/r/androiddev/comments/1lqcxvl/what_is_the_best_serverplace_to_host_our_audios/)
-- [What are your favorite ways to start informed?](https://www.reddit.com/r/androiddev/comments/1lqcfgs/what_are_your_favorite_ways_to_start_informed/)
-- [Google is now requiring API 35 and I am not able to build with it](https://www.reddit.com/r/androiddev/comments/1lqc70i/google_is_now_requiring_api_35_and_i_am_not_able/)
-- [Particles-Android: A collection of views pertaining particles](https://www.reddit.com/r/androiddev/comments/1lq704o/particlesandroid_a_collection_of_views_pertaining/)
-- [A modern &lpar;and more useful&rpar; UiAutomatorViewer](https://www.reddit.com/r/androiddev/comments/1lq5qfo/a_modern_and_more_useful_uiautomatorviewer/)
-- [Any good logcat file viewer app?](https://www.reddit.com/r/androiddev/comments/1lq3v7d/any_good_logcat_file_viewer_app/)
-- [Best practices to track where mobile app users come from &lpar;without asking them&rpar;?](https://www.reddit.com/r/androiddev/comments/1lpzuvz/best_practices_to_track_where_mobile_app_users/)
-- [Anyone built Android apps for real-time emotion detection from camera + mic?](https://www.reddit.com/r/androiddev/comments/1lpznme/anyone_built_android_apps_for_realtime_emotion/)
-- [Learning to build apps? This helps you get an API fast](https://www.reddit.com/r/androiddev/comments/1lpxkjo/learning_to_build_apps_this_helps_you_get_an_api/)
-- [Permission/Security](https://www.reddit.com/r/androiddev/comments/1lpvjwp/permissionsecurity/)
+- [Ajuda para testar aplicativo de organização financeira](https://www.reddit.com/r/androiddev/comments/1lr3bma/ajuda_para_testar_aplicativo_de_organização/)
+- [Struggling with app actions implemention and the documentation seems outdated](https://www.reddit.com/r/androiddev/comments/1lqzlsg/struggling_with_app_actions_implemention_and_the/)
+- [Developed an android app to create resumes easily](https://www.reddit.com/r/androiddev/comments/1lqyyou/developed_an_android_app_to_create_resumes_easily/)
+- [Create a Live Update notification](https://www.reddit.com/r/androiddev/comments/1lqvqse/create_a_live_update_notification/)
+- [5 Things I Wish I Knew Before I Started Android Development &lpar;Beginner-Friendly&rpar;](https://www.reddit.com/r/androiddev/comments/1lqu7u7/5_things_i_wish_i_knew_before_i_started_android/)
+- [Can anyone tell me, How do I achieve this design.](https://www.reddit.com/r/androiddev/comments/1lqu35r/can_anyone_tell_me_how_do_i_achieve_this_design/)
+- [Built a tool to automate Google Play subscription pricing and promo offers - would love your feedback](https://www.reddit.com/r/androiddev/comments/1lqr5di/built_a_tool_to_automate_google_play_subscription/)
+- [Anyone built Android demos using Py-Feat + openSMILE?](https://www.reddit.com/r/androiddev/comments/1lqqk24/anyone_built_android_demos_using_pyfeat_opensmile/)
+- [Google Play screenshots: What&#39;s your biggest pain? &lpar;Capture &amp; design&rpar;](https://www.reddit.com/r/androiddev/comments/1lqqisp/google_play_screenshots_whats_your_biggest_pain/)
+- [Someone wats to rent my play store developer account bc it&#39;s &quot;old&quot;. It&#39;s a scam?](https://www.reddit.com/r/androiddev/comments/1lqq50d/someone_wats_to_rent_my_play_store_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
