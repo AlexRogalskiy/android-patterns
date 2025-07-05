@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ajuda para testar aplicativo de organização financeira](https://www.reddit.com/r/androiddev/comments/1lr3bma/ajuda_para_testar_aplicativo_de_organização/)
-- [Struggling with app actions implemention and the documentation seems outdated](https://www.reddit.com/r/androiddev/comments/1lqzlsg/struggling_with_app_actions_implemention_and_the/)
-- [Developed an android app to create resumes easily](https://www.reddit.com/r/androiddev/comments/1lqyyou/developed_an_android_app_to_create_resumes_easily/)
-- [Create a Live Update notification](https://www.reddit.com/r/androiddev/comments/1lqvqse/create_a_live_update_notification/)
-- [5 Things I Wish I Knew Before I Started Android Development &lpar;Beginner-Friendly&rpar;](https://www.reddit.com/r/androiddev/comments/1lqu7u7/5_things_i_wish_i_knew_before_i_started_android/)
-- [Can anyone tell me, How do I achieve this design.](https://www.reddit.com/r/androiddev/comments/1lqu35r/can_anyone_tell_me_how_do_i_achieve_this_design/)
-- [Built a tool to automate Google Play subscription pricing and promo offers - would love your feedback](https://www.reddit.com/r/androiddev/comments/1lqr5di/built_a_tool_to_automate_google_play_subscription/)
-- [Anyone built Android demos using Py-Feat + openSMILE?](https://www.reddit.com/r/androiddev/comments/1lqqk24/anyone_built_android_demos_using_pyfeat_opensmile/)
-- [Google Play screenshots: What&#39;s your biggest pain? &lpar;Capture &amp; design&rpar;](https://www.reddit.com/r/androiddev/comments/1lqqisp/google_play_screenshots_whats_your_biggest_pain/)
-- [Someone wats to rent my play store developer account bc it&#39;s &quot;old&quot;. It&#39;s a scam?](https://www.reddit.com/r/androiddev/comments/1lqq50d/someone_wats_to_rent_my_play_store_developer/)
+- [Ampere Pro - Battery Monitor](https://www.reddit.com/r/androiddev/comments/1lrwuvf/ampere_pro_battery_monitor/)
+- [Yearly subscription payments stuck in “Pending” after 3-day free trial. Why?](https://www.reddit.com/r/androiddev/comments/1lrwifj/yearly_subscription_payments_stuck_in_pending/)
+- [I built an open-source tool to help with migrating Android Compose projects to Compose Multiplatform &lpar;KMP&rpar;](https://www.reddit.com/r/androiddev/comments/1lru4a1/i_built_an_opensource_tool_to_help_with_migrating/)
+- [How a Android Development Small companies runs with trash app](https://www.reddit.com/r/androiddev/comments/1lrtxlu/how_a_android_development_small_companies_runs/)
+- [How can I analyze voice input in an Android app? &lpar;Beginner&rpar;](https://www.reddit.com/r/androiddev/comments/1lrp8ld/how_can_i_analyze_voice_input_in_an_android_app/)
+- [Advice for converting from Java to Kotlin?](https://www.reddit.com/r/androiddev/comments/1lrov1k/advice_for_converting_from_java_to_kotlin/)
+- [Best practices for UDF &amp; error management in Compose](https://www.reddit.com/r/androiddev/comments/1lrogal/best_practices_for_udf_error_management_in_compose/)
+- [Anyone had success with LLM&#39;s?](https://www.reddit.com/r/androiddev/comments/1lrly82/anyone_had_success_with_llms/)
+- [Just published my first technical article on Medium! 🤓](https://www.reddit.com/r/androiddev/comments/1lrltpm/just_published_my_first_technical_article_on/)
+- [Can mobile app makes you rich?](https://www.reddit.com/r/androiddev/comments/1lrhs5q/can_mobile_app_makes_you_rich/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
