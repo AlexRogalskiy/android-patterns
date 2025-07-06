@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ampere Pro - Battery Monitor](https://www.reddit.com/r/androiddev/comments/1lrwuvf/ampere_pro_battery_monitor/)
-- [Yearly subscription payments stuck in “Pending” after 3-day free trial. Why?](https://www.reddit.com/r/androiddev/comments/1lrwifj/yearly_subscription_payments_stuck_in_pending/)
-- [I built an open-source tool to help with migrating Android Compose projects to Compose Multiplatform &lpar;KMP&rpar;](https://www.reddit.com/r/androiddev/comments/1lru4a1/i_built_an_opensource_tool_to_help_with_migrating/)
-- [How a Android Development Small companies runs with trash app](https://www.reddit.com/r/androiddev/comments/1lrtxlu/how_a_android_development_small_companies_runs/)
-- [How can I analyze voice input in an Android app? &lpar;Beginner&rpar;](https://www.reddit.com/r/androiddev/comments/1lrp8ld/how_can_i_analyze_voice_input_in_an_android_app/)
-- [Advice for converting from Java to Kotlin?](https://www.reddit.com/r/androiddev/comments/1lrov1k/advice_for_converting_from_java_to_kotlin/)
-- [Best practices for UDF &amp; error management in Compose](https://www.reddit.com/r/androiddev/comments/1lrogal/best_practices_for_udf_error_management_in_compose/)
-- [Anyone had success with LLM&#39;s?](https://www.reddit.com/r/androiddev/comments/1lrly82/anyone_had_success_with_llms/)
-- [Just published my first technical article on Medium! 🤓](https://www.reddit.com/r/androiddev/comments/1lrltpm/just_published_my_first_technical_article_on/)
-- [Can mobile app makes you rich?](https://www.reddit.com/r/androiddev/comments/1lrhs5q/can_mobile_app_makes_you_rich/)
+- [what do you folks think about hotwire native?](https://www.reddit.com/r/androiddev/comments/1lsjf3h/what_do_you_folks_think_about_hotwire_native/)
+- [How to Access a Repository without DI and structure DAL &lpar;Best Practice&rpar;](https://www.reddit.com/r/androiddev/comments/1lsgyt3/how_to_access_a_repository_without_di_and/)
+- [Whispit – AI Voice Notes, Summaries, and Action Items](https://www.reddit.com/r/androiddev/comments/1lsfekb/whispit_ai_voice_notes_summaries_and_action_items/)
+- [AI Article Says Swift Is Going To Replace Kotlin?](https://www.reddit.com/r/androiddev/comments/1lse6q9/ai_article_says_swift_is_going_to_replace_kotlin/)
+- [splash screen help](https://www.reddit.com/r/androiddev/comments/1lsddwl/splash_screen_help/)
+- [I want to make a spin the wheel app with a rigging system but I don&#39;t have a clue about any of this...](https://www.reddit.com/r/androiddev/comments/1lsc2xt/i_want_to_make_a_spin_the_wheel_app_with_a/)
+- [Extract Gradle Dependencies for Mobile App Security &lpar;MAS&rpar;](https://www.reddit.com/r/androiddev/comments/1lsbzax/extract_gradle_dependencies_for_mobile_app/)
+- [Your First App will suck and That&#39;s okay!](https://www.reddit.com/r/androiddev/comments/1lsbuoq/your_first_app_will_suck_and_thats_okay/)
+- [🤬 Solo dev here - I was so fed up copy-pasting translations from ChatGPT that I automated the entire thing](https://www.reddit.com/r/androiddev/comments/1ls8uoe/solo_dev_here_i_was_so_fed_up_copypasting/)
+- [Help compiling old Android 5.1 software](https://www.reddit.com/r/androiddev/comments/1ls7wy2/help_compiling_old_android_51_software/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
