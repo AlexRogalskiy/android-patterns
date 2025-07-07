@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [what do you folks think about hotwire native?](https://www.reddit.com/r/androiddev/comments/1lsjf3h/what_do_you_folks_think_about_hotwire_native/)
-- [How to Access a Repository without DI and structure DAL &lpar;Best Practice&rpar;](https://www.reddit.com/r/androiddev/comments/1lsgyt3/how_to_access_a_repository_without_di_and/)
-- [Whispit – AI Voice Notes, Summaries, and Action Items](https://www.reddit.com/r/androiddev/comments/1lsfekb/whispit_ai_voice_notes_summaries_and_action_items/)
-- [AI Article Says Swift Is Going To Replace Kotlin?](https://www.reddit.com/r/androiddev/comments/1lse6q9/ai_article_says_swift_is_going_to_replace_kotlin/)
-- [splash screen help](https://www.reddit.com/r/androiddev/comments/1lsddwl/splash_screen_help/)
-- [I want to make a spin the wheel app with a rigging system but I don&#39;t have a clue about any of this...](https://www.reddit.com/r/androiddev/comments/1lsc2xt/i_want_to_make_a_spin_the_wheel_app_with_a/)
-- [Extract Gradle Dependencies for Mobile App Security &lpar;MAS&rpar;](https://www.reddit.com/r/androiddev/comments/1lsbzax/extract_gradle_dependencies_for_mobile_app/)
-- [Your First App will suck and That&#39;s okay!](https://www.reddit.com/r/androiddev/comments/1lsbuoq/your_first_app_will_suck_and_thats_okay/)
-- [🤬 Solo dev here - I was so fed up copy-pasting translations from ChatGPT that I automated the entire thing](https://www.reddit.com/r/androiddev/comments/1ls8uoe/solo_dev_here_i_was_so_fed_up_copypasting/)
-- [Help compiling old Android 5.1 software](https://www.reddit.com/r/androiddev/comments/1ls7wy2/help_compiling_old_android_51_software/)
+- [Suggest a phone model for testing](https://www.reddit.com/r/androiddev/comments/1ltejh2/suggest_a_phone_model_for_testing/)
+- [Launched a platform to help fellow indie devs grow without ads or luck](https://www.reddit.com/r/androiddev/comments/1lt795r/launched_a_platform_to_help_fellow_indie_devs/)
+- [Anyone tried integrating real-time emotion/tone analysis into Android voice assistants?](https://www.reddit.com/r/androiddev/comments/1lt3h4q/anyone_tried_integrating_realtime_emotiontone/)
+- [Why is my app still not compliant with Google’s API level 35 policy after updating?](https://www.reddit.com/r/androiddev/comments/1lt2d9j/why_is_my_app_still_not_compliant_with_googles/)
+- [Just launched a Kotlin + Jetpack Compose course – Feedback welcome!](https://www.reddit.com/r/androiddev/comments/1lsz63l/just_launched_a_kotlin_jetpack_compose_course/)
+- [Google Maps driving avatar](https://www.reddit.com/r/androiddev/comments/1lsz5xi/google_maps_driving_avatar/)
+- [Compose-scoped viewmodels](https://www.reddit.com/r/androiddev/comments/1lsy9d7/composescoped_viewmodels/)
+- [Why does Compose preview only work in the current file?](https://www.reddit.com/r/androiddev/comments/1lswuoq/why_does_compose_preview_only_work_in_the_current/)
+- [Anyone integrating openSMILE for real-time emotion detection on Android?](https://www.reddit.com/r/androiddev/comments/1lsuhk5/anyone_integrating_opensmile_for_realtime_emotion/)
+- [How Do You Define SLA, SLO, and SLI?](https://www.reddit.com/r/androiddev/comments/1lstgs0/how_do_you_define_sla_slo_and_sli/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
