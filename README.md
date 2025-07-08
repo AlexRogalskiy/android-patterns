@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Suggest a phone model for testing](https://www.reddit.com/r/androiddev/comments/1ltejh2/suggest_a_phone_model_for_testing/)
-- [Launched a platform to help fellow indie devs grow without ads or luck](https://www.reddit.com/r/androiddev/comments/1lt795r/launched_a_platform_to_help_fellow_indie_devs/)
-- [Anyone tried integrating real-time emotion/tone analysis into Android voice assistants?](https://www.reddit.com/r/androiddev/comments/1lt3h4q/anyone_tried_integrating_realtime_emotiontone/)
-- [Why is my app still not compliant with Google’s API level 35 policy after updating?](https://www.reddit.com/r/androiddev/comments/1lt2d9j/why_is_my_app_still_not_compliant_with_googles/)
-- [Just launched a Kotlin + Jetpack Compose course – Feedback welcome!](https://www.reddit.com/r/androiddev/comments/1lsz63l/just_launched_a_kotlin_jetpack_compose_course/)
-- [Google Maps driving avatar](https://www.reddit.com/r/androiddev/comments/1lsz5xi/google_maps_driving_avatar/)
-- [Compose-scoped viewmodels](https://www.reddit.com/r/androiddev/comments/1lsy9d7/composescoped_viewmodels/)
-- [Why does Compose preview only work in the current file?](https://www.reddit.com/r/androiddev/comments/1lswuoq/why_does_compose_preview_only_work_in_the_current/)
-- [Anyone integrating openSMILE for real-time emotion detection on Android?](https://www.reddit.com/r/androiddev/comments/1lsuhk5/anyone_integrating_opensmile_for_realtime_emotion/)
-- [How Do You Define SLA, SLO, and SLI?](https://www.reddit.com/r/androiddev/comments/1lstgs0/how_do_you_define_sla_slo_and_sli/)
+- [Is it necessary to have business registration documents to create Google Play Developer account?](https://www.reddit.com/r/androiddev/comments/1lucx1z/is_it_necessary_to_have_business_registration/)
+- [New FOSS App: AutoPie. Replace most apps on your phone with a single powerful Linux &quot;Commands Hub&quot; for your Android.](https://www.reddit.com/r/androiddev/comments/1lua7ny/new_foss_app_autopie_replace_most_apps_on_your/)
+- [Improving a responsive Android app](https://www.reddit.com/r/androiddev/comments/1lu9c33/improving_a_responsive_android_app/)
+- [Looking for offline radio](https://www.reddit.com/r/androiddev/comments/1lu8ief/looking_for_offline_radio/)
+- [📚 Free Android Interview Questions Repo — organized by topic, ready for practice!](https://www.reddit.com/r/androiddev/comments/1lu7pf3/free_android_interview_questions_repo_organized/)
+- [Vibe coding website for my android app](https://www.reddit.com/r/androiddev/comments/1lu7338/vibe_coding_website_for_my_android_app/)
+- [Edge to Edge in Android 15 Problem](https://www.reddit.com/r/androiddev/comments/1lu30yo/edge_to_edge_in_android_15_problem/)
+- [That moment when your app works… but feels off, and you can’t explain why](https://www.reddit.com/r/androiddev/comments/1lu1har/that_moment_when_your_app_works_but_feels_off_and/)
+- [I built a tool to distribute promo codes one per user – no login required](https://www.reddit.com/r/androiddev/comments/1lu05oj/i_built_a_tool_to_distribute_promo_codes_one_per/)
+- [Does learning Flutter do any benefit to understand Kotlin?](https://www.reddit.com/r/androiddev/comments/1ltw32g/does_learning_flutter_do_any_benefit_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
