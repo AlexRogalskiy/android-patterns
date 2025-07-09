@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it necessary to have business registration documents to create Google Play Developer account?](https://www.reddit.com/r/androiddev/comments/1lucx1z/is_it_necessary_to_have_business_registration/)
-- [New FOSS App: AutoPie. Replace most apps on your phone with a single powerful Linux &quot;Commands Hub&quot; for your Android.](https://www.reddit.com/r/androiddev/comments/1lua7ny/new_foss_app_autopie_replace_most_apps_on_your/)
-- [Improving a responsive Android app](https://www.reddit.com/r/androiddev/comments/1lu9c33/improving_a_responsive_android_app/)
-- [Looking for offline radio](https://www.reddit.com/r/androiddev/comments/1lu8ief/looking_for_offline_radio/)
-- [📚 Free Android Interview Questions Repo — organized by topic, ready for practice!](https://www.reddit.com/r/androiddev/comments/1lu7pf3/free_android_interview_questions_repo_organized/)
-- [Vibe coding website for my android app](https://www.reddit.com/r/androiddev/comments/1lu7338/vibe_coding_website_for_my_android_app/)
-- [Edge to Edge in Android 15 Problem](https://www.reddit.com/r/androiddev/comments/1lu30yo/edge_to_edge_in_android_15_problem/)
-- [That moment when your app works… but feels off, and you can’t explain why](https://www.reddit.com/r/androiddev/comments/1lu1har/that_moment_when_your_app_works_but_feels_off_and/)
-- [I built a tool to distribute promo codes one per user – no login required](https://www.reddit.com/r/androiddev/comments/1lu05oj/i_built_a_tool_to_distribute_promo_codes_one_per/)
-- [Does learning Flutter do any benefit to understand Kotlin?](https://www.reddit.com/r/androiddev/comments/1ltw32g/does_learning_flutter_do_any_benefit_to/)
+- [Give me your honest feedback about my new simple game](https://www.reddit.com/r/androiddev/comments/1lv2v1a/give_me_your_honest_feedback_about_my_new_simple/)
+- [Can You Repeat an App&#39;s Success the Second Time?](https://www.reddit.com/r/androiddev/comments/1luztha/can_you_repeat_an_apps_success_the_second_time/)
+- [The ridiculous path to releasing an app](https://www.reddit.com/r/androiddev/comments/1luycu1/the_ridiculous_path_to_releasing_an_app/)
+- [Some Play Store tips devs should know &lpar;especially about reviews &amp; geo stuff&rpar;](https://www.reddit.com/r/androiddev/comments/1luyck7/some_play_store_tips_devs_should_know_especially/)
+- [ExposedDropdownMenu is hidden by keyboard](https://www.reddit.com/r/androiddev/comments/1lux0zg/exposeddropdownmenu_is_hidden_by_keyboard/)
+- [Android emulator](https://www.reddit.com/r/androiddev/comments/1luwl4a/android_emulator/)
+- [Orientation changes - NavHostController &lpar; Jetpack Compose &rpar;](https://www.reddit.com/r/androiddev/comments/1luurzt/orientation_changes_navhostcontroller_jetpack/)
+- [Losing my mind with a Gradle build - standard USB camera library](https://www.reddit.com/r/androiddev/comments/1lutwls/losing_my_mind_with_a_gradle_build_standard_usb/)
+- [Working in Android HAL &amp; Internals – Feeling stuck between debugging &amp; validation. What next?](https://www.reddit.com/r/androiddev/comments/1lut85y/working_in_android_hal_internals_feeling_stuck/)
+- [What you consider annoying or event painful in android development nowadays?](https://www.reddit.com/r/androiddev/comments/1lusuxl/what_you_consider_annoying_or_event_painful_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
