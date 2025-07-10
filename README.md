@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Give me your honest feedback about my new simple game](https://www.reddit.com/r/androiddev/comments/1lv2v1a/give_me_your_honest_feedback_about_my_new_simple/)
-- [Can You Repeat an App&#39;s Success the Second Time?](https://www.reddit.com/r/androiddev/comments/1luztha/can_you_repeat_an_apps_success_the_second_time/)
-- [The ridiculous path to releasing an app](https://www.reddit.com/r/androiddev/comments/1luycu1/the_ridiculous_path_to_releasing_an_app/)
-- [Some Play Store tips devs should know &lpar;especially about reviews &amp; geo stuff&rpar;](https://www.reddit.com/r/androiddev/comments/1luyck7/some_play_store_tips_devs_should_know_especially/)
-- [ExposedDropdownMenu is hidden by keyboard](https://www.reddit.com/r/androiddev/comments/1lux0zg/exposeddropdownmenu_is_hidden_by_keyboard/)
-- [Android emulator](https://www.reddit.com/r/androiddev/comments/1luwl4a/android_emulator/)
-- [Orientation changes - NavHostController &lpar; Jetpack Compose &rpar;](https://www.reddit.com/r/androiddev/comments/1luurzt/orientation_changes_navhostcontroller_jetpack/)
-- [Losing my mind with a Gradle build - standard USB camera library](https://www.reddit.com/r/androiddev/comments/1lutwls/losing_my_mind_with_a_gradle_build_standard_usb/)
-- [Working in Android HAL &amp; Internals – Feeling stuck between debugging &amp; validation. What next?](https://www.reddit.com/r/androiddev/comments/1lut85y/working_in_android_hal_internals_feeling_stuck/)
-- [What you consider annoying or event painful in android development nowadays?](https://www.reddit.com/r/androiddev/comments/1lusuxl/what_you_consider_annoying_or_event_painful_in/)
+- [Best Jetpack Compose intro screen :D](https://www.reddit.com/r/androiddev/comments/1lvuu4q/best_jetpack_compose_intro_screen_d/)
+- [KMPify v1.1.0: Now with a CLI for easier Android Compose to KMP migrations](https://www.reddit.com/r/androiddev/comments/1lvuebm/kmpify_v110_now_with_a_cli_for_easier_android/)
+- [Why some .so library aren&#39;t in .apk?](https://www.reddit.com/r/androiddev/comments/1lvseyq/why_some_so_library_arent_in_apk/)
+- [Someone offering to by my app](https://www.reddit.com/r/androiddev/comments/1lvsbpx/someone_offering_to_by_my_app/)
+- [What are your apps about and how much money are they making you?](https://www.reddit.com/r/androiddev/comments/1lvr5cr/what_are_your_apps_about_and_how_much_money_are/)
+- [Bumping targetSdk without bumping compileSdk](https://www.reddit.com/r/androiddev/comments/1lvr4tg/bumping_targetsdk_without_bumping_compilesdk/)
+- [Stripe vs RevenueCat/Qonversion/Adapty recommendations for external app purchases in the US](https://www.reddit.com/r/androiddev/comments/1lvnypq/stripe_vs_revenuecatqonversionadapty/)
+- [I was developing a gamification system like Reddit how is it?](https://www.reddit.com/r/androiddev/comments/1lvl2bj/i_was_developing_a_gamification_system_like/)
+- [Anyone else notice how debugging user behavior is sometimes harder than debugging your actual code?](https://www.reddit.com/r/androiddev/comments/1lvk7er/anyone_else_notice_how_debugging_user_behavior_is/)
+- [Jack Dorsey Unveils Offline Messaging App ‘Bitchat’ with No Internet, Servers, or Accounts](https://www.reddit.com/r/androiddev/comments/1lvk29u/jack_dorsey_unveils_offline_messaging_app_bitchat/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
