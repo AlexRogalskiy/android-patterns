@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best Jetpack Compose intro screen :D](https://www.reddit.com/r/androiddev/comments/1lvuu4q/best_jetpack_compose_intro_screen_d/)
-- [KMPify v1.1.0: Now with a CLI for easier Android Compose to KMP migrations](https://www.reddit.com/r/androiddev/comments/1lvuebm/kmpify_v110_now_with_a_cli_for_easier_android/)
-- [Why some .so library aren&#39;t in .apk?](https://www.reddit.com/r/androiddev/comments/1lvseyq/why_some_so_library_arent_in_apk/)
-- [Someone offering to by my app](https://www.reddit.com/r/androiddev/comments/1lvsbpx/someone_offering_to_by_my_app/)
-- [What are your apps about and how much money are they making you?](https://www.reddit.com/r/androiddev/comments/1lvr5cr/what_are_your_apps_about_and_how_much_money_are/)
-- [Bumping targetSdk without bumping compileSdk](https://www.reddit.com/r/androiddev/comments/1lvr4tg/bumping_targetsdk_without_bumping_compilesdk/)
-- [Stripe vs RevenueCat/Qonversion/Adapty recommendations for external app purchases in the US](https://www.reddit.com/r/androiddev/comments/1lvnypq/stripe_vs_revenuecatqonversionadapty/)
-- [I was developing a gamification system like Reddit how is it?](https://www.reddit.com/r/androiddev/comments/1lvl2bj/i_was_developing_a_gamification_system_like/)
-- [Anyone else notice how debugging user behavior is sometimes harder than debugging your actual code?](https://www.reddit.com/r/androiddev/comments/1lvk7er/anyone_else_notice_how_debugging_user_behavior_is/)
-- [Jack Dorsey Unveils Offline Messaging App ‘Bitchat’ with No Internet, Servers, or Accounts](https://www.reddit.com/r/androiddev/comments/1lvk29u/jack_dorsey_unveils_offline_messaging_app_bitchat/)
+- [📱 Android app that brings iPerf3 network testing to mobile, including TCP/UDP modes, custom iterations, and even AI log analysis using Gemini.](https://www.reddit.com/r/androiddev/comments/1lwvrtv/android_app_that_brings_iperf3_network_testing_to/)
+- [Native C/C++ debugging on Samsung Galaxy devices with Android Studio](https://www.reddit.com/r/androiddev/comments/1lwumvp/native_cc_debugging_on_samsung_galaxy_devices/)
+- [Software support 12 vs 13R](https://www.reddit.com/r/androiddev/comments/1lwrvp7/software_support_12_vs_13r/)
+- [Zebra RFID integration](https://www.reddit.com/r/androiddev/comments/1lwq5ek/zebra_rfid_integration/)
+- [I am searching for an Instagram application repository &lpar;source code&rpar; on the web or with someone else so that I can study it and modify it](https://www.reddit.com/r/androiddev/comments/1lwq59f/i_am_searching_for_an_instagram_application/)
+- [Access sma](https://www.reddit.com/r/androiddev/comments/1lwpyql/access_sma/)
+- [Android Studio Narwhal | 2025.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1lwpijn/android_studio_narwhal_202511_patch_1_now/)
+- [&#39;DownloadArtifact task not found&#39; error on startup](https://www.reddit.com/r/androiddev/comments/1lwoi0v/downloadartifact_task_not_found_error_on_startup/)
+- [Changing only the targetSDK?](https://www.reddit.com/r/androiddev/comments/1lwneh0/changing_only_the_targetsdk/)
+- [Android is about to take another AI leap over Apple](https://www.reddit.com/r/androiddev/comments/1lwmjvw/android_is_about_to_take_another_ai_leap_over/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
