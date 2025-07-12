@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [📱 Android app that brings iPerf3 network testing to mobile, including TCP/UDP modes, custom iterations, and even AI log analysis using Gemini.](https://www.reddit.com/r/androiddev/comments/1lwvrtv/android_app_that_brings_iperf3_network_testing_to/)
-- [Native C/C++ debugging on Samsung Galaxy devices with Android Studio](https://www.reddit.com/r/androiddev/comments/1lwumvp/native_cc_debugging_on_samsung_galaxy_devices/)
-- [Software support 12 vs 13R](https://www.reddit.com/r/androiddev/comments/1lwrvp7/software_support_12_vs_13r/)
-- [Zebra RFID integration](https://www.reddit.com/r/androiddev/comments/1lwq5ek/zebra_rfid_integration/)
-- [I am searching for an Instagram application repository &lpar;source code&rpar; on the web or with someone else so that I can study it and modify it](https://www.reddit.com/r/androiddev/comments/1lwq59f/i_am_searching_for_an_instagram_application/)
-- [Access sma](https://www.reddit.com/r/androiddev/comments/1lwpyql/access_sma/)
-- [Android Studio Narwhal | 2025.1.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1lwpijn/android_studio_narwhal_202511_patch_1_now/)
-- [&#39;DownloadArtifact task not found&#39; error on startup](https://www.reddit.com/r/androiddev/comments/1lwoi0v/downloadartifact_task_not_found_error_on_startup/)
-- [Changing only the targetSDK?](https://www.reddit.com/r/androiddev/comments/1lwneh0/changing_only_the_targetsdk/)
-- [Android is about to take another AI leap over Apple](https://www.reddit.com/r/androiddev/comments/1lwmjvw/android_is_about_to_take_another_ai_leap_over/)
+- [Help people!!](https://www.reddit.com/r/androiddev/comments/1lxmyh3/help_people/)
+- [advice on what to do](https://www.reddit.com/r/androiddev/comments/1lxmti6/advice_on_what_to_do/)
+- [Google dev program Invoice](https://www.reddit.com/r/androiddev/comments/1lxlfvz/google_dev_program_invoice/)
+- [Building in Public: A simple To-Do app using Google Sheets as a &quot;database&quot; to explore sync limitations.](https://www.reddit.com/r/androiddev/comments/1lxkpun/building_in_public_a_simple_todo_app_using_google/)
+- [Notifications permissions - do apps get access to READ all notifications besides just sending them?](https://www.reddit.com/r/androiddev/comments/1lxh2h9/notifications_permissions_do_apps_get_access_to/)
+- [In review since June 16](https://www.reddit.com/r/androiddev/comments/1lxg5u9/in_review_since_june_16/)
+- [Wasm the Hard Way: Porting the Chicory Compiler to Android](https://www.reddit.com/r/androiddev/comments/1lxfzlw/wasm_the_hard_way_porting_the_chicory_compiler_to/)
+- [My observation about developing on a16](https://www.reddit.com/r/androiddev/comments/1lxfgla/my_observation_about_developing_on_a16/)
+- [Hey folks, just wanted to share something that’s been important to me.](https://www.reddit.com/r/androiddev/comments/1lxaiow/hey_folks_just_wanted_to_share_something_thats/)
+- [They Literally Copied Reddit’s Achievements Page is this normal in Dev World](https://www.reddit.com/r/androiddev/comments/1lxa4os/they_literally_copied_reddits_achievements_page/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
