@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help people!!](https://www.reddit.com/r/androiddev/comments/1lxmyh3/help_people/)
-- [advice on what to do](https://www.reddit.com/r/androiddev/comments/1lxmti6/advice_on_what_to_do/)
-- [Google dev program Invoice](https://www.reddit.com/r/androiddev/comments/1lxlfvz/google_dev_program_invoice/)
-- [Building in Public: A simple To-Do app using Google Sheets as a &quot;database&quot; to explore sync limitations.](https://www.reddit.com/r/androiddev/comments/1lxkpun/building_in_public_a_simple_todo_app_using_google/)
-- [Notifications permissions - do apps get access to READ all notifications besides just sending them?](https://www.reddit.com/r/androiddev/comments/1lxh2h9/notifications_permissions_do_apps_get_access_to/)
-- [In review since June 16](https://www.reddit.com/r/androiddev/comments/1lxg5u9/in_review_since_june_16/)
-- [Wasm the Hard Way: Porting the Chicory Compiler to Android](https://www.reddit.com/r/androiddev/comments/1lxfzlw/wasm_the_hard_way_porting_the_chicory_compiler_to/)
-- [My observation about developing on a16](https://www.reddit.com/r/androiddev/comments/1lxfgla/my_observation_about_developing_on_a16/)
-- [Hey folks, just wanted to share something that’s been important to me.](https://www.reddit.com/r/androiddev/comments/1lxaiow/hey_folks_just_wanted_to_share_something_thats/)
-- [They Literally Copied Reddit’s Achievements Page is this normal in Dev World](https://www.reddit.com/r/androiddev/comments/1lxa4os/they_literally_copied_reddits_achievements_page/)
+- [Need Help in Android Custom rom Flashing.](https://www.reddit.com/r/androiddev/comments/1lyi8n5/need_help_in_android_custom_rom_flashing/)
+- [If you could start your developer career over, what would you do differently?](https://www.reddit.com/r/androiddev/comments/1lyi3n7/if_you_could_start_your_developer_career_over/)
+- [Wish I could speak to the UI designer of the weather app](https://www.reddit.com/r/androiddev/comments/1lye5xo/wish_i_could_speak_to_the_ui_designer_of_the/)
+- [Why do i keep getting this error in play console when releasing a new release?](https://www.reddit.com/r/androiddev/comments/1lycp23/why_do_i_keep_getting_this_error_in_play_console/)
+- [mentoring a junior developer](https://www.reddit.com/r/androiddev/comments/1lybr0f/mentoring_a_junior_developer/)
+- [Ultimate “How To Become an Android Developer” Roadmap – Feedback &amp; Contributions Welcome!](https://www.reddit.com/r/androiddev/comments/1lybb0o/ultimate_how_to_become_an_android_developer/)
+- [Cancelled order missing from the order management page](https://www.reddit.com/r/androiddev/comments/1ly9xgd/cancelled_order_missing_from_the_order_management/)
+- [First time Live coding android interview](https://www.reddit.com/r/androiddev/comments/1ly9n47/first_time_live_coding_android_interview/)
+- [High uninstall rate for my eBook Reader app](https://www.reddit.com/r/androiddev/comments/1ly8elf/high_uninstall_rate_for_my_ebook_reader_app/)
+- [I&#39;m new to dev, I made an app using AI IDE and it wrapped react code in capacitor. I downloaded the android studios but don&#39;t know a thing about it. I was trying to make an apk. Are these files okay?](https://www.reddit.com/r/androiddev/comments/1ly86hz/im_new_to_dev_i_made_an_app_using_ai_ide_and_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
