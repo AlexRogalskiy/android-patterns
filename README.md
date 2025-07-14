@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need Help in Android Custom rom Flashing.](https://www.reddit.com/r/androiddev/comments/1lyi8n5/need_help_in_android_custom_rom_flashing/)
+- [This is like Spotify but free, no ads and downloads](https://www.reddit.com/r/androiddev/comments/1lyv57d/this_is_like_spotify_but_free_no_ads_and_downloads/)
+- [Your Compose UI is touch-friendly. But is it mouse-friendly?](https://www.reddit.com/r/androiddev/comments/1lyu1a1/your_compose_ui_is_touchfriendly_but_is_it/)
+- [Android Studio in web browser &lpar;by using docker&rpar;](https://www.reddit.com/r/androiddev/comments/1lyqqli/android_studio_in_web_browser_by_using_docker/)
+- [Do I need to train separate ML models for mobile and pc...?](https://www.reddit.com/r/androiddev/comments/1lyn8jv/do_i_need_to_train_separate_ml_models_for_mobile/)
+- [Hey I was making an app and it has done problem with its gradle files. Somehow I was able to build an apk but it&#39;s not running, only said Hello Android!. Anyone know anything about it?](https://www.reddit.com/r/androiddev/comments/1lymo08/hey_i_was_making_an_app_and_it_has_done_problem/)
+- [App Stuck in Review for 7+ Weeks, Support Unresponsive. Any Advice or Escalation Paths?](https://www.reddit.com/r/androiddev/comments/1lylxgn/app_stuck_in_review_for_7_weeks_support/)
+- [How to Integrate Razorpay Payment Gateway in a Kotlin Android App [Source Code Included]](https://www.reddit.com/r/androiddev/comments/1lyk1h1/how_to_integrate_razorpay_payment_gateway_in_a/)
+- [How do i smoothly change processes in app ?](https://www.reddit.com/r/androiddev/comments/1lyjfkg/how_do_i_smoothly_change_processes_in_app/)
 - [If you could start your developer career over, what would you do differently?](https://www.reddit.com/r/androiddev/comments/1lyi3n7/if_you_could_start_your_developer_career_over/)
-- [Wish I could speak to the UI designer of the weather app](https://www.reddit.com/r/androiddev/comments/1lye5xo/wish_i_could_speak_to_the_ui_designer_of_the/)
 - [Why do i keep getting this error in play console when releasing a new release?](https://www.reddit.com/r/androiddev/comments/1lycp23/why_do_i_keep_getting_this_error_in_play_console/)
-- [mentoring a junior developer](https://www.reddit.com/r/androiddev/comments/1lybr0f/mentoring_a_junior_developer/)
-- [Ultimate “How To Become an Android Developer” Roadmap – Feedback &amp; Contributions Welcome!](https://www.reddit.com/r/androiddev/comments/1lybb0o/ultimate_how_to_become_an_android_developer/)
-- [Cancelled order missing from the order management page](https://www.reddit.com/r/androiddev/comments/1ly9xgd/cancelled_order_missing_from_the_order_management/)
-- [First time Live coding android interview](https://www.reddit.com/r/androiddev/comments/1ly9n47/first_time_live_coding_android_interview/)
-- [High uninstall rate for my eBook Reader app](https://www.reddit.com/r/androiddev/comments/1ly8elf/high_uninstall_rate_for_my_ebook_reader_app/)
-- [I&#39;m new to dev, I made an app using AI IDE and it wrapped react code in capacitor. I downloaded the android studios but don&#39;t know a thing about it. I was trying to make an apk. Are these files okay?](https://www.reddit.com/r/androiddev/comments/1ly86hz/im_new_to_dev_i_made_an_app_using_ai_ide_and_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
