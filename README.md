@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [This is like Spotify but free, no ads and downloads](https://www.reddit.com/r/androiddev/comments/1lyv57d/this_is_like_spotify_but_free_no_ads_and_downloads/)
-- [Your Compose UI is touch-friendly. But is it mouse-friendly?](https://www.reddit.com/r/androiddev/comments/1lyu1a1/your_compose_ui_is_touchfriendly_but_is_it/)
-- [Android Studio in web browser &lpar;by using docker&rpar;](https://www.reddit.com/r/androiddev/comments/1lyqqli/android_studio_in_web_browser_by_using_docker/)
-- [Do I need to train separate ML models for mobile and pc...?](https://www.reddit.com/r/androiddev/comments/1lyn8jv/do_i_need_to_train_separate_ml_models_for_mobile/)
-- [Hey I was making an app and it has done problem with its gradle files. Somehow I was able to build an apk but it&#39;s not running, only said Hello Android!. Anyone know anything about it?](https://www.reddit.com/r/androiddev/comments/1lymo08/hey_i_was_making_an_app_and_it_has_done_problem/)
-- [App Stuck in Review for 7+ Weeks, Support Unresponsive. Any Advice or Escalation Paths?](https://www.reddit.com/r/androiddev/comments/1lylxgn/app_stuck_in_review_for_7_weeks_support/)
-- [How to Integrate Razorpay Payment Gateway in a Kotlin Android App [Source Code Included]](https://www.reddit.com/r/androiddev/comments/1lyk1h1/how_to_integrate_razorpay_payment_gateway_in_a/)
-- [How do i smoothly change processes in app ?](https://www.reddit.com/r/androiddev/comments/1lyjfkg/how_do_i_smoothly_change_processes_in_app/)
-- [If you could start your developer career over, what would you do differently?](https://www.reddit.com/r/androiddev/comments/1lyi3n7/if_you_could_start_your_developer_career_over/)
-- [Why do i keep getting this error in play console when releasing a new release?](https://www.reddit.com/r/androiddev/comments/1lycp23/why_do_i_keep_getting_this_error_in_play_console/)
+- [Charity App, can we link in app our fundraising page that is hosted outside of the app?](https://www.reddit.com/r/androiddev/comments/1m00ek2/charity_app_can_we_link_in_app_our_fundraising/)
+- [Why does DevCheck always show lower battery capacity than the real one even on brand-new phones ?](https://www.reddit.com/r/androiddev/comments/1lzyyh2/why_does_devcheck_always_show_lower_battery/)
+- [Samsung prototype](https://www.reddit.com/r/androiddev/comments/1lzxwfl/samsung_prototype/)
+- [What is the best ad network to promote android apps in tier 1 countries?](https://www.reddit.com/r/androiddev/comments/1lzxqcq/what_is_the_best_ad_network_to_promote_android/)
+- [I want to create webview app](https://www.reddit.com/r/androiddev/comments/1lzt6l0/i_want_to_create_webview_app/)
+- [Getting rid of &quot;Location Accuracy&quot; dialog](https://www.reddit.com/r/androiddev/comments/1lzskpg/getting_rid_of_location_accuracy_dialog/)
+- [Free KMP Starter Template for Indie Devs Just Dropped 🚀](https://www.reddit.com/r/androiddev/comments/1lzscmp/free_kmp_starter_template_for_indie_devs_just/)
+- [Waiting for the build to get abb file.](https://www.reddit.com/r/androiddev/comments/1lzs5lb/waiting_for_the_build_to_get_abb_file/)
+- [Less projects with quality or multiple projects with not much quality](https://www.reddit.com/r/androiddev/comments/1lzrysr/less_projects_with_quality_or_multiple_projects/)
+- [anyone else ever wonder if your app UX is secretly driving people mad?](https://www.reddit.com/r/androiddev/comments/1lzrd3k/anyone_else_ever_wonder_if_your_app_ux_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
