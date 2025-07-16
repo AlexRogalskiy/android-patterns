@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Charity App, can we link in app our fundraising page that is hosted outside of the app?](https://www.reddit.com/r/androiddev/comments/1m00ek2/charity_app_can_we_link_in_app_our_fundraising/)
-- [Why does DevCheck always show lower battery capacity than the real one even on brand-new phones ?](https://www.reddit.com/r/androiddev/comments/1lzyyh2/why_does_devcheck_always_show_lower_battery/)
-- [Samsung prototype](https://www.reddit.com/r/androiddev/comments/1lzxwfl/samsung_prototype/)
-- [What is the best ad network to promote android apps in tier 1 countries?](https://www.reddit.com/r/androiddev/comments/1lzxqcq/what_is_the_best_ad_network_to_promote_android/)
-- [I want to create webview app](https://www.reddit.com/r/androiddev/comments/1lzt6l0/i_want_to_create_webview_app/)
-- [Getting rid of &quot;Location Accuracy&quot; dialog](https://www.reddit.com/r/androiddev/comments/1lzskpg/getting_rid_of_location_accuracy_dialog/)
-- [Free KMP Starter Template for Indie Devs Just Dropped 🚀](https://www.reddit.com/r/androiddev/comments/1lzscmp/free_kmp_starter_template_for_indie_devs_just/)
-- [Waiting for the build to get abb file.](https://www.reddit.com/r/androiddev/comments/1lzs5lb/waiting_for_the_build_to_get_abb_file/)
-- [Less projects with quality or multiple projects with not much quality](https://www.reddit.com/r/androiddev/comments/1lzrysr/less_projects_with_quality_or_multiple_projects/)
-- [anyone else ever wonder if your app UX is secretly driving people mad?](https://www.reddit.com/r/androiddev/comments/1lzrd3k/anyone_else_ever_wonder_if_your_app_ux_is/)
+- [How can I stop ./gradlew installDebug from opening a Finder window on Mac?](https://www.reddit.com/r/androiddev/comments/1m11gg5/how_can_i_stop_gradlew_installdebug_from_opening/)
+- [Bottom padding depending on whether phone has navigation buttons or uses gestures.](https://www.reddit.com/r/androiddev/comments/1m0zugi/bottom_padding_depending_on_whether_phone_has/)
+- [Created my own habit tracker](https://www.reddit.com/r/androiddev/comments/1m0yc1w/created_my_own_habit_tracker/)
+- [Android BLE Scanner](https://www.reddit.com/r/androiddev/comments/1m0ve8a/android_ble_scanner/)
+- [What u think of this ux/ui?](https://www.reddit.com/r/androiddev/comments/1m0uc4e/what_u_think_of_this_uxui/)
+- [Is Encoding all Strings in the Destination object good idea in Navigation?](https://www.reddit.com/r/androiddev/comments/1m0oe5e/is_encoding_all_strings_in_the_destination_object/)
+- [Documentation not showing](https://www.reddit.com/r/androiddev/comments/1m0ijs0/documentation_not_showing/)
+- [Appreciate testing help with first app](https://www.reddit.com/r/androiddev/comments/1m0h8yl/appreciate_testing_help_with_first_app/)
+- [I developed a library for generating all possible combinations based on a data class](https://www.reddit.com/r/androiddev/comments/1m0fr9o/i_developed_a_library_for_generating_all_possible/)
+- [Is it just me or the official training courses are offline?](https://www.reddit.com/r/androiddev/comments/1m0fhl7/is_it_just_me_or_the_official_training_courses/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
