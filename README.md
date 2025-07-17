@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How can I stop ./gradlew installDebug from opening a Finder window on Mac?](https://www.reddit.com/r/androiddev/comments/1m11gg5/how_can_i_stop_gradlew_installdebug_from_opening/)
-- [Bottom padding depending on whether phone has navigation buttons or uses gestures.](https://www.reddit.com/r/androiddev/comments/1m0zugi/bottom_padding_depending_on_whether_phone_has/)
-- [Created my own habit tracker](https://www.reddit.com/r/androiddev/comments/1m0yc1w/created_my_own_habit_tracker/)
-- [Android BLE Scanner](https://www.reddit.com/r/androiddev/comments/1m0ve8a/android_ble_scanner/)
-- [What u think of this ux/ui?](https://www.reddit.com/r/androiddev/comments/1m0uc4e/what_u_think_of_this_uxui/)
-- [Is Encoding all Strings in the Destination object good idea in Navigation?](https://www.reddit.com/r/androiddev/comments/1m0oe5e/is_encoding_all_strings_in_the_destination_object/)
-- [Documentation not showing](https://www.reddit.com/r/androiddev/comments/1m0ijs0/documentation_not_showing/)
-- [Appreciate testing help with first app](https://www.reddit.com/r/androiddev/comments/1m0h8yl/appreciate_testing_help_with_first_app/)
-- [I developed a library for generating all possible combinations based on a data class](https://www.reddit.com/r/androiddev/comments/1m0fr9o/i_developed_a_library_for_generating_all_possible/)
-- [Is it just me or the official training courses are offline?](https://www.reddit.com/r/androiddev/comments/1m0fhl7/is_it_just_me_or_the_official_training_courses/)
+- [Best Tips / Modern Resources for Development best practices](https://www.reddit.com/r/androiddev/comments/1m1t2wd/best_tips_modern_resources_for_development_best/)
+- [[Android 15/API 35] Keyboard covering input fields after targetSdkVersion upgrade - solutions?](https://www.reddit.com/r/androiddev/comments/1m1rzbb/android_15api_35_keyboard_covering_input_fields/)
+- [Building a unique Offline Mode tool- curious if this is a common pain point in your apps](https://www.reddit.com/r/androiddev/comments/1m1roet/building_a_unique_offline_mode_tool_curious_if/)
+- [How to use BURP + Android?](https://www.reddit.com/r/androiddev/comments/1m1orjk/how_to_use_burp_android/)
+- [Anyone using Apache Arrow with Kotlin?](https://www.reddit.com/r/androiddev/comments/1m1nt9l/anyone_using_apache_arrow_with_kotlin/)
+- [Audio source and quality: MIC and UNPROCESSED?](https://www.reddit.com/r/androiddev/comments/1m1jabg/audio_source_and_quality_mic_and_unprocessed/)
+- [OpenSMILE-driven voice sentiment in Android, worth the effort?](https://www.reddit.com/r/androiddev/comments/1m1herf/opensmiledriven_voice_sentiment_in_android_worth/)
+- [UI for the App](https://www.reddit.com/r/androiddev/comments/1m1fnnq/ui_for_the_app/)
+- [Anyone experimented with real-time audio emotion detection on Android? Struggling with balancing accuracy vs efficiency.](https://www.reddit.com/r/androiddev/comments/1m1f9c2/anyone_experimented_with_realtime_audio_emotion/)
+- [Anytype released API and MCP server: local and collaborative wiki now got more powers](https://www.reddit.com/r/androiddev/comments/1m1e3pg/anytype_released_api_and_mcp_server_local_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
