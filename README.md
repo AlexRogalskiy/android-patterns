@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best Tips / Modern Resources for Development best practices](https://www.reddit.com/r/androiddev/comments/1m1t2wd/best_tips_modern_resources_for_development_best/)
-- [[Android 15/API 35] Keyboard covering input fields after targetSdkVersion upgrade - solutions?](https://www.reddit.com/r/androiddev/comments/1m1rzbb/android_15api_35_keyboard_covering_input_fields/)
-- [Building a unique Offline Mode tool- curious if this is a common pain point in your apps](https://www.reddit.com/r/androiddev/comments/1m1roet/building_a_unique_offline_mode_tool_curious_if/)
-- [How to use BURP + Android?](https://www.reddit.com/r/androiddev/comments/1m1orjk/how_to_use_burp_android/)
-- [Anyone using Apache Arrow with Kotlin?](https://www.reddit.com/r/androiddev/comments/1m1nt9l/anyone_using_apache_arrow_with_kotlin/)
-- [Audio source and quality: MIC and UNPROCESSED?](https://www.reddit.com/r/androiddev/comments/1m1jabg/audio_source_and_quality_mic_and_unprocessed/)
-- [OpenSMILE-driven voice sentiment in Android, worth the effort?](https://www.reddit.com/r/androiddev/comments/1m1herf/opensmiledriven_voice_sentiment_in_android_worth/)
-- [UI for the App](https://www.reddit.com/r/androiddev/comments/1m1fnnq/ui_for_the_app/)
-- [Anyone experimented with real-time audio emotion detection on Android? Struggling with balancing accuracy vs efficiency.](https://www.reddit.com/r/androiddev/comments/1m1f9c2/anyone_experimented_with_realtime_audio_emotion/)
-- [Anytype released API and MCP server: local and collaborative wiki now got more powers](https://www.reddit.com/r/androiddev/comments/1m1e3pg/anytype_released_api_and_mcp_server_local_and/)
+- [How to convert windowSize in the utility class?](https://www.reddit.com/r/androiddev/comments/1m2nhar/how_to_convert_windowsize_in_the_utility_class/)
+- [Just finished a solo 3-month dev sprint on my indie Android game “Evotrix” — a surreal action RPG with real-time combat](https://www.reddit.com/r/androiddev/comments/1m2ncii/just_finished_a_solo_3month_dev_sprint_on_my/)
+- [Problem with Service and media style notification](https://www.reddit.com/r/androiddev/comments/1m2kn9h/problem_with_service_and_media_style_notification/)
+- [comma missing in gboard](https://www.reddit.com/r/androiddev/comments/1m2jlmc/comma_missing_in_gboard/)
+- [What is the best backend to learn for Android development that’s affordable and scalable?](https://www.reddit.com/r/androiddev/comments/1m2irok/what_is_the_best_backend_to_learn_for_android/)
+- [Security App Question](https://www.reddit.com/r/androiddev/comments/1m2hf7a/security_app_question/)
+- [Help Needed with Android Notes App Issue](https://www.reddit.com/r/androiddev/comments/1m2g8m4/help_needed_with_android_notes_app_issue/)
+- [Lessgoo! My App got my first subscription today!](https://www.reddit.com/r/androiddev/comments/1m2ejdq/lessgoo_my_app_got_my_first_subscription_today/)
+- [Old app preservation, how feasible is it?](https://www.reddit.com/r/androiddev/comments/1m2eayl/old_app_preservation_how_feasible_is_it/)
+- [Google play update issue](https://www.reddit.com/r/androiddev/comments/1m2c3w8/google_play_update_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
