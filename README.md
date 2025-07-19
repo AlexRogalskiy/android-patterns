@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to convert windowSize in the utility class?](https://www.reddit.com/r/androiddev/comments/1m2nhar/how_to_convert_windowsize_in_the_utility_class/)
-- [Just finished a solo 3-month dev sprint on my indie Android game “Evotrix” — a surreal action RPG with real-time combat](https://www.reddit.com/r/androiddev/comments/1m2ncii/just_finished_a_solo_3month_dev_sprint_on_my/)
-- [Problem with Service and media style notification](https://www.reddit.com/r/androiddev/comments/1m2kn9h/problem_with_service_and_media_style_notification/)
-- [comma missing in gboard](https://www.reddit.com/r/androiddev/comments/1m2jlmc/comma_missing_in_gboard/)
-- [What is the best backend to learn for Android development that’s affordable and scalable?](https://www.reddit.com/r/androiddev/comments/1m2irok/what_is_the_best_backend_to_learn_for_android/)
-- [Security App Question](https://www.reddit.com/r/androiddev/comments/1m2hf7a/security_app_question/)
-- [Help Needed with Android Notes App Issue](https://www.reddit.com/r/androiddev/comments/1m2g8m4/help_needed_with_android_notes_app_issue/)
-- [Lessgoo! My App got my first subscription today!](https://www.reddit.com/r/androiddev/comments/1m2ejdq/lessgoo_my_app_got_my_first_subscription_today/)
-- [Old app preservation, how feasible is it?](https://www.reddit.com/r/androiddev/comments/1m2eayl/old_app_preservation_how_feasible_is_it/)
-- [Google play update issue](https://www.reddit.com/r/androiddev/comments/1m2c3w8/google_play_update_issue/)
+- [Mobile app to remind you to do wrist/hand stretches](https://www.reddit.com/r/androiddev/comments/1m3keq5/mobile_app_to_remind_you_to_do_wristhand_stretches/)
+- [FRP Bypass of Android 9 MP3 player](https://www.reddit.com/r/androiddev/comments/1m3k9r5/frp_bypass_of_android_9_mp3_player/)
+- [Smartjump.io — a Firebase Dynamic Links alternative](https://www.reddit.com/r/androiddev/comments/1m3cl11/smartjumpio_a_firebase_dynamic_links_alternative/)
+- [Not finding class at run time, compiles fine](https://www.reddit.com/r/androiddev/comments/1m3c6ha/not_finding_class_at_run_time_compiles_fine/)
+- [A trick to get all vector icons in Android Studio - why is this even neccessary?](https://www.reddit.com/r/androiddev/comments/1m3a0l7/a_trick_to_get_all_vector_icons_in_android_studio/)
+- [Am I on the right path?](https://www.reddit.com/r/androiddev/comments/1m38mm1/am_i_on_the_right_path/)
+- [Android Studio Narwhal Feature Drop | 2025.1.2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1m37ooz/android_studio_narwhal_feature_drop_202512_rc_1/)
+- [Resume tips when all of your apps are tanked / no longer exist?](https://www.reddit.com/r/androiddev/comments/1m37l55/resume_tips_when_all_of_your_apps_are_tanked_no/)
+- [Weird Accounts Visible Before Reset](https://www.reddit.com/r/androiddev/comments/1m35ubn/weird_accounts_visible_before_reset/)
+- [I made a thing!](https://www.reddit.com/r/androiddev/comments/1m34sw5/i_made_a_thing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
