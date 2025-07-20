@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mobile app to remind you to do wrist/hand stretches](https://www.reddit.com/r/androiddev/comments/1m3keq5/mobile_app_to_remind_you_to_do_wristhand_stretches/)
-- [FRP Bypass of Android 9 MP3 player](https://www.reddit.com/r/androiddev/comments/1m3k9r5/frp_bypass_of_android_9_mp3_player/)
-- [Smartjump.io — a Firebase Dynamic Links alternative](https://www.reddit.com/r/androiddev/comments/1m3cl11/smartjumpio_a_firebase_dynamic_links_alternative/)
-- [Not finding class at run time, compiles fine](https://www.reddit.com/r/androiddev/comments/1m3c6ha/not_finding_class_at_run_time_compiles_fine/)
-- [A trick to get all vector icons in Android Studio - why is this even neccessary?](https://www.reddit.com/r/androiddev/comments/1m3a0l7/a_trick_to_get_all_vector_icons_in_android_studio/)
-- [Am I on the right path?](https://www.reddit.com/r/androiddev/comments/1m38mm1/am_i_on_the_right_path/)
-- [Android Studio Narwhal Feature Drop | 2025.1.2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1m37ooz/android_studio_narwhal_feature_drop_202512_rc_1/)
-- [Resume tips when all of your apps are tanked / no longer exist?](https://www.reddit.com/r/androiddev/comments/1m37l55/resume_tips_when_all_of_your_apps_are_tanked_no/)
-- [Weird Accounts Visible Before Reset](https://www.reddit.com/r/androiddev/comments/1m35ubn/weird_accounts_visible_before_reset/)
-- [I made a thing!](https://www.reddit.com/r/androiddev/comments/1m34sw5/i_made_a_thing/)
+- [I&#39;m trying to set up Google Play Games for my game, but in order for sign-in to work, I need to set up a game website with a verified OAuth consent screen. How long will it take to get this approved?](https://www.reddit.com/r/androiddev/comments/1m4cnq4/im_trying_to_set_up_google_play_games_for_my_game/)
+- [How to use Ameos](https://www.reddit.com/r/androiddev/comments/1m4cc6i/how_to_use_ameos/)
+- [Introducing Goose Mobile – an open agent that runs directly on your Android device](https://www.reddit.com/r/androiddev/comments/1m4cab3/introducing_goose_mobile_an_open_agent_that_runs/)
+- [Hi guys, I have a solution for the 0 reviews cold start 🥰](https://www.reddit.com/r/androiddev/comments/1m4bzvm/hi_guys_i_have_a_solution_for_the_0_reviews_cold/)
+- [I need help about apk and abb](https://www.reddit.com/r/androiddev/comments/1m47t6b/i_need_help_about_apk_and_abb/)
+- [Help Installing TWRP on Huawei P9-l09C368B &lpar;android 7&rpar;](https://www.reddit.com/r/androiddev/comments/1m46f1c/help_installing_twrp_on_huawei_p9l09c368b_android/)
+- [Status Chips for Media Playback](https://www.reddit.com/r/androiddev/comments/1m45fzn/status_chips_for_media_playback/)
+- [Help: inspect.sh only outputs .descriptions.xml for Android Studio project](https://www.reddit.com/r/androiddev/comments/1m44pol/help_inspectsh_only_outputs_descriptionsxml_for/)
+- [Google Drive File Upload For Backup](https://www.reddit.com/r/androiddev/comments/1m4402f/google_drive_file_upload_for_backup/)
+- [What would you recommend for Android developers starting in 2025?](https://www.reddit.com/r/androiddev/comments/1m428hx/what_would_you_recommend_for_android_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
