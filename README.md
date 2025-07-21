@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I&#39;m trying to set up Google Play Games for my game, but in order for sign-in to work, I need to set up a game website with a verified OAuth consent screen. How long will it take to get this approved?](https://www.reddit.com/r/androiddev/comments/1m4cnq4/im_trying_to_set_up_google_play_games_for_my_game/)
-- [How to use Ameos](https://www.reddit.com/r/androiddev/comments/1m4cc6i/how_to_use_ameos/)
-- [Introducing Goose Mobile – an open agent that runs directly on your Android device](https://www.reddit.com/r/androiddev/comments/1m4cab3/introducing_goose_mobile_an_open_agent_that_runs/)
-- [Hi guys, I have a solution for the 0 reviews cold start 🥰](https://www.reddit.com/r/androiddev/comments/1m4bzvm/hi_guys_i_have_a_solution_for_the_0_reviews_cold/)
-- [I need help about apk and abb](https://www.reddit.com/r/androiddev/comments/1m47t6b/i_need_help_about_apk_and_abb/)
-- [Help Installing TWRP on Huawei P9-l09C368B &lpar;android 7&rpar;](https://www.reddit.com/r/androiddev/comments/1m46f1c/help_installing_twrp_on_huawei_p9l09c368b_android/)
-- [Status Chips for Media Playback](https://www.reddit.com/r/androiddev/comments/1m45fzn/status_chips_for_media_playback/)
-- [Help: inspect.sh only outputs .descriptions.xml for Android Studio project](https://www.reddit.com/r/androiddev/comments/1m44pol/help_inspectsh_only_outputs_descriptionsxml_for/)
-- [Google Drive File Upload For Backup](https://www.reddit.com/r/androiddev/comments/1m4402f/google_drive_file_upload_for_backup/)
-- [What would you recommend for Android developers starting in 2025?](https://www.reddit.com/r/androiddev/comments/1m428hx/what_would_you_recommend_for_android_developers/)
+- [Factory reset Zebra Tc22](https://www.reddit.com/r/androiddev/comments/1m51ga3/factory_reset_zebra_tc22/)
+- [[Mini Rant] Why is Mono Audio treated like a secure system setting? No way to toggle it via API, shell, or automation.](https://www.reddit.com/r/androiddev/comments/1m50lfx/mini_rant_why_is_mono_audio_treated_like_a_secure/)
+- [Android app promotion](https://www.reddit.com/r/androiddev/comments/1m4wxyi/android_app_promotion/)
+- [Mousedroid: Use your android phone as a mouse &amp; keyboard](https://www.reddit.com/r/androiddev/comments/1m4wsnq/mousedroid_use_your_android_phone_as_a_mouse/)
+- [Need guidance or companion](https://www.reddit.com/r/androiddev/comments/1m4wpu5/need_guidance_or_companion/)
+- [Androidstudio, emulator not embedded anymore after upgrade to Narwhal](https://www.reddit.com/r/androiddev/comments/1m4vtx7/androidstudio_emulator_not_embedded_anymore_after/)
+- [AI APIs for mobile apps on a tiny budget. What are you using?](https://www.reddit.com/r/androiddev/comments/1m4up0u/ai_apis_for_mobile_apps_on_a_tiny_budget_what_are/)
+- [Have anyone shipped CMP app on ios with Material3?](https://www.reddit.com/r/androiddev/comments/1m4ui96/have_anyone_shipped_cmp_app_on_ios_with_material3/)
+- [How to enable overscroll effect when content fits on screen](https://www.reddit.com/r/androiddev/comments/1m4trfs/how_to_enable_overscroll_effect_when_content_fits/)
+- [We just open-sourced Compose Multiplatform Library Template](https://www.reddit.com/r/androiddev/comments/1m4sc8a/we_just_opensourced_compose_multiplatform_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
