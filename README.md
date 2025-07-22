@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Factory reset Zebra Tc22](https://www.reddit.com/r/androiddev/comments/1m51ga3/factory_reset_zebra_tc22/)
-- [[Mini Rant] Why is Mono Audio treated like a secure system setting? No way to toggle it via API, shell, or automation.](https://www.reddit.com/r/androiddev/comments/1m50lfx/mini_rant_why_is_mono_audio_treated_like_a_secure/)
-- [Android app promotion](https://www.reddit.com/r/androiddev/comments/1m4wxyi/android_app_promotion/)
-- [Mousedroid: Use your android phone as a mouse &amp; keyboard](https://www.reddit.com/r/androiddev/comments/1m4wsnq/mousedroid_use_your_android_phone_as_a_mouse/)
-- [Need guidance or companion](https://www.reddit.com/r/androiddev/comments/1m4wpu5/need_guidance_or_companion/)
-- [Androidstudio, emulator not embedded anymore after upgrade to Narwhal](https://www.reddit.com/r/androiddev/comments/1m4vtx7/androidstudio_emulator_not_embedded_anymore_after/)
-- [AI APIs for mobile apps on a tiny budget. What are you using?](https://www.reddit.com/r/androiddev/comments/1m4up0u/ai_apis_for_mobile_apps_on_a_tiny_budget_what_are/)
-- [Have anyone shipped CMP app on ios with Material3?](https://www.reddit.com/r/androiddev/comments/1m4ui96/have_anyone_shipped_cmp_app_on_ios_with_material3/)
-- [How to enable overscroll effect when content fits on screen](https://www.reddit.com/r/androiddev/comments/1m4trfs/how_to_enable_overscroll_effect_when_content_fits/)
-- [We just open-sourced Compose Multiplatform Library Template](https://www.reddit.com/r/androiddev/comments/1m4sc8a/we_just_opensourced_compose_multiplatform_library/)
+- [What are some cool or useful things we can find in unfiltered logs?](https://www.reddit.com/r/androiddev/comments/1m5zscv/what_are_some_cool_or_useful_things_we_can_find/)
+- [MapLibre Compose User Location](https://www.reddit.com/r/androiddev/comments/1m5y5jl/maplibre_compose_user_location/)
+- [Android and LGPL 2.1 libraries](https://www.reddit.com/r/androiddev/comments/1m5wj7n/android_and_lgpl_21_libraries/)
+- [&lpar;cross-posting&rpar; Is it safe to give full admin rights to outsourced developers on Play Console?](https://www.reddit.com/r/androiddev/comments/1m5vcxe/crossposting_is_it_safe_to_give_full_admin_rights/)
+- [android is the most complicated platform to launch a product](https://www.reddit.com/r/androiddev/comments/1m5uyov/android_is_the_most_complicated_platform_to/)
+- [Android Studio Narwhal Feature Drop | 2025.1.3 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1m5utio/android_studio_narwhal_feature_drop_202513_canary/)
+- [How to get used with Kotlin and Compose?](https://www.reddit.com/r/androiddev/comments/1m5rxdg/how_to_get_used_with_kotlin_and_compose/)
+- [Clarification on AdMob Policy – Shimmer Loading for Native Ads Allowed?](https://www.reddit.com/r/androiddev/comments/1m5pnu6/clarification_on_admob_policy_shimmer_loading_for/)
+- [Is it possible to make a default phone app which could sometime &quot;let another app&quot; handle the call?](https://www.reddit.com/r/androiddev/comments/1m5o9ps/is_it_possible_to_make_a_default_phone_app_which/)
+- [[Python] nPhoneKIT – Fast, open-source toolkit for Samsung, LG, and Android device with tools like FRP unlock, screen unlock, and more](https://www.reddit.com/r/androiddev/comments/1m5nll2/python_nphonekit_fast_opensource_toolkit_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
