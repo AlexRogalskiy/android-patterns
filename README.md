@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are some cool or useful things we can find in unfiltered logs?](https://www.reddit.com/r/androiddev/comments/1m5zscv/what_are_some_cool_or_useful_things_we_can_find/)
-- [MapLibre Compose User Location](https://www.reddit.com/r/androiddev/comments/1m5y5jl/maplibre_compose_user_location/)
-- [Android and LGPL 2.1 libraries](https://www.reddit.com/r/androiddev/comments/1m5wj7n/android_and_lgpl_21_libraries/)
-- [&lpar;cross-posting&rpar; Is it safe to give full admin rights to outsourced developers on Play Console?](https://www.reddit.com/r/androiddev/comments/1m5vcxe/crossposting_is_it_safe_to_give_full_admin_rights/)
-- [android is the most complicated platform to launch a product](https://www.reddit.com/r/androiddev/comments/1m5uyov/android_is_the_most_complicated_platform_to/)
-- [Android Studio Narwhal Feature Drop | 2025.1.3 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1m5utio/android_studio_narwhal_feature_drop_202513_canary/)
-- [How to get used with Kotlin and Compose?](https://www.reddit.com/r/androiddev/comments/1m5rxdg/how_to_get_used_with_kotlin_and_compose/)
-- [Clarification on AdMob Policy – Shimmer Loading for Native Ads Allowed?](https://www.reddit.com/r/androiddev/comments/1m5pnu6/clarification_on_admob_policy_shimmer_loading_for/)
-- [Is it possible to make a default phone app which could sometime &quot;let another app&quot; handle the call?](https://www.reddit.com/r/androiddev/comments/1m5o9ps/is_it_possible_to_make_a_default_phone_app_which/)
-- [[Python] nPhoneKIT – Fast, open-source toolkit for Samsung, LG, and Android device with tools like FRP unlock, screen unlock, and more](https://www.reddit.com/r/androiddev/comments/1m5nll2/python_nphonekit_fast_opensource_toolkit_for/)
+- [Does it matter which one I pick?](https://www.reddit.com/r/androiddev/comments/1m6u1pv/does_it_matter_which_one_i_pick/)
+- [Can anyone tell me, are any of these malicious malewares? Like can any of them track my keyboard activities or track passwords, something like that? Thanks in advance!!](https://www.reddit.com/r/androiddev/comments/1m6sco4/can_anyone_tell_me_are_any_of_these_malicious/)
+- [Having problems with close testing any help please](https://www.reddit.com/r/androiddev/comments/1m6ry55/having_problems_with_close_testing_any_help_please/)
+- [Can people steal/reverse engineer my app if they have direct access to the apk file?](https://www.reddit.com/r/androiddev/comments/1m6rafr/can_people_stealreverse_engineer_my_app_if_they/)
+- [How strong do my DSA skills need to be to get hired as an Android developer?](https://www.reddit.com/r/androiddev/comments/1m6qnso/how_strong_do_my_dsa_skills_need_to_be_to_get/)
+- [Yet another Serializable vs Parcelable Blog](https://www.reddit.com/r/androiddev/comments/1m6qffa/yet_another_serializable_vs_parcelable_blog/)
+- [AppAuth alternatives](https://www.reddit.com/r/androiddev/comments/1m6jgtf/appauth_alternatives/)
+- [Whats the best niche?](https://www.reddit.com/r/androiddev/comments/1m6hifr/whats_the_best_niche/)
+- [If app use native libraries but it don&#39;t give the warnings in alignment section is it compatible with 16 kb page size?](https://www.reddit.com/r/androiddev/comments/1m6e1kt/if_app_use_native_libraries_but_it_dont_give_the/)
+- [I don&#39;t know what I should do for the approval?](https://www.reddit.com/r/androiddev/comments/1m6crad/i_dont_know_what_i_should_do_for_the_approval/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
