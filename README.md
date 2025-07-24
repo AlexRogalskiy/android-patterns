@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does it matter which one I pick?](https://www.reddit.com/r/androiddev/comments/1m6u1pv/does_it_matter_which_one_i_pick/)
-- [Can anyone tell me, are any of these malicious malewares? Like can any of them track my keyboard activities or track passwords, something like that? Thanks in advance!!](https://www.reddit.com/r/androiddev/comments/1m6sco4/can_anyone_tell_me_are_any_of_these_malicious/)
-- [Having problems with close testing any help please](https://www.reddit.com/r/androiddev/comments/1m6ry55/having_problems_with_close_testing_any_help_please/)
-- [Can people steal/reverse engineer my app if they have direct access to the apk file?](https://www.reddit.com/r/androiddev/comments/1m6rafr/can_people_stealreverse_engineer_my_app_if_they/)
-- [How strong do my DSA skills need to be to get hired as an Android developer?](https://www.reddit.com/r/androiddev/comments/1m6qnso/how_strong_do_my_dsa_skills_need_to_be_to_get/)
-- [Yet another Serializable vs Parcelable Blog](https://www.reddit.com/r/androiddev/comments/1m6qffa/yet_another_serializable_vs_parcelable_blog/)
-- [AppAuth alternatives](https://www.reddit.com/r/androiddev/comments/1m6jgtf/appauth_alternatives/)
-- [Whats the best niche?](https://www.reddit.com/r/androiddev/comments/1m6hifr/whats_the_best_niche/)
-- [If app use native libraries but it don&#39;t give the warnings in alignment section is it compatible with 16 kb page size?](https://www.reddit.com/r/androiddev/comments/1m6e1kt/if_app_use_native_libraries_but_it_dont_give_the/)
-- [I don&#39;t know what I should do for the approval?](https://www.reddit.com/r/androiddev/comments/1m6crad/i_dont_know_what_i_should_do_for_the_approval/)
+- [I built a small Android tool to auto-adjust brightness for each app – saves my eyes &amp; sanity](https://www.reddit.com/r/androiddev/comments/1m7snxk/i_built_a_small_android_tool_to_autoadjust/)
+- [Editing code in Jadx?](https://www.reddit.com/r/androiddev/comments/1m7qhv9/editing_code_in_jadx/)
+- [Why is making android apps so hard?](https://www.reddit.com/r/androiddev/comments/1m7pkah/why_is_making_android_apps_so_hard/)
+- [Help on Auto Scrolling carousel of Cards](https://www.reddit.com/r/androiddev/comments/1m7oo7a/help_on_auto_scrolling_carousel_of_cards/)
+- [Why Is My Android App Invisible in Google Play Search While It Ranks for 30+ Keywords on the App Store?](https://www.reddit.com/r/androiddev/comments/1m7nc1j/why_is_my_android_app_invisible_in_google_play/)
+- [Confused Graduate - Mobile Development, where to start](https://www.reddit.com/r/androiddev/comments/1m797mn/confused_graduate_mobile_development_where_to/)
+- [Trying to wrap my web site for Android but need access to Google ML Kit text recognition api, possible?](https://www.reddit.com/r/androiddev/comments/1m78chq/trying_to_wrap_my_web_site_for_android_but_need/)
+- [Kotlin/Compose Multiplatform: A Competitor for Flutter or Reinventing the Wheel?](https://www.reddit.com/r/androiddev/comments/1m76ahp/kotlincompose_multiplatform_a_competitor_for/)
+- [Not able to add KSP plugin](https://www.reddit.com/r/androiddev/comments/1m75n02/not_able_to_add_ksp_plugin/)
+- [We can finally halt 100% rolled out releases!](https://www.reddit.com/r/androiddev/comments/1m7583i/we_can_finally_halt_100_rolled_out_releases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
