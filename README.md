@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a small Android tool to auto-adjust brightness for each app – saves my eyes &amp; sanity](https://www.reddit.com/r/androiddev/comments/1m7snxk/i_built_a_small_android_tool_to_autoadjust/)
-- [Editing code in Jadx?](https://www.reddit.com/r/androiddev/comments/1m7qhv9/editing_code_in_jadx/)
-- [Why is making android apps so hard?](https://www.reddit.com/r/androiddev/comments/1m7pkah/why_is_making_android_apps_so_hard/)
-- [Help on Auto Scrolling carousel of Cards](https://www.reddit.com/r/androiddev/comments/1m7oo7a/help_on_auto_scrolling_carousel_of_cards/)
-- [Why Is My Android App Invisible in Google Play Search While It Ranks for 30+ Keywords on the App Store?](https://www.reddit.com/r/androiddev/comments/1m7nc1j/why_is_my_android_app_invisible_in_google_play/)
-- [Confused Graduate - Mobile Development, where to start](https://www.reddit.com/r/androiddev/comments/1m797mn/confused_graduate_mobile_development_where_to/)
-- [Trying to wrap my web site for Android but need access to Google ML Kit text recognition api, possible?](https://www.reddit.com/r/androiddev/comments/1m78chq/trying_to_wrap_my_web_site_for_android_but_need/)
-- [Kotlin/Compose Multiplatform: A Competitor for Flutter or Reinventing the Wheel?](https://www.reddit.com/r/androiddev/comments/1m76ahp/kotlincompose_multiplatform_a_competitor_for/)
-- [Not able to add KSP plugin](https://www.reddit.com/r/androiddev/comments/1m75n02/not_able_to_add_ksp_plugin/)
-- [We can finally halt 100% rolled out releases!](https://www.reddit.com/r/androiddev/comments/1m7583i/we_can_finally_halt_100_rolled_out_releases/)
+- [What made you become an Android Developer?](https://www.reddit.com/r/androiddev/comments/1m8lomv/what_made_you_become_an_android_developer/)
+- [Question about registering for Google developer/play console accounts - US based, company registered in India](https://www.reddit.com/r/androiddev/comments/1m8jahz/question_about_registering_for_google/)
+- [Android Studio Narwhal Feature Drop | 2025.1.3 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1m8eqd3/android_studio_narwhal_feature_drop_202513_canary/)
+- [Need genuine advice - Android Dev](https://www.reddit.com/r/androiddev/comments/1m8brpv/need_genuine_advice_android_dev/)
+- [WebGPU in Kotlin on Android! I made an app that procedurally generates 3D terrain.](https://www.reddit.com/r/androiddev/comments/1m8bo3w/webgpu_in_kotlin_on_android_i_made_an_app_that/)
+- [Continuous Delivery](https://www.reddit.com/r/androiddev/comments/1m89voa/continuous_delivery/)
+- [Does this feel like a valid assessment assignment for an interview?](https://www.reddit.com/r/androiddev/comments/1m88pbd/does_this_feel_like_a_valid_assessment_assignment/)
+- [Doubt clarification](https://www.reddit.com/r/androiddev/comments/1m88am9/doubt_clarification/)
+- [Proven practices to avoid G Play high risk](https://www.reddit.com/r/androiddev/comments/1m87rlc/proven_practices_to_avoid_g_play_high_risk/)
+- [Seamless File Transfer Between Android Devices Using Ktor &amp; QR – Offline &amp; Lightweight!](https://www.reddit.com/r/androiddev/comments/1m86vpn/seamless_file_transfer_between_android_devices/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
