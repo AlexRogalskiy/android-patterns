@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What made you become an Android Developer?](https://www.reddit.com/r/androiddev/comments/1m8lomv/what_made_you_become_an_android_developer/)
-- [Question about registering for Google developer/play console accounts - US based, company registered in India](https://www.reddit.com/r/androiddev/comments/1m8jahz/question_about_registering_for_google/)
-- [Android Studio Narwhal Feature Drop | 2025.1.3 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1m8eqd3/android_studio_narwhal_feature_drop_202513_canary/)
-- [Need genuine advice - Android Dev](https://www.reddit.com/r/androiddev/comments/1m8brpv/need_genuine_advice_android_dev/)
-- [WebGPU in Kotlin on Android! I made an app that procedurally generates 3D terrain.](https://www.reddit.com/r/androiddev/comments/1m8bo3w/webgpu_in_kotlin_on_android_i_made_an_app_that/)
-- [Continuous Delivery](https://www.reddit.com/r/androiddev/comments/1m89voa/continuous_delivery/)
-- [Does this feel like a valid assessment assignment for an interview?](https://www.reddit.com/r/androiddev/comments/1m88pbd/does_this_feel_like_a_valid_assessment_assignment/)
-- [Doubt clarification](https://www.reddit.com/r/androiddev/comments/1m88am9/doubt_clarification/)
-- [Proven practices to avoid G Play high risk](https://www.reddit.com/r/androiddev/comments/1m87rlc/proven_practices_to_avoid_g_play_high_risk/)
-- [Seamless File Transfer Between Android Devices Using Ktor &amp; QR – Offline &amp; Lightweight!](https://www.reddit.com/r/androiddev/comments/1m86vpn/seamless_file_transfer_between_android_devices/)
+- [Testing](https://www.reddit.com/r/androiddev/comments/1m9gd6a/testing/)
+- [making the jump from roblox to android?](https://www.reddit.com/r/androiddev/comments/1m9fqan/making_the_jump_from_roblox_to_android/)
+- [Looking for Experienced Android Native App Developer from Bangalore](https://www.reddit.com/r/androiddev/comments/1m9ey9f/looking_for_experienced_android_native_app/)
+- [USB absolutely refusing to work](https://www.reddit.com/r/androiddev/comments/1m9eek3/usb_absolutely_refusing_to_work/)
+- [How to properly build a special RRO package containing several files](https://www.reddit.com/r/androiddev/comments/1m9dbo6/how_to_properly_build_a_special_rro_package/)
+- [Haaaalp!](https://www.reddit.com/r/androiddev/comments/1m9d7kt/haaaalp/)
+- [Excited to share an app I&#39;ve been working on: Deepr! 🚀](https://www.reddit.com/r/androiddev/comments/1m9ccdb/excited_to_share_an_app_ive_been_working_on_deepr/)
+- [Are there any free courses on Android development using Kotlin?](https://www.reddit.com/r/androiddev/comments/1m9ca92/are_there_any_free_courses_on_android_development/)
+- [Android Studio Layout Editor Split View Mode does not Show Code](https://www.reddit.com/r/androiddev/comments/1m99d5x/android_studio_layout_editor_split_view_mode_does/)
+- [How do you design your app icons?](https://www.reddit.com/r/androiddev/comments/1m991kw/how_do_you_design_your_app_icons/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
