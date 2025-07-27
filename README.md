@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Testing](https://www.reddit.com/r/androiddev/comments/1m9gd6a/testing/)
-- [making the jump from roblox to android?](https://www.reddit.com/r/androiddev/comments/1m9fqan/making_the_jump_from_roblox_to_android/)
-- [Looking for Experienced Android Native App Developer from Bangalore](https://www.reddit.com/r/androiddev/comments/1m9ey9f/looking_for_experienced_android_native_app/)
-- [USB absolutely refusing to work](https://www.reddit.com/r/androiddev/comments/1m9eek3/usb_absolutely_refusing_to_work/)
-- [How to properly build a special RRO package containing several files](https://www.reddit.com/r/androiddev/comments/1m9dbo6/how_to_properly_build_a_special_rro_package/)
-- [Haaaalp!](https://www.reddit.com/r/androiddev/comments/1m9d7kt/haaaalp/)
-- [Excited to share an app I&#39;ve been working on: Deepr! 🚀](https://www.reddit.com/r/androiddev/comments/1m9ccdb/excited_to_share_an_app_ive_been_working_on_deepr/)
-- [Are there any free courses on Android development using Kotlin?](https://www.reddit.com/r/androiddev/comments/1m9ca92/are_there_any_free_courses_on_android_development/)
-- [Android Studio Layout Editor Split View Mode does not Show Code](https://www.reddit.com/r/androiddev/comments/1m99d5x/android_studio_layout_editor_split_view_mode_does/)
-- [How do you design your app icons?](https://www.reddit.com/r/androiddev/comments/1m991kw/how_do_you_design_your_app_icons/)
+- [What is the Best Paid AI to help generate Android App](https://www.reddit.com/r/androiddev/comments/1mabg99/what_is_the_best_paid_ai_to_help_generate_android/)
+- [What exactly does the netd daemon do?](https://www.reddit.com/r/androiddev/comments/1ma6dcm/what_exactly_does_the_netd_daemon_do/)
+- [My First app completely flopped, built my second app and would love your honest feedback. Should I continue working on it?](https://www.reddit.com/r/androiddev/comments/1ma448w/my_first_app_completely_flopped_built_my_second/)
+- [Can I make a app where you can donate by watching ads?](https://www.reddit.com/r/androiddev/comments/1m9zzcw/can_i_make_a_app_where_you_can_donate_by_watching/)
+- [Minimum number of ratings more than 5 now?](https://www.reddit.com/r/androiddev/comments/1m9zd75/minimum_number_of_ratings_more_than_5_now/)
+- [SpeedTrack – Widgets F1: Fórmula 1 &lpar;Android + iOS&rpar; [Gratis]](https://www.reddit.com/r/androiddev/comments/1m9ynpv/speedtrack_widgets_f1_fórmula_1_android_ios_gratis/)
+- [Help in jetcompose](https://www.reddit.com/r/androiddev/comments/1m9yazd/help_in_jetcompose/)
+- [Anyone here automated Pi Browser inside an Android emulator using Frida? Need help with insane-level code execution](https://www.reddit.com/r/androiddev/comments/1m9y2p9/anyone_here_automated_pi_browser_inside_an/)
+- [Excellent group](https://www.reddit.com/r/androiddev/comments/1m9s6uv/excellent_group/)
+- [Cross-Platform Image Picker for Kotlin Multiplatform &amp; Android Native – Open Source Library](https://www.reddit.com/r/androiddev/comments/1m9lkr0/crossplatform_image_picker_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
