@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the Best Paid AI to help generate Android App](https://www.reddit.com/r/androiddev/comments/1mabg99/what_is_the_best_paid_ai_to_help_generate_android/)
-- [What exactly does the netd daemon do?](https://www.reddit.com/r/androiddev/comments/1ma6dcm/what_exactly_does_the_netd_daemon_do/)
-- [My First app completely flopped, built my second app and would love your honest feedback. Should I continue working on it?](https://www.reddit.com/r/androiddev/comments/1ma448w/my_first_app_completely_flopped_built_my_second/)
-- [Can I make a app where you can donate by watching ads?](https://www.reddit.com/r/androiddev/comments/1m9zzcw/can_i_make_a_app_where_you_can_donate_by_watching/)
-- [Minimum number of ratings more than 5 now?](https://www.reddit.com/r/androiddev/comments/1m9zd75/minimum_number_of_ratings_more_than_5_now/)
-- [SpeedTrack – Widgets F1: Fórmula 1 &lpar;Android + iOS&rpar; [Gratis]](https://www.reddit.com/r/androiddev/comments/1m9ynpv/speedtrack_widgets_f1_fórmula_1_android_ios_gratis/)
-- [Help in jetcompose](https://www.reddit.com/r/androiddev/comments/1m9yazd/help_in_jetcompose/)
-- [Anyone here automated Pi Browser inside an Android emulator using Frida? Need help with insane-level code execution](https://www.reddit.com/r/androiddev/comments/1m9y2p9/anyone_here_automated_pi_browser_inside_an/)
-- [Excellent group](https://www.reddit.com/r/androiddev/comments/1m9s6uv/excellent_group/)
-- [Cross-Platform Image Picker for Kotlin Multiplatform &amp; Android Native – Open Source Library](https://www.reddit.com/r/androiddev/comments/1m9lkr0/crossplatform_image_picker_for_kotlin/)
+- [Android Development outside of Android Studio and Intellij Idea](https://www.reddit.com/r/androiddev/comments/1mb47qz/android_development_outside_of_android_studio_and/)
+- [Kindset: A kinder mindset. A better world](https://www.reddit.com/r/androiddev/comments/1mb40ay/kindset_a_kinder_mindset_a_better_world/)
+- [Is this expected behavior for Android terminal/process handling? Just trying to understand what I’m seeing.](https://www.reddit.com/r/androiddev/comments/1mawxnn/is_this_expected_behavior_for_android/)
+- [Android/Windows app to restore most of the system, using a single lightweight file for export before format and import after format, a lightweight system restore of only the system settings interface and launcher + apps and apk](https://www.reddit.com/r/androiddev/comments/1maw9go/androidwindows_app_to_restore_most_of_the_system/)
+- [What are best practices for navigation in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1matlf1/what_are_best_practices_for_navigation_in_jetpack/)
+- [Dependency Management](https://www.reddit.com/r/androiddev/comments/1marrqf/dependency_management/)
+- [The Swift on Android Workgroup marks a major step toward making Swift run on Android, unlocking the potential for truly cross-platform app development using a single Swift codebase.](https://www.reddit.com/r/androiddev/comments/1maoyf7/the_swift_on_android_workgroup_marks_a_major_step/)
+- [Should I build an app with Java and XML in 2025?](https://www.reddit.com/r/androiddev/comments/1maobxe/should_i_build_an_app_with_java_and_xml_in_2025/)
+- [GitHub - gsrathoreniks/Scratchify : Open Source](https://www.reddit.com/r/androiddev/comments/1maobdi/github_gsrathoreniksscratchify_open_source/)
+- [Best techniques for extracting product name &amp; expiry date from packages using camera or OCR?](https://www.reddit.com/r/androiddev/comments/1mal38t/best_techniques_for_extracting_product_name/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
