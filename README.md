@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Development outside of Android Studio and Intellij Idea](https://www.reddit.com/r/androiddev/comments/1mb47qz/android_development_outside_of_android_studio_and/)
-- [Kindset: A kinder mindset. A better world](https://www.reddit.com/r/androiddev/comments/1mb40ay/kindset_a_kinder_mindset_a_better_world/)
-- [Is this expected behavior for Android terminal/process handling? Just trying to understand what I’m seeing.](https://www.reddit.com/r/androiddev/comments/1mawxnn/is_this_expected_behavior_for_android/)
-- [Android/Windows app to restore most of the system, using a single lightweight file for export before format and import after format, a lightweight system restore of only the system settings interface and launcher + apps and apk](https://www.reddit.com/r/androiddev/comments/1maw9go/androidwindows_app_to_restore_most_of_the_system/)
-- [What are best practices for navigation in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1matlf1/what_are_best_practices_for_navigation_in_jetpack/)
-- [Dependency Management](https://www.reddit.com/r/androiddev/comments/1marrqf/dependency_management/)
-- [The Swift on Android Workgroup marks a major step toward making Swift run on Android, unlocking the potential for truly cross-platform app development using a single Swift codebase.](https://www.reddit.com/r/androiddev/comments/1maoyf7/the_swift_on_android_workgroup_marks_a_major_step/)
-- [Should I build an app with Java and XML in 2025?](https://www.reddit.com/r/androiddev/comments/1maobxe/should_i_build_an_app_with_java_and_xml_in_2025/)
-- [GitHub - gsrathoreniks/Scratchify : Open Source](https://www.reddit.com/r/androiddev/comments/1maobdi/github_gsrathoreniksscratchify_open_source/)
-- [Best techniques for extracting product name &amp; expiry date from packages using camera or OCR?](https://www.reddit.com/r/androiddev/comments/1mal38t/best_techniques_for_extracting_product_name/)
+- [Tracker app don&#39;t send notifications when closed.](https://www.reddit.com/r/androiddev/comments/1mbz6w3/tracker_app_dont_send_notifications_when_closed/)
+- [Fingerprint scanner recommendation &lpar;SDK and bluetooth&rpar;](https://www.reddit.com/r/androiddev/comments/1mbz1ik/fingerprint_scanner_recommendation_sdk_and/)
+- [Visual Node Editor for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1mbudvz/visual_node_editor_for_compose_multiplatform/)
+- [First time releasing an app - testing](https://www.reddit.com/r/androiddev/comments/1mbs4uc/first_time_releasing_an_app_testing/)
+- [Advice for junior devs — LeetCode in resume or not?](https://www.reddit.com/r/androiddev/comments/1mbljmb/advice_for_junior_devs_leetcode_in_resume_or_not/)
+- [I want my app to be always running](https://www.reddit.com/r/androiddev/comments/1mbht13/i_want_my_app_to_be_always_running/)
+- [How to fix Checksum Error while doing an Android app&#39;s QR Provisioning on a Factory Reset Android &lpar;Device Owner Provisioning&rpar;?](https://www.reddit.com/r/androiddev/comments/1mbhmx7/how_to_fix_checksum_error_while_doing_an_android/)
+- [Facing difficulties with Ktor](https://www.reddit.com/r/androiddev/comments/1mbgyfv/facing_difficulties_with_ktor/)
+- [Liquid Glass for jetpack compose](https://www.reddit.com/r/androiddev/comments/1mbcm31/liquid_glass_for_jetpack_compose/)
+- [Floating bottom nav](https://www.reddit.com/r/androiddev/comments/1mbcc8v/floating_bottom_nav/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
