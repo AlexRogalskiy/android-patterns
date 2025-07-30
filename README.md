@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Tracker app don&#39;t send notifications when closed.](https://www.reddit.com/r/androiddev/comments/1mbz6w3/tracker_app_dont_send_notifications_when_closed/)
-- [Fingerprint scanner recommendation &lpar;SDK and bluetooth&rpar;](https://www.reddit.com/r/androiddev/comments/1mbz1ik/fingerprint_scanner_recommendation_sdk_and/)
-- [Visual Node Editor for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1mbudvz/visual_node_editor_for_compose_multiplatform/)
-- [First time releasing an app - testing](https://www.reddit.com/r/androiddev/comments/1mbs4uc/first_time_releasing_an_app_testing/)
-- [Advice for junior devs — LeetCode in resume or not?](https://www.reddit.com/r/androiddev/comments/1mbljmb/advice_for_junior_devs_leetcode_in_resume_or_not/)
-- [I want my app to be always running](https://www.reddit.com/r/androiddev/comments/1mbht13/i_want_my_app_to_be_always_running/)
-- [How to fix Checksum Error while doing an Android app&#39;s QR Provisioning on a Factory Reset Android &lpar;Device Owner Provisioning&rpar;?](https://www.reddit.com/r/androiddev/comments/1mbhmx7/how_to_fix_checksum_error_while_doing_an_android/)
-- [Facing difficulties with Ktor](https://www.reddit.com/r/androiddev/comments/1mbgyfv/facing_difficulties_with_ktor/)
-- [Liquid Glass for jetpack compose](https://www.reddit.com/r/androiddev/comments/1mbcm31/liquid_glass_for_jetpack_compose/)
-- [Floating bottom nav](https://www.reddit.com/r/androiddev/comments/1mbcc8v/floating_bottom_nav/)
+- [my app is in v 5.1 and still in closed testing](https://www.reddit.com/r/androiddev/comments/1mcsbu6/my_app_is_in_v_51_and_still_in_closed_testing/)
+- [Google Play Games PC Beta - performance issues](https://www.reddit.com/r/androiddev/comments/1mcp83i/google_play_games_pc_beta_performance_issues/)
+- [1 Day Project. Hiring immediately.](https://www.reddit.com/r/androiddev/comments/1mcm5x8/1_day_project_hiring_immediately/)
+- [Qwen 3 1.7B tool calling on Android Pixel 9 and S22](https://www.reddit.com/r/androiddev/comments/1mcl4b5/qwen_3_17b_tool_calling_on_android_pixel_9_and_s22/)
+- [How to make standard apk compatible with wear os?](https://www.reddit.com/r/androiddev/comments/1mcl2mw/how_to_make_standard_apk_compatible_with_wear_os/)
+- [[HELP] Google Play Console API Level Warning Won&#39;t Go Away Even After Updating to SDK 36](https://www.reddit.com/r/androiddev/comments/1mckvsk/help_google_play_console_api_level_warning_wont/)
+- [I made an app for myself](https://www.reddit.com/r/androiddev/comments/1mck21x/i_made_an_app_for_myself/)
+- [Need help integrating Open AI key](https://www.reddit.com/r/androiddev/comments/1mcj2le/need_help_integrating_open_ai_key/)
+- [Play Asset Delivery - .apk Question](https://www.reddit.com/r/androiddev/comments/1mchcox/play_asset_delivery_apk_question/)
+- [Pre Android project](https://www.reddit.com/r/androiddev/comments/1mch3hq/pre_android_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
