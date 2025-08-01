@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [2nd display metrics](https://www.reddit.com/r/androiddev/comments/1mdnnb5/2nd_display_metrics/)
-- [Fear of Programming](https://www.reddit.com/r/androiddev/comments/1mdm3po/fear_of_programming/)
-- [Google Sign-In bottom sheet appears, but the background screen disappears or hidden ?](https://www.reddit.com/r/androiddev/comments/1mdjogp/google_signin_bottom_sheet_appears_but_the/)
-- [Made an app that shows my installed apps in a different order every time - small progress in native development](https://www.reddit.com/r/androiddev/comments/1mdjkez/made_an_app_that_shows_my_installed_apps_in_a/)
-- [Google is rolling out AI powered age detection for all apps powered by Ads](https://www.reddit.com/r/androiddev/comments/1mdis4t/google_is_rolling_out_ai_powered_age_detection/)
-- [How do you guys test slow cards and on hold/grace period scenarios in in-app subscriptions?](https://www.reddit.com/r/androiddev/comments/1mdden4/how_do_you_guys_test_slow_cards_and_on_holdgrace/)
-- [I am continuing to work on my app for practicing math. a turtle race :-&rpar;](https://www.reddit.com/r/androiddev/comments/1mda4wu/i_am_continuing_to_work_on_my_app_for_practicing/)
-- [How can I accept donations without violating Google Play policies?](https://www.reddit.com/r/androiddev/comments/1mda2oo/how_can_i_accept_donations_without_violating/)
-- [Help reproducing Android PackageManager INSTALL_FAILED errors via crafted APKs](https://www.reddit.com/r/androiddev/comments/1md7x01/help_reproducing_android_packagemanager_install/)
-- [Has anyone tried build apps with LemonUp.dev?](https://www.reddit.com/r/androiddev/comments/1md7ixm/has_anyone_tried_build_apps_with_lemonupdev/)
+- [Gradle 9.0 released](https://www.reddit.com/r/androiddev/comments/1mel9lb/gradle_90_released/)
+- [Hooking Indirect Jump in Android Native Code Crashes App](https://www.reddit.com/r/androiddev/comments/1meir5n/hooking_indirect_jump_in_android_native_code/)
+- [A single android dev wrote 1M lines of code w/ AI](https://www.reddit.com/r/androiddev/comments/1mehzns/a_single_android_dev_wrote_1m_lines_of_code_w_ai/)
+- [Do we finally have proper support for junit5 in Android?](https://www.reddit.com/r/androiddev/comments/1mehld5/do_we_finally_have_proper_support_for_junit5_in/)
+- [Interesting Android Apps: August 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1mehb15/interesting_android_apps_august_2025_showcase/)
+- [Got an Android app development question? Ask away! August 2025 edition](https://www.reddit.com/r/androiddev/comments/1meh7wc/got_an_android_app_development_question_ask_away/)
+- [Google loses US appeal over app store reforms in Epic Games case](https://www.reddit.com/r/androiddev/comments/1meguuc/google_loses_us_appeal_over_app_store_reforms_in/)
+- [Want to do the periodic background fetches on the killed app. Need some help with understanding it.](https://www.reddit.com/r/androiddev/comments/1meg3ya/want_to_do_the_periodic_background_fetches_on_the/)
+- [Android Studio Narwhal Feature Drop | 2025.1.3 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1meeszg/android_studio_narwhal_feature_drop_202513_canary/)
+- [Require help with converting AnimatedVectorDrawables](https://www.reddit.com/r/androiddev/comments/1meeowt/require_help_with_converting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
