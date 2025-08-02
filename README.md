@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gradle 9.0 released](https://www.reddit.com/r/androiddev/comments/1mel9lb/gradle_90_released/)
-- [Hooking Indirect Jump in Android Native Code Crashes App](https://www.reddit.com/r/androiddev/comments/1meir5n/hooking_indirect_jump_in_android_native_code/)
-- [A single android dev wrote 1M lines of code w/ AI](https://www.reddit.com/r/androiddev/comments/1mehzns/a_single_android_dev_wrote_1m_lines_of_code_w_ai/)
-- [Do we finally have proper support for junit5 in Android?](https://www.reddit.com/r/androiddev/comments/1mehld5/do_we_finally_have_proper_support_for_junit5_in/)
-- [Interesting Android Apps: August 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1mehb15/interesting_android_apps_august_2025_showcase/)
-- [Got an Android app development question? Ask away! August 2025 edition](https://www.reddit.com/r/androiddev/comments/1meh7wc/got_an_android_app_development_question_ask_away/)
-- [Google loses US appeal over app store reforms in Epic Games case](https://www.reddit.com/r/androiddev/comments/1meguuc/google_loses_us_appeal_over_app_store_reforms_in/)
-- [Want to do the periodic background fetches on the killed app. Need some help with understanding it.](https://www.reddit.com/r/androiddev/comments/1meg3ya/want_to_do_the_periodic_background_fetches_on_the/)
-- [Android Studio Narwhal Feature Drop | 2025.1.3 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1meeszg/android_studio_narwhal_feature_drop_202513_canary/)
-- [Require help with converting AnimatedVectorDrawables](https://www.reddit.com/r/androiddev/comments/1meeowt/require_help_with_converting/)
+- [Compose statusBarsPadding&lpar;&rpar; works on Android 15+ but not on Android 14](https://www.reddit.com/r/androiddev/comments/1mff2s6/compose_statusbarspadding_works_on_android_15_but/)
+- [compilesdk is deprecated too, what next ?](https://www.reddit.com/r/androiddev/comments/1mff1gy/compilesdk_is_deprecated_too_what_next/)
+- [Is it possible to completely duplicate a notification from another app?](https://www.reddit.com/r/androiddev/comments/1mfexhz/is_it_possible_to_completely_duplicate_a/)
+- [FileNotFound/ResourceNotFound on static json as asset/raw in a SDK when its added to app&#39;s Dynamic Feature Module](https://www.reddit.com/r/androiddev/comments/1mf7v28/filenotfoundresourcenotfound_on_static_json_as/)
+- [🧩 Minecrack – a classic puzzle reimagined for Android, simple and fast](https://www.reddit.com/r/androiddev/comments/1mf6jcl/minecrack_a_classic_puzzle_reimagined_for_android/)
+- [My app finally got approved on the Play Store after a truly bizarre review process](https://www.reddit.com/r/androiddev/comments/1mf64b8/my_app_finally_got_approved_on_the_play_store/)
+- [Do I need to use kotlin for wear os](https://www.reddit.com/r/androiddev/comments/1mf4tkr/do_i_need_to_use_kotlin_for_wear_os/)
+- [Building my first Android app: offline QR bundles for links, notes &amp; pics](https://www.reddit.com/r/androiddev/comments/1mewo1v/building_my_first_android_app_offline_qr_bundles/)
+- [Package conflict](https://www.reddit.com/r/androiddev/comments/1met33e/package_conflict/)
+- [Should I release my premium game as one app with a free trial or a separate demo app with the main game having an upfront purchase?](https://www.reddit.com/r/androiddev/comments/1met1h9/should_i_release_my_premium_game_as_one_app_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
