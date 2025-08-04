@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compose statusBarsPadding&lpar;&rpar; works on Android 15+ but not on Android 14](https://www.reddit.com/r/androiddev/comments/1mff2s6/compose_statusbarspadding_works_on_android_15_but/)
-- [compilesdk is deprecated too, what next ?](https://www.reddit.com/r/androiddev/comments/1mff1gy/compilesdk_is_deprecated_too_what_next/)
-- [Is it possible to completely duplicate a notification from another app?](https://www.reddit.com/r/androiddev/comments/1mfexhz/is_it_possible_to_completely_duplicate_a/)
-- [FileNotFound/ResourceNotFound on static json as asset/raw in a SDK when its added to app&#39;s Dynamic Feature Module](https://www.reddit.com/r/androiddev/comments/1mf7v28/filenotfoundresourcenotfound_on_static_json_as/)
-- [🧩 Minecrack – a classic puzzle reimagined for Android, simple and fast](https://www.reddit.com/r/androiddev/comments/1mf6jcl/minecrack_a_classic_puzzle_reimagined_for_android/)
-- [My app finally got approved on the Play Store after a truly bizarre review process](https://www.reddit.com/r/androiddev/comments/1mf64b8/my_app_finally_got_approved_on_the_play_store/)
-- [Do I need to use kotlin for wear os](https://www.reddit.com/r/androiddev/comments/1mf4tkr/do_i_need_to_use_kotlin_for_wear_os/)
-- [Building my first Android app: offline QR bundles for links, notes &amp; pics](https://www.reddit.com/r/androiddev/comments/1mewo1v/building_my_first_android_app_offline_qr_bundles/)
-- [Package conflict](https://www.reddit.com/r/androiddev/comments/1met33e/package_conflict/)
-- [Should I release my premium game as one app with a free trial or a separate demo app with the main game having an upfront purchase?](https://www.reddit.com/r/androiddev/comments/1met1h9/should_i_release_my_premium_game_as_one_app_with/)
+- [What devices for fastlane frameit?](https://www.reddit.com/r/androiddev/comments/1mgv5sk/what_devices_for_fastlane_frameit/)
+- [3 App Suspensions - Will My Account Be Terminated?](https://www.reddit.com/r/androiddev/comments/1mgtcoe/3_app_suspensions_will_my_account_be_terminated/)
+- [Want to publish your mobile app in Mainland China？](https://www.reddit.com/r/androiddev/comments/1mgrfxr/want_to_publish_your_mobile_app_in_mainland_china/)
+- [Gap between texts](https://www.reddit.com/r/androiddev/comments/1mgqqyc/gap_between_texts/)
+- [Startup Time Optimisation in a Real-World OTT App](https://www.reddit.com/r/androiddev/comments/1mgp5fe/startup_time_optimisation_in_a_realworld_ott_app/)
+- [One good copywriting leads to 1,000 users to download, 100$ revenue in 24hrs.](https://www.reddit.com/r/androiddev/comments/1mgl5nz/one_good_copywriting_leads_to_1000_users_to/)
+- [Why is whatsapp able to send call notifications even when all whatsapp app notifications are turned off?](https://www.reddit.com/r/androiddev/comments/1mgkz86/why_is_whatsapp_able_to_send_call_notifications/)
+- [Urgent: I have acquired level 0 knowledge of compose and now i want to upgrade, could you please help me with the projects i should build](https://www.reddit.com/r/androiddev/comments/1mgjtns/urgent_i_have_acquired_level_0_knowledge_of/)
+- [What do you guys recommend for small or solo developer?](https://www.reddit.com/r/androiddev/comments/1mgi806/what_do_you_guys_recommend_for_small_or_solo/)
+- [Performance of device that costs 100$ or less](https://www.reddit.com/r/androiddev/comments/1mgfq3h/performance_of_device_that_costs_100_or_less/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
