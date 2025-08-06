@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What devices for fastlane frameit?](https://www.reddit.com/r/androiddev/comments/1mgv5sk/what_devices_for_fastlane_frameit/)
-- [3 App Suspensions - Will My Account Be Terminated?](https://www.reddit.com/r/androiddev/comments/1mgtcoe/3_app_suspensions_will_my_account_be_terminated/)
-- [Want to publish your mobile app in Mainland China？](https://www.reddit.com/r/androiddev/comments/1mgrfxr/want_to_publish_your_mobile_app_in_mainland_china/)
-- [Gap between texts](https://www.reddit.com/r/androiddev/comments/1mgqqyc/gap_between_texts/)
-- [Startup Time Optimisation in a Real-World OTT App](https://www.reddit.com/r/androiddev/comments/1mgp5fe/startup_time_optimisation_in_a_realworld_ott_app/)
-- [One good copywriting leads to 1,000 users to download, 100$ revenue in 24hrs.](https://www.reddit.com/r/androiddev/comments/1mgl5nz/one_good_copywriting_leads_to_1000_users_to/)
-- [Why is whatsapp able to send call notifications even when all whatsapp app notifications are turned off?](https://www.reddit.com/r/androiddev/comments/1mgkz86/why_is_whatsapp_able_to_send_call_notifications/)
-- [Urgent: I have acquired level 0 knowledge of compose and now i want to upgrade, could you please help me with the projects i should build](https://www.reddit.com/r/androiddev/comments/1mgjtns/urgent_i_have_acquired_level_0_knowledge_of/)
-- [What do you guys recommend for small or solo developer?](https://www.reddit.com/r/androiddev/comments/1mgi806/what_do_you_guys_recommend_for_small_or_solo/)
-- [Performance of device that costs 100$ or less](https://www.reddit.com/r/androiddev/comments/1mgfq3h/performance_of_device_that_costs_100_or_less/)
+- [Working on a New App — Anyone Interested in Sneak Peeks?](https://www.reddit.com/r/androiddev/comments/1mis9je/working_on_a_new_app_anyone_interested_in_sneak/)
+- [SoundPool silently fails on modern Android — trying to restore effects in legacy game &lpar;need Frida/hooking help&rpar;](https://www.reddit.com/r/androiddev/comments/1miq5o6/soundpool_silently_fails_on_modern_android_trying/)
+- [Anyone want to be a closed beta tester for my new checklist app?](https://www.reddit.com/r/androiddev/comments/1mio70u/anyone_want_to_be_a_closed_beta_tester_for_my_new/)
+- [How to get started making apps for android 4.2.2?](https://www.reddit.com/r/androiddev/comments/1mils2s/how_to_get_started_making_apps_for_android_422/)
+- [New Material Design 3 Video Player](https://www.reddit.com/r/androiddev/comments/1mijcvl/new_material_design_3_video_player/)
+- [Firestore question](https://www.reddit.com/r/androiddev/comments/1mijcgz/firestore_question/)
+- [Does anyone remember Puzzle Craft 2, polish game which was the best mobile game at the time and it still is the best game, do you know that game?](https://www.reddit.com/r/androiddev/comments/1miibei/does_anyone_remember_puzzle_craft_2_polish_game/)
+- [How do you visualise android bigquery events?](https://www.reddit.com/r/androiddev/comments/1migtr5/how_do_you_visualise_android_bigquery_events/)
+- [Flutter to Kotlin multi platform widget translation guide](https://www.reddit.com/r/androiddev/comments/1mifhn1/flutter_to_kotlin_multi_platform_widget/)
+- [looking for an app developer](https://www.reddit.com/r/androiddev/comments/1mielba/looking_for_an_app_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
