@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&quot;First Opens&quot; vs &quot;Installed Audience&quot;](https://www.reddit.com/r/androiddev/comments/1mjodqr/first_opens_vs_installed_audience/)
-- [firebender to support GPT 5 tomorrow](https://www.reddit.com/r/androiddev/comments/1mjo7r8/firebender_to_support_gpt_5_tomorrow/)
-- [What’s the safest way to share a token among libraries?](https://www.reddit.com/r/androiddev/comments/1mjnf1a/whats_the_safest_way_to_share_a_token_among/)
-- [Play Store Ban](https://www.reddit.com/r/androiddev/comments/1mjnba1/play_store_ban/)
-- [What does your CI/CD Pipeline look like?](https://www.reddit.com/r/androiddev/comments/1mjllue/what_does_your_cicd_pipeline_look_like/)
-- [Illnesses or Conditions Among Programmers](https://www.reddit.com/r/androiddev/comments/1mjl242/illnesses_or_conditions_among_programmers/)
-- [I don&#39;t know which of these is more ridiculous](https://www.reddit.com/r/androiddev/comments/1mjkap5/i_dont_know_which_of_these_is_more_ridiculous/)
-- [Are there any cheap &lpar;legal&rpar; ways to avoid having your home address public on Play Store as an indie dev?](https://www.reddit.com/r/androiddev/comments/1mjinob/are_there_any_cheap_legal_ways_to_avoid_having/)
-- [Laptop that can cope with modern devices in emulation](https://www.reddit.com/r/androiddev/comments/1mjev2q/laptop_that_can_cope_with_modern_devices_in/)
-- [Get Early Access Before Anyone Else!](https://www.reddit.com/r/androiddev/comments/1mjeu9r/get_early_access_before_anyone_else/)
+- [Android Studio Narwhal 3 Feature Drop | 2025.1.3 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1mkeu1d/android_studio_narwhal_3_feature_drop_202513/)
+- [Best tool for creating Android apps with AI](https://www.reddit.com/r/androiddev/comments/1mkek1n/best_tool_for_creating_android_apps_with_ai/)
+- [5 computers, 5 monitors, all needed to study Android source code](https://www.reddit.com/r/androiddev/comments/1mkd3gh/5_computers_5_monitors_all_needed_to_study/)
+- [Stevdza-San tutorial on automated test writing with AI](https://www.reddit.com/r/androiddev/comments/1mkcn7o/stevdzasan_tutorial_on_automated_test_writing/)
+- [APIs for android are ever changing and there are so many of them. How do you remember them or any system you use for getting something done while maintaining performance of an app](https://www.reddit.com/r/androiddev/comments/1mkb61s/apis_for_android_are_ever_changing_and_there_are/)
+- [Unable to test unpublished app](https://www.reddit.com/r/androiddev/comments/1mk9nu0/unable_to_test_unpublished_app/)
+- [Is this what you do to perform keyboard handling in API 35?](https://www.reddit.com/r/androiddev/comments/1mk91vg/is_this_what_you_do_to_perform_keyboard_handling/)
+- [Sending lots of Messages using Messenger/Handler API](https://www.reddit.com/r/androiddev/comments/1mk89gi/sending_lots_of_messages_using_messengerhandler/)
+- [How do apps like Skool/Whop collect digital payments in-app without Play / App Store billing?](https://www.reddit.com/r/androiddev/comments/1mk7h2q/how_do_apps_like_skoolwhop_collect_digital/)
+- [I am building a tool to automate regional pricing for Google Play – looking for early testers!](https://www.reddit.com/r/androiddev/comments/1mk6bmo/i_am_building_a_tool_to_automate_regional_pricing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
