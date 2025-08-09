@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Narwhal 3 Feature Drop | 2025.1.3 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1mkeu1d/android_studio_narwhal_3_feature_drop_202513/)
-- [Best tool for creating Android apps with AI](https://www.reddit.com/r/androiddev/comments/1mkek1n/best_tool_for_creating_android_apps_with_ai/)
-- [5 computers, 5 monitors, all needed to study Android source code](https://www.reddit.com/r/androiddev/comments/1mkd3gh/5_computers_5_monitors_all_needed_to_study/)
-- [Stevdza-San tutorial on automated test writing with AI](https://www.reddit.com/r/androiddev/comments/1mkcn7o/stevdzasan_tutorial_on_automated_test_writing/)
-- [APIs for android are ever changing and there are so many of them. How do you remember them or any system you use for getting something done while maintaining performance of an app](https://www.reddit.com/r/androiddev/comments/1mkb61s/apis_for_android_are_ever_changing_and_there_are/)
-- [Unable to test unpublished app](https://www.reddit.com/r/androiddev/comments/1mk9nu0/unable_to_test_unpublished_app/)
-- [Is this what you do to perform keyboard handling in API 35?](https://www.reddit.com/r/androiddev/comments/1mk91vg/is_this_what_you_do_to_perform_keyboard_handling/)
-- [Sending lots of Messages using Messenger/Handler API](https://www.reddit.com/r/androiddev/comments/1mk89gi/sending_lots_of_messages_using_messengerhandler/)
-- [How do apps like Skool/Whop collect digital payments in-app without Play / App Store billing?](https://www.reddit.com/r/androiddev/comments/1mk7h2q/how_do_apps_like_skoolwhop_collect_digital/)
-- [I am building a tool to automate regional pricing for Google Play – looking for early testers!](https://www.reddit.com/r/androiddev/comments/1mk6bmo/i_am_building_a_tool_to_automate_regional_pricing/)
+- [Samsung galaxy tab a t510](https://www.reddit.com/r/androiddev/comments/1mldc4s/samsung_galaxy_tab_a_t510/)
+- [What default basic moods makes sense to add for daily entries?](https://www.reddit.com/r/androiddev/comments/1mlbr1d/what_default_basic_moods_makes_sense_to_add_for/)
+- [Android Dev discord?](https://www.reddit.com/r/androiddev/comments/1mlappi/android_dev_discord/)
+- [Landscape lockscreen update please ?](https://www.reddit.com/r/androiddev/comments/1ml6p45/landscape_lockscreen_update_please/)
+- [How do I patch overlay permission app](https://www.reddit.com/r/androiddev/comments/1ml6k99/how_do_i_patch_overlay_permission_app/)
+- [Integrating Revenue Cat into our Kotlin Multi platform app, Affirmi. Any tips for a smooth setup](https://www.reddit.com/r/androiddev/comments/1ml6hyj/integrating_revenue_cat_into_our_kotlin_multi/)
+- [USB debug cable recommendation](https://www.reddit.com/r/androiddev/comments/1ml5fqi/usb_debug_cable_recommendation/)
+- [cheapest phone for dev related stuff like running own apps, need sms](https://www.reddit.com/r/androiddev/comments/1ml4j09/cheapest_phone_for_dev_related_stuff_like_running/)
+- [App Localisation Check: Du for German, Vy for Czech?](https://www.reddit.com/r/androiddev/comments/1ml49aq/app_localisation_check_du_for_german_vy_for_czech/)
+- [API 35 Keyboard Handling — Losing Auto-Resize &amp; Scroll-to-Cursor](https://www.reddit.com/r/androiddev/comments/1ml3cti/api_35_keyboard_handling_losing_autoresize/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
