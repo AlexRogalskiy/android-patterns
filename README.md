@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Introducing Axer](https://www.reddit.com/r/androiddev/comments/1mmtzra/introducing_axer/)
-- [Need AI related advice](https://www.reddit.com/r/androiddev/comments/1mmtubr/need_ai_related_advice/)
-- [Trying to learn Kotlin/Android Studio - need help!](https://www.reddit.com/r/androiddev/comments/1mmtou4/trying_to_learn_kotlinandroid_studio_need_help/)
-- [We’ve got 400k downloads on our game… but subs are way lower than expected. What would you do?](https://www.reddit.com/r/androiddev/comments/1mmr8jq/weve_got_400k_downloads_on_our_game_but_subs_are/)
-- [Advice needed](https://www.reddit.com/r/androiddev/comments/1mmqvcb/advice_needed/)
-- [Keyboard customization / How do I remove this black screen?](https://www.reddit.com/r/androiddev/comments/1mmqrsn/keyboard_customization_how_do_i_remove_this_black/)
-- [Updated my CV based on your feedback. Should I start applying with this?](https://www.reddit.com/r/androiddev/comments/1mmmxb0/updated_my_cv_based_on_your_feedback_should_i/)
-- [Spring Boot or continue in dev?](https://www.reddit.com/r/androiddev/comments/1mmlcva/spring_boot_or_continue_in_dev/)
-- [Seeking expert developer &amp; UX input on my side project — an interactive nutrition knowledge platform I’ve been working on.](https://www.reddit.com/r/androiddev/comments/1mmi71v/seeking_expert_developer_ux_input_on_my_side/)
-- [How do I view custom 360 degree panorama images?](https://www.reddit.com/r/androiddev/comments/1mmge5m/how_do_i_view_custom_360_degree_panorama_images/)
+- [GPT-5 Scores higher than Claude Sonnet 4 in Kotlin-Bench](https://www.reddit.com/r/androiddev/comments/1mnunnj/gpt5_scores_higher_than_claude_sonnet_4_in/)
+- [Help help help, trying to figure this out keeps, flashing this screen when plugged in after Odin failed and won’t do anything else. Samsung tab s5e. Just keeps flashing on and off. Won’t power on or stay on login enough to try to reflash. Does not go into recovery.](https://www.reddit.com/r/androiddev/comments/1mnu2m1/help_help_help_trying_to_figure_this_out_keeps/)
+- [do we still have any competitive advantage compared to vibe coded apps ?](https://www.reddit.com/r/androiddev/comments/1mns9ow/do_we_still_have_any_competitive_advantage/)
+- [Can&#39;t login to PlayStore in Android Emulator. How to solve it?](https://www.reddit.com/r/androiddev/comments/1mnqbhi/cant_login_to_playstore_in_android_emulator_how/)
+- [Smart System Repair for Android](https://www.reddit.com/r/androiddev/comments/1mnoq5c/smart_system_repair_for_android/)
+- [From an idea to an app: our process for Treat Tracker 🐾](https://www.reddit.com/r/androiddev/comments/1mno2u8/from_an_idea_to_an_app_our_process_for_treat/)
+- [How to show a dynamic notification icon in status bar?](https://www.reddit.com/r/androiddev/comments/1mnkkax/how_to_show_a_dynamic_notification_icon_in_status/)
+- [Troubles with fastboot &amp; BROM on OnePlus Nord CE 2 &lpar;MT6877&rpar; — “serial not match, unlock fail”](https://www.reddit.com/r/androiddev/comments/1mnjmed/troubles_with_fastboot_brom_on_oneplus_nord_ce_2/)
+- [Im getting an listOf reference issue in android](https://www.reddit.com/r/androiddev/comments/1mnjhlz/im_getting_an_listof_reference_issue_in_android/)
+- [my recycler view items flicker when i update data how do i stop it](https://www.reddit.com/r/androiddev/comments/1mnhdb0/my_recycler_view_items_flicker_when_i_update_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
