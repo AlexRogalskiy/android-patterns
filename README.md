@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GPT-5 Scores higher than Claude Sonnet 4 in Kotlin-Bench](https://www.reddit.com/r/androiddev/comments/1mnunnj/gpt5_scores_higher_than_claude_sonnet_4_in/)
-- [Help help help, trying to figure this out keeps, flashing this screen when plugged in after Odin failed and won’t do anything else. Samsung tab s5e. Just keeps flashing on and off. Won’t power on or stay on login enough to try to reflash. Does not go into recovery.](https://www.reddit.com/r/androiddev/comments/1mnu2m1/help_help_help_trying_to_figure_this_out_keeps/)
-- [do we still have any competitive advantage compared to vibe coded apps ?](https://www.reddit.com/r/androiddev/comments/1mns9ow/do_we_still_have_any_competitive_advantage/)
-- [Can&#39;t login to PlayStore in Android Emulator. How to solve it?](https://www.reddit.com/r/androiddev/comments/1mnqbhi/cant_login_to_playstore_in_android_emulator_how/)
-- [Smart System Repair for Android](https://www.reddit.com/r/androiddev/comments/1mnoq5c/smart_system_repair_for_android/)
-- [From an idea to an app: our process for Treat Tracker 🐾](https://www.reddit.com/r/androiddev/comments/1mno2u8/from_an_idea_to_an_app_our_process_for_treat/)
-- [How to show a dynamic notification icon in status bar?](https://www.reddit.com/r/androiddev/comments/1mnkkax/how_to_show_a_dynamic_notification_icon_in_status/)
-- [Troubles with fastboot &amp; BROM on OnePlus Nord CE 2 &lpar;MT6877&rpar; — “serial not match, unlock fail”](https://www.reddit.com/r/androiddev/comments/1mnjmed/troubles_with_fastboot_brom_on_oneplus_nord_ce_2/)
-- [Im getting an listOf reference issue in android](https://www.reddit.com/r/androiddev/comments/1mnjhlz/im_getting_an_listof_reference_issue_in_android/)
-- [my recycler view items flicker when i update data how do i stop it](https://www.reddit.com/r/androiddev/comments/1mnhdb0/my_recycler_view_items_flicker_when_i_update_data/)
+- [How to stop this android popup?](https://www.reddit.com/r/androiddev/comments/1most5z/how_to_stop_this_android_popup/)
+- [How to implement Playstore Subscriptions properly](https://www.reddit.com/r/androiddev/comments/1moss5a/how_to_implement_playstore_subscriptions_properly/)
+- [How to Protect an Android App from Being Cracked on Google Play Store?](https://www.reddit.com/r/androiddev/comments/1moru7u/how_to_protect_an_android_app_from_being_cracked/)
+- [qwen-3-coder-480b as an android studio coding agent](https://www.reddit.com/r/androiddev/comments/1moplnu/qwen3coder480b_as_an_android_studio_coding_agent/)
+- [InstaVerse | Chat in Any Language. Instantly.](https://www.reddit.com/r/androiddev/comments/1mope4h/instaverse_chat_in_any_language_instantly/)
+- [Made a Google Calendar Clone in Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1mokds4/made_a_google_calendar_clone_in_compose/)
+- [Tracing the AOSP code is making me want to cry](https://www.reddit.com/r/androiddev/comments/1moihbq/tracing_the_aosp_code_is_making_me_want_to_cry/)
+- [Can I connect a physical smartwatch through ADB to a virtualised phone on android studio running in the same wi-fi network &lpar;my device network&rpar;?](https://www.reddit.com/r/androiddev/comments/1moi4bq/can_i_connect_a_physical_smartwatch_through_adb/)
+- [Why is Android development with Kotlin and Jetpack Compose such a nightmare? Am I missing a simpler approach?](https://www.reddit.com/r/androiddev/comments/1moi2g8/why_is_android_development_with_kotlin_and/)
+- [Build a particle animation for a timer app in Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1mohjyb/build_a_particle_animation_for_a_timer_app_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
