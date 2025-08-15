@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compose 1.9 is released!](https://www.reddit.com/r/androiddev/comments/1mpobaz/compose_19_is_released/)
-- [Watch Vibration](https://www.reddit.com/r/androiddev/comments/1mpo2mx/watch_vibration/)
-- [Handling Free Trial UI Before First Purchase Without Login &lpar;Google Play Billing&rpar;](https://www.reddit.com/r/androiddev/comments/1mpn7ts/handling_free_trial_ui_before_first_purchase/)
-- [Letters launcher alternatives [keyboard based launcher]?](https://www.reddit.com/r/androiddev/comments/1mpl7fj/letters_launcher_alternatives_keyboard_based/)
-- [I got a warning for my app to fix issues, otherwise removal. So I fixed, but the warning stays.](https://www.reddit.com/r/androiddev/comments/1mpjiqr/i_got_a_warning_for_my_app_to_fix_issues/)
-- [Feeling Lost with Android Logs - Need Advice on Frameworks and Analysis](https://www.reddit.com/r/androiddev/comments/1mpgpbl/feeling_lost_with_android_logs_need_advice_on/)
-- [Seeking Experienced Android Developers &lpar;US, EU/UK&rpar; for a 30-Minute Study on Memory Optimization &lpar;Honorarium Offered&rpar;](https://www.reddit.com/r/androiddev/comments/1mpcy92/seeking_experienced_android_developers_us_euuk/)
-- [keyboard with copy and paste buttons](https://www.reddit.com/r/androiddev/comments/1mp8n6s/keyboard_with_copy_and_paste_buttons/)
-- [Android developer job interview - Prep partner - EST timezone](https://www.reddit.com/r/androiddev/comments/1mp7gkx/android_developer_job_interview_prep_partner_est/)
-- [Ripped off by Bolt.New, looking for alternatives](https://www.reddit.com/r/androiddev/comments/1mp67oe/ripped_off_by_boltnew_looking_for_alternatives/)
+- [I want to create the next addictive APP](https://www.reddit.com/r/androiddev/comments/1mqjyja/i_want_to_create_the_next_addictive_app/)
+- [Telegram automated screenshot in android](https://www.reddit.com/r/androiddev/comments/1mqj29g/telegram_automated_screenshot_in_android/)
+- [Confused about use of braces in Kotlin lambdas and Compose](https://www.reddit.com/r/androiddev/comments/1mqiuk2/confused_about_use_of_braces_in_kotlin_lambdas/)
+- [Looking for Android Engineers Experienced in Memory Optimization – 30-Min Interview, €210/$250](https://www.reddit.com/r/androiddev/comments/1mqdj0u/looking_for_android_engineers_experienced_in/)
+- [I&#39;m waiting for play console merchant account verification but also seeing this](https://www.reddit.com/r/androiddev/comments/1mqakni/im_waiting_for_play_console_merchant_account/)
+- [AdMob is planning to release their edge-to-edge support and target sdk 35 post the official deadline!](https://www.reddit.com/r/androiddev/comments/1mq8xyg/admob_is_planning_to_release_their_edgetoedge/)
+- [Jetpack Compose August ’25 Release: A New Era of UI Development](https://www.reddit.com/r/androiddev/comments/1mq8h9i/jetpack_compose_august_25_release_a_new_era_of_ui/)
+- [Android Developers Blog: Test on a fleet of physical devices with Android Device Streaming, now with Android Partner Device Labs](https://www.reddit.com/r/androiddev/comments/1mq8fqr/android_developers_blog_test_on_a_fleet_of/)
+- [Android Developers Blog: Accelerating development with monthly releases for Android Studio](https://www.reddit.com/r/androiddev/comments/1mq8fcs/android_developers_blog_accelerating_development/)
+- [Do we still have to publicly share our adress?](https://www.reddit.com/r/androiddev/comments/1mq84r7/do_we_still_have_to_publicly_share_our_adress/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
