@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I want to create the next addictive APP](https://www.reddit.com/r/androiddev/comments/1mqjyja/i_want_to_create_the_next_addictive_app/)
-- [Telegram automated screenshot in android](https://www.reddit.com/r/androiddev/comments/1mqj29g/telegram_automated_screenshot_in_android/)
-- [Confused about use of braces in Kotlin lambdas and Compose](https://www.reddit.com/r/androiddev/comments/1mqiuk2/confused_about_use_of_braces_in_kotlin_lambdas/)
-- [Looking for Android Engineers Experienced in Memory Optimization – 30-Min Interview, €210/$250](https://www.reddit.com/r/androiddev/comments/1mqdj0u/looking_for_android_engineers_experienced_in/)
-- [I&#39;m waiting for play console merchant account verification but also seeing this](https://www.reddit.com/r/androiddev/comments/1mqakni/im_waiting_for_play_console_merchant_account/)
-- [AdMob is planning to release their edge-to-edge support and target sdk 35 post the official deadline!](https://www.reddit.com/r/androiddev/comments/1mq8xyg/admob_is_planning_to_release_their_edgetoedge/)
-- [Jetpack Compose August ’25 Release: A New Era of UI Development](https://www.reddit.com/r/androiddev/comments/1mq8h9i/jetpack_compose_august_25_release_a_new_era_of_ui/)
-- [Android Developers Blog: Test on a fleet of physical devices with Android Device Streaming, now with Android Partner Device Labs](https://www.reddit.com/r/androiddev/comments/1mq8fqr/android_developers_blog_test_on_a_fleet_of/)
-- [Android Developers Blog: Accelerating development with monthly releases for Android Studio](https://www.reddit.com/r/androiddev/comments/1mq8fcs/android_developers_blog_accelerating_development/)
-- [Do we still have to publicly share our adress?](https://www.reddit.com/r/androiddev/comments/1mq84r7/do_we_still_have_to_publicly_share_our_adress/)
+- [I realized the best way to create a PDF file in Android is not to use Android to do it](https://www.reddit.com/r/androiddev/comments/1mrgfp5/i_realized_the_best_way_to_create_a_pdf_file_in/)
+- [When AI confuses standard patterns with critical vulnerabilities..](https://www.reddit.com/r/androiddev/comments/1mrfesd/when_ai_confuses_standard_patterns_with_critical/)
+- [Error con Android Studio](https://www.reddit.com/r/androiddev/comments/1mrf3d8/error_con_android_studio/)
+- [Can someone help this?](https://www.reddit.com/r/androiddev/comments/1mree6w/can_someone_help_this/)
+- [Google Terminated my account what i do](https://www.reddit.com/r/androiddev/comments/1mrcwcq/google_terminated_my_account_what_i_do/)
+- [My first build in public project—Humble: Festivals with Friends](https://www.reddit.com/r/androiddev/comments/1mr5lhu/my_first_build_in_public_projecthumble_festivals/)
+- [[Day 45] Progress on my App – Looking for Feedback &amp; ASO Tips](https://www.reddit.com/r/androiddev/comments/1mr40k3/day_45_progress_on_my_app_looking_for_feedback/)
+- [Made a custom Compose animation](https://www.reddit.com/r/androiddev/comments/1mr3w9m/made_a_custom_compose_animation/)
+- [Where can I change the logo for my app?](https://www.reddit.com/r/androiddev/comments/1mr3hg8/where_can_i_change_the_logo_for_my_app/)
+- [account termination](https://www.reddit.com/r/androiddev/comments/1mqzuuz/account_termination/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
