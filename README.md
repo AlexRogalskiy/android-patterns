@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I realized the best way to create a PDF file in Android is not to use Android to do it](https://www.reddit.com/r/androiddev/comments/1mrgfp5/i_realized_the_best_way_to_create_a_pdf_file_in/)
-- [When AI confuses standard patterns with critical vulnerabilities..](https://www.reddit.com/r/androiddev/comments/1mrfesd/when_ai_confuses_standard_patterns_with_critical/)
-- [Error con Android Studio](https://www.reddit.com/r/androiddev/comments/1mrf3d8/error_con_android_studio/)
-- [Can someone help this?](https://www.reddit.com/r/androiddev/comments/1mree6w/can_someone_help_this/)
-- [Google Terminated my account what i do](https://www.reddit.com/r/androiddev/comments/1mrcwcq/google_terminated_my_account_what_i_do/)
-- [My first build in public project—Humble: Festivals with Friends](https://www.reddit.com/r/androiddev/comments/1mr5lhu/my_first_build_in_public_projecthumble_festivals/)
-- [[Day 45] Progress on my App – Looking for Feedback &amp; ASO Tips](https://www.reddit.com/r/androiddev/comments/1mr40k3/day_45_progress_on_my_app_looking_for_feedback/)
-- [Made a custom Compose animation](https://www.reddit.com/r/androiddev/comments/1mr3w9m/made_a_custom_compose_animation/)
-- [Where can I change the logo for my app?](https://www.reddit.com/r/androiddev/comments/1mr3hg8/where_can_i_change_the_logo_for_my_app/)
-- [account termination](https://www.reddit.com/r/androiddev/comments/1mqzuuz/account_termination/)
+- [Best way to bring information over to another screen/Activity](https://www.reddit.com/r/androiddev/comments/1ms76jj/best_way_to_bring_information_over_to_another/)
+- [Is there a way to side load apps on wearOS over Bluetooth](https://www.reddit.com/r/androiddev/comments/1ms4ws2/is_there_a_way_to_side_load_apps_on_wearos_over/)
+- [Need some help](https://www.reddit.com/r/androiddev/comments/1ms2kc0/need_some_help/)
+- [The Native vs. Cross-Platform Dilemma: Why Kotlin Multiplatform &lpar;KMP&rpar; is a Game-Changer](https://www.reddit.com/r/androiddev/comments/1mryre3/the_native_vs_crossplatform_dilemma_why_kotlin/)
+- [Dev Account Termination Scam](https://www.reddit.com/r/androiddev/comments/1mrwxed/dev_account_termination_scam/)
+- [Hiring: App dev to debug, optimize &amp; deploy — Paid, Remote OK](https://www.reddit.com/r/androiddev/comments/1mrvyrr/hiring_app_dev_to_debug_optimize_deploy_paid/)
+- [Why Android Choose Java serialization?](https://www.reddit.com/r/androiddev/comments/1mrqny0/why_android_choose_java_serialization/)
+- [App Monetization Idea for Apps?](https://www.reddit.com/r/androiddev/comments/1mrq7bf/app_monetization_idea_for_apps/)
+- [Beyond launch + collect: coroutine &amp; flow internals for serious Kotlin devs](https://www.reddit.com/r/androiddev/comments/1mrouxk/beyond_launch_collect_coroutine_flow_internals/)
+- [Beyond launch + collect: coroutine &amp; flow internals for serious Kotlin devs](https://www.reddit.com/r/androiddev/comments/1mrou9h/beyond_launch_collect_coroutine_flow_internals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
