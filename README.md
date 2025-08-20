@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New NFC Scanner Apis are available on KmpEssentials &lpar;Apis for iOS, Android, WearOS&rpar;](https://www.reddit.com/r/androiddev/comments/1mu62ef/new_nfc_scanner_apis_are_available_on/)
-- [Snake 97 - Modern Prototype &lpar;need your feedback!&rpar;](https://www.reddit.com/r/androiddev/comments/1mu3kej/snake_97_modern_prototype_need_your_feedback/)
-- [Manually Enable HBM &lpar;High Brightness Mode&rpar;](https://www.reddit.com/r/androiddev/comments/1mu1fpt/manually_enable_hbm_high_brightness_mode/)
-- [Suggestions needed for my first clock app!!](https://www.reddit.com/r/androiddev/comments/1mu0heb/suggestions_needed_for_my_first_clock_app/)
-- [hi i just need a little insight](https://www.reddit.com/r/androiddev/comments/1mtztpr/hi_i_just_need_a_little_insight/)
-- [Incredibly confused after changing my play store account from individual to business](https://www.reddit.com/r/androiddev/comments/1mtz2g1/incredibly_confused_after_changing_my_play_store/)
-- [Dynamic home screen widget?](https://www.reddit.com/r/androiddev/comments/1mtyt1j/dynamic_home_screen_widget/)
-- [MMI Complete](https://www.reddit.com/r/androiddev/comments/1mtx0lg/mmi_complete/)
-- [LAN &lpar;p2p&rpar; networking in android](https://www.reddit.com/r/androiddev/comments/1mtwx4z/lan_p2p_networking_in_android/)
-- [Playstore took my gamw down citing there&#39;s no close button on Rewarded ads after 5 secs](https://www.reddit.com/r/androiddev/comments/1mtwoew/playstore_took_my_gamw_down_citing_theres_no/)
+- [When do Google Play Reviews Show?](https://www.reddit.com/r/androiddev/comments/1mv10gg/when_do_google_play_reviews_show/)
+- [[Help Request] Icon Designer Looking for Android Dev Guidance - Want to Create Icon Pack App](https://www.reddit.com/r/androiddev/comments/1mv00zy/help_request_icon_designer_looking_for_android/)
+- [Google Play review account](https://www.reddit.com/r/androiddev/comments/1muzngx/google_play_review_account/)
+- [How to pass data from one view model&#39;s UI state to another view model?](https://www.reddit.com/r/androiddev/comments/1muvlgw/how_to_pass_data_from_one_view_models_ui_state_to/)
+- [GitHub - eygraber/vice: KMP MVI framework built using Compose for Compose](https://www.reddit.com/r/androiddev/comments/1muvb9b/github_eygrabervice_kmp_mvi_framework_built_using/)
+- [Favorite networking library: okhttp, ktor, Retrofit? Or something else?](https://www.reddit.com/r/androiddev/comments/1murtdc/favorite_networking_library_okhttp_ktor_retrofit/)
+- [Is there a way to use the android AVD classic engine now?](https://www.reddit.com/r/androiddev/comments/1muqt47/is_there_a_way_to_use_the_android_avd_classic/)
+- [Hey Reddit! Mike, Davis &amp; Travis from Meta here 👋 Join our AMA Aug 27 at 10:30AM PT to talk about running Android apps on Meta Horizon OS and turning them into VR experiences with Meta Spatial SDK. Bring questions, feedback &amp; your stories. We’re here to swap insights and learn from your experience!](https://www.reddit.com/r/androiddev/comments/1mupsgs/hey_reddit_mike_davis_travis_from_meta_here_join/)
+- [Apps ideas.](https://www.reddit.com/r/androiddev/comments/1munzf9/apps_ideas/)
+- [Native apps had a good run, but PWA is the future](https://www.reddit.com/r/androiddev/comments/1mun4yt/native_apps_had_a_good_run_but_pwa_is_the_future/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
