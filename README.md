@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When do Google Play Reviews Show?](https://www.reddit.com/r/androiddev/comments/1mv10gg/when_do_google_play_reviews_show/)
-- [[Help Request] Icon Designer Looking for Android Dev Guidance - Want to Create Icon Pack App](https://www.reddit.com/r/androiddev/comments/1mv00zy/help_request_icon_designer_looking_for_android/)
-- [Google Play review account](https://www.reddit.com/r/androiddev/comments/1muzngx/google_play_review_account/)
-- [How to pass data from one view model&#39;s UI state to another view model?](https://www.reddit.com/r/androiddev/comments/1muvlgw/how_to_pass_data_from_one_view_models_ui_state_to/)
-- [GitHub - eygraber/vice: KMP MVI framework built using Compose for Compose](https://www.reddit.com/r/androiddev/comments/1muvb9b/github_eygrabervice_kmp_mvi_framework_built_using/)
-- [Favorite networking library: okhttp, ktor, Retrofit? Or something else?](https://www.reddit.com/r/androiddev/comments/1murtdc/favorite_networking_library_okhttp_ktor_retrofit/)
-- [Is there a way to use the android AVD classic engine now?](https://www.reddit.com/r/androiddev/comments/1muqt47/is_there_a_way_to_use_the_android_avd_classic/)
-- [Hey Reddit! Mike, Davis &amp; Travis from Meta here 👋 Join our AMA Aug 27 at 10:30AM PT to talk about running Android apps on Meta Horizon OS and turning them into VR experiences with Meta Spatial SDK. Bring questions, feedback &amp; your stories. We’re here to swap insights and learn from your experience!](https://www.reddit.com/r/androiddev/comments/1mupsgs/hey_reddit_mike_davis_travis_from_meta_here_join/)
-- [Apps ideas.](https://www.reddit.com/r/androiddev/comments/1munzf9/apps_ideas/)
-- [Native apps had a good run, but PWA is the future](https://www.reddit.com/r/androiddev/comments/1mun4yt/native_apps_had_a_good_run_but_pwa_is_the_future/)
+- [Android OS Development](https://www.reddit.com/r/androiddev/comments/1mvrqpd/android_os_development/)
+- [Help me shift from mobile SDET to android developer!](https://www.reddit.com/r/androiddev/comments/1mvqdai/help_me_shift_from_mobile_sdet_to_android/)
+- [How to achieve this effect in compose?](https://www.reddit.com/r/androiddev/comments/1mvjxbp/how_to_achieve_this_effect_in_compose/)
+- [How do I access arsc files ?](https://www.reddit.com/r/androiddev/comments/1mvioig/how_do_i_access_arsc_files/)
+- [I was thinking of creating my play store developers account but I am confused that should I use my own name , or create an imaginary organization under which I can launch apps ?](https://www.reddit.com/r/androiddev/comments/1mvindu/i_was_thinking_of_creating_my_play_store/)
+- [Architecture decision - OkHttp interceptor needs a repository](https://www.reddit.com/r/androiddev/comments/1mvii37/architecture_decision_okhttp_interceptor_needs_a/)
+- [Focus app powered by Compose Multiplatform + RPG mechanics](https://www.reddit.com/r/androiddev/comments/1mvidu4/focus_app_powered_by_compose_multiplatform_rpg/)
+- [How to use and control Lottie animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1mvi7jd/how_to_use_and_control_lottie_animations_in/)
+- [Stedvza-san Podcast | How Firebender was built with three engineers](https://www.reddit.com/r/androiddev/comments/1mvi4jf/stedvzasan_podcast_how_firebender_was_built_with/)
+- [Jetpack Compose : Shared element transitions in across graphs make NavHost recompose and wipe graph state. How to keep Home graph state?](https://www.reddit.com/r/androiddev/comments/1mvegh8/jetpack_compose_shared_element_transitions_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
