@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android OS Development](https://www.reddit.com/r/androiddev/comments/1mvrqpd/android_os_development/)
-- [Help me shift from mobile SDET to android developer!](https://www.reddit.com/r/androiddev/comments/1mvqdai/help_me_shift_from_mobile_sdet_to_android/)
-- [How to achieve this effect in compose?](https://www.reddit.com/r/androiddev/comments/1mvjxbp/how_to_achieve_this_effect_in_compose/)
-- [How do I access arsc files ?](https://www.reddit.com/r/androiddev/comments/1mvioig/how_do_i_access_arsc_files/)
-- [I was thinking of creating my play store developers account but I am confused that should I use my own name , or create an imaginary organization under which I can launch apps ?](https://www.reddit.com/r/androiddev/comments/1mvindu/i_was_thinking_of_creating_my_play_store/)
-- [Architecture decision - OkHttp interceptor needs a repository](https://www.reddit.com/r/androiddev/comments/1mvii37/architecture_decision_okhttp_interceptor_needs_a/)
-- [Focus app powered by Compose Multiplatform + RPG mechanics](https://www.reddit.com/r/androiddev/comments/1mvidu4/focus_app_powered_by_compose_multiplatform_rpg/)
-- [How to use and control Lottie animations in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1mvi7jd/how_to_use_and_control_lottie_animations_in/)
-- [Stedvza-san Podcast | How Firebender was built with three engineers](https://www.reddit.com/r/androiddev/comments/1mvi4jf/stedvzasan_podcast_how_firebender_was_built_with/)
-- [Jetpack Compose : Shared element transitions in across graphs make NavHost recompose and wipe graph state. How to keep Home graph state?](https://www.reddit.com/r/androiddev/comments/1mvegh8/jetpack_compose_shared_element_transitions_in/)
+- [Devices that support rich haptics](https://www.reddit.com/r/androiddev/comments/1mwtvfd/devices_that_support_rich_haptics/)
+- [react-native-feedback-hub](https://www.reddit.com/r/androiddev/comments/1mwpmll/reactnativefeedbackhub/)
+- [64-bit app compatibility for Google TV and Android TV](https://www.reddit.com/r/androiddev/comments/1mwon83/64bit_app_compatibility_for_google_tv_and_android/)
+- [HorizontalPager make all items max height](https://www.reddit.com/r/androiddev/comments/1mwnpjk/horizontalpager_make_all_items_max_height/)
+- [I turned my android into tony&#39;s jarvis, atleast junkie jarvis](https://www.reddit.com/r/androiddev/comments/1mwiqn5/i_turned_my_android_into_tonys_jarvis_atleast/)
+- [🚀 Free App Landing Page Template for Developers &lpar;OPEN SOURCE&rpar;](https://www.reddit.com/r/androiddev/comments/1mwht45/free_app_landing_page_template_for_developers/)
+- [Tag along](https://www.reddit.com/r/androiddev/comments/1mwfcz9/tag_along/)
+- [Mutual app testing - I&#39;ll test yours, you test mine](https://www.reddit.com/r/androiddev/comments/1mwevrk/mutual_app_testing_ill_test_yours_you_test_mine/)
+- [Any non-devs building native android apps using Claude Code?](https://www.reddit.com/r/androiddev/comments/1mwdiv3/any_nondevs_building_native_android_apps_using/)
+- [Why people compare coroutine with thread](https://www.reddit.com/r/androiddev/comments/1mwdhyt/why_people_compare_coroutine_with_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
