@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Devices that support rich haptics](https://www.reddit.com/r/androiddev/comments/1mwtvfd/devices_that_support_rich_haptics/)
-- [react-native-feedback-hub](https://www.reddit.com/r/androiddev/comments/1mwpmll/reactnativefeedbackhub/)
-- [64-bit app compatibility for Google TV and Android TV](https://www.reddit.com/r/androiddev/comments/1mwon83/64bit_app_compatibility_for_google_tv_and_android/)
-- [HorizontalPager make all items max height](https://www.reddit.com/r/androiddev/comments/1mwnpjk/horizontalpager_make_all_items_max_height/)
-- [I turned my android into tony&#39;s jarvis, atleast junkie jarvis](https://www.reddit.com/r/androiddev/comments/1mwiqn5/i_turned_my_android_into_tonys_jarvis_atleast/)
-- [🚀 Free App Landing Page Template for Developers &lpar;OPEN SOURCE&rpar;](https://www.reddit.com/r/androiddev/comments/1mwht45/free_app_landing_page_template_for_developers/)
-- [Tag along](https://www.reddit.com/r/androiddev/comments/1mwfcz9/tag_along/)
-- [Mutual app testing - I&#39;ll test yours, you test mine](https://www.reddit.com/r/androiddev/comments/1mwevrk/mutual_app_testing_ill_test_yours_you_test_mine/)
-- [Any non-devs building native android apps using Claude Code?](https://www.reddit.com/r/androiddev/comments/1mwdiv3/any_nondevs_building_native_android_apps_using/)
-- [Why people compare coroutine with thread](https://www.reddit.com/r/androiddev/comments/1mwdhyt/why_people_compare_coroutine_with_thread/)
+- [Making a custom rom for my S25 Ultra](https://www.reddit.com/r/androiddev/comments/1mxpixm/making_a_custom_rom_for_my_s25_ultra/)
+- [Developers vs Engineers](https://www.reddit.com/r/androiddev/comments/1mxkjtx/developers_vs_engineers/)
+- [Clerk Android SDK Beta](https://www.reddit.com/r/androiddev/comments/1mxgqsl/clerk_android_sdk_beta/)
+- [Is there a way to simulate a corrupt Bluetooth / WiFi stack?](https://www.reddit.com/r/androiddev/comments/1mxeqc4/is_there_a_way_to_simulate_a_corrupt_bluetooth/)
+- [How to start android dev&lpar;what videos/books to use, and etc.&rpar;?](https://www.reddit.com/r/androiddev/comments/1mxcj98/how_to_start_android_devwhat_videosbooks_to_use/)
+- [Did anyone have trouble scheduling alarms on OnePlus/Oppo devices &lpar;OxygenOS, ColorOS&rpar;? How to properly handle it from the dev side?](https://www.reddit.com/r/androiddev/comments/1mxau5c/did_anyone_have_trouble_scheduling_alarms_on/)
+- [Edge-to-Edge Looks Different on API 35 vs API 31](https://www.reddit.com/r/androiddev/comments/1mxagiv/edgetoedge_looks_different_on_api_35_vs_api_31/)
+- [Built my first real Android app in Kotlin workout tracker with some unique ideas, would love your thoughts](https://www.reddit.com/r/androiddev/comments/1mx9v00/built_my_first_real_android_app_in_kotlin_workout/)
+- [Pre-registration on Google Play - Can you add in app purchases after?](https://www.reddit.com/r/androiddev/comments/1mx9u9k/preregistration_on_google_play_can_you_add_in_app/)
+- [Sending SMS between Emulators](https://www.reddit.com/r/androiddev/comments/1mx9o81/sending_sms_between_emulators/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
