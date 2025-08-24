@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Making a custom rom for my S25 Ultra](https://www.reddit.com/r/androiddev/comments/1mxpixm/making_a_custom_rom_for_my_s25_ultra/)
-- [Developers vs Engineers](https://www.reddit.com/r/androiddev/comments/1mxkjtx/developers_vs_engineers/)
-- [Clerk Android SDK Beta](https://www.reddit.com/r/androiddev/comments/1mxgqsl/clerk_android_sdk_beta/)
-- [Is there a way to simulate a corrupt Bluetooth / WiFi stack?](https://www.reddit.com/r/androiddev/comments/1mxeqc4/is_there_a_way_to_simulate_a_corrupt_bluetooth/)
-- [How to start android dev&lpar;what videos/books to use, and etc.&rpar;?](https://www.reddit.com/r/androiddev/comments/1mxcj98/how_to_start_android_devwhat_videosbooks_to_use/)
-- [Did anyone have trouble scheduling alarms on OnePlus/Oppo devices &lpar;OxygenOS, ColorOS&rpar;? How to properly handle it from the dev side?](https://www.reddit.com/r/androiddev/comments/1mxau5c/did_anyone_have_trouble_scheduling_alarms_on/)
-- [Edge-to-Edge Looks Different on API 35 vs API 31](https://www.reddit.com/r/androiddev/comments/1mxagiv/edgetoedge_looks_different_on_api_35_vs_api_31/)
-- [Built my first real Android app in Kotlin workout tracker with some unique ideas, would love your thoughts](https://www.reddit.com/r/androiddev/comments/1mx9v00/built_my_first_real_android_app_in_kotlin_workout/)
-- [Pre-registration on Google Play - Can you add in app purchases after?](https://www.reddit.com/r/androiddev/comments/1mx9u9k/preregistration_on_google_play_can_you_add_in_app/)
-- [Sending SMS between Emulators](https://www.reddit.com/r/androiddev/comments/1mx9o81/sending_sms_between_emulators/)
+- [Question about UI recomposition](https://www.reddit.com/r/androiddev/comments/1myi4uq/question_about_ui_recomposition/)
+- [Just got my app approved by Google and I have zero prior experience. AMA if you need help.](https://www.reddit.com/r/androiddev/comments/1mygtjr/just_got_my_app_approved_by_google_and_i_have/)
+- [We just launched Treat Tracker, a new app to make pet care easier 🐾](https://www.reddit.com/r/androiddev/comments/1my9ec0/we_just_launched_treat_tracker_a_new_app_to_make/)
+- [Do people still code manually, or just use AI models and focus on system design?](https://www.reddit.com/r/androiddev/comments/1my87t3/do_people_still_code_manually_or_just_use_ai/)
+- [I built a “virtual bar” app to cheers with friends &amp; nearby folks — I want it to stay 100% free. How do you keep costs sustainable?](https://www.reddit.com/r/androiddev/comments/1my857z/i_built_a_virtual_bar_app_to_cheers_with_friends/)
+- [REDDIT LIKE APPLICATION](https://www.reddit.com/r/androiddev/comments/1my7gts/reddit_like_application/)
+- [Mutual App Testing – Let’s Test Each Other’s Apps!](https://www.reddit.com/r/androiddev/comments/1my4uj5/mutual_app_testing_lets_test_each_others_apps/)
+- [Jetpack Compose migration](https://www.reddit.com/r/androiddev/comments/1my0uob/jetpack_compose_migration/)
+- [Repeated rejection when moving app from closed test to production – need clarification](https://www.reddit.com/r/androiddev/comments/1mxy9o6/repeated_rejection_when_moving_app_from_closed/)
+- [My app keeps getting rejected by Google Play – need advice](https://www.reddit.com/r/androiddev/comments/1mxxyz9/my_app_keeps_getting_rejected_by_google_play_need/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
