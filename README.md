@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question about UI recomposition](https://www.reddit.com/r/androiddev/comments/1myi4uq/question_about_ui_recomposition/)
-- [Just got my app approved by Google and I have zero prior experience. AMA if you need help.](https://www.reddit.com/r/androiddev/comments/1mygtjr/just_got_my_app_approved_by_google_and_i_have/)
-- [We just launched Treat Tracker, a new app to make pet care easier 🐾](https://www.reddit.com/r/androiddev/comments/1my9ec0/we_just_launched_treat_tracker_a_new_app_to_make/)
-- [Do people still code manually, or just use AI models and focus on system design?](https://www.reddit.com/r/androiddev/comments/1my87t3/do_people_still_code_manually_or_just_use_ai/)
-- [I built a “virtual bar” app to cheers with friends &amp; nearby folks — I want it to stay 100% free. How do you keep costs sustainable?](https://www.reddit.com/r/androiddev/comments/1my857z/i_built_a_virtual_bar_app_to_cheers_with_friends/)
-- [REDDIT LIKE APPLICATION](https://www.reddit.com/r/androiddev/comments/1my7gts/reddit_like_application/)
-- [Mutual App Testing – Let’s Test Each Other’s Apps!](https://www.reddit.com/r/androiddev/comments/1my4uj5/mutual_app_testing_lets_test_each_others_apps/)
-- [Jetpack Compose migration](https://www.reddit.com/r/androiddev/comments/1my0uob/jetpack_compose_migration/)
-- [Repeated rejection when moving app from closed test to production – need clarification](https://www.reddit.com/r/androiddev/comments/1mxy9o6/repeated_rejection_when_moving_app_from_closed/)
-- [My app keeps getting rejected by Google Play – need advice](https://www.reddit.com/r/androiddev/comments/1mxxyz9/my_app_keeps_getting_rejected_by_google_play_need/)
+- [Moving on from Android app development to Java backend stack after 10+ years in Android. Experts suggestions please?](https://www.reddit.com/r/androiddev/comments/1mzdyca/moving_on_from_android_app_development_to_java/)
+- [Pixel 8a won’t show up as ADB device on Windows, only MTP](https://www.reddit.com/r/androiddev/comments/1mza8cp/pixel_8a_wont_show_up_as_adb_device_on_windows/)
+- [How to get into Android dev &amp; and Material UI 3 expressive](https://www.reddit.com/r/androiddev/comments/1mz2x3c/how_to_get_into_android_dev_and_material_ui_3/)
+- [[Library] Compose Shape Fitter – Approximate Shapes from Points in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1mz25ck/library_compose_shape_fitter_approximate_shapes/)
+- [Kotlin Language Documentation 2.2.0 &lpar;Official eBook PDF&rpar;](https://www.reddit.com/r/androiddev/comments/1mz17wj/kotlin_language_documentation_220_official_ebook/)
+- [Gemini integration with my WearOS app standalone](https://www.reddit.com/r/androiddev/comments/1mz11ve/gemini_integration_with_my_wearos_app_standalone/)
+- [Looking for good rich text editor for native android &lpar;java&rpar;](https://www.reddit.com/r/androiddev/comments/1mz0lac/looking_for_good_rich_text_editor_for_native/)
+- [Help regarding android studio.](https://www.reddit.com/r/androiddev/comments/1myxc16/help_regarding_android_studio/)
+- [Is there any scope of Android developer 2025 grad need advice](https://www.reddit.com/r/androiddev/comments/1myu5rn/is_there_any_scope_of_android_developer_2025_grad/)
+- [I dont have Android SDK](https://www.reddit.com/r/androiddev/comments/1myt3kd/i_dont_have_android_sdk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
