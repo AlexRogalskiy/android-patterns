@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Moving on from Android app development to Java backend stack after 10+ years in Android. Experts suggestions please?](https://www.reddit.com/r/androiddev/comments/1mzdyca/moving_on_from_android_app_development_to_java/)
-- [Pixel 8a won’t show up as ADB device on Windows, only MTP](https://www.reddit.com/r/androiddev/comments/1mza8cp/pixel_8a_wont_show_up_as_adb_device_on_windows/)
-- [How to get into Android dev &amp; and Material UI 3 expressive](https://www.reddit.com/r/androiddev/comments/1mz2x3c/how_to_get_into_android_dev_and_material_ui_3/)
-- [[Library] Compose Shape Fitter – Approximate Shapes from Points in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1mz25ck/library_compose_shape_fitter_approximate_shapes/)
-- [Kotlin Language Documentation 2.2.0 &lpar;Official eBook PDF&rpar;](https://www.reddit.com/r/androiddev/comments/1mz17wj/kotlin_language_documentation_220_official_ebook/)
-- [Gemini integration with my WearOS app standalone](https://www.reddit.com/r/androiddev/comments/1mz11ve/gemini_integration_with_my_wearos_app_standalone/)
-- [Looking for good rich text editor for native android &lpar;java&rpar;](https://www.reddit.com/r/androiddev/comments/1mz0lac/looking_for_good_rich_text_editor_for_native/)
-- [Help regarding android studio.](https://www.reddit.com/r/androiddev/comments/1myxc16/help_regarding_android_studio/)
-- [Is there any scope of Android developer 2025 grad need advice](https://www.reddit.com/r/androiddev/comments/1myu5rn/is_there_any_scope_of_android_developer_2025_grad/)
-- [I dont have Android SDK](https://www.reddit.com/r/androiddev/comments/1myt3kd/i_dont_have_android_sdk/)
+- [Adb device connection issue](https://www.reddit.com/r/androiddev/comments/1n06vb2/adb_device_connection_issue/)
+- [Cover Screen Design Wish ✨](https://www.reddit.com/r/androiddev/comments/1n02ega/cover_screen_design_wish/)
+- [Anyone having problem with android emulator stoping handling touches?](https://www.reddit.com/r/androiddev/comments/1n00p82/anyone_having_problem_with_android_emulator/)
+- [Android Work Profile](https://www.reddit.com/r/androiddev/comments/1n001k7/android_work_profile/)
+- [Google play store feature](https://www.reddit.com/r/androiddev/comments/1mzzw0i/google_play_store_feature/)
+- [Introducing otaripper: Fast, safe, and reliable Android OTA partition extractor in Rust](https://www.reddit.com/r/androiddev/comments/1mzx703/introducing_otaripper_fast_safe_and_reliable/)
+- [Update an abandoned open source app](https://www.reddit.com/r/androiddev/comments/1mzx5kz/update_an_abandoned_open_source_app/)
+- [Android Developers Blog: A new layer of security for certified Android devices](https://www.reddit.com/r/androiddev/comments/1mzw877/android_developers_blog_a_new_layer_of_security/)
+- [02 AI App Dev Log:Tech stack selection](https://www.reddit.com/r/androiddev/comments/1mzt5wx/02_ai_app_dev_logtech_stack_selection/)
+- [User created custom notifications not working](https://www.reddit.com/r/androiddev/comments/1mzssci/user_created_custom_notifications_not_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
