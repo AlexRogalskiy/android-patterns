@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Adb device connection issue](https://www.reddit.com/r/androiddev/comments/1n06vb2/adb_device_connection_issue/)
-- [Cover Screen Design Wish ✨](https://www.reddit.com/r/androiddev/comments/1n02ega/cover_screen_design_wish/)
-- [Anyone having problem with android emulator stoping handling touches?](https://www.reddit.com/r/androiddev/comments/1n00p82/anyone_having_problem_with_android_emulator/)
-- [Android Work Profile](https://www.reddit.com/r/androiddev/comments/1n001k7/android_work_profile/)
-- [Google play store feature](https://www.reddit.com/r/androiddev/comments/1mzzw0i/google_play_store_feature/)
-- [Introducing otaripper: Fast, safe, and reliable Android OTA partition extractor in Rust](https://www.reddit.com/r/androiddev/comments/1mzx703/introducing_otaripper_fast_safe_and_reliable/)
-- [Update an abandoned open source app](https://www.reddit.com/r/androiddev/comments/1mzx5kz/update_an_abandoned_open_source_app/)
-- [Android Developers Blog: A new layer of security for certified Android devices](https://www.reddit.com/r/androiddev/comments/1mzw877/android_developers_blog_a_new_layer_of_security/)
-- [02 AI App Dev Log:Tech stack selection](https://www.reddit.com/r/androiddev/comments/1mzt5wx/02_ai_app_dev_logtech_stack_selection/)
-- [User created custom notifications not working](https://www.reddit.com/r/androiddev/comments/1mzssci/user_created_custom_notifications_not_working/)
+- [Developing a browser with uniform html5 player](https://www.reddit.com/r/androiddev/comments/1n1417p/developing_a_browser_with_uniform_html5_player/)
+- [Chinese smartwatch for development.](https://www.reddit.com/r/androiddev/comments/1n12a2m/chinese_smartwatch_for_development/)
+- [Help me with disable forced auto-update](https://www.reddit.com/r/androiddev/comments/1n11ttx/help_me_with_disable_forced_autoupdate/)
+- [Android studio upgrading issue.](https://www.reddit.com/r/androiddev/comments/1n11k3m/android_studio_upgrading_issue/)
+- [Anyone else dealing with Google Play’s public info requirement?](https://www.reddit.com/r/androiddev/comments/1n10kvk/anyone_else_dealing_with_google_plays_public_info/)
+- [Just received this email. Now you can get potentially banned for developing on Android as a whole! Yay!](https://www.reddit.com/r/androiddev/comments/1n0uy6g/just_received_this_email_now_you_can_get/)
+- [A Paper on Google Play’s Closed Testing Requirements for New Personal Developer Accounts](https://www.reddit.com/r/androiddev/comments/1n0uklt/a_paper_on_google_plays_closed_testing/)
+- [How Can I read Obfuscated java apk code](https://www.reddit.com/r/androiddev/comments/1n0u2qq/how_can_i_read_obfuscated_java_apk_code/)
+- [I built the first background coding agent in Android Studio](https://www.reddit.com/r/androiddev/comments/1n0ro2j/i_built_the_first_background_coding_agent_in/)
+- [Help me](https://www.reddit.com/r/androiddev/comments/1n0rmhn/help_me/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
