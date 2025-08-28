@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Developing a browser with uniform html5 player](https://www.reddit.com/r/androiddev/comments/1n1417p/developing_a_browser_with_uniform_html5_player/)
-- [Chinese smartwatch for development.](https://www.reddit.com/r/androiddev/comments/1n12a2m/chinese_smartwatch_for_development/)
-- [Help me with disable forced auto-update](https://www.reddit.com/r/androiddev/comments/1n11ttx/help_me_with_disable_forced_autoupdate/)
-- [Android studio upgrading issue.](https://www.reddit.com/r/androiddev/comments/1n11k3m/android_studio_upgrading_issue/)
-- [Anyone else dealing with Google Play’s public info requirement?](https://www.reddit.com/r/androiddev/comments/1n10kvk/anyone_else_dealing_with_google_plays_public_info/)
-- [Just received this email. Now you can get potentially banned for developing on Android as a whole! Yay!](https://www.reddit.com/r/androiddev/comments/1n0uy6g/just_received_this_email_now_you_can_get/)
-- [A Paper on Google Play’s Closed Testing Requirements for New Personal Developer Accounts](https://www.reddit.com/r/androiddev/comments/1n0uklt/a_paper_on_google_plays_closed_testing/)
-- [How Can I read Obfuscated java apk code](https://www.reddit.com/r/androiddev/comments/1n0u2qq/how_can_i_read_obfuscated_java_apk_code/)
-- [I built the first background coding agent in Android Studio](https://www.reddit.com/r/androiddev/comments/1n0ro2j/i_built_the_first_background_coding_agent_in/)
-- [Help me](https://www.reddit.com/r/androiddev/comments/1n0rmhn/help_me/)
+- [Push notifications behave differently in foreground vs background](https://www.reddit.com/r/androiddev/comments/1n1xmzg/push_notifications_behave_differently_in/)
+- [Internal Beta Testing Calculator &lpar;Beta Teste Interno Calculadora&rpar;](https://www.reddit.com/r/androiddev/comments/1n1w52v/internal_beta_testing_calculator_beta_teste/)
+- [Where best to look for a solution to update an old abandoned keyboard?](https://www.reddit.com/r/androiddev/comments/1n1v2ld/where_best_to_look_for_a_solution_to_update_an/)
+- [If else or ifTrue? What would you use?](https://www.reddit.com/r/androiddev/comments/1n1tqdn/if_else_or_iftrue_what_would_you_use/)
+- [Integrate media app with Google Assistant/Gemini](https://www.reddit.com/r/androiddev/comments/1n1rin6/integrate_media_app_with_google_assistantgemini/)
+- [Looking for an App Developer for both android and iOS](https://www.reddit.com/r/androiddev/comments/1n1o2vd/looking_for_an_app_developer_for_both_android_and/)
+- [I made a petition to stop google from limiting APKs](https://www.reddit.com/r/androiddev/comments/1n1nnyv/i_made_a_petition_to_stop_google_from_limiting/)
+- [I was TERMINATED from Google Play Dev for no reason at all. #FreeMatt #IndieDevRights #MattClickerLives #GooglePlayUnfairBan](https://www.reddit.com/r/androiddev/comments/1n1mfnp/i_was_terminated_from_google_play_dev_for_no/)
+- [Horrible News!](https://www.reddit.com/r/androiddev/comments/1n1m699/horrible_news/)
+- [Lessons from building and publishing my first spinner app on Google Play](https://www.reddit.com/r/androiddev/comments/1n1lw4f/lessons_from_building_and_publishing_my_first/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
