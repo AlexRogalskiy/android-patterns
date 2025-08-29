@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Push notifications behave differently in foreground vs background](https://www.reddit.com/r/androiddev/comments/1n1xmzg/push_notifications_behave_differently_in/)
-- [Internal Beta Testing Calculator &lpar;Beta Teste Interno Calculadora&rpar;](https://www.reddit.com/r/androiddev/comments/1n1w52v/internal_beta_testing_calculator_beta_teste/)
-- [Where best to look for a solution to update an old abandoned keyboard?](https://www.reddit.com/r/androiddev/comments/1n1v2ld/where_best_to_look_for_a_solution_to_update_an/)
-- [If else or ifTrue? What would you use?](https://www.reddit.com/r/androiddev/comments/1n1tqdn/if_else_or_iftrue_what_would_you_use/)
-- [Integrate media app with Google Assistant/Gemini](https://www.reddit.com/r/androiddev/comments/1n1rin6/integrate_media_app_with_google_assistantgemini/)
-- [Looking for an App Developer for both android and iOS](https://www.reddit.com/r/androiddev/comments/1n1o2vd/looking_for_an_app_developer_for_both_android_and/)
-- [I made a petition to stop google from limiting APKs](https://www.reddit.com/r/androiddev/comments/1n1nnyv/i_made_a_petition_to_stop_google_from_limiting/)
-- [I was TERMINATED from Google Play Dev for no reason at all. #FreeMatt #IndieDevRights #MattClickerLives #GooglePlayUnfairBan](https://www.reddit.com/r/androiddev/comments/1n1mfnp/i_was_terminated_from_google_play_dev_for_no/)
-- [Horrible News!](https://www.reddit.com/r/androiddev/comments/1n1m699/horrible_news/)
-- [Lessons from building and publishing my first spinner app on Google Play](https://www.reddit.com/r/androiddev/comments/1n1lw4f/lessons_from_building_and_publishing_my_first/)
+- [According to the last news, is it the time to change phones from android?](https://www.reddit.com/r/androiddev/comments/1n2und7/according_to_the_last_news_is_it_the_time_to/)
+- [2nd chance on Google Play Console](https://www.reddit.com/r/androiddev/comments/1n2noia/2nd_chance_on_google_play_console/)
+- [[Release] Photo2Calendar now on Android – turning screenshots into calendar events](https://www.reddit.com/r/androiddev/comments/1n2nk28/release_photo2calendar_now_on_android_turning/)
+- [I made an app to store all your recipes in one place](https://www.reddit.com/r/androiddev/comments/1n2mdqc/i_made_an_app_to_store_all_your_recipes_in_one/)
+- [I published my first app on play store](https://www.reddit.com/r/androiddev/comments/1n2j2bc/i_published_my_first_app_on_play_store/)
+- [This may mark the end of Android development for me](https://www.reddit.com/r/androiddev/comments/1n2im4j/this_may_mark_the_end_of_android_development_for/)
+- [3 unique predictive back animations you can create with the navigation events library](https://www.reddit.com/r/androiddev/comments/1n2icoh/3_unique_predictive_back_animations_you_can/)
+- [Stereo Vision With Smartphone](https://www.reddit.com/r/androiddev/comments/1n2h5n8/stereo_vision_with_smartphone/)
+- [Google Pushes new updates every so often, and threatens developers with deleting their apps if they don&#39;t update. What if I die? What will happen to my apps?](https://www.reddit.com/r/androiddev/comments/1n2gzoq/google_pushes_new_updates_every_so_often_and/)
+- [What the hell are we supposed to do for dimensions in compose?](https://www.reddit.com/r/androiddev/comments/1n2forq/what_the_hell_are_we_supposed_to_do_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
