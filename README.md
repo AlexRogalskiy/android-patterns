@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [According to the last news, is it the time to change phones from android?](https://www.reddit.com/r/androiddev/comments/1n2und7/according_to_the_last_news_is_it_the_time_to/)
-- [2nd chance on Google Play Console](https://www.reddit.com/r/androiddev/comments/1n2noia/2nd_chance_on_google_play_console/)
-- [[Release] Photo2Calendar now on Android – turning screenshots into calendar events](https://www.reddit.com/r/androiddev/comments/1n2nk28/release_photo2calendar_now_on_android_turning/)
-- [I made an app to store all your recipes in one place](https://www.reddit.com/r/androiddev/comments/1n2mdqc/i_made_an_app_to_store_all_your_recipes_in_one/)
-- [I published my first app on play store](https://www.reddit.com/r/androiddev/comments/1n2j2bc/i_published_my_first_app_on_play_store/)
-- [This may mark the end of Android development for me](https://www.reddit.com/r/androiddev/comments/1n2im4j/this_may_mark_the_end_of_android_development_for/)
-- [3 unique predictive back animations you can create with the navigation events library](https://www.reddit.com/r/androiddev/comments/1n2icoh/3_unique_predictive_back_animations_you_can/)
-- [Stereo Vision With Smartphone](https://www.reddit.com/r/androiddev/comments/1n2h5n8/stereo_vision_with_smartphone/)
-- [Google Pushes new updates every so often, and threatens developers with deleting their apps if they don&#39;t update. What if I die? What will happen to my apps?](https://www.reddit.com/r/androiddev/comments/1n2gzoq/google_pushes_new_updates_every_so_often_and/)
-- [What the hell are we supposed to do for dimensions in compose?](https://www.reddit.com/r/androiddev/comments/1n2forq/what_the_hell_are_we_supposed_to_do_for/)
+- [Built curbside pickup that works automatically without customer input](https://www.reddit.com/r/androiddev/comments/1n4iglo/built_curbside_pickup_that_works_automatically/)
+- [FRP Bypass HELP &lpar;Screen locks immediately after unlocking, and resets itself after so many attempts to unlock&rpar;](https://www.reddit.com/r/androiddev/comments/1n4ec4y/frp_bypass_help_screen_locks_immediately_after/)
+- [Growth options after starting as an Android Developer](https://www.reddit.com/r/androiddev/comments/1n4dcul/growth_options_after_starting_as_an_android/)
+- [Where are the Google engineers who work on Android?](https://www.reddit.com/r/androiddev/comments/1n4cd1g/where_are_the_google_engineers_who_work_on_android/)
+- [Corporations are the new police! - Google wants to verify the identity of all developers who distribute apps on Android, even if it&#39;s outside the Play Store](https://www.reddit.com/r/androiddev/comments/1n496xr/corporations_are_the_new_police_google_wants_to/)
+- [A.S says: &quot;The device may not have sufficient computing power&quot;](https://www.reddit.com/r/androiddev/comments/1n452bg/as_says_the_device_may_not_have_sufficient/)
+- [I have a question about sideloading future and Google](https://www.reddit.com/r/androiddev/comments/1n43mrk/i_have_a_question_about_sideloading_future_and/)
+- [Compilar apk](https://www.reddit.com/r/androiddev/comments/1n41a9p/compilar_apk/)
+- [Neumorphic Android UI for Real-Estate App—Feasible &amp; Usable?](https://www.reddit.com/r/androiddev/comments/1n4069k/neumorphic_android_ui_for_realestate_appfeasible/)
+- [I miss the days that we only care about the app performance and adding new features to our apps.](https://www.reddit.com/r/androiddev/comments/1n3yw3f/i_miss_the_days_that_we_only_care_about_the_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
