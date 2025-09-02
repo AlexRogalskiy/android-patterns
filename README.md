@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Built curbside pickup that works automatically without customer input](https://www.reddit.com/r/androiddev/comments/1n4iglo/built_curbside_pickup_that_works_automatically/)
-- [FRP Bypass HELP &lpar;Screen locks immediately after unlocking, and resets itself after so many attempts to unlock&rpar;](https://www.reddit.com/r/androiddev/comments/1n4ec4y/frp_bypass_help_screen_locks_immediately_after/)
-- [Growth options after starting as an Android Developer](https://www.reddit.com/r/androiddev/comments/1n4dcul/growth_options_after_starting_as_an_android/)
-- [Where are the Google engineers who work on Android?](https://www.reddit.com/r/androiddev/comments/1n4cd1g/where_are_the_google_engineers_who_work_on_android/)
-- [Corporations are the new police! - Google wants to verify the identity of all developers who distribute apps on Android, even if it&#39;s outside the Play Store](https://www.reddit.com/r/androiddev/comments/1n496xr/corporations_are_the_new_police_google_wants_to/)
-- [A.S says: &quot;The device may not have sufficient computing power&quot;](https://www.reddit.com/r/androiddev/comments/1n452bg/as_says_the_device_may_not_have_sufficient/)
-- [I have a question about sideloading future and Google](https://www.reddit.com/r/androiddev/comments/1n43mrk/i_have_a_question_about_sideloading_future_and/)
-- [Compilar apk](https://www.reddit.com/r/androiddev/comments/1n41a9p/compilar_apk/)
-- [Neumorphic Android UI for Real-Estate App—Feasible &amp; Usable?](https://www.reddit.com/r/androiddev/comments/1n4069k/neumorphic_android_ui_for_realestate_appfeasible/)
-- [I miss the days that we only care about the app performance and adding new features to our apps.](https://www.reddit.com/r/androiddev/comments/1n3yw3f/i_miss_the_days_that_we_only_care_about_the_app/)
+- [How To Shutdown Locked Device?](https://www.reddit.com/r/androiddev/comments/1n66kzx/how_to_shutdown_locked_device/)
+- [App Suspended No Clue Why](https://www.reddit.com/r/androiddev/comments/1n62anw/app_suspended_no_clue_why/)
+- [Suggested setup for Claude Code from mobile?](https://www.reddit.com/r/androiddev/comments/1n617qm/suggested_setup_for_claude_code_from_mobile/)
+- [I built a Gradle task that automatically translates your strings.xml into multiple languages](https://www.reddit.com/r/androiddev/comments/1n60lax/i_built_a_gradle_task_that_automatically/)
+- [Best Play Store alternatives for publishing Android apps?](https://www.reddit.com/r/androiddev/comments/1n5xd41/best_play_store_alternatives_for_publishing/)
+- [Merchant Account Setup](https://www.reddit.com/r/androiddev/comments/1n5vbd3/merchant_account_setup/)
+- [Building OpenCV 4.12 for Android from Source &lpar;with Extra Modules and 16KB Page Size Support&rpar;](https://www.reddit.com/r/androiddev/comments/1n5uzsl/building_opencv_412_for_android_from_source_with/)
+- [Fast Play Console app approval times](https://www.reddit.com/r/androiddev/comments/1n5uaco/fast_play_console_app_approval_times/)
+- [Why google is killing individuals android dev](https://www.reddit.com/r/androiddev/comments/1n5sype/why_google_is_killing_individuals_android_dev/)
+- [Does the 14-days closed testing requirements apply for every new app?](https://www.reddit.com/r/androiddev/comments/1n5r3bg/does_the_14days_closed_testing_requirements_apply/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
