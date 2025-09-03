@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How To Shutdown Locked Device?](https://www.reddit.com/r/androiddev/comments/1n66kzx/how_to_shutdown_locked_device/)
-- [App Suspended No Clue Why](https://www.reddit.com/r/androiddev/comments/1n62anw/app_suspended_no_clue_why/)
-- [Suggested setup for Claude Code from mobile?](https://www.reddit.com/r/androiddev/comments/1n617qm/suggested_setup_for_claude_code_from_mobile/)
-- [I built a Gradle task that automatically translates your strings.xml into multiple languages](https://www.reddit.com/r/androiddev/comments/1n60lax/i_built_a_gradle_task_that_automatically/)
-- [Best Play Store alternatives for publishing Android apps?](https://www.reddit.com/r/androiddev/comments/1n5xd41/best_play_store_alternatives_for_publishing/)
-- [Merchant Account Setup](https://www.reddit.com/r/androiddev/comments/1n5vbd3/merchant_account_setup/)
-- [Building OpenCV 4.12 for Android from Source &lpar;with Extra Modules and 16KB Page Size Support&rpar;](https://www.reddit.com/r/androiddev/comments/1n5uzsl/building_opencv_412_for_android_from_source_with/)
-- [Fast Play Console app approval times](https://www.reddit.com/r/androiddev/comments/1n5uaco/fast_play_console_app_approval_times/)
-- [Why google is killing individuals android dev](https://www.reddit.com/r/androiddev/comments/1n5sype/why_google_is_killing_individuals_android_dev/)
-- [Does the 14-days closed testing requirements apply for every new app?](https://www.reddit.com/r/androiddev/comments/1n5r3bg/does_the_14days_closed_testing_requirements_apply/)
+- [Fashion AI application - Test for Test](https://www.reddit.com/r/androiddev/comments/1n6z41c/fashion_ai_application_test_for_test/)
+- [What kind of bug is this?](https://www.reddit.com/r/androiddev/comments/1n6yw8a/what_kind_of_bug_is_this/)
+- [Mobile App Developer Interview: iOS vs Android Deep Dive](https://www.reddit.com/r/androiddev/comments/1n6wl96/mobile_app_developer_interview_ios_vs_android/)
+- [How long did it take you to get proficient in Android Development?](https://www.reddit.com/r/androiddev/comments/1n6u7x2/how_long_did_it_take_you_to_get_proficient_in/)
+- [Lets help each test our apps](https://www.reddit.com/r/androiddev/comments/1n6sivb/lets_help_each_test_our_apps/)
+- [Publishing My First App - NutrifyAi - Looking for Feedbacks](https://www.reddit.com/r/androiddev/comments/1n6rmoy/publishing_my_first_app_nutrifyai_looking_for/)
+- [Is there any way to remove a header created by WebView?](https://www.reddit.com/r/androiddev/comments/1n6piyk/is_there_any_way_to_remove_a_header_created_by/)
+- [free, open-source file scanner](https://www.reddit.com/r/androiddev/comments/1n6n9n0/free_opensource_file_scanner/)
+- [Can someone help me lower the SDK level of the MATVT app or a similar app?](https://www.reddit.com/r/androiddev/comments/1n6n82n/can_someone_help_me_lower_the_sdk_level_of_the/)
+- [Strange Behaviour of com.facebook.android:facebook-login](https://www.reddit.com/r/androiddev/comments/1n6lmwh/strange_behaviour_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
