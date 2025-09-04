@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fashion AI application - Test for Test](https://www.reddit.com/r/androiddev/comments/1n6z41c/fashion_ai_application_test_for_test/)
-- [What kind of bug is this?](https://www.reddit.com/r/androiddev/comments/1n6yw8a/what_kind_of_bug_is_this/)
-- [Mobile App Developer Interview: iOS vs Android Deep Dive](https://www.reddit.com/r/androiddev/comments/1n6wl96/mobile_app_developer_interview_ios_vs_android/)
-- [How long did it take you to get proficient in Android Development?](https://www.reddit.com/r/androiddev/comments/1n6u7x2/how_long_did_it_take_you_to_get_proficient_in/)
-- [Lets help each test our apps](https://www.reddit.com/r/androiddev/comments/1n6sivb/lets_help_each_test_our_apps/)
-- [Publishing My First App - NutrifyAi - Looking for Feedbacks](https://www.reddit.com/r/androiddev/comments/1n6rmoy/publishing_my_first_app_nutrifyai_looking_for/)
-- [Is there any way to remove a header created by WebView?](https://www.reddit.com/r/androiddev/comments/1n6piyk/is_there_any_way_to_remove_a_header_created_by/)
-- [free, open-source file scanner](https://www.reddit.com/r/androiddev/comments/1n6n9n0/free_opensource_file_scanner/)
-- [Can someone help me lower the SDK level of the MATVT app or a similar app?](https://www.reddit.com/r/androiddev/comments/1n6n82n/can_someone_help_me_lower_the_sdk_level_of_the/)
-- [Strange Behaviour of com.facebook.android:facebook-login](https://www.reddit.com/r/androiddev/comments/1n6lmwh/strange_behaviour_of/)
+- [Roast my first game please :&rpar;](https://www.reddit.com/r/androiddev/comments/1n7xuue/roast_my_first_game_please/)
+- [What happened to this version of the status bar &lpar;Android 15 beta&rpar;? We got an upgraded version of this in Android 16 now?](https://www.reddit.com/r/androiddev/comments/1n7tlj0/what_happened_to_this_version_of_the_status_bar/)
+- [[Help] Genymotion emulator stuck on black screen on Fedora 42](https://www.reddit.com/r/androiddev/comments/1n7qv86/help_genymotion_emulator_stuck_on_black_screen_on/)
+- [#android 16 material 3 expressive got it](https://www.reddit.com/r/androiddev/comments/1n7nw50/android_16_material_3_expressive_got_it/)
+- [Android Studio Narwhal 3 Feature Drop: Resizable Compose Preview, monthly releases and smarter AI](https://www.reddit.com/r/androiddev/comments/1n7npvr/android_studio_narwhal_3_feature_drop_resizable/)
+- [I wrote about how I made a big side income from Jetpack Compose: My journey](https://www.reddit.com/r/androiddev/comments/1n7n4fl/i_wrote_about_how_i_made_a_big_side_income_from/)
+- [Jetpack compose type-safe routes error](https://www.reddit.com/r/androiddev/comments/1n7l8b6/jetpack_compose_typesafe_routes_error/)
+- [What&#39;s the realistic expectation of downloads for a new app growing organically?](https://www.reddit.com/r/androiddev/comments/1n7kq3g/whats_the_realistic_expectation_of_downloads_for/)
+- [I’m officially done with Google Play’s ridiculous process.](https://www.reddit.com/r/androiddev/comments/1n7jeyq/im_officially_done_with_google_plays_ridiculous/)
+- [My Google Developer account was closed for inactivity, can I do something about it?](https://www.reddit.com/r/androiddev/comments/1n7j19x/my_google_developer_account_was_closed_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
