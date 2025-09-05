@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Roast my first game please :&rpar;](https://www.reddit.com/r/androiddev/comments/1n7xuue/roast_my_first_game_please/)
-- [What happened to this version of the status bar &lpar;Android 15 beta&rpar;? We got an upgraded version of this in Android 16 now?](https://www.reddit.com/r/androiddev/comments/1n7tlj0/what_happened_to_this_version_of_the_status_bar/)
-- [[Help] Genymotion emulator stuck on black screen on Fedora 42](https://www.reddit.com/r/androiddev/comments/1n7qv86/help_genymotion_emulator_stuck_on_black_screen_on/)
-- [#android 16 material 3 expressive got it](https://www.reddit.com/r/androiddev/comments/1n7nw50/android_16_material_3_expressive_got_it/)
-- [Android Studio Narwhal 3 Feature Drop: Resizable Compose Preview, monthly releases and smarter AI](https://www.reddit.com/r/androiddev/comments/1n7npvr/android_studio_narwhal_3_feature_drop_resizable/)
-- [I wrote about how I made a big side income from Jetpack Compose: My journey](https://www.reddit.com/r/androiddev/comments/1n7n4fl/i_wrote_about_how_i_made_a_big_side_income_from/)
-- [Jetpack compose type-safe routes error](https://www.reddit.com/r/androiddev/comments/1n7l8b6/jetpack_compose_typesafe_routes_error/)
-- [What&#39;s the realistic expectation of downloads for a new app growing organically?](https://www.reddit.com/r/androiddev/comments/1n7kq3g/whats_the_realistic_expectation_of_downloads_for/)
-- [I’m officially done with Google Play’s ridiculous process.](https://www.reddit.com/r/androiddev/comments/1n7jeyq/im_officially_done_with_google_plays_ridiculous/)
-- [My Google Developer account was closed for inactivity, can I do something about it?](https://www.reddit.com/r/androiddev/comments/1n7j19x/my_google_developer_account_was_closed_for/)
+- [Fashion AI application - Test for Test](https://www.reddit.com/r/androiddev/comments/1n8pvs5/fashion_ai_application_test_for_test/)
+- [MovieSphere - A movie discovery app with a Gemini-powered AI chatbot](https://www.reddit.com/r/androiddev/comments/1n8npac/moviesphere_a_movie_discovery_app_with_a/)
+- [Can I convert my Google Play Individual account to Organization, or do I still need to create a new account?](https://www.reddit.com/r/androiddev/comments/1n8n4gv/can_i_convert_my_google_play_individual_account/)
+- [Internal testing loop with Advertising ID on Android 13](https://www.reddit.com/r/androiddev/comments/1n8mv51/internal_testing_loop_with_advertising_id_on/)
+- [Perplexity Pro 1 Year Subscription $10](https://www.reddit.com/r/androiddev/comments/1n8lcom/perplexity_pro_1_year_subscription_10/)
+- [For beginners android developers](https://www.reddit.com/r/androiddev/comments/1n8lbfz/for_beginners_android_developers/)
+- [On the structural problems which prevent Android from being responsive to developers and users &lpar;Sept 3, 2025&rpar;](https://www.reddit.com/r/androiddev/comments/1n8jp6g/on_the_structural_problems_which_prevent_android/)
+- [You want to promote your game/app?](https://www.reddit.com/r/androiddev/comments/1n8jixf/you_want_to_promote_your_gameapp/)
+- [Android Studio Narwhal 4 Feature Drop | 2025.1.4 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1n8fqno/android_studio_narwhal_4_feature_drop_202514/)
+- [Need Advice: Creating Google Play Dev Account as a Foreign Student &lpar;Bangladeshi in Malaysia&rpar;](https://www.reddit.com/r/androiddev/comments/1n8emjf/need_advice_creating_google_play_dev_account_as_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
