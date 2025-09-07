@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fashion AI application - Test for Test](https://www.reddit.com/r/androiddev/comments/1n8pvs5/fashion_ai_application_test_for_test/)
-- [MovieSphere - A movie discovery app with a Gemini-powered AI chatbot](https://www.reddit.com/r/androiddev/comments/1n8npac/moviesphere_a_movie_discovery_app_with_a/)
-- [Can I convert my Google Play Individual account to Organization, or do I still need to create a new account?](https://www.reddit.com/r/androiddev/comments/1n8n4gv/can_i_convert_my_google_play_individual_account/)
-- [Internal testing loop with Advertising ID on Android 13](https://www.reddit.com/r/androiddev/comments/1n8mv51/internal_testing_loop_with_advertising_id_on/)
-- [Perplexity Pro 1 Year Subscription $10](https://www.reddit.com/r/androiddev/comments/1n8lcom/perplexity_pro_1_year_subscription_10/)
-- [For beginners android developers](https://www.reddit.com/r/androiddev/comments/1n8lbfz/for_beginners_android_developers/)
-- [On the structural problems which prevent Android from being responsive to developers and users &lpar;Sept 3, 2025&rpar;](https://www.reddit.com/r/androiddev/comments/1n8jp6g/on_the_structural_problems_which_prevent_android/)
-- [You want to promote your game/app?](https://www.reddit.com/r/androiddev/comments/1n8jixf/you_want_to_promote_your_gameapp/)
-- [Android Studio Narwhal 4 Feature Drop | 2025.1.4 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1n8fqno/android_studio_narwhal_4_feature_drop_202514/)
-- [Need Advice: Creating Google Play Dev Account as a Foreign Student &lpar;Bangladeshi in Malaysia&rpar;](https://www.reddit.com/r/androiddev/comments/1n8emjf/need_advice_creating_google_play_dev_account_as_a/)
+- [Meta software engineer, Android interview experience waiting for the result](https://www.reddit.com/r/androiddev/comments/1nagu91/meta_software_engineer_android_interview/)
+- [General advice nowadays on structure of data class communicating back to View?](https://www.reddit.com/r/androiddev/comments/1nagt59/general_advice_nowadays_on_structure_of_data/)
+- [Time to migrate to HarmonyOS or time to recover Custom ROMs?](https://www.reddit.com/r/androiddev/comments/1nagcmn/time_to_migrate_to_harmonyos_or_time_to_recover/)
+- [Videri Spark 3 &lpar;Android 12 / RK3588 Digital Signage Display&rpar; Put in recovery mode...But now im stuck](https://www.reddit.com/r/androiddev/comments/1naflcv/videri_spark_3_android_12_rk3588_digital_signage/)
+- [My app I built for my companies MDM got flagged and i need to find out what caused it to be flagged exactly](https://www.reddit.com/r/androiddev/comments/1nadi12/my_app_i_built_for_my_companies_mdm_got_flagged/)
+- [cold-start on 1:1 matching. what would you ship first?](https://www.reddit.com/r/androiddev/comments/1nacllo/coldstart_on_11_matching_what_would_you_ship_first/)
+- [Why is it so difficult..](https://www.reddit.com/r/androiddev/comments/1nab9fk/why_is_it_so_difficult/)
+- [[SOLVED] Android Emulator – “The emulator process has terminated”](https://www.reddit.com/r/androiddev/comments/1na9p7m/solved_android_emulator_the_emulator_process_has/)
+- [Any UI components library with Jetpack Compose ?](https://www.reddit.com/r/androiddev/comments/1na47ba/any_ui_components_library_with_jetpack_compose/)
+- [Video delay](https://www.reddit.com/r/androiddev/comments/1na32l1/video_delay/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
