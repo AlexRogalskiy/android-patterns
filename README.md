@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Meta software engineer, Android interview experience waiting for the result](https://www.reddit.com/r/androiddev/comments/1nagu91/meta_software_engineer_android_interview/)
-- [General advice nowadays on structure of data class communicating back to View?](https://www.reddit.com/r/androiddev/comments/1nagt59/general_advice_nowadays_on_structure_of_data/)
-- [Time to migrate to HarmonyOS or time to recover Custom ROMs?](https://www.reddit.com/r/androiddev/comments/1nagcmn/time_to_migrate_to_harmonyos_or_time_to_recover/)
-- [Videri Spark 3 &lpar;Android 12 / RK3588 Digital Signage Display&rpar; Put in recovery mode...But now im stuck](https://www.reddit.com/r/androiddev/comments/1naflcv/videri_spark_3_android_12_rk3588_digital_signage/)
-- [My app I built for my companies MDM got flagged and i need to find out what caused it to be flagged exactly](https://www.reddit.com/r/androiddev/comments/1nadi12/my_app_i_built_for_my_companies_mdm_got_flagged/)
-- [cold-start on 1:1 matching. what would you ship first?](https://www.reddit.com/r/androiddev/comments/1nacllo/coldstart_on_11_matching_what_would_you_ship_first/)
-- [Why is it so difficult..](https://www.reddit.com/r/androiddev/comments/1nab9fk/why_is_it_so_difficult/)
-- [[SOLVED] Android Emulator – “The emulator process has terminated”](https://www.reddit.com/r/androiddev/comments/1na9p7m/solved_android_emulator_the_emulator_process_has/)
-- [Any UI components library with Jetpack Compose ?](https://www.reddit.com/r/androiddev/comments/1na47ba/any_ui_components_library_with_jetpack_compose/)
-- [Video delay](https://www.reddit.com/r/androiddev/comments/1na32l1/video_delay/)
+- [How to get started with KMP](https://www.reddit.com/r/androiddev/comments/1nbb3no/how_to_get_started_with_kmp/)
+- [Yikes! APK error received but not using APK files! Please help!](https://www.reddit.com/r/androiddev/comments/1nb9xzw/yikes_apk_error_received_but_not_using_apk_files/)
+- [Max heap size on average / above-average phones ?](https://www.reddit.com/r/androiddev/comments/1nb6b9d/max_heap_size_on_average_aboveaverage_phones/)
+- [Graphene developer calls out Google for their recent actions](https://www.reddit.com/r/androiddev/comments/1nb1yss/graphene_developer_calls_out_google_for_their/)
+- [i build a open source video calling lib for android](https://www.reddit.com/r/androiddev/comments/1nb05ix/i_build_a_open_source_video_calling_lib_for/)
+- [RoomDatabase has no method &quot;runInTransaction&quot; on desktop](https://www.reddit.com/r/androiddev/comments/1nawrik/roomdatabase_has_no_method_runintransaction_on/)
+- [Which SD processors should be capable of Android Terminal in the future?](https://www.reddit.com/r/androiddev/comments/1nav814/which_sd_processors_should_be_capable_of_android/)
+- [traditional android java/kotlin+XML vs kotlin jetpack compose](https://www.reddit.com/r/androiddev/comments/1nauh7f/traditional_android_javakotlinxml_vs_kotlin/)
+- [Why does building simple SQLite forms in Android still feel so painful? How I tryed to resolve it](https://www.reddit.com/r/androiddev/comments/1naqt6r/why_does_building_simple_sqlite_forms_in_android/)
+- [Junior Android Dev Overwhelmed by Huge Codebase — Am I Alone?](https://www.reddit.com/r/androiddev/comments/1naqmji/junior_android_dev_overwhelmed_by_huge_codebase/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
