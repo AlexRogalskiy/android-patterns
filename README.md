@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to get started with KMP](https://www.reddit.com/r/androiddev/comments/1nbb3no/how_to_get_started_with_kmp/)
-- [Yikes! APK error received but not using APK files! Please help!](https://www.reddit.com/r/androiddev/comments/1nb9xzw/yikes_apk_error_received_but_not_using_apk_files/)
-- [Max heap size on average / above-average phones ?](https://www.reddit.com/r/androiddev/comments/1nb6b9d/max_heap_size_on_average_aboveaverage_phones/)
-- [Graphene developer calls out Google for their recent actions](https://www.reddit.com/r/androiddev/comments/1nb1yss/graphene_developer_calls_out_google_for_their/)
-- [i build a open source video calling lib for android](https://www.reddit.com/r/androiddev/comments/1nb05ix/i_build_a_open_source_video_calling_lib_for/)
-- [RoomDatabase has no method &quot;runInTransaction&quot; on desktop](https://www.reddit.com/r/androiddev/comments/1nawrik/roomdatabase_has_no_method_runintransaction_on/)
-- [Which SD processors should be capable of Android Terminal in the future?](https://www.reddit.com/r/androiddev/comments/1nav814/which_sd_processors_should_be_capable_of_android/)
-- [traditional android java/kotlin+XML vs kotlin jetpack compose](https://www.reddit.com/r/androiddev/comments/1nauh7f/traditional_android_javakotlinxml_vs_kotlin/)
-- [Why does building simple SQLite forms in Android still feel so painful? How I tryed to resolve it](https://www.reddit.com/r/androiddev/comments/1naqt6r/why_does_building_simple_sqlite_forms_in_android/)
-- [Junior Android Dev Overwhelmed by Huge Codebase — Am I Alone?](https://www.reddit.com/r/androiddev/comments/1naqmji/junior_android_dev_overwhelmed_by_huge_codebase/)
+- [App idea , social media ai choose main content](https://www.reddit.com/r/androiddev/comments/1nc5foa/app_idea_social_media_ai_choose_main_content/)
+- [A Gradle Plugin to Help You Add 16KB Page Support in Google Play Easily 🚀](https://www.reddit.com/r/androiddev/comments/1nc4k5p/a_gradle_plugin_to_help_you_add_16kb_page_support/)
+- [Collection of actions that can be done regarding developer verification system](https://www.reddit.com/r/androiddev/comments/1nc0p8o/collection_of_actions_that_can_be_done_regarding/)
+- [How to change device password through code](https://www.reddit.com/r/androiddev/comments/1nbvr71/how_to_change_device_password_through_code/)
+- [What analytics tool should I use for Social media app?](https://www.reddit.com/r/androiddev/comments/1nbqb9s/what_analytics_tool_should_i_use_for_social_media/)
+- [Smartphones for hobby UGV / UAV](https://www.reddit.com/r/androiddev/comments/1nbppbj/smartphones_for_hobby_ugv_uav/)
+- [First Technical Interview for Junior Android Dev](https://www.reddit.com/r/androiddev/comments/1nbp4z1/first_technical_interview_for_junior_android_dev/)
+- [Trigger shortcuts with Google assistant/gemini](https://www.reddit.com/r/androiddev/comments/1nboag4/trigger_shortcuts_with_google_assistantgemini/)
+- [Accessibility service floating button doesn&#39;t work on some devices](https://www.reddit.com/r/androiddev/comments/1nbmlub/accessibility_service_floating_button_doesnt_work/)
+- [My laptop freezes when running android studio](https://www.reddit.com/r/androiddev/comments/1nbgxd2/my_laptop_freezes_when_running_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
