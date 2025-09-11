@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [App idea , social media ai choose main content](https://www.reddit.com/r/androiddev/comments/1nc5foa/app_idea_social_media_ai_choose_main_content/)
-- [A Gradle Plugin to Help You Add 16KB Page Support in Google Play Easily 🚀](https://www.reddit.com/r/androiddev/comments/1nc4k5p/a_gradle_plugin_to_help_you_add_16kb_page_support/)
-- [Collection of actions that can be done regarding developer verification system](https://www.reddit.com/r/androiddev/comments/1nc0p8o/collection_of_actions_that_can_be_done_regarding/)
-- [How to change device password through code](https://www.reddit.com/r/androiddev/comments/1nbvr71/how_to_change_device_password_through_code/)
-- [What analytics tool should I use for Social media app?](https://www.reddit.com/r/androiddev/comments/1nbqb9s/what_analytics_tool_should_i_use_for_social_media/)
-- [Smartphones for hobby UGV / UAV](https://www.reddit.com/r/androiddev/comments/1nbppbj/smartphones_for_hobby_ugv_uav/)
-- [First Technical Interview for Junior Android Dev](https://www.reddit.com/r/androiddev/comments/1nbp4z1/first_technical_interview_for_junior_android_dev/)
-- [Trigger shortcuts with Google assistant/gemini](https://www.reddit.com/r/androiddev/comments/1nboag4/trigger_shortcuts_with_google_assistantgemini/)
-- [Accessibility service floating button doesn&#39;t work on some devices](https://www.reddit.com/r/androiddev/comments/1nbmlub/accessibility_service_floating_button_doesnt_work/)
-- [My laptop freezes when running android studio](https://www.reddit.com/r/androiddev/comments/1nbgxd2/my_laptop_freezes_when_running_android_studio/)
+- [How to get testers without Account termination?](https://www.reddit.com/r/androiddev/comments/1ndpkdp/how_to_get_testers_without_account_termination/)
+- [🚀 ToolNeuron BETA-4 is live!](https://www.reddit.com/r/androiddev/comments/1ndozs8/toolneuron_beta4_is_live/)
+- [Made my very first game can you try my math based game ?](https://www.reddit.com/r/androiddev/comments/1ndnj1b/made_my_very_first_game_can_you_try_my_math_based/)
+- [Pricing](https://www.reddit.com/r/androiddev/comments/1ndlwp9/pricing/)
+- [How to notify my app users through notifications?](https://www.reddit.com/r/androiddev/comments/1ndlr9f/how_to_notify_my_app_users_through_notifications/)
+- [Can I write this to my boss?](https://www.reddit.com/r/androiddev/comments/1ndkkn2/can_i_write_this_to_my_boss/)
+- [Tech](https://www.reddit.com/r/androiddev/comments/1ndjww2/tech/)
+- [Play Integrity API issue](https://www.reddit.com/r/androiddev/comments/1ndht21/play_integrity_api_issue/)
+- [🧱 Breaking the Monolith: A Practical, Step-by-Step Guide to Modularizing Your Android App — Part 3](https://www.reddit.com/r/androiddev/comments/1ndgdfa/breaking_the_monolith_a_practical_stepbystep/)
+- [Introducing Shaded: A Jetpack Compose Modifier for blurring to bring down required API level down to API 24 with the same look](https://www.reddit.com/r/androiddev/comments/1ndgach/introducing_shaded_a_jetpack_compose_modifier_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
