@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to get testers without Account termination?](https://www.reddit.com/r/androiddev/comments/1ndpkdp/how_to_get_testers_without_account_termination/)
-- [🚀 ToolNeuron BETA-4 is live!](https://www.reddit.com/r/androiddev/comments/1ndozs8/toolneuron_beta4_is_live/)
-- [Made my very first game can you try my math based game ?](https://www.reddit.com/r/androiddev/comments/1ndnj1b/made_my_very_first_game_can_you_try_my_math_based/)
-- [Pricing](https://www.reddit.com/r/androiddev/comments/1ndlwp9/pricing/)
-- [How to notify my app users through notifications?](https://www.reddit.com/r/androiddev/comments/1ndlr9f/how_to_notify_my_app_users_through_notifications/)
-- [Can I write this to my boss?](https://www.reddit.com/r/androiddev/comments/1ndkkn2/can_i_write_this_to_my_boss/)
-- [Tech](https://www.reddit.com/r/androiddev/comments/1ndjww2/tech/)
-- [Play Integrity API issue](https://www.reddit.com/r/androiddev/comments/1ndht21/play_integrity_api_issue/)
-- [🧱 Breaking the Monolith: A Practical, Step-by-Step Guide to Modularizing Your Android App — Part 3](https://www.reddit.com/r/androiddev/comments/1ndgdfa/breaking_the_monolith_a_practical_stepbystep/)
-- [Introducing Shaded: A Jetpack Compose Modifier for blurring to bring down required API level down to API 24 with the same look](https://www.reddit.com/r/androiddev/comments/1ndgach/introducing_shaded_a_jetpack_compose_modifier_for/)
+- [WTF is 16 KB page size compatibility?](https://www.reddit.com/r/androiddev/comments/1nfhchn/wtf_is_16_kb_page_size_compatibility/)
+- [Shipping anonymous mood-matching chats &lpar;no accounts&rpar; - how we handled abuse, data safety, and in-app review](https://www.reddit.com/r/androiddev/comments/1nfg6c6/shipping_anonymous_moodmatching_chats_no_accounts/)
+- [Navigation SDK, I miss the XML definition where I could see all the routes](https://www.reddit.com/r/androiddev/comments/1nfbm3z/navigation_sdk_i_miss_the_xml_definition_where_i/)
+- [Can&#39;t get B2B retail management app approved](https://www.reddit.com/r/androiddev/comments/1nfaz7v/cant_get_b2b_retail_management_app_approved/)
+- [Creating a motivational battery for ios and android](https://www.reddit.com/r/androiddev/comments/1nfajyv/creating_a_motivational_battery_for_ios_and/)
+- [Creating an motivation battery app with affirmation](https://www.reddit.com/r/androiddev/comments/1nf92jj/creating_an_motivation_battery_app_with/)
+- [Android Emulator Crashes when starting the VM](https://www.reddit.com/r/androiddev/comments/1nf8yrw/android_emulator_crashes_when_starting_the_vm/)
+- [How are users with no &quot;app version code&quot; and no &quot;app version name&quot; able to leave 1 star 1 word reviews? Aren&#39;t these bots which should be removed?](https://www.reddit.com/r/androiddev/comments/1nf8wv9/how_are_users_with_no_app_version_code_and_no_app/)
+- [How good is Gemini?](https://www.reddit.com/r/androiddev/comments/1nf7iaj/how_good_is_gemini/)
+- [help starting on android](https://www.reddit.com/r/androiddev/comments/1nf5elp/help_starting_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
