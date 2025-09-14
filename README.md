@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [WTF is 16 KB page size compatibility?](https://www.reddit.com/r/androiddev/comments/1nfhchn/wtf_is_16_kb_page_size_compatibility/)
-- [Shipping anonymous mood-matching chats &lpar;no accounts&rpar; - how we handled abuse, data safety, and in-app review](https://www.reddit.com/r/androiddev/comments/1nfg6c6/shipping_anonymous_moodmatching_chats_no_accounts/)
-- [Navigation SDK, I miss the XML definition where I could see all the routes](https://www.reddit.com/r/androiddev/comments/1nfbm3z/navigation_sdk_i_miss_the_xml_definition_where_i/)
-- [Can&#39;t get B2B retail management app approved](https://www.reddit.com/r/androiddev/comments/1nfaz7v/cant_get_b2b_retail_management_app_approved/)
-- [Creating a motivational battery for ios and android](https://www.reddit.com/r/androiddev/comments/1nfajyv/creating_a_motivational_battery_for_ios_and/)
-- [Creating an motivation battery app with affirmation](https://www.reddit.com/r/androiddev/comments/1nf92jj/creating_an_motivation_battery_app_with/)
-- [Android Emulator Crashes when starting the VM](https://www.reddit.com/r/androiddev/comments/1nf8yrw/android_emulator_crashes_when_starting_the_vm/)
-- [How are users with no &quot;app version code&quot; and no &quot;app version name&quot; able to leave 1 star 1 word reviews? Aren&#39;t these bots which should be removed?](https://www.reddit.com/r/androiddev/comments/1nf8wv9/how_are_users_with_no_app_version_code_and_no_app/)
-- [How good is Gemini?](https://www.reddit.com/r/androiddev/comments/1nf7iaj/how_good_is_gemini/)
-- [help starting on android](https://www.reddit.com/r/androiddev/comments/1nf5elp/help_starting_on_android/)
+- [AI-Assisted Unit Testing in Android with Firebender](https://www.reddit.com/r/androiddev/comments/1ng9zo9/aiassisted_unit_testing_in_android_with_firebender/)
+- [Securely save your credentials with biometric &lpar;react-native-keychain&rpar;](https://www.reddit.com/r/androiddev/comments/1ng98xc/securely_save_your_credentials_with_biometric/)
+- [[DEV] SimShock – A Free Hemodynamic Simulator Game for Android](https://www.reddit.com/r/androiddev/comments/1ng7yol/dev_simshock_a_free_hemodynamic_simulator_game/)
+- [🧹✨ Clean Validations: Part I](https://www.reddit.com/r/androiddev/comments/1ng75bm/clean_validations_part_i/)
+- [Tester gesucht!](https://www.reddit.com/r/androiddev/comments/1ng6gey/tester_gesucht/)
+- [🧱 Breaking the Monolith: A Practical, Step-by-Step Guide to Modularizing Your Android App — Part 4](https://www.reddit.com/r/androiddev/comments/1ng0qi9/breaking_the_monolith_a_practical_stepbystep/)
+- [Help me to 500 download on google play ▶️](https://www.reddit.com/r/androiddev/comments/1ng06ji/help_me_to_500_download_on_google_play/)
+- [Ultimate Android Design Patterns by Lorenzo Vainigli. Author&#39;s possible misprint](https://www.reddit.com/r/androiddev/comments/1nfz6ms/ultimate_android_design_patterns_by_lorenzo/)
+- [Just built an MCP server that auto-translates Android strings to 28 languages using Git diff - never manually translate strings.xml again!](https://www.reddit.com/r/androiddev/comments/1nfvzt0/just_built_an_mcp_server_that_autotranslates/)
+- [How do you programmatically disable home button on Android?](https://www.reddit.com/r/androiddev/comments/1nfp45v/how_do_you_programmatically_disable_home_button/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
