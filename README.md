@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [AI-Assisted Unit Testing in Android with Firebender](https://www.reddit.com/r/androiddev/comments/1ng9zo9/aiassisted_unit_testing_in_android_with_firebender/)
-- [Securely save your credentials with biometric &lpar;react-native-keychain&rpar;](https://www.reddit.com/r/androiddev/comments/1ng98xc/securely_save_your_credentials_with_biometric/)
-- [[DEV] SimShock – A Free Hemodynamic Simulator Game for Android](https://www.reddit.com/r/androiddev/comments/1ng7yol/dev_simshock_a_free_hemodynamic_simulator_game/)
-- [🧹✨ Clean Validations: Part I](https://www.reddit.com/r/androiddev/comments/1ng75bm/clean_validations_part_i/)
-- [Tester gesucht!](https://www.reddit.com/r/androiddev/comments/1ng6gey/tester_gesucht/)
-- [🧱 Breaking the Monolith: A Practical, Step-by-Step Guide to Modularizing Your Android App — Part 4](https://www.reddit.com/r/androiddev/comments/1ng0qi9/breaking_the_monolith_a_practical_stepbystep/)
-- [Help me to 500 download on google play ▶️](https://www.reddit.com/r/androiddev/comments/1ng06ji/help_me_to_500_download_on_google_play/)
-- [Ultimate Android Design Patterns by Lorenzo Vainigli. Author&#39;s possible misprint](https://www.reddit.com/r/androiddev/comments/1nfz6ms/ultimate_android_design_patterns_by_lorenzo/)
-- [Just built an MCP server that auto-translates Android strings to 28 languages using Git diff - never manually translate strings.xml again!](https://www.reddit.com/r/androiddev/comments/1nfvzt0/just_built_an_mcp_server_that_autotranslates/)
-- [How do you programmatically disable home button on Android?](https://www.reddit.com/r/androiddev/comments/1nfp45v/how_do_you_programmatically_disable_home_button/)
+- [Help with getting passed the Closed Testing](https://www.reddit.com/r/androiddev/comments/1nh7y4b/help_with_getting_passed_the_closed_testing/)
+- [We&#39;re live ! ZenTrack - AI Habits and focus tracker](https://www.reddit.com/r/androiddev/comments/1nh5qq4/were_live_zentrack_ai_habits_and_focus_tracker/)
+- [Is there a way to test run your app in the store with users before reviews kill it?](https://www.reddit.com/r/androiddev/comments/1nh0xl8/is_there_a_way_to_test_run_your_app_in_the_store/)
+- [How to connect service with toggle button?](https://www.reddit.com/r/androiddev/comments/1nh0cmt/how_to_connect_service_with_toggle_button/)
+- [QuizGlobe](https://www.reddit.com/r/androiddev/comments/1ngwyrc/quizglobe/)
+- [[Hiring] Android App Developer](https://www.reddit.com/r/androiddev/comments/1ngws96/hiring_android_app_developer/)
+- [What is the prefix for software engineers?](https://www.reddit.com/r/androiddev/comments/1ngnzmw/what_is_the_prefix_for_software_engineers/)
+- [Cheap Google Play App Testing🟢](https://www.reddit.com/r/androiddev/comments/1ngjidz/cheap_google_play_app_testing/)
+- [I’m beyond frustrated with Google Play right now](https://www.reddit.com/r/androiddev/comments/1ngj1mk/im_beyond_frustrated_with_google_play_right_now/)
+- [What are the best data grid libraries?](https://www.reddit.com/r/androiddev/comments/1ngfki4/what_are_the_best_data_grid_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
