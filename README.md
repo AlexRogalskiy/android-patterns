@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help with getting passed the Closed Testing](https://www.reddit.com/r/androiddev/comments/1nh7y4b/help_with_getting_passed_the_closed_testing/)
-- [We&#39;re live ! ZenTrack - AI Habits and focus tracker](https://www.reddit.com/r/androiddev/comments/1nh5qq4/were_live_zentrack_ai_habits_and_focus_tracker/)
-- [Is there a way to test run your app in the store with users before reviews kill it?](https://www.reddit.com/r/androiddev/comments/1nh0xl8/is_there_a_way_to_test_run_your_app_in_the_store/)
-- [How to connect service with toggle button?](https://www.reddit.com/r/androiddev/comments/1nh0cmt/how_to_connect_service_with_toggle_button/)
-- [QuizGlobe](https://www.reddit.com/r/androiddev/comments/1ngwyrc/quizglobe/)
-- [[Hiring] Android App Developer](https://www.reddit.com/r/androiddev/comments/1ngws96/hiring_android_app_developer/)
-- [What is the prefix for software engineers?](https://www.reddit.com/r/androiddev/comments/1ngnzmw/what_is_the_prefix_for_software_engineers/)
-- [Cheap Google Play App Testing🟢](https://www.reddit.com/r/androiddev/comments/1ngjidz/cheap_google_play_app_testing/)
-- [I’m beyond frustrated with Google Play right now](https://www.reddit.com/r/androiddev/comments/1ngj1mk/im_beyond_frustrated_with_google_play_right_now/)
-- [What are the best data grid libraries?](https://www.reddit.com/r/androiddev/comments/1ngfki4/what_are_the_best_data_grid_libraries/)
+- [Very disappointed in Google. Changing the rules.](https://www.reddit.com/r/androiddev/comments/1ni4hvq/very_disappointed_in_google_changing_the_rules/)
+- [Has anyone migrated from Anvil to Metro yet?](https://www.reddit.com/r/androiddev/comments/1ni0fqq/has_anyone_migrated_from_anvil_to_metro_yet/)
+- [I have a udemy coupon, any course recommendations?](https://www.reddit.com/r/androiddev/comments/1nhzpzo/i_have_a_udemy_coupon_any_course_recommendations/)
+- [Hosting AMA with the Firebender Engineers!](https://www.reddit.com/r/androiddev/comments/1nhy5pf/hosting_ama_with_the_firebender_engineers/)
+- [Compose performance on TV](https://www.reddit.com/r/androiddev/comments/1nhw39z/compose_performance_on_tv/)
+- [I made a step tracker in Compose Multiplatform and open-sourced it!](https://www.reddit.com/r/androiddev/comments/1nhu79y/i_made_a_step_tracker_in_compose_multiplatform/)
+- [Should I switch from a personal to an organizational Google Play account?](https://www.reddit.com/r/androiddev/comments/1nhu26h/should_i_switch_from_a_personal_to_an/)
+- [Native android share dialog | Tauri v2](https://www.reddit.com/r/androiddev/comments/1nhtcoy/native_android_share_dialog_tauri_v2/)
+- [How do you load remote/async data in Compose?](https://www.reddit.com/r/androiddev/comments/1nhrx68/how_do_you_load_remoteasync_data_in_compose/)
+- [Android Background Processes &lpar;Kotlin or Hotwire Native?&rpar;](https://www.reddit.com/r/androiddev/comments/1nhrn68/android_background_processes_kotlin_or_hotwire/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
