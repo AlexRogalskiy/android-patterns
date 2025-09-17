@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Very disappointed in Google. Changing the rules.](https://www.reddit.com/r/androiddev/comments/1ni4hvq/very_disappointed_in_google_changing_the_rules/)
-- [Has anyone migrated from Anvil to Metro yet?](https://www.reddit.com/r/androiddev/comments/1ni0fqq/has_anyone_migrated_from_anvil_to_metro_yet/)
-- [I have a udemy coupon, any course recommendations?](https://www.reddit.com/r/androiddev/comments/1nhzpzo/i_have_a_udemy_coupon_any_course_recommendations/)
-- [Hosting AMA with the Firebender Engineers!](https://www.reddit.com/r/androiddev/comments/1nhy5pf/hosting_ama_with_the_firebender_engineers/)
-- [Compose performance on TV](https://www.reddit.com/r/androiddev/comments/1nhw39z/compose_performance_on_tv/)
-- [I made a step tracker in Compose Multiplatform and open-sourced it!](https://www.reddit.com/r/androiddev/comments/1nhu79y/i_made_a_step_tracker_in_compose_multiplatform/)
-- [Should I switch from a personal to an organizational Google Play account?](https://www.reddit.com/r/androiddev/comments/1nhu26h/should_i_switch_from_a_personal_to_an/)
-- [Native android share dialog | Tauri v2](https://www.reddit.com/r/androiddev/comments/1nhtcoy/native_android_share_dialog_tauri_v2/)
-- [How do you load remote/async data in Compose?](https://www.reddit.com/r/androiddev/comments/1nhrx68/how_do_you_load_remoteasync_data_in_compose/)
-- [Android Background Processes &lpar;Kotlin or Hotwire Native?&rpar;](https://www.reddit.com/r/androiddev/comments/1nhrn68/android_background_processes_kotlin_or_hotwire/)
+- [Pixel 5 Stuck in launching at &quot;Pixel is Starting...&quot; with &quot;System UI Keeps Stopping&quot; – Tried Everything, Need Help!](https://www.reddit.com/r/androiddev/comments/1niseit/pixel_5_stuck_in_launching_at_pixel_is_starting/)
+- [App was working fine some hours back,ignore that pluggin. I even shared on X.](https://www.reddit.com/r/androiddev/comments/1nirh0j/app_was_working_fine_some_hours_backignore_that/)
+- [searching dev](https://www.reddit.com/r/androiddev/comments/1niolv2/searching_dev/)
+- [September Google System Updates bring task-based Play Store search and supervised account transfers](https://www.reddit.com/r/androiddev/comments/1niohja/september_google_system_updates_bring_taskbased/)
+- [Hello Everyone, Newer Mobile Developer here.](https://www.reddit.com/r/androiddev/comments/1nin5cz/hello_everyone_newer_mobile_developer_here/)
+- [Cannot Resolve Errors in script, Gradle not being able to compile android 36](https://www.reddit.com/r/androiddev/comments/1nimu18/cannot_resolve_errors_in_script_gradle_not_being/)
+- [Coded a little sass to help me generate store app screenshots quick](https://www.reddit.com/r/androiddev/comments/1nim5ls/coded_a_little_sass_to_help_me_generate_store_app/)
+- [Koin error always](https://www.reddit.com/r/androiddev/comments/1nilg29/koin_error_always/)
+- [Android-16 QPR1](https://www.reddit.com/r/androiddev/comments/1nil87w/android16_qpr1/)
+- [Can this report be valuable for app devs?](https://www.reddit.com/r/androiddev/comments/1niku58/can_this_report_be_valuable_for_app_devs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
