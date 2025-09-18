@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Pixel 5 Stuck in launching at &quot;Pixel is Starting...&quot; with &quot;System UI Keeps Stopping&quot; – Tried Everything, Need Help!](https://www.reddit.com/r/androiddev/comments/1niseit/pixel_5_stuck_in_launching_at_pixel_is_starting/)
-- [App was working fine some hours back,ignore that pluggin. I even shared on X.](https://www.reddit.com/r/androiddev/comments/1nirh0j/app_was_working_fine_some_hours_backignore_that/)
-- [searching dev](https://www.reddit.com/r/androiddev/comments/1niolv2/searching_dev/)
-- [September Google System Updates bring task-based Play Store search and supervised account transfers](https://www.reddit.com/r/androiddev/comments/1niohja/september_google_system_updates_bring_taskbased/)
-- [Hello Everyone, Newer Mobile Developer here.](https://www.reddit.com/r/androiddev/comments/1nin5cz/hello_everyone_newer_mobile_developer_here/)
-- [Cannot Resolve Errors in script, Gradle not being able to compile android 36](https://www.reddit.com/r/androiddev/comments/1nimu18/cannot_resolve_errors_in_script_gradle_not_being/)
-- [Coded a little sass to help me generate store app screenshots quick](https://www.reddit.com/r/androiddev/comments/1nim5ls/coded_a_little_sass_to_help_me_generate_store_app/)
-- [Koin error always](https://www.reddit.com/r/androiddev/comments/1nilg29/koin_error_always/)
-- [Android-16 QPR1](https://www.reddit.com/r/androiddev/comments/1nil87w/android16_qpr1/)
-- [Can this report be valuable for app devs?](https://www.reddit.com/r/androiddev/comments/1niku58/can_this_report_be_valuable_for_app_devs/)
+- [Full Internal Storage Access in Linux Terminal - Android 16 QPR2 Beta 2](https://www.reddit.com/r/androiddev/comments/1njsdo1/full_internal_storage_access_in_linux_terminal/)
+- [Google play test](https://www.reddit.com/r/androiddev/comments/1njpmp2/google_play_test/)
+- [How do i promote my app?](https://www.reddit.com/r/androiddev/comments/1njo5y3/how_do_i_promote_my_app/)
+- [Alternate icon issue during app update](https://www.reddit.com/r/androiddev/comments/1njna68/alternate_icon_issue_during_app_update/)
+- [Revenues from Play Store](https://www.reddit.com/r/androiddev/comments/1njlspf/revenues_from_play_store/)
+- [How AI can be leveraged as an Android developer.](https://www.reddit.com/r/androiddev/comments/1njkstm/how_ai_can_be_leveraged_as_an_android_developer/)
+- [Predictive gestures starting to appear in apps in One UI 7 &lpar;FotMob&rpar;](https://www.reddit.com/r/androiddev/comments/1njke0f/predictive_gestures_starting_to_appear_in_apps_in/)
+- [StaticLink = links, notes, pics in one QR. Open-source &amp; private. Feedback welcome!](https://www.reddit.com/r/androiddev/comments/1njk8mc/staticlink_links_notes_pics_in_one_qr_opensource/)
+- [Live Google Maps Data Pull](https://www.reddit.com/r/androiddev/comments/1njidog/live_google_maps_data_pull/)
+- [Howdy r/Androiddev! Kevin, Aman, Zach from Firebender here - will answer any of your questions from 9:00 AM to 5:00 PT about AI coding assistants, the tool we built, and answer any hard questions you have!](https://www.reddit.com/r/androiddev/comments/1nji4r3/howdy_randroiddev_kevin_aman_zach_from_firebender/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
