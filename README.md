@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Full Internal Storage Access in Linux Terminal - Android 16 QPR2 Beta 2](https://www.reddit.com/r/androiddev/comments/1njsdo1/full_internal_storage_access_in_linux_terminal/)
-- [Google play test](https://www.reddit.com/r/androiddev/comments/1njpmp2/google_play_test/)
-- [How do i promote my app?](https://www.reddit.com/r/androiddev/comments/1njo5y3/how_do_i_promote_my_app/)
-- [Alternate icon issue during app update](https://www.reddit.com/r/androiddev/comments/1njna68/alternate_icon_issue_during_app_update/)
-- [Revenues from Play Store](https://www.reddit.com/r/androiddev/comments/1njlspf/revenues_from_play_store/)
-- [How AI can be leveraged as an Android developer.](https://www.reddit.com/r/androiddev/comments/1njkstm/how_ai_can_be_leveraged_as_an_android_developer/)
-- [Predictive gestures starting to appear in apps in One UI 7 &lpar;FotMob&rpar;](https://www.reddit.com/r/androiddev/comments/1njke0f/predictive_gestures_starting_to_appear_in_apps_in/)
-- [StaticLink = links, notes, pics in one QR. Open-source &amp; private. Feedback welcome!](https://www.reddit.com/r/androiddev/comments/1njk8mc/staticlink_links_notes_pics_in_one_qr_opensource/)
-- [Live Google Maps Data Pull](https://www.reddit.com/r/androiddev/comments/1njidog/live_google_maps_data_pull/)
-- [Howdy r/Androiddev! Kevin, Aman, Zach from Firebender here - will answer any of your questions from 9:00 AM to 5:00 PT about AI coding assistants, the tool we built, and answer any hard questions you have!](https://www.reddit.com/r/androiddev/comments/1nji4r3/howdy_randroiddev_kevin_aman_zach_from_firebender/)
+- [Dyad + Android app](https://www.reddit.com/r/androiddev/comments/1nkpzjj/dyad_android_app/)
+- [App build preference](https://www.reddit.com/r/androiddev/comments/1nkntjn/app_build_preference/)
+- [App build preference](https://www.reddit.com/r/androiddev/comments/1nknte2/app_build_preference/)
+- [📚 Android Studio Journeys: From Demo to Enterprise-Scale Testing —Part 1](https://www.reddit.com/r/androiddev/comments/1nknrg5/android_studio_journeys_from_demo_to/)
+- [KMP/CMP - any maintained OOP-like framework?](https://www.reddit.com/r/androiddev/comments/1nkmhuo/kmpcmp_any_maintained_ooplike_framework/)
+- [Created a petition for big companies to build smart feature phones](https://www.reddit.com/r/androiddev/comments/1nklkus/created_a_petition_for_big_companies_to_build/)
+- [🎉 Just launched my app – Kountly, a simple countdown for life’s important moments](https://www.reddit.com/r/androiddev/comments/1nklhi9/just_launched_my_app_kountly_a_simple_countdown/)
+- [How I built my first Android app in a month using AI &lpar;as a non-dev&rpar;](https://www.reddit.com/r/androiddev/comments/1nkjpu9/how_i_built_my_first_android_app_in_a_month_using/)
+- [Industry-Standard Professional Apps/Sites Ready- Taking 3 New Clients](https://www.reddit.com/r/androiddev/comments/1nkh860/industrystandard_professional_appssites_ready/)
+- [Dev checks added to AOSP, seems as our android is on the kill list.](https://www.reddit.com/r/androiddev/comments/1nkei3f/dev_checks_added_to_aosp_seems_as_our_android_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
