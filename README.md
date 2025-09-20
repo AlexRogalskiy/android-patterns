@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dyad + Android app](https://www.reddit.com/r/androiddev/comments/1nkpzjj/dyad_android_app/)
-- [App build preference](https://www.reddit.com/r/androiddev/comments/1nkntjn/app_build_preference/)
-- [App build preference](https://www.reddit.com/r/androiddev/comments/1nknte2/app_build_preference/)
-- [📚 Android Studio Journeys: From Demo to Enterprise-Scale Testing —Part 1](https://www.reddit.com/r/androiddev/comments/1nknrg5/android_studio_journeys_from_demo_to/)
-- [KMP/CMP - any maintained OOP-like framework?](https://www.reddit.com/r/androiddev/comments/1nkmhuo/kmpcmp_any_maintained_ooplike_framework/)
-- [Created a petition for big companies to build smart feature phones](https://www.reddit.com/r/androiddev/comments/1nklkus/created_a_petition_for_big_companies_to_build/)
-- [🎉 Just launched my app – Kountly, a simple countdown for life’s important moments](https://www.reddit.com/r/androiddev/comments/1nklhi9/just_launched_my_app_kountly_a_simple_countdown/)
-- [How I built my first Android app in a month using AI &lpar;as a non-dev&rpar;](https://www.reddit.com/r/androiddev/comments/1nkjpu9/how_i_built_my_first_android_app_in_a_month_using/)
-- [Industry-Standard Professional Apps/Sites Ready- Taking 3 New Clients](https://www.reddit.com/r/androiddev/comments/1nkh860/industrystandard_professional_appssites_ready/)
-- [Dev checks added to AOSP, seems as our android is on the kill list.](https://www.reddit.com/r/androiddev/comments/1nkei3f/dev_checks_added_to_aosp_seems_as_our_android_is/)
+- [Should I set up in-app subscriptions before submitting my app for Google Play review?](https://www.reddit.com/r/androiddev/comments/1nlgs1z/should_i_set_up_inapp_subscriptions_before/)
+- [Taking on Siri &amp; Google Assistant with Panda 🐼 — my little open-source voice assistant](https://www.reddit.com/r/androiddev/comments/1nldu7d/taking_on_siri_google_assistant_with_panda_my/)
+- [how do i turn a .aab to a .apk](https://www.reddit.com/r/androiddev/comments/1nlc1pr/how_do_i_turn_a_aab_to_a_apk/)
+- [Any app owner is making money from Affiliate marketing?](https://www.reddit.com/r/androiddev/comments/1nlbmb2/any_app_owner_is_making_money_from_affiliate/)
+- [Liquid Glass Animation with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1nlawb3/liquid_glass_animation_with_jetpack_compose/)
+- [How to workaround inactive account closure warning?](https://www.reddit.com/r/androiddev/comments/1nlaqum/how_to_workaround_inactive_account_closure_warning/)
+- [Android becoming iOS more?](https://www.reddit.com/r/androiddev/comments/1nl69g6/android_becoming_ios_more/)
+- [[Announcement] I just published the first 5 chapters of my Jetpack Compose Canvas &amp; Animation book &lpar;102 pages&rpar;](https://www.reddit.com/r/androiddev/comments/1nl5h7l/announcement_i_just_published_the_first_5/)
+- [How is your team preparing for Android 15’s 16KB page requirement?](https://www.reddit.com/r/androiddev/comments/1nl30ds/how_is_your_team_preparing_for_android_15s_16kb/)
+- [Will Android developer verification break offline sideloading? - Android Authority](https://www.reddit.com/r/androiddev/comments/1nl2mf6/will_android_developer_verification_break_offline/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
