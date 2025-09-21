@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Should I set up in-app subscriptions before submitting my app for Google Play review?](https://www.reddit.com/r/androiddev/comments/1nlgs1z/should_i_set_up_inapp_subscriptions_before/)
-- [Taking on Siri &amp; Google Assistant with Panda 🐼 — my little open-source voice assistant](https://www.reddit.com/r/androiddev/comments/1nldu7d/taking_on_siri_google_assistant_with_panda_my/)
-- [how do i turn a .aab to a .apk](https://www.reddit.com/r/androiddev/comments/1nlc1pr/how_do_i_turn_a_aab_to_a_apk/)
-- [Any app owner is making money from Affiliate marketing?](https://www.reddit.com/r/androiddev/comments/1nlbmb2/any_app_owner_is_making_money_from_affiliate/)
-- [Liquid Glass Animation with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1nlawb3/liquid_glass_animation_with_jetpack_compose/)
-- [How to workaround inactive account closure warning?](https://www.reddit.com/r/androiddev/comments/1nlaqum/how_to_workaround_inactive_account_closure_warning/)
-- [Android becoming iOS more?](https://www.reddit.com/r/androiddev/comments/1nl69g6/android_becoming_ios_more/)
-- [[Announcement] I just published the first 5 chapters of my Jetpack Compose Canvas &amp; Animation book &lpar;102 pages&rpar;](https://www.reddit.com/r/androiddev/comments/1nl5h7l/announcement_i_just_published_the_first_5/)
-- [How is your team preparing for Android 15’s 16KB page requirement?](https://www.reddit.com/r/androiddev/comments/1nl30ds/how_is_your_team_preparing_for_android_15s_16kb/)
-- [Will Android developer verification break offline sideloading? - Android Authority](https://www.reddit.com/r/androiddev/comments/1nl2mf6/will_android_developer_verification_break_offline/)
+- [Android Studio Update Broke My Emulator — APIs 31+ Crash with Exit Code -1073740940. Anyone Else?](https://www.reddit.com/r/androiddev/comments/1nm9npi/android_studio_update_broke_my_emulator_apis_31/)
+- [What is going on @ Google?](https://www.reddit.com/r/androiddev/comments/1nm9flv/what_is_going_on_google/)
+- [How does Zomato efficiently handle N² RecyclerView food listings?](https://www.reddit.com/r/androiddev/comments/1nm5cr9/how_does_zomato_efficiently_handle_n²/)
+- [Google play login issues](https://www.reddit.com/r/androiddev/comments/1nm37sl/google_play_login_issues/)
+- [Why did every app store cut off hobbysts?](https://www.reddit.com/r/androiddev/comments/1nm2mf4/why_did_every_app_store_cut_off_hobbysts/)
+- [Android 15 Foreground Service Timeout: How to call Service.stopSelf&lpar;&rpar; when using WorkManager?](https://www.reddit.com/r/androiddev/comments/1nm1ug0/android_15_foreground_service_timeout_how_to_call/)
+- [How can I move my app projects from Android 12 to Android 15?](https://www.reddit.com/r/androiddev/comments/1nm09cv/how_can_i_move_my_app_projects_from_android_12_to/)
+- [Help](https://www.reddit.com/r/androiddev/comments/1nlz954/help/)
+- [Running a RAG powered language model on Android using MediaPipe](https://www.reddit.com/r/androiddev/comments/1nlx07r/running_a_rag_powered_language_model_on_android/)
+- [I tried to create a flasher for rabbitR1 but Im stuck](https://www.reddit.com/r/androiddev/comments/1nlvj9o/i_tried_to_create_a_flasher_for_rabbitr1_but_im/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
