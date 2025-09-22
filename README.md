@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Update Broke My Emulator — APIs 31+ Crash with Exit Code -1073740940. Anyone Else?](https://www.reddit.com/r/androiddev/comments/1nm9npi/android_studio_update_broke_my_emulator_apis_31/)
-- [What is going on @ Google?](https://www.reddit.com/r/androiddev/comments/1nm9flv/what_is_going_on_google/)
-- [How does Zomato efficiently handle N² RecyclerView food listings?](https://www.reddit.com/r/androiddev/comments/1nm5cr9/how_does_zomato_efficiently_handle_n²/)
-- [Google play login issues](https://www.reddit.com/r/androiddev/comments/1nm37sl/google_play_login_issues/)
-- [Why did every app store cut off hobbysts?](https://www.reddit.com/r/androiddev/comments/1nm2mf4/why_did_every_app_store_cut_off_hobbysts/)
-- [Android 15 Foreground Service Timeout: How to call Service.stopSelf&lpar;&rpar; when using WorkManager?](https://www.reddit.com/r/androiddev/comments/1nm1ug0/android_15_foreground_service_timeout_how_to_call/)
-- [How can I move my app projects from Android 12 to Android 15?](https://www.reddit.com/r/androiddev/comments/1nm09cv/how_can_i_move_my_app_projects_from_android_12_to/)
-- [Help](https://www.reddit.com/r/androiddev/comments/1nlz954/help/)
-- [Running a RAG powered language model on Android using MediaPipe](https://www.reddit.com/r/androiddev/comments/1nlx07r/running_a_rag_powered_language_model_on_android/)
-- [I tried to create a flasher for rabbitR1 but Im stuck](https://www.reddit.com/r/androiddev/comments/1nlvj9o/i_tried_to_create_a_flasher_for_rabbitr1_but_im/)
+- [I need help finding the kernel for cm9](https://www.reddit.com/r/androiddev/comments/1nn9fs4/i_need_help_finding_the_kernel_for_cm9/)
+- [Suggestions on career path](https://www.reddit.com/r/androiddev/comments/1nn8s16/suggestions_on_career_path/)
+- [Removing Address from Play store](https://www.reddit.com/r/androiddev/comments/1nn7u0p/removing_address_from_play_store/)
+- [OneUI ForegroundService](https://www.reddit.com/r/androiddev/comments/1nn1jgc/oneui_foregroundservice/)
+- [What is the Class that the Google App uses to launch a search within the app?](https://www.reddit.com/r/androiddev/comments/1nmzws2/what_is_the_class_that_the_google_app_uses_to/)
+- [Litho Review 2025](https://www.reddit.com/r/androiddev/comments/1nmydyr/litho_review_2025/)
+- [Macbook suggestions](https://www.reddit.com/r/androiddev/comments/1nmxajp/macbook_suggestions/)
+- [Developing the next gen guitar pedal for Android and PC: tell me what you guys want](https://www.reddit.com/r/androiddev/comments/1nmtim4/developing_the_next_gen_guitar_pedal_for_android/)
+- [Kotlin or Java](https://www.reddit.com/r/androiddev/comments/1nmtb36/kotlin_or_java/)
+- [Am I the only one having trouble downloading older versions of Android Studio?](https://www.reddit.com/r/androiddev/comments/1nmt7mt/am_i_the_only_one_having_trouble_downloading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
