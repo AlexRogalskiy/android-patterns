@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I need help finding the kernel for cm9](https://www.reddit.com/r/androiddev/comments/1nn9fs4/i_need_help_finding_the_kernel_for_cm9/)
-- [Suggestions on career path](https://www.reddit.com/r/androiddev/comments/1nn8s16/suggestions_on_career_path/)
-- [Removing Address from Play store](https://www.reddit.com/r/androiddev/comments/1nn7u0p/removing_address_from_play_store/)
-- [OneUI ForegroundService](https://www.reddit.com/r/androiddev/comments/1nn1jgc/oneui_foregroundservice/)
-- [What is the Class that the Google App uses to launch a search within the app?](https://www.reddit.com/r/androiddev/comments/1nmzws2/what_is_the_class_that_the_google_app_uses_to/)
-- [Litho Review 2025](https://www.reddit.com/r/androiddev/comments/1nmydyr/litho_review_2025/)
-- [Macbook suggestions](https://www.reddit.com/r/androiddev/comments/1nmxajp/macbook_suggestions/)
-- [Developing the next gen guitar pedal for Android and PC: tell me what you guys want](https://www.reddit.com/r/androiddev/comments/1nmtim4/developing_the_next_gen_guitar_pedal_for_android/)
-- [Kotlin or Java](https://www.reddit.com/r/androiddev/comments/1nmtb36/kotlin_or_java/)
-- [Am I the only one having trouble downloading older versions of Android Studio?](https://www.reddit.com/r/androiddev/comments/1nmt7mt/am_i_the_only_one_having_trouble_downloading/)
+- [Can someone suggest a good book for getting started with JetPack compose?](https://www.reddit.com/r/androiddev/comments/1nnz000/can_someone_suggest_a_good_book_for_getting/)
+- [Why android? Should i go android or ios?](https://www.reddit.com/r/androiddev/comments/1nnyedo/why_android_should_i_go_android_or_ios/)
+- [Snipp, Pocket like app](https://www.reddit.com/r/androiddev/comments/1nnydka/snipp_pocket_like_app/)
+- [hey guys , I&#39;m starting on android development. so I&#39;m gonna buy a desktop pc any suggestions about specs for android development](https://www.reddit.com/r/androiddev/comments/1nnvrfb/hey_guys_im_starting_on_android_development_so_im/)
+- [Android Studio Otter | 2025.2.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1nntmg3/android_studio_otter_202521_canary_1_now_available/)
+- [Debugging not working for 1+ nord ce 4](https://www.reddit.com/r/androiddev/comments/1nnsymb/debugging_not_working_for_1_nord_ce_4/)
+- [Just published my first Android app!](https://www.reddit.com/r/androiddev/comments/1nnqul1/just_published_my_first_android_app/)
+- [Jetpack Compose UI State Questions](https://www.reddit.com/r/androiddev/comments/1nnqe51/jetpack_compose_ui_state_questions/)
+- [is there a way i can use my iphone when coding in this](https://www.reddit.com/r/androiddev/comments/1nnop9g/is_there_a_way_i_can_use_my_iphone_when_coding_in/)
+- [Any app developer who is ready to work on a pair project? Pay will be 10k for project](https://www.reddit.com/r/androiddev/comments/1nnmk2u/any_app_developer_who_is_ready_to_work_on_a_pair/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
