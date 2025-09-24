@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can someone suggest a good book for getting started with JetPack compose?](https://www.reddit.com/r/androiddev/comments/1nnz000/can_someone_suggest_a_good_book_for_getting/)
-- [Why android? Should i go android or ios?](https://www.reddit.com/r/androiddev/comments/1nnyedo/why_android_should_i_go_android_or_ios/)
-- [Snipp, Pocket like app](https://www.reddit.com/r/androiddev/comments/1nnydka/snipp_pocket_like_app/)
-- [hey guys , I&#39;m starting on android development. so I&#39;m gonna buy a desktop pc any suggestions about specs for android development](https://www.reddit.com/r/androiddev/comments/1nnvrfb/hey_guys_im_starting_on_android_development_so_im/)
-- [Android Studio Otter | 2025.2.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1nntmg3/android_studio_otter_202521_canary_1_now_available/)
-- [Debugging not working for 1+ nord ce 4](https://www.reddit.com/r/androiddev/comments/1nnsymb/debugging_not_working_for_1_nord_ce_4/)
-- [Just published my first Android app!](https://www.reddit.com/r/androiddev/comments/1nnqul1/just_published_my_first_android_app/)
-- [Jetpack Compose UI State Questions](https://www.reddit.com/r/androiddev/comments/1nnqe51/jetpack_compose_ui_state_questions/)
-- [is there a way i can use my iphone when coding in this](https://www.reddit.com/r/androiddev/comments/1nnop9g/is_there_a_way_i_can_use_my_iphone_when_coding_in/)
-- [Any app developer who is ready to work on a pair project? Pay will be 10k for project](https://www.reddit.com/r/androiddev/comments/1nnmk2u/any_app_developer_who_is_ready_to_work_on_a_pair/)
+- [git follow](https://www.reddit.com/r/androiddev/comments/1noxll7/git_follow/)
+- [No-code Android HTTP server builder. Create dynamic servers instantly, host websites, share files across networks, and trigger device actions remotely](https://www.reddit.com/r/androiddev/comments/1nox39h/nocode_android_http_server_builder_create_dynamic/)
+- [Play noob problems](https://www.reddit.com/r/androiddev/comments/1nos7pw/play_noob_problems/)
+- [Backend choice for android](https://www.reddit.com/r/androiddev/comments/1noqdzu/backend_choice_for_android/)
+- [Why Kotlin , Jetpack Has Less Job Opportunities As Compared to Flutter and React Native](https://www.reddit.com/r/androiddev/comments/1nopr2v/why_kotlin_jetpack_has_less_job_opportunities_as/)
+- [Mobile Application Developer and Salesforce Developer](https://www.reddit.com/r/androiddev/comments/1noople/mobile_application_developer_and_salesforce/)
+- [Google OAuth app verification stuck for 3+ weeks – any way to follow up?](https://www.reddit.com/r/androiddev/comments/1non0ow/google_oauth_app_verification_stuck_for_3_weeks/)
+- [transfer cloned whatsapp to work profile along with appdata](https://www.reddit.com/r/androiddev/comments/1nolezn/transfer_cloned_whatsapp_to_work_profile_along/)
+- [Help me out! How to generate fake calls logs data in virtual device?](https://www.reddit.com/r/androiddev/comments/1noj737/help_me_out_how_to_generate_fake_calls_logs_data/)
+- [Google Developer Verification Policy and the DMA | F-Droid - Free and Open Source Android App Repository](https://www.reddit.com/r/androiddev/comments/1nohthx/google_developer_verification_policy_and_the_dma/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
