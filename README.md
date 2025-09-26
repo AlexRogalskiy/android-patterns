@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ELI5: Why are competing android apps so similar? For example most &lpar;all?&rpar; alarm apps seem to follow the same template, a simple list of times with the details below in a smaller font. Wouldn&#39;t developers compete through different features-descriptions as headers, listed by day in a table, etc?](https://www.reddit.com/r/androiddev/comments/1npuyyo/eli5_why_are_competing_android_apps_so_similar/)
-- [Extending deadline for 16 KB page size support?](https://www.reddit.com/r/androiddev/comments/1npukom/extending_deadline_for_16_kb_page_size_support/)
-- [Error show](https://www.reddit.com/r/androiddev/comments/1nps9h2/error_show/)
-- [Is the Google maps Android SDK free?](https://www.reddit.com/r/androiddev/comments/1npr7wy/is_the_google_maps_android_sdk_free/)
-- [Challenges Complying with Android 15 Foreground Service Limits – How to Get Notified During Timeout?](https://www.reddit.com/r/androiddev/comments/1npmota/challenges_complying_with_android_15_foreground/)
-- [Ble payloads](https://www.reddit.com/r/androiddev/comments/1npmm9b/ble_payloads/)
-- [ADB not working via VPN](https://www.reddit.com/r/androiddev/comments/1npl0rd/adb_not_working_via_vpn/)
-- [Translate your Android XML Files in Seconds](https://www.reddit.com/r/androiddev/comments/1npjgyr/translate_your_android_xml_files_in_seconds/)
-- [Keynote - The Future of Android...And How to Prepare For It | droidcon Berlin 2025](https://www.reddit.com/r/androiddev/comments/1npi8tu/keynote_the_future_of_androidand_how_to_prepare/)
-- [[Rant] Android Testing is horrible](https://www.reddit.com/r/androiddev/comments/1nph4uv/rant_android_testing_is_horrible/)
+- [Foulingo app has been published. What&#39;s next...](https://www.reddit.com/r/androiddev/comments/1nqgks3/foulingo_app_has_been_published_whats_next/)
+- [OnePlus just unveiled its next flagship, the OnePlus 15, powered by Qualcomm’s freshly launched Snapdragon 8 Elite Gen 5, which is already posting monster benchmark numbers](https://www.reddit.com/r/androiddev/comments/1nqf68s/oneplus_just_unveiled_its_next_flagship_the/)
+- [Force Android update](https://www.reddit.com/r/androiddev/comments/1nqd2e7/force_android_update/)
+- [Chances of landing an Android job in Europe with visa sponsorship &lpar;non-EU candidate&rpar;](https://www.reddit.com/r/androiddev/comments/1nqbfnt/chances_of_landing_an_android_job_in_europe_with/)
+- [Building an app that works BEST as a system app- is such an app worth developing?](https://www.reddit.com/r/androiddev/comments/1nqan1q/building_an_app_that_works_best_as_a_system_app/)
+- [Google Play Console ban issue – Need advice](https://www.reddit.com/r/androiddev/comments/1nqa5hz/google_play_console_ban_issue_need_advice/)
+- [Easiest way to read mobile app network traffic?](https://www.reddit.com/r/androiddev/comments/1nq9twt/easiest_way_to_read_mobile_app_network_traffic/)
+- [Type-safe navigation for beginners in KMP+CMP](https://www.reddit.com/r/androiddev/comments/1nq7ifo/typesafe_navigation_for_beginners_in_kmpcmp/)
+- [My first Android app :&rpar;](https://www.reddit.com/r/androiddev/comments/1nq5dzc/my_first_android_app/)
+- [The Best QR And Barcode Scanner App For Android.](https://www.reddit.com/r/androiddev/comments/1nq3k77/the_best_qr_and_barcode_scanner_app_for_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
