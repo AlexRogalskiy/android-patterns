@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Foulingo app has been published. What&#39;s next...](https://www.reddit.com/r/androiddev/comments/1nqgks3/foulingo_app_has_been_published_whats_next/)
-- [OnePlus just unveiled its next flagship, the OnePlus 15, powered by Qualcomm’s freshly launched Snapdragon 8 Elite Gen 5, which is already posting monster benchmark numbers](https://www.reddit.com/r/androiddev/comments/1nqf68s/oneplus_just_unveiled_its_next_flagship_the/)
-- [Force Android update](https://www.reddit.com/r/androiddev/comments/1nqd2e7/force_android_update/)
-- [Chances of landing an Android job in Europe with visa sponsorship &lpar;non-EU candidate&rpar;](https://www.reddit.com/r/androiddev/comments/1nqbfnt/chances_of_landing_an_android_job_in_europe_with/)
-- [Building an app that works BEST as a system app- is such an app worth developing?](https://www.reddit.com/r/androiddev/comments/1nqan1q/building_an_app_that_works_best_as_a_system_app/)
-- [Google Play Console ban issue – Need advice](https://www.reddit.com/r/androiddev/comments/1nqa5hz/google_play_console_ban_issue_need_advice/)
-- [Easiest way to read mobile app network traffic?](https://www.reddit.com/r/androiddev/comments/1nq9twt/easiest_way_to_read_mobile_app_network_traffic/)
-- [Type-safe navigation for beginners in KMP+CMP](https://www.reddit.com/r/androiddev/comments/1nq7ifo/typesafe_navigation_for_beginners_in_kmpcmp/)
-- [My first Android app :&rpar;](https://www.reddit.com/r/androiddev/comments/1nq5dzc/my_first_android_app/)
-- [The Best QR And Barcode Scanner App For Android.](https://www.reddit.com/r/androiddev/comments/1nq3k77/the_best_qr_and_barcode_scanner_app_for_android/)
+- [Am i Restarted or is this Android Studio on Crack? -&gt; &#39;}&#39;](https://www.reddit.com/r/androiddev/comments/1nrgglm/am_i_restarted_or_is_this_android_studio_on_crack/)
+- [Google Play income feels like quota system](https://www.reddit.com/r/androiddev/comments/1nremxl/google_play_income_feels_like_quota_system/)
+- [GitHub - eygraber/seymour: Seymour: A simple, customizable &#39;See More&#39; expandable Text for Compose UI. Handles text overflow, truncation, and collapse animations.](https://www.reddit.com/r/androiddev/comments/1nrdky7/github_eygraberseymour_seymour_a_simple/)
+- [Need help with my app&#39;s closed test](https://www.reddit.com/r/androiddev/comments/1nr7m0p/need_help_with_my_apps_closed_test/)
+- [Need help with my first app!!](https://www.reddit.com/r/androiddev/comments/1nr6tro/need_help_with_my_first_app/)
+- [Building a Debugging Assistant tool for Android Developers](https://www.reddit.com/r/androiddev/comments/1nr6q1r/building_a_debugging_assistant_tool_for_android/)
+- [Coders community](https://www.reddit.com/r/androiddev/comments/1nr6oz1/coders_community/)
+- [Android Studio Otter | 2025.2.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1nr6ous/android_studio_otter_202521_canary_3_now_available/)
+- [Data Binding Issue](https://www.reddit.com/r/androiddev/comments/1nr6nof/data_binding_issue/)
+- [Purpose of Activities in modern Android architecture](https://www.reddit.com/r/androiddev/comments/1nr3r8t/purpose_of_activities_in_modern_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
