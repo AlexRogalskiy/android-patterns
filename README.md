@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Am i Restarted or is this Android Studio on Crack? -&gt; &#39;}&#39;](https://www.reddit.com/r/androiddev/comments/1nrgglm/am_i_restarted_or_is_this_android_studio_on_crack/)
-- [Google Play income feels like quota system](https://www.reddit.com/r/androiddev/comments/1nremxl/google_play_income_feels_like_quota_system/)
-- [GitHub - eygraber/seymour: Seymour: A simple, customizable &#39;See More&#39; expandable Text for Compose UI. Handles text overflow, truncation, and collapse animations.](https://www.reddit.com/r/androiddev/comments/1nrdky7/github_eygraberseymour_seymour_a_simple/)
-- [Need help with my app&#39;s closed test](https://www.reddit.com/r/androiddev/comments/1nr7m0p/need_help_with_my_apps_closed_test/)
-- [Need help with my first app!!](https://www.reddit.com/r/androiddev/comments/1nr6tro/need_help_with_my_first_app/)
-- [Building a Debugging Assistant tool for Android Developers](https://www.reddit.com/r/androiddev/comments/1nr6q1r/building_a_debugging_assistant_tool_for_android/)
-- [Coders community](https://www.reddit.com/r/androiddev/comments/1nr6oz1/coders_community/)
-- [Android Studio Otter | 2025.2.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1nr6ous/android_studio_otter_202521_canary_3_now_available/)
-- [Data Binding Issue](https://www.reddit.com/r/androiddev/comments/1nr6nof/data_binding_issue/)
-- [Purpose of Activities in modern Android architecture](https://www.reddit.com/r/androiddev/comments/1nr3r8t/purpose_of_activities_in_modern_android/)
+- [Need help with a topic for a university thesis](https://www.reddit.com/r/androiddev/comments/1nsb6a4/need_help_with_a_topic_for_a_university_thesis/)
+- [JUST HYPERVISE IT](https://www.reddit.com/r/androiddev/comments/1nsappw/just_hypervise_it/)
+- [“Built a little side project to help me compare stuff — curious if anyone else finds it useful?](https://www.reddit.com/r/androiddev/comments/1ns5eth/built_a_little_side_project_to_help_me_compare/)
+- [Facing 16 KB Page Size Issue with PdfiumAndroid / react-native-pdf on Android 15+](https://www.reddit.com/r/androiddev/comments/1ns2p6m/facing_16_kb_page_size_issue_with_pdfiumandroid/)
+- [Patch an apk to make it run on older android version?](https://www.reddit.com/r/androiddev/comments/1ns1jpa/patch_an_apk_to_make_it_run_on_older_android/)
+- [Handling images in android apps](https://www.reddit.com/r/androiddev/comments/1ns0dpx/handling_images_in_android_apps/)
+- [Scams !?](https://www.reddit.com/r/androiddev/comments/1ns0cro/scams/)
+- [It is 2025. Explain why it appears SSL sockets on Java have no select&lpar;&rpar; call](https://www.reddit.com/r/androiddev/comments/1nrykfz/it_is_2025_explain_why_it_appears_ssl_sockets_on/)
+- [How to publish an App under 18yr](https://www.reddit.com/r/androiddev/comments/1nryc7o/how_to_publish_an_app_under_18yr/)
+- [Dumb question about 16k pages](https://www.reddit.com/r/androiddev/comments/1nrxcqq/dumb_question_about_16k_pages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
