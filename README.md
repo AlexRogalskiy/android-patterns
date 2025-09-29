@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need help with a topic for a university thesis](https://www.reddit.com/r/androiddev/comments/1nsb6a4/need_help_with_a_topic_for_a_university_thesis/)
-- [JUST HYPERVISE IT](https://www.reddit.com/r/androiddev/comments/1nsappw/just_hypervise_it/)
-- [“Built a little side project to help me compare stuff — curious if anyone else finds it useful?](https://www.reddit.com/r/androiddev/comments/1ns5eth/built_a_little_side_project_to_help_me_compare/)
-- [Facing 16 KB Page Size Issue with PdfiumAndroid / react-native-pdf on Android 15+](https://www.reddit.com/r/androiddev/comments/1ns2p6m/facing_16_kb_page_size_issue_with_pdfiumandroid/)
-- [Patch an apk to make it run on older android version?](https://www.reddit.com/r/androiddev/comments/1ns1jpa/patch_an_apk_to_make_it_run_on_older_android/)
-- [Handling images in android apps](https://www.reddit.com/r/androiddev/comments/1ns0dpx/handling_images_in_android_apps/)
-- [Scams !?](https://www.reddit.com/r/androiddev/comments/1ns0cro/scams/)
-- [It is 2025. Explain why it appears SSL sockets on Java have no select&lpar;&rpar; call](https://www.reddit.com/r/androiddev/comments/1nrykfz/it_is_2025_explain_why_it_appears_ssl_sockets_on/)
-- [How to publish an App under 18yr](https://www.reddit.com/r/androiddev/comments/1nryc7o/how_to_publish_an_app_under_18yr/)
-- [Dumb question about 16k pages](https://www.reddit.com/r/androiddev/comments/1nrxcqq/dumb_question_about_16k_pages/)
+- [Monkey Jump - Jungle Run](https://www.reddit.com/r/androiddev/comments/1nt3pw3/monkey_jump_jungle_run/)
+- [Subscription Policy Violation Warning](https://www.reddit.com/r/androiddev/comments/1nt2do3/subscription_policy_violation_warning/)
+- [question regarding publishing an Android app on Aptoide](https://www.reddit.com/r/androiddev/comments/1nswta5/question_regarding_publishing_an_android_app_on/)
+- [Restrictions on non-SDK interfaces](https://www.reddit.com/r/androiddev/comments/1nswahb/restrictions_on_nonsdk_interfaces/)
+- [Camera Preview failure on some cameras.](https://www.reddit.com/r/androiddev/comments/1nsw4m0/camera_preview_failure_on_some_cameras/)
+- [My Experience Building with Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1nsur6s/my_experience_building_with_compose_multiplatform/)
+- [Looking to contribute as an android developer with kotlin and compose](https://www.reddit.com/r/androiddev/comments/1nsu21z/looking_to_contribute_as_an_android_developer/)
+- [Help needed: my developer profile and all apps will be removed from Google Play](https://www.reddit.com/r/androiddev/comments/1nst8tz/help_needed_my_developer_profile_and_all_apps/)
+- [Need Help with Android on wi download Tablet](https://www.reddit.com/r/androiddev/comments/1nsrdq3/need_help_with_android_on_wi_download_tablet/)
+- [Looking for feedback on a tool I built for creating basic native Android apps](https://www.reddit.com/r/androiddev/comments/1nsq4ne/looking_for_feedback_on_a_tool_i_built_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
