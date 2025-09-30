@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Monkey Jump - Jungle Run](https://www.reddit.com/r/androiddev/comments/1nt3pw3/monkey_jump_jungle_run/)
-- [Subscription Policy Violation Warning](https://www.reddit.com/r/androiddev/comments/1nt2do3/subscription_policy_violation_warning/)
-- [question regarding publishing an Android app on Aptoide](https://www.reddit.com/r/androiddev/comments/1nswta5/question_regarding_publishing_an_android_app_on/)
-- [Restrictions on non-SDK interfaces](https://www.reddit.com/r/androiddev/comments/1nswahb/restrictions_on_nonsdk_interfaces/)
-- [Camera Preview failure on some cameras.](https://www.reddit.com/r/androiddev/comments/1nsw4m0/camera_preview_failure_on_some_cameras/)
-- [My Experience Building with Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1nsur6s/my_experience_building_with_compose_multiplatform/)
-- [Looking to contribute as an android developer with kotlin and compose](https://www.reddit.com/r/androiddev/comments/1nsu21z/looking_to_contribute_as_an_android_developer/)
-- [Help needed: my developer profile and all apps will be removed from Google Play](https://www.reddit.com/r/androiddev/comments/1nst8tz/help_needed_my_developer_profile_and_all_apps/)
-- [Need Help with Android on wi download Tablet](https://www.reddit.com/r/androiddev/comments/1nsrdq3/need_help_with_android_on_wi_download_tablet/)
-- [Looking for feedback on a tool I built for creating basic native Android apps](https://www.reddit.com/r/androiddev/comments/1nsq4ne/looking_for_feedback_on_a_tool_i_built_for/)
+- [HYPERVISE IT AGAIN](https://www.reddit.com/r/androiddev/comments/1nu0ylz/hypervise_it_again/)
+- [🫨](https://www.reddit.com/r/androiddev/comments/1ntxsjm/_/)
+- [[Hiring] ATAK plugin and Android developer for AI/ML RF analysis](https://www.reddit.com/r/androiddev/comments/1ntxo1x/hiring_atak_plugin_and_android_developer_for_aiml/)
+- [📚 Android Studio Journeys — From Demo to Enterprise-Scale Testing - Part 2](https://www.reddit.com/r/androiddev/comments/1ntx2tm/android_studio_journeys_from_demo_to/)
+- [😩 Analytics code can get messy fast, especially when juggling multiple providers.](https://www.reddit.com/r/androiddev/comments/1ntqun4/analytics_code_can_get_messy_fast_especially_when/)
+- [Launched my First App](https://www.reddit.com/r/androiddev/comments/1ntq3uz/launched_my_first_app/)
+- [ShadowGlow: An Advanced Drop Shadows for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ntq1df/shadowglow_an_advanced_drop_shadows_for_jetpack/)
+- [Proposal: Keep Android Open — Add “Allow sideloading Unverified Apps” Option instead of Blocking Sideloading completely](https://www.reddit.com/r/androiddev/comments/1ntppv3/proposal_keep_android_open_add_allow_sideloading/)
+- [Tired of saving links and forgetting why? I built an app to solve that for free.](https://www.reddit.com/r/androiddev/comments/1ntppq7/tired_of_saving_links_and_forgetting_why_i_built/)
+- [phone keeps on taking screenshot](https://www.reddit.com/r/androiddev/comments/1ntpk79/phone_keeps_on_taking_screenshot/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
