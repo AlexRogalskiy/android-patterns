@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Quote app design](https://www.reddit.com/r/androiddev/comments/1nutdih/quote_app_design/)
-- [Android Studio Module Icons](https://www.reddit.com/r/androiddev/comments/1nusbsy/android_studio_module_icons/)
-- [Could an aosp dev confirm whether these settings actually exist in aosp?](https://www.reddit.com/r/androiddev/comments/1nupv5a/could_an_aosp_dev_confirm_whether_these_settings/)
-- [Need help with accessing internal storage](https://www.reddit.com/r/androiddev/comments/1nuiekh/need_help_with_accessing_internal_storage/)
-- [My game launch earned $11000 in the first month but now I don&#39;t know what to do to keep up momentum.](https://www.reddit.com/r/androiddev/comments/1nugwof/my_game_launch_earned_11000_in_the_first_month/)
-- [I wrote a very successful Jetpack Compose book without even finishing it first. All I learned during the process](https://www.reddit.com/r/androiddev/comments/1nugvm1/i_wrote_a_very_successful_jetpack_compose_book/)
-- [Mobile UI poll](https://www.reddit.com/r/androiddev/comments/1nugo7a/mobile_ui_poll/)
-- [Need advice: Stuck with outdated Material 2 course vs finding Modern Material 3 content](https://www.reddit.com/r/androiddev/comments/1nua7q5/need_advice_stuck_with_outdated_material_2_course/)
-- [Do Ideas Need More Than Code? Thoughts on AI Co-Building](https://www.reddit.com/r/androiddev/comments/1nu9rtj/do_ideas_need_more_than_code_thoughts_on_ai/)
-- [Exploring Modifier.Node for creating custom Modifiers in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1nu8mv3/exploring_modifiernode_for_creating_custom/)
+- [built an AI wardrobe app—1 month on us with code MRSAVVY &lpar;limited to first 100 iOS / 100 Android&rpar;](https://www.reddit.com/r/androiddev/comments/1nvql6w/built_an_ai_wardrobe_app1_month_on_us_with_code/)
+- [What to even build?](https://www.reddit.com/r/androiddev/comments/1nvp6gq/what_to_even_build/)
+- [Set up sdk on manjaro.](https://www.reddit.com/r/androiddev/comments/1nvhmhr/set_up_sdk_on_manjaro/)
+- [Kotlin throw detection Intellij plugin](https://www.reddit.com/r/androiddev/comments/1nvfquk/kotlin_throw_detection_intellij_plugin/)
+- [Help how can I understand the navigation](https://www.reddit.com/r/androiddev/comments/1nvfjo2/help_how_can_i_understand_the_navigation/)
+- [where the heck do i add login information for the google play team reviewing my app?](https://www.reddit.com/r/androiddev/comments/1nvcvov/where_the_heck_do_i_add_login_information_for_the/)
+- [Getting this mail - Google: Payment didn’t go through](https://www.reddit.com/r/androiddev/comments/1nvbq7i/getting_this_mail_google_payment_didnt_go_through/)
+- [How does the Android kernel add new features of the 6.12 kernel to the 6.6 kernel?](https://www.reddit.com/r/androiddev/comments/1nvb463/how_does_the_android_kernel_add_new_features_of/)
+- [I need tester for my app](https://www.reddit.com/r/androiddev/comments/1nv9g2h/i_need_tester_for_my_app/)
+- [How to make app do something when media start/ stop button is pressed on Bluetooth device](https://www.reddit.com/r/androiddev/comments/1nv97bs/how_to_make_app_do_something_when_media_start/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
