@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [built an AI wardrobe app—1 month on us with code MRSAVVY &lpar;limited to first 100 iOS / 100 Android&rpar;](https://www.reddit.com/r/androiddev/comments/1nvql6w/built_an_ai_wardrobe_app1_month_on_us_with_code/)
-- [What to even build?](https://www.reddit.com/r/androiddev/comments/1nvp6gq/what_to_even_build/)
-- [Set up sdk on manjaro.](https://www.reddit.com/r/androiddev/comments/1nvhmhr/set_up_sdk_on_manjaro/)
-- [Kotlin throw detection Intellij plugin](https://www.reddit.com/r/androiddev/comments/1nvfquk/kotlin_throw_detection_intellij_plugin/)
-- [Help how can I understand the navigation](https://www.reddit.com/r/androiddev/comments/1nvfjo2/help_how_can_i_understand_the_navigation/)
-- [where the heck do i add login information for the google play team reviewing my app?](https://www.reddit.com/r/androiddev/comments/1nvcvov/where_the_heck_do_i_add_login_information_for_the/)
-- [Getting this mail - Google: Payment didn’t go through](https://www.reddit.com/r/androiddev/comments/1nvbq7i/getting_this_mail_google_payment_didnt_go_through/)
-- [How does the Android kernel add new features of the 6.12 kernel to the 6.6 kernel?](https://www.reddit.com/r/androiddev/comments/1nvb463/how_does_the_android_kernel_add_new_features_of/)
-- [I need tester for my app](https://www.reddit.com/r/androiddev/comments/1nv9g2h/i_need_tester_for_my_app/)
-- [How to make app do something when media start/ stop button is pressed on Bluetooth device](https://www.reddit.com/r/androiddev/comments/1nv97bs/how_to_make_app_do_something_when_media_start/)
+- [Apple removes ICE tracking app after pressure from Bondi DOJ](https://www.reddit.com/r/androiddev/comments/1nwm89m/apple_removes_ice_tracking_app_after_pressure/)
+- [JetBrains to enable data sharing by default](https://www.reddit.com/r/androiddev/comments/1nwen6v/jetbrains_to_enable_data_sharing_by_default/)
+- [Anybody here tried Kotzilla on their project?](https://www.reddit.com/r/androiddev/comments/1nwegze/anybody_here_tried_kotzilla_on_their_project/)
+- [Got an Android app development question? Ask away! October 2025 edition](https://www.reddit.com/r/androiddev/comments/1nwclr0/got_an_android_app_development_question_ask_away/)
+- [To QR or not to QR?](https://www.reddit.com/r/androiddev/comments/1nwbly2/to_qr_or_not_to_qr/)
+- [Jetpack Compose vs XML + Java: Best Choice for Long-Term Android Development?](https://www.reddit.com/r/androiddev/comments/1nwaegr/jetpack_compose_vs_xml_java_best_choice_for/)
+- [how do I reset the float value](https://www.reddit.com/r/androiddev/comments/1nw6ffx/how_do_i_reset_the_float_value/)
+- [MongoDB Device Sync EOL](https://www.reddit.com/r/androiddev/comments/1nw3pwp/mongodb_device_sync_eol/)
+- [Release build crashes instantly &lpar;ClassNotFoundException for MainActivity&rpar; — worked fine in debug](https://www.reddit.com/r/androiddev/comments/1nw2wke/release_build_crashes_instantly/)
+- [Google defends Android&#39;s controversial sideloading policy](https://www.reddit.com/r/androiddev/comments/1nw28wu/google_defends_androids_controversial_sideloading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
