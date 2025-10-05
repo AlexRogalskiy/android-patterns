@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Apple removes ICE tracking app after pressure from Bondi DOJ](https://www.reddit.com/r/androiddev/comments/1nwm89m/apple_removes_ice_tracking_app_after_pressure/)
-- [JetBrains to enable data sharing by default](https://www.reddit.com/r/androiddev/comments/1nwen6v/jetbrains_to_enable_data_sharing_by_default/)
-- [Anybody here tried Kotzilla on their project?](https://www.reddit.com/r/androiddev/comments/1nwegze/anybody_here_tried_kotzilla_on_their_project/)
-- [Got an Android app development question? Ask away! October 2025 edition](https://www.reddit.com/r/androiddev/comments/1nwclr0/got_an_android_app_development_question_ask_away/)
-- [To QR or not to QR?](https://www.reddit.com/r/androiddev/comments/1nwbly2/to_qr_or_not_to_qr/)
-- [Jetpack Compose vs XML + Java: Best Choice for Long-Term Android Development?](https://www.reddit.com/r/androiddev/comments/1nwaegr/jetpack_compose_vs_xml_java_best_choice_for/)
-- [how do I reset the float value](https://www.reddit.com/r/androiddev/comments/1nw6ffx/how_do_i_reset_the_float_value/)
-- [MongoDB Device Sync EOL](https://www.reddit.com/r/androiddev/comments/1nw3pwp/mongodb_device_sync_eol/)
-- [Release build crashes instantly &lpar;ClassNotFoundException for MainActivity&rpar; — worked fine in debug](https://www.reddit.com/r/androiddev/comments/1nw2wke/release_build_crashes_instantly/)
-- [Google defends Android&#39;s controversial sideloading policy](https://www.reddit.com/r/androiddev/comments/1nw28wu/google_defends_androids_controversial_sideloading/)
+- [MCalc Utility App Testing](https://www.reddit.com/r/androiddev/comments/1ny4m1r/mcalc_utility_app_testing/)
+- [Issue with Share Preview Image on Google Play Store](https://www.reddit.com/r/androiddev/comments/1ny1wyg/issue_with_share_preview_image_on_google_play/)
+- [IAP not supported for my country in Play Console — any workarounds?](https://www.reddit.com/r/androiddev/comments/1nxvgmn/iap_not_supported_for_my_country_in_play_console/)
+- [Tell me how am I being outranked by my peer group](https://www.reddit.com/r/androiddev/comments/1nxr3z8/tell_me_how_am_i_being_outranked_by_my_peer_group/)
+- [How can i make mod?](https://www.reddit.com/r/androiddev/comments/1nxpsry/how_can_i_make_mod/)
+- [Music app](https://www.reddit.com/r/androiddev/comments/1nxmkf2/music_app/)
+- [Play Store Console cannot test the app](https://www.reddit.com/r/androiddev/comments/1nxgg31/play_store_console_cannot_test_the_app/)
+- [Foreground Service Question](https://www.reddit.com/r/androiddev/comments/1nxf35k/foreground_service_question/)
+- [Scrcpy Rotation/Display Issue](https://www.reddit.com/r/androiddev/comments/1nxe3sq/scrcpy_rotationdisplay_issue/)
+- [Tutorial to develop an app](https://www.reddit.com/r/androiddev/comments/1nx8r20/tutorial_to_develop_an_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
