@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [MCalc Utility App Testing](https://www.reddit.com/r/androiddev/comments/1ny4m1r/mcalc_utility_app_testing/)
-- [Issue with Share Preview Image on Google Play Store](https://www.reddit.com/r/androiddev/comments/1ny1wyg/issue_with_share_preview_image_on_google_play/)
-- [IAP not supported for my country in Play Console — any workarounds?](https://www.reddit.com/r/androiddev/comments/1nxvgmn/iap_not_supported_for_my_country_in_play_console/)
-- [Tell me how am I being outranked by my peer group](https://www.reddit.com/r/androiddev/comments/1nxr3z8/tell_me_how_am_i_being_outranked_by_my_peer_group/)
-- [How can i make mod?](https://www.reddit.com/r/androiddev/comments/1nxpsry/how_can_i_make_mod/)
-- [Music app](https://www.reddit.com/r/androiddev/comments/1nxmkf2/music_app/)
-- [Play Store Console cannot test the app](https://www.reddit.com/r/androiddev/comments/1nxgg31/play_store_console_cannot_test_the_app/)
-- [Foreground Service Question](https://www.reddit.com/r/androiddev/comments/1nxf35k/foreground_service_question/)
-- [Scrcpy Rotation/Display Issue](https://www.reddit.com/r/androiddev/comments/1nxe3sq/scrcpy_rotationdisplay_issue/)
-- [Tutorial to develop an app](https://www.reddit.com/r/androiddev/comments/1nx8r20/tutorial_to_develop_an_app/)
+- [StateFlow versus State](https://www.reddit.com/r/androiddev/comments/1nz6cp0/stateflow_versus_state/)
+- [MCP Server for Android UI Analysis](https://www.reddit.com/r/androiddev/comments/1nyyxkb/mcp_server_for_android_ui_analysis/)
+- [Added taste tracking + grind recommendations to my shot timer app](https://www.reddit.com/r/androiddev/comments/1nyyeds/added_taste_tracking_grind_recommendations_to_my/)
+- [How to promote free app with zero budget](https://www.reddit.com/r/androiddev/comments/1nyxqzs/how_to_promote_free_app_with_zero_budget/)
+- [Registering google play developer account based on UK company, but i dont live there](https://www.reddit.com/r/androiddev/comments/1nywdn2/registering_google_play_developer_account_based/)
+- [App developer needed. From UK only. Creating travel app. Message me.](https://www.reddit.com/r/androiddev/comments/1nyv6vv/app_developer_needed_from_uk_only_creating_travel/)
+- [Android Studio Bug - Running the App Does Not Show UI Changes](https://www.reddit.com/r/androiddev/comments/1nymisl/android_studio_bug_running_the_app_does_not_show/)
+- [Are these good metrics for production, what is a good baseline generally?](https://www.reddit.com/r/androiddev/comments/1nymhn7/are_these_good_metrics_for_production_what_is_a/)
+- [Changes to Developer tools not being saved](https://www.reddit.com/r/androiddev/comments/1nymdul/changes_to_developer_tools_not_being_saved/)
+- [Kotlin android dev without Android studio](https://www.reddit.com/r/androiddev/comments/1nylvmp/kotlin_android_dev_without_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
