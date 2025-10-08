@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [StateFlow versus State](https://www.reddit.com/r/androiddev/comments/1nz6cp0/stateflow_versus_state/)
-- [MCP Server for Android UI Analysis](https://www.reddit.com/r/androiddev/comments/1nyyxkb/mcp_server_for_android_ui_analysis/)
-- [Added taste tracking + grind recommendations to my shot timer app](https://www.reddit.com/r/androiddev/comments/1nyyeds/added_taste_tracking_grind_recommendations_to_my/)
-- [How to promote free app with zero budget](https://www.reddit.com/r/androiddev/comments/1nyxqzs/how_to_promote_free_app_with_zero_budget/)
-- [Registering google play developer account based on UK company, but i dont live there](https://www.reddit.com/r/androiddev/comments/1nywdn2/registering_google_play_developer_account_based/)
-- [App developer needed. From UK only. Creating travel app. Message me.](https://www.reddit.com/r/androiddev/comments/1nyv6vv/app_developer_needed_from_uk_only_creating_travel/)
-- [Android Studio Bug - Running the App Does Not Show UI Changes](https://www.reddit.com/r/androiddev/comments/1nymisl/android_studio_bug_running_the_app_does_not_show/)
-- [Are these good metrics for production, what is a good baseline generally?](https://www.reddit.com/r/androiddev/comments/1nymhn7/are_these_good_metrics_for_production_what_is_a/)
-- [Changes to Developer tools not being saved](https://www.reddit.com/r/androiddev/comments/1nymdul/changes_to_developer_tools_not_being_saved/)
-- [Kotlin android dev without Android studio](https://www.reddit.com/r/androiddev/comments/1nylvmp/kotlin_android_dev_without_android_studio/)
+- [Twa and lifecycle android](https://www.reddit.com/r/androiddev/comments/1o0wa8n/twa_and_lifecycle_android/)
+- [File system query bug](https://www.reddit.com/r/androiddev/comments/1o0w2ai/file_system_query_bug/)
+- [Random Sound](https://www.reddit.com/r/androiddev/comments/1o0unyz/random_sound/)
+- [Meta mediation with admob](https://www.reddit.com/r/androiddev/comments/1o0n70r/meta_mediation_with_admob/)
+- [Hiring a Lead Mobile Developer for Health Tech startup](https://www.reddit.com/r/androiddev/comments/1o0ieme/hiring_a_lead_mobile_developer_for_health_tech/)
+- [Open source Lawnchair adds app drawer folders and dock widgets](https://www.reddit.com/r/androiddev/comments/1o0h9gd/open_source_lawnchair_adds_app_drawer_folders_and/)
+- [Anyone played around with the new &quot;App Function&quot; thing in Android 16?](https://www.reddit.com/r/androiddev/comments/1o0e9u8/anyone_played_around_with_the_new_app_function/)
+- [Automation of App deployment](https://www.reddit.com/r/androiddev/comments/1o0aopc/automation_of_app_deployment/)
+- [📚 A comprehensive study of how the Compose compiler determines type stability for recomposition optimization.](https://www.reddit.com/r/androiddev/comments/1o0ajt0/a_comprehensive_study_of_how_the_compose_compiler/)
+- [what&#39;s the process to upload an in-app purchase product app?](https://www.reddit.com/r/androiddev/comments/1o0ajf5/whats_the_process_to_upload_an_inapp_purchase/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
