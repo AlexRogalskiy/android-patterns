@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Twa and lifecycle android](https://www.reddit.com/r/androiddev/comments/1o0wa8n/twa_and_lifecycle_android/)
-- [File system query bug](https://www.reddit.com/r/androiddev/comments/1o0w2ai/file_system_query_bug/)
-- [Random Sound](https://www.reddit.com/r/androiddev/comments/1o0unyz/random_sound/)
-- [Meta mediation with admob](https://www.reddit.com/r/androiddev/comments/1o0n70r/meta_mediation_with_admob/)
-- [Hiring a Lead Mobile Developer for Health Tech startup](https://www.reddit.com/r/androiddev/comments/1o0ieme/hiring_a_lead_mobile_developer_for_health_tech/)
-- [Open source Lawnchair adds app drawer folders and dock widgets](https://www.reddit.com/r/androiddev/comments/1o0h9gd/open_source_lawnchair_adds_app_drawer_folders_and/)
-- [Anyone played around with the new &quot;App Function&quot; thing in Android 16?](https://www.reddit.com/r/androiddev/comments/1o0e9u8/anyone_played_around_with_the_new_app_function/)
-- [Automation of App deployment](https://www.reddit.com/r/androiddev/comments/1o0aopc/automation_of_app_deployment/)
-- [📚 A comprehensive study of how the Compose compiler determines type stability for recomposition optimization.](https://www.reddit.com/r/androiddev/comments/1o0ajt0/a_comprehensive_study_of_how_the_compose_compiler/)
-- [what&#39;s the process to upload an in-app purchase product app?](https://www.reddit.com/r/androiddev/comments/1o0ajf5/whats_the_process_to_upload_an_inapp_purchase/)
+- [Any ideas on how to bypass FRP?](https://www.reddit.com/r/androiddev/comments/1o1tta0/any_ideas_on_how_to_bypass_frp/)
+- [CrowdDJ app](https://www.reddit.com/r/androiddev/comments/1o1pzoc/crowddj_app/)
+- [Taxes on Google Play Developer Settlement payouts](https://www.reddit.com/r/androiddev/comments/1o1hbyh/taxes_on_google_play_developer_settlement_payouts/)
+- [Android app fallback not working](https://www.reddit.com/r/androiddev/comments/1o1hbqz/android_app_fallback_not_working/)
+- [Place an Image on top of all other zu](https://www.reddit.com/r/androiddev/comments/1o1go2r/place_an_image_on_top_of_all_other_zu/)
+- [App orientation rules and practices](https://www.reddit.com/r/androiddev/comments/1o1gllt/app_orientation_rules_and_practices/)
+- [Maybe I’m doing something wrong after app released?](https://www.reddit.com/r/androiddev/comments/1o1fqgl/maybe_im_doing_something_wrong_after_app_released/)
+- [Try Fashion: I Built a Feature-Rich AI Photo Editor Almost Entirely with Gemini in Android Studio!](https://www.reddit.com/r/androiddev/comments/1o1edv3/try_fashion_i_built_a_featurerich_ai_photo_editor/)
+- [SQLiteNow v0.2 &lpar;new KMP library for SQLite&rpar;](https://www.reddit.com/r/androiddev/comments/1o1crh1/sqlitenow_v02_new_kmp_library_for_sqlite/)
+- [Product wants “parity” with iOS’s new Liquid Glass look — but it feels like forced identicality. Anyone else dealing with this?](https://www.reddit.com/r/androiddev/comments/1o1cn5g/product_wants_parity_with_ioss_new_liquid_glass/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
