@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any ideas on how to bypass FRP?](https://www.reddit.com/r/androiddev/comments/1o1tta0/any_ideas_on_how_to_bypass_frp/)
-- [CrowdDJ app](https://www.reddit.com/r/androiddev/comments/1o1pzoc/crowddj_app/)
-- [Taxes on Google Play Developer Settlement payouts](https://www.reddit.com/r/androiddev/comments/1o1hbyh/taxes_on_google_play_developer_settlement_payouts/)
-- [Android app fallback not working](https://www.reddit.com/r/androiddev/comments/1o1hbqz/android_app_fallback_not_working/)
-- [Place an Image on top of all other zu](https://www.reddit.com/r/androiddev/comments/1o1go2r/place_an_image_on_top_of_all_other_zu/)
-- [App orientation rules and practices](https://www.reddit.com/r/androiddev/comments/1o1gllt/app_orientation_rules_and_practices/)
-- [Maybe I’m doing something wrong after app released?](https://www.reddit.com/r/androiddev/comments/1o1fqgl/maybe_im_doing_something_wrong_after_app_released/)
-- [Try Fashion: I Built a Feature-Rich AI Photo Editor Almost Entirely with Gemini in Android Studio!](https://www.reddit.com/r/androiddev/comments/1o1edv3/try_fashion_i_built_a_featurerich_ai_photo_editor/)
-- [SQLiteNow v0.2 &lpar;new KMP library for SQLite&rpar;](https://www.reddit.com/r/androiddev/comments/1o1crh1/sqlitenow_v02_new_kmp_library_for_sqlite/)
-- [Product wants “parity” with iOS’s new Liquid Glass look — but it feels like forced identicality. Anyone else dealing with this?](https://www.reddit.com/r/androiddev/comments/1o1cn5g/product_wants_parity_with_ioss_new_liquid_glass/)
+- [Getting google maps turn by turn details](https://www.reddit.com/r/androiddev/comments/1o2k2ga/getting_google_maps_turn_by_turn_details/)
+- [How to upload files, download files &lpar;including file downloads that aren&#39;t https&rpar;, change the status and navigation bar color](https://www.reddit.com/r/androiddev/comments/1o2i40m/how_to_upload_files_download_files_including_file/)
+- [Google Play “16 KB page size” error — LiteRT Support libimage_processing_util_jni.so stuck at 0x1000 alignment &lpar;NDK r29 / AGP 8.8.2&rpar;](https://www.reddit.com/r/androiddev/comments/1o2i1mn/google_play_16_kb_page_size_error_litert_support/)
+- [Tired of writing C/C++ for JNI? Use Kotlin/Native instead!](https://www.reddit.com/r/androiddev/comments/1o2h27r/tired_of_writing_cc_for_jni_use_kotlinnative/)
+- [Changes to Google Play for upcoming app store bills for users in applicable US states](https://www.reddit.com/r/androiddev/comments/1o2giwe/changes_to_google_play_for_upcoming_app_store/)
+- [Content Policy Clarification for Stylized Competitive Game](https://www.reddit.com/r/androiddev/comments/1o2fvap/content_policy_clarification_for_stylized/)
+- [Can anyone explain this unusual Jetpack Compose Crash issue?](https://www.reddit.com/r/androiddev/comments/1o2ep12/can_anyone_explain_this_unusual_jetpack_compose/)
+- [Liquid: 0.3.0 - Rotate/scale support along with dispersion](https://www.reddit.com/r/androiddev/comments/1o2d6pg/liquid_030_rotatescale_support_along_with/)
+- [Is android automotive easy to pick up?](https://www.reddit.com/r/androiddev/comments/1o2cx2m/is_android_automotive_easy_to_pick_up/)
+- [Building ZentithLLM — A Fully Offline LLM Assistant for Android Devices](https://www.reddit.com/r/androiddev/comments/1o296xg/building_zentithllm_a_fully_offline_llm_assistant/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
