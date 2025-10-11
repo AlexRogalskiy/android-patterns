@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Getting google maps turn by turn details](https://www.reddit.com/r/androiddev/comments/1o2k2ga/getting_google_maps_turn_by_turn_details/)
-- [How to upload files, download files &lpar;including file downloads that aren&#39;t https&rpar;, change the status and navigation bar color](https://www.reddit.com/r/androiddev/comments/1o2i40m/how_to_upload_files_download_files_including_file/)
-- [Google Play “16 KB page size” error — LiteRT Support libimage_processing_util_jni.so stuck at 0x1000 alignment &lpar;NDK r29 / AGP 8.8.2&rpar;](https://www.reddit.com/r/androiddev/comments/1o2i1mn/google_play_16_kb_page_size_error_litert_support/)
-- [Tired of writing C/C++ for JNI? Use Kotlin/Native instead!](https://www.reddit.com/r/androiddev/comments/1o2h27r/tired_of_writing_cc_for_jni_use_kotlinnative/)
-- [Changes to Google Play for upcoming app store bills for users in applicable US states](https://www.reddit.com/r/androiddev/comments/1o2giwe/changes_to_google_play_for_upcoming_app_store/)
-- [Content Policy Clarification for Stylized Competitive Game](https://www.reddit.com/r/androiddev/comments/1o2fvap/content_policy_clarification_for_stylized/)
-- [Can anyone explain this unusual Jetpack Compose Crash issue?](https://www.reddit.com/r/androiddev/comments/1o2ep12/can_anyone_explain_this_unusual_jetpack_compose/)
-- [Liquid: 0.3.0 - Rotate/scale support along with dispersion](https://www.reddit.com/r/androiddev/comments/1o2d6pg/liquid_030_rotatescale_support_along_with/)
-- [Is android automotive easy to pick up?](https://www.reddit.com/r/androiddev/comments/1o2cx2m/is_android_automotive_easy_to_pick_up/)
-- [Building ZentithLLM — A Fully Offline LLM Assistant for Android Devices](https://www.reddit.com/r/androiddev/comments/1o296xg/building_zentithllm_a_fully_offline_llm_assistant/)
+- [Actions like Run and Debug are not working.](https://www.reddit.com/r/androiddev/comments/1o3hf76/actions_like_run_and_debug_are_not_working/)
+- [Verification Stuck for Weeks: Non-US Owner of US LLC &lpar;&quot;Issuing Country Mismatch&quot; Error&rpar; - Any Advice?](https://www.reddit.com/r/androiddev/comments/1o3b8k0/verification_stuck_for_weeks_nonus_owner_of_us/)
+- [Dream apk available now](https://www.reddit.com/r/androiddev/comments/1o3a57y/dream_apk_available_now/)
+- [Vibe coding using Android Studio and Gemini has been terrible for me](https://www.reddit.com/r/androiddev/comments/1o39cto/vibe_coding_using_android_studio_and_gemini_has/)
+- [Collection of Actions We Can Take to Stop Developer Verification &lpar;Last post was removed by &quot;Reddit&#39;s Filters&quot; so I moved the info here&rpar;](https://www.reddit.com/r/androiddev/comments/1o3797k/collection_of_actions_we_can_take_to_stop/)
+- [When will Navigation 3 be safe to use in production apps?](https://www.reddit.com/r/androiddev/comments/1o36r7b/when_will_navigation_3_be_safe_to_use_in/)
+- [Developer account](https://www.reddit.com/r/androiddev/comments/1o369ot/developer_account/)
+- [Offline-First Challenge: Making CSV &amp; PDF Reports Right on Android](https://www.reddit.com/r/androiddev/comments/1o34vxe/offlinefirst_challenge_making_csv_pdf_reports/)
+- [AI Platform: Cortex](https://www.reddit.com/r/androiddev/comments/1o33odh/ai_platform_cortex/)
+- [Android 9 general Problems?](https://www.reddit.com/r/androiddev/comments/1o31v61/android_9_general_problems/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
