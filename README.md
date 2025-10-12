@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Actions like Run and Debug are not working.](https://www.reddit.com/r/androiddev/comments/1o3hf76/actions_like_run_and_debug_are_not_working/)
-- [Verification Stuck for Weeks: Non-US Owner of US LLC &lpar;&quot;Issuing Country Mismatch&quot; Error&rpar; - Any Advice?](https://www.reddit.com/r/androiddev/comments/1o3b8k0/verification_stuck_for_weeks_nonus_owner_of_us/)
-- [Dream apk available now](https://www.reddit.com/r/androiddev/comments/1o3a57y/dream_apk_available_now/)
-- [Vibe coding using Android Studio and Gemini has been terrible for me](https://www.reddit.com/r/androiddev/comments/1o39cto/vibe_coding_using_android_studio_and_gemini_has/)
-- [Collection of Actions We Can Take to Stop Developer Verification &lpar;Last post was removed by &quot;Reddit&#39;s Filters&quot; so I moved the info here&rpar;](https://www.reddit.com/r/androiddev/comments/1o3797k/collection_of_actions_we_can_take_to_stop/)
-- [When will Navigation 3 be safe to use in production apps?](https://www.reddit.com/r/androiddev/comments/1o36r7b/when_will_navigation_3_be_safe_to_use_in/)
-- [Developer account](https://www.reddit.com/r/androiddev/comments/1o369ot/developer_account/)
-- [Offline-First Challenge: Making CSV &amp; PDF Reports Right on Android](https://www.reddit.com/r/androiddev/comments/1o34vxe/offlinefirst_challenge_making_csv_pdf_reports/)
-- [AI Platform: Cortex](https://www.reddit.com/r/androiddev/comments/1o33odh/ai_platform_cortex/)
-- [Android 9 general Problems?](https://www.reddit.com/r/androiddev/comments/1o31v61/android_9_general_problems/)
+- [It is officially impossible to launch an app](https://www.reddit.com/r/androiddev/comments/1o49xnj/it_is_officially_impossible_to_launch_an_app/)
+- [New in Android, do you have a standard state management? I&#39;m coming from flutter / react when we have a lot of options.](https://www.reddit.com/r/androiddev/comments/1o49veq/new_in_android_do_you_have_a_standard_state/)
+- [Truncated audio after a bit of a silent pause](https://www.reddit.com/r/androiddev/comments/1o47mno/truncated_audio_after_a_bit_of_a_silent_pause/)
+- [Settingsdumpservice running at startup](https://www.reddit.com/r/androiddev/comments/1o41uqo/settingsdumpservice_running_at_startup/)
+- [Late to the dev world - is it too complicated now to continue for fun?](https://www.reddit.com/r/androiddev/comments/1o40mgq/late_to_the_dev_world_is_it_too_complicated_now/)
+- [Push Notification Navigation causes](https://www.reddit.com/r/androiddev/comments/1o3wt90/push_notification_navigation_causes/)
+- [Feeling stuck after starting Android dev—need help getting past the “I don’t know anything” phase](https://www.reddit.com/r/androiddev/comments/1o3woml/feeling_stuck_after_starting_android_devneed_help/)
+- [Started Android dev course on YouTube, but feel stuck when I try coding. Can someone guide me?](https://www.reddit.com/r/androiddev/comments/1o3wn8k/started_android_dev_course_on_youtube_but_feel/)
+- [My app got rejected, privacy policy issue,but in their evidence it&#39;s visible?](https://www.reddit.com/r/androiddev/comments/1o3v4he/my_app_got_rejected_privacy_policy_issuebut_in/)
+- [Question about app and SMS development](https://www.reddit.com/r/androiddev/comments/1o3uekq/question_about_app_and_sms_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
