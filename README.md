@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [It is officially impossible to launch an app](https://www.reddit.com/r/androiddev/comments/1o49xnj/it_is_officially_impossible_to_launch_an_app/)
-- [New in Android, do you have a standard state management? I&#39;m coming from flutter / react when we have a lot of options.](https://www.reddit.com/r/androiddev/comments/1o49veq/new_in_android_do_you_have_a_standard_state/)
-- [Truncated audio after a bit of a silent pause](https://www.reddit.com/r/androiddev/comments/1o47mno/truncated_audio_after_a_bit_of_a_silent_pause/)
-- [Settingsdumpservice running at startup](https://www.reddit.com/r/androiddev/comments/1o41uqo/settingsdumpservice_running_at_startup/)
-- [Late to the dev world - is it too complicated now to continue for fun?](https://www.reddit.com/r/androiddev/comments/1o40mgq/late_to_the_dev_world_is_it_too_complicated_now/)
-- [Push Notification Navigation causes](https://www.reddit.com/r/androiddev/comments/1o3wt90/push_notification_navigation_causes/)
-- [Feeling stuck after starting Android dev—need help getting past the “I don’t know anything” phase](https://www.reddit.com/r/androiddev/comments/1o3woml/feeling_stuck_after_starting_android_devneed_help/)
-- [Started Android dev course on YouTube, but feel stuck when I try coding. Can someone guide me?](https://www.reddit.com/r/androiddev/comments/1o3wn8k/started_android_dev_course_on_youtube_but_feel/)
-- [My app got rejected, privacy policy issue,but in their evidence it&#39;s visible?](https://www.reddit.com/r/androiddev/comments/1o3v4he/my_app_got_rejected_privacy_policy_issuebut_in/)
-- [Question about app and SMS development](https://www.reddit.com/r/androiddev/comments/1o3uekq/question_about_app_and_sms_development/)
+- [Unknow APP Android 16](https://www.reddit.com/r/androiddev/comments/1o629be/unknow_app_android_16/)
+- [Why is it all my apps are developer apps? Like on my computer, etc.](https://www.reddit.com/r/androiddev/comments/1o605wj/why_is_it_all_my_apps_are_developer_apps_like_on/)
+- [How can I lock myself out from TestDPC](https://www.reddit.com/r/androiddev/comments/1o5z66k/how_can_i_lock_myself_out_from_testdpc/)
+- [Best practice to deploy vibe coded app to Android?](https://www.reddit.com/r/androiddev/comments/1o5xq0j/best_practice_to_deploy_vibe_coded_app_to_android/)
+- [I created a new kind of notepad - but totally different, just try ;&rpar;](https://www.reddit.com/r/androiddev/comments/1o5tn6y/i_created_a_new_kind_of_notepad_but_totally/)
+- [My movies keeps deleting itself on Honor 400](https://www.reddit.com/r/androiddev/comments/1o5sop1/my_movies_keeps_deleting_itself_on_honor_400/)
+- [🖥️ I built “LocalScreenShare” | simple, no-setup screen sharing between Android devices &lpar;and PCs&rpar;](https://www.reddit.com/r/androiddev/comments/1o5p925/i_built_localscreenshare_simple_nosetup_screen/)
+- [Understanding Google AI billing and quotas for Android Studio’s Gemini agent](https://www.reddit.com/r/androiddev/comments/1o5ojjy/understanding_google_ai_billing_and_quotas_for/)
+- [Getting downloads but no free trial sign ups](https://www.reddit.com/r/androiddev/comments/1o5nye4/getting_downloads_but_no_free_trial_sign_ups/)
+- [ViewModels and data management in complex and large apps](https://www.reddit.com/r/androiddev/comments/1o5n9fr/viewmodels_and_data_management_in_complex_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
