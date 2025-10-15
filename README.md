@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Unknow APP Android 16](https://www.reddit.com/r/androiddev/comments/1o629be/unknow_app_android_16/)
-- [Why is it all my apps are developer apps? Like on my computer, etc.](https://www.reddit.com/r/androiddev/comments/1o605wj/why_is_it_all_my_apps_are_developer_apps_like_on/)
-- [How can I lock myself out from TestDPC](https://www.reddit.com/r/androiddev/comments/1o5z66k/how_can_i_lock_myself_out_from_testdpc/)
-- [Best practice to deploy vibe coded app to Android?](https://www.reddit.com/r/androiddev/comments/1o5xq0j/best_practice_to_deploy_vibe_coded_app_to_android/)
-- [I created a new kind of notepad - but totally different, just try ;&rpar;](https://www.reddit.com/r/androiddev/comments/1o5tn6y/i_created_a_new_kind_of_notepad_but_totally/)
-- [My movies keeps deleting itself on Honor 400](https://www.reddit.com/r/androiddev/comments/1o5sop1/my_movies_keeps_deleting_itself_on_honor_400/)
-- [🖥️ I built “LocalScreenShare” | simple, no-setup screen sharing between Android devices &lpar;and PCs&rpar;](https://www.reddit.com/r/androiddev/comments/1o5p925/i_built_localscreenshare_simple_nosetup_screen/)
-- [Understanding Google AI billing and quotas for Android Studio’s Gemini agent](https://www.reddit.com/r/androiddev/comments/1o5ojjy/understanding_google_ai_billing_and_quotas_for/)
-- [Getting downloads but no free trial sign ups](https://www.reddit.com/r/androiddev/comments/1o5nye4/getting_downloads_but_no_free_trial_sign_ups/)
-- [ViewModels and data management in complex and large apps](https://www.reddit.com/r/androiddev/comments/1o5n9fr/viewmodels_and_data_management_in_complex_and/)
+- [Curious what are your guys opinion on this?](https://www.reddit.com/r/androiddev/comments/1o6vlaz/curious_what_are_your_guys_opinion_on_this/)
+- [That moment you realize half your FCM/APNs pushes are going nowhere](https://www.reddit.com/r/androiddev/comments/1o6upgo/that_moment_you_realize_half_your_fcmapns_pushes/)
+- [App suspendida](https://www.reddit.com/r/androiddev/comments/1o6tj8r/app_suspendida/)
+- [A simple app I made to store and share IBANs securely &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/androiddev/comments/1o6scwf/a_simple_app_i_made_to_store_and_share_ibans/)
+- [ML Kit GenAI APIs return FEATURE_NOT_FOUND on unlocked devices](https://www.reddit.com/r/androiddev/comments/1o6r8v2/ml_kit_genai_apis_return_feature_not_found_on/)
+- [What kinds of problems do you tackle in Android specific interviews?](https://www.reddit.com/r/androiddev/comments/1o6ql5f/what_kinds_of_problems_do_you_tackle_in_android/)
+- [Helppp](https://www.reddit.com/r/androiddev/comments/1o6npbt/helppp/)
+- [Help - Disable 2nd Mic in S23 Galaxy Android ???](https://www.reddit.com/r/androiddev/comments/1o6m7dt/help_disable_2nd_mic_in_s23_galaxy_android/)
+- [Looking for job roles](https://www.reddit.com/r/androiddev/comments/1o6keuv/looking_for_job_roles/)
+- [Modified Serialized ArrayList File](https://www.reddit.com/r/androiddev/comments/1o6i04d/modified_serialized_arraylist_file/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
