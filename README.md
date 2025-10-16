@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Curious what are your guys opinion on this?](https://www.reddit.com/r/androiddev/comments/1o6vlaz/curious_what_are_your_guys_opinion_on_this/)
-- [That moment you realize half your FCM/APNs pushes are going nowhere](https://www.reddit.com/r/androiddev/comments/1o6upgo/that_moment_you_realize_half_your_fcmapns_pushes/)
-- [App suspendida](https://www.reddit.com/r/androiddev/comments/1o6tj8r/app_suspendida/)
-- [A simple app I made to store and share IBANs securely &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/androiddev/comments/1o6scwf/a_simple_app_i_made_to_store_and_share_ibans/)
-- [ML Kit GenAI APIs return FEATURE_NOT_FOUND on unlocked devices](https://www.reddit.com/r/androiddev/comments/1o6r8v2/ml_kit_genai_apis_return_feature_not_found_on/)
-- [What kinds of problems do you tackle in Android specific interviews?](https://www.reddit.com/r/androiddev/comments/1o6ql5f/what_kinds_of_problems_do_you_tackle_in_android/)
-- [Helppp](https://www.reddit.com/r/androiddev/comments/1o6npbt/helppp/)
-- [Help - Disable 2nd Mic in S23 Galaxy Android ???](https://www.reddit.com/r/androiddev/comments/1o6m7dt/help_disable_2nd_mic_in_s23_galaxy_android/)
-- [Looking for job roles](https://www.reddit.com/r/androiddev/comments/1o6keuv/looking_for_job_roles/)
-- [Modified Serialized ArrayList File](https://www.reddit.com/r/androiddev/comments/1o6i04d/modified_serialized_arraylist_file/)
+- [Google sign in cancels. I&#39;m using fingerprint from google.](https://www.reddit.com/r/androiddev/comments/1o7pj3n/google_sign_in_cancels_im_using_fingerprint_from/)
+- [Auditing / Monitoring Network Activity of Android Apps](https://www.reddit.com/r/androiddev/comments/1o7lep9/auditing_monitoring_network_activity_of_android/)
+- [How to publish and consume a maven package with native code and have symbols available for upload to Google Play?](https://www.reddit.com/r/androiddev/comments/1o7kox5/how_to_publish_and_consume_a_maven_package_with/)
+- [From natural language to UI tests: A deep dive into Journeys for Android Studio](https://www.reddit.com/r/androiddev/comments/1o7gi55/from_natural_language_to_ui_tests_a_deep_dive/)
+- [Looking for app ideas that solve real-world problems &lpar;Java-based project&rpar;](https://www.reddit.com/r/androiddev/comments/1o7868r/looking_for_app_ideas_that_solve_realworld/)
+- [Rebuild Android NDK and emulator for old x86_64 machines](https://www.reddit.com/r/androiddev/comments/1o7759j/rebuild_android_ndk_and_emulator_for_old_x86_64/)
+- [How much do you charge for Android Native, iOS Native, or Kotlin Multiplatform projects?](https://www.reddit.com/r/androiddev/comments/1o76g3c/how_much_do_you_charge_for_android_native_ios/)
+- [AdaptiveIcon - manditory or just an overblown missunderstanding?](https://www.reddit.com/r/androiddev/comments/1o75nzr/adaptiveicon_manditory_or_just_an_overblown/)
+- [Understanding retain{} internals: A Scope-based State Preservation in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1o74c4l/understanding_retain_internals_a_scopebased_state/)
+- [Binder Transaction Limit](https://www.reddit.com/r/androiddev/comments/1o721fv/binder_transaction_limit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
