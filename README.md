@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google sign in cancels. I&#39;m using fingerprint from google.](https://www.reddit.com/r/androiddev/comments/1o7pj3n/google_sign_in_cancels_im_using_fingerprint_from/)
-- [Auditing / Monitoring Network Activity of Android Apps](https://www.reddit.com/r/androiddev/comments/1o7lep9/auditing_monitoring_network_activity_of_android/)
-- [How to publish and consume a maven package with native code and have symbols available for upload to Google Play?](https://www.reddit.com/r/androiddev/comments/1o7kox5/how_to_publish_and_consume_a_maven_package_with/)
-- [From natural language to UI tests: A deep dive into Journeys for Android Studio](https://www.reddit.com/r/androiddev/comments/1o7gi55/from_natural_language_to_ui_tests_a_deep_dive/)
-- [Looking for app ideas that solve real-world problems &lpar;Java-based project&rpar;](https://www.reddit.com/r/androiddev/comments/1o7868r/looking_for_app_ideas_that_solve_realworld/)
-- [Rebuild Android NDK and emulator for old x86_64 machines](https://www.reddit.com/r/androiddev/comments/1o7759j/rebuild_android_ndk_and_emulator_for_old_x86_64/)
-- [How much do you charge for Android Native, iOS Native, or Kotlin Multiplatform projects?](https://www.reddit.com/r/androiddev/comments/1o76g3c/how_much_do_you_charge_for_android_native_ios/)
-- [AdaptiveIcon - manditory or just an overblown missunderstanding?](https://www.reddit.com/r/androiddev/comments/1o75nzr/adaptiveicon_manditory_or_just_an_overblown/)
-- [Understanding retain{} internals: A Scope-based State Preservation in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1o74c4l/understanding_retain_internals_a_scopebased_state/)
-- [Binder Transaction Limit](https://www.reddit.com/r/androiddev/comments/1o721fv/binder_transaction_limit/)
+- [Call recording retrieving](https://www.reddit.com/r/androiddev/comments/1o8lm8k/call_recording_retrieving/)
+- [Looking for an Experienced Android Developer](https://www.reddit.com/r/androiddev/comments/1o8i1wf/looking_for_an_experienced_android_developer/)
+- [The absurdity of android development: two admob accounts were created for me when I first tried to make one. Though I closed one, I&#39;m still getting this screen every time I try to use admob](https://www.reddit.com/r/androiddev/comments/1o8ew09/the_absurdity_of_android_development_two_admob/)
+- [Looking Where to Start for Porting an App](https://www.reddit.com/r/androiddev/comments/1o8e5zr/looking_where_to_start_for_porting_an_app/)
+- [Strings.xml → OTA Localization](https://www.reddit.com/r/androiddev/comments/1o8d4gw/stringsxml_ota_localization/)
+- [Android Auto DHU version issue](https://www.reddit.com/r/androiddev/comments/1o8cwuh/android_auto_dhu_version_issue/)
+- [Context creation](https://www.reddit.com/r/androiddev/comments/1o8clav/context_creation/)
+- [Notifications Alert](https://www.reddit.com/r/androiddev/comments/1o85tfq/notifications_alert/)
+- [are adb modifications detectable?](https://www.reddit.com/r/androiddev/comments/1o84i8r/are_adb_modifications_detectable/)
+- [iOS dev &lpar;9+ yrs&rpar; learning Android from scratch — best way to build the right foundation?](https://www.reddit.com/r/androiddev/comments/1o80cm0/ios_dev_9_yrs_learning_android_from_scratch_best/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
