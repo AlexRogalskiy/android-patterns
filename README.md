@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Call recording retrieving](https://www.reddit.com/r/androiddev/comments/1o8lm8k/call_recording_retrieving/)
-- [Looking for an Experienced Android Developer](https://www.reddit.com/r/androiddev/comments/1o8i1wf/looking_for_an_experienced_android_developer/)
-- [The absurdity of android development: two admob accounts were created for me when I first tried to make one. Though I closed one, I&#39;m still getting this screen every time I try to use admob](https://www.reddit.com/r/androiddev/comments/1o8ew09/the_absurdity_of_android_development_two_admob/)
-- [Looking Where to Start for Porting an App](https://www.reddit.com/r/androiddev/comments/1o8e5zr/looking_where_to_start_for_porting_an_app/)
-- [Strings.xml → OTA Localization](https://www.reddit.com/r/androiddev/comments/1o8d4gw/stringsxml_ota_localization/)
-- [Android Auto DHU version issue](https://www.reddit.com/r/androiddev/comments/1o8cwuh/android_auto_dhu_version_issue/)
-- [Context creation](https://www.reddit.com/r/androiddev/comments/1o8clav/context_creation/)
-- [Notifications Alert](https://www.reddit.com/r/androiddev/comments/1o85tfq/notifications_alert/)
-- [are adb modifications detectable?](https://www.reddit.com/r/androiddev/comments/1o84i8r/are_adb_modifications_detectable/)
-- [iOS dev &lpar;9+ yrs&rpar; learning Android from scratch — best way to build the right foundation?](https://www.reddit.com/r/androiddev/comments/1o80cm0/ios_dev_9_yrs_learning_android_from_scratch_best/)
+- [Advice for building first app](https://www.reddit.com/r/androiddev/comments/1o9imqn/advice_for_building_first_app/)
+- [Does this mean 30% retention? Isn&#39;t that high?](https://www.reddit.com/r/androiddev/comments/1o9dthy/does_this_mean_30_retention_isnt_that_high/)
+- [Made a simple tool that logs live touch data in the background, on non-rooted android](https://www.reddit.com/r/androiddev/comments/1o9atxz/made_a_simple_tool_that_logs_live_touch_data_in/)
+- [Would you use a modern ORM + auto-migration tool for Android &lpar;like Prisma or Ent, but for Room/SQLite&rpar;?](https://www.reddit.com/r/androiddev/comments/1o9atd2/would_you_use_a_modern_orm_automigration_tool_for/)
+- [What categories and list Items do people use most in daily life? &lpar;For a list-making app&rpar;](https://www.reddit.com/r/androiddev/comments/1o95gun/what_categories_and_list_items_do_people_use_most/)
+- [Every new Android Studio version gets worse](https://www.reddit.com/r/androiddev/comments/1o93mcf/every_new_android_studio_version_gets_worse/)
+- [Every new Android Studio version gets worse](https://www.reddit.com/r/androiddev/comments/1o93lni/every_new_android_studio_version_gets_worse/)
+- [4 days in: I built session replay that actually works](https://www.reddit.com/r/androiddev/comments/1o913lm/4_days_in_i_built_session_replay_that_actually/)
+- [Taught my middle school mentee how to make buttery-smooth Compose animations, turned it into a quick guide 🚀](https://www.reddit.com/r/androiddev/comments/1o8zp9o/taught_my_middle_school_mentee_how_to_make/)
+- [Looking for best phone model for development](https://www.reddit.com/r/androiddev/comments/1o8xlsx/looking_for_best_phone_model_for_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
