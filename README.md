@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Advice for building first app](https://www.reddit.com/r/androiddev/comments/1o9imqn/advice_for_building_first_app/)
-- [Does this mean 30% retention? Isn&#39;t that high?](https://www.reddit.com/r/androiddev/comments/1o9dthy/does_this_mean_30_retention_isnt_that_high/)
-- [Made a simple tool that logs live touch data in the background, on non-rooted android](https://www.reddit.com/r/androiddev/comments/1o9atxz/made_a_simple_tool_that_logs_live_touch_data_in/)
-- [Would you use a modern ORM + auto-migration tool for Android &lpar;like Prisma or Ent, but for Room/SQLite&rpar;?](https://www.reddit.com/r/androiddev/comments/1o9atd2/would_you_use_a_modern_orm_automigration_tool_for/)
-- [What categories and list Items do people use most in daily life? &lpar;For a list-making app&rpar;](https://www.reddit.com/r/androiddev/comments/1o95gun/what_categories_and_list_items_do_people_use_most/)
-- [Every new Android Studio version gets worse](https://www.reddit.com/r/androiddev/comments/1o93mcf/every_new_android_studio_version_gets_worse/)
-- [Every new Android Studio version gets worse](https://www.reddit.com/r/androiddev/comments/1o93lni/every_new_android_studio_version_gets_worse/)
-- [4 days in: I built session replay that actually works](https://www.reddit.com/r/androiddev/comments/1o913lm/4_days_in_i_built_session_replay_that_actually/)
-- [Taught my middle school mentee how to make buttery-smooth Compose animations, turned it into a quick guide 🚀](https://www.reddit.com/r/androiddev/comments/1o8zp9o/taught_my_middle_school_mentee_how_to_make/)
-- [Looking for best phone model for development](https://www.reddit.com/r/androiddev/comments/1o8xlsx/looking_for_best_phone_model_for_development/)
+- [Just a general Android question hope this is allowed. My phone just turned on from off and allowed by fingerprint to unlock it straight away instead of making you use the pin on restart. Is this a software bug ? Moto g85.](https://www.reddit.com/r/androiddev/comments/1oacx6n/just_a_general_android_question_hope_this_is/)
+- [Paying a Dev to Fix This — It’s Not Just a Game for Me](https://www.reddit.com/r/androiddev/comments/1oabsmc/paying_a_dev_to_fix_this_its_not_just_a_game_for/)
+- [!!! •Fix•Help•Solution•Resolve• !!! ------------------------------------- THE: &quot;GET•STUCK•IN•THE•••BOOTLOOP/RECOVERY-MODE•••&quot; -PROBLEM ‼️](https://www.reddit.com/r/androiddev/comments/1oab1lw/fixhelpsolutionresolve_the/)
+- [Any good courses and resources for UI design for mobile specifically ?](https://www.reddit.com/r/androiddev/comments/1oa4uti/any_good_courses_and_resources_for_ui_design_for/)
+- [Get every video you watch on reddit app](https://www.reddit.com/r/androiddev/comments/1oa3gis/get_every_video_you_watch_on_reddit_app/)
+- [How much GB RAM for Social Media App Server?](https://www.reddit.com/r/androiddev/comments/1oa0j6g/how_much_gb_ram_for_social_media_app_server/)
+- [Need help with webviews !](https://www.reddit.com/r/androiddev/comments/1o9ydzx/need_help_with_webviews/)
+- [The only Brick Breaker that you can fish in. Dev Log for Bricks Breaker RPG](https://www.reddit.com/r/androiddev/comments/1o9y1w2/the_only_brick_breaker_that_you_can_fish_in_dev/)
+- [&quot;False&quot; positive with Blank Screens in Android TV](https://www.reddit.com/r/androiddev/comments/1o9t4wa/false_positive_with_blank_screens_in_android_tv/)
+- [Is there any Android/iOS preview video generator?](https://www.reddit.com/r/androiddev/comments/1o9rr2l/is_there_any_androidios_preview_video_generator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
