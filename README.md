@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just a general Android question hope this is allowed. My phone just turned on from off and allowed by fingerprint to unlock it straight away instead of making you use the pin on restart. Is this a software bug ? Moto g85.](https://www.reddit.com/r/androiddev/comments/1oacx6n/just_a_general_android_question_hope_this_is/)
-- [Paying a Dev to Fix This — It’s Not Just a Game for Me](https://www.reddit.com/r/androiddev/comments/1oabsmc/paying_a_dev_to_fix_this_its_not_just_a_game_for/)
-- [!!! •Fix•Help•Solution•Resolve• !!! ------------------------------------- THE: &quot;GET•STUCK•IN•THE•••BOOTLOOP/RECOVERY-MODE•••&quot; -PROBLEM ‼️](https://www.reddit.com/r/androiddev/comments/1oab1lw/fixhelpsolutionresolve_the/)
-- [Any good courses and resources for UI design for mobile specifically ?](https://www.reddit.com/r/androiddev/comments/1oa4uti/any_good_courses_and_resources_for_ui_design_for/)
-- [Get every video you watch on reddit app](https://www.reddit.com/r/androiddev/comments/1oa3gis/get_every_video_you_watch_on_reddit_app/)
-- [How much GB RAM for Social Media App Server?](https://www.reddit.com/r/androiddev/comments/1oa0j6g/how_much_gb_ram_for_social_media_app_server/)
-- [Need help with webviews !](https://www.reddit.com/r/androiddev/comments/1o9ydzx/need_help_with_webviews/)
-- [The only Brick Breaker that you can fish in. Dev Log for Bricks Breaker RPG](https://www.reddit.com/r/androiddev/comments/1o9y1w2/the_only_brick_breaker_that_you_can_fish_in_dev/)
-- [&quot;False&quot; positive with Blank Screens in Android TV](https://www.reddit.com/r/androiddev/comments/1o9t4wa/false_positive_with_blank_screens_in_android_tv/)
-- [Is there any Android/iOS preview video generator?](https://www.reddit.com/r/androiddev/comments/1o9rr2l/is_there_any_androidios_preview_video_generator/)
+- [Projects that&#39;ll get me hired?](https://www.reddit.com/r/androiddev/comments/1ob2ffo/projects_thatll_get_me_hired/)
+- [cast phone in unity](https://www.reddit.com/r/androiddev/comments/1oaz304/cast_phone_in_unity/)
+- [How to detect YouTube’s current theme &lpar;dark/light&rpar; inside a WebView?](https://www.reddit.com/r/androiddev/comments/1oaywhg/how_to_detect_youtubes_current_theme_darklight/)
+- [Bricked Tecno Spark Go 1 &lpar;KL4&rpar; After Bootloader Unlock Attempt - Need Help! &lpar;Unisoc T615, splloader Erased, Not Detected in lsusb or Windows&rpar;](https://www.reddit.com/r/androiddev/comments/1oayrki/bricked_tecno_spark_go_1_kl4_after_bootloader/)
+- [Help me find this AI app on Reddit please](https://www.reddit.com/r/androiddev/comments/1oayjzs/help_me_find_this_ai_app_on_reddit_please/)
+- [Issue with In-App Product Price Test Panel](https://www.reddit.com/r/androiddev/comments/1oavhpa/issue_with_inapp_product_price_test_panel/)
+- [How to build an affiliate system for my in-app product](https://www.reddit.com/r/androiddev/comments/1oaqi13/how_to_build_an_affiliate_system_for_my_inapp/)
+- [Is there really no way to control the wifi programmatically? &lpar;I hope that this is the right place to ask&rpar;](https://www.reddit.com/r/androiddev/comments/1oannr8/is_there_really_no_way_to_control_the_wifi/)
+- [Bosch Layoff](https://www.reddit.com/r/androiddev/comments/1oanjeh/bosch_layoff/)
+- [Updating a progress bar with text &lpar;Java&rpar;](https://www.reddit.com/r/androiddev/comments/1oamx1c/updating_a_progress_bar_with_text_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
