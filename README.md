@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Projects that&#39;ll get me hired?](https://www.reddit.com/r/androiddev/comments/1ob2ffo/projects_thatll_get_me_hired/)
-- [cast phone in unity](https://www.reddit.com/r/androiddev/comments/1oaz304/cast_phone_in_unity/)
-- [How to detect YouTube’s current theme &lpar;dark/light&rpar; inside a WebView?](https://www.reddit.com/r/androiddev/comments/1oaywhg/how_to_detect_youtubes_current_theme_darklight/)
-- [Bricked Tecno Spark Go 1 &lpar;KL4&rpar; After Bootloader Unlock Attempt - Need Help! &lpar;Unisoc T615, splloader Erased, Not Detected in lsusb or Windows&rpar;](https://www.reddit.com/r/androiddev/comments/1oayrki/bricked_tecno_spark_go_1_kl4_after_bootloader/)
-- [Help me find this AI app on Reddit please](https://www.reddit.com/r/androiddev/comments/1oayjzs/help_me_find_this_ai_app_on_reddit_please/)
-- [Issue with In-App Product Price Test Panel](https://www.reddit.com/r/androiddev/comments/1oavhpa/issue_with_inapp_product_price_test_panel/)
-- [How to build an affiliate system for my in-app product](https://www.reddit.com/r/androiddev/comments/1oaqi13/how_to_build_an_affiliate_system_for_my_inapp/)
-- [Is there really no way to control the wifi programmatically? &lpar;I hope that this is the right place to ask&rpar;](https://www.reddit.com/r/androiddev/comments/1oannr8/is_there_really_no_way_to_control_the_wifi/)
-- [Bosch Layoff](https://www.reddit.com/r/androiddev/comments/1oanjeh/bosch_layoff/)
-- [Updating a progress bar with text &lpar;Java&rpar;](https://www.reddit.com/r/androiddev/comments/1oamx1c/updating_a_progress_bar_with_text_java/)
+- [I created a community where you can promote your apps and games as long as they don&#39;t have any forced ads &lpar;banner ads count too&rpar;](https://www.reddit.com/r/androiddev/comments/1obx064/i_created_a_community_where_you_can_promote_your/)
+- [Clock app retains previous volume settings even after being uninstalled](https://www.reddit.com/r/androiddev/comments/1obwkvu/clock_app_retains_previous_volume_settings_even/)
+- [android-odiff fast image comparision library](https://www.reddit.com/r/androiddev/comments/1obwgty/androidodiff_fast_image_comparision_library/)
+- [Missing Option on Play Store - Install App On Watch](https://www.reddit.com/r/androiddev/comments/1obrkem/missing_option_on_play_store_install_app_on_watch/)
+- [Local AI agent sucks](https://www.reddit.com/r/androiddev/comments/1obqx13/local_ai_agent_sucks/)
+- [Android TV compose navigation drawer focus issue](https://www.reddit.com/r/androiddev/comments/1obpee8/android_tv_compose_navigation_drawer_focus_issue/)
+- [Firebase dynamic links finally shut down? What are the alternatives that you folks are using?](https://www.reddit.com/r/androiddev/comments/1obk4fy/firebase_dynamic_links_finally_shut_down_what_are/)
+- [Kaizen V2.0.0 on its way !! Support and Drop a star of you like it :D](https://www.reddit.com/r/androiddev/comments/1obgfpw/kaizen_v200_on_its_way_support_and_drop_a_star_of/)
+- [comparison app](https://www.reddit.com/r/androiddev/comments/1obeqm1/comparison_app/)
+- [Google Play showing devs&#39; full legal names &amp; you can&#39;t do anything about it](https://www.reddit.com/r/androiddev/comments/1obcf48/google_play_showing_devs_full_legal_names_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
