@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I created a community where you can promote your apps and games as long as they don&#39;t have any forced ads &lpar;banner ads count too&rpar;](https://www.reddit.com/r/androiddev/comments/1obx064/i_created_a_community_where_you_can_promote_your/)
-- [Clock app retains previous volume settings even after being uninstalled](https://www.reddit.com/r/androiddev/comments/1obwkvu/clock_app_retains_previous_volume_settings_even/)
-- [android-odiff fast image comparision library](https://www.reddit.com/r/androiddev/comments/1obwgty/androidodiff_fast_image_comparision_library/)
-- [Missing Option on Play Store - Install App On Watch](https://www.reddit.com/r/androiddev/comments/1obrkem/missing_option_on_play_store_install_app_on_watch/)
-- [Local AI agent sucks](https://www.reddit.com/r/androiddev/comments/1obqx13/local_ai_agent_sucks/)
-- [Android TV compose navigation drawer focus issue](https://www.reddit.com/r/androiddev/comments/1obpee8/android_tv_compose_navigation_drawer_focus_issue/)
-- [Firebase dynamic links finally shut down? What are the alternatives that you folks are using?](https://www.reddit.com/r/androiddev/comments/1obk4fy/firebase_dynamic_links_finally_shut_down_what_are/)
-- [Kaizen V2.0.0 on its way !! Support and Drop a star of you like it :D](https://www.reddit.com/r/androiddev/comments/1obgfpw/kaizen_v200_on_its_way_support_and_drop_a_star_of/)
-- [comparison app](https://www.reddit.com/r/androiddev/comments/1obeqm1/comparison_app/)
-- [Google Play showing devs&#39; full legal names &amp; you can&#39;t do anything about it](https://www.reddit.com/r/androiddev/comments/1obcf48/google_play_showing_devs_full_legal_names_you/)
+- [[cross-posting] Kotlin Multiplatform Mobile Plugin: not installed. When, in fact, it is installed](https://www.reddit.com/r/androiddev/comments/1ocub8h/crossposting_kotlin_multiplatform_mobile_plugin/)
+- [Hi I was watching TV on a android TV and suddenly adb permissons came up for it](https://www.reddit.com/r/androiddev/comments/1oct6mk/hi_i_was_watching_tv_on_a_android_tv_and_suddenly/)
+- [Apps that cause users to download or install applications from unknown sources](https://www.reddit.com/r/androiddev/comments/1ocq76g/apps_that_cause_users_to_download_or_install/)
+- [Built an expense tracker that’s probably too simple but it actually helps me.](https://www.reddit.com/r/androiddev/comments/1ocm86d/built_an_expense_tracker_thats_probably_too/)
+- [IOS 26 inspired toolbar in Compose Multiplatform 🙃](https://www.reddit.com/r/androiddev/comments/1ocglht/ios_26_inspired_toolbar_in_compose_multiplatform/)
+- [Introducing Compose Ripple Indication](https://www.reddit.com/r/androiddev/comments/1ocekac/introducing_compose_ripple_indication/)
+- [Future of APK](https://www.reddit.com/r/androiddev/comments/1oce4wr/future_of_apk/)
+- [exchange genuine feedback on apps](https://www.reddit.com/r/androiddev/comments/1oc930b/exchange_genuine_feedback_on_apps/)
+- [The LeakCanary Method](https://www.reddit.com/r/androiddev/comments/1oc872b/the_leakcanary_method/)
+- [Setting armeabi-v7a on a android phone](https://www.reddit.com/r/androiddev/comments/1oc7vjp/setting_armeabiv7a_on_a_android_phone/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
