@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[cross-posting] Kotlin Multiplatform Mobile Plugin: not installed. When, in fact, it is installed](https://www.reddit.com/r/androiddev/comments/1ocub8h/crossposting_kotlin_multiplatform_mobile_plugin/)
-- [Hi I was watching TV on a android TV and suddenly adb permissons came up for it](https://www.reddit.com/r/androiddev/comments/1oct6mk/hi_i_was_watching_tv_on_a_android_tv_and_suddenly/)
-- [Apps that cause users to download or install applications from unknown sources](https://www.reddit.com/r/androiddev/comments/1ocq76g/apps_that_cause_users_to_download_or_install/)
-- [Built an expense tracker that’s probably too simple but it actually helps me.](https://www.reddit.com/r/androiddev/comments/1ocm86d/built_an_expense_tracker_thats_probably_too/)
-- [IOS 26 inspired toolbar in Compose Multiplatform 🙃](https://www.reddit.com/r/androiddev/comments/1ocglht/ios_26_inspired_toolbar_in_compose_multiplatform/)
-- [Introducing Compose Ripple Indication](https://www.reddit.com/r/androiddev/comments/1ocekac/introducing_compose_ripple_indication/)
-- [Future of APK](https://www.reddit.com/r/androiddev/comments/1oce4wr/future_of_apk/)
-- [exchange genuine feedback on apps](https://www.reddit.com/r/androiddev/comments/1oc930b/exchange_genuine_feedback_on_apps/)
-- [The LeakCanary Method](https://www.reddit.com/r/androiddev/comments/1oc872b/the_leakcanary_method/)
-- [Setting armeabi-v7a on a android phone](https://www.reddit.com/r/androiddev/comments/1oc7vjp/setting_armeabiv7a_on_a_android_phone/)
+- [I made this beautiful globe effect with Compose few weeks ago I am open sourcing it today](https://www.reddit.com/r/androiddev/comments/1odpe78/i_made_this_beautiful_globe_effect_with_compose/)
+- [Organic growth](https://www.reddit.com/r/androiddev/comments/1odm7s9/organic_growth/)
+- [Where&#39;s the issue ?](https://www.reddit.com/r/androiddev/comments/1odjddw/wheres_the_issue/)
+- [Typical Android Developer Experience](https://www.reddit.com/r/androiddev/comments/1odiuv6/typical_android_developer_experience/)
+- [Medical education app](https://www.reddit.com/r/androiddev/comments/1odhj4b/medical_education_app/)
+- [Auto-Import: Where have you been all my life?](https://www.reddit.com/r/androiddev/comments/1odh6ox/autoimport_where_have_you_been_all_my_life/)
+- [Would you trust a “Stop Scrolling” app that uses Accessibility Service to detect Instagram/TikTok usage?](https://www.reddit.com/r/androiddev/comments/1odfthy/would_you_trust_a_stop_scrolling_app_that_uses/)
+- [How long it takes to verify after clicking apply for production.Its my first app.](https://www.reddit.com/r/androiddev/comments/1odfkrz/how_long_it_takes_to_verify_after_clicking_apply/)
+- [Google opens Apps Accelerator, 12 week growth program](https://www.reddit.com/r/androiddev/comments/1ode9jj/google_opens_apps_accelerator_12_week_growth/)
+- [Possibility of Android being designed to support upgrades for old phones and make life easier for developers](https://www.reddit.com/r/androiddev/comments/1odcuwm/possibility_of_android_being_designed_to_support/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
