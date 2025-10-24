@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made this beautiful globe effect with Compose few weeks ago I am open sourcing it today](https://www.reddit.com/r/androiddev/comments/1odpe78/i_made_this_beautiful_globe_effect_with_compose/)
-- [Organic growth](https://www.reddit.com/r/androiddev/comments/1odm7s9/organic_growth/)
-- [Where&#39;s the issue ?](https://www.reddit.com/r/androiddev/comments/1odjddw/wheres_the_issue/)
-- [Typical Android Developer Experience](https://www.reddit.com/r/androiddev/comments/1odiuv6/typical_android_developer_experience/)
-- [Medical education app](https://www.reddit.com/r/androiddev/comments/1odhj4b/medical_education_app/)
-- [Auto-Import: Where have you been all my life?](https://www.reddit.com/r/androiddev/comments/1odh6ox/autoimport_where_have_you_been_all_my_life/)
-- [Would you trust a “Stop Scrolling” app that uses Accessibility Service to detect Instagram/TikTok usage?](https://www.reddit.com/r/androiddev/comments/1odfthy/would_you_trust_a_stop_scrolling_app_that_uses/)
-- [How long it takes to verify after clicking apply for production.Its my first app.](https://www.reddit.com/r/androiddev/comments/1odfkrz/how_long_it_takes_to_verify_after_clicking_apply/)
-- [Google opens Apps Accelerator, 12 week growth program](https://www.reddit.com/r/androiddev/comments/1ode9jj/google_opens_apps_accelerator_12_week_growth/)
-- [Possibility of Android being designed to support upgrades for old phones and make life easier for developers](https://www.reddit.com/r/androiddev/comments/1odcuwm/possibility_of_android_being_designed_to_support/)
+- [Any API or alternative to programmatically getting the latest Play Store ratings from the Console?](https://www.reddit.com/r/androiddev/comments/1oelx0j/any_api_or_alternative_to_programmatically/)
+- [🚀 Just launched MakeMyApp — Turn your idea into a real Android app in minutes!](https://www.reddit.com/r/androiddev/comments/1oeji0e/just_launched_makemyapp_turn_your_idea_into_a/)
+- [ZPlayer 10 beta released](https://www.reddit.com/r/androiddev/comments/1oei100/zplayer_10_beta_released/)
+- [App Icon Scraper &amp; Themer &lpar;Android app Build&rpar;](https://www.reddit.com/r/androiddev/comments/1oehd73/app_icon_scraper_themer_android_app_build/)
+- [[NEED GENUINE HELP ABOUT MY APP] I spent 4 months making this unique Android app, but it’s stuck at 4 downloads/day, what am I doing wrong?](https://www.reddit.com/r/androiddev/comments/1oegmbi/need_genuine_help_about_my_app_i_spent_4_months/)
+- [CREATING AN ORGANIZATION ACCOUNT](https://www.reddit.com/r/androiddev/comments/1oedtqi/creating_an_organization_account/)
+- [Mobile developer - what would you do in my position?](https://www.reddit.com/r/androiddev/comments/1oeak0c/mobile_developer_what_would_you_do_in_my_position/)
+- [Using Potrace in android app](https://www.reddit.com/r/androiddev/comments/1oe9do2/using_potrace_in_android_app/)
+- [Unknown icon &lpar;new to Android dev.&rpar;](https://www.reddit.com/r/androiddev/comments/1oe80cy/unknown_icon_new_to_android_dev/)
+- [Are you a Mobile SDK Developer? I’d love your input on a short survey!](https://www.reddit.com/r/androiddev/comments/1oe70rb/are_you_a_mobile_sdk_developer_id_love_your_input/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
