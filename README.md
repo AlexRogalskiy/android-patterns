@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any API or alternative to programmatically getting the latest Play Store ratings from the Console?](https://www.reddit.com/r/androiddev/comments/1oelx0j/any_api_or_alternative_to_programmatically/)
-- [🚀 Just launched MakeMyApp — Turn your idea into a real Android app in minutes!](https://www.reddit.com/r/androiddev/comments/1oeji0e/just_launched_makemyapp_turn_your_idea_into_a/)
-- [ZPlayer 10 beta released](https://www.reddit.com/r/androiddev/comments/1oei100/zplayer_10_beta_released/)
-- [App Icon Scraper &amp; Themer &lpar;Android app Build&rpar;](https://www.reddit.com/r/androiddev/comments/1oehd73/app_icon_scraper_themer_android_app_build/)
-- [[NEED GENUINE HELP ABOUT MY APP] I spent 4 months making this unique Android app, but it’s stuck at 4 downloads/day, what am I doing wrong?](https://www.reddit.com/r/androiddev/comments/1oegmbi/need_genuine_help_about_my_app_i_spent_4_months/)
-- [CREATING AN ORGANIZATION ACCOUNT](https://www.reddit.com/r/androiddev/comments/1oedtqi/creating_an_organization_account/)
-- [Mobile developer - what would you do in my position?](https://www.reddit.com/r/androiddev/comments/1oeak0c/mobile_developer_what_would_you_do_in_my_position/)
-- [Using Potrace in android app](https://www.reddit.com/r/androiddev/comments/1oe9do2/using_potrace_in_android_app/)
-- [Unknown icon &lpar;new to Android dev.&rpar;](https://www.reddit.com/r/androiddev/comments/1oe80cy/unknown_icon_new_to_android_dev/)
-- [Are you a Mobile SDK Developer? I’d love your input on a short survey!](https://www.reddit.com/r/androiddev/comments/1oe70rb/are_you_a_mobile_sdk_developer_id_love_your_input/)
+- [Swift.org: Announcing the Swift SDK for Android](https://www.reddit.com/r/androiddev/comments/1ofeos8/swiftorg_announcing_the_swift_sdk_for_android/)
+- [What are the best Android Dev courses with Jetpack compose](https://www.reddit.com/r/androiddev/comments/1ofavy3/what_are_the_best_android_dev_courses_with/)
+- [Announcing the Swift SDK for Android](https://www.reddit.com/r/androiddev/comments/1of93xo/announcing_the_swift_sdk_for_android/)
+- [Added more people into the globe &lpar;prev. 50 now 100&rpar;](https://www.reddit.com/r/androiddev/comments/1of8agd/added_more_people_into_the_globe_prev_50_now_100/)
+- [🎉 Just published my first Android library! attachments-compose](https://www.reddit.com/r/androiddev/comments/1of6454/just_published_my_first_android_library/)
+- [Troubleshooting a 16 KB alignment issue: AS says OK, Play Console disagrees](https://www.reddit.com/r/androiddev/comments/1of4n5k/troubleshooting_a_16_kb_alignment_issue_as_says/)
+- [Android developer verification is mandatory ?](https://www.reddit.com/r/androiddev/comments/1of3wln/android_developer_verification_is_mandatory/)
+- [Google Play Is Bullying Developers and No One Is Talking about It](https://www.reddit.com/r/androiddev/comments/1of3jou/google_play_is_bullying_developers_and_no_one_is/)
+- [Catching gestures over a toolbar?](https://www.reddit.com/r/androiddev/comments/1of0yp5/catching_gestures_over_a_toolbar/)
+- [Submitting tax info for a Wyoming LLC owned by a non-US resident — W-8BEN or W-8BEN-E?](https://www.reddit.com/r/androiddev/comments/1of0n6g/submitting_tax_info_for_a_wyoming_llc_owned_by_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
