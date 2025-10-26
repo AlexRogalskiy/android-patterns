@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Swift.org: Announcing the Swift SDK for Android](https://www.reddit.com/r/androiddev/comments/1ofeos8/swiftorg_announcing_the_swift_sdk_for_android/)
-- [What are the best Android Dev courses with Jetpack compose](https://www.reddit.com/r/androiddev/comments/1ofavy3/what_are_the_best_android_dev_courses_with/)
-- [Announcing the Swift SDK for Android](https://www.reddit.com/r/androiddev/comments/1of93xo/announcing_the_swift_sdk_for_android/)
-- [Added more people into the globe &lpar;prev. 50 now 100&rpar;](https://www.reddit.com/r/androiddev/comments/1of8agd/added_more_people_into_the_globe_prev_50_now_100/)
-- [🎉 Just published my first Android library! attachments-compose](https://www.reddit.com/r/androiddev/comments/1of6454/just_published_my_first_android_library/)
-- [Troubleshooting a 16 KB alignment issue: AS says OK, Play Console disagrees](https://www.reddit.com/r/androiddev/comments/1of4n5k/troubleshooting_a_16_kb_alignment_issue_as_says/)
-- [Android developer verification is mandatory ?](https://www.reddit.com/r/androiddev/comments/1of3wln/android_developer_verification_is_mandatory/)
-- [Google Play Is Bullying Developers and No One Is Talking about It](https://www.reddit.com/r/androiddev/comments/1of3jou/google_play_is_bullying_developers_and_no_one_is/)
-- [Catching gestures over a toolbar?](https://www.reddit.com/r/androiddev/comments/1of0yp5/catching_gestures_over_a_toolbar/)
-- [Submitting tax info for a Wyoming LLC owned by a non-US resident — W-8BEN or W-8BEN-E?](https://www.reddit.com/r/androiddev/comments/1of0n6g/submitting_tax_info_for_a_wyoming_llc_owned_by_a/)
+- [I Put My Heart in This](https://www.reddit.com/r/androiddev/comments/1og7txi/i_put_my_heart_in_this/)
+- [How do indie Android developers research competitor apps before building their own?](https://www.reddit.com/r/androiddev/comments/1ofyusj/how_do_indie_android_developers_research/)
+- [simulating real BluetoothManager to test complex scenarios](https://www.reddit.com/r/androiddev/comments/1ofxeci/simulating_real_bluetoothmanager_to_test_complex/)
+- [I built MSM: A Minecraft Server Manager for Android &lpar;Termux&rpar;. Open-Source Tool for Running Servers](https://www.reddit.com/r/androiddev/comments/1ofv22d/i_built_msm_a_minecraft_server_manager_for/)
+- [Questions regarding ads](https://www.reddit.com/r/androiddev/comments/1ofrwv4/questions_regarding_ads/)
+- [Can Google still reject an app if ad permissions are declared properly?](https://www.reddit.com/r/androiddev/comments/1ofqam5/can_google_still_reject_an_app_if_ad_permissions/)
+- [🚀 My Journey of Open-Sourcing the Attachment View Component &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1ofomn4/my_journey_of_opensourcing_the_attachment_view/)
+- [Created this nowbar concept in jetpack compose](https://www.reddit.com/r/androiddev/comments/1ofklv9/created_this_nowbar_concept_in_jetpack_compose/)
+- [My app has been stuck “In review” for over 10 days after responding to Google Play’s email — is this normal?](https://www.reddit.com/r/androiddev/comments/1ofk8ub/my_app_has_been_stuck_in_review_for_over_10_days/)
+- [Android alternative to Windows Process Explorer?](https://www.reddit.com/r/androiddev/comments/1ofiqoc/android_alternative_to_windows_process_explorer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
