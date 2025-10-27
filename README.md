@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I Put My Heart in This](https://www.reddit.com/r/androiddev/comments/1og7txi/i_put_my_heart_in_this/)
+- [Any experience with https://avow.tech?](https://www.reddit.com/r/androiddev/comments/1oh1581/any_experience_with_httpsavowtech/)
+- [Any tutorial on how to setup RevenueCat &lpar;Step by Step&rpar; for Google Play / Android Apps?](https://www.reddit.com/r/androiddev/comments/1ogrp1h/any_tutorial_on_how_to_setup_revenuecat_step_by/)
+- [My first app got rejected after doing month long internal testing 😭](https://www.reddit.com/r/androiddev/comments/1ogpq3z/my_first_app_got_rejected_after_doing_month_long/)
+- [legion 5i vs aurora 16 vs hp omen](https://www.reddit.com/r/androiddev/comments/1ogmp86/legion_5i_vs_aurora_16_vs_hp_omen/)
+- [🚀 Just released Quick Ball 2.0.0!](https://www.reddit.com/r/androiddev/comments/1ogkk1s/just_released_quick_ball_200/)
+- [Android Emulator XR Device toolbar buttons not working &lpar;Rotate, Power, Volume, etc.&rpar;](https://www.reddit.com/r/androiddev/comments/1ogkg6h/android_emulator_xr_device_toolbar_buttons_not/)
+- [Best videos to familiarize myself with modern Android app development](https://www.reddit.com/r/androiddev/comments/1ogjksh/best_videos_to_familiarize_myself_with_modern/)
 - [How do indie Android developers research competitor apps before building their own?](https://www.reddit.com/r/androiddev/comments/1ofyusj/how_do_indie_android_developers_research/)
 - [simulating real BluetoothManager to test complex scenarios](https://www.reddit.com/r/androiddev/comments/1ofxeci/simulating_real_bluetoothmanager_to_test_complex/)
 - [I built MSM: A Minecraft Server Manager for Android &lpar;Termux&rpar;. Open-Source Tool for Running Servers](https://www.reddit.com/r/androiddev/comments/1ofv22d/i_built_msm_a_minecraft_server_manager_for/)
-- [Questions regarding ads](https://www.reddit.com/r/androiddev/comments/1ofrwv4/questions_regarding_ads/)
-- [Can Google still reject an app if ad permissions are declared properly?](https://www.reddit.com/r/androiddev/comments/1ofqam5/can_google_still_reject_an_app_if_ad_permissions/)
-- [🚀 My Journey of Open-Sourcing the Attachment View Component &lpar;Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1ofomn4/my_journey_of_opensourcing_the_attachment_view/)
-- [Created this nowbar concept in jetpack compose](https://www.reddit.com/r/androiddev/comments/1ofklv9/created_this_nowbar_concept_in_jetpack_compose/)
-- [My app has been stuck “In review” for over 10 days after responding to Google Play’s email — is this normal?](https://www.reddit.com/r/androiddev/comments/1ofk8ub/my_app_has_been_stuck_in_review_for_over_10_days/)
-- [Android alternative to Windows Process Explorer?](https://www.reddit.com/r/androiddev/comments/1ofiqoc/android_alternative_to_windows_process_explorer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
