@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any experience with https://avow.tech?](https://www.reddit.com/r/androiddev/comments/1oh1581/any_experience_with_httpsavowtech/)
-- [Any tutorial on how to setup RevenueCat &lpar;Step by Step&rpar; for Google Play / Android Apps?](https://www.reddit.com/r/androiddev/comments/1ogrp1h/any_tutorial_on_how_to_setup_revenuecat_step_by/)
-- [My first app got rejected after doing month long internal testing 😭](https://www.reddit.com/r/androiddev/comments/1ogpq3z/my_first_app_got_rejected_after_doing_month_long/)
-- [legion 5i vs aurora 16 vs hp omen](https://www.reddit.com/r/androiddev/comments/1ogmp86/legion_5i_vs_aurora_16_vs_hp_omen/)
-- [🚀 Just released Quick Ball 2.0.0!](https://www.reddit.com/r/androiddev/comments/1ogkk1s/just_released_quick_ball_200/)
-- [Android Emulator XR Device toolbar buttons not working &lpar;Rotate, Power, Volume, etc.&rpar;](https://www.reddit.com/r/androiddev/comments/1ogkg6h/android_emulator_xr_device_toolbar_buttons_not/)
-- [Best videos to familiarize myself with modern Android app development](https://www.reddit.com/r/androiddev/comments/1ogjksh/best_videos_to_familiarize_myself_with_modern/)
-- [How do indie Android developers research competitor apps before building their own?](https://www.reddit.com/r/androiddev/comments/1ofyusj/how_do_indie_android_developers_research/)
-- [simulating real BluetoothManager to test complex scenarios](https://www.reddit.com/r/androiddev/comments/1ofxeci/simulating_real_bluetoothmanager_to_test_complex/)
-- [I built MSM: A Minecraft Server Manager for Android &lpar;Termux&rpar;. Open-Source Tool for Running Servers](https://www.reddit.com/r/androiddev/comments/1ofv22d/i_built_msm_a_minecraft_server_manager_for/)
+- [Do people really just say no thanks when they see they have to pay to use the app?](https://www.reddit.com/r/androiddev/comments/1ohucsk/do_people_really_just_say_no_thanks_when_they_see/)
+- [Milou - ROM Downloader for Android!](https://www.reddit.com/r/androiddev/comments/1ohth5j/milou_rom_downloader_for_android/)
+- [MakeItSo codelab: Email/Password sign-in fails while anonymous works fine, anyone else?](https://www.reddit.com/r/androiddev/comments/1ohqh97/makeitso_codelab_emailpassword_signin_fails_while/)
+- [You can talk to Android Studio now](https://www.reddit.com/r/androiddev/comments/1ohpm96/you_can_talk_to_android_studio_now/)
+- [Refactoring UI of my app](https://www.reddit.com/r/androiddev/comments/1ohmpyc/refactoring_ui_of_my_app/)
+- [Made 10 sales from my first android app ;&rpar;](https://www.reddit.com/r/androiddev/comments/1ohmjb0/made_10_sales_from_my_first_android_app/)
+- [Suggestion for the newbie](https://www.reddit.com/r/androiddev/comments/1ohm75u/suggestion_for_the_newbie/)
+- [Partnering with iOS dev](https://www.reddit.com/r/androiddev/comments/1ohltlv/partnering_with_ios_dev/)
+- [Has anyone read Chet Haase&#39;s Android book?](https://www.reddit.com/r/androiddev/comments/1ohirv4/has_anyone_read_chet_haases_android_book/)
+- [Do any of you use Android Studio with the Linux distro Zorin OS 18?](https://www.reddit.com/r/androiddev/comments/1ohhcw4/do_any_of_you_use_android_studio_with_the_linux/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
