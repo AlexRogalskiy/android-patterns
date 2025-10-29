@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do people really just say no thanks when they see they have to pay to use the app?](https://www.reddit.com/r/androiddev/comments/1ohucsk/do_people_really_just_say_no_thanks_when_they_see/)
-- [Milou - ROM Downloader for Android!](https://www.reddit.com/r/androiddev/comments/1ohth5j/milou_rom_downloader_for_android/)
-- [MakeItSo codelab: Email/Password sign-in fails while anonymous works fine, anyone else?](https://www.reddit.com/r/androiddev/comments/1ohqh97/makeitso_codelab_emailpassword_signin_fails_while/)
-- [You can talk to Android Studio now](https://www.reddit.com/r/androiddev/comments/1ohpm96/you_can_talk_to_android_studio_now/)
-- [Refactoring UI of my app](https://www.reddit.com/r/androiddev/comments/1ohmpyc/refactoring_ui_of_my_app/)
-- [Made 10 sales from my first android app ;&rpar;](https://www.reddit.com/r/androiddev/comments/1ohmjb0/made_10_sales_from_my_first_android_app/)
-- [Suggestion for the newbie](https://www.reddit.com/r/androiddev/comments/1ohm75u/suggestion_for_the_newbie/)
-- [Partnering with iOS dev](https://www.reddit.com/r/androiddev/comments/1ohltlv/partnering_with_ios_dev/)
-- [Has anyone read Chet Haase&#39;s Android book?](https://www.reddit.com/r/androiddev/comments/1ohirv4/has_anyone_read_chet_haases_android_book/)
-- [Do any of you use Android Studio with the Linux distro Zorin OS 18?](https://www.reddit.com/r/androiddev/comments/1ohhcw4/do_any_of_you_use_android_studio_with_the_linux/)
+- [Is it still possible for multiple apps to handle outgoing calls on modern Android?](https://www.reddit.com/r/androiddev/comments/1oinj8z/is_it_still_possible_for_multiple_apps_to_handle/)
+- [Activate PiP for Any App](https://www.reddit.com/r/androiddev/comments/1oingw2/activate_pip_for_any_app/)
+- [Starting next year, it will no longer be possible to develop apps for the Android platform without first registering centrally with Google. Take action now.](https://www.reddit.com/r/androiddev/comments/1oijqal/starting_next_year_it_will_no_longer_be_possible/)
+- [Cross-platform with Expo: Is it worth it for Android developers?](https://www.reddit.com/r/androiddev/comments/1oigwcf/crossplatform_with_expo_is_it_worth_it_for/)
+- [What We Talk About When We Talk About Sideloading | F-Droid](https://www.reddit.com/r/androiddev/comments/1oigmk6/what_we_talk_about_when_we_talk_about_sideloading/)
+- [&quot;Cross-platform on-device AI SDK - thoughts?&quot;](https://www.reddit.com/r/androiddev/comments/1oigdzg/crossplatform_ondevice_ai_sdk_thoughts/)
+- [Switching to Android Development because of AI](https://www.reddit.com/r/androiddev/comments/1oibrbn/switching_to_android_development_because_of_ai/)
+- [16 KB alignment for android app](https://www.reddit.com/r/androiddev/comments/1oibopj/16_kb_alignment_for_android_app/)
+- [New Android IDE](https://www.reddit.com/r/androiddev/comments/1oiax7w/new_android_ide/)
+- [Android Studio Narwhal crash issue](https://www.reddit.com/r/androiddev/comments/1oi8r9o/android_studio_narwhal_crash_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
