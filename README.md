@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is it still possible for multiple apps to handle outgoing calls on modern Android?](https://www.reddit.com/r/androiddev/comments/1oinj8z/is_it_still_possible_for_multiple_apps_to_handle/)
-- [Activate PiP for Any App](https://www.reddit.com/r/androiddev/comments/1oingw2/activate_pip_for_any_app/)
-- [Starting next year, it will no longer be possible to develop apps for the Android platform without first registering centrally with Google. Take action now.](https://www.reddit.com/r/androiddev/comments/1oijqal/starting_next_year_it_will_no_longer_be_possible/)
-- [Cross-platform with Expo: Is it worth it for Android developers?](https://www.reddit.com/r/androiddev/comments/1oigwcf/crossplatform_with_expo_is_it_worth_it_for/)
-- [What We Talk About When We Talk About Sideloading | F-Droid](https://www.reddit.com/r/androiddev/comments/1oigmk6/what_we_talk_about_when_we_talk_about_sideloading/)
-- [&quot;Cross-platform on-device AI SDK - thoughts?&quot;](https://www.reddit.com/r/androiddev/comments/1oigdzg/crossplatform_ondevice_ai_sdk_thoughts/)
-- [Switching to Android Development because of AI](https://www.reddit.com/r/androiddev/comments/1oibrbn/switching_to_android_development_because_of_ai/)
-- [16 KB alignment for android app](https://www.reddit.com/r/androiddev/comments/1oibopj/16_kb_alignment_for_android_app/)
-- [New Android IDE](https://www.reddit.com/r/androiddev/comments/1oiax7w/new_android_ide/)
-- [Android Studio Narwhal crash issue](https://www.reddit.com/r/androiddev/comments/1oi8r9o/android_studio_narwhal_crash_issue/)
+- [Need help understanding this](https://www.reddit.com/r/androiddev/comments/1ojnfdq/need_help_understanding_this/)
+- [Build once, run everywhere](https://www.reddit.com/r/androiddev/comments/1ojklgv/build_once_run_everywhere/)
+- [Keep Android Open](https://www.reddit.com/r/androiddev/comments/1ojkcw0/keep_android_open/)
+- [Enshittification](https://www.reddit.com/r/androiddev/comments/1ojjy4b/enshittification/)
+- [Validate app niches before you start building — new UX update + Google Play support](https://www.reddit.com/r/androiddev/comments/1ojjtj1/validate_app_niches_before_you_start_building_new/)
+- [Under age Google play dev authentication.](https://www.reddit.com/r/androiddev/comments/1oji5ow/under_age_google_play_dev_authentication/)
+- [Android backup not backing up all my apps](https://www.reddit.com/r/androiddev/comments/1ojfirs/android_backup_not_backing_up_all_my_apps/)
+- [KMP Wheel Picker released](https://www.reddit.com/r/androiddev/comments/1ojf9df/kmp_wheel_picker_released/)
+- [Guid on Android app](https://www.reddit.com/r/androiddev/comments/1ojf7j6/guid_on_android_app/)
+- [There&#39;s not much updated information about Android Studio on the internet.](https://www.reddit.com/r/androiddev/comments/1ojf7fz/theres_not_much_updated_information_about_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
