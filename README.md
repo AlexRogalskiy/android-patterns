@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need help understanding this](https://www.reddit.com/r/androiddev/comments/1ojnfdq/need_help_understanding_this/)
-- [Build once, run everywhere](https://www.reddit.com/r/androiddev/comments/1ojklgv/build_once_run_everywhere/)
-- [Keep Android Open](https://www.reddit.com/r/androiddev/comments/1ojkcw0/keep_android_open/)
-- [Enshittification](https://www.reddit.com/r/androiddev/comments/1ojjy4b/enshittification/)
-- [Validate app niches before you start building — new UX update + Google Play support](https://www.reddit.com/r/androiddev/comments/1ojjtj1/validate_app_niches_before_you_start_building_new/)
-- [Under age Google play dev authentication.](https://www.reddit.com/r/androiddev/comments/1oji5ow/under_age_google_play_dev_authentication/)
-- [Android backup not backing up all my apps](https://www.reddit.com/r/androiddev/comments/1ojfirs/android_backup_not_backing_up_all_my_apps/)
-- [KMP Wheel Picker released](https://www.reddit.com/r/androiddev/comments/1ojf9df/kmp_wheel_picker_released/)
-- [Guid on Android app](https://www.reddit.com/r/androiddev/comments/1ojf7j6/guid_on_android_app/)
-- [There&#39;s not much updated information about Android Studio on the internet.](https://www.reddit.com/r/androiddev/comments/1ojf7fz/theres_not_much_updated_information_about_android/)
+- [Android STILL Doesn&#39;t Have Foldern Icons &lpar;Natively&rpar;](https://www.reddit.com/r/androiddev/comments/1okbart/android_still_doesnt_have_foldern_icons_natively/)
+- [Is it now mandatory to run a closed test before publishing for old accounts?](https://www.reddit.com/r/androiddev/comments/1ok8e85/is_it_now_mandatory_to_run_a_closed_test_before/)
+- [what happens when you do not update the target sdk?](https://www.reddit.com/r/androiddev/comments/1ok7q3n/what_happens_when_you_do_not_update_the_target_sdk/)
+- [Android Developers Blog: New tools and programs to accelerate your success on Google Play](https://www.reddit.com/r/androiddev/comments/1ok5cbw/android_developers_blog_new_tools_and_programs_to/)
+- [Instrumentation Test recorder for Jetpack Compose projects](https://www.reddit.com/r/androiddev/comments/1ok4csc/instrumentation_test_recorder_for_jetpack_compose/)
+- [Closed testing Access Codes - How to redeem them?](https://www.reddit.com/r/androiddev/comments/1ok3l3b/closed_testing_access_codes_how_to_redeem_them/)
+- [Google Play In-App Products are now &quot;One-Time Products&quot; and it&#39;s breaking my brain](https://www.reddit.com/r/androiddev/comments/1ok36a7/google_play_inapp_products_are_now_onetime/)
+- [If I declare READ_LOGS in my AndroidManifest, can I publish the app to the PlayStore?](https://www.reddit.com/r/androiddev/comments/1ok34xz/if_i_declare_read_logs_in_my_androidmanifest_can/)
+- [Google play console fee payment with virtual card or MasterCard](https://www.reddit.com/r/androiddev/comments/1ok1szt/google_play_console_fee_payment_with_virtual_card/)
+- [Built a radial heatmap tool for store review analysis &lpar;feedback welcome&rpar;](https://www.reddit.com/r/androiddev/comments/1ok1boe/built_a_radial_heatmap_tool_for_store_review/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
