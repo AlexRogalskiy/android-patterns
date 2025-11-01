@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android STILL Doesn&#39;t Have Foldern Icons &lpar;Natively&rpar;](https://www.reddit.com/r/androiddev/comments/1okbart/android_still_doesnt_have_foldern_icons_natively/)
-- [Is it now mandatory to run a closed test before publishing for old accounts?](https://www.reddit.com/r/androiddev/comments/1ok8e85/is_it_now_mandatory_to_run_a_closed_test_before/)
-- [what happens when you do not update the target sdk?](https://www.reddit.com/r/androiddev/comments/1ok7q3n/what_happens_when_you_do_not_update_the_target_sdk/)
-- [Android Developers Blog: New tools and programs to accelerate your success on Google Play](https://www.reddit.com/r/androiddev/comments/1ok5cbw/android_developers_blog_new_tools_and_programs_to/)
-- [Instrumentation Test recorder for Jetpack Compose projects](https://www.reddit.com/r/androiddev/comments/1ok4csc/instrumentation_test_recorder_for_jetpack_compose/)
-- [Closed testing Access Codes - How to redeem them?](https://www.reddit.com/r/androiddev/comments/1ok3l3b/closed_testing_access_codes_how_to_redeem_them/)
-- [Google Play In-App Products are now &quot;One-Time Products&quot; and it&#39;s breaking my brain](https://www.reddit.com/r/androiddev/comments/1ok36a7/google_play_inapp_products_are_now_onetime/)
-- [If I declare READ_LOGS in my AndroidManifest, can I publish the app to the PlayStore?](https://www.reddit.com/r/androiddev/comments/1ok34xz/if_i_declare_read_logs_in_my_androidmanifest_can/)
-- [Google play console fee payment with virtual card or MasterCard](https://www.reddit.com/r/androiddev/comments/1ok1szt/google_play_console_fee_payment_with_virtual_card/)
-- [Built a radial heatmap tool for store review analysis &lpar;feedback welcome&rpar;](https://www.reddit.com/r/androiddev/comments/1ok1boe/built_a_radial_heatmap_tool_for_store_review/)
+- [New to app dev - can I build iOS app on Windows or should I just get a Mac?](https://www.reddit.com/r/androiddev/comments/1olcssh/new_to_app_dev_can_i_build_ios_app_on_windows_or/)
+- [Android 15 adds 16kb, What could this means for Apple Silicon.](https://www.reddit.com/r/androiddev/comments/1olaidf/android_15_adds_16kb_what_could_this_means_for/)
+- [Maestro for testing](https://www.reddit.com/r/androiddev/comments/1ol3r2h/maestro_for_testing/)
+- [App that fetches data from Google drive](https://www.reddit.com/r/androiddev/comments/1ol2apa/app_that_fetches_data_from_google_drive/)
+- [Liquid: 1.0.0 - Compose Multiplatform support](https://www.reddit.com/r/androiddev/comments/1ol0ce8/liquid_100_compose_multiplatform_support/)
+- [New Employment](https://www.reddit.com/r/androiddev/comments/1ol09qz/new_employment/)
+- [Is it possible to listen to volume button presses when the phone is locked?](https://www.reddit.com/r/androiddev/comments/1okv6e4/is_it_possible_to_listen_to_volume_button_presses/)
+- [How do you ensure consistent AI model performance across Android devices?](https://www.reddit.com/r/androiddev/comments/1okun5v/how_do_you_ensure_consistent_ai_model_performance/)
+- [When Player Plays It Too Safe: Unlocking Hidden HD Tracks on Android](https://www.reddit.com/r/androiddev/comments/1okrpmd/when_player_plays_it_too_safe_unlocking_hidden_hd/)
+- [Google Play Developer Program Policy Update](https://www.reddit.com/r/androiddev/comments/1okrazz/google_play_developer_program_policy_update/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
