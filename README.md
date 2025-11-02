@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New to app dev - can I build iOS app on Windows or should I just get a Mac?](https://www.reddit.com/r/androiddev/comments/1olcssh/new_to_app_dev_can_i_build_ios_app_on_windows_or/)
-- [Android 15 adds 16kb, What could this means for Apple Silicon.](https://www.reddit.com/r/androiddev/comments/1olaidf/android_15_adds_16kb_what_could_this_means_for/)
-- [Maestro for testing](https://www.reddit.com/r/androiddev/comments/1ol3r2h/maestro_for_testing/)
-- [App that fetches data from Google drive](https://www.reddit.com/r/androiddev/comments/1ol2apa/app_that_fetches_data_from_google_drive/)
-- [Liquid: 1.0.0 - Compose Multiplatform support](https://www.reddit.com/r/androiddev/comments/1ol0ce8/liquid_100_compose_multiplatform_support/)
-- [New Employment](https://www.reddit.com/r/androiddev/comments/1ol09qz/new_employment/)
-- [Is it possible to listen to volume button presses when the phone is locked?](https://www.reddit.com/r/androiddev/comments/1okv6e4/is_it_possible_to_listen_to_volume_button_presses/)
-- [How do you ensure consistent AI model performance across Android devices?](https://www.reddit.com/r/androiddev/comments/1okun5v/how_do_you_ensure_consistent_ai_model_performance/)
-- [When Player Plays It Too Safe: Unlocking Hidden HD Tracks on Android](https://www.reddit.com/r/androiddev/comments/1okrpmd/when_player_plays_it_too_safe_unlocking_hidden_hd/)
-- [Google Play Developer Program Policy Update](https://www.reddit.com/r/androiddev/comments/1okrazz/google_play_developer_program_policy_update/)
+- [Why do third-party app stores mess with the McDonald&#39;s app?](https://www.reddit.com/r/androiddev/comments/1om42sr/why_do_thirdparty_app_stores_mess_with_the/)
+- [Google Play Developer account using a virtual card from Bybit](https://www.reddit.com/r/androiddev/comments/1om0pf6/google_play_developer_account_using_a_virtual/)
+- [Regarding Job Market](https://www.reddit.com/r/androiddev/comments/1olr669/regarding_job_market/)
+- [⭐ Looking for the Ultimate Android Project Idea! Need Your Opinions ⭐](https://www.reddit.com/r/androiddev/comments/1olr2h4/looking_for_the_ultimate_android_project_idea/)
+- [proximity sensor and Rakat counter](https://www.reddit.com/r/androiddev/comments/1olp3dc/proximity_sensor_and_rakat_counter/)
+- [I built JRE4Android — Run Java &amp; J2ME apps on Android &lpar;no PC, no root](https://www.reddit.com/r/androiddev/comments/1olnr1r/i_built_jre4android_run_java_j2me_apps_on_android/)
+- [Created Chrome Buttons in jetpack compose](https://www.reddit.com/r/androiddev/comments/1oln1z2/created_chrome_buttons_in_jetpack_compose/)
+- [Building APK using Gradle Tooling API with HTTP &lpar;KTOR&rpar;](https://www.reddit.com/r/androiddev/comments/1olk2q6/building_apk_using_gradle_tooling_api_with_http/)
+- [Declarative State Management and SideEffect handling, Forget ViewModels.](https://www.reddit.com/r/androiddev/comments/1oljriz/declarative_state_management_and_sideeffect/)
+- [Detect phone unlock](https://www.reddit.com/r/androiddev/comments/1oli64d/detect_phone_unlock/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
