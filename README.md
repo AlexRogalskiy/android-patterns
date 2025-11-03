@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why do third-party app stores mess with the McDonald&#39;s app?](https://www.reddit.com/r/androiddev/comments/1om42sr/why_do_thirdparty_app_stores_mess_with_the/)
-- [Google Play Developer account using a virtual card from Bybit](https://www.reddit.com/r/androiddev/comments/1om0pf6/google_play_developer_account_using_a_virtual/)
-- [Regarding Job Market](https://www.reddit.com/r/androiddev/comments/1olr669/regarding_job_market/)
-- [⭐ Looking for the Ultimate Android Project Idea! Need Your Opinions ⭐](https://www.reddit.com/r/androiddev/comments/1olr2h4/looking_for_the_ultimate_android_project_idea/)
-- [proximity sensor and Rakat counter](https://www.reddit.com/r/androiddev/comments/1olp3dc/proximity_sensor_and_rakat_counter/)
-- [I built JRE4Android — Run Java &amp; J2ME apps on Android &lpar;no PC, no root](https://www.reddit.com/r/androiddev/comments/1olnr1r/i_built_jre4android_run_java_j2me_apps_on_android/)
-- [Created Chrome Buttons in jetpack compose](https://www.reddit.com/r/androiddev/comments/1oln1z2/created_chrome_buttons_in_jetpack_compose/)
-- [Building APK using Gradle Tooling API with HTTP &lpar;KTOR&rpar;](https://www.reddit.com/r/androiddev/comments/1olk2q6/building_apk_using_gradle_tooling_api_with_http/)
-- [Declarative State Management and SideEffect handling, Forget ViewModels.](https://www.reddit.com/r/androiddev/comments/1oljriz/declarative_state_management_and_sideeffect/)
-- [Detect phone unlock](https://www.reddit.com/r/androiddev/comments/1oli64d/detect_phone_unlock/)
+- [Just Published](https://www.reddit.com/r/androiddev/comments/1omzws7/just_published/)
+- [Associated Developer Accounts in the Google Play Console Settings](https://www.reddit.com/r/androiddev/comments/1omyoje/associated_developer_accounts_in_the_google_play/)
+- [It is so simple yet Fairphone does not get it](https://www.reddit.com/r/androiddev/comments/1omybaf/it_is_so_simple_yet_fairphone_does_not_get_it/)
+- [Android Devs — We Need to Talk About Android Studio on Windows on ARM](https://www.reddit.com/r/androiddev/comments/1omvh1e/android_devs_we_need_to_talk_about_android_studio/)
+- [Android Devs — We Need to Talk About Android Studio on Windows on ARM](https://www.reddit.com/r/androiddev/comments/1omul21/android_devs_we_need_to_talk_about_android_studio/)
+- [LG Wing](https://www.reddit.com/r/androiddev/comments/1omuddo/lg_wing/)
+- [Help i cant enable wireless debugging i used to be able to do it 3 months ago but i cant now](https://www.reddit.com/r/androiddev/comments/1omtzht/help_i_cant_enable_wireless_debugging_i_used_to/)
+- [Knox bypass?](https://www.reddit.com/r/androiddev/comments/1omtbjh/knox_bypass/)
+- [open source wear os app, policy violation &quot;Missing Ongoing Actvity&quot;](https://www.reddit.com/r/androiddev/comments/1omrtjp/open_source_wear_os_app_policy_violation_missing/)
+- [Implemented onboarding → login → questionnaire flow before subscription using Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1omrcg0/implemented_onboarding_login_questionnaire_flow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
