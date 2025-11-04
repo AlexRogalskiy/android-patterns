@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just Published](https://www.reddit.com/r/androiddev/comments/1omzws7/just_published/)
-- [Associated Developer Accounts in the Google Play Console Settings](https://www.reddit.com/r/androiddev/comments/1omyoje/associated_developer_accounts_in_the_google_play/)
-- [It is so simple yet Fairphone does not get it](https://www.reddit.com/r/androiddev/comments/1omybaf/it_is_so_simple_yet_fairphone_does_not_get_it/)
-- [Android Devs — We Need to Talk About Android Studio on Windows on ARM](https://www.reddit.com/r/androiddev/comments/1omvh1e/android_devs_we_need_to_talk_about_android_studio/)
-- [Android Devs — We Need to Talk About Android Studio on Windows on ARM](https://www.reddit.com/r/androiddev/comments/1omul21/android_devs_we_need_to_talk_about_android_studio/)
-- [LG Wing](https://www.reddit.com/r/androiddev/comments/1omuddo/lg_wing/)
-- [Help i cant enable wireless debugging i used to be able to do it 3 months ago but i cant now](https://www.reddit.com/r/androiddev/comments/1omtzht/help_i_cant_enable_wireless_debugging_i_used_to/)
-- [Knox bypass?](https://www.reddit.com/r/androiddev/comments/1omtbjh/knox_bypass/)
-- [open source wear os app, policy violation &quot;Missing Ongoing Actvity&quot;](https://www.reddit.com/r/androiddev/comments/1omrtjp/open_source_wear_os_app_policy_violation_missing/)
-- [Implemented onboarding → login → questionnaire flow before subscription using Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1omrcg0/implemented_onboarding_login_questionnaire_flow/)
+- [Anyone try Gemini app string translations in Play Console?](https://www.reddit.com/r/androiddev/comments/1ont0vo/anyone_try_gemini_app_string_translations_in_play/)
+- [College student confused between startups or big tech](https://www.reddit.com/r/androiddev/comments/1onr8a1/college_student_confused_between_startups_or_big/)
+- [Servicio de Testeo](https://www.reddit.com/r/androiddev/comments/1onptod/servicio_de_testeo/)
+- [Search Playstore by exact name](https://www.reddit.com/r/androiddev/comments/1onn9ol/search_playstore_by_exact_name/)
+- [Live updates are actually quite decent](https://www.reddit.com/r/androiddev/comments/1onlrj3/live_updates_are_actually_quite_decent/)
+- [Suggest what to do next i android](https://www.reddit.com/r/androiddev/comments/1oni00q/suggest_what_to_do_next_i_android/)
+- [Suggest what to do next i android](https://www.reddit.com/r/androiddev/comments/1onhzkv/suggest_what_to_do_next_i_android/)
+- [The interior of Hyundai IONIQ 3 has been completely leaked](https://www.reddit.com/r/androiddev/comments/1ongajv/the_interior_of_hyundai_ioniq_3_has_been/)
+- [SMS sent from my app getting delayed/rejected?](https://www.reddit.com/r/androiddev/comments/1onfrv9/sms_sent_from_my_app_getting_delayedrejected/)
+- [Play Store reviews not showing for 2+ weeks — what am I missing?](https://www.reddit.com/r/androiddev/comments/1onf9gn/play_store_reviews_not_showing_for_2_weeks_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
