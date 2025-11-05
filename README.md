@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone try Gemini app string translations in Play Console?](https://www.reddit.com/r/androiddev/comments/1ont0vo/anyone_try_gemini_app_string_translations_in_play/)
-- [College student confused between startups or big tech](https://www.reddit.com/r/androiddev/comments/1onr8a1/college_student_confused_between_startups_or_big/)
-- [Servicio de Testeo](https://www.reddit.com/r/androiddev/comments/1onptod/servicio_de_testeo/)
-- [Search Playstore by exact name](https://www.reddit.com/r/androiddev/comments/1onn9ol/search_playstore_by_exact_name/)
-- [Live updates are actually quite decent](https://www.reddit.com/r/androiddev/comments/1onlrj3/live_updates_are_actually_quite_decent/)
-- [Suggest what to do next i android](https://www.reddit.com/r/androiddev/comments/1oni00q/suggest_what_to_do_next_i_android/)
-- [Suggest what to do next i android](https://www.reddit.com/r/androiddev/comments/1onhzkv/suggest_what_to_do_next_i_android/)
-- [The interior of Hyundai IONIQ 3 has been completely leaked](https://www.reddit.com/r/androiddev/comments/1ongajv/the_interior_of_hyundai_ioniq_3_has_been/)
-- [SMS sent from my app getting delayed/rejected?](https://www.reddit.com/r/androiddev/comments/1onfrv9/sms_sent_from_my_app_getting_delayedrejected/)
-- [Play Store reviews not showing for 2+ weeks — what am I missing?](https://www.reddit.com/r/androiddev/comments/1onf9gn/play_store_reviews_not_showing_for_2_weeks_what/)
+- [Do you use any services for tracking numbers and data?](https://www.reddit.com/r/androiddev/comments/1ookdyw/do_you_use_any_services_for_tracking_numbers_and/)
+- [I&#39;d prefer if you hadn&#39;t let me know but thanks 😅](https://www.reddit.com/r/androiddev/comments/1oojg7d/id_prefer_if_you_hadnt_let_me_know_but_thanks/)
+- [[Project] My First Android Note App in Kotlin with Firebase – Seeking Feedback Before College Exam](https://www.reddit.com/r/androiddev/comments/1oojbyy/project_my_first_android_note_app_in_kotlin_with/)
+- [Firebase Crashlytics Showing Wrong Version &amp; Incorrect Report](https://www.reddit.com/r/androiddev/comments/1ooib8a/firebase_crashlytics_showing_wrong_version/)
+- [Playstore keeps recommending my app to a lot of countries](https://www.reddit.com/r/androiddev/comments/1oohb40/playstore_keeps_recommending_my_app_to_a_lot_of/)
+- [How to make sure my app complies with Play Store policies and privacy laws](https://www.reddit.com/r/androiddev/comments/1oofc1g/how_to_make_sure_my_app_complies_with_play_store/)
+- [ADB over Wi-Fi drops frequently — any way to keep sessions persistent?](https://www.reddit.com/r/androiddev/comments/1ooei7o/adb_over_wifi_drops_frequently_any_way_to_keep/)
+- [I built a native, open source Android bluesky client with lots of animations](https://www.reddit.com/r/androiddev/comments/1ooe8po/i_built_a_native_open_source_android_bluesky/)
+- [Need Help Preparing for “Associate Android Developer” Role &lpar;Kotlin | API | Jetpack Compose | Room DB](https://www.reddit.com/r/androiddev/comments/1oodhjr/need_help_preparing_for_associate_android/)
+- [I have problproblem with my app](https://www.reddit.com/r/androiddev/comments/1ood1vk/i_have_problproblem_with_my_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
