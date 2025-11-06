@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do you use any services for tracking numbers and data?](https://www.reddit.com/r/androiddev/comments/1ookdyw/do_you_use_any_services_for_tracking_numbers_and/)
-- [I&#39;d prefer if you hadn&#39;t let me know but thanks 😅](https://www.reddit.com/r/androiddev/comments/1oojg7d/id_prefer_if_you_hadnt_let_me_know_but_thanks/)
-- [[Project] My First Android Note App in Kotlin with Firebase – Seeking Feedback Before College Exam](https://www.reddit.com/r/androiddev/comments/1oojbyy/project_my_first_android_note_app_in_kotlin_with/)
-- [Firebase Crashlytics Showing Wrong Version &amp; Incorrect Report](https://www.reddit.com/r/androiddev/comments/1ooib8a/firebase_crashlytics_showing_wrong_version/)
-- [Playstore keeps recommending my app to a lot of countries](https://www.reddit.com/r/androiddev/comments/1oohb40/playstore_keeps_recommending_my_app_to_a_lot_of/)
-- [How to make sure my app complies with Play Store policies and privacy laws](https://www.reddit.com/r/androiddev/comments/1oofc1g/how_to_make_sure_my_app_complies_with_play_store/)
-- [ADB over Wi-Fi drops frequently — any way to keep sessions persistent?](https://www.reddit.com/r/androiddev/comments/1ooei7o/adb_over_wifi_drops_frequently_any_way_to_keep/)
-- [I built a native, open source Android bluesky client with lots of animations](https://www.reddit.com/r/androiddev/comments/1ooe8po/i_built_a_native_open_source_android_bluesky/)
-- [Need Help Preparing for “Associate Android Developer” Role &lpar;Kotlin | API | Jetpack Compose | Room DB](https://www.reddit.com/r/androiddev/comments/1oodhjr/need_help_preparing_for_associate_android/)
-- [I have problproblem with my app](https://www.reddit.com/r/androiddev/comments/1ood1vk/i_have_problproblem_with_my_app/)
+- [When calling UsageStatsManager frequently, queryEvents sometimes returns empty values.](https://www.reddit.com/r/androiddev/comments/1opmqbg/when_calling_usagestatsmanager_frequently/)
+- [I built a free Android app to simplify phone use - try it!](https://www.reddit.com/r/androiddev/comments/1opjzth/i_built_a_free_android_app_to_simplify_phone_use/)
+- [Is there a way to make wireless debugging port and pairing code fixed on my android phone?](https://www.reddit.com/r/androiddev/comments/1opd0ca/is_there_a_way_to_make_wireless_debugging_port/)
+- [Has anyone else been burned by &quot;we forgot to add logs&quot; and had to ship a whole new build just to debug?](https://www.reddit.com/r/androiddev/comments/1opbv2o/has_anyone_else_been_burned_by_we_forgot_to_add/)
+- [Interesting Android Apps: November 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1op5z57/interesting_android_apps_november_2025_showcase/)
+- [Got an Android app development question? Ask away! November 2025 edition](https://www.reddit.com/r/androiddev/comments/1op5r5s/got_an_android_app_development_question_ask_away/)
+- [I Built an AI Image Upscaler That Runs 100% Locally](https://www.reddit.com/r/androiddev/comments/1op4a3j/i_built_an_ai_image_upscaler_that_runs_100_locally/)
+- [What are some approaches to limit cheating and spoofing in games](https://www.reddit.com/r/androiddev/comments/1op3lb3/what_are_some_approaches_to_limit_cheating_and/)
+- [Can I make a mobile version of my MoveNet Lightning &lpar;Python&rpar; project without using Android Studio?](https://www.reddit.com/r/androiddev/comments/1op2x24/can_i_make_a_mobile_version_of_my_movenet/)
+- [Bad Practice or not ? Confused](https://www.reddit.com/r/androiddev/comments/1op2hl0/bad_practice_or_not_confused/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
