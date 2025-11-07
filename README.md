@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When calling UsageStatsManager frequently, queryEvents sometimes returns empty values.](https://www.reddit.com/r/androiddev/comments/1opmqbg/when_calling_usagestatsmanager_frequently/)
-- [I built a free Android app to simplify phone use - try it!](https://www.reddit.com/r/androiddev/comments/1opjzth/i_built_a_free_android_app_to_simplify_phone_use/)
-- [Is there a way to make wireless debugging port and pairing code fixed on my android phone?](https://www.reddit.com/r/androiddev/comments/1opd0ca/is_there_a_way_to_make_wireless_debugging_port/)
-- [Has anyone else been burned by &quot;we forgot to add logs&quot; and had to ship a whole new build just to debug?](https://www.reddit.com/r/androiddev/comments/1opbv2o/has_anyone_else_been_burned_by_we_forgot_to_add/)
-- [Interesting Android Apps: November 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1op5z57/interesting_android_apps_november_2025_showcase/)
-- [Got an Android app development question? Ask away! November 2025 edition](https://www.reddit.com/r/androiddev/comments/1op5r5s/got_an_android_app_development_question_ask_away/)
-- [I Built an AI Image Upscaler That Runs 100% Locally](https://www.reddit.com/r/androiddev/comments/1op4a3j/i_built_an_ai_image_upscaler_that_runs_100_locally/)
-- [What are some approaches to limit cheating and spoofing in games](https://www.reddit.com/r/androiddev/comments/1op3lb3/what_are_some_approaches_to_limit_cheating_and/)
-- [Can I make a mobile version of my MoveNet Lightning &lpar;Python&rpar; project without using Android Studio?](https://www.reddit.com/r/androiddev/comments/1op2x24/can_i_make_a_mobile_version_of_my_movenet/)
-- [Bad Practice or not ? Confused](https://www.reddit.com/r/androiddev/comments/1op2hl0/bad_practice_or_not_confused/)
+- [Random adb connection attempt](https://www.reddit.com/r/androiddev/comments/1oqgnai/random_adb_connection_attempt/)
+- [Is it enough to set minifyEnabled to true inside the app module?](https://www.reddit.com/r/androiddev/comments/1oqf59i/is_it_enough_to_set_minifyenabled_to_true_inside/)
+- [nice QOL feature when you forget that one ADB command](https://www.reddit.com/r/androiddev/comments/1oqeaau/nice_qol_feature_when_you_forget_that_one_adb/)
+- [Experiment: Replacing Clang with GCC in the NDK](https://www.reddit.com/r/androiddev/comments/1oqe15d/experiment_replacing_clang_with_gcc_in_the_ndk/)
+- [How to test our app in Samsung Remote Test Lab?](https://www.reddit.com/r/androiddev/comments/1oq8nzb/how_to_test_our_app_in_samsung_remote_test_lab/)
+- [Turning SmartScan into a System-Wide Embedding Platform via AIDL Services](https://www.reddit.com/r/androiddev/comments/1oq4wyf/turning_smartscan_into_a_systemwide_embedding/)
+- [How do folks here keep yourself motivated?](https://www.reddit.com/r/androiddev/comments/1oq2kgk/how_do_folks_here_keep_yourself_motivated/)
+- [Application to make and share &#39;Santini&#39;](https://www.reddit.com/r/androiddev/comments/1oq2fqj/application_to_make_and_share_santini/)
+- [Looking for teammates for an open-source MVP: Delimo – a platform for sharing items &lpar; Android&rpar;](https://www.reddit.com/r/androiddev/comments/1oq016o/looking_for_teammates_for_an_opensource_mvp/)
+- [free, open-source file scanner](https://www.reddit.com/r/androiddev/comments/1opv7xk/free_opensource_file_scanner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
