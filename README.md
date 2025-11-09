@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Random adb connection attempt](https://www.reddit.com/r/androiddev/comments/1oqgnai/random_adb_connection_attempt/)
-- [Is it enough to set minifyEnabled to true inside the app module?](https://www.reddit.com/r/androiddev/comments/1oqf59i/is_it_enough_to_set_minifyenabled_to_true_inside/)
-- [nice QOL feature when you forget that one ADB command](https://www.reddit.com/r/androiddev/comments/1oqeaau/nice_qol_feature_when_you_forget_that_one_adb/)
-- [Experiment: Replacing Clang with GCC in the NDK](https://www.reddit.com/r/androiddev/comments/1oqe15d/experiment_replacing_clang_with_gcc_in_the_ndk/)
-- [How to test our app in Samsung Remote Test Lab?](https://www.reddit.com/r/androiddev/comments/1oq8nzb/how_to_test_our_app_in_samsung_remote_test_lab/)
-- [Turning SmartScan into a System-Wide Embedding Platform via AIDL Services](https://www.reddit.com/r/androiddev/comments/1oq4wyf/turning_smartscan_into_a_systemwide_embedding/)
-- [How do folks here keep yourself motivated?](https://www.reddit.com/r/androiddev/comments/1oq2kgk/how_do_folks_here_keep_yourself_motivated/)
-- [Application to make and share &#39;Santini&#39;](https://www.reddit.com/r/androiddev/comments/1oq2fqj/application_to_make_and_share_santini/)
-- [Looking for teammates for an open-source MVP: Delimo – a platform for sharing items &lpar; Android&rpar;](https://www.reddit.com/r/androiddev/comments/1oq016o/looking_for_teammates_for_an_opensource_mvp/)
-- [free, open-source file scanner](https://www.reddit.com/r/androiddev/comments/1opv7xk/free_opensource_file_scanner/)
+- [Ever wondered what really happens when you call setContent {} in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1os7a71/ever_wondered_what_really_happens_when_you_call/)
+- [Millionaire City APK not working properly](https://www.reddit.com/r/androiddev/comments/1os4d7w/millionaire_city_apk_not_working_properly/)
+- [Is there a way to give AdAway permission to edit the host file without root](https://www.reddit.com/r/androiddev/comments/1os34k9/is_there_a_way_to_give_adaway_permission_to_edit/)
+- [Google Play’s new “discount offers” will charge higher prices in older app versions](https://www.reddit.com/r/androiddev/comments/1os2p0q/google_plays_new_discount_offers_will_charge/)
+- [What could cause such a large drop in total installs?](https://www.reddit.com/r/androiddev/comments/1orxu6p/what_could_cause_such_a_large_drop_in_total/)
+- [Manage external storage permission.](https://www.reddit.com/r/androiddev/comments/1orwqmw/manage_external_storage_permission/)
+- [How much do android apps really make?](https://www.reddit.com/r/androiddev/comments/1orw6fn/how_much_do_android_apps_really_make/)
+- [Galaxy S24 - keyboard lags only in a specific whatsapp group &lpar;all typing suggestions disabled&rpar;](https://www.reddit.com/r/androiddev/comments/1ortt8v/galaxy_s24_keyboard_lags_only_in_a_specific/)
+- [Is this a mistake from Google Play Console?](https://www.reddit.com/r/androiddev/comments/1orsfol/is_this_a_mistake_from_google_play_console/)
+- [How do you track your app’s Google Play ranking? I built a small tool to automate it](https://www.reddit.com/r/androiddev/comments/1orpy0o/how_do_you_track_your_apps_google_play_ranking_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
