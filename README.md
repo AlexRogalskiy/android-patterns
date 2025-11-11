@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ever wondered what really happens when you call setContent {} in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1os7a71/ever_wondered_what_really_happens_when_you_call/)
-- [Millionaire City APK not working properly](https://www.reddit.com/r/androiddev/comments/1os4d7w/millionaire_city_apk_not_working_properly/)
-- [Is there a way to give AdAway permission to edit the host file without root](https://www.reddit.com/r/androiddev/comments/1os34k9/is_there_a_way_to_give_adaway_permission_to_edit/)
-- [Google Play’s new “discount offers” will charge higher prices in older app versions](https://www.reddit.com/r/androiddev/comments/1os2p0q/google_plays_new_discount_offers_will_charge/)
-- [What could cause such a large drop in total installs?](https://www.reddit.com/r/androiddev/comments/1orxu6p/what_could_cause_such_a_large_drop_in_total/)
-- [Manage external storage permission.](https://www.reddit.com/r/androiddev/comments/1orwqmw/manage_external_storage_permission/)
-- [How much do android apps really make?](https://www.reddit.com/r/androiddev/comments/1orw6fn/how_much_do_android_apps_really_make/)
-- [Galaxy S24 - keyboard lags only in a specific whatsapp group &lpar;all typing suggestions disabled&rpar;](https://www.reddit.com/r/androiddev/comments/1ortt8v/galaxy_s24_keyboard_lags_only_in_a_specific/)
-- [Is this a mistake from Google Play Console?](https://www.reddit.com/r/androiddev/comments/1orsfol/is_this_a_mistake_from_google_play_console/)
-- [How do you track your app’s Google Play ranking? I built a small tool to automate it](https://www.reddit.com/r/androiddev/comments/1orpy0o/how_do_you_track_your_apps_google_play_ranking_i/)
+- [Need help with the key to upload apps &lpar;jks file&rpar;](https://www.reddit.com/r/androiddev/comments/1otv3zk/need_help_with_the_key_to_upload_apps_jks_file/)
+- [Get D-U-N-S number &amp; onboard to Google Play and Apple AppStore with a virtual office address?](https://www.reddit.com/r/androiddev/comments/1ottipd/get_duns_number_onboard_to_google_play_and_apple/)
+- [Working on an open source workout tracking app](https://www.reddit.com/r/androiddev/comments/1otrx9f/working_on_an_open_source_workout_tracking_app/)
+- [How is it possible that as a dev I only 350 characters to reply to reviews and users have 500?](https://www.reddit.com/r/androiddev/comments/1otr0n2/how_is_it_possible_that_as_a_dev_i_only_350/)
+- [Issues with WebView Process Management](https://www.reddit.com/r/androiddev/comments/1othsfn/issues_with_webview_process_management/)
+- [[Expo/EAS Build] RTL works in Expo Go but fails in Release APK. &quot;supportsRtl&quot;: true is set, and New Architecture &lpar;Fabric&rpar; is enabled.](https://www.reddit.com/r/androiddev/comments/1otgoy1/expoeas_build_rtl_works_in_expo_go_but_fails_in/)
+- [Spot SponsorBlock now works on Android!](https://www.reddit.com/r/androiddev/comments/1otggpq/spot_sponsorblock_now_works_on_android/)
+- [In Android Studio, how do you disable undo/redo confirmation?](https://www.reddit.com/r/androiddev/comments/1otgayp/in_android_studio_how_do_you_disable_undoredo/)
+- [Is this normal?](https://www.reddit.com/r/androiddev/comments/1otc6ar/is_this_normal/)
+- [Multiple Google Developer Accounts?](https://www.reddit.com/r/androiddev/comments/1otc18g/multiple_google_developer_accounts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
