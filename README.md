@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need help with the key to upload apps &lpar;jks file&rpar;](https://www.reddit.com/r/androiddev/comments/1otv3zk/need_help_with_the_key_to_upload_apps_jks_file/)
-- [Get D-U-N-S number &amp; onboard to Google Play and Apple AppStore with a virtual office address?](https://www.reddit.com/r/androiddev/comments/1ottipd/get_duns_number_onboard_to_google_play_and_apple/)
-- [Working on an open source workout tracking app](https://www.reddit.com/r/androiddev/comments/1otrx9f/working_on_an_open_source_workout_tracking_app/)
-- [How is it possible that as a dev I only 350 characters to reply to reviews and users have 500?](https://www.reddit.com/r/androiddev/comments/1otr0n2/how_is_it_possible_that_as_a_dev_i_only_350/)
-- [Issues with WebView Process Management](https://www.reddit.com/r/androiddev/comments/1othsfn/issues_with_webview_process_management/)
-- [[Expo/EAS Build] RTL works in Expo Go but fails in Release APK. &quot;supportsRtl&quot;: true is set, and New Architecture &lpar;Fabric&rpar; is enabled.](https://www.reddit.com/r/androiddev/comments/1otgoy1/expoeas_build_rtl_works_in_expo_go_but_fails_in/)
-- [Spot SponsorBlock now works on Android!](https://www.reddit.com/r/androiddev/comments/1otggpq/spot_sponsorblock_now_works_on_android/)
-- [In Android Studio, how do you disable undo/redo confirmation?](https://www.reddit.com/r/androiddev/comments/1otgayp/in_android_studio_how_do_you_disable_undoredo/)
-- [Is this normal?](https://www.reddit.com/r/androiddev/comments/1otc6ar/is_this_normal/)
-- [Multiple Google Developer Accounts?](https://www.reddit.com/r/androiddev/comments/1otc18g/multiple_google_developer_accounts/)
+- [Simplify in-app purchase unit testing on Android with RevenueCat’s Test Store](https://www.reddit.com/r/androiddev/comments/1ous9ec/simplify_inapp_purchase_unit_testing_on_android/)
+- [[Article] Compose Stability Analyzer: Real-Time Stability Insights for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ous8k2/article_compose_stability_analyzer_realtime/)
+- [Android Developer Verification Discourse](https://www.reddit.com/r/androiddev/comments/1ourtmk/android_developer_verification_discourse/)
+- [Material You 3 in WhatsApp](https://www.reddit.com/r/androiddev/comments/1ourivf/material_you_3_in_whatsapp/)
+- [Need advice on what to do next.](https://www.reddit.com/r/androiddev/comments/1ouqnql/need_advice_on_what_to_do_next/)
+- [Será que ninguém fez isso?](https://www.reddit.com/r/androiddev/comments/1oupoe6/será_que_ninguém_fez_isso/)
+- [Google Play, EU distribution and &quot;unjustified geo blocking&quot;](https://www.reddit.com/r/androiddev/comments/1oumutj/google_play_eu_distribution_and_unjustified_geo/)
+- [*Urgent* | Do i need to go through the 14 days testing phase again if i want to publish a new app?](https://www.reddit.com/r/androiddev/comments/1ouj3k2/urgent_do_i_need_to_go_through_the_14_days/)
+- [Need advice on backend structure for my dating app &lpar;Supabase vs Firebase vs mixed setup&rpar;](https://www.reddit.com/r/androiddev/comments/1ouhg94/need_advice_on_backend_structure_for_my_dating/)
+- [Idea to widget](https://www.reddit.com/r/androiddev/comments/1ougjxr/idea_to_widget/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
