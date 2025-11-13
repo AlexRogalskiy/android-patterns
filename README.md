@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Simplify in-app purchase unit testing on Android with RevenueCat’s Test Store](https://www.reddit.com/r/androiddev/comments/1ous9ec/simplify_inapp_purchase_unit_testing_on_android/)
-- [[Article] Compose Stability Analyzer: Real-Time Stability Insights for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1ous8k2/article_compose_stability_analyzer_realtime/)
-- [Android Developer Verification Discourse](https://www.reddit.com/r/androiddev/comments/1ourtmk/android_developer_verification_discourse/)
-- [Material You 3 in WhatsApp](https://www.reddit.com/r/androiddev/comments/1ourivf/material_you_3_in_whatsapp/)
-- [Need advice on what to do next.](https://www.reddit.com/r/androiddev/comments/1ouqnql/need_advice_on_what_to_do_next/)
-- [Será que ninguém fez isso?](https://www.reddit.com/r/androiddev/comments/1oupoe6/será_que_ninguém_fez_isso/)
-- [Google Play, EU distribution and &quot;unjustified geo blocking&quot;](https://www.reddit.com/r/androiddev/comments/1oumutj/google_play_eu_distribution_and_unjustified_geo/)
-- [*Urgent* | Do i need to go through the 14 days testing phase again if i want to publish a new app?](https://www.reddit.com/r/androiddev/comments/1ouj3k2/urgent_do_i_need_to_go_through_the_14_days/)
-- [Need advice on backend structure for my dating app &lpar;Supabase vs Firebase vs mixed setup&rpar;](https://www.reddit.com/r/androiddev/comments/1ouhg94/need_advice_on_backend_structure_for_my_dating/)
-- [Idea to widget](https://www.reddit.com/r/androiddev/comments/1ougjxr/idea_to_widget/)
+- [Foreign Currency Calculator](https://www.reddit.com/r/androiddev/comments/1ovp6yq/foreign_currency_calculator/)
+- [Recover Kotlin coroutine traces with Decoroutinator](https://www.reddit.com/r/androiddev/comments/1ovoytn/recover_kotlin_coroutine_traces_with/)
+- [I wrote an open source android app that turns your old phone into an IP camera](https://www.reddit.com/r/androiddev/comments/1ovoumt/i_wrote_an_open_source_android_app_that_turns/)
+- [Google will allow users to sideload Android apps without verification](https://www.reddit.com/r/androiddev/comments/1ovohu6/google_will_allow_users_to_sideload_android_apps/)
+- [UWB Inaccessible to Developers](https://www.reddit.com/r/androiddev/comments/1ovnq9e/uwb_inaccessible_to_developers/)
+- [What&#39;s your favorite AI autocomplete for Android Studio?](https://www.reddit.com/r/androiddev/comments/1ovni2z/whats_your_favorite_ai_autocomplete_for_android/)
+- [[Help] - Retrieving media metadata](https://www.reddit.com/r/androiddev/comments/1ovhyc7/help_retrieving_media_metadata/)
+- [What the heck is an LLD interview for mobile?](https://www.reddit.com/r/androiddev/comments/1ovfuif/what_the_heck_is_an_lld_interview_for_mobile/)
+- [Detecting 3 quick headset button presses in Android without blocking media controls](https://www.reddit.com/r/androiddev/comments/1ovf51m/detecting_3_quick_headset_button_presses_in/)
+- [Seeking early feedback for an open-source mobile IDE](https://www.reddit.com/r/androiddev/comments/1oveiei/seeking_early_feedback_for_an_opensource_mobile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
