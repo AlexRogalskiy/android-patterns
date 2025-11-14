@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Foreign Currency Calculator](https://www.reddit.com/r/androiddev/comments/1ovp6yq/foreign_currency_calculator/)
-- [Recover Kotlin coroutine traces with Decoroutinator](https://www.reddit.com/r/androiddev/comments/1ovoytn/recover_kotlin_coroutine_traces_with/)
-- [I wrote an open source android app that turns your old phone into an IP camera](https://www.reddit.com/r/androiddev/comments/1ovoumt/i_wrote_an_open_source_android_app_that_turns/)
-- [Google will allow users to sideload Android apps without verification](https://www.reddit.com/r/androiddev/comments/1ovohu6/google_will_allow_users_to_sideload_android_apps/)
-- [UWB Inaccessible to Developers](https://www.reddit.com/r/androiddev/comments/1ovnq9e/uwb_inaccessible_to_developers/)
-- [What&#39;s your favorite AI autocomplete for Android Studio?](https://www.reddit.com/r/androiddev/comments/1ovni2z/whats_your_favorite_ai_autocomplete_for_android/)
-- [[Help] - Retrieving media metadata](https://www.reddit.com/r/androiddev/comments/1ovhyc7/help_retrieving_media_metadata/)
-- [What the heck is an LLD interview for mobile?](https://www.reddit.com/r/androiddev/comments/1ovfuif/what_the_heck_is_an_lld_interview_for_mobile/)
-- [Detecting 3 quick headset button presses in Android without blocking media controls](https://www.reddit.com/r/androiddev/comments/1ovf51m/detecting_3_quick_headset_button_presses_in/)
-- [Seeking early feedback for an open-source mobile IDE](https://www.reddit.com/r/androiddev/comments/1oveiei/seeking_early_feedback_for_an_opensource_mobile/)
+- [Does anyone else struggle to actually use the Gemini agent in Android Studio?](https://www.reddit.com/r/androiddev/comments/1owcw6k/does_anyone_else_struggle_to_actually_use_the/)
+- [A small library for vanish effect &lpar;Thanos effect&rpar; in Jetpack compose and XML Views](https://www.reddit.com/r/androiddev/comments/1ow90b7/a_small_library_for_vanish_effect_thanos_effect/)
+- [How thorough do tester efforts need to be for publishing?](https://www.reddit.com/r/androiddev/comments/1ow8o76/how_thorough_do_tester_efforts_need_to_be_for/)
+- [Google requested additional information, usually how much time it takes to get my app published?](https://www.reddit.com/r/androiddev/comments/1ow6hz8/google_requested_additional_information_usually/)
+- [Slow build time with Ubuntu?](https://www.reddit.com/r/androiddev/comments/1ow5rq7/slow_build_time_with_ubuntu/)
+- [What are main things i should focus on before releasing my app on Playstore.](https://www.reddit.com/r/androiddev/comments/1ow5mq3/what_are_main_things_i_should_focus_on_before/)
+- [Kprofiles - resource and config management plugin for KMP Compose](https://www.reddit.com/r/androiddev/comments/1ow4iy9/kprofiles_resource_and_config_management_plugin/)
+- [Fixing weird keyboard behavior after updating to Android 16](https://www.reddit.com/r/androiddev/comments/1ow43m9/fixing_weird_keyboard_behavior_after_updating_to/)
+- [Mobile Deep Linking Tool](https://www.reddit.com/r/androiddev/comments/1ow2ujq/mobile_deep_linking_tool/)
+- [Linux Environment Android 16?](https://www.reddit.com/r/androiddev/comments/1ow1o2u/linux_environment_android_16/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
