@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does anyone else struggle to actually use the Gemini agent in Android Studio?](https://www.reddit.com/r/androiddev/comments/1owcw6k/does_anyone_else_struggle_to_actually_use_the/)
-- [A small library for vanish effect &lpar;Thanos effect&rpar; in Jetpack compose and XML Views](https://www.reddit.com/r/androiddev/comments/1ow90b7/a_small_library_for_vanish_effect_thanos_effect/)
-- [How thorough do tester efforts need to be for publishing?](https://www.reddit.com/r/androiddev/comments/1ow8o76/how_thorough_do_tester_efforts_need_to_be_for/)
-- [Google requested additional information, usually how much time it takes to get my app published?](https://www.reddit.com/r/androiddev/comments/1ow6hz8/google_requested_additional_information_usually/)
-- [Slow build time with Ubuntu?](https://www.reddit.com/r/androiddev/comments/1ow5rq7/slow_build_time_with_ubuntu/)
-- [What are main things i should focus on before releasing my app on Playstore.](https://www.reddit.com/r/androiddev/comments/1ow5mq3/what_are_main_things_i_should_focus_on_before/)
-- [Kprofiles - resource and config management plugin for KMP Compose](https://www.reddit.com/r/androiddev/comments/1ow4iy9/kprofiles_resource_and_config_management_plugin/)
-- [Fixing weird keyboard behavior after updating to Android 16](https://www.reddit.com/r/androiddev/comments/1ow43m9/fixing_weird_keyboard_behavior_after_updating_to/)
-- [Mobile Deep Linking Tool](https://www.reddit.com/r/androiddev/comments/1ow2ujq/mobile_deep_linking_tool/)
-- [Linux Environment Android 16?](https://www.reddit.com/r/androiddev/comments/1ow1o2u/linux_environment_android_16/)
+- [Struggling to get and remember the last visited route in Compose Navigation.](https://www.reddit.com/r/androiddev/comments/1oxf99s/struggling_to_get_and_remember_the_last_visited/)
+- [Why Is My Android App Invisible in Google Play Search While It Ranks for 30+ Keywords on the App Store?](https://www.reddit.com/r/androiddev/comments/1oxd6w1/why_is_my_android_app_invisible_in_google_play/)
+- [[Project] Modular IPTV/EPG platform with custom virtualization, Rust/WASM parser and Android native bridge](https://www.reddit.com/r/androiddev/comments/1ox5wny/project_modular_iptvepg_platform_with_custom/)
+- [Total Install Erratic](https://www.reddit.com/r/androiddev/comments/1ox4fcf/total_install_erratic/)
+- [Workable interview](https://www.reddit.com/r/androiddev/comments/1ox2btn/workable_interview/)
+- [AS Otter - can&#39;t evaluate any expression in debugger](https://www.reddit.com/r/androiddev/comments/1ox1chr/as_otter_cant_evaluate_any_expression_in_debugger/)
+- [Best way to profile static initializers](https://www.reddit.com/r/androiddev/comments/1owyk7u/best_way_to_profile_static_initializers/)
+- [Need help getting a job](https://www.reddit.com/r/androiddev/comments/1owpldn/need_help_getting_a_job/)
+- [Where do I find or make icons for the inside of my app?](https://www.reddit.com/r/androiddev/comments/1owpfbp/where_do_i_find_or_make_icons_for_the_inside_of/)
+- [Spoof AVD to be brand new on startup](https://www.reddit.com/r/androiddev/comments/1owo6ed/spoof_avd_to_be_brand_new_on_startup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
