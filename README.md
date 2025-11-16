@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which smartphone for testing ? Pixel 8 &lpar;300€&rpar; vs Nothing Phone 3a &lpar;250€&rpar;](https://www.reddit.com/r/androiddev/comments/1oy3gwa/which_smartphone_for_testing_pixel_8_300_vs/)
+- [Executing commands in Android Studio](https://www.reddit.com/r/androiddev/comments/1oxuazf/executing_commands_in_android_studio/)
+- [Any reliable way to verify my websocket messages are received by the websocket ?&lpar;read below if you dont understand&rpar;](https://www.reddit.com/r/androiddev/comments/1oxrc7g/any_reliable_way_to_verify_my_websocket_messages/)
+- [Google Play forcing 14-day closed test before production + Apple dev account still pending… how are new startups supposed to launch fast?](https://www.reddit.com/r/androiddev/comments/1oxqtso/google_play_forcing_14day_closed_test_before/)
+- [What does QA look like at your company?](https://www.reddit.com/r/androiddev/comments/1oxnxg5/what_does_qa_look_like_at_your_company/)
+- [Ikokuko — Reactive, type-safe form validation for Compose Multiplatform &lpar;Android &amp; iOS&rpar;](https://www.reddit.com/r/androiddev/comments/1oxnefx/ikokuko_reactive_typesafe_form_validation_for/)
+- [How to round corners on a toggle button?](https://www.reddit.com/r/androiddev/comments/1oxj3vh/how_to_round_corners_on_a_toggle_button/)
+- [AdMob Implementation Erros](https://www.reddit.com/r/androiddev/comments/1oxi7sl/admob_implementation_erros/)
 - [Struggling to get and remember the last visited route in Compose Navigation.](https://www.reddit.com/r/androiddev/comments/1oxf99s/struggling_to_get_and_remember_the_last_visited/)
 - [Why Is My Android App Invisible in Google Play Search While It Ranks for 30+ Keywords on the App Store?](https://www.reddit.com/r/androiddev/comments/1oxd6w1/why_is_my_android_app_invisible_in_google_play/)
-- [[Project] Modular IPTV/EPG platform with custom virtualization, Rust/WASM parser and Android native bridge](https://www.reddit.com/r/androiddev/comments/1ox5wny/project_modular_iptvepg_platform_with_custom/)
-- [Total Install Erratic](https://www.reddit.com/r/androiddev/comments/1ox4fcf/total_install_erratic/)
-- [Workable interview](https://www.reddit.com/r/androiddev/comments/1ox2btn/workable_interview/)
-- [AS Otter - can&#39;t evaluate any expression in debugger](https://www.reddit.com/r/androiddev/comments/1ox1chr/as_otter_cant_evaluate_any_expression_in_debugger/)
-- [Best way to profile static initializers](https://www.reddit.com/r/androiddev/comments/1owyk7u/best_way_to_profile_static_initializers/)
-- [Need help getting a job](https://www.reddit.com/r/androiddev/comments/1owpldn/need_help_getting_a_job/)
-- [Where do I find or make icons for the inside of my app?](https://www.reddit.com/r/androiddev/comments/1owpfbp/where_do_i_find_or_make_icons_for_the_inside_of/)
-- [Spoof AVD to be brand new on startup](https://www.reddit.com/r/androiddev/comments/1owo6ed/spoof_avd_to_be_brand_new_on_startup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
