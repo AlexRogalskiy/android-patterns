@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Which smartphone for testing ? Pixel 8 &lpar;300€&rpar; vs Nothing Phone 3a &lpar;250€&rpar;](https://www.reddit.com/r/androiddev/comments/1oy3gwa/which_smartphone_for_testing_pixel_8_300_vs/)
-- [Executing commands in Android Studio](https://www.reddit.com/r/androiddev/comments/1oxuazf/executing_commands_in_android_studio/)
-- [Any reliable way to verify my websocket messages are received by the websocket ?&lpar;read below if you dont understand&rpar;](https://www.reddit.com/r/androiddev/comments/1oxrc7g/any_reliable_way_to_verify_my_websocket_messages/)
-- [Google Play forcing 14-day closed test before production + Apple dev account still pending… how are new startups supposed to launch fast?](https://www.reddit.com/r/androiddev/comments/1oxqtso/google_play_forcing_14day_closed_test_before/)
-- [What does QA look like at your company?](https://www.reddit.com/r/androiddev/comments/1oxnxg5/what_does_qa_look_like_at_your_company/)
-- [Ikokuko — Reactive, type-safe form validation for Compose Multiplatform &lpar;Android &amp; iOS&rpar;](https://www.reddit.com/r/androiddev/comments/1oxnefx/ikokuko_reactive_typesafe_form_validation_for/)
-- [How to round corners on a toggle button?](https://www.reddit.com/r/androiddev/comments/1oxj3vh/how_to_round_corners_on_a_toggle_button/)
-- [AdMob Implementation Erros](https://www.reddit.com/r/androiddev/comments/1oxi7sl/admob_implementation_erros/)
-- [Struggling to get and remember the last visited route in Compose Navigation.](https://www.reddit.com/r/androiddev/comments/1oxf99s/struggling_to_get_and_remember_the_last_visited/)
-- [Why Is My Android App Invisible in Google Play Search While It Ranks for 30+ Keywords on the App Store?](https://www.reddit.com/r/androiddev/comments/1oxd6w1/why_is_my_android_app_invisible_in_google_play/)
+- [My paid app Mandala Maker 360, if free for a week. Enjoy 🙌😊](https://www.reddit.com/r/androiddev/comments/1oz16ii/my_paid_app_mandala_maker_360_if_free_for_a_week/)
+- [I just finished building the entire onboarding experience](https://www.reddit.com/r/androiddev/comments/1oz0lt3/i_just_finished_building_the_entire_onboarding/)
+- [How have people been using AI when making apps?](https://www.reddit.com/r/androiddev/comments/1oyz0zx/how_have_people_been_using_ai_when_making_apps/)
+- [App that fully locks the phone’s touch when driving based on speed?](https://www.reddit.com/r/androiddev/comments/1oyw3a7/app_that_fully_locks_the_phones_touch_when/)
+- [Built a faster, more flexible GitHub Action for Firebase App Distribution](https://www.reddit.com/r/androiddev/comments/1oynyuj/built_a_faster_more_flexible_github_action_for/)
+- [Is there a way to make an Android app run fully offline without losing important features?](https://www.reddit.com/r/androiddev/comments/1oyk3fm/is_there_a_way_to_make_an_android_app_run_fully/)
+- [Introducing Open Sphere: The Ultimate Cross-Platform App Store](https://www.reddit.com/r/androiddev/comments/1oyi526/introducing_open_sphere_the_ultimate/)
+- [I did a thing and released my first prod app every. Listen to a newbies story on his journey to smallness &lpar;if you want to&rpar;](https://www.reddit.com/r/androiddev/comments/1oyhg16/i_did_a_thing_and_released_my_first_prod_app/)
+- [Do users really get scared off when they see a sign up screen during onboarding?](https://www.reddit.com/r/androiddev/comments/1oygykh/do_users_really_get_scared_off_when_they_see_a/)
+- [Can anyone explain why I need RevCat?](https://www.reddit.com/r/androiddev/comments/1oyg1eu/can_anyone_explain_why_i_need_revcat/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
