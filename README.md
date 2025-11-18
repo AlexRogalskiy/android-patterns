@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My paid app Mandala Maker 360, if free for a week. Enjoy 🙌😊](https://www.reddit.com/r/androiddev/comments/1oz16ii/my_paid_app_mandala_maker_360_if_free_for_a_week/)
-- [I just finished building the entire onboarding experience](https://www.reddit.com/r/androiddev/comments/1oz0lt3/i_just_finished_building_the_entire_onboarding/)
-- [How have people been using AI when making apps?](https://www.reddit.com/r/androiddev/comments/1oyz0zx/how_have_people_been_using_ai_when_making_apps/)
-- [App that fully locks the phone’s touch when driving based on speed?](https://www.reddit.com/r/androiddev/comments/1oyw3a7/app_that_fully_locks_the_phones_touch_when/)
-- [Built a faster, more flexible GitHub Action for Firebase App Distribution](https://www.reddit.com/r/androiddev/comments/1oynyuj/built_a_faster_more_flexible_github_action_for/)
-- [Is there a way to make an Android app run fully offline without losing important features?](https://www.reddit.com/r/androiddev/comments/1oyk3fm/is_there_a_way_to_make_an_android_app_run_fully/)
-- [Introducing Open Sphere: The Ultimate Cross-Platform App Store](https://www.reddit.com/r/androiddev/comments/1oyi526/introducing_open_sphere_the_ultimate/)
-- [I did a thing and released my first prod app every. Listen to a newbies story on his journey to smallness &lpar;if you want to&rpar;](https://www.reddit.com/r/androiddev/comments/1oyhg16/i_did_a_thing_and_released_my_first_prod_app/)
-- [Do users really get scared off when they see a sign up screen during onboarding?](https://www.reddit.com/r/androiddev/comments/1oygykh/do_users_really_get_scared_off_when_they_see_a/)
-- [Can anyone explain why I need RevCat?](https://www.reddit.com/r/androiddev/comments/1oyg1eu/can_anyone_explain_why_i_need_revcat/)
+- [How to create liquid glass custom view using agsl or anything but NOT jetpack compose](https://www.reddit.com/r/androiddev/comments/1ozzg5f/how_to_create_liquid_glass_custom_view_using_agsl/)
+- [Strategies for finding more closed-testing users](https://www.reddit.com/r/androiddev/comments/1ozyymm/strategies_for_finding_more_closedtesting_users/)
+- [Devlog #1 – Working on my mobile puzzle game &lpar;Unity&rpar; + looking for feedback](https://www.reddit.com/r/androiddev/comments/1ozywj0/devlog_1_working_on_my_mobile_puzzle_game_unity/)
+- [Anybody else experiencing delayed Play Console stats?](https://www.reddit.com/r/androiddev/comments/1ozshjk/anybody_else_experiencing_delayed_play_console/)
+- [TalkBack: double tap to activate never works the first time?](https://www.reddit.com/r/androiddev/comments/1ozqi9u/talkback_double_tap_to_activate_never_works_the/)
+- [What Android tool/app do you wish existed but doesn’t? I want ideas.](https://www.reddit.com/r/androiddev/comments/1ozqc9g/what_android_toolapp_do_you_wish_existed_but/)
+- [Android Studio Otter | 2025.2.1 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1ozn9b1/android_studio_otter_202521_patch_1_now_available/)
+- [What should be my next step to grow as an Android developer? Feeling something is missing.](https://www.reddit.com/r/androiddev/comments/1ozm6nq/what_should_be_my_next_step_to_grow_as_an_android/)
+- [Google started Android Performance Spotlight Week](https://www.reddit.com/r/androiddev/comments/1ozm43z/google_started_android_performance_spotlight_week/)
+- [Help me guys! Flutter dev transitioning to Android Native. what’s the best learning path?](https://www.reddit.com/r/androiddev/comments/1ozlr0r/help_me_guys_flutter_dev_transitioning_to_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
