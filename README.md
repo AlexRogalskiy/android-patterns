@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why does it say I sold my cyber truck yesterday next to my Reddit name?](https://www.reddit.com/r/androiddev/comments/1p0vb2z/why_does_it_say_i_sold_my_cyber_truck_yesterday/)
-- [How I Debug Android SDKs Directly Inside the App &lpar;No Maven Local Needed&rpar;](https://www.reddit.com/r/androiddev/comments/1p0ora0/how_i_debug_android_sdks_directly_inside_the_app/)
-- [Best paid tools for android/ios development](https://www.reddit.com/r/androiddev/comments/1p0mmrw/best_paid_tools_for_androidios_development/)
-- [I have a Technical Assessment coming up. How can I best prepare?](https://www.reddit.com/r/androiddev/comments/1p0ixgi/i_have_a_technical_assessment_coming_up_how_can_i/)
-- [Any one with a server side application or ai agent application for Claude and chart gpt experience serve issues due to the current 30minutes ago issue with cloudflare](https://www.reddit.com/r/androiddev/comments/1p0d4cb/any_one_with_a_server_side_application_or_ai/)
-- [Android native dev &lpar;2 yrs experience&rpar; — Is Philipp Lackner’s Kotlin Full-Stack Bundle worth it?](https://www.reddit.com/r/androiddev/comments/1p09c9h/android_native_dev_2_yrs_experience_is_philipp/)
-- [Getting different output using custom app on Android Studio emulator vs Android device](https://www.reddit.com/r/androiddev/comments/1p06s42/getting_different_output_using_custom_app_on/)
-- [Android freelance](https://www.reddit.com/r/androiddev/comments/1p053l3/android_freelance/)
-- [I built a Magisk Module to quickly reset device identifiers and appear new](https://www.reddit.com/r/androiddev/comments/1p01rj8/i_built_a_magisk_module_to_quickly_reset_device/)
-- [Strategies for finding more closed-testing users](https://www.reddit.com/r/androiddev/comments/1ozyymm/strategies_for_finding_more_closedtesting_users/)
+- [Anyone going to Droidcon&#39;25 India edition?](https://www.reddit.com/r/androiddev/comments/1p1q21t/anyone_going_to_droidcon25_india_edition/)
+- [Anyone have an subscription Expo app and want $500 to test our paywall SDK?](https://www.reddit.com/r/androiddev/comments/1p1pi89/anyone_have_an_subscription_expo_app_and_want_500/)
+- [android studio on windows arm64 suggests downloading arm64 version for windows](https://www.reddit.com/r/androiddev/comments/1p1keqk/android_studio_on_windows_arm64_suggests/)
+- [How to control Android device to take screenshots of a Facebook group?](https://www.reddit.com/r/androiddev/comments/1p1i3ya/how_to_control_android_device_to_take_screenshots/)
+- [Revenue cat integration help.](https://www.reddit.com/r/androiddev/comments/1p1h09o/revenue_cat_integration_help/)
+- [Any disadvantages to choosing a very low min SDK level for an android app](https://www.reddit.com/r/androiddev/comments/1p1f6uo/any_disadvantages_to_choosing_a_very_low_min_sdk/)
+- [I used Gemini 3 Pro in Android Studio and...](https://www.reddit.com/r/androiddev/comments/1p19o7n/i_used_gemini_3_pro_in_android_studio_and/)
+- [Can&#39;t figure out how to properly implement drop shadows on containers.](https://www.reddit.com/r/androiddev/comments/1p17s86/cant_figure_out_how_to_properly_implement_drop/)
+- [I got tired of setting regional prices manually for my Android apps, so I built a Chrome extension that automates that process with one click](https://www.reddit.com/r/androiddev/comments/1p16zyu/i_got_tired_of_setting_regional_prices_manually/)
+- [Buyer Postal Code](https://www.reddit.com/r/androiddev/comments/1p13dyd/buyer_postal_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
