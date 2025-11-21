@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone going to Droidcon&#39;25 India edition?](https://www.reddit.com/r/androiddev/comments/1p1q21t/anyone_going_to_droidcon25_india_edition/)
-- [Anyone have an subscription Expo app and want $500 to test our paywall SDK?](https://www.reddit.com/r/androiddev/comments/1p1pi89/anyone_have_an_subscription_expo_app_and_want_500/)
-- [android studio on windows arm64 suggests downloading arm64 version for windows](https://www.reddit.com/r/androiddev/comments/1p1keqk/android_studio_on_windows_arm64_suggests/)
-- [How to control Android device to take screenshots of a Facebook group?](https://www.reddit.com/r/androiddev/comments/1p1i3ya/how_to_control_android_device_to_take_screenshots/)
-- [Revenue cat integration help.](https://www.reddit.com/r/androiddev/comments/1p1h09o/revenue_cat_integration_help/)
-- [Any disadvantages to choosing a very low min SDK level for an android app](https://www.reddit.com/r/androiddev/comments/1p1f6uo/any_disadvantages_to_choosing_a_very_low_min_sdk/)
-- [I used Gemini 3 Pro in Android Studio and...](https://www.reddit.com/r/androiddev/comments/1p19o7n/i_used_gemini_3_pro_in_android_studio_and/)
-- [Can&#39;t figure out how to properly implement drop shadows on containers.](https://www.reddit.com/r/androiddev/comments/1p17s86/cant_figure_out_how_to_properly_implement_drop/)
-- [I got tired of setting regional prices manually for my Android apps, so I built a Chrome extension that automates that process with one click](https://www.reddit.com/r/androiddev/comments/1p16zyu/i_got_tired_of_setting_regional_prices_manually/)
-- [Buyer Postal Code](https://www.reddit.com/r/androiddev/comments/1p13dyd/buyer_postal_code/)
+- [How to size home widgets built with Jetpack Glance?](https://www.reddit.com/r/androiddev/comments/1p2mk4l/how_to_size_home_widgets_built_with_jetpack_glance/)
+- [I just released my first Android app. Help me](https://www.reddit.com/r/androiddev/comments/1p2m24j/i_just_released_my_first_android_app_help_me/)
+- [How to test trials with Revenuecat test store?](https://www.reddit.com/r/androiddev/comments/1p2jels/how_to_test_trials_with_revenuecat_test_store/)
+- [New app build](https://www.reddit.com/r/androiddev/comments/1p2g6ca/new_app_build/)
+- [[Scammer Warning] &quot;Horizon Group&quot;](https://www.reddit.com/r/androiddev/comments/1p29fc2/scammer_warning_horizon_group/)
+- [Media DRM id](https://www.reddit.com/r/androiddev/comments/1p294ji/media_drm_id/)
+- [Koin IDE Plugin 1.5.1 Released: Koin Annotations 2.2 and JSR-330 Support](https://www.reddit.com/r/androiddev/comments/1p26h8e/koin_ide_plugin_151_released_koin_annotations_22/)
+- [It&#39;s Performance Spotlight Week](https://www.reddit.com/r/androiddev/comments/1p25yr4/its_performance_spotlight_week/)
+- [Google releases its ‘Google Sans Flex’ font to anyone &lpar;including developers&rpar;](https://www.reddit.com/r/androiddev/comments/1p25eut/google_releases_its_google_sans_flex_font_to/)
+- [My app was suspended for &quot;Deceptive Behavior&quot;. Appeal &amp; escalation returned identical canned message 3 times. What do I do now?](https://www.reddit.com/r/androiddev/comments/1p2425h/my_app_was_suspended_for_deceptive_behavior/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
