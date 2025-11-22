@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to size home widgets built with Jetpack Glance?](https://www.reddit.com/r/androiddev/comments/1p2mk4l/how_to_size_home_widgets_built_with_jetpack_glance/)
-- [I just released my first Android app. Help me](https://www.reddit.com/r/androiddev/comments/1p2m24j/i_just_released_my_first_android_app_help_me/)
-- [How to test trials with Revenuecat test store?](https://www.reddit.com/r/androiddev/comments/1p2jels/how_to_test_trials_with_revenuecat_test_store/)
-- [New app build](https://www.reddit.com/r/androiddev/comments/1p2g6ca/new_app_build/)
-- [[Scammer Warning] &quot;Horizon Group&quot;](https://www.reddit.com/r/androiddev/comments/1p29fc2/scammer_warning_horizon_group/)
-- [Media DRM id](https://www.reddit.com/r/androiddev/comments/1p294ji/media_drm_id/)
-- [Koin IDE Plugin 1.5.1 Released: Koin Annotations 2.2 and JSR-330 Support](https://www.reddit.com/r/androiddev/comments/1p26h8e/koin_ide_plugin_151_released_koin_annotations_22/)
-- [It&#39;s Performance Spotlight Week](https://www.reddit.com/r/androiddev/comments/1p25yr4/its_performance_spotlight_week/)
-- [Google releases its ‘Google Sans Flex’ font to anyone &lpar;including developers&rpar;](https://www.reddit.com/r/androiddev/comments/1p25eut/google_releases_its_google_sans_flex_font_to/)
-- [My app was suspended for &quot;Deceptive Behavior&quot;. Appeal &amp; escalation returned identical canned message 3 times. What do I do now?](https://www.reddit.com/r/androiddev/comments/1p2425h/my_app_was_suspended_for_deceptive_behavior/)
+- [How do you track Google Ads → APK download → sideloaded Android app installs?](https://www.reddit.com/r/androiddev/comments/1p3cnyw/how_do_you_track_google_ads_apk_download/)
+- [Old account &lpar;3-4 years&rpar; bypassed the 20 testers requirement. Is this normal?](https://www.reddit.com/r/androiddev/comments/1p37770/old_account_34_years_bypassed_the_20_testers/)
+- [Android Studio Otter 2 Feature Drop | 2025.2.2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1p373r4/android_studio_otter_2_feature_drop_202522_rc_2/)
+- [Google play 16KB requirement issue](https://www.reddit.com/r/androiddev/comments/1p36bdh/google_play_16kb_requirement_issue/)
+- [I built a real-time Voice AI Agent on Android &lpar;Kotlin + Node.js&rpar; - Here&#39;s how.](https://www.reddit.com/r/androiddev/comments/1p34z58/i_built_a_realtime_voice_ai_agent_on_android/)
+- [Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1p33xny/android_studio_otter_3_feature_drop_202523_canary/)
+- [How can i skip the 14 testers mandatory by Playstore](https://www.reddit.com/r/androiddev/comments/1p335kz/how_can_i_skip_the_14_testers_mandatory_by/)
+- [built an AI agent that pokes around my Android like a tiny chaotic intern, and im kinda amazed at how far this got](https://www.reddit.com/r/androiddev/comments/1p333nd/built_an_ai_agent_that_pokes_around_my_android/)
+- [Why are mobile release processes still so inefficient?](https://www.reddit.com/r/androiddev/comments/1p31jn2/why_are_mobile_release_processes_still_so/)
+- [Why android studio&#39;s &quot;Pair new devices over wifi&quot; is so unreliable?](https://www.reddit.com/r/androiddev/comments/1p31c9k/why_android_studios_pair_new_devices_over_wifi_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
