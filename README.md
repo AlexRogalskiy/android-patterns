@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you track Google Ads → APK download → sideloaded Android app installs?](https://www.reddit.com/r/androiddev/comments/1p3cnyw/how_do_you_track_google_ads_apk_download/)
-- [Old account &lpar;3-4 years&rpar; bypassed the 20 testers requirement. Is this normal?](https://www.reddit.com/r/androiddev/comments/1p37770/old_account_34_years_bypassed_the_20_testers/)
-- [Android Studio Otter 2 Feature Drop | 2025.2.2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1p373r4/android_studio_otter_2_feature_drop_202522_rc_2/)
-- [Google play 16KB requirement issue](https://www.reddit.com/r/androiddev/comments/1p36bdh/google_play_16kb_requirement_issue/)
-- [I built a real-time Voice AI Agent on Android &lpar;Kotlin + Node.js&rpar; - Here&#39;s how.](https://www.reddit.com/r/androiddev/comments/1p34z58/i_built_a_realtime_voice_ai_agent_on_android/)
-- [Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1p33xny/android_studio_otter_3_feature_drop_202523_canary/)
-- [How can i skip the 14 testers mandatory by Playstore](https://www.reddit.com/r/androiddev/comments/1p335kz/how_can_i_skip_the_14_testers_mandatory_by/)
-- [built an AI agent that pokes around my Android like a tiny chaotic intern, and im kinda amazed at how far this got](https://www.reddit.com/r/androiddev/comments/1p333nd/built_an_ai_agent_that_pokes_around_my_android/)
-- [Why are mobile release processes still so inefficient?](https://www.reddit.com/r/androiddev/comments/1p31jn2/why_are_mobile_release_processes_still_so/)
-- [Why android studio&#39;s &quot;Pair new devices over wifi&quot; is so unreliable?](https://www.reddit.com/r/androiddev/comments/1p31c9k/why_android_studios_pair_new_devices_over_wifi_is/)
+- [I publish my story on this app &lpar;webnovel.com&rpar; and I discovered this hidden premission by accident + they paste your clipboard when you enter the app. Should I be concerned or it&#39;s normal?](https://www.reddit.com/r/androiddev/comments/1p49gcu/i_publish_my_story_on_this_app_webnovelcom_and_i/)
+- [Share image + text on WhatsApp: it shares only the image](https://www.reddit.com/r/androiddev/comments/1p490o4/share_image_text_on_whatsapp_it_shares_only_the/)
+- [[App Launch] Daily Care+ is Live: Your All-in-One Hub for Health, Goals, and Productivity &lpar;Access Our Beta!&rpar;](https://www.reddit.com/r/androiddev/comments/1p47eqf/app_launch_daily_care_is_live_your_allinone_hub/)
+- [Chromecast sanity check](https://www.reddit.com/r/androiddev/comments/1p40emx/chromecast_sanity_check/)
+- [Can&#39;t enable notifications?](https://www.reddit.com/r/androiddev/comments/1p3zowk/cant_enable_notifications/)
+- [[Open Source] I built a library to generate PDFs directly from Jetpack Compose &lpar;No XML/HTML required&rpar;](https://www.reddit.com/r/androiddev/comments/1p3y595/open_source_i_built_a_library_to_generate_pdfs/)
+- [Do you recommend the paid courses of Philipp Lackner / pl-coding for Android dev? Why? why not?](https://www.reddit.com/r/androiddev/comments/1p3wk7z/do_you_recommend_the_paid_courses_of_philipp/)
+- [Built a free tool for all of your screenshots and product demo needs](https://www.reddit.com/r/androiddev/comments/1p3wg9i/built_a_free_tool_for_all_of_your_screenshots_and/)
+- [[Case Study] How we cut incremental build times by ~36% &lpar;99s → 63s&rpar; by decoupling our &quot;Thick&quot; App Module](https://www.reddit.com/r/androiddev/comments/1p3vkaa/case_study_how_we_cut_incremental_build_times_by/)
+- [Receiving empty mails from users](https://www.reddit.com/r/androiddev/comments/1p3qvhf/receiving_empty_mails_from_users/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
