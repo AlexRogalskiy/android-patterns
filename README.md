@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I publish my story on this app &lpar;webnovel.com&rpar; and I discovered this hidden premission by accident + they paste your clipboard when you enter the app. Should I be concerned or it&#39;s normal?](https://www.reddit.com/r/androiddev/comments/1p49gcu/i_publish_my_story_on_this_app_webnovelcom_and_i/)
-- [Share image + text on WhatsApp: it shares only the image](https://www.reddit.com/r/androiddev/comments/1p490o4/share_image_text_on_whatsapp_it_shares_only_the/)
-- [[App Launch] Daily Care+ is Live: Your All-in-One Hub for Health, Goals, and Productivity &lpar;Access Our Beta!&rpar;](https://www.reddit.com/r/androiddev/comments/1p47eqf/app_launch_daily_care_is_live_your_allinone_hub/)
-- [Chromecast sanity check](https://www.reddit.com/r/androiddev/comments/1p40emx/chromecast_sanity_check/)
-- [Can&#39;t enable notifications?](https://www.reddit.com/r/androiddev/comments/1p3zowk/cant_enable_notifications/)
-- [[Open Source] I built a library to generate PDFs directly from Jetpack Compose &lpar;No XML/HTML required&rpar;](https://www.reddit.com/r/androiddev/comments/1p3y595/open_source_i_built_a_library_to_generate_pdfs/)
-- [Do you recommend the paid courses of Philipp Lackner / pl-coding for Android dev? Why? why not?](https://www.reddit.com/r/androiddev/comments/1p3wk7z/do_you_recommend_the_paid_courses_of_philipp/)
-- [Built a free tool for all of your screenshots and product demo needs](https://www.reddit.com/r/androiddev/comments/1p3wg9i/built_a_free_tool_for_all_of_your_screenshots_and/)
-- [[Case Study] How we cut incremental build times by ~36% &lpar;99s → 63s&rpar; by decoupling our &quot;Thick&quot; App Module](https://www.reddit.com/r/androiddev/comments/1p3vkaa/case_study_how_we_cut_incremental_build_times_by/)
-- [Receiving empty mails from users](https://www.reddit.com/r/androiddev/comments/1p3qvhf/receiving_empty_mails_from_users/)
+- [Android dev looking for side project ideas — how do you find real user needs?](https://www.reddit.com/r/androiddev/comments/1p54zkt/android_dev_looking_for_side_project_ideas_how_do/)
+- [How to find next viral consumer app idea?](https://www.reddit.com/r/androiddev/comments/1p4rfwv/how_to_find_next_viral_consumer_app_idea/)
+- [Looking for feedback: building an Android security &amp; fraud-risk SDK](https://www.reddit.com/r/androiddev/comments/1p4r241/looking_for_feedback_building_an_android_security/)
+- [Supposed purchased IAPs from India on Android not showing under order management in Google Play Console... any ideas?](https://www.reddit.com/r/androiddev/comments/1p4r1q1/supposed_purchased_iaps_from_india_on_android_not/)
+- [Using adb to send CTRL commands](https://www.reddit.com/r/androiddev/comments/1p4n22h/using_adb_to_send_ctrl_commands/)
+- [Google Play’s auto-refund policy is giving me some headaches](https://www.reddit.com/r/androiddev/comments/1p4loqz/google_plays_autorefund_policy_is_giving_me_some/)
+- [Wireless debugging so inconsistent](https://www.reddit.com/r/androiddev/comments/1p4in12/wireless_debugging_so_inconsistent/)
+- [Built an Android app for controlling tmux sessions. Looking for feedback from you folks](https://www.reddit.com/r/androiddev/comments/1p4go5t/built_an_android_app_for_controlling_tmux/)
+- [Built a small open source SDK for handling parallel, chunked, resumable downloads on Android.](https://www.reddit.com/r/androiddev/comments/1p4fibo/built_a_small_open_source_sdk_for_handling/)
+- [RIP Pricing Templates](https://www.reddit.com/r/androiddev/comments/1p4eok6/rip_pricing_templates/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
