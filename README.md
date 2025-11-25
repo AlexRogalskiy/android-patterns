@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android dev looking for side project ideas — how do you find real user needs?](https://www.reddit.com/r/androiddev/comments/1p54zkt/android_dev_looking_for_side_project_ideas_how_do/)
-- [How to find next viral consumer app idea?](https://www.reddit.com/r/androiddev/comments/1p4rfwv/how_to_find_next_viral_consumer_app_idea/)
-- [Looking for feedback: building an Android security &amp; fraud-risk SDK](https://www.reddit.com/r/androiddev/comments/1p4r241/looking_for_feedback_building_an_android_security/)
-- [Supposed purchased IAPs from India on Android not showing under order management in Google Play Console... any ideas?](https://www.reddit.com/r/androiddev/comments/1p4r1q1/supposed_purchased_iaps_from_india_on_android_not/)
-- [Using adb to send CTRL commands](https://www.reddit.com/r/androiddev/comments/1p4n22h/using_adb_to_send_ctrl_commands/)
-- [Google Play’s auto-refund policy is giving me some headaches](https://www.reddit.com/r/androiddev/comments/1p4loqz/google_plays_autorefund_policy_is_giving_me_some/)
-- [Wireless debugging so inconsistent](https://www.reddit.com/r/androiddev/comments/1p4in12/wireless_debugging_so_inconsistent/)
-- [Built an Android app for controlling tmux sessions. Looking for feedback from you folks](https://www.reddit.com/r/androiddev/comments/1p4go5t/built_an_android_app_for_controlling_tmux/)
-- [Built a small open source SDK for handling parallel, chunked, resumable downloads on Android.](https://www.reddit.com/r/androiddev/comments/1p4fibo/built_a_small_open_source_sdk_for_handling/)
-- [RIP Pricing Templates](https://www.reddit.com/r/androiddev/comments/1p4eok6/rip_pricing_templates/)
+- [Desmistificando o AdX: Por que seu CPM cai e como otimizar de verdade](https://www.reddit.com/r/androiddev/comments/1p5vlsq/desmistificando_o_adx_por_que_seu_cpm_cai_e_como/)
+- [I compared 17 Kotlin MVI libraries across 103 criteria - here are THE BEST 4](https://www.reddit.com/r/androiddev/comments/1p5ufej/i_compared_17_kotlin_mvi_libraries_across_103/)
+- [A blog on how we made our app Indilingo 100% crash free](https://www.reddit.com/r/androiddev/comments/1p5p4h6/a_blog_on_how_we_made_our_app_indilingo_100_crash/)
+- [Critical Error: &quot;Certificate has expired&quot; on macOS](https://www.reddit.com/r/androiddev/comments/1p5n65v/critical_error_certificate_has_expired_on_macos/)
+- [App de detecção que te alerta se você está sendo seguido ou rastreado &lpar;para Android&rpar;](https://www.reddit.com/r/androiddev/comments/1p5n0fs/app_de_detecção_que_te_alerta_se_você_está_sendo/)
+- [HTML splash screens editor &lpar;more&rpar; for my no-code app builder!](https://www.reddit.com/r/androiddev/comments/1p5myqa/html_splash_screens_editor_more_for_my_nocode_app/)
+- [[Showcase] I built a customizable TV Guide/EPG library with Compose Multiplatform &lpar;Android, Desktop, iOS&rpar;](https://www.reddit.com/r/androiddev/comments/1p5m7ba/showcase_i_built_a_customizable_tv_guideepg/)
+- [Coroutines: Avoiding Race Conditions](https://www.reddit.com/r/androiddev/comments/1p5kd9r/coroutines_avoiding_race_conditions/)
+- [Is it normal to have this white bar a the top?](https://www.reddit.com/r/androiddev/comments/1p5j72q/is_it_normal_to_have_this_white_bar_a_the_top/)
+- [Reinstalling google play store](https://www.reddit.com/r/androiddev/comments/1p5ikcf/reinstalling_google_play_store/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
