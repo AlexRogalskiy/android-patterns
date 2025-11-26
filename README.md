@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Desmistificando o AdX: Por que seu CPM cai e como otimizar de verdade](https://www.reddit.com/r/androiddev/comments/1p5vlsq/desmistificando_o_adx_por_que_seu_cpm_cai_e_como/)
-- [I compared 17 Kotlin MVI libraries across 103 criteria - here are THE BEST 4](https://www.reddit.com/r/androiddev/comments/1p5ufej/i_compared_17_kotlin_mvi_libraries_across_103/)
-- [A blog on how we made our app Indilingo 100% crash free](https://www.reddit.com/r/androiddev/comments/1p5p4h6/a_blog_on_how_we_made_our_app_indilingo_100_crash/)
-- [Critical Error: &quot;Certificate has expired&quot; on macOS](https://www.reddit.com/r/androiddev/comments/1p5n65v/critical_error_certificate_has_expired_on_macos/)
-- [App de detecção que te alerta se você está sendo seguido ou rastreado &lpar;para Android&rpar;](https://www.reddit.com/r/androiddev/comments/1p5n0fs/app_de_detecção_que_te_alerta_se_você_está_sendo/)
-- [HTML splash screens editor &lpar;more&rpar; for my no-code app builder!](https://www.reddit.com/r/androiddev/comments/1p5myqa/html_splash_screens_editor_more_for_my_nocode_app/)
-- [[Showcase] I built a customizable TV Guide/EPG library with Compose Multiplatform &lpar;Android, Desktop, iOS&rpar;](https://www.reddit.com/r/androiddev/comments/1p5m7ba/showcase_i_built_a_customizable_tv_guideepg/)
-- [Coroutines: Avoiding Race Conditions](https://www.reddit.com/r/androiddev/comments/1p5kd9r/coroutines_avoiding_race_conditions/)
-- [Is it normal to have this white bar a the top?](https://www.reddit.com/r/androiddev/comments/1p5j72q/is_it_normal_to_have_this_white_bar_a_the_top/)
-- [Reinstalling google play store](https://www.reddit.com/r/androiddev/comments/1p5ikcf/reinstalling_google_play_store/)
+- [Subagent that uses your phone to verify code implementation](https://www.reddit.com/r/androiddev/comments/1p6vaav/subagent_that_uses_your_phone_to_verify_code/)
+- [Stop asking AI for niche ideas. It only knows what&#39;s already popular.](https://www.reddit.com/r/androiddev/comments/1p6tq2i/stop_asking_ai_for_niche_ideas_it_only_knows/)
+- [Google still hasn&#39;t created a Widget Stack, so I created one &lpar;WIP, Video attached&rpar;](https://www.reddit.com/r/androiddev/comments/1p6qne5/google_still_hasnt_created_a_widget_stack_so_i/)
+- [I built a tool that notifies you when your local build finishes — checking if devs want early access](https://www.reddit.com/r/androiddev/comments/1p6jgg7/i_built_a_tool_that_notifies_you_when_your_local/)
+- [Can i make another Google developer account if the previous one is NOT terminated?](https://www.reddit.com/r/androiddev/comments/1p6hv9y/can_i_make_another_google_developer_account_if/)
+- [Using AI prompts for education](https://www.reddit.com/r/androiddev/comments/1p6db7k/using_ai_prompts_for_education/)
+- [Is Indie App Age Over ?](https://www.reddit.com/r/androiddev/comments/1p6b5lx/is_indie_app_age_over/)
+- [Getting some strange results with cumulative installs graph](https://www.reddit.com/r/androiddev/comments/1p6b4if/getting_some_strange_results_with_cumulative/)
+- [AMA: Android ad monetization with the Yango Ads team](https://www.reddit.com/r/androiddev/comments/1p69zz4/ama_android_ad_monetization_with_the_yango_ads/)
+- [PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export](https://www.reddit.com/r/androiddev/comments/1p69hf7/passvault_v080beta_open_source_password_manager/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
