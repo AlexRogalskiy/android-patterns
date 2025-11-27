@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Subagent that uses your phone to verify code implementation](https://www.reddit.com/r/androiddev/comments/1p6vaav/subagent_that_uses_your_phone_to_verify_code/)
-- [Stop asking AI for niche ideas. It only knows what&#39;s already popular.](https://www.reddit.com/r/androiddev/comments/1p6tq2i/stop_asking_ai_for_niche_ideas_it_only_knows/)
-- [Google still hasn&#39;t created a Widget Stack, so I created one &lpar;WIP, Video attached&rpar;](https://www.reddit.com/r/androiddev/comments/1p6qne5/google_still_hasnt_created_a_widget_stack_so_i/)
-- [I built a tool that notifies you when your local build finishes — checking if devs want early access](https://www.reddit.com/r/androiddev/comments/1p6jgg7/i_built_a_tool_that_notifies_you_when_your_local/)
-- [Can i make another Google developer account if the previous one is NOT terminated?](https://www.reddit.com/r/androiddev/comments/1p6hv9y/can_i_make_another_google_developer_account_if/)
-- [Using AI prompts for education](https://www.reddit.com/r/androiddev/comments/1p6db7k/using_ai_prompts_for_education/)
-- [Is Indie App Age Over ?](https://www.reddit.com/r/androiddev/comments/1p6b5lx/is_indie_app_age_over/)
-- [Getting some strange results with cumulative installs graph](https://www.reddit.com/r/androiddev/comments/1p6b4if/getting_some_strange_results_with_cumulative/)
-- [AMA: Android ad monetization with the Yango Ads team](https://www.reddit.com/r/androiddev/comments/1p69zz4/ama_android_ad_monetization_with_the_yango_ads/)
-- [PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export](https://www.reddit.com/r/androiddev/comments/1p69hf7/passvault_v080beta_open_source_password_manager/)
+- [Some will say I&#39;ve lost my mind 🫠😉 &lpar;Android phone as a scroll-wheel Rockbox DAP&rpar;](https://www.reddit.com/r/androiddev/comments/1p7n8uz/some_will_say_ive_lost_my_mind_android_phone_as_a/)
+- [I have a Question](https://www.reddit.com/r/androiddev/comments/1p7ls7o/i_have_a_question/)
+- [Do you use deep links in your apps?](https://www.reddit.com/r/androiddev/comments/1p7ioe8/do_you_use_deep_links_in_your_apps/)
+- [Random blank lines in code in AS, no line number, just an extra blank line](https://www.reddit.com/r/androiddev/comments/1p7hork/random_blank_lines_in_code_in_as_no_line_number/)
+- [Recommendations for ways to find freelancers with solid Android experience](https://www.reddit.com/r/androiddev/comments/1p7hdu7/recommendations_for_ways_to_find_freelancers_with/)
+- [Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1p7czva/android_studio_otter_3_feature_drop_202523_canary/)
+- [Publish Localized App Globally, or Keep It Restricted to One Country?](https://www.reddit.com/r/androiddev/comments/1p775zy/publish_localized_app_globally_or_keep_it/)
+- [Registering play ID](https://www.reddit.com/r/androiddev/comments/1p72xhc/registering_play_id/)
+- [Confused about SB2420: Are ALL Android apps expected to handle parental-revocation events?](https://www.reddit.com/r/androiddev/comments/1p71qmx/confused_about_sb2420_are_all_android_apps/)
+- [Facing error in my Android studio.](https://www.reddit.com/r/androiddev/comments/1p71ft4/facing_error_in_my_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
