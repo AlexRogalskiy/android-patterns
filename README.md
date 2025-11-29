@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Some will say I&#39;ve lost my mind 🫠😉 &lpar;Android phone as a scroll-wheel Rockbox DAP&rpar;](https://www.reddit.com/r/androiddev/comments/1p7n8uz/some_will_say_ive_lost_my_mind_android_phone_as_a/)
-- [I have a Question](https://www.reddit.com/r/androiddev/comments/1p7ls7o/i_have_a_question/)
-- [Do you use deep links in your apps?](https://www.reddit.com/r/androiddev/comments/1p7ioe8/do_you_use_deep_links_in_your_apps/)
-- [Random blank lines in code in AS, no line number, just an extra blank line](https://www.reddit.com/r/androiddev/comments/1p7hork/random_blank_lines_in_code_in_as_no_line_number/)
-- [Recommendations for ways to find freelancers with solid Android experience](https://www.reddit.com/r/androiddev/comments/1p7hdu7/recommendations_for_ways_to_find_freelancers_with/)
-- [Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1p7czva/android_studio_otter_3_feature_drop_202523_canary/)
-- [Publish Localized App Globally, or Keep It Restricted to One Country?](https://www.reddit.com/r/androiddev/comments/1p775zy/publish_localized_app_globally_or_keep_it/)
-- [Registering play ID](https://www.reddit.com/r/androiddev/comments/1p72xhc/registering_play_id/)
-- [Confused about SB2420: Are ALL Android apps expected to handle parental-revocation events?](https://www.reddit.com/r/androiddev/comments/1p71qmx/confused_about_sb2420_are_all_android_apps/)
-- [Facing error in my Android studio.](https://www.reddit.com/r/androiddev/comments/1p71ft4/facing_error_in_my_android_studio/)
+- [Virtual machine for Android](https://www.reddit.com/r/androiddev/comments/1p8zlp4/virtual_machine_for_android/)
+- [Google Play Subscription](https://www.reddit.com/r/androiddev/comments/1p8zbgr/google_play_subscription/)
+- [Why are my builds still so slow even on the second &lpar;non-cold&rpar; build?](https://www.reddit.com/r/androiddev/comments/1p8y6za/why_are_my_builds_still_so_slow_even_on_the/)
+- [Best Way to Implement Voice Typing in a Custom Keyboard?](https://www.reddit.com/r/androiddev/comments/1p8xzus/best_way_to_implement_voice_typing_in_a_custom/)
+- [I Found a Great ADB Guide. Then I Built a Tool So I’d Never Have to Type Those Commands Again.](https://www.reddit.com/r/androiddev/comments/1p8xwkk/i_found_a_great_adb_guide_then_i_built_a_tool_so/)
+- [How do you practice “thinking out loud” for Android interviews without sounding like a robot?](https://www.reddit.com/r/androiddev/comments/1p8w3l5/how_do_you_practice_thinking_out_loud_for_android/)
+- [How did you get your first users?](https://www.reddit.com/r/androiddev/comments/1p8w1ah/how_did_you_get_your_first_users/)
+- [Hey Guys i have a referral For android browser startup internship](https://www.reddit.com/r/androiddev/comments/1p8vtht/hey_guys_i_have_a_referral_for_android_browser/)
+- [I can&#39;t run my apk build on physical device](https://www.reddit.com/r/androiddev/comments/1p8vdug/i_cant_run_my_apk_build_on_physical_device/)
+- [Mindset change and migration notes for predictive back gestures](https://www.reddit.com/r/androiddev/comments/1p8trst/mindset_change_and_migration_notes_for_predictive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
