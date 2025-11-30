@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Virtual machine for Android](https://www.reddit.com/r/androiddev/comments/1p8zlp4/virtual_machine_for_android/)
-- [Google Play Subscription](https://www.reddit.com/r/androiddev/comments/1p8zbgr/google_play_subscription/)
-- [Why are my builds still so slow even on the second &lpar;non-cold&rpar; build?](https://www.reddit.com/r/androiddev/comments/1p8y6za/why_are_my_builds_still_so_slow_even_on_the/)
-- [Best Way to Implement Voice Typing in a Custom Keyboard?](https://www.reddit.com/r/androiddev/comments/1p8xzus/best_way_to_implement_voice_typing_in_a_custom/)
-- [I Found a Great ADB Guide. Then I Built a Tool So I’d Never Have to Type Those Commands Again.](https://www.reddit.com/r/androiddev/comments/1p8xwkk/i_found_a_great_adb_guide_then_i_built_a_tool_so/)
-- [How do you practice “thinking out loud” for Android interviews without sounding like a robot?](https://www.reddit.com/r/androiddev/comments/1p8w3l5/how_do_you_practice_thinking_out_loud_for_android/)
-- [How did you get your first users?](https://www.reddit.com/r/androiddev/comments/1p8w1ah/how_did_you_get_your_first_users/)
-- [Hey Guys i have a referral For android browser startup internship](https://www.reddit.com/r/androiddev/comments/1p8vtht/hey_guys_i_have_a_referral_for_android_browser/)
-- [I can&#39;t run my apk build on physical device](https://www.reddit.com/r/androiddev/comments/1p8vdug/i_cant_run_my_apk_build_on_physical_device/)
-- [Mindset change and migration notes for predictive back gestures](https://www.reddit.com/r/androiddev/comments/1p8trst/mindset_change_and_migration_notes_for_predictive/)
+- [Using Compose with multi-Activity project](https://www.reddit.com/r/androiddev/comments/1pa5dl1/using_compose_with_multiactivity_project/)
+- [Finger Shadows in Compose](https://www.reddit.com/r/androiddev/comments/1pa3829/finger_shadows_in_compose/)
+- [Debug the not &quot;Debuggable&quot; - Is it possible ?](https://www.reddit.com/r/androiddev/comments/1pa1bip/debug_the_not_debuggable_is_it_possible/)
+- [Built a free meal planning app that solves “what do I cook?” using your diet, allergies, and preferences—looking for feedback](https://www.reddit.com/r/androiddev/comments/1p9zlih/built_a_free_meal_planning_app_that_solves_what/)
+- [How I thought Chatgpt could create my entire game.](https://www.reddit.com/r/androiddev/comments/1p9vnzv/how_i_thought_chatgpt_could_create_my_entire_game/)
+- [Recommendation for good android dev materials resource - great kotlin code base that everyone need to read ?](https://www.reddit.com/r/androiddev/comments/1p9tusv/recommendation_for_good_android_dev_materials/)
+- [Advice on handling Google Play’s requirement for 12 active closed-beta testers?](https://www.reddit.com/r/androiddev/comments/1p9rudi/advice_on_handling_google_plays_requirement_for/)
+- [RemoteCompose: Another Paradigm for Server-Driven UI in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1p9o3bv/remotecompose_another_paradigm_for_serverdriven/)
+- [Pending Intent](https://www.reddit.com/r/androiddev/comments/1p9lskf/pending_intent/)
+- [IDE](https://www.reddit.com/r/androiddev/comments/1p9j5kx/ide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
