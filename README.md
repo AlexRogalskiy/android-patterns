@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My mobile game didn’t succeed. I need your feedback.](https://www.reddit.com/r/androiddev/comments/1pb0ob3/my_mobile_game_didnt_succeed_i_need_your_feedback/)
+- [How to create URL Schemes like iOS](https://www.reddit.com/r/androiddev/comments/1payygi/how_to_create_url_schemes_like_ios/)
+- [For Hire📢 Android Game Developer Wanted – Students Preferred](https://www.reddit.com/r/androiddev/comments/1pax00c/for_hire_android_game_developer_wanted_students/)
+- [My App is Invisible on Google Play Search! &lpar;Need Help &amp; Quick Test&rpar;](https://www.reddit.com/r/androiddev/comments/1pawp3u/my_app_is_invisible_on_google_play_search_need/)
+- [Fake &quot;app is cloned&quot; review — first one disappeared, now I got another. Anyone else?](https://www.reddit.com/r/androiddev/comments/1pawkt4/fake_app_is_cloned_review_first_one_disappeared/)
+- [Seeking advice in starting with app development in college..](https://www.reddit.com/r/androiddev/comments/1pabf54/seeking_advice_in_starting_with_app_development/)
+- [I&#39;m making super compact keyboard layout for landscape screen mode.](https://www.reddit.com/r/androiddev/comments/1paan1d/im_making_super_compact_keyboard_layout_for/)
+- [Have you built a paid productivity app for Indian users? What was your experience?](https://www.reddit.com/r/androiddev/comments/1paaino/have_you_built_a_paid_productivity_app_for_indian/)
 - [Using Compose with multi-Activity project](https://www.reddit.com/r/androiddev/comments/1pa5dl1/using_compose_with_multiactivity_project/)
 - [Finger Shadows in Compose](https://www.reddit.com/r/androiddev/comments/1pa3829/finger_shadows_in_compose/)
-- [Debug the not &quot;Debuggable&quot; - Is it possible ?](https://www.reddit.com/r/androiddev/comments/1pa1bip/debug_the_not_debuggable_is_it_possible/)
-- [Built a free meal planning app that solves “what do I cook?” using your diet, allergies, and preferences—looking for feedback](https://www.reddit.com/r/androiddev/comments/1p9zlih/built_a_free_meal_planning_app_that_solves_what/)
-- [How I thought Chatgpt could create my entire game.](https://www.reddit.com/r/androiddev/comments/1p9vnzv/how_i_thought_chatgpt_could_create_my_entire_game/)
-- [Recommendation for good android dev materials resource - great kotlin code base that everyone need to read ?](https://www.reddit.com/r/androiddev/comments/1p9tusv/recommendation_for_good_android_dev_materials/)
-- [Advice on handling Google Play’s requirement for 12 active closed-beta testers?](https://www.reddit.com/r/androiddev/comments/1p9rudi/advice_on_handling_google_plays_requirement_for/)
-- [RemoteCompose: Another Paradigm for Server-Driven UI in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1p9o3bv/remotecompose_another_paradigm_for_serverdriven/)
-- [Pending Intent](https://www.reddit.com/r/androiddev/comments/1p9lskf/pending_intent/)
-- [IDE](https://www.reddit.com/r/androiddev/comments/1p9j5kx/ide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
