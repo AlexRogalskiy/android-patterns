@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My mobile game didn’t succeed. I need your feedback.](https://www.reddit.com/r/androiddev/comments/1pb0ob3/my_mobile_game_didnt_succeed_i_need_your_feedback/)
-- [How to create URL Schemes like iOS](https://www.reddit.com/r/androiddev/comments/1payygi/how_to_create_url_schemes_like_ios/)
-- [For Hire📢 Android Game Developer Wanted – Students Preferred](https://www.reddit.com/r/androiddev/comments/1pax00c/for_hire_android_game_developer_wanted_students/)
-- [My App is Invisible on Google Play Search! &lpar;Need Help &amp; Quick Test&rpar;](https://www.reddit.com/r/androiddev/comments/1pawp3u/my_app_is_invisible_on_google_play_search_need/)
-- [Fake &quot;app is cloned&quot; review — first one disappeared, now I got another. Anyone else?](https://www.reddit.com/r/androiddev/comments/1pawkt4/fake_app_is_cloned_review_first_one_disappeared/)
-- [Seeking advice in starting with app development in college..](https://www.reddit.com/r/androiddev/comments/1pabf54/seeking_advice_in_starting_with_app_development/)
-- [I&#39;m making super compact keyboard layout for landscape screen mode.](https://www.reddit.com/r/androiddev/comments/1paan1d/im_making_super_compact_keyboard_layout_for/)
-- [Have you built a paid productivity app for Indian users? What was your experience?](https://www.reddit.com/r/androiddev/comments/1paaino/have_you_built_a_paid_productivity_app_for_indian/)
-- [Using Compose with multi-Activity project](https://www.reddit.com/r/androiddev/comments/1pa5dl1/using_compose_with_multiactivity_project/)
-- [Finger Shadows in Compose](https://www.reddit.com/r/androiddev/comments/1pa3829/finger_shadows_in_compose/)
+- [Don Turner - Navigation 3 API overview &lpar;Android Developers Spotlight Week&rpar;](https://www.reddit.com/r/androiddev/comments/1pbvctq/don_turner_navigation_3_api_overview_android/)
+- [Odd behaviour from the Google play review team](https://www.reddit.com/r/androiddev/comments/1pbrxrz/odd_behaviour_from_the_google_play_review_team/)
+- [[Navigation3] How to handle Back Press to switch Bottom Tab before closing app?](https://www.reddit.com/r/androiddev/comments/1pbor2l/navigation3_how_to_handle_back_press_to_switch/)
+- [How is this art called for app preview? Is there anywhere I can download or buy templates?](https://www.reddit.com/r/androiddev/comments/1pbncxm/how_is_this_art_called_for_app_preview_is_there/)
+- [Best Android IDE for developing directly on Android phone? AIDE vs JStudio](https://www.reddit.com/r/androiddev/comments/1pbn532/best_android_ide_for_developing_directly_on/)
+- [Is this date display pattern normal in Android UI, or just awkward design? &lpar;Samsung Health example&rpar;](https://www.reddit.com/r/androiddev/comments/1pblsr8/is_this_date_display_pattern_normal_in_android_ui/)
+- [A strategy to fix flaky Compose tests and Layout Jank &lpar;The 4-Layer Defense&rpar;](https://www.reddit.com/r/androiddev/comments/1pbl6pd/a_strategy_to_fix_flaky_compose_tests_and_layout/)
+- [How do you monitor your apps installs, reviews, analytics usage, ads spend and revenue?](https://www.reddit.com/r/androiddev/comments/1pbkdr4/how_do_you_monitor_your_apps_installs_reviews/)
+- [How can I remove this sidebar from the emulator its annoying](https://www.reddit.com/r/androiddev/comments/1pbfeac/how_can_i_remove_this_sidebar_from_the_emulator/)
+- [How to make app load as fresh on Emulator](https://www.reddit.com/r/androiddev/comments/1pbc9vn/how_to_make_app_load_as_fresh_on_emulator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
