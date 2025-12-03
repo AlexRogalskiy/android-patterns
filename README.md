@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Don Turner - Navigation 3 API overview &lpar;Android Developers Spotlight Week&rpar;](https://www.reddit.com/r/androiddev/comments/1pbvctq/don_turner_navigation_3_api_overview_android/)
-- [Odd behaviour from the Google play review team](https://www.reddit.com/r/androiddev/comments/1pbrxrz/odd_behaviour_from_the_google_play_review_team/)
-- [[Navigation3] How to handle Back Press to switch Bottom Tab before closing app?](https://www.reddit.com/r/androiddev/comments/1pbor2l/navigation3_how_to_handle_back_press_to_switch/)
-- [How is this art called for app preview? Is there anywhere I can download or buy templates?](https://www.reddit.com/r/androiddev/comments/1pbncxm/how_is_this_art_called_for_app_preview_is_there/)
-- [Best Android IDE for developing directly on Android phone? AIDE vs JStudio](https://www.reddit.com/r/androiddev/comments/1pbn532/best_android_ide_for_developing_directly_on/)
-- [Is this date display pattern normal in Android UI, or just awkward design? &lpar;Samsung Health example&rpar;](https://www.reddit.com/r/androiddev/comments/1pblsr8/is_this_date_display_pattern_normal_in_android_ui/)
-- [A strategy to fix flaky Compose tests and Layout Jank &lpar;The 4-Layer Defense&rpar;](https://www.reddit.com/r/androiddev/comments/1pbl6pd/a_strategy_to_fix_flaky_compose_tests_and_layout/)
-- [How do you monitor your apps installs, reviews, analytics usage, ads spend and revenue?](https://www.reddit.com/r/androiddev/comments/1pbkdr4/how_do_you_monitor_your_apps_installs_reviews/)
-- [How can I remove this sidebar from the emulator its annoying](https://www.reddit.com/r/androiddev/comments/1pbfeac/how_can_i_remove_this_sidebar_from_the_emulator/)
-- [How to make app load as fresh on Emulator](https://www.reddit.com/r/androiddev/comments/1pbc9vn/how_to_make_app_load_as_fresh_on_emulator/)
+- [I don’t know what I expected](https://www.reddit.com/r/androiddev/comments/1pcrne5/i_dont_know_what_i_expected/)
+- [Interesting Android Apps: December 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1pcg51i/interesting_android_apps_december_2025_showcase/)
+- [Got an Android app development question? Ask away! December 2025 edition](https://www.reddit.com/r/androiddev/comments/1pcg24h/got_an_android_app_development_question_ask_away/)
+- [Feedback for my open source screenshot generator](https://www.reddit.com/r/androiddev/comments/1pceaoa/feedback_for_my_open_source_screenshot_generator/)
+- [In Praise of Bugs: P-Y Ricau on the Joy of Breaking Things](https://www.reddit.com/r/androiddev/comments/1pcaw0j/in_praise_of_bugs_py_ricau_on_the_joy_of_breaking/)
+- [World champ at longest app update review time &lpar;113 days&rpar;.](https://www.reddit.com/r/androiddev/comments/1pc9nf5/world_champ_at_longest_app_update_review_time_113/)
+- [Starting to dev](https://www.reddit.com/r/androiddev/comments/1pc9e2b/starting_to_dev/)
+- [Android is no longer open source, indie devs are screwed](https://www.reddit.com/r/androiddev/comments/1pc8faj/android_is_no_longer_open_source_indie_devs_are/)
+- [Could Android prevents booting device if display is lower than CDD criteria ?](https://www.reddit.com/r/androiddev/comments/1pc7q9l/could_android_prevents_booting_device_if_display/)
+- [How to replicate SHEIN’s unique push notification look &lpar;large left image + hidden app info&rpar;?](https://www.reddit.com/r/androiddev/comments/1pc67ux/how_to_replicate_sheins_unique_push_notification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
