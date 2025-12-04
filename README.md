@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [⏳ Limited Time: FadCam Pro [FREE] Early Access](https://www.reddit.com/r/androiddev/comments/1pdm3gn/limited_time_fadcam_pro_free_early_access/)
+- [Droidcon India Ticket Available for Transfer](https://www.reddit.com/r/androiddev/comments/1pdenur/droidcon_india_ticket_available_for_transfer/)
+- [Built an MVP, need validation. Should I publish the 14 days closed beta and build the backend and db later? Or directly complete it and ship it?](https://www.reddit.com/r/androiddev/comments/1pddj4l/built_an_mvp_need_validation_should_i_publish_the/)
+- [My first Android app! 🚀](https://www.reddit.com/r/androiddev/comments/1pd9hq2/my_first_android_app/)
+- [Which tech stack should I learn for Android/ios development?](https://www.reddit.com/r/androiddev/comments/1pd79zm/which_tech_stack_should_i_learn_for_androidios/)
+- [Does a third party SDK break single activity arch for your app if it launches an Activity](https://www.reddit.com/r/androiddev/comments/1pd645f/does_a_third_party_sdk_break_single_activity_arch/)
+- [Can we change Android app launcher icon dynamically from backend API?](https://www.reddit.com/r/androiddev/comments/1pd093i/can_we_change_android_app_launcher_icon/)
+- [Creating an Android app with Antigravity: Let it build, run, take screencast, iterate](https://www.reddit.com/r/androiddev/comments/1pd00g0/creating_an_android_app_with_antigravity_let_it/)
+- [Using Firebender to investigate crashes at Match Group](https://www.reddit.com/r/androiddev/comments/1pcuf1g/using_firebender_to_investigate_crashes_at_match/)
 - [I don’t know what I expected](https://www.reddit.com/r/androiddev/comments/1pcrne5/i_dont_know_what_i_expected/)
-- [Interesting Android Apps: December 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1pcg51i/interesting_android_apps_december_2025_showcase/)
-- [Got an Android app development question? Ask away! December 2025 edition](https://www.reddit.com/r/androiddev/comments/1pcg24h/got_an_android_app_development_question_ask_away/)
-- [Feedback for my open source screenshot generator](https://www.reddit.com/r/androiddev/comments/1pceaoa/feedback_for_my_open_source_screenshot_generator/)
-- [In Praise of Bugs: P-Y Ricau on the Joy of Breaking Things](https://www.reddit.com/r/androiddev/comments/1pcaw0j/in_praise_of_bugs_py_ricau_on_the_joy_of_breaking/)
-- [World champ at longest app update review time &lpar;113 days&rpar;.](https://www.reddit.com/r/androiddev/comments/1pc9nf5/world_champ_at_longest_app_update_review_time_113/)
-- [Starting to dev](https://www.reddit.com/r/androiddev/comments/1pc9e2b/starting_to_dev/)
-- [Android is no longer open source, indie devs are screwed](https://www.reddit.com/r/androiddev/comments/1pc8faj/android_is_no_longer_open_source_indie_devs_are/)
-- [Could Android prevents booting device if display is lower than CDD criteria ?](https://www.reddit.com/r/androiddev/comments/1pc7q9l/could_android_prevents_booting_device_if_display/)
-- [How to replicate SHEIN’s unique push notification look &lpar;large left image + hidden app info&rpar;?](https://www.reddit.com/r/androiddev/comments/1pc67ux/how_to_replicate_sheins_unique_push_notification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
