@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [⏳ Limited Time: FadCam Pro [FREE] Early Access](https://www.reddit.com/r/androiddev/comments/1pdm3gn/limited_time_fadcam_pro_free_early_access/)
-- [Droidcon India Ticket Available for Transfer](https://www.reddit.com/r/androiddev/comments/1pdenur/droidcon_india_ticket_available_for_transfer/)
-- [Built an MVP, need validation. Should I publish the 14 days closed beta and build the backend and db later? Or directly complete it and ship it?](https://www.reddit.com/r/androiddev/comments/1pddj4l/built_an_mvp_need_validation_should_i_publish_the/)
-- [My first Android app! 🚀](https://www.reddit.com/r/androiddev/comments/1pd9hq2/my_first_android_app/)
-- [Which tech stack should I learn for Android/ios development?](https://www.reddit.com/r/androiddev/comments/1pd79zm/which_tech_stack_should_i_learn_for_androidios/)
-- [Does a third party SDK break single activity arch for your app if it launches an Activity](https://www.reddit.com/r/androiddev/comments/1pd645f/does_a_third_party_sdk_break_single_activity_arch/)
-- [Can we change Android app launcher icon dynamically from backend API?](https://www.reddit.com/r/androiddev/comments/1pd093i/can_we_change_android_app_launcher_icon/)
-- [Creating an Android app with Antigravity: Let it build, run, take screencast, iterate](https://www.reddit.com/r/androiddev/comments/1pd00g0/creating_an_android_app_with_antigravity_let_it/)
-- [Using Firebender to investigate crashes at Match Group](https://www.reddit.com/r/androiddev/comments/1pcuf1g/using_firebender_to_investigate_crashes_at_match/)
-- [I don’t know what I expected](https://www.reddit.com/r/androiddev/comments/1pcrne5/i_dont_know_what_i_expected/)
+- [What should I do next?](https://www.reddit.com/r/androiddev/comments/1ped2x2/what_should_i_do_next/)
+- [Preview parameters](https://www.reddit.com/r/androiddev/comments/1pe7ugv/preview_parameters/)
+- [Class diagram and flow diagram](https://www.reddit.com/r/androiddev/comments/1pe7oe2/class_diagram_and_flow_diagram/)
+- [Worth making my own kind of twitter or reddit?](https://www.reddit.com/r/androiddev/comments/1pe24i9/worth_making_my_own_kind_of_twitter_or_reddit/)
+- [Any Android game devs who published under their legal address?](https://www.reddit.com/r/androiddev/comments/1pe10y2/any_android_game_devs_who_published_under_their/)
+- [Free VR app for your Smartphone. Built using Cardboard SDK. AMA about building with Cardboard &lpar;Had to do a lot of work to get it working with modern Unity versions&rpar;](https://www.reddit.com/r/androiddev/comments/1pdzhyg/free_vr_app_for_your_smartphone_built_using/)
+- [My app isn&#39;t showing in Internal Testing for some people](https://www.reddit.com/r/androiddev/comments/1pdyv3d/my_app_isnt_showing_in_internal_testing_for_some/)
+- [Can MVVM be damaged just by bad naming?](https://www.reddit.com/r/androiddev/comments/1pdwf66/can_mvvm_be_damaged_just_by_bad_naming/)
+- [Built an automation to reply and track playstore reviews](https://www.reddit.com/r/androiddev/comments/1pdulfo/built_an_automation_to_reply_and_track_playstore/)
+- [Beyond Decompilers: Runtime Analysis of Evasive Android Code](https://www.reddit.com/r/androiddev/comments/1pdtc22/beyond_decompilers_runtime_analysis_of_evasive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
