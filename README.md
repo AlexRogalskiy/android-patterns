@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What should I do next?](https://www.reddit.com/r/androiddev/comments/1ped2x2/what_should_i_do_next/)
-- [Preview parameters](https://www.reddit.com/r/androiddev/comments/1pe7ugv/preview_parameters/)
-- [Class diagram and flow diagram](https://www.reddit.com/r/androiddev/comments/1pe7oe2/class_diagram_and_flow_diagram/)
-- [Worth making my own kind of twitter or reddit?](https://www.reddit.com/r/androiddev/comments/1pe24i9/worth_making_my_own_kind_of_twitter_or_reddit/)
-- [Any Android game devs who published under their legal address?](https://www.reddit.com/r/androiddev/comments/1pe10y2/any_android_game_devs_who_published_under_their/)
-- [Free VR app for your Smartphone. Built using Cardboard SDK. AMA about building with Cardboard &lpar;Had to do a lot of work to get it working with modern Unity versions&rpar;](https://www.reddit.com/r/androiddev/comments/1pdzhyg/free_vr_app_for_your_smartphone_built_using/)
-- [My app isn&#39;t showing in Internal Testing for some people](https://www.reddit.com/r/androiddev/comments/1pdyv3d/my_app_isnt_showing_in_internal_testing_for_some/)
-- [Can MVVM be damaged just by bad naming?](https://www.reddit.com/r/androiddev/comments/1pdwf66/can_mvvm_be_damaged_just_by_bad_naming/)
-- [Built an automation to reply and track playstore reviews](https://www.reddit.com/r/androiddev/comments/1pdulfo/built_an_automation_to_reply_and_track_playstore/)
-- [Beyond Decompilers: Runtime Analysis of Evasive Android Code](https://www.reddit.com/r/androiddev/comments/1pdtc22/beyond_decompilers_runtime_analysis_of_evasive/)
+- [Will Firebase Storage Get Very Expensive as My App Grows?](https://www.reddit.com/r/androiddev/comments/1pfcfwe/will_firebase_storage_get_very_expensive_as_my/)
+- [My step counter app is bleeding users despite 70+ achievements, custom themes, and obsessive polish. What&#39;s wrong with it?](https://www.reddit.com/r/androiddev/comments/1pf209w/my_step_counter_app_is_bleeding_users_despite_70/)
+- [Googlebillinghelp](https://www.reddit.com/r/androiddev/comments/1pewvij/googlebillinghelp/)
+- [CSAE / Child safety rejection from Play Store](https://www.reddit.com/r/androiddev/comments/1pev3w0/csae_child_safety_rejection_from_play_store/)
+- [I have made my first app Cyberpunk Calculator App](https://www.reddit.com/r/androiddev/comments/1peuyr4/i_have_made_my_first_app_cyberpunk_calculator_app/)
+- [What are the most effective ways to get your first users? &lpar;Free or small budget&rpar;](https://www.reddit.com/r/androiddev/comments/1peuy9c/what_are_the_most_effective_ways_to_get_your/)
+- [Clarification regarding restrictions to use in-app billing for apps published on play store](https://www.reddit.com/r/androiddev/comments/1peusu2/clarification_regarding_restrictions_to_use_inapp/)
+- [Made a small collection of copy-pastable Jetpack Compose UI Blocks](https://www.reddit.com/r/androiddev/comments/1pessfb/made_a_small_collection_of_copypastable_jetpack/)
+- [My App](https://www.reddit.com/r/androiddev/comments/1pesppf/my_app/)
+- [Building a plugin to handle user support/ feedback /bug report /feature requests](https://www.reddit.com/r/androiddev/comments/1peshal/building_a_plugin_to_handle_user_support_feedback/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
