@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Will Firebase Storage Get Very Expensive as My App Grows?](https://www.reddit.com/r/androiddev/comments/1pfcfwe/will_firebase_storage_get_very_expensive_as_my/)
-- [My step counter app is bleeding users despite 70+ achievements, custom themes, and obsessive polish. What&#39;s wrong with it?](https://www.reddit.com/r/androiddev/comments/1pf209w/my_step_counter_app_is_bleeding_users_despite_70/)
-- [Googlebillinghelp](https://www.reddit.com/r/androiddev/comments/1pewvij/googlebillinghelp/)
-- [CSAE / Child safety rejection from Play Store](https://www.reddit.com/r/androiddev/comments/1pev3w0/csae_child_safety_rejection_from_play_store/)
-- [I have made my first app Cyberpunk Calculator App](https://www.reddit.com/r/androiddev/comments/1peuyr4/i_have_made_my_first_app_cyberpunk_calculator_app/)
-- [What are the most effective ways to get your first users? &lpar;Free or small budget&rpar;](https://www.reddit.com/r/androiddev/comments/1peuy9c/what_are_the_most_effective_ways_to_get_your/)
-- [Clarification regarding restrictions to use in-app billing for apps published on play store](https://www.reddit.com/r/androiddev/comments/1peusu2/clarification_regarding_restrictions_to_use_inapp/)
-- [Made a small collection of copy-pastable Jetpack Compose UI Blocks](https://www.reddit.com/r/androiddev/comments/1pessfb/made_a_small_collection_of_copypastable_jetpack/)
-- [My App](https://www.reddit.com/r/androiddev/comments/1pesppf/my_app/)
-- [Building a plugin to handle user support/ feedback /bug report /feature requests](https://www.reddit.com/r/androiddev/comments/1peshal/building_a_plugin_to_handle_user_support_feedback/)
+- [Inside Jetpack ViewModel: Internal Mechanisms and Multiplatform Design](https://www.reddit.com/r/androiddev/comments/1pg745v/inside_jetpack_viewmodel_internal_mechanisms_and/)
+- [Cost to build an app?](https://www.reddit.com/r/androiddev/comments/1pg6abn/cost_to_build_an_app/)
+- [Running services](https://www.reddit.com/r/androiddev/comments/1pfz8lh/running_services/)
+- [Scared about purchasing 12 testers](https://www.reddit.com/r/androiddev/comments/1pfxtzv/scared_about_purchasing_12_testers/)
+- [Android released webgpu api for native android](https://www.reddit.com/r/androiddev/comments/1pfw4gc/android_released_webgpu_api_for_native_android/)
+- [when i add new image the system bar padding comes i dont want it any way to remove it ?](https://www.reddit.com/r/androiddev/comments/1pfw4c5/when_i_add_new_image_the_system_bar_padding_comes/)
+- [Why Do My Firebase SMS Auth SHA Keys Keep Becoming Invalid Every Month? Do I Really Need to Regenerate Them Constantly?](https://www.reddit.com/r/androiddev/comments/1pfsida/why_do_my_firebase_sms_auth_sha_keys_keep/)
+- [hey im doing some research around game analytics and wanted to ask some questions:](https://www.reddit.com/r/androiddev/comments/1pfr2oo/hey_im_doing_some_research_around_game_analytics/)
+- [I wanna get into android dev but need some help](https://www.reddit.com/r/androiddev/comments/1pfqclg/i_wanna_get_into_android_dev_but_need_some_help/)
+- [Recreated HTC&#39;s Teeter for modern androids](https://www.reddit.com/r/androiddev/comments/1pfoeb0/recreated_htcs_teeter_for_modern_androids/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
