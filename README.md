@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Inside Jetpack ViewModel: Internal Mechanisms and Multiplatform Design](https://www.reddit.com/r/androiddev/comments/1pg745v/inside_jetpack_viewmodel_internal_mechanisms_and/)
-- [Cost to build an app?](https://www.reddit.com/r/androiddev/comments/1pg6abn/cost_to_build_an_app/)
-- [Running services](https://www.reddit.com/r/androiddev/comments/1pfz8lh/running_services/)
-- [Scared about purchasing 12 testers](https://www.reddit.com/r/androiddev/comments/1pfxtzv/scared_about_purchasing_12_testers/)
-- [Android released webgpu api for native android](https://www.reddit.com/r/androiddev/comments/1pfw4gc/android_released_webgpu_api_for_native_android/)
-- [when i add new image the system bar padding comes i dont want it any way to remove it ?](https://www.reddit.com/r/androiddev/comments/1pfw4c5/when_i_add_new_image_the_system_bar_padding_comes/)
-- [Why Do My Firebase SMS Auth SHA Keys Keep Becoming Invalid Every Month? Do I Really Need to Regenerate Them Constantly?](https://www.reddit.com/r/androiddev/comments/1pfsida/why_do_my_firebase_sms_auth_sha_keys_keep/)
-- [hey im doing some research around game analytics and wanted to ask some questions:](https://www.reddit.com/r/androiddev/comments/1pfr2oo/hey_im_doing_some_research_around_game_analytics/)
-- [I wanna get into android dev but need some help](https://www.reddit.com/r/androiddev/comments/1pfqclg/i_wanna_get_into_android_dev_but_need_some_help/)
-- [Recreated HTC&#39;s Teeter for modern androids](https://www.reddit.com/r/androiddev/comments/1pfoeb0/recreated_htcs_teeter_for_modern_androids/)
+- [Fix Android memory leaks, OOM error Android, Android Profiler alternative](https://www.reddit.com/r/androiddev/comments/1pgxyl0/fix_android_memory_leaks_oom_error_android/)
+- [App stuck in review](https://www.reddit.com/r/androiddev/comments/1pgxfe5/app_stuck_in_review/)
+- [best Android device for developers?](https://www.reddit.com/r/androiddev/comments/1pgukn2/best_android_device_for_developers/)
+- [I cannot connect to my HC-05 bluetooth module using my own Java app](https://www.reddit.com/r/androiddev/comments/1pgti3k/i_cannot_connect_to_my_hc05_bluetooth_module/)
+- [Making a app that makes your mobile into server](https://www.reddit.com/r/androiddev/comments/1pgotf2/making_a_app_that_makes_your_mobile_into_server/)
+- [Create Stunning App Mockups Instantly - 30+ Devices Available](https://www.reddit.com/r/androiddev/comments/1pgoc6p/create_stunning_app_mockups_instantly_30_devices/)
+- [Would it be possible to port python+sdl2 Applications to android?](https://www.reddit.com/r/androiddev/comments/1pglrtv/would_it_be_possible_to_port_pythonsdl2/)
+- [Jotter - A minimal notes application](https://www.reddit.com/r/androiddev/comments/1pgl5m6/jotter_a_minimal_notes_application/)
+- [Webhooks for Play Store Console app status updates](https://www.reddit.com/r/androiddev/comments/1pgkn30/webhooks_for_play_store_console_app_status_updates/)
+- [Do I need to go through the beta testing phase as an organization?](https://www.reddit.com/r/androiddev/comments/1pgi6ga/do_i_need_to_go_through_the_beta_testing_phase_as/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
