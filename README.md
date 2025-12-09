@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fix Android memory leaks, OOM error Android, Android Profiler alternative](https://www.reddit.com/r/androiddev/comments/1pgxyl0/fix_android_memory_leaks_oom_error_android/)
-- [App stuck in review](https://www.reddit.com/r/androiddev/comments/1pgxfe5/app_stuck_in_review/)
-- [best Android device for developers?](https://www.reddit.com/r/androiddev/comments/1pgukn2/best_android_device_for_developers/)
-- [I cannot connect to my HC-05 bluetooth module using my own Java app](https://www.reddit.com/r/androiddev/comments/1pgti3k/i_cannot_connect_to_my_hc05_bluetooth_module/)
-- [Making a app that makes your mobile into server](https://www.reddit.com/r/androiddev/comments/1pgotf2/making_a_app_that_makes_your_mobile_into_server/)
-- [Create Stunning App Mockups Instantly - 30+ Devices Available](https://www.reddit.com/r/androiddev/comments/1pgoc6p/create_stunning_app_mockups_instantly_30_devices/)
-- [Would it be possible to port python+sdl2 Applications to android?](https://www.reddit.com/r/androiddev/comments/1pglrtv/would_it_be_possible_to_port_pythonsdl2/)
-- [Jotter - A minimal notes application](https://www.reddit.com/r/androiddev/comments/1pgl5m6/jotter_a_minimal_notes_application/)
-- [Webhooks for Play Store Console app status updates](https://www.reddit.com/r/androiddev/comments/1pgkn30/webhooks_for_play_store_console_app_status_updates/)
-- [Do I need to go through the beta testing phase as an organization?](https://www.reddit.com/r/androiddev/comments/1pgi6ga/do_i_need_to_go_through_the_beta_testing_phase_as/)
+- [Looking for US, America, Europe based developer](https://www.reddit.com/r/androiddev/comments/1phutw0/looking_for_us_america_europe_based_developer/)
+- [Quick question about reproducing crashes &lpar;short survey&rpar;](https://www.reddit.com/r/androiddev/comments/1phuox2/quick_question_about_reproducing_crashes_short/)
+- [How I Fixed a Memory Leak in 2 Minutes &lpar;That Would Have Taken Hours with Android Studio Profiler&rpar;](https://www.reddit.com/r/androiddev/comments/1phuo7x/how_i_fixed_a_memory_leak_in_2_minutes_that_would/)
+- [XtremeADB - A GUI ADB Wrapper With Beautiful Design](https://www.reddit.com/r/androiddev/comments/1phtgww/xtremeadb_a_gui_adb_wrapper_with_beautiful_design/)
+- [How bad is my fuckup?](https://www.reddit.com/r/androiddev/comments/1phq6yv/how_bad_is_my_fuckup/)
+- [Content is not allowed in prolog...](https://www.reddit.com/r/androiddev/comments/1phm52o/content_is_not_allowed_in_prolog/)
+- [Need folks to do beta testing](https://www.reddit.com/r/androiddev/comments/1phlzjq/need_folks_to_do_beta_testing/)
+- [Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1phkx4p/android_studio_otter_3_feature_drop_202523_canary/)
+- [I went from months to minutes. How my design journey totally changed.](https://www.reddit.com/r/androiddev/comments/1phkqmu/i_went_from_months_to_minutes_how_my_design/)
+- [Implementing shared element transitions for large screened devices](https://www.reddit.com/r/androiddev/comments/1phgib9/implementing_shared_element_transitions_for_large/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
