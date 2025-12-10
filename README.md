@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for US, America, Europe based developer](https://www.reddit.com/r/androiddev/comments/1phutw0/looking_for_us_america_europe_based_developer/)
-- [Quick question about reproducing crashes &lpar;short survey&rpar;](https://www.reddit.com/r/androiddev/comments/1phuox2/quick_question_about_reproducing_crashes_short/)
-- [How I Fixed a Memory Leak in 2 Minutes &lpar;That Would Have Taken Hours with Android Studio Profiler&rpar;](https://www.reddit.com/r/androiddev/comments/1phuo7x/how_i_fixed_a_memory_leak_in_2_minutes_that_would/)
-- [XtremeADB - A GUI ADB Wrapper With Beautiful Design](https://www.reddit.com/r/androiddev/comments/1phtgww/xtremeadb_a_gui_adb_wrapper_with_beautiful_design/)
-- [How bad is my fuckup?](https://www.reddit.com/r/androiddev/comments/1phq6yv/how_bad_is_my_fuckup/)
-- [Content is not allowed in prolog...](https://www.reddit.com/r/androiddev/comments/1phm52o/content_is_not_allowed_in_prolog/)
-- [Need folks to do beta testing](https://www.reddit.com/r/androiddev/comments/1phlzjq/need_folks_to_do_beta_testing/)
-- [Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1phkx4p/android_studio_otter_3_feature_drop_202523_canary/)
-- [I went from months to minutes. How my design journey totally changed.](https://www.reddit.com/r/androiddev/comments/1phkqmu/i_went_from_months_to_minutes_how_my_design/)
-- [Implementing shared element transitions for large screened devices](https://www.reddit.com/r/androiddev/comments/1phgib9/implementing_shared_element_transitions_for_large/)
+- [How many times has a backend deployment broken your Android app this year?](https://www.reddit.com/r/androiddev/comments/1pipmrg/how_many_times_has_a_backend_deployment_broken/)
+- [Code cleanup](https://www.reddit.com/r/androiddev/comments/1pimigi/code_cleanup/)
+- [[Talk] How to make an advanced PDF reader in Compose](https://www.reddit.com/r/androiddev/comments/1piiha2/talk_how_to_make_an_advanced_pdf_reader_in_compose/)
+- [Do I have to use a Gmail account to create a Play Console dev account?](https://www.reddit.com/r/androiddev/comments/1pifmo4/do_i_have_to_use_a_gmail_account_to_create_a_play/)
+- [Looking for ONE Android book that covers basics → internals](https://www.reddit.com/r/androiddev/comments/1pif6u4/looking_for_one_android_book_that_covers_basics/)
+- [Looking for ONE Android book that covers basics → internals](https://www.reddit.com/r/androiddev/comments/1pif500/looking_for_one_android_book_that_covers_basics/)
+- [looking for](https://www.reddit.com/r/androiddev/comments/1piciyb/looking_for/)
+- [Topic for Course and Books](https://www.reddit.com/r/androiddev/comments/1pi87wx/topic_for_course_and_books/)
+- [Instagram&#39;s old threads](https://www.reddit.com/r/androiddev/comments/1pi8090/instagrams_old_threads/)
+- [What is the best way to deal with UI hiding behind Navigation bar ?](https://www.reddit.com/r/androiddev/comments/1pi7rw1/what_is_the_best_way_to_deal_with_ui_hiding/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
