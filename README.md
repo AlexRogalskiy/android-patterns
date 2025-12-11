@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How many times has a backend deployment broken your Android app this year?](https://www.reddit.com/r/androiddev/comments/1pipmrg/how_many_times_has_a_backend_deployment_broken/)
-- [Code cleanup](https://www.reddit.com/r/androiddev/comments/1pimigi/code_cleanup/)
-- [[Talk] How to make an advanced PDF reader in Compose](https://www.reddit.com/r/androiddev/comments/1piiha2/talk_how_to_make_an_advanced_pdf_reader_in_compose/)
-- [Do I have to use a Gmail account to create a Play Console dev account?](https://www.reddit.com/r/androiddev/comments/1pifmo4/do_i_have_to_use_a_gmail_account_to_create_a_play/)
-- [Looking for ONE Android book that covers basics → internals](https://www.reddit.com/r/androiddev/comments/1pif6u4/looking_for_one_android_book_that_covers_basics/)
-- [Looking for ONE Android book that covers basics → internals](https://www.reddit.com/r/androiddev/comments/1pif500/looking_for_one_android_book_that_covers_basics/)
-- [looking for](https://www.reddit.com/r/androiddev/comments/1piciyb/looking_for/)
-- [Topic for Course and Books](https://www.reddit.com/r/androiddev/comments/1pi87wx/topic_for_course_and_books/)
-- [Instagram&#39;s old threads](https://www.reddit.com/r/androiddev/comments/1pi8090/instagrams_old_threads/)
-- [What is the best way to deal with UI hiding behind Navigation bar ?](https://www.reddit.com/r/androiddev/comments/1pi7rw1/what_is_the_best_way_to_deal_with_ui_hiding/)
+- [Samsung and Media Performance Class](https://www.reddit.com/r/androiddev/comments/1pjli10/samsung_and_media_performance_class/)
+- [🖥️ SSH Manager - VS Code Extension](https://www.reddit.com/r/androiddev/comments/1pjjwlj/ssh_manager_vs_code_extension/)
+- [I cannot name my app for what it does](https://www.reddit.com/r/androiddev/comments/1pji6xt/i_cannot_name_my_app_for_what_it_does/)
+- [It is finally live and growing slowly](https://www.reddit.com/r/androiddev/comments/1pjhvo0/it_is_finally_live_and_growing_slowly/)
+- [How to fix Live Edit not working in Android Studio?](https://www.reddit.com/r/androiddev/comments/1pjh1mp/how_to_fix_live_edit_not_working_in_android_studio/)
+- [Need help regarding the sendBroadcast of ApplicationContext](https://www.reddit.com/r/androiddev/comments/1pjfris/need_help_regarding_the_sendbroadcast_of/)
+- [HLS 4ms streaming if I don&#39;t have a conventional HLS server](https://www.reddit.com/r/androiddev/comments/1pjfnnh/hls_4ms_streaming_if_i_dont_have_a_conventional/)
+- [Question about app review process.](https://www.reddit.com/r/androiddev/comments/1pjewoh/question_about_app_review_process/)
+- [Kick OAuth 2.0 returning 404 on authorize endpoint &lpar;Android app + Cloudflare Worker&rpar;](https://www.reddit.com/r/androiddev/comments/1pjdobm/kick_oauth_20_returning_404_on_authorize_endpoint/)
+- [Google Play Account Terminated Over Alleged ‘Association’: Raises Questions About Procedural Fairness and Developer Rights](https://www.reddit.com/r/androiddev/comments/1pjcmzt/google_play_account_terminated_over_alleged/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
