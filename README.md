@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Samsung and Media Performance Class](https://www.reddit.com/r/androiddev/comments/1pjli10/samsung_and_media_performance_class/)
-- [🖥️ SSH Manager - VS Code Extension](https://www.reddit.com/r/androiddev/comments/1pjjwlj/ssh_manager_vs_code_extension/)
-- [I cannot name my app for what it does](https://www.reddit.com/r/androiddev/comments/1pji6xt/i_cannot_name_my_app_for_what_it_does/)
-- [It is finally live and growing slowly](https://www.reddit.com/r/androiddev/comments/1pjhvo0/it_is_finally_live_and_growing_slowly/)
-- [How to fix Live Edit not working in Android Studio?](https://www.reddit.com/r/androiddev/comments/1pjh1mp/how_to_fix_live_edit_not_working_in_android_studio/)
-- [Need help regarding the sendBroadcast of ApplicationContext](https://www.reddit.com/r/androiddev/comments/1pjfris/need_help_regarding_the_sendbroadcast_of/)
-- [HLS 4ms streaming if I don&#39;t have a conventional HLS server](https://www.reddit.com/r/androiddev/comments/1pjfnnh/hls_4ms_streaming_if_i_dont_have_a_conventional/)
-- [Question about app review process.](https://www.reddit.com/r/androiddev/comments/1pjewoh/question_about_app_review_process/)
-- [Kick OAuth 2.0 returning 404 on authorize endpoint &lpar;Android app + Cloudflare Worker&rpar;](https://www.reddit.com/r/androiddev/comments/1pjdobm/kick_oauth_20_returning_404_on_authorize_endpoint/)
-- [Google Play Account Terminated Over Alleged ‘Association’: Raises Questions About Procedural Fairness and Developer Rights](https://www.reddit.com/r/androiddev/comments/1pjcmzt/google_play_account_terminated_over_alleged/)
+- [Modifier.visible vs Spacer vs if-condition in Jetpack Compose — mental model that finally clicked for me](https://www.reddit.com/r/androiddev/comments/1pkfxg8/modifiervisible_vs_spacer_vs_ifcondition_in/)
+- [Android Developers Blog: Enhancing Android security: Stop malware from snooping on your app data](https://www.reddit.com/r/androiddev/comments/1pkbvgc/android_developers_blog_enhancing_android/)
+- [From PyTorch to Shipping local AI on Android](https://www.reddit.com/r/androiddev/comments/1pk5flh/from_pytorch_to_shipping_local_ai_on_android/)
+- [Need help with auth sha key](https://www.reddit.com/r/androiddev/comments/1pk2es4/need_help_with_auth_sha_key/)
+- [Translating your Android app? I built a tool that handles 80+ languages and validates XML, plurals &amp; placeholders](https://www.reddit.com/r/androiddev/comments/1pk1nps/translating_your_android_app_i_built_a_tool_that/)
+- [Problem with icons, please help.](https://www.reddit.com/r/androiddev/comments/1pk1icc/problem_with_icons_please_help/)
+- [Expo vs Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1pk0qmm/expo_vs_jetpack_compose/)
+- [Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1pjzl6g/android_studio_otter_3_feature_drop_202523_canary/)
+- [Looking for feedback on my Android Developer CV](https://www.reddit.com/r/androiddev/comments/1pjzgyb/looking_for_feedback_on_my_android_developer_cv/)
+- [What are Room best practices? I&#39;m pretty confused!](https://www.reddit.com/r/androiddev/comments/1pjy0wj/what_are_room_best_practices_im_pretty_confused/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
