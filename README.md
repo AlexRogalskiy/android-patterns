@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Modifier.visible vs Spacer vs if-condition in Jetpack Compose — mental model that finally clicked for me](https://www.reddit.com/r/androiddev/comments/1pkfxg8/modifiervisible_vs_spacer_vs_ifcondition_in/)
-- [Android Developers Blog: Enhancing Android security: Stop malware from snooping on your app data](https://www.reddit.com/r/androiddev/comments/1pkbvgc/android_developers_blog_enhancing_android/)
-- [From PyTorch to Shipping local AI on Android](https://www.reddit.com/r/androiddev/comments/1pk5flh/from_pytorch_to_shipping_local_ai_on_android/)
-- [Need help with auth sha key](https://www.reddit.com/r/androiddev/comments/1pk2es4/need_help_with_auth_sha_key/)
-- [Translating your Android app? I built a tool that handles 80+ languages and validates XML, plurals &amp; placeholders](https://www.reddit.com/r/androiddev/comments/1pk1nps/translating_your_android_app_i_built_a_tool_that/)
-- [Problem with icons, please help.](https://www.reddit.com/r/androiddev/comments/1pk1icc/problem_with_icons_please_help/)
-- [Expo vs Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1pk0qmm/expo_vs_jetpack_compose/)
-- [Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1pjzl6g/android_studio_otter_3_feature_drop_202523_canary/)
-- [Looking for feedback on my Android Developer CV](https://www.reddit.com/r/androiddev/comments/1pjzgyb/looking_for_feedback_on_my_android_developer_cv/)
-- [What are Room best practices? I&#39;m pretty confused!](https://www.reddit.com/r/androiddev/comments/1pjy0wj/what_are_room_best_practices_im_pretty_confused/)
+- [Questions about setting up an anonymous Wyoming LLC to remove my legal name and address from Google Play](https://www.reddit.com/r/androiddev/comments/1pl9ff3/questions_about_setting_up_an_anonymous_wyoming/)
+- [&quot;Managed partner&quot;- Am I the favourite wife now or what?](https://www.reddit.com/r/androiddev/comments/1pl69nh/managed_partner_am_i_the_favourite_wife_now_or/)
+- [Any recommendations for books/courses about Android UI development](https://www.reddit.com/r/androiddev/comments/1pl5i2u/any_recommendations_for_bookscourses_about/)
+- [Interview on pain points and opportunities](https://www.reddit.com/r/androiddev/comments/1pl4z4t/interview_on_pain_points_and_opportunities/)
+- [Anyone know the time table for first app approvals](https://www.reddit.com/r/androiddev/comments/1pl3cnk/anyone_know_the_time_table_for_first_app_approvals/)
+- [Advice on getting back into Android Development](https://www.reddit.com/r/androiddev/comments/1pl0od0/advice_on_getting_back_into_android_development/)
+- [Looking for a working TensorFlow Lite &lpar;.tflite&rpar; NSFW detection model for Android](https://www.reddit.com/r/androiddev/comments/1pkzv2o/looking_for_a_working_tensorflow_lite_tflite_nsfw/)
+- [University project– Looking for app developers for a short interview &lpar;10–15 min&rpar;](https://www.reddit.com/r/androiddev/comments/1pkw954/university_project_looking_for_app_developers_for/)
+- [Should I be worried? - Getting sudden pre-registrations](https://www.reddit.com/r/androiddev/comments/1pkv8ls/should_i_be_worried_getting_sudden/)
+- [My app onboarding screen + comments](https://www.reddit.com/r/androiddev/comments/1pkuo7z/my_app_onboarding_screen_comments/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
