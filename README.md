@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Questions about setting up an anonymous Wyoming LLC to remove my legal name and address from Google Play](https://www.reddit.com/r/androiddev/comments/1pl9ff3/questions_about_setting_up_an_anonymous_wyoming/)
-- [&quot;Managed partner&quot;- Am I the favourite wife now or what?](https://www.reddit.com/r/androiddev/comments/1pl69nh/managed_partner_am_i_the_favourite_wife_now_or/)
-- [Any recommendations for books/courses about Android UI development](https://www.reddit.com/r/androiddev/comments/1pl5i2u/any_recommendations_for_bookscourses_about/)
-- [Interview on pain points and opportunities](https://www.reddit.com/r/androiddev/comments/1pl4z4t/interview_on_pain_points_and_opportunities/)
-- [Anyone know the time table for first app approvals](https://www.reddit.com/r/androiddev/comments/1pl3cnk/anyone_know_the_time_table_for_first_app_approvals/)
-- [Advice on getting back into Android Development](https://www.reddit.com/r/androiddev/comments/1pl0od0/advice_on_getting_back_into_android_development/)
-- [Looking for a working TensorFlow Lite &lpar;.tflite&rpar; NSFW detection model for Android](https://www.reddit.com/r/androiddev/comments/1pkzv2o/looking_for_a_working_tensorflow_lite_tflite_nsfw/)
-- [University project– Looking for app developers for a short interview &lpar;10–15 min&rpar;](https://www.reddit.com/r/androiddev/comments/1pkw954/university_project_looking_for_app_developers_for/)
-- [Should I be worried? - Getting sudden pre-registrations](https://www.reddit.com/r/androiddev/comments/1pkv8ls/should_i_be_worried_getting_sudden/)
-- [My app onboarding screen + comments](https://www.reddit.com/r/androiddev/comments/1pkuo7z/my_app_onboarding_screen_comments/)
+- [mDNS listener for Android API levels 28-33](https://www.reddit.com/r/androiddev/comments/1pm22if/mdns_listener_for_android_api_levels_2833/)
+- [One UI 8.5 Now Live: Full List of Samsung Phones Under Testing](https://www.reddit.com/r/androiddev/comments/1pm17ie/one_ui_85_now_live_full_list_of_samsung_phones/)
+- [Not sure how to architect my data in the app, anyone who did something similar and have the recommendation?](https://www.reddit.com/r/androiddev/comments/1pm0qk0/not_sure_how_to_architect_my_data_in_the_app/)
+- [App stops send notifications after an update](https://www.reddit.com/r/androiddev/comments/1plx5z0/app_stops_send_notifications_after_an_update/)
+- [Does anyone use SoX Sound eXchange and successfully add support for 16 KB page sizes?](https://www.reddit.com/r/androiddev/comments/1plunsb/does_anyone_use_sox_sound_exchange_and/)
+- [Has any transferred their apps from an organization account to individual?](https://www.reddit.com/r/androiddev/comments/1plngo5/has_any_transferred_their_apps_from_an/)
+- [What’s the Best and Most Cost-Effective Database for a Cross-Platform Mobile App With a Web Backend?](https://www.reddit.com/r/androiddev/comments/1plmzy0/whats_the_best_and_most_costeffective_database/)
+- [One UI 8.5 Now Live: Full List of Samsung Phones Under Testing](https://www.reddit.com/r/androiddev/comments/1plm2tc/one_ui_85_now_live_full_list_of_samsung_phones/)
+- [Is it possible to unlock the Soyes XS19 Pro with fingerprint? &lpar;Any real solution?&rpar;](https://www.reddit.com/r/androiddev/comments/1pllp1w/is_it_possible_to_unlock_the_soyes_xs19_pro_with/)
+- [2 weeks holidays - side project](https://www.reddit.com/r/androiddev/comments/1plldfn/2_weeks_holidays_side_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
