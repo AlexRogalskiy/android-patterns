@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [mDNS listener for Android API levels 28-33](https://www.reddit.com/r/androiddev/comments/1pm22if/mdns_listener_for_android_api_levels_2833/)
-- [One UI 8.5 Now Live: Full List of Samsung Phones Under Testing](https://www.reddit.com/r/androiddev/comments/1pm17ie/one_ui_85_now_live_full_list_of_samsung_phones/)
-- [Not sure how to architect my data in the app, anyone who did something similar and have the recommendation?](https://www.reddit.com/r/androiddev/comments/1pm0qk0/not_sure_how_to_architect_my_data_in_the_app/)
-- [App stops send notifications after an update](https://www.reddit.com/r/androiddev/comments/1plx5z0/app_stops_send_notifications_after_an_update/)
-- [Does anyone use SoX Sound eXchange and successfully add support for 16 KB page sizes?](https://www.reddit.com/r/androiddev/comments/1plunsb/does_anyone_use_sox_sound_exchange_and/)
-- [Has any transferred their apps from an organization account to individual?](https://www.reddit.com/r/androiddev/comments/1plngo5/has_any_transferred_their_apps_from_an/)
-- [What’s the Best and Most Cost-Effective Database for a Cross-Platform Mobile App With a Web Backend?](https://www.reddit.com/r/androiddev/comments/1plmzy0/whats_the_best_and_most_costeffective_database/)
-- [One UI 8.5 Now Live: Full List of Samsung Phones Under Testing](https://www.reddit.com/r/androiddev/comments/1plm2tc/one_ui_85_now_live_full_list_of_samsung_phones/)
-- [Is it possible to unlock the Soyes XS19 Pro with fingerprint? &lpar;Any real solution?&rpar;](https://www.reddit.com/r/androiddev/comments/1pllp1w/is_it_possible_to_unlock_the_soyes_xs19_pro_with/)
-- [2 weeks holidays - side project](https://www.reddit.com/r/androiddev/comments/1plldfn/2_weeks_holidays_side_project/)
+- [Liability and legal concerns with respect to mobile application development](https://www.reddit.com/r/androiddev/comments/1pmwcgy/liability_and_legal_concerns_with_respect_to/)
+- [Real-time 3D Solar System visualization based on actual planet positions &lpar;Android&rpar;](https://www.reddit.com/r/androiddev/comments/1pmrpcl/realtime_3d_solar_system_visualization_based_on/)
+- [What tool do you use for Play Store screenshots?](https://www.reddit.com/r/androiddev/comments/1pmmdh5/what_tool_do_you_use_for_play_store_screenshots/)
+- [Playconsole Closed Testing](https://www.reddit.com/r/androiddev/comments/1pmjic0/playconsole_closed_testing/)
+- [Help me make sense of feedback for take home assignment for a job](https://www.reddit.com/r/androiddev/comments/1pmgutw/help_me_make_sense_of_feedback_for_take_home/)
+- [Scamdar](https://www.reddit.com/r/androiddev/comments/1pmgie5/scamdar/)
+- [Kotlin Or Java for Native Android App Development](https://www.reddit.com/r/androiddev/comments/1pmg3px/kotlin_or_java_for_native_android_app_development/)
+- [Feeling stuck pushing for modern Android practices at work. Am I wrong, impatient, or just in the wrong place?](https://www.reddit.com/r/androiddev/comments/1pmf3dh/feeling_stuck_pushing_for_modern_android/)
+- [I am building a comic book reader with Jetpack compose](https://www.reddit.com/r/androiddev/comments/1pmbrc2/i_am_building_a_comic_book_reader_with_jetpack/)
+- [App supports 16 kb memory size but Play Store says it doesn&#39;t?](https://www.reddit.com/r/androiddev/comments/1pmawzz/app_supports_16_kb_memory_size_but_play_store/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
