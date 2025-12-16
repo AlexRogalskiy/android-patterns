@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Liability and legal concerns with respect to mobile application development](https://www.reddit.com/r/androiddev/comments/1pmwcgy/liability_and_legal_concerns_with_respect_to/)
-- [Real-time 3D Solar System visualization based on actual planet positions &lpar;Android&rpar;](https://www.reddit.com/r/androiddev/comments/1pmrpcl/realtime_3d_solar_system_visualization_based_on/)
-- [What tool do you use for Play Store screenshots?](https://www.reddit.com/r/androiddev/comments/1pmmdh5/what_tool_do_you_use_for_play_store_screenshots/)
-- [Playconsole Closed Testing](https://www.reddit.com/r/androiddev/comments/1pmjic0/playconsole_closed_testing/)
-- [Help me make sense of feedback for take home assignment for a job](https://www.reddit.com/r/androiddev/comments/1pmgutw/help_me_make_sense_of_feedback_for_take_home/)
-- [Scamdar](https://www.reddit.com/r/androiddev/comments/1pmgie5/scamdar/)
-- [Kotlin Or Java for Native Android App Development](https://www.reddit.com/r/androiddev/comments/1pmg3px/kotlin_or_java_for_native_android_app_development/)
-- [Feeling stuck pushing for modern Android practices at work. Am I wrong, impatient, or just in the wrong place?](https://www.reddit.com/r/androiddev/comments/1pmf3dh/feeling_stuck_pushing_for_modern_android/)
-- [I am building a comic book reader with Jetpack compose](https://www.reddit.com/r/androiddev/comments/1pmbrc2/i_am_building_a_comic_book_reader_with_jetpack/)
-- [App supports 16 kb memory size but Play Store says it doesn&#39;t?](https://www.reddit.com/r/androiddev/comments/1pmawzz/app_supports_16_kb_memory_size_but_play_store/)
+- [Why does my wallpaper app &lpar;video&rpar; use the native picker on Samsung S23 but not on S22?](https://www.reddit.com/r/androiddev/comments/1pnorv0/why_does_my_wallpaper_app_video_use_the_native/)
+- [Second 14-day closed test failed. How does it work?!](https://www.reddit.com/r/androiddev/comments/1pnnkec/second_14day_closed_test_failed_how_does_it_work/)
+- [Critique my play store images](https://www.reddit.com/r/androiddev/comments/1pnjrak/critique_my_play_store_images/)
+- [The new Texas law](https://www.reddit.com/r/androiddev/comments/1pnjlnn/the_new_texas_law/)
+- [Where do I update my applications full description](https://www.reddit.com/r/androiddev/comments/1png36e/where_do_i_update_my_applications_full_description/)
+- [I’m thinking of building a very simple task + journal app for myself. Would this actually work daily?](https://www.reddit.com/r/androiddev/comments/1png1ba/im_thinking_of_building_a_very_simple_task/)
+- [Compiling the Telegram Android project on the macOS M2 chip fails](https://www.reddit.com/r/androiddev/comments/1pnf05g/compiling_the_telegram_android_project_on_the/)
+- [Noak.sg in Singapore](https://www.reddit.com/r/androiddev/comments/1pnc66l/noaksg_in_singapore/)
+- [Starting with android development without using android studios emulator](https://www.reddit.com/r/androiddev/comments/1pnbvnd/starting_with_android_development_without_using/)
+- [I turned a spare &quot;potato&quot; laptop into a Gradle Remote Build Cache](https://www.reddit.com/r/androiddev/comments/1pnbqrg/i_turned_a_spare_potato_laptop_into_a_gradle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
