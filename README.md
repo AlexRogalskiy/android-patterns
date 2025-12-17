@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why does my wallpaper app &lpar;video&rpar; use the native picker on Samsung S23 but not on S22?](https://www.reddit.com/r/androiddev/comments/1pnorv0/why_does_my_wallpaper_app_video_use_the_native/)
-- [Second 14-day closed test failed. How does it work?!](https://www.reddit.com/r/androiddev/comments/1pnnkec/second_14day_closed_test_failed_how_does_it_work/)
-- [Critique my play store images](https://www.reddit.com/r/androiddev/comments/1pnjrak/critique_my_play_store_images/)
-- [The new Texas law](https://www.reddit.com/r/androiddev/comments/1pnjlnn/the_new_texas_law/)
-- [Where do I update my applications full description](https://www.reddit.com/r/androiddev/comments/1png36e/where_do_i_update_my_applications_full_description/)
-- [I’m thinking of building a very simple task + journal app for myself. Would this actually work daily?](https://www.reddit.com/r/androiddev/comments/1png1ba/im_thinking_of_building_a_very_simple_task/)
-- [Compiling the Telegram Android project on the macOS M2 chip fails](https://www.reddit.com/r/androiddev/comments/1pnf05g/compiling_the_telegram_android_project_on_the/)
-- [Noak.sg in Singapore](https://www.reddit.com/r/androiddev/comments/1pnc66l/noaksg_in_singapore/)
-- [Starting with android development without using android studios emulator](https://www.reddit.com/r/androiddev/comments/1pnbvnd/starting_with_android_development_without_using/)
-- [I turned a spare &quot;potato&quot; laptop into a Gradle Remote Build Cache](https://www.reddit.com/r/androiddev/comments/1pnbqrg/i_turned_a_spare_potato_laptop_into_a_gradle/)
+- [ADs&#39; weight choice](https://www.reddit.com/r/androiddev/comments/1pol0nq/ads_weight_choice/)
+- [The Kotlin 2.3.0 release is out!](https://www.reddit.com/r/androiddev/comments/1pokcfe/the_kotlin_230_release_is_out/)
+- [Am I safe or what?..?](https://www.reddit.com/r/androiddev/comments/1pogluq/am_i_safe_or_what/)
+- [Need yall&#39;s opinion.](https://www.reddit.com/r/androiddev/comments/1poergs/need_yalls_opinion/)
+- [Interview prep help.](https://www.reddit.com/r/androiddev/comments/1poc9gs/interview_prep_help/)
+- [I Built an Open Source Android App because movie tracking apps never felt personal enough](https://www.reddit.com/r/androiddev/comments/1po83nu/i_built_an_open_source_android_app_because_movie/)
+- [Whisper.cpp on Android: Streaming / Live Transcription is ~5× Slower Than Real-Time, but Batch Is Fast , Why?](https://www.reddit.com/r/androiddev/comments/1po663c/whispercpp_on_android_streaming_live/)
+- [AnimatedSequence 2.0.0 is here! 🎉](https://www.reddit.com/r/androiddev/comments/1po3e9m/animatedsequence_200_is_here/)
+- [Google Play review took much longer than usual](https://www.reddit.com/r/androiddev/comments/1po0t69/google_play_review_took_much_longer_than_usual/)
+- [Google Play Console: “Google couldn’t verify your identity” – org account restricted, appeals closed. Any way forward?](https://www.reddit.com/r/androiddev/comments/1po0dqv/google_play_console_google_couldnt_verify_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
