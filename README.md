@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ADs&#39; weight choice](https://www.reddit.com/r/androiddev/comments/1pol0nq/ads_weight_choice/)
-- [The Kotlin 2.3.0 release is out!](https://www.reddit.com/r/androiddev/comments/1pokcfe/the_kotlin_230_release_is_out/)
-- [Am I safe or what?..?](https://www.reddit.com/r/androiddev/comments/1pogluq/am_i_safe_or_what/)
-- [Need yall&#39;s opinion.](https://www.reddit.com/r/androiddev/comments/1poergs/need_yalls_opinion/)
-- [Interview prep help.](https://www.reddit.com/r/androiddev/comments/1poc9gs/interview_prep_help/)
-- [I Built an Open Source Android App because movie tracking apps never felt personal enough](https://www.reddit.com/r/androiddev/comments/1po83nu/i_built_an_open_source_android_app_because_movie/)
-- [Whisper.cpp on Android: Streaming / Live Transcription is ~5× Slower Than Real-Time, but Batch Is Fast , Why?](https://www.reddit.com/r/androiddev/comments/1po663c/whispercpp_on_android_streaming_live/)
-- [AnimatedSequence 2.0.0 is here! 🎉](https://www.reddit.com/r/androiddev/comments/1po3e9m/animatedsequence_200_is_here/)
-- [Google Play review took much longer than usual](https://www.reddit.com/r/androiddev/comments/1po0t69/google_play_review_took_much_longer_than_usual/)
-- [Google Play Console: “Google couldn’t verify your identity” – org account restricted, appeals closed. Any way forward?](https://www.reddit.com/r/androiddev/comments/1po0dqv/google_play_console_google_couldnt_verify_your/)
+- [Why are chinese apps so laggy and unoptimized?](https://www.reddit.com/r/androiddev/comments/1ppfgcb/why_are_chinese_apps_so_laggy_and_unoptimized/)
+- [What’s one mistake you wish you hadn’t made when launching your first app?](https://www.reddit.com/r/androiddev/comments/1pp6j9t/whats_one_mistake_you_wish_you_hadnt_made_when/)
+- [Android vital &lpar;Crashes and ANR&rpar;](https://www.reddit.com/r/androiddev/comments/1pp5nn7/android_vital_crashes_and_anr/)
+- [Why use firebase distribution?](https://www.reddit.com/r/androiddev/comments/1pp19sk/why_use_firebase_distribution/)
+- [Coroutines need a scope - and that&#39;s a good thing!](https://www.reddit.com/r/androiddev/comments/1pp16nq/coroutines_need_a_scope_and_thats_a_good_thing/)
+- [Push Notifications with Supabase](https://www.reddit.com/r/androiddev/comments/1pozilj/push_notifications_with_supabase/)
+- [I&#39;m losing my mind with the set of permissions that I actually require](https://www.reddit.com/r/androiddev/comments/1poywc4/im_losing_my_mind_with_the_set_of_permissions/)
+- [Google Play chart positions tracking tool](https://www.reddit.com/r/androiddev/comments/1povf5q/google_play_chart_positions_tracking_tool/)
+- [Play Policy team doesn&#39;t approve usage of READ_MEDIA_IMAGES permission, when I have a broader permission of MANAGE_EXTERNAL_STORAGE ...](https://www.reddit.com/r/androiddev/comments/1pov9us/play_policy_team_doesnt_approve_usage_of_read/)
+- [anyone know a good platform for mobile marketing campaigns for my android app?](https://www.reddit.com/r/androiddev/comments/1poujj7/anyone_know_a_good_platform_for_mobile_marketing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
