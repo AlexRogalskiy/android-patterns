@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why are chinese apps so laggy and unoptimized?](https://www.reddit.com/r/androiddev/comments/1ppfgcb/why_are_chinese_apps_so_laggy_and_unoptimized/)
-- [What’s one mistake you wish you hadn’t made when launching your first app?](https://www.reddit.com/r/androiddev/comments/1pp6j9t/whats_one_mistake_you_wish_you_hadnt_made_when/)
-- [Android vital &lpar;Crashes and ANR&rpar;](https://www.reddit.com/r/androiddev/comments/1pp5nn7/android_vital_crashes_and_anr/)
-- [Why use firebase distribution?](https://www.reddit.com/r/androiddev/comments/1pp19sk/why_use_firebase_distribution/)
-- [Coroutines need a scope - and that&#39;s a good thing!](https://www.reddit.com/r/androiddev/comments/1pp16nq/coroutines_need_a_scope_and_thats_a_good_thing/)
-- [Push Notifications with Supabase](https://www.reddit.com/r/androiddev/comments/1pozilj/push_notifications_with_supabase/)
-- [I&#39;m losing my mind with the set of permissions that I actually require](https://www.reddit.com/r/androiddev/comments/1poywc4/im_losing_my_mind_with_the_set_of_permissions/)
-- [Google Play chart positions tracking tool](https://www.reddit.com/r/androiddev/comments/1povf5q/google_play_chart_positions_tracking_tool/)
-- [Play Policy team doesn&#39;t approve usage of READ_MEDIA_IMAGES permission, when I have a broader permission of MANAGE_EXTERNAL_STORAGE ...](https://www.reddit.com/r/androiddev/comments/1pov9us/play_policy_team_doesnt_approve_usage_of_read/)
-- [anyone know a good platform for mobile marketing campaigns for my android app?](https://www.reddit.com/r/androiddev/comments/1poujj7/anyone_know_a_good_platform_for_mobile_marketing/)
+- [70% of trials going to &quot;Billing Error&quot; after free trial period](https://www.reddit.com/r/androiddev/comments/1pq7k7u/70_of_trials_going_to_billing_error_after_free/)
+- [Foot run is out!!!!!!](https://www.reddit.com/r/androiddev/comments/1pq7eyp/foot_run_is_out/)
+- [have you ever had your game copied or cloned?](https://www.reddit.com/r/androiddev/comments/1pq6uju/have_you_ever_had_your_game_copied_or_cloned/)
+- [Android Studio Otter 3 Feature Drop | 2025.2.3 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1ppxfbp/android_studio_otter_3_feature_drop_202523_rc_1/)
+- [In an alternate universe, Compose is also a game engine 🕹️](https://www.reddit.com/r/androiddev/comments/1ppvj0w/in_an_alternate_universe_compose_is_also_a_game/)
+- [Google Play Console identity verification](https://www.reddit.com/r/androiddev/comments/1pprwgc/google_play_console_identity_verification/)
+- [Beginner here – any tips for using AI to convert Jetpack Compose UI to SwiftUI?](https://www.reddit.com/r/androiddev/comments/1pprv79/beginner_here_any_tips_for_using_ai_to_convert/)
+- [Ad&#39;s paying out in closed testing](https://www.reddit.com/r/androiddev/comments/1pprawk/ads_paying_out_in_closed_testing/)
+- [Converting GantMan NSFW model to TensorFlow lite for Android App](https://www.reddit.com/r/androiddev/comments/1ppkrz8/converting_gantman_nsfw_model_to_tensorflow_lite/)
+- [Can I run KMM iOS apps on Windows laptop?](https://www.reddit.com/r/androiddev/comments/1ppjwes/can_i_run_kmm_ios_apps_on_windows_laptop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
