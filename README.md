@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [70% of trials going to &quot;Billing Error&quot; after free trial period](https://www.reddit.com/r/androiddev/comments/1pq7k7u/70_of_trials_going_to_billing_error_after_free/)
-- [Foot run is out!!!!!!](https://www.reddit.com/r/androiddev/comments/1pq7eyp/foot_run_is_out/)
-- [have you ever had your game copied or cloned?](https://www.reddit.com/r/androiddev/comments/1pq6uju/have_you_ever_had_your_game_copied_or_cloned/)
-- [Android Studio Otter 3 Feature Drop | 2025.2.3 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1ppxfbp/android_studio_otter_3_feature_drop_202523_rc_1/)
-- [In an alternate universe, Compose is also a game engine 🕹️](https://www.reddit.com/r/androiddev/comments/1ppvj0w/in_an_alternate_universe_compose_is_also_a_game/)
-- [Google Play Console identity verification](https://www.reddit.com/r/androiddev/comments/1pprwgc/google_play_console_identity_verification/)
-- [Beginner here – any tips for using AI to convert Jetpack Compose UI to SwiftUI?](https://www.reddit.com/r/androiddev/comments/1pprv79/beginner_here_any_tips_for_using_ai_to_convert/)
-- [Ad&#39;s paying out in closed testing](https://www.reddit.com/r/androiddev/comments/1pprawk/ads_paying_out_in_closed_testing/)
-- [Converting GantMan NSFW model to TensorFlow lite for Android App](https://www.reddit.com/r/androiddev/comments/1ppkrz8/converting_gantman_nsfw_model_to_tensorflow_lite/)
-- [Can I run KMM iOS apps on Windows laptop?](https://www.reddit.com/r/androiddev/comments/1ppjwes/can_i_run_kmm_ios_apps_on_windows_laptop/)
+- [Is Google Ads for Mobile Installs this bad ?](https://www.reddit.com/r/androiddev/comments/1pr00ji/is_google_ads_for_mobile_installs_this_bad/)
+- [Building a recipe app that parses EPUB files and uses AI to extract recipes - Help](https://www.reddit.com/r/androiddev/comments/1pqx4ry/building_a_recipe_app_that_parses_epub_files_and/)
+- [On The Fly generated UI](https://www.reddit.com/r/androiddev/comments/1pqvk9d/on_the_fly_generated_ui/)
+- [Architecture Strategy: Managing 20+ KMP Feature Modules without bloating the Consumer Apps &lpar;Android &amp; iOS&rpar;](https://www.reddit.com/r/androiddev/comments/1pqu50y/architecture_strategy_managing_20_kmp_feature/)
+- [Spotify/LinkedIn Year in Review Clones](https://www.reddit.com/r/androiddev/comments/1pqt4fv/spotifylinkedin_year_in_review_clones/)
+- [Android Studio Panda 1 | 2025.3.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1pqrqqa/android_studio_panda_1_202531_canary_1_now/)
+- [How to progress from here?](https://www.reddit.com/r/androiddev/comments/1pqro1l/how_to_progress_from_here/)
+- [Is this sustainable in the long run?](https://www.reddit.com/r/androiddev/comments/1pqr2aj/is_this_sustainable_in_the_long_run/)
+- [Help with passing authentication to fire base functions](https://www.reddit.com/r/androiddev/comments/1pqqrge/help_with_passing_authentication_to_fire_base/)
+- [I think I&#39;m slowly morphing from an Android Developer into a professional Form Filler](https://www.reddit.com/r/androiddev/comments/1pqocy2/i_think_im_slowly_morphing_from_an_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
