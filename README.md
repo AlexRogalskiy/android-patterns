@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is Google Ads for Mobile Installs this bad ?](https://www.reddit.com/r/androiddev/comments/1pr00ji/is_google_ads_for_mobile_installs_this_bad/)
-- [Building a recipe app that parses EPUB files and uses AI to extract recipes - Help](https://www.reddit.com/r/androiddev/comments/1pqx4ry/building_a_recipe_app_that_parses_epub_files_and/)
-- [On The Fly generated UI](https://www.reddit.com/r/androiddev/comments/1pqvk9d/on_the_fly_generated_ui/)
-- [Architecture Strategy: Managing 20+ KMP Feature Modules without bloating the Consumer Apps &lpar;Android &amp; iOS&rpar;](https://www.reddit.com/r/androiddev/comments/1pqu50y/architecture_strategy_managing_20_kmp_feature/)
-- [Spotify/LinkedIn Year in Review Clones](https://www.reddit.com/r/androiddev/comments/1pqt4fv/spotifylinkedin_year_in_review_clones/)
-- [Android Studio Panda 1 | 2025.3.1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1pqrqqa/android_studio_panda_1_202531_canary_1_now/)
-- [How to progress from here?](https://www.reddit.com/r/androiddev/comments/1pqro1l/how_to_progress_from_here/)
-- [Is this sustainable in the long run?](https://www.reddit.com/r/androiddev/comments/1pqr2aj/is_this_sustainable_in_the_long_run/)
-- [Help with passing authentication to fire base functions](https://www.reddit.com/r/androiddev/comments/1pqqrge/help_with_passing_authentication_to_fire_base/)
-- [I think I&#39;m slowly morphing from an Android Developer into a professional Form Filler](https://www.reddit.com/r/androiddev/comments/1pqocy2/i_think_im_slowly_morphing_from_an_android/)
+- [Restricted Developer Account](https://www.reddit.com/r/androiddev/comments/1prp40h/restricted_developer_account/)
+- [Doing the close testing twice](https://www.reddit.com/r/androiddev/comments/1prncvx/doing_the_close_testing_twice/)
+- [Adding support developer tab.](https://www.reddit.com/r/androiddev/comments/1prl65d/adding_support_developer_tab/)
+- [About pre-release QA processes](https://www.reddit.com/r/androiddev/comments/1prjlq7/about_prerelease_qa_processes/)
+- [How To Start Building Apps for Android](https://www.reddit.com/r/androiddev/comments/1prhufo/how_to_start_building_apps_for_android/)
+- [I was spending hours replying to Google Play reviews. It didn’t scale, so I built my own solution.](https://www.reddit.com/r/androiddev/comments/1prf4s7/i_was_spending_hours_replying_to_google_play/)
+- [Which native UI toolkit do you use for Android?](https://www.reddit.com/r/androiddev/comments/1prf2i1/which_native_ui_toolkit_do_you_use_for_android/)
+- [Help Needed to understand the testing android app](https://www.reddit.com/r/androiddev/comments/1prdh63/help_needed_to_understand_the_testing_android_app/)
+- [Laptop problems](https://www.reddit.com/r/androiddev/comments/1prcz9p/laptop_problems/)
+- [Does anyone know what kind of ads and compaby this app is using?](https://www.reddit.com/r/androiddev/comments/1prcaw0/does_anyone_know_what_kind_of_ads_and_compaby/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
