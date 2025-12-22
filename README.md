@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Restricted Developer Account](https://www.reddit.com/r/androiddev/comments/1prp40h/restricted_developer_account/)
+- [Making game need ideas feedback](https://www.reddit.com/r/androiddev/comments/1psksq2/making_game_need_ideas_feedback/)
+- [Source code security review](https://www.reddit.com/r/androiddev/comments/1psi7r4/source_code_security_review/)
+- [How do you handle &quot;credit consumed but server response never arrived&quot; for consumable IAPs especially related to AI?](https://www.reddit.com/r/androiddev/comments/1pshasn/how_do_you_handle_credit_consumed_but_server/)
+- [Instead of doom-scrolling job boards, looking to contribute to open source](https://www.reddit.com/r/androiddev/comments/1pse0gt/instead_of_doomscrolling_job_boards_looking_to/)
+- [Android serial bluetooth connect issues](https://www.reddit.com/r/androiddev/comments/1psdawb/android_serial_bluetooth_connect_issues/)
+- [Anyone else receive this email recently?](https://www.reddit.com/r/androiddev/comments/1pscoxc/anyone_else_receive_this_email_recently/)
+- [Question about creating a developer account.](https://www.reddit.com/r/androiddev/comments/1psaxcm/question_about_creating_a_developer_account/)
+- [Made a site with 17,000+ icons for Android apps](https://www.reddit.com/r/androiddev/comments/1ps2or7/made_a_site_with_17000_icons_for_android_apps/)
+- [How do i understand the chat functionality architecture?](https://www.reddit.com/r/androiddev/comments/1prz471/how_do_i_understand_the_chat_functionality/)
 - [Doing the close testing twice](https://www.reddit.com/r/androiddev/comments/1prncvx/doing_the_close_testing_twice/)
-- [Adding support developer tab.](https://www.reddit.com/r/androiddev/comments/1prl65d/adding_support_developer_tab/)
-- [About pre-release QA processes](https://www.reddit.com/r/androiddev/comments/1prjlq7/about_prerelease_qa_processes/)
-- [How To Start Building Apps for Android](https://www.reddit.com/r/androiddev/comments/1prhufo/how_to_start_building_apps_for_android/)
-- [I was spending hours replying to Google Play reviews. It didn’t scale, so I built my own solution.](https://www.reddit.com/r/androiddev/comments/1prf4s7/i_was_spending_hours_replying_to_google_play/)
-- [Which native UI toolkit do you use for Android?](https://www.reddit.com/r/androiddev/comments/1prf2i1/which_native_ui_toolkit_do_you_use_for_android/)
-- [Help Needed to understand the testing android app](https://www.reddit.com/r/androiddev/comments/1prdh63/help_needed_to_understand_the_testing_android_app/)
-- [Laptop problems](https://www.reddit.com/r/androiddev/comments/1prcz9p/laptop_problems/)
-- [Does anyone know what kind of ads and compaby this app is using?](https://www.reddit.com/r/androiddev/comments/1prcaw0/does_anyone_know_what_kind_of_ads_and_compaby/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
