@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Making game need ideas feedback](https://www.reddit.com/r/androiddev/comments/1psksq2/making_game_need_ideas_feedback/)
-- [Source code security review](https://www.reddit.com/r/androiddev/comments/1psi7r4/source_code_security_review/)
-- [How do you handle &quot;credit consumed but server response never arrived&quot; for consumable IAPs especially related to AI?](https://www.reddit.com/r/androiddev/comments/1pshasn/how_do_you_handle_credit_consumed_but_server/)
-- [Instead of doom-scrolling job boards, looking to contribute to open source](https://www.reddit.com/r/androiddev/comments/1pse0gt/instead_of_doomscrolling_job_boards_looking_to/)
-- [Android serial bluetooth connect issues](https://www.reddit.com/r/androiddev/comments/1psdawb/android_serial_bluetooth_connect_issues/)
-- [Anyone else receive this email recently?](https://www.reddit.com/r/androiddev/comments/1pscoxc/anyone_else_receive_this_email_recently/)
-- [Question about creating a developer account.](https://www.reddit.com/r/androiddev/comments/1psaxcm/question_about_creating_a_developer_account/)
-- [Made a site with 17,000+ icons for Android apps](https://www.reddit.com/r/androiddev/comments/1ps2or7/made_a_site_with_17000_icons_for_android_apps/)
-- [How do i understand the chat functionality architecture?](https://www.reddit.com/r/androiddev/comments/1prz471/how_do_i_understand_the_chat_functionality/)
-- [Doing the close testing twice](https://www.reddit.com/r/androiddev/comments/1prncvx/doing_the_close_testing_twice/)
+- [WebView use framework ou pure já+html+css with kotlin](https://www.reddit.com/r/androiddev/comments/1ptih8v/webview_use_framework_ou_pure_jáhtmlcss_with/)
+- [Anybody wants to try my Empty Folder Remover app? [With free lifetime promo codes for access to premium features]](https://www.reddit.com/r/androiddev/comments/1pti7hd/anybody_wants_to_try_my_empty_folder_remover_app/)
+- [Not exactly a development issue but I get this stupid glitch on every other phone on the play store.](https://www.reddit.com/r/androiddev/comments/1ptc13m/not_exactly_a_development_issue_but_i_get_this/)
+- [How can I get access to Work Profile to add the option to my launcher app.](https://www.reddit.com/r/androiddev/comments/1ptbjhr/how_can_i_get_access_to_work_profile_to_add_the/)
+- [KryVentaApp vs adobe scan vs CamScanner/oken vs AI scanner . Ultimate Battle results](https://www.reddit.com/r/androiddev/comments/1pt9ip2/kryventaapp_vs_adobe_scan_vs_camscanneroken_vs_ai/)
+- [Need to auto test app](https://www.reddit.com/r/androiddev/comments/1pt8c6e/need_to_auto_test_app/)
+- [I need a website template for app portfolio](https://www.reddit.com/r/androiddev/comments/1pt74vn/i_need_a_website_template_for_app_portfolio/)
+- [Can&#39;t use Deliveroo Driver because of Android Debug Bridge](https://www.reddit.com/r/androiddev/comments/1pt6oj4/cant_use_deliveroo_driver_because_of_android/)
+- [Weekend project, live on Play Store. Roast my AI image generator UX](https://www.reddit.com/r/androiddev/comments/1pt6945/weekend_project_live_on_play_store_roast_my_ai/)
+- [Use a self-made watch face without Google play](https://www.reddit.com/r/androiddev/comments/1pt67oz/use_a_selfmade_watch_face_without_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
