@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [WebView use framework ou pure já+html+css with kotlin](https://www.reddit.com/r/androiddev/comments/1ptih8v/webview_use_framework_ou_pure_jáhtmlcss_with/)
-- [Anybody wants to try my Empty Folder Remover app? [With free lifetime promo codes for access to premium features]](https://www.reddit.com/r/androiddev/comments/1pti7hd/anybody_wants_to_try_my_empty_folder_remover_app/)
-- [Not exactly a development issue but I get this stupid glitch on every other phone on the play store.](https://www.reddit.com/r/androiddev/comments/1ptc13m/not_exactly_a_development_issue_but_i_get_this/)
-- [How can I get access to Work Profile to add the option to my launcher app.](https://www.reddit.com/r/androiddev/comments/1ptbjhr/how_can_i_get_access_to_work_profile_to_add_the/)
-- [KryVentaApp vs adobe scan vs CamScanner/oken vs AI scanner . Ultimate Battle results](https://www.reddit.com/r/androiddev/comments/1pt9ip2/kryventaapp_vs_adobe_scan_vs_camscanneroken_vs_ai/)
-- [Need to auto test app](https://www.reddit.com/r/androiddev/comments/1pt8c6e/need_to_auto_test_app/)
-- [I need a website template for app portfolio](https://www.reddit.com/r/androiddev/comments/1pt74vn/i_need_a_website_template_for_app_portfolio/)
-- [Can&#39;t use Deliveroo Driver because of Android Debug Bridge](https://www.reddit.com/r/androiddev/comments/1pt6oj4/cant_use_deliveroo_driver_because_of_android/)
-- [Weekend project, live on Play Store. Roast my AI image generator UX](https://www.reddit.com/r/androiddev/comments/1pt6945/weekend_project_live_on_play_store_roast_my_ai/)
-- [Use a self-made watch face without Google play](https://www.reddit.com/r/androiddev/comments/1pt67oz/use_a_selfmade_watch_face_without_google_play/)
+- [I&#39;m converting my paid app to free and want to grant premium access to existing users. Is it possible?](https://www.reddit.com/r/androiddev/comments/1pv0q0j/im_converting_my_paid_app_to_free_and_want_to/)
+- [Google Play keeps asking for the same “App Information Request” — I’ve submitted it 3 times. Anyone else experienced this?](https://www.reddit.com/r/androiddev/comments/1puv8c0/google_play_keeps_asking_for_the_same_app/)
+- [Can I let users extract audio from a YouTube video and use them as a Ringtone in dialer app?](https://www.reddit.com/r/androiddev/comments/1puv4al/can_i_let_users_extract_audio_from_a_youtube/)
+- [I built a free open-source all-in-one search app for Android!](https://www.reddit.com/r/androiddev/comments/1puu802/i_built_a_free_opensource_allinone_search_app_for/)
+- [Please help with Programming an old android to play sounds!](https://www.reddit.com/r/androiddev/comments/1puqhla/please_help_with_programming_an_old_android_to/)
+- [[2025.2.2 Patch 1] Android view still gone after &quot;invalidate caches &amp; restart&quot;](https://www.reddit.com/r/androiddev/comments/1puqf5z/202522_patch_1_android_view_still_gone_after/)
+- [How to implement this compass dial UI using SensorEvent &lpar;Jetpack Compose&rpar;?](https://www.reddit.com/r/androiddev/comments/1puq2ht/how_to_implement_this_compass_dial_ui_using/)
+- [day 2 of making a open world game for mobile device](https://www.reddit.com/r/androiddev/comments/1puowd0/day_2_of_making_a_open_world_game_for_mobile/)
+- [How to implement push notifications for free in Firebase without Blaze plan?](https://www.reddit.com/r/androiddev/comments/1pun68g/how_to_implement_push_notifications_for_free_in/)
+- [[Open Source] Built the first Local Stable Diffusion client using Kotlin Multiplatform &lpar;Android &amp; Desktop&rpar; 🚀](https://www.reddit.com/r/androiddev/comments/1pumwz0/open_source_built_the_first_local_stable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
