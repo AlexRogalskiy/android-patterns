@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I&#39;m converting my paid app to free and want to grant premium access to existing users. Is it possible?](https://www.reddit.com/r/androiddev/comments/1pv0q0j/im_converting_my_paid_app_to_free_and_want_to/)
-- [Google Play keeps asking for the same “App Information Request” — I’ve submitted it 3 times. Anyone else experienced this?](https://www.reddit.com/r/androiddev/comments/1puv8c0/google_play_keeps_asking_for_the_same_app/)
-- [Can I let users extract audio from a YouTube video and use them as a Ringtone in dialer app?](https://www.reddit.com/r/androiddev/comments/1puv4al/can_i_let_users_extract_audio_from_a_youtube/)
-- [I built a free open-source all-in-one search app for Android!](https://www.reddit.com/r/androiddev/comments/1puu802/i_built_a_free_opensource_allinone_search_app_for/)
-- [Please help with Programming an old android to play sounds!](https://www.reddit.com/r/androiddev/comments/1puqhla/please_help_with_programming_an_old_android_to/)
-- [[2025.2.2 Patch 1] Android view still gone after &quot;invalidate caches &amp; restart&quot;](https://www.reddit.com/r/androiddev/comments/1puqf5z/202522_patch_1_android_view_still_gone_after/)
-- [How to implement this compass dial UI using SensorEvent &lpar;Jetpack Compose&rpar;?](https://www.reddit.com/r/androiddev/comments/1puq2ht/how_to_implement_this_compass_dial_ui_using/)
-- [day 2 of making a open world game for mobile device](https://www.reddit.com/r/androiddev/comments/1puowd0/day_2_of_making_a_open_world_game_for_mobile/)
-- [How to implement push notifications for free in Firebase without Blaze plan?](https://www.reddit.com/r/androiddev/comments/1pun68g/how_to_implement_push_notifications_for_free_in/)
-- [[Open Source] Built the first Local Stable Diffusion client using Kotlin Multiplatform &lpar;Android &amp; Desktop&rpar; 🚀](https://www.reddit.com/r/androiddev/comments/1pumwz0/open_source_built_the_first_local_stable/)
+- [Would deleting this with Universel Android debloater Remove the Android developer requirements from your phone entirely?](https://www.reddit.com/r/androiddev/comments/1pvo43e/would_deleting_this_with_universel_android/)
+- [working on a cleaner code navigation with compose previews | feedback needed](https://www.reddit.com/r/androiddev/comments/1pvnxlj/working_on_a_cleaner_code_navigation_with_compose/)
+- [A widget that shows how many Reels/Shorts/TikToks you&#39;ve watched.](https://www.reddit.com/r/androiddev/comments/1pvnguk/a_widget_that_shows_how_many_reelsshortstiktoks/)
+- [Grill my resume. Need reality check](https://www.reddit.com/r/androiddev/comments/1pvkuta/grill_my_resume_need_reality_check/)
+- [I want to start android dev](https://www.reddit.com/r/androiddev/comments/1pvkigr/i_want_to_start_android_dev/)
+- [How to sync dark theme across Android App?](https://www.reddit.com/r/androiddev/comments/1pvjwjx/how_to_sync_dark_theme_across_android_app/)
+- [androidTarget Deprecated](https://www.reddit.com/r/androiddev/comments/1pvhl3d/androidtarget_deprecated/)
+- [Didn&#39;t change closed testing aab during testing period](https://www.reddit.com/r/androiddev/comments/1pvev0x/didnt_change_closed_testing_aab_during_testing/)
+- [I am building a better dialer application](https://www.reddit.com/r/androiddev/comments/1pvb75e/i_am_building_a_better_dialer_application/)
+- [Unable to launch AVD](https://www.reddit.com/r/androiddev/comments/1pvalbo/unable_to_launch_avd/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
