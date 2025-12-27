@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Would deleting this with Universel Android debloater Remove the Android developer requirements from your phone entirely?](https://www.reddit.com/r/androiddev/comments/1pvo43e/would_deleting_this_with_universel_android/)
-- [working on a cleaner code navigation with compose previews | feedback needed](https://www.reddit.com/r/androiddev/comments/1pvnxlj/working_on_a_cleaner_code_navigation_with_compose/)
-- [A widget that shows how many Reels/Shorts/TikToks you&#39;ve watched.](https://www.reddit.com/r/androiddev/comments/1pvnguk/a_widget_that_shows_how_many_reelsshortstiktoks/)
-- [Grill my resume. Need reality check](https://www.reddit.com/r/androiddev/comments/1pvkuta/grill_my_resume_need_reality_check/)
-- [I want to start android dev](https://www.reddit.com/r/androiddev/comments/1pvkigr/i_want_to_start_android_dev/)
-- [How to sync dark theme across Android App?](https://www.reddit.com/r/androiddev/comments/1pvjwjx/how_to_sync_dark_theme_across_android_app/)
-- [androidTarget Deprecated](https://www.reddit.com/r/androiddev/comments/1pvhl3d/androidtarget_deprecated/)
-- [Didn&#39;t change closed testing aab during testing period](https://www.reddit.com/r/androiddev/comments/1pvev0x/didnt_change_closed_testing_aab_during_testing/)
-- [I am building a better dialer application](https://www.reddit.com/r/androiddev/comments/1pvb75e/i_am_building_a_better_dialer_application/)
-- [Unable to launch AVD](https://www.reddit.com/r/androiddev/comments/1pvalbo/unable_to_launch_avd/)
+- [How can I render PDFs without relying on third-party tools, while having full control over the UI so I can work with it as needed?](https://www.reddit.com/r/androiddev/comments/1pwldhw/how_can_i_render_pdfs_without_relying_on/)
+- [Developing a game](https://www.reddit.com/r/androiddev/comments/1pwhyrq/developing_a_game/)
+- [Extract text from images, match visuals, and run AI-powered analysis—all offline on your device.](https://www.reddit.com/r/androiddev/comments/1pwh10l/extract_text_from_images_match_visuals_and_run/)
+- [A weekly couples’ journal app](https://www.reddit.com/r/androiddev/comments/1pwg98e/a_weekly_couples_journal_app/)
+- [[DEV] Looking for feedback on a minimal Android app focused on reminders for personal thoughts](https://www.reddit.com/r/androiddev/comments/1pwcot1/dev_looking_for_feedback_on_a_minimal_android_app/)
+- [Why is a well-rated app almost never shared?](https://www.reddit.com/r/androiddev/comments/1pwc8c9/why_is_a_wellrated_app_almost_never_shared/)
+- [Give my &quot;School, Family &amp; Office Newspaper&quot; app a try, %100 Free!! Need 100 brave early users 🎁](https://www.reddit.com/r/androiddev/comments/1pw7r0e/give_my_school_family_office_newspaper_app_a_try/)
+- [sms flood protection](https://www.reddit.com/r/androiddev/comments/1pw7mua/sms_flood_protection/)
+- [Bulletin a new way to get your news! Stop getting pay walled, stop reading fluff pieces.](https://www.reddit.com/r/androiddev/comments/1pw7iq0/bulletin_a_new_way_to_get_your_news_stop_getting/)
+- [A Highly Configurable Performant Carousel](https://www.reddit.com/r/androiddev/comments/1pw4hu0/a_highly_configurable_performant_carousel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
