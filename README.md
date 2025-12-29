@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Omega Protocol, the universe is dying, fix it!](https://www.reddit.com/r/androiddev/comments/1py539n/the_omega_protocol_the_universe_is_dying_fix_it/)
+- [Recover data from tablet](https://www.reddit.com/r/androiddev/comments/1py45gj/recover_data_from_tablet/)
+- [Is it possible to reverse engineer reddit android mobile app?](https://www.reddit.com/r/androiddev/comments/1py2u11/is_it_possible_to_reverse_engineer_reddit_android/)
+- [Has anyone tried the new Gemini-powered auto-translation in the Play Store Console? How&#39;s the quality?](https://www.reddit.com/r/androiddev/comments/1py111e/has_anyone_tried_the_new_geminipowered/)
+- [How would you design onboarding for a kids learning app?](https://www.reddit.com/r/androiddev/comments/1pxug63/how_would_you_design_onboarding_for_a_kids/)
+- [[Showcase] [FOSS] Building a passive, event-driven system theme switcher based on ambient light sensor with Kotlin, Jetpack Compose, WebADB setup &lpar;Adaptive Theme&rpar;](https://www.reddit.com/r/androiddev/comments/1pxs4mv/showcase_foss_building_a_passive_eventdriven/)
+- [Updated ws-scrcpy with docker, and few updated for 2025](https://www.reddit.com/r/androiddev/comments/1pxg1xg/updated_wsscrcpy_with_docker_and_few_updated_for/)
 - [Kotlin Multiplatform App - Mine StableDiffusion 1.3.2](https://www.reddit.com/r/androiddev/comments/1pwxoiq/kotlin_multiplatform_app_mine_stablediffusion_132/)
 - [Anyone else seeing long Google Play reviews this December?](https://www.reddit.com/r/androiddev/comments/1pwwnxi/anyone_else_seeing_long_google_play_reviews_this/)
-- [I recreated Spotify-style App Store screenshots in under 1 minute &lpar;live demo&rpar;](https://www.reddit.com/r/androiddev/comments/1pwv0hg/i_recreated_spotifystyle_app_store_screenshots_in/)
 - [Moving from C++ NDK key management to Firebase for runtime code protection suggestions?](https://www.reddit.com/r/androiddev/comments/1pwu8r4/moving_from_c_ndk_key_management_to_firebase_for/)
-- [Implementation of ML kits in Android Java](https://www.reddit.com/r/androiddev/comments/1pwpt6w/implementation_of_ml_kits_in_android_java/)
-- [Klear](https://www.reddit.com/r/androiddev/comments/1pwpp9o/klear/)
-- [How can I render PDFs without relying on third-party tools, while having full control over the UI so I can work with it as needed?](https://www.reddit.com/r/androiddev/comments/1pwldhw/how_can_i_render_pdfs_without_relying_on/)
-- [Why is a well-rated app almost never shared?](https://www.reddit.com/r/androiddev/comments/1pwc8c9/why_is_a_wellrated_app_almost_never_shared/)
-- [sms flood protection](https://www.reddit.com/r/androiddev/comments/1pw7mua/sms_flood_protection/)
-- [Have anyone used a 12 testers service?](https://www.reddit.com/r/androiddev/comments/1pw21jv/have_anyone_used_a_12_testers_service/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
