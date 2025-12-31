@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Omega Protocol, the universe is dying, fix it!](https://www.reddit.com/r/androiddev/comments/1py539n/the_omega_protocol_the_universe_is_dying_fix_it/)
-- [Recover data from tablet](https://www.reddit.com/r/androiddev/comments/1py45gj/recover_data_from_tablet/)
-- [Is it possible to reverse engineer reddit android mobile app?](https://www.reddit.com/r/androiddev/comments/1py2u11/is_it_possible_to_reverse_engineer_reddit_android/)
-- [Has anyone tried the new Gemini-powered auto-translation in the Play Store Console? How&#39;s the quality?](https://www.reddit.com/r/androiddev/comments/1py111e/has_anyone_tried_the_new_geminipowered/)
-- [How would you design onboarding for a kids learning app?](https://www.reddit.com/r/androiddev/comments/1pxug63/how_would_you_design_onboarding_for_a_kids/)
-- [[Showcase] [FOSS] Building a passive, event-driven system theme switcher based on ambient light sensor with Kotlin, Jetpack Compose, WebADB setup &lpar;Adaptive Theme&rpar;](https://www.reddit.com/r/androiddev/comments/1pxs4mv/showcase_foss_building_a_passive_eventdriven/)
-- [Updated ws-scrcpy with docker, and few updated for 2025](https://www.reddit.com/r/androiddev/comments/1pxg1xg/updated_wsscrcpy_with_docker_and_few_updated_for/)
-- [Kotlin Multiplatform App - Mine StableDiffusion 1.3.2](https://www.reddit.com/r/androiddev/comments/1pwxoiq/kotlin_multiplatform_app_mine_stablediffusion_132/)
-- [Anyone else seeing long Google Play reviews this December?](https://www.reddit.com/r/androiddev/comments/1pwwnxi/anyone_else_seeing_long_google_play_reviews_this/)
-- [Moving from C++ NDK key management to Firebase for runtime code protection suggestions?](https://www.reddit.com/r/androiddev/comments/1pwu8r4/moving_from_c_ndk_key_management_to_firebase_for/)
+- [Looking for Android Developer to Build SignDict &lpar;Japanese &amp; American Sign Language Dictionary App&rpar;](https://www.reddit.com/r/androiddev/comments/1q002ys/looking_for_android_developer_to_build_signdict/)
+- [Jetpack Compose vs XML](https://www.reddit.com/r/androiddev/comments/1pzw782/jetpack_compose_vs_xml/)
+- [Need help wiping my phone](https://www.reddit.com/r/androiddev/comments/1pzun7n/need_help_wiping_my_phone/)
+- [Learning old tech for interviews?](https://www.reddit.com/r/androiddev/comments/1pzt76y/learning_old_tech_for_interviews/)
+- [Android developer doing iOS for over a year [seeking guidance]](https://www.reddit.com/r/androiddev/comments/1pzsc4e/android_developer_doing_ios_for_over_a_year/)
+- [What FOSS app do you wish existed but doesn&#39;t? ...YET](https://www.reddit.com/r/androiddev/comments/1pzs4o6/what_foss_app_do_you_wish_existed_but_doesnt_yet/)
+- [How to make responsive design on canvas?](https://www.reddit.com/r/androiddev/comments/1pzq66n/how_to_make_responsive_design_on_canvas/)
+- [Notion setup to track Android learning and interview prep](https://www.reddit.com/r/androiddev/comments/1pznauo/notion_setup_to_track_android_learning_and/)
+- [How do you handle currency conversion in mobile apps?](https://www.reddit.com/r/androiddev/comments/1pzmgyd/how_do_you_handle_currency_conversion_in_mobile/)
+- [best sdk for user to user calling in RN App? &lpar;Something like Agora&rpar;](https://www.reddit.com/r/androiddev/comments/1pzmbig/best_sdk_for_user_to_user_calling_in_rn_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
