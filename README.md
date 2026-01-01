@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I’m new to developing, but I built a free tool to track local predator sightings &lpar;bears, lions, coyotes&rpar; after losing livestock and having a bunch of mountain lion sightings locally. It’s finally on the store.](https://www.reddit.com/r/androiddev/comments/1q0t1i2/im_new_to_developing_but_i_built_a_free_tool_to/)
+- [How to verify Developer account without real Android phone?](https://www.reddit.com/r/androiddev/comments/1q0piph/how_to_verify_developer_account_without_real/)
+- [Which design is better?](https://www.reddit.com/r/androiddev/comments/1q0p289/which_design_is_better/)
+- [I wanna just party and don&#39;t want to reply to no brainer forwarded &quot;Happy New Year blah blah&quot; messages from Whatsapp Uncles and Aunties.](https://www.reddit.com/r/androiddev/comments/1q0kw85/i_wanna_just_party_and_dont_want_to_reply_to_no/)
+- [My Android is stuck on the boot logo.](https://www.reddit.com/r/androiddev/comments/1q0co93/my_android_is_stuck_on_the_boot_logo/)
+- [Struggling to Connect OnePlus Watch 3 to Android Studio &lpar;on Windows PC&rpar; - Help! I want to make a watch face.](https://www.reddit.com/r/androiddev/comments/1q0cmv4/struggling_to_connect_oneplus_watch_3_to_android/)
+- [icmpenguin: a native Android library for ping and traceroute](https://www.reddit.com/r/androiddev/comments/1q0amj2/icmpenguin_a_native_android_library_for_ping_and/)
+- [Design engineers vibe code in React/Next.js. You need Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/1q0af9x/design_engineers_vibe_code_in_reactnextjs_you/)
+- [Can’t seem to get any feedback from app users, how do you do it ?](https://www.reddit.com/r/androiddev/comments/1q03y79/cant_seem_to_get_any_feedback_from_app_users_how/)
 - [Looking for Android Developer to Build SignDict &lpar;Japanese &amp; American Sign Language Dictionary App&rpar;](https://www.reddit.com/r/androiddev/comments/1q002ys/looking_for_android_developer_to_build_signdict/)
-- [Jetpack Compose vs XML](https://www.reddit.com/r/androiddev/comments/1pzw782/jetpack_compose_vs_xml/)
-- [Need help wiping my phone](https://www.reddit.com/r/androiddev/comments/1pzun7n/need_help_wiping_my_phone/)
-- [Learning old tech for interviews?](https://www.reddit.com/r/androiddev/comments/1pzt76y/learning_old_tech_for_interviews/)
-- [Android developer doing iOS for over a year [seeking guidance]](https://www.reddit.com/r/androiddev/comments/1pzsc4e/android_developer_doing_ios_for_over_a_year/)
-- [What FOSS app do you wish existed but doesn&#39;t? ...YET](https://www.reddit.com/r/androiddev/comments/1pzs4o6/what_foss_app_do_you_wish_existed_but_doesnt_yet/)
-- [How to make responsive design on canvas?](https://www.reddit.com/r/androiddev/comments/1pzq66n/how_to_make_responsive_design_on_canvas/)
-- [Notion setup to track Android learning and interview prep](https://www.reddit.com/r/androiddev/comments/1pznauo/notion_setup_to_track_android_learning_and/)
-- [How do you handle currency conversion in mobile apps?](https://www.reddit.com/r/androiddev/comments/1pzmgyd/how_do_you_handle_currency_conversion_in_mobile/)
-- [best sdk for user to user calling in RN App? &lpar;Something like Agora&rpar;](https://www.reddit.com/r/androiddev/comments/1pzmbig/best_sdk_for_user_to_user_calling_in_rn_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
