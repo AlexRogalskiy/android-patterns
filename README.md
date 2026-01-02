@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I’m new to developing, but I built a free tool to track local predator sightings &lpar;bears, lions, coyotes&rpar; after losing livestock and having a bunch of mountain lion sightings locally. It’s finally on the store.](https://www.reddit.com/r/androiddev/comments/1q0t1i2/im_new_to_developing_but_i_built_a_free_tool_to/)
-- [How to verify Developer account without real Android phone?](https://www.reddit.com/r/androiddev/comments/1q0piph/how_to_verify_developer_account_without_real/)
-- [Which design is better?](https://www.reddit.com/r/androiddev/comments/1q0p289/which_design_is_better/)
-- [I wanna just party and don&#39;t want to reply to no brainer forwarded &quot;Happy New Year blah blah&quot; messages from Whatsapp Uncles and Aunties.](https://www.reddit.com/r/androiddev/comments/1q0kw85/i_wanna_just_party_and_dont_want_to_reply_to_no/)
-- [My Android is stuck on the boot logo.](https://www.reddit.com/r/androiddev/comments/1q0co93/my_android_is_stuck_on_the_boot_logo/)
-- [Struggling to Connect OnePlus Watch 3 to Android Studio &lpar;on Windows PC&rpar; - Help! I want to make a watch face.](https://www.reddit.com/r/androiddev/comments/1q0cmv4/struggling_to_connect_oneplus_watch_3_to_android/)
-- [icmpenguin: a native Android library for ping and traceroute](https://www.reddit.com/r/androiddev/comments/1q0amj2/icmpenguin_a_native_android_library_for_ping_and/)
-- [Design engineers vibe code in React/Next.js. You need Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/1q0af9x/design_engineers_vibe_code_in_reactnextjs_you/)
-- [Can’t seem to get any feedback from app users, how do you do it ?](https://www.reddit.com/r/androiddev/comments/1q03y79/cant_seem_to_get_any_feedback_from_app_users_how/)
-- [Looking for Android Developer to Build SignDict &lpar;Japanese &amp; American Sign Language Dictionary App&rpar;](https://www.reddit.com/r/androiddev/comments/1q002ys/looking_for_android_developer_to_build_signdict/)
+- [Is MVI the new preferred Architecture Pattern for Android apps developed with compose?](https://www.reddit.com/r/androiddev/comments/1q1me4d/is_mvi_the_new_preferred_architecture_pattern_for/)
+- [data pre-built inside apk/assets](https://www.reddit.com/r/androiddev/comments/1q1koo9/data_prebuilt_inside_apkassets/)
+- [Is my showrate really down?](https://www.reddit.com/r/androiddev/comments/1q1fqej/is_my_showrate_really_down/)
+- [On-device face detection from group photos using Google ML Kit — lessons from a production Android app](https://www.reddit.com/r/androiddev/comments/1q1e896/ondevice_face_detection_from_group_photos_using/)
+- [Sequential copy and paste](https://www.reddit.com/r/androiddev/comments/1q1czx9/sequential_copy_and_paste/)
+- [Continue your Claude Code sessions on your Android devices](https://www.reddit.com/r/androiddev/comments/1q1cdvs/continue_your_claude_code_sessions_on_your/)
+- [Best tech stack for messaging app](https://www.reddit.com/r/androiddev/comments/1q1c3zh/best_tech_stack_for_messaging_app/)
+- [Looking for a part-time Android dev &lpar;student/fresher&rpar; to build small board/card games together 🎮](https://www.reddit.com/r/androiddev/comments/1q1bjdl/looking_for_a_parttime_android_dev_studentfresher/)
+- [New Year, New App: I open-sourced WidgetDate](https://www.reddit.com/r/androiddev/comments/1q1bi2j/new_year_new_app_i_opensourced_widgetdate/)
+- [Is there any way I can get the per-device data usage for mobile hotspot?](https://www.reddit.com/r/androiddev/comments/1q17jop/is_there_any_way_i_can_get_the_perdevice_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
