@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is MVI the new preferred Architecture Pattern for Android apps developed with compose?](https://www.reddit.com/r/androiddev/comments/1q1me4d/is_mvi_the_new_preferred_architecture_pattern_for/)
-- [data pre-built inside apk/assets](https://www.reddit.com/r/androiddev/comments/1q1koo9/data_prebuilt_inside_apkassets/)
-- [Is my showrate really down?](https://www.reddit.com/r/androiddev/comments/1q1fqej/is_my_showrate_really_down/)
-- [On-device face detection from group photos using Google ML Kit — lessons from a production Android app](https://www.reddit.com/r/androiddev/comments/1q1e896/ondevice_face_detection_from_group_photos_using/)
-- [Sequential copy and paste](https://www.reddit.com/r/androiddev/comments/1q1czx9/sequential_copy_and_paste/)
-- [Continue your Claude Code sessions on your Android devices](https://www.reddit.com/r/androiddev/comments/1q1cdvs/continue_your_claude_code_sessions_on_your/)
-- [Best tech stack for messaging app](https://www.reddit.com/r/androiddev/comments/1q1c3zh/best_tech_stack_for_messaging_app/)
-- [Looking for a part-time Android dev &lpar;student/fresher&rpar; to build small board/card games together 🎮](https://www.reddit.com/r/androiddev/comments/1q1bjdl/looking_for_a_parttime_android_dev_studentfresher/)
-- [New Year, New App: I open-sourced WidgetDate](https://www.reddit.com/r/androiddev/comments/1q1bi2j/new_year_new_app_i_opensourced_widgetdate/)
-- [Is there any way I can get the per-device data usage for mobile hotspot?](https://www.reddit.com/r/androiddev/comments/1q17jop/is_there_any_way_i_can_get_the_perdevice_data/)
+- [Getting around 300 pre-registers a day with my game.](https://www.reddit.com/r/androiddev/comments/1q2fub8/getting_around_300_preregisters_a_day_with_my_game/)
+- [Anyone else find rememberTextFieldState + BasicTextField2… kind of insane?](https://www.reddit.com/r/androiddev/comments/1q2coq4/anyone_else_find_remembertextfieldstate/)
+- [A Question About Google Samples](https://www.reddit.com/r/androiddev/comments/1q25aa8/a_question_about_google_samples/)
+- [New Portal for App Developers to Build Secure Mobile Apps](https://www.reddit.com/r/androiddev/comments/1q233i1/new_portal_for_app_developers_to_build_secure/)
+- [Play Asset Delivery PACK_UNAVAILABLE &lpar;-2&rpar; from Play Store](https://www.reddit.com/r/androiddev/comments/1q2085o/play_asset_delivery_pack_unavailable_2_from_play/)
+- [Struggling with Notification Delivery Rates &lpar;WebEngage + FCM&rpar; on Android devices, for our app.](https://www.reddit.com/r/androiddev/comments/1q1x5n0/struggling_with_notification_delivery_rates/)
+- [How to git good in android?](https://www.reddit.com/r/androiddev/comments/1q1wxtg/how_to_git_good_in_android/)
+- [Android Emulator management, but make it CLI. ⚡️](https://www.reddit.com/r/androiddev/comments/1q1txre/android_emulator_management_but_make_it_cli/)
+- [Philip Lackner Mentorship Program](https://www.reddit.com/r/androiddev/comments/1q1tnvt/philip_lackner_mentorship_program/)
+- [Spectrogram for Music files](https://www.reddit.com/r/androiddev/comments/1q1s8r1/spectrogram_for_music_files/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
