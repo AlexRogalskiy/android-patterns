@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you handle ads in small utility apps without ruining UX?](https://www.reddit.com/r/androiddev/comments/1q371tv/how_do_you_handle_ads_in_small_utility_apps/)
-- [Codaglot - Quick Kotlin language reference for programmers](https://www.reddit.com/r/androiddev/comments/1q34qyh/codaglot_quick_kotlin_language_reference_for/)
-- [Beyond shared logic &lpar;whitelabel app with kmp&rpar;](https://www.reddit.com/r/androiddev/comments/1q30zul/beyond_shared_logic_whitelabel_app_with_kmp/)
-- [FirebasePush Console : A modern Next.js web console to send Firebase Cloud Messaging &lpar;FCM&rpar; push notifications to iOS and Android devices. Features a clean, minimalist UI with drag-and-drop service account support.](https://www.reddit.com/r/androiddev/comments/1q2wje7/firebasepush_console_a_modern_nextjs_web_console/)
-- [Turn Your MacBook Notch into a Android Studio progress Tracker 🎊](https://www.reddit.com/r/androiddev/comments/1q2ugjm/turn_your_macbook_notch_into_a_android_studio/)
-- [Anyone else find rememberTextFieldState + BasicTextField2… kind of insane?](https://www.reddit.com/r/androiddev/comments/1q2coq4/anyone_else_find_remembertextfieldstate/)
-- [A Question About Google Samples](https://www.reddit.com/r/androiddev/comments/1q25aa8/a_question_about_google_samples/)
-- [New Portal for App Developers to Build Secure Mobile Apps](https://www.reddit.com/r/androiddev/comments/1q233i1/new_portal_for_app_developers_to_build_secure/)
-- [Play Asset Delivery PACK_UNAVAILABLE &lpar;-2&rpar; from Play Store](https://www.reddit.com/r/androiddev/comments/1q2085o/play_asset_delivery_pack_unavailable_2_from_play/)
-- [Struggling with Notification Delivery Rates &lpar;WebEngage + FCM&rpar; on Android devices, for our app.](https://www.reddit.com/r/androiddev/comments/1q1x5n0/struggling_with_notification_delivery_rates/)
+- [Hilt vs Koin for Android project that might possibly use KMP in the future](https://www.reddit.com/r/androiddev/comments/1q44ezi/hilt_vs_koin_for_android_project_that_might/)
+- [Should I persist with trying to make media3 work?](https://www.reddit.com/r/androiddev/comments/1q3yyez/should_i_persist_with_trying_to_make_media3_work/)
+- [Public beta: tool to create app screenshots and ASO copy faster – feedback wanted](https://www.reddit.com/r/androiddev/comments/1q3y6ld/public_beta_tool_to_create_app_screenshots_and/)
+- [A Glimpse Into DexProtector](https://www.reddit.com/r/androiddev/comments/1q3vc56/a_glimpse_into_dexprotector/)
+- [last supported version of studio that supports Android 2.0 &lpar; Eclair&rpar;](https://www.reddit.com/r/androiddev/comments/1q3toph/last_supported_version_of_studio_that_supports/)
+- [Developing a Third-Party App: Affordable Smartwatch Options for Real-Time Heart Rate Data?](https://www.reddit.com/r/androiddev/comments/1q3rsx4/developing_a_thirdparty_app_affordable_smartwatch/)
+- [Offline “keep-in-touch” reminders app &lpar;no server, privacy-first&rpar;](https://www.reddit.com/r/androiddev/comments/1q3o2wc/offline_keepintouch_reminders_app_no_server/)
+- [Got an Android app development question? Ask away! January 2026 edition](https://www.reddit.com/r/androiddev/comments/1q3izum/got_an_android_app_development_question_ask_away/)
+- [Interesting Android Apps: January 2026 Showcase](https://www.reddit.com/r/androiddev/comments/1q3iy36/interesting_android_apps_january_2026_showcase/)
+- [Are PWA still a thing?](https://www.reddit.com/r/androiddev/comments/1q3hlj7/are_pwa_still_a_thing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
