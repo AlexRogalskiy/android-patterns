@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [14 Days Closed Testing HELP](https://www.reddit.com/r/androiddev/comments/1q54v63/14_days_closed_testing_help/)
+- [Writing a series](https://www.reddit.com/r/androiddev/comments/1q52ct5/writing_a_series/)
+- [Google play console](https://www.reddit.com/r/androiddev/comments/1q4xgq2/google_play_console/)
+- [🤖 [HIRING] Android Engineer @ State Farm](https://www.reddit.com/r/androiddev/comments/1q4ubrl/hiring_android_engineer_state_farm/)
+- [Android Studio Panda 1 | 2025.3.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1q4r57j/android_studio_panda_1_202531_canary_3_now/)
+- [Lessons from building Android apps](https://www.reddit.com/r/androiddev/comments/1q4mz9m/lessons_from_building_android_apps/)
+- [Ar shoe try on. Need advice on foot detection and 3D overlay approach](https://www.reddit.com/r/androiddev/comments/1q4jly6/ar_shoe_try_on_need_advice_on_foot_detection_and/)
 - [Hilt vs Koin for Android project that might possibly use KMP in the future](https://www.reddit.com/r/androiddev/comments/1q44ezi/hilt_vs_koin_for_android_project_that_might/)
 - [Should I persist with trying to make media3 work?](https://www.reddit.com/r/androiddev/comments/1q3yyez/should_i_persist_with_trying_to_make_media3_work/)
 - [Public beta: tool to create app screenshots and ASO copy faster – feedback wanted](https://www.reddit.com/r/androiddev/comments/1q3y6ld/public_beta_tool_to_create_app_screenshots_and/)
-- [A Glimpse Into DexProtector](https://www.reddit.com/r/androiddev/comments/1q3vc56/a_glimpse_into_dexprotector/)
-- [last supported version of studio that supports Android 2.0 &lpar; Eclair&rpar;](https://www.reddit.com/r/androiddev/comments/1q3toph/last_supported_version_of_studio_that_supports/)
-- [Developing a Third-Party App: Affordable Smartwatch Options for Real-Time Heart Rate Data?](https://www.reddit.com/r/androiddev/comments/1q3rsx4/developing_a_thirdparty_app_affordable_smartwatch/)
-- [Offline “keep-in-touch” reminders app &lpar;no server, privacy-first&rpar;](https://www.reddit.com/r/androiddev/comments/1q3o2wc/offline_keepintouch_reminders_app_no_server/)
-- [Got an Android app development question? Ask away! January 2026 edition](https://www.reddit.com/r/androiddev/comments/1q3izum/got_an_android_app_development_question_ask_away/)
-- [Interesting Android Apps: January 2026 Showcase](https://www.reddit.com/r/androiddev/comments/1q3iy36/interesting_android_apps_january_2026_showcase/)
-- [Are PWA still a thing?](https://www.reddit.com/r/androiddev/comments/1q3hlj7/are_pwa_still_a_thing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
