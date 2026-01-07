@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [14 Days Closed Testing HELP](https://www.reddit.com/r/androiddev/comments/1q54v63/14_days_closed_testing_help/)
-- [Writing a series](https://www.reddit.com/r/androiddev/comments/1q52ct5/writing_a_series/)
-- [Google play console](https://www.reddit.com/r/androiddev/comments/1q4xgq2/google_play_console/)
-- [🤖 [HIRING] Android Engineer @ State Farm](https://www.reddit.com/r/androiddev/comments/1q4ubrl/hiring_android_engineer_state_farm/)
-- [Android Studio Panda 1 | 2025.3.1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1q4r57j/android_studio_panda_1_202531_canary_3_now/)
-- [Lessons from building Android apps](https://www.reddit.com/r/androiddev/comments/1q4mz9m/lessons_from_building_android_apps/)
-- [Ar shoe try on. Need advice on foot detection and 3D overlay approach](https://www.reddit.com/r/androiddev/comments/1q4jly6/ar_shoe_try_on_need_advice_on_foot_detection_and/)
-- [Hilt vs Koin for Android project that might possibly use KMP in the future](https://www.reddit.com/r/androiddev/comments/1q44ezi/hilt_vs_koin_for_android_project_that_might/)
-- [Should I persist with trying to make media3 work?](https://www.reddit.com/r/androiddev/comments/1q3yyez/should_i_persist_with_trying_to_make_media3_work/)
-- [Public beta: tool to create app screenshots and ASO copy faster – feedback wanted](https://www.reddit.com/r/androiddev/comments/1q3y6ld/public_beta_tool_to_create_app_screenshots_and/)
+- [Dependency Injection in Android: The Complete Guide to Writing Maintainable Code](https://www.reddit.com/r/androiddev/comments/1q5zsuk/dependency_injection_in_android_the_complete/)
+- [Breaking: Google will now only release Android source code twice a year](https://www.reddit.com/r/androiddev/comments/1q5uu5c/breaking_google_will_now_only_release_android/)
+- [Agents and Gradle Dont Get Along - I Fixed It in Two Commands](https://www.reddit.com/r/androiddev/comments/1q5semx/agents_and_gradle_dont_get_along_i_fixed_it_in/)
+- [Android Studio Otter 2 Feature Drop | 2025.2.2 Patch 1 Bug?](https://www.reddit.com/r/androiddev/comments/1q5r152/android_studio_otter_2_feature_drop_202522_patch/)
+- [Having trouble understanding this Android 16 Requirement](https://www.reddit.com/r/androiddev/comments/1q5omtg/having_trouble_understanding_this_android_16/)
+- [Are ALL Android apps with third-party service integration always coupled with a server?](https://www.reddit.com/r/androiddev/comments/1q5ngde/are_all_android_apps_with_thirdparty_service/)
+- [I wrote an example/template using a fresh androidx.webgpu library](https://www.reddit.com/r/androiddev/comments/1q5mh7g/i_wrote_an_exampletemplate_using_a_fresh/)
+- [Kotzilla 3.17.0: Now tracking Min/Max durations to help pinpoint ANRs and freezes](https://www.reddit.com/r/androiddev/comments/1q5j2eq/kotzilla_3170_now_tracking_minmax_durations_to/)
+- [I have 0 coding knowledge. I built a Long Range Coded PHY &lpar;S=8&rpar; Bluetooth SOS app entirely on my phone using Gemini 3 Pro + AndroidIDE. Here is the result.](https://www.reddit.com/r/androiddev/comments/1q5fo09/i_have_0_coding_knowledge_i_built_a_long_range/)
+- [Beware of those Play Console Traps!!!](https://www.reddit.com/r/androiddev/comments/1q5e6ef/beware_of_those_play_console_traps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
