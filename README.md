@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dependency Injection in Android: The Complete Guide to Writing Maintainable Code](https://www.reddit.com/r/androiddev/comments/1q5zsuk/dependency_injection_in_android_the_complete/)
-- [Breaking: Google will now only release Android source code twice a year](https://www.reddit.com/r/androiddev/comments/1q5uu5c/breaking_google_will_now_only_release_android/)
-- [Agents and Gradle Dont Get Along - I Fixed It in Two Commands](https://www.reddit.com/r/androiddev/comments/1q5semx/agents_and_gradle_dont_get_along_i_fixed_it_in/)
-- [Android Studio Otter 2 Feature Drop | 2025.2.2 Patch 1 Bug?](https://www.reddit.com/r/androiddev/comments/1q5r152/android_studio_otter_2_feature_drop_202522_patch/)
-- [Having trouble understanding this Android 16 Requirement](https://www.reddit.com/r/androiddev/comments/1q5omtg/having_trouble_understanding_this_android_16/)
-- [Are ALL Android apps with third-party service integration always coupled with a server?](https://www.reddit.com/r/androiddev/comments/1q5ngde/are_all_android_apps_with_thirdparty_service/)
-- [I wrote an example/template using a fresh androidx.webgpu library](https://www.reddit.com/r/androiddev/comments/1q5mh7g/i_wrote_an_exampletemplate_using_a_fresh/)
-- [Kotzilla 3.17.0: Now tracking Min/Max durations to help pinpoint ANRs and freezes](https://www.reddit.com/r/androiddev/comments/1q5j2eq/kotzilla_3170_now_tracking_minmax_durations_to/)
-- [I have 0 coding knowledge. I built a Long Range Coded PHY &lpar;S=8&rpar; Bluetooth SOS app entirely on my phone using Gemini 3 Pro + AndroidIDE. Here is the result.](https://www.reddit.com/r/androiddev/comments/1q5fo09/i_have_0_coding_knowledge_i_built_a_long_range/)
-- [Beware of those Play Console Traps!!!](https://www.reddit.com/r/androiddev/comments/1q5e6ef/beware_of_those_play_console_traps/)
+- [Joining soon, pay is meh — ride it out or keep interviewing?](https://www.reddit.com/r/androiddev/comments/1q6udoy/joining_soon_pay_is_meh_ride_it_out_or_keep/)
+- [I spent the afternoon playing with an API Google has been &quot;experimenting&quot; with for 2 years: stickyHeader.](https://www.reddit.com/r/androiddev/comments/1q6twoc/i_spent_the_afternoon_playing_with_an_api_google/)
+- [A tool to track App appearance in Google Play charts over time](https://www.reddit.com/r/androiddev/comments/1q6r216/a_tool_to_track_app_appearance_in_google_play/)
+- [Debugger access to make AI root cause faster](https://www.reddit.com/r/androiddev/comments/1q6pw3b/debugger_access_to_make_ai_root_cause_faster/)
+- [Reversing buy vs build decision. Replacing Ditto in our app](https://www.reddit.com/r/androiddev/comments/1q6ob5s/reversing_buy_vs_build_decision_replacing_ditto/)
+- [Newbie Question](https://www.reddit.com/r/androiddev/comments/1q6mr7c/newbie_question/)
+- [Abusers Are Trying to Bankrupt My App](https://www.reddit.com/r/androiddev/comments/1q6jdor/abusers_are_trying_to_bankrupt_my_app/)
+- [Firebase feedback form when edge to edge is enabled](https://www.reddit.com/r/androiddev/comments/1q6izcz/firebase_feedback_form_when_edge_to_edge_is/)
+- [Handling location-restricted lottery apps during Google Play review — test account question](https://www.reddit.com/r/androiddev/comments/1q6eyra/handling_locationrestricted_lottery_apps_during/)
+- [[BUG] Google Play Console is blocking my app for &quot;missing AD_ID permission&quot;, but the permission IS in the final AAB. Support is unresponsive.](https://www.reddit.com/r/androiddev/comments/1q6enjd/bug_google_play_console_is_blocking_my_app_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
