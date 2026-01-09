@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Joining soon, pay is meh — ride it out or keep interviewing?](https://www.reddit.com/r/androiddev/comments/1q6udoy/joining_soon_pay_is_meh_ride_it_out_or_keep/)
-- [I spent the afternoon playing with an API Google has been &quot;experimenting&quot; with for 2 years: stickyHeader.](https://www.reddit.com/r/androiddev/comments/1q6twoc/i_spent_the_afternoon_playing_with_an_api_google/)
-- [A tool to track App appearance in Google Play charts over time](https://www.reddit.com/r/androiddev/comments/1q6r216/a_tool_to_track_app_appearance_in_google_play/)
-- [Debugger access to make AI root cause faster](https://www.reddit.com/r/androiddev/comments/1q6pw3b/debugger_access_to_make_ai_root_cause_faster/)
-- [Reversing buy vs build decision. Replacing Ditto in our app](https://www.reddit.com/r/androiddev/comments/1q6ob5s/reversing_buy_vs_build_decision_replacing_ditto/)
-- [Newbie Question](https://www.reddit.com/r/androiddev/comments/1q6mr7c/newbie_question/)
-- [Abusers Are Trying to Bankrupt My App](https://www.reddit.com/r/androiddev/comments/1q6jdor/abusers_are_trying_to_bankrupt_my_app/)
-- [Firebase feedback form when edge to edge is enabled](https://www.reddit.com/r/androiddev/comments/1q6izcz/firebase_feedback_form_when_edge_to_edge_is/)
-- [Handling location-restricted lottery apps during Google Play review — test account question](https://www.reddit.com/r/androiddev/comments/1q6eyra/handling_locationrestricted_lottery_apps_during/)
-- [[BUG] Google Play Console is blocking my app for &quot;missing AD_ID permission&quot;, but the permission IS in the final AAB. Support is unresponsive.](https://www.reddit.com/r/androiddev/comments/1q6enjd/bug_google_play_console_is_blocking_my_app_for/)
+- [Recreated Community Store Screenshots – Before &amp; After](https://www.reddit.com/r/androiddev/comments/1q7t5hn/recreated_community_store_screenshots_before_after/)
+- [How do I use my headphone button to launch chat GPT as my assistant](https://www.reddit.com/r/androiddev/comments/1q7skte/how_do_i_use_my_headphone_button_to_launch_chat/)
+- [Lies, Damn Lies, and Semantic Versioning](https://www.reddit.com/r/androiddev/comments/1q7rc9n/lies_damn_lies_and_semantic_versioning/)
+- [Google Play to Enforce New 30% Corner Radius for App Icons](https://www.reddit.com/r/androiddev/comments/1q7qert/google_play_to_enforce_new_30_corner_radius_for/)
+- [GeoQuest](https://www.reddit.com/r/androiddev/comments/1q7pfgg/geoquest/)
+- [Proposed rule changes for App Promotion and Tester Recruiting posts](https://www.reddit.com/r/androiddev/comments/1q7onvy/proposed_rule_changes_for_app_promotion_and/)
+- [Kotlin Bench Update: Claude Opus wins, but Gemini flash 3 unexpectedly good](https://www.reddit.com/r/androiddev/comments/1q7ngwi/kotlin_bench_update_claude_opus_wins_but_gemini/)
+- [Got rejected again after 14-day closed testing on Google Play what am I missing?](https://www.reddit.com/r/androiddev/comments/1q7n7qu/got_rejected_again_after_14day_closed_testing_on/)
+- [Help, Google Play Console address verification when living with parents &lpar;Iraq&rpar;](https://www.reddit.com/r/androiddev/comments/1q7n7hn/help_google_play_console_address_verification/)
+- [Android Studio Panda 1 | 2025.3.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1q7kiqu/android_studio_panda_1_202531_canary_4_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
