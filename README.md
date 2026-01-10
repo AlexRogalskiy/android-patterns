@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Recreated Community Store Screenshots – Before &amp; After](https://www.reddit.com/r/androiddev/comments/1q7t5hn/recreated_community_store_screenshots_before_after/)
-- [How do I use my headphone button to launch chat GPT as my assistant](https://www.reddit.com/r/androiddev/comments/1q7skte/how_do_i_use_my_headphone_button_to_launch_chat/)
-- [Lies, Damn Lies, and Semantic Versioning](https://www.reddit.com/r/androiddev/comments/1q7rc9n/lies_damn_lies_and_semantic_versioning/)
-- [Google Play to Enforce New 30% Corner Radius for App Icons](https://www.reddit.com/r/androiddev/comments/1q7qert/google_play_to_enforce_new_30_corner_radius_for/)
-- [GeoQuest](https://www.reddit.com/r/androiddev/comments/1q7pfgg/geoquest/)
-- [Proposed rule changes for App Promotion and Tester Recruiting posts](https://www.reddit.com/r/androiddev/comments/1q7onvy/proposed_rule_changes_for_app_promotion_and/)
-- [Kotlin Bench Update: Claude Opus wins, but Gemini flash 3 unexpectedly good](https://www.reddit.com/r/androiddev/comments/1q7ngwi/kotlin_bench_update_claude_opus_wins_but_gemini/)
-- [Got rejected again after 14-day closed testing on Google Play what am I missing?](https://www.reddit.com/r/androiddev/comments/1q7n7qu/got_rejected_again_after_14day_closed_testing_on/)
-- [Help, Google Play Console address verification when living with parents &lpar;Iraq&rpar;](https://www.reddit.com/r/androiddev/comments/1q7n7hn/help_google_play_console_address_verification/)
-- [Android Studio Panda 1 | 2025.3.1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1q7kiqu/android_studio_panda_1_202531_canary_4_now/)
+- [What tutorial can help me learn Kotlin effectively?](https://www.reddit.com/r/androiddev/comments/1q8ldnv/what_tutorial_can_help_me_learn_kotlin_effectively/)
+- [Has anyone sold their app to Rounds.com? Looking for experiences](https://www.reddit.com/r/androiddev/comments/1q8kdpy/has_anyone_sold_their_app_to_roundscom_looking/)
+- [How can I turn a web-based AI Studio app design into a real Android APK? &lpar;Beginner, no coding background&rpar;](https://www.reddit.com/r/androiddev/comments/1q8k4lm/how_can_i_turn_a_webbased_ai_studio_app_design/)
+- [Unable to obtain a JavascriptEngine - Android 16 &lpar;SDK 36&rpar;](https://www.reddit.com/r/androiddev/comments/1q8j94o/unable_to_obtain_a_javascriptengine_android_16/)
+- [Is it possible to make apps for android kitkat 4.4.4?](https://www.reddit.com/r/androiddev/comments/1q8izgj/is_it_possible_to_make_apps_for_android_kitkat_444/)
+- [How long does app publishing take you each release?](https://www.reddit.com/r/androiddev/comments/1q8iq9f/how_long_does_app_publishing_take_you_each_release/)
+- [Here is why your &quot;Global Equalizer&quot; app is probably misleading you &lpar;and why it&#39;s so hard to fix&rpar;.](https://www.reddit.com/r/androiddev/comments/1q8hnzr/here_is_why_your_global_equalizer_app_is_probably/)
+- [How much should I charge them?](https://www.reddit.com/r/androiddev/comments/1q8hk0e/how_much_should_i_charge_them/)
+- [How do you handle feature requests and bug reports in your apps?](https://www.reddit.com/r/androiddev/comments/1q8gvhz/how_do_you_handle_feature_requests_and_bug/)
+- [Question about Google Closed Testing](https://www.reddit.com/r/androiddev/comments/1q8ffci/question_about_google_closed_testing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
