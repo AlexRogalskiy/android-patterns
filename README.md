@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What tutorial can help me learn Kotlin effectively?](https://www.reddit.com/r/androiddev/comments/1q8ldnv/what_tutorial_can_help_me_learn_kotlin_effectively/)
-- [Has anyone sold their app to Rounds.com? Looking for experiences](https://www.reddit.com/r/androiddev/comments/1q8kdpy/has_anyone_sold_their_app_to_roundscom_looking/)
-- [How can I turn a web-based AI Studio app design into a real Android APK? &lpar;Beginner, no coding background&rpar;](https://www.reddit.com/r/androiddev/comments/1q8k4lm/how_can_i_turn_a_webbased_ai_studio_app_design/)
-- [Unable to obtain a JavascriptEngine - Android 16 &lpar;SDK 36&rpar;](https://www.reddit.com/r/androiddev/comments/1q8j94o/unable_to_obtain_a_javascriptengine_android_16/)
-- [Is it possible to make apps for android kitkat 4.4.4?](https://www.reddit.com/r/androiddev/comments/1q8izgj/is_it_possible_to_make_apps_for_android_kitkat_444/)
-- [How long does app publishing take you each release?](https://www.reddit.com/r/androiddev/comments/1q8iq9f/how_long_does_app_publishing_take_you_each_release/)
-- [Here is why your &quot;Global Equalizer&quot; app is probably misleading you &lpar;and why it&#39;s so hard to fix&rpar;.](https://www.reddit.com/r/androiddev/comments/1q8hnzr/here_is_why_your_global_equalizer_app_is_probably/)
-- [How much should I charge them?](https://www.reddit.com/r/androiddev/comments/1q8hk0e/how_much_should_i_charge_them/)
-- [How do you handle feature requests and bug reports in your apps?](https://www.reddit.com/r/androiddev/comments/1q8gvhz/how_do_you_handle_feature_requests_and_bug/)
-- [Question about Google Closed Testing](https://www.reddit.com/r/androiddev/comments/1q8ffci/question_about_google_closed_testing/)
+- [How to easily create Google Play and Apple Store screenshots](https://www.reddit.com/r/androiddev/comments/1q9jakf/how_to_easily_create_google_play_and_apple_store/)
+- [FloHub smart productivity](https://www.reddit.com/r/androiddev/comments/1q9j9qt/flohub_smart_productivity/)
+- [Turn Your Android into a Local FTP Server](https://www.reddit.com/r/androiddev/comments/1q9j3gc/turn_your_android_into_a_local_ftp_server/)
+- [ComposeGuard is an IntelliJ/Android Studio plugin that provides real-time detection of Compose best practices violations](https://www.reddit.com/r/androiddev/comments/1q9fcjh/composeguard_is_an_intellijandroid_studio_plugin/)
+- [Where should advanced speech-to-writing logic live on Android: IME or app layer?](https://www.reddit.com/r/androiddev/comments/1q9e1fz/where_should_advanced_speechtowriting_logic_live/)
+- [I changed the name of my app](https://www.reddit.com/r/androiddev/comments/1q9dyq5/i_changed_the_name_of_my_app/)
+- [All in one utility app for Android Developer](https://www.reddit.com/r/androiddev/comments/1q9dl8y/all_in_one_utility_app_for_android_developer/)
+- [A Native Android Agent using Media Projection + AI to automate contextual communication.](https://www.reddit.com/r/androiddev/comments/1q9dit3/a_native_android_agent_using_media_projection_ai/)
+- [Does google use human testers to review app?](https://www.reddit.com/r/androiddev/comments/1q9bzbd/does_google_use_human_testers_to_review_app/)
+- [Why is Paging 3 still so hard in 2026?](https://www.reddit.com/r/androiddev/comments/1q994r4/why_is_paging_3_still_so_hard_in_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
