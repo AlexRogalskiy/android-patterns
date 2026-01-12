@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to easily create Google Play and Apple Store screenshots](https://www.reddit.com/r/androiddev/comments/1q9jakf/how_to_easily_create_google_play_and_apple_store/)
-- [FloHub smart productivity](https://www.reddit.com/r/androiddev/comments/1q9j9qt/flohub_smart_productivity/)
-- [Turn Your Android into a Local FTP Server](https://www.reddit.com/r/androiddev/comments/1q9j3gc/turn_your_android_into_a_local_ftp_server/)
-- [ComposeGuard is an IntelliJ/Android Studio plugin that provides real-time detection of Compose best practices violations](https://www.reddit.com/r/androiddev/comments/1q9fcjh/composeguard_is_an_intellijandroid_studio_plugin/)
-- [Where should advanced speech-to-writing logic live on Android: IME or app layer?](https://www.reddit.com/r/androiddev/comments/1q9e1fz/where_should_advanced_speechtowriting_logic_live/)
-- [I changed the name of my app](https://www.reddit.com/r/androiddev/comments/1q9dyq5/i_changed_the_name_of_my_app/)
-- [All in one utility app for Android Developer](https://www.reddit.com/r/androiddev/comments/1q9dl8y/all_in_one_utility_app_for_android_developer/)
-- [A Native Android Agent using Media Projection + AI to automate contextual communication.](https://www.reddit.com/r/androiddev/comments/1q9dit3/a_native_android_agent_using_media_projection_ai/)
-- [Does google use human testers to review app?](https://www.reddit.com/r/androiddev/comments/1q9bzbd/does_google_use_human_testers_to_review_app/)
-- [Why is Paging 3 still so hard in 2026?](https://www.reddit.com/r/androiddev/comments/1q994r4/why_is_paging_3_still_so_hard_in_2026/)
+- [How we prevented UI component duplication in a large Compose codebase?](https://www.reddit.com/r/androiddev/comments/1qailo2/how_we_prevented_ui_component_duplication_in_a/)
+- [Windows ADB connects when tablet reboots, but disconnects as soon as I unlock the screen](https://www.reddit.com/r/androiddev/comments/1qaa8t7/windows_adb_connects_when_tablet_reboots_but/)
+- [NEED HELP/ SUGGESTION ! &lpar;Android Fresher&rpar;](https://www.reddit.com/r/androiddev/comments/1qa92vk/need_help_suggestion_android_fresher/)
+- [Transformar o Aplicativo em APK Saúde Mental](https://www.reddit.com/r/androiddev/comments/1qa8gtt/transformar_o_aplicativo_em_apk_saúde_mental/)
+- [Giving up on google play and looking into alternatives](https://www.reddit.com/r/androiddev/comments/1qa76r8/giving_up_on_google_play_and_looking_into/)
+- [Google interview in 2 weeks with 0 LeetCode experience, should I ask for more time?](https://www.reddit.com/r/androiddev/comments/1qa5iyy/google_interview_in_2_weeks_with_0_leetcode/)
+- [Anyone has binary mtk-su for ARMv7? Android 4.2.2](https://www.reddit.com/r/androiddev/comments/1qa392i/anyone_has_binary_mtksu_for_armv7_android_422/)
+- [I have a problem with the App Singing Key](https://www.reddit.com/r/androiddev/comments/1qa26cw/i_have_a_problem_with_the_app_singing_key/)
+- [Relaunched my game and achieved a 41.9% Store Listing Conversion Rate and 4x faster growth compared to the first attempt.](https://www.reddit.com/r/androiddev/comments/1qa203k/relaunched_my_game_and_achieved_a_419_store/)
+- [7 YOE Android Dev, ₹60 LPA TC. Am I stagnating or doing well?](https://www.reddit.com/r/androiddev/comments/1qa02z7/7_yoe_android_dev_60_lpa_tc_am_i_stagnating_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
