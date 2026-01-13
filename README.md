@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How we prevented UI component duplication in a large Compose codebase?](https://www.reddit.com/r/androiddev/comments/1qailo2/how_we_prevented_ui_component_duplication_in_a/)
-- [Windows ADB connects when tablet reboots, but disconnects as soon as I unlock the screen](https://www.reddit.com/r/androiddev/comments/1qaa8t7/windows_adb_connects_when_tablet_reboots_but/)
-- [NEED HELP/ SUGGESTION ! &lpar;Android Fresher&rpar;](https://www.reddit.com/r/androiddev/comments/1qa92vk/need_help_suggestion_android_fresher/)
-- [Transformar o Aplicativo em APK Saúde Mental](https://www.reddit.com/r/androiddev/comments/1qa8gtt/transformar_o_aplicativo_em_apk_saúde_mental/)
-- [Giving up on google play and looking into alternatives](https://www.reddit.com/r/androiddev/comments/1qa76r8/giving_up_on_google_play_and_looking_into/)
-- [Google interview in 2 weeks with 0 LeetCode experience, should I ask for more time?](https://www.reddit.com/r/androiddev/comments/1qa5iyy/google_interview_in_2_weeks_with_0_leetcode/)
-- [Anyone has binary mtk-su for ARMv7? Android 4.2.2](https://www.reddit.com/r/androiddev/comments/1qa392i/anyone_has_binary_mtksu_for_armv7_android_422/)
-- [I have a problem with the App Singing Key](https://www.reddit.com/r/androiddev/comments/1qa26cw/i_have_a_problem_with_the_app_singing_key/)
-- [Relaunched my game and achieved a 41.9% Store Listing Conversion Rate and 4x faster growth compared to the first attempt.](https://www.reddit.com/r/androiddev/comments/1qa203k/relaunched_my_game_and_achieved_a_419_store/)
-- [7 YOE Android Dev, ₹60 LPA TC. Am I stagnating or doing well?](https://www.reddit.com/r/androiddev/comments/1qa02z7/7_yoe_android_dev_60_lpa_tc_am_i_stagnating_or/)
+- [My experience using AppAmbit](https://www.reddit.com/r/androiddev/comments/1qbcyc2/my_experience_using_appambit/)
+- [⚠️ Scam Alert: People asking to publish apps using your Google Play Console account](https://www.reddit.com/r/androiddev/comments/1qbcdac/scam_alert_people_asking_to_publish_apps_using/)
+- [App with NFC card emulation](https://www.reddit.com/r/androiddev/comments/1qbb3tv/app_with_nfc_card_emulation/)
+- [&lpar;Android Devs I need your tip&rpar; Do people pay for subscriptions on Android apps?](https://www.reddit.com/r/androiddev/comments/1qb6u9b/android_devs_i_need_your_tip_do_people_pay_for/)
+- [Starting my new year plan of &quot;making an app per month&quot; from today ;&rpar;](https://www.reddit.com/r/androiddev/comments/1qb2so3/starting_my_new_year_plan_of_making_an_app_per/)
+- [Built an Android SDK for collecting device signals and fingerprinting, would love feedback/tips.](https://www.reddit.com/r/androiddev/comments/1qb0z24/built_an_android_sdk_for_collecting_device/)
+- [I built a simple ASO tool after struggling to track my Play Store rankings](https://www.reddit.com/r/androiddev/comments/1qaz3dr/i_built_a_simple_aso_tool_after_struggling_to/)
+- [i made a app would like to hear some suggestions](https://www.reddit.com/r/androiddev/comments/1qay4lm/i_made_a_app_would_like_to_hear_some_suggestions/)
+- [Do people still test early Android apps for fun?](https://www.reddit.com/r/androiddev/comments/1qay1ei/do_people_still_test_early_android_apps_for_fun/)
+- [Android Dev &lpar;8 YOE&rpar; returning after gap — need blunt feedback on skill gaps blocking offers](https://www.reddit.com/r/androiddev/comments/1qaxv8e/android_dev_8_yoe_returning_after_gap_need_blunt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
