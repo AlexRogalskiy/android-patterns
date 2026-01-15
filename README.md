@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [State of Kotlin 2026](https://www.reddit.com/r/androiddev/comments/1qca882/state_of_kotlin_2026/)
-- [Disheartened beginner](https://www.reddit.com/r/androiddev/comments/1qc5t7p/disheartened_beginner/)
-- [Can we draw more power off battery-only when using Android Device as a USB-Host?](https://www.reddit.com/r/androiddev/comments/1qc5qs2/can_we_draw_more_power_off_batteryonly_when_using/)
-- [Can&#39;t get my app icon to work after many days and tutorials.](https://www.reddit.com/r/androiddev/comments/1qc3qwf/cant_get_my_app_icon_to_work_after_many_days_and/)
-- [Interview process at Whoop for Android Growth Role](https://www.reddit.com/r/androiddev/comments/1qc2gyu/interview_process_at_whoop_for_android_growth_role/)
-- [3-minute survey for Android devs: code sharing/cross-platform + raffle](https://www.reddit.com/r/androiddev/comments/1qbzddn/3minute_survey_for_android_devs_code/)
-- [How much Compose do I actually need to know](https://www.reddit.com/r/androiddev/comments/1qby4oo/how_much_compose_do_i_actually_need_to_know/)
-- [Is it okay to sell an email account that contains a Google Play account?](https://www.reddit.com/r/androiddev/comments/1qbwuqe/is_it_okay_to_sell_an_email_account_that_contains/)
-- [Don&#39;t trust JedyApps](https://www.reddit.com/r/androiddev/comments/1qbnh56/dont_trust_jedyapps/)
-- [Google&#39;s AntiGravity!! Will SW developer exist in next 2-3 years?](https://www.reddit.com/r/androiddev/comments/1qbn6pk/googles_antigravity_will_sw_developer_exist_in/)
+- [New Android App Available for Testing](https://www.reddit.com/r/androiddev/comments/1qd7dje/new_android_app_available_for_testing/)
+- [Did I make a terrible mistake choosing to specialize in native Android](https://www.reddit.com/r/androiddev/comments/1qd725n/did_i_make_a_terrible_mistake_choosing_to/)
+- [New survey on observability maturity and AI perceptions](https://www.reddit.com/r/androiddev/comments/1qd3t5b/new_survey_on_observability_maturity_and_ai/)
+- [Build android app client for REST API of online database crud](https://www.reddit.com/r/androiddev/comments/1qd3mwq/build_android_app_client_for_rest_api_of_online/)
+- [Looking for help to build a proof of concept](https://www.reddit.com/r/androiddev/comments/1qd3mb3/looking_for_help_to_build_a_proof_of_concept/)
+- [Showcase: Offline AutoML Pipeline Running Natively on Android &lpar;Kotlin + FastAPI Backend&rpar;](https://www.reddit.com/r/androiddev/comments/1qd1dsr/showcase_offline_automl_pipeline_running_natively/)
+- [Login with FB implementation requires business verification even on consumer type app?](https://www.reddit.com/r/androiddev/comments/1qcx3ru/login_with_fb_implementation_requires_business/)
+- [I missed System.currentTimeMillis&lpar;&rpar; a lot in KMP, so I made a wrapper targetting Android and iOS using kotlinx.datetime](https://www.reddit.com/r/androiddev/comments/1qcruct/i_missed_systemcurrenttimemillis_a_lot_in_kmp_so/)
+- [I built an app that turn any climbing wall into a smart wall using a projector + chromecast](https://www.reddit.com/r/androiddev/comments/1qcmqic/i_built_an_app_that_turn_any_climbing_wall_into_a/)
+- [Baseline Profiles not working](https://www.reddit.com/r/androiddev/comments/1qcmkxg/baseline_profiles_not_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
