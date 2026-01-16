@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New Android App Available for Testing](https://www.reddit.com/r/androiddev/comments/1qd7dje/new_android_app_available_for_testing/)
-- [Did I make a terrible mistake choosing to specialize in native Android](https://www.reddit.com/r/androiddev/comments/1qd725n/did_i_make_a_terrible_mistake_choosing_to/)
-- [New survey on observability maturity and AI perceptions](https://www.reddit.com/r/androiddev/comments/1qd3t5b/new_survey_on_observability_maturity_and_ai/)
-- [Build android app client for REST API of online database crud](https://www.reddit.com/r/androiddev/comments/1qd3mwq/build_android_app_client_for_rest_api_of_online/)
-- [Looking for help to build a proof of concept](https://www.reddit.com/r/androiddev/comments/1qd3mb3/looking_for_help_to_build_a_proof_of_concept/)
-- [Showcase: Offline AutoML Pipeline Running Natively on Android &lpar;Kotlin + FastAPI Backend&rpar;](https://www.reddit.com/r/androiddev/comments/1qd1dsr/showcase_offline_automl_pipeline_running_natively/)
-- [Login with FB implementation requires business verification even on consumer type app?](https://www.reddit.com/r/androiddev/comments/1qcx3ru/login_with_fb_implementation_requires_business/)
-- [I missed System.currentTimeMillis&lpar;&rpar; a lot in KMP, so I made a wrapper targetting Android and iOS using kotlinx.datetime](https://www.reddit.com/r/androiddev/comments/1qcruct/i_missed_systemcurrenttimemillis_a_lot_in_kmp_so/)
-- [I built an app that turn any climbing wall into a smart wall using a projector + chromecast](https://www.reddit.com/r/androiddev/comments/1qcmqic/i_built_an_app_that_turn_any_climbing_wall_into_a/)
-- [Baseline Profiles not working](https://www.reddit.com/r/androiddev/comments/1qcmkxg/baseline_profiles_not_working/)
+- [Daily Wisdom – a minimal quote app I built with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1qe1y0y/daily_wisdom_a_minimal_quote_app_i_built_with/)
+- [I just started learning Android development with Kotlin + Jetpack Compose, but I feel completely lost. What learning path would you recommend for a total beginner? Which topics should I learn first before diving deeper into Compose?](https://www.reddit.com/r/androiddev/comments/1qdzb8o/i_just_started_learning_android_development_with/)
+- [Android Studio Panda 1 | 2025.3.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1qdx7au/android_studio_panda_1_202531_canary_5_now/)
+- [How to speed up release &amp; review process?](https://www.reddit.com/r/androiddev/comments/1qdv7s5/how_to_speed_up_release_review_process/)
+- [Android Studio Documentation for download. I need the for offline mode.](https://www.reddit.com/r/androiddev/comments/1qdt7eq/android_studio_documentation_for_download_i_need/)
+- [Nexa × Qualcomm On-Device AI Bounty Program - Build Android Apps and Win Awards](https://www.reddit.com/r/androiddev/comments/1qdt1l6/nexa_qualcomm_ondevice_ai_bounty_program_build/)
+- [How Fastboot lets you troubleshoot and flash Android firmware](https://www.reddit.com/r/androiddev/comments/1qdsl9w/how_fastboot_lets_you_troubleshoot_and_flash/)
+- [I have made these improvement to the UI of the app is it now better or does it need further improving ?](https://www.reddit.com/r/androiddev/comments/1qdqpx5/i_have_made_these_improvement_to_the_ui_of_the/)
+- [Android Studio Otter 3 Feature Drop | 2025.2.3 now available](https://www.reddit.com/r/androiddev/comments/1qdqofe/android_studio_otter_3_feature_drop_202523_now/)
+- [We built a browser-based ADB tool with AI assistant – no SDK install needed](https://www.reddit.com/r/androiddev/comments/1qdpb2o/we_built_a_browserbased_adb_tool_with_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
