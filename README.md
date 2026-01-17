@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Daily Wisdom – a minimal quote app I built with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1qe1y0y/daily_wisdom_a_minimal_quote_app_i_built_with/)
-- [I just started learning Android development with Kotlin + Jetpack Compose, but I feel completely lost. What learning path would you recommend for a total beginner? Which topics should I learn first before diving deeper into Compose?](https://www.reddit.com/r/androiddev/comments/1qdzb8o/i_just_started_learning_android_development_with/)
-- [Android Studio Panda 1 | 2025.3.1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1qdx7au/android_studio_panda_1_202531_canary_5_now/)
-- [How to speed up release &amp; review process?](https://www.reddit.com/r/androiddev/comments/1qdv7s5/how_to_speed_up_release_review_process/)
-- [Android Studio Documentation for download. I need the for offline mode.](https://www.reddit.com/r/androiddev/comments/1qdt7eq/android_studio_documentation_for_download_i_need/)
-- [Nexa × Qualcomm On-Device AI Bounty Program - Build Android Apps and Win Awards](https://www.reddit.com/r/androiddev/comments/1qdt1l6/nexa_qualcomm_ondevice_ai_bounty_program_build/)
-- [How Fastboot lets you troubleshoot and flash Android firmware](https://www.reddit.com/r/androiddev/comments/1qdsl9w/how_fastboot_lets_you_troubleshoot_and_flash/)
-- [I have made these improvement to the UI of the app is it now better or does it need further improving ?](https://www.reddit.com/r/androiddev/comments/1qdqpx5/i_have_made_these_improvement_to_the_ui_of_the/)
-- [Android Studio Otter 3 Feature Drop | 2025.2.3 now available](https://www.reddit.com/r/androiddev/comments/1qdqofe/android_studio_otter_3_feature_drop_202523_now/)
-- [We built a browser-based ADB tool with AI assistant – no SDK install needed](https://www.reddit.com/r/androiddev/comments/1qdpb2o/we_built_a_browserbased_adb_tool_with_ai/)
+- [My music app went down for 4 hours because of a 500 error — hard lessons from production](https://www.reddit.com/r/androiddev/comments/1qf0ezy/my_music_app_went_down_for_4_hours_because_of_a/)
+- [Building an Android app is easy. Getting users is not.](https://www.reddit.com/r/androiddev/comments/1qezjku/building_an_android_app_is_easy_getting_users_is/)
+- [i need help](https://www.reddit.com/r/androiddev/comments/1qez1bz/i_need_help/)
+- [I just added new App Store screenshot templates inspired by high-converting apps](https://www.reddit.com/r/androiddev/comments/1qey62f/i_just_added_new_app_store_screenshot_templates/)
+- [Android Studio causes screen/GPU flickering after upgrading to 3440×1440 ultrawide &lpar;AMD GPU&rpar;](https://www.reddit.com/r/androiddev/comments/1qevt36/android_studio_causes_screengpu_flickering_after/)
+- [Solid cards vs bordered cards](https://www.reddit.com/r/androiddev/comments/1qeusuu/solid_cards_vs_bordered_cards/)
+- [For the people who switched tech stacks either in or out of Android Dev. How did you do it?](https://www.reddit.com/r/androiddev/comments/1qeuhc2/for_the_people_who_switched_tech_stacks_either_in/)
+- [Frustrations and Hopes](https://www.reddit.com/r/androiddev/comments/1qemezd/frustrations_and_hopes/)
+- [App idea. And in need so suggestion, guidance and some opinions.](https://www.reddit.com/r/androiddev/comments/1qeltn4/app_idea_and_in_need_so_suggestion_guidance_and/)
+- [Why does the Gemini app not use Compose?](https://www.reddit.com/r/androiddev/comments/1qejtuf/why_does_the_gemini_app_not_use_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
