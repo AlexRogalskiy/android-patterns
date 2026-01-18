@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My music app went down for 4 hours because of a 500 error — hard lessons from production](https://www.reddit.com/r/androiddev/comments/1qf0ezy/my_music_app_went_down_for_4_hours_because_of_a/)
-- [Building an Android app is easy. Getting users is not.](https://www.reddit.com/r/androiddev/comments/1qezjku/building_an_android_app_is_easy_getting_users_is/)
-- [i need help](https://www.reddit.com/r/androiddev/comments/1qez1bz/i_need_help/)
-- [I just added new App Store screenshot templates inspired by high-converting apps](https://www.reddit.com/r/androiddev/comments/1qey62f/i_just_added_new_app_store_screenshot_templates/)
-- [Android Studio causes screen/GPU flickering after upgrading to 3440×1440 ultrawide &lpar;AMD GPU&rpar;](https://www.reddit.com/r/androiddev/comments/1qevt36/android_studio_causes_screengpu_flickering_after/)
-- [Solid cards vs bordered cards](https://www.reddit.com/r/androiddev/comments/1qeusuu/solid_cards_vs_bordered_cards/)
-- [For the people who switched tech stacks either in or out of Android Dev. How did you do it?](https://www.reddit.com/r/androiddev/comments/1qeuhc2/for_the_people_who_switched_tech_stacks_either_in/)
-- [Frustrations and Hopes](https://www.reddit.com/r/androiddev/comments/1qemezd/frustrations_and_hopes/)
-- [App idea. And in need so suggestion, guidance and some opinions.](https://www.reddit.com/r/androiddev/comments/1qeltn4/app_idea_and_in_need_so_suggestion_guidance_and/)
-- [Why does the Gemini app not use Compose?](https://www.reddit.com/r/androiddev/comments/1qejtuf/why_does_the_gemini_app_not_use_compose/)
+- [Looking for various devs. Competitive salery.](https://www.reddit.com/r/androiddev/comments/1qfsiie/looking_for_various_devs_competitive_salery/)
+- [Swiping is broken — experimenting with an AI copilot + visual matching](https://www.reddit.com/r/androiddev/comments/1qfs4co/swiping_is_broken_experimenting_with_an_ai/)
+- [Setting on change listeners with Chronometer inside Remote Views](https://www.reddit.com/r/androiddev/comments/1qfryz5/setting_on_change_listeners_with_chronometer/)
+- [Vulkan Hello Triangle Sample For Android](https://www.reddit.com/r/androiddev/comments/1qfrif9/vulkan_hello_triangle_sample_for_android/)
+- [I built an open-source DMA Calculator to compare EU Store fees &lpar;IAP vs External&rpar; - looking for feedback!](https://www.reddit.com/r/androiddev/comments/1qfqjg1/i_built_an_opensource_dma_calculator_to_compare/)
+- [Built a mobile testing agent that runs on simple english](https://www.reddit.com/r/androiddev/comments/1qfpg4q/built_a_mobile_testing_agent_that_runs_on_simple/)
+- [Does anyone have an idea of what is the average CPI for hypercasual games or casual games ??](https://www.reddit.com/r/androiddev/comments/1qfkny9/does_anyone_have_an_idea_of_what_is_the_average/)
+- [When is a good time to pay for promo on your app ?](https://www.reddit.com/r/androiddev/comments/1qffqvb/when_is_a_good_time_to_pay_for_promo_on_your_app/)
+- [It&#39;s really hard to come up with an idea for a project, please help.](https://www.reddit.com/r/androiddev/comments/1qfehma/its_really_hard_to_come_up_with_an_idea_for_a/)
+- [Github android project libs change](https://www.reddit.com/r/androiddev/comments/1qfabng/github_android_project_libs_change/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
