@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for various devs. Competitive salery.](https://www.reddit.com/r/androiddev/comments/1qfsiie/looking_for_various_devs_competitive_salery/)
-- [Swiping is broken — experimenting with an AI copilot + visual matching](https://www.reddit.com/r/androiddev/comments/1qfs4co/swiping_is_broken_experimenting_with_an_ai/)
+- [I made a &lpar;free&rpar; play store screenshot editor](https://www.reddit.com/r/androiddev/comments/1qggucn/i_made_a_free_play_store_screenshot_editor/)
+- [Feeling stuck starting Android app development — need guidance &amp; roadmap &lpar;I know Java&rpar;](https://www.reddit.com/r/androiddev/comments/1qgfsbq/feeling_stuck_starting_android_app_development/)
+- [Google Play Console has old inactive account in it. How do I create a new developer account to publish app?](https://www.reddit.com/r/androiddev/comments/1qgeq5i/google_play_console_has_old_inactive_account_in/)
+- [Defining the mobile application stack](https://www.reddit.com/r/androiddev/comments/1qg9cru/defining_the_mobile_application_stack/)
+- [Demystifying Nested Scrolling in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1qg8ldt/demystifying_nested_scrolling_in_jetpack_compose/)
+- [State of agentic tools for android](https://www.reddit.com/r/androiddev/comments/1qg58uk/state_of_agentic_tools_for_android/)
+- [Analyzed a random APK with MobSF out of curiosity](https://www.reddit.com/r/androiddev/comments/1qg0e5s/analyzed_a_random_apk_with_mobsf_out_of_curiosity/)
+- [Is creating a SDK for Media Processing Apps like Video Editors and Audio Editors and similar tools Valuable in 2026?](https://www.reddit.com/r/androiddev/comments/1qfynx1/is_creating_a_sdk_for_media_processing_apps_like/)
 - [Setting on change listeners with Chronometer inside Remote Views](https://www.reddit.com/r/androiddev/comments/1qfryz5/setting_on_change_listeners_with_chronometer/)
 - [Vulkan Hello Triangle Sample For Android](https://www.reddit.com/r/androiddev/comments/1qfrif9/vulkan_hello_triangle_sample_for_android/)
-- [I built an open-source DMA Calculator to compare EU Store fees &lpar;IAP vs External&rpar; - looking for feedback!](https://www.reddit.com/r/androiddev/comments/1qfqjg1/i_built_an_opensource_dma_calculator_to_compare/)
-- [Built a mobile testing agent that runs on simple english](https://www.reddit.com/r/androiddev/comments/1qfpg4q/built_a_mobile_testing_agent_that_runs_on_simple/)
-- [Does anyone have an idea of what is the average CPI for hypercasual games or casual games ??](https://www.reddit.com/r/androiddev/comments/1qfkny9/does_anyone_have_an_idea_of_what_is_the_average/)
-- [When is a good time to pay for promo on your app ?](https://www.reddit.com/r/androiddev/comments/1qffqvb/when_is_a_good_time_to_pay_for_promo_on_your_app/)
-- [It&#39;s really hard to come up with an idea for a project, please help.](https://www.reddit.com/r/androiddev/comments/1qfehma/its_really_hard_to_come_up_with_an_idea_for_a/)
-- [Github android project libs change](https://www.reddit.com/r/androiddev/comments/1qfabng/github_android_project_libs_change/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
