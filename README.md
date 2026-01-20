@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a &lpar;free&rpar; play store screenshot editor](https://www.reddit.com/r/androiddev/comments/1qggucn/i_made_a_free_play_store_screenshot_editor/)
-- [Feeling stuck starting Android app development — need guidance &amp; roadmap &lpar;I know Java&rpar;](https://www.reddit.com/r/androiddev/comments/1qgfsbq/feeling_stuck_starting_android_app_development/)
-- [Google Play Console has old inactive account in it. How do I create a new developer account to publish app?](https://www.reddit.com/r/androiddev/comments/1qgeq5i/google_play_console_has_old_inactive_account_in/)
-- [Defining the mobile application stack](https://www.reddit.com/r/androiddev/comments/1qg9cru/defining_the_mobile_application_stack/)
-- [Demystifying Nested Scrolling in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1qg8ldt/demystifying_nested_scrolling_in_jetpack_compose/)
-- [State of agentic tools for android](https://www.reddit.com/r/androiddev/comments/1qg58uk/state_of_agentic_tools_for_android/)
-- [Analyzed a random APK with MobSF out of curiosity](https://www.reddit.com/r/androiddev/comments/1qg0e5s/analyzed_a_random_apk_with_mobsf_out_of_curiosity/)
-- [Is creating a SDK for Media Processing Apps like Video Editors and Audio Editors and similar tools Valuable in 2026?](https://www.reddit.com/r/androiddev/comments/1qfynx1/is_creating_a_sdk_for_media_processing_apps_like/)
-- [Setting on change listeners with Chronometer inside Remote Views](https://www.reddit.com/r/androiddev/comments/1qfryz5/setting_on_change_listeners_with_chronometer/)
-- [Vulkan Hello Triangle Sample For Android](https://www.reddit.com/r/androiddev/comments/1qfrif9/vulkan_hello_triangle_sample_for_android/)
+- [[Help] Pattern unlock sometimes not working?](https://www.reddit.com/r/androiddev/comments/1qhiy8k/help_pattern_unlock_sometimes_not_working/)
+- [Kotlin 2.3 finally kills the dual property _uiState uiState boilerplate in ViewModels](https://www.reddit.com/r/androiddev/comments/1qhfsaz/kotlin_23_finally_kills_the_dual_property_uistate/)
+- [How did cred developers did this.](https://www.reddit.com/r/androiddev/comments/1qhfj63/how_did_cred_developers_did_this/)
+- [Looking for people interested in joining game projects &lpar;team already formed&rpar;](https://www.reddit.com/r/androiddev/comments/1qhf6nd/looking_for_people_interested_in_joining_game/)
+- [Looking for people to participate in a game development project at a startup &lpar;collaboration&rpar;.](https://www.reddit.com/r/androiddev/comments/1qheu8f/looking_for_people_to_participate_in_a_game/)
+- [Turn faces in group photos into clean contact pictures &lpar;Android&rpar;](https://www.reddit.com/r/androiddev/comments/1qhcwi2/turn_faces_in_group_photos_into_clean_contact/)
+- [Android devs: Which feedback channel is the most useful for you?](https://www.reddit.com/r/androiddev/comments/1qh8xqn/android_devs_which_feedback_channel_is_the_most/)
+- [I’m curating a weekly technical digest for Android devs moving to KMP](https://www.reddit.com/r/androiddev/comments/1qh6akl/im_curating_a_weekly_technical_digest_for_android/)
+- [Looking for feedback on my mobile game banner](https://www.reddit.com/r/androiddev/comments/1qh47ej/looking_for_feedback_on_my_mobile_game_banner/)
+- [Is accurate GPU profiling possible?](https://www.reddit.com/r/androiddev/comments/1qh3i5u/is_accurate_gpu_profiling_possible/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
