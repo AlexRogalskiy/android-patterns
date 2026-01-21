@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Help] Pattern unlock sometimes not working?](https://www.reddit.com/r/androiddev/comments/1qhiy8k/help_pattern_unlock_sometimes_not_working/)
-- [Kotlin 2.3 finally kills the dual property _uiState uiState boilerplate in ViewModels](https://www.reddit.com/r/androiddev/comments/1qhfsaz/kotlin_23_finally_kills_the_dual_property_uistate/)
-- [How did cred developers did this.](https://www.reddit.com/r/androiddev/comments/1qhfj63/how_did_cred_developers_did_this/)
-- [Looking for people interested in joining game projects &lpar;team already formed&rpar;](https://www.reddit.com/r/androiddev/comments/1qhf6nd/looking_for_people_interested_in_joining_game/)
-- [Looking for people to participate in a game development project at a startup &lpar;collaboration&rpar;.](https://www.reddit.com/r/androiddev/comments/1qheu8f/looking_for_people_to_participate_in_a_game/)
-- [Turn faces in group photos into clean contact pictures &lpar;Android&rpar;](https://www.reddit.com/r/androiddev/comments/1qhcwi2/turn_faces_in_group_photos_into_clean_contact/)
-- [Android devs: Which feedback channel is the most useful for you?](https://www.reddit.com/r/androiddev/comments/1qh8xqn/android_devs_which_feedback_channel_is_the_most/)
-- [I’m curating a weekly technical digest for Android devs moving to KMP](https://www.reddit.com/r/androiddev/comments/1qh6akl/im_curating_a_weekly_technical_digest_for_android/)
-- [Looking for feedback on my mobile game banner](https://www.reddit.com/r/androiddev/comments/1qh47ej/looking_for_feedback_on_my_mobile_game_banner/)
-- [Is accurate GPU profiling possible?](https://www.reddit.com/r/androiddev/comments/1qh3i5u/is_accurate_gpu_profiling_possible/)
+- [Two of my apps are live!!!](https://www.reddit.com/r/androiddev/comments/1qikvm5/two_of_my_apps_are_live/)
+- [What &quot;out of the ordinary&quot; project are you working / have you worked on](https://www.reddit.com/r/androiddev/comments/1qih5aw/what_out_of_the_ordinary_project_are_you_working/)
+- [Stop Guessing on Data Safety: A Guide to &quot;Google Checks&quot;](https://www.reddit.com/r/androiddev/comments/1qico5v/stop_guessing_on_data_safety_a_guide_to_google/)
+- [LineBreaker leaving too much spaces between words](https://www.reddit.com/r/androiddev/comments/1qi7cqa/linebreaker_leaving_too_much_spaces_between_words/)
+- [Do new Android apps still get organic downloads in 2025, or is paid marketing unavoidable?](https://www.reddit.com/r/androiddev/comments/1qi6te0/do_new_android_apps_still_get_organic_downloads/)
+- [Are Yes/No based rating dialogs allowed by Google?](https://www.reddit.com/r/androiddev/comments/1qi5ali/are_yesno_based_rating_dialogs_allowed_by_google/)
+- [Galaxy Watch and Google Play Store compability](https://www.reddit.com/r/androiddev/comments/1qi38r2/galaxy_watch_and_google_play_store_compability/)
+- [Solving the &quot;Selector Hell&quot; in UI Testing – Moving from Appium/Espresso scripts to Semantic Agents](https://www.reddit.com/r/androiddev/comments/1qi32lo/solving_the_selector_hell_in_ui_testing_moving/)
+- [All Aboard the Metro: A Journey Migrating Away from Hilt](https://www.reddit.com/r/androiddev/comments/1qi2inr/all_aboard_the_metro_a_journey_migrating_away/)
+- [Exporting Jetpack Compose Animations as Shareable Videos](https://www.reddit.com/r/androiddev/comments/1qi2gzh/exporting_jetpack_compose_animations_as_shareable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
