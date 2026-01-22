@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Two of my apps are live!!!](https://www.reddit.com/r/androiddev/comments/1qikvm5/two_of_my_apps_are_live/)
-- [What &quot;out of the ordinary&quot; project are you working / have you worked on](https://www.reddit.com/r/androiddev/comments/1qih5aw/what_out_of_the_ordinary_project_are_you_working/)
-- [Stop Guessing on Data Safety: A Guide to &quot;Google Checks&quot;](https://www.reddit.com/r/androiddev/comments/1qico5v/stop_guessing_on_data_safety_a_guide_to_google/)
-- [LineBreaker leaving too much spaces between words](https://www.reddit.com/r/androiddev/comments/1qi7cqa/linebreaker_leaving_too_much_spaces_between_words/)
-- [Do new Android apps still get organic downloads in 2025, or is paid marketing unavoidable?](https://www.reddit.com/r/androiddev/comments/1qi6te0/do_new_android_apps_still_get_organic_downloads/)
-- [Are Yes/No based rating dialogs allowed by Google?](https://www.reddit.com/r/androiddev/comments/1qi5ali/are_yesno_based_rating_dialogs_allowed_by_google/)
-- [Galaxy Watch and Google Play Store compability](https://www.reddit.com/r/androiddev/comments/1qi38r2/galaxy_watch_and_google_play_store_compability/)
-- [Solving the &quot;Selector Hell&quot; in UI Testing – Moving from Appium/Espresso scripts to Semantic Agents](https://www.reddit.com/r/androiddev/comments/1qi32lo/solving_the_selector_hell_in_ui_testing_moving/)
-- [All Aboard the Metro: A Journey Migrating Away from Hilt](https://www.reddit.com/r/androiddev/comments/1qi2inr/all_aboard_the_metro_a_journey_migrating_away/)
-- [Exporting Jetpack Compose Animations as Shareable Videos](https://www.reddit.com/r/androiddev/comments/1qi2gzh/exporting_jetpack_compose_animations_as_shareable/)
+- [question for the room](https://www.reddit.com/r/androiddev/comments/1qjg2kl/question_for_the_room/)
+- [Tabsy an app made for tracking IOUs](https://www.reddit.com/r/androiddev/comments/1qjddla/tabsy_an_app_made_for_tracking_ious/)
+- [Approved with Issues - Further Action Required in AAOS](https://www.reddit.com/r/androiddev/comments/1qjbrtn/approved_with_issues_further_action_required_in/)
+- [I recreated my Play Store screenshots in under 5 minutes &lpar;live demo&rpar;](https://www.reddit.com/r/androiddev/comments/1qjbkev/i_recreated_my_play_store_screenshots_in_under_5/)
+- [Has anyone been able to find the page they&#39;re looking for on Play Console?](https://www.reddit.com/r/androiddev/comments/1qj9xbx/has_anyone_been_able_to_find_the_page_theyre/)
+- [Struggling with Compose UI](https://www.reddit.com/r/androiddev/comments/1qj9tzw/struggling_with_compose_ui/)
+- [is there anyway to get TTS engines from google?](https://www.reddit.com/r/androiddev/comments/1qj9r4n/is_there_anyway_to_get_tts_engines_from_google/)
+- [If a ViewModel is testable on the JVM and doesn’t depend on Context — why isn’t it considered part of the Domain layer?](https://www.reddit.com/r/androiddev/comments/1qj99bx/if_a_viewmodel_is_testable_on_the_jvm_and_doesnt/)
+- [What Google Actually Checks When Someone Installs an App 👀📱](https://www.reddit.com/r/androiddev/comments/1qj7sck/what_google_actually_checks_when_someone_installs/)
+- [Android studio otter 3](https://www.reddit.com/r/androiddev/comments/1qj6ewa/android_studio_otter_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
