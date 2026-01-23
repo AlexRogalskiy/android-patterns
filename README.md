@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [question for the room](https://www.reddit.com/r/androiddev/comments/1qjg2kl/question_for_the_room/)
-- [Tabsy an app made for tracking IOUs](https://www.reddit.com/r/androiddev/comments/1qjddla/tabsy_an_app_made_for_tracking_ious/)
-- [Approved with Issues - Further Action Required in AAOS](https://www.reddit.com/r/androiddev/comments/1qjbrtn/approved_with_issues_further_action_required_in/)
-- [I recreated my Play Store screenshots in under 5 minutes &lpar;live demo&rpar;](https://www.reddit.com/r/androiddev/comments/1qjbkev/i_recreated_my_play_store_screenshots_in_under_5/)
-- [Has anyone been able to find the page they&#39;re looking for on Play Console?](https://www.reddit.com/r/androiddev/comments/1qj9xbx/has_anyone_been_able_to_find_the_page_theyre/)
-- [Struggling with Compose UI](https://www.reddit.com/r/androiddev/comments/1qj9tzw/struggling_with_compose_ui/)
-- [is there anyway to get TTS engines from google?](https://www.reddit.com/r/androiddev/comments/1qj9r4n/is_there_anyway_to_get_tts_engines_from_google/)
-- [If a ViewModel is testable on the JVM and doesn’t depend on Context — why isn’t it considered part of the Domain layer?](https://www.reddit.com/r/androiddev/comments/1qj99bx/if_a_viewmodel_is_testable_on_the_jvm_and_doesnt/)
-- [What Google Actually Checks When Someone Installs an App 👀📱](https://www.reddit.com/r/androiddev/comments/1qj7sck/what_google_actually_checks_when_someone_installs/)
-- [Android studio otter 3](https://www.reddit.com/r/androiddev/comments/1qj6ewa/android_studio_otter_3/)
+- [Ffmpeg](https://www.reddit.com/r/androiddev/comments/1qkdnd6/ffmpeg/)
+- [Post-capture image redaction on Android &lpar;open-source learning project&rpar;](https://www.reddit.com/r/androiddev/comments/1qkb8el/postcapture_image_redaction_on_android_opensource/)
+- [Can i run Android studio with 8GB of RAM for my jetpack compose assignment.??](https://www.reddit.com/r/androiddev/comments/1qka44y/can_i_run_android_studio_with_8gb_of_ram_for_my/)
+- [Need help extracting data from ID cards using OCR in Android &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1qk3ap8/need_help_extracting_data_from_id_cards_using_ocr/)
+- [I built a free launch stack for mobile app developers](https://www.reddit.com/r/androiddev/comments/1qk2i1b/i_built_a_free_launch_stack_for_mobile_app/)
+- [Automatic Instagram follower bot using Droidrun #DroidrunDevSprint](https://www.reddit.com/r/androiddev/comments/1qk2fza/automatic_instagram_follower_bot_using_droidrun/)
+- [Free and open source](https://www.reddit.com/r/androiddev/comments/1qjyeso/free_and_open_source/)
+- [Can I monetize an Android app with banners without using Google Play Billing?](https://www.reddit.com/r/androiddev/comments/1qjydo4/can_i_monetize_an_android_app_with_banners/)
+- [Seeking advice: My open-source code was stolen, admitted by the thief, and Google Play reinstated their app&quot;](https://www.reddit.com/r/androiddev/comments/1qjxcaw/seeking_advice_my_opensource_code_was_stolen/)
+- [Architecture patterns for using Model Context Protocol &lpar;MCP&rpar; in Android UI Automation/Testing](https://www.reddit.com/r/androiddev/comments/1qjucqd/architecture_patterns_for_using_model_context/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
