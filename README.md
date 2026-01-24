@@ -271,11 +271,11 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CameraX or Camera2 API + PreviewView does not the show the same field of view as equivelent zoom on default camera application viewfinder?](https://www.reddit.com/r/androiddev/comments/1qkyqdd/camerax_or_camera2_api_previewview_does_not_the/)
+- [You can now use ChatGPT Codex in Android Studio with first-party support](https://www.reddit.com/r/androiddev/comments/1qkvtmo/you_can_now_use_chatgpt_codex_in_android_studio/)
+- [Getting 0-10k downloads isn&#39;t luck, it&#39;s basic ASO and app quality-My experience with Google Play](https://www.reddit.com/r/androiddev/comments/1qknlre/getting_010k_downloads_isnt_luck_its_basic_aso/)
 - [Ffmpeg](https://www.reddit.com/r/androiddev/comments/1qkdnd6/ffmpeg/)
 - [Post-capture image redaction on Android &lpar;open-source learning project&rpar;](https://www.reddit.com/r/androiddev/comments/1qkb8el/postcapture_image_redaction_on_android_opensource/)
-- [Can i run Android studio with 8GB of RAM for my jetpack compose assignment.??](https://www.reddit.com/r/androiddev/comments/1qka44y/can_i_run_android_studio_with_8gb_of_ram_for_my/)
-- [Need help extracting data from ID cards using OCR in Android &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1qk3ap8/need_help_extracting_data_from_id_cards_using_ocr/)
-- [I built a free launch stack for mobile app developers](https://www.reddit.com/r/androiddev/comments/1qk2i1b/i_built_a_free_launch_stack_for_mobile_app/)
 - [Automatic Instagram follower bot using Droidrun #DroidrunDevSprint](https://www.reddit.com/r/androiddev/comments/1qk2fza/automatic_instagram_follower_bot_using_droidrun/)
 - [Free and open source](https://www.reddit.com/r/androiddev/comments/1qjyeso/free_and_open_source/)
 - [Can I monetize an Android app with banners without using Google Play Billing?](https://www.reddit.com/r/androiddev/comments/1qjydo4/can_i_monetize_an_android_app_with_banners/)
