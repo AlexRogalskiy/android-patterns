@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [CameraX or Camera2 API + PreviewView does not the show the same field of view as equivelent zoom on default camera application viewfinder?](https://www.reddit.com/r/androiddev/comments/1qkyqdd/camerax_or_camera2_api_previewview_does_not_the/)
-- [You can now use ChatGPT Codex in Android Studio with first-party support](https://www.reddit.com/r/androiddev/comments/1qkvtmo/you_can_now_use_chatgpt_codex_in_android_studio/)
-- [Getting 0-10k downloads isn&#39;t luck, it&#39;s basic ASO and app quality-My experience with Google Play](https://www.reddit.com/r/androiddev/comments/1qknlre/getting_010k_downloads_isnt_luck_its_basic_aso/)
-- [Ffmpeg](https://www.reddit.com/r/androiddev/comments/1qkdnd6/ffmpeg/)
-- [Post-capture image redaction on Android &lpar;open-source learning project&rpar;](https://www.reddit.com/r/androiddev/comments/1qkb8el/postcapture_image_redaction_on_android_opensource/)
-- [Automatic Instagram follower bot using Droidrun #DroidrunDevSprint](https://www.reddit.com/r/androiddev/comments/1qk2fza/automatic_instagram_follower_bot_using_droidrun/)
-- [Free and open source](https://www.reddit.com/r/androiddev/comments/1qjyeso/free_and_open_source/)
-- [Can I monetize an Android app with banners without using Google Play Billing?](https://www.reddit.com/r/androiddev/comments/1qjydo4/can_i_monetize_an_android_app_with_banners/)
-- [Seeking advice: My open-source code was stolen, admitted by the thief, and Google Play reinstated their app&quot;](https://www.reddit.com/r/androiddev/comments/1qjxcaw/seeking_advice_my_opensource_code_was_stolen/)
-- [Architecture patterns for using Model Context Protocol &lpar;MCP&rpar; in Android UI Automation/Testing](https://www.reddit.com/r/androiddev/comments/1qjucqd/architecture_patterns_for_using_model_context/)
+- [How to find a good taste](https://www.reddit.com/r/androiddev/comments/1qm5ysg/how_to_find_a_good_taste/)
+- [Hoja de ruta para Kotlin Android y Kotlin MP para RaspberryOS](https://www.reddit.com/r/androiddev/comments/1qm5rv3/hoja_de_ruta_para_kotlin_android_y_kotlin_mp_para/)
+- [GPL Groovebox Tablet App looking for feedback](https://www.reddit.com/r/androiddev/comments/1qlxj79/gpl_groovebox_tablet_app_looking_for_feedback/)
+- [Voyager on AndroidTv](https://www.reddit.com/r/androiddev/comments/1qlwdmj/voyager_on_androidtv/)
+- [How to have more then 8 images on playstore?](https://www.reddit.com/r/androiddev/comments/1qlv6yg/how_to_have_more_then_8_images_on_playstore/)
+- [I didn’t plan to build a testing tool. I just wanted my weekends back.](https://www.reddit.com/r/androiddev/comments/1qlsf5y/i_didnt_plan_to_build_a_testing_tool_i_just/)
+- [Receipt printer I borrowed is in a cloud-lock. I&#39;m trying to make an app that prints receipts via cloud.](https://www.reddit.com/r/androiddev/comments/1qls5h4/receipt_printer_i_borrowed_is_in_a_cloudlock_im/)
+- [Design feedback: which one feels better? &lpar;1 or 2&rpar;](https://www.reddit.com/r/androiddev/comments/1qlnlq2/design_feedback_which_one_feels_better_1_or_2/)
+- [Help Wanted: Reverse Engineering Changan &lpar;B561&rpar; Infotainment – Missing strings for English Localization](https://www.reddit.com/r/androiddev/comments/1qlkhy3/help_wanted_reverse_engineering_changan_b561/)
+- [Have problems starting phone emulator in Android Studio](https://www.reddit.com/r/androiddev/comments/1qlkepq/have_problems_starting_phone_emulator_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
