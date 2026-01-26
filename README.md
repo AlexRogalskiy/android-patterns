@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to find a good taste](https://www.reddit.com/r/androiddev/comments/1qm5ysg/how_to_find_a_good_taste/)
-- [Hoja de ruta para Kotlin Android y Kotlin MP para RaspberryOS](https://www.reddit.com/r/androiddev/comments/1qm5rv3/hoja_de_ruta_para_kotlin_android_y_kotlin_mp_para/)
-- [GPL Groovebox Tablet App looking for feedback](https://www.reddit.com/r/androiddev/comments/1qlxj79/gpl_groovebox_tablet_app_looking_for_feedback/)
-- [Voyager on AndroidTv](https://www.reddit.com/r/androiddev/comments/1qlwdmj/voyager_on_androidtv/)
-- [How to have more then 8 images on playstore?](https://www.reddit.com/r/androiddev/comments/1qlv6yg/how_to_have_more_then_8_images_on_playstore/)
-- [I didn’t plan to build a testing tool. I just wanted my weekends back.](https://www.reddit.com/r/androiddev/comments/1qlsf5y/i_didnt_plan_to_build_a_testing_tool_i_just/)
-- [Receipt printer I borrowed is in a cloud-lock. I&#39;m trying to make an app that prints receipts via cloud.](https://www.reddit.com/r/androiddev/comments/1qls5h4/receipt_printer_i_borrowed_is_in_a_cloudlock_im/)
-- [Design feedback: which one feels better? &lpar;1 or 2&rpar;](https://www.reddit.com/r/androiddev/comments/1qlnlq2/design_feedback_which_one_feels_better_1_or_2/)
-- [Help Wanted: Reverse Engineering Changan &lpar;B561&rpar; Infotainment – Missing strings for English Localization](https://www.reddit.com/r/androiddev/comments/1qlkhy3/help_wanted_reverse_engineering_changan_b561/)
-- [Have problems starting phone emulator in Android Studio](https://www.reddit.com/r/androiddev/comments/1qlkepq/have_problems_starting_phone_emulator_in_android/)
+- [I need help is this good ?](https://www.reddit.com/r/androiddev/comments/1qn34xd/i_need_help_is_this_good/)
+- [Android Emulator instantly crashes on AMD Windows &lpar;exit code -1073741515&rpar;](https://www.reddit.com/r/androiddev/comments/1qmt00f/android_emulator_instantly_crashes_on_amd_windows/)
+- [Current state of AI tools in Android Studio](https://www.reddit.com/r/androiddev/comments/1qmqk4u/current_state_of_ai_tools_in_android_studio/)
+- [Android Studio: Rules file ignored?](https://www.reddit.com/r/androiddev/comments/1qmq54v/android_studio_rules_file_ignored/)
+- [Question: Why Paging 3 + Compose: Scroll position lost after navigation &lpar;getRefreshKey not called&rpar;](https://www.reddit.com/r/androiddev/comments/1qmplxm/question_why_paging_3_compose_scroll_position/)
+- [Pixel Pull - Alternative for MacroDroid for thelifecalendar.com](https://www.reddit.com/r/androiddev/comments/1qmn8fk/pixel_pull_alternative_for_macrodroid_for/)
+- [I don&#39;t know how to code really](https://www.reddit.com/r/androiddev/comments/1qmlklg/i_dont_know_how_to_code_really/)
+- [Just uploaded my first YouTube video on Android 14 AOSP source sync and build.](https://www.reddit.com/r/androiddev/comments/1qmj0yv/just_uploaded_my_first_youtube_video_on_android/)
+- [Finding and debugging ANRs](https://www.reddit.com/r/androiddev/comments/1qmcscb/finding_and_debugging_anrs/)
+- [What are the Android app publishing mistakes, hidden rules, or long-term lessons that most developers only realize after years on the Play Store?](https://www.reddit.com/r/androiddev/comments/1qm9drm/what_are_the_android_app_publishing_mistakes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
