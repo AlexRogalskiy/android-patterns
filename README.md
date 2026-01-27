@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I need help is this good ?](https://www.reddit.com/r/androiddev/comments/1qn34xd/i_need_help_is_this_good/)
-- [Android Emulator instantly crashes on AMD Windows &lpar;exit code -1073741515&rpar;](https://www.reddit.com/r/androiddev/comments/1qmt00f/android_emulator_instantly_crashes_on_amd_windows/)
-- [Current state of AI tools in Android Studio](https://www.reddit.com/r/androiddev/comments/1qmqk4u/current_state_of_ai_tools_in_android_studio/)
-- [Android Studio: Rules file ignored?](https://www.reddit.com/r/androiddev/comments/1qmq54v/android_studio_rules_file_ignored/)
-- [Question: Why Paging 3 + Compose: Scroll position lost after navigation &lpar;getRefreshKey not called&rpar;](https://www.reddit.com/r/androiddev/comments/1qmplxm/question_why_paging_3_compose_scroll_position/)
-- [Pixel Pull - Alternative for MacroDroid for thelifecalendar.com](https://www.reddit.com/r/androiddev/comments/1qmn8fk/pixel_pull_alternative_for_macrodroid_for/)
-- [I don&#39;t know how to code really](https://www.reddit.com/r/androiddev/comments/1qmlklg/i_dont_know_how_to_code_really/)
-- [Just uploaded my first YouTube video on Android 14 AOSP source sync and build.](https://www.reddit.com/r/androiddev/comments/1qmj0yv/just_uploaded_my_first_youtube_video_on_android/)
-- [Finding and debugging ANRs](https://www.reddit.com/r/androiddev/comments/1qmcscb/finding_and_debugging_anrs/)
-- [What are the Android app publishing mistakes, hidden rules, or long-term lessons that most developers only realize after years on the Play Store?](https://www.reddit.com/r/androiddev/comments/1qm9drm/what_are_the_android_app_publishing_mistakes/)
+- [Trying to break into Android Dev. What should I actually improve next?](https://www.reddit.com/r/androiddev/comments/1qo1asb/trying_to_break_into_android_dev_what_should_i/)
+- [Are there any libraries for processing audio files?](https://www.reddit.com/r/androiddev/comments/1qnyxbj/are_there_any_libraries_for_processing_audio_files/)
+- [Should I run paid ads for my Android app?](https://www.reddit.com/r/androiddev/comments/1qnnhlq/should_i_run_paid_ads_for_my_android_app/)
+- [Android Studio Panda 2 | 2025.3.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1qnnfj8/android_studio_panda_2_202532_canary_1_now/)
+- [inserting advertising into content](https://www.reddit.com/r/androiddev/comments/1qnn2cf/inserting_advertising_into_content/)
+- [Built a garage door controller app with custom animated drawable - Door fills as it opens/closes](https://www.reddit.com/r/androiddev/comments/1qnmu2d/built_a_garage_door_controller_app_with_custom/)
+- [Country-wise and language-wise subreddits for app promotion?](https://www.reddit.com/r/androiddev/comments/1qnm15r/countrywise_and_languagewise_subreddits_for_app/)
+- [Requiring login before using a sleep sounds app — good idea or bad move?](https://www.reddit.com/r/androiddev/comments/1qnkvnp/requiring_login_before_using_a_sleep_sounds_app/)
+- [Static IP configuration for Ethernet on Android &lpar;without root&rpar;](https://www.reddit.com/r/androiddev/comments/1qniy7c/static_ip_configuration_for_ethernet_on_android/)
+- [How do you explain why your app needs access to the images?](https://www.reddit.com/r/androiddev/comments/1qniuhe/how_do_you_explain_why_your_app_needs_access_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
