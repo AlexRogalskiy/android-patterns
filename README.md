@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trying to break into Android Dev. What should I actually improve next?](https://www.reddit.com/r/androiddev/comments/1qo1asb/trying_to_break_into_android_dev_what_should_i/)
-- [Are there any libraries for processing audio files?](https://www.reddit.com/r/androiddev/comments/1qnyxbj/are_there_any_libraries_for_processing_audio_files/)
-- [Should I run paid ads for my Android app?](https://www.reddit.com/r/androiddev/comments/1qnnhlq/should_i_run_paid_ads_for_my_android_app/)
-- [Android Studio Panda 2 | 2025.3.2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1qnnfj8/android_studio_panda_2_202532_canary_1_now/)
-- [inserting advertising into content](https://www.reddit.com/r/androiddev/comments/1qnn2cf/inserting_advertising_into_content/)
-- [Built a garage door controller app with custom animated drawable - Door fills as it opens/closes](https://www.reddit.com/r/androiddev/comments/1qnmu2d/built_a_garage_door_controller_app_with_custom/)
-- [Country-wise and language-wise subreddits for app promotion?](https://www.reddit.com/r/androiddev/comments/1qnm15r/countrywise_and_languagewise_subreddits_for_app/)
-- [Requiring login before using a sleep sounds app — good idea or bad move?](https://www.reddit.com/r/androiddev/comments/1qnkvnp/requiring_login_before_using_a_sleep_sounds_app/)
-- [Static IP configuration for Ethernet on Android &lpar;without root&rpar;](https://www.reddit.com/r/androiddev/comments/1qniy7c/static_ip_configuration_for_ethernet_on_android/)
-- [How do you explain why your app needs access to the images?](https://www.reddit.com/r/androiddev/comments/1qniuhe/how_do_you_explain_why_your_app_needs_access_to/)
+- [any good up to date tutorials for android devlopment with jetpack compose for kotlin.](https://www.reddit.com/r/androiddev/comments/1qovoah/any_good_up_to_date_tutorials_for_android/)
+- [[Help] Google Play Billing - Product shows &quot;Active&quot; but returns &quot;not available&quot; in test app](https://www.reddit.com/r/androiddev/comments/1qounhw/help_google_play_billing_product_shows_active_but/)
+- [So there&#39;s no way to capture internal audio from chrome?](https://www.reddit.com/r/androiddev/comments/1qopogj/so_theres_no_way_to_capture_internal_audio_from/)
+- [How do you debug performance issues when profiling looks normal?](https://www.reddit.com/r/androiddev/comments/1qomp3c/how_do_you_debug_performance_issues_when/)
+- [Generate Google Play Store Screenshots &amp; Feature Graphics for free &lpar;No Watermark&rpar;](https://www.reddit.com/r/androiddev/comments/1qojk68/generate_google_play_store_screenshots_feature/)
+- [Is there a way to place a view above a WebView and have them scroll as one?](https://www.reddit.com/r/androiddev/comments/1qohvms/is_there_a_way_to_place_a_view_above_a_webview/)
+- [How long does it actually take to get organic app downloads? &lpar;Real numbers please&rpar;](https://www.reddit.com/r/androiddev/comments/1qoh95e/how_long_does_it_actually_take_to_get_organic_app/)
+- [Poseidon -- Proxyman Integration for Android](https://www.reddit.com/r/androiddev/comments/1qofq39/poseidon_proxyman_integration_for_android/)
+- [Deep Dive into Kotlin Data Classes, Coroutines, Flow, and K2 Compiler](https://www.reddit.com/r/androiddev/comments/1qof91j/deep_dive_into_kotlin_data_classes_coroutines/)
+- [Locked out of Play Console: &quot;Unable to access a Google product&quot; and stuck in a support loop](https://www.reddit.com/r/androiddev/comments/1qodl7i/locked_out_of_play_console_unable_to_access_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
