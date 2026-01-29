@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [any good up to date tutorials for android devlopment with jetpack compose for kotlin.](https://www.reddit.com/r/androiddev/comments/1qovoah/any_good_up_to_date_tutorials_for_android/)
-- [[Help] Google Play Billing - Product shows &quot;Active&quot; but returns &quot;not available&quot; in test app](https://www.reddit.com/r/androiddev/comments/1qounhw/help_google_play_billing_product_shows_active_but/)
-- [So there&#39;s no way to capture internal audio from chrome?](https://www.reddit.com/r/androiddev/comments/1qopogj/so_theres_no_way_to_capture_internal_audio_from/)
-- [How do you debug performance issues when profiling looks normal?](https://www.reddit.com/r/androiddev/comments/1qomp3c/how_do_you_debug_performance_issues_when/)
-- [Generate Google Play Store Screenshots &amp; Feature Graphics for free &lpar;No Watermark&rpar;](https://www.reddit.com/r/androiddev/comments/1qojk68/generate_google_play_store_screenshots_feature/)
-- [Is there a way to place a view above a WebView and have them scroll as one?](https://www.reddit.com/r/androiddev/comments/1qohvms/is_there_a_way_to_place_a_view_above_a_webview/)
-- [How long does it actually take to get organic app downloads? &lpar;Real numbers please&rpar;](https://www.reddit.com/r/androiddev/comments/1qoh95e/how_long_does_it_actually_take_to_get_organic_app/)
-- [Poseidon -- Proxyman Integration for Android](https://www.reddit.com/r/androiddev/comments/1qofq39/poseidon_proxyman_integration_for_android/)
-- [Deep Dive into Kotlin Data Classes, Coroutines, Flow, and K2 Compiler](https://www.reddit.com/r/androiddev/comments/1qof91j/deep_dive_into_kotlin_data_classes_coroutines/)
-- [Locked out of Play Console: &quot;Unable to access a Google product&quot; and stuck in a support loop](https://www.reddit.com/r/androiddev/comments/1qodl7i/locked_out_of_play_console_unable_to_access_a/)
+- [SIGTRAP crash on user goes to background](https://www.reddit.com/r/androiddev/comments/1qpszt9/sigtrap_crash_on_user_goes_to_background/)
+- [How to encrypt file while downloading and how to decrypt it](https://www.reddit.com/r/androiddev/comments/1qpsjl3/how_to_encrypt_file_while_downloading_and_how_to/)
+- [Finally making the jump from iOS to making an adroid version of our app, any tips for a more successful release?](https://www.reddit.com/r/androiddev/comments/1qppp31/finally_making_the_jump_from_ios_to_making_an/)
+- [New major version of androidx.tracing &lpar;2.0.0-alpha01&rpar;](https://www.reddit.com/r/androiddev/comments/1qppani/new_major_version_of_androidxtracing_200alpha01/)
+- [Best Android apps?](https://www.reddit.com/r/androiddev/comments/1qply2f/best_android_apps/)
+- [How to ROM port?](https://www.reddit.com/r/androiddev/comments/1qplepv/how_to_rom_port/)
+- [All-in-one SCRCPY GUI - auto resize, ADB tools &amp; more](https://www.reddit.com/r/androiddev/comments/1qpk28z/allinone_scrcpy_gui_auto_resize_adb_tools_more/)
+- [Android Studio Panda 1 | 2025.3.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1qpipq6/android_studio_panda_1_202531_rc_1_now_available/)
+- [First time running ads in app](https://www.reddit.com/r/androiddev/comments/1qpg2rn/first_time_running_ads_in_app/)
+- [Explicit Backing Fields in Kotlin 2.3 - What You Need to Know](https://www.reddit.com/r/androiddev/comments/1qpfm1d/explicit_backing_fields_in_kotlin_23_what_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
