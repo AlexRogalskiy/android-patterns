@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [SIGTRAP crash on user goes to background](https://www.reddit.com/r/androiddev/comments/1qpszt9/sigtrap_crash_on_user_goes_to_background/)
-- [How to encrypt file while downloading and how to decrypt it](https://www.reddit.com/r/androiddev/comments/1qpsjl3/how_to_encrypt_file_while_downloading_and_how_to/)
-- [Finally making the jump from iOS to making an adroid version of our app, any tips for a more successful release?](https://www.reddit.com/r/androiddev/comments/1qppp31/finally_making_the_jump_from_ios_to_making_an/)
-- [New major version of androidx.tracing &lpar;2.0.0-alpha01&rpar;](https://www.reddit.com/r/androiddev/comments/1qppani/new_major_version_of_androidxtracing_200alpha01/)
-- [Best Android apps?](https://www.reddit.com/r/androiddev/comments/1qply2f/best_android_apps/)
-- [How to ROM port?](https://www.reddit.com/r/androiddev/comments/1qplepv/how_to_rom_port/)
-- [All-in-one SCRCPY GUI - auto resize, ADB tools &amp; more](https://www.reddit.com/r/androiddev/comments/1qpk28z/allinone_scrcpy_gui_auto_resize_adb_tools_more/)
-- [Android Studio Panda 1 | 2025.3.1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1qpipq6/android_studio_panda_1_202531_rc_1_now_available/)
-- [First time running ads in app](https://www.reddit.com/r/androiddev/comments/1qpg2rn/first_time_running_ads_in_app/)
-- [Explicit Backing Fields in Kotlin 2.3 - What You Need to Know](https://www.reddit.com/r/androiddev/comments/1qpfm1d/explicit_backing_fields_in_kotlin_23_what_you/)
+- [One Time Location requests, Room and WorkManager](https://www.reddit.com/r/androiddev/comments/1qqnfo7/one_time_location_requests_room_and_workmanager/)
+- [CameraX – Real zoom-out using ultra-wide lens for photos and videos &lpar;is it possible?&rpar;](https://www.reddit.com/r/androiddev/comments/1qqlboq/camerax_real_zoomout_using_ultrawide_lens_for/)
+- [You must use an SDK with a version of no more than 36](https://www.reddit.com/r/androiddev/comments/1qqja46/you_must_use_an_sdk_with_a_version_of_no_more/)
+- [Best budget phone and watch for android development?](https://www.reddit.com/r/androiddev/comments/1qqirve/best_budget_phone_and_watch_for_android/)
+- [I built a deterministic notification timing engine extracted from production code](https://www.reddit.com/r/androiddev/comments/1qqdwvm/i_built_a_deterministic_notification_timing/)
+- [What so low match rate?](https://www.reddit.com/r/androiddev/comments/1qqdkl1/what_so_low_match_rate/)
+- [Is this Lenovo yoga laptop specifications good for Android Studio?](https://www.reddit.com/r/androiddev/comments/1qqb5cg/is_this_lenovo_yoga_laptop_specifications_good/)
+- [cmd vs am/pm? What&#39;s the recommended way?](https://www.reddit.com/r/androiddev/comments/1qqas4n/cmd_vs_ampm_whats_the_recommended_way/)
+- [Case Study: How I Sped Up Android App Start by 10x](https://www.reddit.com/r/androiddev/comments/1qq914s/case_study_how_i_sped_up_android_app_start_by_10x/)
+- [Building a Small Community to Help Android Devs Complete Play Store Closed Testing](https://www.reddit.com/r/androiddev/comments/1qq6an8/building_a_small_community_to_help_android_devs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
