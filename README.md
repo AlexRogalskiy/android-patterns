@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [One Time Location requests, Room and WorkManager](https://www.reddit.com/r/androiddev/comments/1qqnfo7/one_time_location_requests_room_and_workmanager/)
-- [CameraX – Real zoom-out using ultra-wide lens for photos and videos &lpar;is it possible?&rpar;](https://www.reddit.com/r/androiddev/comments/1qqlboq/camerax_real_zoomout_using_ultrawide_lens_for/)
-- [You must use an SDK with a version of no more than 36](https://www.reddit.com/r/androiddev/comments/1qqja46/you_must_use_an_sdk_with_a_version_of_no_more/)
-- [Best budget phone and watch for android development?](https://www.reddit.com/r/androiddev/comments/1qqirve/best_budget_phone_and_watch_for_android/)
-- [I built a deterministic notification timing engine extracted from production code](https://www.reddit.com/r/androiddev/comments/1qqdwvm/i_built_a_deterministic_notification_timing/)
-- [What so low match rate?](https://www.reddit.com/r/androiddev/comments/1qqdkl1/what_so_low_match_rate/)
-- [Is this Lenovo yoga laptop specifications good for Android Studio?](https://www.reddit.com/r/androiddev/comments/1qqb5cg/is_this_lenovo_yoga_laptop_specifications_good/)
-- [cmd vs am/pm? What&#39;s the recommended way?](https://www.reddit.com/r/androiddev/comments/1qqas4n/cmd_vs_ampm_whats_the_recommended_way/)
-- [Case Study: How I Sped Up Android App Start by 10x](https://www.reddit.com/r/androiddev/comments/1qq914s/case_study_how_i_sped_up_android_app_start_by_10x/)
-- [Building a Small Community to Help Android Devs Complete Play Store Closed Testing](https://www.reddit.com/r/androiddev/comments/1qq6an8/building_a_small_community_to_help_android_devs/)
+- [If you&#39;re an Android dev who writes their own backend, you might not need Spring/Ktor anymore](https://www.reddit.com/r/androiddev/comments/1qrqtyu/if_youre_an_android_dev_who_writes_their_own/)
+- [Unexpectedly hit 150K+ views on Reddit and still counting. sharing here in case it’s useful for you too.](https://www.reddit.com/r/androiddev/comments/1qrqj2z/unexpectedly_hit_150k_views_on_reddit_and_still/)
+- [How to recover/download a secure folders Google Chrome cache file?](https://www.reddit.com/r/androiddev/comments/1qro02b/how_to_recoverdownload_a_secure_folders_google/)
+- [Play Console shows 12k installs, but Store listing shows &#39;5K+&#39; - Google says many aren&#39;t &#39;verified.&#39; What are invalid installs?](https://www.reddit.com/r/androiddev/comments/1qrjh6w/play_console_shows_12k_installs_but_store_listing/)
+- [How does one recreate this?](https://www.reddit.com/r/androiddev/comments/1qrivof/how_does_one_recreate_this/)
+- [Do we really have to upload our app to play console to test google assistant app actions?](https://www.reddit.com/r/androiddev/comments/1qrh270/do_we_really_have_to_upload_our_app_to_play/)
+- [PlayStore AAB to APK change and Android TV review Team](https://www.reddit.com/r/androiddev/comments/1qrg4ih/playstore_aab_to_apk_change_and_android_tv_review/)
+- [Google Play Billing Library Question/Issue](https://www.reddit.com/r/androiddev/comments/1qrc1rt/google_play_billing_library_questionissue/)
+- [AGP 9.0 - ROOM KSP usage](https://www.reddit.com/r/androiddev/comments/1qrbf7n/agp_90_room_ksp_usage/)
+- [upload app to Play Store](https://www.reddit.com/r/androiddev/comments/1qrbbqr/upload_app_to_play_store/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
