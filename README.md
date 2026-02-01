@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [If you&#39;re an Android dev who writes their own backend, you might not need Spring/Ktor anymore](https://www.reddit.com/r/androiddev/comments/1qrqtyu/if_youre_an_android_dev_who_writes_their_own/)
-- [Unexpectedly hit 150K+ views on Reddit and still counting. sharing here in case it’s useful for you too.](https://www.reddit.com/r/androiddev/comments/1qrqj2z/unexpectedly_hit_150k_views_on_reddit_and_still/)
-- [How to recover/download a secure folders Google Chrome cache file?](https://www.reddit.com/r/androiddev/comments/1qro02b/how_to_recoverdownload_a_secure_folders_google/)
-- [Play Console shows 12k installs, but Store listing shows &#39;5K+&#39; - Google says many aren&#39;t &#39;verified.&#39; What are invalid installs?](https://www.reddit.com/r/androiddev/comments/1qrjh6w/play_console_shows_12k_installs_but_store_listing/)
-- [How does one recreate this?](https://www.reddit.com/r/androiddev/comments/1qrivof/how_does_one_recreate_this/)
-- [Do we really have to upload our app to play console to test google assistant app actions?](https://www.reddit.com/r/androiddev/comments/1qrh270/do_we_really_have_to_upload_our_app_to_play/)
-- [PlayStore AAB to APK change and Android TV review Team](https://www.reddit.com/r/androiddev/comments/1qrg4ih/playstore_aab_to_apk_change_and_android_tv_review/)
-- [Google Play Billing Library Question/Issue](https://www.reddit.com/r/androiddev/comments/1qrc1rt/google_play_billing_library_questionissue/)
-- [AGP 9.0 - ROOM KSP usage](https://www.reddit.com/r/androiddev/comments/1qrbf7n/agp_90_room_ksp_usage/)
-- [upload app to Play Store](https://www.reddit.com/r/androiddev/comments/1qrbbqr/upload_app_to_play_store/)
+- [Who of you uses promotional codes to promote your apps?](https://www.reddit.com/r/androiddev/comments/1qsmufw/who_of_you_uses_promotional_codes_to_promote_your/)
+- [I decided not to publish my indie educational app on Google Play. Am I overreacting, or is the system just not viable?](https://www.reddit.com/r/androiddev/comments/1qsilsz/i_decided_not_to_publish_my_indie_educational_app/)
+- [Are these safe to delete? Comment now!](https://www.reddit.com/r/androiddev/comments/1qs9kqx/are_these_safe_to_delete_comment_now/)
+- [Question: Why Paging3 + Compose: duplicate keys crash after RemoteMediator invalidation with custom PagingSource &lpar;multi‑DB sync&rpar;](https://www.reddit.com/r/androiddev/comments/1qs4wj3/question_why_paging3_compose_duplicate_keys_crash/)
+- [STOP throwing Errors! Raise them instead](https://www.reddit.com/r/androiddev/comments/1qs4ctt/stop_throwing_errors_raise_them_instead/)
+- [I’m working on a Flutter-based IPTV app.](https://www.reddit.com/r/androiddev/comments/1qs4afa/im_working_on_a_flutterbased_iptv_app/)
+- [Quick Search – An open-source unified search app for Android](https://www.reddit.com/r/androiddev/comments/1qs3spi/quick_search_an_opensource_unified_search_app_for/)
+- [Hardest Project of my life! took me 3 months &lpar;story&rpar;](https://www.reddit.com/r/androiddev/comments/1qs2z14/hardest_project_of_my_life_took_me_3_months_story/)
+- [Is it possible to apply a single-corner corner radius to a button?](https://www.reddit.com/r/androiddev/comments/1qs28b0/is_it_possible_to_apply_a_singlecorner_corner/)
+- [Issue with Git in Android Studio](https://www.reddit.com/r/androiddev/comments/1qs1rgc/issue_with_git_in_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
