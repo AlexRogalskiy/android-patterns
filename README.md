@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question](https://www.reddit.com/r/androiddev/comments/1qth30c/question/)
+- [How to limit devices on Play Store? Manufacturer not represented](https://www.reddit.com/r/androiddev/comments/1qtcv6v/how_to_limit_devices_on_play_store_manufacturer/)
+- [Lessons from launching my first Android app as a solo developer &lpar;what I’d do differently&rpar;](https://www.reddit.com/r/androiddev/comments/1qt3ke6/lessons_from_launching_my_first_android_app_as_a/)
+- [Path to follow for android app freelance](https://www.reddit.com/r/androiddev/comments/1qt32wc/path_to_follow_for_android_app_freelance/)
+- [Completely offline android development](https://www.reddit.com/r/androiddev/comments/1qsvwmv/completely_offline_android_development/)
+- [Why isn&#39;t my one time product offer not being applied?](https://www.reddit.com/r/androiddev/comments/1qsom9w/why_isnt_my_one_time_product_offer_not_being/)
 - [Who of you uses promotional codes to promote your apps?](https://www.reddit.com/r/androiddev/comments/1qsmufw/who_of_you_uses_promotional_codes_to_promote_your/)
 - [I decided not to publish my indie educational app on Google Play. Am I overreacting, or is the system just not viable?](https://www.reddit.com/r/androiddev/comments/1qsilsz/i_decided_not_to_publish_my_indie_educational_app/)
 - [Are these safe to delete? Comment now!](https://www.reddit.com/r/androiddev/comments/1qs9kqx/are_these_safe_to_delete_comment_now/)
 - [Question: Why Paging3 + Compose: duplicate keys crash after RemoteMediator invalidation with custom PagingSource &lpar;multi‑DB sync&rpar;](https://www.reddit.com/r/androiddev/comments/1qs4wj3/question_why_paging3_compose_duplicate_keys_crash/)
-- [STOP throwing Errors! Raise them instead](https://www.reddit.com/r/androiddev/comments/1qs4ctt/stop_throwing_errors_raise_them_instead/)
-- [I’m working on a Flutter-based IPTV app.](https://www.reddit.com/r/androiddev/comments/1qs4afa/im_working_on_a_flutterbased_iptv_app/)
-- [Quick Search – An open-source unified search app for Android](https://www.reddit.com/r/androiddev/comments/1qs3spi/quick_search_an_opensource_unified_search_app_for/)
-- [Hardest Project of my life! took me 3 months &lpar;story&rpar;](https://www.reddit.com/r/androiddev/comments/1qs2z14/hardest_project_of_my_life_took_me_3_months_story/)
-- [Is it possible to apply a single-corner corner radius to a button?](https://www.reddit.com/r/androiddev/comments/1qs28b0/is_it_possible_to_apply_a_singlecorner_corner/)
-- [Issue with Git in Android Studio](https://www.reddit.com/r/androiddev/comments/1qs1rgc/issue_with_git_in_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
