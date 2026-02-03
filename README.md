@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question](https://www.reddit.com/r/androiddev/comments/1qth30c/question/)
-- [How to limit devices on Play Store? Manufacturer not represented](https://www.reddit.com/r/androiddev/comments/1qtcv6v/how_to_limit_devices_on_play_store_manufacturer/)
-- [Lessons from launching my first Android app as a solo developer &lpar;what I’d do differently&rpar;](https://www.reddit.com/r/androiddev/comments/1qt3ke6/lessons_from_launching_my_first_android_app_as_a/)
-- [Path to follow for android app freelance](https://www.reddit.com/r/androiddev/comments/1qt32wc/path_to_follow_for_android_app_freelance/)
-- [Completely offline android development](https://www.reddit.com/r/androiddev/comments/1qsvwmv/completely_offline_android_development/)
-- [Why isn&#39;t my one time product offer not being applied?](https://www.reddit.com/r/androiddev/comments/1qsom9w/why_isnt_my_one_time_product_offer_not_being/)
-- [Who of you uses promotional codes to promote your apps?](https://www.reddit.com/r/androiddev/comments/1qsmufw/who_of_you_uses_promotional_codes_to_promote_your/)
-- [I decided not to publish my indie educational app on Google Play. Am I overreacting, or is the system just not viable?](https://www.reddit.com/r/androiddev/comments/1qsilsz/i_decided_not_to_publish_my_indie_educational_app/)
-- [Are these safe to delete? Comment now!](https://www.reddit.com/r/androiddev/comments/1qs9kqx/are_these_safe_to_delete_comment_now/)
-- [Question: Why Paging3 + Compose: duplicate keys crash after RemoteMediator invalidation with custom PagingSource &lpar;multi‑DB sync&rpar;](https://www.reddit.com/r/androiddev/comments/1qs4wj3/question_why_paging3_compose_duplicate_keys_crash/)
+- [which ai tools works better for android apps?](https://www.reddit.com/r/androiddev/comments/1qug1al/which_ai_tools_works_better_for_android_apps/)
+- [First Android app launch — are these early KPIs healthy?](https://www.reddit.com/r/androiddev/comments/1qufusp/first_android_app_launch_are_these_early_kpis/)
+- [RevoDraw - Draw custom images on Revolut card designs using ADB and OpenCV Body: **What My Project Does** RevoDraw is a Python tool that lets you draw custom images on Revolut&#39;s card customization screen &lpar;the freeform drawing mode&rpar;. It provides a web UI where you can: - Upload any image](https://www.reddit.com/r/androiddev/comments/1qubllf/revodraw_draw_custom_images_on_revolut_card/)
+- [[Reverse Engineering] Tired with manually doing it I&#39;ve build a Claude Code skill which helps me!](https://www.reddit.com/r/androiddev/comments/1qu6as0/reverse_engineering_tired_with_manually_doing_it/)
+- [How do apps have tens of thousands of available subscriptions?](https://www.reddit.com/r/androiddev/comments/1qu5b6y/how_do_apps_have_tens_of_thousands_of_available/)
+- [Strings.xml auto localization](https://www.reddit.com/r/androiddev/comments/1qtyvh9/stringsxml_auto_localization/)
+- [New Google verification requirement not as bad as it sounds?](https://www.reddit.com/r/androiddev/comments/1qtxfu3/new_google_verification_requirement_not_as_bad_as/)
+- [Is There any android Emulator that supports Esim ?](https://www.reddit.com/r/androiddev/comments/1qtvdxx/is_there_any_android_emulator_that_supports_esim/)
+- [[Open Source] I built a &quot;Zero-Disk-Footprint&quot; secure model loader for TFLite to stop model theft.](https://www.reddit.com/r/androiddev/comments/1qttkm2/open_source_i_built_a_zerodiskfootprint_secure/)
+- [Building an app for an Android tablet, what tablet is recommended for dev?](https://www.reddit.com/r/androiddev/comments/1qtsl1s/building_an_app_for_an_android_tablet_what_tablet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
