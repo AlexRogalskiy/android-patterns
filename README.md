@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [which ai tools works better for android apps?](https://www.reddit.com/r/androiddev/comments/1qug1al/which_ai_tools_works_better_for_android_apps/)
-- [First Android app launch — are these early KPIs healthy?](https://www.reddit.com/r/androiddev/comments/1qufusp/first_android_app_launch_are_these_early_kpis/)
-- [RevoDraw - Draw custom images on Revolut card designs using ADB and OpenCV Body: **What My Project Does** RevoDraw is a Python tool that lets you draw custom images on Revolut&#39;s card customization screen &lpar;the freeform drawing mode&rpar;. It provides a web UI where you can: - Upload any image](https://www.reddit.com/r/androiddev/comments/1qubllf/revodraw_draw_custom_images_on_revolut_card/)
-- [[Reverse Engineering] Tired with manually doing it I&#39;ve build a Claude Code skill which helps me!](https://www.reddit.com/r/androiddev/comments/1qu6as0/reverse_engineering_tired_with_manually_doing_it/)
-- [How do apps have tens of thousands of available subscriptions?](https://www.reddit.com/r/androiddev/comments/1qu5b6y/how_do_apps_have_tens_of_thousands_of_available/)
-- [Strings.xml auto localization](https://www.reddit.com/r/androiddev/comments/1qtyvh9/stringsxml_auto_localization/)
-- [New Google verification requirement not as bad as it sounds?](https://www.reddit.com/r/androiddev/comments/1qtxfu3/new_google_verification_requirement_not_as_bad_as/)
-- [Is There any android Emulator that supports Esim ?](https://www.reddit.com/r/androiddev/comments/1qtvdxx/is_there_any_android_emulator_that_supports_esim/)
-- [[Open Source] I built a &quot;Zero-Disk-Footprint&quot; secure model loader for TFLite to stop model theft.](https://www.reddit.com/r/androiddev/comments/1qttkm2/open_source_i_built_a_zerodiskfootprint_secure/)
-- [Building an app for an Android tablet, what tablet is recommended for dev?](https://www.reddit.com/r/androiddev/comments/1qtsl1s/building_an_app_for_an_android_tablet_what_tablet/)
+- [I love developing but I hate designing.](https://www.reddit.com/r/androiddev/comments/1qw4lxs/i_love_developing_but_i_hate_designing/)
+- [How do you keep QA costs low when you’re bootstrapping an MVP?](https://www.reddit.com/r/androiddev/comments/1qw1y2n/how_do_you_keep_qa_costs_low_when_youre/)
+- [I made a task and notes app](https://www.reddit.com/r/androiddev/comments/1qvsqf9/i_made_a_task_and_notes_app/)
+- [I built a full AI-powered Android remote for my 2012 LG TV — without knowing how to code](https://www.reddit.com/r/androiddev/comments/1qvrtb9/i_built_a_full_aipowered_android_remote_for_my/)
+- [Allowing users to support the developer by purchasing IAP&lpar;one-time product&rpar;](https://www.reddit.com/r/androiddev/comments/1qvq9s9/allowing_users_to_support_the_developer_by/)
+- [How does the GMS FusedLocationProviderClient work ?](https://www.reddit.com/r/androiddev/comments/1qvnptn/how_does_the_gms_fusedlocationproviderclient_work/)
+- [Style buttons destroy keyboard - how to prevent this?](https://www.reddit.com/r/androiddev/comments/1qvlpw7/style_buttons_destroy_keyboard_how_to_prevent_this/)
+- [New Google Play App Signing SHA-1 request](https://www.reddit.com/r/androiddev/comments/1qvl304/new_google_play_app_signing_sha1_request/)
+- [Closed testing review time?](https://www.reddit.com/r/androiddev/comments/1qvctn3/closed_testing_review_time/)
+- [Help with Alarm Application.](https://www.reddit.com/r/androiddev/comments/1qv8ofd/help_with_alarm_application/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
