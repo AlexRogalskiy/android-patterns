@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I love developing but I hate designing.](https://www.reddit.com/r/androiddev/comments/1qw4lxs/i_love_developing_but_i_hate_designing/)
-- [How do you keep QA costs low when you’re bootstrapping an MVP?](https://www.reddit.com/r/androiddev/comments/1qw1y2n/how_do_you_keep_qa_costs_low_when_youre/)
-- [I made a task and notes app](https://www.reddit.com/r/androiddev/comments/1qvsqf9/i_made_a_task_and_notes_app/)
-- [I built a full AI-powered Android remote for my 2012 LG TV — without knowing how to code](https://www.reddit.com/r/androiddev/comments/1qvrtb9/i_built_a_full_aipowered_android_remote_for_my/)
-- [Allowing users to support the developer by purchasing IAP&lpar;one-time product&rpar;](https://www.reddit.com/r/androiddev/comments/1qvq9s9/allowing_users_to_support_the_developer_by/)
-- [How does the GMS FusedLocationProviderClient work ?](https://www.reddit.com/r/androiddev/comments/1qvnptn/how_does_the_gms_fusedlocationproviderclient_work/)
-- [Style buttons destroy keyboard - how to prevent this?](https://www.reddit.com/r/androiddev/comments/1qvlpw7/style_buttons_destroy_keyboard_how_to_prevent_this/)
-- [New Google Play App Signing SHA-1 request](https://www.reddit.com/r/androiddev/comments/1qvl304/new_google_play_app_signing_sha1_request/)
-- [Closed testing review time?](https://www.reddit.com/r/androiddev/comments/1qvctn3/closed_testing_review_time/)
-- [Help with Alarm Application.](https://www.reddit.com/r/androiddev/comments/1qv8ofd/help_with_alarm_application/)
+- [Created an open-source web-app to localize Android/iOS metadata](https://www.reddit.com/r/androiddev/comments/1qx6gqt/created_an_opensource_webapp_to_localize/)
+- [We made an unopinionated ExpandableText library](https://www.reddit.com/r/androiddev/comments/1qx4kg3/we_made_an_unopinionated_expandabletext_library/)
+- [I started working on an app for people with anxiety](https://www.reddit.com/r/androiddev/comments/1qx218e/i_started_working_on_an_app_for_people_with/)
+- [Claude Opus 4.6 is the best for Android](https://www.reddit.com/r/androiddev/comments/1qx1uw4/claude_opus_46_is_the_best_for_android/)
+- [How are we coding Android apps with AI in Feb &#39;26](https://www.reddit.com/r/androiddev/comments/1qx1ciw/how_are_we_coding_android_apps_with_ai_in_feb_26/)
+- [ARM64 Android Dev Kit](https://www.reddit.com/r/androiddev/comments/1qx144h/arm64_android_dev_kit/)
+- [Sponza Classic for Android V5.5 Tech Demo](https://www.reddit.com/r/androiddev/comments/1qwza2o/sponza_classic_for_android_v55_tech_demo/)
+- [Google play exposing my address!.. help?](https://www.reddit.com/r/androiddev/comments/1qwv43w/google_play_exposing_my_address_help/)
+- [Handling step sensor &amp; background service issues on aggressive Android OEMs - looking for dev experiences](https://www.reddit.com/r/androiddev/comments/1qwukk1/handling_step_sensor_background_service_issues_on/)
+- [How to exclude baselineProfile generation](https://www.reddit.com/r/androiddev/comments/1qwttqz/how_to_exclude_baselineprofile_generation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
