@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Created an open-source web-app to localize Android/iOS metadata](https://www.reddit.com/r/androiddev/comments/1qx6gqt/created_an_opensource_webapp_to_localize/)
-- [We made an unopinionated ExpandableText library](https://www.reddit.com/r/androiddev/comments/1qx4kg3/we_made_an_unopinionated_expandabletext_library/)
-- [I started working on an app for people with anxiety](https://www.reddit.com/r/androiddev/comments/1qx218e/i_started_working_on_an_app_for_people_with/)
-- [Claude Opus 4.6 is the best for Android](https://www.reddit.com/r/androiddev/comments/1qx1uw4/claude_opus_46_is_the_best_for_android/)
-- [How are we coding Android apps with AI in Feb &#39;26](https://www.reddit.com/r/androiddev/comments/1qx1ciw/how_are_we_coding_android_apps_with_ai_in_feb_26/)
-- [ARM64 Android Dev Kit](https://www.reddit.com/r/androiddev/comments/1qx144h/arm64_android_dev_kit/)
-- [Sponza Classic for Android V5.5 Tech Demo](https://www.reddit.com/r/androiddev/comments/1qwza2o/sponza_classic_for_android_v55_tech_demo/)
-- [Google play exposing my address!.. help?](https://www.reddit.com/r/androiddev/comments/1qwv43w/google_play_exposing_my_address_help/)
-- [Handling step sensor &amp; background service issues on aggressive Android OEMs - looking for dev experiences](https://www.reddit.com/r/androiddev/comments/1qwukk1/handling_step_sensor_background_service_issues_on/)
-- [How to exclude baselineProfile generation](https://www.reddit.com/r/androiddev/comments/1qwttqz/how_to_exclude_baselineprofile_generation/)
+- [Questions about Android Flash Tool](https://www.reddit.com/r/androiddev/comments/1qy1qg6/questions_about_android_flash_tool/)
+- [Full Revolut Clone Android](https://www.reddit.com/r/androiddev/comments/1qy17rb/full_revolut_clone_android/)
+- [Looking for a freelance / part-time gig, any help is really appreciated 🙏](https://www.reddit.com/r/androiddev/comments/1qxzkw6/looking_for_a_freelance_parttime_gig_any_help_is/)
+- [Mobile LLM UX feels wrong. Tried fixing it at the input layer &lpar;demo&rpar;](https://www.reddit.com/r/androiddev/comments/1qxzj87/mobile_llm_ux_feels_wrong_tried_fixing_it_at_the/)
+- [I built an android app and open sourced it](https://www.reddit.com/r/androiddev/comments/1qxy3w1/i_built_an_android_app_and_open_sourced_it/)
+- [The usage of AI Agent nowadays](https://www.reddit.com/r/androiddev/comments/1qxxsoh/the_usage_of_ai_agent_nowadays/)
+- [Anyone else getting fullscreen flickering in Android Studio?](https://www.reddit.com/r/androiddev/comments/1qxx2vs/anyone_else_getting_fullscreen_flickering_in/)
+- [Friday. It&#39;s over](https://www.reddit.com/r/androiddev/comments/1qxsuwd/friday_its_over/)
+- [Why doesn&#39;t Netflix provide an arm64-v8a APK?](https://www.reddit.com/r/androiddev/comments/1qxpks0/why_doesnt_netflix_provide_an_arm64v8a_apk/)
+- [Weight loss ap thats built like flo](https://www.reddit.com/r/androiddev/comments/1qxokw7/weight_loss_ap_thats_built_like_flo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
