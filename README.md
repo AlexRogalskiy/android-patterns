@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is Play Console bugging out? Huge drop in &quot;Total Installs&quot; despite consistent growth 📉](https://www.reddit.com/r/androiddev/comments/1qyx6er/is_play_console_bugging_out_huge_drop_in_total/)
-- [Google Play Console Verification: Can a &quot;Non-Tech&quot; business publish a &quot;Tech&quot; app safely?](https://www.reddit.com/r/androiddev/comments/1qyo671/google_play_console_verification_can_a_nontech/)
-- [Hidden risks of omitting buildToolsVersion in your Gradle config?](https://www.reddit.com/r/androiddev/comments/1qyo2l9/hidden_risks_of_omitting_buildtoolsversion_in/)
-- [When should I start looking for a job?](https://www.reddit.com/r/androiddev/comments/1qyhjed/when_should_i_start_looking_for_a_job/)
-- [Looking for feedback on a “personal homescreen for the internet” concept](https://www.reddit.com/r/androiddev/comments/1qyhjao/looking_for_feedback_on_a_personal_homescreen_for/)
-- [Feature, functionality suggestion](https://www.reddit.com/r/androiddev/comments/1qyh49s/feature_functionality_suggestion/)
-- [Play Rush &amp; Roll – a fun new game available on Google Play!](https://www.reddit.com/r/androiddev/comments/1qyddcx/play_rush_roll_a_fun_new_game_available_on_google/)
-- [I built an open-source app that hides the map until you walk there](https://www.reddit.com/r/androiddev/comments/1qycg39/i_built_an_opensource_app_that_hides_the_map/)
-- [Handling EditText focus loss inside RecyclerView during scroll - how to emulate iOS behavior?](https://www.reddit.com/r/androiddev/comments/1qybyuz/handling_edittext_focus_loss_inside_recyclerview/)
-- [Jetpack Compose introduced Grid](https://www.reddit.com/r/androiddev/comments/1qyacv9/jetpack_compose_introduced_grid/)
+- [I built and open-sourced a production-ready Android VPN SDK &lpar;Xray-based&rpar;](https://www.reddit.com/r/androiddev/comments/1qzt0xl/i_built_and_opensourced_a_productionready_android/)
+- [Important reminder about changes under the Australian Online Safety Act](https://www.reddit.com/r/androiddev/comments/1qzsou8/important_reminder_about_changes_under_the/)
+- [Are there any commercially available airgapped Android devices?](https://www.reddit.com/r/androiddev/comments/1qzqqo7/are_there_any_commercially_available_airgapped/)
+- [Gemini and chat content gone from Android Studio](https://www.reddit.com/r/androiddev/comments/1qzpyvb/gemini_and_chat_content_gone_from_android_studio/)
+- [My app&#39;s header keeps interfering with the System UI, and I can&#39;t figure it out](https://www.reddit.com/r/androiddev/comments/1qzpqfj/my_apps_header_keeps_interfering_with_the_system/)
+- [Why is my app icon color inverted when using Android 16&#39;s Automatic theming](https://www.reddit.com/r/androiddev/comments/1qzpok8/why_is_my_app_icon_color_inverted_when_using/)
+- [Why do users keep reporting our app is in Chinese? We don&#39;t even support](https://www.reddit.com/r/androiddev/comments/1qzipof/why_do_users_keep_reporting_our_app_is_in_chinese/)
+- [My Android app gets many installs but most users uninstall quickly, looking for feedback](https://www.reddit.com/r/androiddev/comments/1qzf37h/my_android_app_gets_many_installs_but_most_users/)
+- [Gemma 3n on Android](https://www.reddit.com/r/androiddev/comments/1qzdazi/gemma_3n_on_android/)
+- [Port Android app minsdk 17 maxsdk 25 to work on maxsdk 35](https://www.reddit.com/r/androiddev/comments/1qzbw3w/port_android_app_minsdk_17_maxsdk_25_to_work_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
