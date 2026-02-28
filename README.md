@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Meet the AI agent that creates paywalls, writes code, and tracks revenue in your Android Studio](https://www.reddit.com/r/androiddev/comments/1rfu5gv/meet_the_ai_agent_that_creates_paywalls_writes/)
-- [[Help] Pixel 6a &lpar;bluejay&rpar; stuck in A17 Beta 1 bootloop. Official OTA zip is missing, trying to save data](https://www.reddit.com/r/androiddev/comments/1rftuhj/help_pixel_6a_bluejay_stuck_in_a17_beta_1/)
-- [Download pixel 10 pro XL UK](https://www.reddit.com/r/androiddev/comments/1rfr2e4/download_pixel_10_pro_xl_uk/)
-- [how do i properly end my closed testing?](https://www.reddit.com/r/androiddev/comments/1rfplwj/how_do_i_properly_end_my_closed_testing/)
-- [How to creates charts such as this one?](https://www.reddit.com/r/androiddev/comments/1rfomts/how_to_creates_charts_such_as_this_one/)
-- [Universal Algorithmic ASE II: Architecture and Components - Mistral Chat](https://www.reddit.com/r/androiddev/comments/1rfm6x8/universal_algorithmic_ase_ii_architecture_and/)
-- [What do you think about gpt 5.3 codex and gemini 3.1 pro?](https://www.reddit.com/r/androiddev/comments/1rfg5qx/what_do_you_think_about_gpt_53_codex_and_gemini/)
-- [Would you like to volunteer to build an app for a non profit organisation?](https://www.reddit.com/r/androiddev/comments/1rffhu9/would_you_like_to_volunteer_to_build_an_app_for_a/)
-- [Installing Self Signed Apks failing on Shield Android TV and Fire TV Cube 3](https://www.reddit.com/r/androiddev/comments/1rff3x0/installing_self_signed_apks_failing_on_shield/)
-- [No sound at all in Android Emulator on M2 Mac mini pro &lpar;even YouTube has no audio&rpar;](https://www.reddit.com/r/androiddev/comments/1rfetgl/no_sound_at_all_in_android_emulator_on_m2_mac/)
+- [Mobile heatmap tools revealed half our users never find settings](https://www.reddit.com/r/androiddev/comments/1rgnwf6/mobile_heatmap_tools_revealed_half_our_users/)
+- [ANRs on new low end devices running Android Go](https://www.reddit.com/r/androiddev/comments/1rgn52h/anrs_on_new_low_end_devices_running_android_go/)
+- [Kiosk Help - Equipment/code](https://www.reddit.com/r/androiddev/comments/1rgkyk6/kiosk_help_equipmentcode/)
+- [The state of this sub](https://www.reddit.com/r/androiddev/comments/1rgj6he/the_state_of_this_sub/)
+- [Hooks for AI inside Android Studio](https://www.reddit.com/r/androiddev/comments/1rgio2o/hooks_for_ai_inside_android_studio/)
+- [I built a single dashboard to control Android Emulators &amp; iOS Simulators](https://www.reddit.com/r/androiddev/comments/1rginpy/i_built_a_single_dashboard_to_control_android/)
+- [Under the hood: Android 17’s lock-free MessageQueue](https://www.reddit.com/r/androiddev/comments/1rgg04e/under_the_hood_android_17s_lockfree_messagequeue/)
+- [Debugging suddenly stopped working in Android Studio](https://www.reddit.com/r/androiddev/comments/1rg9xtr/debugging_suddenly_stopped_working_in_android/)
+- [Qt Gradle Plugin 1.4 is out for better Qt and Android integration!](https://www.reddit.com/r/androiddev/comments/1rg3r6c/qt_gradle_plugin_14_is_out_for_better_qt_and/)
+- [Google play billing vs Alternate payment processor](https://www.reddit.com/r/androiddev/comments/1rg2uxq/google_play_billing_vs_alternate_payment_processor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
