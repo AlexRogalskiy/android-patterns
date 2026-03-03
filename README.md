@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mobile heatmap tools revealed half our users never find settings](https://www.reddit.com/r/androiddev/comments/1rgnwf6/mobile_heatmap_tools_revealed_half_our_users/)
-- [ANRs on new low end devices running Android Go](https://www.reddit.com/r/androiddev/comments/1rgn52h/anrs_on_new_low_end_devices_running_android_go/)
-- [Kiosk Help - Equipment/code](https://www.reddit.com/r/androiddev/comments/1rgkyk6/kiosk_help_equipmentcode/)
-- [The state of this sub](https://www.reddit.com/r/androiddev/comments/1rgj6he/the_state_of_this_sub/)
-- [Hooks for AI inside Android Studio](https://www.reddit.com/r/androiddev/comments/1rgio2o/hooks_for_ai_inside_android_studio/)
-- [I built a single dashboard to control Android Emulators &amp; iOS Simulators](https://www.reddit.com/r/androiddev/comments/1rginpy/i_built_a_single_dashboard_to_control_android/)
-- [Under the hood: Android 17’s lock-free MessageQueue](https://www.reddit.com/r/androiddev/comments/1rgg04e/under_the_hood_android_17s_lockfree_messagequeue/)
-- [Debugging suddenly stopped working in Android Studio](https://www.reddit.com/r/androiddev/comments/1rg9xtr/debugging_suddenly_stopped_working_in_android/)
-- [Qt Gradle Plugin 1.4 is out for better Qt and Android integration!](https://www.reddit.com/r/androiddev/comments/1rg3r6c/qt_gradle_plugin_14_is_out_for_better_qt_and/)
-- [Google play billing vs Alternate payment processor](https://www.reddit.com/r/androiddev/comments/1rg2uxq/google_play_billing_vs_alternate_payment_processor/)
+- [What should i do?](https://www.reddit.com/r/androiddev/comments/1rjcz77/what_should_i_do/)
+- [Apple vs Android question](https://www.reddit.com/r/androiddev/comments/1rjau01/apple_vs_android_question/)
+- [Doggcatcher podcast player, looking for the source code or developer contact.](https://www.reddit.com/r/androiddev/comments/1rj8r7j/doggcatcher_podcast_player_looking_for_the_source/)
+- [Does Android Compose still not have a scrollbar?](https://www.reddit.com/r/androiddev/comments/1rj847q/does_android_compose_still_not_have_a_scrollbar/)
+- [I built a single dashboard to control iOS Simulators &amp; Android Emulators](https://www.reddit.com/r/androiddev/comments/1rj4fzx/i_built_a_single_dashboard_to_control_ios/)
+- [I&#39;m building a unified crash reporter and analytics tool for KMP teams — would love feedback](https://www.reddit.com/r/androiddev/comments/1rj38z7/im_building_a_unified_crash_reporter_and/)
+- [Check out my Google developer group campus do like and follow for upcoming further victories](https://www.reddit.com/r/androiddev/comments/1rj1mgd/check_out_my_google_developer_group_campus_do/)
+- [I built a Wear OS app that runs a real AI agent on-device &lpar;Zig + Vosk + TTS, 2.8 MB&rpar;](https://www.reddit.com/r/androiddev/comments/1rj1hv8/i_built_a_wear_os_app_that_runs_a_real_ai_agent/)
+- [I´m 14 and stuck in this &quot;developer loop&quot;. Built a finance app but cant afford ads. How do i break out?](https://www.reddit.com/r/androiddev/comments/1rizrk7/im_14_and_stuck_in_this_developer_loop_built_a/)
+- [Working on a Compose UI Generator, Looking for Serious Android Dev Feedback](https://www.reddit.com/r/androiddev/comments/1riz4ls/working_on_a_compose_ui_generator_looking_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
