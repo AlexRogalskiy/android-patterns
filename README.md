@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What should i do?](https://www.reddit.com/r/androiddev/comments/1rjcz77/what_should_i_do/)
-- [Apple vs Android question](https://www.reddit.com/r/androiddev/comments/1rjau01/apple_vs_android_question/)
-- [Doggcatcher podcast player, looking for the source code or developer contact.](https://www.reddit.com/r/androiddev/comments/1rj8r7j/doggcatcher_podcast_player_looking_for_the_source/)
-- [Does Android Compose still not have a scrollbar?](https://www.reddit.com/r/androiddev/comments/1rj847q/does_android_compose_still_not_have_a_scrollbar/)
-- [I built a single dashboard to control iOS Simulators &amp; Android Emulators](https://www.reddit.com/r/androiddev/comments/1rj4fzx/i_built_a_single_dashboard_to_control_ios/)
-- [I&#39;m building a unified crash reporter and analytics tool for KMP teams — would love feedback](https://www.reddit.com/r/androiddev/comments/1rj38z7/im_building_a_unified_crash_reporter_and/)
-- [Check out my Google developer group campus do like and follow for upcoming further victories](https://www.reddit.com/r/androiddev/comments/1rj1mgd/check_out_my_google_developer_group_campus_do/)
-- [I built a Wear OS app that runs a real AI agent on-device &lpar;Zig + Vosk + TTS, 2.8 MB&rpar;](https://www.reddit.com/r/androiddev/comments/1rj1hv8/i_built_a_wear_os_app_that_runs_a_real_ai_agent/)
-- [I´m 14 and stuck in this &quot;developer loop&quot;. Built a finance app but cant afford ads. How do i break out?](https://www.reddit.com/r/androiddev/comments/1rizrk7/im_14_and_stuck_in_this_developer_loop_built_a/)
-- [Working on a Compose UI Generator, Looking for Serious Android Dev Feedback](https://www.reddit.com/r/androiddev/comments/1riz4ls/working_on_a_compose_ui_generator_looking_for/)
+- [Jetpack Room 3.0 &lpar;alpha01&rpar; : Some big changes ahead](https://www.reddit.com/r/androiddev/comments/1rs8ixf/jetpack_room_30_alpha01_some_big_changes_ahead/)
+- [I made an Android library for interacting with Subsonic API](https://www.reddit.com/r/androiddev/comments/1rs44o2/i_made_an_android_library_for_interacting_with/)
+- [Android Developer Verification](https://www.reddit.com/r/androiddev/comments/1rrw4q6/android_developer_verification/)
+- [Android Studio Panda 3 | 2025.3.3 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1rrunji/android_studio_panda_3_202533_canary_4_now/)
+- [Massive responsibility as a solo dev](https://www.reddit.com/r/androiddev/comments/1rruk7g/massive_responsibility_as_a_solo_dev/)
+- [Google Play automated testing - Why OnePlus ?](https://www.reddit.com/r/androiddev/comments/1rrq11m/google_play_automated_testing_why_oneplus/)
+- [How do you manage Google Play review responses for your apps?](https://www.reddit.com/r/androiddev/comments/1rro7hp/how_do_you_manage_google_play_review_responses/)
+- [Just launched my new Android library](https://www.reddit.com/r/androiddev/comments/1rrnwp3/just_launched_my_new_android_library/)
+- [Who will be effected by this? - Brazil Digital Child and Adolescent Statute](https://www.reddit.com/r/androiddev/comments/1rrnr0k/who_will_be_effected_by_this_brazil_digital_child/)
+- [An open-source way to cast any Android audio to Music Assistant/PCM receivers](https://www.reddit.com/r/androiddev/comments/1rrlvr8/an_opensource_way_to_cast_any_android_audio_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
