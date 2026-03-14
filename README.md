@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How well does Claude Code work with KMP projects?](https://www.reddit.com/r/androiddev/comments/1rsxbtq/how_well_does_claude_code_work_with_kmp_projects/)
+- [Invalid Package Name on APKPure when publishing](https://www.reddit.com/r/androiddev/comments/1rsv37v/invalid_package_name_on_apkpure_when_publishing/)
+- [I want to learn Android dev](https://www.reddit.com/r/androiddev/comments/1rsk664/i_want_to_learn_android_dev/)
+- [In-App Review API timing - what criteria are you using to trigger review prompts?](https://www.reddit.com/r/androiddev/comments/1rsk15h/inapp_review_api_timing_what_criteria_are_you/)
+- [Is rewarding users for any review actually allowed?](https://www.reddit.com/r/androiddev/comments/1rshj5h/is_rewarding_users_for_any_review_actually_allowed/)
 - [Jetpack Room 3.0 &lpar;alpha01&rpar; : Some big changes ahead](https://www.reddit.com/r/androiddev/comments/1rs8ixf/jetpack_room_30_alpha01_some_big_changes_ahead/)
 - [I made an Android library for interacting with Subsonic API](https://www.reddit.com/r/androiddev/comments/1rs44o2/i_made_an_android_library_for_interacting_with/)
 - [Android Developer Verification](https://www.reddit.com/r/androiddev/comments/1rrw4q6/android_developer_verification/)
 - [Android Studio Panda 3 | 2025.3.3 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1rrunji/android_studio_panda_3_202533_canary_4_now/)
 - [Massive responsibility as a solo dev](https://www.reddit.com/r/androiddev/comments/1rruk7g/massive_responsibility_as_a_solo_dev/)
-- [Google Play automated testing - Why OnePlus ?](https://www.reddit.com/r/androiddev/comments/1rrq11m/google_play_automated_testing_why_oneplus/)
-- [How do you manage Google Play review responses for your apps?](https://www.reddit.com/r/androiddev/comments/1rro7hp/how_do_you_manage_google_play_review_responses/)
-- [Just launched my new Android library](https://www.reddit.com/r/androiddev/comments/1rrnwp3/just_launched_my_new_android_library/)
-- [Who will be effected by this? - Brazil Digital Child and Adolescent Statute](https://www.reddit.com/r/androiddev/comments/1rrnr0k/who_will_be_effected_by_this_brazil_digital_child/)
-- [An open-source way to cast any Android audio to Music Assistant/PCM receivers](https://www.reddit.com/r/androiddev/comments/1rrlvr8/an_opensource_way_to_cast_any_android_audio_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
