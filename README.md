@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How well does Claude Code work with KMP projects?](https://www.reddit.com/r/androiddev/comments/1rsxbtq/how_well_does_claude_code_work_with_kmp_projects/)
-- [Invalid Package Name on APKPure when publishing](https://www.reddit.com/r/androiddev/comments/1rsv37v/invalid_package_name_on_apkpure_when_publishing/)
-- [I want to learn Android dev](https://www.reddit.com/r/androiddev/comments/1rsk664/i_want_to_learn_android_dev/)
-- [In-App Review API timing - what criteria are you using to trigger review prompts?](https://www.reddit.com/r/androiddev/comments/1rsk15h/inapp_review_api_timing_what_criteria_are_you/)
-- [Is rewarding users for any review actually allowed?](https://www.reddit.com/r/androiddev/comments/1rshj5h/is_rewarding_users_for_any_review_actually_allowed/)
-- [Jetpack Room 3.0 &lpar;alpha01&rpar; : Some big changes ahead](https://www.reddit.com/r/androiddev/comments/1rs8ixf/jetpack_room_30_alpha01_some_big_changes_ahead/)
-- [I made an Android library for interacting with Subsonic API](https://www.reddit.com/r/androiddev/comments/1rs44o2/i_made_an_android_library_for_interacting_with/)
-- [Android Developer Verification](https://www.reddit.com/r/androiddev/comments/1rrw4q6/android_developer_verification/)
-- [Android Studio Panda 3 | 2025.3.3 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1rrunji/android_studio_panda_3_202533_canary_4_now/)
-- [Massive responsibility as a solo dev](https://www.reddit.com/r/androiddev/comments/1rruk7g/massive_responsibility_as_a_solo_dev/)
+- [How to Learn Android Properly 🧐](https://www.reddit.com/r/androiddev/comments/1ruwp9c/how_to_learn_android_properly/)
+- [I need Feedback](https://www.reddit.com/r/androiddev/comments/1ruvit9/i_need_feedback/)
+- [Do Compose or XML apps feel better to use?](https://www.reddit.com/r/androiddev/comments/1ruv3wo/do_compose_or_xml_apps_feel_better_to_use/)
+- [AI assisted dev / test tools for Android](https://www.reddit.com/r/androiddev/comments/1ruv11f/ai_assisted_dev_test_tools_for_android/)
+- [Which application is best to create icons for apps?](https://www.reddit.com/r/androiddev/comments/1rus2kj/which_application_is_best_to_create_icons_for_apps/)
+- [Built a CHIP-8 emulator for Android in Kotlin as my first major project — open source](https://www.reddit.com/r/androiddev/comments/1rur8hm/built_a_chip8_emulator_for_android_in_kotlin_as/)
+- [Android Studio says redundant assignment even when its not.](https://www.reddit.com/r/androiddev/comments/1rumgp1/android_studio_says_redundant_assignment_even/)
+- [is it possible to develop something like this as a beginner?](https://www.reddit.com/r/androiddev/comments/1rumb2m/is_it_possible_to_develop_something_like_this_as/)
+- [Hi everyone,](https://www.reddit.com/r/androiddev/comments/1rukov7/hi_everyone/)
+- [Android App Developer Available &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1rukaw4/android_app_developer_available_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
