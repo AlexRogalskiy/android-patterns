@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [“Final-year CS student worried about AI, layoffs, and the future of tech jobs — need advice.”](https://www.reddit.com/r/androiddev/comments/1rvlt3a/finalyear_cs_student_worried_about_ai_layoffs_and/)
 - [How to Learn Android Properly 🧐](https://www.reddit.com/r/androiddev/comments/1ruwp9c/how_to_learn_android_properly/)
-- [I need Feedback](https://www.reddit.com/r/androiddev/comments/1ruvit9/i_need_feedback/)
 - [Do Compose or XML apps feel better to use?](https://www.reddit.com/r/androiddev/comments/1ruv3wo/do_compose_or_xml_apps_feel_better_to_use/)
 - [AI assisted dev / test tools for Android](https://www.reddit.com/r/androiddev/comments/1ruv11f/ai_assisted_dev_test_tools_for_android/)
-- [Which application is best to create icons for apps?](https://www.reddit.com/r/androiddev/comments/1rus2kj/which_application_is_best_to_create_icons_for_apps/)
 - [Built a CHIP-8 emulator for Android in Kotlin as my first major project — open source](https://www.reddit.com/r/androiddev/comments/1rur8hm/built_a_chip8_emulator_for_android_in_kotlin_as/)
 - [Android Studio says redundant assignment even when its not.](https://www.reddit.com/r/androiddev/comments/1rumgp1/android_studio_says_redundant_assignment_even/)
 - [is it possible to develop something like this as a beginner?](https://www.reddit.com/r/androiddev/comments/1rumb2m/is_it_possible_to_develop_something_like_this_as/)
-- [Hi everyone,](https://www.reddit.com/r/androiddev/comments/1rukov7/hi_everyone/)
 - [Android App Developer Available &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1rukaw4/android_app_developer_available_kotlin/)
+- [Seeking feedback: advanced Android Studio plugin for variable-tracking debugging](https://www.reddit.com/r/androiddev/comments/1ruharq/seeking_feedback_advanced_android_studio_plugin/)
+- [A small tool that alerts you when someone is looking for freelancers 🚀](https://www.reddit.com/r/androiddev/comments/1ru6bmi/a_small_tool_that_alerts_you_when_someone_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
