@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a deck-building roguelike card game entirely in Compose Multiplatform — targeting Android, iOS, Desktop, and Meta Quest VR](https://www.reddit.com/r/androiddev/comments/1rwqio1/i_built_a_deckbuilding_roguelike_card_game/)
+- [We need to stop the &quot;Bloat&quot;: Why I built a 3KB 3D library for a more efficient future.](https://www.reddit.com/r/androiddev/comments/1rwd5km/we_need_to_stop_the_bloat_why_i_built_a_3kb_3d/)
+- [UX signals to log for mobile](https://www.reddit.com/r/androiddev/comments/1rwcrhu/ux_signals_to_log_for_mobile/)
+- [Android devs: how are you handling Doze mode for reliable GPS tracking with the screen locked?](https://www.reddit.com/r/androiddev/comments/1rwcbva/android_devs_how_are_you_handling_doze_mode_for/)
+- [A third party app can work as middleware while file accessing by another app in android](https://www.reddit.com/r/androiddev/comments/1rwbpit/a_third_party_app_can_work_as_middleware_while/)
+- [Where do I see who joined my closed testing track?](https://www.reddit.com/r/androiddev/comments/1rw0t53/where_do_i_see_who_joined_my_closed_testing_track/)
+- [Software craftsman VS AI-assisted coder](https://www.reddit.com/r/androiddev/comments/1rvxzbb/software_craftsman_vs_aiassisted_coder/)
 - [“Final-year CS student worried about AI, layoffs, and the future of tech jobs — need advice.”](https://www.reddit.com/r/androiddev/comments/1rvlt3a/finalyear_cs_student_worried_about_ai_layoffs_and/)
 - [How to Learn Android Properly 🧐](https://www.reddit.com/r/androiddev/comments/1ruwp9c/how_to_learn_android_properly/)
 - [Do Compose or XML apps feel better to use?](https://www.reddit.com/r/androiddev/comments/1ruv3wo/do_compose_or_xml_apps_feel_better_to_use/)
-- [AI assisted dev / test tools for Android](https://www.reddit.com/r/androiddev/comments/1ruv11f/ai_assisted_dev_test_tools_for_android/)
-- [Built a CHIP-8 emulator for Android in Kotlin as my first major project — open source](https://www.reddit.com/r/androiddev/comments/1rur8hm/built_a_chip8_emulator_for_android_in_kotlin_as/)
-- [Android Studio says redundant assignment even when its not.](https://www.reddit.com/r/androiddev/comments/1rumgp1/android_studio_says_redundant_assignment_even/)
-- [is it possible to develop something like this as a beginner?](https://www.reddit.com/r/androiddev/comments/1rumb2m/is_it_possible_to_develop_something_like_this_as/)
-- [Android App Developer Available &lpar;Kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1rukaw4/android_app_developer_available_kotlin/)
-- [Seeking feedback: advanced Android Studio plugin for variable-tracking debugging](https://www.reddit.com/r/androiddev/comments/1ruharq/seeking_feedback_advanced_android_studio_plugin/)
-- [A small tool that alerts you when someone is looking for freelancers 🚀](https://www.reddit.com/r/androiddev/comments/1ru6bmi/a_small_tool_that_alerts_you_when_someone_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
