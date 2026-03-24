@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a deck-building roguelike card game entirely in Compose Multiplatform — targeting Android, iOS, Desktop, and Meta Quest VR](https://www.reddit.com/r/androiddev/comments/1rwqio1/i_built_a_deckbuilding_roguelike_card_game/)
-- [We need to stop the &quot;Bloat&quot;: Why I built a 3KB 3D library for a more efficient future.](https://www.reddit.com/r/androiddev/comments/1rwd5km/we_need_to_stop_the_bloat_why_i_built_a_3kb_3d/)
-- [UX signals to log for mobile](https://www.reddit.com/r/androiddev/comments/1rwcrhu/ux_signals_to_log_for_mobile/)
-- [Android devs: how are you handling Doze mode for reliable GPS tracking with the screen locked?](https://www.reddit.com/r/androiddev/comments/1rwcbva/android_devs_how_are_you_handling_doze_mode_for/)
-- [A third party app can work as middleware while file accessing by another app in android](https://www.reddit.com/r/androiddev/comments/1rwbpit/a_third_party_app_can_work_as_middleware_while/)
-- [Where do I see who joined my closed testing track?](https://www.reddit.com/r/androiddev/comments/1rw0t53/where_do_i_see_who_joined_my_closed_testing_track/)
-- [Software craftsman VS AI-assisted coder](https://www.reddit.com/r/androiddev/comments/1rvxzbb/software_craftsman_vs_aiassisted_coder/)
-- [“Final-year CS student worried about AI, layoffs, and the future of tech jobs — need advice.”](https://www.reddit.com/r/androiddev/comments/1rvlt3a/finalyear_cs_student_worried_about_ai_layoffs_and/)
-- [How to Learn Android Properly 🧐](https://www.reddit.com/r/androiddev/comments/1ruwp9c/how_to_learn_android_properly/)
-- [Do Compose or XML apps feel better to use?](https://www.reddit.com/r/androiddev/comments/1ruv3wo/do_compose_or_xml_apps_feel_better_to_use/)
+- [Looking for kotlin and camera x developer for an app.](https://www.reddit.com/r/androiddev/comments/1s20fys/looking_for_kotlin_and_camera_x_developer_for_an/)
+- [Android app development on the go](https://www.reddit.com/r/androiddev/comments/1s1ydlf/android_app_development_on_the_go/)
+- [How do i get downloads on my first app?](https://www.reddit.com/r/androiddev/comments/1s1u88x/how_do_i_get_downloads_on_my_first_app/)
+- [Made a quick MVVM/MVI + Kotlin Coroutines/Flow architecture quiz while prepping for interviews — 10 questions, senior level](https://www.reddit.com/r/androiddev/comments/1s1mr9f/made_a_quick_mvvmmvi_kotlin_coroutinesflow/)
+- [Quern can now document and remember every detail of your mobile app](https://www.reddit.com/r/androiddev/comments/1s1kof1/quern_can_now_document_and_remember_every_detail/)
+- [I built a syntax highlighting code block library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1s1k3dz/i_built_a_syntax_highlighting_code_block_library/)
+- [I built a 16KB Android Tetris without Gradle or AndroidX](https://www.reddit.com/r/androiddev/comments/1s1gdbm/i_built_a_16kb_android_tetris_without_gradle_or/)
+- [Testflight then push/promote WITHOUT new upload - but for android?](https://www.reddit.com/r/androiddev/comments/1s1fd9m/testflight_then_pushpromote_without_new_upload/)
+- [New Liquid Glass support for Compose](https://www.reddit.com/r/androiddev/comments/1s1avpk/new_liquid_glass_support_for_compose/)
+- [Branch strategy and releasing flow for kotlin multiplatform Android+iOS app](https://www.reddit.com/r/androiddev/comments/1s19phs/branch_strategy_and_releasing_flow_for_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
