@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for kotlin and camera x developer for an app.](https://www.reddit.com/r/androiddev/comments/1s20fys/looking_for_kotlin_and_camera_x_developer_for_an/)
-- [Android app development on the go](https://www.reddit.com/r/androiddev/comments/1s1ydlf/android_app_development_on_the_go/)
-- [How do i get downloads on my first app?](https://www.reddit.com/r/androiddev/comments/1s1u88x/how_do_i_get_downloads_on_my_first_app/)
-- [Made a quick MVVM/MVI + Kotlin Coroutines/Flow architecture quiz while prepping for interviews — 10 questions, senior level](https://www.reddit.com/r/androiddev/comments/1s1mr9f/made_a_quick_mvvmmvi_kotlin_coroutinesflow/)
-- [Quern can now document and remember every detail of your mobile app](https://www.reddit.com/r/androiddev/comments/1s1kof1/quern_can_now_document_and_remember_every_detail/)
-- [I built a syntax highlighting code block library for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1s1k3dz/i_built_a_syntax_highlighting_code_block_library/)
-- [I built a 16KB Android Tetris without Gradle or AndroidX](https://www.reddit.com/r/androiddev/comments/1s1gdbm/i_built_a_16kb_android_tetris_without_gradle_or/)
-- [Testflight then push/promote WITHOUT new upload - but for android?](https://www.reddit.com/r/androiddev/comments/1s1fd9m/testflight_then_pushpromote_without_new_upload/)
-- [New Liquid Glass support for Compose](https://www.reddit.com/r/androiddev/comments/1s1avpk/new_liquid_glass_support_for_compose/)
-- [Branch strategy and releasing flow for kotlin multiplatform Android+iOS app](https://www.reddit.com/r/androiddev/comments/1s19phs/branch_strategy_and_releasing_flow_for_kotlin/)
+- [[ Removed by Reddit ]](https://www.reddit.com/r/androiddev/comments/1s5nvhe/removed_by_reddit/)
+- [Mi 11X failing Play Integrity after factory reset &lpar;No root, stock ROM&rpar;](https://www.reddit.com/r/androiddev/comments/1s5n1u1/mi_11x_failing_play_integrity_after_factory_reset/)
+- [I built a Claude Code skill that generates Play Store screenshots from one prompt — no Figma, no design tools](https://www.reddit.com/r/androiddev/comments/1s5f7jl/i_built_a_claude_code_skill_that_generates_play/)
+- [Using TextSpan in Compose](https://www.reddit.com/r/androiddev/comments/1s5df32/using_textspan_in_compose/)
+- [Ripple effect causing ui jank/stutter in kotlin compose mobile development](https://www.reddit.com/r/androiddev/comments/1s580t8/ripple_effect_causing_ui_jankstutter_in_kotlin/)
+- [Shifting country and ownership of my app](https://www.reddit.com/r/androiddev/comments/1s4y4y6/shifting_country_and_ownership_of_my_app/)
+- [What are the better Udemy course for learning Android mobile development w/ Android Studio and Kotlin](https://www.reddit.com/r/androiddev/comments/1s4xxps/what_are_the_better_udemy_course_for_learning/)
+- [Google Play Billing vs External Payment Gateway &lpar;Razorpay&rpar; for In-App Subscriptions](https://www.reddit.com/r/androiddev/comments/1s4wg9e/google_play_billing_vs_external_payment_gateway/)
+- [Offering 1:1 mentoring for junior Android / Flutter / KMP devs](https://www.reddit.com/r/androiddev/comments/1s4wa8g/offering_11_mentoring_for_junior_android_flutter/)
+- [I reached 10,000 installs with my Solo Leveling–inspired daily quest fitness app &lpar;no marketing, solo dev&rpar;](https://www.reddit.com/r/androiddev/comments/1s4w9wg/i_reached_10000_installs_with_my_solo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
