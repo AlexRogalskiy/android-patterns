@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[ Removed by Reddit ]](https://www.reddit.com/r/androiddev/comments/1s5nvhe/removed_by_reddit/)
-- [Mi 11X failing Play Integrity after factory reset &lpar;No root, stock ROM&rpar;](https://www.reddit.com/r/androiddev/comments/1s5n1u1/mi_11x_failing_play_integrity_after_factory_reset/)
-- [I built a Claude Code skill that generates Play Store screenshots from one prompt — no Figma, no design tools](https://www.reddit.com/r/androiddev/comments/1s5f7jl/i_built_a_claude_code_skill_that_generates_play/)
-- [Using TextSpan in Compose](https://www.reddit.com/r/androiddev/comments/1s5df32/using_textspan_in_compose/)
-- [Ripple effect causing ui jank/stutter in kotlin compose mobile development](https://www.reddit.com/r/androiddev/comments/1s580t8/ripple_effect_causing_ui_jankstutter_in_kotlin/)
-- [Shifting country and ownership of my app](https://www.reddit.com/r/androiddev/comments/1s4y4y6/shifting_country_and_ownership_of_my_app/)
-- [What are the better Udemy course for learning Android mobile development w/ Android Studio and Kotlin](https://www.reddit.com/r/androiddev/comments/1s4xxps/what_are_the_better_udemy_course_for_learning/)
-- [Google Play Billing vs External Payment Gateway &lpar;Razorpay&rpar; for In-App Subscriptions](https://www.reddit.com/r/androiddev/comments/1s4wg9e/google_play_billing_vs_external_payment_gateway/)
-- [Offering 1:1 mentoring for junior Android / Flutter / KMP devs](https://www.reddit.com/r/androiddev/comments/1s4wa8g/offering_11_mentoring_for_junior_android_flutter/)
-- [I reached 10,000 installs with my Solo Leveling–inspired daily quest fitness app &lpar;no marketing, solo dev&rpar;](https://www.reddit.com/r/androiddev/comments/1s4w9wg/i_reached_10000_installs_with_my_solo/)
+- [local network streams via adb intent control](https://www.reddit.com/r/androiddev/comments/1s99bl9/local_network_streams_via_adb_intent_control/)
+- [Reminder, don&#39;t fall for it. They&#39;re sending emails again.](https://www.reddit.com/r/androiddev/comments/1s94eke/reminder_dont_fall_for_it_theyre_sending_emails/)
+- [Developing an Android Keyboard is No Joke!](https://www.reddit.com/r/androiddev/comments/1s8sm3y/developing_an_android_keyboard_is_no_joke/)
+- [Genymotion Skills for AI Agent](https://www.reddit.com/r/androiddev/comments/1s8o3q2/genymotion_skills_for_ai_agent/)
+- [Can&#39;t get past 20 subscriptions with my app](https://www.reddit.com/r/androiddev/comments/1s8n3zj/cant_get_past_20_subscriptions_with_my_app/)
+- [Does Google allow Foreground Services for media downloader apps?](https://www.reddit.com/r/androiddev/comments/1s8mzvi/does_google_allow_foreground_services_for_media/)
+- [Swift, a coding language developed by Apple, now offers official Android support](https://www.reddit.com/r/androiddev/comments/1s8laba/swift_a_coding_language_developed_by_apple_now/)
+- [Founder saw Revenue on Android and NOT Apple &lpar;lol&rpar;](https://www.reddit.com/r/androiddev/comments/1s8l60n/founder_saw_revenue_on_android_and_not_apple_lol/)
+- [CLI tool to generate Play Store screenshots automatically — phone + tablet, multi-language](https://www.reddit.com/r/androiddev/comments/1s8jppc/cli_tool_to_generate_play_store_screenshots/)
+- [Is anyone else stuck with Google Payments verification &lpar;India&rpar; via BillDesk?](https://www.reddit.com/r/androiddev/comments/1s8joee/is_anyone_else_stuck_with_google_payments/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
