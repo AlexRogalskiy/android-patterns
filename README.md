@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [local network streams via adb intent control](https://www.reddit.com/r/androiddev/comments/1s99bl9/local_network_streams_via_adb_intent_control/)
-- [Reminder, don&#39;t fall for it. They&#39;re sending emails again.](https://www.reddit.com/r/androiddev/comments/1s94eke/reminder_dont_fall_for_it_theyre_sending_emails/)
-- [Developing an Android Keyboard is No Joke!](https://www.reddit.com/r/androiddev/comments/1s8sm3y/developing_an_android_keyboard_is_no_joke/)
-- [Genymotion Skills for AI Agent](https://www.reddit.com/r/androiddev/comments/1s8o3q2/genymotion_skills_for_ai_agent/)
-- [Can&#39;t get past 20 subscriptions with my app](https://www.reddit.com/r/androiddev/comments/1s8n3zj/cant_get_past_20_subscriptions_with_my_app/)
-- [Does Google allow Foreground Services for media downloader apps?](https://www.reddit.com/r/androiddev/comments/1s8mzvi/does_google_allow_foreground_services_for_media/)
-- [Swift, a coding language developed by Apple, now offers official Android support](https://www.reddit.com/r/androiddev/comments/1s8laba/swift_a_coding_language_developed_by_apple_now/)
-- [Founder saw Revenue on Android and NOT Apple &lpar;lol&rpar;](https://www.reddit.com/r/androiddev/comments/1s8l60n/founder_saw_revenue_on_android_and_not_apple_lol/)
-- [CLI tool to generate Play Store screenshots automatically — phone + tablet, multi-language](https://www.reddit.com/r/androiddev/comments/1s8jppc/cli_tool_to_generate_play_store_screenshots/)
-- [Is anyone else stuck with Google Payments verification &lpar;India&rpar; via BillDesk?](https://www.reddit.com/r/androiddev/comments/1s8joee/is_anyone_else_stuck_with_google_payments/)
+- [my app has more updates than installs and i think that&#39;s actually a good sign](https://www.reddit.com/r/androiddev/comments/1sb1vw1/my_app_has_more_updates_than_installs_and_i_think/)
+- [Guidance needed for carrier.](https://www.reddit.com/r/androiddev/comments/1sas95z/guidance_needed_for_carrier/)
+- [9+ years Android &lpar;Java&rpar; dev struggling with Kotlin/modern stack — switch to AI/ML, Flutter, or fix Android path?](https://www.reddit.com/r/androiddev/comments/1sao9tf/9_years_android_java_dev_struggling_with/)
+- [Came back to a suspended admob account after years of inactivity - any ways out?](https://www.reddit.com/r/androiddev/comments/1sao2bl/came_back_to_a_suspended_admob_account_after/)
+- [Built an open-source MCP toolkit to let AI agents actually see inside an Android app and debug.](https://www.reddit.com/r/androiddev/comments/1saklnp/built_an_opensource_mcp_toolkit_to_let_ai_agents/)
+- [Released open source on GitHub: offline Android app for meeting transcription + AI summaries](https://www.reddit.com/r/androiddev/comments/1sajrzz/released_open_source_on_github_offline_android/)
+- [Android Studio Panda 3 | 2025.3.3 now available](https://www.reddit.com/r/androiddev/comments/1sajq5a/android_studio_panda_3_202533_now_available/)
+- [Got tired of slow android studio, so I wrote kotlin-lsp for large java/kotlin codebases](https://www.reddit.com/r/androiddev/comments/1sajov7/got_tired_of_slow_android_studio_so_i_wrote/)
+- [Built an open-source, offline-first Social Feed to learn Mobile System Design &lpar;Jetpack Compose + Spring Boot DDD&rpar;](https://www.reddit.com/r/androiddev/comments/1sajkp9/built_an_opensource_offlinefirst_social_feed_to/)
+- [How do you ship LLM keys and prompts in the app?](https://www.reddit.com/r/androiddev/comments/1saiv0d/how_do_you_ship_llm_keys_and_prompts_in_the_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
