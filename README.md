@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [my app has more updates than installs and i think that&#39;s actually a good sign](https://www.reddit.com/r/androiddev/comments/1sb1vw1/my_app_has_more_updates_than_installs_and_i_think/)
-- [Guidance needed for carrier.](https://www.reddit.com/r/androiddev/comments/1sas95z/guidance_needed_for_carrier/)
-- [9+ years Android &lpar;Java&rpar; dev struggling with Kotlin/modern stack — switch to AI/ML, Flutter, or fix Android path?](https://www.reddit.com/r/androiddev/comments/1sao9tf/9_years_android_java_dev_struggling_with/)
-- [Came back to a suspended admob account after years of inactivity - any ways out?](https://www.reddit.com/r/androiddev/comments/1sao2bl/came_back_to_a_suspended_admob_account_after/)
-- [Built an open-source MCP toolkit to let AI agents actually see inside an Android app and debug.](https://www.reddit.com/r/androiddev/comments/1saklnp/built_an_opensource_mcp_toolkit_to_let_ai_agents/)
-- [Released open source on GitHub: offline Android app for meeting transcription + AI summaries](https://www.reddit.com/r/androiddev/comments/1sajrzz/released_open_source_on_github_offline_android/)
-- [Android Studio Panda 3 | 2025.3.3 now available](https://www.reddit.com/r/androiddev/comments/1sajq5a/android_studio_panda_3_202533_now_available/)
-- [Got tired of slow android studio, so I wrote kotlin-lsp for large java/kotlin codebases](https://www.reddit.com/r/androiddev/comments/1sajov7/got_tired_of_slow_android_studio_so_i_wrote/)
-- [Built an open-source, offline-first Social Feed to learn Mobile System Design &lpar;Jetpack Compose + Spring Boot DDD&rpar;](https://www.reddit.com/r/androiddev/comments/1sajkp9/built_an_opensource_offlinefirst_social_feed_to/)
-- [How do you ship LLM keys and prompts in the app?](https://www.reddit.com/r/androiddev/comments/1saiv0d/how_do_you_ship_llm_keys_and_prompts_in_the_app/)
+- [How to fix Unsupported changes in com.example.... when doing Changes in Compose doesn&#39;t work instantly](https://www.reddit.com/r/androiddev/comments/1sh7vxe/how_to_fix_unsupported_changes_in_comexample_when/)
+- [Gemini PRO on Android Studio](https://www.reddit.com/r/androiddev/comments/1sh6sum/gemini_pro_on_android_studio/)
+- [Why isn&#39;t queryPurchaseHistory removal being talked about?](https://www.reddit.com/r/androiddev/comments/1sgzd4h/why_isnt_querypurchasehistory_removal_being/)
+- [Binary serialization library](https://www.reddit.com/r/androiddev/comments/1sgxvd4/binary_serialization_library/)
+- [The same Google log in for the Google Play app is an Internal Track tester on one device and a normal production user on another device: how is it possible?](https://www.reddit.com/r/androiddev/comments/1sgvgya/the_same_google_log_in_for_the_google_play_app_is/)
+- [Need help deciding if I should take the app live on playstore or keep it Closed testing.](https://www.reddit.com/r/androiddev/comments/1sgudc5/need_help_deciding_if_i_should_take_the_app_live/)
+- [Experienced Android devs, is this field worth the time you&#39;ve invested?](https://www.reddit.com/r/androiddev/comments/1sgsko1/experienced_android_devs_is_this_field_worth_the/)
+- [Android Studio Panda 4 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1sgs0td/android_studio_panda_4_canary_4_now_available/)
+- [How can i make a custom QR code reader for android](https://www.reddit.com/r/androiddev/comments/1sgq38d/how_can_i_make_a_custom_qr_code_reader_for_android/)
+- [Can I use Realm DB with 36 Sdk?](https://www.reddit.com/r/androiddev/comments/1sglx9q/can_i_use_realm_db_with_36_sdk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
