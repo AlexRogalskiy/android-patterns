@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to fix Unsupported changes in com.example.... when doing Changes in Compose doesn&#39;t work instantly](https://www.reddit.com/r/androiddev/comments/1sh7vxe/how_to_fix_unsupported_changes_in_comexample_when/)
-- [Gemini PRO on Android Studio](https://www.reddit.com/r/androiddev/comments/1sh6sum/gemini_pro_on_android_studio/)
-- [Why isn&#39;t queryPurchaseHistory removal being talked about?](https://www.reddit.com/r/androiddev/comments/1sgzd4h/why_isnt_querypurchasehistory_removal_being/)
-- [Binary serialization library](https://www.reddit.com/r/androiddev/comments/1sgxvd4/binary_serialization_library/)
-- [The same Google log in for the Google Play app is an Internal Track tester on one device and a normal production user on another device: how is it possible?](https://www.reddit.com/r/androiddev/comments/1sgvgya/the_same_google_log_in_for_the_google_play_app_is/)
-- [Need help deciding if I should take the app live on playstore or keep it Closed testing.](https://www.reddit.com/r/androiddev/comments/1sgudc5/need_help_deciding_if_i_should_take_the_app_live/)
-- [Experienced Android devs, is this field worth the time you&#39;ve invested?](https://www.reddit.com/r/androiddev/comments/1sgsko1/experienced_android_devs_is_this_field_worth_the/)
-- [Android Studio Panda 4 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1sgs0td/android_studio_panda_4_canary_4_now_available/)
-- [How can i make a custom QR code reader for android](https://www.reddit.com/r/androiddev/comments/1sgq38d/how_can_i_make_a_custom_qr_code_reader_for_android/)
-- [Can I use Realm DB with 36 Sdk?](https://www.reddit.com/r/androiddev/comments/1sglx9q/can_i_use_realm_db_with_36_sdk/)
+- [Track parameter and state changes of Composable functions in logcat at runtime.](https://www.reddit.com/r/androiddev/comments/1si6hww/track_parameter_and_state_changes_of_composable/)
+- [Any options that allow to develop Android apps without Android Studio?](https://www.reddit.com/r/androiddev/comments/1si1pdk/any_options_that_allow_to_develop_android_apps/)
+- [Do I need to provide credentials in &quot;App Access&quot; section?](https://www.reddit.com/r/androiddev/comments/1shyt62/do_i_need_to_provide_credentials_in_app_access/)
+- [30 second Android startup time — Vite/React app wrapped in a WebView](https://www.reddit.com/r/androiddev/comments/1shwqhy/30_second_android_startup_time_vitereact_app/)
+- [Need Help with Android App Monitoring](https://www.reddit.com/r/androiddev/comments/1shw2cu/need_help_with_android_app_monitoring/)
+- [Episteme: Open Source, Document and E-Book Reader App](https://www.reddit.com/r/androiddev/comments/1sht18r/episteme_open_source_document_and_ebook_reader_app/)
+- [Just released a set of 150+ reusable haptic patterns for Android](https://www.reddit.com/r/androiddev/comments/1shoq0o/just_released_a_set_of_150_reusable_haptic/)
+- [Blink-speed Compose Hot Reload](https://www.reddit.com/r/androiddev/comments/1shlrv4/blinkspeed_compose_hot_reload/)
+- [Building a Clean Media Playback Manager on Android](https://www.reddit.com/r/androiddev/comments/1shlnf3/building_a_clean_media_playback_manager_on_android/)
+- [Recommended approach for adding vendor-specific Vehicle Properties in AAOS](https://www.reddit.com/r/androiddev/comments/1shlc1z/recommended_approach_for_adding_vendorspecific/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
