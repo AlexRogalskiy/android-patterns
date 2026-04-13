@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Track parameter and state changes of Composable functions in logcat at runtime.](https://www.reddit.com/r/androiddev/comments/1si6hww/track_parameter_and_state_changes_of_composable/)
-- [Any options that allow to develop Android apps without Android Studio?](https://www.reddit.com/r/androiddev/comments/1si1pdk/any_options_that_allow_to_develop_android_apps/)
-- [Do I need to provide credentials in &quot;App Access&quot; section?](https://www.reddit.com/r/androiddev/comments/1shyt62/do_i_need_to_provide_credentials_in_app_access/)
-- [30 second Android startup time — Vite/React app wrapped in a WebView](https://www.reddit.com/r/androiddev/comments/1shwqhy/30_second_android_startup_time_vitereact_app/)
-- [Need Help with Android App Monitoring](https://www.reddit.com/r/androiddev/comments/1shw2cu/need_help_with_android_app_monitoring/)
-- [Episteme: Open Source, Document and E-Book Reader App](https://www.reddit.com/r/androiddev/comments/1sht18r/episteme_open_source_document_and_ebook_reader_app/)
-- [Just released a set of 150+ reusable haptic patterns for Android](https://www.reddit.com/r/androiddev/comments/1shoq0o/just_released_a_set_of_150_reusable_haptic/)
-- [Blink-speed Compose Hot Reload](https://www.reddit.com/r/androiddev/comments/1shlrv4/blinkspeed_compose_hot_reload/)
-- [Building a Clean Media Playback Manager on Android](https://www.reddit.com/r/androiddev/comments/1shlnf3/building_a_clean_media_playback_manager_on_android/)
-- [Recommended approach for adding vendor-specific Vehicle Properties in AAOS](https://www.reddit.com/r/androiddev/comments/1shlc1z/recommended_approach_for_adding_vendorspecific/)
+- [What would you suggest to a noob vibecoder like me to put in my android apps focused agents.MD file?](https://www.reddit.com/r/androiddev/comments/1sjvssi/what_would_you_suggest_to_a_noob_vibecoder_like/)
+- [Stream ARCore frames to rerun.io for frame-by-frame AR debugging &lpar;SceneView, Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1sjsd2h/stream_arcore_frames_to_rerunio_for_framebyframe/)
+- [AAOSP: MCP as a First-Class Android Citizen + Local LLM](https://www.reddit.com/r/androiddev/comments/1sjpifi/aaosp_mcp_as_a_firstclass_android_citizen_local/)
+- [Built a private gallery app with decoy PIN access — curious how you&#39;d approach this on Android](https://www.reddit.com/r/androiddev/comments/1sjos3g/built_a_private_gallery_app_with_decoy_pin_access/)
+- [WebUlation: An open-source launcher treating WebViews like native console games &lpar;Kotlin + Room&rpar;](https://www.reddit.com/r/androiddev/comments/1sjnmyu/webulation_an_opensource_launcher_treating/)
+- [Have you migrated to the new large adaptive anchored banner??](https://www.reddit.com/r/androiddev/comments/1sjk7qr/have_you_migrated_to_the_new_large_adaptive/)
+- [University App](https://www.reddit.com/r/androiddev/comments/1sjk5e2/university_app/)
+- [Someone copied my app idea: how do you deal with this?](https://www.reddit.com/r/androiddev/comments/1sjggyo/someone_copied_my_app_idea_how_do_you_deal_with/)
+- [Is Jenkins still the standard for Android CI/CD in 2026?](https://www.reddit.com/r/androiddev/comments/1sjg7ny/is_jenkins_still_the_standard_for_android_cicd_in/)
+- [Open-source SDK that lets LLMs control Android phones](https://www.reddit.com/r/androiddev/comments/1sje6eq/opensource_sdk_that_lets_llms_control_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
