@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What would you suggest to a noob vibecoder like me to put in my android apps focused agents.MD file?](https://www.reddit.com/r/androiddev/comments/1sjvssi/what_would_you_suggest_to_a_noob_vibecoder_like/)
-- [Stream ARCore frames to rerun.io for frame-by-frame AR debugging &lpar;SceneView, Jetpack Compose&rpar;](https://www.reddit.com/r/androiddev/comments/1sjsd2h/stream_arcore_frames_to_rerunio_for_framebyframe/)
-- [AAOSP: MCP as a First-Class Android Citizen + Local LLM](https://www.reddit.com/r/androiddev/comments/1sjpifi/aaosp_mcp_as_a_firstclass_android_citizen_local/)
-- [Built a private gallery app with decoy PIN access — curious how you&#39;d approach this on Android](https://www.reddit.com/r/androiddev/comments/1sjos3g/built_a_private_gallery_app_with_decoy_pin_access/)
-- [WebUlation: An open-source launcher treating WebViews like native console games &lpar;Kotlin + Room&rpar;](https://www.reddit.com/r/androiddev/comments/1sjnmyu/webulation_an_opensource_launcher_treating/)
-- [Have you migrated to the new large adaptive anchored banner??](https://www.reddit.com/r/androiddev/comments/1sjk7qr/have_you_migrated_to_the_new_large_adaptive/)
-- [University App](https://www.reddit.com/r/androiddev/comments/1sjk5e2/university_app/)
-- [Someone copied my app idea: how do you deal with this?](https://www.reddit.com/r/androiddev/comments/1sjggyo/someone_copied_my_app_idea_how_do_you_deal_with/)
-- [Is Jenkins still the standard for Android CI/CD in 2026?](https://www.reddit.com/r/androiddev/comments/1sjg7ny/is_jenkins_still_the_standard_for_android_cicd_in/)
-- [Open-source SDK that lets LLMs control Android phones](https://www.reddit.com/r/androiddev/comments/1sje6eq/opensource_sdk_that_lets_llms_control_android/)
+- [Does anyone know of a fix for Alarms delayed by about 2/3 mins on Samsung phones after reboot?](https://www.reddit.com/r/androiddev/comments/1srbxnu/does_anyone_know_of_a_fix_for_alarms_delayed_by/)
+- [Help me in close testing](https://www.reddit.com/r/androiddev/comments/1srbmjd/help_me_in_close_testing/)
+- [Android Studio Quail 1 Canary 1 has the new Smooth Caret Movements like VSCODE and MSWORD](https://www.reddit.com/r/androiddev/comments/1sqxy73/android_studio_quail_1_canary_1_has_the_new/)
+- [Type-safe user journey modeling library for Kotlin](https://www.reddit.com/r/androiddev/comments/1squke4/typesafe_user_journey_modeling_library_for_kotlin/)
+- [In-App/Game Visual Settings &lpar;Dynamic Resource configuration&rpar; – Keeping up low-end and high-end device support at the same time](https://www.reddit.com/r/androiddev/comments/1sqqb04/inappgame_visual_settings_dynamic_resource/)
+- [Question about Managed publishing](https://www.reddit.com/r/androiddev/comments/1sqpu2x/question_about_managed_publishing/)
+- [First time using in-app purchases: any unpleasant surprises?](https://www.reddit.com/r/androiddev/comments/1sqpmee/first_time_using_inapp_purchases_any_unpleasant/)
+- [Its been 4 months and still struggling to find a job.](https://www.reddit.com/r/androiddev/comments/1sqp9h4/its_been_4_months_and_still_struggling_to_find_a/)
+- [Issue implementing ObjectBox: Code generation silently failing &lpar;MyObjectBox not generated&rpar; with Kotlin DSL](https://www.reddit.com/r/androiddev/comments/1sqmsnp/issue_implementing_objectbox_code_generation/)
+- [IDE-Grade Coding Intelligence For Android Projects For Your Agent](https://www.reddit.com/r/androiddev/comments/1sql297/idegrade_coding_intelligence_for_android_projects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
