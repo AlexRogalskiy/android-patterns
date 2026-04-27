@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does anyone know of a fix for Alarms delayed by about 2/3 mins on Samsung phones after reboot?](https://www.reddit.com/r/androiddev/comments/1srbxnu/does_anyone_know_of_a_fix_for_alarms_delayed_by/)
-- [Help me in close testing](https://www.reddit.com/r/androiddev/comments/1srbmjd/help_me_in_close_testing/)
-- [Android Studio Quail 1 Canary 1 has the new Smooth Caret Movements like VSCODE and MSWORD](https://www.reddit.com/r/androiddev/comments/1sqxy73/android_studio_quail_1_canary_1_has_the_new/)
-- [Type-safe user journey modeling library for Kotlin](https://www.reddit.com/r/androiddev/comments/1squke4/typesafe_user_journey_modeling_library_for_kotlin/)
-- [In-App/Game Visual Settings &lpar;Dynamic Resource configuration&rpar; – Keeping up low-end and high-end device support at the same time](https://www.reddit.com/r/androiddev/comments/1sqqb04/inappgame_visual_settings_dynamic_resource/)
-- [Question about Managed publishing](https://www.reddit.com/r/androiddev/comments/1sqpu2x/question_about_managed_publishing/)
-- [First time using in-app purchases: any unpleasant surprises?](https://www.reddit.com/r/androiddev/comments/1sqpmee/first_time_using_inapp_purchases_any_unpleasant/)
-- [Its been 4 months and still struggling to find a job.](https://www.reddit.com/r/androiddev/comments/1sqp9h4/its_been_4_months_and_still_struggling_to_find_a/)
-- [Issue implementing ObjectBox: Code generation silently failing &lpar;MyObjectBox not generated&rpar; with Kotlin DSL](https://www.reddit.com/r/androiddev/comments/1sqmsnp/issue_implementing_objectbox_code_generation/)
-- [IDE-Grade Coding Intelligence For Android Projects For Your Agent](https://www.reddit.com/r/androiddev/comments/1sql297/idegrade_coding_intelligence_for_android_projects/)
+- [In a Google Ads campaign targeting Android app installation, do I only pay when an installation occurs or also per click and view?](https://www.reddit.com/r/androiddev/comments/1swprij/in_a_google_ads_campaign_targeting_android_app/)
+- [They make it seem so easy at first too, with their nice &quot;Publish your app&quot; button, hiding the eldritch monster beneath](https://www.reddit.com/r/androiddev/comments/1swmsah/they_make_it_seem_so_easy_at_first_too_with_their/)
+- [Android Studio Panda 4 &lpar;2025.3.4&rpar; marks androidx and kotlinx imports as Unresolved Reference, but app compiles and runs fine](https://www.reddit.com/r/androiddev/comments/1swlo3c/android_studio_panda_4_202534_marks_androidx_and/)
+- [I AM GETTING FRUSTRATED](https://www.reddit.com/r/androiddev/comments/1swj7q7/i_am_getting_frustrated/)
+- [Recovery doesn&#39;t recognize the zip archive.](https://www.reddit.com/r/androiddev/comments/1swiy2v/recovery_doesnt_recognize_the_zip_archive/)
+- [Sign the Petition to keep android free](https://www.reddit.com/r/androiddev/comments/1swgqa7/sign_the_petition_to_keep_android_free/)
+- [How to create a view/layout that can be expanded and collapsed?](https://www.reddit.com/r/androiddev/comments/1swfa9g/how_to_create_a_viewlayout_that_can_be_expanded/)
+- [I took a challenge to get a MacBook &amp; got my first client 💻](https://www.reddit.com/r/androiddev/comments/1swb9en/i_took_a_challenge_to_get_a_macbook_got_my_first/)
+- [I hate this mess. Is there any solution?](https://www.reddit.com/r/androiddev/comments/1swb5r4/i_hate_this_mess_is_there_any_solution/)
+- [Struggling in viewmodel and reposiotry part](https://www.reddit.com/r/androiddev/comments/1swa4vy/struggling_in_viewmodel_and_reposiotry_part/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
