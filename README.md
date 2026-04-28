@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to properly uninstall android studio files](https://www.reddit.com/r/androiddev/comments/1sxqcsf/how_to_properly_uninstall_android_studio_files/)
+- [On-Device LLM Challenges in Android Development with LiteRT-LM](https://www.reddit.com/r/androiddev/comments/1sx93ns/ondevice_llm_challenges_in_android_development/)
+- [Is Kotlin Multiplatform &lpar;KMM&rpar; actually worth using in 2026?](https://www.reddit.com/r/androiddev/comments/1sx6qkg/is_kotlin_multiplatform_kmm_actually_worth_using/)
+- [Lost ~50% of Google Play traffic almost overnight - stable conversion, looking for diagnosis](https://www.reddit.com/r/androiddev/comments/1sx4yle/lost_50_of_google_play_traffic_almost_overnight/)
+- [Got my IPTV app suspended for &quot;Copyright Infringement&quot;](https://www.reddit.com/r/androiddev/comments/1sx38wx/got_my_iptv_app_suspended_for_copyright/)
+- [I built a TUI called holo: an app inspector and profiler in the terminal](https://www.reddit.com/r/androiddev/comments/1swx6cm/i_built_a_tui_called_holo_an_app_inspector_and/)
+- [DSL for keyboard shortcuts on Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1swvck9/dsl_for_keyboard_shortcuts_on_compose/)
+- [Google I/O ticket confirmations](https://www.reddit.com/r/androiddev/comments/1swptn4/google_io_ticket_confirmations/)
 - [In a Google Ads campaign targeting Android app installation, do I only pay when an installation occurs or also per click and view?](https://www.reddit.com/r/androiddev/comments/1swprij/in_a_google_ads_campaign_targeting_android_app/)
-- [They make it seem so easy at first too, with their nice &quot;Publish your app&quot; button, hiding the eldritch monster beneath](https://www.reddit.com/r/androiddev/comments/1swmsah/they_make_it_seem_so_easy_at_first_too_with_their/)
 - [Android Studio Panda 4 &lpar;2025.3.4&rpar; marks androidx and kotlinx imports as Unresolved Reference, but app compiles and runs fine](https://www.reddit.com/r/androiddev/comments/1swlo3c/android_studio_panda_4_202534_marks_androidx_and/)
-- [I AM GETTING FRUSTRATED](https://www.reddit.com/r/androiddev/comments/1swj7q7/i_am_getting_frustrated/)
-- [Recovery doesn&#39;t recognize the zip archive.](https://www.reddit.com/r/androiddev/comments/1swiy2v/recovery_doesnt_recognize_the_zip_archive/)
-- [Sign the Petition to keep android free](https://www.reddit.com/r/androiddev/comments/1swgqa7/sign_the_petition_to_keep_android_free/)
-- [How to create a view/layout that can be expanded and collapsed?](https://www.reddit.com/r/androiddev/comments/1swfa9g/how_to_create_a_viewlayout_that_can_be_expanded/)
-- [I took a challenge to get a MacBook &amp; got my first client 💻](https://www.reddit.com/r/androiddev/comments/1swb9en/i_took_a_challenge_to_get_a_macbook_got_my_first/)
-- [I hate this mess. Is there any solution?](https://www.reddit.com/r/androiddev/comments/1swb5r4/i_hate_this_mess_is_there_any_solution/)
-- [Struggling in viewmodel and reposiotry part](https://www.reddit.com/r/androiddev/comments/1swa4vy/struggling_in_viewmodel_and_reposiotry_part/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
