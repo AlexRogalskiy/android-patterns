@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to properly uninstall android studio files](https://www.reddit.com/r/androiddev/comments/1sxqcsf/how_to_properly_uninstall_android_studio_files/)
-- [On-Device LLM Challenges in Android Development with LiteRT-LM](https://www.reddit.com/r/androiddev/comments/1sx93ns/ondevice_llm_challenges_in_android_development/)
-- [Is Kotlin Multiplatform &lpar;KMM&rpar; actually worth using in 2026?](https://www.reddit.com/r/androiddev/comments/1sx6qkg/is_kotlin_multiplatform_kmm_actually_worth_using/)
-- [Lost ~50% of Google Play traffic almost overnight - stable conversion, looking for diagnosis](https://www.reddit.com/r/androiddev/comments/1sx4yle/lost_50_of_google_play_traffic_almost_overnight/)
-- [Got my IPTV app suspended for &quot;Copyright Infringement&quot;](https://www.reddit.com/r/androiddev/comments/1sx38wx/got_my_iptv_app_suspended_for_copyright/)
-- [I built a TUI called holo: an app inspector and profiler in the terminal](https://www.reddit.com/r/androiddev/comments/1swx6cm/i_built_a_tui_called_holo_an_app_inspector_and/)
-- [DSL for keyboard shortcuts on Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1swvck9/dsl_for_keyboard_shortcuts_on_compose/)
-- [Google I/O ticket confirmations](https://www.reddit.com/r/androiddev/comments/1swptn4/google_io_ticket_confirmations/)
-- [In a Google Ads campaign targeting Android app installation, do I only pay when an installation occurs or also per click and view?](https://www.reddit.com/r/androiddev/comments/1swprij/in_a_google_ads_campaign_targeting_android_app/)
-- [Android Studio Panda 4 &lpar;2025.3.4&rpar; marks androidx and kotlinx imports as Unresolved Reference, but app compiles and runs fine](https://www.reddit.com/r/androiddev/comments/1swlo3c/android_studio_panda_4_202534_marks_androidx_and/)
+- [How do you identify the correct dependencies when starting a new project?](https://www.reddit.com/r/androiddev/comments/1t7tasd/how_do_you_identify_the_correct_dependencies_when/)
+- [I need Help positng my app](https://www.reddit.com/r/androiddev/comments/1t7s4rc/i_need_help_positng_my_app/)
+- [I opensource a GPU Shader Library in Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1t7f9k9/i_opensource_a_gpu_shader_library_in_compose/)
+- [People removing my app, in my first week I got a lot of downloads but the removal is high](https://www.reddit.com/r/androiddev/comments/1t7f4rb/people_removing_my_app_in_my_first_week_i_got_a/)
+- [Alternatives to Google Fused Orientation Provider](https://www.reddit.com/r/androiddev/comments/1t7evgl/alternatives_to_google_fused_orientation_provider/)
+- [Help: Mistakenly created an App in GPlay Console with Wrong Package Name](https://www.reddit.com/r/androiddev/comments/1t7e97o/help_mistakenly_created_an_app_in_gplay_console/)
+- [DeepSeek in Android Studio - Error](https://www.reddit.com/r/androiddev/comments/1t7akjq/deepseek_in_android_studio_error/)
+- [I open-sourced a Google Play screenshot generator for Android apps](https://www.reddit.com/r/androiddev/comments/1t78l51/i_opensourced_a_google_play_screenshot_generator/)
+- [Is there a known issue with widgets not updating in devices like Inifix? Works fine in other devices &lpar;Samsung, pixel, etc…&rpar;](https://www.reddit.com/r/androiddev/comments/1t78717/is_there_a_known_issue_with_widgets_not_updating/)
+- [How do I change the target audience in play console?](https://www.reddit.com/r/androiddev/comments/1t73bgi/how_do_i_change_the_target_audience_in_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
