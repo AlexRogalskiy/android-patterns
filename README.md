@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you identify the correct dependencies when starting a new project?](https://www.reddit.com/r/androiddev/comments/1t7tasd/how_do_you_identify_the_correct_dependencies_when/)
-- [I need Help positng my app](https://www.reddit.com/r/androiddev/comments/1t7s4rc/i_need_help_positng_my_app/)
-- [I opensource a GPU Shader Library in Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1t7f9k9/i_opensource_a_gpu_shader_library_in_compose/)
-- [People removing my app, in my first week I got a lot of downloads but the removal is high](https://www.reddit.com/r/androiddev/comments/1t7f4rb/people_removing_my_app_in_my_first_week_i_got_a/)
-- [Alternatives to Google Fused Orientation Provider](https://www.reddit.com/r/androiddev/comments/1t7evgl/alternatives_to_google_fused_orientation_provider/)
-- [Help: Mistakenly created an App in GPlay Console with Wrong Package Name](https://www.reddit.com/r/androiddev/comments/1t7e97o/help_mistakenly_created_an_app_in_gplay_console/)
-- [DeepSeek in Android Studio - Error](https://www.reddit.com/r/androiddev/comments/1t7akjq/deepseek_in_android_studio_error/)
-- [I open-sourced a Google Play screenshot generator for Android apps](https://www.reddit.com/r/androiddev/comments/1t78l51/i_opensourced_a_google_play_screenshot_generator/)
-- [Is there a known issue with widgets not updating in devices like Inifix? Works fine in other devices &lpar;Samsung, pixel, etc…&rpar;](https://www.reddit.com/r/androiddev/comments/1t78717/is_there_a_known_issue_with_widgets_not_updating/)
-- [How do I change the target audience in play console?](https://www.reddit.com/r/androiddev/comments/1t73bgi/how_do_i_change_the_target_audience_in_play/)
+- [Showing widgets on lockscreen in Android 13+](https://www.reddit.com/r/androiddev/comments/1u1s8gk/showing_widgets_on_lockscreen_in_android_13/)
+- [Tips for production application?](https://www.reddit.com/r/androiddev/comments/1u1o7r8/tips_for_production_application/)
+- [[ADVICE] Recently got flagged](https://www.reddit.com/r/androiddev/comments/1u1gj9f/advice_recently_got_flagged/)
+- [Luban 2 ships a native .so and dropped target-size — so I maintain a pure-JVM fork &lpar;PixelDiet&rpar;](https://www.reddit.com/r/androiddev/comments/1u1c769/luban_2_ships_a_native_so_and_dropped_targetsize/)
+- [What does the pre launch report look like in analytics?](https://www.reddit.com/r/androiddev/comments/1u17d9c/what_does_the_pre_launch_report_look_like_in/)
+- [Are haptics worth the effort?](https://www.reddit.com/r/androiddev/comments/1u177v2/are_haptics_worth_the_effort/)
+- [At what point does a Compose app become difficult to maintain?](https://www.reddit.com/r/androiddev/comments/1u1730b/at_what_point_does_a_compose_app_become_difficult/)
+- [Running ads for my app - but I&#39;m not sure if these stats make any sense?](https://www.reddit.com/r/androiddev/comments/1u16r5c/running_ads_for_my_app_but_im_not_sure_if_these/)
+- [We put Kotlin Multiplatform into production at Booking.com. Here is our architectural breakdown and two real-world use cases.](https://www.reddit.com/r/androiddev/comments/1u16015/we_put_kotlin_multiplatform_into_production_at/)
+- [What app do you want me to build??](https://www.reddit.com/r/androiddev/comments/1u115ny/what_app_do_you_want_me_to_build/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
