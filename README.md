@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Showing widgets on lockscreen in Android 13+](https://www.reddit.com/r/androiddev/comments/1u1s8gk/showing_widgets_on_lockscreen_in_android_13/)
-- [Tips for production application?](https://www.reddit.com/r/androiddev/comments/1u1o7r8/tips_for_production_application/)
-- [[ADVICE] Recently got flagged](https://www.reddit.com/r/androiddev/comments/1u1gj9f/advice_recently_got_flagged/)
-- [Luban 2 ships a native .so and dropped target-size — so I maintain a pure-JVM fork &lpar;PixelDiet&rpar;](https://www.reddit.com/r/androiddev/comments/1u1c769/luban_2_ships_a_native_so_and_dropped_targetsize/)
-- [What does the pre launch report look like in analytics?](https://www.reddit.com/r/androiddev/comments/1u17d9c/what_does_the_pre_launch_report_look_like_in/)
-- [Are haptics worth the effort?](https://www.reddit.com/r/androiddev/comments/1u177v2/are_haptics_worth_the_effort/)
-- [At what point does a Compose app become difficult to maintain?](https://www.reddit.com/r/androiddev/comments/1u1730b/at_what_point_does_a_compose_app_become_difficult/)
-- [Running ads for my app - but I&#39;m not sure if these stats make any sense?](https://www.reddit.com/r/androiddev/comments/1u16r5c/running_ads_for_my_app_but_im_not_sure_if_these/)
-- [We put Kotlin Multiplatform into production at Booking.com. Here is our architectural breakdown and two real-world use cases.](https://www.reddit.com/r/androiddev/comments/1u16015/we_put_kotlin_multiplatform_into_production_at/)
-- [What app do you want me to build??](https://www.reddit.com/r/androiddev/comments/1u115ny/what_app_do_you_want_me_to_build/)
+- [Angled linear gradients in Compose - am I missing something?](https://www.reddit.com/r/androiddev/comments/1u48l93/angled_linear_gradients_in_compose_am_i_missing/)
+- [Did some reverse engineering into GCAM and it actually worked](https://www.reddit.com/r/androiddev/comments/1u44z0k/did_some_reverse_engineering_into_gcam_and_it/)
+- [The ultimate Google Play Console nightmare: Account disabled, reinstated, and now stuck in a locked loop.](https://www.reddit.com/r/androiddev/comments/1u44mjy/the_ultimate_google_play_console_nightmare/)
+- [How do you explain nearby-device and location permissions for signal-related Android apps?](https://www.reddit.com/r/androiddev/comments/1u3y5c4/how_do_you_explain_nearbydevice_and_location/)
+- [How can i start my Android Developer Freelancer Journey or its just too late ???](https://www.reddit.com/r/androiddev/comments/1u3weex/how_can_i_start_my_android_developer_freelancer/)
+- [I&#39;m really confused on the obfuscation / deobfuscation!?](https://www.reddit.com/r/androiddev/comments/1u3vdb0/im_really_confused_on_the_obfuscation/)
+- [Help a university student with a 2-minute survey on productivity and time management](https://www.reddit.com/r/androiddev/comments/1u3uwr7/help_a_university_student_with_a_2minute_survey/)
+- [Introducing Blueprint Compose Preview 📝🚀](https://www.reddit.com/r/androiddev/comments/1u3shbb/introducing_blueprint_compose_preview/)
+- [Reviews not showing](https://www.reddit.com/r/androiddev/comments/1u3qciz/reviews_not_showing/)
+- [How do AI GF/BF apps exists on Google Play?](https://www.reddit.com/r/androiddev/comments/1u3o99l/how_do_ai_gfbf_apps_exists_on_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
