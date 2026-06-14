@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hi Android developers, i need to create a app that helps in app cloning and virtual running like multiple account](https://www.reddit.com/r/androiddev/comments/1u5a69r/hi_android_developers_i_need_to_create_a_app_that/)
+- [Moving from React/Web to Android. How do Compose teams replicate the Storybook workflow? &lpar;Central catalog, mocking, docs, visual testing&rpar;](https://www.reddit.com/r/androiddev/comments/1u57q9c/moving_from_reactweb_to_android_how_do_compose/)
+- [Switching from AS Panda 2 to a more recent version?](https://www.reddit.com/r/androiddev/comments/1u4y3zb/switching_from_as_panda_2_to_a_more_recent_version/)
+- [What you think of this UI????](https://www.reddit.com/r/androiddev/comments/1u4x4c5/what_you_think_of_this_ui/)
+- [Need help ! How to make my App visible](https://www.reddit.com/r/androiddev/comments/1u4vzm4/need_help_how_to_make_my_app_visible/)
+- [Angled linear gradients in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1u4unu0/angled_linear_gradients_in_jetpack_compose/)
+- [How do you handle inciting/prompting app updates ?](https://www.reddit.com/r/androiddev/comments/1u4say6/how_do_you_handle_incitingprompting_app_updates/)
+- [Catch up and keep yourself up to date in Android](https://www.reddit.com/r/androiddev/comments/1u4nfzt/catch_up_and_keep_yourself_up_to_date_in_android/)
+- [Looking for Wearables i can Read. Without using Gatebridge.](https://www.reddit.com/r/androiddev/comments/1u4l5y3/looking_for_wearables_i_can_read_without_using/)
 - [Angled linear gradients in Compose - am I missing something?](https://www.reddit.com/r/androiddev/comments/1u48l93/angled_linear_gradients_in_compose_am_i_missing/)
-- [Did some reverse engineering into GCAM and it actually worked](https://www.reddit.com/r/androiddev/comments/1u44z0k/did_some_reverse_engineering_into_gcam_and_it/)
-- [The ultimate Google Play Console nightmare: Account disabled, reinstated, and now stuck in a locked loop.](https://www.reddit.com/r/androiddev/comments/1u44mjy/the_ultimate_google_play_console_nightmare/)
-- [How do you explain nearby-device and location permissions for signal-related Android apps?](https://www.reddit.com/r/androiddev/comments/1u3y5c4/how_do_you_explain_nearbydevice_and_location/)
-- [How can i start my Android Developer Freelancer Journey or its just too late ???](https://www.reddit.com/r/androiddev/comments/1u3weex/how_can_i_start_my_android_developer_freelancer/)
-- [I&#39;m really confused on the obfuscation / deobfuscation!?](https://www.reddit.com/r/androiddev/comments/1u3vdb0/im_really_confused_on_the_obfuscation/)
-- [Help a university student with a 2-minute survey on productivity and time management](https://www.reddit.com/r/androiddev/comments/1u3uwr7/help_a_university_student_with_a_2minute_survey/)
-- [Introducing Blueprint Compose Preview 📝🚀](https://www.reddit.com/r/androiddev/comments/1u3shbb/introducing_blueprint_compose_preview/)
-- [Reviews not showing](https://www.reddit.com/r/androiddev/comments/1u3qciz/reviews_not_showing/)
-- [How do AI GF/BF apps exists on Google Play?](https://www.reddit.com/r/androiddev/comments/1u3o99l/how_do_ai_gfbf_apps_exists_on_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
