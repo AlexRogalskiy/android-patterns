@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hi Android developers, i need to create a app that helps in app cloning and virtual running like multiple account](https://www.reddit.com/r/androiddev/comments/1u5a69r/hi_android_developers_i_need_to_create_a_app_that/)
+- [Tired of over-processed Android photos? I built ProCameraX—a custom camera app with true Ultra HDR, 10-bit Video, and Auto Night Mode &lpar;Built with Antigravity AI &amp; Gemini&rpar;](https://www.reddit.com/r/androiddev/comments/1u6544z/tired_of_overprocessed_android_photos_i_built/)
+- [Testing App Link on local / dev environment](https://www.reddit.com/r/androiddev/comments/1u60738/testing_app_link_on_local_dev_environment/)
+- [Health Connect RemoteException quota exceeded on first read &lpar;API 33 and below&rpar; — works fine on API 34](https://www.reddit.com/r/androiddev/comments/1u5xf7f/health_connect_remoteexception_quota_exceeded_on/)
+- [Google Play app available on Motorola/Oppo but not Samsung/Xiaomi – &quot;Item isn&#39;t available&quot;](https://www.reddit.com/r/androiddev/comments/1u5wsuv/google_play_app_available_on_motorolaoppo_but_not/)
+- [Free Open Source Skill to generate aesthetic play store screenshots](https://www.reddit.com/r/androiddev/comments/1u5qfss/free_open_source_skill_to_generate_aesthetic_play/)
+- [Android Developers Are Sleeping on Claude Code + Figma](https://www.reddit.com/r/androiddev/comments/1u5nliz/android_developers_are_sleeping_on_claude_code/)
+- [Event Driven UI](https://www.reddit.com/r/androiddev/comments/1u5nhjd/event_driven_ui/)
+- [Do we even need a viewmodel in modern compose?](https://www.reddit.com/r/androiddev/comments/1u5msfb/do_we_even_need_a_viewmodel_in_modern_compose/)
 - [Moving from React/Web to Android. How do Compose teams replicate the Storybook workflow? &lpar;Central catalog, mocking, docs, visual testing&rpar;](https://www.reddit.com/r/androiddev/comments/1u57q9c/moving_from_reactweb_to_android_how_do_compose/)
 - [Switching from AS Panda 2 to a more recent version?](https://www.reddit.com/r/androiddev/comments/1u4y3zb/switching_from_as_panda_2_to_a_more_recent_version/)
-- [What you think of this UI????](https://www.reddit.com/r/androiddev/comments/1u4x4c5/what_you_think_of_this_ui/)
-- [Need help ! How to make my App visible](https://www.reddit.com/r/androiddev/comments/1u4vzm4/need_help_how_to_make_my_app_visible/)
-- [Angled linear gradients in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1u4unu0/angled_linear_gradients_in_jetpack_compose/)
-- [How do you handle inciting/prompting app updates ?](https://www.reddit.com/r/androiddev/comments/1u4say6/how_do_you_handle_incitingprompting_app_updates/)
-- [Catch up and keep yourself up to date in Android](https://www.reddit.com/r/androiddev/comments/1u4nfzt/catch_up_and_keep_yourself_up_to_date_in_android/)
-- [Looking for Wearables i can Read. Without using Gatebridge.](https://www.reddit.com/r/androiddev/comments/1u4l5y3/looking_for_wearables_i_can_read_without_using/)
-- [Angled linear gradients in Compose - am I missing something?](https://www.reddit.com/r/androiddev/comments/1u48l93/angled_linear_gradients_in_compose_am_i_missing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
