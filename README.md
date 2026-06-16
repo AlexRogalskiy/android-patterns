@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kore1.0.0-alpha03 is out now](https://www.reddit.com/r/androiddev/comments/1u74y61/kore100alpha03_is_out_now/)
+- [How are you handling access to real Android devices in 2026?](https://www.reddit.com/r/androiddev/comments/1u6ywga/how_are_you_handling_access_to_real_android/)
+- [Super-minor update stuck in app review](https://www.reddit.com/r/androiddev/comments/1u6kolg/superminor_update_stuck_in_app_review/)
+- [Implemented MPTCP &lpar;v0&rpar; on Android 13 kernel &lpar;Redmi Note 7S / lavender&rpar; Source available](https://www.reddit.com/r/androiddev/comments/1u6h90v/implemented_mptcp_v0_on_android_13_kernel_redmi/)
+- [Help please , Android Studio quit unexpectedly.](https://www.reddit.com/r/androiddev/comments/1u6fsb7/help_please_android_studio_quit_unexpectedly/)
+- [Getting frustrated while configuring everything in the Play Console](https://www.reddit.com/r/androiddev/comments/1u6ffj5/getting_frustrated_while_configuring_everything/)
+- [Image Loading Library](https://www.reddit.com/r/androiddev/comments/1u6cikh/image_loading_library/)
+- [[Kotlin/Android] Can&#39;t get a circular ImageView with a gallery photo to work properly](https://www.reddit.com/r/androiddev/comments/1u6ay6i/kotlinandroid_cant_get_a_circular_imageview_with/)
 - [Tired of over-processed Android photos? I built ProCameraX—a custom camera app with true Ultra HDR, 10-bit Video, and Auto Night Mode &lpar;Built with Antigravity AI &amp; Gemini&rpar;](https://www.reddit.com/r/androiddev/comments/1u6544z/tired_of_overprocessed_android_photos_i_built/)
 - [Testing App Link on local / dev environment](https://www.reddit.com/r/androiddev/comments/1u60738/testing_app_link_on_local_dev_environment/)
-- [Health Connect RemoteException quota exceeded on first read &lpar;API 33 and below&rpar; — works fine on API 34](https://www.reddit.com/r/androiddev/comments/1u5xf7f/health_connect_remoteexception_quota_exceeded_on/)
-- [Google Play app available on Motorola/Oppo but not Samsung/Xiaomi – &quot;Item isn&#39;t available&quot;](https://www.reddit.com/r/androiddev/comments/1u5wsuv/google_play_app_available_on_motorolaoppo_but_not/)
-- [Free Open Source Skill to generate aesthetic play store screenshots](https://www.reddit.com/r/androiddev/comments/1u5qfss/free_open_source_skill_to_generate_aesthetic_play/)
-- [Android Developers Are Sleeping on Claude Code + Figma](https://www.reddit.com/r/androiddev/comments/1u5nliz/android_developers_are_sleeping_on_claude_code/)
-- [Event Driven UI](https://www.reddit.com/r/androiddev/comments/1u5nhjd/event_driven_ui/)
-- [Do we even need a viewmodel in modern compose?](https://www.reddit.com/r/androiddev/comments/1u5msfb/do_we_even_need_a_viewmodel_in_modern_compose/)
-- [Moving from React/Web to Android. How do Compose teams replicate the Storybook workflow? &lpar;Central catalog, mocking, docs, visual testing&rpar;](https://www.reddit.com/r/androiddev/comments/1u57q9c/moving_from_reactweb_to_android_how_do_compose/)
-- [Switching from AS Panda 2 to a more recent version?](https://www.reddit.com/r/androiddev/comments/1u4y3zb/switching_from_as_panda_2_to_a_more_recent_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
