@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just got back into making apps again, got question about Aptoide Connect.](https://www.reddit.com/r/androiddev/comments/1u7wvzz/just_got_back_into_making_apps_again_got_question/)
+- [Appeal approved but still locked out — &quot;Too many failed attempts&quot; won&#39;t clear after 24hrs](https://www.reddit.com/r/androiddev/comments/1u8dxvf/appeal_approved_but_still_locked_out_too_many/)
+- [I&#39;m experimenting with original app layouts for my android launcher](https://www.reddit.com/r/androiddev/comments/1u8dmm9/im_experimenting_with_original_app_layouts_for_my/)
+- [Collection Literals in Kotlin 2.4](https://www.reddit.com/r/androiddev/comments/1u8dacj/collection_literals_in_kotlin_24/)
+- [Android Studio Quail 2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1u8cjeq/android_studio_quail_2_rc_1_now_available/)
+- [Anyone outside Play actually changing how they ship before September?](https://www.reddit.com/r/androiddev/comments/1u87p2w/anyone_outside_play_actually_changing_how_they/)
+- [How I handle dual transcription modes &lpar;cloud + on-device&rpar; in a privacy-first Kotlin Multiplatform app](https://www.reddit.com/r/androiddev/comments/1u84q1v/how_i_handle_dual_transcription_modes_cloud/)
+- [How to implement &quot;AI-like&quot; glow effect around views?](https://www.reddit.com/r/androiddev/comments/1u84f4y/how_to_implement_ailike_glow_effect_around_views/)
+- [Android Automotive: How to implement OEM Design Tokens?](https://www.reddit.com/r/androiddev/comments/1u84aea/android_automotive_how_to_implement_oem_design/)
+- [Repost - &quot;mkapk&quot; liteweight android build system for termux &lpar;Now Open Source&rpar;](https://www.reddit.com/r/androiddev/comments/1u81a0o/repost_mkapk_liteweight_android_build_system_for/)
 - [anyone dealt with table reconstruction from OCR bounding boxes in Kotlin?](https://www.reddit.com/r/androiddev/comments/1u7ugst/anyone_dealt_with_table_reconstruction_from_ocr/)
-- [Android 17 Linux Terminal Updated](https://www.reddit.com/r/androiddev/comments/1u7sieh/android_17_linux_terminal_updated/)
-- [OpenGL ES or Vulkan for an Android streaming/recording app? &lpar;Just curious what you&#39;d pick&rpar;](https://www.reddit.com/r/androiddev/comments/1u7mzgc/opengl_es_or_vulkan_for_an_android/)
-- [Android Studio Quail 1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1u7kz8x/android_studio_quail_1_patch_2_now_available/)
-- [Anyway to reset play store rating?](https://www.reddit.com/r/androiddev/comments/1u7kubv/anyway_to_reset_play_store_rating/)
-- [Slot-Based Composable Pattern in Jetpack Compose 🚀](https://www.reddit.com/r/androiddev/comments/1u7h7ih/slotbased_composable_pattern_in_jetpack_compose/)
-- [Bill Desk payment profile verification in progress](https://www.reddit.com/r/androiddev/comments/1u7ce6c/bill_desk_payment_profile_verification_in_progress/)
-- [Recently published an app to the Play Store? JetBrains wants to hear from you!](https://www.reddit.com/r/androiddev/comments/1u7bn4c/recently_published_an_app_to_the_play_store/)
-- [REapk, a super fast APK &lt;-&gt; Dex decompiler/recompiler](https://www.reddit.com/r/androiddev/comments/1u79kx8/reapk_a_super_fast_apk_dex_decompilerrecompiler/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
