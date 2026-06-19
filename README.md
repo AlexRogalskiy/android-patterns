@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Appeal approved but still locked out — &quot;Too many failed attempts&quot; won&#39;t clear after 24hrs](https://www.reddit.com/r/androiddev/comments/1u8dxvf/appeal_approved_but_still_locked_out_too_many/)
-- [I&#39;m experimenting with original app layouts for my android launcher](https://www.reddit.com/r/androiddev/comments/1u8dmm9/im_experimenting_with_original_app_layouts_for_my/)
-- [Collection Literals in Kotlin 2.4](https://www.reddit.com/r/androiddev/comments/1u8dacj/collection_literals_in_kotlin_24/)
-- [Android Studio Quail 2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1u8cjeq/android_studio_quail_2_rc_1_now_available/)
-- [Anyone outside Play actually changing how they ship before September?](https://www.reddit.com/r/androiddev/comments/1u87p2w/anyone_outside_play_actually_changing_how_they/)
-- [How I handle dual transcription modes &lpar;cloud + on-device&rpar; in a privacy-first Kotlin Multiplatform app](https://www.reddit.com/r/androiddev/comments/1u84q1v/how_i_handle_dual_transcription_modes_cloud/)
-- [How to implement &quot;AI-like&quot; glow effect around views?](https://www.reddit.com/r/androiddev/comments/1u84f4y/how_to_implement_ailike_glow_effect_around_views/)
-- [Android Automotive: How to implement OEM Design Tokens?](https://www.reddit.com/r/androiddev/comments/1u84aea/android_automotive_how_to_implement_oem_design/)
-- [Repost - &quot;mkapk&quot; liteweight android build system for termux &lpar;Now Open Source&rpar;](https://www.reddit.com/r/androiddev/comments/1u81a0o/repost_mkapk_liteweight_android_build_system_for/)
-- [anyone dealt with table reconstruction from OCR bounding boxes in Kotlin?](https://www.reddit.com/r/androiddev/comments/1u7ugst/anyone_dealt_with_table_reconstruction_from_ocr/)
+- [been using remote real Android devices for testing — way better than emulators for certain things](https://www.reddit.com/r/androiddev/comments/1u9tnta/been_using_remote_real_android_devices_for/)
+- [M1 Pro or newer MacBook Air?](https://www.reddit.com/r/androiddev/comments/1u9qmsz/m1_pro_or_newer_macbook_air/)
+- [Why passing List to your Composables is secretly killing your performance &lpar;and how to fix it&rpar;](https://www.reddit.com/r/androiddev/comments/1u9gveo/why_passing_list_to_your_composables_is_secretly/)
+- [Android Studio Quail 3 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1u9a6r5/android_studio_quail_3_canary_1_now_available/)
+- [Seek-able perimeter progress bar](https://www.reddit.com/r/androiddev/comments/1u96hqs/seekable_perimeter_progress_bar/)
+- [Lessons learned building audio playback and lyrics synchronization in Android](https://www.reddit.com/r/androiddev/comments/1u94oud/lessons_learned_building_audio_playback_and/)
+- [Composables UI: modern, accessible components for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1u94kew/composables_ui_modern_accessible_components_for/)
+- [Trying to add haptics to Android app but it&#39;s killing me.. Any tools or tips recommended?](https://www.reddit.com/r/androiddev/comments/1u94cdv/trying_to_add_haptics_to_android_app_but_its/)
+- [how are you all tracking your app store reviews?](https://www.reddit.com/r/androiddev/comments/1u91dxr/how_are_you_all_tracking_your_app_store_reviews/)
+- [[Book] Jetpack Compose Mechanisms: A dissection of what runs beneath every Composable](https://www.reddit.com/r/androiddev/comments/1u8yrzr/book_jetpack_compose_mechanisms_a_dissection_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
