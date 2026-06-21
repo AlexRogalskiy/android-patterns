@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My Kotlin stack after 2 years solo - this language is such a joy](https://www.reddit.com/r/androiddev/comments/1uahrlm/my_kotlin_stack_after_2_years_solo_this_language/)
-- [From Android Developer to Software Tester – Does It Make Sense?](https://www.reddit.com/r/androiddev/comments/1uaezxy/from_android_developer_to_software_tester_does_it/)
-- [Mobile has no rollback button. I tried to build one for native Android, am i into something ?](https://www.reddit.com/r/androiddev/comments/1ua5ov0/mobile_has_no_rollback_button_i_tried_to_build/)
-- [Where is the AI Migration Assistant for iOS to Android? &lpar;Quail Canary&rpar;](https://www.reddit.com/r/androiddev/comments/1ua0r1d/where_is_the_ai_migration_assistant_for_ios_to/)
-- [Working on a mobile-focused Obsidian alternative. How should I handle sync and Analytics?](https://www.reddit.com/r/androiddev/comments/1u9xbqi/working_on_a_mobilefocused_obsidian_alternative/)
-- [After a few weeks of solo development, I finally launched my first Android app. I built a gamified Pomodoro timer, and I’d love to get your feedback on the UI and architecture!](https://www.reddit.com/r/androiddev/comments/1u9x71m/after_a_few_weeks_of_solo_development_i_finally/)
-- [Android Internals from Scratch](https://www.reddit.com/r/androiddev/comments/1u9uj9q/android_internals_from_scratch/)
-- [been using remote real Android devices for testing — way better than emulators for certain things](https://www.reddit.com/r/androiddev/comments/1u9tnta/been_using_remote_real_android_devices_for/)
-- [M1 Pro or newer MacBook Air?](https://www.reddit.com/r/androiddev/comments/1u9qmsz/m1_pro_or_newer_macbook_air/)
-- [Why passing List to your Composables is secretly killing your performance &lpar;and how to fix it&rpar;](https://www.reddit.com/r/androiddev/comments/1u9gveo/why_passing_list_to_your_composables_is_secretly/)
+- [Android app memory limits in place from Android 17](https://www.reddit.com/r/androiddev/comments/1ubgnw0/android_app_memory_limits_in_place_from_android_17/)
+- [Do you have Ask Play / Gemini Highlights in the Play Store search yet?](https://www.reddit.com/r/androiddev/comments/1ubbblx/do_you_have_ask_play_gemini_highlights_in_the/)
+- [How long are first production reviews currently taking for new Google Play developer accounts?](https://www.reddit.com/r/androiddev/comments/1ub7hsj/how_long_are_first_production_reviews_currently/)
+- [Looking for feedback on the architecture of my Android article reader](https://www.reddit.com/r/androiddev/comments/1ub67j2/looking_for_feedback_on_the_architecture_of_my/)
+- [Request for technical assistance: Google Play Console access for emancipated minor](https://www.reddit.com/r/androiddev/comments/1ub4iim/request_for_technical_assistance_google_play/)
+- [An app to search other apps](https://www.reddit.com/r/androiddev/comments/1uaz7dp/an_app_to_search_other_apps/)
+- [Will Google refuse my app if there&#39;s a problem in horizontal mode?](https://www.reddit.com/r/androiddev/comments/1uau3c4/will_google_refuse_my_app_if_theres_a_problem_in/)
+- [Built an Android Accessibility App for Visually Impaired Users using Google ML Kit – Looking for Feedback](https://www.reddit.com/r/androiddev/comments/1uar5u2/built_an_android_accessibility_app_for_visually/)
+- [Uploading Android Studio to Google Playstore. Different Upload Keys](https://www.reddit.com/r/androiddev/comments/1uapwh4/uploading_android_studio_to_google_playstore/)
+- [feeling guilty](https://www.reddit.com/r/androiddev/comments/1uaozke/feeling_guilty/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
