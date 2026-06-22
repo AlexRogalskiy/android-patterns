@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android app memory limits in place from Android 17](https://www.reddit.com/r/androiddev/comments/1ubgnw0/android_app_memory_limits_in_place_from_android_17/)
-- [Do you have Ask Play / Gemini Highlights in the Play Store search yet?](https://www.reddit.com/r/androiddev/comments/1ubbblx/do_you_have_ask_play_gemini_highlights_in_the/)
-- [How long are first production reviews currently taking for new Google Play developer accounts?](https://www.reddit.com/r/androiddev/comments/1ub7hsj/how_long_are_first_production_reviews_currently/)
-- [Looking for feedback on the architecture of my Android article reader](https://www.reddit.com/r/androiddev/comments/1ub67j2/looking_for_feedback_on_the_architecture_of_my/)
-- [Request for technical assistance: Google Play Console access for emancipated minor](https://www.reddit.com/r/androiddev/comments/1ub4iim/request_for_technical_assistance_google_play/)
-- [An app to search other apps](https://www.reddit.com/r/androiddev/comments/1uaz7dp/an_app_to_search_other_apps/)
-- [Will Google refuse my app if there&#39;s a problem in horizontal mode?](https://www.reddit.com/r/androiddev/comments/1uau3c4/will_google_refuse_my_app_if_theres_a_problem_in/)
-- [Built an Android Accessibility App for Visually Impaired Users using Google ML Kit – Looking for Feedback](https://www.reddit.com/r/androiddev/comments/1uar5u2/built_an_android_accessibility_app_for_visually/)
-- [Uploading Android Studio to Google Playstore. Different Upload Keys](https://www.reddit.com/r/androiddev/comments/1uapwh4/uploading_android_studio_to_google_playstore/)
-- [feeling guilty](https://www.reddit.com/r/androiddev/comments/1uaozke/feeling_guilty/)
+- [I&#39;m creating my own free music app, what would you like me to add to the app?](https://www.reddit.com/r/androiddev/comments/1ucarlt/im_creating_my_own_free_music_app_what_would_you/)
+- [Need an AOSP Developer to submit a simple Carrier ID patch for Greece &lpar;Telestet/Info Quest S.A. to NOVA&rpar;](https://www.reddit.com/r/androiddev/comments/1uc6frh/need_an_aosp_developer_to_submit_a_simple_carrier/)
+- [Different Playstore listings](https://www.reddit.com/r/androiddev/comments/1ubz5wz/different_playstore_listings/)
+- [I built a macOS menu bar app that gives the Android Emulator real Bluetooth — no dongles, no Python](https://www.reddit.com/r/androiddev/comments/1ubyveb/i_built_a_macos_menu_bar_app_that_gives_the/)
+- [How did C++ help you land an Android job? &lpar;or open other doors?&rpar;](https://www.reddit.com/r/androiddev/comments/1ubvel8/how_did_c_help_you_land_an_android_job_or_open/)
+- [Playstore Tax residency document &lpar;germany&rpar;](https://www.reddit.com/r/androiddev/comments/1ubv30y/playstore_tax_residency_document_germany/)
+- [Any experiences with running ML models locally?](https://www.reddit.com/r/androiddev/comments/1ubqik7/any_experiences_with_running_ml_models_locally/)
+- [Android Help](https://www.reddit.com/r/androiddev/comments/1ubmrkv/android_help/)
+- [Developers and AI are directly co-related](https://www.reddit.com/r/androiddev/comments/1ubm2kn/developers_and_ai_are_directly_corelated/)
+- [First Android App - Looking for Marketing Advice](https://www.reddit.com/r/androiddev/comments/1ubjnkt/first_android_app_looking_for_marketing_advice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
