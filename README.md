@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I&#39;m creating my own free music app, what would you like me to add to the app?](https://www.reddit.com/r/androiddev/comments/1ucarlt/im_creating_my_own_free_music_app_what_would_you/)
-- [Need an AOSP Developer to submit a simple Carrier ID patch for Greece &lpar;Telestet/Info Quest S.A. to NOVA&rpar;](https://www.reddit.com/r/androiddev/comments/1uc6frh/need_an_aosp_developer_to_submit_a_simple_carrier/)
-- [Different Playstore listings](https://www.reddit.com/r/androiddev/comments/1ubz5wz/different_playstore_listings/)
-- [I built a macOS menu bar app that gives the Android Emulator real Bluetooth — no dongles, no Python](https://www.reddit.com/r/androiddev/comments/1ubyveb/i_built_a_macos_menu_bar_app_that_gives_the/)
-- [How did C++ help you land an Android job? &lpar;or open other doors?&rpar;](https://www.reddit.com/r/androiddev/comments/1ubvel8/how_did_c_help_you_land_an_android_job_or_open/)
-- [Playstore Tax residency document &lpar;germany&rpar;](https://www.reddit.com/r/androiddev/comments/1ubv30y/playstore_tax_residency_document_germany/)
-- [Any experiences with running ML models locally?](https://www.reddit.com/r/androiddev/comments/1ubqik7/any_experiences_with_running_ml_models_locally/)
-- [Android Help](https://www.reddit.com/r/androiddev/comments/1ubmrkv/android_help/)
-- [Developers and AI are directly co-related](https://www.reddit.com/r/androiddev/comments/1ubm2kn/developers_and_ai_are_directly_corelated/)
-- [First Android App - Looking for Marketing Advice](https://www.reddit.com/r/androiddev/comments/1ubjnkt/first_android_app_looking_for_marketing_advice/)
+- [I built an open source notification manager that uses Gemini Nano to parse voice commands - everything runs on device](https://www.reddit.com/r/androiddev/comments/1ud1gje/i_built_an_open_source_notification_manager_that/)
+- [Hi! Problem with Acessibility on Xiaomi with HyperOS3](https://www.reddit.com/r/androiddev/comments/1ucztdp/hi_problem_with_acessibility_on_xiaomi_with/)
+- [Writing a custom APK for owned hardware](https://www.reddit.com/r/androiddev/comments/1uctsqt/writing_a_custom_apk_for_owned_hardware/)
+- [Quick performance tip: Bypassing recomposition loops when animating Modifier offsets](https://www.reddit.com/r/androiddev/comments/1ucs75o/quick_performance_tip_bypassing_recomposition/)
+- [MacBook Pro Dilemma for Heavy Android Dev: M4 Pro &lpar;24GB/512GB&rpar; vs M5 &lpar;24GB/1TB&rpar; at the exact same price?](https://www.reddit.com/r/androiddev/comments/1ucoksr/macbook_pro_dilemma_for_heavy_android_dev_m4_pro/)
+- [Specter an open-source AI agent that explores your Android app and finds UI/UX bugs &lpar;free, runs locally with your own Claude&rpar;](https://www.reddit.com/r/androiddev/comments/1ucnd9d/specter_an_opensource_ai_agent_that_explores_your/)
+- [How does your team keep native Android and iOS from silently drifting apart?](https://www.reddit.com/r/androiddev/comments/1ucn3cu/how_does_your_team_keep_native_android_and_ios/)
+- [What you think , should i spend more on ads ?](https://www.reddit.com/r/androiddev/comments/1ucn2hu/what_you_think_should_i_spend_more_on_ads/)
+- [Looking to get a new laptop or pc for android development. What&#39;s the specs you recommend?](https://www.reddit.com/r/androiddev/comments/1ucl534/looking_to_get_a_new_laptop_or_pc_for_android/)
+- [&quot;Your store listing does not clearly describe your app&#39;s features&quot; when sending for review](https://www.reddit.com/r/androiddev/comments/1ucjy9c/your_store_listing_does_not_clearly_describe_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
