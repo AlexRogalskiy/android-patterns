@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is this a good thing being added to third party app stores or a bad thing?](https://www.reddit.com/r/androiddev/comments/1ue22it/is_this_a_good_thing_being_added_to_third_party/)
+- [IStanPdf - Offline app for PDF and DOCX operation](https://www.reddit.com/r/androiddev/comments/1udz904/istanpdf_offline_app_for_pdf_and_docx_operation/)
+- [Can&#39;t log in to reddit app on standard Pixel 10 emulator](https://www.reddit.com/r/androiddev/comments/1udoo1e/cant_log_in_to_reddit_app_on_standard_pixel_10/)
+- [Can&#39;t create a new developer account](https://www.reddit.com/r/androiddev/comments/1udno1w/cant_create_a_new_developer_account/)
+- [Books from Mahmoud Ramadan](https://www.reddit.com/r/androiddev/comments/1udl64t/books_from_mahmoud_ramadan/)
+- [Remote Compose looks promising](https://www.reddit.com/r/androiddev/comments/1udhzxh/remote_compose_looks_promising/)
+- [How to find Android TV bugs?](https://www.reddit.com/r/androiddev/comments/1udgsvz/how_to_find_android_tv_bugs/)
+- [Here&#39;s a free open-source Quotes API for your app ? &lpar;no API key required&rpar;.](https://www.reddit.com/r/androiddev/comments/1ude5el/heres_a_free_opensource_quotes_api_for_your_app/)
+- [The worst editor bug is when the UI says “saved” and the model quietly disagrees](https://www.reddit.com/r/androiddev/comments/1ud8wy6/the_worst_editor_bug_is_when_the_ui_says_saved/)
 - [I built an open source notification manager that uses Gemini Nano to parse voice commands - everything runs on device](https://www.reddit.com/r/androiddev/comments/1ud1gje/i_built_an_open_source_notification_manager_that/)
-- [Hi! Problem with Acessibility on Xiaomi with HyperOS3](https://www.reddit.com/r/androiddev/comments/1ucztdp/hi_problem_with_acessibility_on_xiaomi_with/)
-- [Writing a custom APK for owned hardware](https://www.reddit.com/r/androiddev/comments/1uctsqt/writing_a_custom_apk_for_owned_hardware/)
-- [Quick performance tip: Bypassing recomposition loops when animating Modifier offsets](https://www.reddit.com/r/androiddev/comments/1ucs75o/quick_performance_tip_bypassing_recomposition/)
-- [MacBook Pro Dilemma for Heavy Android Dev: M4 Pro &lpar;24GB/512GB&rpar; vs M5 &lpar;24GB/1TB&rpar; at the exact same price?](https://www.reddit.com/r/androiddev/comments/1ucoksr/macbook_pro_dilemma_for_heavy_android_dev_m4_pro/)
-- [Specter an open-source AI agent that explores your Android app and finds UI/UX bugs &lpar;free, runs locally with your own Claude&rpar;](https://www.reddit.com/r/androiddev/comments/1ucnd9d/specter_an_opensource_ai_agent_that_explores_your/)
-- [How does your team keep native Android and iOS from silently drifting apart?](https://www.reddit.com/r/androiddev/comments/1ucn3cu/how_does_your_team_keep_native_android_and_ios/)
-- [What you think , should i spend more on ads ?](https://www.reddit.com/r/androiddev/comments/1ucn2hu/what_you_think_should_i_spend_more_on_ads/)
-- [Looking to get a new laptop or pc for android development. What&#39;s the specs you recommend?](https://www.reddit.com/r/androiddev/comments/1ucl534/looking_to_get_a_new_laptop_or_pc_for_android/)
-- [&quot;Your store listing does not clearly describe your app&#39;s features&quot; when sending for review](https://www.reddit.com/r/androiddev/comments/1ucjy9c/your_store_listing_does_not_clearly_describe_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
