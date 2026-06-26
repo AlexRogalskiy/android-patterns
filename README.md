@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[ Removed by Reddit ]](https://www.reddit.com/r/androiddev/comments/1uexggo/removed_by_reddit/)
-- [Is there no native support for transparent/alpha videos in mediaencoder?](https://www.reddit.com/r/androiddev/comments/1uewyic/is_there_no_native_support_for_transparentalpha/)
-- [Built my first Android app with Android Studio + AI assistance](https://www.reddit.com/r/androiddev/comments/1uev0q5/built_my_first_android_app_with_android_studio_ai/)
-- [That feeling when you make your first sale 6 weeks after launching the app. 🥹😎🤟](https://www.reddit.com/r/androiddev/comments/1uep46u/that_feeling_when_you_make_your_first_sale_6/)
-- [Is iOS worth it for you?](https://www.reddit.com/r/androiddev/comments/1ueoe7o/is_ios_worth_it_for_you/)
-- [Why is there no polygraph test app yet???](https://www.reddit.com/r/androiddev/comments/1uenu55/why_is_there_no_polygraph_test_app_yet/)
-- [I built an ad revenue calculator for mobile apps and websites that estimates eCPM across AdMob, AppLovin, Unity and more.](https://www.reddit.com/r/androiddev/comments/1uemy8h/i_built_an_ad_revenue_calculator_for_mobile_apps/)
-- [I’m building an Android privacy-permission audit app and want to stay Play-policy clean.](https://www.reddit.com/r/androiddev/comments/1uejs73/im_building_an_android_privacypermission_audit/)
-- [AccessibilityService inconsistent behavior in Chrome URL bar and YouTube search — need instant text detection across all input fields](https://www.reddit.com/r/androiddev/comments/1ueicu7/accessibilityservice_inconsistent_behavior_in/)
-- [Most Claude skills for Kotlin Multiplatform were too generic, so I built this repo](https://www.reddit.com/r/androiddev/comments/1ueh3is/most_claude_skills_for_kotlin_multiplatform_were/)
+- [Premium, Freemium or Free?](https://www.reddit.com/r/androiddev/comments/1ufx7r5/premium_freemium_or_free/)
+- [Using RemoteInputAPI to dispatch AI-generated replies from a NotificationListenerService — anyone done this?](https://www.reddit.com/r/androiddev/comments/1ufrd0m/using_remoteinputapi_to_dispatch_aigenerated/)
+- [Location Button - AGP 9.10 requirement](https://www.reddit.com/r/androiddev/comments/1ufra86/location_button_agp_910_requirement/)
+- [How can I completely hide specific websites and profiles from Android search results and apps &lpar;system-wide&rpar;?](https://www.reddit.com/r/androiddev/comments/1ufq3k1/how_can_i_completely_hide_specific_websites_and/)
+- [I made a small Android library for buttons that show their own countdown &lpar;Compose + XML&rpar;](https://www.reddit.com/r/androiddev/comments/1ufki2e/i_made_a_small_android_library_for_buttons_that/)
+- [is there an easier way to remove Chromebook and Google XR from an app](https://www.reddit.com/r/androiddev/comments/1ufilrc/is_there_an_easier_way_to_remove_chromebook_and/)
+- [Would an AOP library for Jetpack Compose actually be useful?](https://www.reddit.com/r/androiddev/comments/1ufharv/would_an_aop_library_for_jetpack_compose_actually/)
+- [My first app ever - warmer](https://www.reddit.com/r/androiddev/comments/1ufbud0/my_first_app_ever_warmer/)
+- [I built a Free AppStore &amp; Google Play Store Screenshot creator app.](https://www.reddit.com/r/androiddev/comments/1uf9d7i/i_built_a_free_appstore_google_play_store/)
+- [I built a Playwright-like debugging tool for Android apps, but with Logcat awareness](https://www.reddit.com/r/androiddev/comments/1uf8ygs/i_built_a_playwrightlike_debugging_tool_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
