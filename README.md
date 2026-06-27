@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Premium, Freemium or Free?](https://www.reddit.com/r/androiddev/comments/1ufx7r5/premium_freemium_or_free/)
-- [Using RemoteInputAPI to dispatch AI-generated replies from a NotificationListenerService — anyone done this?](https://www.reddit.com/r/androiddev/comments/1ufrd0m/using_remoteinputapi_to_dispatch_aigenerated/)
-- [Location Button - AGP 9.10 requirement](https://www.reddit.com/r/androiddev/comments/1ufra86/location_button_agp_910_requirement/)
-- [How can I completely hide specific websites and profiles from Android search results and apps &lpar;system-wide&rpar;?](https://www.reddit.com/r/androiddev/comments/1ufq3k1/how_can_i_completely_hide_specific_websites_and/)
-- [I made a small Android library for buttons that show their own countdown &lpar;Compose + XML&rpar;](https://www.reddit.com/r/androiddev/comments/1ufki2e/i_made_a_small_android_library_for_buttons_that/)
-- [is there an easier way to remove Chromebook and Google XR from an app](https://www.reddit.com/r/androiddev/comments/1ufilrc/is_there_an_easier_way_to_remove_chromebook_and/)
-- [Would an AOP library for Jetpack Compose actually be useful?](https://www.reddit.com/r/androiddev/comments/1ufharv/would_an_aop_library_for_jetpack_compose_actually/)
-- [My first app ever - warmer](https://www.reddit.com/r/androiddev/comments/1ufbud0/my_first_app_ever_warmer/)
-- [I built a Free AppStore &amp; Google Play Store Screenshot creator app.](https://www.reddit.com/r/androiddev/comments/1uf9d7i/i_built_a_free_appstore_google_play_store/)
-- [I built a Playwright-like debugging tool for Android apps, but with Logcat awareness](https://www.reddit.com/r/androiddev/comments/1uf8ygs/i_built_a_playwrightlike_debugging_tool_for/)
+- [Comparing App Store review data across regions — the same puzzle games behave very differently in US vs UK vs Japan](https://www.reddit.com/r/androiddev/comments/1ugh8iw/comparing_app_store_review_data_across_regions/)
+- [Use of Dynamic Colors](https://www.reddit.com/r/androiddev/comments/1ugdqx2/use_of_dynamic_colors/)
+- [What smallest width setting you have?](https://www.reddit.com/r/androiddev/comments/1ugcm04/what_smallest_width_setting_you_have/)
+- [Need Advice for my Android Dev Internship](https://www.reddit.com/r/androiddev/comments/1ugclcj/need_advice_for_my_android_dev_internship/)
+- [Looking for feedback on an Android tool I&#39;m building](https://www.reddit.com/r/androiddev/comments/1ugap2y/looking_for_feedback_on_an_android_tool_im/)
+- [Is there an easier way to test aab files than the google play stores?](https://www.reddit.com/r/androiddev/comments/1ug9d39/is_there_an_easier_way_to_test_aab_files_than_the/)
+- [Don&#39;t you think Android emulators should have on-device AI support?](https://www.reddit.com/r/androiddev/comments/1ug61b3/dont_you_think_android_emulators_should_have/)
+- [Phil Burk: PortAudio, Android Audio, MIDI 2.0, HSML, PlayStation Audio, JSyn &amp; More! | WolfTalk #033](https://www.reddit.com/r/androiddev/comments/1ug287l/phil_burk_portaudio_android_audio_midi_20_hsml/)
+- [Google Play keeps rejecting fixed build](https://www.reddit.com/r/androiddev/comments/1ug1kwe/google_play_keeps_rejecting_fixed_build/)
+- [Mobile System Design Interview | Design a Notes App &lpar;Offline Sync, API, ...](https://www.reddit.com/r/androiddev/comments/1ug0pkt/mobile_system_design_interview_design_a_notes_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
