@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Comparing App Store review data across regions — the same puzzle games behave very differently in US vs UK vs Japan](https://www.reddit.com/r/androiddev/comments/1ugh8iw/comparing_app_store_review_data_across_regions/)
-- [Use of Dynamic Colors](https://www.reddit.com/r/androiddev/comments/1ugdqx2/use_of_dynamic_colors/)
-- [What smallest width setting you have?](https://www.reddit.com/r/androiddev/comments/1ugcm04/what_smallest_width_setting_you_have/)
-- [Need Advice for my Android Dev Internship](https://www.reddit.com/r/androiddev/comments/1ugclcj/need_advice_for_my_android_dev_internship/)
-- [Looking for feedback on an Android tool I&#39;m building](https://www.reddit.com/r/androiddev/comments/1ugap2y/looking_for_feedback_on_an_android_tool_im/)
-- [Is there an easier way to test aab files than the google play stores?](https://www.reddit.com/r/androiddev/comments/1ug9d39/is_there_an_easier_way_to_test_aab_files_than_the/)
-- [Don&#39;t you think Android emulators should have on-device AI support?](https://www.reddit.com/r/androiddev/comments/1ug61b3/dont_you_think_android_emulators_should_have/)
-- [Phil Burk: PortAudio, Android Audio, MIDI 2.0, HSML, PlayStation Audio, JSyn &amp; More! | WolfTalk #033](https://www.reddit.com/r/androiddev/comments/1ug287l/phil_burk_portaudio_android_audio_midi_20_hsml/)
-- [Google Play keeps rejecting fixed build](https://www.reddit.com/r/androiddev/comments/1ug1kwe/google_play_keeps_rejecting_fixed_build/)
-- [Mobile System Design Interview | Design a Notes App &lpar;Offline Sync, API, ...](https://www.reddit.com/r/androiddev/comments/1ug0pkt/mobile_system_design_interview_design_a_notes_app/)
+- [How do I transcribe call audio without going on the cloud?](https://www.reddit.com/r/androiddev/comments/1uhnlat/how_do_i_transcribe_call_audio_without_going_on/)
+- [[India] GSTIN and Current Account Question for Google Play Revenue](https://www.reddit.com/r/androiddev/comments/1uhgb2g/india_gstin_and_current_account_question_for/)
+- [Cutting a feature by simply disabling the button,without removing the logic](https://www.reddit.com/r/androiddev/comments/1uhdgo5/cutting_a_feature_by_simply_disabling_the/)
+- [Built an Android interview prep site](https://www.reddit.com/r/androiddev/comments/1uhd5az/built_an_android_interview_prep_site/)
+- [Is this project portfolio good enough?](https://www.reddit.com/r/androiddev/comments/1uhc3ut/is_this_project_portfolio_good_enough/)
+- [Android 17 Bubbles Documentation?](https://www.reddit.com/r/androiddev/comments/1uh8p9g/android_17_bubbles_documentation/)
+- [I build a free tool to scrape/analyze reviews of any app in Google Play](https://www.reddit.com/r/androiddev/comments/1uh7bl0/i_build_a_free_tool_to_scrapeanalyze_reviews_of/)
+- [Interview Experience At Girmiti Software Android](https://www.reddit.com/r/androiddev/comments/1ugx27n/interview_experience_at_girmiti_software_android/)
+- [3 months solo, launched, 10 downloads. Here&#39;s what I learned.](https://www.reddit.com/r/androiddev/comments/1ugqnfx/3_months_solo_launched_10_downloads_heres_what_i/)
+- [New open source library- Constraints](https://www.reddit.com/r/androiddev/comments/1ugj2o9/new_open_source_library_constraints/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
