@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Angry Birds com controle](https://www.reddit.com/r/androiddev/comments/1uifo7y/angry_birds_com_controle/)
-- [Let&#39;s protect Android](https://www.reddit.com/r/androiddev/comments/1uie1py/lets_protect_android/)
-- [Indian apps taking Razorpay/PhonePe payments directly inside Play Store app — how are they not banned?](https://www.reddit.com/r/androiddev/comments/1uib6bh/indian_apps_taking_razorpayphonepe_payments/)
-- [I built a Snake game in Kotlin and Jetpack Compose, vibe coded with Claude Code](https://www.reddit.com/r/androiddev/comments/1ui8kqu/i_built_a_snake_game_in_kotlin_and_jetpack/)
-- [Does switching from a personal to an organization account &lpar;with D-U-N-S&rpar; let me publish immediately, or do I have to create a brand new account?](https://www.reddit.com/r/androiddev/comments/1ui87bb/does_switching_from_a_personal_to_an_organization/)
-- [NextIDE](https://www.reddit.com/r/androiddev/comments/1ui346y/nextide/)
-- [Launch notifications failed for 6000+ pre registers?](https://www.reddit.com/r/androiddev/comments/1uhz5ym/launch_notifications_failed_for_6000_pre_registers/)
-- [To experienced Android Devs, will you approach Android dev same as as you begun now due to AI?](https://www.reddit.com/r/androiddev/comments/1uhxq72/to_experienced_android_devs_will_you_approach/)
-- [Preloading solutions for HLS videos which i implemented for a serious tiktok style reels feed in Android &lpar;media3&rpar;](https://www.reddit.com/r/androiddev/comments/1uhwcc5/preloading_solutions_for_hls_videos_which_i/)
-- [Using Firebase for Google sign in as a beginner](https://www.reddit.com/r/androiddev/comments/1uhuffc/using_firebase_for_google_sign_in_as_a_beginner/)
+- [Navigation 3 In Compose Multiplatform &lpar;iOS&rpar;](https://www.reddit.com/r/androiddev/comments/1ujbmyq/navigation_3_in_compose_multiplatform_ios/)
+- [So if I allow third-party app store access to my app, do I still get paid?](https://www.reddit.com/r/androiddev/comments/1uj81e2/so_if_i_allow_thirdparty_app_store_access_to_my/)
+- [I’m looking for an app with good haptics for inspiration. Any suggestions?](https://www.reddit.com/r/androiddev/comments/1uj5irr/im_looking_for_an_app_with_good_haptics_for/)
+- [How do you prepare for interviews ?](https://www.reddit.com/r/androiddev/comments/1uj1ofa/how_do_you_prepare_for_interviews/)
+- [Designing a touch-free voice interface for a Wildlife navigation-companion app](https://www.reddit.com/r/androiddev/comments/1uiz96o/designing_a_touchfree_voice_interface_for_a/)
+- [[OSS] I built an Android app to monitor PC metrics via Wi-Fi and USB. Looking for feedback!](https://www.reddit.com/r/androiddev/comments/1uiw25y/oss_i_built_an_android_app_to_monitor_pc_metrics/)
+- [I built Laydr: file-based, type-safe navigation for Compose Multiplatform and Android Compose](https://www.reddit.com/r/androiddev/comments/1uivqkk/i_built_laydr_filebased_typesafe_navigation_for/)
+- [Android Developers: Drop your craziest resume 👀](https://www.reddit.com/r/androiddev/comments/1uiuvtq/android_developers_drop_your_craziest_resume/)
+- [Open-sourced a Kotlin SDK for Media over QUIC, the streaming protocol the big players are racing to ship](https://www.reddit.com/r/androiddev/comments/1uinljs/opensourced_a_kotlin_sdk_for_media_over_quic_the/)
+- [Submitting apps as an organization account](https://www.reddit.com/r/androiddev/comments/1uimmjy/submitting_apps_as_an_organization_account/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
