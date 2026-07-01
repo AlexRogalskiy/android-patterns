@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Navigation 3 In Compose Multiplatform &lpar;iOS&rpar;](https://www.reddit.com/r/androiddev/comments/1ujbmyq/navigation_3_in_compose_multiplatform_ios/)
-- [So if I allow third-party app store access to my app, do I still get paid?](https://www.reddit.com/r/androiddev/comments/1uj81e2/so_if_i_allow_thirdparty_app_store_access_to_my/)
-- [I’m looking for an app with good haptics for inspiration. Any suggestions?](https://www.reddit.com/r/androiddev/comments/1uj5irr/im_looking_for_an_app_with_good_haptics_for/)
-- [How do you prepare for interviews ?](https://www.reddit.com/r/androiddev/comments/1uj1ofa/how_do_you_prepare_for_interviews/)
-- [Designing a touch-free voice interface for a Wildlife navigation-companion app](https://www.reddit.com/r/androiddev/comments/1uiz96o/designing_a_touchfree_voice_interface_for_a/)
-- [[OSS] I built an Android app to monitor PC metrics via Wi-Fi and USB. Looking for feedback!](https://www.reddit.com/r/androiddev/comments/1uiw25y/oss_i_built_an_android_app_to_monitor_pc_metrics/)
-- [I built Laydr: file-based, type-safe navigation for Compose Multiplatform and Android Compose](https://www.reddit.com/r/androiddev/comments/1uivqkk/i_built_laydr_filebased_typesafe_navigation_for/)
-- [Android Developers: Drop your craziest resume 👀](https://www.reddit.com/r/androiddev/comments/1uiuvtq/android_developers_drop_your_craziest_resume/)
-- [Open-sourced a Kotlin SDK for Media over QUIC, the streaming protocol the big players are racing to ship](https://www.reddit.com/r/androiddev/comments/1uinljs/opensourced_a_kotlin_sdk_for_media_over_quic_the/)
-- [Submitting apps as an organization account](https://www.reddit.com/r/androiddev/comments/1uimmjy/submitting_apps_as_an_organization_account/)
+- [Standard alarms weren&#39;t working for me, so I created a custom voice alarm tool. How can I improve the UI?](https://www.reddit.com/r/androiddev/comments/1uk8k9c/standard_alarms_werent_working_for_me_so_i/)
+- [Equivalent of preview for widget](https://www.reddit.com/r/androiddev/comments/1uk384x/equivalent_of_preview_for_widget/)
+- [My first app](https://www.reddit.com/r/androiddev/comments/1uk1xrj/my_first_app/)
+- [Passing a SupervisorJob to launch&lpar;&rpar; is a silent bug](https://www.reddit.com/r/androiddev/comments/1ujw38z/passing_a_supervisorjob_to_launch_is_a_silent_bug/)
+- [I tried to create an app that mimicks old Pixel search bar](https://www.reddit.com/r/androiddev/comments/1ujteua/i_tried_to_create_an_app_that_mimicks_old_pixel/)
+- [I built a terminal UI for running multiple Claude Code agents on Android tickets in parallel](https://www.reddit.com/r/androiddev/comments/1ujsqlm/i_built_a_terminal_ui_for_running_multiple_claude/)
+- [Switching a million lines of code from Java threads to Kotlin coroutines, by rewriting three files](https://www.reddit.com/r/androiddev/comments/1ujqoe6/switching_a_million_lines_of_code_from_java/)
+- [Adsense account type is organization by mistake, account linked to admob](https://www.reddit.com/r/androiddev/comments/1ujm7qb/adsense_account_type_is_organization_by_mistake/)
+- [Can someone share a link for The Ultimate PL Course Bundle course](https://www.reddit.com/r/androiddev/comments/1ujly2d/can_someone_share_a_link_for_the_ultimate_pl/)
+- [Has anyone here used a Backend for Frontend &lpar;BFF&rpar; architecture for an Android app in production?](https://www.reddit.com/r/androiddev/comments/1ujlrsp/has_anyone_here_used_a_backend_for_frontend_bff/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
