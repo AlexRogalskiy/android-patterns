@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Standard alarms weren&#39;t working for me, so I created a custom voice alarm tool. How can I improve the UI?](https://www.reddit.com/r/androiddev/comments/1uk8k9c/standard_alarms_werent_working_for_me_so_i/)
+- [Opensource resouces for Android e2e / integration testing](https://www.reddit.com/r/androiddev/comments/1uku27e/opensource_resouces_for_android_e2e_integration/)
+- [Stuck with a Callback-Based Library? Adapt it to Coroutines!](https://www.reddit.com/r/androiddev/comments/1ukoqp1/stuck_with_a_callbackbased_library_adapt_it_to/)
+- [How to implement localization to the android app](https://www.reddit.com/r/androiddev/comments/1ukjufa/how_to_implement_localization_to_the_android_app/)
+- [My game Tension Head has just been approved for production!](https://www.reddit.com/r/androiddev/comments/1ukj54d/my_game_tension_head_has_just_been_approved_for/)
+- [How to reliably schedule background tasks on aggressive ROMs &lpar;Vivo OriginOS&rpar; when even setAlarmClock fails?](https://www.reddit.com/r/androiddev/comments/1ukgo1p/how_to_reliably_schedule_background_tasks_on/)
+- [Is there any way to put custom roms on modern Samsung phones?](https://www.reddit.com/r/androiddev/comments/1ukghdg/is_there_any_way_to_put_custom_roms_on_modern/)
 - [Equivalent of preview for widget](https://www.reddit.com/r/androiddev/comments/1uk384x/equivalent_of_preview_for_widget/)
 - [My first app](https://www.reddit.com/r/androiddev/comments/1uk1xrj/my_first_app/)
 - [Passing a SupervisorJob to launch&lpar;&rpar; is a silent bug](https://www.reddit.com/r/androiddev/comments/1ujw38z/passing_a_supervisorjob_to_launch_is_a_silent_bug/)
 - [I tried to create an app that mimicks old Pixel search bar](https://www.reddit.com/r/androiddev/comments/1ujteua/i_tried_to_create_an_app_that_mimicks_old_pixel/)
-- [I built a terminal UI for running multiple Claude Code agents on Android tickets in parallel](https://www.reddit.com/r/androiddev/comments/1ujsqlm/i_built_a_terminal_ui_for_running_multiple_claude/)
-- [Switching a million lines of code from Java threads to Kotlin coroutines, by rewriting three files](https://www.reddit.com/r/androiddev/comments/1ujqoe6/switching_a_million_lines_of_code_from_java/)
-- [Adsense account type is organization by mistake, account linked to admob](https://www.reddit.com/r/androiddev/comments/1ujm7qb/adsense_account_type_is_organization_by_mistake/)
-- [Can someone share a link for The Ultimate PL Course Bundle course](https://www.reddit.com/r/androiddev/comments/1ujly2d/can_someone_share_a_link_for_the_ultimate_pl/)
-- [Has anyone here used a Backend for Frontend &lpar;BFF&rpar; architecture for an Android app in production?](https://www.reddit.com/r/androiddev/comments/1ujlrsp/has_anyone_here_used_a_backend_for_frontend_bff/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
