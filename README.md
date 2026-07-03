@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Opensource resouces for Android e2e / integration testing](https://www.reddit.com/r/androiddev/comments/1uku27e/opensource_resouces_for_android_e2e_integration/)
-- [Stuck with a Callback-Based Library? Adapt it to Coroutines!](https://www.reddit.com/r/androiddev/comments/1ukoqp1/stuck_with_a_callbackbased_library_adapt_it_to/)
-- [How to implement localization to the android app](https://www.reddit.com/r/androiddev/comments/1ukjufa/how_to_implement_localization_to_the_android_app/)
-- [My game Tension Head has just been approved for production!](https://www.reddit.com/r/androiddev/comments/1ukj54d/my_game_tension_head_has_just_been_approved_for/)
-- [How to reliably schedule background tasks on aggressive ROMs &lpar;Vivo OriginOS&rpar; when even setAlarmClock fails?](https://www.reddit.com/r/androiddev/comments/1ukgo1p/how_to_reliably_schedule_background_tasks_on/)
-- [Is there any way to put custom roms on modern Samsung phones?](https://www.reddit.com/r/androiddev/comments/1ukghdg/is_there_any_way_to_put_custom_roms_on_modern/)
-- [Equivalent of preview for widget](https://www.reddit.com/r/androiddev/comments/1uk384x/equivalent_of_preview_for_widget/)
-- [My first app](https://www.reddit.com/r/androiddev/comments/1uk1xrj/my_first_app/)
-- [Passing a SupervisorJob to launch&lpar;&rpar; is a silent bug](https://www.reddit.com/r/androiddev/comments/1ujw38z/passing_a_supervisorjob_to_launch_is_a_silent_bug/)
-- [I tried to create an app that mimicks old Pixel search bar](https://www.reddit.com/r/androiddev/comments/1ujteua/i_tried_to_create_an_app_that_mimicks_old_pixel/)
+- [Storing user data locally and cloud](https://www.reddit.com/r/androiddev/comments/1um3zw3/storing_user_data_locally_and_cloud/)
+- [Has anyone played around with the Android skills launched at Google I/O?](https://www.reddit.com/r/androiddev/comments/1ulqa4v/has_anyone_played_around_with_the_android_skills/)
+- [Android Studio Quail 3 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1ulm88c/android_studio_quail_3_canary_3_now_available/)
+- [How would I make a 4kb page-size app compatible with the 16kb modern page-size?](https://www.reddit.com/r/androiddev/comments/1ulm833/how_would_i_make_a_4kb_pagesize_app_compatible/)
+- [Android Studio Emulator not showing](https://www.reddit.com/r/androiddev/comments/1ullflg/android_studio_emulator_not_showing/)
+- [Clean package structure](https://www.reddit.com/r/androiddev/comments/1ulfdc8/clean_package_structure/)
+- [How are you handling bug reports from QA/test builds? I built an Android library for this](https://www.reddit.com/r/androiddev/comments/1uleb8v/how_are_you_handling_bug_reports_from_qatest/)
+- [A new Android malware from Google](https://www.reddit.com/r/androiddev/comments/1ulcr9k/a_new_android_malware_from_google/)
+- [Self hosting model in LM studio server and connecting it to Android studio. Timeouts all the time: Error: Stream failed](https://www.reddit.com/r/androiddev/comments/1ulcddt/self_hosting_model_in_lm_studio_server_and/)
+- [Indian developers publishing on RuStore, how has your experience been so far?](https://www.reddit.com/r/androiddev/comments/1ulbg53/indian_developers_publishing_on_rustore_how_has/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
