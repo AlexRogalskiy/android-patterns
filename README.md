@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Linux development environment on Android 17](https://www.reddit.com/r/androiddev/comments/1umz1qt/linux_development_environment_on_android_17/)
+- [How can I get my app indexed for generic search keywords on Google Play?](https://www.reddit.com/r/androiddev/comments/1umsdcj/how_can_i_get_my_app_indexed_for_generic_search/)
+- [GDPR consent for Android apps using third-party ad mediation without Google UMP](https://www.reddit.com/r/androiddev/comments/1ump8b7/gdpr_consent_for_android_apps_using_thirdparty_ad/)
+- [How do you use Pause/Resume app functionality? in what way does it help?](https://www.reddit.com/r/androiddev/comments/1umdq72/how_do_you_use_pauseresume_app_functionality_in/)
+- [[HELP] Google Auth Platform - Branding verification](https://www.reddit.com/r/androiddev/comments/1umb70x/help_google_auth_platform_branding_verification/)
+- [Should I focus on localisation and internationalization?](https://www.reddit.com/r/androiddev/comments/1um9jeu/should_i_focus_on_localisation_and/)
+- [Work in progress launcher build](https://www.reddit.com/r/androiddev/comments/1um6xrm/work_in_progress_launcher_build/)
+- [Please share how did you get your play console account verify](https://www.reddit.com/r/androiddev/comments/1um53k0/please_share_how_did_you_get_your_play_console/)
 - [Storing user data locally and cloud](https://www.reddit.com/r/androiddev/comments/1um3zw3/storing_user_data_locally_and_cloud/)
 - [Has anyone played around with the Android skills launched at Google I/O?](https://www.reddit.com/r/androiddev/comments/1ulqa4v/has_anyone_played_around_with_the_android_skills/)
-- [Android Studio Quail 3 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1ulm88c/android_studio_quail_3_canary_3_now_available/)
-- [How would I make a 4kb page-size app compatible with the 16kb modern page-size?](https://www.reddit.com/r/androiddev/comments/1ulm833/how_would_i_make_a_4kb_pagesize_app_compatible/)
-- [Android Studio Emulator not showing](https://www.reddit.com/r/androiddev/comments/1ullflg/android_studio_emulator_not_showing/)
-- [Clean package structure](https://www.reddit.com/r/androiddev/comments/1ulfdc8/clean_package_structure/)
-- [How are you handling bug reports from QA/test builds? I built an Android library for this](https://www.reddit.com/r/androiddev/comments/1uleb8v/how_are_you_handling_bug_reports_from_qatest/)
-- [A new Android malware from Google](https://www.reddit.com/r/androiddev/comments/1ulcr9k/a_new_android_malware_from_google/)
-- [Self hosting model in LM studio server and connecting it to Android studio. Timeouts all the time: Error: Stream failed](https://www.reddit.com/r/androiddev/comments/1ulcddt/self_hosting_model_in_lm_studio_server_and/)
-- [Indian developers publishing on RuStore, how has your experience been so far?](https://www.reddit.com/r/androiddev/comments/1ulbg53/indian_developers_publishing_on_rustore_how_has/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
