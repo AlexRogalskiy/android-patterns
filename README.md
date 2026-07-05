@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Linux development environment on Android 17](https://www.reddit.com/r/androiddev/comments/1umz1qt/linux_development_environment_on_android_17/)
-- [How can I get my app indexed for generic search keywords on Google Play?](https://www.reddit.com/r/androiddev/comments/1umsdcj/how_can_i_get_my_app_indexed_for_generic_search/)
-- [GDPR consent for Android apps using third-party ad mediation without Google UMP](https://www.reddit.com/r/androiddev/comments/1ump8b7/gdpr_consent_for_android_apps_using_thirdparty_ad/)
-- [How do you use Pause/Resume app functionality? in what way does it help?](https://www.reddit.com/r/androiddev/comments/1umdq72/how_do_you_use_pauseresume_app_functionality_in/)
-- [[HELP] Google Auth Platform - Branding verification](https://www.reddit.com/r/androiddev/comments/1umb70x/help_google_auth_platform_branding_verification/)
-- [Should I focus on localisation and internationalization?](https://www.reddit.com/r/androiddev/comments/1um9jeu/should_i_focus_on_localisation_and/)
-- [Work in progress launcher build](https://www.reddit.com/r/androiddev/comments/1um6xrm/work_in_progress_launcher_build/)
-- [Please share how did you get your play console account verify](https://www.reddit.com/r/androiddev/comments/1um53k0/please_share_how_did_you_get_your_play_console/)
-- [Storing user data locally and cloud](https://www.reddit.com/r/androiddev/comments/1um3zw3/storing_user_data_locally_and_cloud/)
-- [Has anyone played around with the Android skills launched at Google I/O?](https://www.reddit.com/r/androiddev/comments/1ulqa4v/has_anyone_played_around_with_the_android_skills/)
+- [CoinCurrently has a new face](https://www.reddit.com/r/androiddev/comments/1unrxyt/coincurrently_has_a_new_face/)
+- [Updates to AndroidDevKit &lpar;the Android dev interview prep website&rpar;](https://www.reddit.com/r/androiddev/comments/1unjkdq/updates_to_androiddevkit_the_android_dev/)
+- [Gemini for businesses loop](https://www.reddit.com/r/androiddev/comments/1unhovt/gemini_for_businesses_loop/)
+- [Real-world Edge-to-Edge scale bugs: Why &quot;simple 1-line documentation fixes&quot; break in multi-module/hybrid codebases](https://www.reddit.com/r/androiddev/comments/1unfp5f/realworld_edgetoedge_scale_bugs_why_simple_1line/)
+- [Google L4/L5 Android Interview – What does the &quot;Android Domain Knowledge, Programming, Data Structures &amp; Algorithms&quot; round actually involve?](https://www.reddit.com/r/androiddev/comments/1unfltb/google_l4l5_android_interview_what_does_the/)
+- [Started with Android Development a week ago](https://www.reddit.com/r/androiddev/comments/1undvsb/started_with_android_development_a_week_ago/)
+- [Question](https://www.reddit.com/r/androiddev/comments/1unc2y6/question/)
+- [Need Reviews and critics](https://www.reddit.com/r/androiddev/comments/1unbyhn/need_reviews_and_critics/)
+- [Question Regarding App layout &lpar;scaffolding and navigation&rpar;](https://www.reddit.com/r/androiddev/comments/1unaikz/question_regarding_app_layout_scaffolding_and/)
+- [Fused location does not work Everytime](https://www.reddit.com/r/androiddev/comments/1un6yxi/fused_location_does_not_work_everytime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
