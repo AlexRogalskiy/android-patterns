@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [CoinCurrently has a new face](https://www.reddit.com/r/androiddev/comments/1unrxyt/coincurrently_has_a_new_face/)
+- [Built-in MPC serverd in Android apps for AI agents? Looking for feedback and ideas.](https://www.reddit.com/r/androiddev/comments/1uodxw3/builtin_mpc_serverd_in_android_apps_for_ai_agents/)
+- [[Bug] Gemini &quot;Suggest Commit Message&quot; crashes on macOS with GitContentRevision.getContentAsBytes&lpar;&rpar; should not be called from EDT &gt; works fine on Windows](https://www.reddit.com/r/androiddev/comments/1uoa5mu/bug_gemini_suggest_commit_message_crashes_on/)
+- [What feature do you always add before publishing an Android app?](https://www.reddit.com/r/androiddev/comments/1uo9ksl/what_feature_do_you_always_add_before_publishing/)
+- [TODO comments are suddenly highlighted in Android Studio Quail 1, and LSP4IJ is causing issues. Anyone else?](https://www.reddit.com/r/androiddev/comments/1uo3xs2/todo_comments_are_suddenly_highlighted_in_android/)
+- [How should I start Android development in today’s market?](https://www.reddit.com/r/androiddev/comments/1uo2ity/how_should_i_start_android_development_in_todays/)
+- [Do you use only stateflow to update UI in compose?](https://www.reddit.com/r/androiddev/comments/1uo145c/do_you_use_only_stateflow_to_update_ui_in_compose/)
+- [Hero Image&lpar;s&rpar; specs?](https://www.reddit.com/r/androiddev/comments/1unzctn/hero_images_specs/)
+- [Help a new developer on their idea](https://www.reddit.com/r/androiddev/comments/1unxywk/help_a_new_developer_on_their_idea/)
+- [I built a tool that generates a full Android project from a plain description, not just boilerplate](https://www.reddit.com/r/androiddev/comments/1untnj2/i_built_a_tool_that_generates_a_full_android/)
 - [Updates to AndroidDevKit &lpar;the Android dev interview prep website&rpar;](https://www.reddit.com/r/androiddev/comments/1unjkdq/updates_to_androiddevkit_the_android_dev/)
-- [Gemini for businesses loop](https://www.reddit.com/r/androiddev/comments/1unhovt/gemini_for_businesses_loop/)
-- [Real-world Edge-to-Edge scale bugs: Why &quot;simple 1-line documentation fixes&quot; break in multi-module/hybrid codebases](https://www.reddit.com/r/androiddev/comments/1unfp5f/realworld_edgetoedge_scale_bugs_why_simple_1line/)
-- [Google L4/L5 Android Interview – What does the &quot;Android Domain Knowledge, Programming, Data Structures &amp; Algorithms&quot; round actually involve?](https://www.reddit.com/r/androiddev/comments/1unfltb/google_l4l5_android_interview_what_does_the/)
-- [Started with Android Development a week ago](https://www.reddit.com/r/androiddev/comments/1undvsb/started_with_android_development_a_week_ago/)
-- [Question](https://www.reddit.com/r/androiddev/comments/1unc2y6/question/)
-- [Need Reviews and critics](https://www.reddit.com/r/androiddev/comments/1unbyhn/need_reviews_and_critics/)
-- [Question Regarding App layout &lpar;scaffolding and navigation&rpar;](https://www.reddit.com/r/androiddev/comments/1unaikz/question_regarding_app_layout_scaffolding_and/)
-- [Fused location does not work Everytime](https://www.reddit.com/r/androiddev/comments/1un6yxi/fused_location_does_not_work_everytime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
