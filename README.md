@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Built-in MPC serverd in Android apps for AI agents? Looking for feedback and ideas.](https://www.reddit.com/r/androiddev/comments/1uodxw3/builtin_mpc_serverd_in_android_apps_for_ai_agents/)
-- [[Bug] Gemini &quot;Suggest Commit Message&quot; crashes on macOS with GitContentRevision.getContentAsBytes&lpar;&rpar; should not be called from EDT &gt; works fine on Windows](https://www.reddit.com/r/androiddev/comments/1uoa5mu/bug_gemini_suggest_commit_message_crashes_on/)
-- [What feature do you always add before publishing an Android app?](https://www.reddit.com/r/androiddev/comments/1uo9ksl/what_feature_do_you_always_add_before_publishing/)
-- [TODO comments are suddenly highlighted in Android Studio Quail 1, and LSP4IJ is causing issues. Anyone else?](https://www.reddit.com/r/androiddev/comments/1uo3xs2/todo_comments_are_suddenly_highlighted_in_android/)
-- [How should I start Android development in today’s market?](https://www.reddit.com/r/androiddev/comments/1uo2ity/how_should_i_start_android_development_in_todays/)
-- [Do you use only stateflow to update UI in compose?](https://www.reddit.com/r/androiddev/comments/1uo145c/do_you_use_only_stateflow_to_update_ui_in_compose/)
-- [Hero Image&lpar;s&rpar; specs?](https://www.reddit.com/r/androiddev/comments/1unzctn/hero_images_specs/)
-- [Help a new developer on their idea](https://www.reddit.com/r/androiddev/comments/1unxywk/help_a_new_developer_on_their_idea/)
-- [I built a tool that generates a full Android project from a plain description, not just boilerplate](https://www.reddit.com/r/androiddev/comments/1untnj2/i_built_a_tool_that_generates_a_full_android/)
-- [Updates to AndroidDevKit &lpar;the Android dev interview prep website&rpar;](https://www.reddit.com/r/androiddev/comments/1unjkdq/updates_to_androiddevkit_the_android_dev/)
+- [Android review time period](https://www.reddit.com/r/androiddev/comments/1upifjq/android_review_time_period/)
+- [Linux or Windows](https://www.reddit.com/r/androiddev/comments/1upgjr9/linux_or_windows/)
+- [AI use during interviews](https://www.reddit.com/r/androiddev/comments/1upg6yo/ai_use_during_interviews/)
+- [Inspect JVM/ART source code](https://www.reddit.com/r/androiddev/comments/1uoxqz3/inspect_jvmart_source_code/)
+- [Android 17 Is Here: Everything Developers Need to Know](https://www.reddit.com/r/androiddev/comments/1uouowh/android_17_is_here_everything_developers_need_to/)
+- [Hikage - A real-time Android View runtime powered by Kotlin DSL](https://www.reddit.com/r/androiddev/comments/1uouo5p/hikage_a_realtime_android_view_runtime_powered_by/)
+- [Play Store Graphics](https://www.reddit.com/r/androiddev/comments/1uoufp6/play_store_graphics/)
+- [Indie devs: how are you handling subscriptions without giving Google 15%? &lpar;Razorpay in hand&rpar;](https://www.reddit.com/r/androiddev/comments/1uotei0/indie_devs_how_are_you_handling_subscriptions/)
+- [AccessibilityServiceInfo.capabilities stuck at 0 despite correct XML config, verified via aapt2 — confirmed across 3 devices, 2 OS versions, 4 install methods](https://www.reddit.com/r/androiddev/comments/1uopzge/accessibilityserviceinfocapabilities_stuck_at_0/)
+- [Are Rokid Glasses a solid choice for a hands-free, camera-first use case? Looking for devs with hands-on experience](https://www.reddit.com/r/androiddev/comments/1uope4a/are_rokid_glasses_a_solid_choice_for_a_handsfree/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
