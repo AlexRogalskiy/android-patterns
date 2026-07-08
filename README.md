@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android review time period](https://www.reddit.com/r/androiddev/comments/1upifjq/android_review_time_period/)
-- [Linux or Windows](https://www.reddit.com/r/androiddev/comments/1upgjr9/linux_or_windows/)
-- [AI use during interviews](https://www.reddit.com/r/androiddev/comments/1upg6yo/ai_use_during_interviews/)
-- [Inspect JVM/ART source code](https://www.reddit.com/r/androiddev/comments/1uoxqz3/inspect_jvmart_source_code/)
-- [Android 17 Is Here: Everything Developers Need to Know](https://www.reddit.com/r/androiddev/comments/1uouowh/android_17_is_here_everything_developers_need_to/)
-- [Hikage - A real-time Android View runtime powered by Kotlin DSL](https://www.reddit.com/r/androiddev/comments/1uouo5p/hikage_a_realtime_android_view_runtime_powered_by/)
-- [Play Store Graphics](https://www.reddit.com/r/androiddev/comments/1uoufp6/play_store_graphics/)
-- [Indie devs: how are you handling subscriptions without giving Google 15%? &lpar;Razorpay in hand&rpar;](https://www.reddit.com/r/androiddev/comments/1uotei0/indie_devs_how_are_you_handling_subscriptions/)
-- [AccessibilityServiceInfo.capabilities stuck at 0 despite correct XML config, verified via aapt2 — confirmed across 3 devices, 2 OS versions, 4 install methods](https://www.reddit.com/r/androiddev/comments/1uopzge/accessibilityserviceinfocapabilities_stuck_at_0/)
-- [Are Rokid Glasses a solid choice for a hands-free, camera-first use case? Looking for devs with hands-on experience](https://www.reddit.com/r/androiddev/comments/1uope4a/are_rokid_glasses_a_solid_choice_for_a_handsfree/)
+- [Good examples of Material 3 Expressive applications?](https://www.reddit.com/r/androiddev/comments/1uq4o8u/good_examples_of_material_3_expressive/)
+- [I built a fully offline, C++ native video player for Android to achieve real-time 60fps frame interpolation without heavy AI models. Looking for technical feedback on JNI/rendering pipeline!](https://www.reddit.com/r/androiddev/comments/1uq31zj/i_built_a_fully_offline_c_native_video_player_for/)
+- [Where can I learn android testing?](https://www.reddit.com/r/androiddev/comments/1uq1vas/where_can_i_learn_android_testing/)
+- [Android Development is dying?](https://www.reddit.com/r/androiddev/comments/1uq0r3w/android_development_is_dying/)
+- [Playing with on-device AI, I found my smallest quantized model was also the slowest. Dug into why and sharing my findings.](https://www.reddit.com/r/androiddev/comments/1upy5j0/playing_with_ondevice_ai_i_found_my_smallest/)
+- [Taking my Android app multiplatform meant giving up the entire Jetpack stack. It went better than expected, mostly](https://www.reddit.com/r/androiddev/comments/1upxdwx/taking_my_android_app_multiplatform_meant_giving/)
+- [Should I add extra flavor for tablet?](https://www.reddit.com/r/androiddev/comments/1upwumo/should_i_add_extra_flavor_for_tablet/)
+- [AI Assistant for Android &lpar;Open Source&rpar;](https://www.reddit.com/r/androiddev/comments/1upveo2/ai_assistant_for_android_open_source/)
+- [Introducing the Composables CLI and MCP server](https://www.reddit.com/r/androiddev/comments/1upts90/introducing_the_composables_cli_and_mcp_server/)
+- [Supreme Court allows Texas to require age verification for mobile apps](https://www.reddit.com/r/androiddev/comments/1upstwb/supreme_court_allows_texas_to_require_age/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
