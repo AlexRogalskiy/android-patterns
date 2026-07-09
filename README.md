@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best way to render Office documents &lpar;.docx, .pptx&rpar; completely offline in an Android WebView?](https://www.reddit.com/r/androiddev/comments/1urdi75/best_way_to_render_office_documents_docx_pptx/)
+- [🤖 [Hiring] Android engineers at State Farm](https://www.reddit.com/r/androiddev/comments/1urcxcq/hiring_android_engineers_at_state_farm/)
+- [Poco C71 bootloader unlocking + LineageOS Guide](https://www.reddit.com/r/androiddev/comments/1ur9st1/poco_c71_bootloader_unlocking_lineageos_guide/)
+- [Onboarding android dev course](https://www.reddit.com/r/androiddev/comments/1ur78rd/onboarding_android_dev_course/)
+- [Android Studio Quail 2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1ur71vl/android_studio_quail_2_rc_2_now_available/)
+- [Mock tests are now live on AndroidDevKit](https://www.reddit.com/r/androiddev/comments/1uqwjxp/mock_tests_are_now_live_on_androiddevkit/)
+- [Full voice-agent loop on a Galaxy S23 in ~1.5 GB, real-time on CPU &lpar;LiteRT/ONNX&rpar; - measured numbers](https://www.reddit.com/r/androiddev/comments/1uqnp5y/full_voiceagent_loop_on_a_galaxy_s23_in_15_gb/)
+- [Any way to create automated sign ups for Play store Closed testing](https://www.reddit.com/r/androiddev/comments/1uqcoka/any_way_to_create_automated_sign_ups_for_play/)
 - [Good examples of Material 3 Expressive applications?](https://www.reddit.com/r/androiddev/comments/1uq4o8u/good_examples_of_material_3_expressive/)
-- [I built a fully offline, C++ native video player for Android to achieve real-time 60fps frame interpolation without heavy AI models. Looking for technical feedback on JNI/rendering pipeline!](https://www.reddit.com/r/androiddev/comments/1uq31zj/i_built_a_fully_offline_c_native_video_player_for/)
 - [Where can I learn android testing?](https://www.reddit.com/r/androiddev/comments/1uq1vas/where_can_i_learn_android_testing/)
-- [Android Development is dying?](https://www.reddit.com/r/androiddev/comments/1uq0r3w/android_development_is_dying/)
-- [Playing with on-device AI, I found my smallest quantized model was also the slowest. Dug into why and sharing my findings.](https://www.reddit.com/r/androiddev/comments/1upy5j0/playing_with_ondevice_ai_i_found_my_smallest/)
-- [Taking my Android app multiplatform meant giving up the entire Jetpack stack. It went better than expected, mostly](https://www.reddit.com/r/androiddev/comments/1upxdwx/taking_my_android_app_multiplatform_meant_giving/)
-- [Should I add extra flavor for tablet?](https://www.reddit.com/r/androiddev/comments/1upwumo/should_i_add_extra_flavor_for_tablet/)
-- [AI Assistant for Android &lpar;Open Source&rpar;](https://www.reddit.com/r/androiddev/comments/1upveo2/ai_assistant_for_android_open_source/)
-- [Introducing the Composables CLI and MCP server](https://www.reddit.com/r/androiddev/comments/1upts90/introducing_the_composables_cli_and_mcp_server/)
-- [Supreme Court allows Texas to require age verification for mobile apps](https://www.reddit.com/r/androiddev/comments/1upstwb/supreme_court_allows_texas_to_require_age/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
