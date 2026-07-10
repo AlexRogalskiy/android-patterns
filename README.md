@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best way to render Office documents &lpar;.docx, .pptx&rpar; completely offline in an Android WebView?](https://www.reddit.com/r/androiddev/comments/1urdi75/best_way_to_render_office_documents_docx_pptx/)
-- [🤖 [Hiring] Android engineers at State Farm](https://www.reddit.com/r/androiddev/comments/1urcxcq/hiring_android_engineers_at_state_farm/)
-- [Poco C71 bootloader unlocking + LineageOS Guide](https://www.reddit.com/r/androiddev/comments/1ur9st1/poco_c71_bootloader_unlocking_lineageos_guide/)
-- [Onboarding android dev course](https://www.reddit.com/r/androiddev/comments/1ur78rd/onboarding_android_dev_course/)
-- [Android Studio Quail 2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1ur71vl/android_studio_quail_2_rc_2_now_available/)
-- [Mock tests are now live on AndroidDevKit](https://www.reddit.com/r/androiddev/comments/1uqwjxp/mock_tests_are_now_live_on_androiddevkit/)
-- [Full voice-agent loop on a Galaxy S23 in ~1.5 GB, real-time on CPU &lpar;LiteRT/ONNX&rpar; - measured numbers](https://www.reddit.com/r/androiddev/comments/1uqnp5y/full_voiceagent_loop_on_a_galaxy_s23_in_15_gb/)
-- [Any way to create automated sign ups for Play store Closed testing](https://www.reddit.com/r/androiddev/comments/1uqcoka/any_way_to_create_automated_sign_ups_for_play/)
-- [Good examples of Material 3 Expressive applications?](https://www.reddit.com/r/androiddev/comments/1uq4o8u/good_examples_of_material_3_expressive/)
-- [Where can I learn android testing?](https://www.reddit.com/r/androiddev/comments/1uq1vas/where_can_i_learn_android_testing/)
+- [Building a launcher entirely around gesture memory with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1uscnq7/building_a_launcher_entirely_around_gesture/)
+- [Which third-party Android app stores are widely used](https://www.reddit.com/r/androiddev/comments/1uscgpy/which_thirdparty_android_app_stores_are_widely/)
+- [Speed up your high-traffic KMP endpoints by 66% using 50% less memory—without touching your legacy APIs](https://www.reddit.com/r/androiddev/comments/1usbvo9/speed_up_your_hightraffic_kmp_endpoints_by_66/)
+- [Android Developer &lpar;3.5 yrs&rpar; looking for referrals or leads](https://www.reddit.com/r/androiddev/comments/1us2ez4/android_developer_35_yrs_looking_for_referrals_or/)
+- [Debug Android dex with native code](https://www.reddit.com/r/androiddev/comments/1us02ha/debug_android_dex_with_native_code/)
+- [What would you put in an Android AAB release-readiness checklist?](https://www.reddit.com/r/androiddev/comments/1urwy3n/what_would_you_put_in_an_android_aab/)
+- [Compose DND update with Kanban Demo](https://www.reddit.com/r/androiddev/comments/1urwkve/compose_dnd_update_with_kanban_demo/)
+- [Struggling with motivation after 6+ years in Android dev – AI doing most of the work now How are you guys staying motivated and relevant in 2026?](https://www.reddit.com/r/androiddev/comments/1urwifv/struggling_with_motivation_after_6_years_in/)
+- [Is There a Standard Android API to Get Marketing Device Names Across All Manufacturers?](https://www.reddit.com/r/androiddev/comments/1urvsbt/is_there_a_standard_android_api_to_get_marketing/)
+- [What&#39;s the thing you hate about Gradle for Android Development?](https://www.reddit.com/r/androiddev/comments/1uruc1n/whats_the_thing_you_hate_about_gradle_for_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
