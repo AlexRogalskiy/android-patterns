@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confusion about Activity and Fragments and Android App architecture](https://www.reddit.com/r/androiddev/comments/1ut8it1/confusion_about_activity_and_fragments_and/)
+- [Is there an Android equivalent of Apple&#39;s PencilKit for drawing/sketching in apps?](https://www.reddit.com/r/androiddev/comments/1ut7gaf/is_there_an_android_equivalent_of_apples/)
+- [Fresher Android Eng: HAL/C++ vs. Java/Kotlin Framework which path has better long-term value?](https://www.reddit.com/r/androiddev/comments/1usvvs7/fresher_android_eng_halc_vs_javakotlin_framework/)
+- [I&#39;ve been thinking about an app idea and would love to get some feedback.](https://www.reddit.com/r/androiddev/comments/1usreq6/ive_been_thinking_about_an_app_idea_and_would/)
+- [Monitor number of opted-in testers and test days in play store developer console](https://www.reddit.com/r/androiddev/comments/1usq08n/monitor_number_of_optedin_testers_and_test_days/)
+- [Inside SubcomposeLayout: Jetpack Compose’s Most Misunderstood API | Shreyas Patil&#39;s Blog](https://www.reddit.com/r/androiddev/comments/1usm9wl/inside_subcomposelayout_jetpack_composes_most/)
+- [Using an Android handheld &lpar;with built-in Xbox gamepad&rpar; as a native controller for Windows PC via Bluetooth.](https://www.reddit.com/r/androiddev/comments/1usjgxz/using_an_android_handheld_with_builtin_xbox/)
+- [Android Studio Quail 3 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1usg2tf/android_studio_quail_3_canary_4_now_available/)
 - [Building a launcher entirely around gesture memory with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1uscnq7/building_a_launcher_entirely_around_gesture/)
 - [Which third-party Android app stores are widely used](https://www.reddit.com/r/androiddev/comments/1uscgpy/which_thirdparty_android_app_stores_are_widely/)
-- [Speed up your high-traffic KMP endpoints by 66% using 50% less memory—without touching your legacy APIs](https://www.reddit.com/r/androiddev/comments/1usbvo9/speed_up_your_hightraffic_kmp_endpoints_by_66/)
-- [Android Developer &lpar;3.5 yrs&rpar; looking for referrals or leads](https://www.reddit.com/r/androiddev/comments/1us2ez4/android_developer_35_yrs_looking_for_referrals_or/)
-- [Debug Android dex with native code](https://www.reddit.com/r/androiddev/comments/1us02ha/debug_android_dex_with_native_code/)
-- [What would you put in an Android AAB release-readiness checklist?](https://www.reddit.com/r/androiddev/comments/1urwy3n/what_would_you_put_in_an_android_aab/)
-- [Compose DND update with Kanban Demo](https://www.reddit.com/r/androiddev/comments/1urwkve/compose_dnd_update_with_kanban_demo/)
-- [Struggling with motivation after 6+ years in Android dev – AI doing most of the work now How are you guys staying motivated and relevant in 2026?](https://www.reddit.com/r/androiddev/comments/1urwifv/struggling_with_motivation_after_6_years_in/)
-- [Is There a Standard Android API to Get Marketing Device Names Across All Manufacturers?](https://www.reddit.com/r/androiddev/comments/1urvsbt/is_there_a_standard_android_api_to_get_marketing/)
-- [What&#39;s the thing you hate about Gradle for Android Development?](https://www.reddit.com/r/androiddev/comments/1uruc1n/whats_the_thing_you_hate_about_gradle_for_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
