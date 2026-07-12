@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is this effect possible on android?](https://www.reddit.com/r/androiddev/comments/1uu0bjt/is_this_effect_possible_on_android/)
+- [Do you care about obfuscating your Android apps?](https://www.reddit.com/r/androiddev/comments/1utunwu/do_you_care_about_obfuscating_your_android_apps/)
+- [Porting an iOS app to Android](https://www.reddit.com/r/androiddev/comments/1utsa5t/porting_an_ios_app_to_android/)
+- [What do interviewers actually look for in Mobile System Design interviews?](https://www.reddit.com/r/androiddev/comments/1utkjzx/what_do_interviewers_actually_look_for_in_mobile/)
+- [Android Studio emulator says &quot;Pixel 8 Pro is already running as process XXXXX&quot;, but no emulator window opens. How do I fix this?](https://www.reddit.com/r/androiddev/comments/1utgf2t/android_studio_emulator_says_pixel_8_pro_is/)
+- [[APP, PROMOTION] I built a fully offline, open-source call screening app for Android](https://www.reddit.com/r/androiddev/comments/1utevcv/app_promotion_i_built_a_fully_offline_opensource/)
 - [Confusion about Activity and Fragments and Android App architecture](https://www.reddit.com/r/androiddev/comments/1ut8it1/confusion_about_activity_and_fragments_and/)
 - [Is there an Android equivalent of Apple&#39;s PencilKit for drawing/sketching in apps?](https://www.reddit.com/r/androiddev/comments/1ut7gaf/is_there_an_android_equivalent_of_apples/)
+- [AI tools for Android UI design - what&#39;s worth using in 2026](https://www.reddit.com/r/androiddev/comments/1ut6fz6/ai_tools_for_android_ui_design_whats_worth_using/)
 - [Fresher Android Eng: HAL/C++ vs. Java/Kotlin Framework which path has better long-term value?](https://www.reddit.com/r/androiddev/comments/1usvvs7/fresher_android_eng_halc_vs_javakotlin_framework/)
-- [I&#39;ve been thinking about an app idea and would love to get some feedback.](https://www.reddit.com/r/androiddev/comments/1usreq6/ive_been_thinking_about_an_app_idea_and_would/)
-- [Monitor number of opted-in testers and test days in play store developer console](https://www.reddit.com/r/androiddev/comments/1usq08n/monitor_number_of_optedin_testers_and_test_days/)
-- [Inside SubcomposeLayout: Jetpack Compose’s Most Misunderstood API | Shreyas Patil&#39;s Blog](https://www.reddit.com/r/androiddev/comments/1usm9wl/inside_subcomposelayout_jetpack_composes_most/)
-- [Using an Android handheld &lpar;with built-in Xbox gamepad&rpar; as a native controller for Windows PC via Bluetooth.](https://www.reddit.com/r/androiddev/comments/1usjgxz/using_an_android_handheld_with_builtin_xbox/)
-- [Android Studio Quail 3 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1usg2tf/android_studio_quail_3_canary_4_now_available/)
-- [Building a launcher entirely around gesture memory with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1uscnq7/building_a_launcher_entirely_around_gesture/)
-- [Which third-party Android app stores are widely used](https://www.reddit.com/r/androiddev/comments/1uscgpy/which_thirdparty_android_app_stores_are_widely/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
