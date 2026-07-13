@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Show r/androiddev: I built sadb – A smart Bash wrapper for ADB to fix the endless adb -s copy-pasting](https://www.reddit.com/r/androiddev/comments/1uv0c0w/show_randroiddev_i_built_sadb_a_smart_bash/)
+- [[Partnership] Looking for Android Developer&lpar;s&rpar; — Revenue Share, No Upfront Fee](https://www.reddit.com/r/androiddev/comments/1uur5my/partnership_looking_for_android_developers/)
+- [Flickering app graphics on Galaxy S26 Ultra](https://www.reddit.com/r/androiddev/comments/1uuq0d9/flickering_app_graphics_on_galaxy_s26_ultra/)
+- [Exploiting PackageInstaller parsing: A 974-byte modern Android 14 PoC.](https://www.reddit.com/r/androiddev/comments/1uuom29/exploiting_packageinstaller_parsing_a_974byte/)
+- [Building an open-source Compose Multiplatform image comparison library — looking for API and architecture feedback](https://www.reddit.com/r/androiddev/comments/1uuf1kq/building_an_opensource_compose_multiplatform/)
+- [Which languages would you prioritize after English for an Android app?](https://www.reddit.com/r/androiddev/comments/1uu96dj/which_languages_would_you_prioritize_after/)
 - [Is this effect possible on android?](https://www.reddit.com/r/androiddev/comments/1uu0bjt/is_this_effect_possible_on_android/)
 - [Do you care about obfuscating your Android apps?](https://www.reddit.com/r/androiddev/comments/1utunwu/do_you_care_about_obfuscating_your_android_apps/)
 - [Porting an iOS app to Android](https://www.reddit.com/r/androiddev/comments/1utsa5t/porting_an_ios_app_to_android/)
 - [What do interviewers actually look for in Mobile System Design interviews?](https://www.reddit.com/r/androiddev/comments/1utkjzx/what_do_interviewers_actually_look_for_in_mobile/)
-- [Android Studio emulator says &quot;Pixel 8 Pro is already running as process XXXXX&quot;, but no emulator window opens. How do I fix this?](https://www.reddit.com/r/androiddev/comments/1utgf2t/android_studio_emulator_says_pixel_8_pro_is/)
-- [[APP, PROMOTION] I built a fully offline, open-source call screening app for Android](https://www.reddit.com/r/androiddev/comments/1utevcv/app_promotion_i_built_a_fully_offline_opensource/)
-- [Confusion about Activity and Fragments and Android App architecture](https://www.reddit.com/r/androiddev/comments/1ut8it1/confusion_about_activity_and_fragments_and/)
-- [Is there an Android equivalent of Apple&#39;s PencilKit for drawing/sketching in apps?](https://www.reddit.com/r/androiddev/comments/1ut7gaf/is_there_an_android_equivalent_of_apples/)
-- [AI tools for Android UI design - what&#39;s worth using in 2026](https://www.reddit.com/r/androiddev/comments/1ut6fz6/ai_tools_for_android_ui_design_whats_worth_using/)
-- [Fresher Android Eng: HAL/C++ vs. Java/Kotlin Framework which path has better long-term value?](https://www.reddit.com/r/androiddev/comments/1usvvs7/fresher_android_eng_halc_vs_javakotlin_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
