@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Show r/androiddev: I built sadb – A smart Bash wrapper for ADB to fix the endless adb -s copy-pasting](https://www.reddit.com/r/androiddev/comments/1uv0c0w/show_randroiddev_i_built_sadb_a_smart_bash/)
-- [[Partnership] Looking for Android Developer&lpar;s&rpar; — Revenue Share, No Upfront Fee](https://www.reddit.com/r/androiddev/comments/1uur5my/partnership_looking_for_android_developers/)
-- [Flickering app graphics on Galaxy S26 Ultra](https://www.reddit.com/r/androiddev/comments/1uuq0d9/flickering_app_graphics_on_galaxy_s26_ultra/)
-- [Exploiting PackageInstaller parsing: A 974-byte modern Android 14 PoC.](https://www.reddit.com/r/androiddev/comments/1uuom29/exploiting_packageinstaller_parsing_a_974byte/)
-- [Building an open-source Compose Multiplatform image comparison library — looking for API and architecture feedback](https://www.reddit.com/r/androiddev/comments/1uuf1kq/building_an_opensource_compose_multiplatform/)
-- [Which languages would you prioritize after English for an Android app?](https://www.reddit.com/r/androiddev/comments/1uu96dj/which_languages_would_you_prioritize_after/)
-- [Is this effect possible on android?](https://www.reddit.com/r/androiddev/comments/1uu0bjt/is_this_effect_possible_on_android/)
-- [Do you care about obfuscating your Android apps?](https://www.reddit.com/r/androiddev/comments/1utunwu/do_you_care_about_obfuscating_your_android_apps/)
-- [Porting an iOS app to Android](https://www.reddit.com/r/androiddev/comments/1utsa5t/porting_an_ios_app_to_android/)
-- [What do interviewers actually look for in Mobile System Design interviews?](https://www.reddit.com/r/androiddev/comments/1utkjzx/what_do_interviewers_actually_look_for_in_mobile/)
+- [Please i have a question](https://www.reddit.com/r/androiddev/comments/1uvnmhx/please_i_have_a_question/)
+- [Google&#39;s new developer registration requirements could affect Android&#39;s openness](https://www.reddit.com/r/androiddev/comments/1uvlcn5/googles_new_developer_registration_requirements/)
+- [Built a small CLI that triages AOSP bugreports fully offline](https://www.reddit.com/r/androiddev/comments/1uvjyqh/built_a_small_cli_that_triages_aosp_bugreports/)
+- [Pros &amp; Cons of &quot;Releases not signed by Play&quot;](https://www.reddit.com/r/androiddev/comments/1uvhkd6/pros_cons_of_releases_not_signed_by_play/)
+- [Help compiling llama.cpp with Vulkan for Android &lpar;Snapdragon 8 Elite / Adreno 750&rpar; — need `vulkan-shaders-gen` built for macOS ARM64 host](https://www.reddit.com/r/androiddev/comments/1uvdvdv/help_compiling_llamacpp_with_vulkan_for_android/)
+- [I designed the icon for my Android app using only the brush tool and paint bucket tool. What do you think?](https://www.reddit.com/r/androiddev/comments/1uvcc7r/i_designed_the_icon_for_my_android_app_using_only/)
+- [An Android use case for large static lookup tables: Chinese Telegraph Code](https://www.reddit.com/r/androiddev/comments/1uv9nb7/an_android_use_case_for_large_static_lookup/)
+- [When do we get targetSdk requirement for API level 36?](https://www.reddit.com/r/androiddev/comments/1uv6tt5/when_do_we_get_targetsdk_requirement_for_api/)
+- [Android app rejection submission](https://www.reddit.com/r/androiddev/comments/1uv6bib/android_app_rejection_submission/)
+- [[Showcase] haptify — a Dart CLI that turns audio files into iOS + Android haptics &lpar;and can do it at runtime too&rpar;](https://www.reddit.com/r/androiddev/comments/1uv56th/showcase_haptify_a_dart_cli_that_turns_audio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
