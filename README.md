@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is asking the user to grant permission for unrestricted battery usage a bad thing?](https://www.reddit.com/r/androiddev/comments/1uwe5s0/is_asking_the_user_to_grant_permission_for/)
+- [Android Studio Quail 3 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1uwb3o3/android_studio_quail_3_rc_1_now_available/)
+- [Android Studio Quail 2 now available](https://www.reddit.com/r/androiddev/comments/1uwb3nw/android_studio_quail_2_now_available/)
+- [I built a runtime WCAG accessibility scanner for Jetpack Compose — open source, built after 3 years on UBS Mobile Banking](https://www.reddit.com/r/androiddev/comments/1uwaue9/i_built_a_runtime_wcag_accessibility_scanner_for/)
+- [NobodyWho now supports Text-to-Speech &amp; Speech-to-Text! 🔊🎙️](https://www.reddit.com/r/androiddev/comments/1uw7jc8/nobodywho_now_supports_texttospeech_speechtotext/)
+- [Lessons Learned Building My First Android App](https://www.reddit.com/r/androiddev/comments/1uw6k8r/lessons_learned_building_my_first_android_app/)
+- [LazySurface, a lazy 2D-plane layout for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1uw5u6v/lazysurface_a_lazy_2dplane_layout_for_compose/)
+- [Creator subscriptions like Twitch/Patreon on iOS &amp; Android](https://www.reddit.com/r/androiddev/comments/1uvzi54/creator_subscriptions_like_twitchpatreon_on_ios/)
 - [Please i have a question](https://www.reddit.com/r/androiddev/comments/1uvnmhx/please_i_have_a_question/)
 - [Google&#39;s new developer registration requirements could affect Android&#39;s openness](https://www.reddit.com/r/androiddev/comments/1uvlcn5/googles_new_developer_registration_requirements/)
-- [Built a small CLI that triages AOSP bugreports fully offline](https://www.reddit.com/r/androiddev/comments/1uvjyqh/built_a_small_cli_that_triages_aosp_bugreports/)
-- [Pros &amp; Cons of &quot;Releases not signed by Play&quot;](https://www.reddit.com/r/androiddev/comments/1uvhkd6/pros_cons_of_releases_not_signed_by_play/)
-- [Help compiling llama.cpp with Vulkan for Android &lpar;Snapdragon 8 Elite / Adreno 750&rpar; — need `vulkan-shaders-gen` built for macOS ARM64 host](https://www.reddit.com/r/androiddev/comments/1uvdvdv/help_compiling_llamacpp_with_vulkan_for_android/)
-- [I designed the icon for my Android app using only the brush tool and paint bucket tool. What do you think?](https://www.reddit.com/r/androiddev/comments/1uvcc7r/i_designed_the_icon_for_my_android_app_using_only/)
-- [An Android use case for large static lookup tables: Chinese Telegraph Code](https://www.reddit.com/r/androiddev/comments/1uv9nb7/an_android_use_case_for_large_static_lookup/)
-- [When do we get targetSdk requirement for API level 36?](https://www.reddit.com/r/androiddev/comments/1uv6tt5/when_do_we_get_targetsdk_requirement_for_api/)
-- [Android app rejection submission](https://www.reddit.com/r/androiddev/comments/1uv6bib/android_app_rejection_submission/)
-- [[Showcase] haptify — a Dart CLI that turns audio files into iOS + Android haptics &lpar;and can do it at runtime too&rpar;](https://www.reddit.com/r/androiddev/comments/1uv56th/showcase_haptify_a_dart_cli_that_turns_audio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
