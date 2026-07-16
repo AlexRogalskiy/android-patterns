@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is asking the user to grant permission for unrestricted battery usage a bad thing?](https://www.reddit.com/r/androiddev/comments/1uwe5s0/is_asking_the_user_to_grant_permission_for/)
-- [Android Studio Quail 3 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1uwb3o3/android_studio_quail_3_rc_1_now_available/)
-- [Android Studio Quail 2 now available](https://www.reddit.com/r/androiddev/comments/1uwb3nw/android_studio_quail_2_now_available/)
-- [I built a runtime WCAG accessibility scanner for Jetpack Compose — open source, built after 3 years on UBS Mobile Banking](https://www.reddit.com/r/androiddev/comments/1uwaue9/i_built_a_runtime_wcag_accessibility_scanner_for/)
-- [NobodyWho now supports Text-to-Speech &amp; Speech-to-Text! 🔊🎙️](https://www.reddit.com/r/androiddev/comments/1uw7jc8/nobodywho_now_supports_texttospeech_speechtotext/)
-- [Lessons Learned Building My First Android App](https://www.reddit.com/r/androiddev/comments/1uw6k8r/lessons_learned_building_my_first_android_app/)
-- [LazySurface, a lazy 2D-plane layout for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1uw5u6v/lazysurface_a_lazy_2dplane_layout_for_compose/)
-- [Creator subscriptions like Twitch/Patreon on iOS &amp; Android](https://www.reddit.com/r/androiddev/comments/1uvzi54/creator_subscriptions_like_twitchpatreon_on_ios/)
-- [Please i have a question](https://www.reddit.com/r/androiddev/comments/1uvnmhx/please_i_have_a_question/)
-- [Google&#39;s new developer registration requirements could affect Android&#39;s openness](https://www.reddit.com/r/androiddev/comments/1uvlcn5/googles_new_developer_registration_requirements/)
+- [Third-party app stores coming to Google Play next week as Epic settlement withdrawn](https://www.reddit.com/r/androiddev/comments/1uxq1f7/thirdparty_app_stores_coming_to_google_play_next/)
+- [Google Play rejected app because content is behind a paywall, but my app only supports Google Sign-In](https://www.reddit.com/r/androiddev/comments/1uxa39e/google_play_rejected_app_because_content_is/)
+- [When Flows Won&#39;t Cut It](https://www.reddit.com/r/androiddev/comments/1ux8sva/when_flows_wont_cut_it/)
+- [Can ADB grant Accessibility, Location, and Notification Permissions permanently without device owner?](https://www.reddit.com/r/androiddev/comments/1ux71ez/can_adb_grant_accessibility_location_and/)
+- [Automated App Strings translation with Gemini in Google Play Console. Unexpected gotchas](https://www.reddit.com/r/androiddev/comments/1ux6ayl/automated_app_strings_translation_with_gemini_in/)
+- [I am slowly going insane over the Google Play developer account](https://www.reddit.com/r/androiddev/comments/1ux5neq/i_am_slowly_going_insane_over_the_google_play/)
+- [Firebase Remote Config start charging beginning Sep 1](https://www.reddit.com/r/androiddev/comments/1ux5eab/firebase_remote_config_start_charging_beginning/)
+- [It took a while, but it arrived. Pay-As-You-Go in RemoteConfig](https://www.reddit.com/r/androiddev/comments/1ux3fhk/it_took_a_while_but_it_arrived_payasyougo_in/)
+- [How to bulk update PPP adjusted values for subscriptions and one time products on play console ? Is there any free tool ?](https://www.reddit.com/r/androiddev/comments/1ux2fd2/how_to_bulk_update_ppp_adjusted_values_for/)
+- [Compose navigation + offline UI state on Android — process death, optimistic updates, pending work](https://www.reddit.com/r/androiddev/comments/1uwylo8/compose_navigation_offline_ui_state_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
