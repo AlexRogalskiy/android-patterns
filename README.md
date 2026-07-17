@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Third-party app stores coming to Google Play next week as Epic settlement withdrawn](https://www.reddit.com/r/androiddev/comments/1uxq1f7/thirdparty_app_stores_coming_to_google_play_next/)
-- [Google Play rejected app because content is behind a paywall, but my app only supports Google Sign-In](https://www.reddit.com/r/androiddev/comments/1uxa39e/google_play_rejected_app_because_content_is/)
-- [When Flows Won&#39;t Cut It](https://www.reddit.com/r/androiddev/comments/1ux8sva/when_flows_wont_cut_it/)
-- [Can ADB grant Accessibility, Location, and Notification Permissions permanently without device owner?](https://www.reddit.com/r/androiddev/comments/1ux71ez/can_adb_grant_accessibility_location_and/)
-- [Automated App Strings translation with Gemini in Google Play Console. Unexpected gotchas](https://www.reddit.com/r/androiddev/comments/1ux6ayl/automated_app_strings_translation_with_gemini_in/)
-- [I am slowly going insane over the Google Play developer account](https://www.reddit.com/r/androiddev/comments/1ux5neq/i_am_slowly_going_insane_over_the_google_play/)
-- [Firebase Remote Config start charging beginning Sep 1](https://www.reddit.com/r/androiddev/comments/1ux5eab/firebase_remote_config_start_charging_beginning/)
-- [It took a while, but it arrived. Pay-As-You-Go in RemoteConfig](https://www.reddit.com/r/androiddev/comments/1ux3fhk/it_took_a_while_but_it_arrived_payasyougo_in/)
-- [How to bulk update PPP adjusted values for subscriptions and one time products on play console ? Is there any free tool ?](https://www.reddit.com/r/androiddev/comments/1ux2fd2/how_to_bulk_update_ppp_adjusted_values_for/)
-- [Compose navigation + offline UI state on Android — process death, optimistic updates, pending work](https://www.reddit.com/r/androiddev/comments/1uwylo8/compose_navigation_offline_ui_state_on_android/)
+- [Do you have any suggestions for my first application?](https://www.reddit.com/r/androiddev/comments/1uyjusf/do_you_have_any_suggestions_for_my_first/)
+- [The 16 ms frame budget, and the three things that steal it besides your own UI](https://www.reddit.com/r/androiddev/comments/1uygi2q/the_16_ms_frame_budget_and_the_three_things_that/)
+- [[Request for Feedback] Android On-Device GenAI APIs](https://www.reddit.com/r/androiddev/comments/1uy9qw1/request_for_feedback_android_ondevice_genai_apis/)
+- [Android Studio Quail 4 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1uy3nnh/android_studio_quail_4_canary_1_now_available/)
+- [An ADB commands cheat sheet if anyone needs something like this](https://www.reddit.com/r/androiddev/comments/1uxy1q7/an_adb_commands_cheat_sheet_if_anyone_needs/)
+- [Help with Google Play Console questions on shared data](https://www.reddit.com/r/androiddev/comments/1uxxnkj/help_with_google_play_console_questions_on_shared/)
+- [Tips for &quot;iOS-like&quot; animations on Android without subscription-based tools?](https://www.reddit.com/r/androiddev/comments/1uxwre8/tips_for_ioslike_animations_on_android_without/)
+- [Google Play Developer Program Policy Update - 16-07-2026](https://www.reddit.com/r/androiddev/comments/1uxvu14/google_play_developer_program_policy_update/)
+- [Nothing launcher is out! Free on GitHub](https://www.reddit.com/r/androiddev/comments/1uxvr30/nothing_launcher_is_out_free_on_github/)
+- [How widely is Jetpack Compose used in production, and are teams actually migrating legacy apps?](https://www.reddit.com/r/androiddev/comments/1uxsk7c/how_widely_is_jetpack_compose_used_in_production/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
