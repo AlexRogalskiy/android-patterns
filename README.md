@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you deal with notification tap analytics and the system autogrouping your notifications?](https://www.reddit.com/r/androiddev/comments/1uz5you/how_do_you_deal_with_notification_tap_analytics/)
+- [RevenueCat or Stripe for paywalls — what do you use?](https://www.reddit.com/r/androiddev/comments/1uz4q66/revenuecat_or_stripe_for_paywalls_what_do_you_use/)
+- [Back with an update on adbt after my last post here](https://www.reddit.com/r/androiddev/comments/1uz1ujk/back_with_an_update_on_adbt_after_my_last_post/)
+- [Is there any fundamental limitation to high-speed file transfer using multiple animated QR codes?](https://www.reddit.com/r/androiddev/comments/1uz1g8h/is_there_any_fundamental_limitation_to_highspeed/)
+- [I’m building an evidence-first audit pipeline for Android apps](https://www.reddit.com/r/androiddev/comments/1uyz58j/im_building_an_evidencefirst_audit_pipeline_for/)
 - [Do you have any suggestions for my first application?](https://www.reddit.com/r/androiddev/comments/1uyjusf/do_you_have_any_suggestions_for_my_first/)
 - [The 16 ms frame budget, and the three things that steal it besides your own UI](https://www.reddit.com/r/androiddev/comments/1uygi2q/the_16_ms_frame_budget_and_the_three_things_that/)
 - [[Request for Feedback] Android On-Device GenAI APIs](https://www.reddit.com/r/androiddev/comments/1uy9qw1/request_for_feedback_android_ondevice_genai_apis/)
 - [Android Studio Quail 4 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1uy3nnh/android_studio_quail_4_canary_1_now_available/)
 - [An ADB commands cheat sheet if anyone needs something like this](https://www.reddit.com/r/androiddev/comments/1uxy1q7/an_adb_commands_cheat_sheet_if_anyone_needs/)
-- [Help with Google Play Console questions on shared data](https://www.reddit.com/r/androiddev/comments/1uxxnkj/help_with_google_play_console_questions_on_shared/)
-- [Tips for &quot;iOS-like&quot; animations on Android without subscription-based tools?](https://www.reddit.com/r/androiddev/comments/1uxwre8/tips_for_ioslike_animations_on_android_without/)
-- [Google Play Developer Program Policy Update - 16-07-2026](https://www.reddit.com/r/androiddev/comments/1uxvu14/google_play_developer_program_policy_update/)
-- [Nothing launcher is out! Free on GitHub](https://www.reddit.com/r/androiddev/comments/1uxvr30/nothing_launcher_is_out_free_on_github/)
-- [How widely is Jetpack Compose used in production, and are teams actually migrating legacy apps?](https://www.reddit.com/r/androiddev/comments/1uxsk7c/how_widely_is_jetpack_compose_used_in_production/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
