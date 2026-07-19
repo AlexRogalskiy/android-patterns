@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you deal with notification tap analytics and the system autogrouping your notifications?](https://www.reddit.com/r/androiddev/comments/1uz5you/how_do_you_deal_with_notification_tap_analytics/)
-- [RevenueCat or Stripe for paywalls — what do you use?](https://www.reddit.com/r/androiddev/comments/1uz4q66/revenuecat_or_stripe_for_paywalls_what_do_you_use/)
-- [Back with an update on adbt after my last post here](https://www.reddit.com/r/androiddev/comments/1uz1ujk/back_with_an_update_on_adbt_after_my_last_post/)
-- [Is there any fundamental limitation to high-speed file transfer using multiple animated QR codes?](https://www.reddit.com/r/androiddev/comments/1uz1g8h/is_there_any_fundamental_limitation_to_highspeed/)
-- [I’m building an evidence-first audit pipeline for Android apps](https://www.reddit.com/r/androiddev/comments/1uyz58j/im_building_an_evidencefirst_audit_pipeline_for/)
-- [Do you have any suggestions for my first application?](https://www.reddit.com/r/androiddev/comments/1uyjusf/do_you_have_any_suggestions_for_my_first/)
-- [The 16 ms frame budget, and the three things that steal it besides your own UI](https://www.reddit.com/r/androiddev/comments/1uygi2q/the_16_ms_frame_budget_and_the_three_things_that/)
-- [[Request for Feedback] Android On-Device GenAI APIs](https://www.reddit.com/r/androiddev/comments/1uy9qw1/request_for_feedback_android_ondevice_genai_apis/)
-- [Android Studio Quail 4 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1uy3nnh/android_studio_quail_4_canary_1_now_available/)
-- [An ADB commands cheat sheet if anyone needs something like this](https://www.reddit.com/r/androiddev/comments/1uxy1q7/an_adb_commands_cheat_sheet_if_anyone_needs/)
+- [My app has 0% installs from Play Store search for 3 months straight - is this normal?](https://www.reddit.com/r/androiddev/comments/1v0dpa9/my_app_has_0_installs_from_play_store_search_for/)
+- [A full offline voice agent in 1.2 GB of RAM — say a command, the phone executes it and answers in 0.9 s &lpar;demo APK + Apache-2.0 SDK&rpar;](https://www.reddit.com/r/androiddev/comments/1v07clk/a_full_offline_voice_agent_in_12_gb_of_ram_say_a/)
+- [ktlsp: a fast language server for java and kotlin](https://www.reddit.com/r/androiddev/comments/1uzz0wk/ktlsp_a_fast_language_server_for_java_and_kotlin/)
+- [Introducing Real time compose playground](https://www.reddit.com/r/androiddev/comments/1uzywkh/introducing_real_time_compose_playground/)
+- [How do you currently handle regional pricing for Android apps?](https://www.reddit.com/r/androiddev/comments/1uzw1dy/how_do_you_currently_handle_regional_pricing_for/)
+- [Internal testing access issue after accidentally replacing tester emails](https://www.reddit.com/r/androiddev/comments/1uzt4x3/internal_testing_access_issue_after_accidentally/)
+- [Making a fully offline app.](https://www.reddit.com/r/androiddev/comments/1uzt47l/making_a_fully_offline_app/)
+- [Google Play reviwing older build versions](https://www.reddit.com/r/androiddev/comments/1uzqbk2/google_play_reviwing_older_build_versions/)
+- [Google Partnership Opportunity - how exclusive is it?](https://www.reddit.com/r/androiddev/comments/1uzp7vy/google_partnership_opportunity_how_exclusive_is_it/)
+- [Returning to Android dev after a 2-month break — review everything from scratch &lpar;Kotlin/Java basics&rpar; or just Android-specific concepts?](https://www.reddit.com/r/androiddev/comments/1uzod5g/returning_to_android_dev_after_a_2month_break/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
