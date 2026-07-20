@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My app has 0% installs from Play Store search for 3 months straight - is this normal?](https://www.reddit.com/r/androiddev/comments/1v0dpa9/my_app_has_0_installs_from_play_store_search_for/)
-- [A full offline voice agent in 1.2 GB of RAM — say a command, the phone executes it and answers in 0.9 s &lpar;demo APK + Apache-2.0 SDK&rpar;](https://www.reddit.com/r/androiddev/comments/1v07clk/a_full_offline_voice_agent_in_12_gb_of_ram_say_a/)
-- [ktlsp: a fast language server for java and kotlin](https://www.reddit.com/r/androiddev/comments/1uzz0wk/ktlsp_a_fast_language_server_for_java_and_kotlin/)
-- [Introducing Real time compose playground](https://www.reddit.com/r/androiddev/comments/1uzywkh/introducing_real_time_compose_playground/)
-- [How do you currently handle regional pricing for Android apps?](https://www.reddit.com/r/androiddev/comments/1uzw1dy/how_do_you_currently_handle_regional_pricing_for/)
-- [Internal testing access issue after accidentally replacing tester emails](https://www.reddit.com/r/androiddev/comments/1uzt4x3/internal_testing_access_issue_after_accidentally/)
-- [Making a fully offline app.](https://www.reddit.com/r/androiddev/comments/1uzt47l/making_a_fully_offline_app/)
-- [Google Play reviwing older build versions](https://www.reddit.com/r/androiddev/comments/1uzqbk2/google_play_reviwing_older_build_versions/)
-- [Google Partnership Opportunity - how exclusive is it?](https://www.reddit.com/r/androiddev/comments/1uzp7vy/google_partnership_opportunity_how_exclusive_is_it/)
-- [Returning to Android dev after a 2-month break — review everything from scratch &lpar;Kotlin/Java basics&rpar; or just Android-specific concepts?](https://www.reddit.com/r/androiddev/comments/1uzod5g/returning_to_android_dev_after_a_2month_break/)
+- [Orientation lock](https://www.reddit.com/r/androiddev/comments/1v1axay/orientation_lock/)
+- [Learning Compose by Google&#39;s course for beginners](https://www.reddit.com/r/androiddev/comments/1v13qbw/learning_compose_by_googles_course_for_beginners/)
+- [I missed Bloc Observer after moving to Android, so I built Flow Observer](https://www.reddit.com/r/androiddev/comments/1v10a47/i_missed_bloc_observer_after_moving_to_android_so/)
+- [Building AI features in KMP: define the interface, iterate locally with Koog, move to the backend when done](https://www.reddit.com/r/androiddev/comments/1v0x4sw/building_ai_features_in_kmp_define_the_interface/)
+- [Photo viewing issue](https://www.reddit.com/r/androiddev/comments/1v0uiv8/photo_viewing_issue/)
+- [Meet unzstd](https://www.reddit.com/r/androiddev/comments/1v0rpir/meet_unzstd/)
+- [Should I re-introduce bugs in my app for closed testing?](https://www.reddit.com/r/androiddev/comments/1v0n6pb/should_i_reintroduce_bugs_in_my_app_for_closed/)
+- [What&#39;s the last Google Play policy or Play Console requirement that actually cost you time?](https://www.reddit.com/r/androiddev/comments/1v0lw4q/whats_the_last_google_play_policy_or_play_console/)
+- [Measuring the LLMs for android app development](https://www.reddit.com/r/androiddev/comments/1v0ju89/measuring_the_llms_for_android_app_development/)
+- [I got so irritated by the banking/UPI apps breaking when developers settings are on! So built something](https://www.reddit.com/r/androiddev/comments/1v0ivad/i_got_so_irritated_by_the_bankingupi_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
