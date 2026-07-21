@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where do color-by-number apps actually get their image libraries?](https://www.reddit.com/r/androiddev/comments/1v25o58/where_do_colorbynumber_apps_actually_get_their/)
+- [How do solo/indie Android developers test their apps without a QA team?](https://www.reddit.com/r/androiddev/comments/1v25eaf/how_do_soloindie_android_developers_test_their/)
+- [Advice needed: secondary touch input leaking to primary cashier app on Sunmi T3 POS - Need workaround for ads-only display](https://www.reddit.com/r/androiddev/comments/1v22kya/advice_needed_secondary_touch_input_leaking_to/)
+- [Tasker is awesome but I want to discuss something](https://www.reddit.com/r/androiddev/comments/1v1tkyk/tasker_is_awesome_but_i_want_to_discuss_something/)
+- [Hobbyist project: one sideloaded APK that hosts web apps from GitHub Pages... is this useful, or does it already exist?](https://www.reddit.com/r/androiddev/comments/1v1sffc/hobbyist_project_one_sideloaded_apk_that_hosts/)
+- [Built a multi-module Android library exposing phone APIs as MCP tool](https://www.reddit.com/r/androiddev/comments/1v1qctn/built_a_multimodule_android_library_exposing/)
+- [Impressions have appeared in the Google Play Console 🔥](https://www.reddit.com/r/androiddev/comments/1v1prgh/impressions_have_appeared_in_the_google_play/)
+- [I need some UI/UX tips](https://www.reddit.com/r/androiddev/comments/1v1myf4/i_need_some_uiux_tips/)
+- [Android Studio Quail 3 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1v1mc1f/android_studio_quail_3_rc_2_now_available/)
 - [Orientation lock](https://www.reddit.com/r/androiddev/comments/1v1axay/orientation_lock/)
-- [Learning Compose by Google&#39;s course for beginners](https://www.reddit.com/r/androiddev/comments/1v13qbw/learning_compose_by_googles_course_for_beginners/)
-- [I missed Bloc Observer after moving to Android, so I built Flow Observer](https://www.reddit.com/r/androiddev/comments/1v10a47/i_missed_bloc_observer_after_moving_to_android_so/)
-- [Building AI features in KMP: define the interface, iterate locally with Koog, move to the backend when done](https://www.reddit.com/r/androiddev/comments/1v0x4sw/building_ai_features_in_kmp_define_the_interface/)
-- [Photo viewing issue](https://www.reddit.com/r/androiddev/comments/1v0uiv8/photo_viewing_issue/)
-- [Meet unzstd](https://www.reddit.com/r/androiddev/comments/1v0rpir/meet_unzstd/)
-- [Should I re-introduce bugs in my app for closed testing?](https://www.reddit.com/r/androiddev/comments/1v0n6pb/should_i_reintroduce_bugs_in_my_app_for_closed/)
-- [What&#39;s the last Google Play policy or Play Console requirement that actually cost you time?](https://www.reddit.com/r/androiddev/comments/1v0lw4q/whats_the_last_google_play_policy_or_play_console/)
-- [Measuring the LLMs for android app development](https://www.reddit.com/r/androiddev/comments/1v0ju89/measuring_the_llms_for_android_app_development/)
-- [I got so irritated by the banking/UPI apps breaking when developers settings are on! So built something](https://www.reddit.com/r/androiddev/comments/1v0ivad/i_got_so_irritated_by_the_bankingupi_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
