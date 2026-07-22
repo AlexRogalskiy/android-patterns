@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where do color-by-number apps actually get their image libraries?](https://www.reddit.com/r/androiddev/comments/1v25o58/where_do_colorbynumber_apps_actually_get_their/)
+- [Why my beta app cannot be updated in other devices via play store?](https://www.reddit.com/r/androiddev/comments/1v2s65j/why_my_beta_app_cannot_be_updated_in_other/)
+- [AndroidCompat: An open-source Android dependency compatibility verifier — looking for technical feedback](https://www.reddit.com/r/androiddev/comments/1v2kl5u/androidcompat_an_opensource_android_dependency/)
+- [Help!!!Can not install App by Android Studio](https://www.reddit.com/r/androiddev/comments/1v2joz9/helpcan_not_install_app_by_android_studio/)
+- [Developer account -&gt; payments profile name doesn&#39;t match with Settings -&gt;payments profile name](https://www.reddit.com/r/androiddev/comments/1v2jbiy/developer_account_payments_profile_name_doesnt/)
+- [Using WebUSB for Android control — anyone tried this approach?](https://www.reddit.com/r/androiddev/comments/1v2j7nk/using_webusb_for_android_control_anyone_tried/)
+- [Showcase: compose-doctor - React Doctor for Android Jetpack Compose &lpar;Gradle Plugin + PR Gate + Agent Harness&rpar;](https://www.reddit.com/r/androiddev/comments/1v2hl8x/showcase_composedoctor_react_doctor_for_android/)
+- [I built the same feature on Android and iOS from one KMP codebase using 7 Claude Code commands](https://www.reddit.com/r/androiddev/comments/1v2fvva/i_built_the_same_feature_on_android_and_ios_from/)
+- [I built a Gradle plugin to stop using AI for Android boilerplate](https://www.reddit.com/r/androiddev/comments/1v2bx1f/i_built_a_gradle_plugin_to_stop_using_ai_for/)
 - [How do solo/indie Android developers test their apps without a QA team?](https://www.reddit.com/r/androiddev/comments/1v25eaf/how_do_soloindie_android_developers_test_their/)
-- [Advice needed: secondary touch input leaking to primary cashier app on Sunmi T3 POS - Need workaround for ads-only display](https://www.reddit.com/r/androiddev/comments/1v22kya/advice_needed_secondary_touch_input_leaking_to/)
 - [Tasker is awesome but I want to discuss something](https://www.reddit.com/r/androiddev/comments/1v1tkyk/tasker_is_awesome_but_i_want_to_discuss_something/)
-- [Hobbyist project: one sideloaded APK that hosts web apps from GitHub Pages... is this useful, or does it already exist?](https://www.reddit.com/r/androiddev/comments/1v1sffc/hobbyist_project_one_sideloaded_apk_that_hosts/)
-- [Built a multi-module Android library exposing phone APIs as MCP tool](https://www.reddit.com/r/androiddev/comments/1v1qctn/built_a_multimodule_android_library_exposing/)
-- [Impressions have appeared in the Google Play Console 🔥](https://www.reddit.com/r/androiddev/comments/1v1prgh/impressions_have_appeared_in_the_google_play/)
-- [I need some UI/UX tips](https://www.reddit.com/r/androiddev/comments/1v1myf4/i_need_some_uiux_tips/)
-- [Android Studio Quail 3 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1v1mc1f/android_studio_quail_3_rc_2_now_available/)
-- [Orientation lock](https://www.reddit.com/r/androiddev/comments/1v1axay/orientation_lock/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
