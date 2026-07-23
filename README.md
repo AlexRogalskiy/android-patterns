@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why my beta app cannot be updated in other devices via play store?](https://www.reddit.com/r/androiddev/comments/1v2s65j/why_my_beta_app_cannot_be_updated_in_other/)
-- [AndroidCompat: An open-source Android dependency compatibility verifier — looking for technical feedback](https://www.reddit.com/r/androiddev/comments/1v2kl5u/androidcompat_an_opensource_android_dependency/)
-- [Help!!!Can not install App by Android Studio](https://www.reddit.com/r/androiddev/comments/1v2joz9/helpcan_not_install_app_by_android_studio/)
-- [Developer account -&gt; payments profile name doesn&#39;t match with Settings -&gt;payments profile name](https://www.reddit.com/r/androiddev/comments/1v2jbiy/developer_account_payments_profile_name_doesnt/)
-- [Using WebUSB for Android control — anyone tried this approach?](https://www.reddit.com/r/androiddev/comments/1v2j7nk/using_webusb_for_android_control_anyone_tried/)
-- [Showcase: compose-doctor - React Doctor for Android Jetpack Compose &lpar;Gradle Plugin + PR Gate + Agent Harness&rpar;](https://www.reddit.com/r/androiddev/comments/1v2hl8x/showcase_composedoctor_react_doctor_for_android/)
-- [I built the same feature on Android and iOS from one KMP codebase using 7 Claude Code commands](https://www.reddit.com/r/androiddev/comments/1v2fvva/i_built_the_same_feature_on_android_and_ios_from/)
-- [I built a Gradle plugin to stop using AI for Android boilerplate](https://www.reddit.com/r/androiddev/comments/1v2bx1f/i_built_a_gradle_plugin_to_stop_using_ai_for/)
-- [How do solo/indie Android developers test their apps without a QA team?](https://www.reddit.com/r/androiddev/comments/1v25eaf/how_do_soloindie_android_developers_test_their/)
-- [Tasker is awesome but I want to discuss something](https://www.reddit.com/r/androiddev/comments/1v1tkyk/tasker_is_awesome_but_i_want_to_discuss_something/)
+- [Replacing an unreliable touch-target-size rule in my Jetpack Compose accessibility scanner](https://www.reddit.com/r/androiddev/comments/1v421wi/replacing_an_unreliable_touchtargetsize_rule_in/)
+- [I couldn&#39;t get 256 Hz ECG to render smoothly over BLE, so I ended up writing a sweep renderer](https://www.reddit.com/r/androiddev/comments/1v3ylh9/i_couldnt_get_256_hz_ecg_to_render_smoothly_over/)
+- [Cloudflare is blocking offshore Android Google Play Reviewer... any workarounds?](https://www.reddit.com/r/androiddev/comments/1v3p1js/cloudflare_is_blocking_offshore_android_google/)
+- [A multiplatform Flighty UI clone sample made in a day with Compose](https://www.reddit.com/r/androiddev/comments/1v3miqc/a_multiplatform_flighty_ui_clone_sample_made_in_a/)
+- [Unsuccessful request :&lpar;](https://www.reddit.com/r/androiddev/comments/1v3lyj0/unsuccessful_request/)
+- [TWA + closed testing: did anyone here pass production access with a Trusted Web Activity?](https://www.reddit.com/r/androiddev/comments/1v3knfg/twa_closed_testing_did_anyone_here_pass/)
+- [This deadline is a bit ambitious given the current review times.](https://www.reddit.com/r/androiddev/comments/1v3gjr2/this_deadline_is_a_bit_ambitious_given_the/)
+- [Lessons learned building an open-source local LLM client using Jetpack Compose, C++ NDK &lpar;Vulkan&rpar;, &amp; SQLCipher](https://www.reddit.com/r/androiddev/comments/1v3e0k0/lessons_learned_building_an_opensource_local_llm/)
+- [Has anyone here made an app completely solo and actually managed to make money off it ?](https://www.reddit.com/r/androiddev/comments/1v3an37/has_anyone_here_made_an_app_completely_solo_and/)
+- [Google requires Play Billing Library 8 by Aug 31 2026, but android-browser-helper &lpar;TWA&rpar; is still on 7.1.1. How are other TWA devs handling this?](https://www.reddit.com/r/androiddev/comments/1v39g1t/google_requires_play_billing_library_8_by_aug_31/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
