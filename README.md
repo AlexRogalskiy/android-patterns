@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Replacing an unreliable touch-target-size rule in my Jetpack Compose accessibility scanner](https://www.reddit.com/r/androiddev/comments/1v421wi/replacing_an_unreliable_touchtargetsize_rule_in/)
-- [I couldn&#39;t get 256 Hz ECG to render smoothly over BLE, so I ended up writing a sweep renderer](https://www.reddit.com/r/androiddev/comments/1v3ylh9/i_couldnt_get_256_hz_ecg_to_render_smoothly_over/)
-- [Cloudflare is blocking offshore Android Google Play Reviewer... any workarounds?](https://www.reddit.com/r/androiddev/comments/1v3p1js/cloudflare_is_blocking_offshore_android_google/)
-- [A multiplatform Flighty UI clone sample made in a day with Compose](https://www.reddit.com/r/androiddev/comments/1v3miqc/a_multiplatform_flighty_ui_clone_sample_made_in_a/)
-- [Unsuccessful request :&lpar;](https://www.reddit.com/r/androiddev/comments/1v3lyj0/unsuccessful_request/)
-- [TWA + closed testing: did anyone here pass production access with a Trusted Web Activity?](https://www.reddit.com/r/androiddev/comments/1v3knfg/twa_closed_testing_did_anyone_here_pass/)
-- [This deadline is a bit ambitious given the current review times.](https://www.reddit.com/r/androiddev/comments/1v3gjr2/this_deadline_is_a_bit_ambitious_given_the/)
-- [Lessons learned building an open-source local LLM client using Jetpack Compose, C++ NDK &lpar;Vulkan&rpar;, &amp; SQLCipher](https://www.reddit.com/r/androiddev/comments/1v3e0k0/lessons_learned_building_an_opensource_local_llm/)
-- [Has anyone here made an app completely solo and actually managed to make money off it ?](https://www.reddit.com/r/androiddev/comments/1v3an37/has_anyone_here_made_an_app_completely_solo_and/)
-- [Google requires Play Billing Library 8 by Aug 31 2026, but android-browser-helper &lpar;TWA&rpar; is still on 7.1.1. How are other TWA devs handling this?](https://www.reddit.com/r/androiddev/comments/1v39g1t/google_requires_play_billing_library_8_by_aug_31/)
+- [Custom launcher from scratch](https://www.reddit.com/r/androiddev/comments/1v4lq5z/custom_launcher_from_scratch/)
+- [[Help Needed] Google Play Console Closed Testing](https://www.reddit.com/r/androiddev/comments/1v4kkbh/help_needed_google_play_console_closed_testing/)
+- [What is the official way to determine if an Android API level is still in preview?](https://www.reddit.com/r/androiddev/comments/1v4i8w4/what_is_the_official_way_to_determine_if_an/)
+- [What do you guys do while gradle build??](https://www.reddit.com/r/androiddev/comments/1v4gx81/what_do_you_guys_do_while_gradle_build/)
+- [Account terminated for &quot;high risk or abuse&quot; — help me figure out what I did wrong](https://www.reddit.com/r/androiddev/comments/1v4gvcx/account_terminated_for_high_risk_or_abuse_help_me/)
+- [Android Studio Quail 4 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1v4gcg8/android_studio_quail_4_canary_2_now_available/)
+- [Android Studio Quail 2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1v4gcfy/android_studio_quail_2_patch_1_now_available/)
+- [Google Play Support wants me to migrate 6 live apps &amp; abandon trapped payouts over a Merchant Profile mismatch &lpar;Ticket # 3-6692000041443&rpar;](https://www.reddit.com/r/androiddev/comments/1v4e5p3/google_play_support_wants_me_to_migrate_6_live/)
+- [Do paid Meta ads work?](https://www.reddit.com/r/androiddev/comments/1v4aws7/do_paid_meta_ads_work/)
+- [I&#39;m in closed testing and my update is stuck in review for 7 days now](https://www.reddit.com/r/androiddev/comments/1v4ag7h/im_in_closed_testing_and_my_update_is_stuck_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
