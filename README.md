@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Help needed] I need advice about a new video on the Play Store for my app](https://www.reddit.com/r/androiddev/comments/1v6r9l0/help_needed_i_need_advice_about_a_new_video_on/)
+- [Am I the only one facing this issue with Copilot in Android Studio?](https://www.reddit.com/r/androiddev/comments/1v6j3y1/am_i_the_only_one_facing_this_issue_with_copilot/)
+- [What am I doing wrong?](https://www.reddit.com/r/androiddev/comments/1v6i38k/what_am_i_doing_wrong/)
+- [E2E Testing for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1v66up4/e2e_testing_for_compose_multiplatform/)
+- [Google Play Billing Library 9+ wrapper](https://www.reddit.com/r/androiddev/comments/1v61env/google_play_billing_library_9_wrapper/)
+- [A Fully Compose Android Library for iOS Emoji Rendering](https://www.reddit.com/r/androiddev/comments/1v5yy1g/a_fully_compose_android_library_for_ios_emoji/)
 - [Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers](https://www.reddit.com/r/androiddev/comments/1v5jv18/android_may_soon_restrict_ondevice_adb_affecting/)
 - [Android VpnService stays connected, but all traffic fails with networksUnknownHostException](https://www.reddit.com/r/androiddev/comments/1v5gw1d/android_vpnservice_stays_connected_but_all/)
 - [DAEX- Android Native- On Device Agent](https://www.reddit.com/r/androiddev/comments/1v5g0en/daex_android_native_on_device_agent/)
 - [Reaching the limits of Jetpack Compose Canvas: Moving my RPG engine to Google Filament &lpar;8x performance gain&rpar;](https://www.reddit.com/r/androiddev/comments/1v5a23f/reaching_the_limits_of_jetpack_compose_canvas/)
-- [Developing a launcher focused on high customization](https://www.reddit.com/r/androiddev/comments/1v58pgt/developing_a_launcher_focused_on_high/)
-- [AppRankly — Self-hosted dashboard for App Store &amp; Google Play analytics](https://www.reddit.com/r/androiddev/comments/1v54jaq/apprankly_selfhosted_dashboard_for_app_store/)
-- [Custom launcher from scratch](https://www.reddit.com/r/androiddev/comments/1v4lq5z/custom_launcher_from_scratch/)
-- [[Help Needed] Google Play Console Closed Testing](https://www.reddit.com/r/androiddev/comments/1v4kkbh/help_needed_google_play_console_closed_testing/)
-- [What is the official way to determine if an Android API level is still in preview?](https://www.reddit.com/r/androiddev/comments/1v4i8w4/what_is_the_official_way_to_determine_if_an/)
-- [What do you guys do while gradle build??](https://www.reddit.com/r/androiddev/comments/1v4gx81/what_do_you_guys_do_while_gradle_build/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
