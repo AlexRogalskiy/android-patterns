@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Very confused about the future of Android development](https://www.reddit.com/r/androiddev/comments/1v86kn3/very_confused_about_the_future_of_android/)
+- [OneSignal free plan removing unlimited push notifications, any alternatives?](https://www.reddit.com/r/androiddev/comments/1v81ez3/onesignal_free_plan_removing_unlimited_push/)
+- [Any way to open a not-owned Bandcamp release in-app via intent?](https://www.reddit.com/r/androiddev/comments/1v7xntd/any_way_to_open_a_notowned_bandcamp_release_inapp/)
+- [Any library for graps and charts](https://www.reddit.com/r/androiddev/comments/1v7sdnz/any_library_for_graps_and_charts/)
+- [Realistically, how can an app trigger a 1km radius alert with absolute zero connectivity &lpar;no internet, data, or phone credit&rpar;?](https://www.reddit.com/r/androiddev/comments/1v7r442/realistically_how_can_an_app_trigger_a_1km_radius/)
 - [Making a Nothing os insipred launcher. now with a proper website.](https://www.reddit.com/r/androiddev/comments/1v7n7bf/making_a_nothing_os_insipred_launcher_now_with_a/)
 - [How are solo devs actually getting 12 testers for 14 days? Genuine question.](https://www.reddit.com/r/androiddev/comments/1v7e7le/how_are_solo_devs_actually_getting_12_testers_for/)
 - [Want to understand seniority knowledge level !?](https://www.reddit.com/r/androiddev/comments/1v7ciad/want_to_understand_seniority_knowledge_level/)
 - [API 37: Valid values of typeMask &lpar;for WindowInsets&rpar; have disappeared?](https://www.reddit.com/r/androiddev/comments/1v76aij/api_37_valid_values_of_typemask_for_windowinsets/)
-- [6 months in the making — just shipped my first app](https://www.reddit.com/r/androiddev/comments/1v74ise/6_months_in_the_making_just_shipped_my_first_app/)
 - [Anyone was able to make Gemini Nano &lpar;AICore&rpar; work? Tried so many examples on so many devices but none worked.](https://www.reddit.com/r/androiddev/comments/1v72tru/anyone_was_able_to_make_gemini_nano_aicore_work/)
-- [Career switch to Android in 2026 – Looking for advice from Android developers](https://www.reddit.com/r/androiddev/comments/1v6zuh2/career_switch_to_android_in_2026_looking_for/)
-- [What do you think about this monetization approach?](https://www.reddit.com/r/androiddev/comments/1v6z0tb/what_do_you_think_about_this_monetization_approach/)
-- [log4k 2.3.0 — a Kotlin IR compiler plugin that instruments your functions with tracing, logging and metrics](https://www.reddit.com/r/androiddev/comments/1v6x62p/log4k_230_a_kotlin_ir_compiler_plugin_that/)
-- [Made an open source tool to stop multiple adb clients &lpar;AI agents, scripts, Studio&rpar; from fighting over the same device](https://www.reddit.com/r/androiddev/comments/1v6wndf/made_an_open_source_tool_to_stop_multiple_adb/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
