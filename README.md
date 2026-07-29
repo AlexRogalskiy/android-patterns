@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Very confused about the future of Android development](https://www.reddit.com/r/androiddev/comments/1v86kn3/very_confused_about_the_future_of_android/)
-- [OneSignal free plan removing unlimited push notifications, any alternatives?](https://www.reddit.com/r/androiddev/comments/1v81ez3/onesignal_free_plan_removing_unlimited_push/)
-- [Any way to open a not-owned Bandcamp release in-app via intent?](https://www.reddit.com/r/androiddev/comments/1v7xntd/any_way_to_open_a_notowned_bandcamp_release_inapp/)
-- [Any library for graps and charts](https://www.reddit.com/r/androiddev/comments/1v7sdnz/any_library_for_graps_and_charts/)
-- [Realistically, how can an app trigger a 1km radius alert with absolute zero connectivity &lpar;no internet, data, or phone credit&rpar;?](https://www.reddit.com/r/androiddev/comments/1v7r442/realistically_how_can_an_app_trigger_a_1km_radius/)
-- [Making a Nothing os insipred launcher. now with a proper website.](https://www.reddit.com/r/androiddev/comments/1v7n7bf/making_a_nothing_os_insipred_launcher_now_with_a/)
-- [How are solo devs actually getting 12 testers for 14 days? Genuine question.](https://www.reddit.com/r/androiddev/comments/1v7e7le/how_are_solo_devs_actually_getting_12_testers_for/)
-- [Want to understand seniority knowledge level !?](https://www.reddit.com/r/androiddev/comments/1v7ciad/want_to_understand_seniority_knowledge_level/)
-- [API 37: Valid values of typeMask &lpar;for WindowInsets&rpar; have disappeared?](https://www.reddit.com/r/androiddev/comments/1v76aij/api_37_valid_values_of_typemask_for_windowinsets/)
-- [Anyone was able to make Gemini Nano &lpar;AICore&rpar; work? Tried so many examples on so many devices but none worked.](https://www.reddit.com/r/androiddev/comments/1v72tru/anyone_was_able_to_make_gemini_nano_aicore_work/)
+- [Dealing with copycat apps](https://www.reddit.com/r/androiddev/comments/1v9kggd/dealing_with_copycat_apps/)
+- [How do you handle promo access for Android IAPs?](https://www.reddit.com/r/androiddev/comments/1v9bgy2/how_do_you_handle_promo_access_for_android_iaps/)
+- [Drebin451 - Ship and share private Android builds with ease](https://www.reddit.com/r/androiddev/comments/1v99ee2/drebin451_ship_and_share_private_android_builds/)
+- [Found an emulator that had been running since yesterday morning — so I wrote something that notices](https://www.reddit.com/r/androiddev/comments/1v92ecc/found_an_emulator_that_had_been_running_since/)
+- [Why does Android seem heck-bent on eliminating app notifications?](https://www.reddit.com/r/androiddev/comments/1v91cdc/why_does_android_seem_heckbent_on_eliminating_app/)
+- [Is AIDL Bridging for integrating Google feed really dead?](https://www.reddit.com/r/androiddev/comments/1v91byu/is_aidl_bridging_for_integrating_google_feed/)
+- [NotificationListenerService trap: classifier was killing MediaStyle notifs](https://www.reddit.com/r/androiddev/comments/1v8xbmw/notificationlistenerservice_trap_classifier_was/)
+- [Already deprecated](https://www.reddit.com/r/androiddev/comments/1v8w2al/already_deprecated/)
+- [Should I use a foreground service, WorkManager, or is there a modern Android API to detect reliable immediate Wi-Fi disconnect after process death](https://www.reddit.com/r/androiddev/comments/1v8utkm/should_i_use_a_foreground_service_workmanager_or/)
+- [Will a Real-time BLE advertisement streaming to a WebSocket via Foreground Service work even when the screen is off &lpar;without active GATT&rpar;?](https://www.reddit.com/r/androiddev/comments/1v8ttse/will_a_realtime_ble_advertisement_streaming_to_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
