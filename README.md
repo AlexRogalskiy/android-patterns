@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🎉 Happy 5th Birthday, Jetpack Compose! What has Compose changed the most for you?](https://www.reddit.com/r/androiddev/comments/1vah4hn/happy_5th_birthday_jetpack_compose_what_has/)
+- [Testadores](https://www.reddit.com/r/androiddev/comments/1vaerok/testadores/)
+- [PSA: Google Play only exposes ~30 search results publicly — if your rank tracker shows #47, it&#39;s guessing](https://www.reddit.com/r/androiddev/comments/1va99d9/psa_google_play_only_exposes_30_search_results/)
+- [Lesson Learned: Google Play Developer APIs strictly prohibit third-party client apps](https://www.reddit.com/r/androiddev/comments/1va4knr/lesson_learned_google_play_developer_apis/)
+- [JSON format in Log Cat](https://www.reddit.com/r/androiddev/comments/1v9yf0x/json_format_in_log_cat/)
+- [&quot;Android Developer Console&quot; vs &quot;Google Play Console&quot;](https://www.reddit.com/r/androiddev/comments/1v9ungq/android_developer_console_vs_google_play_console/)
+- [Happy 5th Birthday Compose 🎂](https://www.reddit.com/r/androiddev/comments/1v9ujqs/happy_5th_birthday_compose/)
+- [Upgrading to API level 36](https://www.reddit.com/r/androiddev/comments/1v9qih2/upgrading_to_api_level_36/)
+- [I&#39;m a student building an open-source offline mesh messenger in Kotlin &lpar;BLE, no servers&rpar; — looking for architecture feedback and contributors](https://www.reddit.com/r/androiddev/comments/1v9mexr/im_a_student_building_an_opensource_offline_mesh/)
 - [Dealing with copycat apps](https://www.reddit.com/r/androiddev/comments/1v9kggd/dealing_with_copycat_apps/)
-- [How do you handle promo access for Android IAPs?](https://www.reddit.com/r/androiddev/comments/1v9bgy2/how_do_you_handle_promo_access_for_android_iaps/)
-- [Drebin451 - Ship and share private Android builds with ease](https://www.reddit.com/r/androiddev/comments/1v99ee2/drebin451_ship_and_share_private_android_builds/)
-- [Found an emulator that had been running since yesterday morning — so I wrote something that notices](https://www.reddit.com/r/androiddev/comments/1v92ecc/found_an_emulator_that_had_been_running_since/)
-- [Why does Android seem heck-bent on eliminating app notifications?](https://www.reddit.com/r/androiddev/comments/1v91cdc/why_does_android_seem_heckbent_on_eliminating_app/)
-- [Is AIDL Bridging for integrating Google feed really dead?](https://www.reddit.com/r/androiddev/comments/1v91byu/is_aidl_bridging_for_integrating_google_feed/)
-- [NotificationListenerService trap: classifier was killing MediaStyle notifs](https://www.reddit.com/r/androiddev/comments/1v8xbmw/notificationlistenerservice_trap_classifier_was/)
-- [Already deprecated](https://www.reddit.com/r/androiddev/comments/1v8w2al/already_deprecated/)
-- [Should I use a foreground service, WorkManager, or is there a modern Android API to detect reliable immediate Wi-Fi disconnect after process death](https://www.reddit.com/r/androiddev/comments/1v8utkm/should_i_use_a_foreground_service_workmanager_or/)
-- [Will a Real-time BLE advertisement streaming to a WebSocket via Foreground Service work even when the screen is off &lpar;without active GATT&rpar;?](https://www.reddit.com/r/androiddev/comments/1v8ttse/will_a_realtime_ble_advertisement_streaming_to_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
