@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [🎉 Happy 5th Birthday, Jetpack Compose! What has Compose changed the most for you?](https://www.reddit.com/r/androiddev/comments/1vah4hn/happy_5th_birthday_jetpack_compose_what_has/)
-- [Testadores](https://www.reddit.com/r/androiddev/comments/1vaerok/testadores/)
+- [Need help with localization? Taking questions](https://www.reddit.com/r/androiddev/comments/1vb6szf/need_help_with_localization_taking_questions/)
+- [If you’re building Voice AI apps on Android, what’s your architecture looking like?](https://www.reddit.com/r/androiddev/comments/1vazovd/if_youre_building_voice_ai_apps_on_android_whats/)
+- [Android Studio Quail 3 now available](https://www.reddit.com/r/androiddev/comments/1vaw0kx/android_studio_quail_3_now_available/)
+- [Android Studio Quail 4 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1vaw0kq/android_studio_quail_4_canary_3_now_available/)
+- [I&#39;m submitting my app for the first time. I don&#39;t get it why I can&#39;t press &quot;Next&quot; when I&#39;ve answered every question about content rating.](https://www.reddit.com/r/androiddev/comments/1vatbf0/im_submitting_my_app_for_the_first_time_i_dont/)
+- [my dad&#39;s phone storage issue accidentally turned into my first real open-source project](https://www.reddit.com/r/androiddev/comments/1vaqtmq/my_dads_phone_storage_issue_accidentally_turned/)
+- [What is wrong with Gradle version?](https://www.reddit.com/r/androiddev/comments/1vaq698/what_is_wrong_with_gradle_version/)
+- [Android Auto MF-5 rejection](https://www.reddit.com/r/androiddev/comments/1vaojgg/android_auto_mf5_rejection/)
 - [PSA: Google Play only exposes ~30 search results publicly — if your rank tracker shows #47, it&#39;s guessing](https://www.reddit.com/r/androiddev/comments/1va99d9/psa_google_play_only_exposes_30_search_results/)
 - [Lesson Learned: Google Play Developer APIs strictly prohibit third-party client apps](https://www.reddit.com/r/androiddev/comments/1va4knr/lesson_learned_google_play_developer_apis/)
-- [JSON format in Log Cat](https://www.reddit.com/r/androiddev/comments/1v9yf0x/json_format_in_log_cat/)
-- [&quot;Android Developer Console&quot; vs &quot;Google Play Console&quot;](https://www.reddit.com/r/androiddev/comments/1v9ungq/android_developer_console_vs_google_play_console/)
-- [Happy 5th Birthday Compose 🎂](https://www.reddit.com/r/androiddev/comments/1v9ujqs/happy_5th_birthday_compose/)
-- [Upgrading to API level 36](https://www.reddit.com/r/androiddev/comments/1v9qih2/upgrading_to_api_level_36/)
-- [I&#39;m a student building an open-source offline mesh messenger in Kotlin &lpar;BLE, no servers&rpar; — looking for architecture feedback and contributors](https://www.reddit.com/r/androiddev/comments/1v9mexr/im_a_student_building_an_opensource_offline_mesh/)
-- [Dealing with copycat apps](https://www.reddit.com/r/androiddev/comments/1v9kggd/dealing_with_copycat_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
