@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need help with localization? Taking questions](https://www.reddit.com/r/androiddev/comments/1vb6szf/need_help_with_localization_taking_questions/)
-- [If you’re building Voice AI apps on Android, what’s your architecture looking like?](https://www.reddit.com/r/androiddev/comments/1vazovd/if_youre_building_voice_ai_apps_on_android_whats/)
-- [Android Studio Quail 3 now available](https://www.reddit.com/r/androiddev/comments/1vaw0kx/android_studio_quail_3_now_available/)
-- [Android Studio Quail 4 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1vaw0kq/android_studio_quail_4_canary_3_now_available/)
-- [I&#39;m submitting my app for the first time. I don&#39;t get it why I can&#39;t press &quot;Next&quot; when I&#39;ve answered every question about content rating.](https://www.reddit.com/r/androiddev/comments/1vatbf0/im_submitting_my_app_for_the_first_time_i_dont/)
-- [my dad&#39;s phone storage issue accidentally turned into my first real open-source project](https://www.reddit.com/r/androiddev/comments/1vaqtmq/my_dads_phone_storage_issue_accidentally_turned/)
-- [What is wrong with Gradle version?](https://www.reddit.com/r/androiddev/comments/1vaq698/what_is_wrong_with_gradle_version/)
-- [Android Auto MF-5 rejection](https://www.reddit.com/r/androiddev/comments/1vaojgg/android_auto_mf5_rejection/)
-- [PSA: Google Play only exposes ~30 search results publicly — if your rank tracker shows #47, it&#39;s guessing](https://www.reddit.com/r/androiddev/comments/1va99d9/psa_google_play_only_exposes_30_search_results/)
-- [Lesson Learned: Google Play Developer APIs strictly prohibit third-party client apps](https://www.reddit.com/r/androiddev/comments/1va4knr/lesson_learned_google_play_developer_apis/)
+- [I built a localized HDR QR renderer: only the QR gets maximum brightness, not the whole screen](https://www.reddit.com/r/androiddev/comments/1vcbl00/i_built_a_localized_hdr_qr_renderer_only_the_qr/)
+- [Built an open-source privacy-first Android app &lpar;Kotlin + Room + SQLCipher&rpar; – looking for feedback](https://www.reddit.com/r/androiddev/comments/1vc6ob6/built_an_opensource_privacyfirst_android_app/)
+- [Built an open-source privacy-first Android app &lpar;Kotlin + Room + SQLCipher&rpar; – looking for feedback](https://www.reddit.com/r/androiddev/comments/1vc6mlm/built_an_opensource_privacyfirst_android_app/)
+- [Sharing a new Google Play console feature: &#39;Deleting your Apps&#39;](https://www.reddit.com/r/androiddev/comments/1vbv5pg/sharing_a_new_google_play_console_feature/)
+- [Need realistic hackathon app ideas for Android &lpar;2–3-day build, fully using Claude&rpar;](https://www.reddit.com/r/androiddev/comments/1vbulgc/need_realistic_hackathon_app_ideas_for_android/)
+- [Android devs: Are you using Gemini in Android Studio? How has it changed your development workflow?](https://www.reddit.com/r/androiddev/comments/1vbtvhy/android_devs_are_you_using_gemini_in_android/)
+- [Sharing my experience with the DMA to open up even more Android](https://www.reddit.com/r/androiddev/comments/1vbt33n/sharing_my_experience_with_the_dma_to_open_up/)
+- [af_heart integration](https://www.reddit.com/r/androiddev/comments/1vbsrtw/af_heart_integration/)
+- [Need a reviewer for a small AOSP Gerrit change &lpar;TelephonyProvider&rpar;](https://www.reddit.com/r/androiddev/comments/1vbscqb/need_a_reviewer_for_a_small_aosp_gerrit_change/)
+- [New version of Android Remote Control MCP released! Let your AI agent control your phone for UI/UX and testing, no cables or root needed!](https://www.reddit.com/r/androiddev/comments/1vbpxwd/new_version_of_android_remote_control_mcp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
