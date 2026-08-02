@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a Live Flight Radar for WearOS](https://www.reddit.com/r/androiddev/comments/1vcv5kj/i_built_a_live_flight_radar_for_wearos/)
+- [[HIRING] Experienced Mobile Game Developer &lpar;Android/APK &amp; Online Game Architecture&rpar;](https://www.reddit.com/r/androiddev/comments/1vcs0sc/hiring_experienced_mobile_game_developer/)
+- [React native to Android dev](https://www.reddit.com/r/androiddev/comments/1vcp8py/react_native_to_android_dev/)
+- [​I broke Android 15/16/17 audio focus without root. Now what?](https://www.reddit.com/r/androiddev/comments/1vcmmyf/i_broke_android_151617_audio_focus_without_root/)
+- [Looking for feedback on my JSON-themed Android Launcher](https://www.reddit.com/r/androiddev/comments/1vcgzay/looking_for_feedback_on_my_jsonthemed_android/)
 - [I built a localized HDR QR renderer: only the QR gets maximum brightness, not the whole screen](https://www.reddit.com/r/androiddev/comments/1vcbl00/i_built_a_localized_hdr_qr_renderer_only_the_qr/)
 - [Built an open-source privacy-first Android app &lpar;Kotlin + Room + SQLCipher&rpar; – looking for feedback](https://www.reddit.com/r/androiddev/comments/1vc6ob6/built_an_opensource_privacyfirst_android_app/)
 - [Built an open-source privacy-first Android app &lpar;Kotlin + Room + SQLCipher&rpar; – looking for feedback](https://www.reddit.com/r/androiddev/comments/1vc6mlm/built_an_opensource_privacyfirst_android_app/)
 - [Sharing a new Google Play console feature: &#39;Deleting your Apps&#39;](https://www.reddit.com/r/androiddev/comments/1vbv5pg/sharing_a_new_google_play_console_feature/)
 - [Need realistic hackathon app ideas for Android &lpar;2–3-day build, fully using Claude&rpar;](https://www.reddit.com/r/androiddev/comments/1vbulgc/need_realistic_hackathon_app_ideas_for_android/)
-- [Android devs: Are you using Gemini in Android Studio? How has it changed your development workflow?](https://www.reddit.com/r/androiddev/comments/1vbtvhy/android_devs_are_you_using_gemini_in_android/)
-- [Sharing my experience with the DMA to open up even more Android](https://www.reddit.com/r/androiddev/comments/1vbt33n/sharing_my_experience_with_the_dma_to_open_up/)
-- [af_heart integration](https://www.reddit.com/r/androiddev/comments/1vbsrtw/af_heart_integration/)
-- [Need a reviewer for a small AOSP Gerrit change &lpar;TelephonyProvider&rpar;](https://www.reddit.com/r/androiddev/comments/1vbscqb/need_a_reviewer_for_a_small_aosp_gerrit_change/)
-- [New version of Android Remote Control MCP released! Let your AI agent control your phone for UI/UX and testing, no cables or root needed!](https://www.reddit.com/r/androiddev/comments/1vbpxwd/new_version_of_android_remote_control_mcp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
