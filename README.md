@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a Live Flight Radar for WearOS](https://www.reddit.com/r/androiddev/comments/1vcv5kj/i_built_a_live_flight_radar_for_wearos/)
-- [[HIRING] Experienced Mobile Game Developer &lpar;Android/APK &amp; Online Game Architecture&rpar;](https://www.reddit.com/r/androiddev/comments/1vcs0sc/hiring_experienced_mobile_game_developer/)
-- [React native to Android dev](https://www.reddit.com/r/androiddev/comments/1vcp8py/react_native_to_android_dev/)
-- [​I broke Android 15/16/17 audio focus without root. Now what?](https://www.reddit.com/r/androiddev/comments/1vcmmyf/i_broke_android_151617_audio_focus_without_root/)
-- [Looking for feedback on my JSON-themed Android Launcher](https://www.reddit.com/r/androiddev/comments/1vcgzay/looking_for_feedback_on_my_jsonthemed_android/)
-- [I built a localized HDR QR renderer: only the QR gets maximum brightness, not the whole screen](https://www.reddit.com/r/androiddev/comments/1vcbl00/i_built_a_localized_hdr_qr_renderer_only_the_qr/)
-- [Built an open-source privacy-first Android app &lpar;Kotlin + Room + SQLCipher&rpar; – looking for feedback](https://www.reddit.com/r/androiddev/comments/1vc6ob6/built_an_opensource_privacyfirst_android_app/)
-- [Built an open-source privacy-first Android app &lpar;Kotlin + Room + SQLCipher&rpar; – looking for feedback](https://www.reddit.com/r/androiddev/comments/1vc6mlm/built_an_opensource_privacyfirst_android_app/)
-- [Sharing a new Google Play console feature: &#39;Deleting your Apps&#39;](https://www.reddit.com/r/androiddev/comments/1vbv5pg/sharing_a_new_google_play_console_feature/)
-- [Need realistic hackathon app ideas for Android &lpar;2–3-day build, fully using Claude&rpar;](https://www.reddit.com/r/androiddev/comments/1vbulgc/need_realistic_hackathon_app_ideas_for_android/)
+- [Real question, how many apps would suffer from the 14 test requirement?](https://www.reddit.com/r/androiddev/comments/1ve2esz/real_question_how_many_apps_would_suffer_from_the/)
+- [Looking for interview prep partner](https://www.reddit.com/r/androiddev/comments/1ve06j2/looking_for_interview_prep_partner/)
+- [Looking for programmer](https://www.reddit.com/r/androiddev/comments/1vduvn0/looking_for_programmer/)
+- [build a UI withoutXML or Compose](https://www.reddit.com/r/androiddev/comments/1vdqv48/build_a_ui_withoutxml_or_compose/)
+- [Did you use Google Play Console Testing for soft launch? My social advisor warned me and told me not to use it](https://www.reddit.com/r/androiddev/comments/1vdfm1t/did_you_use_google_play_console_testing_for_soft/)
+- [NVIDIA&#39;s Canary 180M on a phone - offline transcription and translation in four languages](https://www.reddit.com/r/androiddev/comments/1vdeh3o/nvidias_canary_180m_on_a_phone_offline/)
+- [Agents connected to Android Studio can&#39;t read files](https://www.reddit.com/r/androiddev/comments/1vdef6b/agents_connected_to_android_studio_cant_read_files/)
+- [I built an Android app that lets me create Android apps entirely from my phone](https://www.reddit.com/r/androiddev/comments/1vdao22/i_built_an_android_app_that_lets_me_create/)
+- [Play Store update size includes LiteRT model even when the model hasn&#39;t changed](https://www.reddit.com/r/androiddev/comments/1vdah17/play_store_update_size_includes_litert_model_even/)
+- [Improving Performance After Modularizing an Android Computer Vision Pipeline](https://www.reddit.com/r/androiddev/comments/1vd9nkt/improving_performance_after_modularizing_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
