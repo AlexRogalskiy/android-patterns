@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Real question, how many apps would suffer from the 14 test requirement?](https://www.reddit.com/r/androiddev/comments/1ve2esz/real_question_how_many_apps_would_suffer_from_the/)
-- [Looking for interview prep partner](https://www.reddit.com/r/androiddev/comments/1ve06j2/looking_for_interview_prep_partner/)
-- [Looking for programmer](https://www.reddit.com/r/androiddev/comments/1vduvn0/looking_for_programmer/)
-- [build a UI withoutXML or Compose](https://www.reddit.com/r/androiddev/comments/1vdqv48/build_a_ui_withoutxml_or_compose/)
-- [Did you use Google Play Console Testing for soft launch? My social advisor warned me and told me not to use it](https://www.reddit.com/r/androiddev/comments/1vdfm1t/did_you_use_google_play_console_testing_for_soft/)
-- [NVIDIA&#39;s Canary 180M on a phone - offline transcription and translation in four languages](https://www.reddit.com/r/androiddev/comments/1vdeh3o/nvidias_canary_180m_on_a_phone_offline/)
-- [Agents connected to Android Studio can&#39;t read files](https://www.reddit.com/r/androiddev/comments/1vdef6b/agents_connected_to_android_studio_cant_read_files/)
-- [I built an Android app that lets me create Android apps entirely from my phone](https://www.reddit.com/r/androiddev/comments/1vdao22/i_built_an_android_app_that_lets_me_create/)
-- [Play Store update size includes LiteRT model even when the model hasn&#39;t changed](https://www.reddit.com/r/androiddev/comments/1vdah17/play_store_update_size_includes_litert_model_even/)
-- [Improving Performance After Modularizing an Android Computer Vision Pipeline](https://www.reddit.com/r/androiddev/comments/1vd9nkt/improving_performance_after_modularizing_an/)
+- [Just hit 500 installs and my first 3 Pro subscriptions! 🎉](https://www.reddit.com/r/androiddev/comments/1veubnr/just_hit_500_installs_and_my_first_3_pro/)
+- [Helpful guide from Google for using AI tools to write Android apps](https://www.reddit.com/r/androiddev/comments/1velsh4/helpful_guide_from_google_for_using_ai_tools_to/)
+- [Android Studio says Gemini inactive onboarding incomplete](https://www.reddit.com/r/androiddev/comments/1vel9uj/android_studio_says_gemini_inactive_onboarding/)
+- [An architecture library.](https://www.reddit.com/r/androiddev/comments/1vel4z6/an_architecture_library/)
+- [Best Privacy Policy &amp; T&amp;C generator for a mobile app with in-app subscriptions?](https://www.reddit.com/r/androiddev/comments/1vejr9m/best_privacy_policy_tc_generator_for_a_mobile_app/)
+- [Firebase Dynamic Links replacement that doesn&#39;t charge per MAU. I built one, questions welcome](https://www.reddit.com/r/androiddev/comments/1veiqpe/firebase_dynamic_links_replacement_that_doesnt/)
+- [Help](https://www.reddit.com/r/androiddev/comments/1vebx6v/help/)
+- [HAL Development questions](https://www.reddit.com/r/androiddev/comments/1veasd2/hal_development_questions/)
+- [Is Flutter the wrong choice?](https://www.reddit.com/r/androiddev/comments/1ve8tcp/is_flutter_the_wrong_choice/)
+- [Introducing KitFlow – A Kotlin Multiplatform Library for Adaptive Compose UIs](https://www.reddit.com/r/androiddev/comments/1ve8sdx/introducing_kitflow_a_kotlin_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
