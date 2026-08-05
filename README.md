@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just hit 500 installs and my first 3 Pro subscriptions! 🎉](https://www.reddit.com/r/androiddev/comments/1veubnr/just_hit_500_installs_and_my_first_3_pro/)
+- [Credential Manager returns &quot;No credentials available&quot; only for Play Store AAB](https://www.reddit.com/r/androiddev/comments/1vfj5cz/credential_manager_returns_no_credentials/)
+- [Half my Android reviews are complaints about the app not being 100% free and the other half are defending my paid features. Any way to improve this? I don&#39;t have this issue on iOS.](https://www.reddit.com/r/androiddev/comments/1vfha7t/half_my_android_reviews_are_complaints_about_the/)
+- [New portfolio + looking for advice on how to land my first Android job &lpar;Mexico City&rpar;](https://www.reddit.com/r/androiddev/comments/1vfds1e/new_portfolio_looking_for_advice_on_how_to_land/)
+- [ClipSave, a free and open-source media downloader for Android](https://www.reddit.com/r/androiddev/comments/1vfakyp/clipsave_a_free_and_opensource_media_downloader/)
+- [When do you think will Google release Windows on ARM android emulators in Android studio??](https://www.reddit.com/r/androiddev/comments/1vfacc8/when_do_you_think_will_google_release_windows_on/)
+- [Which is best interface](https://www.reddit.com/r/androiddev/comments/1vf5ed0/which_is_best_interface/)
+- [Shipaton Megathread #1: What are you building?](https://www.reddit.com/r/androiddev/comments/1vf1u40/shipaton_megathread_1_what_are_you_building/)
+- [What is the biggest mistake first-time indie app developers make before launching?](https://www.reddit.com/r/androiddev/comments/1vf1pd2/what_is_the_biggest_mistake_firsttime_indie_app/)
+- [Help with SAF shortcuts...](https://www.reddit.com/r/androiddev/comments/1vf0coy/help_with_saf_shortcuts/)
 - [Helpful guide from Google for using AI tools to write Android apps](https://www.reddit.com/r/androiddev/comments/1velsh4/helpful_guide_from_google_for_using_ai_tools_to/)
-- [Android Studio says Gemini inactive onboarding incomplete](https://www.reddit.com/r/androiddev/comments/1vel9uj/android_studio_says_gemini_inactive_onboarding/)
-- [An architecture library.](https://www.reddit.com/r/androiddev/comments/1vel4z6/an_architecture_library/)
-- [Best Privacy Policy &amp; T&amp;C generator for a mobile app with in-app subscriptions?](https://www.reddit.com/r/androiddev/comments/1vejr9m/best_privacy_policy_tc_generator_for_a_mobile_app/)
-- [Firebase Dynamic Links replacement that doesn&#39;t charge per MAU. I built one, questions welcome](https://www.reddit.com/r/androiddev/comments/1veiqpe/firebase_dynamic_links_replacement_that_doesnt/)
-- [Help](https://www.reddit.com/r/androiddev/comments/1vebx6v/help/)
-- [HAL Development questions](https://www.reddit.com/r/androiddev/comments/1veasd2/hal_development_questions/)
-- [Is Flutter the wrong choice?](https://www.reddit.com/r/androiddev/comments/1ve8tcp/is_flutter_the_wrong_choice/)
-- [Introducing KitFlow – A Kotlin Multiplatform Library for Adaptive Compose UIs](https://www.reddit.com/r/androiddev/comments/1ve8sdx/introducing_kitflow_a_kotlin_multiplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
