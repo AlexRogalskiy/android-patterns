@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Seeking honest UI/UX feedback on my dark-themed Alarm &amp; Timer app concept!](https://www.reddit.com/r/androiddev/comments/1vgommx/seeking_honest_uiux_feedback_on_my_darkthemed/)
+- [Unlocks and IAP model question](https://www.reddit.com/r/androiddev/comments/1vgokst/unlocks_and_iap_model_question/)
+- [How to enable Resource Manager in Android Studio?](https://www.reddit.com/r/androiddev/comments/1vghhf0/how_to_enable_resource_manager_in_android_studio/)
+- [Is there a way to change the calibration for in-built microphones in Android Tablets?](https://www.reddit.com/r/androiddev/comments/1vgeq9s/is_there_a_way_to_change_the_calibration_for/)
+- [HannesLauncher](https://www.reddit.com/r/androiddev/comments/1vgd2cs/hanneslauncher/)
+- [Hi, what should i use to develop a local strage music player?](https://www.reddit.com/r/androiddev/comments/1vg6qfx/hi_what_should_i_use_to_develop_a_local_strage/)
+- [Seeking justification to receive macbook instead of ubuntu](https://www.reddit.com/r/androiddev/comments/1vg0shd/seeking_justification_to_receive_macbook_instead/)
 - [Credential Manager returns &quot;No credentials available&quot; only for Play Store AAB](https://www.reddit.com/r/androiddev/comments/1vfj5cz/credential_manager_returns_no_credentials/)
 - [Half my Android reviews are complaints about the app not being 100% free and the other half are defending my paid features. Any way to improve this? I don&#39;t have this issue on iOS.](https://www.reddit.com/r/androiddev/comments/1vfha7t/half_my_android_reviews_are_complaints_about_the/)
 - [New portfolio + looking for advice on how to land my first Android job &lpar;Mexico City&rpar;](https://www.reddit.com/r/androiddev/comments/1vfds1e/new_portfolio_looking_for_advice_on_how_to_land/)
-- [ClipSave, a free and open-source media downloader for Android](https://www.reddit.com/r/androiddev/comments/1vfakyp/clipsave_a_free_and_opensource_media_downloader/)
-- [When do you think will Google release Windows on ARM android emulators in Android studio??](https://www.reddit.com/r/androiddev/comments/1vfacc8/when_do_you_think_will_google_release_windows_on/)
-- [Which is best interface](https://www.reddit.com/r/androiddev/comments/1vf5ed0/which_is_best_interface/)
-- [Shipaton Megathread #1: What are you building?](https://www.reddit.com/r/androiddev/comments/1vf1u40/shipaton_megathread_1_what_are_you_building/)
-- [What is the biggest mistake first-time indie app developers make before launching?](https://www.reddit.com/r/androiddev/comments/1vf1pd2/what_is_the_biggest_mistake_firsttime_indie_app/)
-- [Help with SAF shortcuts...](https://www.reddit.com/r/androiddev/comments/1vf0coy/help_with_saf_shortcuts/)
-- [Helpful guide from Google for using AI tools to write Android apps](https://www.reddit.com/r/androiddev/comments/1velsh4/helpful_guide_from_google_for_using_ai_tools_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
