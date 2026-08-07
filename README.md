@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Seeking honest UI/UX feedback on my dark-themed Alarm &amp; Timer app concept!](https://www.reddit.com/r/androiddev/comments/1vgommx/seeking_honest_uiux_feedback_on_my_darkthemed/)
-- [Unlocks and IAP model question](https://www.reddit.com/r/androiddev/comments/1vgokst/unlocks_and_iap_model_question/)
-- [How to enable Resource Manager in Android Studio?](https://www.reddit.com/r/androiddev/comments/1vghhf0/how_to_enable_resource_manager_in_android_studio/)
-- [Is there a way to change the calibration for in-built microphones in Android Tablets?](https://www.reddit.com/r/androiddev/comments/1vgeq9s/is_there_a_way_to_change_the_calibration_for/)
-- [HannesLauncher](https://www.reddit.com/r/androiddev/comments/1vgd2cs/hanneslauncher/)
-- [Hi, what should i use to develop a local strage music player?](https://www.reddit.com/r/androiddev/comments/1vg6qfx/hi_what_should_i_use_to_develop_a_local_strage/)
-- [Seeking justification to receive macbook instead of ubuntu](https://www.reddit.com/r/androiddev/comments/1vg0shd/seeking_justification_to_receive_macbook_instead/)
-- [Credential Manager returns &quot;No credentials available&quot; only for Play Store AAB](https://www.reddit.com/r/androiddev/comments/1vfj5cz/credential_manager_returns_no_credentials/)
-- [Half my Android reviews are complaints about the app not being 100% free and the other half are defending my paid features. Any way to improve this? I don&#39;t have this issue on iOS.](https://www.reddit.com/r/androiddev/comments/1vfha7t/half_my_android_reviews_are_complaints_about_the/)
-- [New portfolio + looking for advice on how to land my first Android job &lpar;Mexico City&rpar;](https://www.reddit.com/r/androiddev/comments/1vfds1e/new_portfolio_looking_for_advice_on_how_to_land/)
+- [Why We Chose KMP Over React Native: It’s an Architecture Bet, Not a Framework Preference](https://www.reddit.com/r/androiddev/comments/1vhhu71/why_we_chose_kmp_over_react_native_its_an/)
+- [I built an open-source alternative to DroidCam/iVCam using Tauri and Kotlin &lpar;GPL Licensed&rpar;](https://www.reddit.com/r/androiddev/comments/1vhgzhn/i_built_an_opensource_alternative_to/)
+- [~&quot;Kotlin is so undeniably better... except static&quot; Tor Norbye, What does he mean?](https://www.reddit.com/r/androiddev/comments/1vhf8mt/kotlin_is_so_undeniably_better_except_static_tor/)
+- [Android Runtime](https://www.reddit.com/r/androiddev/comments/1vh9c0f/android_runtime/)
+- [Isolated Projects incubating in Gradle 9.7.0 &lpar;AndroidX sync 4m00s → 2m47s&rpar;](https://www.reddit.com/r/androiddev/comments/1vh8d9o/isolated_projects_incubating_in_gradle_970/)
+- [Android Studio Quail 4 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1vh8a1j/android_studio_quail_4_canary_4_now_available/)
+- [I built a tiny Kotlin library to solve a listener leak bug I kept hitting](https://www.reddit.com/r/androiddev/comments/1vh5s7k/i_built_a_tiny_kotlin_library_to_solve_a_listener/)
+- [Is there a library manager for android? [totally unrelated image]](https://www.reddit.com/r/androiddev/comments/1vh14cy/is_there_a_library_manager_for_android_totally/)
+- [How do you share Google Play subscription discounts with users who haven&#39;t installed your app yet?](https://www.reddit.com/r/androiddev/comments/1vh0k4m/how_do_you_share_google_play_subscription/)
+- [How to DUNS in Ghana?](https://www.reddit.com/r/androiddev/comments/1vgxify/how_to_duns_in_ghana/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
