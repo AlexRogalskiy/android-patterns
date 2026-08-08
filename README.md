@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why We Chose KMP Over React Native: It’s an Architecture Bet, Not a Framework Preference](https://www.reddit.com/r/androiddev/comments/1vhhu71/why_we_chose_kmp_over_react_native_its_an/)
-- [I built an open-source alternative to DroidCam/iVCam using Tauri and Kotlin &lpar;GPL Licensed&rpar;](https://www.reddit.com/r/androiddev/comments/1vhgzhn/i_built_an_opensource_alternative_to/)
-- [~&quot;Kotlin is so undeniably better... except static&quot; Tor Norbye, What does he mean?](https://www.reddit.com/r/androiddev/comments/1vhf8mt/kotlin_is_so_undeniably_better_except_static_tor/)
-- [Android Runtime](https://www.reddit.com/r/androiddev/comments/1vh9c0f/android_runtime/)
-- [Isolated Projects incubating in Gradle 9.7.0 &lpar;AndroidX sync 4m00s → 2m47s&rpar;](https://www.reddit.com/r/androiddev/comments/1vh8d9o/isolated_projects_incubating_in_gradle_970/)
-- [Android Studio Quail 4 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1vh8a1j/android_studio_quail_4_canary_4_now_available/)
-- [I built a tiny Kotlin library to solve a listener leak bug I kept hitting](https://www.reddit.com/r/androiddev/comments/1vh5s7k/i_built_a_tiny_kotlin_library_to_solve_a_listener/)
-- [Is there a library manager for android? [totally unrelated image]](https://www.reddit.com/r/androiddev/comments/1vh14cy/is_there_a_library_manager_for_android_totally/)
-- [How do you share Google Play subscription discounts with users who haven&#39;t installed your app yet?](https://www.reddit.com/r/androiddev/comments/1vh0k4m/how_do_you_share_google_play_subscription/)
-- [How to DUNS in Ghana?](https://www.reddit.com/r/androiddev/comments/1vgxify/how_to_duns_in_ghana/)
+- [COMPLETE BEGINNER NEEDING GUIDANCE](https://www.reddit.com/r/androiddev/comments/1vijrim/complete_beginner_needing_guidance/)
+- [does anyone have a good old makefile template for native builds?](https://www.reddit.com/r/androiddev/comments/1vicycb/does_anyone_have_a_good_old_makefile_template_for/)
+- [Yo! Published my first Open Source app on Playstore](https://www.reddit.com/r/androiddev/comments/1vi5uoh/yo_published_my_first_open_source_app_on_playstore/)
+- [What&#39;s the biggest your Gradle cache has ever gotten?](https://www.reddit.com/r/androiddev/comments/1vi482j/whats_the_biggest_your_gradle_cache_has_ever/)
+- [Hello, how can I use accessibility service on webview 3rd party apps.](https://www.reddit.com/r/androiddev/comments/1vi2au5/hello_how_can_i_use_accessibility_service_on/)
+- [I need help for publish.](https://www.reddit.com/r/androiddev/comments/1vi24y5/i_need_help_for_publish/)
+- [Why Google Play Developer APIs are painful for fetching simple assets](https://www.reddit.com/r/androiddev/comments/1vi16je/why_google_play_developer_apis_are_painful_for/)
+- [To anyone who published an app to Play Store, 3 questions please.](https://www.reddit.com/r/androiddev/comments/1vhzjbf/to_anyone_who_published_an_app_to_play_store_3/)
+- [How to create Gemini app visuals](https://www.reddit.com/r/androiddev/comments/1vhwqvy/how_to_create_gemini_app_visuals/)
+- [Could anyone with a Google Pixel Pro 9 running Android 17 do me a 1 minute favour?](https://www.reddit.com/r/androiddev/comments/1vhwmky/could_anyone_with_a_google_pixel_pro_9_running/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
