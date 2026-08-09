@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [COMPLETE BEGINNER NEEDING GUIDANCE](https://www.reddit.com/r/androiddev/comments/1vijrim/complete_beginner_needing_guidance/)
-- [does anyone have a good old makefile template for native builds?](https://www.reddit.com/r/androiddev/comments/1vicycb/does_anyone_have_a_good_old_makefile_template_for/)
-- [Yo! Published my first Open Source app on Playstore](https://www.reddit.com/r/androiddev/comments/1vi5uoh/yo_published_my_first_open_source_app_on_playstore/)
-- [What&#39;s the biggest your Gradle cache has ever gotten?](https://www.reddit.com/r/androiddev/comments/1vi482j/whats_the_biggest_your_gradle_cache_has_ever/)
-- [Hello, how can I use accessibility service on webview 3rd party apps.](https://www.reddit.com/r/androiddev/comments/1vi2au5/hello_how_can_i_use_accessibility_service_on/)
-- [I need help for publish.](https://www.reddit.com/r/androiddev/comments/1vi24y5/i_need_help_for_publish/)
-- [Why Google Play Developer APIs are painful for fetching simple assets](https://www.reddit.com/r/androiddev/comments/1vi16je/why_google_play_developer_apis_are_painful_for/)
-- [To anyone who published an app to Play Store, 3 questions please.](https://www.reddit.com/r/androiddev/comments/1vhzjbf/to_anyone_who_published_an_app_to_play_store_3/)
-- [How to create Gemini app visuals](https://www.reddit.com/r/androiddev/comments/1vhwqvy/how_to_create_gemini_app_visuals/)
-- [Could anyone with a Google Pixel Pro 9 running Android 17 do me a 1 minute favour?](https://www.reddit.com/r/androiddev/comments/1vhwmky/could_anyone_with_a_google_pixel_pro_9_running/)
+- [I built an Compose accessibility linter :&rpar;](https://www.reddit.com/r/androiddev/comments/1vj6kwb/i_built_an_compose_accessibility_linter/)
+- [Android developers: What are you working on these days, and where do you see Android going?](https://www.reddit.com/r/androiddev/comments/1vj5jpj/android_developers_what_are_you_working_on_these/)
+- [misleading reviews done with good intentions and important app review indicators](https://www.reddit.com/r/androiddev/comments/1vj1dzm/misleading_reviews_done_with_good_intentions_and/)
+- [Claude skills for Native Android Development &lpar;Kotlin&rpar;..?](https://www.reddit.com/r/androiddev/comments/1vixl71/claude_skills_for_native_android_development/)
+- [log4k 2.3.0 — a Kotlin IR compiler plugin that instruments your functions with tracing, logging and metrics](https://www.reddit.com/r/androiddev/comments/1viqc3f/log4k_230_a_kotlin_ir_compiler_plugin_that/)
+- [Play Console &quot;One-time products&quot; UI forces manual pre-tax math for tax-inclusive countries &lpar;unlike Apple&rpar;. Is there a better way?](https://www.reddit.com/r/androiddev/comments/1viq8j3/play_console_onetime_products_ui_forces_manual/)
+- [Should I learn Android Development with KOTLIN, JETPACK COMPOSE or go with XML AND JAVA nowdays ?](https://www.reddit.com/r/androiddev/comments/1vip07i/should_i_learn_android_development_with_kotlin/)
+- [🗡️ Pokedex KMP demonstrates modern Kotlin Multiplatform development with Compose Multiplatform, running from one shared codebase on Android, iOS, desktop, and the web.](https://www.reddit.com/r/androiddev/comments/1vinrob/pokedex_kmp_demonstrates_modern_kotlin/)
+- [Small apps with decent usage but zero subscription conversions — is this normal or am I missing something obvious?](https://www.reddit.com/r/androiddev/comments/1vimc8m/small_apps_with_decent_usage_but_zero/)
+- [Reliable Android alarms require a lot of manual permission enabling — anyone found a way to streamline this?](https://www.reddit.com/r/androiddev/comments/1vikupw/reliable_android_alarms_require_a_lot_of_manual/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
