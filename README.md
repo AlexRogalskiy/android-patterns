@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built an Compose accessibility linter :&rpar;](https://www.reddit.com/r/androiddev/comments/1vj6kwb/i_built_an_compose_accessibility_linter/)
-- [Android developers: What are you working on these days, and where do you see Android going?](https://www.reddit.com/r/androiddev/comments/1vj5jpj/android_developers_what_are_you_working_on_these/)
-- [misleading reviews done with good intentions and important app review indicators](https://www.reddit.com/r/androiddev/comments/1vj1dzm/misleading_reviews_done_with_good_intentions_and/)
-- [Claude skills for Native Android Development &lpar;Kotlin&rpar;..?](https://www.reddit.com/r/androiddev/comments/1vixl71/claude_skills_for_native_android_development/)
-- [log4k 2.3.0 — a Kotlin IR compiler plugin that instruments your functions with tracing, logging and metrics](https://www.reddit.com/r/androiddev/comments/1viqc3f/log4k_230_a_kotlin_ir_compiler_plugin_that/)
-- [Play Console &quot;One-time products&quot; UI forces manual pre-tax math for tax-inclusive countries &lpar;unlike Apple&rpar;. Is there a better way?](https://www.reddit.com/r/androiddev/comments/1viq8j3/play_console_onetime_products_ui_forces_manual/)
-- [Should I learn Android Development with KOTLIN, JETPACK COMPOSE or go with XML AND JAVA nowdays ?](https://www.reddit.com/r/androiddev/comments/1vip07i/should_i_learn_android_development_with_kotlin/)
-- [🗡️ Pokedex KMP demonstrates modern Kotlin Multiplatform development with Compose Multiplatform, running from one shared codebase on Android, iOS, desktop, and the web.](https://www.reddit.com/r/androiddev/comments/1vinrob/pokedex_kmp_demonstrates_modern_kotlin/)
-- [Small apps with decent usage but zero subscription conversions — is this normal or am I missing something obvious?](https://www.reddit.com/r/androiddev/comments/1vimc8m/small_apps_with_decent_usage_but_zero/)
-- [Reliable Android alarms require a lot of manual permission enabling — anyone found a way to streamline this?](https://www.reddit.com/r/androiddev/comments/1vikupw/reliable_android_alarms_require_a_lot_of_manual/)
+- [How to Hide Autofill in TextField Context Menu?](https://www.reddit.com/r/androiddev/comments/1vk8edq/how_to_hide_autofill_in_textfield_context_menu/)
+- [Launch plans for our Andriod](https://www.reddit.com/r/androiddev/comments/1vk5q55/launch_plans_for_our_andriod/)
+- [Why mocking clean architecture in this sub?](https://www.reddit.com/r/androiddev/comments/1vjuwa9/why_mocking_clean_architecture_in_this_sub/)
+- [Android Studio Virtual Device loads forever](https://www.reddit.com/r/androiddev/comments/1vjrnog/android_studio_virtual_device_loads_forever/)
+- [Firebase App Check &lpar;Play Integrity&rpar; blocking 100% requests on Play Store Internal Testing build, but logcat shows token success. Help!](https://www.reddit.com/r/androiddev/comments/1vjrevz/firebase_app_check_play_integrity_blocking_100/)
+- [Spotlight Banners?](https://www.reddit.com/r/androiddev/comments/1vjpdka/spotlight_banners/)
+- [Stuck in description hell, rejected for &quot;XOXOXO&quot;](https://www.reddit.com/r/androiddev/comments/1vjlz9n/stuck_in_description_hell_rejected_for_xoxoxo/)
+- [Standardizing Micro-Sandboxing at the Vault Level: Extending Android Process Isolation to Credentials](https://www.reddit.com/r/androiddev/comments/1vjil64/standardizing_microsandboxing_at_the_vault_level/)
+- [How does app work?](https://www.reddit.com/r/androiddev/comments/1vjiduh/how_does_app_work/)
+- [Does anyone know how much Indus Appstore charges after the first year of app publication?](https://www.reddit.com/r/androiddev/comments/1vjhwx6/does_anyone_know_how_much_indus_appstore_charges/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
