@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to Hide Autofill in TextField Context Menu?](https://www.reddit.com/r/androiddev/comments/1vk8edq/how_to_hide_autofill_in_textfield_context_menu/)
-- [Launch plans for our Andriod](https://www.reddit.com/r/androiddev/comments/1vk5q55/launch_plans_for_our_andriod/)
-- [Why mocking clean architecture in this sub?](https://www.reddit.com/r/androiddev/comments/1vjuwa9/why_mocking_clean_architecture_in_this_sub/)
-- [Android Studio Virtual Device loads forever](https://www.reddit.com/r/androiddev/comments/1vjrnog/android_studio_virtual_device_loads_forever/)
-- [Firebase App Check &lpar;Play Integrity&rpar; blocking 100% requests on Play Store Internal Testing build, but logcat shows token success. Help!](https://www.reddit.com/r/androiddev/comments/1vjrevz/firebase_app_check_play_integrity_blocking_100/)
-- [Spotlight Banners?](https://www.reddit.com/r/androiddev/comments/1vjpdka/spotlight_banners/)
-- [Stuck in description hell, rejected for &quot;XOXOXO&quot;](https://www.reddit.com/r/androiddev/comments/1vjlz9n/stuck_in_description_hell_rejected_for_xoxoxo/)
-- [Standardizing Micro-Sandboxing at the Vault Level: Extending Android Process Isolation to Credentials](https://www.reddit.com/r/androiddev/comments/1vjil64/standardizing_microsandboxing_at_the_vault_level/)
-- [How does app work?](https://www.reddit.com/r/androiddev/comments/1vjiduh/how_does_app_work/)
-- [Does anyone know how much Indus Appstore charges after the first year of app publication?](https://www.reddit.com/r/androiddev/comments/1vjhwx6/does_anyone_know_how_much_indus_appstore_charges/)
+- [\res &amp; \assets](https://www.reddit.com/r/androiddev/comments/1vl163n/res_assets/)
+- [Lessons from building a deal-aggregator app: expiring content is a harder cache problem than I expected](https://www.reddit.com/r/androiddev/comments/1vkzcws/lessons_from_building_a_dealaggregator_app/)
+- [EdgeSpeech: Add voice I/O to your Android App](https://www.reddit.com/r/androiddev/comments/1vkx9qo/edgespeech_add_voice_io_to_your_android_app/)
+- [Anyone knows if it&#39;s possible to boot the preloader from an microSD card instead of an eMMC in the MT6763T?](https://www.reddit.com/r/androiddev/comments/1vkvse7/anyone_knows_if_its_possible_to_boot_the/)
+- [Android Studio Quail 3 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1vkqj7u/android_studio_quail_3_patch_1_now_available/)
+- [Any resources on how to implement the right architecture for your app?](https://www.reddit.com/r/androiddev/comments/1vkple5/any_resources_on_how_to_implement_the_right/)
+- [[Library] Built A Compose Multiplatform Photo Gallery Library](https://www.reddit.com/r/androiddev/comments/1vkp31v/library_built_a_compose_multiplatform_photo/)
+- [I got tired of playing word games alone, so I built one where you compete against someone 1v1](https://www.reddit.com/r/androiddev/comments/1vkljtq/i_got_tired_of_playing_word_games_alone_so_i/)
+- [Can we a little push Google to move basic hardware workarounds &lpar;like A2DP Bluetooth offload&rpar; out of Developer Options? Banking apps are breaking our phone workflow.](https://www.reddit.com/r/androiddev/comments/1vkkmhd/can_we_a_little_push_google_to_move_basic/)
+- [App indexing issue?](https://www.reddit.com/r/androiddev/comments/1vkfzov/app_indexing_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
