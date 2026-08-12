@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can someone tell me is it necessary that your card credentials for fee of console account should match your own credentials exactly?](https://www.reddit.com/r/androiddev/comments/1vlr0l9/can_someone_tell_me_is_it_necessary_that_your/)
+- [KMP Starter Template just hit 150 GitHub stars](https://www.reddit.com/r/androiddev/comments/1vlqw2t/kmp_starter_template_just_hit_150_github_stars/)
+- [Android Studio on android?](https://www.reddit.com/r/androiddev/comments/1vlo0i3/android_studio_on_android/)
+- [Space utilisation](https://www.reddit.com/r/androiddev/comments/1vliatu/space_utilisation/)
+- [Looking for a pattern catalogue for app architecture &lpar;Clean, Hexagonal, Onion, VIPER, RIBs…&rpar; and the criteria for picking one.](https://www.reddit.com/r/androiddev/comments/1vlgqlz/looking_for_a_pattern_catalogue_for_app/)
+- [What Android development practices helped you write better apps?](https://www.reddit.com/r/androiddev/comments/1vlg2dp/what_android_development_practices_helped_you/)
 - [\res &amp; \assets](https://www.reddit.com/r/androiddev/comments/1vl163n/res_assets/)
-- [Lessons from building a deal-aggregator app: expiring content is a harder cache problem than I expected](https://www.reddit.com/r/androiddev/comments/1vkzcws/lessons_from_building_a_dealaggregator_app/)
 - [EdgeSpeech: Add voice I/O to your Android App](https://www.reddit.com/r/androiddev/comments/1vkx9qo/edgespeech_add_voice_io_to_your_android_app/)
-- [Anyone knows if it&#39;s possible to boot the preloader from an microSD card instead of an eMMC in the MT6763T?](https://www.reddit.com/r/androiddev/comments/1vkvse7/anyone_knows_if_its_possible_to_boot_the/)
 - [Android Studio Quail 3 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1vkqj7u/android_studio_quail_3_patch_1_now_available/)
 - [Any resources on how to implement the right architecture for your app?](https://www.reddit.com/r/androiddev/comments/1vkple5/any_resources_on_how_to_implement_the_right/)
-- [[Library] Built A Compose Multiplatform Photo Gallery Library](https://www.reddit.com/r/androiddev/comments/1vkp31v/library_built_a_compose_multiplatform_photo/)
-- [I got tired of playing word games alone, so I built one where you compete against someone 1v1](https://www.reddit.com/r/androiddev/comments/1vkljtq/i_got_tired_of_playing_word_games_alone_so_i/)
-- [Can we a little push Google to move basic hardware workarounds &lpar;like A2DP Bluetooth offload&rpar; out of Developer Options? Banking apps are breaking our phone workflow.](https://www.reddit.com/r/androiddev/comments/1vkkmhd/can_we_a_little_push_google_to_move_basic/)
-- [App indexing issue?](https://www.reddit.com/r/androiddev/comments/1vkfzov/app_indexing_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
