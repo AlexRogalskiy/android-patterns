@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can someone tell me is it necessary that your card credentials for fee of console account should match your own credentials exactly?](https://www.reddit.com/r/androiddev/comments/1vlr0l9/can_someone_tell_me_is_it_necessary_that_your/)
-- [KMP Starter Template just hit 150 GitHub stars](https://www.reddit.com/r/androiddev/comments/1vlqw2t/kmp_starter_template_just_hit_150_github_stars/)
-- [Android Studio on android?](https://www.reddit.com/r/androiddev/comments/1vlo0i3/android_studio_on_android/)
-- [Space utilisation](https://www.reddit.com/r/androiddev/comments/1vliatu/space_utilisation/)
-- [Looking for a pattern catalogue for app architecture &lpar;Clean, Hexagonal, Onion, VIPER, RIBs…&rpar; and the criteria for picking one.](https://www.reddit.com/r/androiddev/comments/1vlgqlz/looking_for_a_pattern_catalogue_for_app/)
-- [What Android development practices helped you write better apps?](https://www.reddit.com/r/androiddev/comments/1vlg2dp/what_android_development_practices_helped_you/)
-- [\res &amp; \assets](https://www.reddit.com/r/androiddev/comments/1vl163n/res_assets/)
-- [EdgeSpeech: Add voice I/O to your Android App](https://www.reddit.com/r/androiddev/comments/1vkx9qo/edgespeech_add_voice_io_to_your_android_app/)
-- [Android Studio Quail 3 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1vkqj7u/android_studio_quail_3_patch_1_now_available/)
-- [Any resources on how to implement the right architecture for your app?](https://www.reddit.com/r/androiddev/comments/1vkple5/any_resources_on_how_to_implement_the_right/)
+- [Where does the future lie for Android developers?](https://www.reddit.com/r/androiddev/comments/1vmyh6s/where_does_the_future_lie_for_android_developers/)
+- [Some recent works on my launcher project Droidberry Launcher](https://www.reddit.com/r/androiddev/comments/1vmxhmk/some_recent_works_on_my_launcher_project/)
+- [Been using AI generated images for playstore and GitHub](https://www.reddit.com/r/androiddev/comments/1vmo0gf/been_using_ai_generated_images_for_playstore_and/)
+- [Any way to create physical buttons for android phones to launch apps?](https://www.reddit.com/r/androiddev/comments/1vmlpah/any_way_to_create_physical_buttons_for_android/)
+- [Jetpack Compose 1.12](https://www.reddit.com/r/androiddev/comments/1vmiyvt/jetpack_compose_112/)
+- [[Help]: Jetpack Compose component flashing issue when list changes](https://www.reddit.com/r/androiddev/comments/1vmia5g/help_jetpack_compose_component_flashing_issue/)
+- [I built a runtime WCAG auditor for Android — point it at any installed app and get live accessibility findings mapped to WCAG criteria](https://www.reddit.com/r/androiddev/comments/1vmhxzg/i_built_a_runtime_wcag_auditor_for_android_point/)
+- [how hard is it to compete with vibe coders for junior devs?](https://www.reddit.com/r/androiddev/comments/1vmh98y/how_hard_is_it_to_compete_with_vibe_coders_for/)
+- [Cross-module Compose screens losing recomposition skipping even though nothing looks wrong](https://www.reddit.com/r/androiddev/comments/1vmcrvh/crossmodule_compose_screens_losing_recomposition/)
+- [9 years into Android, 3 months without a job, and I’m not sure I still want this field. How did you get unstuck?](https://www.reddit.com/r/androiddev/comments/1vmcg2u/9_years_into_android_3_months_without_a_job_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
