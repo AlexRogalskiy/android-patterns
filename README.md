@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Struggling to grow my Android app. Is Android only inherently harder for solo devs?](https://www.reddit.com/r/androiddev/comments/1vnss9x/struggling_to_grow_my_android_app_is_android_only/)
+- [SAS in Cary, NC looking for native Android/iOS developer &lpar;hybrid&rpar;](https://www.reddit.com/r/androiddev/comments/1vnnzif/sas_in_cary_nc_looking_for_native_androidios/)
+- [Senior CS Student Considering Android Development](https://www.reddit.com/r/androiddev/comments/1vnnjiw/senior_cs_student_considering_android_development/)
+- [Can I skip Publishing overview Changes in review? I have a critical bug in my closed testing, and it&#39;s in review for over 5 hours now](https://www.reddit.com/r/androiddev/comments/1vnhpar/can_i_skip_publishing_overview_changes_in_review/)
+- [5 Experimental Kotlin Features You Don&#39;t Want to Miss](https://www.reddit.com/r/androiddev/comments/1vn8i4n/5_experimental_kotlin_features_you_dont_want_to/)
+- [I couldn&#39;t find a clean way to add AdMob in Compose Multiplatform, so I built one](https://www.reddit.com/r/androiddev/comments/1vn38qd/i_couldnt_find_a_clean_way_to_add_admob_in/)
+- [Android devs: What do you think about the new Apps Experience Program &lpar;AEP&rpar;?](https://www.reddit.com/r/androiddev/comments/1vn03il/android_devs_what_do_you_think_about_the_new_apps/)
+- [Compose&#39;s WordIterator makes a long press select the entire sentence in Chinese](https://www.reddit.com/r/androiddev/comments/1vmzy3p/composes_worditerator_makes_a_long_press_select/)
 - [Where does the future lie for Android developers?](https://www.reddit.com/r/androiddev/comments/1vmyh6s/where_does_the_future_lie_for_android_developers/)
 - [Some recent works on my launcher project Droidberry Launcher](https://www.reddit.com/r/androiddev/comments/1vmxhmk/some_recent_works_on_my_launcher_project/)
-- [Been using AI generated images for playstore and GitHub](https://www.reddit.com/r/androiddev/comments/1vmo0gf/been_using_ai_generated_images_for_playstore_and/)
-- [Any way to create physical buttons for android phones to launch apps?](https://www.reddit.com/r/androiddev/comments/1vmlpah/any_way_to_create_physical_buttons_for_android/)
-- [Jetpack Compose 1.12](https://www.reddit.com/r/androiddev/comments/1vmiyvt/jetpack_compose_112/)
-- [[Help]: Jetpack Compose component flashing issue when list changes](https://www.reddit.com/r/androiddev/comments/1vmia5g/help_jetpack_compose_component_flashing_issue/)
-- [I built a runtime WCAG auditor for Android — point it at any installed app and get live accessibility findings mapped to WCAG criteria](https://www.reddit.com/r/androiddev/comments/1vmhxzg/i_built_a_runtime_wcag_auditor_for_android_point/)
-- [how hard is it to compete with vibe coders for junior devs?](https://www.reddit.com/r/androiddev/comments/1vmh98y/how_hard_is_it_to_compete_with_vibe_coders_for/)
-- [Cross-module Compose screens losing recomposition skipping even though nothing looks wrong](https://www.reddit.com/r/androiddev/comments/1vmcrvh/crossmodule_compose_screens_losing_recomposition/)
-- [9 years into Android, 3 months without a job, and I’m not sure I still want this field. How did you get unstuck?](https://www.reddit.com/r/androiddev/comments/1vmcg2u/9_years_into_android_3_months_without_a_job_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
