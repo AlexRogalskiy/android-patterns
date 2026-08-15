@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Struggling to grow my Android app. Is Android only inherently harder for solo devs?](https://www.reddit.com/r/androiddev/comments/1vnss9x/struggling_to_grow_my_android_app_is_android_only/)
-- [SAS in Cary, NC looking for native Android/iOS developer &lpar;hybrid&rpar;](https://www.reddit.com/r/androiddev/comments/1vnnzif/sas_in_cary_nc_looking_for_native_androidios/)
-- [Senior CS Student Considering Android Development](https://www.reddit.com/r/androiddev/comments/1vnnjiw/senior_cs_student_considering_android_development/)
-- [Can I skip Publishing overview Changes in review? I have a critical bug in my closed testing, and it&#39;s in review for over 5 hours now](https://www.reddit.com/r/androiddev/comments/1vnhpar/can_i_skip_publishing_overview_changes_in_review/)
-- [5 Experimental Kotlin Features You Don&#39;t Want to Miss](https://www.reddit.com/r/androiddev/comments/1vn8i4n/5_experimental_kotlin_features_you_dont_want_to/)
-- [I couldn&#39;t find a clean way to add AdMob in Compose Multiplatform, so I built one](https://www.reddit.com/r/androiddev/comments/1vn38qd/i_couldnt_find_a_clean_way_to_add_admob_in/)
-- [Android devs: What do you think about the new Apps Experience Program &lpar;AEP&rpar;?](https://www.reddit.com/r/androiddev/comments/1vn03il/android_devs_what_do_you_think_about_the_new_apps/)
-- [Compose&#39;s WordIterator makes a long press select the entire sentence in Chinese](https://www.reddit.com/r/androiddev/comments/1vmzy3p/composes_worditerator_makes_a_long_press_select/)
-- [Where does the future lie for Android developers?](https://www.reddit.com/r/androiddev/comments/1vmyh6s/where_does_the_future_lie_for_android_developers/)
-- [Some recent works on my launcher project Droidberry Launcher](https://www.reddit.com/r/androiddev/comments/1vmxhmk/some_recent_works_on_my_launcher_project/)
+- [Got all four of my apps through closed testing and live on Play](https://www.reddit.com/r/androiddev/comments/1voh7bl/got_all_four_of_my_apps_through_closed_testing/)
+- [Best Android Emulator for developing and testing mobile apps?](https://www.reddit.com/r/androiddev/comments/1voftbh/best_android_emulator_for_developing_and_testing/)
+- [Optimizing micro-animations in Jetpack Compose: Lessons from building custom 3D flipping icons, collapsing shadows, and particle canvas layers](https://www.reddit.com/r/androiddev/comments/1vofcfr/optimizing_microanimations_in_jetpack_compose/)
+- [How bad is the Gemini chat inside Android Studio?](https://www.reddit.com/r/androiddev/comments/1vod0u3/how_bad_is_the_gemini_chat_inside_android_studio/)
+- [🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-device PII redaction! 🛡️ No cables or root needed!](https://www.reddit.com/r/androiddev/comments/1voasg4/new_version_of_android_remote_control_mcp/)
+- [Expedite Google Play Reviews](https://www.reddit.com/r/androiddev/comments/1vo8lsf/expedite_google_play_reviews/)
+- [adb and dtmf](https://www.reddit.com/r/androiddev/comments/1vo7mnf/adb_and_dtmf/)
+- [I don&#39;t understand what Google&#39;s Gemini integration is solving](https://www.reddit.com/r/androiddev/comments/1vo6n7d/i_dont_understand_what_googles_gemini_integration/)
+- [Made redundant](https://www.reddit.com/r/androiddev/comments/1vo4pfb/made_redundant/)
+- [Google Play Organization account linked to an Individual Payments Profile — has anyone fixed this?](https://www.reddit.com/r/androiddev/comments/1vo2lc2/google_play_organization_account_linked_to_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
