@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Tensor Voice Routing Bottleneck: How System Hotword DSPs Bypass Active App Memory &amp; Break On-Device Intelligence](https://www.reddit.com/r/androiddev/comments/1vpirj6/the_tensor_voice_routing_bottleneck_how_system/)
+- [Google play app transfer kill organic traffic over 90%](https://www.reddit.com/r/androiddev/comments/1vpgwth/google_play_app_transfer_kill_organic_traffic/)
+- [I built DevConsole — an open-source in-app debugging tool for Android](https://www.reddit.com/r/androiddev/comments/1vp9ljq/i_built_devconsole_an_opensource_inapp_debugging/)
+- [IAP risk assessment agent](https://www.reddit.com/r/androiddev/comments/1vp8o94/iap_risk_assessment_agent/)
+- [🆘 Android Developer Needed – Free Help With Google Play Closed Testing](https://www.reddit.com/r/androiddev/comments/1vp8l87/android_developer_needed_free_help_with_google/)
+- [Technical Discussion](https://www.reddit.com/r/androiddev/comments/1votfnv/technical_discussion/)
 - [Got all four of my apps through closed testing and live on Play](https://www.reddit.com/r/androiddev/comments/1voh7bl/got_all_four_of_my_apps_through_closed_testing/)
 - [Best Android Emulator for developing and testing mobile apps?](https://www.reddit.com/r/androiddev/comments/1voftbh/best_android_emulator_for_developing_and_testing/)
 - [Optimizing micro-animations in Jetpack Compose: Lessons from building custom 3D flipping icons, collapsing shadows, and particle canvas layers](https://www.reddit.com/r/androiddev/comments/1vofcfr/optimizing_microanimations_in_jetpack_compose/)
 - [How bad is the Gemini chat inside Android Studio?](https://www.reddit.com/r/androiddev/comments/1vod0u3/how_bad_is_the_gemini_chat_inside_android_studio/)
-- [🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-device PII redaction! 🛡️ No cables or root needed!](https://www.reddit.com/r/androiddev/comments/1voasg4/new_version_of_android_remote_control_mcp/)
-- [Expedite Google Play Reviews](https://www.reddit.com/r/androiddev/comments/1vo8lsf/expedite_google_play_reviews/)
-- [adb and dtmf](https://www.reddit.com/r/androiddev/comments/1vo7mnf/adb_and_dtmf/)
-- [I don&#39;t understand what Google&#39;s Gemini integration is solving](https://www.reddit.com/r/androiddev/comments/1vo6n7d/i_dont_understand_what_googles_gemini_integration/)
-- [Made redundant](https://www.reddit.com/r/androiddev/comments/1vo4pfb/made_redundant/)
-- [Google Play Organization account linked to an Individual Payments Profile — has anyone fixed this?](https://www.reddit.com/r/androiddev/comments/1vo2lc2/google_play_organization_account_linked_to_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
