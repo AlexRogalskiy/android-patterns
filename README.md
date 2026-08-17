@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Tensor Voice Routing Bottleneck: How System Hotword DSPs Bypass Active App Memory &amp; Break On-Device Intelligence](https://www.reddit.com/r/androiddev/comments/1vpirj6/the_tensor_voice_routing_bottleneck_how_system/)
-- [Google play app transfer kill organic traffic over 90%](https://www.reddit.com/r/androiddev/comments/1vpgwth/google_play_app_transfer_kill_organic_traffic/)
-- [I built DevConsole — an open-source in-app debugging tool for Android](https://www.reddit.com/r/androiddev/comments/1vp9ljq/i_built_devconsole_an_opensource_inapp_debugging/)
-- [IAP risk assessment agent](https://www.reddit.com/r/androiddev/comments/1vp8o94/iap_risk_assessment_agent/)
-- [🆘 Android Developer Needed – Free Help With Google Play Closed Testing](https://www.reddit.com/r/androiddev/comments/1vp8l87/android_developer_needed_free_help_with_google/)
-- [Technical Discussion](https://www.reddit.com/r/androiddev/comments/1votfnv/technical_discussion/)
-- [Got all four of my apps through closed testing and live on Play](https://www.reddit.com/r/androiddev/comments/1voh7bl/got_all_four_of_my_apps_through_closed_testing/)
-- [Best Android Emulator for developing and testing mobile apps?](https://www.reddit.com/r/androiddev/comments/1voftbh/best_android_emulator_for_developing_and_testing/)
-- [Optimizing micro-animations in Jetpack Compose: Lessons from building custom 3D flipping icons, collapsing shadows, and particle canvas layers](https://www.reddit.com/r/androiddev/comments/1vofcfr/optimizing_microanimations_in_jetpack_compose/)
-- [How bad is the Gemini chat inside Android Studio?](https://www.reddit.com/r/androiddev/comments/1vod0u3/how_bad_is_the_gemini_chat_inside_android_studio/)
+- [PSA: Instagram/TikTok in-app browsers block every client-side path to the App Store. Here&#39;s the server-side fix that actually works.](https://www.reddit.com/r/androiddev/comments/1vqeg4r/psa_instagramtiktok_inapp_browsers_block_every/)
+- [Code 17 devlog: Android 16, safer rotation, and stronger imports](https://www.reddit.com/r/androiddev/comments/1vqbxm8/code_17_devlog_android_16_safer_rotation_and/)
+- [I built a KMP AdMob library because none of the existing ones let you write native ads in Compose](https://www.reddit.com/r/androiddev/comments/1vq4kvt/i_built_a_kmp_admob_library_because_none_of_the/)
+- [The risks of sharing your opensource Android app&#39;s public repo before releasing it into the app store](https://www.reddit.com/r/androiddev/comments/1vq3ot5/the_risks_of_sharing_your_opensource_android_apps/)
+- [Created a cli tool and a mac app for viewing recomposition count of composables.](https://www.reddit.com/r/androiddev/comments/1vq3asj/created_a_cli_tool_and_a_mac_app_for_viewing/)
+- [Implemented a poster editor. Have tips to share](https://www.reddit.com/r/androiddev/comments/1vq0j4p/implemented_a_poster_editor_have_tips_to_share/)
+- [New grad here, need advice from people actually working in android](https://www.reddit.com/r/androiddev/comments/1vpydmy/new_grad_here_need_advice_from_people_actually/)
+- [Kotlin Blocked Permissions](https://www.reddit.com/r/androiddev/comments/1vpvzsm/kotlin_blocked_permissions/)
+- [Google policies - repetetive apps](https://www.reddit.com/r/androiddev/comments/1vpuep6/google_policies_repetetive_apps/)
+- [Added Sound Effects](https://www.reddit.com/r/androiddev/comments/1vpucmb/added_sound_effects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
