@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [PSA: Instagram/TikTok in-app browsers block every client-side path to the App Store. Here&#39;s the server-side fix that actually works.](https://www.reddit.com/r/androiddev/comments/1vqeg4r/psa_instagramtiktok_inapp_browsers_block_every/)
-- [Code 17 devlog: Android 16, safer rotation, and stronger imports](https://www.reddit.com/r/androiddev/comments/1vqbxm8/code_17_devlog_android_16_safer_rotation_and/)
-- [I built a KMP AdMob library because none of the existing ones let you write native ads in Compose](https://www.reddit.com/r/androiddev/comments/1vq4kvt/i_built_a_kmp_admob_library_because_none_of_the/)
-- [The risks of sharing your opensource Android app&#39;s public repo before releasing it into the app store](https://www.reddit.com/r/androiddev/comments/1vq3ot5/the_risks_of_sharing_your_opensource_android_apps/)
-- [Created a cli tool and a mac app for viewing recomposition count of composables.](https://www.reddit.com/r/androiddev/comments/1vq3asj/created_a_cli_tool_and_a_mac_app_for_viewing/)
-- [Implemented a poster editor. Have tips to share](https://www.reddit.com/r/androiddev/comments/1vq0j4p/implemented_a_poster_editor_have_tips_to_share/)
-- [New grad here, need advice from people actually working in android](https://www.reddit.com/r/androiddev/comments/1vpydmy/new_grad_here_need_advice_from_people_actually/)
-- [Kotlin Blocked Permissions](https://www.reddit.com/r/androiddev/comments/1vpvzsm/kotlin_blocked_permissions/)
-- [Google policies - repetetive apps](https://www.reddit.com/r/androiddev/comments/1vpuep6/google_policies_repetetive_apps/)
-- [Added Sound Effects](https://www.reddit.com/r/androiddev/comments/1vpucmb/added_sound_effects/)
+- [Advice for my Android students about using AI?](https://www.reddit.com/r/androiddev/comments/1vr35pn/advice_for_my_android_students_about_using_ai/)
+- [How are people actually handling state in large Compose screens?](https://www.reddit.com/r/androiddev/comments/1vqy2c6/how_are_people_actually_handling_state_in_large/)
+- [Architectural patterns in large scale apps.](https://www.reddit.com/r/androiddev/comments/1vqy1mu/architectural_patterns_in_large_scale_apps/)
+- [Android Studio Rabbit 1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1vqupvr/android_studio_rabbit_1_canary_1_now_available/)
+- [Android Studio Quail 4 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1vqt49y/android_studio_quail_4_rc_1_now_available/)
+- [What I found out building an API to TTS alert that has to run with the screen off](https://www.reddit.com/r/androiddev/comments/1vqsl0q/what_i_found_out_building_an_api_to_tts_alert/)
+- [Is Shipaton worth it?](https://www.reddit.com/r/androiddev/comments/1vqr64k/is_shipaton_worth_it/)
+- [Added Easter Eggs &amp; Improved SFX](https://www.reddit.com/r/androiddev/comments/1vqp76x/added_easter_eggs_improved_sfx/)
+- [Brought back blur on Pixel Fold &lpar;Tensor G2&rpar; Android 17 &lpar;Mod&rpar;](https://www.reddit.com/r/androiddev/comments/1vqoz5t/brought_back_blur_on_pixel_fold_tensor_g2_android/)
+- [Play Developer Reporting API gotchas: it&#39;s a separate API, vitals return zero rows instead of an error, and the reports bucket isn&#39;t named what the docs say](https://www.reddit.com/r/androiddev/comments/1vqmn6p/play_developer_reporting_api_gotchas_its_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
