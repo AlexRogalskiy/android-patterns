@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Advice for my Android students about using AI?](https://www.reddit.com/r/androiddev/comments/1vr35pn/advice_for_my_android_students_about_using_ai/)
-- [How are people actually handling state in large Compose screens?](https://www.reddit.com/r/androiddev/comments/1vqy2c6/how_are_people_actually_handling_state_in_large/)
-- [Architectural patterns in large scale apps.](https://www.reddit.com/r/androiddev/comments/1vqy1mu/architectural_patterns_in_large_scale_apps/)
-- [Android Studio Rabbit 1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1vqupvr/android_studio_rabbit_1_canary_1_now_available/)
-- [Android Studio Quail 4 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1vqt49y/android_studio_quail_4_rc_1_now_available/)
-- [What I found out building an API to TTS alert that has to run with the screen off](https://www.reddit.com/r/androiddev/comments/1vqsl0q/what_i_found_out_building_an_api_to_tts_alert/)
-- [Is Shipaton worth it?](https://www.reddit.com/r/androiddev/comments/1vqr64k/is_shipaton_worth_it/)
-- [Added Easter Eggs &amp; Improved SFX](https://www.reddit.com/r/androiddev/comments/1vqp76x/added_easter_eggs_improved_sfx/)
-- [Brought back blur on Pixel Fold &lpar;Tensor G2&rpar; Android 17 &lpar;Mod&rpar;](https://www.reddit.com/r/androiddev/comments/1vqoz5t/brought_back_blur_on_pixel_fold_tensor_g2_android/)
-- [Play Developer Reporting API gotchas: it&#39;s a separate API, vitals return zero rows instead of an error, and the reports bucket isn&#39;t named what the docs say](https://www.reddit.com/r/androiddev/comments/1vqmn6p/play_developer_reporting_api_gotchas_its_a/)
+- [What do you think of the aesthetics of these apps? edited](https://www.reddit.com/r/androiddev/comments/1vs92qg/what_do_you_think_of_the_aesthetics_of_these_apps/)
+- [How do I add support for xiaomi pen pro?](https://www.reddit.com/r/androiddev/comments/1vs8erf/how_do_i_add_support_for_xiaomi_pen_pro/)
+- [What do you think of the aesthetics of these apps?](https://www.reddit.com/r/androiddev/comments/1vs8635/what_do_you_think_of_the_aesthetics_of_these_apps/)
+- [My own telemetry vss Play Console reporting lag - how long does initial backfill usually take?](https://www.reddit.com/r/androiddev/comments/1vrzjem/my_own_telemetry_vss_play_console_reporting_lag/)
+- [android studio virtual device not coming up on the screen](https://www.reddit.com/r/androiddev/comments/1vry2u2/android_studio_virtual_device_not_coming_up_on/)
+- [How do subscription tracker apps legally handle third-party service logos without store policy issues?](https://www.reddit.com/r/androiddev/comments/1vrxgkx/how_do_subscription_tracker_apps_legally_handle/)
+- [Default Listing not updating](https://www.reddit.com/r/androiddev/comments/1vrwgl7/default_listing_not_updating/)
+- [Supabase Kotlin SDK in production — is this good enough or would I regret not using Firebase instead?](https://www.reddit.com/r/androiddev/comments/1vruh61/supabase_kotlin_sdk_in_production_is_this_good/)
+- [How can I handle payments if I can&#39;t use google merchant in my country?](https://www.reddit.com/r/androiddev/comments/1vrmnal/how_can_i_handle_payments_if_i_cant_use_google/)
+- [Finally ! our app is launched](https://www.reddit.com/r/androiddev/comments/1vrk8rc/finally_our_app_is_launched/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
