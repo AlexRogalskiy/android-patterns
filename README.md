@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What do you think of the aesthetics of these apps? edited](https://www.reddit.com/r/androiddev/comments/1vs92qg/what_do_you_think_of_the_aesthetics_of_these_apps/)
-- [How do I add support for xiaomi pen pro?](https://www.reddit.com/r/androiddev/comments/1vs8erf/how_do_i_add_support_for_xiaomi_pen_pro/)
-- [What do you think of the aesthetics of these apps?](https://www.reddit.com/r/androiddev/comments/1vs8635/what_do_you_think_of_the_aesthetics_of_these_apps/)
-- [My own telemetry vss Play Console reporting lag - how long does initial backfill usually take?](https://www.reddit.com/r/androiddev/comments/1vrzjem/my_own_telemetry_vss_play_console_reporting_lag/)
-- [android studio virtual device not coming up on the screen](https://www.reddit.com/r/androiddev/comments/1vry2u2/android_studio_virtual_device_not_coming_up_on/)
-- [How do subscription tracker apps legally handle third-party service logos without store policy issues?](https://www.reddit.com/r/androiddev/comments/1vrxgkx/how_do_subscription_tracker_apps_legally_handle/)
-- [Default Listing not updating](https://www.reddit.com/r/androiddev/comments/1vrwgl7/default_listing_not_updating/)
-- [Supabase Kotlin SDK in production — is this good enough or would I regret not using Firebase instead?](https://www.reddit.com/r/androiddev/comments/1vruh61/supabase_kotlin_sdk_in_production_is_this_good/)
-- [How can I handle payments if I can&#39;t use google merchant in my country?](https://www.reddit.com/r/androiddev/comments/1vrmnal/how_can_i_handle_payments_if_i_cant_use_google/)
-- [Finally ! our app is launched](https://www.reddit.com/r/androiddev/comments/1vrk8rc/finally_our_app_is_launched/)
+- [Start a new android project without Android Studio](https://www.reddit.com/r/androiddev/comments/1vt5dk6/start_a_new_android_project_without_android_studio/)
+- [Android is expanding per-app memory limits.](https://www.reddit.com/r/androiddev/comments/1vsy4d6/android_is_expanding_perapp_memory_limits/)
+- [Publishing new on Aptoide now requires Google Identity Verification?](https://www.reddit.com/r/androiddev/comments/1vsx534/publishing_new_on_aptoide_now_requires_google/)
+- [What’s your preferred approach for image and video picking on Android?](https://www.reddit.com/r/androiddev/comments/1vsre19/whats_your_preferred_approach_for_image_and_video/)
+- [Which Gradle task would you hand off to an AI agent?](https://www.reddit.com/r/androiddev/comments/1vsqoqs/which_gradle_task_would_you_hand_off_to_an_ai/)
+- [[Library] Gbéewá API overview, typed result handoff without navigator lock-in](https://www.reddit.com/r/androiddev/comments/1vsngbc/library_gbéewá_api_overview_typed_result_handoff/)
+- [I added rendered text-contrast detection to my Jetpack Compose accessibility scanner](https://www.reddit.com/r/androiddev/comments/1vslliy/i_added_rendered_textcontrast_detection_to_my/)
+- [Has anyone tried building Android apps with Rust + Native UI?](https://www.reddit.com/r/androiddev/comments/1vslgam/has_anyone_tried_building_android_apps_with_rust/)
+- [Offering Android mock interview today &lpar;6:00 / 6:30 PM IST&rpar;](https://www.reddit.com/r/androiddev/comments/1vsko3o/offering_android_mock_interview_today_600_630_pm/)
+- [[AMA] I&#39;m Jaewoong Eum &lpar;skydoves&rpar;. Ask me anything!](https://www.reddit.com/r/androiddev/comments/1vsgzi2/ama_im_jaewoong_eum_skydoves_ask_me_anything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
