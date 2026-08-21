@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building an fork of graphene for an ai os, any features I can add that would get you to use it?](https://www.reddit.com/r/androiddev/comments/1vu1udv/building_an_fork_of_graphene_for_an_ai_os_any/)
+- [Can ndk add boiler to run .java files in the back?](https://www.reddit.com/r/androiddev/comments/1vtwgne/can_ndk_add_boiler_to_run_java_files_in_the_back/)
+- [I built a Stremio-based Android app with richer metadata, add-on sync, automatic trailer playback, and custom themes](https://www.reddit.com/r/androiddev/comments/1vtnvsp/i_built_a_stremiobased_android_app_with_richer/)
+- [Android Studio Rabbit 1 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1vtluea/android_studio_rabbit_1_canary_2_now_available/)
+- [AppsFlyer or Branch? Deep linking matters as much as attribution for us](https://www.reddit.com/r/androiddev/comments/1vtlsmy/appsflyer_or_branch_deep_linking_matters_as_much/)
+- [The Great Android Stack Reset: Mobile System Design History](https://www.reddit.com/r/androiddev/comments/1vtkimc/the_great_android_stack_reset_mobile_system/)
+- [I got tired of my app showing a spinner for data it already had](https://www.reddit.com/r/androiddev/comments/1vtfwt8/i_got_tired_of_my_app_showing_a_spinner_for_data/)
+- [sdkmanager is DEPRECATED &lpar;in favor of Android CLI&rpar;](https://www.reddit.com/r/androiddev/comments/1vtdj7i/sdkmanager_is_deprecated_in_favor_of_android_cli/)
 - [Start a new android project without Android Studio](https://www.reddit.com/r/androiddev/comments/1vt5dk6/start_a_new_android_project_without_android_studio/)
 - [Android is expanding per-app memory limits.](https://www.reddit.com/r/androiddev/comments/1vsy4d6/android_is_expanding_perapp_memory_limits/)
-- [Publishing new on Aptoide now requires Google Identity Verification?](https://www.reddit.com/r/androiddev/comments/1vsx534/publishing_new_on_aptoide_now_requires_google/)
-- [What’s your preferred approach for image and video picking on Android?](https://www.reddit.com/r/androiddev/comments/1vsre19/whats_your_preferred_approach_for_image_and_video/)
-- [Which Gradle task would you hand off to an AI agent?](https://www.reddit.com/r/androiddev/comments/1vsqoqs/which_gradle_task_would_you_hand_off_to_an_ai/)
-- [[Library] Gbéewá API overview, typed result handoff without navigator lock-in](https://www.reddit.com/r/androiddev/comments/1vsngbc/library_gbéewá_api_overview_typed_result_handoff/)
-- [I added rendered text-contrast detection to my Jetpack Compose accessibility scanner](https://www.reddit.com/r/androiddev/comments/1vslliy/i_added_rendered_textcontrast_detection_to_my/)
-- [Has anyone tried building Android apps with Rust + Native UI?](https://www.reddit.com/r/androiddev/comments/1vslgam/has_anyone_tried_building_android_apps_with_rust/)
-- [Offering Android mock interview today &lpar;6:00 / 6:30 PM IST&rpar;](https://www.reddit.com/r/androiddev/comments/1vsko3o/offering_android_mock_interview_today_600_630_pm/)
-- [[AMA] I&#39;m Jaewoong Eum &lpar;skydoves&rpar;. Ask me anything!](https://www.reddit.com/r/androiddev/comments/1vsgzi2/ama_im_jaewoong_eum_skydoves_ask_me_anything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
