@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android 4.4 KWS62B is the only fake build](https://www.reddit.com/r/androiddev/comments/1vuxs60/android_44_kws62b_is_the_only_fake_build/)
+- [Clerk Android AuthView signInOrUp doesn&#39;t seem to detect new users correctly?](https://www.reddit.com/r/androiddev/comments/1vus3od/clerk_android_authview_signinorup_doesnt_seem_to/)
+- [The most feature rich App Store/PlayStore screenshot editor I could build, and it costs nothing](https://www.reddit.com/r/androiddev/comments/1vuq7cd/the_most_feature_rich_app_storeplaystore/)
+- [Composition Over Inheritance in Android ViewModels](https://www.reddit.com/r/androiddev/comments/1vumnza/composition_over_inheritance_in_android_viewmodels/)
+- [Introducing the location metadata API for the Android Photo Picker](https://www.reddit.com/r/androiddev/comments/1vuk8fr/introducing_the_location_metadata_api_for_the/)
+- [I built Mpv∞, an ad-free Android media player combining MPV/libmpv and Media3](https://www.reddit.com/r/androiddev/comments/1vujsbb/i_built_mpv_an_adfree_android_media_player/)
+- [Looking for indie games on mobile](https://www.reddit.com/r/androiddev/comments/1vuelbo/looking_for_indie_games_on_mobile/)
+- [Designer trying to ship an Android TV feature with Figma + Claude Code. What am I missing?](https://www.reddit.com/r/androiddev/comments/1vubfqj/designer_trying_to_ship_an_android_tv_feature/)
+- [Not able to publish or live on google playstore](https://www.reddit.com/r/androiddev/comments/1vu7faj/not_able_to_publish_or_live_on_google_playstore/)
 - [Building an fork of graphene for an ai os, any features I can add that would get you to use it?](https://www.reddit.com/r/androiddev/comments/1vu1udv/building_an_fork_of_graphene_for_an_ai_os_any/)
-- [Can ndk add boiler to run .java files in the back?](https://www.reddit.com/r/androiddev/comments/1vtwgne/can_ndk_add_boiler_to_run_java_files_in_the_back/)
-- [I built a Stremio-based Android app with richer metadata, add-on sync, automatic trailer playback, and custom themes](https://www.reddit.com/r/androiddev/comments/1vtnvsp/i_built_a_stremiobased_android_app_with_richer/)
-- [Android Studio Rabbit 1 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1vtluea/android_studio_rabbit_1_canary_2_now_available/)
-- [AppsFlyer or Branch? Deep linking matters as much as attribution for us](https://www.reddit.com/r/androiddev/comments/1vtlsmy/appsflyer_or_branch_deep_linking_matters_as_much/)
-- [The Great Android Stack Reset: Mobile System Design History](https://www.reddit.com/r/androiddev/comments/1vtkimc/the_great_android_stack_reset_mobile_system/)
-- [I got tired of my app showing a spinner for data it already had](https://www.reddit.com/r/androiddev/comments/1vtfwt8/i_got_tired_of_my_app_showing_a_spinner_for_data/)
-- [sdkmanager is DEPRECATED &lpar;in favor of Android CLI&rpar;](https://www.reddit.com/r/androiddev/comments/1vtdj7i/sdkmanager_is_deprecated_in_favor_of_android_cli/)
-- [Start a new android project without Android Studio](https://www.reddit.com/r/androiddev/comments/1vt5dk6/start_a_new_android_project_without_android_studio/)
-- [Android is expanding per-app memory limits.](https://www.reddit.com/r/androiddev/comments/1vsy4d6/android_is_expanding_perapp_memory_limits/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
