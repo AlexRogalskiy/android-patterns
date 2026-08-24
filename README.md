@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Spendly — an expense &amp; budget manager for Android &lpar;with automatic bank-SMS capture built in&rpar;](https://www.reddit.com/r/androiddev/comments/1vvur36/spendly_an_expense_budget_manager_for_android/)
+- [A country code picker for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1vwnn7r/a_country_code_picker_for_compose_multiplatform/)
+- [Looking for game dev tools that work 100% on Android &lpar;Poco F6, no PC&rpar;](https://www.reddit.com/r/androiddev/comments/1vwh1au/looking_for_game_dev_tools_that_work_100_on/)
+- [I built this interactive globe animation instead of a list using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1vwbojx/i_built_this_interactive_globe_animation_instead/)
+- [How do you actually tell real bugs from noise in Play Store reviews?](https://www.reddit.com/r/androiddev/comments/1vwb1r0/how_do_you_actually_tell_real_bugs_from_noise_in/)
+- [I turned an old Android phone into a remote camera](https://www.reddit.com/r/androiddev/comments/1vw443t/i_turned_an_old_android_phone_into_a_remote_camera/)
+- [Is there anyway to cast my screen to my screen without enabling USB Debugging?](https://www.reddit.com/r/androiddev/comments/1vw37lc/is_there_anyway_to_cast_my_screen_to_my_screen/)
+- [It is still fun making custom views](https://www.reddit.com/r/androiddev/comments/1vw2qgd/it_is_still_fun_making_custom_views/)
+- [How do you animate the native loading/ splash screen of an app?](https://www.reddit.com/r/androiddev/comments/1vvyic3/how_do_you_animate_the_native_loading_splash/)
+- [I’ve been building PAM Native: a way to build real Android and iOS apps with PHP.](https://www.reddit.com/r/androiddev/comments/1vvwa8h/ive_been_building_pam_native_a_way_to_build_real/)
 - [Internal testing - email list and notifications](https://www.reddit.com/r/androiddev/comments/1vvopq7/internal_testing_email_list_and_notifications/)
-- [kmprofiler - A Gradle plugin to profile and clean up Kotlin Multiplatform iOS export surfaces](https://www.reddit.com/r/androiddev/comments/1vvjfru/kmprofiler_a_gradle_plugin_to_profile_and_clean/)
-- [Built a fully offline, encrypted file-sharing app for Android &lpar;personal security learning project&rpar;](https://www.reddit.com/r/androiddev/comments/1vvedld/built_a_fully_offline_encrypted_filesharing_app/)
-- [Usage Access Danger Screen. Will it show on final app?](https://www.reddit.com/r/androiddev/comments/1vvab5f/usage_access_danger_screen_will_it_show_on_final/)
-- [Open source: DroidGauge, an adb-only CLI for local A/B performance regression reports](https://www.reddit.com/r/androiddev/comments/1vva2gq/open_source_droidgauge_an_adbonly_cli_for_local/)
-- [Can we do something about these weird free screenshot tool posts?](https://www.reddit.com/r/androiddev/comments/1vv74lp/can_we_do_something_about_these_weird_free/)
-- [SVG2Vector Drawable - Free Tools](https://www.reddit.com/r/androiddev/comments/1vv4pcc/svg2vector_drawable_free_tools/)
-- [Clerk Android AuthView signInOrUp doesn&#39;t seem to detect new users correctly?](https://www.reddit.com/r/androiddev/comments/1vus3od/clerk_android_authview_signinorup_doesnt_seem_to/)
-- [Need unique Android app ideas &lpar;Gap in the market / Niche with good monetization](https://www.reddit.com/r/androiddev/comments/1vupnn1/need_unique_android_app_ideas_gap_in_the_market/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
