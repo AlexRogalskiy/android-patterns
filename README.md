@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A country code picker for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1vwnn7r/a_country_code_picker_for_compose_multiplatform/)
-- [Looking for game dev tools that work 100% on Android &lpar;Poco F6, no PC&rpar;](https://www.reddit.com/r/androiddev/comments/1vwh1au/looking_for_game_dev_tools_that_work_100_on/)
-- [I built this interactive globe animation instead of a list using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1vwbojx/i_built_this_interactive_globe_animation_instead/)
-- [How do you actually tell real bugs from noise in Play Store reviews?](https://www.reddit.com/r/androiddev/comments/1vwb1r0/how_do_you_actually_tell_real_bugs_from_noise_in/)
-- [I turned an old Android phone into a remote camera](https://www.reddit.com/r/androiddev/comments/1vw443t/i_turned_an_old_android_phone_into_a_remote_camera/)
-- [Is there anyway to cast my screen to my screen without enabling USB Debugging?](https://www.reddit.com/r/androiddev/comments/1vw37lc/is_there_anyway_to_cast_my_screen_to_my_screen/)
-- [It is still fun making custom views](https://www.reddit.com/r/androiddev/comments/1vw2qgd/it_is_still_fun_making_custom_views/)
-- [How do you animate the native loading/ splash screen of an app?](https://www.reddit.com/r/androiddev/comments/1vvyic3/how_do_you_animate_the_native_loading_splash/)
-- [I’ve been building PAM Native: a way to build real Android and iOS apps with PHP.](https://www.reddit.com/r/androiddev/comments/1vvwa8h/ive_been_building_pam_native_a_way_to_build_real/)
-- [Internal testing - email list and notifications](https://www.reddit.com/r/androiddev/comments/1vvopq7/internal_testing_email_list_and_notifications/)
+- [Let me pentest your App &amp; Backend &lpar;for Free!&rpar;](https://www.reddit.com/r/androiddev/comments/1vxkh1c/let_me_pentest_your_app_backend_for_free/)
+- [AI Subtitle Generator for Watching Movies/Series](https://www.reddit.com/r/androiddev/comments/1vxjk6j/ai_subtitle_generator_for_watching_moviesseries/)
+- [The Hidden Cause of Yandex Ads Flickering](https://www.reddit.com/r/androiddev/comments/1vxiour/the_hidden_cause_of_yandex_ads_flickering/)
+- [S26 Ultra &lpar;Snapdragon&rpar; DSDA Data Concurrency via TelephonyNetworkSpecifier](https://www.reddit.com/r/androiddev/comments/1vxer3j/s26_ultra_snapdragon_dsda_data_concurrency_via/)
+- [Question from the infrastructure side: What is actually broken about your Android CI hardware?](https://www.reddit.com/r/androiddev/comments/1vxe4sj/question_from_the_infrastructure_side_what_is/)
+- [Error &quot;TOO_MANY_REGISTRATIONS&quot;](https://www.reddit.com/r/androiddev/comments/1vxchwz/error_too_many_registrations/)
+- [My wireless debugging isn&#39;t working.](https://www.reddit.com/r/androiddev/comments/1vx444q/my_wireless_debugging_isnt_working/)
+- [Made a free open source app to fix apps that silently stop updating because Android hibernates them &lpar;Samsung/Xiaomi/OnePlus users especially&rpar;](https://www.reddit.com/r/androiddev/comments/1vx2i46/made_a_free_open_source_app_to_fix_apps_that/)
+- [Educational PoC: Capturing raw PCM via AudioFlinger native hooking](https://www.reddit.com/r/androiddev/comments/1vx0es7/educational_poc_capturing_raw_pcm_via/)
+- [Developer account](https://www.reddit.com/r/androiddev/comments/1vwwtub/developer_account/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
