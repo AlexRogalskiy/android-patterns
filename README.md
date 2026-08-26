@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Let me pentest your App &amp; Backend &lpar;for Free!&rpar;](https://www.reddit.com/r/androiddev/comments/1vxkh1c/let_me_pentest_your_app_backend_for_free/)
-- [AI Subtitle Generator for Watching Movies/Series](https://www.reddit.com/r/androiddev/comments/1vxjk6j/ai_subtitle_generator_for_watching_moviesseries/)
-- [The Hidden Cause of Yandex Ads Flickering](https://www.reddit.com/r/androiddev/comments/1vxiour/the_hidden_cause_of_yandex_ads_flickering/)
-- [S26 Ultra &lpar;Snapdragon&rpar; DSDA Data Concurrency via TelephonyNetworkSpecifier](https://www.reddit.com/r/androiddev/comments/1vxer3j/s26_ultra_snapdragon_dsda_data_concurrency_via/)
-- [Question from the infrastructure side: What is actually broken about your Android CI hardware?](https://www.reddit.com/r/androiddev/comments/1vxe4sj/question_from_the_infrastructure_side_what_is/)
-- [Error &quot;TOO_MANY_REGISTRATIONS&quot;](https://www.reddit.com/r/androiddev/comments/1vxchwz/error_too_many_registrations/)
-- [My wireless debugging isn&#39;t working.](https://www.reddit.com/r/androiddev/comments/1vx444q/my_wireless_debugging_isnt_working/)
-- [Made a free open source app to fix apps that silently stop updating because Android hibernates them &lpar;Samsung/Xiaomi/OnePlus users especially&rpar;](https://www.reddit.com/r/androiddev/comments/1vx2i46/made_a_free_open_source_app_to_fix_apps_that/)
-- [Educational PoC: Capturing raw PCM via AudioFlinger native hooking](https://www.reddit.com/r/androiddev/comments/1vx0es7/educational_poc_capturing_raw_pcm_via/)
-- [Developer account](https://www.reddit.com/r/androiddev/comments/1vwwtub/developer_account/)
+- [ANR from getRootInActiveWindow: accessibility callbacks are on main and the read is a blocking binder call](https://www.reddit.com/r/androiddev/comments/1vygzin/anr_from_getrootinactivewindow_accessibility/)
+- [How far would you take server-driven UI in a native Android app?](https://www.reddit.com/r/androiddev/comments/1vy8i2m/how_far_would_you_take_serverdriven_ui_in_a/)
+- [I built a Compose component CLI that leaves plain Kotlin in your project. Would you trust this model?](https://www.reddit.com/r/androiddev/comments/1vy7rfq/i_built_a_compose_component_cli_that_leaves_plain/)
+- [Android Studio Quail 4 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1vy78aa/android_studio_quail_4_rc_2_now_available/)
+- [I built a small open-source tool for generating a Storybook-style gallery from Compose previews](https://www.reddit.com/r/androiddev/comments/1vy4vyy/i_built_a_small_opensource_tool_for_generating_a/)
+- [On-device debugging beyond network: mocking, storage, WorkManager, crashes, logcat - and the release-safety design behind it](https://www.reddit.com/r/androiddev/comments/1vy1ep3/ondevice_debugging_beyond_network_mocking_storage/)
+- [Plug-and-Play Compose Multiplatform Admob SDK for Android and iOS](https://www.reddit.com/r/androiddev/comments/1vxz29a/plugandplay_compose_multiplatform_admob_sdk_for/)
+- [using android studio in kotlin language autoclicker app - dispatchGesture&lpar;&rpar; returns queued=true but never taps anything, callback never fires - OEM-specific bug?](https://www.reddit.com/r/androiddev/comments/1vxylre/using_android_studio_in_kotlin_language/)
+- [How I do paid licensing for an app that has no network permission, and the one thing that bit me](https://www.reddit.com/r/androiddev/comments/1vxtz6t/how_i_do_paid_licensing_for_an_app_that_has_no/)
+- [Shipping an app with zero INTERNET permission, and how the whole thing got easier once I committed to it](https://www.reddit.com/r/androiddev/comments/1vxtm42/shipping_an_app_with_zero_internet_permission_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
