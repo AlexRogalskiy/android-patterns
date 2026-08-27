@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ANR from getRootInActiveWindow: accessibility callbacks are on main and the read is a blocking binder call](https://www.reddit.com/r/androiddev/comments/1vygzin/anr_from_getrootinactivewindow_accessibility/)
-- [How far would you take server-driven UI in a native Android app?](https://www.reddit.com/r/androiddev/comments/1vy8i2m/how_far_would_you_take_serverdriven_ui_in_a/)
-- [I built a Compose component CLI that leaves plain Kotlin in your project. Would you trust this model?](https://www.reddit.com/r/androiddev/comments/1vy7rfq/i_built_a_compose_component_cli_that_leaves_plain/)
-- [Android Studio Quail 4 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1vy78aa/android_studio_quail_4_rc_2_now_available/)
-- [I built a small open-source tool for generating a Storybook-style gallery from Compose previews](https://www.reddit.com/r/androiddev/comments/1vy4vyy/i_built_a_small_opensource_tool_for_generating_a/)
-- [On-device debugging beyond network: mocking, storage, WorkManager, crashes, logcat - and the release-safety design behind it](https://www.reddit.com/r/androiddev/comments/1vy1ep3/ondevice_debugging_beyond_network_mocking_storage/)
-- [Plug-and-Play Compose Multiplatform Admob SDK for Android and iOS](https://www.reddit.com/r/androiddev/comments/1vxz29a/plugandplay_compose_multiplatform_admob_sdk_for/)
-- [using android studio in kotlin language autoclicker app - dispatchGesture&lpar;&rpar; returns queued=true but never taps anything, callback never fires - OEM-specific bug?](https://www.reddit.com/r/androiddev/comments/1vxylre/using_android_studio_in_kotlin_language/)
-- [How I do paid licensing for an app that has no network permission, and the one thing that bit me](https://www.reddit.com/r/androiddev/comments/1vxtz6t/how_i_do_paid_licensing_for_an_app_that_has_no/)
-- [Shipping an app with zero INTERNET permission, and how the whole thing got easier once I committed to it](https://www.reddit.com/r/androiddev/comments/1vxtm42/shipping_an_app_with_zero_internet_permission_and/)
+- [Composed 0.5.0: a compose helper lib](https://www.reddit.com/r/androiddev/comments/1vzppuv/composed_050_a_compose_helper_lib/)
+- [Over 300 deploys with ~25 min review times, now suddenly stuck in review for 30 hours](https://www.reddit.com/r/androiddev/comments/1vzbq7s/over_300_deploys_with_25_min_review_times_now/)
+- [[OFFICIAL] Elevating app quality: Reducing memory usage and improving device migration](https://www.reddit.com/r/androiddev/comments/1vz6kv6/official_elevating_app_quality_reducing_memory/)
+- [How to open a activity for an alarm app?](https://www.reddit.com/r/androiddev/comments/1vz69g8/how_to_open_a_activity_for_an_alarm_app/)
+- [How to find the &quot;invisible&quot; recompositions that Layout inspector won&#39;t show you.](https://www.reddit.com/r/androiddev/comments/1vz2xgq/how_to_find_the_invisible_recompositions_that/)
+- [I am extremely disappointed with Google](https://www.reddit.com/r/androiddev/comments/1vz0rms/i_am_extremely_disappointed_with_google/)
+- [Tried Ktor client for first time to integrate rest api.](https://www.reddit.com/r/androiddev/comments/1vz0138/tried_ktor_client_for_first_time_to_integrate/)
+- [3 months passed, zero Google Play organic visibility](https://www.reddit.com/r/androiddev/comments/1vyz5lv/3_months_passed_zero_google_play_organic/)
+- [How far can you push a Jetpack Compose UI before it stops feeling intuitive?](https://www.reddit.com/r/androiddev/comments/1vyvdu7/how_far_can_you_push_a_jetpack_compose_ui_before/)
+- [Is it still worth learning app development in the AI era?](https://www.reddit.com/r/androiddev/comments/1vyv6px/is_it_still_worth_learning_app_development_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
