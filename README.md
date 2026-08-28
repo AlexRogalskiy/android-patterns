@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Access data/data](https://www.reddit.com/r/androiddev/comments/1w0nk52/access_datadata/)
+- [4 new ways Android is protecting your network connections](https://www.reddit.com/r/androiddev/comments/1w0l98d/4_new_ways_android_is_protecting_your_network/)
+- [New Keyboard coming to Play STORE!!](https://www.reddit.com/r/androiddev/comments/1w09rp0/new_keyboard_coming_to_play_store/)
+- [What is this white bar at the bottom???](https://www.reddit.com/r/androiddev/comments/1vzuw86/what_is_this_white_bar_at_the_bottom/)
+- [Android Studio Rabbit 1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1vzuqx2/android_studio_rabbit_1_canary_3_now_available/)
+- [Has anyone been able to solve this?](https://www.reddit.com/r/androiddev/comments/1vzugqi/has_anyone_been_able_to_solve_this/)
 - [Composed 0.5.0: a compose helper lib](https://www.reddit.com/r/androiddev/comments/1vzppuv/composed_050_a_compose_helper_lib/)
 - [Over 300 deploys with ~25 min review times, now suddenly stuck in review for 30 hours](https://www.reddit.com/r/androiddev/comments/1vzbq7s/over_300_deploys_with_25_min_review_times_now/)
 - [[OFFICIAL] Elevating app quality: Reducing memory usage and improving device migration](https://www.reddit.com/r/androiddev/comments/1vz6kv6/official_elevating_app_quality_reducing_memory/)
 - [How to open a activity for an alarm app?](https://www.reddit.com/r/androiddev/comments/1vz69g8/how_to_open_a_activity_for_an_alarm_app/)
-- [How to find the &quot;invisible&quot; recompositions that Layout inspector won&#39;t show you.](https://www.reddit.com/r/androiddev/comments/1vz2xgq/how_to_find_the_invisible_recompositions_that/)
-- [I am extremely disappointed with Google](https://www.reddit.com/r/androiddev/comments/1vz0rms/i_am_extremely_disappointed_with_google/)
-- [Tried Ktor client for first time to integrate rest api.](https://www.reddit.com/r/androiddev/comments/1vz0138/tried_ktor_client_for_first_time_to_integrate/)
-- [3 months passed, zero Google Play organic visibility](https://www.reddit.com/r/androiddev/comments/1vyz5lv/3_months_passed_zero_google_play_organic/)
-- [How far can you push a Jetpack Compose UI before it stops feeling intuitive?](https://www.reddit.com/r/androiddev/comments/1vyvdu7/how_far_can_you_push_a_jetpack_compose_ui_before/)
-- [Is it still worth learning app development in the AI era?](https://www.reddit.com/r/androiddev/comments/1vyv6px/is_it_still_worth_learning_app_development_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
