@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Access data/data](https://www.reddit.com/r/androiddev/comments/1w0nk52/access_datadata/)
-- [4 new ways Android is protecting your network connections](https://www.reddit.com/r/androiddev/comments/1w0l98d/4_new_ways_android_is_protecting_your_network/)
-- [New Keyboard coming to Play STORE!!](https://www.reddit.com/r/androiddev/comments/1w09rp0/new_keyboard_coming_to_play_store/)
-- [What is this white bar at the bottom???](https://www.reddit.com/r/androiddev/comments/1vzuw86/what_is_this_white_bar_at_the_bottom/)
-- [Android Studio Rabbit 1 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1vzuqx2/android_studio_rabbit_1_canary_3_now_available/)
-- [Has anyone been able to solve this?](https://www.reddit.com/r/androiddev/comments/1vzugqi/has_anyone_been_able_to_solve_this/)
-- [Composed 0.5.0: a compose helper lib](https://www.reddit.com/r/androiddev/comments/1vzppuv/composed_050_a_compose_helper_lib/)
-- [Over 300 deploys with ~25 min review times, now suddenly stuck in review for 30 hours](https://www.reddit.com/r/androiddev/comments/1vzbq7s/over_300_deploys_with_25_min_review_times_now/)
-- [[OFFICIAL] Elevating app quality: Reducing memory usage and improving device migration](https://www.reddit.com/r/androiddev/comments/1vz6kv6/official_elevating_app_quality_reducing_memory/)
-- [How to open a activity for an alarm app?](https://www.reddit.com/r/androiddev/comments/1vz69g8/how_to_open_a_activity_for_an_alarm_app/)
+- [Looking for a Technical Co-Founder to build an Android-first consumer product](https://www.reddit.com/r/androiddev/comments/1w1dw35/looking_for_a_technical_cofounder_to_build_an/)
+- [Question, how much would you pay for it?](https://www.reddit.com/r/androiddev/comments/1w15vgh/question_how_much_would_you_pay_for_it/)
+- [How are you getting AI agents to accurately translate designs into Android UI?](https://www.reddit.com/r/androiddev/comments/1w15sjr/how_are_you_getting_ai_agents_to_accurately/)
+- [Something about app quality requirements](https://www.reddit.com/r/androiddev/comments/1w14xxn/something_about_app_quality_requirements/)
+- [Focus. — I made a minimal Pomodoro timer &lpar;25/5&rpar; — open-source, no ads, Outfit Black](https://www.reddit.com/r/androiddev/comments/1w135c7/focus_i_made_a_minimal_pomodoro_timer_255/)
+- [Scheduled wallpaper updates losing sync after reboot/Doze — best practice for timers that must survive device restart?](https://www.reddit.com/r/androiddev/comments/1w126ch/scheduled_wallpaper_updates_losing_sync_after/)
+- [A more advanced Android Studio emulator?](https://www.reddit.com/r/androiddev/comments/1w0yc0o/a_more_advanced_android_studio_emulator/)
+- [How do you monitor Play Store Reviews?](https://www.reddit.com/r/androiddev/comments/1w0vjev/how_do_you_monitor_play_store_reviews/)
+- [Android Studio crashes a lot on Linux](https://www.reddit.com/r/androiddev/comments/1w0rick/android_studio_crashes_a_lot_on_linux/)
+- [A compose web storybook/showcase](https://www.reddit.com/r/androiddev/comments/1w0qtq2/a_compose_web_storybookshowcase/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
