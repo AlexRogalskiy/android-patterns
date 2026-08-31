@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A user keeps giving my couples app bad reviews because he wants to use it without a partner. What would you do?](https://www.reddit.com/r/androiddev/comments/1w27vxn/a_user_keeps_giving_my_couples_app_bad_reviews/)
-- [How do you know when your ads are broken?](https://www.reddit.com/r/androiddev/comments/1w27n66/how_do_you_know_when_your_ads_are_broken/)
-- [Next career step?](https://www.reddit.com/r/androiddev/comments/1w24d7v/next_career_step/)
+- [Google recommends WHPX over AEHD on Windows—and AEHD is being retired](https://www.reddit.com/r/androiddev/comments/1w30216/google_recommends_whpx_over_aehd_on_windowsand/)
+- [Guys , a bit of help](https://www.reddit.com/r/androiddev/comments/1w2yb6s/guys_a_bit_of_help/)
+- [What&#39;s the standard approach when Google Play merchant registration isn&#39;t available in your country?](https://www.reddit.com/r/androiddev/comments/1w2tmmw/whats_the_standard_approach_when_google_play/)
+- [I open sourced my interactive globe animation on GitHub - Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1w2kzvv/i_open_sourced_my_interactive_globe_animation_on/)
+- [How to test &quot;Widgets on lock screen&quot; on Android Studio?](https://www.reddit.com/r/androiddev/comments/1w2b2gt/how_to_test_widgets_on_lock_screen_on_android/)
 - [Anyone here registered for the Android Developer Console with a previously terminated Play account?](https://www.reddit.com/r/androiddev/comments/1w238or/anyone_here_registered_for_the_android_developer/)
-- [puzzle craft 2 please help maybe someone has an idea](https://www.reddit.com/r/androiddev/comments/1w20ee0/puzzle_craft_2_please_help_maybe_someone_has_an/)
 - [New ‘Unverified developer apps’ setting appeared in Developer Options on my Redmi Note 11 — is Google’s APK policy already rolling out?](https://www.reddit.com/r/androiddev/comments/1w1uos9/new_unverified_developer_apps_setting_appeared_in/)
 - [I wrote down every mistake from 3 years of building my Compose Multiplatform app. All 224 of them.](https://www.reddit.com/r/androiddev/comments/1w1ubt5/i_wrote_down_every_mistake_from_3_years_of/)
 - [Google Maps vs Mapbox for Android navigation?](https://www.reddit.com/r/androiddev/comments/1w1qgp6/google_maps_vs_mapbox_for_android_navigation/)
 - [Study partner](https://www.reddit.com/r/androiddev/comments/1w1ptqv/study_partner/)
-- [My First App Store screenshots, would love &lpar;Extremely&rpar; blunt feedback before the launch](https://www.reddit.com/r/androiddev/comments/1w1k3c9/my_first_app_store_screenshots_would_love/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
