@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a wallpaper app](https://www.reddit.com/r/androiddev/comments/1w40ks2/i_built_a_wallpaper_app/)
+- [Client-side root/tamper detection — is server-side attestation actually standard now, or is everyone still just checking Build.TAGS?](https://www.reddit.com/r/androiddev/comments/1w3nw6i/clientside_roottamper_detection_is_serverside/)
+- [My first Android App project LocationApp](https://www.reddit.com/r/androiddev/comments/1w3jbm1/my_first_android_app_project_locationapp/)
+- [APKs sideload irão deixar de funcionar ou somente se tentarmos instalar uma nova versão deles?](https://www.reddit.com/r/androiddev/comments/1w3fbs3/apks_sideload_irão_deixar_de_funcionar_ou_somente/)
+- [Pixel 11 Pro emulator in AS](https://www.reddit.com/r/androiddev/comments/1w3dnnv/pixel_11_pro_emulator_in_as/)
+- [ComposeGradients.com – Gradients for Android developers](https://www.reddit.com/r/androiddev/comments/1w3abwq/composegradientscom_gradients_for_android/)
 - [Google recommends WHPX over AEHD on Windows—and AEHD is being retired](https://www.reddit.com/r/androiddev/comments/1w30216/google_recommends_whpx_over_aehd_on_windowsand/)
-- [Guys , a bit of help](https://www.reddit.com/r/androiddev/comments/1w2yb6s/guys_a_bit_of_help/)
 - [What&#39;s the standard approach when Google Play merchant registration isn&#39;t available in your country?](https://www.reddit.com/r/androiddev/comments/1w2tmmw/whats_the_standard_approach_when_google_play/)
 - [I open sourced my interactive globe animation on GitHub - Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1w2kzvv/i_open_sourced_my_interactive_globe_animation_on/)
 - [How to test &quot;Widgets on lock screen&quot; on Android Studio?](https://www.reddit.com/r/androiddev/comments/1w2b2gt/how_to_test_widgets_on_lock_screen_on_android/)
-- [Anyone here registered for the Android Developer Console with a previously terminated Play account?](https://www.reddit.com/r/androiddev/comments/1w238or/anyone_here_registered_for_the_android_developer/)
-- [New ‘Unverified developer apps’ setting appeared in Developer Options on my Redmi Note 11 — is Google’s APK policy already rolling out?](https://www.reddit.com/r/androiddev/comments/1w1uos9/new_unverified_developer_apps_setting_appeared_in/)
-- [I wrote down every mistake from 3 years of building my Compose Multiplatform app. All 224 of them.](https://www.reddit.com/r/androiddev/comments/1w1ubt5/i_wrote_down_every_mistake_from_3_years_of/)
-- [Google Maps vs Mapbox for Android navigation?](https://www.reddit.com/r/androiddev/comments/1w1qgp6/google_maps_vs_mapbox_for_android_navigation/)
-- [Study partner](https://www.reddit.com/r/androiddev/comments/1w1ptqv/study_partner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
