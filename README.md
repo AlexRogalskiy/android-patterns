@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a wallpaper app](https://www.reddit.com/r/androiddev/comments/1w40ks2/i_built_a_wallpaper_app/)
-- [Client-side root/tamper detection — is server-side attestation actually standard now, or is everyone still just checking Build.TAGS?](https://www.reddit.com/r/androiddev/comments/1w3nw6i/clientside_roottamper_detection_is_serverside/)
-- [My first Android App project LocationApp](https://www.reddit.com/r/androiddev/comments/1w3jbm1/my_first_android_app_project_locationapp/)
-- [APKs sideload irão deixar de funcionar ou somente se tentarmos instalar uma nova versão deles?](https://www.reddit.com/r/androiddev/comments/1w3fbs3/apks_sideload_irão_deixar_de_funcionar_ou_somente/)
-- [Pixel 11 Pro emulator in AS](https://www.reddit.com/r/androiddev/comments/1w3dnnv/pixel_11_pro_emulator_in_as/)
-- [ComposeGradients.com – Gradients for Android developers](https://www.reddit.com/r/androiddev/comments/1w3abwq/composegradientscom_gradients_for_android/)
-- [Google recommends WHPX over AEHD on Windows—and AEHD is being retired](https://www.reddit.com/r/androiddev/comments/1w30216/google_recommends_whpx_over_aehd_on_windowsand/)
-- [What&#39;s the standard approach when Google Play merchant registration isn&#39;t available in your country?](https://www.reddit.com/r/androiddev/comments/1w2tmmw/whats_the_standard_approach_when_google_play/)
-- [I open sourced my interactive globe animation on GitHub - Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1w2kzvv/i_open_sourced_my_interactive_globe_animation_on/)
-- [How to test &quot;Widgets on lock screen&quot; on Android Studio?](https://www.reddit.com/r/androiddev/comments/1w2b2gt/how_to_test_widgets_on_lock_screen_on_android/)
+- [[FOR HIRE] App developer — Android, iOS, Web, macOS, Windows, TV, Watch &amp; IoT. End-to-end, first commit to millions of users.](https://www.reddit.com/r/androiddev/comments/1w50ej4/for_hire_app_developer_android_ios_web_macos/)
+- [HybridInfer - Android/Kotlin library for on-device LLM inference with automatic fallback when local wedges &lpar;Apache-2.0&rpar;](https://www.reddit.com/r/androiddev/comments/1w4x2k0/hybridinfer_androidkotlin_library_for_ondevice/)
+- [Returning to JVM + Android after years in .NET, is Java the right starting point?](https://www.reddit.com/r/androiddev/comments/1w4qdle/returning_to_jvm_android_after_years_in_net_is/)
+- [Boss wants to switch our 100K+ user native apps to Flutter for &quot;3x faster&quot; delivery — am I actually biased, or is this a bad call?](https://www.reddit.com/r/androiddev/comments/1w4ijfm/boss_wants_to_switch_our_100k_user_native_apps_to/)
+- [Android 17, keyboard close event not being registered by the app?](https://www.reddit.com/r/androiddev/comments/1w4f9t1/android_17_keyboard_close_event_not_being/)
+- [How do you decide when an Android app should enter maintenance mode?](https://www.reddit.com/r/androiddev/comments/1w4elu9/how_do_you_decide_when_an_android_app_should/)
+- [Android Studio Quail 4 now available](https://www.reddit.com/r/androiddev/comments/1w4csb8/android_studio_quail_4_now_available/)
+- [TWA &lpar;Trusted Web Activity&rpar; verification failing on a specific Android tablet - despite correct assetlinks.json](https://www.reddit.com/r/androiddev/comments/1w4aucv/twa_trusted_web_activity_verification_failing_on/)
+- [SPAM](https://www.reddit.com/r/androiddev/comments/1w49wlp/spam/)
+- [Why can only Samsung&#39;s own apps &lpar;Notes, Reminder, Weather...&rpar; get smaller-than-4x4 cover screen widgets? &lpar;Z Flip 6, One UI 8&rpar;](https://www.reddit.com/r/androiddev/comments/1w46szw/why_can_only_samsungs_own_apps_notes_reminder/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
