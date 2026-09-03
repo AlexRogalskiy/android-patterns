@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you get your android tv app approved?](https://www.reddit.com/r/androiddev/comments/1w5y3zm/how_do_you_get_your_android_tv_app_approved/)
+- [Recommend me good books for Android for 2 YoE.](https://www.reddit.com/r/androiddev/comments/1w5ragy/recommend_me_good_books_for_android_for_2_yoe/)
+- [How I built a non-clunky Android video editor after getting tired of bloated mobile apps](https://www.reddit.com/r/androiddev/comments/1w5cfsy/how_i_built_a_nonclunky_android_video_editor/)
+- [Looking for any good Google Play alternatives for publishing Android apps/games](https://www.reddit.com/r/androiddev/comments/1w5b4xd/looking_for_any_good_google_play_alternatives_for/)
+- [I got Compose Multiplatform running on Apple tvOS, published on Maven Central, one line in settings.gradle.kts](https://www.reddit.com/r/androiddev/comments/1w55ti9/i_got_compose_multiplatform_running_on_apple_tvos/)
+- [What’s one architectural decision you made that saved you a huge amount of pain later?](https://www.reddit.com/r/androiddev/comments/1w55oz6/whats_one_architectural_decision_you_made_that/)
+- [Here is my list of checkups and things I wish I know before closed beta, what can you add, and what should I know before full release?](https://www.reddit.com/r/androiddev/comments/1w55htd/here_is_my_list_of_checkups_and_things_i_wish_i/)
+- [Edusign app : attendance tracking app](https://www.reddit.com/r/androiddev/comments/1w543ta/edusign_app_attendance_tracking_app/)
+- [Question as a new developer.](https://www.reddit.com/r/androiddev/comments/1w516dy/question_as_a_new_developer/)
 - [[FOR HIRE] App developer — Android, iOS, Web, macOS, Windows, TV, Watch &amp; IoT. End-to-end, first commit to millions of users.](https://www.reddit.com/r/androiddev/comments/1w50ej4/for_hire_app_developer_android_ios_web_macos/)
-- [HybridInfer - Android/Kotlin library for on-device LLM inference with automatic fallback when local wedges &lpar;Apache-2.0&rpar;](https://www.reddit.com/r/androiddev/comments/1w4x2k0/hybridinfer_androidkotlin_library_for_ondevice/)
-- [Returning to JVM + Android after years in .NET, is Java the right starting point?](https://www.reddit.com/r/androiddev/comments/1w4qdle/returning_to_jvm_android_after_years_in_net_is/)
-- [Boss wants to switch our 100K+ user native apps to Flutter for &quot;3x faster&quot; delivery — am I actually biased, or is this a bad call?](https://www.reddit.com/r/androiddev/comments/1w4ijfm/boss_wants_to_switch_our_100k_user_native_apps_to/)
-- [Android 17, keyboard close event not being registered by the app?](https://www.reddit.com/r/androiddev/comments/1w4f9t1/android_17_keyboard_close_event_not_being/)
-- [How do you decide when an Android app should enter maintenance mode?](https://www.reddit.com/r/androiddev/comments/1w4elu9/how_do_you_decide_when_an_android_app_should/)
-- [Android Studio Quail 4 now available](https://www.reddit.com/r/androiddev/comments/1w4csb8/android_studio_quail_4_now_available/)
-- [TWA &lpar;Trusted Web Activity&rpar; verification failing on a specific Android tablet - despite correct assetlinks.json](https://www.reddit.com/r/androiddev/comments/1w4aucv/twa_trusted_web_activity_verification_failing_on/)
-- [SPAM](https://www.reddit.com/r/androiddev/comments/1w49wlp/spam/)
-- [Why can only Samsung&#39;s own apps &lpar;Notes, Reminder, Weather...&rpar; get smaller-than-4x4 cover screen widgets? &lpar;Z Flip 6, One UI 8&rpar;](https://www.reddit.com/r/androiddev/comments/1w46szw/why_can_only_samsungs_own_apps_notes_reminder/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
