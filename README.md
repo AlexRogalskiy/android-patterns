@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you get your android tv app approved?](https://www.reddit.com/r/androiddev/comments/1w5y3zm/how_do_you_get_your_android_tv_app_approved/)
-- [Recommend me good books for Android for 2 YoE.](https://www.reddit.com/r/androiddev/comments/1w5ragy/recommend_me_good_books_for_android_for_2_yoe/)
-- [How I built a non-clunky Android video editor after getting tired of bloated mobile apps](https://www.reddit.com/r/androiddev/comments/1w5cfsy/how_i_built_a_nonclunky_android_video_editor/)
-- [Looking for any good Google Play alternatives for publishing Android apps/games](https://www.reddit.com/r/androiddev/comments/1w5b4xd/looking_for_any_good_google_play_alternatives_for/)
-- [I got Compose Multiplatform running on Apple tvOS, published on Maven Central, one line in settings.gradle.kts](https://www.reddit.com/r/androiddev/comments/1w55ti9/i_got_compose_multiplatform_running_on_apple_tvos/)
-- [What’s one architectural decision you made that saved you a huge amount of pain later?](https://www.reddit.com/r/androiddev/comments/1w55oz6/whats_one_architectural_decision_you_made_that/)
-- [Here is my list of checkups and things I wish I know before closed beta, what can you add, and what should I know before full release?](https://www.reddit.com/r/androiddev/comments/1w55htd/here_is_my_list_of_checkups_and_things_i_wish_i/)
-- [Edusign app : attendance tracking app](https://www.reddit.com/r/androiddev/comments/1w543ta/edusign_app_attendance_tracking_app/)
-- [Question as a new developer.](https://www.reddit.com/r/androiddev/comments/1w516dy/question_as_a_new_developer/)
-- [[FOR HIRE] App developer — Android, iOS, Web, macOS, Windows, TV, Watch &amp; IoT. End-to-end, first commit to millions of users.](https://www.reddit.com/r/androiddev/comments/1w50ej4/for_hire_app_developer_android_ios_web_macos/)
+- [Lets build project together which eventually leads to startup](https://www.reddit.com/r/androiddev/comments/1w6szd0/lets_build_project_together_which_eventually/)
+- [I built a product tour library for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1w6nswe/i_built_a_product_tour_library_for_compose/)
+- [I built an on-device Android build/runtime environment with AIDL-separated tooling — looking for architecture feedback](https://www.reddit.com/r/androiddev/comments/1w6l5vj/i_built_an_ondevice_android_buildruntime/)
+- [If you’re deciding on registering solo or as an organization, and the 12 tester/14 day rule is part of the equation, here’s my experience.](https://www.reddit.com/r/androiddev/comments/1w6hf1u/if_youre_deciding_on_registering_solo_or_as_an/)
+- [Reaching testers during closed test session](https://www.reddit.com/r/androiddev/comments/1w6dbw6/reaching_testers_during_closed_test_session/)
+- [Android System Design Interview Prep Platform](https://www.reddit.com/r/androiddev/comments/1w6c1yn/android_system_design_interview_prep_platform/)
+- [Android + Arduino App &lpar; Update &rpar;](https://www.reddit.com/r/androiddev/comments/1w6bk6w/android_arduino_app_update/)
+- [Android Studio Rabbit 1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1w6bgcs/android_studio_rabbit_1_canary_4_now_available/)
+- [Thoughts on the current mobile market? Are you seeing a shifts?](https://www.reddit.com/r/androiddev/comments/1w6ahda/thoughts_on_the_current_mobile_market_are_you/)
+- [How do you handle app startup logic &lpar;token validation, onboarding, navigation&rpar; in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1w69b0g/how_do_you_handle_app_startup_logic_token/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
