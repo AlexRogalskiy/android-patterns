@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Lets build project together which eventually leads to startup](https://www.reddit.com/r/androiddev/comments/1w6szd0/lets_build_project_together_which_eventually/)
-- [I built a product tour library for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1w6nswe/i_built_a_product_tour_library_for_compose/)
-- [I built an on-device Android build/runtime environment with AIDL-separated tooling — looking for architecture feedback](https://www.reddit.com/r/androiddev/comments/1w6l5vj/i_built_an_ondevice_android_buildruntime/)
-- [If you’re deciding on registering solo or as an organization, and the 12 tester/14 day rule is part of the equation, here’s my experience.](https://www.reddit.com/r/androiddev/comments/1w6hf1u/if_youre_deciding_on_registering_solo_or_as_an/)
-- [Reaching testers during closed test session](https://www.reddit.com/r/androiddev/comments/1w6dbw6/reaching_testers_during_closed_test_session/)
-- [Android System Design Interview Prep Platform](https://www.reddit.com/r/androiddev/comments/1w6c1yn/android_system_design_interview_prep_platform/)
-- [Android + Arduino App &lpar; Update &rpar;](https://www.reddit.com/r/androiddev/comments/1w6bk6w/android_arduino_app_update/)
-- [Android Studio Rabbit 1 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1w6bgcs/android_studio_rabbit_1_canary_4_now_available/)
-- [Thoughts on the current mobile market? Are you seeing a shifts?](https://www.reddit.com/r/androiddev/comments/1w6ahda/thoughts_on_the_current_mobile_market_are_you/)
-- [How do you handle app startup logic &lpar;token validation, onboarding, navigation&rpar; in Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1w69b0g/how_do_you_handle_app_startup_logic_token/)
+- [Is there any way for a custom USB cable to pop up a webpage or link on a phone automatically when plugged in?](https://www.reddit.com/r/androiddev/comments/1w7qehn/is_there_any_way_for_a_custom_usb_cable_to_pop_up/)
+- [Is it hard to get approval from Google Play?](https://www.reddit.com/r/androiddev/comments/1w7hj69/is_it_hard_to_get_approval_from_google_play/)
+- [Shipping a 35-language app that works fully offline — the font problem nobody warns you about](https://www.reddit.com/r/androiddev/comments/1w7hdbb/shipping_a_35language_app_that_works_fully/)
+- [godot in winlator?](https://www.reddit.com/r/androiddev/comments/1w7cxn9/godot_in_winlator/)
+- [what checks needed to be added to ci/cd in android?](https://www.reddit.com/r/androiddev/comments/1w7bwt4/what_checks_needed_to_be_added_to_cicd_in_android/)
+- [What actually makes an Android interview difficult at the senior level?](https://www.reddit.com/r/androiddev/comments/1w7arfw/what_actually_makes_an_android_interview/)
+- [Google Play&#39;s chargeback/dispute changes cost you $28.50 on a $5 sale](https://www.reddit.com/r/androiddev/comments/1w78ag5/google_plays_chargebackdispute_changes_cost_you/)
+- [Left this comment on a PR yesterday: &quot;this coroutine is scoped to the wrong lifecycle and it&#39;ll leak&quot;](https://www.reddit.com/r/androiddev/comments/1w788ui/left_this_comment_on_a_pr_yesterday_this/)
+- [What is the current Android Platform Distribution?](https://www.reddit.com/r/androiddev/comments/1w76f56/what_is_the_current_android_platform_distribution/)
+- [Remember Timely? I made this video celebrating its amazing UI, and how to recreate in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1w76d5t/remember_timely_i_made_this_video_celebrating_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
