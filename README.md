@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Inexpensive development device?](https://www.reddit.com/r/androiddev/comments/1w8lchx/inexpensive_development_device/)
+- [Stupid question about main accounts](https://www.reddit.com/r/androiddev/comments/1w89jwp/stupid_question_about_main_accounts/)
+- [I added iOS binary size profiling to kmprofiler using Xcode link maps](https://www.reddit.com/r/androiddev/comments/1w7z55v/i_added_ios_binary_size_profiling_to_kmprofiler/)
+- [Android TV dev here. I got Compose Multiplatform running on Apple TV and wrote up how.](https://www.reddit.com/r/androiddev/comments/1w7uxjn/android_tv_dev_here_i_got_compose_multiplatform/)
 - [Is there any way for a custom USB cable to pop up a webpage or link on a phone automatically when plugged in?](https://www.reddit.com/r/androiddev/comments/1w7qehn/is_there_any_way_for_a_custom_usb_cable_to_pop_up/)
 - [Is it hard to get approval from Google Play?](https://www.reddit.com/r/androiddev/comments/1w7hj69/is_it_hard_to_get_approval_from_google_play/)
 - [Shipping a 35-language app that works fully offline — the font problem nobody warns you about](https://www.reddit.com/r/androiddev/comments/1w7hdbb/shipping_a_35language_app_that_works_fully/)
 - [godot in winlator?](https://www.reddit.com/r/androiddev/comments/1w7cxn9/godot_in_winlator/)
 - [what checks needed to be added to ci/cd in android?](https://www.reddit.com/r/androiddev/comments/1w7bwt4/what_checks_needed_to_be_added_to_cicd_in_android/)
 - [What actually makes an Android interview difficult at the senior level?](https://www.reddit.com/r/androiddev/comments/1w7arfw/what_actually_makes_an_android_interview/)
-- [Google Play&#39;s chargeback/dispute changes cost you $28.50 on a $5 sale](https://www.reddit.com/r/androiddev/comments/1w78ag5/google_plays_chargebackdispute_changes_cost_you/)
-- [Left this comment on a PR yesterday: &quot;this coroutine is scoped to the wrong lifecycle and it&#39;ll leak&quot;](https://www.reddit.com/r/androiddev/comments/1w788ui/left_this_comment_on_a_pr_yesterday_this/)
-- [What is the current Android Platform Distribution?](https://www.reddit.com/r/androiddev/comments/1w76f56/what_is_the_current_android_platform_distribution/)
-- [Remember Timely? I made this video celebrating its amazing UI, and how to recreate in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1w76d5t/remember_timely_i_made_this_video_celebrating_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
