@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My app has been released to the store](https://www.reddit.com/r/androiddev/comments/1w9hmf4/my_app_has_been_released_to_the_store/)
+- [Necesito ayuda](https://www.reddit.com/r/androiddev/comments/1w9g5lu/necesito_ayuda/)
+- [Can&#39;t Install Unsigned APK?](https://www.reddit.com/r/androiddev/comments/1w98dyo/cant_install_unsigned_apk/)
+- [I&#39;m having problems setting up CI/CD pipeline as an indie dev](https://www.reddit.com/r/androiddev/comments/1w9449g/im_having_problems_setting_up_cicd_pipeline_as_an/)
+- [What are your favorite tools for event logging?](https://www.reddit.com/r/androiddev/comments/1w91374/what_are_your_favorite_tools_for_event_logging/)
+- [Android + Arudino](https://www.reddit.com/r/androiddev/comments/1w8t7mn/android_arudino/)
+- [Individual developer rules](https://www.reddit.com/r/androiddev/comments/1w8swzv/individual_developer_rules/)
+- [Senior CS Student Considering Android Development](https://www.reddit.com/r/androiddev/comments/1w8s6hb/senior_cs_student_considering_android_development/)
+- [How are some developers ranking almost all their apps/games on the Amazon Appstore?](https://www.reddit.com/r/androiddev/comments/1w8s2qj/how_are_some_developers_ranking_almost_all_their/)
 - [Inexpensive development device?](https://www.reddit.com/r/androiddev/comments/1w8lchx/inexpensive_development_device/)
-- [Stupid question about main accounts](https://www.reddit.com/r/androiddev/comments/1w89jwp/stupid_question_about_main_accounts/)
-- [I added iOS binary size profiling to kmprofiler using Xcode link maps](https://www.reddit.com/r/androiddev/comments/1w7z55v/i_added_ios_binary_size_profiling_to_kmprofiler/)
-- [Android TV dev here. I got Compose Multiplatform running on Apple TV and wrote up how.](https://www.reddit.com/r/androiddev/comments/1w7uxjn/android_tv_dev_here_i_got_compose_multiplatform/)
-- [Is there any way for a custom USB cable to pop up a webpage or link on a phone automatically when plugged in?](https://www.reddit.com/r/androiddev/comments/1w7qehn/is_there_any_way_for_a_custom_usb_cable_to_pop_up/)
-- [Is it hard to get approval from Google Play?](https://www.reddit.com/r/androiddev/comments/1w7hj69/is_it_hard_to_get_approval_from_google_play/)
-- [Shipping a 35-language app that works fully offline — the font problem nobody warns you about](https://www.reddit.com/r/androiddev/comments/1w7hdbb/shipping_a_35language_app_that_works_fully/)
-- [godot in winlator?](https://www.reddit.com/r/androiddev/comments/1w7cxn9/godot_in_winlator/)
-- [what checks needed to be added to ci/cd in android?](https://www.reddit.com/r/androiddev/comments/1w7bwt4/what_checks_needed_to_be_added_to_cicd_in_android/)
-- [What actually makes an Android interview difficult at the senior level?](https://www.reddit.com/r/androiddev/comments/1w7arfw/what_actually_makes_an_android_interview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
