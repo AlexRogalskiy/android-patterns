@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My app has been released to the store](https://www.reddit.com/r/androiddev/comments/1w9hmf4/my_app_has_been_released_to_the_store/)
-- [Necesito ayuda](https://www.reddit.com/r/androiddev/comments/1w9g5lu/necesito_ayuda/)
+- [A web developer experimenting with Agentic AI + Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1waer08/a_web_developer_experimenting_with_agentic_ai/)
+- [Content offer - is it worth it?](https://www.reddit.com/r/androiddev/comments/1waefdl/content_offer_is_it_worth_it/)
+- [Interview for a 2 YoE in Android development, how much DSA should I know?](https://www.reddit.com/r/androiddev/comments/1waeaj3/interview_for_a_2_yoe_in_android_development_how/)
+- [Play Store Selection During Search](https://www.reddit.com/r/androiddev/comments/1wa79m1/play_store_selection_during_search/)
+- [Title: &quot;Malicious Code Found in Android Studio Gradle Files - Need Help Identifying Source and Preventing Reinfection&quot;](https://www.reddit.com/r/androiddev/comments/1wa1q0y/title_malicious_code_found_in_android_studio/)
+- [Lessons learned layering multi-track audio &amp; smooth fade-out timers using 100% Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1wa1ou3/lessons_learned_layering_multitrack_audio_smooth/)
+- [Keep &#39;no data&#39; as a real state in your launch dashboard](https://www.reddit.com/r/androiddev/comments/1w9va4s/keep_no_data_as_a_real_state_in_your_launch/)
+- [Have you tried Compose Multiplatform on tvOS. If yes then what broke?](https://www.reddit.com/r/androiddev/comments/1w9s44y/have_you_tried_compose_multiplatform_on_tvos_if/)
 - [Can&#39;t Install Unsigned APK?](https://www.reddit.com/r/androiddev/comments/1w98dyo/cant_install_unsigned_apk/)
 - [I&#39;m having problems setting up CI/CD pipeline as an indie dev](https://www.reddit.com/r/androiddev/comments/1w9449g/im_having_problems_setting_up_cicd_pipeline_as_an/)
-- [What are your favorite tools for event logging?](https://www.reddit.com/r/androiddev/comments/1w91374/what_are_your_favorite_tools_for_event_logging/)
-- [Android + Arudino](https://www.reddit.com/r/androiddev/comments/1w8t7mn/android_arudino/)
-- [Individual developer rules](https://www.reddit.com/r/androiddev/comments/1w8swzv/individual_developer_rules/)
-- [Senior CS Student Considering Android Development](https://www.reddit.com/r/androiddev/comments/1w8s6hb/senior_cs_student_considering_android_development/)
-- [How are some developers ranking almost all their apps/games on the Amazon Appstore?](https://www.reddit.com/r/androiddev/comments/1w8s2qj/how_are_some_developers_ranking_almost_all_their/)
-- [Inexpensive development device?](https://www.reddit.com/r/androiddev/comments/1w8lchx/inexpensive_development_device/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
