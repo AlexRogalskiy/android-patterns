@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Alpha 28? Jesus Christ, are we ever going to get a stable Material 3 1.5 release?](https://www.reddit.com/r/androiddev/comments/1wc66v6/alpha_28_jesus_christ_are_we_ever_going_to_get_a/)
+- [How do you accurately position an overlay around the front camera cutout on any Android phone?](https://www.reddit.com/r/androiddev/comments/1wc4ksn/how_do_you_accurately_position_an_overlay_around/)
+- [Android Developer Jobs &amp; Opportunities](https://www.reddit.com/r/androiddev/comments/1wc32l4/android_developer_jobs_opportunities/)
+- [best claude skills you found as a android dev?](https://www.reddit.com/r/androiddev/comments/1wc1ns5/best_claude_skills_you_found_as_a_android_dev/)
+- [Android developer verification - sanity check](https://www.reddit.com/r/androiddev/comments/1wbz7xo/android_developer_verification_sanity_check/)
+- [kartograph: inspect Android class dependencies and retention](https://www.reddit.com/r/androiddev/comments/1wby2r9/kartograph_inspect_android_class_dependencies_and/)
+- [Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge &lpar;ADB&rpar; Wi-Fi 2.0](https://www.reddit.com/r/androiddev/comments/1wbt9vg/introducing_fast_and_reliable_wireless_debugging/)
+- [I built an open-source “Task Manager” for Android developers to monitor apps through ADB](https://www.reddit.com/r/androiddev/comments/1wbjzyk/i_built_an_opensource_task_manager_for_android/)
+- [Automatic protection stopped being applied after 31 Aug.](https://www.reddit.com/r/androiddev/comments/1wbebun/automatic_protection_stopped_being_applied_after/)
 - [I built an Android project generator so you can start a new app without setting up the same boilerplate again and again](https://www.reddit.com/r/androiddev/comments/1wbaal7/i_built_an_android_project_generator_so_you_can/)
-- [Yay my first successful CI/CD&lpar;partialy&rpar;😖...but](https://www.reddit.com/r/androiddev/comments/1wb5wfy/yay_my_first_successful_cicdpartialybut/)
-- [f-tree: the whole family chart is one Compose Canvas, so pan and zoom re-run the draw phase and nothing else &lpar;MIT&rpar;](https://www.reddit.com/r/androiddev/comments/1wb0qwo/ftree_the_whole_family_chart_is_one_compose/)
-- [I need help searching on mounted drives on Android 9](https://www.reddit.com/r/androiddev/comments/1wauklo/i_need_help_searching_on_mounted_drives_on/)
-- [Made an app that records video when you double press volume down even with screen off. Play Store won&#39;t allow it. Now what?](https://www.reddit.com/r/androiddev/comments/1warmd6/made_an_app_that_records_video_when_you_double/)
-- [Where is the App Signing SHA‑256 fingerprint page actually linked from in Play Console?](https://www.reddit.com/r/androiddev/comments/1waqpgl/where_is_the_app_signing_sha256_fingerprint_page/)
-- [Is it safe to use AI generated images in my app?](https://www.reddit.com/r/androiddev/comments/1waqkub/is_it_safe_to_use_ai_generated_images_in_my_app/)
-- [What do you always check before publishing an Android app?](https://www.reddit.com/r/androiddev/comments/1wanufr/what_do_you_always_check_before_publishing_an/)
-- [How are you handling Google Play review management at scale? Went from 17 hrs/wk to 90 mins](https://www.reddit.com/r/androiddev/comments/1wanlyc/how_are_you_handling_google_play_review/)
-- [Now in Android KMP: full Kotlin Multiplatform and Compose Multiplatform port of Google&#39;s Now in Android sample on Android, iOS, Desktop, and Wasm.](https://www.reddit.com/r/androiddev/comments/1wanbl6/now_in_android_kmp_full_kotlin_multiplatform_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
