@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Studio Rabbit 1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1wcu0xp/android_studio_rabbit_1_canary_5_now_available/)
+- [Study Resources for Anthropic Android Assesment.](https://www.reddit.com/r/androiddev/comments/1wcqq0u/study_resources_for_anthropic_android_assesment/)
+- [Google Sign In not working in Production](https://www.reddit.com/r/androiddev/comments/1wcqlw1/google_sign_in_not_working_in_production/)
+- [Anyone interested about a new open source code editor library?](https://www.reddit.com/r/androiddev/comments/1wcn2bk/anyone_interested_about_a_new_open_source_code/)
+- [if your AR filters only get tested on new phones, you&#39;re not actually testing them](https://www.reddit.com/r/androiddev/comments/1wcm3lm/if_your_ar_filters_only_get_tested_on_new_phones/)
+- [Native is now the future of mobile at Shopify &lpar;2026&rpar;](https://www.reddit.com/r/androiddev/comments/1wcm1an/native_is_now_the_future_of_mobile_at_shopify_2026/)
+- [Kotlin 2026: Layoffs, AI, Google — Is the Golden Age Over? Jake Wharton Explains [video]](https://www.reddit.com/r/androiddev/comments/1wcljwq/kotlin_2026_layoffs_ai_google_is_the_golden_age/)
 - [Alpha 28? Jesus Christ, are we ever going to get a stable Material 3 1.5 release?](https://www.reddit.com/r/androiddev/comments/1wc66v6/alpha_28_jesus_christ_are_we_ever_going_to_get_a/)
 - [How do you accurately position an overlay around the front camera cutout on any Android phone?](https://www.reddit.com/r/androiddev/comments/1wc4ksn/how_do_you_accurately_position_an_overlay_around/)
 - [Android Developer Jobs &amp; Opportunities](https://www.reddit.com/r/androiddev/comments/1wc32l4/android_developer_jobs_opportunities/)
-- [best claude skills you found as a android dev?](https://www.reddit.com/r/androiddev/comments/1wc1ns5/best_claude_skills_you_found_as_a_android_dev/)
-- [Android developer verification - sanity check](https://www.reddit.com/r/androiddev/comments/1wbz7xo/android_developer_verification_sanity_check/)
-- [kartograph: inspect Android class dependencies and retention](https://www.reddit.com/r/androiddev/comments/1wby2r9/kartograph_inspect_android_class_dependencies_and/)
-- [Introducing Fast and Reliable Wireless Debugging with Android Debug Bridge &lpar;ADB&rpar; Wi-Fi 2.0](https://www.reddit.com/r/androiddev/comments/1wbt9vg/introducing_fast_and_reliable_wireless_debugging/)
-- [I built an open-source “Task Manager” for Android developers to monitor apps through ADB](https://www.reddit.com/r/androiddev/comments/1wbjzyk/i_built_an_opensource_task_manager_for_android/)
-- [Automatic protection stopped being applied after 31 Aug.](https://www.reddit.com/r/androiddev/comments/1wbebun/automatic_protection_stopped_being_applied_after/)
-- [I built an Android project generator so you can start a new app without setting up the same boilerplate again and again](https://www.reddit.com/r/androiddev/comments/1wbaal7/i_built_an_android_project_generator_so_you_can/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
