@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Rabbit 1 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1wcu0xp/android_studio_rabbit_1_canary_5_now_available/)
-- [Study Resources for Anthropic Android Assesment.](https://www.reddit.com/r/androiddev/comments/1wcqq0u/study_resources_for_anthropic_android_assesment/)
-- [Google Sign In not working in Production](https://www.reddit.com/r/androiddev/comments/1wcqlw1/google_sign_in_not_working_in_production/)
-- [Anyone interested about a new open source code editor library?](https://www.reddit.com/r/androiddev/comments/1wcn2bk/anyone_interested_about_a_new_open_source_code/)
-- [if your AR filters only get tested on new phones, you&#39;re not actually testing them](https://www.reddit.com/r/androiddev/comments/1wcm3lm/if_your_ar_filters_only_get_tested_on_new_phones/)
-- [Native is now the future of mobile at Shopify &lpar;2026&rpar;](https://www.reddit.com/r/androiddev/comments/1wcm1an/native_is_now_the_future_of_mobile_at_shopify_2026/)
-- [Kotlin 2026: Layoffs, AI, Google — Is the Golden Age Over? Jake Wharton Explains [video]](https://www.reddit.com/r/androiddev/comments/1wcljwq/kotlin_2026_layoffs_ai_google_is_the_golden_age/)
-- [Alpha 28? Jesus Christ, are we ever going to get a stable Material 3 1.5 release?](https://www.reddit.com/r/androiddev/comments/1wc66v6/alpha_28_jesus_christ_are_we_ever_going_to_get_a/)
-- [How do you accurately position an overlay around the front camera cutout on any Android phone?](https://www.reddit.com/r/androiddev/comments/1wc4ksn/how_do_you_accurately_position_an_overlay_around/)
-- [Android Developer Jobs &amp; Opportunities](https://www.reddit.com/r/androiddev/comments/1wc32l4/android_developer_jobs_opportunities/)
+- [Why is downloading files to scoped storage such a mess?](https://www.reddit.com/r/androiddev/comments/1we2zwe/why_is_downloading_files_to_scoped_storage_such_a/)
+- [Build review bots bouncing around?](https://www.reddit.com/r/androiddev/comments/1wdxpwz/build_review_bots_bouncing_around/)
+- [Migrating Shop app from React Native to native &lpar;2026&rpar;](https://www.reddit.com/r/androiddev/comments/1wdxpgp/migrating_shop_app_from_react_native_to_native/)
+- [Building a file reminder app: How strict is Google Play regarding MANAGE_EXTERNAL_STORAGE for file accessibility features?](https://www.reddit.com/r/androiddev/comments/1wdwss7/building_a_file_reminder_app_how_strict_is_google/)
+- [kubectl apply your mobile devices](https://www.reddit.com/r/androiddev/comments/1wdu6jy/kubectl_apply_your_mobile_devices/)
+- [The Android CLI now has an option to specify the package name.](https://www.reddit.com/r/androiddev/comments/1wdt1g3/the_android_cli_now_has_an_option_to_specify_the/)
+- [I got tired of Matrix rain being a GIF/Lottie, so I built it from scratch](https://www.reddit.com/r/androiddev/comments/1wdq8a0/i_got_tired_of_matrix_rain_being_a_giflottie_so_i/)
+- [Preloading remote data before navigation](https://www.reddit.com/r/androiddev/comments/1wdmlkg/preloading_remote_data_before_navigation/)
+- [First production submission review](https://www.reddit.com/r/androiddev/comments/1wdje0c/first_production_submission_review/)
+- [I built mpvium - GPL Android mpv player &lpar;Kotlin/Compose&rpar;, looking for contributors](https://www.reddit.com/r/androiddev/comments/1wdhenu/i_built_mpvium_gpl_android_mpv_player/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
