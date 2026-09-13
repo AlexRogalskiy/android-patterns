@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why is downloading files to scoped storage such a mess?](https://www.reddit.com/r/androiddev/comments/1we2zwe/why_is_downloading_files_to_scoped_storage_such_a/)
-- [Build review bots bouncing around?](https://www.reddit.com/r/androiddev/comments/1wdxpwz/build_review_bots_bouncing_around/)
-- [Migrating Shop app from React Native to native &lpar;2026&rpar;](https://www.reddit.com/r/androiddev/comments/1wdxpgp/migrating_shop_app_from_react_native_to_native/)
-- [Building a file reminder app: How strict is Google Play regarding MANAGE_EXTERNAL_STORAGE for file accessibility features?](https://www.reddit.com/r/androiddev/comments/1wdwss7/building_a_file_reminder_app_how_strict_is_google/)
-- [kubectl apply your mobile devices](https://www.reddit.com/r/androiddev/comments/1wdu6jy/kubectl_apply_your_mobile_devices/)
-- [The Android CLI now has an option to specify the package name.](https://www.reddit.com/r/androiddev/comments/1wdt1g3/the_android_cli_now_has_an_option_to_specify_the/)
-- [I got tired of Matrix rain being a GIF/Lottie, so I built it from scratch](https://www.reddit.com/r/androiddev/comments/1wdq8a0/i_got_tired_of_matrix_rain_being_a_giflottie_so_i/)
-- [Preloading remote data before navigation](https://www.reddit.com/r/androiddev/comments/1wdmlkg/preloading_remote_data_before_navigation/)
-- [First production submission review](https://www.reddit.com/r/androiddev/comments/1wdje0c/first_production_submission_review/)
-- [I built mpvium - GPL Android mpv player &lpar;Kotlin/Compose&rpar;, looking for contributors](https://www.reddit.com/r/androiddev/comments/1wdhenu/i_built_mpvium_gpl_android_mpv_player/)
+- [Open source rPlayAI/rplayhub-android: Your Android phone on your PC — mirror &amp; control it, run its apps in their own windows, open its files in Finder, and create Android VMs with no Android Studio. Native app, over adb.](https://www.reddit.com/r/androiddev/comments/1weve9m/open_source_rplayairplayhubandroid_your_android/)
+- [Can I run Gemma 4 E2B with vision inside an Android app in 6 hours? &lpar;Hackathon deadline&rpar;](https://www.reddit.com/r/androiddev/comments/1werrva/can_i_run_gemma_4_e2b_with_vision_inside_an/)
+- [ChatGPT + Grok Android login failure — browser works](https://www.reddit.com/r/androiddev/comments/1wenvaa/chatgpt_grok_android_login_failure_browser_works/)
+- [Identify users on sideloaded app](https://www.reddit.com/r/androiddev/comments/1wenfv7/identify_users_on_sideloaded_app/)
+- [MyRide](https://www.reddit.com/r/androiddev/comments/1wejjr9/myride/)
+- [Open-sourcing my Compose Multiplatform Music Player &lpar;Android/Windows/Linux&rpar; - Looking for architecture feedback!](https://www.reddit.com/r/androiddev/comments/1wej0gk/opensourcing_my_compose_multiplatform_music/)
+- [Measuring SO_RCVBUF + TCP_INFO on a protected TCP socket on stock Android — interesting first physical results](https://www.reddit.com/r/androiddev/comments/1wegvcd/measuring_so_rcvbuf_tcp_info_on_a_protected_tcp/)
+- [Compose Hot Reload for Android with its own interpreter, watch the whole screen change in seconds.](https://www.reddit.com/r/androiddev/comments/1wed548/compose_hot_reload_for_android_with_its_own/)
+- [[ Removed by Reddit ]](https://www.reddit.com/r/androiddev/comments/1wec1v1/removed_by_reddit/)
+- [Running Doom on Android SDV&#39;s High Availability Renderer &lpar;HAR&rpar;](https://www.reddit.com/r/androiddev/comments/1we9dt7/running_doom_on_android_sdvs_high_availability/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
