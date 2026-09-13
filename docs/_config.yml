@@ -4,7 +4,9 @@ permalink: pretty
 
 baseurl: https://github.com/AlexRogalskiy/android-patterns
 title: Android Design Patterns
-description: Explores different architectural concepts and design principles for Android applications
+description:
+  Explores different architectural concepts and design principles for Android
+  applications
 
 author: Alexander Rogalskiy
 
