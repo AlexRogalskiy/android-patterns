@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building Apps and then waiting for users to downloads needs patience](https://www.reddit.com/r/androiddev/comments/1wfuen0/building_apps_and_then_waiting_for_users_to/)
+- [Open-sourcing an Android &amp; Android TV streaming client built with Media3 ExoPlayer and Leanback UI](https://www.reddit.com/r/androiddev/comments/1wf9gf1/opensourcing_an_android_android_tv_streaming/)
+- [So that&#39;s how they get to publish crap without verification](https://www.reddit.com/r/androiddev/comments/1wf5dpd/so_thats_how_they_get_to_publish_crap_without/)
+- [Why can&#39;t users leave reviews on my new Android app?](https://www.reddit.com/r/androiddev/comments/1wf2bfo/why_cant_users_leave_reviews_on_my_new_android_app/)
+- [What do you think about my experience section?](https://www.reddit.com/r/androiddev/comments/1weyz5g/what_do_you_think_about_my_experience_section/)
 - [Open source rPlayAI/rplayhub-android: Your Android phone on your PC — mirror &amp; control it, run its apps in their own windows, open its files in Finder, and create Android VMs with no Android Studio. Native app, over adb.](https://www.reddit.com/r/androiddev/comments/1weve9m/open_source_rplayairplayhubandroid_your_android/)
 - [Can I run Gemma 4 E2B with vision inside an Android app in 6 hours? &lpar;Hackathon deadline&rpar;](https://www.reddit.com/r/androiddev/comments/1werrva/can_i_run_gemma_4_e2b_with_vision_inside_an/)
-- [ChatGPT + Grok Android login failure — browser works](https://www.reddit.com/r/androiddev/comments/1wenvaa/chatgpt_grok_android_login_failure_browser_works/)
 - [Identify users on sideloaded app](https://www.reddit.com/r/androiddev/comments/1wenfv7/identify_users_on_sideloaded_app/)
-- [MyRide](https://www.reddit.com/r/androiddev/comments/1wejjr9/myride/)
 - [Open-sourcing my Compose Multiplatform Music Player &lpar;Android/Windows/Linux&rpar; - Looking for architecture feedback!](https://www.reddit.com/r/androiddev/comments/1wej0gk/opensourcing_my_compose_multiplatform_music/)
-- [Measuring SO_RCVBUF + TCP_INFO on a protected TCP socket on stock Android — interesting first physical results](https://www.reddit.com/r/androiddev/comments/1wegvcd/measuring_so_rcvbuf_tcp_info_on_a_protected_tcp/)
 - [Compose Hot Reload for Android with its own interpreter, watch the whole screen change in seconds.](https://www.reddit.com/r/androiddev/comments/1wed548/compose_hot_reload_for_android_with_its_own/)
-- [[ Removed by Reddit ]](https://www.reddit.com/r/androiddev/comments/1wec1v1/removed_by_reddit/)
-- [Running Doom on Android SDV&#39;s High Availability Renderer &lpar;HAR&rpar;](https://www.reddit.com/r/androiddev/comments/1we9dt7/running_doom_on_android_sdvs_high_availability/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
