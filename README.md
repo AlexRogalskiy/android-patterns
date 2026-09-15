@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building Apps and then waiting for users to downloads needs patience](https://www.reddit.com/r/androiddev/comments/1wfuen0/building_apps_and_then_waiting_for_users_to/)
-- [Open-sourcing an Android &amp; Android TV streaming client built with Media3 ExoPlayer and Leanback UI](https://www.reddit.com/r/androiddev/comments/1wf9gf1/opensourcing_an_android_android_tv_streaming/)
-- [So that&#39;s how they get to publish crap without verification](https://www.reddit.com/r/androiddev/comments/1wf5dpd/so_thats_how_they_get_to_publish_crap_without/)
-- [Why can&#39;t users leave reviews on my new Android app?](https://www.reddit.com/r/androiddev/comments/1wf2bfo/why_cant_users_leave_reviews_on_my_new_android_app/)
-- [What do you think about my experience section?](https://www.reddit.com/r/androiddev/comments/1weyz5g/what_do_you_think_about_my_experience_section/)
-- [Open source rPlayAI/rplayhub-android: Your Android phone on your PC — mirror &amp; control it, run its apps in their own windows, open its files in Finder, and create Android VMs with no Android Studio. Native app, over adb.](https://www.reddit.com/r/androiddev/comments/1weve9m/open_source_rplayairplayhubandroid_your_android/)
-- [Can I run Gemma 4 E2B with vision inside an Android app in 6 hours? &lpar;Hackathon deadline&rpar;](https://www.reddit.com/r/androiddev/comments/1werrva/can_i_run_gemma_4_e2b_with_vision_inside_an/)
-- [Identify users on sideloaded app](https://www.reddit.com/r/androiddev/comments/1wenfv7/identify_users_on_sideloaded_app/)
-- [Open-sourcing my Compose Multiplatform Music Player &lpar;Android/Windows/Linux&rpar; - Looking for architecture feedback!](https://www.reddit.com/r/androiddev/comments/1wej0gk/opensourcing_my_compose_multiplatform_music/)
-- [Compose Hot Reload for Android with its own interpreter, watch the whole screen change in seconds.](https://www.reddit.com/r/androiddev/comments/1wed548/compose_hot_reload_for_android_with_its_own/)
+- [Zoom SDK integration has destroyed my app bundle size](https://www.reddit.com/r/androiddev/comments/1wgqi8f/zoom_sdk_integration_has_destroyed_my_app_bundle/)
+- [Looking for Guidance on Senior/Staff Android Engineering Interviews](https://www.reddit.com/r/androiddev/comments/1wgcpqa/looking_for_guidance_on_seniorstaff_android/)
+- [The Great Unwind: When Frameworks Stop Making Sense](https://www.reddit.com/r/androiddev/comments/1wga8xa/the_great_unwind_when_frameworks_stop_making_sense/)
+- [What app store ranking tracker and ASO app are solo Android devs actually paying for?](https://www.reddit.com/r/androiddev/comments/1wg23wf/what_app_store_ranking_tracker_and_aso_app_are/)
+- [Shipping features that &lpar;ambiguously&rpar; breaks google play policy? Any way to do this with explicit user disclosure/ opt-in?](https://www.reddit.com/r/androiddev/comments/1wg1j6j/shipping_features_that_ambiguously_breaks_google/)
+- [KISA/XTEN location information request from South Korea](https://www.reddit.com/r/androiddev/comments/1wg0rb1/kisaxten_location_information_request_from_south/)
+- [I built AlertSpot — an open-source, privacy-first location alarm for commuters so you never miss your stop](https://www.reddit.com/r/androiddev/comments/1wfziab/i_built_alertspot_an_opensource_privacyfirst/)
+- [Automatic protection and Play Integrity API, and pros and cons of opting in...](https://www.reddit.com/r/androiddev/comments/1wfxket/automatic_protection_and_play_integrity_api_and/)
+- [I made TinyApk from full x64/arm64 assembly language](https://www.reddit.com/r/androiddev/comments/1wfv2dm/i_made_tinyapk_from_full_x64arm64_assembly/)
+- [One Android app. Why so many processes?](https://www.reddit.com/r/androiddev/comments/1wfv2cz/one_android_app_why_so_many_processes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
