@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I spent my weekends building a library to fix flaky Jetpack Compose tests. It captures screenshots on failure and dumps semantics trees automatically. Looking for hobbyist feedback!](https://www.reddit.com/r/androiddev/comments/1whidr5/i_spent_my_weekends_building_a_library_to_fix/)
+- [Help me choose a main icon approach/style for my app](https://www.reddit.com/r/androiddev/comments/1wh6q19/help_me_choose_a_main_icon_approachstyle_for_my/)
+- [Which app icon looks better for my parking app?](https://www.reddit.com/r/androiddev/comments/1wh5sqq/which_app_icon_looks_better_for_my_parking_app/)
+- [I built my Android app about 2 months ago, but I&#39;m stuck on the hardest part: distribution](https://www.reddit.com/r/androiddev/comments/1wh3k1t/i_built_my_android_app_about_2_months_ago_but_im/)
+- [Made a new Compose Multiplatform library for MDI icons](https://www.reddit.com/r/androiddev/comments/1wgyccf/made_a_new_compose_multiplatform_library_for_mdi/)
 - [Zoom SDK integration has destroyed my app bundle size](https://www.reddit.com/r/androiddev/comments/1wgqi8f/zoom_sdk_integration_has_destroyed_my_app_bundle/)
 - [Looking for Guidance on Senior/Staff Android Engineering Interviews](https://www.reddit.com/r/androiddev/comments/1wgcpqa/looking_for_guidance_on_seniorstaff_android/)
 - [The Great Unwind: When Frameworks Stop Making Sense](https://www.reddit.com/r/androiddev/comments/1wga8xa/the_great_unwind_when_frameworks_stop_making_sense/)
 - [What app store ranking tracker and ASO app are solo Android devs actually paying for?](https://www.reddit.com/r/androiddev/comments/1wg23wf/what_app_store_ranking_tracker_and_aso_app_are/)
 - [Shipping features that &lpar;ambiguously&rpar; breaks google play policy? Any way to do this with explicit user disclosure/ opt-in?](https://www.reddit.com/r/androiddev/comments/1wg1j6j/shipping_features_that_ambiguously_breaks_google/)
-- [KISA/XTEN location information request from South Korea](https://www.reddit.com/r/androiddev/comments/1wg0rb1/kisaxten_location_information_request_from_south/)
-- [I built AlertSpot — an open-source, privacy-first location alarm for commuters so you never miss your stop](https://www.reddit.com/r/androiddev/comments/1wfziab/i_built_alertspot_an_opensource_privacyfirst/)
-- [Automatic protection and Play Integrity API, and pros and cons of opting in...](https://www.reddit.com/r/androiddev/comments/1wfxket/automatic_protection_and_play_integrity_api_and/)
-- [I made TinyApk from full x64/arm64 assembly language](https://www.reddit.com/r/androiddev/comments/1wfv2dm/i_made_tinyapk_from_full_x64arm64_assembly/)
-- [One Android app. Why so many processes?](https://www.reddit.com/r/androiddev/comments/1wfv2cz/one_android_app_why_so_many_processes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
