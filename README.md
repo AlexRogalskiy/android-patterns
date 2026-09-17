@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I released ComposeA11yScanner 3.0.0 — a runtime accessibility scanner for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1wik6bw/i_released_composea11yscanner_300_a_runtime/)
+- [Is there any open source alternative to Instabug/Clarity?](https://www.reddit.com/r/androiddev/comments/1wieudm/is_there_any_open_source_alternative_to/)
+- [I built Mugshot, a screenshot testing library where each test is one annotation on a Compose preview you already have](https://www.reddit.com/r/androiddev/comments/1wi56w0/i_built_mugshot_a_screenshot_testing_library/)
+- [Create stunning screenshots and recordings with open source rPlayHub](https://www.reddit.com/r/androiddev/comments/1wi20uh/create_stunning_screenshots_and_recordings_with/)
+- [Android Studio Rabbit 1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1whzmfk/android_studio_rabbit_1_rc_1_now_available/)
+- [Stopwatch persistence offline](https://www.reddit.com/r/androiddev/comments/1whwai0/stopwatch_persistence_offline/)
+- [Tired of Android Emulator eating 8 GB of RAM? avdslim drops it to ~1.5 GB with 1.5s boots &lpar;Zero broken Firebase Auth / FCM&rpar;](https://www.reddit.com/r/androiddev/comments/1whu9a8/tired_of_android_emulator_eating_8_gb_of_ram/)
 - [I spent my weekends building a library to fix flaky Jetpack Compose tests. It captures screenshots on failure and dumps semantics trees automatically. Looking for hobbyist feedback!](https://www.reddit.com/r/androiddev/comments/1whidr5/i_spent_my_weekends_building_a_library_to_fix/)
 - [Help me choose a main icon approach/style for my app](https://www.reddit.com/r/androiddev/comments/1wh6q19/help_me_choose_a_main_icon_approachstyle_for_my/)
 - [Which app icon looks better for my parking app?](https://www.reddit.com/r/androiddev/comments/1wh5sqq/which_app_icon_looks_better_for_my_parking_app/)
-- [I built my Android app about 2 months ago, but I&#39;m stuck on the hardest part: distribution](https://www.reddit.com/r/androiddev/comments/1wh3k1t/i_built_my_android_app_about_2_months_ago_but_im/)
-- [Made a new Compose Multiplatform library for MDI icons](https://www.reddit.com/r/androiddev/comments/1wgyccf/made_a_new_compose_multiplatform_library_for_mdi/)
-- [Zoom SDK integration has destroyed my app bundle size](https://www.reddit.com/r/androiddev/comments/1wgqi8f/zoom_sdk_integration_has_destroyed_my_app_bundle/)
-- [Looking for Guidance on Senior/Staff Android Engineering Interviews](https://www.reddit.com/r/androiddev/comments/1wgcpqa/looking_for_guidance_on_seniorstaff_android/)
-- [The Great Unwind: When Frameworks Stop Making Sense](https://www.reddit.com/r/androiddev/comments/1wga8xa/the_great_unwind_when_frameworks_stop_making_sense/)
-- [What app store ranking tracker and ASO app are solo Android devs actually paying for?](https://www.reddit.com/r/androiddev/comments/1wg23wf/what_app_store_ranking_tracker_and_aso_app_are/)
-- [Shipping features that &lpar;ambiguously&rpar; breaks google play policy? Any way to do this with explicit user disclosure/ opt-in?](https://www.reddit.com/r/androiddev/comments/1wg1j6j/shipping_features_that_ambiguously_breaks_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
