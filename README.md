@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Direct push to play console testing Track!!](https://www.reddit.com/r/androiddev/comments/1wj4zpr/direct_push_to_play_console_testing_track/)
+- [Android Studio Rabbit 2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1wj19qh/android_studio_rabbit_2_canary_1_now_available/)
+- [What do you guys choose? Android Canvas or SVGs? And why?](https://www.reddit.com/r/androiddev/comments/1wizh4n/what_do_you_guys_choose_android_canvas_or_svgs/)
+- [Android Bench 2.0: Pushing the frontier with challenging long-horizon tasks](https://www.reddit.com/r/androiddev/comments/1wiytpt/android_bench_20_pushing_the_frontier_with/)
+- [Form State in view model?](https://www.reddit.com/r/androiddev/comments/1wir9jm/form_state_in_view_model/)
 - [I released ComposeA11yScanner 3.0.0 — a runtime accessibility scanner for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1wik6bw/i_released_composea11yscanner_300_a_runtime/)
 - [Is there any open source alternative to Instabug/Clarity?](https://www.reddit.com/r/androiddev/comments/1wieudm/is_there_any_open_source_alternative_to/)
 - [I built Mugshot, a screenshot testing library where each test is one annotation on a Compose preview you already have](https://www.reddit.com/r/androiddev/comments/1wi56w0/i_built_mugshot_a_screenshot_testing_library/)
 - [Create stunning screenshots and recordings with open source rPlayHub](https://www.reddit.com/r/androiddev/comments/1wi20uh/create_stunning_screenshots_and_recordings_with/)
 - [Android Studio Rabbit 1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1whzmfk/android_studio_rabbit_1_rc_1_now_available/)
-- [Stopwatch persistence offline](https://www.reddit.com/r/androiddev/comments/1whwai0/stopwatch_persistence_offline/)
-- [Tired of Android Emulator eating 8 GB of RAM? avdslim drops it to ~1.5 GB with 1.5s boots &lpar;Zero broken Firebase Auth / FCM&rpar;](https://www.reddit.com/r/androiddev/comments/1whu9a8/tired_of_android_emulator_eating_8_gb_of_ram/)
-- [I spent my weekends building a library to fix flaky Jetpack Compose tests. It captures screenshots on failure and dumps semantics trees automatically. Looking for hobbyist feedback!](https://www.reddit.com/r/androiddev/comments/1whidr5/i_spent_my_weekends_building_a_library_to_fix/)
-- [Help me choose a main icon approach/style for my app](https://www.reddit.com/r/androiddev/comments/1wh6q19/help_me_choose_a_main_icon_approachstyle_for_my/)
-- [Which app icon looks better for my parking app?](https://www.reddit.com/r/androiddev/comments/1wh5sqq/which_app_icon_looks_better_for_my_parking_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
