@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Direct push to play console testing Track!!](https://www.reddit.com/r/androiddev/comments/1wj4zpr/direct_push_to_play_console_testing_track/)
-- [Android Studio Rabbit 2 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1wj19qh/android_studio_rabbit_2_canary_1_now_available/)
-- [What do you guys choose? Android Canvas or SVGs? And why?](https://www.reddit.com/r/androiddev/comments/1wizh4n/what_do_you_guys_choose_android_canvas_or_svgs/)
-- [Android Bench 2.0: Pushing the frontier with challenging long-horizon tasks](https://www.reddit.com/r/androiddev/comments/1wiytpt/android_bench_20_pushing_the_frontier_with/)
-- [Form State in view model?](https://www.reddit.com/r/androiddev/comments/1wir9jm/form_state_in_view_model/)
-- [I released ComposeA11yScanner 3.0.0 — a runtime accessibility scanner for Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1wik6bw/i_released_composea11yscanner_300_a_runtime/)
-- [Is there any open source alternative to Instabug/Clarity?](https://www.reddit.com/r/androiddev/comments/1wieudm/is_there_any_open_source_alternative_to/)
-- [I built Mugshot, a screenshot testing library where each test is one annotation on a Compose preview you already have](https://www.reddit.com/r/androiddev/comments/1wi56w0/i_built_mugshot_a_screenshot_testing_library/)
-- [Create stunning screenshots and recordings with open source rPlayHub](https://www.reddit.com/r/androiddev/comments/1wi20uh/create_stunning_screenshots_and_recordings_with/)
-- [Android Studio Rabbit 1 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1whzmfk/android_studio_rabbit_1_rc_1_now_available/)
+- [How to install SSL certificates on OPPO?](https://www.reddit.com/r/androiddev/comments/1wkczh8/how_to_install_ssl_certificates_on_oppo/)
+- [Love using UI-Automation-Engine library for my Jetpack Compsoe UI tests](https://www.reddit.com/r/androiddev/comments/1wk89q4/love_using_uiautomationengine_library_for_my/)
+- [Built an app using Jepack compose that runs ADB/Fastboot/Scrcpy phone-to-phone, no PC needed](https://www.reddit.com/r/androiddev/comments/1wk7izc/built_an_app_using_jepack_compose_that_runs/)
+- [Android Studio Quail 4 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1wjsijm/android_studio_quail_4_patch_1_now_available/)
+- [How does Shopify achieve this?](https://www.reddit.com/r/androiddev/comments/1wjps6y/how_does_shopify_achieve_this/)
+- [Android Studio Quail 4 - Merge windows not working on Mac](https://www.reddit.com/r/androiddev/comments/1wjppsu/android_studio_quail_4_merge_windows_not_working/)
+- [My first Android app is currently in production review… and I’ve already built a much bigger update 😕 What would you do?](https://www.reddit.com/r/androiddev/comments/1wjo70o/my_first_android_app_is_currently_in_production/)
+- [Drawer | Compose Unstyled](https://www.reddit.com/r/androiddev/comments/1wjn81z/drawer_compose_unstyled/)
+- [Does Internal Testing AAB Affect Production Review?](https://www.reddit.com/r/androiddev/comments/1wjldxf/does_internal_testing_aab_affect_production_review/)
+- [do you use AI agents to develop android applications? how do you deal with permission requests?](https://www.reddit.com/r/androiddev/comments/1wjjm6b/do_you_use_ai_agents_to_develop_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
