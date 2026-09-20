@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to install SSL certificates on OPPO?](https://www.reddit.com/r/androiddev/comments/1wkczh8/how_to_install_ssl_certificates_on_oppo/)
+- [Google Play Store app review taking much longer than usual lately?](https://www.reddit.com/r/androiddev/comments/1wl84jg/google_play_store_app_review_taking_much_longer/)
+- [I got tired of needing a PC to inspect modded APKs, so I built APK Scope](https://www.reddit.com/r/androiddev/comments/1wl2bu8/i_got_tired_of_needing_a_pc_to_inspect_modded/)
+- [Chasm 2.0 - Kotlin Multiplatform Wasm runtime](https://www.reddit.com/r/androiddev/comments/1wkz9ld/chasm_20_kotlin_multiplatform_wasm_runtime/)
+- [🦞 Crayfish: Compose image cropper for Android.](https://www.reddit.com/r/androiddev/comments/1wkkmei/crayfish_compose_image_cropper_for_android/)
+- [New Android developer looking for info on first app approval process](https://www.reddit.com/r/androiddev/comments/1wkk77f/new_android_developer_looking_for_info_on_first/)
+- [&quot;No credential available&quot; Error, I decided to give up for now](https://www.reddit.com/r/androiddev/comments/1wkjl0g/no_credential_available_error_i_decided_to_give/)
+- [THIS IS BIG!!!](https://www.reddit.com/r/androiddev/comments/1wkdlnc/this_is_big/)
 - [Love using UI-Automation-Engine library for my Jetpack Compsoe UI tests](https://www.reddit.com/r/androiddev/comments/1wk89q4/love_using_uiautomationengine_library_for_my/)
 - [Built an app using Jepack compose that runs ADB/Fastboot/Scrcpy phone-to-phone, no PC needed](https://www.reddit.com/r/androiddev/comments/1wk7izc/built_an_app_using_jepack_compose_that_runs/)
 - [Android Studio Quail 4 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1wjsijm/android_studio_quail_4_patch_1_now_available/)
-- [How does Shopify achieve this?](https://www.reddit.com/r/androiddev/comments/1wjps6y/how_does_shopify_achieve_this/)
-- [Android Studio Quail 4 - Merge windows not working on Mac](https://www.reddit.com/r/androiddev/comments/1wjppsu/android_studio_quail_4_merge_windows_not_working/)
-- [My first Android app is currently in production review… and I’ve already built a much bigger update 😕 What would you do?](https://www.reddit.com/r/androiddev/comments/1wjo70o/my_first_android_app_is_currently_in_production/)
-- [Drawer | Compose Unstyled](https://www.reddit.com/r/androiddev/comments/1wjn81z/drawer_compose_unstyled/)
-- [Does Internal Testing AAB Affect Production Review?](https://www.reddit.com/r/androiddev/comments/1wjldxf/does_internal_testing_aab_affect_production_review/)
-- [do you use AI agents to develop android applications? how do you deal with permission requests?](https://www.reddit.com/r/androiddev/comments/1wjjm6b/do_you_use_ai_agents_to_develop_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
