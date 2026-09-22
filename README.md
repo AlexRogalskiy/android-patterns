@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [read_call_log permission not in App - shows under policies - preventing submission](https://www.reddit.com/r/androiddev/comments/1wmvnti/read_call_log_permission_not_in_app_shows_under/)
+- [Android observability tools recommendations](https://www.reddit.com/r/androiddev/comments/1wmnije/android_observability_tools_recommendations/)
+- [macOS 27 Golden Gate – how&#39;s Android dev on it?](https://www.reddit.com/r/androiddev/comments/1wmnaoa/macos_27_golden_gate_hows_android_dev_on_it/)
+- [[Compose Multiplatform] Visual font size mismatch when overlaying BasicTextField on a PDF &lpar;iText7&rpar;](https://www.reddit.com/r/androiddev/comments/1wm9gr8/compose_multiplatform_visual_font_size_mismatch/)
+- [What happens to days that dont have enough 12 testers](https://www.reddit.com/r/androiddev/comments/1wm5rf4/what_happens_to_days_that_dont_have_enough_12/)
+- [Build button disappears](https://www.reddit.com/r/androiddev/comments/1wm4csi/build_button_disappears/)
 - [No Build Available issue in closed testing](https://www.reddit.com/r/androiddev/comments/1wm3f9m/no_build_available_issue_in_closed_testing/)
 - [Is Play Console data completely broken for anyone else right now? &lpar;Cumulative stats dropping off a cliff &amp; Cloud Storage frozen&rpar;](https://www.reddit.com/r/androiddev/comments/1wlrm8t/is_play_console_data_completely_broken_for_anyone/)
 - [Should we move to Backend or DevOps for better long-term stability?](https://www.reddit.com/r/androiddev/comments/1wlktsu/should_we_move_to_backend_or_devops_for_better/)
 - [awwwards.com but for android apps UI?](https://www.reddit.com/r/androiddev/comments/1wljvxy/awwwardscom_but_for_android_apps_ui/)
-- [Google Play Store app review taking much longer than usual lately?](https://www.reddit.com/r/androiddev/comments/1wl84jg/google_play_store_app_review_taking_much_longer/)
-- [I got tired of needing a PC to inspect modded APKs, so I built APK Scope](https://www.reddit.com/r/androiddev/comments/1wl2bu8/i_got_tired_of_needing_a_pc_to_inspect_modded/)
-- [Chasm 2.0 - Kotlin Multiplatform Wasm runtime](https://www.reddit.com/r/androiddev/comments/1wkz9ld/chasm_20_kotlin_multiplatform_wasm_runtime/)
-- [🦞 Crayfish: Compose image cropper for Android.](https://www.reddit.com/r/androiddev/comments/1wkkmei/crayfish_compose_image_cropper_for_android/)
-- [New Android developer looking for info on first app approval process](https://www.reddit.com/r/androiddev/comments/1wkk77f/new_android_developer_looking_for_info_on_first/)
-- [&quot;No credential available&quot; Error, I decided to give up for now](https://www.reddit.com/r/androiddev/comments/1wkjl0g/no_credential_available_error_i_decided_to_give/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
