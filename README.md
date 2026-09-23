@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android Developers Backstage host Chet Haase says &quot;Yes, Android&quot;](https://www.reddit.com/r/androiddev/comments/1wnwp1m/android_developers_backstage_host_chet_haase_says/)
+- [2026 CS Graduate &lpar;Android/Kotlin&rpar; - What skill should I invest in to maximize internship/job opportunities?](https://www.reddit.com/r/androiddev/comments/1wnw8d8/2026_cs_graduate_androidkotlin_what_skill_should/)
+- [How do I initialise webSocket at the right lifecycle state?](https://www.reddit.com/r/androiddev/comments/1wnlcfg/how_do_i_initialise_websocket_at_the_right/)
+- [Fixed the annoying &quot;There was an error uploading the Android App Bundle&quot; in Play Console](https://www.reddit.com/r/androiddev/comments/1wnl2ao/fixed_the_annoying_there_was_an_error_uploading/)
+- [Is it worth doing x64 builds for phones?](https://www.reddit.com/r/androiddev/comments/1wni6dc/is_it_worth_doing_x64_builds_for_phones/)
+- [Android Developers Blog: Land your apps on Googlebook with adaptive development](https://www.reddit.com/r/androiddev/comments/1wnh8fy/android_developers_blog_land_your_apps_on/)
+- [I’m testing a tool that analyzes Play Store reviews — drop your app below](https://www.reddit.com/r/androiddev/comments/1wngvb0/im_testing_a_tool_that_analyzes_play_store/)
+- [How are you handling feature-discovery overlays in Android apps?](https://www.reddit.com/r/androiddev/comments/1wn79r6/how_are_you_handling_featurediscovery_overlays_in/)
+- [Has anyone successfully used BATTERY_PROPERTY_ENERGY_COUNTER on recent Android/Pixel devices?](https://www.reddit.com/r/androiddev/comments/1wn3woa/has_anyone_successfully_used_battery_property/)
 - [read_call_log permission not in App - shows under policies - preventing submission](https://www.reddit.com/r/androiddev/comments/1wmvnti/read_call_log_permission_not_in_app_shows_under/)
-- [Android observability tools recommendations](https://www.reddit.com/r/androiddev/comments/1wmnije/android_observability_tools_recommendations/)
-- [macOS 27 Golden Gate – how&#39;s Android dev on it?](https://www.reddit.com/r/androiddev/comments/1wmnaoa/macos_27_golden_gate_hows_android_dev_on_it/)
-- [[Compose Multiplatform] Visual font size mismatch when overlaying BasicTextField on a PDF &lpar;iText7&rpar;](https://www.reddit.com/r/androiddev/comments/1wm9gr8/compose_multiplatform_visual_font_size_mismatch/)
-- [What happens to days that dont have enough 12 testers](https://www.reddit.com/r/androiddev/comments/1wm5rf4/what_happens_to_days_that_dont_have_enough_12/)
-- [Build button disappears](https://www.reddit.com/r/androiddev/comments/1wm4csi/build_button_disappears/)
-- [No Build Available issue in closed testing](https://www.reddit.com/r/androiddev/comments/1wm3f9m/no_build_available_issue_in_closed_testing/)
-- [Is Play Console data completely broken for anyone else right now? &lpar;Cumulative stats dropping off a cliff &amp; Cloud Storage frozen&rpar;](https://www.reddit.com/r/androiddev/comments/1wlrm8t/is_play_console_data_completely_broken_for_anyone/)
-- [Should we move to Backend or DevOps for better long-term stability?](https://www.reddit.com/r/androiddev/comments/1wlktsu/should_we_move_to_backend_or_devops_for_better/)
-- [awwwards.com but for android apps UI?](https://www.reddit.com/r/androiddev/comments/1wljvxy/awwwardscom_but_for_android_apps_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
