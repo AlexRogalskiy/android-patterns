@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about 14 day track](https://www.reddit.com/r/androiddev/comments/1wohqpj/question_about_14_day_track/)
+- [How are teams approaching Android architecture with Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1woc2ke/how_are_teams_approaching_android_architecture/)
+- [Fixing coroutine stack traces with Decoroutinator](https://www.reddit.com/r/androiddev/comments/1woap37/fixing_coroutine_stack_traces_with_decoroutinator/)
+- [I need help with my app in Google Play closed testing](https://www.reddit.com/r/androiddev/comments/1wo80o0/i_need_help_with_my_app_in_google_play_closed/)
+- [How are teams approaching Android architecture with Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1wo4l5q/how_are_teams_approaching_android_architecture/)
+- [Solution for Expo update system](https://www.reddit.com/r/androiddev/comments/1wo3z25/solution_for_expo_update_system/)
+- [Using AI to build software is hard work too — but you still get dismissed as a “vibe coder”](https://www.reddit.com/r/androiddev/comments/1wo05li/using_ai_to_build_software_is_hard_work_too_but/)
+- [Android 17 enables certificate transparency, and breaks custom CAs](https://www.reddit.com/r/androiddev/comments/1wo04qn/android_17_enables_certificate_transparency_and/)
+- [Google Play Store looks like it&#39;s working on a special home for your vibe-coded apps built using AI Studio](https://www.reddit.com/r/androiddev/comments/1wnzqki/google_play_store_looks_like_its_working_on_a/)
 - [Android Developers Backstage host Chet Haase says &quot;Yes, Android&quot;](https://www.reddit.com/r/androiddev/comments/1wnwp1m/android_developers_backstage_host_chet_haase_says/)
-- [2026 CS Graduate &lpar;Android/Kotlin&rpar; - What skill should I invest in to maximize internship/job opportunities?](https://www.reddit.com/r/androiddev/comments/1wnw8d8/2026_cs_graduate_androidkotlin_what_skill_should/)
-- [How do I initialise webSocket at the right lifecycle state?](https://www.reddit.com/r/androiddev/comments/1wnlcfg/how_do_i_initialise_websocket_at_the_right/)
-- [Fixed the annoying &quot;There was an error uploading the Android App Bundle&quot; in Play Console](https://www.reddit.com/r/androiddev/comments/1wnl2ao/fixed_the_annoying_there_was_an_error_uploading/)
-- [Is it worth doing x64 builds for phones?](https://www.reddit.com/r/androiddev/comments/1wni6dc/is_it_worth_doing_x64_builds_for_phones/)
-- [Android Developers Blog: Land your apps on Googlebook with adaptive development](https://www.reddit.com/r/androiddev/comments/1wnh8fy/android_developers_blog_land_your_apps_on/)
-- [I’m testing a tool that analyzes Play Store reviews — drop your app below](https://www.reddit.com/r/androiddev/comments/1wngvb0/im_testing_a_tool_that_analyzes_play_store/)
-- [How are you handling feature-discovery overlays in Android apps?](https://www.reddit.com/r/androiddev/comments/1wn79r6/how_are_you_handling_featurediscovery_overlays_in/)
-- [Has anyone successfully used BATTERY_PROPERTY_ENERGY_COUNTER on recent Android/Pixel devices?](https://www.reddit.com/r/androiddev/comments/1wn3woa/has_anyone_successfully_used_battery_property/)
-- [read_call_log permission not in App - shows under policies - preventing submission](https://www.reddit.com/r/androiddev/comments/1wmvnti/read_call_log_permission_not_in_app_shows_under/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
