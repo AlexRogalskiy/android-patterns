@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question about 14 day track](https://www.reddit.com/r/androiddev/comments/1wohqpj/question_about_14_day_track/)
-- [How are teams approaching Android architecture with Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1woc2ke/how_are_teams_approaching_android_architecture/)
-- [Fixing coroutine stack traces with Decoroutinator](https://www.reddit.com/r/androiddev/comments/1woap37/fixing_coroutine_stack_traces_with_decoroutinator/)
-- [I need help with my app in Google Play closed testing](https://www.reddit.com/r/androiddev/comments/1wo80o0/i_need_help_with_my_app_in_google_play_closed/)
-- [How are teams approaching Android architecture with Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1wo4l5q/how_are_teams_approaching_android_architecture/)
-- [Solution for Expo update system](https://www.reddit.com/r/androiddev/comments/1wo3z25/solution_for_expo_update_system/)
-- [Using AI to build software is hard work too — but you still get dismissed as a “vibe coder”](https://www.reddit.com/r/androiddev/comments/1wo05li/using_ai_to_build_software_is_hard_work_too_but/)
-- [Android 17 enables certificate transparency, and breaks custom CAs](https://www.reddit.com/r/androiddev/comments/1wo04qn/android_17_enables_certificate_transparency_and/)
-- [Google Play Store looks like it&#39;s working on a special home for your vibe-coded apps built using AI Studio](https://www.reddit.com/r/androiddev/comments/1wnzqki/google_play_store_looks_like_its_working_on_a/)
-- [Android Developers Backstage host Chet Haase says &quot;Yes, Android&quot;](https://www.reddit.com/r/androiddev/comments/1wnwp1m/android_developers_backstage_host_chet_haase_says/)
+- [Can I get SELinux Read+Write privileges on a system ile without rooting ?](https://www.reddit.com/r/androiddev/comments/1wpjqjw/can_i_get_selinux_readwrite_privileges_on_a/)
+- [The AI &quot;prompt-and-ship&quot; trap: Need advice](https://www.reddit.com/r/androiddev/comments/1wpb82y/the_ai_promptandship_trap_need_advice/)
+- [One Kotlin codebase, four platforms: what Compose Multiplatform actually cost me on a shipped game](https://www.reddit.com/r/androiddev/comments/1wpacsg/one_kotlin_codebase_four_platforms_what_compose/)
+- [🆕 Jetpack Compose A2UI Renderer](https://www.reddit.com/r/androiddev/comments/1wp7pi0/jetpack_compose_a2ui_renderer/)
+- [&lpar;Android Developers Blog&rpar; Build your way: Use any AI agent of your choice in Android Studio](https://www.reddit.com/r/androiddev/comments/1wp74it/android_developers_blog_build_your_way_use_any_ai/)
+- [Needed help regarding a project](https://www.reddit.com/r/androiddev/comments/1wp70ap/needed_help_regarding_a_project/)
+- [Gradle 9.8.0 Released](https://www.reddit.com/r/androiddev/comments/1wp6okc/gradle_980_released/)
+- [Unsigned upi://pay intents from a non-merchant Android app get rejected by GPay, PhonePe, Paytm and BHIM. Is there any legitimate path, or is it dead?](https://www.reddit.com/r/androiddev/comments/1wp68t9/unsigned_upipay_intents_from_a_nonmerchant/)
+- [Android Studio Rabbit 2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1wp5iys/android_studio_rabbit_2_canary_2_now_available/)
+- [Ultra Clean Mspy Instllation Prodecures using ADB](https://www.reddit.com/r/androiddev/comments/1wp5fy7/ultra_clean_mspy_instllation_prodecures_using_adb/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
