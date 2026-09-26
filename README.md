@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can I get SELinux Read+Write privileges on a system ile without rooting ?](https://www.reddit.com/r/androiddev/comments/1wpjqjw/can_i_get_selinux_readwrite_privileges_on_a/)
-- [The AI &quot;prompt-and-ship&quot; trap: Need advice](https://www.reddit.com/r/androiddev/comments/1wpb82y/the_ai_promptandship_trap_need_advice/)
-- [One Kotlin codebase, four platforms: what Compose Multiplatform actually cost me on a shipped game](https://www.reddit.com/r/androiddev/comments/1wpacsg/one_kotlin_codebase_four_platforms_what_compose/)
-- [🆕 Jetpack Compose A2UI Renderer](https://www.reddit.com/r/androiddev/comments/1wp7pi0/jetpack_compose_a2ui_renderer/)
-- [&lpar;Android Developers Blog&rpar; Build your way: Use any AI agent of your choice in Android Studio](https://www.reddit.com/r/androiddev/comments/1wp74it/android_developers_blog_build_your_way_use_any_ai/)
-- [Needed help regarding a project](https://www.reddit.com/r/androiddev/comments/1wp70ap/needed_help_regarding_a_project/)
-- [Gradle 9.8.0 Released](https://www.reddit.com/r/androiddev/comments/1wp6okc/gradle_980_released/)
-- [Unsigned upi://pay intents from a non-merchant Android app get rejected by GPay, PhonePe, Paytm and BHIM. Is there any legitimate path, or is it dead?](https://www.reddit.com/r/androiddev/comments/1wp68t9/unsigned_upipay_intents_from_a_nonmerchant/)
-- [Android Studio Rabbit 2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1wp5iys/android_studio_rabbit_2_canary_2_now_available/)
-- [Ultra Clean Mspy Instllation Prodecures using ADB](https://www.reddit.com/r/androiddev/comments/1wp5fy7/ultra_clean_mspy_instllation_prodecures_using_adb/)
+- [Moroccan Android Developers Are Still Excluded From Google Play Merchant Registration — We’re Trying to Change That](https://www.reddit.com/r/androiddev/comments/1wqf1ir/moroccan_android_developers_are_still_excluded/)
+- [How are Android engineers preparing for AI-assisted app development interviews?](https://www.reddit.com/r/androiddev/comments/1wqb14b/how_are_android_engineers_preparing_for/)
+- [AdMob &quot;Not approved yet&quot; &amp; app-ads.txt verification delay before production](https://www.reddit.com/r/androiddev/comments/1wq3r0j/admob_not_approved_yet_appadstxt_verification/)
+- [Android Tutorial through ChatGPT/Claude](https://www.reddit.com/r/androiddev/comments/1wq379b/android_tutorial_through_chatgptclaude/)
+- [Handling real-time computer vision frame pipelines and gesture latency on Android — Lessons &amp; Tradeoffs](https://www.reddit.com/r/androiddev/comments/1wpxpmv/handling_realtime_computer_vision_frame_pipelines/)
+- [Google Play removed my developer account after identity verification failed is there still a way to recover it?](https://www.reddit.com/r/androiddev/comments/1wpvm8b/google_play_removed_my_developer_account_after/)
+- [KMP-Showcase - sample project for Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1wpvm41/kmpshowcase_sample_project_for_kotlin/)
+- [expo run:android --device wants the AVD name, not the adb serial](https://www.reddit.com/r/androiddev/comments/1wpvjpf/expo_runandroid_device_wants_the_avd_name_not_the/)
+- [Why does Android&#39;s GUI package installer reject a byte-identical APK that adb install -t accepts?](https://www.reddit.com/r/androiddev/comments/1wpv3p2/why_does_androids_gui_package_installer_reject_a/)
+- [Things the Play and App Store APIs don&#39;t tell you about whether your app is actually live](https://www.reddit.com/r/androiddev/comments/1wpr5uf/things_the_play_and_app_store_apis_dont_tell_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
