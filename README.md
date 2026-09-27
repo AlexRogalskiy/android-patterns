@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Moroccan Android Developers Are Still Excluded From Google Play Merchant Registration — We’re Trying to Change That](https://www.reddit.com/r/androiddev/comments/1wqf1ir/moroccan_android_developers_are_still_excluded/)
-- [How are Android engineers preparing for AI-assisted app development interviews?](https://www.reddit.com/r/androiddev/comments/1wqb14b/how_are_android_engineers_preparing_for/)
-- [AdMob &quot;Not approved yet&quot; &amp; app-ads.txt verification delay before production](https://www.reddit.com/r/androiddev/comments/1wq3r0j/admob_not_approved_yet_appadstxt_verification/)
-- [Android Tutorial through ChatGPT/Claude](https://www.reddit.com/r/androiddev/comments/1wq379b/android_tutorial_through_chatgptclaude/)
-- [Handling real-time computer vision frame pipelines and gesture latency on Android — Lessons &amp; Tradeoffs](https://www.reddit.com/r/androiddev/comments/1wpxpmv/handling_realtime_computer_vision_frame_pipelines/)
-- [Google Play removed my developer account after identity verification failed is there still a way to recover it?](https://www.reddit.com/r/androiddev/comments/1wpvm8b/google_play_removed_my_developer_account_after/)
-- [KMP-Showcase - sample project for Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1wpvm41/kmpshowcase_sample_project_for_kotlin/)
-- [expo run:android --device wants the AVD name, not the adb serial](https://www.reddit.com/r/androiddev/comments/1wpvjpf/expo_runandroid_device_wants_the_avd_name_not_the/)
-- [Why does Android&#39;s GUI package installer reject a byte-identical APK that adb install -t accepts?](https://www.reddit.com/r/androiddev/comments/1wpv3p2/why_does_androids_gui_package_installer_reject_a/)
-- [Things the Play and App Store APIs don&#39;t tell you about whether your app is actually live](https://www.reddit.com/r/androiddev/comments/1wpr5uf/things_the_play_and_app_store_apis_dont_tell_you/)
+- [Why does requestPermission&lpar;&rpar; crash my app?](https://www.reddit.com/r/androiddev/comments/1wr8ofi/why_does_requestpermission_crash_my_app/)
+- [Breaking Up with Google Play: Why Conversations Is Now Free](https://www.reddit.com/r/androiddev/comments/1wr20kz/breaking_up_with_google_play_why_conversations_is/)
+- [I built a small ML inference runtime in Kotlin using AndroidX WebGPU](https://www.reddit.com/r/androiddev/comments/1wqyow4/i_built_a_small_ml_inference_runtime_in_kotlin/)
+- [What is the future of Indie?](https://www.reddit.com/r/androiddev/comments/1wqta2w/what_is_the_future_of_indie/)
+- [Need A Better Public API Than iTunes Api](https://www.reddit.com/r/androiddev/comments/1wqo61j/need_a_better_public_api_than_itunes_api/)
+- [Release blocked by We detected the following keys that are currently not registered](https://www.reddit.com/r/androiddev/comments/1wqnuzp/release_blocked_by_we_detected_the_following_keys/)
+- [I built dimock: inspect and mock OkHttp responses on the device, by hand or through Claude Code / Cursor](https://www.reddit.com/r/androiddev/comments/1wqnd13/i_built_dimock_inspect_and_mock_okhttp_responses/)
+- [Android stack trace contain Chinese insults as obfuscated method names](https://www.reddit.com/r/androiddev/comments/1wql4xk/android_stack_trace_contain_chinese_insults_as/)
+- [I&#39;m developing an app to prevent AMOLED burn-in on phones.](https://www.reddit.com/r/androiddev/comments/1wqjr9e/im_developing_an_app_to_prevent_amoled_burnin_on/)
+- [Smartwatch companion apps don&#39;t provide decent widgets &lpar;or any at all&rpar;, so I built my own](https://www.reddit.com/r/androiddev/comments/1wqjemh/smartwatch_companion_apps_dont_provide_decent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
