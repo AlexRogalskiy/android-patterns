@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why does requestPermission&lpar;&rpar; crash my app?](https://www.reddit.com/r/androiddev/comments/1wr8ofi/why_does_requestpermission_crash_my_app/)
-- [Breaking Up with Google Play: Why Conversations Is Now Free](https://www.reddit.com/r/androiddev/comments/1wr20kz/breaking_up_with_google_play_why_conversations_is/)
-- [I built a small ML inference runtime in Kotlin using AndroidX WebGPU](https://www.reddit.com/r/androiddev/comments/1wqyow4/i_built_a_small_ml_inference_runtime_in_kotlin/)
-- [What is the future of Indie?](https://www.reddit.com/r/androiddev/comments/1wqta2w/what_is_the_future_of_indie/)
-- [Need A Better Public API Than iTunes Api](https://www.reddit.com/r/androiddev/comments/1wqo61j/need_a_better_public_api_than_itunes_api/)
-- [Release blocked by We detected the following keys that are currently not registered](https://www.reddit.com/r/androiddev/comments/1wqnuzp/release_blocked_by_we_detected_the_following_keys/)
-- [I built dimock: inspect and mock OkHttp responses on the device, by hand or through Claude Code / Cursor](https://www.reddit.com/r/androiddev/comments/1wqnd13/i_built_dimock_inspect_and_mock_okhttp_responses/)
-- [Android stack trace contain Chinese insults as obfuscated method names](https://www.reddit.com/r/androiddev/comments/1wql4xk/android_stack_trace_contain_chinese_insults_as/)
-- [I&#39;m developing an app to prevent AMOLED burn-in on phones.](https://www.reddit.com/r/androiddev/comments/1wqjr9e/im_developing_an_app_to_prevent_amoled_burnin_on/)
-- [Smartwatch companion apps don&#39;t provide decent widgets &lpar;or any at all&rpar;, so I built my own](https://www.reddit.com/r/androiddev/comments/1wqjemh/smartwatch_companion_apps_dont_provide_decent/)
+- [what projects can I try out with Android studio](https://www.reddit.com/r/androiddev/comments/1ws61lo/what_projects_can_i_try_out_with_android_studio/)
+- [I made a tool that turns your @Composable Previews into embeddable scripts for your blogs, docs and websites](https://www.reddit.com/r/androiddev/comments/1ws1mdt/i_made_a_tool_that_turns_your_composable_previews/)
+- [I thought I was finally done with my android app… then Google showed me this](https://www.reddit.com/r/androiddev/comments/1wryicl/i_thought_i_was_finally_done_with_my_android_app/)
+- [How do you keep Espresso tests healthy at scale? &lpar;flakiness, AI failure triage, feature-level coverage&rpar;](https://www.reddit.com/r/androiddev/comments/1wrxe3x/how_do_you_keep_espresso_tests_healthy_at_scale/)
+- [Should I upgrade to Navigation 3?](https://www.reddit.com/r/androiddev/comments/1wrqc4u/should_i_upgrade_to_navigation_3/)
+- [Android emulator on the browser without QEMU](https://www.reddit.com/r/androiddev/comments/1wrmuf0/android_emulator_on_the_browser_without_qemu/)
+- [Building an on-device personal agent. Android first because of notification listener + accessibility, or am I underestimating what I’ll hit?](https://www.reddit.com/r/androiddev/comments/1wrm1vh/building_an_ondevice_personal_agent_android_first/)
+- [Crafting my own keyboard.](https://www.reddit.com/r/androiddev/comments/1wrl6qr/crafting_my_own_keyboard/)
+- [I kept getting lost in Find Usages rabbit holes, so I built a call graph plugin for IntelliJ / Android Studio](https://www.reddit.com/r/androiddev/comments/1wrks0j/i_kept_getting_lost_in_find_usages_rabbit_holes/)
+- [Building a real IDE for Android tablets &lpar;Kotlin, on-device Linux sandbox, git, Claude Code support&rpar; — open source, and looking for devs to help build it:](https://www.reddit.com/r/androiddev/comments/1wrk074/building_a_real_ide_for_android_tablets_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
