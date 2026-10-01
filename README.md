@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Tapbar v1.3 is here. 300+ downloads and a major upgrade!](https://www.reddit.com/r/androiddev/comments/1wttig3/tapbar_v13_is_here_300_downloads_and_a_major/)
+- [How many apps/games have you published?](https://www.reddit.com/r/androiddev/comments/1wuqziv/how_many_appsgames_have_you_published/)
+- [Made a pitch detection library for Android](https://www.reddit.com/r/androiddev/comments/1wuqypu/made_a_pitch_detection_library_for_android/)
+- [Can BGMI LITE support ARMv7/32-bit even if PUBG MOBILE FLASH is ARM64-only?](https://www.reddit.com/r/androiddev/comments/1wupxbe/can_bgmi_lite_support_armv732bit_even_if_pubg/)
+- [I built a open-source, ad-free SQLite Admin app for Android because the Play Store options are broken](https://www.reddit.com/r/androiddev/comments/1wufkxn/i_built_a_opensource_adfree_sqlite_admin_app_for/)
+- [Android Developer Verification](https://www.reddit.com/r/androiddev/comments/1wu9r7x/android_developer_verification/)
+- [My app got approved in... 30mins?](https://www.reddit.com/r/androiddev/comments/1wu8yzb/my_app_got_approved_in_30mins/)
+- [Paid the dev registration fee but PlayStore Console still asks me to create an account — normal?](https://www.reddit.com/r/androiddev/comments/1wu4c6e/paid_the_dev_registration_fee_but_playstore/)
+- [USB Debugging keep turning back on after reboot &lpar;ColorOS / Realme UI&rpar; – persist.sys.usb.config stuck on adb](https://www.reddit.com/r/androiddev/comments/1wu1ex0/usb_debugging_keep_turning_back_on_after_reboot/)
 - [Anyone can direct me to a framework](https://www.reddit.com/r/androiddev/comments/1wtt4k5/anyone_can_direct_me_to_a_framework/)
 - [Clever use for that old spare phone in your kitchen drawer](https://www.reddit.com/r/androiddev/comments/1wtp4rk/clever_use_for_that_old_spare_phone_in_your/)
-- [How long does it take to publish](https://www.reddit.com/r/androiddev/comments/1wtmu17/how_long_does_it_take_to_publish/)
-- [Spock ADB 4.0: find the current activity/fragment, test process death, edit SharedPreferences, all without leaving Android Studio](https://www.reddit.com/r/androiddev/comments/1wtmgaa/spock_adb_40_find_the_current_activityfragment/)
-- [App to Spoof a Connected Second Display](https://www.reddit.com/r/androiddev/comments/1wtbhnc/app_to_spoof_a_connected_second_display/)
-- [Android Dev Monitor v2.8: a free, open-source Windows &quot;Task Manager&quot; for Android apps &lpar;CPU, RAM, FPS, logcat over ADB&rpar;](https://www.reddit.com/r/androiddev/comments/1wtbhn8/android_dev_monitor_v28_a_free_opensource_windows/)
-- [How to query usage stats manager?](https://www.reddit.com/r/androiddev/comments/1wt5r65/how_to_query_usage_stats_manager/)
-- [Working on a File Sharing Application between Desktop and Mobile irregardless of Distance or Network](https://www.reddit.com/r/androiddev/comments/1wt5miq/working_on_a_file_sharing_application_between/)
-- [Shopify Quit React Native. Mobile Has Done This Before.](https://www.reddit.com/r/androiddev/comments/1wt4c9q/shopify_quit_react_native_mobile_has_done_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
