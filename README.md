@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What kind of app would you actually be willing to pay for?](https://www.reddit.com/r/androiddev/comments/1wvl87t/what_kind_of_app_would_you_actually_be_willing_to/)
+- [I found an AOSP LE Audio stereo microphone bug: CIS frames can arrive R,R,L,L and Android returns duplicated mono](https://www.reddit.com/r/androiddev/comments/1wwcxi5/i_found_an_aosp_le_audio_stereo_microphone_bug/)
+- [Will playstore require devs](https://www.reddit.com/r/androiddev/comments/1wwb8x5/will_playstore_require_devs/)
+- [Can a third-party home app control the app-open animation on GrapheneOS?](https://www.reddit.com/r/androiddev/comments/1ww9v8u/can_a_thirdparty_home_app_control_the_appopen/)
+- [Google published my app without telling me. Is this normal?](https://www.reddit.com/r/androiddev/comments/1ww1x88/google_published_my_app_without_telling_me_is/)
+- [Google Play Console Developer Registration Payment Successful, but Account Not Recognised](https://www.reddit.com/r/androiddev/comments/1ww18xh/google_play_console_developer_registration/)
+- [Looking for a solid Google Play equivalent to &quot;App Store Tracker&quot; for Android apps](https://www.reddit.com/r/androiddev/comments/1wvy3g1/looking_for_a_solid_google_play_equivalent_to_app/)
+- [After 36 days of closed testing and 10 days in review, my first app is actually on Google Play](https://www.reddit.com/r/androiddev/comments/1wvqe3u/after_36_days_of_closed_testing_and_10_days_in/)
+- [Experimenting with percentage animations in Compose](https://www.reddit.com/r/androiddev/comments/1wvq2yq/experimenting_with_percentage_animations_in/)
+- [Android developer verification](https://www.reddit.com/r/androiddev/comments/1wvot5t/android_developer_verification/)
 - [Google Play App Review times?](https://www.reddit.com/r/androiddev/comments/1wvdvw3/google_play_app_review_times/)
-- [App in review for 15 days](https://www.reddit.com/r/androiddev/comments/1wv6ben/app_in_review_for_15_days/)
-- [Android Studio Rabbit 2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1wv4tm9/android_studio_rabbit_2_canary_3_now_available/)
-- [Kotlin, Android, and community with Martin Bonnin](https://www.reddit.com/r/androiddev/comments/1wv4omx/kotlin_android_and_community_with_martin_bonnin/)
-- [Android Studio Rabbit 1 now available](https://www.reddit.com/r/androiddev/comments/1wv1o17/android_studio_rabbit_1_now_available/)
-- [Made an image picker library for Android](https://www.reddit.com/r/androiddev/comments/1wuzlhk/made_an_image_picker_library_for_android/)
-- [I built a way to let people try Android apps without installing them. What do you think?](https://www.reddit.com/r/androiddev/comments/1wuvx88/i_built_a_way_to_let_people_try_android_apps/)
-- [Brought my Gradle build time from 6 mins to 26 secs :&rpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1wuu508/brought_my_gradle_build_time_from_6_mins_to_26/)
-- [With all the AI changes happening, how hard is for Android seniors to find remote work today?](https://www.reddit.com/r/androiddev/comments/1wuspgc/with_all_the_ai_changes_happening_how_hard_is_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
