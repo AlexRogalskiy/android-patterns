@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can’t change which Google Play account is used for in-app purchases/subscriptions](https://www.reddit.com/r/androiddev/comments/1wwv3av/cant_change_which_google_play_account_is_used_for/)
+- [5 years into Android, 8 months of heavy Claude Code use — am I getting too dependent on AI?](https://www.reddit.com/r/androiddev/comments/1wwrnls/5_years_into_android_8_months_of_heavy_claude/)
+- [CashBuddy — an Android expense tracker with on-device processing + Notification Listener](https://www.reddit.com/r/androiddev/comments/1wwjiue/cashbuddy_an_android_expense_tracker_with/)
+- [10-minute survey on implementation decisions!](https://www.reddit.com/r/androiddev/comments/1wwi5ew/10minute_survey_on_implementation_decisions/)
+- [Android experts: What device identifiers can survive a factory reset?](https://www.reddit.com/r/androiddev/comments/1wwgj9p/android_experts_what_device_identifiers_can/)
+- [How are you guys handling high-frequency network state in Compose without killing performance?](https://www.reddit.com/r/androiddev/comments/1wwedv7/how_are_you_guys_handling_highfrequency_network/)
 - [I found an AOSP LE Audio stereo microphone bug: CIS frames can arrive R,R,L,L and Android returns duplicated mono](https://www.reddit.com/r/androiddev/comments/1wwcxi5/i_found_an_aosp_le_audio_stereo_microphone_bug/)
-- [Will playstore require devs](https://www.reddit.com/r/androiddev/comments/1wwb8x5/will_playstore_require_devs/)
 - [Can a third-party home app control the app-open animation on GrapheneOS?](https://www.reddit.com/r/androiddev/comments/1ww9v8u/can_a_thirdparty_home_app_control_the_appopen/)
 - [Google published my app without telling me. Is this normal?](https://www.reddit.com/r/androiddev/comments/1ww1x88/google_published_my_app_without_telling_me_is/)
 - [Google Play Console Developer Registration Payment Successful, but Account Not Recognised](https://www.reddit.com/r/androiddev/comments/1ww18xh/google_play_console_developer_registration/)
-- [Looking for a solid Google Play equivalent to &quot;App Store Tracker&quot; for Android apps](https://www.reddit.com/r/androiddev/comments/1wvy3g1/looking_for_a_solid_google_play_equivalent_to_app/)
-- [After 36 days of closed testing and 10 days in review, my first app is actually on Google Play](https://www.reddit.com/r/androiddev/comments/1wvqe3u/after_36_days_of_closed_testing_and_10_days_in/)
-- [Experimenting with percentage animations in Compose](https://www.reddit.com/r/androiddev/comments/1wvq2yq/experimenting_with_percentage_animations_in/)
-- [Android developer verification](https://www.reddit.com/r/androiddev/comments/1wvot5t/android_developer_verification/)
-- [Google Play App Review times?](https://www.reddit.com/r/androiddev/comments/1wvdvw3/google_play_app_review_times/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
