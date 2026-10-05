@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question about how to program an animation for an application.](https://www.reddit.com/r/androiddev/comments/1wxznw1/question_about_how_to_program_an_animation_for_an/)
+- [Using Lazyvim for Android projects](https://www.reddit.com/r/androiddev/comments/1wxyuua/using_lazyvim_for_android_projects/)
+- [Need help for preparing a dataset for my APK Risk Analyser Project!!](https://www.reddit.com/r/androiddev/comments/1wxxvvh/need_help_for_preparing_a_dataset_for_my_apk_risk/)
+- [[ Removed by Reddit ]](https://www.reddit.com/r/androiddev/comments/1wxwplf/removed_by_reddit/)
+- [How does Google Play determine country for purchase eligibility beyond IP address?](https://www.reddit.com/r/androiddev/comments/1wxr7pj/how_does_google_play_determine_country_for/)
+- [ARK-Store for GitHub Android app](https://www.reddit.com/r/androiddev/comments/1wxk101/arkstore_for_github_android_app/)
+- [I recreated Google Health&#39;s Wear OS activity-complete animation using Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1wxewv1/i_recreated_google_healths_wear_os/)
+- [Cranpose, Jetpack Compose in Rust](https://www.reddit.com/r/androiddev/comments/1wx9dqr/cranpose_jetpack_compose_in_rust/)
 - [Can’t change which Google Play account is used for in-app purchases/subscriptions](https://www.reddit.com/r/androiddev/comments/1wwv3av/cant_change_which_google_play_account_is_used_for/)
-- [5 years into Android, 8 months of heavy Claude Code use — am I getting too dependent on AI?](https://www.reddit.com/r/androiddev/comments/1wwrnls/5_years_into_android_8_months_of_heavy_claude/)
 - [CashBuddy — an Android expense tracker with on-device processing + Notification Listener](https://www.reddit.com/r/androiddev/comments/1wwjiue/cashbuddy_an_android_expense_tracker_with/)
-- [10-minute survey on implementation decisions!](https://www.reddit.com/r/androiddev/comments/1wwi5ew/10minute_survey_on_implementation_decisions/)
-- [Android experts: What device identifiers can survive a factory reset?](https://www.reddit.com/r/androiddev/comments/1wwgj9p/android_experts_what_device_identifiers_can/)
-- [How are you guys handling high-frequency network state in Compose without killing performance?](https://www.reddit.com/r/androiddev/comments/1wwedv7/how_are_you_guys_handling_highfrequency_network/)
-- [I found an AOSP LE Audio stereo microphone bug: CIS frames can arrive R,R,L,L and Android returns duplicated mono](https://www.reddit.com/r/androiddev/comments/1wwcxi5/i_found_an_aosp_le_audio_stereo_microphone_bug/)
-- [Can a third-party home app control the app-open animation on GrapheneOS?](https://www.reddit.com/r/androiddev/comments/1ww9v8u/can_a_thirdparty_home_app_control_the_appopen/)
-- [Google published my app without telling me. Is this normal?](https://www.reddit.com/r/androiddev/comments/1ww1x88/google_published_my_app_without_telling_me_is/)
-- [Google Play Console Developer Registration Payment Successful, but Account Not Recognised](https://www.reddit.com/r/androiddev/comments/1ww18xh/google_play_console_developer_registration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
