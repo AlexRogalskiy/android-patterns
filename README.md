@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hiring] Staff Software Engineer, Mobile &lpar;Android/Kotlin&rpar; | US | $50-$90/hr | Full-time](https://www.reddit.com/r/androiddev/comments/1wyr6jy/hiring_staff_software_engineer_mobile/)
-- [Megathread: Play Store review times](https://www.reddit.com/r/androiddev/comments/1wyj7pj/megathread_play_store_review_times/)
-- [Migrate](https://www.reddit.com/r/androiddev/comments/1wye13t/migrate/)
-- [I finally found a way to implement Google feed without AIDL bridging](https://www.reddit.com/r/androiddev/comments/1wyb0lt/i_finally_found_a_way_to_implement_google_feed/)
-- [ViewModels nesting into composables?](https://www.reddit.com/r/androiddev/comments/1wyaxrb/viewmodels_nesting_into_composables/)
-- [I built a free, open-source CLI and library for reading public Play Store data &lpar;reviews by device type, listings, charts, country availability&rpar;](https://www.reddit.com/r/androiddev/comments/1wy9txs/i_built_a_free_opensource_cli_and_library_for/)
-- [KSVG – I expanded AndroidSVG with SVG filters, SMIL, variable fonts, and SIMD-accelerated rendering](https://www.reddit.com/r/androiddev/comments/1wy8ljz/ksvg_i_expanded_androidsvg_with_svg_filters_smil/)
-- [I built ADB Ready — an open-source CLI for reliable ADB development sessions](https://www.reddit.com/r/androiddev/comments/1wy3hg0/i_built_adb_ready_an_opensource_cli_for_reliable/)
-- [Question about how to program an animation for an application.](https://www.reddit.com/r/androiddev/comments/1wxznw1/question_about_how_to_program_an_animation_for_an/)
-- [Using Lazyvim for Android projects](https://www.reddit.com/r/androiddev/comments/1wxyuua/using_lazyvim_for_android_projects/)
+- [Game made in Kotlin, Jetpack Compose and Filament: Things which worked and didn’t](https://www.reddit.com/r/androiddev/comments/1wzpjcw/game_made_in_kotlin_jetpack_compose_and_filament/)
+- [My Google Play Developer Account Was Terminated. If Reinstatement Isn&#39;t Possible, Is There Any Path Forward?](https://www.reddit.com/r/androiddev/comments/1wzpgko/my_google_play_developer_account_was_terminated/)
+- [How do you switch into android as an experienced dev](https://www.reddit.com/r/androiddev/comments/1wzn0wb/how_do_you_switch_into_android_as_an_experienced/)
+- [Developing a 3D style android launcher &#39;Axiom Launcher&#39;](https://www.reddit.com/r/androiddev/comments/1wzf19k/developing_a_3d_style_android_launcher_axiom/)
+- [Hobbyist apps](https://www.reddit.com/r/androiddev/comments/1wz6n2t/hobbyist_apps/)
+- [I got tired of AI agents suggesting AndroidX versions that don&#39;t exist, so I built an MCP server that looks them up](https://www.reddit.com/r/androiddev/comments/1wz66yt/i_got_tired_of_ai_agents_suggesting_androidx/)
+- [Android developers: Check these folders if your C: drive is mysteriously filling up](https://www.reddit.com/r/androiddev/comments/1wz3l1n/android_developers_check_these_folders_if_your_c/)
+- [Play console A/B Testing](https://www.reddit.com/r/androiddev/comments/1wz02y9/play_console_ab_testing/)
+- [Hey! try this new thing out! Oh sorry we deprecated it already](https://www.reddit.com/r/androiddev/comments/1wyyes0/hey_try_this_new_thing_out_oh_sorry_we_deprecated/)
+- [How do you find out in advance that something your Android app depends on is about to break?](https://www.reddit.com/r/androiddev/comments/1wyx0bw/how_do_you_find_out_in_advance_that_something/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
