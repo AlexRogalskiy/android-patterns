@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Game made in Kotlin, Jetpack Compose and Filament: Things which worked and didn’t](https://www.reddit.com/r/androiddev/comments/1wzpjcw/game_made_in_kotlin_jetpack_compose_and_filament/)
-- [My Google Play Developer Account Was Terminated. If Reinstatement Isn&#39;t Possible, Is There Any Path Forward?](https://www.reddit.com/r/androiddev/comments/1wzpgko/my_google_play_developer_account_was_terminated/)
-- [How do you switch into android as an experienced dev](https://www.reddit.com/r/androiddev/comments/1wzn0wb/how_do_you_switch_into_android_as_an_experienced/)
-- [Developing a 3D style android launcher &#39;Axiom Launcher&#39;](https://www.reddit.com/r/androiddev/comments/1wzf19k/developing_a_3d_style_android_launcher_axiom/)
-- [Hobbyist apps](https://www.reddit.com/r/androiddev/comments/1wz6n2t/hobbyist_apps/)
-- [I got tired of AI agents suggesting AndroidX versions that don&#39;t exist, so I built an MCP server that looks them up](https://www.reddit.com/r/androiddev/comments/1wz66yt/i_got_tired_of_ai_agents_suggesting_androidx/)
-- [Android developers: Check these folders if your C: drive is mysteriously filling up](https://www.reddit.com/r/androiddev/comments/1wz3l1n/android_developers_check_these_folders_if_your_c/)
-- [Play console A/B Testing](https://www.reddit.com/r/androiddev/comments/1wz02y9/play_console_ab_testing/)
-- [Hey! try this new thing out! Oh sorry we deprecated it already](https://www.reddit.com/r/androiddev/comments/1wyyes0/hey_try_this_new_thing_out_oh_sorry_we_deprecated/)
-- [How do you find out in advance that something your Android app depends on is about to break?](https://www.reddit.com/r/androiddev/comments/1wyx0bw/how_do_you_find_out_in_advance_that_something/)
+- [HyperOS pausing background apps](https://www.reddit.com/r/androiddev/comments/1x0fho6/hyperos_pausing_background_apps/)
+- [I shipped an open source document scanner built with Compose, Material 3 Expressive, ML Kit and Room FTS](https://www.reddit.com/r/androiddev/comments/1x0cbsb/i_shipped_an_open_source_document_scanner_built/)
+- [Google Play wants organization verification for my payments profile, but I&#39;m an individual](https://www.reddit.com/r/androiddev/comments/1x06pte/google_play_wants_organization_verification_for/)
+- [guest mode](https://www.reddit.com/r/androiddev/comments/1wzy507/guest_mode/)
+- [Building the same build tooling for Xcode and Gradle, and how differently the two went](https://www.reddit.com/r/androiddev/comments/1wzxuyh/building_the_same_build_tooling_for_xcode_and/)
+- [First time iOS -&gt; android is slow emulation the norm?](https://www.reddit.com/r/androiddev/comments/1wzxry3/first_time_ios_android_is_slow_emulation_the_norm/)
+- [Custom Launcher Project](https://www.reddit.com/r/androiddev/comments/1wzxjfj/custom_launcher_project/)
+- [What it actually takes to share one set of strings between Android and iOS](https://www.reddit.com/r/androiddev/comments/1wzwyll/what_it_actually_takes_to_share_one_set_of/)
+- [Payouts on hold since August, merchant verification rejected 15+ times with &quot;the reason you provided is not clear&quot;. Has anyone ever reversed this?](https://www.reddit.com/r/androiddev/comments/1wzw4b7/payouts_on_hold_since_august_merchant/)
+- [Product tours, onboarding and feature showcases for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1wzspys/product_tours_onboarding_and_feature_showcases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
