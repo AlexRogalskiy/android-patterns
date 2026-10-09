@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What’s your go-to cross-platform TTS &lpar;Android/iOS/Windows&rpar; right now? Tired of hacky workarounds.](https://www.reddit.com/r/androiddev/comments/1x1bsiw/whats_your_goto_crossplatform_tts/)
+- [is it possible to use Gemini assistant for 3rd party app.](https://www.reddit.com/r/androiddev/comments/1x1avao/is_it_possible_to_use_gemini_assistant_for_3rd/)
+- [GraphQL in Compose without a ViewModel and a repository per screen](https://www.reddit.com/r/androiddev/comments/1x13wch/graphql_in_compose_without_a_viewmodel_and_a/)
+- [Built a motion design app in Jetpack Compose, need honest feedback](https://www.reddit.com/r/androiddev/comments/1x0zt7x/built_a_motion_design_app_in_jetpack_compose_need/)
+- [Android Studio Rabbit 2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1x0xv8g/android_studio_rabbit_2_canary_4_now_available/)
+- [Got 15 minutes? Help shape the future of Kotlin](https://www.reddit.com/r/androiddev/comments/1x0pely/got_15_minutes_help_shape_the_future_of_kotlin/)
+- [I built a Kotlin/Native ↔ JNI interop tool to avoid handwritten JNI glue](https://www.reddit.com/r/androiddev/comments/1x0otem/i_built_a_kotlinnative_jni_interop_tool_to_avoid/)
+- [Android conference october 2026](https://www.reddit.com/r/androiddev/comments/1x0lzry/android_conference_october_2026/)
 - [HyperOS pausing background apps](https://www.reddit.com/r/androiddev/comments/1x0fho6/hyperos_pausing_background_apps/)
 - [I shipped an open source document scanner built with Compose, Material 3 Expressive, ML Kit and Room FTS](https://www.reddit.com/r/androiddev/comments/1x0cbsb/i_shipped_an_open_source_document_scanner_built/)
-- [Google Play wants organization verification for my payments profile, but I&#39;m an individual](https://www.reddit.com/r/androiddev/comments/1x06pte/google_play_wants_organization_verification_for/)
-- [guest mode](https://www.reddit.com/r/androiddev/comments/1wzy507/guest_mode/)
-- [Building the same build tooling for Xcode and Gradle, and how differently the two went](https://www.reddit.com/r/androiddev/comments/1wzxuyh/building_the_same_build_tooling_for_xcode_and/)
-- [First time iOS -&gt; android is slow emulation the norm?](https://www.reddit.com/r/androiddev/comments/1wzxry3/first_time_ios_android_is_slow_emulation_the_norm/)
-- [Custom Launcher Project](https://www.reddit.com/r/androiddev/comments/1wzxjfj/custom_launcher_project/)
-- [What it actually takes to share one set of strings between Android and iOS](https://www.reddit.com/r/androiddev/comments/1wzwyll/what_it_actually_takes_to_share_one_set_of/)
-- [Payouts on hold since August, merchant verification rejected 15+ times with &quot;the reason you provided is not clear&quot;. Has anyone ever reversed this?](https://www.reddit.com/r/androiddev/comments/1wzw4b7/payouts_on_hold_since_august_merchant/)
-- [Product tours, onboarding and feature showcases for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1wzspys/product_tours_onboarding_and_feature_showcases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
