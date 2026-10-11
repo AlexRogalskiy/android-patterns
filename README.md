@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Discussion](https://www.reddit.com/r/androiddev/comments/1x2z9ic/discussion/)
+- [Access the clipboard in background](https://www.reddit.com/r/androiddev/comments/1x2vd7x/access_the_clipboard_in_background/)
+- [Is Kotlin Multiplatform a good long-term career bet for Android developers in India?](https://www.reddit.com/r/androiddev/comments/1x2fvqv/is_kotlin_multiplatform_a_good_longterm_career/)
+- [Open-sourced my Android/iOS app hardening tool — core logic, not just the GUI](https://www.reddit.com/r/androiddev/comments/1x2beit/opensourced_my_androidios_app_hardening_tool_core/)
+- [I made a customizable squircle bottom navigation bar for Android &lpar;SqNav&rpar;](https://www.reddit.com/r/androiddev/comments/1x2akv8/i_made_a_customizable_squircle_bottom_navigation/)
 - [Google play integrity API error while login using release apk build](https://www.reddit.com/r/androiddev/comments/1x280l8/google_play_integrity_api_error_while_login_using/)
 - [USA sales tax to Indian dev sales](https://www.reddit.com/r/androiddev/comments/1x1ifom/usa_sales_tax_to_indian_dev_sales/)
 - [How do you manage Play Store releases and review delays for client apps?](https://www.reddit.com/r/androiddev/comments/1x1i0ho/how_do_you_manage_play_store_releases_and_review/)
 - [How feasible is to implement binder in userspace](https://www.reddit.com/r/androiddev/comments/1x1hwjd/how_feasible_is_to_implement_binder_in_userspace/)
 - [What’s your go-to cross-platform TTS &lpar;Android/iOS/Windows&rpar; right now? Tired of hacky workarounds.](https://www.reddit.com/r/androiddev/comments/1x1bsiw/whats_your_goto_crossplatform_tts/)
-- [is it possible to use Gemini assistant for 3rd party app.](https://www.reddit.com/r/androiddev/comments/1x1avao/is_it_possible_to_use_gemini_assistant_for_3rd/)
-- [GraphQL in Compose without a ViewModel and a repository per screen](https://www.reddit.com/r/androiddev/comments/1x13wch/graphql_in_compose_without_a_viewmodel_and_a/)
-- [Built a motion design app in Jetpack Compose, need honest feedback](https://www.reddit.com/r/androiddev/comments/1x0zt7x/built_a_motion_design_app_in_jetpack_compose_need/)
-- [Android Studio Rabbit 2 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1x0xv8g/android_studio_rabbit_2_canary_4_now_available/)
-- [Got 15 minutes? Help shape the future of Kotlin](https://www.reddit.com/r/androiddev/comments/1x0pely/got_15_minutes_help_shape_the_future_of_kotlin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
