@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the most annoying device specific bug you have had to work around?](https://www.reddit.com/r/androiddev/comments/1x3qq7b/what_is_the_most_annoying_device_specific_bug_you/)
+- [My app won&#39;t open from tapping the notification?](https://www.reddit.com/r/androiddev/comments/1x3mmao/my_app_wont_open_from_tapping_the_notification/)
+- [Alternative Payments for Digital Products on Android and iOS](https://www.reddit.com/r/androiddev/comments/1x3m2xx/alternative_payments_for_digital_products_on/)
+- [Android Studio suddenly became barely working, throwing errors for no visible reason, and it stays after re-installing. What to do? &lpar;Windows 11, Quail 3 | 2026.1.3 Patch 1&rpar;](https://www.reddit.com/r/androiddev/comments/1x39po2/android_studio_suddenly_became_barely_working/)
+- [Does Android WebView actually return WebAuthn prf &lpar;clientExtensionResults.prf&rpar;, or only passkeys for sign-in?](https://www.reddit.com/r/androiddev/comments/1x35nix/does_android_webview_actually_return_webauthn_prf/)
+- [Closed testing: every tester gets &quot;Can&#39;t install&quot; after the download finishes. Console green, file verified, support ticket open with no reply.](https://www.reddit.com/r/androiddev/comments/1x35leb/closed_testing_every_tester_gets_cant_install/)
+- [Closed testing: every tester gets &quot;Can&#39;t install&quot; after the download finishes. Console green, file verified, support ticket open with no reply.](https://www.reddit.com/r/androiddev/comments/1x35ilu/closed_testing_every_tester_gets_cant_install/)
+- [A universal compatibility layer to bring open-source Android apps into ecosystems like Android Auto](https://www.reddit.com/r/androiddev/comments/1x33mxx/a_universal_compatibility_layer_to_bring/)
+- [Why is D-U-N-S so ridiculously difficult to setup?](https://www.reddit.com/r/androiddev/comments/1x32yny/why_is_duns_so_ridiculously_difficult_to_setup/)
 - [Discussion](https://www.reddit.com/r/androiddev/comments/1x2z9ic/discussion/)
-- [Access the clipboard in background](https://www.reddit.com/r/androiddev/comments/1x2vd7x/access_the_clipboard_in_background/)
-- [Is Kotlin Multiplatform a good long-term career bet for Android developers in India?](https://www.reddit.com/r/androiddev/comments/1x2fvqv/is_kotlin_multiplatform_a_good_longterm_career/)
-- [Open-sourced my Android/iOS app hardening tool — core logic, not just the GUI](https://www.reddit.com/r/androiddev/comments/1x2beit/opensourced_my_androidios_app_hardening_tool_core/)
-- [I made a customizable squircle bottom navigation bar for Android &lpar;SqNav&rpar;](https://www.reddit.com/r/androiddev/comments/1x2akv8/i_made_a_customizable_squircle_bottom_navigation/)
-- [Google play integrity API error while login using release apk build](https://www.reddit.com/r/androiddev/comments/1x280l8/google_play_integrity_api_error_while_login_using/)
-- [USA sales tax to Indian dev sales](https://www.reddit.com/r/androiddev/comments/1x1ifom/usa_sales_tax_to_indian_dev_sales/)
-- [How do you manage Play Store releases and review delays for client apps?](https://www.reddit.com/r/androiddev/comments/1x1i0ho/how_do_you_manage_play_store_releases_and_review/)
-- [How feasible is to implement binder in userspace](https://www.reddit.com/r/androiddev/comments/1x1hwjd/how_feasible_is_to_implement_binder_in_userspace/)
-- [What’s your go-to cross-platform TTS &lpar;Android/iOS/Windows&rpar; right now? Tired of hacky workarounds.](https://www.reddit.com/r/androiddev/comments/1x1bsiw/whats_your_goto_crossplatform_tts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
