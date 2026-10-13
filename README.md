@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [F you Google](https://www.reddit.com/r/androiddev/comments/1x4ou0k/f_you_google/)
+- [A Staff Engineer&#39;s Honest Take on &quot;Is Android Engineering Dead?&quot;](https://www.reddit.com/r/androiddev/comments/1x4jx9x/a_staff_engineers_honest_take_on_is_android/)
+- [Using Claude AI as a mentor to relearn Android: good approach or a trap?](https://www.reddit.com/r/androiddev/comments/1x4e68u/using_claude_ai_as_a_mentor_to_relearn_android/)
+- [How is mobile testing going for you in 2026? &lpar;2-3 min anonymous survey, mods ok&#39;d&rpar;](https://www.reddit.com/r/androiddev/comments/1x3zleq/how_is_mobile_testing_going_for_you_in_2026_23/)
 - [What is the most annoying device specific bug you have had to work around?](https://www.reddit.com/r/androiddev/comments/1x3qq7b/what_is_the_most_annoying_device_specific_bug_you/)
 - [My app won&#39;t open from tapping the notification?](https://www.reddit.com/r/androiddev/comments/1x3mmao/my_app_wont_open_from_tapping_the_notification/)
 - [Alternative Payments for Digital Products on Android and iOS](https://www.reddit.com/r/androiddev/comments/1x3m2xx/alternative_payments_for_digital_products_on/)
 - [Android Studio suddenly became barely working, throwing errors for no visible reason, and it stays after re-installing. What to do? &lpar;Windows 11, Quail 3 | 2026.1.3 Patch 1&rpar;](https://www.reddit.com/r/androiddev/comments/1x39po2/android_studio_suddenly_became_barely_working/)
 - [Does Android WebView actually return WebAuthn prf &lpar;clientExtensionResults.prf&rpar;, or only passkeys for sign-in?](https://www.reddit.com/r/androiddev/comments/1x35nix/does_android_webview_actually_return_webauthn_prf/)
 - [Closed testing: every tester gets &quot;Can&#39;t install&quot; after the download finishes. Console green, file verified, support ticket open with no reply.](https://www.reddit.com/r/androiddev/comments/1x35leb/closed_testing_every_tester_gets_cant_install/)
-- [Closed testing: every tester gets &quot;Can&#39;t install&quot; after the download finishes. Console green, file verified, support ticket open with no reply.](https://www.reddit.com/r/androiddev/comments/1x35ilu/closed_testing_every_tester_gets_cant_install/)
-- [A universal compatibility layer to bring open-source Android apps into ecosystems like Android Auto](https://www.reddit.com/r/androiddev/comments/1x33mxx/a_universal_compatibility_layer_to_bring/)
-- [Why is D-U-N-S so ridiculously difficult to setup?](https://www.reddit.com/r/androiddev/comments/1x32yny/why_is_duns_so_ridiculously_difficult_to_setup/)
-- [Discussion](https://www.reddit.com/r/androiddev/comments/1x2z9ic/discussion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
