@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [F you Google](https://www.reddit.com/r/androiddev/comments/1x4ou0k/f_you_google/)
-- [A Staff Engineer&#39;s Honest Take on &quot;Is Android Engineering Dead?&quot;](https://www.reddit.com/r/androiddev/comments/1x4jx9x/a_staff_engineers_honest_take_on_is_android/)
-- [Using Claude AI as a mentor to relearn Android: good approach or a trap?](https://www.reddit.com/r/androiddev/comments/1x4e68u/using_claude_ai_as_a_mentor_to_relearn_android/)
-- [How is mobile testing going for you in 2026? &lpar;2-3 min anonymous survey, mods ok&#39;d&rpar;](https://www.reddit.com/r/androiddev/comments/1x3zleq/how_is_mobile_testing_going_for_you_in_2026_23/)
-- [What is the most annoying device specific bug you have had to work around?](https://www.reddit.com/r/androiddev/comments/1x3qq7b/what_is_the_most_annoying_device_specific_bug_you/)
-- [My app won&#39;t open from tapping the notification?](https://www.reddit.com/r/androiddev/comments/1x3mmao/my_app_wont_open_from_tapping_the_notification/)
-- [Alternative Payments for Digital Products on Android and iOS](https://www.reddit.com/r/androiddev/comments/1x3m2xx/alternative_payments_for_digital_products_on/)
-- [Android Studio suddenly became barely working, throwing errors for no visible reason, and it stays after re-installing. What to do? &lpar;Windows 11, Quail 3 | 2026.1.3 Patch 1&rpar;](https://www.reddit.com/r/androiddev/comments/1x39po2/android_studio_suddenly_became_barely_working/)
-- [Does Android WebView actually return WebAuthn prf &lpar;clientExtensionResults.prf&rpar;, or only passkeys for sign-in?](https://www.reddit.com/r/androiddev/comments/1x35nix/does_android_webview_actually_return_webauthn_prf/)
-- [Closed testing: every tester gets &quot;Can&#39;t install&quot; after the download finishes. Console green, file verified, support ticket open with no reply.](https://www.reddit.com/r/androiddev/comments/1x35leb/closed_testing_every_tester_gets_cant_install/)
+- [How We Refactored a Crashing Production Android Payment Module via TDD and Feature Toggles](https://www.reddit.com/r/androiddev/comments/1x5hrch/how_we_refactored_a_crashing_production_android/)
+- [Browser-based Android console, APK decompiler and security analyzer. Mirror, logcat, shell, Frida, jadx, and static and dynamic analysis, with no drivers or adb server.](https://www.reddit.com/r/androiddev/comments/1x5hhth/browserbased_android_console_apk_decompiler_and/)
+- [Does everyone feel like they&#39;re working harder and longer with AI?](https://www.reddit.com/r/androiddev/comments/1x5d90f/does_everyone_feel_like_theyre_working_harder_and/)
+- [Google Play Policies Are Only for Small Developers?](https://www.reddit.com/r/androiddev/comments/1x5c0h5/google_play_policies_are_only_for_small_developers/)
+- [MediaStore.createTrashRequest on Samsung Android 16: 23 photos approved, only 3 visible in trash](https://www.reddit.com/r/androiddev/comments/1x57rar/mediastorecreatetrashrequest_on_samsung_android/)
+- [Run your app on cloud](https://www.reddit.com/r/androiddev/comments/1x55xhg/run_your_app_on_cloud/)
+- [Document verification SDK vs hosted link for ID scan and selfie: what has held up in production?](https://www.reddit.com/r/androiddev/comments/1x5513a/document_verification_sdk_vs_hosted_link_for_id/)
+- [Gradle can’t download from dl.google.com right now: one Google front-end answers HTTP/2 but drops every HTTP/1.1 request. Anyone else seeing this?](https://www.reddit.com/r/androiddev/comments/1x53kpz/gradle_cant_download_from_dlgooglecom_right_now/)
+- [Visited the Zoute Grand Prix in Knokke, found every car/parking app overly monetized, so I built my own free open-source car scanner in Kotlin / Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1x51u06/visited_the_zoute_grand_prix_in_knokke_found/)
+- [Best way to screen-record an app demo for Reels/TikTok &lpar;9:16&rpar; when the phone&#39;s native screen is 20:9?](https://www.reddit.com/r/androiddev/comments/1x51dw1/best_way_to_screenrecord_an_app_demo_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
