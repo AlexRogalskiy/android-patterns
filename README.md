@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How We Refactored a Crashing Production Android Payment Module via TDD and Feature Toggles](https://www.reddit.com/r/androiddev/comments/1x5hrch/how_we_refactored_a_crashing_production_android/)
-- [Browser-based Android console, APK decompiler and security analyzer. Mirror, logcat, shell, Frida, jadx, and static and dynamic analysis, with no drivers or adb server.](https://www.reddit.com/r/androiddev/comments/1x5hhth/browserbased_android_console_apk_decompiler_and/)
+- [I can&#39;t see my app in the AA on the car but I do see it in DHU](https://www.reddit.com/r/androiddev/comments/1x630zi/i_cant_see_my_app_in_the_aa_on_the_car_but_i_do/)
+- [To senior android devs here, was it really that easy before the AI era?](https://www.reddit.com/r/androiddev/comments/1x5wx6l/to_senior_android_devs_here_was_it_really_that/)
+- [Where do you discover active open-source Android projects?](https://www.reddit.com/r/androiddev/comments/1x5v999/where_do_you_discover_active_opensource_android/)
+- [Strings.xml Localization &lpar;Free Plugin&rpar;](https://www.reddit.com/r/androiddev/comments/1x5ut1w/stringsxml_localization_free_plugin/)
+- [upcoming memory thresholds and how are you investigating usage across app states?](https://www.reddit.com/r/androiddev/comments/1x5m2km/upcoming_memory_thresholds_and_how_are_you/)
+- [Android devs, what tool do you wish existed but doesn&#39;t?](https://www.reddit.com/r/androiddev/comments/1x5lkvq/android_devs_what_tool_do_you_wish_existed_but/)
+- [We rebuilt a 7-year legacy Android monolith that was killed by GenAI debt and custom firmware.](https://www.reddit.com/r/androiddev/comments/1x5ljpp/we_rebuilt_a_7year_legacy_android_monolith_that/)
 - [Does everyone feel like they&#39;re working harder and longer with AI?](https://www.reddit.com/r/androiddev/comments/1x5d90f/does_everyone_feel_like_theyre_working_harder_and/)
 - [Google Play Policies Are Only for Small Developers?](https://www.reddit.com/r/androiddev/comments/1x5c0h5/google_play_policies_are_only_for_small_developers/)
 - [MediaStore.createTrashRequest on Samsung Android 16: 23 photos approved, only 3 visible in trash](https://www.reddit.com/r/androiddev/comments/1x57rar/mediastorecreatetrashrequest_on_samsung_android/)
-- [Run your app on cloud](https://www.reddit.com/r/androiddev/comments/1x55xhg/run_your_app_on_cloud/)
-- [Document verification SDK vs hosted link for ID scan and selfie: what has held up in production?](https://www.reddit.com/r/androiddev/comments/1x5513a/document_verification_sdk_vs_hosted_link_for_id/)
-- [Gradle can’t download from dl.google.com right now: one Google front-end answers HTTP/2 but drops every HTTP/1.1 request. Anyone else seeing this?](https://www.reddit.com/r/androiddev/comments/1x53kpz/gradle_cant_download_from_dlgooglecom_right_now/)
-- [Visited the Zoute Grand Prix in Knokke, found every car/parking app overly monetized, so I built my own free open-source car scanner in Kotlin / Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1x51u06/visited_the_zoute_grand_prix_in_knokke_found/)
-- [Best way to screen-record an app demo for Reels/TikTok &lpar;9:16&rpar; when the phone&#39;s native screen is 20:9?](https://www.reddit.com/r/androiddev/comments/1x51dw1/best_way_to_screenrecord_an_app_demo_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
