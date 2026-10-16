@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I can&#39;t see my app in the AA on the car but I do see it in DHU](https://www.reddit.com/r/androiddev/comments/1x630zi/i_cant_see_my_app_in_the_aa_on_the_car_but_i_do/)
-- [To senior android devs here, was it really that easy before the AI era?](https://www.reddit.com/r/androiddev/comments/1x5wx6l/to_senior_android_devs_here_was_it_really_that/)
-- [Where do you discover active open-source Android projects?](https://www.reddit.com/r/androiddev/comments/1x5v999/where_do_you_discover_active_opensource_android/)
-- [Strings.xml Localization &lpar;Free Plugin&rpar;](https://www.reddit.com/r/androiddev/comments/1x5ut1w/stringsxml_localization_free_plugin/)
-- [upcoming memory thresholds and how are you investigating usage across app states?](https://www.reddit.com/r/androiddev/comments/1x5m2km/upcoming_memory_thresholds_and_how_are_you/)
-- [Android devs, what tool do you wish existed but doesn&#39;t?](https://www.reddit.com/r/androiddev/comments/1x5lkvq/android_devs_what_tool_do_you_wish_existed_but/)
-- [We rebuilt a 7-year legacy Android monolith that was killed by GenAI debt and custom firmware.](https://www.reddit.com/r/androiddev/comments/1x5ljpp/we_rebuilt_a_7year_legacy_android_monolith_that/)
-- [Does everyone feel like they&#39;re working harder and longer with AI?](https://www.reddit.com/r/androiddev/comments/1x5d90f/does_everyone_feel_like_theyre_working_harder_and/)
-- [Google Play Policies Are Only for Small Developers?](https://www.reddit.com/r/androiddev/comments/1x5c0h5/google_play_policies_are_only_for_small_developers/)
-- [MediaStore.createTrashRequest on Samsung Android 16: 23 photos approved, only 3 visible in trash](https://www.reddit.com/r/androiddev/comments/1x57rar/mediastorecreatetrashrequest_on_samsung_android/)
+- [Do android engineers earn less than other software engineers as we go up?](https://www.reddit.com/r/androiddev/comments/1x70h80/do_android_engineers_earn_less_than_other/)
+- [I wrote how to retry chat messages safely on Android &lpar;idempotency keys&rpar;, with a simulator](https://www.reddit.com/r/androiddev/comments/1x6ubm5/i_wrote_how_to_retry_chat_messages_safely_on/)
+- [Can apps record GPS data in the background if the user approves?](https://www.reddit.com/r/androiddev/comments/1x6u44w/can_apps_record_gps_data_in_the_background_if_the/)
+- [Reclaim the GBs Gradle, Android SDK images and Flutter builds leave on a Mac](https://www.reddit.com/r/androiddev/comments/1x6pt93/reclaim_the_gbs_gradle_android_sdk_images_and/)
+- [Android Studio Rabbit 2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1x6pivd/android_studio_rabbit_2_canary_5_now_available/)
+- [Our app got cloned from a decompiled APK.](https://www.reddit.com/r/androiddev/comments/1x6phbj/our_app_got_cloned_from_a_decompiled_apk/)
+- [Material is the metaphor: Pushing the limits of building with Material design cross platform with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1x6pewh/material_is_the_metaphor_pushing_the_limits_of/)
+- [Developing for android in kotlin but the Android Studio is too much for my computer &lpar;seems like a common problem after some searches&rpar;](https://www.reddit.com/r/androiddev/comments/1x6mxxe/developing_for_android_in_kotlin_but_the_android/)
+- [I built a native Markdown renderer for Jetpack Compose, now with tap-to-reveal text, LaTeX math and tree-sitter code highlighting](https://www.reddit.com/r/androiddev/comments/1x6mekr/i_built_a_native_markdown_renderer_for_jetpack/)
+- [I built a free scanner that checks apps and sites against the EU Accessibility Act &lpar;EAA&rpar; - feedback welcome](https://www.reddit.com/r/androiddev/comments/1x6juce/i_built_a_free_scanner_that_checks_apps_and_sites/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
