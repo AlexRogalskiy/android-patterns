@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do Android developers really need Android Studio for every Kotlin debugging task?](https://www.reddit.com/r/androiddev/comments/1x7yrdj/do_android_developers_really_need_android_studio/)
+- [Settling on Dexprotector or Jiagu, please share your experience with...](https://www.reddit.com/r/androiddev/comments/1x7uabu/settling_on_dexprotector_or_jiagu_please_share/)
+- [Convert an android phone into a story box for children](https://www.reddit.com/r/androiddev/comments/1x7nnmu/convert_an_android_phone_into_a_story_box_for/)
+- [What to expect at Android Dev Summit 2026](https://www.reddit.com/r/androiddev/comments/1x7lwut/what_to_expect_at_android_dev_summit_2026/)
+- [Running a full PostgreSQL 18 server inside an Android app: SELinux exec rules, argv[0] tricks and no shmget&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1x7j5zi/running_a_full_postgresql_18_server_inside_an/)
+- [Struggling with using webview for a html jscript file which reads local CSV files + saves local user data](https://www.reddit.com/r/androiddev/comments/1x7igdz/struggling_with_using_webview_for_a_html_jscript/)
+- [I got tired of my AI agent writing Compose UI it couldn&#39;t see, so I built a tool that renders @Preview to PNG without the IDE](https://www.reddit.com/r/androiddev/comments/1x7eftw/i_got_tired_of_my_ai_agent_writing_compose_ui_it/)
+- [I built a 100% client-side APK inspector that decodes binary AndroidManifest.xml &lpar;AXML&rpar; and unpacks classes.dex in the browser &lpar;zero file uploads&rpar;](https://www.reddit.com/r/androiddev/comments/1x76p83/i_built_a_100_clientside_apk_inspector_that/)
 - [Do android engineers earn less than other software engineers as we go up?](https://www.reddit.com/r/androiddev/comments/1x70h80/do_android_engineers_earn_less_than_other/)
 - [I wrote how to retry chat messages safely on Android &lpar;idempotency keys&rpar;, with a simulator](https://www.reddit.com/r/androiddev/comments/1x6ubm5/i_wrote_how_to_retry_chat_messages_safely_on/)
-- [Can apps record GPS data in the background if the user approves?](https://www.reddit.com/r/androiddev/comments/1x6u44w/can_apps_record_gps_data_in_the_background_if_the/)
-- [Reclaim the GBs Gradle, Android SDK images and Flutter builds leave on a Mac](https://www.reddit.com/r/androiddev/comments/1x6pt93/reclaim_the_gbs_gradle_android_sdk_images_and/)
-- [Android Studio Rabbit 2 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1x6pivd/android_studio_rabbit_2_canary_5_now_available/)
-- [Our app got cloned from a decompiled APK.](https://www.reddit.com/r/androiddev/comments/1x6phbj/our_app_got_cloned_from_a_decompiled_apk/)
-- [Material is the metaphor: Pushing the limits of building with Material design cross platform with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1x6pewh/material_is_the_metaphor_pushing_the_limits_of/)
-- [Developing for android in kotlin but the Android Studio is too much for my computer &lpar;seems like a common problem after some searches&rpar;](https://www.reddit.com/r/androiddev/comments/1x6mxxe/developing_for_android_in_kotlin_but_the_android/)
-- [I built a native Markdown renderer for Jetpack Compose, now with tap-to-reveal text, LaTeX math and tree-sitter code highlighting](https://www.reddit.com/r/androiddev/comments/1x6mekr/i_built_a_native_markdown_renderer_for_jetpack/)
-- [I built a free scanner that checks apps and sites against the EU Accessibility Act &lpar;EAA&rpar; - feedback welcome](https://www.reddit.com/r/androiddev/comments/1x6juce/i_built_a_free_scanner_that_checks_apps_and_sites/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
