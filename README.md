@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I hate CameraX, so I made it a one liner :&rpar;](https://www.reddit.com/r/androiddev/comments/1x8sd2a/i_hate_camerax_so_i_made_it_a_one_liner/)
+- [Trackd is OUT for piloting – An offline-resilient phone recovery &amp; decoy engine for Android &lpar;SMS interception + Accessibility Guard&rpar;](https://www.reddit.com/r/androiddev/comments/1x8s8sp/trackd_is_out_for_piloting_an_offlineresilient/)
+- [How much does AI affect your app revenue?](https://www.reddit.com/r/androiddev/comments/1x8p59i/how_much_does_ai_affect_your_app_revenue/)
+- [Android edge cases to cover for sde 2](https://www.reddit.com/r/androiddev/comments/1x8cf82/android_edge_cases_to_cover_for_sde_2/)
+- [HDCharts 3.0.0 is live](https://www.reddit.com/r/androiddev/comments/1x8c131/hdcharts_300_is_live/)
+- [I built a free tool that scans a running Android app for accessibility issues, including what TalkBack actually says &lpar;I&#39;m the developer&rpar;](https://www.reddit.com/r/androiddev/comments/1x8bukd/i_built_a_free_tool_that_scans_a_running_android/)
+- [What is the point of Android app links?](https://www.reddit.com/r/androiddev/comments/1x8a2p9/what_is_the_point_of_android_app_links/)
+- [Best Projects Courses or Projects that AI can help me understand](https://www.reddit.com/r/androiddev/comments/1x85t56/best_projects_courses_or_projects_that_ai_can/)
+- [Indie app developers: how do you create your app store screenshots?](https://www.reddit.com/r/androiddev/comments/1x822eb/indie_app_developers_how_do_you_create_your_app/)
 - [Do Android developers really need Android Studio for every Kotlin debugging task?](https://www.reddit.com/r/androiddev/comments/1x7yrdj/do_android_developers_really_need_android_studio/)
-- [Settling on Dexprotector or Jiagu, please share your experience with...](https://www.reddit.com/r/androiddev/comments/1x7uabu/settling_on_dexprotector_or_jiagu_please_share/)
-- [Convert an android phone into a story box for children](https://www.reddit.com/r/androiddev/comments/1x7nnmu/convert_an_android_phone_into_a_story_box_for/)
-- [What to expect at Android Dev Summit 2026](https://www.reddit.com/r/androiddev/comments/1x7lwut/what_to_expect_at_android_dev_summit_2026/)
-- [Running a full PostgreSQL 18 server inside an Android app: SELinux exec rules, argv[0] tricks and no shmget&lpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1x7j5zi/running_a_full_postgresql_18_server_inside_an/)
-- [Struggling with using webview for a html jscript file which reads local CSV files + saves local user data](https://www.reddit.com/r/androiddev/comments/1x7igdz/struggling_with_using_webview_for_a_html_jscript/)
-- [I got tired of my AI agent writing Compose UI it couldn&#39;t see, so I built a tool that renders @Preview to PNG without the IDE](https://www.reddit.com/r/androiddev/comments/1x7eftw/i_got_tired_of_my_ai_agent_writing_compose_ui_it/)
-- [I built a 100% client-side APK inspector that decodes binary AndroidManifest.xml &lpar;AXML&rpar; and unpacks classes.dex in the browser &lpar;zero file uploads&rpar;](https://www.reddit.com/r/androiddev/comments/1x76p83/i_built_a_100_clientside_apk_inspector_that/)
-- [Do android engineers earn less than other software engineers as we go up?](https://www.reddit.com/r/androiddev/comments/1x70h80/do_android_engineers_earn_less_than_other/)
-- [I wrote how to retry chat messages safely on Android &lpar;idempotency keys&rpar;, with a simulator](https://www.reddit.com/r/androiddev/comments/1x6ubm5/i_wrote_how_to_retry_chat_messages_safely_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
