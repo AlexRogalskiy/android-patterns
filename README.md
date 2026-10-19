@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I hate CameraX, so I made it a one liner :&rpar;](https://www.reddit.com/r/androiddev/comments/1x8sd2a/i_hate_camerax_so_i_made_it_a_one_liner/)
-- [Trackd is OUT for piloting – An offline-resilient phone recovery &amp; decoy engine for Android &lpar;SMS interception + Accessibility Guard&rpar;](https://www.reddit.com/r/androiddev/comments/1x8s8sp/trackd_is_out_for_piloting_an_offlineresilient/)
-- [How much does AI affect your app revenue?](https://www.reddit.com/r/androiddev/comments/1x8p59i/how_much_does_ai_affect_your_app_revenue/)
-- [Android edge cases to cover for sde 2](https://www.reddit.com/r/androiddev/comments/1x8cf82/android_edge_cases_to_cover_for_sde_2/)
-- [HDCharts 3.0.0 is live](https://www.reddit.com/r/androiddev/comments/1x8c131/hdcharts_300_is_live/)
-- [I built a free tool that scans a running Android app for accessibility issues, including what TalkBack actually says &lpar;I&#39;m the developer&rpar;](https://www.reddit.com/r/androiddev/comments/1x8bukd/i_built_a_free_tool_that_scans_a_running_android/)
-- [What is the point of Android app links?](https://www.reddit.com/r/androiddev/comments/1x8a2p9/what_is_the_point_of_android_app_links/)
-- [Best Projects Courses or Projects that AI can help me understand](https://www.reddit.com/r/androiddev/comments/1x85t56/best_projects_courses_or_projects_that_ai_can/)
-- [Indie app developers: how do you create your app store screenshots?](https://www.reddit.com/r/androiddev/comments/1x822eb/indie_app_developers_how_do_you_create_your_app/)
-- [Do Android developers really need Android Studio for every Kotlin debugging task?](https://www.reddit.com/r/androiddev/comments/1x7yrdj/do_android_developers_really_need_android_studio/)
+- [Custom code&lpar;Redeem code&rpar; - not showing in in-app purchase payment method](https://www.reddit.com/r/androiddev/comments/1x9ivzh/custom_coderedeem_code_not_showing_in_inapp/)
+- [After 6 years, I am moving on from my hobby project.](https://www.reddit.com/r/androiddev/comments/1x9he8a/after_6_years_i_am_moving_on_from_my_hobby_project/)
+- [Built the gallery app with liquid glass ! iOS 27](https://www.reddit.com/r/androiddev/comments/1x9cq8p/built_the_gallery_app_with_liquid_glass_ios_27/)
+- [google play us changes in 2026 that i almost missed: your listing can be given to third-party stores, and fee reporting started oct 1](https://www.reddit.com/r/androiddev/comments/1x99mkj/google_play_us_changes_in_2026_that_i_almost/)
+- [Cover Activity for Language Change that works on Android 13+?](https://www.reddit.com/r/androiddev/comments/1x9998s/cover_activity_for_language_change_that_works_on/)
+- [I built an open-source Android app around the ByeDPI engine &lpar;written with AI, feedback welcome&rpar;](https://www.reddit.com/r/androiddev/comments/1x97kbg/i_built_an_opensource_android_app_around_the/)
+- [I built an open-source tool that shows what an attacker sees when they decompile your APK](https://www.reddit.com/r/androiddev/comments/1x975yp/i_built_an_opensource_tool_that_shows_what_an/)
+- [Always ask!](https://www.reddit.com/r/androiddev/comments/1x96cn4/always_ask/)
+- [OBS Studio running on android via termux without proot or root.](https://www.reddit.com/r/androiddev/comments/1x93m0w/obs_studio_running_on_android_via_termux_without/)
+- [Where or how to start &lpar;native&rpar; Android development?](https://www.reddit.com/r/androiddev/comments/1x8z7hi/where_or_how_to_start_native_android_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
