@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Android versus iOS review times](https://www.reddit.com/r/androiddev/comments/1xadi9n/android_versus_ios_review_times/)
+- [Do my app really has these users?](https://www.reddit.com/r/androiddev/comments/1xa9ru3/do_my_app_really_has_these_users/)
+- [Seamless Linux app compatibility layer I&#39;ve been working on](https://www.reddit.com/r/androiddev/comments/1xa7fqa/seamless_linux_app_compatibility_layer_ive_been/)
+- [Google Play app review doing disruptive things in production](https://www.reddit.com/r/androiddev/comments/1xa6n16/google_play_app_review_doing_disruptive_things_in/)
+- [AAOS rejections from Google Play team](https://www.reddit.com/r/androiddev/comments/1xa47ln/aaos_rejections_from_google_play_team/)
+- [Can Google Play Protect read data from other apps in the CPU, RAM, and the /data/data/&lt;package_name&gt;/ folder?](https://www.reddit.com/r/androiddev/comments/1xa2sex/can_google_play_protect_read_data_from_other_apps/)
+- [Is this review sarcasm?](https://www.reddit.com/r/androiddev/comments/1x9zcva/is_this_review_sarcasm/)
+- [Android studio emulator keep allocating ram until OS kills it](https://www.reddit.com/r/androiddev/comments/1x9z58f/android_studio_emulator_keep_allocating_ram_until/)
+- [Non-US resident: Got D-U-N-S for US LLC with registered agent address?](https://www.reddit.com/r/androiddev/comments/1x9szxd/nonus_resident_got_duns_for_us_llc_with/)
 - [Custom code&lpar;Redeem code&rpar; - not showing in in-app purchase payment method](https://www.reddit.com/r/androiddev/comments/1x9ivzh/custom_coderedeem_code_not_showing_in_inapp/)
-- [After 6 years, I am moving on from my hobby project.](https://www.reddit.com/r/androiddev/comments/1x9he8a/after_6_years_i_am_moving_on_from_my_hobby_project/)
-- [Built the gallery app with liquid glass ! iOS 27](https://www.reddit.com/r/androiddev/comments/1x9cq8p/built_the_gallery_app_with_liquid_glass_ios_27/)
-- [google play us changes in 2026 that i almost missed: your listing can be given to third-party stores, and fee reporting started oct 1](https://www.reddit.com/r/androiddev/comments/1x99mkj/google_play_us_changes_in_2026_that_i_almost/)
-- [Cover Activity for Language Change that works on Android 13+?](https://www.reddit.com/r/androiddev/comments/1x9998s/cover_activity_for_language_change_that_works_on/)
-- [I built an open-source Android app around the ByeDPI engine &lpar;written with AI, feedback welcome&rpar;](https://www.reddit.com/r/androiddev/comments/1x97kbg/i_built_an_opensource_android_app_around_the/)
-- [I built an open-source tool that shows what an attacker sees when they decompile your APK](https://www.reddit.com/r/androiddev/comments/1x975yp/i_built_an_opensource_tool_that_shows_what_an/)
-- [Always ask!](https://www.reddit.com/r/androiddev/comments/1x96cn4/always_ask/)
-- [OBS Studio running on android via termux without proot or root.](https://www.reddit.com/r/androiddev/comments/1x93m0w/obs_studio_running_on_android_via_termux_without/)
-- [Where or how to start &lpar;native&rpar; Android development?](https://www.reddit.com/r/androiddev/comments/1x8z7hi/where_or_how_to_start_native_android_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
