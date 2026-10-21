@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android versus iOS review times](https://www.reddit.com/r/androiddev/comments/1xadi9n/android_versus_ios_review_times/)
-- [Do my app really has these users?](https://www.reddit.com/r/androiddev/comments/1xa9ru3/do_my_app_really_has_these_users/)
-- [Seamless Linux app compatibility layer I&#39;ve been working on](https://www.reddit.com/r/androiddev/comments/1xa7fqa/seamless_linux_app_compatibility_layer_ive_been/)
-- [Google Play app review doing disruptive things in production](https://www.reddit.com/r/androiddev/comments/1xa6n16/google_play_app_review_doing_disruptive_things_in/)
-- [AAOS rejections from Google Play team](https://www.reddit.com/r/androiddev/comments/1xa47ln/aaos_rejections_from_google_play_team/)
-- [Can Google Play Protect read data from other apps in the CPU, RAM, and the /data/data/&lt;package_name&gt;/ folder?](https://www.reddit.com/r/androiddev/comments/1xa2sex/can_google_play_protect_read_data_from_other_apps/)
-- [Is this review sarcasm?](https://www.reddit.com/r/androiddev/comments/1x9zcva/is_this_review_sarcasm/)
-- [Android studio emulator keep allocating ram until OS kills it](https://www.reddit.com/r/androiddev/comments/1x9z58f/android_studio_emulator_keep_allocating_ram_until/)
-- [Non-US resident: Got D-U-N-S for US LLC with registered agent address?](https://www.reddit.com/r/androiddev/comments/1x9szxd/nonus_resident_got_duns_for_us_llc_with/)
-- [Custom code&lpar;Redeem code&rpar; - not showing in in-app purchase payment method](https://www.reddit.com/r/androiddev/comments/1x9ivzh/custom_coderedeem_code_not_showing_in_inapp/)
+- [New app Advice](https://www.reddit.com/r/androiddev/comments/1xbd2h8/new_app_advice/)
+- [Transfer files wirelessly WITHOUT ANY INTERNET! #demo #tech #android #ai #vulkan](https://www.reddit.com/r/androiddev/comments/1xbd27p/transfer_files_wirelessly_without_any_internet/)
+- [Jetpack Compose Runtime on Bare-Metal Linux: No Android, No Skia—Direct Rendering to fbdev/DRM](https://www.reddit.com/r/androiddev/comments/1xbcrij/jetpack_compose_runtime_on_baremetal_linux_no/)
+- [Lost 16-year-old legacy signing key for a portfolio of 3 apps &lpar;23M total downloads&rpar;. Is there any hope for a manual Play App Signing enrollment?](https://www.reddit.com/r/androiddev/comments/1xbafzr/lost_16yearold_legacy_signing_key_for_a_portfolio/)
+- [Minicraft: run a Minecraft Java server on your Android phone &lpar;no root, no PC&rpar;](https://www.reddit.com/r/androiddev/comments/1xb95hq/minicraft_run_a_minecraft_java_server_on_your/)
+- [developing android apps in visual studio code ??](https://www.reddit.com/r/androiddev/comments/1xb6ytr/developing_android_apps_in_visual_studio_code/)
+- [[Hiring] Full Stack Mobile Software Engineer &lpar;Swift / Kotlin&rpar; — VAZA | Toronto, Canada | Full-Time, Hybrid](https://www.reddit.com/r/androiddev/comments/1xb5ul8/hiring_full_stack_mobile_software_engineer_swift/)
+- [What does this setting in devloper options REALLY do](https://www.reddit.com/r/androiddev/comments/1xb2xg7/what_does_this_setting_in_devloper_options_really/)
+- [I&#39;ve been building an open source debug toolkit for Android, and now your AI agent can use it too](https://www.reddit.com/r/androiddev/comments/1xazscl/ive_been_building_an_open_source_debug_toolkit/)
+- [AppPublisherX- a private, zero-upload App Store &amp; Google Play screenshot and Promo Videos maker](https://www.reddit.com/r/androiddev/comments/1xaya4y/apppublisherx_a_private_zeroupload_app_store/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
