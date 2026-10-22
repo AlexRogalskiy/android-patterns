@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [New app Advice](https://www.reddit.com/r/androiddev/comments/1xbd2h8/new_app_advice/)
-- [Transfer files wirelessly WITHOUT ANY INTERNET! #demo #tech #android #ai #vulkan](https://www.reddit.com/r/androiddev/comments/1xbd27p/transfer_files_wirelessly_without_any_internet/)
-- [Jetpack Compose Runtime on Bare-Metal Linux: No Android, No Skia—Direct Rendering to fbdev/DRM](https://www.reddit.com/r/androiddev/comments/1xbcrij/jetpack_compose_runtime_on_baremetal_linux_no/)
-- [Lost 16-year-old legacy signing key for a portfolio of 3 apps &lpar;23M total downloads&rpar;. Is there any hope for a manual Play App Signing enrollment?](https://www.reddit.com/r/androiddev/comments/1xbafzr/lost_16yearold_legacy_signing_key_for_a_portfolio/)
-- [Minicraft: run a Minecraft Java server on your Android phone &lpar;no root, no PC&rpar;](https://www.reddit.com/r/androiddev/comments/1xb95hq/minicraft_run_a_minecraft_java_server_on_your/)
-- [developing android apps in visual studio code ??](https://www.reddit.com/r/androiddev/comments/1xb6ytr/developing_android_apps_in_visual_studio_code/)
-- [[Hiring] Full Stack Mobile Software Engineer &lpar;Swift / Kotlin&rpar; — VAZA | Toronto, Canada | Full-Time, Hybrid](https://www.reddit.com/r/androiddev/comments/1xb5ul8/hiring_full_stack_mobile_software_engineer_swift/)
-- [What does this setting in devloper options REALLY do](https://www.reddit.com/r/androiddev/comments/1xb2xg7/what_does_this_setting_in_devloper_options_really/)
-- [I&#39;ve been building an open source debug toolkit for Android, and now your AI agent can use it too](https://www.reddit.com/r/androiddev/comments/1xazscl/ive_been_building_an_open_source_debug_toolkit/)
-- [AppPublisherX- a private, zero-upload App Store &amp; Google Play screenshot and Promo Videos maker](https://www.reddit.com/r/androiddev/comments/1xaya4y/apppublisherx_a_private_zeroupload_app_store/)
+- [How can I run ONNX Runtime inference on the 8 A100 AI cores of a SpacemiT K3 COM260 board running Android/AOSP?](https://www.reddit.com/r/androiddev/comments/1xc9icv/how_can_i_run_onnx_runtime_inference_on_the_8/)
+- [Google Android interview](https://www.reddit.com/r/androiddev/comments/1xc9gl4/google_android_interview/)
+- [Armor Mayhem &lpar;.swf&rpar; to Android: WebView + Ruffle performance issue](https://www.reddit.com/r/androiddev/comments/1xc2gpd/armor_mayhem_swf_to_android_webview_ruffle/)
+- [Claude Code Mods for Android Developers- Have you experimented with them?](https://www.reddit.com/r/androiddev/comments/1xbv058/claude_code_mods_for_android_developers_have_you/)
+- [Android phones can transfer at speeds of 32+ Mbps](https://www.reddit.com/r/androiddev/comments/1xbrv6f/android_phones_can_transfer_at_speeds_of_32_mbps/)
+- [Android Studio Rabbit 2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1xbr1xu/android_studio_rabbit_2_rc_1_now_available/)
+- [Have anyone used fastlane? is there any way to publish android app through api?](https://www.reddit.com/r/androiddev/comments/1xbqeso/have_anyone_used_fastlane_is_there_any_way_to/)
+- [DEX code optimization deadline, but R8 triggers &quot;Unresponsive App&quot; rejection](https://www.reddit.com/r/androiddev/comments/1xbpugc/dex_code_optimization_deadline_but_r8_triggers/)
+- [Android Webview autocorrects word on website](https://www.reddit.com/r/androiddev/comments/1xbkgy6/android_webview_autocorrects_word_on_website/)
+- [Preventing screenshots in recording and recent thumbnails or task switcher and showing black screen](https://www.reddit.com/r/androiddev/comments/1xbkahm/preventing_screenshots_in_recording_and_recent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
