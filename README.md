@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Consejos sobre arquitectura y rendimiento para un MVP de red social con chat en tiempo real🚀](https://www.reddit.com/r/androiddev/comments/1xczd2d/consejos_sobre_arquitectura_y_rendimiento_para_un/)
+- [Android&#39;s strings.xml to iOS formats converter without breaking placeholders](https://www.reddit.com/r/androiddev/comments/1xcse8h/androids_stringsxml_to_ios_formats_converter/)
+- [We gave AI agents a mobile dev environment &lpar;2026&rpar;](https://www.reddit.com/r/androiddev/comments/1xcpoit/we_gave_ai_agents_a_mobile_dev_environment_2026/)
+- [Android Studio Rabbit 3 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1xco5pu/android_studio_rabbit_3_canary_1_now_available/)
+- [Title: Any developers here who could help bring D-Day: Frontier Commander back to modern Android?](https://www.reddit.com/r/androiddev/comments/1xcgqwm/title_any_developers_here_who_could_help_bring/)
+- [Weird Wifi behaviour](https://www.reddit.com/r/androiddev/comments/1xcghqj/weird_wifi_behaviour/)
+- [Reviewing agent written Compose PRs takes more effort than it used to](https://www.reddit.com/r/androiddev/comments/1xccih7/reviewing_agent_written_compose_prs_takes_more/)
+- [Thinking about what should we build](https://www.reddit.com/r/androiddev/comments/1xcb7wp/thinking_about_what_should_we_build/)
+- [Event Box: on-device overlay to see and validate Firebase Analytics events &lpar;no cable, no logcat&rpar;](https://www.reddit.com/r/androiddev/comments/1xcazoz/event_box_ondevice_overlay_to_see_and_validate/)
 - [How can I run ONNX Runtime inference on the 8 A100 AI cores of a SpacemiT K3 COM260 board running Android/AOSP?](https://www.reddit.com/r/androiddev/comments/1xc9icv/how_can_i_run_onnx_runtime_inference_on_the_8/)
-- [Google Android interview](https://www.reddit.com/r/androiddev/comments/1xc9gl4/google_android_interview/)
-- [Armor Mayhem &lpar;.swf&rpar; to Android: WebView + Ruffle performance issue](https://www.reddit.com/r/androiddev/comments/1xc2gpd/armor_mayhem_swf_to_android_webview_ruffle/)
-- [Claude Code Mods for Android Developers- Have you experimented with them?](https://www.reddit.com/r/androiddev/comments/1xbv058/claude_code_mods_for_android_developers_have_you/)
-- [Android phones can transfer at speeds of 32+ Mbps](https://www.reddit.com/r/androiddev/comments/1xbrv6f/android_phones_can_transfer_at_speeds_of_32_mbps/)
-- [Android Studio Rabbit 2 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1xbr1xu/android_studio_rabbit_2_rc_1_now_available/)
-- [Have anyone used fastlane? is there any way to publish android app through api?](https://www.reddit.com/r/androiddev/comments/1xbqeso/have_anyone_used_fastlane_is_there_any_way_to/)
-- [DEX code optimization deadline, but R8 triggers &quot;Unresponsive App&quot; rejection](https://www.reddit.com/r/androiddev/comments/1xbpugc/dex_code_optimization_deadline_but_r8_triggers/)
-- [Android Webview autocorrects word on website](https://www.reddit.com/r/androiddev/comments/1xbkgy6/android_webview_autocorrects_word_on_website/)
-- [Preventing screenshots in recording and recent thumbnails or task switcher and showing black screen](https://www.reddit.com/r/androiddev/comments/1xbkahm/preventing_screenshots_in_recording_and_recent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
