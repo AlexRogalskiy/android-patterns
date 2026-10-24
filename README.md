@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Consejos sobre arquitectura y rendimiento para un MVP de red social con chat en tiempo real🚀](https://www.reddit.com/r/androiddev/comments/1xczd2d/consejos_sobre_arquitectura_y_rendimiento_para_un/)
+- [layout of my Fediverse feed aggregator](https://www.reddit.com/r/androiddev/comments/1xdtjjq/layout_of_my_fediverse_feed_aggregator/)
+- [Need help on the approach to authentication I should use for my mobile app](https://www.reddit.com/r/androiddev/comments/1xdijxv/need_help_on_the_approach_to_authentication_i/)
+- [Compose UI for LED matrix](https://www.reddit.com/r/androiddev/comments/1xdd27y/compose_ui_for_led_matrix/)
+- [Speedrun PB &lpar;16:00.00 any% glitchless&rpar; - Never had an update get reviewed and published this fast](https://www.reddit.com/r/androiddev/comments/1xdbs3f/speedrun_pb_160000_any_glitchless_never_had_an/)
+- [Android app testing](https://www.reddit.com/r/androiddev/comments/1xda7fp/android_app_testing/)
+- [How to Give Testers Free Pro Access During Google Play Closed Testing?](https://www.reddit.com/r/androiddev/comments/1xd84t0/how_to_give_testers_free_pro_access_during_google/)
+- [Jetpack DataStore v1.3.0 ships datastore-tink for encryption support](https://www.reddit.com/r/androiddev/comments/1xd6ths/jetpack_datastore_v130_ships_datastoretink_for/)
+- [Understanding memory usage of Android apps in production](https://www.reddit.com/r/androiddev/comments/1xd5scz/understanding_memory_usage_of_android_apps_in/)
 - [Android&#39;s strings.xml to iOS formats converter without breaking placeholders](https://www.reddit.com/r/androiddev/comments/1xcse8h/androids_stringsxml_to_ios_formats_converter/)
-- [We gave AI agents a mobile dev environment &lpar;2026&rpar;](https://www.reddit.com/r/androiddev/comments/1xcpoit/we_gave_ai_agents_a_mobile_dev_environment_2026/)
 - [Android Studio Rabbit 3 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1xco5pu/android_studio_rabbit_3_canary_1_now_available/)
-- [Title: Any developers here who could help bring D-Day: Frontier Commander back to modern Android?](https://www.reddit.com/r/androiddev/comments/1xcgqwm/title_any_developers_here_who_could_help_bring/)
-- [Weird Wifi behaviour](https://www.reddit.com/r/androiddev/comments/1xcghqj/weird_wifi_behaviour/)
-- [Reviewing agent written Compose PRs takes more effort than it used to](https://www.reddit.com/r/androiddev/comments/1xccih7/reviewing_agent_written_compose_prs_takes_more/)
-- [Thinking about what should we build](https://www.reddit.com/r/androiddev/comments/1xcb7wp/thinking_about_what_should_we_build/)
-- [Event Box: on-device overlay to see and validate Firebase Analytics events &lpar;no cable, no logcat&rpar;](https://www.reddit.com/r/androiddev/comments/1xcazoz/event_box_ondevice_overlay_to_see_and_validate/)
-- [How can I run ONNX Runtime inference on the 8 A100 AI cores of a SpacemiT K3 COM260 board running Android/AOSP?](https://www.reddit.com/r/androiddev/comments/1xc9icv/how_can_i_run_onnx_runtime_inference_on_the_8/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
