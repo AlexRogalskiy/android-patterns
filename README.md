@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How long does a Google Play app transfer usually take?](https://www.reddit.com/r/androiddev/comments/1xesiwj/how_long_does_a_google_play_app_transfer_usually/)
+- [Mobile devs: did the Gravy Analytics breach change anything for you?](https://www.reddit.com/r/androiddev/comments/1xep86v/mobile_devs_did_the_gravy_analytics_breach_change/)
+- [What if AI agents could edit your running Compose UI without recompiling Gradle?](https://www.reddit.com/r/androiddev/comments/1xelzz4/what_if_ai_agents_could_edit_your_running_compose/)
+- [Hefesto: Mobile dev studio with AI and Linux](https://www.reddit.com/r/androiddev/comments/1xek2ud/hefesto_mobile_dev_studio_with_ai_and_linux/)
+- [Horrible bug hunt.](https://www.reddit.com/r/androiddev/comments/1xek1xp/horrible_bug_hunt/)
+- [Made a liquid glass lib for Compose, with shaders tuned side by side with a real iPhone. Happy for anyone to use it or contribute to porting it fully.](https://www.reddit.com/r/androiddev/comments/1xeifm7/made_a_liquid_glass_lib_for_compose_with_shaders/)
+- [App devs who build for clients: how do you get access to their App Store Connect and Google Play?](https://www.reddit.com/r/androiddev/comments/1xea4ec/app_devs_who_build_for_clients_how_do_you_get/)
 - [layout of my Fediverse feed aggregator](https://www.reddit.com/r/androiddev/comments/1xdtjjq/layout_of_my_fediverse_feed_aggregator/)
 - [Need help on the approach to authentication I should use for my mobile app](https://www.reddit.com/r/androiddev/comments/1xdijxv/need_help_on_the_approach_to_authentication_i/)
 - [Compose UI for LED matrix](https://www.reddit.com/r/androiddev/comments/1xdd27y/compose_ui_for_led_matrix/)
-- [Speedrun PB &lpar;16:00.00 any% glitchless&rpar; - Never had an update get reviewed and published this fast](https://www.reddit.com/r/androiddev/comments/1xdbs3f/speedrun_pb_160000_any_glitchless_never_had_an/)
-- [Android app testing](https://www.reddit.com/r/androiddev/comments/1xda7fp/android_app_testing/)
-- [How to Give Testers Free Pro Access During Google Play Closed Testing?](https://www.reddit.com/r/androiddev/comments/1xd84t0/how_to_give_testers_free_pro_access_during_google/)
-- [Jetpack DataStore v1.3.0 ships datastore-tink for encryption support](https://www.reddit.com/r/androiddev/comments/1xd6ths/jetpack_datastore_v130_ships_datastoretink_for/)
-- [Understanding memory usage of Android apps in production](https://www.reddit.com/r/androiddev/comments/1xd5scz/understanding_memory_usage_of_android_apps_in/)
-- [Android&#39;s strings.xml to iOS formats converter without breaking placeholders](https://www.reddit.com/r/androiddev/comments/1xcse8h/androids_stringsxml_to_ios_formats_converter/)
-- [Android Studio Rabbit 3 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1xco5pu/android_studio_rabbit_3_canary_1_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
