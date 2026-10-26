@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I be Doing DSA in Kotlin?](https://www.reddit.com/r/androiddev/comments/1xfly6o/should_i_be_doing_dsa_in_kotlin/)
+- [Frustrated as I tried to make my first developer account &lpar;where did I go wrong?&rpar;](https://www.reddit.com/r/androiddev/comments/1xfiyiu/frustrated_as_i_tried_to_make_my_first_developer/)
+- [I built a free, open-source launcher + TV OS layer for cheap Android TVs and For your Modern ones too.](https://www.reddit.com/r/androiddev/comments/1xf95ae/i_built_a_free_opensource_launcher_tv_os_layer/)
+- [NetPulse: a small Android app for live ping, jitter and packet loss &lpar;beta, looking for feedback&rpar;](https://www.reddit.com/r/androiddev/comments/1xf8pkg/netpulse_a_small_android_app_for_live_ping_jitter/)
+- [Android Developer Story: Pocket FM cuts 50% in development time with Gemini in Android Studio](https://www.reddit.com/r/androiddev/comments/1xf04no/android_developer_story_pocket_fm_cuts_50_in/)
 - [How long does a Google Play app transfer usually take?](https://www.reddit.com/r/androiddev/comments/1xesiwj/how_long_does_a_google_play_app_transfer_usually/)
 - [Mobile devs: did the Gravy Analytics breach change anything for you?](https://www.reddit.com/r/androiddev/comments/1xep86v/mobile_devs_did_the_gravy_analytics_breach_change/)
-- [What if AI agents could edit your running Compose UI without recompiling Gradle?](https://www.reddit.com/r/androiddev/comments/1xelzz4/what_if_ai_agents_could_edit_your_running_compose/)
 - [Hefesto: Mobile dev studio with AI and Linux](https://www.reddit.com/r/androiddev/comments/1xek2ud/hefesto_mobile_dev_studio_with_ai_and_linux/)
 - [Horrible bug hunt.](https://www.reddit.com/r/androiddev/comments/1xek1xp/horrible_bug_hunt/)
 - [Made a liquid glass lib for Compose, with shaders tuned side by side with a real iPhone. Happy for anyone to use it or contribute to porting it fully.](https://www.reddit.com/r/androiddev/comments/1xeifm7/made_a_liquid_glass_lib_for_compose_with_shaders/)
-- [App devs who build for clients: how do you get access to their App Store Connect and Google Play?](https://www.reddit.com/r/androiddev/comments/1xea4ec/app_devs_who_build_for_clients_how_do_you_get/)
-- [layout of my Fediverse feed aggregator](https://www.reddit.com/r/androiddev/comments/1xdtjjq/layout_of_my_fediverse_feed_aggregator/)
-- [Need help on the approach to authentication I should use for my mobile app](https://www.reddit.com/r/androiddev/comments/1xdijxv/need_help_on_the_approach_to_authentication_i/)
-- [Compose UI for LED matrix](https://www.reddit.com/r/androiddev/comments/1xdd27y/compose_ui_for_led_matrix/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
