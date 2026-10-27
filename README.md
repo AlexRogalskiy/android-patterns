@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Should I be Doing DSA in Kotlin?](https://www.reddit.com/r/androiddev/comments/1xfly6o/should_i_be_doing_dsa_in_kotlin/)
-- [Frustrated as I tried to make my first developer account &lpar;where did I go wrong?&rpar;](https://www.reddit.com/r/androiddev/comments/1xfiyiu/frustrated_as_i_tried_to_make_my_first_developer/)
-- [I built a free, open-source launcher + TV OS layer for cheap Android TVs and For your Modern ones too.](https://www.reddit.com/r/androiddev/comments/1xf95ae/i_built_a_free_opensource_launcher_tv_os_layer/)
-- [NetPulse: a small Android app for live ping, jitter and packet loss &lpar;beta, looking for feedback&rpar;](https://www.reddit.com/r/androiddev/comments/1xf8pkg/netpulse_a_small_android_app_for_live_ping_jitter/)
-- [Android Developer Story: Pocket FM cuts 50% in development time with Gemini in Android Studio](https://www.reddit.com/r/androiddev/comments/1xf04no/android_developer_story_pocket_fm_cuts_50_in/)
-- [How long does a Google Play app transfer usually take?](https://www.reddit.com/r/androiddev/comments/1xesiwj/how_long_does_a_google_play_app_transfer_usually/)
-- [Mobile devs: did the Gravy Analytics breach change anything for you?](https://www.reddit.com/r/androiddev/comments/1xep86v/mobile_devs_did_the_gravy_analytics_breach_change/)
-- [Hefesto: Mobile dev studio with AI and Linux](https://www.reddit.com/r/androiddev/comments/1xek2ud/hefesto_mobile_dev_studio_with_ai_and_linux/)
-- [Horrible bug hunt.](https://www.reddit.com/r/androiddev/comments/1xek1xp/horrible_bug_hunt/)
-- [Made a liquid glass lib for Compose, with shaders tuned side by side with a real iPhone. Happy for anyone to use it or contribute to porting it fully.](https://www.reddit.com/r/androiddev/comments/1xeifm7/made_a_liquid_glass_lib_for_compose_with_shaders/)
+- [Android keystore 101 [what an Android keystore is, how upload &amp; app signing keys work with Play App Signing, and how to keep keystores safe in CI]](https://www.reddit.com/r/androiddev/comments/1xgkd0d/android_keystore_101_what_an_android_keystore_is/)
+- [Wanted to create a virtual camera](https://www.reddit.com/r/androiddev/comments/1xgg3qi/wanted_to_create_a_virtual_camera/)
+- [Acephale PDF Reader](https://www.reddit.com/r/androiddev/comments/1xgdzk8/acephale_pdf_reader/)
+- [How long do Google apps spend in the review queue?](https://www.reddit.com/r/androiddev/comments/1xg9z4g/how_long_do_google_apps_spend_in_the_review_queue/)
+- [Getting a model to genuinely run on the Hexagon NPU from a Kotlin app &lpar;Snapdragon 8s Gen 3 / V73&rpar;: anyone shipped this?](https://www.reddit.com/r/androiddev/comments/1xg7mxm/getting_a_model_to_genuinely_run_on_the_hexagon/)
+- [need help](https://www.reddit.com/r/androiddev/comments/1xg5gdp/need_help/)
+- [[Android] &quot;Hey Claude&quot; wake word without keeping the mic open 24/7: any free, reliable approach?](https://www.reddit.com/r/androiddev/comments/1xg4vg8/android_hey_claude_wake_word_without_keeping_the/)
+- [How can I replace Android&#39;s default DocumentsUI file picker with another file manager on Samsung Is it possible without root?](https://www.reddit.com/r/androiddev/comments/1xg2ecj/how_can_i_replace_androids_default_documentsui/)
+- [[Showdev] Built an on-device LLM runtime &amp; hardware accelerator detector in Kotlin &amp; C++17 NDK &lpar;llama.cpp, 7.7 tok/s on Snapdragon 8 Gen 1, zero JVM heap overhead&rpar;](https://www.reddit.com/r/androiddev/comments/1xg19zg/showdev_built_an_ondevice_llm_runtime_hardware/)
+- [Android Studio Rabbit 2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1xg0txh/android_studio_rabbit_2_rc_2_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
