@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android keystore 101 [what an Android keystore is, how upload &amp; app signing keys work with Play App Signing, and how to keep keystores safe in CI]](https://www.reddit.com/r/androiddev/comments/1xgkd0d/android_keystore_101_what_an_android_keystore_is/)
-- [Wanted to create a virtual camera](https://www.reddit.com/r/androiddev/comments/1xgg3qi/wanted_to_create_a_virtual_camera/)
-- [Acephale PDF Reader](https://www.reddit.com/r/androiddev/comments/1xgdzk8/acephale_pdf_reader/)
-- [How long do Google apps spend in the review queue?](https://www.reddit.com/r/androiddev/comments/1xg9z4g/how_long_do_google_apps_spend_in_the_review_queue/)
-- [Getting a model to genuinely run on the Hexagon NPU from a Kotlin app &lpar;Snapdragon 8s Gen 3 / V73&rpar;: anyone shipped this?](https://www.reddit.com/r/androiddev/comments/1xg7mxm/getting_a_model_to_genuinely_run_on_the_hexagon/)
-- [need help](https://www.reddit.com/r/androiddev/comments/1xg5gdp/need_help/)
-- [[Android] &quot;Hey Claude&quot; wake word without keeping the mic open 24/7: any free, reliable approach?](https://www.reddit.com/r/androiddev/comments/1xg4vg8/android_hey_claude_wake_word_without_keeping_the/)
-- [How can I replace Android&#39;s default DocumentsUI file picker with another file manager on Samsung Is it possible without root?](https://www.reddit.com/r/androiddev/comments/1xg2ecj/how_can_i_replace_androids_default_documentsui/)
-- [[Showdev] Built an on-device LLM runtime &amp; hardware accelerator detector in Kotlin &amp; C++17 NDK &lpar;llama.cpp, 7.7 tok/s on Snapdragon 8 Gen 1, zero JVM heap overhead&rpar;](https://www.reddit.com/r/androiddev/comments/1xg19zg/showdev_built_an_ondevice_llm_runtime_hardware/)
-- [Android Studio Rabbit 2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1xg0txh/android_studio_rabbit_2_rc_2_now_available/)
+- [Android Studio for Windows on ARM, Finally!](https://www.reddit.com/r/androiddev/comments/1xhexee/android_studio_for_windows_on_arm_finally/)
+- [I made this Android TV debloater, it just passed 1,000 downloads in 3 days](https://www.reddit.com/r/androiddev/comments/1xh2m7f/i_made_this_android_tv_debloater_it_just_passed/)
+- [Why do I need a review when promoting from beta to production?](https://www.reddit.com/r/androiddev/comments/1xgyp7p/why_do_i_need_a_review_when_promoting_from_beta/)
+- [Gradle vs Kotlin Toolchain: Project Structure Side By Side](https://www.reddit.com/r/androiddev/comments/1xgv51n/gradle_vs_kotlin_toolchain_project_structure_side/)
+- [How do you like working in Big Tech?](https://www.reddit.com/r/androiddev/comments/1xguxtb/how_do_you_like_working_in_big_tech/)
+- [Play Store submission info](https://www.reddit.com/r/androiddev/comments/1xgupvp/play_store_submission_info/)
+- [Building an Android IDE on Android itself is much harder than I expected 😭](https://www.reddit.com/r/androiddev/comments/1xgr1n2/building_an_android_ide_on_android_itself_is_much/)
+- [Does Google play allow a lock screen app with no in-app exit?](https://www.reddit.com/r/androiddev/comments/1xgqjuy/does_google_play_allow_a_lock_screen_app_with_no/)
+- [Megathread: AndroidDev Summit 2026](https://www.reddit.com/r/androiddev/comments/1xgntp7/megathread_androiddev_summit_2026/)
+- [Help needed. App email verification emails are landing in spam. How do I fix this?](https://www.reddit.com/r/androiddev/comments/1xgm81y/help_needed_app_email_verification_emails_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
