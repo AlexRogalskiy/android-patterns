@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio for Windows on ARM, Finally!](https://www.reddit.com/r/androiddev/comments/1xhexee/android_studio_for_windows_on_arm_finally/)
-- [I made this Android TV debloater, it just passed 1,000 downloads in 3 days](https://www.reddit.com/r/androiddev/comments/1xh2m7f/i_made_this_android_tv_debloater_it_just_passed/)
-- [Why do I need a review when promoting from beta to production?](https://www.reddit.com/r/androiddev/comments/1xgyp7p/why_do_i_need_a_review_when_promoting_from_beta/)
-- [Gradle vs Kotlin Toolchain: Project Structure Side By Side](https://www.reddit.com/r/androiddev/comments/1xgv51n/gradle_vs_kotlin_toolchain_project_structure_side/)
-- [How do you like working in Big Tech?](https://www.reddit.com/r/androiddev/comments/1xguxtb/how_do_you_like_working_in_big_tech/)
-- [Play Store submission info](https://www.reddit.com/r/androiddev/comments/1xgupvp/play_store_submission_info/)
-- [Building an Android IDE on Android itself is much harder than I expected 😭](https://www.reddit.com/r/androiddev/comments/1xgr1n2/building_an_android_ide_on_android_itself_is_much/)
-- [Does Google play allow a lock screen app with no in-app exit?](https://www.reddit.com/r/androiddev/comments/1xgqjuy/does_google_play_allow_a_lock_screen_app_with_no/)
-- [Megathread: AndroidDev Summit 2026](https://www.reddit.com/r/androiddev/comments/1xgntp7/megathread_androiddev_summit_2026/)
-- [Help needed. App email verification emails are landing in spam. How do I fix this?](https://www.reddit.com/r/androiddev/comments/1xgm81y/help_needed_app_email_verification_emails_are/)
+- [Months stuck in Google Play tax verification as a non-US owner of a US LLC](https://www.reddit.com/r/androiddev/comments/1xibors/months_stuck_in_google_play_tax_verification_as_a/)
+- [Question about voluntary tips and Google Play policies](https://www.reddit.com/r/androiddev/comments/1xi4ej6/question_about_voluntary_tips_and_google_play/)
+- [Get Started with Lightbuild | A Declarative Build System for Android](https://www.reddit.com/r/androiddev/comments/1xi0uv4/get_started_with_lightbuild_a_declarative_build/)
+- [UsageStatsManager foreground time is surprisingly easy to get wrong &lpar;splash screens, TWAs, warm starts&rpar;](https://www.reddit.com/r/androiddev/comments/1xhykbx/usagestatsmanager_foreground_time_is_surprisingly/)
+- [Your favorite agents are now integrated in Android Studio | Android Developers&#39; Blog](https://www.reddit.com/r/androiddev/comments/1xhxqpr/your_favorite_agents_are_now_integrated_in/)
+- [What&#39;s new in Android developer tools and performance at Android Dev Summit | Android Developers&#39; Blog](https://www.reddit.com/r/androiddev/comments/1xhxqb4/whats_new_in_android_developer_tools_and/)
+- [Agentic and Flexible: A next era of Android development | Android Developers&#39; Blog](https://www.reddit.com/r/androiddev/comments/1xhxp00/agentic_and_flexible_a_next_era_of_android/)
+- [I built a Compose Multiplatform library for interactive directed graphs &lpar;now in beta&rpar;](https://www.reddit.com/r/androiddev/comments/1xht8bf/i_built_a_compose_multiplatform_library_for/)
+- [Speedrun, an open-source mobile E2E test runner that runs your Maestro flows up to 8x faster](https://www.reddit.com/r/androiddev/comments/1xhsjzz/speedrun_an_opensource_mobile_e2e_test_runner/)
+- [Interesting Android Apps Showcase posts, are they gone for good?](https://www.reddit.com/r/androiddev/comments/1xhqq9q/interesting_android_apps_showcase_posts_are_they/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
