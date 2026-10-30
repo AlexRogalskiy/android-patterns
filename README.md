@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Months stuck in Google Play tax verification as a non-US owner of a US LLC](https://www.reddit.com/r/androiddev/comments/1xibors/months_stuck_in_google_play_tax_verification_as_a/)
-- [Question about voluntary tips and Google Play policies](https://www.reddit.com/r/androiddev/comments/1xi4ej6/question_about_voluntary_tips_and_google_play/)
-- [Get Started with Lightbuild | A Declarative Build System for Android](https://www.reddit.com/r/androiddev/comments/1xi0uv4/get_started_with_lightbuild_a_declarative_build/)
-- [UsageStatsManager foreground time is surprisingly easy to get wrong &lpar;splash screens, TWAs, warm starts&rpar;](https://www.reddit.com/r/androiddev/comments/1xhykbx/usagestatsmanager_foreground_time_is_surprisingly/)
-- [Your favorite agents are now integrated in Android Studio | Android Developers&#39; Blog](https://www.reddit.com/r/androiddev/comments/1xhxqpr/your_favorite_agents_are_now_integrated_in/)
-- [What&#39;s new in Android developer tools and performance at Android Dev Summit | Android Developers&#39; Blog](https://www.reddit.com/r/androiddev/comments/1xhxqb4/whats_new_in_android_developer_tools_and/)
-- [Agentic and Flexible: A next era of Android development | Android Developers&#39; Blog](https://www.reddit.com/r/androiddev/comments/1xhxp00/agentic_and_flexible_a_next_era_of_android/)
-- [I built a Compose Multiplatform library for interactive directed graphs &lpar;now in beta&rpar;](https://www.reddit.com/r/androiddev/comments/1xht8bf/i_built_a_compose_multiplatform_library_for/)
-- [Speedrun, an open-source mobile E2E test runner that runs your Maestro flows up to 8x faster](https://www.reddit.com/r/androiddev/comments/1xhsjzz/speedrun_an_opensource_mobile_e2e_test_runner/)
-- [Interesting Android Apps Showcase posts, are they gone for good?](https://www.reddit.com/r/androiddev/comments/1xhqq9q/interesting_android_apps_showcase_posts_are_they/)
+- [2 Ways of Exporting Compose previews](https://www.reddit.com/r/androiddev/comments/1xj806s/2_ways_of_exporting_compose_previews/)
+- [I am Beginner : ViewModel vs rememberSaveable for surviving rotation. When do you use which?](https://www.reddit.com/r/androiddev/comments/1xj53zz/i_am_beginner_viewmodel_vs_remembersaveable_for/)
+- [Declarative, agent-ready Android builds with Lightbuild](https://www.reddit.com/r/androiddev/comments/1xj4mal/declarative_agentready_android_builds_with/)
+- [Google Play keeps rejecting my AccessibilityService disclosure even after an appeal. What am I missing?](https://www.reddit.com/r/androiddev/comments/1xix5g6/google_play_keeps_rejecting_my/)
+- [AS Rabbit 2 is a mess for me](https://www.reddit.com/r/androiddev/comments/1xiteh0/as_rabbit_2_is_a_mess_for_me/)
+- [Edge-to-Edge false positive in Google Play Console](https://www.reddit.com/r/androiddev/comments/1xinybi/edgetoedge_false_positive_in_google_play_console/)
+- [I built a haunted house to show off custom hidden-text reveals in Enriched Markdown, a native Jetpack Compose Markdown renderer](https://www.reddit.com/r/androiddev/comments/1xin67q/i_built_a_haunted_house_to_show_off_custom/)
+- [Does Samsung grant the SMS app more permissions than asked?](https://www.reddit.com/r/androiddev/comments/1xiduih/does_samsung_grant_the_sms_app_more_permissions/)
+- [My open-source Jetpack Compose accessibility scanner got accepted at CSUN 2027!](https://www.reddit.com/r/androiddev/comments/1xidqn5/my_opensource_jetpack_compose_accessibility/)
+- [How do you test your Android apps under different network conditions?](https://www.reddit.com/r/androiddev/comments/1xicm9d/how_do_you_test_your_android_apps_under_different/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
