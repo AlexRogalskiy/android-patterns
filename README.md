@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MMI complete](https://www.reddit.com/r/androiddev/comments/1xkvxal/mmi_complete/)
+- [How to keep wireless debugging on 24/7 even after restarts?](https://www.reddit.com/r/androiddev/comments/1xk5cd1/how_to_keep_wireless_debugging_on_247_even_after/)
 - [OutlinedTextField squeezed to one character wide inside a Row: what&#39;s your go-to fix?](https://www.reddit.com/r/androiddev/comments/1xk2d4q/outlinedtextfield_squeezed_to_one_character_wide/)
-- [CBR and CBZ Reader](https://www.reddit.com/r/androiddev/comments/1xjzbhx/cbr_and_cbz_reader/)
 - [Building a DevTools protocol for inspecting Jetpack Compose and Android Views](https://www.reddit.com/r/androiddev/comments/1xjy2o5/building_a_devtools_protocol_for_inspecting/)
 - [Google just released AppState — is it actually better than SharedViewModel for shared state?](https://www.reddit.com/r/androiddev/comments/1xjruub/google_just_released_appstate_is_it_actually/)
 - [More confusion about ACCESS_LOCAL_NETWORK](https://www.reddit.com/r/androiddev/comments/1xjljuq/more_confusion_about_access_local_network/)
 - [How are AI assistants actually helping your Android development workflow?](https://www.reddit.com/r/androiddev/comments/1xjjk0o/how_are_ai_assistants_actually_helping_your/)
-- [Google&#39;s deep integration to the chips](https://www.reddit.com/r/androiddev/comments/1xjdq2a/googles_deep_integration_to_the_chips/)
-- [A free &amp; local document signing/editing tool - Skruxem](https://www.reddit.com/r/androiddev/comments/1xjdlmv/a_free_local_document_signingediting_tool_skruxem/)
 - [Struggling with ACCESS_LOCAL_NETWORK permission for Android 17](https://www.reddit.com/r/androiddev/comments/1xjdawv/struggling_with_access_local_network_permission/)
 - [Google Play Developer Program Policy Update - 2026-10-29](https://www.reddit.com/r/androiddev/comments/1xjanjr/google_play_developer_program_policy_update/)
+- [Why emulator takes 80% cpu on a MB Air M4 ? Any alternative?](https://www.reddit.com/r/androiddev/comments/1xjajkk/why_emulator_takes_80_cpu_on_a_mb_air_m4_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
