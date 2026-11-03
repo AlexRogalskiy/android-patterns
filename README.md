@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you organise unit tests for formula-heavy code?](https://www.reddit.com/r/androiddev/comments/1xlpf97/how_do_you_organise_unit_tests_for_formulaheavy/)
-- [Update on SmolChat - OpenAI server, Support for Global Chat Settings, Direct Model Downloads and more](https://www.reddit.com/r/androiddev/comments/1xlk8yw/update_on_smolchat_openai_server_support_for/)
-- [Anyone else getting tired of constantly having to relearn Android development?](https://www.reddit.com/r/androiddev/comments/1xljzr4/anyone_else_getting_tired_of_constantly_having_to/)
-- [Can you preview compose UI with a lightweight viewer?](https://www.reddit.com/r/androiddev/comments/1xldh5p/can_you_preview_compose_ui_with_a_lightweight/)
-- [Running Demucs stem separation on an Android phone in the background – what it took &lpar;ONNX Runtime, 3.9 s chunks, under 2 GB RAM&rpar;](https://www.reddit.com/r/androiddev/comments/1xla59b/running_demucs_stem_separation_on_an_android/)
-- [Do I need to include my ID number / tax ID number in the legal terms?](https://www.reddit.com/r/androiddev/comments/1xl624t/do_i_need_to_include_my_id_number_tax_id_number/)
-- [Is LiveData still worth learning in 2026, or is StateFlow the default now?](https://www.reddit.com/r/androiddev/comments/1xl4xri/is_livedata_still_worth_learning_in_2026_or_is/)
-- [Google Play Support is auto-closing backend profile mismatch tickets without reading them. Has anyone successfully forced a manual Payments Profile re-link?](https://www.reddit.com/r/androiddev/comments/1xl3gv5/google_play_support_is_autoclosing_backend/)
-- [Showcase: TMPlayer, Kotlin + TDLib + Compose on TV, phone and desktop](https://www.reddit.com/r/androiddev/comments/1xl3152/showcase_tmplayer_kotlin_tdlib_compose_on_tv/)
-- [I built an Android-native AI coding agent running Ubuntu 24.04 PRoot. Today, it compiled and built its own APK on my phone.](https://www.reddit.com/r/androiddev/comments/1xl2792/i_built_an_androidnative_ai_coding_agent_running/)
+- [thats my apk for you native java and feature hex auditor and reverse tool .](https://www.reddit.com/r/androiddev/comments/1xml8ar/thats_my_apk_for_you_native_java_and_feature_hex/)
+- [I finally published an Android app that I&#39;d actually use myself to dip my toes into android dev](https://www.reddit.com/r/androiddev/comments/1xmjspb/i_finally_published_an_android_app_that_id/)
+- [I feel like my app&#39;s design is really bad even when i redesign it. I can&#39;t look at it and think it&#39;s good](https://www.reddit.com/r/androiddev/comments/1xm62ws/i_feel_like_my_apps_design_is_really_bad_even/)
+- [ICYMI: Every Android Dev Summit 2026 VOD is now live, and it’s now easier than ever to get caught up!](https://www.reddit.com/r/androiddev/comments/1xm59v9/icymi_every_android_dev_summit_2026_vod_is_now/)
+- [Haze 2.1: Shatterproof Glass](https://www.reddit.com/r/androiddev/comments/1xm518d/haze_21_shatterproof_glass/)
+- [App Memory Usage Test](https://www.reddit.com/r/androiddev/comments/1xm2nr8/app_memory_usage_test/)
+- [How to update to Play Billing 8.0+](https://www.reddit.com/r/androiddev/comments/1xm1l0t/how_to_update_to_play_billing_80/)
+- [System bar appearance API for Compose Multiplatform apps](https://www.reddit.com/r/androiddev/comments/1xltmcf/system_bar_appearance_api_for_compose/)
+- [Architecture discussion: Client-side JIT stream resolution and handling Media3 background network drops in Compose](https://www.reddit.com/r/androiddev/comments/1xltfoi/architecture_discussion_clientside_jit_stream/)
+- [I made an Android Studio plugin that previews iconfont glyphs beside your code](https://www.reddit.com/r/androiddev/comments/1xlr0v0/i_made_an_android_studio_plugin_that_previews/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
