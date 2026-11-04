@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [thats my apk for you native java and feature hex auditor and reverse tool .](https://www.reddit.com/r/androiddev/comments/1xml8ar/thats_my_apk_for_you_native_java_and_feature_hex/)
-- [I finally published an Android app that I&#39;d actually use myself to dip my toes into android dev](https://www.reddit.com/r/androiddev/comments/1xmjspb/i_finally_published_an_android_app_that_id/)
+- [I’ve completely revamped my Android music player, and it’s finally at a place where I&#39;m happy with it!](https://www.reddit.com/r/androiddev/comments/1xnh4pl/ive_completely_revamped_my_android_music_player/)
+- [It looks like StubHub published their internal app on the Play Store](https://www.reddit.com/r/androiddev/comments/1xnfa3w/it_looks_like_stubhub_published_their_internal/)
+- [What should Android do in the age of AI?](https://www.reddit.com/r/androiddev/comments/1xnbsjs/what_should_android_do_in_the_age_of_ai/)
+- [How can I emulate Android 2.3.7 on android studio](https://www.reddit.com/r/androiddev/comments/1xn8v0w/how_can_i_emulate_android_237_on_android_studio/)
+- [How do you handle porting and maintaining native Android and iOS apps? I&#39;m exploring a possible solution.](https://www.reddit.com/r/androiddev/comments/1xmtqsl/how_do_you_handle_porting_and_maintaining_native/)
+- [Built an Android app to simulate different network conditions on real devices](https://www.reddit.com/r/androiddev/comments/1xmocdh/built_an_android_app_to_simulate_different/)
 - [I feel like my app&#39;s design is really bad even when i redesign it. I can&#39;t look at it and think it&#39;s good](https://www.reddit.com/r/androiddev/comments/1xm62ws/i_feel_like_my_apps_design_is_really_bad_even/)
 - [ICYMI: Every Android Dev Summit 2026 VOD is now live, and it’s now easier than ever to get caught up!](https://www.reddit.com/r/androiddev/comments/1xm59v9/icymi_every_android_dev_summit_2026_vod_is_now/)
 - [Haze 2.1: Shatterproof Glass](https://www.reddit.com/r/androiddev/comments/1xm518d/haze_21_shatterproof_glass/)
 - [App Memory Usage Test](https://www.reddit.com/r/androiddev/comments/1xm2nr8/app_memory_usage_test/)
-- [How to update to Play Billing 8.0+](https://www.reddit.com/r/androiddev/comments/1xm1l0t/how_to_update_to_play_billing_80/)
-- [System bar appearance API for Compose Multiplatform apps](https://www.reddit.com/r/androiddev/comments/1xltmcf/system_bar_appearance_api_for_compose/)
-- [Architecture discussion: Client-side JIT stream resolution and handling Media3 background network drops in Compose](https://www.reddit.com/r/androiddev/comments/1xltfoi/architecture_discussion_clientside_jit_stream/)
-- [I made an Android Studio plugin that previews iconfont glyphs beside your code](https://www.reddit.com/r/androiddev/comments/1xlr0v0/i_made_an_android_studio_plugin_that_previews/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
