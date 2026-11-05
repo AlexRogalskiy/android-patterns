@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I’ve completely revamped my Android music player, and it’s finally at a place where I&#39;m happy with it!](https://www.reddit.com/r/androiddev/comments/1xnh4pl/ive_completely_revamped_my_android_music_player/)
-- [It looks like StubHub published their internal app on the Play Store](https://www.reddit.com/r/androiddev/comments/1xnfa3w/it_looks_like_stubhub_published_their_internal/)
-- [What should Android do in the age of AI?](https://www.reddit.com/r/androiddev/comments/1xnbsjs/what_should_android_do_in_the_age_of_ai/)
-- [How can I emulate Android 2.3.7 on android studio](https://www.reddit.com/r/androiddev/comments/1xn8v0w/how_can_i_emulate_android_237_on_android_studio/)
-- [How do you handle porting and maintaining native Android and iOS apps? I&#39;m exploring a possible solution.](https://www.reddit.com/r/androiddev/comments/1xmtqsl/how_do_you_handle_porting_and_maintaining_native/)
-- [Built an Android app to simulate different network conditions on real devices](https://www.reddit.com/r/androiddev/comments/1xmocdh/built_an_android_app_to_simulate_different/)
-- [I feel like my app&#39;s design is really bad even when i redesign it. I can&#39;t look at it and think it&#39;s good](https://www.reddit.com/r/androiddev/comments/1xm62ws/i_feel_like_my_apps_design_is_really_bad_even/)
-- [ICYMI: Every Android Dev Summit 2026 VOD is now live, and it’s now easier than ever to get caught up!](https://www.reddit.com/r/androiddev/comments/1xm59v9/icymi_every_android_dev_summit_2026_vod_is_now/)
-- [Haze 2.1: Shatterproof Glass](https://www.reddit.com/r/androiddev/comments/1xm518d/haze_21_shatterproof_glass/)
-- [App Memory Usage Test](https://www.reddit.com/r/androiddev/comments/1xm2nr8/app_memory_usage_test/)
+- [Anyone else confused by the Play Console &quot;Declare your trader status to continue publishing and distributing apps&quot; prompt? &lpar;Solo dev with a personal account&rpar;](https://www.reddit.com/r/androiddev/comments/1xoaymz/anyone_else_confused_by_the_play_console_declare/)
+- [Migrating My Solo App to Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1xoabsm/migrating_my_solo_app_to_kotlin_multiplatform/)
+- [Robolectric NATIVE graphics for Compose screenshots: is anyone using it instead of Paparazzi or Roborazzi?](https://www.reddit.com/r/androiddev/comments/1xo8pwy/robolectric_native_graphics_for_compose/)
+- [Google will doxx you next year if you have apps in UK or EU ?????](https://www.reddit.com/r/androiddev/comments/1xo36zf/google_will_doxx_you_next_year_if_you_have_apps/)
+- [I built AspectK – AOP for Android and Kotlin Multiplatform, an alternative to AspectJ](https://www.reddit.com/r/androiddev/comments/1xnymla/i_built_aspectk_aop_for_android_and_kotlin/)
+- [Pragmatic Clean Architecture skill](https://www.reddit.com/r/androiddev/comments/1xnsp4i/pragmatic_clean_architecture_skill/)
+- [Play Console declaration: why must a non-trader consent to address being shown publicly?](https://www.reddit.com/r/androiddev/comments/1xnpqch/play_console_declaration_why_must_a_nontrader/)
+- [iOS dev here, want to bring my alarm app to Android. Any advice?](https://www.reddit.com/r/androiddev/comments/1xnp4sk/ios_dev_here_want_to_bring_my_alarm_app_to/)
+- [Anyone run Android Emulators on an external SSD on a MacBook Pro 2021?](https://www.reddit.com/r/androiddev/comments/1xnmu0p/anyone_run_android_emulators_on_an_external_ssd/)
+- [I made an open-source Android launcher that an AI coding agent customizes for you](https://www.reddit.com/r/androiddev/comments/1xnlvbe/i_made_an_opensource_android_launcher_that_an_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
