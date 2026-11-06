@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thank you](https://www.reddit.com/r/androiddev/comments/1xp5cre/thank_you/)
+- [instant review times!](https://www.reddit.com/r/androiddev/comments/1xp43jh/instant_review_times/)
+- [Shipping my first app to Google Play solo: the parts that took longer than writing the app](https://www.reddit.com/r/androiddev/comments/1xowxhq/shipping_my_first_app_to_google_play_solo_the/)
+- [Android Studio Rabbit 3 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1xopgup/android_studio_rabbit_3_canary_3_now_available/)
+- [Android Studio Rabbit 2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1xomamb/android_studio_rabbit_2_patch_1_now_available/)
 - [Anyone else confused by the Play Console &quot;Declare your trader status to continue publishing and distributing apps&quot; prompt? &lpar;Solo dev with a personal account&rpar;](https://www.reddit.com/r/androiddev/comments/1xoaymz/anyone_else_confused_by_the_play_console_declare/)
-- [Migrating My Solo App to Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1xoabsm/migrating_my_solo_app_to_kotlin_multiplatform/)
 - [Robolectric NATIVE graphics for Compose screenshots: is anyone using it instead of Paparazzi or Roborazzi?](https://www.reddit.com/r/androiddev/comments/1xo8pwy/robolectric_native_graphics_for_compose/)
 - [Google will doxx you next year if you have apps in UK or EU ?????](https://www.reddit.com/r/androiddev/comments/1xo36zf/google_will_doxx_you_next_year_if_you_have_apps/)
 - [I built AspectK – AOP for Android and Kotlin Multiplatform, an alternative to AspectJ](https://www.reddit.com/r/androiddev/comments/1xnymla/i_built_aspectk_aop_for_android_and_kotlin/)
 - [Pragmatic Clean Architecture skill](https://www.reddit.com/r/androiddev/comments/1xnsp4i/pragmatic_clean_architecture_skill/)
-- [Play Console declaration: why must a non-trader consent to address being shown publicly?](https://www.reddit.com/r/androiddev/comments/1xnpqch/play_console_declaration_why_must_a_nontrader/)
-- [iOS dev here, want to bring my alarm app to Android. Any advice?](https://www.reddit.com/r/androiddev/comments/1xnp4sk/ios_dev_here_want_to_bring_my_alarm_app_to/)
-- [Anyone run Android Emulators on an external SSD on a MacBook Pro 2021?](https://www.reddit.com/r/androiddev/comments/1xnmu0p/anyone_run_android_emulators_on_an_external_ssd/)
-- [I made an open-source Android launcher that an AI coding agent customizes for you](https://www.reddit.com/r/androiddev/comments/1xnlvbe/i_made_an_opensource_android_launcher_that_an_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
