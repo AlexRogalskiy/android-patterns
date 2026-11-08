@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Thank you](https://www.reddit.com/r/androiddev/comments/1xp5cre/thank_you/)
-- [instant review times!](https://www.reddit.com/r/androiddev/comments/1xp43jh/instant_review_times/)
-- [Shipping my first app to Google Play solo: the parts that took longer than writing the app](https://www.reddit.com/r/androiddev/comments/1xowxhq/shipping_my_first_app_to_google_play_solo_the/)
-- [Android Studio Rabbit 3 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1xopgup/android_studio_rabbit_3_canary_3_now_available/)
-- [Android Studio Rabbit 2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1xomamb/android_studio_rabbit_2_patch_1_now_available/)
-- [Anyone else confused by the Play Console &quot;Declare your trader status to continue publishing and distributing apps&quot; prompt? &lpar;Solo dev with a personal account&rpar;](https://www.reddit.com/r/androiddev/comments/1xoaymz/anyone_else_confused_by_the_play_console_declare/)
-- [Robolectric NATIVE graphics for Compose screenshots: is anyone using it instead of Paparazzi or Roborazzi?](https://www.reddit.com/r/androiddev/comments/1xo8pwy/robolectric_native_graphics_for_compose/)
-- [Google will doxx you next year if you have apps in UK or EU ?????](https://www.reddit.com/r/androiddev/comments/1xo36zf/google_will_doxx_you_next_year_if_you_have_apps/)
-- [I built AspectK – AOP for Android and Kotlin Multiplatform, an alternative to AspectJ](https://www.reddit.com/r/androiddev/comments/1xnymla/i_built_aspectk_aop_for_android_and_kotlin/)
-- [Pragmatic Clean Architecture skill](https://www.reddit.com/r/androiddev/comments/1xnsp4i/pragmatic_clean_architecture_skill/)
+- [How Google play console verify the ID / bank statement?](https://www.reddit.com/r/androiddev/comments/1xqs15i/how_google_play_console_verify_the_id_bank/)
+- [String protection against decompilation](https://www.reddit.com/r/androiddev/comments/1xqiqk8/string_protection_against_decompilation/)
+- [Submission rejection confusion!! Tests work, Reviewers dont...?](https://www.reddit.com/r/androiddev/comments/1xqhro9/submission_rejection_confusion_tests_work/)
+- [[Academic Research] Android developers wanted for a survey on MVVM vs. MVI in Jetpack Compose + expert interviews](https://www.reddit.com/r/androiddev/comments/1xqg5bf/academic_research_android_developers_wanted_for_a/)
+- [How do you restore this without restarting AS on macOS after battery dies?](https://www.reddit.com/r/androiddev/comments/1xq8zl0/how_do_you_restore_this_without_restarting_as_on/)
+- [More features to the Real time compose playground](https://www.reddit.com/r/androiddev/comments/1xq1p6a/more_features_to_the_real_time_compose_playground/)
+- [My app is being force-stopped during Google Play services &lpar;GMS&rpar; updates.](https://www.reddit.com/r/androiddev/comments/1xpyx5b/my_app_is_being_forcestopped_during_google_play/)
+- [I managed to get android emulator running on Windows on ARM &lpar;AI used, unofficial open-sourced Android Studio&rpar;](https://www.reddit.com/r/androiddev/comments/1xpvaw7/i_managed_to_get_android_emulator_running_on/)
+- [Gradle 9.9.0 Released](https://www.reddit.com/r/androiddev/comments/1xpn7qa/gradle_990_released/)
+- [Android 17 market share is now at 20%](https://www.reddit.com/r/androiddev/comments/1xp6x1o/android_17_market_share_is_now_at_20/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
