@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [If I don&#39;t have 12 people to ask for closed testing, does my app never see the sun?](https://www.reddit.com/r/androiddev/comments/1xrjok5/if_i_dont_have_12_people_to_ask_for_closed/)
+- [Help me nail specific Material 2 aesthetic](https://www.reddit.com/r/androiddev/comments/1xrf299/help_me_nail_specific_material_2_aesthetic/)
+- [[Dev post] S File Encryptor — local file encryption, metadata removal and secure deletion for Android &lpar;open source&rpar;](https://www.reddit.com/r/androiddev/comments/1xr1kgi/dev_post_s_file_encryptor_local_file_encryption/)
+- [RevenueCat reports significantly more new customers than Google Play installs — anyone experienced this?](https://www.reddit.com/r/androiddev/comments/1xqt3ej/revenuecat_reports_significantly_more_new/)
+- [is any one can tell me best way install android studio to fedora 45?](https://www.reddit.com/r/androiddev/comments/1xqs8jj/is_any_one_can_tell_me_best_way_install_android/)
 - [How Google play console verify the ID / bank statement?](https://www.reddit.com/r/androiddev/comments/1xqs15i/how_google_play_console_verify_the_id_bank/)
 - [String protection against decompilation](https://www.reddit.com/r/androiddev/comments/1xqiqk8/string_protection_against_decompilation/)
 - [Submission rejection confusion!! Tests work, Reviewers dont...?](https://www.reddit.com/r/androiddev/comments/1xqhro9/submission_rejection_confusion_tests_work/)
 - [[Academic Research] Android developers wanted for a survey on MVVM vs. MVI in Jetpack Compose + expert interviews](https://www.reddit.com/r/androiddev/comments/1xqg5bf/academic_research_android_developers_wanted_for_a/)
 - [How do you restore this without restarting AS on macOS after battery dies?](https://www.reddit.com/r/androiddev/comments/1xq8zl0/how_do_you_restore_this_without_restarting_as_on/)
-- [More features to the Real time compose playground](https://www.reddit.com/r/androiddev/comments/1xq1p6a/more_features_to_the_real_time_compose_playground/)
-- [My app is being force-stopped during Google Play services &lpar;GMS&rpar; updates.](https://www.reddit.com/r/androiddev/comments/1xpyx5b/my_app_is_being_forcestopped_during_google_play/)
-- [I managed to get android emulator running on Windows on ARM &lpar;AI used, unofficial open-sourced Android Studio&rpar;](https://www.reddit.com/r/androiddev/comments/1xpvaw7/i_managed_to_get_android_emulator_running_on/)
-- [Gradle 9.9.0 Released](https://www.reddit.com/r/androiddev/comments/1xpn7qa/gradle_990_released/)
-- [Android 17 market share is now at 20%](https://www.reddit.com/r/androiddev/comments/1xp6x1o/android_17_market_share_is_now_at_20/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
