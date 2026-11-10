@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Offerwall / rewarded ads for a new coin-based app: which networks approve low-traffic apps?](https://www.reddit.com/r/androiddev/comments/1xs9dbq/offerwall_rewarded_ads_for_a_new_coinbased_app/)
+- [How Does Google Play Review Apps with a One-Time In-App Purchase?](https://www.reddit.com/r/androiddev/comments/1xs0jzj/how_does_google_play_review_apps_with_a_onetime/)
+- [Where is the layout folder?](https://www.reddit.com/r/androiddev/comments/1xryznz/where_is_the_layout_folder/)
+- [Update: Google fixed the declaration consent form for non-traders](https://www.reddit.com/r/androiddev/comments/1xrqpbp/update_google_fixed_the_declaration_consent_form/)
+- [Google payment verification sends me in a Kafka loop](https://www.reddit.com/r/androiddev/comments/1xrlgz7/google_payment_verification_sends_me_in_a_kafka/)
 - [If I don&#39;t have 12 people to ask for closed testing, does my app never see the sun?](https://www.reddit.com/r/androiddev/comments/1xrjok5/if_i_dont_have_12_people_to_ask_for_closed/)
 - [Help me nail specific Material 2 aesthetic](https://www.reddit.com/r/androiddev/comments/1xrf299/help_me_nail_specific_material_2_aesthetic/)
-- [[Dev post] S File Encryptor — local file encryption, metadata removal and secure deletion for Android &lpar;open source&rpar;](https://www.reddit.com/r/androiddev/comments/1xr1kgi/dev_post_s_file_encryptor_local_file_encryption/)
 - [RevenueCat reports significantly more new customers than Google Play installs — anyone experienced this?](https://www.reddit.com/r/androiddev/comments/1xqt3ej/revenuecat_reports_significantly_more_new/)
 - [is any one can tell me best way install android studio to fedora 45?](https://www.reddit.com/r/androiddev/comments/1xqs8jj/is_any_one_can_tell_me_best_way_install_android/)
 - [How Google play console verify the ID / bank statement?](https://www.reddit.com/r/androiddev/comments/1xqs15i/how_google_play_console_verify_the_id_bank/)
-- [String protection against decompilation](https://www.reddit.com/r/androiddev/comments/1xqiqk8/string_protection_against_decompilation/)
-- [Submission rejection confusion!! Tests work, Reviewers dont...?](https://www.reddit.com/r/androiddev/comments/1xqhro9/submission_rejection_confusion_tests_work/)
-- [[Academic Research] Android developers wanted for a survey on MVVM vs. MVI in Jetpack Compose + expert interviews](https://www.reddit.com/r/androiddev/comments/1xqg5bf/academic_research_android_developers_wanted_for_a/)
-- [How do you restore this without restarting AS on macOS after battery dies?](https://www.reddit.com/r/androiddev/comments/1xq8zl0/how_do_you_restore_this_without_restarting_as_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
