@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What’s one Android app you can’t live without, but nobody talks about?](https://www.reddit.com/r/androiddev/comments/1xt6alc/whats_one_android_app_you_cant_live_without_but/)
+- [I built a music streaming app for Android that runs its own Python server inside the APK](https://www.reddit.com/r/androiddev/comments/1xt36fr/i_built_a_music_streaming_app_for_android_that/)
+- [Advice on closed testing for a niche magic app](https://www.reddit.com/r/androiddev/comments/1xsjfz0/advice_on_closed_testing_for_a_niche_magic_app/)
+- [How simple should a beginner Android app be?](https://www.reddit.com/r/androiddev/comments/1xsihvn/how_simple_should_a_beginner_android_app_be/)
+- [Finding a good kotlin language course](https://www.reddit.com/r/androiddev/comments/1xshsks/finding_a_good_kotlin_language_course/)
+- [Google Play Developer Account in Alberta, Canada — Do I Need to Register a Business?](https://www.reddit.com/r/androiddev/comments/1xsdjot/google_play_developer_account_in_alberta_canada/)
+- [Legitimate corporate developer account terminated under DDA 11.4 due to administrative &quot;Non-Trader&quot; misconfiguration. Stuck in automated rejection loop &lpar;Routing ID: ZLFS&rpar;. Any advice on reaching human review?](https://www.reddit.com/r/androiddev/comments/1xscpgw/legitimate_corporate_developer_account_terminated/)
 - [Offerwall / rewarded ads for a new coin-based app: which networks approve low-traffic apps?](https://www.reddit.com/r/androiddev/comments/1xs9dbq/offerwall_rewarded_ads_for_a_new_coinbased_app/)
 - [How Does Google Play Review Apps with a One-Time In-App Purchase?](https://www.reddit.com/r/androiddev/comments/1xs0jzj/how_does_google_play_review_apps_with_a_onetime/)
 - [Where is the layout folder?](https://www.reddit.com/r/androiddev/comments/1xryznz/where_is_the_layout_folder/)
-- [Update: Google fixed the declaration consent form for non-traders](https://www.reddit.com/r/androiddev/comments/1xrqpbp/update_google_fixed_the_declaration_consent_form/)
-- [Google payment verification sends me in a Kafka loop](https://www.reddit.com/r/androiddev/comments/1xrlgz7/google_payment_verification_sends_me_in_a_kafka/)
-- [If I don&#39;t have 12 people to ask for closed testing, does my app never see the sun?](https://www.reddit.com/r/androiddev/comments/1xrjok5/if_i_dont_have_12_people_to_ask_for_closed/)
-- [Help me nail specific Material 2 aesthetic](https://www.reddit.com/r/androiddev/comments/1xrf299/help_me_nail_specific_material_2_aesthetic/)
-- [RevenueCat reports significantly more new customers than Google Play installs — anyone experienced this?](https://www.reddit.com/r/androiddev/comments/1xqt3ej/revenuecat_reports_significantly_more_new/)
-- [is any one can tell me best way install android studio to fedora 45?](https://www.reddit.com/r/androiddev/comments/1xqs8jj/is_any_one_can_tell_me_best_way_install_android/)
-- [How Google play console verify the ID / bank statement?](https://www.reddit.com/r/androiddev/comments/1xqs15i/how_google_play_console_verify_the_id_bank/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
