@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What’s one Android app you can’t live without, but nobody talks about?](https://www.reddit.com/r/androiddev/comments/1xt6alc/whats_one_android_app_you_cant_live_without_but/)
-- [I built a music streaming app for Android that runs its own Python server inside the APK](https://www.reddit.com/r/androiddev/comments/1xt36fr/i_built_a_music_streaming_app_for_android_that/)
-- [Advice on closed testing for a niche magic app](https://www.reddit.com/r/androiddev/comments/1xsjfz0/advice_on_closed_testing_for_a_niche_magic_app/)
-- [How simple should a beginner Android app be?](https://www.reddit.com/r/androiddev/comments/1xsihvn/how_simple_should_a_beginner_android_app_be/)
-- [Finding a good kotlin language course](https://www.reddit.com/r/androiddev/comments/1xshsks/finding_a_good_kotlin_language_course/)
-- [Google Play Developer Account in Alberta, Canada — Do I Need to Register a Business?](https://www.reddit.com/r/androiddev/comments/1xsdjot/google_play_developer_account_in_alberta_canada/)
-- [Legitimate corporate developer account terminated under DDA 11.4 due to administrative &quot;Non-Trader&quot; misconfiguration. Stuck in automated rejection loop &lpar;Routing ID: ZLFS&rpar;. Any advice on reaching human review?](https://www.reddit.com/r/androiddev/comments/1xscpgw/legitimate_corporate_developer_account_terminated/)
-- [Offerwall / rewarded ads for a new coin-based app: which networks approve low-traffic apps?](https://www.reddit.com/r/androiddev/comments/1xs9dbq/offerwall_rewarded_ads_for_a_new_coinbased_app/)
-- [How Does Google Play Review Apps with a One-Time In-App Purchase?](https://www.reddit.com/r/androiddev/comments/1xs0jzj/how_does_google_play_review_apps_with_a_onetime/)
-- [Where is the layout folder?](https://www.reddit.com/r/androiddev/comments/1xryznz/where_is_the_layout_folder/)
+- [AppState | Jetpack Compose &lpar;Android&rpar;](https://www.reddit.com/r/androiddev/comments/1xu6o39/appstate_jetpack_compose_android/)
+- [How do I remove edit with base44 watermark for free? Also after I package it with despia how do I remove the watermark from despia as well?](https://www.reddit.com/r/androiddev/comments/1xu5uw9/how_do_i_remove_edit_with_base44_watermark_for/)
+- [Android Studio Rabbit 3 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1xu500u/android_studio_rabbit_3_rc_1_now_available/)
+- [GlassCast, a podcast app](https://www.reddit.com/r/androiddev/comments/1xu2ch3/glasscast_a_podcast_app/)
+- [Intellij IDEA code inspections as Detekt rules](https://www.reddit.com/r/androiddev/comments/1xtv19v/intellij_idea_code_inspections_as_detekt_rules/)
+- [How do you debug on-device ML inference &lpar;LiteRT / ONNX Runtime&rpar; in a shipped Android app?](https://www.reddit.com/r/androiddev/comments/1xtr2p8/how_do_you_debug_ondevice_ml_inference_litert/)
+- [Show &amp; Tell: Built a Compose UI with an Offline-First Firebase Backend for a Healthcare App. Would love some architecture feedback!](https://www.reddit.com/r/androiddev/comments/1xtpl1x/show_tell_built_a_compose_ui_with_an_offlinefirst/)
+- [Unpopular opinion: Does every mobile app really need AI now a day?](https://www.reddit.com/r/androiddev/comments/1xtp06c/unpopular_opinion_does_every_mobile_app_really/)
+- [Beta is not available to new users](https://www.reddit.com/r/androiddev/comments/1xtm4zr/beta_is_not_available_to_new_users/)
+- [Android Messenger: Updated APIs and Source Code](https://www.reddit.com/r/androiddev/comments/1xtd4se/android_messenger_updated_apis_and_source_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
