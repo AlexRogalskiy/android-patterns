@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Prevue: Compose Previews without Android Studio, in your browser](https://www.reddit.com/r/androiddev/comments/1xv073v/prevue_compose_previews_without_android_studio_in/)
+- [Safest backend-server as a beginner?](https://www.reddit.com/r/androiddev/comments/1xuszeg/safest_backendserver_as_a_beginner/)
+- [My Google Play Developer Account Was Terminated After Closed Testing and Production Access Approval – Need Help Understanding the Reason](https://www.reddit.com/r/androiddev/comments/1xur032/my_google_play_developer_account_was_terminated/)
+- [Play Console–only startup crash spike after updates, invisible to Crashlytics. Anyone else?](https://www.reddit.com/r/androiddev/comments/1xuoclm/play_consoleonly_startup_crash_spike_after/)
+- [Kotensor – Run and fine-tune LLMs on Android in pure Kotlin &lpar;no C++/NDK or JNI binaries&rpar;](https://www.reddit.com/r/androiddev/comments/1xufale/kotensor_run_and_finetune_llms_on_android_in_pure/)
+- [Difficulty understand large android codebases as an open source contributor](https://www.reddit.com/r/androiddev/comments/1xudiyy/difficulty_understand_large_android_codebases_as/)
+- [Robolectric and the case of the missing Gradle task caching](https://www.reddit.com/r/androiddev/comments/1xubh1r/robolectric_and_the_case_of_the_missing_gradle/)
+- [An animated border beam for Jetpack Compose, AGSL shader powered](https://www.reddit.com/r/androiddev/comments/1xuaovm/an_animated_border_beam_for_jetpack_compose_agsl/)
+- [As an Android app developer, would you consider that utilizing the App Review API for prompting the users to rate or write review is worthy?](https://www.reddit.com/r/androiddev/comments/1xu9b13/as_an_android_app_developer_would_you_consider/)
 - [AppState | Jetpack Compose &lpar;Android&rpar;](https://www.reddit.com/r/androiddev/comments/1xu6o39/appstate_jetpack_compose_android/)
-- [How do I remove edit with base44 watermark for free? Also after I package it with despia how do I remove the watermark from despia as well?](https://www.reddit.com/r/androiddev/comments/1xu5uw9/how_do_i_remove_edit_with_base44_watermark_for/)
-- [Android Studio Rabbit 3 RC 1 now available](https://www.reddit.com/r/androiddev/comments/1xu500u/android_studio_rabbit_3_rc_1_now_available/)
-- [GlassCast, a podcast app](https://www.reddit.com/r/androiddev/comments/1xu2ch3/glasscast_a_podcast_app/)
-- [Intellij IDEA code inspections as Detekt rules](https://www.reddit.com/r/androiddev/comments/1xtv19v/intellij_idea_code_inspections_as_detekt_rules/)
-- [How do you debug on-device ML inference &lpar;LiteRT / ONNX Runtime&rpar; in a shipped Android app?](https://www.reddit.com/r/androiddev/comments/1xtr2p8/how_do_you_debug_ondevice_ml_inference_litert/)
-- [Show &amp; Tell: Built a Compose UI with an Offline-First Firebase Backend for a Healthcare App. Would love some architecture feedback!](https://www.reddit.com/r/androiddev/comments/1xtpl1x/show_tell_built_a_compose_ui_with_an_offlinefirst/)
-- [Unpopular opinion: Does every mobile app really need AI now a day?](https://www.reddit.com/r/androiddev/comments/1xtp06c/unpopular_opinion_does_every_mobile_app_really/)
-- [Beta is not available to new users](https://www.reddit.com/r/androiddev/comments/1xtm4zr/beta_is_not_available_to_new_users/)
-- [Android Messenger: Updated APIs and Source Code](https://www.reddit.com/r/androiddev/comments/1xtd4se/android_messenger_updated_apis_and_source_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
