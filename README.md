@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need Feedback on Mobile Game Button Placement!](https://www.reddit.com/r/androiddev/comments/1xvw0iy/need_feedback_on_mobile_game_button_placement/)
+- [mpvium 1.5.0 — Shipping the biggest update to my Android media player &lpar;75+ changes&rpar;](https://www.reddit.com/r/androiddev/comments/1xvvwyk/mpvium_150_shipping_the_biggest_update_to_my/)
+- [Receipt validation? Yay or nay?](https://www.reddit.com/r/androiddev/comments/1xvvbsm/receipt_validation_yay_or_nay/)
+- [More testing required??](https://www.reddit.com/r/androiddev/comments/1xvnz79/more_testing_required/)
+- [Android studio rabbit 2 patch classic code completion not working](https://www.reddit.com/r/androiddev/comments/1xvl5vj/android_studio_rabbit_2_patch_classic_code/)
+- [What is your favorite technical interview question you were asked?](https://www.reddit.com/r/androiddev/comments/1xvfhs6/what_is_your_favorite_technical_interview/)
 - [Prevue: Compose Previews without Android Studio, in your browser](https://www.reddit.com/r/androiddev/comments/1xv073v/prevue_compose_previews_without_android_studio_in/)
 - [Safest backend-server as a beginner?](https://www.reddit.com/r/androiddev/comments/1xuszeg/safest_backendserver_as_a_beginner/)
 - [My Google Play Developer Account Was Terminated After Closed Testing and Production Access Approval – Need Help Understanding the Reason](https://www.reddit.com/r/androiddev/comments/1xur032/my_google_play_developer_account_was_terminated/)
 - [Play Console–only startup crash spike after updates, invisible to Crashlytics. Anyone else?](https://www.reddit.com/r/androiddev/comments/1xuoclm/play_consoleonly_startup_crash_spike_after/)
-- [Kotensor – Run and fine-tune LLMs on Android in pure Kotlin &lpar;no C++/NDK or JNI binaries&rpar;](https://www.reddit.com/r/androiddev/comments/1xufale/kotensor_run_and_finetune_llms_on_android_in_pure/)
-- [Difficulty understand large android codebases as an open source contributor](https://www.reddit.com/r/androiddev/comments/1xudiyy/difficulty_understand_large_android_codebases_as/)
-- [Robolectric and the case of the missing Gradle task caching](https://www.reddit.com/r/androiddev/comments/1xubh1r/robolectric_and_the_case_of_the_missing_gradle/)
-- [An animated border beam for Jetpack Compose, AGSL shader powered](https://www.reddit.com/r/androiddev/comments/1xuaovm/an_animated_border_beam_for_jetpack_compose_agsl/)
-- [As an Android app developer, would you consider that utilizing the App Review API for prompting the users to rate or write review is worthy?](https://www.reddit.com/r/androiddev/comments/1xu9b13/as_an_android_app_developer_would_you_consider/)
-- [AppState | Jetpack Compose &lpar;Android&rpar;](https://www.reddit.com/r/androiddev/comments/1xu6o39/appstate_jetpack_compose_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
