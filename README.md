@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need Feedback on Mobile Game Button Placement!](https://www.reddit.com/r/androiddev/comments/1xvw0iy/need_feedback_on_mobile_game_button_placement/)
-- [mpvium 1.5.0 — Shipping the biggest update to my Android media player &lpar;75+ changes&rpar;](https://www.reddit.com/r/androiddev/comments/1xvvwyk/mpvium_150_shipping_the_biggest_update_to_my/)
-- [Receipt validation? Yay or nay?](https://www.reddit.com/r/androiddev/comments/1xvvbsm/receipt_validation_yay_or_nay/)
-- [More testing required??](https://www.reddit.com/r/androiddev/comments/1xvnz79/more_testing_required/)
-- [Android studio rabbit 2 patch classic code completion not working](https://www.reddit.com/r/androiddev/comments/1xvl5vj/android_studio_rabbit_2_patch_classic_code/)
-- [What is your favorite technical interview question you were asked?](https://www.reddit.com/r/androiddev/comments/1xvfhs6/what_is_your_favorite_technical_interview/)
-- [Prevue: Compose Previews without Android Studio, in your browser](https://www.reddit.com/r/androiddev/comments/1xv073v/prevue_compose_previews_without_android_studio_in/)
-- [Safest backend-server as a beginner?](https://www.reddit.com/r/androiddev/comments/1xuszeg/safest_backendserver_as_a_beginner/)
-- [My Google Play Developer Account Was Terminated After Closed Testing and Production Access Approval – Need Help Understanding the Reason](https://www.reddit.com/r/androiddev/comments/1xur032/my_google_play_developer_account_was_terminated/)
-- [Play Console–only startup crash spike after updates, invisible to Crashlytics. Anyone else?](https://www.reddit.com/r/androiddev/comments/1xuoclm/play_consoleonly_startup_crash_spike_after/)
+- [Clarifying Google Play Console Internal vs. Closed Testing &lpar;14-Day Requirement&rpar; &amp; Tester Opt-In Issues](https://www.reddit.com/r/androiddev/comments/1xwlrzz/clarifying_google_play_console_internal_vs_closed/)
+- [best approach to creating a new dev account , personal vs LLC?](https://www.reddit.com/r/androiddev/comments/1xwj0l8/best_approach_to_creating_a_new_dev_account/)
+- [How did Pakistani devs actually get a free DUNS number for Google Play? dnb.com breaks, dnbsame.com has no form](https://www.reddit.com/r/androiddev/comments/1xwg9mw/how_did_pakistani_devs_actually_get_a_free_duns/)
+- [How do I find slow spots in a single function?](https://www.reddit.com/r/androiddev/comments/1xwf9pp/how_do_i_find_slow_spots_in_a_single_function/)
+- [Live performance for Android apps in your terminal!](https://www.reddit.com/r/androiddev/comments/1xwdl65/live_performance_for_android_apps_in_your_terminal/)
+- [Built a native Android XR spatial terminal with Jetpack Compose, Gemini 1.5 Flash, and a life-sized 3D AI companion &lpar;A.E.G.I.S.&rpar;](https://www.reddit.com/r/androiddev/comments/1xwcrs3/built_a_native_android_xr_spatial_terminal_with/)
+- [Google Play developer account verified in my home country, then moved to Canada—should I update my details?](https://www.reddit.com/r/androiddev/comments/1xwcolm/google_play_developer_account_verified_in_my_home/)
+- [How do you handle Russian customers, since they can&#39;t pay via Google?](https://www.reddit.com/r/androiddev/comments/1xwcgk1/how_do_you_handle_russian_customers_since_they/)
+- [Is Google Play currently slow at replying to tickets about inappropriate reviews by users?](https://www.reddit.com/r/androiddev/comments/1xw558u/is_google_play_currently_slow_at_replying_to/)
+- [Android Developers with 2–3 Years of Experience, How Are You Preparing for Your Next Career Move?](https://www.reddit.com/r/androiddev/comments/1xw2hhs/android_developers_with_23_years_of_experience/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
