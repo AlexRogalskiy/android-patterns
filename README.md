@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone know how to use VS Code for building android apps instead of Android Studio?](https://www.reddit.com/r/androiddev/comments/1xxiam8/does_anyone_know_how_to_use_vs_code_for_building/)
+- [Anyone here built and maintained native apps on both iOS and Android?](https://www.reddit.com/r/androiddev/comments/1xxevzt/anyone_here_built_and_maintained_native_apps_on/)
+- [Android Screen Input Area Question](https://www.reddit.com/r/androiddev/comments/1xx2ji1/android_screen_input_area_question/)
+- [Vitrine Studio - Store Screenshots with MCP and CI/CD &lpar;open source&rpar;](https://www.reddit.com/r/androiddev/comments/1xwwj2w/vitrine_studio_store_screenshots_with_mcp_and/)
+- [Kotlin 2026: Layoffs, AI, Google — Is the Golden Age Over? Jake Wharton Explains](https://www.reddit.com/r/androiddev/comments/1xwwf8y/kotlin_2026_layoffs_ai_google_is_the_golden_age/)
+- [Android silently downgrades long-running BLE scans after 5 minutes: measurements, logcat and AOSP links](https://www.reddit.com/r/androiddev/comments/1xwuxzy/android_silently_downgrades_longrunning_ble_scans/)
+- [Castwire: a Cast sender for Android with no Play Services and no Media3 dependency &lpar;API 24+&rpar;](https://www.reddit.com/r/androiddev/comments/1xwtxys/castwire_a_cast_sender_for_android_with_no_play/)
+- [Native Vulkan Ar / 3d Viewer for android : Hybrid Raster and ray traced gems.](https://www.reddit.com/r/androiddev/comments/1xws367/native_vulkan_ar_3d_viewer_for_android_hybrid/)
 - [Clarifying Google Play Console Internal vs. Closed Testing &lpar;14-Day Requirement&rpar; &amp; Tester Opt-In Issues](https://www.reddit.com/r/androiddev/comments/1xwlrzz/clarifying_google_play_console_internal_vs_closed/)
 - [best approach to creating a new dev account , personal vs LLC?](https://www.reddit.com/r/androiddev/comments/1xwj0l8/best_approach_to_creating_a_new_dev_account/)
-- [How did Pakistani devs actually get a free DUNS number for Google Play? dnb.com breaks, dnbsame.com has no form](https://www.reddit.com/r/androiddev/comments/1xwg9mw/how_did_pakistani_devs_actually_get_a_free_duns/)
-- [How do I find slow spots in a single function?](https://www.reddit.com/r/androiddev/comments/1xwf9pp/how_do_i_find_slow_spots_in_a_single_function/)
-- [Live performance for Android apps in your terminal!](https://www.reddit.com/r/androiddev/comments/1xwdl65/live_performance_for_android_apps_in_your_terminal/)
-- [Built a native Android XR spatial terminal with Jetpack Compose, Gemini 1.5 Flash, and a life-sized 3D AI companion &lpar;A.E.G.I.S.&rpar;](https://www.reddit.com/r/androiddev/comments/1xwcrs3/built_a_native_android_xr_spatial_terminal_with/)
-- [Google Play developer account verified in my home country, then moved to Canada—should I update my details?](https://www.reddit.com/r/androiddev/comments/1xwcolm/google_play_developer_account_verified_in_my_home/)
-- [How do you handle Russian customers, since they can&#39;t pay via Google?](https://www.reddit.com/r/androiddev/comments/1xwcgk1/how_do_you_handle_russian_customers_since_they/)
-- [Is Google Play currently slow at replying to tickets about inappropriate reviews by users?](https://www.reddit.com/r/androiddev/comments/1xw558u/is_google_play_currently_slow_at_replying_to/)
-- [Android Developers with 2–3 Years of Experience, How Are You Preparing for Your Next Career Move?](https://www.reddit.com/r/androiddev/comments/1xw2hhs/android_developers_with_23_years_of_experience/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
