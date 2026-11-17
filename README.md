@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Does anyone know how to use VS Code for building android apps instead of Android Studio?](https://www.reddit.com/r/androiddev/comments/1xxiam8/does_anyone_know_how_to_use_vs_code_for_building/)
-- [Anyone here built and maintained native apps on both iOS and Android?](https://www.reddit.com/r/androiddev/comments/1xxevzt/anyone_here_built_and_maintained_native_apps_on/)
-- [Android Screen Input Area Question](https://www.reddit.com/r/androiddev/comments/1xx2ji1/android_screen_input_area_question/)
-- [Vitrine Studio - Store Screenshots with MCP and CI/CD &lpar;open source&rpar;](https://www.reddit.com/r/androiddev/comments/1xwwj2w/vitrine_studio_store_screenshots_with_mcp_and/)
-- [Kotlin 2026: Layoffs, AI, Google — Is the Golden Age Over? Jake Wharton Explains](https://www.reddit.com/r/androiddev/comments/1xwwf8y/kotlin_2026_layoffs_ai_google_is_the_golden_age/)
-- [Android silently downgrades long-running BLE scans after 5 minutes: measurements, logcat and AOSP links](https://www.reddit.com/r/androiddev/comments/1xwuxzy/android_silently_downgrades_longrunning_ble_scans/)
-- [Castwire: a Cast sender for Android with no Play Services and no Media3 dependency &lpar;API 24+&rpar;](https://www.reddit.com/r/androiddev/comments/1xwtxys/castwire_a_cast_sender_for_android_with_no_play/)
-- [Native Vulkan Ar / 3d Viewer for android : Hybrid Raster and ray traced gems.](https://www.reddit.com/r/androiddev/comments/1xws367/native_vulkan_ar_3d_viewer_for_android_hybrid/)
-- [Clarifying Google Play Console Internal vs. Closed Testing &lpar;14-Day Requirement&rpar; &amp; Tester Opt-In Issues](https://www.reddit.com/r/androiddev/comments/1xwlrzz/clarifying_google_play_console_internal_vs_closed/)
-- [best approach to creating a new dev account , personal vs LLC?](https://www.reddit.com/r/androiddev/comments/1xwj0l8/best_approach_to_creating_a_new_dev_account/)
+- [Is anyone else experiencing unusually long Google Play review times for app updates?](https://www.reddit.com/r/androiddev/comments/1xyf1wh/is_anyone_else_experiencing_unusually_long_google/)
+- [DashGlance Clock: BIGGER clock for Android Auto. Free, no ads.](https://www.reddit.com/r/androiddev/comments/1xy9uf1/dashglance_clock_bigger_clock_for_android_auto/)
+- [Can I write mobile apps in c](https://www.reddit.com/r/androiddev/comments/1xy8j72/can_i_write_mobile_apps_in_c/)
+- [is there an iOS devicecheck equivalent for android?](https://www.reddit.com/r/androiddev/comments/1xy6krz/is_there_an_ios_devicecheck_equivalent_for_android/)
+- [How I handled background notification listening and battery drain in Kotlin](https://www.reddit.com/r/androiddev/comments/1xy584r/how_i_handled_background_notification_listening/)
+- [US LLC merchant account linked to a Moroccan Google Play developer account — any risk of future address verification?](https://www.reddit.com/r/androiddev/comments/1xy3nme/us_llc_merchant_account_linked_to_a_moroccan/)
+- [BuildBakery: I built a cloud build service for Android &lpar;and iOS and desktop&rpar; from a YAML recipe](https://www.reddit.com/r/androiddev/comments/1xy0fa9/buildbakery_i_built_a_cloud_build_service_for/)
+- [Ai changes](https://www.reddit.com/r/androiddev/comments/1xxy578/ai_changes/)
+- [I built tinychess — a standalone, zero-dependency Android chess app under 70 KB](https://www.reddit.com/r/androiddev/comments/1xxwtdv/i_built_tinychess_a_standalone_zerodependency/)
+- [Android Studio Stingray 1 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1xxt0qm/android_studio_stingray_1_canary_1_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
