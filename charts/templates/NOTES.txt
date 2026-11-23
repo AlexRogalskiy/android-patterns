@@ -1,0 +1,34 @@
+
+Thank you for installing Android Patterns Docs!
+
+- The application has been deployed, but it could take a few minutes to be ready.
+  You can check the rollout using:
+
+  kubectl rollout status deployment {{ include "backend-android-patterns.fullname" . }}
+
+- The Android Patterns Docs webapp are accessible through the landing page:
+{{ if .Values.ingress.enabled }}
+{{- range $host := .Values.ingress.hosts }}
+  {{- range .paths }}
+  http{{ if $.Values.ingress.tls }}s{{ end }}://{{ $host.host }}{{ . }}/android-patterns/
+  {{- end }}
+{{- end }}
+
+{{- else if contains "NodePort" .Values.service.type }}
+  export NODE_PORT=$(kubectl get --namespace {{ .Release.Namespace }} -o jsonpath="{.spec.ports[0].nodePort}" services {{ include "backend-android-patterns.fullname" . }})
+  export NODE_IP=$(kubectl get nodes --namespace {{ .Release.Namespace }} -o jsonpath="{.items[0].status.addresses[0].address}")
+  echo "http://$NODE_IP:$NODE_PORT/android-patterns/"
+
+{{- else if contains "LoadBalancer" .Values.service.type }}
+     NOTE: It may take a few minutes for the LoadBalancer IP to be available.
+           You can watch the status of by running 'kubectl get --namespace {{ .Release.Namespace }} svc -w {{ include "backend-android-patterns.fullname" . }}'
+  export SERVICE_IP=$(kubectl get svc --namespace {{ .Release.Namespace }} {{ include "backend-android-patterns.fullname" . }} --template "{{"{{ range (index .status.loadBalancer.ingress 0) }}{{.}}{{ end }}"}}")
+  echo "http://$SERVICE_IP:{{ .Values.service.port }}/android-patterns/"
+
+{{- else if contains "ClusterIP" .Values.service.type }}
+  kubectl --namespace {{ .Release.Namespace }} port-forward svc/{{ include "backend-android-patterns.fullname" . }} {{ .Values.service.port }}
+  kubectl port-forward $POD_NAME 8000:8000
+  http://localhost:8000/android-patterns/
+{{- end }}
+
+Enjoy automation!
